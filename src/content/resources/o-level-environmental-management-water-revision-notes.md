@@ -162,13 +162,16 @@ concentration in the water, which is why top predators are worst affected.
 
 ## Frequently asked questions
 
-**What are the four stages of water treatment in 5014?** Screening, sedimentation, filtration and
+**What are the four stages of water treatment in 5014?**
+Screening, sedimentation, filtration and
 chlorination, in that order.
 
-**What size is a microplastic?** Less than 5 mm in length. Microplastics form when larger plastics break
+**What size is a microplastic?**
+Less than 5 mm in length. Microplastics form when larger plastics break
 down, or are added to commercial products.
 
-**What is MARPOL?** The International Convention for the Prevention of Pollution from Ships. The 5014
+**What is MARPOL?**
+The International Convention for the Prevention of Pollution from Ships. The 5014
 syllabus names it as a strategy for preventing oil spills.
 
 ## Official syllabus

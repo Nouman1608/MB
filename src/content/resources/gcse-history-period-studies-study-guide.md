@@ -102,11 +102,14 @@ The interpretations need no knowledge of historiography -- you judge them agains
 
 ## Frequently asked questions
 
-**Does Section A use sources?** It uses written **interpretations** -- later views of the past -- not contemporary sources. Sources are used in Section B.
+**Does Section A use sources?**
+It uses written **interpretations** -- later views of the past -- not contemporary sources. Sources are used in Section B.
 
-**Do all three parts get tested?** Yes. AQA states that all three parts of the specified content are tested in each series.
+**Do all three parts get tested?**
+Yes. AQA states that all three parts of the specified content are tested in each series.
 
-**How long should I spend on Section A?** About an hour of the two-hour paper. Question 6 (12 marks) deserves the most time, roughly 20 minutes.
+**How long should I spend on Section A?**
+About an hour of the two-hour paper. Question 6 (12 marks) deserves the most time, roughly 20 minutes.
 
 ## Official specification
 

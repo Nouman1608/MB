@@ -218,11 +218,14 @@ Java and Visual Basic use `try ... catch` blocks in the same way.
 
 ## Frequently asked questions
 
-**What is the difference between inheritance and containment?** Inheritance is an "is-a" relationship: a SavingsAccount is an Account. Containment is "has-a": a Bank has many Account objects as one of its attributes.
+**What is the difference between inheritance and containment?**
+Inheritance is an "is-a" relationship: a SavingsAccount is an Account. Containment is "has-a": a Bank has many Account objects as one of its attributes.
 
-**Why use getters and setters?** They keep attributes private (encapsulation), so the class controls how its data is read and changed, and a setter can validate a new value before storing it.
+**Why use getters and setters?**
+They keep attributes private (encapsulation), so the class controls how its data is read and changed, and a setter can validate a new value before storing it.
 
-**Is low-level programming tested in Paper 4?** No. The syllabus excludes low-level and declarative programming from Paper 4; they are tested in Paper 3.
+**Is low-level programming tested in Paper 4?**
+No. The syllabus excludes low-level and declarative programming from Paper 4; they are tested in Paper 3.
 
 ## Official syllabus
 

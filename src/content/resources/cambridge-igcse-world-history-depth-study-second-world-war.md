@@ -104,11 +104,14 @@ Argue each side with specific consequences (Stalingrad: loss of the Sixth Army, 
 
 ## Frequently asked questions
 
-**Are both theatres equally important?** Yes. Each key question draws on Europe, the Asia-Pacific or both, so revise them in balance.
+**Are both theatres equally important?**
+Yes. Each key question draws on Europe, the Asia-Pacific or both, so revise them in balance.
 
-**What case studies are named?** Malaya and Singapore (Japanese success and control), Poland (Nazi occupation and the Holocaust), and France and Malaya (resistance).
+**What case studies are named?**
+Malaya and Singapore (Japanese success and control), Poland (Nazi occupation and the Holocaust), and France and Malaya (resistance).
 
-**Is the atomic bomb debate examinable?** Yes, under "the decision to use the atomic bomb and its consequences".
+**Is the atomic bomb debate examinable?**
+Yes, under "the decision to use the atomic bomb and its consequences".
 
 ## Official syllabus
 

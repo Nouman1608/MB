@@ -75,7 +75,7 @@ The figures below are approximate and change every year; quote them as dated est
 | Fuel | Main sources | Approximate position (early-to-mid 2020s) |
 |---|---|---|
 | Coal | Thar (Sindh), Lakhra and Sonda (Sindh), Duki, Sor Range and Chamalang (Balochistan), Makarwal and the Salt Range (Punjab) | Thar alone is often quoted at around 175 billion tonnes, but it is lignite with high moisture and ash |
-| Natural gas | Sui (found 1952), Mari, Qadirpur, Uch, Kandhkot, Sawan and Zamzama | Output of roughly 3 billion cubic feet a day and falling; reserves often put at only a decade or two at current use |
+| Natural gas | Sui (found 1952), Mari, Qadirpur, Uch, Kandhkot, Sawan and Zamzama | Output of roughly 3.2 billion cubic feet a day in 2022–23 (Pakistan Economic Survey 2023–24) and falling; reserves often put at only a decade or two at current use |
 | Crude oil | Potwar Plateau fields (Khaur, Dhulian, Toot, Meyal) and Lower Indus fields around Badin | Domestic output covers only around a fifth or less of national demand |
 
 **Coal quality and imports.** Most Pakistani coal is lignite or sub-bituminous, with low heat
@@ -100,7 +100,8 @@ wagons and a large fleet of road tankers, which add to road damage and accident 
 
 ## How is electricity generated in Pakistan?
 
-Pakistan's installed capacity reached roughly 45,000 MW by 2024, a mix of:
+Pakistan's installed capacity was about 42,000 MW in March 2024 (42,131 MW, Pakistan Economic Survey
+2023–24, from NEPRA data), a mix of:
 
 - **Thermal:** stations burning imported furnace oil, gas, LNG, and imported or Thar coal, such
   as the coal plants at Sahiwal, Port Qasim and Thar.

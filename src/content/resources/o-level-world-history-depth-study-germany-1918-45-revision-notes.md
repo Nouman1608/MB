@@ -145,11 +145,14 @@ featured: false
 
 ## Frequently asked questions
 
-**How do I remember the 1932-33 sequence?** Brüning (to May 1932), Papen (to November 1932), Schleicher (to January 1933), then Hitler.
+**How do I remember the 1932-33 sequence?**
+Brüning (to May 1932), Papen (to November 1932), Schleicher (to January 1933), then Hitler.
 
-**What was Kristallnacht?** The violence of 9-10 November 1938 against Jewish synagogues, shops and homes across Germany.
+**What was Kristallnacht?**
+The violence of 9-10 November 1938 against Jewish synagogues, shops and homes across Germany.
 
-**What is the Volksgemeinschaft?** The Nazi ideal of a racially pure, united community replacing class divisions.
+**What is the Volksgemeinschaft?**
+The Nazi ideal of a racially pure, united community replacing class divisions.
 
 ## Self-test
 

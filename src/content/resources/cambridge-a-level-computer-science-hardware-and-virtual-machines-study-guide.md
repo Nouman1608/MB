@@ -106,7 +106,7 @@ Groups of two: the cells 000 and 100 (BC = 00, both values of A) give B'.C'; the
 
 F = B'.C' + B.C + A'.C
 
-I checked this by substituting all eight input combinations: it gives 1 for exactly 000, 001, 011, 100 and 111. For example, input 101 gives B'.C' = 0, B.C = 0 and A'.C = 0, so F = 0, as required. Each term needs fewer gates than the original five-term sum of products.
+Check by substituting all eight input combinations: it gives 1 for exactly 000, 001, 011, 100 and 111. For example, input 101 gives B'.C' = 0, B.C = 0 and A'.C = 0, so F = 0, as required. Each term needs fewer gates than the original five-term sum of products.
 
 ## Common mistakes
 

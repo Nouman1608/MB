@@ -147,10 +147,12 @@ Islam: Beliefs and teachings is examined in OxfordAQA 9237 Paper 1, Section A (2
 
 ## Frequently asked questions
 
-**How many key beliefs are listed?** Six: Tawhid, angels, books, prophethood, the Last Day and
+**How many key beliefs are listed?**
+Six: Tawhid, angels, books, prophethood, the Last Day and
 Al-Qadr, with the belief that all good and bad is from Allah.
 
-**What does the Seal of the Prophets mean?** Hazrat Muhammad (pbuh) is the final prophet, so his
+**What does the Seal of the Prophets mean?**
+Hazrat Muhammad (pbuh) is the final prophet, so his
 message completes and confirms all earlier revelations.
 
 ## Related pages

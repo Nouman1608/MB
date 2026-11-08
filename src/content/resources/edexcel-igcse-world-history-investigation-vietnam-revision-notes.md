@@ -132,13 +132,16 @@ questions with the [A4 practice questions](/resources/edexcel-igcse-world-histor
 
 ## Frequently asked questions
 
-**Why did France lose?** Giap's tactics, Chinese supplies, popular support for the Vietminh and the
+**Why did France lose?**
+Giap's tactics, Chinese supplies, popular support for the Vietminh and the
 disaster at Dien Bien Phu.
 
-**Why was Diem overthrown?** Corruption, nepotism and persecution of Buddhists made him a liability; the
+**Why was Diem overthrown?**
+Corruption, nepotism and persecution of Buddhists made him a liability; the
 USA did not prevent the generals' coup.
 
-**How did the war affect American society?** It divided the country, fuelled protest and damaged trust
+**How did the war affect American society?**
+It divided the country, fuelled protest and damaged trust
 in government.
 
 ## Source

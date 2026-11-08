@@ -120,10 +120,12 @@ directs Muslims back to the Qur'an and Sunnah, reaches the top level.
 
 ## Frequently asked questions
 
-**How long should a 12-mark answer be?** Around a page: two or three developed arguments on each side,
+**How long should a 12-mark answer be?**
+Around a page: two or three developed arguments on each side,
 references to teaching, and a justified conclusion.
 
-**Will a passage be printed?** Yes. In the exam the 12-mark part prints a prescribed passage from
+**Will a passage be printed?**
+Yes. In the exam the 12-mark part prints a prescribed passage from
 Section 6 of the specification, and you must use it in your answer.
 
 *Based on the OxfordAQA International GCSE Islamiat (9237) specification, Version 1.1, topic 3.2.1.*

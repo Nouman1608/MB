@@ -129,14 +129,17 @@ The World Bank classifies economies as **low-income (LICs)**, **middle-income (M
 
 ## Frequently asked questions
 
-**How do I compare two pyramids?** Comment on the base, the middle and the top of each, quote a figure for
+**How do I compare two pyramids?**
+Comment on the base, the middle and the top of each, quote a figure for
 each, then explain the difference using birth rate and life expectancy.
 
-**What is the difference between a push and a pull factor?** A push factor makes people leave a place,
+**What is the difference between a push and a pull factor?**
+A push factor makes people leave a place,
 such as unemployment or conflict. A pull factor attracts them to a new place, such as jobs or better
 services.
 
-**Do I need World Bank income thresholds?** No. The 0680 syllabus asks you to describe the three income
+**Do I need World Bank income thresholds?**
+No. The 0680 syllabus asks you to describe the three income
 groups (LICs, MICs and HICs), not to learn the dollar values, which the World Bank updates each year.
 
 ## Official syllabus

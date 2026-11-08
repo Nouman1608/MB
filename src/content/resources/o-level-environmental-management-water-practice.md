@@ -191,14 +191,17 @@ effective, supported by recycling and safe disposal.
 
 ## Frequently asked questions
 
-**Which oil spill strategies are prevention and which minimise impacts?** Prevention: MARPOL, double-hulled
+**Which oil spill strategies are prevention and which minimise impacts?**
+Prevention: MARPOL, double-hulled
 tankers, risk assessments and maintenance. Minimising impacts: navigation systems, booms and sorbents,
 detergent sprays, skimmers and controlled burning.
 
-**Do I need specific fish species for aquaculture?** No. The syllabus says knowledge of specific species is
+**Do I need specific fish species for aquaculture?**
+No. The syllabus says knowledge of specific species is
 not required; refer to fish, crustaceans and seaweeds.
 
-**How are malaria and cholera controls different?** Malaria is controlled by avoiding bites and reducing
+**How are malaria and cholera controls different?**
+Malaria is controlled by avoiding bites and reducing
 mosquitoes. Cholera is controlled by clean water, sanitation, hygiene and vaccination.
 
 ## Official syllabus

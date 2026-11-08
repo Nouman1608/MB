@@ -124,14 +124,17 @@ areas, concerns about security, seasonal demand, and the risk of environmental d
 
 ## Frequently asked questions
 
-**Why is Sialkot so important?** It has a long tradition of skilled small-scale manufacturing and
+**Why is Sialkot so important?**
+It has a long tradition of skilled small-scale manufacturing and
 is the centre of Pakistan's sports goods and surgical instrument industries, which are mostly
 exported.
 
-**Why is the steel mill near Karachi?** Iron ore and coking coal are mostly imported, so a coastal
+**Why is the steel mill near Karachi?**
+Iron ore and coking coal are mostly imported, so a coastal
 site near Port Qasim cuts transport costs.
 
-**What is value-added?** The increase in value when a raw material is processed. Exporting cloth or
+**What is value-added?**
+The increase in value when a raw material is processed. Exporting cloth or
 garments rather than raw cotton earns more foreign exchange.
 
 ## Related pages

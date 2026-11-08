@@ -230,13 +230,16 @@ stack with `append` and `pop`. In C# and Visual Basic, `Queue<T>` and `Stack<T>`
 
 ## Frequently asked questions
 
-**What is the difference between pop and peek?** Pop returns the top item and removes it; peek
+**What is the difference between pop and peek?**
+Pop returns the top item and removes it; peek
 returns it without removing it.
 
-**Why use a circular queue rather than a linear one?** It reuses space freed by dequeuing without
+**Why use a circular queue rather than a linear one?**
+It reuses space freed by dequeuing without
 moving items, so a fixed-size array can keep operating.
 
-**Is a record the same as an object?** A record only stores data; an object in object-oriented
+**Is a record the same as an object?**
+A record only stores data; an object in object-oriented
 programming also bundles methods. The specification uses classes without methods to create records.
 
 ## Related pages

@@ -92,10 +92,12 @@ In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadiths i
 
 ## Frequently asked questions
 
-**Is it acceptable to use the same application for two Hadiths?** Avoid it. Each answer should show
+**Is it acceptable to use the same application for two Hadiths?**
+Avoid it. Each answer should show
 the particular teaching of that Hadith.
 
-**Should I mention the narrator or collection?** It is not required for marks, but you can note that
+**Should I mention the narrator or collection?**
+It is not required for marks, but you can note that
 the syllabus Hadiths come from al-Bukhari or Muslim.
 
 ## Related pages

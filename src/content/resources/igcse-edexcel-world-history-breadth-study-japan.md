@@ -130,13 +130,16 @@ declaration of war, the **Showa Emperor** (Hirohito) broadcast Japan's surrender
 
 ## Frequently asked questions
 
-**Why did the Tokugawa fall?** Humiliation by the West, weak and divided government, and the rise of
+**Why did the Tokugawa fall?**
+Humiliation by the West, weak and divided government, and the rise of
 Choshu and Satsuma.
 
-**Was Taisho Democracy real?** Partly: party cabinets and male suffrage arrived, but the Peace
+**Was Taisho Democracy real?**
+Partly: party cabinets and male suffrage arrived, but the Peace
 Preservation Law and the independence of the army limited it.
 
-**Which theme suits a (c) essay?** Military expansion, from the 1895 war to 1945, is a common long-span
+**Which theme suits a (c) essay?**
+Military expansion, from the 1895 war to 1945, is a common long-span
 theme.
 
 ## Official syllabus

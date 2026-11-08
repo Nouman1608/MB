@@ -127,11 +127,14 @@ Mantissa 11101000, exponent 0100 (+4). The mantissa starts 11, so it is not norm
 
 ## Frequently asked questions
 
-**Why is a normalised mantissa more precise?** Leading bits that only repeat the sign carry no information. Removing them leaves every mantissa bit free for significant digits.
+**Why is a normalised mantissa more precise?**
+Leading bits that only repeat the sign carry no information. Removing them leaves every mantissa bit free for significant digits.
 
-**What happens if the exponent cannot get any smaller during normalisation?** The value cannot be normalised within that format; if the number is smaller than the format allows, underflow occurs.
+**What happens if the exponent cannot get any smaller during normalisation?**
+The value cannot be normalised within that format; if the number is smaller than the format allows, underflow occurs.
 
-**Can a sequential file be accessed directly?** Yes, if an index of key values and record positions is kept. Without an index, records must be read in sequence.
+**Can a sequential file be accessed directly?**
+Yes, if an index of key values and record positions is kept. Without an index, records must be read in sequence.
 
 ## Official syllabus
 

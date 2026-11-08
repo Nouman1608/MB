@@ -195,13 +195,16 @@ needed." Discuss. **[25]**
 
 ## Frequently asked questions
 
-**How long should a 25-mark answer be?** With 1 hour 30 minutes for three answers, allow about 28-30
+**How long should a 25-mark answer be?**
+With 1 hour 30 minutes for three answers, allow about 28-30
 minutes each. Plan the issues first, then write rule, authority, application and conclusion for each.
 
-**Do I need dates for cases?** Dates are not required, but an accurate case name and what it decided are.
+**Do I need dates for cases?**
+Dates are not required, but an accurate case name and what it decided are.
 Never cite a case you are unsure of; explain the principle instead.
 
-**Can one scenario test several strands?** Yes. Question 2 shows how discharge, implied terms,
+**Can one scenario test several strands?**
+Yes. Question 2 shows how discharge, implied terms,
 exemption clauses and remedies can all appear in a single problem.
 
 ## Official syllabus

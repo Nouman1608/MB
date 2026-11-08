@@ -139,13 +139,16 @@ How far do you agree?*
 
 ## Frequently asked questions
 
-**Why did McCarthy fall?** Television exposed his bullying in the Army–McCarthy hearings, and the
+**Why did McCarthy fall?**
+Television exposed his bullying in the Army–McCarthy hearings, and the
 Senate censured him in 1954.
 
-**Why did Black Power grow after 1965?** Slow change in Northern cities, poverty, police violence, the
+**Why did Black Power grow after 1965?**
+Slow change in Northern cities, poverty, police violence, the
 assassination of Malcolm X and frustration with non-violence.
 
-**What did Watergate change?** It forced Nixon's resignation and led Congress to limit presidential
+**What did Watergate change?**
+It forced Nixon's resignation and led Congress to limit presidential
 power and protect privacy.
 
 ## Source

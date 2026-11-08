@@ -132,9 +132,11 @@ In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the history and
 
 ## Frequently asked questions
 
-**What does "Sihah Sitta" mean?** "The six sound books", the name for the six main Sunni collections.
+**What does "Sihah Sitta" mean?**
+"The six sound books", the name for the six main Sunni collections.
 
-**Did Shi'a and Sunni scholars use the same methods?** Both examined chains and texts, but Shi'a
+**Did Shi'a and Sunni scholars use the same methods?**
+Both examined chains and texts, but Shi'a
 scholars placed particular weight on transmission through the Prophet's family and the Imams.
 
 ## Related pages

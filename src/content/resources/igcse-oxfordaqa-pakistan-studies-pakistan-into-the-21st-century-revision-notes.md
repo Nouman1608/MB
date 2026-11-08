@@ -123,10 +123,12 @@ This topic is examined in OxfordAQA 9236 Paper 1, Section B, worth 28 of the pap
 
 ## Frequently asked questions
 
-**Who were the Prime Ministers after the 2013 election?** Nawaz Sharif until 2017, then Shahid Khaqan
+**Who were the Prime Ministers after the 2013 election?**
+Nawaz Sharif until 2017, then Shahid Khaqan
 Abbasi until 2018.
 
-**What was the Ehsaas programme?** A social-protection and poverty-reduction programme from 2019,
+**What was the Ehsaas programme?**
+A social-protection and poverty-reduction programme from 2019,
 including cash transfers and emergency Covid-19 payments.
 
 ## Related pages

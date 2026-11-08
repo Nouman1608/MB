@@ -139,11 +139,14 @@ cost more or be finite too.
 
 ## Frequently asked questions
 
-**Which rocks are permeable in 5014?** Most sedimentary rocks, limestone and sandstone, are permeable. Igneous rocks, metamorphic rocks and some sedimentary rocks such as shale are impermeable.
+**Which rocks are permeable in 5014?**
+Most sedimentary rocks, limestone and sandstone, are permeable. Igneous rocks, metamorphic rocks and some sedimentary rocks such as shale are impermeable.
 
-**What is the difference between phytomining and bioleaching?** Phytomining uses plants that absorb metal compounds from the soil; the plants are harvested and burned and the metal is recovered from the ash. Bioleaching uses bacteria to release metal compounds from low-grade ore into a solution.
+**What is the difference between phytomining and bioleaching?**
+Phytomining uses plants that absorb metal compounds from the soil; the plants are harvested and burned and the metal is recovered from the ash. Bioleaching uses bacteria to release metal compounds from low-grade ore into a solution.
 
-**Why does ore grade matter?** A higher grade means more metal in each tonne of rock, so less rock has to be mined, moved and processed for the same amount of metal, which lowers cost and reduces waste.
+**Why does ore grade matter?**
+A higher grade means more metal in each tonne of rock, so less rock has to be mined, moved and processed for the same amount of metal, which lowers cost and reduces waste.
 
 ## Self-test
 

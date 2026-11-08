@@ -115,13 +115,16 @@ forgiveness of sins and preparation for meeting Allah.
 
 ## Frequently asked questions
 
-**What is the difference between wudu and ghusl?** Wudu washes parts of the body before prayer; ghusl
+**What is the difference between wudu and ghusl?**
+Wudu washes parts of the body before prayer; ghusl
 is a full-body washing required in certain situations, such as after menstruation.
 
-**Why is zakat not called charity?** It is an obligatory duty with fixed rules, while sadaqa is
+**Why is zakat not called charity?**
+It is an obligatory duty with fixed rules, while sadaqa is
 voluntary charity given at any time.
 
-**What is the significance of ihram?** Its simple white garments remove signs of wealth and status,
+**What is the significance of ihram?**
+Its simple white garments remove signs of wealth and status,
 showing that all are equal before Allah.
 
 ## Related pages

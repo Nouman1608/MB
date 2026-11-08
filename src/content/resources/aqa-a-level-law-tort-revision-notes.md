@@ -193,14 +193,17 @@ encourages careful selection and training.
 
 ## Frequently asked questions
 
-**Where is tort examined in AQA 7162?** On Paper 2, a 2-hour paper of 100 marks: 75 marks on tort and 25
+**Where is tort examined in AQA 7162?**
+On Paper 2, a 2-hour paper of 100 marks: 75 marks on tort and 25
 marks on the nature of law and the English legal system.
 
-**What does "theory of tort law" mean for AQA?** It asks you to evaluate the policy behind the rules: why
+**What does "theory of tort law" mean for AQA?**
+It asks you to evaluate the policy behind the rules: why
 Caparo limits duty, why economic loss and psychiatric injury are restricted, how the objective standard
 is set, how injunctions balance interests and why vicarious liability exists.
 
-**Do I need recent Supreme Court cases?** They strengthen evaluation. Robinson (2018), Barclays and Morrison
+**Do I need recent Supreme Court cases?**
+They strengthen evaluation. Robinson (2018), Barclays and Morrison
 (2020) and Paul (2024) show how the courts are refining duty and vicarious liability.
 
 ## Official specification

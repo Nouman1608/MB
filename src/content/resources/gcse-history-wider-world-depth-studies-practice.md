@@ -108,9 +108,11 @@ AQA GCSE History 8145 Paper 1 Section B sets four questions on your *Conflict an
 
 ## Frequently asked questions
 
-**Should I plan question 4?** Yes. A two-minute plan with both sides and your judgement keeps the essay focused.
+**Should I plan question 4?**
+Yes. A two-minute plan with both sides and your judgement keeps the essay focused.
 
-**What is usefulness?** What the source can tell an historian about the topic, judged from its content, provenance and context.
+**What is usefulness?**
+What the source can tell an historian about the topic, judged from its content, provenance and context.
 
 ## Official specification
 

@@ -132,12 +132,15 @@ do you agree?*
 
 ## Frequently asked questions
 
-**Why did Japan modernise so quickly?** Fear of colonisation, determined leaders and a literate population.
+**Why did Japan modernise so quickly?**
+Fear of colonisation, determined leaders and a literate population.
 
-**Why did the military gain power in the 1930s?** Depression, distrust of party politicians, success in
+**Why did the military gain power in the 1930s?**
+Depression, distrust of party politicians, success in
 Manchuria and the army's independence under the constitution.
 
-**Why did Japan surrender in 1945?** The atomic bombs and the Soviet declaration of war.
+**Why did Japan surrender in 1945?**
+The atomic bombs and the Soviet declaration of war.
 
 ## Source
 

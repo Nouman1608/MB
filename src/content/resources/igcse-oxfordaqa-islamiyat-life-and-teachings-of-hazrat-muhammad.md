@@ -151,14 +151,17 @@ hardship, as at Ta'if.
 
 ## Frequently asked questions
 
-**Why is the Treaty of Hudaibiyah called a victory?** Although its terms looked unfavourable, the
+**Why is the Treaty of Hudaibiyah called a victory?**
+Although its terms looked unfavourable, the
 peace allowed Muslims to travel and preach freely, and many more people accepted Islam in the
 following two years.
 
-**What was the Charter of Madinah?** An agreement setting out rights and duties for all groups in
+**What was the Charter of Madinah?**
+An agreement setting out rights and duties for all groups in
 Madinah, creating one community with mutual defence and religious freedom.
 
-**Why was the conquest of Makkah significant?** It ended the Makkan opposition, restored the Ka'ba
+**Why was the conquest of Makkah significant?**
+It ended the Makkan opposition, restored the Ka'ba
 to the worship of one God, and showed the Prophet's mercy through a general amnesty.
 
 ## Related pages

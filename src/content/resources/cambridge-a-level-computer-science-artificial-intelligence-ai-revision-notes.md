@@ -138,7 +138,8 @@ Regression finds the relationship between input variables and a **numerical** ou
 
 **Why must an A* heuristic not overestimate?** If it overestimates, A* may ignore the node on the true shortest path because its f value looks too high, and return a longer route.
 
-**Is deep learning a separate type from supervised learning?** Deep learning describes the kind of model (a network with many layers). It can be trained by supervised, unsupervised or reinforcement learning.
+**Is deep learning a separate type from supervised learning?**
+Deep learning describes the kind of model (a network with many layers). It can be trained by supervised, unsupervised or reinforcement learning.
 
 ## Official syllabus
 

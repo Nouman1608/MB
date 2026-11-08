@@ -131,10 +131,12 @@ The 2059 syllabus sets the length expected for each part: the **4-mark** part ne
 
 ## Frequently asked questions
 
-**What was One Unit?** The 1955 merger of the provinces of West Pakistan into a single province, ended
+**What was One Unit?**
+The 1955 merger of the provinces of West Pakistan into a single province, ended
 by Yahya Khan in 1970.
 
-**What did the Eighth Amendment do?** Introduced under Zia in 1985, it gave the president power to
+**What did the Eighth Amendment do?**
+Introduced under Zia in 1985, it gave the president power to
 dismiss the national assembly and the prime minister.
 
 ## Related pages

@@ -110,8 +110,9 @@ The shape: benefit, benefit, cost, cost, judgement.
 | Trade | Tracking shipments; online customs; price information for farmers |
 
 **Problems:** terrain and cost in mountains and deserts; scattered low-income users; power cuts;
-low literacy; disaster damage; occasional shutdowns. **Approximate scale (2024):** around 190
-million mobile subscriptions (PTA).
+low literacy; disaster damage; occasional shutdowns. **Approximate scale (2024):** about 193
+million mobile subscriptions (PTA, December 2024) and about 142 million broadband subscriptions
+(PTA, September 2024).
 
 ## Exam traps
 

@@ -169,13 +169,17 @@ Facts: Kai, after drinking heavily, punches Lena, who falls, hits her head and d
 
 ## Frequently asked questions
 
-**What is the difference between murder and manslaughter?** Murder requires malice aforethought, meaning an intention to kill or cause grievous bodily harm. Manslaughter is either voluntary, where a murder is reduced by loss of control or diminished responsibility, or involuntary, where there is no malice aforethought but liability arises through an unlawful and dangerous act or gross negligence.
+**What is the difference between murder and manslaughter?**
+Murder requires malice aforethought, meaning an intention to kill or cause grievous bodily harm. Manslaughter is either voluntary, where a murder is reduced by loss of control or diminished responsibility, or involuntary, where there is no malice aforethought but liability arises through an unlawful and dangerous act or gross negligence.
 
-**What is the test for an attempt?** Under s1(1) Criminal Attempts Act 1981 the defendant must, with intent to commit the offence, do an act more than merely preparatory to it. The courts ask whether the defendant had embarked on the crime proper (*Gullefer*).
+**What is the test for an attempt?**
+Under s1(1) Criminal Attempts Act 1981 the defendant must, with intent to commit the offence, do an act more than merely preparatory to it. The courts ask whether the defendant had embarked on the crime proper (*Gullefer*).
 
-**Which offences are specific intent for intoxication purposes?** Murder, s18 OAPA 1861, theft and robbery are specific intent offences, so voluntary intoxication may show the mens rea was not formed. Manslaughter, s20, s47, assault and battery are basic intent offences, where it is no defence (*Majewski*).
+**Which offences are specific intent for intoxication purposes?**
+Murder, s18 OAPA 1861, theft and robbery are specific intent offences, so voluntary intoxication may show the mens rea was not formed. Manslaughter, s20, s47, assault and battery are basic intent offences, where it is no defence (*Majewski*).
 
-**Is duress a defence to murder?** No. The House of Lords held in *R v Howe* (1987) that duress is not available to murder, and *R v Gotts* (1992) extended this to attempted murder.
+**Is duress a defence to murder?**
+No. The House of Lords held in *R v Howe* (1987) that duress is not available to murder, and *R v Gotts* (1992) extended this to attempted murder.
 
 ## Check your understanding
 

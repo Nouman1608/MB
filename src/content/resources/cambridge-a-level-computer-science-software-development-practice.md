@@ -148,11 +148,14 @@ ENDFUNCTION
 
 ## Frequently asked questions
 
-**How many tests should a test plan include?** Enough to cover normal, extreme, boundary and abnormal data for every input the question names. Each test needs data, type and expected result to score.
+**How many tests should a test plan include?**
+Enough to cover normal, extreme, boundary and abnormal data for every input the question names. Each test needs data, type and expected result to score.
 
-**Do I have to draw structure charts and state-transition diagrams?** You may be asked to draw or complete one in the exam. Practise drawing them on paper, labelling every parameter or event.
+**Do I have to draw structure charts and state-transition diagrams?**
+You may be asked to draw or complete one in the exam. Practise drawing them on paper, labelling every parameter or event.
 
-**Is a dry run the same as a walkthrough?** No. A dry run is done by hand by one person, usually with a trace table; a walkthrough is the programmer taking others through the code so they can find errors.
+**Is a dry run the same as a walkthrough?**
+No. A dry run is done by hand by one person, usually with a trace table; a walkthrough is the programmer taking others through the code so they can find errors.
 
 ## Official syllabus
 

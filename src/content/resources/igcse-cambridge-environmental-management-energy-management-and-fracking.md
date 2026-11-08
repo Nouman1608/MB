@@ -114,11 +114,14 @@ A full-mark answer uses the source details (farmland, town) and reaches a judgem
 
 ## Frequently asked questions
 
-**What is the difference between blue and green hydrogen?** Blue hydrogen is produced from natural gas, with the carbon dioxide ideally captured and stored. Green hydrogen is produced using renewable resources, by splitting water with renewable electricity.
+**What is the difference between blue and green hydrogen?**
+Blue hydrogen is produced from natural gas, with the carbon dioxide ideally captured and stored. Green hydrogen is produced using renewable resources, by splitting water with renewable electricity.
 
-**How does a heat pump save energy?** It transfers existing heat from the ground or air into a building rather than generating heat by burning fuel, so it provides more heat energy than the electricity it uses.
+**How does a heat pump save energy?**
+It transfers existing heat from the ground or air into a building rather than generating heat by burning fuel, so it provides more heat energy than the electricity it uses.
 
-**Why is fracking controversial?** It increases gas and oil supply and energy security, but it can trigger small earthquakes, risks contaminating groundwater, uses large amounts of water and keeps the economy dependent on fossil fuels.
+**Why is fracking controversial?**
+It increases gas and oil supply and energy security, but it can trigger small earthquakes, risks contaminating groundwater, uses large amounts of water and keeps the economy dependent on fossil fuels.
 
 ## Quick revision checklist
 

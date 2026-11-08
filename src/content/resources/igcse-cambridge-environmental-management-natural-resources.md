@@ -191,11 +191,14 @@ Using renewable and sustainable interchangeably. Saying solar and wind produce "
 
 ## Frequently asked questions
 
-**Is nuclear power renewable?** No. The 0680 syllabus classifies nuclear power using uranium as non-renewable (finite), alongside fossil fuels, even though it has very low carbon emissions in use.
+**Is nuclear power renewable?**
+No. The 0680 syllabus classifies nuclear power using uranium as non-renewable (finite), alongside fossil fuels, even though it has very low carbon emissions in use.
 
-**Is renewable the same as sustainable?** No. A renewable resource can still be used unsustainably, for example if a forest is felled faster than it regrows. Sustainable management means meeting present needs without compromising the ability of future generations to meet theirs.
+**Is renewable the same as sustainable?**
+No. A renewable resource can still be used unsustainably, for example if a forest is felled faster than it regrows. Sustainable management means meeting present needs without compromising the ability of future generations to meet theirs.
 
-**Does this guide cover fracking?** Fracking (1.6) and energy conservation strategies (1.5) are covered in the linked energy management and fracking guide; this page covers rocks, ores and minerals (1.1-1.3) and energy resources (1.4).
+**Does this guide cover fracking?**
+Fracking (1.6) and energy conservation strategies (1.5) are covered in the linked energy management and fracking guide; this page covers rocks, ores and minerals (1.1-1.3) and energy resources (1.4).
 
 ## Quick revision checklist
 

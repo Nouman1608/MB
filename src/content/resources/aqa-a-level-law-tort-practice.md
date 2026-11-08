@@ -200,13 +200,16 @@ conclusion is needed.
 
 ## Frequently asked questions
 
-**How long should a 30-mark answer take?** On a 2-hour, 100-mark paper you have a little over a minute per
+**How long should a 30-mark answer take?**
+On a 2-hour, 100-mark paper you have a little over a minute per
 mark, so roughly 35-40 minutes including planning.
 
-**Do I need to quote section numbers?** Accurate section numbers, such as s2(2) OLA 1957 and s1(3) OLA
+**Do I need to quote section numbers?**
+Accurate section numbers, such as s2(2) OLA 1957 and s1(3) OLA
 1984, show precise knowledge and are credited.
 
-**Can a single scenario test several torts?** Yes. Question 10 combines occupiers' liability, psychiatric
+**Can a single scenario test several torts?**
+Yes. Question 10 combines occupiers' liability, psychiatric
 injury and defences, which is typical of an extended AQA problem.
 
 ## Official specification

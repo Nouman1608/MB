@@ -127,14 +127,17 @@ part is felt by all, so Muslims should support those in need, at home and abroad
 
 ## Frequently asked questions
 
-**Which collections are these Hadiths from?** The syllabus states that all of them are recorded by
+**Which collections are these Hadiths from?**
+The syllabus states that all of them are recorded by
 al-Bukhari or by Muslim in their Sahih collections, many by both.
 
-**Do I need to know which group a Hadith belongs to?** The syllabus organises them under individual
+**Do I need to know which group a Hadith belongs to?**
+The syllabus organises them under individual
 conduct and life in the community; knowing the theme helps you explain the teaching, but the
 marks come from explaining meaning and application.
 
-**How long should each answer be?** Two well-developed paragraphs per Hadith, one on the teaching
+**How long should each answer be?**
+Two well-developed paragraphs per Hadith, one on the teaching
 and one on its application today.
 
 ## Related pages

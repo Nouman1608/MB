@@ -90,11 +90,14 @@ Each way: point, specific evidence, explained consequence.
 
 ## Frequently asked questions
 
-**Which option is easier?** Neither; choose the one your school teaches. Both have six periods and the same question types.
+**Which option is easier?**
+Neither; choose the one your school teaches. Both have six periods and the same question types.
 
-**Do I need exact dates?** Approximate dates and the order of developments matter most; key dates such as 1796 (Jenner) or 1913 (Ford's assembly line) strengthen answers.
+**Do I need exact dates?**
+Approximate dates and the order of developments matter most; key dates such as 1796 (Jenner) or 1913 (Ford's assembly line) strengthen answers.
 
-**Is AI really on the specification?** Yes, under Computing and the internet: artificial intelligence and its opportunities and risks.
+**Is AI really on the specification?**
+Yes, under Computing and the internet: artificial intelligence and its opportunities and risks.
 
 ## Official specification
 

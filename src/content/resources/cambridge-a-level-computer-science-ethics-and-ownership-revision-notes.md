@@ -123,11 +123,14 @@ Choose a **Free Software Foundation licence** (such as the GPL): the source code
 
 ## Frequently asked questions
 
-**Do I need to quote the BCS or IEEE code word for word?** No. Know the main themes (public interest, competence, integrity, duty to employer and profession) and apply them.
+**Do I need to quote the BCS or IEEE code word for word?**
+No. Know the main themes (public interest, competence, integrity, duty to employer and profession) and apply them.
 
-**What is the difference between free software and open source?** Both give access to the source code. The Free Software Foundation stresses users' freedoms and its licences require changed versions to stay free; the Open Source Initiative stresses practical benefits and approves a range of licences, some of which allow the code to be used in closed products.
+**What is the difference between free software and open source?**
+Both give access to the source code. The Free Software Foundation stresses users' freedoms and its licences require changed versions to stay free; the Open Source Initiative stresses practical benefits and approves a range of licences, some of which allow the code to be used in closed products.
 
-**Is shareware the same as freeware?** No. Shareware is free only for a trial or with limited features and must then be paid for.
+**Is shareware the same as freeware?**
+No. Shareware is free only for a trial or with limited features and must then be paid for.
 
 ## Official syllabus
 

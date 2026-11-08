@@ -94,9 +94,11 @@ For each turning point, be ready to say what changed, why it happened then, and 
 
 ## Frequently asked questions
 
-**How do I revise six periods?** Learn each period's two or three key individuals, their contribution and one consequence.
+**How do I revise six periods?**
+Learn each period's two or three key individuals, their contribution and one consequence.
 
-**Is continuity examined?** Questions focus on cause, consequence and change; showing what stayed the same can strengthen a judgement.
+**Is continuity examined?**
+Questions focus on cause, consequence and change; showing what stayed the same can strengthen a judgement.
 
 ## Self-test
 

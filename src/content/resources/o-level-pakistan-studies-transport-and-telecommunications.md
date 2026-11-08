@@ -128,8 +128,8 @@ lets exporters such as Sialkot's sports-goods firms ship directly.
 
 ## Why do telecommunications matter for development?
 
-By 2024 Pakistan had roughly 190 million mobile subscriptions and well over 100 million broadband
-users, according to the Pakistan Telecommunication Authority. Their uses include:
+At the end of 2024 Pakistan had about 193 million mobile subscriptions, and broadband subscriptions
+reached about 142 million in September 2024, according to the Pakistan Telecommunication Authority. Their uses include:
 
 - **Education:** Allama Iqbal Open University (since 1974) uses radio and TV; the Virtual University
   (2002) teaches online; TV lessons reached children when schools closed in 2020.

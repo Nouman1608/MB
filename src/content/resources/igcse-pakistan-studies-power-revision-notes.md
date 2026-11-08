@@ -119,13 +119,16 @@ when household demand for heating rises and domestic production is falling [1].
 
 ## Frequently asked questions
 
-**Which three dams must I know?** Tarbela on the Indus, Mangla on the Jhelum and Warsak on the Kabul
+**Which three dams must I know?**
+Tarbela on the Indus, Mangla on the Jhelum and Warsak on the Kabul
 River. These appear in Section 2 (water) and again as hydel sites in Section 3.
 
-**Is nuclear renewable?** No. Nuclear power uses uranium fuel, so it is non-renewable, but it
+**Is nuclear renewable?**
+No. Nuclear power uses uranium fuel, so it is non-renewable, but it
 produces little carbon dioxide.
 
-**What is the difference between LPG and LNG?** LPG comes in cylinders for homes away from
+**What is the difference between LPG and LNG?**
+LPG comes in cylinders for homes away from
 pipelines. LNG is natural gas cooled to a liquid, imported by ship and turned back into gas at a
 terminal.
 

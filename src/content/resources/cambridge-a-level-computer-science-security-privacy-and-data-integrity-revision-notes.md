@@ -126,13 +126,17 @@ Seven data bits 0110101 have four 1s, so for even parity the parity bit is 0. If
 
 ## Frequently asked questions
 
-**Can verification prove that data is correct?** No. Double entry only shows that two entries match; if the source document is wrong, both entries will be wrong. Verification shows data was copied accurately.
+**Can verification prove that data is correct?**
+No. Double entry only shows that two entries match; if the source document is wrong, both entries will be wrong. Verification shows data was copied accurately.
 
-**Why use double entry instead of a visual check?** The computer does the comparison, so it does not rely on a tired operator noticing a difference. It takes twice as long to enter the data.
+**Why use double entry instead of a visual check?**
+The computer does the comparison, so it does not rely on a tired operator noticing a difference. It takes twice as long to enter the data.
 
-**When is a parity block better than a byte parity check?** A parity block can locate a single wrong bit (the intersection of the failing row and column) and so correct it without resending the data.
+**When is a parity block better than a byte parity check?**
+A parity block can locate a single wrong bit (the intersection of the failing row and column) and so correct it without resending the data.
 
-**Is a firewall hardware or software?** It can be either: a program on a computer or a device between a network and the internet. In both cases it filters traffic using rules.
+**Is a firewall hardware or software?**
+It can be either: a program on a computer or a device between a network and the internet. In both cases it filters traffic using rules.
 
 ## Official syllabus
 

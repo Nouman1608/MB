@@ -128,13 +128,16 @@ with the [South Africa practice questions](/resources/edexcel-igcse-world-histor
 
 ## Frequently asked questions
 
-**Why did Botha introduce reforms?** Economic pressure, the need for skilled black labour,
+**Why did Botha introduce reforms?**
+Economic pressure, the need for skilled black labour,
 international isolation and the hope of winning Coloured and Indian support.
 
-**Why did de Klerk free Mandela?** Sanctions, economic decline, the failure of repression and the end
+**Why did de Klerk free Mandela?**
+Sanctions, economic decline, the failure of repression and the end
 of the Cold War made negotiation the only realistic option.
 
-**What did the 1994 election achieve?** It gave all adults the vote and brought the ANC to power with
+**What did the 1994 election achieve?**
+It gave all adults the vote and brought the ANC to power with
 Mandela as President.
 
 ## Source

@@ -99,11 +99,14 @@ Give two or three developed reasons: (1) the Munich Putsch failed and Hitler was
 
 ## Frequently asked questions
 
-**Is the Holocaust in this Depth Study?** Yes, as "the Final Solution" under the impact of the Second World War on Germany.
+**Is the Holocaust in this Depth Study?**
+Yes, as "the Final Solution" under the impact of the Second World War on Germany.
 
-**What is the best single date to remember?** 30 January 1933, Hitler's appointment, because key question 2 turns on it.
+**What is the best single date to remember?**
+30 January 1933, Hitler's appointment, because key question 2 turns on it.
 
-**Do I need election percentages?** Seat numbers or percentages for 1928, July 1932 and March 1933 are enough to show the trend.
+**Do I need election percentages?**
+Seat numbers or percentages for 1928, July 1932 and March 1933 are enough to show the trend.
 
 ## Official syllabus
 

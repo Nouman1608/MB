@@ -142,11 +142,14 @@ Mark-earning points: correct fields, the join condition on the shared key, the B
 
 ## Frequently asked questions
 
-**What is the difference between DDL and DML?** DDL (Data Definition Language) creates and changes the structure, e.g. CREATE TABLE and ALTER TABLE. DML (Data Manipulation Language) queries and maintains the data, e.g. SELECT, INSERT, UPDATE and DELETE.
+**What is the difference between DDL and DML?**
+DDL (Data Definition Language) creates and changes the structure, e.g. CREATE TABLE and ALTER TABLE. DML (Data Manipulation Language) queries and maintains the data, e.g. SELECT, INSERT, UPDATE and DELETE.
 
-**Can a table with a single-field primary key fail 2NF?** No. A partial dependency needs a composite key, so a 1NF table with a single-attribute key is automatically in 2NF; check it for non-key dependencies to decide 3NF.
+**Can a table with a single-field primary key fail 2NF?**
+No. A partial dependency needs a composite key, so a 1NF table with a single-attribute key is automatically in 2NF; check it for non-key dependencies to decide 3NF.
 
-**Does an index change the data in the table?** No. It is a separate structure that stores key values with pointers to records, making searches faster at the cost of extra storage and slower updates.
+**Does an index change the data in the table?**
+No. It is a separate structure that stores key values with pointers to records, making searches faster at the cost of extra storage and slower updates.
 
 ## Official syllabus
 

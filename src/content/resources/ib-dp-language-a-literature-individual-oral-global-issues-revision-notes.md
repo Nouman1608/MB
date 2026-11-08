@@ -52,7 +52,7 @@ Course links: [Literature course hub](/boards/ib/ib-dp/language-a-literature/) Â
 | Levels | Taken by both SL and HL students |
 
 Not in the brief: the timing, the extract length, what notes you may use, and the assessment
-criteria. Your teacher will give you these. Do not rely on second-hand figures.
+criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
 
 ## Key definitions
 

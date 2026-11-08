@@ -129,11 +129,13 @@ Marks: P fixed first and initial distances [1]; R next with Q updated to 3 [1]; 
 
 ## Frequently asked questions
 
-**How should I set out a Dijkstra trace?** Use a table with one row per node fixed, recording each update and keeping the old values visible. Examiners award marks for intermediate updates as well as for the final answer.
+**How should I set out a Dijkstra trace?**
+Use a table with one row per node fixed, recording each update and keeping the old values visible. Examiners award marks for intermediate updates as well as for the final answer.
 
 **Is A* always faster than Dijkstra?** It usually expands fewer nodes when the heuristic is good. With a heuristic of 0 for every node it behaves exactly like Dijkstra.
 
-**Can a neural network use regression?** Yes. A network whose output is a number (such as a price) is doing regression; one whose output is a class is doing classification.
+**Can a neural network use regression?**
+Yes. A network whose output is a number (such as a price) is doing regression; one whose output is a class is doing classification.
 
 ## Official syllabus
 

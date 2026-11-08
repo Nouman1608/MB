@@ -129,11 +129,14 @@ A group of 8 people each need to exchange private messages with every other pers
 
 ## Frequently asked questions
 
-**Why not use asymmetric encryption for everything?** It needs much more processing, so it is slow for large amounts of data. It is used to exchange a symmetric key safely, which then encrypts the data.
+**Why not use asymmetric encryption for everything?**
+It needs much more processing, so it is slow for large amounts of data. It is used to exchange a symmetric key safely, which then encrypts the data.
 
-**How does the browser know the server's public key is genuine?** The key is in a certificate signed by a CA. The browser verifies the CA's signature using the CA's public key, which is already stored on the device.
+**How does the browser know the server's public key is genuine?**
+The key is in a certificate signed by a CA. The browser verifies the CA's signature using the CA's public key, which is already stored on the device.
 
-**What is a digest?** A fixed-length value produced by applying a hashing algorithm to the message. Any change to the message gives a different digest.
+**What is a digest?**
+A fixed-length value produced by applying a hashing algorithm to the message. Any change to the message gives a different digest.
 
 ## Official syllabus
 

@@ -201,11 +201,14 @@ Marks: under-12 condition [1]; 65 or over condition [1]; student condition teste
 
 ## Frequently asked questions
 
-**Why is REPEAT ... UNTIL the right loop for question 6?** The password must be input at least once before it can be checked, and a post-condition loop always runs its body once before testing.
+**Why is REPEAT ... UNTIL the right loop for question 6?**
+The password must be input at least once before it can be checked, and a post-condition loop always runs its body once before testing.
 
-**Are trace tables in Topic 9?** Tracing is a core Paper 2 skill used across Topics 9 to 12. Write each new value on a new row so the order of changes is clear.
+**Are trace tables in Topic 9?**
+Tracing is a core Paper 2 skill used across Topics 9 to 12. Write each new value on a new row so the order of changes is clear.
 
-**How strict is pseudocode marking?** Marks go to the logic, but Cambridge expects its own keywords and the assignment arrow. Use only the functions given in the exam Insert.
+**How strict is pseudocode marking?**
+Marks go to the logic, but Cambridge expects its own keywords and the assignment arrow. Use only the functions given in the exam Insert.
 
 ## Official syllabus
 

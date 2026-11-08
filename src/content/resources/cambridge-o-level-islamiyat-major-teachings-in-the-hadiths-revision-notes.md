@@ -102,9 +102,11 @@ In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadiths
 
 ## Frequently asked questions
 
-**What does haya mean?** Modesty or a healthy sense of shame that keeps a person from doing wrong.
+**What does haya mean?**
+Modesty or a healthy sense of shame that keeps a person from doing wrong.
 
-**Why is caring for orphans so emphasised?** The Qur'an repeatedly commands kindness to orphans, the
+**Why is caring for orphans so emphasised?**
+The Qur'an repeatedly commands kindness to orphans, the
 Prophet (pbuh) grew up an orphan, and this Hadith promises a special place near him in paradise.
 
 ## Related pages

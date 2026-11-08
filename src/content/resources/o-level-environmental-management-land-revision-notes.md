@@ -140,13 +140,16 @@ A farmer on a 20° hillside in a region with heavy wet-season rain loses topsoil
 
 ## Frequently asked questions
 
-**Why is loam the best soil for crops?** It has an ideal mix of sand, silt and clay with pore spaces, so it
+**Why is loam the best soil for crops?**
+It has an ideal mix of sand, silt and clay with pore spaces, so it
 holds moisture and nutrients but drains excess water and is easy to cultivate.
 
-**What is salinisation?** A build-up of salts in soil when irrigation water evaporates, which lowers crop
+**What is salinisation?**
+A build-up of salts in soil when irrigation water evaporates, which lowers crop
 yields. The 5014 syllabus lists it as a result of mismanaged irrigation.
 
-**Is biological control a pesticide?** No. It uses a natural predator or parasite to reduce a pest, while
+**Is biological control a pesticide?**
+No. It uses a natural predator or parasite to reduce a pest, while
 chemical control uses insecticides, herbicides or fungicides.
 
 ## Official syllabus

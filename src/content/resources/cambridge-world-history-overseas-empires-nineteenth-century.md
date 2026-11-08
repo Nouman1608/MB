@@ -170,20 +170,24 @@ more distant from Indians.
 
 ## Frequently asked questions
 
-**What were the main motives for imperialism?** Economic gain,
+**What were the main motives for imperialism?**
+Economic gain,
 military and naval strategy, rivalry and prestige between nations,
 religious missions, and a belief in a "civilising mission".
 
-**What is the difference between direct and indirect rule?** Direct
+**What is the difference between direct and indirect rule?**
+Direct
 rule, as in French Senegal, governed through European officials;
 indirect rule, as in British Northern Nigeria, governed through
 existing African rulers under British supervision.
 
-**What changed in India after 1857?** The East India Company was
+**What changed in India after 1857?**
+The East India Company was
 abolished, the Crown took direct control through a Viceroy, the army
 was reorganised and Britain promised not to interfere in religion.
 
-**Why did the USA fight Spain in 1898?** Sympathy for Cuban
+**Why did the USA fight Spain in 1898?**
+Sympathy for Cuban
 independence fanned by the press, the sinking of the *Maine*, economic
 interests in Cuba and a wish for overseas bases.
 

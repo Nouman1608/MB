@@ -127,13 +127,16 @@ Treaty, Germany was **reunified on 3 October 1990**.
 
 ## Frequently asked questions
 
-**Was the Wall a success for the GDR?** It stopped emigration and allowed economic stabilisation, but it
+**Was the Wall a success for the GDR?**
+It stopped emigration and allowed economic stabilisation, but it
 became a symbol of a regime that had to imprison its people.
 
-**How far did East Germans support the regime?** Many valued security and welfare; fear of the Stasi and
+**How far did East Germans support the regime?**
+Many valued security and welfare; fear of the Stasi and
 lack of choice limited open opposition until 1989.
 
-**What was the immediate cause of the GDR's end?** The opening of the Hungarian border, mass protest, the
+**What was the immediate cause of the GDR's end?**
+The opening of the Hungarian border, mass protest, the
 fall of the Wall and the SED's collapse, with Gorbachev refusing to intervene.
 
 ## Official syllabus

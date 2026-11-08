@@ -126,10 +126,12 @@ This content is examined on Cambridge Paper 2, The environment of Pakistan (1 ho
 
 ## Frequently asked questions
 
-**What does a wide-based pyramid mean for Pakistan?** A large young population, high dependency and
+**What does a wide-based pyramid mean for Pakistan?**
+A large young population, high dependency and
 heavy demand for schools, health care and future jobs.
 
-**Why does Balochistan have such low density?** Its plateaux, mountains and deserts, low rainfall
+**Why does Balochistan have such low density?**
+Its plateaux, mountains and deserts, low rainfall
 and limited water make farming and settlement difficult.
 
 ## Related pages

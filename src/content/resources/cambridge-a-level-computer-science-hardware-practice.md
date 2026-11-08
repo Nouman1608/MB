@@ -168,11 +168,14 @@ Marks: rows with D = 0 all 0 [1]; row 1,0,0 [1]; row 1,0,1 [1]; rows 1,1,0 and 1
 
 ## Frequently asked questions
 
-**How are logic questions marked?** Usually by groups of rows or by each correct gate, so a partly correct table still earns marks. Working columns help the examiner find your marks.
+**How are logic questions marked?**
+Usually by groups of rows or by each correct gate, so a partly correct table still earns marks. Working columns help the examiner find your marks.
 
-**Can I give a simpler logic expression than the one the description suggests?** Yes. Any expression that gives the same truth table is accepted, unless the question says which gates to use.
+**Can I give a simpler logic expression than the one the description suggests?**
+Yes. Any expression that gives the same truth table is accepted, unless the question says which gates to use.
 
-**Which paper tests this topic?** Paper 1 Theory Fundamentals (1 hour 30 minutes, 75 marks), which assesses sections 1 to 8 of the 9618 syllabus.
+**Which paper tests this topic?**
+Paper 1 Theory Fundamentals (1 hour 30 minutes, 75 marks), which assesses sections 1 to 8 of the 9618 syllabus.
 
 ## Official syllabus
 

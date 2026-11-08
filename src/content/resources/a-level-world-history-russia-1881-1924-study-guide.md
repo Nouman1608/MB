@@ -95,11 +95,14 @@ Identify points of agreement and disagreement in content, then explain them usin
 
 ## Frequently asked questions
 
-**Is Stalin in this topic?** No. The topic ends in 1924. Stalin's Russia is a Paper 4 depth study (European option topic 2).
+**Is Stalin in this topic?**
+No. The topic ends in 1924. Stalin's Russia is a Paper 4 depth study (European option topic 2).
 
-**How should I explain 1905's survival?** Use the syllabus headings: the nature and extent of opposition, the Fundamental Laws and Dumas, and repression -- then judge which mattered most.
+**How should I explain 1905's survival?**
+Use the syllabus headings: the nature and extent of opposition, the Fundamental Laws and Dumas, and repression -- then judge which mattered most.
 
-**Which year is this topic on Paper 1?** 2029, in the 2027-2029 rotation.
+**Which year is this topic on Paper 1?**
+2029, in the 2027-2029 rotation.
 
 ## Official syllabus
 

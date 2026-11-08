@@ -212,14 +212,17 @@ joining a trade union; ASLEF v UK (2007), a union may expel members of a politic
 
 ## Frequently asked questions
 
-**Which Articles must I know for AQA 7162?** Articles 2, 5, 8, 10 and 11 of the ECHR, plus the restrictions
+**Which Articles must I know for AQA 7162?**
+Articles 2, 5, 8, 10 and 11 of the ECHR, plus the restrictions
 in Articles 8(2), 10(2) and 11(2).
 
-**What is the difference between a limited and a qualified right?** A limited right, such as Article 5, can
+**What is the difference between a limited and a qualified right?**
+A limited right, such as Article 5, can
 be restricted only in the cases listed in the Article. A qualified right, such as Article 8, can be
 restricted when the restriction is lawful, has a legitimate aim and is necessary in a democratic society.
 
-**Is judicial review on the specification?** Yes. The enforcement section names the process of judicial
+**Is judicial review on the specification?**
+Yes. The enforcement section names the process of judicial
 review, so know its grounds, time limit and remedies.
 
 ## Official specification

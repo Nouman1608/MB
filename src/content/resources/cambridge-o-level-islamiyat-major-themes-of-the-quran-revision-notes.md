@@ -123,9 +123,11 @@ Using a linked passage in part (b) shows wider understanding.
 
 ## Frequently asked questions
 
-**Which passage was the first revelation?** Sura 96.1–5.
+**Which passage was the first revelation?**
+Sura 96.1–5.
 
-**Which passages are recited in every prayer or very often?** Al-Fatiha in every rak'a; al-Ikhlas,
+**Which passages are recited in every prayer or very often?**
+Al-Fatiha in every rak'a; al-Ikhlas,
 al-Nas and Ayat al-Kursi are recited frequently in prayer and supplication.
 
 ## Related pages

@@ -188,11 +188,14 @@ June 2025 examiners noted that a negative floating-point value often lost its si
 
 ## Frequently asked questions
 
-**Why do floating-point numbers use two's complement for the exponent?** So that the exponent can be negative, representing numbers with a magnitude less than 0.5.
+**Why do floating-point numbers use two's complement for the exponent?**
+So that the exponent can be negative, representing numbers with a magnitude less than 0.5.
 
-**Is a record composite or non-composite?** Composite: it is built from fields of other data types. Enumerated and pointer types are non-composite.
+**Is a record composite or non-composite?**
+Composite: it is built from fields of other data types. Enumerated and pointer types are non-composite.
 
-**When is a sequential file better than a random file?** When most records are processed in key order in one run, such as producing every employee's payslip, since sequential access through an ordered file is efficient and no hash or index is needed.
+**When is a sequential file better than a random file?**
+When most records are processed in key order in one run, such as producing every employee's payslip, since sequential access through an ordered file is efficient and no hash or index is needed.
 
 ## Official syllabus
 

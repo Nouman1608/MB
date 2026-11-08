@@ -177,11 +177,14 @@ REPEAT suits this because the PIN must be input at least once and the number of 
 
 ## Frequently asked questions
 
-**What is the difference between a parameter and an argument?** The parameter is the name in the module's header; the argument is the value supplied when the module is called. In `CALL Greet("Ola")`, "Ola" is the argument and the parameter might be `Name`.
+**What is the difference between a parameter and an argument?**
+The parameter is the name in the module's header; the argument is the value supplied when the module is called. In `CALL Greet("Ola")`, "Ola" is the argument and the parameter might be `Name`.
 
-**When must I use BYREF?** When the procedure needs to change the caller's variable, for example swapping two values or returning more than one result from a procedure.
+**When must I use BYREF?**
+When the procedure needs to change the caller's variable, for example swapping two values or returning more than one result from a procedure.
 
-**What makes pseudocode efficient?** No unnecessary repetition (use loops and modules), loops that stop as soon as the result is known, and calculations moved out of loops when they do not change inside them.
+**What makes pseudocode efficient?**
+No unnecessary repetition (use loops and modules), loops that stop as soon as the result is known, and calculations moved out of loops when they do not change inside them.
 
 ## Official syllabus
 

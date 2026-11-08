@@ -184,14 +184,17 @@ show your working for percentage change.
 
 ## Frequently asked questions
 
-**How are "discuss" questions marked?** They are usually marked in levels. A list of strategies stays in the
+**How are "discuss" questions marked?**
+They are usually marked in levels. A list of strategies stays in the
 lowest level; balanced benefits and limitations with a conclusion reach the top level.
 
-**Do I need to learn specific international agreements?** The syllabus says "international agreements and
+**Do I need to learn specific international agreements?**
+The syllabus says "international agreements and
 policies". Naming the Montreal Protocol and the Paris Agreement adds precision, but the marks come from
 explaining how the agreement helps.
 
-**What units should I use for gas concentrations?** Parts per million (ppm) is the usual unit for carbon
+**What units should I use for gas concentrations?**
+Parts per million (ppm) is the usual unit for carbon
 dioxide in source material.
 
 ## Official syllabus

@@ -129,14 +129,17 @@ Use the table to explain *why the North won*: its resources counted for more as 
 
 ## Frequently asked questions
 
-**What does "popular sovereignty" mean?** Letting the settlers of a
+**What does "popular sovereignty" mean?**
+Letting the settlers of a
 territory vote on whether to allow slavery, as in the Kansas–Nebraska
 Act of 1854.
 
-**Which states were the border states?** Delaware, Maryland, Kentucky
+**Which states were the border states?**
+Delaware, Maryland, Kentucky
 and Missouri: slave states that stayed in the Union.
 
-**When did Reconstruction end?** In 1877, when the last federal troops
+**When did Reconstruction end?**
+In 1877, when the last federal troops
 were withdrawn from the South after the disputed 1876 election.
 
 ## Self-test

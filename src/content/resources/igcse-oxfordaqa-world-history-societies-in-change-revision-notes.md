@@ -104,9 +104,11 @@ featured: false
 
 ## Frequently asked questions
 
-**How specific should I be about groups?** Name them as the specification does: women, workers, farmers, minorities, the young, and so on.
+**How specific should I be about groups?**
+Name them as the specification does: women, workers, farmers, minorities, the young, and so on.
 
-**Can the same content answer different questions?** Yes; for example, the Holodomor can support questions on peasants, collectivisation or Ukraine.
+**Can the same content answer different questions?**
+Yes; for example, the Holodomor can support questions on peasants, collectivisation or Ukraine.
 
 ## Self-test
 

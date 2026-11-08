@@ -208,14 +208,17 @@ effectiveness, with reference to reform debates such as the withdrawn Bill of Ri
 
 ## Frequently asked questions
 
-**How do I structure a human rights problem answer?** Identify the right and whether it is absolute, limited
+**How do I structure a human rights problem answer?**
+Identify the right and whether it is absolute, limited
 or qualified. Then apply the exceptions or the restriction test, consider English-law provisions and
 conclude on remedies.
 
-**Should I use Strasbourg or UK cases?** Both. Under s2 HRA 1998 UK courts take Strasbourg case law into
+**Should I use Strasbourg or UK cases?**
+Both. Under s2 HRA 1998 UK courts take Strasbourg case law into
 account, so citing McCann v UK alongside Austin shows how the two interact.
 
-**Will reform be examined?** It can be, usually as part of evaluation. Know the 2012 Commission on a Bill of
+**Will reform be examined?**
+It can be, usually as part of evaluation. Know the 2012 Commission on a Bill of
 Rights and the 2022 Bill of Rights Bill.
 
 ## Official specification

@@ -92,8 +92,11 @@ Example: the **decriminalisation of homosexual acts by the Sexual Offences Act 1
 
 ## Frequently asked questions
 
-**What does the AQA 7162 specification mean by the rule of law?** It names three elements: no person shall be sanctioned except in accordance with the law, equality before the law, and fairness and clarity. Dicey's version is useful background, but answers should use the specification's three elements.
+**What does the AQA 7162 specification mean by the rule of law?**
+It names three elements: no person shall be sanctioned except in accordance with the law, equality before the law, and fairness and clarity. Dicey's version is useful background, but answers should use the specification's three elements.
 
-**How do I use Hart and Devlin in an essay?** Explain each position accurately — Devlin's shared morality as the cement of society, Hart's harm principle — then apply them to a real example such as *R v Brown* (1993) or the Sexual Offences Act 1967, and reach a judgement.
+**How do I use Hart and Devlin in an essay?**
+Explain each position accurately — Devlin's shared morality as the cement of society, Hart's harm principle — then apply them to a real example such as *R v Brown* (1993) or the Sexual Offences Act 1967, and reach a judgement.
 
-**Which theories of justice should I know?** Distributive, corrective and utilitarian justice are the most widely examined, with Rawls as a useful addition. Always apply the theory to the law, for example to sentencing or to access to justice.
+**Which theories of justice should I know?**
+Distributive, corrective and utilitarian justice are the most widely examined, with Rawls as a useful addition. Always apply the theory to the law, for example to sentencing or to access to justice.

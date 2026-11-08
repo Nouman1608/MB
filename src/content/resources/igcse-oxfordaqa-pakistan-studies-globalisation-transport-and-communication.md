@@ -130,13 +130,16 @@ bank accounts send money, pay bills and receive government cash transfers, which
 
 ## Frequently asked questions
 
-**What makes a company a TNC?** It operates in more than one country, usually with headquarters in a
+**What makes a company a TNC?**
+It operates in more than one country, usually with headquarters in a
 richer country and factories, offices or sales networks in others.
 
-**What is a dry port?** An inland terminal linked to a seaport by road or rail, where goods are cleared
+**What is a dry port?**
+An inland terminal linked to a seaport by road or rail, where goods are cleared
 through customs and containerised.
 
-**Why is Gwadar important?** It is a deep-water port close to the Strait of Hormuz and the southern
+**Why is Gwadar important?**
+It is a deep-water port close to the Strait of Hormuz and the southern
 end of CPEC, offering a route for trade with China, Central Asia and the Gulf.
 
 ## Related pages

@@ -132,13 +132,16 @@ you agree?*
 
 ## Frequently asked questions
 
-**Why did the USA not join the League?** The Senate refused to ratify the Treaty of Versailles, fearing
+**Why did the USA not join the League?**
+The Senate refused to ratify the Treaty of Versailles, fearing
 foreign commitments.
 
-**What made the veto a structural problem?** Any permanent member could block action, especially against
+**What made the veto a structural problem?**
+Any permanent member could block action, especially against
 itself or its allies.
 
-**Why was Mozambique a success?** Both sides wanted peace, the mandate was clear and elections were held.
+**Why was Mozambique a success?**
+Both sides wanted peace, the mandate was clear and elections were held.
 
 ## Source
 

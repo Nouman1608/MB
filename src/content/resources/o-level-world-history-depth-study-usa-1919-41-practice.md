@@ -112,9 +112,11 @@ Depth Study D of Cambridge O Level History 2147 is assessed in **Paper 1, Sectio
 
 ## Frequently asked questions
 
-**How many questions should I practise?** All four here: in the exam you pick one of two, and you cannot predict which key questions will appear.
+**How many questions should I practise?**
+All four here: in the exam you pick one of two, and you cannot predict which key questions will appear.
 
-**What figures are worth learning?** Unemployment of about 13 million by 1933, the dates of Prohibition (1920-33), and the price of a Model T falling below $300 are enough; explanation earns more marks than extra statistics.
+**What figures are worth learning?**
+Unemployment of about 13 million by 1933, the dates of Prohibition (1920-33), and the price of a Model T falling below $300 are enough; explanation earns more marks than extra statistics.
 
 ## Official syllabus
 

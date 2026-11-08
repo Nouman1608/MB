@@ -92,11 +92,14 @@ The specification suggests a Point-Evidence-Explain structure for the explanatio
 
 ## Frequently asked questions
 
-**Is this the same as the AQA GCSE period study?** No. 9245 options have different dates and focus on the experiences of groups; always revise from the 9245 specification.
+**Is this the same as the AQA GCSE period study?**
+No. 9245 options have different dates and focus on the experiences of groups; always revise from the 9245 specification.
 
-**Are sources used in Paper 2?** The Paper 2 questions are knowledge and explanation questions; source work is in Paper 1 Section A.
+**Are sources used in Paper 2?**
+The Paper 2 questions are knowledge and explanation questions; source work is in Paper 1 Section A.
 
-**When are the first exams?** May/June 2028, then every May/June and November.
+**When are the first exams?**
+May/June 2028, then every May/June and November.
 
 ## Official specification
 

@@ -181,11 +181,14 @@ The result is 5, the value of (7 − 2 × 3) + 4.
 
 ## Frequently asked questions
 
-**Why is round robin good for interactive systems?** Every process gets the processor regularly, so no user waits long for a response, even when a long job is running.
+**Why is round robin good for interactive systems?**
+Every process gets the processor regularly, so no user waits long for a response, even when a long job is running.
 
-**What is the difference between a page and a segment?** A page is a fixed-size block chosen by the system; a segment is a variable-size block matching a logical part of the program.
+**What is the difference between a page and a segment?**
+A page is a fixed-size block chosen by the system; a segment is a variable-size block matching a logical part of the program.
 
-**Why is RPN useful to a compiler or interpreter?** It can be evaluated in one left-to-right pass with a stack, with no need to consider brackets or operator precedence.
+**Why is RPN useful to a compiler or interpreter?**
+It can be evaluated in one left-to-right pass with a stack, with no need to consider brackets or operator precedence.
 
 ## Official syllabus
 

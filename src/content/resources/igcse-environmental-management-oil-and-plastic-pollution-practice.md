@@ -84,11 +84,14 @@ These questions cover sub-topics 3.5 Oil pollution and 3.6 Plastic pollution of 
 
 ## Frequently asked questions
 
-**What is the difference between preventing and minimising an oil spill?** Prevention strategies (MARPOL, double-hulled tankers, risk assessments, regular maintenance) stop oil escaping in the first place. Minimising strategies (improved navigation, booms and sorbents, detergent sprays, skimmers, controlled burning) reduce the damage once oil is in the water; note that improved navigation is listed by the syllabus as a minimising strategy.
+**What is the difference between preventing and minimising an oil spill?**
+Prevention strategies (MARPOL, double-hulled tankers, risk assessments, regular maintenance) stop oil escaping in the first place. Minimising strategies (improved navigation, booms and sorbents, detergent sprays, skimmers, controlled burning) reduce the damage once oil is in the water; note that improved navigation is listed by the syllabus as a minimising strategy.
 
-**Why are double-hulled tankers safer?** A double hull has a second inner hull, so if the outer hull is holed in a collision or grounding the oil is still contained.
+**Why are double-hulled tankers safer?**
+A double hull has a second inner hull, so if the outer hull is holed in a collision or grounding the oil is still contained.
 
-**What are the impacts of plastic pollution on marine ecosystems?** The syllabus lists visual pollution, entanglement, the risk of plastic being mistaken for food, and bioaccumulation and biomagnification.
+**What are the impacts of plastic pollution on marine ecosystems?**
+The syllabus lists visual pollution, entanglement, the risk of plastic being mistaken for food, and bioaccumulation and biomagnification.
 
 ---
 

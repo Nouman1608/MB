@@ -135,13 +135,16 @@ the **Deobandi** movement founded at Deoband in 1867.
 
 ## Frequently asked questions
 
-**Why is Sindh called Bab-ul-Islam?** Because Muhammad bin Qasim's conquest of 711–712 made it the
+**Why is Sindh called Bab-ul-Islam?**
+Because Muhammad bin Qasim's conquest of 711–712 made it the
 first region of the subcontinent under Muslim rule.
 
-**What does Mujaddid Alf Thani mean?** "Renewer of the second millennium", the title given to Ahmad
+**What does Mujaddid Alf Thani mean?**
+"Renewer of the second millennium", the title given to Ahmad
 Sirhindi for reviving orthodox Islam around the thousandth year of the Islamic calendar.
 
-**Why did Shah Waliullah translate the Qur'an into Persian?** So that Muslims who did not read Arabic
+**Why did Shah Waliullah translate the Qur'an into Persian?**
+So that Muslims who did not read Arabic
 could understand its message directly, which he saw as the basis for reform.
 
 ## Related pages

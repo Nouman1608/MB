@@ -172,11 +172,14 @@ Brackets make the order of evaluation explicit.
 
 ## Frequently asked questions
 
-**Do I need to know a specific flowchart notation?** Use the standard symbols above. Every decision must have two labelled exits, and every path must reach STOP.
+**Do I need to know a specific flowchart notation?**
+Use the standard symbols above. Every decision must have two labelled exits, and every path must reach STOP.
 
-**What is the difference between structured English and pseudocode?** Structured English is a restricted form of English with numbered steps; pseudocode uses formal keywords, assignment arrows and data types and is closer to program code.
+**What is the difference between structured English and pseudocode?**
+Structured English is a restricted form of English with numbered steps; pseudocode uses formal keywords, assignment arrows and data types and is closer to program code.
 
-**How detailed should stepwise refinement be?** Keep refining until each step corresponds to a single programming statement or construct.
+**How detailed should stepwise refinement be?**
+Keep refining until each step corresponds to a single programming statement or construct.
 
 ## Official syllabus
 

@@ -63,7 +63,7 @@ education. Full explanations are in the
 | Growth 2017–2023 | about 2.55% a year | 2023 census |
 | Fertility | about 3.6 children per woman | Demographic and Health Survey 2017–18 |
 | Literacy (10+) | about 61% | 2023 census |
-| Workforce | agriculture ~37%, industry ~25%, services ~38% | Labour Force Survey 2020–21 |
+| Workforce | agriculture ~37%, industry ~25%, services ~37% | Labour Force Survey 2020–21 |
 | Emigrant workers | more than 800,000 registered | 2023 |
 | Lowest density | Balochistan, about 43 per km² | 2023 census |
 

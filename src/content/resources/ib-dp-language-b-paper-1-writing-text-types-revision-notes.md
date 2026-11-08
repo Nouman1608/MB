@@ -56,8 +56,8 @@ Course links: [Language B hub](/boards/ib/ib-dp/language-b/) ·
 | SL and HL | Same outline; the nature of the assessment differs |
 | HL | Tasks require more complex language and structures and demand higher-order thinking skills; a higher word range |
 
-Not in the brief: word ranges, the list of text types and the marking criteria. Get these from your
-teacher, who has the full subject guide.
+Not in the brief: word ranges, the list of text types and the marking criteria. The full subject guide sets the Paper 1 word ranges: 250 to 400 words at SL and 450 to 600 words at HL.
+Get the text-type list and criteria from your teacher, who has the full guide.
 
 ## Definitions
 
@@ -228,7 +228,7 @@ An article is usually third person and neutral, with a headline and quotations. 
 The opening and the closing carry most conventions, so draft them first when you plan a Paper 1 response.
 
 **Where do you find the Paper 1 word ranges and text-type list?**
-The IB DP Language B subject brief does not print the word ranges, the list of text types or the marking criteria. Your teacher will share them from the full subject guide.
+The IB DP Language B subject brief does not print them, but the full subject guide does: 250 to 400 words at SL and 450 to 600 words at HL. Your teacher will share the text-type list and marking criteria from the guide.
 
 ## Official syllabus
 

@@ -139,10 +139,12 @@ measures, gains the top mark. Maximum 6.
 
 ## Frequently asked questions
 
-**Are the figures in question 7 real?** No. They are illustrative figures to practise data skills;
+**Are the figures in question 7 real?**
+No. They are illustrative figures to practise data skills;
 use the real statistics provided in the exam paper.
 
-**How should I answer a "how far do you agree" question?** Argue both sides with examples from
+**How should I answer a "how far do you agree" question?**
+Argue both sides with examples from
 Pakistan, then give a clear conclusion that answers the question.
 
 *Based on the Cambridge IGCSE Pakistan Studies 0448 syllabus for examination in 2026, Paper 2

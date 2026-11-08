@@ -150,11 +150,14 @@ Write in full sentences with accurate spelling, punctuation and grammar: the fou
 
 ## Frequently asked questions
 
-**What is a narrative account?** A connected story that explains how events caused or led to an outcome.
+**What is a narrative account?**
+A connected story that explains how events caused or led to an outcome.
 
-**Are SPaG marks only on question 4?** In Section B, yes -- 4 marks on the essay.
+**Are SPaG marks only on question 4?**
+In Section B, yes -- 4 marks on the essay.
 
-**Do sources always include a cartoon?** Not always, but visual sources are common, so practise cartoons and posters.
+**Do sources always include a cartoon?**
+Not always, but visual sources are common, so practise cartoons and posters.
 
 ## Self-test
 

@@ -148,11 +148,14 @@ Reason -> evidence -> link, three times: (1) **geography** -- the Reds held Mosc
 
 ## Frequently asked questions
 
-**What was the October Manifesto?** Nicholas II's 1905 promise of a Duma and civil rights, which split the opposition.
+**What was the October Manifesto?**
+Nicholas II's 1905 promise of a Duma and civil rights, which split the opposition.
 
-**Why was Kronstadt important?** Loyal Bolshevik sailors rebelled in 1921, showing Lenin that War Communism had to end.
+**Why was Kronstadt important?**
+Loyal Bolshevik sailors rebelled in 1921, showing Lenin that War Communism had to end.
 
-**Who were the kulaks?** Better-off peasants whom Stalin blamed for grain shortages and removed during collectivisation.
+**Who were the kulaks?**
+Better-off peasants whom Stalin blamed for grain shortages and removed during collectivisation.
 
 ## Self-test
 

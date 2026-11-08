@@ -1,5 +1,5 @@
 ---
-title: "A Level Law: Nature of Law, Liability and Morality — Practice Questions"
+title: "Edexcel International A Level Law: Nature of Law, Liability and Morality — Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]
@@ -86,13 +86,17 @@ Top-level answers reach a reasoned conclusion and apply the theory to the cases 
 
 ## Frequently asked questions
 
-**What is the difference between law and morality?** Law is a set of rules made by a recognised authority and enforced by the state through the courts. Morality is a code of right and wrong enforced by conscience and social pressure. They overlap — murder is both unlawful and immoral — but some immoral acts are lawful and some unlawful acts, such as minor regulatory offences, carry no moral blame.
+**What is the difference between law and morality?**
+Law is a set of rules made by a recognised authority and enforced by the state through the courts. Morality is a code of right and wrong enforced by conscience and social pressure. They overlap — murder is both unlawful and immoral — but some immoral acts are lawful and some unlawful acts, such as minor regulatory offences, carry no moral blame.
 
-**What are the theories of punishment in Edexcel IAL Law?** The YLA1 specification (1.1.8) lists revenge, retribution, rehabilitation, reparation, restoration, denunciation and deterrence. You must give examples of each and link them to the sentences available under the Criminal Justice Act 2003.
+**What are the theories of punishment in Edexcel IAL Law?**
+The YLA1 specification (1.1.8) lists revenge, retribution, rehabilitation, reparation, restoration, denunciation and deterrence. You must give examples of each and link them to the sentences available under the Criminal Justice Act 2003.
 
-**What was the Hart/Devlin debate?** It followed the 1957 Wolfenden Report. Lord Devlin argued that the law may enforce a society's shared morality to protect social cohesion; Professor Hart argued, following Mill, that the law should only prevent harm to others.
+**What was the Hart/Devlin debate?**
+It followed the 1957 Wolfenden Report. Lord Devlin argued that the law may enforce a society's shared morality to protect social cohesion; Professor Hart argued, following Mill, that the law should only prevent harm to others.
 
-**What is the standard of proof in civil and criminal cases?** In a civil case the claimant must prove the claim on the balance of probabilities. In a criminal case the prosecution must prove guilt beyond reasonable doubt.
+**What is the standard of proof in civil and criminal cases?**
+In a civil case the claimant must prove the claim on the balance of probabilities. In a criminal case the prosecution must prove guilt beyond reasonable doubt.
 
 ---
 

@@ -136,13 +136,16 @@ and female education is central to development.
 
 ## Frequently asked questions
 
-**What is a dependent population?** People under 15 and over 65 who mostly rely on those of working
+**What is a dependent population?**
+People under 15 and over 65 who mostly rely on those of working
 age. Pakistan's dependency is high because so many people are young.
 
-**What is the Orangi Pilot Project?** A self-help scheme begun in Karachi's Orangi area in 1980,
+**What is the Orangi Pilot Project?**
+A self-help scheme begun in Karachi's Orangi area in 1980,
 where residents organised and paid for their own lane sewers with technical guidance.
 
-**Why is female education stressed?** Educated women tend to marry later and have fewer children,
+**Why is female education stressed?**
+Educated women tend to marry later and have fewer children,
 and their skills raise family income and national output.
 
 ## Related pages

@@ -126,13 +126,16 @@ the period.
 
 ## Frequently asked questions
 
-**Which factor mattered most: science or war?** A classic (c) question. Science provided discoveries
+**Which factor mattered most: science or war?**
+A classic (c) question. Science provided discoveries
 (Pasteur, Koch, Fleming); war provided urgency, funding and practice (X-rays, transfusion, penicillin).
 
-**Why was Snow's discovery not accepted at once?** Miasma theory was dominant, and he could not explain
+**Why was Snow's discovery not accepted at once?**
+Miasma theory was dominant, and he could not explain
 the mechanism until germ theory.
 
-**Why did the NHS matter?** It made healthcare free at the point of use for everyone.
+**Why did the NHS matter?**
+It made healthcare free at the point of use for everyone.
 
 ## Official syllabus
 

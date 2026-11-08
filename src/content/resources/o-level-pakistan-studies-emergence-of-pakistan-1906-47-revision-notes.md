@@ -120,10 +120,12 @@ violence that followed showed that compromise had collapsed [point 4].
 
 ## Frequently asked questions
 
-**What was the Communal Award?** A British decision in 1932 that kept separate electorates for
+**What was the Communal Award?**
+A British decision in 1932 that kept separate electorates for
 Muslims and other minorities after the Round Table Conferences failed to agree.
 
-**Why was the 1940 Resolution important?** It turned the idea of a separate homeland into the League's
+**Why was the 1940 Resolution important?**
+It turned the idea of a separate homeland into the League's
 official goal.
 
 ## Related pages

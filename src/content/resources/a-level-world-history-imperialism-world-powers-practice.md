@@ -107,9 +107,11 @@ All four sources are **invented for practice**. They are written to resemble the
 
 ## Frequently asked questions
 
-**Do I need to name the African resistance examples?** Yes. The syllabus names the Anglo-Zulu war (1879), the Ndebele rebellion, Adwa (1896) and the Herero War, and any of them can appear.
+**Do I need to name the African resistance examples?**
+Yes. The syllabus names the Anglo-Zulu war (1879), the Ndebele rebellion, Adwa (1896) and the Herero War, and any of them can appear.
 
-**Will Paper 1 always include a visual source?** Each question has at least three written sources and may include up to one visual source.
+**Will Paper 1 always include a visual source?**
+Each question has at least three written sources and may include up to one visual source.
 
 ## Official syllabus
 

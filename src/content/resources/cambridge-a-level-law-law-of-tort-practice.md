@@ -176,13 +176,16 @@ fair balance between claimants and defendants. **[25]**
 
 ## Frequently asked questions
 
-**How do I structure a 25-mark tort scenario?** Take each claimant in turn. For each, name the tort, prove
+**How do I structure a 25-mark tort scenario?**
+Take each claimant in turn. For each, name the tort, prove
 each element with authority, consider defences and finish with liability and remedy.
 
-**Should I discuss vicarious liability?** Only in outline. In 9084 it sits under 4.1.1, nature of liability,
+**Should I discuss vicarious liability?**
+Only in outline. In 9084 it sits under 4.1.1, nature of liability,
 so mention it where an employee commits the tort, without a detailed analysis.
 
-**Do I need to calculate damages?** Occasionally a scenario gives figures. Apply contributory negligence
+**Do I need to calculate damages?**
+Occasionally a scenario gives figures. Apply contributory negligence
 reductions to the total, and separate special from general damages.
 
 ## Official syllabus

@@ -153,8 +153,8 @@ political (capital-city functions in Islamabad, government investment, security 
 
 ## How is the workforce employed?
 
-The Labour Force Survey 2020–21 put roughly 37% of employed people in agriculture, 25% in industry
-and 38% in services. The primary share is falling slowly as mechanisation spreads and young people
+The Labour Force Survey 2020–21 put roughly 37% of employed people in agriculture (37.4%), 25% in
+industry (25.4%) and 37% in services (37.2%). The primary share is falling slowly as mechanisation spreads and young people
 move to cities; tertiary jobs (retail, transport, education, health, IT) are growing fastest.
 
 - **Unemployment** means having no work while seeking it; **underemployment** means working fewer

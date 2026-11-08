@@ -125,13 +125,16 @@ sins, and a reminder of the Day of Judgement.
 
 ## Frequently asked questions
 
-**What is the difference between an Article of Faith and a Pillar?** Articles are beliefs; Pillars
+**What is the difference between an Article of Faith and a Pillar?**
+Articles are beliefs; Pillars
 are actions that express those beliefs.
 
-**Why is Arafat the most important part of hajj?** The Prophet (pbuh) said "Hajj is Arafat"; standing
+**Why is Arafat the most important part of hajj?**
+The Prophet (pbuh) said "Hajj is Arafat"; standing
 there in prayer on the 9th of Dhu al-Hijja is essential for a valid hajj.
 
-**Who must pay zakat?** Adult Muslims whose savings remain above the nisab for a lunar year.
+**Who must pay zakat?**
+Adult Muslims whose savings remain above the nisab for a lunar year.
 
 ## Related pages
 

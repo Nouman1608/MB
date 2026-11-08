@@ -131,13 +131,16 @@ Dates are old style (Julian) until February 1918.
 
 ## Frequently asked questions
 
-**What was Rasputin's significance?** He symbolised the corruption of the court and damaged the
+**What was Rasputin's significance?**
+He symbolised the corruption of the court and damaged the
 monarchy's reputation while Nicholas was at the front.
 
-**Why did the Provisional Government fail?** It continued the war, delayed land reform and elections,
+**Why did the Provisional Government fail?**
+It continued the war, delayed land reform and elections,
 shared power with the Soviet and lost the army's support after Kornilov.
 
-**What did Brest-Litovsk cost Russia?** Ukraine, Poland, Finland and the Baltic lands, with much of its
+**What did Brest-Litovsk cost Russia?**
+Ukraine, Poland, Finland and the Baltic lands, with much of its
 population, farmland and industry.
 
 ## Source

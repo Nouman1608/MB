@@ -159,11 +159,14 @@ put in the correct group. "Define" (1.6.1) wants the syllabus wording.
 
 ## Frequently asked questions
 
-**Is nuclear power renewable in 5014?** No. The syllabus classifies nuclear power using uranium as non-renewable (finite), with fossil fuels.
+**Is nuclear power renewable in 5014?**
+No. The syllabus classifies nuclear power using uranium as non-renewable (finite), with fossil fuels.
 
-**What is the difference between blue and green hydrogen?** Blue hydrogen is produced from natural gas; green hydrogen is produced using renewable resources. Both are new energy resources in 1.5.2.
+**What is the difference between blue and green hydrogen?**
+Blue hydrogen is produced from natural gas; green hydrogen is produced using renewable resources. Both are new energy resources in 1.5.2.
 
-**Does battery storage save energy?** No. It stores surplus electricity, for example from solar panels at midday, so it can be used later, which helps intermittent renewable resources supply a steady demand.
+**Does battery storage save energy?**
+No. It stores surplus electricity, for example from solar panels at midday, so it can be used later, which helps intermittent renewable resources supply a steady demand.
 
 ## Related resources
 

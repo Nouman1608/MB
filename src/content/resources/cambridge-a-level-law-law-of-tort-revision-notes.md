@@ -201,14 +201,17 @@ Conclusion: arguable, turning on the aftermath point.
 
 ## Frequently asked questions
 
-**Which torts does 9084 Paper 4 cover?** Negligence (including economic loss and nervous shock),
+**Which torts does 9084 Paper 4 cover?**
+Negligence (including economic loss and nervous shock),
 occupiers' liability, private nuisance, Rylands v Fletcher, trespass to land, assault, battery and
 false imprisonment, plus defences and remedies.
 
-**Is vicarious liability examined in depth?** No. The 9084 syllabus lists vicarious liability "in outline
+**Is vicarious liability examined in depth?**
+No. The 9084 syllabus lists vicarious liability "in outline
 only" under 4.1.1, alongside personal and joint liability.
 
-**What makes a good Paper 4 essay?** A clear argument, accurate authority and evaluation of policy, such as
+**What makes a good Paper 4 essay?**
+A clear argument, accurate authority and evaluation of policy, such as
 floodgates in nervous shock or the balance between neighbours in nuisance, ending with a reasoned
 conclusion.
 

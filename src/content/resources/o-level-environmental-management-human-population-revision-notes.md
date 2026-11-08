@@ -132,18 +132,22 @@ slowed growth but contributed to rapid ageing and a gender imbalance.
 
 ## Frequently asked questions
 
-**What is a dependent population?** People who rely on the working population, usually children aged 0-14
+**What is a dependent population?**
+People who rely on the working population, usually children aged 0-14
 and people aged 65 and over.
 
-**What is the difference between urbanisation and rural-urban migration?** Rural-urban migration is the
+**What is the difference between urbanisation and rural-urban migration?**
+Rural-urban migration is the
 movement of people from the countryside to towns. Urbanisation is the resulting growth in the proportion
 of people living in urban areas.
 
-**What is the difference between push and pull factors?** Push factors are reasons to leave a place, such
+**What is the difference between push and pull factors?**
+Push factors are reasons to leave a place, such
 as conflict, poverty or natural hazards. Pull factors are reasons to move to a place, such as jobs, safety and
 better services. Most migration answers need one of each.
 
-**Which population strategies does 5014 list?** Access to contraception, pro-natalist and anti-natalist
+**Which population strategies does 5014 list?**
+Access to contraception, pro-natalist and anti-natalist
 policies, access to education, access to healthcare and control of migration.
 
 ## Official syllabus

@@ -126,10 +126,12 @@ sound may be less natural or noisier [1].
 
 ## Frequently asked questions
 
-**Should I use 1000 or 1024 for file sizes?** The 9618 syllabus uses binary prefixes: kibibyte
+**Should I use 1000 or 1024 for file sizes?**
+The 9618 syllabus uses binary prefixes: kibibyte
 (1024 bytes) and mebibyte (1024 × 1024 bytes). Show your working so method marks are available.
 
-**Do I need to include the header in calculations?** Questions usually say to ignore it; the
+**Do I need to include the header in calculations?**
+Questions usually say to ignore it; the
 calculation estimates the size of the pixel data only.
 
 *Based on the Cambridge International AS & A Level Computer Science 9618 syllabus for 2027, 2028 and

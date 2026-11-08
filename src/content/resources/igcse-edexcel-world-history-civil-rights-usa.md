@@ -135,14 +135,17 @@ Act (1974)**.
 
 ## Frequently asked questions
 
-**Was King the most important factor in civil rights progress?** A classic essay. Weigh King
+**Was King the most important factor in civil rights progress?**
+A classic essay. Weigh King
 against the NAACP and the courts, grassroots activists (SNCC, CORE), federal government action, the
 media and the pressure created by more radical groups.
 
-**What was the difference between Black Power and King's approach?** King sought integration
+**What was the difference between Black Power and King's approach?**
+King sought integration
 through non-violence; Black Power stressed black pride, self-reliance and self-defence.
 
-**Why does Watergate belong in a civil rights unit?** The depth study is about a "divided union":
+**Why does Watergate belong in a civil rights unit?**
+The depth study is about a "divided union":
 Watergate deepened distrust of government and led to laws protecting citizens' rights.
 
 ## Official syllabus

@@ -138,13 +138,16 @@ about 62% of the vote, and Mandela became President.
 
 ## Frequently asked questions
 
-**Was apartheid new in 1948?** No — segregation existed already. Apartheid made it comprehensive and
+**Was apartheid new in 1948?**
+No — segregation existed already. Apartheid made it comprehensive and
 rigidly enforced by law.
 
-**Why did the ANC turn to armed struggle?** Sharpeville and the banning of the ANC in 1960 convinced its
+**Why did the ANC turn to armed struggle?**
+Sharpeville and the banning of the ANC in 1960 convinced its
 leaders that non-violent protest alone could not succeed.
 
-**Who deserves most credit for ending apartheid?** Weigh de Klerk, Mandela, internal resistance (UDF,
+**Who deserves most credit for ending apartheid?**
+Weigh de Klerk, Mandela, internal resistance (UDF,
 township protest, churches) and international sanctions; strong answers link them.
 
 ## Official syllabus

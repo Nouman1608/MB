@@ -132,10 +132,12 @@ Maximum 9.
 
 ## Frequently asked questions
 
-**How should I answer a 9-mark evaluation?** Give developed points on both sides with specific
+**How should I answer a 9-mark evaluation?**
+Give developed points on both sides with specific
 examples from Karachi or Lahore, then a clear judgement that answers the statement.
 
-**Do I need exact statistics?** Use approximate, up-to-date figures from your course materials and
+**Do I need exact statistics?**
+Use approximate, up-to-date figures from your course materials and
 from any resource in the question; examiners reward accurate use of the data provided.
 
 *Based on the OxfordAQA International GCSE Pakistan Studies (9236) specification, Version 1.9, topic

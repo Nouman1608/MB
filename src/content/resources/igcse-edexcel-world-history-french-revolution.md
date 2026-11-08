@@ -160,18 +160,22 @@ Terror and the eventual return of one-man rule.
 
 ## Frequently asked questions
 
-**Which key topic is most often the focus of the 16-mark essay?** Any of the five can be set. The
+**Which key topic is most often the focus of the 16-mark essay?**
+Any of the five can be set. The
 safest preparation is to know the causes of each turning point (1789, August 1792, the Terror,
 Thermidor, Brumaire) well enough to weigh one cause against others.
 
-**Do I need to know Enlightenment writers in detail?** You need to explain how their ideas
+**Do I need to know Enlightenment writers in detail?**
+You need to explain how their ideas
 challenged privilege and absolute monarchy, with one or two named examples. Long summaries of
 their books will not earn extra marks.
 
-**Is the Great Fear the same as the Terror?** No. The Great Fear was a rural panic and peasant
+**Is the Great Fear the same as the Terror?**
+No. The Great Fear was a rural panic and peasant
 rising in the summer of 1789; the Terror was government policy in 1793–94.
 
-**What does "explain two effects" need?** Two developed effects, each supported with specific
+**What does "explain two effects" need?**
+Two developed effects, each supported with specific
 detail and linked clearly back to the event in the question.
 
 ## How to revise this depth study

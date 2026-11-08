@@ -153,13 +153,16 @@ countries.
 
 ## Frequently asked questions
 
-**Why do food chains rarely have more than five levels?** Only about 10% of energy passes up each level,
+**Why do food chains rarely have more than five levels?**
+Only about 10% of energy passes up each level,
 so too little energy remains to support animals at higher levels.
 
-**What is a pilot study?** A small trial run of the method, used to find and fix problems before the main
+**What is a pilot study?**
+A small trial run of the method, used to find and fix problems before the main
 data collection.
 
-**How does deforestation change rainfall?** Fewer trees means less transpiration, so less water vapour enters
+**How does deforestation change rainfall?**
+Fewer trees means less transpiration, so less water vapour enters
 the atmosphere and local rainfall can decrease.
 
 ## Official syllabus

@@ -139,14 +139,17 @@ the problem.
 
 ## Frequently asked questions
 
-**Who was most important to unification?** That is the classic 16-mark debate. Cavour's diplomacy
+**Who was most important to unification?**
+That is the classic 16-mark debate. Cavour's diplomacy
 won French help; Garibaldi delivered the south; Napoleon III's armies defeated Austria; Prussia's
 wars delivered Venetia and Rome. A strong answer weighs them rather than listing them.
 
-**Did Cavour want a united Italy?** Historians debate this. His actions up to 1859 aimed mainly
+**Did Cavour want a united Italy?**
+Historians debate this. His actions up to 1859 aimed mainly
 at expanding Piedmont in the north; he moved to take the south only once Garibaldi had conquered it.
 
-**Is Mazzini on the syllabus?** Yes, through the 1848 revolutions and the Roman Republic.
+**Is Mazzini on the syllabus?**
+Yes, through the 1848 revolutions and the Roman Republic.
 
 ## Official syllabus
 

@@ -137,10 +137,12 @@ extra economic and health benefits, so both are needed. Maximum 9.
 
 ## Frequently asked questions
 
-**Which named examples work best?** The 2022 floods, the Billion Tree Tsunami, Lahore's smog, the
+**Which named examples work best?**
+The 2022 floods, the Billion Tree Tsunami, Lahore's smog, the
 National Adaptation Plan and the Benazir Income Support Programme cover most of the topic.
 
-**Should I learn the 2022 flood figures?** Know that the floods killed more than 1,700 people and
+**Should I learn the 2022 flood figures?**
+Know that the floods killed more than 1,700 people and
 that damage and losses were estimated at about US$30 billion; use any figures given in the paper.
 
 *Based on the OxfordAQA International GCSE Pakistan Studies (9236) specification, Version 1.9, topic

@@ -129,11 +129,13 @@ This topic is examined in OxfordAQA 9236 Paper 2, Section C, worth 21 of the pap
 
 ## Frequently asked questions
 
-**Why are mobile wallets important for development?** They let people without bank accounts receive
+**Why are mobile wallets important for development?**
+They let people without bank accounts receive
 wages, remittances and government payments safely, which supports small businesses and women's
 financial independence.
 
-**What is the difference between a seaport and a dry port?** A seaport handles ships; a dry port is
+**What is the difference between a seaport and a dry port?**
+A seaport handles ships; a dry port is
 inland, linked to the seaport, and handles customs and containers.
 
 ## Related pages

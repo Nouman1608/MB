@@ -166,9 +166,7 @@ A single mis-tracked register value early in a trace makes every following line 
 Cambridge International AS & A Level Computer Science 9618 syllabus
 for 2027-2029 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/721397-2027-2029-syllabus.pdf).
-This syllabus is valid for the 2027-2029 examination series only;
-anyone extending this taxonomy in a future run should re-check for a
-successor syllabus code before assuming continuity.
+This syllabus is valid for the 2027-2029 examination series.
 
 ## Related resources
 

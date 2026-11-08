@@ -116,10 +116,12 @@ the [B8 practice questions](/resources/edexcel-igcse-world-history-breadth-study
 
 ## Frequently asked questions
 
-**What was the significance of Windrush?** It became the symbol of post-war Commonwealth migration that
+**What was the significance of Windrush?**
+It became the symbol of post-war Commonwealth migration that
 made Britain a more diverse society.
 
-**Why was the Macpherson Report important?** It accepted that racism could be built into institutions,
+**Why was the Macpherson Report important?**
+It accepted that racism could be built into institutions,
 not just individuals, and led to changes in policing and race relations law.
 
 ## Common mistakes and exam traps

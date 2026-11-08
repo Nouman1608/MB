@@ -124,17 +124,6 @@ Identify the brain area most likely to have been damaged and explain your answer
 - Animal research has informed this area, which raises generalisation and ethical issues.
 - Plasticity challenges strict localisation, supporting a more holistic view of brain function.
 
-## Frequently asked questions
-
-**Which paper assesses biopsychology?**
-Paper 2, Psychology in Context (2 hours, 96 marks, 33.3% of the A-level), alongside approaches and research methods. In the AS (7181), only the nervous system, neurons and synaptic transmission, the endocrine system and fight or flight are assessed.
-
-**Are biological rhythms still on the specification?**
-Check the current version: section 4.2.2 of Version 1.4 lists the nervous and endocrine systems, fight or flight, ways of studying the brain, localisation, lateralisation, split-brain research and plasticity.
-
-**How long should a 16-mark answer be?**
-About 400 to 500 words: roughly 6 marks of description and 10 of evaluation, with each point linked back to the question.
-
 ## Where marks are usually lost
 
 - In question 4, describing fight or flight without linking to Kemal's pounding heart or running.
@@ -149,3 +138,14 @@ Revisit any weak area in the [Biopsychology study guide](/resources/aqa-a-level-
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), section 4.2.2 Biopsychology and the Paper 2 assessment summary — [aqa.org.uk](https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification).
+
+## Frequently asked questions
+
+**Which paper assesses biopsychology?**
+Paper 2, Psychology in Context (2 hours, 96 marks, 33.3% of the A-level), alongside approaches and research methods. In the AS (7181), only the nervous system, neurons and synaptic transmission, the endocrine system and fight or flight are assessed.
+
+**Are biological rhythms still on the specification?**
+Check the current version: section 4.2.2 of Version 1.4 lists the nervous and endocrine systems, fight or flight, ways of studying the brain, localisation, lateralisation, split-brain research and plasticity.
+
+**How long should a 16-mark answer be?**
+About 400 to 500 words: roughly 6 marks of description and 10 of evaluation, with each point linked back to the question.

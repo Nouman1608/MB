@@ -130,9 +130,11 @@ OxfordAQA International GCSE History 9245 Paper 2 Section B sets four questions 
 
 ## Frequently asked questions
 
-**Should I learn every person listed?** Yes -- each named individual can be the focus of a question.
+**Should I learn every person listed?**
+Yes -- each named individual can be the focus of a question.
 
-**How do I link periods in question 4?** Choose examples from at least two periods and show how a factor's importance changed over time.
+**How do I link periods in question 4?**
+Choose examples from at least two periods and show how a factor's importance changed over time.
 
 ## Official specification
 

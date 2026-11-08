@@ -130,13 +130,16 @@ strengthened nationalism.
 
 ## Frequently asked questions
 
-**What was the significance of the Salt March?** It made the salt tax a symbol of unjust rule,
+**What was the significance of the Salt March?**
+It made the salt tax a symbol of unjust rule,
 drew worldwide attention and brought mass participation into civil disobedience.
 
-**Why did the Cabinet Mission fail?** Congress and the League interpreted the grouping plan
+**Why did the Cabinet Mission fail?**
+Congress and the League interpreted the grouping plan
 differently, and trust collapsed after Nehru's statement in July 1946.
 
-**What problems did partition cause?** Mass violence, the displacement of millions, and disputes
+**What problems did partition cause?**
+Mass violence, the displacement of millions, and disputes
 over Princely States, especially Kashmir.
 
 ## Source

@@ -1,5 +1,5 @@
 ---
-title: "A Level Law: Underlying Principles and Law Making — Revision Notes"
+title: "Edexcel International A Level Law: Underlying Principles and Law Making — Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

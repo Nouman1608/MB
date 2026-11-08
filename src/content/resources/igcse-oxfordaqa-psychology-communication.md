@@ -133,18 +133,22 @@ interpreted is learned.
 
 ## Frequently asked questions
 
-**Which version of the Sapir-Whorf hypothesis does the evidence support?** Mostly the weak version.
+**Which version of the Sapir-Whorf hypothesis does the evidence support?**
+Mostly the weak version.
 Cross-cultural colour studies show that having separate colour words makes colours easier to
 remember, not that speakers cannot perceive the difference.
 
-**What did Von Frisch's bee study show?** That bees communicate the direction and distance of food
+**What did Von Frisch's bee study show?**
+That bees communicate the direction and distance of food
 through a round dance or a waggle dance. It is the specification's named example of complex but
 limited animal communication.
 
-**What is postural echo?** Mirroring the posture of the person you are with. It usually signals
+**What is postural echo?**
+Mirroring the posture of the person you are with. It usually signals
 rapport or agreement between them.
 
-**Is Darwin's theory supported?** Partly. Newborns and people born blind show basic expressions
+**Is Darwin's theory supported?**
+Partly. Newborns and people born blind show basic expressions
 without learning, but Yuki's study shows cultural learning affects how expressions are read.
 
 ## Related resources

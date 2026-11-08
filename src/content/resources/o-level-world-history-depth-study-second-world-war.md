@@ -96,11 +96,14 @@ Depth Study E was introduced in the 2024-2026 syllabus. It is examined in **Pape
 
 ## Frequently asked questions
 
-**Why is Malaya and Singapore in two key questions?** It is the case study both for early Japanese success (key question 2) and for life under Japanese control (key question 3).
+**Why is Malaya and Singapore in two key questions?**
+It is the case study both for early Japanese success (key question 2) and for life under Japanese control (key question 3).
 
-**Do I need naval detail for Midway?** Know the codebreaking, the four carriers lost and why it was a turning point.
+**Do I need naval detail for Midway?**
+Know the codebreaking, the four carriers lost and why it was a turning point.
 
-**What counts as "consolidation of victory"?** The Allied occupations of Germany and Japan and the war crimes trials at Nuremberg and Tokyo.
+**What counts as "consolidation of victory"?**
+The Allied occupations of Germany and Japan and the war crimes trials at Nuremberg and Tokyo.
 
 ## Official syllabus
 

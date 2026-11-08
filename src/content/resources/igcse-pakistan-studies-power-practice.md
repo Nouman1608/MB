@@ -138,14 +138,17 @@ term. Maximum 6.
 
 ## Frequently asked questions
 
-**How long should a 6-mark evaluation answer be?** Aim for both sides with at least two developed
+**How long should a 6-mark evaluation answer be?**
+Aim for both sides with at least two developed
 points each, a named example, and a one-sentence judgement at the end.
 
-**Will diagrams be asked for?** The syllabus states that candidates should describe extraction
+**Will diagrams be asked for?**
+The syllabus states that candidates should describe extraction
 methods with the help of a simple diagram, so practise drawing open cast, adit, shaft and drilling
 diagrams.
 
-**Where can I find real questions?** Use the Cambridge 0448 past papers and mark schemes on the
+**Where can I find real questions?**
+Use the Cambridge 0448 past papers and mark schemes on the
 School Support Hub or your school's copies alongside these original questions.
 
 *Based on the Cambridge IGCSE Pakistan Studies 0448 syllabus for examination in 2026, Paper 2

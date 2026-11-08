@@ -1,5 +1,5 @@
 ---
-title: "A Level Law: The Law in Action — Revision Notes"
+title: "Edexcel International A Level Law: The Law in Action — Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

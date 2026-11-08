@@ -123,10 +123,12 @@ Size 4, front = 0, rear = −1, count = 0. Enqueue 10, 20, 30; dequeue, dequeue;
 
 ## Frequently asked questions
 
-**Why does `top` start at −1?** So that the first push moves it to index 0, the first element of the
+**Why does `top` start at −1?**
+So that the first push moves it to index 0, the first element of the
 array, and `top = −1` can mean empty.
 
-**Can a record contain another record or an array?** Yes; fields can be any type, including arrays
+**Can a record contain another record or an array?**
+Yes; fields can be any type, including arrays
 or other records.
 
 ## Related pages

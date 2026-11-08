@@ -106,9 +106,11 @@ These questions cover every focus point of Cambridge O Level History 2147 Option
 
 ## Frequently asked questions
 
-**How many focus points does key question 2.6 have?** Five: the 1956 and 1968 risings and Soviet reactions; their similarities; the Berlin Wall; Solidarity; Gorbachev's responsibility.
+**How many focus points does key question 2.6 have?**
+Five: the 1956 and 1968 risings and Soviet reactions; their similarities; the Berlin Wall; Solidarity; Gorbachev's responsibility.
 
-**Do I need numbers?** Approximate figures (about 200,000 Hungarians fled; about three million East Germans left before 1961; ten million Solidarity members) strengthen explanations.
+**Do I need numbers?**
+Approximate figures (about 200,000 Hungarians fled; about three million East Germans left before 1961; ten million Solidarity members) strengthen explanations.
 
 ## Official syllabus
 

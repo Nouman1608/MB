@@ -119,10 +119,12 @@ conflict of 1999 led to **General Pervez Musharraf** taking power in October 199
 
 ## Frequently asked questions
 
-**Why was the Kashmir dispute so important?** It caused war in 1947–48 and 1965, remains unresolved,
+**Why was the Kashmir dispute so important?**
+It caused war in 1947–48 and 1965, remains unresolved,
 and has shaped Pakistan's defence spending and relations with India ever since.
 
-**What did the Objectives Resolution say?** It declared that sovereignty belongs to Allah, that
+**What did the Objectives Resolution say?**
+It declared that sovereignty belongs to Allah, that
 power is a sacred trust exercised through the people, and that Pakistan would follow principles of
 democracy and Islamic social justice while protecting minorities.
 

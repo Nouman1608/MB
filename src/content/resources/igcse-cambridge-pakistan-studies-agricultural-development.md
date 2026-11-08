@@ -139,14 +139,17 @@ often gained most, and chemicals raise costs and can pollute water.
 
 ## Frequently asked questions
 
-**What is the difference between subsistence and cash crop farming?** Subsistence farming grows food
+**What is the difference between subsistence and cash crop farming?**
+Subsistence farming grows food
 mainly for the farmer's family. Cash crop farming grows crops such as cotton or sugar cane mainly for
 sale.
 
-**What is transhumance?** The seasonal movement of herders and their animals between high summer
+**What is transhumance?**
+The seasonal movement of herders and their animals between high summer
 pastures and lower winter grazing.
 
-**Why is waterlogging a major problem in the Indus Plain?** Large perennial canal systems lose water
+**Why is waterlogging a major problem in the Indus Plain?**
+Large perennial canal systems lose water
 through seepage, raising the water table, and high evaporation then brings salts to the surface.
 
 ## Related pages

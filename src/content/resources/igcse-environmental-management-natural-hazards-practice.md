@@ -164,13 +164,16 @@ it. For "discuss" questions, link each strategy to the correct stage of the haza
 
 ## Frequently asked questions
 
-**Do I need named case studies?** The syllabus does not list specific events, but using a real example
+**Do I need named case studies?**
+The syllabus does not list specific events, but using a real example
 accurately, with location and date, strengthens a "discuss" answer.
 
-**Which hazards have opportunities on the syllabus?** Volcanoes (fertile soils, minerals, building
+**Which hazards have opportunities on the syllabus?**
+Volcanoes (fertile soils, minerals, building
 materials, geothermal power, tourism) and flooding (silt and water recharge).
 
-**What is the difference between a storm, a hurricane and a typhoon?** They are names for tropical cyclones
+**What is the difference between a storm, a hurricane and a typhoon?**
+They are names for tropical cyclones
 used in different regions; the formation conditions are the same.
 
 ## Official syllabus

@@ -131,11 +131,14 @@ These questions cover the law-making and legal-system parts of AQA A-level Law (
 
 ## Frequently asked questions
 
-**What is the difference between procedural and substantive ultra vires?** Procedural ultra vires means the body did not follow the procedure the enabling Act required, such as consulting interested parties. Substantive ultra vires means it made rules beyond the powers the Act gave it.
+**What is the difference between procedural and substantive ultra vires?**
+Procedural ultra vires means the body did not follow the procedure the enabling Act required, such as consulting interested parties. Substantive ultra vires means it made rules beyond the powers the Act gave it.
 
-**Which courts are bound by the Supreme Court?** Every court below it in England and Wales. The Supreme Court itself may depart from its earlier decisions under the Practice Statement 1966.
+**Which courts are bound by the Supreme Court?**
+Every court below it in England and Wales. The Supreme Court itself may depart from its earlier decisions under the Practice Statement 1966.
 
-**What track is used for a small civil claim?** Claims up to £10,000 normally go to the small claims track, with lower limits for most personal injury claims.
+**What track is used for a small civil claim?**
+Claims up to £10,000 normally go to the small claims track, with lower limits for most personal injury claims.
 
 ---
 

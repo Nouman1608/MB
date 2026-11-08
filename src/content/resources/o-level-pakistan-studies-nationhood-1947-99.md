@@ -119,14 +119,17 @@ the surrender of Pakistani forces in Dhaka on 16 December.
 
 ## Frequently asked questions
 
-**Who was Pakistan's first Prime Minister?** Liaquat Ali Khan, from 1947 until his assassination in
+**Who was Pakistan's first Prime Minister?**
+Liaquat Ali Khan, from 1947 until his assassination in
 Rawalpindi in October 1951.
 
-**What did the Simla Agreement do?** Signed by Zulfikar Ali Bhutto and Indira Gandhi in 1972, it
+**What did the Simla Agreement do?**
+Signed by Zulfikar Ali Bhutto and Indira Gandhi in 1972, it
 arranged the return of territory captured in the 1971 war and committed both countries to settle disputes
 bilaterally.
 
-**Why did Pakistan leave SEATO and CENTO?** It felt its Western allies had not supported it in its
+**Why did Pakistan leave SEATO and CENTO?**
+It felt its Western allies had not supported it in its
 wars with India, especially in 1971.
 
 ## Related pages

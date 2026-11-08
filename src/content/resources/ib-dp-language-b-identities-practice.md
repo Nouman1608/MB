@@ -39,7 +39,7 @@ requires; apply the same task types to authentic target-language material with y
 
 **1.** Name the five recommended topics within the Identities theme. **[5]**
 
-**2.** State the theme's guiding question. **[1]**
+**2.** State the possible question about language, culture and identity that this set uses as the theme's key question. **[1]**
 
 **3.** Give one text type Paper 1 might ask you to produce if a prompt draws on this theme. **[1]**
 
@@ -59,7 +59,7 @@ unseen material Identities' comprehension papers use), then answer the questions
 
 **5.** State what originally made the writer feel like an outsider in the group. **[2]**
 
-**6.** Explain, using the theme's guiding question, what this text suggests about the relationship between belonging to a subculture and forming a personal identity. **[3]**
+**6.** Explain, using the theme's key question, what this text suggests about the relationship between belonging to a subculture and forming a personal identity. **[3]**
 
 **7.** Explain, using cause-and-effect language, why the writer's family "barely recognises" who they have become. **[2]**
 
@@ -81,7 +81,7 @@ unseen material Identities' comprehension papers use), then answer the questions
 
 **5.** Unfamiliarity with the group's unspoken rules and slang. **[2]**
 
-**6.** The text suggests that learning a subculture's specific language and unspoken conventions (its "rules and slang") is presented as the mechanism through which belonging, and a shift in personal identity, actually happens -- not a side effect of joining the group but the process by which the writer's identity itself changes. This directly illustrates the guiding question's claim that language and culture contribute to forming an identity: the writer's growing fluency in the subculture's language runs alongside, and appears to drive, their described change in confidence and directness. A strong answer names this connection explicitly rather than only summarising that the writer "changed after joining the group." **[3]**
+**6.** The text suggests that learning a subculture's specific language and unspoken conventions (its "rules and slang") is presented as the mechanism through which belonging, and a shift in personal identity, actually happens -- not a side effect of joining the group but the process by which the writer's identity itself changes. This directly illustrates the key question's claim that language and culture contribute to forming an identity: the writer's growing fluency in the subculture's language runs alongside, and appears to drive, their described change in confidence and directness. A strong answer names this connection explicitly rather than only summarising that the writer "changed after joining the group." **[3]**
 
 **7.** The writer reasons that learning the skateboarding group's language, style and norms (the cause) has changed how they behave day to day -- becoming more confident and direct (the effect) -- to the point that this behavioural change is visible enough that people who knew them only in their previous context (their family) no longer recognise the shift, an explicit because/as-a-result chain linking cultural immersion in the new group to a personal, visible change in identity. **[2]**
 
@@ -89,11 +89,11 @@ unseen material Identities' comprehension papers use), then answer the questions
 
 ## Adapting Section B to your own target language
 
-Once the comprehension approach above feels comfortable in English, repeat the same task type with a genuine target-language text on a related Identities topic (a personal blog post, a magazine interview, or a short opinion piece about lifestyle or belonging), sourced with your teacher. Keep the same question structure -- identify specific personal changes described, identify what originally caused difficulty or discomfort, connect the text back to the theme's guiding question, and explain a stated cause-and-effect relationship -- since this structure mirrors how Paper 2's comprehension questions are actually built around an unseen text, regardless of which target language the course is taught in. Practising the identical task type first in a language you are fully fluent in, then in your target language, isolates the language-comprehension challenge from the task-recognition challenge, which is a more efficient way to build genuine exam readiness than attempting unfamiliar task types and unfamiliar language difficulty at the same time.
+Once the comprehension approach above feels comfortable in English, repeat the same task type with a genuine target-language text on a related Identities topic (a personal blog post, a magazine interview, or a short opinion piece about lifestyle or belonging), sourced with your teacher. Keep the same question structure -- identify specific personal changes described, identify what originally caused difficulty or discomfort, connect the text back to the theme's key question, and explain a stated cause-and-effect relationship -- since this structure mirrors how Paper 2's comprehension questions are actually built around an unseen text, regardless of which target language the course is taught in. Practising the identical task type first in a language you are fully fluent in, then in your target language, isolates the language-comprehension challenge from the task-recognition challenge, which is a more efficient way to build genuine exam readiness than attempting unfamiliar task types and unfamiliar language difficulty at the same time.
 
 ## Why this practice set uses an English-language model text
 
-Because Language B is taught and examined in many different target languages, this set demonstrates the task types and skills (comprehension of a personal, reflective text, connecting specific detail to the theme's guiding question, planning a register-appropriate written response) in English so they can be directly adapted to genuine target-language material with a teacher, rather than assuming one specific target language. The comprehension text is deliberately built around personal, reflective content, matching the study guide's point that Identities leans more heavily on this kind of language than an issue-driven theme like Sharing the Planet.
+Because Language B is taught and examined in many different target languages, this set demonstrates the task types and skills (comprehension of a personal, reflective text, connecting specific detail to the theme's key question, planning a register-appropriate written response) in English so they can be directly adapted to genuine target-language material with a teacher, rather than assuming one specific target language. The comprehension text is deliberately built around personal, reflective content, matching the study guide's point that Identities leans more heavily on this kind of language than an issue-driven theme like Sharing the Planet.
 
 ## Frequently asked questions
 

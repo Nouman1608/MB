@@ -134,13 +134,17 @@ The marks come from linking each feature to the scenario, not from listing featu
 
 ## Frequently asked questions
 
-**Is an IDE system software?** It is a programming tool that includes a translator; the syllabus places IDEs with language translators in 5.2. What matters is naming the features and saying how each helps the programmer.
+**Is an IDE system software?**
+It is a programming tool that includes a translator; the syllabus places IDEs with language translators in 5.2. What matters is naming the features and saying how each helps the programmer.
 
-**Why is compiled code faster to run?** Translation has already happened, so the processor executes machine code directly. An interpreter translates each statement every time it is executed, including every pass through a loop.
+**Why is compiled code faster to run?**
+Translation has already happened, so the processor executes machine code directly. An interpreter translates each statement every time it is executed, including every pass through a loop.
 
-**Does a compiled program have no errors?** No. Compilation removes syntax errors only. Logic errors and run-time errors can still occur when the executable runs.
+**Does a compiled program have no errors?**
+No. Compilation removes syntax errors only. Logic errors and run-time errors can still occur when the executable runs.
 
-**What is bytecode?** An intermediate code produced by partly compiling a high-level program. A virtual machine interprets it, which lets one compiled version run on different platforms.
+**What is bytecode?**
+An intermediate code produced by partly compiling a high-level program. A virtual machine interprets it, which lets one compiled version run on different platforms.
 
 ## Official syllabus
 

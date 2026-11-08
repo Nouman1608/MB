@@ -118,11 +118,14 @@ Paragraph 1: Stalingrad's effects. Paragraph 2: alternatives -- the Battle of Br
 
 ## Frequently asked questions
 
-**When did the war end?** In Europe, with Germany's surrender in May 1945; in the Asia-Pacific, with Japan's surrender announced on 15 August and signed on 2 September 1945.
+**When did the war end?**
+In Europe, with Germany's surrender in May 1945; in the Asia-Pacific, with Japan's surrender announced on 15 August and signed on 2 September 1945.
 
-**What was the Sook Ching?** The Japanese "purge" of Chinese men in Singapore and Malaya in 1942, in which many thousands were killed.
+**What was the Sook Ching?**
+The Japanese "purge" of Chinese men in Singapore and Malaya in 1942, in which many thousands were killed.
 
-**What were the war crimes trials?** International trials of German leaders at Nuremberg (1945-46) and Japanese leaders in Tokyo (1946-48).
+**What were the war crimes trials?**
+International trials of German leaders at Nuremberg (1945-46) and Japanese leaders in Tokyo (1946-48).
 
 ## Self-test
 

@@ -44,9 +44,9 @@ comprehension for the exam's unseen material.
 
 Explores the nature of the self and what it means to be human.
 Recommended topics include lifestyles, health and well-being, beliefs
-and values, subcultures, and language and identity. The theme's
-guiding question -- how do language and culture contribute to forming
-an identity? -- is a useful lens to apply to any Identities text,
+and values, subcultures, and language and identity. One of the
+possible questions the IB lists for the theme -- how do language and
+culture contribute to forming an identity? -- is a useful key question to apply to any Identities text,
 whether written, audio, visual or audio-visual, rather than a fixed
 list of facts to memorise.
 
@@ -62,12 +62,12 @@ Identities fluently in speaking practice but has not built
 comprehension vocabulary for it separately is only prepared for half
 of what the exam actually tests.
 
-## Worked example: applying the guiding question to an unseen text
+## Worked example: applying the key question to an unseen text
 
 An unseen reading passage discusses how a community's traditional
 dress has changed across generations. The surface content simply
 describes changes in traditional dress over time. Applying the theme's
-guiding question means asking how the described change in dress
+key question means asking how the described change in dress
 reflects a shift in how the community's identity is expressed or
 understood across generations. The comprehension skill actually being
 tested is connecting a specific detail in the passage -- what changed,
@@ -120,7 +120,7 @@ spoken and written responses.
 ## Common exam pitfalls
 
 Discussing surface content of an Identities text without connecting
-it back to the theme's guiding question about language, culture and
+it back to the theme's key question about language, culture and
 identity formation is the most common gap -- a summary of what a
 passage says is not, on its own, an answer to a comprehension question
 that expects the broader theme applied. Assuming familiarity with a
@@ -143,7 +143,7 @@ named exam section -- it is one of the five themes Paper 2's unseen
 material can be drawn from, and one of several possible sources for
 Paper 1's writing task and the individual oral's stimulus. Preparation
 is most effective when it builds transferable comprehension and
-production fluency around the theme's vocabulary and guiding question,
+production fluency around the theme's vocabulary and key question,
 rather than treating Identities as a fixed block of content to recall
 verbatim.
 

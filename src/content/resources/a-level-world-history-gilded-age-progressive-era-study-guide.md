@@ -105,11 +105,14 @@ For Wilson: the Federal Reserve, Clayton Act, FTC and the income tax restructure
 
 ## Frequently asked questions
 
-**What does "Gilded Age" mean?** The term, taken from a novel by Mark Twain and Charles Dudley Warner (1873), suggests a thin layer of gold covering serious social problems.
+**What does "Gilded Age" mean?**
+The term, taken from a novel by Mark Twain and Charles Dudley Warner (1873), suggests a thin layer of gold covering serious social problems.
 
-**Were the Populists Progressives?** No, but many Populist demands -- an income tax, direct election of Senators, regulation of railroads -- were later achieved in the Progressive Era.
+**Were the Populists Progressives?**
+No, but many Populist demands -- an income tax, direct election of Senators, regulation of railroads -- were later achieved in the Progressive Era.
 
-**When is this topic on Paper 1?** 2027, in the 2027-2029 rotation.
+**When is this topic on Paper 1?**
+2027, in the 2027-2029 rotation.
 
 ## Official syllabus
 

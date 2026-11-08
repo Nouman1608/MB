@@ -136,18 +136,22 @@ treatment — evidence that the therapy works outside tightly controlled trials.
 
 ## Frequently asked questions
 
-**What is the difference between an obsession and a compulsion?** An obsession is an unwanted,
+**What is the difference between an obsession and a compulsion?**
+An obsession is an unwanted,
 intrusive thought, image or urge that causes anxiety. A compulsion is a repetitive behaviour or mental
 act carried out to reduce that anxiety.
 
-**What does dual representation theory say about flashbacks?** That trauma creates a strong sensory
+**What does dual representation theory say about flashbacks?**
+That trauma creates a strong sensory
 memory that is poorly linked to a verbal, contextual memory. Reminders trigger the sensory memory
 automatically, so it is re-experienced as if happening now.
 
-**Why might recorded rates of mental health problems rise?** Partly because of real pressures such as
+**Why might recorded rates of mental health problems rise?**
+Partly because of real pressures such as
 isolation, and partly because better recognition and less stigma mean more people seek a diagnosis.
 
-**Which therapies does the specification name?** Cognitive behaviour therapy for OCD and prolonged
+**Which therapies does the specification name?**
+Cognitive behaviour therapy for OCD and prolonged
 exposure therapy for PTSD.
 
 ## Related resources

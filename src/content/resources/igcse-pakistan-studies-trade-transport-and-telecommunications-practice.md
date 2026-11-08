@@ -134,10 +134,12 @@ judgement, for example that the two are complementary, earns the top mark. Maxim
 
 ## Frequently asked questions
 
-**How do I earn marks on pattern questions?** First describe the pattern with directions and named
+**How do I earn marks on pattern questions?**
+First describe the pattern with directions and named
 places, then explain it with physical and human factors.
 
-**Should I learn trade figures?** The syllabus asks about changes in types, amounts and value, so
+**Should I learn trade figures?**
+The syllabus asks about changes in types, amounts and value, so
 learn a few current figures from your course statistics and quote the year.
 
 *Based on the Cambridge IGCSE Pakistan Studies 0448 syllabus for examination in 2026, Paper 2

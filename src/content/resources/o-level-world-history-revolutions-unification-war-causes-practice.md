@@ -120,9 +120,11 @@ This page practises three of the six Option A key questions in Cambridge O Level
 
 ## Frequently asked questions
 
-**Why only three key questions on this page?** The other key questions in Option A are practised on the site's [Nineteenth Century practice page](/resources/o-level-world-history-nineteenth-century-practice/).
+**Why only three key questions on this page?**
+The other key questions in Option A are practised on the site's [Nineteenth Century practice page](/resources/o-level-world-history-nineteenth-century-practice/).
 
-**Which of these topics has been a Paper 2 prescribed topic?** "What caused the First World War?" (June 2024) and "How was Germany unified?" (June 2025), according to the 2147 syllabus for 2024-2026.
+**Which of these topics has been a Paper 2 prescribed topic?**
+"What caused the First World War?" (June 2024) and "How was Germany unified?" (June 2025), according to the 2147 syllabus for 2024-2026.
 
 ## Official syllabus
 

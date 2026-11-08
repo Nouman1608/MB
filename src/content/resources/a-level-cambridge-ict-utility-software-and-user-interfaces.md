@@ -125,14 +125,17 @@ commands can be scripted to configure all servers at once, which is quicker than
 
 ## Frequently asked questions
 
-**Is defragmentation needed on an SSD?** Generally no: SSDs have no moving read/write head, so
+**Is defragmentation needed on an SSD?**
+Generally no: SSDs have no moving read/write head, so
 scattered blocks do not slow access, and unnecessary rewriting shortens their life.
 
-**What is the difference between a full and an incremental backup?** A full backup copies all
+**What is the difference between a full and an incremental backup?**
+A full backup copies all
 selected data; an incremental backup copies only data changed since the last backup, which is faster
 but needs every incremental set to restore.
 
-**Is a touch screen a GUI or a gesture interface?** Touch screens display a GUI; swipes, pinches
+**Is a touch screen a GUI or a gesture interface?**
+Touch screens display a GUI; swipes, pinches
 and other movements on them are gestures.
 
 ## Related pages

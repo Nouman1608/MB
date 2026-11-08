@@ -128,13 +128,16 @@ source questions with the [A3 practice questions](/resources/edexcel-igcse-world
 
 ## Frequently asked questions
 
-**Why did the Crash happen in 1929?** Speculation and margin buying pushed prices above real values;
+**Why did the Crash happen in 1929?**
+Speculation and margin buying pushed prices above real values;
 when confidence went, panic selling followed.
 
-**What was the TVA's importance?** It showed how federal planning could transform a poor region with
+**What was the TVA's importance?**
+It showed how federal planning could transform a poor region with
 dams, jobs and electricity.
 
-**Why did the Supreme Court oppose Roosevelt?** It ruled that some New Deal laws gave the federal
+**Why did the Supreme Court oppose Roosevelt?**
+It ruled that some New Deal laws gave the federal
 government powers the Constitution reserved to the states.
 
 ## Source

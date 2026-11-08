@@ -58,7 +58,7 @@ best close Pakistan's energy gap. For full explanations, use the
 | Fuel | Where | Moved by | Headline fact |
 |---|---|---|---|
 | Coal | Thar, Lakhra, Sonda; Duki, Sor Range, Chamalang; Makarwal, Salt Range | Mostly burned at mine; trucks; rail from ports for imports | Thar about 175 billion tonnes of lignite |
-| Gas | Sui, Mari, Qadirpur, Uch, Kandhkot, Sawan | Trunk pipelines (two gas companies); LPG cylinders by road | Output near 3 billion cubic feet a day and falling |
+| Gas | Sui, Mari, Qadirpur, Uch, Kandhkot, Sawan | Trunk pipelines (two gas companies); LPG cylinders by road | Output near 3.2 billion cubic feet a day and falling |
 | Oil | Potwar fields (Khaur, Dhulian, Toot, Meyal); Badin area | Tankers to Karachi; White Oil Pipeline to Mahmood Kot; rail and road tankers | Home output a fifth or less of demand |
 
 Always add "approximately" and a year. A figure without a date reads as a guess.

@@ -112,10 +112,12 @@ the survival of Islam, but the unity achieved in the Ridda wars made the compila
 
 ## Frequently asked questions
 
-**Why are they called "Rightly Guided"?** Because Sunni Muslims see their rule as following closely
+**Why are they called "Rightly Guided"?**
+Because Sunni Muslims see their rule as following closely
 the example of the Prophet (pbuh) and as models of just leadership.
 
-**What was the diwan?** A register of people entitled to stipends from the public treasury, introduced
+**What was the diwan?**
+A register of people entitled to stipends from the public treasury, introduced
 by Umar.
 
 ## Related pages

@@ -106,9 +106,11 @@ OxfordAQA International GCSE History 9245 Paper 2 Section A has four questions o
 
 ## Frequently asked questions
 
-**How long should question 4 be?** About three or four paragraphs -- the given factor, at least one other, and a reasoned conclusion.
+**How long should question 4 be?**
+About three or four paragraphs -- the given factor, at least one other, and a reasoned conclusion.
 
-**Are there specimen papers?** Check with your school; OxfordAQA publishes support materials for new specifications.
+**Are there specimen papers?**
+Check with your school; OxfordAQA publishes support materials for new specifications.
 
 ## Official specification
 

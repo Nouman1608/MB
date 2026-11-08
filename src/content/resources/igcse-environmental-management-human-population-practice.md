@@ -150,14 +150,17 @@ to its effect on birth rate, death rate or migration, then to population size.
 
 ## Frequently asked questions
 
-**How do I calculate the dependent population?** Add the percentages of young dependants (usually 0-14) and
+**How do I calculate the dependent population?**
+Add the percentages of young dependants (usually 0-14) and
 elderly dependants (usually 65+).
 
-**Which strategies does the 0680 syllabus name for managing population?** Access to contraception,
+**Which strategies does the 0680 syllabus name for managing population?**
+Access to contraception,
 pro-natalist and anti-natalist policies, access to education, access to healthcare and control of
 migration.
 
-**What is a megacity?** A city with more than 10 million inhabitants; megacities are listed as an impact of
+**What is a megacity?**
+A city with more than 10 million inhabitants; megacities are listed as an impact of
 population growth.
 
 ## Official syllabus

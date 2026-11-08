@@ -97,9 +97,11 @@ Depth Study questions are set in **Paper 1, Section B** of Cambridge O Level His
 
 ## Frequently asked questions
 
-**How long should a (c) answer be?** Long enough to develop both sides with specific evidence and a reasoned conclusion -- usually three paragraphs.
+**How long should a (c) answer be?**
+Long enough to develop both sides with specific evidence and a reasoned conclusion -- usually three paragraphs.
 
-**Can Section B use sources?** Depth Study questions on Paper 1 are structured essays; source questions are on Paper 2, which is set on Core Content prescribed topics.
+**Can Section B use sources?**
+Depth Study questions on Paper 1 are structured essays; source questions are on Paper 2, which is set on Core Content prescribed topics.
 
 ## Official syllabus
 
