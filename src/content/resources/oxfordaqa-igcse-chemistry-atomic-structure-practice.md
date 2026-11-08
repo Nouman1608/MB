@@ -22,10 +22,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on sub-atomic particles, isotopes, electron structure, the periodic table and states of matter."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -97,3 +99,17 @@ Related: [Atomic Structure and the Periodic Table study guide](/resources/igcse-
 ## Approaching Atomic Structure questions
 
 Almost every calculation question on this topic reduces to the same three-step relationship — protons equal the atomic number, electrons equal the number of protons in a neutral atom, and neutrons equal the mass number minus the atomic number — so practising this until it is automatic pays off across the whole topic, not just questions that use the word "calculate." For electron-structure questions, always fill the shells in order (2, then 8, then the remainder) rather than trying to recall an individual element's structure from memory, since this method works directly for any of the first twenty elements and also gives the group number immediately, as the final digit of the electron structure, for Groups 1–7 (Group 0 is the exception: helium ends in 2 and neon and argon end in 8, since a full outer shell does not follow the same pattern). Diffusion and states-of-matter questions are marked on explanation, not description — a strong answer always connects what is observed back to particle energy, arrangement or motion, rather than simply naming the process.
+
+## Frequently asked questions
+
+**What are the most common mistakes in atomic structure questions?**
+Frequent slips are confusing atomic number (protons only) with mass number (protons plus neutrons), describing isotopes as having a different atomic number, and forgetting that a neutral atom has equal numbers of protons and electrons.
+
+**How do you work out the number of neutrons in an atom?**
+Subtract the atomic number from the mass number. For example, an atom with mass number 39 and atomic number 19 has 39 − 19 = 20 neutrons.
+
+**How should you explain why noble gases are unreactive?**
+Link their lack of reactivity to their electron arrangement: noble gases have a stable, full outer shell of electrons. Simply stating that they are unreactive, without the electron explanation, does not earn the marks.
+
+**What does a diffusion experiment show about particles?**
+When a gas such as bromine vapour spreads evenly through a jar without stirring, it is evidence that particles are in constant, random motion. Your answer should make that link explicitly.

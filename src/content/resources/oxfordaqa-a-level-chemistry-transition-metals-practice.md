@@ -206,6 +206,20 @@ Values for this change: ΔH = −1.8 kJ mol⁻¹, ΔS = +205 J K⁻¹ mol⁻¹.
 - [Book a free trial class](/trial/)
 - [All free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Is transition metals AS or A2 content in OxfordAQA 9620 Chemistry?**
+Section 3.2.5 Transition metals is International A-level only, and no required practical is listed under it.
+
+**What are the most common mistakes in transition metal questions?**
+Frequent slips are counting ligands instead of co-ordinate bonds in chelate complexes, explaining the chelate effect without counting particles, and leaving λ in nm inside ΔE = hc/λ.
+
+**What mole ratios are used in manganate(VII) titrations?**
+MnO₄⁻ reacts with Fe²⁺ in a 1 : 5 ratio and with ethanedioate, C₂O₄²⁻, in a 2 : 5 ratio. Remember to scale up from the titrated portion to the whole solution.
+
+**How do you show that a transition metal acts as a catalyst?**
+Write the steps so the catalyst changes oxidation state in one step and returns to its original form in the next, as for V₂O₅ in the Contact process. Not showing that the catalyst is regenerated loses marks.
+
 ## Official syllabus
 
 Source: OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for exams from May/June 2020. Section 3.2.5 Transition metals (International A2).

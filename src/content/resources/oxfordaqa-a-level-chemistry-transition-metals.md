@@ -340,6 +340,23 @@ MnO₄⁻(aq) + 4Mn²⁺(aq) + 8H⁺(aq) → 5Mn³⁺(aq) + 4H₂O(l)
 - Using 1 : 5 for MnO₄⁻ : C₂O₄²⁻ (it is 2 : 5).
 - Confusing Fe metal (heterogeneous, Haber) with Fe²⁺(aq) (homogeneous).
 
+## Frequently asked questions
+
+**What makes an element a transition metal in OxfordAQA 9620 Chemistry?**
+From titanium to copper, each element has an incomplete d sub-level in its atom or in at least one of its ions. This gives the four typical properties: forming complexes, forming coloured ions, variable oxidation states and catalytic activity.
+
+**What is the chelate effect?**
+Bidentate and multidentate ligands displace monodentate ligands from a complex. ΔH is close to zero because similar bonds are broken and made, but one chelating ligand frees several small ligands, so ΔS is positive and ΔG is negative.
+
+**Why are transition metal ions coloured?**
+The ion absorbs some visible wavelengths, which promote a d electron from its ground state to an excited state, and you see the wavelengths that are transmitted or reflected. Changing the oxidation state, co-ordination number or ligand changes the energy gap ΔE, so the colour changes.
+
+**Why does chloride substitution change the co-ordination number from 6 to 4?**
+Cl⁻ is bigger than NH₃ or H₂O, so fewer ligands fit around the metal ion. For example, [Co(H₂O)₆]²⁺ with concentrated hydrochloric acid forms the tetrahedral [CoCl₄]²⁻.
+
+**Why is no indicator needed in a manganate(VII) titration?**
+Manganate(VII) is purple and is decolourised while the analyte remains, so the first permanent pink colour marks the end point. Acidify with dilute sulfuric acid rather than hydrochloric acid.
+
 ## Official syllabus
 
 Source: OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for exams from May/June 2020. Section 3.2.5 Transition metals (International A2), subsections 3.2.5.1 to 3.2.5.6.

@@ -189,6 +189,20 @@ Links: [electrolysis study guide](/resources/oxfordaqa-igcse-chemistry-electroly
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in electrolysis questions?**
+Common slips include writing single atoms such as I or O instead of I₂ or O₂, putting electrons on the wrong side of a half equation, and naming a reactive metal such as sodium as a cathode product from a solution.
+
+**What is the required practical for electrolysis in OxfordAQA 9202 Chemistry?**
+The required practical is the electrolysis of copper sulfate solution, investigating the products at the anode and the cathode. Give the result of the gas test, "relights a glowing splint", rather than just naming the gas.
+
+**How do you check a half equation is balanced?**
+Count the atoms on each side, then check that the total charge on the left equals the total on the right. For 2O²⁻ → O₂ + 4e⁻, the left is 4– and the right is 0 + 4– = 4–.
+
+**Does a dilute chloride solution give chlorine at the anode?**
+No. When the chloride is dilute, oxygen forms at the anode instead. Ignoring concentration at the anode is a common error.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This practice set covers section 3.3.2 Electrolysis and its required practical.

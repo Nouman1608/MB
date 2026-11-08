@@ -267,6 +267,20 @@ Example: sodium nitrate. Sodium is too reactive, and sodium hydroxide is an alka
 - Naming an insoluble compound (for example, a metal oxide) as a reagent for precipitation; both reagents must be solutions.
 - Forgetting to wash the precipitate, so it is contaminated with the other soluble salt.
 
+## Frequently asked questions
+
+**What is the ionic equation for neutralisation?**
+In every acid–alkali neutralisation the reaction is H⁺(aq) + OH⁻(aq) → H₂O(l). The other ions are spectators that stay in solution and form the salt when the water is removed.
+
+**How do you choose a method for making a soluble salt in OxfordAQA 9202 Chemistry?**
+Use the acid with a metal if the metal is moderately reactive, the acid with an excess of insoluble base if the metal compound is insoluble, and the acid with an alkali, using an indicator, if both reactants are solutions. Sodium nitrate, for example, is made from sodium hydroxide and nitric acid.
+
+**Why does limewater turn cloudy with carbon dioxide?**
+Limewater is calcium hydroxide solution. Carbon dioxide reacts with it to form calcium carbonate, which is insoluble, so a white precipitate makes the solution cloudy.
+
+**Do you keep the filtrate or the residue when making a salt?**
+For a soluble salt made from an excess solid, you keep the filtrate and crystallise it. For an insoluble salt made by precipitation, you keep the residue.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. These notes cover section 3.5.1 The properties of acids and bases and section 3.5.2 Preparation of salts.

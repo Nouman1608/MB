@@ -234,6 +234,20 @@ Data: H = 1, O = 16; molar gas volume at room temperature and pressure = 24 dm³
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells-practice/) for longer data and evaluation questions. Revisit the [quantitative chemistry revision notes](/resources/oxfordaqa-igcse-chemistry-quantitative-revision-notes/) if mole calculations feel shaky, and the [electrolysis revision notes](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/) for how hydrogen can be made from brine. Then try a [free diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**Do hydrogen fuel cells cause no pollution?**
+A hydrogen–oxygen fuel cell produces only water, so it causes less pollution when in use. However, hydrogen has to be manufactured, and making it from fossil fuels or fossil-fuel electricity causes pollution.
+
+**What are fuel cells used for in OxfordAQA 9202 Chemistry?**
+The uses named in the specification are cars and spacecraft. On the Apollo missions, the crew drank the water made by the fuel cells.
+
+**Why can a hydrogen engine produce oxides of nitrogen?**
+A hydrogen engine burns the fuel in air, not pure oxygen, at a high temperature. Nitrogen from the air reacts at that temperature to form oxides of nitrogen, which contribute to acid rain.
+
+**How can you quickly check the mass of water made from hydrogen?**
+From 2H₂ + O₂ → 2H₂O, the mass of water formed is always 9 times the mass of hydrogen used, because 18 ÷ 2 = 9.
+
 ## Official syllabus
 
 Source document: the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards (OxfordAQA). This page covers section 3.9.3, Chemical cells and fuel cells.

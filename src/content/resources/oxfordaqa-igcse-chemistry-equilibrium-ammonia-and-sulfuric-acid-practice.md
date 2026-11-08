@@ -181,6 +181,20 @@ CO(g) + Cl₂(g) ⇌ COCl₂(g), with energy given out in the forward direction.
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in equilibrium questions?**
+Frequent slips include defining equilibrium without "closed system", saying the amounts are equal at equilibrium, and predicting a temperature effect before working out which direction is exothermic.
+
+**How do you explain the choice of 450 °C in the Haber process?**
+Making ammonia is exothermic, so a lower temperature would give a higher yield but the reaction would be too slow. About 450 °C is a compromise that gives a reasonable yield quickly; do not say a higher temperature increases the yield.
+
+**Which catalysts are used in the Haber and contact processes?**
+The Haber process uses an iron catalyst at about 200 atmospheres, while Stage 2 of the contact process uses vanadium(V) oxide, V₂O₅, at atmospheric pressure. Both run at around 450 °C.
+
+**How should you answer a question about compromise conditions?**
+Give both sides of the compromise: the benefit for yield or rate and the drawback, such as cost or safety. Saying only that high pressure is expensive gives just one side.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This practice set covers section 3.8.2 Factors affecting equilibrium and section 3.8.3 Production of ammonia and sulfuric acid.
