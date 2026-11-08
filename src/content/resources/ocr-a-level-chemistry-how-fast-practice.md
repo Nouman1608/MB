@@ -193,6 +193,20 @@ Stuck? Use the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast
 - Try one of our [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry How fast? questions from past papers?**
+No. They are original practice questions with worked answers on section 5.1.1 of OCR A Level Chemistry A (H432).
+
+**Can you take reaction orders from the balanced equation?**
+No. Orders must be found from experimental data, not from the coefficients in the balanced equation.
+
+**How do you show a reaction is first order from a half-life?**
+Show that successive half-lives are constant. A single half-life is not enough to claim first order.
+
+**What units should you use in the Arrhenius equation?**
+Use temperature in kelvin and Ea in J mol⁻¹, so that Ea/RT has no units. Using °C or kJ inside Ea/RT is a common error.
+
 ## Official syllabus
 
 Source: the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Section 5.1.1, How fast?, learning outcomes (a) to (k), in Module 5, Physical chemistry and transition elements.

@@ -175,6 +175,20 @@ At equilibrium the total pressure is 60.0 kPa.
 - Spot gaps with the [free 10-minute diagnostics](/diagnostics/).
 - Find the next section on the [H432 course page](/boards/ocr/a-level/chemistry/) and record progress on the [outcome checklist](/checklists/ocr/a-level/chemistry/).
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry How far? questions from past papers?**
+No. They are original practice questions with marked answers on section 5.1.2 of OCR A Level Chemistry A (H432).
+
+**Should an inert gas be included in the total amount of gas?**
+Yes. An inert gas such as argon contributes to the total pressure, so include it when calculating mole fractions and partial pressures.
+
+**Are solids included in Kc or Kp expressions?**
+No. Solids are left out of heterogeneous Kc and Kp expressions. Including them is a common error.
+
+**Does a catalyst change the value of K?**
+No. Only temperature changes K. Changing concentration or pressure, or adding a catalyst, leaves K the same at constant temperature.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017 (OCR). These questions follow its section 5.1.2, How far?, from Module 5.

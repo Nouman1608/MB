@@ -259,6 +259,23 @@ Use 2,4-DNP first, then Tollens' reagent. The full scheme for unknowns is in 6.3
 
 Carry on with the [revision notes](/resources/ocr-a-level-chemistry-carbonyl-compounds-revision-notes/) and [practice set](/resources/ocr-a-level-chemistry-carbonyl-compounds-practice/). Yield methods are in [amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/), half-equations in [redox](/resources/ocr-a-level-chemistry-redox/), and PAG work in [practical skills for the endorsement](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/).
 
+## Frequently asked questions
+
+**Why can nucleophiles attack the C=O bond?**
+The C=O bond is polar, so the carbon is δ+, and the double bond contains a π bond that can break while the σ bond stays. A nucleophile can therefore add to the carbonyl carbon.
+
+**What does NaBH₄ reduce aldehydes and ketones to?**
+NaBH₄ reduces an aldehyde to a primary alcohol and a ketone to a secondary alcohol. Write the reducing agent as 2[H] in the equations.
+
+**What colour change shows that an aldehyde has been oxidised by acidified dichromate?**
+The mixture turns from orange to green as the dichromate ions are reduced. The aldehyde is oxidised to a carboxylic acid under reflux.
+
+**How is a 2,4-DNP derivative used to identify a carbonyl compound?**
+The orange precipitate is a derivative with its own melting point. Recrystallise it, measure its melting point and compare with data; this method is part of PAG7.
+
+**Do carboxylic acids and esters give a 2,4-DNP precipitate?**
+No. They contain C=O groups, but only aldehydes and ketones give the orange precipitate with 2,4-DNP.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.1.2 Carbonyl compounds, learning outcomes (a) to (e). Published by OCR.

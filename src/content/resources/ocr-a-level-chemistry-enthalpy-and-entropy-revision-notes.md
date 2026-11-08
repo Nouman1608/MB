@@ -219,6 +219,20 @@ Both ∆H and ∆S are positive, so the decomposition is feasible only above abo
 </figure>
 
 
+## Frequently asked questions
+
+**What is entropy in OCR A Level Chemistry?**
+Entropy, S, is a measure of the dispersal of energy in a system. Explaining it as "chaos" with no reference to energy dispersal does not earn the mark.
+
+**How do you predict the sign of ∆S from an equation?**
+Count the gaseous molecules on each side. More gas molecules in the products gives a positive ∆S, and fewer gives a negative ∆S.
+
+**When is a reaction feasible?**
+A process is feasible when ∆G is negative, using ∆G = ∆H − T∆S with T in kelvin. Using 25 instead of 298 for T is a common error.
+
+**What is the threshold temperature for a reaction?**
+At the threshold temperature ∆G = 0, so T = ∆H ÷ ∆S. Feasibility begins on one side of this temperature, so say whether the reaction is feasible above or below it.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.2.2 Enthalpy and entropy, learning outcomes (a) to (f). Published by OCR.

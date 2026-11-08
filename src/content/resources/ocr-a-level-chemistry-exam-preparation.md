@@ -11,10 +11,12 @@ qualifications: ["a-level"]
 syllabusCodes: ["H432"]
 syllabusSeries: "Version 3.1 (May 2026), for first assessment in 2017"
 order: 3
-description: "How OCR A Level Chemistry H432's 37/37/26 papers divide the specification, why Paper 3 is unified across all modules, where the Practical Endorsement sits, and a worked multi-step calculation routine."
+description: "How OCR A Level Chemistry A H432 Papers 1, 2 and 3 divide the modules, why Paper 3 is synoptic, the Practical Endorsement and a multi-step calculation routine."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -121,6 +123,20 @@ techniques, data analysis and evaluation are assessed within the written papers,
 still need revising. 3. Because a wrong value carried forward correctly through subsequent steps
 normally still earns the later method marks -- provided the working is written down. 4. Connecting
 material across modules within a single answer, which module-by-module revision does not rehearse.
+
+## Frequently asked questions
+
+**How many marks is OCR A Level Chemistry A worth?**
+The three examined components total 270 marks. Papers 1 and 2 are each 2 hours 15 minutes, 100 marks and 37%, and Paper 3 (Unified chemistry) is 1 hour 30 minutes, 70 marks and 26%.
+
+**Does the Practical Endorsement count towards the H432 grade?**
+No. It is reported separately as Pass or Not Classified and adds no marks to the 270-mark total. Practical techniques, data analysis and evaluation are still assessed within the written papers.
+
+**How long should you spend per mark in Papers 1 and 2?**
+Pace at roughly 1.3 minutes per mark from the start of Papers 1 and 2.
+
+**Does an early arithmetic slip lose all the marks in a calculation?**
+Not necessarily. If the working is written down, a slip early on normally still earns the later method marks; an unwritten calculation earns none of them.
 
 *Written against OCR's own published "Assessment story: exploring our question papers" guide for A
 Level Chemistry A H432 (official OCR document, verified 2026-08-28). The calculation routine above is

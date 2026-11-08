@@ -166,6 +166,20 @@ Relative atomic masses for the calculations: Ag 107.9, H 1.0, O 16.0, C 12.0, N 
 - Mark off what you have done: [H432 checklist](/checklists/ocr/a-level/chemistry/)
 - Want a teacher to go through it with you? [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry carbonyl compounds questions from past papers?**
+No. They are original practice questions with fully worked answers on section 6.1.2 of OCR A Level Chemistry A (H432).
+
+**How should you write reducing and oxidising agents in organic redox equations?**
+Use [H] for the reducing agent and [O] for the oxidising agent. Writing H₂ instead of 2[H], or O₂ instead of [O], loses marks.
+
+**What ratio do aldehyde and silver have in Tollens' reagent calculations?**
+One mole of aldehyde gives two moles of silver, because the –CHO group loses two electrons and each Ag⁺ gains one. Using a 1 : 1 ratio is a common error.
+
+**Why should Tollens' reagent be warmed in a water bath?**
+Organic compounds are flammable, so warm the mixture in a water bath rather than heating it with a flame.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.1.2 Carbonyl compounds, learning outcomes (a) to (e). Published by OCR.

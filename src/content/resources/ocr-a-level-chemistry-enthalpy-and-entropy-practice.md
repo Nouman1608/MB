@@ -180,6 +180,20 @@ CuSO₄·5H₂O(s) → CuSO₄(s) + 5H₂O(g)
 - Printable checklist: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry enthalpy and entropy questions from past papers?**
+No. They are original practice questions with marked answers on section 5.2.2 of OCR A Level Chemistry A (H432).
+
+**Why must you convert units when calculating ∆G?**
+Entropy data are in J mol⁻¹ K⁻¹ but enthalpy data are in kJ mol⁻¹. Divide ∆S by 1000 before using it with ∆H in ∆G = ∆H − T∆S.
+
+**Do elements count in an entropy sum?**
+Yes. Unlike standard enthalpies of formation, the entropy of an element is not zero, so elements such as H₂(g) must be included.
+
+**Does a negative ∆G mean a reaction is fast?**
+No. A negative ∆G shows a reaction is feasible, but a reaction with a large activation energy can still be too slow to observe.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.2.2 Enthalpy and entropy, learning outcomes (a) to (f). Published by OCR.

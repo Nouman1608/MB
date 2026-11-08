@@ -169,6 +169,20 @@ The cleaning solution is diluted by a factor of 10 and injected under the same c
 - Check other topics: [all free 10-minute diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry 6.3.1 questions from past papers?**
+No. They are original practice questions with marked answers on chromatography and qualitative analysis in OCR A Level Chemistry A (H432).
+
+**Should you use peak height or peak area in gas chromatography?**
+Use peak area, which measures the amount of a component. Giving proportions from peak heights is a common error.
+
+**What is a common mistake in calibration questions?**
+Forgetting the dilution factor after reading a concentration from the calibration graph, or drawing a dot-to-dot line instead of a best-fit line.
+
+**How should you heat flammable organic liquids in tests?**
+Use a hot water bath or an electric heater, never a Bunsen burner or naked flame.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.3.1 Chromatography and qualitative analysis, learning outcomes (a), (b)(i)–(ii) and (c)(i)–(vii), with their additional guidance, PAG6 and PAG7. Published by OCR.

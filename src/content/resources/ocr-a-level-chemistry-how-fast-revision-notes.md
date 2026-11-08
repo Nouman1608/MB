@@ -231,6 +231,20 @@ Higher temperature: Boltzmann curve shifts to higher energy, a greater proportio
 
 If a section felt shaky, reread it in the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast/). Then attempt the [How fast? practice set](/resources/ocr-a-level-chemistry-how-fast-practice/) under timed conditions.
 
+## Frequently asked questions
+
+**How do you use half-lives to find the order of a reaction?**
+Read two or more successive half-lives. Equal half-lives mean first order, while a zero-order reactant has half-lives that get shorter as it is used up.
+
+**What is the difference between PAG9 and PAG10 in OCR A Level Chemistry?**
+PAG9 is continuous monitoring, following one mixture over time by gas volume, mass loss or colorimetry. PAG10 is initial rates, using separate runs with one concentration changed each time.
+
+**How do you find Ea from an Arrhenius plot?**
+Plot ln k against 1/T, with T in kelvin. Ea = −gradient × R, which gives Ea in J mol⁻¹; convert to kJ mol⁻¹ if asked.
+
+**Can a zero-order reactant appear in the rate-determining step?**
+No. A reactant that is zero order enters the mechanism after the slow step, so it should not appear in the proposed rate-determining step.
+
 ## Official syllabus
 
 Source: section 5.1.1 How fast?, learning outcomes (a) to (k), in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR.

@@ -249,6 +249,20 @@ Only a qualitative estimate is required.
 </figure>
 
 
+## Frequently asked questions
+
+**What is dynamic equilibrium in OCR A Level Chemistry?**
+Dynamic equilibrium is when the forward and reverse reactions run at the same rate in a closed system, so the concentrations do not change. They are constant, not equal.
+
+**Do you need to define le Chatelier's principle for H432?**
+No. The specification does not require a definition. Use the working idea that the position of equilibrium shifts to oppose the change you make.
+
+**Does Kc need units in section 3.2.3?**
+No. You do not need units for Kc in 3.2.3. Each concentration in the expression is an equilibrium concentration, with products on top and balancing numbers as powers.
+
+**How do you count moles when judging a pressure change?**
+Count only gas moles. Do not count water when it is a liquid in the equation, or any solids.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.2.3 Chemical equilibrium. Published by OCR.

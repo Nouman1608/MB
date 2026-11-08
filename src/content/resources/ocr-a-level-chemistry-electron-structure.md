@@ -252,6 +252,20 @@ Species with the same electron configuration are called **isoelectronic**. Se²�
 - Exam technique: [preparing for the OCR chemistry exams](/resources/ocr-a-level-chemistry-exam-preparation/)
 - Find your gaps: [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What are the shapes of s- and p-orbitals?**
+An s-orbital is spherical and centred on the nucleus. A p-orbital is dumbbell-shaped, with two lobes on opposite sides of the nucleus, and a p-sub-shell has three p-orbitals.
+
+**What are the electron configurations of chromium and copper?**
+Chromium is 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹, not 3d⁴ 4s², and copper is 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹, not 3d⁹ 4s².
+
+**Can you use [Ar] shorthand in OCR A Level Chemistry?**
+You may see [Ar] used for 1s² 2s² 2p⁶ 3s² 3p⁶, but using it when the question asks for the full electron configuration loses the mark.
+
+**Is there a PAG linked to electron structure?**
+No. No practical activity group is linked to section 2.2.1 in the specification.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Section 2.2.1 Electron structure.

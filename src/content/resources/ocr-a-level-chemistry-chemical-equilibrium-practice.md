@@ -165,6 +165,20 @@ CH₃CH₂CH₂CH₃(g) ⇌ (CH₃)₃CH(g)
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry chemical equilibrium questions from past papers?**
+No. They are original practice questions with marked worked answers on section 3.2.3 of OCR A Level Chemistry A (H432).
+
+**Does a catalyst change the yield of an equilibrium reaction?**
+No. A catalyst speeds up the forward and reverse reactions equally, so the position of equilibrium and the yield do not change. Equilibrium is simply reached sooner.
+
+**How do you explain a shift in equilibrium for full marks?**
+Give the direction and the reason, such as the side with fewer gas moles or the endothermic direction. "Shifts right" on its own rarely earns full credit.
+
+**What should an industrial compromise answer include?**
+Discuss rate, cost and safety as well as yield. Answering with yield arguments alone is a common way to lose marks.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.2.3 Chemical equilibrium. Published by OCR.

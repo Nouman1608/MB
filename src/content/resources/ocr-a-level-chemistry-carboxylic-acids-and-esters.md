@@ -266,6 +266,20 @@ The specification notes that phenol is not readily esterified by carboxylic acid
 
 For fast recall before an exam, use the [Carboxylic acids and esters revision notes](/resources/ocr-a-level-chemistry-carboxylic-acids-and-esters-revision-notes/), then test yourself with the [Carboxylic acids and esters practice questions](/resources/ocr-a-level-chemistry-carboxylic-acids-and-esters-practice/). The mole methods used above are in [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/), and acid-base reactions of salts are in [Acids](/resources/ocr-a-level-chemistry-acids/).
 
+## Frequently asked questions
+
+**How do you tell a carboxylic acid from a phenol?**
+Add sodium carbonate. A carboxylic acid fizzes and gives carbon dioxide, but a phenol does not react. This test is part of PAG7.
+
+**What is the difference between acid and alkaline hydrolysis of an ester?**
+Hydrolysis with hot aqueous acid is the reverse of esterification and is reversible. Hydrolysis with hot aqueous alkali goes to completion and gives the carboxylate salt and the alcohol.
+
+**Why does phenol need an acyl chloride to form an ester?**
+Phenol is not readily esterified by carboxylic acids, so a phenyl ester is made by reacting phenol with an acyl chloride instead.
+
+**What do you see when an acyl chloride reacts with water?**
+The reaction is vigorous and misty fumes of hydrogen chloride are given off, forming the carboxylic acid.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.1.3 Carboxylic acids and esters, learning outcomes (a) to (f). Published by OCR.

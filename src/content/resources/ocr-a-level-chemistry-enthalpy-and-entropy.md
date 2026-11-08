@@ -237,6 +237,20 @@ When you are asked to estimate an outcome (M0.3), state both parts: the ∆G con
 
 Condense this with the [Enthalpy and entropy revision notes](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-revision-notes/), then test yourself with the [Enthalpy and entropy practice questions](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-practice/). The same feasibility-versus-rate argument returns in 5.2.3, where electrode potentials predict feasibility; the oxidation-number skills you need there are in [Redox](/resources/ocr-a-level-chemistry-redox/).
 
+## Frequently asked questions
+
+**What are the units of entropy in OCR A Level Chemistry?**
+Entropy has units of J mol⁻¹ K⁻¹. Standard entropies of pure substances at 298 K are positive, and elements in their standard states have non-zero entropies.
+
+**Why do some endothermic changes happen on their own?**
+A positive entropy change favours feasibility, and the T∆S term grows with temperature. When T∆S is larger than a positive ∆H, ∆G is negative; for example, ice melts above 273 K.
+
+**Why does entropy increase from solid to liquid to gas?**
+In a solid, particles vibrate about fixed positions with few ways to arrange the energy. In a liquid they move past each other, and in a gas they move fast and randomly through the whole container, so energy is spread most widely.
+
+**Why can a reaction with a negative ∆G not happen?**
+∆G shows whether a reaction can happen, not how fast. If the activation energy is large, the reaction may be too slow to observe, as with a pencil lead in air.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.2.2 Enthalpy and entropy, learning outcomes (a) to (f). Published by OCR.

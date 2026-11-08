@@ -282,6 +282,20 @@ mass        = 18.0 × 74.1 = 1334 g = 1.33 kg
 
 Condense this page with the [Group 2 revision notes](/resources/ocr-a-level-chemistry-group-2-revision-notes/), then try the [Group 2 practice questions](/resources/ocr-a-level-chemistry-group-2-practice/). The mole methods used above are in the [Amount of substance study guide](/resources/ocr-a-level-chemistry-amount-of-substance/), and s-orbital configurations are built up in [Electron structure](/resources/ocr-a-level-chemistry-electron-structure/). Neutralisation is covered in [Acids](/resources/ocr-a-level-chemistry-acids/).
 
+## Frequently asked questions
+
+**How do Group 2 metals react with water?**
+Magnesium reacts only very slowly with cold water, but heated magnesium reacts quickly with steam to form the oxide. Calcium, strontium and barium react with cold water to form the hydroxide and hydrogen, each faster than the one above.
+
+**How are Group 2 compounds used as bases?**
+Calcium hydroxide (slaked lime) is spread on acid soils to raise the pH, and magnesium hydroxide and calcium carbonate are used as antacids to neutralise excess stomach acid.
+
+**What mole ratio does a Group 2 hydroxide react with hydrochloric acid in?**
+One Group 2 hydroxide or carbonate neutralises two H⁺ ions, so the ratio with HCl is 1 : 2.
+
+**Which earlier sections does Group 2 build on?**
+Group 2 builds on oxidation numbers from section 2.1.5 and ionisation energy from section 3.1.1, Periodicity, of OCR A Level Chemistry A.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.2 Group 2, learning outcomes (a) to (e). Published by OCR.

@@ -233,6 +233,20 @@ mass        = 0.00500 × 58.3 = 0.292 g
 </figure>
 
 
+## Frequently asked questions
+
+**How do you write the second ionisation energy equation?**
+The second ionisation starts from the 1+ ion: M⁺(g) → M²⁺(g) + e⁻. Writing M(g) → M²⁺(g) + 2e⁻ is the sum of the first two ionisations, not the second.
+
+**What does magnesium form with cold water and with steam?**
+Magnesium reacts very slowly with cold water to form Mg(OH)₂, but reacts quickly with steam to form MgO. Mixing up the two products is a common error.
+
+**What is the difference between a hydroxide and a carbonate antacid?**
+Both neutralise two H⁺ ions, but only the carbonate also releases carbon dioxide.
+
+**Are Group 2 metals oxidised or reduced in their reactions?**
+The metal is oxidised in every reaction in this section, from oxidation number 0 to +2. The other species, such as oxygen or the hydrogen in water or acid, is reduced.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.2 Group 2, learning outcomes (a) to (e). Published by OCR.

@@ -269,6 +269,20 @@ Other patterns to know how to apply: acid plus base gives salt plus water; acid 
 - Leaving out state symbols, or writing a soluble ionic compound as (s) in an ionic equation.
 - Leaving spectator ions in an ionic equation, or writing an ionic equation whose charges do not balance.
 
+## Frequently asked questions
+
+**Do you need to know how a mass spectrometer works for OCR A Level Chemistry?**
+No. You do not need to know how the instrument works, but you must read the data: peak position (m/z) gives the relative isotopic mass and peak height gives the abundance.
+
+**What is the difference between relative molecular mass and relative formula mass?**
+Relative molecular mass is used for simple molecules. Relative formula mass is used for compounds with giant structures, such as ionic compounds.
+
+**Can you change a formula to balance an equation?**
+No. A coefficient changes the amount of a substance, but changing a subscript changes the substance itself. Balance only with coefficients.
+
+**What should you assume "nitrate" and "sulfate" mean in H432?**
+The specification says "nitrate" and "sulfate" should be assumed to mean NO₃⁻ and SO₄²⁻.
+
 ## Official syllabus
 
 OCR, *Cambridge OCR Level 3 Advanced GCE in Chemistry A (H432) specification*, Version 3.1, May 2026, first assessment 2017. Sections 2.1.1 "Atomic structure and isotopes" and 2.1.2 "Compounds, formulae and equations".

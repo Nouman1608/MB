@@ -189,6 +189,20 @@ Relative atomic masses for the calculations: C = 12.0, H = 1.0, O = 16.0, Cl = 3
 - Printable checklist: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry 4.1.1 questions from past papers?**
+No. They are original practice questions with marked answers on basic concepts of organic chemistry in OCR A Level Chemistry A (H432).
+
+**How do you choose the parent chain when naming an organic compound?**
+Find the longest carbon chain, even if it turns a corner in the drawing, then number from the end that gives the main functional group, such as OH or C=C, the lowest number.
+
+**In what order should prefixes be written in a name?**
+Write prefixes in alphabetical order, not in number order, ignoring di- and tri-.
+
+**Is cyclohexene an aromatic compound?**
+No. Cyclohexene is a ring and unsaturated, but it is alicyclic. Calling an alicyclic alkene aromatic is a common error.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.1.1 Basic concepts of organic chemistry, learning outcomes (a) to (i). Published by OCR.

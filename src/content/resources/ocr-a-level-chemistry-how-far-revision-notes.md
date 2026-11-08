@@ -221,6 +221,20 @@ The same rules carry over to Ka (5.1.3) and any other K:
 - Explaining a pressure effect only with le Chatelier when the question says "in terms of Kp".
 - Forgetting to subtract the catalyst when using titration data.
 
+## Frequently asked questions
+
+**What is the difference between mole fraction and partial pressure?**
+Mole fraction is the moles of a gas divided by the total moles of gas, a pure number with no units. Partial pressure is the mole fraction multiplied by the total pressure, so it has pressure units.
+
+**Can you find Kp by titration experiments?**
+No. The specification asks for experimental techniques to find equilibrium quantities for Kc only, not for Kp.
+
+**Why is an equilibrium mixture quenched before titration?**
+Quenching in ice-cold water cools and dilutes the mixture, slowing the reaction so the composition stays fixed during the titration.
+
+**How does temperature affect K?**
+For an exothermic forward reaction, raising the temperature decreases K. For an endothermic forward reaction it increases K.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017 (OCR). These notes follow its section 5.1.2, How far?, from Module 5.
