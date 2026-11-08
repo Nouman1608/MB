@@ -12,7 +12,7 @@ order: 6
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-design-assessment-criteria"
-description: "Condensed revision notes on IB MYP Design's design cycle -- inquiring and analysing, developing ideas, creating the solution, evaluating -- and how its four stages map directly onto the four assessment criteria."
+description: "IB MYP Design design cycle revision notes: the four stages and their year 5 strands, how each maps onto criteria A to D, a worked example, FAQ and self-test."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -37,12 +37,15 @@ evaluate it. It is not followed once per year; it is the working structure appli
 
 ## The four stages, mapped to the four criteria
 
-| Design cycle stage | Assessment criterion | What it involves |
+| Design cycle stage | Assessment criterion | What it involves (year 5 strands) |
 |---|---|---|
-| Problem stage | A: Inquiring and analysing | Identify a problem needing a solution, analyse the need, inquire into its nature |
-| Specification stage | B: Developing ideas | Write a detailed specification, present the proposed solution |
-| Build stage | C: Creating the solution | Plan the creation, follow the plan to build a testable prototype |
-| Test stage | D: Evaluating | Design tests, carry them out, objectively evaluate success and impact |
+| Inquiring and analysing | A | Explain and justify the need for a solution for a client or target audience; identify and prioritise research; analyse existing products; develop a design brief |
+| Developing ideas | B | Develop a design specification; develop a range of feasible design ideas; present the chosen design and justify it against the specification; develop planning drawings or diagrams |
+| Creating the solution | C | Construct a logical plan; demonstrate technical skills; follow the plan to create the solution; justify changes made to the design or plan |
+| Evaluating | D | Design and carry out tests; objectively evaluate success against the specification; explain how the solution could be improved; explain its impact on the client or target audience |
+
+The stage names are the criterion names: the MYP guide does not use labels such as "problem stage"
+or "build stage", so use the official wording in your folder headings.
 
 Because each criterion IS one cycle stage made assessable, revising "the design cycle" and revising
 "the four criteria" are the same task viewed from two angles — master one and you have effectively
@@ -54,12 +57,12 @@ A design situation asks students to solve a problem for a specific client (for e
 solution for a small space).
 
 ```
-Stage A (inquire):    identify the client's actual need, research
-                       existing solutions, analyse what a genuine
-                       solution requires
+Stage A (inquire):    explain and justify the client's need, prioritise
+                       research, analyse existing solutions, and sum it
+                       up in a design brief
 Stage B (develop):    write a detailed specification (size, materials,
-                       budget, constraints) and present a proposed
-                       solution against it
+                       budget, constraints), sketch a range of ideas,
+                       justify the chosen one and draw it to plan
 Stage C (create):     plan the build sequence, then follow the plan to
                        produce a prototype sufficient for testing
 Stage D (evaluate):   design and carry out objective tests against the
@@ -130,7 +133,7 @@ such as "looks nice" cannot be objectively tested.
 ## Self-test
 
 1. Name the four stages of the design cycle in order.
-2. Which assessment criterion corresponds to the "build" stage?
+2. Which assessment criterion covers making the solution?
 3. Why does documentation of the process matter as much as the finished prototype?
 4. What does Criterion D specifically require, beyond simply testing the solution?
 5. Is the design cycle followed once per year or repeatedly across projects?
