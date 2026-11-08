@@ -152,6 +152,20 @@ These questions cover sections 3.4.6.1, 3.4.6.2 and 3.4.8 of the OxfordAQA Inter
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you explain why blood pH changes affect enzymes?**
+Name hydrogen ions or the charges on R groups: a change in pH alters these, so ionic and hydrogen bonds break or form in the wrong places, the tertiary structure changes and the active site is distorted. "The enzyme changes shape" alone is too vague.
+
+**How do you decide whether an example is positive or negative feedback?**
+Ask whether the response makes the change bigger or smaller, and justify the label by what the response does to the stimulus. If it makes the change bigger, it is positive feedback.
+
+**What is the most common mistake about the heart's conducting tissue?**
+Mixing up the SAN, AVN and Purkinje tissue. The delay belongs to the AVN, while Purkinje tissue conducts the wave quickly to the apex of the ventricles.
+
+**What should a heart rate explanation include for full marks?**
+Give the full chain of receptor, cardiac control centre in the medulla, nerve and SAN, use figures from the data, and describe both the rise and the return during recovery. Many answers stop after the rise.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.4.6.1, 3.4.6.2 and 3.4.8.

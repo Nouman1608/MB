@@ -237,6 +237,20 @@ Each pressure acts on phenotypes. The effect on the gene pool appears only after
 - Describing disruptive selection as "selection against all individuals"; it removes the intermediates only.
 - Forgetting that polyploid hybrids with odd chromosome sets are sterile because chromosomes cannot pair.
 
+## Frequently asked questions
+
+**Why do separated populations develop different gene pools?**
+With no gene flow, each population changes independently: different mutations arise, selection pressures differ so different alleles are favoured, and chance events alter allele frequencies, especially in small populations.
+
+**Why are polyploid hybrids often sterile?**
+A cross between a tetraploid and a diploid gives a triploid, which is sterile because its chromosomes cannot pair in sets at meiosis. This makes the tetraploid reproductively separate at once.
+
+**What is the difference between evolution and natural selection?**
+Evolution is the change in allele frequency in a population. Natural selection is one cause of that change.
+
+**Does variation caused only by the environment lead to evolution?**
+No. Only heritable variation responds to selection, so if a trait is caused only by the environment, survival of its bearers does not change allele frequencies.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, specification Version 5.1, sections 3.3.8.1 and 3.3.8.2 (Unit 3, Populations and genes).

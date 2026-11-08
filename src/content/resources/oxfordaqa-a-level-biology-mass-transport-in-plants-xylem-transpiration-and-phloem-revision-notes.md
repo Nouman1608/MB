@@ -234,6 +234,20 @@ When you read data:
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between transpiration and translocation?**
+Transpiration is the escape of water vapour from the plant, chiefly via the stomata. Translocation is the movement of organic substances, mainly sucrose, in the phloem from sources to sinks.
+
+**What is the difference between a source and a sink?**
+A source is a region that releases sucrose into the phloem, such as a photosynthesising leaf. A sink is a region that uses or stores it; these are roles, so a storage organ can be a sink while it fills and later a source.
+
+**How does humidity affect transpiration?**
+Higher humidity decreases the rate of transpiration, because moist air outside the leaf reduces the water vapour gradient between the air spaces and the air.
+
+**What does the endodermis do in a root?**
+The endodermis walls contain a waterproof band of suberin that blocks the apoplastic pathway. Water must pass through the cell surface membrane into the symplast, which controls which ions enter the xylem.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.8 and Required practical 6.

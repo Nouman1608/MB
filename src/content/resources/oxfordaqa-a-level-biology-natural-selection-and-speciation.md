@@ -219,6 +219,23 @@ The specification names allopatric and sympatric speciation without listing thes
 </figure>
 
 
+## Frequently asked questions
+
+**How is evolution defined in OxfordAQA International A-level Biology (9610)?**
+The 9610 specification describes evolution as a change in the allele frequencies in a population. It is a property of populations over generations, not of individuals during their lives.
+
+**What are the three types of selection?**
+Stabilising selection favours phenotypes near the mean and narrows the range; directional selection favours one extreme and shifts the mean; disruptive selection favours both extremes and can produce two peaks.
+
+**What is the difference between allopatric and sympatric speciation?**
+In allopatric speciation a geographical barrier divides a population, stopping gene flow so the groups diverge. In sympatric speciation there is no geographical barrier, but reproductive separation still arises, for example through polyploidy in plants.
+
+**What makes two populations separate species?**
+New species arise when genetic differences mean members of the separated populations cannot interbreed to produce fertile offspring. Viable but sterile hybrids do not make the parents one species.
+
+**Is natural selection on the International AS in OxfordAQA Biology (9610)?**
+No. Sections 3.3.8.1 and 3.3.8.2 sit in Unit 3, Populations and genes, which the specification lists as International A-level only.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, specification Version 5.1, sections 3.3.8.1 and 3.3.8.2 (Unit 3, Populations and genes). The specification's Required practicals 7 to 9 are in Unit 3 but are not part of this section.

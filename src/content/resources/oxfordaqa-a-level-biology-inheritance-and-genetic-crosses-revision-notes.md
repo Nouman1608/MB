@@ -222,6 +222,20 @@ Use counts, never percentages. Include every category. A significant result mean
 - Writing "the null hypothesis is accepted" or "proved" when the wording should be "not rejected".
 - Not saying what the significant difference means for the cross, for example linkage or epistasis.
 
+## Frequently asked questions
+
+**How do you carry out a chi-squared test on genetic cross data?**
+State the null hypothesis, calculate expected counts from the expected ratio, then find χ² = Σ(O − E)²/E. Compare it with the critical value at p = 0.05 for degrees of freedom equal to the number of categories minus 1.
+
+**What is the difference between linkage and sex-linkage?**
+Linkage means two genes are on the same chromosome and tend to be inherited together. Sex-linkage means a gene is on a sex chromosome, so the sex with one copy expresses whichever allele it has.
+
+**How do you calculate recombination frequency?**
+Divide the number of recombinant offspring by the total number of offspring and multiply by 100. Loci that are close together give few recombinants.
+
+**How many genotypes are possible with multiple alleles?**
+For n alleles of a gene, the number of possible genotypes is n(n + 1)/2, so three alleles give 6 genotypes and four give 10.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, sections 3.3.6.1 and 3.3.6.2.

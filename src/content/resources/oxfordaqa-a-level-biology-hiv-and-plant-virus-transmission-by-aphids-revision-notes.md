@@ -206,6 +206,20 @@ Worked reminder (colony growth). 5 aphids doubling every 2 days for 10 days: 10 
 - Stating that aphids "bite" or "chew" leaves.
 - Treating a correlation in trap data as proof of causation.
 
+## Frequently asked questions
+
+**Where does the HIV envelope come from?**
+The HIV envelope is a lipid layer taken from the host cell's plasma membrane when new particles are released. It is not made by the virus, although the glycoproteins in it are coded for by viral genes.
+
+**How do aphids feed on phloem sap?**
+Aphids push needle-like mouthparts called stylets into a phloem vessel. Phloem sap is under high pressure, so once the vessel is punctured, the sap is forced into the aphid's gut.
+
+**How do winged aphids spread plant viruses?**
+Some aphid species produce winged females that migrate to start colonies on a new host plant. They can travel from field to field, carrying any virus they hold.
+
+**What are the symptoms of plant virus diseases?**
+Symptoms depend on the disease but include yellowing of leaves, leaf distortion such as curling or crinkling, and abnormalities of other parts of the plant.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, published by OxfordAQA: sections 3.2.4 and 3.2.9 of Unit 2.

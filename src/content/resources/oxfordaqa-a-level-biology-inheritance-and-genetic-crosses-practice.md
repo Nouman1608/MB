@@ -153,6 +153,20 @@ These questions cover sections 3.3.6.1 and 3.3.6.2 of the OxfordAQA *Internation
 - Check your level with the [free diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**What should a fully labelled genetic diagram include?**
+Include a key, the parental phenotypes and genotypes, the gametes with one allele each, the offspring genotypes, and the phenotype of each genotype with the overall ratio. A bare ratio can leave nothing to credit.
+
+**How should you state a chi-squared conclusion?**
+Give χ², the degrees of freedom, the critical value and the comparison, then say whether the null hypothesis is rejected or not rejected, in the context of the cross. Avoid saying the hypothesis is "accepted" or "proved".
+
+**How do you explain a sex-linked cross result?**
+State which sex has the single allele and which parent each chromosome comes from, for example that sons receive their X from their mother and their Y from their father. In birds, the female is the sex with one Z chromosome.
+
+**What is the quickest way to find a dihybrid probability?**
+Multiply the single-gene probabilities, for example 3/4 × 1/4 = 3/16 for a dominant and a recessive phenotype from two heterozygous parents. This is quicker and less error-prone than counting 16 boxes.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, sections 3.3.6.1 and 3.3.6.2.

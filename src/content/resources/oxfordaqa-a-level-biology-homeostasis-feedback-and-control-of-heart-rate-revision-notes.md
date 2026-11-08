@@ -194,6 +194,20 @@ If pressure is too low, fewer impulses arrive from the pressure receptors and sy
 - Omitting a sentence on how the response removes the original stimulus (the feedback step).
 - Mixing up sympathetic (speeds up) and parasympathetic (slows down).
 
+## Frequently asked questions
+
+**What is the role of the SAN and AVN in the heartbeat?**
+The sinoatrial node in the right atrium wall is the pacemaker, starting a wave of electrical activity across the atria. The atrioventricular node holds the wave briefly before passing it down the bundle of His and Purkinje tissue, giving the atria time to empty.
+
+**How is heart rate increased during exercise?**
+Carbon dioxide from respiring muscle lowers blood pH, which chemoreceptors in the carotid arteries and aorta detect. The cardiac control centre in the medulla oblongata sends more impulses along sympathetic neurones to the SAN, increasing heart rate.
+
+**What is the difference between sympathetic and parasympathetic control of the heart?**
+Sympathetic neurones carry impulses to the SAN that speed up the heart. Parasympathetic neurones, in the vagus nerve, carry impulses that slow it down.
+
+**Why does a low temperature slow enzymes without denaturing them?**
+At low temperature, enzyme and substrate molecules move more slowly and collide less often, so fewer enzyme-substrate complexes form. The enzyme is not damaged; high temperatures denature it by changing the active site.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.4.6.1, 3.4.6.2 and 3.4.8.
