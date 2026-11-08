@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-depth-studies-4hi1"
+  - qualification: "igcse"
+    topic: "paper-1-depth-studies-4hi1"
+    subtopic: "germany-dictatorship-4hi1"
 description: "Original exam-style practice questions with full worked answers on the impression, two-effects and how-far-do-you-agree question types, covering Weimar Germany, Nazi rule and the USA in the 1920s, for Pearson Edexcel International GCSE History (4HI1)."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
