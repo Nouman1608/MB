@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "Original exam-style practice questions with full worked answers on parliamentary law making, delegated legislation, statutory interpretation and precedent."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"

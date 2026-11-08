@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-nature-purpose-of-and-liability-in-law-yla1"
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "Condensed recall notes on parliamentary law making, delegated legislation, law reform and the relationship between law and morality for A Level Law."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"

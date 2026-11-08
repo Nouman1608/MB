@@ -12,6 +12,12 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "globalisation-of-trade-0715"
+  - qualification: "igcse"
+    topic: "globalisation-of-trade-0715"
+    subtopic: "international-trade-0715"
+  - qualification: "igcse"
+    topic: "globalisation-of-trade-0715"
+    subtopic: "global-supply-chain-management-0715"
 description: "Condensed recall notes on international trade benefits/challenges, Balance of Trade vs Balance of Payments, trading blocs, and global supply chains for Cambridge IGCSE Commerce (0715)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
