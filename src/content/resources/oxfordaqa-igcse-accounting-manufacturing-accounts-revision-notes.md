@@ -221,6 +221,23 @@ Use figures from the statements and give a reason.
 - Showing a single inventories figure in the statement of financial position.
 - Writing comments with no figure and no reason.
 
+## Frequently asked questions
+
+**What is the difference between prime cost and factory cost?**
+Prime cost is the cost of raw materials used plus direct wages. Factory cost of finished goods adds factory overheads to prime cost.
+
+**Is carriage inwards a manufacturing cost?**
+Yes. Carriage inwards on raw materials is part of the cost of materials in the manufacturing account. Carriage outwards is a selling cost in the income statement.
+
+**Is the provision for unrealised profit examined in OxfordAQA International GCSE Accounting 9215?**
+No. The specification says the provision for unrealised profit will not be examined.
+
+**What is the difference between direct and indirect wages?**
+Direct wages are paid to those who make the goods and are part of prime cost. Indirect wages are paid to supervisors and cleaners, so they are factory overheads.
+
+**How are inventories shown in a manufacturer's statement of financial position?**
+Show each inventory separately, such as raw materials and finished goods, rather than as a single inventories figure.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), version 1.2, for exams from May/June 2026, published by OxfordAQA. These notes cover the manufacturing organisations content of section 3.4.

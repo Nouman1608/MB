@@ -243,6 +243,23 @@ Suppose closing inventory had been wrongly recorded as 12,300. Cost of sales wou
 
 Next, try the [practice questions](/resources/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i-revision-notes/) to consolidate.
 
+## Frequently asked questions
+
+**How is an irrecoverable debt written off?**
+Credit the customer's account in the trade receivables ledger and debit the irrecoverable debts account in the general ledger. At the year end the irrecoverable debts account is cleared into the income statement as an expense.
+
+**Why does a business keep a provision for doubtful debts?**
+Among the receivables still on the books, some may not pay, but the business cannot yet say which. It estimates the likely loss, often as a percentage of trade receivables, and sets it aside, which applies the prudence concept.
+
+**How is cost of sales calculated?**
+Cost of sales = opening inventory + purchases − closing inventory. In the ledger, opening inventory is moved to the income statement and closing inventory is brought in from it.
+
+**Is the recovery of irrecoverable debts examined in OxfordAQA 9215?**
+No. The specification states that the recovery of irrecoverable debts will not be examined.
+
+**How is net realisable value calculated for inventory?**
+Net realisable value = expected selling price − any costs of repair or completion − selling costs. Each line is valued at the lower of cost and net realisable value.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, for exams from May/June 2026 onwards, published by OxfordAQA. This guide covers part of section 3.3.

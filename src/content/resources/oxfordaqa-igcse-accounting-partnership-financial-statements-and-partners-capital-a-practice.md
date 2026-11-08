@@ -207,6 +207,20 @@ Mayu: debit entries correct [1]; credit entries correct and both sides 16,900 [1
 - Take the [free diagnostics](/diagnostics/) to find your next weak topic.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on partnership questions in OxfordAQA 9215?**
+Common losses are putting a partner's loan interest in the appropriation account, subtracting interest on drawings instead of adding it back, and sharing the profit for the year in the ratio while ignoring interest on capital and salaries.
+
+**What should I do when profit is too low to cover interest on capital and salaries?**
+Still credit the interest and salaries in full; the shortfall is a deficit shared in the profit-sharing ratio. Leaving the interest and salaries out in a low-profit or loss year loses marks.
+
+**How should I set out an appropriation account?**
+Label each line and show each partner's figures separately, so your working is easy to follow. Start from the profit for the year and finish with each partner's share of the residual.
+
+**What mistakes are common with partners' current accounts?**
+Leaving out the opening balance, and treating a debit balance as if it were a credit balance in the equity section.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, first teaching 2024, first examined 2026 (OxfordAQA). Subject content section 3.4, Partnerships.

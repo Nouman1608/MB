@@ -215,6 +215,23 @@ Each partner has a column. Both sides must total the same.
 - Putting a partner's loan in equity, not in non-current liabilities.
 - Comments that repeat a figure without saying what it means for the partners.
 
+## Frequently asked questions
+
+**Is a partner's salary an expense in the income statement?**
+No. Wages paid to employees are expenses, but a partner's salary is an appropriation of profit shown in the appropriation account.
+
+**Is interest on a partner's loan an appropriation?**
+No. Loan interest is an expense in the income statement, paid whatever the profit. Interest on capital is an appropriation of profit and does not reduce the profit for the year.
+
+**What does a debit balance on a partner's current account mean?**
+It means the partner has taken out more than has been allocated to them. A credit current account balance is owed to the partner.
+
+**Which partnership topics are not examined in OxfordAQA International GCSE Accounting 9215?**
+The specification says that admission, retirement of a partner, dissolution of partnerships and changes to the profit sharing ratio will not be examined.
+
+**Where does a partner's loan go in the statement of financial position?**
+A partner's loan is shown under non-current liabilities, not in equity.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, first teaching 2024, first examined 2026 (OxfordAQA). Subject content section 3.4, Partnerships.
