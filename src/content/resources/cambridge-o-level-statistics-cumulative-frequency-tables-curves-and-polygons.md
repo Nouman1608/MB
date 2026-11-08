@@ -196,6 +196,20 @@ The syllabus notes that essential working must be shown for full marks, so give 
 
 Work through the [revision notes](/resources/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons-revision-notes/) for a short summary and a self-test, then the [practice questions](/resources/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons-practice/). Earlier grouping skills are in the [summary representation guide](/resources/o-level-cambridge-statistics-summary-representation-of-data/).
 
+## Frequently asked questions
+
+**Where do you plot points on a cumulative frequency graph?**
+Plot each cumulative frequency at the upper boundary of its class, not at the midpoint.
+
+**Why do you need a starting point with cumulative frequency 0?**
+The graph must start at the lower boundary of the first class with cumulative frequency 0. Without it the graph starts at the wrong height.
+
+**How do you read a value from a cumulative frequency graph?**
+To find a count from a value, go up from the horizontal axis to the graph and then across. To find a value from a count, go across from the vertical axis to the graph and then down.
+
+**What does topic 4 of Cambridge O Level Statistics cover?**
+Topic 4 of the 4040 syllabus covers forming cumulative frequency tables (section 4.1) and drawing and reading cumulative frequency curves and polygons (section 4.2).
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment, topic 4, sections 4.1 and 4.2.

@@ -213,6 +213,20 @@ If you want the order of the data to flip, so that a high score becomes a low sc
 
 Read the [revision notes](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-revision-notes/) for a short version, then work through the [practice questions](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-practice/). Show every line of working. Essential working must be shown for full marks to be awarded, according to the instructions printed in the syllabus for each paper.
 
+## Frequently asked questions
+
+**What happens to the mean under y = a + bx?**
+The new mean is a + b times the old mean. Apply b to the mean before adding a; writing b(x̄ + a) is a common error.
+
+**What happens to the variance when every value is multiplied by b?**
+The variance is multiplied by b², because every gap between a value and the mean is stretched by b and the variance uses squared gaps.
+
+**How do you undo a coding such as y = (x − 50) / 5?**
+Undo the steps in reverse order: multiply by 5, then add 50, so x = 50 + 5y. Apply the same rule to the mean, and multiply the standard deviation by 5 only.
+
+**What does topic 6 of Cambridge O Level Statistics cover?**
+Topic 6 of the 4040 syllabus covers the effect of adding or multiplying by a constant on the mean and standard deviation (section 6.1) and transforming data to a given mean and standard deviation (section 6.2).
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, sections 6.1 and 6.2.

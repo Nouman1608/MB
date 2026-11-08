@@ -189,6 +189,20 @@ A strong answer has three parts: the average, the figure, and the reason tied to
 - Choosing the average without a reason linked to the data.
 - Rounding too early. Keep full figures until the last line, then give 3 significant figures unless told otherwise.
 
+## Frequently asked questions
+
+**What does "estimate" signal in an O Level Statistics question?**
+It signals grouped data and midpoints, so your answer should say it is approximate.
+
+**How do you find the median from a frequency table?**
+A frequency table is already in order, so use cumulative frequency to find the position of the middle value rather than taking the middle of the values row.
+
+**How can you check that a mean is sensible?**
+The mean must lie between the smallest and largest values, or for grouped data between the lowest and highest class boundaries. Also check that Σf equals the total number of observations.
+
+**How accurate should an O Level Statistics answer be?**
+Unless the question says otherwise, give a calculated answer to 3 significant figures and show the working.
+
 ## Official syllabus
 
 Cambridge O Level Statistics (4040), syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment (Cambridge International). Section 5.1: measures of central tendency, mean, median, mode and modal class.
