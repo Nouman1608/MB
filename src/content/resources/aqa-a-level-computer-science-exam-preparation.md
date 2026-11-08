@@ -7,7 +7,7 @@ topic: "Exam preparation -- Paper 1, Paper 2 and the non-exam assessment"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7517"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "2015-onwards"
 order: 3
 description: "Why AQA A-Level Computer Science 7517's on-screen Paper 1 needs practice at a machine, how the written Paper 2 differs, where the 20% NEA fits, and a worked routine for an on-screen programming task."
 author: "marlbridge-academic-team"

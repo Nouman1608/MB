@@ -7,7 +7,7 @@ topic: "Fundamentals of algorithms"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7517"]
-syllabusSeries: "First teaching 2015"
+syllabusSeries: "2015-onwards"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
