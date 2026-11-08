@@ -74,6 +74,32 @@ centred moving average. **[2]**
 (d) Explain why two years of data are not enough to give a reliable seasonal
 component for each quarter. **[1]**
 
+**3.** A shop's quarterly sales (in thousands of rupees) are plotted on a time series
+graph, and a trend line is drawn by eye through the moving averages. The trend values
+read from the line are shown with the actual sales.
+
+| | Year 1 Q1 | Q2 | Q3 | Q4 | Year 2 Q1 | Q2 | Q3 | Q4 |
+|---|---|---|---|---|---|---|---|---|
+| Sales | 58 | 49 | 42 | 60 | 63 | 54 | 50 | 65 |
+| Trend value | 50.0 | 51.5 | 53.0 | 54.5 | 56.0 | 57.5 | 59.0 | 60.5 |
+
+(a) Calculate the seasonal component for each quarter. **[3]**
+
+(b) The trend line rises by 1.5 each quarter. Predict the shop's sales in Year 3 Q3. **[2]**
+
+(c) Explain why a prediction for Year 5 Q3 made in the same way would be less
+reliable. **[1]**
+
+**4.** For each data set, state the number of points you would use for a moving
+average and whether the moving averages would need to be centred.
+
+(a) The number of visitors to a museum, recorded on each of its 5 opening days a
+week for six weeks. **[1]**
+
+(b) A company's monthly sales over four years, which follow a yearly pattern. **[1]**
+
+(c) State one reason for finding moving averages of a time series. **[1]**
+
 ---
 
 ## Answers
@@ -119,6 +145,29 @@ Year 2 Q1: 128 − 110.0 = **+18.0**; Year 2 Q2: 99 − 111.875 = **−12.875** 
 (d) Each quarter has only one difference, so its "average" rests on a single year and
 may be distorted by an unusual year [1].
 
+**3.** (a) Differences (sales − trend value):
+- Q1: 58 − 50.0 = 8.0; 63 − 56.0 = 7.0; mean **+7.5**
+- Q2: 49 − 51.5 = −2.5; 54 − 57.5 = −3.5; mean **−3.0**
+- Q3: 42 − 53.0 = −11.0; 50 − 59.0 = −9.0; mean **−10.0**
+- Q4: 60 − 54.5 = 5.5; 65 − 60.5 = 4.5; mean **+5.0**
+
+[1] for the method, [1] for the eight differences, [1] for the four means.
+
+(b) Year 3 Q3 is 3 quarters after Year 2 Q4, so the trend value is
+60.5 + 3 × 1.5 = 65.0 [1]. Prediction = 65.0 − 10.0 = **55.0**, about Rs 55 000 [1].
+
+(c) It extrapolates much further beyond the data, so it relies for longer on the trend
+staying linear and the seasonal pattern staying the same [1].
+
+**4.** (a) **5-point** moving averages (one full week); 5 is odd, so **no centring** is
+needed [1].
+
+(b) **12-point** moving averages (one full year); 12 is even, so the averages fall
+between months and **must be centred** [1].
+
+(c) Any one: to smooth out the seasonal variation and random fluctuations; to show
+the trend; to give values from which seasonal components can be calculated [1].
+
 ---
 
 ## Where marks are usually lost
@@ -130,6 +179,8 @@ may be distorted by an unusual year [1].
   instead of to the *trend* value.
 - In 2(b), attaching the centred averages to the wrong quarters. The first
   centred value belongs to the third quarter of the data.
+- In 3(b), counting quarters from the last *actual* value rather than from the
+  last trend value, or forgetting to subtract a negative seasonal component.
 
 ## Next steps
 

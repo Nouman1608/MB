@@ -76,7 +76,7 @@ Consideration is something of value given in return for a promise. It must be su
 
 ### Intention to create legal relations
 
-Presumptions apply. Social and domestic agreements are presumed not to be legally binding (Balfour v Balfour, 1919), although the presumption can be rebutted where the parties are not living in harmony (Merritt v Merritt, 1969). Commercial agreements are presumed to be binding unless clearly excluded.
+Presumptions apply. Social and domestic agreements are presumed not to be legally binding (Balfour v Balfour, 1919), although the presumption can be rebutted where the parties are not living in harmony (Merritt v Merritt, 1970). Commercial agreements are presumed to be binding unless clearly excluded.
 
 ## Contract terms: general
 
