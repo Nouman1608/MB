@@ -242,6 +242,23 @@ Notice that the diameters differ by a factor of 1.33 but the areas by 1.9. This 
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between humoral and cell-mediated immunity?**
+Humoral immunity involves antibodies in body fluids, produced by B cells. Cell-mediated immunity involves T cells acting on infected cells.
+
+**What is the difference between active and passive immunity?**
+Active immunity is slow to develop, long-lasting and produces memory cells. Passive immunity is immediate and short-lived, with no memory cells, because antibodies are given.
+
+**What is Core Practical 14 in Edexcel IAL Biology?**
+It investigates the effect of different antibiotics on bacteria by placing antibiotic discs on a lawn of safe bacteria and measuring the clear zones.
+
+**How do you calculate a hospital infection rate?**
+Infection rate = number of infections ÷ patient-days × 1000.
+
+**Does a larger clear zone prove that an antibiotic kills bacteria?**
+No. A larger zone shows more inhibition, but it does not show whether bacteria were killed or only stopped from growing, and molecule size affects how far the antibiotic diffuses.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

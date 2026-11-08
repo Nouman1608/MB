@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "molecules-transport-and-health-edexcel-alevel-biology"
-description: "Condensed recall notes on biological molecules, the circulatory system, atherosclerosis and cardiovascular risk for Pearson Edexcel International A-Level Biology (YBI11)."
+description: "Condensed notes on biological molecules, water, the circulatory system, atherosclerosis and cardiovascular risk for Edexcel International A Level Biology YBI11."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -201,3 +203,19 @@ Blockage of a coronary artery causes a **myocardial infarction**; blockage in th
   <figcaption>LDL takes cholesterol out to the tissues; HDL brings it back to the liver.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the three stages of the cardiac cycle?**
+Atrial systole, when the atria contract; ventricular systole, when the ventricles contract and the atrioventricular valves close; and diastole, when all chambers relax.
+
+**What is the sequence of atherosclerosis?**
+Damage to the endothelium, an inflammatory response, deposition of cholesterol and lipids forming a plaque, hardening and narrowing of the artery, raised blood pressure, and possible rupture that triggers a thrombus.
+
+**What is the difference between HDL and LDL?**
+HDL transports cholesterol to the liver for disposal, while LDL transports cholesterol to the tissues and is associated with plaque formation. Confusing their directions is a common trap.
+
+**Why is mass transport needed in large organisms?**
+Large organisms have a small surface area to volume ratio, so diffusion alone is too slow to supply all their cells.
+
+**Why does ice float?**
+Water is less dense as ice, so ice floats and insulates the water below. This, like water's other properties, results from hydrogen bonding.

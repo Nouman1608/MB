@@ -252,6 +252,23 @@ The capillary has a radius of 0.5 mm. In 10 minutes, with absorber, the fluid mo
 - Dividing oxygen by carbon dioxide when working out RQ.
 - Describing the respirometer as measuring "gas produced" when the absorber means it measures oxygen used.
 
+## Frequently asked questions
+
+**Where does glycolysis happen?**
+Glycolysis happens in the cytoplasm and does not need oxygen. The link reaction and Krebs cycle take place in the mitochondrial matrix.
+
+**What is the net yield of glycolysis?**
+Per glucose, glycolysis gives a net 2 ATP (4 made, 2 used), 2 reduced NAD and 2 pyruvate.
+
+**What is the final electron acceptor in respiration?**
+Oxygen is the final electron acceptor at the end of the electron transport chain, combining with electrons and H⁺ to form water.
+
+**How do you calculate RQ from an equation?**
+RQ = carbon dioxide produced ÷ oxygen used. For palmitic acid, C₁₆H₃₂O₂ + 23O₂ → 16CO₂ + 16H₂O, RQ = 16 ÷ 23 = 0.70.
+
+**Why do textbooks give different ATP yields?**
+Textbooks quote different ratios of ATP per reduced NAD and reduced FAD, so use the values given in the question.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

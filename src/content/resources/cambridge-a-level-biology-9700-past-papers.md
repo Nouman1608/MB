@@ -12,10 +12,12 @@ order: 1
 description: "9700 Biology past papers guide: grade thresholds and examiner report notes for every March, June and November series from 2021 to 2024."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This page is a guide to the past papers for Cambridge International AS & A Level Biology (9700). It covers twelve series, from March 2021 to November 2024. The grade thresholds are copied from Cambridge's official grade-threshold documents, and the examiner notes are our own summaries of Cambridge's Principal Examiner Reports for Teachers. We do not host any papers: every paper, mark scheme and report is on Cambridge's own site.
@@ -527,3 +529,20 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 ## About these notes
 
 Our sources are Cambridge's grade-threshold tables and Principal Examiner Reports for Teachers for 9700, for the twelve series from March 2021 to November 2024 listed above; the notes are written in our own words. Thresholds change every series and must never be used to predict future ones. If you spot an error, please [report a correction](/report-a-correction/).
+
+## Frequently asked questions
+
+**Where can I get official Cambridge 9700 Biology past papers?**
+Cambridge publishes recent papers, mark schemes, examiner reports and grade thresholds for 9700 on its website. This page links to the official syllabus and past papers pages.
+
+**Which syllabus were the 2021 to 2024 9700 papers set on?**
+They were set on earlier versions of the syllabus. The current 9700 syllabus is for examination in 2025, 2026 and 2027, so check the syllabus version on a paper before relying on an old question.
+
+**What do the 9700 paper numbers mean?**
+Paper 1 is Multiple Choice, Paper 2 AS Level Structured Questions, Paper 3 Advanced Practical Skills, Paper 4 A Level Structured Questions and Paper 5 Planning, Analysis and Evaluation. The second digit is the variant.
+
+**How should I use a past paper, mark scheme and examiner report together?**
+Sit the paper first under timed conditions, mark it strictly with the mark scheme, then read the examiner report for that series to see where candidates lost marks.
+
+**What exam technique do 9700 examiner reports repeat?**
+Obey the command word, quote data with units, make comparisons two-sided, write the full term before any abbreviation, read everything before writing, and give only the number of answers asked for.

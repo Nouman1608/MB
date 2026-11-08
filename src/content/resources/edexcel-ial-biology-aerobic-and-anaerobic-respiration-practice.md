@@ -157,6 +157,20 @@ These questions cover statements 7.1 to 7.8 (aerobic and anaerobic respiration, 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 7.1 to 7.8 of Pearson Edexcel International A Level Biology (YBI11), on aerobic and anaerobic respiration, including Core Practicals 15 and 16.
+
+**How many ATP does glycolysis make and use?**
+Glycolysis makes 4 ATP and uses 2 per glucose. Saying only "2 ATP" without this is a common way to lose marks.
+
+**How do you calculate RQ?**
+Divide the carbon dioxide produced by the oxygen taken in. Dividing oxygen by carbon dioxide is a common error.
+
+**What should you give to explain a plateau on a graph?**
+Name a limiting factor that explains why the rate levels off.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

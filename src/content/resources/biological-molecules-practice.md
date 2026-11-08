@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on carbohydrates, proteins, lipids and food tests."
 author: "saad-zai"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -128,3 +130,17 @@ Only the reducing-sugar test with Benedict's solution requires heating
 stating the method precisely (including whether heat is used) is often
 worth a mark by itself. For the full explanation of each molecule's
 structure, including DNA's double helix, see the [Biological Molecules revision notes](/resources/biological-molecules-revision-notes/).
+
+## Frequently asked questions
+
+**Which syllabus do these biological molecules questions support?**
+They are written for Cambridge O Level Biology 5090 and cover carbohydrates, proteins, lipids, DNA, water and the food tests.
+
+**Which food test needs heating?**
+Only the Benedict's test for reducing sugars needs heating, in a water bath. The iodine, biuret and emulsion tests do not.
+
+**How should you describe a food test result?**
+State both the starting colour and the final colour. Giving only the final colour is a common way to lose marks.
+
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside the official past papers from Cambridge.
