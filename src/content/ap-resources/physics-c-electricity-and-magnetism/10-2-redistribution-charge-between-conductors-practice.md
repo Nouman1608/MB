@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. This set is for the calculus-based course. Data for every question: ε₀ = 8.85 × 10⁻¹² C²/(N·m²), 1/(4πε₀) = 8.99 × 10⁹ N·m²/C² and e = 1.602 × 10⁻¹⁹ C. Take V = 0 far away and at ground. Spheres "joined by a long thin wire" are far apart and the wire holds negligible charge. A scientific calculator is assumed; round only at the end.

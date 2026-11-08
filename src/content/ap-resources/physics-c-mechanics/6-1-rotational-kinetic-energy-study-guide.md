@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 6.1 called Rotational Kinetic Energy. This guide is the **calculus-based** one. It builds K = ½Iω² by integrating over a continuous body and proves the translation-plus-rotation split. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/6-1-rotational-kinetic-energy-study-guide/); do not mix the two when you revise.

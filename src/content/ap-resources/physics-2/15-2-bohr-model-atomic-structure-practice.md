@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: k = 9.0 × 10⁹ N·m²/C²; e = 1.60 × 10⁻¹⁹ C; h = 6.63 × 10⁻³⁴ J·s; electron mass mₑ = 9.11 × 10⁻³¹ kg; proton and neutron mass 1.67 × 10⁻²⁷ kg; hydrogen ground-state Bohr radius r₁ = 5.29 × 10⁻¹¹ m. Treat the nucleus as fixed. All speeds are much less than c. A scientific calculator is assumed. Round only at the end.

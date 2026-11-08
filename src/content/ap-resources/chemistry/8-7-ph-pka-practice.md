@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: 25 °C, K_w = 1.0 × 10⁻¹⁴, so pK_a + pK_b = 14.00 for a conjugate pair. The acids HQ and HZ and the indicators J, K, L, M and P are fictional. Approximate colour-change ranges: bromocresol green 3.8–5.4 (yellow to blue); phenolphthalein 8.3–10.0 (colourless to pink).

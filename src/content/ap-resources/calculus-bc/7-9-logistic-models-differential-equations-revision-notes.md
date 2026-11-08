@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the graphs and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/7-9-logistic-models-differential-equations-study-guide/). **BC-only material.** Prerequisites (Topics 7.1, 7.4 and 7.8, and concavity from Unit 5) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

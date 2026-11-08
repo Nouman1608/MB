@@ -41,10 +41,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This guide is for the **algebra-based Physics 1 course**. Everything here uses algebra, graphs and Newton's second law. No calculus is needed. Topic 7.1 defined SHM and Topic 7.2 gave its period; this topic shows how to **describe and read** the motion itself.

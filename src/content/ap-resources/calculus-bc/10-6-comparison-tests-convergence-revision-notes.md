@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the four-case diagram, the reasons the tests work and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/10-6-comparison-tests-convergence-study-guide/). **BC-only material.** Prerequisites (limits at infinity 1.15, geometric series 10.2, nth term test 10.3, p-series 10.5) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

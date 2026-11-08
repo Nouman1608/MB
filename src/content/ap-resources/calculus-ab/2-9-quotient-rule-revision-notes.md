@@ -26,10 +26,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the derivation, the graph and worked examples, use the [full study guide](/advanced-course-resources/calculus-ab/2-9-quotient-rule-study-guide/). This topic is shared by Calculus AB and Calculus BC.

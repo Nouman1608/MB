@@ -29,10 +29,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This diagnostic is for the **algebra-based Physics 1 course**, Unit 3 (Work, Energy, and Power). It shows you **which topics to revisit**. Allow about 30 minutes, then use the table at the end.

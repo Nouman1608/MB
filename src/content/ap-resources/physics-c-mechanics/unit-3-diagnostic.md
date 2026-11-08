@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **What this is for.** This diagnostic helps you decide which Unit 3 (Work, Energy, and Power) topics to revisit. It covers every topic, with extra questions on Topics 3.2 to 3.4. These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated against real exam results, so it **does not give a predicted score**. Treat each wrong answer as a pointer to one topic, not as a grade.

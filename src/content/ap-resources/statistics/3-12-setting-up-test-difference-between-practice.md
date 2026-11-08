@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All contexts and data are fictional. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: the pooled proportion is p̂c = (x₁ + x₂)/(n₁ + n₂); the normality condition requires n₁p̂c, n₁(1 − p̂c), n₂p̂c and n₂(1 − p̂c) all to be at least 10; the 10% condition applies only when sampling without replacement. A calculator is useful for the arithmetic.

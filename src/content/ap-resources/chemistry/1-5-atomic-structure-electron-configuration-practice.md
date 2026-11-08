@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data: atomic numbers Li 3, Be 4, Na 11, Mg 12, S 16, Cl 17, Ar 18, K 19, Ti 22, Mn 25, Fe 26, As 33. Coulomb's law: F ∝ q₁q₂ / r².

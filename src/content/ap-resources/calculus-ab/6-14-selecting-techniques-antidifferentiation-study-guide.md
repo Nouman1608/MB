@@ -45,10 +45,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 **Course scope.** This topic is shared by Calculus AB and Calculus BC. The basic rules, substitution, long division and completing the square are examinable for both. Integration by parts and linear partial fractions are **BC only**, and are marked that way below.

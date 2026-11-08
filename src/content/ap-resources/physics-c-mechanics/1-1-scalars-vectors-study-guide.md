@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both open with a Topic 1.1 on scalars and vectors. The Physics 1 topic stays in one dimension. This guide also covers vectors in **two and three dimensions** with î, ĵ and k̂, the position vector r and its unit vector r̂. The one-dimension treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/1-1-scalars-vectors-one-dimension-study-guide/); do not mix the two when you revise.

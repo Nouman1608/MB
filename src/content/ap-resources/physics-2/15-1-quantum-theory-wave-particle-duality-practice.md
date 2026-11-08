@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: h = 6.63 × 10⁻³⁴ J·s; c = 3.00 × 10⁸ m/s; e = 1.60 × 10⁻¹⁹ C; 1 eV = 1.60 × 10⁻¹⁹ J; electron mass mₑ = 9.11 × 10⁻³¹ kg; proton and neutron mass 1.67 × 10⁻²⁷ kg. All wavelengths of light are vacuum wavelengths unless stated. All speeds are much less than c. A scientific calculator is assumed. Round only at the end.

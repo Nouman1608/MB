@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This guide is for the **algebra-based Physics 1 course**. Unit 8 applies the forces, energy and momentum ideas from earlier units to fluids. This first topic sets up the vocabulary: what a fluid is, and how to describe it with one number, its density.

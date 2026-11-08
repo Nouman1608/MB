@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: F = 96,485 C mol⁻¹; I = q / t; R = 0.08206 L atm mol⁻¹ K⁻¹; Cr 52.00, Mg 24.31, Cu 63.55, Ag 107.87 g mol⁻¹. All the situations and measurements are invented for practice.

@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses**, and both have a Topic 1.5 about motion in two dimensions. This guide is the **calculus-based** one. It treats position as a vector function of time, differentiates and integrates each component, and handles an acceleration that changes with time in one direction. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/1-5-vectors-motion-two-dimensions-study-guide/); do not mix the two when you revise.

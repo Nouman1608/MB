@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ameer Hamza"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All genes, compounds and data sets are fictional. Each question lists the codons it needs; the full genetic code table is Table 1 in the [study guide](/advanced-course-resources/biology/6-4-translation-study-guide/). You do not need to memorise any codon except AUG (Met, start).

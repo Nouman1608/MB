@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Use this page after you have studied the topics of Unit 1, Limits and Continuity, or after the [Unit 1 diagnostic](/advanced-course-resources/calculus-ab/unit-1-diagnostic/). The unit is shared by Calculus AB and Calculus BC. The questions below are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring. No calculator for any question.

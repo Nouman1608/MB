@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. **BC-only material.** Assumptions: every function named has derivatives of all orders on the intervals used; angles in radians; no calculator for Questions 1–4 and 6; in Questions 5 and 7 a calculator may be used for arithmetic, with decimals to at least 4 significant figures. "Pₙ" always means the nth-degree Taylor polynomial about the stated centre. All data are fictional.

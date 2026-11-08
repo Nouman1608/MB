@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This guide is for the **algebra-based Physics 1 course**. Everything here uses algebra and graphs. It builds on the definitions in [Topic 1.2](/advanced-course-resources/physics-1/1-2-displacement-velocity-acceleration-study-guide/): displacement, average velocity and average acceleration.

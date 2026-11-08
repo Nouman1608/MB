@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 2.7 on kinetic and static friction. The friction model is the same. This guide is the **calculus-based** one: it leans on symbolic derivations, on objects that interact through friction, and on forces that change with time, so you integrate the motion once slipping starts. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/2-7-kinetic-static-friction-study-guide/); do not mix the two when you revise. This topic uses the free-body diagrams and Newton's second law from earlier in Unit 2, and follows [Topic 2.6, Gravitational Force](/advanced-course-resources/physics-c-mechanics/2-6-gravitational-force-study-guide/).

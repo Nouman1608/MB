@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both open Unit 4 with a topic called Linear Momentum. This guide is the **calculus-based** one. It finds momentum from position functions by differentiating and treats momentum as a two-dimensional vector throughout. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/4-1-linear-momentum-study-guide/); do not mix the two when you revise.

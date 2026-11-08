@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the derivation, the diagram and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/9-3-finding-arc-lengths-curves-given-study-guide/). **BC-only material.** Prerequisites (parametric derivatives 9.1, arc length of y = f(x) 8.13, definite integrals, substitution 6.9) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

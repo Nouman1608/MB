@@ -23,10 +23,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 **BC-only material.** Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/calculus-bc/9-2-second-derivatives-parametric-equations-study-guide/); Practice = [practice questions](/advanced-course-resources/calculus-bc/9-2-second-derivatives-parametric-equations-practice/). You need [Topic 9.1](/advanced-course-resources/calculus-bc/9-1-defining-differentiating-parametric-equations-checklist/) to be secure first; other prerequisites are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

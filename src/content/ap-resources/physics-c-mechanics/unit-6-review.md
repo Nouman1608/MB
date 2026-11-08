@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This review links the six topics of Unit 6 (Energy and Momentum of Rotating Systems). Try the seven questions **without notes**; each combines two or more topics. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s² and G = 6.67 × 10⁻¹¹ N·m²/kg². All planets are fictional. Do the [Unit 6 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-6-diagnostic/) first if you have not.

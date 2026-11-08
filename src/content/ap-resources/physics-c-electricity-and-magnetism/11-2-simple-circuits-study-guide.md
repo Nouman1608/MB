@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 11.2. This topic is mostly about **describing** circuits and reading diagrams. The numbers come later: resistance and Ohm's law in Topic 11.3, power in 11.4, series and parallel combinations and meters in 11.5, and Kirchhoff's rules in 11.6 and 11.7. A clear picture of loops and connections now makes all of those easier.

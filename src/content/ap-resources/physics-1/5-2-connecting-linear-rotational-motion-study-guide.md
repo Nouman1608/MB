@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This guide is for the **algebra-based Physics 1 course**. Topic 5.1 described a rotating body as a whole, using θ, ω and α. This topic zooms in on one point of the body and asks: how far does it travel, how fast does it move and how quickly does its speed change? No calculus is needed.

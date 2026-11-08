@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: T = 1/f; v = fλ; at one location the displacement is A cos(2πft) = A cos(2πt/T); at one instant it is A cos(2πx/λ); on a string v = √(F_T/μ); waves are sinusoidal with constant amplitude; use radians in cosine equations. All data are invented for practice. A scientific calculator is assumed. Round only at the end.

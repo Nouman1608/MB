@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: k_B = 1.38 × 10⁻²³ J/K; the average kinetic energy of a gas atom is K_avg = (3/2)k_B T; every gas is ideal and monatomic, so the internal energy of a sample of N atoms is N × K_avg; "isolated" means no energy is exchanged with anything outside the systems named. All atom masses and speeds are invented. A scientific calculator is assumed. Round only at the end.

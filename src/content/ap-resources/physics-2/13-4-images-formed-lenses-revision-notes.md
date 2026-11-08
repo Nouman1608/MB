@@ -25,10 +25,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the ray diagrams, the sᵢ–sₒ sketch and the worked examples, use the [full study guide](/advanced-course-resources/physics-2/13-4-images-formed-lenses-study-guide/).

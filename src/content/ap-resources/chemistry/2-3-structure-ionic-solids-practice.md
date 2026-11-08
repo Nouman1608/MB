@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question, effective ionic radii in pm: Li⁺ 76, Na⁺ 102, K⁺ 138, Mg²⁺ 72, Ca²⁺ 100, F⁻ 133, Cl⁻ 181, Br⁻ 196, I⁻ 220, O²⁻ 140. Take the distance between ion centres as d = r₊ + r₋.

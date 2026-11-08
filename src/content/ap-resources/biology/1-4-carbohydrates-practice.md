@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ameer Hamza"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: C = 12.011, H = 1.008, O = 15.999 g mol⁻¹, so glucose (C₆H₁₂O₆) is 180.156 g mol⁻¹ and water is 18.015 g mol⁻¹. A calculator is assumed. Keep full calculator values until the last step. All data are fictional.

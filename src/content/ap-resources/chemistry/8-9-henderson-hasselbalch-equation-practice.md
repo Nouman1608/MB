@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data at 25 °C: pKa of acetic acid = 4.76; pKa of NH₄⁺ = 9.25; pKa of H₂PO₄⁻ = 7.20; K_w = 1.0 × 10⁻¹⁴. Acids named with letters (HX, HM, HR) are fictional. All sodium salts and NH₄Cl are soluble and fully dissociated.

@@ -29,10 +29,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All contexts and data are fictional. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: intervals are two-sample z-intervals for p₁ − p₂ with the standard error √[p̂₁(1 − p̂₁)/n₁ + p̂₂(1 − p̂₂)/n₂]; z* is 1.645 for 90%, 1.960 for 95% and 2.576 for 99%; endpoints are given to 3 decimal places. A graphing calculator is assumed.

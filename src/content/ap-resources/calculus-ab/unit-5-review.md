@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Use this page after studying Unit 5, Analytical Applications of Differentiation, or after the [Unit 5 diagnostic](/advanced-course-resources/calculus-ab/unit-5-diagnostic/). The unit is shared by Calculus AB and Calculus BC; every question is for both courses. These are **original Marlbridge practice questions**, not past exam questions, with invented contexts and data. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring. No calculator for any question.

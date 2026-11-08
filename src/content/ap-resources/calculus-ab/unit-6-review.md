@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Use this page after studying Unit 6, Integration and Accumulation of Change, or the [Unit 6 diagnostic](/advanced-course-resources/calculus-ab/unit-6-diagnostic/). The unit is shared by Calculus AB and Calculus BC. **Questions 3 and 7 are BC only** (Topics 6.11 to 6.13); Calculus AB students skip them. These are **original Marlbridge practice questions**, not past exam questions, with invented contexts and data. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring.

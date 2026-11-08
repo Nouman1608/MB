@@ -25,10 +25,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the collision diagram and the worked examples, use the [full study guide](/advanced-course-resources/physics-2/15-6-compton-scattering-study-guide/).

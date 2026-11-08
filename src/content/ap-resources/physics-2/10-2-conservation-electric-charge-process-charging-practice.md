@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: e = 1.60 × 10⁻¹⁹ C; k = 9.0 × 10⁹ N·m²/C². Metal spheres sit on insulating stands unless the question says otherwise, and "identical" spheres share charge equally on contact. Treat small spheres as point charges. A scientific calculator is assumed. Round only at the end.

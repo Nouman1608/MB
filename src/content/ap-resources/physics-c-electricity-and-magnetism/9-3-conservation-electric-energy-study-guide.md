@@ -41,10 +41,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 9.3. It builds directly on electric potential energy (Topic 9.1) and electric potential (Topic 9.2). One worked example uses an integral to find a potential difference.

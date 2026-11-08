@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Use this page after studying Unit 4, Contextual Applications of Differentiation, or after the [Unit 4 diagnostic](/advanced-course-resources/calculus-ab/unit-4-diagnostic/). The unit is shared by Calculus AB and Calculus BC; every question is for both courses. These are **original Marlbridge practice questions**, not past exam questions, with invented data. The rubrics are a suggested Marlbridge rubric, not official scoring. No calculator.

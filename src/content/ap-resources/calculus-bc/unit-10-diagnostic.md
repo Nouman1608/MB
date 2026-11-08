@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 **What this is for.** This diagnostic shows which topics of Unit 10, Infinite Sequences and Series, to revisit. The unit is **BC only**: it is not part of Calculus AB. There is one question per topic, and two for Topic 10.13. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, and your result is not a predicted score.

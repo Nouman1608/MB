@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This guide is for the **algebra-based Physics 1 course**. In Topic 2.1 you learned to choose a system. Now you will describe the forces exerted on it, and draw them in a way that turns straight into equations.

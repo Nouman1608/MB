@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: binding energies are in MJ mol⁻¹ (1 MJ mol⁻¹ = 1000 kJ mol⁻¹); every spectrum is **illustrative**, with values chosen to follow the real pattern rather than measured data; peaks are listed from highest to lowest binding energy; use a periodic table for atomic numbers.

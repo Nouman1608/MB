@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 11.8. The algebra-based Physics 2 course also meets RC circuits; this course adds the differential equations, their solutions and energy by integration. You will use both Kirchhoff rules from Topics 11.6 and 11.7, now applied at every instant while currents change.

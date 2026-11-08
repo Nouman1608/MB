@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: c = 3.00 × 10⁸ m/s; 1 eV = 1.60 × 10⁻¹⁹ J; 1 u = 1.66 × 10⁻²⁷ kg = 931 MeV/c²; λ = ln 2 / t½; N = N₀e^(−λt). Data in Questions 5–7 are invented for practice. A scientific calculator is assumed. Round only at the end.

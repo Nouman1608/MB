@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: **no calculator except in Questions 4 and 6** (graphing calculator allowed, radian mode, answers correct to three decimal places), exact answers elsewhere, and every function is continuous on the interval used. Notation: ∫ (a to b) f(x) dx means the definite integral of f(x) from x = a to x = b. The contexts in Questions 2 and 6 are invented. This set is for both Calculus AB and Calculus BC students.

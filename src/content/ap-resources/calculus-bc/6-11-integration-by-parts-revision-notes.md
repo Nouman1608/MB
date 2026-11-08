@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the derivation, the graph and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/6-11-integration-by-parts-study-guide/). **BC-only material.** Prerequisites (product rule 2.8, FTC 6.7, basic antiderivatives 6.8, substitution 6.9) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

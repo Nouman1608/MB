@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 10.2. It uses two results from Topic 10.1: a conductor in equilibrium is an equipotential, and excess charge sits on its surface.

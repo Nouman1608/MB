@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: every lens is thin and surrounded by air; 1/sᵢ + 1/sₒ = 1/f; f > 0 for a converging lens and f < 0 for a diverging lens; sᵢ > 0 is a real image on the far side, sᵢ < 0 a virtual image on the object's side; magnification |M| = |hᵢ/hₒ| = |sᵢ/sₒ| is a size ratio, and for a single lens a real image is inverted and a virtual image is upright. A scientific calculator is assumed. Round only at the end.

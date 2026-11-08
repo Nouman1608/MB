@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data: ΔG°f at 298 K: CaCO₃(s) −1129.1, CaO(s) −603.3, CO₂(g) −394.39 kJ mol⁻¹. T(K) = T(°C) + 273.15. Reactions X, Z and the dimerisation in Question 7 use invented data, made up for practice.

@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Use this page after studying Unit 10, Infinite Sequences and Series, or after the [Unit 10 diagnostic](/advanced-course-resources/calculus-bc/unit-10-diagnostic/). The unit is **BC only**: it is not part of Calculus AB. These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric, not official scoring. No calculator for any question.

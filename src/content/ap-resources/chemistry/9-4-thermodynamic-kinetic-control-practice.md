@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data: ΔG°f at 298 K: CO₂(g) −394.39, H₂O(l) −237.14, H₂O(g) −228.58, C₂H₅OH(l) −174.8, NO(g) +86.60 kJ mol⁻¹; elements in their standard states 0. Reaction J → L and compound W use invented data, made up for practice.

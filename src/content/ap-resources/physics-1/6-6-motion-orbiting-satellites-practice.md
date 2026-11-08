@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. This is the algebra-based course, so no calculus is needed. All planets, stars and probes are fictional. Use G = 6.67 × 10⁻¹¹ N·m²/kg². In every question the satellite's mass is negligible compared with the central body's, and gravity from the central body is the only force. Round final answers to 2 significant figures unless told otherwise, and keep unrounded values in your calculator until the end.

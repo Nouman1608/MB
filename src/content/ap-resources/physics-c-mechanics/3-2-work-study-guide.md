@@ -43,10 +43,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 3.2 called Work. This guide is the **calculus-based** one. It defines work as an integral of a dot product along a path, integrates forces that change with position, and derives the work–energy theorem from Newton's second law. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/3-2-work-study-guide/); do not mix the two when you revise. This topic follows [Topic 3.1, Translational Kinetic Energy](/advanced-course-resources/physics-c-mechanics/3-1-translational-kinetic-energy-study-guide/).

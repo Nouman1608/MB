@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: H 1.008, O 16.00 g mol⁻¹; for water, ΔH_fus = 6.01 kJ mol⁻¹ at 0 °C, ΔH_vap = 40.7 kJ mol⁻¹ at 100 °C and c(liquid) = 4.18 J g⁻¹ °C⁻¹. Substances with single-letter names (J, K, L, G, X) are fictional. Assume constant pressure throughout.

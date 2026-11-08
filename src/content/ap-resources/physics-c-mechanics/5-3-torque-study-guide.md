@@ -41,10 +41,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 5.3 called Torque. This guide is the one for the **calculus-based** course. It uses the same three ways of finding the size of a torque, and it adds the **vector** form, τ = r × F, with a direction found by the right-hand rule. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/5-3-torque-study-guide/); do not mix the two when you revise.

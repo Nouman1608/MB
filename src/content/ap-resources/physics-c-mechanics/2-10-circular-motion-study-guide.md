@@ -41,10 +41,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses**. Physics 1 teaches circular motion as Topic 2.9; this course teaches it as Topic 2.10, with calculus. Here you derive the centripetal acceleration from a position vector, find tangential acceleration as a derivative when the speed changes with time, and include friction on banked curves. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/2-9-circular-motion-study-guide/); do not mix the two when you revise. This topic follows [Topic 2.9, Resistive Forces](/advanced-course-resources/physics-c-mechanics/2-9-resistive-forces-study-guide/).

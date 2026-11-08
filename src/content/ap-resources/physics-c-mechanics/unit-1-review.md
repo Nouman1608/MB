@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This review pulls the five topics of Unit 1 (Kinematics) together. Read the big ideas and the table, then try the seven questions **without notes**. Each one combines two or more topics. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s² (10 m/s² is equally acceptable) and ignore air resistance. Positions are in m, velocities in m/s, accelerations in m/s² and t in s. If you have not yet done the [Unit 1 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-1-diagnostic/), do it first.

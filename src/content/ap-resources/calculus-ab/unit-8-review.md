@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Use this page after studying Unit 8, Applications of Integration, or after the [Unit 8 diagnostic](/advanced-course-resources/calculus-ab/unit-8-diagnostic/). The unit is shared by Calculus AB and Calculus BC. Questions 1 to 7 are for both courses; **Question 8 is BC only**, because it uses arc length (Topic 8.13). These are **original Marlbridge practice questions**, not past exam questions; contexts and data are invented. The rubrics are a suggested Marlbridge rubric, not official scoring. Only Questions 6 and 8(c) need a graphing calculator.

@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 7.4 called Energy of Simple Harmonic Oscillators. This guide is the **calculus-based** one. It proves that the total energy is constant, writes K and U as functions of time, and links energy to the amplitude and phase from Topic 7.3. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/7-4-energy-simple-harmonic-oscillators-study-guide/); do not mix the two when you revise.

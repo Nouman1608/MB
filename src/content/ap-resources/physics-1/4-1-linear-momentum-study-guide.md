@@ -41,10 +41,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This guide is for the **algebra-based Physics 1 course** and opens Unit 4, Linear Momentum. Everything here uses algebra and diagrams. You already know two ways to describe a moving object: its velocity (Unit 1) and its kinetic energy (Unit 3). Momentum is a third description. It turns out to be the best tool for short, violent interactions such as crashes, kicks and things breaking apart.

@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 8.6. Gauss's law is not part of the algebra-based Physics 2 course. You will need to set up and evaluate integrals here.

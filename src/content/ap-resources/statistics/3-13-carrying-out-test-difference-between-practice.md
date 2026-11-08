@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All contexts and data are fictional. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: p̂c is the pooled proportion (x₁ + x₂) / (n₁ + n₂); p-values come from the standard normal distribution using technology with unrounded z (a table with z rounded to 2 decimal places may differ in the fourth decimal place, which is acceptable); round z to 2 decimal places and p-values to 4. A graphing calculator is assumed.

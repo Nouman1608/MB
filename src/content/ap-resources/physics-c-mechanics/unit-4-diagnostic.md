@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **What this is for.** This diagnostic helps you decide which Unit 4 (Linear Momentum) topics to revisit before you move on. It has one question on Topic 4.1, three on Topic 4.2, two on Topic 4.3 and three on Topic 4.4. Three of the nine need short written working. These are **original Marlbridge practice questions**, not past exam questions. The set is not calibrated against real exam results, so it **does not give a predicted score**. Treat each wrong answer as a pointer to a topic.

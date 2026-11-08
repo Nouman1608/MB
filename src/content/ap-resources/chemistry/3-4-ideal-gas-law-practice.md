@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: R = 0.08206 L atm mol⁻¹ K⁻¹ = 62.36 L torr mol⁻¹ K⁻¹; 1 atm = 760 torr; K = °C + 273.15. Molar masses: H 1.008, He 4.003, C 12.01, O 16.00, S 32.06, Cl 35.45, Ar 39.95 g mol⁻¹. Assume every gas behaves ideally. The experiment in Question 6 is invented, and its data are calculated for practice.

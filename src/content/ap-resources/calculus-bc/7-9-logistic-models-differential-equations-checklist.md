@@ -23,10 +23,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 **BC-only material.** Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/calculus-bc/7-9-logistic-models-differential-equations-study-guide/); Practice = [practice questions](/advanced-course-resources/calculus-bc/7-9-logistic-models-differential-equations-practice/). Prerequisites (Topics 7.1, 7.4 and 7.8) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

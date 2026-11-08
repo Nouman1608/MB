@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This guide is for the **algebra-based Physics 1 course**. It uses algebra and graphs only. It builds directly on [Topic 6.3](/advanced-course-resources/physics-1/6-3-angular-momentum-angular-impulse-study-guide/), where you met the rotational impulse–momentum theorem, τ_net Δt = ΔL.

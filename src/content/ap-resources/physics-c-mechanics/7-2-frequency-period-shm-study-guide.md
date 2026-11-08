@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 7.2 called Frequency and Period of SHM. This guide is the **calculus-based** one. It derives the period formulas from Newton's second law written as a differential equation. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/7-2-frequency-period-shm-study-guide/); do not mix the two when you revise.

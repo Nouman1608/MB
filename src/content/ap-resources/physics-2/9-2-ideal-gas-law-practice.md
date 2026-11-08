@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: R = 8.31 J/(mol·K); k_B = 1.38 × 10⁻²³ J/K; N_A = 6.02 × 10²³ mol⁻¹; every gas is ideal; T(K) = T(°C) + 273; 1 L = 10⁻³ m³. All experimental data are fictional. A scientific calculator is assumed. Round only at the end. You will need graph paper for Question 6.

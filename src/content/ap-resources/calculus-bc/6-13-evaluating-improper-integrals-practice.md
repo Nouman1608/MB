@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. **BC-only material.** Assumptions: ln is the natural logarithm; e ≈ 2.71828; no calculator for Questions 1–6; in Question 7 a calculator may be used for decimal values, which should be given to 3 decimal places. Notation: "∫ from a to b of f(x) dx" is a definite integral, "[F(x)] from a to b" means F(b) − F(a), and "lim as b → ∞" is the limit as b grows without bound. In written answers, show the limit; do not substitute ∞.

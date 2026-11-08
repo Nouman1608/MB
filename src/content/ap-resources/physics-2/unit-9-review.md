@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 The questions in this review are **original Marlbridge practice questions**, not past exam questions, and each combines two or more topics. The rubrics are a **suggested Marlbridge rubric**, not official scoring. Data: k_B = 1.38 × 10⁻²³ J/K; R = 8.31 J/(mol·K); c for water = 4180 J/(kg·K); every gas is ideal and monatomic, so U = (3/2)nRT = (3/2)PV; W is the work done **on** the gas, so ΔU = Q + W. All data are invented.

@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. **BC-only material.** Assumptions: angles in radians; no calculator except in Question 7(d), where decimals should be given to 6 decimal places. Notation: "Σ from n = 0 to ∞ of uₙ" is an infinite series, and f⁽ⁿ⁾(c) is the nth derivative of f at c. You may use the Maclaurin series for eˣ, sin x, cos x and 1/(1 − x) without deriving them.

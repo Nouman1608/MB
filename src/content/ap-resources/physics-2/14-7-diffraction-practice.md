@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: the light is monochromatic; a is the slit width, L the slit-to-screen distance and y the distance from the middle of the central bright band; single-slit dark fringes are at a sin θ = mλ (m = ±1, ±2, …), and for θ under about 10°, y_min = mλL/a. A scientific calculator is assumed. Round only at the end.

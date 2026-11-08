@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. This set is for the calculus-based course. Data for every question: 1/(4πε₀) = 8.99 × 10⁹ N·m²/C², e = 1.60 × 10⁻¹⁹ C, G = 6.67 × 10⁻¹¹ N·m²/kg², proton mass m_p = 1.67 × 10⁻²⁷ kg, electron mass m_e = 9.11 × 10⁻³¹ kg, g = 9.8 m/s². All charged objects are point charges unless stated. A scientific calculator is assumed; round only at the end.

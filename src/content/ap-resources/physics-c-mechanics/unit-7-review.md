@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This review links the five topics of Unit 7 (Oscillations). Read the big ideas and table, then try the seven mixed questions **without notes**. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s² (10 m/s² is equally acceptable) and keep your calculator in radian mode. Springs are ideal unless stated. If you have not yet done the [Unit 7 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-7-diagnostic/), do it first.

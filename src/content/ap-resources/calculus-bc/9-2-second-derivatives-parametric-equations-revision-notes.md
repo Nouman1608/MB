@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the derivation, the graph and the worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/9-2-second-derivatives-parametric-equations-study-guide/). **BC-only material.** You need [Topic 9.1](/advanced-course-resources/calculus-bc/9-1-defining-differentiating-parametric-equations-study-guide/) first; the other prerequisites (quotient rule 2.9, chain rule 3.1, concavity 5.6) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

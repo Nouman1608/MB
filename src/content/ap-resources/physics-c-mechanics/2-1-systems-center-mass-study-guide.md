@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses**, and both have a Topic 2.1 with the same title. This guide is the **calculus-based** one. As well as sums over particles, it uses integrals to find the mass and center of mass of objects whose density changes from place to place. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/2-1-systems-center-mass-study-guide/); do not mix the two when you revise.

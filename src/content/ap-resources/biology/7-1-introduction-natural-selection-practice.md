@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ameer Hamza"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Useful relationships: mean offspring per individual = total offspring ÷ number of individuals (or fraction surviving × offspring per survivor); relative fitness = mean offspring of a phenotype ÷ mean offspring of the most successful phenotype. A calculator is assumed. All organisms, places and data sets are fictional.

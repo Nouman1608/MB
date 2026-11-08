@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: H 1.008, N 14.01, O 16.00, Mg 24.31, Al 26.98, P 30.97, Cl 35.45, Ca 40.08, Cu 63.55 g mol⁻¹; R = 0.08206 L atm mol⁻¹ K⁻¹; T(K) = T(°C) + 273.15. Assume every reaction goes to completion unless the question says otherwise.

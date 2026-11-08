@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Experimental data and substances named with letters are fictional. Data: specific heat capacities (J g⁻¹ °C⁻¹) water and dilute solutions 4.18, ethanol 2.44, aluminium 0.897, iron 0.449, copper 0.385, silver 0.233; Ag 107.87 g mol⁻¹. Assume calorimeters are perfectly insulated unless told otherwise.

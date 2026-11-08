@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 Topic 4.3 showed that total momentum is the same just before and just after a collision. That is true for every collision of an isolated system, so momentum cannot tell collisions apart. **Kinetic energy** can. This topic sorts collisions by what happens to the system's total kinetic energy, and shows how to use that extra information.

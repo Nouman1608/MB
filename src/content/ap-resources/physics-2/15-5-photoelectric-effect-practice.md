@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: h = 6.63 × 10⁻³⁴ J·s = 4.14 × 10⁻¹⁵ eV·s; c = 3.00 × 10⁸ m/s; hc = 1240 eV·nm; e = 1.60 × 10⁻¹⁹ C; 1 eV = 1.60 × 10⁻¹⁹ J. All metals and measurements are invented for practice. A scientific calculator is assumed. Round only at the end.

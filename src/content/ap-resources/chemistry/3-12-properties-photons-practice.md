@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Elements, bonds and dyes labelled with a letter are fictional, and their data are invented for practice. Data for every question: h = 6.626 × 10⁻³⁴ J s; c = 2.998 × 10⁸ m s⁻¹; N_A = 6.022 × 10²³ mol⁻¹; 1 cm = 10⁻² m; 1 nm = 10⁻⁹ m.

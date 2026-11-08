@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: **no calculator**, angles in radians, exact answers unless stated, and all functions continuous on the intervals used. Notation: Σ (i = 1 to n) aᵢ means a₁ + a₂ + … + aₙ, and ∫ (a to b) f(x) dx means the definite integral of f from a to b. The data in Question 7 are invented. This set is for both Calculus AB and Calculus BC students.

@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 10.4. The algebra-based Physics 2 course mentions dielectrics inside its capacitor topic; here they have a topic of their own, built on the Gauss's-law results of [Topic 10.3](/advanced-course-resources/physics-c-electricity-and-magnetism/10-3-capacitors-study-guide/).

@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All contexts and data are fictional. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions for every question: the test is a one-sample z-test for a population proportion; the standard error uses p₀; p-values come from the standard normal distribution (technology with unrounded z, so a table may differ in the last decimal place); round z to 2 decimal places and p-values to 4. A graphing calculator is assumed.
