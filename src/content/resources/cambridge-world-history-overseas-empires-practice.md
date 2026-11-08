@@ -164,7 +164,7 @@ knowledge to explain your answer. **[7]**
 **(b)** How far do Sources A and B disagree about American expansion?
 **[8]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Source A urges Americans to take control of the Philippines
 and govern them, presenting empire as a duty of supposedly superior
