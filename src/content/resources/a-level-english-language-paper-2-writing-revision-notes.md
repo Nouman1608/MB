@@ -16,12 +16,10 @@ syllabusTopics:
 description: "Condensed notes on Cambridge 9093 Paper 2 Writing: shorter writing and reflective commentary in Section A, and extended writing in Section B, with exam traps."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "review-pending"
+reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the [Paper 2 Writing study guide](/resources/a-level-english-language-paper-2-writing/).

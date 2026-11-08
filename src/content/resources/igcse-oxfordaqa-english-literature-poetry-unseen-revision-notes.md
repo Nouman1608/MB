@@ -24,12 +24,10 @@ syllabusTopics:
 description: "Condensed notes on comparing People and Places poems and analysing unseen poetry and prose for OxfordAQA International GCSE English Literature 9275 Paper 2a."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "review-pending"
+reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

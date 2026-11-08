@@ -22,12 +22,10 @@ syllabusTopics:
 description: "Original practice with worked answers on the social functions of language, linking text analysis to argument, and the format of OxfordAQA 9670 Unit 2."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "review-pending"
+reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

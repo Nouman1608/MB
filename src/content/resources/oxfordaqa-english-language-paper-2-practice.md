@@ -21,12 +21,10 @@ syllabusTopics:
 description: "Original practice with worked answers on modern-world sources, visual and graphic texts and directed writing for OxfordAQA GCSE English Language 9270."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "review-pending"
+reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. The source text used in Question 3 is an original

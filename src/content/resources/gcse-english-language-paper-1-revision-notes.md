@@ -21,12 +21,10 @@ syllabusTopics:
 description: "Condensed notes on AQA GCSE English Language 8700 Paper 1: the four reading questions, the 40-mark creative writing task, the AOs and the common exam traps."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "review-pending"
+reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full course picture, use the

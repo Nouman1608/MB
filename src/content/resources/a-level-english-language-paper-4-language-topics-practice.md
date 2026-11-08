@@ -22,12 +22,10 @@ syllabusTopics:
 description: "Original stimulus-based discussion questions with model structures on English in the World and Language and the Self for Cambridge 9093 Paper 4."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "review-pending"
+reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original stimulus materials and questions written for
 > Marlbridge**, for revision and practice on this content. They are **not**

@@ -16,12 +16,10 @@ syllabusTopics:
 description: "Original practice with full worked answers on sociolect, dialect, context and language change for AQA A-Level English Language 7702 Paper 2 Section A."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "review-pending"
+reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and practice

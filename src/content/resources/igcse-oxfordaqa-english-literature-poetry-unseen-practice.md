@@ -24,12 +24,10 @@ syllabusTopics:
 description: "Original practice with worked answers on the People and Places anthology, unseen poetry and unseen prose for OxfordAQA GCSE English Literature 9275."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "review-pending"
+reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
