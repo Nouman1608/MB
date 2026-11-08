@@ -27,7 +27,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Unit 2 Place in Literary Texts**, the second of two
@@ -143,6 +143,18 @@ copy of the set text into the open-book exam, which is not permitted.
 Spending equal revision time on both sections without checking that
 each is genuinely worth the same 25 marks -- both deserve full
 preparation.
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9675 Unit 2?**
+2 hours for 50 marks, open book: 50% of the International AS and 20% of the International A-level.
+
+**What are the two sections?**
+Section A is an essay on a prose set text and Section B an essay on a poetry set text, 25 marks each.
+
+**Is Unit 2 open book?**
+Yes, unlike Unit 1 and Unit 3.
+
 
 ## Quick revision checklist
 

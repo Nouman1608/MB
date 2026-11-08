@@ -17,7 +17,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 OxfordAQA International A-Level English Literature (9675) is structurally identical in shape to English
@@ -104,6 +104,18 @@ wording of which cannot be predicted in advance.
   attempting to reconstruct passages from memory in full.
 - **During an open-book paper**: use annotation and navigation speed instead, since the text itself is
   available.
+
+## Frequently asked questions
+
+**Which 9675 units are closed book?**
+Unit 1 and Unit 3 are closed book; Unit 2 is open book; Unit 4a uses unseen texts.
+
+**How are the units weighted?**
+Units 1 and 2 are 20% each of the International A-level; Units 3 and 4 are 30% each.
+
+**Is this specification ending?**
+The site's course record notes final AS exams in May/June 2027 and final A2 exams in May/June 2028 for Version 5.3; check with your school.
+
 
 ## Self-test
 
