@@ -242,6 +242,20 @@ Veltham Cables removes a layer of 12 middle managers. Salaries are £46,000 each
 - Listing barriers without saying how to overcome them, when the syllabus asks for both.
 - Treating informal communication as only a problem.
 
+## Frequently asked questions
+
+**What is the link between span of control and levels of hierarchy?**
+For a given workforce they move in opposite directions: a wider span of control means fewer levels of hierarchy, and a narrower span means more levels.
+
+**What makes a good organisational structure in Cambridge 9609?**
+The attributes listed are flexibility, meeting the needs of the business, allowing for growth and development, and encouraging intrapreneurship.
+
+**What are the main barriers to communication?**
+Jargon or language, poor choice of channel, information overload, distance or time zones, attitudes and mistrust, too many levels, and technical failure. Each should be paired with a way to overcome it.
+
+**Are flat structures always better than tall structures?**
+No. Flat structures give faster communication and lower cost but can overload managers, while tall structures give close supervision but slower communication. The right choice depends on the business.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge International: sections 7.1 and 7.2.

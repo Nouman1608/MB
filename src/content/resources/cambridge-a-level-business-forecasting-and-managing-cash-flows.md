@@ -227,6 +227,20 @@ The syllabus says Paper 1 Section A has four compulsory five-mark questions, and
 - Recommending an overdraft for a long-term need.
 - Listing methods without applying them to the business.
 
+## Frequently asked questions
+
+**How is cash flow examined in Cambridge 9609?**
+Section 5.3 is AS content. The syllabus says Paper 1 Section A has four compulsory five-mark questions and Paper 2 has data response questions with six parts and evaluation in the last part; Papers 3 and 4 assume AS knowledge.
+
+**What are the main ways to improve cash flow?**
+Bring cash in sooner, for example through shorter customer credit, early-payment discounts or debt factoring; delay cash going out, for example through longer supplier credit or leasing; or cut outflows by reducing costs and inventory.
+
+**Should an overdraft be used for a long-term cash need?**
+No. An overdraft suits a short, temporary gap such as a seasonal dip. A large, permanent gap needs long-term finance.
+
+**Can a business improve cash flow just by making more profit?**
+Not on its own. Cash flow depends on timing, so a business must also manage when customers pay and when it pays suppliers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 5.3 Forecasting and managing cash flows.

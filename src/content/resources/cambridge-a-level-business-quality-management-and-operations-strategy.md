@@ -252,6 +252,20 @@ Benefits of CPA: it shows the shortest time, the critical activities and where t
 - Listing lean strategies without limitations.
 - Reading the critical path as the shortest route, or mixing up total and free float.
 
+## Frequently asked questions
+
+**What is Total Quality Management?**
+TQM is a whole-business approach in which every employee in every department takes responsibility for quality, aiming for right first time. Fewer inspectors are needed, but training is costly and the culture must change.
+
+**What is benchmarking?**
+Benchmarking means comparing a business's performance, processes or products with the best, such as a rival or a leader in another industry, to find gaps and set realistic targets.
+
+**What is an ERP programme?**
+Enterprise resource planning is integrated software with one shared database linking departments such as purchasing, production, sales and finance. It can improve inventory control, costing, capacity utilisation and management information.
+
+**Is the critical path the shortest route through a network?**
+No. The critical path is the longest route, made up of activities with zero total float, and it sets the minimum project duration.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education): sections 9.2 and 9.3.

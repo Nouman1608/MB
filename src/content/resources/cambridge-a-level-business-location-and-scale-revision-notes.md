@@ -217,6 +217,20 @@ Another Otterburne plan makes 40,000 units a year. Home site: variable cost 9.00
 - Ending an evaluation with a summary and no judgement about which factor matters most.
 - Forgetting that savings can disappear if wages or freight rise, so a decision may not last.
 
+## Frequently asked questions
+
+**What is the difference between offshoring and outsourcing?**
+Offshoring is about the country: moving operations abroad, either to the firm's own site or to a supplier. Outsourcing is about who does the work: using another firm. The two can be combined.
+
+**What is reshoring?**
+Reshoring is bringing offshored operations back to the home country. Reasons include rising wages abroad, higher freight costs, quality problems and long lead times.
+
+**What is the difference between internal and external economies of scale?**
+Internal economies come from the firm's own growth, such as purchasing or financial economies. External economies come from the growth of the industry or area, such as a skilled labour pool or local suppliers.
+
+**What is the difference between quantitative and qualitative location factors?**
+Quantitative factors can be costed, such as wages, rent or freight. Qualitative factors are judgements that are hard to cost, such as reputation, quality of life or staff morale.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 9.1.

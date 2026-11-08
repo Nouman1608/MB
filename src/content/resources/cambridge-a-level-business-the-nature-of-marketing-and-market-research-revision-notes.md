@@ -272,6 +272,20 @@ For a judgement question, give a point, develop it with the case data, then weig
 - Confusing marketing objectives with corporate objectives.
 - Forgetting that a CRM scheme has costs, so only giving benefits.
 
+## Frequently asked questions
+
+**What is the difference between market share and market growth?**
+Market share is one firm's sales as a percentage of total market sales. Market growth is the percentage change in the whole market's sales. A firm's share falls if its sales grow more slowly than the market.
+
+**What are the three methods of segmentation in Cambridge 9609?**
+Geographic, demographic and psychographic. Psychographic data, about lifestyle, values and attitudes, is usually the hardest to collect and measure.
+
+**What is the difference between B2C and B2B marketing?**
+B2C sells to many individuals, often through mass media and branding, with fixed public prices. B2B sells to fewer, larger organisations, often through sales teams and negotiated prices, with slower, more technical decisions.
+
+**Does the 9609 syllabus require specific sampling methods?**
+No. Section 3.2.3 covers the need for sampling and its limitations, but the syllabus names no sampling methods.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028*, subject content sections 3.1 and 3.2.

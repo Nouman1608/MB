@@ -208,6 +208,20 @@ A **trade union** is an organisation of employees formed to protect and advance 
 
 Next, try the [practice questions](/resources/cambridge-a-level-business-human-resource-management-hrm-practice/) or a [free diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What does section 2.1 Human resource management cover in Cambridge 9609?**
+The purpose and roles of HRM, workforce planning, recruitment and selection, redundancy and dismissal, morale and welfare, training and development, and management and workforce relations.
+
+**What is a fair dismissal?**
+A fair dismissal has a valid reason, such as serious misconduct or continued poor performance after warnings, and follows a proper procedure. Without a valid reason or the right procedure, the dismissal is unfair.
+
+**What is multi-skilling?**
+Multi-skilling means training staff to do several jobs, so they can cover absence or move to where work is needed and the business has less idle time.
+
+**Why does HRM matter to a business's objectives?**
+HRM plans, recruits, trains and keeps the people a business needs. A business aiming for growth, for example, needs HRM to have enough staff with the right skills in time.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 2.1 Human resource management (HRM).

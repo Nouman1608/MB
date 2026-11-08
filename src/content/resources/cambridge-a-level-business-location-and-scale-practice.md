@@ -116,6 +116,20 @@ This set covers section 9.1 Location and scale (9.1.1 and 9.1.2) of the Cambridg
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 9.1 Location and scale (9.1.1 and 9.1.2), including location decisions, offshoring and reshoring, and economies and diseconomies of scale.
+
+**What is often left out of an overseas cost comparison?**
+Shipping, duty and inventory costs. Leave them out and the comparison between a home and an overseas site will be wrong.
+
+**How should a percentage change in unit cost be written?**
+Divide the change by the original figure, multiply by 100, and state the direction, such as a rise or a fall. Dividing by the new figure is a common error.
+
+**What does an evaluate question on location need?**
+Use the calculated figures as evidence, weigh financial and non-financial factors, and reach a judgement tied to the numbers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 9.1.

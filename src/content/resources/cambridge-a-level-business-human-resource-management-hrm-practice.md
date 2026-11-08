@@ -138,6 +138,20 @@ Evaluate the owner's proposal. **[8]**
 - Try the [free diagnostics](/diagnostics/).
 - Book a [free trial class](/trial/) for help from a teacher.
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 2.1 Human resource management (HRM), including workforce planning, recruitment and selection, redundancy and dismissal, training, and employee-management relations.
+
+**How do you calculate labour turnover?**
+Divide the number of staff leaving by the average number employed and multiply by 100. Show the average as a separate step and give the answer as a percentage, not a headcount.
+
+**What is the difference between redundancy and dismissal?**
+In redundancy the job itself is no longer needed. In dismissal the cause lies with the employee's conduct or performance.
+
+**What do I need to cover in an HRM evaluate question?**
+Use the case details and figures on both sides, and cover employees as well as the business when the question asks about both. Finish with a judgement that says which side is stronger.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 2.1 Human resource management (HRM).

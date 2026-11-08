@@ -125,6 +125,20 @@ All businesses are invented. Money is in dollars.
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 7.3 Leadership and section 7.4 Human resource management (HRM) strategy, A Level content including leadership theories, emotional intelligence, flexible contracts, performance measures, MBO and AI in HRM.
+
+**Is it enough to name a leadership theory or competency?**
+No. Marks come from applying it to the evidence in the case, for example linking a manager's behaviour to a named idea, rather than defining the theory on its own.
+
+**How should I treat zero hours and gig work in an evaluate answer?**
+Weigh both sides using the case figures, such as cost savings against reliability and staff commitment. Treating flexible contracts as only good or only bad loses marks.
+
+**What is the common mistake in labour turnover calculations?**
+Dividing leavers by the number of staff at the start of the year instead of the average number employed. Give the answer as a percentage.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment. These questions cover sections 7.3.1 to 7.3.3 and 7.4.1.

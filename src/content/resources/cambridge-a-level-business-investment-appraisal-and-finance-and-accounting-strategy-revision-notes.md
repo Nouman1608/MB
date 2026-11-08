@@ -240,6 +240,20 @@ Hobbsford Stores has issued shares of £2.0m, reserves of £2.2m and non-current
 - Listing qualitative factors that do not link to the case.
 - Stopping at the first method when the question asks you to evaluate or compare.
 
+## Frequently asked questions
+
+**What is the difference between payback, ARR and NPV?**
+Payback measures how quickly a project's cash inflows repay its cost, ARR measures average profitability as a percentage of average investment, and NPV measures the value of the project after allowing for the time value of money.
+
+**Why is the initial cost not discounted in NPV?**
+The initial cost is paid now, in Year 0, so its present value is the same as its face value. Only future cash flows are multiplied by discount factors.
+
+**Why does ROCE stay the same whether a project is funded by debt or shares?**
+ROCE uses profit from operations, which is before interest, so the funding choice does not change it. Gearing, profit for the year and dividend cover do change.
+
+**What happens to dividend cover and dividend yield if a company cuts its dividend?**
+Dividend cover rises, because the same profit covers a smaller dividend. Dividend yield falls, because shareholders receive less per share at the same market price.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 10.3 and 10.4.
