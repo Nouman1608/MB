@@ -204,9 +204,9 @@ Mark points (max 6):
 
 - Q5(d): giving one value only. Boundary data needs the accepted value and the matching rejected value.
 - Q7(a): doing a full sort instead of showing only the first pass.
-- Q8: leaving the prompt out of the OUTPUT column; prompts are part of the trace.
-- Q10: rewriting the whole algorithm instead of giving the line number and the corrected line.
-- Q11: placing the counting before the validation, so invalid ages are counted.
+- Question 8: leaving the prompt out of the OUTPUT column; prompts are part of the trace.
+- Question 10: rewriting the whole algorithm instead of giving the line number and the corrected line.
+- Question 11: placing the counting before the validation, so invalid ages are counted.
 
 ## Frequently asked questions
 

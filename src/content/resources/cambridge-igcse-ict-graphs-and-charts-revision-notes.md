@@ -96,11 +96,11 @@ A chart with **one** series usually does not need a legend; remove it if the tas
 
 ## Worked example: following a chart instruction
 
-*Data: months in A2:A13, rainfall in C2:C13, average temperature in E2:E13.*
+*Data: months in A2:A13, rainfall in C2:C13, average temperature in D2:D13.*
 
 Instruction: "Create a chart showing rainfall as columns and temperature as a line on a secondary axis. Title: *Rainfall and Temperature 2025*. Label both value axes. Set the rainfall axis from 0 to 300 in steps of 50."
 
-Steps: select A1:A13, then Ctrl-select C1:C13 and E1:E13 (non-contiguous) → insert a combination chart → set temperature series as a line on the secondary axis → add the chart title exactly → add value axis titles *Rainfall (mm)* and *Temperature (°C)* and a category axis title *Month* → format the primary axis: min 0, max 300, major unit 50 → check the legend identifies both series.
+Steps: select A1:A13, then Ctrl-select C1:C13 and D1:D13 (non-contiguous) → insert a combination chart → set temperature series as a line on the secondary axis → add the chart title exactly → add value axis titles *Rainfall (mm)* and *Temperature (°C)* and a category axis title *Month* → format the primary axis: min 0, max 300, major unit 50 → check the legend identifies both series.
 
 ## Common mistakes and exam traps
 

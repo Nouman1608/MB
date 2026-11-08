@@ -131,10 +131,10 @@ These questions cover all three sub-topics of Topic 5 in the Cambridge IGCSE Com
 
 ## Where marks are usually lost
 
-- Q2: saying HTTPS is "more secure" without saying **how** — the data is encrypted.
+- Question 2: saying HTTPS is "more secure" without saying **how** — the data is encrypted.
 - Q7(a): describing one computer sending many requests. A DDoS attack needs many computers.
-- Q8: describing what both malware types have in common instead of the difference between them.
-- Q10: naming what the solution is but not how it keeps data safe — each part has a mark for both.
+- Question 8: describing what both malware types have in common instead of the difference between them.
+- Question 10: naming what the solution is but not how it keeps data safe — each part has a mark for both.
 
 ## Frequently asked questions
 

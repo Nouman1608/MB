@@ -177,10 +177,10 @@ Marks: five meaningful field names [1]; five correct data types [3, one mark los
 
 ## Where marks are usually lost
 
-- Q2: writing "number" for Price. The data type must be named exactly — real.
-- Q6: counting all refurbished phones and forgetting the stock condition.
-- Q8: showing every field, or ignoring the ORDER BY and listing records in table order.
-- Q11: choosing MemberName as primary key; two members can share a name.
+- Question 2: writing "number" for Price. The data type must be named exactly — real.
+- Question 6: counting all refurbished phones and forgetting the stock condition.
+- Question 8: showing every field, or ignoring the ORDER BY and listing records in table order.
+- Question 11: choosing MemberName as primary key; two members can share a name.
 
 ## Frequently asked questions
 
