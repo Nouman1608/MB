@@ -141,11 +141,12 @@ export const DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
       { n: 3, f: 'What is an interrupt?', b: 'A signal to the processor that something needs attention at once, e.g. a key press, a printer out of paper, a division-by-zero error or a timer. It can come from hardware or software.' },
       { n: 4, f: 'What happens when the processor receives an interrupt?', b: 'At the end of the current fetch-decode-execute cycle it checks for interrupts. If the interrupt has high enough priority, it saves the current state, runs the interrupt service routine, then restores the state and carries on.' },
       { n: 5, f: 'What is a device driver?', b: 'A small program that translates operating system commands into signals that a particular peripheral, such as a printer, understands.' },
-      { n: 6, f: 'What does a disk defragmenter do?', b: 'It rearranges the scattered parts of files on a hard disk drive so each file is stored together, which can speed up reading. It does not delete files and is not needed for an SSD.' },
       { n: 7, f: 'High-level vs low-level languages', b: 'High-level (e.g. Python): close to human language, easier to write and debug, not tied to one processor. Low-level (machine code, assembly): close to the processor, gives direct control of hardware and memory, but is processor-specific and harder to write.' },
       { n: 8, f: 'Compiler vs interpreter', b: 'Compiler: translates the whole program before it runs, creating an executable; reports all errors after translation; runs fast without the translator. Interpreter: translates and runs one statement at a time; stops at the first error; needed every run.' },
       { n: 9, f: 'What does an assembler do?', b: 'It translates assembly language (mnemonics such as LDA and ADD) into machine code.' },
       { n: 10, f: 'Name four features of an IDE', b: 'Any four of: code editor (with syntax highlighting, auto-completion, auto-correction and pretty printing); error diagnostics; run-time environment; translator; debugging tools such as breakpoints, stepping and variable watching.' },
+      { n: 11, f: 'How do hardware, firmware and the operating system work together to run an application?', b: 'The bootloader (firmware) is run on the hardware at start-up; it loads the operating system, which runs on the firmware; applications are then run on the operating system.' },
+      { n: 12, f: 'Give the syllabus examples of hardware and software interrupts', b: 'Hardware: pressing a key on the keyboard, moving the mouse. Software: division by zero, two processes trying to access the same memory location.' },
     ]),
 
     // 5 The internet and its uses

@@ -133,12 +133,13 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
       { n: 1, f: 'Is antivirus software application or system software?', b: 'System software. It is a utility program, which maintains the computer, rather than an application that does the user\'s task.' },
       { n: 2, f: 'State three functions of an operating system', b: 'Any three of: managing files; managing memory; handling interrupts; managing peripherals and drivers; providing a user interface; managing multitasking; providing a platform for applications; providing security; managing user accounts.' },
       { n: 3, f: 'How does the processor deal with an interrupt?', b: 'It checks for interrupts at the end of each fetch-decode-execute cycle. If an interrupt has higher priority than the current task, it saves the task\'s state, runs the interrupt service routine, then restores and resumes the task.' },
-      { n: 4, f: 'Name five utility programs', b: 'Any five of: antivirus, backup software, disk formatter, disk defragmenter, file compression, disk content analysis or repair, firewall.' },
       { n: 5, f: 'Give three reasons for writing in a high-level language', b: 'It is machine independent (portable); it is easier to read and debug; the programmer is less likely to make errors; one statement does the work of many machine-code instructions.' },
       { n: 6, f: 'Why is assembly language used for device drivers and embedded systems?', b: 'It gives direct control of the hardware and memory and can produce code that is fast and uses little memory.' },
       { n: 7, f: 'How do a compiler and an interpreter report errors?', b: 'A compiler translates the whole program first and gives a report listing all the errors. An interpreter stops at the first error it meets and continues only once it is corrected.' },
       { n: 8, f: 'Which translator would you choose to distribute a finished game, and why?', b: 'A compiler: it produces an executable file that runs without the translator, runs faster, and does not give customers the source code.' },
       { n: 9, f: 'What do auto-completion, auto-correction and prettyprint do in an IDE?', b: 'Auto-completion suggests how to finish a keyword or identifier being typed. Auto-correction fixes misspelt keywords. Prettyprint shows keywords and identifiers in different colours and layout so code is easier to read.' },
+      { n: 10, f: 'How do hardware, firmware and the operating system work together to run an application?', b: 'The bootloader (firmware) is run on the hardware at start-up; it loads the operating system, which runs on the firmware; applications are then run on the operating system.' },
+      { n: 11, f: 'Give the syllabus examples of hardware and software interrupts', b: 'Hardware: pressing a key on the keyboard, moving the mouse. Software: division by zero, two processes trying to access the same memory location.' },
     ]),
 
     // 5 The internet and its uses
