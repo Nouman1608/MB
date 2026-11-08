@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Condensed IB MYP Language Acquisition revision notes on text-type conventions and register, with a layout table, quick self-test and common slips."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -150,6 +152,20 @@ Conventions shown: greeting, self-introduction, rhetorical question, a list of t
 - A brochure is written in long paragraphs with no call to action.
 - An English idiom is translated word for word into the target language.
 - The task's purpose is ignored: the text is on the topic but does not ask, persuade or advise as instructed.
+
+## Frequently asked questions
+
+**What is a semi-formal register?**
+A semi-formal register sits between formal and informal: friendly but careful, with no slang. A school blog post or a speech to your year group usually needs it.
+
+**What are the conventions of a speech in MYP Language Acquisition?**
+A speech greets the audience, introduces the speaker and the point, and uses signposts, rhetorical questions, repetition and lists of three. Listeners hear it only once, so it needs features an essay does not.
+
+**Why should I use only one form of "you" in a piece of writing?**
+Many languages mark politeness in the pronoun, such as French "vous" and "tu" or German "Sie" and "du". Switching between polite and familiar forms in one text breaks the register and is a common error.
+
+**What is register drift?**
+Register drift is starting in one register and slipping into another, for example a formal opening followed by "anyway" and "cool" later in the text. Check that the first and last paragraphs use the same register.
 
 ## Official syllabus
 

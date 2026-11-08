@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed MYP Language Acquisition Criterion C notes: speaking-task facts, stimulus method, interaction phrases, fluency and accuracy checks, self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -205,6 +207,20 @@ Build your own target-language version of each line and learn it as a chunk.
 - Pronunciation slips on key topic words, so the listener loses the point.
 - Never asking a question or giving a view back, so the task is not interactive.
 - Practising against the wrong proficiency level's expectations.
+
+## Frequently asked questions
+
+**Who marks the MYP Language Acquisition speaking examination?**
+Your classroom teacher marks it against the published speaking examination marking criteria for MYP year 5, and the IB moderates a sample from each school and adjusts grades where needed.
+
+**How do you extend a short answer in an MYP speaking conversation?**
+Build the answer as a chain: answer, reason, example, consequence. This turns a one-line reply into several linked sentences and gives the teacher new threads to follow up.
+
+**Is the MYP Language Acquisition speaking task part of the on-screen exam?**
+No. The on-screen examination covers Criteria A, B and D. Speaking (Criterion C) is a separate interactive task worth 24 marks, assessed internally and moderated by the IB.
+
+**Is self-correction a good thing in an MYP speaking assessment?**
+Yes. Correcting a slip quickly shows you know the rule and have control of the language.
 
 ## Related pages
 

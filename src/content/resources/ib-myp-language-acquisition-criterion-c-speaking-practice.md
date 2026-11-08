@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Eleven original MYP Language Acquisition Criterion C questions on responding to multimodal texts, interaction, fluency and accuracy, with answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -146,6 +148,20 @@ Evaluate the plan and propose an improved four-week plan. **[8]**
 - Comparing raw error counts instead of error rates when reviewing recordings.
 - Using home-language words or "um" to fill pauses.
 - Not asking anything back, so the task is not interactive.
+
+## Frequently asked questions
+
+**What are the most common mistakes in the MYP Language Acquisition speaking task?**
+Common slips include describing a stimulus image without interpreting its purpose or audience, giving one-line answers, switching to a memorised paragraph when a question is unexpected, and filling pauses with home-language words or "um".
+
+**How should I use speaking practice questions on my own?**
+Answer the speaking questions aloud in your target language, ideally recording yourself, and play the recording back to review content, errors and pauses.
+
+**How are these speaking answers marked?**
+Real MYP work is judged against criterion level descriptors with levels 1–8 in four bands, so the mark points on this page are a revision aid, not IB marks. Your teacher will share the task-specific clarifications.
+
+**Why does the MYP speaking task need me to ask questions back?**
+The brief calls the speaking task interactive, so it should be a two-way conversation. Not asking anything back means the exchange is not truly interactive.
 
 ## Next steps
 

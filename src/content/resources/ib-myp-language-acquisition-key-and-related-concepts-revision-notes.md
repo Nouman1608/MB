@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Condensed IB MYP Language Acquisition revision notes on the four key concepts, word choice, conventions, idiom and statements of inquiry, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -174,6 +176,20 @@ Checklist -- a strong statement of inquiry is:
 - Vague word choice ("nice", "good", "thing") at a level where precise vocabulary is expected.
 
 For how these ideas feed into the four assessment criteria, see [the assessment revision notes](/resources/ib-myp-language-acquisition-assessment-revision-notes/) and the [syllabus guide](/resources/ib-myp-language-acquisition-syllabus-guide/).
+
+## Frequently asked questions
+
+**What are the four key concepts in IB MYP Language Acquisition?**
+The IB MYP Language Acquisition subject brief (from 2020) names communication, connections, creativity and culture as the key concepts. They frame units alongside related concepts and global contexts.
+
+**What are factual, conceptual and debatable questions?**
+The brief says the curriculum explores all three. A factual question has a set answer ("How do you open a formal letter in Spanish?"), a conceptual question asks why or how ideas work, and a debatable question invites argument ("Should young people use slang in a job interview?").
+
+**What does word choice mean as a related concept?**
+Word choice means picking the word that fits the meaning, audience and tone. Check register (formal or informal), connotation (the feeling a word carries) and precision.
+
+**How do you work out the meaning of an idiom you do not know?**
+Notice that the literal meaning does not make sense, then use the context to work out what the expression must mean. Idioms are rarely translated word for word, so match the meaning rather than the words.
 
 ## Official syllabus
 

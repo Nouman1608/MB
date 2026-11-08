@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed IB MYP Language Acquisition notes on the six global contexts, five-layer word banks and reusing topic words in all four skills, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -160,6 +162,20 @@ Some phrases work under any context. Learn them once in your target language and
 - Repeating the same basic adjectives ("good", "bad", "interesting") instead of drawing on layer 3.
 - Opinion phrases with no reason or example after them.
 - Revising by reading lists only, so words stay receptive and cannot be produced in the exam.
+
+## Frequently asked questions
+
+**How many words should a topic word bank have for MYP Language Acquisition?**
+A useful bank has five layers (core nouns, verbs, describing words, opinion and linking phrases, chunks and collocations), with about eight to ten items each. That gives roughly 40 items per topic, enough to understand most texts on it and talk for a few minutes.
+
+**What does personal, local and global mean in MYP Language Acquisition speaking?**
+Criterion C asks you to interact on topics of personal, local and global interest and significance. Talking about one idea at all three scales is a simple way to extend an answer.
+
+**How should I review vocabulary for MYP Language Acquisition?**
+Space your reviews, for example on days 2, 4, 8 and 15 after first learning a set, and test yourself from English first so you practise producing the words, not just recognising them.
+
+**What are the key concepts in MYP Language Acquisition?**
+The brief lists four key concepts: communication, connections, creativity and culture. Example related concepts include word choice, conventions and idiom.
 
 ## Official syllabus
 

@@ -18,7 +18,9 @@ syllabusTopics:
 description: "IB MYP Language Acquisition study guide to communication, connections, creativity, culture, word choice, conventions and idiom, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -182,6 +184,20 @@ Your class is starting a unit on social media and friendship.
 - **Translating idioms word for word** into or out of the target language.
 - **Treating culture as facts only.** Listing festival dates shows knowledge, not understanding of perspectives.
 - **Ignoring register.** A formal task written in text-message style breaks conventions and word-choice expectations together.
+
+## Frequently asked questions
+
+**What is a statement of inquiry in MYP Language Acquisition?**
+A statement of inquiry is one sentence that joins a key concept, one or more related concepts and a global context into a general claim you could test in many situations. It is a claim, not a question or a task instruction.
+
+**What is the difference between a key concept and a related concept?**
+Key concepts broadly frame the whole MYP curriculum; for language acquisition the brief names communication, connections, creativity and culture. Related concepts are narrower and grounded in the subject, with word choice, conventions and idiom given as examples.
+
+**What is a false friend in language learning?**
+A false friend is a word that looks like a word in another language but means something different. For example, French "actuellement" means "currently", not "actually", and Spanish "embarazada" means "pregnant", not "embarrassed".
+
+**Should I use idioms in MYP Language Acquisition speaking and writing?**
+Use idioms sparingly and only when you are sure of them. One correct idiom can show range, but a wrong or word-for-word translated one confuses your listener or reader.
 
 ## Where to go next
 

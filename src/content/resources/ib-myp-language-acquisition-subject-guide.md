@@ -9,7 +9,9 @@ syllabusCodes: ["MYP Language Acquisition"]
 description: "An overview of IB Middle Years Programme Language Acquisition -- developing insight into language, culture and multiliteracy skills for ages 11-16."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -124,6 +126,20 @@ new assessment framework. A student who has progressed well through the MYP's pr
 typically enters the DP's language courses with a clear sense of their own working level, which
 helps in choosing between DP Language B (for students with some existing proficiency) and Language
 ab initio (for genuine beginners) at the point subject choices are made.
+
+## Frequently asked questions
+
+**What is IB MYP Language Acquisition?**
+MYP Language Acquisition is the Middle Years Programme subject group in which students aged about 11 to 16 learn an additional language. It develops insight into the features, processes and craft of language and the concept of culture, treating language and culture as inseparable.
+
+**How is IB MYP Language Acquisition assessed?**
+It is assessed against four equally weighted criteria: A Listening, B Reading, C Speaking and D Writing, each scored from 0 to 8. Where schools use eAssessment, an on-screen exam covers listening, reading and writing, and a separate internally assessed, IB-moderated exam covers speaking.
+
+**How is a student's starting phase decided in MYP Language Acquisition?**
+A starting phase is normally set through an assessment or discussion early in a student's time at a school, taking into account prior study, exposure at home and any previous school's placement. It is based on proficiency, not age or year group.
+
+**What comes after MYP Language Acquisition in the Diploma Programme?**
+The skills and key concepts carry into DP Language B, for students with some existing proficiency, or Language ab initio, for genuine beginners. Knowing your working level from the MYP helps you choose between them.
 
 ## Source
 

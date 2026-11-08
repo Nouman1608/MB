@@ -14,10 +14,12 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-eassessment-structure"
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
-description: "The emergent/capable/proficient proficiency levels used for eAssessment reporting, the six phases used for day-to-day teaching, and the four independently-weighted assessment criteria -- listening, reading, speaking, writing -- for IB Middle Years Programme Language Acquisition, from 2020."
+description: "The emergent, capable and proficient levels used to report IB MYP Language Acquisition results, the six teaching phases, and how the four criteria are weighted."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -146,6 +148,20 @@ since Criterion C's spontaneous, unscripted demand is not something reading and 
 prepares for. Comparing a proficient-level peer's more advanced language use against your own
 capable- or emergent-level work and concluding your own preparation is falling short, when the two are
 simply being assessed against different descriptors entirely -- what matters for revision is progress against your own level's expectations, not a direct comparison against a classmate's output.
+
+## Frequently asked questions
+
+**What are the three proficiency levels in IB MYP Language Acquisition?**
+Where a school offers MYP eAssessment, course results are reported at three proficiency levels: emergent, capable and proficient. A student assessed as emergent is not expected to show the same vocabulary range or fluency as one assessed as proficient.
+
+**Do MYP Language Acquisition phases match year groups?**
+No. The IB states that the six phases do not correspond to particular age groups or MYP year levels; students move through them individually based on their progress in the language. Two students in the same class can be in different phases.
+
+**Is MYP Language Acquisition compulsory?**
+Yes, in every year of the programme, with one exception: bilingual students who instead pursue courses in multiple languages within the MYP Language and Literature subject group. Check which pathway applies to you with your school.
+
+**How does MYP Language Acquisition prepare students for the Diploma Programme?**
+MYP Language Acquisition examination tasks are aligned with the skills needed for DP Language Acquisition and DP Studies in Language and Literature. Habits such as writing for a set audience and purpose and confident, unscripted speaking transfer to either pathway.
 
 ## Official syllabus
 

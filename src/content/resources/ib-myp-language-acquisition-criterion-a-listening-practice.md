@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Original IB MYP Language Acquisition Criterion A listening practice: five transcripts with visual notes and fully worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -161,6 +163,20 @@ Study first: [Criterion A study guide](/resources/ib-myp-language-acquisition-cr
 - Giving an audience or purpose without separate evidence for each.
 - Naming a value or attitude with no quoted words or tone to support it.
 - Personal responses that do not refer back to the text.
+
+## Frequently asked questions
+
+**How should I practise MYP Language Acquisition listening without audio?**
+Ask a friend or family member to read each transcript aloud twice while you look only at the visual notes, then answer. For target-language practice, have the transcript translated and read aloud in your target language and answer in that language.
+
+**What are the most common mistakes in MYP listening questions?**
+Students often write the first detail heard when the speaker later changes it, miss prices or figures shown only on screen, and take sarcasm or irony literally. Describing an image without saying whether it reinforces, adds to or contrasts with the speech also loses credit.
+
+**How are MYP Language Acquisition listening answers marked?**
+Real MYP work is judged against criterion level descriptors with achievement levels 1–8. The mark points on this practice page are a revision aid, not IB marks.
+
+**How do you answer an audience and purpose question in a listening task?**
+Give separate evidence for the audience and for the purpose, drawing on register, content, visuals and how the text ends. A one-word answer such as "teenagers" with no evidence earns little.
 
 ## Next steps
 

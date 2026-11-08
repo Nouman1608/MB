@@ -11,10 +11,12 @@ order: 4
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
-description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Language Acquisition's four assessment criteria -- Listening, Reading, Speaking and Writing -- tied to the emergent/capable/proficient proficiency levels."
+description: "What top-band evidence looks like for each IB MYP Language Acquisition criterion (listening, reading, speaking, writing) at emergent, capable, proficient."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -133,6 +135,20 @@ answers in speaking assessments, which cannot demonstrate top-band Criterion C e
 unexpected follow-up question is asked. Writing different tasks with only superficial changes -- a
 different greeting or sign-off -- rather than genuinely different register, vocabulary and structure
 suited to each task's specific audience and purpose.
+
+## Frequently asked questions
+
+**Does top band mean the same thing at every MYP Language Acquisition level?**
+No. The criteria are assessed against the student's own proficiency level, so top-band evidence at the emergent level can be a short, simple but accurate response, while the proficient level requires nuanced, extended and spontaneous language use.
+
+**What is multimodal interpretation in MYP Language Acquisition listening and reading?**
+It means explaining how images, layout, colour or other visual elements add to the meaning of a spoken or written text, not just understanding the words. Both Criterion A and Criterion B credit this alongside literal comprehension.
+
+**Can I use a memorised answer in the MYP Language Acquisition speaking assessment?**
+A rehearsed answer cannot show top-band Criterion C evidence once an unexpected follow-up question is asked. Criterion C rewards spontaneous interaction that responds directly and coherently to what was actually asked.
+
+**Which MYP Language Acquisition criteria are in the on-screen exam?**
+Criteria A (listening), B (reading) and D (writing) are assessed together in the on-screen paper. Criterion C (speaking) is assessed separately as an internally assessed, interactive task.
 
 ## Official syllabus
 

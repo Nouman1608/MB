@@ -149,6 +149,23 @@ A student is researching the effects of fair trade on cocoa farmers. Explain one
 - A research question too broad for the methods named.
 - Extended answers with no example, counter-argument or judgement.
 
+## Frequently asked questions
+
+**Is trade, aid and exchange tested in the IB MYP Individuals and Societies eAssessment?**
+Yes. The IB MYP Individuals and Societies subject brief (from 2014) lists trade, aid and exchange among the topics explored in the on-screen examinations at the end of MYP year 5. Schools design their own units, so your teacher will share the task-specific clarifications.
+
+**How are MYP Individuals and Societies answers marked?**
+MYP work is judged against criterion level descriptors with eight achievement levels (1–8) in four bands. The mark points on this practice page are a revision aid to show what a strong answer contains, not official IB marks.
+
+**What are the most common mistakes in trade calculations?**
+Students often calculate imports minus exports, which flips a surplus into a deficit, or drop the minus sign on a trade balance. Another frequent slip is giving the difference between two percentages as "%" instead of percentage points.
+
+**How do you decide which country should specialise in a good?**
+Specialisation follows comparative advantage, not absolute advantage. Work out the opportunity cost of one unit of each good in each country; the country with the lower opportunity cost for a good should specialise in it.
+
+**How do you evaluate a source in a trade or aid question?**
+Link each value and limitation to the source's origin or purpose and to the research topic. A general comment such as "it might be biased" earns little; explain why the author's purpose might make them stress some effects and omit others.
+
 ## Next steps
 
 - Review the [trade, aid and exchange revision notes](/resources/ib-myp-individuals-and-societies-trade-aid-and-exchange-revision-notes/).

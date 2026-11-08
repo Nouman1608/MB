@@ -11,10 +11,12 @@ order: 2
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
-description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Language Acquisition's four assessment criteria -- Listening, Reading, Speaking and Writing -- with a worked example for each, tied to the emergent/capable/proficient proficiency levels."
+description: "Revision notes on top-band evidence for the four IB MYP Language Acquisition criteria (listening, reading, speaking, writing), with a worked example for each."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -114,6 +116,20 @@ writing lightly edited to look more polite. 5. Because the criteria are assessed
 student's own proficiency level descriptors, so a top achievement level reflects the best possible
 evidence for that student's level, not an identical fixed standard applied to every student regardless
 of level.
+
+## Frequently asked questions
+
+**What are the four assessment criteria in IB MYP Language Acquisition?**
+The four criteria are A listening, B reading, C speaking and D writing. Each is assessed against the student's own proficiency level: emergent, capable or proficient.
+
+**What does register mean in MYP Language Acquisition writing?**
+Register is the choice of vocabulary, structure and tone suited to an audience and purpose, such as informal language for a text message to a friend and formal sentences for an email to a school administrator. Top-band Criterion D evidence shows genuinely different register across tasks, not just a changed greeting.
+
+**Does practising reading help with the MYP Language Acquisition speaking assessment?**
+Not directly. Strengthening Criterion A or B does nothing to prepare Criterion C's spontaneous, unscripted speaking demand, so each criterion's top-band evidence has to be practised in its own right.
+
+**What is a common mistake when judging my own MYP Language Acquisition work?**
+Comparing your work against the descriptors for the wrong proficiency level. Identify your own level first, because the same response can be top-band at one level and only mid-band at a more advanced one.
 
 ## Official syllabus
 

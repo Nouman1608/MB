@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Study guide to IB MYP Language Acquisition Criterion A: how to understand spoken multimodal texts, with an original transcript and worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -177,6 +179,20 @@ Check your own level with your teacher. The [proficiency phases guide](/resource
 - Naming a convention without saying why it is used.
 - Giving one-word audience answers ("teenagers") with no evidence.
 - Ignoring music, captions and on-screen text because "it's a listening task".
+
+## Frequently asked questions
+
+**What is Criterion A in IB MYP Language Acquisition?**
+Criterion A is Listening. The MYP Language Acquisition subject brief (from 2020) says students interpret and construct meaning from spoken multimodal text, including how images and other spatial aspects work with the oral text to convey ideas, values and attitudes.
+
+**How many marks is listening worth in the MYP Language Acquisition eAssessment?**
+The on-screen examination carries 24 marks for each of Criteria A, B and D, so listening is worth 24 marks. The brief says the mark distribution may vary by no more than three marks from the published blueprint.
+
+**What is the difference between explicit and implicit information in a listening task?**
+Explicit information is said directly, such as a time, price or place, and questions ask you to identify or state it. Implicit information is suggested rather than stated, so you infer it from evidence such as word choice, tone, what is left out or the visuals.
+
+**How can images reinforce, add to or contrast with speech?**
+An image reinforces speech when it shows what is said, adds when it gives information the speech does not, and contrasts when image and speech seem to disagree, often for humour or criticism. In an answer, name the relationship, give the specific image and words, and explain the effect on the audience.
 
 ## Next steps
 

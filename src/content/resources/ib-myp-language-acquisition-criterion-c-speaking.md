@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Study guide to MYP Language Acquisition Criterion C: responding aloud to a multimodal text, interaction strategies, fluency, accuracy and pronunciation."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -189,6 +191,23 @@ For the on-screen examination, see the [eAssessment preparation page](/resources
 - Using only the present tense when the conversation invites past or future.
 - Filling pauses with your home language.
 - Speaking so fast that pronunciation errors block meaning.
+
+## Frequently asked questions
+
+**How is the IB MYP Language Acquisition speaking exam assessed?**
+Speaking (Criterion C) is an internally assessed, IB-moderated examination, separate from the on-screen exam. Your classroom teacher marks it against the published speaking marking criteria for MYP year 5, and the IB moderates a sample from each school in each session.
+
+**How many marks is the MYP Language Acquisition speaking task worth?**
+The objective "speaking in response to multimodal texts" is assessed by Criterion C for 24 marks. The brief describes it as an interactive task, so it is a conversation rather than a speech.
+
+**What is the difference between fluency and accuracy in speaking?**
+Fluency is how smoothly speech flows, with a steady pace and pauses in natural places; it is not speed. Accuracy is control of grammar, vocabulary and word order, and it pulls against range, since trying more complex language risks more errors.
+
+**How do you respond to an image in an MYP speaking task?**
+Use four steps: see (describe the image), read (pick out and explain key words), think (interpret audience, purpose and how image and words work together) and relate (connect it to yourself and your community, then give a view with a reason).
+
+**What should I do if I am asked an unexpected question in the speaking exam?**
+Buy time with a turn-holding phrase, narrow the question to something you can answer, and link back to vocabulary you know well from the stimulus. Never switch to a memorised paragraph that does not answer the question.
 
 ## Where to go next
 

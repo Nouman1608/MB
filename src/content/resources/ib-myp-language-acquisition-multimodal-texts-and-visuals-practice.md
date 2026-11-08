@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Original IB MYP Language Acquisition practice on multimodal texts: poster and video stimuli, Criteria A-D tasks and fully worked model answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -121,6 +123,20 @@ Creditworthy points: informal greeting and sign-off suited to a friend [1]; emai
 - In writing, copying phrases from the stimulus instead of rephrasing.
 - In speaking, describing for the whole time and never interpreting or giving an opinion.
 - In comparisons, writing about each source separately with no linking words.
+
+## Frequently asked questions
+
+**What are common mistakes with multimodal texts in MYP Language Acquisition?**
+Common slips include answering questions about a poster using only its written words, naming a feature such as "close-up" without explaining its effect, and giving connotations with no described detail first.
+
+**How do you compare two multimodal sources?**
+Compare the sources point by point using linking words, rather than writing about each one separately. Writing two separate descriptions with no comparison is a frequent way to lose credit.
+
+**What should I note while watching a video in a listening task?**
+Note what was on screen at the moment you heard a key phrase, as well as what the voice-over said. Two short notes side by side are enough to support an interpretation.
+
+**How are these MYP Language Acquisition practice answers marked?**
+Real MYP work is judged against criterion level descriptors with achievement levels 1–8, so the mark points on this page are a revision aid, not IB marks. Each question is labelled with the criterion it trains.
 
 ## Next steps
 
