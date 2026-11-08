@@ -30,7 +30,9 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs. Use them alongside the official past papers from Cambridge.
 
-Study the method first: [time series study guide](/resources/o-level-statistics-4040-time-series-moving-averages/).
+A time series question asks you to smooth data with moving averages, find seasonal components (actual value minus trend) and use a trend line to predict a future value. In Cambridge O Level Statistics 4040 this is Topic 10 and in IGCSE Statistics 0479 it is Topic 12; the methods below follow both syllabuses.
+
+Study the method first: [time series study guide](/resources/o-level-statistics-4040-time-series-moving-averages/). Related: [time series revision notes](/resources/o-level-statistics-4040-time-series-moving-averages-revision-notes/).
 
 ---
 
@@ -181,6 +183,20 @@ the trend; to give values from which seasonal components can be calculated [1].
   centred value belongs to the third quarter of the data.
 - In 3(b), counting quarters from the last *actual* value rather than from the
   last trend value, or forgetting to subtract a negative seasonal component.
+
+## Frequently asked questions
+
+**How do you choose how many points to use in a moving average?**
+Use the number of values in one full cycle of the data: 3 for three terms a year, 4 for quarterly data, 12 for monthly data with a yearly pattern. Each average then covers exactly one cycle, so the seasonal pattern is averaged out.
+
+**When do moving averages need to be centred?**
+When the number of points is even. A 4-point average falls between the second and third values, so you average consecutive pairs of 4-point averages to place each centred value on an actual quarter.
+
+**How is a seasonal component calculated?**
+For each value, subtract the trend value (moving average or trend-line reading) from the actual value, then take the mean of these differences for each season. A positive component means that season is usually above the trend.
+
+**How do you predict a future value from a time series?**
+Read or extend the trend line to the future time point, then add that season's mean seasonal component. The prediction assumes the trend stays linear and the seasonal pattern does not change.
 
 ## Next steps
 
