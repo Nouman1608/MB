@@ -57,7 +57,7 @@ DECLARE Average : REAL
 Total ← 0
 Count ← 0
 INPUT Mark
-WHILE Mark <> -1 DO
+WHILE Mark <> -1
   Total ← Total + Mark
   Count ← Count + 1
   INPUT Mark
@@ -85,7 +85,7 @@ A linear search checks each element in turn until it finds the target or reaches
 ```
 Found ← FALSE
 Index ← 1
-WHILE Index <= 10 AND Found = FALSE DO
+WHILE Index <= 10 AND Found = FALSE
   IF List[Index] = Target THEN
     Found ← TRUE
   ELSE
@@ -116,7 +116,7 @@ UNTIL Swapped = FALSE
 
 ## Worked example 1: tracing a bubble sort
 
-Sort the list 29, 14, 35, 8, 21 into ascending order and count the swaps. I have run this procedure in Python to confirm the figures.
+Sort the list 29, 14, 35, 8, 21 into ascending order and count the swaps.
 
 **Pass 1** (compare four pairs): 29 and 14 swap giving 14, 29, 35, 8, 21; 29 and 35 stay; 35 and 8 swap giving 14, 29, 8, 35, 21; 35 and 21 swap giving 14, 29, 8, 21, 35. That is 3 swaps and 35 is fixed.
 

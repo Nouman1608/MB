@@ -13,6 +13,12 @@ order: 16
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-system-software"
+  - qualification: "a-level"
+    topic: "a-system-software"
+    subtopic: "purposes-of-an-operating-system-os"
+  - qualification: "a-level"
+    topic: "a-system-software"
+    subtopic: "translation-software"
 description: "Original exam-style questions with full worked answers on interpreters, syntax rules and Backus-Naur Form, Reverse Polish Notation, multi-tasking, shortest remaining time scheduling and disk thrashing, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

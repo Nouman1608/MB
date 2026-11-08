@@ -13,6 +13,12 @@ order: 20
 syllabusTopics:
   - qualification: "a-level"
     topic: "further-programming"
+  - qualification: "a-level"
+    topic: "further-programming"
+    subtopic: "programming-paradigms"
+  - qualification: "a-level"
+    topic: "further-programming"
+    subtopic: "file-processing-and-exception-handling"
 description: "Original exam-style questions with full worked answers on classes, encapsulation, inheritance and polymorphism, declarative programming, random file handling in pseudocode and exception handling, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

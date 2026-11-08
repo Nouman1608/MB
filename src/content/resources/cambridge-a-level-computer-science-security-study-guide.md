@@ -84,7 +84,7 @@ Take n = 33, public key e = 3 and private key d = 7. These work together because
 1. Message M = 4. Encrypt with the public key: 4^3 = 64, and 64 mod 33 = 31. The ciphertext is 31.
 2. Decrypt with the private key: 31^7 mod 33 = 4. The original message is recovered.
 
-I checked both steps with Python. Anyone can use (n, e) to encrypt, but decrypting requires d. With n = 33 it is easy to find that 33 = 3 x 11 and work out d; the security of real systems depends on n being so large that it cannot be factorised in a realistic time. For a signature, the roles are reversed: the digest is transformed with the private key and anyone can check it with the public key.
+Anyone can use (n, e) to encrypt, but decrypting requires d. With n = 33 it is easy to find that 33 = 3 x 11 and work out d; the security of real systems depends on n being so large that it cannot be factorised in a realistic time. For a signature, the roles are reversed: the digest is transformed with the private key and anyone can check it with the public key.
 
 ## Common mistakes
 

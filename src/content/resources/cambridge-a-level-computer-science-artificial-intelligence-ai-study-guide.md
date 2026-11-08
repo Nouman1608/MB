@@ -81,7 +81,7 @@ Find the shortest route from A to F. The edges and weights are: A-B 4, A-C 2, B-
 | 5 | E (10) | F: 10 + 3 = 13 < 14, so F = 13 |
 | 6 | F (13) | none |
 
-The shortest distance to F is 13. Following the predecessors back: F came from E, E from D, D from B, B from C and C from A. The route is A, C, B, D, E, F, with total 2 + 1 + 5 + 2 + 3 = 13. I confirmed the result using a Python implementation. Notice that the direct-looking route A, B, D, F costs 4 + 5 + 6 = 15, which is longer, and that B's distance was improved at step 2.
+The shortest distance to F is 13. Following the predecessors back: F came from E, E from D, D from B, B from C and C from A. The route is A, C, B, D, E, F, with total 2 + 1 + 5 + 2 + 3 = 13. Notice that the direct-looking route A, B, D, F costs 4 + 5 + 6 = 15, which is longer, and that B's distance was improved at step 2.
 
 ## Worked example 2: a neuron and an A* value
 
