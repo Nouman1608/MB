@@ -22,7 +22,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "turning-points-in-physics-aqa-alevel"
     subtopic: "special-relativity-aqa-alevel"
-description: "Original practice questions with marked answers on the AQA A-Level Physics 7408 Turning points option, from Millikan to muons and Bertozzi."
+description: "Original practice questions with marked answers on the AQA A-Level Physics 7408 Turning points option, from Millikan's experiment to muons and Bertozzi."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false
