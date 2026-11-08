@@ -151,7 +151,8 @@ to make new viral proteins and RNA, assembled into new HIV particles [1].
 is weak [1]; opportunistic infections cannot be fought off [1].
 
 **14.** Antibiotics act on bacterial structures (such as murein cell walls) or bacterial processes, which viruses
-do not have [1]; HIV replicates inside host cells, where antibiotics do not reach it without harming the host [1].
+do not have [1]; HIV uses the host cell's enzymes and ribosomes to replicate, so there is no viral target for the
+antibiotic [1].
 
 **15.** The drug is attached to a monoclonal antibody complementary to an antigen found only on cancer cells [1];
 the antibody binds those cells, so the drug acts on them and fewer normal cells are harmed [1].

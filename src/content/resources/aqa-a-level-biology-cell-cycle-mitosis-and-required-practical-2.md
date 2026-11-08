@@ -140,8 +140,8 @@ metaphase, 5 in anaphase and 4 in telophase.
 - Mitotic index = 34 / 200 = **0.17** (or 17%)
 
 **Worked example 2 (time in a stage).** The proportion of cells in a stage is proportional to the time that stage
-takes. If one complete cell cycle in this tissue takes 24 hours, the time spent in mitosis is 0.17 x 24 = **4.1
-hours** (4.08 to 2 significant figures). Using the same sample, metaphase lasts 7 / 200 x 24 = **0.84 hours**, about
+takes. If one complete cell cycle in this tissue takes 24 hours, the time spent in mitosis is 0.17 x 24 = 4.08, so **4.1
+hours** to 2 significant figures. Using the same sample, metaphase lasts 7 / 200 x 24 = **0.84 hours**, about
 50 minutes.
 
 A higher mitotic index means more cells are dividing, so the tissue is growing faster. Tissue near the very tip of a

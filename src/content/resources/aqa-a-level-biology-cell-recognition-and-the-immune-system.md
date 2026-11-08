@@ -155,8 +155,8 @@ stimulate B cells and cytotoxic T cells properly, so the person cannot fight **o
 symptoms of AIDS are the symptoms of these infections and cancers, not of HIV itself.
 
 **Why antibiotics do not work on viruses.** Antibiotics work by damaging bacterial structures or processes, such
-as the murein cell wall. Viruses have no cell wall or bacterial metabolism of their own, and they replicate inside
-host cells, where antibiotics cannot reach them without harming the host.
+as the murein cell wall. Viruses have no murein cell wall, and no ribosomes or metabolic enzymes of their own: they
+replicate using the host cell's enzymes and ribosomes, so there is nothing for the antibiotic to target.
 
 ## What are monoclonal antibodies used for?
 
