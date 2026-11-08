@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed revision notes and a self-test on energetics, rates of reaction and equilibria for Edexcel International GCSE Chemistry 4CH1 Topic 3."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -296,6 +298,19 @@ Le Chatelier's principle does not need to be named.
   <figcaption>Dissolving NH4Cl: Q uses the water mass, moles use the solid, and ΔH = +14.7 kJ/mol.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate ΔH from a calorimetry experiment in 4CH1?**
+Calculate Q = m × c × ΔT using the mass of the water or solution, convert to kJ, then divide by the moles of the reactant that was not in excess. Add a negative sign if the temperature rose and a positive sign if it fell, and give the answer in kJ/mol.
+
+**What is the difference between activation energy and ΔH on a reaction profile?**
+Activation energy is measured from the reactants line up to the peak, while ΔH is the difference between the reactants and products lines. A catalyst lowers the peak but does not change ΔH.
+
+**What are the two characteristics of dynamic equilibrium?**
+At dynamic equilibrium in a sealed container, the forward and reverse reactions happen at the same rate and the concentrations of reactants and products remain constant. The concentrations are constant, not equal, and the reactions have not stopped.
+
+**Does a catalyst increase the yield of a reversible reaction?**
+No. A catalyst speeds up the forward and reverse reactions equally, so equilibrium is reached faster but the position of equilibrium and the yield do not change.
 
 ## Official syllabus
 

@@ -184,6 +184,20 @@ One paired and four singly occupied orbitals, following Hund's rule [1]; **four*
 - [Checklist to print and tick off](/checklists/ib/ib-dp/chemistry/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does the IB DP Chemistry Structure 1.3 practice set cover?**
+It covers Structure 1.3, Electron configurations: the electromagnetic spectrum, emission spectra, energy levels, orbitals and filling rules, ions and the chromium and copper exceptions. Questions on the convergence limit and ionization energies are marked HL only.
+
+**What are common mistakes in electron configuration questions?**
+Frequent errors include removing 3d electrons before 4s electrons for transition-element ions, writing the predicted configuration for chromium or copper, and pairing electrons before every equal-energy orbital holds one. Giving the number of electrons when the number of orbitals was asked for also loses marks.
+
+**How do you describe the shapes of s and p orbitals?**
+An s orbital is spherical, and each p orbital is dumbbell-shaped, with the three p orbitals at 90° to each other. Words such as "circle" or "figure of eight" describe flat shapes and are not accepted.
+
+**How do you identify the group from successive ionization energies?**
+Look for the largest increase between successive values, not the largest value. The number of electrons removed before that jump gives the number of outer electrons and so the group; this is HL content.
+
 ## Official syllabus
 
 *Chemistry guide*, Diploma Programme, International Baccalaureate Organization: first assessment 2025, published February 2023. Sub-topic Structure 1.3, Electron configurations (1.3.1 to 1.3.5 SL and HL; 1.3.6 and 1.3.7 additional higher level).

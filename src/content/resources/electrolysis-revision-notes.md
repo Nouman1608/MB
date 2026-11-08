@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "electrochemistry"
     subtopic: "hydrogen-oxygen-fuel-cells"
-description: "Condensed recall notes on electrolysis of molten and aqueous compounds, predicting products, electroplating and fuel cells for Cambridge IGCSE 0620 and O Level 5070."
+description: "Recall notes on electrolysis of molten and aqueous compounds, electrode products, electroplating and fuel cells for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -151,5 +153,19 @@ Overall:  2H2  +  O2  ->  2H2O
 7. *(0620 Extended, 5070 required)* Give one difference between a hydrogen fuel cell and a petrol engine, other than the product formed.
 
 **Answers:** 1. Aluminium at the cathode, oxygen at the anode. 2. Cathode: hydrogen (potassium is above hydrogen in reactivity). Anode: chlorine (halide, concentrated). 3. Cu²⁺ + 2e⁻ → Cu. 4. The cathode (negative electrode). 5. Advantage: the only product is water, with no CO₂ at point of use. Disadvantage: hydrogen is difficult and dangerous to store and transport, and may be made using fossil fuels. 6. With copper electrodes, the anode dissolves into solution instead of oxygen being released, while copper still deposits at the cathode either way. 7. Any one: a fuel cell is generally more efficient (loses less energy as heat), or hydrogen is harder to store and transport than petrol, or hydrogen refuelling infrastructure is far less widely available.
+
+## Frequently asked questions
+
+**What does PANIC stand for in electrolysis?**
+PANIC stands for Positive is Anode, Negative Is Cathode. In electrolysis the cathode is negative and attracts cations, while the anode is positive and attracts anions; this is the reverse of a battery cell.
+
+**Which ion is discharged at the cathode in an aqueous solution?**
+The less reactive of the metal and hydrogen is discharged. Metals below hydrogen in the reactivity series, such as copper and silver, are deposited; metals above hydrogen, such as sodium and potassium, give hydrogen gas instead.
+
+**Why does dilute sulfuric acid give hydrogen and oxygen in a 2 : 1 ratio?**
+Hydrogen forms at the cathode and oxygen at the anode in the same ratio as in water, H₂O. Hydrogen gives a squeaky pop with a lit splint, and oxygen relights a glowing splint.
+
+**Are hydrogen fuel cells pollution-free?**
+The cell itself produces only water, but a fuel cell is not pollution-free overall if the hydrogen was made from fossil fuels. Hydrogen is also hard to store and transport, highly flammable and expensive.
 
 For the full worked explanation with additional detail, see the [Electrolysis and Fuel Cells study guide](/resources/electrolysis-and-fuel-cells/); for exam-style questions with full mark schemes, see the [Electrolysis practice questions](/resources/electrolysis-practice/).

@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "inorganic-chemistry-4ch1"
     subtopic: "reactivity-series-4ch1"
-description: "Condensed recall notes on Group 1 and Group 7 trends, gases in the atmosphere and the reactivity series for Pearson Edexcel International GCSE Chemistry (4CH1), sub-topics (a)-(d) of Topic 2."
+description: "Recall notes on Group 1 and Group 7 trends, gases in the atmosphere, the reactivity series, rusting and redox for Edexcel International GCSE Chemistry 4CH1."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -219,6 +221,20 @@ These four sub-topics build a single connected argument even though they're taug
 - Predict whether magnesium will displace zinc from zinc sulfate solution, and explain using both oxidation/reduction conventions.
 - Name the two conditions both required for iron to rust.
 - Explain why galvanising still protects iron even after the zinc coating is scratched.
+
+## Frequently asked questions
+
+**What conditions are needed for iron to rust?**
+Iron rusts only when both water and oxygen are present; neither alone is enough. Rusting can be prevented by barrier methods such as paint or oil, by galvanising, or by sacrificial protection.
+
+**What is a redox reaction?**
+A redox reaction is one in which oxidation and reduction happen at the same time. Oxidation is gain of oxygen or loss of electrons, and reduction is loss of oxygen or gain of electrons.
+
+**What is a displacement reaction?**
+In a displacement reaction a more reactive element takes the place of a less reactive one in a compound. Chlorine displaces bromine from potassium bromide solution, for example, but bromine cannot displace chlorine.
+
+**How do reactivity trends differ between Group 1 and Group 7?**
+In Edexcel International GCSE Chemistry (4CH1), reactivity increases down Group 1 and decreases down Group 7. Applying one group's trend to the other is a common error under exam pressure.
 
 ## Official syllabus
 

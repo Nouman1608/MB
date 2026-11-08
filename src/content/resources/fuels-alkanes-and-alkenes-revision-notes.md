@@ -28,10 +28,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "organic-chemistry"
     subtopic: "alkenes"
-description: "Condensed recall notes on fossil fuels, fractional distillation of petroleum, alkanes, cracking and alkene reactions for Cambridge IGCSE 0620 and O Level 5070 (2026-2028)."
+description: "Recall notes on fossil fuels, fractional distillation of petroleum, alkanes, cracking and alkene reactions for Cambridge IGCSE 0620 and O Level 5070."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -188,6 +190,20 @@ of the added atoms or groups.
 6. Add aqueous bromine: an alkene turns it from orange to colourless; an alkane leaves it orange.
 7. Ultraviolet light; chloromethane and hydrogen chloride.
 8. Nickel; ethane.
+
+## Frequently asked questions
+
+**How do the properties of petroleum fractions change up the fractionating column?**
+Going up the column, chain length decreases, volatility increases and boiling point decreases. The column is hot at the bottom and cooler at the top, and each fraction condenses where the temperature falls below its boiling point.
+
+**Why is cracking carried out?**
+There is more demand for shorter-chain fractions such as petrol than petroleum supplies, so cracking converts surplus longer-chain alkanes into them. It also makes alkenes, used for polymers and other chemicals, and hydrogen.
+
+**What are the conditions for the substitution reaction of methane with chlorine?**
+The reaction is photochemical: ultraviolet light provides the activation energy, and the products are chloromethane and hydrogen chloride. This is 0620 Extended content and required for O Level 5070.
+
+**How do you describe the result of the bromine water test?**
+An alkene decolourises bromine water, turning it from orange to colourless, while an alkane leaves it orange. "Clear" is not a colour and loses the mark.
 
 *These are original notes written for revision. Check the full syllabus wording in the
 [official 0620 syllabus](https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf) and

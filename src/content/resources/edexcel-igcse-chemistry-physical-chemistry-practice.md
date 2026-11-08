@@ -12,10 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "physical-chemistry-4ch1"
-description: "Original exam-style practice questions with full worked answers on energetics, rates of reaction, catalysts and reversible reactions for Pearson Edexcel International GCSE Chemistry (4CH1) Topic 3."
+description: "Original 4CH1 practice questions with worked answers on energetics, rates of reaction, catalysts and equilibria for Edexcel International GCSE Chemistry."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
@@ -178,6 +180,20 @@ Use a fixed total volume of liquid, mixing different volumes of thiosulfate solu
 - Course hub: [4CH1 Chemistry](/boards/edexcel/igcse/chemistry/) and the [printable checklist](/checklists/edexcel/igcse/chemistry/).
 - Take the [free all-topics diagnostic](/practice/4CH1/diagnostic/all-topics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What does this 4CH1 physical chemistry practice set cover?**
+It covers Topic 3 of Edexcel International GCSE Chemistry (4CH1): energetics, calorimetry and bond energy calculations, rates of reaction and collision theory, catalysts, and reversible reactions and equilibria.
+
+**Which mass goes into Q = mcΔT?**
+Use the mass of the water or solution being heated, not the mass of fuel or solid. When two solutions are mixed, use the total mass of both solutions.
+
+**Why is "more collisions" not a full answer for rate questions?**
+Rate depends on the frequency of successful collisions, so say "more collisions per second" and, for temperature, add that more collisions have energy equal to or greater than the activation energy. "More collisions" on its own earns one mark at best.
+
+**What units should a rate of reaction have?**
+A mean rate is the change in amount divided by time, so a gas volume rate has units such as cm³/s. Leaving the units off a rate, or giving the wrong ones, loses a mark.
 
 ## Official syllabus
 

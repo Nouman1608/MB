@@ -12,10 +12,12 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "organic-chemistry-4ch1"
-description: "Original exam-style practice questions with full worked answers on crude oil, fractional distillation, cracking, alkenes, fermentation and pollution from fuels for Pearson Edexcel International GCSE Chemistry (4CH1) Topic 4."
+description: "Original 4CH1 practice questions with worked answers on crude oil, cracking, alkanes, alkenes, ethanol and polymers for Edexcel International GCSE Chemistry."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
@@ -211,6 +213,20 @@ These twelve questions cover Topic 4 of Pearson Edexcel International GCSE Chemi
 - Course hub: [4CH1 Chemistry](/boards/edexcel/igcse/chemistry/) and the [printable checklist](/checklists/edexcel/igcse/chemistry/).
 - Find your weak topics with the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What does this 4CH1 organic chemistry practice set cover?**
+The twelve questions cover Topic 4 of Edexcel International GCSE Chemistry (4CH1): crude oil, fuels and pollution, cracking, alkanes, alkenes, ethanol and addition polymers, including mole calculations and an extended-answer question.
+
+**What are common mistakes in organic chemistry answers?**
+Frequent errors include writing that bromine water "goes clear" instead of colourless, drawing a bent chain as a new isomer, and leaving a C=C double bond or the extension bonds out of a polymer repeat unit. Blaming nitrogen in the fuel for oxides of nitrogen is another common slip.
+
+**How do you check a combustion or cracking equation is balanced?**
+Count the carbon, hydrogen and oxygen atoms on both sides before moving on. For combustion, balance carbon first, then hydrogen, and leave oxygen until last, because it appears in two products.
+
+**Why do mole ratios matter in organic calculations?**
+The balanced equation may give more than one mole of product per mole of reactant, so copying the reactant amount straight across gives the wrong mass. Use the ratio from the equation before converting moles to mass.
 
 ## Official syllabus
 

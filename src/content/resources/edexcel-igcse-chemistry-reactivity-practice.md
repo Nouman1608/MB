@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "inorganic-chemistry-4ch1"
     subtopic: "reactivity-series-4ch1"
-description: "Original exam-style practice questions with full worked answers on Group 1 and Group 7 trends, gases in the atmosphere and the reactivity series for Pearson Edexcel International GCSE Chemistry (4CH1)."
+description: "Original 4CH1 practice questions with worked answers on Group 1 and 7 trends, air, the reactivity series and redox for Edexcel International GCSE Chemistry."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 updatedDate: 2026-09-27
@@ -130,3 +132,17 @@ to two different groups rather than two separate facts to memorise.
 - Reciting the reactivity series with a metal out of place, especially around the middle of the sequence.
 - Giving only the oxygen-based OR electron-based definition when a question credits both, or muddling the two together.
 - Forgetting that a positive result for the oxygen-in-air experiment depends on removing air's oxygen specifically, not just "using up the air."
+
+## Frequently asked questions
+
+**How do you predict the properties of an unfamiliar Group 1 or Group 7 element?**
+State the direction of the trend explicitly, increasing or decreasing, before applying it to the unfamiliar element such as rubidium or astatine. Naming "the trend" without a direction earns no marks.
+
+**Why are oxygen-based and electron-based redox definitions both important?**
+In Edexcel International GCSE Chemistry (4CH1), a question may use either convention, so practise explaining the same reaction both ways. Oxidation is gain of oxygen or loss of electrons, and reduction is loss of oxygen or gain of electrons.
+
+**How do Topic 1 ideas explain reactivity trends?**
+The ease of losing or gaining an outer electron, governed by the number of electron shells and the shielding they create, explains both Group 1's increasing reactivity and Group 7's decreasing reactivity. It is one reasoning pattern applied to two groups.
+
+**Where are marks usually lost on reactivity questions?**
+Common errors include applying Group 1's trend to Group 7, putting a metal out of place in the reactivity series, and giving only one redox definition when both are credited.

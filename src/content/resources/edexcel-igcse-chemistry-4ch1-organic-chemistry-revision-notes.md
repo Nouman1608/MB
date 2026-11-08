@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed revision notes and a self-test on crude oil, alkanes, alkenes, alcohols, esters and polymers for Edexcel International GCSE Chemistry 4CH1."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -341,6 +343,20 @@ Why these fermentation conditions: no air so ethanol is not oxidised to ethanoic
 - Naming esters backwards, or writing the formula with the alcohol part first.
 - Leaving the C=C in a repeat unit, or missing the extension bonds.
 - Forgetting the water (2n H₂O) in a polyester equation.
+
+## Frequently asked questions
+
+**What are the conditions for catalytic cracking?**
+Catalytic cracking uses a silica or alumina catalyst and a temperature of 600–700 °C to break long-chain alkanes into shorter-chain alkanes and alkenes. It is needed because the supply of long-chain fractions is greater than demand, while demand for short-chain fractions such as gasoline is greater than supply.
+
+**What is the difference between hydration of ethene and fermentation?**
+Hydration of ethene uses steam with a phosphoric acid catalyst at about 300 °C. Fermentation of glucose uses enzymes in yeast at about 30 °C in the absence of air, so the ethanol is not oxidised to ethanoic acid; both are Paper 2 only content in Edexcel International GCSE Chemistry (4CH1).
+
+**How do you balance a complete combustion equation for an alkane?**
+Balance carbon first so the number of CO₂ equals the carbons in the fuel, then make the number of H₂O half the hydrogen atoms. Count the oxygen atoms on the right and halve to get O₂; if that gives a half, double everything.
+
+**What is the bromine water test for alkenes?**
+An alkene decolourises orange bromine water because bromine adds across the C=C double bond; an alkane does not. Write "colourless", not "clear", for the result.
 
 ## Official syllabus
 

@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on electrolysis, half equations, electroplating and fuel cells."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -140,5 +142,19 @@ Disadvantages: hydrogen is **difficult and hazardous to store and transport**, b
 - Claiming fuel cells are entirely pollution-free.
 - Forgetting that copper electrodes change the **anode's** product (dissolving rather than releasing oxygen) but not the cathode's — copper still deposits there either way.
 - Comparing a fuel cell only against a battery, when a question specifically asks about a petrol engine — the relevant differences (combustion products, efficiency, refuelling infrastructure) are different in each comparison.
+
+## Frequently asked questions
+
+**What does this electrolysis and fuel cells practice set cover?**
+The questions cover electrolysis of molten and aqueous compounds, half-equations, electroplating, copper(II) sulfate with inert and copper electrodes, and hydrogen-oxygen fuel cells for Cambridge IGCSE 0620 and O Level 5070. Half-equation parts are marked as 0620 Extended and required for 5070.
+
+**What are common mistakes in electrolysis answers?**
+Frequent errors include balancing electrons incorrectly in half-equations, saying sodium forms at the cathode from aqueous sodium chloride, and getting the anode and cathode the wrong way round in electroplating. Claiming fuel cells are entirely pollution-free also loses marks.
+
+**What should you compare a fuel cell with in a Cambridge IGCSE question?**
+When a question asks about a petrol engine, compare the fuel cell with the petrol engine, not with a battery. The relevant differences include combustion products, efficiency and how easily the fuel is stored.
+
+**How should you label electrolysis apparatus?**
+Label the electrodes where they dip into the electrolyte, not the connecting wires. Make sure each product is linked to the correct electrode.
 
 Questions 7 and 8 draw on the copper-electrode special case and the fuel-cell-vs-petrol-engine comparison in the [Electrolysis revision notes](/resources/electrolysis-revision-notes/), material the earlier questions on this page don't reach.

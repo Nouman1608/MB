@@ -296,6 +296,20 @@ Both distances are measured **from the baseline**. Rf has no units and is less t
 - Choosing filtration for a dissolved solid, or simple distillation for two liquids that mix.
 - Measuring Rf distances from the bottom of the paper, or giving Rf greater than 1.
 
+## Frequently asked questions
+
+**What is the difference between evaporation and boiling?**
+Evaporation happens at the surface of a liquid, below its boiling point, while boiling happens throughout the liquid at the boiling point. In both, particles gain energy and overcome the forces between them.
+
+**What is diffusion?**
+Diffusion is the random movement of particles from a high concentration to a low concentration until they are evenly spread. It is faster in gases than in liquids, faster at higher temperature and faster for lighter particles.
+
+**How can you tell if a substance is pure?**
+A pure substance has a sharp, fixed melting point and boiling point, while a mixture may melt or boil over a range of temperatures. Measure the melting point and compare it with the data-book value.
+
+**What is solubility in Edexcel International GCSE Chemistry (4CH1)?**
+Solubility is the mass of solute that dissolves in 100 g of solvent at a stated temperature to make a saturated solution, given in g per 100 g of solvent. Solubility is Paper 2 only content.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, Pearson Education Limited. Topic 1 Principles of chemistry, sub-topics (a) States of matter and (b) Elements, compounds and mixtures, points 1.1–1.13.

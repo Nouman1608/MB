@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "bonding-structure-and-the-properties-of-matter-8462"
     subtopic: "ionic-bonding-8462"
-description: "The three types of strong chemical bond, and how ionic bonding forms through electron transfer -- 4.2.1.1 and 4.2.1.2 of AQA GCSE Chemistry (8462), including dot and cross diagrams and working out ion charge from group number."
+description: "Ionic bonding for AQA GCSE Chemistry (8462) 4.2.1.1-4.2.1.2: the three strong bond types, electron transfer, dot and cross diagrams and ion charges."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -173,6 +175,20 @@ each resulting ion matches a noble gas structure.
 - Practise explaining ionic bond formation as a two-step process:
 electron transfer, then electrostatic attraction between the ions
 formed.
+
+## Frequently asked questions
+
+**What are the three types of strong chemical bond?**
+The three types are ionic, covalent and metallic. Ionic bonding occurs between metals and non-metals, covalent bonding in most non-metallic elements and compounds of non-metals, and metallic bonding in metallic elements and alloys.
+
+**How do you work out the charge on an ion from its group number?**
+For AQA GCSE Chemistry (8462), a Group 1 metal forms a 1+ ion, a Group 2 metal a 2+ ion, a Group 6 non-metal a 2− ion and a Group 7 non-metal a 1− ion. The specification limits this rule to Groups 1, 2, 6 and 7.
+
+**What holds an ionic compound together?**
+Ionic compounds are held together by the electrostatic force of attraction between oppositely charged ions. Using that precise term, rather than a vague phrase like "they stick together", is what a full-mark explanation needs.
+
+**What must a dot and cross diagram for an ionic compound show?**
+Use dots for one atom's electrons and crosses for the other's, and show square brackets and the correct charge around each ion. Diagrams showing all occupied shells are acceptable provided the charges are shown.
 
 ## Related resources
 

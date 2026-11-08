@@ -31,7 +31,9 @@ syllabusTopics:
 description: "Condensed recall notes on formulae, balancing, relative masses and mole calculations for Cambridge IGCSE 0620 and O Level 5070 — every equation in one place."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -202,3 +204,16 @@ it, with no Core/Extended split.
   <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the four steps for any mole calculation?**
+Balance the equation, convert the known substance to moles, use the mole ratio from the balanced equation, then convert the unknown moles back to mass, volume or concentration. Skipping the balancing step gives the wrong mole ratio.
+
+**How do you find the limiting reagent?**
+Convert both reactants to moles and divide each by its coefficient in the balanced equation; the smaller result is the limiting reagent. All product calculations use the limiting reagent.
+
+**Which mole topics are Core and which are Extended in Cambridge IGCSE 0620?**
+Core candidates need formulae, balanced equations with state symbols, Ar and Mr, and reacting masses in simple proportions without moles. The mole itself, gas volumes, concentration calculations, empirical formulae, limiting reactants and percentage yield, composition and purity are Extended; O Level 5070 requires all of it.
+
+**How do you write a formula from the charges on ions?**
+Swap the charges and simplify, or use the lowest common multiple when the charges do not cancel neatly; Al³⁺ and O²⁻ give Al₂O₃. Use brackets around a polyatomic ion when more than one is needed, as in Ca(NO₃)₂.
