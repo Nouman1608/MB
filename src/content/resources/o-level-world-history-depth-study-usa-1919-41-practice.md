@@ -48,7 +48,7 @@ Depth Study D of Cambridge O Level History 2147 is assessed in **Paper 1, Sectio
 
 **(c)** "Government policies were the main reason for the economic boom of the 1920s." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Henry Ford's moving assembly line; each worker did one task; car-building time fell dramatically; the price of the Model T fell, so ordinary families could afford cars; car ownership rose rapidly; Ford paid higher wages ($5 a day) to keep workers; other firms such as General Motors copied the methods.
 
@@ -64,7 +64,7 @@ Depth Study D of Cambridge O Level History 2147 is assessed in **Paper 1, Sectio
 
 **(c)** "The lives of women changed a great deal in the 1920s." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** To keep white Protestant Americans dominant; it targeted Black Americans, Catholics, Jews and immigrants; it used intimidation, violence and lynching; it claimed to defend "100% Americanism"; it gained political influence in some states; membership reached millions in the mid-1920s.
 
@@ -80,7 +80,7 @@ Depth Study D of Cambridge O Level History 2147 is assessed in **Paper 1, Sectio
 
 **(c)** "Speculation was the main cause of the Wall Street Crash." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Share prices had begun to fall; on Black Thursday (24 October) nearly 13 million shares were sold in panic; leading bankers bought shares to restore confidence, but this failed; on Black Tuesday (29 October) over 16 million shares were sold; prices collapsed; many investors who had bought on the margin were ruined.
 
@@ -96,7 +96,7 @@ Depth Study D of Cambridge O Level History 2147 is assessed in **Paper 1, Sectio
 
 **(c)** "The New Deal failed because unemployment remained high throughout the 1930s." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Set up in 1933; covered a poor region across several states; built dams on the Tennessee River; produced cheap hydroelectric power; controlled flooding; created jobs; improved farming and reduced soil erosion.
 

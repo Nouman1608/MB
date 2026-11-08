@@ -27,16 +27,16 @@ education. Full explanations are in the
 
 ## Syllabus checklist (2059, 2026)
 
-- [ ] 8(a) Read Pakistan's population pyramids (age and sex) and how they change
-- [ ] 8(a) Effects of present and projected structures on the economy and development
-- [ ] 8(a) Interpret birth, death and natural-increase data; identify trends
-- [ ] 8(a) Social, educational, economic and political causes of growth; problems; solutions
-- [ ] 8(b) Push and pull: rural–urban, seasonal, emigration, immigration and refugees
-- [ ] 8(b) Effects: shanty developments, tent cities, rural depopulation; measures and adverse outcomes
-- [ ] 8(c) Distribution versus density; variations between and within provinces and the Northern Area; factors
-- [ ] 8(d) Primary, secondary, tertiary occupations and changing proportions
-- [ ] 8(d) Rural and urban unemployment and underemployment; skilled and manual labour
-- [ ] 8(d) Effect on GNP and GDP; literacy, education and training for males and females
+- ☐ 8(a) Read Pakistan's population pyramids (age and sex) and how they change
+- ☐ 8(a) Effects of present and projected structures on the economy and development
+- ☐ 8(a) Interpret birth, death and natural-increase data; identify trends
+- ☐ 8(a) Social, educational, economic and political causes of growth; problems; solutions
+- ☐ 8(b) Push and pull: rural–urban, seasonal, emigration, immigration and refugees
+- ☐ 8(b) Effects: shanty developments, tent cities, rural depopulation; measures and adverse outcomes
+- ☐ 8(c) Distribution versus density; variations between and within provinces and the Northern Area; factors
+- ☐ 8(d) Primary, secondary, tertiary occupations and changing proportions
+- ☐ 8(d) Rural and urban unemployment and underemployment; skilled and manual labour
+- ☐ 8(d) Effect on GNP and GDP; literacy, education and training for males and females
 
 ## Key terms
 

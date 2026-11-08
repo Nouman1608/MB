@@ -48,7 +48,7 @@ In Cambridge O Level History 2147, Depth Study B is examined in **Paper 1, Secti
 
 **(c)** "The Weimar Republic had achieved a great deal by 1929." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** The army was limited to 100,000 men; conscription was banned; no tanks; no air force; the navy was limited to six battleships and no submarines; the Rhineland was demilitarised.
 
@@ -64,7 +64,7 @@ In Cambridge O Level History 2147, Depth Study B is examined in **Paper 1, Secti
 
 **(c)** "The Enabling Act was the most important step in Hitler's consolidation of power in 1933-34." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** On 8 November 1923 Hitler and the SA burst into a political meeting in a Munich beer hall; he announced a national revolution and forced Bavarian leaders to support him; they later withdrew their support; the next day Hitler and Ludendorff marched through Munich; police opened fire and sixteen Nazis were killed; Hitler was arrested, tried and sentenced to five years, serving about nine months.
 
@@ -80,7 +80,7 @@ In Cambridge O Level History 2147, Depth Study B is examined in **Paper 1, Secti
 
 **(c)** "Most Germans benefited from Nazi rule before 1939." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Women were encouraged to focus on "children, kitchen, church"; marriage loans were given and reduced with each child; the Mother's Cross rewarded large families; women were discouraged from or removed from some professions such as law and medicine; the League of German Maidens prepared girls for motherhood; make-up and smoking were discouraged.
 

@@ -48,7 +48,7 @@ Depth Study questions are set in **Paper 1, Section B** of Cambridge O Level His
 
 **(c)** "New weapons did little to break the stalemate on the Western Front." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** One mark per relevant point, up to four: waterlogged trenches and mud; rats and lice; trench foot from standing in water; constant shelling and snipers; cold in winter; boredom between attacks; shell shock; the stench of unburied bodies; going over the top into machine-gun fire.
 
@@ -64,7 +64,7 @@ Depth Study questions are set in **Paper 1, Section B** of Cambridge O Level His
 
 **(c)** "The Arab Revolt was more important to the Allied war effort than the contribution of troops from the British Empire on the Western Front." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Japan declared war on Germany in August 1914; with British help it besieged and captured Tsingtao (November 1914); it occupied German islands in the Pacific; its navy escorted convoys carrying Australian and New Zealand troops; it later sent destroyers to the Mediterranean; this secured Allied sea lanes.
 
@@ -80,7 +80,7 @@ Depth Study questions are set in **Paper 1, Section B** of Cambridge O Level His
 
 **(c)** "Revolution in Germany was the main reason why Germany asked for an armistice in 1918." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** The main British and German fleets met in the North Sea on 31 May-1 June 1916; Jellicoe commanded the Grand Fleet and Scheer the High Seas Fleet; Britain lost more ships and men; the German fleet escaped back to port; it did not seriously challenge British control again, so the blockade continued.
 

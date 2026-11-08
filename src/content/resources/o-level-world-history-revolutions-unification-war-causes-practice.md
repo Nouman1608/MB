@@ -53,7 +53,7 @@ This page practises three of the six Option A key questions in Cambridge O Level
 
 **(c)** "The revolutions of 1848 changed nothing." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Award one mark per relevant point, up to four. In February 1848 protests in Paris against the ban on political banquets turned into street fighting; King Louis-Philippe abdicated; a provisional government declared the Second Republic and introduced universal male suffrage; National Workshops were set up for the unemployed; their closure led to the June Days rising, crushed by General Cavaignac; Louis Napoleon was elected president in December 1848.
 
@@ -72,7 +72,7 @@ This page practises three of the six Option A key questions in Cambridge O Level
 
 **(c)** "Bismarck was responsible for the unification of Germany." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** A customs union led by Prussia, formed in 1834; it removed tariffs between member states; it set a common external tariff; Austria was excluded; most German states had joined by the 1850s; it made members economically linked to Prussia.
 
@@ -91,7 +91,7 @@ This page practises three of the six Option A key questions in Cambridge O Level
 
 **(c)** "The alliance system was the main cause of the First World War." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Britain and Japan agreed that if either was at war with one other power, the ally would stay neutral; if either was attacked by two powers, the ally would join it; it was aimed at Russia's ambitions in the Far East; it ended Britain's isolation; it allowed Britain to concentrate its navy nearer home.
 

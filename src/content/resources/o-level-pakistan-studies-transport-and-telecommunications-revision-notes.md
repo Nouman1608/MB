@@ -27,15 +27,15 @@ telecommunications. Full explanations are in the
 
 ## Syllabus checklist (2059, 2026)
 
-- [ ] 7(a) Describe regional variations in density and pattern of road, rail and air networks from maps
-- [ ] 7(a) Factors helping and hindering location, maintenance and development of routes and airports
-- [ ] 7(a) Recent improvements; feasibility of new developments
-- [ ] 7(a) Compare road, rail and air for goods and people; evaluate motorways and airports
-- [ ] 7(b) Map: cross-border roads (with passes) and railways; Keamari, Qasim, Gwadar; international airports
-- [ ] 7(b) Factors affecting cross-border routes, seaports, dry ports and airports
-- [ ] 7(b) Define a dry port, name one, explain why they were developed
-- [ ] 7(c) Importance of radio, TV, phones, fax, email and internet for education, industry, services, trade
-- [ ] 7(c) Problems of provision in some areas; evaluate the role in development
+- ☐ 7(a) Describe regional variations in density and pattern of road, rail and air networks from maps
+- ☐ 7(a) Factors helping and hindering location, maintenance and development of routes and airports
+- ☐ 7(a) Recent improvements; feasibility of new developments
+- ☐ 7(a) Compare road, rail and air for goods and people; evaluate motorways and airports
+- ☐ 7(b) Map: cross-border roads (with passes) and railways; Keamari, Qasim, Gwadar; international airports
+- ☐ 7(b) Factors affecting cross-border routes, seaports, dry ports and airports
+- ☐ 7(b) Define a dry port, name one, explain why they were developed
+- ☐ 7(c) Importance of radio, TV, phones, fax, email and internet for education, industry, services, trade
+- ☐ 7(c) Problems of provision in some areas; evaluate the role in development
 
 ## Key terms
 

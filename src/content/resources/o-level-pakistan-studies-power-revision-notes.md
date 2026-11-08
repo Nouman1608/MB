@@ -27,16 +27,16 @@ best close Pakistan's energy gap. For full explanations, use the
 
 ## Syllabus checklist (2059, 2026)
 
-- [ ] 3(a) Diagrams of open cast, adit and shaft mining, and of drilling for oil and gas
-- [ ] 3(a) Renewable versus non-renewable; how hydel, wind, solar, wave, tidal, biofuel and geothermal power work
-- [ ] 3(a) Why power matters for development
-- [ ] 3(b) Coal quality, amount, reserve life, imported coal types, transport to users
-- [ ] 3(b) Gas output, reserve life, pipeline extent, supply beyond the pipelines and its limits
-- [ ] 3(b) Oil output, reserve life, imports and why, pipelines and other carriers
-- [ ] 3(b) Ways electricity is generated; non-renewables running out and rising in price
-- [ ] 3(c) Pros and cons of water, wind, wave and solar electricity
-- [ ] 3(c) Conditions for multi-purpose hydel; factors helping or hindering supply; small-scale schemes
-- [ ] 3(c) Why supply is insufficient and unreliable in many areas
+- ☐ 3(a) Diagrams of open cast, adit and shaft mining, and of drilling for oil and gas
+- ☐ 3(a) Renewable versus non-renewable; how hydel, wind, solar, wave, tidal, biofuel and geothermal power work
+- ☐ 3(a) Why power matters for development
+- ☐ 3(b) Coal quality, amount, reserve life, imported coal types, transport to users
+- ☐ 3(b) Gas output, reserve life, pipeline extent, supply beyond the pipelines and its limits
+- ☐ 3(b) Oil output, reserve life, imports and why, pipelines and other carriers
+- ☐ 3(b) Ways electricity is generated; non-renewables running out and rising in price
+- ☐ 3(c) Pros and cons of water, wind, wave and solar electricity
+- ☐ 3(c) Conditions for multi-purpose hydel; factors helping or hindering supply; small-scale schemes
+- ☐ 3(c) Why supply is insufficient and unreliable in many areas
 
 ## Key terms
 

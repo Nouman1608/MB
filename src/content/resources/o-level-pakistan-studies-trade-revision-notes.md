@@ -26,13 +26,13 @@ explanation is in the [Trade study guide](/resources/o-level-pakistan-studies-tr
 
 ## Syllabus checklist (2059, 2026)
 
-- [ ] 6(a) Name the main exports and imports
-- [ ] 6(a) Describe recent changes in the types, amounts and value of exports and imports
-- [ ] 6(a) Meaning of GNP and GDP and the difference between them
-- [ ] 6(a) Effect of changing trends on the balance of trade and the economy
-- [ ] 6(b) Name and locate main partners and the goods traded with each
-- [ ] 6(b) Factors promoting or hindering trade; why a developing country struggles to raise its share
-- [ ] 6(b) Trading blocs, trade barriers, currency exchange rates
+- ☐ 6(a) Name the main exports and imports
+- ☐ 6(a) Describe recent changes in the types, amounts and value of exports and imports
+- ☐ 6(a) Meaning of GNP and GDP and the difference between them
+- ☐ 6(a) Effect of changing trends on the balance of trade and the economy
+- ☐ 6(b) Name and locate main partners and the goods traded with each
+- ☐ 6(b) Factors promoting or hindering trade; why a developing country struggles to raise its share
+- ☐ 6(b) Trading blocs, trade barriers, currency exchange rates
 
 ## Key terms
 

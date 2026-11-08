@@ -48,7 +48,7 @@ Depth Study E of Cambridge O Level History 2147 is examined in **Paper 1, Sectio
 
 **(c)** "Germany failed to conquer Britain in 1940 mainly because of the RAF." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** British and French troops were trapped at the port of Dunkirk after the German breakthrough in May 1940; the evacuation (Operation Dynamo) took place between late May and early June; Royal Navy ships and hundreds of small civilian boats took part; over 300,000 soldiers were rescued; the Luftwaffe attacked the beaches; tanks, guns and vehicles were left behind.
 
@@ -64,7 +64,7 @@ Depth Study E of Cambridge O Level History 2147 is examined in **Paper 1, Sectio
 
 **(c)** "Midway was the turning point of the war in the Pacific." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Japanese aircraft launched from six carriers attacked the US Pacific Fleet's base in Hawaii without a declaration of war; eight battleships were sunk or damaged; many aircraft were destroyed on the ground; over 2,000 Americans were killed; the US carriers were away at sea; the next day the USA declared war on Japan.
 
@@ -80,7 +80,7 @@ Depth Study E of Cambridge O Level History 2147 is examined in **Paper 1, Sectio
 
 **(c)** "Resistance movements in France and Malaya achieved little." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** The Sook Ching massacres killed many Chinese men in 1942; the Kempeitai arrested, tortured and executed suspects; rice and medicine were scarce; Japanese occupation currency became almost worthless; men were taken for forced labour, including on the Burma-Thailand railway; different ethnic groups were treated differently to divide them.
 
@@ -96,7 +96,7 @@ Depth Study E of Cambridge O Level History 2147 is examined in **Paper 1, Sectio
 
 **(c)** "The atomic bomb was the main reason Japan surrendered in 1945." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** Allied forces landed on five beaches in Normandy; American, British and Canadian troops took part, commanded by Eisenhower; airborne troops landed first; huge naval and air support; deception had led Germany to expect a landing at Calais; over 150,000 troops landed on the first day; it opened a second front in the west.
 

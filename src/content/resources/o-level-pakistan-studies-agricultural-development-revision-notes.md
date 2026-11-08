@@ -27,14 +27,14 @@ full explanations, see the
 
 ## Syllabus checklist (2059, 2026)
 
-- [ ] 4(a) Subsistence, cash crop and livestock farming as input–process–output systems
-- [ ] 4(b) Map areas and photographs of cotton, rice, sugar cane, wheat; buffalo, cattle, goats, sheep, poultry
-- [ ] 4(b) Uses of crops and livestock products; areas, reasons and uses of twelve other crops
-- [ ] 4(c) Natural and human factors; three subsistence case studies; four cash crops
-- [ ] 4(c) Livestock on small farms; nomadic herding and transhumance
-- [ ] 4(c) Karez, inundation and perennial canals; Persian wheel and tubewell; dams, barrages, link and distribution canals, field channels, bunds
-- [ ] 4(c) Waterlogging and salinity: causes, restoration, prevention
-- [ ] 4(c) Government action; possibilities, problems and sustainability
+- ☐ 4(a) Subsistence, cash crop and livestock farming as input–process–output systems
+- ☐ 4(b) Map areas and photographs of cotton, rice, sugar cane, wheat; buffalo, cattle, goats, sheep, poultry
+- ☐ 4(b) Uses of crops and livestock products; areas, reasons and uses of twelve other crops
+- ☐ 4(c) Natural and human factors; three subsistence case studies; four cash crops
+- ☐ 4(c) Livestock on small farms; nomadic herding and transhumance
+- ☐ 4(c) Karez, inundation and perennial canals; Persian wheel and tubewell; dams, barrages, link and distribution canals, field channels, bunds
+- ☐ 4(c) Waterlogging and salinity: causes, restoration, prevention
+- ☐ 4(c) Government action; possibilities, problems and sustainability
 
 ## Key terms
 

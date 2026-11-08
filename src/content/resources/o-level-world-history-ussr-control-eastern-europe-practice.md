@@ -47,7 +47,7 @@ These questions cover every focus point of Cambridge O Level History 2147 Option
 
 **(c)** "Events in Hungary in 1956 and Czechoslovakia in 1968 were more similar than different." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** One mark per point: Dubček became party leader in January 1968; censorship of the press was relaxed or lifted; open criticism of the government was allowed; the Action Programme (April 1968) planned economic reform with some market elements; more freedom to travel was promised; the power of the secret police was reduced; he called it "socialism with a human face".
 
@@ -63,7 +63,7 @@ These questions cover every focus point of Cambridge O Level History 2147 Option
 
 **(c)** "Solidarity was the most important challenge to Soviet control in Eastern Europe before 1985." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** An independent trade union in Poland; formed after strikes at the Gdańsk shipyard in August 1980; led by Lech Wałęsa; it had around ten million members; supported by the Catholic Church; banned under martial law in December 1981 but survived underground.
 
@@ -79,7 +79,7 @@ These questions cover every focus point of Cambridge O Level History 2147 Option
 
 **(c)** "Gorbachev was personally responsible for the collapse of Soviet control over Eastern Europe." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** On 9 November 1989 the East German government announced that citizens could cross the border; crowds gathered at the checkpoints and guards opened them; Berliners climbed on and began breaking down the wall; thousands crossed into West Berlin; it became the symbol of communism's collapse, and Germany was reunified in October 1990.
 

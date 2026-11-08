@@ -27,16 +27,16 @@ export zones, call centres and tourism. Full explanations are in the
 
 ## Syllabus checklist (2059, 2026)
 
-- [ ] 5(a) Raw materials, refined, processed, manufactured, value-added
-- [ ] 5(a) Infrastructure; services; primary, secondary, tertiary industry
-- [ ] 5(b) Large-scale, small-scale and cottage industry as defined in Pakistan
-- [ ] 5(b) Products, markets and locations of cement, cotton, sugar, crafts, fertiliser, iron and steel, brick, oil refining, sports goods, surgical instruments
-- [ ] 5(b) Location factors: capital, site, raw materials, power, water, labour, communications, government policy
-- [ ] 5(b) Formal versus informal sector; informal services; advantages and disadvantages; contributions of both
-- [ ] 5(b) Sources of capital and labour; government promotion of industry
-- [ ] 5(b) Export processing zones and industrial estates: examples, reasons, characteristics
-- [ ] 5(b) Feasibility of call centres and other global-communication jobs
-- [ ] 5(b) Natural and cultural attractions with examples; feasibility of tourism for jobs, GNP and GDP
+- ☐ 5(a) Raw materials, refined, processed, manufactured, value-added
+- ☐ 5(a) Infrastructure; services; primary, secondary, tertiary industry
+- ☐ 5(b) Large-scale, small-scale and cottage industry as defined in Pakistan
+- ☐ 5(b) Products, markets and locations of cement, cotton, sugar, crafts, fertiliser, iron and steel, brick, oil refining, sports goods, surgical instruments
+- ☐ 5(b) Location factors: capital, site, raw materials, power, water, labour, communications, government policy
+- ☐ 5(b) Formal versus informal sector; informal services; advantages and disadvantages; contributions of both
+- ☐ 5(b) Sources of capital and labour; government promotion of industry
+- ☐ 5(b) Export processing zones and industrial estates: examples, reasons, characteristics
+- ☐ 5(b) Feasibility of call centres and other global-communication jobs
+- ☐ 5(b) Natural and cultural attractions with examples; feasibility of tourism for jobs, GNP and GDP
 
 ## Definitions to learn exactly
 

@@ -48,7 +48,7 @@ Cambridge O Level History 2147 examines Depth Study C in **Paper 1, Section B**,
 
 **(c)** "The First World War was the main reason for the collapse of the Tsarist regime." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** A peaceful march of workers and their families led by Father Gapon; they marched to the Winter Palace in St Petersburg; they carried a petition and icons and portraits of the Tsar; they asked for better conditions and an elected assembly; troops opened fire; many were killed; it destroyed trust in the Tsar as the "Little Father".
 
@@ -64,7 +64,7 @@ Cambridge O Level History 2147 examines Depth Study C in **Paper 1, Section B**,
 
 **(c)** "The weaknesses of the Whites were the main reason why the Bolsheviks won the Civil War." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** In September 1917 General Kornilov, commander-in-chief, appeared to move troops towards Petrograd; Kerensky feared a military coup; he released Bolsheviks from prison and armed the Red Guards to defend the city; Kornilov's troops were persuaded not to fight; the Bolsheviks were seen as defenders of the revolution and their support grew.
 
@@ -80,7 +80,7 @@ Cambridge O Level History 2147 examines Depth Study C in **Paper 1, Section B**,
 
 **(c)** "Terror was the most important method Stalin used to control the Soviet Union." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** He was General Secretary from 1922; he controlled appointments and promotions, so many officials owed him their jobs; he was a member of the Politburo; he had a reputation as a dull administrator, so rivals underestimated him; Lenin's Testament had criticised him and suggested his removal.
 
@@ -96,7 +96,7 @@ Cambridge O Level History 2147 examines Depth Study C in **Paper 1, Section B**,
 
 **(c)** "Stalin's economic policies were a success." How far do you agree? Explain your answer. **[10]**
 
-#### Worked answer
+### Worked answer
 
 **(a)** The joining together of individual peasant farms into large collective farms (kolkhozes); land, animals and tools were shared; the state set grain quotas; begun on a mass scale in 1929; kulaks were removed; machinery was supplied through Machine Tractor Stations.
 

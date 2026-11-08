@@ -48,7 +48,7 @@ OxfordAQA International GCSE History 9245 Paper 2 Section A has four questions o
 
 **4.** "The Depression was the main reason why Germans supported Hitler." How far do you agree? **[12]**
 
-#### Worked answers
+### Worked answers
 
 **1.** Savings became worthless; pensioners on fixed incomes could not buy food; workers were paid twice a day and spent wages at once; prices rose hourly; people with debts or mortgages could pay them off easily. (Any three.)
 
@@ -68,7 +68,7 @@ OxfordAQA International GCSE History 9245 Paper 2 Section A has four questions o
 
 **4.** "Fear of the Purges was the main way Stalin controlled Soviet people in the 1930s." How far do you agree? **[12]**
 
-#### Worked answers
+### Worked answers
 
 **1.** Millions of soldiers killed or wounded; food shortages in the cities; rising prices; peasants' sons and horses taken for the army; fuel shortages in winter. (Any three.)
 
@@ -88,7 +88,7 @@ OxfordAQA International GCSE History 9245 Paper 2 Section A has four questions o
 
 **4.** "The New Deal benefited all Americans." How far do you agree? **[12]**
 
-#### Worked answers
+### Worked answers
 
 **1.** Mass-produced cars such as Ford's Model T; electrical goods such as radios and refrigerators; hire purchase; advertising; a stock market boom. (Any three.)
 
