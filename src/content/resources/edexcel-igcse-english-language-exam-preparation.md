@@ -17,7 +17,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 Pearson Edexcel International GCSE English Language A 4EA1 has a compulsory component plus a choice.
@@ -110,6 +110,18 @@ finds the errors that are actually costing technical accuracy marks.
   and reserve five minutes for a targeted accuracy check.
 - **On the coursework route**: redraft for structure and for the assignment's actual question, not
   only for surface errors.
+
+## Frequently asked questions
+
+**Which 4EA1 components must I take?**
+Component 1 (2 hours 15 minutes, 60%) plus either Component 2 (1 hour 30 minutes, 40%) or Component 3, the non-examined alternative.
+
+**How should I split my time in Component 1?**
+Its 90 marks divide evenly between reading and writing, so give the two sections roughly equal time.
+
+**Where can I find the anthology texts?**
+They are in the Pearson Edexcel International GCSE English Anthology; Part 1 is for Component 1 and Part 2 for Components 2 and 3.
+
 
 ## Self-test
 

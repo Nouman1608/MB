@@ -24,7 +24,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Component 3: Poetry and Prose Texts and Imaginative
@@ -136,6 +136,18 @@ counts in Assignment B, which typically weakens control and precision
 rather than improving marks. Forgetting that Component 3 is internally
 set -- assuming the Anthology alone determines the exact task, rather
 than checking the specific title or brief the centre has set.
+
+## Frequently asked questions
+
+**What does Assignment A involve?**
+One 30-mark essay on any three poetry or prose texts from Part 2 of the Pearson Edexcel International GCSE English Anthology, discussing at least one poem and one prose text.
+
+**What is Assignment B?**
+One 30-mark imaginative writing task, internally set and assessed, then externally moderated by Pearson.
+
+**Is Component 3 worth less than Component 2?**
+No. Both are worth 60 marks and 40% of the qualification, and you take one or the other.
+
 
 ## Quick revision checklist
 
