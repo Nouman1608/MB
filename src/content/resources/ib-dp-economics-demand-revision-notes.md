@@ -207,6 +207,20 @@ Paper 1 is an extended-response paper of 1 hour 15 minutes and 25 marks, where y
 - Not showing working in a calculation that asks for it. The guide defines "calculate" as obtaining a numerical answer showing the relevant stages in the working.
 - Giving only a definition when the command term is "explain", which needs causes or reasons.
 
+## Frequently asked questions
+
+**What is demand in IB DP Economics?**
+Demand is how much of a good buyers are willing and able to buy at each price in a range, during a stated period. It is sub-topic 2.1 of the IB DP Economics guide.
+
+**What is the difference between an extension of demand and an increase in demand?**
+An extension of demand is a movement along the curve caused by a fall in the good's own price. An increase in demand is a rightward shift of the whole curve caused by a non-price determinant.
+
+**How do substitutes and complements affect demand?**
+If the price of a substitute rises, demand for this good increases. If the price of a complement rises, demand for this good decreases.
+
+**What are the non-price determinants of demand?**
+The guide lists five: income, tastes and preferences, future price expectations, prices of related goods (substitutes and complements), and the number of consumers. Each shifts the whole demand curve.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020). Sub-topic 2.1 Demand, including its HL-only content.

@@ -201,6 +201,20 @@ End with a short conclusion that takes a side and says when it would change.
 - Giving real-world claims you cannot support; use the example given or a clearly hypothetical one.
 - Forgetting to show working in percentage and expected-value calculations.
 
+## Frequently asked questions
+
+**What assumptions does the rational consumer model make?**
+Standard theory assumes rationality, meaning people compare benefits and costs and choose consistently; utility maximisation, meaning they pick the option giving the most satisfaction; and perfect information about prices, qualities and consequences.
+
+**What biases are in the IB DP Economics guide?**
+The guide lists rules of thumb, anchoring and framing, and availability. Each breaks part of the rational model, such as full comparison of options, consistency of choices or accurate judgement of probability.
+
+**What are the three forms of choice architecture?**
+Default choice is the option that applies unless you act, restricted choice offers only some options, and mandated choice requires an active choice with no pre-set option.
+
+**Is satisficing the same as laziness?**
+No. Satisficing is a target-based aim: a firm sets a level of profit it finds acceptable rather than seeking the maximum, often because information is limited or owners and managers want different things.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published February 2020 by the International Baccalaureate Organization. Sub-topic 2.4 (HL only), Unit 2 Microeconomics.

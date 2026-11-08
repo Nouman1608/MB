@@ -151,6 +151,20 @@ Teaching is in the [study guide](/resources/ib-dp-economics-role-of-government-i
 - Describing a policy without weighing it when the command term is "evaluate".
 - Giving a final number without the working when the command term is "calculate".
 
+## Frequently asked questions
+
+**How do you calculate government tax revenue from an indirect tax?**
+Multiply the tax per unit by the new quantity traded after the tax, not the old equilibrium quantity. The tax per unit is the vertical gap between the original and the new supply curve.
+
+**How do you find the price producers keep after an indirect tax?**
+Take the tax per unit off the new price paid by consumers. On the diagram, read it from the original supply curve directly below the consumer price at the new quantity.
+
+**Is a shortage measured as a price gap or a quantity gap?**
+A shortage or surplus is a quantity gap: the difference between quantity demanded and quantity supplied at the controlled price. Giving it as a price gap is a common error.
+
+**Which calculations in sub-topic 2.7 are HL only?**
+Calculating shortages, surpluses, tax revenue, subsidy costs and changes in spending or revenue from data is HL only. At SL, students show the same effects on the diagram.
+
 ## Next steps
 
 - Revisit the [study guide](/resources/ib-dp-economics-role-of-government-in-microeconomics/) wherever you lost marks.

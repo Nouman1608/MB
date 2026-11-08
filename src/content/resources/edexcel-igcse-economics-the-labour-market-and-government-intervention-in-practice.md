@@ -156,6 +156,20 @@ These questions cover sections 1.2.5 (the labour market) and 1.2.6 (government i
 - Ignoring the numbers in the question when evaluating.
 - Writing no conclusion on an Evaluate question.
 
+## Frequently asked questions
+
+**How do you find unemployment caused by a minimum wage from a table?**
+At the minimum wage, read off the number of workers demanded and the number supplied. The gap between them is the surplus of labour, and employment is the number demanded, not the number supplied.
+
+**How do you calculate labour cost per unit?**
+Divide the wage by the number of units each worker makes in the same time period. If training raises output per worker while the wage stays the same, labour cost per unit falls.
+
+**Does a minimum wage always cause unemployment?**
+No. It only causes a surplus of labour if it is set above the equilibrium wage. Claiming it always causes unemployment is a common way to lose marks.
+
+**What do you need for a strong Edexcel IGCSE Economics evaluate answer on pollution policy?**
+Explain how the policy works with a chain, weigh its advantages against its disadvantages using the numbers in the question, and finish with a conclusion. Comparing it with an alternative policy, such as regulation or permits, helps support the judgement.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/edexcel-igcse-economics-the-labour-market-and-government-intervention-in-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-the-labour-market-and-government-intervention-in/).

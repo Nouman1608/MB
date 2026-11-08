@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on demand, supply, equilibrium, elasticity and market failure for OxfordAQA International GCSE Economics 9214."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -213,3 +215,16 @@ Both need to be drawn on a diagram to score fully — and both must be set on th
   <figcaption>Each method of intervention changes something and has a limit.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the conditions of demand in OxfordAQA International GCSE Economics?**
+The conditions that shift demand are income, the price of substitutes, the price of complements, tastes and fashion, population, advertising and expectations. In the 9214 specification, a change in the good's own price causes a movement along the curve instead.
+
+**What does a PED of 0.4 mean for revenue?**
+A PED below 1 means demand is inelastic, so quantity falls by a smaller percentage than price rises and total revenue increases when the price is raised.
+
+**Why are taxes on cigarettes and fuel good at raising revenue?**
+Demand for them is inelastic, so consumption barely falls when the tax raises the price. For the same reason, such taxes are weak at reducing consumption.
+
+**What happens when a minimum price is set above equilibrium?**
+It causes excess supply, a surplus that the government may have to buy. A minimum price set below equilibrium has no effect.

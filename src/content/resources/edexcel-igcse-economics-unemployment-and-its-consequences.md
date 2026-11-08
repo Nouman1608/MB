@@ -220,6 +220,23 @@ Question: assess the impact of a rise in unemployment on a country's government.
 - Including the economically inactive in the labour force.
 - Saying the unemployed "do not want to work" for every type.
 
+## Frequently asked questions
+
+**Who counts as economically inactive?**
+People of working age who are not employed and do not pass the ILO unemployment test, such as full-time students, carers and the long-term sick. They are not part of the labour force.
+
+**Why does unemployment waste scarce resources?**
+Unemployed workers are an unused factor of production. Because resources are scarce, leaving labour idle means the economy produces less than it could.
+
+**How does unemployment affect consumer and business confidence?**
+Households fear for their jobs, so they save more and spend less, which cuts firms' sales. Firms then expect weak demand, postpone investment and may hold back hiring.
+
+**Is all unemployment bad?**
+No. Some frictional unemployment is normal as people move between jobs, and frictional and seasonal spells are short and cost little. Structural and long-term unemployment cost much more.
+
+**How does unemployment affect society?**
+Long spells can bring stress, ill health and loss of self-esteem. When unemployment is concentrated in some regions or groups, such as young people, it widens inequality.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited: section 2.1.1 c), Low unemployment.

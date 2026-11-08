@@ -285,6 +285,20 @@ Pair every diagram with a sentence or two of explanation, and show every stage o
 - Stating ceteris paribus without applying it to the example in the question.
 - Listing economists' names without saying what idea each stands for.
 
+## Frequently asked questions
+
+**What is scarcity in IB DP Economics?**
+Scarcity is the gap between unlimited human needs and wants and limited resources. It exists in every society, rich or poor, and is part of Unit 1 of the IB DP Economics guide.
+
+**What are the four factors of production?**
+Land (natural resources), labour (people's work effort and skills), capital (man-made goods used to make other goods, not money) and entrepreneurship (organising the other factors, taking risks and innovating).
+
+**What is a free good?**
+A free good has no opportunity cost, because using it does not reduce what anyone else can have. Sunlight falling on a field is an example.
+
+**What is the difference between equality and equity?**
+Equality means sharing in equal amounts. Equity means fairness, which may involve treating people unequally, for example giving more to those with greater needs.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020): Unit 1, sub-topics 1.1 and 1.2.

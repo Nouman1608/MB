@@ -118,6 +118,20 @@ These questions cover sub-topic 2.3, competitive market equilibrium, of the IB D
 - Giving a definite price change where two shifts leave it uncertain.
 - Treating efficiency as fairness in an evaluation.
 
+## Frequently asked questions
+
+**How do you calculate consumer and producer surplus in IB Economics?**
+With straight-line curves each surplus is a triangle, so use ½ × base × height. The base is the equilibrium quantity and the height is the gap between the equilibrium price and where the demand or supply curve meets the price axis. This calculation is HL only.
+
+**What happens to equilibrium price when demand and supply both increase?**
+The equilibrium quantity rises for certain, but the change in price depends on which curve shifts more, so it is uncertain. Stating a definite price change is a common way to lose marks.
+
+**Are calculators allowed in IB Economics Paper 1?**
+No. According to the IB guide, Paper 1 is an extended response paper where calculators are not permitted, so questions marked calculator-free use simple numbers and you should show your working.
+
+**What are common mistakes on IB Economics equilibrium diagrams?**
+Frequent slips include leaving new curves and equilibria unlabelled, writing "demand rises" when only the quantity demanded changes, and putting a shortage or surplus on the wrong side of equilibrium.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ib-dp-economics-competitive-market-equilibrium-revision-notes/) and the [study guide](/resources/ib-dp-economics-competitive-market-equilibrium/).

@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "microeconomic-decision-makers"
-description: "Money and banking, household spending decisions, wage determination, trade unions, and firms' growth, costs, revenue and market structure -- the full content of Topic 3 for Cambridge O Level Economics 2281, 2026 series."
+description: "Topic 3 of Cambridge O Level Economics 2281: money and banking, households, workers and wages, trade unions, firms' growth, costs, revenue and market structure."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Topics 1 and 2 of Cambridge O Level Economics (2281) establish scarcity,
@@ -306,6 +308,23 @@ rather than only recognising the definitions in words.
   <figcaption>The five decision makers of Topic 3 and the question each one faces.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What influences household spending, saving and borrowing in O Level Economics?**
+The Cambridge O Level Economics (2281) syllabus names three influences: income, the rate of interest and confidence. You should explain how each varies between households and over time.
+
+**What are the three types of merger?**
+A horizontal merger joins firms at the same stage of production in the same industry, a vertical merger joins firms at different stages in the same industry, and a conglomerate merger joins firms in unrelated industries.
+
+**What is the difference between production and productivity?**
+Production is total output. Productivity is output per unit of input, such as output per worker.
+
+**Do you need market structure diagrams for O Level Economics?**
+No. The syllabus does not require the full theory of perfect and imperfect competition or its diagrams. Keep answers to the named characteristics, advantages and disadvantages of competitive and monopoly markets.
+
+**Why do earnings differ between workers?**
+Earnings differ because of demand and supply in the labour market, relative bargaining strength, discrimination and government policy, which together create gaps between skilled and unskilled, sector, gender and public or private sector workers.
 
 ## Official syllabus
 

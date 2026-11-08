@@ -209,6 +209,20 @@ Reach a judgement: it depends on the size of the economy, its trade dependence a
 
 Back to the [study guide](/resources/ib-dp-economics-exchange-rates/).
 
+## Frequently asked questions
+
+**What are the three exchange rate systems in IB DP Economics?**
+Sub-topic 4.5 of the IB DP Economics guide covers floating rates, set by demand and supply; fixed rates, held at an official level by the central bank; and managed rates, which float but are influenced by central bank intervention.
+
+**What is the difference between depreciation and devaluation?**
+Depreciation is a fall in a currency's value caused by the market under a floating system. Devaluation is an official cut in the rate under a fixed system.
+
+**What does it mean if a currency is overvalued?**
+An overvalued currency has a rate above the level the market alone would set. This is different from an appreciation, which is a rise in the market rate.
+
+**Does a depreciation always improve the current account?**
+No. It tends to improve the balance on goods and services only if the quantities of exports and imports respond enough to the price change. If they respond little, the dearer import bill can worsen the balance.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization, February 2020, sub-topic 4.5.

@@ -210,6 +210,20 @@ For any AO3 question, give both sides and then a verdict. Useful criteria are:
 - Using real figures that you cannot source, rather than reasoning from the idea.
 - Confusing bilateral, regional and multilateral by thinking only of size, not of the number of parties.
 
+## Frequently asked questions
+
+**What is economic integration in IB DP Economics?**
+Economic integration covers preferential trade agreements, trading blocs, monetary union and the WTO. It is sub-topic 4.4 of Unit 4 (The global economy) in the IB DP Economics guide.
+
+**What is the ladder of economic integration?**
+A free trade area removes barriers between members; a customs union adds a common external tariff; a common market adds free movement of labour and capital; and a monetary union adds a shared currency.
+
+**Does trade diversion always make a member worse off?**
+Not necessarily. A full judgement weighs any trade diversion against the trade creation the bloc brings, along with the other advantages and disadvantages of membership.
+
+**Which parts of economic integration are HL only?**
+Trade creation, trade diversion, and the advantages and disadvantages of monetary union are HL only. Agreements, types of bloc, the other advantages and disadvantages of blocs, what a monetary union is, and the WTO are for SL and HL.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization, February 2020. Sub-topic 4.4, Economic integration.

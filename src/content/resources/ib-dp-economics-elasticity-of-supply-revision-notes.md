@@ -228,6 +228,20 @@ For a lower PES, reverse it: "A shipyard working at full capacity cannot add out
 
 The guide groups command terms by assessment objective. Calculate, draw, label and show are AO4 skill terms. Define, outline and state are AO1. Explain, analyse and apply are AO2. Discuss and evaluate are AO3, which ask for judgement. Always check which one you are given before you decide how much to write.
 
+## Frequently asked questions
+
+**What is price elasticity of supply in IB DP Economics?**
+Price elasticity of supply (PES) measures how responsive quantity supplied is to a change in the good's price: the percentage change in quantity supplied divided by the percentage change in price. It is sub-topic 2.6 of the IB DP Economics guide.
+
+**Why does every straight supply line through the origin have a PES of 1?**
+Along a straight line from the origin, quantity and price change in the same proportion, so the percentage changes are equal and PES is exactly 1 at every point, however steep the line is.
+
+**Is a steeper supply curve always less elastic?**
+No. Steepness is not the same as elasticity. For a straight supply line, check where it meets an axis: a line that starts on the price axis is relatively elastic, and one that starts on the quantity axis is relatively inelastic.
+
+**How does time affect price elasticity of supply?**
+Supply becomes more elastic over time. Immediately, inputs and capacity are fixed, but in the long run firms can add capacity and new resources, so the long-run supply curve is flatter.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020). This page covers sub-topic 2.6 in Unit 2.

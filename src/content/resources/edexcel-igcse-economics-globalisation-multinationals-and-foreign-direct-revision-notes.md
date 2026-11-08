@@ -246,6 +246,20 @@ The specification's command-word table gives the shape of each answer.
 - Claiming that profit moved abroad always means less tax. Say which tax and which country.
 - Ending an evaluation with "it depends" and no stated decision factor.
 
+## Frequently asked questions
+
+**What is globalisation in Edexcel IGCSE Economics?**
+In the Pearson Edexcel International GCSE Economics (4EC1) specification, globalisation is the increased integration and interdependence of economies. A full definition needs both ideas, not just "trade between countries".
+
+**What is the difference between a home country and a host country?**
+The home country is where a multinational corporation is based. A host country is a country where the MNC operates but is not based, and the two can feel different effects, for example jobs leaving the home country while the host gains them.
+
+**Why do multinational corporations set up in other countries?**
+The main reasons are economies of scale from selling in many markets, access to natural resources and cheap materials, lower transport and communication costs, and access to customers in different regions, which can avoid import taxes and delivery costs.
+
+**What should an evaluation of FDI in a host country weigh up?**
+Compare the gains in jobs, skills, capital, infrastructure and tax with the costs of profit sent abroad, avoided tax and environmental damage. Say what the balance depends on, such as local sourcing, training and the strength of local rules, then reach a judgement.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, published by Pearson Education Limited: section 2.2.1 Globalisation.

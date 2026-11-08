@@ -215,6 +215,23 @@ A balanced evaluation says that the theory shows why trade can raise output, whi
 - Calculating revenue or expenditure with the domestic price rather than Pw.
 - Forgetting that trade creates losers, which leaves the evaluation one-sided.
 
+## Frequently asked questions
+
+**Does everyone gain from free trade?**
+No. The country gains overall, but the gains are uneven. When imports come in, consumers gain while domestic producers and their workers lose; when exports go out, producers gain while domestic consumers pay more.
+
+**How does trade lead to economies of scale?**
+Access to larger markets lets a firm raise its output, so its fixed costs are spread over more units and average cost falls. It can then cut its price abroad and still earn a profit.
+
+**What are the sources of comparative advantage?**
+Sources include factor endowments such as land, climate and minerals, technology and know-how, the education and skills of the workforce, and the quality of infrastructure and institutions. Comparative advantage can change as countries invest in skills and technology.
+
+**What are the limitations of the theory of comparative advantage?**
+The theory assumes constant opportunity costs, no transport costs, full employment, mobile resources and perfect competition. It also ignores over-specialisation, the unequal spread of gains and non-economic costs such as environmental damage.
+
+**Why is the world price drawn as a horizontal line?**
+A small economy takes the world price as given, so it can buy or sell as much as it wants at that price. The world price line is therefore horizontal.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization in February 2020. This page covers sub-topic 4.1 of Unit 4, The global economy. See also the [IB DP Economics syllabus guide](/resources/ib-dp-economics-syllabus-guide/).

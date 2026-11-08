@@ -300,6 +300,23 @@ Keynes challenged the view that economies reliably return to full employment on 
 - Treating "should" statements as positive.
 - Listing imports as an injection.
 
+## Frequently asked questions
+
+**What is the difference between microeconomics and macroeconomics?**
+Microeconomics looks at individual decision-makers and markets, such as a household, a firm or the market for one good. Macroeconomics looks at the whole economy, such as total output, unemployment and inflation.
+
+**What are the three basic economic questions?**
+Every society must decide what and how much to produce, how to produce it, and for whom to produce it.
+
+**What is the difference between actual growth and growth in production possibilities?**
+Actual growth is a move from a point inside the PPC towards the curve by using idle resources. Growth in production possibilities is an outward shift of the curve from more or better resources or improved technology.
+
+**What does ceteris paribus mean?**
+Ceteris paribus means "all other things being equal". Economists change one variable and hold the rest constant so that its effect can be isolated.
+
+**What does the circular flow of income show?**
+It shows how money, goods and resources move between households and firms, making interdependence visible: one person's spending is another's income. Households supply factors of production and spend their income on firms' goods and services.
+
 ## Next steps
 
 Revise with the [revision notes](/resources/ib-dp-economics-why-economics-and-how-economists-think-revision-notes/), then try the [practice questions](/resources/ib-dp-economics-why-economics-and-how-economists-think-practice/). Next in the course comes [demand, supply and market equilibrium](/resources/ib-dp-economics-demand-supply-equilibrium/). For the course layout see the [IB DP Economics syllabus guide](/resources/ib-dp-economics-syllabus-guide/), and for exam technique see [IB DP Economics exam preparation](/resources/ib-dp-economics-exam-preparation/).

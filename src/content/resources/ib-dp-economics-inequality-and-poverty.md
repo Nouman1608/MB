@@ -235,6 +235,23 @@ When you evaluate, weigh cost, speed, side effects, who is helped, and any confl
 - Confusing the marginal tax rate with the average rate.
 - Listing policies without evaluating them.
 
+## Frequently asked questions
+
+**What is the difference between income and wealth inequality?**
+Income is a flow received over a period from wages, profit, interest, rent and transfers. Wealth is a stock of assets owned at a point in time, so wealth inequality measures how unevenly those assets are held.
+
+**What causes inequality and poverty?**
+The IB DP Economics guide lists inequality of opportunity, different levels of resource ownership, different levels of human capital, discrimination, unequal status and power, government tax and benefits policies, globalisation and technological change, and market-based supply-side policies.
+
+**What is the difference between a progressive, regressive and proportional tax?**
+A progressive tax has an average rate that rises as income rises, a regressive tax has an average rate that falls as income rises, and a proportional tax has the same average rate at all incomes.
+
+**Why is it hard to measure poverty?**
+Poverty lines are arbitrary, prices and needs differ between regions and families, informal work and home-grown food are hard to value, surveys are costly and may miss remote groups, and comparing countries adds error.
+
+**What policies can reduce inequality and poverty?**
+The guide lists taxation, investment in human capital and equal opportunities, transfer payments, targeted spending on goods and services, universal basic income, policies to reduce discrimination and minimum wages. Each should be weighed on cost, speed, side effects and who is helped.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020). This page covers sub-topic 3.4.

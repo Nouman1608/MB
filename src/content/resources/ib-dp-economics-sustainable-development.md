@@ -209,6 +209,23 @@ The guide names constraints without listing them, so these are the ones to be re
 - Calling any resource use "unsustainable". Use of a renewable resource at or below its regeneration is sustainable.
 - Forgetting that poverty is a cause and a consequence of environmental pressure.
 
+## Frequently asked questions
+
+**How can poverty lead to unsustainable resource use?**
+Poor households have a short time horizon, valuing income today far above income later, and few alternatives such as affordable energy or credit, so they depend directly on local resources. This is HL only.
+
+**How can environmental damage deepen poverty?**
+Falling catches, soil exhaustion or dry wells cut the incomes of households that depend on them, poor households often live on the most exposed land, and pollution harms their health and ability to work and learn. This is HL only.
+
+**What constraints limit the pursuit of sustainability?**
+Key constraints are limited income to pay for cleaner technology, time horizons where costs come now and benefits later, the global nature of problems such as emissions, difficulty measuring environmental limits, and competing goals.
+
+**Do the Sustainable Development Goals ever conflict?**
+Yes. A project can support jobs and growth while working against goals such as life on land if it runs down a resource. Strong answers say whether the goals support or conflict with each other in the case given.
+
+**Does recycling make a non-renewable resource sustainable?**
+No. Recycling extends the life of a non-renewable deposit, but it does not make extraction sustainable for ever. It buys time for substitutes to be found.
+
 ## Next steps
 
 Try the [practice set](/resources/ib-dp-economics-sustainable-development-practice/), then use the [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/). The wider course map is in the [IB DP Economics syllabus guide](/resources/ib-dp-economics-syllabus-guide/), and poverty measures are in [inequality and poverty](/resources/ib-dp-economics-inequality-and-poverty/). Check your readiness with the [free diagnostics](/diagnostics/).

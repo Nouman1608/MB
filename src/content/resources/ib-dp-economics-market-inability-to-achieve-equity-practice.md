@@ -141,6 +141,20 @@ This set covers **sub-topic 2.12, the market's inability to achieve equity**, wh
 - Stating a cause with no effect on the distribution.
 - Rounding too early in multi-year compounding questions.
 
+## Frequently asked questions
+
+**Is the market's inability to achieve equity HL only in IB Economics?**
+Yes. Sub-topic 2.12 of the IB DP Economics guide is HL only, so every question on this page is HL only. It is taught at AO2 depth, application and analysis.
+
+**Should a free market circular flow diagram include the government?**
+No. The point of the diagram is the market's own result, so draw only households and firms, name the factor market and the product market, and label the four factor incomes. Adding a government is a common way to lose marks.
+
+**How do you work out a group's share of total income from a table?**
+Add the incomes of the households in the group, divide by total income for the whole economy and multiply by 100. Dividing by the wrong total, such as a household's own income, is a common error.
+
+**How do you avoid errors in multi-year wealth calculations?**
+Show the working for each year, carrying the new wealth figure into the next year's interest, and avoid rounding until the end. Rounding too early is a frequent cause of lost marks.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ib-dp-economics-market-inability-to-achieve-equity/) for any question that cost you marks.

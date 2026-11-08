@@ -184,6 +184,23 @@ Another check. If the number of consumers rises by 10% so that every price attra
 
 The guide defines "draw" as a labelled, accurate diagram. It defines "explain" as a detailed account with reasons or causes, and "distinguish" as making the differences clear. A question that says "explain" wants a cause-and-effect chain, not just a label. A question that says "draw" will not give credit for a diagram without labels. Written papers in the guide include an extended-response paper and a data-response paper that contains some quantitative questions, so be ready to calculate with simple demand schedules and equations as well as to draw.
 
+## Frequently asked questions
+
+**What is the law of demand?**
+The law of demand says that, other things unchanged, a lower price raises the quantity demanded and a higher price reduces it. It concerns only the price of that good.
+
+**What is the difference between the income effect and the substitution effect?**
+The substitution effect is about relative prices: when a good becomes cheaper, consumers switch towards it and away from alternatives. The income effect is about purchasing power: a lower price lets a given income buy more. Both are HL only.
+
+**What is diminishing marginal utility?**
+Marginal utility is the extra satisfaction from consuming one more unit. As a person consumes more, each extra unit gives less satisfaction, so they buy more only if the price falls, which helps explain the law of demand.
+
+**What is an inferior good?**
+An inferior good is one people buy less of as their income rises, because they switch to better alternatives. For an inferior good, higher income shifts the demand curve left.
+
+**How do future price expectations affect demand?**
+If consumers expect the price to rise, they buy more now, so current demand shifts right. If they expect it to fall, they wait, so current demand shifts left.
+
 ## Next steps
 
 Compress this into the [revision notes](/resources/ib-dp-economics-demand-revision-notes/), then try the [practice set](/resources/ib-dp-economics-demand-practice/). For the wider unit, see the [demand, supply and equilibrium guide](/resources/ib-dp-economics-demand-supply-equilibrium/) and the [exam preparation page](/resources/ib-dp-economics-exam-preparation/).

@@ -111,6 +111,20 @@ Country T's basket for the CPI has four groups. The base year is 2024 (all group
 - Ignoring the data in the question, such as the loan return or the exchange rate.
 - Concluding "it depends" without saying on what.
 
+## Frequently asked questions
+
+**How do you calculate the rate of inflation from the CPI?**
+Subtract the old CPI from the new CPI, divide by the old CPI and multiply by 100. A negative answer means prices fell, which is deflation, so keep the minus sign.
+
+**How do you calculate a weighted CPI?**
+Multiply each group's price index by its weight, add the results, and divide by the total of the weights. Show each step, because the working earns marks in a calculation question.
+
+**How do you tell whether a pay rise is a real pay rise?**
+Compare the percentage rise in pay with the rate of inflation, or divide the new pay by the price change to convert it to real terms. If prices rose faster than pay, real pay has fallen.
+
+**What are the common mistakes in Edexcel IGCSE Economics inflation questions?**
+Frequent slips include definitions that miss "general" or "sustained", dividing by the new CPI instead of the old one, reading a CPI of 106.8 as 106.8% inflation, and swapping menu costs with shoe leather costs.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/edexcel-igcse-economics-inflation-deflation-and-the-cpi/) and the [revision notes](/resources/edexcel-igcse-economics-inflation-deflation-and-the-cpi-revision-notes/).

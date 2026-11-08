@@ -227,6 +227,23 @@ Sustainability issues such as climate change cross borders, so one country actin
 - Calling every shared resource a public good. A common pool resource is rivalrous; a public good is not.
 - (HL) Using the price, or the whole quantity gap, as the triangle height. The height is the MSC to MSB gap at the market output.
 
+## Frequently asked questions
+
+**What is the tragedy of the commons?**
+Each user of a common pool resource gains the full benefit of an extra unit taken but shares the cost of depletion with everyone, so users take too much. Over time the resource can be overused and run down, which is unsustainable production.
+
+**What is the difference between a merit good and a demerit good?**
+Merit goods, such as education and vaccination, are consumed too little because people undervalue their benefits or others benefit too. Demerit goods, such as tobacco, are consumed too much because people underestimate the harm.
+
+**How does a Pigouvian tax correct a negative externality?**
+A tax equal to the marginal external cost shifts the MPC curve up to MSC, so output falls to the socially optimum level where MSB equals MSC.
+
+**What policies can governments use to deal with externalities?**
+The IB DP Economics guide covers indirect and carbon taxes, subsidies, legislation and regulation, education and awareness, tradable permits, international agreements, collective self-governance and government provision.
+
+**Why is international cooperation on climate change difficult?**
+Sustainability issues cross borders, so one country cannot solve them alone, but countries differ in income and priorities, and agreements need monitoring and enforcement to work.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published February 2020, International Baccalaureate Organization. This page covers sub-topic 2.8 (Unit 2: Microeconomics).

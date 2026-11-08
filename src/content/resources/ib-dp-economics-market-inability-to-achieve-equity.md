@@ -192,6 +192,23 @@ Command terms at AO2 ask you to apply and analyse, so assemble your answer as a 
 - Treating "unequal" as the same as "unfair" without saying why. Keep equity as a judgement, and the market result as an explanation.
 - Giving figures from memory as if they were fact. Use a clearly labelled example and explain it.
 
+## Frequently asked questions
+
+**Why does a free market lead to unequal incomes?**
+Households own different factors, factor prices are set by demand and supply, skills and training are unequally spread, wealth earns income that builds more wealth, and the market has no rule that reflects need.
+
+**Where in the circular flow is inequality created?**
+Inequality is created in the factor market. Each household's income depends on how many units of each factor it owns and the price each factor earns.
+
+**Why does wealth inequality tend to grow over time?**
+A household with capital receives interest or profit without selling more labour. If it saves part of that income, its wealth grows, which raises its future income, so the gap with poorer households widens.
+
+**Should you discuss government policy in an answer on sub-topic 2.12?**
+Generally no. The guide sets this sub-topic at AO2 depth, so focus on explaining the workings of the market rather than arguing for a policy response.
+
+**Why are some workers paid much more than others in a free market?**
+Wages are set by demand and supply in each labour market. Where a type of labour is scarce and strongly demanded, often because it needs years of training, its wage is high; where many people offer the same skill, the wage is low.
+
 ## Next steps
 
 Work through the [revision notes](/resources/ib-dp-economics-market-inability-to-achieve-equity-revision-notes/) for a short version, then the [practice questions](/resources/ib-dp-economics-market-inability-to-achieve-equity-practice/). If you are unsure how this unit fits with demand, supply and equilibrium, read the [demand, supply and equilibrium study guide](/resources/ib-dp-economics-demand-supply-equilibrium/).

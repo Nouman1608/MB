@@ -234,6 +234,23 @@ An MNC's subsidiary in Host H earns 40 million profit. Host H taxes profit at 28
 - Treating FDI and MNC as the same thing. FDI is the investment. The MNC is the firm that makes it.
 - Writing that all effects are good or all bad, with no judgement.
 
+## Frequently asked questions
+
+**What is the difference between an MNC and FDI?**
+A multinational corporation (MNC) is a firm that produces or sells through its own branches in two or more countries. Foreign direct investment (FDI) is the investment itself, such as building a plant or buying business assets in another country, so the MNC is the firm and FDI is how it sets up abroad.
+
+**What are the reasons for globalisation?**
+The Edexcel IGCSE Economics (4EC1) specification gives four: fewer tariffs and quotas, lower transport costs, lower communication costs, and the growing importance of multinational corporations.
+
+**How does globalisation raise living standards?**
+Trade and investment raise output and incomes, and cheaper imported goods let a fixed income buy more. The gains may go mainly to richer groups or cities, and only last while households keep their incomes.
+
+**Why does globalisation close traditional industries?**
+Cheaper imports undercut older industries, which lose sales and shed workers. In the short run unemployment can rise because the laid-off workers may lack the skills for the new jobs created.
+
+**Is globalisation good or bad for the environment?**
+It can be both. More production and transport raise emissions, resource use and waste, especially where rules are weak, but cleaner methods can also spread between countries.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, published by Pearson Education Limited: Paper 2, section 2.2 The global economy, 2.2.1 Globalisation.

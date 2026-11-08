@@ -217,6 +217,23 @@ When you evaluate, state a judgement. For example: a tariff suits a government t
 - Mixing up a tariff per unit (3 c) with a tariff rate (20% of 15 c). State which you are using.
 - Listing reasons for protection with no chain of reasoning.
 
+## Frequently asked questions
+
+**What is protectionism in economics?**
+Protectionism means policies that shield home producers from foreign competition, such as tariffs, quotas and subsidies. The Edexcel IGCSE Economics (4EC1) specification covers these in section 2.2.2.
+
+**What are the reasons for protection?**
+The specification lists seven: preventing dumping, protecting employment, protecting infant industries, gaining tariff revenue, protecting consumers from unsafe products, reducing current account deficits, and retaliation. Each needs a short chain of reasoning in an answer.
+
+**How do you show a tariff on a supply and demand diagram?**
+Draw a horizontal line at the world price and a second, higher line at the world price plus the tariff. Read home supply and demand off each line; imports are the gap between them. A tariff moves the price line buyers face, not the home supply curve.
+
+**Why can a very high tariff raise less revenue than a moderate one?**
+Tariff revenue equals the tariff per unit times imports after the tariff. As the tariff rises, imports fall, so revenue rises at first, reaches a peak and then falls as imports collapse.
+
+**What is a trade war?**
+A trade war can start when one country answers another country's tariff with a tariff of its own, as retaliation. Each side's exports then fall.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited. Section 2.2.2 a), b) and c).

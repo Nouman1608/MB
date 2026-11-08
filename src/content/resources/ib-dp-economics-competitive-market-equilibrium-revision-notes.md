@@ -198,6 +198,20 @@ All the markets here are fictional and the figures are invented.
 - Stating the effect on price but not on quantity, or the reverse.
 - Writing that a decrease in supply is a contraction of supply, when it is a shift of the curve.
 
+## Frequently asked questions
+
+**What is competitive market equilibrium in IB DP Economics?**
+Equilibrium is the price at which quantity demanded equals quantity supplied, so there is no shortage or surplus. It is sub-topic 2.3 of Unit 2 (Microeconomics) in the IB DP Economics guide.
+
+**What is the difference between consumer surplus and consumer spending?**
+Consumer spending is price times quantity. Consumer surplus is the extra value buyers get above what they pay, shown as the area under the demand curve and above the price line.
+
+**What is the difference between signalling and incentive in the price mechanism?**
+Signalling means the price carries information about scarcity. The incentive function means the price changes behaviour, for example a higher price encourages producers to supply more.
+
+**Does allocative efficiency mean the outcome is fair?**
+No. Allocative efficiency is about marginal benefit equalling marginal cost, so no reallocation can raise social surplus. It says nothing about how that surplus is shared between people.
+
 ## Official syllabus
 
 Source document: *Economics guide* for the Diploma Programme, first assessment 2022, from the International Baccalaureate Organization. All figures are invented for illustration.

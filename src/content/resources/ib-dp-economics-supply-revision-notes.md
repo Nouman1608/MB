@@ -103,6 +103,20 @@ Method in steps:
 
 **Memory hook.** Anything that raises cost per unit shifts S left. Anything that lowers cost per unit, or adds producers, shifts S right.
 
+## Frequently asked questions
+
+**What is the law of supply in IB DP Economics?**
+Ceteris paribus, a higher price leads to a greater quantity supplied, so the supply curve slopes upward. It is part of sub-topic 2.2 of the IB DP Economics guide.
+
+**What is the difference between joint supply and competitive supply?**
+In joint supply, goods are produced together, so a higher price for one, such as lamb, raises the supply of the other, such as wool. In competitive supply, goods use the same resources, so a higher price for one reduces the supply of the other.
+
+**What is the difference between an expansion of supply and an increase in supply?**
+An expansion of supply is a movement along the curve caused by a rise in the good's own price. An increase in supply is a rightward shift of the whole curve caused by a non-price determinant.
+
+**How do indirect taxes and subsidies affect supply?**
+An indirect tax adds a cost to each unit sold, so the supply curve shifts up or left by the tax per unit. A subsidy lowers the producer's cost per unit, so supply shifts down or right.
+
 ## Related goods in one line each
 
 - **Competitive supply**: same inputs, either good. Oats up in price, wheat supply down.

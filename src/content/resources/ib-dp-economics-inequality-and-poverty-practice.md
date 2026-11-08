@@ -135,6 +135,20 @@ The [study guide](/resources/ib-dp-economics-inequality-and-poverty/) and [revis
 - Listing policies without weighing costs, speed and side effects.
 - Giving a one-sided answer to "examine" or "evaluate" questions.
 
+## Frequently asked questions
+
+**How do you construct a Lorenz curve from income quintile data?**
+Add the income shares cumulatively from the poorest fifth upwards, then plot each cumulative income share against the cumulative percentage of households (20, 40, 60, 80, 100), starting from the origin. This construction is HL only.
+
+**How do you calculate total tax and the average tax rate with tax bands?**
+Work out the tax on the income in each band at that band's rate and add them up. The average tax rate is total tax divided by income, times 100. These calculations are HL only.
+
+**How do you tell whether a tax is progressive from data?**
+Work out the tax as a percentage of income for each household. If the percentage rises as income rises the tax is progressive, if it falls it is regressive, and if it stays the same it is proportional. Paying more in total does not make a tax progressive.
+
+**What are common mistakes in IB Economics inequality questions?**
+Common slips include leaving the Lorenz curve axes unlabelled, confusing the marginal tax rate with the average rate, and listing policies without evaluating their cost, speed and side effects.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ib-dp-economics-inequality-and-poverty/) for any part you missed, then rework the weakest questions.

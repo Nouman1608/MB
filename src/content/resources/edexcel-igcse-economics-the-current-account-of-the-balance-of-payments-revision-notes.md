@@ -230,6 +230,20 @@ Extension to a consequence: lower export sales mean exporting firms earn less, m
 - Forgetting units, such as billions of the local currency.
 - Giving an evaluation point that is not tied to the context given.
 
+## Frequently asked questions
+
+**What is the current account of the balance of payments?**
+The current account records the money flowing into and out of a country from trade in goods and services in a period, usually a year. In the Pearson Edexcel International GCSE Economics (4EC1) specification it is statement 2.1.1 d), and a surplus or balance is the objective.
+
+**What is the difference between visibles and invisibles?**
+Visibles are traded goods you can see and touch, such as machinery, food or oil. Invisibles are traded services, such as tourism, banking, insurance, transport and education.
+
+**How does a depreciation affect the current account?**
+A depreciation makes exports cheaper for foreign buyers and imports dearer at home, so the current account tends to move toward surplus. This is a tendency, because the result depends on how strongly buyers respond to price.
+
+**Is a current account surplus always good?**
+No. A country with a surplus gives up goods it could have enjoyed, and the upward pressure on its currency can hurt its exporters later.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 2.1.1 d).

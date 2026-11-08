@@ -238,6 +238,23 @@ How governments reduce a deficit is a different part of the specification and is
 - Treating a deficit as always harmful.
 - Listing causes without linking them to the effect on exports or imports.
 
+## Frequently asked questions
+
+**What causes a current account deficit?**
+The Edexcel specification gives reasons linked to quality, price and exchange rates: low-quality or expensive domestic goods, high-quality or cheap foreign goods, and a rising exchange rate all push the current account toward deficit.
+
+**Why does a current account deficit cause a leakage from the economy?**
+Money spent on imports becomes income for foreign producers and leaves the circular flow. A persistent deficit means more money leaves the economy than enters it, reducing spending at home.
+
+**How can a current account deficit be inflationary?**
+Firms that import materials pay more when foreign prices rise or the currency falls. They may pass these higher costs on to customers, which pushes up the general price level.
+
+**Why does a persistent deficit tend to push a currency down?**
+With a deficit, residents supply more of the currency to buy imports than foreigners demand to buy exports. Where the rate is set by market forces, this extra supply puts downward pressure on the currency.
+
+**Is a current account deficit always bad?**
+No. A small deficit relative to GDP may be easy to fund, and importing machinery can raise future output. A large or rising deficit as a share of GDP is more worrying.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 2.1.1 d) in Paper 2: Macroeconomics and the Global Economy.

@@ -126,6 +126,20 @@ Small share of income [1]: a packet costs very little compared with income [1], 
 - Treating a revenue rise after a price rise as a sign of elastic demand.
 - Giving an evaluation with no conclusion.
 
+## Frequently asked questions
+
+**How do you calculate price elasticity of demand?**
+Divide the percentage change in quantity demanded by the percentage change in price. Work out each percentage change as (new − old) ÷ old × 100, using the starting figure as the base.
+
+**Do you need to say whether demand is elastic or inelastic after calculating PED?**
+Yes. A number on its own is not an interpretation, so state whether the value means demand is elastic, inelastic or unitary, and refer to the figures you calculated.
+
+**How do you describe an elasticity diagram for full marks?**
+Name the axes, with price on the vertical axis and quantity on the horizontal axis, and label each curve. When comparing two curves through the same point, the flatter curve is the more elastic one.
+
+**What are the common mistakes in Edexcel IGCSE Economics elasticity questions?**
+Common slips include using the later figure as the base of a percentage change, defining elasticity as "how much" without the idea of responsiveness, dropping the minus sign for an inferior good, and naming a factor without linking it to the product in the question.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use-revision-notes/) or re-read the [study guide](/resources/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use/).

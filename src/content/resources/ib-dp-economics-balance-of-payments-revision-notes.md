@@ -236,6 +236,20 @@ The deficit widens, as the sum is below 1.
 - Listing implications of a deficit with no judgement of size, cause or financing.
 - Describing correction methods without saying which cause each one fits.
 
+## Frequently asked questions
+
+**What are the three accounts of the balance of payments?**
+The current account records trade in goods and services, income and current transfers; the capital account records capital transfers and non-produced, non-financial assets; and the financial account records FDI, portfolio investment, reserve assets and official borrowing. This is sub-topic 4.6 of the IB DP Economics guide.
+
+**Why does the balance of payments always sum to zero?**
+Every transaction has two sides, so each debit has a matching credit. A deficit on one account is therefore matched by a surplus on another.
+
+**What is the difference between FDI and portfolio investment?**
+Foreign direct investment means buying or building a lasting stake in a business abroad, such as a new factory. Portfolio investment means buying shares or bonds without seeking control.
+
+**Which parts of balance of payments are HL only in IB Economics?**
+The links between the current and financial accounts and the exchange rate, the implications of persistent deficits and surpluses, correction methods, and the Marshall-Lerner condition and J-curve are HL only. Credits, debits, the components and why the accounts balance are for both SL and HL.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020), sub-topic 4.6 Balance of payments (includes HL only sub-topics).

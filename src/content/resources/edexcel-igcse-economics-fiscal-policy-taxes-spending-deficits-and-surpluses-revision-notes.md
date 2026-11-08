@@ -261,6 +261,20 @@ A short evaluation structure: make a point, add its limit, then give a judgement
 - Giving a conclusion in an evaluation answer that does not follow from the points made.
 - Ignoring the objective named in the question, such as the current account.
 
+## Frequently asked questions
+
+**What is fiscal policy in Edexcel IGCSE Economics?**
+In the Pearson Edexcel International GCSE Economics (4EC1) specification, fiscal policy is the government's use of taxation and government spending to influence the economy and meet its macroeconomic objectives. It is specification point 2.1.2 a), tested in Paper 2.
+
+**What is the difference between a direct tax and an indirect tax?**
+A direct tax is charged on income or profit and paid straight to the government by whoever is taxed, such as income tax or corporation tax. An indirect tax is charged on spending, collected by sellers and included in the price, such as sales tax, VAT or excise duties.
+
+**What is the difference between expansionary and contractionary fiscal policy?**
+Expansionary fiscal policy means higher government spending, lower taxes or both, to raise total demand. Contractionary fiscal policy means lower spending, higher taxes or both, to reduce total demand.
+
+**Why does a sales tax take a bigger share of income from poorer households?**
+Low-income households spend most or all of their income, so more of their income goes on taxed goods. Richer households save more, so the same tax rate takes a smaller share of their income.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, published by Pearson Education Limited, section 2.1.2 a).

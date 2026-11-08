@@ -265,6 +265,23 @@ The driver decides on 4.20, not 6.00, so too many trips are made.
 - Treating the formulae as a diagram. Section 1.1.6 asks for definitions, examples and the two formulae.
 - Saying privatisation always raises efficiency, or always raises prices. Give the chain and say what it depends on.
 
+## Frequently asked questions
+
+**What are the two characteristics of a public good?**
+A public good is non-excludable, meaning nobody can be stopped from using it once it is provided, and non-rival, meaning one person's use does not reduce the amount left for others. Street lighting, flood barriers and national defence are examples.
+
+**What is privatisation?**
+Privatisation means a business or asset passes out of government ownership and into the private sector.
+
+**What is an externality?**
+An externality is a cost or benefit of an activity that falls on a third party, someone who is neither the buyer nor the seller. Pollution from a factory is an external cost of production, and vaccination gives an external benefit of consumption.
+
+**Why do markets produce too much of goods with external costs?**
+Firms weigh only their private costs, so they ignore the external cost imposed on third parties. They therefore produce more than is best for society.
+
+**Is education a public good?**
+No. Schooling is often provided by the government, but pupils can be excluded and places are rival, so it is not a public good. Education does give external benefits of consumption.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, sections 1.1.5 and 1.1.6.

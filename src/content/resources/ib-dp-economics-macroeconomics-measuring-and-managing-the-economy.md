@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-economics-unit-3"
     subtopic: "ib-dp-economics-3-3"
-description: "Measuring economic activity, aggregate demand and aggregate supply, and macroeconomic objectives -- sub-topics 3.1-3.3 of IB Diploma Programme Economics Unit 3 Macroeconomics, first assessment 2022."
+description: "IB DP Economics study guide to sub-topics 3.1 to 3.3: GDP and GNI, the business cycle, the AD-AS model and macroeconomic objectives, with HL content noted."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **sub-topics 3.1 to 3.3** of Unit 3 Macroeconomics,
@@ -227,6 +229,23 @@ demand-side or supply-side shock is the more likely explanation.
   <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What is the difference between GDP and GNI?**
+GDP measures the total output or income of an economy. GNI is GDP plus net income from abroad, meaning income residents earn abroad minus income paid to non-residents, so GNI can be above or below GDP.
+
+**What are the phases of the business cycle?**
+The business cycle runs through expansion, peak, contraction (recession) and trough.
+
+**What is the difference between a recession and slower growth?**
+A recession is a fall in the level of real output. Slower growth is a fall in the growth rate while output is still rising. IB data-response questions frequently test this distinction.
+
+**What shifts the AD curve and what shifts the AS curve?**
+A change in one of AD's four components, consumption, investment, government spending or net exports, shifts AD. A change in production costs, productivity or productive capacity shifts AS.
+
+**What are the macroeconomic objectives in IB DP Economics?**
+In sub-topic 3.3 they are economic growth, low unemployment and low and stable inflation at both SL and HL, plus a sustainable level of government debt at HL only. Evaluation questions often ask how these objectives conflict, such as growth versus inflation.
 
 ## Official syllabus
 

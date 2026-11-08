@@ -253,6 +253,23 @@ To evaluate, weigh these against each other, ask which gap is being closed, how 
 
 In the guide's assessment outline, Paper 1 asks for extended responses (choose one of three), Paper 2 is data response with some quantitative questions, and the HL policy paper is Paper 3. HL-only content is examined only at HL. The command terms define the depth, so check whether you are asked to *explain* (reasons) or *evaluate* (strengths and limitations). Monetary policy is one of two demand-management policies; the other is covered in the [fiscal policy guide](/resources/ib-dp-economics-fiscal-policy/). For general advice see the [exam preparation page](/resources/ib-dp-economics-exam-preparation/). Take a free [10-minute diagnostic](/diagnostics/) when you are ready.
 
+## Frequently asked questions
+
+**How does a cut in interest rates affect aggregate demand?**
+Borrowing becomes cheaper, existing borrowers pay less interest, saving is less rewarding, more investment projects become worthwhile, and the exchange rate may fall. Consumption, investment and net exports rise, so AD shifts right.
+
+**What is inflation targeting?**
+Under inflation targeting, the government or central bank announces a numerical target for inflation and the central bank sets interest rates to keep inflation close to it.
+
+**Why is monetary policy less effective in a deep recession?**
+Interest rates cannot usefully go much below zero, so the central bank runs out of room to cut. If confidence is low, households and firms may not borrow even when credit is cheap, which is sometimes called pushing on a string.
+
+**What are the strengths of monetary policy?**
+It is incremental, flexible and easily reversible, because rates can move in small steps, and its effects begin relatively soon after a change, though the full effect takes time.
+
+**How do commercial banks create money?**
+Banks keep only a fraction of deposits as reserves and lend out the rest. Each loan becomes a new deposit elsewhere in the banking system, so total deposits can grow to a multiple of the original deposit. This is HL only.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization, February 2020, sub-topic 3.5.

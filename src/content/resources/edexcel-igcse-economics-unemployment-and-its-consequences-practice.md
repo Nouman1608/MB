@@ -134,6 +134,20 @@ Evaluation (up to 3): it depends on how many are affected and for how long [1]; 
 - Ignoring the data in the question, such as the 14% and 3% in the last question.
 - Reaching no conclusion in a question that asks you to evaluate.
 
+## Frequently asked questions
+
+**How do you calculate the unemployment rate?**
+Divide the number unemployed by the labour force and multiply by 100. The labour force is employed plus unemployed, so do not divide by the whole population or include the economically inactive.
+
+**What is the difference between a percentage change in unemployment and a change in percentage points?**
+If the rate rises from 7% to 8.75%, it has risen by 1.75 percentage points. The percentage change in the number unemployed is a different figure, worked out as the change divided by the original number, times 100.
+
+**How do you identify the type of unemployment in a question?**
+Match the cause in the case to the type: a downturn in total demand is cyclical, a declining industry or skills mismatch is structural, quiet months of the year are seasonal, refusing jobs at the going pay is voluntary, and moving between jobs is frictional.
+
+**What do you need to explain the cost of unemployment to the government?**
+Name both sides of the budget: the government pays more in benefits and collects less income tax and sales tax, because the unemployed earn and spend less. A chain from cause to effect earns more than a list.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-igcse-economics-unemployment-and-its-consequences-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-unemployment-and-its-consequences/).

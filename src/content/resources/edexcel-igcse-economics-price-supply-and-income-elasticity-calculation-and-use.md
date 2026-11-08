@@ -263,6 +263,23 @@ A subsidy raises consumption more when demand is elastic. Producers get 4.60 fro
 - Treating the sign as unimportant for YED. A negative YED means inferior.
 - Writing "elastic" with no reason. Quote the percentages compared.
 
+## Frequently asked questions
+
+**What does a PED of −0.5 mean?**
+Ignoring the sign, a value between 0 and 1 means demand is price inelastic: the percentage change in quantity demanded is smaller than the percentage change in price. Here a 10% price rise would cut quantity demanded by 5%.
+
+**What factors affect price elasticity of demand?**
+The main factors are the number and closeness of substitutes, how much of a necessity the good is, the percentage of income spent on it, and time. More substitutes, luxuries, a larger share of income and a longer time period all make demand more elastic.
+
+**How does the total revenue test show elasticity?**
+If a price rise makes total revenue fall, demand is elastic; if a price rise makes revenue rise, demand is inelastic. A price cut works the other way round.
+
+**Why is the supply of primary products less elastic than manufactured goods?**
+Farm and other primary output takes time to grow or extract and is hard to store or expand quickly. Factories can hold stock, run extra shifts and use spare capacity, so manufactured supply responds faster to a price change.
+
+**Why do governments tax goods with inelastic demand?**
+When demand is inelastic, quantity falls only a little after the tax raises the price, so the tax raises more revenue. However, a tax on a necessity takes a larger share of low incomes.
+
 ## Official syllabus
 
 Source: Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 1.1.4 Elasticity.

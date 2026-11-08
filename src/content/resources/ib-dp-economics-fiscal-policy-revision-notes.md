@@ -260,6 +260,20 @@ The guide describes Paper 1 as an extended response paper (25 marks, 1 hour and 
 - Describing crowding out as always happening, with no link to borrowing and interest rates.
 - Evaluation without a final judgment tied to the case in the question.
 
+## Frequently asked questions
+
+**What is fiscal policy in IB DP Economics?**
+Fiscal policy means changing government spending and taxes to steer aggregate demand and the wider economy. It is part of sub-topic 3.6 of the IB DP Economics guide, alongside monetary policy under demand management.
+
+**What is the difference between current and capital expenditure?**
+Current expenditure pays for the day-to-day running of government, such as wages and supplies. Capital expenditure buys or builds lasting assets, such as roads, schools and hospitals.
+
+**What are transfer payments?**
+Transfer payments pass money from taxpayers to recipients with no output produced in return, such as unemployment benefits and pensions. They are not spending on goods and services.
+
+**What is the difference between discretionary fiscal policy and automatic stabilisers?**
+Discretionary policy needs a new government decision to change spending or taxes. Automatic stabilisers, such as progressive taxes and unemployment benefits, cushion swings in activity without any new decision. Automatic stabilisers are HL only.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020), sub-topic 3.6 Demand management -- fiscal policy.

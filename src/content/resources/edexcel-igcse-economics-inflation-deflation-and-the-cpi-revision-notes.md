@@ -239,6 +239,20 @@ Always label both axes, both curves (old and new) and both equilibrium points.
 - Forgetting the real wage. A pay rise is not a gain if prices rose faster.
 - Evaluating with a bare "it depends" and no stated factor.
 
+## Frequently asked questions
+
+**What is inflation in Edexcel IGCSE Economics?**
+Inflation is a sustained rise in the general level of prices in an economy. In the Pearson Edexcel International GCSE Economics (4EC1) specification it sits under the objective of low and stable inflation, section 2.1.1 b).
+
+**What is the difference between demand-pull and cost-push inflation?**
+Demand-pull inflation starts with aggregate demand rising faster than the economy can produce, so the AD curve shifts right. Cost-push inflation starts with rising production costs, such as wages or raw materials, which shifts the AS curve left.
+
+**What is the difference between menu costs and shoe leather costs?**
+Menu costs are the costs to firms of changing prices, such as reprinting menus or relabelling goods. Shoe leather costs are the time and effort people spend protecting the value of their money, such as searching for lower prices or moving money.
+
+**Is a fall in the inflation rate the same as deflation?**
+No. If inflation falls from 5% to 2%, prices are still rising, only more slowly. Deflation means the general price level itself falls, so the CPI goes down.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), Specification Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited. Section 2.1.1 b), Low and stable inflation.

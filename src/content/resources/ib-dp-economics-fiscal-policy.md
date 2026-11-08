@@ -282,6 +282,23 @@ Fiscal policy can support growth through infrastructure and by lifting demand in
 - Describing crowding out as an effect that happens whenever the government spends, rather than when it borrows and interest rates rise.
 - Listing strengths and limits with no judgment about which matters more.
 
+## Frequently asked questions
+
+**What are the goals of fiscal policy?**
+The IB DP Economics guide names six: low and stable inflation, low unemployment, a stable environment for long-term growth, reduced business cycle fluctuations, an equitable distribution of income, and external balance.
+
+**What is the difference between expansionary and contractionary fiscal policy?**
+Expansionary policy raises government spending, cuts taxes or both, shifting AD right to close a deflationary gap. Contractionary policy cuts spending, raises taxes or both, shifting AD left to close an inflationary gap.
+
+**What is crowding out?**
+When the government borrows to finance a deficit, it competes with private borrowers for funds, so interest rates can rise and private investment falls. This reduces the net effect of the extra spending. Crowding out is HL only.
+
+**What are the constraints on fiscal policy?**
+The guide lists political pressure, time lags, the need for sustainable debt and, at HL, crowding out.
+
+**What are the strengths of fiscal policy?**
+Spending can be targeted at a sector, region or group, which a single interest rate cannot do, and it is effective in a deep recession when households and firms will not borrow even at low interest rates.
+
 ## Next steps
 
 Condense this with the [revision notes](/resources/ib-dp-economics-fiscal-policy-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-economics-fiscal-policy-practice/). See the [IB DP Economics syllabus guide](/resources/ib-dp-economics-syllabus-guide/) for where 3.6 fits.

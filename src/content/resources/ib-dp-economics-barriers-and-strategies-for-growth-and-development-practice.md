@@ -127,6 +127,20 @@ Evaluation: judge using conditions such as the strength of institutions [1], the
 - Giving a list of strategies in an evaluation without a judgement.
 - Confusing import substitution with export promotion.
 
+## Frequently asked questions
+
+**How do you draw a poverty cycle for full marks?**
+Show at least four linked factors joined by arrows that loop back to the start, such as low income, low saving and tax revenue, low investment and low productivity. Explain why each link leads to the next, because a list with no arrows or explanation loses marks.
+
+**What is the debt service ratio?**
+The debt service ratio is debt repayments, meaning interest plus capital, divided by export earnings, as a percentage. It is not the same as the total size of a country's debt.
+
+**How should you answer an IB Economics Paper 1 part (b) question on development strategies?**
+Explain the strategies with real-world examples, weigh their strengths and limitations, and reach a judgement on which works best and under what conditions. A list of strategies with no judgement scores poorly.
+
+**What are common mistakes in IB Economics growth and development questions?**
+Frequent errors include calculating the fall in earnings for one product but not for total exports, leaving out units, treating aid, FDI or privatisation as wholly good or bad, and explaining a barrier without applying it to a country.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ib-dp-economics-barriers-and-strategies-for-growth-and-development/), then rework the questions you missed.

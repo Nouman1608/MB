@@ -122,6 +122,20 @@ Expansionary policy shifts AD right and raises output and employment [1]. In a d
 - Naming a constraint without explaining how it limits policy.
 - Ending an evaluation with no overall judgment.
 
+## Frequently asked questions
+
+**How do you calculate the Keynesian multiplier?**
+Use 1 ÷ (1 − MPC) when saving is the only leakage, or 1 ÷ (MPS + MPT + MPM) when taxes and imports are given too. Then multiply the multiplier by the change in the injection to find the change in GDP. This is HL only.
+
+**How do you work out a government budget balance?**
+Add up total revenue and total expenditure and subtract expenditure from revenue. State whether the result is a surplus or a deficit, and show the sums in a calculate question.
+
+**Can you mix the Keynesian and monetarist models in one answer?**
+No. Draw and explain each school separately: Keynesian AS is flat, then rising, then vertical at full employment, while the monetarist/new classical view uses a vertical LRAS at potential output. Mixing them in one explanation loses marks.
+
+**How are IB Economics 10-mark evaluate questions on fiscal policy marked?**
+Real papers are marked against IB markbands, not point by point. Credit goes to answers that explain constraints and strengths, apply them to the case and end with an overall judgment.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ib-dp-economics-fiscal-policy-revision-notes/) and the [study guide](/resources/ib-dp-economics-fiscal-policy/).

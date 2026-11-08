@@ -260,6 +260,20 @@ Use the Lorvan market: Qd = 140 − 2P, Qs = 3P − 10, Pw = 20, quantities in t
 </figure>
 
 
+## Frequently asked questions
+
+**What are the types of trade protection in IB DP Economics?**
+Sub-topic 4.2 of the IB DP Economics guide covers tariffs, import quotas, subsidies to domestic producers, export subsidies and administrative barriers such as standards and regulations.
+
+**What is the difference between a specific and an ad valorem tariff?**
+A specific tariff is a fixed amount per unit imported. An ad valorem tariff is set as a share of the import's value.
+
+**What is quota rent?**
+Quota rent is the gain from the gap between the higher domestic price and the world price on each unit imported under a quota. Unlike tariff revenue, it goes to whoever holds the import licences unless the government sells them.
+
+**Does a subsidy to domestic producers raise the price consumers pay?**
+No. When a country imports the good, consumers still buy at the world price, so the consumer price is unchanged. Domestic output rises, imports fall and taxpayers pay for the subsidy.
+
 ## Official syllabus
 
 Source: IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization in February 2020. Sub-topic 4.2, Types of trade protection (includes HL only calculations).

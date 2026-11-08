@@ -243,6 +243,20 @@ The specification lists Evaluate as a command word that asks for a supported con
 - Writing "consumers are irrational" without a specific reason such as habit.
 - Stating a numerical answer with no working or no units where the question says "Calculate".
 
+## Frequently asked questions
+
+**What is scarcity in Edexcel IGCSE Economics?**
+Scarcity means wants are unlimited but resources are finite. In the Pearson Edexcel International GCSE Economics (4EC1) specification it is the starting point of section 1.1.1, the economic problem, and it affects rich and poor countries alike.
+
+**What is the difference between scarcity and a shortage?**
+Scarcity is permanent, because wants always outrun resources. A shortage is a market problem at one particular price, when quantity demanded is greater than quantity supplied.
+
+**What do points inside and outside a PPF mean?**
+A point inside the PPF is possible but wasteful, because some resources are unemployed or not fully used. A point outside the PPF cannot be reached with the economy's current resources and technology.
+
+**Does economic growth remove scarcity?**
+No. Growth shifts the PPF outwards, but wants rise too, so choices and opportunity costs remain.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited, sections 1.1.1 and 1.1.2.

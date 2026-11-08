@@ -122,6 +122,20 @@ This set follows the IB Diploma Programme *Economics guide* (first assessment 20
 - Stating a recommendation without comparing it against the alternatives.
 - Treating satisficing as a lack of effort rather than a target-based aim.
 
+## Frequently asked questions
+
+**Is the critique of maximising behaviour HL only in IB Economics?**
+Yes. Sub-topic 2.4 of the IB DP Economics guide, covering rational consumer choice, behavioural economics, nudges and business objectives, is HL only, so every question on this page is marked HL only.
+
+**How do you calculate the real saving in an anchoring question?**
+Compare the sale price with the price the item usually sells for, not with the higher "was" price. Divide the difference by the usual price and multiply by 100, using the right base for the percentage.
+
+**Is a tax or a ban a nudge?**
+No. A nudge steers behaviour while leaving every option open and without changing prices much. Calling a tax, ban or legal requirement a nudge is a common way to lose marks.
+
+**How do you write a strong evaluate answer on behavioural economics?**
+Link each bias or bounded behaviour to the assumption of rational choice it breaks and to the case in the question, then weigh evidence for and against the model. Finish with a reasoned judgement, because the guide sets this unit at evaluation level.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ib-dp-economics-critique-of-maximising-behaviour-revision-notes/) and the [study guide](/resources/ib-dp-economics-critique-of-maximising-behaviour/).

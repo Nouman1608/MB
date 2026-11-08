@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on demand, supply, equilibrium, elasticity and market failure."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -122,3 +124,17 @@ D) A television set **[1]**
 - Explaining a shift without stating "at every price".
 - Dropping the negative sign but then misinterpreting the value.
 - Saying a firm with elastic demand should raise price.
+
+## Frequently asked questions
+
+**How do you answer "explain the effect on the market" questions in GCSE Economics?**
+Say which curve shifts, in which direction and why, then describe the new equilibrium and the effect on both price and quantity. Stating "at every price" when explaining a shift helps show you understand it.
+
+**How do you calculate price elasticity of demand?**
+Divide the percentage change in quantity demanded by the percentage change in price. If the answer, ignoring the minus sign, is greater than 1 demand is elastic, and if it is less than 1 demand is inelastic.
+
+**Should a firm with elastic demand raise its price?**
+No. With elastic demand, quantity demanded falls by a larger percentage than the price rises, so total revenue falls. A firm facing inelastic demand can raise revenue by raising its price.
+
+**What are common mistakes in AQA GCSE Economics market questions?**
+Common slips include saying a change in the good's own price shifts the demand curve, explaining a shift without "at every price", and misreading the elasticity value after dropping the negative sign.

@@ -222,6 +222,20 @@ Conclusion to aim for: the link is positive but conditional. Use a named case wi
 - Stopping an evaluation after one side, with no supported judgement at the end.
 - Mixing up IHDI and GII: one adjusts HDI for inequality in general, the other measures gender disadvantage.
 
+## Frequently asked questions
+
+**What is the difference between single and composite indicators of development?**
+A single indicator measures one aspect of development, such as GNI per person at PPP or life expectancy. A composite indicator, such as the HDI, combines several measures into one number so countries can be ranked and compared.
+
+**What does the Human Development Index measure?**
+The HDI combines three dimensions: health, measured by life expectancy at birth; education, measured by mean and expected years of schooling; and standard of living, measured by GNI per person at PPP. It is part of sub-topic 4.8 of the IB DP Economics guide.
+
+**Is a higher Gender Inequality Index better or worse?**
+Worse. The GII runs from 0 to 1, and a higher value means more inequality between women and men, unlike the HDI where higher is better.
+
+**What is the inequality adjusted HDI?**
+The IHDI starts from the HDI and adjusts each dimension for how unequally it is spread across people. If there is no inequality, the IHDI equals the HDI; otherwise it is lower.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020). This page covers sub-topic 4.8.

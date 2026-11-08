@@ -18,7 +18,7 @@ syllabusTopics:
     topic: "ib-dp-economics-unit-3"
   - qualification: "ib-dp"
     topic: "ib-dp-economics-unit-4"
-description: "The four units of the IB Diploma Programme Economics syllabus -- Introduction to economics, Microeconomics, Macroeconomics and The global economy -- with the real HL-only content marked, for first assessment 2022."
+description: "The four units of IB DP Economics, first assessment 2022: introduction, microeconomics, macroeconomics and the global economy, with HL-only content marked."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
@@ -194,6 +194,23 @@ practice deserves dedicated revision time separate from content recall.
 For a paper-by-paper exam-day plan -- diagram practice, evaluation-writing
 strategy, and HL Paper 3's policy focus -- see the
 [exam preparation guide](/resources/ib-dp-economics-exam-preparation/).
+
+## Frequently asked questions
+
+**What are the four units of IB DP Economics?**
+Unit 1 is Introduction to economics, Unit 2 is Microeconomics, Unit 3 is Macroeconomics and Unit 4 is The global economy. Recommended teaching time is 150 hours at SL and 240 hours at HL.
+
+**Which IB Economics sub-topics are HL only?**
+Sub-topics 2.4 (critique of maximising behaviour), 2.10 (asymmetric information), 2.11 (market power) and 2.12 (the market's inability to achieve equity) are wholly HL only. Several other sub-topics include HL-only extensions or calculations.
+
+**How is the IB Economics internal assessment structured?**
+The IA is a portfolio of three commentaries, each on a different unit other than Unit 1 and based on a published news extract. Each commentary has a maximum of 800 words, uses a different key concept, and the portfolio is marked out of 45.
+
+**What are the key concepts in IB Economics?**
+The nine key concepts are scarcity, choice, efficiency, equity, economic well-being, sustainability, change, interdependence and intervention. Each IA commentary must use a different one.
+
+**How much of the IB Economics grade comes from exams?**
+At SL, Paper 1 and Paper 2 together are worth 70% of the grade. At HL, adding Paper 3, the policy paper, takes external assessment to 80% of the grade.
 
 ## Source
 

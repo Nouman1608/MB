@@ -245,6 +245,20 @@ A 10% sales tax on 6,200 of taxed spending: 6,200 x 0.10 = 620.
 - Listing causes or policies with no mechanism and no evaluation.
 - Giving a one-sided account of the effects of inequality when the question asks for judgement.
 
+## Frequently asked questions
+
+**What is the difference between equality and equity?**
+Equality describes similar outcomes for different people or groups. Equity is about fairness, which is a normative idea, so people disagree about what is equitable. This is part of sub-topic 3.4 of the IB DP Economics guide.
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty means income or consumption below a fixed standard needed for basic needs such as food, shelter and clothing. Relative poverty means income well below the typical level in a society, such as below a share of median income, so it moves as the society gets richer.
+
+**What is the Gini coefficient?**
+The Gini coefficient summarises the Lorenz curve as one number: the area between the line of equality and the Lorenz curve, divided by the whole area under the line of equality. A higher value means more inequality.
+
+**What is the Multidimensional Poverty Index?**
+The MPI is a composite indicator that looks beyond income to deprivation in health, education and living standards.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020). This page covers sub-topic 3.4.

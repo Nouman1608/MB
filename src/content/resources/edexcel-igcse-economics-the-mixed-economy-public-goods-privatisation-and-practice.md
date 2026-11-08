@@ -144,6 +144,20 @@ These questions cover sections 1.1.5 (The mixed economy) and 1.1.6 (Externalitie
 - Describing the free rider problem as people refusing to use a good.
 - Listing effects of privatisation on all four groups with no judgement.
 
+## Frequently asked questions
+
+**How do you calculate social cost and social benefit?**
+Social cost equals private cost plus external cost, and social benefit equals private benefit plus external benefit. For a total, multiply the per-unit figure by the quantity produced or consumed.
+
+**How do you measure the size of the public sector?**
+One measure is government spending as a percentage of national output: divide government spending by national output and multiply by 100. Another is the share of workers employed by the government.
+
+**What terms should you use to describe a public good?**
+Use the exact terms non-excludable and non-rival, and explain each. Writing "shared" or "used by everyone" instead does not earn the marks.
+
+**How do you evaluate privatisation in an Edexcel IGCSE Economics answer?**
+Weigh the gains, such as sale proceeds and a profit motive that may cut costs, against the losses, such as higher prices and job cuts. Reach a judgement that depends on the facts given, especially whether the firm will face competition.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and-revision-notes/).

@@ -195,6 +195,20 @@ The guide sets this at evaluation depth. Finish with a judgement: the theory exp
 - Listing limitations of the theory without saying how serious each one is, which leaves the answer without a judgement.
 - Showing only a final number in a calculation. The guide's meaning of calculate requires the stages of working.
 
+## Frequently asked questions
+
+**What are the benefits of international trade in IB DP Economics?**
+Sub-topic 4.1 of the IB DP Economics guide lists nine: increased competition, lower prices, greater choice, acquisition of resources, more foreign exchange earnings, access to larger markets, economies of scale, more efficient resource allocation and more efficient production.
+
+**What is the difference between absolute and comparative advantage?**
+Absolute advantage compares output: a country makes a good with fewer resources than its partner. Comparative advantage compares opportunity cost: a country makes a good at a lower opportunity cost than its partner.
+
+**Does a country that is better at producing everything still gain from trade?**
+Yes. Even with an absolute advantage in both goods, it has a comparative advantage in the good with the lower opportunity cost. Specialising in that good and trading lets both countries consume beyond their own PPC.
+
+**Is comparative advantage HL only in IB Economics?**
+Yes. Absolute and comparative advantage, the related calculations and the limitations of the theory are HL only, while the benefits of trade and the free trade diagrams are for SL and HL.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization in February 2020. This page covers sub-topic 4.1 of Unit 4, The global economy.

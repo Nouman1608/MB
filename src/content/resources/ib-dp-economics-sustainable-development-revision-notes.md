@@ -224,6 +224,20 @@ Together they can form a vicious circle. Policies that tackle both at once, such
 - Giving constraints with no explanation of why they limit action.
 - Writing about progress in particular countries, which belongs to 4.10 and not here.
 
+## Frequently asked questions
+
+**What is sustainable development in IB DP Economics?**
+Sustainable development means raising living standards and meeting present needs while leaving later generations able to meet theirs. It is sub-topic 4.7 of the IB DP Economics guide.
+
+**What are the Sustainable Development Goals?**
+The SDGs are 17 global goals agreed by United Nations member states in 2015, with 2030 as the target date.
+
+**When is the use of a renewable resource sustainable?**
+Use is sustainable if the amount taken each year does not exceed the amount the resource regenerates. Calling any resource use unsustainable is a common error.
+
+**Why do markets over-use natural resources?**
+Markets tend to over-use resources that nobody owns or that carry an unpriced cost, which links sustainability to common pool resources and external costs.
+
 ## Official syllabus
 
 Source: *Economics guide*, IB Diploma Programme, first assessment 2022 (International Baccalaureate Organization, February 2020). Sub-topic 4.7.

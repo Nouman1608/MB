@@ -127,6 +127,20 @@ All countries, firms and figures are invented. The mark scheme style used in the
 - Listing constraints without tying them to the policy named.
 - Ending an evaluation with no judgement.
 
+## Frequently asked questions
+
+**Which curve do supply-side policies shift in the AD/AS model?**
+Supply-side policies shift the long-run aggregate supply (LRAS) curve to the right. Shifting AD instead of LRAS in the supply-side diagram is a common error.
+
+**How do you calculate unemployment caused by a minimum wage?**
+At the minimum wage, find quantity of labour demanded and quantity supplied from the equations or the diagram. Unemployment is quantity supplied minus quantity demanded, and jobs lost is the equilibrium quantity minus the new quantity demanded.
+
+**Where should a minimum wage be drawn on the diagram?**
+Draw it as a horizontal line above the equilibrium wage, with wage on the vertical axis and quantity of labour on the horizontal axis. A minimum wage below equilibrium has no effect.
+
+**How are 10-mark evaluate questions on supply-side policies judged?**
+A real answer is judged on the quality of the argument, not on counting points. Weigh strengths against constraints, say which objective each policy helps most, and reach a supported judgement.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ib-dp-economics-supply-side-policies-revision-notes/) and re-read the [study guide](/resources/ib-dp-economics-supply-side-policies/).

@@ -224,6 +224,20 @@ The guide asks you to weigh consequences for markets and stakeholders. Use these
 - Evaluating by repeating the explanation rather than weighing the effects.
 - Showing a final answer with no working when the command term is "calculate".
 
+## Frequently asked questions
+
+**Why do governments intervene in markets in IB DP Economics?**
+Sub-topic 2.7 of the IB DP Economics guide lists seven aims: to earn revenue, support firms, support low-income households, influence production, influence consumption, correct market failure and promote equity.
+
+**When does a price ceiling have an effect?**
+A price ceiling only matters if it is set below the equilibrium price. At that lower price quantity demanded exceeds quantity supplied, creating a shortage.
+
+**When does a price floor have an effect?**
+A price floor only matters if it is set above the equilibrium price. At that higher price quantity supplied exceeds quantity demanded, creating a surplus.
+
+**Who bears the burden of an indirect tax?**
+It depends on the slopes of the demand and supply curves, so the burden is not always shared equally. Consumers bear more of the tax when their demand is steeper, or less responsive to price, than supply.
+
 ## Official syllabus
 
 This page follows the IB Diploma Programme *Economics guide*, sub-topic 2.7 Role of government in microeconomics, first assessment 2022, published by the International Baccalaureate Organization in February 2020.

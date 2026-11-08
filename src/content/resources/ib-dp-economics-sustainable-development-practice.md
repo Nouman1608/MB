@@ -132,6 +132,20 @@ Start with the [study guide](/resources/ib-dp-economics-sustainable-development/
 - Treating the poverty link (HL) as one-directional.
 - Writing constraints as bare labels, with no explanation of how they limit action.
 
+## Frequently asked questions
+
+**How do you calculate the sustainable catch of a renewable resource?**
+The sustainable amount is the yearly regeneration: the regeneration rate times the current stock. Taking more than that each year shrinks the stock, so next year's regeneration is smaller too.
+
+**How do you work out how long a non-renewable resource will last?**
+Divide the reserves by the amount extracted each year. Recycling or lower extraction extends the life of the deposit but does not make extraction sustainable for ever.
+
+**How do you apply the Sustainable Development Goals to a case?**
+Name the goal or goals by number and title, explain how the policy or event moves the country towards or away from each one, and say whether the goals support or conflict with each other in this case.
+
+**Is the poverty and sustainability link HL only in IB Economics?**
+Yes. The relationship between sustainability and poverty in sub-topic 4.7 is HL only. The meaning of sustainable development and the Sustainable Development Goals are for SL and HL.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/) and the [study guide](/resources/ib-dp-economics-sustainable-development/).

@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "how-markets-work-oxfordaqa-igcse-economics"
-description: "Economic foundations, resource allocation, price determination, production and costs, market structures, and market failure -- the full content of Topic 1 for OxfordAQA International GCSE Economics (9214)."
+description: "Topic 1 of OxfordAQA International GCSE Economics 9214: scarcity, resource allocation, demand and supply, costs and profit, market structures, market failure."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 How markets work**, one of two equally
@@ -215,3 +217,20 @@ Treating a change in the good's own price as a shift. Confusing substitutes with
 - Explain how a firm's costs, revenue and profit are calculated, and how economies and diseconomies of scale arise.
 - Distinguish competitive from concentrated markets, and explain how wages are determined in the labour market.
 - Explain market failure as the misallocation of resources, and how negative and positive externalities cause it.
+
+## Frequently asked questions
+
+**What does Topic 1 of OxfordAQA International GCSE Economics cover?**
+Topic 1, How markets work, in OxfordAQA International GCSE Economics (9214) covers economic foundations, resource allocation, how prices are determined, production, costs, revenue and profit, competitive and concentrated markets, and market failure.
+
+**What does cross elasticity of demand show?**
+Cross elasticity of demand (XED) measures how the quantity demanded of one good responds to a price change in another. A positive XED means the goods are substitutes, and a negative XED means they are complements.
+
+**Does an indirect tax raise the price by the full amount of the tax?**
+Usually not. The supply curve shifts up by the tax, but the burden is shared: when demand is inelastic most of the tax is passed to consumers, and when demand is elastic producers absorb most of it.
+
+**Why is agricultural supply inelastic in the short run?**
+Production takes time, so farmers cannot quickly expand output when the price rises. This is why an agricultural supply shock can cause a sharp price spike.
+
+**What is the difference between a competitive and a concentrated market?**
+A highly competitive market has many small firms with little control over price. A concentrated market has a small number of large firms, or a single dominant firm, with more power to set price and restrict output.
