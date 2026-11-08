@@ -12,6 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-poetry-and-prose-0475"
+  - qualification: "igcse"
+    topic: "paper-1-poetry-and-prose-0475"
+    subtopic: "section-a-poetry-0475"
+  - qualification: "igcse"
+    topic: "paper-1-poetry-and-prose-0475"
+    subtopic: "section-b-prose-0475"
 description: "Original exam-technique practice questions with full worked answers on Paper 1's format, the command word Explore, and how the four assessment objectives are marked, for Cambridge IGCSE English Literature (0475)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

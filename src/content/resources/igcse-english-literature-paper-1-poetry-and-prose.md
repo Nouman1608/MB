@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-poetry-and-prose-0475"
+  - qualification: "igcse"
+    topic: "paper-1-poetry-and-prose-0475"
+    subtopic: "section-a-poetry-0475"
+  - qualification: "igcse"
+    topic: "paper-1-poetry-and-prose-0475"
+    subtopic: "section-b-prose-0475"
 description: "The format, assessment objectives and skills tested in Paper 1 Poetry and Prose -- the compulsory paper for Cambridge IGCSE English Literature 0475, 2026 series."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

@@ -12,6 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-poetry-and-prose-0475"
+  - qualification: "igcse"
+    topic: "paper-1-poetry-and-prose-0475"
+    subtopic: "section-a-poetry-0475"
+  - qualification: "igcse"
+    topic: "paper-1-poetry-and-prose-0475"
+    subtopic: "section-b-prose-0475"
 description: "Exam technique for Paper 1 -- answer structure, quotation use, the command word 'Explore', and how the assessment objectives are actually marked -- for Cambridge IGCSE English Literature 0475, 2026 series."
 seoDescription: "Cambridge IGCSE Literature 0475 Paper 1 revision notes: answer structure, quotation technique, the command word 'Explore', and how marks are awarded."
 author: "marlbridge-academic-team"
