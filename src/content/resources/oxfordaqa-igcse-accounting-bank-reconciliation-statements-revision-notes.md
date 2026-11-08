@@ -217,6 +217,23 @@ A reconciliation checks the bank account only. It will not show an error that ap
 - Using a rounded or incomplete list of items, so that the reconciliation does not agree and no check is shown.
 - Answering "explain" questions with a list of names and no reason.
 
+## Frequently asked questions
+
+**What is the difference between an unpresented cheque and an outstanding banking?**
+An unpresented cheque is a payment entered in the cash book that the bank has not yet deducted, so it is deducted from the bank statement balance. An outstanding banking is a receipt not yet credited by the bank, so it is added.
+
+**What is the difference between a direct debit and a standing order?**
+A direct debit is collected by the payee under the business's authority and the amount can vary. A standing order is a fixed amount set up by the business itself.
+
+**Are bank errors corrected in the cash book?**
+No. Cash book errors are corrected in the cash book, while bank errors are dealt with on the reconciliation statement.
+
+**Why is a favourable balance a debit in the cash book but a credit on the bank statement?**
+The two records look at the same account from opposite sides. Money in the bank is an asset of the business (debit) but an amount the bank owes the business (credit).
+
+**What can a bank reconciliation not show?**
+It checks the bank account only, so it will not reveal an error that appears in both the cash book and the bank statement.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for International GCSE exams May/June 2026 onwards, published by OxfordAQA. Section 3.2, Verification of accounting records: prepare and understand the use and purpose of bank reconciliation statements.

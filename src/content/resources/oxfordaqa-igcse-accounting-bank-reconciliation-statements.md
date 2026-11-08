@@ -220,6 +220,23 @@ A reconciliation does not prove that every entry in the accounts is correct. It 
 
 Revise from the [revision notes](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements-practice/). For exam planning, see [how the two papers work](/resources/oxfordaqa-igcse-accounting-exam-preparation/) and [Sources and recording of data](/resources/igcse-oxfordaqa-accounting-sources-and-recording-of-data/) for the double entry that feeds the cash book.
 
+## Frequently asked questions
+
+**What is the purpose of a bank statement?**
+A bank statement is a record sent by the bank showing every transaction on the business's account over a period, with a running balance. It is the bank's version of the business's bank account.
+
+**What order should a bank reconciliation follow?**
+First update the cash book and find the new balance. Then start from the bank statement balance, add outstanding bankings and deduct unpresented cheques, adjusting for any bank errors, to reach the updated cash book balance.
+
+**Which items are entered in the cash book before reconciling?**
+Items the bank has recorded but the cash book has not, such as bank charges, interest, direct debits, standing orders and credit transfers, and any errors made in the cash book itself.
+
+**How does an overdraft change the reconciliation?**
+The same rules apply, but an overdraft is treated as a negative figure, so adding an outstanding banking makes the overdraft smaller.
+
+**Which section of OxfordAQA International GCSE Accounting 9215 covers bank reconciliation?**
+Bank reconciliation statements are in section 3.2 of the 9215 specification, which asks you to update the cash book, prepare a reconciliation statement and understand its use and purpose.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for International GCSE exams May/June 2026 onwards, published by OxfordAQA. This guide follows section 3.2, Verification of accounting records.

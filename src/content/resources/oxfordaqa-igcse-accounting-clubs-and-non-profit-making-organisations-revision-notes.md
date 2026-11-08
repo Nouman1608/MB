@@ -208,6 +208,23 @@ Answer these before looking at the answers. Use dollars.
 - Writing a comment such as "the club did well" without a figure or a reason.
 - Not labelling statements with the title and the period or date.
 
+## Frequently asked questions
+
+**What is the difference between a receipts and payments account and an income and expenditure account?**
+A receipts and payments account is cash only and includes capital items. An income and expenditure account uses accruals, excludes capital items and includes depreciation.
+
+**What is the accumulated fund?**
+The accumulated fund is a club's equity, taking the place of capital. There is no owner and no drawings.
+
+**Are subscriptions in arrears an asset?**
+Yes. Arrears are money owed to the club, so they are an asset. Subscriptions received in advance are a liability, because the club owes members next year's service.
+
+**Where does a profit or loss on disposal go in club accounts?**
+A profit on disposal is income and a loss is expenditure in the income and expenditure account. The sale proceeds themselves appear only in the receipts and payments account.
+
+**How do you calculate an expense for a club?**
+Start with the cash paid, take off what was paid for last year (owing at the start), add what is still owed at the end, and adjust for any amounts prepaid.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), version 1.2, for International GCSE exams May/June 2026 onwards, section 3.4 Preparation of financial statements (clubs and non-profit making organisations), published by OxfordAQA.

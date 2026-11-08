@@ -140,6 +140,20 @@ Rent received 9,600 (due at the start 800, due at the end 1,000). Fees received 
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on adjustments questions in OxfordAQA 9215?**
+Common losses are putting the opening balance on the wrong side of the account, forgetting to bring the closing balance down, and showing the cash paid rather than the adjusted figure as the transfer to the income statement.
+
+**How can I tell which side an opening balance goes on?**
+Decide whether it is an asset or a liability. Assets such as amounts prepaid or income due open on the debit side; liabilities such as amounts owing or income received in advance open on the credit side.
+
+**What should I check when an amount is split by time?**
+Count the months used in the year and the months left, and check that they add up to the full period covered. Counting the wrong number of months is a common mistake.
+
+**How should I correct a draft profit for several adjustments?**
+Decide for each adjustment whether it increases or decreases profit before adding them up. Using the same sign for every adjustment is a common mistake.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for teaching from September 2024 and exams from May/June 2026, published by OxfordAQA. Subject content section 3.3 (Development of the accounting model), with the related list in section 3.4.
