@@ -126,9 +126,9 @@ So `T² ∝ r³`. The orbiting mass **cancels** — orbital speed and period dep
 </figure>
 
 
-## Escape velocity
+## Escape velocity (beyond the syllabus — background only, not examinable)
 
-Escape velocity is the minimum launch speed for which total energy (kinetic plus gravitational potential) just reaches zero, allowing the object to reach infinity with nothing left over:
+Escape velocity is not named in the Cambridge 9702 syllabus; it is included only as an extension of the energy ideas above. It is the minimum launch speed for which total energy (kinetic plus gravitational potential) just reaches zero, allowing the object to reach infinity with nothing left over:
 
 ```
 1/2 m v^2 = G M m / r     ->    v_esc = sqrt(2 G M / r)

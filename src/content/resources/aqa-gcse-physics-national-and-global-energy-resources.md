@@ -46,10 +46,9 @@ first for the underlying ideas about useful and wasted energy transfer.
 Students should be able to describe the main energy sources available
 and to distinguish between energy resources that are renewable and
 energy resources that are non-renewable. Students should be able to
-describe the uses of energy resources for the generation of electricity,
-for heating (including in industry, transport, and in the domestic
-context of the National Grid), and understand that different energy
-resources are more or less reliable than others.
+compare ways that different energy resources are used, the uses to
+include transport, electricity generation and heating, and understand
+why some energy resources are more reliable than others.
 
 Students should be able to give a broad, general description of the
 main energy sources available for use on Earth, including: fossil fuels
@@ -91,7 +90,7 @@ Earth are:
 ## Uses of energy resources
 
 Energy resources are used for **generating electricity**, for **heating**
-(in industry, homes, and via district or National Grid systems), and for
+(in homes and in industry), and for
 **transport** (fuels for vehicles). Resources vary in their reliability —
 for example, wind and solar depend on weather conditions and are less
 consistently available than fossil fuels or nuclear power, which can

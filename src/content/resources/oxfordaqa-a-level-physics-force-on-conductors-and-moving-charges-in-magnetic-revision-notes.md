@@ -35,11 +35,6 @@ Both sections assume the field is perpendicular to the current or to the velocit
 - **Base units of the tesla:** 1 T = 1 N A⁻¹ m⁻¹ = 1 kg s⁻² A⁻¹.
 - **Cyclotron:** a device that accelerates charged particles in a spiral path using a magnetic field to bend the path and an alternating electric field in a gap to speed the particle up.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--04-crossed-fields-balance.webp" width="900" height="1195" alt="Top: charged particles pass between plates with E down and B into the page; qE and qBv balance when v = E/B so that particle goes straight, slower ones bend down and faster ones bend up (trajectories integrated numerically). Bottom (Cambridge only): current I through a slice of width d in a field B; carriers pile up on one edge until qE_H = Bqv, giving V_H = BI/(ntq)." loading="lazy">
-  <figcaption>Equal electric and magnetic forces give v = E/B for the selector and V_H = BI/(ntq) for the Hall slice.</figcaption>
-</figure>
-
 
 ## Formulae
 
@@ -161,11 +156,6 @@ At speeds approaching the speed of light these simple results stop working, beca
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-alternating-currents--01-fields-due-to-currents.webp" width="900" height="1210" alt="Three panels show field lines of a long straight wire (circles, with B falling as 1/r), a flat circular coil and a long solenoid. The wire panel has a 1/r graph; the coil and solenoid lines are computed with the Biot-Savart law. The solenoid has a uniform field inside and a bar-magnet pattern outside." loading="lazy">
   <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
-  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
 </figure>
 
 

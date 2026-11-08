@@ -89,7 +89,7 @@ Describe how the current–voltage graph for each of the three components would 
 
 **9.** An electric heater connected to the 230 V mains takes a current of 8.7 A.
 
-**(a)** State the equation linking power, current and voltage. **[1]**
+**(a)** State the equation linking energy transferred, current, voltage and time. **[1]**
 
 **(b)** Calculate the power of the heater, in kW. **[2]**
 
@@ -120,8 +120,8 @@ Describe how the current–voltage graph for each of the three components would 
 
 **8.** The resistor (at constant temperature) gives a straight line through the origin, because its resistance stays constant as current increases, so current is directly proportional to voltage. The filament lamp's graph curves, flattening as voltage/current increases, because the filament heats up as more current flows, and its resistance rises with temperature, so progressively larger increases in voltage are needed to produce the same increase in current. The diode's graph shows almost no current at all for voltage applied in one direction (reverse bias), then a sharp rise in current once a small forward voltage is exceeded (forward bias), because a diode is designed to conduct current in one direction only. **[6]** (2 marks per component: correct graph shape/behaviour plus the correct physical reason.)
 
-**9.** **(a)** Power = current × voltage (*P* = *IV*) [1].
-**(b)** *P* = 8.7 × 230 = 2001 W [1] = **2.0 kW** [1].
+**9.** **(a)** Energy transferred = current × voltage × time (*E* = *IVt*) [1].
+**(b)** *P* = *IV* = 8.7 × 230 = 2001 W [1] = **2.0 kW** [1].
 
 *Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 2(b)(ii)):* the mark scheme gives separate marks for the answer in W and for converting it to kW, so check the unit the question asks for. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 2.
 

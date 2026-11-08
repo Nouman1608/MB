@@ -57,7 +57,7 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 
 **4.** A current-carrying wire is held perpendicular to a magnetic field and experiences a force.
 
-**(a)** Name the rule used to predict the direction of the force, and state what each of its three fingers/thumb represents. **[2]**
+**(a)** State the direction of the force relative to the directions of the current and the magnetic field. **[2]**
 
 **(b)** State the force if the wire is rotated to lie parallel to the field, with a reason. **[2]**
 
@@ -111,7 +111,7 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 
 **3.** Any two: **increase the current** [1]; **increase the number of turns**; add a **soft iron core** [1].
 
-**4. (a)** **Fleming's left-hand rule** [1] — **F**irst finger = **F**ield, se**C**ond finger = **C**urrent, thu**M**b = **M**otion [1].
+**4. (a)** The force is **at right angles to the current** [1] and **at right angles to the magnetic field** [1], as given by Fleming's left-hand rule.
 
 **(b)** **Zero** [1], because there is no component of the current perpendicular to the field — the force is maximum when they are perpendicular and zero when parallel [1].
 

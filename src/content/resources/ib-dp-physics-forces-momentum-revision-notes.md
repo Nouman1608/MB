@@ -57,7 +57,7 @@ p = mv                 (linear momentum)
 J = F(delta t)          (impulse = force x time)
 ```
 
-Momentum is **conserved** unless a resultant external force acts. Impulse **equals** the resulting change in momentum. For a rocket burning fuel, F = ma still applies to the rocket alone provided the thrust from the ejected exhaust is included as an external force; applying Δp/Δt to the rocket's own momentum without accounting for the exhaust's momentum is not a valid shortcut. The general open-system form (F_ext = Δp/Δt for a fixed collection of matter, or a momentum-flux balance for an open system such as the rocket) is only needed when the exhaust's momentum is tracked explicitly.
+Momentum is **conserved** unless a resultant external force acts. Impulse **equals** the resulting change in momentum. For a rocket burning fuel, the rocket alone is not a closed system: the ejected exhaust carries momentum away, so momentum is conserved only for the rocket plus its exhaust.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-forces-momentum-revision-notes--01-bat-ball-impulse.webp" width="900" height="970" alt="A 0.5 kg ball moves toward a bat at 4 m/s and rebounds at 6 m/s, with the rebound direction positive. Momentum goes from minus 2 to plus 3, a change of 5 kg m/s, so over 0.02 s the average force is 250 N. Using 3 minus 2 would wrongly give 50 N." loading="lazy">

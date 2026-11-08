@@ -108,7 +108,7 @@ Explain why ln R against t should be linear, then use the end points to find the
 *Examiner insight:* The zero error is subtracted from the reading, not added. Showing the subtraction makes your method clear.
 
 **2. (a)** One period: 0.2/1.0 × 100 = **20%** [1]. Twenty periods: 0.2/20.06 × 100 = **1.0%** [1]
-**(b)** Micrometer: 0.01/0.40 × 100 = **2.5%** [1]. Ruler: 1/0.40 × 100 = **250%**, so the ruler is unsuitable [1]
+**(b)** Taking half the resolution as the uncertainty of a single reading: micrometer 0.005/0.40 × 100 ≈ **1.3%** [1]. Ruler: 0.5/0.40 × 100 = **125%**, so the ruler is unsuitable [1]
 *Examiner insight:* State the conclusion after comparing the percentages.
 
 **3.** Any nine of the following points, one each:

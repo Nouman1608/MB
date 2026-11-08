@@ -63,9 +63,8 @@ electric field as a field of force, and representing it with field lines.
 field between charged parallel plates; describing the effect of a uniform
 electric field on the motion of charged particles.
 
-**18.3 Electric force between point charges** — understanding that,
-according to the electric force between two point charges is described by
-Coulomb's law, recalling and using F = Qq/(4πε₀r²).
+**18.3 Electric force between point charges** — recalling and using
+Coulomb's law, F = Qq/(4πε₀r²), for the force between two point charges.
 
 **18.4 Electric field of a point charge** — defining electric field
 strength at a point as the force per unit positive charge acting on a small
@@ -217,9 +216,9 @@ U = Qq / (4πε₀r)
 
 U is positive for like charges (work must be done against repulsion to
 bring them together) and negative for unlike charges (the field does work
-as they come together). This is directly analogous to U = Qq for electric
-potential energy compared with V = Q for potential — potential energy is
-potential multiplied by the charge placed in the field, U = qV.
+as they come together). Comparing U = Qq/(4πε₀r) with V = Q/(4πε₀r) shows
+that potential energy is potential multiplied by the charge placed in the
+field, U = qV.
 
 ### Field strength as potential gradient
 

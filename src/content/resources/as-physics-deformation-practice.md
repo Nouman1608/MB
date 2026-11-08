@@ -77,7 +77,7 @@ Related: [Deformation of Solids revision notes](/resources/as-physics-deformatio
 
 **(b)** A rubber band is stretched and released. Its loading and unloading curves differ. State what the area between them represents. **[2]**
 
-**7.** A wire of original length 2.0 m and cross-sectional area 1.0 × 10⁻⁶ m² extends by 1.5 mm under a load of 60 N.
+**7.** A wire of original length 1.6 m and cross-sectional area 2.0 × 10⁻⁷ m² extends by 2.0 mm under a load of 50 N.
 
 **(a)** Calculate the stress, strain and Young modulus. **[3]**
 
@@ -126,7 +126,7 @@ A = πr² = π × (2.1 × 10⁻⁴)² = **1.385 × 10⁻⁷ m²** [1].
 
 ---
 
-**7. (a)** stress = F/A = 60 ÷ (1.0 × 10⁻⁶) = **6.0 × 10⁷ Pa** [1]; strain = x/L = (1.5 × 10⁻³) ÷ 2.0 = **7.5 × 10⁻⁴** [1]; E = stress/strain = **8.0 × 10¹⁰ Pa** [1].
+**7. (a)** stress = F/A = 50 ÷ (2.0 × 10⁻⁷) = **2.5 × 10⁸ Pa** [1]; strain = x/L = (2.0 × 10⁻³) ÷ 1.6 = **1.25 × 10⁻³** [1]; E = stress/strain = **2.0 × 10¹¹ Pa** [1].
 
 **(b)** The **limit of proportionality** is where extension stops being proportional to force [1]; the **elastic limit** is the point beyond which deformation becomes at least partly plastic — for many materials this lies close to, but not exactly at, the limit of proportionality [1].
 

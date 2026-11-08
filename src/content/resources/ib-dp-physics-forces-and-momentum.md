@@ -145,7 +145,7 @@ The first law identifies when the resultant is zero, the second predicts the res
 
 ## Common mistakes
 
-Applying F = Δp/Δt to the rocket alone as if that fixes the problem of its changing mass, without accounting for the momentum carried away by the ejected fuel. The rocket by itself is not a closed system, so its own F = ma still holds once the thrust force from the escaping exhaust is included as an external force; alternatively, take Δp/Δt for the total momentum of the closed rocket-plus-exhaust system, which requires no external force to stay constant. Treating
+Treating a rocket as a closed system: the ejected exhaust carries momentum away, so momentum is conserved only for the rocket plus its exhaust, not for the rocket alone. Treating
 "centripetal force" as an additional force acting on a body, rather
 than correctly naming the real force (gravity, tension, friction, or
 the normal force) that is producing the centripetal effect. Assuming

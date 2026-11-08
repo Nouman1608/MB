@@ -33,7 +33,7 @@ Condensed for the final weeks. For the full explanation, use the
 I = Q/t        I = n A v q        (number density, area, drift velocity, charge)
 ```
 
-**The drift velocity equation explains why a thin wire glows first.** For the same current, reducing the cross-sectional area A must increase the drift velocity v, so electrons collide more frequently with the lattice, transferring more energy and heating that section faster. That reasoning is a standard extended-answer question.
+**Why a thin section of wire gets hotter first.** The current is the same throughout, so from I = nqvA a smaller cross-sectional area A means a larger drift velocity v. The heating itself is explained by resistance: R = ρl/A is larger for the thin section, so with the same current the power dissipated there, P = I²R, is greater. That reasoning is a standard extended-answer question.
 
 Metals have a very high number density n, so drift velocity is tiny (millimetres per second) — yet the current flows almost instantly, because the electric field is established throughout the circuit at nearly the speed of light. Along a uniform current-carrying wire, potential varies **linearly** with distance from one end, which is the working principle behind a potential divider's continuous voltage split.
 

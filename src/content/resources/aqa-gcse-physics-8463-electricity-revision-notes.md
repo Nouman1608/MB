@@ -49,7 +49,7 @@ Then test yourself with the [Electricity practice questions](/resources/aqa-gcse
 The course hub is [AQA GCSE Physics](/boards/aqa/gcse/physics/), the [printable checklist](/checklists/aqa/gcse/physics/)
 lists every point, and the [free diagnostics](/diagnostics/) help you find gaps.
 
-## The equations -- all six must be recalled
+## The equations -- all of these must be recalled
 
 | Equation | Symbols | Units |
 |---|---|---|

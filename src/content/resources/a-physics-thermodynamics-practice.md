@@ -138,7 +138,7 @@ Related: [Thermodynamics revision notes](/resources/a-physics-thermodynamics-rev
 - Using E = mcΔθ during a change of state.
 - Forgetting to convert minutes to seconds.
 - Explaining the latent heat difference without mentioning work against the atmosphere.
-- Describing melting or vaporisation as "breaking bonds" between molecules — there is no bond-breaking model at this level. The correct description is molecules being separated (or fully separated, for vaporisation) against the intermolecular forces of attraction, which increases their potential energy.
+- Saying only that melting or vaporisation "breaks bonds" without saying what happens to the energy. State that the molecules are separated (or fully separated, for vaporisation) against the intermolecular forces of attraction, so their potential energy increases while their mean kinetic energy stays the same.
 - Applying W = pΔV when the pressure is not constant during the process.
 - Forgetting that internal energy is a state function, and treating it as dependent on the path taken between two states.
 

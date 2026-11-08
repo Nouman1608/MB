@@ -65,7 +65,7 @@ Related: [Forces, Density and Pressure revision notes](/resources/as-physics-for
 
 **7.** Describe how a **closed vector triangle** can be used to find an unknown force acting on an object in equilibrium under three coplanar forces. **[3]**
 
-**8.** A uniform beam of weight 40 N is pivoted at its centre (so the beam's own weight produces no moment about the pivot), with a 25 N weight hung 0.6 m from the pivot on one side. How far from the pivot must a 15 N weight be hung on the other side to balance it? **[3]**
+**8.** A uniform beam of weight 50 N is pivoted at its centre (so the beam's own weight produces no moment about the pivot), with a 30 N weight hung 0.5 m from the pivot on one side. How far from the pivot must a 12 N weight be hung on the other side to balance it? **[3]**
 
 **9.** Two forces of 8 N each, acting 0.5 m apart, form a couple. Calculate the torque of the couple. **[2]**
 
@@ -105,7 +105,7 @@ The pressure increase depends only on **depth, density and g** [1] — not on th
 
 **7.** Draw each of the three forces as an arrow, **tip-to-tail**, in turn and to scale [1]; if the object is truly in equilibrium, the three arrows form a **closed triangle**, returning to the starting point with no gap [1]. Any unknown force's magnitude or direction can then be found by **measuring or calculating the missing side** of that triangle [1].
 
-**8.** By the principle of moments: 25 × 0.6 = 15 × d [1], so 15 = 15d [1], giving **d = 1.0 m** [1].
+**8.** By the principle of moments: 30 × 0.5 = 12 × d [1], so 15 = 12d [1], giving **d = 1.25 m** [1].
 
 **9.** Torque = one force × perpendicular distance between the forces = 8 × 0.5 = **4.0 N m** [1] [1].
 

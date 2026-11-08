@@ -42,7 +42,7 @@ A good plan reads like instructions that another student could follow without as
 
 ### Apparatus, range and resolution
 
-List each instrument and say what it measures. Then check its range (the smallest to largest value it can read) and its resolution (the smallest interval it shows). The specification names two instruments:
+List each instrument and say what it measures. Then check its range (the smallest to largest value it can read) and its resolution (the smallest interval it shows). Three common length-measuring instruments compare like this:
 
 | Instrument | Resolution | Typical use |
 |---|---|---|
