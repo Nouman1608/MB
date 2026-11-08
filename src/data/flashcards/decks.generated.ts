@@ -20,6 +20,7 @@ import { DECK_CAMBRIDGE_A_LEVEL_BIOLOGY } from './cambridge-a-level-biology.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_BUSINESS } from './cambridge-a-level-business.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY } from './cambridge-a-level-chemistry.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_ECONOMICS } from './cambridge-a-level-economics.ts';
+import { DECK_CAMBRIDGE_A_LEVEL_GLOBAL_PERSPECTIVES } from './cambridge-a-level-global-perspectives.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS } from './cambridge-a-level-mathematics.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_PHYSICS } from './cambridge-a-level-physics.ts';
 import { DECK_CAMBRIDGE_IGCSE_ACCOUNTING } from './cambridge-igcse-accounting.ts';
@@ -27,8 +28,10 @@ import { DECK_CAMBRIDGE_IGCSE_BIOLOGY } from './cambridge-igcse-biology.ts';
 import { DECK_CAMBRIDGE_IGCSE_BUSINESS } from './cambridge-igcse-business.ts';
 import { DECK_CAMBRIDGE_IGCSE_CHEMISTRY } from './cambridge-igcse-chemistry.ts';
 import { DECK_CAMBRIDGE_IGCSE_ECONOMICS } from './cambridge-igcse-economics.ts';
+import { DECK_CAMBRIDGE_IGCSE_GLOBAL_PERSPECTIVES } from './cambridge-igcse-global-perspectives.ts';
 import { DECK_CAMBRIDGE_IGCSE_MATHEMATICS } from './cambridge-igcse-mathematics.ts';
 import { DECK_CAMBRIDGE_IGCSE_PHYSICS } from './cambridge-igcse-physics.ts';
+import { DECK_CAMBRIDGE_IGCSE_STATISTICS } from './cambridge-igcse-statistics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_ACCOUNTING } from './cambridge-o-level-accounting.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_BIOLOGY } from './cambridge-o-level-biology.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_BUSINESS } from './cambridge-o-level-business.ts';
@@ -36,6 +39,7 @@ import { DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY } from './cambridge-o-level-chemistry.
 import { DECK_CAMBRIDGE_O_LEVEL_ECONOMICS } from './cambridge-o-level-economics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS } from './cambridge-o-level-mathematics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_PHYSICS } from './cambridge-o-level-physics.ts';
+import { DECK_CAMBRIDGE_O_LEVEL_STATISTICS } from './cambridge-o-level-statistics.ts';
 import { DECK_EDEXCEL_A_LEVEL_ACCOUNTING } from './edexcel-a-level-accounting.ts';
 import { DECK_EDEXCEL_A_LEVEL_BIOLOGY } from './edexcel-a-level-biology.ts';
 import { DECK_EDEXCEL_A_LEVEL_BUSINESS } from './edexcel-a-level-business.ts';
@@ -55,10 +59,19 @@ import { DECK_IB_IB_DP_BIOLOGY } from './ib-ib-dp-biology.ts';
 import { DECK_IB_IB_DP_BUSINESS } from './ib-ib-dp-business.ts';
 import { DECK_IB_IB_DP_CHEMISTRY } from './ib-ib-dp-chemistry.ts';
 import { DECK_IB_IB_DP_ECONOMICS } from './ib-ib-dp-economics.ts';
+import { DECK_IB_IB_DP_ENVIRONMENTAL_SYSTEMS_AND_SOCIETIES } from './ib-ib-dp-environmental-systems-and-societies.ts';
+import { DECK_IB_IB_DP_GLOBAL_POLITICS } from './ib-ib-dp-global-politics.ts';
+import { DECK_IB_IB_DP_LANGUAGE_A_LANGUAGE_AND_LITERATURE } from './ib-ib-dp-language-a-language-and-literature.ts';
+import { DECK_IB_IB_DP_LANGUAGE_A_LITERATURE } from './ib-ib-dp-language-a-literature.ts';
+import { DECK_IB_IB_DP_LANGUAGE_B } from './ib-ib-dp-language-b.ts';
 import { DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES } from './ib-ib-dp-mathematics-analysis-and-approaches.ts';
 import { DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION } from './ib-ib-dp-mathematics-applications-and-interpretation.ts';
 import { DECK_IB_IB_DP_PHYSICS } from './ib-ib-dp-physics.ts';
+import { DECK_IB_IB_MYP_DESIGN } from './ib-ib-myp-design.ts';
+import { DECK_IB_IB_MYP_INDIVIDUALS_AND_SOCIETIES } from './ib-ib-myp-individuals-and-societies.ts';
+import { DECK_IB_IB_MYP_LANGUAGE_ACQUISITION } from './ib-ib-myp-language-acquisition.ts';
 import { DECK_IB_IB_MYP_MATHEMATICS } from './ib-ib-myp-mathematics.ts';
+import { DECK_IB_IB_MYP_SCIENCES } from './ib-ib-myp-sciences.ts';
 import { DECK_OCR_A_LEVEL_BIOLOGY } from './ocr-a-level-biology.ts';
 import { DECK_OCR_A_LEVEL_BUSINESS } from './ocr-a-level-business.ts';
 import { DECK_OCR_A_LEVEL_CHEMISTRY } from './ocr-a-level-chemistry.ts';
@@ -108,6 +121,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_A_LEVEL_BUSINESS,
   DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY,
   DECK_CAMBRIDGE_A_LEVEL_ECONOMICS,
+  DECK_CAMBRIDGE_A_LEVEL_GLOBAL_PERSPECTIVES,
   DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_A_LEVEL_PHYSICS,
   DECK_CAMBRIDGE_IGCSE_ACCOUNTING,
@@ -115,8 +129,10 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_IGCSE_BUSINESS,
   DECK_CAMBRIDGE_IGCSE_CHEMISTRY,
   DECK_CAMBRIDGE_IGCSE_ECONOMICS,
+  DECK_CAMBRIDGE_IGCSE_GLOBAL_PERSPECTIVES,
   DECK_CAMBRIDGE_IGCSE_MATHEMATICS,
   DECK_CAMBRIDGE_IGCSE_PHYSICS,
+  DECK_CAMBRIDGE_IGCSE_STATISTICS,
   DECK_CAMBRIDGE_O_LEVEL_ACCOUNTING,
   DECK_CAMBRIDGE_O_LEVEL_BIOLOGY,
   DECK_CAMBRIDGE_O_LEVEL_BUSINESS,
@@ -124,6 +140,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_O_LEVEL_ECONOMICS,
   DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_O_LEVEL_PHYSICS,
+  DECK_CAMBRIDGE_O_LEVEL_STATISTICS,
   DECK_EDEXCEL_A_LEVEL_ACCOUNTING,
   DECK_EDEXCEL_A_LEVEL_BIOLOGY,
   DECK_EDEXCEL_A_LEVEL_BUSINESS,
@@ -143,10 +160,19 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_IB_IB_DP_BUSINESS,
   DECK_IB_IB_DP_CHEMISTRY,
   DECK_IB_IB_DP_ECONOMICS,
+  DECK_IB_IB_DP_ENVIRONMENTAL_SYSTEMS_AND_SOCIETIES,
+  DECK_IB_IB_DP_GLOBAL_POLITICS,
+  DECK_IB_IB_DP_LANGUAGE_A_LANGUAGE_AND_LITERATURE,
+  DECK_IB_IB_DP_LANGUAGE_A_LITERATURE,
+  DECK_IB_IB_DP_LANGUAGE_B,
   DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES,
   DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION,
   DECK_IB_IB_DP_PHYSICS,
+  DECK_IB_IB_MYP_DESIGN,
+  DECK_IB_IB_MYP_INDIVIDUALS_AND_SOCIETIES,
+  DECK_IB_IB_MYP_LANGUAGE_ACQUISITION,
   DECK_IB_IB_MYP_MATHEMATICS,
+  DECK_IB_IB_MYP_SCIENCES,
   DECK_OCR_A_LEVEL_BIOLOGY,
   DECK_OCR_A_LEVEL_BUSINESS,
   DECK_OCR_A_LEVEL_CHEMISTRY,
