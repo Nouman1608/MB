@@ -162,6 +162,20 @@ These questions cover IB Diploma Programme Biology section B4.1 (Adaptation to e
 - Try all free 10-minute [diagnostics](/diagnostics/) to find other weak topics.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a habitat and a niche in IB DP Biology?**
+A habitat is the place where a species lives, described by its geographical location, physical location and ecosystem type. A niche is the species' role in the ecosystem, including how it feeds and interacts with other organisms.
+
+**How do you calculate a percentage change from data in IB Biology questions?**
+Subtract to find the change, then divide by the original value (not the new one) and multiply by 100. Dividing by the new value is a common way to lose the mark.
+
+**Does a transect prove that an abiotic factor causes a species' distribution?**
+No. A transect shows a correlation only, because other factors such as light, moisture or competition may change along the gradient; testing growth under controlled conditions is needed to investigate causation.
+
+**Is B4.1 different for SL and HL students?**
+No. The IB Biology guide (first assessment 2025) gives section B4.1, Adaptation to environment, no extra higher level material, so the content is the same for SL and HL.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section B4.1, Adaptation to environment.

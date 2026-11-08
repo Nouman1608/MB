@@ -235,6 +235,23 @@ Similar communities arise because similar selection pressures act on unrelated s
 - Reading the optimum as the limit of tolerance. Survival is possible well beyond the optimum.
 - Explaining convergent evolution as organisms "copying" each other or inheriting features from a common ancestor.
 
+## Frequently asked questions
+
+**What is a limiting factor in ecology?**
+A limiting factor is the variable in shortest supply or furthest from the optimum, so it restricts the growth or distribution of a species.
+
+**What is convergent evolution?**
+Convergent evolution is when unrelated species evolve similar features because similar selection pressures act on them, such as American cacti and African Euphorbia, or kangaroo rats and jerboas.
+
+**What is a biome?**
+A biome is a group of ecosystems in different places that have similar communities because their abiotic conditions, mainly temperature and rainfall, are similar.
+
+**Does a camel's hump store water?**
+No. A camel's hump stores fat; keeping fat in one place leaves less insulation elsewhere so heat escapes, and the camel tolerates large water loss.
+
+**What is a natural or semi-natural habitat for IB Biology fieldwork?**
+A semi-natural habitat is one influenced by humans but dominated by wild species. The IB DP Biology B4.1.4 skill asks you to collect transect data from such a habitat and correlate distribution with an abiotic variable.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section B4.1, Adaptation to environment.

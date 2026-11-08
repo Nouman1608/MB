@@ -244,6 +244,20 @@ Compare tumours by rate of division and growth, ability to invade neighbours and
 - Writing that all tumours are cancer.
 - Stating the mitotic index as a count rather than a ratio or percentage.
 
+## Frequently asked questions
+
+**What is the difference between mitosis and meiosis?**
+Mitosis is one division giving two nuclei with the same chromosome number and genome as the parent. Meiosis is two divisions giving four nuclei with half the chromosome number and new combinations of alleles.
+
+**What is the difference between a chromosome and a chromatid?**
+After DNA replication, each chromosome consists of two identical chromatids joined until anaphase, when they separate and are then counted as chromosomes.
+
+**What causes Down syndrome?**
+Down syndrome (trisomy 21) is caused by non-disjunction in meiosis, so a gamete with 24 chromosomes fuses with a normal gamete to give a zygote with 47 chromosomes, including three copies of chromosome 21.
+
+**What is the difference between a benign and a malignant tumour?**
+A benign tumour does not invade neighbouring tissue or spread. A malignant tumour invades and can spread to form secondary tumours (metastasis); it is a cancer. This is HL-only content in IB DP Biology D2.1.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization (sub-topic D2.1).
