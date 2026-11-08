@@ -224,6 +224,20 @@ Output keeps rising, but net investment falls from 75 to 25 once growth slows. T
 - Stating the gap without saying what happens to unemployment or prices.
 - Concluding an evaluation without a condition.
 
+## Frequently asked questions
+
+**What is the difference between autonomous and induced consumption?**
+Autonomous consumption does not depend on current income; induced consumption is the part that changes when income changes.
+
+**What is the difference between net and gross investment?**
+Gross investment is net investment plus the replacement of worn-out capital (depreciation).
+
+**What is the difference between equilibrium income and full employment income?**
+Equilibrium income is where planned AD equals income. Full employment income is the level at which the economy's resources are fully employed; the two need not be the same.
+
+**What should I say after identifying an output gap?**
+Say what it means for the economy: a deflationary gap brings unemployment, while an inflationary gap brings rising prices.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. These notes cover outcomes 9.1.2 and 9.1.3.

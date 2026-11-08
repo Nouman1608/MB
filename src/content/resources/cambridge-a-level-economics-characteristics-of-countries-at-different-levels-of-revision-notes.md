@@ -234,6 +234,20 @@ These are tendencies, not rules. A resource-rich country can have high income an
 - Stating general trade patterns as if every country follows them.
 - Listing causes of population change without linking them to development and judging which matters most.
 
+## Frequently asked questions
+
+**How do you convert a rate per 1,000 into a percentage?**
+Divide by 10. For example, natural increase of 17 per 1,000 is 1.7%.
+
+**How do you calculate the Gini coefficient from the area under the Lorenz curve?**
+Gini = 1 - 2B, where B is the area under the Lorenz curve with both axes running from 0 to 1. Quoting B itself as the Gini is a common error.
+
+**What order should groups be in on a Lorenz curve?**
+Households must be ordered poorest first along the horizontal axis, with cumulative shares of income on the vertical axis.
+
+**Is optimum population the largest population a country can support?**
+No. The optimum population is the one that maximises output per head given available resources, capital and technology, and it changes as these change.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 11.4.

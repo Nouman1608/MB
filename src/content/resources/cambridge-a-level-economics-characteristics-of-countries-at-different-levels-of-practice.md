@@ -141,6 +141,20 @@ These questions cover section 11.4 (outcomes 11.4.1 to 11.4.3) of the Cambridge 
 - Treating the optimum population as a fixed number.
 - Writing a one-sided essay on sectors with no judgement.
 
+## Frequently asked questions
+
+**Which base is used for the infant mortality rate?**
+Live births, not the whole population: deaths of children under one year old per 1,000 live births. Birth and death rates use the whole population.
+
+**Is natural increase the same as population growth?**
+No. Natural increase is the birth rate minus the death rate; total population growth also includes net migration.
+
+**Do equal Gini coefficients mean identical income distributions?**
+No. If two Lorenz curves cross, their Gini coefficients can be equal while the distributions differ.
+
+**Which Cambridge 9708 section does this practice cover?**
+It covers section 11.4 Characteristics of countries at different levels of development, an A Level topic in Cambridge 9708 tested on Papers 3 and 4.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of/).
