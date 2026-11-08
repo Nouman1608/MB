@@ -20,6 +20,8 @@ description: "Recall notes on motives for empire, Faidherbe, Lugard, Leopold II,
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words."
 ---
 
 **Key question 1.5 (Cambridge IGCSE 0470 and O Level 2147) covers why
@@ -94,6 +96,20 @@ imperialism in Africa.' How far do you agree?*
    businesses and some governments wanted colonies, but rivalry and
    prestige explain the speed of the Scramble after 1884. State which
    mattered more and why.
+
+## Key people and terms
+
+| Person or term | Remember |
+|---|---|
+| Berlin Conference (1884–85) | European powers set rules for claiming African territory |
+| Louis Faidherbe | French governor of Senegal; assimilation and direct rule |
+| Frederick Lugard | British administrator in Nigeria; indirect rule through local rulers |
+| Leopold II | Belgian king whose Congo Free State (1885–1908) was run for profit, with forced labour for rubber |
+| Government of India Act (1858) | Ended East India Company rule; India placed under the Crown and a Viceroy |
+| USS *Maine* (February 1898) | Explosion in Havana harbour used to stir US support for war with Spain |
+| Treaty of Paris (December 1898) | Spain ceded the Philippines, Puerto Rico and Guam to the USA |
+| Emilio Aguinaldo | Filipino leader who fought the USA after 1899 |
+| Platt Amendment (1901) | Gave the USA the right to intervene in Cuba |
 
 ## Exam traps
 

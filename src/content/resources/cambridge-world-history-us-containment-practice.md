@@ -20,14 +20,17 @@ description: "Original structured questions with mark guidance on US containment
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: disclaimer reworded (page has no sources); FAQ added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions.
-> The wording and exact sources below are invented for practice purposes,
-> but the structure follows the syllabus's own: on Paper 1, Core Content
-> questions are three-part structured essays, split (a), (b), (c); on
-> Paper 2, one document question with up to seven sources is set on a
-> single prescribed Core Content topic. Cambridge International holds
+> The wording below is invented for practice purposes, but the structure
+> follows the syllabus's own: Core Content questions on Paper 1 are
+> three-part structured essays, split (a), (b), (c). This page has no
+> source material; the Paper 2 document question (one question, up to
+> seven sources, on a prescribed Core Content topic) is practised on the
+> pages that include sources. Cambridge International holds
 > copyright in its own papers; use these alongside the official past papers
 > available through your school or Cambridge directly.
 
@@ -165,6 +168,17 @@ while showing that Cuba was a partial success. **[10]**
 - Narrating each war instead of judging how effective containment was.
 - Treating the Missile Crisis as a simple US victory.
 - Missing the dates that frame each case: 1950–53, 1959–62, 1955–75.
+
+## Frequently asked questions
+
+**How is IGCSE History 0470 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 40%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two on each, answer one). Each question is a three-part structured essay worth 4, 6 and 10 marks.
+
+**Do 0470 and 2147 share the same Core Content?**
+Yes. For 2024–2026, Cambridge IGCSE History 0470 and O Level History 2147 have the same Core Content key questions, so these questions suit both; only the papers' weightings and IGCSE's third component differ.
+
+**What is the most common mistake on containment questions?**
+Narrating each war rather than judging how effective containment was in Korea, Cuba and Vietnam.
 
 ## Official syllabus
 

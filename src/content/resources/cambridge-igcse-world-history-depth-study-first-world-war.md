@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "depth-studies-0470"
     subtopic: "depth-study-a-wwi-0470"
-description: "The Western Front, the wider war and Germany's defeat, with the causes of the war as background -- Depth Study A: The First World War, 1914-18, distinct from the site's existing guides to the Nineteenth and Twentieth Century core content options."
+description: "Study guide to Cambridge IGCSE History 0470 Depth Study A, the First World War 1914-18: the Western Front, the war beyond Europe and Germany's defeat in 1918."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -147,3 +149,14 @@ the peace settlement of 1919.
 - Know specific named events, dates, and technologies rather than only general descriptions.
 - Confirm with your teacher that Depth Study A is one your course covers: every candidate studies at
   least one of the five.
+
+## Frequently asked questions
+
+**How is Depth Study A examined?**
+In Paper 1 Section B, two questions are set on each Depth Study and you answer one three-part essay (4, 6 and 10 marks); it can also be the basis of coursework or Paper 4.
+
+**Are the causes of the First World War part of Depth Study A?**
+No. They are Core Content Option A (key question 1.6); in the Depth Study they are background only.
+
+**Why did the Schlieffen Plan fail?**
+Belgian resistance, the BEF at Mons, Russia's faster-than-expected mobilisation and the Allied counter-attack at the Marne in September 1914.

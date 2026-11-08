@@ -20,6 +20,8 @@ description: "Original Paper 1 and 2 style questions with answers on slavery, se
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions.
@@ -211,6 +213,20 @@ Southern motives; Source D is about Northern aims, not Southern ones.
   letter written for a political purpose.
 - Copying sources instead of making inferences from them.
 - Mixing up the dates of emancipation (1863) and abolition (1865).
+
+## Frequently asked questions
+
+**How is IGCSE History 0470 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 40%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two on each, answer one). Each question is a three-part structured essay worth 4, 6 and 10 marks.
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 45 minutes, 40 marks, 30%) sets one five-part document question, with up to seven sources, on a prescribed Core Content topic that changes each series.
+
+**Do 0470 and 2147 share the same Core Content?**
+Yes. For 2024–2026, Cambridge IGCSE History 0470 and O Level History 2147 have the same Core Content key questions, so these questions suit both; only the papers' weightings and IGCSE's third component differ.
+
+**What does the Kansas–Nebraska Act question test?**
+Why the 1854 Act, by letting settlers decide on slavery, reopened the question of slavery in the territories and raised tension between North and South.
 
 ## Official syllabus
 

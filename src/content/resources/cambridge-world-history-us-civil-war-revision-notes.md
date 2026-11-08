@@ -20,7 +20,8 @@ description: "Recall notes on the causes of the American Civil War, the 1860 ele
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
----
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section."---
 
 **Key question 1.4 in Cambridge IGCSE 0470 and O Level 2147 asks why
 the United States fought a civil war and what it changed.** You need a
@@ -88,6 +89,32 @@ morale early on. They were not enough in a long war of resources.
 - **Politics:** President Andrew Johnson against the Radical
   Republicans; Reconstruction Acts 1867; Johnson impeached 1868 and
   acquitted by one vote.
+
+## Key people
+
+| Person | Why they matter |
+|---|---|
+| Abraham Lincoln | Republican elected President in 1860; led the Union; Emancipation Proclamation (1863) |
+| Jefferson Davis | President of the Confederacy |
+| Robert E. Lee | Leading Confederate general; surrendered at Appomattox, April 1865 |
+| Ulysses S. Grant | Union general who won in the west and then wore down Lee in 1864–65 |
+| Frederick Douglass | Formerly enslaved abolitionist writer and speaker |
+| John Brown | Abolitionist whose raid on Harpers Ferry (1859) alarmed the South |
+| Harriet Beecher Stowe | Author of *Uncle Tom's Cabin* (1852), which spread anti-slavery feeling in the North |
+| Andrew Johnson | President after Lincoln's assassination; clashed with Congress over Reconstruction |
+
+Naming the right person with the right date is one of the quickest ways to make a (b) explanation specific.
+
+## Advantages at the start of the war
+
+| North | South |
+|---|---|
+| About 22 million people | About 9 million, of whom about 3.5 million were enslaved |
+| Most of the nation's factories, iron and railways | Mainly agricultural; relied on cotton exports |
+| A navy able to blockade Southern ports | Fighting a defensive war on home ground |
+| An established federal government | Skilled generals such as Lee |
+
+Use the table to explain *why the North won*: its resources counted for more as the war became long.
 
 ## Exam traps
 
