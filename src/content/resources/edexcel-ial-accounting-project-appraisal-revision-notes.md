@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Project appraisal (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Project appraisal (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Project Appraisal Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

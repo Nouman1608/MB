@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Financial statements of organisations (YAC11)"
+title: "Edexcel International A Level Accounting: Financial statements of organisations (YAC11)"
 seoTitle: "Edexcel IAL Accounting Financial Statements Study Guide"
 resourceType: "study-guides"
 subject: "accounting"

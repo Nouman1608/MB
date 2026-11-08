@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Social and ethical accounting (YAC11)"
+title: "Edexcel International A Level Accounting: Social and ethical accounting (YAC11)"
 seoTitle: "Edexcel IAL Accounting Social and Ethical Accounting Guide"
 resourceType: "study-guides"
 subject: "accounting"

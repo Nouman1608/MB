@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Capital and revenue expenditure and non-current asset depreciation (YAC11)"
+title: "Edexcel International A Level Accounting: Capital and revenue expenditure and non-current asset depreciation (YAC11)"
 seoTitle: "Edexcel IAL Accounting Capital Spend and Depreciation"
 resourceType: "study-guides"
 subject: "accounting"

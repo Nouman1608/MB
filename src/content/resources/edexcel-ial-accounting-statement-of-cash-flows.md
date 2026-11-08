@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Statement of cash flows (YAC11)"
+title: "Edexcel International A Level Accounting: Statement of cash flows (YAC11)"
 seoTitle: "Edexcel IAL Accounting Statement of Cash Flows Guide (YAC11)"
 resourceType: "study-guides"
 subject: "accounting"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Limited companies (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Limited companies (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Limited Companies Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: The trial balance and correction of errors (YAC11)"
+title: "Edexcel International A Level Accounting: The trial balance and correction of errors (YAC11)"
 seoTitle: "Edexcel IAL Accounting Trial Balance and Errors Guide"
 resourceType: "study-guides"
 subject: "accounting"

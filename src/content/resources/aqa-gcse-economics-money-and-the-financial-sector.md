@@ -98,8 +98,6 @@ Without banks, savers' money would sit idle and firms would find it harder to in
 
 ## Frequently asked questions
 
-**What are the four functions of money?** A medium of exchange, a unit of account, a store of value and a means of deferred payment.
-
 **Why is barter inefficient?** It needs a double coincidence of wants, so people must find someone who has what they want and wants what they have.
 
 **What is the main role of the Bank of England?** It sets the Bank Rate to meet the inflation target and keeps the financial system stable.

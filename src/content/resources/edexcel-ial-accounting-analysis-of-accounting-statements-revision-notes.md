@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Analysis of accounting statements (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Analysis of accounting statements (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Ratio Analysis Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

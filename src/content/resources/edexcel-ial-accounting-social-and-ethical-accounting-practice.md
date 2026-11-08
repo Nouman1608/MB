@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Social and ethical accounting (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Social and ethical accounting (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Social and Ethical Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"

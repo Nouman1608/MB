@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Marginal costing and absorption costing (YAC11)"
+title: "Edexcel International A Level Accounting: Marginal costing and absorption costing (YAC11)"
 seoTitle: "Edexcel IAL Accounting Marginal vs Absorption Costing Guide"
 resourceType: "study-guides"
 subject: "accounting"

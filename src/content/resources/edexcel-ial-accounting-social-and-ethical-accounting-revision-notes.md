@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Social and ethical accounting (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Social and ethical accounting (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Social and Ethical Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

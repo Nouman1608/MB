@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Limited companies (YAC11)"
+title: "Edexcel International A Level Accounting: Limited companies (YAC11)"
 seoTitle: "Edexcel IAL Accounting Limited Companies Study Guide"
 resourceType: "study-guides"
 subject: "accounting"

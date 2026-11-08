@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Role and purpose, concepts and conventions (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Role and purpose, concepts and conventions (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Concepts Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

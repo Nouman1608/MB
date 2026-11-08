@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: The double entry system (YAC11)"
+title: "Edexcel International A Level Accounting: The double entry system (YAC11)"
 seoTitle: "Edexcel A-Level Accounting Double Entry System Guide"
 resourceType: "study-guides"
 subject: "accounting"

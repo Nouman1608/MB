@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Role and purpose of accounting, and concepts and conventions (YAC11)"
+title: "Edexcel International A Level Accounting: Role and purpose of accounting, and concepts and conventions (YAC11)"
 seoTitle: "Edexcel IAL Accounting Role, Purpose and Concepts Guide"
 resourceType: "study-guides"
 subject: "accounting"

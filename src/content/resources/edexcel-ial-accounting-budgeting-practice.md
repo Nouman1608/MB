@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Budgeting (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Budgeting (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Budgeting Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Statement of cash flows (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Statement of cash flows (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Statement of Cash Flows Practice"
 resourceType: "practice-questions"
 subject: "accounting"

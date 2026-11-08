@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Standard costing (YAC11)"
+title: "Edexcel International A Level Accounting: Standard costing (YAC11)"
 seoTitle: "Edexcel IAL Accounting Standard Costing Study Guide (YAC11)"
 resourceType: "study-guides"
 subject: "accounting"

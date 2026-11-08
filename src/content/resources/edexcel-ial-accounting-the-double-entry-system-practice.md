@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: The double entry system (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: The double entry system (YAC11) -- Practice Questions"
 seoTitle: "Edexcel A-Level Accounting Double Entry Practice"
 resourceType: "practice-questions"
 subject: "accounting"

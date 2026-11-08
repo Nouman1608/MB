@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Investment ratios (YAC11)"
+title: "Edexcel International A Level Accounting: Investment ratios (YAC11)"
 seoTitle: "Edexcel IAL Accounting Investment Ratios Study Guide"
 resourceType: "study-guides"
 subject: "accounting"

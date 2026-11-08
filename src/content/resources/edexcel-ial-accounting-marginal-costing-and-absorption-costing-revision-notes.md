@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Marginal costing and absorption costing (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Marginal costing and absorption costing (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Marginal Costing Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

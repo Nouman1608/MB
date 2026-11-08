@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Information and communication technology (ICT) in accounting (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Information and communication technology (ICT) in accounting (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting ICT in Accounting Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

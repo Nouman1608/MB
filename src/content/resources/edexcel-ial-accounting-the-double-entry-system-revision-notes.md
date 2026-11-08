@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: The double entry system (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: The double entry system (YAC11) -- Revision Notes"
 seoTitle: "Edexcel A-Level Accounting Double Entry Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Break-even analysis (YAC11)"
+title: "Edexcel International A Level Accounting: Break-even analysis (YAC11)"
 seoTitle: "Edexcel IAL Accounting Break-even Analysis Study Guide"
 resourceType: "study-guides"
 subject: "accounting"

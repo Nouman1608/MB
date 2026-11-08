@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Capital and revenue expenditure and depreciation (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Capital and revenue expenditure and depreciation (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Depreciation Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"

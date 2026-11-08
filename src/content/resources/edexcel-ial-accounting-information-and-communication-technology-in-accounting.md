@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Information and communication technology (ICT) in accounting (YAC11)"
+title: "Edexcel International A Level Accounting: Information and communication technology (ICT) in accounting (YAC11)"
 seoTitle: "Edexcel IAL Accounting ICT in Accounting Study Guide"
 resourceType: "study-guides"
 subject: "accounting"

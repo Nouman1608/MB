@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Capital and revenue expenditure and depreciation (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Capital and revenue expenditure and depreciation (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Depreciation Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

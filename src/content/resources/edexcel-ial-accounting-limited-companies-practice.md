@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Limited companies (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Limited companies (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Limited Companies Practice"
 resourceType: "practice-questions"
 subject: "accounting"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Investment ratios (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Investment ratios (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Investment Ratios Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"

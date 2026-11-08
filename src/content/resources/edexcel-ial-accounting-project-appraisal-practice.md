@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Project appraisal (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Project appraisal (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Project Appraisal Practice"
 resourceType: "practice-questions"
 subject: "accounting"

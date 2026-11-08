@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Control Accounts and Correction of Errors — Revision Notes"
+title: "Edexcel International A Level Accounting: Control Accounts and Correction of Errors — Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: The trial balance and correction of errors (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: The trial balance and correction of errors (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Trial Balance Errors Notes"
 resourceType: "revision-notes"
 subject: "accounting"

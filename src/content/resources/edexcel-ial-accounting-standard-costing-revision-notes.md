@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Standard costing (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Standard costing (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Standard Costing Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

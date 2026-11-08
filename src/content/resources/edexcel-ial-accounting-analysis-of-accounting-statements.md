@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Analysis of accounting statements (YAC11)"
+title: "Edexcel International A Level Accounting: Analysis of accounting statements (YAC11)"
 seoTitle: "Edexcel IAL Accounting Ratio Analysis Study Guide (YAC11)"
 resourceType: "study-guides"
 subject: "accounting"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Financial statements of organisations (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Financial statements of organisations (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Financial Statements Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Role and purpose, concepts and conventions (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Role and purpose, concepts and conventions (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Concepts Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"

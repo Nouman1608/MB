@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Financial statements of organisations (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Financial statements of organisations (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Financial Statements Practice"
 resourceType: "practice-questions"
 subject: "accounting"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Investment ratios (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Investment ratios (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Investment Ratios Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

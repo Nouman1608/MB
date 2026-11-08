@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Marginal costing and absorption costing (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Marginal costing and absorption costing (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Marginal Costing Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"

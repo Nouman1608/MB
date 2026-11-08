@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Budgeting (YAC11)"
+title: "Edexcel International A Level Accounting: Budgeting (YAC11)"
 seoTitle: "Edexcel IAL Accounting Budgeting Study Guide (YAC11)"
 resourceType: "study-guides"
 subject: "accounting"

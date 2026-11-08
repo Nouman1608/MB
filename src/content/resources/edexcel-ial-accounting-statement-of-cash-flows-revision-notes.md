@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Statement of cash flows (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Statement of cash flows (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Cash Flow Statement Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"

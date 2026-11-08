@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Standard costing (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Standard costing (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Standard Costing Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"

@@ -219,9 +219,6 @@ Next, use the [revision notes](/resources/oxfordaqa-a-level-economics-production
 **What is production in economics?**
 Production converts inputs, such as raw materials, capital and labour, into final output. The same idea applies to services, such as a call centre turning staff and computers into resolved calls.
 
-**What raises labour productivity?**
-Labour productivity rises with more or better capital per worker, newer technology, more skills, training, education and better health, and better organisation and management, including specialisation.
-
 **What is the double coincidence of wants?**
 Under barter, each person must find a partner who has the good they want and also wants the good they offer. Money removes this need, because each trade becomes a sale for money followed by a purchase with money.
 

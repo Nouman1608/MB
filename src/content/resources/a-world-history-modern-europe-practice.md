@@ -145,9 +145,6 @@ question they attempt.
 **How are the AS papers for 9489 structured?**
 Paper 1, Historical Sources (1 hour 15 minutes, 40 marks), is one two-part question on four sources, worth 15 and 25 marks. Paper 2, Outline Study (1 hour 45 minutes, 60 marks), is two two-part questions, each worth 10 + 20 marks.
 
-**Which topic is on which paper?**
-The three topics in each AS option rotate between Paper 1 and Paper 2 according to the table printed in the 2027–2029 syllabus; in any year the topic set for Paper 1 is not set for Paper 2.
-
 **What is the most common Paper 2 weakness?**
 Narrating events instead of explaining causes in part (a) and reaching a weighed judgement in part (b).
 

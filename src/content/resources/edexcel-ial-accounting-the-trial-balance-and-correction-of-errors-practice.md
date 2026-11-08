@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: The trial balance and correction of errors (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: The trial balance and correction of errors (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Trial Balance Errors Practice"
 resourceType: "practice-questions"
 subject: "accounting"

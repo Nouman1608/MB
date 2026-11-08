@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Break-even analysis (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Break-even analysis (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Break-even Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"

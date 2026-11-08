@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Project appraisal (YAC11)"
+title: "Edexcel International A Level Accounting: Project appraisal (YAC11)"
 seoTitle: "Edexcel IAL Accounting Project Appraisal Study Guide"
 resourceType: "study-guides"
 subject: "accounting"
