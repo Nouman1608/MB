@@ -13,6 +13,12 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-shakespeare-and-drama-9695"
+  - qualification: "a-level"
+    topic: "paper-3-shakespeare-and-drama-9695"
+    subtopic: "section-a-shakespeare-9695"
+  - qualification: "a-level"
+    topic: "paper-3-shakespeare-and-drama-9695"
+    subtopic: "section-b-drama-9695"
 description: "How Paper 3 differs from the AS Level papers in Cambridge International A Level Literature in English 9695: A-Level-only availability, the introduction of AO5 (evaluation of opinion), the Shakespeare and Drama sections, and the 2026-series set texts, for the 2024-2026 syllabus."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

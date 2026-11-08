@@ -13,6 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-drama-and-poetry-9695"
+  - qualification: "a-level"
+    topic: "paper-1-drama-and-poetry-9695"
+    subtopic: "section-a-drama-9695"
+  - qualification: "a-level"
+    topic: "paper-1-drama-and-poetry-9695"
+    subtopic: "section-b-poetry-9695"
 description: "Condensed recall notes on Paper 1's structure, timing, question choices and assessment objectives for Cambridge International A Level English Literature 9695, 2024-2026 series."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
