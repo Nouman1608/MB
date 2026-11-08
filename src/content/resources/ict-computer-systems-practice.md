@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "types-and-components-of-computer-systems"
+  - qualification: "igcse"
+    topic: "types-and-components-of-computer-systems"
+    subtopic: "the-main-components-of-computer-systems-0417"
 description: "Original exam-style practice questions with full worked answers on hardware, software, storage, networks and system security."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
