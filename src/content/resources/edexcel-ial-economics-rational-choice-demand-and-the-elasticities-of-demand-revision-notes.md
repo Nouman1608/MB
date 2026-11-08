@@ -233,6 +233,23 @@ The slope is the same all along the line, yet PED falls in size as price falls. 
 - Treating the six reasons for non-rational choice as interchangeable, instead of linking each to a behaviour.
 - Ending a significance answer with no judgement about how reliable elasticity estimates are.
 
+## Frequently asked questions
+
+**What are the six reasons consumers may not maximise utility in Edexcel IAL Economics?**
+The Edexcel IAL Economics specification (YEC11, section 1.3.2) lists herding, habit, inertia, poor computational skills, the need to feel valued, and framing and bias. Each should be linked to a specific behaviour, such as joining the longer queue (herding) or not switching to a cheaper tariff (inertia).
+
+**How do you calculate price elasticity of demand?**
+Divide the percentage change in quantity demanded by the percentage change in price, working out each percentage change as change divided by the original value times 100 and keeping the sign. Then name the result, such as elastic or inelastic, and say what it means for revenue.
+
+**What does a negative income elasticity of demand mean?**
+A negative YED means the good is inferior: demand falls as real income rises. A positive YED means a normal good, which is income inelastic between 0 and +1 and income elastic above +1.
+
+**How does PED change along a straight-line demand curve?**
+Although the slope is constant, PED falls in size as price falls because the ratio of price to quantity changes. The upper section is elastic, the midpoint is unitary and the lower section is inelastic, and total revenue peaks where PED is -1.
+
+**Why does an inelastic good raise more indirect tax revenue?**
+When demand is price inelastic, quantity falls by a smaller percentage than the price rises, so the tax base shrinks little and revenue is large. The trade-off is that consumption falls only a little, so the tax is weaker if the aim is to change behaviour.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.2 Consumer behaviour and demand, items 1 to 3.

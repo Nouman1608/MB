@@ -272,6 +272,23 @@ The subsidy is shared in the same way as a tax: by elasticity. The net loss of 2
 
 Next: test yourself with the [revision notes](/resources/edexcel-ial-economics-price-determination-surplus-the-price-mechanism-revision-notes/) and the [practice questions](/resources/edexcel-ial-economics-price-determination-surplus-the-price-mechanism-practice/).
 
+## Frequently asked questions
+
+**What are the three functions of the price mechanism?**
+The rationing function limits scarce goods to those willing and able to pay. The incentive function means higher prices and profits encourage producers to supply more and consumers to economise. The signalling function means price changes tell producers and consumers where resources are wanted.
+
+**How do market forces remove excess supply?**
+When price is above equilibrium, unsold stock builds up and sellers cut prices to clear it. As price falls, quantity demanded extends along the demand curve and quantity supplied contracts along the supply curve until the gap closes at equilibrium.
+
+**How does a subsidy affect a market?**
+A per-unit subsidy is paid by government to producers, so it shifts the supply curve downward by the amount of the subsidy. Price falls and quantity rises, and the gain is shared between consumers and producers according to elasticity, while the government bears the cost.
+
+**Does the price mechanism work the same way in local and global markets?**
+The same three functions operate at every scale, but speed and the mix of buyers differ. A local stall can change its price in minutes, while in a global commodity market the signal travels fast but supply may take a whole growing season to respond and low-income buyers can be priced out.
+
+**Why might a tax on a good with elastic demand raise little revenue?**
+Tax revenue equals the tax per unit times the quantity sold after the tax. If demand is elastic, quantity falls sharply when the price rises, so the base shrinks and revenue is small.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, section 1.3.4 Price determination, items 1 to 4. Published by Pearson Education Limited.

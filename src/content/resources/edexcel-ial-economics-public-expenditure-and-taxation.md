@@ -287,6 +287,23 @@ Foreign direct investment (FDI) responds to the post-tax return. A firm invests 
 - Calling every tax cut revenue-raising.
 - Assuming indirect taxes always fall fully on buyers.
 
+## Frequently asked questions
+
+**What does the Laffer curve show?**
+The Laffer curve shows tax revenue first rising and then falling as the tax rate rises, because a higher rate can shrink the tax base through less work, avoidance or evasion. The revenue-maximising rate is not known in advance and differs by tax, country and time horizon.
+
+**Why does public expenditure change over time?**
+Edexcel IAL Economics section 4.3.5 names changing incomes, the changing age distribution of the population and changing expectations. For example, an ageing population raises spending on pensions and health and shifts the pattern away from education.
+
+**Does higher public spending as a share of GDP raise productivity and growth?**
+It depends on what the money buys. Capital spending on transport or training can raise productivity and shift long-run aggregate supply right, while a high share made up of transfers or waste may not, and the taxes needed to fund it can weaken incentives.
+
+**How do changes in corporation tax affect foreign direct investment?**
+FDI responds to the post-tax return, so a lower corporation tax rate raises the return on a given pre-tax profit and can attract investment. Market size, skills, infrastructure and stability still matter, so a tax cut alone may not decide where firms invest.
+
+**How can an indirect tax rise affect the price level?**
+An indirect tax raises firms' costs and shifts short-run aggregate supply left, causing cost-push pressure on prices. The effect on the overall price level depends on how much of the tax is passed on and the weight of taxed goods in the consumer basket.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited, section 4.3.5 items 1 and 2.

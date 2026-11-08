@@ -208,6 +208,23 @@ Always give both a mechanism and a counter-point.
 - Giving only the benefits of growth for the poor with no check on distribution.
 - Stating effects of inequality with no counter-argument or time frame.
 
+## Frequently asked questions
+
+**Can absolute poverty fall while relative poverty rises?**
+Yes. If median income rises faster than a poor household's income, the relative poverty line moves up past that household, even though it is better off in real terms. Absolute poverty can therefore fall at the same time as relative poverty rises.
+
+**Why should you quote the poverty gap as well as the headcount ratio?**
+The headcount ratio counts how many people are below the line but ignores how far below they are. The poverty gap measures the average shortfall of the poor, so it captures the depth of poverty that the headcount misses.
+
+**What does the Lorenz curve show?**
+The Lorenz curve plots the cumulative share of income against the cumulative share of households, ranked from poorest to richest. The diagonal is the line of equality, and the further the curve sags below it, the more unequal the distribution.
+
+**What is the Kuznets hypothesis?**
+The Kuznets hypothesis suggests that inequality first rises as workers move into higher-paid modern sectors during development, then falls as schooling spreads and the state taxes and spends more. It is a pattern, not a law, so it should be evaluated by time period and policy.
+
+**Does free market capitalism increase inequality?**
+Market prices reward productivity, risk and scarcity, so unequal rewards follow, and markets do not redistribute automatically. Supporters point to efficiency, incentives and growth that can lift all incomes, so most economies use taxes, transfers and public services and debate how far to intervene.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited: Unit 4, topic 4.3.4 Poverty and inequality, points 1 and 2.

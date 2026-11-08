@@ -140,6 +140,20 @@ Links: [study guide](/resources/edexcel-ial-economics-revenue-short-run-costs-an
 - Take the [free 10-minute diagnostics](/diagnostics/) for all topics.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between marginal revenue and average revenue?**
+Average revenue is total revenue divided by output, which equals price. Marginal revenue is the change in total revenue divided by the change in output; dividing total revenue by quantity gives AR, not MR, which is a common slip.
+
+**Is revenue and costs an AS or A2 topic in Edexcel IAL Economics?**
+Revenue, short-run costs and diminishing returns are section 3.3.2 items 1 and 2 of the Edexcel IAL Economics specification (YEC11). They sit in Unit 3, Business behaviour, which is International A2 content and not part of the IAS.
+
+**How should you define the short run and the long run in an exam answer?**
+Define them by what can be varied, not by a length of time. In the short run at least one factor, such as the workshop, is fixed, while in the long run all factors can be varied; the calendar length differs between industries.
+
+**Where are marks usually lost on short-run cost questions?**
+Common errors include including fixed cost in marginal cost, writing that total output falls when only marginal product falls, explaining the U shape of MC without linking it to marginal product, and stating that ATC and AVC reach their minimum at the same output.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), specification Issue 2, June 2018, section 3.3.2 items 1 and 2, published by Pearson Education Limited.

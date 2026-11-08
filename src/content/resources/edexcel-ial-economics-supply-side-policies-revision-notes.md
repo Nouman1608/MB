@@ -212,6 +212,23 @@ Time lag, cost and opportunity cost, size of the response, equity, certainty, an
 - Forgetting that a welfare cut works only if vacancies exist.
 - Quoting figures with no source or label; say when a figure is illustrative.
 
+## Frequently asked questions
+
+**What is the aim of supply-side policies?**
+Supply-side policies aim to raise potential output, shown as a rightward shift of the vertical long-run aggregate supply curve. They work through three routes: higher productivity, more competition and stronger incentives to work, save and invest.
+
+**Are tax cuts free market or interventionist supply-side policies?**
+In the Edexcel IAL Economics specification (section 2.3.6), reductions in taxation are free market policies. Tax incentives or subsidies designed to encourage investment are classed as interventionist policies.
+
+**What criteria should you use to evaluate a supply-side policy?**
+Useful criteria are the time lag, cost and opportunity cost, the size of the response, equity, certainty and the effect on other objectives. A strong judgement picks the criteria that matter in the case given and names the condition on which the answer turns.
+
+**Why might cutting welfare benefits fail to raise labour supply?**
+A lower benefit raises the gain from working, but it only helps if there are vacancies for people to fill. It can also raise poverty and inequality, and lower spending can reduce aggregate demand.
+
+**How do you match a supply-side policy to a problem?**
+Start from the cause: training suits a skills shortage, tax cuts or welfare changes target weak incentives to work, infrastructure lowers the cost of moving goods and people, and regional policy targets areas of high unemployment. Then weigh the main limit of that policy, such as a long time lag or deadweight.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited: section 2.3.6, statement 3 (a-d).

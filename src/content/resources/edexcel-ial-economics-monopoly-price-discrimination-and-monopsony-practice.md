@@ -135,6 +135,23 @@ These questions cover section 3.3.3 Market structures and contestability, item 6
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of the Edexcel IAL Economics specification covers monopoly and monopsony?**
+Monopoly is item 6 and monopsony is item 7 of section 3.3.3, Market structures and contestability, in the Pearson Edexcel IAL Economics specification (YEC11). This is Unit 3 content, examined in the full International Advanced Level.
+
+**How do you avoid losing marks when calculating a monopoly price?**
+Find output where MR equals MC, then go up to the demand curve to read the price, rather than taking it from the MC or MR curve. For a straight-line demand curve, MR has twice the slope of demand, and fixed costs must be subtracted to reach profit.
+
+**How should you answer a price discrimination calculation?**
+Solve MR = MC separately in each market and read each price from that market's own demand curve. Applying a single price to both markets and calling it discrimination gains little credit.
+
+**Where do students go wrong on monopsony wage questions?**
+The usual error is reading the wage from the marginal cost of labour curve. Employment is set where MCL equals MRP, and the wage is then read down to the labour supply curve at that level of employment.
+
+**How do you evaluate whether monopoly is against consumers' interests?**
+Give costs and benefits with reasons, then reach a judgement tied to a stated condition. Questions using "always" invite a specific counter-example in which consumers gain, and evaluation should do more than restate the points already made.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 3.3.3 Market structures and contestability, items 6 and 7.

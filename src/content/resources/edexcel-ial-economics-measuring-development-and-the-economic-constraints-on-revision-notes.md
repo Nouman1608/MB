@@ -251,6 +251,23 @@ A fall in commodity prices cuts export earnings. That widens the foreign currenc
 - Treating the two gaps as the same thing.
 - Writing about capital flight without a link to investment or the exchange rate.
 
+## Frequently asked questions
+
+**What is the difference between economic growth and economic development?**
+Economic growth is a rise in real output. Economic development is wider: it covers rising living standards, health, education and choice, which is why measures such as the HDI look beyond income.
+
+**Why is the HDI a geometric mean rather than an arithmetic mean?**
+The HDI is the cube root of the health, education and income indices multiplied together. A geometric mean is lower than an arithmetic mean when the profile is uneven, so a very low score on one component cannot be fully offset by a high score on another.
+
+**What is the difference between the savings gap and the foreign currency gap?**
+The savings gap is the investment needed for a target growth rate minus domestic saving, so it concerns local resources. The foreign currency gap is the foreign currency needed for imports minus foreign currency earned. Domestic saving cannot buy imports, and when the two gaps differ the larger one is the binding constraint.
+
+**Is Prebisch-Singer a fact or a hypothesis in Edexcel IAL Economics?**
+It is a hypothesis: primary product prices are claimed to fall relative to manufactured prices over the long run, worsening the terms of trade of primary exporters. Evidence is mixed and depends on the product and period, so in Edexcel IAL Economics (YEC11) answers it should be evaluated rather than stated as fact.
+
+**How do you calculate the saving ratio needed in the Harrod-Domar model?**
+Rearrange g = s / k to s = g x k, where k is the capital-output ratio. For example, a 5% growth target with k = 4.0 needs a saving ratio of 20%, and the savings gap is the difference between that and actual saving.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018, Pearson Education Limited, Unit 4, section 4.3.6.

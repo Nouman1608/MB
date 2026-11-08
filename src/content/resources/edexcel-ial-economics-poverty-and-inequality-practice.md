@@ -137,6 +137,23 @@ These questions cover topic 4.3.4, Poverty and inequality, from Unit 4: Developm
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which topic covers poverty and inequality in Edexcel IAL Economics?**
+Poverty and inequality is topic 4.3.4 in Unit 4, Developments in the global economy, of the Pearson Edexcel International A Level Economics specification (Issue 2, June 2018). Unit 4 is one of the International A2 units.
+
+**What is the difference between a headcount ratio and the number of people in poverty?**
+The headcount ratio is the share of the population in poverty, while the number in poverty is a count of people. The two can move in different directions when population changes, so state which measure your comment refers to.
+
+**Does a higher Gini coefficient mean more or less equality?**
+A higher Gini coefficient means more inequality, and a lower one means more equality. Reading a higher Gini as more equal, or reporting the area under the Lorenz curve as the Gini, are common ways to lose marks.
+
+**How do you calculate an effective marginal tax rate?**
+Add together the tax paid on extra income and the means-tested benefit withdrawn as income rises, then express the total as a share of the extra earnings. Leaving out either the withdrawn benefit or the tax gives the wrong rate.
+
+**How should you approach a 10-mark evaluation on poverty and inequality?**
+Use the data given, give a counter-point to each argument and compare explanations or policies against each other. End with a supported judgement rather than a summary of points already made.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited: Unit 4, topic 4.3.4 Poverty and inequality, points 1 and 2.

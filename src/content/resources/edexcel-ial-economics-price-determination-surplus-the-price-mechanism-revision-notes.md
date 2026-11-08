@@ -285,6 +285,23 @@ Use Market R above unless a question says otherwise.
 - Stating that a subsidy is good or bad without comparing cost with benefit.
 - Describing a diagram without naming axes, curves and the new equilibrium.
 
+## Frequently asked questions
+
+**Who bears more of an indirect tax, consumers or producers?**
+The less price-elastic side of the market bears more of the tax, because it is less able to walk away. Incidence is 50:50 only when the two sides respond equally, so check the elasticities before stating the split.
+
+**Is producer surplus the same as profit?**
+No. Producer surplus is the price received minus the minimum price at which firms would supply, the area above the supply curve and below the price. It is measured against marginal cost, so fixed costs are not subtracted and it is not profit.
+
+**What is the difference between a specific tax and an ad valorem tax?**
+A specific tax adds the same cash amount to every unit, so it shifts the supply curve vertically upward by the tax. An ad valorem tax is a percentage of the price, so the supply curve pivots and the vertical gap widens as price rises.
+
+**What is the difference between a movement along a demand curve and a shift?**
+A change in the good's own price causes a movement along the curve. A change in a non-price factor, such as income, tastes, prices of related goods, population or expectations, shifts the whole demand curve.
+
+**Is price determination in the Edexcel IAL Economics AS course?**
+Yes. Price determination is section 1.3.4 of the Edexcel IAL Economics specification (YEC11) in Unit 1, Markets in action, so it is International AS content and is also part of the full International A Level.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, section 1.3.4 Price determination. Published by Pearson Education Limited.

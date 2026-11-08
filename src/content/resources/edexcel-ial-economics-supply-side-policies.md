@@ -205,6 +205,23 @@ A small change in the trend rate compounds. It also shows why a policy with a lo
 - Forgetting that benefit cuts help supply only if jobs exist.
 - Stating that privatisation always lowers prices.
 
+## Frequently asked questions
+
+**Is supply-side policy an AS or A2 topic in Edexcel IAL Economics?**
+Supply-side policies are statement 3 of section 2.3.6 in Unit 2, Macroeconomic performance and policy, of the Edexcel IAL Economics specification. Unit 2 is International AS content that also carries into the full International A Level.
+
+**Does privatisation always lower prices?**
+No. Private owners seeking profit may cut waste and lower unit costs, but whether prices fall depends on competition or regulation. A public monopoly can become a private monopoly with more market power, and unprofitable but socially valuable services may be dropped.
+
+**Why might firms under-invest in training without government help?**
+Firms may be reluctant to pay for training because trained workers can leave for other employers, which is a market failure. Interventionist policies such as state investment in education, training and skills aim to correct it, though they involve long time lags and high costs.
+
+**Do supply-side policies affect aggregate demand?**
+Their target is long-run aggregate supply, but some have demand-side effects too. A tax cut or a subsidy can raise aggregate demand quickly, while the increase in productive capacity usually comes more slowly.
+
+**Why does a small rise in trend growth matter?**
+Growth compounds over time, so even a small rise in the trend rate leaves potential output noticeably higher after a decade. This is why a supply-side policy with a long time lag can still be worth its cost.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited: section 2.3.6, statement 3 (a-d).

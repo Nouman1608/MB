@@ -118,6 +118,23 @@ These questions cover statement 3 of 2.3.6 Macroeconomic objectives and policies
 - Take one of our free 10-minute [diagnostics](/diagnostics/) to find your weakest areas.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where are supply-side policies in the Edexcel IAL Economics specification?**
+Supply-side policies are statement 3 of section 2.3.6, Macroeconomic objectives and policies, in the Pearson Edexcel IAL Economics specification. This is Unit 2 content, an International AS unit that also counts towards the full International A Level.
+
+**What is the difference between free market and interventionist supply-side policies?**
+Free market policies reduce the role of the state, for example through privatisation, deregulation or tax cuts. Interventionist policies involve the state acting directly, for example through regional grants, subsidies for investment, infrastructure spending or retraining.
+
+**What is deadweight in a supply-side subsidy scheme?**
+Deadweight is spending on firms or people who would have done the same thing without the subsidy. When judging a scheme's value, measure its cost against the additional investment or activity it actually causes, not total spending.
+
+**How do you explain how a supply-side policy increases long-run aggregate supply?**
+Carry the chain of reasoning through to productive potential, not just a short-run effect such as firms hiring more. Name the policy, explain how it raises the quantity or quality of factors or productivity, and then link that to a rightward shift of long-run aggregate supply.
+
+**Where are marks usually lost on supply-side policy questions?**
+Common slips include naming a policy without explaining how it raises supply, putting tax reductions in the wrong category, giving one-word weaknesses such as "expensive", ignoring time lags and treating supply-side policy as aggregate demand policy.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited: section 2.3.6, statement 3 (a-d).

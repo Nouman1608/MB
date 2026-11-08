@@ -133,6 +133,23 @@ Links: [study guide](/resources/edexcel-ial-economics-rational-choice-demand-and
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of the Edexcel IAL Economics specification covers rational choice and elasticities?**
+Rational choice, demand and the elasticities of demand are section 1.3.2, Consumer behaviour and demand, items 1 to 3, of the Edexcel IAL Economics specification (YEC11). This is Unit 1 content, part of both the International AS and the full International A Level.
+
+**Why does the sign of an elasticity matter?**
+The sign tells you the relationship. A negative income elasticity identifies an inferior good, and a negative cross elasticity identifies complements, so dropping the sign can lead to the wrong classification.
+
+**How do you use marginal utility to find how many units a consumer buys?**
+Convert marginal utility into money values first, then compare each unit's money value with the price. A consumer keeps buying while the value of the extra unit is at least the price; comparing utils directly with a price cannot give a quantity.
+
+**What are common mistakes in price elasticity of demand calculations?**
+Typical errors are dividing by the new figure rather than the original in a percentage change, giving a PED value with no interpretation or revenue consequence, and calling a whole straight-line demand curve elastic or inelastic.
+
+**How should you evaluate a pricing decision using PED?**
+Base the recommendation on the calculated revenue effect, then name at least one limit on the estimate, such as rivals' reactions or elasticity changing over a larger price range. A one-sided verdict or a list of caveats with no conclusion is weaker.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.2 Consumer behaviour and demand, items 1 to 3.

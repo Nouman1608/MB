@@ -267,6 +267,23 @@ In Country B (illustrative), the state spends 180 of a national income of 500, o
 
 For technique, see the [exam preparation page](/resources/edexcel-ial-economics-exam-preparation/).
 
+## Frequently asked questions
+
+**Why is economics called a social science?**
+Economics studies how people, firms and governments make choices, and it cannot normally run controlled experiments on a whole economy. People also change their behaviour when studied, so economists rely on models built on simplifying assumptions.
+
+**What is opportunity cost?**
+Opportunity cost is the best alternative forgone when a choice is made. Scarcity forces choice, and choice creates opportunity cost; it should be expressed as the next best alternative, not as a money cost or a list of every alternative.
+
+**What is the difference between renewable and non-renewable resources?**
+Renewable resources, such as fish stocks, forests and solar energy, can regenerate but are depleted if use exceeds regeneration. Non-renewable resources, such as coal, oil and metal ores, are a fixed stock, so each unit used now is unavailable later.
+
+**What did Adam Smith say about the division of labour?**
+In The Wealth of Nations (1776), Adam Smith argued, using a pin factory as his illustration, that dividing a job into small tasks raises output. Workers gain skill and dexterity, save time moving between tasks and make use of machinery.
+
+**Why does producing more capital goods shift the PPF outwards?**
+Capital goods such as machines and factories raise productivity, or output per worker, and so raise potential output in future. The cost is fewer consumer goods now, and the gain depends on the quality of the investment.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.1 Introductory concepts, items 1 to 6.

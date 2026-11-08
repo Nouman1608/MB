@@ -204,6 +204,23 @@ Method for one row, workers = 4. Q = 58. TVC = 4 x 400 = 1,600. TC = 600 + 1,600
 - Forgetting that AFC falls all the way but never reaches zero.
 - Using only the quantity change in a PED calculation. Use both percentage changes.
 
+## Frequently asked questions
+
+**Why is average revenue always equal to price?**
+Total revenue is price times quantity, so dividing total revenue by quantity gives price. This is why a firm's AR curve is its demand curve.
+
+**Why is MR below AR for a firm with a downward-sloping demand curve?**
+To sell one more unit the firm must cut its price, and the cut applies to every unit sold, not just the extra one. The extra unit adds its own price, but earlier units now sell for less, so marginal revenue falls below average revenue.
+
+**How does price elasticity of demand affect total revenue?**
+If demand is elastic, a price rise lowers total revenue and a price cut raises it. If demand is inelastic, a price rise raises total revenue and a cut lowers it, and if demand is unitary, total revenue is unchanged.
+
+**What is the difference between short-run and long-run costs?**
+In the short run at least one factor is fixed, so diminishing returns apply and the cost curves are U-shaped. In the long run all factors are variable, so there are no fixed costs, and a firm that expands its plant moves onto a new short-run cost curve.
+
+**Which items of Edexcel IAL Economics 3.3.2 does revenue and short-run costs cover?**
+Revenue and short-run costs are items 1 and 2 of section 3.3.2, Revenue, costs and profits, in the Edexcel IAL Economics specification (YEC11). Items 3 and 4 on scale, profits and shutdown points are a separate part of the same section.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), specification Issue 2, June 2018, section 3.3.2 items 1 and 2, published by Pearson Education Limited.
