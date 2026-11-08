@@ -230,12 +230,15 @@ const target = covJson.rows.find((r) => r.reviewPendingCount > 0 && r.lastTeache
 const targetFile = resourceFiles.find((f) => {
   const fm = fmOf(readFileSync(`${RES}/${f}`, 'utf8'));
   const boards = (fm.match(/^boards:\s*\[(.*)\]/m) || [])[1] ?? '';
-  return !/^reviewStatus:/m.test(fm) && scalar(fm, 'subject') === (hubOf.get(target.subjectSlug) ?? target.subjectSlug) && boards.includes(target.boardSlug) && fm.includes(`"${LEVEL[target.qualificationSlug]}"`);
+  // A page with no review fields, or a review-pending page with no reviewer (most pages carry an explicit status since 2026-11-08).
+  const unreviewed = !/^reviewStatus:/m.test(fm) || (/^reviewStatus:\s*"review-pending"/m.test(fm) && !/^reviewer:/m.test(fm) && !/^specCheck:/m.test(fm));
+  return unreviewed && scalar(fm, 'subject') === (hubOf.get(target.subjectSlug) ?? target.subjectSlug) && boards.includes(target.boardSlug) && fm.includes(`"${LEVEL[target.qualificationSlug]}"`);
 });
 withRestore([`${RES}/${targetFile}`, COV.md, COV.json, COV.csv], 'N4', () => {
   const raw = readFileSync(`${RES}/${targetFile}`, 'utf8');
   // A reviewer credit dated 2026-10-04, and a much later publication date.
   writeFileSync(`${RES}/${targetFile}`, raw
+    .replace(/^(?:reviewStatus|reviewNeeded|updatedDate):.*\n/gm, '')
     .replace(/^publishedDate:.*$/m, 'publishedDate: 2026-10-04\nupdatedDate: 2026-12-31')
     .replace(/^(author:.*)$/m, `$1\nreviewer: "${designated.slug}"\nreviewStatus: "reviewed"\nreviewedDate: 2026-10-04`));
   run(COV_CMD);
