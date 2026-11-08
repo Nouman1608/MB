@@ -26,7 +26,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Component 2 Modern Drama and Literary Heritage
@@ -134,6 +134,18 @@ both, missing the option that would actually suit the candidate's
 prepared material better. Running out of time on Section B because
 Section A's drama question, often the more comfortable of the two, was
 allowed to run over its allocated time.
+
+## Frequently asked questions
+
+**Is 4ET1 Component 2 open book?**
+Yes. Prescribed editions of the set texts are allowed but must be completely unmarked.
+
+**How long is the exam?**
+1 hour 30 minutes for 60 marks and 40% of the qualification: one 30-mark modern drama essay and one 30-mark literary heritage essay.
+
+**Where is context (AO4) assessed?**
+In Section B, Literary Heritage, where AO4 carries 10 of the 30 marks.
+
 
 ## Quick revision checklist
 

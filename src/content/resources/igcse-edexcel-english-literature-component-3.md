@@ -24,7 +24,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Component 3: Modern Drama and Literary Heritage
@@ -135,6 +135,18 @@ requirement that guidance be general only, and can raise an
 authentication concern. Writing a very long response in the belief that
 length alone raises the mark, when precision and a clear line of
 argument are what the assessment objectives reward.
+
+## Frequently asked questions
+
+**What do I submit for 4ET1 Component 3?**
+Two 30-mark assignments: Assignment A on a modern drama text and Assignment B on a literary heritage text, internally assessed and externally moderated.
+
+**Is Component 3 an alternative to the exam?**
+Yes. You take either Component 2 (open-book exam) or Component 3; both are worth 60 marks and 40%.
+
+**Which texts can I use?**
+The same set-text lists as Component 2, for example An Inspector Calls or Macbeth.
+
 
 ## Quick revision checklist
 

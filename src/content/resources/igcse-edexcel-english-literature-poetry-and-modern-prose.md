@@ -29,7 +29,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Component 1 Poetry and Modern Prose**, the
@@ -181,3 +181,14 @@ memorising the poems verbatim.
 Pearson Edexcel International GCSE English Literature (4ET1)
 specification, first teaching 2016 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Literature/2016/Specification%20and%20sample%20assessments/international-gcse-english-literature-specification.pdf).
+
+## Frequently asked questions
+
+**How long is 4ET1 Component 1?**
+2 hours for 90 marks and 60% of the qualification: unseen poetry (20 marks), anthology poetry comparison (30) and modern prose (40).
+
+**Is Component 1 open book?**
+No. Texts are not allowed, but the anthology poems are provided in the examination.
+
+**Which assessment objectives apply?**
+Section A tests AO2; Section B tests AO2 and AO3; Section C tests AO1 and AO4.
