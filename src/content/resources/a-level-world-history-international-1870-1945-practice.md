@@ -13,6 +13,12 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "international-option-history-9489"
+  - qualification: "a-level"
+    topic: "international-option-history-9489"
+    subtopic: "international-relations-1919-29-9489"
+  - qualification: "a-level"
+    topic: "international-option-history-9489"
+    subtopic: "international-history-1929-39-9489"
 description: "Original exam-style practice questions with full worked answers on the three topics of the International Option for Cambridge AS & A Level History (9489), 2027-2029 syllabus."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

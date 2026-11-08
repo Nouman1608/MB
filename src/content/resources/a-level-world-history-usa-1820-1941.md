@@ -13,6 +13,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "american-option-history-usa-9489"
+  - qualification: "a-level"
+    topic: "american-option-history-usa-9489"
+    subtopic: "civil-war-reconstruction-9489"
+  - qualification: "a-level"
+    topic: "american-option-history-usa-9489"
+    subtopic: "great-depression-new-deal-9489"
 description: "The Civil War and Reconstruction, the Gilded Age and Progressive Era, and the Great Depression and New Deal -- the full content of the American Option for Cambridge AS & A Level History 9489, 2027-2029 series."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
