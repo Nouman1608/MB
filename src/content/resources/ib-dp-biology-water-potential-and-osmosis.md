@@ -211,6 +211,23 @@ In example 5, ψp would reach zero when the cell's ψw is −800 kPa. The soluti
 - Calling a plant cell in strong sugar solution "crenated". That is plasmolysed.
 - Forgetting that ψs is negative, so adding solute decreases ψw.
 
+## Frequently asked questions
+
+**What is solvation?**
+Solvation is the clustering of solvent molecules around a solute particle; water's polarity lets its oxygen ends surround positive ions and its hydrogen ends surround negative ions, while polar molecules such as glucose form hydrogen bonds with water.
+
+**What happens to plant cells in hypotonic and hypertonic solutions?**
+In a hypotonic solution water enters and the protoplast pushes on the wall, creating turgor pressure so the cell is turgid; in a hypertonic solution water leaves and the membrane pulls away from the wall (plasmolysis).
+
+**Why are isotonic fluids used in medicine?**
+Isotonic saline, about 0.9 g of sodium chloride per 100 cm³, causes no net water movement into or out of blood cells, so they keep their shape; donor organs are kept in isotonic solution so their cells neither swell nor shrink.
+
+**How do freshwater single-celled organisms deal with water entering by osmosis?**
+Their medium is hypotonic to their cytoplasm, so water enters continually; a contractile vacuole collects the excess water and expels it, using ATP.
+
+**What is water potential?**
+Water potential (ψw) is the potential energy of water per unit volume, measured in kPa relative to pure water at 20 °C and normal atmospheric pressure, which is defined as zero; water moves from higher to lower water potential.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D2.3 (Water potential), under Theme D: Continuity and change.

@@ -221,6 +221,20 @@ Remember: distilled water given into a vein would be hypotonic to the blood, so 
 - Treating ψp as always positive (HL).
 - Saying the cell wall stops water entering, rather than resisting expansion.
 
+## Frequently asked questions
+
+**What do hypertonic, hypotonic and isotonic mean?**
+A hypertonic solution has the higher solute concentration of two solutions compared, a hypotonic solution has the lower, and isotonic solutions have equal solute concentrations; the terms are always relative.
+
+**How do you find the isotonic concentration of plant tissue?**
+Plot percentage change in mass against solute concentration and find where the line crosses zero; with one point either side of zero, use straight-line interpolation.
+
+**What is the water potential equation?**
+For a cell with a wall, ψw = ψs + ψp, where solute potential (ψs) is zero or negative and pressure potential (ψp) is usually positive in cells, zero in open solutions and negative in xylem under tension. This is HL-only content.
+
+**What is incipient plasmolysis?**
+Incipient plasmolysis is the point at which pressure potential reaches zero as a cell loses water, so its water potential equals its solute potential; if the outside water potential is lower still, the cell plasmolyses.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D2.3 (Water potential), under Theme D: Continuity and change.

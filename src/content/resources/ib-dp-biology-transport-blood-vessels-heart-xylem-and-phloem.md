@@ -233,6 +233,22 @@ At a source, sucrose is loaded into sieve tubes, water follows by osmosis, and p
   <figcaption>Pressure differences move sap from source to sink.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How does coronary occlusion cause a heart attack?**
+Plaque builds up beneath the lining of a coronary artery (atherosclerosis) and may rupture, triggering a clot that blocks the artery; cardiac muscle beyond the blockage loses its oxygen supply and dies.
+
+**How are xylem vessels adapted for water transport?**
+Xylem vessels have no cell contents and incomplete or missing end walls so water flows freely, lignified walls that resist collapse under tension, and pits that let water move in and out sideways.
+
+**How is tissue fluid formed?**
+At the arteriole end of a capillary, high hydrostatic pressure forces plasma through the thin wall to form tissue fluid, while large plasma proteins mostly stay in the blood; at the lower-pressure venule end much of the fluid drains back. This is HL-only content.
+
+**How do valves open and close in the cardiac cycle?**
+Valves move because of pressure differences: the atrioventricular valve closes when ventricular pressure exceeds atrial pressure, and the semilunar valve opens when ventricular pressure exceeds aortic pressure and closes when it falls below it.
+
+**How do sieve tubes and companion cells carry out translocation?**
+Sieve tube elements have sieve plates and little cytoplasm so sap flows easily; companion cells with many mitochondria actively load sucrose at a source, water follows by osmosis, and the pressure difference moves sap to a sink.
 
 ## Official syllabus
 
