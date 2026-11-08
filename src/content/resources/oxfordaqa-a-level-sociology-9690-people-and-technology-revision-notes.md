@@ -34,8 +34,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked exam paragraphs, read the [People and technology study guide](/resources/oxfordaqa-a-level-sociology-9690-people-and-technology/) first.
@@ -168,6 +170,20 @@ AO1 is knowledge and understanding; AO2 is interpreting evidence and applying id
 - Writing evaluation as "however, some disagree" without saying who and why.
 
 For links back to the AS course, see the [Exploring Sociology revision notes](/resources/oxfordaqa-a-level-sociology-exploring-sociology-revision-notes/) and the [new-specification exam preparation guide](/resources/oxfordaqa-a-level-sociology-exam-preparation/).
+
+## Frequently asked questions
+
+**What is the difference between misinformation and disinformation?**
+The difference is intent. Misinformation is false content shared without intent to deceive, such as a forwarded false health claim; disinformation is false content spread deliberately.
+
+**How do the hypodermic syringe and uses and gratifications models differ?**
+The hypodermic syringe model sees a passive audience, while uses and gratifications sees an active one. The two-step flow and cultural effects models sit in between.
+
+**What is the difference between media ownership and control?**
+Owners may not control day-to-day content, so ownership and control should not be treated as the same thing.
+
+**How should you write about AI in OxfordAQA 9690 Sociology?**
+Name the type of AI, such as narrow, general, generative or predictive, and a specific use, rather than writing about "AI" vaguely.
 
 ## Official syllabus
 

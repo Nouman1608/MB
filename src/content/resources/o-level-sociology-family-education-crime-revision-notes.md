@@ -33,13 +33,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-family-education-crime-2251"
     subtopic: "kq-6-1-2251"
-description: "Condensed recall notes on family structures and theory, the roles of education, and crime, deviance and social control for Cambridge O Level Sociology (2251), 2025-2027 series."
+description: "Cambridge O Level Sociology (2251) Paper 2 recall notes, 2025-2027: family, education, and crime, deviance and social control, with the paper format."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed recall notes for **Paper 2 Family, Education and Crime**,
@@ -176,6 +178,20 @@ carry the heaviest marks and require a structured, evidenced discussion
 or a genuinely two-sided essay, not a one-sided description, so timed
 practice on these two part-types pays off more than further factual
 recall once the basic content above is secure.
+
+## Frequently asked questions
+
+**How is Cambridge O Level Sociology Paper 2 structured?**
+Paper 2 is 1 hour 45 minutes, 80 marks and 50% of the qualification. It sets three 40-mark questions, one each on Family, Education, and Crime, deviance and social control, and you answer two.
+
+**What are parts (e) and (f) of an O Level Sociology question?**
+Part (e) asks you to discuss a sociological issue or view in a structured, evidenced way. Part (f) is a short essay that needs reasoned arguments on both sides of a debate.
+
+**What is the difference between crime and deviance?**
+Crime breaks the law and deviance breaks social norms. Both are relative across societies, cultures and time.
+
+**Is O Level Sociology 2251 the same as IGCSE 0495?**
+The 2251 Paper 2 has an identical subject-content structure to Cambridge IGCSE Sociology (0495).
 
 ## Related resources
 

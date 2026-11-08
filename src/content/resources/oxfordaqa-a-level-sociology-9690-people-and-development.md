@@ -34,8 +34,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide teaches Unit 3, People and development, of the OxfordAQA International AS and A-level Sociology (9690) specification, Version 1.1 (first teaching September 2026; first A-level exams May/June 2028). It covers every content point in section 3.2.1, from 3.2.1.1 to 3.2.1.5. The specification assesses this content in the Unit 3 exam: 1 hour 30 minutes, 50 marks, 20% of the International A-level, with short and extended response questions.
@@ -181,6 +183,23 @@ Views on migration are contested. Some stress labour shortages, remittances and 
 ## Where next
 
 The [OxfordAQA 9690 exam preparation guide](/resources/oxfordaqa-a-level-sociology-exam-preparation/) explains how the five units fit together. For transnational families, which links Unit 1 to diasporas here, see the [Introducing Sociology study guide](/resources/a-level-oxfordaqa-sociology-introducing-sociology/). Units 4 and 5: [People and the environment](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment/) and [People and technology](/resources/oxfordaqa-a-level-sociology-9690-people-and-technology/).
+
+## Frequently asked questions
+
+**What are the three views of globalisation in OxfordAQA 9690?**
+Neo-liberal or positive globalists, such as Ohmae, see free markets spreading prosperity; negative globalists, such as Bello, see globalisation deepening inequality; and transformationalists, such as Held and colleagues, argue it reshapes rather than ends states and cultures, with mixed outcomes.
+
+**What did Rostow argue?**
+Rostow's *The Stages of Economic Growth* (1960) set out five stages from traditional society through take-off to high mass consumption. Critics call it ethnocentric because it assumes all societies must copy the Western route.
+
+**What is a diaspora?**
+A diaspora is a population dispersed from a homeland that keeps links with it. Robin Cohen (*Global Diasporas*, 1997) distinguished types such as victim and labour diasporas.
+
+**What are push and pull factors in migration?**
+Everett Lee (1966) described push factors at the origin, such as poverty and conflict, pull factors at the destination, such as jobs and safety, and intervening obstacles such as distance and cost.
+
+**Was Weber a dependency theorist?**
+No. Weber's explanation of why Europe industrialised is about values, in the Protestant work ethic, not external exploitation.
 
 ## Official syllabus
 

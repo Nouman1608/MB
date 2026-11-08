@@ -29,8 +29,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -110,3 +112,17 @@ Condensed for the final weeks. For the full explanation, use the
 5. Why is it difficult to separate ethnic from class disadvantage?
 
 **Answers:** 1. Reliability is getting the same result on repetition — favoured by quantitative methods; validity is giving a true picture — favoured by qualitative methods. 2. The list of the population from which a sample is drawn; without one, random or systematic sampling is impossible, so a non-random method such as snowball or opportunity sampling must be used. 3. Absolute poverty is lacking the basic necessities for survival; relative poverty is falling below the standard of living considered acceptable in that particular society. 4. Poor housing and diet cause poor health and educational underachievement, leading to low-paid insecure work, which reproduces the same conditions for the next generation. 5. Because ethnicity and class interact rather than acting independently — ethnic minority groups are disproportionately represented in lower socio-economic positions, so an observed disadvantage may reflect class, ethnicity, or both, and sociologists debate how to separate the two.
+
+## Frequently asked questions
+
+**What is the difference between intergenerational and intragenerational mobility?**
+Intergenerational mobility compares a person with their parents. Intragenerational mobility compares stages of a person's own working life.
+
+**What is the nature versus nurture evidence in sociology?**
+Sociologists point to cross-cultural variation in norms and gender roles, and to feral children cases where people raised without human contact fail to develop language or normal social behaviour.
+
+**What is the difference between horizontal and vertical segregation?**
+Horizontal segregation concentrates women in particular occupations. Vertical segregation concentrates them at lower levels within occupations.
+
+**Why is ethnic inequality hard to separate from class inequality?**
+Ethnic minority groups are disproportionately represented in lower socio-economic positions, so an observed disadvantage may reflect class, ethnicity or both.
