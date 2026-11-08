@@ -9,7 +9,7 @@ boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["5054"]
 order: 1
-description: "O Level Physics 5054 past papers guide: grade thresholds and examiner report notes for June 2023 to June 2026, with free practice links."
+description: "Cambridge O Level Physics 5054 past papers guide: grade thresholds and examiner report notes for June 2023 to June 2026, with free practice question links."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false
