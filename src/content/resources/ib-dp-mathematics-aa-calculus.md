@@ -82,8 +82,8 @@ specifically tests the unaided algebraic technique this course
 emphasises. For applications questions (optimisation, kinematics,
 rates of change), practise the full worked method every time,
 including justifying whether a stationary point is a maximum or
-minimum, since method marks are typically awarded for each correctly
-justified step, not only for a correct final numerical answer. Revise
+minimum, since method marks can reward correct working, not only a
+correct final numerical answer. Revise
 definite and indefinite integrals as genuinely distinct outputs rather
 than interchangeable — confusing when the +C is required is a
 frequent, avoidable error. At HL, Calculus is a common component of
@@ -124,10 +124,9 @@ Step 5: state the answer in context
         Maximum area = 10 x 20 = 200 square metres
 ```
 
-Every one of these five steps typically carries its own method mark,
-which is why writing out the full method — including the justification
-step — protects marks even if a later arithmetic step contains an
-error.
+Writing out every one of these five steps — including the justification
+step — means an examiner can award method credit for the working even
+if a later arithmetic step contains an error.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-calculus--02-optimisation.webp" width="900" height="946" alt="Three sketches show a rectangular field against a wall with 40 metres of fencing on three sides. With sides x = 5, 10 and 15 metres the areas are 150, 200 and 150 square metres. A graph of A = 40x minus 2x squared peaks at (10, 200), where the tangent is flat. Setting dA/dx = 40 minus 4x to zero gives x = 10, the second derivative minus 4 is negative so it is a maximum, and y = 20 gives the maximum area of 200 square metres." loading="lazy">
@@ -144,7 +143,7 @@ rules are known. Forgetting the constant of integration, +C, on an
 indefinite integral, or adding it incorrectly to a definite integral
 where it is not required. Finding a stationary point but failing to
 justify whether it is a maximum, minimum, or point of inflection,
-which typically loses a dedicated method mark. Relying on a graphical
+which can cost marks when the question asks for that justification. Relying on a graphical
 display calculator for Paper 1 questions, which does not permit
 technology, rather than building genuine manual algebraic fluency.
 

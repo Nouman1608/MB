@@ -86,12 +86,6 @@ whether a given sequence is arithmetic or geometric before choosing a
 solution method, since misidentifying the type is a common source of
 error.
 
-## Official syllabus
-
-OxfordAQA International AS and A-level Mathematics (9660)
-specification, Version 5.2 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-mathematics-specification.pdf).
-
 ## Algebra and functions
 
 The foundation of P1 is confident algebraic manipulation: indices and surds, expanding and factorising, and completing the square.
@@ -203,3 +197,9 @@ The definition of the gradient as the limit of a chord gradient is required, but
 
 **What discriminant condition means a quadratic has real roots?**
 b² − 4ac ≥ 0, because a repeated root is also real. Using > 0 alone is a common mistake.
+
+## Official syllabus
+
+OxfordAQA International AS and A-level Mathematics (9660)
+specification, Version 5.2 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-mathematics-specification.pdf).

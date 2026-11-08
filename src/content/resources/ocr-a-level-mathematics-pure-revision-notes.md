@@ -35,7 +35,7 @@ Condensed for the final weeks. For the full explanation, use the
 | **Counter-example** | One case disproves a general statement |
 | **Contradiction** | Assume the negation, derive an impossibility |
 
-**Contradiction is the one examined most.** The classic results are the irrationality of √2 and the infinitude of primes. The structure must be explicit: *assume the opposite*, derive a contradiction, conclude the original statement.
+**Proof by contradiction needs the most care.** The classic results are the irrationality of √2 and the infinitude of primes. The structure must be explicit: *assume the opposite*, derive a contradiction, conclude the original statement.
 
 **A single counter-example disproves a statement, but no number of examples proves one.** Stating that explicitly is often worth a mark.
 

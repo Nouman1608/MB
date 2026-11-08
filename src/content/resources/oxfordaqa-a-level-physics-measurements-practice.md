@@ -77,7 +77,7 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 
 ## Answers
 
-**1.** Any three: **metre** — length; **kilogram** — mass; **second** — time; **ampere** — current; **kelvin** — temperature; **mole** — amount of substance; **candela** — luminous intensity [1] [1] [1].
+**1.** Any three of the six base units the specification uses: **metre** — length; **kilogram** — mass; **second** — time; **ampere** — current; **kelvin** — temperature; **mole** — amount of substance [1] [1] [1]. (The SI also has a seventh base unit, the candela, which this specification does not use.)
 
 **2.** N = kg m s⁻² [1]. J = kg m² s⁻² [1]. W = kg m² s⁻³ [1].
 

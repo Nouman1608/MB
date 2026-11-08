@@ -40,12 +40,6 @@ Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-
 
 ## Section B
 
-**Questions 6 and 7 test trigonometry** (sine/cosine rule, area of a triangle, solving a trig
-equation). OxfordAQA's 9660 specification places all trigonometry in Unit PSM1's pure maths
-strand (PP1.2), not in Unit P1 -- P1 contains no trigonometry at all, including the sin/cos/tan graphs.
-They're included in this P1 practice set because every P1 candidate also sits PSM1, but they are
-PSM1-syllabus questions, not P1 ones.
-
 **3.** The quadratic kx² + (k + 3)x + 4 = 0 has equal roots.
 
 **(a)** Show that k² − 10k + 9 = 0. **[3]**
@@ -54,6 +48,12 @@ PSM1-syllabus questions, not P1 ones.
 **4.** Find the first four terms of the expansion of (1 + 2x)⁸ in ascending powers of x. **[4]**
 
 **5.** Solve the simultaneous equations y = x² − 3x + 4 and y = 2x − 2. **[5]**
+
+**Questions 6 and 7 test trigonometry** (sine/cosine rule, area of a triangle, solving a trig
+equation). OxfordAQA's 9660 specification places all trigonometry in Unit PSM1's pure maths
+strand (PP1.2), not in Unit P1 -- P1 contains no trigonometry at all, including the sin/cos/tan graphs.
+They're included in this P1 practice set because every P1 candidate also sits PSM1, but they are
+PSM1-syllabus questions, not P1 ones.
 
 **6.** *(PSM1 content)* In triangle ABC, AB = 8 cm, AC = 11 cm and angle BAC = 52°.
 

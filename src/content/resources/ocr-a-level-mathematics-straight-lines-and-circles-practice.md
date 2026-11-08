@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover straight lines and circles in OCR A Level Mathematics A (H240), content references 1.03a to 1.03f of the Cambridge OCR specification, Version 3.1 (August 2026). All of this content is Stage 1, common to AS and A Level. The marks shown are our own guide to the size of each step. If a topic is unfamiliar, start with the [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/); the [revision notes](/resources/ocr-a-level-mathematics-straight-lines-and-circles-revision-notes/) recap each method. Related links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [Pure Mathematics practice set](/resources/ocr-a-level-mathematics-pure-practice/).
+These questions cover straight lines and circles in OCR A Level Mathematics A (H240), content references 1.03a to 1.03f of the OCR specification, Version 3.1 (August 2026). All of this content is Stage 1, common to AS and A Level. The marks shown are our own guide to the size of each step. If a topic is unfamiliar, start with the [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/); the [revision notes](/resources/ocr-a-level-mathematics-straight-lines-and-circles-revision-notes/) recap each method. Related links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [Pure Mathematics practice set](/resources/ocr-a-level-mathematics-pure-practice/).
 
 ## Questions
 
@@ -173,4 +173,4 @@ Use the form the question asks for. If it asks for ax + by + c = 0 with integer 
 
 ## Official syllabus
 
-*Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by Cambridge OCR: section 1.03, Coordinate Geometry in the x-y plane, references 1.03a to 1.03f.
+*OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: section 1.03, Coordinate Geometry in the x-y plane, references 1.03a to 1.03f.

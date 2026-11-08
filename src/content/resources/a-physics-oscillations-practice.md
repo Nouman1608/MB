@@ -135,7 +135,7 @@ Application: **car suspension** or a **measuring instrument's needle** [1].
 - Saying acceleration is maximum at the centre.
 - Claiming pendulum period depends on the mass of the bob.
 - Saying critical damping is the slowest return.
-- Forgetting total energy in SHM is constant — only forgetting to convert between total, kinetic and potential energy correctly at a given displacement.
+- Forgetting that total energy in SHM is constant, or splitting it wrongly between kinetic and potential energy at a given displacement.
 - Calling every oscillation "free" — a free oscillation specifically has no external driving force, unlike a forced one.
 - Confusing the driving frequency with the natural frequency — resonance requires the two to be **equal**, not merely close.
 

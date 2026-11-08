@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Mathematics: Pure Mathematics 2 (YMA01)"
+title: "Edexcel International A Level Mathematics: Pure Mathematics 2 (YMA01)"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

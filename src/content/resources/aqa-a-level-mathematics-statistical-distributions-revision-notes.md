@@ -239,7 +239,7 @@ weekday and weekend customers" beats "p might not be constant".
 
 - Entering the variance instead of the standard deviation into the Normal function.
 - Writing a probability with no distribution or statement, so a slip cannot earn method credit.
-- Using 1 − P(X ≤ 4) for P(X > 4) in a binomial.
+- Using 1 − P(X ≤ 4) for P(X ≥ 4) in a binomial (it should be 1 − P(X ≤ 3)).
 - Listing binomial conditions without linking them to the context.
 - Taking the wrong tail with inverse Normal, giving a value on the wrong side of the mean.
 - Rounding z to 2 decimal places, then multiplying by a large σ.

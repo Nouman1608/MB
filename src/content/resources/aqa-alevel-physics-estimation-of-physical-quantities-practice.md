@@ -53,7 +53,7 @@ Related: [Estimation of Physical Quantities study guide](/resources/aqa-alevel-p
 
 **8.** A student calculates the kinetic energy of a car travelling on a motorway and obtains 4.5 × 10¹² J. Using order-of-magnitude estimates for a plausible mass and speed, explain why this answer must be wrong. **[4]**
 
-**9.** A student estimates that a stadium measuring roughly 50 m by 50 m, with each spectator needing about 0.5 m², can hold **5 × 10²** spectators. Identify the error in this estimate and give a more realistic order-of-magnitude answer. **[3]**
+**9.** A student estimates that a sports hall floor measuring roughly 30 m by 40 m, with each spectator needing about 0.6 m², can hold **2 × 10⁴** spectators. Identify the error in this estimate and give a more realistic order-of-magnitude answer. **[3]**
 
 ---
 
@@ -75,7 +75,7 @@ Related: [Estimation of Physical Quantities study guide](/resources/aqa-alevel-p
 
 **8.** A reasonable estimate for a car's mass is ≈ 10³ kg, and a reasonable motorway speed is ≈ 30 m s⁻¹ [1] [1]. Kinetic energy = ½mv² ≈ ½ × 10³ × 30² ≈ 4.5 × 10⁵ J, order of magnitude 10⁶ J [1]. The student's answer of 4.5 × 10¹² J is 10⁷ times this, about **seven orders of magnitude too large** to be a plausible car's kinetic energy, so it must contain an error [1] — exactly the kind of sanity check order-of-magnitude reasoning is used for.
 
-**9.** The correct calculation is area ÷ area-per-spectator = (50 × 50) ÷ 0.5 = 2500 ÷ 0.5 = **5000** [1], which is 5 × 10³ and so of order of magnitude **10⁴** (5 lies above the crossover at √10 ≈ 3.16) [1]. The student's answer of 5 × 10² (order 10³) is **a factor of ten, one order of magnitude, too small** — most likely from a slip of a factor of ten somewhere in the arithmetic [1]. A more realistic estimate is therefore about 5 × 10³ spectators, of order **10⁴**.
+**9.** The correct calculation is area ÷ area-per-spectator = (30 × 40) ÷ 0.6 = 1200 ÷ 0.6 = **2000** [1], which is 2 × 10³ and so of order of magnitude **10³** (2 lies below the crossover at √10 ≈ 3.16) [1]. The student's answer of 2 × 10⁴ is **a factor of ten, one order of magnitude, too large** — most likely from a slip of a factor of ten somewhere in the arithmetic [1]. A more realistic estimate is therefore about 2 × 10³ spectators, of order **10³**.
 
 ---
 

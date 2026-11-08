@@ -64,8 +64,9 @@ top of the standard curriculum, preparing students for DP-level mathematics.
 
 ## If your school offers MYP eAssessment (year 5)
 
-A 2-hour on-screen exam, three tasks mapping to the same four criteria: knowing and understanding,
-investigating patterns, and applying mathematics in real-life contexts.
+A 2-hour on-screen exam with three tasks: knowing and understanding, investigating patterns, and
+applying mathematics in real-life contexts. Criterion C, communicating, is assessed across all three
+tasks, so all four criteria are covered.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-assessment-revision-notes--09-eassessment-structure.webp" width="900" height="980" alt="A clock showing a 2-hour on-screen exam in MYP year 5. Three tasks map to the same criteria used in class: task 1 knowing and understanding (criterion A), task 2 investigating patterns (B), task 3 applying mathematics in real-life contexts (D)." loading="lazy">

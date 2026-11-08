@@ -69,12 +69,6 @@ set in context, since these are specifically designed to test whether
 students can apply mathematics beyond routine, practised question
 types.
 
-## Official syllabus
-
-AQA A-level Mathematics (7357) specification, for first teaching
-September 2017 —
-[aqa.org.uk](https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification/subject-content).
-
 ## What the overarching themes are
 
 Three themes run through every part of A-Level Mathematics rather than sitting in a topic of their own, and they are assessed in all papers.
@@ -249,3 +243,9 @@ Name a specific assumption and state its effect on the answer, for example "air 
 
 **How do you revise the overarching themes?**
 Revise them through the content sections themselves, noticing which skill each question tests, and practise full written proofs and unfamiliar multi-step problems set in context.
+
+## Official syllabus
+
+AQA A-level Mathematics (7357) specification, for first teaching
+September 2017 —
+[aqa.org.uk](https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification/subject-content).

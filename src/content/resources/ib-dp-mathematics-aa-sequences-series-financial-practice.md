@@ -71,7 +71,7 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-seq
 **(b)** Find u₁. **[1]**
 **(c)** Explain why the sum to infinity exists, and find it. **[3]**
 
-**6.** (calculator-free) Consider the geometric series 1 + (2x − 1) + (2x − 1)² + …
+**6.** (calculator-free) Consider the geometric series 1 + (3x − 2) + (3x − 2)² + …
 
 **(a)** Find the set of values of x for which the series converges. **[2]**
 **(b)** Given that the sum to infinity is 4, find x. **[3]**
@@ -137,8 +137,8 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-seq
 **(c)** |r| = 1/2 < 1, so the series converges [1]. S∞ = −96/(1 − (−1/2)) [1] = −96/(3/2) = **−64** [1]
 *Examiner insight:* "Explain why" needs the statement |r| < 1 with the value of r; writing "because r is small" does not earn the reasoning mark.
 
-**6. (a)** |2x − 1| < 1 [1], so −1 < 2x − 1 < 1, giving **0 < x < 1** [1]
-**(b)** 1/(1 − (2x − 1)) = 4 [1]; 1/(2 − 2x) = 4, so 2 − 2x = 1/4 [1]; **x = 7/8**, which lies in 0 < x < 1 [1]
+**6. (a)** |3x − 2| < 1 [1], so −1 < 3x − 2 < 1, giving **1/3 < x < 1** [1]
+**(b)** 1/(1 − (3x − 2)) = 4 [1]; 1/(3 − 3x) = 4, so 3 − 3x = 1/4 [1]; **x = 11/12**, which lies in 1/3 < x < 1 [1]
 *Examiner insight:* Non-strict inequalities (0 ≤ x ≤ 1) lose the accuracy mark in (a), because the series diverges at both end points.
 
 **7. (a)** The differences are 26, 23, 28, 23, which are not constant, so the sequence is not exactly arithmetic [1]

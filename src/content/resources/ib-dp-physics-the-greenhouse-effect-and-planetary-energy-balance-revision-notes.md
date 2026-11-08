@@ -22,7 +22,7 @@ featured: false
 
 These revision notes condense topic B.2 (Greenhouse effect) of the IB *Physics guide*, first assessment 2025, for Standard Level and Higher Level; the guide sets no extra content for Higher Level alone in B.2. For full explanations and worked examples, go to the [study guide](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance/). Test yourself with the [practice set](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance-practice/).
 
-Course page: [IB DP Physics](/boards/ib/ib-dp/physics/). Checklist: [IB DP Physics checklist](/checklists/ib/ib-dp/physics/). To find weak spots, try the [free 10-minute diagnostics](/diagnostics/). The radiation law used here is introduced in the [B.1 study guide](/resources/ib-dp-physics-molecular-model-temperature-internal-energy-and/).
+Course page: [IB DP Physics](/boards/ib/ib-dp/physics/). Checklist: [IB DP Physics checklist](/checklists/ib/ib-dp/physics/). To find weak spots, try the [free 10-minute diagnostics](/diagnostics/). The radiation law used here is introduced in the [B.1 study guide on thermal radiation](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan/).
 
 ## Definitions
 
