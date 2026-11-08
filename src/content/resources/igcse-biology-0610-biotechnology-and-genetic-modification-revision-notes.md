@@ -25,10 +25,12 @@ syllabusTopics:
 description: "Condensed revision notes for Cambridge IGCSE Biology 0610 topic 21, biotechnology and GM, with Core/Extended labels, a self-test and common mark losses."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes condense topic 21, Biotechnology and genetic modification, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. They cover syllabus sections 21.1–21.3. Core content is tested on Papers 1–4; Supplement content, marked "Extended only", is tested only on Papers 2 and 4. For full explanations and worked examples, use the [topic 21 study guide](/resources/igcse-biology-0610-biotechnology-and-genetic-modification/).
@@ -257,6 +259,20 @@ A list of advantages alone cannot reach full marks, however long it is.
 - Giving only one side when asked to discuss GM crops.
 - Forgetting a control (boiled or non-biological powder) in a washing powder plan.
 - Quoting a percentage change with the old and new values swapped in the denominator.
+
+## Frequently asked questions
+
+**Why are bacteria useful in biotechnology?**
+For Core, bacteria are useful because of their rapid reproduction rate and their ability to make complex molecules; Extended candidates also need few ethical concerns over their use and the presence of plasmids.
+
+**What does pectinase do in fruit juice production?**
+Pectinase breaks down pectin in plant cell walls, so more juice is released from the fruit and the juice is clearer.
+
+**How is human insulin made by genetic modification?**
+The human gene is cut out with restriction enzymes leaving sticky ends, a plasmid is cut with the same enzymes, DNA ligase joins the gene into the plasmid, the recombinant plasmid is put into bacteria, and the bacteria multiply and express the gene.
+
+**Why are fermenters cooled rather than heated?**
+Respiration by the microorganisms releases heat, so a cooling water jacket keeps the temperature near the enzymes' optimum and stops them being denatured.
 
 ## Official syllabus
 

@@ -25,10 +25,12 @@ syllabusTopics:
 description: "Study guide to Cambridge IGCSE Biology 0610 topic 21: bacteria in biotechnology, yeast, enzymes, fermenters and genetic modification, Core and Extended."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide covers topic 21, Biotechnology and genetic modification, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It works through syllabus sections 21.1, 21.2 and 21.3 in order. Core statements are examined on Papers 1–4; Supplement statements are examined only on the Extended papers (Papers 2 and 4), and they are labelled "Extended only" below.
@@ -261,6 +263,20 @@ The syllabus names soya, maize and rice. "Discuss" means give both sides.
 ## Next steps
 
 Test your recall with the [topic 21 revision notes](/resources/igcse-biology-0610-biotechnology-and-genetic-modification-revision-notes/), then work through the [topic 21 practice questions](/resources/igcse-biology-0610-biotechnology-and-genetic-modification-practice/). To find gaps across the whole course, try the free [0610 Core diagnostic](/practice/0610/diagnostic/core/) or the [0610 Extended diagnostic](/practice/0610/diagnostic/extended/).
+
+## Frequently asked questions
+
+**What is biotechnology?**
+Biotechnology is the use of living organisms, usually microorganisms, to make useful products such as ethanol for biofuels, bread, fruit juice, biological washing powders and, for Extended, insulin and penicillin.
+
+**How do biological washing powders work?**
+They contain proteases, lipases and amylases that digest protein, fat and starch stains into small soluble molecules that wash away, so clothes can be washed at lower temperatures using less energy.
+
+**What are the four examples of genetic modification in Cambridge IGCSE Biology 0610?**
+Human genes inserted into bacteria to make human proteins such as insulin, and genes inserted into crop plants for herbicide resistance, resistance to insect pests, or improved nutritional qualities.
+
+**What are fermenters used for?**
+Fermenters grow microorganisms in controlled conditions on a large scale to make products such as insulin (from GM bacteria), penicillin and mycoprotein (from fungi); this is Extended content.
 
 ## Official syllabus
 

@@ -19,10 +19,12 @@ syllabusTopics:
 description: "Study guide to pathogens, transmission, body defences, disease control, immunity, vaccination and cholera, Core and Extended, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 10, Diseases and immunity, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. The topic has one section, 10.1 Diseases and immunity. Its Core statements (pathogens, transmission, body defences and controlling the spread of disease) are examined on Papers 1 and 3. Most of the immunity content, and all of the cholera content, is Supplement: it is marked **Extended only** below and is examined on Papers 2 and 4.
@@ -231,6 +233,23 @@ Link this to the Core content: clean water and sewage treatment are exactly the 
 - Condense this into the [diseases and immunity revision notes](/resources/igcse-biology-0610-diseases-and-immunity-revision-notes/).
 - Test yourself with the [diseases and immunity practice questions](/resources/igcse-biology-0610-diseases-and-immunity-practice/).
 - Take the free [0610 Core diagnostic](/practice/0610/diagnostic/core/) or [0610 Extended diagnostic](/practice/0610/diagnostic/extended/).
+
+## Frequently asked questions
+
+**What is a transmissible disease?**
+A transmissible disease is one in which the pathogen can be passed from one host to another, either directly or indirectly.
+
+**How does a clean water supply control the spread of disease?**
+Pathogens in the water are removed or killed before people drink it, so waterborne diseases such as cholera are not passed on.
+
+**How does vaccination give immunity?**
+Weakened pathogens or their antigens are put into the body, the antigens stimulate lymphocytes to produce antibodies, and memory cells are made that give long-term immunity; this is Extended content.
+
+**Why is breast-feeding important for a baby's immunity?**
+Breast milk contains the mother's antibodies, giving the baby passive immunity while its own immune system develops during the first months of life.
+
+**How does vaccinating many people protect those who are not vaccinated?**
+When most of a population is immune, a pathogen finds few people to infect and is passed on less, so unvaccinated people are less likely to meet it; this is often called herd immunity.
 
 ## Official syllabus
 

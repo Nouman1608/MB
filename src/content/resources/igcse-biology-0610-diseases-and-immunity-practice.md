@@ -19,10 +19,12 @@ syllabusTopics:
 description: "Twelve original questions with full answers on transmission, defences, vaccination, active and passive immunity and cholera, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,6 +162,20 @@ Treat or safely dispose of sewage [1], so pathogens in faeces cannot reach the w
 - Take the [0610 Core diagnostic](/practice/0610/diagnostic/core/) or [0610 Extended diagnostic](/practice/0610/diagnostic/extended/).
 - Browse the [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/) and tick off the [printable checklist](/checklists/cambridge/igcse/biology/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which parts of Cambridge IGCSE Biology 0610 Diseases and immunity are Extended only?**
+Immunity, antibodies, vaccination, active and passive immunity and cholera are Supplement content for Extended candidates (Papers 2 and 4); pathogens, transmission, body defences and disease control are Core.
+
+**What is a pathogen?**
+A pathogen is a disease-causing organism; "a germ" or "something that causes disease" is too vague to earn the mark.
+
+**Why does an antibody only work against one pathogen?**
+Each pathogen has antigens with specific shapes, and an antibody has a shape complementary to the specific antigen it was made against; "same shape" is not accepted.
+
+**How does cholera cause dehydration?**
+The cholera bacterium produces a toxin that causes chloride ions to be secreted into the small intestine; water follows by osmosis into the gut, causing diarrhoea, dehydration and loss of ions from the blood.
 
 ## Official syllabus
 
