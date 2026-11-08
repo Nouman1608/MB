@@ -14,8 +14,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme
@@ -114,8 +116,8 @@ Fifty hours, shared by SL and HL, split into three separately timed
 components: practical work (30 hours), the group-based collaborative
 sciences project (10 hours), and scientific investigation (10 hours).
 This underpins the internally assessed individual investigation, in
-which each student designs and carries out their own fieldwork-based
-enquiry, gathers primary data, and writes an evidence-based report
+which each student formulates their own research question, gathers
+and analyses data to answer it, and writes an evidence-based report
 capped at 3,000 words. The collaborative sciences project is not
 itself separately graded, so its main value to a student's final grade
 is the data-handling and investigative skills it builds for the
