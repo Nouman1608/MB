@@ -240,6 +240,23 @@ Model sentence for a negative production externality: "The private supply curve 
 - Giving the tragedy of the commons with no criticism when asked to evaluate.
 - Ending with a statement of the problem and no judgement on its size or importance.
 
+## Frequently asked questions
+
+**What makes a good a pure public good?**
+A pure public good is non-rival, so one person's use leaves the amount available to others unchanged, and non-excludable, so non-payers cannot be stopped from using it. Non-excludability matters most, because it means firms cannot earn revenue.
+
+**What is the tragedy of the commons?**
+A shared resource that is open to all but rival in use is overused, because each user keeps the full gain from extra use while the cost is shared among everyone.
+
+**Do I need MSC and MSB diagrams for OxfordAQA 9640 Economics?**
+No. The OxfordAQA 9640 specification says you are not required to use MSC and MSB diagrams; externalities are shown on demand and supply diagrams with a second supply or demand curve.
+
+**What is the difference between a public good and public provision?**
+A public good is defined by its features, being non-rival and non-excludable. Provision by the state is a policy choice, so a good is not public just because the government supplies it.
+
+**How does the absence of property rights cause externalities?**
+Where rights to a resource such as a river or the air are missing or unenforceable, nobody can charge a polluter or demand payment from a beneficiary, so costs and benefits spill onto third parties.
+
 ## Official syllabus
 
 Source: the specification for OxfordAQA's International AS and A-level Economics course, code 9640, version 1.2. First teaching was September 2020, the first AS exams were May/June 2021 and the first A-level exams were May/June 2022. Covered here: 3.1.5.1, 3.1.5.2 and 3.1.5.3.

@@ -207,6 +207,23 @@ Use the same sequence for each:
 - Giving a one-sided answer on trading blocs with no mention of costs or non-members.
 - Saying "terms of trade improved" without saying whether the index rose or fell against a base year.
 
+## Frequently asked questions
+
+**What is the difference between absolute and comparative advantage?**
+Absolute advantage compares outputs: a country can produce a good using fewer resources. Comparative advantage compares opportunity costs: a country gives up less of the other good to make one more unit.
+
+**At what terms of trade do both countries gain from specialisation?**
+Both countries gain if the price of a good lies strictly between the two countries' opportunity costs of producing it. At either opportunity cost, one country gains nothing.
+
+**What are the stages of economic integration in trading blocs?**
+A free trade area removes internal barriers, a customs union adds a common external tariff, a common market adds free movement of labour and capital, and a monetary union adds a single currency.
+
+**What are the main arguments for protectionism?**
+Arguments include protecting an infant industry, shielding a declining industry and its jobs, national or food security, responding to dumping, raising revenue and diversifying a narrow economy. Each has weaknesses, such as protection that is never removed.
+
+**Does an improvement in the terms of trade improve the current account?**
+Not automatically. An improvement lets each export buy more imports, but the effect on the trade balance depends on how responsive export and import volumes are to price.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first International AS exams May/June 2021, first International A-level exams May/June 2022; section 3.4.1.2 Trade.

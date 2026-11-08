@@ -142,6 +142,23 @@ These questions test sections 3.3.4.5 (discrimination in the labour market) and 
 * Take the [free 10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on discrimination and minimum wage questions?**
+Common losses are treating every pay difference as discrimination, using the supply curve instead of marginal cost of labour to find a monopsony wage, ignoring monopsony when judging a minimum wage, and comparing wages across years without deflating.
+
+**Does a pay gap prove discrimination?**
+No. A raw pay gap can reflect differences in job type, hours and experience, so neither a mean nor a median gap proves discrimination on its own. State which average you used.
+
+**When does a minimum wage cause unemployment?**
+In a competitive labour market, a minimum wage set above equilibrium causes unemployment equal to supply minus demand at the floor. A floor set at or below equilibrium has no effect.
+
+**How should I evaluate a national minimum wage?**
+Weigh the effects against each other, considering the elasticity of labour demand, employer market power, the level relative to median pay and the wage bill, then reach a judgement rather than listing effects.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.3.4.5 (discrimination in the labour market) and 3.3.4.6 (minimum wage laws) of the OxfordAQA International AS and A-level Economics (9640) specification, which are International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.3.4.5 and 3.3.4.6, with section 3.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022.

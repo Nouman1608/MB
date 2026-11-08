@@ -231,6 +231,23 @@ Evaluation checklist: level against the median, elasticity of labour demand, emp
 * Comparing nominal values across years without deflating.
 * Listing advantages and disadvantages without a reasoned judgement on which group matters most.
 
+## Frequently asked questions
+
+**What conditions are needed for wage discrimination?**
+The employer needs some power over wages, the groups must be identifiable and separable, the groups must differ in the elasticity of their labour supply to the firm, and workers must have poor information or be unable to move.
+
+**What is the crowding model of discrimination?**
+When a group is excluded from some occupations, its workers are squeezed into fewer occupations. Pay falls where they are concentrated, rises where they are barred, and total output is lost through misallocation.
+
+**What is the difference between taste-based and statistical discrimination?**
+Taste-based discrimination comes from prejudice by employers, co-workers or customers. Statistical discrimination means judging individuals by beliefs about their group's average.
+
+**Can a minimum wage raise employment?**
+Yes, in a monopsony. A modest minimum wage can raise both pay and employment, with the largest gain at the competitive wage; above that, employment is set by demand and falls.
+
+**How do you judge whether a minimum wage is set at a high level?**
+Compare the real minimum wage over time by deflating it, and calculate its ratio to median pay. A higher ratio affects more workers and puts more jobs at risk.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.3.4.5 and 3.3.4.6, with section 3.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022.

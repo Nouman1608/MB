@@ -141,6 +141,23 @@ These questions cover sections 3.1.4.1 to 3.1.4.3 of the OxfordAQA *Internationa
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - Prefer a teacher? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on market structure and firm objectives questions?**
+Common losses are saying a firm in a competitive market sets its own price, giving a change in market share as a percentage instead of percentage points, forgetting fixed costs in total cost, and comparing plans on revenue alone.
+
+**How do I calculate break-even output?**
+Divide fixed costs by the price minus the variable cost per unit. At that output total revenue just covers total cost.
+
+**Should a firm keep producing when it makes a loss in the short run?**
+In the short run a firm should keep producing if price is above variable cost per unit, because each unit contributes towards fixed costs that cannot be avoided. In the long run revenue must cover all costs.
+
+**How should I evaluate which plan suits a firm's objective?**
+Link each plan to the objective that would favour it, such as profit or market share, and use the calculated figures as evidence. A conclusion that ignores the numbers is weaker.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.1.4.1 to 3.1.4.3 of the OxfordAQA International AS and A-level Economics (9640) specification: market structures, the objectives of firms and competitive markets.
+
 ## Official syllabus
 
 OxfordAQA *International AS and A-level Economics* specification (9640), version 1.2, published by OxfordAQA International Examinations. First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022.

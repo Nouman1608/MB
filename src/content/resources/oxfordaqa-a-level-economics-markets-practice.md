@@ -13,13 +13,15 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on market failure, externalities, tax incidence and government intervention for OxfordAQA International AS Economics Unit 1, with separately marked Unit 3 extension questions on utility, surplus and efficiency."
+description: "Practice questions with worked answers on market failure, externalities, tax incidence and intervention for OxfordAQA International AS Economics Unit 1."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -122,3 +124,17 @@ A. be borne mostly by the producer  B. be borne mostly by the consumer  C. have 
 - Not identifying the divergence between MPC and MSC explicitly.
 - Evaluating permits and tax separately without a comparative judgement.
 - Assuming government intervention always improves welfare.
+
+## Frequently asked questions
+
+**Where do students lose marks on operation of markets questions?**
+Common losses are confusing allocative with productive efficiency, not identifying the divergence between private and social cost explicitly, evaluating permits and taxes separately without a comparative judgement, and assuming government intervention always improves welfare.
+
+**Are utility, consumer surplus and efficiency examined in OxfordAQA International AS Unit 1?**
+No. Utility, consumer and producer surplus and efficiency are Unit 3 content examined at International A-level, so this practice set includes them only as extension questions outside the Unit 1 assessment.
+
+**How should I compare two policies, such as tradable permits and a tax?**
+Compare them against each other on the same criteria and reach a judgement about which is better and why. Evaluating each policy separately without a comparison loses marks.
+
+**Does government intervention always improve welfare?**
+No. Intervention can produce a worse outcome than the market, so a balanced evaluation weighs the possibility of government failure rather than assuming intervention helps.

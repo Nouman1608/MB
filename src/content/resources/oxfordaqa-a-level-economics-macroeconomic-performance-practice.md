@@ -14,13 +14,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-economy-in-a-global-environment-oxfordaqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-oxfordaqa-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on government macroeconomic objectives, macroeconomic indicators, the Gini coefficient, and index numbers."
+description: "Practice questions with worked answers on macroeconomic objectives, indicators, the Gini coefficient and index numbers for OxfordAQA A-level Economics 9640."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -85,3 +87,17 @@ Related: [Measurement of Macroeconomic Performance study guide](/resources/a-lev
 - Miscalculating an index number by dividing the base year value by the later value instead of the reverse.
 - Naming an indicator without a full objective-indicator-justification structure.
 - Treating the Gini coefficient as a complete measure of equity without acknowledging what it does not capture.
+
+## Frequently asked questions
+
+**Where do students lose marks on measurement of macroeconomic performance questions?**
+Common losses are naming only the four core objectives and leaving out the additional ones, confusing real and nominal data, dividing the base-year value by the later value when calculating an index, and treating the Gini coefficient as a complete measure of equity.
+
+**How many macroeconomic objectives does the OxfordAQA 9640 specification name?**
+It names four core objectives: economic growth, price stability, minimising unemployment and a stable balance of payments on current account. It also names balancing the budget, an equitable distribution of income and wealth, and protecting the environment.
+
+**How should I answer a question that matches an indicator to an objective?**
+Use an objective-indicator-justification structure: name the objective, name the indicator that measures it, and explain why that indicator is a suitable measure. Naming an indicator alone earns little.
+
+**How do you calculate an index number?**
+Divide the value in the later year by the value in the base year and multiply by 100, so the base year is 100. Dividing the base-year value by the later value is a common error.

@@ -263,6 +263,23 @@ To evaluate, compare the size of the market failure with the size of the likely 
 - Saying a maximum price lowers the price without mentioning the shortage.
 - Treating government failure as a reason never to intervene. It is a reason to compare outcomes.
 
+## Frequently asked questions
+
+**How does a buffer stock scheme work?**
+An authority sets a price band, buying the product when the price would fall below the floor and selling from stock when it would rise above the ceiling. If the stock runs out, the ceiling cannot be defended, and a band set too high makes stocks keep growing.
+
+**Why might an indirect tax fail to correct an externality?**
+The tax works only if it matches the true external cost, which is hard to measure. If demand is inelastic, output barely falls, so the tax raises revenue but corrects little, and it can also be regressive.
+
+**What is the difference between regulation and a pollution tax?**
+Regulation sets rules such as an emissions limit, so the result is direct and certain if obeyed, but it ignores differences in firms' costs of compliance. A tax lets firms that can cut pollution cheaply do more of the cutting, so it can achieve a reduction at lower cost.
+
+**How can taxes and government spending reduce inequality?**
+A progressive tax takes a higher share of income as income rises, narrowing the gap after tax, and benefits and free health or education raise low-income households' living standards. The trade-off is that high marginal rates may reduce work effort.
+
+**Which OxfordAQA 9640 sections cover government intervention and government failure?**
+Sections 3.1.5.7 (government intervention in markets) and 3.1.5.8 (government failure) of the OxfordAQA International AS and A-level Economics (9640) specification, which are International AS content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, published by OxfordAQA: sections 3.1.5.7 and 3.1.5.8, with the quantitative skills in section 3.5.

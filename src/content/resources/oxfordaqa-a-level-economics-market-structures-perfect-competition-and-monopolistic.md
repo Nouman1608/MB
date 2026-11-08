@@ -265,6 +265,23 @@ The advertising pays, because profit rises from zero to 51. If rivals copy and d
 
 Continue with the revision notes and practice questions linked at the top, and check your progress with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What are the characteristics of monopolistic competition?**
+A large number of firms sell differentiated products, barriers to entry are low, each firm has some price-making power with a downward-sloping, fairly elastic demand curve, and firms compete on non-price factors as well as price.
+
+**How does a perfectly competitive market adjust in the long run?**
+Supernormal profit attracts entry, so market supply shifts right and price falls until each firm earns normal profit. Losses cause exit, so supply falls and price rises until the losses stop.
+
+**Why is perfect competition used as a yardstick?**
+Comparing a real market with perfect competition shows how far price is above marginal cost and average cost above its minimum. In labour markets, a wage below marginal revenue product points to market power.
+
+**Is monopolistic competition efficient?**
+In the long run a firm in monopolistic competition earns normal profit but sets price above marginal cost and produces below minimum average cost, so it is neither allocatively nor productively efficient, although customers gain variety.
+
+**Does advertising always raise a firm's profit in monopolistic competition?**
+No. Advertising adds to fixed costs, and if rivals copy it, demand can return to where it was and the firm makes a loss. Its benefit depends on whether it informs or merely persuades and how easily rivals copy.
+
 ## Official syllabus
 
 Source: the OxfordAQA *International AS and A-level Economics* specification (9640), version 1.2, sections 3.3.3.1 to 3.3.3.3 and quantitative skills in 3.5.

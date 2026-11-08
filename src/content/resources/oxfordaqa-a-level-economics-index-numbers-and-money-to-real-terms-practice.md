@@ -145,6 +145,23 @@ These questions practise quantitative skills QS5 (calculate and interpret index 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on index number questions?**
+Common losses are dividing by the wrong value when finding a percentage change, giving index points when a percentage is asked for, forgetting to divide a weighted sum by the total of the weights, and multiplying by the price index instead of dividing when converting to real terms.
+
+**What is the difference between a rise in index points and a percentage rise?**
+Index points are the simple difference between two index values. The percentage rise divides that difference by the earlier index value, so they are only equal when the earlier value is 100.
+
+**Can index numbers show which of two variables is larger?**
+No. An index records change since the base year, not the actual level, so two indices with the same base can be compared for growth but not for size.
+
+**Should I subtract inflation from nominal growth to find real growth?**
+Subtraction is only an approximation. When a question asks for exact working, divide (1 + nominal growth) by (1 + inflation) and subtract 1.
+
+**Which OxfordAQA 9640 skills do these questions practise?**
+They practise quantitative skills QS5 (index numbers) and QS7 (converting from money to real terms) from section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.5 Quantitative skills (QS5 and QS7). First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022. Published by OxfordAQA.

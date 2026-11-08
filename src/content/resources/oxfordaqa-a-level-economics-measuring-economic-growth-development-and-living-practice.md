@@ -162,6 +162,23 @@ These questions cover section 3.4.3.1 of the OxfordAQA International AS and A-le
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on measuring development questions?**
+Common losses are reporting nominal rather than real growth, dropping units such as "per 1,000 live births", treating a high average as proof that most people are better off, confusing PPP with the market exchange rate, and mixing up IHDI and MPI.
+
+**How do you calculate growth in real GDP per head?**
+Divide (1 + real GDP growth) by (1 + population growth) and subtract 1. Simple subtraction of population growth from GDP growth is close but not exact, so use the ratio method when a precise answer is needed.
+
+**Why does HDI use a geometric mean?**
+A geometric mean means a low score in one dimension cannot be fully hidden by a high score in another. Explain this effect on the result rather than just saying it is "more accurate".
+
+**How should I assess whether real GDP per head is a reliable indicator of living standards?**
+Give each weakness a consequence, such as averages hiding distribution or pollution not being subtracted, and end with a judgement that names the conditions it depends on.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.4.3.1 of the OxfordAQA International AS and A-level Economics (9640) specification: measuring economic growth, development and living standards, which is International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.4.3.1, published by OxfordAQA (first teaching September 2020, first A-level exams May/June 2022).

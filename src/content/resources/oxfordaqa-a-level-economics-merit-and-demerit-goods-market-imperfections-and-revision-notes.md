@@ -210,6 +210,23 @@ Link each step with "so" or "therefore", and end on the misallocation.
 - Reporting a quintile ratio without saying what it shows or what it cannot show.
 - Presenting only one side of an evaluation question and never reaching a verdict.
 
+## Frequently asked questions
+
+**What is the difference between a merit good and a demerit good?**
+A merit good is one society judges people consume too little of, so it is underconsumed. A demerit good is one society judges people consume too much of, so it is overconsumed. Both classifications rest on a value judgement.
+
+**What is the difference between income and wealth?**
+Income is what a household receives over a period, a flow. Wealth is the net assets it owns at one moment, a stock.
+
+**What is the difference between equality and equity?**
+Equality means everyone has the same amount. Equity means fairness and justice, which is a value judgement, so inequality can be measured but whether it is fair cannot be settled by data alone.
+
+**How does asymmetric information cause market failure?**
+When buyers cannot judge quality, they offer a price based on average quality, so owners of good items withdraw and quality falls. Mutually beneficial trades in good items do not happen.
+
+**Why is price instability a market failure?**
+Inelastic demand and supply combined with supply shocks cause large price swings, so producers' incomes become unstable, investment falls and uncertainty rises.
+
 ## Official syllabus
 
 Source: the OxfordAQA International AS and A-level Economics specification (9640), version 1.2, from Oxford International AQA Examinations. Covered here: 3.1.5.4, 3.1.5.5, 3.1.5.6.
