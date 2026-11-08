@@ -224,6 +224,20 @@ The guide says substitution produces a **mixture of products**. There are three 
 - See all four mechanism types side by side in the [Reactivity 3 overview notes](/resources/ib-dp-chemistry-reactivity-3-mechanisms-revision-notes/); browse other units on the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/)
 - Mark off Reactivity 3.3 on the [printable checklist](/checklists/ib/ib-dp/chemistry/), then look for gaps with the free [diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What is homolytic fission?**
+Homolytic fission is when a covalent bond splits evenly, with one bonding electron going to each atom, giving two radicals. It is shown with two single-barbed (fish-hook) arrows starting in the middle of the bond, and the energy comes from UV light or heat.
+
+**Why are alkanes unreactive?**
+C–C and C–H bonds are strong, so activation energies are high, and C–H bonds are essentially non-polar because carbon and hydrogen have similar electronegativities. Saying alkanes are unreactive just because they are "saturated" is not enough.
+
+**Why do CFCs release chlorine radicals but not fluorine radicals?**
+In the stratosphere, UV radiation breaks the C–Cl bonds in CFCs to release Cl•. The C–F bond is much stronger, so fluorine radicals are not typically released.
+
+**Are termination steps exothermic?**
+Yes. Every termination step only makes a bond and breaks none, so each one is exothermic.
+
 ## Official syllabus
 
 This guide follows Reactivity 3.3 (Electron sharing reactions), understandings 3.3.1 to 3.3.3, SL and HL. Source: *Chemistry guide*, IB Diploma Programme, International Baccalaureate, February 2023 (first assessment 2025).

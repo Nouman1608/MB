@@ -169,6 +169,20 @@ Before you start, you may want the [study guide](/resources/ib-dp-chemistry-elec
 - [Book a free trial class](/trial/)
 - Mark your progress on the printable [checklist](/checklists/ib/ib-dp/chemistry/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 3.4.1 to 3.4.5 practice set cover?**
+It covers nucleophiles, electrophiles, heterolytic fission, nucleophilic substitution of halogenoalkanes and electrophilic addition to alkenes, including equations and yield calculations, for both SL and HL students.
+
+**Should nucleophiles and electrophiles be defined by charge?**
+No. A nucleophile donates an electron pair and an electrophile accepts one; charge is only a guide. Water and ammonia are neutral nucleophiles, and Br₂ and HBr are neutral electrophiles.
+
+**How do you name a nitrile formed from a halogenoalkane?**
+Count the CN carbon as part of the chain, so the nitrile has one more carbon than the halogenoalkane. Missing that carbon is a common naming error.
+
+**What are common mistakes in nucleophilic substitution equations?**
+Frequent errors include naming the halogenoalkane as the nucleophile, leaving HX or NH₄X out when the nucleophile is neutral, and using fish-hook arrows or radical products for heterolytic fission. Writing "clear" instead of "colourless" for decolourised bromine water also loses marks.
+
 ## Official syllabus
 
 Source: the *Chemistry guide* for the IB Diploma Programme (International Baccalaureate, published February 2023; first assessment 2025). Every question targets Reactivity 3.4 understandings 3.4.1 to 3.4.5, which are SL and HL content.

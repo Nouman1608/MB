@@ -226,6 +226,20 @@ Carbon bookkeeping reminder for bioethanol: making 1 glucose fixes 6 CO₂. Ferm
 - Swapping anode and cathode, or putting electrons on the wrong side.
 - Using H⁺ in an alkaline half-equation.
 
+## Frequently asked questions
+
+**What is the difference between complete and incomplete combustion?**
+Complete combustion happens in excess oxygen and gives only CO₂ and H₂O from an organic fuel. Incomplete combustion happens in limited oxygen and gives carbon monoxide and/or carbon (soot), with a yellow, sooty flame.
+
+**Why is carbon monoxide dangerous?**
+Carbon monoxide attaches to haemoglobin more tightly than oxygen, so the blood carries less oxygen. It has no colour or smell, so it is hard to detect.
+
+**Which fossil fuel releases the least CO₂ per unit of energy?**
+Natural gas releases the least CO₂ per unit of energy and coal the most, with crude oil in between. Natural gas, which is mostly methane, also releases the most energy per gram.
+
+**What is the difference between a fuel cell and a primary cell?**
+A fuel cell is supplied with reactants continuously, while a primary cell holds a fixed amount of reactants and runs down. A fuel cell has the same overall reaction as combustion, but the energy comes out as electricity rather than mainly as heat.
+
 ## Official syllabus
 
 Source: *Chemistry guide*, International Baccalaureate Diploma Programme, February 2023 (first assessment 2025). Condensed here: Reactivity 1.3, Energy from fuels, understandings 1.3.1 to 1.3.5, common to SL and HL.

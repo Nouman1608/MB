@@ -204,6 +204,19 @@ Small reminder: but-2-ene + Br₂ → CH₃CHBrCHBrCH₃, 2,3-dibromobutane.
   <figcaption>Halogens, hydrogen halides and water add across the C=C of a symmetrical alkene to give one product.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is heterolytic fission?**
+Heterolytic fission is bond breaking in which one fragment keeps the whole bonding pair, giving an anion and a cation. It is shown with a double-barbed curly arrow, unlike homolytic fission, which gives two radicals and uses fish-hook arrows.
+
+**What is a leaving group?**
+A leaving group is the atom or group that departs with the electron pair of the broken bond. In nucleophilic substitution of halogenoalkanes, the leaving group is a halide ion.
+
+**Are substitution and addition mechanisms required at SL in IB DP Chemistry?**
+The IB guide says detailed nucleophilic substitution mechanisms are not needed at SL, and alkene addition mechanisms are not assessed at SL. SL students still write equations and describe electron-pair movement for Reactivity 3.4.1 to 3.4.5.
+
+**Why does bromine water stay orange with an alkane in the dark?**
+Alkanes have no electron-rich C=C bond, so they do not react with bromine in the dark; they need UV light for radical substitution. An alkene decolourises bromine water even in the dark.
 
 ## Official syllabus
 

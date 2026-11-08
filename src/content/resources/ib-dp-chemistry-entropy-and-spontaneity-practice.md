@@ -167,6 +167,20 @@ Data for every question: R = 8.31 J K⁻¹ mol⁻¹, and T/K = t/°C + 273. Stan
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 1.4 practice set cover?**
+It covers the HL topic of entropy and spontaneity: predicting and calculating ΔS⦵, using ΔG⦵ = ΔH⦵ − TΔS⦵, threshold temperatures, and linking ΔG to equilibrium through RT lnK and RT lnQ.
+
+**What unit mistakes are common in Gibbs energy calculations?**
+The most common mistake is substituting ΔS in J K⁻¹ mol⁻¹ into an equation where ΔH is in kJ mol⁻¹ without dividing by 1000. Using °C instead of kelvin, and leaving ΔG⦵ in kJ when calculating lnK, also lose marks.
+
+**How should you state a threshold temperature for spontaneity?**
+Give the temperature from T = ΔH ÷ ΔS and say whether the reaction is spontaneous above or below it. A temperature without "above" or "below" is incomplete.
+
+**Does a positive ΔG mean nothing happens?**
+No. A positive ΔG means the forward reaction as written is not spontaneous, so the reverse reaction is spontaneous. A spontaneous reaction may also still be slow.
+
 ## Official syllabus
 
 These questions are based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 1.4 (additional higher level).

@@ -250,6 +250,20 @@ You do not need the details of the membrane that separates the electrodes.
 - Calling biofuels carbon neutral without mentioning the energy used to grow and process them.
 - Putting the electrons on the wrong side: the anode releases them and the cathode takes them in.
 
+## Frequently asked questions
+
+**How do you balance the combustion equation of an alcohol?**
+Balance carbon with CO₂, then hydrogen with H₂O, then count the oxygen atoms on the right and subtract the one already in the alcohol before halving to get O₂. For butan-1-ol this gives C₄H₉OH + 6O₂ → 4CO₂ + 5H₂O.
+
+**Why do larger hydrocarbons burn incompletely more easily?**
+Each larger molecule needs more oxygen to burn fully, so with a limited supply some carbon ends up as carbon monoxide or soot. Methane needs 2 O₂ per molecule, for example, while octane needs 12½.
+
+**What is a renewable energy source?**
+A renewable energy source is replaced by natural processes at least as fast as it is used, such as sunlight, wind and biofuels. Fossil fuels are not renewable because they formed over millions of years.
+
+**What are the half-equations in a hydrogen fuel cell?**
+With an acidic electrolyte, the anode reaction is H₂ → 2H⁺ + 2e⁻ and the cathode reaction is O₂ + 4H⁺ + 4e⁻ → 2H₂O. With an alkaline electrolyte, OH⁻ replaces H⁺; either way the overall product is only water.
+
 ## Official syllabus
 
 Source: *Chemistry guide*, International Baccalaureate Diploma Programme, February 2023 (first assessment 2025). Taught here: Reactivity 1.3, Energy from fuels, understandings 1.3.1 to 1.3.5, common to SL and HL.

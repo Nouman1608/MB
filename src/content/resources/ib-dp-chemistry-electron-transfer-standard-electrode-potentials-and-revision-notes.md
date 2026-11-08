@@ -213,6 +213,20 @@ Use the data at the top of the page.
 - Putting the object at the anode in electroplating.
 - Assuming a positive E⦵cell means a fast reaction.
 
+## Frequently asked questions
+
+**What is the standard hydrogen electrode?**
+The standard hydrogen electrode is H⁺(aq) + e⁻ ⇌ ½H₂(g) on a platinum electrode, with hydrogen at 100 kPa, [H⁺] = 1.00 mol dm⁻³ and 298 K, and its E⦵ is defined as 0 V. A reference is needed because a voltmeter can only measure a difference between two half-cells.
+
+**How do you decide if a redox reaction is spontaneous using E⦵ values?**
+Split the equation into half-equations, then calculate E⦵cell = E⦵(cathode) − E⦵(anode), using the species that gains electrons as the cathode. A positive E⦵cell means the reaction is spontaneous as written; a negative value means the reverse is spontaneous.
+
+**How do you predict the cathode product in aqueous electrolysis?**
+Compare the cation's E⦵ with that of water (−0.83 V). If the cation's E⦵ is more positive, as for Cu²⁺ and Ag⁺, the metal forms; if it is more negative, as for Na⁺, K⁺, Mg²⁺ and Al³⁺, hydrogen forms.
+
+**Does a positive E⦵cell mean a reaction is fast?**
+No. A positive E⦵cell predicts the direction of a reaction under standard conditions, not its rate.
+
 ## Official syllabus
 
 Source document: the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 3.2, understandings 3.2.12 to 3.2.16 (additional higher level).

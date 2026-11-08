@@ -216,6 +216,20 @@ lnK = −12 000 ÷ (8.31 × 298) = −4.85, so K = **7.86 × 10⁻³**. At equil
 - Treating ΔG = 0 as "no reaction" rather than as equilibrium.
 - Stating that a spontaneous reaction must be fast.
 
+## Frequently asked questions
+
+**What is entropy in IB DP Chemistry?**
+Entropy, S, describes how dispersed the matter and energy of a system are; the more ways the energy can be shared out, the higher the entropy. Under the same conditions, gases have higher entropy than liquids, which have higher entropy than solids.
+
+**How do you predict the sign of ΔS for a reaction?**
+ΔS is positive when the number of moles of gas increases, which is usually the strongest effect, or when a solid melts, a liquid boils, a solid dissolves or a substance is heated. ΔS is negative for the reverse of each.
+
+**When is a reaction spontaneous at all temperatures?**
+A reaction with a negative ΔH and a positive ΔS is spontaneous at all temperatures, and one with a positive ΔH and a negative ΔS is never spontaneous. When both have the same sign, spontaneity depends on temperature.
+
+**What is the value of ΔG at equilibrium?**
+At equilibrium ΔG is zero. As a reaction approaches equilibrium, ΔG becomes less negative; a negative ΔG⦵ gives K greater than 1 and a positive ΔG⦵ gives K less than 1.
+
 ## Official syllabus
 
 These notes are based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 1.4 (additional higher level).

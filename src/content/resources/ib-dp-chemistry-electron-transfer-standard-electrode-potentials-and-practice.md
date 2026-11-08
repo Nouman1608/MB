@@ -181,6 +181,20 @@ Before starting, read the [Reactivity 3.2.12-3.2.16 study guide](/resources/ib-d
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 3.2.12 to 3.2.16 practice set cover?**
+It covers the HL content on standard electrode potentials, cell potentials, spontaneity, ΔG⦵ = −nFE⦵cell, electrolysis of aqueous solutions and electroplating. Standard electrode potential data are given at the top of the page for every question.
+
+**What are common mistakes in cell potential calculations?**
+Typical errors include subtracting E⦵ values the wrong way round, reversing a sign and then also subtracting, and multiplying an E⦵ value by a balancing coefficient. E⦵cell does not change when an equation is scaled.
+
+**What value of n do you use in ΔG⦵ = −nFE⦵cell?**
+n is the total moles of electrons transferred in the overall balanced equation, not the charge on one ion. Also convert between J and kJ carefully, because mixing them gives an answer a thousand times out.
+
+**Which electrode is the object in electroplating?**
+The object to be plated is the cathode, and the plating metal is the anode. Reversing the electrodes would strip metal from the object instead of coating it.
+
 ## Official syllabus
 
 Source document: the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 3.2, understandings 3.2.12 to 3.2.16 (additional higher level).
