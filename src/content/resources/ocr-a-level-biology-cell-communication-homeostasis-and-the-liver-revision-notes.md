@@ -258,6 +258,20 @@ A sinusoid is 9 µm wide and its drawing is 27 mm wide.
 - Forgetting to convert units in magnification questions.
 - Drawing cells in a low-power tissue plan, or using shading and overlapping lines.
 
+## Frequently asked questions
+
+**What is the difference between negative and positive feedback?**
+Negative feedback reverses a change and keeps a factor steady. Positive feedback increases the change and is not homeostatic; examples include platelets at a wound attracting more platelets and uterine contractions with oxytocin during birth.
+
+**What is the difference between excretion, secretion and egestion?**
+Excretion removes metabolic waste from the body. Secretion releases a useful product, such as a hormone or bile salts, and egestion removes undigested material that was never absorbed.
+
+**Why must carbon dioxide and ammonia be excreted?**
+Carbon dioxide from respiration lowers blood pH, and ammonia from the deamination of amino acids is toxic. The liver converts ammonia to urea, which the kidneys excrete.
+
+**Does the hypothalamus produce the response in temperature control?**
+No. The hypothalamus sends signals to effectors, such as sweat glands and skeletal muscles, which carry out the response. Saying the hypothalamus itself produces the response is a common error.
+
 ## Official syllabus
 
 OCR, *A Level in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, Cambridge OCR. Sections 5.1.1 and 5.1.2.

@@ -294,6 +294,20 @@ Magnification: **actual size = image size ÷ magnification** (convert mm to µm 
 - Writing that platelets "clot the blood" without fibrinogen and fibrin, or saying fibrin is soluble.
 - Listing CHD risk factors with no link to blocked coronary arteries and starved heart muscle.
 
+## Frequently asked questions
+
+**What is a double circulation?**
+In a double circulation, blood passes through the heart twice for each complete circuit of the body: once in the pulmonary circuit to the lungs and once in the systemic circuit to the rest of the body. Writing only "two circuits" is not enough.
+
+**What does the septum do?**
+The septum separates the left and right sides of the heart, so oxygenated and deoxygenated blood do not mix.
+
+**How is tissue fluid involved in exchange between blood and cells?**
+Pressure forces plasma out of capillaries to form tissue fluid around the cells. Oxygen, glucose and amino acids diffuse from the blood through the tissue fluid to the cells, carbon dioxide and urea move the other way, and much of the fluid returns to the capillaries.
+
+**How can diet and exercise reduce the risk of coronary heart disease?**
+Eating less saturated fat, cholesterol and salt and avoiding excess energy intake reduce the risk. Regular exercise strengthens heart muscle and helps control body mass, blood pressure and cholesterol.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 11: Transport in humans, published by Cambridge Assessment International Education.

@@ -278,6 +278,20 @@ Most molecules and ions absorbed from the ileum travel to the **liver** in the *
 
 Use the [revision notes](/resources/o-level-biology-5090-human-nutrition-revision-notes/), then the [practice questions](/resources/o-level-biology-5090-human-nutrition-practice/). Diffusion, osmosis and active transport are taught in [movement into and out of cells](/resources/o-level-biology-5090-movement-into-and-out-of-cells/); compare with [plant nutrition](/resources/o-level-biology-5090-plant-nutrition/).
 
+## Frequently asked questions
+
+**What is a balanced diet?**
+A balanced diet contains all the nutrients in the correct proportions, with enough energy for the person's needs. It is not equal amounts of everything; needs change with age, sex, activity level and pregnancy.
+
+**Why do we need fibre if we cannot digest it?**
+Fibre is mostly cellulose. Humans cannot digest it, so it stays in the gut as bulk.
+
+**What is the structure of a tooth?**
+From outside in, a tooth has enamel covering the crown, the hardest substance in the body, then dentine, which is hard but softer than enamel, and then the pulp in the centre, which contains nerves and blood vessels.
+
+**What does the hepatic portal vein do?**
+Most molecules and ions absorbed from the ileum travel to the liver in the hepatic portal vein. The liver can process them, for example storing excess glucose as glycogen, before they reach the rest of the body.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4, Cambridge International Education. Topic 8: Human nutrition (8.1 Diet; 8.2 Human digestive system; 8.3 Absorption and assimilation).

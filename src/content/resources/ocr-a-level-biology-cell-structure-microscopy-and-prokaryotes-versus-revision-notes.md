@@ -249,6 +249,20 @@ Three roles: mechanical strength, transport within the cell and cell movement.
 - Saying prokaryotes have no genetic material rather than no nucleus.
 - Not saying that a TEM section is a 2D slice, so one organelle can appear as a circle or a strip.
 
+## Frequently asked questions
+
+**Why do electron microscopes have a higher resolution than light microscopes?**
+The electron beam has a shorter wavelength than visible light, so electron microscopes can distinguish points that are closer together. Magnifying beyond the resolution limit adds no extra detail.
+
+**What is the difference between TEM and SEM images?**
+A transmission electron microscope sends electrons through an ultra-thin specimen and gives a 2D image of internal ultrastructure. A scanning electron microscope scans electrons over the surface and gives an image with a 3D appearance; both produce monochrome images and cannot be used on living specimens.
+
+**Do you need to recall exact resolution values for OCR A Level Biology A H420?**
+No. You are not required to recall exact resolution or magnification values for each microscope, but you should know how light microscopes, TEM and SEM compare.
+
+**What does a Gram stain show?**
+The Gram stain is a differential stain that separates bacteria into Gram-positive bacteria, which appear purple, and Gram-negative bacteria, which appear red.
+
 ## Official syllabus
 
 OCR, A Level in Biology A (H420), specification Version 4.1 (April 2026), section 2.1.1 Cell structure.

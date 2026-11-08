@@ -190,6 +190,20 @@ Learn the content first with the [study guide](/resources/o-level-biology-5090-p
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does Topic 6 cover in Cambridge O Level Biology 5090?**
+Topic 6, Plant nutrition, covers photosynthesis and its investigations, leaf structure and mineral nutrition. The syllabus is not tiered, so every question applies to every candidate.
+
+**Should you include an anomalous result when calculating a mean?**
+No. Identify any obvious anomaly and leave it out of the mean, then calculate the mean from the remaining repeats.
+
+**What units should you use for a rate of photosynthesis?**
+Give a unit such as cm³ per minute for gas volume or bubbles per minute for a count. A rate without a unit can lose a mark.
+
+**What should an experiment description on photosynthesis include?**
+Include each step needed for a valid result and say why it is done, such as destarching the plant before the experiment and including a control.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4 (Cambridge University Press & Assessment), section 6 Plant nutrition.

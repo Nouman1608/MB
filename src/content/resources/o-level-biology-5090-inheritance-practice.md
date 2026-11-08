@@ -173,6 +173,20 @@ Correct parental genotypes XX and XY [1]; gametes X from the mother, X or Y from
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why should you show parental genotypes and gametes before a Punnett square?**
+Each stage of a genetic diagram, from the parental genotypes to the gametes and offspring, can carry marks. Drawing only the Punnett square risks losing the marks for the earlier lines.
+
+**Should you give a genotypic or a phenotypic ratio?**
+Read the question carefully: if it asks for phenotypes, give the ratio of observable features, not a genotypic ratio such as 1 : 2 : 1.
+
+**How do you write blood group alleles in Cambridge O Level Biology 5090?**
+Use the symbols Iᴬ, Iᴮ and Iᵒ for the alleles, not A, B and O, which are the names of the blood groups.
+
+**How should you justify a genotype you have deduced?**
+Quote the evidence from the information given, such as an offspring showing the recessive phenotype. A deduced genotype with no evidence usually earns fewer marks.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 17: Inheritance (17.1 Variation; 17.2 DNA; 17.3 Inheritance; 17.4 Selection), published by Cambridge Assessment International Education.

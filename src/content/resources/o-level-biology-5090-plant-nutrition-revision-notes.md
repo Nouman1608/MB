@@ -288,6 +288,20 @@ A full answer names the process **and** the change in carbon dioxide concentrati
 - Stating that stomata "let air in": name the gases (carbon dioxide in, oxygen out).
 - Writing that magnesium "makes the leaf green" without naming chlorophyll.
 
+## Frequently asked questions
+
+**What is the difference between raw materials and conditions for photosynthesis?**
+Carbon dioxide and water are the raw materials. Light and chlorophyll are conditions, which is why they are written by the arrow in the equation.
+
+**Why do you test a leaf for starch rather than glucose?**
+Glucose made in photosynthesis is quickly converted to other substances, so leaves are tested for starch, which is stored.
+
+**Why do you put a leaf in boiling water and then hot ethanol in the starch test?**
+Boiling water for about a minute kills the cells and breaks the membranes. Hot ethanol in a water bath removes the chlorophyll, and no naked flame is used because ethanol is flammable.
+
+**What does it mean when a rate graph levels off?**
+A level part of the curve means another factor is limiting the rate. A fall in rate with rising temperature, by contrast, means enzymes are being denatured.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4 (Cambridge University Press & Assessment), section 6 Plant nutrition.

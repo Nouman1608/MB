@@ -171,6 +171,20 @@ These questions cover section 2.1.1 (a) to (k), Cell structure, of the OCR A Lev
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of OCR A Level Biology A H420 do these questions cover?**
+They cover section 2.1.1 (a) to (k), Cell structure, of the OCR A Level Biology A (H420) specification, including microscopy, magnification, eukaryotic organelles, the cytoskeleton and prokaryotic cells.
+
+**How do you avoid unit errors in magnification calculations?**
+Convert all lengths to the same unit before calculating, using 1 mm = 1000 µm. Leaving out this conversion is a common error.
+
+**What is the difference between a percentage decrease and a change in percentage points?**
+A percentage decrease compares the change with the original value, while a change in percentage points is the simple difference between two percentages. Confusing the two is a common error in data questions.
+
+**How should you answer a question about a practical method?**
+Describe each step in order and say why it is done. A list of steps with no reasons usually earns fewer marks.
+
 ## Official syllabus
 
 OCR, A Level in Biology A (H420), specification Version 4.1 (April 2026), section 2.1.1 Cell structure.
