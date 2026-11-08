@@ -16,7 +16,7 @@ description: "Revision notes on IB DP Psychology research methods: experiments, 
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the Paper 3 question pattern and terminology against the IB Psychology guide (first assessment 2019) before teacher sign-off."
+reviewNote: "Check the Paper 3 question pattern and terminology against the IB Psychology guide (first assessment 2019) before teacher sign-off. 2026-11-08 recheck: Paper 3 description corrected (Question 3 can be generalisation, credibility or bias)."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -39,7 +39,7 @@ Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-p
 | Ethics | Informed consent, deception, debriefing, right to withdraw, protection from harm, anonymity and confidentiality; ethics in data reporting |
 | Quality of research | Validity, reliability, credibility, bias, triangulation, reflexivity |
 | Generalisation | Sample-to-population generalisation, theoretical generalisation, case-to-case generalisation (transferability) |
-| HL Paper 3 | Unseen study summary; fixed question pattern on method, sampling, ethics and generalisation |
+| HL Paper 3 | Unseen study summary; static questions: method, sampling and alternative method (3 x 3 marks), ethics (6), then one of generalisation, credibility or bias (9) |
 
 ## Experiments compared
 
@@ -104,7 +104,7 @@ Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-p
 SL students are not set Paper 3, but they need research methods to evaluate studies on Papers 1 and 2 and to design the internal assessment experiment.
 
 **What is Paper 3?**
-A 1-hour HL paper worth 24 marks: one unseen study summary followed by three compulsory questions on research method, sampling, ethics and generalisation.
+A 1-hour HL paper worth 24 marks and 20% of the HL grade: one unseen study summary followed by three compulsory questions. Question 1 has three 3-mark parts (research method, sampling method, an alternative method); Question 2 (6 marks) is on ethics; Question 3 (9 marks) asks about one of generalisation, credibility or bias.
 
 **Do I need inferential statistics?**
 For Paper 3 you need to understand significance and generalisation conceptually; descriptive and inferential statistics are applied in the internal assessment.

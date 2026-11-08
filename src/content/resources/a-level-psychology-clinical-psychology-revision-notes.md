@@ -92,7 +92,7 @@ All of these produce **quantitative** data that can be compared before and after
 | Freeman et al. (2003) | Pilot study; 24 non-clinical participants in a neutral VR library | Some had persecutory thoughts about avatars; these people had higher interpersonal sensitivity and anxiety | Standardised setting, but small non-clinical sample |
 | Oruč et al. (1997) | Genetic association; 42 bipolar I patients, 40 controls | No significant association overall; trends for 5-HT2C and 5-HTT genes in women | Only a minor susceptibility effect, so reductionist to call it the cause |
 | Grant et al. (2008) | Data from two double-blind placebo trials; 284 gamblers | Family history of alcoholism best predicted response to opiate antagonists | Placebo control and double-blind design support validity |
-| Chapman and DeLapp (2013) | Case study; one adult; nine CBT sessions with applied tension | Fear and avoidance reduced over treatment | Rich detail but cannot generalise from one person |
+| Chapman and DeLapp (2013) | Case study of T, a 42-year-old man who fainted at blood tests; nine sessions of manualised CBT with a SUDS fear hierarchy and applied tension | Had his own blood drawn by session 9; BAI fell from 41 to 7; gains held at 12 months | Rich detail but cannot generalise from one person |
 | Lovell et al. (2006) | Randomised non-inferiority trial; 72 OCD patients; ten sessions | Telephone ERP as effective as face to face at six months | Real patients and random allocation; therapists not blind |
 
 ## Must-know comparisons

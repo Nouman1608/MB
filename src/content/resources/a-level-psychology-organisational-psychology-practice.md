@@ -28,7 +28,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
     subtopic: "satisfaction-at-work-9990"
-description: "Original Paper 3 and Paper 4 style questions with mark-scheme answers for Cambridge 9990 Organisational Psychology: motivation, leaders, groups and satisfaction."
+description: "Original Paper 3 and Paper 4 style questions with mark-scheme answers for Cambridge 9990 Organisational Psychology: motivation, leaders, groups, satisfaction."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -130,6 +130,17 @@ Related: [Organisational Psychology revision notes](/resources/a-level-psycholog
 **9. (a)** One mark each, any three: the work itself; pay; promotion opportunities; supervision; co-workers.
 
 **9. (b)** Up to 2 marks. The JDI uses the same standardised adjectives and response options for every worker (1), so it can be scored consistently and repeated (test–retest) to check consistency over time (1).
+
+## Frequently asked questions
+
+**How are Paper 3 and Paper 4 structured?**
+Each is 1 hour 30 minutes and 60 marks. On Paper 3, each of your two options has three short-answer questions (14 marks) and a structured essay (6-mark describe, 10-mark evaluate). On Paper 4, Section A has two structured questions on each option, and Section B is one planning question from a choice of four: plan a study (10 marks), then evaluate the plan (14 marks).
+
+**Will Paper 3 and Paper 4 test the same topic?**
+No. The 9990 syllabus says the topic areas assessed for an option on Paper 3 will be different from those assessed on Paper 4, so revise the whole organisational psychology option.
+
+**Which parts of the two-part key studies do I need?**
+For Landry et al. (2019) focus on study 1, and for Claypoole and Szalma (2019) focus on experiment 1; the syllabus says the methods of the second study or experiment are not needed.
 
 ## Where marks are usually lost
 

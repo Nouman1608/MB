@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "mental-health-9218"
-description: "Condensed notes on language and thought, Von Frisch, non-verbal communication, OCD and PTSD for OxfordAQA International GCSE Psychology 9218 sections 3.2.1 and 3.2.3."
+description: "Notes on language and thought, Von Frisch, non-verbal communication, OCD and PTSD for OxfordAQA International GCSE Psychology 9218, sections 3.2.1 and 3.2.3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
@@ -110,6 +110,17 @@ if he is stopped. Explain his behaviour using the cognitive explanation of OCD.*
 - Mixing up obsessions (thoughts) and compulsions (behaviours).
 - Saying the rise in recorded mental illness must be a real rise.
 - Describing a therapy without linking it to the explanation it targets.
+
+## Frequently asked questions
+
+**How is Paper 2 of OxfordAQA International GCSE Psychology structured?**
+2 hours, 100 marks, four 25-mark sections: Communication, Social influences, Mental health and Research methods, with multiple-choice, short-answer and extended-writing questions.
+
+**Why might the incidence of mental health problems seem to rise?**
+The specification names increased challenges of modern living, such as isolation, and increased recognition with lessening stigma. The second means some of the rise is in recorded cases rather than real cases.
+
+**Is non-verbal communication innate or learned?**
+Both sides have evidence: neonates and people who are sensory deprived show expressions they could not have learned, supporting Darwin, while cultural differences such as Yuki's emoticon study show learning.
 
 ## Self-test
 

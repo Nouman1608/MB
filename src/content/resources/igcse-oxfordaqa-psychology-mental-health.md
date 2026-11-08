@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "mental-health-9218"
-description: "Changing incidence of mental health problems, their effects, and ICD diagnosis, explanations and therapies for OCD and PTSD: section 3.2.3 of OxfordAQA IGCSE Psychology 9218."
+description: "Mental health trends and effects, and ICD diagnosis, explanations and therapies for OCD and PTSD: section 3.2.3 of OxfordAQA International GCSE Psychology 9218."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false

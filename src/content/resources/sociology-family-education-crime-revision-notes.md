@@ -38,8 +38,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -48,8 +50,9 @@ Condensed for the final weeks. For the full explanation, use the
 ## The Paper 2 rule
 
 Candidates answer **two of the three** topics (Family, Education, Crime) — decide early which two you
-will prepare in depth, but keep working knowledge of the third since Question 1 patterns vary by
-series.
+will prepare in depth. The layout is fixed: Question 1 is always Family, Question 2 Education and
+Question 3 Crime, each worth 40 marks with six parts (a)–(f). Cambridge expects two topics to be
+taught; a working knowledge of a third is only a safety net.
 
 ## Family — one mechanism per perspective
 

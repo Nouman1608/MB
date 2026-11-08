@@ -33,8 +33,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin page with syllabus 1.2 conformity factors and order mechanisms, 2.1-2.2 research design and approaches, and an FAQ; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -74,6 +76,36 @@ The organising debate of the whole syllabus.
 
 **Giddens's structuration** offers the synthesis: structure and action shape one another continuously, since people act within structures that their actions in turn reproduce or change.
 
+## Why do people conform, and how is order kept?
+
+Syllabus section 1.2 names four **factors explaining conformity**:
+
+- **Sanctions** — formal (fines, exclusion) and informal (praise, ridicule) rewards and punishments.
+- **Social pressure** — expectations of family, peers and community; the wish to fit in.
+- **Self-interest** — conforming because it pays, for example to keep a job or win promotion.
+- **Social exchange** — conformity as a trade: people follow norms because they gain approval, trust or help in return.
+
+It also names four **mechanisms through which order is maintained**:
+
+| Mechanism | Key idea | Linked perspective |
+|---|---|---|
+| **Consensus** | Shared values make people want to conform | Functionalism (Durkheim, Parsons) |
+| **Ideology** | Ruling-class ideas make inequality seem natural (hegemony) | Marxism (Gramsci) |
+| **Power** | The ability to get others to act as you wish | Weber; feminism (patriarchal power) |
+| **Force** | Coercion through police, army, prisons | Marxism (repressive state apparatus, Althusser) |
+
+**Explaining deviance and non-conformity:** **under-socialisation** (inadequate primary socialisation, a New Right theme), **cultural deprivation** (lacking the norms and values that bring success), **subcultures** with alternative values, **marginalisation** (exclusion from mainstream rewards), and **social resistance** (deliberate rejection of dominant norms, as in youth or political movements).
+
+## Designing and approaching research
+
+**Stages of research design:** choose a research strategy; formulate research questions or a hypothesis; **operationalise** concepts so they can be measured; identify a **sampling frame** and sampling technique; run a **pilot study**; conduct the research; interpret the results.
+
+**Secondary sources:** official statistics, personal documents (diaries, letters), digital content (social media posts, websites) and media sources. They are cheap and allow historical or comparative work, but were produced for other purposes, so their validity and representativeness must be checked.
+
+**Approaches:** **case studies** (one group or setting in depth), **social surveys** (large-scale, usually quantitative), **ethnography** (living among a group to describe its way of life), **longitudinal studies** (the same sample over time, which shows change but suffers sample attrition). **Methodological pluralism** uses several methods for a fuller picture; **triangulation** uses them to check one result against another.
+
+**Value-freedom:** positivists argue research can and should be objective; many interpretivists and feminists argue values shape the choice of topic, method and interpretation, and that funding bodies can bias findings, so researchers should be open about their values.
+
 ## Research methods
 
 **Positivism** wants objective, quantitative, reliable data and seeks causal patterns. **Interpretivism** wants *verstehen* — understanding meanings — and prefers qualitative, valid data.
@@ -110,6 +142,17 @@ Quantitative methods tend to be **high in reliability, low in validity**; qualit
 - Evaluating a method in the abstract rather than for the specific research topic.
 - Confusing ascribed with achieved status.
 - Giving only strengths or only weaknesses — evaluation requires both plus a judgement.
+
+## Frequently asked questions
+
+**How is Paper 1 of Cambridge 9699 structured?**
+1 hour 30 minutes, 60 marks: three compulsory questions in Section A, then one 26-mark essay from a choice of two in Section B. It is 50% of the AS Level and 25% of the A Level.
+
+**Do I need named sociologists for the conformity and order bullets?**
+They are not required, but linking each mechanism to a perspective and a thinker (Parsons for consensus, Gramsci for ideology, Althusser for force) turns description into analysis.
+
+**Is structuration a separate perspective I must know?**
+It is the clearest way to evaluate the structure versus agency debate in section 1.2, so use it as a judgement rather than as a third list of points.
 
 ## Self-test
 

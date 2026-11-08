@@ -91,6 +91,17 @@ GCSE Sociology (9292).
 
 ---
 
+## Frequently asked questions
+
+**Which paper assesses differences and inequalities?**
+Paper 2, Exploring Sociology: 1 hour 30 minutes, 60 marks. Differences and inequalities is Section A (22 marks), socialisation and social control Section B (22 marks) and research methods Section C (16 marks).
+
+**Do I need examples from my own country?**
+The specification asks students to apply themes to different societies, so prepare at least one example of class, gender and ethnic inequality from a society you know.
+
+**Which theory of class should I use?**
+Use the one the question names; otherwise compare Marxism (class conflict, exploitation), functionalism (Davis and Moore, meritocracy) and Weberianism (class, status and party).
+
 ## Where marks are usually lost
 
 - Confusing income with wealth.

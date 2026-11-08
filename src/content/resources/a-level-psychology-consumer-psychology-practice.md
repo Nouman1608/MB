@@ -125,6 +125,17 @@ Related: [Consumer Psychology revision notes](/resources/a-level-psychology-cons
 
 **8.** Up to 4 marks. Use the till receipts or bill totals for each table (1), divided by number of diners to give spending per head (1). This is objective because it does not depend on interpretation or memory (1); customers asked might misremember or give socially desirable answers, and asking could alert them to the aim, creating demand characteristics (1).
 
+## Frequently asked questions
+
+**How are Paper 3 and Paper 4 structured?**
+Each is 1 hour 30 minutes and 60 marks. On Paper 3, each of your two options has three short-answer questions (14 marks) and a structured essay (6-mark describe, 10-mark evaluate). On Paper 4, Section A has two structured questions on each option, and Section B is one planning question from a choice of four: plan a study (10 marks), then evaluate the plan (14 marks).
+
+**Will Paper 3 and Paper 4 test the same topic?**
+No. The 9990 syllabus says the topic areas assessed for an option on Paper 3 will be different from those assessed on Paper 4, so revise the whole consumer psychology option.
+
+**How detailed should key study answers be?**
+Know the aim, sample, procedure, main results and conclusions. For Robson et al. (2011), for example, that means the web survey of 1,013 Americans, the 6, 12 and 24 inch spacings, the three dining scenarios and the strongest effect in the romantic scenario.
+
 ## Where marks are usually lost
 
 - Giving a procedure that includes results, or results without the switch in Hall et al.

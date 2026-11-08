@@ -89,6 +89,17 @@ International GCSE Psychology (9218).
 
 ---
 
+## Frequently asked questions
+
+**Which paper are communication and mental health on?**
+Paper 2, Social context and behaviour: 2 hours, 100 marks, 50% of the International GCSE. Communication is Section A and mental health Section C, each worth 25 marks.
+
+**Which studies do I need for mental health?**
+Kearns's study of cognitive behaviour therapy for OCD, and a study of prolonged exposure therapy for PTSD; know the method, results and one strength and limitation of each.
+
+**Do I need to learn the ICD criteria word for word?**
+No, but you should describe the main characteristics and diagnostic criteria the specification names for OCD and PTSD.
+
 ## Where marks are usually lost
 
 - Describing Von Frisch's dances without stating that they show direction and distance.

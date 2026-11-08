@@ -104,11 +104,11 @@ For full explanations read the [Organisational Psychology study guide](/resource
 
 | Study | Focus | Core idea | Evaluate with |
 |---|---|---|---|
-| Landry et al. (2019) | Lab experiments on cash rewards (study 1) | Effect of money depends on whether it supports or frustrates competence and autonomy | Controlled; small lab rewards differ from salaries |
-| Cuadrado et al. (2008) | Experiment varying leader gender and style | Evaluation of a style depends on leader's gender | Controlled; written descriptions are artificial |
+| Landry et al. (2019) | Study 1: 123 Canadian students; same $10 gift card framed as appreciation (autonomy-supportive) or as reinforcing standards (controlling); anagram task | Autonomy-supportive framing raised need satisfaction, intrinsic motivation and performance | Controlled; small lab rewards differ from salaries |
+| Cuadrado et al. (2008) | 2 x 2 experiment: 136 Spanish students rated a male or female leader using a masculine (autocratic, task) or feminine (democratic, relationship) style | Feminine styles rated more competent and effective for both sexes; no penalty for women using masculine styles | Controlled; written descriptions are artificial |
 | Claypoole and Szalma (2019) | Vigilance task under monitoring (experiment 1) | Electronic monitoring can produce social facilitation effects | Lab control; short task |
-| Swat (1997) | Monitoring accidents and near misses in industrial plants | Recording risk events gives fuller picture of risk | Objective records over time; one context |
-| Giacalone and Rosenfeld (1987) | Employees judge reasons for sabotage | Some reasons, such as responses to unfair treatment, seen as more justifiable | Self-report attitudes, not actual behaviour |
+| Swat (1997) | 83 accidents in four plants (2,964 workers) analysed by frequency, severity and cause | At least 45.8% involved poor housekeeping; most minor incidents went unreported | Objective records over time; one context |
+| Giacalone and Rosenfeld (1987) | Unionised factory workers rated reasons for sabotage and four methods | Those accepting more reasons justified all sabotage except dishonesty | Self-report attitudes, not actual behaviour |
 
 ## Supporting studies to name
 

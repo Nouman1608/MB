@@ -16,7 +16,7 @@ description: "Two original IB DP Psychology HL Paper 3-style study summaries, on
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the Paper 3 question pattern and model answers against the IB Psychology guide (first assessment 2019) and a recent Paper 3 markscheme before teacher sign-off."
+reviewNote: "Check the Paper 3 question pattern and model answers against the IB Psychology guide (first assessment 2019) and a recent Paper 3 markscheme before teacher sign-off. 2026-11-08 recheck: Question 3 can be generalisation, credibility or bias and Question 2 has a reporting-ethics variant; Study 2 now uses the credibility question."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -30,7 +30,7 @@ featured: false
 Related: [Approaches to researching behaviour revision notes](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-revision-notes/)
 and the [study guide](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide/).
 
-IB DP Psychology HL Paper 3 (first assessment 2019) gives you one hour to answer three questions on an unseen summary of a study: research method (9 marks in three parts), ethics (6 marks) and generalisation (9 marks). The two invented summaries below -- one quantitative, one qualitative -- let you practise both versions of the method questions. SL students can use them to sharpen the evaluation they need on Papers 1 and 2.
+IB DP Psychology HL Paper 3 (first assessment 2019) gives you one hour to answer three questions on an unseen summary of a study: Question 1 has three 3-mark parts on the research method, the sampling method and an alternative method (9 marks); Question 2 is on ethics (6 marks), asking either about the ethical considerations applied in the study or about ethics in reporting its results; and Question 3 (9 marks) asks about one of three issues -- generalising the findings, ensuring credibility, or avoiding bias. All three questions are compulsory; the paper, not the candidate, decides which Question 3 issue appears. The two invented summaries below -- one quantitative, one qualitative -- practise the generalisation and credibility versions of Question 3. SL students can use them to sharpen the evaluation they need on Papers 1 and 2.
 
 ## Study 1 (quantitative, invented)
 
@@ -80,7 +80,7 @@ IB DP Psychology HL Paper 3 (first assessment 2019) gives you one hour to answer
 
 **2.** Describe the ethical considerations that were applied in the study and explain if further ethical considerations could be applied. **[6]**
 
-**3.** Discuss the possibility of generalizing the findings of the study. **[9]**
+**3.** Discuss how the researcher could ensure that the results of the study are credible. **[9]**
 
 ### Model answers -- Study 2
 
@@ -92,12 +92,14 @@ IB DP Psychology HL Paper 3 (first assessment 2019) gives you one hour to answer
 
 **2** Applied: consent for audio recording; voluntary participation; recruitment through a support office suggests sensitivity to participants' welfare. Further: confidentiality and anonymity in reporting -- quotations about family could identify individuals in a small group; participants should be told of the right to withdraw and to review transcripts; support should be available if interviews about feeling like an outsider cause distress; careful storage of recordings.
 
-**3** Qualitative research does not aim at sample-to-population generalisation. Transferability: findings may apply to first-generation students in similar universities if the context is described richly. Theoretical generalisation: the themes may support or extend theories of belonging or social identity. Credibility: the reflexive diary helps address researcher bias, particularly since the researcher shares the participants' background; researcher triangulation and member checking would strengthen it. Snowball sampling of 14 students from one institution limits transferability to other countries or types of university. Data saturation would support confidence that the themes are complete.
+**3** Credibility in qualitative research means the findings genuinely reflect participants' experiences. Already applied: the reflexive diary helps the researcher notice how her own first-generation background might shape her questions and interpretation (researcher bias), and audio-recording with full transcription supports accurate analysis. Further steps: *member checking* -- asking participants to confirm that the themes match what they meant; *researcher triangulation* -- a second analyst, ideally not first-generation, coding the transcripts independently and comparing themes; *method triangulation* -- adding a focus group or diary data to see whether the same themes appear; *data triangulation* -- interviewing students at more than one university; and continuing interviews until *data saturation*, so the three themes are not an artefact of a small snowball sample of 14 who may share networks. A strong answer weighs each step (for example, member checking can make participants defer to the researcher) and links every point to this study. *Markband guide:* 7-9 for a balanced, well-developed discussion linked to the study; 4-6 for some discussion that is partly generic; 1-3 for limited points.
+
+*If Question 3 had asked about generalisation instead:* qualitative research does not aim at sample-to-population generalisation; the relevant ideas are transferability (case-to-case generalisation, supported by rich description of the context) and theoretical generalisation (whether the themes support theories of belonging or social identity).
 
 ## Frequently asked questions
 
 **Are the Paper 3 questions always the same?**
-The guide publishes a fixed pattern of questions; the method question parts adapt to whether the study is quantitative or qualitative. Check the current guide for the exact wording.
+The guide publishes a set of static questions. Question 1(a)-(c) is the same every session; Question 2 is one of two ethics questions; Question 3 is one of three 9-mark questions (generalisation, credibility or bias). Your answers must adapt to whether the study is quantitative or qualitative.
 
 **How long should I spend on each question?**
 About 2.5 minutes per mark: roughly 22 minutes on Question 1, 15 on Question 2 and 22 on Question 3.

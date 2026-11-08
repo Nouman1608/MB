@@ -33,8 +33,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin page with 3.1.3.2-3.1.3.4 methods, research issues and data interpretation, plus an FAQ; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -84,6 +86,19 @@ Unit 1 is assessed in two sections: **Section A Families** (40 of the unit's 60 
 
 **Triangulation** combines methods so each offsets the other's weaknesses.
 
+**Other methods named in 3.1.3.2.** **Experiments**: laboratory (high control, but artificial and rarely ethical for social topics) and field (natural setting, less control). **Longitudinal studies** follow the same sample over time, showing change but losing members (attrition). **Secondary sources**: qualitative (diaries, letters, personal documents: rich meaning, but possibly unrepresentative or not written for research) and quantitative (official statistics: large-scale and comparable, but shaped by how the state defines and counts).
+
+**Issues in research (3.1.3.3).**
+
+- **Operationalisation**: turning a concept such as "poverty" into something measurable.
+- **Sampling**: the **population** and **sampling frame**; random, systematic, quota, multistage, stratified random and snowball samples.
+- **Bias**: researcher or interviewer bias, the **Hawthorne effect** (people change behaviour when observed) and **social desirability** (answering to look good).
+- **Ethics**: informed consent, confidentiality, anonymity and participant wellbeing.
+- **Causation and correlation**: two variables moving together does not prove one causes the other.
+- **Representativeness and generalisability**, and practical issues of time and funding.
+
+**Interpreting data (3.1.3.4).** Section B includes a structured question based on data about an unseen issue of global significance. For tables, charts and graphs, quote exact figures with units, describe the trend, and note what the data cannot show (who collected it, how terms were defined). For field-note or interview extracts, identify the meanings participants express and comment on how typical the extract might be.
+
 **Worked example.** Assess the usefulness of participant observation for studying a criminal gang.
 
 ```
@@ -109,6 +124,17 @@ Remember 3.1.3 resurfaces in Unit 2 (Exploring Sociology) as a single extended-r
 - Evaluating a method in the abstract rather than against a specific research aim.
 - One-sided answers — both sides plus a judgement are required.
 - Under-revising Section A relative to Section B — Families is twice the marks.
+
+## Frequently asked questions
+
+**How long is the Unit 1 exam?**
+1 hour 45 minutes for 60 marks: Section A Families (40 marks) and Section B Research methods (20 marks). It is 50% of the International AS and 20% of the International A-level.
+
+**Do I have to use examples from my own society?**
+Yes, for selected extended-response questions the specification requires examples from your own society or one you know about, so prepare family examples from at least one named country.
+
+**Will polygamy or civil partnerships be examined?**
+No. The specification says they may be taught where appropriate but will not be directly assessed; they are credited only if used relevantly.
 
 ## Self-test
 
