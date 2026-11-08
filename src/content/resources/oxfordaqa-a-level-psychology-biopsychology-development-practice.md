@@ -13,6 +13,15 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-biopsychology-development-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "biopsychology-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "cognitive-development-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "research-methods-1-9685"
 description: "Original exam-style practice questions with full worked answers on biopsychology, cognitive development, and research methods 1 for OxfordAQA A-Level Psychology (9685) Unit 2."
 author: "marlbridge-academic-team"
 specCheck:
@@ -56,6 +65,16 @@ Related: [Biopsychology, Development and Research Methods 1 study guide](/resour
 
 **8. Evaluate** the claim that split-brain research provides strong evidence for hemispheric lateralisation of function. **[8]**
 
+## Section C — research methods 1
+
+**9.** A researcher wants to test whether background music affects the number of words recalled from a list. Write a **directional** hypothesis for this study. **[2]**
+
+**10.** Explain **one** advantage and **one** disadvantage of using a repeated measures design in this study, and how counterbalancing could deal with the disadvantage. **[4]**
+
+**11.** Explain why the researcher might carry out a pilot study first. **[2]**
+
+**12.** In a set of recall scores, the mean is 14 and the median is 11. Identify the type of distribution and explain your answer. **[2]**
+
 ---
 
 ## Answers
@@ -77,6 +96,14 @@ Related: [Biopsychology, Development and Research Methods 1 study guide](/resour
 **(c)** A **scattergram** [1].
 
 **8.** Split-brain research studies patients whose corpus callosum has been surgically severed, allowing researchers to present information to just one hemisphere at a time and observe what the patient can and cannot report or act on [1]. This provides strong evidence for lateralisation because it isolates each hemisphere's function directly, in a way that ordinary observation of intact brains cannot [2] — for example, showing that a patient can act on information shown only to the right hemisphere without being able to verbally name it, consistent with left-hemisphere dominance for language [1]. A balanced evaluation notes limitations: the sample of split-brain patients is small and unusual (all had severe epilepsy, an atypical population), the surgery itself may alter brain function beyond simply disconnecting the hemispheres, and findings from a severed brain may not generalise straightforwardly to how the two hemispheres cooperate in an intact one [2]. A top-band answer therefore concludes that split-brain research provides valuable but not unlimited evidence, and should be read alongside other lateralisation evidence rather than treated as definitive on its own [2].
+
+**9.** For example: "Participants who learn a word list **in silence** will recall **more words** than participants who learn it **with background music**" [1] — the hypothesis must state the **direction** of the difference [1] and operationalise the variables (number of words recalled).
+
+**10.** **Advantage:** participant variables are controlled, because the same people take part in both conditions [1]. **Disadvantage:** **order effects** — participants may improve through practice or do worse through fatigue or boredom in the second condition [1]. **Counterbalancing:** half the participants do the silent condition first and half the music condition first (ABBA), so order effects are balanced across the conditions [1] [1]. *(Different but equivalent word lists should also be used in each condition.)*
+
+**11.** A pilot study is a small-scale trial run [1] that lets the researcher check that the procedure, instructions and materials work — for example that the word list is not too easy or too hard — and correct problems before the main study, saving time and money [1].
+
+**12.** A **positively skewed** distribution [1], because the **mean is higher than the median**: a few very high scores pull the mean upwards [1].
 
 ---
 

@@ -13,6 +13,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introductory-topics-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "memory-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "social-psychology-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "psychopathology-9685"
 description: "Memory, social psychology, and psychopathology -- the full content of Unit 1 for OxfordAQA International AS and A-Level Psychology (9685)."
 author: "marlbridge-academic-team"
 specCheck:

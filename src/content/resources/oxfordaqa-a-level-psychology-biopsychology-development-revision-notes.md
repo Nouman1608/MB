@@ -13,6 +13,15 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-biopsychology-development-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "biopsychology-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "cognitive-development-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "research-methods-1-9685"
 description: "Condensed recall notes on the nervous system, synaptic transmission, brain localisation, Piaget vs Vygotsky, and research methods 1 for OxfordAQA A-Level Psychology (9685) Unit 2."
 author: "marlbridge-academic-team"
 specCheck:
