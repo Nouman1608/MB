@@ -162,6 +162,20 @@ For the extended Questions 7 and 8, the real exam uses levels of response, not p
 - More practice: [Global Perspectives practice](/resources/global-perspectives-practice/), [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/), [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are the places in these 0457 environment questions real?**
+No. The polluted river, town and marine reserve in the sources are fictional, and the questions are original practice for IGCSE Global Perspectives 0457.
+
+**How do you tell a fact from a claim in a source?**
+A fact can be checked, while a claim is presented as true but may not be supported. Quoting a statement as fact when it cannot be checked is a common mistake.
+
+**What makes a good suggestion for further research?**
+Give a specific method, such as who you would ask, how many and how, and explain how it fixes a weakness. Vague suggestions such as "ask more people" earn little.
+
+**Do planning notes count as Evidence of Action?**
+No. Evidence of Action must be produced during the action itself, so planning notes and evidence of research or initial meetings do not count.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4.

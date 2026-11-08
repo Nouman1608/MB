@@ -166,6 +166,20 @@ Keep the action **non-partisan**. The syllabus notes that Cambridge Internationa
 - [Team Project study guide](/resources/igcse-cambridge-global-perspectives-team-project/) and [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/)
 - [Global Perspectives hub](/boards/cambridge/igcse/global-perspectives/) and [0457 checklist](/checklists/cambridge/igcse/global-perspectives/)
 
+## Frequently asked questions
+
+**What issues come under Political power and action in 0457?**
+Global issues include who holds power in international bodies, such as the five permanent members of the UN Security Council who each hold a veto. National issues include who may vote and whether they must, and local issues include how residents shape decisions near them.
+
+**What courses of action can increase political participation?**
+Examples include compulsory voting, as in Australia since 1924; lowering the voting age, as Austria did in 2007; citizens' initiatives and petitions; participatory budgeting, begun in Porto Alegre in 1989; and citizens' assemblies. Judge each against the same criteria.
+
+**Why do people disagree about lowering the voting age to 16?**
+Supporters point out that 16-year-olds can work and pay tax in many countries, while opponents argue they have less experience. The two sides often value different things, such as fairness and inclusion against experience.
+
+**What makes a good Individual Report question on political power?**
+A strong question names an issue and invites different answers, such as "Should voting be compulsory in democratic countries?" A single word such as "Democracy" is a topic, not a question.
+
 ## Official syllabus
 
 This guide follows the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Check it, the specimen papers and your teacher's advice for the final word on what is assessed.

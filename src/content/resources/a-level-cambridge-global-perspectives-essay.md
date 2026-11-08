@@ -152,6 +152,23 @@ other. Ending the essay with a restated summary instead of a personal,
 supported conclusion. Missing the word count statement, or exceeding
 2000 words, which stops the excess from being marked at all.
 
+## Frequently asked questions
+
+**How long is the Cambridge Global Perspectives 9239 essay?**
+The Component 2 essay is 1750–2000 words of continuous prose, with an accurate word count stated on the essay. The count excludes the title, references and citations, and anything beyond 2000 words is not marked.
+
+**How many marks is the 9239 Component 2 essay worth?**
+The essay is worth 40 marks and is externally marked. It is one of the three compulsory AS components, alongside the Written Exam and the Team Project.
+
+**Can the essay title be a statement?**
+No. The title must be phrased as a single question, not a statement or general topic, and it should open up globally contrasting perspectives. A question about an exclusively local or national issue is unlikely to be appropriate.
+
+**Can a teacher help with the Global Perspectives essay?**
+Teachers may lead whole-class background research and support planning, source citation and word-count discipline. They must not give detailed advice on improving a specific draft or correct or edit draft coursework, and each candidate must devise their own question.
+
+**How should a 9239 essay end?**
+It should end with the candidate's own personal, supported conclusion on the question. Simply summarising the perspectives already given does not complete the task.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Global Perspectives & Research

@@ -155,6 +155,20 @@ Reflection is not credited in Component 1, so do not spend time on how your view
 - Picking a Team Project issue that is national or global, not local.
 - In the Reflective Paper, describing the action but not evaluating how effective it was.
 
+## Frequently asked questions
+
+**What is the difference between a cause and a consequence of globalisation?**
+Cheaper shipping is a cause of globalisation, while cheaper clothes in shops are a consequence. Mixing the two up is a common error.
+
+**Is reflection credited in the 0457 Written Exam?**
+No. Reflection is not credited in Component 1, so do not spend time on how your view changed in that paper. It does carry marks in the Individual Report and Team Project.
+
+**Does a single event prove a pattern?**
+No. A single event shows that something can happen, but not how often it happens. Treating one event as proof of a general pattern is a frequent mistake.
+
+**What level of issue does the Team Project need?**
+The Team Project needs a local issue. Picking a national or global issue for it is a common error.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Sections 2 to 4 hold the assessment objectives, topic list, key terms, component details and command words.

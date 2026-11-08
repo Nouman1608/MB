@@ -162,6 +162,20 @@ For the rules, see the [Individual Report revision notes](/resources/global-pers
 - In the Individual Report, giving only "for" and "against" with no named groups or reasons.
 - In the Team Project, planning an action with no before-and-after measure.
 
+## Frequently asked questions
+
+**What is the difference between physical and economic water scarcity?**
+Physical scarcity means the water is not there. Economic scarcity means the water exists but people cannot reach or afford it, so the best action differs for each.
+
+**What are the assessment objective weightings for each 0457 component?**
+Component 1 is 100% AO1. Component 2 is 67% AO1, 8% AO2 and 25% AO3, and Component 3 is 36% AO1, 36% AO2 and 28% AO3.
+
+**What is the difference between a value and evidence?**
+"Water belongs to everyone" is a value. It shapes an argument but does not prove a claim on its own, which needs evidence.
+
+**What should you ask about crop trial results?**
+Ask how many farms took part, who chose them and what else changed during the trial. Accepting trial results without these checks is a common mistake.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Topic list in section 3; assessment objectives and weightings in section 2; components and command words in section 4.

@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These are condensed revision notes. For full explanations and longer worked examples, read the [biodiversity and conservation study guide](/resources/ib-dp-ess-biodiversity-conservation/) first.
@@ -181,6 +183,23 @@ Small reminder: counts of 5, 5, 5, 5 give N = 20, N(N − 1) = 380 and Σn(n −
 - Taking the edge depth off only one side when calculating a reserve's core area.
 - Calling a keystone species "the top predator". It is defined by its effect, not its trophic level.
 - In "evaluate" or "to what extent" answers, giving only benefits of an approach with no limitation and no final judgement.
+
+## Frequently asked questions
+
+**What is the difference between species richness and species evenness?**
+Species richness is the number of species present. Species evenness is how similar the population sizes of those species are, so two sites with the same richness can have different diversity.
+
+**What is the smallest value of Simpson's reciprocal index?**
+The smallest possible value is 1, which occurs when only one species is present. A higher value means higher diversity.
+
+**What is the difference between keystone, flagship and umbrella species?**
+A keystone species has a large effect on its ecosystem, a flagship species has public appeal that draws support, and an umbrella species needs a large area, so protecting it protects many others. A keystone species is defined by its effect, not by being the top predator.
+
+**What is the SLOSS debate in IB ESS?**
+SLOSS asks whether a single large reserve or several small ones conserve more. One large reserve usually gives more core area, but several small reserves spread risk from fire or disease and can cover more habitat types.
+
+**What makes a species vulnerable to extinction?**
+Features include a small population or range, a low reproductive rate, a specialised niche, a high trophic level or large body size, and low genetic diversity. Value to people as food, medicine or trade goods also raises the risk.
 
 ## Official syllabus
 

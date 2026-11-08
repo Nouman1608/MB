@@ -189,6 +189,23 @@ Each team member should research a different perspective, for example students, 
 
 Test yourself with the [revision notes](/resources/igcse-global-perspectives-0457-social-identity-and-inclusion-revision-notes/), then try the [practice set](/resources/igcse-global-perspectives-0457-social-identity-and-inclusion-practice/). For more source-based practice, use [Written Exam practice questions](/resources/global-perspectives-practice/). Related topics in the same course: [Change in culture and communities](/resources/igcse-global-perspectives-0457-change-in-culture-and-communities/), [Migration and urbanisation](/resources/igcse-global-perspectives-0457-migration-and-urbanisation/) and [Poverty and inequality](/resources/igcse-global-perspectives-0457-poverty-and-inequality/).
 
+## Frequently asked questions
+
+**What is social identity?**
+Social identity is the sense of who you are that comes from the groups you belong to. Inclusion means making sure people can take part fully in a community, school or workplace.
+
+**What causes exclusion?**
+Possible causes include physical barriers such as steps without ramps, cost, language differences, stereotypes and prejudice, rules designed only for the majority, and lack of information about support.
+
+**What is the difference between integration and multiculturalism?**
+Integration means newcomers and existing residents mixing and sharing common institutions. Multiculturalism is the view that different cultural groups should keep and celebrate distinct identities within one society.
+
+**Why is "discrimination is bad" not an issue?**
+Almost nobody disagrees with it, so it does not divide opinion. An issue needs genuine disagreement, such as whether school dress rules should allow exceptions for cultural identity.
+
+**What are Team Project ideas on social identity and inclusion?**
+Ideas include a welcome event for newcomer students measured with a before-and-after belonging survey, an access audit of a local park, or a skills-swap afternoon for older and younger residents.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Section 3 lists the topics and section 4 describes each component. Your teacher will confirm which topics your class uses.

@@ -162,6 +162,20 @@ Identify the main value behind each letter. **[2]**
 - [Book a free trial class](/trial/).
 - Return to the [study guide](/resources/igcse-global-perspectives-0457-political-power-and-action/), the [hub](/boards/cambridge/igcse/global-perspectives/) or the [checklist](/checklists/cambridge/igcse/global-perspectives/).
 
+## Frequently asked questions
+
+**What topic do these 0457 practice questions use?**
+They use Political power and action from the Cambridge IGCSE Global Perspectives 0457 topic list as a context for source-based skills. The questions are original practice.
+
+**Is what people say they will do the same as what they did?**
+No. "82% said they will vote" is a statement of intention, not evidence that 82% voted. Treating intentions as actions is a common mistake.
+
+**How should you suggest a way to test a claim?**
+Name a method, a sample and a comparison group. A suggested test with no comparison group cannot show whether the action made a difference.
+
+**Can a Team Project promote a political party?**
+No. Keep the action non-partisan, because Cambridge International is politically neutral. Planning an action that promotes a party or candidate is a common error.
+
 ## Official syllabus
 
 These questions are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025).

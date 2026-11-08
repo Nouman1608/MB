@@ -164,6 +164,20 @@ The `[1]` points are a revision aid. The real exam and coursework mark extended 
 - Revisit the [Transport, travel and tourism study guide](/resources/igcse-global-perspectives-0457-transport-travel-and-tourism/), the [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/) and the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/).
 - Want feedback on your answers? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Do you need knowledge of tourism for these 0457 questions?**
+No. Topic knowledge is not assessed in 0457, so answer the source-based questions from the sources rather than outside knowledge.
+
+**Why check how a total in a source was calculated?**
+A headline figure, such as a total amount spent by visitors, depends on how it was worked out and from how many people. Accepting it without checking is a common mistake.
+
+**Does a short trial prove a long-term effect?**
+No. A few weeks of results cannot show what happens over years, so treat a short trial as limited evidence.
+
+**Does one trend changing alongside another prove cause?**
+No. Holiday rentals rising while residents leave does not prove the rentals caused it. Look for evidence that links them and consider other explanations.
+
 ## Official syllabus
 
 These questions are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025).

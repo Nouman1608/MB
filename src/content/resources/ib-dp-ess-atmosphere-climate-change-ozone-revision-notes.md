@@ -28,8 +28,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, start with the [Topic 6 study guide](/resources/ib-dp-ess-atmosphere-climate-change-ozone/). These notes condense Topic 6 of IB Diploma Programme Environmental Systems and Societies, aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026. They cover syllabus sections 6.1–6.4 (the atmosphere, climate change causes and impacts, mitigation and adaptation, and stratospheric ozone), which are studied at both SL and HL; HL students study some topics in extra depth. They follow the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -205,6 +207,23 @@ Destruction:   Cl + O₃ → ClO + O₂     ClO + O → Cl + O₂
 ## Related pages
 
 See the [practice questions](/resources/ib-dp-ess-atmosphere-climate-change-ozone-practice/), the [assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/), the [Topic 1 Foundations revision notes](/resources/ib-dp-ess-topic-1-foundations-revision-notes/) for systems vocabulary and the [Topic 2 Ecology revision notes](/resources/ib-dp-ess-topic-2-ecology-revision-notes/) for carbon cycling.
+
+## Frequently asked questions
+
+**What is the difference between the natural and enhanced greenhouse effect?**
+The natural greenhouse effect, from naturally occurring greenhouse gases, keeps Earth's average surface temperature near 15 °C instead of about −18 °C. The enhanced greenhouse effect is the extra warming caused by human additions of greenhouse gases, and it is the problem.
+
+**How do you calculate CO₂-equivalent in IB ESS?**
+Multiply the mass of each gas by its global warming potential and add the results, giving CO₂ a GWP of 1. State the answer in t CO₂e; for example, 4 t of methane with a GWP of 28 is 112 t CO₂e.
+
+**Is a sea wall mitigation or adaptation?**
+A sea wall is adaptation, because it reduces harm from climate change without cutting emissions. Mitigation tackles the cause, for example renewable energy or reforestation.
+
+**Does the ozone hole cause global warming?**
+No. Ozone depletion and climate change work through different mechanisms: the ozone hole lets in more UV, while warming comes from greenhouse gases absorbing and re-emitting infrared. The link is that CFCs and HFCs are also greenhouse gases.
+
+**What counts as an ozone hole?**
+A total ozone column below 220 Dobson units counts as an ozone hole. The 2022 WMO/UNEP assessment expects the Antarctic ozone layer to return to 1980 levels around the 2060s.
 
 ## Official syllabus
 

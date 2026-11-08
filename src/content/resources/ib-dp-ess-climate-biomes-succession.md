@@ -22,8 +22,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide covers climate, biomes, zonation and succession for IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026, and covers syllabus subtopics 2.4 (Climate and biomes) and 2.5 (Zonation, succession and change in ecosystems) within Topic 2 Ecology. This is core content for both SL and HL; HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -173,6 +175,23 @@ The climax is not a fixed, single end point. It depends on climate and soil, and
 ## Where to go next
 
 Condense this into recall with the [revision notes](/resources/ib-dp-ess-climate-biomes-succession-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-ess-climate-biomes-succession-practice/). For how Paper 1 and Paper 2 are set out, read the [ESS exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/) and the [syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/).
+
+## Frequently asked questions
+
+**Why does insolation decrease towards the poles?**
+At high latitudes the Sun's rays strike at a low angle, so the same energy is spread over a larger area. Low-angle rays also pass through more atmosphere, so more energy is absorbed, scattered or reflected before reaching the surface.
+
+**What is the tricellular model in IB ESS?**
+It splits each hemisphere's atmospheric circulation into three cells: the Hadley cell (0–30°), the Ferrel cell (30–60°) and the polar cell (60–90°). Rising and sinking air in these cells explains belts of heavy rain and of desert.
+
+**What is the difference between primary and secondary succession?**
+Primary succession starts on bare ground with no soil, such as new volcanic rock. Secondary succession starts where soil already exists but the community has been removed, for example after a fire or on abandoned farmland, and it is faster.
+
+**Is the climax community a fixed end point?**
+No. The climax depends on climate and soil, and disturbance or climate change can push a community to a different state. Human activity can also hold succession at a plagioclimax.
+
+**How will climate change affect biomes?**
+As the climate warms, the conditions each biome needs move poleward and upslope. Boreal forest can spread north, while tundra and mountain-top habitats shrink.
 
 ## Official syllabus
 

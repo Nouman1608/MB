@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 order: 2
-description: "Paper-by-paper exam preparation for IB Diploma Programme Environmental Systems and Societies -- how to answer questions that combine scientific and societal strands, a worked scenario and a before/during-exam checklist."
+description: "Paper-by-paper exam preparation for IB DP Environmental Systems and Societies: answering across scientific and societal strands, a worked scenario, a checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -131,6 +131,20 @@ contributors to plastic pollution; societal factor: effectiveness depends on enf
 whether accessible alternatives exist for consumers and businesses. 4. A strong answer explicitly
 weighs both the scientific and societal dimensions of the issue before reaching a judgement; an
 incomplete answer addresses only one dimension, even if that single dimension is well argued.
+
+## Frequently asked questions
+
+**How do you answer an "evaluate" question in IB ESS?**
+Weigh both the scientific dimension, such as whether a policy reduces the measured environmental impact, and the societal dimension, such as cost, enforcement and feasibility. Finish with an explicit, reasoned judgement.
+
+**How should you prepare for IB ESS Paper 1?**
+Paper 1 is built on one previously unseen case study, so practise reading unfamiliar graphs, maps and tables quickly. Data-analysis practice matters as much as content recall.
+
+**What do the ESS command terms expect?**
+State, identify and outline need short, precise factual answers. Explain, compare and suggest need a reasoned chain of cause and effect, and evaluate, discuss and to what extent need a judgement that weighs several perspectives or pieces of evidence.
+
+**Why does precise terminology matter in IB ESS answers?**
+Terms used loosely on either side lose marks, such as calling a change "unsustainable" without naming the system or timescale, or calling a policy "effective" without saying at what. A short glossary of terms such as carrying capacity, resilience and environmental value system helps.
 
 ## Official syllabus
 

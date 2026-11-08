@@ -165,6 +165,20 @@ Keep each paragraph tied to the sources. Prior knowledge of the conflict earns n
 - [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/)
 - [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/)
 
+## Frequently asked questions
+
+**What is the difference between peacemaking, peacekeeping and peacebuilding?**
+Peacemaking means reaching an agreement between the sides, peacekeeping means holding a ceasefire in place, and peacebuilding means working on the causes of conflict over the longer term.
+
+**What criteria can you use to assess a peace action in 0457?**
+Useful criteria include effectiveness, feasibility and acceptability to all sides. Use the same criteria for every action so you can compare them directly.
+
+**What is a limitation of a treaty as a course of action?**
+A treaty binds only the states that join it, so countries outside it are not bound by its rules.
+
+**How do you turn the topic Conflict and peace into a local issue?**
+Narrow it to a specific problem people disagree about, for example how a school should deal with arguments between year groups over shared space.
+
 ## Official syllabus
 
 These notes are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm how your course uses the topics.

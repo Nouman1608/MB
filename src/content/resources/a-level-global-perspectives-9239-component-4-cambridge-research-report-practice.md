@@ -156,6 +156,23 @@ Judgement: the claim is too strong; your standpoint should shape the choice of t
 
 Check your readiness with the [free diagnostics](/diagnostics/), then compare skills across components with the [essay practice questions](/resources/a-level-global-perspectives-essay-practice/), the [team project practice questions](/resources/a-level-cambridge-global-perspectives-team-project-practice/) and the [written exam practice questions](/resources/a-level-cambridge-global-perspectives-written-exam-practice/). For one-to-one help planning your report, [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does the 9239 Cambridge Research Report practice set cover?**
+It covers Component 4 of Cambridge AS & A Level Global Perspectives & Research: choosing a question, the proposal, the research log, methods, data, referencing and judgement. The questions are original and written for practice.
+
+**What counts towards the 5000-word limit in the Research Report?**
+The title and bibliographical references are excluded from the word count. The research log is separate and must not be used for overflow from the report.
+
+**Is a question mark enough to make a good Research Report title?**
+No. A loaded question that assumes its answer, such as "Why is X harmful?", only allows one perspective. The title needs to be an open question that supports contrasting perspectives.
+
+**What is the difference between methods and methodology?**
+Methods are the ways you collect and analyse evidence. Methodology explains why those methods suit your subject, and confusing the two or defining only one is a common error.
+
+**How do you evaluate data in a Research Report question?**
+Use the actual figures in the table rather than general comments, and end extended answers with a supported judgement instead of only listing points on both sides.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Global Perspectives & Research (9239) syllabus for examination in 2026, 2027 and 2028, Version 3 (published December 2025). Component 4 – Cambridge Research Report is set out in section 4, Details of the assessment.

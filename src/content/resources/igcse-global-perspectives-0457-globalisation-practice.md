@@ -153,6 +153,20 @@ Judgement: Reyes's argument is better supported because it uses more of the evid
 - Plan your coursework with [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 - Want feedback from a teacher? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Can you use general knowledge about globalisation in these 0457 questions?**
+No. Answer from the four sources given. Answering from general knowledge about globalisation instead of the sources is a common way to lose marks.
+
+**How should you use figures from a table in 0457?**
+Quote the figures with their units and say whether they rose or fell. Copying numbers without interpreting them earns little.
+
+**Should source evaluation only point out weaknesses?**
+No. Evaluate a strength as well as a weakness, so your judgement of the source is balanced.
+
+**How do you judge which of two arguments is better?**
+Judge which argument is better reasoned and supported by evidence, not which policy you personally prefer.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). See sections 2 to 4 for the assessment objectives, component details and command words.

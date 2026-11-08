@@ -6,7 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
-description: "An overview of IB Diploma Programme Environmental Systems and Societies (ESS) -- an interdisciplinary sciences / individuals-and-societies course, and how it can count toward either or both subject groups."
+description: "Overview of IB Diploma Programme Environmental Systems and Societies (ESS): what it covers, its aims, SL and HL assessment, and how it counts in subject groups."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -142,6 +142,23 @@ still want a genuinely scientific methodology represented in their programme. Ei
 still demands the same practical, data-handling and fieldwork skills expected of any DP science --
 it is not a "lighter" alternative to Biology, Chemistry or Physics, simply a differently structured
 one.
+
+## Frequently asked questions
+
+**What is IB Environmental Systems and Societies?**
+ESS is an interdisciplinary IB Diploma Programme course that combines the sciences with individuals and societies, offered at SL and HL. It covers topics from ecosystems and biogeochemical cycles to resource management, environmental economics and ethics.
+
+**How many teaching hours is IB ESS at SL and HL?**
+ESS has 150 recommended teaching hours at SL and 240 at HL. The 50-hour experimental programme is the same at both levels, so the 90 extra HL hours are all syllabus content.
+
+**What are the HL-only lenses in IB ESS?**
+HL students study three lenses that SL students do not: environmental law (5 hours), environmental and ecological economics (7 hours) and environmental ethics (5 hours). They are applied across the core content rather than added as marked sub-topics.
+
+**How much is the ESS internal assessment worth?**
+The individual investigation is worth 25% at SL and 20% at HL. It is a written report capped at 3,000 words, taking around 10 teaching hours of work.
+
+**Is IB ESS an easier option than Biology, Chemistry or Physics?**
+It is not a lighter alternative, simply a differently structured course. ESS still demands the practical, data-handling and fieldwork skills expected of any DP science.
 
 ## Source
 

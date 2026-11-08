@@ -102,3 +102,20 @@ who oppose this change simply don't understand modern management."*
 - Treating reverse causation and a confounding variable as two separately creditable flaws, rather than as two specific patterns of the same underlying false-cause weakness.
 - Analysing a contested global issue along only one dimension (e.g. only economic) rather than naming the interconnected trade-offs across others.
 - Applying the same evaluation criteria to every source type, rather than adapting them to whether the source is data-heavy, opinion-based, or factual reporting.
+
+## Frequently asked questions
+
+**What is the format of the 9239 Component 1 Written Exam?**
+The real paper lasts 1 hour 30 minutes, is worth 45 marks and sets three questions, worth 5, 15 and 25 marks, based on two source documents. The practice questions on this page are organised by skill rather than as a full-paper simulation.
+
+**Are these Global Perspectives questions taken from past papers?**
+No. They are original exam-style questions with an original source, written for practice. Use them alongside the official Cambridge past papers.
+
+**How do you get credit for spotting a flaw in an argument?**
+Name the flaw and explain specifically how it undermines the source's inference. Naming a fallacy alone earns less credit.
+
+**What criteria should you use to evaluate evidence in Component 1?**
+Use named criteria such as provenance, methodology, currency, corroboration and sufficiency, adapted to the type of source. Saying "it's just one example" without naming the criterion is a common weakness.
+
+**Should my personal view ignore the source?**
+No. Use the source as the starting point for your reasoning. A personal view that ignores the source entirely is a frequent reason marks are lost.

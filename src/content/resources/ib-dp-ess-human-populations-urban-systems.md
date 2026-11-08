@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches Topic 8, Human populations and urban systems, for IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026, and covers syllabus sections 8.1 (human populations), 8.2 (urban systems and urban planning) and 8.3 (urban air pollution). The topic is studied at both SL and HL; the brief gives it 9 teaching hours at SL and 15 at HL, so HL students study some parts in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -219,6 +221,23 @@ Then evaluate. The fall is large, but one year's data may reflect weather. Traff
 ## Where to go next
 
 Recap with the [revision notes](/resources/ib-dp-ess-human-populations-urban-systems-revision-notes/), then try the [practice questions](/resources/ib-dp-ess-human-populations-urban-systems-practice/). The [ESS exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/) and [ESS syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/) show how this topic is assessed.
+
+## Frequently asked questions
+
+**How do you calculate the dependency ratio in IB ESS?**
+Add the people aged 0–14 and those aged 65 and over, divide by the people aged 15–64, and multiply by 100. The result is the number of dependants per 100 people of working age.
+
+**What is population momentum?**
+Population momentum is continued growth after fertility falls to replacement level. It happens because a young population has many people about to reach child-bearing age.
+
+**What are the limitations of the demographic transition model?**
+The model is based on the history of European countries and assumes birth rates will follow death rates down. It also ignores migration and gives no timescale for each stage.
+
+**Why is a city described as an open system?**
+A city exchanges both energy and matter with its surroundings. Inputs include food, water, energy and materials, and outputs include waste, sewage, air pollutants and waste heat.
+
+**Why does ozone peak later in the day than nitrogen dioxide in a city?**
+Traffic emits nitrogen oxides during the morning rush hour, so NO₂ peaks early. Ozone forms when sunlight splits NO₂, so it peaks in the afternoon when sunlight is strongest.
 
 ## Official syllabus
 

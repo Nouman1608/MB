@@ -163,6 +163,20 @@ Weighing up: states criteria such as effectiveness, fairness and cost [1]. Sees 
 - Check your strengths and gaps with a [diagnostic](/diagnostics/).
 - Want help from a teacher? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What topic do these IGCSE Global Perspectives practice questions use?**
+They use Health and wellbeing from the 0457 topic list as a context for source-based skills. The sources and questions are original and written for practice.
+
+**Why does self-reported survey data weaken health evidence?**
+People's reports of their own behaviour are often inaccurate, and without a comparison group you cannot tell whether a change would have happened anyway. Look for both weaknesses.
+
+**Is a personal story good evidence of a health trend?**
+No. A single second-hand story is testimony, not evidence of a pattern. Treating it as proof of a trend is a common mistake.
+
+**What does a Team Project need to measure success?**
+It needs "before" data to compare with results after the action. Planning an action with nothing to measure against makes success impossible to show.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), published by Cambridge International. The topic list is in section 3, the assessment objectives in section 2, and the components and command words in section 4.

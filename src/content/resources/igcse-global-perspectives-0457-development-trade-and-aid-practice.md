@@ -173,6 +173,20 @@ Judgement, for example: Action 3 is most effective in the long term because it b
 
 Check your answers, then try a timed source question from your school's past papers. Find gaps with the [diagnostics](/diagnostics/), or [Book a free trial class](/trial/) with a Global Perspectives teacher.
 
+## Frequently asked questions
+
+**Does knowledge about aid and trade earn marks in 0457 Component 1?**
+No. Knowledge that is not in the sources earns nothing in the Written Exam, so base every point on the source material.
+
+**Does a difference between two groups prove cause?**
+No. A difference, such as certified farmers earning more, may have other explanations. Check whether the groups were alike in other ways before claiming one thing caused another.
+
+**How should you use numbers from a table in 0457?**
+Work out what the figures show, such as a change or a comparison, rather than copying them out. Then link the result to the claim being tested.
+
+**What makes a good suggestion for improving research?**
+The improvement should fix the specific weaknesses you identified, for example a larger sample or a fair comparison group. Generic suggestions that do not address those weaknesses earn little.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025).

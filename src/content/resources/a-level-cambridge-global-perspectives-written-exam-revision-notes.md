@@ -155,3 +155,20 @@ Cambridge Research Report (85 marks, A Level only), has its own pages:
 4. What's wrong with "cases rose from 2 to 4, a 100% increase"?
 
 **Answers:** 1. Deconstruction, reconstruction, reflection, and communication and collaboration; only deconstruction, reconstruction and communication apply to Component 1 — its own mapping table excludes reflection and collaboration. 2. Provenance, methodology, currency, corroboration, sufficiency. 3. Because explaining *why* a perspective is held (its economic, political, cultural or other context) demonstrates deeper understanding than simply restating what the perspective claims. 4. The percentage is technically correct but the underlying sample (2 to 4 cases) is too small to be meaningful — a genuine example of a low-sufficiency statistic.
+
+## Frequently asked questions
+
+**What is the Critical Path in Cambridge Global Perspectives 9239?**
+The Critical Path is the syllabus's model of four linked stages: deconstruction, reconstruction, reflection, and communication and collaboration. Component 1 applies deconstruction, reconstruction and communication, but not reflection or collaboration.
+
+**Do you need content knowledge for the 9239 Written Exam?**
+Content knowledge is not credited for its own sake. Marks come from the quality of reasoning applied to the unseen sources given on the day.
+
+**Are reverse causation and a confounding variable two separate flaws?**
+No. In a correlation argument they are both specific patterns of false cause, so identifying either counts as the same flaw. Raise a genuinely different weakness, such as sufficiency, as a second point.
+
+**How do you score higher when writing about perspectives?**
+Explain why a perspective is held, by naming its economic, political, cultural, generational or geographic context. Describing only what it says scores lower.
+
+**Is it a weakness to admit the limits of my own argument?**
+No. Acknowledging the limits of your position is rewarded, as a sign of critical awareness, provided the argument stays consistent and counter-arguments are weighed on their merits.

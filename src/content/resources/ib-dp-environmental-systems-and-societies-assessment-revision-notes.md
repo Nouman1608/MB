@@ -88,6 +88,20 @@ Like Biology, Chemistry and Physics, ESS does include a collaborative sciences p
 
 **Answers:** 1. As a sciences subject, an individuals-and-societies subject, or both (freeing an extra subject choice if counted as both). 2. Data on one previously unseen case study; 1 hour at SL and 2 hours at HL. 3. 3,000 words. 4. 80% external (written papers), 20% internal assessment. 5. Any two of: formulating a focused research question, justifying and applying an appropriate methodology, processing and presenting data, evaluating conclusions with feasible improvements. 6. Because ESS is designed to be defensible as either a science or an individuals-and-societies subject, and its own stated aim is to examine issues through the combined lens of natural science and human society.
 
+## Frequently asked questions
+
+**How long is IB ESS Paper 1 at SL and HL?**
+Paper 1 lasts 1 hour and is worth 25% at SL, and lasts 2 hours and is worth 30% at HL. It gives data in a variety of forms on one previously unseen case study, and all questions are compulsory.
+
+**What is in IB ESS Paper 2?**
+Section A has short-answer and data-based questions and Section B has structured essays with a limited choice. It lasts 2 hours at SL and 2 hours 30 minutes at HL, and is worth 50% at both levels.
+
+**What is the word limit for the ESS internal assessment?**
+The individual investigation is a written report of up to 3,000 words, taking around 10 teaching hours. Choosing a research question too broad for the data you can gather is a common trap.
+
+**Does the ESS individual investigation have to be fieldwork?**
+No. It is an open-ended investigation in which you formulate your own research question, gather and analyse data and draw evidence-based conclusions. Fieldwork is a common route, but the 2026 subject brief does not limit the task to it.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Subject

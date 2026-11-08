@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, start with the [Human populations and urban systems study guide](/resources/ib-dp-ess-human-populations-urban-systems/). These notes are for fast recall in the final weeks.
@@ -194,6 +196,23 @@ A city is an **open system** that relies on land far beyond its boundary, so its
 - One-sided evaluation: benefits only, with no cost, enforcement issue or stakeholder view.
 - Treating urbanisation and urban growth as the same thing.
 - Ending a "to what extent" answer without a clear judgement.
+
+## Frequently asked questions
+
+**How do you calculate doubling time in IB ESS?**
+Divide 70 by the natural increase rate as a percentage, so a population growing at 1.5% doubles in about 47 years. State the assumptions of a constant growth rate and no migration.
+
+**Why is replacement fertility 2.1 rather than 2.0?**
+Some children die before they reach child-bearing age, so slightly more than two births per woman are needed to replace the parents.
+
+**Is ground-level ozone a primary or a secondary pollutant?**
+Ground-level ozone is a secondary pollutant. It forms in the air when sunlight splits NO₂ and the free oxygen atom joins an oxygen molecule.
+
+**What is the difference between urbanisation and urban growth?**
+Urbanisation is a rising share of a population living in towns and cities. Urban growth is a rise in the number of people living there, and the two are not the same.
+
+**What is the difference between the Malthusian and Boserup views of population?**
+The Malthusian view holds that population is limited by resources such as food. Boserup argued that population pressure drives innovation that raises food production.
 
 ## Official syllabus
 

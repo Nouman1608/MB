@@ -176,6 +176,23 @@ You submit three items: the report, the research log, and the research proposal 
 
 Next, see the components that build these skills at AS: the [essay study guide](/resources/a-level-cambridge-global-perspectives-essay/) and [essay revision notes](/resources/a-level-global-perspectives-essay-revision-notes/) for single-question argument, the [team project guide](/resources/a-level-cambridge-global-perspectives-team-project/) for research and reflection, and the [written exam guide](/resources/a-level-cambridge-global-perspectives-written-exam/) for evaluating evidence.
 
+## Frequently asked questions
+
+**What makes a good research question for the 9239 Cambridge Research Report?**
+It should be a single open question on a topic that engages you and leads straight into a debate between perspectives. Your teacher must check its scope is not too large or too complex.
+
+**What is a perspective in Cambridge Global Perspectives & Research?**
+The syllabus defines a perspective as a coherent world view that is a response to an issue, made up of argument, evidence and assumptions. In the report, group sources into perspectives rather than describing them one by one.
+
+**What research methods can you use in the Research Report?**
+The syllabus lists reviewing the secondary literature, close analysis of texts, qualitative methods such as interviews and focus groups, analysis of statistical data, quantitative methods such as surveys, or a mixture of these. Explain why your chosen methods suit the question.
+
+**Does the research log count towards the 5000-word limit?**
+No. The log is a separate document worth 10 marks and is not counted in the 5000 words, but it must not be used as a way to extend the word limit.
+
+**Which referencing system should the Research Report use?**
+Many reports use Harvard, Chicago or APA. Whichever system you choose, use it consistently and include a bibliography with full references for any quotations.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Global Perspectives & Research (9239) syllabus for examination in 2026, 2027 and 2028, Version 3 (published December 2025). Component 4 – Cambridge Research Report is set out in section 4, Details of the assessment.

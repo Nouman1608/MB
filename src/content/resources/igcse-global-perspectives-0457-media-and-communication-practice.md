@@ -157,6 +157,20 @@ Using all the sources, assess which action would be most effective in keeping Ar
 
 Try the general [Global Perspectives practice](/resources/global-perspectives-practice/), [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/). Find your weaker skills with our [diagnostics](/diagnostics/), or [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are the places and figures in these 0457 media questions real?**
+No. All places, people, organisations and figures in the sources are fictional, and the questions are original practice for IGCSE Global Perspectives 0457.
+
+**Why does the way a survey was done matter?**
+The method affects who answered. An online-only sample, for example, may leave out people who do not use the internet, so its results may not represent everyone.
+
+**What is a common percentage mistake in source questions?**
+Mixing up the percentage of one group with the percentage of all respondents. Check what each figure is a percentage of before comparing.
+
+**How do you get marks for spotting persuasive language?**
+Quote the language and explain its effect on the reader. Spotting it without explaining the effect earns little.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Topic list: section 3; assessment objectives: section 2; Component 1, 2 and 3 details and command words: section 4.

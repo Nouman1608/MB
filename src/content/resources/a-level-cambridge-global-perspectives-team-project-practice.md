@@ -97,6 +97,20 @@ Related: [The Team Project revision notes](/resources/a-level-cambridge-global-p
 
 **8.** This strategy risks under-preparing for where the greater share of the presentation's marks actually sit. AO1 (research, analysis and evaluation) covers four separately assessed elements — individual analysis of the problem, range of research undertaken, evaluation of sources, and justification of the candidate's own proposed solution — against AO3's (communication) three elements, so spending disproportionate preparation time on polish and delivery rather than on genuinely researching and evaluating a range of sources risks leaving the larger mark allocation under-addressed. This does not mean communication is unimportant — a poorly delivered presentation of strong research will still lose AO3 marks — but a candidate under time pressure should prioritise research depth over presentation polish, since research-related criteria carry more of the available marks. **[6]** (Marks for correctly identifying the AO1/AO3 balance and explaining a genuine, reasoned implication for time allocation, not simply asserting research matters more.)
 
+## Frequently asked questions
+
+**Are these 9239 Team Project questions about content or format?**
+They test understanding of Component 3's structure, rules and requirements. They do not provide a template problem statement or presentation content, because each team must develop its own.
+
+**What is the Team Project in Cambridge AS & A Level Global Perspectives?**
+It is Component 3, one of the three compulsory AS components of 9239. Teams research a local problem with global relevance together, but each candidate is assessed individually.
+
+**What makes a good Team Project problem statement?**
+It should be broad enough for each team member to research a distinct, contrasting perspective, but specific enough to name a real place, group or situation. A single word such as "poverty" is too vague.
+
+**Should I spend most of my Team Project time on presentation polish?**
+No. The presentation is marked on both research and analysis (AO1) and communication (AO3), so research, analysis and evaluation deserve priority over slides and rehearsed delivery.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Global Perspectives & Research (9239) syllabus for examination in 2026, 2027 and 2028 (Version 3, published December 2025), section 4 ("Details of the assessment — Component 3 — Team Project") — the same syllabus cited by the [Team Project study guide](/resources/a-level-cambridge-global-perspectives-team-project/) and its [revision notes](/resources/a-level-cambridge-global-perspectives-team-project-revision-notes/). Verified 2026-09-02.

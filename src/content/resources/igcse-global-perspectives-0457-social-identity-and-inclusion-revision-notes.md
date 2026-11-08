@@ -155,6 +155,20 @@ The plan shows the method. Your own conclusion should follow from the evidence y
 - Choosing a national rather than a local issue for the Team Project.
 - Stating a verdict on a contested question without reasoned support.
 
+## Frequently asked questions
+
+**What is the difference between a reliable and a credible source?**
+A reliable source gives consistent, accurate information. A credible source has expertise and a reason to be trusted, so check both.
+
+**What is the difference between integration and multiculturalism?**
+They are two contested approaches to diverse societies. Explain each fairly before weighing them, rather than assuming one is correct.
+
+**Is a target such as an SDG evidence that something has happened?**
+No. A target or prediction shows an aim, not an outcome. Treating it as evidence that change has already happened is a common mistake.
+
+**How can a cause and consequence chain suggest a course of action?**
+Fixing the first link in a chain may break it. For example, if no ramp at a youth club stops wheelchair users entering, installing a ramp tackles the cause.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Your teacher will confirm which topics your class studies.

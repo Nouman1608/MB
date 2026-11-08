@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-foundation"
-description: "Perspectives, systems and sustainability -- IB Diploma Programme ESS Topic 1, the foundation unit the specification explicitly revisits throughout the course, first assessment 2026."
+description: "IB DP Environmental Systems and Societies Topic 1 Foundations: perspectives, systems and sustainability, the unit revisited throughout the course from 2026."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 — Foundations**, for IB Diploma Programme
@@ -147,6 +149,20 @@ current rate of consumption relative to natural income.
   sustainability) to unfamiliar content from later topics.
 - Treat Topic 1 as a recurring toolkit to apply throughout the course,
   not a topic revised once and set aside.
+
+## Frequently asked questions
+
+**What is an environmental value system?**
+An environmental value system is a particular world view or paradigm that shapes how an individual or group perceives and evaluates environmental issues. It is influenced by cultural, religious, economic and socio-political context.
+
+**What are the three EVS categories in IB ESS?**
+They are ecocentrism, which values nature for its own sake; anthropocentrism, which manages the environment for human benefit; and technocentrism, which trusts technology and human ingenuity to solve environmental problems.
+
+**What is the difference between natural capital and natural income?**
+Natural capital is the stock of natural resources that provide goods and services of value. Natural income is the sustainable yield that can be taken from that stock without depleting it.
+
+**Why is Topic 1 important for the rest of IB ESS?**
+Its concepts of perspectives, systems and sustainability are revisited throughout the course. Any later question can ask you to identify an EVS, model a process as a system or judge whether resource use stays within natural income.
 
 ## Official syllabus
 

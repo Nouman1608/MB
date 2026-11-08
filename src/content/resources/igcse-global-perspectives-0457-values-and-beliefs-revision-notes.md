@@ -151,6 +151,20 @@ You do not need these for Component 1. They are useful in coursework, but only i
 - In coursework, citing human rights documents without evaluating them as sources.
 - In the Team Project, choosing an action that cannot be measured.
 
+## Frequently asked questions
+
+**Why is AO2 Reflection the hardest test in Values and beliefs?**
+You must write fairly and with empathy about beliefs you do not share, considering different perspectives objectively.
+
+**What is the difference between tolerance and agreement?**
+You can tolerate a belief, accepting that others live by it, without agreeing with it.
+
+**What is the difference between a fact and a value judgement?**
+"Shops close on the rest day" is a fact that can be checked. "Shops should close on the rest day" is a value judgement about what is right.
+
+**Do all members of a faith share the same view?**
+No. Treating every member of a faith, or of an age group, as holding the same view is a common mistake. Show the range of views within a group.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Section 2 sets out the assessment objectives, section 3 lists the topics and section 4 describes each component. Your teacher will confirm which topics your class studies.

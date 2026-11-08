@@ -178,6 +178,20 @@ Revise with the [study guide](/resources/igcse-global-perspectives-0457-conflict
 - Find your weakest skill with a free [diagnostic](/diagnostics/).
 - Want help from a teacher? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should you use knowledge of real conflicts in 0457 source questions?**
+No. Work from the details in the sources rather than background knowledge of real conflicts, which is not credited in Component 1.
+
+**What is the difference between a relative rise and a percentage-point change?**
+A rise from 40% to 50% is 10 percentage points but a 25% relative increase. Check which one a source's percentage claim means before accepting it.
+
+**Is a prediction in a source evidence?**
+No. A prediction such as "they will take up arms again" is a claim about the future, not evidence of what has happened. Treat it with caution.
+
+**How should a Team Project measure success on a conflict issue?**
+Measure change in the issue itself, for example reported incidents or a before-and-after questionnaire. Feedback on whether people enjoyed the activity does not show the problem has improved.
+
 ## Official syllabus
 
 These questions are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm the format of your own assessments.

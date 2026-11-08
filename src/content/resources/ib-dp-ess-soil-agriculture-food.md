@@ -22,8 +22,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the soil, agriculture and food unit of IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, and covers syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land. Topic 5 is studied at both SL and HL: the brief recommends 8 teaching hours at SL and 15 at HL, and HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -196,6 +198,23 @@ These choices reflect environmental value systems. A technocentric view favours 
 ## Where to go next
 
 Next, use the [revision notes](/resources/ib-dp-ess-soil-agriculture-food-revision-notes/) and the [practice questions](/resources/ib-dp-ess-soil-agriculture-food-practice/). For how Paper 1 case studies and Paper 2 essays are set up, read the [ESS exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/). The [syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/) sets out the structure of the whole course.
+
+## Frequently asked questions
+
+**What are the horizons in a soil profile?**
+Most profiles show an O horizon of leaf litter, an A horizon of humus-rich topsoil, a B horizon of subsoil where leached minerals often collect, and a C horizon of weathered parent material. Bedrock lies beneath.
+
+**What are the main forms of soil degradation in IB ESS?**
+They include erosion by water and wind, salinization, nutrient depletion, compaction, contamination and acidification, and desertification in drylands.
+
+**How do soil conservation methods work?**
+They slow water or wind, keep the soil surface covered, or maintain organic matter and fertility. To evaluate one, weigh its benefit against cost, labour, yield effects and local suitability.
+
+**Why do plant-rich diets need less land?**
+Only around 10% of energy passes from one trophic level to the next, so eating crops directly feeds about ten times as many people from the same land as feeding them to livestock. Treat the 10% figure as an approximation.
+
+**What is food security?**
+Food security exists when all people, at all times, have access to enough safe and nutritious food for an active and healthy life.
 
 ## Official syllabus
 

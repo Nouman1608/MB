@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, read the [study guide](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability/) first.
@@ -180,6 +182,23 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-ess-foun
 ## Where to go next
 
 Work through the [practice questions](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-practice/), then check your exam technique with the [exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/). The [subject guide](/resources/ib-dp-environmental-systems-and-societies-subject-guide/) explains how the course fits together, and the [Topic 2 Ecology revision notes](/resources/ib-dp-ess-topic-2-ecology-revision-notes/) come next.
+
+## Frequently asked questions
+
+**What is the difference between a transfer and a transformation in IB ESS?**
+A transfer moves matter or energy without changing its form or state, such as water flowing downstream. A transformation changes form or state, so evaporation, condensation and photosynthesis are transformations.
+
+**What is the difference between steady-state and static equilibrium?**
+In steady-state equilibrium, inputs and outputs continue but the system stays roughly constant, which is typical of living systems. In static equilibrium, nothing changes over time.
+
+**What is the difference between natural capital and natural income?**
+Natural capital is the stock of natural resources, such as a forest or fish stock. Natural income is the yield that can be taken from it each year without reducing the stock.
+
+**What is the difference between planetary boundaries and doughnut economics?**
+The planetary boundaries model sets environmental limits only. Doughnut economics adds a social foundation of basic human needs, such as food, water, health and education, inside those limits.
+
+**How many teaching hours is the IB ESS foundation unit?**
+The subject brief gives the foundation unit 16 recommended hours at both SL and HL: 3 for Perspectives, 5 for Systems and 8 for Sustainability.
 
 ## Official syllabus
 

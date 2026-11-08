@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches Topic 3, Biodiversity and conservation, of IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, and covers syllabus sections 3.1 (biodiversity and evolution), 3.2 (human impact on biodiversity) and 3.3 (conservation and regeneration). The topic is studied at both SL and HL: the brief gives it 13 teaching hours at SL and 26 at HL, so HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -231,6 +233,23 @@ The single reserve has more than twice the core area for the same land. Several 
 - Listing causes of loss without explaining the mechanism for a named species or ecosystem.
 - Saying "several small reserves are always worse". Give both sides, then judge.
 - Defining keystone species as "the most common species" or "the top predator". It is about the size of the effect, not numbers or trophic level.
+
+## Frequently asked questions
+
+**What are the three levels of biodiversity in IB ESS?**
+Biodiversity is studied at three levels: genetic diversity, species diversity and habitat (ecosystem) diversity. The levels are linked, because more habitats usually means more species.
+
+**What does Simpson's reciprocal index measure?**
+It combines species richness and evenness in one number, D = N(N − 1) / Σn(n − 1). A higher D means higher diversity, but only compare sites sampled by the same method at the same time of year.
+
+**What is the difference between geographical and reproductive isolation?**
+Geographical isolation separates populations with a physical barrier such as a sea, mountain range or river. Reproductive isolation happens when populations in the same area stop interbreeding, for example because they breed at different times.
+
+**What does the IUCN Red List use to judge how threatened a species is?**
+It considers population size and rate of decline, the size and fragmentation of the geographical range, the number of mature individuals and the estimated probability of extinction in the wild. A steep decline or tiny range moves a species into a higher-threat category.
+
+**What is the difference between regeneration and rewilding?**
+Regeneration actively restores a degraded ecosystem towards a more natural state, for example by replanting native species. Rewilding aims to restore natural processes so the ecosystem regulates itself with less ongoing human management.
 
 ## Official syllabus
 

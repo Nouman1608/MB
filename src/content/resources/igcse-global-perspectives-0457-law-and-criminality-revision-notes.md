@@ -145,6 +145,20 @@ The real exam marks extended answers using levels of response, so the quality of
 - Using stereotypes about groups instead of evidence.
 - In coursework, choosing a national law change as a Team Project action that cannot be carried out or measured locally.
 
+## Frequently asked questions
+
+**What is the difference between crime and fear of crime?**
+A survey of how safe people feel is evidence about fear of crime, not a count of offences. A rise in fear does not prove crime has risen.
+
+**What is the difference between deterrence, rehabilitation and retribution?**
+Deterrence aims to stop offending through fear of punishment, rehabilitation helps offenders change so they do not reoffend, and retribution treats punishment as a deserved response. Different aims lead to different judgements about actions.
+
+**Does crime falling after a policy prove the policy worked?**
+No. Something else may have caused the fall, so look for a comparison group before claiming the policy was the cause.
+
+**How are extended 0457 answers marked?**
+The real exam marks extended answers using levels of response, so the quality of the comparison and the judgement matters more than the number of points.
+
 ## Official syllabus
 
 These notes are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm deadlines and how your school uses this topic. For more on each component, see the [Written Exam study guide](/resources/igcse-cambridge-global-perspectives-written-exam/), [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/) and [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/).

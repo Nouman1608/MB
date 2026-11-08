@@ -138,6 +138,20 @@ You do not need to learn these. They are here so you can evaluate them if they a
 - In the Individual Report, giving only global perspectives and no local or national one.
 - In the Team Project, choosing an action with no plan for measuring success.
 
+## Frequently asked questions
+
+**What is the difference between poverty and inequality?**
+Poverty is about having too little. Inequality is about the gap between people or groups, so a country can reduce poverty while inequality rises.
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty means not having enough to meet basic needs, while relative poverty means having much less than most people in your own society. Two sources can disagree only because they use different measures.
+
+**What is the difference between the mean and the median income?**
+A few very rich people raise the mean but barely move the median, so the median often gives a fairer picture of a typical income.
+
+**Does a food bank tackle the cause of poverty?**
+No. A food bank relieves hunger in the short term, but it does not remove long-term causes such as low wages. Separate short-term relief from long-term causes when assessing actions.
+
 ## Official syllabus
 
 These notes follow the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Also see the [Global Perspectives revision notes](/resources/global-perspectives-revision-notes/) and the [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/).

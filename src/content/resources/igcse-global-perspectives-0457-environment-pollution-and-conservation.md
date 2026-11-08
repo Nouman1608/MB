@@ -183,6 +183,23 @@ Choose an action you can actually carry out and measure: a count before and afte
 - The related topic [Climate change, energy and resources](/resources/igcse-global-perspectives-0457-climate-change-energy-and-resources/)
 - This unit's [revision notes](/resources/igcse-global-perspectives-0457-environment-pollution-and-conservation-revision-notes/) and [practice questions](/resources/igcse-global-perspectives-0457-environment-pollution-and-conservation-practice/)
 
+## Frequently asked questions
+
+**What is the difference between a topic and an issue in this 0457 topic?**
+"Pollution" is a topic, while an issue is a question people disagree about, such as whether polluting factories should be closed if the jobs they provide would be lost. "What is pollution?" is not an issue.
+
+**What real examples show environmental issues at different levels?**
+The Montreal Protocol (1987) shows a global problem tackled by global action, and Minamata in Japan shows a local mercury poisoning disaster that later gave its name to a global agreement. CITES (1973) controls international trade in endangered species.
+
+**What types of action can address pollution and conservation issues?**
+Actions include international agreements, national laws and limits, market tools such as taxes and deposit-return schemes, local and community action, and individual choices. Judge each against criteria such as effectiveness.
+
+**What are good Team Project ideas on the environment?**
+Local issues could include too much school waste going to landfill, noise or light pollution affecting a green space, or loss of habitat on school grounds. Choose an action you can carry out and measure, such as with a before-and-after count.
+
+**Why is "environment versus jobs" not enough for perspectives?**
+There are usually more than two perspectives, and different perspectives can exist within one group, such as two fishers who see an issue differently.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm which topics your class studies and how your coursework is scheduled.

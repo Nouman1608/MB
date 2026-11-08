@@ -152,6 +152,20 @@ Keep every point tied to the sources. A sentence such as "the source shows that 
 - [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/)
 - [Team Project study guide](/resources/igcse-cambridge-global-perspectives-team-project/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/)
 
+## Frequently asked questions
+
+**What is the digital divide?**
+The digital divide is the gap in access to digital technology and in the skills to use it. Digital inclusion means making sure everyone can access and use digital services.
+
+**What is the difference between activity and impact in the Team Project?**
+Activity is what you did, such as "we handed out 100 leaflets". Impact is the change the action produced, which is what measuring success should show.
+
+**What is the difference between reliability and relevance?**
+A reliable source can still be irrelevant to your question. Check both whether a source can be trusted and whether it actually addresses the issue.
+
+**How do you turn "Social media" into a 0457 issue?**
+"Social media" is a topic. Turn it into a question that divides opinion, such as "Should governments set a minimum age for social media accounts?"
+
 ## Official syllabus
 
 These notes are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm how your school uses the Digital world topic.

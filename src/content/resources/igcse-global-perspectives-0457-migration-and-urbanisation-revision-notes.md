@@ -174,6 +174,20 @@ Always ask: **who gains, who loses, and at which level?**
 - [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/) and [Global Perspectives practice](/resources/global-perspectives-practice/).
 - [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/) and [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between opinion data and causal evidence?**
+A survey shows what people believe, not why something happened. Treating opinion data such as "72% think..." as proof of a cause is a common mistake.
+
+**What is the difference between a cause and a consequence of migration?**
+Drought is a cause of migration, while crowded housing in a city is a consequence. Write cause and consequence chains rather than lists.
+
+**What is the difference between an action and an aim?**
+"Reduce overcrowding" is an aim. An action is a specific step, such as fitting water points and drains in an informal settlement.
+
+**Are there only two sides on migration in 0457 sources?**
+No. Sources usually show several groups with different perspectives, so offering only "for" and "against" migration misses the range.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), published by Cambridge University Press & Assessment.

@@ -205,6 +205,20 @@ Questions 8 and 9 are extended responses: the real exam marks these with levels 
 
 Check your answers against the [study guide](/resources/igcse-global-perspectives-0457-values-and-beliefs/), then try more source questions in [Written Exam practice](/resources/global-perspectives-practice/) and planning tasks in [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/). Find your weak skills with our [diagnostics](/diagnostics/). [Book a free trial class](/trial/) to work through extended answers with a teacher.
 
+## Frequently asked questions
+
+**Should you explain what religions teach in 0457 Values and beliefs answers?**
+No. Analyse the sources rather than explaining religious teachings, because knowledge of content is not assessed in IGCSE Global Perspectives 0457.
+
+**Is a source biased because of the writer's faith?**
+Not on that basis alone. Show what the source leaves out or how it presents material one-sidedly, rather than calling it biased because of who wrote it.
+
+**Is a slippery-slope prediction evidence?**
+No. A prediction that one change will lead to a chain of worse outcomes is a claim about the future, not evidence. Treat it as a weakness in reasoning unless it is supported.
+
+**What do you judge in a values argument question?**
+Judge which argument is better supported by evidence and reasoning, not which belief is right.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Section 4 describes the Written Exam, Individual Report and Team Project. Your teacher will confirm which topics your class uses.

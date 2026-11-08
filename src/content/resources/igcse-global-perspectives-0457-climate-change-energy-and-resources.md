@@ -155,6 +155,23 @@ Possible actions: a switch-off campaign with a before-and-after audit, a leaflet
 - A related topic: [Environment, pollution and conservation study guide](/resources/igcse-global-perspectives-0457-environment-pollution-and-conservation/)
 - This topic: [revision notes](/resources/igcse-global-perspectives-0457-climate-change-energy-and-resources-revision-notes/) and [practice questions](/resources/igcse-global-perspectives-0457-climate-change-energy-and-resources-practice/)
 
+## Frequently asked questions
+
+**What is energy security?**
+Energy security is a country's ability to get reliable, affordable energy without depending too much on others. It is one of the national issues within the climate change, energy and resources topic.
+
+**What is common but differentiated responsibilities?**
+It is a principle in the UN Framework Convention on Climate Change (1992) that many developing countries point to. They argue that countries which industrialised first, and emitted more, should do more and pay more.
+
+**How do you analyse causes and consequences in this topic?**
+Show links in a chain, such as rising electricity demand leading to more fossil fuel burned and more carbon dioxide released. Also show that the same cause can have different consequences for different people.
+
+**What criteria can you use to judge a climate or energy course of action?**
+Use effectiveness, feasibility, fairness and sustainability: whether it reduces the problem, what it costs and who must agree, who gains and loses, and whether it lasts without creating a new problem.
+
+**Why is energy a good topic for the 0457 Team Project?**
+Results can be measured, for example through a switch-off campaign with a before-and-after energy audit. The project must start from a local issue the team can act on.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Topic list in section 3; assessment objectives in section 2; component details and command words in section 4.

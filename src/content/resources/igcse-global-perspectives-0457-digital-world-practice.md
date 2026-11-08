@@ -172,6 +172,20 @@ Comparison: the hub helps most people soonest, the classes last longest, and the
 - Plan coursework with the [Individual Report study guide](/resources/igcse-cambridge-global-perspectives-individual-report/) and the [Team Project practice questions](/resources/igcse-global-perspectives-team-project-practice/).
 - Want help from a teacher? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are the Digital world practice sources real?**
+Places, people and figures in the sources are fictional unless a real organisation is named. The questions are original practice for IGCSE Global Perspectives 0457.
+
+**Does a link between screen time and sleep prove cause?**
+No. A correlation does not show that one thing causes the other, because another factor could affect both. Treating a link as proof is a common mistake.
+
+**How do you evaluate two arguments in a 0457 source?**
+Weigh the evidence and reasoning on both sides, then judge which argument is better supported. Giving your own view on the issue instead of judging the arguments loses marks.
+
+**What makes a strong Team Project action on a digital issue?**
+It must be local, feasible for the team to carry out and have a way to measure success. A national law, for example, is not something a team can do.
+
 ## Official syllabus
 
 These questions are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm how your school uses the Digital world topic.

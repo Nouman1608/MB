@@ -155,6 +155,20 @@ See the [Team Project revision notes](/resources/igcse-global-perspectives-team-
 - Reflective Papers that describe what happened without saying what you learned and how you could improve.
 - Using statistics from a source without checking sample size, date or who collected them.
 
+## Frequently asked questions
+
+**What is the difference between a course of action and an aim?**
+"Reduce plastic in the sea" is an aim. A course of action is a specific step towards it, such as a deposit-return scheme.
+
+**Do all environmentalists share one perspective?**
+No. Treating every group as having one view is a common mistake. Show the different perspectives that can exist within a group.
+
+**What unintended consequences should you consider in pollution answers?**
+Consider effects such as job losses when a polluting plant closes. Ignoring unintended consequences weakens the assessment of an action.
+
+**What should you check about statistics in an environment source?**
+Check the sample size, the date and who collected the data before using the figures as evidence.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm which topics and issues your class will use.

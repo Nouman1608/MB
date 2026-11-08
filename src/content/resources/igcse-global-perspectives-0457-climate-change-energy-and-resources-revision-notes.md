@@ -158,6 +158,23 @@ For the coursework rules, see the [Individual Report revision notes](/resources/
 - In the Team Project, choosing "awareness" actions with no way to measure success.
 - In the Reflective Paper, describing what happened instead of reflecting on what you learned and how you could improve.
 
+## Frequently asked questions
+
+**What is the difference between mitigation and adaptation?**
+Mitigation reduces the causes of climate change, such as cutting emissions. Adaptation helps people cope with its effects, such as flood defences.
+
+**Is knowledge of climate change assessed in IGCSE Global Perspectives 0457?**
+No. The syllabus says knowledge of content is not assessed; the topic is a context for building skills. Real examples help with research but do not earn marks on their own.
+
+**Why is "Climate change" a poor Individual Report title?**
+It is a topic, not a question. It does not name an issue that divides opinion or set up different perspectives to research.
+
+**What is a limitation of using IPCC projections as evidence?**
+IPCC projections are ranges that depend on future emissions, so no single figure is certain. Presenting one projection as a definite outcome overstates the evidence.
+
+**What command words does the 0457 syllabus use?**
+Command words printed in the syllabus are analyse, describe, evaluate, explain, identify and suggest. Component 1 is 100% AO1, research, analysis and evaluation.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Topic list in section 3; assessment objectives and weightings in section 2; components and command words in section 4.

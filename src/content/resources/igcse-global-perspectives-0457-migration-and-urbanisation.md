@@ -177,6 +177,23 @@ Keep the action realistic and safe. Use the [Team Project guide](/resources/igcs
 - Related topics: [Globalisation](/resources/igcse-global-perspectives-0457-globalisation/), [Poverty and inequality](/resources/igcse-global-perspectives-0457-poverty-and-inequality/) and [Change in culture and communities](/resources/igcse-global-perspectives-0457-change-in-culture-and-communities/).
 - Plan coursework with the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 
+## Frequently asked questions
+
+**What are push and pull factors?**
+Push factors are reasons that drive people away from a place, and pull factors are reasons that attract them to another. Drought reducing harvests is an example of a push factor.
+
+**What is urbanisation?**
+Urbanisation is a rising share of a population living in towns and cities. The UN's World Urbanization Prospects: The 2018 Revision estimated that 55% of the world's population lived in urban areas in 2018 and projected 68% by 2050.
+
+**What is brain drain?**
+Brain drain is the loss of skilled workers from a place when they emigrate. Whether countries should recruit health workers from countries with shortages is an issue that divides opinion.
+
+**How do you analyse loaded language about migrants?**
+Words such as "flood", "wave" or "swarm" for people, or "hard-working heroes" for every migrant, are loaded. Quote the word and explain the impression it creates, rather than simply saying the source is biased.
+
+**What are Team Project ideas on migration and urbanisation?**
+Local issues could include newly arrived families not knowing which services they can use, students joining mid-year feeling isolated, which a buddy scheme could address, or a lack of safe green space as housing grows.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), published by Cambridge University Press & Assessment.

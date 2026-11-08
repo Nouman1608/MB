@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the foundation unit of IB Diploma Programme Environmental Systems and Societies (ESS), aligned to the International Baccalaureate Organization *Diploma Programme Subject Brief, Environmental systems and societies*, first assessment 2026. It covers syllabus sections 1.1 Perspectives, 1.2 Systems and 1.3 Sustainability. The foundation unit is the starting point for both SL and HL, so everything here applies to both levels. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -225,6 +227,23 @@ An EIA is carried out before a major development is approved. The usual stages: 
 ## Next steps
 
 Test yourself with the [practice questions](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-practice/), then use the [revision notes](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-revision-notes/) in the final weeks. For the exam papers, read the [exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/) and the [syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/). Topic 2 follows in the [Ecology study guide](/resources/ib-dp-ess-topic-2-ecology/).
+
+## Frequently asked questions
+
+**What is an environmental value system in IB ESS?**
+An environmental value system is a worldview that shapes how a person sees environmental issues. It can be modelled as a system with inputs such as culture, education and media, processing through values and beliefs, and outputs such as decisions and lifestyle choices.
+
+**What is the difference between ecocentric, anthropocentric and technocentric views?**
+Ecocentric views value nature in its own right, anthropocentric views manage the environment for human benefit, and technocentric views trust technology to solve environmental problems. Most people sit somewhere along this spectrum, not at one end.
+
+**What is a tipping point in an environmental system?**
+A tipping point is a threshold beyond which a small change causes a large and often long-lasting shift to a new state. Resilience is a system's ability to absorb disturbance and stay away from that threshold.
+
+**What is the difference between an ecological deficit and an ecological reserve?**
+If a population's ecological footprint is larger than its biocapacity, it has an ecological deficit. If the footprint is smaller, it has an ecological reserve.
+
+**What are the four types of ecosystem services?**
+They are provisioning services such as food and timber, regulating services such as flood control and pollination, cultural services such as recreation, and supporting services such as soil formation and nutrient cycling.
 
 ## Official syllabus
 
