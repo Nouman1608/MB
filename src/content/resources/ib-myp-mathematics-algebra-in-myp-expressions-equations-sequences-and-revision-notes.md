@@ -286,6 +286,20 @@ The guide's Criterion B (investigating patterns) rewards finding general rules a
 - Sign slips when expanding with a negative: 7 times −2 gives −14, not +14.
 - Misreading a trace table by recording values before the step happens.
 
+## Frequently asked questions
+
+**What is the difference between verifying and proving a sequence rule?**
+To verify a rule means to test it on terms it was not built from. To prove it means to show with algebra that it holds for every n, which the top Year 5 band of Criterion B in IB MYP Mathematics rewards.
+
+**What is the difference between an equation and an identity?**
+An equation is true only for certain values of the unknown, while an identity (written with ≡) is true whatever value you choose.
+
+**What is the difference between an arithmetic and a geometric sequence?**
+An arithmetic sequence adds a constant each time, and a geometric sequence multiplies by a constant. The nth term of a geometric sequence uses the (n − 1)th power of the common ratio.
+
+**How do "and" and "or" change a compound inequality?**
+A compound "and" inequality narrows the solutions to the overlap of the two conditions, while an "or" inequality widens them to include values satisfying either condition.
+
 ## Official syllabus
 
 *Mathematics guide for the Middle Years Programme (for use from September 2020/January 2021)*, International Baccalaureate Organization, first assessment 2022, numerical and abstract reasoning, Algebra rows.

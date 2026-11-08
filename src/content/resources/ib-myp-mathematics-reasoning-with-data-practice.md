@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-branches-of-mathematical-study"
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-reasoning-with-data"
-description: "Original practice questions with full worked answers on choosing statistical measures, representing data, probability, and reasoning about real-world conclusions, tied to the four MYP assessment criteria."
+description: "Original IB MYP Mathematics practice questions with worked answers on statistical measures, data displays, probability and justifying real-world conclusions."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, modelling the kind of
@@ -92,6 +94,20 @@ Related: [Reasoning with Data study guide](/resources/ib-myp-mathematics-reasoni
 **7.** Top-band Criterion D evidence requires drawing a valid, real-world conclusion from the data, reflecting on the conclusion's reasonableness and limitations, and connecting it back to the task's real-world context -- here, "globalization and sustainability." Stating only "the mean recycling rate is 42%" reports a correctly calculated statistic without any of this further reasoning. A stronger conclusion might read: "At a mean recycling rate of 42% across the five neighbourhoods studied, roughly two-fifths of household waste in this sample is being diverted from landfill, which is a meaningful contribution to the sustainability goals the global context addresses -- but this conclusion is based on only five neighbourhoods within one area, and rates may vary considerably in neighbourhoods with different income levels, housing types or access to recycling infrastructure, so the finding should not be generalised beyond the specific sample studied without further data." This connects the number to a real-world meaning, reflects on the model's limitations, and explicitly names the relevant global context, rather than stopping at the statistic itself. **[6]**
 
 **8.** Consider a small business's employee salaries, where nine employees earn between \$35,000 and \$45,000 and the company's founder earns \$500,000. The mean salary across all ten employees would be pulled sharply upward by the founder's outlying salary, producing a mean figure (well over \$80,000) that does not represent what a "typical" employee at this company actually earns -- reporting this mean as representative of employee pay would be seriously misleading. The median, based on the middle-ranked salary, would instead sit within the \$35,000-\$45,000 range where nine of the ten employees' salaries actually fall, giving a far more representative single figure for this specific, skewed data set. This illustrates why choosing the correct measure of central tendency depends on the shape of the data -- symmetric data is well represented by the mean, but skewed data or data containing outliers is better represented by the median -- rather than defaulting to the mean as a universally "correct" choice regardless of data shape. **[5]**
+
+## Frequently asked questions
+
+**Why is a calculation alone not enough in a data question?**
+In IB MYP Mathematics, calculating a statistic correctly is Criterion A evidence, but Criterion D rewards reasoning about what the data shows and does not show. A strong answer goes on to draw a conclusion in context and reflect on its limitations.
+
+**What limitations should you mention about a data conclusion?**
+Name a limitation that fits the context, such as the sample size or whether the sample is representative. Treating a small or unrepresentative sample's conclusion as if it applies to everyone is a common weakness.
+
+**Should experimental and theoretical probabilities always match?**
+No. Experimental probability comes from the results of trials, so it varies from the theoretical value, especially with a small number of trials, even when the object is fair.
+
+**How does Criterion C apply to presenting data?**
+Criterion C, Communicating, rewards clear presentation with correct mathematical language and suitable representations, including labelled axes, correct units and sensible scales, plus a comment on what the results mean.
 
 ## Official syllabus
 

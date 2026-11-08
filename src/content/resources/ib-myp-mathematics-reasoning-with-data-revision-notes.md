@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-branches-of-mathematical-study"
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-reasoning-with-data"
-description: "Condensed revision notes on the Reasoning with data branch of IB Middle Years Programme Mathematics -- statistics, probability and drawing conclusions from data -- with worked examples tied to the four MYP assessment criteria."
+description: "Condensed notes on the IB MYP Mathematics reasoning with data branch: statistics, probability and drawing conclusions from data, mapped to Criteria A to D."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Reasoning with data is one of the four branches of the MYP Mathematics framework set out in the
@@ -151,3 +153,16 @@ correct number.
   <figcaption>The same event has a theoretical and an experimental probability, calculated differently.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does the reasoning with data branch of MYP Mathematics cover?**
+It consistently covers collecting and organising data, measures of central tendency and spread, graphical representations such as bar charts, histograms, scatter plots and box plots, basic theoretical and experimental probability, and drawing and justifying conclusions from data.
+
+**Which MYP criterion rewards reflecting on the limitations of a conclusion?**
+Criterion D, Applying mathematics in real-life contexts, rewards drawing a valid real-world conclusion from data and reflecting on its limitations, rather than stopping at the calculation.
+
+**Why can the mean be misleading for skewed data?**
+A few very high or very low values pull the mean towards them, so for skewed data the median is often a more representative measure. Reporting it alongside a comment on the sample makes the conclusion stronger.
+
+**Is there a fixed content list for MYP reasoning with data?**
+No. The MYP framework is less prescriptive than a Diploma Programme syllabus and schools have flexibility over exact content, so the branch is best revised through the four assessment criteria and global-context framing.

@@ -240,6 +240,20 @@ Notice how the questions move from one correct answer, to an idea that applies w
 
 Show each step in a clear line of reasoning and use mathematical language precisely.
 
+## Frequently asked questions
+
+**How many key concepts are there in the MYP?**
+There are 16 key concepts across the MYP, listed in Table 1 of the guide. Mathematics contributes three of them: form, logic and relationships.
+
+**What are the three types of inquiry question?**
+The IB MYP Mathematics guide uses factual, conceptual and debatable inquiry questions. Factual questions can be looked up or calculated, conceptual questions analyse big ideas that apply widely, and debatable questions have no single right answer, so you argue with evidence.
+
+**What does logic mean as a key concept in mathematics?**
+Logic means reasoning by agreed principles so that you can construct arguments and arrive at conclusions you can explain and defend. In practice it moves you from testing examples to justifying a rule for every case.
+
+**Does a statement of inquiry need a global context?**
+Yes. A statement of inquiry links a key concept, related concepts and a global context, so writing one with no global context leaves out one of its essential parts.
+
 ## Official syllabus
 
 IB Middle Years Programme *Mathematics* guide (for use from September 2020 or January 2021), first assessment 2022, published by the International Baccalaureate Organization.

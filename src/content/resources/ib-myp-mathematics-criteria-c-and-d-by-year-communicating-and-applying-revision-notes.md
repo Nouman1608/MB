@@ -241,6 +241,20 @@ Check: left side 3(7 + 4) = 33, right side 2(7) + 19 = 33.
 - Long, repeated working in Year 5, when a short complete argument is asked for.
 - Starting with the calculation and leaving the question unstated, so the structure is hard to follow.
 
+## Frequently asked questions
+
+**What are the strands of Criterion C in MYP Mathematics?**
+Criterion C, Communicating, covers mathematical language, forms of representation, moving between forms of representation, lines of reasoning and logical structure. Moving between forms is not assessed in Year 1.
+
+**What is the difference between describe, explain and justify?**
+Describe means give a detailed account; explain means give that account and add the reasons or causes; justify means back an answer or conclusion with sound reasons or evidence. The command terms move from describe towards justify as students progress from Year 1 to Year 5.
+
+**How many strands does Criterion D have?**
+Criterion D, Applying mathematics in real-life contexts, has five strands in every year, including Year 1, where strand v asks you to describe whether the solution makes sense in the context.
+
+**How is each MYP Mathematics criterion marked?**
+Each criterion is marked out of 8, in four bands (1-2, 3-4, 5-6 and 7-8), and teachers make a best-fit judgement across the strands rather than adding up marks.
+
 ## Official syllabus
 
 IB Middle Years Programme *Mathematics guide* (for use from September 2020/January 2021), first assessment 2022, published by the International Baccalaureate Organization. These notes paraphrase the Criterion C and D objectives and the Year 1, Year 3 and Year 5 criteria.

@@ -294,6 +294,20 @@ Proof: pair the outer and inner factors. Let m = n² + 3n. Then n(n + 3) = m and
 - Treating "it works for n = 4" as a proof. In Year 5, testing is verification; proof needs algebra or a structural argument.
 - Following a worksheet that dictates the method and then expecting level 7-8 in Criterion B.
 
+## Frequently asked questions
+
+**How do the Criterion A descriptors change between Years 1, 3 and 5?**
+The IB MYP Mathematics guide prints the Criterion A descriptors with the same wording for Years 1, 3 and 5. What changes is the mathematics available to you, so a challenging problem in Year 5 uses more advanced mathematics than one in Year 1.
+
+**What separates level 7-8 from 5-6 in Criterion A?**
+The jump to the 7-8 band is about unfamiliar situations: you must choose and apply the right mathematics to challenging problems even when the question does not look like ones you have practised.
+
+**What does Criterion B ask for in Year 5?**
+In Year 5, Criterion B asks you to choose and use techniques to discover complex patterns, describe them as general rules, and prove, or verify and justify, those rules.
+
+**What makes an MYP Mathematics investigation open?**
+An open investigation gives you a situation, not a method, and you choose the techniques yourself. The guide treats tasks that tell you which technique to use as too guided, which limits the level available.
+
 ## Next steps
 
 - Try the [practice questions](/resources/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and-practice/).

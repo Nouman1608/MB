@@ -301,6 +301,20 @@ For a sector with angle θ (in degrees) and radius r: arc length = (θ/360) × 2
 - Giving an angle answer with no reason. Name the theorem you used; this supports criterion C (communicating).
 - Rounding mid-way. Keep π or the full unrounded value until the last line.
 
+## Frequently asked questions
+
+**What does the geometry strand of MYP Mathematics cover?**
+The geometry strand of the spatial reasoning branch in IB MYP Mathematics covers angle properties, perimeter and area, metric conversions, volume and surface area, constructions, circle theorems, and arcs, sectors and segments.
+
+**How do you find the distance from the centre of a circle to a chord?**
+The perpendicular from the centre bisects the chord, so use Pythagoras with half the chord and the radius. A 24 cm chord in a circle of radius 13 cm is √(13² − 12²) = 5 cm from the centre.
+
+**Why is a tangent at right angles to the radius useful?**
+Because the tangent is perpendicular to the radius at the point of contact, you get a right-angled triangle and can use Pythagoras or trigonometry to find tangent lengths or distances.
+
+**How do you find the area of a compound shape?**
+Split it into shapes you know, or subtract a removed part from a larger shape, then add or subtract the areas. A rectangle with a semicircle on top, for example, is the rectangle's area plus half a circle's area.
+
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, MYP framework, spatial reasoning: Geometry. International Baccalaureate Organization, first assessment 2022.

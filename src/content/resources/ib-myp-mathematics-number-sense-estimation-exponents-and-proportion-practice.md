@@ -154,6 +154,20 @@ The estimate is close, so the exact value is reasonable [1]. **[4]**
 - Stating a bound without strict and non-strict inequality symbols.
 - Failing to comment on whether a result is reasonable in context.
 
+## Frequently asked questions
+
+**What does 5⁻² equal?**
+A negative exponent means a reciprocal, so 5⁻² = 1/5² = 1/25, not −25. Reading negative powers as negative numbers is a common error.
+
+**Can you add unlike surds such as 3√2 + 2√5?**
+No. Only like surds combine, so 3√2 + 2√5 cannot be simplified to 5√7. Simplify each surd first, as in 3√8 + √50 = 6√2 + 5√2 = 11√2.
+
+**What is a common mistake with compound growth multipliers?**
+Treating 1.035⁴ as 4 × 1.035, or rounding the multiplier too early. Raise the multiplier to the power of the number of periods and keep full values until the end.
+
+**How should a bound be written?**
+Write the range with the correct inequality symbols: the lower bound is included (≤) and the upper bound is not (<). Stating bounds without strict and non-strict symbols can lose credit.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion-revision-notes/) and the [study guide](/resources/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion/).

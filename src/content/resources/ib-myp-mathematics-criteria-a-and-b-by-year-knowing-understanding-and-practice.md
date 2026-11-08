@@ -139,6 +139,20 @@ Two correct rows [2].
 - Ignoring units or the number of significant figures asked for.
 - Describing a band by its label alone and not by what changes in the descriptor.
 
+## Frequently asked questions
+
+**Why should you say why you chose a method in MYP Mathematics?**
+Criterion A strand i rewards selecting appropriate mathematics, so a short reason such as "the cost scales with the number of items, so use a unit rate" gives evidence for that strand. Without it, strand i has nothing to assess.
+
+**Is "it goes up by 3" a general rule?**
+No. That describes a term-to-term pattern; Criterion B expects a rule in terms of n, such as 3n + 2, which you then test on cases you did not use to find it.
+
+**Do several correct checks count as a proof?**
+No. Checks verify a rule for particular cases; a proof is an algebraic argument that works for every value. Treating checks as a proof when the task asks you to prove limits the level for strand iii.
+
+**How should you round when finding the first whole value that passes a limit?**
+Round in the direction the context needs, usually up, and check the whole values on either side. If t > 12.23 hours, the first whole hour that passes the limit is 13, not 12.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and-revision-notes/).

@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "sketching-curves"
-description: "Plotting graphs from tables of values, solving equations graphically, exponential growth and decay, and sketching linear, quadratic, cubic, reciprocal and exponential curves, for Cambridge O Level Mathematics (Syllabus D) 4024."
+description: "Plot graphs from tables of values, solve equations graphically, model exponential growth and decay, and sketch key curves for Cambridge O Level Maths 4024."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers subtopics **2.10 Graphs of functions** and **2.11
@@ -189,6 +191,23 @@ may cross the x-axis once, twice (with a repeated root) or three times.
 - The five function types in 2.11, their general forms, and their key
 features (turning points, roots, symmetry, asymptotes)
 - Finding a quadratic's turning point by completing the square
+
+## Frequently asked questions
+
+**Should points on a curved graph be joined with straight lines?**
+No. For a curved function, join the plotted points with a smooth curve, not a series of straight segments. Straight segments are a common way to lose accuracy marks.
+
+**What is an asymptote?**
+An asymptote is a line that a curve approaches but never touches. Reciprocal graphs such as y = a/x + b have a vertical and a horizontal asymptote, while exponential graphs y = arˣ + b have a horizontal asymptote only.
+
+**How do you find the turning point of a quadratic by completing the square?**
+Write the quadratic in the form y = a(x − p)² + q; the turning point is (p, q). For example, y = x² − 6x + 5 = (x − 3)² − 4, so the turning point is (3, −4).
+
+**Does every cubic graph have three roots?**
+No. Depending on the cubic, the curve may cross the x-axis once, twice (with a repeated root) or three times.
+
+**How can you tell exponential growth from exponential decay?**
+For y = abˣ + c, the graph shows exponential growth when b > 1 and exponential decay when 0 < b < 1. In both cases the curve approaches the horizontal line y = c without reaching it.
 
 ## Related resources
 

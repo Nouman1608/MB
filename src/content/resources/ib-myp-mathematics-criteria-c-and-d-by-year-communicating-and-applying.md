@@ -264,6 +264,20 @@ Some strands are marked as not demonstrated in the lower bands. A task that neve
 - Stating "it makes sense" without comparing the number to the situation.
 - Extending a model beyond the values where it works.
 
+## Frequently asked questions
+
+**What does complete, coherent and concise reasoning mean?**
+Reasoning is complete when no needed step is missing, coherent when each step follows from the one before, and concise when nothing unnecessary is included. Year 5 asks for all three in MYP Mathematics Criterion C.
+
+**What does moving between forms of representation mean?**
+It means translating the same information between words, a table, a rule and a graph, and reading information back from one form to another. For example, a tank holding 40 litres and filling at 12 litres a minute can be shown as a table, as V = 40 + 12t and as a straight-line graph.
+
+**How do the Criteria C and D objectives change from Year 1 to Year 5?**
+The wording is similar across years, but the demands grow: Year 1 asks you to say what you did, Year 3 asks for reasons, and Year 5 asks for valid reasons backed by evidence, such as justifying rather than explaining the degree of accuracy.
+
+**How do you present work with a clear logical structure?**
+Present it in an order a reader can follow: the aim, the information used, the method, the result and a conclusion. Number your steps and label diagrams.
+
 ## Next steps
 
 Use the [practice questions](/resources/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying-practice/) to try each strand. See also [the four criteria in practice](/resources/ib-myp-mathematics-criteria-in-practice/) and the [MYP Mathematics subject guide](/resources/ib-myp-mathematics-subject-guide/). Find your gaps with the [free 10-minute diagnostics](/diagnostics/).

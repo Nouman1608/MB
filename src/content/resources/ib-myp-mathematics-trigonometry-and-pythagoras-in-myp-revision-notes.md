@@ -224,6 +224,20 @@ Labels follow the framework: **standard** is MYP 4-5 (standard), **extended** is
 - Writing a final answer that does not fit the context, such as a height longer than the ladder. Criterion D asks you to justify whether an answer makes sense.
 - Stating a conclusion without a clear line of reasoning, which affects criterion C.
 
+## Frequently asked questions
+
+**What do SOH, CAH and TOA stand for?**
+They are the three right-angled trigonometric ratios: sin θ = opposite/hypotenuse, cos θ = adjacent/hypotenuse and tan θ = opposite/adjacent. Label the sides from the angle you are using before choosing a ratio.
+
+**What is the converse of Pythagoras' theorem?**
+If the three sides satisfy a² + b² = c² for the longest side c, the triangle is right-angled; if not, it is not. Show the comparison of the two values, as with 9² + 40² = 1681 = 41²; this is extended content in MYP Mathematics.
+
+**When should you use the sine rule rather than the cosine rule?**
+Use the sine rule when you know an angle and the side opposite it. If the known angle is not opposite a known side, use the cosine rule instead.
+
+**What is the triangle inequality?**
+Any two sides of a triangle must add to more than the third side. Lengths of 5 cm, 7 cm and 13 cm cannot form a triangle, because 5 + 7 = 12 is less than 13.
+
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, first assessment 2022, International Baccalaureate Organization: spatial reasoning framework, trigonometry rows.
