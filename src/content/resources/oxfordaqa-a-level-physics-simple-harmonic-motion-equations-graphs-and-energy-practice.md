@@ -173,6 +173,20 @@ These questions cover section 3.6.2 (simple harmonic motion) of the OxfordAQA In
 - Try all free 10-minute diagnostics: [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in SHM questions?**
+Evaluating cos ωt with the calculator in degrees, using x = A cos ωt when timing starts at equilibrium, and dropping the minus sign in a = −ω²x. Check where the oscillator is at t = 0 and work in radians.
+
+**Does the period of SHM depend on the amplitude?**
+No. For simple harmonic motion the period is independent of the amplitude. For a pendulum this holds only for small swings, where sin θ ≈ θ.
+
+**Is simple harmonic motion in OxfordAQA International AS Physics (9630)?**
+No. Section 3.6.2 (simple harmonic motion) is part of section 3.6 of the OxfordAQA International AS and A-level Physics (9630) specification, which is International A-level only.
+
+**What happens to the energy if the amplitude doubles?**
+The total energy, ½mω²A², is proportional to the square of the amplitude, so doubling the amplitude gives four times the energy.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Section 3.6.2 is International A-level only.

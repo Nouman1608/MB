@@ -164,6 +164,20 @@ These questions cover section 3.13.1 (Rotational motion) of OxfordAQA Internatio
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free [trial class](/trial/).
 
+## Frequently asked questions
+
+**What mistakes lose marks in rotational motion questions?**
+Using revolutions per minute or degrees in a formula, measuring r to the wrong place, and using the applied torque when an opposing torque also acts. Convert to radians and rad s⁻¹ first, and use the resultant torque in T = Iα.
+
+**Why does the axis matter for moment of inertia?**
+The same object has a different moment of inertia about a different axis, because r in I = Σmr² is measured to the axis. Using the value for the centre when the object turns about its end is a common error.
+
+**Is rotational motion in OxfordAQA International AS Physics (9630)?**
+No. Section 3.13.1 (rotational motion) of the OxfordAQA International AS and A-level Physics (9630) specification is International A-level only, so International AS candidates do not study it.
+
+**How do you convert revolutions per minute to rad s⁻¹?**
+One revolution is 2π radians, so multiply the revolutions per minute by 2π and divide by 60.
+
 ## Official syllabus
 
 Published by OxfordAQA: International AS and A-level Physics (9630), specification Version 4.4, which applies to exams from May/June 2020. Source for this page: section 3.13.1, Rotational motion.

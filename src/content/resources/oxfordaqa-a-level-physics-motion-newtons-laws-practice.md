@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-and-materials-oxfordaqa-alevel"
     subtopic: "newtons-laws-of-motion-oxfordaqa"
-description: "Original exam-style practice questions with full worked answers on SUVAT equations, motion graphs, the free-fall required practical, and Newton's three laws of motion, for OxfordAQA International A-Level Physics (9630), sub-topics 3.2.3 and 3.2.5."
+description: "Original practice questions with worked answers on SUVAT, motion graphs, the free-fall practical and Newton's laws for OxfordAQA A-level Physics (9630)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"

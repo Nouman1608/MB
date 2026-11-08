@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-and-materials-oxfordaqa-alevel"
     subtopic: "newtons-laws-of-motion-oxfordaqa"
-description: "Condensed recall notes on the SUVAT equations, motion graphs, and Newton's three laws of motion, for OxfordAQA International A-Level Physics (9630), sub-topics 3.2.3 and 3.2.5."
+description: "Revision notes on the SUVAT equations, motion graphs, the free-fall practical and Newton's three laws for OxfordAQA International A-level Physics (9630)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"

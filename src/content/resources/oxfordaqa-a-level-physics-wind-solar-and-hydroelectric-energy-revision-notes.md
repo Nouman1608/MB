@@ -227,6 +227,20 @@ Efficiency of a round trip: multiply the pumping efficiency by the generating ef
 </figure>
 
 
+## Frequently asked questions
+
+**What is the formula for the maximum power of a wind turbine?**
+The maximum power available is P = ½πr²ρv³, where r is the blade length, ρ is the air density and v is the wind speed. It comes from the kinetic energy of the air passing through the area swept by the blades each second.
+
+**How do you calculate the power of a hydroelectric station?**
+Use P = ρQgh, where ρ is the density of water, Q is the volume flow rate, g is the gravitational field strength and h is the height the water falls.
+
+**How does light intensity change with distance from a point source?**
+Intensity follows the inverse square law, I = P / 4πr², so doubling the distance from the source reduces the intensity to a quarter.
+
+**What is required practical 10 in OxfordAQA A-level Physics?**
+Required practical 10 tests the inverse square law for light using an LDR. Take a background reading with the lamp off and measure distances from the filament, not the glass of the bulb.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA. These notes follow sections 3.13.2, 3.13.3 and 3.13.4.

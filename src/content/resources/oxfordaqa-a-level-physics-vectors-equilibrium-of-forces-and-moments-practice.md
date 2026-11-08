@@ -151,6 +151,20 @@ These questions cover the OxfordAQA International AS and A-level Physics (9630) 
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in moments questions?**
+Using the full length of a rod as the arm of an angled force, taking moments about different points on each side of the equation, and putting a plank's weight at its end instead of its centre.
+
+**How do you check that forces at a point are in equilibrium?**
+Resolve every force into two perpendicular directions. The forces are in equilibrium when the components in each direction add to zero, so the resultant force is zero.
+
+**How do you avoid mixing up sin and cos when resolving forces?**
+Draw the triangle first and check where the angle is measured from. If the angle is measured from the vertical, the vertical component uses cos, not sin.
+
+**Is moments content in OxfordAQA International AS Physics (9630)?**
+Yes. Sections 3.2.1 (scalars and vectors) and 3.2.2 (moments) are shared International AS and A-level content in the OxfordAQA International AS and A-level Physics (9630) specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification Version 4.4, sections 3.2.1 and 3.2.2, published by OxfordAQA.

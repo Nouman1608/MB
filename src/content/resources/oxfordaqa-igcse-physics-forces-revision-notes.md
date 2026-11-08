@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on forces, motion graphs, Newton laws, momentum, moments and Hooke law for International GCSE Physics."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -239,3 +241,16 @@ Elastic potential energy stored = **area under the forceâ€“extension graph** = Â
   <figcaption>Work done in stretching a spring is the area under the force-extension line.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What makes two forces a Newton's third law pair?**
+A third-law pair is equal in size, opposite in direction, the same type of force and acts on two different bodies. Weight and the normal contact force on a book resting on a table act on the same object, so they are not a third-law pair.
+
+**Does an object stop at terminal velocity?**
+No. At terminal velocity the resultant force is zero, so the object keeps moving at a constant velocity. Saying it stops is a common exam error.
+
+**Why does braking distance increase so much with speed?**
+Braking distance depends on kinetic energy, which is proportional to the square of the speed. Doubling the speed therefore quadruples the braking distance.
+
+**What is the difference between a scalar and a vector?**
+A scalar has magnitude only, such as distance, speed, mass or energy. A vector also has direction, such as displacement, velocity, force or momentum.

@@ -219,6 +219,20 @@ Worked reminder: 18 N forces 0.25 m apart give a couple of 18 × 0.25 = 4.5 N m.
 - Stating that equilibrium needs the object to be at rest.
 - Leaving out units, or giving N m as a force.
 
+## Frequently asked questions
+
+**What is the moment of a force?**
+The moment of a force about a point is the force multiplied by the perpendicular distance from the point to the line of action of the force. Its unit is N m.
+
+**Does equilibrium mean an object is not moving?**
+No. An object in equilibrium has no resultant force and no resultant moment, so it can be at rest or moving at constant velocity. Stating that equilibrium needs the object to be at rest is a common error.
+
+**Is mass a vector?**
+No. Mass has size only, so it is a scalar. Weight is a force, so it is a vector, and acceleration and force have no scalar partner.
+
+**Is the newton metre a unit of force?**
+No. The newton metre (N m) is the unit of a moment, a force multiplied by a perpendicular distance. Giving N m as the unit of a force loses the mark.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification Version 4.4, sections 3.2.1 and 3.2.2, published by OxfordAQA.

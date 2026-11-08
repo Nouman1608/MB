@@ -176,6 +176,20 @@ State which meter measures the current through the lamp. **[1]**
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Ask about a [free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in charge and current questions?**
+Leaving time in minutes in Q = It, writing that current is "used up" by a lamp, and mixing up the units C and A. Time must be in seconds, and the charge is not used up; the energy it carries is transferred.
+
+**Is charge created when a cloud becomes charged?**
+No. Charge is separated, not created. Rubbing two insulators together moves electrons from one surface to the other, so one becomes negative and the other is left positive.
+
+**Is the OxfordAQA International GCSE Physics (9203) exam tiered?**
+No. The qualification is untiered, so all candidates study the same electrical circuits content in section 3.5.1.
+
+**How do you read the positive terminal on a cell symbol?**
+A cell is drawn as two parallel lines of different lengths. The longer, thinner line marks the positive terminal.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.5.1 Electrical circuits, statements a to g.

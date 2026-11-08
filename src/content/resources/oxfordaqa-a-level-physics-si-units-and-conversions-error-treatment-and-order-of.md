@@ -265,6 +265,20 @@ Work through the [practice questions](/resources/oxfordaqa-a-level-physics-si-un
 </figure>
 
 
+## Frequently asked questions
+
+**How do you find the uncertainty in a gradient?**
+Draw the best-fit line, then the steepest and shallowest lines that still pass through all the error bars. The uncertainty in the gradient is half the difference between the steepest and shallowest gradients.
+
+**What causes systematic errors?**
+Typical causes are a zero error, a miscalibrated instrument and reading a scale from the wrong angle (parallax). A systematic error shifts every reading the same way, so repeating does not remove it.
+
+**What is the difference between repeatability and reproducibility?**
+Results are repeatable when the same person, method and equipment give agreeing results. They are reproducible when different people, equipment or methods give agreeing results.
+
+**Which sections of the OxfordAQA 9630 specification does this guide cover?**
+It covers section 3.1 of OxfordAQA International AS and A-level Physics (9630): 3.1.1 SI units and prefixes, 3.1.2 limitation of physical measurements and 3.1.3 estimation of physical quantities.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, section 3.1 Measurements and their errors, for International AS and A-level exams from May/June 2020 onwards. Published by OxfordAQA.

@@ -149,6 +149,20 @@ These questions follow section 3.5.8 (Refraction at a plane surface) of the Oxfo
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to check what to revise next.
 - [Book a free trial class](/trial/) if you want help with any of these questions.
 
+## Frequently asked questions
+
+**What are the most common mistakes in refraction questions?**
+Measuring angles from the surface instead of the normal, and putting n1 and n2 the wrong way round in sin θc = n2/n1. If the sine comes out larger than 1, the indices have been swapped.
+
+**Does the frequency of light change when it enters glass?**
+No. The frequency stays the same; the speed and wavelength both decrease in the denser medium. Saying the frequency changes is a common error.
+
+**Can total internal reflection happen when light enters a denser medium?**
+No. Total internal reflection needs light travelling towards a medium with a lower refractive index, at an angle of incidence greater than the critical angle.
+
+**Is refraction in OxfordAQA International AS Physics (9630)?**
+Yes. Section 3.5.8 (refraction at a plane surface) is shared International AS and A-level content in the OxfordAQA International AS and A-level Physics (9630) specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Section 3.5.8 Refraction at a plane surface.

@@ -217,6 +217,20 @@ Add displacements with their signs. Waves with displacements +2.4 mm and +1.1 mm
 - Saying the frequency of the nth harmonic is n + 1 times the first.
 - Not saying which two quantities are kept constant in a string investigation.
 
+## Frequently asked questions
+
+**What is the principle of superposition?**
+When two waves meet at a point, the resultant displacement is the vector sum of the individual displacements of the two waves.
+
+**How is a stationary wave formed?**
+A stationary wave forms when two waves of the same frequency travel in opposite directions and superpose. The result has fixed nodes of zero amplitude and antinodes of maximum amplitude.
+
+**What is the wavelength of the first harmonic on a string?**
+For the first harmonic the string vibrates in one loop, so the wavelength is twice the string length, 2l. The nth harmonic has n loops, wavelength 2l/n and frequency nf₁.
+
+**What must be kept constant in a string experiment?**
+Vary only one of length, tension and mass per unit length at a time, and keep the other two fixed. State which two are kept constant in your answer.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. These notes cover section 3.5.5.
