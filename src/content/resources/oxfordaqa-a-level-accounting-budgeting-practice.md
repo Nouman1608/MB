@@ -215,6 +215,20 @@ Judgement: the view is mostly wrong; a simple budget with monthly comparison is 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on budgeting questions?**
+Common losses are working out materials or labour from sales instead of production, receiving credit sales in the wrong month, and including a payment that falls outside the period in a cash budget.
+
+**What is the difference between a cash budget and a budgeted income statement?**
+A cash budget records cash in the month it actually moves, while a budgeted income statement records income and expenses when they are earned or incurred. Charging the cash paid instead of the expense incurred in the income statement is a common error.
+
+**Which budgeting topics are assessed only at International A-level in OxfordAQA 9615?**
+The questions marked Assessed at A-level cover functional budgets and the cash budget. Budgeted financial statements are part of the International AS content of section 3.1.9.
+
+**How should I finish an evaluate question on budgeting?**
+Weigh the points for and against using the business in the question, then give a clear judgement. An evaluation with no judgement loses marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International

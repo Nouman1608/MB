@@ -169,6 +169,20 @@ A rival is launching cheaper factory-glazed tableware, so inflows in years 3 to 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on capital investment appraisal questions?**
+Common losses are deducting depreciation or loan interest as if they were cash payments, adding a resale value without discounting it, comparing undiscounted totals instead of net present values, and listing points with no final decision.
+
+**How do I convert part of a year into months for payback?**
+Multiply the fraction of the year by 12. For example, 0.4 of a year is 4.8 months, not 4 months.
+
+**How do I decide whether a cash flow belongs in an appraisal?**
+Ask of each item whether the cash will move in the future and only because the project goes ahead. If both answers are yes, include it; otherwise leave it out.
+
+**How should I end an evaluation of a capital project in OxfordAQA 9615?**
+Finish with a clear decision that refers to the figures you calculated and to non-financial factors in the case. Listing points for and against with no recommendation loses marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA). Section 3.2.3 Capital investment appraisal.

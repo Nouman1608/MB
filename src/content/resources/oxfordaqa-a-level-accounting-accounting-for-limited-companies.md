@@ -305,6 +305,23 @@ The International Accounting Standards Board (IASB) issues the standards. Older 
 
 See [Analysis and evaluation of financial information](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information/) for ratios built on these statements.
 
+## Frequently asked questions
+
+**Is a revaluation gain included in profit?**
+No. A gain on revaluation is unrealised, because nothing has been sold and no cash has come in, so it is credited to a revaluation reserve rather than to profit.
+
+**How do you record a revaluation of premises?**
+Charge this year's depreciation first, then compare the new value with the carrying amount to find the surplus. The asset is shown at its new value with no accumulated depreciation, and the surplus goes to the revaluation reserve.
+
+**Do bonus issues and revaluations appear in the statement of cash flows?**
+No. Neither moves any cash, so both are left out of the IAS7 statement of cash flows. Putting them in is a common error.
+
+**Why do companies have to publish their accounts?**
+Shareholders own the company but usually do not run it, so directors report on how their money has been used. With limited liability, lenders and suppliers also need to see the company's position before risking money.
+
+**Is section 3.2.6 examined at International AS level in OxfordAQA 9615?**
+No. Section 3.2.6 Accounting for limited companies is International A-level only. Group financial statements, the statement of comprehensive income and any individual standard apart from IAS1 and IAS7 are not examined.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.2.6, Accounting for limited companies.

@@ -184,6 +184,20 @@ Judgement: the revaluation shows security but no cash; the bonus issue is cosmet
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on limited company accounts questions?**
+Common losses are using the share count from before an earlier issue, crediting all the cash from a rights issue to share capital, using the tax or interest charge as the cash paid, and naming published-accounts elements without their purpose.
+
+**What mistakes are common with revaluation questions?**
+Measuring the surplus from cost instead of from the carrying amount, and leaving the old accumulated depreciation on the revalued asset.
+
+**What should I avoid in an IAS7 statement of cash flows?**
+Do not add back disposal proceeds in operating activities, and do not use the tax or interest charge in place of the cash actually paid. Work out each cash figure from the opening balance, the charge and the closing balance.
+
+**Which part of the OxfordAQA International A-level Accounting 9615 specification is tested here?**
+Section 3.2.6 Accounting for limited companies, which is International A-level only. The questions run from share issues and revaluations to a full IAS7 statement of cash flows and published accounts.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.2.6, Accounting for limited companies.

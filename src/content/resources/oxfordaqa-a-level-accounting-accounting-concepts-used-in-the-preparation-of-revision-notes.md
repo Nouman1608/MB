@@ -234,6 +234,23 @@ unpaid expenses). Write the concept beside each line.
 - Writing that prudence means "keeping profit low to be safe".
 - Defending a change of depreciation method only because it raises profit.
 
+## Frequently asked questions
+
+**What is the difference between the realisation and accruals concepts?**
+Realisation decides whether revenue has been earned. Accruals decides which period income and expenses belong to.
+
+**Does prudence mean keeping profit low?**
+No. Prudence means caution with estimates, and it does not allow profit to be deliberately understated. Writing that prudence means keeping profit low to be safe loses marks.
+
+**How are sale or return goods treated at the year end?**
+Goods still on approval, not yet accepted and with the return date not passed, are taken out of revenue and their cost is added to closing inventory. Goods the customer has already accepted stay in revenue.
+
+**How do you find cost from a selling price with a mark-up?**
+Divide the selling price by (1 + mark-up percentage). Multiplying by (1 minus the mark-up) is a common error.
+
+**Can a business change its depreciation method under the consistency concept?**
+Yes, but only to give a fairer view, and the change must be disclosed. A change made only because it raises profit breaches consistency.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Accounting (9615) Specification*, Version 1.2, for International AS

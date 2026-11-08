@@ -245,6 +245,23 @@ Pellingford Lodge, a country hotel, can fund only one project. Its cost of capit
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal-practice/), then condense with the [revision notes](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal-revision-notes/). Check your wider readiness with a [free diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**Which appraisal methods are in OxfordAQA International A-level Accounting 9615 section 3.2.3?**
+Only two methods appear in the specification: payback period and net present value.
+
+**How do you calculate the payback period?**
+If the inflow is the same every year, divide the initial outlay by the annual net cash inflow. If inflows differ, keep a running cumulative total and work out the part-year by dividing the amount still to recover by that year's net cash flow.
+
+**Why is money received in the future worth less than money today?**
+Cash in hand can earn a return, inflation erodes later cash, and a promised receipt might never arrive. Net present value converts every future cash flow into today's money by discounting it.
+
+**Why is depreciation excluded from investment appraisal?**
+No cash leaves the business when depreciation is charged; the cash cost of the asset is already in the appraisal as the outlay in year 0. Including depreciation as well would count the cost twice.
+
+**Where do sale proceeds of an old asset go in an appraisal?**
+Cash from selling an old asset that the project replaces reduces the year-0 outlay. Putting it in year 1 is a common error.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA). Section 3.2.3 Capital investment appraisal.
