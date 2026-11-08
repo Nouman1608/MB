@@ -214,6 +214,23 @@ For a surplus, expansionary policy or a higher currency reduces the surplus but 
 - Reaching no judgement. Strong answers weigh size, cause, elasticities and time horizon, then decide.
 - Mixing up the sign of a balance or dividing by the wrong total when finding a percentage of GDP.
 
+## Frequently asked questions
+
+**What are the three main accounts of the balance of payments?**
+The current account records goods, services, primary income and secondary income. The capital account records small capital transfers and non-produced assets, and the financial account records investment flows such as FDI, portfolio investment and bank lending.
+
+**How is a current account deficit financed?**
+It is financed by net inflows on the capital and financial accounts, through borrowing from abroad or selling assets to foreigners. The whole balance of payments sums to zero once net errors and omissions are included.
+
+**What is the difference between expenditure-reducing and expenditure-switching policies?**
+Expenditure-reducing policies cut total spending, so fewer imports are bought. Expenditure-switching policies, such as a lower exchange rate or tariffs, move spending from imports to home-produced goods.
+
+**Do I need the Marshall-Lerner condition for OxfordAQA 9640?**
+No. A formal Marshall-Lerner condition is not required, but you must understand how the elasticities of demand and supply affect whether policies to correct a deficit work.
+
+**Is a current account surplus always good?**
+No. A persistent surplus can reflect weak domestic consumption, add to inflation when exports boom, create tension with trading partners and push the currency up.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Economics (9640)*, specification version 1.2, section 3.4.2.1 (the balance of payments), for International AS exams from May/June 2021 and International A-level exams from May/June 2022.

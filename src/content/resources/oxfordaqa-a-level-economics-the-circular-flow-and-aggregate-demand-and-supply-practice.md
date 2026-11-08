@@ -125,6 +125,23 @@ These questions follow the OxfordAQA International AS and A-level Economics (964
 - Take one of the free [10-minute diagnostics](/diagnostics/) to find weak spots.
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on circular flow and AD/AS questions?**
+Common losses are not showing the division by the price index when converting to real terms, placing saving or tax as injections, describing a price rise as a shift of AD, and stating a shift without the change in both the price level and real GDP.
+
+**Is saving an injection or a withdrawal?**
+Saving is a withdrawal from the circular flow of income, as are taxes and imports. Injections are investment, government spending and exports.
+
+**Which denominator do I use for marginal propensities?**
+Use the change in disposable income for the marginal propensities to consume and to save, and the change in national income for the marginal propensities to tax and to import.
+
+**How should I explain the effect of a shock with an AD/AS diagram?**
+Show the whole route from the event to the component of AD or the cost that changes, then to the curve that shifts, and finish with the change in both the price level and real GDP, naming the axes.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover sections 3.2.2.1 to 3.2.2.3 of the OxfordAQA International AS and A-level Economics (9640) specification: the circular flow of income, AD and AS analysis, and the determinants of aggregate demand.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, first teaching September 2020, published by OxfordAQA. Sections 3.2.2.1, 3.2.2.2 and 3.2.2.3, with section 3.5 quantitative skills.

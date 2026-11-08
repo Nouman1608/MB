@@ -259,6 +259,23 @@ If the 90th percentile income is 64 and the 10th is 16 (thousand cu), the 90:10 
 
 Work through the [revision notes](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles-revision-notes/), then the [practice questions](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles-practice/). The [free diagnostics](/diagnostics/) show where to begin.
 
+## Frequently asked questions
+
+**How do you share an amount in a ratio?**
+Add the parts of the ratio, divide the total amount by that number to find one part, then multiply by each ratio figure. Check that the shares add back to the total.
+
+**What is the difference between a percentage point change and a percentage change?**
+A percentage point change is the gap between two rates, so unemployment falling from 8% to 6% is a fall of 2 percentage points. The percentage change compares that gap with the starting rate, here a fall of 25%.
+
+**How do you reverse a percentage increase?**
+Divide the new value by the multiplier, for example by 1.12 after a 12% rise. Taking 12% off the new value uses the wrong base.
+
+**Why is the median often better than the mean for income data?**
+Income data are often skewed by a few very high values, which pull the mean towards the long tail. The median stays near the typical household, so it often describes typical income better.
+
+**What are quantiles and when are they needed for OxfordAQA 9640?**
+Quantiles split ordered data into equal-sized groups, such as quartiles, quintiles and deciles. The OxfordAQA 9640 specification says that for A2 assessments you must also understand and use relevant quantiles.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.5 Quantitative skills (QS1, QS2 and QS3). First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022. Published by OxfordAQA.

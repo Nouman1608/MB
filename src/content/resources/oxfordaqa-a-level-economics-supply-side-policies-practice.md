@@ -153,6 +153,23 @@ These questions test supply-side policies in the OxfordAQA International AS and 
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on supply-side policy questions?**
+Common losses are labelling private-sector improvements as government policy, dividing by the price index instead of the index over 100 in real-terms questions, stopping an explanation before LRAS or SRAS moves, and claiming supply-side policy works fast.
+
+**How do I convert spending into real terms?**
+Divide the nominal figure by the price index divided by 100, so with an index of 108 divide by 1.08. Comparing nominal figures from different years directly misleads.
+
+**What is deadweight in a supply-side subsidy?**
+Deadweight is the part of an outcome that would have happened anyway, such as jobs that would have existed without the subsidy. Deduct it to find the net effect and the true cost per net job.
+
+**How should I evaluate a supply-side policy?**
+Weigh the time lag, cost, size of the response and whether demand is strong enough to use the extra capacity, use the figures given, and end with a judgement tied to a condition such as whether vacancies exist.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.2.4.3, supply-side policies, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.2.4.3 Supply-side policies and section 3.5 Quantitative skills. First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022. Published by OxfordAQA.

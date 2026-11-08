@@ -232,6 +232,23 @@ Axes: price level (vertical) and real GDP (horizontal). LRAS is a vertical line 
 - Treating a short-run trade-off as permanent.
 - Missing a final judgement that depends on spare capacity, timing or the cause of the shock.
 
+## Frequently asked questions
+
+**What are the four parts of the current account?**
+The current account records trade in goods, trade in services, primary income from employment and investments across borders, and secondary income from one-way transfers such as remittances and aid.
+
+**What is the difference between primary and secondary income?**
+Primary income is income from employment and from investments across borders. Secondary income is one-way transfers with nothing received in return, such as remittances and aid.
+
+**How does higher domestic inflation affect the current account?**
+If prices rise faster at home than abroad, domestic goods become relatively dearer, so exports tend to fall and imports rise, worsening the balance, other things equal.
+
+**How does a positive output gap affect the current account?**
+A positive output gap brings inflationary pressure and draws in more imports, so it tends to worsen the current account.
+
+**What is the difference between deflation, disinflation and deflationary policy?**
+Deflation is a falling price level, disinflation is a falling inflation rate, and deflationary policy is policy that reduces aggregate demand, which need not cause prices to fall.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA: sections 3.2.3.4 and 3.2.3.5.

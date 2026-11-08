@@ -148,6 +148,23 @@ The questions cover sections 3.3.1.1 and 3.3.1.2 of OxfordAQA's economics specif
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on rational and behavioural choice questions?**
+Common losses are writing total utility when marginal utility is asked for, calling diminishing marginal utility certain rather than a hypothesis, mixing up bounded rationality and bounded self-control, and treating a nudge as a ban or a tax.
+
+**How do I answer a question asking me to name a bias?**
+Name the bias and then explain how the details of the case produce the behaviour. A label on its own is not enough.
+
+**How do I show that asymmetric information causes market failure?**
+State who knows more and who loses, then show that trades which would benefit both sides do not happen, so resources are misallocated.
+
+**How should I evaluate whether behavioural economics makes traditional theory redundant?**
+Use examples from both sides, such as diminishing marginal utility supporting a downward-sloping demand curve against evidence of biases, and state which view your conclusion favours and why.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.3.1.1 (the rational decision maker) and 3.3.1.2 (behavioural influences) of the OxfordAQA International AS and A-level Economics (9640) specification, which are International A2 content.
+
 ## Official syllabus
 
 Source: the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, Oxford International AQA Examinations. Sections 3.3.1.1 and 3.3.1.2.

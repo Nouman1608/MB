@@ -147,6 +147,23 @@ These questions cover the OxfordAQA International AS and A-level Economics speci
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - Ready for more help? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on revenue and profit questions?**
+Common losses are calculating MR without dividing by the change in quantity, writing MR = price for a firm with a downward-sloping demand curve, leaving out minus signs on MR, and calling accounting profit abnormal profit without deducting normal profit.
+
+**Why is marginal revenue below price for a firm with a downward-sloping demand curve?**
+To sell an extra unit the firm must lower its price on all the units it sells, so the revenue from the extra unit is partly offset by revenue lost on earlier units. Show that lost revenue in your working.
+
+**When does marginal revenue equal price?**
+Marginal revenue equals price only for a price taker, which can sell any amount at the market price without lowering it. Its demand curve is horizontal, so AR = MR = price.
+
+**How should I evaluate whether governments should promote technological change?**
+Weigh the case for support, such as knowledge spilling over to other firms so private firms under-invest, against risks such as backing the wrong projects, and finish by saying when support works and when it does not.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.3.2.4 (revenue curves), 3.3.2.5 (profit) and 3.3.2.6 (technological change) of the OxfordAQA International AS and A-level Economics (9640) specification, which are International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2: sections 3.3.2.4, 3.3.2.5 and 3.3.2.6, with quantitative skills in section 3.5.

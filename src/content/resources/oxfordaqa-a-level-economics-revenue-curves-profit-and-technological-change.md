@@ -233,6 +233,23 @@ The break-even output is where 30,000 + 8Q = 90,000 + 3Q, so 5Q = 60,000 and Q =
 - Using invention and innovation as one word.
 - Saying technology always lowers average cost, with no mention of output.
 
+## Frequently asked questions
+
+**Why is the average revenue curve the demand curve?**
+The demand curve pairs each quantity with the price buyers will pay for it, and the firm's revenue per unit at that quantity is exactly that price. So a graph of AR against quantity is the demand curve itself.
+
+**What role does profit play in a market economy?**
+Profit signals what buyers value, gives an incentive to take risks and cut costs, draws resources into profitable markets, provides finance for investment and disciplines firms whose losses force them to change or close.
+
+**Does new technology always lower average cost?**
+No. A new method may raise fixed costs while cutting variable costs, so it lowers average cost only if output is large enough. Below the break-even output it can raise average cost.
+
+**What is creative destruction?**
+Creative destruction describes new products and methods replacing old ones. Innovators earn abnormal profit for a time, imitators then enter and profit falls, while old firms and skills disappear.
+
+**How can technological change affect market structure?**
+Technology can lower barriers to entry, for example when online selling removes the need for shops, making markets more competitive. It can also raise barriers when research is costly or patents protect the innovator, so a few firms may dominate.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2: sections 3.3.2.4, 3.3.2.5 and 3.3.2.6, with quantitative skills in section 3.5.

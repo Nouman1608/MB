@@ -206,6 +206,23 @@ Behavioural economists question the assumption that individuals are rational uti
 - Evaluating nudges with a list and no judgement.
 - Leaving a calculation without saying what the number means.
 
+## Frequently asked questions
+
+**What is the difference between total utility and marginal utility?**
+Total utility is the overall satisfaction from the whole quantity consumed in a period. Marginal utility is the satisfaction from one additional unit, found as the change in total utility.
+
+**How does diminishing marginal utility explain a downward-sloping demand curve?**
+Each extra unit gives less satisfaction, so a consumer buys another unit only while its value is at least the price. More is therefore bought only at a lower price.
+
+**What is the difference between bounded rationality and bounded self-control?**
+Bounded rationality is a limit on information, time and processing ability, so choices fall short of fully rational. Bounded self-control is knowing the best action but failing to carry it out, often by overweighting the present.
+
+**What is anchoring?**
+Anchoring is over-relying on a first number seen, such as a high "was" price that makes a sale price look like a bargain.
+
+**Do I need equi-marginal utility for OxfordAQA 9640?**
+No. The OxfordAQA 9640 specification does not require the principle of equi-marginal utility, or its use to explain the inverse link between price and quantity.
+
 ## Official syllabus
 
 Source: the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, Oxford International AQA Examinations. Sections 3.3.1.1 and 3.3.1.2.
