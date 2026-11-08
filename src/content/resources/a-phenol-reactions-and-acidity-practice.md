@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-hydroxy-compounds"
     subtopic: "a-phenol"
-description: "Original exam-style practice questions with full worked answers on phenol's production, reactions and acidity, and the alcohol/acyl chloride reaction, for Cambridge A Level Chemistry 9701."
+description: "Practice questions with worked answers on making phenol, its reactions with bromine, nitric acid and sodium, and its acidity, for Cambridge 9701 Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 featured: false
@@ -119,3 +121,17 @@ C₆H₅N₂⁺Cl⁻ + H₂O → C₆H₅OH + N₂ + HCl
 - Forgetting that phenol reacts with NaOH but not with the weaker base NaHCO₃ — a common distinguishing test between a phenol and a carboxylic acid group.
 - Naming the ester product incorrectly, or forgetting HCl is also produced in the acyl chloride reaction.
 - Confusing the azo-coupling product with a simple substitution product, or omitting that the reaction needs alkaline conditions.
+
+## Frequently asked questions
+
+**Why does phenol not react with sodium hydrogencarbonate?**
+Phenol is a weaker acid than carbonic acid, so it cannot release CO₂ from HCO₃⁻. Phenol does react with NaOH(aq), which is how it is told apart from a carboxylic acid.
+
+**Why does phenol react with bromine water when benzene does not?**
+The oxygen lone pair in phenol delocalises into the ring, greatly increasing its electron density. The ring then reacts with Br₂(aq) without a catalyst, while benzene needs AlBr₃ to generate a strong enough electrophile.
+
+**Why does phenol react with NaOH but ethanol does not?**
+Phenol is acidic enough for NaOH(aq) to deprotonate it, forming sodium phenoxide and water. Ethanol's O–H is far less acidic, so it does not react with NaOH(aq) and reacts only with sodium metal.
+
+**Where are marks usually lost on phenol questions in Cambridge 9701?**
+Common errors include using benzene's harsh conditions for phenol's nitration or bromination, comparing phenol's acidity only with benzene instead of with water and ethanol, and forgetting that azo coupling needs alkaline conditions.

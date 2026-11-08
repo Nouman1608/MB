@@ -20,10 +20,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-an-introduction-to-a-level-organic-chemistry"
     subtopic: "a-shapes-of-aromatic-organic-molecules"
-description: "New A Level functional groups and naming, electrophilic substitution and addition-elimination terminology, and the shape of benzene, for Cambridge International AS & A Level Chemistry 9701."
+description: "New A Level functional groups and naming, electrophilic substitution and addition-elimination terms, and benzene's sp² shape, for Cambridge 9701 Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -247,6 +249,20 @@ of recognisable functional groups and ring-numbering for aromatics is new.
 - Benzene carbon: sp² hybridised, 120° bond angles, planar
 - σ bonds form the hexagonal skeleton; the unhybridised p orbitals overlap
   into one delocalised π system above and below the ring
+
+## Frequently asked questions
+
+**Why is benzene planar with 120° bond angles?**
+Each carbon in benzene is sp² hybridised, with three hybrid orbitals arranged 120° apart in a plane. These form σ bonds to two neighbouring carbons and one hydrogen, giving a flat hexagonal ring.
+
+**What is the delocalised π system in benzene?**
+Each carbon has an unhybridised p orbital perpendicular to the ring. These overlap sideways all the way round, so the six p electrons spread into one continuous ring of electron density above and below the plane, not three separate double bonds.
+
+**Do I need to name secondary and tertiary amines for Cambridge 9701?**
+No. Secondary and tertiary amines must be recognised and drawn, but naming them systematically is not required at this level.
+
+**How many carbons do naming questions cover in Cambridge A Level Chemistry?**
+Aliphatic naming in 9701 goes up to six carbons in the main chain, or six plus six for esters and amides, counting both sides of the linking group. Aromatic naming covers one benzene ring with simple substituents, such as 3-nitrobenzoic acid.
 
 ## Related resources
 

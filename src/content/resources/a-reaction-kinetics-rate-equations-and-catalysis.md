@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-reaction-kinetics"
     subtopic: "a-homogeneous-and-heterogeneous-catalysts"
-description: "Rate equations, orders of reaction, rate constants, reaction mechanisms, and homogeneous and heterogeneous catalysis, for Cambridge International AS & A Level Chemistry 9701."
+description: "Rate equations, orders of reaction, rate constants, mechanisms and rate-determining steps, and homogeneous and heterogeneous catalysis, for Cambridge 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -249,6 +251,23 @@ unchanged and available to react again.
   (different phase from reactants)
 - Homogeneous catalysis: consumed in one step, regenerated in a later step
   (same phase as reactants)
+
+## Frequently asked questions
+
+**How do you deduce orders of reaction from an initial-rates table?**
+Compare two experiments where only one concentration changes. If doubling it doubles the rate the order is 1, if the rate quadruples the order is 2, and if the rate is unchanged the order is 0.
+
+**How do you identify order from a rate–concentration graph?**
+A horizontal line shows zero order, a straight line through the origin shows first order, and an upward curve through the origin shows second order.
+
+**How do you deal with an intermediate in the rate-determining step?**
+Its concentration cannot be measured directly, so re-express it using a fast pre-equilibrium before the slow step. For 2NO + Br₂ → 2NOBr, this turns rate = k[NOBr₂][NO] into rate = k[NO]²[Br₂].
+
+**What is the difference between a reaction intermediate and a catalyst?**
+An intermediate is formed in one step and used up in a later step. A catalyst is used in one step and regenerated in a later step, so it does not appear in the overall equation.
+
+**How does a heterogeneous catalyst work?**
+Reactant molecules adsorb onto active sites on the catalyst surface, bonds within them are weakened so they react more easily, and the products then desorb. Iron in the Haber process works this way.
 
 ## Related resources
 
