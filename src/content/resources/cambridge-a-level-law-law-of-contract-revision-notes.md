@@ -86,7 +86,7 @@ to test yourself use the [Law of contract practice questions](/resources/cambrid
   Investments v Royal Trust Co of Canada, 1986).
 
 **Intention (3.1.3)** - Social/domestic: presumed no intention (Balfour v Balfour, 1919), rebutted on
-separation (Merritt v Merritt, 1969). Commercial: presumed intention (Edwards v Skyways, 1964),
+separation (Merritt v Merritt, 1970). Commercial: presumed intention (Edwards v Skyways, 1964),
 rebutted by an "honour clause" (Rose and Frank v Crompton, 1925).
 
 **Consideration (3.1.4)**

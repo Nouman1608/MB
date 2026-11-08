@@ -89,7 +89,7 @@ McArdle, 1951); existing duty (Stilk v Myrick, 1809; Williams v Roffey, 1991); p
 of Third Parties) Act 1999: a third party may enforce a term that expressly gives them the right or
 purports to benefit them.
 
-**Intention** - domestic: presumed absent (Balfour v Balfour, 1919), rebuttable (Merritt v Merritt, 1969);
+**Intention** - domestic: presumed absent (Balfour v Balfour, 1919), rebuttable (Merritt v Merritt, 1970);
 commercial: presumed present (Esso v Commissioners of Customs and Excise, 1976, discusses the presumption).
 
 ## Which terms does a contract contain?
