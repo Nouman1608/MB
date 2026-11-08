@@ -31,7 +31,9 @@ syllabusTopics:
 description: "Condensed Cambridge 9709 Paper 6 revision notes: Poisson, linear combinations, PDFs, confidence intervals, hypothesis tests and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -274,6 +276,23 @@ smallest n = 97
 - Hypotheses written in terms of x̄ or the observed count instead of μ, p or λ.
 - Two-tailed test compared with the full significance level in one tail.
 - Type II error probability found under H₀ instead of the stated alternative value.
+
+## Frequently asked questions
+
+**When can a binomial distribution be approximated by a Poisson distribution?**
+The 9709 syllabus guide is n > 50 and np < 5, approximately. Then use Po(np), with no continuity correction.
+
+**When can a Poisson distribution be approximated by a normal distribution?**
+When λ > 15, approximately. Use N(λ, λ) with a continuity correction.
+
+**What is the difference between X₁ + X₂ + X₃ and 3X?**
+Both have mean 3μ, but three separate items give variance 3σ², while one item tripled gives variance 9σ².
+
+**Why does the unbiased variance estimate divide by n − 1?**
+Dividing by n would, on average, underestimate the population variance. Dividing by n − 1 gives an estimate that is right on average, which is what unbiased means.
+
+**Which z-values are used for common confidence intervals?**
+From the critical values table: 90% uses 1.645, 95% uses 1.960, 98% uses 2.326 and 99% uses 2.576.
 
 ## Official syllabus
 

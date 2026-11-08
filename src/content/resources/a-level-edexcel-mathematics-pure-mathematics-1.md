@@ -14,10 +14,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
-description: "Algebra and functions, coordinate geometry, trigonometry, differentiation and integration -- the full content of Unit P1 for Pearson Edexcel International A Level Mathematics (YMA01)."
+description: "Edexcel International A Level Maths Unit P1 guide: indices, surds, quadratics, straight lines, sine and cosine rules, radians, and first calculus for YMA01."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -156,6 +158,22 @@ which needs logarithms not yet introduced). Fluency here pays off immediately in
   <figcaption>The quotient rule gives dy/dx = (1 − ln x)/x², which is zero at the maximum x = e.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What topics are in Edexcel IAL Pure Mathematics 1?**
+Unit P1 covers algebra and functions, straight-line coordinate geometry, trigonometry (sine and cosine rules, radians and trig graphs), differentiation of xⁿ with tangents and normals, and indefinite integration of xⁿ.
+
+**Are circles in Pure Mathematics 1 or Pure Mathematics 2?**
+In Pearson Edexcel International A Level Mathematics, P1 covers only straight lines. The coordinate geometry of circles is introduced in Pure Mathematics 2, so line-and-circle questions do not appear on the P1 paper.
+
+**Can you use a calculator in the P1 exam?**
+Yes. Calculators are permitted throughout the P1 exam, as in every unit of this qualification. Knowing exact trigonometric values for standard angles is a useful shortcut rather than a requirement.
+
+**Which award routes use Pure Mathematics 1?**
+P1 is required for every route. The International Advanced Subsidiary award (XMA01) needs P1, P2 and one applied unit, while the full International A Level (YMA01) needs P1 to P4 plus two applied units.
+
+**Why does integration in P1 exclude n = −1?**
+P1 integrates xⁿ only as the reverse of differentiation, and the case n = −1 needs logarithms, which have not yet been introduced at this stage of the course.
 
 ## Official syllabus
 

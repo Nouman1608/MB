@@ -19,7 +19,9 @@ syllabusTopics:
 description: "12 original Cambridge 9709 Paper 1 differentiation questions with mark-by-mark answers on the chain rule, normals, connected rates and stationary points."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -141,6 +143,23 @@ Related: the [study guide](/resources/a-level-maths-9709-pure-mathematics-1-diff
 - Stationary points given without y-coordinates, or their nature stated without evidence.
 - A method different from the one the question specifies ("by considering the sign of dy/dx").
 - Rounded intermediate values carried forward, so the final answer is wrong at 3 s.f.
+
+## Frequently asked questions
+
+**What should you do before differentiating roots and fractions of x?**
+Rewrite every term as a power of x, for example 6/x³ as 6x⁻³ and 4√x as 4x^(1/2). Then multiply by the power and reduce the power by one.
+
+**How do you show that a function is increasing in Cambridge 9709 Paper 1?**
+Differentiate and show that f′(x) > 0 for all x in the domain, giving a reason such as a squared term being at least zero, then state the conclusion.
+
+**How do you find the gradient of a normal?**
+Find the gradient of the tangent at the point and take its negative reciprocal, −1/m. Using −m instead is a common error.
+
+**How do you solve a connected rates of change question?**
+Write the chain rule in full, for example dV/dt = (dV/dh) × (dh/dt), differentiate first, and only then substitute the given value. Substituting before differentiating loses marks.
+
+**What counts as evidence for the nature of a stationary point?**
+Either the value of the second derivative at the point (positive for a minimum, negative for a maximum) or the sign of dy/dx on either side. If a question names the method, you must use that one.
 
 ## Next steps
 

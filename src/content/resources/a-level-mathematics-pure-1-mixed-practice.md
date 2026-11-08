@@ -30,10 +30,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "differentiation-cambridge-alevel-maths-1"
-description: "Original exam-style Pure Mathematics 1 questions with full worked answers: line and curve intersection, binomial coefficients, rates of change, trigonometric graphs, circles, stationary points, progressions and inverse functions, for Cambridge AS & A Level Mathematics 9709."
+description: "Original Cambridge 9709 Paper 1 mixed practice with worked answers on intersections, binomial terms, rates of change, circles, progressions and inverses."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
@@ -149,3 +151,20 @@ Each question practises a skill tested in the June 2025 Paper 1 series. After ea
 - The constant of integration missing, or not found from the given point.
 - Degrees used instead of radians in circle and arc questions.
 - The wrong sign of square root chosen for an inverse function.
+
+## Frequently asked questions
+
+**What topics does Cambridge 9709 Pure Mathematics 1 (Paper 1) cover?**
+This mixed set practises line and curve intersections, binomial coefficients, connected rates of change, trigonometric graphs, circles, stationary points, arithmetic and geometric progressions, and inverse functions.
+
+**How do you find where a line meets a curve?**
+Rearrange the linear equation for one variable and substitute it into the curve, then solve the resulting quadratic. Give each answer as a coordinate pair if coordinates are asked for.
+
+**How do you find a rate of change using the chain rule?**
+Write the chain rule in full, for example dy/dt = dy/dx × dx/dt, then find dy/dx at the given point and multiply by the known rate before substituting numbers.
+
+**How do you choose the sign of the square root when finding an inverse function?**
+The domain of f decides the sign: if f is defined for x ≥ 3, for example, take the root that gives values of at least 3. The range of f then becomes the domain of f⁻¹.
+
+**Should a calculator be in degrees or radians for circle questions in 9709?**
+Use radians for arcs, sectors and angles at the centre of a circle unless the question asks for degrees. Working in degrees by mistake is a common source of lost marks.

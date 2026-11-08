@@ -27,10 +27,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-3-cambridge-alevel"
     subtopic: "differential-equations-cambridge-alevel-maths"
-description: "Original exam-style questions with full worked answers on the modulus function, exponential equations, binomial expansions with negative and fractional powers, partial fractions, parametric differentiation, integration by parts and by substitution, and separable differential equations, for Cambridge International AS & A Level Mathematics (9709)."
+description: "Original Cambridge 9709 Pure Mathematics 3 questions with worked answers on modulus, binomial series, partial fractions, integration and differential equations."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
@@ -120,3 +122,20 @@ Each question practises a skill tested in Pure Mathematics 3, most of them skill
 - A repeated factor in partial fractions given only one fraction.
 - The constant of integration found after the logarithms have been removed, or missed altogether.
 - Limits left in terms of x after a substitution.
+
+## Frequently asked questions
+
+**What algebra and calculus topics are in Cambridge 9709 Pure Mathematics 3?**
+This set covers the modulus function, exponential equations, binomial expansions with negative and fractional powers, partial fractions, parametric differentiation, integration by parts and by substitution, and separable differential equations.
+
+**How do you solve an inequality with a modulus on both sides?**
+Because both sides are non-negative, you can square them and solve the resulting quadratic inequality. Then check which side of the critical values you need by testing a value such as x = 0.
+
+**How do you write partial fractions for a repeated factor?**
+A repeated factor such as (x + 2)² needs two fractions, one over (x + 2) and one over (x + 2)². Leaving one out makes the identity impossible to satisfy.
+
+**When is a binomial expansion with a fractional power valid?**
+An expansion of (1 + ax)ⁿ with n not a positive integer is valid only when |ax| < 1. For (1 + 4x)^(−½), for example, that means |x| < ¼.
+
+**Which part should be u in integration by parts?**
+When one factor is a logarithm or an inverse trigonometric function, let u be that factor, because it becomes simpler when you differentiate it.

@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Condensed recall notes on completing the square, the discriminant, quadratic inequalities and disguised quadratics for Cambridge AS & A Level Mathematics 9709."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -167,3 +169,19 @@ x - 7 sqrt(x) + 12 = 0    let u = sqrt(x)  ->  u^2 - 7u + 12 = 0
   <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you complete the square when the coefficient of x² is not 1?**
+Factor a out of the x² and x terms only, complete the square inside the bracket, then multiply back. Forgetting to multiply the constant inside the bracket by a is the classic slip.
+
+**How do you read the vertex from completed square form?**
+For a(x + p)² + q the vertex is at (−p, q) and the line of symmetry is x = −p. If a > 0, q is the minimum value; if a < 0, it is the maximum.
+
+**What conditions make a quadratic positive for all values of x?**
+Two conditions are needed: a > 0 and b² − 4ac < 0. Giving only the discriminant condition loses a mark.
+
+**How do you solve a disguised quadratic such as x − 7√x + 12 = 0?**
+Substitute u for the repeated function (here u = √x) to get a quadratic in u, solve it, then substitute back to find x. Reject impossible values, such as a negative √x or a negative 2ˣ.
+
+**Why should you sketch a graph for a quadratic inequality in Cambridge 9709?**
+The direction of the answer depends on whether the parabola is above or below the axis, so a quick sketch shows whether the solution lies between the roots or outside them.

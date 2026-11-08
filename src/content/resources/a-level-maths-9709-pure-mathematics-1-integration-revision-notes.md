@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Condensed revision notes for Cambridge 9709 Paper 1 section 1.8 Integration: key formulae, method steps, area and volume checks and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -237,6 +239,22 @@ x² = y, so V = π ∫₀⁴ y dy = π[y²/2]₀⁴ = 8π
   <figcaption>Integrating gives a family of curves; a known point picks out one of them.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What integration is in Cambridge 9709 Pure Mathematics 1?**
+Section 1.8 covers integration as the reverse of differentiation, integrating (ax + b)ⁿ for rational n except −1, finding constants, definite and simple improper integrals, areas, and volumes of revolution about either axis.
+
+**What is the difference between an indefinite and a definite integral?**
+An indefinite integral is a function and needs + c. A definite integral is a number found by substituting the limits, and has no constant.
+
+**Can you integrate (x² − 1)⁴ with the (ax + b)ⁿ rule?**
+No. That rule only works for a linear bracket such as (3x − 1)⁴. A non-linear bracket must be expanded first.
+
+**Why is ∫ x⁻¹ dx not covered in Paper 1?**
+The power rule fails for n = −1 because it would mean dividing by zero. Its integral is ln x, which belongs to Paper 2 and Paper 3.
+
+**How do you find a volume of revolution about the y-axis?**
+Make x the subject, square it, and use π ∫ x² dy with y-values as the limits.
 
 ## Official syllabus
 

@@ -14,10 +14,12 @@ syllabusTopics:
     topic: "pure-mathematics-2-cambridge-alevel"
 seoTitle: "Cambridge 9709 Pure Mathematics 2 (P2) Topics 2026–2027"
 seoDescription: "Every Pure Mathematics 2 topic in Cambridge 9709 (2026–2027): algebra, logs and exponentials, trigonometry, differentiation, integration and numerical methods."
-description: "Algebra, logarithmic and exponential functions, trigonometry, differentiation, integration and numerical solution of equations -- the full content of Pure Mathematics 2 for Cambridge International AS & A Level Mathematics 9709, 2026-2027 series."
+description: "Cambridge 9709 Pure Mathematics 2 guide for 2026-2027: modulus and polynomials, logs and exponentials, trigonometry, calculus and numerical methods for Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -157,6 +159,22 @@ always obvious from the syllabus content list alone.
   <figcaption>One cubic shows roots, turning points and signed versus total area.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What topics are in Cambridge 9709 Pure Mathematics 2?**
+Pure Mathematics 2 covers algebra (the modulus function and polynomial division), logarithmic and exponential functions, trigonometry, differentiation, integration including the trapezium rule, and numerical solution of equations.
+
+**Can you take both Paper 2 and Paper 3 in 9709?**
+No. Candidates may not take both Paper 2 and Paper 3 in the same examination series. Paper 2 belongs to the Pure Mathematics only AS route, while the full A Level uses Paper 3.
+
+**What combinations of papers give the 9709 AS Level and A Level?**
+AS Level Mathematics is Paper 1 with Paper 2, Paper 4 or Paper 5. A Level Mathematics is Papers 1 and 3 with either Papers 4 and 5 or Papers 5 and 6.
+
+**Does the trapezium rule give an overestimate or underestimate?**
+It depends on the shape of the curve, and Pure Mathematics 2 expects you to recognise which it is for a given function as part of section 2.5.
+
+**What is the best habit before differentiating or integrating in Paper 2?**
+Check whether the expression can be simplified algebraically, for example with a logarithm law or a trigonometric identity, before you start. This often saves time and avoids errors.
 
 ## Official syllabus
 
