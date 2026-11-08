@@ -137,6 +137,20 @@ Answers show each creditworthy step with a number in square brackets, and the bo
 - Stating that a payments surplus raises the money supply without mentioning the fixed rate or intervention.
 - Making an evaluation point with no condition or conclusion.
 
+## Frequently asked questions
+
+**What is the difference between the reserve ratio and the capital ratio?**
+The reserve ratio is a bank's cash and reserves divided by its deposits. The capital ratio is its capital (equity) divided by total assets. Mixing the two up is a common way to lose marks in Cambridge 9708 money and banking questions.
+
+**How do you calculate the credit created by the bank credit multiplier?**
+Total deposits equal the initial deposit multiplied by 1 divided by the reserve ratio. To find the extra credit created, subtract the initial deposit, and state that the result is a maximum.
+
+**How should you explain quantitative easing in an exam answer?**
+Give the chain of reasoning: the central bank creates reserves and buys bonds, bond prices rise and yields fall, and banks may lend more, raising spending. Describing QE simply as "printing money" without this chain earns little credit.
+
+**Does a balance of payments surplus always increase the money supply?**
+Not automatically. The inflow raises the money supply when the central bank intervenes to hold a fixed exchange rate and does not sterilise it, so say this condition in your answer.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/cambridge-a-level-economics-money-banks-and-the-money-supply/) for any part you got wrong.

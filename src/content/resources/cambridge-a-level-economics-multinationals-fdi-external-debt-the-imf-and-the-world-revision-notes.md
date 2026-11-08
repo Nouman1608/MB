@@ -237,6 +237,20 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 - Listing IMF conditions without their effects on output and living standards.
 - Not using the figures in the data when asked to.
 
+## Frequently asked questions
+
+**What is a multinational company?**
+A multinational company (MNC) is a firm that owns or controls production or service operations in more than one country. Activities include splitting production across countries, trading within the group and setting transfer prices.
+
+**What is the difference between the debt to GNI ratio and the debt service ratio?**
+The debt to GNI ratio compares the stock of external debt with gross national income. The debt service ratio compares yearly interest and principal payments with export earnings.
+
+**How does transfer pricing reduce tax revenue for a host country?**
+An MNC charges its subsidiary for internal goods or services so that reported profit falls in a high-tax country and rises in a low-tax one. The host country collects less tax on the profit actually earned there.
+
+**What is the difference between the IMF and the World Bank?**
+The IMF deals with short-run balance of payments problems and macroeconomic stability, mainly through temporary loans with policy conditions. The World Bank funds long-run development and poverty reduction through project loans, grants and advice.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), outcomes 11.5.3 to 11.5.7.

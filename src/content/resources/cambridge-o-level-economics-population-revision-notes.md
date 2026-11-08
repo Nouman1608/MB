@@ -219,6 +219,20 @@ Use these to turn a list into a judgement:
 - Giving only benefits or only costs when the question asks for evaluation.
 - Treating population growth as always bad or always good. It depends on the starting point relative to the optimum.
 
+## Frequently asked questions
+
+**How do you find the optimum population from a table?**
+Work out output per head (total output divided by population) for each row. The optimum population is the size at which output per head peaks, not the largest population or the one with the most total output.
+
+**What are push and pull factors in migration?**
+Push factors drive people out of a country, such as unemployment, low wages and conflict. Pull factors draw people in, such as jobs, higher wages, better services and safety.
+
+**Is population growth good or bad for an economy?**
+It depends on where the country is relative to its optimum population. Growth can bring more workers and a bigger market, but can also put pressure on land, housing and public services.
+
+**How do you estimate the growth of real GDP per head?**
+A quick estimate is the growth rate of real GDP minus the growth rate of population. For example, real GDP growth of 3.6% and population growth of 2.4% give about 1.2%.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press and Assessment (Cambridge International Education). Section 5.3: Population.

@@ -247,6 +247,20 @@ The central bank creates reserves and buys assets, mostly government bonds, to r
 - Stating that a payments surplus raises the money supply without saying that this needs a fixed exchange rate or central bank intervention.
 - Listing a conclusion on evaluation questions without a judgement tied to conditions, such as spare capacity or bank willingness to lend.
 
+## Frequently asked questions
+
+**What are the four functions of money?**
+Money acts as a medium of exchange, a store of value, a unit of account and a standard of deferred payment. Defining money by one function only, usually the medium of exchange, is a common error.
+
+**What does MV = PT mean?**
+M is the money supply, V the velocity of circulation, P the average price level and T the number of transactions. It is an identity; it only predicts that more money causes inflation if V and T are assumed constant.
+
+**Why do the liquidity, security and profitability objectives of banks conflict?**
+Cash is perfectly liquid but earns nothing, safe lending earns a lower interest rate, and loans are the most profitable but least liquid assets. A bank therefore holds a spread of cash, securities and loans.
+
+**Does a bank's own cash count as part of the money supply?**
+No. The money supply is the total money in the economy at a point in time, and cash held by banks as their own holdings is not counted.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), outcomes 9.4.1 to 9.4.5.

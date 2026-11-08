@@ -134,6 +134,20 @@ These questions cover part of section 7.6.4 of the Cambridge International AS an
 - Listing advantages and disadvantages with no final judgement.
 - Failing to use the figures given when asked to comment.
 
+## Frequently asked questions
+
+**Does a contestable market need many firms?**
+No. A contestable market can have one or two firms; what matters is that entry and exit are easy, so the threat of entry disciplines incumbents. Assuming it must have many firms is a common error.
+
+**How do you find a dominant strategy in a pay-off matrix?**
+Take one firm's view and check its best choice against each of the rival's options in turn. A strategy is dominant only if it is best whatever the rival does, so checking just one option loses marks.
+
+**How do you check a limit price in a contestable market calculation?**
+Show that at the limit price, price equals average cost so profit is zero. Giving the price without this check is a common way to lose marks.
+
+**What makes a good conclusion in a Cambridge 9708 oligopoly evaluation question?**
+Give a final judgement based on clear criteria, such as the time period, the number of firms or the height of barriers, and use any figures given. Listing advantages and disadvantages with no judgement is not enough.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price-revision-notes/) and [study guide](/resources/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price/).

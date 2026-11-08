@@ -133,6 +133,20 @@ These questions cover section 5.2 (Poverty, 5.2.1 to 5.2.3) of the Cambridge O L
 - Calculating a tax as one rate on the whole income instead of by band.
 - Giving evaluation with no figures and no final judgement.
 
+## Frequently asked questions
+
+**Why is the median used to set a relative poverty line?**
+The median is the middle income when incomes are ranked, and it is not pulled upwards by a few very high incomes in the way the mean is. Using the mean is a common error.
+
+**How do you compare a household with a per-person poverty line?**
+Divide household income by the number of people in the household first, then compare the result with the line. Comparing total household income with a per-person line loses marks.
+
+**How do you calculate tax under a progressive system with bands?**
+Apply each rate only to the part of income that falls in its band and add the results. Applying one rate to the whole income is a common error.
+
+**What does a good evaluation of anti-poverty policy include in Cambridge O Level 2281?**
+Use figures where the question gives them and finish with a judgement that chooses a policy and gives a reason. Evaluation with no figures and no final judgement is one of the listed ways marks are lost.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/cambridge-o-level-economics-poverty-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-poverty/).

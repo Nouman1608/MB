@@ -164,6 +164,20 @@ Questions 2 to 8 and 10 use this table for the island of Kellan, which makes onl
 - Shifting the whole curve when only one good has improved.
 - Evaluation with no judgement.
 
+## Frequently asked questions
+
+**What does a point inside a production possibility curve show?**
+A point inside the PPC shows that resources are not fully used, for example because of unemployment. To call a point inside or outside, compare it with the curve at the same output of one good.
+
+**Is a movement along a PPC the same as economic growth?**
+No. A movement along the curve shows the economy switching resources from one good to the other. Economic growth is shown by an outward shift of the curve.
+
+**How should opportunity cost be stated in a PPC question?**
+State it in units of the other good given up, per unit of the good gained, not in money. Forgetting "per unit" is a common error.
+
+**Which Cambridge O Level 2281 section covers PPC diagrams?**
+Section 1.4 of the Cambridge O Level Economics 2281 syllabus covers the definition, drawing and interpretation of a PPC, points under, on and beyond it, movements along it and shifts of it.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/o-level-economics-basic-economic-problem-revision-notes/) and [study guide](/resources/the-basic-economic-problem/).

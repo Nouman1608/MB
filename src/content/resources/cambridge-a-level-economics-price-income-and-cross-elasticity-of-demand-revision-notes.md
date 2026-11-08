@@ -225,6 +225,20 @@ Total expenditure = price × quantity.
 - Giving factors as a list, without saying which way each factor moves elasticity.
 - Ending a decision-making answer with no judgement about the reliability of the estimate.
 
+## Frequently asked questions
+
+**What affects the size of cross elasticity of demand?**
+XED depends on how closely the two goods are substitutes or complements, and on how broadly each good is defined. Close substitutes have a high positive XED, while unrelated goods have an XED close to zero.
+
+**What is the difference between PED, YED and XED?**
+PED measures how quantity demanded responds to a change in the good's own price. YED measures the response to a change in income, and XED the response to a change in the price of another good.
+
+**What does a YED above +1 mean?**
+Demand is income elastic: it rises by a larger percentage than income. Such goods are called luxuries in the textbook sense, such as restaurant meals.
+
+**Does a price cut always raise revenue?**
+No. A price cut raises revenue only if demand is price elastic. If demand is inelastic, revenue falls, so check the PED before stating the effect.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 2.2 (Cambridge University Press & Assessment).

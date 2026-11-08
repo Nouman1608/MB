@@ -194,6 +194,23 @@ For the monopoly, the deadweight loss is the area bounded by demand, MC and the 
 
 For timed practice, use the [practice set](/resources/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic-practice/) and the free [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the rule for profit maximisation?**
+Every firm maximises profit where marginal revenue equals marginal cost, with MC cutting MR from below. Comparing price with average total cost at that output shows whether profit is supernormal, normal or a loss.
+
+**Why does a monopoly's marginal revenue curve lie below its demand curve?**
+A monopoly faces the downward-sloping market demand curve, so to sell an extra unit it must cut the price on every unit. Marginal revenue is therefore less than price.
+
+**Can a monopoly keep supernormal profit in the long run?**
+Yes. Barriers to entry stop new firms from entering, so supernormal profit can persist in the long run. In monopolistic competition, by contrast, free entry removes supernormal profit.
+
+**Is a monopoly always less efficient than perfect competition?**
+Not always. A monopoly sets price above marginal cost, so it is allocatively inefficient, but large economies of scale may give it lower costs, and supernormal profit can fund research.
+
+**Where does a monopoly's total revenue reach its maximum?**
+Total revenue is at its maximum where marginal revenue is zero, which is where price elasticity of demand equals 1. Where MR is positive, demand is elastic.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment, section 7.6.4 (part).

@@ -225,6 +225,23 @@ The central bank can **sterilise** the inflow by selling 100 million kora of bon
 - Counting a bank's own cash holdings as part of the money supply.
 - Giving one deficit-financing outcome without saying who buys the bonds.
 
+## Frequently asked questions
+
+**What is the difference between narrow money and broad money?**
+Narrow money is notes and coins held by the public plus demand (current account) deposits. Broad money adds savings deposits, so moving funds from savings to current accounts changes narrow money but leaves broad money unchanged.
+
+**What are the weaknesses of the quantity theory of money?**
+Velocity is not constant, transactions are not fixed when there is spare capacity, the money supply may respond to the demand for loans, and there are time lags between changes in M and P.
+
+**Why is the bank credit multiplier only a maximum?**
+It assumes banks keep exactly the required reserve ratio and that all new money stays in the banking system. If banks keep higher reserves or people hold cash instead, fewer deposits are created.
+
+**How does government deficit financing affect the money supply?**
+It depends on who buys the government's bonds. Bonds bought by the non-bank public move existing money around, while bonds bought by commercial banks or the central bank add to the money supply.
+
+**Which part of the Cambridge 9708 syllabus covers money and banking?**
+Money and banking is syllabus section 9.4 of Cambridge International AS and A Level Economics 9708, outcomes 9.4.1 to 9.4.5. It is A Level content.
+
 ## Next steps
 
 Test yourself with the [practice set](/resources/cambridge-a-level-economics-money-banks-and-the-money-supply-practice/) and condense the unit with the [revision notes](/resources/cambridge-a-level-economics-money-banks-and-the-money-supply-revision-notes/). Run the [diagnostics](/diagnostics/) to find weak spots.

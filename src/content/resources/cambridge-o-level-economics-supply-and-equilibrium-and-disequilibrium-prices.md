@@ -210,6 +210,20 @@ After the tax, supply is Qs = 4P - 60, so 220 - 4P = 4P - 60 gives P = 35 and Q 
 - Reading equilibrium sales from the wrong schedule. Use the quantity where the two columns match.
 - Describing a shift of demand when the question asks about supply.
 
+## Frequently asked questions
+
+**How do you find equilibrium from demand and supply equations?**
+Set quantity demanded equal to quantity supplied and solve for the price, then substitute that price back into either equation to find the equilibrium quantity.
+
+**Why is market supply flatter than a single firm's supply curve?**
+Each price brings out output from all the sellers in the market, so market supply responds more to price than any one firm's supply does. A change in the number of sellers shifts the whole market curve.
+
+**When should you say "movement" and when "shift"?**
+Say movement along the supply curve when the good's own price changes. Say shift when any other condition of supply changes, such as costs, technology or taxes.
+
+**Which Cambridge O Level 2281 sections cover supply and price determination?**
+Section 2.4 covers supply and section 2.5 covers price determination, including equilibrium and disequilibrium, in the Cambridge O Level Economics 2281 syllabus.
+
 ## Official syllabus
 
 This page follows the Cambridge O Level Economics 2281 syllabus for examination in 2026 (version 2), published by Cambridge Assessment International Education. It covers sections 2.4 and 2.5.

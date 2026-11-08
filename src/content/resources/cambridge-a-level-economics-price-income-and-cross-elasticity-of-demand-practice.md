@@ -146,6 +146,20 @@ Evaluate whether the company should raise the fare to increase revenue. **[8]**
 - Naming a factor affecting elasticity without explaining the direction.
 - Concluding an evaluation question with a summary and no judgement.
 
+## Frequently asked questions
+
+**Which price goes in the XED formula?**
+The price of the other good. XED is the percentage change in quantity demanded of good A divided by the percentage change in the price of good B.
+
+**Is a PED of 0.75 or 0.9 elastic?**
+No. A PED with a size between 0 and 1 is inelastic, because quantity demanded changes by a smaller percentage than price. Demand is elastic only when the size is greater than 1.
+
+**Why does the sign of YED and XED matter?**
+The sign shows the type of good. A positive YED means a normal good and a negative YED an inferior good; a positive XED means substitutes and a negative XED complements.
+
+**How do you finish a Cambridge 9708 evaluation question on elasticity?**
+End with a judgement, not just a summary. For decision-making questions, comment on how reliable the estimate is, since coefficients come from past data and assume ceteris paribus.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand/).

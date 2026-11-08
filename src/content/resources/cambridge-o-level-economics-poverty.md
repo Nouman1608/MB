@@ -208,6 +208,20 @@ A good answer chooses: for urgent absolute poverty, benefits; for long-run escap
 - Stating a policy without a limitation, or a limitation without saying why it matters.
 - Assuming the minimum wage always causes unemployment. It depends on elasticity.
 
+## Frequently asked questions
+
+**How does progressive taxation redistribute income?**
+In Cambridge O Level Economics 2281, a progressive tax is one where the percentage of income paid rises as income rises, so richer households pay a larger share. This narrows the gap between the richest and poorest incomes after tax, though high marginal rates may reduce effort or encourage avoidance.
+
+**Does a minimum wage always cause unemployment?**
+No. A minimum wage set above the market wage can reduce employment, but the more elastic the demand for labour, the larger the job loss. A minimum set near the market wage does little either way.
+
+**Why might more generous benefits not solve poverty?**
+Benefits act quickly and raise the income of poor households directly, but they cost taxpayers and may require higher tax or borrowing. They can also reduce the incentive to work.
+
+**Which policy is best for reducing poverty?**
+It depends on the type of poverty. For urgent absolute poverty, benefits act fastest; for a long-run escape from poverty, education and economic growth matter more.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education): section 5.2.

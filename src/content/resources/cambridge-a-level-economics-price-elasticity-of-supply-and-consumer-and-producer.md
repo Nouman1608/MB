@@ -289,6 +289,23 @@ Working for the first column: producer surplus rises by (45 - 40) x (600 + 850) 
 - Saying consumer surplus must fall whenever price rises, even when demand has risen.
 - Giving a factor affecting PES without saying why it makes supply more or less elastic.
 
+## Frequently asked questions
+
+**What happens in a market when PES is low?**
+If PES is low, a rise in demand cannot be met quickly, so shortages last and the price rises sharply. The more inelastic supply is, the more a demand shift changes price rather than quantity.
+
+**Can PES be negative?**
+For most goods PES is positive because price and quantity supplied move in the same direction. A negative value can occur, for example when a worker offered higher pay chooses to supply fewer hours.
+
+**What are the limits of consumer surplus as a measure of benefit?**
+Willingness to pay depends on income, so consumer surplus ignores who is rich or poor. Real demand and supply curves are also hard to measure, so surplus figures are estimates.
+
+**Why does a per-unit tax reduce total surplus?**
+A tax raises the price consumers pay, lowers the price producers keep and cuts the quantity traded. Units that were worth making are no longer traded, so some total surplus is lost even after counting the tax revenue.
+
+**Which Cambridge 9708 sections cover PES and consumer and producer surplus?**
+Section 2.3 covers price elasticity of supply and section 2.5 covers consumer and producer surplus in the Cambridge International AS and A Level Economics 9708 syllabus.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 2.3 and 2.5 (Cambridge University Press & Assessment).

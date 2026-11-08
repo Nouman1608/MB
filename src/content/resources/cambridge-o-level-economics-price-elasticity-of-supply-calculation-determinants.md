@@ -199,6 +199,20 @@ The same rise in demand causes a large price rise and a small output rise where 
 - Mixing PES determinants with PED determinants, such as substitutes.
 - Discussing significance without naming who is affected and how.
 
+## Frequently asked questions
+
+**How do you use PES to find a change in quantity supplied?**
+Multiply the PES by the percentage change in price. For example, with a PES of 1.5, an 8% price rise increases quantity supplied by 12%.
+
+**What words should a definition of PES include?**
+Use the words responsiveness, quantity supplied and price: PES measures how far the quantity supplied of a good responds when its price changes.
+
+**Why might a subsidy fail to raise output much?**
+If supply is inelastic, a subsidy shifts supply to the right but adds little to output in the short run, while still costing the government money.
+
+**Is the PES of a good fixed?**
+No. PES depends on the time period and on current spare capacity, so a figure calculated for one period may not hold in another.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 2.8 Price elasticity of supply (PES), covering 2.8.1 definition, 2.8.2 calculation, 2.8.3 determinants and 2.8.4 significance.

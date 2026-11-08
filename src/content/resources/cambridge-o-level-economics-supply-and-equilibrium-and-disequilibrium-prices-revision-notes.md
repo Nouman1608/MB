@@ -229,6 +229,20 @@ Checklist for every diagram: axes labelled Price and Quantity; each curve labell
 </figure>
 
 
+## Frequently asked questions
+
+**What are the conditions of supply?**
+They are factors other than the good's own price that change how much producers offer, such as costs of production, technology, indirect taxes, subsidies, the number of sellers and the weather.
+
+**What happens to price when there is a surplus?**
+Unsold stock builds up, so sellers cut prices. Quantity demanded extends and quantity supplied contracts until the market returns to equilibrium.
+
+**How does an indirect tax affect supply?**
+An indirect tax on sellers raises the cost of supplying each unit, so supply decreases and the supply curve shifts left (or up).
+
+**Why does a supply curve slope upwards?**
+A higher price means more revenue on each unit, producing extra units often costs more, and a high price attracts new sellers into the market.
+
 ## Official syllabus
 
 This page follows the Cambridge O Level Economics 2281 syllabus for examination in 2026 (version 2), published by Cambridge Assessment International Education. It covers sections 2.4 and 2.5.
