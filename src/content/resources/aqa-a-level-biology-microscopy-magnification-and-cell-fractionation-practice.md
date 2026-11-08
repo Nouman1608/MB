@@ -167,6 +167,20 @@ These questions are aligned to section 3.2.1.3, Methods of studying cells, in th
 - Check your level: all free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.2.1.3, Methods of studying cells, in AQA A-level Biology 7402: microscopes, magnification, graticules, cell fractionation and artefacts.
+
+**Does magnification have a unit?**
+No. Give magnification without a unit, but always give a unit for a size. Putting the units the wrong way round is a common error.
+
+**What should you show when calibrating a graticule?**
+Show how the stage divisions were converted into the length of one eyepiece division. A calibration without this working can lose marks.
+
+**Are these AQA past paper questions?**
+No. They are original practice questions with worked answers. Use them alongside official AQA past papers.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, exams June 2016 onwards, Version 1.5, published by AQA. Section 3.2.1.3 Methods of studying cells.

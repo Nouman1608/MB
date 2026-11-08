@@ -165,6 +165,20 @@ Read the [study guide](/resources/aqa-a-level-biology-monomers-polymers-and-carb
 - Check progress against the [printable checklist](/checklists/aqa/a-level/biology/) and the [course hub](/boards/aqa/a-level/biology/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.1.1 (Monomers and polymers) and 3.1.2 (Carbohydrates) of AQA A-level Biology 7402.
+
+**Does Rf have units?**
+No. Rf has no units, and both distances must be measured from the same baseline (the origin).
+
+**What should you add when stating a feature of starch or glycogen?**
+Link the feature to its function. Stating features without linking them to function is a common way to lose marks.
+
+**Are these AQA past paper questions?**
+No. They are original practice questions with worked answers. Read the study guide first, then use them alongside official past papers.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), version 1.5, for exams from June 2016 onwards. Sections 3.1.1 and 3.1.2.

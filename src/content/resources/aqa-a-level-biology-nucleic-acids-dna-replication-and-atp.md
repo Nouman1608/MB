@@ -244,6 +244,23 @@ ATP is **resynthesised by the condensation of ADP and Pi**, catalysed by **ATP s
 
 Work through the [revision notes](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp-revision-notes/), then the [practice questions](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp-practice/).
 
+## Frequently asked questions
+
+**What are the roles of DNA and RNA?**
+In all living cells DNA holds genetic information, and RNA transfers genetic information from DNA to the ribosomes.
+
+**What is semi-conservative replication?**
+Each new DNA molecule has one original strand and one newly made strand, which ensures genetic continuity between generations.
+
+**How did the Meselson-Stahl experiment support semi-conservative replication?**
+Bacteria grown in heavy nitrogen were moved to light nitrogen. After one generation there was a single intermediate band, which ruled out conservative replication, and later generations matched the semi-conservative prediction.
+
+**Why is ATP described as a nucleotide derivative?**
+ATP is built like a nucleotide, from adenine, ribose and phosphate, but it has three phosphate groups.
+
+**How is ATP used in cells?**
+ATP hydrolysis can be coupled to energy-requiring reactions, and the released phosphate can phosphorylate other compounds, often making them more reactive.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* (7401 and 7402), specification for first teaching 2015, sections 3.1.5.1, 3.1.5.2 and 3.1.6.

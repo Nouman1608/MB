@@ -224,6 +224,23 @@ Then say why: the first pellet formed at the lowest speed, so it holds the large
 - Giving a magnification with a unit, or a size without one.
 - Treating every unfamiliar structure in an image as an organelle, rather than considering preparation artefacts.
 
+## Frequently asked questions
+
+**Why do electron microscopes have a higher resolution than optical microscopes?**
+Electrons have a much shorter wavelength than light, so electron microscopes can distinguish points much closer together. Answering "higher magnification" instead of resolution is a common error.
+
+**What is the difference between a TEM and an SEM?**
+A TEM passes electrons through a thin slice and shows internal structure in 2D. An SEM scans the surface and gives a 3D image.
+
+**Why is tissue homogenised in a cold, isotonic, buffered solution?**
+Cold reduces enzyme activity, isotonic solution has the same water potential so organelles do not gain or lose water by osmosis, and the buffer keeps the pH constant so proteins are not denatured.
+
+**In what order do organelles separate in ultracentrifugation?**
+Nuclei first, then chloroplasts (in plants), mitochondria, lysosomes, endoplasmic reticulum and finally ribosomes, as the speed increases.
+
+**How can scientists tell an organelle from an artefact?**
+A real organelle appears after different preparation methods, with different microscopes and in work by different research groups, and it can be linked to a function.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, exams June 2016 onwards, Version 1.5, published by AQA. Section 3.2.1.3 Methods of studying cells.

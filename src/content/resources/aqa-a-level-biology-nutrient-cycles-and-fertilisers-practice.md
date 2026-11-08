@@ -162,6 +162,20 @@ These questions cover section 3.5.4 Nutrient cycles of the AQA AS and A-level Bi
 - Use the [free diagnostics](/diagnostics/) to pick your next topic.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.5.4, Nutrient cycles, in AQA A-level Biology 7402, including fertiliser calculations and data tasks.
+
+**Should you write "nutrients" in nutrient cycle answers?**
+Name the ions, such as nitrate or phosphate, when the question asks for them. Writing "nutrients" or "minerals" is a common way to lose marks.
+
+**How do you calculate a percentage change?**
+Divide the change by the original value, not the new value, then multiply by 100.
+
+**How should you answer an evaluation question in this topic?**
+Give points on more than one side before reaching a judgement. A one-sided answer loses marks.
+
 ## Official syllabus
 
 These questions follow section 3.5.4 Nutrient cycles in the *AQA AS and A-level Biology specification* (7401 and 7402), first teaching 2015, published by AQA.

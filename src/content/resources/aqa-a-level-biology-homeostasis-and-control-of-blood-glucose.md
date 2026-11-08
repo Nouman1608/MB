@@ -215,6 +215,23 @@ Read from the curve only within the range of the standards. If the sample is bey
 - Mixing up glycogenesis (making glycogen) and glycogenolysis (breaking it down).
 - Leaving out adenylate cyclase or the conversion of ATP to cAMP in a second messenger answer.
 
+## Frequently asked questions
+
+**What are glycogenesis, glycogenolysis and gluconeogenesis?**
+Glycogenesis is the conversion of glucose to glycogen. Glycogenolysis is the hydrolysis of glycogen to glucose. Gluconeogenesis is the formation of glucose from non-carbohydrates such as glycerol and amino acids.
+
+**Which cells detect blood glucose concentration?**
+The beta cells of the islets of Langerhans in the pancreas detect a rise in blood glucose and secrete insulin; alpha cells secrete glucagon when it falls.
+
+**What causes type I and type II diabetes?**
+Type I diabetes is caused by the body's immune system destroying the beta cells, so little insulin is made. Type II diabetes is caused by receptors on target cells losing responsiveness to insulin.
+
+**Why does a small amount of adrenaline or glucagon give a large response?**
+In the second messenger model, each active enzyme activates many molecules of the next enzyme in a cascade, so the signal is amplified.
+
+**What is the aim of Required Practical 11?**
+To find the glucose concentration of an unknown "urine" sample by making a dilution series, measuring each with Benedict's reagent and a colorimeter, and reading the unknown from a calibration curve.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification for first teaching 2015, published by AQA (sections 3.6.4.1 and 3.6.4.2, with Required practical 11).

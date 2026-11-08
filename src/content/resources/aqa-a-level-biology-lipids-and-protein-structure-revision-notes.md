@@ -236,6 +236,23 @@ Always say what the result shows, not only the colour. A control tube of water c
 - Giving the emulsion result as a colour change, when it is cloudiness.
 - Writing 80 peptide bonds for a chain of 80 amino acids.
 
+## Frequently asked questions
+
+**How is a triglyceride formed?**
+One glycerol joins with three fatty acids in three condensation reactions, each releasing one water molecule, forming three ester bonds.
+
+**How do you spot an unsaturated fatty acid in a diagram?**
+Follow the hydrocarbon chain from the COOH end. Any C=C double bond means it is unsaturated; only single bonds means it is saturated.
+
+**Why are triglycerides good energy stores?**
+Their long hydrocarbon chains contain many C–H bonds, so they release more energy per gram than carbohydrate, and being non-polar and insoluble they have no effect on water potential.
+
+**What does the biuret test detect?**
+The biuret test detects peptide bonds, so it identifies proteins rather than individual amino acids.
+
+**What is the difference between an ester bond and a peptide bond?**
+Ester bonds join fatty acids to glycerol in lipids. Peptide bonds join amino acids in proteins.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, for first teaching 2015, published by AQA: sections 3.1.3 and 3.1.4.1.

@@ -237,6 +237,23 @@ When a graph or table shows nitrate, algae and oxygen over time, take these step
 </figure>
 
 
+## Frequently asked questions
+
+**How do saprobionts decompose dead material?**
+They secrete enzymes onto dead material, which hydrolyse large molecules into small soluble ones. The saprobionts absorb the products and respire some of them, releasing ammonium and phosphate ions. This is extracellular digestion.
+
+**What are mycorrhizae?**
+Mycorrhizae are mutualistic associations between fungi and plant roots. The thin, extensive hyphae increase the surface area for absorbing water and inorganic ions, and the fungus gains organic compounds from the plant.
+
+**What are the steps of eutrophication?**
+Nitrate and phosphate enter water, algae grow into a bloom that blocks light, submerged plants die, saprobionts feed on the dead matter and respire aerobically, oxygen falls and fish suffocate.
+
+**How do you calculate the percentage of nitrogen in a fertiliser?**
+Work out the mass of nitrogen in one formula unit, divide by the Mr and multiply by 100. For ammonium nitrate, 28 ÷ 80 × 100 = 35%.
+
+**Do I need to know the species names of nitrogen cycle bacteria for AQA?**
+No. The notes state that species names of the bacteria are not required.
+
 ## Official syllabus
 
 These notes follow section 3.5.4 Nutrient cycles in the *AQA AS and A-level Biology specification* (7401 and 7402), first teaching 2015, published by AQA.

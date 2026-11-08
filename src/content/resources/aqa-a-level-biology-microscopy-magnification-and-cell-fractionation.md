@@ -245,6 +245,23 @@ The specification asks you to appreciate that scientists spent a considerable pe
 - Forgetting that "isotonic" protects organelles from osmosis, and "buffered" protects proteins from pH change.
 - Describing the pellet as the "heavy liquid". The pellet is the solid at the bottom; the supernatant is the liquid.
 
+## Frequently asked questions
+
+**What is the difference between magnification and resolution?**
+Magnification is how much bigger the image is than the specimen. Resolution is the ability to distinguish two points close together as separate, and it depends on the wavelength of the radiation used.
+
+**What are the limitations of a transmission electron microscope?**
+The specimen is in a vacuum so it must be dead, it must be cut into extremely thin sections giving a 2D image, the image is black and white, and the long preparation can introduce artefacts.
+
+**What is the resolution limit of an optical microscope?**
+About 0.2 µm, so structures smaller than this, such as ribosomes, cannot be seen.
+
+**What happens in cell fractionation?**
+Tissue is homogenised in a cold, isotonic, buffered solution, filtered to remove debris, then spun in a centrifuge at increasing speeds so organelles form pellets in order of mass and density.
+
+**What is an artefact in microscopy?**
+An artefact is a structure seen in a microscope image that is not part of the living specimen, but is produced by the preparation method.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, exams June 2016 onwards, Version 1.5, published by AQA. Section 3.2.1.3 Methods of studying cells.

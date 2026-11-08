@@ -253,6 +253,23 @@ An unknown gives 0.36. It lies between 10 and 15 g dm⁻³. Interpolating: 10 + 
 - Describing the cellulose bonds between chains as glycosidic. They are hydrogen bonds.
 - Saying starch stores energy "because it is insoluble" with no link to osmosis or water potential.
 
+## Frequently asked questions
+
+**What is the difference between a condensation and a hydrolysis reaction?**
+A condensation reaction joins two molecules with the formation of a chemical bond and releases water. A hydrolysis reaction breaks a chemical bond between two molecules and uses water.
+
+**What is the difference between α-glucose and β-glucose?**
+They are isomers that differ in the position of the OH group on carbon 1. Exam answers should name carbon 1 rather than saying "the OH is in a different place".
+
+**Why does glycogen suit animals as an energy store?**
+Glycogen is more highly branched than starch, so it has more free ends where glucose can be released quickly for respiration.
+
+**Why is cellulose strong?**
+Cellulose is made of β-glucose, giving straight chains. Many hydrogen bonds form between parallel chains, which group into microfibrils and fibres, giving high tensile strength.
+
+**Which disaccharides are reducing sugars?**
+Maltose and lactose are reducing sugars. Sucrose is a non-reducing sugar and must be hydrolysed before it gives a positive Benedict's test.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), version 1.5, for exams from June 2016 onwards. Sections 3.1.1 and 3.1.2.

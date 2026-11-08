@@ -236,6 +236,23 @@ Other useful cases: blocking calcium channels reduces transmitter release; block
 - Claiming acetylcholine crosses the synapse by active transport. It diffuses.
 - Saying acetylcholinesterase destroys the receptors.
 
+## Frequently asked questions
+
+**What is the all-or-nothing principle?**
+A stimulus below threshold produces no action potential. Any stimulus at or above threshold produces an action potential of the same size, so a stronger stimulus gives more frequent impulses rather than larger ones.
+
+**Why is synaptic transmission unidirectional?**
+Only the presynaptic knob has vesicles of transmitter, and only the postsynaptic membrane has receptors, so impulses can only cross in one direction.
+
+**How do inhibitory synapses work?**
+The transmitter opens chloride and potassium ion channels on the postsynaptic membrane. Cl⁻ diffuses in and K⁺ diffuses out, so the membrane hyperpolarises and an action potential is less likely.
+
+**Do I need to learn the names of drugs that act on synapses?**
+No. The AQA specification says you do not need to recall the names or modes of action of individual drugs. You must use the information given to predict their effects.
+
+**How do you calculate the maximum frequency of impulses?**
+Maximum frequency = 1 ÷ refractory period, with the refractory period converted to seconds first. A refractory period of 5.0 ms gives 200 impulses per second.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, for first teaching 2015, published by AQA. This guide follows sections 3.6.2.1 and 3.6.2.2. Check the current document on the AQA website for the latest version.

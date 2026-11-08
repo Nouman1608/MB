@@ -194,6 +194,23 @@ To test the effect of nitrate on plant growth you would grow identical seedlings
 - Saying algae "use up the oxygen". The main loss is from aerobic respiration of saprobionts feeding on dead material.
 - Stating that mycorrhizae "absorb water" as a general rule, without saying that the hyphae raise the surface area and reach ions at low concentration.
 
+## Frequently asked questions
+
+**What is the difference between ammonification and nitrification?**
+Ammonification is the conversion of nitrogen-containing organic compounds into ammonium by saprobionts. Nitrification is the conversion of ammonium into nitrite and then nitrate by bacteria, which needs oxygen.
+
+**Where does denitrification happen?**
+Denitrification happens in anaerobic conditions, such as waterlogged soil. It converts nitrate back to nitrogen gas and reduces soil fertility.
+
+**How is the phosphorus cycle different from the nitrogen cycle?**
+The phosphorus cycle has no gas phase. Its main store is phosphate in rocks, released slowly by weathering and erosion.
+
+**When is leaching greatest?**
+Leaching is greatest when heavy rain falls soon after fertiliser is applied, when soluble artificial fertiliser is applied in excess of what the crop can absorb, and when soil is sandy or bare.
+
+**Why does dissolved oxygen fall during eutrophication?**
+The main oxygen loss comes from aerobic respiration by saprobionts feeding on dead algae and plants, not from the algae themselves.
+
 ## Official syllabus
 
 This guide follows section 3.5.4 Nutrient cycles in the *AQA AS and A-level Biology specification* (7401 and 7402), first teaching 2015, published by AQA.

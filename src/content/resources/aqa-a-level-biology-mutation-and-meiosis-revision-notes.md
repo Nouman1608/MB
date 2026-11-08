@@ -237,6 +237,23 @@ Human: n = 23, 2²³ = 8 388 608 gamete types; 2⁴⁶ = 70 368 744 177 664 zygo
 </figure>
 
 
+## Frequently asked questions
+
+**What are the two types of gene mutation in the AQA specification?**
+Base substitution and base deletion. Both arise spontaneously during DNA replication, and mutagenic agents such as ionising radiation and ultraviolet light increase the rate.
+
+**What is non-disjunction?**
+Non-disjunction is when chromosomes fail to separate during meiosis, giving gametes with n + 1 or n − 1 chromosomes. Fusion with a normal gamete gives 2n + 1 or 2n − 1.
+
+**At which stage of meiosis is the chromosome number halved?**
+The chromosome number is halved at meiosis I, when homologous chromosomes are separated. Putting the halving at meiosis II is a common error.
+
+**How do you work out where meiosis happens in a life cycle?**
+Write the chromosome number next to every cell. A change from 2n to n means meiosis, and a change from n to 2n means fertilisation.
+
+**How many gamete types can a human produce by independent segregation?**
+With 23 homologous pairs, 2²³ = 8 388 608 combinations, ignoring crossing over.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, section 3.4.3 (version 1.5), published by AQA.

@@ -147,6 +147,20 @@ These questions follow AQA A-level Biology (7402) section 3.7.1, *Inheritance*, 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.7.1, Inheritance, in AQA A-level Biology 7402, including crosses, sex linkage, autosomal linkage, epistasis and the chi-squared test.
+
+**What should a genetic diagram always include?**
+A key for the alleles, with the same letter for both alleles of one gene, and gametes that carry only one allele of each gene. Omitting the key loses marks.
+
+**Should you give a ratio on its own?**
+No. State the phenotypes that each number in the ratio refers to.
+
+**Does a non-significant chi-squared result prove a ratio?**
+No. It only means the difference between observed and expected results could be due to chance. Concluding that it proves the ratio is a common error.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, section 3.7.1 (version 1.5), published by AQA.

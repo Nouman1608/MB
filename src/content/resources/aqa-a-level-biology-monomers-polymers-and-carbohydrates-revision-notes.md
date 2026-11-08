@@ -248,6 +248,23 @@ Worked example of "explain": Cellulose has hydrogen bonds between chains (featur
 - Stating a colour result without the starting colour, for example "blue-black" with no mention of the yellow-brown it replaces.
 - Treating glycogen and starch as the same molecule instead of comparing branching.
 
+## Frequently asked questions
+
+**Which sugars are reducing sugars?**
+All monosaccharides are reducing sugars, and so are the disaccharides maltose and lactose. Sucrose is the only non-reducing disaccharide.
+
+**How many condensation reactions join n monomers?**
+n monomers joined in a chain or branched molecule need n − 1 condensation reactions, releasing n − 1 water molecules.
+
+**How do you test for starch?**
+Add iodine dissolved in potassium iodide solution. Blue-black means starch is present; it stays yellow-brown if not.
+
+**What makes starch and glycogen good storage molecules?**
+They are compact, insoluble so they do not affect water potential, large so they cannot cross the membrane, and branched with many ends for enzymes to hydrolyse quickly.
+
+**How do you calculate an Rf value?**
+Rf = spot distance ÷ solvent-front distance, both measured from the origin line.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), version 1.5, for exams from June 2016 onwards. Sections 3.1.1 and 3.1.2.

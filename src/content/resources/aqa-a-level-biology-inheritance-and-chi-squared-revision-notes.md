@@ -220,6 +220,23 @@ Wording: if calculated χ² is smaller than the critical value, the difference i
 - Explaining epistasis as "one gene is dominant over another"; dominance is between alleles of one gene.
 - Treating a sex-linked cross as a plain monohybrid, so males and females get the same ratio.
 
+## Frequently asked questions
+
+**How do you calculate degrees of freedom in a chi-squared test?**
+Degrees of freedom are the number of classes minus 1, not the number of individuals minus 1.
+
+**How do you calculate expected numbers for a chi-squared test?**
+Multiply the total by each part of the ratio divided by the sum of the ratio. Do not use the observed totals as expected values.
+
+**How can you spot autosomal linkage in a test cross?**
+There are two parental classes in large, similar numbers and two recombinant classes in small, similar numbers, instead of four equal classes.
+
+**How can you spot sex linkage in cross results?**
+The ratio differs between males and females, or reciprocal crosses give different results.
+
+**What is the difference between linkage and epistasis?**
+Linkage changes how alleles of different genes travel together into gametes. Epistasis is when an allele at one locus masks or changes the expression of a gene at another locus.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, section 3.7.1 (version 1.5), published by AQA.
