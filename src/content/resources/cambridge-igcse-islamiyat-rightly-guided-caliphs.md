@@ -12,6 +12,9 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
+  - qualification: "igcse"
+    topic: "paper-2-0493"
+    subtopic: "rightly-guided-caliphs-0493"
 description: "The rule, achievements and significance of Abu Bakr, Umar, Uthman and Ali as leaders -- Subtopic 2.3, the Rightly Guided Caliphs, given a full deep dive beyond the bullet-point summary in the site's existing whole-Paper-2 study guide."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
