@@ -241,6 +241,20 @@ The syllabus lists the forms you will meet.
 - Giving the turning point of (x + 1)² − 16 as (1, −16): the sign of p changes (Extended).
 - Leaving a root or intercept unlabelled on a sketch. The labels carry the marks.
 
+## Frequently asked questions
+
+**Are graphs of functions on both Core and Extended 0580?**
+Yes. Subtopics 2.10 Graphs of functions and 2.11 Sketching curves appear in both the Core and Extended columns of the Cambridge IGCSE Mathematics 0580 syllabus, with extra Extended content such as completing the square for turning points and curves with asymptotes.
+
+**Should a parabola have a flat bottom?**
+No. A parabola is a smooth curve with a single turning point, so it should be drawn as one smooth curve, not with a ruler or with a flat section at the bottom.
+
+**What is the turning point of y = (x + 1)² − 16?**
+The turning point is (−1, −16): in the form (x + p)² + q, the turning point is (−p, q), so the sign of p changes. Giving (1, −16) is a common Extended-tier error.
+
+**When solving an equation graphically, do you read the x-value or the y-value?**
+Read the x-values where the curve and the line intersect when the question asks you to solve for x. Giving the y-value of the intersection is a common error.
+
 ## Next steps
 
 - [Graphs of functions and sketching curves practice questions](/resources/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves-practice/)

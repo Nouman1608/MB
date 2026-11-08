@@ -337,6 +337,23 @@ Everything on this page can appear on a non-calculator paper (Paper 1 or Paper 2
 - Treating √(a² + b²) as a + b.
 - (Extended only) Applying the power before the root for large bases, which makes the arithmetic much harder, or forgetting to take the reciprocal when the fractional index is negative.
 
+## Frequently asked questions
+
+**What does 3⁴ mean?**
+The index counts repeated multiplication, so 3⁴ = 3 × 3 × 3 × 3 = 81, not 3 × 4 = 12.
+
+**What is a power of a power equal to?**
+Multiply the indices: (2³)² = 2⁶. Adding them to get 2⁵ is a common error; you add indices only when multiplying powers of the same base.
+
+**What is 0.4 squared?**
+0.4² = 0.4 × 0.4 = 0.16, because there are two decimal places in the working. Answers such as 1.6 or 0.8 come from misplacing the decimal point.
+
+**Is √(a² + b²) equal to a + b?**
+No. You cannot square-root each term separately. Work out a² + b² first, then take the square root: √(3² + 4²) = √25 = 5, not 7.
+
+**Which sections of the 0580 syllabus cover powers and indices?**
+Section 1.3 Powers and roots and section 1.7 Indices I of Topic 1 Number cover them in Cambridge IGCSE Mathematics 0580. Algebraic indices are in section 2.4, Indices II.
+
 ## Where to go next
 
 Condense this page into a few lines of index rules, then work through the [powers, roots and indices practice questions](/resources/igcse-mathematics-0580-powers-roots-and-indices-practice/), which cover every learning outcome here with full mark schemes. For mixed questions across the rest of Topic 1, use the [Number practice questions](/resources/igcse-mathematics-number-practice/) and, for Extended candidates, the [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

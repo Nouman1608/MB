@@ -181,6 +181,20 @@ Learn the methods first in the [powers, roots and indices study guide](/resource
 - Rounding to 3 s.f. too early in a calculator question, or dropping a final zero (3.20 written as 3.2).
 - (Extended) Doing the power before the root with large bases, or forgetting the reciprocal for a negative fractional index.
 
+## Frequently asked questions
+
+**Does a negative index give a negative answer?**
+No. A negative index means a reciprocal, so 2⁻⁵ = 1/32, not −32. This is one of the most frequent errors in index questions.
+
+**What happens when you divide powers with negative indices?**
+Subtract the indices carefully: 6⁻² ÷ 6⁻⁴ = 6^(−2 − (−4)) = 6². Losing the sign when subtracting a negative index gives the wrong power.
+
+**Can you use the index rules when the bases are different?**
+Not directly. Convert to a common base first, for example writing 8 and 4 as powers of 2, or simply evaluate each power.
+
+**Are fractional indices on the Core 0580 papers?**
+No. In Cambridge IGCSE Mathematics 0580, section 1.3 Powers and roots and integer indices are Core and Extended, while fractional indices are Extended only.
+
 ## Next steps
 
 - Read the [powers, roots and indices study guide](/resources/igcse-mathematics-0580-powers-roots-and-indices/) for worked explanations of every method used above.

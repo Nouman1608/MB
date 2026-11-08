@@ -313,6 +313,23 @@ Convert both prices into the **same** currency before comparing.
 - Comparing prices in two currencies without changing them to one currency.
 - Writing £7.8 instead of £7.80, or rounding down when a shared cost must be covered.
 
+## Frequently asked questions
+
+**Is any of rates, time and money Extended only in 0580?**
+No. The learning outcomes for 1.12 Rates, 1.15 Time and 1.16 Money are the same in the Core and Extended columns of Cambridge IGCSE Mathematics 0580, so nothing here is Extended only.
+
+**How do you find an average speed over a journey with two parts?**
+Divide the total distance by the total time, including any stops. Averaging the two speeds gives the wrong answer.
+
+**How do you handle time zones in a journey question?**
+Add the time difference when the destination is ahead and subtract it when the destination is behind. Adding a difference for a city that is behind is a common error.
+
+**How do you avoid mistakes in currency conversion?**
+Check which currency should give the bigger number before deciding whether to multiply or divide by the rate. To compare prices in two currencies, change them into one currency first.
+
+**What units go with density in g/cm³?**
+Use mass in grams and volume in cm³. Using kilograms with a density in g/cm³ gives an answer that is out by a factor of 1000.
+
 ## Next steps
 
 - Practise with [Number practice questions](/resources/igcse-mathematics-number-practice/) and, for Extended, [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

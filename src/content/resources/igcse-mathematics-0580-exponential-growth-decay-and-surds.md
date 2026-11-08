@@ -330,6 +330,23 @@ Surds turn up whenever a question asks for an exact answer. For example, solving
 - Multiplying by the denominator itself, such as (3 − √5), instead of its conjugate (3 + √5). Only the conjugate removes the surd.
 - Forgetting the middle terms when squaring a bracket that contains a surd.
 
+## Frequently asked questions
+
+**Are surds and exponential growth on the Core 0580 papers?**
+No. Subtopics E1.17 Exponential growth and decay and E1.18 Surds are Extended only in Cambridge IGCSE Mathematics 0580; the Core column lists them as Extended content.
+
+**What multiplier gives a 6% decrease?**
+Subtract the percentage from 100%, so a 6% decrease uses the multiplier 0.94 and a 6% increase uses 1.06. Using 0.06 or 1.6 is a common error.
+
+**How do you count the periods in an exponential growth question?**
+Divide the total time by the length of one period. If something grows every 3 hours, then 12 hours is 4 periods, so the multiplier is raised to the power 4.
+
+**Is √(a + b) equal to √a + √b?**
+No. Surds cannot be split over addition, and unlike surds cannot be added directly. Simplify first: √3 + √12 = √3 + 2√3 = 3√3.
+
+**How do you rationalise a denominator such as 3 − √5?**
+Multiply the numerator and denominator by the conjugate, 3 + √5, which removes the surd from the denominator. Multiplying by 3 − √5 itself does not.
+
 ## Where to go next
 
 - Recap the whole of Topic 1 with the [Number revision notes](/resources/igcse-mathematics-number-revision-notes/).

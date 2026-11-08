@@ -337,6 +337,23 @@ Try these, then look at the answers.
 
 **Answers:** 1. p(−2) = 11; x = 5. 2. q⁻¹(x) = 4x − 6. 3. rs(3) = r(9) = 1; sr(3) = s(7) = 49. 4. t⁻¹(x) = 2/x + 5.
 
+## Frequently asked questions
+
+**Are functions on the Core 0580 syllabus?**
+No. The Core column of the Cambridge IGCSE Mathematics 0580 syllabus lists section 2.13, Functions, as Extended content only.
+
+**What does fg(x) mean?**
+fg(x) means apply g first and then f, which you can say aloud as "f of g of x". Reversing the order is the most common composite function error.
+
+**How do you write the range of a function?**
+The range describes the outputs, so write it in terms of the function, such as g(x) ≥ 1, not x ≥ 1. When listing a range of values, give each output once.
+
+**How do you find an inverse function?**
+Write y = f(x), swap x and y, then rearrange to make y the subject, so the answer is in terms of x. The inverse undoes f; it is not the reciprocal 1/f(x).
+
+**How do you substitute an expression into a function?**
+Replace x with the whole expression in brackets. For f(x) = 7 − 2x, f(a + 2) = 7 − 2(a + 2) = 3 − 2a, not 7 − 2a + 2.
+
 ## Next steps
 
 - Recap the whole topic with the [algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/).

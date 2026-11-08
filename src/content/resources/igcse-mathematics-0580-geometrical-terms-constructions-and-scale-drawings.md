@@ -282,6 +282,23 @@ Checks: the bearing of H from A is 250°, so angle HAB = 250° − 160° = 90°.
 - Using the slant height as the vertical height in a pyramid.
 - Calling a segment a sector, a trapezium a parallelogram, or a 200° angle obtuse.
 
+## Frequently asked questions
+
+**Which geometrical terms are Extended only in Cambridge IGCSE Maths 0580?**
+In subtopics 4.1 to 4.3 the Core and Extended wording is almost the same. The Extended list adds the terms plane, perpendicular bisector, hemisphere, frustum, and major and minor arc.
+
+**How do you construct a triangle from three sides?**
+Draw one side with a ruler, then set your compasses to each of the other two lengths in turn and draw arcs from the ends of that side; join the point where the arcs cross. Use a ruler and compasses only, and do not rub out the construction arcs.
+
+**How should bearings be written?**
+Bearings are measured clockwise from north at the point you are measuring from and written with three figures, so 70° is written 070°. Measuring anticlockwise or from the wrong point is a common error.
+
+**What is the difference between a sector and a segment?**
+A sector is the region between two radii and an arc, like a slice of pizza, while a segment is the region between a chord and an arc. Mixing them up is one of the vocabulary errors that loses marks.
+
+**Do you need to construct perpendicular bisectors for 0580?**
+No. The 0580 syllabus notes say constructing perpendicular bisectors and angle bisectors is not required, and you are not expected to show that two shapes are congruent. You do need to construct a triangle from three sides and to draw and interpret nets.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027* (Version 3), Subject content: C4.1–C4.3 and E4.1–E4.3, Geometry.

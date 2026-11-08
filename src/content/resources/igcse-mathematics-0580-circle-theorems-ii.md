@@ -252,6 +252,23 @@ Short forms such as "tangent rule" or "chord theorem" do not say which property 
 - Using OM = r − depth when the tank is more than half full. Then the centre is under the water surface and OM = depth − r. Draw the diagram first.
 - Doubling an angle that has already been rounded, then rounding again.
 
+## Frequently asked questions
+
+**Is Circle theorems II on the Core paper for Cambridge IGCSE Maths 0580?**
+No. Subtopic E4.8, Circle theorems II, is Extended only in Cambridge IGCSE Mathematics 0580, so it appears on Papers 2 and 4.
+
+**What are the three symmetry properties of circles in 0580?**
+The perpendicular bisector of a chord passes through the centre; equal chords are equidistant from the centre; and the two tangents from an external point are equal in length. You are expected to use them and quote them as reasons.
+
+**How do you find the distance from the centre to a chord?**
+Draw the perpendicular from the centre to the chord, which bisects it, then use Pythagoras with half the chord and the radius. Using the whole chord as a side of the triangle is a common error.
+
+**How do you find the centre of a circle through three points?**
+Find the perpendicular bisectors of two chords that are not parallel; they cross at exactly one point, which is the centre. The radius is the distance from that point to any of the three points.
+
+**What is the length of a tangent from an external point?**
+The tangent length is the distance from the external point P to the point of contact A, not OP. Because the tangent meets the radius at 90°, PA² = OP² − OA².
+
 ## Next steps
 
 Use the [geometry revision notes](/resources/igcse-mathematics-geometry-revision-notes/) for a list of every circle theorem for your tier. Then try the chord question in the [Extended trigonometry practice questions](/resources/igcse-mathematics-trigonometry-extended-practice/), which uses the half-chord triangle from worked examples 1 and 2. The [course hub](/boards/cambridge/igcse/mathematics/) lists other resources for syllabus 0580.

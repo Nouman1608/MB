@@ -280,6 +280,23 @@ The syllabus places cumulative frequency in the Extended content, which is asses
 - **Reading the scale wrongly** when one small square is not worth 1. Work out what a small square represents before you read.
 - **Comparing without context.** "The median is lower" is not enough; say what that means for the data.
 
+## Frequently asked questions
+
+**Is cumulative frequency on the Core 0580 syllabus?**
+No. The Cambridge IGCSE Mathematics 0580 syllabus lists subtopic 9.6, Cumulative frequency diagrams, as Extended content only.
+
+**Where do you plot points on a cumulative frequency diagram?**
+Plot each running total at the upper class boundary, not the midpoint, and include a starting point at cumulative frequency 0. Join the points with a smooth curve through every plotted point.
+
+**Do you use n/2 or (n + 1)/2 for the median on a cumulative frequency graph?**
+Use n/2 on a cumulative frequency diagram. The (n + 1)/2 rule is for a list of individual values.
+
+**How do you find the interquartile range from a cumulative frequency curve?**
+Read the upper quartile at 3n/4 and the lower quartile at n/4 on the cumulative frequency axis, then subtract. Show both readings before subtracting; giving the upper quartile alone is a common error.
+
+**How do you find how many items are more than a given value?**
+Read the cumulative frequency at that value, which gives how many are less than it, then subtract that number from the total.
+
 ## Where to go next
 
 Practise these skills with the cumulative frequency questions in the [Statistics practice questions](/resources/igcse-mathematics-statistics-practice/) and the [Statistics and Probability (Extended) practice questions](/resources/igcse-mathematics-statistics-and-probability-extended-practice/). Those sets use different data from the examples above. For histograms and frequency density, the other Extended-only statistics subtopic, see the [Statistics study guide](/resources/igcse-mathematics-statistics/). Other resources for syllabus 0580 are on the [course hub](/boards/cambridge/igcse/mathematics/).

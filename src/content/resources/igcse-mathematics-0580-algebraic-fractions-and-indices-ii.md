@@ -295,6 +295,23 @@ In (c), factorise x² − 4 **before** you flip and multiply, so the matching br
 - (Extended) Dropping the bracket around a subtracted numerator, so −(x − 3) becomes −x − 3.
 - (Extended) Stopping too soon: after combining fractions, check whether the numerator now shares a factor with the denominator.
 
+## Frequently asked questions
+
+**Do you need logarithms for Cambridge IGCSE Maths 0580 Indices II?**
+No. The 0580 syllabus notes say knowledge of logarithms is not required for Indices II; every index equation can be solved by writing both sides as powers of the same base and setting the indices equal.
+
+**Are fractional indices and algebraic fractions on the Core paper?**
+No. Fractional indices and algebraic fractions are Extended only in Cambridge IGCSE Mathematics 0580. Positive, zero and negative indices and simple index equations are Core.
+
+**How do you read an index such as x^(2/3)?**
+The denominator is the root and the numerator is the power, so x^(2/3) means the cube root of x, squared. Taking the root first keeps the numbers small, as in 64^(2/3) = 4² = 16.
+
+**What is 5x⁰ equal to?**
+Since x⁰ = 1 for any non-zero x, 5x⁰ = 5 × 1 = 5. Thinking that x⁰ = 0, or that 5x⁰ = 1, are common errors.
+
+**Can you cancel the x² terms in (x² + 3)/(x² − 1)?**
+No. Only whole factors cancel in an algebraic fraction, so factorise the numerator and denominator first and cancel only factors common to both.
+
 ## Next steps
 
 - Practise with the [Algebra and graphs practice questions](/resources/igcse-mathematics-algebra-and-graphs-practice/) and the [Extended algebra practice](/resources/igcse-mathematics-algebra-extended-practice/), which also covers fractional equations (E2.5).

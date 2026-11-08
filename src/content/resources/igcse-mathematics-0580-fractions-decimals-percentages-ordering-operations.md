@@ -353,6 +353,23 @@ Check: ⅝ m = 0.625 m and 12 × 0.625 = 7.5 m.
 - Multiplying mixed numbers part by part: 2⅖ × 1⅞ is not 2 × 1 plus ⅖ × ⅞.
 - Dividing by a fraction without turning the **second** fraction upside down.
 
+## Frequently asked questions
+
+**What content in 0580 sections 1.4 to 1.6 is Extended only?**
+The only Extended-only content in these subtopics of Cambridge IGCSE Mathematics 0580 is recurring decimal notation and converting between recurring decimals and fractions (E1.4). Everything else is on both Core and Extended papers.
+
+**Is −2.04 less than −2.4?**
+No. For negative numbers, the one further from zero is smaller, so −2.4 < −2.04. Comparing only the sizes 2.04 and 2.4 gives the wrong order.
+
+**How do you convert a recurring decimal with a two-digit block to a fraction?**
+Multiply by 100 so the recurring blocks line up, then subtract. For x = 0.3636..., 100x − x = 36, so x = 36/99 = 4/11; multiplying by 10 does not cancel the tail.
+
+**Do you do multiplication before division?**
+No. Multiplication and division have equal priority, as do addition and subtraction, so work left to right within each pair after brackets and powers.
+
+**How should you give the answer to an ordering question?**
+Give the final order using the numbers in the form the question listed them, such as fractions and percentages, even if you converted them to decimals to compare.
+
 ## Next steps
 
 Test yourself with the [Number practice questions](/resources/igcse-mathematics-number-practice/) and, for Extended, the [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/). Tick these sections off on the [0580 checklist](/checklists/cambridge/igcse/mathematics/).

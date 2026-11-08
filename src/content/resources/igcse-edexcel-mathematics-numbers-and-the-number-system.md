@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
-description: "Integers, fractions, decimals, powers and roots, set language, percentages, ratio and proportion, degree of accuracy, standard form and calculator use -- the full content of Topic 1 for Pearson Edexcel International GCSE Mathematics A (4MA1)."
+description: "Topic 1 of Edexcel IGCSE Maths A 4MA1: integers, fractions, decimals, powers, sets, percentages, ratio, accuracy, standard form and calculator use."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 Numbers and the number system**, for
@@ -261,6 +263,20 @@ labelled diagram.
   <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How many sub-topics are in Edexcel IGCSE Maths 4MA1 Topic 1?**
+Topic 1, Numbers and the number system, has eleven sub-topics, from 1.1 Integers to 1.11 Electronic calculators. It is the first of six topics in Pearson Edexcel International GCSE Mathematics A (4MA1).
+
+**Which parts of 4MA1 Topic 1 are Higher tier only?**
+Higher-tier extensions include converting recurring decimals to fractions, surds and fractional indices, sets in algebraic terms and n(A), repeated percentage change, solving problems with bounds, and solving problems involving standard form.
+
+**Is inverse proportion in Topic 1 of 4MA1?**
+No. Sub-topic 1.7 Ratio and proportion has no separate Higher-tier content; inverse proportion is in Higher-tier sub-topic 2.5 in Topic 2.
+
+**Why does Topic 1 matter for the rest of 4MA1?**
+Its sub-topics form the arithmetic foundation the rest of the qualification assumes. Algebra, geometry and statistics all rely on fluent fraction, percentage, ratio and standard-form work introduced here.
 
 ## Official syllabus
 

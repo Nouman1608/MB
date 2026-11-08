@@ -291,6 +291,20 @@ When a question says "write down all the figures on your calculator display", co
 - Rounding a radius or a time to 3 s.f. and then using it in the next step.
 - Copying "4.7E-04" as the answer, or writing $15.3.
 
+## Frequently asked questions
+
+**Which 0580 papers test calculator use?**
+The syllabus says Papers 1 and 2 test everything except Using a calculator (1.14), so calculator use is tested only on Papers 3 and 4. Estimation (1.9) is tested on all four papers.
+
+**Should you keep trailing zeros when rounding?**
+Yes, if they are part of the required accuracy. 0.0705 to 2 significant figures is 0.070, not 0.07, and £13 to 2 decimal places is 13.00.
+
+**How do you decide whether to round up or down in context?**
+Read what the question needs: if 13.08 minibuses are needed, you must round up to 14, but if 12.98 tickets can be bought, you round down to 12. Normal rounding does not apply to whole objects.
+
+**How should you write a calculator display such as 4.7E-04?**
+Write it in standard form as 4.7 × 10⁻⁴, and write money with two decimal places, such as $15.30. Copying the calculator notation is not an acceptable final answer.
+
 ## Next steps
 
 - Condense this page with the [estimation and calculator revision notes](/resources/igcse-mathematics-0580-estimation-and-using-a-calculator-revision-notes/).

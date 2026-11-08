@@ -356,6 +356,23 @@ Completed square form is used again to solve quadratic equations (E2.5).
 - *(Extended)* Taking out a numerical common factor and then missing the difference of two squares left inside.
 - On Papers 3 and 4, rounding a substituted value early, or dropping a trailing zero from a 3 s.f. answer.
 
+## Frequently asked questions
+
+**What do you get when you expand (2x − 3)²?**
+Write it as (2x − 3)(2x − 3) and multiply every term: 4x² − 12x + 9. Writing 4x² + 9 or 4x² − 9 misses the middle term.
+
+**Why do you need brackets when substituting a negative number?**
+Brackets keep the sign inside the power. If a = −3, then a² = (−3)² = 9, not −9.
+
+**Which parts of 0580 sections 2.1 and 2.2 are Extended only?**
+Substitution, collecting like terms, expanding and taking out common factors are Core and Extended. Factorising the five special forms and completing the square (outcomes 4 and 5 of E2.2) are Extended only in Cambridge IGCSE Mathematics 0580.
+
+**What is the sign when expanding −2(x − 4)?**
+The −2 multiplies both terms, so −2(x − 4) = −2x + 8. Losing the sign on the second term is a common error.
+
+**Can you collect 3x² + 2x into one term?**
+No. 3x² and 2x are unlike terms because the powers of x differ, so they cannot be combined into 5x³.
+
 ## Next steps
 
 Test yourself with the [Algebra and graphs practice questions](/resources/igcse-mathematics-algebra-and-graphs-practice/), then the [Extended algebra practice](/resources/igcse-mathematics-algebra-extended-practice/) if you are taking Papers 2 and 4. Use the [Algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/) for quick recall, and the [Core diagnostic](/practice/0580/diagnostic/core/) or [Extended diagnostic](/practice/0580/diagnostic/extended/) to see which other resources for syllabus 0580 to work on next.

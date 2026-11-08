@@ -247,6 +247,20 @@ A display of 2.666 666 7 for dollars is written **$2.67**.
 - Rounding an intermediate answer and carrying it forward, so the final 3 s.f. answer is out by one in the last digit.
 - Leaving money as 6.4 dollars instead of $6.40, or copying "E-05" from the screen as the answer.
 
+## Frequently asked questions
+
+**Are estimation and calculator use different for Core and Extended 0580?**
+No. The Core (C1.9, C1.14) and Extended (E1.9, E1.14) statements for estimation and using a calculator are identical in Cambridge IGCSE Mathematics 0580; the tier only changes which papers you sit.
+
+**How do you estimate a calculation for Cambridge IGCSE Maths?**
+Round every number to 1 significant figure, write the rounded values down, then work out the simpler calculation. Giving an estimate without the 1 s.f. values, or rounding only some of the numbers, loses method credit.
+
+**What is double rounding?**
+Double rounding is rounding a value that has already been rounded instead of rounding once from the original. It can change the final digit, so always round from the full value.
+
+**How do you enter 1 hour 36 minutes into a calculator?**
+Convert the minutes to a fraction of an hour: 1 h 36 min = 1 + 36/60 = 1.6 hours. Typing 1.36 treats the minutes as hundredths of an hour.
+
 ## Next steps
 
 - Re-read the worked examples in the [study guide](/resources/igcse-mathematics-0580-estimation-and-using-a-calculator/).
