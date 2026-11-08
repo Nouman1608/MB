@@ -132,6 +132,20 @@ These questions cover section 8.2 (Equity and redistribution of income and wealt
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 equity and redistribution questions from past papers?**
+No. They are original practice questions with worked answers covering section 8.2, Equity and redistribution of income and wealth, of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in relative poverty calculations?**
+Common slips are finding a poverty line without calculating the median first, and using the old median after incomes have changed. Work out the new median before the new poverty line.
+
+**How should you explain the poverty trap in an exam answer?**
+Define the trap and tie it to the figures, explaining the benefit withdrawal rate rather than saying benefits are "too high". The trap comes from how fast benefits are withdrawn as earnings rise.
+
+**How should you compare means-tested benefits with a universal basic income?**
+Weigh both policies on the same criteria, such as poverty reduction, incentives and cost, and include administration costs and take-up. End with a reasoned judgement rather than a summary.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 8.2.

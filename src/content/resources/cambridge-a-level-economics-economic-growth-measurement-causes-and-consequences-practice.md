@@ -149,6 +149,20 @@ These questions cover section 4.4 (Economic growth), outcomes 4.4.1 to 4.4.5, of
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 economic growth questions from past papers?**
+No. They are original practice questions with worked answers covering section 4.4, Economic growth, outcomes 4.4.1 to 4.4.5 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in growth rate calculations?**
+Common slips include calculating growth from nominal GDP when real growth is asked for, dividing by the later year instead of the earlier year, adding annual growth rates instead of compounding them, and leaving out the unit or percentage sign.
+
+**How should you explain the effect of higher government spending on growth?**
+Say which curve shifts and in which direction, then describe the effect on both the price level and real output. State whether the economy has spare capacity, because that changes how much of the rise goes into output rather than prices.
+
+**How should you answer an "evaluate" question on whether growth improves welfare?**
+Weigh the consequences, judge who gains and over what time, and reach a conclusion that answers the question directly with a stated condition. Listing consequences without any judgement keeps the answer descriptive.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 4.4.1 to 4.4.5.

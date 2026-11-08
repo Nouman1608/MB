@@ -121,6 +121,20 @@ Links: [study guide](/resources/cambridge-a-level-economics-exchange-rate-system
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 exchange rate questions from past papers?**
+No. They are original practice questions with worked answers covering section 11.2, Exchange rates, outcomes 11.2.1 to 11.2.5 of the Cambridge International AS and A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in exchange rate calculations?**
+Common errors include quoting the rate the wrong way round or without the currency pair, putting the price indices upside down in the real-rate formula, and using weights that do not add to 100% in a trade-weighted index.
+
+**What must you say when a central bank defends a pegged exchange rate?**
+Say whether the bank buys or sells its currency, and give units. Forgetting to state the direction of intervention is a common way to lose marks.
+
+**How should you evaluate whether a devaluation will reduce a current account deficit?**
+Tie each point to the case, include the short-run J curve effect rather than claiming the balance improves at once, and end with a reasoned judgement. Evaluation presented as a list with no final judgement scores poorly.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 11.2 Exchange rates.

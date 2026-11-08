@@ -225,6 +225,20 @@ Consequences of macroeconomic government failure: inflation, unemployment, debt,
 
 Paper 4 Section B and C questions are worth 20 marks, are not divided into parts and need evidence of evaluation, so link each point back to the objective and finish with a supported judgement.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 outcomes does this supply-side, exchange rate and trade policy guide cover?**
+It covers part of section 10.3 of the Cambridge International AS & A Level Economics 9708 syllabus: the effectiveness of supply-side, exchange rate and trade policy, policy conflicts and government failure. Fiscal and monetary policy are covered in a separate unit.
+
+**How should you evaluate the effectiveness of a macroeconomic policy?**
+The syllabus asks you to evaluate effectiveness in relation to different macroeconomic objectives, so always name the objective, such as growth, unemployment, inflation or the current account, and judge the policy against it.
+
+**How do you calculate the change in unit labour costs?**
+Divide one plus the wage growth rate by one plus the productivity growth rate, then subtract 1. For example, wages up 3% and productivity up 6% give 1.03 ÷ 1.06 = 0.9717, a fall of 2.8%.
+
+**Why might a currency depreciation cause inflation?**
+A fall in the exchange rate raises the home-currency price of imports, which feeds into the price level. Leaving out this imported inflation is a common error when evaluating a depreciation.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. This guide covers 10.3.1 (supply-side, exchange rate and international trade policy), 10.3.2 and 10.3.3.

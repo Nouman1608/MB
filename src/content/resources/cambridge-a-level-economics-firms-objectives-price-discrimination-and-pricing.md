@@ -243,6 +243,20 @@ Limits: the theory does not explain how the price was set, and firms do sometime
 - Giving price discrimination "conditions" without market separation.
 - Saying predatory pricing is any price cut. It needs a price below cost, with the aim of recovering later.
 
+## Frequently asked questions
+
+**Is firms' objectives and pricing AS or A Level content in Cambridge 9708?**
+Section 7.8 is in topic 7, which is A Level content only, so it is not examined at AS. It covers profit maximisation, other objectives, price discrimination, other pricing policies and PED and revenue.
+
+**What is the profit-maximising rule?**
+A firm maximises profit where marginal revenue equals marginal cost. It is not where MR = 0, which is the revenue maximum, and not where AR = AC.
+
+**How does price elasticity of demand affect total revenue?**
+On a straight-line demand curve, demand is elastic on the upper half, unit elastic at the midpoint and inelastic on the lower half. Total revenue is at a maximum where PED = 1.
+
+**What are the types of price leader?**
+A dominant price leader is the largest firm in the market, while a barometric price leader is the firm best at reading market conditions. Price leadership is open following, unlike a cartel, which is a formal agreement.
+
 ## Official syllabus
 
 Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 7.8.

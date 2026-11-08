@@ -256,6 +256,20 @@ State a judgement and the condition on which it rests.
 - Saying fiscal contraction improves the account without explaining the link through income and the mpm.
 - Giving a list of policies with no judgement about cause, time or side effects.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 outcomes does this current account study guide cover?**
+It covers sections 6.3, Current account of the balance of payments, and 6.5, Policies to correct imbalances in the current account, of the Cambridge International AS and A Level Economics 9708 syllabus.
+
+**What causes a current account deficit?**
+Causes include domestic income growing faster than that of trading partners, higher unit costs or inflation than rivals, low quality or poor design, recession among main trading partners, a fall in the price of a main export and an overvalued currency.
+
+**Why is fiscal policy a weak tool for correcting a deficit when the marginal propensity to import is low?**
+A fiscal contraction lowers income through the multiplier, and imports fall only by the marginal propensity to import times the fall in income. If the mpm is low, the current account gains little while the economy loses much more output.
+
+**Can a country have a goods and services surplus but a current account deficit?**
+Yes. If interest, profit and transfers paid abroad exceed those received, the primary and secondary income balances can turn the whole account negative, so never judge the account from one line.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 6.3 and 6.5 (Cambridge University Press & Assessment).

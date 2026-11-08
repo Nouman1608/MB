@@ -237,6 +237,20 @@ Finish with a judgement: pick the factor that matters most in the case you are g
 - Calling a trade-weighted index a simple average.
 - Assuming a peg can be held for ever whatever the reserves.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 outcomes does this exchange rate systems guide cover?**
+It covers section 11.2, Exchange rates, outcomes 11.2.1 to 11.2.5 of the Cambridge International AS and A Level Economics 9708 syllabus: measuring exchange rates, fixed and managed systems, revaluation and devaluation, and the Marshall-Lerner condition and J curve.
+
+**What is the difference between a nominal and a real exchange rate?**
+A nominal exchange rate is measured in money terms, while a real exchange rate is in goods terms, adjusting the nominal rate for the price levels of the two countries. The real rate equals the nominal rate multiplied by the home price index divided by the foreign price index.
+
+**What is the difference between a fixed and a managed exchange rate?**
+A fixed exchange rate is a commitment to a value, defended by the central bank. A managed exchange rate gives the central bank discretion to intervene, for example to keep the rate above a floor.
+
+**Can a country keep a fixed exchange rate for ever?**
+Not whatever its reserves. Defending a peg against excess supply of the currency means buying it with foreign reserves, so assuming a peg can be held for ever regardless of reserves is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 11.2 Exchange rates.

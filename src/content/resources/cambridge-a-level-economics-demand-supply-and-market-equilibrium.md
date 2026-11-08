@@ -235,6 +235,23 @@ Evaluate the mechanism. Rationing by price favours ability to pay over need, and
 
 Practise next with the [practice set](/resources/cambridge-a-level-economics-demand-supply-and-market-equilibrium-practice/).
 
+## Frequently asked questions
+
+**Which Cambridge 9708 syllabus sections does this demand and supply guide cover?**
+It covers sections 2.1, Demand and supply curves, and 2.4, The interaction of demand and supply, of the Cambridge International AS & A Level Economics 9708 syllabus.
+
+**Are there calculations in Cambridge 9708 demand and supply?**
+The syllabus sets no calculation in these sections. Working with simple demand and supply equations makes the model concrete and is a good way to check your diagrams.
+
+**What shifts the supply curve?**
+Changes in costs of production, technology, indirect taxes, subsidies and the number of firms shift the supply curve. A change in the good's own price causes a movement along the curve instead.
+
+**Is a shortage the same as scarcity?**
+No. A shortage, or excess demand, is a market event at one price, which price adjustment can remove. Scarcity is the permanent economic problem.
+
+**What is a weakness of rationing by price?**
+Rationing by price favours ability to pay over need. Price signals also depend on good information, and firms may not respond quickly, so shortages can last.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 2.1 and 2.4.

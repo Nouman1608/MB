@@ -242,6 +242,23 @@ Price falls from 80 to 72 (a 10% fall) and quantity rises from 500 to 560 (a 12%
 - Drawing kinked demand with no explanation of why rivals respond differently to rises and cuts.
 - Leaving out the formula or working in a PED and revenue calculation.
 
+## Frequently asked questions
+
+**What are the three conditions for price discrimination?**
+A firm needs price-setting power, the ability to separate customers or markets and stop resale, and different price elasticities of demand in the separate markets.
+
+**What is the difference between first, second and third degree price discrimination?**
+First degree charges each person a different price, second degree varies the price with the quantity bought, and third degree charges different prices to different groups. In third degree discrimination the higher price goes to the less elastic market.
+
+**What is the difference between sales maximisation and revenue maximisation?**
+Sales maximisation means selling the most units without making a loss, so profit is normal. Revenue maximisation means producing where total revenue is highest, where MR = 0.
+
+**Why are prices stable under the kinked demand curve model?**
+Rivals do not follow a price rise but do follow a price cut, so demand is elastic above the kink and inelastic below it. Either price change lowers total revenue, and MC can shift within the gap in MR without changing the price.
+
+**What is the difference between limit pricing and predatory pricing?**
+Limit pricing keeps the price above cost but low enough to deter entry. Predatory pricing sets the price below cost to eliminate rivals, with the aim of recovering the losses later.
+
 ## Official syllabus
 
 Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 7.8.

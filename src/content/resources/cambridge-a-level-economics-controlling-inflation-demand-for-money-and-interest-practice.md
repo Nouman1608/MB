@@ -151,6 +151,20 @@ These questions cover outcomes 9.4.6 to 9.4.8 of the Cambridge International AS 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Want help? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 Economics practice questions from past papers?**
+No. They are original practice questions with worked answers, covering outcomes 9.4.6 to 9.4.8 of the Cambridge International AS and A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in questions on controlling inflation?**
+Common errors include describing policy effects without naming the curve that shifts, using nominal interest rates where the real rate drives decisions, and giving evaluation that is not linked to the causes of inflation in the data.
+
+**How do bond prices and interest rates move?**
+Bond prices and interest rates move in opposite directions. Treating them as moving together is one of the most frequent errors on this topic.
+
+**How should you end an evaluation question on anti-inflation policy?**
+Reach a judgement about which policy is most suitable in the case and why, tied to the cause of inflation shown in the data. An evaluation that ends with no judgement, or that ignores the figures, reads as generic.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 9.4, outcomes 9.4.6 to 9.4.8. Topic 9 is A Level content.

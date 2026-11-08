@@ -135,6 +135,20 @@ These questions cover section 11.3 (Economic development), outcomes 11.3.1 to 11
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a [free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 economic development questions from past papers?**
+No. They are original practice questions with worked answers covering section 11.3, Economic development, outcomes 11.3.1 to 11.3.4 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes when calculating real GDP per capita?**
+A frequent slip is dividing by the price index itself, such as 125, instead of converting it to a ratio such as 1.25. Another is using total GDP instead of a per capita figure when comparing living standards.
+
+**How should you write about a limitation of GDP as a measure of living standards?**
+Name the limitation and then say which way it distorts the comparison. A list of things GDP leaves out, with no direction of bias, stays descriptive.
+
+**How should you compare growth rates between two countries?**
+Give both the absolute gap and the relative gap, and take account of the starting levels. Comparing growth rates alone, without the starting levels or the absolute gap, is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 11.3.

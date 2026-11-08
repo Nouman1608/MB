@@ -261,6 +261,23 @@ A government spends 16 more, but borrowing pushes up rates and private investmen
 - Writing about all policies when the question names one.
 - Ignoring that a conflict has two sides, so only one objective is explained.
 
+## Frequently asked questions
+
+**What does the Laffer curve show?**
+The Laffer curve plots tax revenue against the tax rate. Revenue is zero at 0% and at 100%, with a maximum in between, so left of the peak a higher rate raises revenue and right of the peak it lowers revenue.
+
+**How do you calculate the multiplier with taxes and imports?**
+Add the marginal propensities to save, to tax and to import to get the withdrawal rate, then take the reciprocal. For example, withdrawals of 0.40 give a multiplier of 2.5.
+
+**How does quantitative easing work?**
+Quantitative easing works by buying bonds, which raises their prices and lowers their yields. Lower yields reduce borrowing costs across the economy.
+
+**What are examples of government failure in macroeconomic policy?**
+Examples include poor forecasts and uncertain output gaps, time lags that make policy pro-cyclical, political motives such as pre-election giveaways, conflicting objectives, unintended consequences and crowding out of private investment.
+
+**What are the strengths of monetary policy compared with fiscal policy?**
+Monetary policy is quick to change and operated by a central bank at a distance from elections. Fiscal policy can be targeted at groups or regions, and automatic stabilisers work without delay.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus, for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. These notes cover part of outcome 10.3.1 and outcomes 10.3.2 and 10.3.3.

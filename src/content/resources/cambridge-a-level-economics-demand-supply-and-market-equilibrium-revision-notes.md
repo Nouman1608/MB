@@ -241,6 +241,23 @@ For disequilibrium, mark the price, read the quantity demanded and quantity supp
 - Listing the three functions of price without applying them to the market in the question.
 - Presenting an evaluation as a list of points rather than a judgement with a reason.
 
+## Frequently asked questions
+
+**What is the difference between a change in demand and a change in quantity demanded?**
+A change in demand is a shift of the whole demand curve caused by a non-price factor such as income or tastes. A change in quantity demanded is a movement along the curve caused by a change in the good's own price.
+
+**What happens to equilibrium when demand and supply both shift?**
+With two shifts at once, one outcome can be stated with confidence while the other depends on the relative size of the shifts. For example, if both demand and supply rise, quantity rises but the price change is unclear.
+
+**What are the three functions of price?**
+Price rations a limited quantity among buyers, signals consumer preferences and scarcity to producers, and gives firms an incentive to supply more. In exam answers, apply each function to the market in the question.
+
+**What is the difference between derived demand and joint supply?**
+Derived demand links the demand for an input to the demand for the product it makes, such as wheat and flour. Joint supply means one process produces two goods, so their supplies rise and fall together, such as beef and hides.
+
+**What should a demand and supply diagram include?**
+Label price and quantity on the axes, label the curves D and S, and D1, D2, S1, S2 after a shift. Mark the old and new equilibrium points with dotted lines to both axes and show each shift with an arrow or a sentence.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 2.1 and 2.4.

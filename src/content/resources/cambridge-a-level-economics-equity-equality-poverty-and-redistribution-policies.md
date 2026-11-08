@@ -238,6 +238,20 @@ Judge any policy on these points, then conclude:
 - Ignoring administration costs and take-up when comparing benefits.
 - Listing policies without a judgement.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 section does this equity and redistribution guide cover?**
+It covers section 8.2, Equity and redistribution of income and wealth, of the Cambridge International AS & A Level Economics 9708 syllabus: equity and equality, equity and efficiency, poverty, the poverty trap and redistribution policies. Topic 8 is A Level content, so it is not examined at AS.
+
+**What causes the poverty trap?**
+Causes include means-tested benefits withdrawn steeply as earnings rise, income tax and social contributions starting at low incomes, costs of working such as childcare and transport, and low skills. The trap arises from how fast benefits are withdrawn, not because benefits are "too high".
+
+**What are the advantages and disadvantages of a universal basic income?**
+A universal basic income is simple, carries no stigma, removes the poverty trap and gives security. Against that, it has a high cost and needs higher taxes.
+
+**What is the difference between universal and means-tested benefits?**
+Universal benefits are paid to everyone in a group, giving breadth, while means-tested benefits are targeted at those on low incomes. When comparing them, include cost, administration and take-up, since means-tested benefits may not reach everyone who qualifies.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 8.2.

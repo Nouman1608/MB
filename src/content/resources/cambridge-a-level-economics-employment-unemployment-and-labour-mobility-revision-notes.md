@@ -230,6 +230,20 @@ If supply-side reform cuts the natural rate to 4.5%, natural unemployment falls 
 - Treating a fall in the rate as more jobs when people have left the labour force.
 - Describing mobility factors without saying whether they affect geographical or occupational mobility.
 
+## Frequently asked questions
+
+**Why can raising aggregate demand not permanently reduce unemployment below the natural rate?**
+Pushing unemployment below the natural rate opens an inflationary gap and makes labour scarce, so firms raise wages and prices and the gain in jobs is only temporary. A lasting reduction needs a supply-side shift that lowers the natural rate.
+
+**What raises the natural rate of unemployment?**
+Generous benefits, strong unions and minimum wages, skills mismatch and low labour mobility can raise the natural rate. Flexible labour markets, effective training, good job-matching and housing that allows workers to move can lower it.
+
+**What is the difference between geographical and occupational mobility of labour?**
+Geographical mobility is affected by housing costs and availability, moving costs, family ties and information. Occupational mobility is affected by training cost and time, transferable skills, licences and entry requirements.
+
+**Does a fall in the unemployment rate always mean more jobs?**
+No. A falling rate may reflect people leaving the labour force, so check employment and the participation rate before concluding that more jobs have been created.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 9.3 Employment/unemployment (Cambridge University Press & Assessment).

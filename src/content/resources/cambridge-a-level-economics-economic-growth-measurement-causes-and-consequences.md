@@ -231,6 +231,20 @@ Section 9.2 returns to inclusive and sustainable growth at A Level.
 - Treating a rise in GDP as automatically a rise in welfare without comment.
 - Listing causes without saying how each changes AD, AS or the PPC.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 outcomes does this economic growth guide cover?**
+It covers section 4.4, Economic growth, outcomes 4.4.1 to 4.4.5 of the Cambridge International AS & A Level Economics 9708 syllabus: the meaning and measurement of growth, nominal and real GDP, and the causes and consequences of growth.
+
+**Why is nominal GDP a poor measure of economic growth?**
+Nominal GDP rises when prices rise even if real output does not change. Use real GDP, or deflate nominal figures by a price index first.
+
+**Is subtracting inflation from nominal growth an exact way to find real growth?**
+No. Subtracting the inflation rate from nominal growth gives only an approximation; divide by the price index instead to get the exact real figure.
+
+**Does economic growth always raise living standards?**
+Not automatically. Treating a rise in GDP as a rise in welfare without comment is a common error, because GDP misses informal and unpaid output and ignores distribution and environmental cost.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 4.4.1 to 4.4.5.

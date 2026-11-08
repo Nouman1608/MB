@@ -164,6 +164,20 @@ These questions cover sections 7.3 and 7.4 of the Cambridge International AS & A
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 market failure questions from past papers?**
+No. They are original practice questions with worked answers covering sections 7.3 and 7.4 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in externality calculations?**
+Common errors include adding the external cost or benefit to the wrong curve, getting the direction wrong, and forgetting units or the thousands in a quantity. Negative externalities lead to over-production and positive ones to under-production.
+
+**How much area should you shade as welfare loss?**
+Shade only the triangle between the marginal social benefit and marginal social cost curves, between the market quantity and the social optimum. Shading too much area is a frequent error.
+
+**How should you finish an "evaluate" question on government intervention?**
+Give a reason and reach a conclusion tied to the size of the externality or the sensitivity of the figures. Evaluating in a single sentence, without a reason or a conclusion, loses marks.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028*, Subject content, topic 7, sections 7.3 and 7.4.

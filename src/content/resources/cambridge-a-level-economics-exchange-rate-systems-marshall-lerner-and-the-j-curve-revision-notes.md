@@ -224,6 +224,23 @@ Describe the shape in words: balance on the vertical axis, time on the horizonta
 - Listing evaluation points without saying why one matters most.
 - Stating a currency effect with no chain to output, prices or employment.
 
+## Frequently asked questions
+
+**What is the Marshall-Lerner condition?**
+A depreciation or devaluation improves the trade balance if the sum of the price elasticities of demand for exports and imports, taken as positive numbers, is greater than 1. Each elasticity does not need to exceed 1; only the sum does.
+
+**What is the J curve?**
+The J curve shows the trade balance worsening straight after a depreciation, because volumes barely move in the short run, then improving as elasticities rise and the Marshall-Lerner condition is met.
+
+**What is the difference between depreciation and devaluation?**
+Depreciation and appreciation are market-driven changes in a floating exchange rate. Devaluation and revaluation are policy decisions to change a fixed exchange rate.
+
+**How do you calculate a trade-weighted exchange rate index?**
+Multiply each bilateral index by its trade weight and add the results, checking that the weights add to 100%. For example, weights of 60% and 40% on indices of 105 and 95 give 63 + 38 = 101.
+
+**Why might a devaluation fail to improve the current account even when the Marshall-Lerner condition holds?**
+The rise in import prices may pass into inflation, exporters may rely on imported inputs, the economy may lack spare capacity to raise exports, and trading partners may retaliate.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 11.2 Exchange rates.

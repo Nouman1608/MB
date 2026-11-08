@@ -277,6 +277,20 @@ A fictional town considers a bypass (all figures in CU millions).
 - Adding MEC to MPB, or MEB to MPC. External costs add to costs and external benefits add to benefits.
 - Shading a whole area under a curve as welfare loss, not the triangle between MSB and MSC.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 sections does this market failure guide cover?**
+It covers section 7.3, Efficiency and market failure, and section 7.4, Private costs and benefits, externalities and social costs and benefits, of the Cambridge International AS & A Level Economics 9708 syllabus.
+
+**What is dynamic efficiency?**
+Dynamic efficiency is judged over time: lower costs and better products from research count, even if a firm is not statically efficient now. A monopoly may use supernormal profit to fund research, but a protected firm may feel no pressure to innovate.
+
+**What is the difference between complete and partial market failure?**
+Complete market failure means no market exists, as with public goods. Partial market failure means a market exists but produces the wrong quantity or price.
+
+**What is moral hazard in insurance?**
+Moral hazard occurs when people who are insured take less care, so the chance of a claim rises after cover is provided. Insurers respond with excesses, monitoring and other measures, each of which has a cost.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028*, Subject content, topic 7, sections 7.3 and 7.4.

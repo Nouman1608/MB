@@ -248,6 +248,23 @@ Net present value is not required. A decision with positive net social benefit b
 - Concluding a cost-benefit result without commenting on uncertainty, intangibles or who is affected.
 - Ending a calculation without a unit or a plain-English conclusion.
 
+## Frequently asked questions
+
+**What is the difference between productive efficiency and allocative efficiency?**
+Productive efficiency is about cost per unit and occurs where MC = AC, at minimum average cost. Allocative efficiency is about what is produced and occurs where P = MC, or MSB = MSC when externalities exist.
+
+**What is a Pareto improvement?**
+A move is a Pareto improvement only if someone gains and nobody loses. Pareto optimality says nothing about fairness, because many Pareto optimal points exist and some are very unequal.
+
+**What is the difference between asymmetric information and moral hazard?**
+Asymmetric information is a problem before the deal, when one side, often the seller, knows more than the other. Moral hazard arises after the deal, when a party protected by insurance or a guarantee takes more risk.
+
+**How do you calculate deadweight welfare loss from an externality?**
+Find the market quantity where MPB = MPC and the social optimum where MSB = MSC. Welfare loss is half the gap between MSB and MSC at the market quantity, multiplied by the difference in quantity.
+
+**Is net present value required for cost-benefit analysis in Cambridge 9708?**
+No. Net present value is not required; you need to list and value private and external costs and benefits, find net social benefit and consider which values are least certain.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028*, Subject content, topic 7, sections 7.3 and 7.4.
