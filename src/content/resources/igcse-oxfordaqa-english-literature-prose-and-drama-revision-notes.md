@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "prose-and-drama-9275"
     subtopic: "drama-9275"
-description: "Condensed recall notes on Paper 1 Prose and Drama for OxfordAQA International GCSE English Literature (9275)."
+description: "Condensed notes on OxfordAQA International GCSE English Literature 9275 Paper 1 Prose and Drama: the format, the AOs and how to plan each set-text answer."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

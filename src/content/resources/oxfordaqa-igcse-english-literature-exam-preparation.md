@@ -9,13 +9,15 @@ qualifications: ["igcse"]
 syllabusCodes: ["9275"]
 syllabusSeries: "First teaching 2016; revised set texts for first teaching 2026"
 order: 3
-description: "How OxfordAQA International GCSE English Literature 9275's compulsory Paper 1 combines with either Route A's open-book Paper 2a or Route B's shorter Paper 2b plus a non-exam assessment."
+description: "Exam preparation for OxfordAQA International GCSE English Literature 9275: Paper 1, then Route A's Paper 2a or Route B's Paper 2b with a non-exam assessment."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 OxfordAQA International GCSE English Literature (9275) is linear, with one compulsory component and a

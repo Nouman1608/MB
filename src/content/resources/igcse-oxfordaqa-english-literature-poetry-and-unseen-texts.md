@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "poetry-and-unseen-texts-9275"
     subtopic: "unseen-prose-9275"
-description: "The People and Places poetry anthology, unseen poetry and unseen prose -- Paper 2a of OxfordAQA International GCSE English Literature (9275), covering Route A's content."
+description: "OxfordAQA International GCSE English Literature 9275 Paper 2a (Route A): the People and Places anthology, unseen poetry and unseen prose, with the format."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 This guide covers **Poetry and Unseen Texts**, examined on Paper 2a, in
