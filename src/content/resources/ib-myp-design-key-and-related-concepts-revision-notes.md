@@ -181,6 +181,20 @@ Each line names a **specific feature** and a **specific user**. That is the habi
 - Labelling a question "debatable" when it has one factual answer.
 - Calling any new product an "innovation" without showing it was adopted or solved a problem.
 
+## Frequently asked questions
+
+**What is the difference between a key concept and a related concept?**
+Key concepts are broad and shared across MYP subjects, framing the curriculum. Related concepts belong to the discipline, such as ergonomics or innovation in design, and drive specific design decisions.
+
+**What are the three types of ergonomics?**
+Physical ergonomics deals with sizes, physiological ergonomics with body capability and comfort, and psychological ergonomics with perception and feeling.
+
+**Why should you avoid designing everything to the 50th percentile?**
+A product sized to the average suits few people well. Design for the 5th or 95th percentile, or for the 5th to 95th range when the product is adjustable.
+
+**What is the difference between adaptation and development in design?**
+Adaptation changes a design or borrowed idea for a different user, purpose or setting. Development improves a design over versions for the same purpose.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014. Key concepts, related-concept examples, global contexts and question types are taken from the brief; the percentile rules and statement-of-inquiry method are standard design practice. All data are fictional.

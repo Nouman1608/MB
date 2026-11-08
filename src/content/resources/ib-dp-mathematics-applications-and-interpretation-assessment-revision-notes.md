@@ -8,13 +8,15 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
 syllabusSeries: "First assessment 2021"
 order: 1
-description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, technology use and the mathematical exploration -- for IB Diploma Programme Mathematics: Applications and Interpretation."
+description: "How IB DP Mathematics: Applications and Interpretation is assessed at SL and HL: paper weightings, technology on every paper, HL Paper 3 and the exploration."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
@@ -103,6 +105,20 @@ As with every DP subject, command terms signal the depth of response expected: *
   <figcaption>Interpret and comment on need a link back to the context.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**Is a calculator allowed on IB Maths AI Paper 1?**
+Yes. Technology is permitted on every paper in IB DP Maths AI, including Paper 1, which is the main practical difference from Analysis and Approaches, where Paper 1 is sat without technology.
+
+**How much is each IB Maths AI paper worth at SL and HL?**
+At SL, Paper 1 and Paper 2 are each worth 40% and the exploration 20%. At HL, Papers 1 and 2 are each worth 30%, Paper 3 is worth 20% and the exploration 20%.
+
+**Does the IB Maths AI exploration have to use real data?**
+No. The exploration is an independent investigation into an area of mathematics chosen by the student, defined the same way as in Analysis and Approaches. A real dataset or context is a natural choice in this applied course, but it is not a requirement.
+
+**What do the command terms interpret and comment on require?**
+They require you to connect a mathematical result back to the real-world context in the question. Skipping this step loses marks even when the calculation is correct.
 
 ## Official syllabus
 

@@ -157,6 +157,20 @@ Topic: Britain's Slave Trade Act of 1807 and Slavery Abolition Act of 1833.
 - Assuming a topic has only one possible context.
 - Listing all six contexts but unable to give an I&S example of any of them.
 
+## Frequently asked questions
+
+**What are the six MYP global contexts?**
+The six global contexts are identities and relationships, orientation in space and time, personal and cultural expression, scientific and technical innovation, globalization and sustainability, and fairness and development.
+
+**Which key concepts does MYP Individuals and Societies contribute?**
+The guide says the subject contributes the key concepts change, global interactions, systems, and time, place and space.
+
+**Must every MYP Individuals and Societies unit have a global context?**
+Yes. The guide says teachers must identify a global context for each unit, or develop an additional context, to show the relevance of the inquiry.
+
+**What is a statement of inquiry?**
+A statement of inquiry is one transferable sentence that sets the unit's key and related concepts in a global context. Factual, conceptual and debatable inquiry questions then come out of it.
+
 ## Official syllabus
 
 These notes are aligned to the IB *MYP Individuals and societies guide* (for use from September 2014/January 2015; published May 2014, updated April 2021), published by the International Baccalaureate Organization: its global contexts section, example statements of inquiry, and year 5 Criterion B objectives.

@@ -160,6 +160,20 @@ Treat Source A as if it were a genuine letter. Explain one value and one limitat
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is industrialization in the MYP Individuals and Societies on-screen exam?**
+Yes. The IB subject brief lists industrialization and technological developments among the topics for the individuals and societies on-screen examinations at the end of MYP year 5.
+
+**What makes an investigation plan weak in MYP Individuals and Societies?**
+Common weaknesses are a vague research question such as "Was the Industrial Revolution good?", relying on a single source and a method that only says "read and write it up". A strong plan has a focused question, a range of sources and a clear action plan.
+
+**How do you explain the value and limitation of a historical letter?**
+Explain what the letter shows directly about the writer's experience, such as working hours or conditions, and what it cannot show, such as whether one person's experience was typical. Link both points to the source's origin and purpose.
+
+**What is the difference between a percentage-point change and a percentage change?**
+A percentage-point change is the difference between two percentages, such as a sector's share falling from 40% to 24%. A percentage change compares the actual numbers, such as how much the number of jobs fell relative to the original figure.
+
 ## Official syllabus
 
 This practice set is aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014, which lists "industrialization and technological developments" among the topics explored in the individuals and societies on-screen examinations.

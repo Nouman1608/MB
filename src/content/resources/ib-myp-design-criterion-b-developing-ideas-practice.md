@@ -163,6 +163,20 @@ Learn the skills first with the [study guide](/resources/ib-myp-design-criterion
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does the MYP Design subject brief say you do in Criterion B?**
+The brief describes Criterion B, Developing ideas, as writing a detailed specification that drives the development of a solution, and then presenting the solution. Making the product belongs to Criterion C.
+
+**How do you make a design specification point testable?**
+Give each point a number with a unit, a range or a clear yes/no condition, such as "material cost £6 or less" instead of "cheap". Vague words like strong, nice or easy cannot be tested in Criterion D.
+
+**What counts as a range of ideas in Criterion B?**
+A range means ideas that solve the problem in genuinely different ways, such as a different mechanism, form or material. The same design in different colours, or with small changes such as rounded corners, is not a range.
+
+**Should you always choose the idea with the highest decision matrix score?**
+Not if it fails an essential specification point, such as going over a fixed budget. Check essential points first, then use the weighted totals and client feedback to justify the choice.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014.

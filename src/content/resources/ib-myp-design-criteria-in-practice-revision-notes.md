@@ -11,7 +11,7 @@ order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-design-assessment-criteria"
-description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Design's four assessment criteria -- Inquiring and analysing, Developing ideas, Creating the solution, and Evaluating -- with a worked example for each, mapped onto the design cycle."
+description: "Revision notes on what top-band evidence looks like for each IB MYP Design criterion, A to D, with a worked example for each and links to the design cycle."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -116,6 +116,20 @@ original specification individually and reporting honest results, not a general,
 statement of success. 5. Criterion A -- inquiring and analysing (the problem stage); Criterion B --
 developing ideas (the specification stage); Criterion C -- creating the solution (the build stage);
 Criterion D -- evaluating (the test stage).
+
+## Frequently asked questions
+
+**What does top-band Criterion A evidence look like in MYP Design?**
+It identifies a genuine problem, analyses the need for a solution with reference to a real target audience or client, and researches existing similar solutions before writing a design brief grounded in that evidence.
+
+**How do the four MYP Design criteria map onto the design cycle?**
+Criterion A Inquiring and analysing is the problem stage, B Developing ideas is the specification stage, C Creating the solution is the build stage and D Evaluating is the test stage.
+
+**Can a project complete every design cycle stage and still miss top-band marks?**
+Yes. Moving through all four stages gives a structure for evidence, but each stage must be documented in depth. A stage treated as a box to tick does not produce top-band evidence for its criterion.
+
+**Why does documentation matter so much in the MYP Design ePortfolio?**
+The ePortfolio is the evidence a moderator sees and marks, not a timed paper. A prototype photograph alone, without the inquiry, specification, planning and testing records, gives no basis to award marks against Criteria A, B or D.
 
 ## Official syllabus
 

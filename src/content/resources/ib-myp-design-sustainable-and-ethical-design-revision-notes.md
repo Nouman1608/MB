@@ -185,6 +185,20 @@ The seven principles of universal design: equitable use; flexibility in use; sim
 - Collecting personal data in a digital solution without explaining why it is needed.
 - A criterion D impact statement that only praises the product and gives no limitation.
 
+## Frequently asked questions
+
+**What is the difference between cradle to grave and cradle to cradle?**
+Cradle to grave assesses a product's impact from extraction to disposal. Cradle to cradle goes further by designing so that end-of-life materials become new raw materials.
+
+**What are the 6 Rs of sustainable design?**
+The 6 Rs are rethink, refuse, reduce, reuse, repair and recycle. They are a quick checklist for improving a design's environmental impact.
+
+**What is a functional unit when comparing products?**
+A functional unit is the job used to compare products fairly, such as one year of use. A product that takes more energy to make can still win if it lasts much longer.
+
+**What is a dark pattern in digital design?**
+A dark pattern is an interface trick that pushes users into choices they did not intend, such as a pre-ticked box to share data. It works against informed consent.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Middle Years Programme Subject Brief -- Design*, from 2014 (published by the International Baccalaureate Organization, © 2015). The brief names ergonomics and sustainability as examples of related concepts; the design content in these notes is standard practice written by Marlbridge.

@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Condensed IB DP Maths AI HL revision notes on matrices and eigenvalues: key results, method steps, a quick self-test and where marks go."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and longer worked examples, use the [matrices and eigenvalues study guide](/resources/ib-dp-mathematics-ai-hl-matrices-eigenvalues/). These notes are for the final weeks.
@@ -244,6 +246,20 @@ With λ₁ = 1 and |λ₂| < 1, the term with λ₂ⁿ shrinks to 0, so xₙ app
 - Finding P⁻¹ wrongly and so getting a Mⁿ formula that fails the n = 1 check.
 - Writing a transition matrix whose columns do not match the "from" state, so the columns do not each sum to 1.
 - Giving non-integer population answers in context without rounding sensibly.
+
+## Frequently asked questions
+
+**How do you find the inverse of a 2 × 2 matrix?**
+Find det A = ad − bc and stop if it is 0, because the matrix is singular. Otherwise swap a and d, change the signs of b and c, and multiply by 1/det A, then check that AA⁻¹ = I.
+
+**How do you solve Ax = b with matrices?**
+Check that det A ≠ 0, then find x = A⁻¹b with A⁻¹ on the left. Writing x = bA⁻¹ is incorrect.
+
+**How do you find eigenvalues of a 2 × 2 matrix?**
+Solve the characteristic equation det(M − λI) = 0, which for a 2 × 2 matrix is the quadratic (a − λ)(d − λ) − bc = 0. Each eigenvector then comes from solving (M − λI)v = 0 for a non-zero v.
+
+**How do you find a power of a matrix using eigenvalues?**
+Write M = PDP⁻¹, with eigenvector columns in P and the eigenvalues in the same order in D. Then Mⁿ = PDⁿP⁻¹, where Dⁿ raises each diagonal element to the power n; check that n = 1 gives M.
 
 ## Official syllabus
 

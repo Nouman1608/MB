@@ -250,6 +250,20 @@ Small reminder: CPI 140 → 147 is inflation of 7 ÷ 140 × 100 = 5%.
 </figure>
 
 
+## Frequently asked questions
+
+**What are leakages and injections in the circular flow of income?**
+Leakages take money out of the circular flow: saving, taxes and imports. Injections add money in: investment, government spending and exports.
+
+**How is the Human Development Index calculated?**
+The HDI is the cube root of the health index × education index × income index, so it lies between 0 and 1. Each dimension index is (actual − minimum) ÷ (maximum − minimum), using the UNDP goalposts.
+
+**What are the UNDP HDI development groups?**
+Very high human development is 0.800 and above, high is 0.700–0.799, medium is 0.550–0.699 and low is below 0.550.
+
+**How do you calculate the unemployment rate?**
+Divide the number of unemployed people by the labour force and multiply by 100. The labour force is the employed plus the unemployed, not the whole working-age population.
+
 ## Official syllabus
 
 These notes are aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "economic agents and their interests and role in the economy: consumers, producers, governments, banks" and "measurements and trends" among the topics explored in the individuals and societies on-screen examinations. The full MYP individuals and societies guide is available to schools through the IB.

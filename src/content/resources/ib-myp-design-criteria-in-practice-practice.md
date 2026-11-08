@@ -11,7 +11,7 @@ order: 5
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-design-assessment-criteria"
-description: "Original scenario-based practice questions with full worked answers testing whether sample design-portfolio evidence would meet top-band standard for each of MYP Design's four assessment criteria."
+description: "Original IB MYP Design practice questions judging sample portfolio evidence against top-band standards for Criteria A to D, with full worked answers."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -85,6 +85,20 @@ Related: [Criteria in Practice study guide](/resources/ib-myp-design-criteria-in
 **6.** Criterion A is likely to score poorly because there is no visible record of the inquiry and analysis that should have preceded the design brief -- photographs of a finished prototype cannot demonstrate that a genuine problem was investigated or that a target audience's need was analysed; written evidence of the original research, survey or observation work would need to be added. Criterion B is likely to score poorly for the same underlying reason: without documentation of a specification and a range of evaluated alternative ideas, there is no evidence that idea development, rather than the first idea attempted, produced the final design; specification and alternative-idea documentation would need to be added. Criterion C is partially supported by the photographs (which can show the finished prototype), but top-band evidence also requires a record of the build sequence and any changes made along the way, which photographs alone do not provide; a build log or journal would need to be added. Criterion D cannot be evidenced at all by photographs of the finished product; specific, measurable test results against the original specification, and identified areas for improvement, would need to be added. In every case, the underlying issue is the same: a strong final product is not, on its own, evidence of the process that produced it, and MYP Design's ePortfolio moderation specifically rewards documented process, not finished-product quality alone. **[8]**
 
 **7.** Because each criterion requires a specific depth and kind of documentation, not just completion of the corresponding activity -- a student can "do" the inquiring-and-analysing stage by briefly reading about a topic without ever surveying or observing a real target audience, "do" the developing-ideas stage by sketching only one idea without genuine comparative evaluation, "do" the creating stage without logging the process or any changes made, and "do" the evaluating stage with only a vague impression rather than specification-based testing. Moving through the stages in sequence provides the natural opportunity to generate strong evidence, but it is the depth and specificity of what is documented at each stage, not simply having completed the stage, that determines whether the corresponding criterion is evidenced at a top-band level. **[4]**
+
+## Frequently asked questions
+
+**What does top-band Criterion C evidence need beyond the finished prototype?**
+It needs a record of the sequence followed to build the prototype and of any changes made to the original plan, with the reasoning behind each change. A finished product with no process record cannot show top-band Creating the solution evidence.
+
+**Why is presenting only one design idea not enough for Criterion B?**
+Top-band Criterion B evidence requires a range of feasible ideas evaluated against a testable specification, and a justification for choosing one over the alternatives. With a single idea there is no comparison for a moderator to credit.
+
+**Why does "it worked well" fail as a Criterion D evaluation?**
+It is a general statement rather than a test of the solution against each point of the original specification. Top-band evaluation reports specific, measurable results and identifies concrete areas for improvement.
+
+**Are these MYP Design practice questions taken from IB materials?**
+No. They are original scenario-based questions written to model the evidence judgements that ePortfolio moderation involves. Use them alongside the official exemplars available through your school.
 
 ## Official syllabus
 

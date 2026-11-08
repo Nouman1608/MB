@@ -143,6 +143,20 @@ Evaluate the three questions, choose the best, and improve Q1. **[5]**
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between time, place and space and orientation in space and time?**
+Time, place and space is one of the key concepts, a broad idea you think with across subjects. Orientation in space and time is one of the six global contexts, which sets the real-world angle of a unit and shows why the inquiry matters.
+
+**What makes a good research question in MYP Individuals and Societies?**
+A good research question is focused, can be investigated with sources you can actually reach, and has a clear place and time frame. A vague question such as "Was the Industrial Revolution good?" needs narrowing before it can be investigated.
+
+**How does changing the global context change a unit?**
+The same topic is studied from a different angle. A dam framed by fairness and development asks who gains and who loses, while the same dam framed by globalization and sustainability asks about long-term environmental and global effects.
+
+**Are the marks in these MYP global contexts questions real IB marks?**
+No. The bracketed points are a revision aid. Real MYP work is judged against criterion level descriptors on levels 1–8 in four bands.
+
 ## Official syllabus
 
 This practice set is aligned to the IB *MYP Individuals and societies guide* (for use from September 2014/January 2015; published May 2014, updated April 2021), published by the International Baccalaureate Organization: its global contexts section, example statements of inquiry, and year 5 objectives and assessment criteria.

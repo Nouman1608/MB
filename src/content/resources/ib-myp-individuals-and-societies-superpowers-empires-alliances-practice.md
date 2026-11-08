@@ -163,6 +163,20 @@ Compare and contrast the usefulness of Sources A and B for a historian studying 
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between an intergovernmental and a supranational organisation?**
+In an intergovernmental organisation, states cooperate but keep full sovereignty. In a supranational organisation, states pool some sovereignty and bodies above the state can make binding rules.
+
+**Why is "Is NATO good?" a weak research question?**
+It is too broad and value-laden to investigate with evidence. A focused question names a specific aspect, place and time period that sources can answer.
+
+**How do you judge whether a state is a superpower?**
+Use several indicators, such as economic, military, political, cultural and demographic strength, rather than one measure. A superpower scores highly on most of them, not just one.
+
+**Are the states and alliances in these practice questions real?**
+No. Norland, Estavia, Porthmere, the Merovan Empire and the Northern Shield Pact are fictional, and the bracketed points are a revision aid rather than IB marks.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists this topic among the on-screen examination topics and names the four criteria used in these labels. Norland, Estavia, Porthmere, the Merovan Empire, the Northern Shield Pact and Sources A and B are fictional.

@@ -7,13 +7,15 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
 syllabusSeries: "First assessment 2021"
-description: "An overview of IB Diploma Programme Mathematics: Applications and Interpretation -- technology-driven, real-world mathematical modelling, and how it differs from Analysis and Approaches."
+description: "An overview of IB DP Mathematics: Applications and Interpretation: real-world modelling with technology, course aims, SL and HL assessment and the five strands."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Individual students have different needs, aspirations, interests and
@@ -149,6 +151,20 @@ should rest on which style of mathematical work -- real-world
 modelling and interpretation, or abstract analytical technique -- suits
 them better, rather than on the exploration itself, since that
 component looks much the same regardless of which course is chosen.
+
+## Frequently asked questions
+
+**What is IB Mathematics: Applications and Interpretation?**
+It is one of the two IB Diploma Programme mathematics subjects, offered at SL and HL. It emphasises the meaning of mathematics in context, with topics used in applications and modelling, while still including calculus and statistics, and all external assessments use technology.
+
+**Is IB Maths AI easier than IB Maths AA?**
+No. Both courses are assessed to the same IB standard and share 60 hours of common SL content and the same assessment objectives. They differ in emphasis, with AI focused on modelling, statistics and technology on every paper.
+
+**Does IB Maths AI include calculus?**
+Yes. Calculus is one of the five content strands. It carries fewer hours than in Analysis and Approaches but remains a substantial part of the course.
+
+**Which strand of IB Maths AI has the most teaching hours?**
+Statistics and probability is one of the two largest strands at both SL and HL, and it is covered in considerably more depth than in Analysis and Approaches.
 
 ## Source
 

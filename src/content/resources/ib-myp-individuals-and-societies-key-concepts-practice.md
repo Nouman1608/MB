@@ -136,6 +136,20 @@ A student is investigating how a change in transport affected different groups i
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between factual, conceptual and debatable questions?**
+Factual questions have a single checkable answer, such as a date or place. Conceptual questions ask how or why ideas connect and transfer to other cases, and debatable questions invite argued positions with more than one defensible answer.
+
+**How do you choose the key concept for a statement of inquiry?**
+Pick the broad idea the statement is mainly about, then explain why it fits. A statement about migration reshaping places, for example, is mainly about change or global interactions, and a related concept and a global context add depth and real-world relevance.
+
+**How do you use the key concept of systems to analyse an event?**
+Name the parts of the system, show how they depend on each other, identify the normal equilibrium and then trace how one shock, such as a failed harvest, spreads to linked parts like other markets.
+
+**Are these MYP key concepts questions real IB exam questions?**
+No. They are original questions, and the bracketed points are a revision aid. Real MYP work is judged against criterion level descriptors on levels 1–8.
+
 ## Official syllabus
 
 This practice set is aligned to the IB *MYP Individuals and societies guide* (for use from September 2014/January 2015; published May 2014, updated April 2021), section "Key concepts" and the sections on related concepts, global contexts, statements of inquiry and inquiry questions.

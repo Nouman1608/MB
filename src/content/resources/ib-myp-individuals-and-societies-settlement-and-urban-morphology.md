@@ -189,6 +189,20 @@ Curitiba in Brazil is a common case study. From the 1970s it built a bus rapid t
 
 For source work in this topic, see [source evaluation exam preparation](/resources/ib-myp-individuals-societies-source-evaluation-exam-preparation/); for how each criterion is judged, see [criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/). Now move on to the [revision notes](/resources/ib-myp-individuals-and-societies-settlement-and-urban-morphology-revision-notes/) and the [practice questions](/resources/ib-myp-individuals-and-societies-settlement-and-urban-morphology-practice/).
 
+## Frequently asked questions
+
+**What is the difference between site and situation?**
+Site is the physical land a settlement is built on, such as a dry point or bridging point. Situation is where the settlement sits in relation to surrounding places, routes and resources, and it often explains why a settlement kept growing.
+
+**What does urban morphology mean?**
+Urban morphology is the shape and layout of a town or city: where its land uses sit, how its streets are arranged and how that pattern changes over time.
+
+**What is a settlement hierarchy?**
+A settlement hierarchy ranks settlements by size and services, from isolated dwelling, hamlet, village, town and city up to conurbation and megacity. Higher-order settlements are fewer, further apart and offer more high-order services.
+
+**Which MYP key concept fits settlement and urban morphology best?**
+The key concept time, place and space fits the topic most closely, and the related concepts causality, globalization, culture and sustainability all apply.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists settlement and urban morphology among the topics explored in the on-screen examinations, and names the four criteria and the related concepts used on this page.

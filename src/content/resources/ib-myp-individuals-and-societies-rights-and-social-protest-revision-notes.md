@@ -217,6 +217,20 @@ For how the tasks and criteria fit together, see the [assessment revision notes]
 - Saying "a 40% rise" when a rate went from 25% to 65%.
 - Vague dates ("in the 1960s") where a precise, well-known date exists, such as 2 July 1964.
 
+## Frequently asked questions
+
+**When was the Universal Declaration of Human Rights adopted?**
+The UN General Assembly adopted the UDHR in Paris on 10 December 1948, by 48 votes to 0 with 8 abstentions. It has 30 articles and was drafted by a commission chaired by Eleanor Roosevelt.
+
+**Is the Universal Declaration of Human Rights legally binding?**
+No. It is a General Assembly declaration rather than a treaty. Many of its rights were made binding by the ICCPR and ICESCR, adopted in 1966 and in force from 1976.
+
+**What is the difference between suffragists and suffragettes?**
+Suffragists, in the NUWSS led by Millicent Fawcett from 1897, campaigned lawfully. Suffragettes, in the WSPU founded by Emmeline Pankhurst in 1903, used militant methods under the slogan "Deeds not words".
+
+**What is the difference between de jure and de facto rights?**
+A de jure right exists in law, while a de facto right exists in practice. Many protests target the gap between the two.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "rights and social protest" among the topics explored in the on-screen examinations; the cases and dates here are standard examples chosen for revision.

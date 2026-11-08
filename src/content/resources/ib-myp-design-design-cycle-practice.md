@@ -12,7 +12,7 @@ order: 8
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-design-assessment-criteria"
-description: "Original scenario-based practice questions with full worked answers testing understanding of the design cycle's four stages and how they map onto the four assessment criteria."
+description: "Original scenario-based IB MYP Design practice questions on the four design cycle stages and how they map onto Criteria A to D, with full worked answers."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -86,6 +86,20 @@ Related: [Design Cycle study guide](/resources/ib-myp-design-design-cycle/) and
 **7.** This view misunderstands the design cycle in at least three ways. First, the cycle's four stages are assessed fresh on every project, not once at the start of the course, so weak documentation habits established early (if never corrected) tend to resurface and cost marks on every subsequent project, not just the first one. Second, the ePortfolio's marks are earned through evidence of the process at each stage, not through the quality of the final product alone -- a genuinely excellent final product with thin process documentation for the inquiry and specification stages still scores poorly on Criteria A and B, regardless of how good the finished item is. Third, this habit of properly documenting inquiry, specification and honest evaluation directly prepares a student for DP Design Technology, which relies on the same cyclical process -- a student who never properly internalises the design cycle at MYP level, treating it as a one-off unit rather than a repeated working method, arrives at DP with a real skills gap to make up, not just a grading disadvantage at MYP level. **[6]**
 
 **8.** Missing from this evaluation is any objective, measurable test against the original specification, any honest account of limitations, and any specific explanation of the solution's impact on its intended user or client -- "everyone liked it" and "it looks good" are subjective impressions, not evidence of tested performance against defined criteria. A stronger version would read something like: "Against the specification's target of tracking step count within 5% accuracy compared with a reference device over a one-week trial, the prototype achieved a measured 8% average deviation -- outside the target range. User feedback indicated the wrist strap was comfortable for extended wear, but the display was reported as difficult to read in direct sunlight by 3 of 5 testers, identifying a specific area for improvement in the next iteration." This reports honest, specification-based, measurable results and identifies a concrete area for improvement, rather than relying on general impressions of likeability and appearance. **[6]**
+
+## Frequently asked questions
+
+**What are the four stages of the MYP Design cycle in order?**
+The four stages are inquiring and analysing, developing ideas, creating the solution and evaluating. Each stage maps onto one assessment criterion, from A to D.
+
+**Can strong Criteria A and B evidence make up for weak Criteria C and D evidence?**
+No. The ePortfolio is assessed as a complete design folder and each criterion is judged on its own evidence. Thin build logs or a one-line evaluation pull down the overall mark even when the early stages are strong.
+
+**Is the MYP design cycle followed once or repeatedly?**
+Repeatedly. The design cycle is the working structure applied to every project across the course, and the criteria are reassessed on each one.
+
+**Are these design cycle questions taken from IB materials?**
+No. They are original questions modelling the understanding that ePortfolio moderation requires. Use them alongside the official exemplars available through your school.
 
 ## Official syllabus
 

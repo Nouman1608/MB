@@ -156,6 +156,20 @@ A student is researching the reasons for migration from Varenia to Norland. Expl
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is demographics and human movements in the MYP Individuals and Societies eAssessment?**
+Yes. The IB subject brief lists demographics and human movements among the topics for the individuals and societies on-screen examinations at the end of MYP year 5.
+
+**How do you calculate a dependency ratio?**
+Add the people aged 0–14 and those aged 65 and over, divide by the people aged 15–64, and multiply by 100. The result is the number of dependants per 100 people of working age.
+
+**How do you judge the value and limitation of a source about migration?**
+Explain what the source can usefully show for your research question, such as a migrant's own reasons, and what it cannot, such as how typical one person's experience is. Link both points to who made the source and why.
+
+**Are these MYP Individuals and Societies questions real exam questions?**
+No. They are original questions using fictional countries and data, and the mark points are a revision aid rather than IB marks.
+
 ## Official syllabus
 
 This practice set is aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "demographics and human movements" among the topics explored in the individuals and societies on-screen examinations. The full MYP individuals and societies guide is available to schools through the IB.

@@ -29,10 +29,12 @@ syllabusTopics:
 description: "Study guide to probability, Venn and tree diagrams, discrete random variables, binomial and normal distributions, with worked examples, for IB DP Maths AI."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches probability, discrete random variables and the binomial and normal distributions for IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, and covers syllabus sections 4.5–4.9, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -306,6 +308,20 @@ Carry the unrounded 0.10565… from your GDC into the binomial calculation. Roun
 ## Where to go next
 
 Test your recall with the [revision notes](/resources/ib-dp-mathematics-ai-sl-probability-binomial-normal-revision-notes/), then work through the [practice questions](/resources/ib-dp-mathematics-ai-sl-probability-binomial-normal-practice/). For how the papers are set out, see the [exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/) and the [syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/).
+
+## Frequently asked questions
+
+**Do you calculate binomial and normal probabilities by hand in IB Maths AI?**
+No. The IB guide says binomial probabilities should be found using technology in examinations, and normal probabilities and values must be found using technology. Your job is to choose the right model, set it up clearly and interpret the answer.
+
+**Can mutually exclusive events be independent?**
+Mutually exclusive events with non-zero probabilities are never independent, because if one happens the other cannot. Their intersection has probability 0, which is not equal to P(A)P(B).
+
+**Does an expected number of occurrences have to be a whole number?**
+No. The expected number of occurrences of A in n trials is n × P(A), and it does not have to be a whole number.
+
+**When should you use the complement in probability?**
+Use P(A′) = 1 − P(A) whenever a question asks for "at least one", because finding the probability of none and subtracting from 1 is usually quickest.
 
 ## Official syllabus
 

@@ -29,10 +29,12 @@ syllabusTopics:
 description: "Condensed IB DP Maths AI HL revision notes on differential equations, Euler's method, slope fields and eigenvalue phase portraits, with a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense the HL differential equations unit of IB Diploma Programme Mathematics: Applications and Interpretation for your final weeks of revision. For full explanations and longer worked examples, use the [differential equations study guide](/resources/ib-dp-mathematics-ai-hl-differential-equations/).
@@ -215,6 +217,20 @@ The guide says systems will have distinct, non-zero eigenvalues, and exact solut
 - Drawing trajectories with no arrows, or with arrows going the wrong way.
 - Stating the long-term ratio y/x from the wrong eigenvector. When its coefficient is non-zero, the term with the larger eigenvalue takes over as t grows.
 - Treating dy/dt in a second order system as d²y/dt² rather than d²x/dt².
+
+## Frequently asked questions
+
+**How do eigenvalues tell you the shape of a phase portrait?**
+Real eigenvalues of the same sign give trajectories all moving away from or all towards the origin, and opposite signs give a saddle point. Complex eigenvalues give a spiral, outwards or inwards depending on the sign of the real part, and purely imaginary eigenvalues give closed circles or ellipses.
+
+**How do you find the direction of rotation on a phase portrait?**
+The sign of the real part decides whether a spiral goes in or out, but a test point decides the direction. Check dy/dt at a point such as (1, 0): if it is positive the motion is anticlockwise there.
+
+**How do you turn a second order differential equation into a coupled system?**
+Let y = dx/dt, so d²x/dt² = f(x, dx/dt, t) becomes dx/dt = y and dy/dt = f(x, y, t). For d²x/dt² + a dx/dt + bx = 0, the matrix is M = [0 1; −b −a].
+
+**When are exact solutions of coupled systems required in IB Maths AI HL?**
+The IB guide says systems will have distinct, non-zero eigenvalues, and exact solutions are only required when the eigenvalues are real and distinct. The solution then has the form A e^(λ₁t) p₁ + B e^(λ₂t) p₂.
 
 ## Official syllabus
 

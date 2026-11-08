@@ -191,6 +191,20 @@ The brief sets out three on-screen examination tasks: **Investigating** (26 mark
 - Saying the anti-apartheid movement was entirely non-violent. The ANC turned to armed struggle in 1961.
 - Judging success without stating the movement's aims first.
 
+## Frequently asked questions
+
+**What is the difference between human rights and civil rights?**
+Human rights belong to every person because they are human and are described as universal, inalienable and indivisible. Civil rights are rights a state guarantees its own citizens in law, such as equal treatment and the vote.
+
+**Why was the Universal Declaration of Human Rights written?**
+The Second World War and the Holocaust showed that a state could strip its own people of every right. The UN Charter of 1945 committed members to promote human rights but did not list them, so a UN commission drafted the UDHR.
+
+**Which UDHR articles matter most for protest?**
+Articles 19, 20 and 21 matter most, because they protect freedom of expression, peaceful assembly and taking part in government through genuine elections.
+
+**How should you judge whether a protest movement was effective?**
+Judge success against the movement's own aims, in both the short and long term, using dated evidence.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "rights and social protest" among the topics explored in the individuals and societies on-screen examinations; the movements here are standard case studies, and your school may use others.

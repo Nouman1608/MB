@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
-description: "Descriptive statistics, probability, distributions and inferential statistics -- one of the two largest content strands of IB Diploma Programme Mathematics: Applications and Interpretation, first assessment 2021, and the technology fluency and interpretive skill it specifically rewards."
+description: "The IB DP Maths AI statistics and probability strand: descriptive statistics, probability, binomial and normal models, inference and how to interpret results."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Statistics and Probability**, one of this course's
@@ -158,6 +160,20 @@ confusing when a binomial model is appropriate versus a normal model.
 - End every calculation with a sentence interpreting the result in
   context, including noting correlation-versus-causation limits where
   relevant.
+
+## Frequently asked questions
+
+**What does the statistics and probability strand of IB Maths AI cover?**
+It covers descriptive statistics, probability rules and diagrams, the binomial and normal distributions (with Poisson at HL only), and inferential statistics including correlation, regression and hypothesis testing.
+
+**Does correlation prove causation in IB Maths AI?**
+No. A strong correlation shows that two variables tend to change together, but it does not by itself prove that one causes the other, because other factors could influence both. A strong exam answer states this limitation.
+
+**What is the choose, calculate, interpret method?**
+Choose the right statistical tool for the question, calculate it using your exam technology, then write one or two sentences interpreting what the result means in context. The interpret step is where many marks are lost.
+
+**Which strands are largest in IB Maths AI alongside statistics and probability?**
+At SL, statistics and probability and functions are the two largest strands. At HL, statistics and probability and geometry and trigonometry are the two largest, with functions third.
 
 ## Official syllabus
 

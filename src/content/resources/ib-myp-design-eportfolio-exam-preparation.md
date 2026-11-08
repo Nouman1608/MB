@@ -9,7 +9,7 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Design"]
 syllabusSeries: "From 2014"
 order: 9
-description: "A stage-by-stage preparation checklist for IB Middle Years Programme Design's ePortfolio eAssessment -- what to document at each design cycle stage so criteria A-D are all genuinely evidenced, not just the finished prototype."
+description: "A stage-by-stage checklist for the IB MYP Design ePortfolio: what to record at each design cycle stage so Criteria A to D are evidenced, not just the product."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -110,6 +110,20 @@ including limitations, not just a report that the solution worked. 5. Submitting
 product with thin process documentation; it lowers the mark because criteria A-C are assessed on
 documented process, not the finished product's quality alone, so strong final work with weak
 documentation genuinely under-evidences three-quarters of the assessment.
+
+## Frequently asked questions
+
+**Is there a written exam for MYP Design?**
+No. MYP Design has no written on-screen examination; it is assessed through an ePortfolio, so preparation means building documentation habits throughout each project rather than last-minute revision.
+
+**Who marks the MYP Design ePortfolio?**
+Your own classroom teacher marks the ePortfolio, and the IB then externally moderates a sample from your school.
+
+**What should you record during Criterion C for the ePortfolio?**
+Record planning documentation, evidence that you followed the plan, where and why you deviated from it, progress photos at meaningful stages and any problems you met and how you solved them.
+
+**What is the most common MYP Design ePortfolio mistake?**
+Submitting a polished final product supported by thin process documentation. Keep an ongoing project journal rather than writing a report after the product is finished.
 
 ## Official syllabus
 

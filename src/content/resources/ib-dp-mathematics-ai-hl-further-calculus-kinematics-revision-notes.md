@@ -29,10 +29,12 @@ syllabusTopics:
 description: "Condensed IB Maths AI HL notes on differentiation rules, concavity, substitution, areas, volumes of revolution and kinematics, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and longer worked examples, use the [further calculus and kinematics study guide](/resources/ib-dp-mathematics-ai-hl-further-calculus-kinematics/).
@@ -231,6 +233,20 @@ All three HL papers require technology, but the GDC supports the method rather t
 - Using x-limits, or πy², when the rotation is about the y-axis.
 - Giving displacement when the question asks for distance travelled, or quoting a negative speed.
 - Writing a GDC answer to fewer than 3 significant figures, or rounding early and carrying the error forward.
+
+## Frequently asked questions
+
+**How do you find a point of inflexion in IB Maths AI HL?**
+Solve f′′(x) = 0 and then check that f′′ changes sign at that point. A point where f′′(x) = 0 but the concavity does not change is not a point of inflexion.
+
+**What is the formula for a volume of revolution about the y-axis?**
+Use V = π∫x² dy, after rearranging the equation to give x² in terms of y and converting the limits to y-values. About the x-axis, use V = π∫y² dx.
+
+**Should trigonometric calculus be done in degrees or radians?**
+Work in radians for all differentiation and integration of trigonometric functions. The standard results such as d/dx(sin x) = cos x only hold in radians.
+
+**How is acceleration written in terms of displacement?**
+Acceleration can be written as a = dv/dt = d²s/dt² or as a = v(dv/ds), which is useful when velocity is given as a function of displacement.
 
 ## Official syllabus
 

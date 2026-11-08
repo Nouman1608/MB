@@ -186,6 +186,20 @@ The brief names four criteria, each with eight achievement levels (1–8) in fou
 - A sustainable-city judgement that gives only environmental evidence.
 - Reaching a conclusion in a Criterion D answer without weighing the other side.
 
+## Frequently asked questions
+
+**What is the difference between urbanisation and urban growth?**
+Urbanisation is a rise in the proportion of people living in urban areas. Urban growth is a rise in the number of people living in urban areas, which can happen even if the urban share stays the same.
+
+**What is the difference between threshold and range?**
+Threshold is the minimum number of people needed to support a service. Range is the maximum distance people will travel to use it, which is greater for high-order goods than for low-order ones.
+
+**What is the main weakness of the Burgess concentric zone model?**
+The Burgess model, based on Chicago in 1925, arranges land use in rings around the CBD but ignores transport routes and physical features that distort those rings.
+
+**What is a megacity?**
+A megacity is a city of 10 million people or more. It sits at the top of the settlement hierarchy, above conurbations.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists settlement and urban morphology among the on-screen examination topics, and names the criteria and related concepts used here.

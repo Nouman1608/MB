@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
-description: "Real-world spatial problems, triangle trigonometry, compound solids and, at HL, radians and circular functions, matrix transformations, vectors and graph theory -- the strand with the largest SL-to-HL jump in IB Diploma Programme Mathematics: Applications and Interpretation, first assessment 2021, and its technology-driven approach."
+description: "The IB DP Maths AI geometry and trigonometry strand: triangle trigonometry, bearings, compound solids and HL radians, matrices, vectors and graph theory."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the **Geometry and Trigonometry** strand, which
@@ -164,6 +166,20 @@ paper in this course permits technology throughout.
   <figcaption>Solve two coordinate equations, then check the third to decide between intersecting and skew lines.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**Is geometry and trigonometry in IB Maths AI the same as in Maths AA?**
+The strand name is shared, but AI frames geometry and trigonometry around real-world spatial problems such as navigation, design and measurement. Every AI paper allows technology, so a GDC is expected to be used rather than avoided.
+
+**Is graph theory part of the IB Maths AI geometry and trigonometry strand?**
+Yes, at HL only. Graph theory (AHL 3.14–3.16) covers graphs, vertices and edges, adjacency matrices and walks, and tree and cycle algorithms.
+
+**How do you find the surface area of a compound solid?**
+Split the solid into recognisable shapes, calculate each surface separately, and label which faces are internal before adding. Internal faces, such as the top of a cylinder covered by a hemisphere, are excluded from the surface area total.
+
+**How many hours is the IB Maths AI geometry and trigonometry strand at SL and HL?**
+It has 18 teaching hours at SL and 46 at HL, which is the largest proportional increase from SL to HL of the five strands.
 
 ## Official syllabus
 

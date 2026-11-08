@@ -11,7 +11,7 @@ order: 5
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-assessment-criteria"
-description: "Original MYP Individuals and Societies practice questions, scenario-based with full worked answers, testing whether sample coursework evidence would meet top-band standard for each of the four assessment criteria."
+description: "Original scenario-based IB MYP Individuals and Societies practice questions judging coursework against top-band standards for Criteria A to D, with answers."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -85,6 +85,20 @@ and [revision notes](/resources/ib-myp-individuals-and-societies-criteria-in-pra
 **6.** Top-band Criterion D evidence requires explicitly considering more than one plausible perspective or interpretation, evaluating their relative strengths and weaknesses, and reaching a substantiated conclusion about which interpretation the available evidence best supports. Relying on a single textbook account and presenting it as the definitive explanation does not demonstrate this comparative evaluation at all -- there is no second perspective being weighed, and no substantiated judgment about which account is better supported, only an unexamined acceptance of one source's framing. The student would need to seek out at least one genuinely different account or interpretation of the same conflict's causes -- ideally from a source reflecting a different national, political or historiographical perspective -- compare it explicitly against the textbook's account, evaluate the strengths and limitations of each, and reach a conclusion about which the available evidence best supports, rather than presenting either account as simply correct. **[6]**
 
 **7.** In a combined history-and-geography local-issue investigation, Criterion A evidence emerges from applying relevant conceptual frameworks (from either discipline) to explain the issue's origins or dynamics; Criterion B evidence emerges from the process of researching the issue systematically across a genuine range of sources; Criterion C evidence emerges from how that research is organised, referenced and communicated in the final write-up; and Criterion D evidence emerges from a critical evaluation of the issue that weighs different perspectives. Criterion D illustrates the dependency clearly: a strong critical evaluation weighing different perspectives on the local issue is only possible once the Criterion B research has already gathered more than one genuinely different perspective or source type to weigh against each other -- if the investigation's Criterion B work used only one narrow source type, there would be no real perspectives available to compare for Criterion D, regardless of how carefully the final evaluation is written. **[6]**
+
+## Frequently asked questions
+
+**Why might an accurate list of facts not reach the top band for Criterion A?**
+Top-band Criterion A evidence applies factual and conceptual knowledge to build a reasoned explanation. Accurate facts listed without a framework connecting them show recall but not the understanding needed to explain an unfamiliar case.
+
+**Why is relying on one textbook account weak for Criterion D?**
+Criterion D rewards considering more than one perspective, evaluating the strengths and weaknesses of each and reaching a substantiated conclusion. Presenting a single account as the definitive explanation gives no comparison to evaluate.
+
+**What should a strong investigation do with its sources?**
+As good practice, it should evaluate each source's reliability and its relevance to the specific research question, and use a genuine range of source types rather than the first sources found.
+
+**Are these MYP Individuals and Societies questions taken from IB material?**
+No. They are original scenario-based questions written for revision. Use them alongside the official exemplars available through your school.
 
 ## Official syllabus
 

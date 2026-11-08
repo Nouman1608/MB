@@ -9,7 +9,7 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Design"]
 syllabusSeries: "From 2014"
 order: 2
-description: "The design cycle and four assessment criteria of IB Middle Years Programme Design -- inquiring and analysing, developing ideas, creating the solution, evaluating -- and how the ePortfolio eAssessment is structured."
+description: "The IB MYP Design framework: the design cycle, key and related concepts, the four assessment criteria A to D, teaching hours and how the ePortfolio works."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -135,6 +135,20 @@ satisfactory level of achievement in at least one course from physical
 and health education, arts or design, so for students taking design as
 that elective, a genuinely well-documented ePortfolio carries weight
 beyond the subject itself.
+
+## Frequently asked questions
+
+**How many teaching hours does MYP Design need?**
+The MYP requires at least 50 hours of teaching time for design in each year of the programme, with a recommended 70 hours of guided learning per year in MYP years 4 and 5 for students pursuing eAssessment.
+
+**What does each MYP Design criterion assess?**
+Criterion A assesses inquiring into and analysing a problem, B writing a specification and presenting a solution, C planning and creating a testable prototype, and D testing and evaluating the solution and its impact.
+
+**What forms can the MYP Design ePortfolio take?**
+The ePortfolio is a complete design folder containing a design brief and specification, formally assessed as product design, digital design, or combined digital and product design.
+
+**Does MYP Design have a fixed content list?**
+No. The framework is the design cycle, the key and related concepts, the global contexts and the four criteria, and schools design their own units within it.
 
 ## Official syllabus
 

@@ -195,6 +195,20 @@ Notice that value and limitation both come from the same fact about origin.
 - UN peacekeeping: see [warfare and peacekeeping](/resources/ib-myp-individuals-and-societies-warfare-and-peacekeeping/).
 - [Criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/), [the disciplines of individuals and societies](/resources/ib-myp-individuals-societies-disciplines/) and the [assessment revision notes](/resources/ib-myp-individuals-and-societies-assessment-revision-notes/).
 
+## Frequently asked questions
+
+**What is a superpower?**
+A superpower is a state that can project power in every region of the world across military, economic, political and cultural fields at once. The word is usually credited to William T. R. Fox, writing in 1944.
+
+**What is the difference between a superpower and a great power?**
+A great power has strong regional or wide influence but lacks the global reach across every field that a superpower has.
+
+**Is superpowers, empires and alliances in the MYP on-screen exam?**
+Yes. The IB subject brief lists superpowers, empires, and supra-national alliances and organizations among the topics explored in the individuals and societies on-screen examinations.
+
+**Which concepts fit the topic of superpowers and empires?**
+The topic is built on the related concept causality, for why empires rise and fall, and the key concept global interactions, for how states cooperate and compete. The global context that usually fits best is orientation in space and time.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists this topic among the on-screen examination topics and names the concepts, global contexts and criteria used here. Arvenia, Kestria and Valdoria are fictional.

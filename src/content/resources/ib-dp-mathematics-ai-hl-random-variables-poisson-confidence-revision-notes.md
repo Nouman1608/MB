@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Condensed IB Maths AI HL revision notes on E and Var rules, X̄ and the CLT, z and t confidence intervals and Poisson, with a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, start with the [random variables, CLT, confidence intervals and Poisson study guide](/resources/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence/).
@@ -216,6 +218,20 @@ To judge a claim, check whether the claimed value lies inside the interval. Insi
 - Keeping the Poisson mean for the wrong interval, for example using the hourly rate for a 3-hour period.
 - Treating P(X ≥ 4) as 1 − P(X ≤ 4) instead of 1 − P(X ≤ 3).
 - Naming a model without a reason from the context, such as "Poisson" with no mention of independence or a constant rate.
+
+## Frequently asked questions
+
+**What sample size counts as large for the central limit theorem in IB Maths AI?**
+In IB examinations, n > 30 counts as large. For such samples the sample mean X̄ is approximately normal, X̄ ≈ N(μ, σ²/n), whatever the distribution of X.
+
+**Why is Var(X − Y) equal to Var(X) + Var(Y)?**
+For independent variables, each coefficient is squared in the variance rule, so the coefficient −1 becomes +1. Variances always add, even when the variables are subtracted.
+
+**What does a 95% confidence interval mean?**
+If you took many samples and built an interval from each in the same way, about 95% of those intervals would contain the population mean μ. It does not mean there is a 95% probability that μ lies in your one interval, because μ is fixed.
+
+**What is the mean and variance of a Poisson distribution?**
+For X ~ Po(m), both the mean and the variance equal m. The sum of two independent Poisson variables is also Poisson, with mean m₁ + m₂.
 
 ## Official syllabus
 

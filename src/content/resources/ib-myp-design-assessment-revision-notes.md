@@ -80,6 +80,20 @@ The four criteria mirror the design thinking process used professionally across 
 
 **Answers:** 1. Inquiring and analysing; Developing ideas; Creating the solution; Evaluating. 2. An eight-point scale (1-8) across four descriptor bands, with a level of 0 for work below the lowest band (so 0-8 in practice). 3. Reflecting on how the solution could be improved, not just testing whether it works. 4. By ePortfolio — a complete design folder marked by the teacher and externally moderated by the IB on a sampled basis. 5. Because the criteria reward the documented process behind the prototype (research, specification, planning, testing and reflection), not just the finished object, so a strong process with a modest prototype can outscore a strong prototype with a thin process. 6. It is dragged down overall, since criteria A, B and D score poorly even though criterion C (creating the solution) might score well.
 
+## Frequently asked questions
+
+**How is IB MYP Design graded?**
+MYP Design is graded against four equally weighted criteria: A Inquiring and analysing, B Developing ideas, C Creating the solution and D Evaluating. Each is scored on an 8-point scale with a level of 0 below the lowest band, so the subject total is 0–32.
+
+**Is MYP Design assessed by an exam?**
+Where a school opts into MYP eAssessment, Design is assessed by an ePortfolio rather than an on-screen exam. The complete design folder is marked by your teacher against the year 5 criteria and then moderated by the IB on a sampled basis.
+
+**Why can a well-made prototype still get low marks in MYP Design?**
+The criteria reward the documented process behind the prototype, including research, specification, planning, testing and reflection. A strong product with a thin or missing record scores well under Criterion C but poorly under A, B and D.
+
+**What is a common weakness in MYP Design Criteria A and B?**
+Jumping to a design idea before completing genuine research and analysis of the problem. Criteria A and B reward the depth of investigation and idea generation, not just the quality of the final concept.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Design subject brief (Middle

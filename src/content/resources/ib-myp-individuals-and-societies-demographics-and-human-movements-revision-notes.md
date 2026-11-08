@@ -174,6 +174,20 @@ Small reminder: a notch at ages 30–34 in a pyramid drawn in 2020 points to low
 - Judging a source only by its content, without its origin or purpose.
 - Forgetting that the dependency ratio divides by the 15–64 group, not the whole population.
 
+## Frequently asked questions
+
+**How do you calculate the natural increase rate?**
+Subtract the crude death rate from the crude birth rate, both per 1,000, and divide by 10 to get a percentage per year. The rule of 70 then estimates doubling time as 70 ÷ the natural increase rate.
+
+**What are the five stages of the demographic transition model?**
+Stage 1 high stationary, stage 2 early expanding, stage 3 late expanding, stage 4 low stationary and stage 5 declining. Each stage is defined by the levels of the birth and death rates.
+
+**What are the limitations of the demographic transition model?**
+It is based on Europe, ignores migration, gives no timescale and ignores government policy, such as China's one-child policy.
+
+**What is replacement level fertility?**
+Replacement level fertility is about 2.1 children per woman, which is enough for each generation to replace itself.
+
 ## Official syllabus
 
 These notes are aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "demographics and human movements" among the topics explored in the individuals and societies on-screen examinations. The full MYP individuals and societies guide is available to schools through the IB.

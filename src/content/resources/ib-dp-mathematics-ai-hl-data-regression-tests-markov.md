@@ -26,10 +26,12 @@ syllabusTopics:
 description: "IB Maths AI HL study guide: data collection, reliability and validity, non-linear regression and R², hypothesis tests, Type I/II errors, Markov chains."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches one HL unit of IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, and covers syllabus sections 4.12, 4.13, 4.18 and 4.19. All of this content is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -296,6 +298,20 @@ For the exact steady state, solve 0.8a + 0.3b = a with a + b = 1. This gives 0.2
 ## Where to go next
 
 Condense this with the [revision notes](/resources/ib-dp-mathematics-ai-hl-data-regression-tests-markov-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-ai-hl-data-regression-tests-markov-practice/). See also the [exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/), [syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/) and [subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/).
+
+## Frequently asked questions
+
+**When do you merge categories in a χ² goodness of fit test?**
+Merge neighbouring categories until every expected frequency is greater than 5, and say why you merged. Then count the categories after merging when working out the degrees of freedom.
+
+**Can you choose between regression models using R² alone?**
+No. Adding terms, such as going from quadratic to cubic, never lowers R², so also compare SSres and ask whether the model makes sense in context and outside the data range.
+
+**What is a regular Markov chain?**
+A Markov chain is regular when some power of the transition matrix T has all entries positive. Its steady state s satisfies Ts = s with entries summing to 1, which makes it the eigenvector for eigenvalue 1.
+
+**What does a transition matrix entry mean in IB Maths AI?**
+In the IB Maths AI convention, the entry Tᵢⱼ is the probability of moving from state j to state i, so each column sums to 1. Transposing the matrix is a common error.
 
 ## Official syllabus
 

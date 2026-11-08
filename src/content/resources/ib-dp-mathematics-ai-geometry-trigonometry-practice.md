@@ -12,13 +12,15 @@ order: 5
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
-description: "Original practice questions with full worked answers on triangle trigonometry, bearings, compound solids and HL vector intersection, for the Geometry and Trigonometry strand of IB Diploma Programme Mathematics: Applications and Interpretation."
+description: "Original IB DP Maths AI geometry and trigonometry practice questions on the sine and cosine rules, bearings, compound solids and HL vector lines, with answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -105,6 +107,20 @@ satisfied, the correct conclusion would have been that the lines do not intersec
 assuming they are not parallel), not that an arithmetic error had necessarily been made -- distinguishing
 "the lines genuinely don't meet" from "I've made a mistake" is itself part of the skill this kind of HL
 question tests.
+
+## Frequently asked questions
+
+**How do you choose between the sine rule and the cosine rule in IB Maths AI?**
+Use the cosine rule when you know two sides and the included angle (SAS) or all three sides (SSS). Use the sine rule when you know two angles and a side, or two sides and a non-included angle.
+
+**Why should you draw a diagram before a bearings question?**
+A labelled sketch with north lines at each point makes it easier to turn the bearings into a genuine interior angle, which is where most marks are lost. Sign and direction errors are far easier to spot on a diagram than in a line of algebra.
+
+**How do you test whether two lines in 3D intersect?**
+Set the two parametric vector equations equal, solve two of the three component equations for the parameters, then check those values in the third equation. If the third equation is not satisfied, the lines do not intersect, and if they are not parallel they are skew.
+
+**Are these IB Maths AI geometry questions from past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs, so use them alongside the official past papers.
 
 ## Official syllabus
 
