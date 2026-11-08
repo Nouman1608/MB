@@ -292,6 +292,23 @@ Adsorption must weaken bonds yet still let products leave. Only the surface work
 - Claiming first order from a single half-life.
 - Leaving R in J but quoting Ea in kJ, or dropping the minus sign on the gradient.
 
+## Frequently asked questions
+
+**Is kinetics AS or A2 in Edexcel International A Level Chemistry?**
+Topic 11: Kinetics is International A2 content in Unit 4: Rates, Equilibria and Further Organic Chemistry of the Pearson Edexcel specification (YCH11). It builds on Topic 9A from Unit 2 and includes Core Practicals 9a, 9b and 10.
+
+**Why are samples run into sodium hydrogencarbonate in the iodination of propanone?**
+Sodium hydrogencarbonate neutralises the acid catalyst, which quenches the reaction. The iodine left at that moment can then be titrated with sodium thiosulfate.
+
+**What does a zero order in iodine show about the mechanism of propanone iodination?**
+Iodine does not take part in the rate-determining step; it reacts in a later, fast step. The rate equation, rate = k[CH₃COCH₃][H⁺], shows that the slow step involves one propanone and one H⁺.
+
+**Why is water added in the Harcourt-Esson clock reaction?**
+Water keeps the total volume constant, so the concentration of iodide is proportional to the volume of potassium iodide solution used. The same amount of reaction happens in each run, so the initial rate is proportional to 1/time.
+
+**How does a solid catalyst speed up a gas-phase reaction?**
+Reactant molecules adsorb weakly onto active sites on the solid, their bonds weaken and they are held close together, lowering the activation energy. The products then desorb, freeing the sites.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 11: Kinetics, outcomes 11.1 to 11.13.

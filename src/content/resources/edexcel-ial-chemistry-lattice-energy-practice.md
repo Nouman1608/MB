@@ -162,6 +162,23 @@ Lattice energy of BaCl₂ = −2056; ΔhydH(Ba²⁺) = −1341; ΔhydH(Cl⁻) = 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry lattice energy questions cover?**
+They cover part 12B, Lattice energy, outcomes 12.12 to 12.19 of the Pearson Edexcel International A Level Chemistry specification (YCH11). Part 12B is International A2 content assessed in Unit 4.
+
+**How is lattice energy defined in the Edexcel IAL specification?**
+Lattice energy is the enthalpy change when 1 mol of an ionic solid is formed from its gaseous ions, so it is always exothermic. Describing it as breaking a solid into ions gives the reverse process and loses the definition marks.
+
+**What steps are often missed in a Born-Haber cycle for a Group 2 compound?**
+A 2+ cation needs both its first and second ionisation energies. A formula with two anions, such as BaI₂, also needs two moles of atomisation and two electron affinity terms.
+
+**Does an endothermic enthalpy change of solution mean a salt is insoluble?**
+No. Solubility is predicted from the total entropy change, ΔStotal = ΔSsystem − ΔsolH/T with ΔsolH in J mol⁻¹. Some salts dissolve endothermically because ΔSsystem outweighs the negative surroundings term.
+
+**How do you explain covalent character from lattice energy data?**
+Compare the experimental (Born-Haber) and theoretical (electrostatic) values: a clearly more exothermic experimental value shows partial covalent bonding. Explain it by the cation polarising the anion, drawing electron density into the region between the ions.
+
 ## Official syllabus
 
 Source document: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Section tested here: 12B Lattice energy (outcomes 12.12 to 12.19), within Topic 12, Entropy and Energetics.

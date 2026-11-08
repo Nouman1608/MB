@@ -199,6 +199,20 @@ Why temperature matters: T is on the bottom of −ΔH/T, so raising T shrinks th
 - Explaining kinetic stability with ΔH or entropy instead of activation energy.
 - Leaving out units or the sign on a final ΔS value.
 
+## Frequently asked questions
+
+**What are the three entropy equations for Edexcel IAL Chemistry?**
+ΔSsystem = ΣS⦵(products) − ΣS⦵(reactants), ΔSsurroundings = −ΔH/T, and ΔStotal = ΔSsystem + ΔSsurroundings. They cover outcomes 12.6 to 12.8 of Topic 12A in the Pearson Edexcel specification (YCH11).
+
+**Is the standard entropy of an element zero?**
+No. Above 0 K every substance, element or compound, has a positive standard entropy. It is ΔfH⦵ of an element in its standard state that is zero, which is a common source of confusion.
+
+**Do you have to use ΔG in Edexcel IAL entropy questions?**
+No. The specification allows ΔG = ΔH − TΔSsystem in answers but does not require it. Since ΔG = −TΔStotal, a negative ΔG and a positive ΔStotal are the same test for feasibility.
+
+**Why does raising the temperature change the feasibility of a reaction?**
+Temperature is on the bottom of ΔSsurroundings = −ΔH/T, so a higher temperature makes the surroundings term smaller. At high temperature the sign of ΔSsystem dominates ΔStotal.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 12: Entropy and Energetics, part 12A: Entropy, outcomes 12.1 to 12.11.

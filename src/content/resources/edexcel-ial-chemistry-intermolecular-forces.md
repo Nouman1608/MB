@@ -281,6 +281,23 @@ between molecules, not O-H bonds.
 
 Next: the [practice questions](/resources/edexcel-ial-chemistry-intermolecular-forces-practice/).
 
+## Frequently asked questions
+
+**Is intermolecular forces AS or A2 content in Edexcel IAL Chemistry?**
+Topic 7: Intermolecular Forces is International AS content in the Pearson Edexcel specification (XCH11/YCH11). It is examined in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols.
+
+**What affects the strength of London forces?**
+London forces get stronger when a molecule has more electrons, because a larger electron cloud is more easily distorted, and when molecules have more surface contact. They act between all molecules, polar or not.
+
+**Why does water boil so much higher than hydrogen sulfide?**
+From H₂S to H₂Te boiling temperature rises with the number of electrons, so water, with the fewest electrons, would be expected to boil lowest. It boils far higher because extra energy is needed to break its hydrogen bonds, which the other Group 16 hydrides cannot form.
+
+**Why do alcohols boil higher than alkanes with the same number of electrons?**
+Equal electron numbers give similar London forces, but an alcohol's O-H group also lets its molecules form hydrogen bonds. Propan-1-ol and butane both have 34 electrons, yet propan-1-ol boils 97 K higher.
+
+**Why do some ionic compounds dissolve in water?**
+Polar water molecules surround the ions, with δ− oxygen atoms around cations and δ+ hydrogen atoms towards anions, in a process called hydration. If the energy released compensates for breaking the lattice, the solid dissolves.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11), Specification,
@@ -305,4 +322,3 @@ Issue 1, September 2017, published by Pearson Education Limited. Topic 7: Interm
   <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--04-crystal-types.webp" width="900" height="1140" alt="Four panels show the four crystal types. Ionic (sodium chloride) is a lattice of ions and melting overcomes attractions between ions. Metallic (magnesium) is positive ions in a sea of electrons. Giant covalent (diamond) is a network of carbon atoms, and melting breaks covalent bonds. Molecular (iodine, ice) has only weak forces between molecules to overcome, so the melting point is low." loading="lazy">
   <figcaption>The type of structure decides what has to be overcome on melting: ions, ion-electron attraction, covalent bonds or only weak forces between molecules.</figcaption>
 </figure>
-

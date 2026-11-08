@@ -11,13 +11,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["YCH11"]
 syllabusSeries: "For first teaching 2018"
 order: 3
-description: "The unit weightings of Edexcel IAL Chemistry YCH11, why Units 3 and 6 are written practical papers, the 20% minimum mathematics demand, and a worked routine for organic mechanism questions."
+description: "Edexcel IAL Chemistry YCH11 exam preparation: unit weightings, why Units 3 and 6 are written practical papers, the 20% maths demand and mechanism routines."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Edexcel International A Level Chemistry (YCH11) is modular, with three International Advanced
@@ -127,6 +129,20 @@ titrations, enthalpy changes, rates and orders, equilibrium constants, and yield
 frequently requires a reaction first met in Unit 2. 4. Arrows drawn from an atom rather than from a
 lone pair or a bond, and omitted charges or intermediates -- the marks follow the electron-movement
 convention.
+
+## Frequently asked questions
+
+**How many exam papers are there in Edexcel International A Level Chemistry?**
+Edexcel International A Level Chemistry (YCH11) has six externally assessed units: three at International AS (Units 1 to 3) and three at International A2 (Units 4 to 6). Units 1, 2, 4 and 5 are each worth 20%, and the two practical skills units, Units 3 and 6, are each worth 10%.
+
+**Do Edexcel IAL Chemistry students do a practical exam in the laboratory?**
+No. Units 3 and 6, Practical Skills in Chemistry I and II, are written papers of 1 hour 20 minutes and 50 marks each. They assess planning, apparatus choice, uncertainty, error and the evaluation of results rather than hands-on technique.
+
+**How long are the Edexcel IAL Chemistry Unit 4 and Unit 5 papers?**
+Units 4 and 5 are each 1 hour 45 minutes for 90 marks, compared with 1 hour 30 minutes for 80 marks in Units 1 and 2. The extra content per paper is greater than the extra time, so practise full A2 papers to time.
+
+**Which calculations should I practise for Edexcel IAL Chemistry?**
+At least 20% of marks target Level 2 mathematics or above. In chemistry that means moles and concentration, titrations, enthalpy changes, rate equations and orders, equilibrium constants, and percentage yield and atom economy.
 
 *Written against the Pearson Edexcel International Advanced Level Chemistry specification (official
 specification PDF, verified 2026-08-28). The mechanism routine above is an original model written for

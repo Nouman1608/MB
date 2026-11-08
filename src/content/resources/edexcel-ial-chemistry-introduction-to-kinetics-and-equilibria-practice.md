@@ -175,6 +175,23 @@ Predict and justify the effect on the equilibrium yield of phenylethene of:
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry Topic 9 practice questions cover?**
+They cover Topic 9: Introduction to Kinetics and Equilibria of the Pearson Edexcel International A Level Chemistry specification (YCH11), outcomes 9.1 to 9.11. The topic is International AS content from Unit 2.
+
+**How do you get full marks explaining the effect of temperature on rate?**
+Say that a larger fraction of molecules have energy at or above the activation energy, so a greater proportion of collisions succeed. An answer based only on collision frequency usually scores less.
+
+**How do you measure a rate from a tangent without losing marks?**
+Draw a long tangent, take two points far apart on the tangent itself rather than on the curve, and divide the change in y by the change in x. Give units built from the axes, such as cm³ s⁻¹.
+
+**What should you write in a "use the data" equilibrium question?**
+Quote figures from the table, such as the yield and the time to reach equilibrium at each condition, and use them to justify your choice. General statements without numbers usually earn only part of the marks.
+
+**Does a catalyst change the yield of an equilibrium reaction?**
+No. A catalyst speeds up the forward and backward reactions equally, so equilibrium is reached sooner but the yield is unchanged. Claiming a catalyst raises the yield loses the mark.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Topic 9: Introduction to Kinetics and Equilibria (outcomes 9.1 to 9.11). Published by Pearson Education Limited.

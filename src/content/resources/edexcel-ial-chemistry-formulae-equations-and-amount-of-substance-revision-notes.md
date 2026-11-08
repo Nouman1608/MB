@@ -243,6 +243,22 @@ every reactant atom ends up in the desired product.
   <figcaption>Spectator ions are unchanged and are cancelled to give the ionic equation.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between empirical and molecular formula?**
+The empirical formula is the lowest whole-number ratio of atoms in a compound, while the molecular formula is the actual number of each atom in one molecule. They can be the same, as in H₂O, or different, as in C₂H₄ and CH₂.
+
+**What is the difference between percentage yield and atom economy?**
+Percentage yield compares the actual mass obtained with the theoretical mass, so it depends on the experiment. Atom economy compares the molar mass of the desired product with the total molar mass of all products, so it depends only on the equation.
+
+**Do relative atomic mass and relative formula mass have units?**
+No. Ar, Mr and relative formula mass are ratios on the scale where carbon-12 is exactly 12, so they have no units. Molar mass, in g mol⁻¹, does have units.
+
+**How is ppm used in Edexcel International A Level Chemistry?**
+In Topic 1 of the Edexcel IAL Chemistry specification (YCH11), parts per million are used by volume for gases in the atmosphere and by mass for dissolved substances. To convert a percentage to ppm, multiply it by 10⁴.
+
+**What does Core Practical 1 measure?**
+Core Practical 1 measures the volume occupied by one mole of gas. You weigh a solid by difference, react it to make gas, measure the final gas volume and divide that volume by the moles of gas formed.
 
 ## Official syllabus
 

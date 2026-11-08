@@ -282,6 +282,23 @@ Suggested practicals: NO₂ (brown) ⇌ N₂O₄ (colourless), forward exothermi
 - Counting atoms instead of gas molecules when predicting a pressure change.
 - Choosing conditions in a compromise question without quoting the data.
 
+## Frequently asked questions
+
+**What is activation energy?**
+Activation energy, Ea, is the minimum energy colliding particles need for a reaction to occur. Only collisions with energy at or above Ea are successful.
+
+**How does a catalyst appear on a Maxwell-Boltzmann distribution?**
+At constant temperature the curve does not change. Only the activation energy mark moves to a lower energy, so a larger area lies beyond it and more molecules can react on collision.
+
+**What are the two features of dynamic equilibrium?**
+The forward and backward reactions run at equal rates, and the concentrations of reactants and products stay constant. Equilibrium needs a closed system, and the concentrations are constant rather than equal.
+
+**What is the difference between rate and yield?**
+Rate is how fast a reaction happens, while yield is how much product is present at equilibrium. A catalyst changes the rate but not the yield.
+
+**Which factors change the fraction of successful collisions?**
+Raising the temperature and adding a catalyst both increase the fraction of collisions with energy at or above Ea. Concentration, gas pressure and surface area change only how often particles collide.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Topic 9: Introduction to Kinetics and Equilibria (outcomes 9.1 to 9.11). Published by Pearson Education Limited.
