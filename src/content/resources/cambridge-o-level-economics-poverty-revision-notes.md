@@ -203,6 +203,20 @@ Use these four tests for any policy: how fast, who pays, who gains, what side ef
 - Forgetting that an elastic labour demand matters for the minimum wage.
 - Ending an evaluation with a summary that does not choose or justify a policy.
 
+## Frequently asked questions
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty means lacking the income to buy the minimum needed to live, such as food, clean water and shelter. Relative poverty means falling well below the typical income of the society a person lives in.
+
+**Why can illness push a household into poverty?**
+Treatment costs money, and sickness lowers working hours and earnings, so household income falls while spending rises. Illness is one of the causes of poverty named in the Cambridge O Level Economics 2281 syllabus, alongside unemployment, low wages and age.
+
+**Does economic growth reduce relative poverty?**
+Not necessarily. If every income rises by the same percentage, the relative poverty line rises too, so relative poverty is unchanged even though absolute poverty may fall.
+
+**What is a progressive tax?**
+A progressive tax is one where the percentage of income paid in tax rises as income rises. It is not enough to say that the rich pay more; they pay a larger share of their income.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education): section 5.2.

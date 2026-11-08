@@ -233,6 +233,20 @@ Also: a price-level change moves the economy along a curve, while a change in an
 - Giving an evaluation point with no reason, such as "time lags" with no explanation of why.
 - Omitting a conclusion that answers the question set.
 
+## Frequently asked questions
+
+**What is the difference between expansionary and contractionary monetary policy?**
+Expansionary monetary policy cuts interest rates, increases the money supply or relaxes credit rules, shifting AD to the right. Contractionary policy does the opposite: higher rates, less money and tighter credit rules shift AD to the left.
+
+**How do you calculate the real interest rate?**
+The real interest rate is approximately the nominal interest rate minus the inflation rate. For example, a nominal rate of 5.5% with inflation of 2.0% gives a real rate of about 3.5%.
+
+**Does supply-side policy shift aggregate demand or aggregate supply?**
+Supply-side policy shifts aggregate supply: it raises productive capacity, so the LRAS curve shifts right, and lower costs often shift SRAS right too. Drawing an AD shift for a supply-side policy is a common error.
+
+**Why does the price level rise when expansionary monetary policy increases output?**
+Because SRAS slopes upward, a rightward shift of AD raises both real output and the price level. When there is little spare capacity, more of the effect shows up as higher prices rather than extra output.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. These notes cover sections 5.3 and 5.4.

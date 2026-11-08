@@ -234,6 +234,20 @@ The World Bank, also set up at Bretton Woods, focuses on long-term development a
 - Treating the IMF and World Bank as identical.
 - Listing effects with no judgement. Say which matters most and why.
 
+## Frequently asked questions
+
+**What are the benefits and costs of MNCs for a host country?**
+Possible benefits include jobs, training, capital, new technology, tax revenue and exports. Possible costs include local firms being squeezed out, profits sent abroad, tax avoidance, pollution and the risk that a footloose firm leaves.
+
+**What causes external debt to build up?**
+Causes include persistent current account deficits, government deficits financed abroad, low domestic saving, falling export revenue, rising world interest rates and currency depreciation when debt is in foreign currency.
+
+**Why does national income rise by less than GDP when a foreign firm invests?**
+Part of the value added by a foreign-owned plant is profit that belongs to its foreign owners and is sent abroad. Only wages, tax and other money that stays in the country add to national income.
+
+**Which Cambridge 9708 outcomes cover MNCs, FDI, external debt, the IMF and the World Bank?**
+They are syllabus outcomes 11.5.3 to 11.5.7 of Cambridge International AS and A Level Economics 9708. Papers 3 and 4 assess knowledge, analysis and evaluation of these topics.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), outcomes 11.5.3 to 11.5.7.

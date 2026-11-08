@@ -9,10 +9,12 @@ qualifications: ["a-level"]
 syllabusCodes: ["YEC11"]
 syllabusSeries: "Specification Issue 2"
 order: 3
-description: "The exact question-type breakdown of each Edexcel IAL Economics YEC11 unit -- 6 marks of multiple choice, a 34-mark data response, and essays -- plus how the AS and A2 units differ and a worked essay routine."
+description: "Exam guide to Edexcel IAL Economics (YEC11): what each unit paper contains, how the A2 units differ from AS, section timings and a worked 20-mark essay routine."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -129,3 +131,20 @@ specification PDF, Issue 2, verified 2026-08-28). The essay routine above is an 
 for this resource, not a reproduction of any official past paper or mark scheme. Always check the
 current specification for your examination series at
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf).*
+
+## Frequently asked questions
+
+**How many units are there in Edexcel International A Level Economics (YEC11)?**
+There are four externally assessed units, each worth 80 marks and 25% of the full International A Level: Markets in Action, Macroeconomic Performance and Policy, Business Behaviour, and Developments in the Global Economy.
+
+**How long is each Edexcel International A Level Economics exam?**
+Units 1 and 2 each last 1 hour 45 minutes, and Units 3 and 4 each last 2 hours. Every unit paper is worth 80 marks.
+
+**What does a Unit 1 or Unit 2 paper contain?**
+Six multiple-choice questions (6 marks), five short-answer questions (20 marks), a five-part data-response question based on a source booklet (34 marks) and one 20-mark essay chosen from two.
+
+**What does a Unit 3 or Unit 4 paper contain?**
+Six multiple-choice questions (6 marks), a five-part data-response question (34 marks) and two 20-mark essays chosen from three. There is no short-answer section.
+
+**Where are most marks gained in an A2 economics essay?**
+In the evaluation. Treat the strongest counter-argument seriously, say what the answer depends on, such as elasticity or the time horizon, and finish with a judgement and its reason.

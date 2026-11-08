@@ -139,6 +139,20 @@ Read the [study guide](/resources/edexcel-ial-economics-efficiency-concentration
 - Describing efficiency definitions without the condition (P = MC, lowest ATC).
 - Evaluating with a list of weaknesses and no judgement.
 
+## Frequently asked questions
+
+**How do you calculate an n-firm concentration ratio?**
+Add the market shares, or sales, of the largest n firms and divide by the total for the whole market. Dividing by the sum of the top n firms instead of the whole market is a common error.
+
+**What should you do after a merger before recalculating a concentration ratio?**
+Re-rank the firms. The merged firm may now be the largest, and the next firms in the ranking change, so the top n firms are not the same as before.
+
+**How does a perfectly competitive firm choose its output?**
+It produces where marginal cost equals marginal revenue, which equals the market price. Choosing the output at lowest ATC is a mistake unless price happens to equal minimum ATC.
+
+**Do perfectly competitive firms earn zero profit in the long run?**
+They earn normal profit, with no supernormal profit. Describing long-run profit as zero, rather than normal, loses marks in Edexcel International A Level Economics questions.
+
 ## Next steps
 
 - Condense the topic with the [revision notes](/resources/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition-revision-notes/) or reread the [study guide](/resources/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition/).

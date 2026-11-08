@@ -127,6 +127,20 @@ These questions follow statement 4 (a to e) of 4.3.5 in the Pearson Edexcel Inte
 - Covering only the national level when the question names local and global.
 - Concluding without weighing short run against long run.
 
+## Frequently asked questions
+
+**Does a cut in government spending reduce the deficit by the full amount?**
+No. A spending cut lowers GDP through the multiplier, which reduces tax revenue, so the deficit falls by less than the cut. Ignoring this is a common error in Edexcel International A Level Economics questions.
+
+**How do you apply a top rate of income tax correctly?**
+Apply each rate only to the slice of income in its band. Applying the top rate to all income overstates the tax paid.
+
+**Is transfer pricing tax evasion?**
+Usually not. Tax evasion is illegal, while transfer pricing is usually legal tax avoidance that shifts profit to countries with lower tax rates.
+
+**What scales should you cover when a question names local, national and global effects?**
+Cover each scale the question names. A policy can work nationally while harming a local area or other countries, so answering only at the national level loses marks.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/edexcel-ial-economics-macroeconomic-policies-in-a-global-context-control-of-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-macroeconomic-policies-in-a-global-context-control-of/).

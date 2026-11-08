@@ -251,6 +251,20 @@ Geographical check: pay gap 22,500 - 18,000 = 4,500 (25.0%); less extra housing 
 - Ignoring who bears an employer tax: part may fall on workers through lower pay, so say which group loses.
 - Forgetting to separate short-run and long-run effects when judging a policy.
 
+## Frequently asked questions
+
+**What is the difference between geographical and occupational immobility?**
+Geographical immobility is a barrier to workers moving to where jobs are, such as high housing costs. Occupational immobility means workers cannot easily switch between jobs or industries, for example because they lack qualifications.
+
+**Which curve does each type of national insurance contribution shift?**
+Employer contributions raise the cost of labour, shifting labour demand left. Employee contributions cut take-home pay, which may reduce labour supply.
+
+**Who bears the cost of an employer tax on labour?**
+Not only the employer. Part of the burden may fall on workers through lower pay, so say which group loses.
+
+**Can a maximum wage cause a labour shortage?**
+Yes. A cap set below the equilibrium wage means firms want more workers than are willing to work at that wage. Firms may respond with non-wage rewards or by hiring elsewhere.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018, first teaching September 2018: 3.3.4 item 4 and 3.3.5 item 2. Published by Pearson Education Limited.

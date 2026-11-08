@@ -242,6 +242,20 @@ Evaluation: competitiveness can be built on low wages, which may lower living st
 - Writing "export prices fall" when only the foreign-currency price changes.
 - Listing measures with no evaluation.
 
+## Frequently asked questions
+
+**Why does the balance of payments always balance overall?**
+Each transaction has two sides, so the current, capital and financial accounts plus net errors and omissions sum to zero. A current account deficit is matched by net borrowing or sales of assets to foreigners.
+
+**Is competitiveness based on low wages a good thing?**
+Not necessarily. Competitiveness can be built on low wages, which may lower living standards, so durable competitiveness is better built on higher productivity, skills and non-price factors such as quality and design.
+
+**Why is a lower exchange rate only a temporary fix for competitiveness?**
+A depreciation lowers the foreign-currency price of exports quickly, but it makes imports dearer and its effect fades if wages then rise to compensate. Policies that raise productivity are slower but more durable.
+
+**Which part of the Edexcel International A Level Economics specification covers the balance of payments?**
+Statements 1 and 3 of 4.3.3, Balance of payments, exchange rates and international competitiveness, in Unit 4 of the Pearson Edexcel International A Level Economics specification.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited: section 4.3.3, statements 1 (a-d) and 3 (a-d).

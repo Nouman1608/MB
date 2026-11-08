@@ -216,6 +216,20 @@ Every arrow needs a reason. For example, profit falls under a cap because price 
 </figure>
 
 
+## Frequently asked questions
+
+**What is regulatory capture?**
+Regulatory capture is when a regulator comes to serve the interests of the firm it regulates, for example through staff moving between the two or lobbying, instead of protecting consumers.
+
+**What is the difference between privatisation and deregulation?**
+Privatisation is the sale of state-owned assets to private owners. Deregulation removes licences or legal limits on entry, such as a cap on taxi permits; the two are often confused.
+
+**Do all competition measures work quickly?**
+No. Promoting entry, competitive tendering and trade liberalisation take years to have their full effect, so time is an important evaluation point.
+
+**How do you evaluate a merger with cost savings?**
+Compare the cost saving with the effect on price. A merger can raise total surplus through lower costs while still making consumers worse off through a higher price.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited. This page covers section 3.3.5 item 1 of Unit 3.

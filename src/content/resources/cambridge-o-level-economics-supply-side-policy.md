@@ -172,6 +172,20 @@ Use these ideas, and connect them to the case in front of you:
 - Confusing privatisation (ownership changes) with deregulation (rules change).
 - Giving only advantages when asked to evaluate.
 
+## Frequently asked questions
+
+**How does training reduce a firm's costs?**
+Training makes workers more productive, so the same workers make more output. With the same wage bill, the labour cost of each unit falls, and the firm can cut prices or expand.
+
+**What is the difference between a direct tax and an indirect tax?**
+A direct tax is paid directly from income or profit, such as income tax and corporation tax. An indirect tax is charged on spending.
+
+**Does privatisation always benefit consumers?**
+Not always. Private owners seek profit and so have a reason to cut costs, but a private owner with no rivals may raise prices, so the benefit depends on competition.
+
+**What are the main limits of supply-side policy?**
+Measures take years to work, have an opportunity cost in government spending, and workers and firms may not respond as predicted. They can also widen inequality.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), Cambridge University Press & Assessment, section 4.5.

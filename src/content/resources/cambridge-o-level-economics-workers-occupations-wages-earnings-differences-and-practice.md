@@ -151,6 +151,20 @@ These questions cover sections 3.3.1 to 3.3.4 of the Cambridge O Level Economics
 - Ranking pay without comparing the full package.
 - Stating a conclusion in a "discuss" answer without any reason or condition.
 
+## Frequently asked questions
+
+**What is the difference between wage and non-wage factors in choosing a job?**
+Wage factors are the money rewards, such as basic pay, overtime and bonuses. Non-wage factors are everything else, such as job security, hours, working conditions and travel time.
+
+**When does a minimum wage cause unemployment?**
+Only when it is set above the equilibrium wage. Then the quantity of labour supplied exceeds the quantity demanded, so there is a surplus of labour; a minimum wage below equilibrium changes nothing.
+
+**Why does the base matter in a percentage difference?**
+The answer changes with the figure you divide by. For example, one group can earn 110% more than another while the other earns 52.4% less, so state clearly which figure is the base.
+
+**How do you compare two jobs fairly in an exam answer?**
+Compare the full package, not just headline pay. Include commuting time when working out pay per hour committed, and say how each factor changes the choice for the worker described.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and/).

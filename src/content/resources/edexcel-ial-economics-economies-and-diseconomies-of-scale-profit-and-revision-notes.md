@@ -228,6 +228,20 @@ Profit or loss = (AR - AC) x quantity. Accounting profit is not economic profit:
 - Giving a calculation with no working or units.
 - Concluding that lower costs always mean lower prices, with no evaluation.
 
+## Frequently asked questions
+
+**What is normal profit?**
+Normal profit is the least payment that stops the owner switching to another business. It counts as a cost, so average cost includes it, and a firm earning only normal profit has AR equal to AC.
+
+**Why might a firm keep producing when price is temporarily low?**
+Shutdown decisions turn on expectations. If a low price is expected to be temporary, the costs of rehiring staff and winning back lost customers may make it worth carrying on.
+
+**Do lower costs from economies of scale always mean lower prices?**
+No. A firm with pricing power can keep the cost saving as supernormal profit instead of passing it on to consumers.
+
+**Should a firm always keep growing to cut costs?**
+Not always. Below minimum efficient scale, growth cuts average cost, but beyond it diseconomies of scale such as communication and coordination problems can push average cost up.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018 (first teaching September 2018), published by Pearson Education Limited. Section 3.3.2, items 3 and 4, in Unit 3: Business behaviour.

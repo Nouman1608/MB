@@ -134,6 +134,20 @@ Other acceptable reasons: marginal product is not truly zero, so farm output fal
 - Forgetting that tied aid cuts real value.
 - Quoting real statistics from memory in place of the data supplied.
 
+## Frequently asked questions
+
+**Which base should you use for the debt service ratio?**
+Divide debt service by export earnings, not by GDP. Dividing by the wrong base is a common error in Edexcel International A Level Economics development questions.
+
+**How do you apply the tourism multiplier correctly?**
+Apply the multiplier to the spending that stays in the country after leakages, not to total tourist spending, and show the local spending share used.
+
+**Why does tied aid reduce the value of aid?**
+Tied aid must be spent on goods or firms from the donor country, which may cost more than buying elsewhere, so its real value to the recipient is lower.
+
+**Should you use real-world statistics in development answers?**
+Use the data supplied in the question rather than statistics quoted from memory. Label any examples of your own as illustrative.
+
 ## Next steps
 
 - [Revision notes](/resources/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international-revision-notes/)

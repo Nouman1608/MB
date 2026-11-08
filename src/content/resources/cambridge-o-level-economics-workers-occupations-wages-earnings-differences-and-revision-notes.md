@@ -199,6 +199,20 @@ Use the same four reasons each time: demand and supply, bargaining strength, dis
 - Listing points without a development or a judgement when the command word is "evaluate" or "discuss".
 - Treating a gender pay gap as proof of discrimination, with no mention of other causes.
 
+## Frequently asked questions
+
+**What shifts the demand for labour?**
+Demand for labour shifts right if demand for the product rises, if workers become more productive or if capital equipment becomes dearer. On the diagram, label the axes wage rate and quantity of labour.
+
+**Why do skilled workers usually earn more than unskilled workers?**
+Skilled work needs long training, so supply is small and costly to increase, while demand is high because skilled workers are productive. Higher pay compensates for the cost, delay and effort of training.
+
+**Does a gender pay gap prove discrimination?**
+Not on its own. A gap can also come from women being crowded into fewer occupations, more part-time work and career breaks, and lower union coverage, as well as from discrimination.
+
+**What are the disadvantages of division of labour?**
+Workers may find repeated tasks boring and lose wider skills, an absence can disrupt production, and the economy can face structural unemployment if a specialism declines.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, version 2, section 3.3 (Workers), Cambridge Assessment International Education, part of Cambridge University Press & Assessment.

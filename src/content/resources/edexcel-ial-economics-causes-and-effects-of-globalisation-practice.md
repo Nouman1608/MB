@@ -144,6 +144,20 @@ These questions cover section 4.3.1, Causes and effects of globalisation, items 
 - Leaving out winners and losers in an evaluation.
 - Ending a long answer without a judgement.
 
+## Frequently asked questions
+
+**How do you calculate trade as a share of GDP?**
+Add exports and imports, divide by GDP and multiply by 100. Using exports alone is a common error in Edexcel International A Level Economics globalisation questions.
+
+**Do lower average costs from globalisation always mean lower prices?**
+No. Economies of scale lower average cost, but whether consumers pay less depends on how much of the saving firms pass on. Treating lower costs as automatically lower prices loses marks.
+
+**Who loses when cheaper imports raise consumer surplus?**
+Domestic producers lose producer surplus as cheaper imports take sales, and workers in industries that cannot compete may lose their jobs. A strong evaluation names these winners and losers.
+
+**How should you write about FDI in an evaluation?**
+Separate the gain to the TNC from the gain to the host country. The host's net benefit depends on how much the TNC sources locally, how long it stays and how much profit is sent home.
+
 ## Next steps
 
 - [Revision notes](/resources/edexcel-ial-economics-causes-and-effects-of-globalisation-revision-notes/)

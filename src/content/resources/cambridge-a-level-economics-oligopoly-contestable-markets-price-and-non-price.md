@@ -221,6 +221,20 @@ Large oligopolists may reach lower costs through economies of scale, so producti
 - Saying collusion always lasts. Show why each firm is tempted to cheat.
 - Forgetting that non-price competition costs money and can be matched.
 
+## Frequently asked questions
+
+**Why do incumbents in a contestable market keep prices near average cost?**
+In Cambridge 9708 terms, any supernormal profit invites hit-and-run entry, so incumbents keep prices near average cost (limit pricing) and earn only normal profit. The threat of entry also gives them an incentive to keep costs low.
+
+**What is a sunk cost?**
+A sunk cost is spending that cannot be recovered on leaving a market, such as specific advertising. Not every fixed cost is sunk; only unrecoverable costs count.
+
+**Why does collusion between oligopolists often break down?**
+Each firm is tempted to cheat by cutting price to win sales from rivals. Collusion is more stable when firms meet repeatedly and cheating can be punished, and harder to sustain with many firms.
+
+**How can incumbent firms deter entry into a market?**
+Incumbents may use predatory pricing, exclusive contracts or heavy advertising, which raise the risk for an entrant. This is one reason few real markets are perfectly contestable.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 7.6.4, published by Cambridge University Press & Assessment.

@@ -175,6 +175,20 @@ Assess whether market-orientated or interventionist strategies would do more for
 - Describing strategies in turn with no comparison or judgement for the country in the stem.
 - Forgetting that the effects depend on time, institutions and the size of the economy.
 
+## Frequently asked questions
+
+**Which price should you use after a tariff cut: the world price or the landed price?**
+Use the tariff-inclusive landed price, which is the world price plus the tariff. Using the world price alone is a common error in Edexcel International A Level Economics questions.
+
+**Why is a flat microfinance rate not the true cost of borrowing?**
+The loan is repaid over the year, so the borrower has the full sum for only part of the time. The true effective rate is higher than the flat rate quoted.
+
+**How should you interpret the sign of an NPV?**
+Say what it means for the decision: a positive net present value means the project's discounted benefits exceed its cost, so it is worth doing; a negative NPV means it is not.
+
+**Is all of a TNC's profit lost to the host country?**
+No. Tax paid locally stays in the country, and in a joint venture the local partner keeps its share of the profit.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-economics-market-orientated-and-interventionist-development-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-market-orientated-and-interventionist-development/).

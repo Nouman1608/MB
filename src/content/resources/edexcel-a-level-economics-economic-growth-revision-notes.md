@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomic-performance-and-policy-edexcel-alevel-economics"
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
-description: "Condensed recall notes on GDP, GNI, real vs nominal, PPPs, recession and national wellbeing for Pearson Edexcel International A-Level Economics, Unit 2 (WEC12/01), the Economic Growth strand of 2.3.1."
+description: "Condensed recall notes on GDP, GNI, real vs nominal, PPPs, recession and wellbeing for Pearson Edexcel International A Level Economics Unit 2 (WEC12/01)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 updatedDate: 2026-11-05
@@ -168,6 +170,20 @@ When a government reports "economic growth" of, say, 3%, it is almost always rep
 5. Explain why GNI can differ from GDP for a specific country.
 
 **Answers:** 1. "Real GDP per capita" is real (adjusted to remove the effect of inflation), per capita (divided by population, for fair comparison between countries), and typically a volume measure (reflecting physical output rather than money value alone). 2. PPP adjustment converts figures to reflect differing costs of living between countries, so comparisons reflect what income can actually buy locally, not just its nominal value once converted at market exchange rates. 3. With growth of +0.5%, −0.3% and −0.6% in Q1, Q2 and Q3, a technical recession is confirmed as of the end of Q3 — Q2 and Q3 are the first two *consecutive* quarters of negative growth. 4. Any two of: it hides income distribution, it excludes non-market activity such as unpaid domestic work, it ignores environmental costs of growth, and it says nothing about subjective wellbeing. 5. GNI can exceed or fall short of GDP where a country's residents earn significant income abroad (raising GNI above GDP) or where a large share of domestic output is profit repatriated by foreign-owned firms (lowering GNI below GDP).
+
+## Frequently asked questions
+
+**Can one quarter of negative growth be called a recession?**
+No. A recession is defined as two consecutive quarters of negative economic growth, so a single negative quarter is not enough. Work through quarterly data in order and confirm the recession only at the end of the second negative quarter.
+
+**What is the difference between real and nominal GDP?**
+Real GDP has been adjusted for inflation, while nominal GDP has not. Only the real figure shows whether actual output has changed, so the two should never be used interchangeably.
+
+**Can a GDP figure be adjusted in more than one way at once?**
+Yes. A figure such as real GDP per capita has been adjusted for inflation and divided by population at the same time, so state exactly which adjustments a figure has had.
+
+**Why can a smaller economy have a higher GDP per capita?**
+GDP per capita divides total GDP by population. A country with a much smaller total economy but a far smaller population can have higher real GDP per capita, which is why Edexcel International A Level Economics Unit 2 answers compare per capita figures.
 
 ## Related resources
 

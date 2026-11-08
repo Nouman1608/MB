@@ -236,6 +236,20 @@ The curve meets the price axis (Qs = 0 at P = 4), so PES is above 1, as the rule
 - Using the consumer surplus formula with a price intercept taken from the wrong curve.
 - Stating the effect on surplus without linking it to the elasticity of the curve that does not shift.
 
+## Frequently asked questions
+
+**What do PES values of 0, less than 1 and greater than 1 mean?**
+A PES of 0 is perfectly inelastic, so quantity does not change. Between 0 and 1 supply is inelastic, exactly 1 is unitary, and greater than 1 is elastic.
+
+**Why does PES tend to rise over time?**
+Firms have more time to change their inputs and output. A market can move from perfectly inelastic in the momentary period to inelastic in the short run and elastic in the long run.
+
+**Where is consumer surplus shown on a supply and demand diagram?**
+Consumer surplus is the area below the demand curve and above the price paid. Producer surplus is the area above the supply curve and below the price received.
+
+**How does elasticity affect changes in consumer and producer surplus?**
+The more inelastic the curve that does not shift, the larger the price change. For a rise in demand with inelastic supply, producer surplus gains more than with elastic supply.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 2.3 and 2.5 (Cambridge University Press & Assessment).

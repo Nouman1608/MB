@@ -223,6 +223,20 @@ Every figure below is invented for illustration.
 
 The assessment overview says calculators may be used in both papers, so use one, but still write the working.
 
+## Frequently asked questions
+
+**What are the four functions of money?**
+Money is a medium of exchange, a unit of account, a store of value and a standard of deferred payment. Explain or illustrate each function rather than only naming it.
+
+**What is the difference between a central bank and a commercial bank?**
+A central bank is a country's main monetary authority: it issues notes and coins, acts as banker to the government and to the commercial banks, and carries out monetary policy. Commercial banks are private, profit-seeking firms that take deposits and lend to the public.
+
+**What influences how much a household saves?**
+Income, the rate of interest and confidence all influence saving. Richer households usually save a larger share of income, higher interest rewards saving more, and low confidence about jobs can make households save more.
+
+**Can a household save and borrow at the same time?**
+Yes. Many households do both, for example saving each month while repaying a mortgage, so saving and borrowing are not simply opposites.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, version 2, published by Cambridge University Press and Assessment (Cambridge International). Sections 3.1.1, 3.1.2 and 3.2.1.

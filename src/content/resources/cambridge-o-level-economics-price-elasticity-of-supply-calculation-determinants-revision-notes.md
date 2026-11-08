@@ -206,6 +206,20 @@ Demand rises, then price rises. Firms want to produce more. If they have spare c
 - Describing effects on "the economy" instead of naming consumers, producers or government.
 - Giving no time period when comparing short run and long run.
 
+## Frequently asked questions
+
+**What is a PES of exactly 1 called?**
+Unitary elasticity: quantity supplied changes by the same percentage as price. It is not elastic; supply is elastic only when PES is greater than 1.
+
+**How do you tell the PES of a straight-line supply curve?**
+Check where it meets an axis, not how steep it looks. A line through the origin has a PES of 1, one meeting the quantity axis is inelastic and one meeting the price axis is elastic.
+
+**Why does spare capacity make supply more elastic?**
+A firm whose machines and staff are not fully used can raise output almost at once when price rises, so quantity supplied responds strongly.
+
+**Which Cambridge O Level 2281 section covers price elasticity of supply?**
+Section 2.8 of the Cambridge O Level Economics 2281 syllabus, sub-sections 2.8.1 to 2.8.4, covers the definition, calculation, determinants and significance of PES.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 2.8 Price elasticity of supply (PES).

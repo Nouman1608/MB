@@ -183,6 +183,20 @@ Do not stop at "fiscal is slow". Build a chain: reflationary fiscal policy raise
 - Using "inflation" and "price level" as if they were the same.
 - Leaving out the condition: spare capacity.
 
+## Frequently asked questions
+
+**What is the difference between deflationary policy and deflation?**
+Deflationary policy is action that slows the growth of aggregate demand. Deflation is a fall in the general price level.
+
+**Why does a tax cut raise AD by less than an equal rise in government spending?**
+Households save part of a tax cut and spend part on imports, so less of it is spent at home in the first round. Government spending enters AD in full.
+
+**Why might extra aggregate demand raise prices rather than output?**
+If the economy is already at full capacity, there is no spare capacity for output to rise, so extra AD mainly raises the price level.
+
+**Which Edexcel International A Level Economics section covers fiscal and monetary policy?**
+Section 2.3.6 in Unit 2 of the Pearson Edexcel International A Level Economics specification covers demand-side policies, their instruments, the role of central banks and their strengths and weaknesses.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited, section 2.3.6 item 4.

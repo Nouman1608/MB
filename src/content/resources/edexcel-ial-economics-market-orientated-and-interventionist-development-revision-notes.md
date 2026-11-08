@@ -210,6 +210,20 @@ Use these to turn description into judgement.
 - Giving one-sided answers with no judgement about the country described.
 - Using a formula without showing the working, so a slip cannot be traced.
 
+## Frequently asked questions
+
+**What is the difference between market-orientated and interventionist development strategies?**
+Market-orientated strategies rely on prices and private owners to allocate resources. Interventionist strategies rely on the state to direct, protect or fund development; neither is better in every case.
+
+**Why is a fall in a currency's value not the same percentage as the rise in the price of the dollar?**
+The two percentages use different bases. For example, a move from 10 to 12 local units per dollar is a 20% rise in the price of the dollar but a 16.7% fall in the value of the local currency.
+
+**When is infant industry protection justified?**
+When the industry can become competitive within a set time, so the tariff can be reduced and removed. Protection without a timetable risks keeping an inefficient industry going.
+
+**Does a buffer stock scheme always make a profit?**
+No. If the floor price is set above the long-run market price, the scheme keeps buying and builds an ever-growing stock.
+
 ## Official syllabus
 
 *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics*, Specification, Issue 2, June 2018, published by Pearson Education Limited. Section 4.3.6, Growth and development in developing, emerging and developed economies, item 3, points a and b.

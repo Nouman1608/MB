@@ -121,6 +121,20 @@ These questions cover section 2.3.2, Aggregate demand (AD), of the Pearson Edexc
 - Concluding with "it depends" and no named factor.
 - Giving numbers without units or saying what they refer to.
 
+## Frequently asked questions
+
+**Are welfare benefits part of government spending (G) in aggregate demand?**
+No. Benefits are transfer payments, so they are not counted in G, which is government spending on goods and services. Benefits affect AD indirectly by raising households' disposable income and consumption.
+
+**Should the savings ratio be given as a number or a percentage?**
+As a percentage: savings divided by disposable income, multiplied by 100. Giving it as a number of currency units is a common error in Edexcel International A Level Economics questions.
+
+**Does a fall in the exchange rate always improve the trade balance?**
+No. A lower exchange rate cuts the foreign-currency price of exports and raises the home price of imports, but the effect on the balance depends on the price elasticities of demand. With low elasticities, the improvement can be small or even negative.
+
+**How do you avoid an "it depends" conclusion with no marks?**
+Name the factor the outcome depends on, such as spare capacity, confidence or the size of an elasticity, and explain why it matters in the case given.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-economics-aggregate-demand-and-its-components-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-aggregate-demand-and-its-components/).

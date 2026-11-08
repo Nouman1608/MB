@@ -246,6 +246,20 @@ Judgement points for essays:
 - Using Marshall-Lerner without the time lag, or testing one elasticity instead of the sum.
 - Stating that a depreciation always improves growth.
 
+## Frequently asked questions
+
+**How does a central bank hold a fixed rate above equilibrium?**
+The currency is overvalued at the peg, so there is excess supply of it. The central bank must keep buying its own currency with foreign currency reserves, which cannot last if the reserves run out.
+
+**How do interest rates affect the exchange rate?**
+A higher interest rate than abroad raises the return on holding the currency, attracting deposits and bond purchases, so demand for the currency rises and the rate tends to rise.
+
+**How can speculation change an exchange rate?**
+If traders expect a currency to rise, they buy it now, which raises demand and causes the rise. Expectations can therefore be self-fulfilling.
+
+**How does a depreciation affect inflation?**
+A depreciation raises the price of imports, which raises the price level directly in proportion to the share of imports in the consumer basket, and can add cost-push pressure through dearer imported inputs.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. Section 4.3.3, item 2, points a to g.

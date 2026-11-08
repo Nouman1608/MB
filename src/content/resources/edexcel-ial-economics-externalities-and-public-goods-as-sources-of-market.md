@@ -195,6 +195,20 @@ The market failure here is non-provision: a good worth having is not produced. T
 - Calling a public good "anything the state provides". State provision does not make a good public; non-rivalry and non-excludability do.
 - Mixing up "non-rival" and "non-excludable". Test each separately.
 
+## Frequently asked questions
+
+**How do you tell a production externality from a consumption externality?**
+Ask who creates the effect. If it arises while a good is being made, such as factory waste in a river, it is a production externality; if it arises while the good is being used, it is a consumption externality.
+
+**Where is marginal social cost drawn for a negative production externality?**
+Above marginal private cost, because external costs add to private costs. Drawing MSC below MPC is a common error.
+
+**Is a good public just because the state provides it?**
+No. State provision does not make a good public. A public good must be non-rival and non-excludable, such as street lighting.
+
+**Which Edexcel International A Level Economics items cover externalities and public goods?**
+Items 1 to 3 of 1.3.5 in Unit 1 of the Pearson Edexcel International A Level Economics specification cover socially optimal output, externalities with marginal diagrams, and public goods and free riders.
+
 ## Next steps
 
 Work through the [practice set](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market-practice/), then use the [revision notes](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market-revision-notes/) to fix the definitions. The existing [Unit 1 revision notes](/resources/a-economics-markets-in-action-revision-notes/) and [Unit 1 practice](/resources/a-economics-markets-in-action-practice/) cover the unit as a whole.

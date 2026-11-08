@@ -247,6 +247,20 @@ Use these to turn description into judgement.
 - Forgetting that an external shock cannot be controlled, only responded to.
 - Ending without a judgement that weighs short run against long run.
 
+## Frequently asked questions
+
+**What is the difference between tax avoidance and tax evasion?**
+Tax avoidance is legally minimising tax, for example through transfer pricing between parts of a TNC. Tax evasion is illegally failing to pay tax that is owed.
+
+**Can policymakers control external shocks?**
+No. Policymakers cannot set world prices, foreign demand or other external events; they can only respond to them, and the right response depends on whether the shock hits AD or AS.
+
+**Why is inaccurate information a problem for policymakers?**
+Economic data are estimated and later revised. If potential output is mis-measured, the size of the output gap is wrong and policy may be set too loose or too tight.
+
+**What makes a good conclusion on macroeconomic policy?**
+Weigh the short run against the long run and say which effect matters more for the economy described, rather than ending with a list of points.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, first assessment June 2020, Pearson Education Limited: Unit 4, 4.3.5 statement 4 (a to e).

@@ -219,6 +219,20 @@ Each chain should end with a judgement, not just a list.
 - Defining efficiency without applying it to the oligopoly in the question.
 - Drawing a conclusion with no criteria, such as time period, number of firms or barriers.
 
+## Frequently asked questions
+
+**What is hit-and-run entry?**
+Hit-and-run entry is when an entrant joins a market while profits are supernormal, undercuts the incumbent, takes a share of the profit and leaves. It is possible when there are no or only small sunk costs.
+
+**What is a dominant strategy?**
+A dominant strategy is a firm's best choice whatever its rival does. To find it, check the firm's best response to each of the rival's options in turn.
+
+**Why do oligopolists prefer non-price competition?**
+Firms in an oligopoly are interdependent, and a price cut is easy to copy. If rivals match it, everyone loses profit, so firms prefer advertising, branding, quality and after-sales service instead.
+
+**Why are price wars in oligopoly rare and short?**
+Rivals are likely to match a price cut, and if total market demand is inelastic, sales rise only a little while every firm earns less per unit. A price cut that is matched usually hurts all the firms.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 7.6.4, published by Cambridge University Press & Assessment.

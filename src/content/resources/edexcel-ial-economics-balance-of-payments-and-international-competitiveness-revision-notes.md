@@ -223,6 +223,20 @@ A strong conclusion picks the policy mix that suits the cause, and says what wou
 - Ignoring the context given in the question, such as whether the data show a cyclical or a structural problem.
 - Mixing up the direction of a relative index: above 100 means the country is dearer or more productive, depending on the measure, so say which.
 
+## Frequently asked questions
+
+**What are the three accounts of the balance of payments?**
+The current account records trade in goods and services, income and transfers. The capital account records small transfers of capital, and the financial account records cross-border investment and lending.
+
+**Is a current account deficit always harmful?**
+Not always. It depends on what the borrowing pays for and whether the deficit is cyclical, which may reverse when growth slows, or structural, which is harder to fix.
+
+**What does a relative index above 100 mean?**
+It depends on the measure. For relative export prices or unit labour costs, above 100 means the country is dearer than its rivals; for relative productivity, it means the country is more productive.
+
+**What is the difference between expenditure-reducing and expenditure-switching policies?**
+Expenditure-reducing policies, such as higher taxes or interest rates, cut incomes and so spending on imports. Expenditure-switching policies, such as a lower exchange rate or tariffs, shift spending from imports to domestic goods.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited: section 4.3.3, statements 1 (a-d) and 3 (a-d).

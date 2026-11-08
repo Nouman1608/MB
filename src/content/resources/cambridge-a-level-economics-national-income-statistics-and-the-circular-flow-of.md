@@ -279,6 +279,20 @@ The size of the final change in income is not asked for here, because the multip
 - Describing saving as a leakage and then saying bank lending is the same thing as investment. Investment is spending on capital goods.
 - Saying equilibrium means injections and leakages are zero. Equilibrium means they are equal.
 
+## Frequently asked questions
+
+**What is net primary income from abroad?**
+It is the income earned abroad by a country's residents and factors, such as profit sent home or wages earned abroad, minus the income earned in the country by foreign-owned factors and sent out. Adding it to GDP gives GNI.
+
+**Why are only final goods counted in GDP?**
+Counting intermediate goods as well would double count. A loaf of bread counts once, at the price of the finished loaf, and the flour sold to the baker is not counted separately.
+
+**Why are savings a leakage from the circular flow?**
+Savings are income that is not passed back to firms as spending. Savings placed with banks can return as investment, but that is a separate decision by firms.
+
+**Is the multiplier required for Cambridge 9708 sections 4.1 and 4.2?**
+No. Section 4.2.2 says the multiplier is not required here, and 4.2.3 says marginal and average propensities are not required. You only need to explain the direction of change in national income.
+
 ## Next steps
 
 Use the [revision notes](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of-revision-notes/) for a compact summary and a self-test, then the [practice questions](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of-practice/) with worked answers.

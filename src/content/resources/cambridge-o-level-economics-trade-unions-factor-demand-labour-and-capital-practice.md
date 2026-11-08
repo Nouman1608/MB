@@ -140,6 +140,20 @@ These questions cover sections 3.4, 3.6 and 3.8 of the Cambridge O Level Economi
 - Stating "competition lowers prices" without explaining why.
 - Writing a one-sided evaluation with no judgement.
 
+## Frequently asked questions
+
+**How should you define a trade union?**
+A trade union is an organisation of workers that works to protect and improve its members' pay, working conditions and jobs. Defining it as a group that goes on strike misses its main activity, collective bargaining.
+
+**How do you decide which production method is cheaper?**
+Calculate the total cost of each method and divide by output to find the cost per unit, then compare. Choosing a method without calculating cost per unit loses marks in Cambridge O Level Economics 2281.
+
+**What must a description of monopoly include?**
+Say that one firm supplies all or most of the output, and mention barriers to entry or the lack of close substitutes. Describing a monopoly as simply "big" is not enough.
+
+**How should you explain why competition lowers prices?**
+Explain the chain: with many firms selling similar products, rivals undercut each other, so no firm can charge much above its costs. Stating that competition lowers prices without this reason earns less credit.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital/).

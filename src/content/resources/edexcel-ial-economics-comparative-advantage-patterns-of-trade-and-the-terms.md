@@ -238,6 +238,20 @@ From year 2 to 3 the index fell (88.0 − 105.8) ÷ 105.8 = 16.8%. Export prices
 - Mixing currencies or base years.
 - Naming a factor without saying which way prices move.
 
+## Frequently asked questions
+
+**Why can specialising in primary products be risky?**
+Overdependence on a few exports, especially primary products, exposes a country to volatile prices and demand shocks. This is one of the costs of specialisation alongside structural unemployment in declining industries.
+
+**How does relative inflation affect the terms of trade?**
+If domestic inflation is higher than in trading partners, domestic export prices rise relative to import prices, which tends to raise the terms of trade index, even though it can make exports less competitive.
+
+**At what price do both countries gain from trade?**
+Both gain only if the exchange price lies between the two countries' opportunity costs. In the worked example, one bicycle must trade for between 2 and 5 tonnes of rice.
+
+**Which Edexcel International A Level Economics statements cover comparative advantage and the terms of trade?**
+Statements 1 to 3 of 4.3.2 Trade and the global economy in Unit 4 of the Pearson Edexcel International A Level Economics specification.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018, Pearson Education Limited: Unit 4, section 4.3.2 Trade and the global economy, statements 1 to 3.

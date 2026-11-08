@@ -210,6 +210,20 @@ Strong answers weigh gains against costs and then judge. Useful questions:
 - Treating profit repatriation as a loss to GDP. It reduces income received by residents, not output.
 - Giving only one side. The specification lists both benefits and costs.
 
+## Frequently asked questions
+
+**How have lower transport and communication costs driven globalisation?**
+Containerisation, bigger ships, cheaper air freight and better communications cut the cost of moving goods and coordinating production across borders, so trade becomes cheaper and more firms can operate internationally.
+
+**How does globalisation affect tax revenue?**
+Higher output, profits and employment raise corporation, income and expenditure tax revenue. However, transfer pricing and tax incentives offered to attract TNCs can cut revenue.
+
+**Does profit repatriation reduce GDP?**
+No. Profit sent home by a foreign-owned firm reduces the income received by residents, so GNI rises by less than GDP, but it does not reduce the output produced in the country.
+
+**Which political changes does the Edexcel specification name as causes of globalisation?**
+The Pearson Edexcel International A Level Economics specification names the breakdown of the Soviet system and the opening up of China as political changes that drove globalisation.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, first assessment June 2020, published by Pearson Education Limited: section 4.3.1, Causes and effects of globalisation (Unit 4, Developments in the global economy).

@@ -238,6 +238,20 @@ Evaluation: allocative efficiency assumes no externalities, so a polluting firm 
 
 Next, use the [revision notes](/resources/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition-revision-notes/) to condense this, then the [practice questions](/resources/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition-practice/).
 
+## Frequently asked questions
+
+**Is a market with little competition always less efficient?**
+Not always. With little competition, X-inefficiency is more likely and price may exceed MC, but supernormal profit can fund research, so dynamic efficiency may be higher. No market structure is automatically best on every measure.
+
+**What happens in a perfectly competitive industry when firms make supernormal profit?**
+Supernormal profit attracts new firms. Industry supply shifts right and the price falls until it equals lowest average total cost, where firms earn only normal profit.
+
+**Can a polluting firm in perfect competition be allocatively efficient?**
+It can have price equal to marginal cost while still causing an external cost, so the allocative efficiency of perfect competition assumes there are no externalities.
+
+**Which Edexcel International A Level Economics section covers efficiency and concentration ratios?**
+Section 3.3.3 (Market structures and contestability), items 1 to 3, of the Pearson Edexcel International A Level Economics specification.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018, published by Pearson Education Limited. Section 3.3.3, items 1 to 3.

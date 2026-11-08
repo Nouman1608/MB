@@ -250,6 +250,23 @@ Suppose 100,000 new workers each earn 15,000 a year. Extra income is 1,500 milli
 - Listing aims with no reason for choosing them.
 - Ending a discussion without a supported judgement about which effect is larger and why.
 
+## Frequently asked questions
+
+**Is stable prices the same as no change in prices?**
+No. Stable prices means a low, predictable rise in the general price level, not zero inflation.
+
+**Why must governments set priorities between macroeconomic aims?**
+Pursuing one aim can make another harder to reach, so governments must trade off aims or choose which matters most, depending on current problems such as heavy unemployment or a large, lasting deficit.
+
+**How does a progressive income tax help redistribute income?**
+Higher earners pay a larger share of their income in tax, so the gap between high and low incomes is narrower after tax. Spending the revenue on benefits and services for low earners narrows it further.
+
+**What is a criterion for a macroeconomic aim?**
+A criterion is the measurable standard used to judge whether an aim has been met, such as a target range for real GDP growth or inflation. Numerical criteria let governments and voters check progress.
+
+**Which Cambridge O Level 2281 sections cover the role of government and macroeconomic aims?**
+Section 4.1.1 covers the role of government, 4.2.1 the macroeconomic aims and 4.2.2 the conflicts between them in the Cambridge O Level Economics 2281 syllabus.
+
 ## Official syllabus
 
 Source: Cambridge O Level Economics 2281 syllabus, for examination in 2026, version 2, from Cambridge University Press & Assessment (Cambridge International). Content points: 4.1.1, 4.2.1, 4.2.2.

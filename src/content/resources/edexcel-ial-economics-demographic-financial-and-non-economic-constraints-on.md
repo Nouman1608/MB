@@ -232,6 +232,20 @@ Evaluation points to use:
 - Listing causes without a chain: say how the factor lowers productivity or investment, then what it does to growth or living standards.
 - Giving only one side on migration.
 
+## Frequently asked questions
+
+**Why can rapid population growth hold back development?**
+When population grows quickly, much of any rise in real GDP is absorbed by extra people, so real GDP per person grows slowly and schools, housing and jobs must expand just to stand still.
+
+**Why can an ageing population constrain development?**
+Pension and health costs rise while the tax base shrinks, saving may fall and labour shortages can push up costs. Ageing before incomes are high is a particular risk because there is little fiscal room to cope.
+
+**How can overseas debt become harder to repay?**
+A rise in interest rates increases payments on variable-rate debt, and a fall in the domestic currency raises the cost of debt denominated in foreign currency. Money spent on debt service is not spent on schools, roads or health.
+
+**What is the difference between growth and development?**
+Growth means a rise in real output. Development means an improvement in living standards and wellbeing, which growth can support but does not guarantee.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018, Pearson Education Limited, section 4.3.6, items 2a and 2b (the statements listed above).

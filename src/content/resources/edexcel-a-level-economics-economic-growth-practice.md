@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomic-performance-and-policy-edexcel-alevel-economics"
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on GDP, GNI, real vs nominal measures, Purchasing Power Parities, recession and the limitations of GDP, built to the specification's four-section paper structure and command-word tariffs, for Pearson Edexcel International A-Level Economics, Unit 2 (WEC12/01), the Economic Growth strand of 2.3.1."
+description: "Original practice questions with worked answers on GDP, GNI, real vs nominal, PPPs and recession for Pearson Edexcel International A Level Economics Unit 2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 updatedDate: 2026-11-05
@@ -178,3 +180,17 @@ D) Nominal GDP × inflation rate **[1]**
 ## Approaching measures of economic performance questions
 
 When a question gives a GDP or GNI figure, identify precisely which of the three adjustments (real/nominal, total/per capita, value/volume) it represents before doing any calculation, since exam questions frequently test whether you notice a figure has not been adjusted along a dimension the question requires. For recession questions, work through the quarterly data in strict chronological order and state explicitly which two consecutive quarters satisfy the definition, rather than simply counting how many quarters overall were negative. For evaluative questions on GDP and living standards, always pair the argument that growth generally helps with a specific, named limitation from the specification, since a one-sided answer rarely accesses the higher evaluation mark bands.
+
+## Frequently asked questions
+
+**How many quarters of negative growth make a recession?**
+A recession is two consecutive quarters of negative economic growth. Declaring a recession from a single quarter of negative growth is one of the most common errors in Edexcel International A Level Economics Unit 2 questions.
+
+**How do you compare GDP between countries of different sizes?**
+Divide by population to get GDP per capita, and use real figures so that inflation is removed. Comparing total GDP between countries with very different populations is misleading.
+
+**What should you check before doing a GDP or GNI calculation?**
+Identify which adjustments the figure has had: real or nominal, total or per capita, and value or volume. Questions often test whether you notice that a figure has not been adjusted in the way the question needs.
+
+**Is GDP a complete measure of living standards?**
+No. GDP and GNI say nothing about income distribution or non-market activity, among other limitations, so answers that treat GDP as a complete measure of living standards lose marks.

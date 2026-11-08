@@ -115,6 +115,20 @@ Links: [study guide](/resources/cambridge-a-level-economics-multinationals-fdi-e
 - Stating austerity effects with no estimate or no long-run view.
 - Concluding without saying what the outcome depends on.
 
+## Frequently asked questions
+
+**What must a definition of FDI include to gain full marks?**
+It must mention control or a lasting stake in productive assets in another country. Defining FDI as any foreign investment, such as a small share purchase, misses this.
+
+**How do you set out a transfer pricing calculation?**
+Work out the tax paid with no internal charge, then the tax on the reduced reported profit, and show the difference as tax lost by the host country. Showing only the new tax figure loses marks.
+
+**Why does a currency depreciation make foreign-currency debt harder to repay?**
+The debt is fixed in foreign currency, so when the home currency loses value, more home currency is needed to repay the same debt and to meet each year's debt service.
+
+**How do you evaluate the effects of IMF loan conditions?**
+Estimate the short-run effect, such as lower output and jobs from cutting a budget deficit, then weigh it against the long-run gain in stability and confidence. Conclude by saying what the outcome depends on.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world/).

@@ -143,6 +143,20 @@ These questions cover 3.3.4 Labour markets, items 1 to 3, in the Pearson Edexcel
 - Rounding too early in the staff calculation.
 - Giving a list of public sector pay factors with no explanation.
 
+## Frequently asked questions
+
+**How do you calculate the elasticity of demand for labour?**
+Divide the percentage change in the number of workers demanded by the percentage change in the wage. Dividing the wage change by the quantity change is a common error in Edexcel International A Level Economics questions.
+
+**Does a change in the wage shift the labour demand curve?**
+No. A change in the wage causes a movement along the labour demand curve. The curve shifts only when another factor changes, such as demand for the product or labour productivity.
+
+**How do you compare labour with capital when outputs differ?**
+Compare the cost per unit of output, not total cost. Divide each method's daily cost by the output it produces before deciding which is cheaper.
+
+**Should you round during a staffing calculation?**
+Avoid rounding too early. Keep full figures through the working and round only the final answer, as early rounding is one of the listed ways marks are lost.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination/).

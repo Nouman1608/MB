@@ -132,6 +132,20 @@ These questions follow 3.3.2 items 3 and 4 of the Pearson Edexcel International 
 - Writing a list of evaluation points with no judgement or no use of the data.
 - Confusing diseconomies of scale with diminishing returns.
 
+## Frequently asked questions
+
+**Is accounting profit the same as supernormal profit?**
+No. Normal profit is the least payment that stops the owner switching to another business, and it counts as a cost. Deduct it from accounting profit before calling any of the rest supernormal.
+
+**Is an external economy of scale a movement along the LRAC curve?**
+No. An external economy comes from the growth of the whole industry, so it shifts the firm's LRAC curve down. An internal economy is a movement along the firm's own LRAC curve.
+
+**What is the difference between diseconomies of scale and diminishing returns?**
+Diseconomies of scale are a long-run idea, when average cost rises as the firm grows with all inputs variable. Diminishing returns are a short-run idea, when at least one factor is fixed.
+
+**How do you explain a type of economy of scale for full marks?**
+Name the source and explain why average cost falls, for example spreading a fixed marketing cost over more units. Stating the type without the reason loses marks in Edexcel International A Level Economics questions.
+
 ## Next steps
 
 - Check the formulas in the [revision notes](/resources/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and-revision-notes/) and rework weak questions.

@@ -152,6 +152,20 @@ These questions cover sections 5.3 and 5.4 of the Cambridge International AS & A
 - Forgetting to say which direction the equilibrium price level and output move.
 - Writing evaluation without a reason or a conclusion.
 
+## Frequently asked questions
+
+**What are the three tools of monetary policy in Cambridge 9708?**
+The syllabus names interest rates, the money supply and credit regulations. A definition that mentions only interest rates is incomplete, so list all three and say that the aim is to influence aggregate demand and meet macroeconomic objectives.
+
+**Is a cut in income tax a monetary policy or a fiscal policy?**
+A change in income tax is fiscal policy, because it uses taxation rather than interest rates, the money supply or credit rules. Questions that mix policy types test whether you can separate them, so name the policy the measure belongs to.
+
+**Should a percentage change be calculated from the old value or the new value?**
+From the starting (old) value. In an AD/AS calculation, divide the change in the price level or real output by its original equilibrium value, not by the new one.
+
+**How do you evaluate whether raising interest rates is the right response to inflation?**
+Start with the cause: a rate rise suits demand-pull inflation better than cost-push inflation, where it also reduces output and jobs. Give a reason for each point, weigh it against an alternative such as supply-side policy, and finish with a conclusion that depends on the situation described.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-monetary-policy-and-supply-side-policy-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-monetary-policy-and-supply-side-policy/).

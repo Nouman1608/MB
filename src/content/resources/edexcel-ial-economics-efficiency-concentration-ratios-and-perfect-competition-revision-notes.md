@@ -237,6 +237,20 @@ Evaluation: externalities break the link between P = MC and social efficiency. D
 - Describing concentration ratios as measuring prices or profits, rather than market share.
 - Leaving out evaluation on externalities, dynamic efficiency or market definition when asked to assess.
 
+## Frequently asked questions
+
+**What is the difference between productive and allocative efficiency?**
+Productive efficiency means producing at the lowest possible average cost. Allocative efficiency means price equals marginal cost, so resources produce what consumers value most.
+
+**Do concentration ratios measure prices or profits?**
+No. A concentration ratio measures the combined market share of the largest firms. A high ratio suggests possible market power, but it does not show prices or profits directly.
+
+**Why does a perfectly competitive firm face a horizontal demand curve?**
+Each firm is too small to affect the market price, so it can sell any quantity at that price. Drawing a downward-sloping demand curve for a single firm is a common error.
+
+**Can a highly concentrated market still be competitive?**
+Yes. A concentration ratio ignores imports and the threat of entry, so a market with a high ratio may still face strong competition from foreign firms or potential entrants.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018, published by Pearson Education Limited. Section 3.3.3, items 1 to 3.

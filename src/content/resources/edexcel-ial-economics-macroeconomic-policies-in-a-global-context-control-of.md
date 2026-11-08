@@ -215,6 +215,20 @@ Assess each policy at three scales. A rise in interest rates in Country G cuts n
 - Describing the 2008 response without linking each tool to a weakness or side effect.
 - Giving one-sided answers; a policy can work nationally and harm locally.
 
+## Frequently asked questions
+
+**Which policy tools can reduce poverty and inequality?**
+Progressive taxation, transfers, education and a minimum wage can all redistribute income or raise the incomes of poorer households, though very high marginal tax rates may weaken incentives to work.
+
+**How can a stronger exchange rate help control inflation?**
+An appreciation lowers the domestic price of imports, which lowers the price level in proportion to the share of imports in the consumer basket. It also cuts export competitiveness.
+
+**What is the arm's length principle?**
+It is a rule that prices charged between parts of the same TNC must match those charged between unrelated firms, which limits the use of transfer pricing to shift profit.
+
+**Which Edexcel International A Level Economics statement covers macroeconomic policies in a global context?**
+Statement 4 (a to e) of 4.3.5, The role of the state in the macroeconomy, in Unit 4 of the Pearson Edexcel International A Level Economics specification.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, first assessment June 2020, Pearson Education Limited: Unit 4, 4.3.5 statement 4 (a to e).

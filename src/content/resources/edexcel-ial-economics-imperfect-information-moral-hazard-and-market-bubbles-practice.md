@@ -119,6 +119,20 @@ Calculate the break-even premium for all drivers. Explain what happens next and 
 - Writing about housing when asked about shares.
 - Evaluating with no judgement at the end.
 
+## Frequently asked questions
+
+**Is moral hazard the same as dishonesty?**
+No. Moral hazard is a response to incentives: a person protected from the consequences of risk takes more risk than they otherwise would. Treating it as dishonesty loses marks in Edexcel International A Level Economics answers.
+
+**How do you show that a good is under-consumed because of imperfect information?**
+Calculate the expected cost or benefit as people perceive it and compare it with the price. Then say whether too much or too little is consumed compared with the optimum.
+
+**What is the difference between an information gap and moral hazard?**
+An information gap, such as hidden risk, exists before the deal is made. Moral hazard is about how behaviour changes after the deal, once someone is protected from risk.
+
+**Which groups should you cover when asked about the impact of moral hazard or a bubble?**
+The specification names four groups: consumers, producers, workers and governments. Answers that discuss only one or two of them lose marks.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles/) and use the [revision notes](/resources/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles-revision-notes/).

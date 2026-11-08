@@ -226,6 +226,20 @@ But the gain only reaches consumers if it is passed on. If the sole supplier cha
 - Saying monopoly is always bad. Write both sides, then judge.
 - Drawing diagrams for 3.8. They are not needed.
 
+## Frequently asked questions
+
+**Why is the demand for factors of production a derived demand?**
+Firms want land, labour, capital and enterprise only to make goods and services. If demand for the product rises, demand for the factors used to make it rises too.
+
+**Can production rise while productivity falls?**
+Yes. Production is total output, while productivity is output per worker or per hour. If a firm hires more workers and output rises by a smaller percentage, production rises but productivity falls.
+
+**How does a competitive market affect quality and choice?**
+Firms improve quality to win customers, and consumers can pick from many sellers and variants. However, each firm is small and may miss out on economies of scale.
+
+**How can a firm respond to a union pay claim?**
+It can raise prices if demand allows, accept lower profit or seek higher productivity so that labour cost per unit does not rise. Which it chooses depends on its market and costs.
+
 ## Official syllabus
 
 The source is the Cambridge International syllabus for O Level Economics (2281), examination year 2026, version 2. The relevant parts are 3.4, 3.6 and 3.8.

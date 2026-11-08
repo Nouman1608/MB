@@ -177,6 +177,20 @@ A strong answer weighs the cost of failing to act against the cost of acting bad
 - Describing privatisation as the same as deregulation.
 - Listing limits without applying one to the scenario.
 
+## Frequently asked questions
+
+**Why do regulators set quality standards alongside price caps?**
+A capped price invites cost cutting, so rules set minimum standards such as waiting times, supply interruptions or safety. They protect consumers, though meeting them raises costs.
+
+**What is the weakness of profit regulation?**
+Profit regulation limits the rate of return a firm may earn on its capital employed. Its weakness is that the firm may overstate its capital or costs to look less profitable.
+
+**Why is asymmetric information a problem for regulators?**
+The firm knows its own costs better than the regulator does, so it can overstate them to win a higher price cap or allowed profit.
+
+**Which Edexcel International A Level Economics item covers competition policy and government intervention?**
+Item 1 of 3.3.5 in Unit 3 of the Pearson Edexcel International A Level Economics specification covers controlling monopolies and mergers, promoting competition and contestability, protecting suppliers and employees, and the limits of intervention.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited. This page covers section 3.3.5 item 1 of Unit 3.

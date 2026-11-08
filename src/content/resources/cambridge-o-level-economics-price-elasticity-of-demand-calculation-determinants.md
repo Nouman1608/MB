@@ -232,6 +232,20 @@ A tax on an inelastic good raises more revenue. That also means it cuts consumpt
 - Saying revenue rises when price rises, without checking whether demand is inelastic.
 - Writing "price elastic" when the question asks about the result: always say what it means for the seller, buyer or government in the context given.
 
+## Frequently asked questions
+
+**Does a product bought in large quantities have elastic demand?**
+Not necessarily. PED is about how strongly buyers respond to a price change, not how much they buy, so a product can be bought in huge quantities and still have inelastic demand.
+
+**How can PED be used to predict a change in quantity demanded?**
+Multiply the PED by the percentage change in price. For example, with a PED of -0.8, a 15% price rise cuts quantity demanded by about 12%.
+
+**Does a straight-line demand curve have one PED?**
+No. Along a straight sloping demand curve, demand is more elastic at high prices and low quantities and less elastic at low prices and high quantities.
+
+**Which Cambridge O Level 2281 section covers price elasticity of demand?**
+Section 2.7 of the Cambridge O Level Economics 2281 syllabus covers the definition, calculation, determinants and significance of PED, including its link to total revenue.
+
 ## Where to go next
 
 Test yourself with the [practice questions](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants-practice/) and condense the unit with the [revision notes](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants-revision-notes/).

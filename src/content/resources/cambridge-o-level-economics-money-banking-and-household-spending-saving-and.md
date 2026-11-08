@@ -222,6 +222,23 @@ Confidence is how secure households feel about jobs, future income and prices. W
 
 For practice questions with worked answers use the [practice set](/resources/cambridge-o-level-economics-money-banking-and-household-spending-saving-and-practice/), take a free [10-minute diagnostic](/diagnostics/), and see the [past papers page](/resources/cambridge-o-level-economics-2281-past-papers/). Both papers allow calculators, according to the assessment overview.
 
+## Frequently asked questions
+
+**What is a double coincidence of wants?**
+Under barter, each person must want what the other has to offer at the same time. Money removes this need because it is accepted in payment for goods and services.
+
+**Why are bank deposits counted as money?**
+Bank deposits are balances in accounts that can be moved by card, transfer or cheque, so they are accepted in payment. In many economies they are used for most large payments.
+
+**What is a lender of last resort?**
+It is a role of the central bank: supporting a sound bank that runs short of cash so that panic does not spread through the banking system.
+
+**How do you calculate a household's saving ratio?**
+Divide the amount saved by disposable income and multiply by 100. For example, a household with disposable income of 3,000 a month that saves 450 has a saving ratio of 15 per cent.
+
+**Which Cambridge O Level 2281 sections cover money, banking and household spending?**
+Sections 3.1.1 (money), 3.1.2 (banking) and 3.2.1 (spending, saving and borrowing) of the Cambridge O Level Economics 2281 syllabus.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, version 2, published by Cambridge University Press and Assessment (Cambridge International). Sections 3.1.1, 3.1.2 and 3.2.1.

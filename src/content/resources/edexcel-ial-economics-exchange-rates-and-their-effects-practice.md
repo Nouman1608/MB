@@ -140,6 +140,20 @@ Evaluation:
 - Listing consequences of competitive depreciations without linking them.
 - Concluding a long answer without saying when the effect holds.
 
+## Frequently asked questions
+
+**Is a 20% fall in one currency a 20% rise in the other?**
+No. Percentage changes are not symmetrical, because each is measured against a different starting value, so work out the change for each currency separately.
+
+**How should you explain the effect of a depreciation on exports?**
+Say that exports become cheaper in foreign currency, then link that to higher demand. Writing "exports rise" without the price change in foreign currency loses marks.
+
+**What does the Marshall-Lerner condition require?**
+A depreciation helps the current account only when the price elasticity of demand for exports plus that for imports exceeds 1; below 1 the balance gets worse. Use the sum, not one elasticity, and mention the time period.
+
+**How do you describe central bank intervention in the currency market?**
+State whether the central bank buys or sells its own currency, and with what. To raise the rate it buys its own currency using foreign currency reserves; to lower it, it sells its own currency.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/edexcel-ial-economics-exchange-rates-and-their-effects-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-exchange-rates-and-their-effects/).
