@@ -23,8 +23,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -152,3 +154,17 @@ Using the item and your knowledge, explain how sociologists would describe and e
 - Naming a general idea (anti-school subculture, class-based inequality) without the specific study the specification attaches to it (Willis; Halsey; Ball).
 - Treating the New Right view as neutral description rather than a value-laden judgement about which family type is "ideal".
 - On the item-based questions, describing the item's scenario without linking it explicitly to a named sociological concept or study.
+
+## Frequently asked questions
+
+**How do you explain the rise in divorce for full marks?**
+Explain the mechanism, not just the factor. For example, saying people are less religious is not enough: explain that as religious opposition weakened, couples became more willing to end an unhappy marriage.
+
+**Does more divorce mean more unhappy marriages?**
+Not necessarily. A rise in divorce can reflect easier, cheaper divorce laws and changing attitudes, so do not treat it as proof that marriages became unhappier.
+
+**What is the hidden curriculum?**
+The hidden curriculum is not the subjects taught. Marxists such as Bowles and Gintis argue it reproduces class inequality by preparing pupils to accept their place in an unequal workforce.
+
+**Which studies does the AQA 8192 specification attach to education topics?**
+Use the named study with each idea: Willis for anti-school subculture, Halsey for class-based inequality in achievement, and Ball for both parental choice between schools and teacher expectations.

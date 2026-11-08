@@ -39,8 +39,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense the [research methods study guide](/resources/aqa-gcse-sociology-8192-research-methods/); go there for full explanations and worked paragraphs.
@@ -184,6 +186,20 @@ All details below are as the specification's Appendix B summarises them.
 - Saying covert observation is "unethical" and stopping; explain which ethical issue and how it might be addressed.
 - Treating official statistics as either perfectly accurate or completely useless.
 - Retelling a study's findings when the question asks about its method.
+
+## Frequently asked questions
+
+**What is the difference between reliability and validity?**
+Reliable means repeatable; valid means true to life. Questionnaires lean towards reliability, while unstructured interviews and participant observation lean towards validity.
+
+**What is the difference between an aim and a hypothesis?**
+An aim is a broad statement of what the research wants to find out. A hypothesis is a prediction that can be tested.
+
+**Does a random sample guarantee a representative sample?**
+No. Random describes how people are chosen, giving everyone an equal chance; representative describes the result. A small random sample can still be unrepresentative by chance.
+
+**What does the AQA 8192 specification expect you to do with research methods?**
+You need to identify, describe and explain methods, explain their advantages and disadvantages for a specific area of research, understand research design, judge sources and interpret data in a variety of forms.
 
 ## Official syllabus
 

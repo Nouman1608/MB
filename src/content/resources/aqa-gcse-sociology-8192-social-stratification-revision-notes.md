@@ -36,8 +36,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked paragraphs, read the [Social stratification study guide](/resources/aqa-gcse-sociology-8192-social-stratification/) first.
@@ -173,6 +175,20 @@ All of these appear in the specification's key terms list for social stratificat
 - In "Discuss" questions, covering one side only. Extended answers need a contrasting view and a judgement.
 - Ignoring the item or scenario. Application marks need its details, not a general definition.
 - Forgetting the feminist view in 3.6.2 to 3.6.6. Each sub-section names functionalist, feminist and Marxist views.
+
+## Frequently asked questions
+
+**How did Marx and Weber differ on class?**
+Marx saw two main classes defined by ownership and expected polarisation. Weber accepted the owner versus non-owner division but split non-owners by market situation and expected the middle class to grow.
+
+**What is the difference between class and status?**
+Class is economic position. Status, in Weber's sense, is prestige, which can come from occupation, ethnicity, religion or lifestyle.
+
+**Is Weber a Marxist?**
+No. Weber shared the owner versus non-owner idea but rejected polarisation and the view that revolution was inevitable.
+
+**How should you use Townsend's poverty figure?**
+Say that Townsend's estimate of 22% came from his own relative deprivation measure for 1968 to 1969, rather than quoting it as a general poverty rate.
 
 ## Official syllabus
 

@@ -36,8 +36,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -209,6 +211,20 @@ Discuss how far sociologists would agree that differences in pay between occupat
 - Check any weak areas against the [Social stratification study guide](/resources/aqa-gcse-sociology-8192-social-stratification/).
 - Find your gaps across the whole course with our free [diagnostics](/diagnostics/).
 - Want help with extended answers? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How do you name sociologists so they earn marks in GCSE stratification answers?**
+Pair each sociologist with their perspective every time, such as "the functionalists Davis and Moore" or "the feminist Walby". Naming one without the other loses easy marks.
+
+**What is the difference between Weber's types of authority and sources of power?**
+Weber's three types of authority are traditional, charismatic and rational-legal. Formal and informal sources of power are a separate idea: formal power comes from official positions and laws, informal power from influence, peer pressure or money.
+
+**How do you use a scenario in a stratification question?**
+Link details from the scenario to a concept, such as the underclass or rational-legal authority, rather than copying the scenario back.
+
+**How should you answer a "Discuss how far" question in AQA GCSE Sociology?**
+Give both sides, with named sociologists on each, and reach a judgement. Giving only one side is a common way to lose marks in AQA GCSE Sociology (8192) extended responses.
 
 ## Official syllabus
 

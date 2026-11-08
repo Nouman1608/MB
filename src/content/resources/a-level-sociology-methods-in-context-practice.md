@@ -118,9 +118,6 @@ an education-specific issue that is worth explaining fully rather than just ment
 - Listing method-only and context-only points side by side rather than genuinely combining them
 into single points, which is what separates a middle-band answer from a top-band one.
 
-For condensed recall notes on the method-and-context framework itself, see the
-[Methods in Context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/).
-
 ## Frequently asked questions
 
 **What separates a top-band methods in context answer from a middle-band one?**
@@ -134,3 +131,6 @@ The published AQA mark scheme sets no target number of points and does not requi
 
 **Why does the power imbalance matter when researching pupils?**
 Pupils may see an adult researcher as an authority figure like a teacher and give the answers they think are wanted. This education-specific issue affects validity and is worth explaining fully in AQA 7192 answers.
+
+For condensed recall notes on the method-and-context framework itself, see the
+[Methods in Context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/).

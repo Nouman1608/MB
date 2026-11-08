@@ -18,8 +18,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense the [study guide](/resources/aqa-gcse-sociology-8192-social-structures-processes-issues/) for section 3.2, Social structures, social processes and social issues.
@@ -162,6 +164,20 @@ Appendix B gives ready-made limits: Oakley predates civil partnerships; the Rapo
 - Ending an extended answer without a judgement that follows from the evidence.
 
 For topic detail, revise the [families and education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/), the [crime and stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/) and the [research methods guide](/resources/aqa-gcse-sociology-research-methods/). For exam technique, see [exam preparation](/resources/aqa-gcse-sociology-exam-preparation/). Related 8192 units: [the sociological approach](/resources/aqa-gcse-sociology-8192-the-sociological-approach/) and [education](/resources/aqa-gcse-sociology-8192-education/).
+
+## Frequently asked questions
+
+**What is the difference between compare and contrast?**
+Compare means give similarities and differences; contrast means differences only. A "compare and contrast" answer needs both.
+
+**Can sociologists within the same perspective disagree?**
+Yes. Willis and Bowles and Gintis are both Marxists but disagree on how far schools succeed in socialising pupils, so a good answer can compare within as well as between perspectives.
+
+**Is Albert Cohen a Marxist?**
+No. The AQA GCSE Sociology (8192) specification presents Albert Cohen's work on status frustration as functionalist.
+
+**How do topics connect in GCSE Sociology?**
+Concepts such as labelling, social control, class and patriarchy cross topics: for example, Ball on teacher expectations and Becker on master status both show self-fulfilling prophecies.
 
 ## Official syllabus
 
