@@ -31,6 +31,9 @@ jobs:
         run: npm run build
 
       - name: Run full audit gate (needs the built dist/ above)
+        env:
+          # The audits load every built page; the site now outgrows Node's default heap.
+          NODE_OPTIONS: --max-old-space-size=6144
         run: npm run audit:all
 
       - name: Negative-fixture validation suite
