@@ -46,6 +46,14 @@ test('FAQ at the end of the body and inside-fence questions are handled', () => 
   assert.deepEqual(extractFaq(body), [{ question: 'Real?', answer: 'Yes.' }]);
 });
 
+test('inline style: answer starting on the question line, continuing below', () => {
+  const body = '## Frequently asked questions\n\n**Use 1000 or 1024?** The syllabus uses binary\nprefixes.\n\n**Header included?** Usually ignored.\n\n*Based on the syllabus.*';
+  assert.deepEqual(extractFaq(body), [
+    { question: 'Use 1000 or 1024?', answer: 'The syllabus uses binary prefixes.' },
+    { question: 'Header included?', answer: 'Usually ignored.' },
+  ]);
+});
+
 test('plainText strips links, code, bold and italics', () => {
   assert.equal(plainText('A [link](/x/) with `code`, **bold** and *it*.'), 'A link with code, bold and it.');
 });

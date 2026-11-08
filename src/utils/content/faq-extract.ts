@@ -57,6 +57,9 @@ export function extractFaq(body: string): FaqItem[] {
     if (/^#{1,2}\s/.test(line)) break;
     const q = line.trim().match(/^\*\*(.+\?)\*\*$/);
     if (q) { flush(); question = plainText(q[1]); continue; }
+    // Inline style: "**Question?** Answer starts on the same line…"
+    const qi = line.trim().match(/^\*\*([^*]+\?)\*\*\s+(\S.*)$/);
+    if (qi) { flush(); question = plainText(qi[1]); answer.push(qi[2]); continue; }
     if (!question) continue;
     if (line.trim() === '') { if (answer.length) flush(); continue; }
     // A list, table or sub-heading under a question is not a plain answer: drop that pair.
