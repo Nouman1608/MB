@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "natural-resources-0680"
     subtopic: "fracking-0680"
-description: "Energy-saving strategies, blue and green hydrogen, heat pumps and the benefits and limitations of fracking, for Cambridge IGCSE Environmental Management 0680, 1.5–1.6."
+description: "Energy-saving strategies, blue and green hydrogen, heat pumps and the benefits and limitations of fracking for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
