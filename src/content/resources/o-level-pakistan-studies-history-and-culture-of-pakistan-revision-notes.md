@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-history-culture-2059"
+  - qualification: "o-level"
+    topic: "paper-1-history-culture-2059"
+    subtopic: "cultural-historical-background-2059"
 description: "Condensed recall notes on the three sections of Paper 1 for Cambridge O Level Pakistan Studies (2059), 2026 series."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
