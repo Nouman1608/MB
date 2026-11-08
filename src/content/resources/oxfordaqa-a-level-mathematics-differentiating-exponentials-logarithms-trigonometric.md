@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p2-pure-maths-oxfordaqa-alevel-maths"
     subtopic: "p2-differentiation-oxfordaqa-alevel-maths"
-description: "Study guide to OxfordAQA 9660 P2.6: derivatives of e^x, ln x and trig functions, product, quotient and chain rules, and dy/dx = 1/(dx/dy)."
+description: "Detailed study guide to OxfordAQA 9660 P2.6: derivatives of e^x, ln x and trig functions, product, quotient and chain rules, and dy/dx = 1/(dx/dy)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

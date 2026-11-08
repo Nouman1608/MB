@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m2-mechanics-oxfordaqa-alevel-maths"
     subtopic: "m2-work-and-energy-oxfordaqa-alevel-maths"
-description: "Twelve original practice questions with worked answers on work, energy, the work-energy principle and power for OxfordAQA 9660 Unit M2."
+description: "Twelve original practice questions with fully worked answers on work, energy, the work-energy principle and power for OxfordAQA 9660 Unit M2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

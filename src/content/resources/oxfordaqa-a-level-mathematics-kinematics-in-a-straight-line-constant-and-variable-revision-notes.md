@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-psm1-m1-mechanics-oxfordaqa-alevel-maths"
     subtopic: "m1-motion-variable-acceleration-oxfordaqa-alevel-maths"
-description: "Condensed notes and a self-test on straight-line kinematics for OxfordAQA International AS Maths 9660, sections M1.1 and M1.2."
+description: "Condensed notes and a self-test on straight-line kinematics with constant and variable acceleration for OxfordAQA International AS Maths 9660 (M1.1, M1.2)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

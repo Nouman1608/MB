@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s2-statistics-oxfordaqa-alevel-maths"
     subtopic: "s2-estimation-oxfordaqa-alevel-maths"
-description: "Study guide to sampling, unbiased estimators, standard error and the Central Limit Theorem for OxfordAQA International A-level Maths."
+description: "Study guide to sampling, unbiased estimators, standard error and the Central Limit Theorem for OxfordAQA International A-level Maths (9660)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

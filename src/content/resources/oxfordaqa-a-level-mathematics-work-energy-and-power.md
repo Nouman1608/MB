@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m2-mechanics-oxfordaqa-alevel-maths"
     subtopic: "m2-work-and-energy-oxfordaqa-alevel-maths"
-description: "Study guide to work done by a force, kinetic and potential energy, the work-energy principle and power (P = Fv) for OxfordAQA 9660 Unit M2."
+description: "Detailed study guide to work done by a force, kinetic and potential energy, the work-energy principle and power (P = Fv) for OxfordAQA 9660 Unit M2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

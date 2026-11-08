@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p2-pure-maths-oxfordaqa-alevel-maths"
     subtopic: "p2-differential-equations-oxfordaqa-alevel-maths"
-description: "Twelve original questions with worked answers on forming and solving separable differential equations for OxfordAQA 9660 Unit P2 (P2.8)."
+description: "Twelve original questions with fully worked answers on forming and solving separable differential equations for OxfordAQA 9660 Unit P2 (P2.8)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
