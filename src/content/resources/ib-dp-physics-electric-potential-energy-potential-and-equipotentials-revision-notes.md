@@ -196,6 +196,19 @@ Rules to state in answers:
   <figcaption>Equipotentials are crossed at 90 degrees by field lines and crowd together where the field is strong.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is electric potential examined at IB DP Physics SL?**
+No. This is the additional higher level part of sub-topic D.2, so all of it is HL only.
+
+**Does zero electric potential mean zero field?**
+No, neither implies the other. Midway between two equal and opposite charges Ve = 0 but E is not zero, and inside a charged conducting sphere E = 0 but Ve is not zero.
+
+**How do potential and field strength change with distance from a point charge?**
+Ve and Ep fall as 1/r, while the field strength E falls as 1/r².
+
+**Can E = V/d be used for a point charge?**
+No. E = V/d applies only to a uniform field, such as between parallel plates. For a point charge or any non-uniform field, use E = −ΔVe/Δr.
 
 ## Official syllabus
 

@@ -143,6 +143,20 @@ Links: the [study guide](/resources/ib-dp-physics-electric-charge-coulombs-law-e
 - Try the [free 10-minute diagnostics](/diagnostics/) to find your weak spots.
 - Or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics D.2 questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Do these questions include the HL electric potential content?**
+No. They cover the SL and HL understandings of D.2, Electric and magnetic fields; the higher level potential content is not included.
+
+**What constants do these questions use?**
+Take k as 8.99 × 10⁹ N m² C⁻², e as 1.60 × 10⁻¹⁹ C and g as 9.81 m s⁻².
+
+**What slips lose marks in electric and magnetic field questions?**
+Common slips include leaving nC, µC or cm unconverted in a formula, and using the direction of electron flow rather than conventional current in a right-hand grip rule.
+
 ## Official syllabus
 
 These questions follow the IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization, sub-topic D.2.

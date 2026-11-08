@@ -157,6 +157,20 @@ Use: e = 1.60 × 10^-19 C, electron mass 9.11 × 10^-31 kg, proton mass 1.67 × 
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics D.3 questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Is D.3 different at SL and HL?**
+No. The content of D.3, Motion in electromagnetic fields, is the same at SL and HL, so every question here applies to both.
+
+**What constants do these questions use?**
+Use e = 1.60 × 10⁻¹⁹ C, electron mass 9.11 × 10⁻³¹ kg, proton mass 1.67 × 10⁻²⁷ kg, u = 1.66 × 10⁻²⁷ kg, μ0 = 4π × 10⁻⁷ T m A⁻¹ and g = 9.81 m s⁻².
+
+**How do I get credit for a force direction?**
+Name the rule you used and the sign of the charge. Giving a direction without either is a common way to lose marks, even when the direction is correct.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. These questions cover D.3, Motion in electromagnetic fields.

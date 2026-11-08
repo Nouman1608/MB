@@ -262,6 +262,20 @@ For a current into the page, the circles are clockwise.
 - Field lines that intersect or lack arrows.
 - Using electron flow, not conventional current, in the grip rule.
 
+## Frequently asked questions
+
+**Why does gravity dominate for large bodies if the electric force is so much stronger?**
+For two protons the electric force is about 1.24 × 10³⁶ times the gravitational force, but large bodies are almost neutral overall, so gravity dominates for them.
+
+**What if a question gives a different permittivity?**
+The guide expects you to meet a range of permittivity values, so use the value supplied for that medium in place of ε₀ in k = 1/(4πε₀).
+
+**Why does the order of steps matter when charging by induction?**
+The earth connection must be removed while the charged rod is still in place. Removing the rod first lets the electrons redistribute and leaves the sphere neutral.
+
+**Can the weight of an electron between charged plates be ignored?**
+Yes. The weight of an electron is negligible compared with the electric force eE in a typical field between plates.
+
 ## Official syllabus
 
 This page follows the IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization, sub-topic D.2.

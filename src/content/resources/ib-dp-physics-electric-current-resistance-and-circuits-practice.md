@@ -139,6 +139,20 @@ These questions cover sub-topic B.5, Current and circuits, from the IB *Physics 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics circuits questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Is IB DP Physics B.5 different at SL and HL?**
+No. The content of B.5, Current and circuits, is the same for SL and HL, so every question here applies to both.
+
+**Are the meters in these questions ideal?**
+Yes, unless a question says otherwise. Use e = 1.60 × 10⁻¹⁹ C where needed.
+
+**What slips lose marks in circuit calculations?**
+Common slips are not converting hours, minutes, millimetres or kilohms before substituting, and forgetting to invert 1/Rp at the end of a parallel calculation.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic B.5 Current and circuits.

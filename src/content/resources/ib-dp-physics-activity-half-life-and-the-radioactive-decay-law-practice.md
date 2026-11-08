@@ -156,6 +156,20 @@ Determine the half-life of the source, using at least two different intervals, a
 - Return to the [course hub](/boards/ib/ib-dp/physics/) and [printable checklist](/checklists/ib/ib-dp/physics/).
 - Take the [free 10-minute diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics radioactive decay questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Which of these questions are HL only?**
+Questions 1 to 8 apply to both SL and HL. Questions 9 to 12 use the decay law and are HL only.
+
+**What data are supplied for these questions?**
+The half-life of carbon-14 is 5730 years and the half-life of sodium-24 is 15 h, and the activity per gram of carbon in living material is taken as constant over time.
+
+**What mistakes lose marks in IB half-life questions?**
+Common errors include writing the number of half-lives as t × T½ instead of t / T½, and, at HL, mixing hours and seconds when using λ and A.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic E.3, Radioactive decay.

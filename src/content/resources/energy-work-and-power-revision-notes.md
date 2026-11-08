@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed recall notes on energy stores, conservation, KE and GPE, work and power for Cambridge O Level Physics 5054 — every equation and the standard traps."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -150,3 +152,17 @@ Forgetting to square the velocity in Ek = ½mv² is one of the most common error
 5. State the difference between energy and power.
 
 **Answers:** 1. v = √(2 × 9.8 × 5) = √98 ≈ **9.9 m/s**. 2. Ek ∝ v², so four times the kinetic energy must be removed by the braking force over four times the distance. 3. (350/500) × 100 = **70%**. 4. No — the force (upward) is perpendicular to the motion (horizontal), so no work is done against gravity. 5. Energy is the capacity to do work, measured in joules; power is the rate of energy transfer, measured in watts.
+
+## Frequently asked questions
+
+**Why do heavy and light objects reach the same speed when dropped?**
+In mgh = ½mv² the mass cancels, giving v = √(2gh). Ignoring air resistance, objects dropped through the same height reach the same speed.
+
+**How can energy dissipation be reduced?**
+Use lubrication to reduce friction, streamlining to reduce drag, and insulation to reduce thermal transfer.
+
+**Is sound an energy store?**
+No. Sound waves are a way of transferring energy, not a store. The energy they carry ends up in the internal store of the surroundings.
+
+**Which height is used in gravitational potential energy calculations?**
+Use the change in vertical height, Δh, not a distance along a slope and not an absolute height, unless the question defines a reference level.

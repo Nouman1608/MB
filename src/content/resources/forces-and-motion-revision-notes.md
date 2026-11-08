@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed recall notes on Newton\u2019s laws, F = ma, friction, terminal velocity and stopping distance for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -173,3 +175,17 @@ A book on a table: weight (Earth on book) and normal contact force (table on boo
 7. A ball on a string is swung in a horizontal circle at constant speed. If the string is shortened while the speed stays the same, what happens to the force needed, and why?
 
 **Answers:** 1. F = 1500 × 2 = **3000 N**. 2. 3000 + 600 = **3600 N**. 3. Weight causes acceleration; drag increases with speed; when drag equals weight the resultant is zero and velocity becomes constant. 4. Both forces act on the same object (the book); a third-law pair must act on two different bodies. 5. Thinking distance doubles; braking distance quadruples. 6. Weight, friction, drag, air resistance, tension, electrostatic force, magnetic force, thrust, contact force. 7. The force needed **increases** — with speed and mass unchanged, a smaller radius needs a bigger centre-seeking force to keep the ball on its (now tighter) circular path.
+
+## Frequently asked questions
+
+**Is the driving force the same as the resultant force?**
+No. The resultant force is what remains after drag and friction are subtracted from the driving force. Treating the driving force as the resultant is the most common error in this topic.
+
+**What does terminal velocity look like on a velocity-time graph?**
+The line flattens out. The object does not slow down; it simply stops accelerating because the resultant force is zero.
+
+**How do you check a Newton's third law pair?**
+A genuine pair is the same type of force, equal in size, opposite in direction and acting on two different bodies. A weight force can only pair with another weight force, never with a contact force.
+
+**What happens to stopping distance when speed doubles?**
+Thinking distance doubles, because it is proportional to speed, but braking distance quadruples, because it is proportional to speed squared.
