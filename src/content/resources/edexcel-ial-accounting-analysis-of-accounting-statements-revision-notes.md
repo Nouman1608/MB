@@ -222,6 +222,20 @@ ROCE             = 20,400 / 126,500 x 100                  = 16.13%
 </figure>
 
 
+## Frequently asked questions
+
+**How many ratios are in Edexcel YAC11 Unit 1 topic 1.5?**
+Topic 1.5 uses ten ratios covering profitability, use of assets, liquidity and working capital periods: gross profit percentage, mark-up, profit for the year percentage, ROCE, revenue to non-current assets, inventory turnover, current ratio, liquid ratio, and the payables and receivables periods.
+
+**What is the difference between gross profit margin and mark-up?**
+Gross profit margin divides gross profit by revenue, while mark-up divides gross profit by cost of sales. They describe the same gross profit from two different bases.
+
+**How should each ratio be presented?**
+Use x : 1 for the liquidity ratios, times for turnover ratios and days for the receivables and payables periods. Missing the format is a common way to lose marks.
+
+**Which opening inventory is used in a projection?**
+The opening inventory for the projected year is the current year's closing inventory. Taking the forecast closing inventory as the opening figure is a common mistake.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, first teaching September 2015, published by Pearson Education Limited. Unit 1, topic 1.5 Analysis of accounting statements, and Appendix 7: Formulae.

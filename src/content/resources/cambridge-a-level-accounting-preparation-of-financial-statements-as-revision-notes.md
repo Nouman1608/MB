@@ -275,6 +275,20 @@ A service business has no inventory or cost of sales: fees less expenses. A trad
 - Leaving prepayments or accruals out of the statement of financial position.
 - Not showing the accumulated depreciation as well as net book value.
 
+## Frequently asked questions
+
+**Is interest on drawings added or deducted in a partnership appropriation account?**
+Interest on drawings is added to the profit available for appropriation, because it is charged to the partners. Deducting it is a common mistake.
+
+**Can the revaluation reserve be used for a bonus issue?**
+No. The Cambridge 9706 syllabus says the revaluation reserve is not used for a bonus issue. A bonus issue debits another reserve and credits share capital, with no cash involved.
+
+**Where do dividends appear in a company's accounts?**
+Dividends are shown in the statement of changes in equity, not in the statement of profit or loss.
+
+**How should non-current assets be shown in the statement of financial position?**
+Show cost, accumulated depreciation and net book value. Giving only the net book value is a common way to lose marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706, syllabus for exams in 2026, 2027 and 2028, Cambridge Assessment International Education, section 1.5.

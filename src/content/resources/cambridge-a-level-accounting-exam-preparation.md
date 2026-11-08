@@ -9,10 +9,12 @@ qualifications: ["a-level"]
 syllabusCodes: ["9706"]
 syllabusSeries: "2026-2028"
 order: 3
-description: "How Cambridge International A-Level Accounting 9706's four papers weight unevenly (Paper 2 alone is 36% of the A Level), and a worked cost-and-management-accounting routine."
+description: "How the four Cambridge International A Level Accounting 9706 papers are weighted, with Paper 2 at 36% of the A Level, plus a worked variance routine."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -119,6 +121,20 @@ method, rewarding fast, accurate elimination of distractors rather than the exte
 the other papers reward. 3. Because Papers 3 and 4 build directly on the bookkeeping and statement
 foundations set in Paper 2, so gaps there resurface as errors at A Level. 4. Whether the variance is
 favourable or adverse, stated explicitly rather than left implied by a sign alone.
+
+## Frequently asked questions
+
+**How many papers are there in Cambridge International A Level Accounting 9706?**
+There are four papers. Paper 1 (Multiple Choice) and Paper 2 (Fundamentals of Accounting) form the AS Level; Paper 3 (Financial Accounting) and Paper 4 (Cost and Management Accounting) are A Level only.
+
+**How much is each Cambridge 9706 paper worth?**
+Paper 1 is worth 14% of the full A Level, Paper 2 36%, Paper 3 30% and Paper 4 20%. Paper 2 alone outweighs Papers 1 and 4 combined.
+
+**Do I need to show workings in Cambridge Accounting exams?**
+A correct answer to a calculation normally earns full credit without working unless the paper says working is essential, but clearly labelled workings let the examiner award method marks when the final figure is wrong.
+
+**How should a variance be presented in Paper 4?**
+State the standard and actual figures, show the formula, calculate the variance and label it favourable or adverse explicitly, then give a plausible cause and a possible management response.
 
 *Written against the assessment overview of Cambridge International's own AS & A Level Accounting (9706)
 syllabus PDF for 2026-2028 (official Cambridge document, verified 2026-08-27); the paper structure,

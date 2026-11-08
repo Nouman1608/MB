@@ -233,6 +233,20 @@ Rows: start balance, share issue, profit (loss) for the year,
 - Profit lines without the exact labels: profit from operations, profit for the year before tax, profit for the year after tax.
 - Equity totals in the statement of financial position not agreeing with the closing totals in the statement of changes in equity.
 
+## Frequently asked questions
+
+**Where do dividends paid appear in company accounts?**
+Dividends paid are deducted from retained earnings in the statement of changes in equity. They are a distribution of profit, not an expense, so they do not appear in the income statement.
+
+**Which profit figure goes into the statement of changes in equity?**
+Profit for the year after tax is added to retained earnings. Carrying profit before tax into retained earnings is a common mistake.
+
+**How do you check company statements agree?**
+The equity totals in the statement of financial position must agree with the closing totals in the statement of changes in equity, and total assets must equal total equity plus total liabilities.
+
+**Where does debenture interest go in the income statement?**
+Debenture interest is a finance cost deducted after profit from operations. Placing it among operating expenses makes profit from operations wrong.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.7, Limited company accounts.

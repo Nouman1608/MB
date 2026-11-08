@@ -131,6 +131,20 @@ These questions follow the Cambridge International AS & A Level Accounting 9706 
 - Including selling and administration costs in the cost of production.
 - Recommendations that ignore non-financial factors or lack a justified conclusion.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 budgeting questions from past papers?**
+No. They are ten original questions with worked answers on section 4.3 Budgeting and budgetary control of Cambridge 9706, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in cash budget questions?**
+Common errors include including depreciation, using the month of the transaction rather than the month the cash moves, and missing opening receivables or payables when payment is spread over two months.
+
+**Why must reconciliation differences be labelled?**
+Label every difference favourable or adverse and add or deduct it in the right direction. An unlabelled figure leaves the examiner unsure of your meaning.
+
+**How should a budgeting recommendation be written?**
+Refer to the figures in the question, include non-financial factors, and finish with a justified conclusion. A vague call to "manage cash better" tends to gain little.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-accounting-budgeting-and-budgetary-control-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-budgeting-and-budgetary-control/).

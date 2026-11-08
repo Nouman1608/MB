@@ -214,6 +214,20 @@ Premises £258,000 [1]; equipment £40,000 [1]; inventory and prepayment [1]; re
 - Income received in advance and accrued interest left out of other payables.
 - Totals in the statement of financial position that do not agree, with no working shown.
 
+## Frequently asked questions
+
+**Are these AQA 7127 limited company questions from past papers?**
+No. They are original practice questions with marked answers on section 3.7 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in limited company accounts questions?**
+Common errors include showing dividends paid in the income statement, crediting all share issue proceeds to share capital with nothing to share premium, and adding profit before tax rather than after tax to retained earnings.
+
+**Why should I check the dates in a company accounts question?**
+Dates change the figures: debentures issued part-way through the year carry interest only for the months in issue, and a dividend paid after a share issue is paid on the larger number of shares.
+
+**Why show a retained earnings working?**
+A visible working lets a profit figure carried forward from an earlier part be followed and credited even if that earlier figure was wrong.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-accounting-limited-company-accounts-revision-notes/).

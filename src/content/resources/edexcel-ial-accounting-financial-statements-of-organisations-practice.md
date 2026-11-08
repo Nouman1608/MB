@@ -161,6 +161,20 @@ Transfer to statement of profit or loss        119,875   [1]
 - Leaving work in progress out, or adjusting it the wrong way.
 - Applying the mark-up percentage directly to finished goods at transfer price.
 
+## Frequently asked questions
+
+**Are these Edexcel YAC11 financial statements questions from past papers?**
+No. They are original practice questions with worked answers on topic 1.3 of Pearson Edexcel International A Level Accounting (YAC11), written for revision. Use them alongside the official past papers.
+
+**What are common mistakes in incomplete records questions?**
+Common errors include treating a margin as a mark-up when rebuilding cost of sales, and adding capital introduced to profit in a net assets calculation instead of subtracting it.
+
+**Is goodwill debited to a retiring partner?**
+No. A retiring partner takes no part in the new profit-sharing ratio, so no goodwill is debited to their account; debiting it is a common mistake.
+
+**Why lay out ledger accounts in full?**
+A single net figure without the ledger account gives no route to partial credit if it is wrong. Showing the account, such as a full subscriptions account, lets method be credited.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/edexcel-ial-accounting-financial-statements-of-organisations-revision-notes/)

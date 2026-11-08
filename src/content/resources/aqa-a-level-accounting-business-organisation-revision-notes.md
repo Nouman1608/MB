@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "types-of-business-organisation"
-description: "Condensed recall notes on sole traders, partnerships, private and public limited companies, their reporting implications and sources of finance for AQA A-Level Accounting (7127), 3.2."
+description: "Revision notes on sole traders, partnerships, Ltd and plc companies, their reporting implications and sources of finance, for AQA A-Level Accounting 7127, 3.2."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -154,6 +156,20 @@ This section connects directly to **Topic 7 (Limited Company Accounts)** and **T
 - State two finance sources available to a private limited company that are NOT available to a sole trader.
 - Explain the difference between unlimited and limited liability using a concrete example.
 - Explain why issuing ordinary shares dilutes ownership and control.
+
+## Frequently asked questions
+
+**What are the four business ownership types in AQA A-Level Accounting 7127?**
+The four types are sole trader, partnership, private limited company (Ltd) and public limited company (plc). Section 3.2 compares them by formation and ownership, benefits and risks, and reporting requirements.
+
+**Why does issuing ordinary shares dilute ownership and control?**
+New shares spread ownership across more shareholders, so each existing owner's percentage stake, and their share of control, falls unless they buy the new shares themselves.
+
+**What should a growing sole trader consider when choosing a new business structure?**
+Taking on a partner brings extra capital but liability stays unlimited. Converting to a private limited company gives limited liability but brings statutory filing of accounts. Floating as a plc gives access to large-scale finance but the heaviest reporting burden and dilution of control.
+
+**What governs a partnership with no written agreement?**
+Where partners have not drawn up their own written agreement, the Partnership Act 1890 applies by default.
 
 ## Related resources
 

@@ -196,6 +196,23 @@ or safety are judged to outweigh a £7 436 shortfall [1].
 - Giving an NPV without a sign or a decision.
 - Evaluations with no non-financial factor or no final recommendation.
 
+## Frequently asked questions
+
+**Are these AQA 7127 investment appraisal questions from past papers?**
+No. They are original practice questions with worked answers on section 3.13 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**How should a payback period be given?**
+When a question asks for years and months, convert the decimal part of a year into months. A figure such as "3.5 years" alone does not answer the question in the form asked.
+
+**Why should I show a cumulative cash flow column?**
+If the final answer is wrong, visible working is the only route to method credit, so set out the cumulative cash flows for payback questions.
+
+**What are the most common mistakes in NPV questions?**
+Common errors include discounting the year-0 outlay or forgetting to deduct it, leaving the residual value out, and giving an NPV without a sign or an accept or reject decision.
+
+**What does a strong investment appraisal evaluation include?**
+Use the figures, include at least one non-financial factor, and end with a decision justified by the figures. "It depends" with no choice does not earn the final mark.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-accounting-capital-investment-appraisal-revision-notes/)

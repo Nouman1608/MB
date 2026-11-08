@@ -13,10 +13,12 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "principles-of-accounting-and-double-entry-bookkeeping"
-description: "Condensed recall notes on the accounting equation, concepts, adjustments, control accounts, with bank reconciliation as supporting background, for Edexcel A Level Accounting."
+description: "Revision notes on the accounting equation, concepts, adjustments and control accounts, with bank reconciliation as background, for Edexcel IAL Accounting YAC11."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -196,3 +198,16 @@ receivables days    = receivables / credit sales x 365
   <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the three purposes of a control account?**
+A control account checks the arithmetical accuracy of the personal ledgers, helps locate errors within a smaller area, and provides totals quickly for the financial statements. Prepared independently, it also acts as an internal control.
+
+**Why does capital appear with liabilities in the accounting equation?**
+Under the business entity concept the business is separate from its owner, so capital is treated as an amount the business owes back to the owner.
+
+**Does a balanced trial balance prove the accounts are correct?**
+No. Six error types leave the trial balance balanced, including omission, commission and principle, so agreement proves nothing on its own.
+
+**What should be done first in a bank reconciliation?**
+Update the cash book first for items the bank knew about first, such as direct debits, charges and interest, then reconcile the adjusted cash book balance with the bank statement. Bank reconciliation is supporting background rather than assessed content in Edexcel YAC11.

@@ -137,6 +137,20 @@ These questions follow Cambridge International AS & A Level Accounting 9706 (syl
 - Charging the whole provision for unrealised profit instead of the change.
 - Naming fundraising methods with no recommendation or balance.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 financial statements questions from past papers?**
+No. They are original questions with worked answers on section 3.1 of Cambridge 9706 A Level Accounting, written for revision. Use them alongside the official past papers.
+
+**What are common mistakes in partnership admission questions?**
+Common errors include crediting goodwill to the incoming partner rather than the old partners, and forgetting the revaluation gain or loss in the capital accounts.
+
+**What are common mistakes in club accounts questions?**
+Ignoring arrears and advance receipts in subscriptions income, and counting equipment purchases or life membership receipts as income, are common ways to lose marks.
+
+**How can I check partnership capital accounts after an admission?**
+Reconcile the closing capital total to the old capital plus any revaluation gain plus the cash brought in by the new partner. A difference points to a slip.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-a-level-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-a-level/).

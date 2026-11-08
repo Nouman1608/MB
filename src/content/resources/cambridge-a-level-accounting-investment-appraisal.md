@@ -275,6 +275,23 @@ A project with a positive NPV may be rejected because of its social or environme
 - Interpolating from two rates that both give positive NPVs.
 - Recommending from one technique alone, or giving a decision with no reason.
 
+## Frequently asked questions
+
+**Which investment appraisal methods are in Cambridge 9706 section 4.4?**
+Section 4.4 covers payback, accounting rate of return (ARR), net present value (NPV) and internal rate of return (IRR), together with non-financial factors. The syllabus states that questions on discounted payback will not be set.
+
+**How do you calculate the accounting rate of return?**
+ARR = (average profit ÷ average investment) × 100. Average profit is total profit over the project's life divided by the number of years, and average investment is (initial investment + value at the end) ÷ 2.
+
+**How do you calculate IRR by interpolation?**
+Calculate NPV at two rates, one giving a positive NPV and one negative, then IRR = lower rate + [NPV at lower rate ÷ (NPV at lower rate − NPV at higher rate)] × (higher rate − lower rate). The result is an estimate.
+
+**Why does investment appraisal use cash flows instead of profit?**
+Depreciation reduces profit but no cash leaves the business, the asset purchase is a cash outflow at the start, and sunk costs and reallocated existing overheads are not new cash flows. Appraisal asks whether the cash spent now is worth the cash it brings back.
+
+**Can a project with a positive NPV be rejected?**
+Yes. Non-financial factors such as effects on employees, customers, the environment, the community and strategic fit, or doubts about the forecasts, can outweigh a positive NPV.
+
 Next, try the [practice questions](/resources/cambridge-a-level-accounting-investment-appraisal-practice/) and use the [revision notes](/resources/cambridge-a-level-accounting-investment-appraisal-revision-notes/) to consolidate.
 
 ## Official syllabus

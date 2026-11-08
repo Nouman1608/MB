@@ -215,6 +215,20 @@ Opening credit balance £944 (95 189 − 94 245) [1]; three correct postings [1]
 - Giving only the profit effect when the statement of financial position effect is also asked for.
 - Not checking that corrected net assets equal corrected capital.
 
+## Frequently asked questions
+
+**Are these AQA 7127 verification questions from past papers?**
+No. They are original practice questions with worked answers on section 3.4 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**Do journal entries need narratives?**
+Yes, where the question asks for them. A missing narrative loses its mark even when the double entry is right.
+
+**What are the most common mistakes in error correction questions?**
+Common errors include posting commission, principle or complete reversal corrections through suspense, and correcting a complete reversal with the single amount instead of double.
+
+**How should I state the effect of an error?**
+Give the amount and the direction for profit and, where asked, for the statement of financial position. "Profit overstated" with no amount, or with no statement of financial position effect, earns at most one mark.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-accounting-verification-of-accounting-records-revision-notes/) and [study guide](/resources/aqa-a-level-accounting-verification-of-accounting-records/).

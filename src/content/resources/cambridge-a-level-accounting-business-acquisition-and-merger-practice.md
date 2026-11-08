@@ -130,6 +130,20 @@ These questions follow section 3.3 Business acquisition and merger (A Level cont
 - Leaving the new debentures out of the statement of financial position.
 - Evaluation with no figures and no justified recommendation.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 acquisition and merger questions from past papers?**
+No. They are ten original questions on section 3.3 Business acquisition and merger of Cambridge 9706, written for revision. Use them alongside the official past papers.
+
+**Why should I show net assets and consideration as separate workings?**
+Separate workings let partly correct work earn credit, whereas a single unexplained goodwill figure leaves little to credit if it is wrong.
+
+**What are the most common mistakes in business acquisition questions?**
+Common errors include using book values when agreed values are given, forgetting to deduct liabilities taken over, putting the whole share issue price into share capital, and leaving new debentures out of the statement of financial position.
+
+**How do I write a strong evaluation of a proposed merger?**
+Tie each point to the figures given and finish with a justified recommendation. General statements with no figures gain less credit.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/cambridge-a-level-accounting-business-acquisition-and-merger-revision-notes/) and the [study guide](/resources/cambridge-a-level-accounting-business-acquisition-and-merger/).

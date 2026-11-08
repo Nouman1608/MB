@@ -190,6 +190,20 @@ Depreciation added and profit on disposal deducted [1]; inventory +£4,500 [1]; 
 - Depreciation on disposals not removed in the schedule of non-current assets.
 - Evaluation answers with no judgement, or with limitations not linked to the stakeholder named.
 
+## Frequently asked questions
+
+**Are these AQA 7127 limited company questions from past papers?**
+No. They are original questions with marked answers on section 3.16 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in statement of cash flows questions?**
+Common errors include adding the sale proceeds of an asset in operating activities instead of the profit or loss on disposal, reversing the signs on working-capital changes, and using the tax or interest charge as the amount paid.
+
+**Are bonus shares recorded at market price or nominal value?**
+Bonus shares are transferred at nominal value, never at market price.
+
+**How do I earn marks on an evaluation question about published accounts?**
+Link each point to the concern of the stakeholder named in the question, such as a supplier wanting to be paid, and finish with a judgement. Generic limitations with no link to the question score less.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-accounting-accounting-for-limited-companies-revision-notes/).

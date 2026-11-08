@@ -261,6 +261,23 @@ Kemp is owed £36,200. The £26,200 not paid becomes a liability of the firm, an
 - Leaving residual profit unshared when it is negative.
 - Assuming salaries or interest apply where the question says there is no agreement.
 
+## Frequently asked questions
+
+**Is interest on a partner's loan an appropriation of profit?**
+No. Interest on a partner's loan is an expense in the income statement, deducted before profit for the year. Interest on capital, salaries and interest on drawings belong in the appropriation account.
+
+**What is the difference between fixed and fluctuating capital accounts?**
+With fixed capital accounts, the capital account holds only capital introduced, and all appropriations and drawings go to a separate current account. With fluctuating capital accounts there is no current account, so everything goes straight to the capital account.
+
+**What happens if the residual profit is negative after salaries and interest?**
+Salaries and interest on capital are still credited in full, and the residual loss is shared in the profit-sharing ratio.
+
+**How is goodwill treated when a new partner is admitted?**
+If goodwill is not kept in the books, debit goodwill and credit the old partners' capital accounts in the old ratio, then debit the continuing partners' capital accounts in the new ratio and credit goodwill, so the goodwill account closes to nil.
+
+**Is dissolution of partnerships examined in AQA A-Level Accounting 7127?**
+No. The specification states that the dissolution of partnerships will not be examined in section 3.15.
+
 ## Next steps
 
 Condense the methods with the [revision notes](/resources/aqa-a-level-accounting-partnership-accounts-revision-notes/), then test yourself on the [practice questions](/resources/aqa-a-level-accounting-partnership-accounts-practice/). For the wider set of skills examined on Paper 1, see [AQA A-level Accounting exam preparation](/resources/aqa-a-level-accounting-exam-preparation/).

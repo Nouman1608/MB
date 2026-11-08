@@ -213,6 +213,23 @@ realistic view, not a pessimistic one; it is not an alternative to accruals [1].
 - Forgetting depreciation when a wrongly expensed asset is capitalised.
 - Treating a customer deposit as revenue when received.
 
+## Frequently asked questions
+
+**Are these AQA 7127 accounting concepts questions from past papers?**
+No. They are original practice questions on section 3.5 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers from your board or school.
+
+**How are marks given for naming an accounting concept?**
+Naming the concept usually earns one mark; the remaining marks need an explanation of what the concept does to profit or to a statement of financial position figure in the scenario.
+
+**What are common mistakes with sale or return questions?**
+Common errors are removing all the goods when some have already been accepted, and adding the goods back to inventory at selling price instead of cost.
+
+**What should I remember when correcting a draft profit for a wrongly expensed asset?**
+As well as adding back the asset cost, remember to deduct the depreciation for the year. Forgetting depreciation is one of the common ways marks are lost.
+
+**How do I reach full marks on a discussion question about prudence?**
+Give points on both sides and finish with a supported judgement. A balanced list without a final judgement is usually capped below full marks.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re-revision-notes/)

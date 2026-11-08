@@ -163,6 +163,20 @@ Last year's ratios: gross profit margin 38.00%; profit in relation to revenue 12
 - Treating depreciation as a cash outflow in a cash versus profit question.
 - Describing changes without causes, consequences or a judgement.
 
+## Frequently asked questions
+
+**Are these AQA 7127 ratio analysis questions from past papers?**
+No. They are original practice questions with marked answers on section 3.8 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**What is the difference between margin and mark-up?**
+Gross profit margin is gross profit as a percentage of revenue, while mark-up is gross profit as a percentage of cost of sales. Swapping the two denominators is a classic slip, so write the formula before substituting.
+
+**Should inventory turnover use closing or average inventory?**
+The specification's formula uses average inventory, normally (opening + closing) ÷ 2. Using closing inventory alone is a common way to lose marks.
+
+**How do I gain marks on an evaluate or recommend question?**
+Link points together, such as receivable days explaining low cash, and make a clear decision that follows from the figures. Sitting on the fence without a decision limits the credit.
+
 ## Next steps
 
 - [Revision notes for this topic](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes/)

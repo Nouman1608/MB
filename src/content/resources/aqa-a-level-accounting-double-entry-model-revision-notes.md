@@ -219,6 +219,20 @@ Clear labels make your entries easier to follow and to credit, so write the acco
 </figure>
 
 
+## Frequently asked questions
+
+**Is trade discount recorded in the books?**
+No. Trade discount is deducted before the transaction is recorded, so it never reaches the ledger. Recording trade discount in the books is a common mistake.
+
+**Is discount allowed income or an expense?**
+Discount allowed, given to customers, is an expense; discount received, from suppliers, is income. Swapping the two is a common way to lose marks.
+
+**How much of a provision for doubtful debts goes to the income statement?**
+Only the change in the provision is charged to, or credited in, the income statement, not the whole provision. The full provision is deducted from receivables in the statement of financial position.
+
+**How is reducing balance depreciation calculated?**
+Apply the fixed percentage to the net book value, cost less accumulated depreciation, each year, not to the original cost.
+
 ## Official syllabus
 
 Based on the AQA A-level Accounting (7127) specification, subject content 3.3 The double entry model, for A-level exams June 2019 onwards, published by AQA.

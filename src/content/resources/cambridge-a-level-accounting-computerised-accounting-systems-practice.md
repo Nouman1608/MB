@@ -145,6 +145,20 @@ These questions follow section 3.4 Computerised accounting systems (A Level) of 
 - Recommending parallel or direct changeover with no figures and no drawbacks.
 - Stopping at the arithmetic without saying what the difference means.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 computerised accounting questions from past papers?**
+No. They are eleven original questions with worked answers on section 3.4 of Cambridge 9706, written for revision. Use them alongside the official past papers.
+
+**How should I describe a safeguard in an exam answer?**
+Name the specific check, such as a control total, record count or hash total, and say what error it would find. "Check for errors" with no named check is too vague to be credited.
+
+**How should an error found after entry be corrected?**
+Use a dated correcting journal that leaves an audit trail, rather than overwriting the error.
+
+**How do I answer a changeover recommendation question?**
+Use the figures, weigh both sides including drawbacks, and justify the decision. Recommending parallel or direct changeover with no figures and no drawbacks is a common way to lose marks.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-accounting-computerised-accounting-systems-revision-notes/) and the [study guide](/resources/cambridge-a-level-accounting-computerised-accounting-systems/).

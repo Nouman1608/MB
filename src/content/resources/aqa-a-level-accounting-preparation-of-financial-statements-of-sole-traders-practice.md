@@ -241,6 +241,20 @@ Depreciation 20% x 23,400 = 4,680, carrying amount £18,720 [1]; inventory £24,
 - Placing an income received in advance or a loan in the wrong section.
 - Leaving out workings, so no own-figure credit is possible.
 
+## Frequently asked questions
+
+**Are these AQA 7127 sole trader questions from past papers?**
+No. They are original practice questions with marked answers on section 3.6 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in sole trader adjustment questions?**
+Common errors include charging the full provision for doubtful debts instead of the change, applying reducing balance to cost instead of the carrying amount, and valuing sale or return goods at selling price.
+
+**Does a service business have a trading section?**
+No. A service business has no cost of sales or gross profit, so its income statement starts with income and deducts expenses.
+
+**How are marks given for a statement of financial position?**
+Subheadings carry marks, so show non-current assets, current assets, capital, non-current liabilities and current liabilities clearly. A loan listed under current liabilities loses marks and distorts net current assets.
+
 ## Next steps
 
 - [Revision notes for this topic](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/)

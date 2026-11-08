@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on financial statements, adjustments, depreciation and ratio analysis."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -109,3 +111,17 @@ State the effect on **profit** and on **non-current assets** of mistakenly treat
 - Saying a high current ratio always means good liquidity.
 - Charging capital expenditure to the income statement as an expense, rather than capitalising it as a non-current asset.
 - Quoting a ratio without a comparison (previous year, competitor or industry norm) or a reason for the change.
+
+## Frequently asked questions
+
+**Are these OxfordAQA 9615 practice questions taken from past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers available free from your board.
+
+**What topics do these role of the accountant practice questions cover?**
+They cover financial and management accounting, users of financial statements, profit and margin calculations, depreciation methods, accruals and prepayments, liquidity and efficiency ratios, capital and revenue expenditure, and the limitations of ratio analysis.
+
+**How are marks usually split in accounting calculation questions?**
+In the worked answers, marks are given separately for the correct working and the correct final figure, so it helps to set out the formula with the figures substituted before giving the answer.
+
+**Why does a ratio answer need a comparison?**
+A ratio on its own says little. Quoting it without a comparison to the previous year, a competitor or an industry norm, or without a reason for the change, is one of the common ways marks are lost.

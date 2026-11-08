@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "financial-accounting"
     subtopic: "the-accounting-system"
-description: "Sole traders, partnerships and limited companies, sources of finance, double-entry bookkeeping, books of prime entry, and fundamental accounting concepts, for Cambridge International AS & A Level Accounting 9706."
+description: "Sole traders, partnerships and companies, finance sources, double entry, books of prime entry and accounting concepts, for Cambridge AS Level Accounting 9706."
 author: "javaid-iqbal-sabri"
 reviewer: "zain-ud-din-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -244,6 +246,23 @@ advantages/disadvantages
 - The six books of prime entry and what each records
 - The purpose of a trial balance, and its limitations
 - All twelve fundamental accounting concepts and what each governs
+
+## Frequently asked questions
+
+**Which sources of finance are named in Cambridge 9706 subtopic 1.1?**
+The syllabus names loans (secured and unsecured), bank overdrafts, payment by instalments, rental or leasing, and trade credit. The type of business entity affects which of these is realistic for a given business.
+
+**What are the advantages and disadvantages of a sole trader?**
+A sole trader is simple and cheap to set up and gives the owner full control, but carries unlimited liability and has limited access to capital.
+
+**What is the purpose of a trial balance?**
+A trial balance lists all ledger balances to check that total debits equal total credits before financial statements are prepared. It does not prove the accounts are free of errors, because some error types do not affect its totals.
+
+**Do I need to know specific accounting software for Cambridge 9706?**
+No. Knowledge of specific accounting software or applications is not required, but you should know the advantages and disadvantages of computerised systems and how data security can be ensured, for example through passwords, access levels and backups.
+
+**Are Limited Liability Partnerships examined in Cambridge 9706?**
+No. The syllabus states that questions on Limited Liability Partnerships will not be set.
 
 ## Related resources
 

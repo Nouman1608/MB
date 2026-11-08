@@ -196,6 +196,20 @@ Paper 3 questions that ask for a recommendation or decision expect reasons on bo
 - Quoting figures from a scenario without saying what they show.
 - Describing a named program, which the syllabus does not require.
 
+## Frequently asked questions
+
+**What are the stages of transferring accounts to a computerised system?**
+Plan, choose the cut-over date, bring the manual books up to date, clean the data, design the account structure, enter the opening balances, verify what was entered, then change over and review.
+
+**What checks should be made after data is entered?**
+Compare the new trial balance with the manual one line by line, agree subsidiary ledgers to control accounts, trace a sample back to source documents, look for unusual items, back up straight after verification and keep an audit trail.
+
+**Do I need to know a named accounting program for Cambridge 9706?**
+No. The syllabus does not require knowledge of any named program, so describing one earns nothing.
+
+**Why should I not compare only the totals of two trial balances?**
+Two offsetting errors can leave the totals equal, so comparing only the totals can miss them. Compare line by line.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028*, section 3.4 Computerised accounting systems (A Level), 3.4.1.

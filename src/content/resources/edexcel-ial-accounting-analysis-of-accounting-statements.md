@@ -264,6 +264,23 @@ Comment on what the projection shows. Profit for the year rises in dollars, but 
 - Describing a change ("ROCE fell") without a reason and an effect.
 - In projections, using the new year's closing inventory as the opening figure.
 
+## Frequently asked questions
+
+**Are ratio formulae given in the Edexcel IAL Accounting exam?**
+No. Appendix 7 of the Edexcel YAC11 specification states that the formulae will not be supplied in the examinations, so they must be learned.
+
+**What is NPBI in Edexcel Accounting?**
+NPBI is net profit before interest: profit for the year plus the loan interest charged in the statement of profit or loss. It is the profit figure used for ROCE.
+
+**How is capital employed calculated for a sole trader?**
+For a sole trader or partnership, capital employed = capital + non-current liabilities. For a partnership, capital is the total of the capital accounts plus the current accounts, with any debit current account balance deducted.
+
+**Are partners' salaries deducted before calculating ROCE?**
+No. ROCE for a partnership uses profit for the year before the appropriation of salaries and interest on capital. Deducting them would understate the return.
+
+**How do you use ratios to make projections?**
+A projection runs the ratio formulae backwards: start from a forecast figure and a target ratio and solve for the missing figure, such as cost of sales from a gross margin or average inventory from an inventory turnover.
+
 ## Where to go next
 
 Condense this into recall with the [revision notes](/resources/edexcel-ial-accounting-analysis-of-accounting-statements-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-ial-accounting-analysis-of-accounting-statements-practice/). For the wider exam routine, see the [Edexcel IAL Accounting exam preparation guide](/resources/edexcel-ial-accounting-exam-preparation/). Errors in the underlying records distort every ratio, so link this topic to [control accounts and correction of errors](/resources/a-level-edexcel-accounting-control-accounts-and-correction-of-errors/).

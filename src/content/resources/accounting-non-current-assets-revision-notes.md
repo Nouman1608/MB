@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "financial-accounting"
     subtopic: "accounting-for-non-current-assets"
-description: "Condensed revision notes on capital vs revenue expenditure, depreciation methods, the cost and revaluation models, and disposal for Cambridge AS & A Level Accounting 1.3 (9706)."
+description: "Revision notes on capital versus revenue spending, depreciation methods, cost and revaluation models and disposals, for Cambridge 9706 Accounting topic 1.3."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -155,3 +157,17 @@ extending a completed depreciation or disposal calculation into a short evaluati
 instance, whether a business's choice of depreciation method still suits an asset whose actual pattern
 of use has changed since purchase — since structured questions on this topic increasingly end with this
 kind of applied, judgement-based final part.
+
+## Frequently asked questions
+
+**What is the difference between capital and revenue expenditure?**
+Capital expenditure acquires or improves a non-current asset and benefits more than one period. Revenue expenditure covers day-to-day running costs that benefit the current period only.
+
+**What are the causes of depreciation?**
+Non-current assets lose value through physical wear and tear, economic obsolescence, the passing of time where there is a fixed useful life, and depletion, for example of mineral reserves.
+
+**When should a business use reducing balance instead of straight-line depreciation?**
+Reducing balance suits assets that lose most of their value early, such as vehicles and machinery. Straight-line suits assets that lose value evenly, such as fixtures and fittings.
+
+**How do you calculate the profit or loss on a part exchange?**
+Compare the part-exchange allowance with the old asset's carrying value at disposal. If the allowance is lower than the carrying value there is a loss, and if higher there is a profit.

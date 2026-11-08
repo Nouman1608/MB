@@ -126,6 +126,20 @@ Revised profit 276,000 − 14,200 [1] = **261,800**. [1] **[5]**
 - Naming ethical principles without applying them to the facts.
 - Treating the audit report as a guarantee of accuracy.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 regulatory and ethics questions from past papers?**
+No. They are ten original questions with worked answers on section 3.2 of Cambridge 9706, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in IAS questions?**
+Common errors include choosing cost or selling price instead of the lower of cost and NRV, omitting costs to complete in NRV, restating earlier years for a change in estimate, and using the lower of the two measures as recoverable amount.
+
+**Why should I give a reason when classifying an event under IAS 10?**
+A classification supported by the reason, whether or not the event relates to a condition at the reporting date, is stronger than a bare label. Labelling an event without a reason is a common way to lose marks.
+
+**How do I earn marks on an ethics scenario question?**
+Link each principle to the facts of the scenario, such as the instruction given or the documents involved. Naming ethical principles without applying them earns little credit.
+
 ## Next steps
 
 - [Revision notes](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations/)

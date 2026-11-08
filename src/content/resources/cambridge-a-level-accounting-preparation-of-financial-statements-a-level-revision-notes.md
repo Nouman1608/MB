@@ -287,6 +287,20 @@ Check: 48,000 − 6,000 − 3,500 + 650 = 39,150. Each partner's total is the cu
 - Mixing up interest paid, tax paid and dividends paid in the statement of cash flows.
 - Giving a list of finance options with no recommendation or reasons on both sides.
 
+## Frequently asked questions
+
+**Which section of Cambridge 9706 covers A Level financial statements?**
+Section 3.1 Preparation of financial statements covers partnerships, clubs and societies, manufacturing businesses and limited companies at A Level. It is assessed on Paper 3.
+
+**How do you deal with a change in profit-sharing ratio part-way through the year?**
+Split the year, apportioning profit by time where it accrues evenly, and apply each period's salaries, interest and ratio to that period only. Applying one set of terms to the whole year is a common mistake.
+
+**How is subscriptions income calculated for a club?**
+Start from the cash received and adjust for subscriptions in arrears and in advance at the start and end of the year. A closing advance reduces the year's income.
+
+**What is the provision for unrealised profit in manufacturing accounts?**
+When goods are transferred at cost plus a factory profit, the provision removes the profit included in finished goods inventory held at transfer price. Only the change in the provision is charged each year.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706, syllabus for examination in 2026, 2027 and 2028, section 3.1, published by Cambridge University Press & Assessment.

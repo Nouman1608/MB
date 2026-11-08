@@ -246,6 +246,20 @@ Watch overdrafts: an overdraft on the bank statement is a **debit** balance from
 - Stating only the profit effect when the question asks for the statement of financial position effect as well.
 - Calling a book of prime entry transposition "revealed by the trial balance".
 
+## Frequently asked questions
+
+**Which paper examines verification of accounting records in AQA 7127?**
+Section 3.4 Verification of accounting records is examined on Paper 1, which assesses sections 1–8 and 14–18.
+
+**How is a complete reversal of entries corrected?**
+A complete reversal is corrected with double the amount, because the wrong entries must be removed and the right ones made. Correcting it with the single amount is a common mistake.
+
+**Can credit balances in the sales ledger be netted off?**
+No. Credit balances in the sales ledger, from customer overpayments or returns, are carried down separately from the debit balances and are never netted off.
+
+**Which bank balance goes in the statement of financial position?**
+The updated cash book balance goes in the statement of financial position, not the bank statement balance.
+
 ## Next steps
 
 Work through the [practice questions](/resources/aqa-a-level-accounting-verification-of-accounting-records-practice/)

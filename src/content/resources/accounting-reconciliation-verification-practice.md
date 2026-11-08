@@ -193,6 +193,23 @@ Corrected profit                          56,070   [1]
 - Not updating the cash book first, or treating timing differences as errors.
 - Writing benefits and limitations unlinked to the data.
 
+## Frequently asked questions
+
+**What does Cambridge 9706 section 1.4 cover?**
+Section 1.4 Reconciliation and verification covers errors and the trial balance, suspense accounts, bank reconciliation statements, and sales and purchases ledger control accounts, together with the benefits and limitations of each procedure.
+
+**What should I say when naming a type of error?**
+As well as naming the error, say whether the trial balance would reveal it. Naming an error without stating this is one of the common ways marks are lost.
+
+**When should a suspense account be opened?**
+Only when an error makes the trial balance disagree. Opening a suspense account for an error that does not unbalance the trial balance is a common mistake.
+
+**How do you check a set of correcting journals in a suspense account question?**
+Post the corrections to the suspense account; if it ends at zero, the journals have cleared the original difference.
+
+**How do you score well on evaluation questions in reconciliation topics?**
+Use the figures given in the question and link each benefit and limitation to the data, then reach a justified recommendation. Benefits and limitations that are not linked to the data are a common reason marks are lost.
+
 ## Next steps
 
 - Review the [revision notes](/resources/accounting-reconciliation-verification-revision-notes/) and [study guide](/resources/accounting-reconciliation-and-verification/).

@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "types-of-business-organisation"
-description: "Sole traders, partnerships, private and public limited companies, their benefits, risks and reporting implications, and their sources of finance -- Topic 3.2 of AQA A-Level Accounting (7127)."
+description: "Sole traders, partnerships, Ltd and plc companies: benefits, risks, reporting duties and sources of finance, for Topic 3.2 of AQA A-Level Accounting (7127)."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -177,6 +179,23 @@ the accounting treatment specific to each structure is developed in
 full — understanding the ownership and finance differences covered here
 first makes that later, more technical content considerably easier to
 follow.
+
+## Frequently asked questions
+
+**What are the four types of business organisation in AQA A-Level Accounting 7127?**
+The specification names four ownership models: sole traders, partnerships, private limited liability companies (Ltd) and public limited liability companies (plc).
+
+**What is the difference between unlimited and limited liability?**
+With unlimited liability an owner's personal assets can be used to settle business debts, which applies to sole traders and ordinary partners. With limited liability a shareholder's loss is restricted to the amount they have invested in the company.
+
+**Which sources of finance can a sole trader use compared with a limited company?**
+A sole trader can use owner's capital, a bank overdraft, a bank loan or a mortgage. Ordinary shares and debentures are only available to limited companies, with large public share issues mainly open to public limited companies.
+
+**What is the difference between a private and a public limited company?**
+Both have limited liability, but a private limited company's shares cannot be offered for sale to the general public. A public limited company's shares can be bought and sold by the public, usually on a stock exchange, and it faces more extensive reporting and disclosure requirements.
+
+**Does "limited" in a company's name mean the business is small?**
+No. "Limited" refers to the owners' financial liability for the company's debts, not to the size or turnover of the business.
 
 ## Related resources
 

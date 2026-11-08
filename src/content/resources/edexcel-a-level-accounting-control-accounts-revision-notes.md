@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "control-procedures"
     subtopic: "control-accounts-yac11"
-description: "Condensed recall notes on control accounts, error correction, suspense accounts and statements of revised profit for Pearson Edexcel International A-Level Accounting (YAC11), 1.2.3-1.2.9."
+description: "Revision notes on control accounts, error correction, suspense accounts and statements of revised profit for Edexcel IAL Accounting (YAC11), 1.2.3 to 1.2.9."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -175,6 +177,20 @@ Practising this kind of diagnosis -- working from a described scenario back to t
 - Explain why an imbalance divisible by 9 suggests a transposition error.
 - Work the four-step suspense account sequence from memory for a one-sided entry.
 - State the profit-adjustment rule for an understated expense.
+
+## Frequently asked questions
+
+**How do you build a receivables control account?**
+Start from the opening balance, add credit sales, then deduct sales returns, cash and cheques received, discounts allowed and irrecoverable debts written off, and adjust for any contra entries, to find the closing balance.
+
+**Which errors unbalance the trial balance?**
+One-sided entries, transposition errors, where digits are reversed, and casting errors, where a column is added up wrongly, all cause the trial balance totals to differ.
+
+**How does an understated expense affect profit?**
+An understated expense overstates profit, so correcting it always reduces the profit figure in the statement of revised profit.
+
+**What is an error of principle?**
+An error of principle posts an entry to the wrong type of account, such as office equipment debited to purchases instead of to equipment. Both sides are entered, so the trial balance still balances.
 
 ## Related resources
 

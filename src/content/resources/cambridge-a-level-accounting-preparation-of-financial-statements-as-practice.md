@@ -115,6 +115,20 @@ These questions cover section **1.5 Preparation of financial statements** (AS Le
 - Not writing down inventory to net realisable value.
 - Forgetting the accrual or prepayment on the statement of financial position.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 AS financial statements questions from past papers?**
+No. They are eleven original questions with worked answers on section 1.5 of Cambridge 9706, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in AS financial statements questions?**
+Common errors include charging the whole allowance for irrecoverable debts instead of its change, treating loan interest as an appropriation, deducting interest on drawings instead of adding it, and putting dividends in the statement of profit or loss.
+
+**Why should I write the formula before substituting in an incomplete records question?**
+Writing the formula first guards against reversing items such as capital introduced, which is subtracted, and drawings, which are added.
+
+**How are share issues recorded in the ledger?**
+Give the share premium its own account rather than combining it with share capital, and remember that a bonus issue involves no bank entry.
+
 ## Next steps
 
 - [Revision notes](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-as-revision-notes/)

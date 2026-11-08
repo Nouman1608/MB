@@ -179,6 +179,20 @@ Actual profit                                 10,160      [1]
 - Giving a cause that contradicts the direction of the variance.
 - Listing variances without a link to a decision, or ignoring non-financial factors in a recommendation.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 standard costing questions from past papers?**
+No. They are eleven original questions with full worked answers on section 4.2 of Cambridge 9706, written for revision. Use them alongside the official past papers.
+
+**Why should I write the variance formula with the figures in it?**
+It gives the marker evidence of your method if one number slips, so it can still be credited. Always add F or A to the result.
+
+**What is the most common mistake in efficiency and usage variances?**
+Using actual hours or quantities where the standard hours or quantity for the actual output are needed, or using budgeted output instead of actual output.
+
+**How do I check a profit reconciliation statement?**
+Start from budgeted profit, add favourable and subtract adverse variances, and check that the result reaches the actual profit. If it does not, check the signs first.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-accounting-standard-costing-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-standard-costing/).

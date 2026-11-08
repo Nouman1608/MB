@@ -224,6 +224,23 @@ Paper 3 asks for recommendations supported by a balance of reasons and a justifi
 - Forgetting cut-off, so a March invoice appears in the opening balance and again as an April transaction.
 - Recommending a method with no reasons or no mention of the drawbacks.
 
+## Frequently asked questions
+
+**What does Cambridge 9706 section 3.4 Computerised accounting systems cover?**
+Section 3.4 is A Level content on transferring a business's accounting records from manual books to a computerised system and keeping the data complete and accurate during and after the transfer. The benefits of computerising were met at AS Level.
+
+**What does data integrity mean in accounting?**
+Accounting data has integrity when it is complete, with nothing left out or entered twice, and accurate, with the right figures in the right accounts.
+
+**Does a validation check prove data is correct?**
+No. Validation tests that entries are reasonable against rules, such as a field that must be numeric, but it cannot prove the figures are right. Treating validation as proof of accuracy is a common error.
+
+**What is a hash total?**
+A hash total is a control figure with no accounting meaning, such as the sum of account codes, compared before and after entry. A difference can identify a missing or duplicated record, alongside a record count and a control total.
+
+**Why is cut-off important when changing accounting systems?**
+A written cut-off rule decides which documents belong in the manual closing balances and which are entered as new transactions. Without it, an invoice can be missed or counted twice.
+
 ## Next steps
 
 Test yourself with the [practice questions](/resources/cambridge-a-level-accounting-computerised-accounting-systems-practice/), then condense this guide with the [revision notes](/resources/cambridge-a-level-accounting-computerised-accounting-systems-revision-notes/).

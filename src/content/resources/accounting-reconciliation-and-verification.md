@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "financial-accounting"
     subtopic: "reconciliation-and-verification"
-description: "Errors that do and don't affect the trial balance, suspense accounts, bank reconciliation statements, and sales/purchases ledger control accounts -- the full content of AS Level Topic 1.4 for Cambridge International AS & A Level Accounting 9706, 2026-2028 series."
+description: "Errors that do and do not affect the trial balance, suspense accounts, bank reconciliations and control accounts: AS topic 1.4 of Cambridge 9706 Accounting."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -194,6 +196,23 @@ procedures -- Paper-2-style questions frequently award marks for this
 evaluative commentary in addition to the numerical reconciliation
 itself, so a technically correct reconciliation without the
 accompanying discussion will not earn full marks.
+
+## Frequently asked questions
+
+**What are the six errors that do not affect the trial balance?**
+The six named types are omission, commission, principle, original entry, reversal and compensating errors. In each case the trial balance still balances even though a mistake has been made.
+
+**What is the difference between an error of principle and an error of commission?**
+An error of principle posts an entry to the wrong class of account, such as capital expenditure treated as revenue expenditure. An error of commission posts it to the correct type of account but the wrong specific account, such as the wrong customer's account.
+
+**Why is the cash book updated before preparing a bank reconciliation statement?**
+The cash book is first updated for items on the bank statement that the business has not yet recorded, such as bank charges or standing orders. The reconciliation statement then explains the remaining difference, which is usually caused by timing differences such as unpresented cheques or outstanding lodgements.
+
+**What are the benefits and limitations of control accounts?**
+Control accounts give an independent check on the subsidiary ledgers and help locate errors faster. However, a control account can itself contain errors, and agreement with the ledger does not guarantee that every transaction was recorded correctly.
+
+**Do Cambridge 9706 reconciliation questions only test calculations?**
+No. The syllabus requires a discussion of the benefits and limitations of each procedure, so a correct reconciliation without the evaluative comment will not earn full marks.
 
 ## Official syllabus
 

@@ -283,6 +283,20 @@ Staff morale and turnover, customer satisfaction, quality, supplier relationship
 - Recommendations that ignore non-financial factors or give no justified conclusion.
 - Statement of financial position that does not balance, usually from a missed cash or retained earnings figure.
 
+## Frequently asked questions
+
+**Which section of Cambridge 9706 covers budgeting?**
+Section 4.3 Budgeting and budgetary control is A Level content in Cambridge International AS and A Level Accounting 9706. It covers budgetary control, spreadsheets, the master budget, flexible budgets, reconciliations and behavioural aspects.
+
+**What are the two budget reconciliation statements?**
+One reconciles the flexible budgeted cost of production with the actual cost of production, and the other reconciles flexible budgeted profit with actual profit. Selling and administration costs belong only in the profit reconciliation.
+
+**How do you calculate the production budget?**
+Production = sales + closing inventory − opening inventory. Using sales units alone, or reversing opening and closing inventory, is a common mistake.
+
+**What are the advantages of preparing budgets on a spreadsheet?**
+Formulas recalculate every linked budget instantly when an assumption changes, which makes what-if testing quick. However, a wrong formula or hard-coded number can pass unnoticed and spread through linked budgets.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, section 4.3 Budgeting and budgetary control, published by Cambridge International.
