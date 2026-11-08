@@ -19,10 +19,12 @@ syllabusTopics:
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 5, Enzymes: catalysts, active sites, temperature and pH, investigations and rate calculations."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 5, Enzymes (sub-topic 5.1), of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Learning outcomes 1 to 5 are Core. Outcomes 6 to 9 are Supplement content, so they are **Extended only**: they ask you to *explain* what Core candidates only *describe*. Core content is tested on Papers 1 and 3, Core and Supplement content on Papers 2 and 4, and rates of enzyme-catalysed reactions are a listed context for the practical papers (Paper 5 or Paper 6).
@@ -233,6 +235,20 @@ In this data set the optimum is **near pH 7**. The rate at pH 7 is 9.0 ÷ 3.0 = 
 - Test yourself with the [enzymes practice questions](/resources/igcse-biology-enzymes-practice/).
 - Revisit the [biological molecules revision notes](/resources/igcse-biology-0610-biological-molecules-revision-notes/) if protein structure feels shaky.
 - Find your gaps with the free 0610 diagnostic: [Core](/practice/0610/diagnostic/core/) or [Extended](/practice/0610/diagnostic/extended/).
+
+## Frequently asked questions
+
+**What is the active site of an enzyme?**
+The active site is the region of an enzyme where the substrate binds. Its shape is complementary to the shape of the substrate, which is why each enzyme is specific to one substrate or reaction.
+
+**Which parts of the 0610 Enzymes topic are Extended only?**
+Extended candidates must explain enzyme action using the terms active site, substrate, enzyme-substrate complex and product, explain specificity, and explain the effects of temperature and pH using ideas such as kinetic energy, shape, fit and denaturation.
+
+**Are enzymes denatured at low temperatures?**
+No. At low temperatures enzymes are not denatured; molecules have less kinetic energy, so there are fewer successful collisions and the reaction is slow.
+
+**How do you investigate the effect of temperature on amylase?**
+Mix starch and amylase at a set temperature and test samples with iodine solution at regular intervals until it no longer turns blue-black. Repeat at other temperatures, keeping the volume and concentration of starch and amylase the same.
 
 ## Official syllabus
 

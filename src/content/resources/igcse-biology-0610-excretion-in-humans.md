@@ -19,10 +19,12 @@ syllabusTopics:
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 13: lungs, kidneys, the nephron, deamination and urea, with Core and Extended content labelled."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 13, Excretion in humans, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers syllabus section 13.1 and every learning outcome in it. Outcomes 1–3 are Core, so every candidate needs them. Outcomes 4–9 are Supplement and are labelled **Extended only**: they are examined on Papers 2 and 4, which Extended candidates sit, but not on the Core Papers 1 and 3.
@@ -259,6 +261,20 @@ Each bullet is one separate point, which is how structured-question mark schemes
 - Test yourself with the [excretion practice questions](/resources/igcse-biology-0610-excretion-in-humans-practice/).
 - The liver also controls blood glucose concentration; see the [coordination and response study guide](/resources/igcse-biology-0610-coordination-and-response/) (section 14.4).
 - Check your whole-course coverage with the [0610 checklist](/checklists/cambridge/igcse/biology/).
+
+## Frequently asked questions
+
+**Is egestion the same as excretion in Cambridge IGCSE Biology 0610?**
+No. Excretion is the removal of waste products of metabolism and substances in excess of requirements, while egestion is the removal of undigested food as faeces. Faeces are therefore not an excretory product.
+
+**What is the difference between a ureter and a urethra?**
+There are two ureters, one from each kidney, which carry urine to the bladder. There is one urethra, which carries urine from the bladder out of the body.
+
+**Why is there no protein in the filtrate?**
+Protein molecules are too large to pass through the filter at the glomerulus, so they stay in the blood.
+
+**Why is urea harmful if it builds up?**
+Urea is toxic, so if the kidneys do not remove it, its concentration in the blood rises and it can damage cells. The 0610 syllabus limits the importance of excretion to the toxicity of urea.
 
 ## Official syllabus
 

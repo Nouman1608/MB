@@ -193,6 +193,20 @@ Revise first with the [study guide](/resources/o-level-biology-5090-relationship
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does Topic 19 cover in Cambridge O Level Biology 5090?**
+Topic 19 covers energy flow, nutrient cycles, ecosystems and biodiversity, the effects of humans on ecosystems and conservation. The syllabus is not tiered, so every question applies to every candidate.
+
+**How should you give an energy transfer efficiency?**
+Divide the energy in the higher trophic level by the energy in the lower one and multiply by 100, giving the answer as a percentage. Working it out the wrong way up, or leaving it as a decimal, loses marks.
+
+**Is energy recycled in an ecosystem?**
+No. Energy flows through an ecosystem and is lost as heat, while elements such as carbon and nitrogen are recycled. Describing energy as "used up" or "recycled" is a common error.
+
+**Why should decomposers appear in nutrient cycle answers?**
+Decomposers break down dead material and return substances to the environment, so leaving them out of carbon cycle or eutrophication explanations misses a key step.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 19: Relationships of organisms with one another and with the environment, published by Cambridge Assessment International Education.

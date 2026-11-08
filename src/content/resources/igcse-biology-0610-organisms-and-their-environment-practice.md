@@ -28,10 +28,12 @@ syllabusTopics:
 description: "Original practice questions with mark-by-mark answers on food webs, energy transfer, carbon and nitrogen cycles and populations for IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,6 +191,20 @@ See also the [IGCSE Biology hub](/boards/cambridge/igcse/biology/) and the [0610
 - Browse the [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/) and tick off the [0610 checklist](/checklists/cambridge/igcse/biology/).
 - Take the [Core diagnostic](/practice/0610/diagnostic/core/) or [Extended diagnostic](/practice/0610/diagnostic/extended/), or try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which way should the arrows point in a food chain?**
+Arrows point from the organism being eaten to the organism that eats it, showing the direction of energy transfer. Drawing them from predator to prey is a common error.
+
+**How do you calculate the efficiency of energy transfer between trophic levels?**
+Divide the energy at the higher trophic level by the energy at the lower trophic level and multiply by 100. If your answer is above 100%, the ratio is upside down. This calculation is Extended content in Cambridge IGCSE Biology 0610.
+
+**Why should you say energy is "lost as heat" rather than "used up"?**
+Energy is not destroyed; at each trophic level much of it is transferred to the environment as heat from respiration. Writing "lost to the environment as heat" is the precise wording that earns credit.
+
+**Do you need units for a rate of population growth?**
+Yes. A rate is a change in numbers divided by time, so it needs units such as individuals per day. Leaving units off can cost a mark.
 
 ## Official syllabus
 

@@ -275,6 +275,20 @@ If the plant is watered, or water loss falls (for example in the cool of the eve
 - Describing wilting without **flaccid** or **turgor**.
 - Quoting a rate with no units, or dividing time by distance.
 
+## Frequently asked questions
+
+**How are root hair cells adapted for uptake?**
+A root hair cell has a long, thin extension that gives a large surface area. Water enters by osmosis, and mineral ions enter by active transport, using energy from respiration.
+
+**What is the difference between transpiration and translocation?**
+Transpiration is the loss of water vapour from leaves. Translocation is the movement of sucrose and amino acids in the phloem.
+
+**Why does a plant wilt?**
+When water lost by transpiration is greater than water taken up, cells lose water, become flaccid and lose turgor pressure, so leaves and soft stems droop. The plant recovers if it is watered or water loss falls.
+
+**What are the functions of xylem?**
+Xylem transports water and mineral ions and provides support for the plant.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4 (Cambridge University Press & Assessment), section 7 Transport in flowering plants.

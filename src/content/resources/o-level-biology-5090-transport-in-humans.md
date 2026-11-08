@@ -301,6 +301,20 @@ Tissue fluid is the go-between for blood and cells.
 - Saying platelets "make fibrin" with no mention of fibrinogen, or calling fibrin soluble.
 - Giving a 15 s pulse count instead of beats per minute.
 
+## Frequently asked questions
+
+**Why is the left ventricle wall thicker than the right?**
+The left ventricle pumps blood all round the body at high pressure, while the right ventricle pumps blood only to the nearby lungs at low pressure. More muscle gives a stronger contraction.
+
+**What makes heart valves open and close?**
+Valves open and close because of pressure differences; they are not muscles. Both atria contract together, then both ventricles contract.
+
+**What is coronary heart disease?**
+In coronary heart disease, a coronary artery becomes blocked, so less oxygen and glucose reach the heart muscle. Cambridge O Level Biology 5090 lists possible risk factors including diet, a sedentary lifestyle, stress, smoking and genetic predisposition.
+
+**How do you calculate heart rate from a pulse count?**
+Multiply the count by 60 divided by the counting time in seconds. Quoting a 30-second count as the heart rate, without converting it to beats per minute, is a common error.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 11: Transport in humans, published by Cambridge Assessment International Education.

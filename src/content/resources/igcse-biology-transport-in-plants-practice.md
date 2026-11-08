@@ -22,14 +22,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-plants-cambridge-igcse-biology"
     subtopic: "translocation-cambridge-igcse-biology"
-description: "Original exam-style questions with full worked answers on xylem and phloem, water uptake, transpiration pull, factors affecting transpiration, and translocation from sources to sinks, for Cambridge IGCSE Biology (0610)."
+description: "Exam-style questions with worked answers on xylem, phloem, water uptake, transpiration and translocation from sources to sinks for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -118,3 +120,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Listing features of xylem vessels without explaining how each helps.
 - Saying water is pushed up from the roots instead of pulled up by transpiration.
 - Forgetting that a plant part can be a source at one time and a sink at another.
+
+## Frequently asked questions
+
+**How do these questions relate to the real exam?**
+Each original question practises a skill tested in the Cambridge IGCSE Biology 0610 June 2024 Paper 42, with an examiner insight, mark-scheme insight or tip after each answer.
+
+**How can you avoid mixing up xylem and phloem in answers?**
+Learn one clear job for each tissue and write the full word each time; a blend of the two words, or swapping their jobs, cannot be credited.
+
+**How should you answer a question on xylem vessel features?**
+For each feature, explain how it helps the xylem carry out its function. Listing features without the explanation usually earns fewer marks.
+
+**Which parts of transport in plants are Extended only in Cambridge IGCSE Biology 0610?**
+The structure of xylem vessels, transpiration pull, the explanation of factors such as humidity and translocation from sources to sinks are Supplement content, marked Extended on this page.

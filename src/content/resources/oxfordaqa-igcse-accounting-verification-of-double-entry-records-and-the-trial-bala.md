@@ -244,6 +244,20 @@ Case: the same purchase is entered in neither account. Both totals are missing t
 
 Test yourself with the [trial balance revision notes](/resources/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala-revision-notes/), then attempt the [practice questions](/resources/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala-practice/). Tick off topics on the [checklist](/checklists/oxfordaqa/igcse/accounting/) and see all [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is a trial balance in IGCSE Accounting?**
+A trial balance is a list of all ledger account balances at a date, set out in debit and credit columns. If the two totals agree, the arithmetic of the double entry is correct; in OxfordAQA 9215 it is one of four verification techniques, alongside the two ledger control accounts and the bank reconciliation statement.
+
+**What are the uses and limitations of a trial balance?**
+A trial balance gives a quick arithmetic check on the double entry and a convenient list of balances for preparing financial statements. Its limitation is that it only compares totals, so errors such as omission, commission or principle are not revealed.
+
+**How do you correct a trial balance that does not agree?**
+Work out the difference between the two totals, then trace each error and calculate its effect on the debit or credit column. Applying the corrections should remove the whole difference, which is your check.
+
+**Why do transposition differences divide by 9?**
+Swapping two digits changes a number by a multiple of 9, for example 840 instead of 480 is a difference of 360. This is why a trial balance difference divisible by 9 is a clue to a transposition.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.2 Verification of accounting records, published by OxfordAQA.

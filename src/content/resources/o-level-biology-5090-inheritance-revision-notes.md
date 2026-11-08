@@ -290,6 +290,20 @@ Role (17.4.5): producing economically important plants and animals, such as high
 - Mixing up artificial selection (humans choose) with natural selection (the environment chooses).
 - Describing Down's syndrome as a gene mutation.
 
+## Frequently asked questions
+
+**Which DNA bases pair together?**
+In DNA, A pairs with T and C pairs with G. Writing A–G or C–T pairs is a common error.
+
+**Why do observed ratios differ from expected ratios?**
+Fertilisation is random, so a ratio from a genetic cross is a probability. Small numbers of offspring often give ratios far from 3 : 1 or 1 : 1, and larger samples come closer.
+
+**How does sickle cell anaemia show the effect of a gene mutation?**
+A changed base sequence in the gene for haemoglobin changes the amino acid sequence, giving haemoglobin of a different shape, so red blood cells can become sickle-shaped.
+
+**What is the difference between a gene and an allele?**
+A gene is a length of DNA that codes for a protein. Alleles are the alternative forms of that gene.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 17: Inheritance (17.1 Variation; 17.2 DNA; 17.3 Inheritance; 17.4 Selection), published by Cambridge Assessment International Education.

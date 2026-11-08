@@ -25,14 +25,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "absorption-cambridge-igcse-biology"
-description: "Exam-style questions with full worked answers on diet, the digestive system, physical and chemical digestion, and absorption, for Cambridge IGCSE Biology (0610) Topic 7."
+description: "Exam-style questions with worked answers on diet, the alimentary canal, physical and chemical digestion and absorption for Cambridge IGCSE Biology 0610 Topic 7."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > These are original practice questions written in the style of Cambridge IGCSE
@@ -187,3 +189,17 @@ physical versus chemical digestion — are worth deliberately rehearsing
 out loud in your own words until you can state the distinction without
 hesitation, since examiners return to these exact confusions across
 multiple exam series.
+
+## Frequently asked questions
+
+**What sub-topics does Human Nutrition cover in Cambridge IGCSE Biology 0610?**
+Topic 7 has five sub-topics: 7.1 Diet, 7.2 Digestive system, 7.3 Physical digestion, 7.4 Chemical digestion and 7.5 Absorption.
+
+**Which parts of Human Nutrition are Supplement content?**
+Sub-topics 7.1 and 7.2 have no Supplement-only content. The Supplement content is in 7.3, 7.4 and 7.5, including the role of bile, the specific products and sites of named enzymes and the structure of the absorbing surface of the small intestine.
+
+**How should you tackle an unfamiliar Human Nutrition question?**
+Work out which of the five sub-topics the scenario belongs to and apply the general rule you have learned, such as substrate to product for enzymes, rather than searching memory for an identical question.
+
+**Which distinctions should you practise for this topic?**
+Practise stating the difference between egestion and excretion and between physical and chemical digestion in your own words, as these are repeatedly tested confusions in this topic.

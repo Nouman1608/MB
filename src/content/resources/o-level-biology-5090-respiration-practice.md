@@ -175,6 +175,20 @@ Revise first with the [study guide](/resources/o-level-biology-5090-respiration/
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does Topic 10 cover in Cambridge O Level Biology 5090?**
+Topic 10, Respiration, covers what respiration is and the uses of energy, aerobic respiration, anaerobic respiration in humans and yeast, the yeast and temperature practical, and lactic acid and the oxygen debt. The syllabus is not tiered.
+
+**How should you describe yeast results from a table or graph?**
+State the overall trend and quote the temperature and value of the highest rate. Then, if asked to explain, use the words "enzymes" and "denatured" for the fall above the optimum.
+
+**How should you write controlled variables?**
+Name each quantity kept the same and how, rather than writing "same amount". Vague controlled variables with no quantity named do not earn credit.
+
+**How should you write formulae in the balanced respiration equation?**
+Write oxygen as O₂, not O, and include the 6s in front of each formula. Mark schemes need both the correct formulae and the correct numbers.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 10: Respiration, published by Cambridge Assessment International Education.

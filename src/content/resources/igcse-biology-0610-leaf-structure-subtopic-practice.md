@@ -206,6 +206,20 @@ Other correct structure-plus-function points are also credited.
 - [0610 Core diagnostic](/practice/0610/diagnostic/core/) and [0610 Extended diagnostic](/practice/0610/diagnostic/extended/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is leaf structure Core or Extended in Cambridge IGCSE Biology 0610?**
+All of section 6.2, Leaf structure, is Core, so every candidate needs it. It covers leaf shape, identifying leaf tissues and how each tissue adapts the leaf for photosynthesis.
+
+**How do you calculate the actual size of a cell from a drawing?**
+Use actual size = image size ÷ magnification, with both lengths in the same units. Multiplying by the magnification or leaving off the units are common errors.
+
+**Why should you write "palisade mesophyll" rather than just "mesophyll"?**
+The leaf has two mesophyll layers, palisade and spongy, with different structures and functions. Writing only "mesophyll" does not show which tissue you mean, so it is not specific enough for credit.
+
+**How should you explain how a leaf is adapted for photosynthesis?**
+Pair each feature with a "so that" link to what it does for photosynthesis, such as absorbing light, letting carbon dioxide in, supplying water or carrying products away. Listing features without the link earns fewer marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, published by Cambridge Assessment International Education (Cambridge University Press & Assessment). Topic 6, Plant nutrition, section 6.2, Leaf structure (Core outcomes 1 to 3). The unit conversion in question 8(b) is Supplement outcome 2.2.3.

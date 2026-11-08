@@ -221,6 +221,20 @@ Revise first with the [study guide](/resources/o-level-biology-5090-coordination
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does Topic 14 cover in Cambridge O Level Biology 5090?**
+Topic 14, Coordination and control, has six sections: the nervous system, sense organs, hormones, homeostasis, temperature control and blood glucose control. The syllabus is not tiered, so every question applies to every candidate.
+
+**How should you compare nervous and hormonal control?**
+Use comparative words such as "faster", "shorter-lasting" or "more widespread" so that each point states a difference. Statements about only one type of control do not make a comparison.
+
+**What is the difference between glucagon and glycogen?**
+Glucagon is a hormone, while glycogen is a carbohydrate stored in the liver and muscles. The words look alike, so check which one the question needs.
+
+**What do command words such as "state" and "explain" ask for?**
+"State" or "name" needs a short word or phrase. "Explain" needs a reason, so link each point to why it happens.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 14: Coordination and control (14.1 Mammalian nervous system; 14.2 Mammalian sense organs; 14.3 Mammalian hormones; 14.4 Homeostasis; 14.5 Temperature control; 14.6 Blood glucose control), published by Cambridge Assessment International Education.

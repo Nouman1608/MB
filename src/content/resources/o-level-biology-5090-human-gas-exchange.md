@@ -300,6 +300,20 @@ This keeps pathogens and particles away from the alveoli, where they could cause
 - Saying cilia trap dust. Mucus traps; cilia move the mucus.
 - Calling breathing "respiration".
 
+## Frequently asked questions
+
+**What happens during forced breathing out?**
+In forced breathing out, such as during exercise or coughing, the internal intercostal muscles contract to pull the ribs down and in further, pushing more air out. The external and internal intercostals are antagonistic.
+
+**What is a limitation of the bell-jar model of breathing?**
+The jar's walls are rigid, so the model cannot show the ribs and intercostal muscles moving. The rubber sheet represents the diaphragm.
+
+**Why does breathing stay fast after exercise?**
+Breathing stays fast and deep for a while after exercise to repay the oxygen debt. In Cambridge O Level Biology 5090 this belongs to Topic 10, anaerobic respiration.
+
+**Why is the lining of the alveoli moist?**
+Oxygen dissolves in the moist lining of the alveoli before it diffuses across the thin walls into the blood.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 9: Human gas exchange, published by Cambridge Assessment International Education.

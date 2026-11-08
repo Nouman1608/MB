@@ -305,6 +305,20 @@ The effect of mineral ions on plant growth is a listed practical context: grow i
 - Writing that high temperature "kills" enzymes. They are denatured.
 - Saying magnesium is "for growth" instead of linking it to chlorophyll.
 
+## Frequently asked questions
+
+**Why do you destarch a plant before a photosynthesis experiment?**
+Keeping the plant in the dark first removes the starch already in its leaves, so any starch found afterwards must have been made during the experiment. Destarching is the step most often left out.
+
+**Why is collecting gas more accurate than counting bubbles?**
+Bubbles vary in size, so counting them is less accurate than measuring the volume of gas collected.
+
+**Why do plants need nitrate and magnesium ions?**
+Nitrate ions supply nitrogen for making amino acids and proteins. Magnesium ions are needed to make chlorophyll.
+
+**Why does temperature affect the rate of photosynthesis?**
+Photosynthesis is controlled by enzymes, so the rate rises with temperature up to an optimum and falls at higher temperatures as the enzymes are denatured.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4 (Cambridge University Press & Assessment), section 6 Plant nutrition.

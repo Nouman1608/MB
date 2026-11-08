@@ -181,6 +181,17 @@ Learn the content first with the [study guide](/resources/o-level-biology-5090-h
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does Topic 8 cover in Cambridge O Level Biology 5090?**
+Topic 8, Human nutrition, has three sections: 8.1 Diet, 8.2 Human digestive system and 8.3 Absorption and assimilation. The syllabus is not tiered, so every question applies to every candidate.
+
+**How should you answer a question about the features of villi?**
+For each feature you name, state how it helps absorption, for example by increasing surface area or shortening the diffusion distance. Listing features without saying how they help usually earns fewer marks.
+
+**Why should you use the exact enzyme product names?**
+Mark schemes look for the precise product of each enzyme, so a near-miss, such as naming the final product of a two-step digestion instead of the first, is marked wrong. Learn each enzyme with its exact substrate and product.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4, Cambridge International Education. Topic 8: Human nutrition (8.1 Diet; 8.2 Human digestive system; 8.3 Absorption and assimilation).

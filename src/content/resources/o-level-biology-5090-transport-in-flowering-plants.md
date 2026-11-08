@@ -305,6 +305,20 @@ Details of how lignin is laid down are not required.
 - Calling the transpiration pull "suction from the roots". The pull comes from water loss at the leaves.
 - Putting phloem on the inside of a stem vascular bundle.
 
+## Frequently asked questions
+
+**Why does most water vapour leave from the underside of a leaf?**
+Most stomata are on the lower epidermis, so most water vapour leaves from the underside of the leaf.
+
+**What happens to water uptake if all the leaves are removed?**
+With no leaves there are no mesophyll surfaces to evaporate from and no stomata for water vapour to leave by. Transpiration almost stops, so there is no transpiration pull and little water is taken up.
+
+**How can you tell a root section from a stem section?**
+In a root, the xylem forms a central star shape with phloem between its arms. In a stem, the vascular bundles form a ring near the outside.
+
+**When is wilting most likely?**
+Wilting is most likely on a hot, dry, windy day, or when the soil is dry, because the plant loses water by transpiration faster than it can take it up.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4 (Cambridge University Press & Assessment), section 7 Transport in flowering plants.

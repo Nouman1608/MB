@@ -28,10 +28,12 @@ syllabusTopics:
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 17: genes and proteins, mitosis, meiosis and monohybrid crosses, with worked genetic diagrams."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide teaches topic 17, Inheritance, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 17.1 Chromosomes, genes and proteins, 17.2 Mitosis, 17.3 Meiosis and 17.4 Monohybrid inheritance. Core candidates need the Core statements in 17.1 and 17.4. Sections 17.2 and 17.3 are entirely Supplement, so they are marked **Extended only**, along with the Supplement statements in 17.1 and 17.4.
@@ -316,6 +318,20 @@ Always write sex-linked genotypes with the X and Y shown. Writing "Bb" loses the
 - The next topic: [Variation and selection study guide](/resources/igcse-biology-0610-variation-and-selection/)
 - Find your gaps across the whole course: [Core diagnostic](/practice/0610/diagnostic/core/) or [Extended diagnostic](/practice/0610/diagnostic/extended/)
 - Tick off every statement on the [0610 checklist](/checklists/cambridge/igcse/biology/) and return to the [course hub](/boards/cambridge/igcse/biology/)
+
+## Frequently asked questions
+
+**How is sex inherited in humans?**
+Females have two X chromosomes (XX) and males have one X and one Y (XY). Each child receives an X from the mother and either an X or a Y from the father, so there is a 1 in 2 chance of a boy or a girl.
+
+**What is a test cross?**
+A test cross crosses an organism showing the dominant phenotype with a homozygous recessive organism. If any offspring show the recessive phenotype, the unknown parent must be heterozygous. Test crosses are Extended only in Cambridge IGCSE Biology 0610.
+
+**What is codominance?**
+Codominance is when both alleles in a heterozygous organism contribute to the phenotype. The ABO blood groups are an example, where alleles Iᴬ and Iᴮ are codominant and both are dominant to Iᵒ.
+
+**Why is red-green colour blindness more common in males?**
+The gene is on the X chromosome, and a male has only one X chromosome, so a single recessive allele causes the condition. A female needs two recessive alleles to be colour blind.
 
 ## Official syllabus
 

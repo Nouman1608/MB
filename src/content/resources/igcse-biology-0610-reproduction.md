@@ -34,10 +34,12 @@ syllabusTopics:
 description: "Study guide to Cambridge IGCSE Biology 0610 topic 16: asexual and sexual reproduction, flowers, human reproduction, sex hormones and STIs."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide teaches topic 16 (Reproduction) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, sections 16.1 to 16.6. Core outcomes are tested on Papers 1 and 3 and are needed by every candidate; Supplement outcomes, labelled "Extended only", are tested on Papers 2 and 4. Section 16.6 is Core only.
@@ -259,6 +261,20 @@ Each method needs its own "how": naming "condoms" and "testing" earns nothing wi
 - Saying antibiotics cure HIV. HIV is a virus (see the [Drugs study guide](/resources/igcse-biology-0610-drugs/)).
 
 Next, use the [revision notes](/resources/igcse-biology-0610-reproduction-revision-notes/) and tick off each outcome on the [checklist](/checklists/cambridge/igcse/biology/).
+
+## Frequently asked questions
+
+**How many chromosomes does a gamete have?**
+Gamete nuclei are haploid, so they contain half the number of chromosomes found in a diploid body cell. For example, if body cells contain 38 chromosomes, the gametes contain 19. This content is Extended only in Cambridge IGCSE Biology 0610.
+
+**What is the difference between self-pollination and cross-pollination?**
+Self-pollination is the transfer of pollen to the stigma of the same flower or another flower on the same plant. Cross-pollination is transfer to a flower on a different plant of the same species, and self-pollination gives less variation. This is Extended content.
+
+**What happens after pollination?**
+A pollen tube grows out of the pollen grain, down through the style to the ovary, and enters the ovule. The pollen nucleus moves down the tube and fuses with the nucleus in the ovule. Pollen tube growth is Extended content.
+
+**What does the placenta do?**
+At the placenta, oxygen and dissolved nutrients such as glucose and amino acids pass from the mother's blood to the fetus, and carbon dioxide and urea pass back. This exchange is Extended only.
 
 ## Official syllabus
 

@@ -334,6 +334,20 @@ A **sustainable resource** (19.5.4) is one which is produced as rapidly as it is
 
 Test yourself with the [revision notes](/resources/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-revision-notes/), then the [practice questions](/resources/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-practice/). Fungi and bacteria as kingdoms are in [Classification](/resources/o-level-biology-5090-classification/).
 
+## Frequently asked questions
+
+**Why is eating crops more efficient than eating livestock?**
+People eating crops are primary consumers, so there is one fewer energy transfer than when they eat livestock. In the worked example on this page, eating the crop gives humans ten times more energy, so the same land feeds more people.
+
+**What is the difference between a pyramid of numbers and a pyramid of biomass?**
+A pyramid of numbers shows how many organisms are at each trophic level and ignores their size. A pyramid of biomass allows for size, so one large tree does not give a misleading narrow base.
+
+**What is a sustainable resource?**
+A sustainable resource is one which is produced as rapidly as it is removed from the environment, so that it does not run out.
+
+**What do decomposers do?**
+Fungi and bacteria are decomposers. They secrete enzymes onto dead material and waste, digest it and absorb the products, releasing nutrients back into the environment.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 19: Relationships of organisms with one another and with the environment, published by Cambridge Assessment International Education.

@@ -272,6 +272,20 @@ By minute 6 uptake is back at the resting value, so the debt has been repaid.
 
 Condense this guide with the [revision notes](/resources/o-level-biology-5090-respiration-revision-notes/), then try the [practice questions](/resources/o-level-biology-5090-respiration-practice/).
 
+## Frequently asked questions
+
+**Where does aerobic respiration happen in a cell?**
+Aerobic respiration happens in the mitochondria. It releases a relatively large amount of energy compared with anaerobic respiration.
+
+**How is the oxygen debt removed after exercise?**
+Cambridge O Level Biology 5090 limits this to two points: a fast heart rate continues, to transport lactic acid in the blood from the muscles to the liver, and deeper, faster breathing continues, to supply oxygen for the breakdown of lactic acid in the liver.
+
+**What is the control in the yeast and temperature practical?**
+A tube with boiled yeast acts as the control, showing that the gas comes from living yeast. Variables to keep the same include the mass of yeast, the volume and concentration of glucose solution and the collection time.
+
+**Does anaerobic respiration in humans produce carbon dioxide?**
+No. In human muscle cells the word equation is glucose → lactic acid, with no carbon dioxide. In yeast, anaerobic respiration produces ethanol and carbon dioxide.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 10: Respiration, published by Cambridge Assessment International Education.

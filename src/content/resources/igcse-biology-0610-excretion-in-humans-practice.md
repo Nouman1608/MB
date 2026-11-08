@@ -19,10 +19,12 @@ syllabusTopics:
 description: "Eleven original excretion questions for Cambridge IGCSE Biology 0610, from the urinary system to the nephron and deamination, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,6 +176,20 @@ Before you start, you may want the [excretion study guide](/resources/igcse-biol
 - Tick off outcomes on the [printable 0610 checklist](/checklists/cambridge/igcse/biology/).
 - Try the free [Core diagnostic](/practice/0610/diagnostic/core/) or [Extended diagnostic](/practice/0610/diagnostic/extended/), or browse [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which parts of excretion in humans are Extended only in Cambridge IGCSE Biology 0610?**
+Kidney structure, the nephron and its blood vessels, the role of the liver in assimilation and deamination, and why excretion matters (the toxicity of urea) are Extended content. The excretory products, excretory organs and the urinary system are Core.
+
+**How should you answer a "describe the pathway" question in excretion?**
+Write the steps in order as separate points, naming each organ or process, such as digestion, absorption, deamination in the liver, transport in the blood and filtration in the kidney. Each distinct step usually earns its own mark.
+
+**Do Core candidates need to know the structure of the nephron?**
+No. In Cambridge IGCSE Biology 0610, the nephron, its blood vessels and the formation of urine (13.1.5) are Extended only. Core candidates need the excretory organs and the parts of the urinary system.
+
+**How do you calculate a percentage from kidney data?**
+Divide the part by the whole and multiply by 100, for example the volume reabsorbed divided by the volume filtered. Show the subtraction step first if the reabsorbed volume is not given directly.
 
 ## Official syllabus
 

@@ -28,10 +28,12 @@ syllabusTopics:
 description: "Condensed revision notes on the heart, circulation, blood vessels and blood, with a self-test and Extended content flagged, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and a worked heart-rate investigation, use the [transport in animals study guide](/resources/igcse-biology-0610-transport-in-animals/). These notes condense topic 9 of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: sections 9.1 Circulatory systems, 9.2 Heart, 9.3 Blood vessels and 9.4 Blood. Core statements are tested on Papers 1 and 3. Lines marked **Extended only** are Supplement content, tested on Papers 2 and 4.
@@ -251,6 +253,20 @@ pulmonary vein → left atrium → left ventricle → aorta → BODY
 - In heart-rate calculations, forgetting to scale a 15 s or 30 s count to one minute, or dividing a percentage change by the final value.
 - Stating that plasma transports oxygen.
 - Describing clotting with "fibrin turns into fibrinogen" (the conversion is the other way).
+
+## Frequently asked questions
+
+**What are the parts of a circulatory system?**
+A circulatory system is made of blood vessels, a pump (the heart) and valves, which keep blood flowing in one direction.
+
+**What is the route of blood through the heart?**
+Blood enters the right atrium from the vena cava, passes to the right ventricle and leaves in the pulmonary artery to the lungs. It returns in the pulmonary vein to the left atrium, passes to the left ventricle and leaves in the aorta.
+
+**What causes coronary heart disease?**
+Coronary heart disease happens when the coronary arteries become blocked, so less oxygen and glucose reach the heart muscle. Risk factors include diet, lack of exercise, stress, smoking, genetic predisposition, age and sex.
+
+**How do you calculate heart rate from an ECG?**
+Divide 60 by the time in seconds between two peaks on the trace. The answer is in beats per minute.
 
 ## Official syllabus
 

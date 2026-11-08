@@ -19,14 +19,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
     subtopic: "features-of-organisms-cambridge-igcse-biology"
-description: "The seven characteristics of life, the binomial naming system and dichotomous keys, and how organisms are placed into kingdoms and groups -- the full content of Topic 1 for Cambridge IGCSE Biology 0610, 2026-2028 series."
+description: "The seven characteristics of life, binomial names, dichotomous keys and the five kingdoms, covering all of Topic 1 for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 Characteristics and classification of
@@ -210,6 +212,20 @@ recur as short-answer identification questions across past papers, and
 partial recall (getting the kingdom right but the wrong subgroup) is a
 common source of dropped marks.
 
+## Frequently asked questions
+
+**What are the seven characteristics of living organisms?**
+The seven characteristics, remembered as MRS GREN, are movement, respiration, sensitivity, growth, reproduction, excretion and nutrition. Cambridge IGCSE Biology 0610 expects a precise definition of each, not just the name.
+
+**How do you write a binomial name?**
+A binomial name has two parts: the genus, written with a capital letter, followed by the species, written in lower case. In print it is shown in italics, and in handwriting it is underlined.
+
+**Are viruses placed in one of the five kingdoms?**
+No. Viruses are not placed in any of the five kingdoms of animals, plants, fungi, prokaryotes and protoctists.
+
+**What features do all arthropods share?**
+All arthropods have a hard exoskeleton, jointed legs and a segmented body. Counting legs and body parts then helps place an arthropod into a group such as insects or arachnids.
+
 ## Official syllabus
 
 Cambridge IGCSE Biology 0610 syllabus for 2026, 2027 and 2028 —
@@ -224,4 +240,3 @@ Cambridge IGCSE Biology 0610 syllabus for 2026, 2027 and 2028 —
   <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--08-dna-similarity.webp" width="900" height="930" alt="Extended. A sketch tree: A and B share a recent common ancestor, C an older one. Invented base sequences show B differs from A at 1 base and C at 4. The more recently two groups shared an ancestor, the more similar their DNA." loading="lazy">
   <figcaption>More recent common ancestor means more similar DNA.</figcaption>
 </figure>
-

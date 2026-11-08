@@ -281,6 +281,20 @@ This is why the syllabus says **most** of the water is reabsorbed.
 - Confusing **urea** (the chemical) with **urine** (the solution of urea, ions and water).
 - Leaving out the reason for excreting urea: the 13.2.2 answer is that **urea is toxic**.
 
+## Frequently asked questions
+
+**What is assimilation of amino acids?**
+Assimilation is the uptake and use by cells of nutrients from the blood. Liver cells assimilate amino acids by building them into new proteins, such as plasma proteins.
+
+**What is deamination?**
+Deamination is the removal of the nitrogen-containing part of amino acids, in the liver, resulting in the formation of urea.
+
+**Why are the lungs an excretory organ?**
+Respiration in every cell produces carbon dioxide, a waste product of metabolism. It diffuses into the blood plasma and is removed from the body at the lungs, so the lungs excrete it.
+
+**How much of the filtered water is reabsorbed in the kidney?**
+Most of the water filtered at the glomerulus is reabsorbed back into the blood along the nephron, so only a small volume becomes urine. All of the glucose and some of the ions are also reabsorbed.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 13: Excretion (13.1 Excretion; 13.2 Urinary system), published by Cambridge Assessment International Education.

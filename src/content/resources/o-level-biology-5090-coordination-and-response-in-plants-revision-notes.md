@@ -242,6 +242,19 @@ The inner side of the curve always faces the light (phototropism) or points upwa
   <figcaption>Shaded-side cells are 40% longer than lit-side cells.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the four syllabus points about auxin?**
+Auxin is made in the shoot tip, spreads through the plant from the shoot tip, is unequally distributed in response to light and gravity, and stimulates cell elongation. These four points are all Cambridge O Level Biology 5090 asks for.
+
+**Which way does a shoot bend in relation to auxin?**
+The side with more auxin elongates more, so the shoot bends away from that side. In one-sided light, the shaded side has more auxin, so the shoot bends towards the light.
+
+**Are roots positively or negatively gravitropic?**
+Roots grow towards gravity, so they show positive gravitropism. Shoots grow away from gravity, so they show negative gravitropism.
+
+**How do you read a diagram of a curved shoot?**
+Find the outer side of the curve: it grew longer, so it had more cell elongation and more auxin. The inner side of the curve faces the light in phototropism, or points upwards when a shoot shows gravitropism.
 
 ## Official syllabus
 

@@ -232,6 +232,20 @@ A virus has no cytoplasm and none of the structures that a cell uses to make pro
 
 Test your recall with the [classification revision notes](/resources/o-level-biology-5090-classification-revision-notes/), then try the [classification practice questions](/resources/o-level-biology-5090-classification-practice/). For the cell structures behind the kingdom features, revisit [cell structure and organisation](/resources/cell-structure-and-organisation/). You can check your overall readiness with our [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why are a horse and a donkey different species?**
+A horse and a donkey can breed, but their offspring, a mule, is not fertile. Because they cannot produce fertile offspring, they are separate species.
+
+**How many couplets does a dichotomous key need?**
+A key for a set of organisms needs one couplet fewer than the number of organisms. For example, six organisms need five couplets.
+
+**What is the difference between ferns and flowering plants?**
+Ferns have roots, stems and leaves called fronds, and reproduce by spores rather than seeds. Flowering plants produce flowers and reproduce by seeds.
+
+**How do you classify an unfamiliar organism?**
+Work from the largest group to the smallest: decide the kingdom first, then the group within it. Quote features that are visible or given in the question.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4, published by Cambridge International (Cambridge Assessment International Education). Topic 2: Classification, sections 2.1 and 2.2.

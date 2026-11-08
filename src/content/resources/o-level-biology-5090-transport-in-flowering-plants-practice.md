@@ -171,6 +171,17 @@ Learn the content first with the [study guide](/resources/o-level-biology-5090-t
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does Topic 7 cover in Cambridge O Level Biology 5090?**
+Topic 7, Transport in flowering plants, covers the uptake and transport of water and ions, transpiration and translocation, and the structure and function of xylem. The syllabus is not tiered.
+
+**How should you answer a question on factors affecting transpiration?**
+Give the effect of the factor and then the reason, linking it to the concentration gradient of water vapour or to stomatal opening. An effect without a reason usually earns only part of the marks.
+
+**Are these questions taken from past papers?**
+No. They are original practice questions written for revision on Topic 7. Use them alongside the official Cambridge O Level Biology 5090 past papers.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4 (Cambridge University Press & Assessment), section 7 Transport in flowering plants.

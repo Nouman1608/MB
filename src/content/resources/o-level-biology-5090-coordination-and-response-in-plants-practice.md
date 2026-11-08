@@ -183,6 +183,20 @@ Revise first with the [study guide](/resources/o-level-biology-5090-coordination
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does Topic 15 cover in Cambridge O Level Biology 5090?**
+Topic 15, Coordination and response in plants, has one section, 15.1, covering gravitropism, phototropism, the role of auxin in shoot growth and investigations into tropisms.
+
+**Do you need to explain root responses using auxin?**
+No. The 5090 syllabus limits the auxin explanation to shoots. For roots, describe the response without explaining it with auxin.
+
+**What units should you give for tropism results?**
+Give a mean angle in degrees (°) and a growth rate with units such as mm per day. Leaving units off can cost a mark.
+
+**Is Cambridge O Level Biology 5090 tiered?**
+No. The syllabus is not tiered, so every question on plant tropisms applies to every candidate.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 15: Coordination and response in plants (15.1 Coordination and response in plants), published by Cambridge Assessment International Education.

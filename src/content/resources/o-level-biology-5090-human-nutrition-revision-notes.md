@@ -283,6 +283,20 @@ This fits the syllabus point: most water is absorbed in the small intestine.
 - Describing a balanced diet as "eating equal amounts of every food group".
 - Naming only one tooth tissue when asked for structure: give enamel, dentine, pulp (with nerves) and cement.
 
+## Frequently asked questions
+
+**What does amylase break starch down into?**
+Amylase breaks starch down into maltose, and maltase then breaks maltose down into glucose. Writing "amylase breaks starch into glucose" is a common error in Cambridge O Level Biology 5090.
+
+**Is bile an enzyme?**
+No. Bile emulsifies fat, breaking large droplets into smaller ones to give a larger surface area for lipase. It is made in the liver and stored in the gall bladder.
+
+**How does peristalsis move food along the gut?**
+The gut wall has circular and longitudinal muscle layers that contract in waves. Circular muscle contracting behind the food narrows the gut and pushes the food forward, while longitudinal muscle contracting ahead of it shortens and widens the gut.
+
+**What is the difference between digestion and absorption?**
+Digestion breaks food into small, soluble molecules. Absorption is the movement of those nutrients from the intestines into the blood.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4, Cambridge International Education. Topic 8: Human nutrition (8.1 Diet; 8.2 Human digestive system; 8.3 Absorption and assimilation).

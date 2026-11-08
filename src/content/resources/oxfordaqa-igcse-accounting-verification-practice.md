@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "verification-of-accounting-records-oxfordaqa-igcse"
-description: "Original exam-style practice questions with full worked answers on trial balances, control accounts, bank reconciliation and correcting errors for OxfordAQA International GCSE Accounting (9215)."
+description: "Exam-style practice questions with worked answers on trial balances, control accounts, bank reconciliation and suspense accounts for OxfordAQA IGCSE 9215."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -128,3 +130,17 @@ exam questions rarely stop at the journal entry alone.
 - Placing a bank reconciliation adjustment on the wrong side, confusing an outstanding lodgement with an unpresented cheque.
 - Forgetting that a control account is a memorandum check, not a replacement for the individual customer or supplier accounts it summarises.
 - Correcting an error in the ledger but omitting its knock-on effect on reported profit when a question asks for it explicitly.
+
+## Frequently asked questions
+
+**What topics does verification of accounting records cover in OxfordAQA IGCSE Accounting 9215?**
+It covers the trial balance and the errors it does and does not reveal, trade receivables and trade payables ledger control accounts, bank reconciliation statements and correcting errors using journal entries and a suspense account.
+
+**How do you approach a bank reconciliation question?**
+First update the cash book for items on the bank statement that are not yet recorded, such as bank charges or standing orders. Then prepare the reconciliation, adjusting the bank statement balance for unpresented cheques and outstanding lodgements so it agrees with the updated cash book.
+
+**What is the difference between an unpresented cheque and an outstanding lodgement?**
+An unpresented cheque has been paid out and entered in the cash book but has not yet cleared the bank account. An outstanding lodgement has been paid in and entered in the cash book but does not yet appear on the bank statement, so the two are adjusted on opposite sides of a reconciliation.
+
+**Why does a correction sometimes change reported profit?**
+If an error affected an income or expense account, correcting it changes the profit for the year. When a question asks for the effect on profit, state whether profit increases or decreases and by how much, as well as giving the journal entry.

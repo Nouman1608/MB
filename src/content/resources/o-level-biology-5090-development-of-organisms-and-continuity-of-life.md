@@ -317,6 +317,20 @@ The **placenta** is where substances are exchanged between the mother's blood an
 - Writing that the ovule becomes the fruit. The ovary does.
 - Listing light as a germination condition. Only water, oxygen and a suitable temperature are listed.
 
+## Frequently asked questions
+
+**What are stem cells?**
+Stem cells are unspecialised cells that divide by mitosis to produce daughter cells that can become specialised for specific functions.
+
+**How does self-pollination affect a population?**
+Self-pollination gives less variation, so the population has less capacity to respond to changes in the environment. It does not rely on pollinators, so seeds can still form when insects are scarce.
+
+**How are wind-dispersed fruits adapted?**
+Wind-dispersed fruits are light, with wings or hair-like parachutes that increase their surface area, so they stay in the air longer and travel further from the parent plant.
+
+**What is the haploid number of a gamete if the diploid number is known?**
+A gamete is made by meiosis, which halves the chromosome number, so its haploid number is half the diploid number. For example, human body cells have 46 chromosomes and human gametes have 23.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 16: Development of organisms and continuity of life (16.1 Nuclear division; 16.2 Asexual and sexual reproduction; 16.3 Sexual reproduction in plants; 16.4 Sexual reproduction in humans), published by Cambridge Assessment International Education.

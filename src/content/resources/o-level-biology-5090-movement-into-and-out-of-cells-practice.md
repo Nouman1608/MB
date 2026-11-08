@@ -172,6 +172,20 @@ Revise first with the [study guide](/resources/o-level-biology-5090-movement-int
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does Topic 3 cover in Cambridge O Level Biology 5090?**
+Topic 3, Movement into and out of cells, covers diffusion, osmosis and water potential, osmosis investigations with plant tissue and dialysis tubing, and active transport. The syllabus is not tiered.
+
+**Should a percentage loss in mass have a minus sign?**
+Yes. A percentage change is calculated as the change divided by the starting value, multiplied by 100, so a loss gives a negative value. Leaving the minus sign off can cost the mark.
+
+**How should you state controlled variables?**
+Name each variable precisely, saying exactly what is kept the same, rather than writing "same conditions" or "same amount", which are too vague for credit.
+
+**What should you show for a ratio or a rate?**
+Show the working for a ratio and give a unit for every rate. A ratio with no working or a rate without a unit can lose marks.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 3: Movement into and out of cells, published by Cambridge Assessment International Education.

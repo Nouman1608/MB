@@ -19,14 +19,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "respiration-cambridge-igcse-biology"
     subtopic: "anaerobic-respiration-cambridge-igcse-biology"
-description: "Original exam-style questions with full worked answers on uses of energy, aerobic and anaerobic respiration equations, yeast respiration investigations, the effect of temperature and oxygen debt, for Cambridge IGCSE Biology (0610)."
+description: "Exam-style questions with worked answers on energy uses, respiration equations, yeast experiments and oxygen debt for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -145,3 +147,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Treating yeast as an enzyme: the yeast is killed because its enzymes denature.
 - Leaving out units, or using "m" for minutes, in rate calculations.
 - Not knowing the formula of ethanol, so the yeast equation cannot be balanced.
+
+## Frequently asked questions
+
+**Should you write "air" or "oxygen" in respiration answers?**
+Name the specific gas, oxygen or carbon dioxide. Writing "air" or "gas" is too vague to earn the mark.
+
+**What units should you use for a rate of gas production?**
+Give a volume per unit time, such as cm³ per minute. Leaving out units, or writing "m" for minutes, loses marks because "m" means metres.
+
+**How do these questions relate to the real exam?**
+Each original question practises a skill tested in the Cambridge IGCSE Biology 0610 June 2024 Paper 42, and where a close match exists the answer points to the real question to try next.
+
+**Which respiration content is Extended only in Cambridge IGCSE Biology 0610?**
+The balanced chemical equations for aerobic respiration and for anaerobic respiration in yeast, and oxygen debt, are Supplement content, so the questions on them here are marked Extended.

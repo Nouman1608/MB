@@ -25,10 +25,12 @@ syllabusTopics:
 description: "Original Cambridge IGCSE Biology 0610 questions on variation, mutation, adaptive features and selection, with marked worked answers and examiner insights."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,6 +203,20 @@ Also accept: fur on the soles of the feet **insulates the feet from hot sand** o
 - [0610 printable checklist](/checklists/cambridge/igcse/biology/)
 - [0610 Core diagnostic](/practice/0610/diagnostic/core/) and [0610 Extended diagnostic](/practice/0610/diagnostic/extended/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which parts of variation and selection are Extended only in Cambridge IGCSE Biology 0610?**
+Extended content includes gene mutation as a random change in the base sequence of DNA, the adaptive features of hydrophytes and xerophytes, adaptation as a process, the development of antibiotic-resistant bacteria and the comparison of natural and artificial selection.
+
+**Why should you name the specific feature from the question in selection answers?**
+Selection questions are set in a context, such as egg-laying hens or coloured grasshoppers, and the marks are for applying the idea to that feature. A general description that never names the feature in the question is less likely to earn full credit.
+
+**Do individual organisms change during natural selection?**
+No. Individuals do not change their features; instead, the proportion of individuals with a useful feature increases over many generations as they survive and reproduce more.
+
+**How do you calculate a percentage change from breeding data?**
+Subtract the original value from the new value, divide by the original value and multiply by 100. Dividing by the new value is a common slip.
 
 ## Official syllabus
 

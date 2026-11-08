@@ -223,6 +223,20 @@ A control account can also be used to find a missing figure. If you know the ope
 - Treating the control account as part of the double entry, or forgetting to state that it is a memorandum record.
 - Calling the difference between the control account and the list an error in the ledger, without allowing for an error in a journal total.
 
+## Frequently asked questions
+
+**What is the purpose of control accounts in accounting?**
+Control accounts give a single total of the amounts owed by credit customers or owed to credit suppliers, and act as a check on the accuracy of the individual ledger accounts. They help locate errors and can be used to find missing figures.
+
+**Where do the figures in a control account come from?**
+Each line is a total taken from a book of prime entry or a source record, such as credit sales from the sales journal, returns from the returns journals and receipts or payments from the cash book. Individual invoices are not posted one by one.
+
+**How is a dishonoured cheque recorded in a trade receivables control account?**
+A dishonoured cheque reverses an earlier receipt, so it is entered on the debit side of the receivables control account. This increases the amount the customer owes again.
+
+**What should you do if a control account balance does not agree with the list of balances?**
+Check the arithmetic of the list first, then the control account totals, then the individual postings. The difference shows that an error exists and its size can suggest the cause, but each possible error must be confirmed against the records.
+
 ## Official syllabus
 
 This page is based on the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, section 3.2, Verification of accounting records, published by OxfordAQA.

@@ -249,6 +249,20 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 
 Work through the [practice questions](/resources/o-level-biology-5090-movement-into-and-out-of-cells-practice/), and use the free [diagnostics](/diagnostics/) to spot weak topics. The cell membrane and root hair cell are revised in [Cell structure and organisation revision notes](/resources/cell-structure-and-organisation-revision-notes/).
 
+## Frequently asked questions
+
+**Where does the energy for diffusion and osmosis come from?**
+Diffusion and osmosis use the kinetic energy of the random movement of molecules and ions, so they are passive. Active transport is different, because it uses energy released during respiration.
+
+**Which solution has the highest water potential?**
+Pure water has the highest water potential. Adding solutes lowers the water potential, so water moves by osmosis from pure water or a dilute solution into a more concentrated one.
+
+**What does dialysis tubing show in osmosis experiments?**
+Dialysis (Visking) tubing is partially permeable: water passes through quickly, sucrose more slowly and starch not at all. A bag of sugar solution in water gains mass as water enters by osmosis.
+
+**What is the control in a dialysis tubing experiment?**
+A bag of water placed in water acts as the control, because there is no water potential gradient and so no change in mass. It shows that any change in the test bags is caused by osmosis.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 3: Movement into and out of cells, published by Cambridge Assessment International Education.

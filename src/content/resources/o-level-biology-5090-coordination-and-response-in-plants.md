@@ -244,6 +244,20 @@ A bean root on a still dish grew from 12 mm to 30 mm long in 3 days.
 
 Fix the facts with the [revision notes](/resources/o-level-biology-5090-coordination-and-response-in-plants-revision-notes/), then test yourself with the [practice questions](/resources/o-level-biology-5090-coordination-and-response-in-plants-practice/). Plant cell structure is revised in [Cell structure and organisation](/resources/cell-structure-and-organisation/).
 
+## Frequently asked questions
+
+**Where is auxin made in a plant?**
+Auxin is made in the shoot tip and spreads back through the plant from there. Giving the root tip or the leaves as the source of auxin is a common error.
+
+**What is the difference between phototropism and gravitropism?**
+Phototropism is a growth response to the direction of light, while gravitropism is a growth response to gravity. In Cambridge O Level Biology 5090, both are tropisms, so the definition must include the idea of growth towards or away from the stimulus.
+
+**Why are seedlings used in tropism experiments?**
+Seedlings grow quickly, so the curve is easy to see within a few days. Large bean seeds are useful for root experiments because the root is easy to see and measure.
+
+**What is the independent variable in a phototropism investigation?**
+The independent variable is the direction of light, for example light from one side compared with even light from all sides.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 15: Coordination and response in plants (15.1 Coordination and response in plants), published by Cambridge Assessment International Education.

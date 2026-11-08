@@ -311,6 +311,20 @@ Loss of **biodiversity**; **extinction** of species; **loss of soil** (no roots 
 - Deforestation answers that say "global warming" without linking to carbon dioxide concentration.
 - Conservation methods listed without saying how each one works.
 
+## Frequently asked questions
+
+**Why do food chains usually have fewer than five trophic levels?**
+So much energy is lost between trophic levels that too little remains to support more levels. Energy is lost as heat from respiration and in parts that are not eaten or digested.
+
+**What are the stages of the nitrogen cycle in Cambridge O Level Biology 5090?**
+The seven syllabus stages are decomposition to ammonium ions, nitrification to nitrate ions, nitrogen fixation, absorption of nitrate by plants, making amino acids and proteins, feeding and digestion by animals, and denitrification back to nitrogen gas. Names of individual bacteria are not required.
+
+**What are the consequences of deforestation?**
+The five consequences are loss of biodiversity, extinction of species, loss of soil, flooding and a higher carbon dioxide concentration in the air.
+
+**How do insecticides and herbicides harm ecosystems?**
+Insecticides can kill non-target insects such as pollinators and harm animals that eat poisoned insects. Herbicides kill non-target plants, removing food and habitats.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 19: Relationships of organisms with one another and with the environment, published by Cambridge Assessment International Education.

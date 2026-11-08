@@ -276,6 +276,20 @@ So anything that stops respiration, such as lack of oxygen in waterlogged soil, 
 
 Check your recall with the [revision notes](/resources/o-level-biology-5090-movement-into-and-out-of-cells-revision-notes/), then try the [practice questions](/resources/o-level-biology-5090-movement-into-and-out-of-cells-practice/). [Biological molecules](/resources/biological-molecules/) is the next topic, and the free [diagnostics](/diagnostics/) give a quick check across topics.
 
+## Frequently asked questions
+
+**Why does the definition of diffusion include the word "net"?**
+Particles move in both directions at random, but more move from the region of higher concentration to lower concentration than the other way. "Net" describes this overall movement, and leaving it out loses marks.
+
+**What happens to red blood cells in pure water?**
+Red blood cells have no cell wall, so in pure water they take in water by osmosis, swell and burst. Plant cells do not burst because the cell wall resists the pressure.
+
+**How do you calculate percentage change in mass in an osmosis experiment?**
+Percentage change = (end mass − start mass) ÷ start mass × 100. A positive value means the tissue gained water and a negative value means it lost water.
+
+**Why does lack of oxygen reduce ion uptake by roots?**
+Root hair cells take up ions by active transport, which needs energy from respiration. Anything that stops respiration, such as a lack of oxygen in waterlogged soil, sharply reduces ion uptake.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 3: Movement into and out of cells, published by Cambridge Assessment International Education.

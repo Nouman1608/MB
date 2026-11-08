@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-oxfordaqa-igcse-biology"
-description: "Original exam-style practice questions with full worked answers on cell structure, tissues, organs and transport in cells for OxfordAQA International GCSE Biology (9201)."
+description: "Exam-style questions with worked answers on cells, tissues, organs, diffusion, osmosis and active transport for OxfordAQA International GCSE Biology 9201."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,3 +152,17 @@ It has a **rich blood supply**, maintaining a steep concentration gradient.
 - Naming an exchange-surface adaptation without saying what it increases or shortens (surface area, diffusion distance).
 - Stating that a bacterial cell has a nucleus, or that a plant cell lacks mitochondria.
 - Giving palisade mesophyll's function without linking its position in the leaf to the amount of light it receives.
+
+## Frequently asked questions
+
+**How should you describe an adaptation of an exchange surface?**
+Name the feature and then say what it does for exchange, such as increasing the surface area or shortening the diffusion distance. Naming the feature alone usually does not earn the mark.
+
+**Is OxfordAQA International GCSE Biology 9201 tiered?**
+No. 9201 is linear and untiered, so all candidates sit the same papers and need all of the Organisation content.
+
+**What does Topic 1 Organisation cover in OxfordAQA 9201?**
+It covers cell structure, principles of organisation, animal tissues, organs and systems, plant tissues and organs, and transport in cells (diffusion, osmosis and active transport).
+
+**Are these questions taken from OxfordAQA past papers?**
+No. They are original questions written for revision and do not copy the exam's structure or mark tariffs. Use them alongside the official OxfordAQA past papers.
