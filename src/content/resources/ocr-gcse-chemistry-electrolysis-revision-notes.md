@@ -256,6 +256,20 @@ Short, linked sentences gain more credit than a list of facts. Use these pattern
 - Saying the colour fades with copper electrodes. It stays the same.
 - Describing the chlorine test without saying the litmus paper is damp.
 
+## Frequently asked questions
+
+**What forms at each electrode with inert electrodes?**
+A metal or hydrogen forms at the cathode, and a non-metal forms at the anode. Cations move to the cathode and gain electrons, while anions move to the anode and lose electrons.
+
+**Why are hydrogen and oxygen produced in a 2 : 1 volume ratio?**
+Each hydrogen molecule needs two electrons, while each oxygen molecule releases four. So twice as many hydrogen molecules form as oxygen molecules for the same number of electrons, giving a 2 : 1 volume ratio.
+
+**What happens when copper sulfate is electrolysed with copper electrodes?**
+The copper anode dissolves, Cu → Cu²⁺ + 2e⁻, and copper is deposited at the cathode, Cu²⁺ + 2e⁻ → Cu. The mass lost by the anode equals the mass gained by the cathode, and the blue colour stays the same.
+
+**How do you check a half equation is balanced?**
+Check that the atoms balance and that the total charge on the left equals the total charge on the right. For 4OH⁻ → O₂ + 2H₂O + 4e⁻, both sides have a charge of 4−.
+
 ## Official syllabus
 
 Source: OCR's specification for GCSE (9–1) Chemistry A (Gateway Science), J248, Version 4.0 (August 2026), for first assessment in 2018. Content condensed here: C3.4 Electrolysis (statements C3.4a–C3.4e), mathematical learning outcome CM3.4i and the PAG C2 practical suggestions.

@@ -254,6 +254,20 @@ The specification lists this misconception for C4.2. In a closed container, the 
 - Reading Mr from the base peak instead of the highest m/z peak.
 - Naming an instrumental advantage such as "it is better" or "more reliable" without using the terms sensitivity, accuracy or speed and saying what each means.
 
+## Frequently asked questions
+
+**How do you test for oxygen and hydrogen?**
+Oxygen relights a glowing splint, because the extra oxygen lets the smouldering wood burst back into flame. Hydrogen gives a squeaky pop with a lighted splint, because hydrogen mixed with air burns rapidly.
+
+**What is the difference between the base peak and the molecular ion peak?**
+The base peak is the tallest peak in a mass spectrum. The molecular ion peak is the peak at the highest m/z value, and its value gives the relative molecular mass, Mr, of the compound.
+
+**What colour precipitates do iron(II) and iron(III) ions give with sodium hydroxide?**
+Iron(II) ions give a green precipitate and iron(III) ions give an orange-brown precipitate. In OCR GCSE Chemistry A (J248) the sodium hydroxide cation tests are Higher Tier only.
+
+**Does the mass change when a precipitate forms in a test?**
+No. In a closed container the total mass never changes, because the atoms are only rearranged into a solid. A precipitate is not heavier than the dissolved ions it came from.
+
 ## Official syllabus
 
 Based on sub-topic C4.2 Identifying the products of chemical reactions. Document: OCR J248, the Chemistry A (Gateway Science) specification for GCSE (9-1); Version 4.0 from August 2026; first assessment 2018.

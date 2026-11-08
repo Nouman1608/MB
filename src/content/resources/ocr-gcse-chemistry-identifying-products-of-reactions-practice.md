@@ -185,6 +185,20 @@ Confirm the anions on fresh samples. Dilute hydrochloric acid then barium chlori
 - Mark C4.2 complete in your [J248 checklist](/checklists/ocr/gcse/chemistry/).
 - Pick one of the free 10-minute [diagnostics](/diagnostics/) to find your next topic.
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C4.2 Identifying the products of chemical reactions cover?**
+Sub-topic C4.2 of OCR GCSE (9–1) Chemistry A (J248) covers tests for gases, flame tests, and tests for metal ions and anions, together with instrumental methods and mass spectra. It links to the PAG C5 practical suggestions.
+
+**What are common mistakes in chemical test questions?**
+Frequent errors include naming a test without its result, mixing up the glowing splint (oxygen) and lighted splint (hydrogen), writing "red" for both lithium and calcium flames, and writing "iron" instead of iron(II) or iron(III).
+
+**How do you tell zinc ions from calcium ions with sodium hydroxide?**
+Both give a white precipitate with a few drops of sodium hydroxide solution, so add excess. The precipitate from zinc ions dissolves in excess, while the one from calcium ions stays; stopping after "white precipitate" loses the mark.
+
+**How do you justify an instrumental method over a chemical test?**
+Use specific advantages such as sensitivity, accuracy or speed, for example that an instrument can detect much lower concentrations. Vague words such as "more reliable" or "better" do not earn credit.
+
 ## Official syllabus
 
 Written for sub-topic C4.2 Identifying the products of chemical reactions. Document: the J248 specification from OCR, Chemistry A (Gateway Science) for GCSE (9-1), Version 4.0 of August 2026, first assessment 2018.

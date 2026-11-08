@@ -288,6 +288,23 @@ Distillation needs about ten times as much energy: one order of magnitude more.
 
 Next: the [C6.3 revision notes](/resources/ocr-gcse-chemistry-earth-systems-revision-notes/) and the [C6.3 practice set](/resources/ocr-gcse-chemistry-earth-systems-practice/). For balancing equations, revisit [the J248 equations page](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/).
 
+## Frequently asked questions
+
+**How did oxygen build up in the Earth's atmosphere?**
+Cyanobacteria, and later algae and plants, produced oxygen by photosynthesis. At first it reacted with dissolved iron in seawater, forming banded iron formations, and only once the iron was used up did oxygen build up in the air over billions of years.
+
+**Why is the greenhouse effect not entirely caused by humans?**
+The greenhouse effect is natural and keeps the Earth habitable; without it the average surface temperature would be around −18 °C instead of about 15 °C. Human activity enhances it by adding more greenhouse gases.
+
+**What is potable water?**
+Potable water is water that is safe to drink. It is not pure, because it still contains low levels of dissolved salts.
+
+**Why is desalination harder than treating ground water?**
+Ground water has already been filtered by rock, so it is usually easiest to treat. Salt water needs desalination by distillation or reverse osmosis, which needs a lot of energy, with distillation using about ten times more than reverse osmosis in the example on this page.
+
+**What are the effects of increased greenhouse gas levels?**
+Potential effects include rising average temperatures, sea-level rise, more frequent or severe extreme weather, changes in rainfall that affect food production and water supplies, and changes to habitats.
+
 ## Official syllabus
 
 This page follows OCR's GCSE (9–1) Chemistry A (Gateway Science) specification J248, Version 4.0 (August 2026), first assessed in 2018, published by OCR. Content used: C6.3 Interpreting and interacting with earth systems (statements C6.3a–C6.3g; maths outcomes CM6.3i and CM6.3ii).

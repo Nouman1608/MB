@@ -277,6 +277,23 @@ On a **reaction profile** (energy on the y-axis, progress of reaction on the x-a
 
 Summarise with the [Controlling reactions revision notes](/resources/ocr-gcse-chemistry-controlling-reactions-revision-notes/), then try the [Controlling reactions practice questions](/resources/ocr-gcse-chemistry-controlling-reactions-practice/). Reaction profiles were first met in the [Energetics study guide](/resources/ocr-gcse-chemistry-energetics/). Related units: [Monitoring chemical reactions](/resources/ocr-gcse-chemistry-monitoring-chemical-reactions/) and [Equilibria](/resources/ocr-gcse-chemistry-equilibria/).
 
+## Frequently asked questions
+
+**What is the rate of reaction?**
+In OCR GCSE (9–1) Chemistry A (J248), the rate of reaction is how quickly reactants are used up or products are formed. It is found by measuring an amount that changes and dividing by the time taken.
+
+**Why is measuring mass loss a poor way to follow the reaction of magnesium with acid?**
+The gas produced is hydrogen, which is very light, so the mass of the flask barely changes and a school balance cannot track it well. A gas syringe is better; mass loss works well for reactions that give off heavier carbon dioxide.
+
+**How does a catalyst speed up a reaction?**
+A catalyst provides an alternative pathway with a lower activation energy. At the same temperature, a larger proportion of collisions have enough energy to react, so successful collisions happen more often.
+
+**What is 1/t and why is it used as a measure of rate?**
+When every run ends at the same fixed point, such as a cross disappearing, the rate is proportional to 1/t, where t is the time taken. Halving the time doubles the rate, so a longer time means a slower reaction.
+
+**What are enzymes?**
+Enzymes are biological catalysts: they speed up reactions in living cells without being used up. Catalase, for example, speeds up the breakdown of hydrogen peroxide in cells.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C5.2 Controlling reactions, learning outcomes C5.2a–C5.2i, mathematical learning outcomes CM5.2i–CM5.2iv and the linked practical suggestions (PAG C1, PAG C7, PAG C8).

@@ -250,6 +250,20 @@ Compare the routes one factor at a time, then give a reasoned choice.
 - Writing percentage yield upside down.
 - Forgetting the equation's numbers when adding Mr values for atom economy.
 
+## Frequently asked questions
+
+**Is a mole a mass?**
+No. The mole is the unit of amount of substance, while mass is measured in grams. They are linked by amount (mol) = mass (g) ÷ Mr.
+
+**How do you calculate atom economy?**
+Atom economy = (total Mr of desired product ÷ total Mr of all reactants) × 100, using the balanced equation and multiplying each Mr by its coefficient. A reaction with only one product has 100% atom economy.
+
+**How do you calculate concentration in mol/dm³?**
+Divide the amount of solute in moles by the volume of solution in dm³, remembering to divide a volume in cm³ by 1000 first. To convert to g/dm³, multiply by the Mr of the solute.
+
+**How do you measure the volume of gas produced in a reaction?**
+Collect the gas in a gas syringe, or over water in an upturned measuring cylinder or burette, as in PAG C8. Read the volume once the reaction has stopped and the apparatus is back at room temperature.
+
 ## Official syllabus
 
 Aligned to OCR's J248 specification for Chemistry A (Gateway Science) at GCSE (9–1): Version 4.0, dated August 2026, for first assessment in 2018. Sub-topic: C5.1 Monitoring chemical reactions.

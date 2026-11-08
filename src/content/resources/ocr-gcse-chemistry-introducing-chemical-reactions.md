@@ -288,6 +288,20 @@ Steps: mass → moles of the known substance → mole ratio from the equation �
 
 Move on to the [revision notes](/resources/ocr-gcse-chemistry-introducing-chemical-reactions-revision-notes/) and [practice questions](/resources/ocr-gcse-chemistry-introducing-chemical-reactions-practice/). Revisit [relative formula mass in C2.1](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/) if Mr slows you down.
 
+## Frequently asked questions
+
+**How do you work out the formula of an ionic compound from its ions?**
+Choose numbers of each ion so that the charges cancel to zero, using the lowest common multiple of the charges. For example, Al³⁺ and SO₄²⁻ meet at 6, giving Al₂(SO₄)₃, with brackets round a group ion only when more than one is needed.
+
+**What are spectator ions?**
+Spectator ions are ions that take no part in a reaction, so they are left out of an ionic equation. For silver nitrate with potassium iodide, the ionic equation shows only Ag⁺ and I⁻ forming silver iodide.
+
+**How do you calculate the number of moles from a mass?**
+Use amount (mol) = mass (g) ÷ Mr. For example, 8.19 g of sodium chloride, with Mr 58.5, is 8.19 ÷ 58.5 = 0.140 mol; this calculation is Higher Tier only in J248.
+
+**What is the state symbol for water?**
+Pure water is a liquid, so its state symbol is (l), never (aq). The symbol (aq) means dissolved in water, and a precipitate is (s).
+
 ## Official syllabus
 
 Source document: the J248 specification for GCSE (9-1) Chemistry A (Gateway Science) from OCR, Version 4.0, dated August 2026 and in use since first assessment in 2018. This page follows its sub-topic C3.1 Introducing chemical reactions.

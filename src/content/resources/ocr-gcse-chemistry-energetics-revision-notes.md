@@ -243,6 +243,20 @@ Shortcut: the four O–H bonds appear on both sides, so they cancel. Bonds that 
 - Giving a final answer with no sign or no unit.
 - Including an anomalous repeat in the mean.
 
+## Frequently asked questions
+
+**How do you calculate the energy change from bond energies?**
+Energy change = total energy needed to break bonds in the reactants − total energy released making bonds in the products. A negative answer means the reaction is exothermic, and a positive answer means it is endothermic.
+
+**Why does an endothermic reaction make the thermometer fall?**
+The thermometer measures the surroundings. In an endothermic reaction energy is transferred from the surroundings into the chemicals, so the surroundings cool, rather than the reaction "giving out cold".
+
+**Does a reaction that needs a flame to start count as endothermic?**
+No. A flame or spark only supplies the activation energy; the overall energy change decides whether a reaction is exothermic. A candle is exothermic even though it needs a match to light it.
+
+**Why are calculated bond energy values different from measured ones?**
+Bond energies are average values taken over many different compounds, so a calculation only gives an estimate of the energy change for a particular reaction.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C3.2 Energetics, learning outcomes C3.2a–C3.2d, mathematical learning outcomes CM3.2i–CM3.2ii and the linked practical suggestion (PAG C8).

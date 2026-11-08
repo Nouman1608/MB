@@ -170,6 +170,20 @@ Judgement: the claim is well supported because correlation and mechanism agree, 
 - [Book a free trial class](/trial/)
 - [All free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C6.3 Interpreting and interacting with earth systems cover?**
+Sub-topic C6.3 of OCR GCSE (9–1) Chemistry A (J248) covers the evolution of the atmosphere, the greenhouse effect, evidence and uncertainty in climate change, its effects and mitigation, air pollutants and the production of potable water.
+
+**How do you answer an "evaluate" question on climate change evidence?**
+Give evidence on both sides, such as the correlation between carbon dioxide and fossil fuel use and the greenhouse mechanism, against uncertainties such as natural factors and proxy data. Finish with a judgement, because treating correlation alone as proof loses credit.
+
+**How do you calculate a percentage increase from climate data?**
+Subtract the starting value from the final value, divide by the starting value and multiply by 100. Dividing by the final value instead of the starting value is a common error.
+
+**What are common mistakes in earth systems questions?**
+Frequent errors include saying greenhouse gases reflect heat, leaving out the change from short-wavelength radiation to infrared, saying the nitrogen in NO comes from the fuel, forgetting that sulfur dioxide has double the mass of the sulfur burned, and calling potable water "pure".
+
 ## Official syllabus
 
 This page follows OCR's GCSE (9–1) Chemistry A (Gateway Science) specification J248, Version 4.0 (August 2026), first assessed in 2018, published by OCR. Content used: C6.3 Interpreting and interacting with earth systems (statements C6.3a–C6.3g; maths outcomes CM6.3i and CM6.3ii).

@@ -287,6 +287,23 @@ Check your Mr from the formula: propanone, C₃H₆O, is (3 × 12) + (6 × 1) + 
 
 Next, use the [C4.2 revision notes](/resources/ocr-gcse-chemistry-identifying-products-of-reactions-revision-notes/) and then the [question set](/resources/ocr-gcse-chemistry-identifying-products-of-reactions-practice/). Ionic equations and state symbols are explained in [the guide to formulae and equations](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/); chromatography and purity are in [the guide to purity and chromatography](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/). Run a free [diagnostic](/diagnostics/) to find your next topic.
 
+## Frequently asked questions
+
+**How do you carry out a flame test?**
+Use a clean loop dipped in acid, pick up a little of the sample and hold it in a blue flame, wearing eye protection. A blue flame is used because the yellow safety flame has its own colour, and cleaning the loop prevents traces of an earlier sample, especially sodium, giving a false colour.
+
+**How do you tell lithium and calcium apart in a flame test?**
+Lithium gives a crimson flame and calcium gives an orange-red flame. To confirm, at Higher Tier, add sodium hydroxide solution: calcium ions give a white precipitate, while lithium ions give none because lithium hydroxide is soluble.
+
+**Why is nitric acid used before the silver nitrate test?**
+Acid is added first to remove carbonate ions, which would also precipitate with silver ions. Nitric acid is used because hydrochloric acid would add chloride ions and give a false positive.
+
+**What are the advantages of instrumental methods of analysis?**
+The OCR GCSE Chemistry A (J248) specification names three: sensitivity, because they detect very small amounts; accuracy, because they identify substances reliably; and speed, because they give results quickly and can run many samples.
+
+**How do you identify an unknown compound from a mass spectrum?**
+Use the highest m/z peak to find Mr and rule out references with a different Mr, then compare the fragment peaks and their relative heights with the reference set. Compounds with the same Mr can still be told apart by their fragment pattern.
+
 ## Official syllabus
 
 Source: OCR's J248 document, Chemistry A (Gateway Science) for GCSE (9-1); Version 4.0 dated August 2026; first assessment 2018. This page follows its sub-topic C4.2 Identifying the products of chemical reactions.

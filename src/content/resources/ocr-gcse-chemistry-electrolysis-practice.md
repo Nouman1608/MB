@@ -172,6 +172,20 @@ Describe how the experiment should be set up and carried out safely, and explain
 - [Book a free trial class](/trial/).
 - See all [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C3.4 Electrolysis cover?**
+Sub-topic C3.4 of OCR GCSE (9–1) Chemistry A (J248) covers electrode products, electrolysis of molten binary compounds and aqueous solutions, half equations, and the PAG C2 technique with inert and copper electrodes.
+
+**What are common mistakes in electrolysis questions?**
+Frequent errors include saying electrons rather than ions move through the electrolyte, giving a reactive metal such as sodium as a product of an aqueous solution, naming the ion (chloride) instead of the element formed (chlorine), and assuming a 1 : 1 ratio for hydrogen and oxygen.
+
+**How do you test for chlorine produced in electrolysis?**
+Chlorine bleaches damp blue litmus paper. The paper must be damp, and leaving that word out is a common way to lose the mark.
+
+**How do you find an empirical formula from electrolysis products?**
+Divide the mass of each element produced by its relative atomic mass, then find the simplest whole-number ratio. For example, 0.48 g of magnesium and 3.20 g of bromine give a 1 : 2 ratio, so the formula is MgBr₂.
+
 ## Official syllabus
 
 Source: OCR's specification for GCSE (9–1) Chemistry A (Gateway Science), J248, Version 4.0 (August 2026), for first assessment in 2018. Content tested here: C3.4 Electrolysis (statements C3.4a–C3.4e), mathematical learning outcome CM3.4i and the PAG C2 practical suggestions.

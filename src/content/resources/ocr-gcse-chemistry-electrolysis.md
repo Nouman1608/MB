@@ -278,6 +278,20 @@ For reliable masses, rinse each electrode gently with distilled water, dry it fu
 - Revisit formulae, ions and balancing in the [Introducing chemical reactions guide](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/).
 - Once C3.4 feels secure, tick it off on your [checklist](/checklists/ocr/gcse/chemistry/), then check yourself with a [10-minute diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**Why must an ionic compound be molten or dissolved to be electrolysed?**
+In an ionic solid the ions are held in a lattice and cannot move, so no current flows. When the compound melts or dissolves, the ions are free to move and carry charge to the electrodes.
+
+**What is produced when aqueous sodium chloride is electrolysed?**
+Hydrogen forms at the cathode because sodium is more reactive than hydrogen, and chlorine forms at the anode because chloride ions are present. Sodium and hydroxide ions remain, so sodium hydroxide solution forms.
+
+**What is produced at the anode for a sulfate or nitrate solution?**
+With no halide ions present, oxygen forms at the anode from hydroxide ions in water. The sulfate or nitrate ions stay in solution, so naming sulfur or sulfur dioxide as the product is an error.
+
+**Which electrode is the cathode?**
+The cathode is the electrode joined to the negative terminal of the power supply, and it attracts positive ions (cations). The anode is joined to the positive terminal and attracts negative ions (anions).
+
 ## Official syllabus
 
 Source: OCR's specification for GCSE (9–1) Chemistry A (Gateway Science), J248, Version 4.0 (August 2026), for first assessment in 2018. Content taught here: C3.4 Electrolysis (statements C3.4a–C3.4e), mathematical learning outcome CM3.4i and the PAG C2 practical suggestions.

@@ -308,6 +308,20 @@ To compare quantitatively, divide strength by density: composite 375, aluminium 
 
 For a condensed version, open the [C6.1 revision notes](/resources/ocr-gcse-chemistry-improving-processes-and-products-revision-notes/); for exam-style questions, open the [C6.1 practice set](/resources/ocr-gcse-chemistry-improving-processes-and-products-practice/). Background: formulae and equations ([C3.1 guide](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/)), relative formula mass ([C2.1 guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/)) and bulk properties ([C2.3 guide](/resources/ocr-gcse-chemistry-properties-of-materials/)).
 
+## Frequently asked questions
+
+**What is a life-cycle assessment?**
+A life-cycle assessment (LCA) totals the resources used and the environmental impact at every stage of a product's life. Energy use can be measured, but some effects, such as landscape damage, need value judgements.
+
+**What is the difference between barrier and sacrificial protection?**
+A barrier such as paint, oil, grease or plating keeps oxygen and water away from iron, but fails once scratched. Sacrificial protection attaches a more reactive metal such as zinc or magnesium, which oxidises instead of the iron; galvanising does both.
+
+**What are bioleaching and phytoextraction?**
+In bioleaching, bacteria break down compounds in low-grade ore to produce a leachate containing copper ions. In phytoextraction, plants grown on the ore absorb metal ions and are burned to leave ash rich in metal compounds; both are Higher Tier only.
+
+**Does a catalyst increase the yield of ammonia in the Haber process?**
+No. The iron catalyst increases the rate of reaction but not the equilibrium yield. Unreacted nitrogen and hydrogen are recycled, so little is wasted.
+
 ## Official syllabus
 
 Source document, published by OCR: the GCSE (9–1) Chemistry A (Gateway Science) specification, code J248, Version 4.0, August 2026, with first assessment in 2018. Used here: sub-topic C6.1 Improving processes and products, with statements C6.1a–C6.1s, maths outcomes CM6.1i–CM6.1iv and the PAG C1, PAG C2 and PAG C6 practical suggestions.

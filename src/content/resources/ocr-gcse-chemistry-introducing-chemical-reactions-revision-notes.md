@@ -264,6 +264,20 @@ Reminder: to make 6.8 g of ammonia by N₂ + 3H₂ → 2NH₃, you need 6.8 ÷ 1
 - Giving a long string of digits instead of an answer to sensible significant figures, or dropping standard form for very small masses.
 - Forgetting that Cl₂ has Mr 71, not 35.5, when converting chlorine gas to moles.
 
+## Frequently asked questions
+
+**Which elements are diatomic?**
+Hydrogen, nitrogen, oxygen, fluorine, chlorine, bromine and iodine exist as diatomic molecules: H₂, N₂, O₂, F₂, Cl₂, Br₂ and I₂. A memory hook is the Group 7 elements plus hydrogen, nitrogen and oxygen.
+
+**What is the definition of a mole for OCR GCSE Chemistry?**
+The OCR GCSE Chemistry A (J248) specification accepts two definitions: exactly 6.02214076 × 10²³ elementary entities (the revised IUPAC definition), or as many entities as there are atoms in 12 g of carbon-12. The mole is Higher Tier only.
+
+**What is the difference between a coefficient and a subscript?**
+A coefficient is the big number in front of a formula and changes how many units react. A subscript is part of the formula and changes what the substance is, so only coefficients are changed when balancing.
+
+**Why does the mass go up when a metal is heated in air?**
+The metal reacts with oxygen from the air to form an oxide, so oxygen atoms join the solid and the balance reading rises. Mass is still conserved, because the oxygen came from outside the container.
+
 ## Official syllabus
 
 Source document: the J248 specification for GCSE (9-1) Chemistry A (Gateway Science) from OCR, Version 4.0, dated August 2026 and in use since first assessment in 2018. This page follows its sub-topic C3.1 Introducing chemical reactions.

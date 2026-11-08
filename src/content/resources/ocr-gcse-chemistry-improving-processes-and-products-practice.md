@@ -208,6 +208,20 @@ For the rest of J248, use the [course hub](/boards/ocr/gcse/chemistry/) and the 
 - [OCR GCSE Chemistry hub](/boards/ocr/gcse/chemistry/)
 - [Printable J248 checklist](/checklists/ocr/gcse/chemistry/)
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C6.1 Improving processes and products cover?**
+Sub-topic C6.1 of OCR GCSE (9–1) Chemistry A (J248) covers metal extraction by carbon and electrolysis, biological extraction, industrial conditions in the Haber and Contact processes, fertilisers, life-cycle assessment, recycling, alloys, corrosion and choosing materials. Some statements are Higher Tier only.
+
+**Which parts of C6.1 are Higher Tier only?**
+Biological extraction (C6.1c) and the balance of rate, equilibrium and commercial conditions in industrial processes (C6.1d to C6.1f) are Higher Tier only in OCR GCSE Chemistry A (J248).
+
+**What are common mistakes in C6.1 questions?**
+Frequent errors include leaving electrons on the wrong side of an electrode half equation, saying a catalyst raises the yield of ammonia, explaining a compromise temperature with yield only, using one nitrogen atom when a formula has three, and giving only one condition for rusting.
+
+**How do you explain a compromise temperature in an industrial process?**
+Refer to both yield and rate, and to cost. For the Haber process, a lower temperature would give a higher equilibrium yield but too slow a rate, so about 450 °C is used as a compromise.
+
 ## Official syllabus
 
 Source document, published by OCR: the GCSE (9–1) Chemistry A (Gateway Science) specification, code J248, Version 4.0, August 2026, with first assessment in 2018. Used here: sub-topic C6.1 Improving processes and products, with statements C6.1a–C6.1s, maths outcomes CM6.1i–CM6.1iv and the PAG C1, PAG C2 and PAG C6 practical suggestions.

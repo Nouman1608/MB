@@ -231,6 +231,20 @@ If the percentage of product at equilibrium **falls** as the temperature rises, 
 - Leaving a rate without a unit, or dropping the "/s" from mol/dm³/s.
 - Quoting a rule from memory when the question asks you to use the data as evidence.
 
+## Frequently asked questions
+
+**What is dynamic equilibrium?**
+Dynamic equilibrium is reached in a closed system when the forward and reverse reactions happen at equal rates. Both reactions continue, but the concentrations of reactants and products stay constant.
+
+**Are concentrations equal at equilibrium?**
+No. At equilibrium the concentrations are constant, not necessarily equal; there may be much more product than reactant, or the reverse. It is the rates of the forward and reverse reactions that are equal.
+
+**How does pressure affect the position of equilibrium?**
+Raising the pressure shifts the position to the side with fewer gas molecules, and lowering it shifts the position to the side with more. If both sides have equal numbers of gas molecules, pressure has no effect; ignore solids and liquids when counting.
+
+**How do you use equilibrium data to decide if a reaction is exothermic?**
+If the percentage of product at equilibrium falls as the temperature rises, the forward reaction is exothermic. If it rises with temperature, the forward reaction is endothermic.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C5.3 Equilibria, learning outcomes C5.3a–C5.3c and mathematical learning outcomes CM5.3i–CM5.3iv.

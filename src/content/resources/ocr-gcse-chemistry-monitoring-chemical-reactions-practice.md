@@ -193,6 +193,20 @@ Route B: C₂H₆ + Cl₂ → C₂H₅Cl + HCl
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C5.1 Monitoring chemical reactions cover?**
+Sub-topic C5.1 of OCR GCSE (9–1) Chemistry A (J248) covers solution concentration, titration technique and calculations, molar gas volume, theoretical mass, percentage yield, atom economy and choosing a reaction pathway. Several of these calculations are Higher Tier only.
+
+**Which parts of C5.1 are on the Foundation Tier?**
+Titration technique (C5.1b), percentage yield (C5.1h) and atom economy (C5.1i and C5.1j) are assessed at both tiers. Concentration, titration calculations, gas volumes, theoretical mass and choosing a pathway are Higher Tier only.
+
+**What are common mistakes in C5.1 calculations?**
+Frequent errors include leaving volumes in cm³ when the formula needs dm³, skipping a 1 : 2 or 2 : 1 mole ratio, including a rough titre in the mean, and mixing up 24 and 24 000 for the molar gas volume.
+
+**How should I answer a question asking which reaction pathway is better?**
+Compare the routes factor by factor using all the data given, such as atom economy, percentage yield, rate, equilibrium and the usefulness of by-products, then give a justified choice. Choosing on atom economy alone loses marks when other data are supplied.
+
 ## Official syllabus
 
 Aligned to OCR's J248 specification for Chemistry A (Gateway Science) at GCSE (9–1): Version 4.0, dated August 2026, for first assessment in 2018. Sub-topic: C5.1 Monitoring chemical reactions.
