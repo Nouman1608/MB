@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-source-based-reading-and-directed-writing-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-a-reading-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-b-writing-9270"
 description: "Condensed recall notes on modern-issue source reading and directed writing technique for OxfordAQA International GCSE English Language Paper 2 (9270)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

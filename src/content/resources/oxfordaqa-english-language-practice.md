@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-literary-non-fiction-and-composition-9270"
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-a-literary-non-fiction-9270"
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-b-composition-9270"
 description: "Original exam-style practice questions with full worked answers on reading non-fiction, language and structural analysis, evaluating viewpoint and writing."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
