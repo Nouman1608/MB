@@ -338,6 +338,20 @@ If you cannot find the factors within a few seconds, move to the formula.
 
 Use the [revision notes](/resources/edexcel-igcse-maths-4ma1-quadratic-equations-revision-notes/) for a fast recap and self-test, then the [practice questions](/resources/edexcel-igcse-maths-4ma1-quadratic-equations-practice/) for full worked answers with mark allocations. Graphs of quadratic functions are covered in the [sequences, functions and graphs study guide](/resources/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs/). To find your weakest topics across the course, try the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Is the quadratic formula given in the Edexcel IGCSE Maths 4MA1 exam?**
+Yes. The quadratic formula x = (−b ± √(b² − 4ac)) / 2a is printed on the Higher tier formulae sheet, so you need to use it accurately rather than memorise it.
+
+**What does b² − 4ac tell you?**
+It decides how many solutions a quadratic has. If b² − 4ac is positive there are two solutions, if it is zero there is one repeated solution, and if it is negative there are no real solutions.
+
+**How do you avoid sign errors in the quadratic formula?**
+Write down a, b and c with their signs before substituting, and put negative values in brackets. For example, with b = −7, b² is (−7)² = 49.
+
+**How do you solve a quadratic by completing the square?**
+Rewrite x² + bx + c as (x + b/2)² − (b/2)² + c, rearrange to (x + p)² = q, then square-root both sides, remembering ±. For x² − 10x + 18 = 0 this gives x = 5 ± √7.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification Issue 2, November 2017, first examination June 2018, published by Pearson Education Limited. Section 2.7 Quadratic equations (Foundation tier statement A; Higher tier statements A to D).

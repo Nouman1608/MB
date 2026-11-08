@@ -313,6 +313,20 @@ A calculator may be used on every 4MA1 paper, but calculators with built-in symb
 - Earlier in Topic 2: [use of symbols and algebraic manipulation](/resources/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation/) and its [practice questions](/resources/edexcel-igcse-mathematics-algebraic-manipulation-practice/)
 - Find your weaker topics: [free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Why do you need two equations to find two unknowns?**
+A single equation such as x + y = 10 has endless solutions. A second equation narrows them down to the one pair of values that makes both true.
+
+**Which method is best for simultaneous equations, elimination or substitution?**
+Use whichever makes the algebra shortest. Elimination suits equations lined up in the form ax + by = c, and substitution suits equations where one letter is already the subject, such as y = 2x + 1.
+
+**What do you do if neither coefficient matches in elimination?**
+Multiply one or both equations so that the coefficients of one letter are the same size, using the lowest common multiple. For 4x + 3y = 5 and 6x − 5y = 17, multiplying by 3 and 2 gives 12x in both.
+
+**How can you avoid dividing by a negative in elimination?**
+Set up the subtraction so that the remaining letter stays positive, for example subtracting equation (1) from three times equation (2) rather than the other way round.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, Pearson Education Limited (first assessment June 2018). Topic 2, Equations, formulae and identities, section 2.6 Simultaneous linear equations: statement 2.6A (Foundation and Higher tiers) and statement 2.6B (Higher tier only).

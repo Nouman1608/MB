@@ -25,10 +25,12 @@ syllabusTopics:
 description: "Condensed 4MA1 revision notes on statistics and probability: formulas, averages, histograms, quartiles, tree diagrams and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes cover topic 6, Statistics and probability, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers in January and June. They cover sections 6.1 (Graphical representation of data), 6.2 (Statistical measures) and 6.3 (Probability). Foundation content is needed by both tiers; items marked **Higher tier only** appear only on papers 1H and 2H. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability/) first.
@@ -307,6 +309,20 @@ Small worked reminder: if P(A) = 0.4 and P(B) = 0.25, then P(A or B) = 0.65 if A
   <figcaption>Each bar height is the frequency, and adding the frequencies gives the number of flats.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What does Topic 6 of Edexcel IGCSE Maths 4MA1 cover?**
+Topic 6, Statistics and probability, has three sections: 6.1 graphical representation of data, 6.2 statistical measures and 6.3 probability. Histograms, cumulative frequency, quartiles and tree diagrams for combined events are Higher tier only.
+
+**When is the median a better average than the mean?**
+The mean uses every value, but an extreme value distorts it, so the median is the better average when the data contain an outlier. The mode suits non-numerical data.
+
+**What is frequency density?**
+Frequency density = frequency ÷ class width. In a histogram the area of each bar represents the frequency, so with unequal class widths you must plot frequency density, not frequency.
+
+**How do you find the quartiles from a cumulative frequency diagram?**
+Read across from n/4 for the lower quartile, n/2 for the median and 3n/4 for the upper quartile, where n is the actual total frequency. Reading at 25 and 75 when the total is not 100 is a common error.
 
 ## Official syllabus
 

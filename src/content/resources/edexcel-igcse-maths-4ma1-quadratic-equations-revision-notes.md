@@ -251,6 +251,20 @@ Reminder: y = 3x and x² + y² = 40 → x² + 9x² = 40 → x² = 4 → x = ±2.
 - In simultaneous equations, expanding (x + 2)² as x² + 4, or matching each x with the wrong y.
 - Ignoring "hence" and using a different method, which can lose the method marks.
 
+## Frequently asked questions
+
+**Which method should you use to solve a quadratic equation?**
+Try factorising first if the numbers look friendly. Use the quadratic formula when the question asks for answers to a given number of decimal places or significant figures, and completing the square when it asks for exact answers in that form or says "hence".
+
+**Which quadratic methods are Higher tier only in Edexcel IGCSE Maths 4MA1?**
+Factorising x² + bx + c = 0 is on both tiers. Factorising when a is not 1, the quadratic formula, completing the square, forming equations from context and linear-quadratic simultaneous equations are Higher tier only.
+
+**How do you factorise x² + bx + c?**
+Find two numbers that multiply to c and add to b, then write the brackets. For x² − 2x − 35, the numbers 5 and −7 give (x + 5)(x − 7).
+
+**What is the difference of two squares?**
+An expression such as x² − 25 factorises as (x − 5)(x + 5). So x² − 25 = 0 has two solutions, x = 5 and x = −5.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification Issue 2, November 2017, first examination June 2018, published by Pearson Education Limited. Section 2.7 Quadratic equations (Foundation tier statement A; Higher tier statements A to D).

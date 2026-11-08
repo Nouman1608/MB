@@ -172,6 +172,20 @@ Related: [study guide](/resources/edexcel-igcse-maths-4ma1-integers-powers-and-r
 - (Higher) Forgetting the middle term when squaring a bracket containing a surd.
 - (Higher) Forgetting to flip the fraction for a negative fractional power.
 
+## Frequently asked questions
+
+**What does "product of powers of prime factors" mean?**
+It means writing the number as a product of primes using index form for repeated primes, such as 1260 = 2² × 3² × 5 × 7. Writing 2 × 2 × 3 × 3 × 5 × 7 when index form is asked for can lose the mark.
+
+**How do you tell whether a word problem needs the HCF or the LCM?**
+Words such as "largest", "greatest" or "split into equal groups with none left over" point to the HCF, while "next time they happen together" points to the LCM. After finding it, answer the question that was actually asked, such as a time or a number of packs.
+
+**Is a⁰ equal to 0?**
+No. Any non-zero number to the power 0 equals 1, and a negative power means a reciprocal, not a negative number: 3⁻¹ = 1/3. Both slips are common in index questions.
+
+**What is a common mistake when adding surds?**
+Adding or subtracting surds before simplifying them to the same surd. Simplify each one first, for example so that both are multiples of √2, then combine the like surds; surds are Higher tier only in 4MA1.
+
 ## Next steps
 
 - [Revision notes for this unit](/resources/edexcel-igcse-maths-4ma1-integers-powers-and-roots-revision-notes/)

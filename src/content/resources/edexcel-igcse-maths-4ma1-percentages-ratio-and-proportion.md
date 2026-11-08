@@ -403,6 +403,20 @@ A map scale 1 : 25 000 means 1 cm on the map is 25 000 cm in real life. Convert 
 - Multiplying by the map scale when you should divide, or the other way round. Ask: should the real distance be bigger than the map distance?
 - Rounding the multiplier or an intermediate value too early.
 
+## Frequently asked questions
+
+**Is there a compound interest formula on the 4MA1 formulae sheet?**
+No. Neither 4MA1 formulae sheet prints a percentage or compound interest formula, so you need to know that the value after n years is the starting amount × (multiplier)ⁿ.
+
+**How do you work out repeated percentage changes?**
+Multiply the multipliers. A rise of 25% followed by a fall of 12% gives 1.25 × 0.88 = 1.1, an overall increase of 10%, not 13%; this is Higher tier content in Edexcel IGCSE Maths 4MA1.
+
+**How do you find the interest rate from a compound interest problem?**
+Set up the equation with an unknown multiplier and solve it. If £2500 grows to £2704 in 2 years, then m² = 2704 ÷ 2500 = 1.0816, so m = 1.04 and the rate is 4% per year.
+
+**Can a percentage be more than 100%?**
+Yes. A percentage over 100 is allowed: 135% of a quantity is 1.35 times it, which is more than the whole quantity.
+
 ## Next steps
 
 Condense this into the [revision notes](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-practice/), which have mark-by-mark answers.

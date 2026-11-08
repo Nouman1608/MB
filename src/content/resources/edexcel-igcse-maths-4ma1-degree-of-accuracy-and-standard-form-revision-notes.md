@@ -266,6 +266,20 @@ lower bound of P - Q = 17.55 - 9.255 = 8.295
 - Adding 2.4 and 6 when the powers differ (2.4 × 10⁵ + 6 × 10⁴ is not 8.4 × 10⁵).
 - Copying calculator notation such as 4.7E-03 as the final answer.
 
+## Frequently asked questions
+
+**Are zeros significant figures?**
+Zeros at the start of a decimal, such as the zeros in 0.006 07, are never significant; they only show place value. Zeros between non-zero digits, as in 7.03, are significant, and a trailing zero left after rounding should be kept because it shows the accuracy.
+
+**How do you round a large number to significant figures?**
+Round at the required figure, then fill the places up to the decimal point with zeros so the number keeps its size. For example, 38 649.5 to 2 significant figures is 39 000, not 39.
+
+**How do you find the upper bound of a division?**
+Divide the upper bound of the top number by the lower bound of the bottom number, because dividing by a smaller number gives a bigger answer. In Edexcel IGCSE Maths 4MA1 this is Higher tier content.
+
+**How do you add numbers in standard form?**
+You cannot add the front numbers unless the powers of 10 match. Convert to ordinary numbers or to the same power, add, then convert back: 5.6 × 10⁴ + 8.3 × 10³ = 56 000 + 8300 = 6.43 × 10⁴.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, first examination June 2018. Published by Pearson Education Limited.

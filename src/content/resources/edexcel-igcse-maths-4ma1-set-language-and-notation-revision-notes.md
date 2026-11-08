@@ -221,6 +221,20 @@ Questions 1–6 suit both tiers; questions 7–11 are Higher tier only.
 - Answering "is A a subset of B?" with "no" but no element to show why, which loses the reasoning mark.
 - In three-set diagrams, subtracting the centre region only once from a circle's total instead of removing all three inner regions.
 
+## Frequently asked questions
+
+**Which section of Edexcel IGCSE Maths 4MA1 covers sets?**
+Section 1.5, Set language and notation, in Topic 1 (Numbers and the number system) covers sets, the universal set, the empty set, complements, Venn diagrams, set-builder notation and subsets.
+
+**What do the symbols ∪ and ∩ mean?**
+A ∪ B (union) is every element in A or B, each listed once, and A ∩ B (intersection) is the elements in both A and B. A memory aid is that ∩ looks like an "n" for intersection.
+
+**How do you write the empty set?**
+Write the empty set as ∅, with no curly brackets. {∅} and {0} are both wrong, because each is a set with one element.
+
+**What is the complement of a set?**
+The complement A′ is the set of elements of the universal set ℰ that are not in A. You cannot find a complement without knowing the universal set.
+
 ## Next steps
 
 Go back to the [study guide](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation/) for any self-test question you got wrong, then try the full [practice set](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation-practice/). For Venn diagrams in probability, see the [statistics and probability revision notes](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability-revision-notes/).

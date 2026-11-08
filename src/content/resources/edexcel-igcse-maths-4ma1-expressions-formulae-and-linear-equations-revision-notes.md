@@ -290,6 +290,20 @@ The Higher tier example in the specification has three fractions in one equation
 - Stopping at the value of the letter when the question asks for the angles, the ages or the price.
 - Writing a formula with no definition of the letters or units when the question asks you to state them.
 
+## Frequently asked questions
+
+**Which sections of Edexcel IGCSE Maths 4MA1 cover formulae and linear equations?**
+Section 2.3 covers expressions and formulae (notation, substitution, writing, deriving and rearranging formulae) and section 2.4 covers linear equations, both in Topic 2 of the 4MA1 specification. Making a subject that appears twice, or that involves a power or root, is Higher tier only.
+
+**How do you make x the subject of a formula?**
+Undo the operations that have been done to x, in reverse order, doing the same to both sides. For y = (3x − 5)/4, multiply by 4, add 5 and divide by 3 to get x = (4y + 5)/3.
+
+**How do you write m ÷ 4 in correct algebraic notation?**
+Write division as a fraction, m/4. Other conventions are to write the number before the letters (5n, not n5), x rather than 1x, and a × a as a².
+
+**What does it mean to derive a formula?**
+Deriving means building the formula yourself from the facts given. For a rectangle of width w whose length is 3 more than twice the width, the perimeter is P = 2(w + 2w + 3) = 6w + 6.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, Pearson Education Limited (first assessment June 2018). Topic 2, Equations, formulae and identities: section 2.3 Expressions and formulae and section 2.4 Linear equations (Foundation and Higher tier content).

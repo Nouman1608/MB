@@ -262,6 +262,20 @@ Straight-line test: y ∝ x² gives a straight line through the origin if you pl
 </figure>
 
 
+## Frequently asked questions
+
+**What does the symbol ∝ mean?**
+The symbol ∝ means "is proportional to". You turn a proportion statement into an equation by replacing ∝ with "= k ×", so y ∝ x² becomes y = kx².
+
+**What does the graph of direct proportion look like?**
+A graph of y ∝ x is a straight line through the origin. Graphs of y ∝ x² or y ∝ x³ also pass through the origin but get steeper, while inverse proportion graphs never touch the axes.
+
+**What is the four-step method for proportion problems?**
+Write the formula with k using the right power or root, substitute the given pair of values, solve for k and write the full formula, then use it to find the unknown.
+
+**How do you rearrange an inverse proportion formula?**
+Multiply both sides by the power of x first, then divide. For y = k/x², rearranging gives x² = k/y, not y/k, which is a frequent error.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, Pearson Education Limited (first assessment June 2018). Topic 2, Equations, formulae and identities, section 2.5 Proportion (Higher tier only).

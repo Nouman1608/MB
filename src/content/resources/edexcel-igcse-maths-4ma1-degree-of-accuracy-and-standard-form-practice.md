@@ -178,6 +178,20 @@ Time = **1500 s (1.5 × 10³ s) to 2 s.f.** [1]
 - (Higher) Using the measured value, not the upper bound, when the question says "to be sure".
 - (Higher) Stating a "suitable degree of accuracy" without showing both bounds rounded.
 
+## Frequently asked questions
+
+**What is the most common mistake when finding upper and lower bounds?**
+Using the whole rounding unit instead of half of it. For 6.4 kg correct to 1 decimal place the half unit is 0.05, so the bounds are 6.35 kg and 6.45 kg, not 6.3 kg and 6.5 kg.
+
+**How do you show an estimate so that you get the method mark?**
+Round every number to 1 significant figure and write the rounded calculation down before working it out. The method mark is for the rounded values, so an answer with no rounded numbers shown can lose it.
+
+**Is 13.5 × 10⁴ in standard form?**
+No. In standard form the front number must be at least 1 and less than 10, so 13.5 × 10⁴ must be rewritten as 1.35 × 10⁵. Leaving it unadjusted loses the final mark.
+
+**Which parts of 4MA1 sections 1.8 and 1.9 are Higher tier only?**
+Solving problems with bounds (for example finding the bounds of a speed or choosing a suitable degree of accuracy) and solving problems involving standard form in context are Higher tier only. Rounding, identifying bounds, estimation and basic standard form are on both tiers.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form-revision-notes/).
