@@ -21,7 +21,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: section numbering changed from the spec PDF's 4.2.1 to the site's 3.2.1 with a note explaining both; description shortened; please re-review."
+reviewNote: "2026-11-08 recheck: section numbering changed from the spec PDF's 4.2.1 to the site's 3.2.1 with a note explaining both; description shortened; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **3.2.1 Language Diversity and Change** (4.2.1 in the specification PDF), the content
@@ -189,6 +189,18 @@ about identity or relationships. Using examples only from the present
 day when a question specifically addresses language change, missing
 the specification's 1600-to-present timeframe. Applying gender or class
 theories as settled fact rather than contested positions.
+
+## Frequently asked questions
+
+**How is diversity and change assessed?**
+In Paper 2 Section A: one evaluative essay from a choice of two, on language diversity or language change, worth 30 marks.
+
+**What texts should I study?**
+The specification lists sociolects, dialects, texts from 1600 to the present day, language data collections and research findings.
+
+**Where are attitudes to language tested?**
+In Paper 2 Section B, which analyses two texts about a language issue (40 marks) and sets a directed writing task (30 marks).
+
 
 ## Quick revision checklist
 

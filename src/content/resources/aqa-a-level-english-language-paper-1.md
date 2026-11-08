@@ -24,10 +24,12 @@ syllabusTopics:
 description: "Textual variations and representations, and children's language development -- the full content of Paper 1 for AQA A-Level English Language (7702)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review."
 ---
 
 This guide covers **Paper 1 Language, the Individual and Society**,
@@ -170,6 +172,18 @@ Four features, each named, quoted and linked to representation.
 ## Common mistakes
 
 Feature-spotting — listing devices without explaining effect. Using "the writer uses this to make it more interesting". Applying acquisition theories as settled fact rather than contested positions. Ignoring mode, audience and purpose. Confusing dialect (grammar and vocabulary) with accent (pronunciation only). Writing about content rather than language.
+
+## Frequently asked questions
+
+**How long is AQA 7702 Paper 1?**
+2 hours 30 minutes for 100 marks and 40% of the A-level.
+
+**What does Section B ask?**
+One discursive essay on children's language development, chosen from two, with data on spoken, written or multimodal language (30 marks).
+
+**What are the Section A texts?**
+Two texts linked by topic or theme, one contemporary and one older, with questions worth 25, 25 and 20 marks.
+
 
 ## Quick revision checklist
 

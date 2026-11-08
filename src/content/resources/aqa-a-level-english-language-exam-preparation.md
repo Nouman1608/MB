@@ -17,7 +17,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 AQA A-Level English Language 7702 is a linear, untiered qualification with three components. Paper 1
@@ -113,6 +113,18 @@ to drift back into analytical register under time pressure.
   analysis.
 - **In the directed writing task**: fix audience, purpose and form first, decide register second,
   and check register consistency at the end.
+
+## Frequently asked questions
+
+**How are the 7702 components weighted?**
+Paper 1 and Paper 2 are each 2 hours 30 minutes, 100 marks and 40%; the NEA is 100 marks and 20%.
+
+**What does Paper 2 contain?**
+An evaluative essay on diversity or change (30), an analysis of two texts on a language issue (40) and a directed writing task (30).
+
+**Is there an AS paper?**
+AS English Language is a separate qualification (7701) with two 1 hour 30 minute papers.
+
 
 ## Self-test
 
