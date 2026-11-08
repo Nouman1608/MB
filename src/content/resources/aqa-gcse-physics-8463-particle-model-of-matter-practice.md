@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Eleven original AQA GCSE Physics 8463 Particle model questions on density, latent heat, heating graphs and gas pressure, with fully marked answers."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -181,6 +183,20 @@ constant temperature to 0.050 m³. Calculate its final pressure. **[3]**
 - [Printable AQA GCSE Physics checklist](/checklists/aqa/gcse/physics/)
 - Try [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which equations for the particle model are on the AQA equation sheet?**
+ΔE = mcΔθ, E = mL and pV = constant are on the AQA GCSE Physics equation sheet, but ρ = m/V must be recalled. The topic is assessed on Paper 1.
+
+**Why must you check units in density calculations?**
+Mixing grams with kilograms, or cm³ with m³, gives an answer wrong by a large factor. Convert to consistent units, and give the answer in the units the question asks for, such as kg/m³.
+
+**When can you use pV = constant?**
+pV = constant applies only to a fixed mass of gas at constant temperature. Keep both pressures in the same unit, such as kPa, when you use p₁V₁ = p₂V₂.
+
+**What mistakes lose marks in specific heat and latent heat questions?**
+Common errors include using a final temperature instead of the temperature change, using the total mass of water in E = mL when only part changes state, and forgetting to add the two stages of a heat-then-boil calculation.
 
 ## Official syllabus
 

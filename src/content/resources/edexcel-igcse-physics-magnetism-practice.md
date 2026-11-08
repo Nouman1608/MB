@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on the motor effect, induction and transformers for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -159,3 +161,14 @@ I_p = (5.0 × 12) ÷ 240 [1] = **0.25 A** [1].
 - Explaining transmission losses in terms of voltage rather than I²R.
 - Confusing magnetically hard materials (permanent magnets) with magnetically soft materials (electromagnet cores).
 - Describing the field inside a solenoid as circular rather than uniform.
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE magnetism questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which real past paper question can I try next?**
+Try Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 10, whose mark scheme is paraphrased on this page.
+
+**Where can I revise magnetism and electromagnetism before trying these questions?**
+Use the Magnetism and Electromagnetism revision notes linked at the top of this page, which condense the motor effect, induction and transformers for Edexcel International GCSE Physics 4PH1.

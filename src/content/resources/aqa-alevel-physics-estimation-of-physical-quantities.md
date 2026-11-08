@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Orders of magnitude and estimating approximate values of physical quantities, for sub-topic 3.1.3 of AQA A-level Physics (7408)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-19
 updatedDate: 2026-08-25
@@ -104,6 +106,20 @@ Treating an order-of-magnitude estimate as if it needed to be precise to several
 - Combine several order-of-magnitude estimates, using relevant physics, to produce a derived estimate.
 - Practise justifying assumptions clearly when making an estimate.
 
+## Frequently asked questions
+
+**What is an order of magnitude?**
+An order of magnitude is the power of ten closest to a quantity's value, judged on a logarithmic (ratio) basis. Two quantities are of the same order of magnitude if they are within a factor of about 3 of the same power of ten.
+
+**What is a Fermi estimate?**
+A Fermi estimate combines order-of-magnitude estimates of several quantities with relevant physics to produce a derived estimate, also to the nearest order of magnitude. AQA 7408 sub-topic 3.1.3 requires you to make these derived estimates.
+
+**Do estimation answers need to be precise?**
+No. The goal is the correct power of ten, not an exact value, so give the final answer as an order of magnitude and justify the assumptions you made.
+
+**What are typical order-of-magnitude values to remember?**
+Useful anchors include the mass of an adult human, about 10² kg, the diameter of an atom, about 10⁻¹⁰ m, and the speed of a walking person, about 1 m s⁻¹.
+
 ## Related resources
 
 - [Estimation of Physical Quantities practice questions](/resources/aqa-alevel-physics-estimation-of-physical-quantities-practice/)
@@ -117,4 +133,3 @@ Treating an order-of-magnitude estimate as if it needed to be precise to several
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
   <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
 </figure>
-

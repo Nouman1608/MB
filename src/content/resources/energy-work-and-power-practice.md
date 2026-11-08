@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on energy stores and transfers, work done, power, efficiency and conservation of energy."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -113,3 +115,14 @@ At 20 m s⁻¹: Ek = ½ × 1200 × 20² [1] = **240 000 J** [1].
 - Explaining insulation without naming the transfer mechanism it blocks.
 - Forgetting that kinetic energy depends on the square of speed, not speed itself.
 - Confusing work done with force alone — omitting the distance moved in the direction of the force.
+
+## Frequently asked questions
+
+**Are these energy, work and power questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board.
+
+**Is reducing energy transfer from a house part of energy, work and power?**
+Not directly. That question is cross-topic: the underlying mechanisms of conduction, convection and infrared radiation belong to thermal physics rather than this subtopic.
+
+**What mistakes lose marks in energy, work and power questions?**
+Common errors include using mass alone instead of the weight mg when lifting, giving an efficiency above 1 or above 100%, saying energy is "lost" rather than dissipated, and leaving out the distance moved in the direction of the force when finding work done.

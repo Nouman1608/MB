@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Fundamental (base) SI units, derived units, and standard-form prefixes, for sub-topic 3.1.1 of AQA A-level Physics (7408)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
@@ -127,6 +129,20 @@ Mixing up prefixes with similar-sounding names, e.g. milli (10⁻³) and micro (
 - Recall and use the prefixes T, G, M, k, c, m, μ, n, p, f with standard form.
 - Convert between J and eV, and between J and kW h.
 
+## Frequently asked questions
+
+**Is dimensional analysis required in AQA A-level Physics?**
+No. AQA 7408 states that dimensional analysis is not required, and students are not expected to recall formal definitions of the fundamental quantities.
+
+**What SI prefixes do you need for AQA A-level Physics?**
+You need ten prefixes: tera (10¹²), giga (10⁹), mega (10⁶), kilo (10³), centi (10⁻²), milli (10⁻³), micro (10⁻⁶), nano (10⁻⁹), pico (10⁻¹²) and femto (10⁻¹⁵).
+
+**What is a derived SI unit?**
+A derived unit is built by combining base units through the relationship that defines the quantity. For example, force is mass × acceleration, so the newton is kg m s⁻².
+
+**Is the newton a base unit?**
+No. The newton is a derived unit for force, built from mass × acceleration. The base unit of mass is the kilogram.
+
 ## Related resources
 
 - [Use of SI Units and Their Prefixes practice questions](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes-practice/)
@@ -139,4 +155,3 @@ Mixing up prefixes with similar-sounding names, e.g. milli (10⁻³) and micro (
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
   <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
 </figure>
-

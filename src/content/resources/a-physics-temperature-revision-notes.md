@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Condensed recall notes on thermal equilibrium, thermodynamic and empirical scales, and thermometers for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-11-05
@@ -161,3 +163,16 @@ Fusion refers to melting/freezing; vaporisation refers to boiling/condensing. On
   <figcaption>The gradient of a temperature-time graph at constant power gives c = P / (m × gradient).</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why is the triple point of water used as a fixed point?**
+The triple point of water, 273.16 K, occurs at one unique temperature and pressure where ice, water and water vapour coexist, so it is perfectly reproducible. A melting point varies with pressure.
+
+**Why do empirical thermometers disagree between fixed points?**
+Different thermometric properties, such as liquid density, gas volume, metal resistance or thermocouple e.m.f., do not vary with temperature in the same way. Thermometers calibrated at the same two fixed points can therefore disagree everywhere in between.
+
+**What is the difference between specific heat capacity and specific latent heat?**
+Specific heat capacity is the energy needed to change the temperature of unit mass without a change of state, Q = mcΔθ. Specific latent heat is the energy needed to change the state of unit mass without a change of temperature, Q = mL.
+
+**Why does temperature stay constant while a substance melts?**
+During a change of state the energy supplied is latent heat, which separates the molecules against their intermolecular forces, increasing their potential energy rather than their mean kinetic energy, so the temperature does not change.

@@ -195,6 +195,20 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-fu
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which AQA papers assess Further mechanics and thermal physics?**
+In AQA 7408, section 3.6 is A-level only core content: Paper 1 assesses 3.6.1 Periodic motion and Paper 2 assesses 3.6.2 Thermal physics. It includes Required practicals 7 and 8.
+
+**How do you find a spring constant from a graph of T² against m?**
+Since T = 2π√(m/k), T² = (4π²/k)m, so a graph of T² against m is a straight line through the origin with gradient 4π²/k. The spring constant is k = 4π² divided by the gradient.
+
+**What is the period of the energy variation in SHM?**
+Kinetic and potential energy each vary with half the period of the oscillation, because each reaches its maximum twice per cycle.
+
+**What mistakes lose marks in further mechanics and thermal physics questions?**
+Common errors include naming centripetal force instead of the real force that provides it, omitting "towards equilibrium" from the SHM condition, using °C in pV = nRT, and using molar mass instead of the mass of one atom when finding c_rms.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.6 Further mechanics and thermal physics (A-level only).

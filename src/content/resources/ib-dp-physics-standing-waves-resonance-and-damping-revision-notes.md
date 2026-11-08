@@ -213,6 +213,19 @@ Damping and the peak: more damping means more energy dissipated per cycle, so th
   <figcaption>Nodes are where two opposite waves always cancel; antinodes are where they always add.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is there HL-only content in IB DP Physics C.4?**
+No. Section C.4 is common to SL and HL, with no additional higher level content.
+
+**Does a standing wave transfer energy along the medium?**
+No. A standing wave pattern does not move and carries no net energy along the medium, unlike a travelling wave.
+
+**Why is the closed end of a pipe a node?**
+Using the displacement picture, the air cannot move at a closed end, so it is a displacement node. An open end is an antinode.
+
+**At what frequency does a driven system oscillate in the steady state?**
+In the steady state a driven system oscillates at the driving frequency, not at its own natural frequency.
 
 ## Official syllabus
 

@@ -31,7 +31,9 @@ syllabusTopics:
 description: "AQA GCSE Physics 8463 Electricity taught from scratch: current, resistance, series and parallel circuits, mains, power and static, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -359,6 +361,20 @@ together near the sphere, where the field is strongest.
 
 Next, condense this with the [revision notes](/resources/aqa-gcse-physics-8463-electricity-revision-notes/) and
 try the [practice questions](/resources/aqa-gcse-physics-8463-electricity-practice/).
+
+## Frequently asked questions
+
+**Which required practicals are in AQA GCSE Physics electricity?**
+Section 4.2 includes required practical 3, on the factors that affect resistance, such as the length of a wire, and required practical 4, on the I-V characteristics of a resistor, a filament lamp and a diode.
+
+**How do thermistors and LDRs behave?**
+A thermistor's resistance decreases as temperature increases, so it is used in thermostats. An LDR's resistance decreases as light intensity increases, so it can switch lights on when it gets dark.
+
+**Do you need to calculate parallel resistance in AQA GCSE Physics?**
+No. You need to know that the total resistance of resistors in parallel is less than the smallest individual resistance, but you do not need to calculate it.
+
+**How does static charge build up?**
+When certain insulating materials are rubbed together, electrons move from one to the other. The material that gains electrons becomes negative, and the one that loses electrons is left with an equal positive charge.
 
 ## Official syllabus
 

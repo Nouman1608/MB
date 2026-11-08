@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Mass defect and nuclear binding energy, and the random and spontaneous nature of radioactive decay, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -272,6 +274,20 @@ cancel out, but mixing conventions gives a wrong answer.
 - ΔE = Δmc² for the energy released in a nuclear reaction, from the mass difference between reactants and products
 - A = λN, and x = x₀e^(−λt) for exponential decay
 - λ = ln 2/t½ relating decay constant and half-life
+
+## Frequently asked questions
+
+**What is the graph of binding energy per nucleon against nucleon number?**
+The curve rises steeply for light nuclei, peaks around iron at a nucleon number of about 56, then falls slowly for heavier nuclei. Higher binding energy per nucleon means a more stable nucleus.
+
+**How do you calculate the energy released in a nuclear reaction?**
+Find the difference between the total mass of the reactants and the total mass of the products, Δm, and use ΔE = Δmc². Energy is released when the products have less total mass than the reactants.
+
+**What evidence shows radioactive decay is random?**
+Fluctuations in the count rate of a radioactive source, even when the average rate is constant, are the experimental evidence for the random and spontaneous nature of decay named in the Cambridge 9702 syllabus.
+
+**What must balance in a nuclear equation?**
+Both the nucleon number and the proton number must have the same totals on each side of a nuclear equation, whether it describes decay, fission or fusion.
 
 ## Related resources
 

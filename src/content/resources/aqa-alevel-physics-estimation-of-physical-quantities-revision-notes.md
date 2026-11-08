@@ -287,6 +287,20 @@ The student's value is 10³ times too large; a prefix or a time conversion has s
 
 Next step: try the practice sets for [SI units](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes-practice/) and [estimation](/resources/aqa-alevel-physics-estimation-of-physical-quantities-practice/).
 
+## Frequently asked questions
+
+**What are the SI base units in AQA A-level Physics?**
+The six base units are the kilogram (mass), metre (length), second (time), mole (amount of substance), kelvin (temperature) and ampere (electric current). The candela is excluded from the AQA 7408 specification.
+
+**How do you convert electronvolts to joules?**
+Multiply by 1.6 × 10⁻¹⁹ to convert eV to J, and divide by the same factor to convert J to eV. Because the joule is much larger, converting J to eV gives a much larger number.
+
+**How do you convert kilowatt-hours to joules?**
+Multiply by 3.6 × 10⁶, since 1 kW h is 1000 W for 3600 s. Divide by 3.6 × 10⁶ to convert joules back to kilowatt-hours.
+
+**How do you convert cm² to m²?**
+The prefix applies to the whole unit, including its power, so 1 cm² = (10⁻² m)² = 10⁻⁴ m². Similarly 1 cm³ = 10⁻⁶ m³.
+
 ## Official syllabus
 
 AQA, *AS and A-level Physics* (7407 and 7408), specification for first teaching in 2015: sections 3.1.1 Use of SI units and their prefixes and 3.1.3 Estimation of physical quantities.

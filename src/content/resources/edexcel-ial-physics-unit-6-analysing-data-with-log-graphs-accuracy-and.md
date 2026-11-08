@@ -261,6 +261,20 @@ Be specific and realistic. Name the change, the variable it affects and the effe
 * Taking logs of a quantity with its units still attached; take the log of the number.
 * Saying a result is "accurate" because it is repeatable. That describes precision.
 
+## Frequently asked questions
+
+**What does Edexcel IAL Unit 6 add to the Unit 3 practical skills?**
+Unit 6 asks you to compound percentage uncertainties, use the terms precision, accuracy and sensitivity, and possibly work with log graphs. Unit 3 does not ask for these.
+
+**Do you take the log of a quantity's units?**
+No. Logs have no units, so take the log of the number only and label the axis as log (quantity/unit).
+
+**Why is a small temperature rise measured badly?**
+In a subtraction the absolute uncertainties add, so the difference of two similar numbers has a large percentage uncertainty. A rise of 19.5 °C ± 1.0 °C, for example, is uncertain by 5.1%.
+
+**Are error bars needed on Edexcel IAL Unit 6 graphs?**
+No. The specification says you are not expected to add error bars.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3, Pearson Education Limited. This guide covers section 6.5 Analysis, with the glossary of Appendix 10: Uncertainties and practical work used for the key terms.

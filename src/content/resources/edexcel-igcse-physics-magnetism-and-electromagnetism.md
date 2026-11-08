@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Magnetic field patterns, the motor effect, and generators and transformers, for Pearson Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -237,6 +239,20 @@ transformers have some energy loss.
 - Field patterns for straight wires, flat coils and solenoids (Physics only)
 - Electromagnetic induction and generator principle
 - Turns ratio and Vₚ Iₚ = Vₛ Iₛ for transformers (Physics only)
+
+## Frequently asked questions
+
+**Which parts of Edexcel IGCSE magnetism are Physics only?**
+Electromagnet construction, the field patterns for a straight wire, flat coil and solenoid, the force on a moving charged particle, and all of the transformer content are marked P.
+
+**What affects the size of an induced voltage?**
+The induced voltage depends on factors such as the speed of relative motion, the strength of the magnetic field and the number of turns on the coil.
+
+**Why is electricity transmitted at high voltage?**
+Step-up transformers increase the voltage and decrease the current, which reduces energy losses in the transmission cables. Step-down transformers then reduce the voltage to safer, usable levels for consumers.
+
+**Are real transformers 100% efficient?**
+No. Input power = output power, VₚIₚ = VₛIₛ, is an idealisation for a 100% efficient transformer; real transformers have some energy loss.
 
 ## Related resources
 

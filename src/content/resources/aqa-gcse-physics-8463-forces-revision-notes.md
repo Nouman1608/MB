@@ -37,7 +37,9 @@ syllabusTopics:
 description: "Condensed AQA GCSE Physics 8463 Forces notes: every equation with units, method steps, graph rules, must-know contrasts and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -372,6 +374,20 @@ Use g = 9.8 N/kg and ρ(water) = 1000 kg/m³ where needed.
 - Naming weight and normal contact force on one object as a third-law pair.
 - (Higher tier only) Explaining a crash mat by "it absorbs the force" instead of "increases the time, so
   reduces the rate of change of momentum".
+
+## Frequently asked questions
+
+**What is the difference between mass and weight?**
+Mass is measured in kilograms and is the same everywhere. Weight is a force, measured in newtons, and depends on gravitational field strength: W = mg.
+
+**What is stopping distance?**
+Stopping distance is the thinking distance plus the braking distance. For the same reaction time and deceleration, doubling the speed doubles the thinking distance and quadruples the braking distance.
+
+**Which forces equations are given on the AQA equation sheet?**
+The equation sheet gives Eₑ = ½ke², v² − u² = 2as and, for Higher tier, p = hρg and F = mΔv/Δt. Other forces equations, such as W = mg, F = ma and p = F/A, must be recalled.
+
+**How do safety features such as helmets and air bags work?**
+They increase the time taken for the collision, so the rate of change of momentum, and therefore the force, is smaller. Saying they "absorb the force" does not earn credit.
 
 ## Official syllabus
 

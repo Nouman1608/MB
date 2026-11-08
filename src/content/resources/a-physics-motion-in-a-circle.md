@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-motion-in-a-circle"
     subtopic: "a-centripetal-acceleration"
-description: "Radian measure and angular speed, the relationship between angular and linear speed, and centripetal acceleration and force for uniform circular motion, for Cambridge International AS & A Level Physics 9702."
+description: "Radians, angular speed, v = ωr and centripetal acceleration and force, with vertical circles: Topic 12, Motion in a circle, of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -234,6 +236,20 @@ some arbitrarily small value.
 - T = mv²/r ∓ mg at the bottom/top of a vertical circle, and v_min = √(gr) at the top
 
 *Extension, beyond the syllabus: tan θ = v²/(rg) for a frictionless banked track — background only, not examinable.*
+
+## Frequently asked questions
+
+**What is a radian?**
+An angle in radians is the ratio of arc length to radius, so one full circle of 360° is 2π radians. To convert degrees to radians, multiply by π/180.
+
+**Why is an object moving in a circle at constant speed accelerating?**
+Velocity is a vector, and in circular motion its direction changes continuously, so the velocity changes even though the speed does not. That change is a centripetal acceleration directed towards the centre, of size a = v²/r = ω²r.
+
+**What is the tension at the top and bottom of a vertical circle?**
+At the top, T = mv²/r − mg, and at the bottom, T = mv²/r + mg, so the tension is greatest at the bottom. The minimum speed at the top is √(gr), when the tension falls to zero.
+
+**Are banked tracks examinable in Cambridge 9702?**
+No. Banked tracks are not part of the Cambridge 9702 Motion in a Circle content; the banked-track section here is a worked extension for background only.
 
 ## Related resources
 

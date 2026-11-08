@@ -203,6 +203,20 @@ The guide pairs this content with questions about how ideas change. Have a sente
 * Dropping the "1 -" in the Compton factor, or working in radians when the angle is given in degrees.
 * Mixing the photon wavelength and the de Broglie wavelength of the electron in a single line of working.
 
+## Frequently asked questions
+
+**Is quantum physics examined at IB DP Physics SL?**
+No. Sub-topic E.2, Quantum physics, is additional higher level only, and the guide has no standard level content here.
+
+**Do I need to derive the Compton scattering formula?**
+No. You use Δλ = (h/mec)(1 − cos θ), with h/mec = 2.43 × 10⁻¹² m, but the derivation is not required.
+
+**What is the largest possible Compton shift?**
+The shift depends only on the scattering angle. It is zero for no deflection, h/mec at 90° and greatest, 2h/mec, at 180°.
+
+**Do different metals give different gradients on a stopping potential graph?**
+No. Every metal gives a straight line of gradient h/e, so the lines are parallel; only the intercepts, set by the work function, differ.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page covers sub-topic E.2 (HL only).

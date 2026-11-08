@@ -150,6 +150,17 @@ The distance must be measured from the centre of Venus, since the planet acts as
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics gravitational field questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these gravitational field questions for SL or HL?**
+Both. They practise the SL and HL part of sub-topic D.1, Gravitational fields, so all questions are suitable for either level.
+
+**What constant and precision do these questions use?**
+Use G = 6.67 × 10⁻¹¹ N m² kg⁻² and give numerical answers to three significant figures unless told otherwise.
+
 ## Official syllabus
 
 This page follows sub-topic D.1 (Gravitational fields), standard level and higher level content, of the IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization.

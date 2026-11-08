@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Twelve original AQA GCSE Physics 8463 Waves questions on v = fλ, practicals, ultrasound, seismic waves, EM waves, lenses and black bodies, with marks."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -202,6 +204,20 @@ Learn the content first in the [study guide](/resources/aqa-gcse-physics-8463-wa
 - [Printable checklist](/checklists/aqa/gcse/physics/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which AQA GCSE Physics paper assesses waves?**
+Topic 6, Waves, is examined on AQA GCSE Physics 8463 Paper 2, at Foundation and Higher tier. Parts on ultrasound, seismic waves and wave fronts are Higher tier only.
+
+**Why do you halve the distance in echo questions?**
+In echo sounding, ultrasound and sonar, the pulse travels to the reflecting surface and back, so the total distance is twice the depth. Forgetting to halve is a common way to lose marks.
+
+**How should you suggest improvements to a practical method?**
+Each improvement must say exactly what you would change and why it helps, such as repeating readings and taking a mean. Writing "be more accurate" earns no credit.
+
+**What mistakes lose marks in GCSE waves questions?**
+Common errors include measuring amplitude from crest to trough, not converting kHz, MHz, GHz or μs before calculating, and saying radiation is "dangerous" without mentioning ionisation, mutation or cancer.
 
 ## Official syllabus
 

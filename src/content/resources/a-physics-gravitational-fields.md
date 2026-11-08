@@ -23,10 +23,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-gravitational-fields"
     subtopic: "a-gravitational-potential"
-description: "Gravitational field concept and field lines, Newton's law of gravitation, gravitational field strength of a point mass, and gravitational potential, for Cambridge International AS & A Level Physics 9702."
+description: "Gravitational field lines, Newton's law of gravitation, field strength g = GM/r², potential ϕ = −GM/r and orbits: Topic 13 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -234,6 +236,20 @@ planets.
 - g = GM/r² for the field strength of a point mass, derived from g = F/m and Newton's law of gravitation, and why g ≈ 9.81 m s⁻² at
 Earth's surface
 - ϕ = -GM/r for gravitational potential, and E_p = mϕ = -GMm/r for potential energy
+
+## Frequently asked questions
+
+**How is g = GM/r² derived from Newton's law of gravitation?**
+The force on a small test mass m at distance r from a mass M is F = GMm/r². Dividing by m, since g = F/m, gives g = GM/r², so the test mass cancels and g depends only on M and r.
+
+**Can g = GM/r² be used inside the Earth?**
+No. The formula applies only to a point mass or to points outside a spherical mass; it does not apply inside a uniform sphere.
+
+**Is escape velocity in the Cambridge 9702 syllabus?**
+No. Escape velocity is not part of the Cambridge 9702 Gravitational Fields content; this page includes it only as background extending the energy ideas.
+
+**What is the formula for gravitational potential energy at A Level?**
+Gravitational potential energy is mass multiplied by gravitational potential, E = mϕ, which gives E_p = −GMm/r. It is negative because potential is defined as zero at infinity and gravity is attractive.
 
 ## Related resources
 

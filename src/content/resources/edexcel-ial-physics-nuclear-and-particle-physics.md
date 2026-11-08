@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "nuclear-and-particle-physics"
-description: "Atomic structure, particle accelerators and detectors, mass-energy equivalence, and the standard quark-lepton model for sub-topic 4.5 of Pearson Edexcel International A Level Physics (YPH11), Unit 4."
+description: "Atomic structure, accelerators, detectors, r = p/BQ, mass-energy equivalence and the quark-lepton model: sub-topic 4.5 of Edexcel IAL Physics (YPH11), Unit 4."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -198,6 +200,20 @@ field.
 - Deduce antiparticle properties, and use conservation of charge, baryon number and lepton number to test whether an interaction is possible.
 - Write and interpret particle equations using standard particle symbols.
 
+## Frequently asked questions
+
+**What did alpha particle scattering show about the atom?**
+Large-angle alpha particle scattering in the Geiger-Marsden experiment gave evidence for a small, dense, positively charged nucleus, replacing the earlier plum pudding model.
+
+**Why are high energies needed to investigate the structure of nucleons?**
+Resolving very small distances needs very short wavelengths, and by the de Broglie relation these correspond to high particle momentum and energy.
+
+**How do you decide whether a particle interaction is possible?**
+Check conservation of charge, baryon number and lepton number. Each must be checked separately; charge conservation alone is not enough.
+
+**Are relativistic equations required in Edexcel IAL Physics?**
+No. Candidates must understand situations where the relativistic increase in particle lifetime is significant, but use of the relativistic equations is not required.
+
 ## Related resources
 
 - [Unit 4: Electric and Magnetic Fields](/resources/edexcel-ial-physics-electric-and-magnetic-fields/) — the previous sub-topic
@@ -213,4 +229,3 @@ detail.*
   <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
   <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
 </figure>
-

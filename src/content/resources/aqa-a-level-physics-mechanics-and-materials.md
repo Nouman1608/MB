@@ -284,6 +284,20 @@ E = 2.04 × 10¹¹ Pa
 - Using diameter instead of radius in A = πr², or forgetting to convert mm to m.
 - Calling a collision elastic just because the objects bounce apart; check kinetic energy.
 
+## Frequently asked questions
+
+**How do you resolve weight on a slope?**
+On a slope at angle θ, the weight mg has a component mg sin θ down the slope and mg cos θ into the slope. Swapping sin and cos is a common error.
+
+**What is the moment of a couple?**
+A couple is a pair of equal and opposite coplanar forces. Its moment is one force multiplied by the perpendicular distance between their lines of action.
+
+**How do you measure the Young modulus in AQA Required practical 4?**
+Measure a long thin wire's length with a metre rule and its diameter at several points with a micrometer, add masses and read the extension against a fixed marker. Plot stress against strain; the Young modulus is the gradient of the straight part.
+
+**What does the area under a force-time graph represent?**
+The area under a force-time graph is the change in momentum, or impulse, even when the force varies.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.4 Mechanics and materials.

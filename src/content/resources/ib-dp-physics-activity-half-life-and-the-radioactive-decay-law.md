@@ -253,6 +253,20 @@ The approximation is about 6% too high. At t = T½, λt = 0.693, but the exact p
 - HL: using λt as a probability when λt is not small.
 - Choosing an alpha source for gauging or leak tracing. It cannot get through the material.
 
+## Frequently asked questions
+
+**Why is an alpha source not used for thickness gauging or leak tracing?**
+Alpha radiation is stopped by almost any sheet, and it cannot get through soil and a pipe wall, so it never reaches the detector.
+
+**Which isotope is used to date rocks millions of years old?**
+An isotope with a much longer half-life than carbon-14, such as potassium-40 with a half-life of about 1.25 × 10⁹ years, supplied as data. The half-life must be comparable to the age.
+
+**Is beta or gamma used for thickness gauging?**
+The radiation must be partly absorbed. A beta source suits thin metal foil, paper and plastic film, and gamma suits thicker metal sheet, both with a long half-life so the signal stays steady.
+
+**Which radiation is used to treat diseased tissue?**
+A beta emitter taken up by the target releases its energy over a short distance, concentrating the damage there. Iodine-131 is used for the thyroid, which absorbs iodine.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic E.3, Radioactive decay, including its guidance on real-life contexts and determining a half-life.

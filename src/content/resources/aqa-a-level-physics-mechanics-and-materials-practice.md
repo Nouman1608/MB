@@ -164,6 +164,20 @@ See the [study guide](/resources/aqa-a-level-physics-mechanics-and-materials/), 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which AQA A-level Physics paper assesses Mechanics and materials?**
+In AQA 7408, section 3.4 Mechanics and materials is AS and A-level content examined on Paper 1 and assumed for Paper 2, with practical skills tested in Paper 3 Section A.
+
+**How do you find g from a graph of h against t²?**
+For a ball released from rest, h = ½gt², so a graph of h against t² is a straight line with gradient g/2. Multiply the gradient by 2 to get g.
+
+**Why must you keep the sign of velocity in momentum questions?**
+Momentum is a vector, so a rebound reverses the sign of the velocity. Choose a positive direction first; subtracting the two speeds without signs makes the momentum change come out far too small.
+
+**What mistakes lose marks in mechanics and materials questions?**
+Common errors include measuring a moment arm along a beam instead of perpendicular to the line of action, naming two forces on the same body as a third-law pair, and forgetting work done against resistive forces in energy calculations.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.4 Mechanics and materials.

@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "national-and-global-energy-resources"
-description: "Renewable and non-renewable energy resources, their uses, and their environmental impact, for sub-topic 4.1.3 of AQA GCSE Physics (8463) -- also examinable as sub-topic 6.1.3 of GCSE Combined Science: Trilogy (8464)."
+description: "Renewable and non-renewable energy resources, their uses, reliability and impacts: AQA GCSE Physics 8463 sub-topic 4.1.3, also Combined Science 8464 6.1.3."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
@@ -160,6 +162,20 @@ naming a specific issue (e.g. "it's bad for the environment" rather than
 - Compare reliability between different energy resources.
 - Describe environmental, economic and social issues linked to specific resources.
 - State the UK trend: decreasing fossil fuel use, increasing renewable use.
+
+## Frequently asked questions
+
+**What are the main energy resources in AQA GCSE Physics?**
+The main energy resources are fossil fuels (coal, oil and gas), nuclear fuel, bio-fuel, wind, hydro-electricity, geothermal, the tides, the Sun and water waves. Fossil fuels and nuclear fuel are non-renewable; the rest are renewable.
+
+**Why are wind and solar power less reliable?**
+Wind and solar power depend on weather conditions, so they cannot generate electricity on demand. Fossil fuels and nuclear power can generate reliably whenever needed.
+
+**How has UK electricity generation changed over recent decades?**
+The use of fossil fuels to generate electricity in the UK has been decreasing, while the use of some renewable resources has been increasing, reflecting responses to climate change and energy security.
+
+**Does renewable mean environmentally harmless?**
+No. A renewable resource is one that is replenished as it is used, but it can still cause environmental, economic or social issues, such as hydro-electric dams affecting river ecosystems.
 
 ## Related resources
 

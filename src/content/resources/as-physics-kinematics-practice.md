@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on suvat equations, motion graphs and projectiles for AS Physics."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -120,3 +122,17 @@ Resultant = √(12² + 29.7²) [1] = √(144 + 882) = **32.0 m s⁻¹** [1].
 - When a projectile is launched at an angle (not purely horizontally), using its total initial speed directly in a vertical *suvat* equation instead of resolving it into a vertical component first.
 - Timing only a single drop when measuring g experimentally, rather than repeating and averaging to reduce random error.
 - Forgetting that the suvat equations themselves can be derived from the definitions of velocity and acceleration, not simply recalled from memory.
+
+## Frequently asked questions
+
+**How do you choose which suvat equation to use?**
+List u, v, a, s and t, identify the three you know and the one you want, then pick the equation that contains exactly those four quantities.
+
+**What does the area under an acceleration-time graph represent?**
+The area under an acceleration-time graph gives the change in velocity.
+
+**How does air resistance change a projectile's path?**
+With air resistance the path becomes asymmetric: the range and maximum height are reduced, the descent is steeper than the ascent, and the impact speed is lower than the launch speed.
+
+**What mistakes lose marks in kinematics questions?**
+Common errors include using suvat when acceleration is not uniform, mixing horizontal and vertical components, forgetting the sign convention for upward and downward motion, and using the total launch speed instead of its vertical component for an angled projectile.

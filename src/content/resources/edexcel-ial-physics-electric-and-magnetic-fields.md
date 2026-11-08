@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "electric-and-magnetic-fields"
-description: "Coulomb's law, electric field strength and potential, capacitors and RC circuits, and magnetic flux density and electromagnetic induction for sub-topic 4.4 of Pearson Edexcel International A Level Physics (YPH11), Unit 4."
+description: "Coulomb's law, electric field and potential, capacitors and RC circuits, magnetic flux and induction: sub-topic 4.4 of Edexcel IAL Physics (YPH11)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -206,6 +208,20 @@ around a current. Mixing up flux (φ, through one turn) with flux linkage
 - Use the exponential decay equations and their log forms for RC circuits.
 - Use F = Bqvsinθ and F = BIlsinθ with Fleming's left-hand rule.
 - Explain the factors affecting induced e.m.f. and use ε = −N(dφ/dt).
+
+## Frequently asked questions
+
+**What is the time constant of an RC circuit?**
+The time constant is RC, the time for the charge, current or p.d. of a discharging capacitor to fall to 1/e, about 37%, of its initial value. Taking logs, for example ln Q = ln Q₀ − t/RC, gives a straight line for finding RC.
+
+**What is Core Practical 11 in Edexcel IAL Physics?**
+Core Practical 11 uses an oscilloscope or data logger to display and analyse the p.d. across a capacitor as it charges and discharges through a resistor.
+
+**What is the energy stored in a capacitor?**
+The energy stored is W = ½QV, the area under a graph of p.d. against charge, which is equivalent to W = ½CV² and W = Q²/2C.
+
+**What equation combines Faraday's and Lenz's laws?**
+The induced e.m.f. is ε = −N(dφ/dt). Faraday's law gives its size as the rate of change of flux linkage, and the minus sign from Lenz's law shows it opposes the change causing it.
 
 ## Related resources
 

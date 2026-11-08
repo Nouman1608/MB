@@ -128,6 +128,17 @@ Related: [Waves revision notes](/resources/edexcel-igcse-physics-waves-revision-
 
 *Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 1PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-1pr-rms-20240822.pdf), paraphrased.*
 
+## Frequently asked questions
+
+**Are these Edexcel IGCSE waves questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which real past paper question can I try next?**
+Try Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 6, whose mark scheme is paraphrased on this page.
+
+**Which specification do these questions follow?**
+They follow the Pearson Edexcel International GCSE in Physics (4PH1) specification, Issue 4, the same specification cited by the Waves study guide and revision notes.
+
 ## Official syllabus
 
 Pearson Education Ltd, *Pearson Edexcel International GCSE in Physics (4PH1) Specification*, Issue 4 — the same specification cited by the [Waves study guide](/resources/edexcel-igcse-physics-waves/) and its [revision notes](/resources/edexcel-igcse-physics-waves-revision-notes/). Always check the current specification for your examination year.

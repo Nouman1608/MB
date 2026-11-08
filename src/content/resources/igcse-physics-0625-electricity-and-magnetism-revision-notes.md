@@ -31,7 +31,9 @@ syllabusTopics:
 description: "Revision notes for Cambridge IGCSE Physics 0625 electricity and magnetism: equations, circuit rules, safety, motors, transformers and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
@@ -247,6 +249,19 @@ The syllabus asks you to "recall and use" all of these.
   <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does Extended only mean in these 0625 notes?**
+Extended only marks Supplement content, which is examined only on Papers 2 and 4. Core content is for every candidate.
+
+**Why does only repulsion prove that an object is a magnet?**
+A magnet also attracts unmagnetised iron or steel by induced magnetism, so attraction alone does not show that the object is magnetised. Only two magnets can repel.
+
+**Which wire do the switch and the fuse go in?**
+Both go in the live wire. With the switch off, the appliance is then disconnected from the high-voltage wire and is safe to touch inside.
+
+**Does a double-insulated appliance need an earth wire?**
+No. Its plastic casing means no earth wire is needed, but the fuse still protects the circuit and the cabling.
 
 ## Official syllabus
 

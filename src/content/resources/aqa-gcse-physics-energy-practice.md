@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "conservation-and-dissipation-of-energy"
-description: "Original exam-style practice questions with full worked answers on energy stores, dissipation, efficiency and insulation for sub-topic 4.1.2 of AQA GCSE Physics 8463."
+description: "Original practice questions with worked answers on energy stores, dissipation, efficiency and insulation for sub-topic 4.1.2 of AQA GCSE Physics (8463)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -111,3 +113,17 @@ Pathways: **mechanically, electrically, by heating, by radiation** [1] [1].
 - Forgetting lubrication as a way to reduce unwanted energy transfer, focusing only on insulation.
 - Describing Required Practical 2 without a fair-test control (identical containers, same starting temperature and volume of water).
 - Accepting an efficiency calculation above 1 (100%) without recognising it signals an error.
+
+## Frequently asked questions
+
+**Are heat and light energy stores?**
+No. Heat and light are ways energy is transferred, not stores. Describe changes in terms of stores such as the thermal store increasing, rather than "heat energy" being made.
+
+**How do you calculate efficiency in AQA GCSE Physics?**
+Efficiency = useful output energy transfer ÷ total input energy transfer, or useful power output ÷ total power input. It has no units and can be given as a decimal or multiplied by 100 for a percentage.
+
+**How should you describe the insulators required practical?**
+Describe identical containers of hot water wrapped in different materials or thicknesses, with temperatures measured at regular intervals. Include fair-test controls, such as the same starting temperature and volume of water.
+
+**What mistakes lose marks in conservation of energy questions?**
+Common errors include saying energy is "lost" or "used up" rather than dissipated, calling heat or light a store, and explaining insulation without mentioning the rate of energy transfer.

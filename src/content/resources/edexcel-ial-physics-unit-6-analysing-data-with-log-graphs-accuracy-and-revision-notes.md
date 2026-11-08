@@ -216,6 +216,20 @@ Straight and passing through the expected point means the model is supported. Cu
 * Giving vague improvements such as "be more careful" or "use better equipment", with no named instrument, variable or effect.
 * Stating a conclusion about a law with no reference to the straight line, the gradient or the scatter.
 
+## Frequently asked questions
+
+**Are error bars expected on graphs in Edexcel IAL Unit 6?**
+No. Error bars are not expected on graphs in this section.
+
+**What does sensitivity mean in Edexcel IAL Physics?**
+Sensitivity is not defined in the specification glossary. Use it for how much an instrument's reading changes for a small change in the quantity being measured.
+
+**How do you judge accuracy when there is no uncertainty?**
+Use the percentage difference, (measured − accepted) / accepted × 100%, and treat a value under 5% as accurate. When the percentage uncertainty is known, check whether the accepted value lies inside the range instead.
+
+**What happens if log₁₀ is used instead of ln for an exponential?**
+The graph is still a straight line, but the gradient is multiplied by 0.434, so it must be converted before finding the constant.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3, Pearson Education Limited, section 6.5 Analysis and the glossary in Appendix 10.

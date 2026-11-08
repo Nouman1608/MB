@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Study guide for AQA GCSE Physics 8463 Topic 7: magnets and fields, electromagnets, the motor effect, F = BIl, generators, microphones and transformers."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -288,6 +290,20 @@ Step-up transformers raise the p.d. for transmission; step-down transformers low
 - Saying transformers work on dc.
 - Mixing up which coil is primary in Vp/Vs = np/ns: keep p with p and s with s.
 - Stating that high p.d. "reduces resistance". It reduces current, and so the I²R loss.
+
+## Frequently asked questions
+
+**Which paper assesses magnetism in AQA GCSE Physics?**
+Topic 7, Magnetism and electromagnetism, is examined on AQA GCSE Physics 8463 Paper 2, with Forces, Waves and Space physics. From Fleming's left-hand rule onwards, and all of section 4.7.3, is Higher tier only.
+
+**How does Fleming's left-hand rule work?**
+Hold your left thumb, first finger and second finger at right angles. The first finger points along the field, the second finger along the current, and the thumb gives the direction of the force (motion).
+
+**Why does a transformer not work with direct current?**
+A transformer needs a changing magnetic field in its core to induce a p.d. in the secondary coil. A steady direct current gives a constant field, so nothing is induced.
+
+**How does a relay work?**
+In a relay, a small current in one circuit magnetises an iron core, which attracts an iron armature and closes contacts in a second circuit. This lets a small current switch on a much larger one.
 
 ## Official syllabus
 

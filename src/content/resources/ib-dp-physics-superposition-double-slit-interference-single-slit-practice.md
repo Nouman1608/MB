@@ -127,6 +127,17 @@ These questions cover **C.3 Wave phenomena (second half)** in the IB *Physics gu
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these IB DP Physics interference questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Which of these wave phenomena questions are HL only?**
+Questions 1 to 6 on superposition and Young's double slit are for SL and HL. Questions 7 to 12 on single-slit diffraction, modulation and gratings are HL only.
+
+**What slips lose marks in interference calculations?**
+Common slips are not converting mm, nm and lines per mm to metres, and swapping the slit width b with the slit separation d.
+
 ## Official syllabus
 
 *Physics guide*, first assessment 2025, International Baccalaureate Organization, sub-topic C.3 Wave phenomena.

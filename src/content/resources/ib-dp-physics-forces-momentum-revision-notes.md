@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-physics-topic-a"
     subtopic: "ib-dp-physics-a-2"
-description: "Condensed SL/HL recall notes on Newton's laws, contact and field forces, momentum, impulse, collisions and circular motion, for sub-topic A.2 of IB Diploma Programme Physics."
+description: "Condensed recall notes on Newton's laws, forces, momentum, impulse, collisions and circular motion for IB DP Physics A.2, identical at SL and HL."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -165,6 +167,20 @@ Setting a consistent positive direction before starting, and treating the revers
 5. Give the formula for centripetal acceleration in terms of angular velocity.
 
 **Answers:** 1. F = Δp/Δt. 2. Normal force, friction, tension, elastic restoring force (Hooke's law), viscous drag, and buoyancy — a contact force arising from the pressure difference a fluid exerts on the top and bottom of a submerged object, not a field force. 3. Momentum: yes, always conserved. Kinetic energy: no, only in elastic collisions. 4. Whichever named real force (tension, gravity, friction, normal force) is providing the centre-directed resultant in that specific scenario. 5. a = ω²r.
+
+## Frequently asked questions
+
+**Is buoyancy a field force?**
+No. Buoyancy, Fb = ρVg, is a contact force arising from the pressure difference a fluid exerts on the top and bottom of a submerged object.
+
+**Which field forces are named in IB DP Physics A.2?**
+The named field forces are the gravitational force (weight, Fg = mg), the electric force and the magnetic force.
+
+**Is momentum conserved in every collision?**
+Yes, provided no external resultant force acts. Kinetic energy, by contrast, is conserved only in elastic collisions.
+
+**Why must a positive direction be chosen in impulse questions?**
+A rebounding object reverses its velocity, so it must be treated as negative. Setting a consistent positive direction first avoids the sign error that most often loses marks.
 
 ## Official syllabus
 

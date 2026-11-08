@@ -156,6 +156,20 @@ These questions cover the additional higher level part of sub-topic D.2, Electri
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics electric potential questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these electric potential questions for SL or HL?**
+Every question is HL only. They cover the additional higher level part of sub-topic D.2, Electric and magnetic fields.
+
+**What constants do these questions use?**
+Use k = 8.99 × 10⁹ N m² C⁻² and e = 1.60 × 10⁻¹⁹ C unless a question gives other data.
+
+**What slips lose marks in electric potential calculations?**
+Common slips are not converting cm, mm or nm to metres, and using r² in the potential or potential energy formula, which should have r.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic D.2 Electric and magnetic fields, additional higher level.

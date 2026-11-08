@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "forces-and-their-effects-oxfordaqa-igcse"
-description: "Forces and their interactions, motion, resultant forces, momentum, terminal velocity, centre of mass, and moments -- the full content of Topic 1 for OxfordAQA International GCSE Physics (9203)."
+description: "Forces, motion, resultant forces, momentum, safety, terminal velocity, centre of mass and moments: Topic 1 of OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -290,3 +292,17 @@ Treating the driving force as the resultant force — the resultant is what is l
 - Calculate momentum (p = mv) and apply conservation of momentum to a simple collision.
 - Explain how centre of mass and base width affect an object's stability.
 - Calculate a moment (force x perpendicular distance) and apply the principle of moments to a balanced object.
+
+## Frequently asked questions
+
+**How is OxfordAQA International GCSE Physics 9203 assessed?**
+It is a linear qualification of 120 guided learning hours, with all exams at the end of the course.
+
+**What is the required practical in OxfordAQA IGCSE forces?**
+Investigating the extension of a spring: load it with increasing known forces, measure each extension, and plot force against extension. The gradient gives the spring constant and the curve marks the limit of proportionality.
+
+**Which content is only in the full Physics award?**
+Content marked P in the official specification is assessed only in the full Physics (9203) award and is not shared with International GCSE Combined Science (9204).
+
+**Are the weight of a book and the table's push on it a Newton's third law pair?**
+No. Both act on the same object, the book, so they are a first-law balance. A third-law pair acts on two different bodies and is the same type of force.

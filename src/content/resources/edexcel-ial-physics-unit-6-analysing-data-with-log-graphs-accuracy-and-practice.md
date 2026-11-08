@@ -151,6 +151,20 @@ These questions cover section 6.5 Analysis of Unit 6: Practical Skills in Physic
 * [All free 10-minute diagnostics](/diagnostics/)
 * [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these Edexcel IAL Unit 6 questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board or school.
+
+**Which part of the Edexcel IAL Physics specification do these questions cover?**
+They cover section 6.5 Analysis of Unit 6: Practical Skills in Physics II in the YPH11 specification, Issue 3.
+
+**Is Unit 6 tiered?**
+No. Unit 6 is an IA2 unit and has no tiers.
+
+**What mistakes lose marks in Unit 6 analysis questions?**
+Common errors include including the unit inside a logarithm or labelling a log axis with no unit information, using precise and accurate interchangeably, and suggesting improvements that are vague or unrealistic.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3, Pearson Education Limited, section 6.5 Analysis.

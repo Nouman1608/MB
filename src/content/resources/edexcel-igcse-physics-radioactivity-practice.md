@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on radiation types, half-life, nuclear equations and safety for Edexcel IGCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -131,3 +133,14 @@ Related: [Radioactivity revision notes](/resources/edexcel-igcse-physics-radioac
 - Confusing the roles of control rods (absorb neutrons) and the moderator (slows neutrons) in a reactor.
 - Describing fusion without mentioning the need to overcome electrostatic repulsion between nuclei.
 - Confusing contamination (material transferred, ongoing risk) with irradiation (external exposure, stops when the source is removed).
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE radioactivity questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which real past paper question can I try next?**
+Try Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 8, whose mark scheme is paraphrased on this page.
+
+**Which specification do these questions follow?**
+They follow the Pearson Edexcel International GCSE Physics (4PH1) content on radiation types, half-life, nuclear equations, fission, fusion and safety.

@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-waves-and-electricity"
     subtopic: "electric-circuits"
-description: "Original exam-style practice questions with full worked answers on drift velocity, resistivity, internal resistance and potential dividers for Edexcel IAL Physics."
+description: "Original practice questions with worked answers on drift velocity, resistivity, internal resistance and potential dividers for Edexcel IAL Physics (YPH11)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -109,3 +111,17 @@ Related: [Electric Circuits revision notes](/resources/edexcel-ial-physics-elect
 - Using the wrong resistance in the potential divider ratio.
 - Mixing up ρ, R and A in the resistivity equation, or forgetting to convert area to m².
 - Forgetting that power dissipated in the external resistor and the power wasted internally must be calculated separately.
+
+## Frequently asked questions
+
+**What is the difference between e.m.f. and terminal p.d.?**
+E.m.f. is the energy supplied to each coulomb by the source, while terminal p.d. is what is available across the external circuit. They differ by the lost volts across the internal resistance: V = E − Ir.
+
+**What do Kirchhoff's laws express?**
+Kirchhoff's first law, that current into a junction equals current out, expresses conservation of charge. The second law, that the sum of e.m.f.s equals the sum of p.d.s around a loop, expresses conservation of energy.
+
+**How does a wire's resistance change with its length and area?**
+From R = ρl/A, doubling the length doubles the resistance, and doubling the cross-sectional area halves it. Resistivity itself is a property of the material and does not change.
+
+**What mistakes lose marks in Edexcel IAL electric circuits questions?**
+Common errors include confusing the thermistor and filament lamp characteristics, using the wrong resistance in the potential divider ratio, forgetting to convert area to m², and mixing up the power wasted inside the cell with the power in the external resistor.

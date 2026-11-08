@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "nuclear-and-particle-physics"
-description: "Condensed recall notes on the standard model, particle accelerators, mass-energy equivalence and conservation rules for Edexcel International A Level Physics YPH11 (Unit 4, WPH14)."
+description: "Recall notes on quarks and leptons, antiparticles, conservation rules, accelerators and mass-energy equivalence for Edexcel IAL Physics YPH11 (Unit 4, WPH14)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -149,3 +151,16 @@ In accelerator collisions the kinetic energy of the colliding particles can beco
   <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Are exchange particles examinable in Edexcel IAL Physics?**
+No. The exchange particles in the fundamental forces table, strangeness and synchrotrons are background beyond the specification.
+
+**Do leptons feel the strong force?**
+No. Only hadrons, which are baryons and mesons, feel the strong force. Saying leptons feel it is a common exam error.
+
+**Why does annihilation produce two photons?**
+Two photons travelling in opposite directions are needed so that momentum is conserved. For an electron and positron at rest, each photon carries 0.511 MeV.
+
+**What energy is needed to create an electron-positron pair?**
+At least the combined rest energy of the two particles, which is 1.02 MeV.

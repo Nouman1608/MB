@@ -163,6 +163,20 @@ These questions cover section C.4 (standing waves and resonance) of the IB *Phys
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics standing wave questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these standing wave questions for SL or HL?**
+Both. Section C.4, standing waves and resonance, is common to SL and HL.
+
+**What value of the speed of sound do these questions use?**
+Where a question needs the speed of sound in air, it is given as 340 m s⁻¹.
+
+**How should harmonics be numbered?**
+Number from the lowest frequency, the first harmonic, upwards. Numbering from a higher mode is a common way to lose marks.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C.4, standing waves and resonance.

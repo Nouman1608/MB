@@ -26,7 +26,9 @@ syllabusTopics:
 description: "Condensed recall notes on SI units, homogeneity, scalars and vectors, uncertainty and errors for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -187,3 +189,16 @@ Raising to a power **multiplies** the percentage uncertainty by that power — a
   <figcaption>A positive zero error is subtracted from every reading; repeating does not remove it.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does homogeneity of an equation prove?**
+A homogeneous equation has the same base units on both sides, so it could be correct, but this does not prove it is. It could still be wrong by a dimensionless constant, as with s = ut + at² compared with s = ut + ½at².
+
+**How do you resolve a vector into components?**
+A vector F at angle θ to the horizontal has a horizontal component F cos θ and a vertical component F sin θ. Use cosine for the component adjacent to the angle.
+
+**What is the uncertainty in a reading from a scale?**
+The uncertainty of a single reading is usually half the smallest scale division. A measurement needing two readings, such as a length between two marks, has double the uncertainty.
+
+**What is the difference between precision and accuracy?**
+Precise means repeat readings agree closely with each other; accurate means close to the true value. Precision reflects the size of random error and accuracy the size of systematic error, so data can be precise but not accurate.

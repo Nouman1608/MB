@@ -222,6 +222,20 @@ An **ideal ammeter** has zero resistance. An **ideal voltmeter** has infinite re
 - Treating terminal p.d. as equal to emf when current flows.
 - Saying resistance rises because "electrons slow down" without mentioning lattice collisions.
 
+## Frequently asked questions
+
+**Are alternating current circuits required for IB DP Physics B.5?**
+No. The guide says alternating current circuits are not required, and that ammeters and voltmeters are ideal unless the question says otherwise.
+
+**Where do I find the circuit symbols for IB DP Physics?**
+The guide refers you to the Physics data booklet for the circuit symbols you need, such as the cell, switch, lamp, resistor, thermistor, LDR and meters.
+
+**Is resistance the gradient of an I-V graph?**
+No. Resistance R = V/I is a ratio at one point. It equals the gradient only for a straight-line graph through the origin.
+
+**What happens to total resistance when a resistor is added in parallel?**
+Adding a resistor in parallel always lowers the total, so the combined resistance is smaller than the smallest branch. Adding one in series always raises it.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic B.5 Current and circuits.

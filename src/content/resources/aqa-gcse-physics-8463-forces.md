@@ -37,7 +37,9 @@ syllabusTopics:
 description: "AQA GCSE Physics 8463 Forces taught from scratch: resultant forces, springs, moments, fluid pressure, motion graphs, Newton's laws, braking and momentum."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -411,6 +413,20 @@ playground surfaces increase the stopping time, so they reduce the force.
 - Reading speed off a velocity–time graph gradient.
 - Forgetting to square both velocities in v² − u² = 2as.
 - Naming weight and the normal force on the same book as a Newton's third law pair.
+
+## Frequently asked questions
+
+**Which forces equations must be recalled for AQA GCSE Physics?**
+Equations such as W = mg, W = Fs, F = ke, M = Fd, p = F/A, s = vt, a = Δv/t and F = ma must be recalled. Eₑ = ½ke², v² − u² = 2as and the Higher tier equations p = hρg and F = mΔv/Δt are given on the equation sheet.
+
+**What is a moment and how do you calculate it?**
+A moment is the turning effect of a force, M = Fd, where d is the perpendicular distance from the pivot to the line of action. When an object is balanced, the total clockwise moment equals the total anticlockwise moment.
+
+**What is required practical 6 in AQA GCSE Physics?**
+Required practical 6 investigates how the extension of a spring depends on the force applied. Plot force against extension; the gradient of the straight section is the spring constant k.
+
+**Why does atmospheric pressure decrease with height?**
+The atmosphere gets less dense with height, so higher up there is less air above a surface and fewer air molecules collide with it, giving a lower pressure.
 
 ## Official syllabus
 

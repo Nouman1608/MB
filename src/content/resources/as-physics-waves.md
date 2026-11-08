@@ -26,10 +26,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-waves"
     subtopic: "as-polarisation"
-description: "Progressive wave terms and the wave equation, transverse vs longitudinal waves, the Doppler effect, the electromagnetic spectrum, and polarisation, for Cambridge International AS & A Level Physics 9702."
+description: "Progressive waves, v = fλ, intensity, transverse and longitudinal waves, the Doppler effect, EM spectrum and polarisation: Topic 7 of Cambridge 9702 Physics."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
@@ -285,6 +287,20 @@ difference
 - The electromagnetic spectrum, in order, with the visible range
 - Malus's law, I = I₀cos²θ
 
+## Frequently asked questions
+
+**What is a progressive wave?**
+A progressive wave transfers energy from one place to another without transferring matter. Each part of the medium oscillates about a fixed position while the wave moves along.
+
+**How is a ripple tank used to measure wavelength?**
+A lamp above the tank projects the crests as bright lines on a screen. A stroboscope flashing at the wave frequency makes the pattern appear still, so you can measure across several wavelengths and find the speed from v = fλ.
+
+**What is the order of the electromagnetic spectrum?**
+In order of increasing frequency and decreasing wavelength: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays. Visible light is about 400 to 700 nm.
+
+**What is the difference between phase difference and path difference?**
+Phase difference is an angle or fraction of a cycle showing how far out of step two points or waves are. Path difference is a distance; the two are related through the wavelength but are not the same quantity.
+
 ## Related resources
 
 - [Superposition: Stationary Waves, Diffraction and Interference](/resources/as-physics-superposition/) — the next AS topic, building directly on wave terms introduced here
@@ -303,4 +319,3 @@ series. Always check the current syllabus for your examination year.*
   <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
   <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
 </figure>
-

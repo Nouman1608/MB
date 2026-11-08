@@ -203,6 +203,20 @@ Alpha radiation is stopped by paper or a few centimetres of air, so it is no use
 - HL: rounding λ to one figure before it enters the exponent.
 - HL: using λΔt as a probability when it is not small.
 
+## Frequently asked questions
+
+**Which parts of IB DP Physics E.3 radioactive decay are HL only?**
+The decay constant, the exponential decay law and calculations over arbitrary time intervals are HL only. Everything else on activity, half-life and background applies to SL and HL.
+
+**Does the background count rate halve as well?**
+No. Only the source's contribution decays, so subtract the background, halve the corrected rate, then add the background back if the question asks for the reading.
+
+**Does half-life depend on the amount of sample?**
+No. On average it takes just as long to halve from 100 nuclei as from 10⁶ nuclei.
+
+**When is λΔt the probability of decay?**
+Only when λΔt is much less than 1. The exact probability that a given nucleus decays in Δt is 1 − e^(−λΔt).
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic E.3, Radioactive decay.

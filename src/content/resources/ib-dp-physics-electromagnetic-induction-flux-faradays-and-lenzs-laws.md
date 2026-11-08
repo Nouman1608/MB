@@ -220,6 +220,20 @@ A changing current in a coil changes its own flux, and so induces an emf in that
 - Saying that Lenz's law opposes the **field** rather than the **change** in flux.
 - Forgetting to use ω = 2πf, which makes the peak emf wrong by a factor of 2π.
 
+## Frequently asked questions
+
+**Is inductance required for IB DP Physics D.4?**
+No. Self-induction is needed as a qualitative description only; inductance and circuits with resistors and inductors are not required.
+
+**How long is IB DP Physics D.4 Induction?**
+D.4 is allotted 6 hours and is HL only. SL students can skip it.
+
+**Which induction calculations does the guide expect?**
+The guide limits calculations to straight conductors that cross a field at 90° and to rectangular coils that enter, leave or rotate in a field.
+
+**What examples of induced emf must I recognise?**
+The guide names three groups: time-varying magnetic fields, coils rotating in a uniform field, and relative motion between a magnet and a coil.
+
 ## Official syllabus
 
 This page follows sub-topic D.4 (Induction) of the IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. D.4 is additional higher level content only.

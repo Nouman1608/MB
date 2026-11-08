@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Thirteen original Cambridge IGCSE Physics 0625 space physics questions, Core and Extended, with fully worked mark-by-mark answers and examiner tips."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
@@ -202,6 +204,20 @@ Related: [study guide](/resources/igcse-physics-0625-space-physics/), [revision 
 - [Cambridge IGCSE Physics hub](/boards/cambridge/igcse/physics/) and [printable checklist](/checklists/cambridge/igcse/physics/).
 - Free [0625 Core diagnostic](/practice/0625/diagnostic/core/) or [0625 Extended diagnostic](/practice/0625/diagnostic/extended/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Are these 0625 space physics questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board or school.
+
+**Which space physics questions are Core and which are Extended?**
+Questions 1 to 7 and Question 13 use Core content only, and every candidate should do them. Questions 8 to 12 are marked Extended and include Supplement content examined only on Papers 2 and 4.
+
+**What constants do these questions use?**
+Where needed, use speed of light = 3.0 × 10⁸ m/s, 1 light-year = 9.5 × 10¹⁵ m, H₀ = 2.2 × 10⁻¹⁸ per second and 1 day = 86 400 s.
+
+**Are the marks shown an official mark scheme?**
+No. The marks are indicative only and give a rough guide to how much detail each part needs.
 
 ## Official syllabus
 

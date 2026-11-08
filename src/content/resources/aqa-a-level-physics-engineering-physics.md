@@ -220,6 +220,20 @@ COP can exceed 1. Practical device cycles are not required.
 - Sign errors in Q = ΔU + W, or °C in temperature formulas.
 - One cycle per revolution in a four-stroke engine.
 
+## Frequently asked questions
+
+**How is Engineering physics assessed in AQA A-level Physics?**
+Engineering physics, section 3.11, is one of five A-level only options in AQA 7408. It is assessed in Paper 3 Section B, worth 35 marks, and questions may use unfamiliar contexts with the information you need given.
+
+**What are flywheels used for?**
+Flywheels store rotational kinetic energy, E_k = ½Iω². The AQA specification names smoothing torque and speed in engines, storing braking energy in vehicles, and releasing stored energy quickly in production machines such as presses.
+
+**How do rotational quantities relate to linear ones?**
+Displacement, velocity, acceleration, mass and force correspond to θ, ω, α, I and T. So F = ma becomes T = Iα, ½mv² becomes ½Iω², momentum mv becomes Iω and power Fv becomes Tω.
+
+**What is the difference between a petrol and a diesel engine cycle?**
+In the theoretical petrol cycle, heat is taken in and rejected at constant volume, and a spark ignites the fuel. In a diesel engine, air alone is compressed until hot enough to ignite injected fuel, and heat is taken in at constant pressure.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.11 Engineering physics (A-level only option).

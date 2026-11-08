@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "energy-changes-in-a-system"
-description: "Original exam-style practice questions with full worked answers on kinetic, elastic potential and gravitational potential energy, specific heat capacity and power for AQA GCSE Physics 8463."
+description: "Original practice questions with worked answers on kinetic, elastic and gravitational potential energy, heat capacity and power for AQA GCSE Physics 8463."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -106,3 +108,17 @@ Exam questions do not ask you to name the specification sub-topic they come from
 ## Approaching multi-step calculation questions
 
 Several questions above ask for a value in one part and a comparison or explanation in the next. Calculate the number first, write it down clearly with units, and only then answer the "why" or "which" part by referring back to that number — examiners award the explanation mark independently of the calculation mark, but only if the reasoning actually uses the figures you found, rather than repeating the rule in words alone.
+
+## Frequently asked questions
+
+**Which AQA GCSE Physics sub-topic do these energy questions cover?**
+These questions cover sub-topic 4.1.1, Energy changes in a system, of AQA GCSE Physics 8463: energy stores, kinetic, elastic and gravitational potential energy, specific heat capacity and power.
+
+**Which height do you use in a g.p.e. calculation?**
+Use the change in height, the height actually gained or fallen, not the total height above the ground.
+
+**How should you answer multi-part calculation questions?**
+Calculate the value first and write it down clearly with units, then answer the "why" or "which" part by referring back to that number rather than restating the rule in words.
+
+**What mistakes lose marks in energy calculations?**
+Common errors include forgetting the ½ in the kinetic and elastic potential energy equations, mixing up mass and weight in mgh, and treating power and energy as the same quantity.

@@ -194,6 +194,19 @@ Always convert before substituting. A power in kW combined with a time in hours 
   <figcaption>Arrow widths are proportional to energy, and the outputs add up to the input.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is there HL-only content in IB DP Physics A.3?**
+No. SL and HL study the same content in A.3, Work, energy and power, because the guide has no extra HL-only material here.
+
+**Is energy always conserved even when mechanical energy is not?**
+Yes. Total energy is always conserved. Mechanical energy is conserved only when no friction or other resistive forces act; otherwise some is transferred to thermal energy.
+
+**What is the difference between energy density and efficiency?**
+Energy density is how much energy a fuel can release per unit volume. Efficiency is how much of that input energy becomes useful output.
+
+**When can P = Fv be used for power?**
+P = Fv applies for a constant force acting along a constant velocity. It should not be used when the force is not along the velocity or the velocity is changing.
 
 ## Official syllabus
 

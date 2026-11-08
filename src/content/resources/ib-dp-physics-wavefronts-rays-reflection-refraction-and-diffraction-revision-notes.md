@@ -197,6 +197,20 @@ Speed, wavelength and frequency do not change on diffraction. The wavefront shap
 - Saying total internal reflection happens "when light goes from dense to less dense" without giving the angle condition.
 - Rounding too early. Keep the sine to four figures until the end.
 
+## Frequently asked questions
+
+**Does diffraction change the wavelength of a wave?**
+No. Speed, wavelength and frequency do not change on diffraction; only the wavefront shape and the spread of the wave change.
+
+**Is there a critical angle for light going from air into glass?**
+No. Going into a higher refractive index the ray bends towards the normal, so the refracted angle can never reach 90° and no critical angle exists.
+
+**What is the difference between refraction and diffraction?**
+Refraction needs a change of medium and a change of speed. Diffraction can happen in a single medium and needs an aperture or an edge.
+
+**What happens when the angle of incidence equals the critical angle?**
+The refracted ray travels along the boundary. Above the critical angle there is total internal reflection; below it the ray is partly reflected and partly refracted.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization: sub-topic C.3 Wave phenomena (first half of the understandings).

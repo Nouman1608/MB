@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Eleven original AQA GCSE Physics 8463 Space physics questions on star life cycles, orbits, satellites, red-shift and the Big Bang, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -194,6 +196,20 @@ Explain why the satellite is accelerating. **[3]**
 - [Printable checklist](/checklists/aqa/gcse/physics/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which AQA GCSE Physics paper assesses space physics?**
+Topic 8, Space physics, is examined on AQA GCSE Physics 8463 Paper 2, at Foundation and Higher tier. Orbital motion statements in 4.8.1.3 are Higher tier only.
+
+**How are 6-mark space physics questions marked?**
+Six-mark questions are marked by levels of response. A top-level answer needs a clear, logical sequence that covers every part of the question, not just a list of facts.
+
+**How do you calculate a percentage change in wavelength for red-shift?**
+Subtract the laboratory wavelength from the observed wavelength, divide by the laboratory value, and multiply by 100. Dividing by the observed wavelength instead loses the accuracy mark.
+
+**What mistakes lose marks in space physics questions?**
+Common errors include saying the Sun formed from an explosion, naming red giant instead of red super giant for massive stars, saying all elements come from supernovae, and forgetting to convert nanometres to metres.
 
 ## Official syllabus
 

@@ -214,6 +214,20 @@ Reminder: Q_h = 1200 J from a reservoir at 600 K, Q_c = 800 J to one at 300 K. W
 - Treating Carnot efficiency as something real engines reach.
 - Ignoring the sign convention: Q_c in W = Q_h − Q_c is a positive quantity of rejected energy.
 
+## Frequently asked questions
+
+**What is the difference between an isolated and a closed system?**
+An isolated system lets no mass and no energy enter or leave. A closed system has no mass transfer, but energy can cross the boundary as heat or work.
+
+**Why does a system move towards the macrostate with the most microstates?**
+Because that macrostate is overwhelmingly more probable, not because of a force. The mixed macrostate has the largest Ω and the highest entropy.
+
+**Can the entropy of a system ever fall?**
+Yes, if the system is not isolated. Its entropy can fall locally provided the surroundings gain an equal or greater amount, so the total does not decrease.
+
+**Where are the first law and gas processes covered?**
+The first law and the gas processes belong to the other half of B.4 and are covered separately, not in these notes.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This resource follows the second half of sub-topic B.4, Thermodynamics, which is entirely additional higher level.

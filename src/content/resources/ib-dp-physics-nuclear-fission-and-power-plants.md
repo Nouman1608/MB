@@ -230,6 +230,20 @@ A fission plant releases little carbon dioxide while running, and a small mass o
 - Saying the heat exchanger makes steam from the core coolant directly.
 - Stating that waste "stays radioactive for ever". Give half-lives and compare time scales.
 
+## Frequently asked questions
+
+**How long is IB DP Physics E.4 Fission?**
+The guide suggests about four hours of teaching for E.4, with the same content for SL and HL.
+
+**Where does most of the energy from fission go?**
+Most appears as kinetic energy of the fission fragments, driven apart by electric repulsion, which collisions turn into thermal energy. Smaller shares go to neutrons, gamma rays and later beta decay.
+
+**Do I need the moderator energy formula for IB DP Physics?**
+No. The fraction ((A − 1)/(A + 1))² of kinetic energy kept by a neutron is a supporting argument for using light nuclei, not a stated requirement.
+
+**Does nuclear fission help with climate change?**
+A fission plant releases little carbon dioxide while running, but waste, accident risk, mining impacts and cost weigh against it. An evaluation should give a point on each side and reach a judgment.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page paraphrases sub-topic E.4, Fission.

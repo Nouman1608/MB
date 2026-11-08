@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "further-mechanics"
-description: "Impulse, two-dimensional momentum conservation, elastic and inelastic collisions, and circular motion for sub-topic 4.3 of Pearson Edexcel International A Level Physics (YPH11), Unit 4."
+description: "Impulse, two-dimensional momentum conservation, elastic and inelastic collisions, and circular motion: sub-topic 4.3 of Edexcel IAL Physics (YPH11), Unit 4."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -175,6 +177,20 @@ do; momentum is conserved in both elastic and inelastic collisions.
 - Convert between radians and degrees, and use v = ωr and ω = 2π/T.
 - Derive and use a = v²/r = ω²r for centripetal acceleration.
 - Explain why circular motion requires a resultant centripetal force, and use F = ma = mv²/r = mω²r.
+
+## Frequently asked questions
+
+**What is impulse?**
+Impulse is force multiplied by the time it acts, FΔt, which equals the change in momentum Δp. It is a restatement of Newton's second law in terms of momentum.
+
+**How is momentum conserved in two dimensions?**
+Momentum is a vector, so the total momentum before an interaction equals the total after, with the components in two perpendicular directions conserved independently.
+
+**How do you tell if a collision is elastic?**
+Compare the total kinetic energy before and after. If it is conserved the collision is elastic; if not it is inelastic, but momentum is conserved in both cases.
+
+**How is Unit 4 assessed in Edexcel IAL Physics?**
+Unit 4 is a compulsory, externally assessed IA2 unit, examined by a 1 hour 45 minute paper worth 90 marks.
 
 ## Related resources
 

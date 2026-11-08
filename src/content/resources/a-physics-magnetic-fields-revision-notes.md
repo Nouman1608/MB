@@ -29,7 +29,9 @@ syllabusTopics:
 description: "Condensed recall notes on F = BIL, F = BQv, flux, electromagnetic induction and Faraday\u2019s and Lenz\u2019s laws for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -185,3 +187,17 @@ For a coil rotating at angular frequency ω, the e.m.f. varies sinusoidally with
 8. A wire of length 0.20 m carries 5.0 A perpendicular to a 0.30 T field. Find the force, and state what happens if the wire instead runs parallel to the field.
 
 **Answers:** 1. First finger = field, second finger = current, thumb = motion (force); all mutually perpendicular. 2. A circle — the force is always perpendicular to the velocity, so it changes direction continuously but does no work, leaving the speed and kinetic energy constant. 3. r = mv/(BQ). 4. Faraday: the induced e.m.f. is proportional to the rate of change of flux linkage. Lenz: the induced e.m.f. acts to oppose the change causing it. 5. If the induced effect reinforced the change, the change would grow without limit and energy would be created from nothing; opposing it means work must be done to sustain the change. 6. The flux density that produces a force of 1 N per metre of conductor carrying 1 A, perpendicular to the field. 7. F = BQv = 0.50 × 1.6×10⁻¹⁹ × 2.0×10⁶ = **1.6×10⁻¹³ N**. 8. F = BIL = 0.30 × 5.0 × 0.20 = **0.30 N**; parallel to the field, θ = 0° so sin θ = 0 and the force is zero.
+
+## Frequently asked questions
+
+**How is the tesla defined?**
+One tesla is the magnetic flux density that produces a force of 1 N per metre of conductor carrying a current of 1 A, when the conductor is perpendicular to the field.
+
+**What is the difference between magnetic flux and flux linkage?**
+Magnetic flux is Φ = BA cos θ, measured in webers, with θ measured from the normal to the area. Flux linkage is NΦ, the flux multiplied by the number of turns of the coil, and Faraday's law is stated in terms of flux linkage.
+
+**Does a magnetic field do work on a moving charge?**
+No. The magnetic force is always perpendicular to the velocity, so it changes the direction of motion but not the speed, and the kinetic energy stays constant.
+
+**How do you increase the e.m.f. induced by a magnet moving into a coil?**
+Move the magnet faster, use a stronger magnet, or use a coil with more turns; each raises the rate of change of flux linkage. A larger coil area does not help with a bar magnet, because a wider loop also encloses the magnet's return field.

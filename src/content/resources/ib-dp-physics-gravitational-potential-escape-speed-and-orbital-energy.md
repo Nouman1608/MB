@@ -269,6 +269,20 @@ For example, a 640 kg satellite sinking from 2.49 × 10⁷ m to 2.45 × 10⁷ m 
 
 Show the substitution for Vg before the numbers. For "explain" questions on drag, a chain of linked statements (energy lost, smaller r, larger speed) tends to earn more credit than a single claim, and including units on every potential, energy and speed shows careful working.
 
+## Frequently asked questions
+
+**Why is gravitational potential energy negative?**
+Gravity is attractive, so the bodies pull themselves together and the work done to assemble the system from infinity is negative. Ep is negative at every finite separation and rises towards zero at infinity.
+
+**Can mgh be used for large changes in height?**
+No. Gravitational field strength falls with height, so mgh overestimates the work. Use W = mΔVg; for small height changes the two agree closely.
+
+**Is a satellite in a larger orbit faster or slower?**
+Slower. The orbital speed √(GM/r) falls as r increases, even though the total energy of the larger orbit is higher, closer to zero.
+
+**Where is the SL part of IB DP Physics D.1 covered?**
+Kepler's laws, Newton's law of gravitation, field strength and field lines are taught separately. This page assumes you already know g = GM/r².
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D.1, additional higher level part.

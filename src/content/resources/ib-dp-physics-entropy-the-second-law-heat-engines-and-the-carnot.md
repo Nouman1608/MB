@@ -250,6 +250,20 @@ The engine's own entropy is unchanged after a full cycle, so the total gain is i
 - Writing Ω for a coin macrostate as 2^N. That is the total number of microstates.
 - Giving ΔS for a reservoir with the wrong sign: energy leaving a reservoir gives a negative ΔS.
 
+## Frequently asked questions
+
+**What does disorder mean when describing entropy?**
+In this context disorder means a count of the possible arrangements of the particles, not untidiness. A gas has far more arrangements than a cold solid, so it has higher entropy.
+
+**Is it impossible for a gas to gather back into one half of a box?**
+It is not forbidden, merely overwhelmingly improbable: all particles in one half is a single microstate among 2^N equally likely ones.
+
+**How is the work done by a heat engine shown on a p-V diagram?**
+The area enclosed by the loop on a pressure-volume diagram equals the net work done per cycle.
+
+**Is the first law taught in this guide?**
+No. The first law, work done by a gas and the named gas processes belong to the other half of B.4 and are taught separately.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This resource follows the second half of sub-topic B.4, Thermodynamics, which is entirely additional higher level.

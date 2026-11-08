@@ -211,6 +211,20 @@ Always say what R does as V rises, and give the reason, not only the shape.
 - Explaining the heating effect without naming the lattice ions and collisions.
 - Giving only an advantage when a question asks you to compare sources.
 
+## Frequently asked questions
+
+**Is there additional HL content in IB DP Physics B.5?**
+No. The guide lists no additional higher level content for B.5, so these notes apply to SL and HL alike.
+
+**How do you treat a non-ideal meter?**
+The guide says a non-ideal meter's resistance is constant, so treat it as an extra resistor in the circuit and recalculate.
+
+**What is the difference between resistance and resistivity?**
+Resistance depends on the size and shape of a conductor. Resistivity, ρ = RA/L, depends only on the material and its temperature.
+
+**What does a potentiometer do?**
+A potentiometer is a resistor with a sliding contact across a supply. Moving the slider changes the fraction of the supply p.d. at the output, from zero to the full value.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic B.5 Current and circuits.

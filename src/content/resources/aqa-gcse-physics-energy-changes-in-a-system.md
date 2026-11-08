@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "energy-changes-in-a-system"
-description: "Energy stores, kinetic and elastic potential and gravitational potential energy, specific heat capacity, and power, for sub-topic 4.1.1 of AQA GCSE Physics (8463)."
+description: "Energy stores, kinetic, elastic and gravitational potential energy, specific heat capacity and power: sub-topic 4.1.1 of AQA GCSE Physics (8463)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
@@ -227,6 +229,20 @@ time. Mixing up mass (kg) and weight when substituting into g.p.e. = mgh.
 - Use ∆E = mc∆θ and define specific heat capacity.
 - Describe Required practical activity 1 (specific heat capacity).
 - Use P = E/t and P = W/t, and state that 1 J/s = 1 W.
+
+## Frequently asked questions
+
+**What is a system in GCSE Physics?**
+A system is an object or group of objects. When a system changes, the way its energy is stored changes, for example from a kinetic store to a gravitational potential store as a ball rises.
+
+**What are the equations for kinetic, elastic and gravitational potential energy?**
+Kinetic energy is Ek = ½mv², elastic potential energy is Ee = ½ke² (within the limit of proportionality), and gravitational potential energy is Ep = mgh.
+
+**What is required practical activity 1 in AQA GCSE Physics?**
+Required practical activity 1 determines the specific heat capacity of one or more materials, linking the decrease of one energy store, or work done such as by an electric heater, to the rise in temperature and thermal energy stored.
+
+**What is power?**
+Power is the rate at which energy is transferred or work is done, P = E/t or P = W/t. A transfer of 1 joule per second is a power of 1 watt.
 
 ## Related resources
 

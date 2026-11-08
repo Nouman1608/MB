@@ -28,7 +28,9 @@ syllabusTopics:
 description: "Twelve original AQA GCSE Physics 8463 Atomic structure questions on isotopes, decay equations, half-life, radiation uses and fission, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -189,6 +191,20 @@ lists every point.
 - [Printable AQA GCSE Physics checklist](/checklists/aqa/gcse/physics/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which AQA GCSE Physics paper assesses atomic structure?**
+Section 4.4 Atomic structure of AQA GCSE Physics 8463 is assessed on Paper 1, at both Foundation and Higher Tier. Calculating net decline as a ratio is Higher tier only.
+
+**How do you choose the right radioactive source for a job?**
+Decide what the radiation must do, pick alpha, beta or gamma from its penetration and ionising power, then choose a half-life long enough for the job but short enough to limit the hazard. Give a reason for rejecting each other option.
+
+**What is the difference between contamination and irradiation?**
+Contamination means radioactive atoms are on or in an object, so the hazard continues while they decay. Irradiation means the object is exposed to radiation from outside; it does not become radioactive and the hazard stops when the source is removed.
+
+**How are 6-mark questions marked in AQA GCSE Physics?**
+AQA marks 6-mark answers by level. Top-level answers link each observation to its conclusion rather than simply listing facts.
 
 ## Official syllabus
 

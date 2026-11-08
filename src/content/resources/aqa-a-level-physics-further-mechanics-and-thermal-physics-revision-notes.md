@@ -195,6 +195,20 @@ Test yourself with the [practice questions](/resources/aqa-a-level-physics-furth
 - Treating mean speed and c_rms as the same quantity.
 - Skipping the "mean u² = ⅓(c_rms)²" step, or not explaining it, in the kinetic theory derivation.
 
+## Frequently asked questions
+
+**Does the period of a pendulum depend on amplitude?**
+No. The periods of a mass-spring system and of a simple pendulum do not depend on amplitude, although pendulum SHM relies on the small-angle approximation sin θ ≈ θ. A pendulum's period is also independent of the bob's mass.
+
+**What is the difference between temperature and internal energy?**
+Temperature measures the mean kinetic energy per particle. Internal energy is the sum of the randomly distributed kinetic and potential energies of all the particles, so it also depends on how many particles there are.
+
+**What is the difference between mean speed and r.m.s. speed?**
+The root mean square speed is the square root of the mean of the squared speeds, which is not the same as the mean speed. For speeds of 200, 400 and 600 m s⁻¹ the mean is 400 m s⁻¹ but c_rms is about 432 m s⁻¹.
+
+**What does Brownian motion show?**
+Brownian motion, the random movement of visible particles, is evidence for the existence of moving molecules that collide with them.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.6 Further mechanics and thermal physics (A-level only).

@@ -20,10 +20,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-medical-physics"
     subtopic: "a-pet-scanning"
-description: "The production and diagnostic use of ultrasound, the production and use of X-rays, and the principles of PET scanning, for Cambridge International AS & A Level Physics 9702."
+description: "Ultrasound and acoustic impedance, X-ray production and attenuation, CT scanning and PET annihilation photons: Topic 24 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -309,6 +311,20 @@ higher dose.
 - Computed tomography: rotating the X-ray source/detectors to build a 3-D image, at the cost of a higher dose
 - PET scanning: positron emission, annihilation, and paired 0.511 MeV gamma-ray detection, from E = mc²
 
+## Frequently asked questions
+
+**How are ultrasound waves produced and detected?**
+Ultrasound is generated and detected by piezo-electric transducers: a crystal changes shape when a voltage is applied, producing ultrasound, and generates a voltage when deformed by returning echoes.
+
+**How does a CT scanner build a 3D image?**
+The X-ray tube and detectors rotate around the patient, taking many images of the same thin section from different angles, which a computer combines into a 2D image of that section. Repeating this for successive sections along an axis and combining the 2D images gives a 3D image.
+
+**Is the energy of each PET annihilation photon 1.022 MeV?**
+No. 1.022 MeV is the total energy released by an electron-positron annihilation; each of the two photons carries half of it, 0.511 MeV.
+
+**Is ultrasound attenuation in the Cambridge 9702 syllabus?**
+Yes. Cambridge 9702 requires you to recall and use I = I₀e^(−μx) for the attenuation of ultrasound in matter, as well as for X-rays.
+
 ## Related resources
 
 - [Nuclear Physics](/resources/a-physics-nuclear-physics/) — the previous A Level topic
@@ -322,4 +338,3 @@ series. Always check the current syllabus for your examination year.*
   <img src="https://img.marlbridge.com/a-physics-medical-physics--07-aphy-medical-gamma-camera.webp" width="900" height="990" alt="Gamma photons from tracer in an organ pass through a lead collimator that only lets photons travelling straight along a hole through; photons at an angle are absorbed. Each photon makes a flash in the crystal, the photomultiplier tubes give pulses (largest from the nearest tube) and the computer uses them to add a count at that place in the image." loading="lazy">
   <figcaption>A gamma camera forms an image of tracer distribution, one counted photon at a time.</figcaption>
 </figure>
-

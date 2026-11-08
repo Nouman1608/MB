@@ -249,6 +249,20 @@ Approximate values:
 
 Next: [revision notes](/resources/aqa-a-level-physics-medical-physics-revision-notes/), [practice questions](/resources/aqa-a-level-physics-medical-physics-practice/), [exam preparation](/resources/aqa-a-level-physics-exam-preparation/).
 
+## Frequently asked questions
+
+**Why do cones give better resolution than rods?**
+Each cone in the fovea has its own connection to the optic nerve, so images on separate cones give separate signals. Many rods share one nerve fibre, so resolution is poorer away from the fovea and in dim light.
+
+**How is myopia corrected?**
+Myopia, short sight, means the far point is closer than infinity. It is corrected with a diverging lens that forms an image of a distant object at the far point.
+
+**What is the dBA scale?**
+The dBA scale weights each frequency to match the ear's frequency response, so it reflects perceived loudness. The plain dB intensity level, 10 log(I/I₀), does not.
+
+**Why is technetium-99m a good medical tracer?**
+Technetium-99m is a pure gamma emitter with gamma energy of about 140 keV and a half-life of about 6 hours, and it can be labelled onto many compounds. It is made on site from a molybdenum-technetium generator.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), section 3.10 Medical physics.

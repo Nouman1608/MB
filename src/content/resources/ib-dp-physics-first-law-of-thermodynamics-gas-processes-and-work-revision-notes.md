@@ -212,6 +212,20 @@ Particle reasoning to quote:
 - Giving an answer to the wrong number of significant figures, or without a unit.
 - Explaining temperature changes without referring to work done and heat transferred.
 
+## Frequently asked questions
+
+**Is W in the first law the work done by the gas or on it?**
+The guide's Clausius convention uses the work done by the system, so W is positive when the gas expands and negative when it is compressed.
+
+**Does the internal energy of an ideal gas include potential energy?**
+No. An ideal gas has no intermolecular forces, so its internal energy is the total random kinetic energy of its particles.
+
+**Is an adiabatic change the same as an isothermal change?**
+No. In an adiabatic change Q = 0 and the temperature changes. In an isothermal change ΔU = 0 and heat flows.
+
+**Which is steeper on a P-V diagram, an adiabatic or an isothermal curve?**
+An adiabatic curve falls more steeply than an isothermal curve through the same starting point.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic B.4 (Thermodynamics) is additional higher level only.

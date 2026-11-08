@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Condensed recall notes on mains safety, series and parallel circuits, resistance and electrostatic charge for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -182,3 +184,17 @@ If that same wire has a potential difference of 4.0 V across it, the resistance 
 7. Explain, in terms of electrons, how rubbing two insulating materials together produces a positive charge on one and a negative charge on the other.
 
 **Answers:** 1. `P = IV`; the fuse rating must exceed the appliance's normal current but blow before excessive current (e.g. from a fault) causes overheating. 2. Series: current is equal throughout, voltage is shared; parallel: voltage is equal across every branch, current is shared (divided) between branches. 3. So that one bulb failing does not break the circuit for the others, and each appliance receives full mains voltage. 4. LDR resistance falls as light increases; thermistor resistance falls as temperature increases. 5. A volt is one joule of energy transferred per coulomb of charge passed (1 V = 1 J/C). 6. `R = V/I = 9.0/0.30 = 30 Ω`. 7. Friction transfers electrons from one surface to the other; the surface that loses electrons is left with a net positive charge, and the surface that gains electrons is left with a net negative charge.
+
+## Frequently asked questions
+
+**What is the difference between a.c. and d.c.?**
+Mains supply is alternating current, which reverses direction periodically. Cells and batteries supply direct current, which flows one way only.
+
+**What is a volt?**
+A volt is a joule per coulomb, 1 V = 1 J/C: one joule of energy is transferred for every coulomb of charge that passes.
+
+**Can you find resistance from the gradient of a curved I-V graph?**
+No. Resistance is V/I at a specific point on the curve. The gradient only equals the resistance for a straight-line graph through the origin.
+
+**Does rubbing two insulators together create charge?**
+No. Charging by friction only transfers electrons between the two objects; the surface that loses electrons becomes positive and the one that gains them becomes negative.

@@ -208,6 +208,20 @@ The photoelectric effect can be explained with a quantum of energy alone. Compto
 * Giving a Compton shift in the wrong direction: the scattered wavelength is longer.
 * Mixing θ in a Compton calculation with the diffraction angle of a gap.
 
+## Frequently asked questions
+
+**What are the guiding questions for IB DP Physics E.2?**
+The guide's two guiding questions are how light can create an electric current, and what is meant by wave-particle duality.
+
+**Why don't everyday objects show wave behaviour?**
+Their de Broglie wavelength is tiny. A 0.058 kg ball at 40 m s⁻¹ has λ of about 2.86 × 10⁻³⁴ m, far smaller than any gap you could build.
+
+**Does the Compton shift depend on the incident wavelength?**
+No. The change in wavelength depends only on the scattering angle, not on the incident wavelength.
+
+**How is Compton scattering like a collision between two solid balls?**
+Both exchange energy and momentum in a single event. The difference is that the photon has no rest mass and always travels at c.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page covers sub-topic E.2 (HL only).

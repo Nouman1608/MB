@@ -225,6 +225,20 @@ A monatomic gas at 1.0 × 10⁵ Pa and 2.0 × 10⁻³ m³ is compressed adiabati
 
 Condense this unit with the [revision notes](/resources/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work-revision-notes/), then test yourself on the [practice set](/resources/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work-practice/).
 
+## Frequently asked questions
+
+**How long is IB DP Physics B.4 Thermodynamics?**
+B.4 is entirely additional higher level and is allotted 8 hours, so all of this content is HL only.
+
+**Can ΔU = 3/2 nRΔT be used for a diatomic gas?**
+No. The guide limits quantitative problems to monatomic ideal gases, so the 3/2 factor should not be applied to a diatomic gas.
+
+**Does an adiabatic change need an insulated container?**
+Not necessarily. A change is adiabatic if no heat crosses the boundary, either because the system is insulated or because the change is too fast for heat to move.
+
+**Which area on a P-V graph gives the work done?**
+The work done by the gas is the area between the process line and the volume axis, not the area to the pressure axis.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This unit covers part of topic B.4 (Thermodynamics), which is additional higher level only.

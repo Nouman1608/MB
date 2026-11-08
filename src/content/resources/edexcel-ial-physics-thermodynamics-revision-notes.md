@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "thermodynamics-edexcel"
-description: "Condensed recall notes on internal energy, specific heat capacity, latent heat, the gas laws and kinetic theory for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
+description: "Recall notes on internal energy, specific heat capacity, latent heat, gas laws and kinetic theory for Edexcel IAL Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -152,3 +154,16 @@ Because an ideal gas has no intermolecular forces, it has **no molecular potenti
   <figcaption>Pressure arises from the momentum change of molecules rebounding from the walls.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are Core Practicals 12, 13 and 14 in Edexcel IAL Physics?**
+Core Practical 12 calibrates a thermistor in a potential divider circuit for use as a thermostat. Core Practical 13 determines a specific latent heat, and Core Practical 14 investigates pressure and volume at constant temperature (Boyle's law).
+
+**Do molecules stop moving at absolute zero?**
+No. At absolute zero molecules have minimum internal energy, not zero energy, so saying they stop is a common exam error.
+
+**Do heavier gas molecules have more kinetic energy at the same temperature?**
+No. Mean molecular kinetic energy depends only on absolute temperature. Helium and xenon at the same temperature have equal mean kinetic energy; the heavier xenon simply moves more slowly.
+
+**What is the difference between temperature and thermal energy?**
+Temperature measures the mean kinetic energy of the molecules, not the total thermal energy. A bath of warm water holds far more thermal energy than a cup of boiling water, despite being cooler.

@@ -23,10 +23,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-physical-quantities-and-units"
     subtopic: "as-scalars-and-vectors"
-description: "SI base units and prefixes, systematic and random errors, uncertainty in derived quantities, and scalars versus vectors, for Cambridge International AS & A Level Physics 9702."
+description: "SI base units and prefixes, homogeneity, systematic and random errors, combining uncertainties, and scalars and vectors: Topic 1 of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -221,6 +223,20 @@ required prefixes
 matched to the operation)
 - Scalar vs. vector, and resolving a vector into perpendicular components
 
+## Frequently asked questions
+
+**What are the SI base units for Cambridge 9702?**
+The five SI base quantities used at this level are mass (kilogram, kg), length (metre, m), time (second, s), electric current (ampere, A) and temperature (kelvin, K). All other units are derived from these.
+
+**What is the difference between systematic and random errors?**
+A systematic error, such as a zero error, shifts every reading in the same direction and affects accuracy; repeating does not reduce it. A random error scatters readings above and below the true value and affects precision; repeating and averaging reduces it.
+
+**How do you combine uncertainties in Cambridge AS Physics?**
+At this level uncertainties are combined by simple addition. Add absolute uncertainties when quantities are added or subtracted, and add percentage uncertainties when they are multiplied or divided.
+
+**Which SI prefixes do you need for Cambridge 9702?**
+You need pico, nano, micro, milli, centi, deci, kilo, mega, giga and tera, from 10⁻¹² up to 10¹².
+
 ## Related resources
 
 - [Kinematics: Equations of Motion](/resources/as-physics-kinematics-equations-of-motion/) — the next AS topic, applying vectors to motion
@@ -234,4 +250,3 @@ series. Always check the current syllabus for your examination year.*
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
   <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
 </figure>
-

@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "nuclear-decay"
-description: "Condensed recall notes on radioactive decay, half-life, decay constant, nuclear equations and radiation safety for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
+description: "Recall notes on radiation types, binding energy, decay equations, the decay law and radiation safety for Edexcel IAL Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -149,3 +151,17 @@ Half-life is **unaffected by temperature, pressure or chemical state**, because 
 7. A radioactive isotope has a decay constant of 0.0577 per year. Find its half-life, and the fraction of a sample remaining after 36 years.
 
 **Answers:** 1. Strongly ionising radiation transfers energy rapidly through many ionising interactions, so it loses energy quickly and cannot penetrate far; weakly ionising radiation interacts rarely and penetrates deeply. 2. Beta particles were emitted with a range of energies rather than a single value, which appeared to violate conservation of energy and momentum; an undetected particle carrying the balance was proposed. 3. The probability per unit time that any given nucleus will decay. 4. Plot ln A against t; the gradient is −λ. 5. Gamma penetrates the body so it can be detected externally, and a short half-life ensures the activity falls quickly so the patient's exposure is limited. 6. Mass deficit is the difference between the mass of the separated nucleons and the mass of the assembled nucleus; that missing mass is released as binding energy via ΔE = c²Δm. 7. t½ = ln2 ÷ λ = 0.6931 ÷ 0.0577 = 12.0 years; 36 years = 3 half-lives, so the fraction remaining = (½)³ = 0.125 (12.5%).
+
+## Frequently asked questions
+
+**Does temperature affect half-life?**
+No. Half-life is unaffected by temperature, pressure or chemical state, because it is a property of the nucleus rather than of the atom's environment.
+
+**What is Core Practical 15 in Edexcel IAL Physics?**
+Core Practical 15 investigates the absorption of gamma radiation by lead, typically by plotting count rate against absorber thickness.
+
+**Which radiation is used in a thickness gauge?**
+Beta. Alpha would be fully absorbed and gamma would pass straight through, so neither would respond to changes in thickness.
+
+**What is the atomic mass unit?**
+The atomic mass unit, u, is used to express small nuclear masses: 1 u = 1.66 × 10⁻²⁷ kg, equivalent to about 931.5 MeV/c².

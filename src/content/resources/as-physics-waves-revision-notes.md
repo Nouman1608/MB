@@ -26,10 +26,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-waves"
     subtopic: "as-polarisation"
-description: "Condensed recall notes on wave properties, the wave equation, the electromagnetic spectrum, polarisation and the Doppler effect for Cambridge AS & A Level Physics 9702."
+description: "Condensed recall notes on wave properties, v = fλ, the EM spectrum, polarisation, Malus's law and the Doppler effect for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -172,3 +174,17 @@ Only the **stationary observer, moving source** case is required at this level �
 7. Two polarisers are crossed at 90°. What intensity is transmitted, and why?
 
 **Answers:** 1. v = fλ; f = 1/T. 2. Light is transverse, so oscillations occur in many planes perpendicular to travel and one plane can be selected; sound is longitudinal, oscillating parallel to travel, so there is no plane to filter. 3. It quadruples (I ∝ A²). 4. Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma. 5. It rises — the wavefronts ahead of the source are compressed, shortening the observed wavelength and raising the observed frequency, although the source frequency is unchanged. 6. I = 12 × cos²(60°) = 12 × 0.25 = **3.0 W/m²**. 7. Zero — cos²(90°) = 0, so no light with its plane of polarisation at 90° to the filter's transmission axis can pass through.
+
+## Frequently asked questions
+
+**How does intensity depend on amplitude?**
+Intensity is proportional to amplitude squared, so doubling the amplitude quadruples the intensity. For an ideal point source with no absorption, intensity also falls with the inverse square of distance.
+
+**Why can light be polarised but sound cannot?**
+Light is transverse, with oscillations in many planes perpendicular to its direction of travel, so a filter can select one plane. Sound is longitudinal, oscillating only parallel to its travel, so there is no other plane to filter.
+
+**What is Malus's law?**
+Malus's law, I = I₀cos²θ, gives the intensity of already plane-polarised light after it passes through a polarising filter at angle θ to the plane of polarisation. Crossed polarisers at 90° transmit zero intensity.
+
+**What is the Doppler effect formula for Cambridge 9702?**
+For a moving source and stationary observer, f_observed = f_source × v/(v ± v_s). Use the minus sign when the source approaches, giving a higher frequency, and the plus sign when it recedes.

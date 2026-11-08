@@ -206,6 +206,20 @@ Use GM = 1.2 × 10¹³ N m² kg⁻¹ for a planet, r measured from its centre, w
 - Forgetting that field lines cross equipotentials at right angles in a sketch.
 - Reporting that a bigger orbit has a faster speed because it has more energy.
 
+## Frequently asked questions
+
+**Is gravitational potential examined at IB DP Physics SL?**
+No. This is the additional higher level part of D.1, so all of it is HL only.
+
+**Does escape speed depend on the mass of the escaping object?**
+No. The escape speed vesc = √(2GM/r) is independent of the escaping object's mass and assumes no drag.
+
+**How are escape speed and orbital speed related?**
+At the same radius the escape speed is √2 times the orbital speed, so a satellite in circular orbit escapes if its speed increases by about 41%.
+
+**What does the area under a g against r graph show?**
+The area under the curve between two radii equals the change in gravitational potential between them, in J kg⁻¹.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D.1, additional higher level part.

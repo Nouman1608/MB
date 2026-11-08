@@ -230,6 +230,20 @@ Compared with two slits, a grating with many slits gives **narrower, sharper and
 
 Try the [practice questions](/resources/ib-dp-physics-superposition-double-slit-interference-single-slit-practice/), then use the [revision notes](/resources/ib-dp-physics-superposition-double-slit-interference-single-slit-revision-notes/) for quick recall.
 
+## Frequently asked questions
+
+**What limits does the IB DP Physics guide set on diffraction patterns?**
+Patterns are limited to normal incidence, single-slit work to monochromatic light and rectangular slits, and the effect of slit width on single-slit intensity is treated qualitatively only.
+
+**Where are reflection and refraction covered for IB DP Physics C.3?**
+Wavefronts, rays, reflection, refraction and the diffraction of waves around bodies and apertures are taught in a separate unit covering the first half of C.3.
+
+**Are diffraction grating maxima equally spaced?**
+Not in general. Grating maxima follow nλ = d sin θ, so s = λD/d should not be used for a grating.
+
+**Why measure across several fringe spacings in Young's experiment?**
+The fixed reading uncertainty is shared over many fringes, so dividing a measurement across several spacings gives a more precise fringe separation.
+
 ## Official syllabus
 
 *Physics guide*, first assessment 2025, International Baccalaureate Organization, sub-topic C.3 Wave phenomena (superposition, interference and the additional higher level content on diffraction and gratings).

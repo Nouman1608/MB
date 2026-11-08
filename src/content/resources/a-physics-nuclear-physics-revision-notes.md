@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Condensed recall notes on mass defect, binding energy, radioactive decay and the decay constant for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -183,3 +185,16 @@ Both nucleon number and proton number must **balance** on each side.
   <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you convert mass defect in u into binding energy?**
+A common shortcut is 1 u = 931.5 MeV. The data-sheet route is to convert the mass to kilograms, use E = Δmc² to get joules and divide by e to convert to electronvolts; the two methods can differ slightly in the third significant figure.
+
+**What is the formula for half-life in terms of the decay constant?**
+Half-life is t½ = ln 2/λ, about 0.693/λ, so a long half-life means a small decay constant. Make sure λ is in the same time unit as the rest of the calculation.
+
+**How do you find the decay constant from a graph?**
+Plot ln A against time t. The graph is a straight line whose gradient is −λ.
+
+**What happens to A and Z in alpha and beta decay?**
+In alpha decay the nucleon number A falls by 4 and the proton number Z falls by 2. In beta-minus decay A is unchanged and Z increases by 1; in beta-plus decay A is unchanged and Z decreases by 1.

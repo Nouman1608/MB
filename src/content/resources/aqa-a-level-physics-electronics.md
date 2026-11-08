@@ -232,6 +232,20 @@ f_M = 4.5 kHz gives an AM bandwidth of 9.0 kHz, so a 270 kHz band holds 30 chann
 - Dropping the minus sign in inverting and summing gains.
 - Using f_M instead of Δf + f_M for FM.
 
+## Frequently asked questions
+
+**Why does a MOSFET have a very high input resistance?**
+The gate of a MOSFET is separated from the channel by a thin insulating oxide layer, so almost no gate current flows. This lets a sensor control it while drawing almost no current.
+
+**What is the resonant frequency of an LC filter?**
+A capacitor in parallel with an inductor resonates at f₀ = 1/(2π√(LC)). The Q factor is f₀ divided by the bandwidth measured between the 50% energy points.
+
+**What is gain-bandwidth product?**
+For a real op-amp, gain multiplied by bandwidth is constant. Raising the closed-loop gain therefore narrows the bandwidth; a 1.0 MHz product with a gain of 50 gives a bandwidth of 20 kHz.
+
+**Why do satellites use different up-link and down-link frequencies?**
+Using different frequencies stops the satellite's strong transmitted signal from de-sensing its own receiver, which must pick up the weak up-link signal.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.13 Electronics (A-level only option).

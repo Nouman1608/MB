@@ -237,6 +237,20 @@ Orbit results to derive, not just quote: v = √(GM/r), T² = (4π²/GM)r³, tot
 - Writing "Lenz's law: the emf opposes the flux" instead of "opposes the change in flux linkage".
 - Calculating transmission loss as V²/R using the supply voltage rather than I²R with the line current.
 
+## Frequently asked questions
+
+**What is the total energy of a satellite in a circular orbit?**
+A satellite in a circular orbit has kinetic energy GMm/2r and potential energy −GMm/r, giving a total energy of −GMm/2r.
+
+**How does a dielectric increase capacitance?**
+The polar molecules of the dielectric rotate to line up with the field, producing their own field that opposes the applied field. For a given charge the p.d. falls, so C = Q/V rises.
+
+**Why does a cyclotron work at a fixed frequency?**
+The time for one orbit of a charged particle in a magnetic field is 2πm/BQ, which does not depend on speed. A fixed-frequency alternating p.d. therefore stays in step as the particles speed up.
+
+**Which orbit results must be derived in AQA 7408?**
+You should be able to derive v = √(GM/r), T² = (4π²/GM)r³, the total energy −GMm/2r and escape velocity √(2GM/R), not just quote them.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.7 Fields and their consequences.

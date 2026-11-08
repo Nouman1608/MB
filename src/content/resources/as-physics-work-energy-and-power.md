@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-work-energy-and-power"
     subtopic: "as-gravitational-potential-energy-and-kinetic-energy"
-description: "Work done, conservation of energy, efficiency, power, and deriving the formulas for gravitational potential energy and kinetic energy, for Cambridge International AS & A Level Physics 9702."
+description: "Work done, conservation of energy, efficiency, power and P = Fv, and deriving gravitational potential and kinetic energy: Topic 5 of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -227,6 +229,20 @@ Gravitational Fields at A Level for the general case).
 - P = W/t, and deriving/using P = Fv
 - Deriving and using ∆Eₚ = mg∆h and Eₖ = ½mv²
 - Using conservation of energy to solve combined KE/PE problems
+
+## Frequently asked questions
+
+**What is work done?**
+Work done is force multiplied by displacement in the direction of the force. If the force and displacement are not parallel, only the component of the force along the displacement counts.
+
+**How is P = Fv derived?**
+Power is work done per unit time, P = W/t. Since W = Fs and displacement per unit time is velocity, P = Fv. It gives instantaneous power and holds during acceleration as well as at constant velocity.
+
+**How do you derive the formula for gravitational potential energy?**
+Raising a mass m through height Δh in a uniform field needs a force mg acting over displacement Δh, so the work done, W = Fs, gives ΔEₚ = mgΔh. It is valid only where g is uniform.
+
+**Can efficiency be 100%?**
+Efficiency can never exceed 100%, and most devices lose some energy, often as heat. An electric heater can be very close to 100% efficient because heat is its intended useful output.
 
 ## Related resources
 

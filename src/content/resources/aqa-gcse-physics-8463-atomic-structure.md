@@ -28,7 +28,9 @@ syllabusTopics:
 description: "AQA GCSE Physics 8463 Atomic structure taught from scratch: the nuclear atom, isotopes, decay equations, half-life, radiation uses, fission and fusion."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -340,6 +342,20 @@ converted into the energy of radiation.
 Move on to the [revision notes](/resources/aqa-gcse-physics-8463-atomic-structure-revision-notes/) and then
 the [practice questions](/resources/aqa-gcse-physics-8463-atomic-structure-practice/). To find gaps across the
 whole course, try the [free diagnostics](/diagnostics/).
+
+## Frequently asked questions
+
+**How big is an atom compared with its nucleus?**
+An atom has a radius of about 1 × 10⁻¹⁰ m, and the radius of its nucleus is less than 1/10 000 of the atom's radius. Even so, most of the atom's mass is in the nucleus.
+
+**What happens to an electron when it absorbs electromagnetic radiation?**
+It moves further from the nucleus, to a higher energy level. When it emits electromagnetic radiation, it moves closer to the nucleus, to a lower energy level.
+
+**Why is gamma radiation used for medical tracers?**
+A gamma emitter passes out of the body to the detector and ionises little, so it causes less damage. Its half-life should be long enough for the test but short enough that the activity falls quickly afterwards.
+
+**What is the difference between nuclear fission and fusion?**
+Fission is the splitting of a large, unstable nucleus such as uranium, usually after it absorbs a neutron, releasing two smaller nuclei, two or three neutrons and gamma rays. Fusion is the joining of two light nuclei to form a heavier nucleus.
 
 ## Official syllabus
 

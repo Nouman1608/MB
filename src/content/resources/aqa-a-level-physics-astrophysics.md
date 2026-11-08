@@ -237,6 +237,20 @@ The **most distant measurable objects**, discovered as **bright radio sources**,
 
 Then try the [practice questions](/resources/aqa-a-level-physics-astrophysics-practice/). For Paper 3 planning see [exam preparation](/resources/aqa-a-level-physics-exam-preparation/).
 
+## Frequently asked questions
+
+**Why do reflecting telescopes perform better than refracting telescopes?**
+Mirrors have no chromatic aberration, can be supported from behind so they can be very large, and have only one surface that must be perfect. Large lenses sag, need flawless glass and absorb some wavelengths.
+
+**Why must X-ray telescopes be placed in space?**
+The atmosphere absorbs X-ray and ultraviolet wavelengths, so these telescopes must be above it. Most radio waves pass through the atmosphere, so radio telescopes can be ground-based.
+
+**How are type 1a supernovae used as standard candles?**
+Type 1a supernovae reach about the same peak absolute magnitude each time, so measuring the peak apparent magnitude gives their distance. Distant ones appeared fainter than expected, suggesting accelerating expansion and dark energy.
+
+**What is the Schwarzschild radius?**
+The Schwarzschild radius, Rs ≈ 2GM/c², is the radius of the event horizon of a black hole, the boundary inside which the escape velocity exceeds the speed of light.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.9 Astrophysics (A-level only).

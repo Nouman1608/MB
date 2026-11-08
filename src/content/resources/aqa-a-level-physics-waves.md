@@ -297,6 +297,20 @@ The cladding:
 
 Use the [revision notes](/resources/aqa-a-level-physics-waves-revision-notes/), then the [practice questions](/resources/aqa-a-level-physics-waves-practice/). See the [exam preparation guide](/resources/aqa-a-level-physics-exam-preparation/) and the free [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**How do you calculate phase difference between two points on a wave?**
+Two points a distance x apart along a wave have a phase difference of x/λ of a cycle, which is 2πx/λ radians or 360x/λ degrees.
+
+**What is the fringe spacing formula for Young's double slits?**
+The fringe spacing is w = λD/s, where D is the slit-to-screen distance and s is the slit separation. Measure across several fringe spacings and divide to reduce the percentage uncertainty.
+
+**What is the difference between material and modal dispersion in optical fibres?**
+Material dispersion happens because different wavelengths travel at different speeds in the core; it is reduced with monochromatic light. Modal dispersion happens because rays take paths of different length; it is reduced with a very narrow, single-mode core.
+
+**What is not required in AQA 7408 Waves?**
+The AQA specification does not expect Malus's law, the single-slit intensity graph, how a laser works, the spectrometer, or the terms "fundamental" and "overtone".
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.3 Waves.

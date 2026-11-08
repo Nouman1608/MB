@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "energy-oxfordaqa-igcse"
-description: "Work, energy transfers, conservation, efficiency, Sankey diagrams and energy resources -- Topic 2 Energy of OxfordAQA International GCSE Physics (9203), the second of eight topics in the full award."
+description: "Work, energy transfers, conservation, efficiency, Sankey diagrams and energy resources: Topic 2 Energy of OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -164,6 +166,20 @@ generic list of pros and cons.
 
 The specification itself frames this using the idea of energy as a useful accounting tool: it lets us calculate how long a resource will last, or whether a proposed event or transfer is even physically possible.
 
+## Frequently asked questions
+
+**Is OxfordAQA International GCSE Physics 9203 tiered?**
+No. It is a linear, untiered qualification with 120 guided learning hours, assessed by exams at the end of the course.
+
+**Which parts of OxfordAQA IGCSE energy are Physics only?**
+Content marked P, such as the simple pendulum as an example of oscillation between kinetic and gravitational potential energy, is assessed only in the full Physics (9203) award and not in Combined Science (9204).
+
+**Does a device with a higher power always transfer more energy?**
+No. A higher power transfers energy faster, but it does not necessarily transfer more total energy unless both devices run for the same length of time.
+
+**How should I answer energy resource comparison questions?**
+Avoid listing sources. Name the context, compare the benefits and drawbacks of each option, and explain the trade-off rather than declaring one source universally best.
+
 ## Related resources
 
 - [Energy revision notes](/resources/oxfordaqa-igcse-physics-energy-revision-notes/)
@@ -233,4 +249,3 @@ OxfordAQA International GCSE Physics (9203) specification —
   <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
   <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
 </figure>
-

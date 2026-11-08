@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-waves-and-electricity"
     subtopic: "waves-and-particle-nature-of-light"
-description: "Condensed recall notes on wave properties, refraction, polarisation, interference, the photoelectric effect and energy levels for Edexcel International A Level Physics YPH11."
+description: "Recall notes on wave properties, refraction, polarisation, interference, the photoelectric effect and energy levels for Edexcel IAL Physics YPH11 (Unit 2)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -223,3 +225,16 @@ hf = E2 - E1
   <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is the double-slit equation λ = ax/D examinable in Edexcel IAL Physics?**
+No. It is background beyond the specification. Unit 2 supplies only the diffraction-grating relation, nλ = d sin θ.
+
+**What is the distance between nodes on a stationary wave?**
+Adjacent nodes are λ/2 apart, not λ. Using λ for the node separation is a common exam error.
+
+**Why are electron energy levels negative?**
+Zero energy is defined at infinite separation, so a bound electron has less energy than that and its energy levels are negative.
+
+**What are Core Practicals 4 and 5 in Edexcel IAL Physics?**
+Core Practical 4 determines the speed of sound in air using a two-beam oscilloscope, signal generator, speaker and microphone. Core Practical 5 investigates a vibrating string, linked to v = √(T/µ).

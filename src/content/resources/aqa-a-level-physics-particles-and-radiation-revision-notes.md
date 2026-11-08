@@ -264,6 +264,20 @@ Antiquarks: reverse every sign.
 - Giving the electron capture products as a neutron and an antineutrino.
 - Forgetting the strong force is repulsive below about 0.5 fm when explaining why nuclei do not collapse.
 
+## Frequently asked questions
+
+**What is the difference between hadrons and leptons?**
+Hadrons, such as baryons and mesons, feel the strong interaction. Leptons, such as electrons, muons and neutrinos, do not.
+
+**What is the difference between baryons and mesons?**
+Baryons are made of three quarks and have baryon number +1, while antibaryons have three antiquarks and B = −1. Mesons are a quark-antiquark pair with baryon number 0.
+
+**How are strange particles produced and how do they decay?**
+Strange particles are produced in pairs by the strong interaction, which conserves strangeness, and decay by the weak interaction, where strangeness can change by 1.
+
+**How many emission lines can n energy levels produce?**
+An atom with n energy levels can give at most n(n − 1)/2 different emission lines, one for each possible downward transition between two levels.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.2 Particles and radiation.

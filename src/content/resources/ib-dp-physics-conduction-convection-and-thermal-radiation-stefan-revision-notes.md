@@ -206,6 +206,20 @@ It needs a fluid and cannot occur in a solid. It needs the heating to be below t
 - Forgetting the unit, or giving W where W m⁻² is wanted for b.
 - Treating luminosity as something that changes with the observer's distance.
 
+## Frequently asked questions
+
+**Why are metals good thermal conductors?**
+As well as vibrating particles passing energy to their neighbours, metals have free electrons that also carry energy, so they conduct well.
+
+**Can convection happen in a solid?**
+No. Convection needs a fluid that can move, and it needs the heating to be below the fluid or the cooling above it.
+
+**How do you rank temperatures from black-body spectrum graphs?**
+Compare the peak positions: the peak further to the left, at shorter wavelength, belongs to the hotter body. Never compare temperatures from the heights alone.
+
+**Where is the heating-calculation half of IB DP Physics B.1?**
+These notes cover the second half of B.1. The heating calculations are in the molecular model revision notes.
+
 ## Official syllabus
 
 Source: the *Physics guide* for the IB Diploma Programme (first assessment 2025), International Baccalaureate Organization. Topic B.1, Thermal energy transfers, second half.

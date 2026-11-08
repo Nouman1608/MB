@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Mains electricity safety, series and parallel circuits, resistance, and electrostatic charge, for Pearson Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -256,6 +258,20 @@ respond to different physical quantities.
 - V = IR, Q = It, and E = QV
 - Current-voltage behaviour of resistors, filament lamps, diodes, LDRs and thermistors
 - Charging by friction, and like/unlike charge interactions (Physics only)
+
+## Frequently asked questions
+
+**Which parts of Edexcel IGCSE electricity are Physics only?**
+Sub-topic (d), electric charge, is marked P. It is Physics-only content, not shared with the International GCSE in Science (Double Award).
+
+**Why does a current heat a resistor?**
+A current in a resistor transfers electrical energy and raises its temperature. This electrical heating is the basis of devices such as electric heaters and kettles.
+
+**How can you tell a current is flowing without a meter?**
+A lamp lighting up or an LED glowing shows a current is present. It is a simple qualitative check made before any meter reading is taken.
+
+**What units does Topic 2 use?**
+Topic 2 uses the ampere, coulomb, joule, ohm, second, volt and watt.
 
 ## Related resources
 

@@ -181,6 +181,17 @@ T½ = ln 2/λ = 0.693/0.01928 [1]
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Visit the trial page to [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Edexcel IAL Unit 6 planning questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board or school.
+
+**Which parts of the Edexcel IAL Physics specification do these questions cover?**
+They cover section 6.3 Planning, section 6.4 Implementation and Measurements, and log graphs from section 6.1 of Unit 6: Practical Skills in Physics II, an IA2 unit.
+
+**What mistakes lose marks in Unit 6 planning questions?**
+Common errors include naming an instrument without its range or resolution, listing controlled variables without saying how they are held, giving a hazard with no precaution or the reverse, and deleting an anomalous point instead of checking it.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3, Unit 6: Practical Skills in Physics II, sections 6.1 (log graphs), 6.3 and 6.4. Publisher: Pearson Education Limited.

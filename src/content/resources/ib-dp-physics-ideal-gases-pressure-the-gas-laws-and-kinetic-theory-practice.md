@@ -153,6 +153,20 @@ A is 2.0 × 10⁵ Pa and 1.5 × 10⁻³ m³. A to B is a rise in pressure to 4.0
 - Take the [free 10-minute diagnostics](/diagnostics/) to find what to revise next.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics gas law questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these gas law questions for SL or HL?**
+Both. None of B.3, Gas laws, is marked additional higher level, so every question suits SL and HL.
+
+**What constants do these questions use?**
+Use R = 8.31 J K⁻¹ mol⁻¹, kB = 1.38 × 10⁻²³ J K⁻¹ and NA = 6.02 × 10²³ mol⁻¹, and convert temperatures to kelvin by adding 273.
+
+**What slips lose marks in gas law calculations?**
+Common slips are substituting degrees Celsius into a gas equation, and using R with a number of molecules or kB with moles.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page covers section B.3 (Gas laws).

@@ -199,6 +199,20 @@ S′ moves at v along +x relative to S, origins together at t = 0.
 
 Use the [practice questions](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-practice/) next, and return to the [study guide](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz/) for any weak area. Check the [free diagnostics](/diagnostics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).
 
+## Frequently asked questions
+
+**Is the proper time the longest or shortest interval?**
+Proper time is the shortest interval, measured by one clock present at both events. Every other inertial frame measures a longer interval.
+
+**Does length contraction happen perpendicular to the motion?**
+No. Only lengths along the direction of motion contract; claiming contraction perpendicular to the motion is a common error.
+
+**Does each observer see the other's clock running slow?**
+Yes. The effects are symmetric: each inertial observer sees the other's clock run slow and the other's rod contracted.
+
+**Which quantities are the same in every inertial frame?**
+The space-time interval Δs and the speed of light c are invariant. Time intervals, lengths and simultaneity depend on the frame.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic A.5, Galilean and special relativity (additional higher level).

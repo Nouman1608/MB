@@ -115,3 +115,17 @@ N = 4.8 × 10⁵ ÷ 1.002 × 10⁻⁶ = **4.79 × 10¹¹ nuclei** [1].
 - Forgetting that x = x₀e^(−λt) applies equally to N, activity, or measured count rate — not just to activity.
 - Mixing up grams and kilograms when substituting mass defect into E = mc².
 - Treating the smooth exponential curve as literal finite-sample behaviour — a real finite sample of nuclei can and eventually will fully decay, even though the continuous exponential model it approximately follows only approaches zero asymptotically.
+
+## Frequently asked questions
+
+**What is the difference between mass defect and binding energy?**
+Mass defect is the difference between the total mass of the separate nucleons and the mass of the nucleus. Binding energy is the energy needed to separate the nucleus into its individual nucleons, equal to the mass defect multiplied by c².
+
+**Why do both fission and fusion release energy?**
+Binding energy per nucleon peaks around iron-56. Fusion of light nuclei and fission of heavy nuclei both move the products towards that peak, and the increase in binding energy is released as energy.
+
+**What does it mean that radioactive decay is random and spontaneous?**
+Random means it is impossible to predict which nucleus will decay or when. Spontaneous means the decay is unaffected by external conditions such as temperature, pressure or chemical state.
+
+**What mistakes lose marks in nuclear physics calculations?**
+Common errors include subtracting masses in the wrong order, not converting the decay constant into consistent time units before finding N, mixing grams and kilograms in E = mc², and explaining fission and fusion without referring to the binding energy per nucleon curve.

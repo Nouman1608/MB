@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Condensed recall notes on the suvat equations, motion graphs and projectile motion for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -157,3 +159,16 @@ Without it, the trajectory is a symmetrical parabola. **With** air resistance th
   <figcaption>Air resistance makes the path asymmetric and removes kinetic energy.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which Cambridge 9702 papers assess kinematics?**
+Kinematics is AS content assessed on Paper 1 (multiple choice, 40 marks) and Paper 2 (structured questions, 60 marks) of Cambridge 9702.
+
+**How do you find the gradient of a curved motion graph?**
+Draw a tangent, a straight line touching the curve at exactly that instant, and find its gradient. Using the gradient of a chord between two separate points is a common error.
+
+**What is the velocity at the top of a projectile's path?**
+At maximum height the vertical component of velocity is zero, but the horizontal component is unchanged, so the projectile is still moving.
+
+**How do you resolve a projectile's launch velocity?**
+For a launch speed u at angle θ above the horizontal, the horizontal component is u cos θ and the vertical component is u sin θ. Treat the two directions independently; they share only the time.

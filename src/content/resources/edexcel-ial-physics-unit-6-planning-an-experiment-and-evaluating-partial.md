@@ -251,6 +251,23 @@ So n = −1 and p ∝ V⁻¹, which is Boyle's law. For the constant: lg k = 2.1
 - Taking a log of a number with units attached.
 - Throwing away an off-line point without checking it.
 
+## Frequently asked questions
+
+**How is Edexcel IAL Unit 6 assessed?**
+The specification gives the paper as 1 hour 20 minutes and 50 marks, with at least 20 marks for mathematics at Level 2 or above. Calculators may be used.
+
+**Does this guide cover section 6.5 Analysis?**
+No. This page covers sections 6.3 Planning and 6.4 Implementation and Measurements, plus log graphs. Section 6.5 Analysis is covered separately.
+
+**Do log graphs in Unit 6 have to be for exponential relationships?**
+No. The specification notes the graphs need not be for exponential relationships, so power laws such as y = kxⁿ are also tested with a lg y against lg x plot.
+
+**When are repeat readings unnecessary?**
+A reading from a calibrated digital meter that does not fluctuate may need no repeat, but you should say why.
+
+**Where is the length of a pendulum measured from?**
+From the pivot to the centre of the bob, not from the top of the clamp.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3, Unit 6: Practical Skills in Physics II, sections 6.1 (log graphs), 6.3 and 6.4. Publisher: Pearson Education Limited.

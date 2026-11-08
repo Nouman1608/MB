@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "nuclear-decay"
-description: "Original exam-style practice questions with full worked answers on radioactive decay equations, radiation types, half-life, activity, dating, safety, mass deficit and binding energy per nucleon."
+description: "Original practice questions with answers on decay equations, half-life, activity, carbon dating, safety and binding energy for Edexcel IAL Physics (YPH11)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -148,3 +150,17 @@ A half-life is nevertheless reliable because a sample contains an **enormous num
 - Giving safety precautions without a reason.
 - Dividing the binding energy by the proton number instead of the nucleon number when finding binding energy per nucleon.
 - Saying only fission releases energy.
+
+## Frequently asked questions
+
+**Are these Edexcel IAL nuclear decay questions from past papers?**
+No. They are original questions written for revision and practice. They do not reproduce past-paper questions or the exam's exact structure, so use them alongside the official past papers from Pearson Edexcel.
+
+**Which part of Edexcel IAL Physics do these questions cover?**
+They cover sub-topic 5.4 Nuclear Decay in Unit 5 (Thermodynamics, Radiation, Oscillations and Cosmology) of the YPH11 specification.
+
+**Is the fundamental force in beta decay examinable in Edexcel IAL Physics?**
+No. That part of Question 14 is marked as background and is not a specification outcome.
+
+**What mistakes lose marks in Edexcel IAL nuclear decay questions?**
+Common errors include using λ in per hour with time in seconds, describing half-life as the time for a source to become half as dangerous, giving safety precautions without a reason, and dividing binding energy by the proton number instead of the nucleon number.

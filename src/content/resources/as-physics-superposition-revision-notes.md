@@ -26,7 +26,9 @@ syllabusTopics:
 description: "Condensed recall notes on interference, coherence, path difference, diffraction gratings and stationary waves for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -171,3 +173,16 @@ For a pipe **closed at one end**, there is a node at the closed end and an antin
   <figcaption>A closed tube supports only odd harmonics; an open tube has twice the fundamental frequency.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the principle of superposition?**
+When two or more waves meet, the resultant displacement at a point is the vector sum of the individual displacements.
+
+**How do you increase the fringe spacing in Young's double slit?**
+From λ = ax/D, the fringe spacing x increases if you increase the slit-to-screen distance D, increase the wavelength, or decrease the slit separation a.
+
+**Why is a diffraction grating better than a double slit for measuring wavelength?**
+Many slits contribute to each maximum, so a grating gives sharper, narrower maxima whose angles can be measured more precisely.
+
+**What is the distance between adjacent nodes in a stationary wave?**
+Adjacent nodes, or adjacent antinodes, are half a wavelength apart, not a full wavelength. Using λ instead of λ/2 is a common error.

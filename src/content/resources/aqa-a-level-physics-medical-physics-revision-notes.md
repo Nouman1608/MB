@@ -235,6 +235,20 @@ P = 1/u + 1/v
 - Writing T_E = T_B + T_P.
 - In comparisons, giving cost alone when resolution and safety are also asked for.
 
+## Frequently asked questions
+
+**How do you calculate effective half-life?**
+Effective half-life is found from 1/T_E = 1/T_B + 1/T_P, where T_B is the biological half-life and T_P the physical half-life. T_E is always shorter than both; adding the half-lives directly is wrong.
+
+**What is the difference between coherent and non-coherent fibre bundles?**
+In an endoscope, the non-coherent bundle carries light in to illuminate the area. The coherent bundle has fibres in matching positions at both ends, so it carries the image back out.
+
+**What do the P, QRS and T parts of an ECG show?**
+The P wave shows the atria depolarising and contracting, the QRS complex shows the ventricles depolarising and contracting, and the T wave shows the ventricles repolarising.
+
+**How should you compare medical imaging methods in AQA 7408?**
+The AQA specification asks for comparisons in terms of resolution, convenience and safety only. Giving cost alone when resolution and safety are also asked for loses marks.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), section 3.10 Medical physics.

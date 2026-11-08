@@ -9,10 +9,12 @@ qualifications: ["gcse"]
 syllabusCodes: ["8463"]
 syllabusSeries: "For first teaching 2016"
 order: 1
-description: "Paper-by-paper exam preparation for AQA GCSE Physics 8463 -- Foundation/Higher tier strategy, equations and units fluency, required-practicals revision, a worked energy-transfer answer and a checklist."
+description: "Paper-by-paper exam preparation for AQA GCSE Physics 8463: tier strategy, recalled equations, units, required practicals, a worked answer and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -118,6 +120,20 @@ inappropriate number of significant figures does not earn full marks. 4. Because
 and 90 s) is precise to roughly 2-3 significant figures, so stating the answer to a similar precision
 (2000 W, or 2.0 x 10^3 W) matches the data's own precision rather than overstating it with unjustified
 extra decimal places from a calculator display.
+
+## Frequently asked questions
+
+**How many papers are there in AQA GCSE Physics 8463?**
+AQA GCSE Physics 8463 has two written papers, each 1 hour 45 minutes, 100 marks and 50% of the GCSE. Paper 1 covers Topics 1 to 4 and Paper 2 covers Topics 5 to 8, each sat at Foundation or Higher tier.
+
+**What grades can you get on Foundation and Higher tier?**
+Foundation tier targets grades 1 to 5 and Higher tier targets grades 4 to 9. The two tiers cover the same topic list at different demand.
+
+**Is there a separate practical exam in AQA GCSE Physics?**
+No. All required practicals are assessed within the written exams, so revise each one's method, apparatus and sources of uncertainty.
+
+**Are the power equations on the AQA GCSE Physics equation sheet?**
+No. P = E/t and P = W/t must be recalled; AQA lists them among the equations to recall, not on the Physics equation sheet.
 
 *Written against AQA GCSE Physics 8463 (specification-at-a-glance, verified 2026-08-28). The worked
 scenario above is an original example written for this resource, not a reproduction of any official

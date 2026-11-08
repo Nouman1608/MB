@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-resources-and-energy-transfers"
     subtopic: "energy-resources-and-electricity-generation"
-description: "Energy stores and transfers, conservation of energy and efficiency, work and power, and electricity generation from renewable and non-renewable resources, for Pearson Edexcel International GCSE Physics 4PH1."
+description: "Energy stores, efficiency, thermal transfer, work and power, and electricity generation: Topic 4 of Pearson Edexcel International GCSE Physics (4PH1)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -273,6 +275,20 @@ power includes a time component that work done does not.
 - Conduction, convection and radiation
 - W = Fd; GPE = mgh; KE = ½mv²; P = W/t
 - Advantages/disadvantages of renewable vs non-renewable electricity generation (Physics only)
+
+## Frequently asked questions
+
+**Which parts of Edexcel IGCSE energy are Physics only?**
+Sub-topic (d), energy resources and electricity generation, is marked P. It covers the energy transfers in each generation method and the advantages and disadvantages of renewable and non-renewable methods.
+
+**What does a Sankey diagram show?**
+A Sankey diagram shows energy transfers, with arrow widths proportional to the amount of energy in each pathway, so the split between useful and wasted energy is easy to see.
+
+**Which surfaces are best at emitting and absorbing radiation?**
+Darker, matt surfaces both emit and absorb radiation more effectively than light, shiny surfaces. Objects at a higher temperature also emit more thermal radiation.
+
+**Does GPE = mgh always apply?**
+It assumes a uniform gravitational field near the Earth's surface, a simplification that is valid for typical exam-level changes in height.
 
 ## Related resources
 

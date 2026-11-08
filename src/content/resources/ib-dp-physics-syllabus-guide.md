@@ -20,10 +20,12 @@ syllabusTopics:
     topic: "ib-dp-physics-topic-d"
   - qualification: "ib-dp"
     topic: "ib-dp-physics-topic-e"
-description: "The five themes of the IB Diploma Programme Physics syllabus -- Space time and motion, The particulate nature of matter, Wave behaviour, Fields, and Nuclear and quantum physics -- with HL-only topics marked, for first assessment 2025."
+description: "The five themes of IB Diploma Programme Physics, first assessment 2025, from space, time and motion to nuclear and quantum physics, with HL-only topics marked."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -187,6 +189,20 @@ formula-heavy, a common error is treating "explain" as though it only
 requires stating and applying a formula -- full marks typically also
 require stating the physical reasoning the formula represents, not
 just the calculation itself.
+
+## Frequently asked questions
+
+**How many teaching hours does IB DP Physics have?**
+The recommended teaching time is 150 hours at SL and 240 hours at HL, including an experimental programme of 40 hours at SL and 60 hours at HL.
+
+**Which IB DP Physics sub-topics are HL only?**
+A.4 Rigid body mechanics, A.5 Galilean and special relativity, B.4 Thermodynamics, D.4 Induction and E.2 Quantum physics are HL only, alongside HL extensions within other sub-topics.
+
+**Is the greenhouse effect studied at SL?**
+Yes. B.2 Greenhouse effect is part of Theme B, The particulate nature of matter, and is not marked HL only.
+
+**Where can I find a paper-by-paper exam plan for IB DP Physics?**
+The exam preparation guide covers Paper 1's data-based question strategy, data-booklet fluency and a worked uncertainty-estimation scenario.
 
 ## Source
 

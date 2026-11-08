@@ -181,6 +181,20 @@ Use: h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, e = 1.60 × 10⁻¹
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which AQA A-level Physics paper assesses Particles and radiation?**
+In AQA 7408, section 3.2 Particles and radiation is AS and A-level content examined in A-level Paper 1 and assumed in Paper 2. It is compulsory, not one of the Paper 3 options.
+
+**How do you decide whether a particle interaction is possible?**
+Write the charge, baryon number, lepton numbers and strangeness under every particle on both sides, then add each row. Any change in charge, baryon number or either lepton number makes it impossible; a change of 1 in strangeness is allowed only in a weak interaction.
+
+**What is the minimum photon energy for pair production?**
+The minimum photon energy for pair production is twice the rest energy of the particle produced, because a particle and its antiparticle are both created. Using one rest energy instead of two is a common method error.
+
+**What mistakes lose marks in particle physics questions?**
+Frequent errors include writing a neutrino instead of an antineutrino in beta-minus decay, using the proton number instead of the net charge for an ion's specific charge, and drawing a W⁻ leaving a proton that becomes a neutron.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.2 Particles and radiation.

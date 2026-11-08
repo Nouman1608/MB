@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on ultrasound, X-rays, attenuation and PET scanning for A Level Physics."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -114,3 +116,17 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 - Saying the two PET photons travel in the same direction.
 - Forgetting that ultrasound attenuation, like X-ray attenuation, is exponential rather than linear.
 - Claiming CT scanning gives a lower radiation dose than a plain X-ray image — it is substantially higher.
+
+## Frequently asked questions
+
+**Why is coupling gel used in ultrasound scanning?**
+Air and skin have very different acoustic impedances, so almost all ultrasound would be reflected at an air-skin boundary. The gel has an impedance close to skin's, displacing the air so the ultrasound is transmitted into the body; this is impedance matching, not lubrication.
+
+**What controls the hardness and intensity of an X-ray beam?**
+The accelerating p.d. controls the hardness, or penetrating power, because it sets the energy of the electrons and so of the photons. The filament current controls the intensity, because it sets the number of electrons emitted per second.
+
+**Does the minimum X-ray wavelength depend on the target metal?**
+No. The minimum wavelength λ_min = hc/(eV) depends only on the accelerating potential difference. The target material determines the characteristic line spectrum instead.
+
+**Why does PET scanning produce two gamma photons?**
+A positron annihilates with an electron, and because the total momentum before is about zero, two photons must be emitted in opposite directions. Each carries 0.511 MeV, from E = mc² for the rest mass of one electron.

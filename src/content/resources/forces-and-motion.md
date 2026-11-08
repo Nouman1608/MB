@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Newton's first and third laws, F = ma, friction, terminal velocity, stopping distance and circular motion, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -254,6 +256,20 @@ final speed
 - Thinking distance vs braking distance, and which factors affect each
 - The three qualitative circular-motion relationships (F = mv²/r not
 required)
+
+## Frequently asked questions
+
+**Is Cambridge O Level Physics 5054 tiered?**
+No. 5054 is not tiered, so every candidate covers all of this forces content.
+
+**Can a force change an object's velocity without changing its speed?**
+Yes. A force can change velocity by changing the direction of motion, so an object moving in a circle at constant speed is still accelerating.
+
+**Does friction always stop motion?**
+The 5054 syllabus describes friction as a force that may impede motion and produce heating. It opposes relative motion between two surfaces in contact.
+
+**Where are moments and centre of gravity covered for 5054?**
+The elastic deformation, moments and centre of gravity parts of subtopic 1.5 are covered on the Elastic Deformation, Moments and Centre of Gravity page.
 
 ## Related resources
 

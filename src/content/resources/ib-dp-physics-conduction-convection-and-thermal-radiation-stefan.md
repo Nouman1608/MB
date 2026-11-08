@@ -231,6 +231,20 @@ Wien's law supplies T from the spectrum, Stefan-Boltzmann turns T and L into an 
 
 Try the [practice set](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan-practice/), then compress the formulas with the [revision notes](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan-revision-notes/).
 
+## Frequently asked questions
+
+**Is there an equation for convection in IB DP Physics B.1?**
+No. The guide asks for a qualitative description of convection using fluid density differences, so there is no equation to learn.
+
+**Why do gases conduct thermal energy poorly?**
+In a gas the particles are far apart and collide rarely, so energy is passed from particle to particle much less effectively than in a solid.
+
+**Can degrees Celsius be used in the conduction equation?**
+Yes, for ΔT, because only a temperature difference enters ΔQ/Δt = kA ΔT/Δx. Absolute temperatures in σAT⁴ and Wien's law must be in kelvin.
+
+**Where is the first half of IB DP Physics B.1 covered?**
+The molecular model, temperature, internal energy and heating calculations are taught in a separate unit, the molecular model study guide.
+
 ## Official syllabus
 
 Source: the *Physics guide* for the IB Diploma Programme (first assessment 2025), International Baccalaureate Organization. Topic B.1, Thermal energy transfers, second half.

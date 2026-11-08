@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-waves-and-electricity"
     subtopic: "electric-circuits"
-description: "Current, potential difference, resistance, Ohm's law, resistivity, potential dividers, e.m.f. and internal resistance for sub-topic 2.4 of Pearson Edexcel International A Level Physics (YPH11), Unit 2."
+description: "Current, potential difference, resistance, Ohm's law, resistivity, potential dividers, e.m.f. and internal resistance: sub-topic 2.4 of Edexcel IAL Physics."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -242,6 +244,20 @@ diode conducts symmetrically in both directions.
 - Analyse potential divider circuits, including with a thermistor or LDR.
 - Distinguish e.m.f. from terminal potential difference and describe CORE PRACTICAL 8 (e.m.f. and internal resistance).
 - Explain resistance changes with temperature (conductors, NTC thermistors) and illumination (LDRs) in terms of lattice vibrations and conduction-electron number.
+
+## Frequently asked questions
+
+**What is Ohm's law?**
+Ohm's law is the special case where current is directly proportional to potential difference at constant temperature. Resistance itself is defined more generally by R = V/I.
+
+**What is Core Practical 8 in Edexcel IAL Physics?**
+Core Practical 8 determines the e.m.f. and internal resistance of an electrical cell, typically from a graph of terminal potential difference against current.
+
+**Why do materials have such different resistivities?**
+Edexcel IAL Physics uses I = nqvA to explain this: the number density of charge carriers n is very large in metals, much smaller in semiconductors and tiny in insulators, giving a huge range of resistivities.
+
+**What is the I-V characteristic of a diode?**
+A diode passes almost no current until a threshold forward voltage is reached, then the current rises rapidly. It passes effectively no current in reverse, so its graph is not symmetrical.
 
 ## Related resources
 

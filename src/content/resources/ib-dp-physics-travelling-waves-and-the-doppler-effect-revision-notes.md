@@ -239,6 +239,20 @@ Method to find a speed: write the formula with the signs chosen from the situati
 - Choosing the wrong sign in v ± us or v ± uo. Test it: towards must give a higher frequency.
 - Giving a speed with no unit, or more significant figures than the data allow.
 
+## Frequently asked questions
+
+**Which Doppler formulas are HL only?**
+The Doppler formulas for sound and other mechanical waves, for a moving source or a moving observer, are additional higher level. The light formula Δf/f = Δλ/λ ≈ v/c is for SL and HL.
+
+**When can Δλ/λ ≈ v/c be used?**
+Only when the relative speed v is much smaller than c. Use the rest wavelength of the line in the denominator.
+
+**Does a moving observer change the wavelength of a sound?**
+No. Only a moving source changes the wavelength. A moving observer meets the evenly spaced wavefronts more or less often, which changes the frequency heard.
+
+**Do electromagnetic waves need a medium?**
+No. Electromagnetic waves need no medium, travel at c in a vacuum and are always transverse, while sound needs a medium and is longitudinal.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topics C.2 Wave model and C.5 Doppler effect.

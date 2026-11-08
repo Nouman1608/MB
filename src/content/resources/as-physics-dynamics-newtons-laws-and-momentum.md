@@ -20,10 +20,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dynamics"
     subtopic: "as-linear-momentum-and-its-conservation"
-description: "Newton's three laws of motion, linear momentum, terminal velocity, and the principle of conservation of momentum applied to elastic and inelastic collisions, for Cambridge International AS & A Level Physics 9702."
+description: "Newton's laws, momentum, drag and terminal velocity, and conservation of momentum in elastic and inelastic collisions: Topic 3 of Cambridge 9702 Physics."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -185,6 +187,20 @@ reactions")
 - Terminal velocity as the point where drag equals weight
 - Conservation of momentum, and the elastic vs. inelastic distinction using
 kinetic energy
+
+## Frequently asked questions
+
+**What is Newton's second law in terms of momentum?**
+Newton's second law states that the resultant force on an object equals its rate of change of momentum. For constant mass this gives F = ma, with acceleration in the same direction as the resultant force.
+
+**What is the difference between elastic and inelastic collisions?**
+In both, total momentum is conserved. In an elastic collision total kinetic energy is also conserved and the relative speed of approach equals the relative speed of separation; in an inelastic collision some kinetic energy is transformed into other forms.
+
+**Why does a falling object reach terminal velocity?**
+As its speed increases, drag increases, so the resultant force and acceleration decrease. When drag equals weight the resultant force is zero and the object falls at a constant terminal velocity.
+
+**How is momentum conserved in two-dimensional collisions?**
+Momentum is a vector, so in two-dimensional collisions it must be conserved separately in each of two perpendicular directions, not just as a total magnitude.
 
 ## Related resources
 

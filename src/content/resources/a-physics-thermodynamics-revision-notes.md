@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Condensed recall notes on internal energy, the first law, specific heat capacity and latent heat for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -182,3 +184,16 @@ pV = nRT
   <figcaption>Molecular speeds are spread; a higher temperature shifts and flattens the distribution.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are ΔU, q and W in isothermal and adiabatic processes?**
+In an isothermal process for an ideal gas, ΔU = 0, so q = −W. In an adiabatic process no heat is transferred, so q = 0 and ΔU = W.
+
+**What does it mean that internal energy is a state function?**
+Internal energy depends only on the current state of the system, its temperature for an ideal gas, and not on the route taken to reach it. Two different routes between the same states give the same ΔU even if q and W differ.
+
+**What is the difference between heat capacity and specific heat capacity?**
+Specific heat capacity is the energy needed to raise the temperature of 1 kg of a substance by 1 K, in J kg⁻¹ K⁻¹. Heat capacity is a property of a particular object, measured per kelvin only, without dividing by mass.
+
+**Do molecules stop moving at absolute zero?**
+No. At absolute zero, 0 K or −273.15 °C, molecules have minimum internal energy, not zero energy, so saying they stop moving loses marks.

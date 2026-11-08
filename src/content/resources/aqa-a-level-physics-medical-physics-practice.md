@@ -195,6 +195,20 @@ Use: e = 1.60 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is Medical physics compulsory in AQA A-level Physics 7408?**
+No. Medical physics, section 3.10, is one of five A-level only options in AQA 7408; you study one option, assessed in Paper 3 Section B.
+
+**Why can you not add decibel values directly?**
+Decibels are on a logarithmic scale, so you must add the intensities in W m⁻² and then convert the total back to an intensity level with 10 log(I/I₀). Adding the two decibel values scores no marks.
+
+**What sign convention is used for lens calculations in AQA Medical physics?**
+AQA uses "real is positive": a virtual image has a negative image distance v, and a diverging lens has a negative focal length. A positive v for a virtual image gives the wrong sign of lens power.
+
+**What mistakes lose marks in ultrasound depth calculations?**
+The echo time is a round trip, so depth is ct/2; missing the factor of 2, or using the wrong time interval, is a common one-mark loss.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), section 3.10 Medical physics.

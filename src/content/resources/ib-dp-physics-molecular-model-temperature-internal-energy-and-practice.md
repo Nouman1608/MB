@@ -136,6 +136,20 @@ The temperature is constant between 26 s and 235 s.
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak area.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics thermal energy questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board or school.
+
+**Are these thermal energy questions for SL or HL?**
+Both. They cover the first half of B.1, Thermal energy transfers, and none of B.1 is marked additional higher level.
+
+**Where are the constants for these questions?**
+Constants such as specific heat capacities, latent heats and the Boltzmann constant are supplied in the questions where they are needed.
+
+**What slips lose marks in heating calculations?**
+Common slips are substituting cm³ or grams without converting to m³ or kg, rounding part-way through, and leaving units off the final answer.
+
 ## Official syllabus
 
 Source: the *Physics guide* for the IB Diploma Programme (first assessment 2025), International Baccalaureate Organization. Topic B.1, Thermal energy transfers, first half.

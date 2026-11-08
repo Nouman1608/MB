@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Condensed recall notes on the solar system, orbits, stellar life cycles, redshift and the Big Bang for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -169,3 +171,16 @@ Together these mean the **universe is expanding**, and therefore was smaller and
   <figcaption>Speed is proportional to distance, and 1/H0 estimates the age of the Universe.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Are planetary orbits circular?**
+No. Orbits are elliptical, although planetary orbits are nearly circular. Comets have highly elliptical orbits, so their speed varies greatly around the orbit.
+
+**Where are elements heavier than iron made?**
+Elements heavier than iron are formed in supernovae, which is why the atoms around us came from earlier generations of stars.
+
+**What does the colour of a star tell you?**
+Colour relates directly to surface temperature. Hotter stars appear blue or white, and cooler stars appear red.
+
+**Why is cosmic microwave background radiation important evidence?**
+It is the cooled remnant of radiation from the hot early universe, found uniformly in all directions. Only the Big Bang model explains it, which is why it settled the debate against the steady state theory.

@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on quarks, leptons, conservation rules and beta decay for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -179,3 +181,17 @@ Each photon = 1.64 × 10⁻¹³ ÷ 2 = **8.20 × 10⁻¹⁴ J** (≈ 0.511 MeV) 
 - Saying annihilation produces one photon.
 - Balancing only nucleon number, or only charge, in a decay equation rather than checking both separately.
 - Mixing up which quark change (up→down or down→up) belongs to β⁻ decay and which belongs to β⁺ decay.
+
+## Frequently asked questions
+
+**Are exchange particles and conservation checks required for Cambridge 9702 AS?**
+The Cambridge 9702 (2025-2027) Topic 11 outcomes do not name exchange bosons or require baryon, lepton or strangeness conservation checks as explicit AS outcomes. The questions on those ideas here are extension material.
+
+**What are the six quark flavours?**
+The six quark flavours are up, down, strange, charm, top and bottom. Up, charm and top have charge +2/3, while down, strange and bottom have charge −1/3.
+
+**Do leptons feel the strong force?**
+No. Leptons, such as electrons and neutrinos, are fundamental particles that are not made of quarks and do not feel the strong force. Only hadrons do.
+
+**What mistakes lose marks in particle physics questions?**
+Common errors include calling protons or neutrons fundamental, forgetting that mesons have baryon number 0, not stating which conservation law is broken when rejecting an interaction, and mixing up the quark changes in beta-minus and beta-plus decay.

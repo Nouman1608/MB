@@ -26,10 +26,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-waves"
     subtopic: "as-polarisation"
-description: "Original exam-style practice questions with full worked answers on wave properties, the electromagnetic spectrum, polarisation and the Doppler effect for AS Physics."
+description: "Original practice questions with worked answers on wave properties, the EM spectrum, Malus's law and the Doppler effect for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -135,3 +137,17 @@ Uses (any three): radio — broadcasting [1]; microwave — cooking or satellite
 - Forgetting that the **source frequency itself never changes** in the Doppler effect — only the frequency *heard* by the observer changes, because of how the wavefronts bunch together or spread out.
 
 A useful way to keep the two calculation-heavy parts of this topic straight: Malus's law is about **what fraction of an already-polarised beam gets through a second filter at an angle**, while the Doppler equation is about **how relative motion compresses or stretches the wavefronts between source and observer** — different physical mechanisms, but both frequently tested as two-part numerical questions rather than pure definitions. See the [Waves revision notes](/resources/as-physics-waves-revision-notes/) for the underlying formulae and exam traps in condensed form.
+
+## Frequently asked questions
+
+**How do you find frequency and amplitude from an oscilloscope trace?**
+Multiply the number of vertical divisions from the centre line to a peak by the y-gain to get the amplitude. Multiply the divisions for one cycle by the time-base to get the period T, then use f = 1/T.
+
+**Which Doppler effect case is required for Cambridge 9702 AS?**
+Only the case of a moving source and a stationary observer is required, using f₀ = fₛv/(v ± vₛ). The source frequency itself never changes; only the observed frequency does.
+
+**What is the wavelength range of visible light?**
+Visible light has wavelengths of roughly 400 nm (violet) to 700 nm (red). All electromagnetic waves are transverse and travel at 3.00 × 10⁸ m s⁻¹ in a vacuum.
+
+**What mistakes lose marks in AS waves questions?**
+Common errors include saying sound can be polarised, saying intensity is proportional to amplitude rather than amplitude squared, applying Malus's law to unpolarised light, and using the wrong sign in the Doppler denominator.

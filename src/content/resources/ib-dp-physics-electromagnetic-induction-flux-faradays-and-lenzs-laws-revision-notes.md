@@ -179,6 +179,20 @@ If timing starts with the plane parallel to B, the same wave starts at its peak 
 - Treating the minus sign in Faraday's law as a negative magnitude, rather than as the sign that expresses opposition.
 - Describing self-induction without saying that the emf opposes the **change in current**.
 
+## Frequently asked questions
+
+**Is there any SL content in IB DP Physics D.4?**
+No. D.4, Induction, is additional higher level content only, so there is no standard level content.
+
+**Is an emf induced if the circuit is not complete?**
+Yes. An emf is induced whether or not the circuit is complete, but a current needs a closed circuit.
+
+**How much self-induction is required?**
+Only a qualitative account: a changing current in a coil induces an emf in the same coil that opposes the change in current, so the current rises or falls gradually and opening a switch can cause a spark.
+
+**Is an emf induced in a coil moving through a uniform field?**
+Not if the coil is wholly inside the uniform field and moves without rotating, because the flux through it does not change.
+
 ## Official syllabus
 
 These notes follow sub-topic D.4 (Induction) of the IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. D.4 is additional higher level content only.
