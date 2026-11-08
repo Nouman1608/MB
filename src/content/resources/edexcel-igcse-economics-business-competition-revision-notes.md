@@ -218,6 +218,23 @@ Use this when a question says discuss, evaluate or assess.
 - Forgetting that a takeover raises market share by adding both sales figures.
 - Confusing non-price competition with a price cut.
 
+## Frequently asked questions
+
+**What are the advantages of competition for consumers?**
+Competition tends to hold prices down, widen choice, push firms to improve quality and encourage innovation as firms race to get ahead. Firms face more pressure on profit, and some may close if losses are heavy.
+
+**What is the difference between a monopoly and an oligopoly?**
+A monopoly is a market where one business dominates, acting as a price-maker protected by barriers to entry. An oligopoly is a market where a few large firms supply most of the output, watch each other closely and often use non-price competition.
+
+**Why might a cartel collapse?**
+Each member can earn more by secretly cutting its price to win extra sales while the others keep to the agreed price. Once one firm cheats, others may cut too, and the agreement can turn into a price war.
+
+**What is the difference between a cartel and a merger?**
+A cartel is an agreement between firms that stay separate, usually to fix prices or output. A merger or takeover joins firms into one business.
+
+**What barriers to entry do you need to know for Edexcel IGCSE Economics?**
+The Edexcel International GCSE Economics (4EC1) specification lists legal barriers, patents, marketing budgets, technology and high start-up costs. Each should be explained by saying how it stops or deters new firms from entering.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 1.2.4.

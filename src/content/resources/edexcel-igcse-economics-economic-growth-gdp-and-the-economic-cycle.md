@@ -257,6 +257,23 @@ Question: evaluate whether faster growth in Country Ember makes its people bette
 - Listing limitations without saying how each one distorts the figure.
 - Writing "growth is good" with no evaluation. Say who gains, who loses, and over what time period.
 
+## Frequently asked questions
+
+**How is economic growth measured?**
+Economic growth is measured by the percentage increase in real gross domestic product (GDP), the total value of goods and services produced within a country in a period, usually a year. Real GDP is adjusted for price changes, so it shows the change in output rather than in prices.
+
+**Why is GDP per head used instead of total GDP?**
+Total GDP ignores how many people share the output. If population grows, GDP per head (GDP divided by population) rises more slowly than total GDP, so it gives a better guide to what the average person gains.
+
+**Does economic growth always create jobs?**
+Not always. If much of the extra output comes from higher output per worker, employment may rise only a little or not at all, giving growth without new jobs.
+
+**Does economic growth always reduce poverty?**
+Growth can reduce poverty by creating jobs and raising tax revenue for benefits and services. But if the gains go mainly to better-off households, the poorest may gain little and inequality can widen, so an average rise can overstate the typical gain.
+
+**Which Edexcel IGCSE Economics paper covers economic growth?**
+Economic growth is part a) of section 2.1.1, Macroeconomic objectives, in the Pearson Edexcel International GCSE Economics (4EC1) specification. It sits in the Paper 2 material, Macroeconomics and the Global Economy.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, published by Pearson Education Limited: section 2.1.1 a), Economic growth.

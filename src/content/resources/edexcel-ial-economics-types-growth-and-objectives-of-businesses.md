@@ -195,6 +195,23 @@ In large firms, ownership and control are separated. Shareholders (principals) o
 - Treating not-for-profit as meaning "makes no surplus".
 - Listing impacts without judging which dominates.
 
+## Frequently asked questions
+
+**What is the difference between a merger and a takeover?**
+A merger is a joint decision by two firms to combine. A takeover is the purchase of a controlling stake in another firm and may be agreed or hostile. Both are forms of external growth.
+
+**What is organic growth?**
+Organic, or internal, growth comes from reinvested profit, new products, new branches or new markets. It is lower risk and lets owners keep control, but it is slower and limited by retained profit.
+
+**Why do some firms demerge?**
+Firms demerge to escape diseconomies of scale, refocus on core activities, raise cash, release value from undervalued parts or meet a regulator's demand. The separate businesses gain focus but lose economies of scale, and workers face uncertainty.
+
+**How does the principal-agent problem affect business objectives?**
+In large firms ownership and control are separated, and managers know more than shareholders. Managers may pursue pay, status, growth or revenue rather than profit, so firms may produce more than the profit-maximising output.
+
+**What is a co-operative?**
+A co-operative is owned and controlled by its members, who may be workers, consumers or suppliers, usually with one vote each. Members share the gains, which builds loyalty, but decisions can be slow and raising finance is harder.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, specification Issue 2, June 2018, Pearson Education Limited: Unit 3, section 3.3.1, items 1 to 3.

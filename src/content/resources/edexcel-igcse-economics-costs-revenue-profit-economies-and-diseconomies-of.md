@@ -238,6 +238,23 @@ A longer answer should weigh the points. Useful lines of argument:
 - Writing "the firm gets too big" with no named diseconomy and no link to cost.
 - Leaving out units, or forgetting that TC includes fixed costs.
 
+## Frequently asked questions
+
+**What is the difference between fixed and variable costs?**
+Fixed costs stay the same whatever the output in the short run, such as rent or a lease. Variable costs rise as output rises, such as ingredients or packaging, and the two together make total costs.
+
+**Does the lowest average cost always give the highest profit?**
+No. Profit depends on how many units are sold as well as on cost per unit, so the output with the highest total profit can be above the output where average cost is lowest.
+
+**What are economies of scale?**
+Economies of scale are the fall in average cost that happens when a firm expands its scale of production. They are a long-run idea, because every input, including premises and machinery, can change.
+
+**How do external economies of scale affect the LRAC curve?**
+External economies of scale come from the growth of the whole industry or area, so they shift the firm's LRAC curve down rather than moving the firm along it. A firm cannot create external economies on its own.
+
+**Is it always worth a firm growing to cut costs?**
+Not always. A firm far below its most efficient output gains most from growing, but one near or beyond it may gain little or face diseconomies of scale. Growth also brings risk, borrowing and possible loss of the owner's control.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, Pearson Education Limited: section 1.2.3, Business costs, revenues and profit.

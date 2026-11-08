@@ -153,6 +153,23 @@ These questions cover economic growth in section 2.1.1 a) of the Pearson Edexcel
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you define economic growth?**
+Economic growth is a rise in the output of goods and services in an economy over time, measured by real GDP. A strong definition includes both the rise in output and the time period, and uses real rather than nominal figures.
+
+**How do you calculate real GDP growth from nominal GDP and a price index?**
+Divide nominal GDP in the later year by its price index and multiply by 100 to get real GDP at base-year prices, then find the percentage change from the base year. Reporting nominal growth as real growth counts inflation as output.
+
+**Why can't you subtract percentage changes to find growth in GDP per head?**
+Subtracting population growth from GDP growth only approximates the answer. Work out GDP per head in each year by dividing GDP by population, then calculate the percentage change, keeping enough decimal places until the final step.
+
+**What section of Edexcel IGCSE Economics covers economic growth?**
+Economic growth, GDP and the economic cycle are section 2.1.1 a) of the Pearson Edexcel International GCSE Economics (4EC1) specification, which has a single tier of entry.
+
+**How do you measure a percentage fall over two years?**
+Measure the total fall against the starting value, not by adding the two yearly percentages. Include the negative sign to show a decrease.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, published by Pearson Education Limited: section 2.1.1 a), Economic growth.

@@ -245,6 +245,23 @@ Describe it in words in the exam: the primary line slopes down, the tertiary lin
 - Stating that the sector pattern is identical in every country.
 - Placing a firm in the wrong sector, such as calling a factory tertiary.
 
+## Frequently asked questions
+
+**What are the four factors of production?**
+The four factors are land (all natural resources), labour (human effort, mental and physical), capital (man-made goods used to make other goods) and enterprise (organising the other factors, making decisions and bearing risk).
+
+**What are the primary, secondary and tertiary sectors?**
+The primary sector extracts or grows natural resources, such as farming, fishing and mining. The secondary sector makes and builds, such as manufacturing and construction, and the tertiary sector provides services, such as retail, banking and education.
+
+**Why does the primary sector's share of jobs fall as a developing economy grows?**
+Farm machinery and better seeds mean fewer workers are needed, and as incomes rise people spend a smaller share on food and more on manufactured goods and services. Resource-rich economies may still keep a large primary output share.
+
+**How can land productivity be raised?**
+The Edexcel International GCSE Economics (4EC1) specification names fertiliser, drainage, irrigation and reclamation. Irrigation raises output per hectare of existing land, while reclamation adds more land that may be of poorer quality.
+
+**Does a falling share of jobs mean a sector is in decline?**
+Not necessarily. A sector's output can rise while its share of jobs falls if productivity rises faster, for example when capital replaces labour in manufacturing.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, sections 1.2.1 and 1.2.2, published by Pearson Education Limited.

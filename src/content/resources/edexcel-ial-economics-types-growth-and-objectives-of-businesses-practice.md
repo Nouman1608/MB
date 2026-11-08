@@ -139,6 +139,23 @@ Fixed cost is 40.
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which part of the Edexcel IAL Economics specification covers business types and objectives?**
+Types, growth and objectives of businesses are section 3.3.1, items 1 to 3, of the Edexcel IAL Economics specification. This is Unit 3 content, an IAL compulsory unit, so it is examined only in the full International A Level.
+
+**What are the differences between profit maximisation, revenue maximisation and sales maximisation?**
+Profit maximisation chooses the output where profit is greatest (MR equals MC), revenue maximisation chooses the output where total revenue is greatest (MR equals zero), and sales maximisation pushes output as high as possible without making a loss. Mixing up these rules is a common error.
+
+**Why can a conglomerate merger reduce risk?**
+A conglomerate merger joins firms in unrelated markets, so a bad year in one business may be offset by a good year in the other. Using the data given to show a narrower range of combined profit makes the point stronger than a general claim.
+
+**What is the principal-agent problem?**
+It arises when the owners (principals) of a firm employ managers (agents) whose goals differ from theirs. For example, a chief executive paid a bonus linked to sales growth may pursue sales at the expense of the owners' profit.
+
+**How should you answer a 12-mark evaluate question on a takeover?**
+Weigh the likely gains and harms for the group named, such as consumers, and finish with a conditional judgement. Listing benefits and costs without weighing them reads as description, however accurate.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, specification Issue 2, June 2018, Pearson Education Limited: Unit 3, section 3.3.1, items 1 to 3.

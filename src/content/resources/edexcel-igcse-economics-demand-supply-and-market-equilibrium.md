@@ -250,6 +250,23 @@ The specification's command-word table says a Draw answer is a diagram containin
 - Describing a tax as a shift down (it is up) or a subsidy as a shift up (it is down).
 - Stating the new price but not the new quantity.
 
+## Frequently asked questions
+
+**Why does the demand curve slope downwards?**
+At higher prices buyers switch to cheaper alternatives or buy less because the product takes more of their income. So quantity demanded falls as price rises, giving a downward-sloping curve.
+
+**What is excess demand?**
+Excess demand, or a shortage, occurs at a price below equilibrium, where quantity demanded is greater than quantity supplied. It is calculated as quantity demanded minus quantity supplied at that price.
+
+**How do market forces remove excess supply?**
+When price is above equilibrium, sellers hold unsold stock and cut prices to clear it. The falling price extends quantity demanded and contracts quantity supplied until the two are equal and the price stops falling.
+
+**How does an inferior good respond to a rise in income?**
+For an inferior good, demand falls as incomes rise, because people switch to better alternatives when they can afford them. For most goods, called normal goods, demand rises with income.
+
+**What should a "Draw" answer include in Edexcel IGCSE Economics?**
+The specification's command-word table describes a Draw answer as a diagram with two or three separate awardable points. Label the axes, label the original and shifted curves, and show the original and new equilibrium with prices and quantities marked on the axes.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited, section 1.1.3.

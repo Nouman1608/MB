@@ -124,6 +124,23 @@ These questions cover section 4.3.2 items 4 and 5 of the *Pearson Edexcel Intern
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a free-trade area and a customs union?**
+In a free-trade area, members remove trade barriers between themselves but each keeps its own tariffs on outside countries. A customs union also removes internal barriers but adds a common external tariff on imports from non-members.
+
+**How do you tell trade creation from trade diversion?**
+Compare landed prices, including any tariff, before and after the bloc is formed, and identify which supplier wins each time. Trade creation is a switch from higher-cost home output to a cheaper partner; trade diversion is a switch from a cheaper outside supplier to a higher-cost partner.
+
+**Is a quota rent the same as tariff revenue?**
+No. A tariff raises revenue for the government, but under a quota the gap between the domestic and world price on the permitted imports goes as quota rent to whoever holds the import licences, often importers or foreign suppliers. Treating quota rent as government revenue is a common error.
+
+**Which part of the Edexcel IAL Economics specification covers trading blocs and protectionism?**
+Trading blocs, the WTO and protectionism are section 4.3.2 items 4 and 5 of the Edexcel IAL Economics specification (YEC11). They are in Unit 4, an International A2 unit, so the content is for the full International A Level only.
+
+**How should you answer an evaluate question on protectionism?**
+Cover every group the question names, such as consumers, producers, governments, living standards or equality, and give a counter-argument to each reason for protection. Finish with a judgement that names the conditions on which it depends, rather than a summary.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited: section 4.3.2 Trade and the global economy, items 4 and 5.

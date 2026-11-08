@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "business-economics-edexcel-igcse-economics"
-description: "Original exam-style practice questions with full worked answers on factors of production, productivity, division of labour, costs, revenue and economies of scale, built as four compulsory questions with mixed sub-question types, matching the specification's paper structure, for Pearson Edexcel International GCSE Economics (4EC1)."
+description: "Practice questions with worked answers on factors of production, productivity, division of labour, costs and scale economies for Edexcel IGCSE Economics 4EC1."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -213,3 +215,20 @@ partly through their effect on a firm's costs. A candidate who has secured fluen
 interpreting total and average costs here will find those later sub-topics considerably more accessible,
 since the underlying cost concepts recur throughout the specification rather than being confined to this
 one topic.
+
+## Frequently asked questions
+
+**How do you calculate profit and average total cost in an IGCSE Economics question?**
+Work out total revenue (price times quantity), then total costs (fixed costs plus variable costs), then profit (total revenue minus total costs), then average total cost (total costs divided by output). Show each step as a separate labelled line, since method is credited as well as the final answer.
+
+**What is the difference between production and productivity?**
+Production is the total output of goods and services. Productivity is output per unit of input, such as output per worker, so production can rise without any rise in productivity if more workers are hired.
+
+**What happens to average fixed cost when output rises?**
+Total fixed costs do not change with output, so as output rises they are spread over more units and average fixed cost falls. It keeps falling but never reaches zero.
+
+**What is the difference between internal and external economies of scale?**
+Internal economies of scale are cost savings specific to one firm as it grows, while external economies of scale are industry-wide savings that benefit all firms as the industry grows. Attach an example to each side, since a definition alone is unlikely to earn full credit.
+
+**How should you describe a long-run average cost curve?**
+Describe it in three stages: average cost falls as the firm grows (economies of scale), reaches a minimum at the efficient scale, then rises if the firm grows too large (diseconomies of scale). Jumping straight to "costs rise if a firm gets too big" misses the first stage.
