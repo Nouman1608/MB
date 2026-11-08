@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "spoken-language-endorsement-4ea1"
-description: "Preparing and giving a talk, answering questions and using formal spoken English for the optional, separately reported Spoken Language Endorsement in Edexcel IGCSE English Language A."
+description: "Preparing and giving a talk, answering questions and using spoken Standard English for the optional Spoken Language Endorsement in Edexcel IGCSE English 4EA1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

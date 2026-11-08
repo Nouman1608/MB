@@ -9,13 +9,15 @@ qualifications: ["igcse"]
 syllabusCodes: ["4EA1"]
 syllabusSeries: "Specification Issue 7, August 2025"
 order: 3
-description: "How Pearson Edexcel IGCSE English Language A 4EA1's compulsory Component 1 and its examined-or-coursework second route differ in preparation, the 45/45 reading and writing split, and a worked transactional writing routine."
+description: "Exam preparation for Edexcel IGCSE English Language A 4EA1: Component 1, the exam or coursework second route, and a worked transactional writing routine."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Pearson Edexcel International GCSE English Language A 4EA1 has a compulsory component plus a choice.

@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
     subtopic: "section-b-imaginative-writing-4ea1"
-description: "Original exam-style practice questions with a model plan and full worked commentary for Section A analysis and Section B imaginative writing, for Pearson Edexcel International GCSE English Language A Component 2 (4EA1)."
+description: "Original practice with a model plan and worked commentary for anthology analysis and imaginative writing, for Edexcel IGCSE English Language A 4EA1 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
