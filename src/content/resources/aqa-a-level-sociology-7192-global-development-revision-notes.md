@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Read the [Global development study guide](/resources/aqa-a-level-sociology-7192-global-development/) first; these notes condense it for last-stage revision.
@@ -155,6 +157,20 @@ The specification also requires you to link every topic to the two core themes (
 ## Related resources
 
 Green and state crime overlap with this topic in [crime and deviance revision notes](/resources/a-level-aqa-sociology-crime-and-deviance-revision-notes/). Globalisation and policy also appear in the [education revision notes](/resources/aqa-a-level-sociology-education-revision-notes/). For method links, see [methods in context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/). Other option 2 topics with global themes: [stratification and differentiation](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation-revision-notes/) (the transnational capitalist class), [the media](/resources/aqa-a-level-sociology-7192-the-media-revision-notes/) (media and globalisation) and [beliefs in society](/resources/aqa-a-level-sociology-7192-beliefs-in-society-revision-notes/) (globalisation and the spread of religions). Global culture also appears in [culture and identity](/resources/aqa-a-level-sociology-7192-culture-and-identity-revision-notes/).
+
+## Frequently asked questions
+
+**What is the difference between growth and development?**
+Rising GNI is economic growth. Development also includes health, education, rights and equality, which is why measures such as the HDI were introduced.
+
+**What is the difference between dependency theory and world systems theory?**
+Dependency theory has two tiers, metropolis and satellite, with little mobility. Wallerstein's world systems theory has three tiers, core, semi-periphery and periphery, and allows countries to move between them.
+
+**What does underdevelopment mean in dependency theory?**
+Underdevelopment means a society made poorer through unequal links with richer ones. It is different from being "undeveloped", which just means not yet developed.
+
+**What do HDI and GNI leave out?**
+GNI per capita is an average that hides inequality within a country and ignores unpaid work. The HDI adds health and education but is still an average.
 
 ## Official syllabus
 

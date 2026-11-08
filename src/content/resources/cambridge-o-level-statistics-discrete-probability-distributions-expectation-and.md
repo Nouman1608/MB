@@ -219,6 +219,20 @@ When a question says "wins Rs 25", read it as the amount received unless it says
 * Calling a game fair because the expected profit is small. Fair means exactly zero.
 * Rounding E(X) to a whole number because X is whole. Keep the exact value or a sensible decimal.
 
+## Frequently asked questions
+
+**What is the formula for expectation?**
+E(X) = Σ x p(x): multiply each value by its probability and add the results. For a function of X, E[g(X)] = Σ g(x) p(x).
+
+**When is a game fair?**
+A game is fair when the expected net gain is zero, so neither the player nor the organiser is expected to gain or lose in the long run. Equivalently, the stake equals the expected amount received.
+
+**Should you round E(X) to a whole number?**
+No. Even when X only takes whole values, keep the exact value of E(X) or a sensible decimal.
+
+**What does topic 12 of Cambridge O Level Statistics cover?**
+Topic 12 of the 4040 syllabus covers forming the probability distribution of a discrete variable (section 12.1) and expectation, including expected profit and loss in games and fair games (section 12.2).
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment (Cambridge International Education). Topic 12, sections 12.1 and 12.2, with the mathematical notation list at the end of the syllabus.

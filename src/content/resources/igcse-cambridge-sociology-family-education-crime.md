@@ -39,7 +39,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-family-education-crime-0495"
     subtopic: "kq-6-3-0495"
-description: "Family structures and functions, the roles of education, and crime, deviance and social control -- the full content of Paper 2 for Cambridge IGCSE Sociology 0495, 2025-2027 series."
+description: "Cambridge IGCSE Sociology (0495) Paper 2 guide, 2025-2027: family structures and perspectives, education, and crime, deviance and social control."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -224,6 +224,23 @@ topic — functionalist / Marxist / feminist — and fill in each cell with
 one specific mechanism rather than a general summary, since this table
 transfers directly into exam answers across Family, Education and
 (where perspectives are examined) Crime.
+
+## Frequently asked questions
+
+**How many questions do you answer on Cambridge IGCSE Sociology Paper 2?**
+Paper 2 of Cambridge IGCSE Sociology (0495) has three questions, one each on Family, Education and Crime, and you answer two of them.
+
+**How do the New Right and postmodernists differ on family diversity?**
+The New Right treats family diversity as a sign of dysfunction and favours the traditional nuclear family. Postmodernists treat diversity positively, as evidence of individual choice.
+
+**What is the difference between formal and informal social control?**
+Formal social control comes from agencies such as the police, courts, armed forces, government and penal system. Informal social control comes from the family, education, workplace, peer group, media and religion.
+
+**Why are official crime statistics not the true level of crime?**
+Under-reporting by victims, under-recording by police and changes in definitions over time all mean recorded crime differs from the true level of offending. The 0495 syllabus also names self-report studies and victim surveys as ways to measure crime.
+
+**What are the aims of punishment in the 0495 syllabus?**
+The syllabus names protection of citizens, deterrence, retribution, incapacitation and rehabilitation as the aims of punishment.
 
 ## Related resources
 

@@ -199,6 +199,20 @@ Finding the median, quartiles and percentiles from a cumulative frequency graph 
 - Quoting a percentage without dividing by the correct total, or comparing counts when the groups have different sizes.
 - Leaving out guide lines, so a misread scale leaves no evidence of method. The syllabus says essential working must be shown for full marks.
 
+## Frequently asked questions
+
+**What is the difference between frequency and cumulative frequency?**
+Frequency is the number in one class. Cumulative frequency is the number up to and including that class.
+
+**What are the class boundaries for rounded data?**
+For data measured to the nearest 1, the class 30–39 has boundaries 29.5 and 39.5. For data to 1 decimal place, the class 5.0–5.9 has boundaries 4.95 and 5.95.
+
+**What is the difference between a cumulative frequency polygon and curve?**
+Both go through the same points: a polygon joins them with straight lines, while a curve is a smooth line. Read the question to see which is wanted.
+
+**How do you find how many items lie between two values?**
+Subtract the cumulative frequency at the lower value from the cumulative frequency at the upper value.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment, topic 4, sections 4.1 and 4.2.

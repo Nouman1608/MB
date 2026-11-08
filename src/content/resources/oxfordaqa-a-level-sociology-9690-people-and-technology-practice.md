@@ -34,8 +34,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,6 +184,20 @@ Evaluation: Latour's actor-network theory rejects the either/or by treating huma
 - Review AS links in the [Exploring Sociology practice questions](/resources/oxfordaqa-a-level-sociology-exploring-sociology-practice/) and the [exam preparation guide](/resources/oxfordaqa-a-level-sociology-exam-preparation/).
 - Find your gaps with our [diagnostics](/diagnostics/).
 - Want help from a teacher? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What is the difference between a percentage and a percentage point?**
+A percentage-point gap is the simple difference between two percentages, while a percentage change compares a difference with a starting value. Confusing the two, or giving no working, loses marks in OxfordAQA 9690 calculation questions.
+
+**How do you apply a theory to data or a scenario?**
+Link the theory directly to the figures or details given, explaining what they show in the theory's terms. Describing the theory with no link to the data earns fewer marks.
+
+**Is uses and gratifications a passive-audience model?**
+No. Uses and gratifications treats audiences as active. Citing it as a passive-audience model is a common error.
+
+**Which section of the 9690 specification do these questions cover?**
+They cover section 3.2.3, People and technology, assessed in Unit 5 of OxfordAQA International AS and A-level Sociology (9690), a 1 hour 30 minute exam worth 50 marks and 20% of the International A-level.
 
 ## Official syllabus
 

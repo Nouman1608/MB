@@ -180,6 +180,20 @@ The estimated mean call length is 22.5 minutes.
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is the mode the value or its frequency?**
+The mode is the value or class that occurs most often, not how many times it occurs. Quoting the frequency as the mode is a common way to lose marks in Cambridge IGCSE Statistics (0479).
+
+**Why is the mean of grouped data only an estimate?**
+Grouped data does not show the exact values, so each class is represented by its midpoint. The result, Σfx ÷ Σf, is therefore an estimate of the mean.
+
+**How do you find the median of a grouped frequency table?**
+Interpolate within the median class, or read it from a cumulative frequency graph, rather than quoting the middle class. For grouped data the median position is n/2, not (n + 1)/2.
+
+**Which part of the 0479 syllabus do these questions cover?**
+They follow Topic 4, Measures of central tendency, outcomes 4.1 to 4.4, of the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027.
+
 ## Official syllabus
 
 These questions follow Topic 4, Measures of central tendency (outcomes 4.1 to 4.4), of the Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, published by Cambridge University Press & Assessment (Cambridge International Education).

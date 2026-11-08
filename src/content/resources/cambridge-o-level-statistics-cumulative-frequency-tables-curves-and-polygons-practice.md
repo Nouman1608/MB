@@ -208,6 +208,20 @@ The class 10 < d ≤ 15 has frequency 18. Find x, and find the frequency of the 
 - Try all the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - Want a teacher? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you check a cumulative frequency table?**
+The last running total must equal the total frequency. If it does not, there is an addition slip somewhere in the table.
+
+**How do you answer a "more than" question from a cumulative frequency graph?**
+Read the cumulative frequency at the value, then subtract it from the total, because the graph counts items up to a value, not above it.
+
+**How do you compare two groups of different sizes?**
+Compare proportions or percentages rather than raw counts, since a larger group will usually have larger counts.
+
+**Which part of the 4040 syllabus do these questions cover?**
+They cover topic 4, sections 4.1 and 4.2, of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027: cumulative frequency tables, curves and polygons.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment, topic 4, sections 4.1 and 4.2.

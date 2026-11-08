@@ -185,6 +185,20 @@ List every pair in a grid, count how many pairs give each value, and divide by t
 - Treating a negative expected gain as an actual loss on every play.
 - Leaving a possible value out of the table, for example forgetting X = 0, when the question asks for every possible outcome.
 
+## Frequently asked questions
+
+**What is the difference between X and x?**
+Capital X is the random variable; small x is one of its values.
+
+**Is the expectation the most likely value?**
+No. The value with the highest probability is the mode of the distribution, which is not the same as the expectation E(X).
+
+**Should you round in the middle of an expectation calculation?**
+No. Carry exact fractions or full decimals through the working and round only the final answer.
+
+**How can you check that an answer for E(X) is sensible?**
+E(X) should lie between the smallest and largest values of X, and it should sit nearer the values that have the larger probabilities.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, Cambridge University Press & Assessment (Cambridge International Education), Topic 8: Probability distributions, learning outcomes 8.1 and 8.2.

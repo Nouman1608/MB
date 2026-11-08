@@ -241,6 +241,20 @@ You can then find related probabilities. P(A ∩ B′) = 0.72 – 0.15 = 0.57 an
 
 Work through the [practice questions](/resources/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and-practice/), then condense the unit with the [revision notes](/resources/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and-revision-notes/). Tick off each outcome on the [checklist](/checklists/cambridge/igcse/statistics/), and use the [diagnostics](/diagnostics/) to test yourself under time.
 
+## Frequently asked questions
+
+**Does "or" in probability mean one but not both?**
+No. In probability "A or B" includes the case where both happen, which is why the addition rule subtracts the overlap once.
+
+**How many outcomes are there when picking twice from 9 items?**
+With replacement there are 9 × 9 = 81 equally likely ordered pairs. Without replacement there are 9 × 8 = 72 ordered pairs.
+
+**Can a probability be greater than 1?**
+No. Every probability lies between 0 and 1, so an answer above 1 or below 0 signals a mistake in the working.
+
+**What does this unit of Cambridge IGCSE Statistics cover?**
+It covers outcomes 7.1 to 7.4 of Topic 7, Probability, in Cambridge IGCSE Statistics (0479): notation, simple probabilities, selection with and without replacement, complements and the addition rule.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, Version 1, Cambridge International Education (part of Cambridge University Press & Assessment). This unit covers Topic 7, outcomes 7.1 to 7.4.

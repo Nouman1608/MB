@@ -17,8 +17,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -115,6 +117,20 @@ researching this specific topic with this specific age group.
 an education-specific issue that is worth explaining fully rather than just mentioning in passing.
 - Listing method-only and context-only points side by side rather than genuinely combining them
 into single points, which is what separates a middle-band answer from a top-band one.
+
+## Frequently asked questions
+
+**What separates a top-band methods in context answer from a middle-band one?**
+Top-band answers combine a specific feature of the named method with a specific feature of the education context in a single point. Listing method-only and context-only points side by side keeps an answer in the middle band.
+
+**How should you use the item in a methods in context question?**
+Use its details directly: each strong point should draw on something the item says, such as teachers' limited time or pupils being minors. Answers that ignore the item lose application marks.
+
+**How many points does a methods in context answer need?**
+The published AQA mark scheme sets no target number of points and does not require every point for the top band. Several combined points developed in depth, with an overall judgement, work better than many shallow ones.
+
+**Which AQA paper includes the methods in context question?**
+Methods in context is part of Paper 1, Education with Theory and Methods, of AQA A Level Sociology (7192).
 
 For condensed recall notes on the method-and-context framework itself, see the
 [Methods in Context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/).

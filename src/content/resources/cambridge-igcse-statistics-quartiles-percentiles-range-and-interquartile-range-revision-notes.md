@@ -188,6 +188,20 @@ A smooth curve and a polygon give slightly different readings, so a graph answer
 - Using a table's n/4 position for an ungrouped table when you meant the halves method. Choose one method and say which.
 - Stopping at a position (such as "the 20th value") without reading the matching value from the table.
 
+## Frequently asked questions
+
+**Where do you plot points on a cumulative frequency graph?**
+Plot each cumulative frequency at the upper class boundary, not at the midpoint or lower boundary.
+
+**How do you read the quartiles from a cumulative frequency graph?**
+Find n/4 and 3n/4 on the vertical, cumulative frequency axis, go across to the curve and then down to read the values on the horizontal axis.
+
+**How do you find the percentile of a given value?**
+Go up from the value on the horizontal axis to the curve, read across to the cumulative frequency, then divide by n and multiply by 100.
+
+**Can the interquartile range be bigger than the range?**
+No. For an ungrouped data set the interquartile range covers only the middle half of the data, so it is never larger than the range.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027 (version 1), Cambridge International Education, part of Cambridge University Press & Assessment. Topic 5, outcomes 5.1 to 5.5.

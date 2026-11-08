@@ -188,6 +188,20 @@ The base amount of 300 raises the average pay but has no effect on how spread ou
 - Showing only a final answer with no substitution. Essential working must be shown for full marks, as the syllabus instructions for each paper state.
 - Leaving out the check that the old mean maps to the target mean.
 
+## Frequently asked questions
+
+**What happens to the standard deviation when b is negative?**
+Spread cannot be negative, so a negative b still gives a positive standard deviation equal to |b| times the original.
+
+**What is coding in O Level Statistics?**
+Coding is a linear transformation chosen to make the numbers smaller, such as y = (x − 200) / 10. To go back, rearrange it: x = 200 + 10y.
+
+**How do you recognise a shift and a scaling in the question?**
+"Each value is increased by" or "a fixed amount is added" means a shift, so only the mean changes. "Doubled", "converted to" or "scaled by" means a multiplication, so both the mean and the standard deviation change.
+
+**How can you check a transformation to a target?**
+Check that the old mean maps to the target mean when you substitute it into y = a + bx.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, sections 6.1 and 6.2.

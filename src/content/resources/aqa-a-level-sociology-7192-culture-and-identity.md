@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers Culture and Identity for AQA A-level Sociology (7192), as set out in the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 4.2.1 of the A-level content (the specification-at-a-glance list also shows it as 3.2.1). It is assessed in Paper 2: Topics in Sociology, Section A, where it is one of the four option 1 topics.
@@ -128,6 +130,23 @@ Erving Goffman (1959) used a **dramaturgical** analogy: people perform roles "fr
 ## Where next
 
 For Paper 2's partner topics and the rest of the course, see the [course structure guide](/resources/a-level-sociology-course-structure/). Links to education help with socialisation and class identity: see the [education and differential achievement guide](/resources/a-level-aqa-sociology-role-of-education-and-differential-achievement/). For subcultures and labelling in another context, see the [crime and deviance guide](/resources/a-level-aqa-sociology-crime-and-deviance/). For evaluating research design, see [methods in context](/resources/a-level-sociology-methods-in-context/). Related Paper 2 topics: [Families and Households](/resources/aqa-a-level-sociology-7192-families-and-households/) (primary socialisation), [The Media](/resources/aqa-a-level-sociology-7192-the-media/) (popular culture and representations) and [Stratification and Differentiation](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation/) (class).
+
+## Frequently asked questions
+
+**What is the difference between "socially caused" and "socially constructed" identity?**
+The socially caused, structural view, taken by functionalists and Marxists, sees identity shaped by structures such as class and the economy. The socially constructed, action view, taken by interactionists and postmodernists, sees identity created and negotiated through interaction.
+
+**What is the social model of disability?**
+The social model, associated with Mike Oliver (1990), argues that people are disabled by barriers in society, such as inaccessible buildings and attitudes, rather than by an individual impairment as the medical model claims.
+
+**What does "imagined communities" mean?**
+Benedict Anderson (1983) called nations imagined communities because members will never meet most other members, yet still feel a bond with them.
+
+**How does globalisation affect national identity?**
+Hall (1992) suggested three possible outcomes: erosion through cultural homogenisation, strengthening as resistance, and the rise of new hybrid identities.
+
+**What is conspicuous consumption?**
+Conspicuous consumption is Veblen's (1899) term for buying goods to display status. Postmodernists extend the idea, arguing people now build identities through brands, styles and leisure.
 
 ## Official syllabus
 

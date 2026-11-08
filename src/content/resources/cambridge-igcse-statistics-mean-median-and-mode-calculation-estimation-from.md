@@ -226,6 +226,23 @@ Always refer to the data in the question. "The median is better because it is no
 
 Test yourself with the [practice questions](/resources/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from-practice/), recap with the [revision notes](/resources/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from-revision-notes/), and tick off outcomes on the [checklist](/checklists/cambridge/igcse/statistics/).
 
+## Frequently asked questions
+
+**When should you use the median instead of the mean?**
+Use the median when the data is skewed or has extreme values, such as house prices or incomes, because the mean is pulled strongly by extreme values and the median is not.
+
+**How do you estimate the mean from grouped data?**
+Multiply each class midpoint by its frequency, add the results to get Σfx, and divide by Σf. Use midpoints, not class limits, and divide by the total frequency, not the number of classes.
+
+**Can you find the mean if the last class is open-ended?**
+Not sensibly. A class such as "60 and over" has no midpoint, so the mean cannot be estimated, but the median and modal class can still be found if they do not fall in that class.
+
+**What does Topic 4 of Cambridge IGCSE Statistics cover?**
+Topic 4, Measures of central tendency, covers the mean, median and mode of small data sets and frequency tables, estimates from grouped data, the modal class and choosing the right average.
+
+**Why might the mean not be a possible value?**
+The mean is calculated, not observed, so it can be a value that cannot actually occur, such as a mean of 2.2 faults.
+
 ## Official syllabus
 
 This guide follows Topic 4, Measures of central tendency (outcomes 4.1 to 4.4), of the Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, published by Cambridge University Press & Assessment (Cambridge International Education).

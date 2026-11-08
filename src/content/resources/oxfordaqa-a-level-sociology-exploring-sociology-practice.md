@@ -22,13 +22,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-exploring-sociology-9690"
     subtopic: "research-methods-and-theory-9690"
-description: "An original 60-mark Unit 2 practice paper for OxfordAQA International A-level Sociology (9690): Section A Socialisation and social control (40 marks) and Section B Research methods and theory (one 20-mark extended response), with mark schemes."
+description: "Original 60-mark Unit 2 practice paper for OxfordAQA International A-level Sociology (9690): socialisation and social control, and research methods and theory."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions;
@@ -132,3 +134,17 @@ Indicative content:
 - On Question 5, describing the Marxist view of society in general rather than keeping the answer on social control.
 - On the 20-mark questions, listing perspectives one after another without comparing them or reaching a judgement, and (on Question 6) giving no examples from a named society, which the question asks for.
 - On Question 7, discussing practical strengths and weaknesses of methods without linking the choice back to positivist or interpretivist theory.
+
+## Frequently asked questions
+
+**How is OxfordAQA 9690 Unit 2 structured?**
+Unit 2, Exploring Sociology, is worth 60 marks: Section A on socialisation and social control (40 marks) and Section B on research methods and theory, with one 20-mark extended response.
+
+**How do you answer an "identify and briefly explain" question?**
+Give each point and a brief explanation of it. Naming two points without explaining them misses the second mark for each.
+
+**How do you write a 2-mark definition?**
+Say what the term means. Giving only an example, without a definition, earns at most partial credit.
+
+**What do the 20-mark questions need?**
+They need perspectives weighed against each other with a judgement, not listed one after another. Where a question asks for examples from a named society, include them.

@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,6 +160,20 @@ Applying material from the item and your knowledge, evaluate cultural/behavioura
 - For health as part of global development, try the [Global Development practice questions](/resources/aqa-a-level-sociology-7192-global-development-practice/).
 - Find your weak spots with our [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) for help with extended answers.
+
+## Frequently asked questions
+
+**Is Health in Section A of AQA A-level Sociology Paper 2?**
+Yes. Health (4.2.3) is an option 1 topic, answered in Section A of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
+
+**How do you define a term for full marks in a Health question?**
+Include the term's key feature. A definition that misses the feature that makes the concept distinctive, such as the rights and duties of a role, earns only part of the marks.
+
+**How should you use an item in a Health question?**
+Build each point around a quoted detail from the item, then link it to a concept or explanation. Using the item only as decoration does not earn application marks.
+
+**Should you treat minority ethnic groups as one group in health answers?**
+No. Health patterns differ between ethnic groups, so name specific groups or explanations, such as material deprivation or racism, rather than writing about "ethnic minorities" as a whole.
 
 ## Official syllabus
 

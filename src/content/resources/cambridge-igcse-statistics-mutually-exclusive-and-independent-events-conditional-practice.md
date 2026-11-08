@@ -189,6 +189,20 @@ Start
 - Use the [free diagnostics](/diagnostics/) to spot the next gap.
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**When do you add probabilities and when do you multiply them?**
+Add probabilities for mutually exclusive events, which cannot happen together. Multiply for independent events; if the events are linked, change the second-stage probability before multiplying.
+
+**What changes when items are not replaced?**
+The total goes down by one after each draw, and so does the count of the type taken. Keeping the denominator at the original total is a common error.
+
+**What should you write after an independence test?**
+State a conclusion in words, saying whether the events are independent and why, rather than leaving only the calculation.
+
+**Which part of the 0479 syllabus do these questions cover?**
+They cover outcomes 7.5 to 7.7 of Topic 7, Probability, in the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027.
+
 ## Official syllabus
 
 Source: the Cambridge IGCSE Statistics 0479 syllabus (examination year 2027), published by Cambridge University Press & Assessment. Covered here: Topic 7 Probability, outcomes 7.5 to 7.7. Hub: [Cambridge IGCSE Statistics](/boards/cambridge/igcse/statistics/).

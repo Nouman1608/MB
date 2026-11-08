@@ -23,8 +23,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -148,3 +150,17 @@ means of production alone; Weber adds status and party as separate, additional d
 stratification. 4. The gap between crimes that actually occur and those that are officially recorded
 or reported — unreported and unrecorded crime. 5. The culture-of-poverty explanation and the
 material-deprivation explanation.
+
+## Frequently asked questions
+
+**Which perspective does each crime sociologist belong to?**
+Merton is functionalist (anomie), Becker is interactionist (labelling), and Heidensohn and Carlen are feminist. Cohen is known for delinquent subcultures.
+
+**Which perspective does each stratification sociologist belong to?**
+Davis and Moore are functionalist, Marx is Marxist, Murray is New Right and Walby is feminist. Weber and Townsend are known for class, status and party, and relative deprivation.
+
+**What are the two explanations of poverty to contrast?**
+The culture-of-poverty explanation and the material-deprivation explanation. The AQA 8192 specification treats them as a genuine theoretical dispute, so contrast them rather than using only one.
+
+**What is the difference between crime and deviance?**
+Deviance is broader than crime: a deviant act need not be illegal, while crime specifically breaks the law.

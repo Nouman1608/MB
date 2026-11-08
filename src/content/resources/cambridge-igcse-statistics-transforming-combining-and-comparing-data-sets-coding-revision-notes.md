@@ -190,6 +190,20 @@ Total of S = 960, so mean of S = 960/24 = 40
 - Saying a measure "must change" when adding a value, when it may stay the same.
 - Comparing raw marks from different distributions instead of z-scores.
 
+## Frequently asked questions
+
+**What does a z-score of 2 mean?**
+A z-score of 2 means the value is two standard deviations above the mean, in any data set. A higher z-score means a better relative position in its group.
+
+**What happens to the quartiles with a negative multiplier?**
+The order of the data reverses, so the old upper quartile becomes the new lower quartile. The IQR is multiplied by the positive size of the multiplier.
+
+**What does "without calculating" mean in a coding question?**
+It means use the coding rules to find the new measures, not the original data.
+
+**What is the difference between "larger" and "more consistent"?**
+They are different judgements. "Larger values generally" uses the mean or median, while "more consistent" uses the standard deviation or IQR.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, version 1, Cambridge University Press & Assessment (Cambridge International Education), Topic 6, outcomes 6.1 to 6.6.

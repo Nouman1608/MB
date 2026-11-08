@@ -9,13 +9,15 @@ qualifications: ["o-level"]
 syllabusCodes: ["2251"]
 syllabusSeries: "2025-2027"
 order: 3
-description: "Why Cambridge O Level Sociology 2251's two papers carry equal marks but unequal time, how to use the methods content as an asset across both papers, and a worked evaluation structure."
+description: "Exam preparation for Cambridge O Level Sociology (2251): why Paper 2 is the tighter paper, using methods across both papers, and a worked evaluation plan."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Cambridge O Level Sociology 2251 is assessed by two externally assessed papers of equal weight but
@@ -125,6 +127,20 @@ well; what most often stops an answer short is presenting both sides fairly and 
 explicit, reasoned judgement. 4. Naming leaves the term as vocabulary; using it means defining it
 accurately and then applying it to the specific case the question raises, which is what can be
 credited.
+
+## Frequently asked questions
+
+**How long are the Cambridge O Level Sociology 2251 papers?**
+Paper 1 (Research Methods, Identity and Inequality) is 2 hours and Paper 2 (Family, Education and Crime) is 1 hour 45 minutes. Each is worth 80 marks and 50% of the qualification.
+
+**How much time should you spend per mark in O Level Sociology?**
+Paper 1 allows about 1.5 minutes per mark, and Paper 2 about 1.3 minutes per mark, because it gives 105 minutes for the same 80 marks.
+
+**How do you structure an evaluation answer?**
+State a position, support it with evidence, take the strongest objection seriously, and then reach a judgement. A genuine two-sided treatment is what evaluation questions need.
+
+**How should you revise sociological concepts for O Level Sociology?**
+For each key concept, such as socialisation or social control, practise a one-sentence definition plus one sentence applying it to a concrete example from the syllabus. Concepts used only as vocabulary earn very little.
 
 *Written against the assessment overview of Cambridge O Level Sociology 2251 (official syllabus for
 2025-2027, verified 2026-08-27). The evaluation structure above is an original planning model written

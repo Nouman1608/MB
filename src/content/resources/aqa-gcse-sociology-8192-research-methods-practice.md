@@ -39,8 +39,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,6 +191,20 @@ Revise first with the [study guide](/resources/aqa-gcse-sociology-8192-research-
 ## Next steps
 
 Check weak areas against the [study guide](/resources/aqa-gcse-sociology-8192-research-methods/) and rehearse terms with the [revision notes](/resources/aqa-gcse-sociology-8192-research-methods-revision-notes/). Practise methods in topic contexts with the [Families and Education practice set](/resources/aqa-gcse-sociology-families-education-practice/) and the [Crime and Stratification practice set](/resources/gcse-sociology-crime-stratification-practice/). Find your gaps with our [diagnostics](/diagnostics/), or [book a free trial class](/trial/) with a Marlbridge tutor.
+
+## Frequently asked questions
+
+**What is the difference between a percentage increase and a change in percentage points?**
+A change in percentage points is the simple difference between two percentages, such as 28% to 42% being 14 points. A percentage increase compares that change with the starting figure, which in this case is a 50% increase.
+
+**How do you apply a research method to a scenario?**
+Link each strength or weakness to the group and topic in the question rather than listing general points about the method. General strengths with no application earn fewer marks.
+
+**How should you deal with ethical issues in a research design question?**
+Name the issue and explain how you would address it for the group studied, for example gaining parental consent for research with pupils.
+
+**Is research methods assessed in both AQA GCSE Sociology papers?**
+Yes. Methods are not a separate paper in AQA GCSE Sociology (8192): Paper 1 and Paper 2 both assess "relevant areas of social theory and methodology", so methods questions can be set in any topic.
 
 ## Official syllabus
 

@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-2-2-2251"
-description: "Research methods, identity (self and society), and social stratification and inequality -- the full content of Paper 1 for Cambridge O Level Sociology 2251, 2025-2027 series. Identical paper structure and content to Cambridge IGCSE Sociology 0495 (the two qualifications differ in grade range and availability)."
+description: "Cambridge O Level Sociology (2251) Paper 1 guide, 2025-2027: research methods, identity and socialisation, and social stratification and inequality."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Paper 1 Research Methods, Identity and
@@ -147,6 +149,20 @@ wider population with more confidence; a small, unrepresentative, or self-select
 undermines the value of even a well-designed method. Practise identifying sampling issues
 specifically (not just method issues) in a described research scenario, since Cambridge mark
 schemes credit this as a separate evaluative point from the choice of method itself.
+
+## Frequently asked questions
+
+**How is O Level Sociology 2251 different from IGCSE 0495?**
+They share identical Paper 1 titles, structure, tariffs, topic numbering, assessment objectives and command words. They differ in grade range (2251 awards A* to E, 0495 A* to G) and in availability, since 2251 is restricted by administrative zone.
+
+**Which question is compulsory on O Level Sociology Paper 1?**
+Question 1 is always Research Methods (Topic 1), so it cannot be avoided. You then choose one further question from Topic 2 (Identity) or Topic 3 (Inequality).
+
+**Is there one best research method to learn?**
+No. A well-chosen method for one topic can be the wrong choice for another, so practise justifying different method choices for different research scenarios.
+
+**What is the difference between formal and informal social control?**
+Formal control works through explicit rules and sanctions enforced by agencies such as government, police, courts and the penal system. Informal control works through unwritten norms enforced by family, peers and media, through disapproval, praise, gossip and exclusion.
 
 ## Official syllabus
 

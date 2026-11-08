@@ -25,13 +25,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introducing-sociology-9690"
     subtopic: "research-methods-9690"
-description: "Original exam-style practice questions with full worked answers on families, marriage, perspectives on the family, and research methods for OxfordAQA International A-Level Sociology (9690) Unit 1."
+description: "Original OxfordAQA International A-level Sociology (9690) Unit 1 practice questions, with worked answers on families, marriage, perspectives and methods."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -262,3 +264,17 @@ matching Unit 1's real mark allocation.)*
   suitability for this particular topic.** Question 6(b) and 6(c) and
   Question 7(d) all score higher when the point is tied to researching
   families specifically, not method pros and cons recited from memory.
+
+## Frequently asked questions
+
+**How do you earn marks for a concept in a 9690 family question?**
+Connect the concept back to the question asked. Naming a concept correctly without linking it to the issue in the question earns little.
+
+**How should you answer an item-based question in Unit 1?**
+Use the details of the item throughout. An answer that could have been written without reading the item will not score well.
+
+**How do you evaluate a research method for studying families?**
+Tie each strength or weakness to researching families specifically, rather than reciting general pros and cons of the method from memory.
+
+**What does a top-level 12-mark answer need?**
+In this practice set's mark scheme, the top level needs sustained analysis and evaluation across perspectives with a supported conclusion.

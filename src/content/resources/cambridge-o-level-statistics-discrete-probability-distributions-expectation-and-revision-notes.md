@@ -183,6 +183,20 @@ A ticket costing Rs 1 makes the raffle fair. At Rs 1.50, the organiser expects R
 * Leaving a fair-game answer without a short check that the expectation is zero.
 * Describing an expected value as what will happen on the next play.
 
+## Frequently asked questions
+
+**What is the difference between p(x) and E(X)?**
+p(x) is a probability between 0 and 1. E(X) is a value on the same scale as X, found by weighting each value by its probability.
+
+**Is a game fair if the expected gain is close to zero?**
+No. A fair game has an expected net gain of exactly zero; a small but non-zero expected gain still favours one side.
+
+**What is net gain in a game?**
+Net gain is the amount received minus the stake. Treating the prize as the net gain is a common error.
+
+**Does one play of a game give the expectation?**
+Not usually. The expectation describes the long-run average, and a single play only gives it if that value is a possible result.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment (Cambridge International Education). Topic 12, sections 12.1 and 12.2, and the mathematical notation list.

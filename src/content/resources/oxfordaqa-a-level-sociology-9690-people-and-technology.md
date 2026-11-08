@@ -34,8 +34,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers section 3.2.3, People and technology (3.2.3.1 to 3.2.3.5), of the OxfordAQA International AS and A-level Sociology (9690) specification, Version 1.1 (first teaching September 2026; first A-level exams May/June 2028). The section is assessed in Unit 5: People and technology, a 1 hour 30 minute exam worth 50 marks and 20% of the International A-level, with short and extended response questions. The specification also says you must use examples from your own society, or a society you know about, in selected extended response questions.
@@ -142,6 +144,23 @@ The internet gives **fast global access to information**. Social media changed c
 - Forgetting the required examples from your own society in extended answers.
 
 For the AS content that leads into this unit, see the [Exploring Sociology guide](/resources/a-level-oxfordaqa-sociology-exploring-sociology/) (which covers socialisation, social control and online identities) and the [Introducing Sociology guide](/resources/a-level-oxfordaqa-sociology-introducing-sociology/). For exam technique on a new specification, read [preparing for the new 9690 exams](/resources/oxfordaqa-a-level-sociology-exam-preparation/). The other A-level units are covered in the guides to [People and development](/resources/oxfordaqa-a-level-sociology-9690-people-and-development/) and [People and the environment](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment/).
+
+## Frequently asked questions
+
+**What is technological determinism?**
+Technological determinism is the view that technology drives social change. It is a perspective, not a named study, so support it with writers such as McLuhan or Marx.
+
+**What is the synopticon?**
+Thomas Mathiesen's synopticon describes the many watching the few, as in celebrity culture, in contrast to Foucault's use of the panopticon, where people discipline themselves because they might be watched.
+
+**What is the digital divide?**
+Digital divides are gaps in access to and skills with technology, between and within countries, by income, age, rural or urban location, gender and disability.
+
+**Does social media harm young people's mental health?**
+The question is contested. Haidt's *The Anxious Generation* (2024) argues smartphones and social media harmed adolescent mental health, while Orben and Przybylski (2019), analysing large datasets, found only a small negative association between digital technology use and adolescent wellbeing.
+
+**What is the difference between citizen journalists and other content creators?**
+Citizen journalism means ordinary people reporting news events, often before professional reporters arrive. Not every online creator is a citizen journalist.
 
 ## Official syllabus
 

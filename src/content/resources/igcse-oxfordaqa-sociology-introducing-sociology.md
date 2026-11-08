@@ -24,13 +24,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-exploring-sociology-9292"
     subtopic: "research-methods-paper2-9292"
-description: "A guide to Paper 1 Introducing Sociology for OxfordAQA International GCSE Sociology (9292): families (3.1.1), education including global education (3.1.2) and research methods (3.1.3), with the named sociologists for each."
+description: "OxfordAQA International GCSE Sociology (9292) Paper 1 guide: families (3.1.1), education and global education (3.1.2) and research methods (3.1.3)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Paper 1 Introducing Sociology**, one of two
@@ -230,3 +232,20 @@ and explain how poverty, gender and digital access affect education.
 representativeness.
 - Choose and justify a method for a specific research aim, and apply
 ethical guidelines.
+
+## Frequently asked questions
+
+**When is OxfordAQA International GCSE Sociology 9292 first examined?**
+OxfordAQA International GCSE Sociology (9292) is a new qualification, Version 1.0, first examined in May/June 2028. It has two papers, and research methods is shared between them.
+
+**What is the difference between the official and hidden curriculum?**
+The official, or formal, curriculum is the subjects formally taught. The hidden curriculum is the attitudes and behaviours taught informally through school organisation and routine, such as punctuality, respect for authority and competitiveness.
+
+**What is a pivot generation?**
+A pivot generation is people who care for their children and their ageing parents at the same time, a result of rising life expectancy and falling birth rates.
+
+**What is credentialism?**
+Credentialism is the growing emphasis on formal qualifications, which can be used as a filter even where their content is not directly relevant to a job.
+
+**What does global education cover in 9292?**
+Section 3.1.2.5 lists literacy rates, differences in educational provision around the world, such as free and compulsory schooling and class sizes, and the effects of poverty on schools and education.

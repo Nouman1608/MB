@@ -22,13 +22,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-the-family-9699"
     subtopic: "gender-equality-family-life-9699"
-description: "Original practice questions with full worked answers covering perspectives on the family, diversity and social change, and gender and age within family life, for Cambridge AS & A Level Sociology Paper 2 (9699)."
+description: "Original Cambridge 9699 Paper 2 practice questions on the family, with worked answers on perspectives, diversity, conjugal roles and childhood."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -94,6 +96,20 @@ most heavily through its AO3 weighting. Question 6 in particular tests the same 
 diversity content rather than 3.1's role-of-the-family content, reflecting the revision notes' warning
 that blending these two sub-topics, or applying 3.1's theories where a question actually wants 3.2's
 diversity-specific perspectives, is a common source of lost marks.
+
+## Frequently asked questions
+
+**What is the difference between "give" and "explain" questions in 9699 Sociology?**
+A "give" question wants a stated fact with no justification, so extended writing earns nothing extra. An "explain" question needs the point developed, for example by saying who performs a task and why it matters.
+
+**How should you structure a family essay for Cambridge Sociology Paper 2?**
+Set named perspectives directly against the claim in the question rather than describing each theory in its own paragraph. Cross-perspective evaluation is what the essay's AO3 weighting rewards most.
+
+**What is a common mistake in family diversity essays?**
+Applying the role-of-the-family theories from 3.1 when the question wants the diversity-specific perspectives from 3.2, such as the New Right and postmodernism. Keep the sub-topics distinct so the answer stays on target.
+
+**Are these real Cambridge past paper questions?**
+No. They are original questions written for revision on the Cambridge International AS & A Level Sociology (9699) family content; use official past papers from your school or Cambridge alongside them.
 
 ## Official syllabus
 

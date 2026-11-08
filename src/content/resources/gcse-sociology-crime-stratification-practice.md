@@ -26,8 +26,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -192,6 +194,20 @@ before the exam.
   routinely the basis of short-answer questions.
 - On the item-based questions, describing the item's scenario without
   linking it explicitly to a named sociological concept or study.
+
+## Frequently asked questions
+
+**How do you reach the higher mark band in a GCSE Sociology "explain" answer?**
+Explain how a factor affects the outcome asked about, not just name it. Listing a factor such as gender without the "how" only accesses the lower mark band.
+
+**What does a "difference" question on stratification need?**
+It needs an explicit comparison, for example setting the functionalist and Marxist views side by side, rather than describing each one separately.
+
+**How do you answer an item-based question on crime or stratification?**
+Link the item's details to a named sociological concept or theory and explain the link, rather than repeating what the item says.
+
+**Which AQA paper covers crime and stratification?**
+Crime and deviance (3.5) and social stratification (3.6) are assessed in Paper 2 of AQA GCSE Sociology (8192).
 
 ## Official syllabus
 

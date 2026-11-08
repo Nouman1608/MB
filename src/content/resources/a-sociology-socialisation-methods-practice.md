@@ -33,8 +33,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -107,3 +109,17 @@ Answer **one** question from this section.
 - Evaluating a method in the abstract instead of for **this** research topic.
 - Giving only one side of an essay question rather than weighing both traditions or both problems against each other.
 - Confusing ascribed with achieved status.
+
+## Frequently asked questions
+
+**How is Cambridge 9699 Paper 1 structured?**
+Paper 1 of Cambridge International AS & A Level Sociology (9699) has Section A, with three compulsory questions, and Section B, where you choose one essay from two worth 26 marks.
+
+**Which command words does Cambridge 9699 Paper 1 use?**
+Paper 1 questions use only the command words the syllabus defines: Describe, Evaluate, Explain and Give. Match the length and depth of each answer to the command word and the marks shown.
+
+**How should you evaluate a research method in a Paper 1 answer?**
+Evaluate it for the research topic in the question, not in the abstract. Strengths and weaknesses should be tied to the specific group and setting being studied.
+
+**Are these real Cambridge 9699 past paper questions?**
+No. They are original questions written for revision that follow Paper 1's section shape and command words; use them alongside official past papers.

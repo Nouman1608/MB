@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,6 +164,20 @@ Using this scenario, explain whether the Lantern Kids are better understood as a
 ## Next steps
 
 Check your weak areas with the [diagnostics](/diagnostics/). Revisit the [study guide](/resources/aqa-a-level-sociology-7192-culture-and-identity/), then practise extended writing in other topics, such as the [education practice set](/resources/a-level-aqa-sociology-education-practice/) and the [crime and deviance practice set](/resources/a-level-aqa-sociology-crime-and-deviance-practice/). For research design questions, use the [methods in context practice](/resources/a-level-sociology-methods-in-context-practice/). Want help from a teacher? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Is Culture and identity in Section A or Section B of AQA Paper 2?**
+Culture and Identity (4.2.1) is an option 1 topic, answered in Section A of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
+
+**How do you answer an "outline two" style question?**
+Give two clearly different points, each developed enough to earn its marks. Repeating the same point in different words does not earn credit for the second one.
+
+**How should you handle data in a Culture and identity question?**
+Read the figures carefully, quote them accurately, and remember that percentages are not numbers of people. Link the pattern you describe to a concept or study.
+
+**Should you answer every question in this Culture and identity set?**
+Use the set for revision in any order. The questions are original practice questions and do not copy the exact structure or mark tariffs of AQA's Paper 2, so use official past papers for timed practice too.
 
 ## Official syllabus
 

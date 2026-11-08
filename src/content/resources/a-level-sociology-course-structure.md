@@ -12,8 +12,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-18
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 An overview of how AQA A Level Sociology (7192) is put together, for
@@ -116,6 +118,20 @@ the context of the specific topic given in the question. Building a small bank o
 combinations practised in advance (for example, using covert participant observation to research a
 criminal subculture) is a more effective preparation strategy than only revising methods and topics
 as separate lists.
+
+## Frequently asked questions
+
+**How many components does AQA A Level Sociology have?**
+AQA A Level Sociology (7192) has three components: Education with Theory and Methods, Topics in Sociology, and Crime and Deviance with Theory and Methods. Topics in Sociology is a set of options your school chooses from.
+
+**Can you switch between AS and A Level Sociology with AQA?**
+AQA designs the AS (7191) and A Level (7192) to be co-teachable in the first year, so in principle a student could move between the two routes during that year. Practical arrangements vary by school, so confirm your entry with your teacher.
+
+**What is the best way to revise theory and methods for 7192?**
+Build one reference sheet of the core theories and core methods and apply it afresh to each topic, rather than keeping separate notes per component. Theory and methods resurface in different contexts, so they cannot be revised once and set aside.
+
+**What question types are in AQA A Level Sociology exams?**
+The exams mix short-answer questions with extended writing and essays, testing knowledge and understanding, application, and analysis and evaluation. Extended writing appears in every component, so essay technique practised on one paper transfers to the others.
 
 ## Related resources
 

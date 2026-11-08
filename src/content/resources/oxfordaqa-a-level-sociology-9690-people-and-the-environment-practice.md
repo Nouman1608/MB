@@ -28,8 +28,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,6 +159,20 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-sociology-9690-
 ## Next steps
 
 Check gaps with the [diagnostics](/diagnostics/), then return to the [study guide](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment/) for any topic you missed. For help with essay technique, [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How do you write a definition that earns full marks in Unit 4?**
+Give the definition with an example or mechanism, not just a short phrase. Definitions without an example or mechanism often lose a mark in OxfordAQA 9690 Sociology.
+
+**How do you use an item in a People and the environment question?**
+Use the item's specific details, such as dates, delays and numbers, and link them to the concept asked about. Ignoring them loses application marks.
+
+**How should you use Hannigan's factors in an answer?**
+Apply each factor to the scenario in the question rather than just naming them. Hannigan argues environmental problems are real but must be claimed to become public issues.
+
+**Which part of the 9690 specification do these questions cover?**
+They cover section 3.2.2 People and the environment, assessed in Unit 4 of OxfordAQA International AS and A-level Sociology (9690).
 
 ## Official syllabus
 

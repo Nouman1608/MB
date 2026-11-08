@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers Beliefs in Society for AQA A-level Sociology (7192), based on the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). It teaches every content point in section 4.2.5 (the specification at a glance also lists it as 3.2.5). Beliefs in Society is an A-level option, not an AS topic. It is assessed in Paper 2: Topics in Sociology, Section B.
@@ -158,6 +160,23 @@ Arguments against:
 - Presenting Huntington's thesis as fact. It is a contested view.
 
 Next, read the [revision notes](/resources/aqa-a-level-sociology-7192-beliefs-in-society-revision-notes/) and try the [practice questions](/resources/aqa-a-level-sociology-7192-beliefs-in-society-practice/). Compare the perspectives in the [Crime and Deviance study guide](/resources/a-level-aqa-sociology-crime-and-deviance/); for research design, see [Methods in Context](/resources/a-level-sociology-methods-in-context/). Globalisation links to [Global development](/resources/aqa-a-level-sociology-7192-global-development/).
+
+## Frequently asked questions
+
+**What is the difference between substantive and functional definitions of religion?**
+Substantive definitions, associated with Weber, focus on belief in the supernatural or God. Functional definitions, associated with Durkheim, focus on what religion does, such as building social integration.
+
+**What are Wallis's three types of new religious movement?**
+Wallis distinguished world-rejecting movements (sect-like and critical of the world), world-accommodating movements (often breakaways seeking spiritual purity) and world-affirming movements (offering spiritual powers to help people succeed in ordinary life).
+
+**Is religion a conservative force or a force for change?**
+Functionalists such as Durkheim and Malinowski, and Marxists, see religion supporting stability, while Weber's Protestant ethic shows it can help bring change. A strong AQA 7192 essay weighs these views against each other.
+
+**What is religious market theory?**
+Stark and Bainbridge's religious market theory argues that competition between religious organisations keeps religion strong, which they use to explain high religiosity in the USA.
+
+**Do you need to know non-Christian religions for AQA Beliefs in society?**
+Yes. Section 4.2.5 of the AQA 7192 specification covers ideology, science and religion "including both Christian and non-Christian religious traditions", so examples should not be limited to Christianity.
 
 ## Official syllabus
 

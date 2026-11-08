@@ -171,6 +171,20 @@ Courier B: 23, 25, 26, 27, 27, 27, 28, 30, 31, 33
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - Ask for a [free trial class](/trial/) for help with any question you could not finish.
 
+## Frequently asked questions
+
+**How do you choose the modal class when class widths differ?**
+Do not just pick the largest frequency. When classes are not equally wide, compare frequency densities, frequency ÷ class width, and choose the class with the highest.
+
+**Should you call a grouped mean exact?**
+No. A mean from grouped data is an estimate because midpoints stand in for the values, so write "estimated" or "approximately" and be ready to say why.
+
+**What does a "which average" question need?**
+Name the average and give a reason linked to the data, such as an extreme value or the need for the most common item. An average with no reason earns little.
+
+**Which part of the 4040 syllabus do these questions cover?**
+They cover section 5.1, measures of central tendency, of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027.
+
 ## Official syllabus
 
 Cambridge O Level Statistics (4040), syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment (Cambridge International). Section 5.1: measures of central tendency, mean, median, mode and modal class.

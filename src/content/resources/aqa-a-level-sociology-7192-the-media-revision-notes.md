@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense the full [study guide on The Media](/resources/aqa-a-level-sociology-7192-the-media/). Read that first if a term below is new to you.
@@ -171,6 +173,20 @@ Using one of these themes in each extended answer helps show analysis, not just 
 - Ignoring the core themes of identity and power, which the specification asks you to link to.
 
 See how the media link to crime coverage in the [crime and deviance revision notes](/resources/a-level-aqa-sociology-crime-and-deviance-revision-notes/), and revise method evaluation with the [methods in context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/). For culture and identity links, see the [Culture and Identity study guide](/resources/aqa-a-level-sociology-7192-culture-and-identity/), and for wider globalisation debates, the [Global Development study guide](/resources/aqa-a-level-sociology-7192-global-development/).
+
+## Frequently asked questions
+
+**What is the difference between instrumentalist and hegemonic Marxism?**
+Instrumentalist Marxism stresses owners' direct control of media content. Hegemonic Marxism stresses a shared ideology among journalists rather than direct orders from owners.
+
+**What is the difference between ownership and control of the media?**
+Owning a media company is not the same as running its daily editorial decisions, which is why pluralists and Marxists disagree about how far owners shape content.
+
+**Do pluralists and Marxists agree on how news is selected?**
+No. Pluralists say news follows news values that reflect audience interest; Marxists say it follows power and ideology.
+
+**What can a content analysis tell you about the media?**
+A content analysis shows what is shown in the media, not what audiences take from it, so it cannot on its own prove media effects.
 
 ## Official syllabus
 

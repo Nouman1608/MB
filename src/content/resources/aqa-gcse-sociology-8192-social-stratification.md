@@ -36,8 +36,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers section 3.6 Social stratification (3.6.1 to 3.6.6) of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. It uses the named sociologists and key ideas printed in Appendix B (7.4). Social stratification is assessed in Paper 2: The sociology of crime and deviance and social stratification, a 1 hour 45 minute written exam worth 100 marks and 50% of the GCSE.
@@ -207,6 +209,23 @@ Walby argued patriarchy has moved from **private patriarchy** (direct control by
 - Reciting Walby's six structures without private versus public patriarchy.
 
 For methods points, revisit the [Research methods guide](/resources/aqa-gcse-sociology-research-methods/).
+
+## Frequently asked questions
+
+**What did Davis and Moore argue?**
+Davis and Moore argued that stratification is a universal necessity: high rewards are attached to functionally important positions that need rare skills or high responsibility. Tumin (1953) argued the pool of talent may be far larger than they assumed.
+
+**What are Weber's three types of authority?**
+Traditional authority rests on customs and inherited status, charismatic authority on devotion to a leader with exceptional qualities, and rational-legal authority on shared impersonal rules, as in a bureaucracy.
+
+**What is false class consciousness?**
+False class consciousness, in Marx's view, is when workers accept ruling class ideology, such as the idea of the free market, that makes capitalism look normal and natural.
+
+**Is Murray a Marxist?**
+No. Murray, who described an underclass, is linked to the New Right. Critics argue his cultural definition largely ignores economic causes of poverty.
+
+**What are life chances?**
+Life chances, a term from Weber, are a person's chances of achieving positive outcomes such as good health, a long life, education, a good job and housing. In AQA GCSE Sociology (8192) they are linked to class, gender, ethnicity, sexuality, age and disability.
 
 ## Official syllabus
 

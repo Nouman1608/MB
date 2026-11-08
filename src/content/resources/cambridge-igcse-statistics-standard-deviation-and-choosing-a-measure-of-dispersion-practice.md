@@ -152,6 +152,20 @@ The mean number of visits is 2.8.
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) for help with this topic.
 
+## Frequently asked questions
+
+**What is a common mistake when calculating standard deviation?**
+Giving the variance and forgetting to take the square root. The standard deviation is the square root of the variance.
+
+**What do you divide by when finding standard deviation from a frequency table?**
+Divide by the total frequency, Σf, not by the number of classes or table entries, and use Σfx² rather than Σx².
+
+**Should you round the mean before finding the standard deviation?**
+No. Rounding the mean or variance early loses accuracy, so keep full values until the final answer.
+
+**Which part of the 0479 syllabus do these questions cover?**
+They cover outcomes 5.6 and 5.7 of Topic 5 in the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027: calculating standard deviation and choosing a measure of dispersion.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics (0479) syllabus for examination in 2027, Cambridge University Press and Assessment (Cambridge International Education), Topic 5, outcomes 5.6 and 5.7.

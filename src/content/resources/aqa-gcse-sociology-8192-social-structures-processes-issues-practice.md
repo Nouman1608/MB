@@ -18,8 +18,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -128,6 +130,20 @@ Revise first with the [study guide](/resources/aqa-gcse-sociology-8192-social-st
 - Practise the related 8192 units: [the sociological approach](/resources/aqa-gcse-sociology-8192-the-sociological-approach/) and [education](/resources/aqa-gcse-sociology-8192-education/).
 - Review exam technique with [AQA GCSE Sociology exam preparation](/resources/aqa-gcse-sociology-exam-preparation/).
 - [Book a free trial class](/trial/) to work through extended answers with a tutor.
+
+## Frequently asked questions
+
+**What is section 3.2 of AQA GCSE Sociology about?**
+Section 3.2 of AQA GCSE Sociology (8192), Social structures, social processes and social issues, asks you to compare theories in the context of a topic, respond to extracts, understand methodological issues in each topic and debate contemporary social issues.
+
+**What does a "compare" question need?**
+A compare question needs similarities as well as differences. Giving only differences answers a "contrast" question, not a "compare" one.
+
+**How do you respond to an extract?**
+Quote its words, identify the perspective behind them and judge how far they are convincing, rather than treating the extract as background.
+
+**How do you evaluate a method named in a question?**
+Link its strengths and weaknesses to the topic and group in the question, not just the method in general.
 
 ## Official syllabus
 

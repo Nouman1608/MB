@@ -30,8 +30,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers section 3.4 Education (3.4.1 to 3.4.4) of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Education is assessed in Paper 1: The sociology of families and education, a written exam of 1 hour 45 minutes worth 100 marks and 50% of the GCSE. Each of its two sections opens with two multiple-choice questions, then short and extended responses.
@@ -227,6 +229,23 @@ Willis (*Learning to Labour*, 1977) studied twelve working-class boys, "the lads
 - Describing home schooling and de-schooling as the same thing.
 
 Next, test yourself with the [Education practice questions](/resources/aqa-gcse-sociology-8192-education-practice/). For the rest of Paper 1, use the [Families and Education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/).
+
+## Frequently asked questions
+
+**What is the difference between particularistic and universalistic standards?**
+In Parsons' view, the family judges children by particularistic standards that apply only to them as a particular son or daughter. School and wider society judge people by universalistic standards, the same rules for everyone.
+
+**What is the difference between streaming and setting?**
+Streaming places pupils in one ability group for all subjects. Setting places pupils in ability groups subject by subject.
+
+**What is the hidden curriculum?**
+The hidden curriculum is the lessons taught by how school is organised rather than by the formal timetable. Feminists argue it has helped reproduce gender inequality.
+
+**What is de-schooling?**
+De-schooling is the idea, linked to Ivan Illich's *Deschooling Society* (1971), that formal schooling should be replaced, because schools teach pupils to depend on institutions.
+
+**Which paper assesses Education in AQA GCSE Sociology?**
+Education, section 3.4 of the AQA GCSE Sociology (8192) specification, is assessed in Paper 1: The sociology of families and education, a 1 hour 45 minute exam worth 100 marks and 50% of the GCSE.
 
 ## Official syllabus
 

@@ -163,6 +163,20 @@ These questions cover sections 6.1 and 6.2 of the Cambridge O Level Statistics (
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your next weak topic.
 - [Book a free trial class](/trial/) if you would like help with this topic.
 
+## Frequently asked questions
+
+**Is the standard deviation multiplied by b or by b²?**
+The standard deviation is multiplied by b and the variance by b². Mixing the two up is a common error in Cambridge O Level Statistics (4040).
+
+**Does adding a constant change the standard deviation?**
+No. Adding a constant shifts every value and the mean together, so the gaps, and therefore the standard deviation, do not change.
+
+**What should you find first when transforming data to a target mean and standard deviation?**
+Find b first from the standard deviations, then use the mean to find a. Finding a first leaves an equation you cannot solve.
+
+**Which part of the 4040 syllabus do these questions cover?**
+They cover topic 6, sections 6.1 and 6.2, of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, sections 6.1 and 6.2.

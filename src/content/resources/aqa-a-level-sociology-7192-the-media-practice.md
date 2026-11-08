@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,6 +152,20 @@ Applying material from Item B and your knowledge, evaluate the view that the glo
 ## Next steps
 
 Check your weaker areas with our free [diagnostics](/diagnostics/). Go back to the [study guide](/resources/aqa-a-level-sociology-7192-the-media/) for any topic you lost marks on. For media and crime, see the [crime and deviance practice questions](/resources/a-level-aqa-sociology-crime-and-deviance-practice/). For method evaluation, try the [methods in context practice questions](/resources/a-level-sociology-methods-in-context-practice/). If you would like a teacher to go through your answers, [book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Is The media in Section B of AQA A-level Sociology Paper 2?**
+Yes. The Media (4.2.7) is an option 2 topic, answered in Section B of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
+
+**How do you define a concept for full marks in a Media question?**
+Include how the concept works, not just what it refers to. A definition that leaves out the "how" part usually earns only part of the marks.
+
+**How should you use data from a table in a Media question?**
+Quote the figures from the table to support your point. Using a table without quoting any of its figures is a common way to lose marks.
+
+**What should you write when a question asks about representations of social groups?**
+Cover more than one group. The AQA 7192 specification names six groups for media representations, so an answer about gender alone is too narrow.
 
 ## Official syllabus
 

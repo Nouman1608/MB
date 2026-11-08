@@ -18,8 +18,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,6 +169,20 @@ Using the item and interactionist ideas, explain how labelling may have affected
 ## Next steps
 
 Re-read any weak area in the [study guide](/resources/aqa-gcse-sociology-8192-the-sociological-approach/), then practise applying the perspectives in the [families and education practice set](/resources/aqa-gcse-sociology-families-education-practice/) and the [crime and stratification practice set](/resources/gcse-sociology-crime-stratification-practice/). Try our [diagnostics](/diagnostics/) to find your weakest topics, or [Book a free trial class](/trial/) with a sociology tutor.
+
+## Frequently asked questions
+
+**Is the family an agency of primary or secondary socialisation?**
+The family is the main agency of primary socialisation in early childhood. Naming it as an agency of secondary socialisation is a common error in AQA GCSE Sociology (8192) answers.
+
+**How do you define a key concept for full marks?**
+Give an accurate definition and an example that matches the term. A definition with no example, or with an example of a different concept, loses marks.
+
+**What labels should you use for Weber's types of authority?**
+Use Weber's own three labels: traditional, charismatic and rational-legal. Invented or vague labels do not earn credit.
+
+**How should you answer an application question in GCSE Sociology?**
+Use the details of the scenario or item and link them to the concept or perspective asked about, rather than writing a general textbook answer.
 
 ## Official syllabus
 

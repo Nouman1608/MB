@@ -24,13 +24,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-family-education-crime-2251"
     subtopic: "kq-6-1-2251"
-description: "A guide to Paper 2 of Cambridge O Level Sociology 2251, 2025-2027 series: the sub-topics of Family, Education, and Crime, deviance and social control, the functionalist, Marxist and feminist views the syllabus names, and how to revise and answer on the two topics candidates choose."
+description: "Guide to Cambridge O Level Sociology (2251) Paper 2, 2025-2027: family, education, and crime, deviance and social control, with the named perspectives."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide sets out **Paper 2 Family, Education and Crime**, for
@@ -216,6 +218,20 @@ isolation.
 Cambridge O Level Sociology 2251 syllabus for 2025, 2026 and 2027
 (Version 3) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662478-2025-2027-syllabus.pdf).
+
+## Frequently asked questions
+
+**How many questions do you answer on O Level Sociology Paper 2?**
+You answer two structured questions from a choice of three on Paper 2 of Cambridge O Level Sociology (2251), which lasts 1 hour 45 minutes and is worth 80 marks.
+
+**What is the warm bath theory?**
+The warm bath theory is the functionalist idea that the family stabilises adult personalities, part of the 4.2.1 content on the family's functions.
+
+**What does functionalism say about education?**
+Functionalists see education as performing socialisation, social control and role allocation, building value consensus and working as a meritocracy.
+
+**What is a common mistake when writing about crime?**
+Describing what a crime is without explaining why it occurs. Paper 2 rewards explanation as well as definition.
 
 ## Related resources
 

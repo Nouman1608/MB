@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,6 +163,20 @@ Extended answers (questions 8 to 10) are marked in the real exam with levels of 
 - Link poverty to class and life chances with [Stratification and Differentiation](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation/).
 - Find your gaps with a free [diagnostic](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Is Work, poverty and welfare in Section A of AQA Paper 2?**
+Yes. Work, Poverty and Welfare (4.2.4) is an option 1 topic, answered in Section A of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
+
+**How do you answer an "analyse two ways" question?**
+Pick two ways and develop each in depth with explanation and evidence. Listing many effects briefly does not meet what the command asks for.
+
+**Which welfare providers does AQA 7192 name?**
+The specification names four providers of welfare: the state, private, voluntary and informal sectors. Be careful to classify each source of support by what it is, not by who it works with.
+
+**How do you evaluate a perspective well?**
+Do not just describe a rival perspective; say what the rival shows about the weakness of the first view, for example what structural explanations reveal that cultural ones miss.
 
 ## Official syllabus
 

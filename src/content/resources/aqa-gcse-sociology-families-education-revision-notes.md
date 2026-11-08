@@ -35,8 +35,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -118,3 +120,17 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 5. Why do girls outperform boys yet still choose different subjects?
 
 **Answers:** 1. A family with several living generations but few members in each; caused by increased life expectancy and falling birth rates. 2. The dual burden is paid employment plus domestic labour; the triple shift adds emotion work — managing the family's feelings — on top of both. 3. Bowles and Gintis's claim that the structures and relationships of school mirror those of the workplace, preparing pupils for their future position in the labour force. 4. A teacher labels a pupil, treats them according to that label, the pupil internalises it, and their behaviour and achievement come to match it. 5. Achievement has risen through feminism, changing aspirations and equal-opportunity policies, but subject choice is still shaped by early gender socialisation, peer pressure and gendered career advice.
+
+## Frequently asked questions
+
+**What is a beanpole family?**
+A beanpole family is long and thin, with several living generations but few members in each, caused by longer life expectancy and lower birth rates.
+
+**What is the difference between the dual burden and the triple shift?**
+The dual burden is paid employment plus domestic labour. The triple shift adds emotion work, managing the feelings and relationships of family members.
+
+**Why is cultural deprivation theory criticised?**
+It is criticised for blaming the victim: it treats working-class culture as deficient rather than different and overlooks material barriers to achievement.
+
+**Why do girls outperform boys but still choose different subjects?**
+Girls' results are explained by feminism, changing aspirations, equal-opportunity policies and a crisis of masculinity, but subject choice remains gendered because of socialisation and other influences.

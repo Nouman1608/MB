@@ -28,8 +28,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers section 3.2.2 People and the environment (3.2.2.1 to 3.2.2.3) of the OxfordAQA International AS and A-level Sociology (9690) specification, Version 1.1 (first teaching September 2026; first A-level exams May/June 2028). The section is A-level content and is assessed in Unit 4: People and the environment, a 1 hour 30 minute exam worth 50 marks and 20% of the International A-level.
@@ -151,6 +153,23 @@ The specification prints: exam 1 hour 30 minutes; 50 marks; 20% of the Internati
 ## Where to go next
 
 Condense this guide with the [revision notes](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment-practice/). Sustainable development and climate migration also appear in [People and development](/resources/oxfordaqa-a-level-sociology-9690-people-and-development/); transport's effects appear in [People and technology](/resources/oxfordaqa-a-level-sociology-9690-people-and-technology/).
+
+## Frequently asked questions
+
+**What is a megacity?**
+A megacity is defined by a population threshold of 10 million people. Defining it loosely as "a big city" is a common error in OxfordAQA 9690 answers.
+
+**How does UN-Habitat define a slum household?**
+UN-Habitat defines a slum household as lacking one or more of durable housing, enough living space, improved water, improved sanitation or secure tenure.
+
+**What is environmental justice?**
+Environmental justice examines how environmental harms fall unequally on poorer and marginalised groups. Robert Bullard, called the "father of environmental justice", was an expert witness in the 1979 Houston case *Bean v. Southwestern Waste Management*.
+
+**What is the metabolic rift?**
+The metabolic rift is Marx's idea, developed by John Bellamy Foster, of a break between society and natural cycles caused by capitalism.
+
+**What did Hannigan argue about environmental problems?**
+Hannigan (1995) argued that environmental problems are real but must be claimed to become public issues. He did not say they are "not real".
 
 ## Official syllabus
 

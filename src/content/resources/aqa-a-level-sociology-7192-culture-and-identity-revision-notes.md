@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked exam paragraphs, read the [Culture and Identity study guide](/resources/aqa-a-level-sociology-7192-culture-and-identity/) first.
@@ -167,6 +169,20 @@ These notes cover Culture and Identity for AQA A-level Sociology (7192), from th
 - Using dated studies without noting when the data was collected.
 
 Other resources for this specification: [course structure](/resources/a-level-sociology-course-structure/), [education revision notes](/resources/aqa-a-level-sociology-education-revision-notes/), [crime and deviance revision notes](/resources/a-level-aqa-sociology-crime-and-deviance-revision-notes/) and [methods in context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/).
+
+## Frequently asked questions
+
+**What is hegemonic masculinity?**
+Hegemonic masculinity is Connell's term for the dominant ideal of being a man in a society, with other masculinities ranked below it.
+
+**What is the difference between folk culture and mass culture?**
+Folk culture is made by communities for themselves, while mass culture is made by industries for large audiences to consume.
+
+**How do you name theorists so they earn marks?**
+Link each theorist to their concept. "Goffman said identity is important" earns little, but "Goffman's front stage and backstage" shows understanding.
+
+**Which part of the AQA 7192 specification is Culture and identity?**
+It is section 4.2.1, an option 1 topic answered in Section A of Paper 2, a 2-hour, 80-mark exam worth 33.3% of the A-level.
 
 ## Official syllabus
 
