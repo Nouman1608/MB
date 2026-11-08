@@ -305,6 +305,23 @@ Charge check: left = +4 + 4 = +8; right = +10 − 2 = +8. Balanced. The reacting
 - Mole ratios from balanced equations: [amount of substance](/resources/oxfordaqa-a-level-chemistry-amount-of-substance/)
 - Find your weak areas: [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Is an oxidising agent oxidised or reduced?**
+An oxidising agent is an electron acceptor, so it gains electrons and is itself reduced. A reducing agent is an electron donor, so it is oxidised.
+
+**What is the oxidation state of oxygen in a peroxide?**
+In a peroxide such as barium peroxide, BaO₂, oxygen has an oxidation state of −1 rather than the usual −2. Oxygen is also positive when bonded to fluorine, as in O₂F₂, because the fluorine rule ranks higher.
+
+**Can an oxidation state be a fraction?**
+Yes, when a formula contains atoms of one element in different oxidation states. In Fe₃O₄ the average oxidation state of iron is +8/3, and you should give it as that fraction if asked.
+
+**How do you combine two half-equations into an overall redox equation?**
+Multiply the half-equations so the electrons lost equal the electrons gained, add them, and cancel electrons, H⁺ and H₂O that appear on both sides. Then check that atoms and total charges balance.
+
+**Which unit tests redox equations in OxfordAQA 9620 Chemistry?**
+Section 3.1.5, Oxidation, reduction and redox equations, sits in the content for Unit 1 (Inorganic 1 and Physical 1), and Unit 5 (Practical and synoptic) can assess all content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.5 Oxidation, reduction and redox equations (3.1.5.1). Published by OxfordAQA.

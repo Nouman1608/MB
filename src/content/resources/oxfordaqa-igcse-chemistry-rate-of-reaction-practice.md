@@ -209,6 +209,20 @@ Volume = 0.0175 × 24 000 = **420 cm³** [1]
 - Take a [free 10-minute diagnostic](/diagnostics/).
 - Browse every unit from the [OxfordAQA chemistry hub](/boards/oxfordaqa/igcse/chemistry/) and mark off rate of reaction on the [topic checklist](/checklists/oxfordaqa/igcse/chemistry/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in rate of reaction questions?**
+Frequent slips include missing "more energetic collisions" in a temperature explanation, writing "more collisions" without saying how often they happen, and giving a rate without a unit.
+
+**How do you choose the unit for a rate of reaction?**
+Match the unit to the quantity you measured divided by time, and only use mol/s after converting to moles. Giving a rate with no unit, or the wrong unit for the quantity measured, loses marks.
+
+**How do you find when a reaction finished from a table of results?**
+Use the first time at which the reading stops changing, not the last time listed in the table.
+
+**Is investigating rate of reaction a required practical in OxfordAQA 9202?**
+Yes. Investigating factors affecting the rate of a reaction is a required practical, and you should be able to name the independent, dependent and control variables as measurable quantities.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards (OxfordAQA). Covered here: section 3.8.1 Rate of reaction, with its required practical.

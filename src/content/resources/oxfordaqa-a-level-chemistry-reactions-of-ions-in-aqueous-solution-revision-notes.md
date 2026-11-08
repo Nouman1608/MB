@@ -227,6 +227,19 @@ Mole ratios you will use in calculations:
   <figcaption>A complex that has lost enough H+ to reach zero charge is no longer attracted to water and precipitates.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which metal aqua ions are in OxfordAQA 9620 section 3.2.6.1?**
+The 2+ aqua ions are iron and copper only, and the 3+ aqua ions are aluminium and iron only. The bases are hydroxide ions, ammonia and carbonate ions.
+
+**How can you tell Fe²⁺ from Fe³⁺ in solution?**
+With sodium hydroxide or ammonia, Fe²⁺ gives a green precipitate and Fe³⁺ an orange-brown one. With sodium carbonate, only Fe³⁺ gives effervescence, so use these tests rather than solution colour alone.
+
+**Why does an iron(II) hydroxide precipitate turn brown?**
+On standing in air, the surface of the green iron(II) hydroxide precipitate is oxidised to iron(III) hydroxide, which is orange-brown.
+
+**What is the mole ratio between M³⁺ ions and CO₂ in the carbonate reaction?**
+Two M³⁺ ions release six protons, and three carbonate ions each take two, so the ratio of M³⁺ to CO₂ is 2 : 3. Using a 1 : 1 or 1 : 3 ratio is a common error.
 
 ## Official syllabus
 

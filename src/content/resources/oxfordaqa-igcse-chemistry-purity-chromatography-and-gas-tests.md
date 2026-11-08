@@ -253,6 +253,23 @@ No pop rules out hydrogen. Bubble the gas through limewater; cloudy white limewa
 
 Condense this unit with the [revision notes](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-practice/). For melting points explained through bonding, see the [bonding, structure and properties guide](/resources/oxfordaqa-igcse-chemistry-bonding-structure-and-properties/); for exam technique, the [exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/). Use the [course hub](/boards/oxfordaqa/igcse/chemistry/), the [checklist](/checklists/oxfordaqa/igcse/chemistry/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What does pure mean in chemistry?**
+In chemistry, a pure substance contains only one element or one compound, with nothing else mixed in. This is stricter than the everyday meaning of pure, which often just means nothing has been added.
+
+**How do impurities affect melting and boiling points?**
+An impure solid usually melts at a lower temperature than the pure substance and over a range rather than sharply. An impure liquid usually boils at a higher temperature, so salty water boils above 100 °C.
+
+**How do you calculate an Rf value?**
+Rf = distance moved by the substance ÷ distance moved by the solvent, both measured from the baseline, to the centre of the spot and to the solvent front. Rf has no units and is always less than 1.
+
+**What are the five gas tests in OxfordAQA 9202 Chemistry?**
+Hydrogen gives a pop with a lighted splint, oxygen relights a glowing splint, and carbon dioxide turns limewater cloudy. Ammonia turns damp red litmus blue, and chlorine turns damp blue litmus red and then bleaches it white.
+
+**Does one spot on a chromatogram prove a substance is pure?**
+One spot in one solvent is good evidence but not proof, because two substances could have the same Rf value in that solvent. Run the sample again in a second solvent alongside a pure reference.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide covers section 3.4.1 Purity and chromatography and section 3.4.2 Identification of common gases.

@@ -257,6 +257,20 @@ N₂(g) + 3H₂(g) → 2NH₃(g), with N≡N 945, H–H 436 and N–H 391 kJ mol
 - Applying bond enthalpies without first checking that every species in the equation is a gas.
 - Saying the values differ "because of errors". Name the actual reason: averages across molecules, or heat loss in the experiment.
 
+## Frequently asked questions
+
+**Is the specific heat capacity of water given in the OxfordAQA 9620 exam?**
+You are not expected to recall the specific heat capacity; it will be given in any question that needs it. Check the unit it comes with before you substitute it into q = mcΔT.
+
+**Why is the enthalpy of formation of an element zero?**
+An element in its standard state, such as O₂(g) or C(s), needs no change to form it, so its standard enthalpy of formation is zero. It contributes nothing in a Hess's law calculation using formation data.
+
+**How do you find ΔT accurately in an enthalpy experiment?**
+Record the temperature for a few minutes before adding the second reagent, then keep recording at fixed intervals. Plot temperature against time and extrapolate the cooling line back to the time of mixing to allow for heat lost while the reaction was still happening.
+
+**Can you use mean bond enthalpies for reactions involving liquids?**
+Not directly. Bond enthalpy calculations treat every species as gaseous, so if the real reaction has a liquid or solid, the energy of changing state is missing and the result is less reliable.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620) specification*, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.4 Energetics.

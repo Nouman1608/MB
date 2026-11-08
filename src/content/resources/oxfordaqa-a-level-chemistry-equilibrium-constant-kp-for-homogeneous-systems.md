@@ -327,6 +327,23 @@ and then work through the [Kp practice questions](/resources/oxfordaqa-a-level-c
 Older Kc material sits in the [AS equilibria question set](/resources/oxfordaqa-a-level-chemistry-equilibria-practice/)
 and the [AS equilibria summary](/resources/oxfordaqa-a-level-chemistry-equilibria-revision-notes/).
 
+## Frequently asked questions
+
+**Is Kp AS or A2 content in OxfordAQA 9620 Chemistry?**
+Kp is section 3.1.12, which the specification lists under International A2 physical chemistry, so it is International A-level only. Unit 4 examines it, and Unit 5 may also test it because that unit covers the whole specification.
+
+**Why does the total pressure cancel in some Kp calculations?**
+When the equation has the same number of moles of gas on each side (Δn = 0), every partial pressure carries the same factor of total pressure, so it cancels and Kp has no units. You can then work with moles directly.
+
+**How do you calculate partial pressure?**
+Partial pressure of a gas = mole fraction × total pressure, where mole fraction is the amount of that gas divided by the total amount of gas at equilibrium. The mole fractions should add up to 1 and the partial pressures to the total pressure.
+
+**How do you work out the units of Kp?**
+Write the pressure unit for every term and cancel. The power left is Δn, the gas moles of products minus the gas moles of reactants; if Δn = 0, Kp has no units.
+
+**Does increasing the pressure change the value of Kp?**
+No. A higher total pressure shifts the position of equilibrium towards the side with fewer gas molecules, but at constant temperature Kp stays the same. Only a change of temperature alters Kp.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for

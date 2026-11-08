@@ -177,6 +177,20 @@ Evaluate the two vans. Give a conclusion. **[6]**
 - [OxfordAQA chemistry hub](/boards/oxfordaqa/igcse/chemistry/) and [checklist to print](/checklists/oxfordaqa/igcse/chemistry/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in chemical cells questions?**
+Typical slips are saying a cell "runs out of electricity" instead of "the reactants are used up", saying a fuel cell burns hydrogen, and claiming fuel cells cause no pollution at all.
+
+**What Mr should you use for hydrogen gas?**
+Hydrogen gas is H₂, so its Mr is 2. Using Mr = 1 halves the number of moles, and you should also convert kilograms to grams before finding moles.
+
+**How should you answer a "compare" question on hydrogen engines and fuel cells?**
+Make each point about both options and quote the data given in the question. Writing about only one option, or giving a conclusion that ignores the data, loses marks.
+
+**Is there a required practical for chemical cells in OxfordAQA 9202?**
+No. None of the required practicals listed in section 6.2 of the specification belongs to section 3.9.3, so this unit has no required practical of its own.
+
 ## Official syllabus
 
 Every item here follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA: section 3.9.3, Chemical cells and fuel cells.

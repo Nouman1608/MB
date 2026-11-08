@@ -20,13 +20,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-bonding"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-3-7"
-description: "Electron-pair repulsion theory and molecular shapes, electronegativity and bond polarity, and the three types of intermolecular force including hydrogen bonding, for OxfordAQA International AS and A-level Chemistry 9620, sections 3.1.3.5 to 3.1.3.7."
+description: "OxfordAQA 9620 Chemistry guide to electron-pair repulsion shapes, bond polarity and the three intermolecular forces, including hydrogen bonding and ice density."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **sections 3.1.3.5 to 3.1.3.7**, the shapes, polarity
@@ -180,6 +182,23 @@ arrangement required for hydrogen bonding -- a molecule can have more
 than one type of intermolecular force acting simultaneously, and exam
 answers that name only the strongest force while ignoring the others
 present are frequently incomplete.
+
+## Frequently asked questions
+
+**Why is the bond angle in ammonia smaller than in methane?**
+Both have four electron pairs around the central atom, but ammonia has one lone pair. Lone pair–bond pair repulsion is greater than bond pair–bond pair repulsion, so the H–N–H angle closes to 107°, below methane's 109.5°.
+
+**Why is carbon dioxide non-polar even though it has polar bonds?**
+Carbon dioxide is linear, so its two identical polar C=O bonds point in opposite directions and their dipoles cancel. Tetrachloromethane is non-polar for the same reason, because its four C–Cl dipoles are arranged symmetrically.
+
+**What is needed for hydrogen bonding?**
+A hydrogen atom must be bonded directly to a small, highly electronegative atom (fluorine, oxygen or nitrogen) that carries a lone pair. The hydrogen then forms a weak bond to a lone pair on a neighbouring molecule.
+
+**Why does water boil so much higher than hydrogen sulfide?**
+Oxygen is small and highly electronegative, so water molecules hydrogen bond to each other, while H₂S molecules only have weaker dispersion and permanent dipole–dipole forces. Overcoming water's hydrogen bonds needs much more energy.
+
+**What shapes do you need to know for OxfordAQA 9620 Chemistry?**
+You need the shapes and bond angles of simple molecules and ions with up to six electron pairs around the central atom: linear, trigonal planar, tetrahedral, trigonal bipyramidal and octahedral, plus lone-pair variants such as bent, pyramidal and see-saw.
 
 ## Official syllabus
 

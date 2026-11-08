@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-7-2"
-description: "Condensed recall notes on dynamic equilibrium, Kc, Le Chatelier principle and industrial compromise for International A Level Chemistry (with the International A2 Kp extension, assessed in Unit 4, flagged separately)."
+description: "Condensed OxfordAQA 9620 AS notes on dynamic equilibrium, Kc, Le Chatelier's principle and industrial compromise, with the A2 Kp extension flagged."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -216,3 +218,16 @@ Units of K vary with the equation and must be worked out each time; if Δn(gas) 
   <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Are the concentrations equal at equilibrium?**
+No. At dynamic equilibrium the concentrations are constant, not equal to one another. The forward and reverse reactions continue at equal rates in a closed system, which keeps each concentration fixed.
+
+**What happens to K when you raise the temperature of an exothermic reaction?**
+Raising the temperature favours the endothermic direction, so for a reaction whose forward direction is exothermic the position of equilibrium moves left and K decreases. Temperature is the only change that alters K.
+
+**When does changing the pressure have no effect on an equilibrium?**
+If both sides of the equation have the same number of moles of gas, changing the pressure does not shift the position of equilibrium. Pressure never changes the value of K.
+
+**Is Kp in the AS part of OxfordAQA 9620 Chemistry?**
+No. Kp is an International A2 extension (section 3.1.12) assessed in Unit 4, not in the AS unit that covers Kc and Le Chatelier's principle.

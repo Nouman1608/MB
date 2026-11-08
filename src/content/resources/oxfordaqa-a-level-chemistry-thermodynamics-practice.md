@@ -241,6 +241,20 @@ not explain why an endothermic change happens.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in Born–Haber cycle questions?**
+Frequent slips are leaving "gaseous" out of definitions, doubling only some steps when a formula contains two of a particle, and halving the bond enthalpy of an element such as iodine whose standard state is not a gas.
+
+**Why must you check units in ΔG = ΔH – TΔS?**
+ΔH is usually in kJ mol⁻¹ while entropies are in J K⁻¹ mol⁻¹, so divide ΔS by 1000 before substituting, and use T in kelvin. Mixing J and kJ, or using °C, gives a wrong ΔG.
+
+**How do you decide whether entropy increases in a reaction?**
+Entropy increases when a substance changes from solid to liquid to gas, or when a reaction makes more moles of gas than it uses. The reverse changes give a negative ΔS.
+
+**Should you give the lattice enthalpy of formation or dissociation?**
+Give the one the question asks for. The two have the same size and opposite signs, so state clearly which one you have calculated.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for

@@ -24,10 +24,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on moles, formula mass, reacting masses and concentration."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -116,3 +118,17 @@ Related: [Quantitative Chemistry revision notes](/resources/oxfordaqa-igcse-chem
 - Reading only one titre from a titration and using it directly, rather than averaging the **concordant** results (those within 0.10 cm³ of each other) and excluding any rough titre.
 
 Questions 7 and 8 draw on the gas-volume and titration-ratio sections of the [Quantitative Chemistry revision notes](/resources/oxfordaqa-igcse-chemistry-quantitative-revision-notes/), material the earlier questions on this page don't reach, since question 5 only tests a 1 : 1 titration.
+
+## Frequently asked questions
+
+**What are the most common mistakes in quantitative chemistry questions?**
+Frequent slips include forgetting to convert cm³ to dm³ in concentration calculations, using the mole ratio backwards, and rounding empirical formula ratios too early.
+
+**Is every acid–alkali titration a 1 : 1 reaction?**
+No. Always take the mole ratio from the balanced equation; assuming 1 : 1 when the equation shows a different ratio doubles or halves every answer that follows.
+
+**When can you use 24 dm³ per mole?**
+Only for gases, and only at room temperature and pressure. Using it for a substance that is not a gas is a common error.
+
+**Why should you avoid rounding early in quantitative chemistry?**
+Rounding partway through a calculation, especially in empirical formula ratios, can lead to the wrong whole-number ratio or a final answer that is slightly off. Keep full values until the end.

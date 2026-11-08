@@ -240,6 +240,23 @@ Why separate tubes? If silver nitrate were added to the solution from tube 2, th
 
 Condense this unit with the [identification of ions revision notes](/resources/oxfordaqa-igcse-chemistry-identification-of-ions-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-chemistry-identification-of-ions-practice/). For calculations on precipitate masses, the [quantitative chemistry guide](/resources/oxfordaqa-igcse-chemistry-quantitative-chemistry/) covers moles and relative formula mass. Track the whole course on the [printable checklist](/checklists/oxfordaqa/igcse/chemistry/) or start with one of the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What flame test colours do you need for OxfordAQA 9202 Chemistry?**
+Lithium gives crimson, sodium yellow, potassium lilac, calcium red and barium green. The colour depends on the metal ion, not the negative ion.
+
+**How do you tell aluminium, calcium and magnesium ions apart?**
+All three give white precipitates with sodium hydroxide solution, but only aluminium hydroxide dissolves in excess. Calcium and magnesium are then separated by a flame test: calcium gives red, while magnesium gives no characteristic colour.
+
+**Why is nitric acid used before silver nitrate in the halide test?**
+The acid removes carbonate ions, which would otherwise form a precipitate with silver ions. Hydrochloric acid is not used because its chloride ions would give a white silver chloride precipitate every time.
+
+**How do you test for carbonate ions?**
+Add a dilute acid: a carbonate fizzes and gives carbon dioxide, which turns limewater cloudy white. Fizzing alone is not enough, because a reactive metal in acid also fizzes, giving hydrogen.
+
+**How do you test for sulfate ions?**
+Add dilute hydrochloric acid and then barium chloride solution; a white precipitate shows sulfate ions. The acid removes carbonate ions, which would otherwise form white barium carbonate; sulfuric acid must not be used.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Scope of this guide: section 3.4.3 Identification of ions (statements a to f), with the flame test required practical from section 6.2.

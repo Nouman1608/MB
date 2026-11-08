@@ -256,6 +256,20 @@ Two more:
 - Saying metals contain "free ions" or "a sea of protons". The delocalised particles are electrons.
 - Calling silicon dioxide a simple molecular substance because it is a compound of two non-metals.
 
+## Frequently asked questions
+
+**What is the difference between a positive and a negative ion?**
+A positive ion forms when an atom loses electrons, as metals do. A negative ion forms when an atom gains electrons, as non-metals do. An ion has the same number of protons as its atom but a different number of electrons.
+
+**Which simple molecules do you need to know for OxfordAQA 9202 Chemistry?**
+The simple molecules listed are H₂, Cl₂, O₂, N₂, HCl, H₂O, NH₃ and CH₄. Diamond and silicon dioxide are the giant covalent structures (macromolecules) to know.
+
+**How can you tell a simple molecular structure from a giant covalent one in a diagram?**
+In a simple molecular structure, the bonds stop at the edge of each small, separate unit. In a giant covalent structure, bonds link every atom to its neighbours and the network runs off the edges of the diagram.
+
+**Why is silicon dioxide not a simple molecule?**
+Silicon dioxide is a giant covalent structure: each silicon atom is bonded to four oxygen atoms and each oxygen to two silicons, giving the 1:2 ratio in its formula. Calling it simple molecular because it is a compound of two non-metals is a common error.
+
 ## Official syllabus
 
 Source document: the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, from OxfordAQA. These notes follow its section 3.2.1, Chemical bonds: ionic, covalent and metallic.

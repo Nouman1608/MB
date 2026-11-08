@@ -368,6 +368,23 @@ for exam-style work, use the [question set with answers](/resources/oxfordaqa-a-
 How chlorine and methane react is covered in [the 9620 alkanes topic](/resources/oxfordaqa-a-level-chemistry-alkanes/). Track progress on the [checklist](/checklists/oxfordaqa/a-level/chemistry/)
 and use the [diagnostics](/diagnostics/) to find what to revise next.
 
+## Frequently asked questions
+
+**Why are iodoalkanes more reactive than chloroalkanes?**
+The C–I bond has the lowest bond enthalpy of the carbon–halogen bonds, so it needs the least energy to break and the activation energy is lower. Bond enthalpy, not bond polarity, controls the rate: C–F is the most polar bond, yet fluoroalkanes are the least reactive.
+
+**Why is excess ammonia used to make a primary amine from a halogenoalkane?**
+The amine product still has a lone pair on nitrogen, so it can attack another halogenoalkane molecule. A large excess of ammonia makes the halogenoalkane far more likely to meet ammonia than the amine.
+
+**How many curly arrows are needed in a nucleophilic substitution mechanism?**
+Substitution by OH⁻ or CN⁻ needs two arrows: one from the nucleophile's lone pair to the δ+ carbon and one from the C–X bond to the halogen. Substitution by ammonia has two stages, with a second ammonia molecule removing H⁺ from the N⁺ intermediate.
+
+**What conditions favour elimination rather than substitution?**
+Warm, aqueous hydroxide gives mainly the alcohol by substitution, while hydroxide dissolved in ethanol and heated gives a larger share of the alkene by elimination. The two reactions run at the same time in the same flask.
+
+**Is ozone depletion by CFCs examined in OxfordAQA 9620 halogenoalkanes?**
+Section 3.3.3 has no separate learning point on ozone. CFCs appear only in the section overview, and the specification says overviews are not directly assessed.
+
 ## Official syllabus
 
 Section 3.3.3 Halogenoalkanes (International AS), points 3.3.3.1 Nucleophilic substitution and 3.3.3.2

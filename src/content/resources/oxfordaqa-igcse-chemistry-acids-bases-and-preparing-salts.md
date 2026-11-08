@@ -302,6 +302,23 @@ Precipitation takes ions out of solution, so it is used to clean water.
 - Test yourself with the [acids, bases and salts practice questions](/resources/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts-practice/).
 - Track progress on the [course hub](/boards/oxfordaqa/igcse/chemistry/) and the [printable checklist](/checklists/oxfordaqa/igcse/chemistry/), or take a [free 10-minute diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between a base and an alkali?**
+A base is a metal oxide or metal hydroxide, such as copper(II) oxide or magnesium hydroxide. An alkali is a base that dissolves in water; copper(II) oxide does not dissolve, so it is a base but not an alkali.
+
+**Why does no water form when ammonia reacts with an acid?**
+Each ammonia molecule simply takes a hydrogen ion from the acid to form an ammonium ion, so the only product is an ammonium salt. For example, NH₃ + HNO₃ → NH₄NO₃.
+
+**Why can't you make a copper salt by reacting copper with an acid?**
+Copper is below hydrogen in the reactivity series, so it does not react with dilute acids to give hydrogen. Use the insoluble base route instead, such as adding excess copper(II) oxide to the acid.
+
+**How do you make an insoluble salt?**
+Mix two solutions, one containing the salt's positive ion and one containing its negative ion, so the salt forms as a precipitate. Filter, wash the solid with distilled water and dry it. Nitrates and sodium, potassium or ammonium compounds are useful soluble reagents.
+
+**Why should you not heat a salt solution to dryness?**
+Many salts decompose or lose their water of crystallisation if heated to dryness. Heat to concentrate the solution, then leave it to crystallise.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide covers section 3.5.1 The properties of acids and bases and section 3.5.2 Preparation of salts.

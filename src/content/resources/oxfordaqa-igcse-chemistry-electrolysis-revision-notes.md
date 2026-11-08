@@ -270,6 +270,20 @@ Uses: sodium hydroxide for **soap**; chlorine for **bleach** and **plastics**.
 - Saying the carbon anode "dissolves" instead of reacting with oxygen to form carbon dioxide.
 - In the brine answer, explaining the cathode product without referring to reactivity.
 
+## Frequently asked questions
+
+**Is oxidation or reduction at the cathode?**
+At the cathode, positive ions gain electrons, which is reduction. At the anode, negative ions lose electrons, which is oxidation; OIL RIG (Oxidation Is Loss, Reduction Is Gain) helps you remember.
+
+**What forms at the anode in the electrolysis of a solution?**
+A concentrated chloride, bromide or iodide solution gives the halogen. A dilute halide solution, or a solution containing sulfate or nitrate ions, gives oxygen from hydroxide ions.
+
+**How do you set up electroplating?**
+Make the object to be plated the cathode, use an anode made of the plating metal, and use an electrolyte that contains ions of the plating metal. Electroplating improves appearance and durability and helps prevent corrosion.
+
+**What do you observe in the electrolysis of copper sulfate solution?**
+A pink-brown copper coating forms on the cathode and its mass increases, while bubbles of oxygen, which relight a glowing splint, form at the anode. The blue colour of the solution fades as Cu²⁺ ions are used up.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. These notes cover section 3.3.2 Electrolysis and its required practical.

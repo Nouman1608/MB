@@ -322,6 +322,23 @@ With a catalyst, the reaction follows a **different pathway** whose **activation
 
 Use the [revision notes](/resources/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change-revision-notes/), then the [practice questions](/resources/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change-practice/). For covalent bonds, see the [bonding guide](/resources/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic/).
 
+## Frequently asked questions
+
+**What is the difference between an exothermic and an endothermic reaction?**
+An exothermic reaction transfers energy to the surroundings, so they warm up and ΔH is negative. An endothermic reaction takes in energy from the surroundings, so they cool down and ΔH is positive.
+
+**What are examples of exothermic and endothermic reactions in OxfordAQA 9202 Chemistry?**
+Combustion, oxidation such as iron rusting, and neutralisation are exothermic, and are used in self-heating cans and hand warmers. Thermal decompositions are endothermic, and sports injury packs use an endothermic change such as ammonium nitrate dissolving.
+
+**How do you calculate the energy transferred in a calorimetry experiment?**
+Use Q = mcΔT, where m is the mass of water or solution heated, c is 4.2 J/g °C and ΔT is the temperature change. Divide by the mass of fuel for kJ per gram or by the moles reacted for kJ per mole.
+
+**How do you calculate an energy change from bond energies?**
+Energy change = energy needed to break bonds − energy released forming bonds. A negative answer means the reaction is exothermic and a positive answer means it is endothermic.
+
+**How does a catalyst change an energy level diagram?**
+A catalyst gives a different pathway with a lower activation energy, so the catalysed curve has a lower peak. It starts and finishes at the same energy levels, so ΔH does not change.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide covers section 3.9.1 Exothermic and endothermic reactions and section 3.9.2 Calculating and explaining energy change.

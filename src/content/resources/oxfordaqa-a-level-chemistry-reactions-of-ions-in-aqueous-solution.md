@@ -290,6 +290,23 @@ A white precipitate on its own is not enough: Mg²⁺ from [Group 2](/resources/
 - Claiming excess ammonia dissolves aluminium hydroxide, or excess NaOH dissolves copper hydroxide.
 - Recording only the final state after excess reagent and missing the precipitate seen first.
 
+## Frequently asked questions
+
+**Why are 3+ metal aqua ions more acidic than 2+ aqua ions?**
+An M³⁺ ion has a larger charge and a smaller radius than an M²⁺ ion, so its charge/size ratio is larger and it is more strongly polarising. It weakens the O–H bonds in its water ligands, so a proton is lost more readily and the solution has a lower pH.
+
+**Why does a 3+ aqua ion give a gas with sodium carbonate?**
+A 3+ aqua ion is acidic enough to give protons to carbonate ions, which break down to carbon dioxide and water, leaving the neutral metal hydroxide as a precipitate. A 2+ aqua ion is too weak an acid, so the metal carbonate precipitates with no gas.
+
+**Why does excess ammonia dissolve copper(II) hydroxide but not aluminium hydroxide?**
+With copper, excess ammonia acts as a ligand and forms the deep blue complex [Cu(NH₃)₄(H₂O)₂]²⁺. Ammonia is a weak base, so the hydroxide ion concentration it provides is too low to take a fourth proton from aluminium hydroxide.
+
+**What does amphoteric mean for aluminium hydroxide?**
+Aluminium hydroxide dissolves in both acids and bases. In excess hydroxide it forms the soluble anion [Al(H₂O)₂(OH)₄]⁻, and in acid its hydroxide ligands are protonated back to water, re-forming [Al(H₂O)₆]³⁺.
+
+**Is reactions of ions in aqueous solution AS or A2 in OxfordAQA 9620 Chemistry?**
+Section 3.2.6 is International A2 content, so it is International A-level only. It is examined in Unit 3 (Inorganic 2 and Physical 2), and Unit 5 can draw on any content.
+
 ## Official syllabus
 
 Source: OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020. Section 3.2.6 (International A2), the topic on reactions of ions in aqueous solution, subsection 3.2.6.1, including required practical 9.

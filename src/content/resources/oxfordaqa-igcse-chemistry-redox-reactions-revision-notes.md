@@ -239,6 +239,20 @@ To build a row: the metal ion goes to the cathode and gains as many electrons as
 - [Reactivity series and extraction notes](/resources/oxfordaqa-igcse-chemistry-metals-revision-notes/)
 - [Notes on electrode reactions (electrolysis)](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/)
 
+## Frequently asked questions
+
+**When should you use the oxygen definition of redox and when the electron definition?**
+Use the oxygen definition when oxygen appears in the equation, for metal oxides and fuels, including carbon reducing a metal oxide. Use the electron definition for ions, halogens, displacement and electrolysis.
+
+**Where do oxidation and reduction happen in electrolysis?**
+Oxidation happens at the anode, where negative ions lose electrons. Reduction happens at the cathode, where positive ions gain electrons.
+
+**Is it the compound or the ion that is reduced in a displacement reaction?**
+It is the ion. When magnesium reacts with copper sulfate solution, Cu²⁺ ions are reduced; the sulfate ions are spectators, so saying "copper sulfate is reduced" is wrong.
+
+**How do you describe a reaction in terms of electrons?**
+Name the particle, say whether it loses or gains electrons, and then say whether it is oxidised or reduced. For zinc and lead(II) ions, zinc atoms lose two electrons and are oxidised, while Pb²⁺ ions gain them and are reduced.
+
 ## Official syllabus
 
 International GCSE Chemistry (9202) specification published by OxfordAQA; Version 6.2, for exams May/June 2018 onwards. Unit covered: 3.8.4 Redox reactions, statements a to c, with links to 3.3.1.1, 3.3.2, 3.7.1 and 3.10.

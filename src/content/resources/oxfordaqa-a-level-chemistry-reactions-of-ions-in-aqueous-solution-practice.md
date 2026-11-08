@@ -146,6 +146,20 @@ Evaluate each reagent as a way of deciding which iron ion is present. For each, 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in aqueous ion test questions?**
+Common slips are quoting only the result in excess and missing the precipitate seen first, writing a metal(III) carbonate as a product, and forgetting the effervescence with 3+ ions and carbonate.
+
+**What is Required practical 9 in OxfordAQA 9620 Chemistry?**
+Required practical 9 is identifying transition metal ions in solution using test-tube reactions. Use a separate sample for each reagent, add it dropwise and then in excess, and record every observation.
+
+**How should you describe telling two metal ions apart?**
+Name the reagent, say it is added dropwise and then in excess, and give the observation for each ion at both stages. Naming the reagent alone is not enough.
+
+**Why is a white precipitate alone not enough to identify aluminium ions?**
+Other ions, such as Mg²⁺, also give a white precipitate with hydroxide. Aluminium hydroxide dissolves in excess sodium hydroxide but not in excess ammonia, which confirms the identification.
+
 ## Official syllabus
 
 Source: OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020. Section 3.2.6 (International A2), the topic on reactions of ions in aqueous solution, subsection 3.2.6.1, including required practical 9.

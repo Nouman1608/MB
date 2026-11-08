@@ -301,6 +301,23 @@ the [practice questions](/resources/oxfordaqa-a-level-chemistry-nuclear-magnetic
 the [Organic analysis revision notes](/resources/oxfordaqa-a-level-chemistry-organic-analysis-revision-notes/)
 and the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Is NMR spectroscopy AS or A2 content in OxfordAQA 9620 Chemistry?**
+Section 3.3.15 Nuclear magnetic resonance spectroscopy is International A-level only (International A2) content. It is examined in Unit 4, and Unit 5 (practical and synoptic) covers all content.
+
+**Why do electronegative atoms increase chemical shift?**
+An electronegative atom such as O, Cl or Br, or a nearby C=O group, draws electron density away from the nucleus and moves its signal to a larger δ. Two halogen atoms on the same carbon move it further still.
+
+**What does the n+1 rule tell you in ¹H NMR?**
+In a simple first-order ¹H spectrum, a signal from protons with n equivalent neighbouring protons is commonly split into n + 1 peaks. The splitting describes the hydrogens on the neighbouring carbons, not the group itself, and equivalent H do not split each other.
+
+**Why are ¹³C NMR spectra simpler than ¹H NMR spectra?**
+In the routine proton-decoupled ¹³C spectra you meet, each carbon environment usually appears as a single line. The ¹³C shift range (about 0–220 ppm) is also much wider than for ¹H, so lines overlap less often.
+
+**Do you need to memorise chemical shift values for OxfordAQA 9620?**
+No. You are expected to take chemical shift values from the Chemistry data booklet provided in the exam, so use the booklet's figures rather than memorised ones.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International

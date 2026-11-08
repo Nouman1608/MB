@@ -250,6 +250,20 @@ less energy is needed for argon (84 K) than for magnesium (923 K).
 - Assuming aluminium is non-metallic because it is in the p block.
 - Writing an ionisation equation with a solid on the left, or with two electrons removed.
 
+## Frequently asked questions
+
+**Which block is helium in?**
+Helium is in the s block, even though it sits in Group 0, because its electrons are in the 1s sub-shell. Chromium and copper are d block despite their configurations ending in 4s¹.
+
+**What is the melting point order of the Period 3 elements?**
+Using the rounded data on this page, the order from highest to lowest is Si > Al > Mg > S > Na > P > Cl > Ar. Silicon is giant covalent, while argon has only weak van der Waals forces between single atoms.
+
+**Why do P₄, S₈ and Cl₂ have low melting points?**
+They are molecular, so melting only overcomes weak van der Waals forces between molecules; the covalent bonds inside each molecule stay intact. More electrons per molecule give stronger van der Waals forces, which is why S₈ melts higher than P₄.
+
+**What do you need in a two-atom radius comparison?**
+Give all three links: quote the proton numbers to show the nuclear charge difference, say the outer electrons are in the same shell with similar shielding, and conclude that the outer electrons are attracted more strongly and held closer.
+
 ## Official syllabus
 
 Source document: OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3,

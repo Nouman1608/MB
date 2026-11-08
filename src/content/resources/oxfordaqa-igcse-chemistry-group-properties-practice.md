@@ -197,6 +197,20 @@ Links: [group properties study guide](/resources/oxfordaqa-igcse-chemistry-group
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in group properties questions?**
+Common slips include writing halogens as single atoms in equations, calling the gas from Group 1 and water oxygen, and explaining Group 7 reactivity in terms of losing electrons.
+
+**What Mr should you use for bromine in a calculation?**
+Bromine is diatomic, Br₂, so use 2 × 80 = 160 for the element. Using the atomic mass of 80 for Br₂ is a common error.
+
+**Are Group 1 salt solutions alkaline?**
+Not in general. Only the Group 1 hydroxides give alkaline solutions; salts such as lithium bromide are white solids that give colourless solutions.
+
+**Is there a required practical for group properties in OxfordAQA 9202?**
+Section 6.2 attaches no required practical to section 3.7.1, but you still need practical knowledge, such as what you would see when an alkali metal reacts with water.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This practice set covers section 3.7.1 Group properties.

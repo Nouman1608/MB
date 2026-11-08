@@ -310,6 +310,20 @@ Each carbon still makes four bonds; the double line counts as two.
 - Leaving out the type of process (batch or continuous) in an ethanol comparison.
 - Cracking equations that balance carbon but not hydrogen.
 
+## Frequently asked questions
+
+**How can you tell if a formula is an alkane?**
+Alkanes fit the general formula CₙH₂ₙ₊₂ and contain only carbon and hydrogen. If the number of hydrogen atoms is twice the number of carbons plus two, and there is no other element, it is an alkane.
+
+**Which pollutants cause acid rain, global dimming and climate change?**
+Sulfur dioxide and oxides of nitrogen cause acid rain, particulates cause global dimming, and carbon dioxide contributes to climate change. Linking sulfur dioxide to climate change, or carbon dioxide to acid rain, is a common error.
+
+**Why do engines produce oxides of nitrogen?**
+The nitrogen comes from the air, not from the fuel. At the high temperatures inside engines, nitrogen and oxygen from the air react to form oxides of nitrogen.
+
+**What is the result of the bromine water test for alkenes?**
+An alkene turns bromine water from orange to colourless, while an alkane leaves it orange. Write "colourless", not "clear", and run a known alkane alongside for comparison.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. These notes cover section 3.10.1 Carbon compounds as fuels and the required practical on testing for a double bond.

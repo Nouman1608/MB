@@ -275,6 +275,19 @@ Compare solutions of similar concentration.
   <figcaption>Larger halide ions are stronger reducing agents, so they reduce sulfuric acid further.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do the solubilities of Group 2 hydroxides and sulfates change down the group?**
+Hydroxides become more soluble from Mg(OH)₂ to Ba(OH)₂, while sulfates become less soluble from MgSO₄ to BaSO₄. A useful hook is "hydroxides rise, sulfates sink".
+
+**Why is barium sulfate safe to use in a barium meal?**
+Dissolved barium ions are toxic, but barium sulfate is insoluble, so barium ions do not pass into the blood. It absorbs X-rays, making the gut lining show clearly on an X-ray image.
+
+**What is the role of magnesium in titanium extraction?**
+In TiCl₄ + 2Mg → Ti + 2MgCl₂, titanium is reduced from +4 to 0 and magnesium is oxidised from 0 to +2, so magnesium is the reducing agent. The TiCl₄ to Mg ratio is 1 : 2.
+
+**Why is magnesium hydroxide used as an antacid?**
+A suspension of magnesium hydroxide neutralises excess hydrochloric acid in the stomach, and because it is sparingly soluble it limits how much hydroxide is in solution at once.
 
 ## Official syllabus
 

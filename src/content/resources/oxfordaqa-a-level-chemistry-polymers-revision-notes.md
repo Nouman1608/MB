@@ -233,6 +233,20 @@ Rule of thumb: in acid, the nitrogen ends up protonated; in alkali, the acid end
 - Disposal answers that list advantages only, or give no chemistry.
 - Miscounting carbons when naming a monomer from a chain section.
 
+## Frequently asked questions
+
+**How do you calculate the Mr of a condensation polymer repeating unit?**
+For two monomers, add the Mr of the diacid and the diol or diamine, then subtract 2 × 18.0 for the water lost. For a single amino acid, subtract 18.0 from its Mr.
+
+**What are the products of hydrolysing a polyamide in acid and in alkali?**
+In acid, the amine groups are protonated, so the diamine leaves as an ammonium salt and the diacid is released. In alkali, the acid groups are deprotonated, so the diacid leaves as a carboxylate salt and the diamine is released.
+
+**How many water molecules form per repeating unit in a polyester?**
+When a diacid reacts with a diol, two water molecules leave per repeating unit, so the equation shows 2n H₂O. A polymer from a single amino acid releases n H₂O.
+
+**How should you evaluate methods of disposing of polymers?**
+Pair each advantage of a disposal method with a disadvantage and link both to the chemistry. Answers that list only advantages, or give no chemistry, lose marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.12 Polymers (3.3.12.1 Condensation polymers; 3.3.12.2 Biodegradability and disposal of polymers), International A-level only.

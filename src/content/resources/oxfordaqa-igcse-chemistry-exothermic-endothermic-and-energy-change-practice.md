@@ -202,6 +202,20 @@ Energy change = 2580 − 2385 [1] = **+195 kJ/mol**, **endothermic** [1]
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in energy change calculations?**
+Common slips include giving ΔH a positive sign when the temperature rose, using the mass of fuel instead of water in Q = mcΔT, and dividing joules by moles but labelling the answer kJ/mol.
+
+**What mass do you use when two solutions are mixed?**
+Add the two volumes together and treat the total as the mass of solution, using 1 cm³ = 1 g. For 40 cm³ of each solution, use 80 g.
+
+**How should you compare two fuels fairly?**
+Divide the energy transferred by the mass or moles of each fuel burned, giving kJ per gram or kJ per mole. Comparing raw temperature rises is misleading when different amounts of fuel burned.
+
+**Is there a required practical for energy changes in OxfordAQA 9202?**
+Section 6.2 attaches no required practical to sections 3.9.1 or 3.9.2, but you can still be asked to describe and improve both the fuel and solution calorimetry methods.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This practice set covers section 3.9.1 Exothermic and endothermic reactions and section 3.9.2 Calculating and explaining energy change.

@@ -244,6 +244,20 @@ at 400 K (feasible).
 - Substituting ΔS in J K⁻¹ mol⁻¹ with ΔH in kJ mol⁻¹, or using °C.
 - Giving T = ΔH/ΔS with no statement of "above" or "below".
 
+## Frequently asked questions
+
+**What is the difference between atomisation enthalpy and bond enthalpy?**
+Enthalpy of atomisation is per mole of atoms formed, while bond enthalpy is per mole of bonds broken. For a gaseous diatomic element, the enthalpy of atomisation is half the bond enthalpy.
+
+**Why is enthalpy of hydration always exothermic?**
+Cations attract the δ– oxygen end of water molecules and anions attract the δ+ hydrogen end, releasing energy. Smaller and more highly charged ions attract water more strongly, so their hydration enthalpies are more exothermic.
+
+**Can the absolute entropy of an element be zero?**
+No. The absolute entropy of an element is never zero, even though the standard enthalpy of formation of an element in its standard state is zero. Setting an element's entropy to zero is a common error.
+
+**Does a negative ΔG mean a reaction is fast?**
+No. A negative ΔG shows a reaction is thermodynamically feasible, but it says nothing about rate. A high activation energy can make a feasible reaction too slow to observe.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for

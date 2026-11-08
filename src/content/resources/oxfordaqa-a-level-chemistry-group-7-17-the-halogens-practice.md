@@ -228,6 +228,20 @@ credit, because the question asks you to rule out the other halides.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is the halogens topic AS or A-level in OxfordAQA 9620 Chemistry?**
+Section 3.2.3 on the Group 7(17) halogens is entirely International AS content. It is set in the Unit 1 paper, and the Unit 5 practical and synoptic paper can also draw on it.
+
+**What are the most common mistakes in halogens exam questions?**
+Common slips include explaining electronegativity with nuclear charge instead of distance and shielding, and leaving NaHSO₄ out of an equation that starts from the solid sodium halide. Calling every chlorine reaction disproportionation, including the sunlight one, also loses marks.
+
+**How should you answer a Required practical 3 ion test question?**
+Give both the reagent and the result for each test. A test with no result, or a result with no reagent, does not earn the marks.
+
+**How do you write an overall equation for a sodium halide and concentrated sulfuric acid?**
+Balance the electrons between the halide and the sulfur half-equation, then add enough extra H₂SO₄ to form NaHSO₄ with all the sodium, and balance with water. Forgetting the NaHSO₄ is a frequent error.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

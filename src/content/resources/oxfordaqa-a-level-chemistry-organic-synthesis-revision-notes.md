@@ -255,6 +255,20 @@ product with [organic analysis](/resources/oxfordaqa-a-level-chemistry-organic-a
 - Giving "safer" and "less dangerous" as two separate reasons; they make one point.
 - Forgetting that KCN with an aldehyde or unsymmetrical ketone gives a racemic mixture.
 
+## Frequently asked questions
+
+**Which reactions have 100% atom economy?**
+Addition reactions, which form a single product, have 100% atom economy. Substitution and elimination reactions usually make a by-product as well, so their atom economy is usually below 100%.
+
+**How many steps can a synthesis route have in OxfordAQA 9620 Chemistry?**
+Section 3.3.14 asks you to plan routes of up to four steps, using only reactions in the 9620 specification. Give the reagent, conditions and product for each step.
+
+**Why is ethanoic anhydride used instead of ethanoyl chloride to make aspirin?**
+Ethanoic anhydride is cheaper, less corrosive, reacts less violently with water and releases no hydrogen chloride gas, which makes it the safer starting material.
+
+**How do you chlorinate the side chain of methylbenzene?**
+React methylbenzene with chlorine in ultraviolet light, which substitutes on the side chain by a free-radical reaction. Using AlCl₃ instead of UV light is a common mistake in route questions.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS

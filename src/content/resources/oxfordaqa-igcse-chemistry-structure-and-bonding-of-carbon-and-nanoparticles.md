@@ -244,6 +244,23 @@ Explain this. The nanoparticles have a much higher surface area to volume ratio 
 
 Read the [revision notes](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-revision-notes/) for a one-page summary, then work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-practice/). The [exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/) covers wider exam technique, and the [diagnostics page](/diagnostics/) helps you decide what to revise next.
 
+## Frequently asked questions
+
+**Why is diamond so hard?**
+In diamond, each carbon atom forms four covalent bonds with four other carbon atoms, giving a rigid giant covalent structure. Deforming or scratching it means breaking many strong covalent bonds.
+
+**Why is graphite soft and slippery?**
+Graphite is made of flat layers of hexagonal rings with no covalent bonds between the layers, only weak forces, so the layers slide over each other easily. The covalent bonds within each layer are strong, which is why graphite still has a very high melting point.
+
+**Why does graphite conduct electricity?**
+Each carbon atom in graphite uses only three of its four outer electrons in covalent bonds. The fourth electron is delocalised and can move through the structure, carrying charge.
+
+**What are fullerenes used for?**
+The uses in the OxfordAQA 9202 specification are drug delivery into the body, lubricants, catalysts and nanotubes for reinforcing materials, for example in tennis rackets.
+
+**What size is a nanoparticle?**
+Nanoscience studies structures 1–100 nm in size, of the order of a few hundred atoms, where 1 nm = 1 × 10⁻⁹ m. Give both the lower and upper limit when quoting the range.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.3 and 3.2.4.

@@ -206,6 +206,20 @@ Values for this change: ΔH = −1.8 kJ mol⁻¹, ΔS = +205 J K⁻¹ mol⁻¹.
 - [Book a free trial class](/trial/)
 - [All free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Is transition metals AS or A2 content in OxfordAQA 9620 Chemistry?**
+Section 3.2.5 Transition metals is International A-level only, and no required practical is listed under it.
+
+**What are the most common mistakes in transition metal questions?**
+Frequent slips are counting ligands instead of co-ordinate bonds in chelate complexes, explaining the chelate effect without counting particles, and leaving λ in nm inside ΔE = hc/λ.
+
+**What unit mistakes are common in transition metals calculations?**
+Common slips are leaving λ in nm inside ΔE = hc/λ, forgetting to multiply by 1000 when converting to kJ, and missing a dilution or scale-up factor in colorimetry or titration answers.
+
+**How do you show that a transition metal acts as a catalyst?**
+Write the steps so the catalyst changes oxidation state in one step and returns to its original form in the next, as for V₂O₅ in the Contact process. Not showing that the catalyst is regenerated loses marks.
+
 ## Official syllabus
 
 Source: OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for exams from May/June 2020. Section 3.2.5 Transition metals (International A2).

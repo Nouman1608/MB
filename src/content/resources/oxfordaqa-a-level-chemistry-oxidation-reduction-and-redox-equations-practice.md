@@ -180,6 +180,20 @@ Mass = 0.0300 × 24.3 [1] = **0.729 g** [1]
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in redox questions?**
+Typical slips are explaining redox with gain or loss of oxygen instead of electrons, writing oxidation states without a sign, and putting electrons on the wrong side of a half-equation or balancing charge with H⁺.
+
+**Why is fluorine important when working out oxidation states?**
+Fluorine is always −1, and this rule ranks above the others, so it fixes the values of other elements in compounds such as XeOF₄ or BrF₅. Forgetting this gives the wrong oxidation state.
+
+**Should you name an element or a species in a redox answer?**
+When a question asks which species is oxidised or reduced, give the species, such as Cl₂ or CO₂, rather than just the element name. Writing "chlorine" or "carbon" can lose the mark.
+
+**Which mole ratio should you use in a redox calculation?**
+Use the reacting ratio from the balanced overall equation, not an assumed 1 : 1 ratio. Combining the half-equations first gives you the correct ratio.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.5 Oxidation, reduction and redox equations (3.1.5.1). Published by OxfordAQA.

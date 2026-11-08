@@ -249,6 +249,20 @@ empirical formula mass compared with Mr.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is introduction to organic chemistry on the AS papers in OxfordAQA 9620?**
+Yes. Section 3.3.1 is entirely International AS content, assessed in Unit 2 (Organic 1 and Physical 1), and questions there can also use amount of substance calculations.
+
+**What are common mistakes when working out an empirical formula?**
+Rounding a ratio such as 1.50 instead of doubling every value, and giving an empirical formula that can still be simplified, both lose marks.
+
+**What are common mistakes when naming organic compounds?**
+Numbering an alcohol from the end nearer a branch instead of the –OH, and leaving the CN carbon out of a nitrile's stem, are frequent errors. Also check you have not listed the same isomer twice under a wrong name.
+
+**How are radical equations marked?**
+Each radical must carry a dot, and every step must be written as its own balanced equation. Radicals without dots, or radical equations that do not balance, lose marks.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

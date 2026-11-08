@@ -202,6 +202,20 @@ CH₂=CHCH₂CH₂C(OH)(CH₃)₂** [1]: the OH carbon carries three carbon grou
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in organic analysis questions?**
+Frequent errors are giving only one colour for a test, writing "clear" instead of colourless, and treating an orange-to-green dichromate(VI) result as proof of an alcohol before ruling out aldehydes.
+
+**How should you answer a "distinguish between" test question?**
+Name the reagent and give the result for both compounds, including the colour before and after. Giving the result for only one of the two compounds does not earn full marks.
+
+**What must you show when choosing a molecular formula from precise mass?**
+Calculate the precise-mass total for every candidate formula and show which one matches the measured m/z. Picking a formula without the sum for each candidate loses marks.
+
+**Is the acid–carbonate test AS content in OxfordAQA 9620?**
+The acid–carbonate reaction is stated in section 3.3.9.1, which is International A-level only, although Required practical 5 still lists a test for carboxylic acids. The rest of section 3.3.6 is International AS content examined in Unit 2.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS

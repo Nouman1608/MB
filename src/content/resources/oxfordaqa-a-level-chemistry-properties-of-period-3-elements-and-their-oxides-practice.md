@@ -259,6 +259,20 @@ intermolecular forces, so P₄O₁₀ melts lower [1]
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in Period 3 oxides and chlorides questions?**
+Frequent slips are writing AlCl₃ instead of Al₂Cl₆ for the product of aluminium and chlorine, saying SiCl₄ "dissolves" when it is hydrolysed, and breaking covalent bonds when describing the melting of simple molecular compounds.
+
+**What are common mistakes in Period 3 neutralisation calculations?**
+Using the wrong mole ratio for chloride neutralisation is a frequent error. Take the ratio from a fully balanced equation that includes every acid product, not just the main one.
+
+**What do you need to draw when asked for the structure of H₂SO₃ or its anions?**
+Show sulfur with one S=O, the S–OH or S–O⁻ groups and its lone pair, with any negative charges on single-bonded oxygen atoms. Missing the lone pair on sulfur, or putting a charge on S, loses marks.
+
+**Which OxfordAQA 9620 unit tests Period 3 oxides and chlorides?**
+This International A-level only topic is tested in Unit 3 (Inorganic 2 and Physical 2), and the synoptic Unit 5 may include it too.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for

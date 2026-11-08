@@ -280,6 +280,23 @@ The same structural change (an extra energy level) causes opposite trends, becau
 
 Condense what you have learned with the [group properties revision notes](/resources/oxfordaqa-igcse-chemistry-group-properties-revision-notes/), then test yourself with the [group properties practice questions](/resources/oxfordaqa-igcse-chemistry-group-properties-practice/). For other units, use the [OxfordAQA IGCSE Chemistry hub](/boards/oxfordaqa/igcse/chemistry/), the [printable checklist](/checklists/oxfordaqa/igcse/chemistry/) and the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why do alkali metals get more reactive down Group 1?**
+Each element down the group has one more occupied energy level, so the single outer electron is further from the nucleus and more shielded. The attraction is weaker, so the electron is lost more easily and the metal is more reactive.
+
+**Why do halogens get less reactive down Group 7?**
+Halogens react by gaining an electron into their outer energy level. Further down the group, that level is further from the nucleus and more shielded, so an incoming electron is attracted less strongly and is gained less easily.
+
+**What happens when an alkali metal reacts with water?**
+Every alkali metal reacts with water to form a metal hydroxide and hydrogen, 2M + 2H₂O → 2MOH + H₂. The hydroxide dissolves to give an alkaline solution, and the hydrogen gives a pop with a lighted splint.
+
+**How do you predict a halogen displacement reaction?**
+A more reactive halogen displaces a less reactive one from a solution of its halide; the order is fluorine > chlorine > bromine > iodine. So chlorine water added to a bromide solution gives bromine, but iodine cannot displace chlorine.
+
+**How do the states of the halogens change down Group 7?**
+Melting and boiling points rise down the group, so the halogens change from gases to a liquid to a solid at room temperature. Larger molecules further down have stronger forces between them.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide covers section 3.7.1 Group properties (statements a to f).

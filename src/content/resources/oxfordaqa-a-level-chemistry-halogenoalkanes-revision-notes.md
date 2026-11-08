@@ -258,6 +258,20 @@ of each C=C carries two identical groups.
 - Forgetting E and Z isomers when the alkene product has them.
 - Naming a nitrile without counting the CN carbon.
 
+## Frequently asked questions
+
+**What is a nucleophile?**
+A nucleophile is an electron pair donor that attacks an electron-deficient (δ+) atom. The three nucleophiles in OxfordAQA 9620 section 3.3.3 are the hydroxide ion, the cyanide ion and ammonia.
+
+**What is the difference between OH⁻ acting as a nucleophile and as a base?**
+As a nucleophile, OH⁻ bonds to the δ+ carbon and gives an alcohol by substitution. As a base, it removes H⁺ from a carbon next to the C–X carbon and gives an alkene by elimination.
+
+**How do you name the nitrile made from a halogenoalkane and cyanide?**
+Count the CN carbon as carbon 1 of the main chain, because the cyanide adds one carbon. Branch locants can therefore change between the halogenoalkane and the nitrile.
+
+**How do you find all the elimination products of a halogenoalkane?**
+Check every carbon next to the C–X carbon that carries a hydrogen, remove H from each in turn, and discard duplicate structures. Then check each alkene for E and Z isomers.
+
 ## Official syllabus
 
 These notes follow section 3.3.3 Halogenoalkanes (International AS) of the OxfordAQA *International AS

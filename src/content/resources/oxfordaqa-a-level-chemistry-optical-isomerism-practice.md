@@ -182,6 +182,20 @@ Learn the ideas first in the [optical isomerism study guide](/resources/oxfordaq
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in optical isomerism questions?**
+Common slips include calling a carbon chiral when two of its groups are the same, leaving "non-superimposable" out of the meaning of enantiomers, and drawing structural formulas with every bond flat so the two enantiomers look identical.
+
+**Which unit examines optical isomerism in OxfordAQA 9620 Chemistry?**
+Optical isomerism (section 3.3.7) is International A-level only and is assessed in Unit 4, with Unit 5 able to draw on any content.
+
+**Does a symmetrical ketone give a chiral product with KCN?**
+No. With a symmetrical ketone, or with methanal, the new carbon carries two identical groups, so the product has no chiral centre and is not a racemate.
+
+**How should you answer a question that asks you to count isomers?**
+List the structural isomers, then add the enantiomers for each one that has a chiral centre. A bare total with no list or reason is unlikely to earn full credit.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.7 Optical isomerism (3.3.7.1), International A2 content.

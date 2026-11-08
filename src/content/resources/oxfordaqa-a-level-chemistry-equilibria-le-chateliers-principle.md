@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-7-2"
-description: "Dynamic equilibrium, Le Chatelier's principle, and writing and using the equilibrium constant Kc, for OxfordAQA International AS and A-level Chemistry 9620, assessed in Unit 2."
+description: "OxfordAQA 9620 AS Chemistry guide to dynamic equilibrium, Le Chatelier's principle, the Haber and Contact compromises, and calculating Kc with its units."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Chemical equilibria, Le Chatelier's principle and Kc**,
@@ -199,6 +201,23 @@ and catalysts
 - Writing and calculating Kc expressions, including units
 - What changes Kc (temperature only) vs what changes position only
 (concentration, pressure, catalyst)
+
+## Frequently asked questions
+
+**Do you use moles or concentrations in a Kc calculation?**
+Kc is defined in terms of concentrations in mol dm⁻³, so if you are given amounts in moles you must divide each by the container volume before substituting. Each concentration is then raised to the power of its balancing number in the equation.
+
+**Does a catalyst change the position of equilibrium?**
+No. A catalyst speeds up the forward and reverse reactions equally, so it has no effect on the position of equilibrium or the yield. It only shortens the time taken to reach equilibrium.
+
+**What is the only factor that changes the value of Kc?**
+Only a change in temperature changes the value of Kc. Changing concentration or pressure can shift the position of equilibrium, but the value of Kc stays the same as long as the temperature is constant.
+
+**Why is the Haber process run at about 450 °C if the reaction is exothermic?**
+A lower temperature would give a higher equilibrium yield, but the rate would be uneconomically slow. Around 450 °C is a compromise between rate and yield, and the cost of the plant also affects the choice of pressure.
+
+**When does Kc have no units?**
+Kc has no units only when the total moles of gas (or dissolved species) are equal on both sides of the equation, so the concentration units cancel. Otherwise, work the units out from the overall power difference in the expression.
 
 ## Related resources
 

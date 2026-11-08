@@ -214,6 +214,20 @@ listing it twice suggests you have not checked for duplicates.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is halogenoalkanes AS or A2 content in OxfordAQA 9620 Chemistry?**
+Section 3.3.3 Halogenoalkanes is International AS content, examined on the Unit 2 paper (Organic 1 and Physical 1). The Unit 5 practical and synoptic paper may revisit it.
+
+**Where should curly arrows start in a halogenoalkane mechanism?**
+Arrows must start from a lone pair or from a bond, never from a hydrogen atom or a negative charge sign. For cyanide, the arrow starts from the lone pair on carbon, not nitrogen.
+
+**What are common mistakes in elimination questions?**
+Frequent errors are removing hydrogen from the carbon that carries the halogen, counting equivalent alkenes twice, and missing E and Z forms of an alkene product.
+
+**How do you calculate atom economy for a halogenoalkane reaction?**
+Divide the Mr of the desired product by the total Mr of all reactants in the balanced equation, then multiply by 100. Dividing by the halogenoalkane's Mr alone is a common mistake, and for ammonia remember two NH₃ molecules are used.
+
 ## Official syllabus
 
 Questions written against OxfordAQA's *International AS and A-level Chemistry (9620)* specification,
