@@ -353,6 +353,20 @@ Dull surfaces emit and absorb better than shiny ones. A hotter object, and one w
 - Saying that "cold rises" or "heat rises". Warm fluid rises because it is less dense.
 - Expecting the temperature to climb while a substance is melting or boiling, when it holds steady until the change is complete.
 
+## Frequently asked questions
+
+**Do you add 273 to a temperature change when converting to kelvin?**
+No. A temperature difference is the same in kelvin and degrees Celsius, so a rise of 20 °C is a rise of 20 K. Add 273 only when converting a single temperature.
+
+**Why is a measured specific heat capacity usually too high?**
+Some energy leaks to the surroundings, so the temperature rise is smaller than expected and the calculated value of c comes out too large. Insulating the apparatus reduces this error.
+
+**Why does warm air or water rise in convection?**
+Warm fluid expands, becomes less dense and rises, while cooler, denser fluid sinks to replace it. Saying "heat rises" or "cold rises" is a common error.
+
+**What is latent heat?**
+Latent heat is the energy that must be supplied or removed for a substance to change state. It does not raise the temperature; it increases the potential energy of the particles by pulling them apart against the forces between them.
+
 ## Official syllabus
 
 Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028, Cambridge International, topic 2 Thermal physics.

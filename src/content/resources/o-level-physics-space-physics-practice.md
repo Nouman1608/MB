@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "space-physics"
     subtopic: "stars-and-the-universe"
-description: "Original exam-style questions with full worked answers on the order of the planets, the Sun's gravitational attraction on a comet, average orbital speed, comparing orbital periods, the formation of a stable star, and redshift as evidence for the Big Bang, for Cambridge O Level Physics (5054)."
+description: "Original Cambridge O Level Physics 5054 space physics questions with worked answers on planets, gravity, orbital speed and period, stable stars and redshift."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
@@ -98,3 +100,17 @@ Most questions practise a skill tested in the June 2025 Paper 22. After each ans
 - Leaving the orbital period in days when the speed is needed in km/s.
 - Forgetting that orbital distance is 2πr when using v = 2πr ÷ T.
 - Describing redshift as light "becoming red" rather than an increase in wavelength.
+
+## Frequently asked questions
+
+**What are common mistakes in O Level Physics space questions?**
+Frequent slips include mixing up the order of the planets, especially Mercury and Venus or Uranus and Neptune, leaving the orbital period in days when the speed is needed in km/s, and forgetting that the orbital distance is 2πr.
+
+**What units should I use in orbital speed calculations?**
+Match the units: if the radius is in km and the speed is wanted in km/s, the period must be in seconds. Mixing days with km is a common error.
+
+**How do these space questions link to real past papers?**
+Most questions practise a skill tested in the June 2025 Paper 22, and after each answer there is a tip and, where one matches, the real question to try next.
+
+**Is a light-year a unit of time?**
+No. A light-year is a distance: how far light travels in one year. Treating it as a time is a common mistake.

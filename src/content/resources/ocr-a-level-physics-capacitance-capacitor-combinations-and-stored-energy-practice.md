@@ -148,6 +148,20 @@ Links: [study guide](/resources/ocr-a-level-physics-capacitance-capacitor-combin
 - Using the gradient of a V-Q graph as C instead of 1/C.
 - Describing a practical method without saying how C is calculated.
 
+## Frequently asked questions
+
+**What are common mistakes in OCR A Level Physics capacitor questions?**
+Frequent slips include leaving µF or mF values unconverted, adding capacitances for a series pair, quoting 1/C as the final answer and using W = QV or forgetting the square in ½CV².
+
+**What does the gradient of a V-Q graph represent?**
+On a graph of V against Q, the gradient is 1/C, not C. Using the gradient as C is a common error.
+
+**What should a capacitor practical method include?**
+State what is measured, with which instruments, and how the capacitance is calculated from the readings. Describing the method without the calculation step loses marks.
+
+**Which OCR A Level Physics A specification sections do these questions cover?**
+They follow the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026), sections 6.1.1(a)–(e) and 6.1.2(a)–(c).
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-physics-capacitance-capacitor-combinations-and-stored-energy-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-physics-capacitance-capacitor-combinations-and-stored-energy/).

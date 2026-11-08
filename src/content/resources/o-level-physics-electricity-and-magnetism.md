@@ -306,6 +306,20 @@ An oscilloscope displays a waveform as a trace. The **Y-gain** sets the p.d. per
 </figure>
 
 
+## Frequently asked questions
+
+**What does Section 4 Electricity and magnetism cover in O Level Physics 5054?**
+It covers magnetism and magnetic fields, electrical quantities (charge, current, e.m.f., p.d. and resistance), electric circuits, practical electricity and safety, electromagnetic effects including induction, motors and transformers, and uses of an oscilloscope.
+
+**Why must the fuse and switch be in the live wire?**
+With the fuse or switch in the live wire, the appliance is disconnected from the high voltage when the fuse melts or the switch is off. Putting either in the neutral wire would leave the appliance live.
+
+**What is the difference between e.m.f. and p.d.?**
+E.m.f. is the work done by a source moving unit charge round a complete circuit, while p.d. is the work done by unit charge passing through a component. Both are measured in volts, where 1 V = 1 J/C.
+
+**What is the difference between earthing and double insulation?**
+Earthing gives fault current a path to ground, so the fuse melts or trip switch operates and the metal case is safe. Double insulation uses a non-conducting case, so the case cannot become live in the first place.
+
 ## Official syllabus
 
 Cambridge O Level Physics 5054 syllabus for 2026, 2027 and 2028, Cambridge International, Section 4: Electricity and magnetism.

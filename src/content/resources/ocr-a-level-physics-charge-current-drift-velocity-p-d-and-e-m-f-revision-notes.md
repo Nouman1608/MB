@@ -195,6 +195,20 @@ Be able to draw: cell, battery, switch, fixed resistor, variable resistor, filam
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between p.d. and e.m.f. in OCR A Level Physics?**
+P.d. is the energy transferred per unit charge from electrical to other forms between two points, while e.m.f. is the energy given to each unit of charge by a source, converting other forms to electrical. Both are measured in volts (J C⁻¹); the difference is the direction of the energy change.
+
+**What is the equation for drift velocity?**
+I = Anev, where A is the cross-sectional area, n is the number density of charge carriers, e is the elementary charge and v is the mean drift velocity. Use the area, not the diameter, and keep all quantities in SI units.
+
+**Why does a lamp light at once if drift velocity is so small?**
+The electric field travels through the circuit very quickly when the switch closes, so the carriers already in the filament start to drift together. Drift velocities in metals are only fractions of a millimetre per second.
+
+**What is Kirchhoff's first law?**
+At any junction, the sum of the currents in equals the sum of the currents out. It applies conservation of charge to a junction.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Sections 4.1.1, 4.1.2, 4.2.1 and 4.2.2.

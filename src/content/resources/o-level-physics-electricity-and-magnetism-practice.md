@@ -25,10 +25,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "electricity-and-magnetism"
     subtopic: "electromagnetic-effects"
-description: "Original exam-style questions with full worked answers on measuring resistance, resistance and length, choosing fuses, parallel lighting circuits, trip switches, the d.c. motor and the turning effect on a coil, for Cambridge O Level Physics (5054)."
+description: "Original Cambridge O Level Physics 5054 questions with worked answers on measuring resistance, fuses, lighting circuits, trip switches and the d.c. motor."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
@@ -120,3 +122,17 @@ Each question practises a skill tested in the June 2025 Paper 22. After each ans
 - Rounding up instead of down when finding the maximum number of lamps.
 - Saying the commutator "changes the direction of the coil" instead of reversing the current every half turn.
 - Cancelling the two forces on a motor coil instead of adding their moments.
+
+## Frequently asked questions
+
+**What are common mistakes in O Level Physics electricity questions?**
+Frequent slips include putting the voltmeter in series or the ammeter in parallel, choosing a fuse just below the normal current or far above it, and cancelling the two forces on a motor coil instead of adding their moments.
+
+**How should I use these practice questions with past papers?**
+Each question practises a skill tested in the June 2025 Paper 22, and after each answer there is a tip and the real question to try next.
+
+**What units should I check in electricity calculations?**
+Convert minutes to seconds and kilowatts to watts before substituting. Forgetting these conversions is a frequent source of lost marks.
+
+**How do you round a maximum number in a circuit question?**
+When finding the largest whole number of devices a circuit can safely take, round down, because rounding up would exceed the limit.
