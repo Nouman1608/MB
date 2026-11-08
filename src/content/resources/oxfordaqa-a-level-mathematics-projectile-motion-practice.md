@@ -82,7 +82,7 @@ These questions cover section M2.5 (Projectiles) of the OxfordAQA International 
 
 ## Answers
 
-**1. (a)** Horizontal: x = 20 cos 60° × 1.5 = 10 × 1.5 = **15 m** [1]. Vertical: y = 20 sin 60° × 1.5 − 4.9 × 1.5² = 25.98 − 11.025 = **14.96 m** [1]
+**1. (a)** Horizontal: x = 20 cos 60° × 1.5 = 10 × 1.5 = **15 m** [1]. Vertical: y = 20 sin 60° × 1.5 − 4.9 × 1.5² = 25.981 − 11.025 = 14.956…, so **15.0 m** (3 s.f.) [1]
 **(b)** Horizontal velocity = 10 m/s; vertical velocity = 17.32 − 9.8 × 1.5 = 2.62 m/s [1]. Speed = √(10² + 2.62²) = **10.3 m/s** [1]. Angle = tan⁻¹(2.62 / 10) = **14.7° above the horizontal** [1]
 *Examiner insight:* Show the two velocity components before combining them, so any arithmetic slip is easy to locate. A direction needs a reference: above or below the horizontal.
 
