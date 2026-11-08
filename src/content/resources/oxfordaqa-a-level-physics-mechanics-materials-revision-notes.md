@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Condensed recall notes on the SUVAT equations, motion graphs, and Newton's three laws of motion, for OxfordAQA International A-Level Physics (9630), sub-topics 3.2.3 and 3.2.5."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -164,6 +166,23 @@ Splitting the graph into geometric shapes (triangles, rectangles, trapezia) befo
 
 - [Motion Along a Straight Line and Newton's Laws study guide](/resources/a-level-oxfordaqa-physics-motion-and-newtons-laws/)
 - [Motion Along a Straight Line and Newton's Laws practice questions](/resources/oxfordaqa-a-level-physics-motion-newtons-laws-practice/)
+
+## Frequently asked questions
+
+**Which parts of the OxfordAQA 9630 specification do these notes cover?**
+They cover sub-topics 3.2.3 (motion along a straight line, including the SUVAT equations and motion graphs) and 3.2.5 (Newton's laws of motion) of OxfordAQA International AS and A-level Physics (9630).
+
+**When can you use the SUVAT equations?**
+The SUVAT equations apply only when the acceleration is uniform. Choose the single equation that links the quantities you are given and the one you need, rather than forcing a two-step calculation.
+
+**What is the difference between distance and displacement?**
+Displacement is the distance moved in a specified direction, so it is a vector. Distance is a scalar with size only. In the same way, velocity is a vector and speed is a scalar.
+
+**What does the area under an acceleration-time graph show?**
+The area under an acceleration-time graph gives the change in velocity. The area under a velocity-time graph gives the displacement.
+
+**Which equation replaces F = ma when mass changes?**
+F = ma applies only when the mass is constant. If the mass changes, use force as the rate of change of momentum, F = Δp/Δt.
 
 ## Official syllabus
 

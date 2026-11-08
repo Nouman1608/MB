@@ -145,6 +145,20 @@ Links: [study guide](/resources/oxfordaqa-a-level-physics-radioactive-decay-mode
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**What mistakes lose marks in half-life questions?**
+Forgetting to subtract the background count before finding the half-life, and using only one starting point on the graph. Define half-life as the time for half the nuclei to decay, not "half the time to decay".
+
+**Which particle goes with beta-plus decay?**
+Beta-plus decay emits a positron and a neutrino, while beta-minus decay emits an electron and an antineutrino. Swapping the neutrino and antineutrino is a common error.
+
+**Do I need exponential decay equations for these questions?**
+No. Section 3.3.3 uses whole numbers of half-lives. The OxfordAQA International AS and A-level Physics (9630) specification places exponential decay equations at International A-level only, in section 3.9.
+
+**Is alpha radiation always the most dangerous?**
+No. Outside the body alpha is least hazardous because the outer skin stops it. Inside the body, swallowed or inhaled, it is the most hazardous because it is strongly ionising and deposits its energy in a small volume.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: section 3.3.3 Radioactivity.

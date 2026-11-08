@@ -244,6 +244,20 @@ r = mv/(Bq) = 3.344e-27 × 1.20e6 / (5.0 × 1.60e-19) = 5.0 × 10⁻³ m
 - Forgetting decay heat after the control rods go in.
 - In the fusion estimate, giving all of Ep to one nucleus.
 
+## Frequently asked questions
+
+**What does a coolant do in a nuclear reactor?**
+The coolant carries energy away from the reactor core. Examples are pressurised water and carbon dioxide.
+
+**Why can't magnetic fields hold the neutrons in a fusion reactor?**
+Neutrons are uncharged, so they do not spiral round magnetic field lines like the charged particles in the plasma. They strike the structure, damaging it and making it radioactive.
+
+**What are the properties of a good control rod material?**
+A control rod must absorb neutrons very strongly, have a high melting point, resist corrosion and radiation damage, and move reliably. Boron and cadmium are typical examples.
+
+**Is nuclear fission in OxfordAQA International AS Physics?**
+No. Section 3.12 of the OxfordAQA International AS and A-level Physics (9630) specification is International A-level only, so induced fission, reactor safety and fusion are not part of the International AS content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: sections 3.12.3 Induced fission, 3.12.4 Safety aspects of nuclear reactors and 3.12.5 Nuclear fusion (International A-level only).

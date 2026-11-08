@@ -216,6 +216,20 @@ Background radiation is always present. Origins include radon gas from rocks, co
 - Calling alpha the most hazardous in every case: the answer reverses between a source held away from you and one swallowed or inhaled.
 - Using 1/r rather than 1/r².
 
+## Frequently asked questions
+
+**What is technetium-99m used for?**
+Technetium-99m is used as a source in medical diagnosis. Attached to a chemical that travels to the organ of interest, it emits only gamma rays, which pass out of the body to a gamma camera, and its half-life of about 6 hours is long enough to scan but short enough to fade within a day or two.
+
+**How do you identify the radiation from a source using absorbers?**
+Measure the count rate with no absorber, then with paper, aluminium and lead, subtracting the background each time. A large drop with paper shows alpha, a drop with a few millimetres of aluminium shows beta, and counts that remain until lead is added show gamma.
+
+**What is the most ionising type of radiation?**
+Alpha radiation is the most strongly ionising, beta is medium and gamma is the weakest. Alpha has a range of only a few centimetres in air.
+
+**Which section of the OxfordAQA 9630 specification does this guide cover?**
+It covers section 3.3.3 (radioactivity) of OxfordAQA International AS and A-level Physics (9630), version 4.4, which is shared AS and A-level content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: section 3.3.3 Radioactivity.

@@ -202,6 +202,20 @@ The energy needed is the change in total energy, not the change in potential ene
 </figure>
 
 
+## Frequently asked questions
+
+**What is the definition of gravitational potential for OxfordAQA A-level Physics (9630)?**
+Gravitational potential at a point is the work done per unit mass, by an external agent, in moving a small test mass from infinity to that point. Its unit is J kg⁻¹ and it is zero at infinity.
+
+**How are gravitational field strength and potential linked?**
+The field strength is the negative gradient of the potential: g = −ΔV/Δr. On a graph of V against r, the magnitude of g at a point is the gradient of the curve there.
+
+**What is the total energy of a satellite in a circular orbit?**
+The kinetic energy is GMm/(2r), the potential energy is −GMm/r and the total is −GMm/(2r). So the potential energy is −2 times the kinetic energy, and the total energy is negative because the satellite is bound.
+
+**What is the difference between a geosynchronous and a geostationary orbit?**
+A geosynchronous orbit has a period of one sidereal day, 23 h 56 min. A geostationary orbit is a geosynchronous orbit that is also above the equator and moves the same way as the Earth turns, so it stays above one point on the ground.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.7.3 and 3.7.4.

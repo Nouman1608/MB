@@ -158,6 +158,20 @@ These questions follow sections 3.5.1 and 3.5.2 of the OxfordAQA International A
 - Find weak spots with all free 10-minute diagnostics: [diagnostics](/diagnostics/)
 - Book a free trial class: [trial class](/trial/)
 
+## Frequently asked questions
+
+**What mistakes lose marks in pendulum questions?**
+Measuring the length to the top of the bob instead of its centre, and claiming the period depends on the bob's mass or the amplitude. For small angles, T = 2π√(l/g) depends only on length and g.
+
+**How often do kinetic and potential energy repeat in an oscillation?**
+Kinetic and potential energy each go through two cycles for every one cycle of the oscillation. Giving the energy graphs the same frequency as the motion is a common error.
+
+**Is the derivation of the period formulae in OxfordAQA International AS Physics?**
+No. Periods and resonance in sections 3.5.1 and 3.5.2 are shared AS and A-level content, but deriving the period formulae belongs to section 3.6.2 of OxfordAQA International AS and A-level Physics (9630), which is International A-level only.
+
+**When does resonance happen?**
+Resonance happens when the driving frequency equals the natural frequency of the system, not simply at a high frequency. The amplitude is then at its largest.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.5.1 and 3.5.2, with the derivation in 3.6.2.

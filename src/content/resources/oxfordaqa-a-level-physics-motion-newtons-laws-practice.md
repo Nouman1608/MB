@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on SUVAT equations, motion graphs, the free-fall required practical, and Newton's three laws of motion, for OxfordAQA International A-Level Physics (9630), sub-topics 3.2.3 and 3.2.5."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -102,3 +104,17 @@ Related: [Motion Along a Straight Line and Newton's Laws study guide](/resources
 - Stating only Newton's second law when a question asks about "Newton's laws" in general.
 - Describing a Newton's third law pair as two forces acting on the same object, rather than on two different objects.
 - Plotting s against t instead of s against t² when analysing the free-fall required practical, missing the point of the linearisation.
+
+## Frequently asked questions
+
+**Are these OxfordAQA past paper questions?**
+No. They are original practice questions on sub-topics 3.2.3 and 3.2.5 of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
+
+**What is the required practical for motion in a straight line?**
+The specification names a required practical for 3.2.3: determining the acceleration due to gravity, g, by a free-fall method, including finding g from a graph. Light gates can improve the precision of the timing.
+
+**How do you find displacement from a velocity-time graph with several sections?**
+Split the area under the graph into triangles, rectangles and trapezia, find each area, then add them. This is more reliable than one combined calculation.
+
+**What is the difference between speed and velocity?**
+Velocity is the rate of change of displacement, so it has a direction and is a vector. Speed has size only and is a scalar.

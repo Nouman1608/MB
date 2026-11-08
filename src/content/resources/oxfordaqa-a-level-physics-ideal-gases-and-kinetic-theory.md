@@ -243,6 +243,23 @@ For 2.0 mol at 350 K, U = 1.5 × 2.0 × 8.31 × 350 = 8.7 × 10³ J. Because c_r
 - Taking the mean speed as c_rms.
 - Explaining Boyle's law by faster molecules. At constant temperature the speed is unchanged.
 
+## Frequently asked questions
+
+**What is the difference between the gas laws and kinetic theory?**
+The gas laws are empirical: they summarise what experiments show a fixed mass of gas does. Kinetic theory is a theoretical model that starts from assumptions about molecules and predicts the same laws, which supports the model.
+
+**Why do lighter gas molecules move faster at the same temperature?**
+At a given temperature every molecule has the same average kinetic energy, 3kT/2, so c_rms varies as √(T/M). Lighter molecules therefore have a higher r.m.s. speed, and a fourfold rise in kelvin temperature doubles c_rms.
+
+**How does kinetic theory explain Boyle's law?**
+At constant temperature the molecules keep the same speeds, but in a smaller volume they hit the walls more often, so the pressure rises. The explanation must not say the molecules move faster.
+
+**What is the average kinetic energy of a gas molecule?**
+The average kinetic energy is ½m(c_rms)² = 3kT/2 = 3RT / 2N_A. It depends only on the kelvin temperature, not on which gas it is.
+
+**Is kinetic theory in OxfordAQA International AS Physics (9630)?**
+No. Section 3.11 of the OxfordAQA International AS and A-level Physics (9630) specification is marked International A-level only.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA. Sections 3.11.3 and 3.11.4.

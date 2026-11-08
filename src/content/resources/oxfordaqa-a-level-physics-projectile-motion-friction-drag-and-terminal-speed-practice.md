@@ -117,6 +117,20 @@ Study first with the [study guide](/resources/oxfordaqa-a-level-physics-projecti
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - Want help with this topic? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in projectile questions?**
+Using the launch speed in a vertical equation without resolving it first, saying the acceleration is zero at the top of the flight, and adding the horizontal and vertical times. At the top only the vertical velocity is zero, and one time is shared by both directions.
+
+**How do you pick the right root of a quadratic in a projectile question?**
+Solving for time often gives two roots. Choose the one that matches the situation, for example the later root when a projectile falls onto a higher level after passing it on the way up.
+
+**Is friction calculated in OxfordAQA A-level Physics (9630)?**
+No. Section 3.2.4 asks only for a qualitative treatment of friction: where it acts and what it does, with no calculations.
+
+**Which section of the OxfordAQA 9630 specification do these questions cover?**
+They cover section 3.2.4 (projectile motion) of OxfordAQA International AS and A-level Physics (9630), which is shared International AS and A-level content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams May/June 2020 onwards, published by OxfordAQA. Section 3.2.4, Projectile motion.

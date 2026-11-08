@@ -158,6 +158,23 @@ Data: G = 6.67 × 10⁻¹¹ N m² kg⁻². Masses: Earth 5.97 × 10²⁴ kg, Moo
 - Try the [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why is gravitational potential always negative?**
+Zero potential is defined at infinity, and gravity is attractive, so the field does work as a mass moves in from infinity. The external work per unit mass is negative, so V = −GM/r is below zero at every finite distance.
+
+**What is the most common mistake in OxfordAQA A-level orbit calculations?**
+Using the height above the surface as r. In V = −GM/r, v = √(GM/r) and T² ∝ r³, the distance is measured from the centre of the planet, so add the planet's radius to the height first.
+
+**When can you use mgh instead of ΔW = mΔV?**
+Only for small changes in height where g stays roughly constant. For large changes, such as moving between orbits or lifting off a moon, use ΔW = mΔV with V = −GM/r, because g falls with distance.
+
+**Does a satellite speed up or slow down when drag lowers its orbit?**
+It speeds up. Drag removes energy, so the total energy −GMm/(2r) becomes more negative and r falls, but the satellite moves to a lower orbit where v = √(GM/r) is larger.
+
+**Which sections of the 9630 specification do these practice questions cover?**
+They cover sections 3.7.3 (gravitational potential) and 3.7.4 (orbits of planets and satellites) of OxfordAQA International AS and A-level Physics (9630). Section 3.7 is International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.7.3 and 3.7.4.

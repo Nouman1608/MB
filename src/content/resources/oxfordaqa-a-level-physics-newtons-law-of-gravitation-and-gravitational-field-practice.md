@@ -167,6 +167,20 @@ Use G = 6.67 × 10⁻¹¹ N m² kg⁻². Other data is given in each question. G
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to see what to revise next.
 - [Book a free trial class](/trial/) if you want help with any of these questions.
 
+## Frequently asked questions
+
+**What is the most common mistake in gravitation calculations?**
+Using the height above the surface instead of the distance from the centre. For a satellite 400 km above the Earth, r is the Earth's radius plus 400 km, and the whole of r, including its power of ten, must be squared.
+
+**How do you answer a "by what factor" gravity question without G?**
+Use the proportionalities. Force varies as m₁m₂ and as 1/r², so doubling the separation divides the force by four, and you do not need to substitute G at all.
+
+**What is the difference between g and G?**
+G is the gravitational constant, 6.67 × 10⁻¹¹ N m² kg⁻², and it is the same everywhere. g is the gravitational field strength, which changes with position and with the mass creating the field.
+
+**Is Newton's law of gravitation in OxfordAQA International AS Physics (9630)?**
+No. Sections 3.7.1 and 3.7.2 sit in section 3.7, which is marked International A-level only in the OxfordAQA International AS and A-level Physics (9630) specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.7.1 Newton's gravitational law and 3.7.2 Gravitational field strength (International A-level only).

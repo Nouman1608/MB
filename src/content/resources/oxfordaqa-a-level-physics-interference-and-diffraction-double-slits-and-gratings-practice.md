@@ -182,6 +182,20 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-interference-and-dif
 - Take the free [10-minute diagnostics](/diagnostics/) to find weak topics.
 - [Book a free trial class](/trial/) for help with anything unclear.
 
+## Frequently asked questions
+
+**What are the most common mistakes in fringe spacing calculations?**
+Dividing a measured width by the number of fringes instead of the number of spacings between them, and mixing units for w, D and s. Count spacings carefully and convert everything to metres before using w = λD/s.
+
+**How do you find the highest order a diffraction grating can produce?**
+Set sin θ = 1 in d sin θ = nλ, so n = d/λ. Only whole orders exist, so round the result down, never up.
+
+**What mistake do students make with lines per millimetre?**
+Using the number of lines per millimetre directly as d. The grating spacing d is the distance between lines, so convert to lines per metre and take the reciprocal first.
+
+**Is interference in OxfordAQA International AS Physics (9630)?**
+Yes. Sections 3.5.6 (interference) and 3.5.7 (diffraction) are shared content, so they can be examined at both International AS and International A-level.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), sections 3.5.6 and 3.5.7, Version 4.4 (for exams May/June 2020 onwards), published by OxfordAQA.
