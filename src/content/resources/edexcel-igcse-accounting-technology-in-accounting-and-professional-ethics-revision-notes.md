@@ -216,6 +216,20 @@ Scenario (invented): Coastline Pet Supplies keeps its records on one office comp
 - Treating public interest as the employer's interest, or as only the interest of the client.
 - Claiming that software removes all errors.
 
+## Frequently asked questions
+
+**What are the principles of professional ethics for accountants?**
+The specification does not list the principles by name; the five fundamental principles commonly used are integrity, objectivity, professional competence and due care, confidentiality and professional behaviour. In an answer, name the principle and apply it to the situation.
+
+**What is the difference between access and confidentiality?**
+Access is about who can get into the records and open, change or delete them. Confidentiality is about what is done with the information, keeping it private and using it only for the purpose it was given.
+
+**Does accounting software remove all errors?**
+No. Software does the arithmetic and posts to the correct sides, but it can only process what it is given, so a wrong entry is still wrong however fast it is posted.
+
+**Does confidentiality still apply after an employee leaves a job?**
+Yes. Information gained through a job, such as a colleague's salary, must not be disclosed, and the principle continues to apply after the person changes jobs.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 1: The accounting environment, Use of technology in accounting and Professional ethics (1.3 and 1.4 on this site).

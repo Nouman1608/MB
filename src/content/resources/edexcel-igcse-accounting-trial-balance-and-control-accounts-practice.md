@@ -209,6 +209,20 @@ Credit side: opening balance [1], purchases [1]. Debit side: returns, payments a
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which column does a bank overdraft go in on a trial balance?**
+A bank overdraft goes in the credit column, because the business owes the bank. Putting an overdraft or trade payables in the debit column is a common error in Edexcel IGCSE Accounting (4AC1) questions.
+
+**Does an agreeing trial balance prove the books are correct?**
+No. It shows only that total debits equal total credits. Errors that put equal amounts on both sides, such as omission or commission, leave the totals equal, so give an example that matches the named error.
+
+**Which side is the opening balance of a trade payables control account?**
+Trade payables are credit balances, so the opening balance brought down goes on the credit side. Entries that increase what the business owes, such as credit purchases, are credits, and payments, returns outwards and discount received are debits.
+
+**How is a contra entry shown in control accounts?**
+A contra sets off an amount owed to a supplier against what the same business owes as a customer. It reduces both control accounts: a credit in trade receivables and a debit in trade payables.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 3 Introduction to control processes, sections 3.1 Trial balance and 3.2 Control accounts.

@@ -200,6 +200,20 @@ Production cost brought from the manufacturing account with the finished goods a
 - Take one of the free [10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are a factory supervisor's wages direct labour?**
+No. Supervisors', cleaners' and maintenance staff wages are indirect, so they are factory overheads. Treating them as direct labour inflates prime cost and is a common error in Edexcel IGCSE Accounting (4AC1) questions.
+
+**How do you deal with costs shared between the factory and the office?**
+Apportion the cost using the fraction the question gives: only the factory share goes in the manufacturing account as an overhead, and the office share goes in the income statement as an expense.
+
+**Why is opening work-in-progress added and closing work-in-progress deducted?**
+Opening work-in-progress was started last year but finished this year, so its costs belong to this year's output. Closing work-in-progress is unfinished, so its costs belong to next year's output; reversing the adjustment is a common error.
+
+**How do you find a missing figure in a manufacturing account?**
+Work backwards using the formulas. For example, closing work-in-progress equals total cost plus opening work-in-progress minus production cost.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 4: The preparation of financial statements, section 4.5 Financial statements of a manufacturer, points (a) and (b).

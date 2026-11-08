@@ -269,6 +269,20 @@ Worked reminder (same business): opening payables 9,400; credit purchases 40,250
 - Saying a trial balance proves the books are correct. It proves only that the debits and credits are equal.
 - Listing a limitation without saying why the totals still agree.
 
+## Frequently asked questions
+
+**What are the limitations of a trial balance?**
+It cannot reveal errors that leave the debit and credit totals equal, it shows balances at one date only, and it says nothing about whether the amounts are fair.
+
+**What are the purposes of control accounts?**
+Control accounts check the accuracy of a ledger, narrow the search for errors to one ledger, help prevent fraud when different people keep the ledger and the control account, and give quick totals of trade receivables and trade payables.
+
+**Are drawings a debit or a credit in the trial balance?**
+Drawings are a debit balance, along with assets, expenses, returns inwards and discount allowed. Putting drawings in the credit column is a common error.
+
+**Should total sales be used in the trade receivables control account?**
+No. Only credit sales go in the trade receivables control account, because cash sales never pass through the receivables ledger.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 3 Introduction to control processes, sections 3.1 Trial balance and 3.2 Control accounts.

@@ -210,6 +210,20 @@ Rubina Offices owes 2,850 at the end of June, a debit balance because it is an a
 - Naming the wrong ledger for a customer or supplier.
 - Giving a purpose of a ledger that is only a definition, with no reason a business would want it.
 
+## Frequently asked questions
+
+**Why does a business keep ledgers?**
+Books of original entry record transactions in date order, while ledger accounts sort the same information by account. This lets the business see everything about one expense or one customer and find each balance.
+
+**Is a cash sale recorded in the receivables ledger?**
+No. A cash sale has no customer account because nobody owes the business anything, so it is recorded only in the nominal ledger, debiting cash and crediting sales.
+
+**How are sales returns recorded in the ledger?**
+A return from a customer is debited to the sales returns account and credited to the customer's account, because the customer owes less. Posting it to the sales account or debiting the customer are common errors.
+
+**Are drawings an expense in ledger accounting?**
+No. Drawings have their own account, debited when the owner takes money or goods from the business. They are not an expense of the business.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2 Introduction to bookkeeping, section 2.3 Ledger accounting, points 2.3a and 2.3b.

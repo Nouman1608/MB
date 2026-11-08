@@ -226,6 +226,23 @@ In worked example 1, the bank would lend on the strength of the inflated profit.
 
 Next step: test yourself with the [practice questions](/resources/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics-practice/) and condense the unit with the [revision notes](/resources/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics-revision-notes/).
 
+## Frequently asked questions
+
+**What are the benefits of accounting software in Edexcel IGCSE Accounting?**
+A transaction is entered once and posted automatically to every account and report, which saves time and avoids copying errors. Software also produces reports such as a trial balance on demand, takes less storage space and gives up-to-date balances.
+
+**What is the main benefit of a spreadsheet in accounting?**
+Formulas recalculate automatically when the cells they refer to change, so a spreadsheet can test "what if" changes such as a different useful life in a depreciation schedule without re-typing. Spreadsheets also total columns, reuse templates and draw charts.
+
+**What are the three data security issues in the 4AC1 specification?**
+The specification names data loss, access and confidentiality. Data loss is records being destroyed or unreadable, access is about who can open or change records, and confidentiality is keeping information private and using it only for its intended purpose.
+
+**What is the public interest in accounting?**
+The public interest is the wellbeing of the wider community, including lenders, investors, suppliers, employees and tax authorities who rely on accounts. An accountant's duty is not only to the client or employer.
+
+**What should an accountant do if asked to record sales that have not happened?**
+Recording them would break integrity and objectivity, and ignore the accruals concept, so the accountant should refuse and explain why. If the owner insists, the accountant should record the matter and consider seeking advice in line with their professional body's guidance.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 1: The accounting environment, sections 3 Use of technology in accounting and 4 Professional ethics (numbered 1.3 and 1.4 on this site).

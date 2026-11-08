@@ -183,6 +183,20 @@ Justified conclusion, for example: software for a business with many daily trans
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a data security issue and a protection method?**
+An issue is a risk, such as data loss, while a method protects against it, such as a backup. Questions ask for one or the other, so mixing them up, or giving a method that does not match the issue, loses marks.
+
+**How do you answer an "explain a benefit" question on technology?**
+Give the benefit and the reason or effect, for example that software is faster because posting and totalling happen automatically. Writing "it is faster" with no reason does not earn the explanation mark.
+
+**Why do more frequent backups reduce data loss?**
+Only work done since the last backup is lost when data fails, so a daily backup means at most a day's transactions must be re-entered, compared with several days for a weekly backup. Count the lost time from the last backup to the failure.
+
+**How do you answer an "apply" question on professional ethics?**
+Name the principle, link it to the facts in the scenario and say what the accountant should do. Saying a situation is unethical without naming the principle, or evaluating without a conclusion, loses marks in Edexcel IGCSE Accounting (4AC1).
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 1: The accounting environment, Use of technology in accounting and Professional ethics (1.3 and 1.4 on this site).

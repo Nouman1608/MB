@@ -235,6 +235,20 @@ If you start from the statement, the signs reverse: add uncredited lodgements an
 - Treating an overdraft as a positive balance.
 - Leaving the final line unlabelled or the date off.
 
+## Frequently asked questions
+
+**What is the difference between an error of commission and an error of principle?**
+An error of commission posts an entry to the wrong account of the right type, such as telephone costs to postage. An error of principle posts it to the wrong class of account, such as a new computer debited to repairs.
+
+**Which side of the suspense account does the difference go on?**
+Put the difference on the side of the trial balance that is lower. If the credit total is higher, the difference is debited to suspense; if the debit total is higher, it is credited.
+
+**How do you correct a complete reversal of entries?**
+A complete reversal posts the right accounts on the wrong sides, so the correcting journal uses twice the amount: once to cancel the wrong entry and once to make the right one.
+
+**What is the purpose of a bank reconciliation statement?**
+It checks the accuracy of the business's and the bank's records, identifies items missing from the cash book, helps detect fraud or unauthorised payments, and shows the true bank balance once timing differences are understood.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 3 Introduction to control processes, sections 3 Correction of errors and 4 Bank reconciliation statements, numbered 3.3 and 3.4 here.

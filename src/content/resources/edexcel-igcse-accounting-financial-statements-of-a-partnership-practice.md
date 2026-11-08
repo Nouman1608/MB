@@ -151,6 +151,20 @@ Check: 27,500 + 420 - 4,000 - 7,000 = 16,920 and 16,920 / 3 = 5,640. **[7]**
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How are interest on capital and partners' salaries shared?**
+Interest on capital and salaries are fixed amounts for each partner set by the agreement, so they are not split in the profit-sharing ratio. Only the residual profit or loss is shared in the ratio.
+
+**What happens if profit is too small to cover partners' salaries and interest?**
+Salaries and interest on capital are still credited because they are entitlements under the agreement. The resulting deficit is shared between the partners in the profit-sharing ratio, rather than dropping the salary.
+
+**How is interest on drawings calculated when drawings are taken evenly?**
+When drawings are taken evenly through the year, interest runs for an average of six months, so multiply drawings by the rate and by 6/12. Charging interest for twelve months is a common error.
+
+**How do you show a partner's closing current account balance?**
+State whether the closing balance is a debit or a credit. A credit balance means the firm owes the partner, while a debit balance means the partner has taken out more than has been credited, and a debit opening balance reduces the closing figure.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1), Specification, Issue 1, October 2016, published by Pearson Education Limited. Topic 4: The preparation of financial statements, section 2 (Financial statements of a partnership), points a to g.

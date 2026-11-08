@@ -299,6 +299,23 @@ Notice what the statement shows. The loss and the drawings together cut equity f
 - Forgetting that carrying amount is cost less accumulated depreciation, not cost less this year's charge only.
 - Leaving out the date and period in the headings. "For the year ended" belongs on the income statement; "at" belongs on the statement of financial position.
 
+## Frequently asked questions
+
+**What is the difference between an income statement and a statement of financial position?**
+The income statement shows the profit made over a stated period, such as "for the year ended", by collecting revenue and expenses. The statement of financial position shows what the business owns and owes, and the owner's equity, on one particular date.
+
+**How do you calculate cost of sales for a sole trader?**
+Cost of sales is opening inventories plus purchases plus carriage inwards, less purchases returns, less closing inventories. Gross profit is then net revenue, which is sales less sales returns, minus cost of sales.
+
+**Is carriage inwards an expense?**
+Carriage inwards is the cost of bringing goods to the business, so it is added to cost of sales. Carriage outwards, the cost of delivering goods to customers, is an ordinary expense below gross profit.
+
+**In what order are current assets listed in Edexcel IGCSE Accounting?**
+Current assets are listed from least to most liquid: inventories, trade receivables, other receivables, bank and cash. A bank overdraft is a current liability, not a negative current asset.
+
+**How is a sole trader's closing equity calculated?**
+Closing equity is opening capital plus profit for the year, or less a loss, minus drawings. It must equal net assets in the statement of financial position.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 4 The preparation of financial statements, section 4.1 Financial statements of a sole trader, points (a) and (b).

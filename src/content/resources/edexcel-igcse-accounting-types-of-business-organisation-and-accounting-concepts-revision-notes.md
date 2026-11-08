@@ -211,6 +211,20 @@ Stakeholder: a person or group with an interest in the business.
 - Giving a one-word answer when the command word is Explain.
 - Forgetting that a concept answer needs a figure or fact from the scenario, not only a definition learned by heart.
 
+## Frequently asked questions
+
+**Do public sector organisations make money?**
+Public sector bodies can receive income, for example from charges, but profit is not their main aim; their aim is to provide a service to the public. Saying they make no money at all is a common error.
+
+**What is a stakeholder?**
+A stakeholder is a person or group with an interest in a business. The business affects them and they can affect the business, and each group uses the financial statements for a different reason.
+
+**What is the difference between prudence and accruals for a likely loss?**
+Prudence says a loss that is likely should be recognised now, for example writing inventory down to a lower net realisable value. Accruals is about matching revenue and expenses to the period in which they are earned or incurred, whatever the date of the cash.
+
+**What does an "Explain" question on accounting concepts need?**
+An Explain answer needs the concept plus a reason or effect, linked to a figure or fact from the scenario. A one-word answer or a definition learned by heart does not earn full marks.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 1 The accounting environment, sections 1.1 Types of business organisation and 1.2 Accounting concepts.
