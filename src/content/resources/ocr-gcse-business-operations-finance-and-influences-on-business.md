@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-description: "Operations, finance, and influences on business -- the full content of Component 02, Business 2, for OCR GCSE (9-1) Business (J204), including production, quality, break-even, cash flow, and ethical, economic and global influences."
+description: "Component 02 of OCR GCSE Business J204 explained: operations, finance and influences on business, from production and quality to break-even and cash flow."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Business 2: Operations, Finance and Influences on
@@ -165,6 +167,23 @@ revision of both components -- rather than revising it separately at
 the end -- since its content is the connections between operations,
 finance, marketing and human resources, which is what the synoptic
 questions in Section B of the Business 2 paper draw on.
+
+## Frequently asked questions
+
+**What does Component 02 of OCR GCSE Business J204 cover?**
+Component 02, Business 2 (J204/02), covers section 4 Operations, section 5 Finance, section 6 Influences on business and section 7 The interdependent nature of business. It includes production, quality, the sales process, consumer law, location, suppliers, sources of finance, profit, break-even, cash flow, and ethical, economic and global influences.
+
+**Do you need Business 1 content for the Business 2 paper?**
+Yes. The specification states that Component 02 assumes knowledge of business activity, marketing and human resources from Component 01, and its Section B includes synoptic questions that draw on both components.
+
+**What sources of finance are in OCR GCSE Business?**
+The sources listed are loans, overdrafts, trade credit, retained profit, sale of assets, owners' capital, new partners, share issues and crowdfunding. You also need to explain why different sources suit new and established businesses.
+
+**What factors influence where a business locates?**
+In OCR GCSE Business (J204) the location factors are costs, proximity to the market, and the availability of labour and materials. Globalisation widens the range of possible locations.
+
+**How should you revise Business 2?**
+Trace a single business scenario through operations, finance and influences rather than revising them separately, for example how relocating production overseas affects suppliers, cash flow timing and exposure to globalisation risk. Practise the finance calculations until they are fluent.
 
 ## Related resources
 

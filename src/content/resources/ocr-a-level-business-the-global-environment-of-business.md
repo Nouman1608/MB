@@ -207,6 +207,23 @@ The EU is a trading bloc. Its Single European Market lets goods, services, capit
 
 Next: the [revision notes](/resources/ocr-a-level-business-the-global-environment-of-business-revision-notes/) and the [practice questions](/resources/ocr-a-level-business-the-global-environment-of-business-practice/).
 
+## Frequently asked questions
+
+**What is globalisation?**
+Globalisation is the process by which national economies and markets become more closely linked, so goods, money and information move more easily across borders. Businesses with imported inputs, overseas sales or global rivals are more affected by it than purely local firms.
+
+**What is a tariff and why do governments use one?**
+A tariff is a duty charged on imported goods. Governments use tariffs to raise revenue and to make imports dearer, which protects home producers.
+
+**What is an emerging market?**
+An emerging market is an economy that is growing quickly, industrialising and seeing incomes rise, but is less developed or less stable than established markets. It offers new customers and cheaper production but also brings new rivals, instability and currency risk.
+
+**How do UK interest rates affect the value of the pound?**
+Higher UK interest rates make pound savings more attractive to overseas savers, which raises demand for pounds and tends to strengthen the pound. A stronger pound helps UK importers and makes UK exports dearer abroad.
+
+**What factors should a business consider when trading internationally?**
+Key factors include language, culture and customs, logistics, currency and buying habits in the target country. In OCR A Level Business (H431) you should evaluate each factor for the product and the country in the case.
+
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR, for first assessment in 2017 with final assessment in summer 2027. Content covered: The global environment of business, using the global and international points in the content tables.

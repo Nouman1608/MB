@@ -269,6 +269,20 @@ margin of safety = 166 / 1,500 x 100 = 11.1%
 - Ending an evaluation with a summary rather than a judgement.
 - Stating that a plan guarantees success, when it only improves the odds.
 
+## Frequently asked questions
+
+**What is the Plan-Do-Review cycle?**
+Plan-Do-Review is a repeating loop in which a business sets objectives, targets and a budget, carries out the plan and records results, then compares actual results with the plan and acts on the differences. It is a loop, not three separate words, because the review feeds the next plan.
+
+**What is a strategic review?**
+A strategic review is a wider and less frequent look than the Plan-Do-Review cycle at whether the business's objectives, markets and resources still fit its strategy. It can lead to the strategy itself being changed.
+
+**What are the advantages and disadvantages of a business plan?**
+A business plan forces research and clear thinking, helps win finance and sets targets to measure performance against. However, it takes time and skill to write, and its forecasts may turn out to be wrong.
+
+**Why does a business need to plan how a strategy is implemented?**
+Planning makes sure resources such as cash, staff and equipment are ready when needed, that steps happen in the right order and that someone owns each task. The cost is management time, and a rigid plan may slow the response to events.
+
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR: the "Strategy and implementation" and "Business plan" content in the area of study "Business objectives and strategy".

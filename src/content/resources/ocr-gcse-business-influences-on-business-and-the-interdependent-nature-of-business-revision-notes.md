@@ -277,6 +277,23 @@ The reward is £1,800 if the forecast is right. The risk is a £2,250 loss if sa
 - Treating a forecast as certain.
 - Answering a synoptic question from one function only.
 
+## Frequently asked questions
+
+**What ethical considerations are named in the OCR GCSE Business specification?**
+The OCR GCSE Business (J204) specification names the treatment of workers, suppliers and customers, the sourcing of materials, and marketing decisions. For each, link the issue to cost, reputation and customers.
+
+**What environmental considerations do you need to know for J204?**
+The specification names sustainability, waste disposal, pollution and climate change. A business might respond by changing what it makes, how it makes it, where it buys or what it says in its marketing.
+
+**What is the difference between ethical and environmental considerations?**
+Ethical considerations are about how people are treated and how honestly the business behaves. Environmental considerations are about the natural world; sourcing of materials can be both, so say which angle you are using.
+
+**How does a change in one business function affect the others?**
+The functions are interdependent, so a rise in orders, for example, affects operations through capacity and stock, finance through the cash needed, and people through staffing. Good answers trace a change through more than one function.
+
+**What are the limits of financial information?**
+Financial information is based on the past or on forecasts, so it may not reflect what happens next. It also leaves out things that cannot be counted and does not explain why a figure happened, so qualitative information such as customer opinions should sit beside the numbers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Business (J204), Version 2.0 (January 2026), first assessment 2019, published by OCR. Sections 6 and 7 of the specification.

@@ -130,6 +130,20 @@ Recommendation: a **private limited company** [1], because their stated aim of p
 - Ignoring the numbers in the case study.
 - Defining a term when the question asks you to apply it.
 
+## Frequently asked questions
+
+**How much should you write for an "identify" or "state" question in OCR GCSE Business?**
+Identify and state questions need knowledge only, so one short answer with no development is enough. Writing a full explanation for these questions wastes time you need for the longer questions.
+
+**What are the most common mistakes on Business activity questions?**
+Common mistakes include writing "limited liability" without saying what the owner can lose, mixing up internal and external stakeholders, and confusing horizontal with vertical growth or a merger with a takeover. Dividing a percentage change by the new figure instead of the old one is another frequent slip.
+
+**How do you calculate a percentage increase in a GCSE Business question?**
+Subtract the old figure from the new one, divide the change by the old figure and multiply by 100. Show the formula and your substitution so that method marks can still be awarded if the final answer is wrong.
+
+**What section of the OCR GCSE Business specification do these questions cover?**
+They cover section 1, Business activity, of OCR GCSE (9-1) Business (J204): enterprise and entrepreneurship, business planning, ownership, aims and objectives, stakeholders and business growth.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-gcse-business-business-activity-revision-notes/) for any section where you lost marks.

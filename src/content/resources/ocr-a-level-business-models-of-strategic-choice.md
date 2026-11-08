@@ -225,6 +225,20 @@ The two models answer different questions. Five Forces asks how hard it is to ea
 - Calling any low-priced firm a cost leader. Cost leadership means low costs, not just low prices.
 - Ending an evaluation without a judgement tied to the case.
 
+## Frequently asked questions
+
+**What is competitive advantage?**
+A business has a competitive advantage when it has a feature that lets it outperform rivals in the same market, usually through lower costs or something customers value more. It only helps if customers notice it and rivals cannot copy it quickly.
+
+**What is the purpose of Porter's Five Forces model?**
+The model helps a business judge how attractive an industry is and how much profit it can expect from it. Strong forces mean lower profit potential, so it is most useful as a first filter for entry decisions.
+
+**What are the limitations of Porter's generic strategies?**
+Real businesses often blend strategies, for example cutting costs and improving quality together, so four boxes can oversimplify. The model is more useful for diagnosing what a business is trying to do than as a recipe for success.
+
+**How do you evaluate a proposed position using Five Forces?**
+Compare the forces in the new market with those in the current one, rank which force limits profit most, and judge whether the new market is more attractive. In OCR A Level Business (H431) the judgement should rest on evidence from the case.
+
 ## Next steps
 
 Use the [revision notes](/resources/ocr-a-level-business-models-of-strategic-choice-revision-notes/), the [practice questions](/resources/ocr-a-level-business-models-of-strategic-choice-practice/) and the [checklist](/checklists/ocr/a-level/business/).

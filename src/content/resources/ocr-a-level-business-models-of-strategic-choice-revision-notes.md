@@ -226,6 +226,20 @@ Example: a firm sells 5,000 units at £40 with unit cost £34, giving £6 per un
 - Forgetting to say what the business should do, or what could change the conclusion.
 - Using the wrong term, such as "Boston matrix", for a Porter model.
 
+## Frequently asked questions
+
+**What are Porter's five forces?**
+The five forces are rivalry among existing competitors, the threat of new entrants, the threat of substitutes, the bargaining power of buyers and the bargaining power of suppliers. A strong force reduces profit by pushing prices down or costs up.
+
+**What are Porter's generic strategies?**
+They are cost leadership and differentiation across the whole market, and cost focus and differentiation focus within a narrow segment. Each is a broad route to competitive advantage, and each needs different capabilities.
+
+**What is the difference between Five Forces and the generic strategies?**
+Five Forces describes an industry and asks how hard it is to earn profit there. The generic strategies describe a business's own choice of how it will win customers, so the two are often used together in OCR A Level Business (H431) answers.
+
+**Can a cost leader make as much profit as a differentiator?**
+Yes. A cost leader usually earns a lower margin per unit but can make a similar or higher total profit by selling a much larger volume, so compare total gross profit as well as margin.
+
 ## Official syllabus
 
 OCR, A Level Business (H431), Version 2.1 (January 2026), for first assessment in 2017 with final assessment in summer 2027: area of study "Business objectives and strategic decisions", section "Models of strategic choice".

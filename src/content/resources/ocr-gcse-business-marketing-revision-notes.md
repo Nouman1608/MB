@@ -302,6 +302,20 @@ Wynstay Fitness runs gyms. Answer these.
 - Applying skimming or penetration to the wrong kind of market.
 - Using general statements instead of the business named in the stem.
 
+## Frequently asked questions
+
+**What are the three purposes of marketing in OCR GCSE Business?**
+The OCR GCSE Business (J204) specification names three: identifying and understanding customers, informing customers, and increasing sales. Link each to the business in the question.
+
+**What are the stages of the product life cycle?**
+The stages are introduction with low sales, growth with a fast rise, maturity where sales peak and flatten, and decline where sales fall. Extension strategies can be used to delay decline.
+
+**Which research method suits which purpose?**
+Interviews or focus groups suit finding out opinions and reasons, questionnaires suit collecting simple answers from many people, trialling suits seeing how customers react to a real sample, and the census suits finding the size of a group in an area. Naming a method without saying why it suits the purpose loses marks.
+
+**Is primary research better than secondary research?**
+Neither is always better. Primary research fits the exact question and is up to date, while secondary research is cheaper and quicker, so the right choice depends on what the business needs to find out.
+
 ## Official syllabus
 
 OCR GCSE (9-1) in Business (J204), Version 2.0, Cambridge OCR, section 2: Marketing, topics 2.1 to 2.4.

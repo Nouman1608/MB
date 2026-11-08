@@ -225,6 +225,23 @@ Justify by linking to cost, timing and credibility. A low-cost, visible action m
 - Listing stakeholders without saying how each is affected.
 - Judging without evidence from the case, such as the business's size, sector or customers.
 
+## Frequently asked questions
+
+**What is a mission statement in OCR A Level Business?**
+A mission statement is a short, public statement of what a business is for: what it does, for whom, and often how or why. In OCR A Level Business (H431) it sits at the top of the planning chain, so aims, objectives, strategy and tactics should all be consistent with it.
+
+**What is the difference between a mission statement and an objective?**
+A mission statement is broad, usually non-numerical and meant to last several years. An objective is a specific, measurable target, so writing a mission as a numerical target is a common error.
+
+**Does corporate social responsibility just mean giving money to charity?**
+No. CSR covers how the whole business operates, including fair pay and working conditions, ethical sourcing, reducing waste and emissions and honest marketing, as well as supporting local causes.
+
+**Why can CSR conflict with profit?**
+CSR can raise costs or reduce revenue, for example by paying above the market wage or buying more expensive materials, which lowers short-run profit. The conflict is not inevitable, because good CSR can also lift sales, help recruitment and retention, and reduce the risk of fines and bad publicity.
+
+**How do you answer a "recommend and justify" question on a mission statement?**
+Make a clear choice of statement that fits the business in the case, then give reasons linked to its product, customers and values. A fuller answer adds a limitation, such as a word like "finest" not being measurable, so objectives must turn it into targets.
+
 ## Next steps
 
 Test yourself with the [practice questions](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-practice/) and use the [revision notes](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-revision-notes/) for recall.

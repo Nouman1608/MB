@@ -121,6 +121,20 @@ Statement 3: "Hand out free sample packs to shoppers during the first month in e
 - Treating Plan-Do-Review as three words, not a loop.
 - Ending with a repeat of earlier points instead of a judgement.
 
+## Frequently asked questions
+
+**How do you tell an objective, a strategy and a tactic apart in an exam question?**
+An objective is a target the business wants to reach, a strategy is the long-term route to reach it, and a tactic is a short-term action that carries the strategy out. Labelling a short-term action as a strategy is one of the most common ways to lose marks in OCR A Level Business (H431).
+
+**What should you always say when you calculate a variance?**
+State whether the variance is favourable or adverse as well as giving the figure. A variance number on its own, without its direction, usually does not earn full marks.
+
+**How do you answer a question on why a business plan matters to a bank?**
+Explain how the plan's contents, such as financial forecasts, let the bank judge the risk of lending and whether the business can repay. Link your points to the figures in the case rather than listing plan contents without reasons.
+
+**How should a strategy evaluation end?**
+End with a clear judgement that answers the question, supported by the most important reason from the case. Repeating earlier points instead of reaching a decision is a common way to miss the top marks.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-business-strategy-and-implementation-and-business-plan-revision-notes/) and [study guide](/resources/ocr-a-level-business-strategy-and-implementation-and-business-plan/).

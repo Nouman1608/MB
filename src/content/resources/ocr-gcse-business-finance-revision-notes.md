@@ -272,6 +272,23 @@ Sales above 500 earn £3.50 profit each; sales below 500 make a loss.
 - Calculating ARR with total profit instead of average annual profit.
 - Giving the figure but no interpretation when the question says "interpret" or "analyse".
 
+## Frequently asked questions
+
+**How do you calculate break-even in OCR GCSE Business?**
+Break-even output is fixed costs divided by contribution per unit, where contribution per unit is selling price minus variable cost per unit. Writing the formula with selling price in place of contribution is a common error.
+
+**What is the difference between profit and cash?**
+Cash is money actually received and paid out, while profit is revenue minus costs for a period. The timing of payments separates them, so a profitable business can still run short of cash.
+
+**What is the difference between gross profit and net profit?**
+Gross profit is revenue minus cost of sales. Net profit also takes off other expenses, so mixing up the two margins is a common error.
+
+**How do you complete a cash flow forecast?**
+Start with the opening balance, total the cash in and cash out, find net cash flow as cash in minus cash out, and add it to the opening balance to get the closing balance. The closing balance then becomes the next month's opening balance.
+
+**How can a business fix a cash flow shortage?**
+Remedies include an overdraft, longer trade credit from suppliers, chasing customers who owe money, delaying spending and selling an asset. The right choice is the one that fits the size and length of the gap.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) in Business (J204) Specification*, Version 2.0 (January 2026), section 2c, topic 5 Finance, and Appendix 5c, quantitative skills requirement.

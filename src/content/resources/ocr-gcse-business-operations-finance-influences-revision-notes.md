@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-description: "Condensed recall notes on production, quality, break-even, cash flow, and ethical/economic/global influences, for OCR GCSE (9-1) Business (J204), Component 02 Business 2."
+description: "Condensed OCR GCSE Business J204 Component 02 revision notes: production, quality, finance formulas, break-even, cash versus profit and outside influences."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -166,6 +168,23 @@ Business 2's finance sub-section is explicitly calculation-heavy, since the spec
 ## How this connects to Business 1
 
 The specification states directly that Component 02 assumes knowledge of business activity, marketing and human resources from Component 01 -- this is a deliberate design choice, not incidental overlap. A break-even or cash flow question here is often set in the context of a marketing decision (a new product launch, a pricing change) introduced conceptually in Business 1, so revising the two components entirely in isolation leaves a genuine gap for the synoptic questions in Section B.
+
+## Frequently asked questions
+
+**What is average rate of return in OCR GCSE Business?**
+Average rate of return (ARR) is average annual profit divided by the cost of the investment, multiplied by 100. In OCR GCSE Business (J204) it lets a business compare the returns on different investment options.
+
+**What is the difference between quality control and quality assurance?**
+Quality control checks products after production for defects. Quality assurance builds checks into the production process to prevent defects happening in the first place.
+
+**Why can a profitable business run out of cash?**
+Profit is recorded when a sale is agreed, but the cash may arrive later if customers are given time to pay, and stock can also tie up money. This timing mismatch means a business can be profitable on paper while running short of cash.
+
+**What is the difference between job, batch and flow production?**
+Job production makes single, made-to-order items, batch production makes a set quantity of one product before switching to another, and flow production makes large volumes of identical items non-stop. Flow production gives low unit costs, while job production gives flexibility.
+
+**What should you include when evaluating globalisation?**
+Discuss both the opportunities, such as larger markets, and the risks, such as increased competition and exposure to currency and international market conditions. Then reach a judgement for the business in the question.
 
 ## Related resources
 
