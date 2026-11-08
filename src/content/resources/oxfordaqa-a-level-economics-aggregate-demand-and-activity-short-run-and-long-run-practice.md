@@ -122,6 +122,20 @@ These questions follow sections 3.2.2.4 to 3.2.2.6 of the OxfordAQA *Internation
 - Naming a determinant of LRAS without explaining the link to capacity.
 - Writing an evaluation that lists points without a judgement.
 
+## Frequently asked questions
+
+**How do you calculate the multiplier?**
+The multiplier equals 1 divided by (1 − MPC), or 1 divided by the marginal propensity to withdraw, which is MPS + MPT + MPM. Dividing by MPC, or leaving out tax or imports, is a common error.
+
+**Is the multiplier the same as the change in income?**
+No. The multiplier is a ratio; the change in income is the change in injection multiplied by the multiplier. A fall in an injection gives a negative change in income.
+
+**What is the difference between a movement along SRAS and a shift of SRAS?**
+A change in the price level causes a movement along the SRAS curve. A change in costs, such as money wages, raw material prices, indirect taxes or productivity, shifts the curve.
+
+**How should you answer a 10-mark evaluation in OxfordAQA International A-level Economics (9640)?**
+Weigh the options, for example raising AD against raising LRAS, using the data given, and reach a judgement rather than listing points.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run/).

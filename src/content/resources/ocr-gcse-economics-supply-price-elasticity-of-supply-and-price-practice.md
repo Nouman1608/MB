@@ -147,6 +147,20 @@ Role 2: price rations scarce goods [1]. Those willing and able to pay get the go
 - Defining PES in the answer but not applying it to the product in the question.
 - Evaluation that says "it depends" and never names the factor it hinges on.
 
+## Frequently asked questions
+
+**How do you calculate price elasticity of supply?**
+Divide the percentage change in quantity supplied by the percentage change in price, using the starting figures as the base. Not turning the changes into percentages first is a common error.
+
+**What causes a shift of the supply curve?**
+A change in the product's own price causes a movement along the supply curve. Other factors, such as new technology, a tax on each unit or firms leaving the market, shift the whole curve.
+
+**What is the difference between excess demand and excess supply?**
+Excess demand occurs when quantity demanded is greater than quantity supplied at the current price, so price tends to rise. Excess supply occurs when quantity supplied is greater than quantity demanded, so price tends to fall.
+
+**How do you get full marks when explaining a market change?**
+Say which curve moves and why, then give both the new price and the new quantity, with labels and units. Saying "it depends" in an evaluation without naming the factor loses marks.
+
 ## Next steps
 
 - Revisit the [study guide](/resources/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price/) and [revision notes](/resources/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price-revision-notes/).

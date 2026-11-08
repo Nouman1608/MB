@@ -308,6 +308,23 @@ A rise from 5% to 7% turns a profitable investment into a loss.
 - Saying interest rates affect only borrowing. Cover saving, borrowing and investment.
 - Describing the sector without saying who gains and what the limits are, when the command word is evaluate.
 
+## Frequently asked questions
+
+**What is the equilibrium wage?**
+The equilibrium wage is where the demand for labour and the supply of labour cross, so the number of workers firms want to hire equals the number willing and able to work.
+
+**How is overtime pay calculated?**
+Multiply the basic hourly rate by the overtime multiplier, such as 1.5 for time and a half, then multiply by the overtime hours. Add this to basic pay to find gross pay before deductions.
+
+**What do banks, building societies and insurance companies do?**
+Banks take deposits, make loans and provide payment services. Building societies are owned by their members and focus on savings and mortgages. Insurance companies collect premiums from many customers and pay out to the few who suffer a loss.
+
+**Why does net pay rise by less than gross pay after a pay rise?**
+Part of the extra gross pay goes in higher income tax, national insurance and pension deductions, so take-home pay rises by a smaller amount.
+
+**What is an interest rate?**
+An interest rate is a percentage price: what a saver is paid and what a borrower pays. A central bank sets a base rate, which banks and building societies use to guide their own rates.
+
 ## Official syllabus
 
 OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019: topics 2.7 and 2.8.

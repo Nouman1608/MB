@@ -261,6 +261,20 @@ Resources move to uses where consumers show most demand. This is price's role in
 - Unlabelled axes, curves or equilibrium points on sketches.
 - Treating PES as fixed rather than dependent on time and spare capacity.
 
+## Frequently asked questions
+
+**What determines price elasticity of supply?**
+The OCR GCSE Economics (J205) notes list spare capacity, stocks, time, factor mobility, the length of production, perishability and the ease of entering the market.
+
+**What are the three jobs of price in a market?**
+Price signals to producers and consumers where demand is high or low, gives an incentive by rewarding producers who supply more and consumers who buy less when price is high, and rations scarce goods to those willing and able to pay.
+
+**What happens when demand rises and supply is inelastic?**
+Producers cannot expand quickly, so price rises sharply while quantity rises little. Consumers lose and existing producers gain revenue.
+
+**What are the limits of markets in allocating resources?**
+Markets may under-provide goods that people need but cannot afford, and some effects of production and consumption fall on third parties.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205). Version 2.0, June 2026. First assessment 2019. The checklist used here is Topic 2, sections 2.3 and 2.4.
