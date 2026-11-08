@@ -17,9 +17,9 @@
  * - No College Board trademarks in card text ("AP", "Advanced Placement");
  *   name the course neutrally, as the AP library pages do.
  * - origin 'resource' cards name the AP library resource they restate in
- *   `source` (its file path under src/content/ap-resources/ without .md,
- *   e.g. 'chemistry/1-1-moles-molar-mass-revision-notes'), and that
- *   resource must be on the same topic.
+ *   `source` (that resource's frontmatter `resourceId`, e.g.
+ *   'mb-ap-chem-1.1-revision-notes'), and that resource's `topics` must
+ *   include the card's topic.
  */
 
 export interface ApFlashcard {
@@ -30,7 +30,7 @@ export interface ApFlashcard {
   front: string;
   back: string;
   origin: 'authored' | 'resource';
-  /** Required when origin is 'resource'. */
+  /** The restated resource's `resourceId`; required when origin is 'resource'. */
   source?: string;
 }
 
