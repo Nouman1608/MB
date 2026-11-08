@@ -223,6 +223,20 @@ Some costs, such as electricity, can have both a fixed and a variable part. In a
 - Giving a loss as a positive figure with the word profit.
 - Writing a final judgement that simply repeats the points made with no reasoning.
 
+## Frequently asked questions
+
+**What are the five location factors in AQA GCSE Business (8132)?**
+Proximity to the market, availability of raw materials, labour, competition and costs. For each factor you use, say how it affects the business's sales or costs.
+
+**Do I have to write a business plan in the AQA GCSE Business exam?**
+No. The specification states that you will not be expected to write a business plan, but you need to understand its purpose, its main sections and the benefits and drawbacks of planning.
+
+**How can I tell if a cost is fixed or variable?**
+Ask whether the cost would double if output doubled. If it would, it is variable, like raw materials or packaging; if it stays the same, like rent or insurance, it is fixed.
+
+**Is the cheapest location always the best choice?**
+No. A dearer site can be better if the extra sales it brings are larger than the extra cost, so compare the options on income as well as costs.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA: sections 3.1.5 Business location and 3.1.6 Business planning.

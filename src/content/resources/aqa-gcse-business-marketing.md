@@ -272,6 +272,20 @@ The mix changes over time. At introduction a business may spend heavily on promo
 - Describing the stages of the product life cycle without linking them to sales or action.
 - Giving a list of promotion methods with no reason why one suits the business.
 
+## Frequently asked questions
+
+**What are the pricing methods in AQA GCSE Business (8132)?**
+Price skimming, price penetration, competitive pricing, loss leader and cost-plus pricing. Each has a different impact, for example skimming earns a large profit per unit from early buyers while penetration builds market share quickly.
+
+**What is a USP?**
+A unique selling point is a feature that sets a product apart from its rivals. It helps differentiate the product and can support a stronger brand image.
+
+**What is the difference between e-commerce and m-commerce?**
+E-commerce is buying and selling over the internet. M-commerce is doing so on a mobile device such as a smartphone.
+
+**Is a loss leader a loss for the whole business?**
+No. The item is priced below cost to bring shoppers in, and the business aims to make up the lost margin when they buy other items.
+
 ## Official syllabus
 
 Source: AQA 8132 GCSE Business specification (first teaching September 2017), section 3.5 Marketing, parts 3.5.1 to 3.5.4.

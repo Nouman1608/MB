@@ -145,6 +145,20 @@ Evaluate which unit Brambleton Pottery should choose. **[9]**
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which AQA GCSE Business (8132) topics do these practice questions cover?**
+Sections 3.1.5 Business location and 3.1.6 Business planning. The questions are original and are not taken from AQA papers.
+
+**How do you calculate profit from fixed and variable costs?**
+Multiply the variable cost per unit by the quantity, add the fixed costs to get total costs, then subtract total costs from revenue (price times quantity). Say clearly whether the result is a profit or a loss.
+
+**How should I answer a 9-mark location evaluate question?**
+Weigh several factors using the figures in the case, such as costs, labour and the market, rather than simply picking the cheapest option. End with a judgement that follows from the data.
+
+**What is the purpose of a business plan apart from raising finance?**
+It also sets objectives and makes the owner research the market and work out costs before committing money. Describing the purpose only as raising finance is a common way to lose marks.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA: sections 3.1.5 Business location and 3.1.6 Business planning.

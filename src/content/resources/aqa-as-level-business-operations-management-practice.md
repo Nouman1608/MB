@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "managing-people-and-operations-aqa-aslevel-business"
     subtopic: "operations-management-aqa-aslevel-business"
-description: "Original practice questions with worked answers on productivity, capacity, automation, quality, inventory, projects and suppliers for AQA AS-Level Business (7137)."
+description: "Original practice questions with worked answers on productivity, capacity, inventory, quality, projects and suppliers for AQA AS-Level Business (7137)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
@@ -136,6 +136,23 @@ These questions cover **operations management** for AQA AS-Level Business (7137)
 - See the [AQA AS Business hub](/boards/aqa/as-level/business/) and the [printable checklist](/checklists/aqa/as-level/business/).
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Are these real AQA AS-Level Business past paper questions?**
+No. They are original questions on section 3.2.2 of the AQA 7137 specification, written for revision; use them alongside the official AQA past papers.
+
+**How do I get full marks on an operations calculation?**
+Write the formula, substitute the figures so the method is visible, and give the answer with units. Check the time periods match, for example monthly output against monthly capacity.
+
+**Should I use closing inventory or average inventory for inventory turnover?**
+Use average inventory, which is opening plus closing inventory divided by two, unless the question gives only one figure. The specification formula is cost of sales divided by average inventories held.
+
+**What does an "analyse" question need in AQA Business?**
+It needs a chain of cause and effect: each point should be developed through its consequences for the business in the case, not just stated.
+
+**How do I make a recommendation that earns the evaluation marks?**
+Reach a clear decision and tie it to a stated condition, such as the output volume at which two methods cost the same. Ending with advantages and disadvantages but no decision loses marks.
 
 ## Official syllabus
 

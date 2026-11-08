@@ -282,6 +282,23 @@ For calculation questions, show the formula, the working and the unit, then say 
 - Writing about only one side in an evaluation, with no judgement.
 - Ignoring the data supplied in the case study.
 
+## Frequently asked questions
+
+**What does employee turnover mean in AQA AS Business?**
+In HR, employee turnover is the number of staff leaving as a percentage of the average number employed. It is not the same as revenue, which is sometimes also called turnover.
+
+**What is the difference between delegation and empowerment?**
+Delegation passes tasks down to an employee. Empowerment passes decision-making power, so the employee decides how the work is done.
+
+**What is the difference between a tall and a flat structure?**
+A tall structure has many levels and narrow spans of control, giving close supervision but slower communication. A flat structure has few levels and wide spans, giving faster communication and lower management cost but less supervision.
+
+**Which motivation theories are named in AQA AS Business (7137) section 3.2.1?**
+Taylor, Maslow and Herzberg. Each should be applied to the business in the case and judged on its limits, not just described.
+
+**How do you calculate an index number from HR data?**
+Divide the new figure by the base figure and multiply by 100, so the base period is 100. Using the wrong base is a common error.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7137, 7138), for first teaching from September 2026, section 3.2.1 People management.

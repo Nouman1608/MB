@@ -248,6 +248,20 @@ This is the pattern for any "judging success" question: compare with the objecti
 - Ignoring the case study, so the answer could apply to any business.
 - Reaching no judgement in an "evaluate" or "justify" question.
 
+## Frequently asked questions
+
+**What are the business objectives in AQA GCSE Business (8132) section 3.1.3?**
+Survival, profit maximisation, growth (domestic and international), market share, customer satisfaction, social and ethical objectives, and shareholder value.
+
+**What is the difference between an aim and an objective?**
+An aim is the long-term goal or general direction of a business. An objective is a specific target that moves the business towards that aim.
+
+**Why do business objectives change as a business grows?**
+A start-up usually focuses on survival and covering costs, a growing business on profit, growth and market share, and a large established business on market dominance, international expansion and shareholder value.
+
+**What is the difference between the impact and the influence of stakeholders?**
+Impact is how the business's activity affects a stakeholder, such as noise from a factory. Influence is how a stakeholder affects the business, such as customers switching to rivals.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA: sections 3.1.3 Setting business aims and objectives and 3.1.4 Stakeholders.

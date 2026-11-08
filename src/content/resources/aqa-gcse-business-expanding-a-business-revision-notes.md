@@ -232,6 +232,20 @@ Always test the suggestion against the facts in the stem. The same method can su
 - Confusing franchising with outsourcing.
 - Finishing a discuss question with no judgement.
 
+## Frequently asked questions
+
+**What are the methods of expansion in AQA GCSE Business (8132)?**
+Franchising, opening new stores, e-commerce, outsourcing, and mergers and takeovers. Organic growth is usually slower but keeps more control than external growth.
+
+**What causes diseconomies of scale?**
+The specification names three causes: poor communication, coordination issues and reduced staff motivation. They are a risk of growth, not a certainty.
+
+**Does total cost fall when there are economies of scale?**
+No. Total cost still rises as output grows; it is the average unit cost, the cost per unit, that falls.
+
+**What is the difference between a merger and a takeover?**
+A merger is two businesses agreeing to join together as one. A takeover is when one business gains control of another.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA. These notes cover section 3.1.7 Expanding a business.

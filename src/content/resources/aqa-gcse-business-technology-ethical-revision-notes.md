@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed recall notes on e-commerce, digital communication, and ethics/environment/sustainability trade-offs for AQA GCSE Business (8132), 3.2.1 and 3.2.2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -161,6 +163,20 @@ Technology and ethics/environment are two of **six** named external influences i
 
 - [Technology and Ethical/Environmental Considerations study guide](/resources/gcse-aqa-business-technology-and-ethical-considerations/)
 - [Technology and Ethical/Environmental Considerations practice questions](/resources/aqa-gcse-business-technology-ethical-practice/)
+
+## Frequently asked questions
+
+**What is e-commerce in AQA GCSE Business?**
+E-commerce is buying and selling over the internet. It gives a business access to wider, often global, markets without a physical presence everywhere, and mainly affects marketing and operations.
+
+**Are environmental considerations and sustainability the same thing?**
+No. The AQA GCSE Business (8132) specification keeps them as separate headings: environmental considerations cover direct impacts such as traffic congestion, waste and pollution, while sustainability covers global warming and the use of scarce resources.
+
+**How many external influences are there in Topic 2 Influences on business?**
+Six: technology, ethical and environmental considerations, the economic climate, globalisation, legislation and the competitive environment.
+
+**Why is "trade-off" the key word in section 3.2.2?**
+Ethical, environmental and sustainable actions usually cost the business money now in return for benefits such as reputation or long-term savings, so answers must weigh cost against benefit and reach a judgement.
 
 ## Official syllabus
 

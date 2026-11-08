@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Condensed recall notes on entrepreneurs, business objectives, business forms and stakeholders, for AQA AS-Level Business (7137), sub-topics 3.1.1 and 3.1.2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-17
@@ -155,3 +157,17 @@ A common error is treating the influences on business decisions (objectives, ris
 7. Why should a business form recommendation start from the business's specific constraint (e.g. needing finance while keeping control) rather than a general description of the form?
 
 **Answers:** 1. Any three of: risk taker, resilient, focused, passionate, innovative, adaptable. 2. Objectives, risk, reward, resources, market conditions, ethics, opportunity costs. 3. Specific, Measurable, Accountable, Realistic, Time specific — the specification uses "Accountable", not the more common "Achievable". 4. A sole trader has unlimited liability and limited access to finance; a private limited company has limited liability and greater access to finance (at the cost of reduced control and a requirement to publish accounts). 5. Dividend yield (%) = (dividend per share / share price) x 100. 6. Internal: employees, owners/shareholders. External: customers, suppliers, other creditors, community, government. 7. Because exam questions ask candidates to recommend or evaluate a form for a specific scenario, and a recommendation grounded in the business's actual constraint (its need for finance, its wish to retain control) demonstrates applied reasoning, whereas a general description of a form's features alone does not show the same evaluative skill.
+
+## Frequently asked questions
+
+**Is AQA AS Business (7137) easier than the A-level for these topics?**
+No. AS Business (7137) is a stand-alone qualification with its own full assessment, and 3.1.1 and 3.1.2 are the same sub-topics as in the A-level.
+
+**What does the A in SMART stand for in the AQA Business specification?**
+Accountable. The specification lists Specific, Measurable, Accountable, Realistic and Time specific, rather than the more common "Achievable".
+
+**What is the difference between a sole trader and a private limited company?**
+A sole trader has unlimited liability, limited access to finance and full control. A private limited company has limited liability and more access to finance, but control is shared and it must publish accounts.
+
+**Who are the internal and external stakeholders in AQA AS Business?**
+Internal stakeholders are employees and owners or shareholders. External stakeholders are customers, suppliers, other creditors, the community and government.

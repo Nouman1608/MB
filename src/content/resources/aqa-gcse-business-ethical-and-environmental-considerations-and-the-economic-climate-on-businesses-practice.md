@@ -109,6 +109,20 @@ These questions cover sections 3.2.2 (Ethical and environmental considerations) 
 - All free 10-minute diagnostics: [diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**What does ethical behaviour mean in AQA GCSE Business (8132)?**
+The specification defines it as acting in ways that stakeholders consider both fair and honest. Writing "legal" instead of fair and honest is a common way to lose the definition marks.
+
+**Do I need to explain why interest rates change for AQA GCSE Business?**
+No. The specification says economic theory about how or why interest rates change is not required; questions ask about the effect of a change on businesses and spending.
+
+**How do I work out the effect of an interest rate rise on a business?**
+Calculate interest as the amount borrowed times the rate at the old and new rates, subtract to find the extra cost, then compare it with the business's profit.
+
+**How should I answer an evaluate question on an ethical or environmental choice?**
+Use the figures in the case to show both the cost and the benefit, then reach a judgement that depends on the business and its customers. Giving only benefits or only costs limits the marks.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA. Sections 3.2.2 and 3.2.3.

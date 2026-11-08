@@ -229,6 +229,20 @@ Worked example: Tavistowe Packaging buys a new automated labelling machine. Its 
 - Writing that money is always the best motivator. Argue both sides.
 - Listing a method without linking it to the business in the case study.
 
+## Frequently asked questions
+
+**What is the difference between internal and external recruitment?**
+Internal recruitment fills a post from existing staff, which is cheaper and quicker and the business already knows the person. External recruitment brings a larger pool of applicants with new skills and ideas, but costs more and takes longer.
+
+**What are the stages of recruitment and selection in AQA GCSE Business (8132)?**
+Job analysis, job description, person specification, advertising the post, shortlisting, selection methods such as interviews and tests, and offering the post with a contract.
+
+**What is a zero hours contract?**
+A contract with no guaranteed hours, where the worker is called in only when needed. It is flexible and low cost for the employer but gives the worker an uncertain income.
+
+**Is money always the best motivator?**
+No. Financial methods suit some staff, such as those on low pay or in sales roles, but a well-paid worker with no say and no chance to progress may still lack motivation, so argue both sides.
+
 ## Official syllabus
 
 AQA GCSE Business (8132), specification for first teaching from September 2017, published by AQA. This guide follows section 3.4 Human resources, including 3.4.1 to 3.4.4.

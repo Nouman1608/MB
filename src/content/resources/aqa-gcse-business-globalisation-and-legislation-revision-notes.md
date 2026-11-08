@@ -261,6 +261,20 @@ A shop spends £600 on safety training for its staff. If the training avoids one
 - Writing a list of points for an evaluation question with no judgement.
 - Mixing up exports and imports.
 
+## Frequently asked questions
+
+**How does a stronger pound affect UK exporters and importers?**
+A stronger pound makes UK exports dearer abroad, so an exporter's sales or profit per item may fall. It makes imports cheaper, so an importer's costs fall.
+
+**Which laws are named in AQA GCSE Business section 3.2.5?**
+The national minimum wage and living wage, the Equality Act (2010), the Health and Safety at Work Act (1974) and consumer law on trade descriptions.
+
+**How do UK businesses compete internationally according to the specification?**
+Through better designs, and through higher quality products at lower prices.
+
+**What is the difference between law and ethics in GCSE Business?**
+Law is the minimum a business must do. Ethical behaviour can go beyond the law, for example by paying more than the legal minimum wage.
+
 ## Official syllabus
 
 AQA GCSE Business (8132), specification for first teaching from September 2017, published by AQA: sections 3.2.4 and 3.2.5.

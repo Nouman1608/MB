@@ -155,6 +155,23 @@ Use the figures in the case: calculate, then interpret against targets, the past
 - Calling a rise in productivity good without asking whether the extra output can be sold.
 - Evaluation that ends with "it depends" and no reasoned decision.
 
+## Frequently asked questions
+
+**What is the difference between quality control and quality assurance?**
+Quality control inspects output, usually at the end, to find faults after they have happened. Quality assurance builds quality into every stage of the process to prevent faults in the first place.
+
+**How do you calculate float time in network analysis?**
+Float time equals the latest finish time minus the duration minus the earliest start time. Activities with zero float are on the critical path.
+
+**What is the difference between just in time and just in case?**
+Just in time keeps minimal stock, with materials delivered only as needed, which cuts holding costs. Just in case holds buffer stock, which covers delays and demand spikes but costs more to store.
+
+**Which economies of scale are named in the AQA AS Business (7137) specification?**
+Technical, purchasing and financial economies of scale. Diseconomies of scale come from problems of control, communication and coordination as a business grows.
+
+**What is the difference between productivity and production?**
+Production is total output. Productivity is output per employee over a time period, so a firm can raise production without improving productivity.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7137, 7138) specification, Version 1.1 (November 2025), for first teaching from September 2026: section 3.2.2 Operations management and Annex 7, Formulae and key data. Checked against these notes on 5 November 2026.

@@ -286,6 +286,20 @@ The specification asks you to evaluate which structure is most appropriate for e
 
 Go on to the [revision notes](/resources/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership-revision-notes/) and then test yourself with the [practice questions](/resources/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership-practice/).
 
+## Frequently asked questions
+
+**What is the difference between a need and a want?**
+A need is something people must have to live, such as food, water, shelter and clothing. A want is something people would like but could live without.
+
+**What are the characteristics of an entrepreneur in AQA GCSE Business (8132)?**
+The specification outlines being hard working, innovative, organised and willing to take a risk. In an exam, link each characteristic to how it helps the person in the case run the business.
+
+**What causes the business environment to change?**
+The specification names technology, the economic situation, legislation and environmental expectations. A good answer states the change and then its effect on a functional area of the business.
+
+**What happens to the profit of a not-for-profit organisation?**
+Any surplus is reinvested in the organisation's purpose rather than shared out among owners.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA. Sections 3.1.1 and 3.1.2.

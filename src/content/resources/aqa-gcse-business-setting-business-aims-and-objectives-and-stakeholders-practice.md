@@ -135,6 +135,20 @@ Evaluate which plan Bramleigh Audio should follow. **[9]**
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of AQA GCSE Business (8132) do these questions cover?**
+Section 3.1.3 Setting business aims and objectives and section 3.1.4 Stakeholders. All businesses and figures are invented.
+
+**How do you calculate dividend per share?**
+Divide the total dividend paid by the number of shares, not the total profit. Give the unit, pence or pounds, with your answer.
+
+**What is the difference between a percentage-point gap and a percentage change?**
+A percentage-point gap is the simple difference between two percentages, such as 9% to 12%. A percentage change compares the change with the starting figure; confusing the two is a common error.
+
+**How do I analyse a conflict between stakeholders?**
+Name the two groups, say what each wants, explain why one decision cannot satisfy both, and use details from the case. Describing what each group wants without explaining the conflict limits the marks.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA: sections 3.1.3 Setting business aims and objectives and 3.1.4 Stakeholders.

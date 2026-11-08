@@ -105,6 +105,20 @@ These questions cover AQA GCSE Business (8132) sections 3.2.4 Globalisation and 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Do I have to convert currencies in AQA GCSE Business (8132)?**
+No. The specification says you will not be asked to calculate exchange rate conversions; questions ask about the effect of a stronger or weaker pound on a business.
+
+**How much detail do I need about each law?**
+Only brief knowledge of each law is needed. Most marks come from explaining its effect on the business, such as costs, training needs, recruitment and the consequences of failing to comply.
+
+**How should I answer an exchange rate question?**
+Say whether the business imports or exports and whether the pound is stronger or weaker, then follow the chain from price or cost to sales and profit, using figures from the case.
+
+**What makes an evaluate answer on legislation score well?**
+Set the costs of complying directly against the benefits, using the case details, and finish with a judgement rather than two separate lists.
+
 ## Official syllabus
 
 AQA GCSE Business (8132), specification for first teaching from September 2017, published by AQA: sections 3.2.4 Globalisation and 3.2.5 Legislation.

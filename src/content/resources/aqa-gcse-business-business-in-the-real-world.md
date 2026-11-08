@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "business-in-the-real-world-aqa-gcse-business"
-description: "The purpose and nature of businesses, ownership, aims and objectives, stakeholders, location, planning, and expansion -- the full content of Topic 1 for AQA GCSE Business (8132)."
+description: "Purpose and nature of businesses, ownership, aims and objectives, stakeholders, location, planning and expansion: Topic 1 of AQA GCSE Business (8132)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -229,6 +231,23 @@ diseconomies of scale instead.
   <figcaption>External factors usually bring a cost and often a partly offsetting benefit.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**Which papers is Business in the real world assessed on in AQA GCSE Business (8132)?**
+Both. Business in the real world and Influences on business are the only two sections assessed on both Paper 1 and Paper 2.
+
+**What is the difference between fixed and variable costs?**
+Fixed costs stay the same regardless of output, such as rent and insurance. Variable costs change directly with output, such as materials and packaging, and total costs are the two added together.
+
+**How do you calculate average unit cost?**
+Divide total cost by output. If average unit cost falls as output rises, the business is gaining economies of scale; if it rises again as the business grows further, that signals diseconomies of scale.
+
+**What is the difference between a sole trader and a limited company?**
+A sole trader is owned and run by one person with full control but unlimited liability, so personal assets are at risk. Private and public limited companies give owners limited liability but are more complex to set up.
+
+**Why do business objectives change over time?**
+A new business may focus on survival and building a customer base, while an established one may move towards growth, profit or social and environmental objectives. Success can also be measured beyond profit, for example by market share or customer satisfaction.
 
 ## Official syllabus
 

@@ -277,6 +277,20 @@ Choosing a method: say which suits the business, give a case reason (cost, size,
 - Giving only a list when a question asks for a judgement.
 - Describing Maslow-style theory instead of practical motivation methods.
 
+## Frequently asked questions
+
+**What is the difference between a tall and a flat organisational structure?**
+A tall structure has many levels, narrow spans of control and a long chain of command, so communication is slower. A flat structure has few levels, wide spans and a short chain of command, with quicker communication and lower wage costs.
+
+**What is the difference between delayering and decentralisation?**
+Delayering removes one or more layers of management. Decentralisation moves decisions lower down the business; a business can do one without the other.
+
+**What are the financial methods of motivation in AQA GCSE Business (8132)?**
+Salary, wage, commission and profit sharing. Non-financial methods include styles of management, training, greater responsibility and fringe benefits.
+
+**What are the three methods of training in the specification?**
+Induction for new starters, on the job training while doing the real work, and off the job training away from the workplace, which gives expert teaching but costs more.
+
 ## Official syllabus
 
 AQA GCSE Business (8132), specification for first teaching from September 2017, published by AQA. These notes follow section 3.4 Human resources, including 3.4.1 to 3.4.4.
