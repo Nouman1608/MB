@@ -166,8 +166,8 @@ Applying material from the item and your knowledge, evaluate cultural/behavioura
 **Is Health in Section A of AQA A-level Sociology Paper 2?**
 Yes. Health (4.2.3) is an option 1 topic, answered in Section A of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
 
-**How do you define the sick role for full marks?**
-Give Parsons' idea that illness is a form of deviance managed through the sick role, and include its rights and duties. A definition with no right or duty misses the key feature.
+**How do you define a term for full marks in a Health question?**
+Include the term's key feature. A definition that misses the feature that makes the concept distinctive, such as the rights and duties of a role, earns only part of the marks.
 
 **How should you use an item in a Health question?**
 Build each point around a quoted detail from the item, then link it to a concept or explanation. Using the item only as decoration does not earn application marks.

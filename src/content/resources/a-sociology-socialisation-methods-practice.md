@@ -113,13 +113,13 @@ Answer **one** question from this section.
 ## Frequently asked questions
 
 **How is Cambridge 9699 Paper 1 structured?**
-Paper 1 has Section A, with three compulsory questions, and Section B, where you choose one essay from two worth 26 marks. Questions use the command words Describe, Evaluate, Explain and Give.
+Paper 1 of Cambridge International AS & A Level Sociology (9699) has Section A, with three compulsory questions, and Section B, where you choose one essay from two worth 26 marks.
 
-**What is the difference between primary and secondary socialisation?**
-Primary socialisation happens in early childhood, mainly through the family, and teaches language and basic norms. Secondary socialisation happens later through agencies such as school, peer groups and the media.
+**Which command words does Cambridge 9699 Paper 1 use?**
+Paper 1 questions use only the command words the syllabus defines: Describe, Evaluate, Explain and Give. Match the length and depth of each answer to the command word and the marks shown.
 
-**What is triangulation in sociological research?**
-Triangulation combines two or more research methods so that the strengths of one offset the weaknesses of another, increasing confidence in the findings.
+**How should you evaluate a research method in a Paper 1 answer?**
+Evaluate it for the research topic in the question, not in the abstract. Strengths and weaknesses should be tied to the specific group and setting being studied.
 
-**What is the difference between structuralist and social action perspectives?**
-Structuralist perspectives, such as functionalism, Marxism and feminism, see individual behaviour as shaped by the structure of society. The social action perspective, such as interactionism, sees society as built up from individuals' own meanings and interactions.
+**Are these real Cambridge 9699 past paper questions?**
+No. They are original questions written for revision that follow Paper 1's section shape and command words; use them alongside official past papers.

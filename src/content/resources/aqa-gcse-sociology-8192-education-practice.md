@@ -213,8 +213,8 @@ Use Ball's Beachside Comprehensive study for teacher expectations and processes 
 **How do you answer a data question in GCSE Sociology?**
 Describe the pattern and quote figures from the table to support it. If the question asks for a calculation, show your working as well as the answer.
 
-**What does meritocracy mean in the sociology of education?**
-Meritocracy means rewards depend on ability and effort, not background. Functionalists such as Parsons argue schools run on meritocratic principles, while Marxists call this a myth.
+**How do you answer an item-based question in GCSE Sociology?**
+Use the item's details and link them explicitly to a named sociological concept or study, rather than repeating the item.
 
 ## Official syllabus
 

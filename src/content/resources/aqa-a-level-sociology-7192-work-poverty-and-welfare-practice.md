@@ -172,8 +172,8 @@ Yes. Work, Poverty and Welfare (4.2.4) is an option 1 topic, answered in Section
 **How do you answer an "analyse two ways" question?**
 Pick two ways and develop each in depth with explanation and evidence. Listing many effects briefly does not meet what the command asks for.
 
-**Is a charity that works with government state welfare?**
-No. A charity is voluntary provision even when it works with government. The specification names four welfare providers: state, private, voluntary and informal.
+**Which welfare providers does AQA 7192 name?**
+The specification names four providers of welfare: the state, private, voluntary and informal sectors. Be careful to classify each source of support by what it is, not by who it works with.
 
 **How do you evaluate a perspective well?**
 Do not just describe a rival perspective; say what the rival shows about the weakness of the first view, for example what structural explanations reveal that cultural ones miss.

@@ -217,8 +217,8 @@ Discuss how far sociologists would agree that differences in pay between occupat
 **How do you name sociologists so they earn marks in GCSE stratification answers?**
 Pair each sociologist with their perspective every time, such as "the functionalists Davis and Moore" or "the feminist Walby". Naming one without the other loses easy marks.
 
-**What is the difference between Weber's types of authority and sources of power?**
-Weber's three types of authority are traditional, charismatic and rational-legal. Formal and informal sources of power are a separate idea: formal power comes from official positions and laws, informal power from influence, peer pressure or money.
+**What should you do in a calculation question?**
+Do the comparison or calculation the question asks for and show your working. Quoting a table figure without the comparison or calculation asked for loses marks.
 
 **How do you use a scenario in a stratification question?**
 Link details from the scenario to a concept, such as the underclass or rational-legal authority, rather than copying the scenario back.

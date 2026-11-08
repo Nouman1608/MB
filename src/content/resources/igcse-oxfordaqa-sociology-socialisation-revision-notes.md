@@ -18,8 +18,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -172,3 +174,17 @@ consensus); Marxism presents it as serving the ruling class's interests
 by instilling obedience and acceptance of inequality. 5. An explicit
 point of contrast between the two perspectives, not just two separate
 descriptions placed side by side.
+
+## Frequently asked questions
+
+**What is the difference between primary and secondary socialisation?**
+Primary socialisation is early learning of norms and values, mainly within the family. Secondary socialisation happens later, through wider agencies such as school, peers, media and the workplace.
+
+**What is the difference between norms and values?**
+Norms are specific, unwritten rules of behaviour for a given situation. Values are broader beliefs about what is important or desirable.
+
+**How do functionalists and Marxists differ on socialisation?**
+Both agree socialisation instils values, but functionalism sees this as broadly beneficial and consensual, while Marxism sees it as serving one class's interests over another's.
+
+**Which section of 9292 covers socialisation?**
+Socialisation is section 3.2.2.2, part of the Socialisation and Social Control topic in Paper 2 of OxfordAQA International GCSE Sociology (9292).

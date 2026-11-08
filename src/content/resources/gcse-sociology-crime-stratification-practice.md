@@ -203,8 +203,8 @@ Explain how a factor affects the outcome asked about, not just name it. Listing 
 **What does a "difference" question on stratification need?**
 It needs an explicit comparison, for example setting the functionalist and Marxist views side by side, rather than describing each one separately.
 
-**What is the difference between the dark figure of crime and the crime rate?**
-The dark figure is crime that is unreported or unrecorded, while the recorded crime rate only counts offences that reach official statistics.
+**How do you answer an item-based question on crime or stratification?**
+Link the item's details to a named sociological concept or theory and explain the link, rather than repeating what the item says.
 
 **Which AQA paper covers crime and stratification?**
 Crime and deviance (3.5) and social stratification (3.6) are assessed in Paper 2 of AQA GCSE Sociology (8192).

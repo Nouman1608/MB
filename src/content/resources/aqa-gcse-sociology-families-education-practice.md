@@ -157,14 +157,14 @@ Using the item and your knowledge, explain how sociologists would describe and e
 
 ## Frequently asked questions
 
-**How do you explain the rise in divorce for full marks?**
-Explain the mechanism, not just the factor. For example, saying people are less religious is not enough: explain that as religious opposition weakened, couples became more willing to end an unhappy marriage.
+**How do you answer an "explain" question for full marks?**
+Explain the mechanism, not just the factor. Naming a cause without showing how it leads to the outcome earns less credit in AQA GCSE Sociology (8192).
 
 **Does more divorce mean more unhappy marriages?**
 Not necessarily. A rise in divorce can reflect easier, cheaper divorce laws and changing attitudes, so do not treat it as proof that marriages became unhappier.
 
-**What is the hidden curriculum?**
-The hidden curriculum is not the subjects taught. Marxists such as Bowles and Gintis argue it reproduces class inequality by preparing pupils to accept their place in an unequal workforce.
+**Is the New Right view of the family neutral?**
+No. The New Right view is a value-laden judgement about which family type is "ideal", so treating it as neutral description is a common error.
 
 **Which studies does the AQA 8192 specification attach to education topics?**
 Use the named study with each idea: Willis for anti-school subculture, Halsey for class-based inequality in achievement, and Ball for both parental choice between schools and teacher expectations.

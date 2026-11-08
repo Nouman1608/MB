@@ -158,11 +158,11 @@ Check your weaker areas with our free [diagnostics](/diagnostics/). Go back to t
 **Is The media in Section B of AQA A-level Sociology Paper 2?**
 Yes. The Media (4.2.7) is an option 2 topic, answered in Section B of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
 
-**How do you define agenda setting for full marks?**
-Include the "how" as well as the "what": agenda setting shapes which issues the public thinks about through the selection and emphasis of stories.
+**How do you define a concept for full marks in a Media question?**
+Include how the concept works, not just what it refers to. A definition that leaves out the "how" part usually earns only part of the marks.
 
-**Is the hypodermic syringe model still accepted?**
-Not as current thinking. It sees audiences as passive receivers of injected messages, and reception studies show that people interpret media differently, so present it as an early model and evaluate it.
+**How should you use data from a table in a Media question?**
+Quote the figures from the table to support your point. Using a table without quoting any of its figures is a common way to lose marks.
 
 **What should you write when a question asks about representations of social groups?**
 Cover more than one group. The AQA 7192 specification names six groups for media representations, so an answer about gender alone is too narrow.

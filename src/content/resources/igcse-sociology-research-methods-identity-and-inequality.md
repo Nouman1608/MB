@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-3-1-0495"
-description: "Research methods, identity (self and society), and social stratification and inequality -- the full content of Paper 1 for Cambridge IGCSE Sociology 0495, 2025-2027 series."
+description: "Cambridge IGCSE Sociology (0495) Paper 1 guide, 2025-2027: research methods, identity and socialisation, and social stratification and inequality."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Paper 1 Research Methods, Identity and
@@ -175,6 +177,23 @@ the apparent effect of ethnicity is attributable to class rather than
 ethnicity itself. Raising this interaction, rather than treating class
 and ethnicity as two independent, additive causes, is what distinguishes
 a sophisticated answer from a purely descriptive one.
+
+## Frequently asked questions
+
+**Which question is compulsory on Cambridge IGCSE Sociology Paper 1?**
+Paper 1 of Cambridge IGCSE Sociology (0495) has three questions and you answer two: Question 1, on research methods, is compulsory.
+
+**What is a sampling frame?**
+A sampling frame is the list a sample is drawn from. Without one, a researcher is often forced to use a non-random sampling method.
+
+**When is covert observation justified?**
+Covert observation breaches consent through deception, so it is defended only where overt research would be impossible to carry out at all.
+
+**What is the difference between formal and informal social control?**
+Formal control works through explicit rules and sanctions enforced by agencies such as government, police, courts and the penal system. Informal control works through unwritten norms enforced by family, peers and media through disapproval, praise, gossip and exclusion.
+
+**What is the difference between ascribed and achieved status?**
+Ascribed status is fixed at birth, such as sex or the family a person is born into. Achieved status is earned through action, such as an occupation or qualification.
 
 ## Official syllabus
 

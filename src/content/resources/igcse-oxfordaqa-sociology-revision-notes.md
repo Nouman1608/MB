@@ -29,8 +29,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -177,3 +179,17 @@ internalises and acts out, making the original expectation come true. 5.
 Reliability is consistency on repetition, favoured by quantitative
 methods; validity is giving a true picture, favoured by qualitative
 methods.
+
+## Frequently asked questions
+
+**Which sociologist goes with each perspective on the family in 9292?**
+The OxfordAQA International GCSE Sociology (9292) notes pair functionalism with Parsons, Marxism with Engels and feminism with Oakley.
+
+**What did Therborn show about family systems?**
+Therborn identified different family systems across world regions, showing that family form is not universal.
+
+**What are boomerang children?**
+Boomerang children are adult children who return to the family home, usually for economic reasons.
+
+**What ethical principles apply to sociological research?**
+Informed consent, confidentiality, protection from harm, no deception and the right to withdraw. Research with children also needs parental or guardian consent.

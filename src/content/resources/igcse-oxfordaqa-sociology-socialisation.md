@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-exploring-sociology-9292"
     subtopic: "socialisation-and-social-control-9292"
-description: "Primary and secondary socialisation, agencies of socialisation, and the functionalist, Marxist, feminist and social action perspectives on it -- 3.2.2.2 within Socialisation and Social Control, OxfordAQA International GCSE Sociology (9292)."
+description: "OxfordAQA International GCSE Sociology (9292) section 3.2.2.2: types and agencies of socialisation and functionalist, Marxist, feminist and social action views."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **3.2.2.2 Socialisation**, part of the Socialisation
@@ -174,6 +176,20 @@ precisely and be able to distinguish all four.
 on socialisation.
 - Practise structuring a "compare two perspectives" answer with an
 explicit point of contrast.
+
+## Frequently asked questions
+
+**What are the agencies of socialisation in OxfordAQA International GCSE Sociology?**
+The 9292 specification names families, schools, peers, media, religions and the workplace as agencies of socialisation.
+
+**What is an agency of socialisation?**
+An agency of socialisation is any group or institution, such as the family, school or media, through which socialisation takes place.
+
+**Which perspectives on socialisation do you need for 9292?**
+You need the functionalist, Marxist, feminist and social action or interactionist perspectives, with one clear claim from each.
+
+**What are the four types of socialisation in 9292?**
+The specification lists primary socialisation, secondary socialisation, re-socialisation and inadequate socialisation, and you need to be able to distinguish all four.
 
 ## Related resources
 

@@ -176,8 +176,8 @@ Give two clearly different points, each developed enough to earn its marks. Repe
 **How should you handle data in a Culture and identity question?**
 Read the figures carefully, quote them accurately, and remember that percentages are not numbers of people. Link the pattern you describe to a concept or study.
 
-**What is the difference between mass culture and popular culture?**
-Mass culture implies standardised products imposed on passive audiences, as in Adorno and Horkheimer's culture industry. Popular culture is a neutral or positive term for what people enjoy.
+**Should you answer every question in this Culture and identity set?**
+Use the set for revision in any order. The questions are original practice questions and do not copy the exact structure or mark tariffs of AQA's Paper 2, so use official past papers for timed practice too.
 
 ## Official syllabus
 

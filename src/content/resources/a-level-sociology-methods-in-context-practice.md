@@ -129,8 +129,8 @@ Use its details directly: each strong point should draw on something the item sa
 **How many points does a methods in context answer need?**
 The published AQA mark scheme sets no target number of points and does not require every point for the top band. Several combined points developed in depth, with an overall judgement, work better than many shallow ones.
 
-**Why does the power imbalance matter when researching pupils?**
-Pupils may see an adult researcher as an authority figure like a teacher and give the answers they think are wanted. This education-specific issue affects validity and is worth explaining fully in AQA 7192 answers.
+**Which AQA paper includes the methods in context question?**
+Methods in context is part of Paper 1, Education with Theory and Methods, of AQA A Level Sociology (7192).
 
 For condensed recall notes on the method-and-context framework itself, see the
 [Methods in Context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/).
