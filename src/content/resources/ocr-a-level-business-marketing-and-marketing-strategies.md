@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-marketing-strategies-ocr-alevel-business"
-description: "The marketing mix, product life cycle, Boston Matrix and Ansoff's Matrix -- one of the seven content areas of OCR A Level Business (H431), distinct from the site's existing guides to Business Objectives and Strategic Decisions and External Influences Facing Businesses."
+description: "Study guide to marketing and marketing strategies for OCR A Level Business H431: the marketing mix, product life cycle, Boston Matrix and Ansoff's Matrix."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the content area **Marketing and marketing strategies** in OCR A Level Business (H431), following
@@ -192,3 +194,20 @@ higher risk.
   risk.
 - Link marketing decisions back to a business's stated objectives (Business objectives and strategic
   decisions) and external environment (External influences facing businesses) wherever a scenario provides that context.
+
+## Frequently asked questions
+
+**What is the difference between marketing strategy and the marketing mix?**
+Marketing strategy is the overall, longer-term plan a business follows to achieve its marketing objectives, such as premium positioning. The marketing mix of product, price, place and promotion is the set of practical tools used to carry it out.
+
+**What are the stages of the product life cycle?**
+Development, introduction, growth, maturity and decline. Extension strategies can be used to prolong a product's life before it declines.
+
+**Should a business always withdraw a Dog product?**
+Not always. A Dog has low market share and low market growth and is often a candidate for withdrawal, but a business may keep one for strategic reasons, such as completing a product range.
+
+**Is diversification the best growth option on Ansoff's Matrix?**
+Not automatically. Diversification combines unfamiliar products and unfamiliar markets, so it typically carries the highest risk, while market penetration typically carries the lowest.
+
+**How should marketing models be used in an exam answer?**
+Use the product life cycle, Boston Matrix and Ansoff's Matrix as frameworks for analysis that structure a recommendation for the specific business, rather than describing or redrawing them in the abstract.

@@ -244,6 +244,20 @@ A good conclusion names the single most important measure for the stakeholder in
 * Evaluating from one viewpoint only when the question names several stakeholders.
 * Ending an "evaluate" answer without a reasoned judgement.
 
+## Frequently asked questions
+
+**What is the difference between liquidity and profitability?**
+Liquidity is the ability to pay short-term debts, judged by the current ratio and acid test. Profitability is how well the business turns revenue or capital into profit, judged by margins and ROCE; confusing the two is a common error.
+
+**Which profit figure do ratios such as ROCE use?**
+Use operating profit where the ratio needs it, as in ROCE and operating margin. Using net profit instead is a common way to lose marks.
+
+**What does interest cover show?**
+Interest cover = operating profit ÷ finance costs, a solvency measure that shows how many times profit covers the interest the business must pay. A low figure means a fall in profit could make interest hard to meet.
+
+**Should non-financial measures be used alongside financial ones?**
+Yes. Measures such as market share, capacity utilisation, staff turnover and emissions show what the accounts miss, but each must be linked to the business in the case.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431), Version 2.1 (January 2026), Cambridge OCR; section Measures of Performance: financial and non-financial, Business objectives and strategy.

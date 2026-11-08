@@ -215,6 +215,20 @@ A firm with 31% buys a firm with 8%. The next largest rival holds 25%.
 - Inventing Acts, thresholds or fines when describing regulation.
 - Writing a recommendation with no justification or no weakness.
 
+## Frequently asked questions
+
+**What is the difference between online and digital?**
+Online means trading through the internet. Digital also covers digital products and apps, so the two are not the same.
+
+**What is the difference between barriers to entry and barriers to exit?**
+Barriers to entry keep new firms out of a market. Barriers to exit keep existing firms in it, even when they might want to leave.
+
+**Can a firm's sales rise while it loses market share?**
+Yes. If the market grows faster than the firm, its share falls even though its own sales rise, so compare market growth with the firm's own growth before judging performance.
+
+**Is market dominance the same as being a large firm?**
+No. Dominance is power over price and rivals; a big firm in a market that others can enter easily may lack it.
+
 ## Official syllabus
 
 OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: Market forces; Physical and non-physical markets; Competition; Market dominance.

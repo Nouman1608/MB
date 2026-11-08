@@ -331,6 +331,20 @@ Finish with a short judgement that begins "On balance" and names the factor on w
 - Mixing up redundancy and dismissal.
 - Recommending a method with no justification from the data.
 
+## Frequently asked questions
+
+**How do you calculate labour turnover for OCR A Level Business H431?**
+Labour turnover = leavers ÷ average number of staff × 100, which is the standard form. Use the average of opening and closing staff, not the closing figure alone.
+
+**Is redundancy the same as dismissal?**
+No. Redundancy is when a job is no longer needed. Dismissal is the employer ending the contract, and fair reasons include capacity, conduct and redundancy.
+
+**What is the difference between Theory X and Theory Y?**
+McGregor's Theory X assumes workers dislike work and need control. Theory Y assumes people enjoy work and seek responsibility, which leads to democratic or laissez-faire management.
+
+**How should motivation and leadership theorists be used in answers?**
+Apply each theorist to the case rather than listing names. Naming a theorist without linking the theory to the business in the question earns little.
+
 ## Official syllabus
 
 Source: *OCR A Level in Business (H431)*, Version 2.1 (January 2026), published by OCR; Human resource management, Human resources and strategy content headings.

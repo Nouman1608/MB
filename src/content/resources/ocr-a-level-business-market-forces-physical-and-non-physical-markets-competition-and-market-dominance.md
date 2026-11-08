@@ -198,6 +198,23 @@ The merger gives immediate scale, but the firm faces integration costs and possi
 - Describing regulation by inventing Acts or limits. Describe it in general terms.
 - Describing impact without a judgement.
 
+## Frequently asked questions
+
+**What are market forces?**
+Market forces are the pressures of demand, supply and competition that set prices and output in a market, without a government or single firm deciding them.
+
+**What is the difference between a physical and a non-physical market?**
+A physical market is one where buyers and sellers meet in a place, such as a shop or showroom. A non-physical market has no shared place: buyers and sellers deal by website, app, phone or other digital means.
+
+**What is the difference between a merger and an acquisition?**
+A merger is an agreed joining of two firms into a single business. An acquisition, or takeover, is when one firm buys control of another, which may be agreed or opposed by the target's board.
+
+**Why do firms enter or exit a market?**
+Firms enter for reasons such as high profits, fast market growth, low barriers to entry or spreading risk. They exit because of losses, falling demand, intense competition, an owner retiring or a better use of resources elsewhere.
+
+**Does the OCR H431 specification require calculations for market forces?**
+No calculations are listed for this content. Market share is still the clearest way to show a business gaining or losing ground, so it is often used in examples.
+
 ## Official syllabus
 
 OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: Market forces; Physical and non-physical markets; Competition; Market dominance.

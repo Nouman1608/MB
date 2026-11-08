@@ -307,6 +307,23 @@ A strategy is the long-term plan combining the topics above. Its impact depends 
 - Using a ratio without average staff.
 - Naming a theorist but not applying it.
 
+## Frequently asked questions
+
+**What is workforce planning?**
+Workforce planning matches the number and skills of staff to future needs: staff required, less existing staff after expected leavers, equals recruits needed. It depends on forecasts that may be wrong.
+
+**What flexible working practices are in OCR A Level Business H431?**
+Part-time work, flexi-time, compressed hours, home or remote working, annualised hours, term-time working, structured time off in lieu, job sharing and zero hours contracts.
+
+**What is the difference between line and staff relationships?**
+Line relationships link a manager to subordinates in a direct chain of command. Staff relationships are advisory, such as HR specialists advising line managers.
+
+**What is Vroom's expectancy theory?**
+Vroom argued that effort depends on expecting that effort leads to performance and that performance leads to a reward the employee values.
+
+**Is high labour turnover always bad?**
+Not always. High turnover may signal poor pay or management, but some turnover brings fresh ideas, so interpret it against past results, targets and rivals.
+
 ## Official syllabus
 
 Source: *OCR A Level in Business (H431)*, Version 2.1 (January 2026), published by OCR; Human resource management, Human resources and strategy content headings.
