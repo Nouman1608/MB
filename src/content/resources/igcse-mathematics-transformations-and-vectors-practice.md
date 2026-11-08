@@ -22,7 +22,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transformations-and-vectors-cambridge-igcse-maths"
     subtopic: "vector-geometry-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on reflection, rotation, enlargement, translation, vector notation, magnitude and vector geometry for Cambridge IGCSE Mathematics 0580."
+description: "Cambridge IGCSE Maths 0580 practice with worked answers on reflection, rotation, enlargement, translation, column vectors, magnitude and vector geometry."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"

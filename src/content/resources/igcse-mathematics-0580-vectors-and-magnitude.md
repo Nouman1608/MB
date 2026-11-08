@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transformations-and-vectors-cambridge-igcse-maths"
     subtopic: "magnitude-of-a-vector-cambridge-igcse-maths"
-description: "Study guide for Cambridge IGCSE Maths 0580 subtopics E7.2 and E7.3: column vectors, adding, subtracting, scaling and finding magnitude."
+description: "Detailed study guide for Cambridge IGCSE Maths 0580 subtopics E7.2 and E7.3: column vectors, adding, subtracting, scaling and finding magnitude."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
