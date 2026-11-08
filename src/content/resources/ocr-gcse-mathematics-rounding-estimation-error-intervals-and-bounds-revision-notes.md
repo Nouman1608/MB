@@ -265,6 +265,20 @@ The discrete interval can also be written 150 ≤ n < 250. The largest whole num
 - Giving 249.9 or 250 as the greatest discrete value instead of 249.
 - Truncating when the question says rounding, or the other way round.
 
+## Frequently asked questions
+
+**Do zeros count as significant figures?**
+Zeros before the first non-zero digit of a decimal are only place holders and do not count. Zeros between other digits do count, and final zeros must be kept, so 0.0070 is given to 2 significant figures.
+
+**What is the difference between a rounded and a truncated error interval?**
+A rounded value has an interval half a unit either side, such as 2.05 ≤ x < 2.15 for 2.1 to 1 decimal place. A truncated value is the lower end and the interval goes one whole unit up, so 2.1 truncated gives 2.1 ≤ x < 2.2.
+
+**How do you find the upper bound of a division using bounds?**
+Divide the upper bound of the numerator by the lower bound of the denominator. For the lower bound, divide the lower bound of the numerator by the upper bound of the denominator; this is Higher tier only.
+
+**How do you decide the accuracy of an answer calculated from bounds?**
+Round both the upper and lower bounds and give the answer to the accuracy at which they agree. Quoting more figures than both bounds share is not justified.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 4.01 Approximation and estimation (4.01a to 4.01c).

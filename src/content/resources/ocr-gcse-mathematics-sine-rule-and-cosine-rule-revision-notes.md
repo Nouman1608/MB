@@ -215,6 +215,20 @@ Area = ½ × 10 × 14 × sin 150° = 70 × 0.5 = 35 cm².
 - Using an angle in ½ab sin C that is not between the two sides.
 - Stopping after the first stage of a multi-step problem, such as finding a length but not the bearing or area asked for.
 
+## Frequently asked questions
+
+**How do you decide between the sine rule and the cosine rule?**
+Look for a pair: a side and the angle opposite it. If you have a pair, use the sine rule; if you know two sides and the angle between them, or all three sides, use the cosine rule.
+
+**Why does the sine rule sometimes give two possible angles?**
+Sine is positive for an acute angle and for the obtuse angle that adds with it to 180°. Check whether the obtuse angle still leaves a positive third angle; if it does, both triangles are possible.
+
+**What happens to the cosine rule when the angle is 90°?**
+cos 90° = 0, so a² = b² + c² − 2bc cos A becomes a² = b² + c², which is Pythagoras' theorem.
+
+**Which angle do you use in the area formula ½ab sin C?**
+Use the angle between the two sides a and b. Using an angle that is not between the two sides gives the wrong area.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections 10.05d, 10.05e, 10.03a and 6.02d. All content on this page is Higher tier only.

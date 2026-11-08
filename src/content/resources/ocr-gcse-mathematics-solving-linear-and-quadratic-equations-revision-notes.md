@@ -331,6 +331,20 @@ Read each line aloud as a rule: expand every term, move terms with their signs, 
 - Rounding too early, or writing a decimal where an exact answer is asked for.
 - Not stating the excluded values for an algebraic fraction equation.
 
+## Frequently asked questions
+
+**What is the quadratic formula?**
+For ax² + bx + c = 0, the solutions are x = (−b ± √(b² − 4ac)) / (2a). Higher tier students in OCR GCSE Mathematics J560 are expected to know it.
+
+**What does the discriminant tell you about a quadratic equation?**
+The discriminant is b² − 4ac. If it is positive there are two real solutions, if it is zero there is one repeated solution, and if it is negative there are no real solutions.
+
+**How do you get the roots from factorised brackets?**
+Set each bracket equal to zero, so the roots have the opposite signs to the numbers in the brackets. For (x − 2)(x + 5) = 0, the roots are x = 2 and x = −5.
+
+**How do you solve an equation with algebraic fractions?**
+Multiply every term by the common denominator, including any whole-number terms, then solve. Note the values that would make a denominator zero and check your answer is not one of them; this is Higher tier only.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, sections 6.03a and 6.03b.

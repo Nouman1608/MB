@@ -312,6 +312,20 @@ Use your unrounded value of AC in the second step. Rounding early can change the
 
 Work through the [practice set](/resources/ocr-gcse-mathematics-sine-rule-and-cosine-rule-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-sine-rule-and-cosine-rule-revision-notes/) as a quick checklist before a mock. The [free diagnostics](/diagnostics/) will show you which topics need attention next.
 
+## Frequently asked questions
+
+**What is the sine rule?**
+In any triangle, each side divided by the sine of its opposite angle gives the same value: a/sin A = b/sin B = c/sin C. To find an angle, use the upside-down form, sin A/a = sin B/b.
+
+**How do you find an angle using the cosine rule?**
+Rearrange to cos A = (b² + c² − a²)/(2bc), where a is the side opposite the angle you want. A negative cosine means the angle is obtuse.
+
+**Why should you find the largest angle first in a triangle with three known sides?**
+The cosine rule gives only one angle between 0° and 180°, so there is no second answer to test. Once the largest angle is known, the other two must be acute, so the sine rule can be used safely.
+
+**Do the sine and cosine rules only work in right-angled triangles?**
+No. The sine rule and cosine rule work in any triangle, not only right-angled ones. In a right-angled triangle, the cosine rule reduces to Pythagoras' theorem.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections 10.05d, 10.05e, 10.03a and 6.02d. All content on this page is Higher tier only.

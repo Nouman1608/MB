@@ -241,6 +241,20 @@ Write a table with the interval, the midpoint or test value, the sign of f, and 
 - Saying "there is a root" without showing both function values and their signs.
 - Rounding a root to a decimal place without testing the half-way value.
 
+## Frequently asked questions
+
+**When should you use elimination or substitution for simultaneous equations?**
+Use elimination when both equations have the form ax + by = c. Use substitution when one equation already gives a letter on its own, such as y = 2x − 5, or when one equation is quadratic.
+
+**Do you add or subtract equations in the elimination method?**
+Make the coefficients of one letter the same size, then subtract if the matching terms have the same sign and add if they have opposite signs. Write the operation beside the line to avoid mistakes.
+
+**How many solutions can a line and a curve have?**
+A line can cut a curve twice, touch it once or miss it completely. The number of intersection points equals the number of solutions of the pair of equations.
+
+**Does a sign change always mean there is a root?**
+Only if the graph of the function has no breaks in the interval. For f(x) = 1/x, f(−1) is negative and f(1) is positive, but there is no root because the graph breaks at x = 0.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR.

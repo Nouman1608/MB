@@ -142,6 +142,20 @@ These questions cover OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 202
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths content do these similarity and enlargement questions cover?**
+They cover content references 9.04a, 9.04b and 9.04c of OCR GCSE (9-1) Mathematics J560: similar triangles, enlargement and similar shapes. Negative scale factors and the link between lengths, areas and volumes are Higher tier only.
+
+**What do you need to include when describing an enlargement fully?**
+Give the word enlargement, the scale factor and the centre of enlargement. Leaving out the centre or the scale factor makes the description incomplete.
+
+**How do you avoid pairing the wrong sides of similar triangles?**
+List the sides of each triangle from shortest to longest, or use the matching angles, before dividing. Triangles that are turned or reflected are easy to pair in the wrong order.
+
+**Which length do you use for the scale factor when a small triangle sits inside a larger one?**
+Use the full side of the larger triangle, such as AB = AD + DB, not just the extra part DB. Using the extra part gives the wrong scale factor.
+
 ## Official syllabus
 
 Aligned to the OCR GCSE (9-1) in Mathematics (J560) specification, Version 2.1, August 2026, published by OCR, for first assessment in 2017. Content references 9.04a (Similar triangles), 9.04b (Enlargement) and 9.04c (Similar shapes).

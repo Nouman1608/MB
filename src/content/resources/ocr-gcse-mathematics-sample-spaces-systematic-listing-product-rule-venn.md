@@ -280,6 +280,20 @@ Learners studying at least one language: 60 − 12 = 48. Both = 35 + 28 − 48 =
 
 Work through the [revision notes](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn-revision-notes/) for the condensed version and the [practice questions](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn-practice/) to test yourself.
 
+## Frequently asked questions
+
+**What is a sample space in probability?**
+A sample space is the complete list of possible outcomes, shown in a list, table or grid. When the outcomes are equally likely, the probability is the number of favourable outcomes divided by the total number of outcomes.
+
+**How do you list outcomes systematically?**
+Choose a fixed pattern, such as alphabetical or numerical order, hold the first item fixed while varying the rest, then change the first item. This makes missing or repeated items easy to spot.
+
+**How many cells are there in a sample space for two spinners?**
+Multiply the number of sections on one spinner by the number on the other. Two six-sided dice give 6 × 6 = 36 cells, not 6 + 6 = 12.
+
+**When should you use a Venn diagram or two-way table instead of a grid?**
+A grid suits two stages with equally likely outcomes. When a question gives group sizes and overlaps, a Venn diagram or two-way table is usually the better choice.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), first assessment 2017, published by OCR.

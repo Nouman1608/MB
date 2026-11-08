@@ -154,6 +154,20 @@ These questions cover sections 6.06a and 6.06b (sequences) of the OCR GCSE (9-1)
 - A [free 10-minute diagnostic](/diagnostics/) will show your weakest topics.
 - [Book a free trial class](/trial/) if you want a teacher to go through your answers.
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these sequences questions cover?**
+They cover sections 6.06a and 6.06b of OCR GCSE (9-1) Mathematics J560: term-to-term rules, nth terms, special sequences and quadratic sequences. Subscript notation, the nth term of a quadratic sequence and other sequences such as surds and fractions are Higher tier only.
+
+**How do you show that a number is not a term of a sequence?**
+Set the nth term formula equal to the number and solve for n. If n is not a positive whole number, the number is not a term, so say so rather than giving a decimal position.
+
+**What is the most common mistake when finding a linear nth term?**
+Using the common difference as the constant instead of the number in front of n, so 6n − 5 becomes n − 5. The common difference d multiplies n, and the constant is the first term minus d.
+
+**What does xₙ₊₁ mean in a sequence?**
+xₙ₊₁ is the term after xₙ, so xₙ₊₁ = 2xₙ − 7 is a term-to-term rule. It is not the same as xₙ + 1, which is one more than the current term.
+
 ## Official syllabus
 
 Source: OCR, GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), section 6.06 Sequences (6.06a and 6.06b).

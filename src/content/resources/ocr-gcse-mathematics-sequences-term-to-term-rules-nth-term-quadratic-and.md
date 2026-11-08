@@ -343,6 +343,20 @@ Check: n = 4 gives 4/9. Treat the top and bottom as two separate sequences. For 
 - Subtracting the n² terms wrongly when a is negative: the remainder is sequence minus an².
 - Mixing up xₙ₊₁ (the next term) with xₙ + 1 (one more than this term).
 
+## Frequently asked questions
+
+**What is the difference between a term-to-term rule and a position-to-term rule?**
+A term-to-term rule builds each term from the one before and needs a first term. A position-to-term rule, the nth term, gives any term directly from its position.
+
+**What is a geometric progression?**
+A geometric progression multiplies by the same number, the common ratio r, each time. Find r by dividing any term by the term before it; terms shrink if r is between 0 and 1 and grow if r is more than 1.
+
+**How do you find the first two terms of a Fibonacci-type sequence?**
+Call the first two terms a and b, so the next terms are a + b, a + 2b, 2a + 3b and so on. Use the given terms to form two equations and solve them simultaneously.
+
+**Why does a quadratic sequence not have a constant first difference?**
+Because the nth term contains n², the gap between terms changes each time. The second differences are constant instead, and they equal twice the coefficient of n².
+
 ## Official syllabus
 
 Source: OCR, GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), section 6.06 Sequences (6.06a and 6.06b).

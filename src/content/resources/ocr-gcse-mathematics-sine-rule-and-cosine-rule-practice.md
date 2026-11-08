@@ -136,6 +136,20 @@ Learn the methods first in the [study guide](/resources/ocr-gcse-mathematics-sin
 - Try all free 10-minute [diagnostics](/diagnostics/) to find the next topic to work on.
 - [Book a free trial class](/trial/) if you want help from a teacher.
 
+## Frequently asked questions
+
+**Is the sine rule on the OCR GCSE Maths Foundation tier?**
+No. The sine rule (10.05d), the cosine rule (10.05e) and the area formula ½ab sin C (10.03a) are Higher tier only in OCR GCSE (9-1) Mathematics J560, so every question in this set is Higher tier only.
+
+**What is the most common mistake with the cosine rule?**
+Multiplying (b² + c² − 2bc) by cos A instead of subtracting 2bc cos A as one term. Work out 2bc cos A as a single signed number first, then subtract it from b² + c².
+
+**How should you set out a bearings problem with the sine or cosine rule?**
+Draw north lines at each point, mark the bearings, and work out the interior angle of the triangle before using a rule. Mixing up the interior angle with a bearing is a common way to lose marks.
+
+**Why should you keep unrounded values between parts of a question?**
+Rounding a length or angle from one part and then using it in the next can change the final answer. Keep the full calculator value and round once at the end.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections 10.05d, 10.05e and 10.03a. All questions are Higher tier only.
