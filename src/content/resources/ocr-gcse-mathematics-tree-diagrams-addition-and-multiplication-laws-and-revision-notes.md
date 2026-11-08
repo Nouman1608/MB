@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "probability-ocr-gcse-maths"
     subtopic: "combined-events-and-probability-diagrams-ocr-gcse-maths"
-description: "Condensed revision notes on tree diagrams, the addition and multiplication laws and conditional probability for OCR GCSE (9-1) Mathematics."
+description: "Condensed revision notes on tree diagrams, the addition and multiplication laws and conditional probability for OCR GCSE (9-1) Mathematics (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

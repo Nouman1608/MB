@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s2-statistics-2-edexcel-alevel-maths"
     subtopic: "s2-continuous-distributions-edexcel-alevel-maths"
-description: "Study guide to the continuous uniform distribution and Normal approximations with continuity correction for Edexcel IAL Mathematics S2."
+description: "Study guide to the continuous uniform distribution and Normal approximations with continuity correction for Edexcel IAL Mathematics S2 (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

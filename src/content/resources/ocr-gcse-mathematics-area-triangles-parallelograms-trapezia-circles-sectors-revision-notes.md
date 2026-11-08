@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "mensuration-ocr-gcse-maths"
     subtopic: "area-calculations-ocr-gcse-maths"
-description: "Condensed revision notes on area for OCR GCSE Mathematics J560: formulas, method steps, a self-test with answers and the usual lost marks."
+description: "Condensed exam revision notes on area for OCR GCSE Mathematics J560: formulas, method steps, a self-test with answers and the usual lost marks."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

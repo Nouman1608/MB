@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "exponentials-and-logarithms-ocr-alevel-maths"
-description: "Condensed revision notes on a^x, e^x, the gradient of e^kx, log_a x and ln x for OCR A Level Mathematics A (H240), with a quick self-test."
+description: "Condensed exam revision notes on a^x, e^x, the gradient of e^kx, log_a x and ln x for OCR A Level Mathematics A (H240), with a quick self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

@@ -120,7 +120,7 @@ Use unrounded values from part (a) in the later parts.
 
 **10. (a)** μ = np = 60 [1]. σ² = npq = 150 × 0.4 × 0.6 = 36, so the model is **N(60, 36)** [1] **[2]**
 **(b)** σ = 6, so μ ± 2σ gives **48 to 72** [1] **[1]**
-**(c)** n is large and p is not close to 0 or 1, so the binomial distribution is roughly symmetrical and bell-shaped [1]. The normal variable is continuous, so P(X = 60) = 0, whereas the binomial has positive probability at 60. A continuity correction treats "X = 60" as the interval 59.5 to 60.5 [1] **[2]**
+**(c)** n is large and p is not close to 0 or 1, so the binomial distribution is roughly symmetrical and bell-shaped [1]. The normal variable is continuous, so P(X = 60) = 0, whereas the binomial has positive probability at 60. So P(X = 60) should be found from the binomial distribution itself (with a calculator), not from the normal model; H240 excludes questions that require calculations using the normal approximation to the binomial [1] **[2]**
 *Examiner insight:* Give two linked ideas, one about why the shape suits a normal curve and one about discrete against continuous. Do not just restate the formulae.
 
 **11. (a)** P(X < 245) = 0.03 gives z = −1.8808, so 245 = μ − 1.8808σ [1]. P(X < 262) = 0.92 gives z = 1.4051, so 262 = μ + 1.4051σ [1]. Subtract: 17 = 3.2859σ, so σ = **5.17** [1]. μ = 245 + 1.8808 × 5.1737 = **255** (254.7) [1] **[4]**

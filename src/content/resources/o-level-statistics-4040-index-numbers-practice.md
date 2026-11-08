@@ -26,7 +26,9 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs. Use them alongside the official past papers from Cambridge.
 
-Study the method first: [index numbers study guide](/resources/o-level-statistics-4040-index-numbers/).
+Index numbers measure how a price or cost has changed relative to a base year, where the base value is 100. Cambridge O Level Statistics 4040 (Topic 8) and IGCSE Statistics 0479 (Topic 10) expect you to calculate price relatives and weighted aggregate indices, use them to find prices, and explain their limitations.
+
+Study the method first: [index numbers study guide](/resources/o-level-statistics-4040-index-numbers/). Related: [index numbers revision notes](/resources/o-level-statistics-4040-index-numbers-revision-notes/).
 
 ---
 
@@ -148,8 +150,9 @@ change must be found relative to the 2024 value of 108.0, not 100 [1].
 **8.** (a) 35 × 118 + 30 × 106 + 25 × 124 + 10 × 110 = 4 130 + 3 180 + 3 100 + 1 100
 = 11 510 [1]; 11 510 ÷ 100 = **115.1** [1].
 
-(b) Transport, whose price relative (124) is above the old index (114.5), now carries
-more weight, and food (118) carries less, so the index rises [1]. The weights changed
+(b) Ten points of weight have moved from food (price relative 118) to transport
+(price relative 124, the highest), so items with a larger price rise now count for
+more and the index rises [1]. The weights changed
 because households changed their consumption, spending a larger share of their
 budget on transport [1].
 
@@ -167,6 +170,20 @@ budget on transport [1].
   by 100 instead of by the 2024 index.
 - In Question 5, writing general limitations ("weights change") without saying
   which weight and why.
+
+## Frequently asked questions
+
+**What is a price relative?**
+A price relative is the current price divided by the base-year price, multiplied by 100. A price relative of 115 means the price is 15% higher than in the base year; 84 means it is 16% lower.
+
+**How do you calculate a weighted aggregate index?**
+Multiply each item's price relative by its weight, add the products, and divide by the sum of the weights. Weights are often given, or found from base-year expenditure (price times quantity).
+
+**Why is a change of 6.5 index points not a 6.5% rise?**
+Index points are measured against the base year's value of 100. To find the percentage change between two later years, divide the change in points by the earlier year's index, not by 100.
+
+**What are the limitations of a weighted index?**
+The weights reflect spending in one year and can go out of date as buying habits change, and items that become important (such as a substitute product) may not be in the index at all.
 
 ## Next steps
 

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-ocr-gcse-maths"
     subtopic: "algebraic-expressions-ocr-gcse-maths"
-description: "Study guide for OCR GCSE Maths J560 content 6.01e-6.01g: factorising, completing the square and algebraic fractions, with worked examples."
+description: "Detailed study guide for OCR GCSE Maths J560 content 6.01e-6.01g: factorising, completing the square and algebraic fractions, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

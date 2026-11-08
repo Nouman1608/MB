@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "formation-of-cumulative-frequency-distributions-4040"
     subtopic: "cumulative-frequency-graphical-form-4040"
-description: "Original practice questions with worked answers on cumulative frequency tables, curves and polygons for Cambridge O Level Statistics."
+description: "Original practice questions with worked answers on cumulative frequency tables, curves and polygons for Cambridge O Level Statistics (4040)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

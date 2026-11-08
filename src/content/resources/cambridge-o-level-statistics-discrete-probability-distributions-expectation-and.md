@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "probability-distributions-4040"
     subtopic: "expectation-4040"
-description: "Study guide to forming a discrete probability distribution, finding expectation and judging fair games, for Cambridge O Level Statistics."
+description: "Study guide to forming a discrete probability distribution, finding expectation and judging fair games, for Cambridge O Level Statistics (4040)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

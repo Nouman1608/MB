@@ -26,7 +26,9 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs. Use them alongside the official past papers from Cambridge.
 
-Study the method first: [crude and standardised rates study guide](/resources/o-level-statistics-4040-crude-and-standardised-rates/).
+A crude rate is the number of events (such as births or deaths) per thousand of the whole population; a standardised rate applies a region's age-specific rates to a standard population so that regions with different age structures can be compared fairly. This is Topic 7 of Cambridge O Level Statistics 4040 and Topic 9 of IGCSE Statistics 0479.
+
+Study the method first: [crude and standardised rates study guide](/resources/o-level-statistics-4040-crude-and-standardised-rates/). Related: [crude and standardised rates revision notes](/resources/o-level-statistics-4040-crude-and-standardised-rates-revision-notes/).
 Give every rate **per thousand** unless a question says otherwise.
 
 ---
@@ -171,6 +173,20 @@ rates, weighted by population [1].
 - Averaging two regions' rates without weighting by population, as in 8(c).
 - In Question 7, dividing births by the whole population: a fertility rate uses
   only the group named in its definition.
+
+## Frequently asked questions
+
+**How do you calculate a crude death rate?**
+Divide the total number of deaths by the total population and multiply by 1000. The answer is a rate per thousand of the population.
+
+**How do you calculate a standardised death rate?**
+Find the death rate for each age group, multiply each by the standard population in that group, add the products and divide by the total standard population. The result is per thousand.
+
+**Why can crude and standardised rates give different conclusions?**
+Death rates depend strongly on age. A region with many older people can have a high crude rate even when its rate in every age group is lower, and standardising removes that effect of age structure.
+
+**Can you average two regions' crude rates to get an overall rate?**
+Only if the regions have equal populations. Otherwise the overall rate is a weighted average: find the total number of events and divide by the total population.
 
 ## Next steps
 

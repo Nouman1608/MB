@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "statistics-and-probability-oxfordaqa-igcse-maths"
     subtopic: "interpretation-oxfordaqa-igcse-maths"
-description: "Study guide to reading graphs, comparing distributions, correlation and lines of best fit by eye, for OxfordAQA International GCSE Maths."
+description: "Study guide to reading graphs, comparing distributions, correlation and lines of best fit by eye, for OxfordAQA International GCSE Maths (9260)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

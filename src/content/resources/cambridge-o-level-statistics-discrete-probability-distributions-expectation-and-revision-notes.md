@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "probability-distributions-4040"
     subtopic: "expectation-4040"
-description: "Condensed revision notes on probability distributions, expectation, expected gain and fair games for Cambridge O Level Statistics."
+description: "Condensed exam revision notes on probability distributions, expectation, expected gain and fair games for Cambridge O Level Statistics (4040)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

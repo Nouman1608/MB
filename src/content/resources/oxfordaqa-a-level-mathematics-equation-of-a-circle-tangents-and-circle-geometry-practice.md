@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-psm1-pp1-pure-maths-oxfordaqa-alevel-maths"
     subtopic: "pp1-circle-oxfordaqa-alevel-maths"
-description: "Eleven original practice questions with worked answers on circle equations, translations, chords, tangents and normals for OxfordAQA 9660."
+description: "Eleven original practice questions with fully worked answers on circle equations, translations, chords, tangents and normals for OxfordAQA 9660."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-aqa-gcse-maths"
-description: "Original exam-style practice questions with full worked answers on notation and manipulation, graphs, solving equations and inequalities, and sequences for AQA GCSE Mathematics (8300), Topic 2 Algebra."
+description: "AQA GCSE Maths 8300 algebra practice with full worked answers on manipulation, graphs, equations, inequalities, functions and sequences, Higher parts marked."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
+reviewNote: "2026-11-08 recheck: added intro naming 8300 A1-A25, questions on expanding, linear equations and functions (Higher A7), and FAQ; fixed a garbled rounding note in Q7 and an unsupported claim about the specification in the technique section. Please re-review."
+reviewNeeded: true
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -28,6 +30,8 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Algebra study guide](/resources/aqa-gcse-mathematics-algebra/) | [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-notes/)
+
+AQA GCSE Mathematics (8300) Algebra covers notation and manipulation, graphs, solving equations and inequalities, and sequences (specification references A1 to A25). These questions sample each strand, with full mark-scheme style answers.
 
 **Tier guide:** questions marked **(Higher)** use content in the Higher content only column of the AQA 8300 specification; all other questions use Foundation content and suit both tiers.
 
@@ -61,6 +65,15 @@ Related: [Algebra study guide](/resources/aqa-gcse-mathematics-algebra/) | [Alge
 **10.** (a) Find the nth term of the sequence 4, 7, 10, 13, ... **[2]**
 **(b)** **(Higher, A25)** Find the nth term of the sequence 2, 5, 10, 17, 26, ..., showing your method. **[4]**
 
+**11.** Expand and simplify (x + 3)(x − 5). **[2]**
+
+**12.** Solve 4(2x − 1) = 3x + 11. **[3]**
+
+**13.** **(Higher, A7)** f(x) = 3x − 2.
+
+**(a)** Find f(4). **[1]**
+**(b)** Find f⁻¹(x). **[2]**
+
 ---
 
 ## Answers
@@ -77,13 +90,20 @@ Related: [Algebra study guide](/resources/aqa-gcse-mathematics-algebra/) | [Alge
 
 **6.** x² + 2x − 15 = 0 → (x + 5)(x − 3) = 0 [1] [1] → **x = −5 or x = 3** [1].
 
-**7.** Using x = (−b ± √(b² − 4ac)) / 2a with a = 2, b = −3, c = −4: x = (3 ± √(9 + 32)) / 4 = (3 ± √41) / 4 [1] [1]. This gives **x = 2.35** (3 s.f. rounded to 2 d.p.) **or x = −0.85** (2 d.p.) [1] [1].
+**7.** Using x = (−b ± √(b² − 4ac)) / 2a with a = 2, b = −3, c = −4: x = (3 ± √(9 + 32)) / 4 = (3 ± √41) / 4 [1] [1]. √41 = 6.403…, so x = 9.403… ÷ 4 = **2.35** or x = −3.403… ÷ 4 = **−0.85** (2 d.p.) [1] [1].
 
 **8.** Substituting y = x + 2 into y = x² − 4: x + 2 = x² − 4 [1] → 0 = x² − x − 6 [1] → 0 = (x − 3)(x + 2) [1] → **x = 3 or x = −2** [1]. Substituting back: x = 3 gives y = 5; x = −2 gives y = 0, so the **solutions are (3, 5) and (−2, 0)** [1].
 
 **9.** 3x − 4 ≤ 11 → 3x ≤ 15 [1] → **x ≤ 5** [1]. On a number line: a filled circle at 5, with the line shaded to the left, indicating all values equal to or less than 5 [1].
 
 **10. (a)** The common difference is 3, so the coefficient of n is 3: 3n gives 3, 6, 9, 12, each 1 less than the sequence, so the **nth term is 3n + 1** [1] [1]. **(b)** First differences: 3, 5, 7, 9 (not constant) [1]; second differences: 2, 2, 2 (constant, so quadratic) [1]. Coefficient of n² = 2 ÷ 2 = 1, so compare n² (1, 4, 9, 16, 25) to the sequence (2, 5, 10, 17, 26): the difference is always +1 [1], so the **nth term is n² + 1** [1].
+
+**11.** x² − 5x + 3x − 15 [1] = **x² − 2x − 15** [1].
+
+**12.** 8x − 4 = 3x + 11 [1]; 5x = 15 [1]; **x = 3** [1].
+
+**13. (a)** f(4) = 12 − 2 = **10** [1].
+**(b)** y = 3x − 2 → swap: x = 3y − 2 [1] → **f⁻¹(x) = (x + 2)/3** [1].
 
 ---
 
@@ -97,4 +117,15 @@ Related: [Algebra study guide](/resources/aqa-gcse-mathematics-algebra/) | [Alge
 
 ## Approaching algebra questions
 
-Treat notation and manipulation fluency as the prerequisite skill for every other part of this topic: an error collecting like terms or expanding brackets early in a multi-step question propagates into every later line, so it is worth double-checking simplification steps even in questions that are primarily about equations, graphs or sequences. For any straight-line graph question, always rearrange the given equation into y = mx + c form before reading off the gradient or intercept, since the specification deliberately tests this rearrangement rather than allowing the gradient to be read directly from an unrearranged equation. For quadratic sequences, always find the second differences first and use them to identify the n² coefficient before attempting to match the remaining linear part by comparison — this structured method is reliable in a way that spotting the pattern directly usually is not under exam time pressure.
+Treat notation and manipulation fluency as the prerequisite skill for every other part of this topic: an error collecting like terms or expanding brackets early in a multi-step question propagates into every later line, so it is worth double-checking simplification steps even in questions that are primarily about equations, graphs or sequences. For any straight-line graph question, always rearrange the given equation into y = mx + c form before reading off the gradient or intercept, because the coefficient of x is only the gradient once y is the subject. For quadratic sequences, always find the second differences first and use them to identify the n² coefficient before attempting to match the remaining linear part by comparison — this structured method is reliable in a way that spotting the pattern directly usually is not under exam time pressure.
+
+## Frequently asked questions
+
+**Is the quadratic formula on AQA GCSE Foundation?**
+No. Solving quadratics by factorising is on both tiers, but completing the square and the quadratic formula are Higher-tier content in 8300 (reference A18).
+
+**How do I find the gradient from an equation like 3y = 6x − 9?**
+Rearrange into y = mx + c first: y = 2x − 3, so the gradient is 2 and the y-intercept is −3.
+
+**How do I find the nth term of a quadratic sequence?**
+Find the second difference and halve it for the n² coefficient, subtract that n² term from the sequence, and find the nth term of what is left (Higher, A25).

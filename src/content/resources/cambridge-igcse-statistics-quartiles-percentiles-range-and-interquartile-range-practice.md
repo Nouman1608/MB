@@ -13,7 +13,7 @@ order: 29
 syllabusTopics:
   - qualification: "igcse"
     topic: "quartiles-percentiles-and-measures-of-dispersion-0479"
-description: "Twelve original practice questions with worked answers on quartiles, percentiles, range and IQR, for Cambridge IGCSE Statistics 0479."
+description: "Twelve original practice questions with fully worked answers on quartiles, percentiles, range and interquartile range, for Cambridge IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

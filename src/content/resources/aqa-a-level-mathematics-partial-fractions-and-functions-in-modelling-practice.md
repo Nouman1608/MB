@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b11-functions-in-modelling-aqa-alevel-maths"
-description: "Original practice questions with worked answers on partial fractions and functions in modelling for AQA A-level Mathematics B10 and B11."
+description: "Original practice questions with worked answers on partial fractions and functions in modelling for AQA A-level Mathematics B10 and B11 (7357)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

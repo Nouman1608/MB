@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "mensuration-cambridge-igcse-maths"
     subtopic: "surface-area-and-volume-cambridge-igcse-maths"
-description: "Cambridge IGCSE Maths 0580 subtopic 5.4 study guide: surface area and volume of cuboids, prisms, cylinders, spheres, pyramids and cones."
+description: "Cambridge IGCSE Maths 0580 subtopic 5.4 study guide: surface area and volume of cuboids, prisms, cylinders, spheres, pyramids and cones, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

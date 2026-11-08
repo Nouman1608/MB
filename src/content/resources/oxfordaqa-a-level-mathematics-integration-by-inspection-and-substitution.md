@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p2-pure-maths-oxfordaqa-alevel-maths"
     subtopic: "p2-integration-oxfordaqa-alevel-maths"
-description: "Study guide to P2.7 integration by inspection and substitution for OxfordAQA International A-level Mathematics 9660, with worked examples."
+description: "Detailed study guide to P2.7 integration by inspection and substitution for OxfordAQA International A-level Mathematics 9660, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "indices-and-surds-ocr-gcse-maths"
     subtopic: "standard-form-ocr-gcse-maths"
-description: "Condensed recall notes on powers, roots, index laws and standard form for OCR GCSE (9-1) Mathematics, with a ten-question self-test."
+description: "Condensed exam recall notes on powers, roots, index laws and standard form for OCR GCSE (9-1) Mathematics, with a ten-question self-test (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

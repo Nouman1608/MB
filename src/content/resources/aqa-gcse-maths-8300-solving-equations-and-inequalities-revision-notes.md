@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-aqa-gcse-maths"
     subtopic: "solving-equations-and-inequalities-aqa-gcse-maths"
-description: "Condensed AQA GCSE Maths 8300 revision notes on solving equations and inequalities (A17-A22), with method steps, a self-test and answers."
+description: "Condensed AQA GCSE Maths 8300 revision notes on solving equations and inequalities (A17-A22), with method steps, a self-test and full answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

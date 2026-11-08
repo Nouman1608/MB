@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "algebraic-manipulation-edexcel-igcse-maths"
-description: "Twelve original 4MA1 questions on indices, substitution, brackets, factorising, algebraic fractions and proof, with mark-by-mark answers."
+description: "Twelve original 4MA1 practice questions on indices, substitution, brackets, factorising, algebraic fractions and proof, with mark-by-mark answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

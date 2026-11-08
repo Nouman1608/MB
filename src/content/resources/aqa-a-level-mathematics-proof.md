@@ -13,7 +13,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-proof-aqa-alevel-maths"
-description: "Study guide to AQA A-level Maths section A: Proof -- deduction, exhaustion, counter-examples and contradiction, with fully worked proofs."
+description: "Study guide to AQA A-level Maths section A: Proof -- deduction, exhaustion, counter-examples and contradiction, with fully worked proofs (7357)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false

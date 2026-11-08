@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
     subtopic: "powers-and-roots-edexcel-igcse-maths"
-description: "Study guide for Edexcel IGCSE Maths A 4MA1 sections 1.1 and 1.4: integers, primes, HCF and LCM, index laws, surds and fractional powers."
+description: "Detailed study guide for Edexcel IGCSE Maths A 4MA1 sections 1.1 and 1.4: integers, primes, HCF and LCM, index laws, surds and fractional powers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

@@ -13,7 +13,7 @@ order: 522
 syllabusTopics:
   - qualification: "o-level"
     topic: "mensuration"
-description: "Condensed formulas, methods, a quick self-test and common slips for Mensuration in Cambridge O Level Mathematics 4024, sections 5.1 to 5.5."
+description: "Condensed formulas, methods, a quick self-test and common slips for Mensuration in Cambridge O Level Mathematics 4024, syllabus sections 5.1 to 5.5."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
 featured: false

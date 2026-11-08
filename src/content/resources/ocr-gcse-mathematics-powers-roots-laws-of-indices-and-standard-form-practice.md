@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "indices-and-surds-ocr-gcse-maths"
     subtopic: "standard-form-ocr-gcse-maths"
-description: "Twelve original practice questions with worked answers on powers, roots, index laws and standard form for OCR GCSE (9-1) Mathematics."
+description: "Twelve original practice questions with worked answers on powers, roots, index laws and standard form for OCR GCSE (9-1) Mathematics (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

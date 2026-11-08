@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s2-statistics-oxfordaqa-alevel-maths"
     subtopic: "s2-normal-distribution-oxfordaqa-alevel-maths"
-description: "Eleven original practice questions with worked answers on the normal distribution for OxfordAQA International A-level Mathematics."
+description: "Eleven original practice questions with fully worked answers on the normal distribution for OxfordAQA International A-level Mathematics (9660)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

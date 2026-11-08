@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-oxfordaqa-igcse-maths"
     subtopic: "ratio-and-proportion-oxfordaqa-igcse-maths"
-description: "Worked study guide to ratio, rates of pay, best buys and direct and inverse proportion for OxfordAQA International GCSE Mathematics."
+description: "Worked study guide to ratio, rates of pay, best buys and direct and inverse proportion for OxfordAQA International GCSE Mathematics (9260), with examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "algebra-and-functions-ocr-alevel-maths"
-description: "Twelve original practice questions with worked answers on OCR A Level Mathematics A H240 sections 1.02a-1.02i, from indices to regions."
+description: "Twelve original practice questions with fully worked answers on OCR A Level Mathematics A H240 sections 1.02a-1.02i, from indices to regions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

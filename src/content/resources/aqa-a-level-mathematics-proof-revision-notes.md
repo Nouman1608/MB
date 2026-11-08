@@ -13,7 +13,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-proof-aqa-alevel-maths"
-description: "Condensed AQA A-level Maths proof notes: method steps, algebraic forms, the √2 and primes proofs, key distinctions and a quick self-test."
+description: "Condensed AQA A-level Maths proof notes: method steps, algebraic forms, the √2 and primes proofs, key distinctions and a quick self-test (7357)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false

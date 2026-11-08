@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
     subtopic: "p1-differentiation-oxfordaqa-alevel-maths"
-description: "Condensed revision notes on OxfordAQA 9660 P1.3 differentiation: rules, tangents, normals, stationary points, optimisation and a self-test."
+description: "Condensed exam revision notes on OxfordAQA 9660 P1.3 differentiation: rules, tangents, normals, stationary points, optimisation and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

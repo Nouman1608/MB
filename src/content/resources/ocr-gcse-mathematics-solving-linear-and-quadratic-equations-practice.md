@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-ocr-gcse-maths"
     subtopic: "algebraic-equations-ocr-gcse-maths"
-description: "Twelve original practice questions with worked answers on solving linear and quadratic equations for OCR GCSE (9-1) Mathematics J560."
+description: "Twelve original practice questions with fully worked answers on solving linear and quadratic equations for OCR GCSE (9-1) Maths J560, Foundation and Higher."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

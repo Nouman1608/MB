@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "formation-of-data-into-frequency-distributions-4040"
     subtopic: "frequency-polygons-and-histograms-4040"
-description: "Original practice questions with worked answers on frequency polygons, histograms and frequency density for Cambridge O Level Statistics."
+description: "Original practice questions with worked answers on frequency polygons, histograms and frequency density for Cambridge O Level Statistics (4040)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

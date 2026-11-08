@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "sequences-and-series-ocr-alevel-maths"
-description: "Original practice questions with worked answers on the binomial expansion, validity and partial fractions for OCR A Level Mathematics A."
+description: "Original practice questions with worked answers on the binomial expansion, validity and partial fractions for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

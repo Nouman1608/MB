@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "sequences-and-series-ocr-alevel-maths"
-description: "Study guide to sequences, sigma notation, arithmetic and geometric series, sums to infinity and modelling for OCR A Level Mathematics A."
+description: "Study guide to sequences, sigma notation, arithmetic and geometric series, sums to infinity and modelling for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

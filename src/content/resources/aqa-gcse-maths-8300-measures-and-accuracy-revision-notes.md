@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "number-aqa-gcse-maths"
     subtopic: "measures-and-accuracy-aqa-gcse-maths"
-description: "Condensed AQA GCSE Maths 8300 revision notes on N13-N16: conversion factors, estimation, rounding, error intervals, bounds and a self-test."
+description: "Condensed AQA GCSE Maths 8300 revision notes on N13-N16: conversion factors, estimation, rounding, error intervals, bounds and a short self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

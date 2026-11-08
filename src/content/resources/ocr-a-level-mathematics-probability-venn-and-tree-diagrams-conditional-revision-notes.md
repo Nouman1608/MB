@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "statistics-ocr-alevel-maths"
     subtopic: "probability-ocr-alevel-maths"
-description: "Condensed revision notes for OCR A Level Maths A (H240) probability: formulae, method steps, self-test and common slips for 2.03a to 2.03e."
+description: "Condensed exam revision notes for OCR A Level Maths A (H240) probability: formulae, method steps, self-test and common slips for 2.03a to 2.03e."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

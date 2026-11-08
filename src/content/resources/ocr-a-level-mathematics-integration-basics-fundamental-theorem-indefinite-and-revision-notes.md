@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "integration-ocr-alevel-maths"
-description: "Condensed revision notes on standard integrals, definite integrals and areas for OCR A Level Mathematics A (H240), with a quick self-test."
+description: "Condensed exam revision notes on standard integrals, definite integrals and areas for OCR A Level Mathematics A (H240), with a quick self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

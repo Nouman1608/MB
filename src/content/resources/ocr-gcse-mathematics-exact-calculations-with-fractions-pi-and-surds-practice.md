@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "indices-and-surds-ocr-gcse-maths"
     subtopic: "exact-calculations-ocr-gcse-maths"
-description: "Original practice questions with worked answers on exact fractions, multiples of pi and Higher tier surds for OCR GCSE Mathematics."
+description: "Original exam-style practice questions with worked answers on exact fractions, multiples of pi and Higher tier surds for OCR GCSE Mathematics (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

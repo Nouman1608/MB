@@ -13,19 +13,23 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
     subtopic: "p1-coordinate-geometry-edexcel-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on algebra, quadratics, differentiation, integration and coordinate geometry."
+description: "Edexcel IAL Maths P1 (WMA11) practice with worked answers: quadratics, coordinate geometry, surds, trigonometry, differentiation and integration of powers of x."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: added intro naming IAL unit P1 (WMA11), split the sector-question marks into method and answer marks, two questions (linear-quadratic simultaneous equations; integrating a root term) and FAQ; rewrote description. Please re-review."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+Pure Mathematics 1 (unit WMA11) is the first unit of Pearson Edexcel International Advanced Level Mathematics (YMA01). It covers algebra and functions, coordinate geometry in the (x, y) plane, trigonometry (including radians and the sine and cosine rules), and differentiation and integration of powers of x. The questions below sample every one of those areas.
 
 Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/)
 
@@ -60,6 +64,10 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 
 **11.** State the derivative of f(x) from first principles, using limit notation. **[2]**
 
+**12.** Solve the simultaneous equations y = 2x − 3 and x² + xy = 6. **[5]**
+
+**13.** Find ∫(4x³ − 3√x + 2) dx. **[3]**
+
 ---
 
 ## Answers
@@ -77,7 +85,7 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 
 **6.** Integrating term by term: y = 2x³ [1] − 2x² + x + c [1]. Substituting the point (1, 3): 2 − 2 + 1 + c = 3 [1], so c = 2, giving **y = 2x³ − 2x² + x + 2** [1].
 
-**7. (a)** Arc length s = rθ = 8 × 1.2 = **9.6 cm** [2]. **(b)** Area of sector A = ½r²θ = ½ × 64 × 1.2 = **38.4 cm²** [3].
+**7. (a)** Arc length s = rθ [1] = 8 × 1.2 = **9.6 cm** [1]. **(b)** Area of sector A = ½r²θ [1] = ½ × 64 × 1.2 [1] = **38.4 cm²** [1].
 
 **8.** Multiply by the conjugate: 5/(3 + √2) × (3 − √2)/(3 − √2) [1] = 5(3 − √2) ÷ (9 − 2) [1] = **(15 − 5√2)/7** [1].
 
@@ -86,6 +94,12 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 **10.** sin B / b = sin A / a, so sin B = (12 × sin 30°) ÷ 8 = 6 ÷ 8 = 0.75 [1]. B = sin⁻¹(0.75) = **48.6°** [1] or the ambiguous-case alternative B = 180° − 48.6° = **131.4°** [1]. Both are valid since A + B stays below 180° in each case (30 + 48.6 and 30 + 131.4 are both under 180°) [1].
 
 **11.** f′(x) = lim(h→0) [f(x + h) − f(x)] / h [2].
+
+**12.** Substitute y = 2x − 3: x² + x(2x − 3) = 6 [1] → 3x² − 3x − 6 = 0 → x² − x − 2 = 0 [1]
+(x − 2)(x + 1) = 0, so x = 2 or x = −1 [1]
+y = 1 or y = −5 [1], giving **(2, 1) and (−1, −5)** [1].
+
+**13.** Write √x as x^(1/2) [1]: ∫4x³ dx = x⁴, ∫3x^(1/2) dx = 3 × (2/3)x^(3/2) = 2x^(3/2) [1], so the integral is **x⁴ − 2x^(3/2) + 2x + c** [1].
 
 ---
 
@@ -98,3 +112,14 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 - Missing the second, obtuse solution in an ambiguous-case sine rule question.
 - Mixing degree and radian mode when using the arc-length or sector-area formulas.
 - Writing the first-principles derivative without the limit notation.
+
+## Frequently asked questions
+
+**What does Edexcel IAL P1 cover?**
+Unit P1 (WMA11) covers algebra and functions, coordinate geometry of straight lines, trigonometry including radians and the sine and cosine rules, and differentiation and integration of xⁿ. Later units P2 to P4 build on it.
+
+**When does the sine rule give two answers?**
+When you are finding an angle opposite a side and the known angle is opposite the shorter given side. Both B and 180° − B are possible if each leaves room for the third angle, as in Question 10.
+
+**Why must √x be rewritten before integrating?**
+The rule ∫xⁿ dx = xⁿ⁺¹/(n + 1) + c needs a power of x, so write √x as x^(1/2) and 1/x² as x⁻² first.

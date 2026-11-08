@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-and-measures-oxfordaqa-igcse-maths"
     subtopic: "mensuration-and-calculation-oxfordaqa-igcse-maths"
-description: "Study guide to the sine rule, cosine rule and area of a triangle for OxfordAQA International GCSE Mathematics, with fully worked examples."
+description: "Study guide to the sine rule, cosine rule and area of a triangle for OxfordAQA International GCSE Mathematics, with fully worked examples (9260)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

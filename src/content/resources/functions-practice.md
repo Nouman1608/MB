@@ -13,19 +13,23 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "functions"
-description: "Original exam-style practice questions with full worked answers on function notation, composite and inverse functions, domain and range."
+description: "Cambridge O Level Mathematics 4024 practice questions on functions: notation, domain and range, inverse and composite functions, with full worked answers."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopic 2.12, Section C (composite function as a simplified fraction, solving h(x) = k, inverse equation) and FAQ; rewrote description. Please re-review."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+Subtopic 2.12 of Cambridge O Level Mathematics (Syllabus D) 4024 asks you to use function notation, understand domain and range, find inverse functions f⁻¹(x) and form composite functions such as gf(x) = g(f(x)). The syllabus notes add that mapping diagrams may appear and that you are not expected to find the domains and ranges of composite functions.
 
 Related: [Functions revision notes](/resources/functions-revision-notes/)
 
@@ -70,6 +74,17 @@ Related: [Functions revision notes](/resources/functions-revision-notes/)
 
 **8.** Using a mapping diagram to explain your reasoning, distinguish a one-to-one function from a many-to-one function, and state which type has an inverse function without needing a restricted domain. **[3]**
 
+## Section C
+
+**9.** f(x) = 2/(x + 1) and g(x) = 3x − 1. Find fg(x), giving your answer as a fraction in its simplest form. **[2]**
+
+**10.** h(x) = 2x² + 3.
+
+**(a)** Find h(−2). **[1]**
+**(b)** Solve h(x) = 21. **[2]**
+
+**11.** f(x) = (5x − 1)/2. Find f⁻¹(x) and hence solve f⁻¹(x) = 4. **[3]**
+
 ---
 
 ## Answers
@@ -99,6 +114,13 @@ Related: [Functions revision notes](/resources/functions-revision-notes/)
 
 **8.** In a mapping diagram, a **one-to-one** function has exactly **one arrow arriving at each range value** [1]; a **many-to-one** function has **two or more arrows arriving at the same range value** [1] (for example, a quadratic maps both x = 2 and x = −2 to the same output, since (2)² = (−2)² = 4). Only a **one-to-one** function has an inverse that is itself a function without restricting the domain, since a many-to-one function's reverse mapping would send one input to more than one output, which an inverse function cannot do [1].
 
+**9.** fg(x) = f(3x − 1) = 2/((3x − 1) + 1) [1] = **2/(3x)** [1].
+
+**10. (a)** h(−2) = 2(4) + 3 = **11** [1].
+**(b)** 2x² + 3 = 21, so x² = 9 [1]; **x = 3 or x = −3** [1].
+
+**11.** y = (5x − 1)/2 → swap: x = (5y − 1)/2 → 2x + 1 = 5y, so **f⁻¹(x) = (2x + 1)/5** [1]. Then (2x + 1)/5 = 4 gives 2x + 1 = 20 [1], **x = 9.5** [1]. Check: f(4) = 19/2 = 9.5, which is consistent, since f⁻¹(9.5) = 4.
+
 ---
 
 ## Where marks are usually lost
@@ -109,5 +131,19 @@ Related: [Functions revision notes](/resources/functions-revision-notes/)
 - Not explaining why a domain restriction is needed for an inverse.
 - Forgetting to exclude values that make the expression under a square root negative, not just values that make a denominator zero.
 - Confusing one-to-one with many-to-one when explaining why a function does or does not have an inverse without a restricted domain.
+
+## Frequently asked questions
+
+**What does fg(x) mean in Cambridge O Level 4024?**
+fg(x) means f(g(x)): apply g first, then apply f to the result. The function written nearest to x acts first.
+
+**How do you find an inverse function?**
+Write y = f(x), swap x and y, and rearrange to make y the subject. The result is f⁻¹(x), whose graph is the reflection of y = f(x) in the line y = x.
+
+**Is f⁻¹(x) the same as 1/f(x)?**
+No. f⁻¹(x) undoes f, while 1/f(x) is the reciprocal of the output. For f(x) = 3x − 5, f⁻¹(x) = (x + 5)/3 but 1/f(x) = 1/(3x − 5).
+
+**Do I need to find the domain of a composite function?**
+No. The 4024 syllabus notes say candidates are not expected to find the domains and ranges of composite functions, but you should know the domain and range of a single function.
 
 Work through the [Functions revision notes](/resources/functions-revision-notes/) alongside these questions: the notes summarise domain, range and the composite/inverse function methods in condensed form, while these questions test whether you can apply the domain-restriction rules to a square-root function and reason about one-to-one versus many-to-one mappings, rather than just recall the definitions.

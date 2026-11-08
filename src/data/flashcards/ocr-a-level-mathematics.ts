@@ -199,7 +199,7 @@ export const DECK_OCR_A_LEVEL_MATHEMATICS: FlashcardDeck = {
       { n: 1, f: 'H₀ and H₁', b: 'H₀ always has "=". The direction of H₁ comes from the wording of the question, not the data.', src: HYP },
       { n: 2, f: 'Significance level and p-value', b: 'The level is chosen before; the p-value comes from the data.', src: HYP },
       { n: 3, f: 'Critical value and test statistic', b: 'The critical value is a boundary; the test statistic is the sample result.', src: HYP },
-      { n: 4, f: 'Type I and Type II', b: 'Type I is wrongly rejecting a true H₀. Type II is failing to reject a false H₀.', src: HYP },
+      { n: 4, f: 'Type I and Type II', b: 'Type I is wrongly rejecting a true H₀. Type II is failing to reject a false H₀. H240 itself only requires that the significance level is the probability of incorrectly rejecting H₀; Type II is extension.', src: HYP },
       { n: 5, f: 'σ and σ/√n', b: 'Use σ for individual values, σ/√n for sample means.', src: HYP },
       { n: 6, f: 'Binomial test: which tail probability is the p-value for H₁: p > p₀, p < p₀ and p ≠ p₀?', b: 'p > p₀: P(X ≥ x) = 1 − P(X ≤ x − 1).\np < p₀: P(X ≤ x).\np ≠ p₀: compare each tail with half the level (or double the smaller tail).' },
       { n: 7, f: 'Normal test for a mean: distribution under H₀ and test statistic', b: 'X̄ ~ N(μ₀, σ²/n), so z = (x̄ − μ₀)/(σ/√n).' },

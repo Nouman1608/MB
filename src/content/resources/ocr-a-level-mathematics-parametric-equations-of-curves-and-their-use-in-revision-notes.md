@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "coordinate-geometry-in-the-xy-plane-ocr-alevel-maths"
-description: "Condensed formulae, methods, a checked self-test and common slips on parametric curves and modelling for OCR A Level Mathematics A (H240)."
+description: "Condensed formulae, methods, a checked self-test and common slips on parametric curves and their use in modelling for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

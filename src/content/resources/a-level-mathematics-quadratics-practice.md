@@ -15,19 +15,23 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "quadratics-cambridge-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on completing the square, the discriminant and quadratic inequalities for Cambridge AS & A Level Mathematics 9709."
+description: "Cambridge 9709 Pure Mathematics 1 quadratics practice with worked answers: completing the square, discriminant, inequalities, hidden quadratics, line and curve."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: added intro naming 9709 Paper 1 topic 1.1, two questions (linear-quadratic simultaneous equations; completed square of an inverted parabola with inequality) and FAQ; rewrote description. Please re-review."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+Quadratics is topic 1.1 of Cambridge International AS & A Level Mathematics 9709 Paper 1 (Pure Mathematics 1). You must complete the square, use the discriminant, solve quadratic equations and inequalities, solve equations that are quadratic in some function of x, and solve a linear and a quadratic equation simultaneously, including deciding when a line meets, touches or misses a curve.
 
 Related: [Quadratics revision notes](/resources/a-level-mathematics-quadratics-revision-notes/)
 
@@ -64,6 +68,16 @@ Related: [Quadratics revision notes](/resources/a-level-mathematics-quadratics-r
 **8.** The line `y = kx − 1` intersects the curve `y = x² + 2x + 3` at two distinct points. Find the range of possible values of k. **[5]**
 
 **9.** The curve `y = x² + 4x + p` does not meet the x-axis at any point. Find the range of possible values of p. **[3]**
+
+**10.** Solve the simultaneous equations `x + 2y = 7` and `x² + y² = 10`. **[5]**
+
+**11.** A curve has equation `y = 5 − 4x − x²`.
+
+**(a)** Express `5 − 4x − x²` in the form `a − (x + b)²`. **[2]**
+
+**(b)** State the coordinates of the maximum point of the curve. **[1]**
+
+**(c)** Solve `5 − 4x − x² ≥ 0`. **[2]**
 
 ---
 
@@ -118,6 +132,19 @@ Two distinct points ⟹ discriminant > 0 [1]
 4² − 4(1)(p) < 0 → 16 − 4p < 0 [1]
 **p > 4** [1].
 
+**10.** x = 7 − 2y [1]; (7 − 2y)² + y² = 10 → 49 − 28y + 5y² = 10 [1]
+5y² − 28y + 39 = 0 → (y − 3)(5y − 13) = 0 [1]
+y = 3 or y = 2.6 [1]
+x = 1 or x = 1.8, so **(1, 3) and (1.8, 2.6)** [1].
+*Check: 1.8² + 2.6² = 3.24 + 6.76 = 10.*
+
+**11. (a)** −(x² + 4x) + 5 = −[(x + 2)² − 4] + 5 [1] = **9 − (x + 2)²** [1].
+
+**(b)** **(−2, 9)** [1].
+
+**(c)** 9 − (x + 2)² ≥ 0 → (x + 2)² ≤ 9 → −3 ≤ x + 2 ≤ 3 [1], so **−5 ≤ x ≤ 1** [1].
+*The curve is an inverted parabola, so it is non-negative between its roots x = −5 and x = 1.*
+
 ---
 
 ## Where marks are usually lost
@@ -129,5 +156,16 @@ Two distinct points ⟹ discriminant > 0 [1]
 - Failing to substitute back after a substitution.
 - Forgetting that a term such as 3^x or 2^x is always positive, so a negative value of u must be rejected.
 - Using discriminant = 0 (tangent) instead of discriminant > 0 (two distinct intersection points) when the question asks for two points, not one.
+
+## Frequently asked questions
+
+**Which discriminant condition do I use for a line and a curve?**
+Substitute the line into the curve to get one quadratic. Two distinct points need b² − 4ac > 0, a tangent needs b² − 4ac = 0, and no intersection needs b² − 4ac < 0.
+
+**How do I solve an equation that is quadratic in √x or 3ˣ?**
+Substitute u for the repeated function, solve the quadratic in u, then reject any value that the function cannot take (√x and 3ˣ cannot be negative) before converting back to x.
+
+**How should I write the answer to a quadratic inequality?**
+Find the critical values, sketch the parabola, and read off the region. A region outside the roots is two separate inequalities joined by "or"; a region between the roots is one double inequality.
 
 Work through the [Quadratics revision notes](/resources/a-level-mathematics-quadratics-revision-notes/) alongside these questions: the notes summarise the completed-square method, the three discriminant cases and the substitution technique in condensed form, while these questions test whether you can recognise which case applies — tangent, two intersections, or no intersection — from the wording of an unfamiliar problem, rather than just recall the rule.

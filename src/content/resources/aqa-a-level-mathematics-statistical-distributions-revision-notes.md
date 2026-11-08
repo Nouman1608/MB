@@ -13,7 +13,7 @@ order: 15
 syllabusTopics:
   - qualification: "a-level"
     topic: "n-statistical-distributions-aqa-alevel-maths"
-description: "Revision notes for AQA A-Level Maths 7357 Section N: binomial and Normal facts, calculator methods, model choice and a quick self-test."
+description: "Revision notes for AQA A-level Maths 7357 Section N: binomial and Normal distribution facts, calculator methods, choosing a model and a quick self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false

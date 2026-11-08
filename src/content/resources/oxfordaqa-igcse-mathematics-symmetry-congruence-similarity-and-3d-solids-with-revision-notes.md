@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-and-measures-oxfordaqa-igcse-maths"
     subtopic: "properties-and-constructions-oxfordaqa-igcse-maths"
-description: "Condensed revision notes on symmetry, congruence, similar figures, solid properties and plans and elevations for OxfordAQA IGCSE Maths."
+description: "Condensed revision notes on symmetry, congruence, similar figures, solid properties and plans and elevations for OxfordAQA IGCSE Maths (9260)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

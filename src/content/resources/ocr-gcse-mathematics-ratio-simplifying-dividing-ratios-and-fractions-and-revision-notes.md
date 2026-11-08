@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "ratio-proportion-and-rates-of-change-ocr-gcse-maths"
     subtopic: "calculations-with-ratio-ocr-gcse-maths"
-description: "Condensed revision notes for OCR GCSE Mathematics ratio: methods, formulas, a self-test with answers and the places marks are lost."
+description: "Condensed exam revision notes for OCR GCSE Mathematics ratio: methods, formulas, a self-test with answers and the places marks are lost (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

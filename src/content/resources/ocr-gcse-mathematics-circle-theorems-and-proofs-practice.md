@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "basic-geometry-ocr-gcse-maths"
     subtopic: "circles-ocr-gcse-maths"
-description: "Original practice questions with worked answers on OCR GCSE Mathematics J560 section 8.05: circle terms, circle theorems and proofs."
+description: "Original exam-style practice questions with worked answers on OCR GCSE Mathematics J560 section 8.05: circle terms, circle theorems and proofs."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

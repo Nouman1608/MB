@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m2-mechanics-2-edexcel-alevel-maths"
     subtopic: "m2-collisions-edexcel-alevel-maths"
-description: "Condensed revision notes on work, energy, power, impulse, momentum and the coefficient of restitution for Edexcel IAL Mathematics unit M2."
+description: "Condensed revision notes on work, energy, power, impulse, momentum and the coefficient of restitution for Edexcel IAL Mathematics unit M2 (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

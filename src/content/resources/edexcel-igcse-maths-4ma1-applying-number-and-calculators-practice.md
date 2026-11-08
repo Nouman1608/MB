@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
     subtopic: "electronic-calculators-edexcel-igcse-maths"
-description: "Original practice questions with worked answers for Edexcel IGCSE Maths 4MA1 1.10-1.11: units, time, money, currency and calculator use."
+description: "Original exam-style practice questions with worked answers for Edexcel IGCSE Maths 4MA1 1.10-1.11: units, time, money, currency and calculator use."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

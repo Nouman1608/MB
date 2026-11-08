@@ -13,7 +13,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-proof-aqa-alevel-maths"
-description: "Original AQA A-level Maths proof questions with marked worked answers: deduction, exhaustion, counter-examples and proof by contradiction."
+description: "Original AQA A-level Maths proof questions with marked worked answers: deduction, exhaustion, counter-examples and proof by contradiction (7357)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false
