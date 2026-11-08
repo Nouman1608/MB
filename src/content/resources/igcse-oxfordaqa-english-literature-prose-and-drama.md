@@ -21,10 +21,12 @@ syllabusTopics:
 description: "Prose fiction and drama set texts -- the full content of Paper 1 Prose and Drama for OxfordAQA International GCSE English Literature (9275)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review."
 ---
 
 This guide covers **Prose and Drama**, assessed in Paper 1 of
@@ -147,3 +149,14 @@ November 2027 resit series, the real final sitting (not the May/June
 OxfordAQA International GCSE English Literature (9275) specification,
 Version 5.1, for exams May/June 2018 onwards —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-gcse-english-literature-specification-2018.pdf).
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9275 Paper 1?**
+1 hour 30 minutes for 60 marks and 40% of the International GCSE, closed book.
+
+**What choice is there?**
+In each section, prose fiction and drama, you choose between an essay-style and a passage-based question on your set text (30 marks each).
+
+**Is Paper 1 taken on both routes?**
+Yes. Paper 1 is compulsory on Route A and Route B.

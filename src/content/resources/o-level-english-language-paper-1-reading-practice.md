@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "reading-1123"
-description: "Original exam-technique practice questions with full worked answers on Paper 1's format, the five reading assessment objectives, and how each question is marked, for Cambridge O Level English Language (1123)."
+description: "Original practice on Cambridge O Level English Language 1123 Paper 1: the format, the five reading objectives and how each question is marked."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 > **These are original exam-technique questions written for Marlbridge**, testing

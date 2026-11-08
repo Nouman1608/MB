@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-prose-and-unseen-9695"
     subtopic: "section-b-unseen-9695"
-description: "Condensed revision notes on approaching Section A (set prose) and Section B (a choice of two previously unseen passages drawn from two of prose, poetry and drama) for Cambridge International A Level English Literature Paper 2 (9695)."
+description: "Quick-recall notes on Cambridge 9695 Paper 2 Prose and Unseen: format, set-text preparation, a repeatable unseen method, timing and exam traps."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened and FAQ added; please re-review."
 ---
 
 Related: [Paper 2 study guide](/resources/a-level-english-literature-paper-2-prose-and-unseen/)
@@ -118,6 +120,21 @@ component, not per section, so there is no published figure suggesting Section B
 heavily than Section A; both sections are marked against the same four objectives at the same
 weightings, which is exactly why the technique-then-effect habit above matters equally whether you're
 writing on the set text or an unseen passage.
+
+## Frequently asked questions
+
+**How long is Paper 2 and how is it marked?**
+Paper 2 lasts 2 hours and is worth 50 marks: 25 for Section A (a prose set text) and 25 for Section B
+(an unseen text). It is 50% of the AS Level and 25% of the full A Level.
+
+**What form will the unseen text take?**
+The syllabus says the unseen text may be poetry, prose or drama, so practise all three forms with the
+same reading method.
+
+**Which prose texts are set?**
+They change by examination year. The [Paper 2 study guide](/resources/a-level-english-literature-paper-2-prose-and-unseen/)
+lists the prose set texts for 2026 and 2027.
+
 
 ## Self-test
 

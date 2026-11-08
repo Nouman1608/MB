@@ -23,7 +23,7 @@ description: "Reading and writing about poetry and prose for Unit 3 of Edexcel I
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check which set texts or collections the unit uses, whether the poetry and prose sections ask for comparison, which section carries 20 marks and which 30, and the assessment objective weightings."
+reviewNote: "Check which set texts or collections the unit uses, whether the poetry and prose sections ask for comparison, which section carries 20 marks and which 30, and the assessment objective weightings. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -97,6 +97,18 @@ Because the paper carries 50 marks over two hours, you have enough time to plan 
 ## Exam technique
 
 Read the question twice and underline the key terms. Make sure that you answer the question set, for example about presentation, development or a particular idea, rather than the one you prepared. Use short quotations, vary your sentence structure, and keep a consistent line of argument. A short conclusion that makes a final judgement is better than a repeat of the introduction.
+
+## Frequently asked questions
+
+**How long is YET01 Unit 3?**
+2 hours for 50 marks, open book, and 25% of the International A Level.
+
+**Why are the sections uneven?**
+Section A Poetry is worth 20 marks (AO1 and AO2) and Section B Prose 30 marks (AO1, AO2, AO3 and AO4).
+
+**Is Unit 3 part of the International AS?**
+No. Units 3 and 4 complete the full International A Level.
+
 
 ## Check your understanding
 

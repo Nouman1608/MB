@@ -41,6 +41,12 @@ essay / (b) passage pattern on texts set for examination in 2026. Section A pass
 the text is out of copyright; for Section B, (b) questions name a passage for you to find in your own
 copy, because the texts are in copyright. Rubric checks come first.
 
+**Using these questions for 2027.** *Middlemarch*, Shakespeare's *Selected Sonnets* and Katherine
+Mansfield's *Selected Stories* remain set for 2027. *Pride and Prejudice*, *The Wild Iris* and
+*Beloved* are not on the 2027 list, so if you sit Paper 4 in 2027, adapt those questions to your own
+set text (for example *Mansfield Park* in place of *Pride and Prejudice*).
+
+
 ## Section 0: Rubric checks
 
 **1.** A candidate studied *Pride and Prejudice* (Section A) and *Beloved* (Section B). Explain why this

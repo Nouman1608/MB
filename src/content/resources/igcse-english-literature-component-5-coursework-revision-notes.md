@@ -51,7 +51,7 @@ Confirm your route with your teacher before you plan your revision.
 | Poetry or short stories | Cover at least **two** poems or stories; comparison is not required |
 | Empathic option | One assignment may be an empathic response to a prose or drama text |
 | Titles | Must allow all four AOs to be assessed |
-| Marking | Each assignment marked out of 25; component worth 25 marks |
+| Marking | Each assignment marked out of 25; component worth 25 marks (the syllabus does not say how the two assignment marks are combined, so do not assume a sum or an average) |
 | Assessment | Internally assessed, externally moderated by Cambridge |
 
 The syllabus warns that candidates "may disadvantage themselves" if assignments are significantly over

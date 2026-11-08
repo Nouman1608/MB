@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
     subtopic: "evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features-8700"
-description: "Reading one literature fiction text and writing a creative response to a linked scenario -- the full structure, marks and assessment objectives of Paper 1, Explorations in Creative Reading and Writing, for AQA GCSE English Language (8700)."
+description: "AQA GCSE English Language 8700 Paper 1: reading one literature fiction text and writing a creative response, with the full question structure, marks and AOs."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Paper 1: Explorations in Creative Reading and
@@ -180,6 +182,18 @@ accuracy marks are identical in weight to Section A's most valuable
 single question, leave two or three minutes at the end of the paper
 specifically to proofread the Section B writing, rather than assuming
 accuracy will look after itself.
+
+## Frequently asked questions
+
+**How long is AQA 8700 Paper 1?**
+1 hour 45 minutes for 80 marks and 50% of the GCSE: 40 marks for reading and 40 for writing.
+
+**What is the Paper 1 source?**
+One literature fiction extract from the 20th or 21st century.
+
+**How is the writing marked?**
+24 marks for content and organisation and 16 for technical accuracy.
+
 
 ## Official syllabus
 

@@ -21,10 +21,12 @@ syllabusTopics:
 description: "Aspects of Tragedy and Aspects of Comedy -- the two genre options and full paper structure of Paper 1 for AQA A-Level English Literature B (7717)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review."
 ---
 
 This guide covers **Paper 1 Literary Genres**, one of two exam papers
@@ -136,6 +138,18 @@ that general familiarity with the texts, of the kind that suffices for
 an open-book paper, will be enough on the day -- it is not, since there
 is no text available in the exam room to check a half-remembered
 quotation against.
+
+## Frequently asked questions
+
+**Is 7717 Paper 1 open book?**
+No. Paper 1 Literary Genres is closed book: 2 hours 30 minutes, 75 marks, 40% of the A-level.
+
+**What are the three sections?**
+Section A is a passage-based question on the Shakespeare play, Section B an essay on the same play, and Section C an essay linking two other texts, 25 marks each.
+
+**Which Shakespeare plays are set?**
+For tragedy, Othello or King Lear; for comedy, The Taming of the Shrew or Twelfth Night.
+
 
 ## Official syllabus
 

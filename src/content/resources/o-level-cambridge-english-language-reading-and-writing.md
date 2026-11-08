@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Reading and Writing -- the two skill strands that make up the entirety of Cambridge O-Level English Language (1123), assessed by Paper 1 and Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review."
 ---
 
 This guide covers the full content structure of Cambridge O-Level
@@ -135,6 +137,18 @@ routes difficult to follow."
 ## Common mistakes
 
 Copying from the passage where own words are required. Writing at length for low-mark questions. Including examples or opinion in a summary. Naming a device without explaining its effect. Ignoring one of form, audience or purpose in directed writing. Starting a composition with no ending in mind. Leaving no time to check.
+
+## Frequently asked questions
+
+**How many papers does Cambridge O Level English Language 1123 have?**
+Two: Paper 1 Reading and Paper 2 Writing. Each lasts 2 hours, is worth 50 marks and carries 50% of the qualification.
+
+**Are dictionaries allowed?**
+No. Dictionaries are not permitted in either 1123 paper.
+
+**Does Paper 2 test reading as well as writing?**
+Yes. Directed writing in Paper 2 Section A awards 10 of its 25 marks for reading, for using, developing and evaluating the source material.
+
 
 ## Quick revision checklist
 

@@ -12,13 +12,15 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-4-unseen-0475"
-description: "Original exam-technique practice questions with full worked answers on Paper 4's critical-commentary format, the 20-minute planning window, and building a scoring personal response, for Cambridge IGCSE Literature in English (0475)."
+description: "Original practice with worked answers on Cambridge IGCSE 0475 Paper 4 Unseen: the critical commentary, the 20-minute planning advice and personal response."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, testing exam
@@ -154,6 +156,21 @@ analytical point with a statement of effect and personal response
 ("...and this makes me feel/think..."), since this is the single most
 reliable way to convert accurate technical observation into the AO4
 marks that are otherwise easy to leave unclaimed.
+
+## Frequently asked questions
+
+**How long is Paper 4 Unseen?**
+1 hour 15 minutes for one question from a choice of two (a prose passage or a poem), worth 25 marks
+and 25% of the qualification.
+
+**How long should I plan for?**
+The 0475 syllabus advises spending around 20 minutes reading the questions and planning your answer
+before you start to write.
+
+**Can I revise for an unseen paper?**
+Yes, by practising close reading: comment on language, structure and effect in unfamiliar poems and
+prose, and give a clear personal response supported by quotation.
+
 
 ## Official syllabus
 

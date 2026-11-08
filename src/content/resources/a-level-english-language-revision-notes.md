@@ -15,14 +15,21 @@ syllabusTopics:
     topic: "paper-1-reading-9093"
 seoTitle: "9093 English Language Paper 1 Revision Notes (2024–2026)"
 seoDescription: "Quick-recall notes for Cambridge AS & A Level English Language 9093 Paper 1 (2024–2026 syllabus): structure, directed response, text analysis and the AOs."
-description: "Condensed recall notes on Paper 1 structure, directed response, text analysis and the assessment objectives for Cambridge International AS & A Level English Language 9093."
+description: "Condensed notes on Cambridge AS & A Level English Language 9093 Paper 1 Reading: structure, directed response, text analysis, AOs and a worked comparison."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, worked 1(b) comparison, timing, FAQ, description shortened); facts checked against the 2024-26 syllabus; please re-review."
 ---
+
+**What is Cambridge 9093 Paper 1?** Paper 1 Reading is a 2 hour 15 minute AS Level paper worth 50
+marks. Section A asks you to write a 150–200 word directed response to an unseen text and then compare
+it with the original (10 + 15 marks); Section B asks for an analysis of the form, structure and
+language of a second unseen text (25 marks).
 
 Condensed for the final weeks. For the full explanation, use the
 [Paper 1 Reading study guide](/resources/a-level-cambridge-english-language-paper-1-reading/).
@@ -74,6 +81,29 @@ Work through the levels rather than commenting on whatever stands out first:
 
 Every analytical point: **identify → quote → explain the effect in relation to purpose and audience.**
 
+## Worked example: one comparative point for 1(b)
+
+Suppose the source is a 650-word travel blog about a night market, written in the first person with
+present-tense narration and second-person address ("you'll smell the chilli before you see the
+stall"). The 1(a) task asks for a 150–200 word entry for a city visitor guide. A comparative point
+might read:
+
+> Where the blog immerses its reader through present-tense narration and direct address, my guide
+> entry shifts to imperatives and modal verbs of possibility ("Arrive after 7 p.m.; you can try
+> over forty stalls"), because a visitor guide's purpose is practical instruction rather than shared
+> experience. The blog's sensory adjectives are replaced by concrete nouns and numbers, which suit
+> a reader who is planning rather than imagining.
+
+The point names a feature in **both** texts, quotes briefly, and explains the difference through
+**purpose and audience** — exactly what AO3 rewards.
+
+## How should you use your time?
+
+With two 25-mark sections in 2 hours 15 minutes, aim for about 65 minutes per section. In Section A,
+spend roughly 25 minutes reading and writing 1(a) and the rest on the 15-mark comparison in 1(b);
+in Section B, plan for 10 minutes before you write.
+
+
 ## Exam traps
 
 - Treating 1(b) as a summary of what you wrote — it is a **comparison** of form, structure and language.
@@ -83,6 +113,18 @@ Every analytical point: **identify → quote → explain the effect in relation 
 - Analysing content rather than language in Q2.
 - Lifting phrasing directly from the source text in the directed-writing task — this does not demonstrate the transformation Q1(a) requires; the material must be selected and recast in your own words, not copied.
 - Dictionaries may **not** be used.
+
+## Frequently asked questions
+
+**How long are the unseen texts?**
+Each Paper 1 text is approximately 550–750 words, according to the 9093 syllabus for 2024 to 2026.
+
+**Which assessment objectives does Paper 1 test?**
+Question 1(a) assesses AO1 and AO2; Question 1(b) and Question 2 assess AO1 and AO3.
+
+**Can I use a dictionary?**
+No. Dictionaries may not be used in Paper 1.
+
 
 ## Self-test
 

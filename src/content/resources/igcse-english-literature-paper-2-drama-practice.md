@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-drama-0475"
-description: "Original exam-technique practice questions with full worked answers on Paper 2's format, the one-of-each question rule, closed-book preparation, and how the four assessment objectives are marked, for Cambridge IGCSE Literature in English (0475)."
+description: "Original practice with worked answers on Cambridge IGCSE 0475 Paper 2 Drama: format, the one-of-each question rule, closed-book preparation and the four AOs."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, testing exam technique
@@ -163,6 +165,21 @@ And in every paragraph, check that a claim about the play is followed
 by evidence, analysis of dramatic method, and your own evaluation of
 its effect — leaving out that last step is the single most common way
 otherwise strong answers cap their own mark.
+
+## Frequently asked questions
+
+**How is Paper 2 Drama structured?**
+It lasts 1 hour 30 minutes and is worth 50 marks: two questions on two set plays, 25 marks each. You
+must answer one passage-based (a) question and one essay (b) question.
+
+**Is Paper 2 open book?**
+No. Set texts may not be taken into the exam room; passages for the passage-based questions are
+printed on the paper.
+
+**Who takes Paper 2?**
+Candidates on the route Paper 1 plus Paper 2. Paper 2 is worth 50% of the qualification, the same as
+Paper 1.
+
 
 ## Official syllabus
 

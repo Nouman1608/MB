@@ -8,13 +8,15 @@ qualifications: ["gcse"]
 syllabusCodes: ["8700"]
 syllabusSeries: "For first teaching 2015"
 order: 1
-description: "How AQA GCSE English Language (8700) is structured — its two papers, the spoken language endorsement, and the skills each part assesses."
+description: "How AQA GCSE English Language 8700 is structured: the two 1 hour 45 minute papers, the separate spoken language endorsement, and the skills each assesses."
 author: "lubna-waseem"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 An overview of how AQA GCSE English Language (8700) is put together, for
@@ -126,6 +128,18 @@ memorise content in the way a literature-based GCSE would reward.
 Timed writing practice matters equally, since both papers combine
 reading analysis with an extended writing task completed under the
 same exam-condition time pressure.
+
+## Frequently asked questions
+
+**How many exams are there in AQA GCSE English Language 8700?**
+Two papers, each 1 hour 45 minutes, 80 marks and 50% of the GCSE.
+
+**Is there coursework?**
+No. The only non-exam element is the spoken language endorsement, which is reported separately and does not count towards the grade.
+
+**Is the GCSE tiered?**
+No. All students sit the same untiered papers.
+
 
 ## Related resources
 

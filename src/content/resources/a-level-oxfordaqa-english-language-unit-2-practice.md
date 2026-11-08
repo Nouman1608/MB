@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-language-and-society-9670"
     subtopic: "section-b-language-and-social-groups-writing-9670"
-description: "Original exam-style practice questions with full worked answers on the four social functions of language, connecting text analysis to academic argument, and Unit 2's assessment structure."
+description: "Original practice with worked answers on the social functions of language, linking text analysis to argument, and the format of OxfordAQA 9670 Unit 2."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

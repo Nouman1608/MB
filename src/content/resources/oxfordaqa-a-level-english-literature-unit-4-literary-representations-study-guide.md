@@ -17,7 +17,7 @@ description: "How writers represent people, groups, places and ideas, and how to
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check what Unit 4 actually assesses: whether it is an exam or non-exam assessment, the type and number of texts, whether any critical reading or independent choice is involved, and the assessment objective weightings."
+reviewNote: "Check what Unit 4 actually assesses: whether it is an exam or non-exam assessment, the type and number of texts, whether any critical reading or independent choice is involved, and the assessment objective weightings. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -95,6 +95,18 @@ If the unit asks you to link more than one text, build your discussion around po
 ## Exam technique
 
 Read the task carefully and identify the representation you are asked to examine. Keep a thread of argument, supported by short, accurate quotations or references. Use the key terms of the question in your opening and conclusion. Show that you can see more than one way of reading a portrayal. Leave time to check expression.
+
+## Frequently asked questions
+
+**What are the Unit 4 options in 9675?**
+Unit 4a is a 2 hour 30 minute exam on unseen texts (prose, including literary non-fiction, and poetry, 25 marks each); Unit 4b is a non-exam assessment.
+
+**What does Unit 4b require?**
+Two essays of 1,250 to 1,500 words, each on a different text, one poetry and one prose, assessed by teachers and moderated.
+
+**How much is Unit 4 worth?**
+50 marks and 30% of the International A-level on either route.
+
 
 ## Check your understanding
 

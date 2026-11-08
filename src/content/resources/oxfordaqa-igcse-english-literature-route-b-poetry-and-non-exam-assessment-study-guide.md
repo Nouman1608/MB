@@ -25,7 +25,7 @@ description: "Skills for studied poetry, unseen poetry and the non-exam assessme
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check which poems or anthology are set for Route B, the structure and marks of the poetry and unseen poetry questions, and the task requirements, word limits and supervision rules for the non-exam assessment."
+reviewNote: "Check which poems or anthology are set for Route B, the structure and marks of the poetry and unseen poetry questions, and the task requirements, word limits and supervision rules for the non-exam assessment. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -114,6 +114,18 @@ Practise the three skills separately. For studied poetry, revise by theme and by
 ## Exam technique
 
 Read each question carefully and underline the key words. Use short quotations. In an unseen response, show your thinking by explaining the effect of each detail you choose. In your non-exam work, keep your focus on the task. Always finish with a brief conclusion that answers the question.
+
+## Frequently asked questions
+
+**What does Route B involve?**
+Paper 1, then Paper 2b (1 hour 30 minutes, 60 marks, 40%, open book: anthology poetry and an unseen poem) and a non-exam assessment.
+
+**What is the 9275 non-exam assessment?**
+One extended response to a prose fiction text of your choice that is not on the set-text list, worth 30 marks and 20%.
+
+**Is Paper 2b open book?**
+Yes, according to the specification's assessment overview.
+
 
 ## Check your understanding
 

@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-poetry-and-prose-0475"
     subtopic: "section-b-prose-0475"
-description: "The format, assessment objectives and skills tested in Paper 1 Poetry and Prose -- the compulsory paper for Cambridge IGCSE English Literature 0475, 2026 series."
+description: "Format, assessment objectives and skills for Paper 1 Poetry and Prose, the compulsory paper of Cambridge IGCSE Literature in English 0475, 2026 series."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; 2028-2030 note corrected (Paper 1 plus either Paper 2 or coursework, per the 2028-2030 syllabus); please re-review."
 ---
 
 This guide covers **Paper 1 – Poetry and Prose**, the compulsory
@@ -131,15 +133,30 @@ objectives, and the specific ways marks are most often lost — see the
 which build directly on the format and assessment objectives
 introduced here.
 
+## Frequently asked questions
+
+**Is Paper 1 compulsory for 0475?**
+Yes. Every candidate takes Paper 1 Poetry and Prose: 1 hour 30 minutes, 50 marks and 50% of the
+qualification, with one 25-mark question from Section A (Poetry) and one from Section B (Prose).
+
+**Can I take my set texts into Paper 1?**
+No. Set texts may not be taken into the exam room, although the relevant passages and poems are
+printed on the question paper.
+
+**Which assessment objectives are tested?**
+All four in every question: knowledge of the text (AO1), understanding of characters, relationships,
+situations and themes (AO2), the writer's methods and use of language (AO3), and personal response (AO4).
+
+
 ## A note on syllabus currency
 
 This guide is written against the Cambridge IGCSE Literature in
 English (0475) syllabus for the 2026 examination series. Cambridge has
 since published a 2027 syllabus, and a further restructure applies
 from the 2028-2030 cycle: the current four-paper-plus-coursework
-structure is replaced by two components, with today's Paper 1 becoming
-open text and today's Paper 2 becoming a combined drama-and-unseen
-paper. Confirm which syllabus cycle your candidates are sitting before
+structure is replaced by a two-component route (Paper 1 Poetry and
+Prose, now open text, plus either Paper 2 Drama and Unseen or a
+50-mark coursework component). Confirm which syllabus cycle your candidates are sitting before
 revising from this guide.
 
 ## Official syllabus

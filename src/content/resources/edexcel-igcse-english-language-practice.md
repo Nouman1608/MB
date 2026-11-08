@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
     subtopic: "section-b-transactional-writing-4ea1"
-description: "Original exam-style practice questions with full worked answers on non-fiction analysis, comparison and transactional writing."
+description: "Original practice with worked answers on non-fiction analysis, comparison and transactional writing for Pearson Edexcel IGCSE English Language A 4EA1 Paper 1."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

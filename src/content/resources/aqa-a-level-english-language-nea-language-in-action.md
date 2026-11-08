@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "non-exam-assessment-language-in-action-7702"
     subtopic: "original-writing-7702"
-description: "The language investigation, original writing and commentary, and the methods of language analysis required -- the full content of Section 3.3 Language in Action, the non-exam assessment component for AQA A-Level English Language (7702)."
+description: "AQA A-Level English Language 7702 NEA Language in Action: the language investigation, original writing and commentary, and the methods of analysis they use."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **3.3 Language in Action**, the non-exam assessment (NEA) component of AQA A-level
@@ -136,6 +138,18 @@ a simple description rather than an evaluative account of the approach taken. Wr
 without first analysing a specific style model in enough depth to inform the commentary. Applying
 language-level analysis (phonetics, lexis, grammar, pragmatics) inconsistently, missing levels relevant
 to the chosen data type.
+
+## Frequently asked questions
+
+**How long is the 7702 NEA?**
+3,500 words in total: a 2,000-word investigation excluding data, and original writing and a commentary of 750 words each.
+
+**How is the NEA marked?**
+It is worth 100 marks and 20% of the A-level, assessed by teachers and moderated by AQA.
+
+**How are the marks split?**
+The investigation carries 50 marks, the original writing 25 and the commentary 25.
+
 
 ## Quick revision checklist
 

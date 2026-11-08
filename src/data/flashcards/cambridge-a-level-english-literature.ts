@@ -82,12 +82,14 @@ export const DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
       { n: 4, f: 'How do you build AO5 into a paragraph?', b: 'Make an analytical point (AO2), state your view of its effect (AO3) clearly (AO4), then add how some critics or productions have read it differently and weigh that against your view. Spread this through the essay.' },
       { n: 5, f: 'Which Shakespeare plays are set for 9695 Paper 3 in the 2026 series?', b: 'Hamlet or The Taming of the Shrew. Set texts rotate, so always check the list for the series you are sitting.' },
       { n: 6, f: 'Which Hamlet soliloquy begins "To be, or not to be, that is the question"?', b: 'Hamlet\'s Act 3 soliloquy weighing life against death. Its balanced alternatives and questions dramatise his paralysing deliberation, a central idea in the play.' },
+      { n: 7, f: 'Which Shakespeare plays are set for 9695 Paper 3 in 2027?', b: 'Henry IV, Part 1 or The Taming of the Shrew, from the 9695 syllabus for 2027 and 2028. Hamlet is not set for 2027.' },
     ]),
     ...sub(P3, 'section-b-drama-9695', '3.2', [
       { n: 1, f: 'Which drama texts are set for 9695 Paper 3 Section B in 2026?', b: 'One of Sweat (Lynn Nottage), Long Day\'s Journey Into Night (Eugene O\'Neill) or Kongi\'s Harvest (Wole Soyinka).' },
       { n: 2, f: 'How does a Paper 3 drama answer differ from a Paper 1 drama answer?', b: 'It needs AO5 as well: awareness of how the play has been interpreted differently by critics, readers or productions. Paper 1 drama is marked on AO1–AO4 only.' },
       { n: 3, f: 'What is the commonest mistake on a passage-based (b) question?', b: 'Answering it in essay style and ignoring the extract printed on the paper. The answer must work closely with that passage.' },
       { n: 4, f: 'How can performance history support AO5?', b: 'Noting that different productions have staged a scene differently (for example as comic or as tragic) offers an alternative interpretation to weigh against your own reading.' },
+      { n: 5, f: 'Which drama texts are set for 9695 Paper 3 Section B in 2027?', b: 'One of Sweat (Lynn Nottage), Kongi\'s Harvest (Wole Soyinka) or Our Country\'s Good (Timberlake Wertenbaker). Long Day\'s Journey Into Night is not set for 2027.' },
     ]),
 
     // 4 Paper 4 Pre- and Post-1900 Poetry and Prose
@@ -96,12 +98,14 @@ export const DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
       { n: 2, f: 'How should context be used in a pre-1900 answer?', b: 'Woven in to explain a writer\'s choice or how the text belongs to its time, then returned to the text. Detached background does not earn marks.' },
       { n: 3, f: 'What is a sonnet?', b: 'A fourteen-line poem, usually in iambic pentameter, with a set rhyme scheme (Petrarchan octave and sestet, or Shakespearean three quatrains and a couplet), often with a volta or turn.' },
       { n: 4, f: 'How should you plan each Paper 4 answer?', b: 'In about five minutes: underline the question\'s key words, jot a thesis, list evidence in order and note the context to weave in. End with a conclusion that gives a final judgement.' },
+      { n: 5, f: 'Which pre-1900 texts are set for 9695 Paper 4 Section A in 2027?', b: 'Prose: Mansfield Park, Middlemarch, Jude the Obscure. Poetry: Byron selected poems, The Wife of Bath\'s Prologue and Tale, Shakespeare\'s Selected Sonnets.' },
     ]),
     ...sub(P4, 'section-b-post-1900-poetry-and-prose-9695', '4.2', [
       { n: 1, f: 'What is free verse, and what can it achieve?', b: 'Poetry without regular metre or rhyme. Its freedom can mirror natural speech or thought, and line breaks become the main way to create emphasis.' },
       { n: 2, f: 'What is stream of consciousness?', b: 'A narrative method that presents a character\'s thoughts as a continuous, often unpunctuated flow, recreating the movement of the mind.' },
       { n: 3, f: 'How should a conclusion end a Paper 4 essay?', b: 'With a final judgement that answers the question directly, not a repeat of the introduction.' },
       { n: 4, f: 'Why should time be allocated in proportion to marks on Paper 4?', b: 'An over-long first answer leaves the second underdeveloped. Check the marks for each question on the paper and plan both answers into the time available.' },
+      { n: 5, f: 'Which post-1900 texts are set for 9695 Paper 4 Section B in 2027?', b: 'Prose: Waiting for the Barbarians, Katherine Mansfield\'s Selected Stories, The Overstory. Poetry: Elizabeth Bishop, Gabriel Okara and Ocean Vuong selections.' },
     ]),
   ],
 };

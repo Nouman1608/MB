@@ -13,13 +13,15 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-shakespeare-and-drama-9695"
-description: "Original exam-technique practice questions with full worked answers on Paper 3's format, the fifth assessment objective AO5, and how Paper 3 differs from the AS Level papers, for Cambridge International A Level Literature in English (9695)."
+description: "Original recall practice on Cambridge 9695 Paper 3 Shakespeare and Drama: format, (a) and (b) questions, AO5 and set-text rotation, with worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened, FAQ with 2027 set plays added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -80,6 +82,22 @@ Related: [Paper 3 – Shakespeare and Drama study guide](/resources/a-level-engl
 - Assuming a previous year's set texts are still current, without checking the syllabus for the series actually being sat.
 - Forgetting that Papers 3 and 4 are full-A-Level-only and cannot form part of an AS-Level-only route.
 - Analysing a scene's language and structure skilfully throughout an essay, but never once referencing how it has been read or performed differently by others.
+
+## Frequently asked questions
+
+**Is Paper 3 taken at AS Level?**
+No. Paper 3 is part of the full A Level only, worth 25% of the qualification, and it is the first paper
+to assess AO5 (evaluation of opinion).
+
+**Which plays are set for 2027?**
+From June 2027, Section A offers *Henry IV, Part 1* or *The Taming of the Shrew*, and Section B offers
+*Sweat*, *Kongi's Harvest* or *Our Country's Good*. *Hamlet* and *Long Day's Journey Into Night* are
+set only up to 2026.
+
+**Where can I practise full essays?**
+Try the [Paper 3 set-text essay practice](/resources/a-level-english-literature-paper-3-set-text-essay-practice/),
+which has essay and passage questions with indicative content.
+
 
 ## Approaching Paper 3 questions
 

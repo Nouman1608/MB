@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-language-analysis-9093"
     subtopic: "section-b-child-language-acquisition-9093"
-description: "Language change from Early Modern to Contemporary English including named theories of change, and the stages, functions and theories of child language acquisition, for Cambridge International AS & A Level English Language (9093) Paper 3."
+description: "Cambridge 9093 Paper 3 Language Analysis: language change from Early Modern English to today, and the stages and theories of child language acquisition."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Paper 3 Language Analysis**, one of two A Level-only papers added to the AS content in Cambridge International AS & A Level English Language (9093). Where Papers 1 and 2 test reading and writing skills directly, Paper 3 tests knowledge and understanding of two linguistic fields: how English has changed over time, and how children acquire it.
@@ -69,6 +71,18 @@ Although Sections A and B draw on different bodies of knowledge, both are fundam
 ## Common mistakes
 
 Describing language change in general terms without naming the specific process involved. Confusing prescriptivism and descriptivism, or describing one without contrasting it with the other. Giving acquisition stages without approximate ages or defining features. Naming a theory of acquisition without its standard criticism when a question asks for both. Treating grammatical over-generalisation as a simple childish error rather than evidence of rule-based, creative language learning.
+
+## Frequently asked questions
+
+**How long is Cambridge 9093 Paper 3?**
+2 hours 15 minutes for 50 marks and 25% of the A Level, with two 25-mark sections.
+
+**What are the two sections?**
+Section A Language change and Section B Child language acquisition.
+
+**Is Paper 3 taken at AS Level?**
+No. Papers 3 and 4 are A Level only.
+
 
 ## Quick revision checklist
 

@@ -13,30 +13,32 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-language-diversity-and-change-7702"
     subtopic: "section-a-diversity-and-change-7702"
-description: "Sociolects, dialects, language change over time, and how audience, purpose, genre and mode shape variation -- 4.2.1 Language Diversity and Change, assessed on Paper 2 Section A of AQA A-Level English Language (7702)."
+description: "Sociolects, dialects, language change and how context shapes variation: 3.2.1 Language diversity and change for Paper 2 of AQA A-Level English Language 7702."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: section numbering changed from the spec PDF's 4.2.1 to the site's 3.2.1 with a note explaining both; description shortened; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
-This guide covers **4.2.1 Language Diversity and Change**, the content
+This guide covers **3.2.1 Language Diversity and Change** (4.2.1 in the specification PDF), the content
 underpinning Paper 2 Section A (Diversity and Change), from AQA AS and
 A-level English Language (7701/7702), Version 1.2, AS and A-level exams
 June 2016 onwards.
 
 ## Where this fits
 
-4.2 Language Diversity and Change is the second major content area of
-the A-level (alongside 4.1 Language, the Individual and Society). Paper
+3.2 Language Diversity and Change is the second major content area of
+the A-level (alongside 3.1 Language, the Individual and Society). Paper
 2 Section A assesses this content through an evaluative essay — either
 on language diversity or on language change — worth 30 marks.
 
 ## Syllabus coverage
 
-**AQA AS AND A-LEVEL ENGLISH LANGUAGE (7701/7702) — 4.2.1 LANGUAGE DIVERSITY AND CHANGE**
+**AQA AS AND A-LEVEL ENGLISH LANGUAGE (7701/7702) — 3.2.1 LANGUAGE DIVERSITY AND CHANGE**
 
 Students study a range of examples of language in use and research
 data, including: texts using different sociolects (social and
@@ -188,6 +190,18 @@ day when a question specifically addresses language change, missing
 the specification's 1600-to-present timeframe. Applying gender or class
 theories as settled fact rather than contested positions.
 
+## Frequently asked questions
+
+**How is diversity and change assessed?**
+In Paper 2 Section A: one evaluative essay from a choice of two, on language diversity or language change, worth 30 marks.
+
+**What texts should I study?**
+The specification lists sociolects, dialects, texts from 1600 to the present day, language data collections and research findings.
+
+**Where are attitudes to language tested?**
+In Paper 2 Section B, which analyses two texts about a language issue (40 marks) and sets a directed writing task (30 marks).
+
+
 ## Quick revision checklist
 
 - Build separate example banks for diversity (sociolect, dialect,
@@ -203,6 +217,8 @@ variation or change to reference in an evaluative essay.
 
 - [Language Diversity and Change revision notes](/resources/a-level-aqa-english-language-diversity-and-change-revision-notes/)
 - [Language Diversity and Change practice questions](/resources/aqa-english-language-diversity-and-change-practice/)
+
+**Section numbers.** This site follows the A-level (7702) subject content on aqa.org.uk, where Paper 2 content is 3.2 and the NEA is 3.3. The combined AS and A-level specification PDF (Version 1.2, 14 October 2021) puts the AS content in section 3, so the same A-level sections are numbered 4.1, 4.2 and 4.3 there.
 
 ## Official syllabus
 

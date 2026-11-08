@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-shakespeare-and-drama-9695"
     subtopic: "section-b-drama-9695"
-description: "Condensed recall notes on Paper 3's format, the fifth assessment objective AO5, and the 2026-series set texts, for Cambridge International A Level Literature in English (9695)."
+description: "Condensed notes on Cambridge 9695 Paper 3: format, AO5 evaluation of opinion and how to build it, and the set plays for the 2026 and 2027 exam series."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added 2027 set plays and FAQ, shorter description; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -88,6 +90,14 @@ set for the 2024 series only and are not examined in 2026.
 Set texts rotate by examination series — always confirm the current
 list for the year being sat rather than assuming continuity.
 
+## 2027-series set texts
+
+From June 2027 (syllabus for 2027 and 2028): **Section A** — *Henry IV,
+Part 1* or *The Taming of the Shrew*. **Section B** — *Sweat*, *Kongi's
+Harvest* or *Our Country's Good* (Timberlake Wertenbaker). *Hamlet* and
+*Long Day's Journey Into Night* drop out after 2026.
+
+
 ## Paper 3 vs Paper 1's drama section
 
 Both examine drama using the same close-reading and analytical skills.
@@ -131,6 +141,21 @@ restatement of AO3 with different wording.
   of an AS-Level-only route.
 - Analysing language and structure skilfully throughout an essay but
   never once referencing an alternative reading or performance.
+
+## Frequently asked questions
+
+**How long do I have for each Paper 3 answer?**
+The paper lasts 2 hours for two 25-mark answers, so about an hour each,
+including planning.
+
+**Is AO5 really worth a fifth of the marks?**
+Yes. On Paper 3 each of AO1 to AO5 carries 20% of the paper, so
+evaluating other interpretations is not optional.
+
+**Which texts should I revise?**
+Use the list for the year you sit: the 2026 list above for 2026, and the
+2027 list for June or November 2027.
+
 
 ## Self-test
 

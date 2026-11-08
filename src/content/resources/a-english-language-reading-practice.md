@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-reading-9093"
     subtopic: "skills-and-techniques-9093"
-description: "Original exam-style practice questions with full worked answers on discourse analysis, register, lexis, grammar and pragmatics."
+description: "Original practice with worked answers on discourse, register, lexis, grammar and pragmatics for Cambridge AS & A Level English Language 9093 Paper 1."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and practice
 > on this content. They are **not** reproduced past-paper questions, and they do

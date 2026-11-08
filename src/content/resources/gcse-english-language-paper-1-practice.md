@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
     subtopic: "evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features-8700"
-description: "Original exam-style practice questions with full worked answers on Paper 1 reading and writing skills for AQA GCSE English Language 8700."
+description: "Original practice with full worked answers on the reading questions and creative writing task of AQA GCSE English Language 8700 Paper 1, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

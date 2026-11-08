@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-shakespeare-and-the-19th-century-novel-8702"
     subtopic: "section-b-the-19th-century-novel-8702"
-description: "Condensed recall notes on Paper 1's closed-book structure and approach for AQA GCSE English Literature (8702)."
+description: "Condensed notes on AQA GCSE English Literature 8702 Paper 1: the closed-book Shakespeare and 19th-century novel sections, the AOs and how to answer."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

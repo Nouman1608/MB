@@ -35,7 +35,7 @@ which also shape the Section A essay.
 
 This guide covers three parts of the Paper 2 content in the AQA AS and A-level English Language specification
 (7701/7702), Version 1.2, for exams from June 2016: **Methods of language analysis**, **Language discourses** and
-**Writing skills** (sections 4.2.2, 4.2.3 and 4.2.4 of the A-level subject content in the specification PDF). The
+**Writing skills** (sections 3.2.2, 3.2.3 and 3.2.4 of the A-level subject content on aqa.org.uk, numbered 4.2.2 to 4.2.4 in the specification PDF). The
 Section A content on diversity and change itself is taught in the
 [Language Diversity and Change study guide](/resources/a-level-aqa-english-language-diversity-and-change/). For quick
 recall use the [language discourses and writing revision notes](/resources/aqa-a-level-english-language-paper-2-language-discourses-and-writing-revision-notes/),
@@ -186,5 +186,8 @@ differences to context, genre and audience.
 ## Official syllabus
 
 AQA AS and A-level English Language (7701/7702) specification, Version 1.2 (14 October 2021), A-level subject content
-4.2 Language diversity and change: 4.2.2 Methods of language analysis, 4.2.3 Language discourses and 4.2.4 Writing
+3.2 Language diversity and change: 3.2.2 Methods of language analysis, 3.2.3 Language discourses and 3.2.4 Writing
 skills, with the Paper 2 assessment structure in the scheme of assessment.
+
+**Section numbers.** This site follows the A-level (7702) subject content on aqa.org.uk, where Paper 2 content is 3.2 and the NEA is 3.3. The combined AS and A-level specification PDF (Version 1.2, 14 October 2021) puts the AS content in section 3, so the same A-level sections are numbered 4.1, 4.2 and 4.3 there.
+

@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-shakespeare-and-drama-9695"
     subtopic: "section-b-drama-9695"
-description: "How Paper 3 differs from the AS Level papers in Cambridge International A Level Literature in English 9695: A-Level-only availability, the introduction of AO5 (evaluation of opinion), the Shakespeare and Drama sections, and the 2026-series set texts, for the 2024-2026 syllabus."
+description: "Cambridge 9695 Paper 3 Shakespeare and Drama: A Level-only format, AO5 evaluation of opinion, and the set plays for 2026 and for 2027 compared side by side."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added 2027 set plays (Henry IV Part 1, Our Country's Good replace Hamlet, Long Day's Journey), FAQ, shorter description; please re-review."
 ---
 
 Paper 3 -- Shakespeare and Drama is one of two papers exclusive to the
@@ -117,6 +119,21 @@ so before relying on this guide for a series beyond 2026, confirm you
 are working from the syllabus document that actually covers your
 candidates' examination series.
 
+## What changes in the 2027 set texts for Paper 3?
+
+From the June 2027 series the set texts come from the Cambridge International AS & A Level Literature in English 9695 syllabus for 2027 and 2028 ([cambridgeinternational.org](https://www.cambridgeinternational.org/Images/721410-2027-2028-syllabus.pdf)). The
+paper format (2 hours, 50 marks, two 25-mark sections) is unchanged.
+
+| Section | Set texts for examination in 2027 |
+|---|---|
+| A: Shakespeare | *Henry IV, Part 1*; *The Taming of the Shrew* |
+| B: Drama | *Sweat* (Lynn Nottage); *Kongi's Harvest* (Wole Soyinka); *Our Country's Good* (Timberlake Wertenbaker) |
+
+*Hamlet* and *Long Day's Journey Into Night* are not set for 2027.
+Students moving from the 2026 to the 2027 list keep *The Taming of the
+Shrew*, *Sweat* and *Kongi's Harvest*.
+
+
 ## Related resources
 
 - [Paper 3 – Shakespeare and Drama practice questions](/resources/a-level-english-literature-paper-3-shakespeare-and-drama-practice/)
@@ -151,6 +168,22 @@ and 4 are only sat by full A Level candidates in most staged routes,
 make sure your revision timeline accounts for tackling five assessment
 objectives together for the first time, rather than assuming the
 AS-Level habits built for Papers 1 and 2 transfer automatically.
+
+## Frequently asked questions
+
+**Is Paper 3 part of the AS Level?**
+No. Paper 3 is taken only for the full A Level, where it is worth 25% of
+the qualification. AS Level consists of Papers 1 and 2.
+
+**Can I take my set texts into the Paper 3 exam?**
+No. Set texts are not allowed in the examination room, so you must know
+the plays well enough to quote and refer to them from memory.
+
+**What does each section of Paper 3 carry?**
+Section A (Shakespeare) and Section B (Drama) are each worth 25 marks,
+and on every text you choose between an essay (a) and a passage-based
+(b) question.
+
 
 ## Official syllabus
 

@@ -23,7 +23,7 @@ description: "How to analyse a Shakespeare play as drama and verse and to write 
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check which Shakespeare plays and which poets or collections are set, whether the Shakespeare questions use an extract, and the exact marks and assessment objective weightings for each section."
+reviewNote: "Check which Shakespeare plays and which poets or collections are set, whether the Shakespeare questions use an extract, and the exact marks and assessment objective weightings for each section. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -95,6 +95,18 @@ Fifty marks in two hours is a generous allowance, so use planning time to decide
 ## Exam technique
 
 Underline the question's key terms and answer those, not a prepared essay. In extract answers, keep moving between the passage and the whole play. In poetry answers, select short quotations and give each its own analysis. Write a brief conclusion that makes a final judgement.
+
+## Frequently asked questions
+
+**How long is YET01 Unit 4?**
+2 hours for 50 marks, open book, and 25% of the International A Level.
+
+**What are the sections?**
+Section A Shakespeare and Section B Pre-1900 Poetry, each worth 25 marks and assessing AO1, AO2, AO3 and AO5.
+
+**Is Unit 4 open book?**
+Yes. All four YET01 units are open-book examinations.
+
 
 ## Check your understanding
 

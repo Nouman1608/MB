@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
     subtopic: "section-b-imaginative-writing-4ea1"
-description: "Anthology poetry and prose analysis paired with imaginative writing -- Component 2 of Pearson Edexcel International GCSE English Language A (4EA1), the examined alternative to Component 3's non-exam assessment."
+description: "Component 2 of Pearson Edexcel International GCSE English Language A 4EA1: anthology poetry and prose analysis with imaginative writing, the examined route."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Component 2 Poetry and Prose Texts and Imaginative
@@ -130,6 +132,18 @@ for when it says students should use what they have learned about the
 writer's craft to influence their own imaginative writing -- a
 technique consciously borrowed and adapted, not just similar writing
 produced by coincidence.
+
+## Frequently asked questions
+
+**How long is 4EA1 Component 2?**
+1 hour 30 minutes for 60 marks and 40% of the qualification: 30 marks for anthology poetry and prose analysis, 30 for imaginative writing.
+
+**Which assessment objectives are tested?**
+Section A tests AO1 (12 marks) and AO2 (18 marks); Section B tests AO4 (18 marks) and AO5 (12 marks).
+
+**Can I take Component 3 instead?**
+Yes. Component 3 is the non-examined alternative to Component 2, with the same 60 marks and 40% weighting.
+
 
 ## Quick revision checklist
 

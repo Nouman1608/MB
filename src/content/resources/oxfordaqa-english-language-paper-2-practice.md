@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-source-based-reading-and-directed-writing-9270"
     subtopic: "section-b-writing-9270"
-description: "Original exam-style practice questions with full worked answers on reading modern-world sources, visual/graphic texts, and directed writing for a specified audience and purpose."
+description: "Original practice with worked answers on modern-world sources, visual and graphic texts and directed writing for OxfordAQA GCSE English Language 9270."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. The source text used in Question 3 is an original

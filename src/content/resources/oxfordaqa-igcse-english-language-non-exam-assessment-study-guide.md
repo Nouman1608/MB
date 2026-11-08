@@ -16,7 +16,7 @@ description: "Planning, researching, writing and reflecting on an independent ta
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the exact task titles, word limits, controlled conditions, supervision rules, the nature of the commentary, and mark allocation for the non-exam assessment route in the specification, as only general project skills are taught here."
+reviewNote: "Check the exact task titles, word limits, controlled conditions, supervision rules, the nature of the commentary, and mark allocation for the non-exam assessment route in the specification, as only general project skills are taught here. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -106,6 +106,18 @@ The weeks add up to 1 + 2 + 1 + 2 + 1 + 1 + 1 + 1 = 10. To keep to a 1,000-word 
 - Vary sentence structures and choose precise vocabulary.
 - Test your opening and conclusion on a reader and ask what they remember.
 - Check every quotation and reference against the original.
+
+## Frequently asked questions
+
+**What is the 9270 non-exam assessment?**
+A project in which you research a topic and produce a written task with a specified audience, purpose and form, plus a commentary.
+
+**How much is it worth?**
+60 marks and 40% of the International GCSE, teacher assessed and moderated by AQA.
+
+**Does it replace an exam?**
+Yes. It is the alternative to Paper 2; Paper 1 is still compulsory.
+
 
 ## Check your understanding
 

@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-texts-and-genres-7717"
     subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
-description: "Elements of Crime Writing and Elements of Political and Social Protest Writing -- the two genre options, exam structure and set-text lists for Paper 2 of AQA A-Level English Literature B (7717)."
+description: "Option 2A crime and Option 2B protest writing: exam structure, current set-text lists and text rules for AQA A-Level English Literature B Paper 2 (7717)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: set-text lists completed from spec v1.5.1 (Kala 2027, Brotherless Night, named poems; Handmaid's Tale is not post-2000), Section C rubric wording, FAQ added; please re-review."
 ---
 
 This guide covers **Paper 2 Texts and Genres**, the second of two exam
@@ -90,16 +92,23 @@ interchangeably.
 Set texts for **Option 2A** include Charles Dickens's *Oliver Twist*,
 Shakespeare's *Hamlet*, Agatha Christie's *The Murder of Roger Ackroyd*,
 Graham Greene's *Brighton Rock*, Ian McEwan's *Atonement*, Kate
-Atkinson's *When Will There Be Good News?*, Samuel Taylor Coleridge's
-*The Rime of the Ancient Mariner*, and a poetry selection spanning
-Crabbe, Browning and Wilde.
+Atkinson's *When Will There Be Good News?*, Colin Walsh's *Kala* (first
+assessment 2027), Samuel Taylor Coleridge's *The Rime of the Ancient
+Mariner*, and a poetry selection of George Crabbe, Robert Browning and
+Oscar Wilde ('Peter Grimes', 'The Laboratory', 'My Last Duchess',
+'Porphyria's Lover', 'The Ballad of Reading Gaol'). The post-2000 prose
+texts are *When Will There Be Good News?*, *Atonement* and *Kala*.
 
 Set texts for **Option 2B** include Charles Dickens's *Hard Times*,
 Shakespeare's *Henry IV Part I*, William Blake's *Songs of Innocence and
 of Experience*, Margaret Atwood's *The Handmaid's Tale*, Khaled
-Hosseini's *The Kite Runner*, Jim Crace's *Harvest*, Henrik Ibsen's *A
-Doll's House* (Bloomsbury Methuen Drama edition, translated by Michael
-Meyer), and Tony Harrison's selected poems.
+Hosseini's *The Kite Runner*, Jim Crace's *Harvest*, V. V.
+Ganeshananthan's *Brotherless Night*, Henrik Ibsen's *A Doll's House*
+(Bloomsbury Methuen Drama edition, translated by Michael Meyer), and Tony
+Harrison's *Selected Poems* ('V', 'National Trust', 'Them and [uz]',
+'Divisions', 'Working', 'Marked with D'). The post-2000 prose texts are
+*Harvest*, *Brotherless Night* and *The Kite Runner*; *The Handmaid's
+Tale* (1985) is not post-2000, so it can only be the further text.
 
 ## Exam structure
 
@@ -109,8 +118,8 @@ The 3-hour paper is divided into three sections, each worth 25 marks:
 - **Section B** — an essay question on one of the candidate's own set
 texts.
 - **Section C** — an essay question that connects two of the candidate's
-set texts. The rubric requires that the two texts connected here not be
-the same text used in the Section B essay, so plan in advance which
+set texts. The rubric on AQA's question papers says you must write about
+two texts that you have not used in Section B, so plan in advance which
 text you will cover in each section.
 
 ## How to approach it
@@ -156,13 +165,31 @@ texts.
 - Confirm which of your three texts is pre-1900 and which is the
 post-2000 prose text, since both are compulsory requirements.
 
+## Frequently asked questions
+
+**What is the difference between Option 2A and Option 2B?**
+Option 2A studies elements of crime writing, such as motive, detection,
+guilt and the restoration of order. Option 2B studies elements of
+political and social protest writing, such as power struggles,
+rebellion, control, gender politics and social class.
+
+**Why is Paper 2 open book when Paper 1 is not?**
+AQA allows clean, unannotated copies of the Paper 2 set texts in the
+exam. The paper therefore rewards finding and analysing material
+quickly, while Paper 1 requires remembered quotations.
+
+**Where can I practise full Paper 2 questions?**
+Use the [Option 2A crime writing practice](/resources/a-level-aqa-english-literature-b-crime-writing-practice/)
+or the [Option 2B political and social protest writing practice](/resources/a-level-aqa-english-literature-b-political-and-social-protest-writing-practice/),
+then the official AQA past papers.
+
 ## Official syllabus
 
 AQA A-level English Literature B (7717), Paper 2 Texts and Genres —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification/subject-content/texts-and-genres),
 with exam structure confirmed via the
 [specification at a glance](https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification/specification-at-a-glance)
-page, both verified 2026-09-02. Note that AQA introduced additional
-optional texts to this specification for first assessment 2027 (recorded
-on the live specification pages); check with your teacher which text
-list applies to your examination series.
+page, both verified 2026-09-02, and the set-text lists rechecked on
+2026-11-08 against the specification PDF (Version 1.5.1, 1 October
+2025). *Kala* is the text marked for first assessment in 2027; check
+with your teacher which text list applies to your examination series.

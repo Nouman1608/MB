@@ -28,7 +28,7 @@ research pathway or theme you choose, but that every analysis will cover relevan
 phonetics, phonology and prosodics; graphology; lexis and semantics; grammar, including morphology; pragmatics; and
 discourse.
 
-This guide teaches section 4.3.3 Methods of language analysis of the A-level subject content in the AQA AS and
+This guide teaches section 3.3.3 Methods of language analysis (4.3.3 in the specification PDF) of the A-level subject content in the AQA AS and
 A-level English Language specification (7701/7702), Version 1.2 (14 October 2021). The NEA is A-level only: it has a
 word count of 3,500 (a 2,000-word investigation excluding data, and a piece of original writing and a commentary of
 750 words each), is worth 100 marks and 20% of the A-level, and is assessed by teachers and moderated by AQA. For the
@@ -38,7 +38,7 @@ the [NEA revision notes](/resources/aqa-english-language-nea-revision-notes/) an
 
 ## What does the specification say?
 
-| Specification point (4.3.3) | What it means for you |
+| Specification point (3.3.3) | What it means for you |
 |---|---|
 | Both the investigation and original writing have a distinctive approach to analysis, shaped by the research pathway or theme | Choose the levels that fit your research questions or writing purpose; you do not need to apply all six equally |
 | Underlying any analysis will be coverage of some relevant aspects of the language levels | Your analysis must still be systematic and use the levels' terminology |
@@ -144,5 +144,8 @@ your writing achieves its purpose.
 ## Official syllabus
 
 AQA AS and A-level English Language (7701/7702) specification, Version 1.2 (14 October 2021), A-level subject content
-4.3 Language in action, section 4.3.3 Methods of language analysis, with the NEA requirements set out in 4.3 and the
+3.3 Language in action, section 3.3.3 Methods of language analysis, with the NEA requirements set out in 3.3 and the
 scheme of assessment.
+
+**Section numbers.** This site follows the A-level (7702) subject content on aqa.org.uk, where Paper 2 content is 3.2 and the NEA is 3.3. The combined AS and A-level specification PDF (Version 1.2, 14 October 2021) puts the AS content in section 3, so the same A-level sections are numbered 4.1, 4.2 and 4.3 there.
+

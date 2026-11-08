@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-language-and-society-9670"
     subtopic: "section-b-language-and-social-groups-writing-9670"
-description: "Condensed recall notes on the four social functions of language and connecting analysis to academic argument for OxfordAQA International AS/A-Level English Language Unit 2 (9670)."
+description: "Condensed notes on the four social functions of language and on linking analysis to academic argument for OxfordAQA AS English Language 9670 Unit 2."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

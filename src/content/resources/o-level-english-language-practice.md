@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "reading-1123"
-description: "Original exam-style practice questions with full worked answers on directed writing, composition, comprehension and summary skills."
+description: "Original practice with full worked answers on directed writing, composition, comprehension and summary for Cambridge O Level English Language 1123, both papers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and practice
 > on this content. They are **not** reproduced past-paper questions, and question

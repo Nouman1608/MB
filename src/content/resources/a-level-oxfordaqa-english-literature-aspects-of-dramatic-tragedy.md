@@ -22,10 +22,12 @@ syllabusTopics:
 description: "Tragedy as a dramatic genre -- Unit 1 of OxfordAQA International AS & A-Level English Literature (9675), the first of two units forming the International AS."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review."
 ---
 
 This guide covers **Unit 1 Aspects of Dramatic Tragedy**, the first
@@ -155,3 +157,14 @@ keeps this genre focus visible throughout rather than only in an introduction.
 OxfordAQA International AS & A-Level English Literature specification
 PDF, Version 5.3 —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-english-literature-specification.pdf).
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9675 Unit 1?**
+2 hours for 50 marks, closed book: 50% of the International AS and 20% of the International A-level.
+
+**What are the two sections?**
+Section A is a passage-based question on Elizabethan and Jacobean tragedy; Section B is an essay on later dramatic tragedies, 25 marks each.
+
+**Can I take my plays into the exam?**
+No. Unit 1 is closed book.

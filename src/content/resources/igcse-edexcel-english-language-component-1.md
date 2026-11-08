@@ -21,10 +21,12 @@ syllabusTopics:
 description: "The two sections of Component 1 -- Non-fiction Texts and Transactional Writing -- for Pearson Edexcel International GCSE English Language A (4EA1)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review."
 ---
 
 This guide covers **Component 1 – Non-fiction Texts and Transactional
@@ -163,3 +165,14 @@ essay-like register regardless of what form was actually asked for.
 Pearson Edexcel International GCSE English Language A (4EA1)
 specification, Issue 7 (August 2025) —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20A/2016/Specification%20and%20sample%20assessments/9781446954379-int-gcse-englang-a-iss6-02-02-2023.pdf).
+
+## Frequently asked questions
+
+**How long is 4EA1 Component 1?**
+2 hours 15 minutes for 90 marks, 60% of the qualification: 45 marks for Section A reading and 45 for Section B transactional writing.
+
+**Which question carries the most reading marks?**
+The comparison question, worth 22 marks for AO3, comparing the two texts' ideas and perspectives.
+
+**Is Component 1 compulsory?**
+Yes. Every candidate takes Component 1, plus either Component 2 (exam) or Component 3 (non-examined assessment).

@@ -17,13 +17,15 @@ syllabusTopics:
     subtopic: "section-c-unseen-poetry-8702"
 seoTitle: "AQA 8702 Unseen Poetry: Paper 2 Section C (24 + 8 marks)"
 seoDescription: "How to answer AQA GCSE English Literature 8702 Paper 2 Section C: analysing one unseen poem (24 marks), then comparing it with a second (8 marks)."
-description: "The two-part Unseen Poetry task -- analysing one unseen poem, then comparing it with a second -- Section C of Paper 2, distinct from the site's existing whole-paper guide to Modern Texts and Poetry, which focuses on the studied anthology cluster and modern prose/drama text."
+description: "Unseen poetry in AQA GCSE English Literature 8702 Paper 2 Section C: analysing one unseen poem, then comparing its methods with a second unseen poem."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Section C: Unseen Poetry**, part of Paper 2 (Modern Texts and Poetry) in AQA GCSE
@@ -135,6 +137,18 @@ Describing what an unseen poem is about without analysing how language, form or 
 meaning. In the comparison task, listing similarities and differences in content rather than in the
 poets' techniques. Trying to name every possible feature rather than selecting a smaller number and
 analysing each in depth.
+
+## Frequently asked questions
+
+**How many marks is unseen poetry worth?**
+32 of Paper 2's 96 marks: 24 for analysing the first poem and 8 for comparing methods with a second poem.
+
+**Does the 8-mark question need context?**
+No. It assesses AO2 only: the poets' methods, compared across the two poems.
+
+**How long should I spend on Section C?**
+About 45 minutes in total, with most of it on the 24-mark answer.
+
 
 ## Quick revision checklist
 

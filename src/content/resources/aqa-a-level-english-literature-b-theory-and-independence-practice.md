@@ -15,13 +15,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "non-exam-assessment-theory-and-independence-7717"
     subtopic: "text-selection-7717"
-description: "Original exam-technique practice questions with full worked answers on Component 3's requirements, text-selection rules and assessment structure for AQA A-Level English Literature B (7717)."
+description: "Original practice on the 7717 Theory and Independence NEA: requirements, text-selection rules and the Critical anthology, for AQA Literature B."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, testing understanding

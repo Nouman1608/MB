@@ -12,11 +12,11 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "spoken-language-endorsement-4ea1"
-description: "Preparing and giving a talk, answering questions and using formal spoken English for the optional, separately reported Spoken Language Endorsement in Edexcel IGCSE English Language A."
+description: "Preparing and giving a talk, answering questions and using spoken Standard English for the optional Spoken Language Endorsement in Edexcel IGCSE English 4EA1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the task format, timing, assessment criteria, grade labels, and the arrangements for recording and moderation in the current Edexcel specification, as only general skills are taught here."
+reviewNote: "Check the task format, timing, assessment criteria, grade labels, and the arrangements for recording and moderation in the current Edexcel specification, as only general skills are taught here. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -98,6 +98,18 @@ Total: 40 + 80 + 80 + 70 + 30 = 300 seconds, which is exactly 5 minutes. After r
 - Have a plan for a nervous moment: pause, breathe, look at your notes, continue.
 - Link your points with signposts such as "firstly", "in contrast" and "for this reason".
 - Reflect on feedback after a practice talk and change one thing each time.
+
+## Frequently asked questions
+
+**Does the Spoken Language Endorsement count towards my 4EA1 grade?**
+No. It is optional and reported separately on the certificate as Pass, Merit, Distinction or Not Classified.
+
+**How long is the presentation?**
+The specification says the presentation should be prepared and last no longer than 10 minutes.
+
+**Do I have to answer questions?**
+Yes. Responding to questions and feedback is part of the assessment, so prepare for likely questions.
+
 
 ## Check your understanding
 

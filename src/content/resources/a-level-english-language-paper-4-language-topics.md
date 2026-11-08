@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-4-language-topics-9093"
     subtopic: "section-b-language-and-the-self-9093"
-description: "English as a global language and its varieties, including Kachru's Three Circles model and creolisation, and how language shapes and reflects social identity, for Cambridge International AS & A Level English Language (9093) Paper 4."
+description: "Cambridge 9093 Paper 4 Language Topics: English as a global language, Kachru's Three Circles, pidgins and creoles, and how language shapes identity."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Paper 4 Language Topics**, the second of the two A Level-only papers in Cambridge International AS & A Level English Language (9093), sitting alongside Paper 3 Language Analysis to complete the full A Level.
@@ -69,6 +71,18 @@ A stimulus text reports a study claiming that speakers of languages with no dedi
 ## Common mistakes
 
 Writing a prepared, generic essay on the topic without engaging with the specific stimulus text given. Confusing idiolect (individual) with sociolect (shared, group-level). Naming an influence on identity (gender, ethnicity, region) without a concrete named example or theory to support it. Treating the global spread of English as straightforwardly positive or negative rather than engaging with the genuine ethical tension the syllabus expects. Preparing only the identity strand of Section B and being caught out by a stimulus on innateness/learning or language and thought instead. Running out of time on one section because the other was allowed to overrun.
+
+## Frequently asked questions
+
+**How long is Cambridge 9093 Paper 4?**
+2 hours 15 minutes for 50 marks and 25% of the A Level, with two 25-mark sections.
+
+**What are the two sections?**
+Section A English in the world and Section B Language and the self.
+
+**Is Paper 4 taken at AS Level?**
+No. Paper 4 completes the A Level with Paper 3.
+
 
 ## Quick revision checklist
 

@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "reading-1123"
-description: "A section-by-section breakdown of Paper 1 in Cambridge O-Level English Language (1123): Comprehension and Use of Language, Summary and Short Response, and how the reading assessment objectives are actually marked."
+description: "Cambridge O Level English Language 1123 Paper 1 Reading, section by section: comprehension, use of language, summary and short response, and the marking."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 Paper 1 – Reading carries exactly half of the marks in Cambridge O Level
@@ -185,6 +187,18 @@ schemes, freely available from Cambridge International, show real
 examples of how examiners credit implicit-meaning inferences and
 summary points -- use them alongside this guide rather than as a
 substitute for understanding the assessment structure first.
+
+## Frequently asked questions
+
+**How long is the 1123 summary?**
+Continuous writing of no more than 150 words, based on Text B. It earns 10 marks for reading and 10 for writing.
+
+**How long are the Paper 1 texts?**
+Text A is a narrative text of about 900 words from the twentieth or twenty-first century; Text B is about 550–600 words.
+
+**Which question tests use of language?**
+Question 2 in Section A, worth 9 marks, tests R4: how writers achieve effects and influence readers.
+
 
 ## Official syllabus
 

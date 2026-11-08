@@ -15,13 +15,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "non-exam-assessment-theory-and-independence-7717"
     subtopic: "text-selection-7717"
-description: "How Component 3 Theory and Independence works within AQA A-Level English Literature B (7717): text selection against the Critical anthology, the conventional-versus-re-creative essay choice, and the commentary requirement."
+description: "AQA A-Level English Literature B 7717 Theory and Independence NEA: choosing texts, using the Critical anthology, re-creative essays and the commentary rule."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Component 3: Theory and Independence**, the
@@ -162,6 +164,18 @@ word limits"; the same guide gives the count as 1,250-1,500 words "not
 including quotations", and says of a re-creative piece and its
 commentary, "Together the two pieces of writing should constitute
 1,250-1,500 words", so both are counted in one total.
+
+## Frequently asked questions
+
+**How long are the 7717 NEA essays?**
+Two essays of 1,250 to 1,500 words, one on a poetry text and one on a prose text.
+
+**What is the Critical anthology for?**
+Each essay links to a different section of the AQA Critical anthology, such as narrative, feminist, Marxist, eco-critical or post-colonial theory.
+
+**Can one essay be creative?**
+Yes. One essay may be re-creative, but it must be accompanied by a commentary.
+
 
 ## Official syllabus
 
