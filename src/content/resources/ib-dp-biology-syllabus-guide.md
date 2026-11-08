@@ -9,13 +9,15 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 syllabusSeries: "First assessment 2025"
 order: 2
-description: "The four syllabus themes of IB Diploma Programme Biology -- Unity and diversity, Form and function, Interaction and interdependence, and Continuity and change -- with real sub-topic names, HL-only content marked, and recommended teaching hours, for first assessment 2025."
+description: "The four themes of IB Diploma Programme Biology, their sub-topics, HL-only content and recommended SL and HL teaching hours, for first assessment 2025."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme
@@ -149,6 +151,20 @@ sub-topics are HL-only (marked above) as you go, since these carry
 extra weight in Papers 1 and 2 and are the material most often
 under-revised by HL students who default to SL-level depth out of
 habit.
+
+## Frequently asked questions
+
+**How many hours does each IB DP Biology theme take?**
+Recommended hours are Theme A 19 SL and 33 HL, Theme B 26 SL and 39 HL, Theme C 31 SL and 48 HL, and Theme D 34 SL and 60 HL, totalling 110 hours at SL and 180 at HL for syllabus content.
+
+**Which is the largest theme in IB DP Biology?**
+Theme D, Continuity and change, is the largest theme by teaching hours at both SL and HL, covering DNA replication, protein synthesis, cell division, inheritance, homeostasis and natural selection.
+
+**Which sub-topics are HL only in the IB Biology syllabus?**
+The HL-only sub-topics are origins of cells, viruses, and classification and cladistics in Theme A; muscle and motility in Theme B; chemical signalling in Theme C; and gene expression in Theme D.
+
+**Are SL students examined on HL-only content?**
+No. Sub-topics marked HL only are additional content that SL students are not examined on.
 
 ## Official syllabus
 
