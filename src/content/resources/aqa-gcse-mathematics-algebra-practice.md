@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-aqa-gcse-maths"
-description: "Original exam-style practice questions with full worked answers on notation and manipulation, graphs, solving equations and inequalities, and sequences for AQA GCSE Mathematics (8300), Topic 2 Algebra."
+description: "AQA GCSE Maths 8300 algebra practice with full worked answers on manipulation, graphs, equations, inequalities, functions and sequences, Higher parts marked."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"

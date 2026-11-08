@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "number-aqa-gcse-maths"
     subtopic: "measures-and-accuracy-aqa-gcse-maths"
-description: "Study guide for AQA GCSE Maths 8300 section 3.1.3 (N13-N16): units, estimation, rounding, error intervals and bounds, with worked examples."
+description: "Detailed study guide for AQA GCSE Maths 8300 section 3.1.3 (N13-N16): units, estimation, rounding, error intervals and bounds, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
