@@ -27,10 +27,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-cambridge-alevel-maths"
     subtopic: "energy-work-and-power-cambridge-alevel-maths"
-description: "Original exam-style Mechanics questions with full worked answers on work and power, momentum, kinematics, connected particles, friction, variable acceleration and energy methods, for Cambridge AS & A Level Mathematics 9709 Paper 4."
+description: "Original exam-style Cambridge 9709 Paper 4 Mechanics questions with worked answers on work, power, momentum, kinematics, friction and energy methods."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
@@ -126,3 +128,20 @@ Take g = 10 m s⁻². Each question practises a skill tested in the June 2025 Pa
 - Velocities given the wrong sign in momentum questions.
 - Friction drawn the wrong way on an inclined plane.
 - Maximum velocity found by setting v = 0 instead of dv/dt = 0.
+
+## Frequently asked questions
+
+**What topics come up on Cambridge 9709 Paper 4 Mechanics?**
+These practice questions cover work and power, momentum and collisions, kinematics with constant and variable acceleration, connected particles over a pulley, friction on an inclined plane, and energy methods.
+
+**What value of g should you use in 9709 Mechanics?**
+These questions take g = 10 m s⁻², which is the value used in Cambridge 9709 Mechanics questions unless a question states otherwise.
+
+**How do you find the work done by a force at an angle?**
+Only the component of the force in the direction of motion does work, so multiply that component (for example F cos θ) by the distance moved, not the full force.
+
+**How do you find the maximum velocity when v is given as a function of t?**
+Differentiate v to get the acceleration and set dv/dt = 0, then substitute that time back into v. Setting v = 0 instead is a common mistake.
+
+**Which way does friction act on a particle on a slope?**
+Friction opposes the motion that would happen, so first decide which way the particle would slide. If it is about to slide down, friction acts up the plane.

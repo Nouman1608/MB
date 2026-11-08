@@ -293,6 +293,23 @@ R is the area between the curve and the line: on or above the parabola and stric
 
 Next, use the [revision notes](/resources/aqa-a-level-mathematics-linear-and-quadratic-inequalities-rational-revision-notes/) for a condensed version, then the [practice questions](/resources/aqa-a-level-mathematics-linear-and-quadratic-inequalities-rational-practice/). The [diagnostics](/diagnostics/) show whether B5 is secure.
 
+## Frequently asked questions
+
+**Why shouldn't you multiply both sides of an inequality by (x − 2)?**
+Its sign depends on x, so you cannot tell whether the inequality should reverse. Multiply by its square instead, or collect everything into a single fraction and use the signs of the top and bottom.
+
+**How do you solve a double inequality such as −5 < 3 − 2x ≤ 9?**
+Apply each step to every part. Subtract 3 from all three parts, then divide all three by −2 and reverse both signs, giving −3 ≤ x < 4.
+
+**What is the solution of x² − 6x + 9 ≤ 0?**
+Because x² − 6x + 9 = (x − 3)² ≥ 0, only the repeated root works, so the solution is x = 3. By contrast, x² − 6x + 9 > 0 holds for every x except 3.
+
+**How do you use a graph to solve f(x) > g(x)?**
+Find where the graphs of y = f(x) and y = g(x) intersect, then read off the x-values where the graph of f lies above the graph of g.
+
+**How do you choose which side of a boundary to shade for a region?**
+Draw the boundary, pick a test point not on it (often the origin), and substitute. If the inequality is true, the region is on that side; if false, it is on the other side.
+
 ## Official syllabus
 
 AQA, *A-level Mathematics 7357 specification*, for first teaching in 2017 (version 1.3, 31 January 2018), content B5. Published by AQA.

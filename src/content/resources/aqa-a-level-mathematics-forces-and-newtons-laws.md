@@ -254,6 +254,23 @@ F = ma:         19.6 − 8.487 = 4a  →  a = 2.78 m s⁻² down the plane
 - Writing a single F = ma equation for a pulley system whose particles move in different directions. Write one equation per particle.
 - Quoting more figures than the value of g supports.
 
+## Frequently asked questions
+
+**What does constant velocity tell you about the forces on a body?**
+By Newton's first law, a body at rest or moving with constant velocity has zero resultant force, so the forces balance in every direction. The speed itself is not needed.
+
+**Is g a universal constant in AQA 7357?**
+No. The specification says g may be assumed constant but depends on location, and it is used to varying degrees of accuracy such as 9.8 or 9.81 m s⁻². The inverse square law is not required.
+
+**How do you resolve a force at an angle?**
+A force F at angle θ to a chosen direction has component F cos θ in that direction and F sin θ at right angles to it. Resolve along the motion for F = ma and perpendicular to it to find the normal reaction.
+
+**How do you solve a connected particles problem in AQA 7357?**
+Assume a light inextensible string and smooth pulley, so the tension is the same throughout and both particles share the same acceleration. Write a separate F = ma equation for each particle, then solve them together.
+
+**What is the coefficient of friction?**
+It is the constant μ in the friction model F ≤ μR, where R is the normal reaction. A smooth surface is the model with μ = 0.
+
 ## Next steps
 
 - Condensed recall: [Forces and Newton's laws revision notes](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes/).

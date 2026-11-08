@@ -239,6 +239,22 @@ Use the [practice questions](/resources/aqa-a-level-mathematics-linear-and-quadr
   <figcaption>f(x) &lt; g(x) means the first graph lies below the second; find the intersections first.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**When do you reverse the inequality sign?**
+Reverse it whenever you multiply or divide both sides by a negative number. Adding or subtracting, or multiplying by a positive number, leaves it unchanged.
+
+**How do you write an inequality answer in set notation?**
+Use braces and ∪ for "or", for example {x: x ≤ −2} ∪ {x: x ≥ 5}. Interval notation such as (−∞, −2] ∪ [5, ∞) is also used, with round brackets for strict ends and infinity.
+
+**Should the boundary of a region be solid or dashed?**
+Use a solid boundary for ≤ or ≥, because points on it are included, and a dashed boundary for < or >.
+
+**How do you check an inequality answer?**
+Pick one value inside each interval and one in each gap, and substitute them into the original inequality. Inside values must make it true and the others false.
+
+**What happens if a quadratic has a negative discriminant in an inequality?**
+The curve never meets the x-axis. If the coefficient of x² is positive, the quadratic is always positive, so > 0 holds for all real x and < 0 has no solution.
 
 ## Official syllabus
 

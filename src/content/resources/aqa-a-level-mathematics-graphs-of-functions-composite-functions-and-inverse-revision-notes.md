@@ -213,6 +213,22 @@ Neither curve meets either axis. y = a/x is unchanged by a half-turn about the o
   <figcaption>Always check modulus roots: a root from the wrong branch does not fit the graph.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the asymptotes of y = a/x and y = a/x²?**
+Both have asymptotes x = 0 and y = 0 and never meet either axis. y = a/x lies in quadrants 1 and 3 when a > 0, and y = a/x² has both branches above the x-axis when a > 0.
+
+**What is the inverse of a composite function fg?**
+(fg)⁻¹ = g⁻¹f⁻¹, so the order reverses. For f(x) = 2x + 1 and g(x) = x³, (fg)⁻¹(x) = ∛((x − 1)/2).
+
+**How does a percentage change in x affect y if y ∝ x²?**
+y is multiplied by the square of the multiplier. If x rises by 10 per cent, y is multiplied by 1.1² = 1.21, a 21 per cent rise.
+
+**What is the difference between f⁻¹(x) and 1/f(x)?**
+f⁻¹ is the inverse function that undoes f, while 1/f(x) is the reciprocal of f(x). They are not the same.
+
+**Where do the graphs of f and f⁻¹ meet?**
+If f is increasing, they can only meet on the line y = x, so solve f(x) = x. The graph of f⁻¹ is the reflection of f in y = x.
 
 ## Official syllabus
 

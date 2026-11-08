@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "coordinate-geometry-cambridge-alevel-maths"
-description: "Equations of straight lines, the circle equation and its expanded form, and algebraic methods for lines and circles -- a deep dive into subtopic 1.3 Coordinate geometry for Cambridge International AS & A Level Mathematics 9709, Pure Mathematics 1."
+description: "Cambridge 9709 Pure Mathematics 1 guide to subtopic 1.3: straight-line forms, parallel and perpendicular gradients, circle equations and line-circle problems."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -195,6 +197,20 @@ intersection between a line and a circle, get comfortable substituting
 one equation into the other to produce a single quadratic, since this
 substitution pattern -- not a new formula -- is the actual technique
 being examined.
+
+## Frequently asked questions
+
+**How do you find the centre and radius of a circle from its expanded equation?**
+Complete the square on the x terms and the y terms separately to rewrite x² + y² + 2gx + 2fy + c = 0 as (x − a)² + (y − b)² = r². The centre is (a, b) and the radius is r.
+
+**What is the gradient of a line perpendicular to another line?**
+Perpendicular lines have gradients whose product is −1, so if one line has gradient m the other has gradient −1/m. Parallel lines share the same gradient.
+
+**How do you find the tangent to a circle in Cambridge 9709 Paper 1?**
+Use the fact that a tangent is perpendicular to the radius at the point of contact: find the radius gradient, take the negative reciprocal, and use the point to write the line. Implicit differentiation is not part of subtopic 1.3.
+
+**How do you test whether a point lies on a circle?**
+Substitute the point's coordinates into the centre-radius form. If the left-hand side equals r², the point lies exactly on the circle.
 
 ## Official syllabus
 

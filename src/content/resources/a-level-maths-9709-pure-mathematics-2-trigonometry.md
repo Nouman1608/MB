@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Study guide for Cambridge 9709 Pure Mathematics 2 section 2.3: sec, cosec, cot, compound and double angles, and R-form, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -307,6 +309,23 @@ Keep α to at least 2 decimal places in part (b), and always shift the interval 
 - Solving for θ − α without shifting the range, so a solution is missed or an extra one appears.
 - Taking the wrong ratio for tan α (b/a instead of a/b, or the reverse). Always compare coefficients first.
 - Accepting sec θ = 0.5 or cosec θ = −0.3. These have no solutions.
+
+## Frequently asked questions
+
+**What does Cambridge 9709 section 2.3 Trigonometry cover?**
+It covers sec, cosec and cot and their graphs, the identities sec²θ ≡ 1 + tan²θ and cosec²θ ≡ 1 + cot²θ, compound-angle and double-angle formulae, and writing a sin θ + b cos θ in R-form.
+
+**Which trigonometry formulae are given in MF19?**
+MF19 gives the Pythagorean identities, the compound-angle formulae and the double-angle formulae. It does not give the definitions of sec, cosec and cot or the R-form method.
+
+**Why does sec x = 0.4 have no solutions?**
+The graph of y = sec x never enters the band −1 < y < 1, because |sec x| ≥ 1. So any equation sec x = k with −1 < k < 1 has no solutions.
+
+**How do you solve an equation in sec θ on a calculator?**
+Change sec to cos first, for example sec θ = −3/2 becomes cos θ = −2/3, because there is no sec⁻¹ key. Then find every angle in the interval.
+
+**How do you choose which identity to use?**
+Use a Pythagorean identity for tan² with sec or cot² with cosec, a compound-angle expansion for sin(θ ± k), a double-angle formula when 2θ appears with θ, and the R-form for a sin θ + b cos θ = c.
 
 ## Next steps
 

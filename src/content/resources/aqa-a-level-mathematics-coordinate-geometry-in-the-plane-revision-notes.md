@@ -251,6 +251,23 @@ for tangents to curves and dy/dx for parametric curves. Ready to check yourself?
 [practice questions](/resources/aqa-a-level-mathematics-coordinate-geometry-in-the-plane-practice/) or a
 free [diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**Which coordinate geometry formulae must you recall for AQA 7357?**
+Appendix B of the specification lists the line equation y − y₁ = m(x − x₁) and the perpendicular condition m₁m₂ = −1 as formulae you must recall, but you need all the gradient, midpoint, distance and circle results too.
+
+**What are the three circle properties in AQA 7357 C2?**
+The angle in a semicircle is a right angle, the perpendicular from the centre to a chord bisects the chord, and the radius is perpendicular to the tangent at the point of contact.
+
+**How do you find the length of a chord from its distance to the centre?**
+Half the chord is √(r² − d²), where d is the distance from the centre to the chord. For r = 10 and d = 6, the chord is 16.
+
+**What are the parametric equations of a circle?**
+The circle (x − a)² + (y − b)² = r² can be written x = a + r cos θ, y = b + r sin θ.
+
+**What is the difference between a tangent and a normal to a circle?**
+The normal at a point on a circle passes through the centre, and the tangent is perpendicular to it.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3, 31 January 2018 (A-level exams June 2018

@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "functions-cambridge-alevel-maths"
-description: "Domain, range, one-one functions, inverse functions, composition, and the four standard graph transformations -- a deep dive into subtopic 1.2 Functions for Cambridge International AS & A Level Mathematics 9709, Pure Mathematics 1."
+description: "Cambridge 9709 Pure Mathematics 1 guide to subtopic 1.2: domain, range, one-one and inverse functions, composite functions and graph transformations."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -193,6 +195,23 @@ mental habit of applying them one at a time when a question combines
 two or more (for example, y = 2f(x − 1) is a horizontal translation
 followed by a vertical stretch), rather than trying to visualise the
 combined effect in a single step.
+
+## Frequently asked questions
+
+**When can a composite function gf be formed?**
+A composite function gf exists only when the range of f lies within the domain of g. Stating this check as a line of working is good practice in Cambridge 9709 Paper 1.
+
+**How do you find an inverse function?**
+Write y = f(x), rearrange to make x the subject, then swap x and y to express the inverse in terms of x. The domain of f becomes the range of f⁻¹, and the range of f becomes the domain of f⁻¹.
+
+**How can you tell if a function is one-one?**
+Check whether any horizontal line could cross the graph more than once over the given domain. If it can, the function is not one-one, and only a one-one function has an inverse.
+
+**What is the graphical link between a function and its inverse?**
+The graph of the inverse is the reflection of the original graph in the line y = x. Sketches should show this mirror line.
+
+**What does y = f(ax) do to a graph?**
+It is a horizontal stretch with scale factor 1/a. By contrast, y = a·f(x) is a vertical stretch with scale factor a.
 
 ## Official syllabus
 

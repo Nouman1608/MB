@@ -19,7 +19,9 @@ syllabusTopics:
 description: "12 original Cambridge 9709 Paper 2 integration questions on exponential, reciprocal and trig integrals and the trapezium rule, with mark-by-mark answers."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -137,6 +139,20 @@ Related: the [study guide](/resources/a-level-maths-9709-pure-mathematics-2-inte
 - Giving "over-estimate" or "under-estimate" with no reason about how the curve bends.
 - Reporting a negative area, or leaving exact answers such as 2 ln 20 − 2 ln 5 unsimplified.
 - Forgetting e⁰ = 1 at a lower limit of 0.
+
+## Frequently asked questions
+
+**How do you integrate e^(ax + b), sin(ax + b) and sec²(ax + b)?**
+Use the standard result and divide by a: e^(ax + b) gives (1/a)e^(ax + b), sin(ax + b) gives −(1/a)cos(ax + b), and sec²(ax + b) gives (1/a)tan(ax + b), each plus c.
+
+**How do you say whether the trapezium rule over- or under-estimates?**
+Look at which way the curve bends on the interval. If it bends upward the chords lie above it and the rule over-estimates; if it bends downward the chords lie below and it under-estimates. Give that reason, not just the word.
+
+**Why does the calculator mode matter for the trapezium rule with trig functions?**
+Ordinates for trigonometric functions must be found in radians. Degree-mode values give a completely wrong estimate and lose the accuracy marks.
+
+**How do you integrate a squared trigonometric function such as sin²x?**
+Rewrite it with a double-angle identity first, for example sin²x = ½(1 − cos 2x), then integrate term by term.
 
 ## Next steps
 

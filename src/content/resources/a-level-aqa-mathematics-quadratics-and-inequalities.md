@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b3-quadratic-functions-aqa-alevel-maths"
-description: "Quadratic functions and the discriminant, solving simultaneous linear-quadratic equations, and linear and quadratic inequalities -- B3, B4 and B5 of AQA A-Level Mathematics (7357)'s DfE-prescribed Algebra and Functions content."
+description: "AQA A-Level Maths (7357) guide to quadratics, the discriminant, linear-quadratic simultaneous equations and inequalities with and/or and set notation."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -199,6 +201,23 @@ substitution and elimination, as B4 requires.
 quadratic inequality.
 - Be precise about "and" (bounded, between two roots) versus "or"
 (unbounded, outside two roots) in inequality solutions.
+
+## Frequently asked questions
+
+**What does the discriminant tell you about a quadratic?**
+The discriminant b² − 4ac shows how many real roots a quadratic has: two distinct real roots if it is positive, one repeated root if it is zero, and no real roots if it is negative.
+
+**How do you solve a quadratic inequality such as x² − x − 6 > 0?**
+Find the roots by solving x² − x − 6 = 0 (x = −2 and x = 3), sketch the upward-opening parabola, and read off where the graph is above the x-axis. Here that is outside the roots, so the answer is x < −2 or x > 3.
+
+**When should an inequality answer use "and" and when should it use "or"?**
+A bounded region between two roots, such as −2 < x < 3, is an "and" condition. Two unbounded regions outside the roots, such as x < −2 or x > 3, must be joined with "or" or written in set notation.
+
+**Can you use either substitution or elimination for a linear and a quadratic equation?**
+Yes. AQA 7357 statement B4 names both methods, and either gives the same quadratic. Marks are lost through algebra slips, such as not substituting back to find the matching y-values, not through the choice of method.
+
+**How can a discriminant show whether a line meets a curve?**
+Substitute the line into the curve to get a single quadratic. If its discriminant is positive the line cuts the curve twice, if it is zero the line is a tangent, and if it is negative the line misses the curve.
 
 ## Official syllabus
 

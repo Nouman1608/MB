@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Condensed Cambridge 9709 Paper 1 revision notes on coordinate geometry: line forms, perpendicular bisectors, circles, tangents and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -257,6 +259,23 @@ For "the line meets the curve" (at least once) use b² − 4ac ≥ 0. When the l
 - Finding the second coordinate of an intersection from the circle, which gives extra (wrong) points; use the line.
 - Using > 0 when the question says "meets" or "intersects", which needs ≥ 0.
 - Not showing that a given point lies on the circle before using it in a "show that" question.
+
+## Frequently asked questions
+
+**How do you find the centre and radius from x² + y² + 2gx + 2fy + c = 0?**
+The centre is (−g, −f) and the radius is √(g² + f² − c). If g² + f² − c is zero or negative, the equation is not a real circle.
+
+**How do you tell whether a point is inside, on or outside a circle?**
+Substitute the point into (x − a)² + (y − b)² and compare the result with r². Less than r² means inside, equal means on the circle, and greater means outside.
+
+**Is implicit differentiation used for circle tangents in Cambridge 9709 Paper 1?**
+No. Implicit differentiation is not part of section 1.3. Find the tangent using the fact that it is perpendicular to the radius at the point of contact.
+
+**What discriminant condition means a line "meets" a curve?**
+"Meets" or "intersects" means at least once, so use b² − 4ac ≥ 0. "Two distinct points" needs > 0, and "touches" needs = 0.
+
+**Are coordinate geometry formulas given in the 9709 formula list?**
+No. The gradient, midpoint, distance and circle formulas are not in MF19, so they must all be learned.
 
 ## Official syllabus
 

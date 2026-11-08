@@ -317,6 +317,23 @@ The syllabus states that no marks are given for unsupported answers from a calcu
 - Substituting back into the quadratic instead of the linear equation, which can create wrong pairs.
 - Stopping at u, keeping an impossible u, or dropping the negative root of x² = c.
 
+## Frequently asked questions
+
+**How do you find the vertex of a quadratic from completed square form?**
+Write ax² + bx + c as a(x + p)² + q. The vertex is (−p, q) and the line of symmetry is x = −p; q is the least value if a > 0 and the greatest value if a < 0.
+
+**Why do you need k ≠ 0 when k is the coefficient of x²?**
+If k = 0, the x² term disappears and the equation becomes linear, with only one root. So for "two distinct real roots" you must exclude that value of k.
+
+**What discriminant condition means "real roots" in Cambridge 9709?**
+"Real roots" with no other word means b² − 4ac ≥ 0. "Two distinct real roots" needs > 0, and a repeated root needs = 0.
+
+**Why should you not divide an inequality by x?**
+x could be negative or zero, so dividing by it can reverse or lose part of the answer. Rearrange to one side instead, for example x² − 3x > 0 gives x(x − 3) > 0, so x < 0 or x > 3.
+
+**Which equation should you substitute back into for simultaneous equations?**
+Substitute each value back into the linear equation to find its partner. Using the quadratic can create wrong pairs.
+
 ## Where to go next
 
 - [Quadratics revision notes](/resources/a-level-mathematics-quadratics-revision-notes/) and [practice questions](/resources/a-level-mathematics-quadratics-practice/)

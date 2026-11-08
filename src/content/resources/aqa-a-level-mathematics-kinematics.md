@@ -303,6 +303,23 @@ angle below horizontal = tan⁻¹(19.6/15) = 52.6°
 - Rounding the time of flight before using it for the range.
 - Not stating modelling assumptions when asked (particle, no air resistance, g constant). The [Overarching themes guide](/resources/aqa-a-level-mathematics-overarching-themes/) covers how to criticise a model.
 
+## Frequently asked questions
+
+**How do you derive the suvat formulae?**
+For constant acceleration the velocity–time graph is a straight line, so its gradient gives v = u + at and the area of the trapezium gives s = ½(u + v)t. Substituting for v, u or t gives the other three formulae.
+
+**Does negative acceleration always mean slowing down?**
+No. A particle moving in the negative direction with negative acceleration is speeding up. Slowing down happens when the velocity and acceleration have opposite signs.
+
+**How do you use constant acceleration formulae in two dimensions?**
+Use the vector forms v = u + at and r = r₀ + ut + ½at², and work with the i and j components separately.
+
+**How do you find the greatest height of a projectile?**
+Set the vertical component of velocity to zero and use suvat vertically with a = −g. The horizontal velocity stays constant throughout.
+
+**What does a question asking for "velocity" need in a projectile problem?**
+Both the speed and the direction, such as an angle below the horizontal. Giving only the speed is incomplete.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3, 31 January 2018, for A-level exams June 2018 onwards: Section 3.18 Q: Kinematics (Q1 to Q5), with Appendix A: mathematical notation (mechanics) and Appendix B: mathematical formulae and identities (kinematics).

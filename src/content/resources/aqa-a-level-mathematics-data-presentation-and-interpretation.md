@@ -359,6 +359,23 @@ line drawn through separate groups.
   updating n, Σx and Σx².
 - Removing an outlier just because it is large.
 
+## Frequently asked questions
+
+**What does area represent in a histogram?**
+Area represents frequency. If the vertical axis is frequency density, area equals frequency exactly; if the diagram uses another scale, find the scale factor from a bar with a known frequency first.
+
+**How do histograms link to probability in AQA 7357?**
+Dividing every frequency by the total turns bar areas into relative frequencies that add to 1, so the area over an interval estimates a probability. A symmetrical, bell-shaped histogram suggests a Normal model.
+
+**What should you do when a scatter diagram has distinct sections?**
+Describe or model each group separately. One line fitted to all the points can show a correlation that does not exist within either group, or hide one that does.
+
+**When should an outlier be removed?**
+Investigate it first. Remove it only if it is an error or does not belong to the population being studied; a genuine extreme value stays in the data.
+
+**Why are grouped data means and standard deviations only estimates?**
+Class midpoints replace the actual values, so the results are estimates of the true mean and standard deviation.
+
 ## Where to go next
 
 Test yourself with the [practice questions](/resources/aqa-a-level-mathematics-data-presentation-and-interpretation-practice/)

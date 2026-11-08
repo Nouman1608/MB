@@ -243,6 +243,22 @@ Kinematics feeds straight into the [Forces and Newton's laws revision notes](/re
   <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which suvat formula should you use?**
+Pick the formula that leaves out the quantity you neither know nor want: v = u + at has no s, s = ½(u + v)t has no a, s = ut + ½at² has no v, s = vt − ½at² has no u, and v² = u² + 2as has no t.
+
+**What does the area under a velocity–time graph represent?**
+The area gives the displacement, with area below the axis counting as negative. For distance travelled, add the sizes of all the areas.
+
+**What value of acceleration do you use for vertical motion under gravity?**
+Take upwards as positive, so a = −g, for example −9.8 m s⁻². Using +9.8 with upwards positive is a common sign error.
+
+**What are the standard modelling assumptions for a projectile?**
+The object is a particle, there is no air resistance, and g is constant, so the horizontal velocity stays constant and the vertical motion uses a = −g.
+
+**What does "moving parallel to i" mean?**
+The j-component of velocity is zero while the i-component is not. If both components are zero, the particle is at rest.
 
 ## Official syllabus
 

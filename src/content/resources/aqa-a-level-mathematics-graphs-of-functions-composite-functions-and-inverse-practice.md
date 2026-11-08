@@ -149,6 +149,23 @@ Quick links: [course hub](/boards/aqa/a-level/mathematics/) | [checklist](/check
 - Giving percentage change for proportion as simple multiples rather than squared or inverse factors.
 - Leaving a "show that" without the final concluding sentence.
 
+## Frequently asked questions
+
+**What do AQA 7357 content references B7 and B8 cover?**
+B7 covers graphs of functions, including curve sketching, modulus graphs, reciprocal curves and proportion. B8 covers composite and inverse functions.
+
+**How do you sketch a polynomial with a repeated root?**
+Factorise and mark the roots: the curve crosses the x-axis at a single root and touches it at a double root from a factor such as (x − 1)². Mark the y-intercept and use the leading term for the ends.
+
+**How do you test whether data fit y = kx³?**
+Plot y against x³. The data fit if the graph is a straight line through the origin, and the gradient is k.
+
+**How do you find the domain of a composite function gf?**
+x must be in the domain of f, and f(x) must be in the domain of g. For g(x) = √x, for example, you need f(x) ≥ 0.
+
+**What is a self-inverse function?**
+A function for which f⁻¹ = f, so ff(x) = x. If finding the inverse gives back the same rule, say so explicitly.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-a-level-mathematics-graphs-of-functions-composite-functions-and-inverse-revision-notes/).

@@ -274,6 +274,23 @@ The tank is empty when 2 − 0.05t = 0, at t = 40 minutes. The formula h = (2 �
 - Dropping the constant in a differential equation, or adding it only after rearranging.
 - Giving a solution valid beyond the point where the context breaks down.
 
+## Frequently asked questions
+
+**What is the Fundamental Theorem of Calculus?**
+If F′(x) = f(x), then ∫ f(x) dx = F(x) + c, and ∫ₐᵇ f(x) dx = F(b) − F(a). It means integration undoes differentiation, and it is how every definite integral is evaluated.
+
+**How do you integrate ln x?**
+Differentiate x ln x to get ln x + 1, so ∫ (ln x + 1) dx = x ln x + c. Rearranging gives ∫ ln x dx = x ln x − x + c. Integration by parts with u = ln x gives the same result.
+
+**Which part should be u in integration by parts?**
+Let u be the factor that becomes simpler when differentiated, usually the power of x. If one factor is ln x, always take it as u.
+
+**What is ∫ f′(x)/f(x) dx?**
+It is ln|f(x)| + c. For example, ∫ 4x/(x² + 1) dx = 2 ln(x² + 1) + c, because the numerator is twice the derivative of the denominator.
+
+**Why might you need to factorise before separating variables?**
+The specification notes that you may first need to take out a common factor, as in dy/dx = xy + x = x(y + 1), so that the right-hand side becomes f(x) × g(y).
+
 ## Next steps
 
 Condense this with the [Integration revision notes](/resources/aqa-a-level-mathematics-integration-revision-notes/), then test yourself on the [Integration practice questions](/resources/aqa-a-level-mathematics-integration-practice/). For how integration sits across the three papers, read [AQA A-level Maths exam preparation](/resources/aqa-a-level-mathematics-exam-preparation/). Check what you still need to revise with a free diagnostic at [/diagnostics/](/diagnostics/).

@@ -353,6 +353,23 @@ The modelling cycle used here is set out in the
 - Rounding intermediate values early. Keep exact fractions or full calculator values, and round
   only the final answer (3 s.f. unless told otherwise).
 
+## Frequently asked questions
+
+**What is the conditional probability formula in AQA A-level Maths 7357?**
+The specification states P(A | B) = P(A ∩ B) / P(B). Rearranged, P(A ∩ B) = P(B) × P(A | B), which is what you use along the branches of a tree diagram.
+
+**Why does the addition rule subtract P(A ∩ B)?**
+Outcomes that are in both A and B are counted twice when P(A) and P(B) are added, so P(A ∩ B) is subtracted once to correct this.
+
+**How does probability link to discrete distributions?**
+The values of a discrete random variable are mutually exclusive, so you add their probabilities and they total 1. Repeated observations are usually independent, so you multiply across them, which underpins the binomial distribution.
+
+**Is P(A | B) the same as P(B | A)?**
+No. They usually differ because the condition changes the denominator. In a two-way table, the same cell is divided by a different row or column total.
+
+**How should Normal probabilities be found in AQA 7357?**
+Use your calculator's Normal distribution function directly. For Sections K to O, the specification expects you to access probabilities from standard distributions using calculator technology.
+
 ## Next steps
 
 Condense this with the [Probability revision notes](/resources/aqa-a-level-mathematics-probability-revision-notes/),

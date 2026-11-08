@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "equations"
-description: "Condensed recall notes on expanding, factorising, completing the square, algebraic fractions, and the quadratic formula and discriminant for Cambridge O Level Mathematics 4024."
+description: "Cambridge O Level Maths (4024) revision notes on expanding brackets, factorising, completing the square, algebraic fractions and the quadratic formula."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -197,3 +199,19 @@ multiply by the reciprocal of the second fraction:
   <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**In what order should you try to factorise an expression?**
+Take out a common factor first, then look for a difference of two squares, then a quadratic trinomial, and use grouping for four terms. Missing the common factor is the most common cause of a wrong answer.
+
+**How do you expand three brackets in Cambridge O Level 4024?**
+Expand the first two brackets completely, then multiply the result by the third bracket. Trying to expand all three at once often drops a term.
+
+**How do you complete the square for x² + bx + c?**
+Write it as (x + b/2)² − (b/2)² + c. For example, x² + 8x + 3 = (x + 4)² − 13. Check by expanding back out.
+
+**When can you cancel in an algebraic fraction?**
+Only whole factors can be cancelled, so factorise the top and bottom first. In (x + 2)/(x + 4), nothing cancels.
+
+**What does the discriminant tell you about a quadratic?**
+If b² − 4ac is positive there are two real roots, if it is zero there is one repeated root, and if it is negative there are no real roots.

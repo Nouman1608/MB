@@ -31,7 +31,9 @@ syllabusTopics:
 description: "Study guide for Cambridge 9709 Probability & Statistics 1 (Paper 5): data, arrangements, probability, binomial, geometric and normal, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -311,6 +313,23 @@ Write the discrete inequality first ("X ≤ 15"), then decide which side of 15 t
 - Using a geometric model for a fixed number of trials (that is binomial).
 - Using n − 1 instead of n in the standard deviation formula for Paper 5 data.
 - z-values from the table read to 2 d.p. when 3 d.p. are needed for 3 s.f. accuracy.
+
+## Frequently asked questions
+
+**What is on Cambridge 9709 Paper 5 Probability & Statistics 1?**
+Paper 5 covers representation of data, permutations and combinations, probability, discrete random variables including the binomial and geometric distributions, and the normal distribution. It lasts 1 hour 15 minutes for 50 marks.
+
+**How do you find a combined mean and standard deviation for two data sets?**
+Add the totals n, Σx and Σx² across both sets, then apply the mean and standard deviation formulas once. Do not average the two means or the two standard deviations.
+
+**When should you use a geometric distribution instead of a binomial one?**
+Use the binomial distribution for a fixed number of trials counting successes, and the geometric distribution when trials continue until the first success. Both need independent trials with constant probability p.
+
+**Are circular arrangements in the 9709 syllabus?**
+No. Section 5.2 covers arrangements in a line, including repetition and restrictions, and people in two or more rows, but circular arrangements are not examined.
+
+**How do you handle "at least" in a selection question?**
+Split it into exact cases, count each with combinations, and add them. A single product such as ⁴C₂ × ⁸C₃ counts some selections more than once.
 
 ## Next steps
 

@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Study guide for Cambridge 9709 Pure Mathematics 2 section 2.6: locating roots by sign change and using iterative formulae, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -254,6 +256,23 @@ alpha^3 = 20,   so alpha = cube root of 20
 - Giving the root to 4 d.p. when 2 d.p. was asked, or giving iterates to fewer places than instructed.
 - Working in degrees when F(x) contains a trigonometric function.
 - Answering an "exact value" question with a decimal from the calculator.
+
+## Frequently asked questions
+
+**Why are numerical methods needed in Cambridge 9709 Pure Mathematics 2?**
+Some equations, such as eˣ + x² = 6, cannot be rearranged to give x exactly. Numerical methods first locate a root in a small interval and then refine it with an iterative formula.
+
+**How do you turn an equation into an iterative formula?**
+Rearrange the equation into the form x = F(x), then write xₙ₊₁ = F(xₙ). Different rearrangements of the same equation can behave differently.
+
+**Can one rearrangement converge while another does not?**
+Yes. Two formulae from the same equation may behave differently: one can converge to the root while another moves away from it or settles on a different root. You only need to recognise this from the numbers.
+
+**How do you iterate efficiently on a calculator?**
+Enter x₁, press =, then type the formula with the Ans key in place of xₙ. Each press of = gives the next iterate and carries the full value forward, but write every iterate down.
+
+**Is the trapezium rule part of section 2.6?**
+No. The trapezium rule is a separate numerical method that belongs to section 2.5, Integration.
 
 ## Next steps
 

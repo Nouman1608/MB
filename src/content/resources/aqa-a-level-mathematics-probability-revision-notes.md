@@ -258,6 +258,23 @@ model gives.
 - Critiques that say "the model is unrealistic" without naming the assumption and the context.
 - Treating P(X = a) as non-zero for a continuous variable.
 
+## Frequently asked questions
+
+**Can mutually exclusive events be independent?**
+Not if both have non-zero probability. Mutually exclusive events have P(A ∩ B) = 0, but P(A) × P(B) would be positive, so the independence test fails.
+
+**How do you fill in a Venn diagram from given probabilities?**
+Work from the middle outwards: write P(A ∩ B) in the overlap, subtract to get the "A only" and "B only" regions, then find the outside region so all four total 1.
+
+**How do you reverse a conditional on a tree diagram?**
+Find the probability of the path or paths where both events happen and divide by the total probability of the given second event, for example P(R | L) = P(R and L) ÷ P(L).
+
+**What is the probability of a single exact value for a continuous random variable?**
+It is zero. Probabilities for continuous variables are areas, so events such as X < a and X > b (with a < b) are mutually exclusive and their probabilities add.
+
+**What assumptions are commonly made in probability models?**
+Outcomes are equally likely, trials are independent, the probability is constant from trial to trial, and a relative frequency from past data is a good estimate of the probability.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams

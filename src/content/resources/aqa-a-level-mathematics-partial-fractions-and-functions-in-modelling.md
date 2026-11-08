@@ -282,6 +282,23 @@ Limitation: the model starts at its largest value, but a drug taken by mouth wou
 - Calling a model "inaccurate" without naming the assumption that fails.
 - Extrapolating far beyond the data and accepting the result without comment.
 
+## Frequently asked questions
+
+**What are partial fractions?**
+Partial fractions reverse the adding of fractions: a rational function is split into simpler fractions whose denominators are the factors of the original denominator.
+
+**What is the cover-up method?**
+It means substituting the value that makes a factor zero, so every other term in the identity vanishes. It is quick for distinct linear factors, but for a repeated factor it finds only some constants.
+
+**Why are partial fractions useful?**
+Each piece is easier to handle, and the pieces can be integrated using logarithms, which is how partial fractions are used in Section H.
+
+**How do you check a piecewise model?**
+Evaluate each rule at the join. If both rules give the same value, the model has no jump there; if they differ, the model is discontinuous at that point.
+
+**What does the OT3 modelling cycle ask you to do?**
+Translate a situation into a model with simplifying assumptions, use the model with suitable inputs, interpret the outputs in context, and refine the model by considering its outputs and assumptions.
+
 ## Next steps
 
 Try the [practice questions](/resources/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling-practice/), then keep the [revision notes](/resources/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling-revision-notes/) for the final weeks.

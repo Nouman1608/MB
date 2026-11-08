@@ -219,6 +219,23 @@ a = (43.30 − 36.9) ÷ 10 = 0.640 m s⁻²
 - Giving an acceleration without its direction when the question asks for it, or a force without units.
 - Rounding intermediate values (such as R) too early, so the final answer is out by more than the last figure.
 
+## Frequently asked questions
+
+**What are Newton's three laws of motion?**
+The first law says a body with no resultant force stays at rest or moves at constant velocity. The second says resultant force = mass × acceleration. The third says the force of A on B is equal and opposite to the force of B on A.
+
+**Which mechanics formulae must you recall for AQA 7357?**
+Appendix B lists W = mg, F = ma and F ≤ μR among the formulae you must recall.
+
+**When is the normal reaction not equal to mg?**
+On a slope, R = mg cos α, and any pushing or pulling force with a component perpendicular to the surface changes R further. Resolve perpendicular to the surface to find it.
+
+**What is the difference between a third-law pair and balanced forces?**
+A third-law pair acts on two different bodies, while balanced forces act on the same body.
+
+**What is μ when a block is on the point of slipping on a slope?**
+If only weight, the normal reaction and friction act, μ = tan α, where α is the angle of the slope.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3, 31 January 2018, for A-level exams June 2018 onwards: Section 3.19 R: Forces and Newton's laws (R1 to R6), with Appendix B: mathematical formulae and identities.

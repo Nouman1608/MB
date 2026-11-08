@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Twelve original circular measure questions on radians, arcs, sectors, segments and tangents, with mark-by-mark answers, for Cambridge 9709 Paper 1."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -260,6 +262,23 @@ Perimeter = 2 × 18.92 + 18.73 = **56.6 cm** [1]
 - On a "show that", not stating the reason for an angle (equilateral triangle, tangent perpendicular to radius) or skipping algebra steps.
 - Keeping a value of θ bigger than 2π after solving a quadratic.
 - Forgetting to double a segment when a region is made of two equal segments.
+
+## Frequently asked questions
+
+**What does circular measure cover in Cambridge 9709 Paper 1?**
+Section 1.4 covers the definition of a radian, converting between radians and degrees, and using s = rθ and A = ½r²θ in problems that also involve lengths, angles and areas of triangles.
+
+**How do you find the perimeter of a sector?**
+Add the two radii to the arc length, so the perimeter is 2r + rθ with θ in radians. Giving the arc alone is a common way to lose the final mark.
+
+**How do you find the area of a segment?**
+Find the sector area ½r²θ and the triangle area ½r² sin θ separately, then subtract. Keep the calculator in radian mode for sin θ.
+
+**What does "exact" mean in a circular measure question?**
+Leave π and surds in the answer, for example 15π − 9, rather than giving a decimal. A decimal final answer usually loses the accuracy mark.
+
+**Why might you reject a solution in a sector problem?**
+After solving a quadratic for r or θ, reject any value with θ greater than 2π or r not positive, because it cannot describe a real sector.
 
 ## Next steps
 

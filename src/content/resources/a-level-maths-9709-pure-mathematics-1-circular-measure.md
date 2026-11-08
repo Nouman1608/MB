@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Radians, arc length, sector area, segments and tangent problems taught step by step with worked examples, for Cambridge 9709 Pure Mathematics 1."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -335,6 +337,23 @@ Answers: area **25√3 − 25π/3 cm²**, perimeter **10√3 + 10π/3 cm**.
 - Rounding an angle to 3 s.f. and then using the rounded value in the next step.
 - Keeping an impossible root (θ > 2π, or a negative radius) after solving a quadratic.
 - Giving 9.06 when the question says "exact".
+
+## Frequently asked questions
+
+**How do you convert between degrees and radians?**
+Multiply degrees by π/180 to get radians, and multiply radians by 180/π to get degrees. Simplify the fraction, so 135° becomes 3π/4.
+
+**Why must θ be in radians in s = rθ and A = ½r²θ?**
+The formulas come from the fraction θ/(2π) of a full circle, which only works when θ is measured in radians. Convert any angle given in degrees first.
+
+**How do you handle tangents in a circular measure question?**
+Use the facts that a tangent is perpendicular to the radius at the point of contact, and that two tangents from an external point are equal and the line to the centre bisects the angle between them.
+
+**How long is Cambridge 9709 Paper 1?**
+Paper 1 lasts 1 hour 50 minutes for 75 marks, and Pure Mathematics 1 is compulsory for both AS Level and A Level.
+
+**How do you work out the area of a composite shape with sectors and triangles?**
+Mark every radius and right angle, find every angle at the centre in radians, then split the region into sectors, triangles and segments, writing each piece's area on its own line before adding or subtracting.
 
 ## Where to go next
 
