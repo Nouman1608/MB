@@ -161,6 +161,20 @@ Remember: you are judging the *quality* of the arguments, not whether you like c
 - Related topics: [Globalisation](/resources/igcse-global-perspectives-0457-globalisation/) and [Climate change, energy and resources](/resources/igcse-global-perspectives-0457-climate-change-energy-and-resources/)
 - [0457 course hub](/boards/cambridge/igcse/global-perspectives/) and [0457 checklist](/checklists/cambridge/igcse/global-perspectives/)
 
+## Frequently asked questions
+
+**What is the difference between a symptom and a cause in tourism issues?**
+A visitor fee treats a symptom, such as crowding on busy days, but it may not touch a deeper cause, such as housing pressure. Say which one an action targets.
+
+**What is the difference between short-term and long-term consequences of tourism?**
+Crowded streets are a short-term consequence, while families leaving a historic town is a long-term one. Separate the two when you analyse an issue.
+
+**Do tourists or residents have one view each?**
+No. Treating "tourists", "residents" or "drivers" as groups with one view each is a common mistake. Show the different perspectives within each group.
+
+**How should you evaluate two arguments about transport?**
+Judge the quality of each argument's evidence and reasoning, not whether you like the policy, then say which is better supported.
+
 ## Official syllabus
 
 These notes are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025).

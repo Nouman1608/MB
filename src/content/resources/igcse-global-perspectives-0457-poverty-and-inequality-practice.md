@@ -173,6 +173,20 @@ Assess which option would be most effective in reducing child poverty in Tamswor
 - Find your weaker skills with a [free diagnostic](/diagnostics/).
 - Want help from a teacher? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What topic do these 0457 practice questions use?**
+They use Poverty and inequality from the Cambridge IGCSE Global Perspectives 0457 topic list, with fictional places such as Sanvik and Tamsworth. The questions are original practice.
+
+**Does a falling share of income mean people have less money?**
+Not necessarily. If the economy grows, the poorest group's share can fall while their actual income rises. Treating a falling share as proof of less money is a common error.
+
+**Is "it depends" a good ending for an extended answer?**
+No. Ending with "it depends" and no clear judgement loses marks. Weigh the options, using any cost and budget figures given, and say which is most effective.
+
+**How do you explain a vested interest for marks?**
+Name the vested interest and explain how it might shape what the source says or leaves out. Naming it without explaining its effect earns less.
+
 ## Official syllabus
 
 These questions are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4.

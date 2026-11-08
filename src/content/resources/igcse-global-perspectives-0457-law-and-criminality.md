@@ -166,6 +166,23 @@ Each member researches a different perspective, such as students, parents, local
 - [Written Exam study guide](/resources/igcse-cambridge-global-perspectives-written-exam/) and [Written Exam revision notes](/resources/global-perspectives-revision-notes/)
 - [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/) and [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/)
 
+## Frequently asked questions
+
+**What is the difference between decriminalisation and legalisation?**
+Decriminalisation means an act stays against the rules but is no longer a criminal offence, though it may still bring a fine or other penalty. Legalisation makes the act lawful.
+
+**What is restorative justice?**
+Restorative justice brings the offender and the victim, or the community, together so the offender understands the harm and repairs it. It is one possible course of action to evaluate.
+
+**What real examples can you research for Law and criminality?**
+Examples include Portugal's decriminalisation of personal drug possession in July 2001, differing ages of criminal responsibility such as 10 in England and Wales and 12 in Scotland, and the Council of Europe's Budapest Convention (2001) on cybercrime.
+
+**What makes a good Individual Report question on law and crime?**
+"Crime" alone is a topic. Ask a question that divides opinion, such as "Should drug possession be treated as a health issue rather than a crime?" or "What should the minimum age of criminal responsibility be?"
+
+**What are safe Team Project ideas on law and criminality?**
+Ideas include a security-marking day for bicycle theft at school, an advice session on scams targeting older residents, or a map of well-lit routes home. A national law change is not an action a team can carry out.
+
 ## Official syllabus
 
 This guide is based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm how your school uses the Law and criminality topic across the three components.

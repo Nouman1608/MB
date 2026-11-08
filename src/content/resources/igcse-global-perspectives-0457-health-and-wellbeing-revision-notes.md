@@ -156,6 +156,20 @@ For the Individual Report, keep the same core: issue, perspectives, causes, cons
 
 For more on each component, see the [Written Exam revision notes](/resources/global-perspectives-revision-notes/), the [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/) and the [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between self-reported and measured evidence?**
+"I exercise daily" is self-reported and weaker than measured evidence such as recorded attendance. Note which kind of evidence a health source uses.
+
+**What perspectives should you look for in health issues?**
+Look for patients and families, health workers, governments, businesses with a vested interest in sales, international bodies, and cultural and religious groups. Always add why each holds its view.
+
+**What is the difference between a course of action and an outcome?**
+The action is what is done, such as a sugary drinks tax. The outcome is the effect it has, which needs evidence.
+
+**Should a 0457 conclusion sit on the fence?**
+No. A conclusion should make a reasoned judgement. Sitting on the fence is a common way to lose marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), published by Cambridge International. See section 3 for the topic list and key terms, section 2 for the assessment objectives, and section 4 for the components and command words.

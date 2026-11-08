@@ -162,6 +162,20 @@ Weighing up: states criteria such as effectiveness, cost and fairness [1]. Notes
 - Check your strengths and gaps with a [diagnostic](/diagnostics/).
 - Want help from a teacher? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What topic do these 0457 practice questions use?**
+They use Sport and recreation from the Cambridge IGCSE Global Perspectives 0457 topic list as a context for source-based skills. The sources and questions are original.
+
+**Should you trust a bid committee's figures about an event?**
+Treat them with caution. A bid committee has a vested interest, and figures about future visitors or jobs are predictions, not facts.
+
+**Does a rise in participation after an event prove the event caused it?**
+No. Without a comparison place, a before-and-after rise could have other causes. Look for a comparison before accepting the claim.
+
+**What should you check about who a survey asked?**
+Check that the people surveyed match the claim. A claim about young people is weak if the survey only asked adults.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), published by Cambridge International. The topic list is in section 3, the assessment objectives in section 2, and the components and command words in section 4.

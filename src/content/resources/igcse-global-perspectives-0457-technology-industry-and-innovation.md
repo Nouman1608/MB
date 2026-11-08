@@ -181,6 +181,23 @@ Each team member researches a different perspective, such as students, a local b
 - Related topics: [Employment](/resources/igcse-global-perspectives-0457-employment/), [Digital world](/resources/igcse-global-perspectives-0457-digital-world/) and [Globalisation](/resources/igcse-global-perspectives-0457-globalisation/)
 - [0457 course hub](/boards/cambridge/igcse/global-perspectives/) and [0457 checklist](/checklists/cambridge/igcse/global-perspectives/)
 
+## Frequently asked questions
+
+**What is a patent?**
+A patent is a legal right that lets an inventor stop others using an invention for a set period. Patents are a form of intellectual property, which covers legal rights over creations of the mind.
+
+**What is planned obsolescence?**
+Planned obsolescence is a claim that products are designed to stop working or go out of date early. Treat it as a claim that needs evidence.
+
+**What real examples show technology issues at different levels?**
+In October 2020 India and South Africa proposed at the WTO that some intellectual property rules be waived for COVID-19 products, a global issue. In October 2016 Rwanda launched a national drone delivery service with Zipline, an example of innovation meeting a local problem.
+
+**What is the difference between intended and unintended consequences?**
+An intended consequence is the result an action aims for, such as jobs from a new factory. An unintended consequence is a possible side effect, such as higher house prices that push out existing residents.
+
+**What are Team Project ideas on technology and industry?**
+Ideas include running a repair session for broken electronics at school, or arranging a visit or talk so students learn about local industry careers. The action must be measurable.
+
 ## Official syllabus
 
 This guide is based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Check the syllabus and your teacher's guidance for current requirements.

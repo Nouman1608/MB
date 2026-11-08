@@ -165,6 +165,20 @@ The `[1]` points are a revision aid. The real exam and coursework mark extended 
 - Revisit the [Employment study guide](/resources/igcse-global-perspectives-0457-employment/), the [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/) and the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/).
 - Want feedback on your answers? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Do you need knowledge of employment for these 0457 questions?**
+No. Topic knowledge is not assessed in 0457, so answer the source-based questions from the sources given rather than from outside knowledge.
+
+**Is a forecast of new jobs a fact?**
+No. A forecast, such as a number of jobs a project will create, is a prediction that cannot yet be checked. Calling it a fact is a common mistake.
+
+**Why is a small, self-selected sample weak evidence?**
+People who choose to answer may not represent the wider group, and a small sample can give misleading percentages. Check how many people were asked and how they were chosen.
+
+**Does automation rising alongside unemployment prove one caused the other?**
+No. Two trends changing over the same period do not prove cause. Look for evidence that links them and consider other explanations.
+
 ## Official syllabus
 
 These questions are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025).

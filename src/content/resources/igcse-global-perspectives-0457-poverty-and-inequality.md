@@ -181,6 +181,23 @@ For each, plan a local/national perspective and a global perspective, with sourc
 
 For the Written Exam itself, read the [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/) and the [Global Perspectives revision notes](/resources/global-perspectives-revision-notes/). Related topics: [employment](/resources/igcse-global-perspectives-0457-employment/) (wages and work) and [development, trade and aid](/resources/igcse-global-perspectives-0457-development-trade-and-aid/).
 
+## Frequently asked questions
+
+**What is the Gini coefficient?**
+The Gini coefficient is a single number for income inequality, from 0, where everyone has the same, to 1, where one person has everything.
+
+**How is relative poverty measured?**
+Relative poverty means having much less than most people in your own society. In the UK, for example, it is commonly measured as household income below 60% of the median.
+
+**What is the cycle of poverty?**
+A consequence of poverty can become a cause of future poverty. For example, a child who misses school because the family needs them to work may later have fewer job choices and lower income.
+
+**What is a conditional cash transfer?**
+It is a payment to low-income families that depends on conditions. Brazil's Bolsa Família, launched in 2003, pays families on conditions such as children attending school and having health check-ups.
+
+**Is "end poverty" a course of action?**
+No. A course of action must be specific, saying who does what and how. "End poverty" is an aim, not an action.
+
 ## Official syllabus
 
 This guide follows the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025): section 2 (aims, skills overview, assessment objectives), section 3 (topic list and key terms) and section 4 (details of the assessment and command words). Your teacher will confirm which topics your class uses.

@@ -158,6 +158,23 @@ The Explanation of Research and Planning must be 300–400 words and the Reflect
 
 For labour conditions in global supply chains, see the [employment unit](/resources/igcse-global-perspectives-0457-employment/); for trade rules and aid, see the [development, trade and aid unit](/resources/igcse-global-perspectives-0457-development-trade-and-aid/). For general exam technique see the [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/) and the [Written Exam revision notes](/resources/global-perspectives-revision-notes/).
 
+## Frequently asked questions
+
+**What is glocalisation?**
+Glocalisation describes global products and ideas being adapted to local cultures; the sociologist Roland Robertson popularised the term in the 1990s. It is a reminder that globalisation is not only one-way.
+
+**Why do people hold different perspectives on globalisation?**
+Supportive perspectives often stress cheaper goods and new export jobs, critical perspectives stress job losses and pressure on wages, and middle-ground perspectives accept trade but want it managed. Present each fairly, since Cambridge says it is politically neutral.
+
+**What does the Ever Given show about globalisation?**
+In March 2021 the container ship Ever Given blocked the Suez Canal for six days, delaying goods for many countries. It is evidence that long supply chains can be fragile, though one event does not show how often this happens.
+
+**How can globalisation be measured?**
+The KOF Globalisation Index, from the KOF Swiss Economic Institute at ETH Zurich, scores countries on economic, social and political globalisation. Its limitation is that any index depends on which indicators are chosen.
+
+**What are good Individual Report questions on globalisation?**
+Questions that divide opinion work best, such as "Should countries limit imports to protect their own manufacturing jobs?" A descriptive question like "How has trade grown?" does not divide opinion.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Read sections 2, 3 and 4 for the assessment objectives, topic list, key terms, component details and command words.

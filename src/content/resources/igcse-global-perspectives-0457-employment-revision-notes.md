@@ -156,6 +156,20 @@ Practise with the [Employment practice questions](/resources/igcse-global-perspe
 - Related topics: [Technology, industry and innovation](/resources/igcse-global-perspectives-0457-technology-industry-and-innovation/), [Globalisation](/resources/igcse-global-perspectives-0457-globalisation/) and [Poverty and inequality](/resources/igcse-global-perspectives-0457-poverty-and-inequality/)
 - [0457 course hub](/boards/cambridge/igcse/global-perspectives/) and [0457 checklist](/checklists/cambridge/igcse/global-perspectives/)
 
+## Frequently asked questions
+
+**What is the difference between treating a symptom and a cause in employment actions?**
+A wage subsidy treats a symptom, such as too few hires, while retraining tackles a cause, such as missing skills. Say which one an action targets when you assess it.
+
+**What is the difference between bias and vested interest?**
+A vested interest is a reason a source might be biased, because the writer gains from a particular view. Bias is how the source actually presents material one-sidedly.
+
+**What is the difference between a cause and a consequence of unemployment?**
+A skills gap can cause unemployment, while lost income is a consequence of it. Link causes and consequences into a chain.
+
+**Why must you state criteria when evaluating actions?**
+Without stated criteria, a judgement looks like a guess. Criteria such as effectiveness, feasibility and who gains or loses make the judgement clear and supported.
+
 ## Official syllabus
 
 These notes are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025).

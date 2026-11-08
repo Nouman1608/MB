@@ -186,6 +186,23 @@ Each member researches a different perspective, such as parents, pupils or a sho
 - Related topics: [Environment, pollution and conservation](/resources/igcse-global-perspectives-0457-environment-pollution-and-conservation/) and [Migration and urbanisation](/resources/igcse-global-perspectives-0457-migration-and-urbanisation/)
 - [0457 course hub](/boards/cambridge/igcse/global-perspectives/) and [0457 checklist](/checklists/cambridge/igcse/global-perspectives/)
 
+## Frequently asked questions
+
+**What is overtourism?**
+Overtourism means so many visitors that residents' daily lives or the place itself are harmed. Carrying capacity is the number of visitors a place can take before damage or crowding becomes serious.
+
+**What is modal shift?**
+Modal shift is people switching from one way of travelling to another, such as from car to bus. Actions such as park-and-ride schemes aim to cause it.
+
+**What does Stockholm's congestion charge show about perspectives?**
+Stockholm ran a trial congestion charge from January to July 2006. In a September 2006 referendum, 53% of voters in the city voted yes, while most voters in several surrounding municipalities said no, showing how position shapes perspective.
+
+**What was Venice's day-visitor fee?**
+Venice began a trial day-visitor fee on 25 April 2024, with day-trippers paying 5 euros on 29 selected days while overnight guests and residents were exempt. It shows the difference between tackling crowding and tackling residents leaving.
+
+**What are Team Project ideas on transport and tourism?**
+Ideas include a "walk or cycle" campaign for congestion at the school gate, or a bilingual sign about litter at a local beauty spot. Each idea needs a way to measure success.
+
 ## Official syllabus
 
 This guide is based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Check the syllabus and your teacher's guidance for the current requirements.

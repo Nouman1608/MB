@@ -204,6 +204,20 @@ Questions 8 and 9 are extended responses: the real exam marks these with levels 
 - More source practice: [Written Exam practice](/resources/global-perspectives-practice/), [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/), [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 - [Book a free trial class](/trial/) to have a teacher mark your answers.
 
+## Frequently asked questions
+
+**What topic do these 0457 practice questions use?**
+They use Social identity and inclusion from the Cambridge IGCSE Global Perspectives 0457 topic list as a context for source-based skills. The questions and sources are original.
+
+**How do you criticise a survey sample for full marks?**
+Quote the figures or the sampling method that show the problem, then explain how it affects the conclusion. Simply saying "the sample is too small" earns little.
+
+**How should you answer when several courses of action are offered?**
+Evaluate more than one of the actions, using evidence from the sources, and compare them before choosing the most effective. Evaluating only one misses the comparison.
+
+**What Team Project actions should you avoid?**
+Avoid actions the team cannot carry out itself, such as changing a national law. The action must be local, feasible and measurable.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Your teacher will confirm which topics your class studies.

@@ -174,6 +174,20 @@ Conclusion: Action 2 is most effective if land rights are secured and Action 3 f
 - Plan your coursework with [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 - [Book a free trial class](/trial/) to work through a source-based paper with a tutor.
 
+## Frequently asked questions
+
+**Are the city and figures in these migration questions real?**
+No. All places, people, organisations and figures in the sources are fictional, including the city of Tessaly. The questions are original practice for IGCSE Global Perspectives 0457.
+
+**How do you explain a weakness in a source for full marks?**
+Name the weakness, such as a small sample, and explain how it affects the conclusion the source draws. Naming it alone earns less.
+
+**How many actions should an extended answer discuss?**
+When a question gives several actions, compare more than one so there is a real comparison, then give a final judgement that follows from your reasoning.
+
+**What makes coursework planning answers weak?**
+Naming a topic rather than a question for the Individual Report, or choosing a Team Project action with no way to measure its success.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), published by Cambridge University Press & Assessment.
