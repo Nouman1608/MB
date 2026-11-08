@@ -19,10 +19,12 @@ syllabusTopics:
 description: "Condensed recall notes on energy changes, reaction pathway diagrams, activation energy and bond energy calculations for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: labelled the calorimetry (Q = mc dT) section as background, since it is not a 0620 or 5070 outcome; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -99,6 +101,9 @@ dH = 678 - 862 = -184 kJ/mol   -> EXOTHERMIC
 ```
 
 ## Calorimetry — measuring ΔH experimentally
+
+*(Background only, not a 0620/5070 outcome: neither syllabus asks you to use Q = mcΔT. It is included because
+schools often run this practical and it leads into AS 9701.)*
 
 > **Not on the 0620/5070 syllabus.** Calorimetry, specific heat
 > capacity and Q = mcΔT calculations are not part of either syllabus's
