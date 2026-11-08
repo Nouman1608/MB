@@ -86,7 +86,7 @@ The subject content of 2210 is shared with Cambridge IGCSE Computer Science (047
 
 ## Exam traps
 
-Drawn from the June 2025 2210 Paper 12 mark-scheme points summarised on our [practice page](/resources/o-level-computer-science-internet-and-its-uses-practice/):
+Drawn from our [practice page](/resources/o-level-computer-science-internet-and-its-uses-practice/), which paraphrases the Cambridge 2210 June 2025 mark schemes and lists where marks are usually lost:
 
 - In the URL-to-page diagram, each step had its own mark, including the IP address being **returned** before the web server is contacted. Do not skip steps.
 - The SSL marks were for the certificate being **requested, sent and checked**, not just "SSL encrypts the data".

@@ -99,7 +99,7 @@ Topic 6 in 2210 has the same learning outcomes as Topic 6 in Cambridge IGCSE Com
 
 ## Exam traps
 
-Taken from the June 2025 2210 Paper 12 mark-scheme points summarised on our [practice page](/resources/o-level-computer-science-automated-and-emerging-technologies-practice/):
+Drawn from our [practice page](/resources/o-level-computer-science-automated-and-emerging-technologies-practice/), which paraphrases the Cambridge 2210 June 2025 mark schemes and lists where marks are usually lost:
 
 - The credited expert-system answer used the **inference engine** and said it **chooses the next question from earlier inputs**. Mention it by name.
 - When asked for electrical components of a robot, the credited answers were **sensors, microprocessors and actuators** — wheels and arms are mechanical, so they score nothing there.

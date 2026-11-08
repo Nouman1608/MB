@@ -139,7 +139,7 @@ Topic 7 learning outcomes are the same in 2210 and Cambridge IGCSE Computer Scie
 
 ## Exam traps
 
-From the June 2025 2210 Paper 22 mark-scheme points summarised on our [practice page](/resources/o-level-computer-science-algorithm-design-practice/):
+Drawn from our [practice page](/resources/o-level-computer-science-algorithm-design-practice/), which paraphrases the Cambridge 2210 June 2025 mark schemes and lists where marks are usually lost:
 
 - For an inclusive range check, extreme data was credited **only for the two limits themselves**; boundary data needed a limit and the value just outside it.
 - The credited reason for verification was making sure data was **not altered as it was entered**.
