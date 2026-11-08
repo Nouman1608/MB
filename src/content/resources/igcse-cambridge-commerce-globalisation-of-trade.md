@@ -12,6 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "globalisation-of-trade-0715"
+  - qualification: "igcse"
+    topic: "globalisation-of-trade-0715"
+    subtopic: "international-trade-0715"
+  - qualification: "igcse"
+    topic: "globalisation-of-trade-0715"
+    subtopic: "global-supply-chain-management-0715"
 description: "International trade, the Balance of Trade and Balance of Payments, free trade and trading blocs, and global supply chain management -- Topic 3 of Cambridge IGCSE Commerce (0715), a new syllabus for exams from 2028."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
