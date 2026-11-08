@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on cell structure, microscopy, enzymes, respiration, photosynthesis and DNA for OCR GCSE Biology J247."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -259,3 +261,16 @@ A **gene** is a section of DNA coding for a protein. Three bases (a triplet or c
   <figcaption>Worked examples 3 and 4: each triplet codes for one amino acid, and a base change can change one.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between magnification and resolution?**
+Magnification is how many times bigger the image is than the real object. Resolution is the ability to distinguish two close points as separate, so magnifying beyond the resolving power gives a bigger but no clearer image.
+
+**What structures do bacterial cells have?**
+Bacterial cells have a cell membrane, cytoplasm, ribosomes and a cell wall, with DNA as a single circular loop and often one or more plasmids. They have no nucleus and no membrane-bound organelles.
+
+**Is respiration endothermic or exothermic?**
+Respiration is an exothermic process that releases energy and supplies ATP in all living cells. Photosynthesis is endothermic, because it takes in light energy.
+
+**What are the limiting factors of photosynthesis in OCR GCSE Biology?**
+The OCR GCSE Biology A (J247) specification names temperature, light intensity and carbon dioxide concentration as the factors that can limit the rate of photosynthesis.

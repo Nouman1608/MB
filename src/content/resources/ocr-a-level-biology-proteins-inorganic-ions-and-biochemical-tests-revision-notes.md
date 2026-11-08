@@ -235,6 +235,23 @@ Also useful: the [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [p
 * Calling collagen soluble, or describing a globular protein as long and thin.
 * Forgetting to multiply by the dilution factor.
 
+## Frequently asked questions
+
+**What colour is a positive biuret test?**
+A positive biuret test turns from blue to purple. Iodine solution turns blue-black with starch, and mixing up these two colour changes is a common error.
+
+**Which bonds hold the primary structure of a protein?**
+The primary structure, the sequence of amino acids, is held by peptide bonds. Hydrogen bonds are involved in secondary and higher levels of structure, not the primary structure.
+
+**Can an Rf value be greater than 1?**
+No. An Rf value is the distance moved by the spot divided by the distance moved by the solvent front, so it is always less than 1 and has no units.
+
+**What is the difference between NH₄⁺ and NO₃⁻?**
+NH₄⁺ is the ammonium ion and NO₃⁻ is the nitrate ion. Ion symbols must be written with their charges, and confusing ammonium with nitrate is a common mistake.
+
+**What is the difference between globular and fibrous proteins?**
+Globular proteins, such as haemoglobin, insulin and enzymes, are compact and usually soluble. Fibrous proteins, such as collagen, keratin and elastin, are long, insoluble and have structural roles. These notes cover OCR A Level Biology A (H420) section 2.1.2.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025, published by OCR. Module 2.1.2 Biological molecules, statements (k) to (s).

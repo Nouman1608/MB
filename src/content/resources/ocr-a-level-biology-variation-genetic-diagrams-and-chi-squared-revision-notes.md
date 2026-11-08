@@ -225,6 +225,20 @@ Two additive genes give five classes, 1 : 4 : 6 : 4 : 1; n genes give 2n + 1 cla
 - Explaining variation using only genes, or only environment, when the question gives both.
 - Describing continuous variation as "controlled by environment"; it is controlled by many genes, with the environment adding to the effect.
 
+## Frequently asked questions
+
+**How do you recognise epistasis from a ratio?**
+Ratios such as 9 : 3 : 4 or 12 : 3 : 1 in a dihybrid cross suggest epistasis, where one gene masks the expression of another. Name epistasis and the gene that does the masking, rather than calling it simply a dihybrid ratio.
+
+**How do you explain a few recombinants in a linkage cross?**
+Linked genes are on the same chromosome, so they are usually inherited together. The few recombinant offspring come from crossing over in meiosis, which must be named in the explanation.
+
+**Should chi-squared be done on percentages?**
+No. Chi-squared must be calculated using the actual numbers observed and expected, not percentages.
+
+**What is the difference between continuous and discontinuous variation?**
+Discontinuous variation has distinct categories and is usually controlled by one or a few genes. Continuous variation shows a range of values, is usually controlled by many genes and is affected by the environment. These notes cover OCR A Level Biology A (H420) section 6.1.2.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 6.1.2(a) to (d), Patterns of inheritance.

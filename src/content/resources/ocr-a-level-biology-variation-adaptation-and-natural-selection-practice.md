@@ -148,6 +148,23 @@ These questions cover section 4.2.2(e) to (i) of the OCR A Level Biology A (H420
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What must a natural selection explanation include?**
+Name the selection pressure, then explain that individuals with an advantageous allele survive and reproduce more, passing the allele on, so its frequency rises over generations. Leaving out reproduction and inheritance is a common error.
+
+**Do antibiotics or insecticides cause resistance?**
+No. Resistance arises from a random mutation that is already present; the antibiotic or insecticide is the selection pressure that kills non-resistant individuals. Saying the chemical causes resistance loses marks.
+
+**Should I use n or n − 1 for standard deviation?**
+Use n − 1 when calculating the standard deviation of a sample. Using n instead is a frequent mistake in variation questions.
+
+**Why do unrelated animals sometimes have similar features?**
+Similar features in unrelated groups arise because they live in similar environments and face similar selection pressures, not because they share a recent common ancestor.
+
+**Which specification section do these questions cover?**
+They cover OCR A Level Biology A (H420) section 4.2.2 (e) to (i): evidence for evolution, variation, adaptation, natural selection and resistance.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 4.2.2(e) to (i), Classification and evolution.

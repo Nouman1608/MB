@@ -130,6 +130,23 @@ These questions cover learning outcomes 4.1.1(f) to 4.1.1(n) of the OCR A Level 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are antibodies complementary to the pathogen?**
+No. Antibodies are complementary in shape to a specific antigen, not to the whole pathogen. Writing "complementary to the pathogen" is a common way to lose a mark.
+
+**Do T cells produce antibodies?**
+No. Antibodies are secreted by plasma cells, which develop from B lymphocytes. T cells have other roles, such as releasing cytokines and killing infected cells.
+
+**How should antibiotic resistance be explained?**
+Explain it through mutation and selection: a random mutation gives some bacteria resistance, the antibiotic kills the susceptible bacteria, and the resistant ones survive and reproduce. Saying the bacteria "get used to" the drug is incorrect.
+
+**How do I name a type of immunity correctly?**
+Use two words, one from active or passive and one from natural or artificial, for example "artificial active immunity" for vaccination. Giving only one word is incomplete.
+
+**Which syllabus content do these questions cover?**
+They cover OCR A Level Biology A (H420) learning outcomes 4.1.1(f) to (n): lymphocytes, antibodies, types of immunity, vaccination, medicines and antibiotics.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: learning outcomes 4.1.1(f) to 4.1.1(n).

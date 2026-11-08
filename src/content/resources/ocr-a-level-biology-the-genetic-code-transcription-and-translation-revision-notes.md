@@ -220,6 +220,19 @@ Check that the base count is divisible by 3 before you divide.
   <figcaption>New strands grow 5′ to 3′ only, so one strand is built continuously and the other in fragments.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between a codon and an anticodon?**
+A codon is a triplet of bases on mRNA that codes for one amino acid or a stop signal. An anticodon is a triplet of bases on tRNA that is complementary to a codon.
+
+**What is the start codon?**
+The start codon is AUG, which codes for methionine and sets the reading frame. The stop codons are UAA, UAG and UGA, for which no tRNA matches, so the polypeptide is released.
+
+**What is the template strand?**
+The template strand is the DNA strand whose bases pair with free RNA nucleotides during transcription. The mRNA made is complementary to it.
+
+**Does mRNA contain thymine?**
+No. RNA contains uracil in place of thymine, so writing T in an mRNA sequence is a common error. These notes cover OCR A Level Biology A (H420) section 2.1.3 (f) and (g).
 
 ## Official syllabus
 

@@ -199,6 +199,19 @@ Two data patterns turn up often, so practise describing them.
   <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between in situ and ex situ conservation?**
+In situ conservation protects species in their natural habitat, such as in wildlife reserves and marine conservation zones. Ex situ conservation takes place away from the natural habitat, such as in seed banks, botanic gardens and zoos.
+
+**What is a monoculture?**
+A monoculture is one crop species grown over a large area, usually year after year. It reduces biodiversity on farmland.
+
+**What is a genetic resource?**
+A genetic resource is the alleles held in wild species, rare breeds and varieties that are available for future use, for example in breeding new crops.
+
+**What are CBD and CSS?**
+The CBD is the Rio Convention on Biological Diversity, an international agreement, and the CSS is the Countryside Stewardship Scheme, a local and national scheme in which the government pays farmers to manage land for wildlife. Both are named in OCR A Level Biology A (H420) learning outcome 4.2.1(i).
 
 ## Official syllabus
 

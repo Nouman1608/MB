@@ -231,6 +231,20 @@ Use raw counts, not percentages or proportions, and only for categories (discont
 - Using percentages in chi-squared, or forgetting to subtract 1 for degrees of freedom.
 - Claiming that a low χ² proves the expected ratio.
 
+## Frequently asked questions
+
+**How does sexual reproduction produce genetic variation?**
+Sexual reproduction shuffles alleles in three ways: crossing over in prophase I of meiosis, independent assortment of homologous pairs in metaphase I, and the random fusion of gametes at fertilisation.
+
+**How do you calculate the number of different gametes from independent assortment?**
+Use 2ⁿ, where n is the number of pairs of homologous chromosomes. For example, a garden pea with 2n = 14 has 7 pairs, so one plant can make 2⁷ = 128 different gametes, ignoring crossing over.
+
+**What is etiolation?**
+Etiolation is the long, thin, pale stem, small unexpanded leaves and yellow colour of a seedling grown in the dark, because chlorophyll formation needs light. It is one of the two examples of environmental variation in OCR A Level Biology A (H420).
+
+**What is the difference between genotype and phenotype?**
+Genotype is the alleles an organism carries, while phenotype is its observable characteristics. Phenotype depends on both genotype and the environment in which the organism develops.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 6.1.2(a) to (d), Patterns of inheritance.

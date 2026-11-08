@@ -217,6 +217,20 @@ Rf = distance moved by the solute ÷ distance moved by the solvent. It has no un
 * Taking spot distances from the plate edge rather than from the origin line.
 * Saying the R group forms peptide bonds. It is the amine and carboxyl groups.
 
+## Frequently asked questions
+
+**What is the general structure of an amino acid?**
+An amino acid has a central carbon atom attached to an amine group (NH₂), a carboxyl group (COOH), a single hydrogen atom and a variable R group. About twenty different amino acids occur in proteins, differing only in their R groups.
+
+**How is a peptide bond formed?**
+A condensation reaction joins the carboxyl group of one amino acid to the amine group of the next, releasing one molecule of water and forming a covalent peptide bond. Hydrolysis breaks the bond by adding water.
+
+**Why can cysteine form disulfide bonds?**
+Cysteine's R group contains sulfur, so two cysteine residues can form a disulfide bond, which helps to hold the tertiary structure of a protein.
+
+**Do I need to know the structure of collagen, keratin and elastin?**
+No. The OCR A Level Biology A (H420) specification asks for the properties and functions of these fibrous proteins, but no details of their structure are needed.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025, published by OCR. Module 2.1.2 Biological molecules, statements (k) to (s).

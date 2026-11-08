@@ -126,6 +126,23 @@ These questions follow the OCR A Level Biology A specification (H420), Version 4
 * [All free 10-minute diagnostics](/diagnostics/)
 * [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How many peptide bonds are in a polypeptide?**
+A single polypeptide chain has one fewer peptide bond than it has amino acids, because each bond joins two neighbouring amino acids. Giving the same number of bonds as amino acids is a common error.
+
+**What does the biuret test actually detect?**
+The biuret test detects peptide bonds, so it shows the presence of proteins and polypeptides. Saying it detects amino acids loses the mark.
+
+**What must be included in the test for a non-reducing sugar?**
+After a negative Benedict's test, hydrolyse the sample with acid, neutralise it, and then repeat the Benedict's test, with a suitable control. Leaving out the neutralisation or the control is a frequent mistake.
+
+**How should a colorimeter be used in an exam answer?**
+Say that the colorimeter is zeroed with a blank and state which filter is used. Forgetting either step is a common way to lose marks in colorimetry questions.
+
+**Which specification statements do these questions cover?**
+They cover OCR A Level Biology A (H420) module 2.1.2, statements (k) to (s): amino acids, protein structure, inorganic ions, biochemical tests, colorimetry and chromatography.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025, published by OCR. Module 2.1.2 Biological molecules, statements (k) to (s).
