@@ -144,6 +144,20 @@ These questions cover sub-topic A.3, Work, energy and power, in the IB *Physics 
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics work and energy questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these work, energy and power questions for SL or HL?**
+Both. SL and HL candidates answer the same set, because A.3 has no extra HL-only material in the guide.
+
+**What value of g do these questions use?**
+Take g = 9.81 m s⁻² wherever it is needed.
+
+**What slips lose marks in energy and power calculations?**
+Common slips are leaving a quantity in kW, cm or hours while the rest is in SI units, and dividing output by input the wrong way round so the efficiency comes out above 100%.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic A.3 Work, energy and power.

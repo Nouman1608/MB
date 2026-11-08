@@ -135,6 +135,20 @@ These questions cover the first half of sub-topic C.3 (Wave phenomena) in the IB
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics reflection and refraction questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these wave phenomena questions for SL or HL?**
+Both. They cover the first half of sub-topic C.3, Wave phenomena, and all of it is SL and HL.
+
+**What constants do these questions use?**
+Use c = 3.00 × 10⁸ m s⁻¹ and take the refractive index of air as 1.00.
+
+**What slips lose marks in refraction questions?**
+Common slips are using an angle measured to the surface as if it were measured from the normal, and swapping the refractive indices so that sin C comes out above 1.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization: sub-topic C.3 Wave phenomena (first half of the understandings).

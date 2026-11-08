@@ -244,6 +244,20 @@ Volume = 5.79 × 10⁷ / 3.6 × 10⁷ = 1.6 litres.
 - Dividing useful output by output instead of input when finding efficiency.
 - Forgetting the efficiency step in energy density problems, so the fuel volume comes out too small.
 
+## Frequently asked questions
+
+**Does a centripetal force do work?**
+No. A centripetal force acts at 90° to the motion of an object moving at constant speed in a circle, and cos 90° = 0, so it does no work.
+
+**Why is no net work done when you lift a box at constant speed?**
+Your force does positive work and gravity does an equal amount of negative work, so the resultant force does no work and the kinetic energy does not change.
+
+**What is the difference between energy density and specific energy?**
+Energy density is the energy released per unit volume of fuel. Where a table gives energy per unit mass, that is the specific energy. Use the unit given in the question.
+
+**Can a real device be 100% efficient?**
+No. Efficiency is always less than 1 for a real device, because part of the input always ends up heating the surroundings.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic A.3 Work, energy and power.

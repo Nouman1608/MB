@@ -235,6 +235,20 @@ A radar speed gun sends out microwaves, and the reflection from a moving vehicle
 - Writing that the Doppler effect changes the speed of sound. A moving source changes the wavelength, not the wave speed.
 - Mixing up signs. Towards means higher frequency, so for a source the denominator gets smaller.
 
+## Frequently asked questions
+
+**What is the range of human hearing?**
+The audible range is roughly 20 Hz to 20 kHz, which in air at 340 m s⁻¹ corresponds to wavelengths from about 17 m down to 17 mm.
+
+**Will Doppler questions have both the source and the observer moving?**
+No. The guide's HL formulas use us for a moving source and uo for a moving observer, and problems will not involve both moving at once.
+
+**Do I need to calculate Doppler shifts for ultrasound and radar?**
+No. For medical and radar uses you need the idea: the reflected wave is shifted by an amount that depends on the speed of the reflecting object. A calculation is not required.
+
+**Where do the orders of magnitude of EM wavelengths come from?**
+The guide directs you to the Physics data booklet for these values. Treat them as rough, because the boundaries between regions overlap.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topics C.2 Wave model and C.5 Doppler effect.

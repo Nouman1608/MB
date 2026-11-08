@@ -220,6 +220,20 @@ For a wave passing a body, the wave bends round the sides and fills in part of t
 - Writing sin C = n1 / n2. The larger index is always on the bottom.
 - Saying diffraction changes the wavelength of the wave.
 
+## Frequently asked questions
+
+**What wavefront diagrams does the IB DP Physics guide expect?**
+The guide limits sketches and interpretations of wavefronts and rays to incident, reflected and transmitted waves.
+
+**Does a wave that meets a boundary head-on refract?**
+It still slows down or speeds up, but it does not change direction when it meets the boundary along the normal.
+
+**Why do straight wavefronts curve at an edge?**
+Each point on a wavefront can be treated as a source of new circular wavelets, and the new wavefront is the line touching them. At an edge the wavelets spread into the shadow.
+
+**What happens to the amplitude of a wave after it passes through a gap?**
+The spacing of the wavefronts is unchanged, but the wave spreads out, so the amplitude beyond the gap is lower.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization: sub-topic C.3 Wave phenomena (first half of the understandings).
