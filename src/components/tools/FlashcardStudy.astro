@@ -17,7 +17,8 @@ interface Props {
   groupNoun: 'subtopic' | 'topic';
   groups: Group[];
   /** Cards in syllabus order, each with the key of the group it is listed under. */
-  cards: (Flashcard & { group: string })[];
+  /** Only these fields are used, so syllabus and advanced-course cards both fit. */
+  cards: (Pick<Flashcard, 'id' | 'front' | 'back' | 'tier'> & { group: string })[];
 }
 const { code, scope, tierScheme, groupNoun, groups, cards } = Astro.props;
 const tl = tierScheme ? TIER_LABELS[tierScheme] : undefined;

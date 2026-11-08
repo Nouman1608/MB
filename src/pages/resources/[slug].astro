@@ -28,6 +28,8 @@ import { onThisTopicLinks } from '../../utils/content/next-steps';
 import VideoSection from '../../components/media/VideoSection.astro';
 import { videosForResource } from '../../utils/content/media';
 import { videoNodes } from '../../utils/schema/video';
+import { faqNode } from '../../utils/schema/faq';
+import { extractFaq } from '../../utils/content/faq-extract';
 
 export async function getStaticPaths() {
   const resources = await getResources();
@@ -261,6 +263,9 @@ const siblings = await topicSiblings(resource);
 const alsoResources = await relatedResources({ subject: d.subject.id, topic: d.topic, boards: d.boards, excludeId: resource.id, picked: d.relatedResources, limit: 3, sameCourseAs: resource });
 const alsoArticles = await relatedArticles({ subject: d.subject.id, picked: d.relatedArticles, limit: 2 });
 
+// FAQPage from the page's visible "Frequently asked questions" section only (same rule as the hub pages).
+const faqItems = extractFaq(resource.body ?? '');
+const faq = faqItems.length >= 2 ? faqNode(faqItems) : null;
 const jsonLd = [articleNode({
   path,
   headline: d.title,
@@ -269,7 +274,7 @@ const jsonLd = [articleNode({
   updated: d.updatedDate,
   authorName: author?.data.name ?? 'Marlbridge Academic Team',
   authorEntityType: author?.data.entityType ?? 'organization',
-}), ...videoNodes(videos)];
+}), ...videoNodes(videos), ...(faq ? [faq] : [])];
 ---
 <PageLayout
   title={d.seoTitle ?? d.title}
