@@ -19,6 +19,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "the-heart-and-blood-vessels-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "organisation-aqa-gcse-biology"
+    subtopic: "blood-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "organisation-aqa-gcse-biology"
+    subtopic: "coronary-heart-disease-aqa-gcse-biology"
 description: "Original AQA GCSE Biology 8461 questions on organisation, the heart, lungs, pacemakers, blood vessels and blood-flow rates, with marked answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
@@ -169,6 +175,65 @@ The organ systems work together: the lungs load oxygen into the blood and the he
 **12. (a)** Blood in veins is at low pressure [1], so valves are needed to stop blood flowing backwards [1]
 **(b)** Blood leaves the heart at high pressure; the thick muscle withstands this pressure [1]; the elastic fibres let the wall stretch with each surge of blood and then recoil [1]
 *Examiner insight:* Two separate ideas are needed for each two-mark part; repeating "high pressure" twice in (b) earns only one mark.
+
+## Blood (4.2.2.3) and coronary heart disease (4.2.2.4)
+
+These questions extend the set to the next two subtopics of 4.2.2, which are also assessed on Paper 1 at both
+tiers. The content is in the [blood revision notes](/resources/aqa-gcse-biology-8461-blood-revision-notes/) and
+the [coronary heart disease revision notes](/resources/aqa-gcse-biology-8461-coronary-heart-disease-revision-notes/),
+and in the 4.2.2.3 and 4.2.2.4 sections of the [study guide](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels/).
+
+### Questions
+
+**13.** Blood is described as a tissue. Name the liquid part of the blood and **three** types of cell or cell
+fragment suspended in it. **[4]**
+
+**14.** Give **two** substances transported in the plasma. **[2]**
+
+**15.** Explain **two** ways in which a red blood cell is adapted to carry oxygen. **[4]**
+
+**16.** A student looks at a blood smear under a microscope. Describe how they could tell a white blood cell from
+a red blood cell. **[2]**
+
+**17.** Describe the function of platelets. **[2]**
+
+**18.** Explain how a build-up of fatty material in the coronary arteries can lead to a heart attack. **[3]**
+
+**19.** A patient has a narrowed coronary artery. A doctor suggests either a stent or a course of statins.
+Evaluate the use of these two treatments for this patient. **[6]**
+
+**20.** Give **one** advantage and **one** disadvantage of a mechanical replacement heart valve compared with a
+biological valve. **[2]**
+
+**21.** Suggest why an artificial heart might be used for a patient with heart failure. **[2]**
+
+### Answers
+
+**13.** Plasma [1]; any three of red blood cells, white blood cells, platelets [3]. **[4]**
+
+**14.** Any two: glucose; carbon dioxide; urea; hormones; other dissolved substances such as amino acids [2]. **[2]**
+
+**15.** Biconcave shape [1] gives a large surface area for oxygen to diffuse [1]; no nucleus [1] leaves more room
+for haemoglobin, which combines with oxygen [1]. **[4]**
+
+**16.** The white blood cell has a nucleus [1] and is larger; red blood cells have no nucleus and are more
+numerous [1]. **[2]**
+
+**17.** Platelets help the blood clot at a wound [1], sealing it to stop blood loss and the entry of pathogens [1]. **[2]**
+
+**18.** The fatty material narrows the coronary arteries [1], reducing blood flow to the heart muscle [1], so the
+muscle gets too little oxygen and can be damaged or stop working [1]. **[3]**
+
+**19.** Level-of-response answer. Points include:
+- Stent: keeps the artery open, restoring blood flow straight away [1]; fairly quick recovery compared with major surgery [1]; but risks during the procedure, infection or a clot in the stent [1].
+- Statins: lower blood cholesterol, slowing further build-up of fatty material [1]; no surgery needed [1]; but must be taken long term, may have side effects and do not widen the artery already narrowed [1].
+- Judgement linked to the patient, e.g. a stent to open the artery now, with statins to reduce further narrowing. **[6]**
+*Examiner insight:* Top-level answers compare both treatments and give a reasoned conclusion; describing only one caps the mark.
+
+**20.** Advantage: lasts longer / does not wear out as quickly [1]. Disadvantage: patient needs lifelong drugs to
+prevent blood clots [1]. **[2]**
+
+**21.** To keep the patient alive while waiting for a donor heart [1], or to let the heart rest and recover [1]. **[2]**
 
 ## Where marks are usually lost
 
