@@ -16,16 +16,20 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on generalised expressions, formulae, expanding, factorising, index laws and algebraic fractions for OxfordAQA International GCSE Mathematics (9260)."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNote: "2026-11-08 recheck: added intro naming 9260 section 3.2.1, questions on index laws, substitution and consecutive-integer proof (the description listed index laws and formulae but no question tested them), and FAQ; corrected the cancelling example ((x + 3)/x² wrongly becomes 3/x). Please re-review."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+Notation and manipulation is section 3.2.1 of the OxfordAQA International GCSE Mathematics (9260) specification: using algebraic notation, substituting into formulae, writing expressions, expanding, factorising, applying the laws of indices and simplifying algebraic fractions. Questions marked Extension use content assessed only on the Extension tier.
 
 Related: [Notation and manipulation study guide](/resources/igcse-oxfordaqa-mathematics-algebra-notation-and-manipulation/)
 
@@ -46,6 +50,18 @@ Related: [Notation and manipulation study guide](/resources/igcse-oxfordaqa-math
 **5.** Simplify (2x² + 3x)/(4x² − 9). **[4]**
 
 **6.** Show that (x + 1)² − (x − 1)² is equivalent to 4x for all values of x. **[3]**
+
+## Section C (Core and Extension)
+
+**7.** Simplify: (a) a⁴ × a³ (b) (2x³)² (c) 12y⁶ ÷ 3y² **[3]**
+
+**8.** Use the formula v = u + at to find v when u = 4, a = −2.5 and t = 6. **[2]**
+
+**9.** The first of three consecutive integers is n. Write an expression for their sum and show that the sum is always a multiple of 3. **[3]**
+
+## Section D (Extension)
+
+**10.** Evaluate 8^(−2/3). **[2]**
 
 ---
 
@@ -83,6 +99,14 @@ Result: x / (2x - 3)                               [1]
 = x^2 + 2x + 1 - x^2 + 2x - 1              [1]
 = 4x                                        [1]
 ```
+
+**7.** (a) **a⁷** [1]. (b) **4x⁶** [1] (square the 2 as well as the x³). (c) **4y⁴** [1].
+
+**8.** v = 4 + (−2.5)(6) [1] = 4 − 15 = **−11** [1].
+
+**9.** n + (n + 1) + (n + 2) [1] = 3n + 3 [1] = 3(n + 1), which has a factor of 3, so the sum is always a multiple of 3 [1].
+
+**10.** 8^(1/3) = 2, so 8^(2/3) = 2² = 4 [1]; the negative index gives the reciprocal: **8^(−2/3) = 1/4** [1].
 
 ---
 
@@ -123,7 +147,7 @@ Algebraic fractions like Q5 combine two separate skills that must both be correc
 numerator and denominator accurately, and then cancelling only a shared *factor* (something multiplied),
 never a shared *term* (something added or subtracted). A frequent error is to cancel an x that appears in
 both the numerator and denominator even when it is only part of a larger expression — for example,
-wrongly cancelling the x in (x + 3)/x² to leave (x + 3)/x, when x is not a factor of the whole numerator
+wrongly cancelling an x from (x + 3)/x² to leave 3/x, when x is not a factor of the whole numerator
 (x + 3) and so cannot legally be cancelled, or cancelling terms from
 2x² + 3x over 4x² − 9 before those expressions have been fully factorised into their bracketed forms.
 The safest method is always: factorise fully first, write out both numerator and denominator as products
@@ -135,3 +159,14 @@ of factors, and only then cross out any factor that appears identically, unchang
 - Forgetting that a common factor must be taken out of every term before factorising, not just some of them.
 - Applying index laws or cancelling rules to terms with different bases, or cancelling additive terms in a fraction as though they were multiplicative factors.
 - In "show that" questions, jumping straight to the final answer without showing the intermediate algebraic steps that the marks are actually awarded for.
+
+## Frequently asked questions
+
+**Which index laws do I need for OxfordAQA 9260?**
+Add powers when multiplying (a⁴ × a³ = a⁷), subtract when dividing, multiply when raising a power to a power, and know that a⁰ = 1. Negative and fractional indices, such as 8^(−2/3), are needed for the Extension tier.
+
+**What is the difference between an expression, an equation and an identity?**
+An expression has no equals sign, an equation is true only for particular values, and an identity, such as (x + 1)² − (x − 1)² ≡ 4x, is true for every value of x.
+
+**How do I show that a result is always a multiple of 3?**
+Write the expression in terms of n, simplify, and factorise so that 3 is a factor of the whole expression, for example 3(n + 1).

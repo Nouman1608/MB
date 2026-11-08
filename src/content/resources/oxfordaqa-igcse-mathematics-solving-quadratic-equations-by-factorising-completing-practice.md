@@ -95,7 +95,7 @@ If a method is unfamiliar, start with the [study guide](/resources/oxfordaqa-igc
 
 **5. (a)** All seven points plotted correctly [1]. A smooth curve through them, with a rounded minimum [1]. **[2]**
 **(b)** The curve crosses y = 0 between x = −1 and x = 0, and between x = 4 and x = 5 [1]. **x ≈ −0.2 and x ≈ 4.2** (answers within about 0.1 of these are reasonable) [1]. **[2]**
-**(c)** x² − 4x − 3 = 0 becomes x² − 4x − 1 = 2 [1], so the line is y = 2 [1]. Reading where it meets the curve gives **x ≈ −0.6 and x ≈ 4.6** [1]. **[3]**
+**(c)** x² − 4x − 3 = 0 becomes x² − 4x − 1 = 2 [1], so the line is y = 2 [1]. Reading where it meets the curve gives **x ≈ −0.65 and x ≈ 4.65** (the exact roots are 2 ± √7; readings within about 0.1 of these are reasonable) [1]. **[3]**
 *Examiner insight:* Solutions are x-values, so mark them clearly on the x-axis or list them as x = ...; quoting the y-values of the points is a common way to lose the final mark.
 
 **6. (a)** (x − 4)² [1] − 10, because −16 + 6 = −10 [1]. **(x − 4)² − 10** **[2]**

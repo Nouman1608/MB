@@ -89,7 +89,7 @@ Solve x² − 81 = 0. Then (x − 9)(x + 9) = 0, so x = 9 or x = −9.
 3. Draw that line (a horizontal line is y = number). Read the x-values where it meets the curve.
 4. Give answers to the accuracy asked for and describe them as approximate.
 
-Example. The graph of y = x² − 4x − 1 is drawn. To solve x² − 4x − 3 = 0, write x² − 4x − 1 = 2. Draw y = 2. The line meets the curve at about x = −0.6 and x = 4.6.
+Example. The graph of y = x² − 4x − 1 is drawn. To solve x² − 4x − 3 = 0, write x² − 4x − 1 = 2. Draw y = 2. The line meets the curve at about x = −0.65 and x = 4.65 (exactly 2 ± √7).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing--07-zero-product-trap.webp" width="900" height="746" alt="The curve y = (x-4)(x+9) crosses the x-axis at 4 and -9, but (x-4)(x+9) = 10 needs it to meet the line y = 10, at about 4.73 and -9.73. Setting each bracket to a number is wrong; rearrange to equal 0 first." loading="lazy">
