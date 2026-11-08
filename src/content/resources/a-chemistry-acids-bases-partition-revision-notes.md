@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-equilibria"
     subtopic: "a-partition-coefficients"
-description: "Condensed recall notes on conjugate acid–base pairs, pH, Ka, pKa and Kw calculations, buffer solutions, solubility product and the common ion effect, and partition coefficients for Cambridge A Level Chemistry 9701 (2025-2027)."
+description: "Revision notes on conjugate pairs, pH, Ka and Kw, buffers, Ksp and the common ion effect, and partition coefficients for Cambridge A Level Chemistry 9701."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -319,3 +321,19 @@ are not data-book values. Check the full syllabus wording in the
   <figcaption>The same volume of solvent extracts more when used in several small portions.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate the pH of a strong alkali in Cambridge 9701 Chemistry?**
+Find [OH⁻] from the alkali's concentration, then use Kw = [H⁺][OH⁻] = 1.00 × 10⁻¹⁴ mol² dm⁻⁶ to get [H⁺], and take pH = −log₁₀[H⁺]. Never write pH = −log[OH⁻].
+
+**What is the pH of a buffer when [HA] equals [A⁻]?**
+When the weak acid and its conjugate base are at equal concentrations, [H⁺] = Ka, so pH = pKa. This is the case for a buffer made by half-neutralising a weak acid with NaOH.
+
+**How do you tell if a precipitate will form from Ksp?**
+Work out the ionic product using the ion concentrations after mixing. If it is greater than Ksp, a precipitate forms until the product falls back to Ksp.
+
+**Why do several small solvent extractions remove more solute than one large one?**
+Each extraction reaches the same partition ratio, so splitting the solvent into portions repeatedly takes a share of what remains. In the page's example, two 25 cm³ portions extract 0.75 g of solute compared with 0.67 g from one 50 cm³ portion.
+
+**Does the common ion effect change the value of Ksp?**
+No. A common ion lowers the solubility of a sparingly soluble salt by shifting the equilibrium to the left, but Ksp stays the same at constant temperature.

@@ -26,7 +26,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on Born-Haber cycles, entropy and Gibbs free energy for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -147,3 +149,20 @@ CaCO3(s) -> CaO(s) + CO2(g)     delta-H = +178 kJ mol-1,  delta-S = +161 J K-1 m
 - Mixing J and kJ in ΔG = ΔH − TΔS — the single most common arithmetic error.
 - Forgetting the ×2 for atomisation of a diatomic molecule, or the second ionisation energy for a 2+ ion.
 - Saying a feasible reaction will definitely be observed.
+
+## Frequently asked questions
+
+**Why is the second electron affinity of oxygen endothermic?**
+The second electron is being added to an O⁻ ion that is already negatively charged. Energy must be supplied to overcome the repulsion between the ion and the incoming electron.
+
+**Why does MgO have a more exothermic lattice energy than NaCl?**
+Mg²⁺ and O²⁻ carry double the charges of Na⁺ and Cl⁻, and their ionic radii are smaller. Both increase the electrostatic attraction, with charge having the larger effect.
+
+**What is the most common mistake in Gibbs free energy calculations?**
+Mixing joules and kilojoules in ΔG = ΔH − TΔS. ΔH is usually given in kJ mol⁻¹ and ΔS in J K⁻¹ mol⁻¹, so convert one before combining them.
+
+**Is a reaction with negative ΔH and negative ΔS always feasible?**
+No. It is feasible only below a certain temperature, because as T rises the −TΔS term becomes more positive and eventually makes ΔG positive.
+
+**Where are marks usually lost on lattice energy and entropy questions?**
+Common errors include leaving "one mole" or "gaseous" out of the lattice energy definition, forgetting to double atomisation for diatomic elements or to include the second ionisation energy for a 2+ ion, and saying a feasible reaction will definitely be observed.

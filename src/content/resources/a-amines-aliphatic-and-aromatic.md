@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nitrogen-compounds"
     subtopic: "a-phenylamine-and-azo-compounds"
-description: "Producing primary and secondary amines, comparing the basicity of ammonia, ethylamine and phenylamine, phenylamine's preparation, and azo dye coupling, for Cambridge International AS & A Level Chemistry 9701."
+description: "Making primary and secondary amines, basicity order of ethylamine, ammonia and phenylamine, phenylamine reactions and azo dyes, for Cambridge 9701 Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-09-27
@@ -220,6 +222,23 @@ applies to nitrogen's lone pair just as it does to oxygen's.
   → phenylamine
 - Diazonium salt: phenylamine + HNO₂/NaNO₂ + dilute acid, below 10 °C
 - Azo dye: diazonium salt + phenol (in NaOH) → azo compound, –N=N– linkage
+
+## Frequently asked questions
+
+**Why is ethylamine a stronger base than ammonia?**
+The ethyl group is electron-donating by induction, so it pushes electron density onto the nitrogen. This makes the nitrogen lone pair more available to accept a proton than the lone pair in ammonia.
+
+**Why is phenylamine a weaker base than ammonia?**
+The nitrogen lone pair in phenylamine delocalises into the benzene ring's π system. This pulls electron density away from nitrogen, so the lone pair is less available to accept H⁺, making phenylamine less basic than ammonia.
+
+**How is phenylamine made from benzene in Cambridge 9701 Chemistry?**
+First nitrate benzene with concentrated HNO₃ and H₂SO₄ at 25–60 °C to give nitrobenzene. Then reduce it with hot tin and concentrated HCl, and add NaOH(aq) to free phenylamine from its ammonium salt.
+
+**Why must diazonium salts be made below 10 °C?**
+Benzenediazonium chloride decomposes above about 10 °C. Phenylamine is reacted with HNO₂ (from NaNO₂ and dilute acid) below 10 °C so the diazonium salt survives long enough to couple with phenol.
+
+**Why are azo compounds used as dyes?**
+The –N=N– azo group links two aromatic rings into an extended delocalised system that absorbs strongly in the visible region. This makes azo compounds intensely coloured.
 
 ## Related resources
 

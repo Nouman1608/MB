@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-group-2"
     subtopic: "a-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds"
-description: "Explaining the thermal stability of Group 2 nitrates and carbonates, and the solubility trends of their hydroxides and sulfates, using lattice energy and hydration enthalpy, for Cambridge International AS & A Level Chemistry 9701."
+description: "Why Group 2 nitrate and carbonate stability rises down the group and why hydroxide and sulfate solubility trends differ, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -167,6 +169,20 @@ differs between hydroxides and sulfates is only which one falls faster.
   still falls → ΔH<sub>sol</sub> less exothermic → solubility decreases
 - Two separate arguments: polarisation for thermal stability, energetics
   cycle for solubility — don't mix them up
+
+## Frequently asked questions
+
+**Why is magnesium carbonate the least thermally stable Group 2 carbonate?**
+Mg²⁺ is the smallest Group 2 cation, so it has the highest charge density. It polarises the large carbonate ion most strongly, weakening it most, so MgCO₃ decomposes at the lowest temperature.
+
+**Do I need lattice energy values to explain Group 2 trends for Cambridge 9701?**
+No. The 9701 syllabus asks you to describe and explain these trends qualitatively, in words; no calculations with lattice energy or hydration enthalpy values are required.
+
+**Why is barium sulfate used for barium meals?**
+BaSO₄ is so insoluble that essentially none dissolves into the body, making it safe for X-ray imaging. Its insolubility fits the trend of Group 2 sulfates becoming less soluble down the group.
+
+**Why do hydroxide and sulfate solubility trends go in opposite directions?**
+Both lattice energy and cation hydration enthalpy become less exothermic down the group, but which falls faster depends on the anion's size. With small OH⁻ the lattice energy falls faster, so solubility rises; with large SO₄²⁻ the hydration enthalpy falls faster, so solubility falls.
 
 ## Related resources
 

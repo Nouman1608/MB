@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Condensed recall notes on variable oxidation states, complex ions, colour and catalysis for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-11-05
@@ -207,3 +209,19 @@ Multiple accessible oxidation states make transition elements central to redox t
   <figcaption>Removing Cu+ as insoluble CuI drives a reaction that standard potentials alone predict will not go.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why are scandium and zinc not transition elements?**
+Scandium forms only Sc³⁺, which is d⁰, and zinc forms only Zn²⁺, which is d¹⁰. Neither forms a stable ion with a partially filled d subshell, so although both are in the d block, neither is a transition element.
+
+**Why do chromium and copper have unusual electron configurations?**
+Chromium is [Ar]3d⁵4s¹ because a half-filled d subshell is more stable, and copper is [Ar]3d¹⁰4s¹ because a filled d subshell is more stable. These two anomalies have to be learned.
+
+**Does copper(II) hydroxide dissolve in excess sodium hydroxide or ammonia?**
+Cu(OH)₂ does not redissolve in excess NaOH(aq), but it does redissolve in excess NH₃(aq) to form the deep blue ammine complex. Other ions behave differently, so learn each from the 9701 qualitative-analysis table.
+
+**Why is the manganate(VII) titration self-indicating?**
+Purple MnO₄⁻ is reduced to almost colourless Mn²⁺ as it reacts. Once all the reducing agent has been used up, the next drop leaves a permanent pink tinge, which marks the end point.
+
+**Why does Cu²⁺ oxidise iodide ions when E°cell looks negative?**
+The calculated E°cell is −0.39 V under standard conditions, but Cu⁺ is removed as insoluble white CuI as fast as it forms. This shifts the equilibrium and drives the reaction forward, liberating I₂ that is then titrated with thiosulfate.

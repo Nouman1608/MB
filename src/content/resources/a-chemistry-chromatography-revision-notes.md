@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-analytical-techniques"
     subtopic: "a-gas-liquid-chromatography"
-description: "Condensed recall notes on TLC, gas-liquid chromatography, Rf values and retention time for Cambridge A Level Chemistry 9701, plus GC-MS as enrichment beyond the syllabus."
+description: "Revision notes on TLC, gas-liquid chromatography, Rf values, retention time and peak areas for Cambridge A Level Chemistry 9701, with GC-MS as enrichment."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -125,3 +127,17 @@ The sample is vaporised and carried through a heated column.
 7. Why is Rf described as the balance of two competing interactions, rather than depending on the stationary phase alone?
 
 **Answers:** 1. Its relative affinity for the stationary and mobile phases — greater affinity for the stationary phase means slower movement. 2. Ink would dissolve and travel with the solvent, contaminating the result; a spot below the solvent level would dissolve into the reservoir rather than moving up the plate. 3. Rf depends on the solvent, stationary phase and temperature, so a value obtained under different conditions is not comparable. 4. The component's boiling point and its solubility in the liquid stationary phase. 5. Retention time depends only on boiling point and solubility in the stationary phase, so two different compounds can coincidentally share the same retention time; as with TLC, a known reference run alongside under identical conditions is needed to confirm identity. 6. Total area = 10.0 + 40.0 + 10.0 = 60.0; percentage of Y = (40.0 ÷ 60.0) × 100% = 66.7%. 7. A compound's overall Rf reflects both how strongly it's adsorbed onto the stationary phase (lower Rf) and how soluble it is in the mobile solvent (higher Rf) — the two effects can pull in opposite directions, so neither alone fully determines the result.
+
+## Frequently asked questions
+
+**Why do polar compounds have lower Rf values on a silica TLC plate?**
+Silica is a polar stationary phase, so polar components are adsorbed more strongly and move more slowly. Non-polar components spend more time in the mobile solvent and travel further, giving higher Rf values.
+
+**Should you use peak height or peak area for percentage composition in GLC?**
+Use peak area. Percentage of a component = (its peak area ÷ total area of all peaks) × 100%, because a broad, short peak can represent the same amount as a narrow, tall one.
+
+**Is GC-MS in the Cambridge 9701 syllabus?**
+No. Cambridge 9701 covers TLC and GLC on their own; coupling gas chromatography to mass spectrometry is background enrichment and is not assessed.
+
+**What are the stationary and mobile phases in gas-liquid chromatography?**
+The stationary phase is a high-boiling liquid on an inert solid support inside a heated column. The mobile phase is an inert carrier gas such as nitrogen or helium.

@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-halogen-compounds"
     subtopic: "a-halogen-compounds"
-description: "Original exam-style practice questions with full worked answers on benzene's electrophilic substitution reactions, directing effects, and halogenoarene versus halogenoalkane reactivity for Cambridge A Level Chemistry 9701."
+description: "Exam-style practice on benzene's electrophilic substitution, nitration, directing effects and halogenoarene reactivity, with worked answers, for Cambridge 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 featured: false
@@ -117,3 +119,17 @@ Related: [Arenes and Halogenoarenes study guide](/resources/a-arenes-and-halogen
 - Omitting the second step of the electrophilic substitution mechanism (loss of H⁺ to restore aromaticity) — this step is not optional and is specifically credited.
 - Mixing up which conditions give ring substitution versus side-chain substitution on an alkylbenzene side-chain.
 - Assuming halogenoarenes and halogenoalkanes behave the same way in nucleophilic substitution simply because both contain a C–X bond.
+
+## Frequently asked questions
+
+**What do I need to show in an electrophilic substitution mechanism for Cambridge 9701 Chemistry?**
+Show how the electrophile is generated, a curly arrow from the ring's delocalised π system to the electrophile, the positively charged intermediate, and the loss of H⁺ that restores the delocalised ring. The second step is specifically credited, so do not leave it out.
+
+**How do you decide whether halogenation happens on the ring or the side-chain of methylbenzene?**
+The conditions decide it. A halogen carrier such as AlCl₃ or AlBr₃ in the dark or cold gives ring substitution, while UV light with no catalyst gives free-radical substitution on the side-chain.
+
+**What are the most common mistakes in arenes and halogenoarenes questions?**
+Common errors are drawing benzene adding Br₂ like an alkene, missing the H⁺ loss step, mixing up ring and side-chain conditions, and assuming halogenoarenes react with nucleophiles like halogenoalkanes do.
+
+**Are these practice questions real Cambridge past paper questions?**
+No. They are original exam-style questions written for revision, and they do not copy the exam's structure or mark tariffs. Use them alongside the official Cambridge past papers.

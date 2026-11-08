@@ -20,10 +20,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-carboxylic-acids-and-derivatives"
     subtopic: "a-acyl-chlorides"
-description: "Original exam-style practice questions with full worked answers on acid strength, acyl chloride reactions and esterification for Cambridge A Level Chemistry 9701."
+description: "Practice questions with worked answers on carboxylic acid strength, chloro-substituted acids, acyl chloride reactions and esters, for Cambridge 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -137,3 +139,17 @@ Related: [Carboxylic Acids and Acyl Chlorides revision notes](/resources/a-chemi
 - Not stating that esterification is reversible when explaining low yield.
 - Placing phenol above carboxylic acids in the acidity order — phenol sits between the carboxylic acid and the alcohol, with the alcohol being the weakest of the three.
 - Forgetting that a phenoxide ion's delocalisation is spread unevenly around the ring, unlike a carboxylate's equal spread over two oxygens.
+
+## Frequently asked questions
+
+**How do you test for a carboxylic acid rather than a phenol?**
+Add sodium carbonate. A carboxylic acid gives effervescence of carbon dioxide, while a phenol is too weak an acid to react this way.
+
+**What do you observe when ethanoyl chloride reacts with water, alcohols or amines?**
+All three reactions give off steamy white fumes of hydrogen chloride. HCl is a product of every acyl chloride reaction in this topic, and forgetting it is a common way to lose marks.
+
+**Why are acyl chlorides more reactive than carboxylic acids towards nucleophiles?**
+The carbonyl carbon in an acyl chloride keeps a larger δ+ charge, because chlorine's lone pairs delocalise far less than the –OH oxygen's do in a carboxylic acid. Chloride is also a much better leaving group than hydroxide.
+
+**Where are marks usually lost on carboxylic acid and acyl chloride questions?**
+Common errors include explaining acidity without delocalisation in the carboxylate ion, getting the electron-withdrawing effect of chlorine backwards, and not saying that esterification with a carboxylic acid is reversible when explaining a low yield.

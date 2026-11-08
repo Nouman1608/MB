@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on carbon-13 and proton NMR, splitting and integration for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -149,3 +151,20 @@ Related: [NMR Spectroscopy revision notes](/resources/a-chemistry-nmr-revision-n
 - Forgetting D₂O exchange identifies both O–H and N–H protons, not only O–H.
 - Treating a peak-area ratio as an absolute proton count rather than a scalable ratio.
 - Believing D₂O exchange alters the molecule's carbon-skeleton structure, rather than being a real but reversible swap of isotope at labile O–H/N–H positions only.
+
+## Frequently asked questions
+
+**What does n count in the n+1 rule in proton NMR?**
+n is the number of hydrogen atoms on the adjacent carbon atoms, not on the same carbon. A signal is split into n + 1 lines, so a CH₃ next to a CH₂ appears as a triplet.
+
+**How do you count peaks in a carbon-13 NMR spectrum?**
+Count the distinct carbon environments, not the total number of carbon atoms. Symmetry makes carbons equivalent, which is why propan-2-ol gives fewer ¹³C peaks than propan-1-ol even though they share a molecular formula.
+
+**How does D₂O identify an OH or NH peak in proton NMR?**
+Add a few drops of D₂O and re-run the spectrum. Labile O–H and N–H protons exchange for deuterium, which is not detected, so their peaks disappear.
+
+**Does an integration ratio give the exact number of protons?**
+No. Peak areas give only a ratio, so 6:4:2 is consistent with 3:2:1 or any multiple. The actual numbers are fixed using the molecular formula.
+
+**Where are marks usually lost on NMR questions?**
+Common errors include counting carbons instead of carbon environments, applying the n+1 rule to hydrogens on the same carbon, expecting an OH peak to be split, and giving the number of neighbouring protons when the question asks for the splitting pattern.

@@ -26,7 +26,9 @@ syllabusTopics:
 description: "Born-Haber cycles, enthalpies of solution and hydration, entropy change and Gibbs free energy, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -340,6 +342,23 @@ numerical errors in this topic.
 - ΔS = ΣS°(products) − ΣS°(reactants)
 - ΔG = ΔH − TΔS; feasible when ΔG ≤ 0
 - Feasibility temperature: T = ΔH / ΔS, when ΔH and ΔS have the same sign
+
+## Frequently asked questions
+
+**How do you calculate lattice energy from a Born-Haber cycle?**
+Apply Hess's law: the enthalpy change of formation equals the sum of atomisation of both elements, ionisation energy, electron affinity and lattice energy. Rearranging gives the lattice energy; for NaCl this comes to −787 kJ mol⁻¹.
+
+**Why is the electron affinity of chlorine more exothermic than that of fluorine?**
+Fluorine is so small that its outer shell is already crowded, so an incoming electron feels extra repulsion that outweighs the stronger nuclear attraction. The same anomaly makes oxygen's electron affinity less exothermic than sulfur's.
+
+**When is a reaction feasible according to the Gibbs equation?**
+In Cambridge 9701 Chemistry a reaction is feasible when ΔG = ΔH − TΔS is negative or zero. Feasible does not mean fast; ΔG says nothing about the rate.
+
+**How do you find the temperature at which a reaction becomes feasible?**
+Set ΔG = 0 so that T = ΔH/ΔS, after converting ΔH to J mol⁻¹ to match the units of ΔS. For CaCO₃ decomposition this gives about 1079 K.
+
+**How do ionic charge and radius affect lattice energy and hydration enthalpy?**
+Both become more exothermic as ionic charge increases and ionic radius decreases. Smaller, more highly charged ions attract oppositely charged ions or water dipoles more strongly.
 
 ## Related resources
 
