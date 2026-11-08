@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
-description: "Original practice questions with full worked answers covering differentiation, integration and their applications, for the Calculus strand of IB Diploma Programme Mathematics: Analysis and Approaches."
+description: "Original practice questions with worked answers on differentiation, integration, kinematics and optimisation for IB DP Mathematics: Analysis and Approaches."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -96,6 +98,20 @@ question 7 then requires the full optimisation method the notes describe end-to-
 function from a described real-world scenario, differentiating, solving, and justifying the result --
 exactly the kind of multi-step problem the notes identify as the most direct preparation for Paper 3's
 extended-response questions.
+
+## Frequently asked questions
+
+**How does the second-derivative test classify a stationary point?**
+If d²y/dx² > 0 at the stationary point it is a local minimum, and if d²y/dx² < 0 it is a local maximum. If d²y/dx² = 0 the test is inconclusive, so check the sign of the first derivative either side instead.
+
+**How do you approach an optimisation question in IB Maths AA?**
+Set up a function for the quantity being optimised, differentiate, set the derivative equal to zero and solve, then justify whether the point is a maximum or minimum with a second-derivative test or a sign check. Finish by answering the question in context.
+
+**Why do you need to justify that a stationary point is a maximum?**
+Finding where the derivative is zero only locates a stationary point; it does not show what type it is. A justification, using the second derivative or a sign check either side, completes the method.
+
+**Is the product rule in IB Mathematics: Analysis and Approaches SL?**
+Yes. The power, product, quotient and chain rules are all SL content in IB DP Mathematics: Analysis and Approaches, so they are required at both SL and HL.
 
 ## Official syllabus
 

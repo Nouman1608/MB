@@ -26,10 +26,12 @@ syllabusTopics:
 description: "12 original IB DP Maths AA questions on exponents, logarithms, proof and the binomial theorem, with mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,6 +188,20 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-exp
 - Plan your final weeks with the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What do you need to show in a "show that" binomial coefficient question?**
+Show the formula nCr = n!/(r!(n − r)!) with the numbers substituted, not just a calculator value. Writing only a calculator result in a "show that" is a common lost mark.
+
+**Should you take logarithms before isolating the exponential?**
+No. Isolate the exponential term first, for example divide both sides by the coefficient, then take logarithms of both sides.
+
+**How do you raise a product like (2a³)² to a power?**
+Apply the power to every factor, including the number: (2a³)² = 4a⁶. Applying the power to the letters but not the number is one of the most common errors.
+
+**Which exponent and log questions are calculator-free in IB Maths AA?**
+In IB DP Mathematics: Analysis and Approaches, Paper 1 allows no technology at SL and HL, so exponent laws, fractional powers of perfect powers, log laws and same-base exponential equations must be done by hand. Paper 2 requires a GDC.
 
 ## Official syllabus
 
