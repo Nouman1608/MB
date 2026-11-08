@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
     subtopic: "comparing-texts-8700"
-description: "Reading two non-fiction texts on a shared topic and writing to present a viewpoint -- the full structure of Paper 2, Writers' Viewpoints and Perspectives, for AQA GCSE English Language (8700)."
+description: "AQA GCSE English Language 8700 Paper 2 Writers' Viewpoints and Perspectives: two linked non-fiction sources, writing a viewpoint, and the paper's structure."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 This guide covers **Paper 2: Writers' Viewpoints and Perspectives**,

@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
     subtopic: "evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features-8700"
-description: "Condensed recall notes on the reading and writing skills tested in Paper 1 of AQA GCSE English Language (8700)."
+description: "Condensed notes on AQA GCSE English Language 8700 Paper 1: the four reading questions, the 40-mark creative writing task, the AOs and the common exam traps."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full course picture, use the

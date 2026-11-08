@@ -145,6 +145,21 @@ Answers that only paraphrase, or treat one source much more fully than the other
 - Losing the question's focus.
 - Long quotations with no comment.
 
+## Frequently asked questions
+
+**Should I analyse language in the 8-mark summary?**
+No. The summary question rewards AO1 only: selecting evidence and making inferences about the focus
+in the question. Analysis of language belongs to the next question on the paper.
+
+**How many points do I need?**
+There is no fixed number. Examiners reward clear, perceptive inferences supported by apt references
+to both sources, so two or three well-developed comparative points beat a long list of facts.
+
+**Do I need to compare the two sources?**
+Yes. The question asks about similarities or differences, so link the sources with comparative
+connectives such as whereas, similarly and in contrast.
+
+
 ## Official syllabus
 
 AQA GCSE English Language (8700) specification, for GCSE exams June 2017 onwards: 3.1.1 Critical reading and

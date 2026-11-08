@@ -21,7 +21,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "spoken-language-8700"
     subtopic: "spoken-standard-english-8700"
-description: "How to plan, deliver and respond to a formal presentation, and use spoken Standard English, for the separately reported spoken language endorsement in AQA GCSE English Language."
+description: "How to plan, deliver and respond to a formal presentation and use spoken Standard English for the separate AQA GCSE English Language 8700 endorsement."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
