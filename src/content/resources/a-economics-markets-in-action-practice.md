@@ -13,11 +13,13 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "markets-in-action-edexcel-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on elasticity, market failure and government intervention, built to the specification's four-section paper structure and command-word tariffs, for A Level Economics."
+description: "Original exam-style practice for Edexcel International A Level Economics Unit 1 (YEC11): elasticity, market failure and intervention, with worked answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-08-22
 updatedDate: 2026-11-05
 featured: false
@@ -176,3 +178,20 @@ D) A tax fails to raise any revenue **[1]**
 - Giving only one property of a public good.
 - Confusing what a tax fixes (price, leaving quantity uncertain) with what a tradable permit scheme fixes (quantity, leaving price to the market).
 - Using a command word (e.g. "describe", "state", "distinguish") that is not one of this specification's eight command words, or setting a tariff that does not match the mark allocation the specification gives for the command word used.
+
+## Frequently asked questions
+
+**How is this Markets in Action practice paper structured?**
+It follows a four-section layout for Edexcel YEC11: six multiple-choice questions, five short-answer questions, a five-part question built on one scenario, and an essay chosen from two options. Full worked answers follow the questions.
+
+**How many marks does each command word carry in Edexcel YEC11 Economics?**
+In the specification's command word table, define carries 2 marks, calculate 2 or 4, draw 4, explain 4, analyse 6, examine 8, discuss 14, and evaluate or to what extent 20.
+
+**What is the difference between what a tax and a tradable permit scheme fix?**
+A tax on pollution fixes the price of polluting and leaves the quantity uncertain, while a tradable permit scheme fixes the quantity of pollution and leaves the price to the market.
+
+**How many properties of a public good should I give?**
+Give both: a public good is non-excludable and non-rival. Giving only one of the two properties is a common way to lose marks.
+
+**Are these real Edexcel past paper questions?**
+No. They are original questions written for revision and do not reproduce past papers; use them alongside the official past papers available free from Pearson Edexcel.

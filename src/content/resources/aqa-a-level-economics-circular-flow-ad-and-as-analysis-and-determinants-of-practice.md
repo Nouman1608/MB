@@ -155,6 +155,20 @@ AD is Y = 1,320 - 6P and short-run AS is Y = 4P + 120. Long-run AS is vertical a
 - Treating investment and saving as the same thing.
 - Giving a list of points in an evaluation with no judgement.
 
+## Frequently asked questions
+
+**What is the equilibrium condition in the circular flow of income?**
+National income is in equilibrium when planned injections equal planned withdrawals. Writing saving equals investment as the condition is a common mistake in AQA answers.
+
+**What should I divide by when calculating a gap to full employment income?**
+Divide by full employment income, not by equilibrium income.
+
+**What must an answer about an economic shock include?**
+State what happens to both the price level and real output, and use the right curve: a cost shock shifts aggregate supply and a change in confidence shifts aggregate demand.
+
+**Which AQA A-level Economics content do these questions practise?**
+They practise the circular flow of income, AD/AS analysis and the determinants of aggregate demand from AQA A-level Economics 7136, which AS Economics 7135 shares.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes/).

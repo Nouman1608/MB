@@ -13,11 +13,13 @@ order: 7
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-a-cambridge-alevel-economics"
-description: "Original exam-style questions with full worked answers on marginal utility, internal economies of scale, minimum efficient scale, supernormal profit in perfect competition and monopoly, and allocative and productive efficiency, for Cambridge International AS & A Level Economics (9708)."
+description: "Cambridge 9708 A Level practice on the price system: marginal utility, economies of scale, minimum efficient scale, supernormal profit and efficiency."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
@@ -103,3 +105,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Showing supernormal profit in perfect competition but not explaining how new entrants remove it in the long run.
 - Assuming every monopolist always earns and keeps the largest possible supernormal profit.
 - Mixing up allocative efficiency (P = MC) with productive efficiency (minimum AC).
+
+## Frequently asked questions
+
+**Which Cambridge 9708 paper do these practice questions target?**
+Each question practises a skill tested in the June 2024 Paper 42, with an examiner insight, mark-scheme insight or tip after each answer.
+
+**What is the difference between allocative and productive efficiency?**
+Allocative efficiency occurs where price equals marginal cost, while productive efficiency occurs at the minimum of average cost. Mixing the two up is a common way to lose marks.
+
+**How is marginal utility worked out?**
+Marginal utility is the change in total utility from consuming one more unit. It is not total utility divided by the number of units.
+
+**What must a definition of economies of scale include?**
+It must say that economies of scale reduce long-run average cost as the firm increases its scale of output. Leaving out long-run average cost is a frequent error.

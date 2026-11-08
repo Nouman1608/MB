@@ -13,11 +13,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "basic-economic-ideas-and-resource-allocation-cambridge-alevel-economics"
-description: "Scarcity and opportunity cost, economic methodology, factors of production, resource allocation systems, production possibility curves, and classification of goods and services -- a syllabus map and study guide for Topic 1 of Cambridge AS & A Level Economics 9708, 2026-2028 series."
+description: "Study guide to Topic 1 of Cambridge AS & A Level Economics 9708: scarcity, opportunity cost, methodology, factors of production, economic systems and PPCs."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -155,6 +157,23 @@ this AS classification.)
   <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What is opportunity cost in Cambridge 9708 Economics?**
+Opportunity cost is the next best alternative given up when a choice is made. Scarcity forces these choices at every level of decision-making, which is why it sits in topic 1.1 of the 9708 syllabus.
+
+**What are the four factors of production?**
+The four factors of production are land, labour, capital and enterprise, and each earns its own reward. They are covered in topic 1.3.
+
+**What is the difference between a market, planned and mixed economy?**
+They differ in who answers the basic questions of what, how and for whom to produce: in a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy combines the two.
+
+**How are merit and demerit goods defined in the 9708 syllabus?**
+Merit goods are defined by under-consumption resulting from imperfect information, and demerit goods by over-consumption resulting from imperfect information. Whether a good is excludable or rival does not make it a merit good.
+
+**Is Topic 1 Basic economic ideas an AS Level topic?**
+Yes. Topic 1 is an AS Level topic, so it is studied by both AS Level candidates (topics 1.1 to 6.5) and A Level candidates (all topics 1.1 to 11.6).
 
 ## Official syllabus
 

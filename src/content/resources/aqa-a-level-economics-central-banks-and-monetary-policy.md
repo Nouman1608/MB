@@ -253,6 +253,23 @@ QE aims to raise spending, asset prices and inflation when bank rate is already 
 - Treating an appreciation as always good. It helps with inflation and hurts export industries.
 - Ignoring the lag, and using only the headline rate when the real rate is what matters.
 
+## Frequently asked questions
+
+**What are the functions of a central bank?**
+A central bank issues banknotes, acts as banker to the government and to commercial banks, acts as lender of last resort, carries out monetary policy and contributes to financial stability.
+
+**What is quantitative easing?**
+QE is when the central bank creates new reserves electronically and uses them to buy assets, mainly government bonds. It is not printing banknotes.
+
+**How does a rise in bank rate reduce inflation?**
+Higher rates reduce consumption and investment and tend to raise the exchange rate, which cuts net exports. Aggregate demand falls, reducing demand-pull pressure, while cheaper imports reduce cost pressure.
+
+**How do you calculate a real interest rate?**
+Approximately, subtract inflation from the nominal rate; exactly, divide one plus the nominal rate by one plus inflation and subtract one. Households react to the real return, not only the headline rate.
+
+**What is forward guidance?**
+Forward guidance is when the central bank signals the likely future path of policy, so expectations of low rates can bring down long-term rates.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, for first teaching from September 2015; published by AQA. Section 4.2.4.3 in the PDF, numbered 3.2.4.3 on the AQA website.

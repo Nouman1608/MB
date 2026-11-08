@@ -13,11 +13,13 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
-description: "Condensed recall notes on why governments intervene, the six intervention tools and their diagram effects, and income/wealth inequality policies for Cambridge International AS & A Level Economics (9708), Topic 3."
+description: "Revision notes for Cambridge 9708 Topic 3: reasons governments intervene, the six intervention tools and their diagram effects, and policies on inequality."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -256,3 +258,19 @@ essential goods/services regardless of income).
   <figcaption>A floor above equilibrium: at 80 farmers supply 190 tonnes but buyers take 100, leaving 90 for the government to buy.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Does a maximum price cause a shortage or a surplus?**
+A maximum price set below equilibrium causes a shortage, because quantity demanded exceeds quantity supplied at the capped price. A minimum price set above equilibrium causes a surplus.
+
+**Do I need to calculate the Gini coefficient for Cambridge AS Economics?**
+No. At AS Level in 9708 you only need to interpret a given Gini coefficient. Lorenz curve analysis and calculating the Gini coefficient are A Level content in Topic 11.
+
+**What are the four redistribution policies in Cambridge 9708 Topic 3?**
+The minimum wage, transfer payments, progressive income, inheritance and capital taxes, and state provision of essential goods and services.
+
+**How do buffer stocks differ from subsidies?**
+A buffer stock scheme uses an agency that buys stock when price is low and sells it when price is high to keep price within a target range. It does not simply shift the supply curve as a subsidy does.
+
+**Is government failure in the Cambridge AS Economics syllabus?**
+The term government failure is A Level content (8.1.2). At AS the same idea appears as the disadvantages and effectiveness of each intervention method.

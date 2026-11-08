@@ -140,6 +140,20 @@ Long-run AS is fixed by supply-side factors, so AD changes affect only prices [1
 - Forgetting that potential output is estimated.
 - Treating short run and long run as the same time period.
 
+## Frequently asked questions
+
+**What should I divide by when calculating an output gap?**
+Divide by potential output, not actual output, then multiply by 100. Remember that potential output is an estimate, so the size of the gap is uncertain.
+
+**Is stagflation a movement along the short-run Phillips curve?**
+No. Stagflation comes from a cost-push shock that shifts the short-run Phillips curve outward; describing it as a movement along the curve loses marks.
+
+**How do I get marks for supply-side policy in a Phillips curve answer?**
+Name a specific policy and say which curve moves. Writing that supply-side policy helps, with no policy or curve named, earns little.
+
+**Which AQA A-level Economics content do these questions practise?**
+They practise the sub-section on possible conflicts between macroeconomic policy objectives, including output gaps and the short-run and long-run Phillips curves, from AQA 7136.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the/).

@@ -13,11 +13,13 @@ order: 11
 syllabusTopics:
   - qualification: "a-level"
     topic: "international-economic-issues-a-cambridge-alevel-economics"
-description: "Original exam-style questions with full worked answers on globalisation, GNI per head and the standard of living, foreign direct investment, transfer pricing, exchange-rate calculations and the Marshall–Lerner condition, for Cambridge International AS & A Level Economics (9708)."
+description: "Cambridge 9708 A Level practice on international issues: globalisation, GNI per head, FDI, transfer pricing, exchange rates and Marshall-Lerner."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
@@ -101,3 +103,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Giving only short-run effects of investment and missing potential growth.
 - Calculating the percentage change of the wrong currency after an exchange-rate change.
 - Stating that devaluation always improves the current account, without the Marshall–Lerner condition.
+
+## Frequently asked questions
+
+**Which Cambridge 9708 paper do these questions practise?**
+Each question practises a skill tested in the June 2024 Paper 42, with an examiner insight, mark-scheme insight or tip after each answer.
+
+**How do you define globalisation without losing marks?**
+Avoid a vague definition: mention the flows of goods, services, capital or people that link the world's economies more closely.
+
+**What is a common mistake with exchange rate percentage calculations?**
+Calculating the percentage change of the wrong currency. A rise in the price of one currency is not the same percentage as the fall in the other, so work from the value of one unit of the currency asked about.
+
+**Does a devaluation always improve the current account?**
+No. Answers that say it always does lose marks; the effect depends on the Marshall-Lerner condition about the price elasticities of demand for exports and imports.

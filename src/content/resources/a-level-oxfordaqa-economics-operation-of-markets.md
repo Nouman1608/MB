@@ -13,11 +13,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics"
-description: "The economic problem and methodology, how markets work, production, costs, revenue and profit, competitive and concentrated markets, and market failure and government intervention -- the full content of Topic 1 for OxfordAQA International AS and A-Level Economics (9640)."
+description: "OxfordAQA International A-level Economics (9640) Topic 1 guide: economic problem, how markets work, costs and profit, market structures and market failure."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -364,6 +366,23 @@ information failure the tax alone cannot.
   the long run while monopoly retains supernormal profit.
 - I can identify seven types of market failure and evaluate at least
   three policy responses, including government failure.
+
+## Frequently asked questions
+
+**What is the difference between normal and supernormal profit?**
+Normal profit is the minimum return needed to keep the entrepreneur in the industry and is treated as a cost. Supernormal profit is any profit above that level.
+
+**Is money a factor of production?**
+No. Capital means machinery, tools and buildings; money is used to buy capital. Calling money a factor of production is a common mistake in OxfordAQA 9640 answers.
+
+**Why does supernormal profit last in monopoly but not perfect competition?**
+In perfect competition supernormal profit attracts new firms, which raises supply and lowers price until only normal profit remains. In monopoly, barriers to entry prevent that adjustment.
+
+**What is government failure?**
+Government failure occurs when intervention produces a worse outcome than the market, through information gaps, administrative cost, unintended consequences such as smuggling, or regulatory capture.
+
+**Do economies of scale reduce total cost?**
+No. Internal economies of scale lower average cost, the cost per unit, as output rises; total cost still increases.
 
 ## Related resources
 

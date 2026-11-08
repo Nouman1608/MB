@@ -240,6 +240,20 @@ Country R (illustrative): GDP 1,000, deficit 10. GDP rises by 40. Marginal prope
 - Ignoring the time dimension when contrasting short and long run.
 - Forgetting that estimates of potential output are uncertain.
 
+## Frequently asked questions
+
+**What is the difference between the short-run and long-run Phillips curve?**
+The short-run Phillips curve slopes downward and shows a trade-off between inflation and unemployment, holding expectations constant. The long-run curve is vertical at the long-run rate of unemployment, with expectations fully adjusted, so there is no trade-off.
+
+**What is stagflation?**
+Stagflation is rising prices together with weak output and high unemployment, usually caused by a cost-push shock.
+
+**What is the difference between cyclical unemployment and the long-run rate of unemployment?**
+Cyclical unemployment is linked to the output gap and is targeted by demand policy. The long-run rate depends on supply-side factors such as skills and incentives and is targeted by supply-side policy.
+
+**Why does the short-run Phillips curve shift up?**
+When unemployment is held below the long-run rate, inflation exceeds expectations, then expectations and wages rise, shifting the curve up.
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135 and 7136), specification for first teaching from September 2015, version 1.3, 29 June 2022, published by AQA. Combined PDF section 4.2.3.4.

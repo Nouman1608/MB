@@ -230,6 +230,23 @@ From 800 to 900 output rises 12.5% and prices 8%. In the vertical section furthe
 - Describing the Keynesian curve without saying which section applies to the question.
 - Giving no judgement in evaluation, only a list.
 
+## Frequently asked questions
+
+**How is the multiplier calculated in AQA A-level Economics?**
+The multiplier is 1/(1 - MPC), and the change in income equals the initial change in spending multiplied by the multiplier. AQA says you calculate it from the MPC and are not expected to use marginal propensities to withdraw.
+
+**Why is a local multiplier smaller than a national one?**
+More of each round of extra income is spent on goods made outside the local area, so less is passed on locally and the chain of spending is shorter.
+
+**How do you calculate unit labour cost from wages and productivity?**
+Divide the wage index by the productivity index. For example, wages up 4% and productivity up 2.5% gives 104/102.5, a rise in unit labour cost of about 1.46%.
+
+**Why is the LRAS curve vertical?**
+In the long run output is set by the quantity and quality of resources, not by the price level, so LRAS is drawn vertical at the normal capacity level of output.
+
+**What is the difference between a movement along SRAS and a shift of SRAS?**
+A change in the price level moves the economy along SRAS. A change in production costs, such as money wages, raw material prices, business taxes or productivity, shifts the curve.
+
 ## Official syllabus
 
 AQA, AS and A-level Economics specification, version 1.3 (29 June 2022), A-level content sections 4.2.2.4 to 4.2.2.6 in the combined PDF (3.2.2.4 to 3.2.2.6 on the AQA website). Published by AQA.

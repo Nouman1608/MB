@@ -14,11 +14,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-economy-in-a-global-environment-oxfordaqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-oxfordaqa-alevel-economics"
-description: "Government macroeconomic policy objectives, the indicators (including the Gini coefficient) used to measure economic performance, and how index numbers work -- 3.2.1 of OxfordAQA International AS and A-Level Economics (9640)."
+description: "OxfordAQA International A-level Economics (9640) 3.2.1: macroeconomic objectives and conflicts, indicators including the Gini coefficient, and index numbers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -179,6 +181,20 @@ objectives.
 objective it best measures.
 - Be able to explain the real-versus-nominal distinction and the role
 of a base year in index numbers.
+
+## Frequently asked questions
+
+**What are the government's macroeconomic objectives in OxfordAQA 9640?**
+The four main objectives are economic growth, price stability, minimising unemployment and a stable balance of payments on current account. The specification also names balancing the budget, an equitable distribution of income and wealth, and protecting the environment.
+
+**What does the Gini coefficient measure?**
+It summarises income or wealth inequality across a population on a scale from 0, perfect equality, to 1, perfect inequality. In 9640 it is matched to the equitable distribution objective.
+
+**What is the difference between real and nominal data?**
+Nominal data is measured in the prices of the period it was recorded. Real data has been adjusted to remove the effect of inflation, so genuine changes can be compared over time.
+
+**How are index numbers used in economics?**
+Index numbers measure changes in the price level and other variables relative to a base year set at 100, and they are built from weighted components so larger items have more influence.
 
 ## Related resources
 

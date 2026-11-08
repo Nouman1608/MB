@@ -126,6 +126,20 @@ These questions cover sub-sections 4.2.4.2 and 4.2.4.4 of the AQA A-level Econom
 - Writing a one-sided answer to an assess or evaluate question.
 - Stopping at bank failure without a chain to the real economy.
 
+## Frequently asked questions
+
+**Do I need to calculate the credit multiplier for AQA A-level Economics?**
+No. Treating a credit multiplier calculation as required is listed as a common error; you need to explain how banks create credit and what limits it.
+
+**Which side of a bank balance sheet do deposits go on?**
+Deposits are liabilities, because the bank owes them to customers. Putting them on the asset side is a frequent mistake.
+
+**How do I get marks for PRA, FPC and FCA questions?**
+Give each body a distinct role: the PRA looks at whether each firm is safe, the FPC at the whole financial system, and the FCA at conduct.
+
+**What should an answer on bank failure go on to explain?**
+Follow the chain to the real economy, such as reduced lending, lower investment and spending, falling aggregate demand and rising unemployment.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and/).

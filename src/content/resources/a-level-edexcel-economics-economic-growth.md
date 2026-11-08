@@ -14,11 +14,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomic-performance-and-policy-edexcel-alevel-economics"
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
-description: "Real GDP and GNI, adjusting for real/nominal, total/per capita and value/volume, Purchasing Power Parities, recession, and national happiness and wellbeing -- the Economic Growth strand of Unit 2 (WEC12/01) in Pearson Edexcel International A-Level Economics."
+description: "Edexcel International A Level Economics Unit 2 (WEC12/01) guide to measuring growth: real GDP and GNI, PPPs, recession, and happiness and wellbeing."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-02
 updatedDate: 2026-11-05
 featured: false
@@ -172,6 +174,23 @@ comparison.
 of negative growth.
 - Prepare at least two named limitations of GDP/GNI as a measure of
 living standards or wellbeing.
+
+## Frequently asked questions
+
+**How is a recession defined in Edexcel International A Level Economics?**
+The specification defines a recession as two consecutive quarters of negative economic growth. A single quarter of negative growth is not enough.
+
+**What is the difference between GDP and GNI?**
+GDP is the total value of goods and services produced within a country's borders in a period. GNI is the total income earned by a country's residents and businesses, whether generated at home or abroad.
+
+**Why are Purchasing Power Parities used in international comparisons?**
+PPPs adjust for differences in the cost of living between countries, so a comparison of real GDP or GNI reflects what income can actually buy locally.
+
+**What are the limitations of GDP as a measure of living standards?**
+GDP says nothing about income distribution, non-market activity such as unpaid domestic work, environmental costs or subjective wellbeing, which is why happiness and wellbeing indicators are studied alongside it.
+
+**Which Edexcel unit covers measuring economic growth?**
+It is the economic growth strand of 2.3.1 Measures of economic performance in Unit 2 (WEC12/01) Macroeconomic performance and policy, part of both the XEC11 and YEC11 awards.
 
 ## Related resources
 

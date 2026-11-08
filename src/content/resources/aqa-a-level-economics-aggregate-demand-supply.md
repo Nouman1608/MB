@@ -16,11 +16,13 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
     subtopic: "how-the-macroeconomy-works-aqa-aslevel-economics"
-description: "The circular flow of income, AD/AS analysis, the determinants of aggregate demand (including the accelerator and saving), the multiplier and MPC, and short-run and long-run aggregate supply (including the Keynesian AS curve) -- Section 3.2.2 How the macroeconomy works, in Topic 2 of AQA A-Level Economics (7136)."
+description: "AQA A-level Economics (7136) 3.2.2 guide: circular flow of income, AD/AS analysis, determinants of AD, the multiplier, and short- and long-run supply."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-09
 featured: false
 ---
@@ -284,3 +286,20 @@ Calculating the multiplier as 1 / MPC instead of 1 / (1 - MPC).
 - Use an AD-AS diagram to trace the short-run and long-run effects of a stated economic event.
 - Link a change in AD or AS back to Section 3.2.1's measures of macroeconomic performance (inflation,
   output, employment).
+
+## Frequently asked questions
+
+**What are injections and withdrawals in the circular flow?**
+Withdrawals are saving, taxation and spending on imports, which leave the flow. Injections are investment, government spending and exports, which enter it; national income is in equilibrium when planned injections equal planned withdrawals.
+
+**What is the accelerator?**
+The accelerator is the idea that investment depends on the rate of change of demand for output, not only its level. AQA 7136 does not require accelerator calculations.
+
+**What is the difference between saving and investment?**
+Saving is the part of disposable income not spent, a withdrawal made mainly by households. Investment is spending on capital goods, an injection made mainly by firms.
+
+**How is the Keynesian AS curve different from a vertical LRAS?**
+The Keynesian AS curve is flat at low output with spare capacity, slopes upward as bottlenecks appear and becomes vertical at full capacity. On a vertical LRAS a rise in AD affects only the price level in the long run.
+
+**What marks out stronger AD/AS answers in AQA Paper 2?**
+AQA's Paper 2 examiner reports say separating short-run from long-run effects marks out better answers; weaker answers describe only the short-run effect and never ask whether LRAS has changed.
