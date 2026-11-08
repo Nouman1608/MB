@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Original practice with worked answers on discourse, register, lexis, grammar and pragmatics for Cambridge AS & A Level English Language 9093 Paper 1."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -96,3 +98,17 @@ Related: [Reading and Analysis revision notes](/resources/a-english-language-rea
 - Confusing semantics with pragmatics.
 - Describing formality through vocabulary alone, ignoring grammar.
 - Treating connotation as personal opinion rather than shared association.
+
+## Frequently asked questions
+
+**How do I get analysis marks rather than just naming techniques?**
+Naming a technique earns little on its own. Quote the language, explain what it suggests, and link the effect on meaning to the text's audience and purpose.
+
+**How do you analyse connotation without giving a personal opinion?**
+Treat connotation as the shared associations a word carries for readers, not your own feelings about it, and explain how the writer's choice shapes the reader's response in that specific text.
+
+**How should I write about formality in a text?**
+Look at grammar as well as vocabulary. Describing formality through word choice alone, while ignoring grammatical features, is a common way to lose marks.
+
+**What does this Cambridge 9093 Paper 1 practice cover?**
+It gives original questions with worked answers on discourse, register, lexis, grammar and pragmatics for Cambridge International AS & A Level English Language (9093) Paper 1.

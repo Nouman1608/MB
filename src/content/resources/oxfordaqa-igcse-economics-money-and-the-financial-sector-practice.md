@@ -141,8 +141,8 @@ These questions cover sections 3.2.5.1 (the role of money) and 3.2.5.2 (the role
 
 ## Frequently asked questions
 
-**What are the four functions of money?**
-Money acts as a medium of exchange, a unit of account, a store of value and a means of deferred payment. In exam questions, match the function to what the money is doing in the scenario.
+**How do you answer a question on the functions of money?**
+Money acts as a medium of exchange, a unit of account, a store of value and a means of deferred payment. In a scenario, match the function to what the money is doing in the sentence and apply it, rather than just naming a function.
 
 **How do you calculate the real value of savings after inflation?**
 Divide the money value by one plus the inflation rate, for example dividing by 1.06 for 6% inflation. Subtracting 6% of the balance gives a slightly wrong answer.

@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Condensed notes on AQA GCSE English Language 8700 Paper 1: the four reading questions, the 40-mark creative writing task, the AOs and the common exam traps."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -119,6 +121,20 @@ single extract with nothing to compare it against.
 6. Which assessment objective is tested on Paper 2 but not Paper 1, and why?
 
 **Answers:** 1. Reading (an unseen fiction extract) and creative writing (an original piece linked in theme to the extract). 2. Because analysis marks are for the *effect* the technique creates, not simply for spotting that a technique is present — naming it is only the starting point. 3. The task asks for an original piece inspired by the theme, not a literal continuation of the source text, so writing a continuation can miss what the task is actually asking for. 4. Technical accuracy — spelling, punctuation and grammar — alongside a varied, purposeful use of vocabulary and sentence structures. 5. 20 of Section A's 40 marks — as much as Questions 1–3 combined, so it deserves proportionate revision and exam-time attention. 6. AO3 (comparing writers' ideas and perspectives across texts) — Paper 1's Section A uses only one reading source, so there is nothing to compare it against.
+
+## Frequently asked questions
+
+**How many marks is AQA GCSE English Language Paper 1 worth?**
+Paper 1 of AQA GCSE English Language (8700) is worth 80 marks and lasts 1 hour 45 minutes, making up 50% of the GCSE. Section A Reading and Section B Writing are each worth 40 marks.
+
+**How are the marks split across the Paper 1 reading questions?**
+Question 1 is worth 4 marks, Question 2 (language) 8 marks, Question 3 (structure) 8 marks and Question 4 (evaluation) 20 marks. Question 4 is worth as much as Questions 1 to 3 combined, so give it time to match.
+
+**How is the Paper 1 creative writing marked?**
+The 40 marks are split into 24 for content and organisation and 16 for technical accuracy (AO6), which covers vocabulary, sentence structures and accuracy. Leave time to check punctuation and spelling.
+
+**Which assessment objectives does Paper 1 test?**
+Section A tests AO1, AO2 and AO4, and Section B tests AO5 and AO6. Paper 1 does not assess AO3, comparing writers across texts, which belongs to Paper 2.
 
 For Paper 1's full official structure, marks and assessment
 objectives, see the [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/);

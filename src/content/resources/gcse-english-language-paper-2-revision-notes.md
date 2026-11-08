@@ -24,7 +24,9 @@ syllabusTopics:
 description: "Condensed recall notes on comparing two non-fiction texts and writing to a specified viewpoint for AQA GCSE English Language (8700) Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -139,3 +141,17 @@ comparison as an afterthought; a strong answer works through specific comparable
 texts throughout the answer. 4. Persuasive, viewpoint-driven writing — rhetorical questions, direct
 address, structured argument and deliberate tone, distinct from Paper 1's narrative/descriptive
 skills. 5. No — it is reported separately and carries 0% weighting toward the overall grade.
+
+## Frequently asked questions
+
+**Does the Spoken Language endorsement count towards the AQA GCSE English Language grade?**
+No. The Spoken Language endorsement is reported separately and carries 0% weighting towards the overall AQA GCSE English Language (8700) grade.
+
+**Why does AQA GCSE English Language Paper 2 use a 19th-century source?**
+Pairing a 19th-century text with a modern one forces comparison across real historical distance, because tone, assumed audience and rhetorical conventions differ more clearly than between two contemporary writers.
+
+**What kind of writing does Paper 2 Section B need?**
+Section B needs a clearly presented, persuasive viewpoint on the Section A theme, using techniques such as rhetorical questions, direct address, structured argument and deliberate tone, rather than narrative or descriptive writing.
+
+**What is the difference between a weak and a strong comparison answer?**
+A weak answer describes each text separately and adds comparison as an afterthought. A strong answer works through specific comparable points, such as attitude to the same event, discussing both texts together throughout.

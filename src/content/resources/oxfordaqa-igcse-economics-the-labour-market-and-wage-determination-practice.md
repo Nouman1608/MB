@@ -141,14 +141,14 @@ Links: [study guide](/resources/oxfordaqa-igcse-economics-the-labour-market-and-
 
 ## Frequently asked questions
 
-**What is the labour market?**
-The labour market is where labour is bought and sold: firms demand workers and households supply them, and the market sets the wage and the level of employment.
-
-**What happens when a minimum wage is set above equilibrium?**
-At a wage above equilibrium, more people want to work than firms want to hire, so there is a surplus of labour. Workers who keep their jobs gain higher pay, but some lose out because fewer are employed.
-
 **What is the difference between a shortage and a surplus of labour?**
 A shortage exists when the wage is below equilibrium, so firms have more vacancies than there are willing workers. A surplus exists when the wage is above equilibrium, so more people want work than there are jobs.
+
+**How do you describe a labour market diagram in words?**
+Name the axes (the wage and the number of workers), the curve that shifts, its direction, and the new equilibrium wage and employment. Leaving out the axes or the shifting curve is a common way to lose marks.
+
+**How should I explain wage differences within one occupation?**
+Refer to the individual worker or employer, such as experience, qualifications or the firm's profitability, rather than to the occupation as a whole. Answers that talk about "the occupation" miss the point of a within-occupation question.
 
 **Which section of the OxfordAQA 9214 specification covers the labour market?**
 Section 3.1.5.4, The labour market, of the OxfordAQA International GCSE Economics (9214) specification, covering wage determination and wage differentials.

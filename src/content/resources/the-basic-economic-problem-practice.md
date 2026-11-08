@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on scarcity, choice, economic systems and the allocation of resources."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -88,3 +90,17 @@ Related: [The Basic Economic Problem revision notes](/resources/igcse-economics-
 - Describing economic systems without addressing both "what" and "how".
 - Confusing a movement towards the PPC with a shift of it.
 - Naming a sector without giving a specific example, or giving an example that actually belongs to a different sector (e.g. describing a bakery baking bread as "primary" rather than secondary).
+
+## Frequently asked questions
+
+**How do you answer an opportunity cost question for full marks?**
+Identify the single next-best alternative given up as a result of the choice and name it in the context of the question. Giving the money spent as the opportunity cost, rather than the alternative forgone, is a common way to lose marks.
+
+**What is a common mistake with free goods?**
+Saying that a free good is one the government provides free of charge. In economics a free good has a specific meaning based on scarcity, not on who pays for it.
+
+**How do I answer questions on how economic systems allocate resources?**
+Address both parts of the question, "what to produce" and "how to produce it", for each economic system named. Describing a system without covering both is a common way to lose marks.
+
+**What mistakes do students make with examples of economic sectors?**
+Naming a sector without a specific example, or giving an example that belongs to a different sector, such as calling a bakery baking bread primary rather than secondary.

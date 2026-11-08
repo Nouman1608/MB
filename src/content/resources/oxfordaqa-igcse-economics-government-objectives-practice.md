@@ -130,14 +130,14 @@ in the higher band that a one-sided description cannot reach.
 
 ## Frequently asked questions
 
-**What are the main economic objectives of a government?**
-The four principal objectives are full employment, price stability, economic growth and a balance of payments equilibrium. Questions often test how a policy aimed at one objective can work against another.
+**What is a common mistake when writing about government objectives?**
+Listing the objectives without naming or explaining a genuine conflict between them. Questions on this topic usually test whether you can show how a policy aimed at one objective affects another.
 
-**What is the difference between economic growth and economic development?**
-Economic growth is a rise in a country's output, measured by GDP, real GDP or GDP per capita. Economic development is a broader improvement in living standards, such as health, education and infrastructure, and does not always follow automatically from growth.
+**How do you answer an "explain" question about a government policy?**
+Follow the causal chain all the way through: the policy, its intended effect on one objective, then its side effect on a second objective. Stopping at the first, intended effect leaves the explanation incomplete.
 
-**How do you tell frictional unemployment from structural unemployment?**
-Frictional unemployment is the short time a worker spends between jobs. Structural unemployment comes from a long-term decline in an industry, such as a mine closing permanently, so a scenario mentioning permanent closure or long-term decline signals structural unemployment.
+**What is the difference between the balance of trade and the balance of payments?**
+The balance of trade covers goods and services only, while the wider balance of payments also includes investment and financial flows. Confusing the two is a common error.
 
 **How do you identify cost-push or demand-pull inflation in a scenario?**
 Look at which side of the market changes first. Rising production costs passed on to consumers indicate cost-push inflation, while demand outstripping what producers can supply indicates demand-pull inflation.

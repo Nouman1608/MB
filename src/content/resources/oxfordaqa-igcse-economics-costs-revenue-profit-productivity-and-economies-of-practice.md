@@ -152,13 +152,13 @@ These questions cover section 3.1.4 (Production, costs, revenue and profit) of T
 Multiply each average by output to get total revenue and total cost, then subtract total cost from total revenue. Reporting only the difference between average revenue and average cost gives profit per unit, which answers a different question.
 
 **How do you tell economies of scale from a table of total costs?**
-Divide total cost by output to find average cost at each level. Economies of scale occur where average cost falls as output rises, and diseconomies of scale begin where average cost starts to rise; total cost on its own rises at every step, so it cannot show this.
-
-**What is the difference between production and productivity in OxfordAQA International GCSE Economics?**
-Production is the total amount a firm makes, while productivity is output per worker or per hour worked. Production can rise while productivity falls if the firm hires workers faster than output grows.
+Divide total cost by output to find average cost at each level, then judge economies and diseconomies of scale from the movement of average cost. Total cost on its own rises at every step, so it cannot show this.
 
 **How do you get full marks when explaining an economy of scale?**
-Name the type of economy of scale, such as purchasing or technical, and then explain why it lowers average cost in the context given. Naming the type alone, or giving two examples of the same type, earns less credit.
+Name the type of economy of scale and then explain why it lowers average cost in the context given. Naming the type alone, or giving two examples of the same type, earns less credit.
+
+**What are common mistakes in costs and revenue questions?**
+Common slips include reporting average cost when total cost was asked (or the reverse), forgetting to multiply by output when finding total revenue or profit, dividing by the firm's own sales instead of the market total for market share, and giving benefits of growth with no cost and no judgement.
 
 **What topic do these OxfordAQA 9214 practice questions cover?**
 They cover section 3.1.4 (Production, costs, revenue and profit) of Topic 1, How markets work, in OxfordAQA International GCSE Economics (9214): business objectives, costs, revenue, profit, productivity and economies of scale.

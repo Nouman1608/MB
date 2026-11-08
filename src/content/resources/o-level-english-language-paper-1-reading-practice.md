@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Original practice on Cambridge O Level English Language 1123 Paper 1: the format, the five reading objectives and how each question is marked."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -87,6 +89,20 @@ Related: [Paper 1 – Reading study guide](/resources/o-level-english-language-p
 **7.** Spending equal time on both sections is a reasonable starting split, since Section A and Section B are each worth 25 marks, but running out of time to check answers suggests too little buffer was built into the plan, particularly given that Question 3a's 150-word limit requires extra planning time to select and order points before writing. A specific adjustment would be to plan for slightly less than the full 55 minutes on each section (for example, 50–52 minutes), deliberately reserving a short buffer at the end of the paper specifically to check that Question 1 and 3b answers are grounded in specific textual detail rather than general impressions, since these are exactly the kind of answers most likely to be improved by a final check. **[6]** (Marks for identifying the timing issue specifically and proposing a concrete, workable adjustment rather than a vague "manage time better" response.)
 
 **8.** The summary task sits on the Reading paper because its core skill is a Reading skill: correctly identifying which points in Text B are relevant to the specific summary instruction (tested via R1 and R5). However, because a summary must be produced as continuous writing in the candidate's own words rather than simply copied or listed, the task also inherently requires organising the selected material into connected, well-expressed prose — which is why W2 (organise and structure ideas for deliberate effect) and W3 (range of vocabulary and sentence structures) are also credited. Examining both skill sets through a single task reflects that, in practice, correctly selecting relevant material and expressing it well are not fully separable skills, even though they are marked as separate objectives within the same answer. **[5]**
+
+## Frequently asked questions
+
+**Are these Cambridge O Level English Language 1123 practice questions from real past papers?**
+No. They are original exam-technique questions written for Marlbridge, testing understanding of Paper 1's format and mark scheme rather than reproducing full comprehension or summary responses to a source text.
+
+**How should I use these questions alongside past papers?**
+Use them together with official past papers and specimen mark schemes, freely available from Cambridge International, for full-length reading practice.
+
+**What should I revise before trying these Paper 1 questions?**
+The page links to the Paper 1 Reading study guide and the Paper 1 Reading revision notes, which explain the paper's format, the reading objectives and how each question is marked.
+
+**Which 1123 syllabus do these questions follow?**
+They follow the Cambridge O Level English Language (1123) syllabus for examination in 2024, 2025 and 2026.
 
 ## Official syllabus
 

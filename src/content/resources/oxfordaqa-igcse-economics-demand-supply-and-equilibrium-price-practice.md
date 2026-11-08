@@ -160,17 +160,17 @@ Revise first with the [study guide](/resources/oxfordaqa-igcse-economics-demand-
 
 ## Frequently asked questions
 
-**What is the difference between a movement along and a shift of a demand curve?**
-A change in the good's own price causes a movement along the demand curve, called an extension or contraction. A change in any other factor, such as income or tastes, shifts the whole curve to the right or left.
-
 **How do you explain the effect of a change on equilibrium price?**
 Name the curve that shifts and why, give the direction, state the excess demand or excess supply at the original price, then explain how price and quantity move to the new equilibrium. Skipping the step at the original price is a common way to lose marks.
 
 **How do you calculate revenue when the price is not at equilibrium?**
-Revenue is price multiplied by the quantity actually traded. Away from equilibrium that is the smaller of quantity demanded and quantity supplied, so above the equilibrium price you use quantity demanded.
+Revenue is price multiplied by the quantity actually traded. Away from equilibrium that is the smaller of quantity demanded and quantity supplied, so check which one applies before multiplying.
 
-**Why is the supply curve vertical when capacity is fixed?**
-When the quantity available, such as the number of seats at an event, cannot change whatever the price, the supply curve is vertical. A rise in demand then changes only the price, not the quantity sold.
+**How do you earn evaluation marks on a supply and demand question?**
+Tie each limit of the model to the market and country named in the question rather than listing general limits, and reach a judgement. Generic evaluation that could apply to any market earns less credit.
+
+**What are common mistakes on demand and supply questions?**
+Frequent slips include calling a move caused by the good's own price a shift, naming a shift without saying which curve moved or in which direction, giving an equilibrium price without the quantity, and leaving out units such as cu or kg.
 
 **Which sections of OxfordAQA 9214 do these demand and supply questions cover?**
 They cover sections 3.1.3.1 to 3.1.3.3 of the OxfordAQA International GCSE Economics (9214) specification: demand, supply and equilibrium price, including revenue on a supply and demand diagram.

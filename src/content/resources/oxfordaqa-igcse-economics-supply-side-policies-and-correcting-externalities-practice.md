@@ -129,14 +129,14 @@ These questions cover sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polic
 
 ## Frequently asked questions
 
-**What is a supply-side policy?**
-A supply-side policy aims to raise the economy's productive capacity, its potential output, rather than changing total spending. Examples include education and training, lower direct taxes, lower taxes on business profits, privatisation and deregulation.
-
 **How much do sellers receive after an indirect tax?**
 Sellers receive the new market price minus the tax per unit. Saying that sellers receive the full price buyers pay after the tax is a common slip.
 
 **Does a subsidy shift the demand curve or the supply curve?**
 A subsidy shifts the supply curve to the right, because it lowers producers' costs. Showing a subsidy, or a tax, as a shift in demand is a frequent error.
+
+**How do you answer an evaluate question on supply-side policy?**
+Tie the choice of policy to the problem described in the question, weigh a drawback such as cost or the time lag of training, and end with a judgement. Giving only one side of the argument limits the marks.
 
 **What do these OxfordAQA 9214 practice questions cover?**
 They cover sections 3.2.3.3 (supply-side policies) and 3.2.3.4 (policies to correct positive and negative externalities) of the OxfordAQA International GCSE Economics (9214) specification.

@@ -153,6 +153,20 @@ These questions cover sections 3.2.4.1 and 3.2.4.2 of the OxfordAQA Internationa
 - Find gaps with the [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Does a currency depreciation make imports cheaper?**
+No. When a country's currency depreciates, each unit buys less foreign currency, so imports become more expensive in the home currency. Saying depreciation makes imports cheaper is a common error.
+
+**How do you convert a foreign price into the home currency?**
+Check which currency the exchange rate is quoted in before dividing or multiplying. Converting in the wrong direction is one of the most frequent slips in exchange rate calculations.
+
+**How do you answer an evaluation question on free trade?**
+Weigh the arguments on both sides and reach a conclusion that responds to the exact wording of the statement, such as the word "always". Repeating points without a judgement limits the marks.
+
+**Which sections of OxfordAQA 9214 cover trade and exchange rates?**
+Sections 3.2.4.1 (why countries trade and free trade) and 3.2.4.2 (exchange rates) of the OxfordAQA International GCSE Economics (9214) specification.
+
 ## Official syllabus
 
 These questions follow the OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025 onwards, published by OxfordAQA.

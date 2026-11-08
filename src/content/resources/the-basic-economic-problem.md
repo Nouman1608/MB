@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-basic-economic-problem"
     subtopic: "production-possibility-curve-ppc-diagrams"
-description: "Finite resources and unlimited wants, economic and free goods, the factors of production, opportunity cost, and production possibility curve (PPC) diagrams, for Cambridge O Level Economics 2281."
+description: "Scarcity, economic and free goods, the factors of production and their rewards, opportunity cost and PPC diagrams for Cambridge O Level Economics 2281."
 author: "salman-ahmad"
 reviewer: "asif-iqbal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -296,6 +298,23 @@ workers, producers and governments
 - Production possibility curve diagrams: points under, on and beyond the
 curve, movements along the curve, and shifts of the curve caused by
 economic growth or decline
+
+## Frequently asked questions
+
+**What is the basic economic problem?**
+The basic economic problem is that resources are finite while human wants are effectively unlimited, so there is always more that people would like than can be produced. Every economic decision in Cambridge O Level Economics 2281 is a response to that mismatch.
+
+**What are the rewards to the four factors of production?**
+Land earns rent, labour earns wages, capital earns interest and enterprise earns profit. Pairing capital with profit or enterprise with interest is a common exam error.
+
+**What is the difference between occupational and geographical mobility?**
+Occupational mobility is how easily labour can switch between different jobs, limited by skills and training. Geographical mobility is how easily a factor can move location, limited by cost and family ties; land is geographically immobile because it cannot move at all.
+
+**What does a point inside a production possibility curve show?**
+A point inside the PPC shows that resources are unemployed or used inefficiently, so output of both goods could be increased without any opportunity cost. A point on the curve shows full and efficient use, and a point beyond it is unattainable with current resources and technology.
+
+**What causes a production possibility curve to shift inward?**
+An inward shift represents a fall in productive capacity, for example because of a natural disaster or a fall in the size of the workforce. An outward shift represents economic growth.
 
 ## Related resources
 

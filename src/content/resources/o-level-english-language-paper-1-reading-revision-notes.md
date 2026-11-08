@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Condensed notes on Cambridge O Level English Language 1123 Paper 1 Reading: structure, the reading objectives R1 to R5 and how each question is marked."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -90,3 +92,17 @@ Unlike Paper 2, where source material sits directly on the question paper, Paper
 6. What is the difference between an explicit-meaning and an implicit-meaning sub-question in Question 1?
 
 **Answers:** 1. 80% Reading, 20% Writing — the mirror image of Paper 2, which is 80% Writing, 20% Reading. 2. R4; the answer must address the *effect* the writer's language choice has on the reader, not just what the word or phrase means. 3. R1 and R5 (Reading); W2 and W3 (Writing). 4. Because Reading marks (R1, R5) and Writing marks (W2, W3) are awarded independently — disorganised or repetitive prose costs Writing marks even where every relevant point is present. 5. No more than 150 words; points made after the limit is reached are not credited. 6. An explicit-meaning question is answerable by locating and restating information stated directly in the text; an implicit-meaning question requires inferring what is not spelled out, supported by specific textual detail.
+
+## Frequently asked questions
+
+**What is the word limit for the Cambridge O Level English Language 1123 summary?**
+The Question 3a summary must be no more than 150 words. Points made after the limit is reached are not credited.
+
+**How are the marks split in the 1123 summary question?**
+Question 3a is worth 20 marks: 10 for Reading and 10 for Writing, scored independently. Missing a relevant point costs Reading marks even in fluent prose, while disorganised or repetitive prose costs Writing marks even when every point is present.
+
+**What is the Use of Language question marked on?**
+Question 2, Use of Language, is marked against R4 only, on the effect of the writer's language on the reader. A correct paraphrase of a word or phrase with no discussion of its effect does not earn full marks.
+
+**Can I use a dictionary in 1123 Paper 1?**
+No. Dictionaries are not permitted.

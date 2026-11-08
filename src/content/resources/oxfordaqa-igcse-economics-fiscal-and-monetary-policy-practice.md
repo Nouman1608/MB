@@ -142,14 +142,14 @@ Evaluate which policy the government should choose. **[8]**
 **What is the difference between a budget deficit and the national debt?**
 A budget deficit is the gap when government spending is greater than revenue in one year. The national debt is the running total the government owes, which grows when deficits are financed by borrowing.
 
-**How do you calculate the total effect of extra government spending?**
-Divide the first injection of spending by one minus the share of each extra unit of income that is spent again. The larger the share leaking into saving, tax or imports, the smaller the total increase in income.
+**How do you set out a budget balance calculation?**
+Show the total revenue and total spending before subtracting, and state whether the result is a deficit or a surplus. A bare negative number without the word deficit leaves the answer incomplete.
 
-**How do you explain how an interest rate rise reduces inflation?**
-Give the full chain: a higher rate makes borrowing dearer and saving more rewarding, so households and firms spend and invest less, total demand falls and demand-pull pressure on prices eases. Stopping at "spending falls" without reaching inflation loses marks.
+**What are common mistakes in fiscal and monetary policy questions?**
+Common slips include confusing the deficit with the national debt, describing what a policy does without explaining why it changes demand, stopping a chain at "spending falls" before reaching inflation, treating a surplus as always good or a deficit as always bad, and reversing the direction of an interest rate effect.
 
 **How do you evaluate a choice between fiscal and monetary policy in OxfordAQA 9214?**
-Use the data in the question, such as spare capacity, inflation relative to target and the size of any knock-on effect, to weigh each policy, then reach a judgement about which suits the situation. Arguments for and against with no conclusion, or a generic answer that ignores the data, usually score less.
+Use the data in the question, such as spare capacity and inflation relative to target, to weigh each policy, then reach a judgement about which suits the situation. Arguments for and against with no conclusion, or a generic answer that ignores the data, usually score less.
 
 ## Official syllabus
 

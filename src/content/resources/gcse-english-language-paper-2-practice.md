@@ -27,7 +27,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked-approach guidance on Paper 2 reading and writing skills for AQA GCSE English Language (8700)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -167,6 +169,20 @@ actually appears in the exam.
   calls for a clear, sustained viewpoint in a specified form.
 - Hedging between both sides of an issue in Section B instead of
   committing to and developing a single, persuasive position.
+
+## Frequently asked questions
+
+**How should I plan the comparison question on AQA GCSE English Language Paper 2?**
+Read both sources once, then draw a two-column table and note each writer's attitude to the topic, tone, one striking method and intended audience. Five minutes building this table usually produces a more genuinely comparative answer.
+
+**How long should I spend on each section of Paper 2?**
+Paper 2 of AQA GCSE English Language (8700) lasts 1 hour 45 minutes for 80 marks, split evenly between Section A and Section B. A rough guide is about 5 minutes reading the sources, about 50 minutes on Section A and about 50 minutes on Section B, with time on each reading question scaled to its marks.
+
+**What are common mistakes in Paper 2 Section B?**
+Writing a narrative or descriptive piece when the task calls for a sustained viewpoint in a specified form, and hedging between both sides instead of committing to and developing one persuasive position.
+
+**How should I write about language in a 19th-century source?**
+Treat period vocabulary and sentence structure as deliberate, analysable features rather than calling them "old fashioned". Ignoring the historical gap between the sources is a common way to lose marks.
 
 ## Official syllabus
 
