@@ -208,6 +208,23 @@ Total = **0.371** (3 s.f.) [1]
 - Writing model critiques that name no assumption and give no direction of effect.
 - Rounding to 3 s.f. part-way through and carrying the rounded value forward.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 Section M cover?**
+Section M covers mutually exclusive and independent events, conditional probability with tree diagrams, Venn diagrams and two-way tables, and modelling with probability, content references M1 to M3. It is listed under Paper 3.
+
+**How do you find a conditional probability from a two-way table?**
+Use the row or column of the given condition: the numerator is the cell that also satisfies the event, and the denominator is that row or column total, not the grand total.
+
+**How do you show two events are independent?**
+Calculate P(A) × P(B) and compare it with P(A ∩ B), showing both numbers. If they are equal the events are independent; if not, they are not. A bare conclusion earns nothing.
+
+**How do you critique an independence assumption in a probability model?**
+Name the assumption, give a reason from the context why it may fail, such as faults or results coming in runs, and state the likely direction of the effect on the answer.
+
+**How do you find "at least one" probabilities quickly?**
+Use 1 − P(none). For example, if each of three jars is rejected with probability p independently, P(at least one rejected) = 1 − (1 − p)³.
+
 ## Next steps
 
 - Recap with the [Probability revision notes](/resources/aqa-a-level-mathematics-probability-revision-notes/).

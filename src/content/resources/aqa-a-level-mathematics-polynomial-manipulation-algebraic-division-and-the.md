@@ -270,6 +270,23 @@ Dividing x³ + x² − 5x + 8 by (x + 3) gives quotient x² − 2x + 1 and remai
 - Stopping after finding one factor when the question says "factorise completely" or "solve".
 - Writing a remainder that still contains x. Dividing by a linear expression leaves a constant.
 
+## Frequently asked questions
+
+**What kind of divisor does AQA 7357 use for algebraic division?**
+The specification restricts algebraic division to linear expressions. The factor theorem can still be used twice to remove a quadratic factor in two steps.
+
+**Why does the factor theorem work?**
+Writing f(x) = (x − a)q(x) + r and putting x = a gives f(a) = r. So the remainder is zero, and (x − a) is a factor, exactly when f(a) = 0.
+
+**What is the matching coefficients method for division?**
+Write the polynomial as (divisor)(ax² + bx + c) + r, then compare coefficients of each power of x to find a, b, c and r. It is slower on paper but easy to check.
+
+**What does "factorise completely" mean?**
+Every factor must be as simple as it can be using real numbers. For example, x⁴ − 81 = (x − 3)(x + 3)(x² + 9), stopping because x² + 9 has no real factors.
+
+**How do you write a top-heavy rational expression as a polynomial plus a fraction?**
+Divide the numerator by the denominator, then write the quotient plus the remainder over the divisor, for example x² − 2x + 1 + 5/(x + 3).
+
 ## Next steps
 
 Try the [practice questions](/resources/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the-practice/), then use the [revision notes](/resources/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the-revision-notes/) to keep the methods fresh. If a method feels shaky, take a [free 10-minute diagnostic](/diagnostics/) to find the gap, and tick off progress on the [checklist](/checklists/aqa/a-level/mathematics/).

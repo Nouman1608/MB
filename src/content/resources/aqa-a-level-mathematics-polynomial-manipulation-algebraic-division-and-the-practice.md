@@ -162,6 +162,23 @@ f(x) = **(x + 3)(x − 2)(x − 1)(x + 1)** [1]
 - Leaving out excluded values when asked for them.
 - Presenting a remainder that still contains x after dividing by a linear expression.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 content statement B6 cover?**
+B6 covers expanding and collecting like terms, factorising polynomials, algebraic division by linear expressions, the factor theorem and remainders, and simplifying rational expressions.
+
+**How do you find unknown coefficients using the factor theorem?**
+Substitute the root of each given divisor into the polynomial, set the result to 0 for a factor or to the stated remainder, then solve the simultaneous equations. Check by testing both conditions in the original.
+
+**What value do you substitute for a factor such as (2x + 1)?**
+Substitute the value that makes the factor zero, here x = −1/2. Using x = −1 is the step most often done wrongly.
+
+**When do you stop factorising a polynomial?**
+Stop when each factor can no longer be split using real numbers. A quadratic factor with a negative discriminant has no real factors, so give that as the reason.
+
+**Which values must be excluded when simplifying a rational expression?**
+Take the excluded values from the original denominator, not the simplified one, because the original expression is undefined there even if a factor has cancelled.
+
 ## Next steps
 
 - Review the methods in the [revision notes](/resources/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the-revision-notes/).

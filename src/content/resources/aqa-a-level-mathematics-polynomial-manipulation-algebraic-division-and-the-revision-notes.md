@@ -247,6 +247,23 @@ Writing the tool you are using in a few words, such as "by the factor theorem", 
 - Giving a quadratic factor that can still be split, or splitting one that cannot (such as x² + 9).
 - Not showing the substitution when the question says "show that".
 
+## Frequently asked questions
+
+**What is the remainder theorem?**
+When a polynomial f(x) is divided by (x − a), the remainder is f(a). For a divisor (px + q), the remainder is f(−q/p).
+
+**How do you find a root of a cubic to start factorising?**
+For integer coefficients, test candidate roots whose numerator divides the constant term and whose denominator divides the leading coefficient, starting with the small ones, until f equals 0.
+
+**What is the difference between a quotient and a remainder?**
+The quotient is the polynomial you get from dividing, one degree lower than f for a linear divisor. The remainder after dividing by a linear expression is a constant.
+
+**How can you check an expansion quickly?**
+Substitute a simple value such as x = 1 into both the original brackets and your expanded answer. If the values agree, a slip is unlikely.
+
+**What is the difference between a root and a factor?**
+A root is a value a where f(a) = 0; it gives the factor (x − a). A root of −1/2, for example, gives the factor (2x + 1).
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, for teaching from September 2017, version 1.3 dated 31 January 2018, published by AQA. These notes cover content statement B6.
