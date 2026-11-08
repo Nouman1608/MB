@@ -13,10 +13,12 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "data-processing-and-information"
-description: "Original exam-style practice questions with full worked answers on data and information, quality of information, validation, verification, encryption and processing methods for Cambridge AS & A Level Information Technology 9626, topic 1."
+description: "Original practice questions with worked answers on data, information quality, validation, verification, encryption and processing for Cambridge 9626 topic 1."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -107,3 +109,17 @@ Advantages, any three [1] each, maximum [3]: **reduced data redundancy** — eac
 - Giving a validation check without a suitable field.
 - Saying a primary key "identifies the table" rather than each record.
 - Confusing batch processing with online or real-time processing, or picking an example scenario unsuited to the method described.
+
+## Frequently asked questions
+
+**Is data processing an AS or A Level topic in Cambridge 9626?**
+Data processing and information is topic 1 of Cambridge International AS & A Level Information Technology (9626) and is AS Level content. Databases, by contrast, sit in topic 10, Database and file concepts, in the 2025 to 2027 syllabus.
+
+**Why do validation questions ask for a suitable field?**
+Each validation check needs to be matched to data it actually suits, for example a range check for an age or a check digit for a barcode. Giving a check without a suitable field is a common way to lose marks.
+
+**What is the most common mistake on data processing questions?**
+Confusing validation with verification is the most frequent slip. Others include saying a primary key identifies the table rather than each record, and mixing up batch, online and real-time processing or choosing an unsuitable example system.
+
+**What do processing-method questions usually expect?**
+They expect you to explain how each method works and to justify a suitable example system, linking the choice to features such as urgency and volume of transactions rather than just naming the method.

@@ -156,6 +156,20 @@ A reminder in one line: "The hospital's IoT heart monitors send readings every m
 - Saying 3D printing is "cheap" without the condition: cheap for one-off, customised items, not for mass production.
 - Forgetting that 4th generation optical storage is still largely in development, so cost and availability are real limits.
 
+## Frequently asked questions
+
+**What is the difference between augmented reality and virtual reality?**
+Augmented reality overlays computer images on a live view of the real world, such as directions over a camera view. Virtual reality creates a fully computer-generated, immersive 3D world, usually viewed through a headset.
+
+**What is the difference between computer-assisted translation and machine translation?**
+In computer-assisted translation, a human translator does the translating, helped by software such as a translation memory and terminology database. In machine translation, the software produces the translation on its own.
+
+**Which emerging technologies are in the Cambridge 9626 syllabus?**
+Section 13.1 lists artificial intelligence, augmented and virtual reality, robotics, computer-assisted translation, holographic imaging and storage, 3D printing, vision enhancement, wearable computing, blockchain, the Internet of Things, molecular data storage and autonomous transport, and every listed item must be studied.
+
+**Is 3D printing always cheap?**
+No. 3D printing is cheap for one-off, customised items such as prototypes and prosthetics, but slow for mass production, so a strong answer states that condition.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 13, New and emerging technologies, section 13.1.

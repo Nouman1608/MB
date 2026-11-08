@@ -209,6 +209,20 @@ In each case the model holds the rules (how the aircraft responds to its control
 
 Condense this with the [Modelling revision notes](/resources/a-level-cambridge-ict-modelling-revision-notes/), then test yourself on the [Modelling practice questions](/resources/a-level-cambridge-ict-modelling-practice/). For the sensors and control systems behind weather data, see [Monitoring and Control](/resources/a-level-cambridge-ict-monitoring-and-control/). For the hardware used to run large simulations, see [Hardware and Software](/resources/a-level-cambridge-ict-hardware-and-software/).
 
+## Frequently asked questions
+
+**What is an assumption in a computer model?**
+An assumption is a simplification built into a model, such as "the growth rate stays the same every year". Assumptions are one reason a model's predictions may not match what happens in reality.
+
+**Which simulations does the Cambridge 9626 syllabus list?**
+Section 9.1 lists natural disaster planning, pilot training, learning to drive a car and nuclear science research. In each, the model holds the rules and the simulation runs them under conditions the user chooses.
+
+**Why are computer models used instead of real-life testing?**
+Models let people test scenarios that would be too dangerous, slow, expensive or impossible to try in reality, such as emergencies in pilot training or experiments in nuclear research. Their results depend on the accuracy of the rules and data in the model.
+
+**How do you use what-if analysis on a spreadsheet model?**
+Put each input in its own labelled cell, build the output formula from cell references, predict the effect of a change, then change the input and compare the new output with your prediction.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 9: Modelling (9.1 Modelling and simulations).

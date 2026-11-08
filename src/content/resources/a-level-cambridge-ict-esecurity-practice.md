@@ -130,6 +130,20 @@ The answers show one acceptable set of points with a [1] for each creditworthy p
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Cambridge 9626 paper tests eSecurity?**
+eSecurity is topic 5 of Cambridge International AS & A Level Information Technology (9626), covering personal data and malware. It is an AS Level topic examined in Paper 1 Theory.
+
+**How do you earn full marks on a describe-the-measure question?**
+Name each security measure and explain how it stops the threat in the scenario. Naming measures with no explanation usually earns only half the marks available.
+
+**What are common mistakes on eSecurity questions?**
+Common slips include calling a text-message attack phishing rather than smishing, describing pharming as clicking an email link, giving software methods when physical ones are asked for, repeating the same point in different words, and saying anti-malware software stops all viruses.
+
+**What does an evaluate or discuss question on security need?**
+It needs advantages and disadvantages of each method in the context of the organisation described, followed by a judgement linked back to that context. Leaving out the judgement limits the marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 5: eSecurity (5.1 Personal data; 5.2 Malware).

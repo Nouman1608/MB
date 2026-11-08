@@ -198,6 +198,20 @@ Paper 4: the syllabus states that work saved in an incorrect file format earns n
 - Saying "text to curves makes text editable" -- it does the opposite.
 - Naming a file format without a reason linked to the application and audience.
 
+## Frequently asked questions
+
+**What is the difference between RGB and CMYK?**
+RGB is an additive colour system that mixes red, green and blue light and is used for screens and the web. CMYK is a subtractive system using cyan, magenta, yellow and key (black) inks and is used for print.
+
+**How do you calculate the file size of an uncompressed image?**
+Multiply the width in pixels by the height in pixels by the colour depth in bits, then divide by 8 to get bytes. For example, a 2000 by 1000 image at 8-bit colour is 2,000,000 bytes, or 2 MB.
+
+**How many colours does a given colour depth allow?**
+The number of colours is 2 to the power of the colour depth, so 8 bits per pixel gives 256 colours. Giving 2 multiplied by the bit depth instead is a common mistake.
+
+**What is the difference between kerning and letter spacing?**
+Kerning adjusts the space between one specific pair of letters, such as "AV", while letter spacing changes the space evenly across all the selected letters.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 19: Graphics creation (19.1 Common graphics skills; 19.2 Vector graphics; 19.3 Bitmap images; 19.4 Compression; 19.5 Text).

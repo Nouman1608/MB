@@ -199,6 +199,20 @@ Reversing the sign of `speed` makes the ball bounce back. A variable such as `ar
 
 Next, test recall with the [revision notes](/resources/a-level-cambridge-ict-animation-revision-notes/) and try the [practice questions](/resources/a-level-cambridge-ict-animation-practice/). Frame rate and aspect ratio also appear in the AS topic [Video and audio editing](/resources/a-level-cambridge-ict-video-and-audio-editing/).
 
+## Frequently asked questions
+
+**Do you need specific animation software for Cambridge 9626?**
+No. The Cambridge 9626 syllabus names no software, so the animation topic is described in terms of general tools such as stages, layers, masks, key frames and tweens. What matters is that the animation suits its intended application and audience.
+
+**What is a path in animation?**
+A path is a line or curve that an object follows between two key frames. Without a path, a motion tween moves the object in a straight line.
+
+**Why use vector objects in an animation?**
+Vector objects are stored as points, lines and curves rather than pixels, so they scale without losing quality and keep file sizes small. Bitmaps can be traced to convert them into editable vector shapes, though fine detail may be simplified.
+
+**Is CGI the same as 3D animation?**
+No. CGI covers any computer-generated imagery, including 2D and 3D animation, so calling all computer animation 3D is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 20: Animation (20.1 Animation).

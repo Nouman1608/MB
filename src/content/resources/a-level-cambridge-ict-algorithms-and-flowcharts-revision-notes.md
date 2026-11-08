@@ -178,6 +178,20 @@ Rules that earn the marks:
 - Naming an error without writing the corrected line.
 - Trace tables that skip rows or show the values you expected, not the ones the algorithm produces.
 
+## Frequently asked questions
+
+**What is the difference between WHILE and REPEAT loops?**
+A WHILE...ENDWHILE loop tests its condition at the start, so its body may not run at all. A REPEAT...UNTIL loop tests at the end, so its body always runs at least once, which makes it suitable for input validation.
+
+**What is a rogue value in an algorithm?**
+A rogue value is a value, such as -1 or 0, that marks the end of the data and is not processed. With a WHILE loop, input the first value before the loop and the next value as the last line of the body.
+
+**When should you use CASE instead of IF?**
+Use CASE...ENDCASE when choosing between several fixed values of one variable, such as menu options or codes, with OTHERWISE to handle invalid values. IF...ELSE...ENDIF suits two outcomes or a range test.
+
+**How do you complete a trace table?**
+Use one column per variable plus one for output, write a new row each time a value changes, and check each decision against the current values rather than the values you expect.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), Cambridge International Education. Topic 4: Algorithms and flowcharts (4.1 Algorithms, 4.2 Flowcharts) and the flowchart symbols table at the end of the subject content.

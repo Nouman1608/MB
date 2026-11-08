@@ -185,6 +185,20 @@ Select the **data series** from **contiguous** (adjacent) or **non-contiguous** 
 
 Condense the topic with the [Spreadsheets revision notes](/resources/a-level-cambridge-ict-spreadsheets-revision-notes/), then try the [Spreadsheets practice questions](/resources/a-level-cambridge-ict-spreadsheets-practice/).
 
+## Frequently asked questions
+
+**What order does a spreadsheet use to calculate a formula?**
+Indices are worked out first, then multiplication and division, then addition and subtraction, with brackets overriding this order. For example, =2+3*4^2 gives 50, while =(2+3)*4^2 gives 80.
+
+**When should you add a secondary axis to a chart?**
+Add a secondary axis when two data series have very different sizes, such as rainfall in millimetres and visitor numbers, so both can be read clearly on the same chart.
+
+**Why should data be sorted before adding subtotals?**
+Subtotals group rows that share the same value, so the data must be sorted by that field first. Adding subtotals to unsorted data gives several separate subtotals for the same group.
+
+**Why might a MID or RIGHT result not add up correctly?**
+MID, LEFT and RIGHT return text, even when the characters are digits, so the result must be converted with VALUE before it is used in a sum, comparison or lookup.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 8: Spreadsheets (8.1 Creating a spreadsheet; 8.2 Testing a spreadsheet; 8.3 Using a spreadsheet; 8.4 Graphs and charts).

@@ -212,6 +212,20 @@ The syllabus includes people with **learning difficulties** or **physical or sen
 - Exam-style questions with marked answers: [The digital divide practice questions](/resources/a-level-cambridge-ict-the-digital-divide-practice/)
 - Related AS topics: [Hardware and software](/resources/a-level-cambridge-ict-hardware-and-software/) (the computers and software behind access) and [Data processing and information](/resources/a-level-cambridge-ict-data-processing-and-information/)
 
+## Frequently asked questions
+
+**What technology does the digital divide cover in Cambridge 9626?**
+The syllabus gives smart phones, television, personal computers, tablet computers, laptop computers and internet access as examples. The divide is about access to information as well as devices.
+
+**Can someone with internet access still be affected by the digital divide?**
+Yes. Access is not all-or-nothing: a slow connection, a shared device, library-only access or a low performance computer that cannot run current software all count as restricted access.
+
+**How do you write a high-scoring answer on the digital divide?**
+Make applied, specific points that name the cause, the group and the effect, for example a low-income family sharing one low performance phone with limited data so a child cannot join a live online lesson. Generic statements earn little.
+
+**How does the digital divide affect less industrially developed nations?**
+Less industrially developed nations may have less infrastructure, fewer affordable devices and lower technological awareness, creating a divide between countries in access to online education, trade, health information and global communication.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 6, The digital divide, section 6.1.

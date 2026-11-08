@@ -175,6 +175,20 @@ Conclusion: for teams in two countries the shared live plan outweighs the costs,
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is project management an A Level topic in Cambridge 9626?**
+Yes. Project management is topic 15 of Cambridge International AS & A Level Information Technology (9626) and is A Level only. It is examined in Paper 3 Advanced Theory, where calculators are not allowed, so critical path calculations are done by hand.
+
+**How do you avoid mistakes in a forward and backward pass?**
+In a forward pass, where two activities lead into one, take the largest earliest finish time. In a backward pass, where one activity leads to two, take the smallest latest start time; reversing either rule is a common mistake.
+
+**How can you check a critical path answer?**
+Add the durations of the activities on your critical path: they should equal the minimum project duration. A critical path whose durations do not add up to the project duration is wrong.
+
+**What are common mistakes on project management questions?**
+Common slips include saying any delay to a non-critical activity delays the project without comparing it with the float, reading Gantt progress without quantifying how far behind a task is, placing scope in planning rather than initiation, and leaving out the conclusion on evaluate questions.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 15, Project management, sections 15.1–15.3.

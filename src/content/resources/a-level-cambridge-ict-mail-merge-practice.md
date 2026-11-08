@@ -158,6 +158,20 @@ Answers show one acceptable set of points, with a [1] per creditworthy point. Th
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is mail merge an A Level topic in Cambridge 9626?**
+Yes. Mail merge is topic 18 of Cambridge International AS & A Level Information Technology (9626) and is A Level only. It can appear in Paper 3 Advanced Theory and in Paper 4 Advanced Practical, which covers sections 17 to 21.
+
+**How should the number of label sheets be rounded?**
+Always round the number of sheets up, because a part-filled sheet still has to be printed. Rounding label sheets down is one of the most common slips in mail merge calculations.
+
+**What are common mistakes in mail merge questions?**
+Common slips include forgetting there is one fewer gap than labels in a row, naming "a field" instead of the specific field type, mixing up Fill-in and Ask fields, writing > where a rule says "5 or more", and using OR where both conditions must be true.
+
+**What does an explain question on recipient rules need?**
+Each reason must be tied to the organisation's situation, such as avoiding wasted postage or respecting people who asked not to be contacted. A list of sort, filter and exclude actions with no reasons does not answer an explain question.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 18, Mail merge, section 18.1.

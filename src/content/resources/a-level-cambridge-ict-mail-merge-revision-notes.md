@@ -173,6 +173,20 @@ Fill-in and Ask can usually prompt **once per merge** or **once per record**.
 - Saying Next Record If removes a record; it moves on one record within the same document.
 - Not giving "when and why" reasons for rules and fields when the question asks for them.
 
+## Frequently asked questions
+
+**What is the difference between a master document and a data source?**
+In Cambridge 9626, the master document holds the fixed text, layout and merge fields that are the same in every copy, while the data source holds the records, one per recipient, with field names in the first row.
+
+**What is the difference between a Fill-in field and an Ask field?**
+Both prompt the user for a value during the merge. A Fill-in field shows the answer where the field sits, while an Ask field stores the answer so it can be referred to elsewhere, possibly several times or in a condition. Both can usually prompt once per merge or once per record.
+
+**What is a directory merge?**
+A directory merge puts all the selected records into one document, such as a printed contact list. The master holds only the repeating line, and any heading is added after merging.
+
+**What is the difference between an embedded and a linked chart in a mail merge?**
+An embedded chart is a copy stored in the master document, so every merged copy shows the same chart even if the original file changes. A linked chart updates from its original file.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 18, Mail merge, section 18.1.

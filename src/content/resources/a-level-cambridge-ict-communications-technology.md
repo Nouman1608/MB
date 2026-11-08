@@ -185,6 +185,20 @@ Risks scored 1 to 5. Power cut: likelihood 4, impact 3. Flood: 1, 5. Ransomware:
 - Treating bandwidth and bit rate as the same.
 - Calling UDP unreliable without saying why: no acknowledgement or resending.
 
+## Frequently asked questions
+
+**What is the difference between physical and logical topology?**
+In Cambridge 9626, physical topology is how devices are cabled, while logical topology is how data flows. A star network cabled round a hub is physically a star but logically a bus, because the hub sends every signal to every device.
+
+**How does a VPN work?**
+A VPN creates a private, encrypted link across a public network by tunnelling, which wraps one packet inside another. Home workers can then reach the office LAN as if they were on site.
+
+**How do you quantify risk in disaster recovery?**
+Score each risk, often by multiplying likelihood by impact, then deal with the highest-scoring risk first. For example, a risk with likelihood 3 and impact 5 scores 15 and outranks one scoring 4 by 3.
+
+**What is a server farm?**
+A server farm is a large group of servers, with a load balancer sharing requests between them so heavy demand is handled and a failed server's work moves to another. Server farms are resilient but use a lot of power.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027 (version 3), Cambridge University Press & Assessment: topic 14, Communications technology, sections 14.1 to 14.10.

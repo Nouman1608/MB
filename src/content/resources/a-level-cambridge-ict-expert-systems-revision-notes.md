@@ -186,6 +186,20 @@ Link every point to the scenario in the question.
 - Related: [algorithms and flowcharts](/resources/a-level-cambridge-ict-algorithms-and-flowcharts/) (IF…THEN logic) and [the digital divide](/resources/a-level-cambridge-ict-the-digital-divide/)
 - [Free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What is an expert system?**
+In Cambridge 9626, an expert system is a computer system that stores the knowledge of human experts in one field and uses rules to reason with it, producing possible solutions and explaining how it reached them.
+
+**What is the difference between forward and backward chaining?**
+Forward chaining is data driven: it starts with known facts and works from IF parts to THEN parts until no rule adds a new fact. Backward chaining is goal driven: it starts with a goal and works back to the conditions needed to prove it, asking only the questions it needs.
+
+**What is the difference between the inference engine and the explanation system?**
+The inference engine does the reasoning by matching facts to rules, firing rules and deciding the next question. The explanation system reports that reasoning, showing how a conclusion was reached and why a question is being asked.
+
+**Which scenarios does the 9626 syllabus list for expert systems?**
+The syllabus lists mineral prospecting, investment analysis, financial planning, insurance planning, car engine fault diagnosis, medical diagnosis, route scheduling for delivery vehicles, and plant and animal identification.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 7, Expert systems, section 7.1.

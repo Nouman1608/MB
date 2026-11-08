@@ -179,6 +179,20 @@ A rootkit runs with administrator-level access [1], so it can alter the operatin
 
 Test recall with the [revision notes](/resources/a-level-cambridge-ict-esecurity-revision-notes/), then try the [practice questions](/resources/a-level-cambridge-ict-esecurity-practice/). See also [Hardware and Software](/resources/a-level-cambridge-ict-hardware-and-software/).
 
+## Frequently asked questions
+
+**What is personal data in Cambridge 9626?**
+Personal data is any information that relates to a living person who can be identified from it, on its own or combined with other data, such as a name, address, date of birth, bank details, photo or medical records.
+
+**What is a duty of confidence?**
+A duty of confidence exists when information is shared on the understanding that it stays private, as between a doctor and patient. Measures that honour it include confidentiality clauses, staff training, need-to-know access, consent before sharing and secure disposal of records.
+
+**Why is a rootkit harder to deal with than adware?**
+A rootkit runs with administrator-level access, so it can alter the operating system and hide itself and other malware from the user and from anti-malware scans. It may need specialist tools or a full operating system reinstall, whereas adware is visible and can usually be removed like other software.
+
+**What is the difference between confidentiality and security of data?**
+Confidentiality is about who is allowed to see the data, while security is about stopping anyone else from accessing, changing or losing it, using measures such as strong passwords, two-factor authentication, access rights, encryption and firewalls.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 5: eSecurity (5.1 Personal data; 5.2 Malware).

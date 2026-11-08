@@ -174,6 +174,20 @@ This formula is entered in B2 of the Mall worksheet and copied down to B5:
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is data analysis and visualisation an A Level topic in Cambridge 9626?**
+Yes. Data analysis and visualisation is topic 17 of Cambridge International AS & A Level Information Technology (9626) and is A Level only. It is assessed in Paper 4 Advanced Practical, which covers sections 17 to 21, and Paper 3 Advanced Theory, which covers sections 12 to 21.
+
+**How should spreadsheet formulas be written in 9626 answers?**
+Write the full formula with cell references rather than describing it in words such as "use LEFT". Describing a formula in words is one of the most common ways to lose marks.
+
+**What does a full data analysis answer need to cover?**
+A strong answer covers the syllabus stages of getting the data, cleaning it and displaying it, rather than only describing the pivot table. Cleaning actions should match the specific problems identified in the data.
+
+**What are common mistakes with pivot tables and charts?**
+Common slips include using the grand total as the denominator when a question asks for a share of one column, choosing a pie chart to compare two groups across several categories, and forgetting to refresh a pivot table after the source data changes.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 17, Data analysis and visualisation, section 17.1.

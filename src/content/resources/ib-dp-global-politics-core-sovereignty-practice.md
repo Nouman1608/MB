@@ -177,7 +177,7 @@ The IB DP Global Politics guide starts from sovereignty as a state's independenc
 Extended source evaluations, essays and HL recommendation questions are marked holistically against IB markbands, not point by point. For a recommendation, the top band requires challenges or unintended consequences of the proposed action to be considered.
 
 **What is the difference between a percentage change and a percentage-point change?**
-A percentage-point change is the simple difference between two percentages, for example from 96% to 74% is a fall of 22 percentage points. Confusing it with percentage change is a common way to lose marks when describing Paper 1 data.
+A percentage-point change is the simple difference between two percentages, for example, going from 60% to 45% is a fall of 15 percentage points. Confusing it with percentage change is a common way to lose marks when describing Paper 1 data.
 
 **What are common mistakes on sovereignty questions?**
 Frequent slips include using "sovereignty" without naming the notion or dimension meant, describing sources one after another in a compare-and-contrast answer, naming real cases without explaining how they support the point, and leaving out a judgement on evaluate, discuss or recommend questions.

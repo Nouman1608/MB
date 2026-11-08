@@ -204,6 +204,20 @@ Corrective work is unplanned; perfective work adds value but costs money with no
 - Calling a boundary value "abnormal": it is **extreme** and accepted.
 - Recommending pilot with no separate branch or department to trial it.
 
+## Frequently asked questions
+
+**What are the four changeover methods in Cambridge 9626?**
+The four implementation methods are parallel running, direct changeover, phased implementation and pilot implementation. Pilot implementation only makes sense where there is a separate branch or department to trial the system.
+
+**What are the four types of maintenance?**
+Corrective maintenance fixes faults found after release, adaptive maintenance changes the system when its environment changes, such as a new law or operating system, perfective maintenance improves performance or adds features, and preventive maintenance stops future faults, for example by tidying code.
+
+**What is the difference between throwaway and evolutionary prototyping?**
+A throwaway prototype is built to clarify requirements and then discarded, which is quick but wastes the effort. An evolutionary prototype is refined repeatedly until it becomes the final system.
+
+**Why is the system life cycle described as a cycle?**
+Evaluation compares the working system with the requirements from analysis, and any shortfall starts a new round of analysis, so the stages repeat rather than ending once the system is built.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 16: System life cycle.

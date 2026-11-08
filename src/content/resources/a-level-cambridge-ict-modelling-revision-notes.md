@@ -182,6 +182,20 @@ Finish an evaluation with a judgement linked to the context.
 - Treating "simulation" and "model" as the same word.
 - For a named simulation, giving benefits that would apply to any computer system, rather than ones specific to that simulation.
 
+## Frequently asked questions
+
+**What is the difference between what-if analysis and goal seek?**
+In Cambridge 9626, what-if analysis means changing inputs to see the effect on the outputs. Goal seek works the other way: you set a target output and the software finds the input value that achieves it.
+
+**What is the difference between a computer model and a simulation?**
+A computer model is the set of variables and rules that represents a real system, while a simulation is the model being run, often over time or with chance events, to see how the system behaves.
+
+**Which cell should be changed in goal seek?**
+The cell to change must contain an input value, not a formula, while the result cell must contain a formula. Interpret the answer in context, rounding to whole units where needed.
+
+**What uses of what-if analysis does the 9626 syllabus list?**
+The syllabus lists financial forecasting, population growth, climate change, weather systems, queue management, traffic flow and construction. For any use, say which input is changed and which output is predicted.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 9: Modelling (9.1 Modelling and simulations).
