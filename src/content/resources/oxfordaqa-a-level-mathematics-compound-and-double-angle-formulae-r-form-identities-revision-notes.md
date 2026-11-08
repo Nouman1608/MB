@@ -206,6 +206,20 @@ Always write the interval for the whole angle, such as x + α, before you list a
 </figure>
 
 
+## Frequently asked questions
+
+**What are the three forms of cos 2x?**
+cos 2x = cos² x − sin² x = 2cos² x − 1 = 1 − 2sin² x. The OxfordAQA 9660 specification says all three forms are expected knowledge, so choose the one that gives a single trigonometric function.
+
+**How do you integrate cos² x or sin² x?**
+Use the power-reduction forms cos² x = (1 + cos 2x)/2 and sin² x = (1 − cos 2x)/2, then integrate term by term. Remember to divide by the coefficient of x inside the angle.
+
+**Which R-form should you use for a cos θ + b sin θ?**
+Choose the form whose coefficient matching gives positive values of r cos α and r sin α, so that α is acute. In every case r = √(a² + b²) and tan α is the ratio of the two matched values.
+
+**How do you find the greatest value of an expression using the R-form?**
+Write the trigonometric part as r cos(θ − α) or r sin(θ ± α), which takes every value from −r to r. For example, 4 + 12 cos θ + 5 sin θ = 4 + 13 cos(θ − α), so its greatest value is 17.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: content area P2.4 Trigonometry (compound angle and double angle formulae, the forms r cos(θ ± α) and r sin(θ ± α), identities, integration and equations), International A-level Unit P2.

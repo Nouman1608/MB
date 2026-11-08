@@ -131,6 +131,20 @@ These questions cover specification section P1.3 (Differentiation) of the Oxford
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OxfordAQA unit covers tangents, normals and stationary points?**
+Section P1.3, Differentiation, of the OxfordAQA International AS and A-level Mathematics (9660) specification covers these skills. It is part of International AS Unit P1 (Pure Maths), which also counts towards the International A-level.
+
+**What should you do before differentiating a root or a reciprocal?**
+Rewrite it as a power of x first, such as √x = x^(1/2) and 5/x² = 5x⁻². Differentiating before rewriting is one of the most common ways to lose marks.
+
+**How do you show that a stationary point is a maximum or a minimum?**
+Find the second derivative at the point: a negative value means a maximum and a positive value means a minimum. If it is zero, test the sign of the gradient on either side instead.
+
+**What should the final answer to an optimisation question include?**
+Answer the question asked, such as the maximum volume or minimum cost, with units, and prove the nature of the stationary point. Reject any value outside the sensible domain, such as a negative length.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: section 3.1, International AS Unit P1 (Pure Maths), content P1.3 Differentiation.

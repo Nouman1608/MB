@@ -135,6 +135,20 @@ Links: [course hub](/boards/oxfordaqa/a-level/mathematics/), [checklist](/checkl
 - Take the [free 10-minute diagnostics](/diagnostics/) to find what to revise next.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are compound and double angle formulae examined at OxfordAQA International AS?**
+No. The OxfordAQA International AS and A-level Mathematics (9660) specification places compound and double angle formulae, the R-form and related identities and equations in content area P2.4, International A-level Unit P2, so they are A2 content only.
+
+**Why should you not divide by tan x or sin x when solving a trigonometric equation?**
+Dividing by a function that can be zero loses the solutions where it equals zero. Move everything to one side and factorise instead, then solve each factor.
+
+**How should you set out a trigonometric identity proof?**
+Start from one side, usually the more complicated one, and work line by line until you reach the other side exactly. Working on both sides at once is a common way to lose marks.
+
+**What is the most common mistake when solving an R-form equation?**
+Forgetting to shift the interval for x − α or x + α before listing solutions, which can miss or add roots. Also keep α unrounded until the end so the final answers are accurate.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: content area P2.4 Trigonometry (compound angle and double angle formulae, the forms r cos(θ ± α) and r sin(θ ± α), identities, integration and equations), International A-level Unit P2.

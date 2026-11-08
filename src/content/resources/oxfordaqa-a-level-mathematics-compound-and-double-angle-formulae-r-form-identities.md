@@ -353,6 +353,20 @@ sin θ = 1 gives θ = 90°. sin θ = −5/6 gives θ = 180° + 56.4° = 236.4° 
 
 Condense this with the [revision notes](/resources/oxfordaqa-a-level-mathematics-compound-and-double-angle-formulae-r-form-identities-revision-notes/), then attempt the [practice questions](/resources/oxfordaqa-a-level-mathematics-compound-and-double-angle-formulae-r-form-identities-practice/).
 
+## Frequently asked questions
+
+**What are the compound angle formulae?**
+sin(A ± B) = sin A cos B ± cos A sin B and cos(A ± B) = cos A cos B ∓ sin A sin B. The sine formulae keep the sign, while the cosine formulae flip it.
+
+**How do you find an exact value such as cos 165°?**
+Split the angle into two angles with known exact values, such as 120° + 45°, then apply the compound angle formula. This gives cos 165° = −(√2 + √6)/4.
+
+**How do you derive the double angle formulae?**
+Put B = A in the compound angle formulae. For example, sin(A + A) = 2 sin A cos A, and cos(A + A) = cos² A − sin² A.
+
+**Is sin 2x the same as 2 sin x?**
+No. sin 2x = 2 sin x cos x, which is not double sin x. In the same way, the sine of a sum is never the sum of the sines.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: content area P2.4 Trigonometry (compound angle and double angle formulae, the forms r cos(θ ± α) and r sin(θ ± α), identities, integration and equations), International A-level Unit P2.

@@ -160,6 +160,20 @@ These questions cover OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 202
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths content do these tree diagram questions cover?**
+They cover content references 11.02d, 11.02e and 11.02f of OCR GCSE (9-1) Mathematics J560: tree diagrams, the addition and multiplication laws, and conditional probability. Conditional probability from first principles and the test for independence are Higher tier only.
+
+**What changes on a tree diagram when items are taken without replacement?**
+The second-stage probabilities change: the denominator drops by 1 and the count of the item already taken may drop by 1. Using the same fractions on every second-stage branch is a common error.
+
+**How do you find the probability of "one of each" on a tree diagram?**
+Find every route that gives one of each, such as red then blue and blue then red, multiply along each route, then add them. Finding only one of the two orders loses marks.
+
+**How do you show that two events are independent?**
+Compare p(A) × p(B) with p(A and B), or compare p(A given B) with p(A). If they are equal, the events are independent; writing "independent" without the comparison is not enough.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Content references 11.02d, 11.02e and 11.02f.

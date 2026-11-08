@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-psm1-s1-statistics-oxfordaqa-alevel-maths"
     subtopic: "s1-bernoulli-and-binomial-distributions-oxfordaqa-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on Bernoulli trials, the conditions for a binomial distribution, calculating binomial probabilities, and the mean and variance of binomial and Bernoulli distributions."
+description: "OxfordAQA International A-level Maths 9660 practice questions with worked answers on Bernoulli trials, binomial conditions and probabilities, mean and variance."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -86,3 +88,17 @@ So **p = 0.8 or p = 0.2** [1]. Both values are valid solutions of the variance e
 - Miscalculating or omitting the binomial coefficient ⁿCₓ.
 - Giving only one root when a variance equation produces a quadratic in p, rather than both valid solutions.
 - Describing dependence and non-constant probability as separate issues in a without-replacement scenario, rather than recognising that removing an item changes both at once.
+
+## Frequently asked questions
+
+**What are the conditions for a binomial distribution in OxfordAQA A-level Maths?**
+A binomial model needs a fixed number of trials n, two possible outcomes per trial, a constant probability of success p, and independent trials. Check all four before using the binomial formula.
+
+**Why does drawing without replacement break the binomial model?**
+Removing an item changes the probability of success for the next draw, so the trials are no longer independent and p is no longer constant. Replacing each item before the next draw would let the binomial model apply.
+
+**What is the difference between the Bernoulli and binomial mean and variance?**
+A single Bernoulli trial has mean p and variance p(1 − p). A binomial distribution B(n, p) is the sum of n independent Bernoulli trials, so its mean is np and its variance is np(1 − p).
+
+**Why can a variance equation give two values of p?**
+Setting np(1 − p) equal to a given variance produces a quadratic in p, which can have two valid solutions between 0 and 1. Giving only one root is a common way to lose marks.

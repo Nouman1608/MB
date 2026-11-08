@@ -273,6 +273,20 @@ Write u, v, du/dx and dv/dx down before you substitute. It keeps the signs under
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-differentiating-exponentials-logarithms-trigonometric-practice/) and see how you do on the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the quotient rule?**
+For y = u/v, dy/dx = (v du/dx − u dv/dx) / v². The order in the numerator matters, so reversing it gives the wrong sign.
+
+**What is the product rule?**
+For y = uv, dy/dx = u dv/dx + v du/dx. Use it when two functions that each contain x are multiplied; a constant multiplier does not need it.
+
+**How do you use the chain rule?**
+Differentiate the outer function with the inner function left as it is, then multiply by the derivative of the inner function: dy/dx = dy/du × du/dx. For three layers, work from the outside inwards and multiply all three derivatives.
+
+**Why is it useful to factorise a product rule answer?**
+Taking out a common factor, such as e^(−3x), makes it easier to find where the gradient is zero. Because e^(kx) is never zero, the remaining factor gives the solution directly.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: section 3.3, International A-level Unit P2 (Pure Maths), content P2.6 Differentiation (differentiation of e^x, ln x, sin x, cos x and tan x, and the product, quotient and chain rules, and dy/dx = 1/(dx/dy)).

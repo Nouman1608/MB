@@ -144,6 +144,20 @@ These questions follow sections 10.01 and 10.02 of the OCR GCSE (9-1) Mathematic
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these units, bearings and perimeter questions cover?**
+They follow sections 10.01 and 10.02 of OCR GCSE (9-1) Mathematics J560: units, compound measures, maps, bearings, perimeter, circumference and arc length. Both tiers are examined on this content, and none of it is Higher tier only.
+
+**What is the most common mistake when converting area or volume units?**
+Using 100 or 1000 instead of the squared or cubed factor. For example, 1 m² = 10 000 cm² and 1 m³ = 1 000 000 cm³.
+
+**How do you convert a compound unit such as km/h to m/s?**
+Convert the top and the bottom separately: 54 km = 54 000 m and 1 h = 3600 s, so 54 km/h = 15 m/s. As a short cut, divide km/h by 3.6 to get m/s.
+
+**What is the difference between the arc length and the perimeter of a sector?**
+The arc length is only the curved edge. The perimeter of a sector is the arc length plus two radii, so giving the arc alone loses marks.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), sections 10.01 and 10.02, published by OCR.

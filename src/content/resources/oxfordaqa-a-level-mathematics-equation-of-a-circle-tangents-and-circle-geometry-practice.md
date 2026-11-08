@@ -151,6 +151,20 @@ These questions cover content area PP1.1 (Circle) of the OxfordAQA International
 - Take any of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OxfordAQA unit covers the equation of a circle?**
+Content area PP1.1, Circle, of the OxfordAQA International AS and A-level Mathematics (9660) specification covers circle equations, translations, chords, tangents and normals. It is part of International AS Unit PSM1.
+
+**What is the most common mistake when reading the centre of a circle from its equation?**
+Getting the sign wrong. In (x − a)² + (y − b)² = r², the centre is (a, b), so (x + 3)² gives an x-coordinate of −3.
+
+**What should you do first when the x² and y² coefficients are not 1?**
+Divide the whole equation by the common coefficient before completing the square. Otherwise the completed squares, and so the centre and radius, will be wrong.
+
+**What happens to a circle under a translation?**
+Add the translation vector to the centre and keep the radius the same. Moving the centre in the wrong direction or changing the radius are common errors.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section 3.2.1 PP1.1 (Circle), published by OxfordAQA.

@@ -269,6 +269,20 @@ The means agree but the spreads do not. Doubling one reading doubles the error, 
 
 Condense this into the [revision notes](/resources/oxfordaqa-a-level-mathematics-discrete-random-variables-expectation-variance-and-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-discrete-random-variables-expectation-variance-and-practice/). Check progress against the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 
+## Frequently asked questions
+
+**How do you calculate the mean of a discrete random variable?**
+Multiply each value by its probability and add: E(X) = Σ x p. The mean need not be one of the possible values of X.
+
+**Does the formula for Var(aX ± bY) always apply?**
+The variance formula Var(aX ± bY) = a² Var(X) + b² Var(Y) needs X and Y to be independent. The mean formula E(aX ± bY) = a E(X) ± b E(Y) holds whether or not they are independent.
+
+**How do you work with a distribution given as a formula?**
+Write out the table of values and probabilities first, use the fact that the probabilities sum to 1 to find any constant, then calculate as usual. For P(V = v) = k(6 − v) for v = 1 to 5, the probabilities sum to 15k, so k = 1/15.
+
+**What units does the variance have?**
+Variance is in squared units of the original variable, while the standard deviation, its square root, is in the original units. Check which one the question asks for.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section S1.2 Discrete random variables. Published by OxfordAQA; International AS exams from May/June 2018 and International A-level exams from May/June 2019.
