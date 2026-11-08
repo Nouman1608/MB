@@ -164,6 +164,20 @@ These questions cover sections 5.1.1 to 5.1.3 of the OCR Advanced GCE in Physics
 - Dividing by the whole mass collected, not the mass above the control.
 - Giving J instead of J kg⁻¹ for a specific latent heat.
 
+## Frequently asked questions
+
+**What are the most common mistakes in thermal physics questions?**
+Common errors include subtracting 273 when converting °C to K, treating the specks in Brownian motion as the molecules themselves, and saying no energy is transferred during a change of phase. Using mcΔθ across a change of phase also loses marks.
+
+**What is the unit of specific latent heat?**
+Specific latent heat is measured in J kg⁻¹. Giving the unit as J is a common slip.
+
+**How do you use the control run in a latent heat of fusion experiment?**
+Subtract the mass of ice melted by the room in the control funnel from the mass collected with the heater on. Dividing the energy by the whole mass collected, instead of the extra mass, gives the wrong answer.
+
+**How do you calculate the energy to melt ice and warm the water?**
+Treat each stage separately: use mcΔθ for each temperature change and ml for the change of phase, then add the energies. Never use one specific heat capacity across a change of phase.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific-revision-notes/).

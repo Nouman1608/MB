@@ -235,6 +235,23 @@ E = 240 × 10⁶ / 0.0012 = 2.0 × 10¹¹ Pa.
 
 Try the [practice questions](/resources/ocr-a-level-physics-springs-stress-strain-and-the-young-modulus-practice/) next.
 
+## Frequently asked questions
+
+**What is Hooke's law?**
+Hooke's law states that, up to the limit of proportionality, the extension or compression of a spring or wire is directly proportional to the force applied, F = kx.
+
+**How do you calculate elastic potential energy?**
+Elastic potential energy is the area under a straight force-extension graph, E = ½Fx = ½kx². Doubling the extension multiplies the stored energy by four.
+
+**What is the Young modulus?**
+The Young modulus is tensile stress divided by tensile strain within the limit of proportionality, E = FL/(Ax), measured in pascals. It is a property of the material, not of a particular sample.
+
+**Why is a long thin wire used to measure the Young modulus?**
+A long, thin wire gives an extension large enough to measure. Measuring the diameter at several points helps because the percentage uncertainty in the area is twice that in the diameter.
+
+**What does a stress-strain graph look like for a brittle material?**
+A brittle material such as glass gives a straight line almost to the breaking point, then fractures suddenly with little or no plastic deformation.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Sections 3.4.1 Springs and 3.4.2 Mechanical properties of matter.

@@ -143,6 +143,20 @@ These questions follow sections 2.1.1, 2.1.2, 2.2.1 and 2.3.1 of the OCR *Advanc
 - Swapping sin and cos because the angle was measured from the wrong line.
 - Using more significant figures for an uncertainty than the data justify.
 
+## Frequently asked questions
+
+**What are the most common mistakes in units and uncertainty questions?**
+Common errors include leaving out the unit, giving the wrong power of ten for a squared or cubed prefix, adding absolute uncertainties when quantities are multiplied or divided, and forgetting to count a squared quantity twice. Calling a zero error random is also marked wrong.
+
+**How many significant figures should an uncertainty have?**
+Do not give an uncertainty to more significant figures than the data justify; for example, a half-range of 0.045 s is quoted as 1.54 ± 0.05 s.
+
+**How do you find a difference between two vectors?**
+Add the reversed vector: a − b = a + (−b). A change in velocity is the final velocity minus the initial velocity, so adding the two vectors when a difference was asked is a common mistake.
+
+**How do you use the cosine rule for two forces at an angle?**
+Place the forces tip to tail and use the interior angle of the triangle, which is 180° minus the angle between their lines of action. Using the wrong angle is a common error.
+
 ## Next steps
 
 - [Revision notes](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors-revision-notes/)

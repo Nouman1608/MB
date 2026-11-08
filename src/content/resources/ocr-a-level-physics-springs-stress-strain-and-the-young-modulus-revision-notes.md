@@ -201,6 +201,20 @@ For a metal loaded past its elastic limit, the unloading line is approximately p
 - Calling the gradient of an extension-force graph k, when it is 1/k.
 - In practical answers, giving a single diameter reading, or measuring the extension of a wire over a short length, which makes the percentage uncertainty large.
 
+## Frequently asked questions
+
+**What is the difference between stress and strain?**
+Tensile stress is force per unit cross-sectional area, σ = F/A, measured in pascals. Tensile strain is extension divided by original length, ε = x/L, and has no unit.
+
+**What is ultimate tensile strength?**
+Ultimate tensile strength is the maximum tensile stress a material can withstand before it breaks. It is normally calculated using the original cross-sectional area.
+
+**What is the difference between the elastic limit and the limit of proportionality?**
+The limit of proportionality is where force stops being proportional to extension. The elastic limit is the point beyond which the material no longer returns to its original shape when the force is removed.
+
+**Which sections of OCR A Level Physics A cover springs and the Young modulus?**
+They are sections 3.4.1 Springs and 3.4.2 Mechanical properties of matter of OCR H556. The Young modulus measurement links to practical activity group 2.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Sections 3.4.1 Springs and 3.4.2 Mechanical properties of matter.

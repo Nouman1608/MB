@@ -217,6 +217,23 @@ This avoids the constant σ and often reduces the arithmetic. For the star above
 - Taking the fourth root or the square root in the wrong place when rearranging for r or T.
 - Saying absorbed photons disappear. They are re-emitted in random directions.
 
+## Frequently asked questions
+
+**What is Stefan's law?**
+Stefan's law states that a star's luminosity is L = 4πr²σT⁴, where r is its radius and T its surface temperature. Doubling T at fixed radius multiplies the luminosity by 16.
+
+**What is the luminosity of a star?**
+Luminosity is the total power radiated by a star over all wavelengths, measured in watts.
+
+**How do you estimate the radius of a star?**
+Use Wien's law to find the surface temperature from the peak wavelength, then rearrange Stefan's law to r = √(L/(4πσT⁴)) using the known luminosity.
+
+**Why do stars show absorption spectra?**
+The hot interior gives a continuous spectrum, and cooler gas in the star's atmosphere absorbs photons whose energies match its atoms' energy gaps. The atoms re-emit in random directions, so dark lines appear.
+
+**How is the wavelength of an emitted photon linked to energy levels?**
+When an electron drops between levels, it emits one photon carrying the whole energy difference, so hc/λ = ΔE. A bigger energy gap gives a shorter wavelength.
+
 ## Official syllabus
 
 This page follows section 5.5.2 of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR.

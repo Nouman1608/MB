@@ -140,6 +140,20 @@ These questions cover section 4.4.3 (Superposition) of the OCR Advanced GCE in P
 - Rounding the highest grating order up.
 - Deriving λ = ax/D without stating that a ≪ D.
 
+## Frequently asked questions
+
+**What are the most common mistakes in interference questions?**
+Common errors include defining coherence as "same phase" instead of a constant phase difference, counting maxima instead of the spacings between them, and leaving a in mm or λ in nm. Using sin θ ≈ tan θ for grating angles also loses marks.
+
+**How do you decide whether a point is loud or quiet in a two-source experiment?**
+Work out the path difference and express it in wavelengths. For sources in phase, a whole number of wavelengths gives a loud point and an odd number of half wavelengths gives a quiet point; a conclusion without the path difference in wavelengths does not earn full marks.
+
+**What changes if the two sources are in antiphase?**
+The conditions swap: a path difference of a whole number of wavelengths gives destructive interference, and an odd number of half wavelengths gives constructive interference. Forgetting to swap them is a common error.
+
+**What must you state when deriving λ = ax/D?**
+State that the slit separation a is much smaller than the slit-to-screen distance D, so the small-angle approximation applies. Leaving out this condition loses a mark.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ocr-a-level-physics-superposition-interference-and-the-double-slit-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-superposition-interference-and-the-double-slit/).

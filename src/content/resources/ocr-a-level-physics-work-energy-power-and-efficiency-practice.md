@@ -148,6 +148,20 @@ These questions cover section 3.3 (Work, energy and power) of the OCR Advanced G
 - Giving an efficiency above 100%, or leaving it without a percentage sign.
 - Rounding intermediate values and drifting from the correct answer. Carry full values and round at the end.
 
+## Frequently asked questions
+
+**What are the most common mistakes in work and energy questions?**
+Common errors include using Fx instead of Fx cos θ, using the length of a slope where the vertical height belongs in mgh, forgetting to square the speed in ½mv², and leaving out the energy dissipated by friction.
+
+**What must a derivation of kinetic energy or P = Fv include?**
+State the starting condition, such as starting from rest or moving at constant speed, and include the line linking the work done to the energy gained. Leaving out either step loses marks.
+
+**How should you give an efficiency answer?**
+Give efficiency as a percentage with a percentage sign, or clearly as a fraction, and check it is not above 100%.
+
+**Should you round values during an energy calculation?**
+No. Carry full values through the working and round only at the end, otherwise the final answer can drift from the correct value.
+
 ## Next steps
 
 - Go over the [revision notes](/resources/ocr-a-level-physics-work-energy-power-and-efficiency-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-work-energy-power-and-efficiency/).

@@ -185,6 +185,20 @@ Temperature ratio: star P peaks at 400 nm and star Q at 1200 nm. Q is three time
 - Describing absorption as "the photons disappear" without saying they are re-emitted in random directions.
 - Claiming one matching line proves an element is present, rather than a full set of lines.
 
+## Frequently asked questions
+
+**Why are electron energy levels negative?**
+The zero of energy is defined as an electron that has just escaped the atom. A bound electron has less energy than a free one, so its energy levels are below zero, with the ground state the most negative.
+
+**What is the difference between emission and absorption spectra?**
+An emission line spectrum is bright lines on a dark background from a hot, low-pressure gas. An absorption line spectrum is dark lines across a continuous spectrum, produced when light passes through a cooler gas.
+
+**What is Wien's displacement law?**
+Wien's displacement law states that the peak wavelength λmax is inversely proportional to the surface temperature in kelvin, so λmax T is constant. It is used to estimate the surface temperature of a star.
+
+**Which section of OCR A Level Physics A covers stellar spectra and Stefan's law?**
+It is section 5.5.2 (Electromagnetic radiation from stars), outcomes (a) to (k), of OCR H556, which also draws on photons (4.5) and wave motion (4.4.1).
+
 ## Official syllabus
 
 This page follows section 5.5.2 of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR.

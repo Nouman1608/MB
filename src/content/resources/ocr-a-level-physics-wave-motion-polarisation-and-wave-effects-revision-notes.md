@@ -187,6 +187,20 @@ A displacement-distance graph shows a wave with crests at x = 0.10 m and x = 0.5
 - In ripple tank method answers, not saying how the pattern was frozen or how the magnification was dealt with.
 - Calling a graph peak of a longitudinal wave a compression.
 
+## Frequently asked questions
+
+**What is the difference between transverse and longitudinal waves?**
+In a transverse wave the oscillations are perpendicular to the direction of energy transfer, as in electromagnetic waves. In a longitudinal wave the oscillations are along the direction of energy transfer, producing compressions and rarefactions, as in sound.
+
+**How do you calculate phase difference between two points on a wave?**
+Points a distance x apart have a phase difference of x/λ of a cycle, which is 360x/λ degrees or 2πx/λ radians. Points one wavelength apart are in phase, and points half a wavelength apart are in antiphase.
+
+**How does intensity change with distance from a point source?**
+For a point source radiating equally in all directions, I = P/(4πr²), so the intensity falls to a quarter when the distance doubles.
+
+**Which section of OCR A Level Physics A covers wave motion?**
+It is section 4.4.1 Wave motion, statements (a) to (g), in Module 4 of OCR H556. Module 4 is assessed in Exploring physics (component 02) and Unified physics (component 03).
+
 ## Official syllabus
 
 OCR A Level in Physics A (H556) specification, Version 3.0 (March 2026), first assessment 2017, published by OCR: section 4.4.1 Wave motion, statements (a) to (g).

@@ -246,6 +246,23 @@ A CAT scan usually gives a larger dose of ionising radiation than a plain image,
 - Describing Compton scattering as absorption. The photon survives.
 - Forgetting that a CAT scan needs a computer: the detectors alone do not form the image.
 
+## Frequently asked questions
+
+**Why is tungsten used as the target in an X-ray tube?**
+Tungsten has a high atomic number and a very high melting point. It is set into a copper anode, which conducts away the large amount of thermal energy produced.
+
+**Why do bones show up on an X-ray image?**
+Bone contains calcium, which has a higher atomic number than the hydrogen, carbon and oxygen of soft tissue. It absorbs X-rays far more strongly through the photoelectric effect, so less radiation reaches the detector behind it.
+
+**What are barium and iodine contrast media used for?**
+A contrast medium has a high atomic number and absorbs X-rays strongly, outlining the organ it fills. Barium sulfate is swallowed or given as an enema to show the gut, and iodine compounds are injected to show blood vessels or the kidneys.
+
+**How does a CAT scanner work?**
+A rotating X-ray tube sends a thin fan-shaped beam through a slice of the body, and a ring of detectors records the transmitted intensity from many angles. Computer software finds the attenuation of each small volume and displays the slice as a grey-scale image.
+
+**What are the advantages of a CAT scan over an X-ray image?**
+A CAT scan gives cross-sectional slices with no overlapping structures, shows small differences in attenuation so soft tissue detail is better, and can be combined into a 3D view. It usually gives a larger radiation dose and the scanners are expensive.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), Version 3.0 (March 2026), for first assessment in 2017, section 6.5.1, published by OCR.
