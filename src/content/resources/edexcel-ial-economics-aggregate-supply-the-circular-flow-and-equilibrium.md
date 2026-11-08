@@ -240,6 +240,20 @@ With classical LRAS at output 1,200, AD (1,400 − 4P) gives long-run price leve
 - Drawing a classical LRAS and then saying AD raises output in the long run.
 - Quoting a percentage change without showing the base value.
 
+## Frequently asked questions
+
+**How does a fall in the exchange rate affect short-run aggregate supply?**
+A lower exchange rate raises the home-currency price of imported inputs such as fuel. Firms' unit costs rise, so SRAS shifts to the left.
+
+**Does a rise in AD always increase real output?**
+No. A rise in AD raises output only if there is spare capacity. On the vertical section of the Keynesian curve, or with classical LRAS in the long run, it mainly raises the price level.
+
+**How does net migration affect long-run aggregate supply?**
+More working-age people, or a net inflow of workers, raises the labour force and so the economy's productive capacity, shifting LRAS to the right.
+
+**Which Edexcel International A Level Economics sections cover aggregate supply and the circular flow?**
+Section 2.3.3 covers aggregate supply and section 2.3.4 covers the circular flow and equilibrium real output in the Pearson Edexcel International A Level Economics specification. The multiplier in 2.3.4 is taught in a separate unit.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited: Unit 2, sections 2.3.3 and 2.3.4.

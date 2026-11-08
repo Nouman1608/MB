@@ -263,6 +263,23 @@ To evaluate, weigh intended benefits against side effects, cost, time and who ga
 - Forgetting that the consumer's price and the producer's receipt differ once a tax or subsidy exists.
 - Describing intervention without a drawback, or ending with no judgement.
 
+## Frequently asked questions
+
+**Why do governments intervene in a mixed economy?**
+A pure market can fail: it under-provides public and merit goods and over-provides demerit goods. Section 2.11 of the Cambridge O Level Economics syllabus covers the ways governments intervene.
+
+**When does a maximum price have an effect?**
+Only when it is set below the equilibrium price. A ceiling set above equilibrium changes nothing, because the market price is already lower.
+
+**What problems can a maximum price cause?**
+A maximum price set below equilibrium creates a shortage, which can lead to rationing by queues or favouritism, falling quality, less incentive to supply and black markets.
+
+**What happens when a government sets a minimum exchange rate above equilibrium?**
+There is an excess supply of the currency at that rate. Holding the rate needs enough foreign reserves to buy the excess, and it cannot last if the reserves run out.
+
+**Why do governments subsidise some goods?**
+Subsidies lower producers' costs, so supply increases and the price falls. They are used to encourage merit goods and goods with external benefits and to support infant industries, but they cost the government money.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281 syllabus for examination in 2026, published by Cambridge University Press and Assessment (Cambridge International Education), section 2.11.

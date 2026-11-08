@@ -278,6 +278,20 @@ Build a judgement with "it depends on...", then say which condition is most like
 - Drawing a diagram and not labelling axes, curves and equilibrium points.
 - Writing "output rises" without saying whether that is real output.
 
+## Frequently asked questions
+
+**What is the difference between short-run and long-run aggregate supply?**
+In the short run at least one factor, usually capital, is fixed, so SRAS shifts with costs such as raw materials, exchange rates and tax rates. In the long run all factors can change, so LRAS reflects productive capacity.
+
+**Does better education shift SRAS or LRAS?**
+Better education and skills raise the quality of labour and productivity, so they shift LRAS. Listing them as a shift of SRAS is a common error.
+
+**What is the difference between income and wealth?**
+Income is a flow, an amount received per period such as a year. Wealth is a stock, the value of assets held at a point in time.
+
+**What happens to output and the price level when SRAS shifts left?**
+A leftward shift of SRAS, for example after a cost shock, lowers real output and raises the price level.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited: Unit 2, sections 2.3.3 and 2.3.4.

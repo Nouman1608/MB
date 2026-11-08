@@ -250,6 +250,20 @@ For each benefit, state the link and then a limit.
 
 Next: use the [revision notes](/resources/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth-revision-notes/) to memorise, then the [practice questions](/resources/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth-practice/). For essay technique see [exam preparation](/resources/edexcel-ial-economics-exam-preparation/).
 
+## Frequently asked questions
+
+**What are the risks of export-led growth?**
+Heavy reliance on exports leaves a country exposed to a fall in foreign demand, so a slowdown abroad can quickly cut growth at home.
+
+**How do you work out each component's contribution to growth?**
+Divide the change in each component of AD by the previous year's real GDP. The contributions, in percentage points, add up to the total growth rate.
+
+**How does competition promote potential growth?**
+Competition pressures firms to cut waste, reducing X-inefficiency, and to invest and innovate, which raises productivity and the economy's productive capacity.
+
+**Which Edexcel International A Level Economics statements cover economic growth?**
+The first three statements of 2.3.5 Economic growth in the Pearson Edexcel International A Level Economics specification. Output gaps and the multiplier have their own statements.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018, Pearson Education Limited: Unit 2, section 2.3.5 Economic growth, statements 1 to 3.

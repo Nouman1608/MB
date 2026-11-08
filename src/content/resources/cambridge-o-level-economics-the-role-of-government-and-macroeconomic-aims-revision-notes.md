@@ -250,6 +250,20 @@ A target such as "annual inflation between 1% and 3%" can be tested. It lets vot
 - Giving a discussion with no judgement, or a judgement not tied to the case.
 - Giving a role of government at the wrong level, such as naming defence as a local role.
 
+## Frequently asked questions
+
+**How do you calculate the inflation rate from a price index?**
+Subtract the old index from the new one, divide by the old index and multiply by 100. For example, a rise from 112.0 to 115.36 is inflation of 3.0%.
+
+**Why should you use real GDP rather than nominal GDP to measure growth?**
+Nominal GDP includes the effect of rising prices. Real GDP removes inflation, so it shows the change in the actual output of goods and services.
+
+**What does balance of payments stability mean?**
+It means money flowing out is not persistently far above or below money flowing in. It does not require a perfect balance every year.
+
+**What does each level of government do?**
+Local government provides services for one community, national government makes laws, runs defence and sets tax and spending, and international action deals with problems no single country can solve, such as a shared fish stock.
+
 ## Official syllabus
 
 Source: Cambridge O Level Economics 2281 syllabus, for examination in 2026, version 2, from Cambridge University Press & Assessment (Cambridge International). Content points: 4.1.1, 4.2.1, 4.2.2.

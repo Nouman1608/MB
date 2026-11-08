@@ -141,6 +141,20 @@ These questions cover sections 2.3.3 and 2.3.4 items 1 to 3 of the Pearson Edexc
 - Leaving out axes, curve labels or equilibrium points on a diagram.
 - Writing a long answer on question 11 with no judgement at the end.
 
+## Frequently asked questions
+
+**Is saving an injection or a withdrawal?**
+Saving is a withdrawal from the circular flow, as are taxation and imports. The injections are investment, government expenditure and exports.
+
+**Does a rise in the price level shift the AS curve?**
+No. A change in the general price level causes a movement along the AS curve. Anything else that changes firms' costs or productive capacity shifts it.
+
+**Why should you write "aggregate supply" rather than "supply"?**
+Aggregate supply is the planned real output of all firms in the economy at each price level. Writing "supply" mixes up market and macroeconomic ideas, which loses marks in Edexcel International A Level Economics.
+
+**What must a diagram on AD and AS include?**
+Label the axes (price level and real output), each curve and each equilibrium point. Missing labels are one of the listed ways marks are lost.
+
 ## Next steps
 
 - Check your recall with the [revision notes](/resources/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium-revision-notes/).

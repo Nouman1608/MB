@@ -194,6 +194,20 @@ A balanced answer ends with a judgement: which measure is likely to work best in
 - Leaving out units or the "× 100" in percentage calculations.
 - Using a real-world statistic you are unsure of, instead of reasoning from the information given.
 
+## Frequently asked questions
+
+**How can changes to benefits improve the incentive to work?**
+If the benefit system is changed so that a person who takes a job is clearly better off than on benefits, more people are encouraged to work. This is one of the supply-side measures in section 4.5.2 of Cambridge O Level Economics 2281.
+
+**Is higher government spending a supply-side policy?**
+Not on its own. A general spending boost or a cut in interest rates mainly raises spending now, which is fiscal or monetary policy. A policy is supply-side if it makes workers more skilled, firms more willing to invest or markets more competitive.
+
+**Why does supply-side policy take a long time to work?**
+Skills, investment and habits take time to change, so most measures take years to raise output. Fiscal and monetary policy usually act more quickly on spending.
+
+**Can supply-side policy increase income inequality?**
+Yes. Lower direct taxes and weaker worker protection can widen inequality, so a gain in growth can come with a less equal distribution of income.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), Cambridge University Press & Assessment, section 4.5.

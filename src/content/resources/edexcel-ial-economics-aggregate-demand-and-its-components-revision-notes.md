@@ -234,6 +234,20 @@ End each evaluation with a verdict and say what would change it.
 - Evaluating with a list of generic "it depends" phrases rather than a named factor such as spare capacity or elasticity.
 - Leaving out the diagram's axis labels.
 
+## Frequently asked questions
+
+**What is the formula for aggregate demand?**
+AD = C + I + G + (X − M): household consumption, investment by firms, government spending on goods and services, and net trade (exports minus imports).
+
+**What is the difference between gross and net investment?**
+Gross investment is total spending on capital goods. Net investment is gross investment minus depreciation, so it shows whether the capital stock is growing.
+
+**Is a rise in the savings ratio good or bad for the economy?**
+It can be either. In the short run a higher ratio lowers consumption, AD, output and jobs. In the longer run it gives banks more funds to lend, which can lower interest rates and support investment.
+
+**What causes a movement along the AD curve rather than a shift?**
+Only a change in the general price level causes a movement along the AD curve. A change in any component of AD caused by something else, such as confidence or interest rates, shifts the curve.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018, Pearson Education Limited. Section 2.3.2, Aggregate demand (AD).

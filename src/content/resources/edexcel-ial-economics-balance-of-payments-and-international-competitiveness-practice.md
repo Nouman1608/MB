@@ -120,6 +120,20 @@ These questions cover statements 1 and 3 of 4.3.3 Balance of payments, exchange 
 - Offering two points that are really one in a "two reasons" question.
 - Evaluating with unsupported phrases such as "it depends" and no stated condition.
 
+## Frequently asked questions
+
+**What should you say when you mention a balance of payments deficit?**
+Say which account is meant, usually the current account. Writing "balance of payments deficit" without naming the account loses marks, because the overall balance of payments always balances.
+
+**How do you calculate a relative measure such as relative productivity?**
+Divide the country's own figure by the rival's figure, in a common currency where relevant. Dividing the rival's figure by your own country's figure is a common error.
+
+**Why must unit labour cost comparisons allow for the exchange rate?**
+Unit labour costs must be compared in a common currency. A change in the exchange rate can offset or add to a change in costs, so comparing them without it gives the wrong answer.
+
+**How do you write a strong "two reasons" answer in Edexcel International A Level Economics?**
+Give two genuinely different reasons, each with a chain of reasoning to the balance or to competitiveness. Two points that are really the same reason earn credit only once.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-economics-balance-of-payments-and-international-competitiveness-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-balance-of-payments-and-international-competitiveness/).

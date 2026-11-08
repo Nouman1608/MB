@@ -168,6 +168,20 @@ These questions cover section 2.11 of the Cambridge O Level Economics syllabus f
 - Listing advantages and drawbacks of privatisation without explaining why they happen.
 - Ending an evaluation without a judgement tied to the case.
 
+## Frequently asked questions
+
+**How do you find the size of a shortage under a maximum price?**
+Work out quantity demanded and quantity supplied at the controlled price and take the gap between them. Using the equilibrium quantity instead of this gap is a common error in Cambridge O Level Economics questions.
+
+**Does a minimum price cause a shortage or a surplus?**
+A minimum price set above equilibrium causes a surplus, because quantity supplied exceeds quantity demanded. A maximum price set below equilibrium causes a shortage.
+
+**After an indirect tax, which price do consumers pay?**
+Consumers pay the new market price. Producers receive the market price minus the tax, so giving the producer's receipt as the market price is a mistake.
+
+**What should an evaluation of privatisation include?**
+Explain why each advantage or drawback happens, such as the profit motive driving efficiency or a private monopoly raising prices, and end with a judgement tied to the case.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention/) and [revision notes](/resources/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention-revision-notes/).

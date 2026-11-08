@@ -250,6 +250,20 @@ Ex-factory price 60, freight 15, tariff 20% on the sum. Landed price = 75 x 1.20
 - Giving only benefits or only costs.
 - Stopping at a list instead of a final judgement with a reason.
 
+## Frequently asked questions
+
+**How do trading blocs contribute to globalisation?**
+A trading bloc removes or reduces tariffs between its members, so trade between them becomes cheaper. The growing number and size of blocs is one of the causes of globalisation named in the Edexcel specification.
+
+**Is transfer pricing illegal?**
+Not by definition. Transfer pricing is setting the internal price between parts of the same company in different countries. It becomes a problem for host governments when it is used to shift profit to low-tax countries and cut tax revenue.
+
+**Is FDI always good for the host country?**
+No. FDI can bring capital, jobs and technology, but profits may be repatriated, local firms crowded out and a footloose TNC may leave, so weigh both sides.
+
+**Why can globalisation increase inequality within a country?**
+Skilled workers and owners of capital may gain more from trade and FDI than less-skilled workers, some of whom lose jobs in industries that cannot compete.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, first assessment June 2020, published by Pearson Education Limited: section 4.3.1, Causes and effects of globalisation.

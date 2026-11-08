@@ -206,6 +206,20 @@ Use a short chain: aim, mechanism, result, drawback, judgement.
 - Giving only advantages of privatisation or only drawbacks of nationalisation.
 - Ending an evaluation without a judgement tied to the case.
 
+## Frequently asked questions
+
+**Does a minimum wage cause a labour shortage?**
+No. A minimum wage set above equilibrium causes unemployment, because more people want to work at that wage than firms want to employ.
+
+**How do you calculate government revenue from an indirect tax?**
+Multiply the tax per unit by the new quantity traded after the tax, not the old quantity.
+
+**Does the price rise by the full amount of an indirect tax?**
+Usually not. The burden is shared between consumers and producers, and the side with the more inelastic curve bears more of it.
+
+**Which way does the supply curve shift for a tax or a subsidy?**
+An indirect tax shifts supply left (up) by the amount of the tax. A subsidy shifts supply right (down) by the amount of the subsidy.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281 syllabus for examination in 2026, published by Cambridge University Press and Assessment (Cambridge International Education), section 2.11.
