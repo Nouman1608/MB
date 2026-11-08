@@ -12,6 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-2-1-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-2-2-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-3-1-0495"
 description: "Research methods, identity (self and society), and social stratification and inequality -- the full content of Paper 1 for Cambridge IGCSE Sociology 0495, 2025-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
