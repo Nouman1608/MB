@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-drama-and-poetry-9695"
     subtopic: "section-b-poetry-9695"
-description: "Condensed recall notes on Paper 1's structure, timing, question choices and assessment objectives for Cambridge International A Level English Literature 9695, 2024-2026 series."
+description: "Condensed notes on Paper 1 Drama and Poetry: format, timing, (a) and (b) questions and AO1 to AO4, for Cambridge International A Level Literature 9695."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened and FAQ added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -98,6 +100,21 @@ Naming a technique earns little; the mark is in the **effect**. A few reliable p
 - Naming a technique (e.g. "enjambment") without explaining its effect.
 - Spending unequal time on the two sections and rushing the second answer.
 - Giving no personal, independent line of interpretation (AO3) — agreeing with "the obvious" reading only.
+
+## Frequently asked questions
+
+**How long is Paper 1 and how is it marked?**
+Paper 1 lasts 2 hours and is worth 50 marks, with 25 marks for Section A (Drama) and 25 for Section B
+(Poetry). It is 50% of the AS Level and 25% of the full A Level.
+
+**Which assessment objectives does Paper 1 test?**
+AO1 to AO4, each worth 25% of the paper. AO5 (evaluation of opinion) is assessed only on the A Level
+Papers 3 and 4.
+
+**Which texts are set?**
+Set texts change by examination year. The [Paper 1 study guide](/resources/a-level-english-literature-paper-1-drama-and-poetry/)
+lists the drama and poetry texts for 2026 and 2027.
+
 
 ## Self-test
 

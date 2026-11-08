@@ -79,6 +79,24 @@ Set texts rotate. Always check the list for your own examination year.
 | Shakespeare, *Selected Sonnets* | Poetry | Okara, selected poems from *Collected Poems* (2016) | Poetry |
 | Whitman, selected poems from *Leaves of Grass* (1891–1892) | Poetry | Trethewey, *Native Guard* | Poetry |
 
+## Set texts for examination in 2027
+
+From June 2027 the list comes from the 9695 syllabus for 2027 and 2028.
+Poetry texts are marked (P).
+
+| Section A: Pre-1900 | Section B: Post-1900 |
+|---|---|
+| Austen, *Mansfield Park* | Bishop, selected poems from *Poems* (P) |
+| Byron, selected poems from *Selected Poetry* (P) | Coetzee, *Waiting for the Barbarians* |
+| Chaucer, *The Wife of Bath's Prologue and Tale* (P) | Mansfield, *Selected Stories* |
+| Eliot, *Middlemarch* | Okara, selected poems from *Collected Poems* (2016) (P) |
+| Hardy, *Jude the Obscure* | Powers, *The Overstory* |
+| Shakespeare, *Selected Sonnets* (P) | Vuong, selected poems from *Night Sky with Exit Wounds* (P) |
+
+*Pride and Prejudice*, Whitman, Glück, *Beloved* and *Native Guard* are
+not set for 2027.
+
+
 ## The five assessment objectives
 
 At A Level each AO is worth 20%, and on Paper 4 each is 20% of the paper.

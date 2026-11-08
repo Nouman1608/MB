@@ -103,6 +103,31 @@ Allocate time in proportion to marks. Spend the first five or so minutes of each
 
 Pay attention to the wording of the question. "How does the writer present..." asks about methods and effects; "To what extent..." invites a balanced argument and a judgement; "Explore" invites a range of ideas supported by evidence. Include the question's key terms in your opening sentence and again in your conclusion so that the examiner can see you are answering what was asked.
 
+## Which set texts are on Paper 4?
+
+You study one pre-1900 text (Section A) and one post-1900 text (Section B), and one of the two must
+be poetry and the other prose. For 2026 the pre-1900 texts are *Pride and Prejudice*, *The Wife of
+Bath's Prologue and Tale*, *Middlemarch*, *Jude the Obscure*, Shakespeare's *Selected Sonnets* and
+Whitman's *Leaves of Grass* selection; the post-1900 texts are *Waiting for the Barbarians*, Glück's
+*The Wild Iris*, Mansfield's *Selected Stories*, *Beloved*, Okara's *Collected Poems* selection and
+*Native Guard*. For 2027, *Mansfield Park* and a Byron selection replace *Pride and Prejudice* and
+Whitman, and Elizabeth Bishop, Richard Powers's *The Overstory* and Ocean Vuong replace Glück,
+*Beloved* and *Native Guard*. The [Paper 4 revision notes](/resources/a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-revision-notes/)
+set both lists out in tables.
+
+## Frequently asked questions
+
+**Is Paper 4 part of the AS Level?**
+No. Paper 4 is an A Level paper worth 25% of the full A Level, taken with Paper 3.
+
+**Can I write two poetry essays?**
+No. One answer must be on a poetry text and the other on a prose text, each from a different section.
+
+**Is AO5 assessed on Paper 4?**
+Yes. Each of AO1 to AO5 carries 20% of Paper 4, so you should discuss and evaluate other readings of
+your texts.
+
+
 ## Check your understanding
 
 1. Name two features of structure to comment on in a poem. (For example stanza pattern and the turn in thought, or enjambment and rhyme.)

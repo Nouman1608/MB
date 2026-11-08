@@ -43,6 +43,11 @@ set text between an essay question and a passage-based question. The texts used 
 in the syllabus, because they change. The exam-format page linked above covers the paper's structure and assessment
 objectives; this page gives text-based questions with indicative content.
 
+**Using these questions for 2027.** In the 9695 syllabus for 2027 and 2028, *Hamlet* and *Long
+Day's Journey Into Night* are replaced by *Henry IV, Part 1* and *Our Country's Good*. If you sit
+Paper 3 in 2027, use the method here with your own 2027 set texts.
+
+
 ## How should you use these questions?
 
 Choose one Section A and one Section B question and write each in about an hour, as in the exam. Then compare your
