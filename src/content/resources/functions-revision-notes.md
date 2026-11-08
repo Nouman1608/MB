@@ -16,14 +16,25 @@ syllabusTopics:
 description: "Condensed recall notes on function notation, domain and range, composite and inverse functions for Cambridge O Level Mathematics 4024."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: added a 4024 syllabus-coverage table (2.12.1 to 2.12.3 and notes), a direct opening naming the syllabus, and an FAQ section. Please re-review."
+reviewNeeded: true
 ---
 
-Condensed for the final weeks. For worked examples, use the
+Functions are subtopic 2.12 of Cambridge O Level Mathematics (Syllabus D) 4024: use function notation, understand domain and range, find inverse functions and form composite functions. These notes are condensed for the final weeks. For worked examples, use the
 [Functions study guide](/resources/functions/).
+
+## What does the 4024 syllabus require?
+
+| 4024 outcome | What you must do |
+|---|---|
+| 2.12.1 | Understand functions, domain and range, and use function notation, e.g. f(x) = 3x − 5, h(x) = 2x² + 3 |
+| 2.12.2 | Understand and find inverse functions f⁻¹(x) |
+| 2.12.3 | Form composite functions as defined by gf(x) = g(f(x)), giving answers as a fraction in its simplest form where needed |
+| Notes | Mapping diagrams may be used; you are not expected to find the domains and ranges of composite functions |
 
 ## Notation
 
@@ -129,6 +140,17 @@ one-to-one over the given domain; a full parabola is not, but half of
 one (with a domain restriction) can be.
 - Stating the range when a question asks for the domain, or vice versa —
 read the question twice if the two get mixed up under time pressure.
+
+## Frequently asked questions
+
+**What is the difference between domain and range?**
+The domain is the set of inputs a function is allowed to take; the range is the set of outputs it produces. A denominator that would be zero or a negative number under a square root restricts the domain.
+
+**Which function acts first in fg(x)?**
+g acts first, then f. Work from the inside out: fg(x) = f(g(x)).
+
+**How do I check an inverse function?**
+Substitute a number into f, then put the answer into f⁻¹: you should get the number back. Algebraically, f(f⁻¹(x)) = x.
 
 For fuller worked examples of every case above, see the
 [Functions study guide](/resources/functions/); for exam-style questions
