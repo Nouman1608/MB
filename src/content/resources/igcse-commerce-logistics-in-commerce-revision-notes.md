@@ -99,6 +99,12 @@ yourself with the [logistics practice questions](/resources/igcse-commerce-logis
 | Cash and carry | Wholesale warehouse where retailers pay and collect | Small shopkeepers |
 | Regional distribution centre (RDC) | Large hub serving a chain's shops in a region | Supermarket chains |
 
+**Worked example.** A supermarket chain imports frozen fish and runs 40 stores in one region.
+- Frozen fish must stay frozen from port to shelf, so it needs **cold storage**.
+- Supplying 40 stores from one large hub, rather than separate deliveries from each supplier, points to
+  an **RDC** with a cold-storage section. The chain receives full loads in bulk, then sends mixed loads to
+  each store, which cuts the number of journeys and keeps stock levels matched to each store's demand.
+
 ## How does automation change warehousing?
 
 - **Uses**: robotics (moving and picking), automated sorting (conveyors and scanners), voice picking
@@ -121,6 +127,10 @@ right quantity of goods to the right place at the right time.
 
 **Why do importers use bonded warehouses?** Customs duty is paid only when goods leave the warehouse, so
 the importer can delay payment, or avoid it if the goods are re-exported.
+
+**Is transshipment the same as containerisation?** No. Containerisation is the use of standard-sized
+containers. Transshipment is the transfer of those containers from one ship or vehicle to another at a hub
+on the way. Containers make transshipment quick, because the goods inside are never unpacked.
 
 **What is logistics postponement?** Delaying final steps such as labelling or packing until orders are
 known, often at a warehouse near the customer, so stock matches demand.

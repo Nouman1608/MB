@@ -74,6 +74,33 @@ in the base year, 2024, are:
 is not in the index. Give two reasons why the index in 4(c) may no longer measure the
 change in the bakery's costs accurately. **[2]**
 
+**6.** The price of a monthly mobile data package was Rs 1 500 in 2022. Its price
+relative for 2025, with 2022 as the base year, is 84.
+
+(a) State what the price relative of 84 tells you about the price of the package. **[1]**
+
+(b) Calculate the price of the package in 2025. **[1]**
+
+**7.** The cost-of-living index in Question 3 was 114.5 in 2025 (2020 = 100). In 2024
+the same index was 108.0.
+
+(a) A household in the city spent Rs 60 000 a month in 2020 on the goods and services
+in the index. Estimate the monthly cost in 2025 of buying the same goods and
+services. **[1]**
+
+(b) Calculate the percentage increase in prices from 2024 to 2025. **[2]**
+
+(c) A student says prices rose by 6.5% from 2024 to 2025. Explain the error. **[1]**
+
+**8.** A new survey of the city in Question 3 finds that households now spend a larger
+share on transport. The index is recalculated with the same price relatives but new
+weights: food 35, housing 30, transport 25, other 10.
+
+(a) Calculate the index with the new weights. **[2]**
+
+(b) Explain why the index has changed, and what has caused the change in the
+weights. **[2]**
+
 ---
 
 ## Answers
@@ -106,6 +133,26 @@ sugar 36 ÷ 30 × 100 = **120** [2] (1 mark for two correct).
 - Margarine is now part of the bakery's costs but is not in the index at all [1].
 - The index assumes the same quantities are bought each year, so it does not reflect the bakery switching to a cheaper ingredient [1].
 
+**6.** (a) The package cost 84% of its 2022 price in 2025: its price **fell by 16%** [1].
+
+(b) 1 500 × 84 ÷ 100 = **Rs 1 260** [1].
+
+**7.** (a) 60 000 × 114.5 ÷ 100 = **Rs 68 700** a month [1].
+
+(b) Increase = 114.5 − 108.0 = 6.5 index points [1];
+6.5 ÷ 108.0 × 100 = **6.0%** (to 1 decimal place) [1].
+
+(c) 6.5 is the rise in index points, measured against the 2020 base. The percentage
+change must be found relative to the 2024 value of 108.0, not 100 [1].
+
+**8.** (a) 35 × 118 + 30 × 106 + 25 × 124 + 10 × 110 = 4 130 + 3 180 + 3 100 + 1 100
+= 11 510 [1]; 11 510 ÷ 100 = **115.1** [1].
+
+(b) Transport, whose price relative (124) is above the old index (114.5), now carries
+more weight, and food (118) carries less, so the index rises [1]. The weights changed
+because households changed their consumption, spending a larger share of their
+budget on transport [1].
+
 ---
 
 ## Where marks are usually lost
@@ -116,6 +163,8 @@ sugar 36 ÷ 30 × 100 = **120** [2] (1 mark for two correct).
   expenditure (price × quantity).
 - Dividing by the number of items instead of by the sum of the weights.
 - In 3(b), saying prices rose by 114.5%.
+- In 7(b), giving the change in index points (6.5) as a percentage, or dividing
+  by 100 instead of by the 2024 index.
 - In Question 5, writing general limitations ("weights change") without saying
   which weight and why.
 

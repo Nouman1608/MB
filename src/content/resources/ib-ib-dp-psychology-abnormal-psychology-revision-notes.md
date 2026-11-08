@@ -78,6 +78,15 @@ Clinical biases: confirmation bias, cultural bias, gender bias, and **somatisati
 
 Assessing effectiveness: randomised controlled trials, placebo control, double-blind procedures, relapse rates, meta-analysis; the placebo effect and spontaneous remission complicate interpretation.
 
+## Worked example: planning an ERQ
+
+*Question:* "Evaluate one explanation of one disorder." (22 marks)
+
+- **Focus:** the biological explanation of major depressive disorder -- genetic vulnerability and gene-environment interaction.
+- **Knowledge and understanding:** define heritability; describe Kendler et al. (2006) and Caspi et al. (2003), with aim, method, findings and conclusion.
+- **Evaluation:** twin studies cannot fully separate genes from shared environment; Caspi's finding supports a diathesis-stress view rather than genes alone; cohort data are correlational, so cause cannot be inferred; contrast with the cognitive explanation (Beck) as an alternative.
+- **Conclusion:** genes appear to raise vulnerability, but the evidence points to an interaction with life events, not a purely biological cause.
+
 ## Common mistakes / exam traps
 
 - **Discussing "abnormality" in general without a disorder.** Questions on etiology and treatment require a named disorder.
@@ -93,6 +102,9 @@ On Paper 2: three 22-mark ERQs are set on each option, and you answer one from y
 
 **Do I need more than one disorder?**
 The syllabus requires knowledge of disorders for etiology and treatment; most schools teach one in depth and refer to others briefly. Check with your teacher.
+
+**What is the difference between reliability and validity of diagnosis?**
+Reliability is whether clinicians agree on the same diagnosis (inter-rater reliability), as tested by Cooper et al. (1972). Validity is whether the diagnosis is accurate, i.e. the person really has the disorder, as questioned by Rosenhan (1973). A diagnosis can be reliable without being valid.
 
 **What earns criterion D (critical thinking)?**
 Evaluation of studies and theories -- methods, ethics, cultural limits, alternative explanations -- linked to the question.
