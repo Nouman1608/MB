@@ -92,7 +92,7 @@ directly.
 
 ## Official syllabus
 
-OCR A Level Biology A (H420) specification, for first assessment in 2017 --
+OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025 --
 [ocr.org.uk](https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf).
 
 ## Haemoglobin and the oxygen dissociation curve

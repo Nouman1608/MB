@@ -15,7 +15,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
     subtopic: "bonding-and-structure-ych11"
-description: "Revision notes for Edexcel International A Level Chemistry 3.16-3.22: shape counting, bond angles, the named ten shapes and metal properties."
+description: "Revision notes for Edexcel International A Level Chemistry 3.16-3.22: shape counting, bond angles, the seven shapes of the ten named species and metal properties."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-07
 featured: false

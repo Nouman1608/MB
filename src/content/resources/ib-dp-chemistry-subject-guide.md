@@ -63,13 +63,9 @@ sciences, combining external examination with an individual internal
 assessment, at both Standard Level and Higher Level. Paper 1 is
 weighted at 36% of the final grade and is made up of multiple-choice
 questions (Paper 1A) and data-based questions (Paper 1B) spanning the
-syllabus; Paper 2 is weighted at 44% and includes short-answer and
-extended-response answers that draw together structure and reactivity
-concepts across topics. (The Paper 1A/1B
-split is taken from the guide's assessment outline; the exact split of
-question types within Paper 2 has not been verified here -- check the
-current subject guide's assessment section for the definitive
-breakdown.) Between
+syllabus; Paper 2 is weighted at 44% and is made up of short-answer and
+extended-response questions that draw together structure and reactivity
+concepts across topics. Between
 them, the two papers account for 80% of the final mark, with SL and
 HL differing in exam length and mark totals rather than in this
 weighting split.
@@ -136,7 +132,7 @@ Structure 3 gains 15 hours (16 to 31), Reactivity 1 gains 10 hours (12
 to 22, split evenly between energy cycles and entropy and
 spontaneity), Reactivity 2 gains 10 hours (21 to 31), and Reactivity 3
 gains 21 hours (24 to 45). These are the points where SL-level
-revision habits most often under-prepare HL candidates, since it is
+revision habits can under-prepare HL candidates, since it is
 easy to assume the additional depth concentrates in only a few
 components when in practice every component carries some HL-only
 material. Confirming exactly which sub-topics within each component

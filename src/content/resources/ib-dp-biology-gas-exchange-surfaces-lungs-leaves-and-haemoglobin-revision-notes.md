@@ -216,7 +216,7 @@ Mean = 122 / 4 = 30.5. Area = pi x 0.30 x 0.30 = 0.283 mm2. Density = 30.5 / 0.2
 - Describing exhalation as always active. Quiet exhalation is passive.
 - Stating that stomata "let in" gases without naming diffusion.
 - Missing units on a lung volume, volume per minute or density.
-- Using the radius, not the diameter, when finding a field of view area.
+- Using the diameter instead of the radius in pi r² when finding a field of view area.
 - Drawing individual cells on a plan diagram.
 - Answering "high surface area" without saying what provides it.
 - Saying haemoglobin "likes" oxygen instead of using affinity.

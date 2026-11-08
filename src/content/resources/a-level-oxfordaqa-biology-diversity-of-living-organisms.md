@@ -63,11 +63,6 @@ deviation), DNA, genes and chromosomes (3.1.7), protein synthesis
 (3.1.8) and meiosis (3.1.9). Use the specification for those
 sections.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
-  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
-</figure>
-
 
 ## How to approach it
 
@@ -82,11 +77,6 @@ variation first, by chance, then selection acting on it -- belong to
 Unit 3, not Unit 1.)
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--02-three-domains.webp" width="900" height="1020" alt="A tree splits an ancestor into Bacteria, Archaea and Eukarya. Bacteria and Archaea are cells with no nucleus: Bacteria have a peptidoglycan wall and ester lipids, Archaea no peptidoglycan and ether lipids, with different rRNA. Eukarya holds four kingdoms. Viruses sit outside, classified only by nucleic acid." loading="lazy">
-  <figcaption>Three domains of cells, with viruses outside them (Cambridge only).</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
   <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
 </figure>
@@ -94,11 +84,6 @@ Unit 3, not Unit 1.)
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
   <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
-  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
 </figure>
 
 

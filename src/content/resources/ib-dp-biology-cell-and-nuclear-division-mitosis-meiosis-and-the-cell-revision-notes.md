@@ -237,7 +237,7 @@ Compare tumours by rate of division and growth, ability to invade neighbours and
 - Describing mitosis phases without naming what the chromosomes are doing.
 - Saying "the cell splits in two" for cytokinesis without naming actin and myosin or vesicles and wall.
 - Mixing up which meiotic division halves the chromosome number.
-- Saying DNA halves in meiosis I. The chromosome number halves, but each chromosome still has two chromatids.
+- Saying the DNA content stays the same in meiosis I. DNA per nucleus halves in meiosis I (8.0 to 4.0 au) and again in meiosis II; the chromosome number halves only in meiosis I, because each chromosome still has two chromatids.
 - Writing "chromosomes" instead of "chromatids" after replication.
 - Stating random orientation without saying it happens in metaphase I and is independent between bivalents.
 - Giving only "more variation" as the answer instead of the mechanism.

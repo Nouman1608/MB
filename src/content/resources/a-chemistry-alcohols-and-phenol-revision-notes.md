@@ -241,7 +241,7 @@ Count the free 2-, 4- and 6-positions to predict how many mol of Br₂ react.
    reacts with dilute HNO₃ at room temperature.
 8. An azo compound (azo dye) with an –N=N– link joining the benzene ring and the naphthol ring. The
    extended delocalised system absorbs visible light.
-9. Two: the 4- and 6-positions are free (position 2 holds CH₃). Product: 2,4-dibromo-6-methylphenol (the same compound as "4,6-dibromo-2-methylphenol" in the question's numbering; IUPAC gives bromo the lower locants because b comes before m).
+9. Two: the 4- and 6-positions are free (position 2 holds CH₃). Product: 2,4-dibromo-6-methylphenol (also correctly described as 4,6-dibromo-2-methylphenol if you keep the starting material's numbering; IUPAC gives bromo the lower locants because b comes before m).
 10. Mr(C₆H₅OH) = 6(12.0) + 6(1.0) + 16.0 = 94.0, so n = 0.940 / 94.0 = 0.0100 mol.
     Mr(C₆H₂Br₃OH) = 6(12.0) + 3(1.0) + 3(79.9) + 16.0 = 330.7. 1 : 1 ratio, so
     mass = 0.0100 × 330.7 = 3.31 g.

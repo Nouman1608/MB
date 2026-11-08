@@ -104,8 +104,8 @@ single "correct" account of the origin of cells.
 The shared and distinguishing features of cells, and specifically what separates prokaryotic from
 eukaryotic organisation. A reliable way to revise this is a direct comparison table: presence or
 absence of a membrane-bound nucleus, membrane-bound organelles, chromosome structure (circular vs
-linear), and typical cell size. Prokaryotic and eukaryotic organisation is one of the most
-frequently tested unity-vs-diversity contrasts in Theme A, precisely because it shows both a shared
+linear), and typical cell size. Prokaryotic and eukaryotic organisation is a central unity-vs-diversity
+contrast in Theme A, because it shows both a shared
 feature (all cells have a plasma membrane, cytoplasm and genetic material) and a fundamental point
 of divergence.
 

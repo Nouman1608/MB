@@ -32,6 +32,8 @@ featured: false
 
 Related: [Acids and Bases revision notes](/resources/as-chem-acids-bases-revision-notes/)
 
+**Scope:** questions 4, 5, 6, 8 and 9 (pH calculations, K<sub>a</sub> and buffers) are A Level content (9701 syllabus 25.1), not AS 7.2. At AS, pH is treated qualitatively only. They are included here for students continuing to A Level.
+
 ---
 
 ## Questions

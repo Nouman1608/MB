@@ -148,9 +148,8 @@ not just recall facts within one.
 
 If you are studying at HL, keep a running list of exactly which
 sub-topics are HL-only (marked above) as you go, since these carry
-extra weight in Papers 1 and 2 and are the material most often
-under-revised by HL students who default to SL-level depth out of
-habit.
+extra weight in Papers 1 and 2 and are easy to under-revise if you
+default to SL-level depth out of habit.
 
 ## Frequently asked questions
 

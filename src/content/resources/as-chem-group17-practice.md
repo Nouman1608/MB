@@ -114,7 +114,7 @@ The chloride precipitate **dissolves in dilute ammonia** [1]; the bromide dissol
 
 ## Where marks are usually lost
 
-- Saying volatility and reactivity trend in the same direction.
+- Explaining the fall in volatility and the fall in reactivity with the same reason: volatility depends on intermolecular forces, reactivity on how strongly the atom attracts an electron.
 - Explaining volatility by "bigger molecules" rather than number of electrons.
 - Forgetting to acidify before adding silver nitrate.
 - Not giving both oxidation state changes when justifying disproportionation.

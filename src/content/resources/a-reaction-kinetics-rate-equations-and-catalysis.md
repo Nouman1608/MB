@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review. 2026-11-08: SO₂-oxidation catalysis bullet now names NO₂ as catalyst and NO as intermediate, matching the revision notes."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -206,10 +206,11 @@ step of the mechanism and regenerated in a later step — never appearing in
 the overall balanced equation, but genuinely taking part in the reaction
 pathway.
 
-- **Atmospheric oxides of nitrogen catalysing SO₂ oxidation**: NO reacts
-  with O₂ to form NO₂, which then oxidises SO₂ to SO₃ while being reduced
-  back to NO — the NO is regenerated and can catalyse further SO₂
-  oxidation, contributing to acid rain formation.
+- **Atmospheric oxides of nitrogen catalysing SO₂ oxidation**: NO₂
+  oxidises SO₂ to SO₃ while being reduced to NO (SO₂ + NO₂ → SO₃ + NO), and
+  the NO then reacts with O₂ to re-form NO₂ (NO + ½O₂ → NO₂). NO₂ is used in
+  the first step and regenerated in the second, so it is the catalyst and NO
+  is an intermediate; the SO₃ goes on to contribute to acid rain.
 - **Fe²⁺/Fe³⁺ in the I⁻/S₂O₈²⁻ reaction**: the direct reaction between I⁻
   and S₂O₈²⁻ is slow, since both ions are negatively charged and repel each
   other. Fe²⁺ reduces S₂O₈²⁻ to give Fe³⁺ (which, being a cation, doesn't
