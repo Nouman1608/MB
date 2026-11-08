@@ -232,6 +232,20 @@ Pyrford Signs is installing a digital sign for a client. Times are in days.
 - Listing implementation factors without saying how each would help or hinder the case business.
 - Defining strategic drift as a single bad decision rather than a gradual mismatch.
 
+## Frequently asked questions
+
+**What are the five factors for successful strategy implementation?**
+The five factors are resources, the quality of planning and monitoring, leadership, communication and external factors. The first four can be managed directly, while external factors cannot be controlled.
+
+**How do you find the EST and LFT at a node?**
+On the forward pass, the earliest start time at a node is the highest of the routes into it. On the backward pass, the latest finish time is the lowest of the routes out of it.
+
+**What causes strategic drift?**
+Strategic drift can be caused by past success breeding complacency, a strong culture that treats new ideas as threats, incremental change while the environment shifts sharply, and weak scanning of customers, technology and competitors.
+
+**What is the critical path?**
+The critical path runs through the activities with zero total float and is the longest route through the network. Its length is the minimum project duration.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

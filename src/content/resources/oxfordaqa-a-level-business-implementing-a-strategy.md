@@ -251,6 +251,23 @@ The new critical path is **A → B → E → F → G → J** (3 + 4 + 4 + 3 + 2 
 
 Next: [practice questions](/resources/oxfordaqa-a-level-business-implementing-a-strategy-practice/) and [case-study technique for 9725](/resources/oxfordaqa-a-level-business-exam-preparation/).
 
+## Frequently asked questions
+
+**What is strategic drift?**
+Strategic drift is a gradual mismatch between a firm's strategy and its changing environment. It happens when a business keeps making small changes to its existing approach while customers, technology or competitors move faster, so performance slips slowly and then sharply.
+
+**How do you calculate total float in network analysis?**
+Total float is the latest finish time at the end node minus the activity's duration minus the earliest start time at the start node. Activities with zero total float are critical.
+
+**Why do strategies fail?**
+Strategies can fail through poor choice, such as weak analysis or over-optimistic forecasts, or through poor implementation, when any of the success factors such as resources, planning, leadership or communication is missing.
+
+**Why must mission, objectives, strategy and functional decisions link together?**
+When the links hold, functions stop making decisions that cancel each other out and money and people go to the activities that matter. When a link breaks, a sound strategy can still fail.
+
+**What is the purpose of project management?**
+Project management aims to deliver a one-off project on time, within budget and to the required quality, with a named person responsible. It turns a broad strategy into tasks with owners.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

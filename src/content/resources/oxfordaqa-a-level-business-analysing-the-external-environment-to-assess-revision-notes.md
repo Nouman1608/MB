@@ -211,6 +211,20 @@ A strong answer picks the response that fits the firm's resources and the likely
 - Analysing an external change without saying how the business could respond.
 - Ending an evaluation without judging which factor matters most and why.
 
+## Frequently asked questions
+
+**What are the six PESTLE factors?**
+The six factors are political, economic, social, technological, legal and environmental. In OxfordAQA A-level Business (9725) each factor should be judged as an opportunity or a threat for the specific business.
+
+**How do you convert a foreign cost into pounds?**
+Write the rate as £1 equals a number of foreign units, then divide the foreign cost by that number to get pounds. To find a foreign price from a pound price, multiply by the rate instead.
+
+**How do you calculate inflation from a price index?**
+Find the change in index points, then divide by the earlier index value, not by 100, and multiply by 100 to get a percentage. Compare the result with the business's own price rise to judge the change in real terms.
+
+**What does a currency appreciation do to exports and imports?**
+An appreciation makes a country's exports dearer abroad and its imports cheaper at home. A depreciation does the reverse.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

@@ -277,6 +277,23 @@ Impact: businesses must train managers, keep records and adjust rotas, which rai
 - Saying a flat structure has no managers; it has fewer levels.
 - Calling any home-based worker self-employed. Working from home is a way of working; self-employed is about who they work for.
 
+## Frequently asked questions
+
+**What is the purpose of human resources in a business?**
+The purpose of human resources is to identify and meet the human resource needs of a business. That means working out how many staff and which skills are needed and when, then recruiting, selecting, motivating, training and keeping them.
+
+**What areas of employment law are in OCR GCSE Business J204?**
+The specification asks about the impact of legislation on discrimination, employees' right to a contract, holidays and hours of work. It names no specific Acts, so answers should describe the impact in general terms.
+
+**What is the difference between span of control and chain of command?**
+Span of control is the number of subordinates who report directly to one manager. Chain of command is the line of authority through which instructions pass from the top of the business down.
+
+**Why does digital communication matter to a business?**
+Email, messaging and video meetings let staff work flexibly or remotely and send messages quickly. Digital channels also give cheap reach to wide markets and instant feedback from customers.
+
+**What is staff development?**
+Staff development is wider than training for today's job and includes vocational and academic qualifications and apprenticeships. It gives employees new skills and better promotion chances, and gives the business a more skilled workforce that can fill senior roles from within.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Business J204, Version 2.0 (January 2026), published by OCR, section 3 People.

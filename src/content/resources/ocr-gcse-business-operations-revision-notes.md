@@ -273,6 +273,20 @@ Choosing a supplier is a trade-off between price, speed, reliability and quality
 - Leaving out the judgement on evaluate and recommend questions. Weigh both sides, then decide and say why.
 - Arithmetic slips because working was not shown. Write the formula, then the substitution.
 
+## Frequently asked questions
+
+**How do you calculate a reject rate?**
+The reject rate is the number of faulty items divided by the number checked, multiplied by 100. It is a standard calculation used to measure quality.
+
+**What are the four parts of procurement in OCR GCSE Business?**
+The OCR GCSE Business (J204) specification names identifying the goods and services to buy, choosing suppliers, ordering the goods and services, and receiving deliveries. Choosing a supplier is a trade-off between price, speed, reliability and quality.
+
+**What does consumer law focus on in J204?**
+Consumer law is the set of rules that protect buyers of goods and services. The specification focuses on the safety and satisfactory quality of goods and on the reputation of the business.
+
+**How has e-commerce influenced business activity?**
+E-commerce lets small firms reach national and overseas markets and reduces the need for expensive high-street premises. It is open all hours and gives the business data on its customers.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) in Business (J204) Specification*, Version 2.0 (January 2026), for first assessment in 2019, section 2c, Content of Business 2: operations, finance and influences on business, section 4 Operations.

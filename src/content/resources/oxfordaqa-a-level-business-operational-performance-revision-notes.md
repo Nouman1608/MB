@@ -220,6 +220,20 @@ Reasons to hold inventory: unexpected demand, late deliveries, bulk discounts, s
 </figure>
 
 
+## Frequently asked questions
+
+**What are the four elements of lean production in OxfordAQA 9725?**
+The four elements are just in time, kaizen, standardised processes and teamwork. Lean production cuts waste and inventory costs but needs reliable suppliers and is vulnerable to disruption.
+
+**How do you calculate the re-order level?**
+The re-order level is buffer stock plus usage per period multiplied by the lead time. It is a level of inventory, which is different from the re-order quantity, the amount ordered.
+
+**What is capacity?**
+Capacity is the maximum potential output of a business in a period. Capacity utilisation compares actual output with that maximum, so remember to multiply by 100 to give a percentage.
+
+**What are the costs of poor quality?**
+Poor quality leads to scrap, rework, refunds, lost customers, a damaged reputation and possible legal claims.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards, published by OxfordAQA. Section 3.2.1 Operational performance.

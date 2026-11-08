@@ -241,6 +241,20 @@ Profit per employee    = 2,000,000 ÷ 250 = £8,000
 - Recommending a motivation method without considering cost or whether output can be measured.
 - Treating a strike as the only form of industrial action.
 
+## Frequently asked questions
+
+**What are the three HR objectives in OxfordAQA 9725?**
+The specification names three HR objectives: the number and skill level of employees, employee engagement and employee retention.
+
+**How do you calculate labour turnover?**
+Labour turnover is the number of employees leaving in a year divided by the average number of employees, multiplied by 100. Find the average as the start figure plus the end figure divided by 2, unless it is given.
+
+**What are the main motivation theories in OxfordAQA A-level Business?**
+The notes cover Taylor, who saw money as the motivator and favoured one best way of working; Maslow, whose hierarchy runs from basic needs to self-actualisation; and Herzberg, who separated hygiene factors from motivators.
+
+**What are the advantages and disadvantages of delayering?**
+Delayering lowers salary costs, speeds up communication and gives more responsibility to staff lower down. Against that, it means fewer promotion steps, overloaded managers, lost experience and insecurity among remaining staff.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards, published by OxfordAQA. Section 3.2.2 Human resources.

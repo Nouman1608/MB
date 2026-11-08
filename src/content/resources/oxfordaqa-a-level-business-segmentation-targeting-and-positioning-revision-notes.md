@@ -282,6 +282,20 @@ When a question says evaluate or justify, finish with a judgement that states wh
 - Ignoring figures in the case when the question says to use them.
 - Giving a recommendation with no reason or no weighing of the other option.
 
+## Frequently asked questions
+
+**What segmentation methods are in OxfordAQA 9625 and 9725?**
+9625 lists five methods: demographic, geographic, income, behavioural and psychographic. 9725 lists four, treating income as a demographic variable rather than a separate method.
+
+**What is the difference between niche and mass marketing?**
+Niche marketing serves a small, specialised segment, often with less competition from big firms. Mass marketing sells one broadly similar offer to a large part of the market, where unit prices are often lower and competition usually heavy.
+
+**Is international targeting in the 9725 specification?**
+International markets appear in the 9625 wording of this section. In 9625 you treat each country as a possible target market, weighing benefits such as a larger customer base against difficulties such as differences in language, culture and tastes.
+
+**What is the value of segmentation?**
+Segmentation lets the offer, price and message match each group of customers, so promotion reaches the right people and less is wasted. Its limits are that research costs money and a segment may be too small to be profitable.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business specification, section 3.1.2.3 (9625 and the 9725 successor; International AS from May/June 2027 and A-level from May/June 2028 for 9725).

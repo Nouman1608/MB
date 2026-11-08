@@ -208,6 +208,20 @@ A trade agreement removes import tariffs on cement, so overseas producers can se
 - Listing ways to influence a force without the cost, time or risk of each.
 - Ending an evaluation without a judgement on which force matters most for this business.
 
+## Frequently asked questions
+
+**What is Porter's five forces model?**
+Porter's five forces model analyses the pressures that shape how much profit firms in an industry can make: rivalry, buyer power, supplier power, the threat of entry and the threat of substitutes. In OxfordAQA A-level Business (9725) it is part of section 3.3.3, Analysing the industry environment.
+
+**What are the limitations of the five forces model?**
+It is a snapshot of a changing industry, industry boundaries are hard to draw, and the forces are judged rather than measured. Firms within one industry also differ, so it should be used alongside PESTLE analysis.
+
+**How can a business weaken the five forces it faces?**
+A business can act to weaken a force, for example differentiating through branding to reduce rivalry or using several suppliers and long-term contracts to cut supplier power. Each action has a cost, so it should be assessed rather than simply listed.
+
+**How do strong forces affect a business's profit?**
+Rivalry, buyer power and substitutes limit the prices a business can charge, supplier power raises its costs, and entrants and substitutes take volume. Lower margins then mean less retained profit for investment and lower shareholder returns.
+
 ## Next steps
 
 Recall it with the [revision notes](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment-revision-notes/), test it with the [practice questions](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment-practice/), and see [OxfordAQA A-level Business exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/) for technique.

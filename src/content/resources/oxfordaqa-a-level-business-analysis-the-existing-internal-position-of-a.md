@@ -247,6 +247,23 @@ Selsworth's Year 2 revenue of 7,200 came from three profit centres:
 
 When you have worked through this, shorten it into recall with the [revision notes](/resources/oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a-revision-notes/), and check yourself on the [practice questions](/resources/oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a-practice/). Profit margins, payables and receivables were introduced at AS in the [finance study guide](/resources/oxfordaqa-a-level-business-finance/); AS marketing content sits in the [AS marketing guide](/resources/a-level-oxfordaqa-business-marketing/).
 
+## Frequently asked questions
+
+**What are the four categories of the Boston Matrix?**
+Stars have high market growth and high share, question marks have high growth but low share, cash cows have low growth and high share, and dogs have low growth and low share. A balanced portfolio has enough cash cows to fund the stars and question marks.
+
+**What is business culture?**
+Business culture is the shared values, attitudes and ways of behaving in an organisation, often summed up as the way things are done. In OxfordAQA A-level Business (9725) you analyse what influences it and why changing it is difficult.
+
+**What is the difference between a strong and a weak business culture?**
+In a strong culture most staff share the same values, so behaviour is consistent and little supervision is needed, but it can resist necessary change. In a weak culture values differ across teams, giving less consistent service but more openness to change.
+
+**Why is changing a business culture difficult?**
+Changing culture takes years, staff may resist, especially in a strong culture, key people may leave, and new values must be backed by changed rewards, structure and leaders' behaviour. A business may still need to change it after a new leader, a merger, poor performance or new customer expectations.
+
+**What are the limitations of the Boston Matrix?**
+How "the market" is defined changes the result, a high market share does not guarantee high profit, and the matrix is only a snapshot. A dog may also be worth keeping if customers buy it alongside other lines.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

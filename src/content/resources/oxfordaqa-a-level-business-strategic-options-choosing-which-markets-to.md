@@ -233,6 +233,23 @@ Managing these means clear communication of why the change is needed, involving 
 
 For a shorter recap, use the [revision notes](/resources/oxfordaqa-a-level-business-strategic-options-choosing-which-markets-to-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-business-strategic-options-choosing-which-markets-to-practice/). Product portfolio analysis feeds into these choices: see [the 3.3.2 portfolio guide](/resources/oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a/). Section 3.4.2 continues with [strategic positioning](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete/).
 
+## Frequently asked questions
+
+**What is a strategy in OxfordAQA A-level Business?**
+A strategy is a long-term plan setting out how a business will achieve its objectives, including which markets it competes in and what products it offers. In OxfordAQA A-level Business (9725) it gives every function a shared direction and guides how scarce resources are allocated.
+
+**Which Ansoff option is the riskiest?**
+Risk generally rises as a business moves away from what it knows, so market penetration is usually lowest risk and diversification highest. The matrix shows options and relative risk but does not say which to choose.
+
+**Why might a business change its strategy?**
+A business may change strategy because of external change, such as new competitors, falling demand, new technology or changes in law or the economy, or internal change such as new leadership, new objectives or poor results. It may also change when the current strategy has achieved what it can, such as in a saturated home market. Challenges include the cost and time before any return and resistance from employees.
+
+**How is strategy linked to functional decisions?**
+The chain runs from mission to corporate objectives, strategy, functional objectives and functional decisions. The link runs both ways, because what the functions can do limits which strategy is realistic.
+
+**What are the advantages and risks of market development?**
+Market development sells existing products in new markets, which spreads risk across markets and can extend a product's life. Its limits are that the business may not understand local tastes, laws or competitors, and it needs new distribution.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

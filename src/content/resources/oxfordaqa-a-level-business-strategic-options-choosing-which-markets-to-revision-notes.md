@@ -190,6 +190,20 @@ Two-way link: functions deliver the strategy, but their limits (cash, skills, ca
 - Listing reasons for changing strategy without saying why they apply to the case business.
 - Ending an evaluation without saying which strategy is best and what it depends on.
 
+## Frequently asked questions
+
+**What are the four features of a strategic decision?**
+A strategic decision is difficult to reverse, high risk, involves significant resources and is usually one-off. A tactical decision is the opposite on each count.
+
+**What are the four options in the Ansoff matrix?**
+Market penetration sells existing products in existing markets, market development sells existing products in new markets, product development sells new products in existing markets, and diversification sells new products in new markets.
+
+**Is a price promotion a strategy or a tactic?**
+A price promotion or an advert is a tactic, a short-term action within a strategy. A strategy is the long-term direction, so calling a promotion a strategy is a common error.
+
+**How do you use SWOT to choose a strategy?**
+Calculate the data given, such as margins, capacity utilisation, market share and gearing, compare each with a benchmark and classify it as a strength, weakness, opportunity or threat. Then favour strategies that use strengths to take opportunities, and name the main limitation of the data in your judgement.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

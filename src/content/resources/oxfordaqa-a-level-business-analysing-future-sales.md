@@ -262,6 +262,23 @@ For the AS skills that support this topic, see correlation and market research i
 
 Next: shrink this page into the [revision notes](/resources/oxfordaqa-a-level-business-analysing-future-sales-revision-notes/), try the [practice questions](/resources/oxfordaqa-a-level-business-analysing-future-sales-practice/), and spot wider gaps with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is a sales forecast?**
+A sales forecast is an estimate of the sales volume or sales revenue a business expects over a future period. It can be quantitative, using past sales to find a pattern, or qualitative, using informed judgement.
+
+**Which OxfordAQA 9725 paper tests sales forecasting?**
+Section 3.3 is covered by Unit 3: Business analysis of OxfordAQA International A-level Business (9725). That exam lasts 1 hour 45 minutes, carries 80 marks and is worth 30% of the International A-level.
+
+**What are the advantages of qualitative sales forecasting?**
+Qualitative forecasting works where there is no past data, such as for a new product or a start-up, and it can anticipate changes that past figures cannot show. However, it is subjective and hard to check.
+
+**Why are sales forecasts difficult to get right?**
+Forecasts can be thrown off by changes in the external environment, such as the economy, interest rates, exchange rates or consumer tastes, as well as by competitor moves. Their value depends on accuracy and on managers treating them as a guide rather than a promise.
+
+**How does a sales forecast affect business decisions?**
+A forecast feeds decisions in every function: operations uses it for capacity, inventory and supplier orders, and it is also the starting point for budgets and cash flow forecasts. Forecasting is also listed in section 3.4.6 as one way to manage risk.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

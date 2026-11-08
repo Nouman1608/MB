@@ -145,6 +145,20 @@ Links: [Finance study guide](/resources/oxfordaqa-a-level-business-finance/) · 
 - Listing finance sources without linking them to the amount, time period, control and stage of the business.
 - Ending an "Evaluate" answer without a recommendation.
 
+## Frequently asked questions
+
+**Where are marks usually lost on OxfordAQA Business finance questions?**
+Common losses include dividing fixed costs by price rather than by contribution per unit, rounding break-even output down or leaving a decimal, and giving variance amounts without saying whether they are favourable or adverse. Using the wrong opening balance in later months of a cash flow forecast is another frequent slip.
+
+**Is a cost above budget a favourable variance?**
+No. A cost above budget is adverse because it reduces profit, even though the number is bigger. Label each variance by its effect on profit, not by its size.
+
+**What figure do you divide by for payables days?**
+Payables days are trade payables divided by cost of sales, multiplied by 365. Putting payables over revenue instead of cost of sales is a common error.
+
+**Which section of OxfordAQA 9725 do these finance questions cover?**
+They cover section 3.2.3 Finance of OxfordAQA International AS and A-level Business (9725): sources of finance, break-even analysis, profit and margins, budgeting and cash flow.
+
 ## Next steps
 
 - [Finance revision notes](/resources/oxfordaqa-a-level-business-finance-revision-notes/)

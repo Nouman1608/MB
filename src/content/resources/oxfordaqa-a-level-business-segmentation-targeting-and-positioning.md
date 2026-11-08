@@ -279,6 +279,23 @@ Judgement: the case for going abroad is stronger when the home market is small o
 - Listing only benefits of international markets and no difficulties.
 - Judging repositioning only by cost and ignoring the risk to existing customers.
 
+## Frequently asked questions
+
+**What is positioning in marketing?**
+Positioning is the place a product holds in customers' minds compared with competing products. A positioning map often uses two axes, such as price and perceived quality, and the positioning must be consistent with the rest of the marketing mix.
+
+**What is the difference between premium and budget positioning?**
+Premium positioning uses a high price to signal high quality, exclusivity or status and needs real or perceived superiority. Budget positioning offers a low price with good enough quality and needs tight cost control and usually high volume.
+
+**Why might a business reposition a product?**
+A business may reposition because tastes or incomes have changed, sales have fallen, the brand seems dated or a competitor has taken the position. Challenges include the cost of new promotion and packaging and the risk of losing current customers.
+
+**What are the three steps of segmentation, targeting and positioning?**
+Segmentation divides a market into groups of customers who share characteristics, targeting chooses which group or groups to serve, and positioning decides how the product should be seen by that target compared with rivals. Each step depends on the one before.
+
+**When does niche marketing suit a business?**
+A niche suits a small firm with a clear point of difference, while mass marketing suits a firm able to produce at scale and fund wide promotion. Neither is right in itself.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business specification, section 3.1.2.3 (9625 and the 9725 successor; International AS from May/June 2027 and A-level from May/June 2028 for 9725).

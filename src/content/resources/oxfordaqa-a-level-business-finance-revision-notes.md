@@ -252,6 +252,20 @@ Links: [course hub](/boards/oxfordaqa/a-level/business/) · [printable checklist
 - Listing ways to improve cash flow without the drawback for this business.
 - Recommending a source of finance without linking it to the amount, time period and control.
 
+## Frequently asked questions
+
+**What are the internal sources of finance in OxfordAQA 9725?**
+The internal sources are retained profits, sale of assets, sale and leaseback, and working capital. External sources come from outside the business, such as trade credit, share capital, overdrafts, loans, business angels, private equity and crowd funding.
+
+**How do you work out profit from the margin of safety?**
+Above break-even, profit equals the margin of safety multiplied by contribution per unit. Below break-even, the loss is fixed costs minus total contribution.
+
+**How do you decide whether a variance is favourable or adverse?**
+Calculate the variance as actual minus budget, then judge its effect on profit. Revenue above budget or costs below budget are favourable, while revenue below budget or costs above budget are adverse.
+
+**What does it mean if receivables days are longer than payables days?**
+It means the business pays its suppliers before its customers pay it, which puts pressure on cash flow. Methods such as debt factoring or shortening customers' payment time can help.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards, published by OxfordAQA. Section 3.2.3 Finance.

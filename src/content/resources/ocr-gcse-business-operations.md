@@ -271,6 +271,23 @@ X costs 5,000 x £4.20 = £21,000. Y costs 5,000 x £3.85 = £19,250, so Y saves
 
 For "evaluate" or "recommend", weigh both sides, then give a supported judgement.
 
+## Frequently asked questions
+
+**What is the difference between job, batch and flow production?**
+Job production makes one-off products to a customer's order, batch production makes a set quantity of identical products before switching to the next, and flow production makes identical products continuously on a line. In OCR GCSE Business (J204) you should link the process to its effect on cost and flexibility for the business.
+
+**What are the four location factors in OCR GCSE Business?**
+The specification lists costs, proximity to market, labour and materials. Which factor dominates depends on the business: proximity to market matters most for shops, cafes and fresh goods, while materials matter most for firms using heavy or bulky inputs.
+
+**How do logistical and supply decisions affect a business?**
+The specification names five factors: time, length of supply chain, reliability of supply, costs and customer service. A longer supply chain usually means more delay and more places for things to go wrong.
+
+**What are the impacts of automation and robotics on a business?**
+Output becomes faster and more consistent, fewer errors occur and machines can work through the night, which can lower labour cost per unit over time. Against that, there is a high set-up cost, a need for maintenance and technical staff, fewer routine jobs and possible staff worries.
+
+**What contributes to good customer service?**
+Product knowledge and customer engagement both contribute: staff who understand the range can recommend the right item and answer questions. Good service helps a business gain and keep customers.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) in Business (J204) Specification*, Version 2.0 (January 2026), for first assessment in 2019, section 2c, Content of Business 2: operations, finance and influences on business, section 4 Operations.

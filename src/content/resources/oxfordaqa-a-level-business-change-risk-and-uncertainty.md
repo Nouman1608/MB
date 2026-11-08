@@ -213,6 +213,23 @@ Structure and empowerment also appear in the [human resources guide](/resources/
 - Recommending insurance for a risk that cannot be insured, such as a product flop.
 - Saying a flat structure creates agility without explaining *how* it speeds decisions.
 
+## Frequently asked questions
+
+**What is Lewin's force field analysis?**
+Force field analysis lists the driving forces pushing for a change and the restraining forces resisting it, scores each one and compares the totals. It makes managers consider every force, but the scores are subjective judgements.
+
+**What is the difference between risk and uncertainty?**
+Risk is the chance that an outcome differs from the plan where the possible outcomes can be identified and estimated. Uncertainty covers events that cannot be predicted, so it is managed through broader approaches such as scenario planning and agility.
+
+**What is scenario planning?**
+Scenario planning means describing a few plausible futures, such as a doubling of fuel prices, and preparing a response for each. It helps a business react faster when uncertain events happen.
+
+**How can a business become more agile?**
+A business can develop agility through a flat organisational structure, empowerment, transformational leadership and cross-functional teams. Each helps the business sense change and respond quickly.
+
+**What are internal and external reasons for change?**
+Internal reasons start inside the business, such as a new chief executive or new objectives. External reasons start outside it, such as new technology, competitors' actions, economic change, new laws or shifts in customer tastes.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

@@ -112,6 +112,20 @@ Teaching first: [study guide](/resources/oxfordaqa-a-level-business-analysing-th
 - Treating CSR or AI as automatically good, without weighing costs.
 - Ending an evaluation with no clear, supported judgement.
 
+## Frequently asked questions
+
+**Where are marks usually lost on external environment questions?**
+Common losses include converting currency the wrong way, treating a change in index points as the percentage change, and using the original loan rather than the outstanding balance in interest calculations. Naming an external change without tracing its effect to a functional area also costs marks.
+
+**What is the difference between a tariff and a quota?**
+A tariff is a tax on imported goods, which raises their price. A quota is a limit on the quantity of a good that can be imported; describing one as the other is a common error.
+
+**Should CSR or artificial intelligence always be treated as good for a business?**
+No. Answers should weigh the benefits against the costs and risks for the business in the case, because treating CSR or AI as automatically good misses the evaluation marks.
+
+**Which OxfordAQA 9725 section do these questions cover?**
+They cover section 3.3.4 of OxfordAQA International AS and A-level Business (9725), Analysing the external environment to assess opportunities and threats, which is tested in Unit 3: Business analysis.
+
 ## Next steps
 
 - Revise the methods: [revision notes](/resources/oxfordaqa-a-level-business-analysing-the-external-environment-to-assess-revision-notes/)

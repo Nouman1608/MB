@@ -244,6 +244,20 @@ Forecasting is also one of the ways to manage risk listed in section 3.4.6.
 </figure>
 
 
+## Frequently asked questions
+
+**How do you calculate a three period moving average?**
+Add three consecutive periods, divide by 3 and write the result against the middle period. Then slide along one period at a time and repeat to build up the trend.
+
+**What is the Delphi technique?**
+The Delphi technique is a qualitative forecasting method in which an anonymous panel of experts answers in several rounds, seeing a summary of the others' views each time, until their forecasts move closer together.
+
+**What is the difference between a moving average and a forecast?**
+A moving average shows the trend in past data. A forecast extends that trend forward into future periods.
+
+**When is extrapolation most useful?**
+Extrapolation is most useful for short-term forecasts in a stable market, because it assumes the past pattern will continue. It is least useful when the market is changing quickly.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

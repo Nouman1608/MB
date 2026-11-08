@@ -13,13 +13,15 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-oxfordaqa-alevel-business"
-description: "Original practice paper in the section layout of the 9625 International AS Unit 1 paper (Sections A, B and C of 17, 27 and 36 marks), all on Topic 2 Marketing, with worked answers on marketing objectives, research, segmentation-targeting-positioning and the 7Ps marketing mix; the different 9725 layout and 4Ps mix are flagged."
+description: "Original OxfordAQA International AS Business marketing practice paper in the 9625 Unit 1 layout, with worked answers and notes on how the 9725 paper differs."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions:
@@ -147,3 +149,17 @@ Marlbridge's own guide, not OxfordAQA's published mark scheme:
 - Stating whether demand is elastic or inelastic without linking it to the resulting change in total revenue.
 - Naming a Boston Matrix category without pairing it with a matching investment or marketing strategy.
 - Giving a one-sided evaluation of digital marketing's impact without weighing it against what the marketing mix framework still requires.
+
+## Frequently asked questions
+
+**How is the OxfordAQA 9625 International AS Unit 1 paper structured?**
+The 9625 Unit 1: Business and markets paper is a 1 hour 30 minute written exam worth 80 marks. It has three compulsory sections: Section A with multiple choice, short answer and data response questions worth about 17 marks, Section B with extended responses worth about 27 marks, and Section C with extended responses worth about 36 marks.
+
+**How is the 9725 Unit 1 paper different?**
+The 9725 Unit 1 paper lasts 1 hour 15 minutes and is worth 60 marks, in four sections: short answer (10 marks), calculation (10 marks), and two extended response sections worth 16 and 24 marks. 9725 also uses a 4Ps marketing mix rather than 9625's 7 elements.
+
+**Where are marks usually lost on OxfordAQA marketing questions?**
+Common losses include confusing a marketing objective with a marketing plan, treating segmentation, targeting and positioning as separate topics rather than a chain, and stating whether demand is elastic or inelastic without linking it to the change in total revenue. Naming a Boston Matrix category without a matching strategy also costs marks.
+
+**How are the 12-mark evaluation questions marked in this practice paper?**
+They are marked as whole answers against levels, with the top level needing balanced analysis that leads to a supported judgement explaining what the answer depends on. These level descriptors are Marlbridge's own guide, not OxfordAQA's published mark scheme.

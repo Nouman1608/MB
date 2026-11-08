@@ -146,6 +146,20 @@ Judgement: network analysis is necessary but not sufficient. It shows that 12 we
 - Defining strategic drift without explaining why the business failed to adapt.
 - Ending an evaluation with no clear judgement about what the business should do.
 
+## Frequently asked questions
+
+**Where are marks usually lost on network analysis questions?**
+Common losses include taking the lower value when two arrows enter a node on the forward pass, taking the higher value when two arrows leave a node on the backward pass, and calculating float without subtracting the duration. Naming a critical path without stating the project duration also costs marks.
+
+**Does every delay to an activity extend the whole project?**
+No. Compare the delay with the activity's total float: if the extra time is no more than the float, the project length is unchanged. Only a delay greater than the float, or a delay on the critical path, extends the project.
+
+**How should you evaluate network analysis in a case study?**
+Weigh what it shows, such as the minimum project duration and which activities cannot slip, against its limits, such as estimated durations and no information about cost or quality. Then judge how useful it is alongside other implementation factors in the case.
+
+**Which OxfordAQA 9725 section do these questions test?**
+They test section 3.4.5 Implementing a strategy of OxfordAQA International AS and A-level Business (9725), examined in the Unit 4: Business strategy paper.
+
 ## Next steps
 
 - Recap the rules with the [implementing a strategy revision notes](/resources/oxfordaqa-a-level-business-implementing-a-strategy-revision-notes/)

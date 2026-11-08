@@ -108,6 +108,20 @@ Before you start, the [study guide](/resources/oxfordaqa-a-level-business-analys
 - Treating a forecast as a certainty when evaluating a large, hard-to-reverse decision.
 - Ending an evaluation without a clear, justified judgement.
 
+## Frequently asked questions
+
+**Where are marks usually lost on moving average questions?**
+Common losses include placing a moving average against the third period instead of the middle one, dividing the total change by the number of moving averages instead of the gaps between them, and counting periods ahead from the last actual figure instead of the last moving average.
+
+**How do you show a forecast error correctly?**
+Calculate the error as actual minus forecast, divided by the forecast, multiplied by 100, and keep the sign. Then say whether sales came in above or below the forecast, because dropping the sign loses marks.
+
+**Can a sales forecast be a fraction of a product?**
+No. Give forecasts with units and as whole products; when a forecast is used for a decision such as how many staff are needed, round in the direction that meets the demand.
+
+**Which part of the OxfordAQA 9725 specification do these questions test?**
+They test section 3.3.5 Analysing future sales of OxfordAQA International AS and A-level Business (9725): three period moving averages, extrapolation, qualitative forecasting, and the value and difficulties of sales forecasting.
+
 ## Next steps
 
 - Go over the formulas again in the [analysing future sales revision notes](/resources/oxfordaqa-a-level-business-analysing-future-sales-revision-notes/)

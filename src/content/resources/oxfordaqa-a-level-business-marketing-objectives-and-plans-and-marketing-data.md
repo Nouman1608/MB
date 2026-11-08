@@ -252,6 +252,23 @@ Both versions ask you to interpret and use marketing data in decisions and plann
 - Saying primary research is always more reliable.
 - Treating a strong correlation as proof of cause.
 
+## Frequently asked questions
+
+**What are the elements of a marketing plan in 9625 and 9725?**
+In 9625 the elements are marketing objectives, strategy, tactics and the budget. In 9725 they are marketing objectives, the marketing mix and the marketing budget.
+
+**What does a correlation value tell a business?**
+A correlation value runs from -1 to +1. The sign gives the direction and the size gives the strength, with values near 1 strong and values near 0 weak, but correlation shows association, not cause, and you only need to understand the value, not calculate it.
+
+**What is a confidence interval in market research?**
+A confidence interval is the range within which the true figure for the whole market is expected to lie, based on a sample. The confidence level, such as 95%, says how sure we can be that the method captures the true value, and a bigger sample gives a narrower interval.
+
+**What is the difference between primary and secondary research?**
+Primary research is new data collected for a specific purpose, which fits the exact question but costs more and takes longer. Secondary research uses data that already exists, which is faster and cheaper but was collected for another purpose.
+
+**What is a marketing objective?**
+A marketing objective is a measurable, time-limited target for the marketing function, such as a target for sales volume, sales value or market share.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business specification (9625, first teaching September 2018; successor 9725, first teaching September 2026 for AS and September 2027 for A2), sections 3.1.2.1 and 3.1.2.2, published by OxfordAQA.
