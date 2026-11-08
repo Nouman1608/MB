@@ -265,6 +265,20 @@ A good recommendation compares the financial results, then says which non-financ
 - Giving a one-sided recommendation with no reference to non-financial factors.
 - Listing strengths and weaknesses of a technique without applying them to the figures.
 
+## Frequently asked questions
+
+**What is the decision rule for IRR?**
+Accept the project if the IRR is higher than the cost of capital, the business's required rate of return.
+
+**What is the decision rule for NPV?**
+A positive NPV means the project earns more than the required return, so it should be accepted on financial grounds.
+
+**Is the year 0 outlay discounted?**
+No. The year 0 outlay has a discount factor of 1, so it is not discounted. Discounting it is a common mistake.
+
+**Why is an interpolated IRR only an estimate?**
+Interpolation assumes NPV falls in a straight line between the two discount rates, which it does not exactly, so the IRR should not be described as exact.
+
 ## Official syllabus
 
 Cambridge International, AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, section 4.4 Investment appraisal.

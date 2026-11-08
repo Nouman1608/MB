@@ -345,6 +345,23 @@ Disadvantages to remember: a bonus issue raises no cash and turns reserves into 
 - Treating loan or debenture interest as an appropriation.
 - Recording cash in a bonus issue.
 
+## Frequently asked questions
+
+**How is the allowance for irrecoverable debts calculated?**
+Write off irrecoverable debts first, then apply the percentage to the receivables that remain. Only the change in the allowance is charged or credited in the statement of profit or loss.
+
+**What is the difference between ordinary shares and debentures?**
+Ordinary shares carry votes and a dividend that varies with profit, and holders rank last and bear most risk. Debentures are loans: their interest is a finance cost charged whether or not there is a profit, and they are shown as non-current liabilities.
+
+**What is a bonus issue?**
+A bonus issue gives existing shareholders free shares by capitalising reserves, so no cash is received. Recording cash in a bonus issue is a common error.
+
+**Is loan or debenture interest an appropriation of profit?**
+No. Loan and debenture interest are expenses charged in the statement of profit or loss. Appropriations in a partnership include salaries, interest on capital and interest on drawings.
+
+**Which section of Cambridge 9706 covers AS financial statements?**
+Section 1.5 Preparation of financial statements is AS Level content covering adjustments to a trial balance and the accounts of sole traders, partnerships and limited companies.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706, syllabus for exams in 2026, 2027 and 2028, Cambridge Assessment International Education, section 1.5.

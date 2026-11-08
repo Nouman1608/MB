@@ -217,6 +217,23 @@ Net annual saving: 11,000 − 1,800                                           = 
 - Assuming an EPOS inventory figure is always right. Theft and damage are not scanned.
 - Ending an "Evaluate" answer with no judgement.
 
+## Frequently asked questions
+
+**Do I need to know specific accounting software for Edexcel YAC11?**
+No. The specification notes that you will not be examined on specific applications or software packages, so describe what the software does rather than naming a product.
+
+**What is an audit trail?**
+An audit trail is the ability to follow a transaction from its source document through the books and ledgers to the financial statements, and back. It is not the same as an audit.
+
+**Does a spreadsheet prevent errors?**
+No. A spreadsheet removes arithmetic errors, but a wrong input or a wrong formula still flows through every linked figure.
+
+**How should I organise an evaluation of ICT in accounting?**
+Use the specification's four headings: the audit trail, financial aspects, technical aspects and human aspects, and finish with a judgement about the business in the question.
+
+**Is an EPOS inventory figure always accurate?**
+No. EPOS reduces the inventory record as each sale is scanned, but theft and damage are not scanned, so the record can differ from the actual inventory.
+
 ## Where to go next
 
 - [ICT in accounting revision notes](/resources/edexcel-ial-accounting-information-and-communication-technology-in-accounting-revision-notes/)

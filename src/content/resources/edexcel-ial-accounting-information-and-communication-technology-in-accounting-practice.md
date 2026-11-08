@@ -150,6 +150,20 @@ Annual savings: one clerk's wages 14,000; stationery and postage 700; fewer erro
 - Putting cost under "technical" or breakdowns under "financial".
 - Ending an evaluation without a judgement about the business named.
 
+## Frequently asked questions
+
+**Are these Edexcel YAC11 ICT questions from past papers?**
+No. They are original practice questions with marked answers on topic 2.9 of Pearson Edexcel International A Level Accounting (YAC11), written for revision. Use them alongside the official past papers.
+
+**Should spreadsheet formulas use numbers or cell references?**
+Formulas should refer to cells, not typed numbers, so that they update in a what-if. A formula of typed numbers may not gain credit as a formula.
+
+**What are common mistakes in invoicing questions?**
+Applying sales tax before deducting trade discount is a common error; show the taxable amount after trade discount before applying the rate.
+
+**How do I keep evaluation points in the right aspect?**
+Keep each point under the aspect the question asks for: the cost of a system is a financial point, while breakdowns are a technical point. Mixing them up is a common way to lose marks.
+
 ## Next steps
 
 - [Revision notes](/resources/edexcel-ial-accounting-information-and-communication-technology-in-accounting-revision-notes/)

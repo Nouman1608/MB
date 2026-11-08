@@ -269,6 +269,23 @@ The 40,000 share issue was 25,000 shares of 1 each at 1.60. The statement of cha
 - Applying factory profit to the whole of inventory instead of the portion at transfer price.
 - Adding depreciation to profit in the statement of cash flows but forgetting to deduct a profit on disposal, which belongs in investing activities.
 
+## Frequently asked questions
+
+**What is the difference between a receipts and payments account and an income and expenditure account?**
+A receipts and payments account summarises a club's cash book and ignores accruals. An income and expenditure account follows the accruals concept and gives a surplus or deficit, which is added to or deducted from the accumulated fund.
+
+**How is a life membership fee treated in club accounts?**
+A life membership payment goes to a life membership account rather than being treated as income of one year. An equal share is released to income each year, and the unreleased balance is shown as a liability.
+
+**What is prime cost in a manufacturing account?**
+Prime cost is the total of direct materials, direct labour and direct expenses. Factory overheads are then added, and the work in progress adjustment made, to find the cost of production.
+
+**What is a realisation account used for?**
+On dissolution of a partnership, every asset other than bank is transferred at book value to the realisation account, together with the proceeds and the costs of dissolution. The resulting profit or loss is shared between the partners in their profit-sharing ratio.
+
+**Which international accounting standards apply to company statements in Cambridge 9706?**
+Limited company statements are prepared in line with international accounting standards, including IAS 1 for presentation and IAS 7 for statements of cash flows.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706, syllabus for examination in 2026, 2027 and 2028, section 3.1, published by Cambridge University Press & Assessment.

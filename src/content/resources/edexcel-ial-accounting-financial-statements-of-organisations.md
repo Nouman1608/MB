@@ -276,6 +276,23 @@ When goods are transferred at more than cost, closing finished goods hold **unre
 - Crediting goodwill in the new ratio, or debiting it in the old.
 - Leaving unrealised profit in the finished goods figure.
 
+## Frequently asked questions
+
+**What applies to a partnership with no agreement under Edexcel YAC11?**
+Under Section 24 of the Partnership Act 1890, profits and losses are shared equally, no partner receives a salary or interest on capital, a partner who advances money beyond their agreed capital receives interest at 5% a year, and no interest is charged on drawings.
+
+**How do you find credit sales from incomplete records?**
+Credit sales = receipts from customers + closing receivables − opening receivables. Credit purchases are found the same way from payments to suppliers and opening and closing payables.
+
+**How are shared costs treated in departmental statements?**
+Use one column per department plus a total. Direct costs go to their own department, while shared costs are apportioned on a fair basis, such as floor area for rent.
+
+**How is goodwill treated when a partner is admitted?**
+If goodwill will not appear in the books, credit the old partners in the old profit-sharing ratio and debit all the partners, including the new one, in the new ratio.
+
+**How is a club's activity such as a bar or café shown?**
+Each activity gets its own trading account, and its profit is shown as income in the income and expenditure account, which gives a surplus or deficit rather than a profit.
+
 Next, try the [practice questions](/resources/edexcel-ial-accounting-financial-statements-of-organisations-practice/).
 
 ## Official syllabus
