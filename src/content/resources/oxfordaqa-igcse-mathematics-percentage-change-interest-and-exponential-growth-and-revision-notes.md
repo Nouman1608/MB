@@ -281,6 +281,20 @@ To convert an overall multiplier back to a percentage, subtract 1 and multiply b
 - Stopping a trial-and-improvement search at the first value that looks close, without checking the value either side of the target.
 - Writing a decrease as a negative multiplier or forgetting to say "increase" or "decrease".
 
+## Frequently asked questions
+
+**What is the difference between simple and compound interest?**
+Simple interest is the same every year, P × r/100 × t, because only the original sum earns interest. Compound interest multiplies the balance by 1 + r/100 each year, so the interest grows from year 2 onwards.
+
+**Is a 10% rise followed by a 10% fall no change?**
+No. Multiply the multipliers: 1.1 × 0.9 = 0.99, which is an overall 1% decrease. Adding the percentages is a common error.
+
+**What is the difference between percentage points and percent?**
+A rate moving from 3% to 4% is a rise of one percentage point, but a rise of 33.3% of the original rate.
+
+**Is the compound interest formula Core or Extension in OxfordAQA 9260?**
+The formula P(1 + r/100)ⁿ is Extension only in OxfordAQA International GCSE Mathematics (9260). At Core you show each year's multiplication instead.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Spec references: N15 (3.1.2) and N20 (3.1.3).

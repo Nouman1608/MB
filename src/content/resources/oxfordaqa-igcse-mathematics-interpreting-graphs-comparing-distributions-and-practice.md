@@ -218,6 +218,20 @@ Key: for the "without" group 4 | 2 means 24 cm. For the "with" group 2 | 4 means
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you get the frequency from a pie chart angle?**
+Frequency = (angle ÷ 360) × total. Using the angle itself as the frequency is one of the most common errors.
+
+**What do you need for a full comparison of two distributions?**
+Give an average and a measure of spread for both sets, with values, then a sentence comparing them in context. Quoting an average without a spread, or numbers for only one set, loses marks.
+
+**How should you describe correlation on a scatter graph?**
+State both the direction and the strength, such as "weak positive correlation". Writing only "positive" or only "weak" is not enough.
+
+**Does correlation prove that one variable causes the other?**
+No. A correlation shows the two variables are linked, not that one causes the other, and OxfordAQA International GCSE Mathematics (9260) answers that claim cause lose marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA, section 3.4.2 Interpretation, references S6, S7 and S8.

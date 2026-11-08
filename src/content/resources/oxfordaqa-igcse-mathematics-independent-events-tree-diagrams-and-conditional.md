@@ -363,6 +363,20 @@ The answer 6/11 matches the direct reasoning: once the second pen is known to be
 
 Condense this unit with the [revision notes](/resources/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional-practice/). Tick the statements off on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).
 
+## Frequently asked questions
+
+**What are independent events in probability?**
+Two events are independent when knowing the result of one tells you nothing new about the other, such as two separate dice or two coins. For independent events, P(A ∩ B) = P(A) × P(B).
+
+**What rule must the branches of a tree diagram follow?**
+Branches leaving the same point must have probabilities that add to 1. Adding them up is a quick check before you multiply along paths.
+
+**Can you use a two-way table for conditional probability?**
+Yes. OxfordAQA International GCSE Mathematics (9260) asks for probabilities with "tree diagrams and other representations", and a two-way table works well: use the given row or column total as the new denominator.
+
+**Why is P(A | B) usually different from P(B | A)?**
+Because the given event sets the total you divide by, and that total differs depending on which event is given. Underline the "given" event before you start so you answer the right direction.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. This guide follows section 3.4.3 Probability, statements S17 and S18.

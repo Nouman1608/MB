@@ -356,6 +356,23 @@ For y = kx², doubling x multiplies y by 4. For y = k/x, doubling x halves y.
 - In variation questions, substituting the new value before finding k.
 - Writing y = k/x for "directly proportional" or y = kx for "inversely proportional".
 
+## Frequently asked questions
+
+**What is a non-standard function graph in IGCSE Maths?**
+It is a graph of a function with no named shape, given as a table, rule or plotted curve in a real context. You plot the points, join them with a smooth curve and read values or approximate solutions from it.
+
+**How do you find an approximate solution from a real-context graph?**
+To solve "when does the quantity equal c?", draw a horizontal line at height c and read the horizontal values where it meets the graph. Give units and say the answer is approximate.
+
+**How do you estimate the gradient of a curve at a point?**
+Draw a tangent with a ruler so it touches the curve at that point without cutting it, make it long, and use two far-apart points on the tangent: gradient = change up ÷ change across. In OxfordAQA International GCSE Mathematics (9260) this is Extension only.
+
+**How do you estimate the area under a curved velocity-time graph?**
+Split the time into equal strips and treat each strip as a trapezium, then add the areas. The total is an estimate of the distance travelled.
+
+**How do you test whether data shows direct or inverse variation?**
+For direct variation with xⁿ, work out y ÷ xⁿ for each pair; for inverse variation, work out y × xⁿ. If every pair gives the same number, the relationship holds and that number is k.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA, section 3.2.2 Functions, graphs and calculus, references A17 and A18.

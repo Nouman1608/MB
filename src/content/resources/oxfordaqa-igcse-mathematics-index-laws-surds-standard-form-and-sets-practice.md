@@ -175,6 +175,20 @@ These questions are aligned to the OxfordAQA International GCSE Mathematics (926
 - Take the [free 10-minute diagnostics](/diagnostics/) to find the next topic to work on.
 - If you would like help from a teacher, [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does a negative index mean?**
+A negative index means a reciprocal, not a negative number: a⁻ⁿ = 1/aⁿ, so 2⁻⁴ = 1/16. Reading it as −16 is one of the most common lost marks.
+
+**How do you add numbers in standard form?**
+Rewrite both numbers so they share the same power of 10 first, then add the front numbers. Adding the powers of 10 themselves is wrong.
+
+**How should you write a calculator display like 3.15E-4?**
+Write it in full standard form as 3.15 × 10⁻⁴. Copying the "E" display as the final answer is not accepted as standard form.
+
+**What does "exact" mean in OxfordAQA 9260 surd and fraction questions?**
+In OxfordAQA International GCSE Mathematics (9260), an exact answer keeps fractions as fractions and surds as surds, with no rounding part-way. Simplify surds fully and rationalise the denominator when the question says so.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.1.1, statements N6 to N9.

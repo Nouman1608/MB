@@ -254,6 +254,20 @@ Worked reminder: a line passes through (0, 10) and (5, 35). Gradient = 25 ÷ 5 =
 - Trusting an extrapolated estimate without comment.
 - Claiming that correlation proves cause.
 
+## Frequently asked questions
+
+**What is the difference between interpolation and extrapolation?**
+Interpolation is estimating inside the range of the data, which is fairly reliable. Extrapolation is estimating outside the range, which is not reliable, so check that the answer makes sense.
+
+**When should you use the median instead of the mean?**
+The median is better when there are extreme values, because the mean is pulled by them. The mean uses every value and suits balanced data.
+
+**How do you draw a line of best fit by eye?**
+Follow the trend with a ruler so there are roughly equal numbers of points above and below, passing through or near the mean point if you know it. Draw one straight line across the data range and ignore any outliers.
+
+**What makes a graph misleading?**
+Warning signs include a vertical axis that does not start at zero, an uneven scale or bars of different widths, a 3-D or stretched image, and a very small sample or no source.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA, section 3.4.2 Interpretation, references S6, S7 and S8.

@@ -298,6 +298,20 @@ Evaluate (√(49 − 13) − 2³) ÷ (−1/2).
 - Calculating a trig angle with the calculator in the wrong angle unit.
 - Giving a final answer with no units in a context question, or not rounding down when asked how many whole items.
 
+## Frequently asked questions
+
+**How do you find the HCF and LCM using prime factors?**
+Write both numbers in index form. For the HCF take the lower power of each prime they share; for the LCM take the higher power of every prime that appears. As a check, HCF × LCM equals the product of the two numbers.
+
+**What is the order of operations (BIDMAS)?**
+Brackets first, then indices (powers and roots), then division and multiplication, then addition and subtraction, working left to right at the same level. A root sign or fraction line acts as a bracket.
+
+**Which powers should you know for IGCSE Maths?**
+The OxfordAQA International GCSE Mathematics (9260) notes list powers of 2 up to 1024, of 3 up to 729, of 4 up to 1024 and of 5 up to 3125, plus squares to 15² and cubes to 10³.
+
+**Can you find the square root of a negative number?**
+Not as a real number: √(−25) does not exist. Odd roots of negatives do exist, so ∛(−125) = −5.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA: section 3.1.1 Structure and calculation, references N1 to N5 and N10.

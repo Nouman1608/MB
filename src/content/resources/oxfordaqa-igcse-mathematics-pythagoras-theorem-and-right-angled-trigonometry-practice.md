@@ -133,6 +133,20 @@ The [study guide](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-
 - Try the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 - [Book a free trial class](/trial/) if you would like help from a teacher.
 
+## Frequently asked questions
+
+**How do you know whether to add or subtract in Pythagoras' theorem?**
+Add the squares when finding the hypotenuse and subtract when finding a shorter side. If a short side comes out longer than the hypotenuse, you have added when you should have subtracted.
+
+**Why should you not round in the middle of a two-step trigonometry problem?**
+Rounding a shared side and passing the rounded value on can make the final answer wrong in its last digit. Keep unrounded values in the calculator and round only at the end.
+
+**How do you split an isosceles triangle for trigonometry?**
+Draw the line from the apex to the midpoint of the base, which makes two right-angled triangles. Use half the base, not the full base, in your calculation.
+
+**Is 3D Pythagoras and trigonometry in the OxfordAQA 9260 Core tier?**
+No. In OxfordAQA International GCSE Mathematics (9260), reference G19, Pythagoras and trigonometry in 2D figures are Core, while applying them in 3D figures is Extension only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.2 Mensuration and calculation, statement G19.

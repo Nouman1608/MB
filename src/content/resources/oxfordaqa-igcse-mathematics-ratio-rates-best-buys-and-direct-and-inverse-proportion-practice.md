@@ -154,6 +154,20 @@ Show that y is directly proportional to x. **[2]**
 - Try the [free diagnostics](/diagnostics/) to find what to revise next
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you divide an amount in a ratio?**
+Add the parts of the ratio, divide the amount by that total to find one part, then multiply by each number in the ratio. Dividing by the number of shares instead of the total number of parts is a common error.
+
+**How do you show a best buy in an exam answer?**
+Convert to the same units, work out the cost per unit for every option, and state which option is the best buy with the figures that support it. Giving only one unit price or not naming the winner loses marks.
+
+**How do you convert hours and minutes for a speed calculation?**
+Divide the minutes by 60. So 2 h 20 min is 2⅓ hours, not 2.20 hours.
+
+**How can you tell a proportion question is inverse in OxfordAQA 9260?**
+Ask what happens to one quantity if the other doubles. In OxfordAQA International GCSE Mathematics (9260) inverse proportion questions, such as workers and time, more workers means the job takes less time.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams in May/June 2018 onwards, published by OxfordAQA. Section 3.1.3, Ratio and proportion, statements N16 to N20.

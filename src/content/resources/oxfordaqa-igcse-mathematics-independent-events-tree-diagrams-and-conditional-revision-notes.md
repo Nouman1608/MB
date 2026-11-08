@@ -258,6 +258,20 @@ P(exactly two) = 3 × 0.144 = 0.432
 - Leaving "at least one" as a long list of paths and missing one, when 1 − P(none) was available.
 - Giving a probability greater than 1 or below 0 and not noticing.
 
+## Frequently asked questions
+
+**What is the difference between with and without replacement?**
+With replacement the item goes back, so the second-stage probabilities are the same as the first and the stages are independent. Without replacement the total drops by one after each pick, so the later probabilities change.
+
+**How do you calculate conditional probability?**
+Identify the "given" event, restrict attention to the outcomes where it happens to get the new total, then find the part of that total where the other event also happens. In symbols, P(A | B) = P(A ∩ B) ÷ P(B).
+
+**Are independent and mutually exclusive events the same thing?**
+No. Independent events can both happen, and knowing one has happened leaves the other's probability unchanged; mutually exclusive events cannot happen together. They need different tests.
+
+**What does "exactly one" mean in a probability question?**
+It means you add every separate way that exactly one event happens, where each way is a product of probabilities along a path. Counting only one of the cases is a common mistake.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. These notes follow section 3.4.3 Probability, statements S17 and S18.

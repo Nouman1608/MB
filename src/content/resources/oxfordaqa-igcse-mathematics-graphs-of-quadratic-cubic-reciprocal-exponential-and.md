@@ -302,6 +302,23 @@ Solve tan x = 2 for 0° ≤ x ≤ 360°. The first solution is x = 63.4°. The t
 - Starting the sine curve at 1 or the cosine curve at 0.
 - Giving only the first solution of a trig equation in the interval.
 
+## Frequently asked questions
+
+**What graph shapes do you need to recognise for OxfordAQA International GCSE Maths?**
+For OxfordAQA International GCSE Mathematics (9260) you need straight lines, quadratics, simple cubics and y = 1/x at Core, plus y = kˣ for positive k and y = sin x, cos x and tan x at Extension. Each shape tells you something, such as a turning point or asymptotic behaviour, before you calculate.
+
+**How many roots can a quadratic graph have?**
+A quadratic can cross the x-axis twice, touch it once at its turning point, or not meet it at all. The roots are the x-values where y = 0.
+
+**Why does every graph of y = kˣ pass through (0, 1)?**
+Because k⁰ = 1 for any positive k. The curve never reaches the x-axis, since kˣ is always positive; it rises when k > 1 and falls when 0 < k < 1.
+
+**How many times can a cubic graph cross the x-axis?**
+A cubic, with x³ as its highest power, can cross the x-axis up to three times. In factorised form y = (x − a)(x − b)(x − c) it crosses at a, b and c.
+
+**What is the most common mistake with the turning point of y = (x − 4)² − 7?**
+Giving it as (−4, −7). The sign inside the bracket flips, so the turning point is (4, −7).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), section 3.2.2, references A12 and A16, published by OxfordAQA. Check oxfordaqa.com for the latest version.
