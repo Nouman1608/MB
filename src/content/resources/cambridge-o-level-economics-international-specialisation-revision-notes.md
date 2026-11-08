@@ -206,6 +206,20 @@ For a question that asks you to discuss or evaluate, add a second side and a jud
 - Writing an evaluation with no judgement or no "depends on" point.
 - Confusing structural unemployment with a temporary fall in demand.
 
+## Frequently asked questions
+
+**What are the two bases of specialisation at O Level?**
+The syllabus gives superior resource allocation, because resources are unevenly spread between countries, and cheaper production methods, through better technology, more productive workers or large-scale production.
+
+**What are the disadvantages of specialisation for an economy?**
+An economy can become over-dependent on one or a few exports, face structural unemployment as industries decline, deplete resources and become vulnerable to events abroad such as a recession in a trading partner.
+
+**Why does diversification reduce risk?**
+If a country relies on one export for most of its earnings, a fall in its world price hits total export earnings hard. A country with a wider range of exports loses a smaller share when one price falls.
+
+**How does specialisation lead to structural unemployment?**
+Workers in declining industries may lack the skills needed by new export firms, so they stay unemployed even while new jobs exist. This is different from a temporary fall in demand.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 6.1 International specialisation.

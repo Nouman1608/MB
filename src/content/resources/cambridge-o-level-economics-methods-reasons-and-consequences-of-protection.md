@@ -196,6 +196,20 @@ The tariff barely protects home firms. If imports had fallen to 1,400 (a fall of
 
 Test yourself with the [practice questions](/resources/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection-practice/) and condense the unit with the [revision notes](/resources/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection-revision-notes/).
 
+## Frequently asked questions
+
+**What do sections 6.2.4 to 6.2.6 of Cambridge O Level Economics 2281 cover?**
+They cover the methods of protection, the reasons for protection (infant, declining and strategic industries and avoiding dumping) and the consequences of protection for the home country and its trading partners.
+
+**What is the difference between a specific and an ad valorem tariff?**
+A specific tariff charges a set amount on each unit imported. An ad valorem tariff charges a percentage of the good's value.
+
+**Why might a government protect a strategic industry?**
+Industries such as food, energy and defence matter for security or basic needs, so a government may protect them to avoid being cut off by a war, a dispute or a shortage abroad.
+
+**How does protection affect trading partners?**
+Exporters in partner countries sell less, so their revenue and jobs fall. Partners may retaliate with their own tariffs, so both sides can lose sales.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 6.2.4 Methods of protection, 6.2.5 Reasons for protection and 6.2.6 Consequences of protection.

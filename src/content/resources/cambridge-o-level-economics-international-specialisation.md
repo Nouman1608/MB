@@ -215,6 +215,20 @@ Judging whether specialisation is a good idea needs a conclusion, backed by reas
 
 Test yourself next with the [revision notes](/resources/cambridge-o-level-economics-international-specialisation-revision-notes/) and the [practice questions](/resources/cambridge-o-level-economics-international-specialisation-practice/).
 
+## Frequently asked questions
+
+**What does section 6.1 of Cambridge O Level Economics 2281 cover?**
+Section 6.1 covers specialisation at a national level and its bases (6.1.1) and its advantages and disadvantages for consumers, firms and the economy (6.1.2).
+
+**Do you need to calculate opportunity cost for international specialisation?**
+Section 6.1 does not ask for these calculations. Opportunity cost is a useful teaching device for showing why one country might make one good and another country a different one.
+
+**How can selling abroad lower a firm's costs?**
+Exports increase output, so fixed costs are spread over more units and average cost falls. This is an economy of scale made possible by a larger market.
+
+**Can specialisation cause losers as well as winners?**
+Yes. Consumers and export firms usually gain, while workers and firms in industries that cannot compete with imports may lose. Adjustment costs often come first and gains build up over time.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 6.1 International specialisation.
