@@ -70,7 +70,7 @@ Explain why this claim is incorrect. **[2]**
 
 **6.** An object is placed between F and 2F of a converging lens.
 
-**(a)** Describe the image formed (position type, size, orientation, real or virtual). **[3]**
+**(a)** Describe the image formed (position, size, orientation, and whether it is real or virtual). **[3]**
 **(b)** State both parts of the definition of the lens's principal focus. **[2]**
 
 **7.** List the regions of the electromagnetic spectrum in order of increasing frequency, and state

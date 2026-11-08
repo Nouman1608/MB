@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-in-matter-ocr-gcse"
     subtopic: "wave-interaction-ocr-gcse"
-description: "Original practice questions with worked answers on refraction, ray diagrams, lenses and colour for OCR GCSE (9-1) Physics A topic P5.3."
+description: "Original practice questions with worked answers on reflection, refraction, ray diagrams, lenses and colour for OCR GCSE (9-1) Physics A (J249) topic P5.3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

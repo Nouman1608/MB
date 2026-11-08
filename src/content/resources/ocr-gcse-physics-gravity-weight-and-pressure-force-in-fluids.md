@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "forces-in-action-ocr-gcse"
-description: "Study guide to gravitational fields, weight, free fall and pressure force in fluids for OCR GCSE Physics A, with fully worked calculations."
+description: "Study guide to gravitational fields, weight, free fall and pressure in fluids for OCR GCSE Physics A (J249), with fully worked calculations and common errors."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

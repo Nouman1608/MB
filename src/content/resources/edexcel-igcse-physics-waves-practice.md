@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves"
     subtopic: "light-and-sound"
-description: "Original exam-style practice questions with full worked answers on wave properties, the Doppler effect, the electromagnetic spectrum, refraction and sound for Edexcel International GCSE Physics 4PH1."
+description: "Original practice questions with worked answers on wave properties, the Doppler effect, the EM spectrum, refraction and sound for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: question 10 repeated question 5(a) with the same angles; changed it to 60° and 35° (n = 1.51); please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
@@ -88,7 +90,7 @@ Related: [Waves revision notes](/resources/edexcel-igcse-physics-waves-revision-
 **(b)** Explain, using the idea of total internal reflection, how the student could use this material to redirect a beam of light through 90° without losing light to absorption at a reflecting surface. **[3]**
 **(c)** Explain why this design is used in binoculars and periscopes instead of ordinary mirrors. **[2]**
 
-**10.** A ray of light enters a glass block. The angle of incidence is 50° and the angle of refraction is 30°. Calculate the refractive index of the glass. **[2]**
+**10.** A ray of light enters a block of clear plastic from air. The angle of incidence is 60° and the angle of refraction is 35°. Calculate the refractive index of the plastic. **[2]**
 
 ---
 
@@ -120,9 +122,9 @@ Related: [Waves revision notes](/resources/edexcel-igcse-physics-waves-revision-
 **(b)** A 45° prism made from the material can be arranged so the light strikes one internal face at 45°, which is greater than the material's 39° critical angle, so instead of refracting out, the light undergoes total internal reflection off that internal face and is redirected through 90° while remaining inside the prism. **[3]**
 **(c)** Total internal reflection reflects effectively all of the incident light with no absorption loss at the reflecting surface, whereas an ordinary mirror's silvered coating absorbs and scatters a small but significant fraction of the light at every reflection, so a prism-based design keeps the image brighter, especially after several internal reflections in an instrument like a periscope or binoculars. **[2]**
 
-**10.** *n* = sin *i* ÷ sin *r* [1] = sin 50° ÷ sin 30° = 0.766 ÷ 0.500 = **1.53** [1].
+**10.** *n* = sin *i* ÷ sin *r* [1] = sin 60° ÷ sin 35° = 0.866 ÷ 0.574 = **1.51** [1].
 
-*Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 6(a)(ii)–(iii)):* the mark scheme rejects *n* = *i* ÷ *r* and any value found by dividing the angles themselves (in Question 10 above, 50 ÷ 30 = 1.67), and a mark goes to showing the sines. Always take the sines first. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 6.
+*Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 6(a)(ii)–(iii)):* the mark scheme rejects *n* = *i* ÷ *r* and any value found by dividing the angles themselves (in Question 10 above, 60 ÷ 35 = 1.71), and a mark goes to showing the sines. Always take the sines first. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 6.
 
 *Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 1PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-1pr-rms-20240822.pdf), paraphrased.*
 

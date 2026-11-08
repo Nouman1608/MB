@@ -18,7 +18,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-and-materials-oxfordaqa-alevel"
     subtopic: "conservation-of-energy-oxfordaqa-alevel"
-description: "Original practice questions with worked answers on work, power, efficiency and energy conservation for OxfordAQA A-level Physics (9630)."
+description: "Original practice questions with worked answers on work done, power, efficiency and conservation of energy for OxfordAQA International A-level Physics (9630)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

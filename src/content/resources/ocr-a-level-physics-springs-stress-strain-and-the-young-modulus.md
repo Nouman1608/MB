@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "forces-and-motion-ocr-alevel"
     subtopic: "materials-ocr-alevel"
-description: "Study guide to Hooke's law, elastic energy, stress, strain, the Young modulus and stress-strain graphs for OCR A Level Physics A (H556)"
+description: "Study guide to Hooke's law, elastic potential energy, stress, strain, the Young modulus and stress-strain graphs for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

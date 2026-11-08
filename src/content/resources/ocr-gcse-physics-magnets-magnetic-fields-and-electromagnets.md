@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "magnetism-and-magnetic-fields-ocr-gcse"
     subtopic: "magnets-and-magnetic-fields-ocr-gcse"
-description: "Study guide to magnets, field patterns, the Earth's field, current-carrying wires and solenoids for OCR GCSE Physics A (J249), topic P4.1."
+description: "Study guide to magnets, magnetic field patterns, the Earth's field, current-carrying wires and solenoids for OCR GCSE Physics A (J249), topic P4.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

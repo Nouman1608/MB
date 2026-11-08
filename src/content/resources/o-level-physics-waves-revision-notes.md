@@ -23,7 +23,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "waves"
     subtopic: "sound"
-description: "Condensed revision notes on Waves for Cambridge O Level Physics 5054: definitions, equations, methods, a self-test and common lost marks."
+description: "Condensed revision notes on Waves for Cambridge O Level Physics 5054: definitions, equations, light, sound, the EM spectrum, a self-test and common lost marks."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
 featured: false

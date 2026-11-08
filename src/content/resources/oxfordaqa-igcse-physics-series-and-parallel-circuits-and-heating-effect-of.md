@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity-and-magnetism-oxfordaqa-igcse"
     subtopic: "electrical-circuits-oxfordaqa-igcse"
-description: "Study guide to series and parallel circuits, cells in series and the heating effect of current for OxfordAQA International GCSE Physics."
+description: "Study guide to series and parallel circuits, cells in series and the heating effect of an electric current for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

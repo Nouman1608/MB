@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "space-physics-oxfordaqa-igcse"
     subtopic: "life-cycle-of-a-star"
-description: "A full study guide to the life cycle of a star for OxfordAQA International GCSE Physics, with worked examples, charts and common errors."
+description: "A full study guide to the life cycle of a star for OxfordAQA International GCSE Physics (9203), from nebula to white dwarf, neutron star or black hole."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

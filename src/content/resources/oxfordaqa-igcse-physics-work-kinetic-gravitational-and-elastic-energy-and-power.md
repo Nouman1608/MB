@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-oxfordaqa-igcse"
     subtopic: "forces-and-energy-oxfordaqa"
-description: "Study guide to work done, friction heating, elastic, gravitational and kinetic energy, and power for OxfordAQA International GCSE Physics."
+description: "Study guide to work done, friction heating, elastic, gravitational and kinetic energy, and power for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

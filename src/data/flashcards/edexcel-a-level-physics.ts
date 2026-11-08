@@ -54,7 +54,7 @@ export const DECK_EDEXCEL_A_LEVEL_PHYSICS: FlashcardDeck = {
       { n: 7, f: 'Explain how an object falling through air reaches terminal velocity', b: 'As its speed rises, drag increases until it equals the weight. The resultant force, and so the acceleration, is then zero, and the velocity is constant.' },
       { n: 8, f: 'Moment of a force, and the principle of moments', b: 'Moment = F × x, where x is the perpendicular distance from the line of action of the force to the axis. In equilibrium, the sum of clockwise moments about any point = the sum of anticlockwise moments.' },
       { n: 9, f: '60 N hangs 0.8 m left of a central pivot. Where must 40 N hang on the right to balance?', b: '40 × d = 60 × 0.8 = 48, so d = 1.2 m' },
-      { n: 10, f: 'Momentum, impulse and the force–time graph', b: 'p = mv. Impulse = FΔt = Δp, which is the area under a force–time graph.' },
+      { n: 10, f: 'Momentum, and where impulse fits', b: 'p = mv, a vector in kg m s⁻¹. Unit 1 uses conservation of linear momentum in one dimension. Impulse = FΔt = Δp (the area under a force–time graph) is Unit 4 topic 4.3.' },
       { n: 11, f: 'What is conserved in elastic and in inelastic collisions?', b: 'Momentum is conserved in all collisions (no external force). Kinetic energy is conserved only in elastic collisions; in inelastic ones some becomes thermal energy, sound and deformation.' },
       { n: 12, f: 'Work done by a force at an angle θ to the displacement', b: 'W = Fs cos θ. Only the component along the displacement does work, so a force perpendicular to the motion does no work.' },
       { n: 13, f: 'Two expressions for power', b: 'P = W/t, and P = Fv for a force F moving its point of application at velocity v.' },
@@ -153,6 +153,7 @@ export const DECK_EDEXCEL_A_LEVEL_PHYSICS: FlashcardDeck = {
       { n: 7, f: 'Why does an object in uniform circular motion accelerate but keep the same kinetic energy?', b: 'Its direction, and so its velocity, changes continuously. The resultant force is perpendicular to the velocity, so it does no work.' },
       { n: 8, f: 'Minimum speed at the top of a vertical circle on a string', b: 'When the tension is zero, gravity alone provides the centripetal force: mg = mv²/r, so v = √(gr).' },
       { n: 9, f: 'Core Practicals 9 and 10', b: '9: investigate the relationship between force and change of momentum.\n10: use ICT (such as video analysis) to analyse collisions between small spheres.' },
+      { n: 10, f: 'Impulse (Newton\'s second law in Unit 4)', b: 'Impulse = FΔt = Δp, in N s (equal to kg m s⁻¹). It is the area under a force–time graph. Example: a 0.16 kg ball hit from rest to 45 m s⁻¹ receives an impulse of 0.16 × 45 = 7.2 N s.' },
     ]),
     ...sub('unit-4-further-mechanics-fields-and-particles', 'electric-and-magnetic-fields', '4.4', [
       { n: 1, f: 'Electric field strength', b: 'E = F/Q: force per unit positive charge (N C⁻¹ or V m⁻¹). Field lines run from positive to negative.' },

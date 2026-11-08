@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-in-matter-ocr-gcse"
     subtopic: "wave-behaviour-ocr-gcse"
-description: "Original practice questions with worked answers on sound at boundaries, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), including Higher Tier content."
+description: "Original practice questions with worked answers on sound at boundaries, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), incl. Higher Tier."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

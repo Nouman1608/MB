@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "global-challenges-ocr-gcse"
     subtopic: "beyond-earth-ocr-gcse"
-description: "Condensed revision notes on red-shift, expanding universe evidence, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
+description: "Condensed revision notes on red-shift, evidence for an expanding universe, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

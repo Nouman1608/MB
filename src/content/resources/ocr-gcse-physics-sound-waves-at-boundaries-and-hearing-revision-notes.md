@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-in-matter-ocr-gcse"
     subtopic: "wave-behaviour-ocr-gcse"
-description: "Condensed revision notes on sound at boundaries, echoes, ultrasound, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), including Higher Tier only content."
+description: "Condensed revision notes on sound at boundaries, echoes, ultrasound, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), incl. Higher Tier."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

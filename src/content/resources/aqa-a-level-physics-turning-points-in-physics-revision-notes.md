@@ -22,7 +22,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "turning-points-in-physics-aqa-alevel"
     subtopic: "special-relativity-aqa-alevel"
-description: "Condensed revision notes for the AQA A-Level Physics 7408 Turning points option, with formula table, method steps and a quick self-test."
+description: "Condensed revision notes for the AQA A-Level Physics 7408 Turning points option, with a formula table, step-by-step methods and a quick self-test with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false

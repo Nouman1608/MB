@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "electrons-waves-and-photons"
     subtopic: "energy-power-and-resistance"
-description: "Study guide to charge, current, Kirchhoff's first law, drift velocity, circuit symbols, p.d. and e.m.f. for OCR A Level Physics A (H556)."
+description: "Study guide to charge, current, Kirchhoff's first law, drift velocity, circuit symbols, p.d. and e.m.f. for OCR A Level Physics A (H556), with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

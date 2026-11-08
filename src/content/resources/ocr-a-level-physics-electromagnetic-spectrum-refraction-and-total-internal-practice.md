@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "electrons-waves-and-photons"
     subtopic: "waves-ocr-alevel"
-description: "Original practice questions with worked answers on EM waves, polarisation, refraction, critical angle and TIR for OCR A Level Physics A."
+description: "Original practice questions with worked answers on EM waves, polarisation, refraction, critical angle and total internal reflection for OCR A Level Physics A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

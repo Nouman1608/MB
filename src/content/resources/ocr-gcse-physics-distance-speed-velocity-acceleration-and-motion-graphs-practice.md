@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "motion-ocr-gcse"
-description: "Original practice questions with worked answers on OCR GCSE Physics A (J249) P2.1 Motion: speed, velocity, acceleration and motion graphs."
+description: "Original practice questions with worked answers on OCR GCSE Physics A (J249) P2.1 Motion: distance, speed, velocity, acceleration and motion graphs."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "newtonian-world-and-astrophysics"
     subtopic: "oscillations-ocr-alevel"
-description: "Original practice questions with worked answers on SHM, energy, damping and resonance for OCR A Level Physics A (H556) section 5.3."
+description: "Original practice questions with worked answers on simple harmonic motion, SHM energy, damping and resonance for OCR A Level Physics A (H556) section 5.3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
