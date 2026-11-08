@@ -27,7 +27,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked-approach guidance on Paper 2 reading and writing skills for AQA GCSE English Language (8700)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -167,6 +169,20 @@ actually appears in the exam.
   calls for a clear, sustained viewpoint in a specified form.
 - Hedging between both sides of an issue in Section B instead of
   committing to and developing a single, persuasive position.
+
+## Frequently asked questions
+
+**Should I use both sources for the first Paper 2 reading question?**
+No. In this practice the first question is on Source A only, and answering it using both sources is a common way to lose marks. Read each question carefully to see which source it names.
+
+**Is the Paper 2 writing task always a letter?**
+No. Practise planning across different specified forms, such as a letter, speech, article or review, so you are ready for whichever form appears in the exam.
+
+**What are common mistakes in Paper 2 Section B?**
+Writing a narrative or descriptive piece when the task calls for a sustained viewpoint in a specified form, and hedging between both sides instead of committing to and developing one persuasive position.
+
+**How should I write about language in a 19th-century source?**
+Treat period vocabulary and sentence structure as deliberate, analysable features rather than calling them "old fashioned". Ignoring the historical gap between the sources is a common way to lose marks.
 
 ## Official syllabus
 

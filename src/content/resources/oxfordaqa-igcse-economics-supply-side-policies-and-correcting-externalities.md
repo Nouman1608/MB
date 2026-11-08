@@ -254,6 +254,23 @@ Rooftop solar panels cut pollution for everyone. Demand is `Qd = 100 - 2P`, supp
 - Showing a subsidy as shifting demand rather than supply.
 - Using "externality" for any harm. It must fall on a third party.
 
+## Frequently asked questions
+
+**What is the difference between demand-side and supply-side policies?**
+Demand-side policies try to change total spending in the economy. Supply-side policies try to raise the economy's capacity to produce, although whether actual output rises also depends on demand.
+
+**What are the advantages and disadvantages of privatisation?**
+Privatisation can raise efficiency and innovation, and the government saves subsidies and may raise money from the sale. But a private monopoly may raise prices, and unprofitable but valuable services may be cut.
+
+**What is deregulation?**
+Deregulation removes rules that limit entry or restrict how firms operate, such as limits on the number of licences. More firms can then enter, which can increase competition and lower prices.
+
+**How can the government correct a positive externality?**
+It can pay a subsidy, which lowers costs, shifts supply right and raises output; provide the service directly, as with schooling; or run information campaigns that raise awareness of the benefits and so change demand, though their effect is uncertain.
+
+**What are the drawbacks of policies to correct externalities?**
+The government must estimate the external cost or benefit, taxes can be regressive, subsidies cost taxpayers, bans and limits need enforcement and can push activity elsewhere, and taxes may drive production abroad.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), published by OxfordAQA, first teaching September 2023, first examined May/June 2025. Sections 3.2.3.3 and 3.2.3.4.

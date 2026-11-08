@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Original practice with full worked answers on the reading questions and creative writing task of AQA GCSE English Language 8700 Paper 1, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -91,3 +93,17 @@ Related: [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/) |
 - Uneven sentence variety in the creative writing response — several sentences in a row with the same structure and length.
 - Attempting to compare the extract with another text, as if AO3 applied here — it does not; comparison is tested only on Paper 2.
 - Treating all four reading questions as equally deserving of time, rather than weighting time toward Question 4's 20 marks.
+
+## Frequently asked questions
+
+**Should I compare the Paper 1 extract with another text?**
+No. AQA GCSE English Language (8700) Paper 1 does not assess comparison (AO3); comparison is tested only on Paper 2, so bringing in another text does not earn marks.
+
+**Can I write a continuation of the extract for the Paper 1 creative writing task?**
+No. The creative writing task needs an original piece; writing a continuation of the extract is a common way to lose marks.
+
+**How do I improve sentence variety in Paper 1 creative writing?**
+Avoid several sentences in a row with the same structure and length. Vary sentence types and lengths deliberately for effect, since uneven sentence variety is a frequent weakness.
+
+**What do these AQA GCSE English Language Paper 1 practice questions cover?**
+They give original practice with worked approaches on the reading questions and creative writing task of AQA GCSE English Language (8700) Paper 1 (Creative Reading and Writing), using an extract of your choice.

@@ -253,6 +253,23 @@ Remember the trap: a market with many differentiated sellers and easy entry (bak
 - Listing only advantages or only disadvantages when the command word is evaluate.
 - Repeating the same point in different words and gaining credit once.
 
+## Frequently asked questions
+
+**Why are profits likely to be lower in a competitive market?**
+High profit attracts new firms, and because entry is easy, supply rises, price falls and profit per firm falls. Entry stops when little profit is left.
+
+**What causes monopoly and oligopoly power?**
+Causes include high start-up costs, economies of scale, legal protection such as patents and licences, brand loyalty, control of supplies or outlets, mergers and takeovers, and successful growth.
+
+**Is a market with differentiated products always non-competitive?**
+No. A market with many sellers of differentiated products and easy entry, such as bakeries, is still competitive. You need to consider the number of producers, differentiation and ease of entry together.
+
+**Is a large firm a monopoly?**
+Not necessarily. A large firm with many rivals is not a monopoly; a monopoly is a market with a single producer, though the word is sometimes used loosely for a firm with a very large market share.
+
+**How do oligopolists compete if they avoid price wars?**
+Oligopolists are often reluctant to cut prices because rivals may follow, but they still compete, for example through branding, quality and other non-price methods.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International GCSE Economics (9214) specification*, first teaching September 2023, first examined May/June 2025, sections 3.1.5.1 to 3.1.5.3.

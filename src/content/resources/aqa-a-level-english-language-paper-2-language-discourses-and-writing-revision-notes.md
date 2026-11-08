@@ -149,6 +149,23 @@ castle" and "infectious disease" metaphors for complaints about change; Deborah 
 - In directed writing: copying the source texts, using undefined jargon, ignoring the named form.
 - Giving opinions about language without evidence.
 
+## Frequently asked questions
+
+**How long is AQA A-level English Language Paper 2?**
+Paper 2 of AQA A-level English Language (7702) lasts 2 hours 30 minutes, is worth 100 marks and counts for 40% of the A-level. Section B contains a 40-mark analysis of two texts about a language issue and a 30-mark directed writing task on the same issue.
+
+**What is prescriptivism in AQA English Language?**
+Prescriptivism is the view that there is a correct form of the language that people should follow. Recognising prescriptive discourses about language is part of analysing the Section B texts.
+
+**Who is the Paper 2 directed writing task written for?**
+It is written for non-specialists, so explain each language concept with an everyday example and use the conventions of the form, such as a headline or direct address, rather than technical jargon.
+
+**Why should you compare the two texts throughout the 40-mark analysis?**
+Writing two separate mini-essays instead of comparing as you go is a common way to lose marks. Find three or four shared points of comparison and keep linking the texts point by point.
+
+**Which writers about language can I refer to in Section B?**
+Useful references, used sparingly, include Jean Aitchison's The Language Web, with its damp spoon, crumbling castle and infectious disease metaphors for complaints about change, and Deborah Cameron's Verbal Hygiene.
+
 ## Official syllabus
 
 AQA AS and A-level English Language (7701/7702) specification, Version 1.2 (14 October 2021), A-level subject content

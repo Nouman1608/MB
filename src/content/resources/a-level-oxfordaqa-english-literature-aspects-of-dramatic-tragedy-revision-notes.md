@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Condensed recall notes on Unit 1's two-section structure and genre-focused approach for OxfordAQA International AS & A-Level English Literature (9675)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -136,3 +138,17 @@ applies to you.
 4. What proportion of the full International A-level does Unit 1 represent?
 
 **Answers:** 1. Two plays — one Elizabethan/Jacobean tragedy for Section A, one later dramatic tragedy for Section B. 2. The tragic hero's fatal flaw or error of judgement that precipitates their downfall. 3. Because the highest marks reward genuine critical debate about how a play uses, complicates or subverts genre conventions, rather than simply identifying that a convention is present. 4. 20% of the full International A-level (also 50% of the International AS).
+
+## Frequently asked questions
+
+**Is OxfordAQA 9675 Aspects of Dramatic Tragedy open book?**
+No. Unit 1 is a 2-hour closed-book exam worth 50 marks, which is 50% of the International AS and 20% of the full International A-level, so you need a memorised quotation bank.
+
+**How many plays do I study for Aspects of Dramatic Tragedy?**
+Two plays, one per section: an Elizabethan or Jacobean tragedy for Section A and a later dramatic tragedy from a different period for Section B.
+
+**Do I have to use the term hamartia in OxfordAQA 9675?**
+No. The specification describes these ideas in plain English, such as the flaws, pride and folly of tragic protagonists and tragedy's power to move an audience through pity and fear, rather than requiring Greek critical terms. Terms such as hamartia and catharsis are useful revision shorthand.
+
+**Is there a new OxfordAQA 9675 specification?**
+Yes. OxfordAQA has published a revised 9675 specification, Version 5.6, for first teaching from 2027, with a refreshed set-text list and a renamed Unit 1. Confirm which version and set-text list apply to your exam year.

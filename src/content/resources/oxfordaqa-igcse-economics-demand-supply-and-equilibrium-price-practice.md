@@ -158,6 +158,23 @@ Revise first with the [study guide](/resources/oxfordaqa-igcse-economics-demand-
 - Try the [other markets practice](/resources/igcse-oxfordaqa-economics-markets-practice/), then all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you explain the effect of a change on equilibrium price?**
+Name the curve that shifts and why, give the direction, state the excess demand or excess supply at the original price, then explain how price and quantity move to the new equilibrium. Skipping the step at the original price is a common way to lose marks.
+
+**How do you calculate revenue when the price is not at equilibrium?**
+Revenue is price multiplied by the quantity actually traded. Away from equilibrium that is the smaller of quantity demanded and quantity supplied, so check which one applies before multiplying.
+
+**How do you earn evaluation marks on a supply and demand question?**
+Tie each limit of the model to the market and country named in the question rather than listing general limits, and reach a judgement. Generic evaluation that could apply to any market earns less credit.
+
+**What are common mistakes on demand and supply questions?**
+Frequent slips include calling a move caused by the good's own price a shift, naming a shift without saying which curve moved or in which direction, giving an equilibrium price without the quantity, and leaving out units such as cu or kg.
+
+**Which sections of OxfordAQA 9214 do these demand and supply questions cover?**
+They cover sections 3.1.3.1 to 3.1.3.3 of the OxfordAQA International GCSE Economics (9214) specification: demand, supply and equilibrium price, including revenue on a supply and demand diagram.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification Version 1.0, first teaching September 2023, first examined May/June 2025. Published by OxfordAQA.

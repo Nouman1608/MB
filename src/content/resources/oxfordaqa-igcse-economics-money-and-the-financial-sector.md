@@ -224,6 +224,23 @@ Each household pays a small known amount instead of risking a large loss. Househ
 - Saying lower interest rates always raise spending. They are less effective when confidence is low.
 - Treating a bank's deposits as its own money. They are owed to savers.
 
+## Frequently asked questions
+
+**What is money in economics?**
+Money is anything that people will accept in exchange for goods and services and in repayment of debts. The OxfordAQA International GCSE Economics (9214) specification says money can be defined as more than the banknotes and coins in circulation.
+
+**How does inflation affect lenders and borrowers?**
+Unexpectedly high inflation reduces the real value of a loan repayment, so it harms lenders and helps borrowers. This is one reason why stable prices matter for money to work as a means of deferred payment.
+
+**How does a central bank influence interest rates?**
+It sets its own policy rate, and the rates that commercial banks charge borrowers and pay savers tend to follow it. Lower rates make borrowing cheaper, so households spend more and firms invest more, raising aggregate demand.
+
+**How do commercial banks make a profit?**
+A commercial bank pays savers interest on deposits and charges borrowers a higher rate on loans. Its gross interest margin is the interest received minus the interest paid, and it takes the risk that some borrowers do not repay.
+
+**Why does a bank run threaten a sound bank?**
+When depositors fear a bank may fail they all withdraw at once, and because the bank keeps only part of its deposits as cash, even a sound bank can run short. Central banks help protect the system's stability for this reason.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification version 1.0, for exams May/June 2025 onwards, published by OxfordAQA. Sections 3.2.5.1 and 3.2.5.2.

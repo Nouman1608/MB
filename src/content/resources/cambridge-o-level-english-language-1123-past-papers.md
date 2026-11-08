@@ -12,7 +12,9 @@ order: 1
 description: "1123 English Language past papers guide: grade thresholds for 2022 to 2024 and examiner-report notes for every June and November series, 2022 to 2025."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -273,6 +275,23 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. **Try a free diagnostic.** There is no dedicated 1123 diagnostic yet, but you can see what we offer on the [diagnostics page](/diagnostics/).
 6. **Re-test on a different series** a week or two later, and compare your marks against that series' thresholds. See [grade thresholds](/grade-thresholds/) for the June 2026 figures for our flagship syllabuses, and the [exam calendar](/exam-calendar/) for your dates.
 7. **Get feedback on your writing.** Having a teacher mark your directed writing and compositions shows you which level you are working at. Book a [free trial lesson](/trial/).
+
+## Frequently asked questions
+
+**Which 1123 paper is Reading and which is Writing?**
+On the current Cambridge O Level English Language (1123) syllabus, first sat in June 2024, Paper 1 is Reading and Paper 2 is Writing, each worth 50%. In the 2022 and 2023 papers the order was reversed, so Papers 11 and 12 from those years are Writing papers and Papers 21 and 22 are Reading papers.
+
+**How should I use 1123 past papers, mark schemes and examiner reports?**
+Sit the paper first under timed conditions, mark it strictly with the mark scheme, then read the examiner report for that series to see why answers gained or lost marks. The report often explains a mark more clearly than the scheme does.
+
+**What mistakes do examiners mention most often in 1123 Reading?**
+Repeated faults include weak own-words answers, such as reusing the given word or explaining only one of two words, copying a phrase instead of giving inference, and giving an example in a summary where the overarching point was needed.
+
+**What is the most common mistake in 1123 descriptive writing?**
+Descriptive pieces that turn into a story, narrating an event or a visit instead of describing place, people and atmosphere, are noted in every series from June 2022 to November 2025.
+
+**Do longer 1123 answers score more marks?**
+Not necessarily. Plan before you write and stay near the suggested word count, because very long answers tend to collect more errors, not more marks.
 
 ## About these notes
 

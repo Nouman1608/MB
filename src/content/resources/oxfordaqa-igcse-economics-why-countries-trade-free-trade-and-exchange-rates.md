@@ -259,6 +259,23 @@ An appreciation does the opposite: imports get cheaper (150 bexo costs 60 arlo a
 - Listing arguments against free trade with no chain of reasoning or judgement.
 - Ignoring elasticity when saying a depreciation will help exporters.
 
+## Frequently asked questions
+
+**Why do countries trade?**
+No country can produce everything efficiently, so trade lets countries specialise, gain from lower prices and wider choice, reach economies of scale, get resources they lack and become more efficient through foreign competition.
+
+**How does specialisation create gains from trade?**
+Each country specialises in the good it can produce at a lower opportunity cost and trades for the other. Trade then allows both countries to consume more of both goods than they could produce on their own.
+
+**What is global interdependence?**
+Countries are interdependent when each relies on others for markets, goods or materials. This brings gains from trade but also risks, since a recession or supply problem in one country can spread to its trading partners.
+
+**What makes a currency appreciate?**
+A currency appreciates when demand for it rises or its supply falls, for example when foreign demand for the country's exports increases. Residents buying more imports adds to the supply of the currency and tends to make it depreciate.
+
+**What are the costs of a free-trade agreement?**
+Previously protected industries face new competition, governments lose tariff revenue, trade may shift from a cheaper non-member to a dearer member (trade diversion), and members have less freedom to set their own rules.
+
 ## Official syllabus
 
 This guide follows the OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025 onwards, published by OxfordAQA. For demand, supply and elasticity see [how markets work](/resources/igcse-oxfordaqa-economics-how-markets-work/).

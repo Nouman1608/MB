@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Original practice with full worked answers on Paper 1 Shakespeare and the 19th-century novel of AQA GCSE English Literature 8702, for any set texts studied."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -105,3 +107,17 @@ support multiple possible essay questions (extract analysis, character developme
 argument, relationship change) rather than just one. Practising retrieval of that bank under timed
 conditions — not just reading it over — is what makes it usable in the actual exam, where recall
 under pressure is a different skill from simply recognising a quotation when you see it.
+
+## Frequently asked questions
+
+**Is AQA GCSE English Literature Paper 1 open book?**
+No. Paper 1 is closed book, so every quotation has to come from memory. Build a compact bank covering two or three major characters, two or three central themes and a handful of pivotal moments per text.
+
+**How should I revise for an unpredictable extract?**
+Practise on several short extracts from your own play and novel, timing a 5-minute plan that notes what the extract reveals, which whole-text moments it connects to and which context is relevant. This is closer to the exam skill than rehearsing one polished essay.
+
+**How should I use context in AQA 8702 Paper 1 answers?**
+Integrate context throughout the analysis, and make it specifically relevant to why a character or relationship develops as it does. A disconnected final context paragraph, or generic historical background, is a common way to lose marks.
+
+**Should I write about staging in a Shakespeare answer?**
+Yes. Treat the play as drama: answers that ignore staging and performance and treat the play purely as printed text lose marks.

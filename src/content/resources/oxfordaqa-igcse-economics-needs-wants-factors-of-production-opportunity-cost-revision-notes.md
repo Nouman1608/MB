@@ -301,6 +301,23 @@ Use "because", "so" and "this means" to show each link. A conclusion should answ
 - Stating that specialisation is risky without explaining why.
 - Skipping the working in calculation questions.
 
+## Frequently asked questions
+
+**What are the three key economic decisions?**
+Every economy must decide what to produce, how to produce it and who is to benefit from the output.
+
+**Does capital mean money in economics?**
+No. Capital means equipment made to produce other goods and services, such as machines and tools. Treating money as a factor of production is a common error.
+
+**What is the difference between specialisation and division of labour?**
+Specialisation means concentrating on a limited range of tasks, products or services, and can happen at the level of individuals, firms, regions or countries. Division of labour is one form of specialisation, where production is split into separate tasks and each worker does one.
+
+**Why is it risky for a country to specialise in a narrow range of exports?**
+If most export earnings come from one product, a fall in its price causes a large fall in total earnings. A country with a wide range of exports would lose less from the same price fall.
+
+**How do you calculate the change in a sector's share of jobs?**
+Find each year's share by dividing the sector's jobs by total jobs and multiplying by 100, then subtract one share from the other. Give the answer in percentage points, not per cent.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), version 1.0, for exams from May/June 2025 onwards, published by OxfordAQA, sections 3.1.1 and 3.1.2.

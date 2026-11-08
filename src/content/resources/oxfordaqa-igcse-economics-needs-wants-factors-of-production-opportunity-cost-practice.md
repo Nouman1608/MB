@@ -129,6 +129,20 @@ These questions cover sections 3.1.1 and 3.1.2 of the OxfordAQA International GC
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is opportunity cost?**
+Opportunity cost is the benefit of the next best alternative given up when a choice is made. It is only that single best alternative, so adding all the alternatives together is a common mistake.
+
+**How should I write a change in a sector's share of jobs?**
+Work out each share as a percentage of total jobs, then give the difference in percentage points. Writing "%" when the question asks for percentage points is a common error.
+
+**How do you answer an evaluate question on a spending choice?**
+Weigh the costs and benefits of each option using the figures given, then end with a clear choice and the reason it wins. Stopping at "it depends" or giving a balanced list with no decision limits the marks.
+
+**Which sections of OxfordAQA 9214 do these practice questions cover?**
+They cover sections 3.1.1 (Economic foundations) and 3.1.2 (Resource allocation) of OxfordAQA International GCSE Economics (9214): needs and wants, factors of production, opportunity cost, markets, sectors and specialisation.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), version 1.0, for exams from May/June 2025 onwards, published by OxfordAQA, sections 3.1.1 and 3.1.2.

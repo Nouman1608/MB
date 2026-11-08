@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "natural-resources-5014-2027"
     subtopic: "fracking-5014-2027"
-description: "Fossil fuel formation, renewable and non-renewable energy resources, energy demand, conservation and management of energy resources, and fracking -- sub-topics 1.4-1.6 of Topic 1 Natural resources in the 2027-2029 Cambridge O Level Environmental Management (5014) syllabus."
+description: "Fossil fuels, energy resources, energy demand, energy management and fracking: sub-topics 1.4 to 1.6 of the 2027-2029 O Level Environmental Management 5014."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
@@ -289,3 +291,20 @@ one (1000 / 3000 x 100 would give the wrong answer, 33%).
 - **Case study.** The 2025-2026 syllabus recommended a case study of an oil
   pollution event; the 2027-2029 syllabus has removed its recommended case
   studies.
+
+## Frequently asked questions
+
+**Why is nuclear power non-renewable?**
+Nuclear power is non-renewable because its fuel, uranium, is a finite resource mined from the Earth, even though no fuel is burned.
+
+**Do heat pumps only work in volcanic areas?**
+No. Ground and air source heat pumps work in most climates. They need electricity to run but deliver more heat energy than the electrical energy they use; the volcanic link applies to geothermal electricity, not heat pumps.
+
+**Does battery storage save energy?**
+No. Battery storage stores surplus electricity, for example from solar or wind, for use later. This helps renewables replace fossil fuels, but it adds cost.
+
+**How is fracking defined in 5014?**
+The syllabus defines fracking as "the extraction of natural gas or petroleum from shale rock by hydraulic fracturing". Shale is impermeable, which is why the gas cannot be extracted without fracturing it.
+
+**How do you calculate a percentage reduction in energy use?**
+Divide the reduction by the original value and multiply by 100. Dividing by the new value gives the wrong answer.

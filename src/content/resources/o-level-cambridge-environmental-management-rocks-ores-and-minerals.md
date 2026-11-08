@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "natural-resources-5014-2027"
     subtopic: "sustainable-management-of-rocks-ores-and-minerals-5014-2027"
-description: "Formation of rocks, extraction of rocks, ores and minerals, and their sustainable management -- sub-topics 1.1-1.3 of Topic 1 Natural resources in the 2027-2029 Cambridge O Level Environmental Management (5014) syllabus."
+description: "Rock formation, the rock cycle, extracting rocks, ores and minerals, and their sustainable management: sub-topics 1.1 to 1.3 of the 2027-2029 O Level 5014."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
@@ -322,3 +324,20 @@ low-grade ores and old mine waste.
   enforcement and alternative materials.
 - **Case study.** The 2025-2026 syllabus recommended a case study of a
   mine; the 2027-2029 syllabus has removed its recommended case studies.
+
+## Frequently asked questions
+
+**How is permeability defined in O Level Environmental Management 5014?**
+The syllabus defines permeability as "the ability of water to pass through the pore spaces of rock and soil". Most sedimentary rocks are permeable, while igneous and metamorphic rocks and some sedimentary rocks, including shale, are impermeable.
+
+**What is an ore?**
+The syllabus defines an ore as "rock containing minerals and metals". The proportion of useful metal in an ore is its ore grade, one of the factors that affect the decision to extract.
+
+**What are the three methods of extraction in the 2027-2029 5014 syllabus?**
+Surface, subsurface and biological extraction. Biological extraction, through phytomining and bioleaching, is slow but can recover metal from low-grade ores and mine waste and disturbs far less land.
+
+**What is the difference between weathering and erosion?**
+Weathering breaks rock down where it is, while erosion removes the weathered material. Using the two terms as if they meant the same is a common mistake.
+
+**What is a finite resource?**
+The syllabus defines a finite resource as "a natural resource that is used up at a faster rate than it is replaced". Use the syllabus definition rather than your own loose wording.

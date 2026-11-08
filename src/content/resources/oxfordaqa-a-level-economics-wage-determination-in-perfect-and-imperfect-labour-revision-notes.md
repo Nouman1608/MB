@@ -208,6 +208,23 @@ Employment is the lower of supply and demand at the fixed wage. Wages from 10 up
 - Quoting percentages without the working or the base.
 - Describing the benefits and costs but never reaching a judgement.
 
+## Frequently asked questions
+
+**What is the hiring rule for a firm in a perfectly competitive labour market?**
+A firm that is a wage taker keeps hiring until the marginal revenue product (MRP) of the last worker has fallen to the market wage. Because it can hire any number at that wage, the supply curve it faces is horizontal, so the average and marginal cost of labour both equal the wage.
+
+**Why is the monopsony wage read from the supply curve and not the MCL curve?**
+A monopsonist chooses employment where the marginal cost of labour (MCL) equals MRP, but it only has to pay the wage needed to attract that number of workers. That wage is shown by the supply (average cost of labour) curve at the chosen employment, which lies below MCL.
+
+**Can a trade union raise both wages and employment?**
+Yes, if it bargains with a monopsonist. A union wage set between the monopsony wage and the MRP at the monopsony level of employment can raise pay and keep employment at or above the monopsony level, whereas a union wage above equilibrium in a competitive market reduces employment and creates excess supply.
+
+**What is a bilateral monopoly in labour economics?**
+A bilateral monopoly is a labour market where a single seller of labour, such as a trade union, bargains with a single buyer of labour, a monopsonist. The wage that results depends on the relative bargaining power of the two sides.
+
+**Which part of the OxfordAQA 9640 specification covers wage determination?**
+Sections 3.3.4.3 (perfectly competitive labour markets) and 3.3.4.4 (imperfectly competitive labour markets) of the OxfordAQA International AS and A-level Economics (9640) specification. Section 3.3 is International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, first teaching September 2020, first International A-level exams May/June 2022, published by OxfordAQA. Sections 3.3.4.3 and 3.3.4.4, with section 3.5 (quantitative skills).

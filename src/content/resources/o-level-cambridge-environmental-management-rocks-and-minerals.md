@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "rocks-and-minerals-and-their-exploitation-5014"
-description: "Rock formation, extraction and sustainable use -- the opening topic of Cambridge O Level Environmental Management (5014), a nine-topic syllabus sharing content with sibling IGCSE 0680."
+description: "Rock formation, mineral extraction, its impacts and sustainable use: Topic 1 of the outgoing 2025-2026 Cambridge O Level Environmental Management 5014 syllabus."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -152,3 +154,20 @@ Saying metamorphic rocks are "melted" — they are altered in the solid state, s
 - Describe the environmental impacts of extraction and processing.
 - Match each impact to a realistic management strategy.
 - Evaluate the assumptions behind any "how long will it last" calculation.
+
+## Frequently asked questions
+
+**What is a mineral?**
+A mineral is a naturally occurring solid with a definite chemical composition and an ordered crystalline structure. Quartz and feldspar are common examples, while haematite and cassiterite are minerals worked for the iron and tin they contain.
+
+**What is the difference between a resource and a reserve?**
+A reserve is a known deposit that has not yet been mined and could be extracted in future; a resource becomes a reserve only when extraction is economically viable. Reserve figures are estimates that rise when new deposits are found or higher prices make lower-grade ore worth working.
+
+**Are metamorphic rocks formed by melting?**
+No. Metamorphic rocks are altered by heat and pressure in the solid state; rock that melts becomes magma and forms igneous rock.
+
+**Why is a "how long will reserves last" calculation unreliable?**
+Dividing reserves by the annual extraction rate assumes the rate stays constant, no new deposits are found, the economic threshold is fixed and no substitution or recycling reduces demand. Explaining these assumptions earns more marks than the calculation itself.
+
+**Which 5014 edition does this rocks and minerals guide follow?**
+It follows the outgoing 2025-2026 edition, with its nine-topic structure. The 2027-2029 edition restructures the subject into seven topics and adds a definition of ore and biological extraction.

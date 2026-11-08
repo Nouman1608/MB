@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with worked answer plans on Paper 1 Prose and Drama for OxfordAQA International GCSE English Literature (9275)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -90,3 +92,17 @@ Rather than searching for suitable quotations under exam pressure, prepare a sho
 ## Why command words matter as much as content knowledge
 
 Both "explore" and "discuss" invite a genuinely analytical response rather than a purely descriptive one -- a response that only narrates what happens in the text, however accurately, will not reach the top band against either command word. Treat every practice question as requiring a clear analytical argument, built and sustained across the whole response, with quotations and technique-analysis used as evidence for that argument rather than as isolated observations dropped in without connection to a wider point.
+
+## Frequently asked questions
+
+**Why does the edition of my set text matter?**
+Confusing details from a different edition or adaptation of the set text is a common way to lose marks, so check that you are revising from the edition your course uses.
+
+**How do I answer a two-part question on a play?**
+Address every part of the question's wording. For example, discussing what a conflict is about without addressing how it is staged answers only half of the question.
+
+**How should I choose quotations for OxfordAQA 9275 Prose and Drama?**
+Use short, precisely selected quotations that support a clear analytical point. Quotations that are too long or imprecise weaken the analysis.
+
+**How are these OxfordAQA questions marked?**
+OxfordAQA marks these questions with a single holistic mark against a described level, not by adding up separate points.

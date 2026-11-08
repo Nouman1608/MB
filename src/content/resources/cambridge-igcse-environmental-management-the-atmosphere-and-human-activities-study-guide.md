@@ -138,3 +138,20 @@ Command words matter. Describe asks what something is like; explain asks for a r
 6. How does ozone depletion harm people? (More ultraviolet radiation reaches the surface, raising the risk of skin cancer and cataracts.)
 7. A power station emits 5,000 tonnes of sulfur dioxide a year and scrubbers remove 90 per cent. What is emitted? (500 tonnes.)
 8. Why is acid rain an international problem? (Winds carry the gases across borders, so it falls in countries that did not produce it.)
+
+## Frequently asked questions
+
+**What is the difference between the natural and enhanced greenhouse effect?**
+The natural greenhouse effect is the warming caused by gases such as carbon dioxide, methane and water vapour absorbing heat radiated from the Earth, and it keeps the planet warm enough for life. The enhanced greenhouse effect happens when human activities add extra greenhouse gases, so more heat is trapped.
+
+**What is the pH of normal rain?**
+Natural rain is slightly acidic, with a pH of about 5.6, because carbon dioxide dissolves in it. Rain at pH 5.6 is normal rain, not acid rain.
+
+**Why is acid rain an international problem?**
+Winds carry the gases that cause acid rain across borders, so it often falls in countries far from where the gases were produced.
+
+**Is the ozone hole the same as global warming?**
+No. Ozone depletion is caused by chlorine and bromine from human-made chemicals thinning the ozone layer, which lets more ultraviolet radiation reach the surface. Confusing it with global warming is a common mistake.
+
+**What did the Montreal Protocol do?**
+The Montreal Protocol, agreed in 1987, committed countries to phase out CFCs and similar ozone-depleting substances.

@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Condensed notes on Cambridge A Level English Language 9093 Paper 4 Language Topics: English in the World and Language and the Self, with key models."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -101,6 +103,23 @@ Because both sections reward specific, named evidence rather than general assert
 ## Distinguishing Section A and Section B focus quickly
 
 If a stimulus text is about how English is used, spread or received *between countries or regions* (a news story about a language policy, a debate about acronyms in another country's media), it belongs to Section A. If it is about how language marks *who someone is within a smaller group* (a workplace, a friendship group, a generation, a region within one country), it belongs to Section B. This quick sorting test is a useful first check when reading any unfamiliar stimulus, since misreading which section's knowledge a text calls for can lead to widening out with the wrong set of named concepts.
+
+## Frequently asked questions
+
+**How long is Cambridge 9093 Paper 4?**
+Paper 4 Language Topics lasts 2 hours 15 minutes, carries 50 marks and is worth 25% of the A Level. It is A Level only and has two compulsory, equally weighted sections: English in the World and Language and the Self.
+
+**What is zero translation?**
+Zero translation is using an English word or acronym untranslated within another language's text, for example "WiFi" or "CEO" appearing in Chinese media.
+
+**What are the three strands of Language and the Self?**
+The strands are innateness and learning, language and thought, and language and social identity. A stimulus can draw on any of them, so revise all three.
+
+**What are hybrid varieties of English?**
+Hybrid varieties blend English with a local language, such as Hinglish, Singlish and Spanglish. They are part of the English in the World content.
+
+**What theories of language and gender should I know?**
+Named approaches include the deficit, dominance and difference models, along with diversity, standpoint and muted-group approaches.
 
 ## Official syllabus
 

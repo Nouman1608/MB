@@ -152,6 +152,23 @@ These questions follow specification references 3.1.6.1 and 3.1.6.2 in OxfordAQA
 - Try all the free 10-minute diagnostics at [diagnostics](/diagnostics/).
 - Book a free trial class at [trial](/trial/).
 
+## Frequently asked questions
+
+**How do you decide whether an externality is from production or consumption?**
+Ask who creates the effect: if it comes from making the good it is a production externality, and if it comes from using the good it is a consumption externality. Then decide whether the effect on third parties is positive or negative.
+
+**How do you find the socially best output from a table?**
+Add the external cost or benefit to the private column to get the social column, then find the last unit where benefit is at least as great as cost using the social figures. Using the private column when the question asks for the social optimum is a common error.
+
+**How do you work out the cost of a subsidy?**
+Find the new output once the subsidy is in place first, then multiply the subsidy per unit by that output. A subsidy bill is government spending, so treating it as revenue is a mistake.
+
+**What are common mistakes on market failure questions?**
+Common slips include leaving resources or efficiency out of a definition, adding the external cost to the wrong side of a table, forgetting the negative sign or unit in an elasticity answer, and naming a policy without saying how it changes costs or behaviour.
+
+**What do these OxfordAQA 9214 market failure questions cover?**
+They follow specification references 3.1.6.1 (misallocation of resources) and 3.1.6.2 (externalities) of OxfordAQA International GCSE Economics (9214), including taxes and subsidies.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), published by OxfordAQA, first teaching September 2023, first examined May/June 2025. Sections 3.1.6.1 and 3.1.6.2.

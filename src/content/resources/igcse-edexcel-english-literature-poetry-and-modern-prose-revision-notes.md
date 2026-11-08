@@ -24,7 +24,9 @@ syllabusTopics:
 description: "Condensed recall notes on the three-section structure and assessment objectives of Component 1 for Pearson Edexcel International GCSE English Literature (4ET1)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -123,3 +125,17 @@ into the analysis throughout.
 4. How does the paper itself recommend you allocate your two hours across the three sections?
 
 **Answers:** 1. 90 marks, 60% of the whole IGCSE. 2. AO2 and AO3 — AO3 specifically requires directly comparing the two poems, not just analysing them side by side. 3. Because Section C rewards AO1 (a supported, developing argument) and AO4 (context), neither of which a plot summary demonstrates. 4. Following the paper's own printed timings: 35 minutes on Section A, 40 on Section B, and 45 on Section C, leaving a few minutes to check all three responses.
+
+## Frequently asked questions
+
+**Which sections of 4ET1 Component 1 are closed book?**
+Only Section C, the modern prose text, is closed book. The Section A unseen poem is printed on the paper, so no memorisation is needed there.
+
+**Do I get a choice of questions in 4ET1 Component 1?**
+Yes. Section B offers a choice of two questions, each comparing two anthology poems, and Section C offers a choice of two questions on each set prose text; you answer one in each.
+
+**Which assessment objectives does each section of Component 1 test?**
+Section A is pure AO2, Section B assesses AO2 and AO3 (comparison), and Section C assesses AO1 (an informed, textually supported response) and AO4 (context).
+
+**Do the 4ET1 set texts change every exam series?**
+No. The poetry anthology and modern prose set texts are revised by specification issue, not rotated by examination series.

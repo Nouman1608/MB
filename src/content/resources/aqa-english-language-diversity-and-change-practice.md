@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Original practice with full worked answers on sociolect, dialect, context and language change for AQA A-Level English Language 7702 Paper 2 Section A."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
@@ -93,3 +95,17 @@ Related: [Language Diversity and Change study guide](/resources/a-level-aqa-engl
 ## Approaching diversity and change questions
 
 Work through context systematically — personal, social, geographical and temporal context, then audience/purpose/genre/mode — before analysing individual language features in any unfamiliar text, since this establishes the context a strong answer needs before it can explain why a feature matters. When a question presents dialect features specifically, look for non-standard spelling, pronunciation markers, regional lexis and grammar together rather than relying on a single feature, and always state which basis of variation (social versus geographical) is being tested, since confusing the two undermines the basis of the whole analysis. For the evaluative essay style, keep two or three named debates prepared in advance — prescriptivist versus descriptivist attitudes to change, and debates about stigmatised dialects or sociolects are the two most reliably useful — so a specific, credited reference point is always available regardless of which particular question or text the exam provides.
+
+## Frequently asked questions
+
+**How should I approach an unfamiliar text in AQA 7702 Paper 2 Section A?**
+Work through context systematically, covering personal, social, geographical and temporal context and then audience, purpose, genre and mode, before analysing individual language features. This gives the context needed to explain why a feature matters.
+
+**What is a common mistake when identifying dialect or sociolect features?**
+Identifying a feature without linking it to its social function or to the identity and relationship concepts the specification names. Always state which basis of variation, social or geographical, is being tested.
+
+**How should I use corpus or frequency data in an answer?**
+Do not treat quantitative evidence as self-explanatory. Note what caution is needed before drawing a conclusion from it, then link it to the diversity or change lens the question asks for.
+
+**How do I reach a strong judgement in an evaluative essay on language change?**
+Keep two or three named debates ready, such as prescriptivist versus descriptivist attitudes and debates about stigmatised dialects or sociolects, and end with a reasoned judgement that engages with them. Ending without a judgement loses marks.

@@ -24,7 +24,9 @@ syllabusTopics:
 description: "Original practice with worked answers on AQA GCSE English Literature 8702 Paper 2: modern texts, the poetry anthology cluster and the two unseen poetry tasks."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
@@ -149,3 +151,17 @@ differ before writing a single word, since a clear comparative plan in the first
 a far more focused answer than discovering the comparison as you write. Practising this two-question
 structure regularly, on poems you have genuinely never seen before, is the only preparation that
 transfers directly to the exam.
+
+## Frequently asked questions
+
+**Is there an extract in Section A of AQA GCSE English Literature Paper 2?**
+No. Paper 2 Section A is a whole-text essay with no supplied extract, unlike Paper 1's Shakespeare question, so revise memorised evidence spread across the beginning, middle and end of your modern text.
+
+**How many marks is the unseen poetry section worth?**
+Section C carries 32 of the paper's 96 marks, compared with 34 for Section A and 30 for Section B, so it is too large a share to under-time.
+
+**Are the unseen poems in this practice from real exam papers?**
+No. The two Section C poems are original short poems written for this resource, not past-paper or anthology material. Use them alongside the official past papers available free from AQA.
+
+**When should I choose my second poem for Section B?**
+Decide on possible pairings in advance rather than choosing a second poem under exam pressure. Comparisons that address theme only, without language, form and structure, also lose marks.

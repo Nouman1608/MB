@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Original stimulus-based discussion questions with model structures on English in the World and Language and the Self for Cambridge 9093 Paper 4."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -154,3 +156,17 @@ Both model approaches above follow the same underlying shape: identify the speci
 - Naming a relevant concept (lingua franca, cultural imperialism, sociolect) without linking it explicitly back to the extract's own content.
 - Assuming Section B is only about social identity and having no prepared examples for the innateness-and-learning or language-and-thought strands.
 - Uneven development between paragraphs, with a long first point and a rushed conclusion that never reaches a genuine judgement.
+
+## Frequently asked questions
+
+**How do you answer a Cambridge 9093 Paper 4 stimulus question?**
+Identify the specific issue the extract raises, develop it with wider knowledge from your study, weigh both sides of the debate and reach a considered judgement. Every paragraph should refer back to the extract rather than drifting into a general prepared essay.
+
+**What is the difference between idiolect and sociolect?**
+An idiolect is an individual's own distinctive way of speaking. A sociolect is a variety shared by a social group, such as an occupation, class or age group; a regionally defined variety is a dialect.
+
+**Is Paper 4 Section B only about language and identity?**
+No. A Language and the Self stimulus can also be about language and thought, such as the Sapir-Whorf hypothesis, or about how language is acquired. Assuming Section B is only about social identity is a common mistake.
+
+**What is the Sapir-Whorf hypothesis?**
+The Sapir-Whorf hypothesis, or linguistic relativity, holds that the structure of a language can shape how its speakers think; in its strong form, it determines thought. Critics, including universalists, argue that correlation is not causation and that other factors may explain the differences.

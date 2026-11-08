@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "water-0680"
     subtopic: "marine-aquaculture-0680"
-description: "Original exam-style practice questions with full worked answers on the water cycle, water pollution, water-related diseases and marine aquaculture, for Cambridge IGCSE Environmental Management (0680) Topic 3 Water."
+description: "Original practice questions with worked answers on the water cycle, water pollution, water-related diseases and aquaculture for Cambridge IGCSE 0680 Water."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -159,3 +161,14 @@ rather than only listing benefits. Question 6 rewards keeping malaria and choler
 strictly separate by transmission mechanism — vector control belongs to malaria, sanitation-based
 measures belong to cholera — since mixing the two up is the most common error the study guide flags
 for this sub-topic. Question 9 rewards the same store-versus-transfer discipline the study guide recommends for revising the water cycle: learning both as two separate, linked lists, rather than trying to hold the whole cycle as a single undifferentiated diagram.
+
+## Frequently asked questions
+
+**Are these 0680 Water practice questions from Cambridge past papers?**
+No. They are original questions written for Marlbridge and do not replicate the exam's exact structure, question count or mark tariffs. Use them alongside the official Cambridge past papers.
+
+**How should I answer a "discuss the benefits and limitations" question?**
+Pair each benefit you name with a specific, corresponding limitation rather than listing benefits only, and avoid generic points such as "it is expensive".
+
+**What should I revise before trying these Water questions?**
+The page links to the Water study guide and the Water revision notes for Cambridge IGCSE Environmental Management (0680).

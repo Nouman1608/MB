@@ -217,6 +217,20 @@ Write each as a short sequence of linked steps.
 - Evaluation that lists limits of the model without judging which matters most.
 - Missing units (cu per hour) in a wage answer.
 
+## Frequently asked questions
+
+**Why is the demand for labour a derived demand?**
+Firms want workers because of the goods and services they help produce, so the demand for labour depends on the demand for the product. A rise in product demand shifts labour demand to the right.
+
+**What is the difference between an absolute and a relative wage differential?**
+An absolute differential is the gap between two wages in money terms, such as cu per hour. A relative differential expresses that gap as a percentage of the lower wage.
+
+**Why might two workers in the same job earn different wages?**
+Pay within an occupation can differ because of experience, extra qualifications or responsibility, performance pay, location and cost of living, hours and shifts, the employer's size and profitability, and discrimination.
+
+**Is a change in the wage a shift of the labour demand curve?**
+No. A change in the wage itself causes a movement along the labour demand or supply curve. Only a change in another condition, such as product demand or training requirements, shifts the curve.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), version 1.0, for exams May/June 2025 onwards, published by OxfordAQA. Section 3.1.5.4, The labour market.

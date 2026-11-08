@@ -103,4 +103,18 @@ Use these links in longer answers: a source showing rising energy demand can be 
 
 **Answers:** 1. The extraction of natural gas or petroleum from shale rock by hydraulic fracturing. 2. Any three of reducing consumption, insulation, energy-efficient devices, education, transport policies. 3. Natural gas. 4. High installation cost, or it needs land for buried pipes. 5. Any two of earthquakes, groundwater contamination, high water use, methane leaks, carbon dioxide emissions.
 
+## Frequently asked questions
+
+**What is the syllabus definition of fracking in Cambridge IGCSE Environmental Management 0680?**
+Fracking is the extraction of natural gas or petroleum from shale rock by hydraulic fracturing. Answers that leave out shale rock or the hydraulic fracturing process miss the definition.
+
+**What is the difference between blue and green hydrogen?**
+Blue hydrogen is produced from natural gas, while green hydrogen comes from renewable sources. Swapping the two is a common exam trap. When hydrogen is used its only product is water, but it is difficult to store and transport.
+
+**Is a heat pump the same as geothermal power?**
+No. Calling a heat pump geothermal power is a common exam trap.
+
+**Do electric vehicles cause no pollution?**
+No. Claiming electric vehicles cause no pollution is an exam trap, because the electricity they use may come from fossil fuels.
+
 Related: [Rocks, energy management and fracking practice questions](/resources/environmental-management-rocks-energy-management-and-fracking-practice/)

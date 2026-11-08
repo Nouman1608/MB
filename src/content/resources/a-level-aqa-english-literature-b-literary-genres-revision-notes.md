@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Condensed notes on Paper 1 Literary Genres of AQA A-Level English Literature B 7717: the closed-book structure, genre conventions and a genre-led approach."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -119,3 +121,17 @@ marks when combining them with the 50-mark non-exam component, giving a scaled t
 6. Why does Paper 1 need a different revision approach from Paper 2?
 
 **Answers (continued):** 5. 20%, made up of two 1,250-1,500 word teacher-assessed, AQA-moderated essays, one of which can be a re-creative response with a commentary. 6. Because Paper 1 is closed book while Paper 2 is open book, so Paper 1 specifically requires a memorised quotation bank that Paper 2's revision does not.
+
+## Frequently asked questions
+
+**Is AQA English Literature B Paper 1 open book?**
+No. Paper 1 Literary Genres is closed book, lasting 2 hours 30 minutes for 75 marks and 40% of the A-level, so you need a memorised quotation bank. Paper 2, Texts and Genres, is open book.
+
+**Can I write about both tragedy and comedy in Paper 1?**
+No. You study one genre option, Aspects of Tragedy or Aspects of Comedy, and all three questions draw on that same option, with no switching mid-paper.
+
+**What is the non-exam assessment in AQA English Literature B?**
+The non-exam component is worth 20% of the A-level: two teacher-assessed, AQA-moderated essays of 1,250 to 1,500 words each, one of which can be a re-creative response with a commentary.
+
+**Is there a new AQA English Literature B specification?**
+These notes say AQA has a revised specification for exams from 2027 with a refreshed text list, so always confirm which version applies to you.

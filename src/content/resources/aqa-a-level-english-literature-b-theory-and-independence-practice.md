@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Original practice on the 7717 Theory and Independence NEA: requirements, text-selection rules and the Critical anthology, for AQA Literature B."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -91,6 +93,17 @@ Related: [Theory and Independence revision notes](/resources/a-level-aqa-english
 **7.** The specification itself sets no order: it requires that texts chosen "must allow access to a range of critical views and interpretations, including over time" and "must maximise opportunities for writing with reference to the AQA Critical anthology". Choosing the lens first is advice for meeting that requirement, because a text is far more likely to reward genuinely rich, well-supported critical analysis if it is selected specifically for how well it suits the intended lens, rather than a lens being searched for and applied retroactively to a text chosen for other reasons (such as personal enjoyment). Choosing lens-first helps avoid the risk of a candidate becoming committed to a text that actively resists the critical framework they eventually need to apply to it, producing an essay that strains to make connections rather than genuinely exploring rich, naturally-present critical material — a risk that is much harder to correct once significant time has already been invested in a text-first choice. A balanced evaluation also notes the limit of the advice: a text chosen out of genuine interest can work very well if it also offers rich material for the intended lens, so what matters is checking the fit before committing, not the order as such. **[6]** (Marks for explaining the advice's purpose, the specific risk it helps prevent and its limits, not simply restating it.)
 
 **8.** This reasoning is incorrect. The specification's rule bans any text that appears on the A-level exam paper set-text lists at all, regardless of whether the candidate's own centre teaches or examines that specific text for the exam component — the ban is not conditional on the candidate's own centre's choices. A text banned under this rule cannot be used for Component 3 even if the candidate would genuinely never be examined on it through the exam papers at their own centre, because the rule is defined by the text's presence on the overall set-text list, not by what any individual centre happens to teach. **[5]**
+
+## Frequently asked questions
+
+**Are these AQA English Literature B NEA practice questions a template for my essays?**
+No. They are original questions written for Marlbridge that test understanding of Component 3's structure, rules and requirements. Text selection and critical application must be genuinely your own, so use them alongside your teacher's guidance and the official specification.
+
+**What does this AQA 7717 NEA practice cover?**
+It covers the Theory and Independence requirements, the text-selection rules and the Critical anthology for AQA A-level English Literature B (7717), with worked answers.
+
+**What should I revise before trying these NEA questions?**
+The page links to the Theory and Independence revision notes, which summarise the submission requirements, the Critical anthology sections and the re-creative option.
 
 ## Official syllabus
 
