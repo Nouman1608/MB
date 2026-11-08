@@ -163,6 +163,23 @@ These questions cover OCR A Level Biology A (H420) statements 4.1.1(a) to 4.1.1(
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find other weak spots.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does the mosquito cause malaria?**
+No. Malaria is caused by a protoctist; the female *Anopheles* mosquito is the vector that carries the pathogen from one host to another. Describing the mosquito as the cause is a common way to lose marks.
+
+**How should callose be described in an exam answer?**
+Say where callose is deposited, between the cell wall and the cell surface membrane, in plasmodesmata and in sieve plates, and what it blocks, the spread of the pathogen. Describing it as a chemical that kills the pathogen is incorrect.
+
+**Which way round are fibrinogen and fibrin?**
+Soluble fibrinogen is converted into insoluble fibrin during blood clotting. Writing the two the wrong way round is a frequent error.
+
+**How do you link weather or social factors to disease spread?**
+State the factor and then explain how it helps a particular stage of spread, for example how conditions affect the release or survival of spores. Naming "bad weather" alone does not earn the mark.
+
+**Which part of the H420 specification do these questions test?**
+They test OCR A Level Biology A (H420) statements 4.1.1(a) to (e): pathogen types, transmission, plant defences, non-specific animal defences, phagocytes and blood smears.
+
 ## Official syllabus
 
 OCR A Level in Biology A (H420), specification Version 4.1 (April 2026), for first assessment in 2025, published by OCR. Statements 4.1.1(a) to 4.1.1(e).

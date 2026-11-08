@@ -235,6 +235,23 @@ Write it in this order: action potential, calcium ion release, troponin and trop
 - Forgetting units, or not converting mm to µm before using the magnification.
 - Giving percentage change relative to the new value instead of the original.
 
+## Frequently asked questions
+
+**How does the medulla oblongata change heart rate?**
+The medulla oblongata changes heart rate by altering the frequency of impulses to the sinoatrial node (SAN): sympathetic impulses increase the rate and parasympathetic impulses through the vagus nerve decrease it. Saying only that the medulla "controls the heart" misses this mechanism.
+
+**Does adrenaline enter its target cells?**
+No. Adrenaline is the first messenger and binds to receptors on the cell surface membrane, which activates adenylyl cyclase to make cyclic AMP, the second messenger, inside the cell.
+
+**What is the difference between the somatic and autonomic nervous systems?**
+The somatic nervous system controls voluntary actions and skeletal muscle, while the autonomic nervous system works involuntarily and controls cardiac muscle, smooth muscle and glands.
+
+**What is the role of creatine phosphate in muscle?**
+Creatine phosphate supplies a phosphate group to regenerate ATP from ADP quickly, but this supply lasts only a few seconds.
+
+**What syllabus content do these notes cover?**
+They cover OCR A Level Biology A (H420) section 5.1.5 (g) to (l): organisation of the nervous system, the brain, reflexes, fight or flight, control of heart rate and muscle contraction.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 5.1.5(g) to (l), Plant and animal responses, with the mathematical skills and practical activity groups cited in the specification for these statements.

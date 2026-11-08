@@ -246,6 +246,23 @@ rate = 0.080 +/- 0.003 cm3 s^-1
 - Writing "human error" instead of naming the cause.
 - Suggesting "repeat more times" without saying what that improves.
 
+## Frequently asked questions
+
+**How many significant figures should a calculated answer have?**
+A calculated answer should not have more significant figures than the data it is based on. Giving too many significant figures is one of the most common errors in practical questions.
+
+**Should plotted points be joined with straight lines?**
+No. For a graph of continuous data, draw a smooth curve or a straight line of best fit, rather than joining point to point with straight lines.
+
+**Does a tight set of repeats mean the results are accurate?**
+No. Repeats that are close together show precision. Accuracy is how close a result is to the true value, so a precise set of results can still be inaccurate.
+
+**What does repeating an experiment improve?**
+Repeating and calculating a mean helps to identify anomalies and makes the result more reliable. If you suggest more repeats as an improvement, say what it improves.
+
+**Which skills are covered in these OCR revision notes?**
+These notes cover OCR A Level Biology A (H420) section 1.1: planning (1.1.1), implementing (1.1.2), analysis (1.1.3) and evaluation (1.1.4) of practical work.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), Version 4.1, April 2026, for first assessment in 2025, published by OCR. Section 1.1 and the mathematical requirements in section 5d.

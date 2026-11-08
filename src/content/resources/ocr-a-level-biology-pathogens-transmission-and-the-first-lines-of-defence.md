@@ -224,6 +224,20 @@ A rise in neutrophils fits a bacterial infection, because neutrophils are the fi
 - Forgetting the unit conversion between mm and µm in magnification questions.
 - Writing "the lysosome eats the bacterium". The phagosome holds the pathogen and lysosome enzymes digest it.
 
+## Frequently asked questions
+
+**What are the four types of pathogen in OCR A Level Biology?**
+The OCR A Level Biology A (H420) specification names bacteria, viruses, protoctista and fungi, each with listed example diseases such as tuberculosis, HIV/AIDS, malaria and athlete's foot.
+
+**Do I need to learn the symptoms of each disease?**
+No. The specification says no detail of the symptoms of specific diseases is required, and you do not need the binomial names of the pathogens. You do need to link each listed disease to its pathogen type.
+
+**What is a vector?**
+A vector is an organism that carries a pathogen from one host to another without usually being harmed. Examples include the female *Anopheles* mosquito for malaria and sap-feeding insects such as aphids for many plant viruses.
+
+**Do I need to classify transmission as direct or indirect?**
+No. The specification asks you to consider vectors, spores and living conditions, but you are not asked to sort pathogens into direct and indirect transmission.
+
 ## Official syllabus
 
 OCR A Level in Biology A (H420), specification Version 4.1 (April 2026), for first assessment in 2025, published by OCR. This page covers statements 4.1.1(a) to 4.1.1(e) in Module 4.

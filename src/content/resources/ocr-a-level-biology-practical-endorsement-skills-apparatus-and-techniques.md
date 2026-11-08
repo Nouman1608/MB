@@ -279,6 +279,20 @@ A data logger with a sensor (temperature, light, pH, oxygen) takes frequent read
 - Quoting magnification without converting micrometres to millimetres.
 - Writing "wear goggles" as a full risk assessment.
 
+## Frequently asked questions
+
+**How many practicals are needed for the OCR Biology Practical Endorsement?**
+The OCR A Level Biology A (H420) specification asks for a minimum of 12 assessed practical activities covering PAG1 to PAG12. Your teacher assesses you against the Common Practical Assessment Criteria, and the result is reported separately from the A level grade.
+
+**How should raw readings be recorded in a practical?**
+Record readings at the time in a table with units in the column headings, and give each reading to the resolution of the instrument, for example 2.40 g on a balance reading to 0.01 g.
+
+**How do you reference sources for the Practical Endorsement?**
+Cite each source in the text and list it at the end with the author, year, title, and publisher or website with the date accessed. The specification points to the OCR Practical Skills Handbook for citation methods.
+
+**Do I need my own record of practical work if I work in a group?**
+Yes. You keep your own record and must show independent competence even when the practical is done in a group.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), for first assessment in 2025, published by OCR. Section 1.2.1 and 1.2.2 are the source for this guide.

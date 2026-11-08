@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "development-of-practical-skills-in-biology-ocr-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on variables, reliability, validity, error, uncertainty and graph choice for OCR A Level Biology."
+description: "Exam-style questions with worked answers on variables, reliability, validity, error, uncertainty and graph choice for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -230,3 +232,20 @@ D) The standard deviation of the data set **[1]**
 - Confusing a control variable with a control experiment.
 - Calculating a mean before identifying and discarding anomalous readings.
 - Choosing a correlation coefficient when comparing two means, or a t-test when testing an association.
+
+## Frequently asked questions
+
+**What is the difference between accuracy and precision?**
+Accurate results are close to the true value, while precise results are repeat readings that are close to each other. Confusing the two is one of the most common errors in OCR A Level Biology A (H420) practical questions.
+
+**Do more repeats fix a systematic error?**
+No. Repeats improve reliability and reduce the effect of random error on the mean, but a systematic error needs the instrument to be recalibrated.
+
+**When should a bar chart not be used?**
+A bar chart should not be used when both variables are continuous; plot a line graph or scatter graph instead.
+
+**Should anomalous readings be included in a mean?**
+No. Identify and discard anomalous readings first, then calculate the mean from the remaining values.
+
+**How do you choose between a t-test and a correlation coefficient?**
+Use a t-test to compare two means, and a correlation coefficient to test for an association between two variables. Choosing the wrong one for the question is a common mistake.

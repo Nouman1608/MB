@@ -179,6 +179,23 @@ These questions cover learning outcomes 5.2.1(a) to 5.2.1(g) of the OCR A Level 
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where exactly does the light-dependent stage take place?**
+The light-dependent stage takes place on the thylakoid membranes of the chloroplast. Writing only "the chloroplast" is not precise enough for the mark.
+
+**How do you measure an Rf value correctly?**
+Measure from the origin to the centre of the pigment spot, and from the origin to the solvent front, then divide the first by the second. Measuring to the edge of the spot gives an inaccurate value.
+
+**What is the role of water in the light-dependent stage?**
+Photolysis of water supplies electrons and protons, and releases oxygen. Saying water is "split for energy" is incorrect.
+
+**How should I approach questions on GP, TP and RuBP levels?**
+Work through the cycle one step at a time: decide what happens to the supply of ATP and reduced NADP or of carbon dioxide, then follow the effect on each compound in turn. Reversing the GP and RuBP changes, or forgetting that RuBP must be regenerated from TP, are common mistakes.
+
+**Which part of the OCR specification do these questions cover?**
+They cover OCR A Level Biology A (H420) section 5.2.1 Photosynthesis, from pigments and the light-dependent stage to the Calvin cycle and limiting factors.
+
 ## Official syllabus
 
 OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025, published by OCR. Section 5.2.1 Photosynthesis.

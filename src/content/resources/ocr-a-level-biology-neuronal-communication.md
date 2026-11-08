@@ -232,6 +232,20 @@ Round up each time: eight inputs give 14.4 mV, which does not reach threshold.
 - Giving the pump as a one-for-one exchange. It moves 3 sodium ions out for 2 potassium ions in.
 - Describing a generator potential as an action potential.
 
+## Frequently asked questions
+
+**Why is a sensory receptor called a transducer?**
+A sensory receptor converts the energy of one type of stimulus, such as pressure, light or heat, into electrical energy in the form of a generator potential. This energy conversion is what makes it a transducer.
+
+**How does a Pacinian corpuscle detect pressure?**
+Pressure deforms the lamellae and stretches the membrane of the neurone ending, opening stretch-mediated sodium ion channels. Sodium ions diffuse in, producing a generator potential, and if this reaches threshold an action potential travels along the sensory neurone.
+
+**What are the three types of neurone?**
+OCR A Level Biology A (H420) section 5.1.3(b) names sensory, relay and motor neurones. Sensory neurones carry impulses from receptors, relay neurones connect neurones within the central nervous system, and motor neurones carry impulses to effectors.
+
+**Is everything in section 5.1.3 needed for the full A Level?**
+Yes. The specification text for 5.1.3 carries no separate tier or stage labels, so all of it is for the full A Level course.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, published by OCR. This guide follows section 5.1.3, learning outcomes (a) to (d), including the additional guidance.

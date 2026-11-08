@@ -219,6 +219,23 @@ Evaluate: higher yield, cheaper labour and uniform fruit supply against run-off,
 - Saying stomata "close because guard cells shrink" without osmosis and turgor.
 - Describing weedkillers as "poisons" rather than synthetic auxins causing uncontrolled growth.
 
+## Frequently asked questions
+
+**What is the difference between a tropism and a nastic response?**
+A tropism is a directional growth response to a directional stimulus, positive if towards and negative if away. A nastic response is one whose direction does not depend on the direction of the stimulus.
+
+**What is apical dominance?**
+Apical dominance is when the apical bud at the tip of a shoot suppresses the growth of lateral buds below it. Auxin is involved in this effect.
+
+**How do plants defend themselves against herbivores?**
+Plants use alkaloids, which are nitrogen-containing chemicals that are toxic or bitter to herbivores, and pheromones, which are airborne signals from damaged plants that neighbouring plants detect. Some plants also fold their leaves when touched.
+
+**What is a serial dilution?**
+A serial dilution is repeated dilution by a constant factor to produce a range of concentrations, for example to test the effect of different hormone concentrations on growth.
+
+**What does section 5.1.5(a) to (f) of OCR A Level Biology cover?**
+It covers plant responses and plant hormones in OCR A Level Biology A (H420): tropisms, the roles of hormones, evidence for auxin and gibberellin, practical investigations and commercial uses.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: learning outcomes 5.1.5(a) to 5.1.5(f).

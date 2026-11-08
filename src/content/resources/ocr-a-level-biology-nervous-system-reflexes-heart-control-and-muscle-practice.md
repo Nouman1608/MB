@@ -156,6 +156,23 @@ These questions cover section 5.1.5(g) to (l) of the OCR A Level Biology A (H420
 - Take any of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why is "the brain" not enough in a nervous system answer?**
+Questions usually need a named region, such as the cerebellum for coordinating movement or the medulla oblongata for heart rate. Writing only "the brain" does not show which part is responsible.
+
+**Is the knee jerk reflex monosynaptic?**
+Yes. The knee jerk has a sensory neurone that synapses directly with a motor neurone, with no relay neurone. Including a relay neurone in this reflex is a common error.
+
+**What happens to the bands of a sarcomere during contraction?**
+The filaments themselves do not shorten; they slide past each other, so the sarcomere shortens while the A band stays the same length. Writing that the filaments or the A band shorten loses marks.
+
+**Why is ATP needed in muscle contraction?**
+ATP is needed for myosin heads to detach from actin, and for pumping calcium ions back into the sarcoplasmic reticulum. Missing ATP in cross-bridge detachment is a common mistake.
+
+**How do you calculate percentage change correctly?**
+Divide the change by the original value, not the new value, and multiply by 100. This applies to heart rate and other data questions in OCR A Level Biology A (H420).
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 5.1.5(g) to (l), Plant and animal responses, with the mathematical skills and practical activity groups cited in the specification for these statements.

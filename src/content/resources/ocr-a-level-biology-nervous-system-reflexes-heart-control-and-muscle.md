@@ -240,6 +240,20 @@ Worked example (data supplied): muscle holds 4.5 mmol ATP and 13.5 mmol creatine
 - Writing that a reflex "does not involve the brain" when impulses still reach it afterwards.
 - Treating adrenaline as entering the cell, rather than acting through cAMP.
 
+## Frequently asked questions
+
+**What is the difference between the central and peripheral nervous systems?**
+The central nervous system is the brain and spinal cord. The peripheral nervous system is all the nerves outside them, including sensory neurones carrying impulses in and motor neurones carrying impulses out.
+
+**What do the sympathetic and parasympathetic nervous systems do?**
+They are the two divisions of the autonomic nervous system and have opposite effects on many organs. The sympathetic division prepares the body for activity, while the parasympathetic division is dominant at rest.
+
+**What does the cerebellum do?**
+The cerebellum, beneath the back of the cerebrum, coordinates movement, balance and posture.
+
+**Which papers assess this content in OCR A Level Biology A?**
+Module 5 content, including this section 5.1.5 (g) to (l), can be assessed in Biological processes (Component 01) and in Unified biology (Component 03) of OCR A Level Biology A (H420).
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 5.1.5(g) to (l), Plant and animal responses, with the mathematical skills and practical activity groups cited in the specification for these statements.

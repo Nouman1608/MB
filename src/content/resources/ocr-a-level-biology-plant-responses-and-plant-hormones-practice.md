@@ -150,6 +150,23 @@ These questions cover learning outcomes 5.1.5(a) to 5.1.5(f) of the OCR A Level 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does auxin always stimulate growth?**
+No. Auxin stimulates cell elongation in shoots, but higher concentrations inhibit growth in roots. Treating auxin as always stimulating is a common error in tropism questions.
+
+**What should a germination answer include?**
+Name both the enzyme, amylase, and its substrate, starch, rather than describing food stores in general terms. Leaving them out is a common reason for losing marks.
+
+**How should stomatal closure be explained?**
+Explain it in terms of water potential, osmosis and turgor in the guard cells, rather than just saying the guard cells "shrink".
+
+**Why is "same conditions" not an acceptable controlled variable?**
+It is too vague. Name each variable, such as temperature or light intensity, and say how it will be kept constant.
+
+**Which specification outcomes do these questions cover?**
+They cover OCR A Level Biology A (H420) learning outcomes 5.1.5(a) to (f): plant responses, tropisms, auxin, gibberellin, abscisic acid, practical investigations and commercial uses of hormones.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: learning outcomes 5.1.5(a) to 5.1.5(f).

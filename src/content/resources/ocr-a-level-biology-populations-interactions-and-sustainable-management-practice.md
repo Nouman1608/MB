@@ -177,6 +177,23 @@ These questions cover outcomes 6.3.2(a) to 6.3.2(e), Populations and sustainabil
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between density-dependent and density-independent factors?**
+A density-dependent factor, such as food supply, disease, predation or competition, has a stronger effect as population density rises. A density-independent factor, such as a severe frost, flood or drought, has the same effect whatever the density.
+
+**How should a predator-prey graph be described?**
+Describe the rise and fall of both populations and state the lag between the prey peak and the predator peak, using the years on the graph. Missing the lag is a common reason for losing marks.
+
+**What is the difference between conservation and preservation?**
+Conservation maintains ecosystems and biodiversity through active management while allowing sustainable human use. Preservation protects an area or species as it is, with human interference minimised or excluded.
+
+**How should I read values from a logarithmic scale?**
+A value read from a logarithmic axis is not a count; convert it back before quoting a population size. Treating a log value as if it were a count is a common error.
+
+**Which part of the H420 specification do these questions cover?**
+They cover OCR A Level Biology A (H420) section 6.3.2: population size, predator-prey relationships, competition, conservation and sustainable management of timber and fishing.
+
 ## Official syllabus
 
 OCR A Level in Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025, published by OCR. Section 6.3.2, Populations and sustainability.

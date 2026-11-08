@@ -166,6 +166,23 @@ These questions cover section 1.1 of OCR A Level Biology A (H420, Version 4.1, A
 
 Revisit the [revision notes](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating-revision-notes/) and [study guide](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating/), then try the [all free 10-minute diagnostics](/diagnostics/). Use the [course hub](/boards/ocr/a-level/biology/) and [checklist](/checklists/ocr/a-level/biology/) to track coverage. [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why is naming a control variable not enough?**
+You also need to say how the variable will be kept constant, for example using a water bath at a stated temperature checked with a thermometer. Naming the variable alone usually earns no credit.
+
+**How do you take a gradient correctly from a graph?**
+Draw a large triangle using two points on the line of best fit that are far apart, not points taken from the table. Give the gradient with its unit, because leaving out units is a common way to lose marks.
+
+**Why is "human error" not an acceptable answer?**
+It does not say what went wrong. Name the specific cause, such as a delay in starting the stopwatch or difficulty judging an end point, so the examiner can see the source of the error.
+
+**How do you find the uncertainty of a difference between two readings?**
+A difference of two readings carries the uncertainties of both, so add the absolute uncertainties. This is why small differences give large percentage uncertainties, and using one reading's uncertainty alone is a common error.
+
+**Which part of the H420 specification do these questions test?**
+They test OCR A Level Biology A (H420) section 1.1, practical skills assessed in the written papers: planning, implementing, analysis and evaluation.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), Version 4.1, April 2026, for first assessment in 2025, published by OCR. Section 1.1 and the mathematical requirements in section 5d.

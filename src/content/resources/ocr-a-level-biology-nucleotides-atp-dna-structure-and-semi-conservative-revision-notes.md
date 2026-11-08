@@ -250,6 +250,23 @@ Data supplied: 2.0 × 10⁶ base pairs and 1 × 10⁻⁹ errors per base pair pe
 - Explaining the purification steps without saying what each reagent does to the cell or the DNA.
 - Quoting percentage change without stating which value is the baseline.
 
+## Frequently asked questions
+
+**What is the difference between a DNA and an RNA nucleotide?**
+A DNA nucleotide contains deoxyribose and one of the bases A, G, C or T. An RNA nucleotide contains ribose and one of A, G, C or U, so thymine is replaced by uracil.
+
+**Why is DNA replication called semi-conservative?**
+Each new DNA molecule contains one original strand and one newly made strand, because each parent strand acts as a template.
+
+**Why is DNA copied so accurately?**
+Complementary base pairing means each free nucleotide can pair only with its partner base on the template strand, A with T and G with C. Leaving out complementary base pairing is a common error when explaining accuracy.
+
+**Do mutations during replication need a mutagen?**
+No. Random spontaneous mutations can occur during replication without any mutagen. If a question says the mutations are spontaneous, do not describe them as caused by a mutagen.
+
+**What is ATP made of?**
+ATP is a phosphorylated nucleotide made of ribose, adenine and three inorganic phosphate groups. ADP has two phosphate groups.
+
 ## Official syllabus
 
 OCR, *Level 3 Advanced GCE in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, section 2.1.3(a) to (e).
