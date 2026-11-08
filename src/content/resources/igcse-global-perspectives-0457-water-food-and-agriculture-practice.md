@@ -13,7 +13,7 @@ order: 61
 syllabusTopics:
   - qualification: "igcse"
     topic: "water-food-and-agriculture-0457"
-description: "Original source-based 0457 questions on water, food and farming, with model answers and Individual Report and Team Project planning tasks."
+description: "Original source-based questions on water, food and farming for Cambridge IGCSE Global Perspectives 0457, with model answers plus report and project tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

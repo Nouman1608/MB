@@ -13,7 +13,7 @@ order: 47
 syllabusTopics:
   - qualification: "igcse"
     topic: "employment-0457"
-description: "How to use Employment to practise IGCSE Global Perspectives 0457 skills: issues, perspectives, causes, evidence and courses of action."
+description: "How to use the Employment topic to practise Cambridge IGCSE Global Perspectives 0457 skills: issues, perspectives, causes, evidence and courses of action."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

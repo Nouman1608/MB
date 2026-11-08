@@ -13,7 +13,7 @@ order: 49
 syllabusTopics:
   - qualification: "igcse"
     topic: "globalisation-0457"
-description: "Original source-based 0457 questions on globalisation with mark-by-mark answers, plus Individual Report and Team Project planning tasks."
+description: "Original source-based questions on globalisation for Cambridge IGCSE Global Perspectives 0457, with mark-by-mark answers and report and project planning tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

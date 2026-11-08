@@ -9,7 +9,7 @@ qualifications: ["igcse"]
 syllabusCodes: ["0457"]
 syllabusSeries: "2025-2027"
 order: 3
-description: "How the 70-mark Team Project works -- the Explanation of Research and Planning, Evidence of Action, Collaboration and the individual Reflective Paper -- Component 3 of Cambridge IGCSE Global Perspectives (0457), 2025-2027 series."
+description: "How the 70-mark Team Project works: Explanation of Research and Planning, Evidence of Action, Collaboration and the Reflective Paper, for Cambridge IGCSE 0457."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

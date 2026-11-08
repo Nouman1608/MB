@@ -35,7 +35,7 @@ featured: false
 > different shape from the eight shorter questions below, which are organised
 > by skill for focused practice rather than as a full-paper simulation.
 >
-> **Coverage note:** this resource covers Components 1-3 (the AS Level). Component 4, the
+> **Coverage note:** this page covers Component 1 (the Written Exam), part of the AS Level. Component 4, the
 > Cambridge Research Report (85 marks, A Level only), has its own pages:
 > [study guide](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report/),
 > [revision notes](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes/) and

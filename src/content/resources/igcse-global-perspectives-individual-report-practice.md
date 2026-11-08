@@ -9,7 +9,7 @@ qualifications: ["igcse"]
 syllabusCodes: ["0457"]
 syllabusSeries: "2025-2027"
 order: 3
-description: "Exam-style questions with full worked answers on framing a research question, structuring the report to the syllabus's recommended sequence and assessment objectives, evaluating sources, and explaining contrasting perspectives, for Cambridge IGCSE Global Perspectives (0457) Component 2."
+description: "Practice questions with answers on research questions, report structure, source evaluation and perspectives for the Cambridge IGCSE 0457 Individual Report."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -19,9 +19,11 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> These are original practice questions written in the style of Cambridge IGCSE
-> Global Perspectives (0457) assessment objectives. They are not taken from any
-> past paper and are not endorsed by Cambridge International.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board.
 
 Use these questions alongside the [Component 2 – Individual Report
 study

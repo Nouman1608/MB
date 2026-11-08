@@ -9,7 +9,7 @@ qualifications: ["igcse"]
 syllabusCodes: ["0457"]
 syllabusSeries: "2025-2027"
 order: 1
-description: "Condensed recall notes on perspectives, arguments, evidence evaluation and source analysis for Cambridge IGCSE Global Perspectives 0457."
+description: "Condensed recall notes on perspectives, arguments, evidence evaluation and source analysis for the Written Exam in Cambridge IGCSE Global Perspectives 0457."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

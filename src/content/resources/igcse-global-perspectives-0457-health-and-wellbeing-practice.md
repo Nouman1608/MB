@@ -13,7 +13,7 @@ order: 50
 syllabusTopics:
   - qualification: "igcse"
     topic: "health-and-wellbeing-0457"
-description: "Original source-based 0457 questions on Health and wellbeing, with marked answers, plus Individual Report and Team Project planning tasks."
+description: "Original source-based questions on Health and wellbeing for Cambridge IGCSE Global Perspectives 0457, with marked answers and report and project planning tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
