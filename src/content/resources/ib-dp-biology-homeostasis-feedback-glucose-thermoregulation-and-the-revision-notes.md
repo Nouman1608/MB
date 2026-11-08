@@ -253,6 +253,20 @@ Write each chain in this order: stimulus, receptor, control centre, effector, re
 - Stating a percentage change without the working: write the difference, divide by the starting value, then multiply by 100.
 - Calling the loop of Henle the site of ultrafiltration. Filtration happens between the glomerulus and Bowman's capsule.
 
+## Frequently asked questions
+
+**What are the four homeostatic variables named in the IB DP Biology guide?**
+The IB Biology guide names body temperature, blood pH, blood glucose concentration and blood osmotic concentration as the human homeostatic variables.
+
+**What is the difference between insulin and glucagon?**
+Insulin is secreted by beta cells of the pancreas when blood glucose is high and lowers it by increasing glucose uptake and glycogen formation. Glucagon is secreted by alpha cells when blood glucose is low and raises it by stimulating glycogen breakdown, mainly in the liver.
+
+**How does brown adipose tissue release heat?**
+Brown adipose tissue uses uncoupled respiration: protons leak back across the inner mitochondrial membrane without making ATP, so the energy is released as heat.
+
+**What does the loop of Henle do?**
+The ascending limb actively transports sodium ions out into the medulla, keeping its osmotic concentration high, so water can leave the collecting duct by osmosis and concentrated urine can be produced. This is HL-only content.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D3.3, Homeostasis.

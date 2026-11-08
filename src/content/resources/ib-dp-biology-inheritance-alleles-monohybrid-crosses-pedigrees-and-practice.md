@@ -134,6 +134,20 @@ These questions cover D3.2.1 to D3.2.15 (Inheritance, first part) of the IB *Bio
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is IB DP Biology D3.2.1 to D3.2.15 HL only?**
+No. Statements D3.2.1 to D3.2.15, the first part of D3.2 Inheritance, are for both SL and HL; the dihybrid and linkage statements later in D3.2 are HL only.
+
+**How do you make a controlled cross in a flowering plant?**
+Remove the anthers from the female parent before pollen is shed, cover the flower, transfer pollen from the chosen male parent to the stigma, then cover it again and grow the seeds to score the F1.
+
+**How do you test whether a value is an outlier in a box plot?**
+Calculate the interquartile range, then the limits first quartile − 1.5 × IQR and third quartile + 1.5 × IQR; values beyond these limits are outliers. Stating that a value "looks far away" is not a test.
+
+**How should sex-linked genotypes be written?**
+Write the alleles as superscripts on the X chromosome, such as Xᴴ and Xʰ, with Y for males; writing H and h without the X is a common way to lose marks.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section D3.2 Inheritance (statements D3.2.1 to D3.2.15).

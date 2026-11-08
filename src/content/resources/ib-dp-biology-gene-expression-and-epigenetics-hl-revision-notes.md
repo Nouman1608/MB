@@ -268,6 +268,23 @@ Learn one clearly rather than three vaguely. The guide asks for one hormone and 
 - Mixing up the repressor action of lactose and tryptophan.
 - Forgetting a unit or the words "fold" or "%".
 
+## Frequently asked questions
+
+**What is the difference between the genome, transcriptome and proteome?**
+The genome is all the DNA of a cell and is the same in nearly all cells of an organism. The transcriptome is all the mRNA present at a given time, and the proteome is all the proteins; both vary between cell types.
+
+**What is the difference between a promoter and an enhancer?**
+A promoter is the DNA sequence next to a gene where RNA polymerase attaches. An enhancer is a DNA sequence where regulatory proteins bind to raise transcription of the gene.
+
+**Does histone methylation always repress a gene?**
+No. Methylation of cytosine in a promoter represses transcription, but methylation of amino acids in histones can either repress or activate transcription depending on the site.
+
+**Why are tigons and ligers different?**
+Most epigenetic tags are removed from gametes, but some are retained and differ between lion and tiger, so the same genes are expressed differently depending on which species supplied them; this is a proposed explanation.
+
+**How does lactose affect gene expression in E. coli?**
+A lactose-derived molecule binds the repressor, which changes shape and leaves the operator, so RNA polymerase can transcribe the genes for lactose use.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, International Baccalaureate Organization, section D2.2 Gene expression (additional higher level).

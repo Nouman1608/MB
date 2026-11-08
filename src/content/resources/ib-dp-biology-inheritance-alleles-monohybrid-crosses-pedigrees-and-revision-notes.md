@@ -237,6 +237,23 @@ ABO alleles: Iᴬ, Iᴮ, i. Group A = IᴬIᴬ or Iᴬi. Group B = IᴮIᴮ or I
 - Giving "inheritance" instead of the specific pattern, such as autosomal recessive.
 - Stating a pedigree genotype with no reasoning from the family's pattern.
 
+## Frequently asked questions
+
+**What is the difference between a gene and an allele?**
+A gene is the heritable factor that controls a trait, such as pod shape; alleles are the different versions of that gene, such as inflated and constricted.
+
+**Why does a heterozygote show the dominant phenotype?**
+A dominant allele usually codes for a working polypeptide, such as an enzyme, and one copy makes enough product, so heterozygous and homozygous dominant organisms look the same.
+
+**What is the difference between codominance and incomplete dominance?**
+In codominance the heterozygote shows both phenotypes at once, as in blood group AB. In incomplete dominance the heterozygote has an intermediate phenotype, as in pink Mirabilis jalapa flowers.
+
+**What is phenotypic plasticity?**
+Phenotypic plasticity is the development of traits suited to the environment through changes in gene expression, without any change in genotype; examples include water crowfoot leaves and extra red blood cells at altitude.
+
+**How many genotypes are possible with multiple alleles?**
+With n alleles of a gene there are n(n + 1)/2 possible genotypes, although each diploid individual carries only two alleles.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section D3.2 Inheritance (statements D3.2.1 to D3.2.15).

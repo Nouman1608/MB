@@ -202,6 +202,23 @@ The **cerebellum** lies at the back of the brain, below the cerebral hemispheres
 
 Test yourself with the [practice questions](/resources/ib-dp-biology-integration-of-body-systems-nervous-system-brain-practice/), then condense with the [revision notes](/resources/ib-dp-biology-integration-of-body-systems-nervous-system-brain-revision-notes/). To find weak spots, take a [free 10-minute diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What is system integration?**
+System integration is the coordination of component parts so that they work together to perform an overall function; in animals it links cells, tissues, organs and body systems into one organism.
+
+**Why do you feel pain after a reflex has already moved your hand?**
+The reflex is integrated in the spinal cord, but other interneurons pass the signal up to the cerebral hemispheres, so the pain is felt consciously a little after the withdrawal has begun.
+
+**What can be seen in a transverse section of a nerve?**
+A nerve section shows an outer protective sheath around many round fibre cross-sections; myelinated fibres appear with a ring of myelin around the axon, while unmyelinated fibres are smaller with little or no ring.
+
+**How does the blood system integrate organs?**
+Blood carries materials and energy between organs, such as oxygen from the lungs to muscle, glucose from the intestine and liver to the brain, urea from the liver to the kidneys, hormones to target cells and heat to the skin.
+
+**Does each brain hemisphere control the same side of the body?**
+No. The left cerebral hemisphere mainly controls the right side of the body, and the right hemisphere the left side.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C3.1, Integration of body systems, statements C3.1.1 to C3.1.10.
