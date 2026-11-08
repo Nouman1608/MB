@@ -17,6 +17,8 @@ description: "Recall notes for 9236 optional topic 3.1.4: each Mughal emperor's 
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense optional topic 3.1.4 of OxfordAQA International GCSE Pakistan Studies 9236,
@@ -107,6 +109,10 @@ subcontinent [1].
 - **Attributing the Badshahi Mosque to Shah Jahan.** Aurangzeb built it; Shah Jahan built the Shalimar Gardens.
 - **Blaming decline on one cause.** Extended answers need several linked factors and a judgement.
 - **Forgetting the dates for Karnal (1739) and Plassey (1757).**
+
+## How is this topic examined?
+
+This topic is examined in OxfordAQA 9236 Paper 1, Section C, worth 21 of the paper's 77 marks; each paper lasts 1 hour 30 minutes. The section mixes short and extended response questions on this optional topic. Short items reward precise named facts, so learn the dates, places and people in the tables above; the extended responses reward a clear line of argument, two or three developed points with evidence, and a judgement that answers the question.
 
 ## Frequently asked questions
 

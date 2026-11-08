@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
     subtopic: "pakistan-movement-9236"
-description: "The Pakistan Movement, Pakistan into the 21st century, and a choice of optional historical topics -- an overview of Paper 1 for OxfordAQA International GCSE Pakistan Studies (9236)."
+description: "Paper 1 of OxfordAQA International GCSE Pakistan Studies 9236: the Pakistan Movement, Pakistan into the 21st century, and the two optional history topics."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; added a short exam-format/content section (page was under 900 words); description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -66,6 +68,16 @@ what distinguishes strong optional-topic answers from general
 awareness. Because Paper 1 draws on named dates, individuals and
 events throughout, keep a running timeline as part of revision rather
 than relying on prose summaries alone.
+
+## Assessment at a glance
+
+| Section | Topic | Marks | Question types |
+|---|---|---|---|
+| A | 3.1.1 The Pakistan Movement (1857–1947), compulsory | 28 | Multiple choice, short and extended response |
+| B | 3.1.2 Pakistan into the 21st century, compulsory | 28 | Multiple choice, short and extended response |
+| C | 3.1.3 Islam in the subcontinent **or** 3.1.4 the Mughal Empire | 21 | Short and extended response |
+
+The paper lasts 1 hour 30 minutes and totals 77 marks.
 
 ## Official syllabus
 
@@ -135,3 +147,14 @@ Calling 1857 a "mutiny" without noting that this is the British characterisation
 - State the Two Nation Theory and trace its development to 1940.
 - Sequence the stages from 1906 to 1947 with accurate dates.
 - Explain Jinnah's changing position and what caused the change.
+
+## Frequently asked questions
+
+**How are the 9236 papers structured?**
+Each paper lasts 1 hour 30 minutes and is worth 77 marks: Section A (28 marks) and Section B (28 marks) are compulsory topics, and Section C (21 marks) is one of two optional topics.
+
+**Which Paper 1 topics are compulsory?**
+3.1.1 The Pakistan Movement (1857–1947) and 3.1.2 Pakistan into the 21st century: from independence to 2022.
+
+**How should the compulsory topics be revised?**
+As one continuous narrative from the reform movements to the present, with dates, people and turning points.

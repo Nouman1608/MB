@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
     subtopic: "pakistan-movement-9236"
-description: "Condensed recall notes on Paper 1's compulsory topics for OxfordAQA International GCSE Pakistan Studies (9236)."
+description: "Revision notes on the compulsory Paper 1 topics of OxfordAQA International GCSE Pakistan Studies 9236: the Pakistan Movement and Pakistan from 1947 to 2022."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; added a short exam-format/content section (page was under 900 words); description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -114,6 +116,10 @@ point of the entire narrative.
 - Treating Jinnah's position as fixed throughout — he moved from unity advocate to partition leader as circumstances (especially 1937-39 Congress rule) changed.
 - Confusing compulsory topics (3.1.1 and 3.1.2) with whichever optional topic (3.1.3 or 3.1.4) your course follows.
 
+## How is Paper 1 examined?
+
+Paper 1 lasts 1 hour 30 minutes and is worth 77 marks. Section A (28 marks) is on the Pakistan Movement, 1857–1947, and Section B (28 marks) on Pakistan from independence to 2022; both are compulsory and mix multiple-choice, short and extended response questions. Section C (21 marks) is on one optional topic: Islam in the subcontinent (c700–c1831) or the Mughal Empire (c1526–c1850s).
+
 ## Self-test
 
 1. Name the two compulsory topics in Paper 1.
@@ -122,3 +128,14 @@ point of the entire narrative.
 4. Why is it inaccurate to say Jinnah always wanted partition?
 
 **Answers:** 1. The Pakistan Movement (1857–1947) and Pakistan into the 21st Century (Independence–2022). 2. Chaudhry Rahmat Ali, in 1933. 3. It proposed a separate, independent Muslim state (or states) in the north-western and eastern zones of British India. 4. Jinnah began as an advocate of Hindu-Muslim unity and only moved toward demanding a separate state as later events — particularly Congress rule in the provinces from 1937-39 — changed the political situation.
+
+## Frequently asked questions
+
+**How are the 9236 papers structured?**
+Each paper lasts 1 hour 30 minutes and is worth 77 marks: Section A (28 marks) and Section B (28 marks) are compulsory topics, and Section C (21 marks) is one of two optional topics.
+
+**When did Rahmat Ali coin the name Pakistan?**
+In 1933, in the pamphlet Now or Never.
+
+**What was the Allahabad Address?**
+Allama Iqbal's 1930 presidential address to the Muslim League, calling for a Muslim state in north-west India.

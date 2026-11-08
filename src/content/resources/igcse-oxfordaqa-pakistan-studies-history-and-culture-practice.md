@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
     subtopic: "mughal-empire-9236"
-description: "A full original practice paper for Paper 1 of OxfordAQA International GCSE Pakistan Studies (9236): Section A on the Pakistan movement, Section B on Pakistan from independence to 2022, and Section C on both optional topics, with mark schemes (77 marks)."
+description: "A full original OxfordAQA 9236 Pakistan Studies Paper 1 practice paper: Sections A and B on compulsory topics and Section C on both options, with mark schemes."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -421,3 +423,14 @@ you must deal with **both** to reach the top level.
 
 With 90 minutes for 77 marks, allow a little over a minute a mark: about 32 minutes each for Sections A
 and B and about 24 minutes for Section C.
+
+## Frequently asked questions
+
+**How are the 9236 papers structured?**
+Each paper lasts 1 hour 30 minutes and is worth 77 marks: Section A (28 marks) and Section B (28 marks) are compulsory topics, and Section C (21 marks) is one of two optional topics.
+
+**How are multiple-choice and 'state' items marked?**
+One mark for each correct answer or valid point; extended responses are marked by levels.
+
+**Are these real OxfordAQA questions?**
+No. They are original questions following the specification's Paper 1 layout.

@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-geography-9236"
     subtopic: "landscape-natural-resources-9236"
-description: "Original exam-style practice questions with full worked answers on Pakistan's physical landscape, climate, natural resources, and energy and water for OxfordAQA International GCSE Pakistan Studies (9236)."
+description: "Original practice questions with worked answers on Pakistan's landscape, climate, resources and energy for OxfordAQA International GCSE Pakistan Studies 9236."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -130,6 +132,17 @@ pressure.
 - Describing a hazard's physical cause without also addressing its
   human causes or impacts, when the question specifically asks for
   both.
+
+## Frequently asked questions
+
+**How are the 9236 papers structured?**
+Each paper lasts 1 hour 30 minutes and is worth 77 marks: Section A (28 marks) and Section B (28 marks) are compulsory topics, and Section C (21 marks) is one of two optional topics.
+
+**How do the monsoon and western disturbances differ?**
+The monsoon brings summer rain from the south-west; western disturbances bring winter rain and snow from the west, mainly to the north and west.
+
+**What makes a strong 'how far do you agree' answer?**
+A clear position, developed points for and against with evidence, and a supported judgement.
 
 ## Official syllabus
 

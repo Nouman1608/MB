@@ -17,6 +17,8 @@ description: "Recall notes for 9236 optional topic 3.1.3: Sufi orders, Muhammad 
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense optional topic 3.1.3 of OxfordAQA International GCSE Pakistan Studies 9236,
@@ -122,6 +124,10 @@ them return to correct practice and unite [1].
 - **Confusing Sirhindi with Shah Waliullah.** Sirhindi opposed Akbar (16th–17th century); Shah Waliullah worked during Mughal decline (18th century).
 - **Saying Sufis converted people by force.** They spread Islam through preaching, example and service.
 - **Missing the significance.** Every "how important" answer needs a judgement, not just a description.
+
+## How is this topic examined?
+
+This topic is examined in OxfordAQA 9236 Paper 1, Section C, worth 21 of the paper's 77 marks; each paper lasts 1 hour 30 minutes. The section mixes short and extended response questions on this optional topic. Short items reward precise named facts, so learn the dates, places and people in the tables above; the extended responses reward a clear line of argument, two or three developed points with evidence, and a judgement that answers the question.
 
 ## Frequently asked questions
 
