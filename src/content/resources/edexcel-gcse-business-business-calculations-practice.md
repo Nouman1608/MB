@@ -162,6 +162,23 @@ Year 2: gross profit = £135,000 − £64,125 = £70,875; net profit = £70,875 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) if you would like help from a teacher.
 
+## Frequently asked questions
+
+**Which part of Edexcel GCSE Business (1BS0) do these questions cover?**
+Content item 2.4.1 Business calculations in Theme 2: gross and net profit, profit margins and average rate of return. The formulae are not provided in the examinations, so learn them.
+
+**What do both profit margins divide by?**
+Both the gross profit margin and the net profit margin divide by sales revenue. Dividing net profit by gross profit is a common mistake.
+
+**What is the common mistake in average rate of return calculations?**
+Dividing total profit, rather than average annual profit, by the cost of the investment, or using the wrong number of years in the average.
+
+**What is the difference between a percentage change and a change in percentage points?**
+A fall in a margin from 40% to 37% is a fall of 3 percentage points, not a "3% fall". A percentage change compares the change with the starting figure.
+
+**What does an Analyse, Justify or Evaluate question need after the calculation?**
+A comment on what the figures mean for the business, and for Justify, a comparison with the alternative option before recommending one.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.4 Making financial decisions, content item 2.4.1 Business calculations.
