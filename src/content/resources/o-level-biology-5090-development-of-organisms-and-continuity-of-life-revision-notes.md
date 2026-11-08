@@ -340,6 +340,20 @@ Progesterone falls → lining breaks down (menstruation) → FSH rises again.
 - Mixing up FSH and LH, or saying oestrogen causes ovulation.
 - Writing that the fetus's and mother's blood mix in the placenta.
 
+## Frequently asked questions
+
+**What is the difference between mitosis and meiosis?**
+Mitosis gives genetically identical cells with the same chromosome number, and is used for growth, repair and asexual reproduction. Meiosis is involved in making gametes and gives genetically different cells with the chromosome number halved.
+
+**What conditions do seeds need to germinate?**
+Seeds need water, oxygen and a suitable temperature. Light is not needed for germination.
+
+**How is a sperm cell adapted for fertilisation?**
+A sperm cell has a flagellum to swim, many mitochondria to release energy for swimming and enzymes in the acrosome to digest the jelly coat of the egg.
+
+**What causes cancer?**
+In Cambridge O Level Biology 5090, cancers are described as the result of uncontrolled cell division.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 16: Development of organisms and continuity of life (16.1 Nuclear division; 16.2 Asexual and sexual reproduction; 16.3 Sexual reproduction in plants; 16.4 Sexual reproduction in humans), published by Cambridge Assessment International Education.

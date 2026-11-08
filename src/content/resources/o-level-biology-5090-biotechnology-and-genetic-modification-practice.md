@@ -177,6 +177,20 @@ Revise first with the [study guide](/resources/o-level-biology-5090-biotechnolog
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is Cambridge O Level Biology 5090 tiered?**
+No. The 5090 syllabus is not tiered, so every question on Topic 18, Biotechnology and genetic modification, applies to every candidate.
+
+**How should you answer a "discuss" question on genetic modification?**
+Give points on both sides, such as potential advantages and potential risks, and link each point to the organism in the question. Treating a "discuss" question as a list of advantages only limits the marks available.
+
+**How do you calculate a rise from dough or growth data?**
+Work from the change, subtracting the starting value from the final value, rather than using the final value alone. For a percentage change, divide the change by the starting value and multiply by 100.
+
+**What makes a good control in a biotechnology experiment?**
+A control should differ from the test in only one variable, such as having no enzyme or no yeast. A control that changes more than one variable cannot show what caused the result.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 18: Biotechnology and genetic modification, published by Cambridge Assessment International Education.

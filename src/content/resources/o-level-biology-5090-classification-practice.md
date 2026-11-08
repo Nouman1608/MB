@@ -215,6 +215,20 @@ L **Prokaryote** [1]; no nucleus, with circular DNA free in the cytoplasm / plas
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is Cambridge O Level Biology 5090 tiered?**
+No. The 5090 syllabus is not tiered, so every question on Topic 2, Classification, applies to all candidates.
+
+**Which features should you avoid when building a dichotomous key?**
+Avoid colour, size and where an organism lives, because they vary between individuals or with conditions. Each couplet should compare one feature with two opposite options, and every organism needs its own end point.
+
+**How should you describe a difference between two groups?**
+Give a clear contrast that says something about both groups, rather than a one-sided statement such as "reptiles have scales". A matched pair of features earns the mark.
+
+**What should you do when using a key in an exam?**
+Read both statements in each couplet, follow the instructions in order and give only names that appear in the key you were given.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, version 4, published by Cambridge International (Cambridge Assessment International Education). Topic 2: Classification, sections 2.1 and 2.2.

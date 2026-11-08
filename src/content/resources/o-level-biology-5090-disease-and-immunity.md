@@ -372,6 +372,20 @@ So the immune system is weakened, other pathogens are not destroyed, and the per
 
 Condense this with the [revision notes](/resources/o-level-biology-5090-disease-and-immunity-revision-notes/), then test yourself with the [practice questions](/resources/o-level-biology-5090-disease-and-immunity-practice/).
 
+## Frequently asked questions
+
+**What is the difference between a pathogen and a vector?**
+A pathogen is a disease-causing organism, such as Plasmodium, which causes malaria. A vector carries the pathogen from one host to another, such as the female mosquito, which is not itself the cause of the disease.
+
+**How does cholera cause diarrhoea?**
+The cholera bacterium produces a toxin in the small intestine that causes chloride ions to be secreted into the gut. This lowers the water potential of the gut contents, so water moves out of the blood by osmosis, causing watery diarrhoea and dehydration.
+
+**What is the difference between active and passive immunity?**
+Active immunity is defence against a pathogen by antibody production in the body, after infection or vaccination, and memory cells are made. Passive immunity is a short-term defence by antibodies acquired from another individual, and no memory cells are produced.
+
+**Can antibiotics treat HIV?**
+No. HIV is a virus, and antibiotics treat bacterial infections only.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 12: Disease and immunity, published by Cambridge Assessment International Education.

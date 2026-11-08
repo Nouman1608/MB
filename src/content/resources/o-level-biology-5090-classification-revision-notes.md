@@ -241,6 +241,20 @@ Worked reminder: a small animal has jointed legs, a body in two sections, five p
 - Giving vague features such as "it has skin" or "it has legs", which apply to many groups and earn no credit.
 - Calling a virus a cell or putting it in the Prokaryote kingdom.
 
+## Frequently asked questions
+
+**What is a species in Cambridge O Level Biology 5090?**
+A species is a group of organisms that can reproduce to produce fertile offspring. Leaving out "fertile" is a common way to lose the mark.
+
+**How do you write a binomial name correctly?**
+Write the genus first with a capital letter, then the species in lower case. The name is printed in italics or underlined when handwritten.
+
+**What features does a virus have?**
+The 5090 syllabus limits the features of a virus to a protein coat and genetic material. A virus is not a cell and is not a bacterium.
+
+**What is the difference between prokaryotes and the other kingdoms?**
+Prokaryotes have DNA but no nucleus. Organisms in the other four kingdoms have their DNA inside a nucleus.
+
 ## Related pages
 
 - [Classification study guide](/resources/o-level-biology-5090-classification/)

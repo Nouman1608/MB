@@ -266,6 +266,20 @@ Result: pathogens and particles are kept away from the alveoli. If the cilia sto
 - Writing that cilia trap dust, or that cilia "sweep mucus down" to the lungs.
 - Confusing breathing with respiration in an explanation.
 
+## Frequently asked questions
+
+**What is the difference between breathing and respiration?**
+Breathing is a physical process that moves air into and out of the lungs. Respiration is the chemical reactions in cells that release energy.
+
+**What is the composition of atmospheric air?**
+Atmospheric air is about 78% nitrogen, 21% oxygen, about 1% argon and other noble gases, and 0.04% carbon dioxide, with a variable amount of water vapour. Writing 4% instead of 0.04% for carbon dioxide is a common error.
+
+**How do you test expired air for water vapour?**
+Breathe onto a cold mirror: condensation forms, showing that expired air contains water vapour.
+
+**How do you calculate breathing rate from a timed count?**
+Multiply the number of breaths counted by 60 divided by the counting time in seconds to give breaths per minute.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 9: Human gas exchange, published by Cambridge Assessment International Education.

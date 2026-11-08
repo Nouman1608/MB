@@ -191,6 +191,17 @@ Revise first with the [study guide](/resources/o-level-biology-5090-excretion/) 
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does Topic 13 cover in Cambridge O Level Biology 5090?**
+Topic 13, Excretion, covers the excretory products, the role of the liver in deamination and urea formation, the urinary system and the structure and function of a nephron. The syllabus is not tiered, so every question applies to every candidate.
+
+**How do you convert between cm³ and dm³?**
+There are 1000 cm³ in 1 dm³, so divide a volume in cm³ by 1000 to give dm³. Leaving out units, or this conversion, is a common way to lose calculation marks.
+
+**Is Cambridge O Level Biology 5090 tiered?**
+No. The 5090 syllabus is not tiered, so all candidates answer questions on the same excretion content.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 13: Excretion (13.1 Excretion; 13.2 Urinary system), published by Cambridge Assessment International Education.
