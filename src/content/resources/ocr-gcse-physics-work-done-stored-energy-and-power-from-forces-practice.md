@@ -157,7 +157,7 @@ Multiply the mass by g to get the weight in newtons before using it as a force. 
 For gravitational potential energy use the vertical height, and for work done by a force use the distance moved along the line of action of that force. Mixing the two up loses marks.
 
 **How should I explain where the energy goes?**
-Name the store the energy is transferred to, such as the thermal stores of the surroundings when work is done against friction. Writing that energy is "lost" or "used up" does not earn the mark.
+Name the store the energy is transferred to, such as the thermal stores of the object and the surface when work is done against friction. Writing that energy is "lost" or "used up" does not earn the mark.
 
 ## Official syllabus
 

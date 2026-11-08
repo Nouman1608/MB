@@ -224,6 +224,23 @@ Reminder: electron at 2.5 × 10⁶ m s⁻¹. p = 2.28 × 10⁻²⁴ kg m s⁻¹,
 - Describing diffraction changes without linking momentum, wavelength and gap size.
 - Calling the fluorescent tube's visible light a direct product of mercury excitation, missing the phosphor step.
 
+## Frequently asked questions
+
+**What is the difference between excitation and ionisation?**
+In excitation an electron moves up to a higher energy level and the atom stays neutral. In ionisation the electron leaves the atom, leaving a positive ion.
+
+**Why do electron collisions and photons excite atoms differently?**
+A photon must have exactly the energy of the gap to be absorbed. A colliding electron needs at least the gap energy, and it keeps any surplus as kinetic energy.
+
+**Does brighter light give faster photoelectrons?**
+No. Brighter light means more photons, so more electrons are emitted, but each photon still gives one electron the same energy. The maximum kinetic energy depends on the frequency, not the intensity.
+
+**What is the shortest wavelength produced by an X-ray tube?**
+The shortest wavelength is when one electron gives all its energy eV to a single photon, so λ(min) = hc/(eV). The spectrum is continuous above that minimum wavelength.
+
+**What does a graph of maximum kinetic energy against frequency show?**
+The gradient is h and the intercept on the energy axis is −ϕ. The lines for all metals have the same gradient.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA.

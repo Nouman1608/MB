@@ -177,6 +177,23 @@ These questions follow sections 3.4.1 to 3.4.3 of the OxfordAQA International AS
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to check what to revise next.
 - [Book a free trial class](/trial/) if you want help with any of these questions.
 
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics electricity questions cover?**
+They cover sections 3.4.1 to 3.4.3 of OxfordAQA International AS and A-level Physics (9630), shared AS and A-level content: current, potential difference, resistance, I-V characteristics, resistivity, thermistors and superconductors.
+
+**How do I find resistance from a curved I-V graph?**
+Read V and I at the point and calculate R = V/I. The gradient of a curve does not give the resistance, and on a V-I graph the gradient of a straight line is R rather than 1/R.
+
+**What mistakes are common in resistivity calculations?**
+Using the diameter as the radius, forgetting to square it in the area, and leaving millimetres unconverted. Resistivity is measured in ohm metres, not ohms.
+
+**How should I describe a superconductor?**
+A superconductor has zero resistivity at and below its critical temperature. Saying it has "low resistance" is not accepted.
+
+**What should I convert before substituting into electricity equations?**
+Convert minutes to seconds, milliamps to amps, kilohms to ohms and millimetres to metres, and show each conversion so a slip can still be traced.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.4.1 to 3.4.3, shared International AS and A-level content.

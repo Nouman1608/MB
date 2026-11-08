@@ -239,6 +239,23 @@ Doubling the pd across a capacitor multiplies the energy by four, since E ∝ V�
 - Leaving d in millimetres or C in microfarads when substituting.
 - Saying no force acts on a charge on an equipotential. The force is perpendicular to the surface, but no work is done.
 
+## Frequently asked questions
+
+**What is an equipotential?**
+An equipotential surface joins points at the same potential, so moving a charge along it needs no work. Electric field lines cross equipotentials at right angles.
+
+**What is the formula for the potential near a point charge?**
+V = Q/(4πε₀r), where r is the distance from the charge or from the centre of a charged sphere. The potential has r, not r², in the denominator.
+
+**What is capacitance?**
+Capacitance is the charge stored per unit potential difference: C = Q/V, measured in farads. Q is the magnitude of the charge on one plate, not the total charge of the capacitor, which is zero.
+
+**What affects the capacitance of a parallel plate capacitor?**
+C = Aε₀ε_r/d, so a bigger plate area, a smaller separation or a dielectric with a higher relative permittivity each increases the capacitance.
+
+**What happens when a dielectric is inserted into an isolated capacitor?**
+With the battery removed, the charge stays fixed. The capacitance rises by a factor ε_r, so the pd and the stored energy both fall by that factor.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.8.3 and 3.8.4.

@@ -180,6 +180,23 @@ These notes condense OxfordAQA International AS and A-level Physics (9630), Vers
 
 Take one of the [free 10-minute diagnostics](/diagnostics/) when you want a quick check of weaker areas.
 
+## Frequently asked questions
+
+**Why is an object moving in a circle at constant speed accelerating?**
+Its direction keeps changing, so its velocity changes even though its speed does not. A changing velocity is an acceleration, and it points towards the centre of the circle.
+
+**What is the difference between linear speed and angular speed?**
+Linear speed v is in m s⁻¹ and changes with radius. Angular speed ω is in rad s⁻¹ and is the same for every point on a rigid rotating object.
+
+**How do you convert revolutions per minute to angular speed?**
+Divide by 60 to get the frequency in Hz, then multiply by 2π. For example, 33 revolutions per minute is 0.55 Hz, which is about 3.46 rad s⁻¹.
+
+**What graph gives a straight line for centripetal force?**
+For a fixed mass and radius, F against v² is a straight line through the origin with gradient m/r, and F against ω² is a straight line through the origin with gradient mr.
+
+**What provides the centripetal force?**
+A real force or combination of forces, such as tension, friction, a normal force or gravity, depending on the situation. The centripetal force is not an extra force of its own.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Section 3.6.1 Circular motion (International A-level only).

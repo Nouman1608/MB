@@ -270,7 +270,7 @@ Gravitational potential energy (J) = mass (kg) × gravitational field strength (
 Energy is the amount transferred, in joules. Power is how fast it is transferred, in watts, so a high-power device can still transfer a small amount of energy if it runs for a very short time.
 
 **What happens to the energy when work is done against friction?**
-It is transferred to the thermal stores of the surroundings and the surfaces. Saying the energy is "lost" or "used up" loses marks.
+It is transferred to the thermal stores of the object and the surface, which warm up. Saying the energy is "lost" or "used up" loses marks.
 
 ## Official syllabus
 

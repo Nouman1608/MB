@@ -246,6 +246,23 @@ Light was described as a stream of particles, then shown to behave as a wave thr
 - Saying an electron needs exactly a gap's energy to excite an atom. A photon does; an electron needs at least that much.
 - Using the electron's kinetic energy as its momentum in λ = h/mv.
 
+## Frequently asked questions
+
+**What is an electronvolt?**
+One electronvolt is the energy an electron gains when it moves through a potential difference of one volt. Since W = QV, 1 eV = 1.60 × 10⁻¹⁹ J.
+
+**What is the photoelectric equation?**
+hf = ϕ + Ek(max), where ϕ is the work function, the smallest energy that lets an electron escape from the metal surface. One photon gives all its energy to one electron.
+
+**Why is there a threshold frequency in the photoelectric effect?**
+If the photon energy hf is less than the work function, no electron can escape, however many photons arrive. So the threshold frequency is f₀ = ϕ/h.
+
+**What is the evidence for wave-particle duality?**
+Electron diffraction shows that particles have wave properties, and the photoelectric effect shows that electromagnetic waves have a particulate nature.
+
+**How does increasing an electron's momentum affect its diffraction pattern?**
+By λ = h/p, a larger momentum gives a shorter wavelength, so the pattern spreads less and the angles to the maxima and minima get smaller.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA.

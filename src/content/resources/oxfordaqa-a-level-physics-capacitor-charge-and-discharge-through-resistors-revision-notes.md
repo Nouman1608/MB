@@ -203,6 +203,23 @@ Evaluation points: finite voltmeter resistance in parallel with R shortens the m
 - No units, or a wrong unit, on RC, charge or current.
 - Forgetting that the area under an I–t graph is charge, and quoting energy.
 
+## Frequently asked questions
+
+**What is the half-time of an RC circuit?**
+The half-time is the time for the charge, p.d. or current to halve: T½ = 0.693RC. For example, a time constant of 15 s gives a half-time of about 10.4 s.
+
+**What is the difference between the charging and discharging equations?**
+Discharge follows Q = Q₀e^(−t/RC), while charging follows Q = Q₀(1 − e^(−t/RC)), where Q₀ is the final charge. Using the wrong form is a common mistake.
+
+**What does the area under a current-time graph show?**
+The area under an I–t graph is the charge transferred, not the energy. The gradient of a Q–t graph gives the current.
+
+**Why is capacitor discharge exponential?**
+The current through the resistor is I = V/R = Q/(RC), so the rate of loss of charge is proportional to the charge left. That gives exponential decay.
+
+**How do I avoid calculator errors with e^(−t/RC)?**
+Put brackets round the whole exponent so that all of t is divided by RC, then check that your answer for a discharge is smaller than the starting value.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. These notes follow section 3.9.1 and Required practical 6.

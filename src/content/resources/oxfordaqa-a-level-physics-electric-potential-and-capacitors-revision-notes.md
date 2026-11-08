@@ -180,6 +180,23 @@ Label both axes with quantity and unit. For a negative charge, V is negative and
 - **Explain**: give the reason, linking cause and effect (rotation, opposing field, smaller pd, larger C).
 - **Sketch**: draw the shape with labelled axes and any key features, such as the point where a curve falls to a quarter or half.
 
+## Frequently asked questions
+
+**What is the difference between electric potential and field strength?**
+Potential is a scalar that varies as 1/r around a point charge, while field strength is a vector that varies as 1/r². The field strength is the gradient of the potential, not equal to it.
+
+**Does zero potential mean zero electric field?**
+No. Between a positive and a negative charge there is a point of zero potential, but the field there is not zero.
+
+**How do you find a potential difference from a graph of E against r?**
+The potential difference between two radii is the area under the E–r graph between them. Counting a trapezium over-estimates it, because the curve sags below the chord.
+
+**How much energy does a capacitor store?**
+The energy stored is ½QV, equal to ½CV² or Q²/(2C). For example, a 100 μF capacitor at 10 V stores 5.0 × 10⁻³ J. Writing QV instead of ½QV is a common error.
+
+**What does a "show that" question require?**
+Work out the value from the data with enough steps to see the method, and quote your answer to more significant figures than the value given.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.8.3 and 3.8.4.
