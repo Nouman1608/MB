@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "influences-on-business-aqa-gcse-business"
     subtopic: "competitive-environment-aqa-gcse-business"
-description: "Condensed revision notes on markets and competition, situations with little or no competition, uncertainty and risk, why entrepreneurs start businesses and how firms reduce risk, for AQA GCSE Business 8132, 3.2.6."
+description: "Condensed notes on markets, competition, little or no competition, uncertainty, risk and why entrepreneurs take it, for AQA GCSE Business (8132) section 3.2.6."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
@@ -193,6 +195,20 @@ On revenue alone, Option A loses less. A full answer also weighs costs and wheth
 - Giving reasons for starting a business that are not linked to the case.
 - Naming a risk without saying how it would affect sales, costs or profit.
 - Forgetting the functional area when the question names one.
+
+## Frequently asked questions
+
+**What is the difference between a market and competition?**
+A market is anywhere buyers and sellers come together to exchange goods or services, physical or online. Competition is the rivalry between businesses selling similar goods or services to the same customers.
+
+**Can a business remove risk completely?**
+No. Activities such as market research, business planning, insurance and cash-flow forecasting make risk smaller or easier to manage, but none of them removes it.
+
+**Why do entrepreneurs start businesses despite the risk?**
+Reasons include being their own boss, flexible working hours, pursuing an interest, earning more money, filling a gap in the market and dissatisfaction with their current job. Higher possible rewards usually come with higher risk.
+
+**Is having little competition always good for a business?**
+Not in the long run. It can charge higher prices and earn more profit, but high profit attracts new rivals and the lack of pressure can leave the business unprepared when one arrives.
 
 ## Official syllabus
 

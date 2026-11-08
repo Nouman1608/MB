@@ -125,6 +125,20 @@ Judgement: choose A, because it earns more in year one (60,200 against 50,000), 
 - Find weak spots with the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 4.3 Capacity utilisation and outsourcing, an AS Level topic, including under and over capacity, ways to improve utilisation, and the impact of outsourcing.
+
+**What are the most common mistakes in capacity utilisation calculations?**
+Dividing in the wrong order, giving a decimal instead of a percentage, and stopping at the target output when the question asks for the extra output needed.
+
+**What does an "analyse" question on capacity need?**
+Each point must be developed in steps, from the cause through to its effect on the business's costs, quality or customers, using figures from the case. A list of problems with no chain of reasoning scores little.
+
+**How do I make an outsourcing recommendation that earns marks?**
+Compare the costs of each option at the expected volume using the figures given, then weigh a non-financial factor such as control over quality before reaching a clear decision.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 4.3 Capacity utilisation and outsourcing.

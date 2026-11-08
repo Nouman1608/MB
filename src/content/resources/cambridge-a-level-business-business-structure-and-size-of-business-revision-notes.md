@@ -279,6 +279,20 @@ The syllabus does not list the measures in 1.3.1. These are the standard ones. I
 - Listing stakeholders affected by a takeover without saying how each is affected.
 - Saying a merger always saves money. It depends on fit, price and integration.
 
+## Frequently asked questions
+
+**What is the quaternary sector?**
+The quaternary sector is knowledge and information activity, such as research, data analysis and software. Cambridge AS and A Level Business 9609 uses four sectors: primary, secondary, tertiary and quaternary.
+
+**What is the difference between a joint venture and a strategic alliance?**
+In a joint venture, firms create a shared project or business, often sharing its ownership. A strategic alliance is cooperation between firms without forming a new shared business.
+
+**How can you measure the size of a business?**
+Common measures are number of employees, revenue, capital employed and market share. Each has a weakness, so choose the measure that suits the question, for example employees for a question about jobs.
+
+**Why do some mergers and takeovers fail?**
+Common reasons are overpaying for the target, culture clashes, loss of key staff and diseconomies of scale. Success depends on fit, price and how well the businesses are integrated.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education).

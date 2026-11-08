@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "managing-people-and-operations-aqa-aslevel-business"
     subtopic: "operations-management-aqa-aslevel-business"
-description: "Study guide to operations objectives, KPIs, efficiency, quality, environmental impact, supply chains, inventory, innovation, projects and scale for AQA AS Business (7137)."
+description: "Study guide to operations objectives, KPIs, efficiency, quality, supply chains, inventory, innovation, network analysis and scale for AQA AS Business (7137)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
@@ -223,6 +223,23 @@ The critical path is **A–B–D**, taking **12 days**. Activity C can be up to 
 - Listing benefits and difficulties with no judgement.
 
 Next, try the [practice questions](/resources/aqa-as-level-business-operations-management-practice/).
+
+## Frequently asked questions
+
+**Is ethics in operations part of AQA AS-Level Business (7137)?**
+No. Ethics in operations, such as supplier codes of conduct, audits and product safety, is A-level only in the AQA 7137/7138 specification.
+
+**What are the five operations objectives in AQA AS Business?**
+Efficiency, quality, volume of goods and services, flexibility and environmental impact. They can conflict, so a good answer says which should come first and why.
+
+**Why does unit cost fall when capacity utilisation rises?**
+Fixed costs are spread over more units of output, so the average cost of each unit falls even if variable cost per unit stays the same.
+
+**Does just in time production remove risk?**
+No. It cuts holding costs and the cash tied up in stock, but it moves the risk to the supply chain, because any late delivery can stop production.
+
+**How do you find the critical path?**
+Work out the earliest start and latest finish time of each activity, then calculate each float. The chain of activities with zero float is the critical path, and any delay on it delays the whole project.
 
 ## Official syllabus
 

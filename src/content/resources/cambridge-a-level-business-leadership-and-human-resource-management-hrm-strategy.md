@@ -241,6 +241,20 @@ Papers 3 and 4 give a case study. The syllabus says the last part of Question 3 
 - Computing labour turnover with the starting figure, not the average.
 - Naming a strategy without linking it to the cause of the poor performance.
 
+## Frequently asked questions
+
+**Which leadership theories are in Cambridge 9609 section 7.3?**
+The syllabus names five types: trait, behavioural, contingency, power and influence, and transformational leadership.
+
+**What is Management by Objectives (MBO)?**
+Under MBO, the business's objectives are cascaded into objectives for each department and employee, agreed with them and reviewed. It is most useful when staff are skilled and trusted and results can be measured.
+
+**Is hard HRM always worse than soft HRM?**
+No. Each can suit different groups of staff or situations, so judge which approach fits the business and evidence in the case rather than treating one as always better.
+
+**How are IT and AI changing HRM?**
+They support online recruitment and automated screening, online training, central records and payroll, and performance tracking. The risks include hidden bias, data privacy concerns and staff feeling watched.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment. This guide covers sections 7.3.1 to 7.3.3 and 7.4.1.

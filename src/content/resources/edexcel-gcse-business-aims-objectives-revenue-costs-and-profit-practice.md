@@ -168,6 +168,23 @@ Judgement: choose Plan A on the figures, because it earns more profit and carrie
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel GCSE Business (1BS0) do these questions cover?**
+Content items 1.3.1 and 1.3.2 of Topic 1.3 Putting a business idea into practice, covering business aims and objectives, and revenue, costs, profit and break-even.
+
+**What is the most common mistake in break-even calculations?**
+Using the selling price as the divisor instead of contribution per unit, which is price minus variable cost. Show the working so the method is visible.
+
+**Should the margin of safety be in pounds or units?**
+In units when the question asks for output, matching the formula of actual output minus break-even output. Read the question carefully to see which it wants.
+
+**What does a justify question need in Edexcel GCSE Business?**
+Recommend one of the two options using the information given, compare both with figures, and note a risk or condition before reaching your decision.
+
+**Are formulae given in the Edexcel GCSE Business exam?**
+No. Calculators may be used, but the Appendix 3 formulae are not supplied in the examinations, so learn them, including the break-even formula.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. The subject content covered is in Theme 1 (Investigating small business), under Topic 1.3 (Putting a business idea into practice): items 1.3.1 and 1.3.2.

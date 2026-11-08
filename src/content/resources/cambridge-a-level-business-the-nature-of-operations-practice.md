@@ -116,6 +116,20 @@ This set covers section 4.1, The nature of operations, from the Cambridge Intern
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 4.1 The nature of operations, including the factors of production, added value, productivity, operations methods and sustainability.
+
+**Which figure is the base in a percentage change?**
+The old, or original, figure. Using the new figure as the base is a common error in productivity questions.
+
+**Is capital intensive production always cheaper?**
+No. Check the expected output level against the output at which total costs are equal before recommending a set-up, and show the method in your working.
+
+**What does an evaluate question on changing operations method need?**
+Use the figures in the stem, such as costs, retraining time and productivity, on both sides, then reach a clear judgement. A list of pros and cons with no judgement limits the marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus, for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International). Section 4.1, The nature of operations.

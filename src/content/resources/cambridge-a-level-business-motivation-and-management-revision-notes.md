@@ -300,6 +300,20 @@ A judgement uses your answers to these prompts. Say which is most important in t
 - A calculation with no working or no unit.
 - Evaluation answers that list advantages and disadvantages but never reach a judgement.
 
+## Frequently asked questions
+
+**What is the difference between content and process theories of motivation?**
+Content theories, such as Taylor, Mayo, Maslow, Herzberg and McClelland, explain what motivates people. Vroom's expectancy theory is a process theory: it explains how motivation is formed.
+
+**How do you calculate motivational force in Vroom's theory?**
+The standard form multiplies expectancy by instrumentality by valence. If any one of the three scores is zero, the motivational force is zero.
+
+**What is the difference between Fayol and Mintzberg?**
+Fayol set out principles of what managers should do, as elements of management. Mintzberg observed what managers actually do and grouped it into ten roles: interpersonal, informational and decisional.
+
+**What is the difference between Theory X and Theory Y managers?**
+A Theory X manager assumes people dislike work and avoid responsibility, so uses close control and pay. A Theory Y manager assumes people can enjoy work and seek responsibility, so uses delegation and trust. These are a manager's beliefs, not facts about staff.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 2.2.1 to 2.3.1.

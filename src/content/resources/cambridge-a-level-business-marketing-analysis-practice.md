@@ -131,6 +131,20 @@ Judgement: going ahead looks sensible, as a modest rise raises revenue and contr
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 8.1 Marketing analysis, A Level content including elasticity of demand, product development, R&D and sales forecasting.
+
+**Why does the minus sign matter in elasticity answers?**
+The sign drives the classification, especially for income elasticity, so dropping it can lead to the wrong conclusion. Always state whether demand is elastic or inelastic and what that means for revenue.
+
+**How do you judge whether a promotion was worthwhile?**
+Look at contribution, not just sales. Turn the elasticity figure into extra units and extra contribution, then compare that with the extra promotional spending.
+
+**What are the common mistakes in moving average forecasting?**
+Reversing the seasonal variation (it is actual minus trend), and dividing the sum of two four-quarter totals by 4 instead of 8 when centring.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028 (Cambridge University Press & Assessment), section 8.1 Marketing analysis.

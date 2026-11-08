@@ -210,6 +210,20 @@ End an evaluation with a judgement that answers the question, not a summary.
 
 Use the [revision notes](/resources/cambridge-a-level-business-capacity-utilisation-and-outsourcing-revision-notes/), then the [practice set](/resources/cambridge-a-level-business-capacity-utilisation-and-outsourcing-practice/). Tick off the topic on the [checklist](/checklists/cambridge/a-level/business/) and find weak spots with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why do unit costs rise when capacity utilisation is low?**
+Fixed costs such as rent, machinery and salaried staff are spread over fewer units, so the fixed cost per unit, and therefore the unit cost, is higher.
+
+**How can a business improve low capacity utilisation?**
+It can raise output, for example through promotion, new markets or contract work for other firms, or reduce capacity by closing a line, renting out space or moving to smaller premises (rationalisation).
+
+**What is outsourcing in Cambridge AS and A Level Business 9609?**
+Outsourcing means using another business to carry out an activity or process the firm could do itself. It is not the same as simply buying raw materials.
+
+**What are the risks of outsourcing?**
+Less control over quality, speed and confidential information, dependence on one supplier, hidden contract and monitoring costs, and damage to the brand when the contractor gets something wrong.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 4.3 Capacity utilisation and outsourcing.

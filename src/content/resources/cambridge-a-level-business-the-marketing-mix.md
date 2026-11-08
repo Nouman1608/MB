@@ -216,6 +216,20 @@ A **channel of distribution** is the route a product takes from producer to cust
 - Assuming a high price always raises profit, ignoring the fall in sales.
 - Listing promotion methods without judging fit to the target customers and budget.
 
+## Frequently asked questions
+
+**What is the difference between a good and a service?**
+A good is a physical item that can be touched and stored. A service is an activity carried out for a customer that cannot be stored.
+
+**What is the difference between product differentiation and a USP?**
+Product differentiation means making a product stand out from rivals through design, quality, service or image. A unique selling point is a specific feature that rivals do not offer and that customers value.
+
+**Does penetration pricing mean selling below cost?**
+No. Penetration pricing means a low initial price to win market share quickly, usually for a new entrant; it does not have to be below cost.
+
+**What are the roles of packaging and branding in promotion?**
+Packaging protects the product but also attracts attention, shows the brand, informs and signals quality. Branding makes a product recognisable and can support loyalty and a higher price.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028*, section 3.3 The marketing mix.

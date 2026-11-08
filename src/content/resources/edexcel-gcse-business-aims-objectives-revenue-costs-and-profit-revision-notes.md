@@ -229,6 +229,20 @@ Use the Kestrel data (price £40, variable cost £15, fixed costs £5,000) unles
 - Leaving out units or the £ sign after a calculation.
 - Saying how a change shifts the lines without stating the consequence for the owner.
 
+## Frequently asked questions
+
+**What are the financial objectives in Edexcel GCSE Business (1BS0)?**
+The specification lists survival, profit, sales, market share and financial security as financial aims and objectives when starting up.
+
+**What are the non-financial objectives in Edexcel GCSE Business?**
+Social objectives, personal satisfaction, challenge, and independence and control.
+
+**How do you calculate interest on a loan as a percentage?**
+Subtract the amount borrowed from the total repayment, divide by the amount borrowed and multiply by 100. Dividing by the total repayment is a common error.
+
+**Does the total costs line start at zero on a break even diagram?**
+No. The total costs line starts at the level of fixed costs and rises from there, while the total revenue line starts at the origin.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. The subject content covered is in Theme 1 (Investigating small business), under Topic 1.3 (Putting a business idea into practice): items 1.3.1 and 1.3.2.

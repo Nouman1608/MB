@@ -13,10 +13,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
-description: "Original exam-style practice questions with full worked answers on raising finance, break-even analysis, profitability and liquidity ratios, business failure, resource management and external influences for Edexcel International A Level Business (WBS12), Unit 2."
+description: "Original practice questions with worked answers on finance, break-even, ratios, business failure and resources for Edexcel IAL Business (WBS12) Unit 2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
@@ -162,3 +164,17 @@ single essay question draws on one or more sources from across the paper.
 ## Approaching managing business activities questions
 
 Treat every calculation question as a two-step process: first identify and state the correct formula, then substitute the given figures and show the working explicitly, since Edexcel's mark scheme awards method marks for a correctly identified formula even when a later arithmetic step goes wrong. For scenario-based questions on sources of finance, causes of failure, or external influences, always tie the answer back to the specific details given in the source — the business's size, its need for control, or the timing of its cash-flow problem — rather than stating textbook definitions in isolation, since application marks on this unit are earned through that specific link, not general knowledge. For the twenty-mark evaluation, spend proportionate time planning both sides of the argument before writing, since a supported judgement on *extent* is what separates a Level 4 answer from a well-informed but one-sided Level 2 or 3 answer.
+
+## Frequently asked questions
+
+**What are the command word mark tariffs in Edexcel International A Level Business?**
+The specification publishes a fixed tariff for eight command words: define (2), calculate (4), construct (4), explain (4), analyse (6), discuss (8), assess (10) and evaluate (20).
+
+**Do I get marks for method in Edexcel Business calculations?**
+Yes. State the correct formula, then substitute the figures and show the working, because the mark scheme awards method marks for a correctly identified formula even if a later arithmetic step goes wrong.
+
+**How is the 20-mark evaluate question marked?**
+It is marked against a levels-based scheme rather than discrete points. A supported judgement on the extent of the issue is what separates a Level 4 answer from a one-sided Level 2 or 3 answer.
+
+**Do Sections A and B of the WBS12 paper use the same source material?**
+No. Each section is based on its own source material about a different business, and the Section C essay draws on one or more sources from across the paper.

@@ -223,6 +223,20 @@ In the standard diagram, an internal economy moves the firm along the unit cost 
 
 Judge which factors matter most for this business and why: a perishable product weights market proximity; a high-value, light product weights labour skills. Look at time (savings may fall as wages rise), the size of one-off costs, and risk. Reach a reasoned view.
 
+## Frequently asked questions
+
+**What factors determine where a business locates?**
+Common factors are closeness to the market and to materials, labour cost and skills, transport and infrastructure, the cost of land and premises, government grants and rules, competitors and clusters, and the owner's preference or image.
+
+**How does globalisation affect location decisions?**
+Falling transport and communication costs and lower trade barriers make distant sites practical, so firms can build global supply chains. The trend can reverse through protectionism, rising wages abroad or disruption.
+
+**What factors influence the scale of a business?**
+Market size and demand, finance available, the type of product, technology, the owner's objectives, competition, and risk and regulation.
+
+**Is a diseconomy of scale the same as a loss?**
+No. A diseconomy of scale is a rise in unit cost as the business grows too large, caused for example by poor communication or slow decisions. The business may still be profitable.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 9.1.

@@ -306,6 +306,20 @@ Check each of five factors, then judge the fit.
 - Giving only advantages of a source. Evaluation needs a disadvantage and a judgement.
 - Dropping the unit or the time period in interest calculations.
 
+## Frequently asked questions
+
+**What is working capital in Cambridge 9609 Business?**
+Working capital is current assets minus current liabilities, the finance available for day-to-day operations. It is not the same as cash, which is only one current asset.
+
+**What is the difference between bankruptcy and liquidation?**
+Bankruptcy applies to an individual, such as a sole trader or partner, who cannot pay personal debts. Liquidation applies to a business, which is closed and its assets sold to pay creditors.
+
+**What factors affect the choice of a source of finance?**
+Cambridge AS and A Level Business 9609 names cost, flexibility, the need to retain control, the use to which the finance is put, and the level of existing debt.
+
+**What is debt factoring?**
+Debt factoring is selling unpaid customer invoices to a specialist, the factor, for immediate cash. The business gets money sooner but receives less than the full value of the invoices.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 5.1 Business finance and 5.2 Sources of finance.

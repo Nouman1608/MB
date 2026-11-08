@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
     subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
-description: "Original exam-style practice questions with full worked answers on entrepreneurs, business objectives, business forms and stakeholders, for AQA AS-Level Business (7137), sub-topics 3.1.1 and 3.1.2."
+description: "Original practice questions with worked answers on entrepreneurs, objectives, business forms and stakeholders for AQA AS-Level Business (7137), 3.1.1 to 3.1.2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-17
@@ -96,6 +98,20 @@ and stakeholders** only.
 **7.** The specification names objectives, risk, reward, resources, market conditions, ethics and opportunity cost as influences on a business decision, and a strong answer applies several of them to this scenario rather than listing them: the entrepreneur must weigh the reward of a successful new product line (extra revenue, growth) against the risk of failure (wasted resources, reputational damage), consider whether the business currently has the resources (finance, staff time, production capacity) to absorb a failed launch without threatening the rest of the business, and factor in opportunity cost — resources committed to this launch cannot be used elsewhere. A genuinely evaluative answer reaches a conclusion that depends on a stated condition, for example: proceeding is justified if the business has spare resources and the potential reward clearly outweighs a limited, contained risk of failure, but not if a failed launch would threaten the business's existing, profitable operations. **[8]** (Marks for applying several named influences to the specific scenario, and for a genuinely evaluated conclusion rather than an unqualified yes/no.)
 
 **8.** A private limited company offers real advantages over a sole trader for a business seeking to expand — limited liability and improved access to finance being the two most significant — but it is not automatically the best choice in every case. If the sole trader's expansion needs only a modest amount of additional finance, the costs and requirements of incorporating (such as publishing annual accounts and sharing some control and profits with other shareholders) may outweigh the benefit, and a sole trader might instead expand more slowly using retained profit or a bank loan without changing business form at all. The best choice therefore depends on the scale of finance needed, how much control and privacy the owner is willing to give up, and whether the ongoing administrative requirements of a private limited company are proportionate to the size of the expansion being planned, rather than a private limited company being unconditionally superior for every expanding sole trader. **[6]** (Marks for a genuine evaluation weighing the benefits of incorporation against a specific limitation or alternative, rather than asserting one form is always best.)
+
+## Frequently asked questions
+
+**Which parts of the AQA AS Business (7137) specification do these questions cover?**
+Sub-topics 3.1.1 Business and objectives and 3.1.2 Forms of business and stakeholders. Marketing management and financial management are covered elsewhere.
+
+**What is the difference between dividend per share and dividend yield?**
+Dividend per share is an amount in pence: total dividend divided by the number of ordinary shares in issue. Dividend yield is a percentage: dividend per share divided by the share price, multiplied by 100.
+
+**How do I answer a question asking me to recommend a business form?**
+Start from the business's specific constraint, such as needing finance while keeping control, and compare the forms on liability, access to finance and control before recommending one.
+
+**What makes a business objective SMART in the AQA specification?**
+The specification lists Specific, Measurable, Accountable, Realistic and Time specific. An objective stated in general terms, such as "grow the business", gives no way to measure success.
 
 ## Official syllabus
 

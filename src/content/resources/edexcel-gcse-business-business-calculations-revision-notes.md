@@ -236,6 +236,20 @@ These are the writer's suggestions, not specification wording.
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between gross profit and net profit?**
+Gross profit is sales revenue minus cost of sales. Net profit is gross profit minus other operating expenses and interest, so it shows what is left after all running costs.
+
+**How do you calculate average rate of return in Edexcel GCSE Business (1BS0)?**
+Add the profits from every year, divide by the number of years to get average annual profit, then divide by the cost of the investment and multiply by 100.
+
+**What does it mean if gross margin is steady but net margin falls?**
+Cost of sales is under control, so the cause is likely to be other operating expenses or interest growing faster than sales revenue.
+
+**What are the limitations of average rate of return?**
+The profits are forecasts, an average hides when the profits arrive, a high rate on a small or short investment can give less total profit, and it ignores non-financial factors.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.4 Making financial decisions, content item 2.4.1 Business calculations.

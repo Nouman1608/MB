@@ -244,6 +244,20 @@ A forecast shapes production plans, stock levels, hiring of seasonal workers, fi
 - Ignoring the sign of YED. A negative value means an inferior good.
 - Describing R&D benefits with no cost or risk, so the answer is one-sided.
 
+## Frequently asked questions
+
+**How do you calculate a four period centred moving average?**
+Add four consecutive quarters to get moving totals, add each pair of consecutive totals, and divide by 8. The result is the trend for the middle quarter.
+
+**How do you forecast sales using seasonal variation?**
+Seasonal variation is actual sales minus the trend. Average the variations for each quarter, then add the average for the quarter you want to the projected trend.
+
+**What are the limitations of elasticity?**
+It is calculated from past data, assumes nothing else changed, may differ for larger or smaller changes, can be unreliable from a small sample, and short-run figures can differ from long-run ones.
+
+**What are the stages of product development?**
+A typical sequence is idea generation, screening, concept and business analysis, development, testing and launch. The syllabus does not fix the number of stages, so a logical order with each step explained is what matters.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028 (Cambridge University Press & Assessment), section 8.1 Marketing analysis (8.1.1 Elasticity, 8.1.2 Product development, 8.1.3 Sales forecasting).

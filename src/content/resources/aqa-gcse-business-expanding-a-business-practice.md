@@ -150,6 +150,23 @@ Judgement [1]: for example, the takeover is worthwhile only if the loan repaymen
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does section 3.1.7 Expanding a business cover in AQA GCSE Business (8132)?**
+Methods of expansion, their benefits and drawbacks, economies and diseconomies of scale, and calculating and interpreting average unit cost. The questions here are original, not AQA past paper questions.
+
+**How do you calculate average unit cost?**
+Divide total cost by output, then give the answer with a unit such as £ per pack. Dividing output by total cost is a common mistake.
+
+**What is the difference between purchasing and technical economies of scale?**
+Purchasing economies come from buying in bulk, so the price per unit of materials falls. Technical economies come from larger or more specialised machinery whose cost is spread over more units.
+
+**How do I distinguish between two terms for the marks?**
+Give a clear difference between them, not just two separate definitions. For example, show what one has that the other does not.
+
+**What do examiners want in an evaluate question on growth?**
+Both sides in the context of the figures given, then a judgement and the condition it depends on, such as whether loan repayments can be afforded.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA. This set covers section 3.1.7 Expanding a business.

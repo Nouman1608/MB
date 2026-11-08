@@ -114,6 +114,20 @@ These questions cover sections 10.1 (Financial statements) and 10.2 (Analysis of
 - Take all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which sections of Cambridge 9609 do these questions cover?**
+Section 10.1 Financial statements and section 10.2 Analysis of published accounts, A Level content in Cambridge AS and A Level Business 9609.
+
+**What are the most common mistakes in ratio analysis?**
+Using total revenue instead of credit sales or credit purchases in days ratios, leaving non-current liabilities out of capital employed, and giving ratios without a comparison, meaning or unit.
+
+**What happens if a figure in the statement of profit or loss changes?**
+Recalculate every line below it, including tax and profit for the year. A change in one cost line can have a much bigger percentage effect on profit.
+
+**How should I comment on a ratio?**
+Say what the figure means for the business, compare it with another year or a rival, and explain the pattern between the ratios rather than just stating that each went up or down.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education): sections 10.1 and 10.2 and the appendix of ratios.

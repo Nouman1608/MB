@@ -306,6 +306,23 @@ Each choice links to a fact about the business. That link is what turns a descri
 - Recommending a mix with no link to the target market.
 - Evaluation answers that stop at a list instead of reaching a justified judgement.
 
+## Frequently asked questions
+
+**What are the four types of segmentation in AQA GCSE Business (8132)?**
+Gender, age, location and income. Segmentation lets a business fit its marketing mix to each group so money is not wasted.
+
+**What is the difference between primary and secondary market research?**
+Primary research is collected first-hand, for example by questionnaires, interviews or focus groups. Secondary research already exists, for example on the internet or in the printed press.
+
+**What is the difference between price skimming and price penetration?**
+Price skimming sets a high price at first and lowers it later. Price penetration sets a low price at first to gain market share.
+
+**What are extension strategies in the product life cycle?**
+Actions to extend a product's sales, such as updating packaging, adding more or different features, changing the target market, advertising or reducing the price.
+
+**How do you calculate market share?**
+Divide one firm's sales by total sales in the market and multiply by 100. Give the answer as a percentage, not a decimal.
+
 ## Official syllabus
 
 Source: AQA 8132 GCSE Business specification (first teaching September 2017), section 3.5 Marketing.

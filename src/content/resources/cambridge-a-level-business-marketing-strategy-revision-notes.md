@@ -244,6 +244,20 @@ Use the syllabus meanings. Calculate means work out from the facts given. Analys
 - Calling a weighted-scoring winner "best" with no comment on weights.
 - Recommending an entry method without referring to cost, control or risk in the case.
 
+## Frequently asked questions
+
+**What is the difference between a marketing plan and the marketing mix?**
+The marketing mix is only one part of the plan. A marketing plan also sets out the objectives, the resources available and the research the decisions are based on.
+
+**What is the difference between IT and AI in marketing?**
+IT collects, stores and moves data, for example through databases and e-commerce. AI analyses that data and acts on it, for example by making personal recommendations or changing prices automatically as demand moves.
+
+**What is pan-global marketing?**
+Pan-global marketing uses the same product, brand and marketing message in every country. It gives economies of scale and a consistent brand but may ignore local tastes and rules.
+
+**What factors affect how a business enters an overseas market?**
+Cost and the finance available, the control wanted, risk, speed, local knowledge needed, trade barriers and legal rules, and the size of the market.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge Assessment International Education: section 8.2 (Marketing strategy).

@@ -309,6 +309,20 @@ Select the factor the case points to, apply it with evidence from the stem, anal
 - Listing privatisation points without linking them to the business described.
 - Saying a tax rise always cuts sales without considering elasticity.
 
+## Frequently asked questions
+
+**In which areas might a government use the law to control business?**
+The Cambridge 9609 syllabus lists seven: employment practices, conditions of work including health and safety, wage levels, marketing behaviour, competition, location decisions, and particular goods and services.
+
+**What is the difference between privatisation and nationalisation?**
+Privatisation moves a business or industry from government ownership to private ownership. Nationalisation moves it from private to government ownership.
+
+**Does a tax rise always cut a firm's sales?**
+No. The effect depends on price elasticity of demand and the type of customer, so a tax rise on a product with inelastic demand may cut sales only slightly.
+
+**How can a multinational affect a host country?**
+Potential gains include jobs, investment, skills, tax revenue and exports. Possible drawbacks include profits leaving the country and local firms losing out.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 6.1.

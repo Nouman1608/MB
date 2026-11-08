@@ -154,6 +154,20 @@ The owner is considering three options: a bank overdraft of up to £10,000 at 14
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 5.3 Forecasting and managing cash flows (5.3.1). The questions are original and the businesses are invented.
+
+**What are the most common mistakes in cash flow forecasts?**
+Recording credit sales in the month of sale rather than the month of payment, forgetting that this month's closing balance is next month's opening balance, and losing the minus sign on a negative figure.
+
+**How do you find a missing figure in a cash flow forecast?**
+Use the links between the rows: net cash flow is inflows minus outflows, and closing balance is opening balance plus net cash flow. Rearrange these to find the missing value.
+
+**How do I evaluate options for solving a cash flow problem?**
+Check whether the gap is temporary or long-term, use the numbers to show whether each option covers it, and avoid a long-term source for a short gap. Finish with a clear judgement.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 5.3 Forecasting and managing cash flows.

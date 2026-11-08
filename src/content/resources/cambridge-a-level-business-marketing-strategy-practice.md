@@ -124,6 +124,20 @@ These questions cover section 8.2 (Marketing strategy) of the Cambridge Internat
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 8.2 Marketing strategy, including marketing planning, a coordinated marketing mix, IT and AI in marketing, and international marketing.
+
+**What is a common mistake when calculating a market share target?**
+Applying the target share to the old market size when the market is forecast to grow. Work out the new market size first, then apply the target share.
+
+**How should I recommend a market from a weighted scoring table?**
+Name the highest total but also comment on the reliability of the scores and weights, especially when totals are close. Naming the top score alone is incomplete.
+
+**What does a question on a coordinated marketing mix need?**
+Show the shared message running through price, product, promotion and place, and explain what is inconsistent and how it affects customers if the elements clash.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge Assessment International Education: section 8.2 (Marketing strategy).

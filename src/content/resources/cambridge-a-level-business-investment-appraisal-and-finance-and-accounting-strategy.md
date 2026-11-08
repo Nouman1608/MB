@@ -242,6 +242,20 @@ ROCE is the same because it uses profit from operations, before interest. Gearin
 - Saying a higher NPV is always better without mentioning the discount rate and forecast risk.
 - Listing stakeholder interests without tying them to the figures in the case.
 
+## Frequently asked questions
+
+**What is the ARR formula in Cambridge 9609?**
+The syllabus gives ARR as average profit divided by average investment, multiplied by 100. Average profit is total net cash inflows minus total depreciation, divided by the number of years.
+
+**What are the limitations of payback?**
+Payback is simple and focuses on liquidity and risk, but it ignores cash after the payback point and does not allow for the time value of money.
+
+**What qualitative factors matter in investment decisions?**
+Examples include fit with the business's strategy, effects on employees, brand and reputation, and environmental impact. Numbers are not the whole decision, because every method relies on forecasts.
+
+**Who uses a company's annual report?**
+Shareholders look for profit and dividends, lenders for gearing and ability to repay, employees for job security, suppliers for liquidity, managers for performance against targets, and competitors for a rival's strengths and weaknesses.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 10.3 and 10.4.

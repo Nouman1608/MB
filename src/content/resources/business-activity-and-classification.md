@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "understanding-business-activity"
     subtopic: "classification-of-businesses"
-description: "Needs, wants, scarcity and opportunity cost, adding value, and classifying businesses by economic sector and by private/public sector, for Cambridge O Level Business Studies 7115."
+description: "Needs, wants, scarcity, opportunity cost, added value and classifying businesses by sector and by ownership, for Cambridge O Level Business Studies 7115."
 author: "asif-iqbal"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -220,6 +222,20 @@ alternative
 - The three economic sectors — primary, secondary, tertiary — and how
 their relative importance shifts as economies develop
 - Private sector vs public sector in a mixed economy
+
+## Frequently asked questions
+
+**Is Cambridge O Level Business Studies 7115 being replaced?**
+Yes. 7115 is the syllabus for the 2026 examination series, and Cambridge replaces it with 7081 Cambridge O Level Business from 2027 onward, so check which code your series uses.
+
+**Is Cambridge O Level Business Studies 7115 tiered?**
+No. 7115 is not tiered, so every candidate covers all of subtopics 1.1 Business activity and 1.2 Classification of businesses.
+
+**What is opportunity cost?**
+Opportunity cost is the next-best alternative given up when a choice is made. Scarcity, meaning limited resources against unlimited wants, is why every choice has one.
+
+**Why does the importance of each economic sector change as a country develops?**
+Developing economies tend to have a larger share of primary activity, while developed economies shift towards a much larger tertiary sector as incomes rise and service industries grow.
 
 ## Related resources
 

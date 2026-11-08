@@ -110,6 +110,20 @@ These questions cover sections 3.1.1 (The purpose and nature of businesses) and 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which sections of AQA GCSE Business (8132) do these practice questions cover?**
+Section 3.1.1 The purpose and nature of businesses and section 3.1.2 Business ownership. The questions are original, not AQA past paper questions.
+
+**What is the most common mistake with opportunity cost?**
+Giving the value of all the options given up, or the money spent, instead of the single next best alternative. Opportunity cost is only the value of the second-best choice.
+
+**How do you decide which sector a business is in?**
+Classify it by the activity it carries out, not by the product it sells. Extracting or growing resources is primary, manufacturing and building is secondary, and providing services is tertiary.
+
+**Is a public limited company owned by the government?**
+No. A plc is in the private sector; "public" means its shares can be sold to the general public.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA. Sections 3.1.1 and 3.1.2.

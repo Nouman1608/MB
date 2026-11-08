@@ -245,6 +245,20 @@ JIT looks better on this measure. But 1 200 is small. A single stoppage caused b
 - Reading a chart's jump as usage. The jump is the delivery; the sloping line is usage.
 - Listing advantages and disadvantages without tying them to the business in the case.
 
+## Frequently asked questions
+
+**Why do businesses hold inventory?**
+Raw materials keep production going and allow bulk buying, work in progress is unavoidable in multi-stage production, and finished products let the business meet orders at once and cope with uneven demand.
+
+**What are the costs of holding inventory?**
+Cash tied up that cannot be used elsewhere, storage, insurance and security costs, the risk of damage, theft or obsolescence, and staff time to count, move and record it.
+
+**What is Supply Chain Management?**
+Supply Chain Management is coordinating the flow of materials, information and payments along the chain of businesses from raw material to final customer. Good SCM lets a business hold less inventory safely.
+
+**When does JIT suit a business?**
+JIT works best where demand is fairly predictable, suppliers are reliable and close by, and materials are bulky, perishable or expensive to store. JIC suits businesses with uncertain supply or long delivery times.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 4.2 Inventory management.

@@ -246,6 +246,20 @@ Channels: direct; via retailer; via wholesaler then retailer.
 - Ignoring the target segment when choosing a channel.
 - Giving evaluation as a list of generic pros and cons rather than a conclusion based on the case.
 
+## Frequently asked questions
+
+**How many pricing methods are in Cambridge 9609 section 3.3.4?**
+Seven: competitive, penetration, skimming, price discrimination, dynamic, cost-based and psychological pricing. Choose a method by asking about the objective, the market and the product.
+
+**How do you calculate relative market share for the Boston Matrix?**
+The standard form divides the business's own market share by the share of its largest rival. A result above 1 means the business leads that market.
+
+**What are extension strategies?**
+Ways to lengthen a product's life before or during decline, such as new packaging, product modification, new uses or new markets.
+
+**What is the difference between direct and indirect channels of distribution?**
+Selling direct keeps the whole price, brand control and customer data, but the producer bears selling and delivery costs. Selling through retailers or wholesalers gives wider reach, but each takes a margin and control is reduced.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028*, section 3.3 The marketing mix.

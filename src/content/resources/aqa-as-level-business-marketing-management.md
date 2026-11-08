@@ -247,6 +247,23 @@ Digital technology, including **artificial intelligence (AI)**, supports **socia
 </figure>
 
 
+## Frequently asked questions
+
+**Are international marketing and ethical marketing in AQA AS-Level Business (7137)?**
+No. In section 3.1.3 of the AQA 7137/7138 specification, international marketing and ethical issues in marketing are marked "(A-level only)", so AS students do not need them.
+
+**What is the difference between primary and secondary market research?**
+Primary research is gathered first-hand for the question in hand, such as surveys, interviews or test sales, so it is specific but slower and costlier. Secondary research uses data that already exists, such as published reports or the firm's own sales records, so it is cheaper and quicker but may be out of date.
+
+**How do you calculate market share and market growth?**
+Market share is the sales of one product, brand or business divided by total sales in the market, multiplied by 100. Market growth is the change in the size of the market divided by its original size, multiplied by 100.
+
+**Does cutting the price always increase revenue?**
+No. A price cut raises revenue only when demand is price elastic (PED above 1, ignoring the sign); when demand is inelastic, a price rise is what increases revenue.
+
+**What is the difference between click-through rate and conversion rate?**
+Click-through rate is the number of clicks divided by the number of times an advert was viewed. Conversion rate is the number of purchases divided by the number of clicks, so it measures how well visitors are turned into buyers.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7137, 7138) specification, version 1.1, November 2025: section 3.1.3 Marketing management, the assessment overview and the Annex on quantitative skills and formulae.

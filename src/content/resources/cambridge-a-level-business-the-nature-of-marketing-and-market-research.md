@@ -224,6 +224,20 @@ Percentages: 63 / 90 = 70%, 34 / 85 = 40%, 18 / 75 = 24%. Overall, 115 of 250 = 
 - Writing about the marketing mix when the question asks about research.
 - Giving a calculation with no conclusion.
 
+## Frequently asked questions
+
+**What is the difference between product orientation and customer orientation?**
+Product orientation starts from what the business is able to make and then looks for buyers. Customer (market) orientation starts from what customers want, which needs market research.
+
+**What happens to price and quantity when demand rises?**
+When demand rises and supply is unchanged, equilibrium price and quantity both rise. A shortage pushes price up, while a surplus pushes it down.
+
+**What is customer relationship marketing?**
+CRM builds long-term relationships with customers using data about their purchases and preferences. Its aims are to keep customers and increase repeat purchases, but systems, training and rewards cost money.
+
+**What makes market research data reliable?**
+Reliability is higher when the sample is large and representative, questions are neutral and the source is credible. Reliability asks whether findings can be trusted; usefulness asks whether they answer the question.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028*, subject content sections 3.1 and 3.2.

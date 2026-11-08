@@ -232,6 +232,20 @@ How a business may respond: compromise, rank the groups by importance and power,
 
 Work through the [practice questions](/resources/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders-practice/), then check weak areas with a [free diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What are the main stakeholders of a business in AQA GCSE Business (8132)?**
+Owners, employees, customers, the local community and suppliers. Each has its own objectives, such as owners wanting high dividend payments and employees wanting to maximise pay.
+
+**Why do objectives differ between businesses?**
+The specification gives reasons including the size of the business, the level of competition and the type of business. Not-for-profit organisations such as charities put social objectives first.
+
+**Can a business be successful without making a big profit?**
+Yes. The specification states that success can be measured in ways other than profit, such as market share, customer satisfaction or meeting social and ethical objectives.
+
+**Why does stakeholder influence vary?**
+Influence depends on power. A customer with many alternative suppliers can easily switch, and a business that depends heavily on one stakeholder group gives that group more influence.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA: sections 3.1.3 Setting business aims and objectives and 3.1.4 Stakeholders.

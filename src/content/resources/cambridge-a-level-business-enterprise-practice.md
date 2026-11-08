@@ -141,6 +141,20 @@ These questions cover section 1.1 Enterprise (1.1.1 to 1.1.3) of the Cambridge I
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 1.1 Enterprise, from 1.1.1 to 1.1.3. The questions are original and all businesses and people are invented.
+
+**What is the most common mistake with opportunity cost?**
+Giving the chosen option, or adding up all the options, as the opportunity cost. It is only the value of the next best alternative given up.
+
+**What is the difference between an entrepreneur and an intrapreneur?**
+Both act entrepreneurially, but an intrapreneur does so as an employee inside an existing business, which bears the financial risk. An entrepreneur starts their own business and bears the risk personally.
+
+**How do I gain the second mark when distinguishing two terms?**
+Give each term its own example as well as its definition. Two definitions without examples, or definitions that sound the same, lose marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), section 1.1.

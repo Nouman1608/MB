@@ -268,6 +268,20 @@ Pattern for a leadership or HRM evaluation: state the choice, give one reason fo
 - Describing MBO without saying that objectives are agreed, reviewed and linked to business objectives.
 - Concluding without a judgement in an evaluate or justify answer.
 
+## Frequently asked questions
+
+**What are Goleman's four competencies of emotional intelligence?**
+Self-awareness, self-management, social awareness and social skills, as listed in the Cambridge 9609 syllabus. In an exam, choose the relevant competency and apply it to the leader in the case rather than listing all four.
+
+**What is the difference between hard and soft HRM?**
+Hard HRM treats employees as a cost to be controlled, with tight targets and flexible, short-term contracts. Soft HRM treats employees as an asset to be developed through training, involvement and long-term commitment.
+
+**What are the five bases of power?**
+Legitimate, reward, coercive, expert and referent power. Reward and coercive power can win compliance, while expert and referent power are more likely to win commitment.
+
+**How do you calculate the absenteeism rate?**
+Divide the days lost to absence by the days available and multiply by 100. Days available is the number of employees multiplied by the working days in the period.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment. These notes cover sections 7.3.1 to 7.3.3 and 7.4.1.

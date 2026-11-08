@@ -133,6 +133,20 @@ Identify whether each statement is a mission statement, an aim, an objective, a 
 - Take the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 1.4 Business objectives and section 1.5 Stakeholders in a business. The questions are original and the businesses are invented.
+
+**What is the difference between a mission statement, an aim and an objective?**
+A mission statement sets out why the business exists, an aim is a broad long-term goal, and an objective is a specific target. A clear objective usually contains a number and a deadline.
+
+**What makes a SMART objective score in an exam answer?**
+It must include a measurable figure and a deadline. A rewrite that leaves out the number or the time limit gains little credit.
+
+**What is the difference between a stakeholder and a shareholder?**
+A shareholder owns shares in a company. A stakeholder is any person or group with an interest in the business, such as employees, customers or the community; shareholders are just one stakeholder group.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 1.4 and 1.5.

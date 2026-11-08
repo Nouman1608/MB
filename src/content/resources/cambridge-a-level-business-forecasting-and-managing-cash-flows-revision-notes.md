@@ -232,6 +232,20 @@ The syllabus says Paper 1 Section A has four compulsory five-mark questions, and
 - Ignoring the drawbacks, so an evaluation is one-sided.
 - Mixing up cash flow with profit or with working capital.
 
+## Frequently asked questions
+
+**How do you calculate a closing balance in a cash flow forecast?**
+Closing balance equals opening balance plus net cash flow, where net cash flow is total inflows minus total outflows. That closing balance becomes the next month's opening balance.
+
+**Why does depreciation not appear in a cash flow forecast?**
+Depreciation is an accounting entry that spreads the cost of an asset over time. No cash leaves the business when it is charged, so it is left out of the forecast.
+
+**What are the limitations of cash flow forecasts?**
+They rely on uncertain sales estimates, costs and supplier terms can change, customers may pay late or default, managers can be over-optimistic, and unexpected events can make them out of date.
+
+**What is the difference between cash flow and profit?**
+Profit counts a sale when it is made. Cash flow counts it only when the money actually moves, so a business can be profitable while short of cash.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 5.3 Forecasting and managing cash flows.

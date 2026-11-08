@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Entrepreneurs, business planning and objectives, forms of business and stakeholders -- sub-topics 3.1.1 and 3.1.2 of Unit 3.1 for AQA AS-Level Business (7137)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 updatedDate: 2026-09-17
@@ -198,6 +200,20 @@ Business is assessed as its own complete qualification.
   yield, and distinguish internal from external stakeholders.
 - Remember that AS Business (7137) is a stand-alone qualification with
   its own full assessment on this content.
+
+## Frequently asked questions
+
+**What are the characteristics of entrepreneurs in AQA AS Business (7137)?**
+The specification names six: risk taker, resilient, focused, passionate, innovative and adaptable. Exam answers should link them to the challenges of setting up a business, such as funding, competition and uncertainty.
+
+**Which influences on business decisions does the AQA specification name?**
+Objectives, risk, reward, resources, market conditions, ethics and opportunity costs. Questions usually ask you to apply them to a specific scenario rather than list them.
+
+**How do you calculate market capitalisation?**
+Multiply the number of issued shares by the current share price. For example, 2,000,000 shares at 150p gives a market capitalisation of £3,000,000.
+
+**Which forms of business are in AQA AS Business 3.1.2?**
+Sole traders, private limited companies (Ltd), public limited companies (plc), co-operatives (worker, consumer and producer) and social enterprises. Compare them on control, access to finance and liability.
 
 ## Official syllabus
 

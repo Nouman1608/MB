@@ -209,6 +209,20 @@ These are standard points, not specification wording.
 - Calling a fall in margin from 40% to 37% a "3% fall". It is 3 percentage points.
 - Writing a calculated figure and nothing else when the command word is analyse, evaluate or justify.
 
+## Frequently asked questions
+
+**What is cost of sales?**
+The specification does not define it, so the standard meaning is used: the direct cost of the goods or services the business has sold, such as stock bought for resale. Rent and wages are other operating expenses.
+
+**How can a business improve its profit margins?**
+Raising prices or lowering cost of sales lifts both the gross and net margins, while cutting other operating expenses or interest lifts only the net margin. Each has a risk, such as lost customers or lower quality.
+
+**How do you interpret an average rate of return?**
+Compare it with another option, the owner's target or what the money could earn elsewhere, such as interest on savings. The percentage means little on its own.
+
+**Why is the gross profit margin usually larger than the net profit margin?**
+Net profit is gross profit minus other operating expenses and interest, so net profit is smaller and its margin on the same sales revenue is lower.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.4 Making financial decisions, content item 2.4.1 Business calculations.

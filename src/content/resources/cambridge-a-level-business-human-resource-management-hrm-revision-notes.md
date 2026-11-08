@@ -220,6 +220,20 @@ Redundancy is about the job. Dismissal is about the person. Impact of redundancy
 - Giving a union a one-sided effect, when employers and employees are each affected both ways.
 - Adding legal rules the question did not ask about.
 
+## Frequently asked questions
+
+**How do you work out how many staff to recruit in a workforce plan?**
+Staff to recruit equals staff needed minus staff now plus expected leavers. Forgetting the leavers is a common error.
+
+**Is high labour turnover always bad?**
+Not always. It raises recruitment and training costs and disrupts teams, but it can be normal in seasonal work, and very low turnover can mean few new ideas and blocked promotion.
+
+**What is the difference between voluntary and involuntary redundancy?**
+In both, the job is no longer needed. In voluntary redundancy the employee chooses to accept an offer to leave; in involuntary redundancy the business chooses who goes.
+
+**What is collective bargaining?**
+Collective bargaining is negotiation between the employer and trade union representatives acting for all members, for example on pay and conditions.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 2.1 Human resource management (HRM).
