@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: replaced doubtful claim that limits and boundaries coincide for continuous data, and unsupported most-common-error claim, with the 0479 syllabus wording."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -86,13 +86,10 @@ For **discrete data** (values that can only take specific values, such
 as number of siblings), class limits, boundaries, midpoints and widths
 are all required and are typically whole numbers or simple midpoints
 between them. For **continuous data** (values that can take any value
-in a range, such as height or time), only class boundaries, midpoints
-and widths are required -- not because class limits do not exist, but
-because for continuous data the stated limits and the class boundaries
-coincide, so only the boundaries need to be examined separately.
-Confusing these two cases, or using discrete-style limits for
-continuous data, is the most common error the syllabus flags in this
-outcome. (This is a separate point from outcome 4's equal-class-widths
+in a range, such as height or time), the syllabus requires only class
+boundaries, midpoints and widths. Keep the two cases apart: give limits
+as well as boundaries for discrete data, and work from the boundaries
+for continuous data. (This is a separate point from outcome 4's equal-class-widths
 rule below, which applies to frequency polygons specifically --
 histograms are still expected to handle unequal class widths, via
 frequency density, so that content is not excluded by anything said

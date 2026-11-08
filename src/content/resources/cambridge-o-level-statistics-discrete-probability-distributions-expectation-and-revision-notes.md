@@ -65,27 +65,27 @@ The straight-line rule holds only for aX + b. It does not hold for X² or any ot
 
 Reminder: with replacement the draws are independent and the probabilities stay the same. Without replacement the second probability changes.
 
-**Reminder example.** A box has 4 red and 6 blue pens. Two are taken at random without replacement. X is the number of red pens.
+**Reminder example.** A box has 3 red and 5 blue pens. Two are taken at random without replacement. X is the number of red pens.
 
 ```
-p(0) = 6/10 × 5/9 = 30/90 = 1/3
-p(1) = 2 × (4/10 × 6/9) = 48/90 = 8/15
-p(2) = 4/10 × 3/9 = 12/90 = 2/15
+p(0) = 5/8 × 4/7 = 20/56 = 5/14
+p(1) = 2 × (3/8 × 5/7) = 30/56 = 15/28
+p(2) = 3/8 × 2/7 = 6/56 = 3/28
 ```
 
-Check: 5/15 + 8/15 + 2/15 = 1.
+Check: 10/28 + 15/28 + 3/28 = 1.
 
 ## Method: unknown constants
 
 * A constant k in a rule: add all the probabilities, set the sum equal to 1, solve for k.
 * Two unknown probabilities: form one equation from Σ p(x) = 1 and a second from the given E(X). Solve together.
 
-**Reminder example.** p(1) = 0.15, p(2) = a, p(3) = b, p(4) = 0.25, and E(X) = 2.7.
+**Reminder example.** p(1) = 0.1, p(2) = a, p(3) = b, p(4) = 0.3, and E(X) = 2.8.
 
 ```
-Total: 0.15 + a + b + 0.25 = 1, so a + b = 0.6
-E(X):  0.15 + 2a + 3b + 1.0 = 2.7, so 2a + 3b = 1.55
-Substitute a = 0.6 − b: 1.2 + b = 1.55, so b = 0.35 and a = 0.25
+Total: 0.1 + a + b + 0.3 = 1, so a + b = 0.6
+E(X):  0.1 + 2a + 3b + 1.2 = 2.8, so 2a + 3b = 1.5
+Substitute a = 0.6 − b: 1.2 + b = 1.5, so b = 0.3 and a = 0.3
 ```
 
 ## Method: expectation
@@ -94,15 +94,15 @@ Substitute a = 0.6 − b: 1.2 + b = 1.55, so b = 0.35 and a = 0.25
 2. Add a row of x p(x), or g(x) p(x) for a function.
 3. Add the row. Do not divide by the number of values.
 
-**Reminder example.** With p(1) = 0.4, p(2) = 0.35 and p(3) = 0.25:
+**Reminder example.** With p(1) = 0.3, p(2) = 0.45 and p(3) = 0.25:
 
 ```
-E(X)    = 0.4 + 0.70 + 0.75 = 1.85
-E(X²)   = 0.4 + 1.40 + 2.25 = 4.05
-E(3X−1) = 3 × 1.85 − 1 = 4.55
+E(X)    = 0.3 + 0.90 + 0.75 = 1.95
+E(X²)   = 0.3 + 1.80 + 2.25 = 4.35
+E(3X−1) = 3 × 1.95 − 1 = 4.85
 ```
 
-Note that E(X²) = 4.05 but [E(X)]² = 3.4225, about 3.42. They are different.
+Note that E(X²) = 4.35 but [E(X)]² = 3.8025, about 3.80. They are different.
 
 ## Method: expected profit and loss in a game
 
@@ -111,12 +111,12 @@ Note that E(X²) = 4.05 but [E(X)]² = 3.4225, about 3.42. They are different.
 3. Positive means an expected profit for the player, negative an expected loss.
 4. For n plays, multiply by n. Say it is an expected total, not what will happen.
 
-**Reminder example.** Stake Rs 3. A fair spinner shows 1 to 5. A 5 pays Rs 10, a 4 pays Rs 4, anything else pays nothing.
+**Reminder example.** Stake Rs 2. A fair spinner shows 1 to 4. A 4 pays Rs 6, a 3 pays Rs 1, anything else pays nothing.
 
 ```
-E(received) = 10 × 1/5 + 4 × 1/5 = 2.8
-E(net gain) = 2.8 − 3 = −0.2
-Over 150 plays: 150 × (−0.2) = −30, an expected loss of Rs 30
+E(received) = 6 × 1/4 + 1 × 1/4 = 1.75
+E(net gain) = 1.75 − 2 = −0.25
+Over 200 plays: 200 × (−0.25) = −50, an expected loss of Rs 50
 ```
 
 ## Method: fair games
@@ -125,14 +125,14 @@ Over 150 plays: 150 × (−0.2) = −30, an expected loss of Rs 30
 * Find a missing prize that makes a game fair: set E(received) equal to the stake and solve.
 * Decide who a game favours: positive favours the player, negative the organiser, zero is fair.
 
-**Reminder example.** A raffle has 500 tickets: one prize of Rs 200, four of Rs 50 and ten of Rs 10.
+**Reminder example.** A raffle has 400 tickets: one prize of Rs 150, five of Rs 30 and ten of Rs 10.
 
 ```
-Total prizes = 200 + 4 × 50 + 10 × 10 = 500
-E(prize per ticket) = 500/500 = 1
+Total prizes = 150 + 5 × 30 + 10 × 10 = 400
+E(prize per ticket) = 400/400 = 1
 ```
 
-A ticket costing Rs 1 makes the raffle fair. At Rs 1.50, the organiser expects Rs 0.50 per ticket, which is Rs 250 if all 500 sell.
+A ticket costing Rs 1 makes the raffle fair. At Rs 1.50, the organiser expects Rs 0.50 per ticket, which is Rs 200 if all 400 sell.
 
 ## Must-know distinctions
 

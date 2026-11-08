@@ -26,7 +26,7 @@ reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: softened unverifiable claim about what mark schemes credit for sampling."
 ---
 
 This guide covers **Paper 1 Research Methods, Identity and
@@ -147,8 +147,8 @@ sociologist studies — who is included, and how they were selected — is often
 distinct issue in its own right. A representative sample allows findings to be generalised to a
 wider population with more confidence; a small, unrepresentative, or self-selecting sample
 undermines the value of even a well-designed method. Practise identifying sampling issues
-specifically (not just method issues) in a described research scenario, since Cambridge mark
-schemes credit this as a separate evaluative point from the choice of method itself.
+specifically (not just method issues) in a described research scenario, and treat sampling as an
+evaluative point separate from the choice of method itself.
 
 ## Frequently asked questions
 

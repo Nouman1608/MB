@@ -47,7 +47,7 @@ reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review."
+reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the hidden curriculum most often."
 ---
 
 This guide covers **Paper 2 Family, Education and Crime**, for
@@ -127,8 +127,8 @@ children (4.3.5), not to the effects of an ageing population.
 ## Education (Topic 5)
 
 The hidden curriculum — the norms, values, punctuality and conformity
-that schools teach without naming them as lessons — is the concept
-Sociology examiners return to most often across this topic, so be able
+that schools teach without naming them as lessons — is a central
+concept in this topic, so be able
 to give examples beyond the syllabus's own (e.g. how school uniform
 policies teach conformity) rather than reciting the definition alone.
 As with Family, each perspective on education's role should be learned

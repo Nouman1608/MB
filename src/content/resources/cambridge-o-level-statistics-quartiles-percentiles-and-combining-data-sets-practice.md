@@ -82,7 +82,7 @@ Use n for a total frequency and take the target positions as n/4, n/2, 3n/4 and 
 **(a)** Find the mean and standard deviation of the 20 values combined. **[5]**
 **(b)** A student says the combined standard deviation should be 3.5, the mean of 4 and 3 weighted by group size. Explain why this is wrong. **[1]**
 
-**9.** Set A is 12, 15, 9, 18, 12, 12. Set B is 20, 14, 17, 13. Find the mean and standard deviation of the ten values together. **[6]**
+**9.** Set A is 11, 16, 9, 18, 13, 11. Set B is 21, 14, 17, 10. Find the mean and standard deviation of the ten values together. **[6]**
 
 **10.** Twenty-four values have mean 52. They are combined with a second set of n values with mean 60, and the mean of the combined set is 57. Find n. **[4]**
 
@@ -126,7 +126,7 @@ Use n for a total frequency and take the target positions as n/4, n/2, 3n/4 and 
 **(b)** Standard deviation depends on squared distances from the combined mean, and the two group means (40 and 45) differ, which adds spread that a simple average of the two standard deviations cannot include. [1] **[1]**
 *Examiner insight:* Keep the combined mean unrounded and subtract its square last, as an early rounding slip changes the variance noticeably.
 
-**9.** Σx = 78 + 64 = 142, so the mean is **14.2**. [1] Σx² for A = 144 + 225 + 81 + 324 + 144 + 144 = 1062. [1] Σx² for B = 400 + 196 + 289 + 169 = 1054. [1] Total Σx² = 2116. [1] Variance = 2116/10 − 14.2² = 211.6 − 201.64 = 9.96. [1] Standard deviation = **3.16** (3 s.f.). [1] **[6]**
+**9.** Σx = 78 + 62 = 140, so the mean is **14.0**. [1] Σx² for A = 121 + 256 + 81 + 324 + 169 + 121 = 1072. [1] Σx² for B = 441 + 196 + 289 + 100 = 1026. [1] Total Σx² = 2098. [1] Variance = 2098/10 − 14.0² = 209.8 − 196 = 13.8. [1] Standard deviation = **3.71** (3 s.f.). [1] **[6]**
 *Examiner insight:* Checking each set's total against a quick estimate catches an arithmetic slip early, which matters because every later step depends on the totals.
 
 **10.** Total of the first set = 24 × 52 = 1248. [1] Total of the second = 60n. [1] Combined: 1248 + 60n = 57 × (24 + n) = 1368 + 57n. [1] 3n = 120, so n = **40**. [1] **[4]**
