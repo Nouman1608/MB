@@ -84,7 +84,7 @@ Read the [Consumer Psychology study guide](/resources/a-level-psychology-consume
 | Study | What was done | What was found | Evaluate with |
 |---|---|---|---|
 | North et al. (2003) | Classical, pop or no music on different evenings in a restaurant; spending recorded | Spending per head highest with classical music | Field experiment: ecological validity high, but no random allocation of diners |
-| Robson et al. (2011) | Diners' responses to tables at different distances | Close spacing lowered comfort and satisfaction, especially for private conversations | Applied value; imagined situations may not predict real behaviour |
+| Robson et al. (2011) | Web survey of 1,013 Americans: tables 6, 12 or 24 inches apart x business, friend or romantic scenario | Close spacing lowered comfort and satisfaction, especially for private conversations | Applied value; imagined situations may not predict real behaviour |
 | Hall et al. (2010) | Supermarket tasting stall; chosen jam or tea secretly switched | No more than a third of switches detected; people justified a choice they had not made | Realistic setting; deception needed, so debriefing essential |
 | Becker et al. (2011) | Yoghurt tasted from packages varying in shape and colour saturation | Angular shapes and saturated colour raised perceived taste intensity | Controlled experiment; narrow product range |
 | Snyder and DeBono (1985) | Self-monitoring measured; adverts with image or quality appeals (focus study 3) | High self-monitors favoured image appeals; low self-monitors favoured quality claims | Practical for targeting; student samples, self-report measures |

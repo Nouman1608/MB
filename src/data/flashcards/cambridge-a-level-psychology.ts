@@ -150,7 +150,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_PSYCHOLOGY: FlashcardDeck = {
       { n: 3, f: 'How did Watson and Rayner (1920) show a phobia can be learned?', b: 'Little Albert was classically conditioned to fear a white rat by pairing it with a loud noise; the fear generalised to similar objects. Supports the behavioural explanation of phobias.' },
       { n: 4, f: 'What is the psychodynamic explanation of phobias (e.g. Freud, 1909)?', b: 'A phobia is an unconscious conflict displaced onto an object. Freud\'s case of Little Hans explained his fear of horses as a displaced fear of his father (Oedipus complex). The case was idiographic and hard to test.' },
       { n: 5, f: 'What is systematic desensitisation?', b: 'A behavioural therapy: the client learns relaxation, builds a fear hierarchy, then works up it while relaxed so the feared stimulus becomes associated with relaxation instead of fear (reciprocal inhibition).' },
-      { n: 6, f: 'What is applied tension, as in Chapman and DeLapp (2013)?', b: 'A technique for blood-injection-injury phobia: tensing the muscles raises blood pressure and prevents fainting. Chapman and DeLapp used it in nine sessions of manualised CBT with an adult, in a case study.' },
+      { n: 6, f: 'What is applied tension, as in Chapman and DeLapp (2013)?', b: 'A technique for blood-injection-injury phobia: tensing the muscles raises blood pressure and prevents fainting. Chapman and DeLapp used it in nine sessions of manualised CBT with T, a 42-year-old man who fainted at blood tests, in a case study.' },
     ]),
     ...sub(CLIN, 'obsessive-compulsive-disorder-ocd-9990', '1.5', [
       { n: 1, f: 'Obsessions vs compulsions', b: 'Obsessions are persistent, unwanted intrusive thoughts, images or urges that cause anxiety. Compulsions are repetitive behaviours or mental acts performed to reduce that anxiety.' },
@@ -173,7 +173,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_PSYCHOLOGY: FlashcardDeck = {
       { n: 1, f: 'What affects wayfinding in a shopping mall?', b: 'Features such as signs and you-are-here maps, and the layout itself, affect how easily shoppers find their way (e.g. Dogu and Erkip, 2000).' },
       { n: 2, f: 'Name the five spatial behaviour patterns of shoppers', b: 'Specialist, native, tourist, explorer and raider. Shopper movement can be studied by CCTV tracking (e.g. Gil et al., 2009).' },
       { n: 3, f: 'How do primacy and recency affect menu choice?', b: 'Items at the beginning or end of a list are chosen more often than those in the middle (e.g. Dayan and Bar-Hillel, 2011), so position on the menu influences what is ordered.' },
-      { n: 4, f: 'What did Robson et al. (2011) study?', b: 'Consumers\' responses to table spacing in restaurants. Tables placed close together increased diners\' discomfort and affected their satisfaction, linked to Hall\'s zones of personal space.' },
+      { n: 4, f: 'What did Robson et al. (2011) study?', b: 'Consumers\' responses to table spacing in restaurants. In a web survey of 1,013 Americans, tables 6 inches apart caused more stress and discomfort than 12 or 24 inches, especially on a romantic date, linked to Hall\'s zones of personal space.' },
       { n: 5, f: 'What are Hall\'s four zones of personal space?', b: 'Intimate, personal, social and public distance, from closest to furthest. Intrusion into a closer zone than is appropriate causes discomfort.' },
       { n: 6, f: 'What did Milgram et al. (1986) study about queues?', b: 'How people defend their place in a queue: confederates pushed into queues and the responses of people queuing were recorded. Those directly behind the intrusion were most likely to object.' },
     ]),
@@ -246,13 +246,13 @@ export const DECK_CAMBRIDGE_A_LEVEL_PSYCHOLOGY: FlashcardDeck = {
       { n: 3, f: 'What are SMART goals in goal-setting theory (Latham and Locke)?', b: 'Goals that are Specific, Measurable, Achievable, Relevant and Time-bound. Specific, challenging goals with feedback raise performance.' },
       { n: 4, f: 'What is Vroom\'s VIE (expectancy) theory?', b: 'Motivation depends on expectancy (effort will lead to performance), instrumentality (performance will lead to reward) and valence (how much the reward is valued).' },
       { n: 5, f: 'Extrinsic vs intrinsic motivators at work', b: 'Extrinsic: rewards from outside the task, such as pay, bonuses, profit-sharing and performance-related pay. Intrinsic: non-monetary rewards such as praise, respect, recognition, empowerment and belonging.' },
-      { n: 6, f: 'What are the three needs in Deci and Ryan\'s self-determination theory?', b: 'Competence, autonomy and relatedness. Landry et al. (2019) applied the theory to cash rewards, examining when money supports or undermines motivation.' },
+      { n: 6, f: 'What are the three needs in Deci and Ryan\'s self-determination theory?', b: 'Competence, autonomy and relatedness. Landry et al. (2019) applied the theory to cash rewards: the same gift card framed as appreciation, not as control, raised need satisfaction, intrinsic motivation and performance.' },
     ]),
     ...sub(ORG, 'leadership-and-management-9990', '4.2', [
       { n: 1, f: 'What are universalist theories of leadership?', b: 'Theories that leaders share qualities that work in any situation: great person, charismatic and transformational leaders.' },
       { n: 2, f: 'What did the Ohio and Michigan behavioural studies identify?', b: 'Two broad kinds of leader behaviour: task-focused (initiating structure; production-oriented) and people-focused (consideration; employee-oriented).' },
       { n: 3, f: 'What are Scouller\'s three levels of leadership?', b: 'Public (behaviour seen by groups), private (one-to-one handling of individuals) and personal (the leader\'s own beliefs, self-awareness and growth).' },
-      { n: 4, f: 'What did Cuadrado et al. (2008) study?', b: 'Leadership style and gender in women\'s access to managerial positions: an experiment in which participants evaluated male and female leaders described as using different leadership styles.' },
+      { n: 4, f: 'What did Cuadrado et al. (2008) study?', b: 'Leadership style and gender: 136 Spanish students rated a male or female leader using a masculine or feminine style. Feminine styles were rated more favourably for both sexes; women were not penalised for masculine styles.' },
       { n: 5, f: 'What are Kelley\'s (1988) two dimensions of followership?', b: 'Independent, critical thinking versus dependent, uncritical thinking; and active versus passive engagement. They give five styles: exemplary, alienated, conformist, passive and pragmatist.' },
     ]),
     ...sub(ORG, 'group-behaviour-in-organisations-9990', '4.3', [
@@ -267,7 +267,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_PSYCHOLOGY: FlashcardDeck = {
       { n: 1, f: 'What is the Hawthorne effect?', b: 'Workers change their behaviour, often improving productivity, because they know they are being studied, rather than because of the change in conditions itself (e.g. Kompier, 2006).' },
       { n: 2, f: 'Rapid vs slow shift rotation', b: 'Rapid rotation changes shifts every few days, so the body clock never fully adjusts. Slow rotation changes shifts every few weeks, giving time to adjust between changes.' },
       { n: 3, f: 'Errors of omission, commission, sequencing and timing', b: 'Omission: failing to do something. Commission: doing something wrong. Sequencing: doing steps in the wrong order. Timing: doing something too early or too late.' },
-      { n: 4, f: 'What did Swat (1997) study?', b: 'The monitoring of accidents and risk events in industrial plants, recording both accidents and near-miss risk events to identify their causes.' },
+      { n: 4, f: 'What did Swat (1997) study?', b: 'The monitoring of accidents and risk events in four industrial plants: of 83 accidents, at least 45.8% involved poor housekeeping, and most minor incidents went unreported.' },
       { n: 5, f: 'How was a token economy used to reduce accidents (e.g. Fox et al., 1987)?', b: 'Workers earned tokens (stamps exchangeable for goods) for working without accidents. Accidents and days lost fell, and the improvement lasted for years.' },
     ]),
     ...sub(ORG, 'satisfaction-at-work-9990', '4.5', [
@@ -275,7 +275,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_PSYCHOLOGY: FlashcardDeck = {
       { n: 2, f: 'What is Hackman and Oldham\'s job characteristics theory?', b: 'Five core job characteristics (skill variety, task identity, task significance, autonomy, feedback) create psychological states (meaningfulness, responsibility, knowledge of results) that lead to motivation and satisfaction.' },
       { n: 3, f: 'Job enrichment vs rotation vs enlargement', b: 'Enrichment: adding responsibility and decision-making. Rotation: moving workers between tasks. Enlargement: adding more tasks at the same level.' },
       { n: 4, f: 'What is the Job Descriptive Index (JDI)?', b: 'A questionnaire measuring job satisfaction across facets: the work itself, pay, promotion opportunities, supervision and co-workers.' },
-      { n: 5, f: 'What did Giacalone and Rosenfeld (1987) find about sabotage?', b: 'Employees rated reasons for workplace sabotage, judging it more justifiable when it was a response to unfair treatment by the organisation than when done for fun.' },
+      { n: 5, f: 'What did Giacalone and Rosenfeld (1987) find about sabotage?', b: 'Unionised factory workers rated reasons that would justify sabotage. Those who accepted more reasons justified slowdowns, destructiveness and causing chaos more readily, but not dishonesty.' },
     ]),
   ],
 };
