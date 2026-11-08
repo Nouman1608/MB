@@ -265,6 +265,20 @@ On the vertical section of a three-section LRAS, a rightward shift of AD raises 
 - Describing a result without naming the new equilibrium.
 - Giving one-sided evaluation with no judgement.
 
+## Frequently asked questions
+
+**What is the difference between a vertical LRAS and a three-section LRAS?**
+The vertical view says output is set only by productive capacity. The three-section curve is highly elastic with spare capacity, then upward sloping, then vertical at full capacity.
+
+**What shifts SRAS rather than LRAS?**
+Changes in costs of production, such as wages, raw materials, energy and business taxes, shift SRAS. Changes in productive capacity shift LRAS.
+
+**Can an AS shift raise output and lower prices at the same time?**
+Yes. A rightward shift of SRAS, for example after a fall in raw material costs, raises real output and lowers the price level.
+
+**What causes a movement along AD rather than a shift?**
+A change in the price level causes a movement along AD. A change in any other determinant, such as interest rates or confidence, shifts the curve.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. These notes cover section 4.3.

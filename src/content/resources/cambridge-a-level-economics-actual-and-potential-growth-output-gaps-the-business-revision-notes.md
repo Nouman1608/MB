@@ -239,6 +239,20 @@ mps is the marginal propensity to save, mpt the marginal rate of tax and mpm the
 - Forgetting that stimulus in a positive-gap economy mainly raises prices.
 - Not using the figures when the question gives data.
 
+## Frequently asked questions
+
+**Does a negative output gap mean negative growth?**
+No. Output can grow while the gap stays negative, if actual output is still below potential.
+
+**What is the difference between a recession and a downturn?**
+A recession is a fall in output. A downturn, or slowdown, is a slowing of growth that may or may not turn negative.
+
+**Is a positive output gap good news?**
+Not only. Actual output above potential means low unemployment but also inflation pressure, as resources are used beyond their normal level.
+
+**How do demand-side and supply-side growth policies differ?**
+Demand-side policy is quicker but temporary and moves actual output. Supply-side policy is slower but raises productive capacity.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics (9708), syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), sections 9.2.1 to 9.2.4.

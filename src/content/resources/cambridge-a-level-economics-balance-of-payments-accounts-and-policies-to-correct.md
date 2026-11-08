@@ -221,6 +221,23 @@ A strong answer picks a policy, explains the chain, names the main risk and stat
 - Ignoring the financial account effect of a higher interest rate.
 - Naming policies without a link to the cause of the deficit.
 
+## Frequently asked questions
+
+**What are the three accounts of the balance of payments in Cambridge 9708?**
+The current account records trade in goods and services and primary and secondary income, the capital account records capital transfers, and the financial account records cross-border ownership of financial and real assets.
+
+**Why does the balance of payments always balance?**
+Every transaction has two sides, so the current, capital and financial accounts plus net errors and omissions sum to zero.
+
+**What is the difference between expenditure-reducing and expenditure-switching policies?**
+Expenditure-reducing policies, such as tight fiscal or monetary policy, cut total spending so imports fall. Expenditure-switching policies, such as tariffs or a lower exchange rate, change relative prices so spending moves from imports to home goods.
+
+**Does a depreciation always improve the current account?**
+No. It depends on the price elasticities of demand for exports and imports and on time lags; with low elasticities the balance can worsen.
+
+**Which policy suits a current account deficit caused by excess demand?**
+Expenditure-reducing policy suits a deficit caused by excess demand and inflation, while weak competitiveness calls for switching or supply-side measures.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 11.1 (Cambridge University Press & Assessment).

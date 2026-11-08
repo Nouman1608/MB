@@ -119,6 +119,20 @@ These questions cover section 4.3 (Aggregate Demand and Aggregate Supply analysi
 - Reading percentage changes from the wrong base.
 - Concluding without a condition in an evaluation answer.
 
+## Frequently asked questions
+
+**How should the axes of an AD/AS diagram be labelled?**
+Label the vertical axis price level and the horizontal axis real output. Price and quantity are micro labels and lose marks in Cambridge 9708.
+
+**Are imports added to aggregate demand?**
+No. Imports are subtracted, because AD counts only spending on domestic output: AD = C + I + G + (X - M).
+
+**What should I give when asked about the effects of an AD or AS shift?**
+Give the effects on real output, the price level and employment if all three are asked for, and name the new equilibrium.
+
+**Why can't substitution explain the slope of AD?**
+Substitution between goods explains a single market's demand curve. The AD curve uses the whole price level, so it slopes down because of the wealth, interest rate and international trade effects.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis-revision-notes/).

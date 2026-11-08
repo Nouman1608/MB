@@ -157,6 +157,20 @@ These questions cover section 6.1 (outcomes 6.1.1 to 6.1.4) of the Cambridge Int
 - Describing limitations in general terms without linking each to the gains from trade.
 - Finishing an evaluation with no judgement, or with a judgement that gives no conditions.
 
+## Frequently asked questions
+
+**How do you find comparative advantage without mistakes?**
+Compare opportunity costs, not output. Work out each country's opportunity cost of one good in terms of the other, check it is the right way up, and the lower opportunity cost marks the comparative advantage.
+
+**What price range must an exchange price fall in for both countries to gain?**
+Between the two countries' opportunity costs. A price outside that range does not benefit both countries.
+
+**Is a change in index points the same as a percentage change?**
+Not unless the starting index is 100. Confusing index points with a percentage change is a common error in terms of trade questions.
+
+**Which Cambridge 9708 section does this practice cover?**
+It covers section 6.1 of Cambridge International AS & A Level Economics 9708: comparative advantage, the trading possibility curve and the terms of trade.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the-revision-notes/).
