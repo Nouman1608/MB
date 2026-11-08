@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "commerce-and-production-7100"
+  - qualification: "o-level"
+    topic: "commerce-and-production-7100"
+    subtopic: "trade-and-commerce-7100"
+  - qualification: "o-level"
+    topic: "commerce-and-production-7100"
+    subtopic: "production-7100"
 description: "Trade, commerce, aids to trade and the different types of modern commerce -- the opening topic of Cambridge O Level Commerce (7100), which shares its six-topic structure with sibling IGCSE Commerce 0715."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

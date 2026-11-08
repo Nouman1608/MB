@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "commerce-and-production-7100"
+  - qualification: "o-level"
+    topic: "commerce-and-production-7100"
+    subtopic: "trade-and-commerce-7100"
+  - qualification: "o-level"
+    topic: "commerce-and-production-7100"
+    subtopic: "production-7100"
 description: "Condensed recall notes on trade, commerce, production and specialisation for Cambridge O Level Commerce 7100."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
