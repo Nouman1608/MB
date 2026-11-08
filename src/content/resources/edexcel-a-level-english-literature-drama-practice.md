@@ -13,6 +13,9 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-drama-yet01"
+  - qualification: "a-level"
+    topic: "unit-2-drama-yet01"
+    subtopic: "unit-2-pre-1900-and-post-1900-drama-yet01"
 description: "Original exam-style practice questions with worked answer plans on Unit 2 Drama, Pearson Edexcel International Advanced Level English Literature (YET01)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
