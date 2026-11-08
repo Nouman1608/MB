@@ -150,6 +150,20 @@ To what extent has Riverton become a more sustainable city? Use both sources and
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is settlement and urban morphology in the MYP Individuals and Societies on-screen exam?**
+Yes. The IB subject brief lists settlement and urban morphology among the topics explored in the individuals and societies on-screen examinations.
+
+**How do you use the rank-size rule?**
+The rule predicts that the city ranked n has a population of the largest city's population divided by n. Compare predicted and actual sizes, and a primacy index P₁ ÷ P₂ well above 2 suggests a primate city.
+
+**How should you describe land-use data along a transect?**
+Convert the counts to percentages of the plots at each point and describe how each land use changes with distance from the centre, quoting figures. Then say which land-use model the pattern best supports and note any limitation of the sample.
+
+**Are these settlement practice questions real IB exam questions?**
+No. They are original questions using fictional countries, cities and data, and the bracketed points are a revision aid rather than IB marks.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists settlement and urban morphology among the on-screen examination topics and names the four criteria used in these labels.

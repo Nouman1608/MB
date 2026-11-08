@@ -13,7 +13,7 @@ order: 4
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-assessment-criteria"
-description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Individuals and Societies's four assessment criteria -- Knowing and understanding, Investigating, Communicating, and Thinking critically."
+description: "What top-band evidence looks like for each IB MYP Individuals and Societies criterion, A to D, applied to history, geography and investigation coursework."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -147,6 +147,20 @@ Criterion C regardless of how accurate the underlying content is. Treating a sin
 a single interpretation as settled fact rather than one perspective among several, which is the most
 common reason Criterion D evidence fails to reach top band even when the surrounding research is
 otherwise strong.
+
+## Frequently asked questions
+
+**Do the MYP Individuals and Societies criteria apply to every discipline?**
+Yes. The four criteria are written broadly enough to apply across history, geography, economics and the other disciplines a school may include, so very different tasks can both produce strong evidence.
+
+**What does top-band Criterion B evidence look like?**
+It develops a systematic research question and process, working both independently and collaboratively. As good practice, it consults a range of source types and evaluates their reliability and relevance before drawing conclusions.
+
+**How can geography fieldwork and history source work both meet Criterion B?**
+Each can generate strong Criterion B evidence despite using different methods, provided it follows a systematic research question and process.
+
+**Why does Criterion C assess more than factual accuracy?**
+Criterion C assesses how learning is organised, documented and communicated, including structure, referencing and terminology, not simply whether the underlying facts are accurate.
 
 ## Official syllabus
 

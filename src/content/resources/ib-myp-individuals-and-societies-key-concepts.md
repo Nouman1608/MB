@@ -157,6 +157,20 @@ There is no separate "concepts" criterion. Concepts appear inside the four crite
 
 See [the criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/), [discipline options](/resources/ib-myp-individuals-societies-disciplines/) and the [subject guide](/resources/ib-myp-individuals-and-societies-subject-guide/). Then test yourself with the [practice questions](/resources/ib-myp-individuals-and-societies-key-concepts-practice/).
 
+## Frequently asked questions
+
+**What is a concept in MYP Individuals and Societies?**
+The guide describes a concept as a big idea that stays important beyond the topic, place or period where you first met it. Concepts let you explain cases you have never studied.
+
+**What does intra-disciplinary and interdisciplinary learning mean?**
+Intra-disciplinary learning links courses within individuals and societies, such as history and geography. Interdisciplinary learning links individuals and societies with other subject groups, and key concepts help with both.
+
+**What three things does inquiry into change look at?**
+Inquiry into change looks at causes, processes and consequences. Causes and effects can be natural or human, intended or unintended, and positive, negative or neutral.
+
+**What is an example of change in MYP Individuals and Societies history?**
+In 1861 Tsar Alexander II's Emancipation Manifesto freed about 23 million Russian serfs after defeat in the Crimean War. Many peasants then received too little land and owed redemption payments, an unintended consequence that fed unrest.
+
 ## Official syllabus
 
 This study guide is aligned to the IB *MYP Individuals and societies guide* (for use from September 2014/January 2015; published May 2014, updated April 2021), section "Key concepts" and the sections on related concepts, global contexts, statements of inquiry and inquiry questions that follow it.

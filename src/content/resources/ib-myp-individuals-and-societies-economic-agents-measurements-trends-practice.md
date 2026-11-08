@@ -168,6 +168,20 @@ A student is researching how rising prices affected households and firms in Carr
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate GDP using the expenditure method?**
+Add consumer spending, investment and government spending, then add exports and subtract imports: GDP = C + I + G + (X − M). Divide by the population to get GDP per capita.
+
+**Why is "unemployment up 0.6%" often wrong?**
+If the rate rises from 5.0% to 5.6%, it has risen by 0.6 percentage points, which is a 12% increase in the rate. Mixing up percentage points and percentage change is a common error.
+
+**Why might a household feel inflation is higher than the official rate?**
+The official rate uses average weights for each category of spending. A household that spends a larger share than average on something whose price is rising fast, such as energy, faces higher price rises than the index shows.
+
+**Are economic agents and measurements and trends in the MYP eAssessment?**
+Yes. The IB subject brief lists economic agents and measurements and trends among the topics for the individuals and societies on-screen examinations.
+
 ## Official syllabus
 
 This practice set is aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "economic agents and their interests and role in the economy: consumers, producers, governments, banks" and "measurements and trends" among the topics explored in the individuals and societies on-screen examinations. The full MYP individuals and societies guide is available to schools through the IB.

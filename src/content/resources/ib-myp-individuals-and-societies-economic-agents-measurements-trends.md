@@ -311,6 +311,20 @@ Two traps: falling inflation (6.8% to 2.6%) does **not** mean prices fell -- the
 
 Test yourself with the [revision notes](/resources/ib-myp-individuals-and-societies-economic-agents-measurements-trends-revision-notes/) and [practice questions](/resources/ib-myp-individuals-and-societies-economic-agents-measurements-trends-practice/). See also the [subject guide](/resources/ib-myp-individuals-and-societies-subject-guide/), [the four criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/), [the disciplines](/resources/ib-myp-individuals-societies-disciplines/) and, for population data, [demographics and human movements](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements/).
 
+## Frequently asked questions
+
+**What is an economic agent?**
+An economic agent is any person or organisation that makes economic decisions. The subject brief names consumers, producers, governments and banks.
+
+**Why does GDP count only final goods and services?**
+Counting only final goods avoids double counting. You count the bread, not also the flour used to make it.
+
+**What is the difference between nominal and real GDP?**
+Nominal GDP is measured at current prices. Real GDP removes the effect of inflation by dividing by a price index and multiplying by 100, and economic growth means an increase in real GDP.
+
+**What does a central bank do?**
+A central bank is the bank of the government and of other banks, and it usually sets the main interest rate, which affects borrowing and spending.
+
 ## Official syllabus
 
 This page is aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "economic agents and their interests and role in the economy: consumers, producers, governments, banks" and "measurements and trends" among the topics explored in the individuals and societies on-screen examinations. The full MYP individuals and societies guide is available to schools through the IB.

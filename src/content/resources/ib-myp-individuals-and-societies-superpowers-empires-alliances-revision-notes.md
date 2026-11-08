@@ -183,6 +183,20 @@ Extra facts worth knowing:
 - Try the [practice questions](/resources/ib-myp-individuals-and-societies-superpowers-empires-alliances-practice/).
 - Practise sources with the [source-evaluation exam preparation](/resources/ib-myp-individuals-societies-source-evaluation-exam-preparation/) and the [criteria in practice revision notes](/resources/ib-myp-individuals-and-societies-criteria-in-practice-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between hard power and soft power?**
+Hard power is influence through force or payment, such as military action, sanctions, aid or trade deals. Soft power is influence through attraction, such as culture, values and education, a term linked to Joseph Nye.
+
+**What is imperial overstretch?**
+Imperial overstretch is when a power's commitments abroad cost more than its economy can support. The idea is linked to Paul Kennedy, writing in 1987.
+
+**What is the difference between a formal and an informal empire?**
+A formal empire rules colonies directly. An informal empire controls other territories through trade, loans or influence without direct rule.
+
+**What do unipolar, bipolar and multipolar mean?**
+They describe how power is spread in the world system: unipolar means one major power, bipolar means two and multipolar means several.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The assessment facts above are taken from that brief; the organisation facts are standard history and politics. Tarnia and the alliance figures are fictional.

@@ -183,6 +183,20 @@ For judging sources by origin, purpose, value and limitation, read [source-evalu
 
 Test yourself with the [revision notes](/resources/ib-myp-individuals-and-societies-industrialization-and-technology-revision-notes/) and [practice questions](/resources/ib-myp-individuals-and-societies-industrialization-and-technology-practice/). For the criteria, read [the four criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/), the [MYP Individuals and Societies subject guide](/resources/ib-myp-individuals-and-societies-subject-guide/) and [the disciplines in MYP Individuals and Societies](/resources/ib-myp-individuals-societies-disciplines/). Related units: [settlement and urban morphology](/resources/ib-myp-individuals-and-societies-settlement-and-urban-morphology/) and [demographics and human movements](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements/).
 
+## Frequently asked questions
+
+**Why did the Industrial Revolution begin in Britain?**
+Several linked factors worked together: coal, iron and water power, agricultural change that fed a growing population and released labour, capital from trade, colonial markets and raw materials, good transport by rivers, coast and canals, and political stability that protected property and patents.
+
+**When was the first Industrial Revolution?**
+Historians usually date the first Industrial Revolution to roughly 1760–1840, starting in Britain.
+
+**What are the four employment sectors?**
+Primary covers farming and mining, secondary covers manufacturing, tertiary covers services, and quaternary covers research and information.
+
+**What is deindustrialisation?**
+Deindustrialisation is the long-term fall in manufacturing jobs and output in a place, often alongside a shift of employment towards services.
+
 ## Official syllabus
 
 This page is aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "industrialization and technological developments" among the topics explored in the individuals and societies on-screen examinations. The full MYP individuals and societies guide is available to schools through the IB.

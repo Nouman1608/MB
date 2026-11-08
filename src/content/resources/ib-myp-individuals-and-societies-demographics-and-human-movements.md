@@ -192,6 +192,20 @@ With tables and graphs, quote figures, calculate changes and describe trends bef
 
 Test yourself with the [revision notes](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements-revision-notes/) and [practice questions](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements-practice/). For the criteria and tasks, read the [MYP Individuals and Societies subject guide](/resources/ib-myp-individuals-and-societies-subject-guide/), [the four criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/) and [the disciplines in MYP Individuals and Societies](/resources/ib-myp-individuals-societies-disciplines/). Related unit: [settlement and urban morphology](/resources/ib-myp-individuals-and-societies-settlement-and-urban-morphology/).
 
+## Frequently asked questions
+
+**How do you describe a population pyramid?**
+Describe the overall shape, the size of the base, the proportion at the top and any irregularities such as notches or bulges, naming the age bands. Quote at least two values from the axis with units.
+
+**What is the difference between push and pull factors?**
+Push factors drive people away from a place, such as drought or persecution. Pull factors attract people to a place, such as jobs, higher wages or education.
+
+**Why can a population grow faster than its natural increase rate?**
+The natural increase rate counts only births and deaths. If immigrants outnumber emigrants, net migration adds to the population, so the overall growth rate is higher.
+
+**What types of migration should you know for MYP Individuals and Societies?**
+Distinguish internal and international, voluntary and forced, and temporary and permanent migration.
+
 ## Official syllabus
 
 This page is aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "demographics and human movements" among the topics explored in the individuals and societies on-screen examinations. The full MYP individuals and societies guide is available to schools through the IB.
