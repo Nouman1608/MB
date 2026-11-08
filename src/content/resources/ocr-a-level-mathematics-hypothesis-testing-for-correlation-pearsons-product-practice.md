@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "statistics-ocr-alevel-maths"
     subtopic: "statistical-hypothesis-testing-ocr-alevel-maths"
-description: "Original practice questions with worked answers on Pearson's coefficient and the correlation hypothesis test for OCR A Level Mathematics A."
+description: "Original practice questions with worked answers on Pearson's coefficient and the correlation hypothesis test for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "differentiation-ocr-alevel-maths"
-description: "Eleven original questions with mark-by-mark answers on product, quotient and chain rules, implicit, parametric and modelling for OCR H240."
+description: "Eleven original practice questions with mark-by-mark answers on product, quotient and chain rules, implicit, parametric and modelling for OCR H240."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

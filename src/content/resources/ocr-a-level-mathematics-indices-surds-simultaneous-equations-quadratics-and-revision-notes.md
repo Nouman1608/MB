@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "algebra-and-functions-ocr-alevel-maths"
-description: "Condensed recall notes for OCR A Level Mathematics A H240 sections 1.02a-1.02i, with methods, a self-test and the most common lost marks."
+description: "Condensed exam recall notes for OCR A Level Mathematics A H240 sections 1.02a-1.02i, with methods, a self-test and the most common lost marks."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

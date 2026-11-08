@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "algebra-and-functions-ocr-alevel-maths"
-description: "Study guide to OCR A Level Mathematics A (H240) curve sketching, reciprocal graphs, intersections, graphical solutions and proportionality."
+description: "Detailed study guide to OCR A Level Mathematics A (H240) curve sketching, reciprocal graphs, intersections, graphical solutions and proportionality."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-ocr-alevel-maths"
     subtopic: "forces-and-newtons-laws-ocr-alevel-maths"
-description: "Original worked practice questions on Newton's laws, weight, normal reaction and straight-line motion for OCR A Level Mathematics A (H240)."
+description: "Original worked practice questions on Newton's laws, weight, normal reaction, equilibrium and straight-line motion for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
