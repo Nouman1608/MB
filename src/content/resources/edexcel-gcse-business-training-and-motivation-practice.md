@@ -142,6 +142,20 @@ I recommend Option A [1], because on the owner's forecast it adds £1,440 a mont
 - Find weak spots with the [free diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What do these training and motivation questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 2 items 2.5.3 and 2.5.4: ways of training and developing employees, why businesses train, why motivation matters, and financial and non-financial methods of motivation.
+
+**How do you calculate total pay with commission?**
+Add the commission, a percentage of sales made, to the basic wage. Giving the commission alone as total pay is a common mistake.
+
+**How do you compare productivity when staff numbers change?**
+Compare output per employee rather than total output. Dividing a percentage change by the new figure instead of the original is another frequent error.
+
+**What should you include when working out the cost of training?**
+Include lost output while staff are training as well as course fees. Then weigh the cost against benefits such as lower staff turnover.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.5 Making human resource decisions, items 2.5.3 and 2.5.4.

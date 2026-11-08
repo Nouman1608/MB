@@ -241,6 +241,20 @@ An order of 5,000 units. Supplier X £2.80 a unit = £14,000. Supplier Y £3.10 
 - Giving only advantages of technology, with no balance.
 - Leaving an evaluate or justify answer without a decision.
 
+## Frequently asked questions
+
+**What is the difference between job, batch and flow production?**
+Job production makes one item to a customer's own specification, batch production makes a group of identical items before the equipment is changed for the next group, and flow production moves items continuously along a line. Job has the highest unit costs and flow the lowest, provided sales are high enough to keep the line busy.
+
+**How do you find the buffer stock on a bar gate stock graph?**
+Multiply the daily usage by the lead time and subtract this from the reorder level. For example, a reorder level of 250 kg, use of 50 kg a day and a 3-day lead time give 250 − 150 = 100 kg of buffer stock when the delivery arrives.
+
+**What are the advantages and disadvantages of just in time stock control?**
+JIT means less money tied up in stock, lower storage and insurance costs and less waste. The drawback is little protection against late or wrong deliveries, so production can stop and the business depends on reliable suppliers.
+
+**What does the Edexcel GCSE Business specification say makes a good supplier relationship?**
+The 1BS0 specification lists quality; delivery cost, speed and reliability; availability; cost; and trust. The cheapest supplier is not always the best once delivery and late-delivery costs are included.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2, Topic 2.3 Making operational decisions, items 2.3.1 Business operations and 2.3.2 Managing stock (working with suppliers).

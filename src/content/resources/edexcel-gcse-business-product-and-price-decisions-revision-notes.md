@@ -229,6 +229,20 @@ The lower price earns more revenue but less contribution. Always say which measu
 - Giving a one-sided answer to an evaluation question, with no judgement.
 - Leaving out units or the pound sign in calculations.
 
+## Frequently asked questions
+
+**What is the design mix in Edexcel GCSE Business?**
+The design mix is the set of decisions a business makes when designing a product. The 1BS0 specification names three parts: function, aesthetics and cost, which pull against each other so design is a trade-off.
+
+**What are the four phases of the product life cycle?**
+The standard four phases are introduction, growth, maturity and decline. The specification refers to "the phases" without listing them, so these are the standard names.
+
+**What is the difference between penetration pricing and price skimming?**
+Penetration pricing sets a low price at launch to win customers and market share quickly. Price skimming sets a high price at launch for a new or unusual product with few rivals, then lowers it later.
+
+**How do you calculate contribution per unit?**
+Contribution per unit is the selling price minus the variable cost per unit. It is the standard measure for judging an extension strategy, and it is not one of the Appendix 3 formulae.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, topic 2.2 Making marketing decisions, content items 2.2.1 Product and 2.2.2 Price.

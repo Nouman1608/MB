@@ -151,6 +151,20 @@ Evaluate which option the business should choose. **[9]**
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these limited liability and location questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 1 items 1.4.1 and 1.4.2: limited and unlimited liability, sole traders, partnerships, private limited companies, franchising, location factors and the impact of the internet.
+
+**What is the most common mistake when defining limited liability?**
+Describing it as "limited debts". Limited liability means the owner's loss is limited to the money they put in, usually the value of their shares; it does not stop the business losing money.
+
+**Do you include the initial fee when calculating franchise payments?**
+Yes, if the question asks for total payments. A franchisee usually pays an initial fee and then a royalty, often a percentage of sales revenue, so forgetting the fee is a common slip.
+
+**How should you answer a location question?**
+Name the location factor, such as proximity to market, labour, materials or competitors, and link it to the business described in the case. A list of factors with no link to the business earns little.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.4 Making the business effective, items 1.4.1 and 1.4.2.

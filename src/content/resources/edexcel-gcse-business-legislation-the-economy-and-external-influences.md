@@ -231,6 +231,20 @@ A reasoned response: the investment looks worthwhile if the sales forecast is re
 - Listing economic factors without choosing the ones that matter most for the business in the question.
 - Offering a response without saying why it suits the change.
 
+## Frequently asked questions
+
+**What is the purpose of consumer law?**
+Consumer law sets rules on quality, so goods and services meet a standard customers can reasonably expect, and on consumer rights, so a customer can get a remedy such as a repair, replacement or refund when a product falls short.
+
+**What does the economic climate mean in GCSE Business?**
+The economic climate is the general condition of the economy in which a business operates, and it is outside the business's control. The Edexcel GCSE Business (1BS0) specification lists unemployment, consumer income, inflation, interest rates, government taxation and exchange rates.
+
+**How does inflation affect a business?**
+Inflation is a general rise in prices, so a business's costs rise and it must either absorb them or raise its prices. Customers also have less purchasing power.
+
+**How can a business respond to falling consumer incomes?**
+It might add a lower-priced range, cut costs, change prices or seek new markets. Sales of non-essential products usually fall more than sales of essentials.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.5 Understanding external influences on business, items 1.5.3, 1.5.4 and 1.5.5.

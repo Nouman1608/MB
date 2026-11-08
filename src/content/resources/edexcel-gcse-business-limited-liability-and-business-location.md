@@ -213,6 +213,20 @@ E-commerce means selling over the internet. It changes the location decision in 
 - Listing location factors without linking them to the business described.
 - Claiming the internet removes the need for any premises.
 
+## Frequently asked questions
+
+**What is a sole trader?**
+A sole trader is a business owned and run by one person, who keeps all the profit and makes decisions quickly. The owner has unlimited liability and a small pool of capital.
+
+**What is a private limited company?**
+A private limited company is owned by shareholders and, as a general rule, its name ends in Ltd. Shareholders have limited liability, but there is more paperwork and, in general, its shares cannot be offered freely to the public.
+
+**How does the nature of the business affect its location?**
+The activity decides which factor matters most. A shop or hairdresser depends on footfall, so being near the market comes first, while a business making bulky goods from heavy materials leans towards its materials.
+
+**How do partners share profit?**
+Partners often agree in writing how to share profit, and a common method is in proportion to the capital each put in. Two partners investing £40,000 and £20,000 would share profit in the ratio 2 : 1.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.4 Making the business effective, items 1.4.1 and 1.4.2.

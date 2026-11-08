@@ -253,6 +253,20 @@ If 64 people apply and 8 are shortlisted, 8 / 64 × 100 = **12.5%** reach the sh
 
 Next, use the [practice questions](/resources/edexcel-gcse-business-organisational-structures-and-job-roles-practice/).
 
+## Frequently asked questions
+
+**Can a flat structure be centralised?**
+Yes. Hierarchical and flat describe the number of layers, while centralised and decentralised describe where decisions are made, so a flat business can still be centralised if the owner decides everything.
+
+**Can a business have too much communication?**
+Yes. Excessive communication means staff spend time on emails and meetings that do not concern them and important messages get lost, which lowers efficiency and motivation.
+
+**What are the barriers to effective communication?**
+Typical barriers include unclear wording or jargon, a poor choice of method, language differences, faulty technology, many layers in a structure, and noise, distance or distraction.
+
+**What is the difference between a CV and an application form?**
+A CV is written by the candidate and summarises their education, experience and skills in their own layout. An application form is designed by the business and asks every candidate the same questions, so candidates are easier to compare.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.5 Making human resource decisions, items 2.5.1 and 2.5.2.

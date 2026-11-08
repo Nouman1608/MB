@@ -213,6 +213,20 @@ Appendix 1 sets out what each command word asks for. "Explain" asks for a statem
 - Saying motivated employees "work harder" without linking to attracting, retaining or productivity.
 - Concluding that one method is best for all businesses, without reference to the case.
 
+## Frequently asked questions
+
+**What is the difference between a bonus and commission?**
+A bonus is an extra payment, often once a year, for meeting a target or when the business does well. Commission is pay linked to sales made, usually a percentage of sales.
+
+**What is autonomy as a motivation method?**
+Autonomy is the freedom to make decisions about how to do the work, with less supervision. It costs little and staff often feel trusted, but some employees may make poor decisions or want more guidance.
+
+**How is training linked to staff retention?**
+Training builds confidence and shows employees that the business values them, which can make them less likely to leave. A trained employee may still leave for a rival offering more pay, so training works best alongside other motivators.
+
+**Why do businesses retrain staff to use new technology?**
+When new equipment or software is introduced, employees skilled in the old method may be unable to use the new one. Retraining teaches the new method so that the business benefits from the technology.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.5 Making human resource decisions, items 2.5.3 and 2.5.4.

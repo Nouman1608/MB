@@ -218,6 +218,20 @@ Command words (Appendix 1): **Identify** (read from a graph or table), **Calcula
 - Writing limitations in general terms with no link to the business in the case.
 - Stopping an "evaluate" or "justify" answer before stating which course of action you back.
 
+## Frequently asked questions
+
+**How do you calculate gross and net profit margin in Edexcel GCSE Business?**
+Gross profit margin is gross profit / sales revenue × 100, and net profit margin is net profit / sales revenue × 100. Both formulae are listed in Appendix 3 of the 1BS0 specification.
+
+**How do you calculate market share?**
+Market share (%) is the business's sales divided by total market sales, multiplied by 100. It is the standard form and is not listed in Appendix 3.
+
+**What is the difference between a percentage and a percentage point?**
+A market share falling from 15% to 13% is a fall of 2 percentage points, but a fall of 13.3% in the share itself. Mixing these up is a common error.
+
+**What are the limitations of financial information?**
+It looks backwards, forecasts are only estimates, it leaves out non-financial factors such as morale and reputation, it does not explain causes, comparisons can mislead, and profit is not the same as cash.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2, Topic 2.4 Making financial decisions, item 2.4.2, with Appendix 1 (command words), Appendix 2 (quantitative skills) and Appendix 3 (formulae).

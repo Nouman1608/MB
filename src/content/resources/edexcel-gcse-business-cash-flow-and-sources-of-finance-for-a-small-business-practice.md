@@ -137,6 +137,20 @@ Links: the [Business hub](/boards/edexcel/gcse/business/), the [printable checkl
 - Find weak spots with the [free diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate net cash flow and closing balance?**
+Net cash flow is cash inflows minus cash outflows for the period, and the closing balance is the opening balance plus net cash flow. Each closing balance then becomes the next month's opening balance.
+
+**What is the most common mistake in cash-flow forecast questions?**
+Losing track of a negative net cash flow, then adding it instead of subtracting it, or failing to carry the closing balance forward as the next opening balance. Confusing cash with profit is another frequent error.
+
+**How do you work out loan interest as a percentage in Edexcel GCSE Business?**
+Use (total repayment − borrowed amount) / borrowed amount × 100, a formula listed in Appendix 3 of the 1BS0 specification. Divide by the amount borrowed, not by the total repayment.
+
+**How should you answer a Justify question about sources of finance?**
+Use the information in the case to recommend one of the two options, explain why it suits this business, and say why the other option is weaker. A conclusion with no counter-argument loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.3 Putting a business idea into practice, items 1.3.3 and 1.3.4.

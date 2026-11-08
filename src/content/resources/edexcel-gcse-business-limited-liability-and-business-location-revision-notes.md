@@ -225,6 +225,20 @@ Which location factor first?
 - Ending an "evaluate" or "justify" answer with a summary of points and no decision.
 - Saying the internet makes premises unnecessary.
 
+## Frequently asked questions
+
+**What is the difference between limited and unlimited liability?**
+With unlimited liability, the owner is personally responsible for all the business's debts, so creditors can claim personal wealth such as savings. With limited liability, the owner's risk is limited to the money they put in.
+
+**Do partners have limited liability?**
+In general, partners in an ordinary partnership have unlimited liability, like a sole trader. Describing every partner as having limited liability is a common error in Edexcel GCSE Business (1BS0) answers.
+
+**What are the advantages and disadvantages of a franchise for the franchisee?**
+A franchisee gains a known brand, a proven business format and often training and support. In return it pays fees and royalties, has less freedom over products and prices, and can be harmed by the franchisor's reputation.
+
+**Does the internet mean a business no longer needs premises?**
+No. E-commerce lets a business reach customers anywhere and use cheaper premises, but goods still need storing and sending, some customers want to see items, and services such as hairdressing cannot be delivered online.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1, Topic 1.4 Making the business effective, items 1.4.1 and 1.4.2.

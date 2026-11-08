@@ -238,6 +238,20 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 - Ending an "evaluate" or "justify" answer without a clear decision.
 - Claiming that money is the only motivator.
 
+## Frequently asked questions
+
+**What is the difference between formal and informal training?**
+Formal training is planned and structured, often away from the work area and sometimes leading to a qualification. Informal training happens during ordinary work, such as shadowing a colleague, and is cheap but depends on the person teaching.
+
+**What are the financial methods of motivation in Edexcel GCSE Business?**
+The 1BS0 specification lists remuneration, bonus, commission, promotion and fringe benefits. Promotion usually brings higher pay, so it sits among the financial methods.
+
+**What is the difference between job rotation and job enrichment?**
+Job rotation moves employees between different tasks at planned times to reduce boredom. Job enrichment redesigns a job to include more challenging, responsible tasks.
+
+**Why does motivation matter to a business?**
+The specification gives three reasons: attracting employees, retaining employees and productivity. Motivated staff are less likely to leave, which cuts recruitment costs.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.5 Making human resource decisions, items 2.5.3 and 2.5.4.

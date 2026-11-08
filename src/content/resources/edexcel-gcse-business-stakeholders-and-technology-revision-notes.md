@@ -227,6 +227,20 @@ For an evaluate question, set out a point for and a point against, then give a d
 - Calculating without showing working, or leaving out the unit (£ or %).
 - Writing a list for an evaluate question and no supported conclusion.
 
+## Frequently asked questions
+
+**Who are the stakeholders of a business in Edexcel GCSE Business?**
+The 1BS0 specification names eight groups: shareholders (owners), employees, customers, managers, suppliers, the local community, pressure groups and the government.
+
+**What is a stakeholder?**
+A stakeholder is anyone, or any group, affected by or concerned with a business's actions. The specification lists the groups rather than defining the word, so this is the standard meaning.
+
+**What types of technology does the specification name?**
+It names e-commerce, social media, digital communication and payment systems. You need to explain how they influence a business's sales, costs and marketing mix.
+
+**Is a pressure group a type of customer?**
+No. Pressure groups are not owners, staff or customers; they choose a cause and try to change how a business behaves, often by drawing public attention to it.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.5 Understanding external influences on business, items 1.5.1 and 1.5.2.

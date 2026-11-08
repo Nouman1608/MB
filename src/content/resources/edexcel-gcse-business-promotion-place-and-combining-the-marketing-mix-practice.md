@@ -133,6 +133,20 @@ Justify which option Aldous Activewear should choose. **[6]**
 - Take the [free diagnostics](/diagnostics/) to see where to focus.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these promotion and place practice questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 2 items 2.2.3 to 2.2.5: promotion strategies, technology in promotion, retailers and e-tailers, and how the marketing mix elements combine to build competitive advantage.
+
+**What are common mistakes on promotion questions?**
+Naming a promotion strategy without linking it to the segment in the case, defining branding as only a logo or name, and writing "social media" for viral advertising with no mention of people sharing it.
+
+**How do you compare selling through a retailer with selling online?**
+Work out the money received per item on each route, remembering to subtract delivery, packaging and payment costs from online sales. Then consider volume, since a retailer may sell many more units.
+
+**What does an integrated marketing mix mean?**
+A mix is integrated when product, price, place and promotion all point in the same direction, so customers see one clear offer. Conflicting elements confuse the offer and give rivals an opening.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, topic 2.2 Making marketing decisions, content items 2.2.3 Promotion, 2.2.4 Place and 2.2.5 Using the marketing mix to make business decisions.

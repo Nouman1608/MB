@@ -230,6 +230,20 @@ The mix is a judgement. More loan capital means more interest and fixed repaymen
 - Confusing merger (agreement) with takeover (buying control).
 - Answering as if every business can float shares. Flotation is for public limited companies.
 
+## Frequently asked questions
+
+**What is the difference between organic and inorganic growth in GCSE Business?**
+Organic (internal) growth uses the business's own resources, such as new products or new markets, so the owners keep control but growth is slow. Inorganic (external) growth happens through a merger or takeover, which is faster but costs more and brings integration problems.
+
+**How do you calculate the average rate of return for Edexcel GCSE Business?**
+Divide the total profit by the number of years to get the average annual profit, then divide that by the cost of the investment and multiply by 100. For example, £36,000 profit over 3 years on a £40,000 machine gives 12,000 / 40,000 × 100 = 30%.
+
+**Which sources of finance can a growing business use?**
+Internal sources are retained profit and selling assets; external sources are loan capital, share capital and, for a public limited company, stock market flotation. The best choice depends on the business's past profit, its existing debt and how quickly it needs the cash.
+
+**Can any business raise money through a stock market flotation?**
+No. Flotation means offering shares to the public on the stock market, so it is only open to a public limited company (plc). In Edexcel GCSE Business (1BS0) answers, treating a sole trader or private company as able to float shares is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.1 Growing the business, items 2.1.1 and 2.1.2.

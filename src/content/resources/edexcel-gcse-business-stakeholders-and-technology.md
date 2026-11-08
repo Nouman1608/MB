@@ -209,6 +209,20 @@ The result is positive but modest. The online store raises sales, while the adde
 
 Boil the key points down with the [revision notes](/resources/edexcel-gcse-business-stakeholders-and-technology-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-gcse-business-stakeholders-and-technology-practice/). Return to the [Business hub](/boards/edexcel/gcse/business/) or tick off progress on the [checklist](/checklists/edexcel/gcse/business/). Find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why do shareholders and employees sometimes conflict?**
+Higher wages reduce the profit available to share among shareholders, while cutting wages to lift profit upsets staff. The objectives of the two groups cannot both be met in full.
+
+**How can stakeholders influence a business?**
+Shareholders can press for higher profit, employees can leave or take industrial action, customers decide whether to buy, suppliers can change prices or delivery, the local community can object to plans and the government sets taxes and rules.
+
+**How does technology affect price in the marketing mix?**
+Customers can compare prices online, which pushes prices down, while lower selling costs can allow a business to charge less. This is one of the ways the Edexcel GCSE Business (1BS0) specification expects you to link technology to the marketing mix.
+
+**Does technology always save a business money?**
+No. Digital communication can cut postage and travel, but e-commerce adds website, delivery and packing costs, payment systems charge fees, and setting up and training costs money in the short run.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.5 Understanding external influences on business, items 1.5.1 and 1.5.2.
