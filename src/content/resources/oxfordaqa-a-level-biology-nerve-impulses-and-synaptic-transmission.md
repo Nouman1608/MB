@@ -279,6 +279,23 @@ You are told what the substance does. Find the step it changes, then follow the 
 - Saying a bigger stimulus gives a bigger action potential.
 - Rounding down in a summation count when the question asks how many are needed.
 
+## Frequently asked questions
+
+**How is a resting potential established?**
+The sodium-potassium pump uses ATP to move 3 Na⁺ out of the axon for every 2 K⁺ in, building concentration gradients. The resting membrane has many open K⁺ channels and few open Na⁺ channels, so K⁺ diffuses out faster and the inside becomes negative, typically about −70 mV.
+
+**What is the all-or-nothing principle?**
+A stimulus below threshold produces no action potential, while a stimulus at or above threshold produces one of fixed size. A stronger stimulus increases the frequency of impulses, not their size.
+
+**What is saltatory conduction?**
+In a myelinated axon, myelin stops ions crossing the membrane except at the nodes of Ranvier. Local circuits carry the depolarisation from node to node, so the action potential appears to jump between them, which is faster and saves ATP.
+
+**Why is synaptic transmission one-way?**
+Vesicles of transmitter and the Ca²⁺ channels are only in the presynaptic knob, and the acetylcholine receptors are only on the postsynaptic membrane. The signal therefore cannot pass backwards.
+
+**Is nerve impulses on the International AS in OxfordAQA Biology (9610)?**
+No. Sections 3.4.3.1 and 3.4.3.2 sit in Unit 4, Control, which the specification lists as International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. This guide follows sections 3.4.3.1 and 3.4.3.2. Check the current specification on the OxfordAQA website.

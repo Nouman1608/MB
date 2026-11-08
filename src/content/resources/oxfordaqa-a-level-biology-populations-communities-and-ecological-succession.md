@@ -208,6 +208,23 @@ Management has costs: a landowner may lose income, and the unit introduction str
 - Saying biodiversity always rises. It may fall near the climax.
 - Forgetting tray area and replicates in the seedling practical.
 
+## Frequently asked questions
+
+**What is the difference between a population, a community and an ecosystem?**
+A population is every organism of one species living in a habitat. A community is the populations of different species in the same place, and an ecosystem is a community together with the non-living parts of its surroundings.
+
+**What is a niche?**
+A niche is the role a species occupies within its habitat, linked to how well it is adapted to biotic and abiotic conditions. It is a role, not an address, so two species can share a habitat but have different niches.
+
+**What is the difference between intraspecific and interspecific competition?**
+Intraspecific competition is between individuals of the same species, which have identical niches, so it tends to stabilise a population. Interspecific competition is between different species for a shared resource, and the weaker competitor may decline or disappear.
+
+**How does primary succession happen?**
+Pioneer species such as lichens and mosses colonise bare rock, weather it and add organic matter, so soil forms. Each stage changes the environment in ways that favour newcomers with different adaptations, leading towards a relatively stable climax community.
+
+**Is this topic on the International AS in OxfordAQA Biology (9610)?**
+No. Section 3.3.1 and required practical 9 are in Unit 3, Populations and genes, which the specification lists as International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), specification Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1 and required practical 9 in Unit 3.

@@ -163,6 +163,20 @@ These questions cover sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Inter
 - Take the free 10-minute diagnostics: [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How does a Pacinian corpuscle produce a generator potential?**
+Pressure deforms the lamellae and stretches the membrane of the sensory neurone ending, widening the stretch-mediated sodium ion channels. Sodium ions diffuse in, depolarising the membrane; this is the generator potential.
+
+**Why do cones give higher visual acuity than rods?**
+A cone usually has its own bipolar neurone, so two points of light on two cones send separate impulses and are seen as two points. Rods share a bipolar neurone, so close points send one set of impulses and merge.
+
+**How do you calculate the time for a reflex response?**
+Divide the length of the pathway by the impulse speed to get the conduction time, convert it to the units asked for, then add the delay at each synapse. Forgetting the synaptic delay or using the wrong unit are the usual slips.
+
+**How do you explain colour vision for full marks?**
+Say that each of the three cone types has a pigment absorbing a different range of wavelengths, and that the brain interprets the relative stimulation of the three types as colour. "The cones detect different colours" is too vague.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, from OxfordAQA, covering specification content 3.4.1, 3.4.2.1 and 3.4.2.2.

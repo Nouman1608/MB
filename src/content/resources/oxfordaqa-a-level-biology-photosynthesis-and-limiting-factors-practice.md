@@ -172,6 +172,20 @@ These questions cover *OxfordAQA International AS and A-level Biology (9610)*, V
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you justify which factor is limiting photosynthesis?**
+Use data from the table: if raising a factor increases the rate, it was limiting, and if the rate barely changes, it is no longer limiting. Naming a factor without evidence rarely gains full credit.
+
+**How do you explain the role of ATP synthase for full marks?**
+Name the enzyme and say that protons pass through it down their concentration gradient, providing energy to make ATP from ADP and inorganic phosphate. "Protons make ATP" does not show the role of the enzyme.
+
+**Why does making protein from triose phosphate need nitrate?**
+Triose phosphate contains only carbon, hydrogen, oxygen and phosphate, so amino acids and proteins also need nitrogen from nitrate ions taken up by the roots.
+
+**What should a plan for a photosynthesis practical include?**
+State what you change, what you record and what you keep fixed, including temperature control with a water bath or heat shield. A plan that leaves out temperature control usually loses credit.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.2 and Required practical 7.

@@ -198,6 +198,20 @@ Costs: lost income, ongoing labour. Benefits: protects species that depend on th
 </figure>
 
 
+## Frequently asked questions
+
+**Why does the predator population peak after the prey population?**
+When prey numbers rise, predators have more food, but their numbers rise after a delay because they need time to reproduce. More predators then eat more prey, so prey fall, followed later by predators.
+
+**How is succession managed in conservation?**
+Conservation often prevents a habitat moving on to the next stage of succession, for example grazing or mowing stops shrubs establishing and keeps grassland open, and coppicing lets light reach the woodland floor.
+
+**Does biodiversity always increase during succession?**
+No. Species number usually rises as more niches appear, but it may fall near the climax, for example when a dense canopy shades out light-demanding ground plants.
+
+**What is a confounding variable?**
+A confounding variable is a third factor that can drive both variables in a correlation. Along a transect, for example, light, soil moisture and soil depth often change together.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), specification Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1 and required practical 9 in Unit 3.

@@ -239,6 +239,20 @@ If one curve plateaus at a low CO₂ concentration and a second curve at a highe
 - Describing a graph without figures.
 - Describing enzyme "death" instead of denaturation.
 
+## Frequently asked questions
+
+**What is the difference between GP and RuBP?**
+GP (glycerate 3-phosphate) is the product of carbon fixation. RuBP (ribulose bisphosphate) is the five-carbon acceptor that combines with carbon dioxide and is regenerated in the Calvin cycle.
+
+**Where does the oxygen released in photosynthesis come from?**
+The oxygen released in photosynthesis comes from water, split by photolysis, not from carbon dioxide.
+
+**Why does the Calvin cycle stop soon after the light is switched off?**
+The Calvin cycle needs ATP and reduced NADP from the light-dependent reaction. Without light these run out, so GP can no longer be reduced to triose phosphate.
+
+**What are the variables in Required practical 7 on light intensity?**
+The independent variable is lamp distance, with light intensity proportional to 1 ÷ distance². The dependent variable is bubbles or gas volume per unit time, and temperature, carbon dioxide supply and the same plant are controlled.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.2 and Required practical 7.

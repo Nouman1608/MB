@@ -198,6 +198,23 @@ A balanced answer then uses the numbers and weighs the issues: the gain is large
 - Calling the annealing stage the place where the polymerase works.
 - Treating the marker as a way of making the host express the gene.
 
+## Frequently asked questions
+
+**Why can a human gene be expressed in a bacterium?**
+The genetic code and the mechanisms of transcription and translation are universal, so each codon specifies the same amino acid in the bacterium as in the human cell. Bacterial RNA polymerase and ribosomes can transcribe and translate the gene.
+
+**Why is cDNA made from mRNA rather than cut from the genome?**
+mRNA from cells that make the protein has already had its introns removed, and bacteria cannot remove introns. Reverse transcriptase copies the mRNA into cDNA, giving a gene with no introns, though a promoter and terminator must be added.
+
+**What happens in each stage of PCR?**
+At about 95 °C the template strands separate; at about 50 to 65 °C primers anneal to their matching sequences; at about 72 °C a heat-stable DNA polymerase extends the primers. The target roughly doubles each cycle.
+
+**What are marker genes used for?**
+Marker genes identify cells that have been transformed, for example an antibiotic-resistance gene lets only cells with the vector survive on agar containing the antibiotic. If the new gene is inserted inside a marker gene, the marker stops working, which identifies recombinant cells.
+
+**Is recombinant DNA technology on the International AS in OxfordAQA Biology (9610)?**
+No. Section 3.4.10 is in Unit 4, Control, and Units 3 and 4 are International A-level only.
+
 ## Official syllabus
 
 The OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. For general exam technique see [exam preparation](/resources/oxfordaqa-a-level-biology-exam-preparation/).
