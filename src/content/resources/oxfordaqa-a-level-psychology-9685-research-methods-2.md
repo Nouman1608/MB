@@ -187,6 +187,20 @@ Textbooks usually add that the t-tests and Pearson's r (parametric tests) need i
 - Treating a case study as useless because N = 1; say what it can and cannot show.
 - Putting conclusions in the results section, or new data in the discussion.
 
+## Frequently asked questions
+
+**What does OxfordAQA 9685 Research methods 2 cover?**
+Section 3.3.3 covers content analysis, case studies, reliability, validity, designing and reporting investigations, probability and significance, levels of measurement and choosing statistical tests.
+
+**What are the three levels of measurement?**
+Nominal data are separate categories, ordinal data can be put in order but have unequal gaps, and interval data use a scale with equal, standard units.
+
+**Why are rating scales treated as ordinal data?**
+The gaps between points on a rating scale are not equal, since one person's 6 may not mean the same as another's.
+
+**What does p ≤ 0.05 mean?**
+It means there is a 5% or less probability that the result is due to chance. A stricter level, p ≤ 0.01, is used when the risk of a wrong conclusion matters more, such as a study of a new treatment.
+
 ## Where next
 
 Test yourself with the [Research methods 2 practice questions](/resources/oxfordaqa-a-level-psychology-9685-research-methods-2-practice/). For Unit 2 methods, use the [revision notes for Unit 2](/resources/oxfordaqa-a-level-psychology-biopsychology-development-revision-notes/) and [Unit 2 practice questions](/resources/oxfordaqa-a-level-psychology-biopsychology-development-practice/). The other Unit 3 sections are covered in the [Psychology of sleep study guide](/resources/oxfordaqa-a-level-psychology-9685-psychology-of-sleep/). For exam technique, read the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).

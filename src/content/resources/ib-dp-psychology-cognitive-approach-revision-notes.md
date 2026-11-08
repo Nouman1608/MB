@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-cognitive-approach"
-description: "Condensed revision notes on IB Diploma Programme Psychology's compulsory core Cognitive approach -- mental processes such as memory, perception and thinking -- with evaluation prompts and self-test questions."
+description: "Revision notes on the IB DP Psychology cognitive approach: memory, schema and reconstructive memory, with Loftus and Palmer, Bartlett and a self-test."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -164,3 +164,17 @@ is an active reconstruction shaped by existing schema and later information, not
 of the original event. 3. Because many topics (such as memory) can be explained from more than one
 approach, and blending them without distinction produces an unclear, unfocused answer. 4. Its
 methodology and at least one genuine evaluative point (a strength or limitation). 5. Paper 3.
+
+## Frequently asked questions
+
+**What does the cognitive approach study in IB Psychology?**
+It studies how mental processes such as memory, perception, thinking and decision-making shape behaviour, often using computer-like models of input, processing, storage and output.
+
+**What did Loftus and Palmer (1974) find?**
+Speed estimates of filmed car accidents rose with more intense verbs, such as "smashed" rather than "hit", and the "smashed" group were more likely to misremember seeing broken glass.
+
+**What is a weakness of Bartlett's War of the Ghosts study?**
+Bartlett's method relied on qualitative analysis of free recall with limited standardisation, so more tightly controlled studies such as Loftus and Palmer's are often used to support the same claim.
+
+**Which IB Psychology paper tests research methodology separately?**
+HL Paper 3 tests approaches to researching behaviour separately from content, but strong Paper 1 answers still refer to how a study's method affects how far its findings can be trusted.

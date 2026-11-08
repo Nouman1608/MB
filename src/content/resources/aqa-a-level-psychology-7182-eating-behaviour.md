@@ -166,6 +166,20 @@ The specification prints the Paper 3 rules like this. Compulsory content is Issu
 - Confusing restraint (the attempt to limit eating) with disinhibition (the breakdown of restraint).
 - Using stigmatising language. Write "a person with anorexia nervosa" and "people with obesity".
 
+## Frequently asked questions
+
+**What does AQA A-level Psychology 7182 Eating behaviour cover?**
+Section 4.3.6 covers explanations for food preferences, neural and hormonal control of eating, biological and psychological explanations for anorexia nervosa, and biological and psychological explanations for obesity.
+
+**What did Becker et al. (2002) find in Fiji?**
+After television arrived in a region of Fiji, the proportion of adolescent girls scoring above the risk threshold on an eating-attitude measure rose from about 13% to about 29% within three years. The study measured eating attitudes, not diagnosed anorexia nervosa.
+
+**What is the dual-centre model of eating?**
+It says the lateral hypothalamus starts eating and the ventromedial hypothalamus stops it. Rats with LH damage stopped eating, while rats with VMH damage overate, although the model is now seen as too simple.
+
+**Is taste aversion innate or learned?**
+The readiness to link taste with illness is innate, but the aversion itself is learned. This is why taste aversion is described as prepared learning.
+
 ## Where to go next
 
 For the biological, social learning and cognitive approaches that underpin this topic, see the [Approaches in Psychology study guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) and the [Approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). Use the [Issues and debates guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/) for evaluation themes. Then test yourself with the [Eating behaviour practice questions](/resources/aqa-a-level-psychology-7182-eating-behaviour-practice/).

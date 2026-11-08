@@ -101,3 +101,17 @@ Pay attention to the command term. **Discuss** needs a balanced view with differ
 5. What is the diathesis-stress model? *A disorder arises when a vulnerability (diathesis) combines with stress.*
 6. Outline how SSRIs are thought to work. *They raise the level of serotonin available at the synapse by blocking its reuptake.*
 7. Give one limitation of CBT. *It requires motivation and time, and results depend on the therapist and client.*
+
+## Frequently asked questions
+
+**What are the three areas of the IB Psychology abnormal psychology option?**
+The option is organised around factors influencing diagnosis, the aetiology (causes) of abnormal psychology, and treatment.
+
+**What are the DSM and the ICD?**
+They are the two main classification systems. The DSM is published by the American Psychiatric Association (current edition DSM-5) and the ICD by the World Health Organization (current edition ICD-11).
+
+**What is the difference between reliability and validity of diagnosis?**
+A diagnosis is reliable if different clinicians, or the same clinician on different occasions, reach the same conclusion. It is valid if it identifies a real, distinct condition.
+
+**How are IB Psychology extended responses marked?**
+IB extended responses are marked on knowledge and understanding, use of research, critical thinking and organisation, so plan your time to cover all four.

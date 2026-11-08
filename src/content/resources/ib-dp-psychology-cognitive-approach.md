@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-cognitive-approach"
-description: "Mental processes such as memory, perception and thinking, and how they shape behaviour -- one of three compulsory core approaches of IB Diploma Programme Psychology, first assessment 2019, examined on Paper 1."
+description: "Study guide to the IB DP Psychology cognitive approach on Paper 1: memory, perception, thinking, reconstructive memory and schema theory, with worked examples."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -178,6 +178,20 @@ decision-making under uncertainty. Because Paper 1 questions can be framed aroun
 sub-areas, building a small bank of two or three well-prepared studies across different sub-areas --
 rather than one memory study revised in exhaustive depth -- gives more flexibility to respond to
 whichever specific angle a question actually takes.
+
+## Frequently asked questions
+
+**How is the cognitive approach examined in IB DP Psychology?**
+The cognitive approach is one of three compulsory core approaches examined on Paper 1, for first assessment 2019.
+
+**Why can eyewitness testimony be unreliable according to the cognitive approach?**
+Reconstructive memory means a witness's account can be shaped by expectations, leading questions or information met after the event, which become part of the memory without the witness realising.
+
+**How many cognitive studies should I prepare for Paper 1?**
+Build a small bank of two or three well-prepared studies across different sub-areas, such as memory, schema and decision-making, rather than one memory study in exhaustive depth, so you can respond to whichever angle a question takes.
+
+**How does the cognitive approach link to the IB Psychology options?**
+Several options draw on cognitive explanations: developmental psychology uses cognitive models of changing thinking, and health psychology uses concepts such as risk perception and health beliefs.
 
 ## Official syllabus
 

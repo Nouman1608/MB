@@ -9,7 +9,7 @@ qualifications: ["gcse"]
 syllabusCodes: ["8182"]
 syllabusSeries: "For first teaching 2017"
 order: 2
-description: "Paper-by-paper exam preparation for AQA GCSE Psychology 8182 -- Paper 1/Paper 2 topic split, command-word hierarchy, applying studies to scenarios, a worked evaluate-style answer and a checklist."
+description: "Exam preparation for AQA GCSE Psychology 8182: the Paper 1 and Paper 2 split, command words, applying studies to new scenarios and a worked evaluate answer."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -115,6 +115,20 @@ different skill from recalling what the study found in its own original context.
 feature (high control) that produces the strength (confidence in cause-and-effect) also produces the
 limitation (reduced ecological validity) -- weighing them together, rather than listing them as
 unrelated points, shows the reasoned judgement "evaluate" is testing.
+
+## Frequently asked questions
+
+**How is AQA GCSE Psychology 8182 assessed?**
+It is assessed by two written papers that are not tiered. Paper 1 (Cognition and behaviour) and Paper 2 (Social context and behaviour) each last 1 hour 45 minutes, are worth 100 marks and count for 50%.
+
+**Is there coursework in AQA GCSE Psychology?**
+No. Both papers are externally assessed, with no coursework or controlled assessment.
+
+**What is the difference between describe, explain and evaluate in GCSE Psychology?**
+Describe needs an accurate account without saying why. Explain needs a reasoned account of why something happens. Evaluate needs strengths and limitations weighed to reach a justified judgement.
+
+**How do you structure an evaluate answer in GCSE Psychology?**
+State a strength tied to a named example, state a limitation tied to the same example, weigh the two against each other, then reach an explicit judgement.
 
 *Written against AQA GCSE Psychology 8182 (specification-at-a-glance, verified 2026-08-28). The worked
 scenario above is an original example written for this resource, not a reproduction of any official

@@ -139,3 +139,17 @@ Related: [Cognition and Behaviour revision notes](/resources/igcse-psychology-co
 - Describing reconstructive memory without applying it to eyewitness testimony.
 - Stating the capacity and duration of each memory store without describing the model's structure (the flow between stores, attention as the first transfer mechanism, rehearsal as the second).
 - Swapping Broca's and Wernicke's areas (production versus comprehension), or describing fight or flight without naming the autonomic nervous system and adrenaline.
+
+## Frequently asked questions
+
+**What topics do these International GCSE Psychology cognition questions cover?**
+They cover memory, perception, biopsychology and research methods from Paper 1 of OxfordAQA International GCSE Psychology 9218, including the working memory model, visual illusions, synaptic transmission and Broca's and Wernicke's areas.
+
+**What is the difference between a null and an alternative hypothesis?**
+A null hypothesis predicts no difference or relationship between the conditions. An alternative hypothesis predicts that there will be one. Writing the wrong one when a question asks for the other is a common mistake.
+
+**Do you need to apply research methods to scenarios in International GCSE Psychology?**
+Yes. Research methods questions often describe a study, so you need to identify variables, hypotheses and design problems in that specific scenario rather than giving general definitions.
+
+**What are common mistakes in International GCSE Psychology cognition answers?**
+Students often use perception and sensation interchangeably, name control variables without saying why they matter, and swap Broca's area (speech production) with Wernicke's area (language comprehension).

@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,6 +148,20 @@ Evaluation: Keddie and Labov argue cultural deprivation is a myth [1]. Material 
 - Presenting hereditarian views with no criticism.
 - Arguing for the quotation in a "give two arguments against" question.
 - Listing studies in an essay without a judgement about which factor matters most.
+
+## Frequently asked questions
+
+**Which sections of Cambridge 9699 Sociology do these questions cover?**
+They cover sections 6.1 (Intelligence and educational attainment) and 6.2 (Social class and educational attainment) of Paper 3, Education.
+
+**How are the extended intelligence and class questions marked?**
+The real exam marks extended answers with levels of response, not point by point. The marks shown are indicative, and a strong essay ends with a judgement about which factor matters most.
+
+**How should you use table data in Sociology answers?**
+Quote figures from the table and read the gap between groups carefully. Describing data without figures, or misreading the gap, loses marks.
+
+**What are common mistakes in intelligence and class questions?**
+Students often name a material factor without saying how it affects learning, explain only one step of a self-fulfilling prophecy, and present hereditarian views with no criticism.
 
 ## Next steps
 

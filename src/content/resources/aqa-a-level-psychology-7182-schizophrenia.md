@@ -184,6 +184,20 @@ In treatment, the interactionist approach means combining drugs with CBT and fam
 
 Read the [Paper 1 Introductory topics guide](/resources/aqa-a-level-psychology-introductory-topics/) for CBT and drug therapy in other disorders, the [Approaches in Psychology guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) for the biological and cognitive approaches, and the [Issues and debates guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/) for reductionism and nature-nurture.
 
+## Frequently asked questions
+
+**What does AQA A-level Psychology 7182 Schizophrenia cover?**
+Section 4.3.5 covers positive and negative symptoms, issues in diagnosis, biological and psychological explanations, drug therapy, CBT and family therapy, and the importance of an interactionist approach, including the diathesis-stress model.
+
+**What is the diathesis-stress model of schizophrenia?**
+It says schizophrenia develops when a vulnerability (diathesis) meets a trigger (stress). Meehl (1962) proposed a single gene as the diathesis, but modern research points to many genes and possibly early trauma.
+
+**Does expressed emotion cause schizophrenia?**
+The strongest evidence links high expressed emotion to relapse rather than onset. Brown, Birley and Wing (1972) found higher relapse rates in people who returned to high-EE homes.
+
+**What is treatment-aetiology reasoning?**
+It is the mistake of assuming that because a drug reduces symptoms, the drug's target must be the cause. Antipsychotics that block dopamine reduce positive symptoms, but this does not prove dopamine started the disorder.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Schizophrenia is section 4.3.5; the Paper 3 structure appears in the specification at a glance.

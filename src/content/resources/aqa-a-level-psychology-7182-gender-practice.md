@@ -150,6 +150,20 @@ Questions 10 to 12 are extended responses. In the real exam these are marked wit
 - Using David Reimer or Mead as decisive proof without noting their limits.
 - Writing about gender incongruence in stigmatising terms or stating your own verdict.
 
+## Frequently asked questions
+
+**Which section of AQA 7182 Paper 3 tests Gender?**
+Gender is one of three topics in Option 1 of Paper 3, Issues and Options in Psychology, and is examined in Section B for 24 marks.
+
+**How are the extended Gender questions marked?**
+In the real exam, extended responses are marked with levels of response, judged on the answer as a whole rather than point by point. The marks shown in these answers indicate the kind of creditworthy content a strong answer contains.
+
+**How should you write about gender incongruence in an exam?**
+This is a socially sensitive topic, so use balanced, accurately worded evidence and avoid stigmatising language. Credit goes to weighing the evidence, not to giving a personal verdict.
+
+**What are common mistakes in Gender practice questions?**
+Students often swap Klinefelter's (XXY) and Turner syndrome (XO), confuse gender stability with gender constancy, and describe the BSRI as a measure of gender identity rather than self-rated traits.
+
 ## Next steps
 
 - Check gaps with the [diagnostics](/diagnostics/).

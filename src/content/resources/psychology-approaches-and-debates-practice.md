@@ -25,7 +25,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-approaches-issues-and-debates-9990"
     subtopic: "social-approach-9990"
-description: "Original practice questions with worked answers on the four approaches, the 12 core studies and the AS Level issues and debates, set out in Paper 1's two sections, for Cambridge International AS & A Level Psychology 9990."
+description: "Practice questions with worked answers on the four approaches, 12 core studies and AS issues and debates for Cambridge AS & A Level Psychology 9990 Paper 1."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -158,3 +158,17 @@ At least one point must address the field experiment; if none does, maximum 8.
 - In Section B, listing strengths and weaknesses of a research method without applying each one to the study.
 - Confusing a primary reinforcer with a secondary reinforcer, or negative reinforcement with punishment.
 - Saying Milgram's main study had an independent variable.
+
+## Frequently asked questions
+
+**How is Cambridge 9990 Psychology Paper 1 structured?**
+Section A has short answer questions worth 38 marks and Section B has extended response questions worth 22 marks, all based on the core studies.
+
+**How many core studies are tested on Cambridge 9990 Paper 1?**
+Paper 1 tests 12 core studies, three for each of the biological, cognitive, learning and social approaches, and the grouping by approach is itself examinable.
+
+**Should Paper 1 answers use studies from other boards?**
+No. Describing a study from another board's specification, or placing a core study under the wrong approach, loses marks. Link every point to the named 9990 core study.
+
+**What are common mistakes in 9990 Paper 1 answers?**
+Students often place a core study under the wrong approach, answer Section A in general terms without linking to the named study, and list strengths and weaknesses of a method without applying them to the study.

@@ -21,7 +21,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
     subtopic: "clinical-psychology-and-mental-health-7182"
-description: "Social influence, memory, attachment, and clinical psychology and mental health -- the full content of Paper 1 Introductory Topics in Psychology for AQA A-Level Psychology (7182)."
+description: "Study guide to AQA A-Level Psychology (7182) Paper 1: social influence, memory, attachment, and clinical psychology and mental health, with key studies."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -232,6 +232,20 @@ OCD: compulsions, anxiety and guilt, obsessive thoughts.
 Each explanation is best evaluated against the success of its own treatment and against the
 alternative approaches: for example, SSRIs help many but not all OCD patients, which supports a
 biological role while leaving room for psychological factors.
+
+## Frequently asked questions
+
+**How is AQA A-level Psychology 7182 Paper 1 assessed?**
+Paper 1 is a 2-hour, 96-mark written exam with four sections of 24 marks each, covering social influence, memory, attachment, and clinical psychology and mental health.
+
+**Is the AS Paper 1 the same as the A-level Paper 1?**
+No. The AS Paper 1 is 1 hour 30 minutes and 72 marks, and assesses social influence, memory and attachment only. The A-level Paper 1 adds clinical psychology and mental health.
+
+**What did van IJzendoorn and Kroonenberg find about cultural variations in attachment?**
+Secure attachment was the most common type in every country, but insecure-avoidant attachment was relatively more common in Germany and insecure-resistant in Japan. Variation within countries was greater than variation between them.
+
+**Which disorders are explained and treated in Paper 1 clinical psychology?**
+Phobias are explained and treated through the behavioural approach, depression through the cognitive approach, and OCD through the biological approach.
 
 ## Official syllabus
 

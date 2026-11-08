@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-research-methods-9990"
     subtopic: "methodological-concepts-as-9990"
-description: "The six research methods, the methodological concepts that apply across them (variables, sampling, ethics, validity, reliability, data analysis), and how Paper 2's planning question works, for Cambridge AS & A Level Psychology (9990)."
+description: "Guide to Paper 2 Research Methods in Cambridge AS & A Level Psychology (9990): the six methods, sampling, validity, reliability and the planning question."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -162,6 +162,20 @@ checklist of general features before adding the method-specific
 detail, and be precise about what Paper 2 does and does not require --
 adding unnecessary aims, hypotheses or ethical evaluation costs time
 without earning credit at this paper.
+
+## Frequently asked questions
+
+**How long is Cambridge 9990 Psychology Paper 2 and how many marks is it worth?**
+Paper 2, Research Methods, lasts 1 hour 30 minutes and is worth 60 marks. It is one of the two compulsory AS Level papers, alongside Paper 1.
+
+**Do you need to do calculations in Cambridge 9990 Paper 2?**
+No. You must recognise and interpret the mode, median, mean, range and standard deviation, and read bar charts, histograms and scatter graphs, but the syllabus states that no calculations are required.
+
+**Do you need aims and hypotheses in the Paper 2 planning question?**
+No. At Paper 2 you are not expected to include aims or hypotheses, or to evaluate sampling, generalisability or ethics of the plan. Those are required in the Paper 4 planning question at A Level.
+
+**What is the difference between validity and reliability in psychology?**
+Validity concerns whether a study measures what it claims to, including ecological validity and demand characteristics. Reliability concerns consistency, such as inter-rater, inter-observer and test-retest reliability.
 
 ## Official syllabus
 

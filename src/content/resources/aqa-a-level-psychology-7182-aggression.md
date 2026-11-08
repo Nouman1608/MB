@@ -151,6 +151,20 @@ The specification names three explanations:
 - Treating correlational hormone data as proof of cause.
 - Drifting into offending behaviour ([Forensic Psychology](/resources/aqa-a-level-psychology-7182-forensic-psychology/) content).
 
+## Frequently asked questions
+
+**What topics are in AQA A-level Psychology 7182 Aggression?**
+Section 4.3.8 covers neural, hormonal and genetic factors, the ethological and evolutionary explanations, social psychological explanations, institutional aggression in prisons, and media influences including computer games.
+
+**What are desensitisation, disinhibition and cognitive priming?**
+Desensitisation is a reduced emotional and physical response to violence after repeated exposure. Disinhibition is when media weaken usual restraints by making violence seem normal. Cognitive priming is when violent content activates aggressive thoughts that a later cue can trigger.
+
+**How did Berkowitz revise the frustration-aggression hypothesis?**
+Dollard et al. (1939) claimed frustration always leads to aggression. Berkowitz (1989) revised this so that frustration creates negative feelings that make aggression more likely, rather than certain.
+
+**Which option is Aggression in for AQA Psychology Paper 3?**
+Aggression is one of the three topics in Option 3, alongside Forensic Psychology and Addiction. You answer on one Option 3 topic in Section D of Paper 3.
+
 ## Where to go next
 
 Test yourself with the [aggression revision notes](/resources/aqa-a-level-psychology-7182-aggression-revision-notes/), then try the [aggression practice questions](/resources/aqa-a-level-psychology-7182-aggression-practice/). Revise the biological approach in the [approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). Track topics with the [7182 checklist](/checklists/aqa/a-level/psychology/) and return to the [course hub](/boards/aqa/a-level/psychology/).

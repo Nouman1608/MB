@@ -148,6 +148,20 @@ AO3: Becker et al. (2002) found the proportion of Fijian girls with high-risk ea
 - Writing evaluation as labels ("reductionist", "deterministic") without explaining the consequence.
 - Describing the second explanation in a 16-mark essay instead of using it to evaluate.
 
+## Frequently asked questions
+
+**Which section of AQA A-level Psychology 7182 Paper 3 tests Eating behaviour?**
+Eating behaviour is assessed in Section C of Paper 3, Issues and Options in Psychology, where you answer on one topic from Option 2 (Schizophrenia, Eating behaviour or Stress) for 24 marks.
+
+**How should you justify a statistical test choice in an eating behaviour question?**
+Give reasons tied to the study in the question, such as whether it tests for a difference or a correlation, the design, and the level of data. Listing every test's criteria without linking them to the study is a common way to lose marks.
+
+**How do you use a second explanation in a 16-mark eating behaviour essay?**
+Use the second explanation to evaluate the first, linking it back each time. Describing the second explanation in a separate block gains little credit.
+
+**What are common mistakes in eating behaviour exam answers?**
+Students often swap ghrelin and leptin, treat correlational findings as proof of cause, forget the comparison group when reading results tables, and give textbook definitions when the item asks them to use the scenario.
+
 ## Next steps
 
 - Check gaps with the [Eating behaviour revision notes](/resources/aqa-a-level-psychology-7182-eating-behaviour-revision-notes/) and the [Approaches in Psychology study guide](/resources/a-level-aqa-psychology-approaches-in-psychology/).

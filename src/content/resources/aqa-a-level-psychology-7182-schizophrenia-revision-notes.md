@@ -152,6 +152,20 @@ Test yourself afterwards with the [Schizophrenia practice questions](/resources/
 
 For the same therapies applied to other disorders, see the [Paper 1 Introductory revision notes](/resources/aqa-a-level-psychology-introductory-revision-notes/). For the biological and cognitive approaches behind these explanations, see the [Approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). For the debates used in evaluation, see the [Issues and debates revision notes](/resources/aqa-a-level-psychology-7182-issues-and-debates-revision-notes/). The other Option 2 topics are [Eating behaviour](/resources/aqa-a-level-psychology-7182-eating-behaviour/) and [Stress](/resources/aqa-a-level-psychology-7182-stress/).
 
+## Frequently asked questions
+
+**What is the difference between co-morbidity and symptom overlap?**
+Co-morbidity is two or more conditions present in the same person at the same time. Symptom overlap is two different conditions sharing the same symptoms. Both can lead to misdiagnosis, but for different reasons.
+
+**What is the difference between the original and revised dopamine hypotheses?**
+The original hypothesis proposed excess dopamine in subcortical areas, linked to positive symptoms. The revised hypothesis added too little dopamine in the prefrontal cortex, linked to negative symptoms.
+
+**Why do people taking clozapine need regular blood tests?**
+Clozapine can cause a serious fall in white blood cells, so blood is checked regularly. It is used when other antipsychotics have not worked.
+
+**What does Gottesman's twin data show about schizophrenia?**
+Risk rose with genetic similarity, at about 48% for an identical twin and 17% for a non-identical twin. Because identical twin concordance is below 100%, genes cannot be the whole cause.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Schizophrenia is section 4.3.5.

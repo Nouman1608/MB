@@ -292,6 +292,23 @@ v = 8.0 m/s
 * Saying energy is "used up" by friction. It is transferred by heating and spread into the surroundings.
 * Writing kilojoules or km/h figures into an equation without converting.
 
+## Frequently asked questions
+
+**What is the difference between work done and power?**
+Work done is the energy transferred when a force moves an object, measured in joules. Power is how quickly that energy is transferred, measured in watts, where 1 W is 1 J per second.
+
+**Why does doubling speed make braking distance four times longer?**
+Kinetic energy is proportional to speed squared, so doubling the speed gives four times the kinetic energy. With the same braking force, the brakes must do four times the work, so the braking distance is four times as long.
+
+**How do you find the speed of a falling object using energy?**
+If no energy is dissipated, the gravitational potential energy lost equals the kinetic energy gained. Set m × g × h equal to ½ × m × v² and solve for v.
+
+**Why does a meteorite burn up in the atmosphere?**
+It moves very fast, so air resistance does a large amount of work against its motion. Its kinetic energy is transferred by heating to its surface and the surrounding air until it glows and burns up.
+
+**Is this topic tiered in OxfordAQA International GCSE Physics 9203?**
+No. The qualification is untiered, so all of section 3.2.1, Forces and energy, is for every candidate.
+
 ## Official syllabus
 
 This guide is aligned to section 3.2.1 of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA.

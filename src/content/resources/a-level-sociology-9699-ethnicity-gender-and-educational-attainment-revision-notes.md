@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense the [Ethnicity, gender and educational attainment study guide](/resources/a-level-sociology-9699-ethnicity-gender-and-educational-attainment/). Read that first if a study or term below is new to you.
@@ -151,6 +153,20 @@ No studies are named in the syllabus for these sections. The studies below are w
 - Treating the crisis of masculinity as fact rather than a debated idea.
 - Forgetting class when evaluating gender or ethnicity.
 - Ending an essay with a summary rather than a judgement.
+
+## Frequently asked questions
+
+**Does the Cambridge 9699 syllabus name studies for ethnicity and gender in education?**
+No. No studies are named in the syllabus for sections 6.3 and 6.4, so the studies used in these notes are well-established examples.
+
+**What is intersectionality?**
+Intersectionality is the idea that class, ethnicity and gender combine, so their effects on attainment cannot be studied one at a time.
+
+**What did Mirza find about the young women she studied?**
+They did well at school, but a race- and gender-segregated labour market limited their jobs, showing a pro-education outlook does not guarantee a fair outcome.
+
+**Is the crisis of masculinity a fact?**
+No. It is a debated idea, so treat it as an argument to evaluate. One suggested cause is the decline of manual jobs that once needed few qualifications.
 
 ## Next steps
 

@@ -181,6 +181,20 @@ Cognitive therapy (often called CBT for psychosis) is usually given alongside me
 
 Continue with the [revision notes](/resources/oxfordaqa-a-level-psychology-9685-schizophrenia-revision-notes/), test yourself with the [practice questions](/resources/oxfordaqa-a-level-psychology-9685-schizophrenia-practice/), and see the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).
 
+## Frequently asked questions
+
+**What is Frith's explanation of schizophrenia?**
+Frith (1992) argued that symptoms come from faulty information processing, especially a problem of metarepresentation, so a person may experience their own inner speech as an external voice.
+
+**What is the difference between typical and atypical anti-psychotics?**
+Typical anti-psychotics, such as chlorpromazine and haloperidol, block D2 receptors. Atypical anti-psychotics, such as clozapine, risperidone and olanzapine, act on dopamine and other neurotransmitters such as serotonin.
+
+**What is the treatment aetiology fallacy?**
+It is the mistake of assuming that because a drug reduces symptoms, the drug's target must be the cause of the disorder.
+
+**Does good reliability prove a diagnosis is valid?**
+No. Modern manuals improve inter-rater reliability, but two clinicians can agree and still both be wrong, so reliability alone does not prove validity.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards), section 3.3.2 Schizophrenia; Unit 3 details in section 2.3.

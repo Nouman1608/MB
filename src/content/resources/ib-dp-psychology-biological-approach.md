@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-biological-approach"
-description: "The biological approach's four topics -- brain and behaviour, hormones and pheromones, genetics and behaviour, and (HL only) the role of animal research -- one of three compulsory core approaches of IB Diploma Programme Psychology, first assessment 2019, examined on Paper 1, and how to build evaluative rather than purely descriptive answers."
+description: "Study guide to the IB DP Psychology biological approach on Paper 1: brain and behaviour, hormones and pheromones, genetics, and HL animal research."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -256,6 +256,20 @@ applied to human behaviour.
 - Connect biological-approach research design and ethics (such as
   informed consent for physiological measures) to your own internal
   assessment write-up.
+
+## Frequently asked questions
+
+**What are the four topics of the IB Psychology biological approach?**
+The IB Psychology guide (first assessment 2019) lists the relationship between the brain and behaviour, hormones and pheromones, and genetics and behaviour for SL and HL, plus the role of animal research in understanding human behaviour for HL only.
+
+**Why do researchers use animals to study human behaviour?**
+Animals are used when a procedure would be unethical or impractical in humans, when close control over genes and environment is needed, or when a short lifespan lets effects be seen across generations.
+
+**What are the 3Rs in animal research?**
+The 3Rs are replacement, reduction and refinement. Many research frameworks apply them when judging whether animal research is justified.
+
+**Why are twin and adoption studies used?**
+Twin studies compare concordance in identical and non-identical twins to estimate a genetic contribution. Adoption studies compare adopted people with biological and adoptive relatives to help separate genetic from environmental influence.
 
 ## Official syllabus
 

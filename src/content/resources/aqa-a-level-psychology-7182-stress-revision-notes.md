@@ -156,6 +156,20 @@ When you are ready, try the [Stress practice questions](/resources/aqa-a-level-p
 - Using a generic "gender difference" point without evidence, or ignoring Tamres et al.'s finding that women use most strategies more, not only emotion-focused ones.
 - Writing an application answer with no reference to the scenario's details.
 
+## Frequently asked questions
+
+**What is the difference between the SAM pathway and the HPA system?**
+The SAM pathway is fast: it uses the sympathetic nervous system and the adrenal medulla to release adrenaline. The HPA system is slower: it uses CRH and ACTH to make the adrenal cortex release cortisol.
+
+**What are the three stages of the general adaptation syndrome?**
+Selye's three stages are the alarm reaction, resistance and exhaustion. Linking the exhaustion stage to illness is a common place to gain or lose marks.
+
+**What are the three phases of stress inoculation therapy?**
+They are conceptualisation, skills acquisition and rehearsal, and application and follow-through. You need to say what happens in each phase, not just name them.
+
+**What are the three types of social support?**
+Instrumental support is practical help, emotional support is care and listening, and esteem support boosts a person's belief in their own ability.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Stress is section 4.3.7 (Option 2, topic 14), assessed in Paper 3: Issues and Options in Psychology, Section C.

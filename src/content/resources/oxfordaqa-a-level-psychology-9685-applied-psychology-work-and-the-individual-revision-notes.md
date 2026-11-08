@@ -172,6 +172,20 @@ The four bullets of 3.4.3 are your checklist:
 
 For whole-course exam technique, see the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).
 
+## Frequently asked questions
+
+**What is the difference between risky shift and group polarisation?**
+Risky shift is a group decision that is riskier than the average of members' private decisions. Group polarisation is a shift further in whatever direction the group already leaned, which can be cautious.
+
+**What is the difference between AD and CE features in Warr's vitamin model?**
+Additional decrement (AD) features, such as personal control and variety, help up to a point and then harm in excess. Constant effect (CE) features, such as pay and security, help and do no harm in excess.
+
+**What did Bosma et al. (1997) find in the Whitehall II study?**
+Low job control predicted new coronary heart disease among London civil servants, while job demands were not related to the risk.
+
+**What is the SIDE model of deindividuation?**
+The SIDE model says anonymity strengthens group identity, so people follow the local group's norms, which can be antisocial or prosocial. Classic deindividuation theory says anonymity simply removes restraint.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards). Section 3.4.3 Applied psychology: Work and the individual; assessed in Unit 4: Approaches and application, Section C.

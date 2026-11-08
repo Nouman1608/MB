@@ -24,7 +24,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-social-context-and-behaviour-8182"
     subtopic: "psychological-problems-8182"
-description: "Original exam-style practice questions with full worked answers on social influence, language and communication, brain and neuropsychology, and psychological problems."
+description: "Practice questions and answers on social influence, language, brain and neuropsychology, and psychological problems for AQA GCSE Psychology 8182 Paper 2."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -148,3 +148,17 @@ Do **not** credit the presence of other bystanders or the cost of helping as fac
 ## Approaching Social Context and Behaviour questions
 
 In Paper 2, social influence sets situational (social) factors against dispositional ones, and psychological problems sets biological explanations against psychological ones; the strongest answers make the relevant contrast explicit rather than describing one side only. When a question gives a novel scenario — a stressful situation, an addiction case study, a crowd event — identify which named theory or study it is testing before writing, since Paper 2 rewards application to unfamiliar contexts over recalled description just as much as Paper 1 does. Where a question asks you to "compare" or "explain the difference between" two explanations, structure the answer so the comparison itself earns marks, not just two separate descriptions placed next to each other.
+
+## Frequently asked questions
+
+**What do these AQA GCSE Psychology 8182 Paper 2 practice questions cover?**
+They cover social influence, language, thought and communication, brain and neuropsychology, and psychological problems, including named studies such as Asch, Milgram, Piliavin and Kaij.
+
+**How should you answer a scenario question in GCSE Psychology Paper 2?**
+Identify which named theory or study the scenario is testing, make the relevant contrast explicit, such as social versus dispositional factors, and apply it to the details given.
+
+**Do you need to know named studies for AQA GCSE Psychology Paper 2?**
+Yes. Questions often name studies such as Asch, Milgram, Piliavin, Von Frisch, Penfield, Tulving, Wiles and Kaij, and you need to be able to say what each actually found.
+
+**What are common mistakes in GCSE Psychology Paper 2 answers?**
+Students often treat conformity and obedience as the same process, reverse Piaget's and Sapir-Whorf's positions, and list explanations of depression or addiction without comparing them when asked to.

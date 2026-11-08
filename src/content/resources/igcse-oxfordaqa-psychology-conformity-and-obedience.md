@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "social-influences-9218"
-description: "Asch's conformity research, Milgram's obedience studies, Agency theory and Adorno's Authoritarian Personality theory -- the conformity and obedience content within Social Influence (3.2.2), OxfordAQA International GCSE Psychology (9218)."
+description: "Study guide to conformity and obedience in OxfordAQA International GCSE Psychology (9218) 3.2.2: Asch, Milgram, Agency theory and the Authoritarian Personality."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -177,6 +177,20 @@ culture and proximity.
 dispositional explanation of obedience.
 - Practise answers that name one social and one dispositional factor
 side by side, as this comparison structure is commonly tested.
+
+## Frequently asked questions
+
+**What did Asch find about conformity?**
+Participants conformed to the wrong majority on around 37% of critical trials, and around 75% conformed at least once. Conformity rose as the majority grew from one to three, then levelled off.
+
+**What did Milgram find about obedience?**
+Around 65% of participants obeyed to the maximum voltage level, despite visible distress. No real shocks were given.
+
+**What are the four elements of Milgram's Agency theory?**
+The four elements named in the 9218 specification are agency, authority, culture and proximity. Agency theory is a social, situational explanation of obedience.
+
+**How does anonymity affect conformity?**
+Anonymity tends to reduce conformity, because being identifiable increases the social pressure to agree publicly with the majority even when privately disagreeing.
 
 ## Related resources
 

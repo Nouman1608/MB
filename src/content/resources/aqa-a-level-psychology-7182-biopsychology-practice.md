@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-psychology-in-context-7182"
     subtopic: "biopsychology-7182"
-description: "Original practice questions with marked answers on AQA A-level Psychology 7182 Biopsychology, from neurons and adrenaline to split brains and the endocrine system."
+description: "Original AQA A-level Psychology 7182 Biopsychology practice questions with marked answers on neurons, adrenaline, brain scanning, split brains and plasticity."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

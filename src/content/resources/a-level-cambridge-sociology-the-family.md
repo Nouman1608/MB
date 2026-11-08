@@ -25,13 +25,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-the-family-9699"
     subtopic: "age-and-family-life-9699"
-description: "Functionalist, Marxist and feminist perspectives on the family, family diversity and social change, and gender and age within family life -- the full content of Paper 2 for Cambridge AS & A Level Sociology (9699)."
+description: "Study guide to Paper 2 The Family in Cambridge International AS & A Level Sociology 9699: perspectives, family diversity, gender roles and age in family life."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Paper 2 – The Family is worth 60 marks, 1 hour 30 minutes, and is one
@@ -165,6 +167,20 @@ finer internal detail in 4.1), keep a running note of which feminist
 strand -- liberal, radical or Marxist -- makes which specific argument,
 since conflating them is a common source of lost marks in essay
 answers.
+
+## Frequently asked questions
+
+**How is Cambridge 9699 Sociology Paper 2 assessed?**
+Paper 2 is worth 60 marks and lasts 1 hour 30 minutes. Section A has three compulsory questions and Section B is one 26-mark essay chosen from two.
+
+**What are the New Right and postmodernist views of family diversity?**
+Broadly, the New Right treats growing family diversity as a social problem, while postmodernist accounts treat it as evidence of greater individual choice.
+
+**What is emotion work?**
+Emotion work is the often-unequal effort of managing a family's emotional life. It is examined alongside housework, childcare and power in conjugal roles.
+
+**Why should you separate liberal, radical and Marxist feminism?**
+Each strand makes different arguments about inequality and power in the family, and conflating them is a common source of lost marks in essay answers.
 
 ## Official syllabus
 

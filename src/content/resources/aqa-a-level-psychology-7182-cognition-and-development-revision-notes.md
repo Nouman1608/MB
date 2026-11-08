@@ -135,6 +135,20 @@ Test yourself with the [practice questions](/resources/aqa-a-level-psychology-71
 - In application questions, explaining the theory but never using the names and details from the scenario.
 - Adding a debate (such as nature-nurture) as a final sentence instead of using it to judge the theory. The [Issues and debates revision notes](/resources/aqa-a-level-psychology-7182-issues-and-debates-revision-notes/) help with this.
 
+## Frequently asked questions
+
+**What is the difference between assimilation and accommodation?**
+Assimilation fits new information into an existing schema without changing it. Accommodation changes a schema, or forms a new one, because the new information does not fit.
+
+**What are Piaget's four stages of cognitive development?**
+In order they are sensorimotor, pre-operational, concrete operational and formal operational. Piaget gave the approximate ages as 0 to 2, 2 to 7, 7 to 11 and 11 plus.
+
+**Who introduced the term scaffolding?**
+The term scaffolding comes from Wood, Bruner and Ross (1976), not from Vygotsky himself. It describes temporary support from an expert that is reduced as the learner gains skill.
+
+**What is the difference between Selman's levels and Piaget's stages?**
+Selman's levels describe the development of social perspective-taking, while Piaget's stages describe the development of logical thinking. Confusing the two is a common way to lose marks.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025, section 4.3.4 Cognition and development (Paper 3, Section B). Use these notes with the [study guide](/resources/aqa-a-level-psychology-7182-cognition-and-development/) and the [Approaches in Psychology revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/) for the cognitive approach and schemas.

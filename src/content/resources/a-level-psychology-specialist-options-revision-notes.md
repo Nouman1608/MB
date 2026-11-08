@@ -19,7 +19,7 @@ syllabusTopics:
     topic: "health-psychology-9990"
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
-description: "Condensed recall notes on Clinical, Consumer, Health and Organisational Psychology, and how each connects back to Research Methods, for Cambridge A Level Psychology Paper 3 (9990)."
+description: "Revision notes on Clinical, Consumer, Health and Organisational specialist options for Cambridge A Level Psychology 9990, with worked examples and exam traps."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -189,3 +189,17 @@ theory. 5. A strong answer applies concepts like persuasion or
 decision-making biases to a real, specific advertising or purchasing
 scenario; a weak answer discusses consumer behaviour only in general,
 unapplied terms.
+
+## Frequently asked questions
+
+**Which specialist options are on the Cambridge A Level Psychology 9990 syllabus?**
+There are four: Clinical, Consumer, Health and Organisational Psychology. Your school chooses two, so confirm with your teacher which ones you are taking before you revise.
+
+**What approaches do the specialist options apply?**
+Each option applies the four core approaches from AS Paper 1, which are the biological, cognitive, learning and social approaches, to a specific applied context.
+
+**How does Herzberg's two-factor theory explain a failed bonus scheme?**
+Herzberg classifies pay as a hygiene factor, which can prevent dissatisfaction but does not on its own create motivation. Motivation instead needs motivators such as recognition or job enrichment.
+
+**Why should past-paper practice match your own options?**
+A past paper on an option your school did not teach gives you no useful practice, however good the questions are. Source practice against the two options your course covers.

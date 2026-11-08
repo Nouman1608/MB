@@ -178,6 +178,20 @@ Robert Selman interviewed children about social dilemmas, such as a story in whi
 - Claiming mirror neurons "prove" empathy. The evidence is mainly correlational.
 - Listing evaluation points without linking them back to the theory in the question.
 
+## Frequently asked questions
+
+**What does AQA A-level Psychology 7182 Cognition and development cover?**
+Section 4.3.4 covers Piaget's theory, Vygotsky's theory, Baillargeon's explanation of early infant abilities, and social cognition, including Selman's levels of perspective-taking, theory of mind, the Sally-Anne study and the mirror neuron system.
+
+**What is violation of expectation research?**
+Infants are shown a possible and an impossible event, and their looking time is measured. If they look longer at the impossible event, this is taken to suggest it violated what they expected.
+
+**What did McGarrigle and Donaldson's Naughty Teddy study show?**
+Many more 4 to 6-year-olds conserved number when Naughty Teddy messed up the counters than in Piaget's version, where an adult changed the row deliberately. This suggests Piaget's task may have signalled that the answer should change.
+
+**Do mirror neurons prove that we understand others' intentions?**
+No. Mukamel and colleagues (2010) found cells in humans that respond to both doing and seeing actions, but much human evidence comes from fMRI and is correlational, so it does not show that mirror neurons cause understanding.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025, section 4.3.4 Cognition and development, assessed in Paper 3: Issues and Options in Psychology, Section B. Check the [7182 checklist](/checklists/aqa/a-level/psychology/) as you revise.

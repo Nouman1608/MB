@@ -269,6 +269,20 @@ others.
   diffusion-of-responsibility effect in this setting, which led the researchers to propose a
   cost–reward (arousal: cost–reward) model of helping.
 
+## Frequently asked questions
+
+**How many core studies are there in Cambridge 9990 Psychology Paper 1?**
+There are 12 compulsory core studies, three for each of the biological, cognitive, learning and social approaches. They are listed in section 3.1.1 of the syllabus.
+
+**Which issues and debates are tested on 9990 Paper 1?**
+The five AS Level issues and debates are the application of psychology to everyday life, individual and situational explanations, nature versus nurture, the use of children in research and the use of animals in research. Reductionism, determinism, idiographic versus nomothetic and cultural differences belong to the A Level specialist options.
+
+**What do you need to know about each core study for Paper 1?**
+The syllabus expects the psychology being investigated, the background, the aims, the procedure, the ethical issues, the results, the conclusions, and the strengths and weaknesses of the study. A precisely recalled named study earns more credit than a vague description.
+
+**How should you revise issues and debates for Cambridge A Level Psychology?**
+Apply each debate to the four approaches and their core studies rather than revising it as a separate block. For example, the biological approach leans toward nature and the learning approach toward nurture.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Psychology 9990 syllabus for

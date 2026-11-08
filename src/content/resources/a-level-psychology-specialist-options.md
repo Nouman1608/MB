@@ -19,7 +19,7 @@ syllabusTopics:
     topic: "health-psychology-9990"
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
-description: "Clinical, Consumer, Health and Organisational Psychology -- the four specialist options for Paper 3 of Cambridge A Level Psychology 9990, of which candidates study 2."
+description: "The four specialist options for Cambridge A Level Psychology 9990 Papers 3 and 4: Clinical, Consumer, Health and Organisational, of which you study two."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -139,6 +139,20 @@ rather than treating any single explanation as complete on its own.
 - Answering with only common-sense explanation for behaviour (in any
   of the four contexts) instead of applying the specific psychological
   theory the question is testing.
+
+## Frequently asked questions
+
+**How is Paper 3 of Cambridge A Level Psychology 9990 structured?**
+On Paper 3 you answer all the questions on the two specialist options you have studied, with each option out of 30 marks. Paper 3 is an A Level-only paper.
+
+**Are the same specialist options examined on Paper 3 and Paper 4?**
+Yes. The same two options are examined on both papers, but the syllabus states that the topic areas assessed for each option on Paper 3 will be different from those on Paper 4.
+
+**What is on Paper 4 of Cambridge A Level Psychology?**
+Paper 4 Section A has questions on the same two specialist options, each out of 18 marks, followed by one planning question in Section B.
+
+**What makes a strong Clinical Psychology answer?**
+Strong answers discuss more than one classification system or treatment approach and weigh their relative strengths, rather than presenting one diagnostic or treatment model as uncontested.
 
 ## Official syllabus
 

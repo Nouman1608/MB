@@ -149,6 +149,20 @@ Neural explanations link offending to brain differences, especially in the prefr
 - Describing studies in essays without saying whether they support or challenge the explanation.
 - Forgetting to use the scenario in applied extended answers.
 
+## Frequently asked questions
+
+**Which section of AQA 7182 Paper 3 tests Forensic Psychology?**
+Forensic Psychology is topic 16 in Option 3 and is assessed in Paper 3, Issues and Options in Psychology, Section D. The section uses multiple choice, short answer and extended writing questions.
+
+**How precise should calculation answers be in AQA Psychology?**
+Give answers to the precision the question asks for, such as one decimal place, and show your working. Rounding to the wrong precision or leaving out working are common ways to lose marks.
+
+**What is the difference between a crime scene feature and an offender characteristic?**
+A crime scene feature describes what is found at the scene, such as evidence left behind. An offender characteristic describes the person, so it does not answer a question about the crime scene.
+
+**How are the extended Forensic Psychology questions marked?**
+The real exam marks extended answers with levels of response, not point by point. In applied questions, refer to the person in the scenario throughout to reach the top level.
+
 ## Next steps
 
 - Check your weak spots with a [free diagnostic](/diagnostics/).

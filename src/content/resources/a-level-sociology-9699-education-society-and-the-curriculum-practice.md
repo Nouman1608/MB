@@ -28,8 +28,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,6 +142,20 @@ Explain two ways in which this course is an example of an ethnocentric curriculu
 - Confusing absolute and relative mobility.
 - Treating cultural capital as money.
 - Ending an evaluate or to-what-extent essay without a reasoned judgement.
+
+## Frequently asked questions
+
+**Which sections of Cambridge 9699 Sociology do these questions cover?**
+They cover sections 5.1 (Theories about the role of education), 5.2 (Education and social mobility) and 5.3 (Influences on the curriculum) of Paper 3, Education.
+
+**How are the extended Paper 3 Education questions marked?**
+The real exam marks extended answers with levels of response, not point by point. The answers here show indicative creditworthy points, and an evaluate or to-what-extent essay needs a reasoned judgement.
+
+**How should you answer a question that asks for arguments against a view?**
+Give arguments against the view in the quotation, as the question asks. Arguing for the view instead is a common way to lose marks.
+
+**What are common mistakes in 9699 Education practice questions?**
+Students often give one detailed point when two or three are asked for, ignore the source in source-based questions, and confuse percentages with percentage points.
 
 ## Next steps
 

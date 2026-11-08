@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "social-influences-9218"
-description: "Condensed recall notes on Asch, Milgram, Agency theory and the Authoritarian Personality for OxfordAQA International GCSE Psychology 3.2.2 Social Influence (9218)."
+description: "Revision notes on Asch, Milgram, Agency theory and the Authoritarian Personality for 3.2.2 Social Influence in OxfordAQA International GCSE Psychology 9218."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -153,6 +153,20 @@ often linked to a strict upbringing. 5. The psychological state in
 which a person sees themselves as an instrument carrying out another
 person's wishes, and so no longer feels personally responsible for
 their actions.
+
+## Frequently asked questions
+
+**What is the difference between conformity and obedience?**
+Conformity is changing behaviour to match a group's norms, usually without a direct instruction. Obedience is changing behaviour in direct response to an order from an authority figure.
+
+**What are the three social factors affecting conformity in the 9218 specification?**
+The three social factors are group size, task difficulty and anonymity. The specification also names personality and expertise as dispositional factors.
+
+**What is legitimate authority?**
+Legitimate authority is an authority figure whose right to direct others is socially accepted, such as a scientist, teacher or police officer. It increases obedience compared with an authority figure without recognised legitimacy.
+
+**Why is Milgram's study discussed in research ethics?**
+It involved deception about the true purpose of the study and caused psychological distress to participants, so it is a standard reference point when evaluating research ethics.
 
 ## Related resources
 

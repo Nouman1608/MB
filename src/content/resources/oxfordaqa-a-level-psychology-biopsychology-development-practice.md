@@ -22,7 +22,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-biopsychology-development-9685"
     subtopic: "research-methods-1-9685"
-description: "Original exam-style practice questions with full worked answers on biopsychology, cognitive development, and research methods 1 for OxfordAQA A-Level Psychology (9685) Unit 2."
+description: "Practice questions and answers on biopsychology, cognitive development and research methods 1 for OxfordAQA International A-Level Psychology 9685 Unit 2."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -114,3 +114,17 @@ Related: [Biopsychology, Development and Research Methods 1 study guide](/resour
 - Answering a correlation question as though it proves causation, or failing to name a specific, plausible third variable.
 - Describing split-brain research without evaluating its limitations — a description alone will not reach the top band on an "evaluate" question.
 - Explaining the fight-or-flight response as a list of disconnected facts rather than a single ordered sequence.
+
+## Frequently asked questions
+
+**What do these OxfordAQA 9685 Unit 2 practice questions cover?**
+They cover the nervous system, synaptic transmission, localisation of function, the fight-or-flight response, Piaget and Vygotsky, the Sally-Anne study, split-brain research and research methods 1.
+
+**How do you identify a skewed distribution from the mean and median?**
+If the mean is higher than the median, a few very high scores are pulling the mean up, which suggests a positively skewed distribution.
+
+**What is a pilot study used for?**
+A pilot study is a small-scale trial run that lets the researcher check the procedure, instructions and materials work before the main study.
+
+**What are common mistakes in Unit 2 practice questions?**
+Students often treat the autonomic nervous system as separate from the peripheral system, name a Piaget stage without its defining feature, and answer correlation questions as if they prove causation.

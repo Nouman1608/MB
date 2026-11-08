@@ -151,6 +151,20 @@ Revise first with the [issues and debates study guide](/resources/aqa-a-level-ps
 - Listing three levels of explanation without saying what each level explains.
 - Ending an extended answer without a judgement, when Paper 3 gives evaluation the largest weighting.
 
+## Frequently asked questions
+
+**Where are issues and debates examined in AQA A-level Psychology 7182?**
+Issues and debates is compulsory content assessed in Paper 3, Issues and Options in Psychology. The specification expects you to illustrate your answers with topics studied elsewhere in the course.
+
+**What is the difference between social sensitivity and general research ethics?**
+Social sensitivity is about the consequences of research for the wider group the participants represent, and how findings may be used. Answering with consent and debriefing points alone answers a different question.
+
+**Should you use examples from other topics in issues and debates answers?**
+Yes. The specification expects you to illustrate issues and debates answers with topics studied elsewhere in the course, and a named topic used as evidence lifts an answer.
+
+**What are common mistakes in issues and debates questions?**
+Students often define a term without applying it to the person or data in the question, say twin studies prove a genetic cause, and end extended answers without a judgement even though Paper 3 gives evaluation the largest weighting.
+
 ## Next steps
 
 - Check your weaker areas with the [free diagnostics](/diagnostics/).

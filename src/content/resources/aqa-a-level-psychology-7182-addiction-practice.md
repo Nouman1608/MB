@@ -142,6 +142,20 @@ Drug therapy, such as nicotine replacement therapy, reduces withdrawal symptoms 
 - Evaluating therapies only on whether they work, with nothing on appropriateness.
 - In extended answers, describing studies at length without saying what they show about the explanation.
 
+## Frequently asked questions
+
+**Which paper is Addiction examined on in AQA A-level Psychology 7182?**
+Addiction is assessed in Paper 3, Issues and Options in Psychology, Section D. The section uses multiple choice, short answer and extended writing questions worth 24 marks.
+
+**How are the 16-mark Addiction essays marked?**
+Extended answers are marked with levels of response, not point by point. The marks shown in these answers are indicative content to help you see what a strong answer includes.
+
+**What is the difference between aversion therapy and covert sensitisation?**
+Aversion therapy pairs the addictive behaviour with a real unpleasant stimulus. Covert sensitisation pairs it with an unpleasant consequence that the person imagines.
+
+**What are common mistakes in Addiction exam answers?**
+Common mistakes include explaining cue reactivity as operant conditioning when it is classical conditioning, ignoring the scenario's details, and evaluating therapies only on effectiveness with nothing on appropriateness.
+
 ## Next steps
 
 - Check any weak areas against the [Addiction study guide](/resources/aqa-a-level-psychology-7182-addiction/) and review learning theory in the [approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/).

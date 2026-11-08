@@ -157,6 +157,20 @@ Practise with the [Forensic Psychology practice questions](/resources/aqa-a-leve
 - Evaluating restorative justice only as "good for victims", with no evidence or limitation.
 - Writing long AO1 in an extended answer and leaving little room for AO3.
 
+## Frequently asked questions
+
+**What is the difference between top-down and bottom-up offender profiling?**
+The top-down typology approach matches a crime scene to pre-existing FBI types, organised or disorganised. The bottom-up data-driven approach builds a profile from statistical patterns in databases of past crimes.
+
+**What is the difference between hostile attribution bias and minimalisation?**
+Hostile attribution bias is interpreting other people's ambiguous behaviour as hostile. Minimalisation is downplaying the seriousness or harm of your own offence.
+
+**What are the four aims of custodial sentencing?**
+They are deterrence, incapacitation, retribution and rehabilitation. You should also know the psychological effects of custody, such as institutionalisation and prisonisation.
+
+**How much of a Forensic Psychology essay should be evaluation?**
+Most of it. The specification's approximate Paper 3 weightings are 9 to 12% of the A-level for AO1 and 15 to 17% for AO3, so keep description brief and accurate.
+
 ## Next steps
 
 Revise the learning and biological approaches in the [Approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). Then try the [practice questions](/resources/aqa-a-level-psychology-7182-forensic-psychology-practice/).

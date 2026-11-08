@@ -13,13 +13,15 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-4-globalisation-media-religion-9699"
-description: "Original exam-style practice questions with full worked answers on globalisation, media and religion, and how to link substantive content back to research methods, for Cambridge International A Level Sociology (9699) Paper 4."
+description: "Practice questions with worked answers on globalisation, media and religion for Cambridge International A Level Sociology 9699 Paper 4, plus exam strategy."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -86,6 +88,17 @@ Related: [Globalisation, Media and Religion revision notes](/resources/a-level-c
 **7.** A strong answer states the social-cohesion view directly — that religion can bind a community together through shared beliefs, rituals and values, reinforcing collective identity and social solidarity — before weighing at least one alternative view. An alternative view holds that religion can also be a source of social change and conflict, for example where religious belief motivates challenges to existing social or political arrangements, or where competing religious groups become a source of social division rather than cohesion. A balanced evaluation should note that whether religion functions primarily as cohesive or as a source of change/conflict may depend on the specific society, historical period, or religious movement being discussed, rather than one function being universally true of religion as such, and should avoid presenting either view as simply correct without engaging with the other. **[8]** (Marks for stating the cohesion view with genuine explanation, presenting a specific and correctly framed alternative, and a reasoned rather than one-sided evaluation.)
 
 **8.** This is a reasonable strategy, since Paper 4 only requires answers on 2 of the 3 sections, so concentrating deep revision on two sections closer to the exam allows more thorough preparation of the content most likely to be needed, rather than spreading equal depth across all three. The risk is that if a candidate's chosen two sections both turn out to have an unexpectedly difficult or unfamiliar question on the day, having revised the third section only to a working level leaves less depth to fall back on than if all three had been revised more evenly; the benefit (greater depth on two sections) is therefore traded against reduced flexibility if the exam's specific questions do not suit the two chosen sections as well as anticipated. **[6]** (Marks for correctly identifying the strategy's benefit, and a genuine, specific risk rather than a vague restatement.)
+
+## Frequently asked questions
+
+**Which Cambridge Sociology paper covers globalisation, media and religion?**
+Globalisation, media and religion are the three sections of Paper 4 of Cambridge International AS & A Level Sociology 9699.
+
+**Are these Cambridge 9699 Sociology questions from past papers?**
+No. They are original exam-style questions with worked answers, written for revision alongside the official syllabus and past papers.
+
+**Which syllabus do these questions follow?**
+They follow the Cambridge International AS & A Level Sociology (9699) syllabus for 2024, 2025 and 2026.
 
 ## Official syllabus
 

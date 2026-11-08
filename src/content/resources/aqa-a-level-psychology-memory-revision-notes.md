@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
     subtopic: "memory-7182"
-description: "Condensed recall notes on the multi-store model and the working memory model -- coding, capacity, duration and each component's role -- for AQA A-Level Psychology (7182) Memory."
+description: "Revision notes on the multi-store and working memory models for AQA A-Level Psychology (7182) Memory: coding, capacity, duration and each component's role."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -124,3 +124,17 @@ or for both combined in a single extended-writing question worth significant mar
 5. Why is the working memory model not simply a rival to the multi-store model?
 
 **Answers:** 1. 7±2 items, identified by Miller. 2. Coding, capacity and duration. 3. The central executive. 4. Because the two tasks draw on different WMM components (phonological loop for talking, visuo-spatial sketchpad for the map), so they interfere with each other only a little. 5. Because it is a more detailed account of what happens specifically within the multi-store model's STM component, not a separate account of memory as a whole.
+
+## Frequently asked questions
+
+**What is the capacity and duration of each store in the multi-store model?**
+The sensory register has a very large capacity and lasts under half a second, short-term memory holds about 7±2 items for 18 to 30 seconds unrehearsed, and long-term memory is potentially unlimited and can last a lifetime.
+
+**What evidence supports the working memory model?**
+Dual-task studies show selective interference: two tasks using different components can be done together, but two tasks using the same component disrupt each other.
+
+**What is the main weakness of the working memory model?**
+The central executive's exact role remains vague and difficult to test directly, because it has no proposed structure of its own beyond coordinating attention.
+
+**What is the main weakness of the multi-store model?**
+It oversimplifies short-term memory as a single unitary store, which the working memory model addresses by splitting it into separate components.
