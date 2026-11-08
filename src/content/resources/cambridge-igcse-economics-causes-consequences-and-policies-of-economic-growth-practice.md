@@ -150,6 +150,20 @@ These questions cover sections 4.6.4 to 4.6.6 of the Cambridge IGCSE Economics 0
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your weakest areas.
 - [Book a free trial class](/trial/) for help with evaluation answers.
 
+## Frequently asked questions
+
+**Does a rise in demand shift the production possibility curve?**
+No. A rise in total demand moves the economy from a point inside the PPC towards the curve by using idle resources. Only more or better resources, investment or technology shift the whole curve to the right.
+
+**Why must investment be net investment to raise capacity?**
+Machines wear out, so part of gross investment only replaces capital used up (depreciation). Only net investment, gross investment minus depreciation, adds to the capital stock and shifts the PPC outwards.
+
+**How do you combine two percentage changes in a growth calculation?**
+Multiply them rather than adding them. For example, a 5% rise in output per worker and a 2% rise in the labour force raise potential output by slightly more than 7%, because the two changes multiply.
+
+**How do you evaluate a growth policy in Cambridge IGCSE Economics 0455?**
+Explain the steps from the policy to higher output, then state a condition the result depends on, such as whether there is spare capacity, how long the delay is, or what the policy costs. A bare "it depends" earns little.
+
 ## Official syllabus
 
 Aligned to the Cambridge IGCSE Economics 0455 syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 4.6.4 to 4.6.6.

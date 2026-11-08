@@ -283,6 +283,20 @@ Use a chain of reasoning, then a judgement.
 - Working out market share using the wrong total (the firm's own sales, not the market).
 - Writing a percentage change the wrong way round.
 
+## Frequently asked questions
+
+**What are the primary, secondary and tertiary sectors?**
+Primary sector firms extract or grow natural resources, such as farming and mining. Secondary sector firms make goods or build things, such as manufacturing and construction. Tertiary sector firms provide services, such as retail, banking and health care.
+
+**What is the difference between internal and external growth?**
+Internal (organic) growth comes from within the firm, for example selling more, opening branches or entering new markets. External growth comes from joining another firm through a merger or takeover; it is faster but often costlier and riskier.
+
+**What is the difference between internal and external economies of scale?**
+Internal economies arise inside one firm as it grows, such as bulk buying or cheaper finance. External economies come from the growth of the whole industry in an area, such as a pool of skilled labour or specialist suppliers nearby, and benefit every firm in it.
+
+**Do economies of scale mean higher profit?**
+Economies of scale mean lower average cost as output rises, not higher profit. Describing them as "more profit" is a frequent way to lose marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge Assessment International Education, section 3.5 (Firms).

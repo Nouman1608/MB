@@ -192,6 +192,20 @@ Read the [study guide](/resources/cambridge-igcse-economics-demand-and-supply-cu
 - Check where you stand with the [free 10-minute diagnostics](/diagnostics/).
 - Or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between an increase in demand and an extension of demand?**
+An extension of demand is a movement along the curve caused by a fall in the good's own price. An increase in demand is a shift of the whole curve to the right caused by something else, such as higher income; using "increase in demand" for a price fall loses marks.
+
+**Does a tax increase or decrease supply?**
+A tax raises firms' costs, so it decreases supply and shifts the supply curve to the left (upwards). Treating a tax as an increase in supply is a common mistake.
+
+**How do you find market demand or supply from individual figures?**
+Add the quantities at each price, not the prices. On a diagram this is a horizontal sum of the individual curves.
+
+**What base should you use for a percentage change in quantity?**
+Divide the change by the original quantity, then multiply by 100. The same change gives a different percentage depending on the starting value, so check which value the question starts from.
+
 ## Official syllabus
 
 Syllabus document: Cambridge IGCSE Economics (0455), examination in 2026, version 2, sections 2.3 and 2.4. Publisher: Cambridge University Press & Assessment (Cambridge International Education).

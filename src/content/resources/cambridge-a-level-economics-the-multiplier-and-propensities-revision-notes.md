@@ -233,6 +233,20 @@ Back to Country J, but the tax rate rises from 20% to 30% with C = 60 + 0.75Yd a
 - Treating the multiplier as certain, with no comment on capacity, time or crowding out.
 - Stating that the economy is at full employment because it is in equilibrium.
 
+## Frequently asked questions
+
+**What is the formula for the multiplier in an open economy with a government?**
+The multiplier is k = 1/(mps + mrt + mpm), the reciprocal of the marginal propensity to withdraw. A larger share of leakages means a smaller multiplier.
+
+**What is the difference between the average and marginal propensity to consume?**
+The average propensity to consume is total consumption divided by disposable income at one level of income. The marginal propensity to consume is the change in consumption divided by the change in disposable income.
+
+**Does equilibrium national income mean full employment?**
+No. Equilibrium is where planned injections equal planned withdrawals, or where aggregate demand equals income. It shows where the economy settles, which may be below full employment.
+
+**What do you do if the mpc is given on disposable income?**
+Convert it before finding the multiplier. With tax rate t, only (1 - t) of each extra unit of income becomes disposable income, so k = 1/(1 - mpc(1 - t) + mpm).
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 9.1.1.

@@ -221,6 +221,20 @@ k = 1/(1 - 0.8 x 0.65 + 0.1) = 1/0.58 = 1.724. Y = 570 x 1.724 = 982.8, a fall o
 - Multiplying by the multiplier a total change in AD that includes induced spending. Apply it to the autonomous change only.
 - Giving a change in Y without its sign or units.
 
+## Frequently asked questions
+
+**Is the multiplier AS or A Level content in Cambridge 9708?**
+The multiplier is outcome 9.1.1 in the Cambridge International AS & A Level Economics 9708 syllabus. Topic 9 is A Level content, so it is examined on the A Level papers rather than at AS.
+
+**What is the multiplier in economics?**
+The multiplier is the ratio of the final change in national income to the initial change in injections or autonomous spending that caused it. It is greater than 1 because one person's spending becomes another person's income.
+
+**What are injections and withdrawals in the circular flow?**
+Injections are investment, government spending and exports. Withdrawals (leakages) are saving, taxation and imports, and national income is in equilibrium where planned injections equal planned withdrawals.
+
+**Why might the real multiplier be smaller than the formula predicts?**
+Near full capacity, extra spending raises prices more than output. Time lags, crowding out of private investment and changing propensities can also reduce the effect, and economies with high taxes or imports have small multipliers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 9.1.1.

@@ -222,6 +222,20 @@ How big the effects are depends on elasticity. If demand is inelastic, a minimum
 - Placing a price control on the non-binding side of equilibrium and then describing a shortage or surplus that would not appear.
 - Treating a control as only good or only bad. Always name who gains and who loses.
 
+## Frequently asked questions
+
+**Does section 3.1 of Cambridge 9708 cover the methods of government intervention?**
+No. Section 3.1 of the Cambridge International AS & A Level Economics 9708 syllabus covers the reasons for intervention. The methods, such as taxes, subsidies and direct provision, belong to section 3.2 and to topic 8 at A Level.
+
+**Why do governments intervene in markets for merit and demerit goods?**
+Because of imperfect information, people underestimate the benefit of merit goods and buy too little, and underestimate the harm of demerit goods and buy too much. The market quantity differs from what fully informed consumers would choose, so welfare could be higher with intervention.
+
+**Why might a government set a minimum price?**
+A minimum price can protect producer incomes, for example in farming where supply is uncertain, raise the price of a demerit good so people buy less, or raise earnings where the price is a wage. The cost is a surplus, higher prices for consumers and possible support for inefficient producers.
+
+**What is the paternalism argument against intervention?**
+Intervening in merit and demerit good markets assumes the government knows better than the consumer. Some people value freedom of choice for its own sake, and the size of the information gap cannot be observed directly, so the case for acting is partly a judgement.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028*, Subject content, section 3.1 Reasons for government intervention in markets, with definitions from section 1.6.

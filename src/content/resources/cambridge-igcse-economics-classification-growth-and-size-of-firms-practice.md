@@ -142,6 +142,20 @@ These questions cover section 3.5 (Firms) of the Cambridge IGCSE Economics 0455 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate market share?**
+Divide the firm's sales by the total sales in the market and multiply by 100. Using the firm's own sales or the wrong total as the base is a common error.
+
+**Can a firm's sales rise while its market share falls?**
+Yes. If the whole market grows faster than the firm's sales, its share falls even though it is selling more. Compare the firm's percentage rise with the market's rise.
+
+**How do you tell a horizontal merger from a vertical merger in a scenario?**
+A horizontal merger joins firms at the same stage of production in the same industry. A vertical merger joins firms at different stages, such as a firm and its supplier or a firm and the business that sells its product.
+
+**How do you answer an evaluation question on mergers in Cambridge IGCSE Economics 0455?**
+Give advantages and at least one drawback, use the figures in the question, and finish with a judgement. Answers that give only benefits of a merger lose marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge Assessment International Education, section 3.5 (Firms).

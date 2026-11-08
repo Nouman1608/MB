@@ -152,6 +152,20 @@ These questions cover sections 1.1 and 1.2 of the Cambridge International AS & A
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake when defining opportunity cost?**
+Writing "the cost of the thing" or adding all the alternatives together. Opportunity cost is the value of the next best alternative given up, so only one forgone option counts.
+
+**How do you tell a positive statement from a normative one?**
+A positive statement can be tested against evidence, even if it turns out to be wrong; a normative statement is a value judgement about what ought to be. Do not label a statement positive because it sounds true or normative because it mentions a policy or a government.
+
+**How do you answer a ceteris paribus question in Cambridge 9708 Economics?**
+Define ceteris paribus as "all other things being equal" and then apply it: identify which two variables the question is about and which other factors in the stem are changing at the same time.
+
+**How long is the short run in economics?**
+The short run is not a fixed number of months or years. It is the period when at least one factor of production cannot be changed, so its length differs from one industry to another.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 1.1 and 1.2 (Cambridge University Press & Assessment).

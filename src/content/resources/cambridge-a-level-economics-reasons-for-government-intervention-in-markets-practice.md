@@ -152,6 +152,20 @@ These questions cover section 3.1 of the Cambridge International AS and A Level 
 - Take one of our [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate a shortage or surplus under a price control?**
+Substitute the controlled price into both the demand equation and the supply equation, then find the gap between quantity demanded and quantity supplied. The quantity actually traded under a maximum price is the quantity supplied, not the quantity demanded.
+
+**Where must a maximum or minimum price be set to have an effect?**
+A maximum price (ceiling) only matters if it is set below the equilibrium price, and a minimum price (floor) only if it is set above it. A ceiling above equilibrium or a floor below it has no effect, so describing a shortage or surplus in that case loses marks.
+
+**Why is a good not public just because the state provides it?**
+In Cambridge 9708 Economics a public good is defined by being both non-excludable and non-rival. State provision is the government's response to non-provision by the market, not the definition, so an answer naming only one feature, or only who provides it, is incomplete.
+
+**How should you finish an evaluation answer on government intervention?**
+Reach an overall judgement rather than listing points. Say who gains and who loses, and state the condition the judgement depends on, such as the elasticity of demand or supply or how long the control lasts.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028*, Subject content, section 3.1 Reasons for government intervention in markets.

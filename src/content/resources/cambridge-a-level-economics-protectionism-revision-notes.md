@@ -212,6 +212,20 @@ Label the vertical axis price and the horizontal axis quantity. Draw home demand
 - Quoting percentages without saying what they are a percentage of.
 - Evaluation that lists points but never weighs them.
 
+## Frequently asked questions
+
+**What is protectionism in economics?**
+Protectionism is the use of government measures to shield domestic producers from foreign competition, usually by making imports dearer or scarcer, or by helping domestic firms sell more abroad. Free trade, or trade liberalisation, is the opposite: no deliberate barriers.
+
+**Who gets the revenue from an import quota?**
+It depends on who holds the licences. If the government auctions them it collects the gap between the home and world price, as with a tariff; if licences go free to domestic importers they keep it; and if foreign exporters hold the right to sell, they collect it.
+
+**What is the infant industry argument for protection?**
+A new industry may have high costs at a small scale, and protection gives it time to grow and gain economies of scale. The argument only works if the protection is removed once costs fall, which is a key point for evaluation.
+
+**Why might protection lead to retaliation?**
+If one country raises barriers, its trading partners may protect in return. Its own exporters then lose sales too and trade falls overall, and the more a country exports, the more it has to lose.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 6.2.

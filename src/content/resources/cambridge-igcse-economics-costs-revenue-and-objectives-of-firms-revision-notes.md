@@ -213,6 +213,20 @@ A greengrocer (invented) sells 500 kg of apples at 3.00 a kilo. TR = 1,500 and A
 - Naming an objective without applying it to the firm in the question.
 - Treating profit maximisation as the only objective every firm has.
 
+## Frequently asked questions
+
+**What is the difference between fixed and variable costs?**
+A fixed cost stays the same as output changes over the period being studied and must be paid even at zero output, such as rent. A variable cost rises as output rises, such as raw materials.
+
+**What is the difference between total revenue and average revenue?**
+Total revenue is price multiplied by quantity sold. Average revenue is total revenue divided by quantity sold, which equals the price when every unit sells at the same price.
+
+**What are the objectives of firms?**
+The syllabus names survival, social welfare, profit maximisation and growth. Different firms, and the same firm at different times, can have different objectives.
+
+**Do you need marginal cost and marginal revenue for Cambridge IGCSE Economics?**
+No. The Cambridge IGCSE Economics 0455 syllabus says marginal cost and marginal revenue are not required for section 3.7.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment (Cambridge International), section 3.7.

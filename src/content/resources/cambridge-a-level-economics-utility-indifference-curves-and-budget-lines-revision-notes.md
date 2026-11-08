@@ -209,6 +209,20 @@ Use the [course hub](/boards/cambridge/a-level/economics/) and the [printable ch
 - Listing limitations with no judgement on how serious each is.
 - Saying a consumer is "indifferent" between points on different curves.
 
+## Frequently asked questions
+
+**What is the equi-marginal principle?**
+A consumer with limited income maximises total utility by spending so that marginal utility per currency unit is equal across all goods: MU of A divided by price of A equals MU of B divided by price of B.
+
+**What is the slope of a budget line?**
+The slope, in absolute value, is the price of the good on the horizontal axis divided by the price of the good on the vertical axis. Writing it the other way round is a frequent mistake.
+
+**What is the difference between the income effect and the substitution effect?**
+The substitution effect is the change in quantity because a good is relatively cheaper or dearer, holding real income constant, and it always works against the price change. The income effect is the change caused by the price change altering real income, which raises demand for a normal good and lowers it for an inferior good.
+
+**Why are indifference curves convex to the origin?**
+The marginal rate of substitution diminishes along the curve: the more a consumer has of one good, the less of the other they will give up for one more unit. This gives the convex shape.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 7.1 and 7.2 (Cambridge University Press & Assessment).

@@ -264,6 +264,20 @@ Here the marginal social benefit curve lies below the demand curve, so the optim
 - Calling a public good "a good provided by the government". Public goods are defined by non-excludability and non-rivalry, not by who provides them. Some goods the state provides, such as a state school place, are private goods.
 - Treating merit and demerit goods as the same as "good" and "bad". The syllabus defines them by imperfect information leading to under- or over-consumption.
 
+## Frequently asked questions
+
+**Are production possibility curves and the classification of goods AS or A Level content in Cambridge 9708?**
+They are sections 1.5 and 1.6 of the Cambridge International AS & A Level Economics 9708 syllabus, which is AS Level content. The syllabus treats AS Level content as assumed knowledge for A Level Papers 3 and 4.
+
+**What is the difference between a free good and an economic good?**
+A free good has no opportunity cost of supply because it is not scarce, so it has no price. An economic (private) good is scarce, uses resources, has an opportunity cost and normally has a price. The same item, such as water, can be free in one place and economic in another.
+
+**What is the free rider problem?**
+A free rider benefits from a good without paying for it. Because a public good is non-excludable, people can wait for others to pay, so private firms cannot earn revenue and the market provides none or too little.
+
+**Why are merit goods under-consumed and demerit goods over-consumed?**
+Both come from imperfect information. Consumers underestimate the benefits of merit goods, such as education and vaccination, so they buy too little; they underestimate the harm of demerit goods, such as tobacco and alcohol, so they buy too much.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education): sections 1.5 Production possibility curves and 1.6 Classification of goods and services.

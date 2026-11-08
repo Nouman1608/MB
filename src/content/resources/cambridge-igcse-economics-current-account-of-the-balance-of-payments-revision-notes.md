@@ -226,6 +226,20 @@ Evaluation checklist: match the policy to the cause; consider PED, time lag, ret
 - Giving one-sided answers when the question says assess or evaluate.
 - Forgetting units, or percentages of GDP when asked.
 
+## Frequently asked questions
+
+**What is the difference between primary and secondary income?**
+Primary income is income earned from owning assets or supplying labour abroad, such as profits, interest and wages. Secondary income is transfers with nothing received in return, such as remittances sent home and foreign aid.
+
+**What causes a current account deficit?**
+Causes include strong spending on imports, uncompetitive exports, higher inflation than trading partners, weak demand abroad, a fall in the price of a main export and large outflows of interest, profits or transfers.
+
+**How does a current account deficit affect the exchange rate?**
+A deficit means fewer inflows of foreign currency, so demand for the home currency falls and its exchange rate tends to fall. A surplus tends to push the currency up.
+
+**Is a current account surplus always good?**
+Not necessarily. A surplus can mean residents are consuming too little, and it means trading partners are in deficit and may respond with protection.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education), section 6.4.

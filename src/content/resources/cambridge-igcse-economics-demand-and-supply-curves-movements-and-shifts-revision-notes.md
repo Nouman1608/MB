@@ -238,6 +238,20 @@ The price rises from 4 cu to 6 cu. Supply extends from 40 to 80: (80 − 40)/40 
 - Forgetting to give the direction of the shift (left or right) or the term (increase or decrease).
 - Percentage changes calculated from the wrong starting value. Divide by the original quantity.
 
+## Frequently asked questions
+
+**What causes the demand curve to shift?**
+Demand shifts when something other than the good's own price changes, such as income, the price of a substitute or complement, tastes and advertising, population, expectations or the weather. A shift right is an increase in demand and a shift left is a decrease.
+
+**What causes the supply curve to shift?**
+Supply shifts with changes in costs of production, technology, the number of firms, indirect taxes and subsidies, weather and the price of other goods a firm could make. A shift right is an increase in supply.
+
+**What is an inferior good?**
+An inferior good is one people buy less of as their income rises, such as a cheap own-brand product they swap for something better. A rise in income decreases demand for it.
+
+**How should you label a demand and supply diagram?**
+Put price on the vertical axis and quantity on the horizontal axis, and label every curve. Missing or reversed labels lose marks in Cambridge IGCSE Economics 0455.
+
 ## Official syllabus
 
 Syllabus document: Cambridge IGCSE Economics (0455), examination in 2026, version 2, sections 2.3 and 2.4. Publisher: Cambridge University Press & Assessment (Cambridge International Education).

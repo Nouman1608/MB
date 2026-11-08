@@ -213,6 +213,20 @@ When a question gives a cost diagram, work through it in this order:
 - Using the long-run idea of all inputs rising in a short-run answer.
 - Stating fixed costs as "costs that are always the same", leaving out "in the short run".
 
+## Frequently asked questions
+
+**What is the law of diminishing returns?**
+As more of a variable factor is added to a fixed quantity of other factors, the marginal product of the variable factor will eventually fall. It applies only in the short run, when at least one factor is fixed.
+
+**Does diminishing returns mean total output falls?**
+No. Diminishing returns means marginal product falls, so total output rises more slowly. Total product falls only if marginal product becomes negative.
+
+**Why is the average fixed cost curve not U-shaped?**
+Total fixed cost is constant, so average fixed cost falls continuously as output rises because the same fixed bill is spread over more units. It approaches the horizontal axis but never touches it.
+
+**Why does average total cost reach its minimum at a higher output than average variable cost?**
+Average total cost equals average fixed cost plus average variable cost. When average variable cost starts to rise, average fixed cost is still falling by more, so average total cost keeps falling for a while before it turns up.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 7.5.1 and 7.5.2.

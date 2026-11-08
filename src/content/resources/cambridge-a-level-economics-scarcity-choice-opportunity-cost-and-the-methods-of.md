@@ -268,6 +268,20 @@ The length of each period differs by industry. A hairdresser can change premises
 - Describing ceteris paribus without applying it to a pair of variables.
 - Giving fixed time lengths for the short, long and very long run.
 
+## Frequently asked questions
+
+**Are there calculations in sections 1.1 and 1.2 of Cambridge 9708 Economics?**
+The Cambridge International AS & A Level Economics 9708 syllabus sets no calculation in these sections. Arithmetic is still a useful way to understand opportunity cost and ceteris paribus, which is why the worked examples use numbers.
+
+**Why is economics a social science?**
+Economics studies human behaviour in society and uses a scientific method: observe, build a model, form a testable hypothesis and test it against evidence. It cannot usually run controlled experiments on whole economies, and behaviour changes with expectations, so its results are tendencies rather than laws.
+
+**What are the three basic economic questions?**
+Every economy must decide what to produce, how to produce it (for example labour-intensive or capital-intensive methods) and for whom to produce, meaning how output is shared among people.
+
+**What does ceteris paribus mean?**
+Ceteris paribus means "all other things being equal". Economists change one variable and hold the others constant to see its separate effect, although real markets never hold everything else constant.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 1.1 and 1.2 (Cambridge University Press & Assessment).

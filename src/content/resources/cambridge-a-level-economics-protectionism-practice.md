@@ -162,6 +162,20 @@ These questions cover section 6.2 (Protectionism) of the Cambridge International
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate tariff revenue correctly?**
+Multiply the tariff per unit by the quantity of imports after the tariff, not the imports before it. Revenue falls as imports fall, so using the pre-tariff import figure overstates it.
+
+**What is the difference between the consumer loss and the net welfare loss from a tariff?**
+The consumer surplus lost is not the net loss. Part of it goes to domestic producers as extra producer surplus and part goes to the government as tariff revenue; only the two remaining triangles are the net loss to the country.
+
+**Is red tape a tax on imports?**
+No. Excessive administrative burdens such as paperwork, inspections and customs delays raise the cost of importing, but the government collects no revenue from them, so they are a non-tariff barrier rather than a tax.
+
+**How do you get evaluation marks on a protectionism question in Cambridge 9708?**
+Weigh the arguments rather than listing them, and reach a judgement. Useful points to weigh include the size of the effect (elasticity), whether protection is temporary, the risk of retaliation, cheaper alternatives such as a targeted subsidy, and the effect on consumers and foreign exporters as well as domestic producers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 6.2.
