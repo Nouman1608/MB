@@ -142,6 +142,23 @@ These questions follow the OCR GCSE (9-1) Gateway Science Physics A specificatio
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A stopping distance questions cover?**
+They cover statements P8.1f to P8.1i of OCR GCSE (9-1) Physics A (J249): estimating stopping distances, the dangers of large decelerations, estimating forces on a public road and large accelerations in road transport.
+
+**What should I do first in a stopping distance calculation?**
+Convert any speed in km/h or mph into m/s before using an equation. Dividing a speed in km/h by 3.6 gives m/s.
+
+**Why do answers about crash injuries lose marks?**
+Saying only that there is "a big force" is not enough. Link the injury to a large deceleration caused by stopping in a short time or a short distance, and use F = ma to connect deceleration to force.
+
+**What do safety features like seat belts and crumple zones actually change?**
+They increase the time or distance over which a person stops, which reduces the deceleration and so the force on them. Writing that they reduce the speed of the car is a common error.
+
+**How should I present an estimate in a road forces question?**
+State your assumptions, such as the mass or reaction time you chose, and give the answer to one or two significant figures. An estimate quoted to many significant figures with no assumptions is weaker.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249), Version 5.0, July 2026, first assessment 2018. Topic P8.1, statements P8.1f to P8.1i.

@@ -267,6 +267,23 @@ Because the hull is hollow and wide, it can push aside 5.0 m³ of water while st
 - Saying the object floats because it "has air in it" without linking this to a larger displaced volume and upthrust.
 - Treating a pressure answer as a force. Pressure x area gives force.
 
+## Frequently asked questions
+
+**What is upthrust?**
+Upthrust is the upward resultant force on an object in a liquid. The bottom of the object is deeper than the top, so the pressure and the force on the bottom are larger than on the top.
+
+**Does liquid pressure depend on the shape of the container?**
+No. The pressure at a point in a liquid depends on its depth, the liquid's density and g, not on the width or shape of the container.
+
+**Why does a steel boat float?**
+Its shape lets it displace enough water to give an upthrust equal to its weight. Saying it floats because it "has air in it" needs to be linked to the larger displaced volume and upthrust.
+
+**When does an object sink, float or hang in a liquid?**
+It sinks if its weight is greater than the largest possible upthrust. It floats, or hangs at a steady depth when fully under, if the weight equals the upthrust, and it rises if the upthrust when fully under is greater than its weight.
+
+**What does the upthrust on a floating object depend on?**
+It depends on the volume of the object below the surface, because only that part has liquid pressure acting on it from below.
+
 ## Official syllabus
 
 This guide follows statements P1.3h, P1.3i and P1.3j of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment 2018, published by OCR. Practical suggestions in the specification for this section include a discussion of the buoyancy of a ping pong ball in water and a demonstration of differences in water pressure using a pressure can with holes.
@@ -282,4 +299,3 @@ Next: the [revision notes](/resources/ocr-gcse-physics-liquid-pressure-upthrust-
   <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--10-ping-pong-ball.webp" width="900" height="1170" alt="A ping pong ball held under water feels 0.335 N upthrust against 0.027 N weight, so the finger pushes down 0.308 N. Released, it floats with about 8 percent under water where upthrust equals weight." loading="lazy">
   <figcaption>A light ball has far more upthrust than weight when fully under, so it rises and floats.</figcaption>
 </figure>
-

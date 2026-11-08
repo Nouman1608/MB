@@ -266,6 +266,23 @@ Repeating measurements and calculating a mean improves reliability. Measure rebo
 - Leaving out units, or writing J when the answer is in kW h.
 - Writing "the kettle uses 2 kW" when asked for energy rather than power.
 
+## Frequently asked questions
+
+**What is the law of conservation of energy in OCR GCSE Physics?**
+Energy is never created or destroyed; it only moves from one store to another. In a closed system there is no net change to the total energy. This is statement P7.1a in OCR GCSE Physics A (J249).
+
+**Are work done and energy transferred the same thing?**
+Yes. Work done and energy transferred are the same amount, measured in joules.
+
+**What happens to kinetic energy if speed doubles?**
+Kinetic energy depends on v², so doubling the speed gives four times the kinetic energy, not twice as much.
+
+**How many joules are in one kilowatt-hour?**
+One kW h is 1000 W × 3600 s, which is 3 600 000 J. To find a cost, multiply the number of kW h by the price per kW h.
+
+**In mcΔθ, do I use the final temperature?**
+No. Δθ is the temperature change, so subtract the starting temperature from the final temperature before multiplying.
+
 ## Official syllabus
 
 This page is based on the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018, published by OCR (Oxford Cambridge and RSA). Topic P7.1 Work done.

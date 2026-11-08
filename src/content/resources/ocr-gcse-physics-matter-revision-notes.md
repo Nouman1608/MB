@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on density, particle model, changes of state, specific heat capacity, latent heat and gas pressure for OCR GCSE Physics J249."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -177,3 +179,19 @@ p1 V1 = p2 V2        (constant temperature)
   <figcaption>Less air above means lower pressure; every square metre of ground carries about ten tonnes of air.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you find the density of an irregular solid?**
+Measure its mass on a balance, find its volume from the water it displaces in a displacement can or measuring cylinder, then divide mass by volume.
+
+**Why does temperature stay constant while a substance melts or boils?**
+The energy supplied is used to overcome the forces between particles, increasing their potential energy rather than their kinetic energy. Temperature depends on kinetic energy, so it does not change.
+
+**Why is a change of state a physical change?**
+No new substance is formed and the change is reversible. The particles are unchanged; only their arrangement and energy differ, so mass is conserved.
+
+**How do you convert g/cm³ to kg/m³?**
+Multiply by 1000. For example, 2.7 g/cm³ is 2700 kg/m³.
+
+**What does Topic P1 Matter include in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), Matter covers the particle model, density, changes of state, specific heat capacity and specific latent heat, and pressure in gases, liquids and the atmosphere.

@@ -130,6 +130,23 @@ Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A everyday speeds questions cover?**
+They cover statements P8.1a to P8.1e of OCR GCSE (9-1) Physics A (J249): typical speeds, estimating accelerations, unit conversion and rates, measuring reaction times, and the factors affecting stopping distance.
+
+**How do you convert km/h to m/s?**
+Divide by 3.6, and multiply by 3.6 to go from m/s to km/h. Dividing by 60 or 10 is a common mistake that costs the mark.
+
+**Which factors affect thinking distance and which affect braking distance?**
+Tiredness, alcohol, drugs, phones and distraction affect the driver, so they belong under thinking distance. Wet or icy roads, worn tyres and worn brakes affect the vehicle and road, so they belong under braking distance.
+
+**Why do I need units with every estimate?**
+A value with no unit is ambiguous, because a number like 5 means very different things in km/h and in m/s. Always give the unit, and state the values you used in an estimate.
+
+**How do I handle ruler-drop results in a reaction time question?**
+Take the mean of several drops, and remember that the distance the ruler falls is not itself a time. You must convert the mean distance into a reaction time before using it.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0, July 2026, first assessment in 2018. Statements P8.1a to P8.1e.

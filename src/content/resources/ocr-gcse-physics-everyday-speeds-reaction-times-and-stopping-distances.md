@@ -285,6 +285,23 @@ A car travels at 43.2 km/h. The driver's reaction time is 0.85 s.
 
 Revise with the [revision notes](/resources/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances-practice/).
 
+## Frequently asked questions
+
+**What are typical everyday speeds in GCSE Physics?**
+Sensible approximate values are about 1.5 m/s for walking, 3 m/s for running, 6 m/s for cycling, 13 m/s for a car in town, 30 m/s on a motorway and 340 m/s for sound in air. The OCR specification does not print a list, so a value in the right region is what matters.
+
+**How do you convert mph to m/s?**
+Multiply the speed in mph by 1609 to get metres per hour, then divide by 3600 to get metres per second. For example, 30 mph is about 13 m/s.
+
+**Why is a computer test better than a stopwatch for measuring reaction time?**
+The computer times the response electronically, which removes the human error of a stopwatch. With a stopwatch, the timer's own reaction time adds an error as large as the quantity being measured.
+
+**Why are speed limits lower near schools?**
+The whole stopping distance is shorter at lower speeds, because thinking distance is proportional to speed and braking distance depends on speed squared. This gives drivers a better chance of stopping before hitting a pedestrian.
+
+**What does OCR GCSE Physics A statement P8.1e require?**
+In OCR GCSE (9-1) Physics A (J249), P8.1e asks you to explain the factors that affect thinking distance, braking distance and overall stopping distance, and the safety implications.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0, July 2026, first assessment in 2018. Statements P8.1a to P8.1e.
