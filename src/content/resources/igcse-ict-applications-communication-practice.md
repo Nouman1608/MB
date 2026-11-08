@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on communication media and mobile communication for Cambridge IGCSE ICT 0417, section 6.1."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -96,6 +98,20 @@ Recommend a suitable communication medium for each of the two needs, and explain
 **8.** For the in-person welcome talk, a multimedia presentation is the more suitable choice, since it can combine text, images, audio and video to deliver an engaging, richer experience at a live event. For independent review of detailed course information afterward, a website is more suitable, since it can be updated at any time, holds far more content than a single presentation, and remains available for students to access whenever they choose rather than only at the original event. A single medium would not serve both needs equally well because a multimedia presentation is not practical for students to revisit independently afterward in the same way a website is, while a website alone would be a weaker choice for delivering an engaging, in-person experience at a welcome event, since it relies on the audience actively navigating it rather than experiencing a delivered presentation. **[6]** (Marks for correctly matching each need to a distinct, justified medium, and for explaining why one medium could not equally serve both purposes.)
 
 **9.** A video call, like a standard VoIP voice call, carries its communication as data over the internet rather than over a dedicated telecommunications voice channel; it simply adds a live video feed alongside the audio data, using the same fundamental internet-based, data-carried approach rather than a fundamentally different underlying technology. This is why a video call shares VoIP's core characteristics, such as needing a sufficiently fast internet connection and depending on connection quality, rather than being a wholly separate category of communication. **[3]**
+
+## Frequently asked questions
+
+**Which part of the IGCSE ICT syllabus do these questions cover?**
+These questions cover section 6.1, Communication, in Cambridge IGCSE ICT (0417), which includes communication media such as newsletters, websites and ePublications, and mobile communication such as SMS, VoIP and video calls.
+
+**How do you answer a recommend-and-justify question on communication media?**
+Recommend one specific medium and justify it with a trade-off linked to the scenario, such as the audience's access to devices and the internet, or whether the content needs updating later.
+
+**Why should you avoid saying one medium is simply better?**
+No medium is unconditionally best, so mark schemes reward naming the specific trade-off, for example that a medium which needs no device to view also cannot be updated once distributed.
+
+**What earlier topics does IGCSE ICT section 6.1 build on?**
+Video calls and VoIP rely on the cameras, microphones and network connections covered in Topics 2 and 4, and media streaming relies on a working internet connection, so these applications reuse that earlier content.
 
 ## Official syllabus
 

@@ -30,7 +30,9 @@ syllabusTopics:
 description: "Hardware, computer types and system components -- the opening topic of Cambridge IGCSE ICT (0417), a 21-topic, untiered syllabus."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -177,3 +179,17 @@ Saying ROM stores "the operating system" — it holds the boot instructions that
 - Describe the impact on everyday life of artificial intelligence and of extended reality (virtual and augmented).
 - Compare command line, graphical, dialogue-based and gesture-based interfaces.
 - Compare magnetic, optical and solid state storage, and justify a choice for a given scenario.
+
+## Frequently asked questions
+
+**What is the difference between RAM and ROM?**
+In Cambridge IGCSE ICT (0417), RAM is volatile, so its contents are lost when power is removed, and it can be written to freely. ROM is non-volatile, normally read-only and holds the boot instructions that start the computer.
+
+**What types of computer system are in the 0417 syllabus?**
+The syllabus names five types: desktop, laptop, tablet, smartphone and phablet. Embedded systems, such as a washing machine controller, are covered but are not one of the named types.
+
+**What is the difference between system software and application software?**
+System software, such as the operating system, utilities, device drivers and compilers, manages the computer itself. Application software, such as word processors, spreadsheets and browsers, performs tasks for the user.
+
+**What is the difference between Cambridge IGCSE ICT 0417 and 0983?**
+Cambridge IGCSE ICT 0417 is graded A* to G, while 0983 is the sibling syllabus graded 9 to 1. This page follows 0417 for examination 2026 to 2028.

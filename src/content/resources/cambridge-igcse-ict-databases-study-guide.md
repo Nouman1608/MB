@@ -145,3 +145,17 @@ Practical tasks use words such as *create*, *import*, *sort*, *search*, *select*
 5. Explain the difference between validation and verification. *Validation checks data is sensible and allowed; verification checks it matches the source.*
 6. Why is a calculated field usually made in a query? *It is worked out from the current data each time, so it stays correct without being stored.*
 7. Give two features of a well-presented report. *A clear title and fully visible column headings (also correct fields, order and totals).*
+
+## Frequently asked questions
+
+**What is the difference between a primary key and a foreign key?**
+In Cambridge IGCSE ICT (0417), a primary key is a field whose value is unique in every record, such as an ID number. A foreign key is a field in one table that matches the primary key of another table and links the two tables.
+
+**Why should a telephone number be stored as text in a database?**
+A telephone number is never used in calculations and may begin with zero, which a numeric field would drop, so it is stored as a text field.
+
+**What should you do when importing a CSV file into a database?**
+Choose the correct delimiter, say whether the first row holds field names, and check that each field was given the right data type. A common error is a date or ID imported as the wrong type.
+
+**What evidence should you keep in the database practical?**
+Keep screenshots or printouts that show the query criteria as well as the results, because the examiner needs to see both. Follow the task wording exactly and do not add extra fields to a report.

@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on hardware, software, storage, networks and system security."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -97,3 +99,17 @@ A **router** connects the local network to another network, usually the internet
 - Recommending a storage medium without justifying it against the stated requirement.
 - Naming a security threat without a matching countermeasure.
 - Confusing a router with a switch.
+
+## Frequently asked questions
+
+**What topics do these IGCSE ICT computer systems questions cover?**
+The questions cover hardware components, storage, data security, networks, health and safety and microprocessor-controlled devices, in the style of Cambridge IGCSE ICT (0417) theory questions.
+
+**How do you answer a storage recommendation question?**
+Recommend a specific medium and justify it against the requirement stated in the scenario, such as capacity, cost or speed. Recommending a medium without linking it to the stated requirement is a common way to lose marks.
+
+**What are common mistakes on computer systems questions?**
+Common slips include saying RAM is a type of secondary storage, naming a security threat without a matching countermeasure, and confusing a router with a switch.
+
+**How are threat-and-measure questions usually marked?**
+Each threat is credited for naming it, explaining it and giving a matching measure, so a named threat with no countermeasure loses marks. Make sure each measure clearly matches the threat it counters.

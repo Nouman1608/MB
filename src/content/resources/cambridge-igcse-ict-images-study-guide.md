@@ -117,3 +117,17 @@ Read the task twice and tick off each instruction: position, size, wrapping, ali
 6. Give two ways to reduce the file size of an image. *Resize to fewer pixels; reduce colour depth; compress as JPEG.*
 7. Why should you save a reduced image with a new name? *To keep the original, full-quality image unchanged.*
 8. Why might a heavily compressed image be unsuitable for a poster? *It loses detail and looks blocky or blurred when enlarged.*
+
+## Frequently asked questions
+
+**What does locking the aspect ratio do?**
+Locking the aspect ratio keeps an image's width and height in proportion when it is resized, so it is not stretched or squashed. In the Cambridge IGCSE ICT (0417) practical, a distorted image loses marks.
+
+**What is the difference between cropping and resizing an image?**
+Resizing changes the overall width and height of an image, while cropping removes unwanted outer parts so only the chosen area is shown.
+
+**How can you reduce the file size of an image?**
+You can resize the image to fewer pixels, reduce its colour depth, or save it as a compressed JPEG. Save the reduced copy with a new name so the original full-quality image is kept.
+
+**What text wrapping options are there for images?**
+Common options are in line with text, square, tight, top and bottom, behind text and in front of text. Behind and in front of text let the image overlap text, which is rarely wanted unless the task asks for it.

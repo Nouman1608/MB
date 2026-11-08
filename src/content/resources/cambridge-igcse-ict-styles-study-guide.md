@@ -131,3 +131,17 @@ When asked why styles are used, give a **benefit and an explanation**, such as "
 6. Define corporate house style. *A set of rules for fonts, colours, logo and layout that makes an organisation's documents look consistent.*
 7. Give three elements of a house style. *Logo, colour scheme and fonts (or layout rules, slogan).*
 8. How does a template help apply a house style? *It stores the styles, page setup, logo and footers so new documents start with the correct formatting.*
+
+## Frequently asked questions
+
+**What is a style in word processing?**
+In Cambridge IGCSE ICT (0417), a style is a saved set of formatting instructions, such as font, size, colour, alignment and spacing, that can be applied to text, a table or another object in one step.
+
+**What is the difference between a paragraph style and a character style?**
+A paragraph style applies to a whole paragraph and can set alignment, spacing and indents as well as font, while a character style applies only to selected words, such as a bold red warning word.
+
+**What is a corporate house style?**
+A corporate house style is a set of rules for fonts, colours, logo and layout that makes all of an organisation's documents look consistent. A template can store these styles so new documents start with the correct formatting.
+
+**What is a direct formatting override?**
+A direct formatting override is a manual change made to one paragraph instead of using its style. It does not update when the style changes, so it should be avoided.

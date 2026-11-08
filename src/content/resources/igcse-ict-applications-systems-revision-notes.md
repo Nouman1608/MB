@@ -177,6 +177,20 @@ authorisation.
 
 **Answers:** 1. Cheaper than building prototypes; dangerous loads such as earthquakes can be tested safely. 2. User interface, inference engine, knowledge base, rules base, explanation system. 3. Each sale reduces the stock level in the stock file; when it reaches the reorder level the system orders more. 4. Any two of tracking stock, passports, automobiles, contactless payment. 5. GPS works out a position; a GIS stores and layers geographic data for analysis and planning.
 
+## Frequently asked questions
+
+**What is the difference between POS and EFTPOS?**
+In Cambridge IGCSE ICT (0417), a POS system reads barcodes, looks up prices and updates the stock file, reordering automatically at the reorder level. EFTPOS handles the card payment by checking the card, contacting the bank's computer and authorising the transfer.
+
+**What is the difference between GPS and GIS?**
+GPS works out a position using signals from several satellites, while a GIS stores and layers geographic data for analysis and planning. Sat nav combines GPS with maps to give directions.
+
+**Is the output of a computer model a fact?**
+No. A model's output is a prediction, and it is only as accurate as the data and formulas used, so it may not represent every real condition.
+
+**How should you structure answers on ICT applications?**
+Give the feature and then its effect in the scenario, for example that an online booking system updates seat availability instantly, so the same seat cannot be sold twice.
+
 ## Official syllabus
 
 Cambridge IGCSE ICT (0417) syllabus for examination 2026-2028 —

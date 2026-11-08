@@ -133,3 +133,17 @@ Practical tasks use the words *create*, *apply*, *insert*, *format*, *set*, *pri
 5. Why might you export a presentation as a PDF? *It keeps the layout identical on any device and is hard to alter by accident.*
 6. Give one reason to lock the aspect ratio of an image. *To stop it being stretched or squashed.*
 7. Where are speaker notes used and can the audience see them on screen? *They help the presenter and are not shown on the audience screen during the slide show.*
+
+## Frequently asked questions
+
+**What is a master slide used for?**
+In Cambridge IGCSE ICT (0417), a master slide is a template that controls the appearance of every slide based on it, such as fonts, colours, background, logo, slide numbers and footers. A change made once on the master updates every slide, keeping the presentation consistent.
+
+**What is the difference between a transition and an animation?**
+A transition is the effect that plays when one slide changes to the next, while an animation controls how objects on a slide appear, move or disappear. Use them sparingly and apply the same transition throughout unless told otherwise.
+
+**What is a placeholder on a slide?**
+A placeholder is a reserved area on a slide layout for a title, text, image, chart or other object. Using placeholders rather than drawing new text boxes keeps the position and style linked to the master slide.
+
+**Why might you export a presentation as a PDF?**
+A PDF keeps the layout identical on any device and is hard to alter by accident, which is useful for sharing slides or handouts.

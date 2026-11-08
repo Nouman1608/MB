@@ -129,3 +129,17 @@ For a school website photo gallery, use JPEG at reduced dimensions because quali
 6. A 1 600 by 1 200 image uses 24 bits per pixel. Calculate its size in MB. *1 600 x 1 200 x 24 / 8 = 5 760 000 bytes, about 5.76 MB.*
 7. How long does a 6 MB file take to send at 12 megabits per second? *6 x 8 = 48 megabits; 48 / 12 = 4 seconds.*
 8. Suggest two ways to reduce the size of a photograph for email. *Reduce the dimensions or resolution, and save it as a JPEG with higher compression.*
+
+## Frequently asked questions
+
+**What is a generic file format?**
+In Cambridge IGCSE ICT (0417), a generic file format can be opened by many different programs and is not tied to one manufacturer's software, for example .csv, .txt, .rtf and .pdf. Use one when the recipient may not have the same software.
+
+**What is the difference between lossy and lossless compression?**
+Lossless compression reduces file size without losing any data, so the original can be rebuilt exactly, as with ZIP or PNG. Lossy compression permanently removes data people are least likely to notice, giving a much bigger saving, as with JPEG, MP3 and MP4.
+
+**What makes a good file name?**
+A good file name describes the content, avoids unusual symbols and may include a version number or date. In the practical papers, follow the file name and format instructions exactly, including capital letters and extensions.
+
+**How should files be backed up?**
+Back up regularly, keep the copy on a different device or in a different location such as cloud storage or an external drive, protect sensitive copies with a password or encryption, and test occasionally that the back-up can be restored.
