@@ -161,6 +161,23 @@ Questions 2 to 4, 6 and 10 use Firm Beta, a made-up producer. Output (Q) is in t
 - Check other topics with the [free 10-minute diagnostics](/diagnostics/).
 - Want a teacher to go through these with you? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the condition for profit maximisation?**
+Profit is maximised at the output where marginal revenue equals marginal cost. A definition that just says "making the most money" without the MR = MC rule is vague.
+
+**What is the difference between revenue maximisation and profit maximisation?**
+Revenue maximisation chooses the output where marginal revenue is zero, while profit maximisation chooses the output where marginal revenue equals marginal cost. Mixing up the two rules is a common error.
+
+**How do you explain the principal-agent problem?**
+Explain why it arises: the owners (principals) and managers (agents) have different aims, and managers have more information than owners. Saying only that managers "do not always do what they are told" misses the information gap.
+
+**Which topic of the OCR A Level Economics specification covers business objectives?**
+Business objectives, including the principal-agent problem, is a topic in the OCR A Level Economics (H460) specification.
+
+**How should you answer a 10-mark evaluate question on business objectives?**
+Give both sides, then reach a conclusion that names what the answer depends on, such as the type of ownership or the size of the firm. Two lists with no verdict read as description rather than evaluation.
+
 ## Official syllabus
 
 The source document is the OCR *A Level in Economics (H460)* specification, version 3.0 (June 2026), first assessment in 2021, published by OCR.

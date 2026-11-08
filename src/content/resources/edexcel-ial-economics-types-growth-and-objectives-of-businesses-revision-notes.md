@@ -209,6 +209,23 @@ A group that makes tools, toys and tiles struggles to manage three unrelated bus
 - Using real firms as examples without applying economic concepts to them.
 - Writing "not-for-profit" as "makes no money".
 
+## Frequently asked questions
+
+**Can a not-for-profit organisation make a surplus?**
+Yes. A not-for-profit body such as a charity can earn a surplus; the difference from a for-profit firm is that the surplus is reinvested in its purpose rather than distributed to owners. Writing that not-for-profit means "makes no money" is a common error.
+
+**What is the difference between forward and backward vertical integration?**
+Forward vertical integration is a move towards the customer, such as a brewer buying a chain of pubs. Backward vertical integration is a move towards the supplier, such as a manufacturer buying the firm that supplies its inputs.
+
+**What are the main constraints on business growth?**
+The Edexcel IAL Economics specification (section 3.3.1) names the size of the market, access to finance, owner objectives, and government regulation and bureaucracy. Any of these can keep a firm small even when it is profitable.
+
+**What is satisficing?**
+Satisficing is a behavioural theory in which managers aim for acceptable levels of profit, sales and staff satisfaction rather than the maximum. Any output that meets the owners' minimum target may be chosen.
+
+**At what output is revenue maximised?**
+Revenue is maximised where marginal revenue equals zero, which for a straight-line demand curve is where price elasticity of demand equals 1. Profit is maximised at a lower output, where MR equals MC.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, specification Issue 2, June 2018, Pearson Education Limited: Unit 3, section 3.3.1, items 1 to 3.

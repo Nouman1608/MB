@@ -196,6 +196,23 @@ Under a one-year bonus the manager gets 3% × £4.0 million = £120,000 with X, 
 - Calling every CSR action charity. Evaluate motive and effect on profit.
 - Listing objectives without judging which fits the firm in the question.
 
+## Frequently asked questions
+
+**Is profit maximisation a realistic objective?**
+It is a useful benchmark and predicts well where competition is fierce and the owner runs the firm, because profit pays owners, funds investment and ensures survival. It is a weaker guide for large listed firms, social enterprises and firms with several stakeholders.
+
+**Why might managers pursue sales revenue maximisation?**
+Managers' pay and status often rise with the size of the firm, and high revenue can deter entrants. Unconstrained revenue maximisation is usually loss-making, so in practice firms maximise revenue subject to a minimum profit.
+
+**What is corporate social responsibility?**
+CSR is a firm voluntarily acting in the interests of stakeholders such as workers, communities and the environment, beyond what the law requires. It can protect the brand and attract staff, but it can also be costly or only marketing, sometimes called greenwashing.
+
+**Why does the principal-agent problem arise?**
+It arises because shareholders (principals) and managers (agents) have different objectives, managers know more about the firm than shareholders (asymmetric information), and managers' actions are hard to monitor, which creates moral hazard.
+
+**Where is business objectives in the OCR A Level Economics specification?**
+Business objectives sits in the microeconomics content of the OCR A Level Economics (H460) specification, under the area of study "Competition and market power". The specification labels no part of the topic as AS or A level only.
+
 ## Official syllabus
 
 The source document is the OCR *A Level in Economics (H460)* specification, version 3.0 (June 2026), first assessment in 2021, published by OCR.

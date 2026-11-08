@@ -135,6 +135,23 @@ These questions cover sections 1.2.1 and 1.2.2 of the Pearson Edexcel Internatio
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is money capital in Edexcel IGCSE Economics?**
+No. In this unit capital means man-made goods used to produce other goods and services, such as machines, tools and vehicles. Calling money or savings capital is a common way to lose marks.
+
+**How do you calculate labour productivity?**
+Divide total output by the number of workers, or by hours worked. If output rises because more workers are hired, divide by the new number of workers before saying whether productivity has risen.
+
+**What is the difference between a percentage point change and a percentage change?**
+A percentage point change describes the change in a share, such as a sector's share of jobs falling from 55% to 30%. A percentage change describes the change in a number, such as the number of jobs, and is found by dividing the change by the original value.
+
+**Which sections of the Edexcel IGCSE Economics specification cover production and productivity?**
+Factors of production, sectors, productivity and the division of labour are sections 1.2.1 and 1.2.2 of the Pearson Edexcel International GCSE Economics (4EC1) specification, which has a single tier of entry.
+
+**How should you answer an evaluate question on the division of labour?**
+Use the data given to show the gain, then weigh the human costs such as boredom and low motivation, and end with a decision reached from both sides. Writing only the advantages, or giving no judgement, limits the answer.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, sections 1.2.1 and 1.2.2, published by Pearson Education Limited.

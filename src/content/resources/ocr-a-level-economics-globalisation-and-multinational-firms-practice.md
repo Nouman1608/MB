@@ -130,6 +130,23 @@ Evaluation (up to 3): outcomes depend on starting position and institutions [1];
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you define globalisation?**
+Globalisation is the process by which economies become more closely linked and dependent on each other through cross-border flows of goods, services, capital, people, technology and ideas. Describing it as trade between countries alone covers only one channel.
+
+**How do you calculate growth in GDP per head?**
+Divide the growth factor of GDP by the growth factor of population and subtract 1, rather than subtracting one growth rate from the other. Subtracting the rates is a common slip.
+
+**Why might output in a country rise faster than its residents' income?**
+When a foreign-owned firm earns profit in a host country, that profit belongs to foreign owners and is often sent abroad. Output rises, but the income kept by residents is mainly wages and taxes, so it rises by less.
+
+**Which part of the OCR A Level Economics specification covers globalisation?**
+Globalisation is a topic in the area of study The global context, within Component 2, Macroeconomics, of the OCR A Level Economics (H460) specification.
+
+**How should you evaluate the impact of globalisation on different economies?**
+Treat developed, emerging and developing economies separately and say who gains and who loses within each, rather than giving one list of pros and cons. Finish with a judgement that names the condition deciding the answer.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 2 content, area of study The global context, topic Globalisation.

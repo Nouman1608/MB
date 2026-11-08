@@ -230,6 +230,23 @@ Judge by market share, remaining rivals, contestability and whether savings are 
 - Writing about competition policy in general without saying how firms behave differently.
 - Making a one-sided case on interdependence without market definition.
 
+## Frequently asked questions
+
+**What is hit-and-run entry?**
+Hit-and-run entry is quick entry into a market to capture supernormal profit, followed by exit once incumbents respond. It is only worthwhile if entry costs are recoverable, which is why sunk costs matter.
+
+**Why is a firm in a perfectly contestable market productively and allocatively efficient?**
+Any supernormal profit invites entry, so price falls to average cost, and any cost above the minimum lets an entrant undercut, so the firm produces at minimum average cost. At that point marginal cost equals average cost, so price also equals marginal cost.
+
+**What is a price cap of inflation minus X?**
+It is a regulatory rule allowing a firm to raise its price each year by the inflation rate less an efficiency factor X. The firm keeps any cost savings beyond X, so it has an incentive to cut costs, though a strict cap can reduce quality or investment.
+
+**What is the difference between regulation and competition policy?**
+Regulation sets rules for a particular industry, such as a price cap. Competition policy applies across industries to protect rivalry, using merger control, action against cartels and abuse of power, market investigations and measures to lower barriers.
+
+**Do merger cost savings always benefit consumers?**
+No. A merger can lower costs without lowering prices. Consumers gain only if competition, contestability or regulation forces the savings to be passed on.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. Component 1, Microeconomics (H460/01).

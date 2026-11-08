@@ -201,6 +201,23 @@ Firms compete on features other than price, which avoids a price war.
 - Saying collusion always raises prices without discussing whether it is stable.
 - Listing non-price methods without linking them to demand or entry.
 
+## Frequently asked questions
+
+**What is the prisoners' dilemma in oligopoly?**
+It is a game in which each firm's dominant strategy, such as charging a low price, leads both to a worse joint result than if they had co-operated. Self-interest pushes both firms away from the higher joint-profit outcome.
+
+**What is the difference between formal and tacit collusion?**
+Formal collusion is an explicit agreement on price or output, such as a cartel. Tacit collusion happens without any written agreement, for example when firms follow a price leader to avoid a price war.
+
+**What forms of non-price competition do you need to know?**
+The Edexcel IAL Economics specification names advertising and branding, quality, endorsement, product placement and after-sales service. These let firms compete without starting a price war, though they add cost and may only shift customers between brands.
+
+**Is a duopoly the same as an oligopoly?**
+A duopoly, a market with two firms, is a special case of oligopoly. An oligopoly is a market in which a small number of large, interdependent firms hold most of the sales, so describing oligopoly as "a market with two firms" is a common error.
+
+**Who gains and who loses from collusion?**
+Producers gain higher, more stable profit but risk cheating and fines. Consumers usually face higher prices and less choice, workers may lose jobs if output falls, and governments bear the cost of enforcing competition law, though fines and profit taxes bring in revenue.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited: section 3.3.3, Market structures and contestability, item 5, Oligopoly (points a to g), in Unit 3, Business behaviour.

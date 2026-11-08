@@ -140,6 +140,20 @@ These questions cover section 1.2.4 (Business competition) of the Pearson Edexce
 - Try the free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you define monopoly for Edexcel IGCSE Economics?**
+For Edexcel International GCSE Economics (4EC1), a monopoly is a market in which one business dominates. Writing "only one firm" without the idea of dominance or control of the market leaves the definition incomplete.
+
+**How do you calculate market share after a takeover?**
+Add the sales of the two firms first, then divide by total market sales and multiply by 100. Market share is always measured against the whole market, not against the other firm.
+
+**What counts as non-price competition?**
+Non-price competition includes advertising, branding, quality, after-sales service, loyalty schemes and packaging. A price cut or a discount is price competition, so describing it as non-price competition is a common error.
+
+**How should you answer an evaluate question on monopoly or price wars?**
+Give points for and against, each with a reason, then name the factor that decides the outcome, such as whether cost savings are passed on or whether rivals survive a price war. Separate the short run from the longer run and finish with a clear judgement.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 1.2.4.

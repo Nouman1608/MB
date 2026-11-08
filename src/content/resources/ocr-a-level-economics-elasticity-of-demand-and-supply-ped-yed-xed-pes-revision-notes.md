@@ -268,6 +268,23 @@ Check: 0.75 ÷ (0.75 + 0.25) = 0.75
 - Listing determinants without applying them to the named good or ranking them.
 - Treating elasticity values as fixed facts rather than estimates that change with time.
 
+## Frequently asked questions
+
+**What are the determinants of price elasticity of demand?**
+The main determinants are the closeness and number of substitutes, whether the good is a necessity or a luxury, the share of income it takes, the time to adjust, how widely the market is defined, and addiction and loyalty.
+
+**What is the difference between an inferior good and a necessity?**
+An inferior good has a negative YED, so demand falls as income rises. A necessity is a normal good with YED between 0 and 1, so demand rises with income but by a smaller percentage.
+
+**What determines price elasticity of supply?**
+PES depends on spare capacity, stocks, time, factor mobility, the production period and perishability, and barriers to entry. Supply is more elastic with spare capacity, stored stocks, mobile factors and easy entry, and more elastic in the long run.
+
+**What is PES for a straight-line supply curve through the origin?**
+A straight-line supply curve through the origin has a PES of exactly 1 at every point. A line cutting the quantity axis is inelastic throughout, and one cutting the price axis is elastic throughout.
+
+**What are the limits of elasticity estimates?**
+Elasticity values change with time, price level and income, rely on past data, assume other things are equal and measure only one cause. They suit small, short-run decisions better than large long-run forecasts.
+
 ## Official syllabus
 
 Source document: OCR *A Level Economics* (H460) specification, Version 3.0, June 2026, first assessed in 2021. Content used: Component 1, How competitive markets work, topic Elasticity.

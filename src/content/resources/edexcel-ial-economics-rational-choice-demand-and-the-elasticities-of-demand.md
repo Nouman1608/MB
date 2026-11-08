@@ -233,6 +233,23 @@ Price
 - Dropping the sign and then misreading an inferior good or complement.
 - Giving only the revenue effect and not the reason (the PED value).
 
+## Frequently asked questions
+
+**What is the rationality assumption in economics?**
+The rationality assumption is that consumers aim to maximise utility from limited income and firms aim to maximise profit. It lets economists predict behaviour, for example that a utility maximiser buys more when a good's price falls.
+
+**Why does the demand curve slope downwards?**
+Diminishing marginal utility means each extra unit consumed adds less satisfaction than the one before. A rational consumer buys another unit only while its marginal utility in money terms is at least the price, so a lower price is needed to persuade the consumer to buy more.
+
+**What determines price elasticity of demand?**
+The Edexcel IAL Economics specification lists availability of substitutes, branding, the percentage of total expenditure, addictiveness and durability. Many substitutes, a large share of spending or a durable good make demand more elastic, while strong branding or addictiveness make it less elastic.
+
+**How do you tell if two goods are substitutes or complements using cross elasticity?**
+A positive XED means the goods are substitutes, because a rise in the price of one raises demand for the other. A negative XED means complements, and a value close to zero suggests the goods are unrelated.
+
+**Why do elasticities matter to governments?**
+Governments use PED to forecast the effect of indirect taxes: inelastic goods raise more revenue but change consumption less, while elastic goods change behaviour more but raise less. YED helps them plan public services as incomes change.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.2 Consumer behaviour and demand, items 1 to 3.

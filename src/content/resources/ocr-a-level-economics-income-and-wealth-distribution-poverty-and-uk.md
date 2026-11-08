@@ -255,6 +255,23 @@ Use the latest ONS, OECD, IMF and World Bank releases.
 - Quoting UK figures without a year.
 - Judging performance on one indicator.
 
+## Frequently asked questions
+
+**What does a Lorenz curve show?**
+A Lorenz curve plots the cumulative percentage of income or wealth against the cumulative percentage of households, ranked from poorest to richest. The diagonal is perfect equality, and the further the curve bows below it, the more unequal the distribution.
+
+**What is the Gini coefficient?**
+The Gini coefficient is the area between the line of equality and the Lorenz curve as a fraction of the whole area under the diagonal. It runs from 0, where everyone has the same, to 1, where one household has everything; a low Gini says nothing about the level of income.
+
+**Why is wealth usually more unequal than income?**
+Wealth accumulates over time and passes between generations through inheritance, and savings compound. A household can also be income-poor but wealth-rich, such as a retired homeowner.
+
+**Why might a more equal distribution be a government objective?**
+A more equal distribution can reduce poverty, raise aggregate demand because poorer households spend more of extra income, support investment in human capital and improve social cohesion. Against this, high marginal tax rates may weaken incentives, and what counts as fair is a value judgement.
+
+**How should you compare UK economic performance with other economies?**
+Use several indicators together, such as growth, income per head, inflation, unemployment, debt, the external balance and inequality, rather than growth alone. Definitions, informal work, exchange rates and the year chosen can all distort comparisons.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: Component 2, topics "Income distribution and welfare" and "Trends in macroeconomic indicators".

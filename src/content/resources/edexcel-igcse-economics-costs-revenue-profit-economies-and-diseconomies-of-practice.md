@@ -181,6 +181,20 @@ Cost per unit
 - Take one of the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of the Edexcel IGCSE Economics specification covers costs, revenue and profit?**
+Costs, revenue, profit and economies and diseconomies of scale are section 1.2.3, Business costs, revenues and profit, of the Pearson Edexcel International GCSE Economics (4EC1) specification. There is one tier of entry.
+
+**How do you calculate total costs when you are given a variable cost per unit?**
+Multiply the variable cost per unit by the quantity to get total variable costs, then add total fixed costs. Adding the per-unit cost straight onto fixed costs is a common slip.
+
+**Is spreading fixed costs over more output an economy of scale?**
+No. When output rises with the same premises, average fixed cost falls because fixed costs are spread over more units, which is a short-run effect. Economies of scale are long-run falls in average cost when all inputs can change.
+
+**What should an LRAC diagram show to earn full credit?**
+Label the axes (output and cost per unit), draw the long-run average cost curve, and annotate the falling section as economies of scale, the lowest point as the most efficient output and the rising section as diseconomies of scale. A bare curve gains little.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, Pearson Education Limited: section 1.2.3, Business costs, revenues and profit.

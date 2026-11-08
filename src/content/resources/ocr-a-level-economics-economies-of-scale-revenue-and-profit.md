@@ -275,6 +275,23 @@ Set MR = MC: 90 − 6Q = 18 + 2Q, so 8Q = 72 and Q = 9. Price = 90 − 27 = 63. 
 - Saying accounting profit must mean supernormal profit.
 - Describing MES as the largest efficient output rather than the smallest at minimum LRAC.
 
+## Frequently asked questions
+
+**What are the main internal economies of scale?**
+The main internal economies of scale are technical, purchasing, managerial, financial, marketing and risk-bearing. Each lowers long-run average cost as the firm itself grows, moving it along its LRAC curve.
+
+**What causes diseconomies of scale?**
+Internal diseconomies arise as a firm grows too large, through control and coordination problems as management layers multiply, poor communication and falling motivation. External diseconomies come from industry growth, such as congestion, rising rents and wages bid up by competing employers.
+
+**Why is profit maximised where MC equals MR?**
+If marginal revenue exceeds marginal cost, producing one more unit adds to profit; if marginal cost exceeds marginal revenue, it reduces profit. Profit is therefore highest at the output where MC equals MR, with MC cutting MR from below.
+
+**What is the difference between supernormal profit, normal profit and a loss?**
+Supernormal profit means total revenue exceeds total cost, so average revenue is above average cost. Normal profit means TR equals TC, and a loss means TR is below TC, with normal profit counted as part of costs.
+
+**Why might a loss-making firm keep producing?**
+In the short run, a firm minimising its loss at MC equals MR should keep producing if price exceeds average variable cost. Its loss is then smaller than the fixed cost it would lose by closing.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021.

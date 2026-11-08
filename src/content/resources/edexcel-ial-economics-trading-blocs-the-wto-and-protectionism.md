@@ -212,6 +212,23 @@ Evaluation: gains depend on how like the members are, how big the bloc is and ho
 - Giving a free-trade area one shared outside tariff; that belongs to a customs union.
 - Giving a list of reasons for protection with no counter-argument.
 
+## Frequently asked questions
+
+**What is the difference between trade creation and trade diversion?**
+Trade creation happens when a bloc member replaces higher-cost domestic output with lower-cost imports from a partner. Trade diversion happens when a member switches from a lower-cost outside supplier to a higher-cost partner because the partner is now free of tariff.
+
+**What are the dynamic benefits of joining a trading bloc?**
+Beyond static trade creation, membership can bring economies of scale from a larger market, more competition that pushes firms to cut costs, lower transaction costs and, in a common market, movement of labour and capital to where they are most productive.
+
+**What are the main reasons for restricting free trade?**
+The Edexcel IAL Economics specification (section 4.3.2) lists protecting infant and declining industries, domestic jobs, national security, countering dumping, reducing a current account deficit and raising revenue. Each has a weakness, such as protection becoming permanent or provoking retaliation.
+
+**What is dumping in international trade?**
+Dumping is exporting a good at a price below its cost of production or below the price charged in the home market. The WTO allows anti-dumping duties where the conditions are met, though consumers in the importing country may gain from the low prices.
+
+**How does protectionism affect equality?**
+Tariffs on basic goods tend to hit low-income households hardest, which can widen inequality. On the other hand, protected jobs may help low-skilled workers, while owners of protected firms gain.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited: section 4.3.2 Trade and the global economy, items 4 and 5.

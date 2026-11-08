@@ -269,6 +269,23 @@ Reasons: income and wealth, location, information and networks, discrimination, 
 - Listing causes of inequality with no link to the effect or no judgement of significance.
 - Stating "inequality is unfair" as a fact when it is a value judgement.
 
+## Frequently asked questions
+
+**What is the difference between a merit good and a demerit good?**
+A merit good is under-consumed because consumers undervalue its benefits, so marginal private benefit lies below marginal social benefit. A demerit good is over-consumed because consumers underestimate its harm, so marginal private benefit lies above marginal social benefit.
+
+**What is the free rider problem?**
+A free rider gets the benefit of a good while leaving the cost to others. Because non-payers cannot be excluded from a public good, too few people pay, so the market fails to provide a good whose benefits exceed its cost.
+
+**What is a quasi-public good?**
+A quasi-public good has some public-good features, or has them only up to a point. A road, for example, can become rival as it fills with traffic, moving it towards a private good.
+
+**What is the difference between a merit good and a public good?**
+A merit good can be bought and sold in a market but is under-consumed. A public good cannot be sold profitably because non-payers cannot be excluded.
+
+**How does tax design affect income inequality?**
+A flat tax takes the same share of every income, so the ratio between high and low incomes is unchanged. A progressive tax takes a larger share from higher incomes, narrowing the gap after tax.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, topics Market power/Information asymmetries, Public goods and Inequity.

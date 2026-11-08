@@ -9,13 +9,15 @@ qualifications: ["igcse"]
 syllabusCodes: ["4EC1"]
 syllabusSeries: "Specification Issue 3, February 2026"
 order: 3
-description: "Working the four-compulsory-question structure of Pearson Edexcel IGCSE Economics 4EC1 -- 20 marks per question across mixed styles, the micro/macro paper split, data-response technique and a worked evaluation routine."
+description: "Exam technique for Edexcel IGCSE Economics 4EC1: timing four compulsory 20-mark questions per paper, the micro and macro papers, data response and evaluation."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Pearson Edexcel International GCSE Economics 4EC1 is assessed by two externally assessed written
@@ -118,6 +120,23 @@ question rather than between questions. 3. Because all four questions on each pa
 so a weak topic cannot be avoided and full syllabus coverage is required rather than depth in
 favourites. 4. Describing restates what the table or chart shows; using it means quoting a specific
 figure and then calculating, comparing or inferring from it as part of the argument.
+
+## Frequently asked questions
+
+**How many papers are there in Edexcel IGCSE Economics 4EC1?**
+There are two externally assessed written papers: Paper 1 (Microeconomics and Business Economics) and Paper 2 (Macroeconomics and the Global Economy). Each lasts 1 hour 30 minutes, is worth 80 marks and counts for 50% of the qualification.
+
+**How long should I spend on each question in an Edexcel IGCSE Economics paper?**
+Each paper has four compulsory questions worth 20 marks each, so 90 minutes across four questions gives about 22 minutes per question. Practising to a 20-minute limit leaves a little time for reading and stops an early question eating into the last one.
+
+**Can I skip a topic when revising for Edexcel IGCSE Economics?**
+No. All four questions on each paper are compulsory, so there is no question choice and a weak topic cannot be avoided. Revise for full specification coverage and use a checklist to find gaps.
+
+**How do you use data in a data-response question?**
+Quote a specific figure from the table, chart or extract and then do something with it, such as calculating a change, comparing two values or drawing an inference. Simply restating what the data shows is description, not analysis.
+
+**How should you structure the final open-ended part of a question?**
+State your position first, build one clear chain of reasoning, give the strongest counter-consideration, say what the answer depends on (such as magnitude, time period or elasticity) and conclude by referring back to your opening position.
 
 *Written against the Pearson Edexcel International GCSE Economics 4EC1 specification (official
 specification PDF, Issue 3, February 2026, verified 2026-08-28). The evaluation routine above is an

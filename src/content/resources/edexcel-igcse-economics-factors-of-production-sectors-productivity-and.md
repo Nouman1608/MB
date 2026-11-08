@@ -254,6 +254,23 @@ A chain of reasoning: tasks split, so each worker practises one task and wastes 
 - Listing only the advantages of division of labour. Give both sides and a judgement.
 - Writing that sectors always change in one fixed order, with no mention of exceptions.
 
+## Frequently asked questions
+
+**What is the difference between production and productivity?**
+Production is the total amount made, while productivity is output per unit of input, such as output per worker or per hour. Hiring more workers raises production, but training them or giving them better tools raises productivity.
+
+**How does migration affect productivity?**
+Skilled immigrants can fill shortages and raise average productivity. If arrivals have lower skills at first, average output per worker can fall even though total output rises, while emigration of skilled workers lowers productivity in the country they leave.
+
+**How does capital raise labour productivity?**
+More machines per worker and technological advances let each worker produce more in the same time. The costs to weigh are the purchase price, the training needed and possible job losses.
+
+**What is the division of labour?**
+The division of labour is splitting production into separate tasks, with each worker or group doing one task. Workers build skill and waste less time switching, so output per worker rises and unit labour cost falls.
+
+**When does the division of labour work best?**
+It suits standardised products and markets large enough to sell the extra output, but not made-to-order products. Boredom can raise costs through absence and staff turnover, which job rotation can reduce.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, sections 1.2.1 and 1.2.2, published by Pearson Education Limited.

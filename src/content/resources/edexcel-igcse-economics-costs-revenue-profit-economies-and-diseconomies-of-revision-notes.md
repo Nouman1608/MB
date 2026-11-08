@@ -251,6 +251,23 @@ The specification describes the command words in its own table. For this topic:
 - Describing diseconomies as "higher costs" with no cause such as communication problems.
 - Making an evaluation point with no judgement about this firm.
 
+## Frequently asked questions
+
+**What are the six internal economies of scale for Edexcel IGCSE Economics?**
+The Edexcel International GCSE Economics (4EC1) specification lists purchasing (bulk buying), marketing, technical, financial, managerial and risk-bearing economies. Each lowers average cost as the firm itself grows.
+
+**What is the difference between internal and external economies of scale?**
+Internal economies arise inside a firm because it has grown, so the firm moves down its LRAC curve. External economies arise because the industry or area has grown, such as better infrastructure or a pool of skilled labour, so the whole LRAC curve moves down.
+
+**What are the four diseconomies of scale?**
+The specification names bureaucracy, communication problems, lack of control, and distance between top management and workers. Each should be explained through to its effect: average cost rises.
+
+**How do you answer a "What is meant by" question in Edexcel IGCSE Economics?**
+The specification says a "What is meant by" answer needs two separate parts to the definition. For economies of scale, for example, give both ideas: a fall in average cost, and as the scale of production rises.
+
+**What is break-even?**
+Break-even is the output where total revenue equals total costs, so profit is zero and price equals average total cost.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, Pearson Education Limited: section 1.2.3, Business costs, revenues and profit.

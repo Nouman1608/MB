@@ -145,6 +145,23 @@ Way 2: effect on resource use [1]. Services tend to use fewer raw materials, low
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is sustainable development?**
+Sustainable development is meeting present needs without closing off later generations' ability to meet theirs. A definition that says only "protecting the environment" leaves out the future-generations part.
+
+**How do you calculate the terms of trade?**
+Divide the export price index by the import price index and multiply by 100. A figure above 100 shows an improvement relative to the base year, meaning each unit of exports buys more imports.
+
+**What is the Easterlin Paradox?**
+The Easterlin Paradox is the finding that richer people are happier at one point in time, yet average happiness does not rise much as a country grows richer over time. Answers should quote evidence from both sides of that contrast.
+
+**Which part of the OCR A Level Economics specification covers development?**
+Development is part of the topic "Economic growth and development" in Component 2, Macroeconomics, of the OCR A Level Economics (H460) specification.
+
+**How should you evaluate the IMF, World Bank and WTO?**
+Treat the three bodies separately, since they have different roles, then judge their effectiveness for whom and over what period. A conclusion that says "it depends" should state what it depends on.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), first assessment 2021, published by OCR. Component 2: Macroeconomics, Area of Study "Economic policy objectives and indicators of macroeconomic performance", topic "Economic growth and development".

@@ -123,6 +123,23 @@ These questions cover the role of the central bank and financial regulation in t
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What does lender of last resort mean?**
+A central bank acting as lender of last resort lends to banks that are solvent but illiquid, against collateral and usually at a penalty rate, to stop runs and contagion. Evaluation should include moral hazard and the risk to taxpayers.
+
+**Why might cuts in the central bank's policy rate not be fully passed on?**
+Commercial banks may not pass on a cut in full because some loans are at fixed rates or because banks want to protect their margins. Writing only that "banks do not pass it on" restates the question without a reason.
+
+**Is the IMF a regulator of banks?**
+No. National authorities supervise individual banks. The IMF carries out surveillance, lends to countries with balance of payments problems and gives advice, so calling it a regulator of banks is a common error.
+
+**How do you answer an evaluate question on central bank independence?**
+Compare the independent and government-controlled models directly throughout, rather than writing a paragraph on each, and finish with a conclusion that names the condition on which your view depends.
+
+**Which part of the OCR A Level Economics specification covers central banks?**
+The role of the central bank and financial regulation are in the financial sector area of study of the OCR A Level Economics (H460) specification. It is macroeconomics content.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: the financial sector, covering the role of the central bank and financial regulation.

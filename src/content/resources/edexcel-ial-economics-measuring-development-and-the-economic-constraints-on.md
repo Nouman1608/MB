@@ -205,6 +205,23 @@ Capital flight is a large, rapid outflow of money by residents, often from fear 
 - Treating Harrod-Domar as a forecast rather than a model with fixed k.
 - Saying capital flight only involves the rich without tracing its effect on investment and the exchange rate.
 
+## Frequently asked questions
+
+**Which unit is measuring development in for Edexcel IAL Economics?**
+It is specification section 4.3.6 of the Pearson Edexcel International A Level Economics specification (YEC11). It sits in Unit 4, Developments in the global economy, which only full International A Level candidates take.
+
+**Why is income entered as a logarithm in the HDI?**
+Taking the natural logarithm of income means each extra unit of income counts for less as income rises. This reflects diminishing returns to income: a rise from 2,000 to 3,000 currency units lifts the income index far more than a rise from 40,000 to 41,000.
+
+**What are the main limitations of the HDI?**
+The HDI is an average, so it says nothing about how income, schooling or health are shared. It leaves out the environment, political freedom, security, gender gaps and unpaid work, its equal weights are a judgement, and very different country profiles can give similar scores.
+
+**Why can a country have enough savings but still be held back by a foreign currency gap?**
+Many capital goods and fuels must be imported and paid for in foreign currency, which domestic saving cannot provide. If import needs exceed export earnings and remittances, growth is constrained even when local saving is sufficient.
+
+**How does capital flight affect growth and development?**
+Capital flight is a large, rapid outflow of residents' money, often driven by fear of instability, inflation, devaluation, weak property rights or high taxes. It reduces saving available for investment, widens both the savings gap and the foreign currency gap, weakens the currency and shrinks the tax base.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018, Pearson Education Limited, Unit 4, section 4.3.6.

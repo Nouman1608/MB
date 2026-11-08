@@ -159,6 +159,23 @@ These questions cover section 2.1.1 e) and f) of the Pearson Edexcel Internation
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel IGCSE Economics covers environmental protection and redistribution?**
+Protection of the environment and redistribution of income are section 2.1.1 e) and f) of the Pearson Edexcel International GCSE Economics (4EC1) specification.
+
+**How do you calculate tax under a banded income tax system?**
+Work out the tax on each band separately, multiplying the income in each band by that band's rate, then add the amounts. Net pay is gross pay minus tax, and the average tax rate is tax divided by gross pay times 100.
+
+**What is relative poverty?**
+Relative poverty is having an income far lower than what is normal in your own country, often measured as a fraction of the median income. A definition that just says "being poor" leaves out the comparison with others.
+
+**Where are marks usually lost on pollution policy calculations?**
+Common slips include working out tax revenue or external cost from the pre-tax quantity instead of the new quantity, and using the wrong price in subsidy calculations. If incomes change, the median-based poverty line must also be recalculated.
+
+**How should you answer an evaluate question on reducing pollution?**
+Compare the methods in the context given, such as taxation, regulation, fines and permits, and reach a supported conclusion. A list of methods without a decision stays descriptive.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, Pearson Education Limited, section 2.1.1 e) and f).

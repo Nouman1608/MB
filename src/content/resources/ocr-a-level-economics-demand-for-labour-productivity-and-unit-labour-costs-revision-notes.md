@@ -244,6 +244,23 @@ Evaluation of MRP theory: it is hard to apply to team work and public services; 
 - Drawing MRP and the wage line without naming axes, curves and the equilibrium employment.
 - Evaluation that lists points without a judgement on which matters most for the firm or country in the case.
 
+## Frequently asked questions
+
+**What is the difference between nominal and real wages?**
+A nominal wage is pay in current prices, while a real wage is pay adjusted for price changes, showing what it can buy. To convert, divide the nominal wage by the price index and multiply by 100.
+
+**What makes demand for labour wage inelastic?**
+Demand for labour is more inelastic when there are few substitutes for labour, labour is a small share of total costs, demand for the product is inelastic and the time period is short.
+
+**What is unit labour cost?**
+Unit labour cost is the labour cost per unit of output, found by dividing total labour cost by output or the hourly wage by output per hour. It rises if wages grow faster than productivity.
+
+**What is the difference between MPP and MRP?**
+Marginal physical product is the output added by one further worker, while marginal revenue product is the revenue that output brings in. MRP equals MPP times marginal revenue, which equals price only in a perfectly competitive product market.
+
+**What are the limitations of MRP theory?**
+MRP is hard to measure for team work and public services, and the theory assumes profit-seeking firms, identical workers and a wage the firm cannot influence. Actual wages also reflect bargaining and employer power.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification. Component 1, Microeconomics: area of study Labour market, topic Wage determination (the demand-side outcomes and MRP theory).

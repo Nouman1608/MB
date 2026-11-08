@@ -158,6 +158,23 @@ These questions cover Market power/Information asymmetries, Public goods and Ine
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next topic.
 - [Book a free trial class](/trial/) for help with any question you got wrong.
 
+## Frequently asked questions
+
+**What is moral hazard?**
+Moral hazard is a change in behaviour after risk has been transferred, because the person no longer bears the full cost. For example, someone with full insurance may take less care, raising the chance of a claim.
+
+**How does asymmetric information cause a market to shrink?**
+If buyers cannot tell good items from poor ones, they will pay only around the average value. Owners of good items who need more than that price withdraw, so the market shrinks or disappears.
+
+**What are the two tests for a public good?**
+A public good is non-excludable, so non-payers cannot be stopped from using it, and non-rival, so one person's use does not reduce what is available to others. Naming only non-excludability leaves the classification unsupported.
+
+**Which OCR A Level Economics topics cover information failure and public goods?**
+Market power/Information asymmetries, Public goods and Inequity are topics in Component 01, Microeconomics, of the OCR A Level Economics (H460) specification.
+
+**Why is the efficient price of an uncongested public good zero?**
+When a good is uncongested, an extra user adds no extra cost, so marginal cost is zero and charging a price would exclude users for no saving. Falling average cost is not the same as zero marginal cost.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, topics Market power/Information asymmetries, Public goods and Inequity.

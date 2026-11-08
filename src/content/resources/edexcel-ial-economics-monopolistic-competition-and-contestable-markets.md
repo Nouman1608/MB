@@ -213,6 +213,23 @@ With F = 0 the market is perfectly contestable and the incumbent earns nothing. 
 - Saying a contestable market must have many firms.
 - Confusing sunk costs with fixed costs. Fixed costs may be recoverable.
 
+## Frequently asked questions
+
+**Is monopolistic competition in the IAS or the full International A Level?**
+Monopolistic competition and contestability are section 3.3.3 items 4 and 8 of the Edexcel IAL Economics specification (YEC11). They sit in Unit 3, Business behaviour, which is an IAL compulsory unit, so the content is examined only in the full International Advanced Level, not the IAS.
+
+**What does the long-run equilibrium look like in monopolistic competition?**
+The firm produces where MC cuts MR and reads price from the demand curve. In the long run the downward-sloping demand (AR) curve just touches the ATC curve at that output, so profit is normal and there is no incentive to enter or leave.
+
+**What is excess capacity in monopolistic competition?**
+Excess capacity is the gap between the firm's actual output and the output at minimum ATC. Because long-run demand touches ATC on its downward-sloping part, the firm produces less than the minimum-cost output; excess capacity does not mean the firm is making a loss.
+
+**What is limit pricing?**
+Limit pricing is setting the highest price that still makes entry unprofitable for a potential rival. The incumbent gives up some profit compared with the monopoly price so that an entrant's expected profit would not cover its sunk entry cost.
+
+**Why do sunk costs make a market less contestable?**
+A sunk cost, such as advertising or specialised equipment with no resale value, cannot be recovered on leaving the market. The bigger the sunk cost, the more an entrant risks, so the entry threat is weaker and the incumbent can charge a higher price and keep more profit.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. See sections 3.3.3 item 4 and item 8.

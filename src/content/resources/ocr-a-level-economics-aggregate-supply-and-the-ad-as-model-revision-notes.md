@@ -256,6 +256,23 @@ Evaluate: demand-side is quick but needs spare capacity; supply-side is lasting 
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between SRAS and LRAS?**
+Short-run aggregate supply is aggregate supply when some costs, especially nominal wages, are fixed, so it slopes upwards. Long-run aggregate supply shows productive capacity once costs and prices have adjusted, and depends on factors of production and technology rather than the price level.
+
+**What is the difference between the Keynesian and neo-classical LRAS curves?**
+The neo-classical LRAS is vertical at potential output because wages and prices are flexible. The Keynesian curve is flat when there is spare capacity, then rises and finally becomes vertical, because wages are sticky downwards and unemployment can persist.
+
+**What is stagflation?**
+Stagflation is falling output, or slow growth, together with rising prices. In the AD/AS model it results from a cost-push shock that shifts SRAS to the left.
+
+**Why does demand-side policy struggle to fix a cost-push shock?**
+After SRAS shifts left, raising AD can restore output but only at a still higher price level, so output is bought with extra inflation. A supply-side policy that cuts costs and shifts SRAS back can improve output and prices together.
+
+**What are the limitations of the AD/AS model?**
+It reduces the economy to one price level and one output, hiding sectors and distribution. It assumes the curves are independent, treats potential output as known, does not model expectations and is static, so it says little about how long adjustment takes.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021: Aggregate supply (AS); Aggregate demand and aggregate supply; first two outcomes of Macroeconomic equilibrium.

@@ -180,6 +180,23 @@ Judgement: with high import dependence and inelastic demand, stability is likely
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why do percentage changes differ depending on which currency you measure?**
+A move from 8.00 to 10.00 tala per dirn is a 25% rise in the dirn's value but a smaller fall in the tala's value, because each percentage starts from a different base. State the currency you are measuring before calculating.
+
+**How do you calculate an effective exchange rate index?**
+Work out each partner's share of total trade, multiply each share by the bilateral index against that partner and add the results. The effective rate gives a whole-economy view that a single bilateral rate misses.
+
+**How does a central bank defend a fixed exchange rate?**
+When there is excess supply of the currency at the peg, the central bank buys its own currency using foreign reserves. It can also raise interest rates or use capital controls, but reserves are finite and each tool has a cost.
+
+**Which part of the OCR A Level Economics specification covers exchange rates?**
+Exchange rate determination, measures and systems are the first part of the topic Exchange rates in the OCR A Level Economics (H460) specification.
+
+**Does a depreciation always help an economy?**
+Not always. A depreciation makes exports cheaper and imports dearer, but it raises the cost of imported inputs and can add to inflation, and the effect on the trade balance depends on elasticities and time lags.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021, published by Oxford Cambridge and RSA Examinations.

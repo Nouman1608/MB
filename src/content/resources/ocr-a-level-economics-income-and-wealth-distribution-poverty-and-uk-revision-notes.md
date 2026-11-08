@@ -228,6 +228,23 @@ Structure for a chain: cause, mechanism, effect on a named indicator, then a cou
 - UK trends stated with no year, no cause and no consequence.
 - Comparing countries on growth alone.
 
+## Frequently asked questions
+
+**How do you calculate a Gini coefficient from quintile shares?**
+Write the cumulative shares from poorest to richest starting at 0, average each pair of neighbouring heights, add the averages, multiply by 0.2 and divide by 100 to get the area under the Lorenz curve. The Gini coefficient is 1 minus twice that area, and it is an approximation.
+
+**What is the difference between inequality and poverty?**
+Inequality is about the size of the gaps between people's shares of income or wealth. Poverty is about falling below a line, absolute or relative, so inequality can rise while poverty falls.
+
+**What causes wealth inequality?**
+Wealth inequality is driven by inheritance and gifts, saving and compounding, age and life stage, rises in asset prices such as property, income inequality itself and the tax treatment of wealth.
+
+**What is the poverty trap?**
+The poverty trap arises when benefits are withdrawn and tax is paid as earnings rise, so a worker keeps only a small part of extra pay. A high effective marginal rate weakens the incentive to work more and can lock people into low income.
+
+**What have been the main UK macroeconomic trends over the last 20 years?**
+Broad patterns include a deep recession in 2008-09 and slow recovery, a sharp fall in output in 2020 then a rebound, slow productivity growth after 2008, inflation near the 2% target for most of the period but above 10% in late 2022, and a persistent current account deficit. Check the latest ONS data before the exam.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: Component 2, topics "Income distribution and welfare" and "Trends in macroeconomic indicators".

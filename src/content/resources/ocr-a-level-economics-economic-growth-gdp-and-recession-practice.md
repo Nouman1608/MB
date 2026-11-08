@@ -143,6 +143,23 @@ These questions cover the growth part of Economic growth and development in Comp
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate real growth from nominal GDP and a price index?**
+Deflate each nominal value by dividing by the price index and multiplying by 100, then find the percentage change between the real values. Stopping at the nominal growth rate leaves the effect of rising prices in the figure.
+
+**How do you decide whether an economy is in recession from quarterly data?**
+Calculate the growth rate for each quarter and apply the usual rule of two consecutive quarters of falling real GDP. Cite the rule and the quarters that meet it, rather than just saying output fell.
+
+**Which part of the OCR A Level Economics specification covers economic growth?**
+Economic growth is the growth part of the topic Economic growth and development in Component 2, Macroeconomics, of the OCR A Level Economics (H460) specification.
+
+**What are common mistakes when calculating GDP per capita?**
+Mixing billions and millions when dividing GDP by population is a frequent slip that spoils every later figure. Put GDP and population in consistent units before dividing.
+
+**How should you evaluate the costs and benefits of growth with data?**
+Bring your own calculated results into the judgement, such as the rise in output set against the change in emissions per unit, and weigh them. Evaluation that stays general ignores the data supplied.
+
 ## Official syllabus
 
 These questions follow the OCR *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, published by OCR (Oxford Cambridge and RSA Examinations).

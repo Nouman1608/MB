@@ -129,6 +129,23 @@ State the equilibrium price and quantity, and calculate the excess supply at 12 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Which part of the Edexcel IAL Economics specification covers price determination?**
+Price determination is section 1.3.4, items 1 to 4, of the Pearson Edexcel IAL Economics specification (YEC11). It is Unit 1 content, so it is part of both the International AS and the full International A Level.
+
+**What is the most common mistake when calculating indirect tax revenue?**
+A frequent slip is multiplying the tax by the old equilibrium quantity instead of the new one after the tax. A useful check is that the burden on consumers and the burden on producers should add up to the total tax revenue.
+
+**How do you calculate consumer and producer surplus from a supply and demand diagram?**
+Each surplus is a triangle, so use half times base times height. Consumer surplus lies between the demand curve and the price, and producer surplus lies between the price and the supply curve; forgetting to halve is a common way to lose marks.
+
+**What is the difference between legal and economic incidence of a tax?**
+Legal incidence is who is required to pay the tax to the government, usually the producer. Economic incidence is who actually bears the burden through higher prices paid or lower prices received, which depends on the price elasticities of demand and supply.
+
+**How should you answer a question on the functions of the price mechanism?**
+Apply the rationing, incentive and signalling functions to the context given rather than defining them in general terms. Name the direction of movement along each curve as the price changes, since an explanation using only one curve is incomplete.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, section 1.3.4 Price determination. Published by Pearson Education Limited.

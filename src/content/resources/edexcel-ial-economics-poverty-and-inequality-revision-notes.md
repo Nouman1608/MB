@@ -227,6 +227,23 @@ Country W has shares 7, 11, 16, 22, 44, cumulative 7, 18, 34, 56, 100, B = 0.330
 - Giving effects of inequality in one direction only.
 - Concluding with a bare assertion rather than a judgement based on size, time and context.
 
+## Frequently asked questions
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty is income or consumption below a fixed level needed for basic needs, with the line fixed in real terms. Relative poverty is income far below the typical income in the same society, with the line moving with the median, often set at 60% of median income.
+
+**How do you calculate a Gini coefficient from income shares?**
+Write the cumulative income shares starting at 0, find the area of each trapezium under the Lorenz curve (group width times the average of its two cumulative shares), and add them to get area B. The Gini coefficient is then 1 minus 2B.
+
+**Why is wealth more unequally distributed than income?**
+Wealth is a stock of assets less debts, while income is a flow over a period. Wealth builds up over time and is inherited, and it earns returns that add to income, so wealth gaps are usually wider than income gaps and feed them.
+
+**What is a poverty trap?**
+A poverty trap is a weak incentive to earn more because means-tested benefits are withdrawn and tax is paid as income rises. For example, a worker who earns 50 more but loses 30 in benefits and pays 10 in tax keeps only 10, an effective marginal tax rate of 80%.
+
+**Is poverty and inequality in the IAS or the full Edexcel IAL Economics course?**
+Poverty and inequality is topic 4.3.4 in Unit 4 of the Edexcel IAL Economics specification. Unit 4 is one of the International A2 units, so it is examined only in the full International A Level.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited: Unit 4, topic 4.3.4 Poverty and inequality, points 1 and 2.

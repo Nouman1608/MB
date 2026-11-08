@@ -222,6 +222,23 @@ Check on 3: new TR = 22 x 400 = 8,800.
 - Stating a curve relationship with no reason (say why MC rises: falling MP).
 - Working out MC from a table by dividing TC by output instead of using the change in TC.
 
+## Frequently asked questions
+
+**What is the law of diminishing returns?**
+When more of a variable factor is added to a fixed factor in the short run, there comes a point where each extra unit adds less to output than the one before, so marginal product falls. Total product can still be rising.
+
+**What is the difference between diminishing returns and diseconomies of scale?**
+Diminishing returns is a short-run idea: at least one factor is fixed and marginal product falls as more of a variable factor is added. Diseconomies of scale are a long-run idea, where all factors change and average cost rises as the firm grows.
+
+**Why does marginal cost rise when marginal product falls?**
+With a constant wage, marginal cost equals the wage divided by marginal product. When marginal product rises, each extra unit needs less labour and MC falls; once diminishing returns set in and MP falls, MC rises.
+
+**Why does ATC reach its minimum at a higher output than AVC?**
+ATC is AFC plus AVC, and AFC keeps falling as fixed cost is spread over more output. So ATC continues to fall for a while after AVC has started to rise, and bottoms out later, where MC cuts it.
+
+**Can marginal revenue be negative?**
+Yes. For a price maker with a downward-sloping demand curve, MR becomes negative once total revenue starts to fall, which happens where demand is price inelastic. Average revenue, which equals price, cannot be negative.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), specification Issue 2, June 2018, section 3.3.2 items 1 and 2, published by Pearson Education Limited.

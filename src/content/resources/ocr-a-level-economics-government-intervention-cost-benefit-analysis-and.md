@@ -240,6 +240,23 @@ The decision turns on the discount rate.
 - Taking the whole tax as the price rise.
 - Discounting benefits but not costs in CBA.
 
+## Frequently asked questions
+
+**How does an indirect tax correct a negative externality?**
+A tax equal to the marginal external cost shifts supply up by that amount, so the market output falls to the social optimum where marginal social cost equals demand. The burden is shared between consumers and producers depending on elasticities.
+
+**What is a public/private partnership?**
+In a public/private partnership, a private firm builds, finances and perhaps operates an asset such as a hospital or school, and the government pays for its use over many years. It brings private expertise and transfers some risk, but payments can exceed the cost of public borrowing.
+
+**What is cost benefit analysis?**
+Cost benefit analysis appraises a project by listing all its social costs and benefits, private and external, valuing each in money, discounting future values and comparing totals. It is used for schools, environmental schemes, hospitals and transport projects.
+
+**What are the limitations of cost benefit analysis?**
+Intangibles such as lives saved or quiet are hard to value, forecasts are uncertain, the result is sensitive to the discount rate, and it ignores who gains and loses unless distribution is added. It is best used as one input to a decision.
+
+**How does information provision correct market failure?**
+Information such as health warnings, labels and campaigns corrects information failure. For a demerit good, demand shifts left as consumers learn the harm, moving output towards the optimum, though it works poorly where people are short-sighted or addicted.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), for first assessment in 2021, published by OCR. This guide covers the topics "Alternative methods of government intervention" and "Government failure" in Component 1.

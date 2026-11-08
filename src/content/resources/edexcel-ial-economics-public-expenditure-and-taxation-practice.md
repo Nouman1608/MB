@@ -137,6 +137,20 @@ Revise first with the [study guide](/resources/edexcel-ial-economics-public-expe
 - Try the [free diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between current expenditure, capital expenditure and transfer payments?**
+Current expenditure is day-to-day spending such as public sector wages, capital expenditure is spending on long-lived assets such as a new railway line, and transfer payments such as benefits are payments to households that buy no output. Transfers count in total public expenditure but not in G in the aggregate demand identity.
+
+**How do you show that a tax is progressive?**
+Compare the average rate of tax at two or more income levels. A tax is progressive if the average rate rises as income rises; a high or flat marginal rate on its own is not evidence.
+
+**Where do students lose marks on public expenditure and taxation questions?**
+Common slips include including transfers in G, using the marginal rate where the average rate is needed, describing only one of the two effects of a tax change on work incentives, writing "crowding out" with no mechanism and treating the Laffer curve as showing where a real economy sits.
+
+**Is public expenditure and taxation an AS or A2 topic in Edexcel IAL Economics?**
+It is section 4.3.5 of the Pearson Edexcel IAL Economics specification, in Unit 4. Unit 4 is part of the International A2 content, so the topic is examined only in the full International A Level.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited, section 4.3.5 items 1 and 2.

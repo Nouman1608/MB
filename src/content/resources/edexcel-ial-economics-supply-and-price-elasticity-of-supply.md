@@ -239,6 +239,23 @@ When supply is inelastic, a given demand increase produces a bigger price rise a
 - Describing PES of 0.6 as "inelastic, so a small response" without saying that quantity rises by 0.6% for each 1% price rise.
 - Giving a PES value without stating the time period it refers to.
 
+## Frequently asked questions
+
+**Why does the supply curve slope upwards?**
+A higher price makes extra output profitable. Producers face rising marginal costs as they expand, so they need a higher price to cover them, which gives an upward-sloping supply curve.
+
+**What shifts the supply curve?**
+The Edexcel IAL Economics specification names costs of production, new technology, indirect taxes (specific and ad valorem), subsidies and natural disasters. Higher costs, taxes and disasters shift supply left, while lower costs, new technology and subsidies shift it right.
+
+**Is a right shift of supply the same as a shift down?**
+Yes. A rightward shift means producers offer more at every price, which is the same as accepting a lower price for each quantity, so it is also a shift down. A leftward shift is also a shift up.
+
+**Are the short run and long run fixed lengths of time?**
+No. The short run is the period in which at least one factor of production cannot be changed, and the long run is the period in which every factor can be varied. For a street stall the long run might be a month, while for a power station it may be many years.
+
+**How does spare capacity affect price elasticity of supply?**
+A firm with spare capacity can raise output with little extra cost, so supply is elastic. A firm already close to full capacity must build or buy more capital before output can rise much, so its short-run PES falls towards zero.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, section 1.3.3 Supply, items 1 and 2. Published by Pearson Education Limited.

@@ -222,6 +222,23 @@ Chain of reasoning: no rivals, so the firm can raise price without losing custom
 </figure>
 
 
+## Frequently asked questions
+
+**Which part of the Edexcel IGCSE Economics specification covers business competition?**
+Business competition is section 1.2.4 of the Pearson Edexcel International GCSE Economics (4EC1) specification. It is examined in Paper 1, Microeconomics and Business Economics, and there is a single tier of entry.
+
+**What helps a firm to grow?**
+Growth is helped by access to finance, economies of scale, spreading risk across products or areas, and taking over competitors. Government regulation can restrict growth, for example by blocking a takeover, or help it, for example through support for exporters.
+
+**Why do some firms stay small?**
+Firms may stay small because the market is small or a niche, because they lack finance, or because the entrepreneur wants a comfortable income, free time or control rather than maximum profit.
+
+**Is a price war good for consumers?**
+In the short run consumers gain from lower prices. However, heavy losses may force weaker firms to close, and once rivals have gone the surviving firms may raise prices again, so the long-run effect is less certain.
+
+**Can a monopoly benefit consumers?**
+It can if large output brings economies of scale and the savings are passed on in lower prices, or if patent profits fund new products. Whether consumers gain depends on whether savings are passed on, whether a regulator limits prices and how long the barriers last.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 1.2.4.

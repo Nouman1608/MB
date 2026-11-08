@@ -175,6 +175,23 @@ Evaluate the role of the financial sector in the real economy of Country C. **[1
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the relationship between bond prices and yields?**
+Bond prices and yields move in opposite directions. The current yield is the fixed coupon divided by the bond's price, so when the price falls the yield rises; writing that bond prices rise when interest rates rise is a common error.
+
+**How do you compare the cost of a pay day loan with other borrowing?**
+Put the loans on the same time basis first by annualising the pay day cost. A cost of 20% over a few weeks is not the same as a 20% annual rate.
+
+**Why do interest rates differ between types of borrowing?**
+Lenders charge more where the risk of default is higher and less where the loan is secured by collateral they can seize and sell. Term, loan size and the borrower's credit history also affect the rate.
+
+**Which part of the OCR A Level Economics specification covers financial institutions?**
+Financial institutions, markets and borrowing are part of the role of the financial sector in the real economy, in the macroeconomics content of the OCR A Level Economics (H460) specification.
+
+**How should you evaluate the role of the financial sector in the real economy?**
+Use the figures in any extract, follow each effect through to aggregate demand, aggregate supply or employment, and reach a verdict that states what it depends on, such as leverage or the quality of lending.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Macroeconomics: the financial sector, the role of the financial sector in the real economy.

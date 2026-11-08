@@ -254,6 +254,23 @@ Each is market failure because prices reflect only private costs and benefits, s
 - Placing MSC under MPC when the externality of production is negative.
 - Treating monopoly as always productively and statically worse, without mentioning scale or dynamic gains.
 
+## Frequently asked questions
+
+**What is the condition for allocative efficiency?**
+Allocative efficiency requires price to equal marginal cost, because price shows the marginal benefit of the last unit and marginal cost shows the cost of the resources used. When there are external effects, the full test is marginal social benefit equal to marginal social cost.
+
+**Why is perfect competition productively efficient in the long run?**
+In the long run, entry removes supernormal profit and drives the price down to the lowest point of the average cost curve. Each firm then produces where price equals marginal cost and average cost is at its minimum.
+
+**What is market failure?**
+Market failure occurs when a free market fails to allocate resources efficiently, so marginal social benefit does not equal marginal social cost. It can be partial, where the quantity is wrong, or complete, where the market is missing.
+
+**Can static and dynamic efficiency conflict?**
+Yes. A firm with price power may charge above marginal cost and be statically inefficient, yet use its profit to invest and innovate. A perfectly competitive firm may be statically efficient but earn only normal profit, leaving little to invest.
+
+**How do externalities affect the markets for education and health?**
+Education has a positive externality of consumption, so it tends to be under-consumed. In health, vaccination brings positive externalities that lead to under-consumption, while smoking brings negative externalities that lead to over-consumption.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021. Sections: Component 1 Microeconomics, topics Productive and allocative efficiency, Market failure and Externalities.

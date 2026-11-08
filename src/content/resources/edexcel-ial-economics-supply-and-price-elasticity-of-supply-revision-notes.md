@@ -225,6 +225,20 @@ PES = % change in quantity supplied / % change in price
 - Making a short run and long run claim with no reason, such as fixed capital.
 - Evaluating with no judgement, for example listing factors without saying which matters most.
 
+## Frequently asked questions
+
+**What factors affect price elasticity of supply?**
+The Edexcel IAL Economics specification (YEC11, section 1.3.3) lists the time period, stock and perishability, mobility of factors of production, legal constraints and spare capacity. Supply is more elastic over longer periods, with stored stock, mobile factors, few legal limits and spare capacity.
+
+**What is PES for a straight-line supply curve through the origin?**
+Any straight-line supply curve through the origin has a PES of 1 at every point. A straight line that meets the price axis first has PES above 1 throughout, and one that meets the quantity axis first has PES below 1 throughout.
+
+**Why is PES usually higher in the long run?**
+In the short run some factor of production, such as capital or land, cannot be changed, so extra output comes only from variable factors. In the long run all factors can vary, new capacity can be built and firms can enter, so quantity supplied responds more to price.
+
+**Why does inelastic supply matter when demand rises?**
+When supply is inelastic, a rise in demand causes a large price rise and only a small increase in output, so shortages persist and producers earn higher profits for a time. With elastic supply the same demand rise brings more output and a smaller price rise.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, section 1.3.3 Supply, items 1 and 2. Published by Pearson Education Limited.

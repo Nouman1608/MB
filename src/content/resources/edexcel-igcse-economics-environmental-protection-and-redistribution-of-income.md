@@ -228,6 +228,23 @@ Spending on schools, training and healthcare raises skills and health, so people
 - Describing progressive tax as "the rich pay more money". A flat tax does that too. Progressive means a higher percentage.
 - Listing methods without a judgement. For evaluation, compare methods and reach a conclusion.
 
+## Frequently asked questions
+
+**Why does pollution lead to too much of a good being produced?**
+Pollution is an external cost: harm to third parties that the firm does not pay for. The firm's private cost is lower than the cost to society, so the market produces more of the polluting good than is socially desirable.
+
+**What types of pollution does the Edexcel IGCSE Economics specification name?**
+The Edexcel International GCSE Economics (4EC1) specification, section 2.1.1 e), names visual pollution (including litter), noise pollution, air pollution and water pollution caused by business activity.
+
+**When does a fine deter pollution?**
+A fine deters only if firms expect to pay more than they gain from polluting. If the chance of being caught is low, the expected fine may be smaller than the saving, so weak inspection makes fines weak.
+
+**What are the drawbacks of subsidies to protect the environment?**
+A subsidy encourages cleaner production but costs taxpayers money, which has an opportunity cost, since the same funds could pay for schools or hospitals. It also does not directly discourage the polluting alternative.
+
+**How does investment in education and healthcare reduce poverty?**
+It raises people's skills and health, so they can earn more and work for longer, tackling a cause of poverty rather than just the symptom. The benefits take years to appear and the spending has an opportunity cost.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, Pearson Education Limited, section 2.1.1 e) and f).
