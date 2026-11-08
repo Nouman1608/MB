@@ -24,7 +24,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-social-context-and-behaviour-8182"
     subtopic: "psychological-problems-8182"
-description: "Condensed recall notes on social influence, language and communication, brain and neuropsychology, and psychological problems for AQA GCSE Psychology (8182) Paper 2."
+description: "Revision notes for AQA GCSE Psychology (8182) Paper 2: social influence, language and communication, brain and neuropsychology, and psychological problems."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -184,6 +184,20 @@ are opposite claims. 2. Milgram's study, supporting the Agency Theory of obedien
 CBT). 4. Because the question specifically asks for comparison, and simply describing both
 explanations side by side does not demonstrate the comparative skill being assessed. 5. Using a
 labelled diagram rather than a prose or bullet-list description.
+
+## Frequently asked questions
+
+**What is the difference between conformity and obedience?**
+Conformity is changing behaviour to fit a majority, studied by Asch. Obedience is following a direct order from an authority figure, studied by Milgram and explained by his Agency Theory.
+
+**What did Piliavin's subway study find?**
+A confederate who collapsed appearing ill, with a cane, was helped far more often and more quickly than one who appeared drunk, suggesting people weigh the cost of helping against the cost of not helping.
+
+**What are the functions of the four brain lobes?**
+The frontal lobe handles thinking, planning and the motor area, the parietal lobe the somatosensory area, the occipital lobe the visual area, and the temporal lobe the auditory area and memory.
+
+**What are the characteristics of the ICD dependence syndrome?**
+Characteristics include tolerance, withdrawal, a compulsion to use and difficulty controlling use. Addiction differs from substance misuse, which is harmful use without dependence.
 
 ## Related resources
 

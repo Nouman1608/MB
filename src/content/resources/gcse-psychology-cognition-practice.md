@@ -147,3 +147,17 @@ Related: [Cognition and Behaviour revision notes](/resources/gcse-psychology-cog
 - Naming variables without stating how they were measured.
 - Saying "correlation does not equal causation" without naming a plausible third variable.
 - Confusing Gibson's bottom-up theory with Gregory's top-down theory.
+
+## Frequently asked questions
+
+**What topics do these GCSE Psychology cognition practice questions cover?**
+They cover memory, perception, development and research methods from Paper 1, Cognition and Behaviour, of AQA GCSE Psychology 8182, including the multi-store model, forgetting, visual illusions, Piaget and Dweck.
+
+**How do you get full marks on a correlation question in GCSE Psychology?**
+State what the correlation shows and that it cannot show cause, then name a plausible third variable. Saying "correlation does not equal causation" without a named third variable will not earn the mark.
+
+**What are common mistakes in GCSE Psychology memory questions?**
+Students often give the duration of short-term memory as a few minutes, confuse episodic with semantic memory, and explain the recency effect using long-term memory instead of short-term memory.
+
+**How are marks given for describing a study?**
+In the worked answers, marks come for the procedure, the findings and what the study shows. Naming a study without saying what it found earns little.

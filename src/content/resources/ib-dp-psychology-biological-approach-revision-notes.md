@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-biological-approach"
-description: "Condensed revision notes on IB Diploma Programme Psychology's compulsory core Biological approach -- brain and behaviour, hormones and pheromones, genetics and behaviour, and (HL only) animal research -- with evaluation prompts and self-test questions."
+description: "Revision notes on the IB DP Psychology biological approach: brain and behaviour, hormones and pheromones, genetics, HL animal research and evaluation prompts."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -175,6 +175,20 @@ findings cannot establish causation, and findings may not generalise beyond the 
 studied. 5. Memory is a valid example: the biological approach examines it through brain structures
 (e.g. the hippocampus's role in forming new memories), while the cognitive approach examines it
 through information-processing models of how memory is encoded, stored and retrieved.
+
+## Frequently asked questions
+
+**What did Maguire et al. (2000) find about London taxi drivers?**
+Taxi drivers had significantly larger posterior hippocampal volume than controls, and this correlated with years of driving, supporting the hippocampus's role in spatial memory and neuroplasticity.
+
+**What is the difference between a hormone and a pheromone?**
+A hormone is a chemical messenger released into the bloodstream that acts within the body that produced it. A pheromone is a chemical signal that acts between individuals of the same species.
+
+**Do humans have pheromones?**
+It is contested. Candidates such as androstadienone have been studied, but no human pheromone has been conclusively identified.
+
+**Is Caspi et al.'s (2003) gene-environment finding settled?**
+No. Several later, larger studies and meta-analyses, such as Risch et al. (2009), failed to replicate the interaction, so it should be presented as influential but disputed.
 
 ## Official syllabus
 

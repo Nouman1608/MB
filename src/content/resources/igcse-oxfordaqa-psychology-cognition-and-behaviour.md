@@ -27,7 +27,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "research-methods-paper2-9218"
-description: "Memory, perception, biopsychology, and research methods -- the full content of Paper 1 Cognition and Behaviour for OxfordAQA International GCSE Psychology (9218)."
+description: "Study guide to OxfordAQA International GCSE Psychology (9218) Paper 1: memory, perception, biopsychology and research methods, with key studies and examples."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -185,3 +185,17 @@ Confusing sensation with perception. Swapping proactive and retroactive interfer
 - Classify monocular and binocular depth cues and explain perceptual set, with a named study for each factor.
 - Describe the divisions of the nervous system, the endocrine system and fight-or-flight, synaptic transmission, brain lobes and localisation of function including the two named language areas.
 - Identify variables, distinguish reliability from validity, state the null and alternative hypothesis, and apply BPS ethical guidelines including how deception is justified and managed.
+
+## Frequently asked questions
+
+**How is OxfordAQA International GCSE Psychology 9218 Paper 1 assessed?**
+Paper 1 is a 2-hour written exam worth 100 marks (50% of the qualification), split into four 25-mark sections: Memory, Perception, Biopsychology and Research Methods. There is no coursework.
+
+**What are the four explanations for visual illusions in the 9218 specification?**
+The specification names ambiguity, misinterpreted depth cues, fiction and size constancy. For example, the Müller-Lyer and Ponzo illusions arise from misapplied depth cues.
+
+**What is the James-Lange theory of emotion?**
+It proposes that physiological arousal comes first and the emotion is our interpretation of that bodily change.
+
+**Is deception banned under BPS ethical guidelines?**
+No. Deception is permissible where it is scientifically justified and unavoidable, provided participants are fully debriefed as soon as possible.

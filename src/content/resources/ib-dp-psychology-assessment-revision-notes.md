@@ -8,7 +8,7 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
 order: 1
-description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, the four options and the experimental study -- for IB Diploma Programme Psychology, first assessment 2019 (final session November 2026)."
+description: "Revision notes on how IB DP Psychology is assessed at SL and HL: papers, weightings, the four options and the internal assessment, first assessment 2019."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -96,6 +96,20 @@ Knowledge and comprehension, application and analysis, synthesis and evaluation,
 6. What does HL Paper 3 specifically assess?
 
 **Answers:** 1. Knowledge and comprehension of content; application and analysis of theories/research; synthesis and evaluation of research; selection and use of research skills. 2. The write-up and analysis. 3. Because the write-up, analysis and discussion must be entirely the student's own individual work, and close similarity to a group member's write-up risks being flagged during external moderation. 4. Selection and use of research skills — tested directly through designing and conducting an original study, rather than writing about research in the abstract. 5. Abnormal psychology, developmental psychology, health psychology, psychology of human relationships — SL students study one, HL students study two. 6. Research methodology — three short-answer questions.
+
+## Frequently asked questions
+
+**What are the IB DP Psychology weightings at SL and HL?**
+At SL, Paper 1 is 50%, Paper 2 is 25% and the internal assessment is 25%. At HL, Paper 1 is 40%, Paper 2 is 20%, Paper 3 is 20% and the internal assessment is 20%.
+
+**How many options do you answer on IB Psychology Paper 2?**
+SL students study one option and answer one essay on it. HL students study two options and answer one essay from each.
+
+**Is the IB Psychology internal assessment a group or individual task?**
+The experiment is usually carried out in a small group, but the write-up and analysis must be each student's own individual work. The IA is externally moderated by IB examiners.
+
+**What does HL Paper 3 assess in IB Psychology?**
+HL Paper 3 tests research methodology specifically, with three short-answer questions. It is worth 20% of the HL grade.
 
 ## Official syllabus
 

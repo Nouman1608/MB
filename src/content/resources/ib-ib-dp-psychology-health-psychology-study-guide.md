@@ -12,7 +12,7 @@ order: 7
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-health-psychology"
-description: "How biological, cognitive and sociocultural factors shape health, how stress and addiction are explained, and how health promotion is evaluated, for IB Diploma Psychology."
+description: "Study guide to the IB DP Psychology health option: determinants of health, stress, addiction and obesity, health belief models and health promotion."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -122,3 +122,17 @@ For longer responses, plan before you write: a short introduction that defines t
    *Subjective norms and perceived behavioural control, with intention as the link to behaviour.*
 8. Why should a health intervention take account of the stage of change?
    *Different messages suit people who are not yet considering change than those already acting or trying to maintain change.*
+
+## Frequently asked questions
+
+**What are the determinants of health in IB Psychology?**
+Biological determinants include genetics and the stress response, cognitive determinants include beliefs, perceived control and self-efficacy, and sociocultural determinants include income, education, social support and culture.
+
+**What is Lazarus and Folkman's transactional model of stress?**
+It says stress depends on appraisal. In primary appraisal you judge whether an event is a threat, harm or challenge, and in secondary appraisal you judge whether you have the resources to cope.
+
+**What is the health belief model?**
+The health belief model says whether a person acts depends on perceived susceptibility, perceived severity, perceived benefits, perceived barriers and cues to action.
+
+**What is the difference between problem-focused and emotion-focused coping?**
+Problem-focused coping tackles the source of stress, while emotion-focused coping manages the feelings it produces. Which works best depends on whether the situation can be changed.

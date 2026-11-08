@@ -117,3 +117,17 @@ Plan an essay with an introduction that defines key terms, two or three argument
    *Arbitrary group categories can be enough to produce ingroup favouritism.*
 8. Name one reason a laboratory study of bystanders may have low ecological validity.
    *The emergency is artificial and participants may not behave as they would in a real incident.*
+
+## Frequently asked questions
+
+**What are the three areas of the IB Psychology human relationships option?**
+This study guide covers personal relationships, group dynamics and social responsibility. The exact content list differs between course versions, so match it to your teacher's outline.
+
+**What did Sherif's Robbers Cave study show?**
+Rivalry grew when two groups of boys competed for limited rewards, and hostility fell when they worked towards superordinate goals that neither group could achieve alone, supporting realistic conflict theory.
+
+**What is the difference between prejudice, stereotypes and discrimination?**
+Prejudice is an attitude, a stereotype is a generalised belief about a group, and discrimination is behaviour that treats people unfairly because of their group membership.
+
+**What conditions does Allport's contact hypothesis require?**
+Contact between groups reduces prejudice under conditions including equal status, common goals, cooperation and support from authorities or institutions.

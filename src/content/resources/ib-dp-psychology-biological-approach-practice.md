@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-biological-approach"
-description: "Original practice questions with full worked answers covering the brain and behaviour, hormones and pheromones, genetics and behaviour, and (HL only) animal research, for the compulsory core Biological approach of IB Diploma Programme Psychology."
+description: "Practice questions with worked answers on the brain, hormones and pheromones, genetics and HL animal research for the IB DP Psychology biological approach."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -94,6 +94,20 @@ Every other question in this set builds towards the two-part habit the notes rec
 mechanism and then explaining what behaviour it accounts for, or naming a finding and then evaluating
 it -- so that by question 7, a student who has worked through Sections A and B has already rehearsed
 the component skills the full essay demands.
+
+## Frequently asked questions
+
+**Which topics of the IB Psychology biological approach are studied at SL and HL?**
+Both SL and HL study the brain and behaviour, hormones and pheromones and behaviour, and genetics and behaviour. HL students also study the role of animal research in understanding human behaviour.
+
+**How many marks are IB Psychology Paper 1 questions worth?**
+On Paper 1 (first assessment 2019), each of the three Section A short-answer questions is worth 9 marks and the Section B essay is worth 22 marks.
+
+**What is a concordance rate in twin studies?**
+A concordance rate is the percentage of twin pairs in which both twins share a particular trait or behaviour. Comparing identical and non-identical twins helps estimate genetic influence.
+
+**Why is naming a neurotransmitter not a complete biological explanation?**
+A name alone does not explain the mechanism or the behaviour. A complete explanation states what the neurotransmitter does physiologically and links that mechanism to the specific behaviour.
 
 ## Official syllabus
 

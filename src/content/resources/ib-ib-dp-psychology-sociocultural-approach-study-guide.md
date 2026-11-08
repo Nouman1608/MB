@@ -95,3 +95,17 @@ IB command terms matter. **Describe** needs a detailed account; **explain** need
 5. Give one criticism of Hofstede's cultural dimensions. *For example: the data came from one company, and nations are treated as uniform.*
 6. What is the difference between emic and etic approaches? *Emic studies a culture from within; etic applies external concepts across cultures.*
 7. Eight participants give an in-group mean of 6.5 points out of 10. What is the out-group mean? *3.5 points.*
+
+## Frequently asked questions
+
+**What are the three processes in social identity theory?**
+Tajfel and Turner's social identity theory describes social categorisation, social identification and social comparison between the in-group and out-groups.
+
+**What did the minimal group paradigm show?**
+Tajfel and colleagues (1971) found that schoolboys divided into groups on trivial grounds tended to give more points to their own group, suggesting mere categorisation can produce in-group favouritism.
+
+**What are Berry's four acculturation strategies?**
+They are integration (keeping your own culture and taking part in the new one), assimilation, separation and marginalisation.
+
+**What is the difference between emic and etic approaches?**
+An emic approach studies a culture from within, while an etic approach applies external concepts across cultures, which risks imposing Western theories on other societies.

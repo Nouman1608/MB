@@ -9,7 +9,7 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
 order: 2
-description: "The core approaches to understanding behaviour, research methodology and four options of IB Diploma Programme Psychology, with recommended teaching hours for SL and HL, for first assessment 2019."
+description: "Syllabus guide to IB DP Psychology (first assessment 2019): the core approaches, research methods and four options, with SL and HL teaching hours."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -142,6 +142,20 @@ covered at the same depth in less time simply because it was added
 later in the course -- the syllabus allocates genuinely equal teaching
 time to both of an HL student's two options, and Paper 2 examines them
 with equal weight.
+
+## Frequently asked questions
+
+**How many teaching hours does IB DP Psychology have?**
+The course has 150 teaching hours at SL and 240 at HL. These cover the core approaches, approaches to researching behaviour, the option or options, and the internal assessment.
+
+**How many hours are spent on research methods at SL and HL?**
+Approaches to researching behaviour takes 20 hours at SL and 60 hours at HL, because HL students also sit Paper 3 on research methodology.
+
+**How many hours does the IB Psychology internal assessment take?**
+The internal assessment, an experimental study, is allocated 20 hours at both SL and HL.
+
+**Do you study all three core approaches in IB Psychology?**
+Yes. The biological, cognitive and sociocultural approaches are not alternatives: every student studies all three, and many topics, such as memory, are revisited from more than one approach.
 
 ## Official syllabus
 

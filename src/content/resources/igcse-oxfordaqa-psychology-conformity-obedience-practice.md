@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "social-influences-9218"
-description: "Original exam-style practice questions with full worked answers on conformity and obedience -- Asch, Milgram, Agency theory and the Authoritarian Personality -- for OxfordAQA International GCSE Psychology (9218)."
+description: "Practice questions with worked answers on Asch, Milgram, Agency theory and the Authoritarian Personality for OxfordAQA International GCSE Psychology (9218)."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -99,3 +99,17 @@ Related: [Conformity and Obedience study guide](/resources/igcse-oxfordaqa-psych
 ## Approaching Conformity and Obedience questions
 
 Most questions on this content reward a consistent structure: name the factor or theory, state whether it is social/situational or dispositional, then explain the mechanism by which it produces its effect — rather than simply describing what the factor or theory is. Where a question names a specific behaviour or scenario, identify first whether it is testing conformity or obedience before answering, since the two are frequently confused despite the specification treating them as distinct. Pay close attention to command words: "identify" wants a named factor or study with no elaboration, "explain" wants the mechanism behind it, and "describe the procedure of" wants the actual method a named study used rather than its findings — answering at the wrong depth for the command word given is one of the most avoidable ways to lose marks on this content.
+
+## Frequently asked questions
+
+**What do these OxfordAQA 9218 conformity and obedience questions cover?**
+They cover definitions, Asch's and Milgram's procedures and findings, social and dispositional factors in conformity, Agency theory, the Authoritarian Personality and legitimate authority.
+
+**How should you structure a conformity or obedience answer?**
+Name the factor or theory, state whether it is social or dispositional, then explain the mechanism by which it has its effect. Check first whether the question is about conformity or obedience.
+
+**What is the difference between Agency theory and the Authoritarian Personality?**
+Agency theory is a social, situational explanation centred on the agentic state. Adorno's Authoritarian Personality is a dispositional explanation based on personality traits, often linked to a strict upbringing.
+
+**What are common mistakes in conformity and obedience questions?**
+Students often treat conformity and obedience as the same process, name Asch or Milgram without describing the research, and give a vague paraphrase instead of a precise definition of terms such as "agentic state".
