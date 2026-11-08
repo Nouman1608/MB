@@ -7,7 +7,7 @@ topic: "Processor Fundamentals"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "AS"
 order: 2
 syllabusTopics:

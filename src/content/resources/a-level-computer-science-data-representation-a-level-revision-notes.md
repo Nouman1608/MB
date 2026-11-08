@@ -8,7 +8,7 @@ topic: "Data Representation"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "A"
 order: 13
 syllabusTopics:

@@ -8,7 +8,7 @@ topic: "System Software"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "A"
 order: 16
 syllabusTopics:
