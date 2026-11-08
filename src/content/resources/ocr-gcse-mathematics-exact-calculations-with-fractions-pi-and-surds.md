@@ -342,6 +342,20 @@ Answer: **5√2 cm and 25 cm²**. The area is a whole number even though the sid
 - Giving a final answer such as 6/√2 with a surd still in the denominator when the question says to rationalise.
 - Rounding part-way through a calculation and losing the exact form.
 
+## Frequently asked questions
+
+**What is an exact answer in GCSE Maths?**
+An exact answer has not been rounded, such as 5/3, 20π or 4√5. Decimals such as 1.666…, 62.83 and 8.944 are approximations, so use fraction, π or surd form when the question asks for an exact answer.
+
+**What is a surd?**
+A surd is a root that cannot be written as a fraction of two integers, such as √2, √7 or √10. √16 is not a surd, because it equals the whole number 4.
+
+**Do you need a calculator for exact calculations in OCR GCSE Maths?**
+No. OCR GCSE Mathematics J560 sections 3.03a and 3.03b are worded "without a calculator", so you should be able to do every skill by hand. The specification also says any content can be assessed on either type of paper.
+
+**How do you find the radius of a circle from a circumference given in terms of π?**
+Set 2πr equal to the circumference and divide both sides by π. For a circumference of 14π cm, 2r = 14, so r = 7 cm and the area is 49π cm², with no decimal needed.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. This guide covers sections 3.03a and 3.03b.

@@ -163,6 +163,20 @@ Support pages: the [study guide](/resources/ocr-gcse-mathematics-direct-and-inve
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths content do these proportion and growth questions cover?**
+They follow OCR GCSE (9-1) Mathematics J560 sections 5.02 and 5.03: direct and inverse proportion, simple and compound interest, depreciation and growth and decay. Proportion to a power or root and exponential formulas are Higher tier only.
+
+**How do you tell whether a problem is direct or inverse proportion?**
+Ask what happens to y when x increases. If y increases and y ÷ x stays constant, it is direct; if y decreases and x × y stays constant, such as speed and time over a fixed distance, it is inverse.
+
+**Why should you show the step where you find k?**
+Finding the constant of proportionality k is part of the method, so showing it gives a clear line of working even if the final number goes wrong. Write the full equation with k as a number before substituting the new value.
+
+**Can you add the percentages when a value changes over several years?**
+No. Convert each percentage to a multiplier and multiply them, because each change applies to a different amount. Adding the percentages is one of the most common ways to lose marks.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessment 2017, sections 5.02a, 5.02b and 5.03a.

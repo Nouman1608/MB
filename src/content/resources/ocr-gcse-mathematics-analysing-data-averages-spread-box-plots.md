@@ -299,6 +299,20 @@ On a scatter graph, an outlier is a point well away from the trend that the othe
 - Describing correlation with no context, or claiming that correlation proves one variable causes the other.
 - Extrapolating far beyond the data and presenting the result as reliable.
 
+## Frequently asked questions
+
+**Why is the mean from grouped data only an estimate?**
+In a grouped table you only know which class each value lies in, not its exact value. The estimated mean treats every value as sitting at its class midpoint, so the true mean could be a little higher or lower.
+
+**What are the five values needed to draw a box plot?**
+A box plot uses the minimum, lower quartile, median, upper quartile and maximum. The box runs from the lower to the upper quartile, so its width is the interquartile range; box plots are Higher tier only in OCR GCSE Mathematics J560.
+
+**How can a graph misrepresent data even when the numbers are correct?**
+A vertical axis that does not start at zero, uneven scales, missing labels, bars of different widths, 3D effects or a pictogram with no key can all mislead. When asked what is wrong, name the feature and then describe the effect it has.
+
+**What should you do with an outlier in a data set?**
+Say whether it might be an error, such as a misplaced decimal point, or a genuine unusual value, and check it if you can. Do not remove it without a reason; on a scatter graph, draw the line of best fit through the main pattern and comment on the outlier.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 12.03 Analysing data (12.03a to 12.03d).

@@ -274,6 +274,20 @@ Angles: 97.5° and 82.5°
 - Giving "1" line of symmetry when the shape has none (a parallelogram), or writing "order 0" when you mean order 1.
 - Leaving out the final statement in a proof, or proving the result for one example only.
 
+## Frequently asked questions
+
+**What is the formula for the interior angle sum of a polygon?**
+The interior angles of a polygon with n sides add up to (n − 2) × 180°. Divide by n only for a regular polygon, where every interior angle is equal.
+
+**What is the difference between alternate and corresponding angles?**
+Alternate angles lie on opposite sides of the transversal, between the parallel lines, in a Z shape. Corresponding angles sit in matching positions at the two crossings, in an F shape; both pairs are equal, but the reason you write must match the shape.
+
+**Does a parallelogram have any lines of symmetry?**
+No. A parallelogram has no lines of symmetry but has rotation symmetry of order 2, which is a common source of lost marks.
+
+**How do you find the exterior angle of a triangle?**
+The exterior angle of a triangle equals the sum of the two opposite interior angles. For example, if two angles are 47° and 68°, the exterior angle at the third vertex is 115°.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), for first assessment in 2017: sections 8.03 and 8.04.

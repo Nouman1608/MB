@@ -322,6 +322,23 @@ A cuboid 3 units by 2 units by 1 unit high needs three edges of 3 units, 2 units
 - Drawing a side elevation back to front.
 - Drawing isometric edges at 45° instead of 30° to the horizontal, or tilting the vertical edges.
 
+## Frequently asked questions
+
+**What is the difference between a plan and an elevation?**
+A plan is the view of a solid from directly above. An elevation is a view from the side, either the front elevation or a side elevation.
+
+**What is the difference between a prism and a pyramid?**
+A prism has the same polygon cross-section along its whole length, so it has two matching end faces. A pyramid has a polygon base with triangular faces that meet at one vertex, the apex.
+
+**What does side a mean in triangle ABC?**
+Side a is the side opposite angle A, so a = BC. In the same way, b = CA and c = AB.
+
+**How many vertices does a cylinder or a cone have?**
+A cylinder has no vertices, and a cone has one vertex, at its apex. A sphere has no edges and no vertices.
+
+**How do you find the midpoint of two coordinates?**
+Add the x-coordinates and halve, then add the y-coordinates and halve. The midpoint of (a, b) and (c, d) is ((a + c)/2, (b + d)/2).
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessment 2017, sections 8.01 and 8.06.

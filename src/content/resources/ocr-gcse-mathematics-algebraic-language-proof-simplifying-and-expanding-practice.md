@@ -157,6 +157,23 @@ Revise first with the [study guide](/resources/ocr-gcse-mathematics-algebraic-la
 * Take one of the [free 10-minute diagnostics](/diagnostics/)
 * [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these algebraic proof and expanding questions cover?**
+They cover OCR GCSE (9-1) Mathematics J560 sections 6.01a to 6.01d: algebraic language, identities and proof, collecting like terms, index laws and expanding brackets. Questions marked Higher tier only, including formal proof and expanding more than two binomials, are for Higher tier candidates alone.
+
+**What is the most common mistake when expanding a squared bracket like (x + a)²?**
+The most common slip is writing (x + a)² as x² + a², which loses the middle term 2ax. Write the bracket out twice, as (x + a)(x + a), and multiply every term by every term.
+
+**Why are numerical examples not accepted as an algebraic proof?**
+Checking a few numbers only shows the statement works for those numbers, not for every integer. A proof uses letters for general numbers, such as 2n + 1 for any odd number, simplifies to a form that shows the property, and ends with a sentence explaining why.
+
+**How should you set out a "show that" question in algebra?**
+Start from one side, usually the more complicated one, and change it line by line until it matches the target exactly. Do not work on both sides at once, and finish by stating that the result matches.
+
+**How can you check an expansion quickly in the exam?**
+Substitute a small value such as x = 1 or x = 2 into both the original expression and your expanded answer. If the two values differ, there is an error somewhere in your working.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. These questions cover sections 6.01a to 6.01d.

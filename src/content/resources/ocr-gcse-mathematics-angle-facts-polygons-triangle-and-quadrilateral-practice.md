@@ -136,6 +136,20 @@ Revise first with the [study guide](/resources/ocr-gcse-mathematics-angle-facts-
 - Go to the [course hub](/boards/ocr/gcse/mathematics/) and tick topics on the [checklist](/checklists/ocr/gcse/mathematics/).
 - Try the free 10-minute [diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these angle and polygon questions cover?**
+They follow OCR GCSE (9-1) Mathematics J560 sections 8.03 (angles) and 8.04 (properties of polygons). Most questions are for both tiers; the more formal geometric proof question is Higher tier only.
+
+**Why do you need to write a reason for every angle in a geometry question?**
+In angle questions the reasons are part of the answer, so an angle given with no reason, or with a vague reason such as "parallel lines", can lose marks. Quote the named fact, such as alternate angles or angles on a straight line sum to 180°.
+
+**Can you measure angles from a diagram in the exam?**
+No, not when the diagram is marked as not drawn accurately. Work out angles from the facts and the given information, and never rely on a measured value in a proof.
+
+**How do you start a regular polygon question when you are given the interior angle?**
+Find the exterior angle first, as 180° minus the interior angle, then divide 360° by the exterior angle to get the number of sides. Dividing 360 by the interior angle is a common error.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), for first assessment in 2017: sections 8.03 and 8.04.

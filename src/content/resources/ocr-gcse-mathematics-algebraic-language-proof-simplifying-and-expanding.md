@@ -370,6 +370,23 @@ A check: put x = 1 into the original and the answer. In worked example 22, the l
 
 Condense this unit with the [revision notes](/resources/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding-revision-notes/), then test yourself on the [practice questions](/resources/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding-practice/). Factorising and algebraic fractions follow in 6.01e to 6.01g.
 
+## Frequently asked questions
+
+**Is algebraic proof Higher tier only in OCR GCSE Maths J560?**
+Using algebra to construct proofs is Higher tier only in section 6.01a. Both tiers must still tell an equation from an identity, show that two expressions are equivalent and construct simple algebraic arguments.
+
+**What are like terms in algebra?**
+Like terms have exactly the same letters raised to exactly the same powers, so 3x and 8x are like terms but 3x and 3x² are not. xy and yx are like terms because multiplication can be done in either order.
+
+**How do you prove that the product of two odd numbers is odd?**
+Write the numbers as 2a + 1 and 2b + 1, using different letters because they need not be equal. Expanding gives 4ab + 2a + 2b + 1 = 2(2ab + a + b) + 1, which is 2 times an integer plus 1, so it is odd.
+
+**What does a negative power such as x⁻² mean?**
+A negative power means a reciprocal, so x⁻² = 1/x². It is not a negative number, and confusing x⁻² with −x² is a common error.
+
+**How do you expand three brackets such as (x + 2)(x − 3)(x + 4)?**
+Expand two of the brackets first and tidy the result, then multiply that quadratic by the third bracket and collect like terms. Expanding more than two binomials is Higher tier only in OCR GCSE Mathematics.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. This guide covers sections 6.01a to 6.01d.

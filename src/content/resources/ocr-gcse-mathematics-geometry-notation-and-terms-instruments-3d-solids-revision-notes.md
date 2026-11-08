@@ -288,6 +288,20 @@ Work from the clue that cuts down the options fastest.
 - Drawing isometric edges at 45° or leaving construction lines out when the question asks for a drawing.
 - Giving only a sketch when the question says to draw accurately with instruments.
 
+## Frequently asked questions
+
+**How many faces, edges and vertices does a prism have?**
+A prism whose cross-section has n sides has n + 2 faces, 3n edges and 2n vertices. For example, a hexagonal prism has 8 faces, 18 edges and 12 vertices.
+
+**How do you check the number of faces, edges and vertices of a solid?**
+For a solid with flat faces, faces + vertices − edges = 2. For example, a cube has 6 + 8 − 12 = 2; this is a checking tool and not a result listed in the specification.
+
+**How do you draw a reflex angle with a protractor?**
+Subtract the reflex angle from 360°, draw that smaller angle, and take the reflex angle on the outside. For 300°, draw 60° and use the other side.
+
+**What angle are lines drawn at on isometric paper?**
+Vertical edges stay vertical, and the other two directions are drawn at 30° to the horizontal, one up to the right and one up to the left. Drawing these edges at 45° is a common error.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessment 2017, sections 8.01 and 8.06.

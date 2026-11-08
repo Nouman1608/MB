@@ -172,6 +172,20 @@ An estimate of the mean distance is 18 km. Find x. **[5]**
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of the OCR GCSE Maths specification do these averages and box plot questions cover?**
+They cover section 12.03 of OCR GCSE (9-1) Mathematics J560: summary statistics, misrepresenting data, bivariate data and outliers. The cumulative frequency and box plot questions are Higher tier only.
+
+**What do you divide by when estimating a mean from a grouped frequency table?**
+Divide the total of midpoint × frequency by the total frequency, which is the number of values. Dividing by the number of classes is a common way to lose marks.
+
+**How do you get full marks when asked to compare two data sets?**
+Compare like with like, such as an average with an average and a spread with a spread, and say what each comparison means in the context of the question. Quoting numbers alone, with no interpretation, usually does not earn the comparison marks.
+
+**Why is a prediction from extrapolation unreliable?**
+Extrapolation predicts a value beyond the span of the given data, where the trend may not continue. When you use a line of best fit outside the data, say that the estimate is unreliable for that reason.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 12.03 Analysing data (12.03a to 12.03d).

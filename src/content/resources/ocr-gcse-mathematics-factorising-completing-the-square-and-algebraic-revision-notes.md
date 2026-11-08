@@ -298,6 +298,20 @@ Answer by hand, then check below.
 - Subtracting fractions and changing only the first sign of the numerator, not both terms of the bracket.
 - Showing no working. Visible working lets you and the reader follow your reasoning, so write the factorised numerator and denominator before cancelling.
 
+## Frequently asked questions
+
+**How do you factorise x² + bx + c?**
+Find two numbers whose product is c and whose sum is b, then write x² + bx + c = (x + m)(x + n). For example, x² + 10x + 21 = (x + 3)(x + 7), because 3 × 7 = 21 and 3 + 7 = 10.
+
+**Does x² + 25 factorise as a difference of two squares?**
+No. The difference of two squares, a² − b² = (a − b)(a + b), needs a minus sign between the two squares. A sum of squares such as x² + 25 does not factorise this way.
+
+**How do you split the middle term to factorise ax² + bx + c?**
+Multiply a by c, find two numbers that multiply to ac and add to b, and rewrite bx as two x-terms using them. Then factorise in two pairs; the two brackets must match, and this method is Higher tier only.
+
+**What is the formula for completing the square?**
+x² + bx + c = (x + b/2)² + c − (b/2)². Halve the coefficient of x to get p, subtract p², then add the original constant.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Mathematics J560*, Version 2.1 (August 2026), for first assessment in 2017. Content statements 6.01e, 6.01f and 6.01g.

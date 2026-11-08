@@ -146,6 +146,20 @@ Read the [study guide](/resources/ocr-gcse-mathematics-circle-theorems-and-proof
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are circle theorems on the OCR GCSE Maths Foundation tier?**
+No. In OCR GCSE Mathematics J560 section 8.05, the circle theorems 8.05b to 8.05h are Higher tier only. Both tiers need the circle vocabulary in 8.05a, such as chord, arc, sector, segment and tangent.
+
+**Is "circle theorem" an acceptable reason for an angle?**
+No. A vague reason such as "circle theorem" or "angles in a circle" does not name the fact used. Write the theorem in words, for example "angles in the same segment are equal" or "opposite angles of a cyclic quadrilateral add to 180°".
+
+**What is the most common mistake with the alternate segment theorem?**
+Using the angle on the same side of the chord as the tangent-chord angle. The equal angle is in the segment on the far side of the chord from the angle you were given.
+
+**What should you look for first when a tangent appears in a circle diagram?**
+Mark the right angle where the radius meets the tangent at the point of contact. Missing this 90° angle is a common reason for getting stuck, and the alternate segment theorem may then apply as well.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017: section 8.05 Circles.

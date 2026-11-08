@@ -270,6 +270,20 @@ In a longer proof, the first congruence often leads to a second one. Prove one p
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-congruence-and-congruence-proofs-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-congruence-and-congruence-proofs-revision-notes/) before a mock. Tick off 9.02a and 9.02b on the [printable checklist](/checklists/ocr/gcse/mathematics/).
 
+## Frequently asked questions
+
+**What transformations keep a shape congruent?**
+Translation, rotation and reflection keep a shape congruent, so a congruent triangle may be turned round or flipped over. Enlargement is not allowed, because it changes the size.
+
+**Why does the order of letters matter in a congruence statement?**
+The letters show which vertices match. The statement ABC ≅ ZXY means A matches Z, B matches X and C matches Y, so AB = ZX and BC = XY; reading the matching from the picture instead can give the wrong sides.
+
+**How do you prove the base angles of an isosceles triangle are equal?**
+Draw the bisector of the apex angle to meet the base. The two triangles formed have the equal sides, equal angles at the apex and a common side, so they are congruent by SAS, and the base angles are equal.
+
+**Can you use a right angle that only looks right in the diagram?**
+No. A right angle, parallel lines or equal lengths must be stated or marked in the question before you use them in a proof. Assuming facts from the picture alone is a common error.
+
 ## Official syllabus
 
 This page is aligned to the OCR GCSE (9-1) in Mathematics (J560) specification, Version 2.1, August 2026, published by OCR for first assessment in 2017. The relevant content is 9.02a (Congruent triangles) and 9.02b (Applying congruent triangles).

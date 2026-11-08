@@ -139,6 +139,20 @@ Revise first with the [study guide](/resources/ocr-gcse-mathematics-exact-calcul
 - Take one of the [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are surds on the OCR GCSE Maths Foundation tier?**
+No. In OCR GCSE Mathematics J560 sections 3.03a and 3.03b, exact calculations with surds and rationalising denominators are Higher tier only. Exact calculations with fractions and multiples of π are for both tiers.
+
+**What does "give your answer in terms of π" mean?**
+It means leave π as a symbol in the answer, such as 36π cm², rather than replacing it with 3.14 or a calculator decimal. Writing a decimal value instead loses the exact form the question asked for.
+
+**What is the most common mistake when squaring a surd bracket such as (a + √b)²?**
+Writing it as a² + b, which misses the two middle terms. Write the bracket out twice and multiply every term by every term, remembering that √b × √b = b.
+
+**How do you rationalise a denominator with two terms, such as 3 − √2?**
+Multiply the top and bottom by the conjugate, 3 + √2, which changes the sign in the middle. The denominator becomes a difference of two squares, which is rational; multiplying by the surd alone does not work.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. These questions cover sections 3.03a and 3.03b.

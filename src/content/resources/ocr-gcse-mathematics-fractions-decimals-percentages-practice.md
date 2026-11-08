@@ -12,10 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "gcse"
     topic: "fractions-decimals-and-percentages-ocr-gcse-maths"
-description: "Original exam-style practice questions with full worked answers on fraction arithmetic, percentage change, reverse percentages, compound growth and ordering, for OCR GCSE (9-1) Mathematics (J560)."
+description: "OCR GCSE Maths J560 practice questions with worked answers on fraction arithmetic, percentage change, reverse percentages, compound growth and ordering."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
@@ -95,3 +97,17 @@ Question 8 tests a distinction that is easy to miss under time pressure: 39 out 
 ## Approaching fractions, decimals and percentages questions
 
 Before starting any percentage calculation, decide explicitly whether the number given in the question is the *original* value (calculate a percentage of it directly) or the *final* value after a change has already been applied (use the reverse-percentage method instead), since this single judgement determines the entire method and is the most heavily examined distinction on this topic. For compound-change questions, always build a single multiplier first — 1 plus or minus the rate as a decimal — and raise it to the power matching the number of time periods, rather than repeating a percentage-and-add calculation year by year, since the multiplier method is both faster and less prone to rounding errors carried across steps. When a question asks you to compare two quantities expressed as fractions of different totals, convert both to percentages or decimals before comparing, and never compare the numerators or the raw scores directly. Finally, for fraction arithmetic, check first whether the question needs a common denominator (adding or subtracting) or a reciprocal (dividing), since applying the wrong one of these two methods is one of the most common sources of lost marks on this topic even among otherwise confident students.
+
+## Frequently asked questions
+
+**Which OCR GCSE Maths topic do these fractions, decimals and percentages questions cover?**
+They cover Topic 2 of OCR GCSE (9-1) Mathematics J560: fraction arithmetic, converting between forms, percentage change, reverse percentages, compound growth and ordering. The topic applies to both Foundation and Higher tier.
+
+**What is the most common mistake in reverse percentage questions?**
+Working out the percentage of the final value and adding or subtracting it, as if the final value were 100%. Instead, write down what percentage of the original the given value represents, then divide by that percentage as a decimal.
+
+**How do you compare test scores out of different totals?**
+Convert each score to a percentage, or to fractions with the same denominator, before comparing. Raw scores out of different totals cannot be compared directly.
+
+**How do you calculate compound interest over several years?**
+Build a single multiplier, such as 1.04 for 4% interest, and raise it to the power of the number of years before multiplying the starting amount. Multiplying by the multiplier only once is a common way to lose marks.

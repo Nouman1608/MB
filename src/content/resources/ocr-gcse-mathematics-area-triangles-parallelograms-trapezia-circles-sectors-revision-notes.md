@@ -257,6 +257,20 @@ Test yourself on the [practice questions](/resources/ocr-gcse-mathematics-area-t
 </figure>
 
 
+## Frequently asked questions
+
+**What is the area formula for a trapezium?**
+The area of a trapezium is ½ × (a + b) × h, where a and b are the two parallel sides and h is the perpendicular distance between them. The ½ multiplies the sum of both parallel sides, not just one of them.
+
+**How do you find the area of a sector?**
+Multiply the fraction of the circle, θ/360, by the area of the whole circle, πr². For example, a sector of radius 5 cm and angle 288° has area 4/5 × 25π = 20π cm².
+
+**How do you find the area of a ring between two circles?**
+Subtract the inner circle's area from the outer circle's area: πR² − πr². It is not π(R − r)², which squares the difference instead.
+
+**Is ½ab sin C on the OCR GCSE Maths Foundation tier?**
+No. In OCR GCSE Mathematics J560 section 10.03a, the area of a triangle as ½ab sin C is Higher tier only. Every other area formula in the section is Foundation and Higher content.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), first assessment 2017, published by OCR. These notes cover section 10.03, Area calculations.
