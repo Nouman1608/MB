@@ -200,6 +200,23 @@ The specification suggests this as an opportunity for aseptic technique. Cut exp
 - Describing iPS cells as taken from embryos.
 - Listing only benefits or only risks of stem cell therapy and giving no judgement.
 
+## Frequently asked questions
+
+**What is the difference between totipotent, pluripotent, multipotent and unipotent cells?**
+Totipotent cells can produce any type of body cell. Pluripotent cells, found in embryos, can form many cell types. Multipotent cells form a limited number of types, and unipotent cells form only one, such as cardiomyocytes.
+
+**How are iPS cells made?**
+Adult somatic cells, such as skin cells, are treated with appropriate protein transcription factors that switch on genes giving pluripotency. The cells can then be grown and made to differentiate.
+
+**What is a mutagenic agent?**
+A mutagenic agent is something that increases the rate of mutation.
+
+**Do specialised cells lose genes?**
+No. All cells from a zygote by mitosis have the same genes; specialised cells translate only part of their DNA.
+
+**What is a frame shift?**
+A frame shift is a mutation that changes every triplet downstream of it, caused by adding or deleting a number of bases that is not a multiple of three.
+
 ## Official syllabus
 
 Source: AQA, AS and A-level Biology (7401 and 7402), specification for first teaching 2015, version 1.5, sections 3.8.1 and 3.8.2.1.

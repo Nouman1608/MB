@@ -13,13 +13,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
-description: "Species and taxonomy, biodiversity within a community and random sampling in investigations of variation, from Unit 1 of OxfordAQA International AS & A-Level Biology (9610), the first of two units forming the International AS."
+description: "Species, taxonomy, biodiversity and random sampling in investigations of diversity, from Unit 1 of OxfordAQA International AS and A-level Biology (9610)."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Unit 1 The Diversity of Living Organisms**, the
@@ -190,3 +192,20 @@ Defining a species without the word fertile. Writing binomial names without ital
 - Describe the molecular evidence used to establish relationships.
 - Distinguish species richness from an index of diversity and calculate d.
 - Design a valid random sampling investigation and know when a transect is used instead.
+
+## Frequently asked questions
+
+**What is a species?**
+A species is a group of organisms able to breed together to produce fertile offspring. Leaving out "fertile" is a common error.
+
+**What is the difference between species richness and an index of diversity?**
+Species richness counts the number of species present and ignores abundance. An index of diversity also takes into account the number of individuals of each species.
+
+**How do you calculate the index of diversity?**
+Use d = N(N − 1) ÷ Σn(n − 1), where N is the total number of organisms of all species and n is the number of each species. A higher value means greater diversity.
+
+**What does phylogenetic classification mean?**
+Phylogenetic classification groups organisms according to their evolutionary relationships and common ancestry.
+
+**Why is random sampling used in investigations of diversity?**
+Random sampling, for example placing quadrats at random coordinates, avoids bias. The OxfordAQA specification also stresses the role of chance and an appropriate sample size.

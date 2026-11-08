@@ -182,6 +182,23 @@ Both groups serve the same aim: put more energy into human food. The first two s
 - Giving a calorimetry result without stating that it is probably an underestimate.
 - Using area values in m² and ha in the same calculation.
 
+## Frequently asked questions
+
+**What is the difference between GPP and NPP?**
+GPP is the total chemical energy store in plant biomass fixed by photosynthesis. NPP is what remains after respiratory losses: NPP = GPP − R.
+
+**What is the difference between production and productivity?**
+Production is an amount of energy or biomass stored. Productivity is the rate of production, per unit area per unit time.
+
+**Why does calorimetry usually underestimate the energy in biomass?**
+Some heat escapes to the air and apparatus, and the tissue may not burn completely, so the measured value is lower than the true value.
+
+**How do you convert a value per m² to per hectare?**
+1 ha = 10 000 m², so multiply a value per m² by 10 000 to get the value per hectare.
+
+**Why is biomass measured as dry mass?**
+Fresh mass includes a variable amount of water, so dry mass gives a more reliable measure of biomass.
+
 ## Official syllabus
 
 AQA, AS and A-level Biology specification (7401 and 7402), first teaching 2015, section 3.5.3 Energy and ecosystems (A-level only).

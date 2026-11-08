@@ -179,17 +179,17 @@ These questions differ from the [topic-level practice set](/resources/a-level-bi
 
 ## Frequently asked questions
 
-**How do you tell a monocyte from a neutrophil?**
-A monocyte has a large kidney-shaped (bean-shaped) nucleus, while a neutrophil has a lobed nucleus with granular cytoplasm. Confusing the two is a common error in Cambridge 9700 answers.
+**Which sections of the Cambridge 9700 syllabus do these questions cover?**
+They cover sections 8.1 to 8.3 of Topic 8, Transport in mammals: blood cells, tissue fluid, carbon dioxide transport, the dissociation curve and the cardiac cycle.
 
-**What is the difference between the chloride shift and the Bohr shift?**
-The chloride shift is the movement of chloride ions into the red blood cell as hydrogencarbonate ions leave. The Bohr shift is the movement of the oxygen dissociation curve to the right at high carbon dioxide partial pressure.
-
-**Why is the oxygen dissociation curve S-shaped?**
-The first oxygen molecule binds with difficulty, then haemoglobin changes shape so the next ones bind more easily. Describing the curve without this shape change loses marks.
+**What are the rules for a plan diagram of a blood vessel?**
+Draw tissue-layer outlines only, with no individual cells and no shading, and keep the layers in the correct proportions.
 
 **How should you explain when heart valves open and close?**
-Compare the pressures on either side of the valve: a valve opens when pressure behind it is higher and closes when pressure in front of it becomes higher. Stating valve positions without comparing pressures does not earn full credit.
+Compare the pressures on either side of the valve. Stating valve positions without comparing pressures does not earn full credit.
+
+**How is this set different from the topic-level transport in mammals questions?**
+This set works through sections 8.1 to 8.3 by subtopic, while the topic-level set takes different angles on the same content.
 
 ## Official syllabus
 

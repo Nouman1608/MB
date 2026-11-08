@@ -156,17 +156,17 @@ They differ from the topic-level practice set; related pages are under Next step
 
 ## Frequently asked questions
 
-**What happens inside the axon during an action potential?**
-The inside becomes positive at the peak of the action potential, then more negative again during repolarisation. Saying it simply becomes "negative" is a common way to lose marks.
-
-**Which bands shorten when striated muscle contracts?**
-The I band and H zone shorten while the A band stays the same length, because the filaments slide past each other rather than shortening.
-
-**Why must you mention calcium ions at a synapse?**
-Arrival of an action potential opens voltage-gated calcium ion channels in the presynaptic knob, and the Ca²⁺ that enters triggers release of neurotransmitter. Leaving out this step loses marks.
-
 **How are these Cambridge 9700 control and coordination questions organised?**
 Each question is tagged with the subtopic (15.1 or 15.2) and learning outcomes it tests, so you can practise one outcome at a time.
+
+**How do you convert milliseconds for frequency calculations?**
+Convert ms to s before dividing 1 by the time. Forgetting this conversion gives an answer 1000 times too large or too small.
+
+**Should you say ATP gives "energy" in muscle contraction?**
+Give ATP's specific roles rather than just "energy". Giving ATP only an energy role is a common way to lose marks.
+
+**Do the filaments shorten when a muscle contracts?**
+No. The filaments slide past each other and stay the same length. Saying the filaments shorten is marked as wrong.
 
 ## Official syllabus
 

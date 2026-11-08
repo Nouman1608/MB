@@ -174,17 +174,17 @@ Learn it first: [Gas exchange study guide](/resources/a-level-biology-9700-gas-e
 
 ## Frequently asked questions
 
-**Do cilia trap dust and pathogens?**
-No. Mucus traps dust and pathogens, and cilia beat to move the mucus up towards the throat. Saying cilia trap particles is a common error in Cambridge 9700 answers.
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 9, Gas exchange: the structures of the gas exchange system, the tissues in the airways and gas exchange in the alveoli.
 
-**Do bronchioles have cartilage?**
-No. Cartilage is found in the trachea and bronchi but disappears before the bronchioles, which have smooth muscle instead.
+**Are these Cambridge 9700 past paper questions?**
+No. They are original questions written for revision and practice, with worked answers and examiner insights. Use them alongside official past papers.
 
-**Do elastic fibres contract?**
-No. Elastic fibres stretch and recoil passively; only muscle contracts. Using "contract" for elastic fibres loses marks.
+**Which mistakes are common in microscope calculations on gas exchange?**
+Forgetting to convert mm to µm before dividing by magnification, and adding units to a magnification. Using diameter instead of radius in area calculations is also common.
 
-**What should you include when describing the diffusion distance in the lungs?**
-Include both the alveolar wall and the capillary wall, each a single layer of flattened cells. Leaving out the capillary wall is a common mistake.
+**What should you do when a question says "using the data"?**
+Quote figures from the data in your answer. Ignoring the data when a question asks you to use it loses marks.
 
 ## Official syllabus
 

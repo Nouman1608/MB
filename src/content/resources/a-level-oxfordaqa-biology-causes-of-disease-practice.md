@@ -14,13 +14,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-systems-and-disease-oxfordaqa-alevel-biology"
     subtopic: "the-causes-of-disease-pathogens-lifestyle-and-genes-oxfordaqa-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on pathogens, disease mechanisms, and lifestyle risk factors for coronary heart disease and cancer, for OxfordAQA International A-Level Biology (9610), sub-topic 3.2.1."
+description: "Original practice questions with worked answers on how pathogens cause disease and on lifestyle risk factors, for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -92,3 +94,17 @@ Related: [The Causes of Disease study guide](/resources/a-level-oxfordaqa-biolog
 - Treating a correlation between a lifestyle factor and disease incidence as proof of causation, without naming another variable that could also explain the pattern.
 - Discussing coronary heart disease and cancer as though they share identical risk factors.
 - Making a general claim ("pathogens cause disease") without naming a specific pathogen and the mechanism it uses.
+
+## Frequently asked questions
+
+**Should you name a specific pathogen in disease answers?**
+Yes. General claims such as "pathogens cause disease" earn little credit; name a specific pathogen and the way it causes disease.
+
+**Which part of the OxfordAQA 9610 specification do these questions cover?**
+They cover sub-topic 3.2.1, The Causes of Disease, which includes pathogens and the lifestyle risk factors for coronary heart disease and cancer.
+
+**What should you revise before attempting these questions?**
+Read The Causes of Disease study guide first, then use the questions to test your recall and data-handling.
+
+**Are these OxfordAQA past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official past papers.

@@ -14,13 +14,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-systems-and-disease-oxfordaqa-alevel-biology"
     subtopic: "the-causes-of-disease-pathogens-lifestyle-and-genes-oxfordaqa-alevel-biology"
-description: "How pathogens cause disease, and the lifestyle risk factors linked to coronary heart disease and cancer -- 3.2.1 of OxfordAQA International AS and A-Level Biology (9610), opening Unit 2: Biological Systems and Disease."
+description: "How pathogens cause disease and the lifestyle risk factors for coronary heart disease and cancer, from 3.2.1 of OxfordAQA International A-level Biology (9610)."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **3.2.1 The Causes of Disease: Pathogens, Lifestyle
@@ -195,6 +197,20 @@ reproductive and gas-exchange — and that this is not a complete list.
 factor, explicitly separating correlation from causation.
 - Be ready to name at least one specific risk factor each for coronary
 heart disease and for cancer.
+
+## Frequently asked questions
+
+**How do pathogens cause disease?**
+Pathogens, including bacteria and viruses, cause disease by damaging host cells or by producing toxins. Keep the two mechanisms distinct in answers.
+
+**Through which interfaces can pathogens enter the body?**
+The OxfordAQA 9610 specification names the digestive system, the reproductive system and the gas-exchange system as interfaces through which pathogens can enter.
+
+**What is a pathogen?**
+A pathogen is an agent of infection, such as a bacterium or a virus, that is capable of causing disease.
+
+**What is the difference between a risk factor and a cause?**
+A risk factor is linked to a higher incidence of a disease, but the link may be a correlation rather than proof of cause. Interpreting incidence data means separating correlation from causation.
 
 ## Related resources
 

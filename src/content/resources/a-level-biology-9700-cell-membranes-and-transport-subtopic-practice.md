@@ -182,17 +182,17 @@ These questions differ from the [cell membranes practice questions](/resources/a
 
 ## Frequently asked questions
 
-**What is the difference between a channel protein and a carrier protein?**
-A channel protein is a fixed pore that lets specific molecules or ions through. A carrier protein binds the substance and changes shape to move it across the membrane.
-
-**Why should you use percentage change in mass in osmosis experiments?**
-Tissue samples usually start at different masses, so percentage change, (final − initial) ÷ initial × 100, allows a fair comparison. Using raw mass change is a common way to lose marks.
-
-**What words describe plant cells after osmosis?**
-Use "turgid" for a cell that has gained water and pushes on its wall, and "plasmolysed" when the protoplast has pulled away from the wall. Saying plant cells "burst" or "shrink" is marked wrong.
-
 **How are these 9700 practice questions organised?**
 They follow the Cambridge 9700 syllabus outcome by outcome through sections 4.1 and 4.2, with the learning outcome given in brackets at the start of each question.
+
+**How should you write a surface area to volume ratio?**
+Write it as "n : 1" by dividing surface area by volume. Leaving out ": 1" is a common way to lose a mark.
+
+**What should you use for the area of a circle in membrane calculations?**
+Use πr² with the radius, not the diameter. Using the diameter is a frequent mistake in Cambridge 9700 calculations.
+
+**What must a "name the process" answer include?**
+Give the process and a reason, such as the direction of movement relative to the gradient or the type of protein involved. Naming a process without a reason does not earn the mark.
 
 ## Official syllabus
 

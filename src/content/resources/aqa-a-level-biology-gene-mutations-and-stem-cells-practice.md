@@ -160,6 +160,20 @@ Mutant 3: an addition of one base (A). [1] This is a frame shift: from the fifth
 - Find your next weak topic with the [free 10-minute diagnostics](/diagnostics/).
 - Want to talk these topics through? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.8.1 (gene mutations) and 3.8.2.1 (stem cells and cell potency) of AQA A-level Biology 7402.
+
+**How should you answer an evaluation question on stem cell therapy?**
+Give points on both sides, such as benefits and risks, and finish with a judgement. One-sided answers with no judgement lose marks.
+
+**What strand should you use when transcribing from a template?**
+Transcribe from the template strand given, writing the complementary mRNA. Using the wrong strand is a common mistake.
+
+**How do you avoid errors in percentage calculations?**
+Check which total you are dividing by. Dividing by the wrong total is a frequent way to lose marks.
+
 ## Official syllabus
 
 Source: AQA, AS and A-level Biology (7401 and 7402), specification for first teaching 2015, version 1.5, sections 3.8.1 and 3.8.2.1.

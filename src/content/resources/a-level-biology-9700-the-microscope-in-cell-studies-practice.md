@@ -170,14 +170,14 @@ Revise first with the [1.1 study guide](/resources/a-level-biology-9700-the-micr
 **Does magnification have a unit?**
 No. Write magnification as, for example, ×1500, never "×1500 µm". Make sure both measurements are in the same unit before dividing.
 
-**Do you need to recalibrate the eyepiece graticule when changing objective?**
-Yes. One eyepiece unit represents a different length at each objective, so a calibration made at ×40 cannot be used with the ×10 objective.
-
-**Why do electron microscopes show more detail than light microscopes?**
-Electrons have a much shorter wavelength than light, giving better resolution. Explaining it only as "more magnification" loses marks.
-
 **Why should you show your working in microscope calculations?**
 If the final answer is wrong, a method mark can only be given when the working is shown. Also round the final answer to a sensible number of significant figures.
+
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover sub-topic 1.1, The microscope in cell studies: magnification, scale bars, graticules, slide preparation, drawings and resolution.
+
+**What should a slide preparation answer include?**
+Include a stain, the technique for lowering the coverslip and focusing at low power first. Leaving out any of these is a common way to lose marks.
 
 ## Official syllabus
 

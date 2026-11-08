@@ -145,17 +145,17 @@ Before you start, you may want the [study guide](/resources/a-level-biology-9700
 
 ## Frequently asked questions
 
-**What is the Casparian strip made of?**
-The Casparian strip is a band of suberin in the endodermal cell walls. Writing "lignin" is a common error in Cambridge 9700 answers.
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 7, Transport in plants: xylem and phloem structure, plan diagrams, water pathways, transpiration and translocation.
 
-**Does water evaporate from the stomata?**
-No. Water evaporates from the walls of mesophyll cells inside the leaf, then water vapour diffuses out through the stomata.
+**What should you avoid in a plan diagram?**
+Do not draw individual cells, and keep tissue proportions correct. Drawing cells or distorting proportions loses marks.
 
-**Is sucrose actively pumped into the phloem?**
-No. Proton pumps in companion cells actively pump H⁺ out, and H⁺ diffuse back in through cotransporter proteins carrying sucrose with them.
+**Which unit errors are common in transport in plants calculations?**
+Dividing mm by µm without converting, and using diameter instead of radius when finding the area of a field of view.
 
-**How should you explain mass flow in the phloem?**
-Use hydrostatic pressure: pressure is high at the source, where sucrose is loaded and water enters by osmosis, and lower at the sink. Explaining mass flow with concentration alone loses marks.
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions with marked answers. Use them alongside official past papers.
 
 ## Official syllabus
 

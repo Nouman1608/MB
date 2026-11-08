@@ -176,14 +176,14 @@ Use t = (x̄₁ − x̄₂) / √(s₁²/n₁ + s₂²/n₂) to decide whether t
 **Should you write "genes" or "alleles" when describing natural selection?**
 Write "alleles". Selection changes allele frequencies in a population's gene pool, and writing "genes" instead is a common way to lose marks.
 
-**What must a natural selection answer include?**
-Say that individuals with the advantageous allele are more likely to survive and reproduce, passing on their alleles to offspring. Survival alone does not complete the explanation.
-
 **How do you calculate degrees of freedom for a t-test?**
 Degrees of freedom are n₁ + n₂ − 2. Using n₁ + n₂ is a frequent mistake in Cambridge 9700 answers.
 
 **Where should you start a Hardy–Weinberg calculation?**
 Start from q², the frequency of the recessive phenotype, then find q and p. Starting from the dominant phenotype gives the wrong answer.
+
+**What should you include when naming a type of speciation?**
+Explain the lack of gene flow between the populations. Naming the type of speciation without this does not earn full credit.
 
 ## Official syllabus
 

@@ -161,16 +161,16 @@ Codon table for Questions 8 and 9 (mRNA codons): AUG = Met (start), GCU = Ala, A
 ## Frequently asked questions
 
 **What is the difference between a codon and an anticodon?**
-A codon is three bases on mRNA; an anticodon is three bases on tRNA that are complementary to the codon. Giving the codon when the question asks for the anticodon is a common error in Cambridge 9700 answers.
+A codon is three bases on mRNA; an anticodon is three bases on tRNA that are complementary to the codon. Giving one when the question asks for the other is a common error in Cambridge 9700 answers.
 
-**Does a stop codon code for an amino acid?**
-No. Stop codons end translation and code for no amino acid, so do not count them when working out the length of a polypeptide.
+**Should mRNA sequences contain T or U?**
+mRNA contains uracil, so write U, never T, in an mRNA sequence.
 
-**Why is one DNA strand made in fragments during replication?**
-DNA polymerase can add nucleotides only in the 5′ to 3′ direction, so the lagging strand is made in fragments that DNA ligase joins. Leaving out the 5′ to 3′ reason loses marks.
+**Do stop codons count as amino acids?**
+No. Stop codons code for no amino acid, so leave them out when working out the length of a polypeptide.
 
-**How should you explain the effect of a deletion mutation?**
-Say that every triplet after the deletion is read differently (a frame shift), so the amino acid sequence changes from that point. Writing only "a frame shift" without mentioning triplets may not earn full credit.
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions for topic 6 with marked answers. A codon table is given at the top of the page for the codon questions.
 
 ## Official syllabus
 

@@ -168,17 +168,17 @@ These questions cover subtopic 3.2, **Factors that affect enzyme action**, from 
 
 ## Frequently asked questions
 
-**Why does a substrate concentration curve level off?**
-At high substrate concentration all active sites are occupied at any instant, so adding more substrate cannot raise the rate. The enzyme is not "used up", which is a common wrong explanation.
-
 **How do you read Km from a graph?**
 Estimate Vmax from the level the curve approaches, halve it, then read across to the curve and down to find the substrate concentration. Reading Km at half the highest measured rate, when the curve has not levelled off, loses marks.
 
 **How do you identify the type of inhibitor from data?**
-Compare the effect of the inhibitor at low and high substrate concentrations and quote the figures. If inhibition becomes much smaller at high substrate concentration, it is competitive; if Vmax stays lowered, it is non-competitive.
+Compare the effect of the inhibitor at low and high substrate concentrations and quote the figures as evidence. Naming an inhibitor type without evidence from the data loses marks.
 
-**Why use the initial rate in enzyme investigations?**
-At the start, substrate concentration is the same in every tube, so the initial rate reflects only the factor being changed. A mean rate over a long time interval is affected by substrate being used up.
+**How should you explain pH effects on enzymes?**
+Mention H⁺ ions and the charges on R groups, and link changes in bonding to the shape of the active site.
+
+**What units should a rate from a tangent have?**
+Give the units of the quantity measured per unit time, such as cm³ s⁻¹. Leaving units off a rate is a common error.
 
 ## Official syllabus
 

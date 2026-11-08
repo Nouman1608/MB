@@ -13,13 +13,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-aqa-alevel-biology"
-description: "Monomers and polymers, carbohydrates, lipids, proteins, nucleic acids, ATP, water and inorganic ions -- the full content of Topic 1 for AQA AS/A-Level Biology (7401/7402)."
+description: "Study guide to AQA AS and A-level Biology (7401/7402) Topic 1: monomers and polymers, carbohydrates, lipids, proteins, nucleic acids, ATP, water and ions."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 Biological molecules**, the first of
@@ -211,3 +213,19 @@ Inorganic ions occur in solution in the body and cytoplasm and have specific, ex
   <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does AQA Biology Topic 1 Biological molecules cover?**
+It covers monomers and polymers, carbohydrates, lipids, proteins, nucleic acids, ATP, water and inorganic ions, sections 3.1.1 to 3.1.8 of AQA AS and A-level Biology (7401/7402).
+
+**What are condensation and hydrolysis reactions?**
+A condensation reaction joins two molecules with a chemical bond and releases water. A hydrolysis reaction breaks a chemical bond between two molecules using water.
+
+**What is the difference between alpha and beta glucose?**
+They are isomers that differ only in the orientation of the hydroxyl group on carbon 1. This difference gives starch, glycogen and cellulose their different properties.
+
+**Why is starch a good storage molecule?**
+Starch is helical and insoluble, so it stores glucose compactly without affecting the water potential of the cell.
+
+**What is ATP made of?**
+ATP is a nucleotide derivative made of adenine, ribose and three phosphate groups. It is the immediate energy source for cells.

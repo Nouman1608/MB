@@ -180,6 +180,20 @@ These questions cover section 3.3 (Organisms exchange substances with their envi
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.3, Organisms exchange substances with their environment: exchange surfaces, digestion, haemoglobin, the heart and plant transport.
+
+**What units should you check in ventilation and cardiac output calculations?**
+Check the units of each value and convert where needed. Leaving out units or conversions is a common error.
+
+**What should you revise before attempting these questions?**
+Work through the study guide and revision notes for section 3.3 first, then use the questions to test recall and application.
+
+**Are these AQA past paper questions?**
+No. They are original questions with worked answers. Use them alongside official AQA past papers.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), version 1.5, published 26 November 2021 by AQA. This page covers section 3.3.

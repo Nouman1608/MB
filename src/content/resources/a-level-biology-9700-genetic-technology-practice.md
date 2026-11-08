@@ -181,20 +181,20 @@ Revise first with the [study guide](/resources/a-level-biology-9700-genetic-tech
 
 ## Frequently asked questions
 
-**What bond does DNA ligase form?**
-DNA ligase forms phosphodiester bonds to seal the sugar-phosphate backbone when sticky ends are joined. Saying it forms hydrogen bonds is a common error in Cambridge 9700 answers.
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 19, Genetic technology: gene transfer, PCR, gel electrophoresis, microarrays, genetic technology in medicine and GM crops.
 
-**Why does PCR use Taq polymerase?**
-Taq polymerase comes from *Thermus aquaticus* and is not denatured at the 95 °C used to separate DNA strands. Writing only that it "works at high temperature" may not earn the mark.
+**Are these Cambridge 9700 past paper questions?**
+No. They are original questions written for revision and practice, with mark-by-mark answers. Use them alongside official past papers from your school or Cambridge.
 
-**Which DNA fragments move furthest in gel electrophoresis?**
-Shorter fragments move further through the gel in the same time. Stating that longer fragments travel further is a frequent mistake.
-
-**How many fragments does a restriction enzyme produce?**
-A linear DNA molecule cut n times gives n + 1 fragments, but a circular molecule such as a plasmid cut n times gives n fragments.
+**What must a microarray answer include when comparing gene expression?**
+Include the reverse transcription of mRNA into cDNA before it is labelled. Skipping this step is a frequent error.
 
 **What is the difference between genetic screening and gene therapy?**
 Genetic screening tests DNA for particular alleles; gene therapy adds a normal allele to cells of a person with a genetic disease to treat it.
+
+**How should you answer "discuss" questions on GM crops?**
+Give points on both sides, such as benefits and concerns, rather than a one-sided answer.
 
 ## Official syllabus
 

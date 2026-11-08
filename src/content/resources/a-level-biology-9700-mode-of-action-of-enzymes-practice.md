@@ -164,17 +164,17 @@ Plot volume against time and find the **initial rate** from a tangent at t = 0 [
 
 ## Frequently asked questions
 
-**Does an enzyme change the overall energy change of a reaction?**
-No. An enzyme lowers the activation energy only; the energy of the substrates and products, and so the overall energy change, stays the same.
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover section 3.1, Mode of action of enzymes, including how enzymes work and how the progress of a reaction is followed.
 
-**What changes shape in the induced-fit model?**
-The active site changes shape slightly when the substrate binds. Saying the substrate changes shape is a common error.
+**What units should enzyme rates have?**
+Give rates with units, such as cm³ s⁻¹ for a volume per time, and s⁻¹ when rate is calculated as 1/time. Missing units is a common error.
 
-**Why does an enzyme reaction stop?**
-The substrate is used up. Writing that "the enzyme is used up" loses marks, because the enzyme is unchanged by the reaction.
+**Should you use "same shape" for an active site and its substrate?**
+No. Write "complementary" instead of "same shape". Using "same shape" is a common way to lose marks.
 
-**What should you mention when describing colorimeter use?**
-Name absorbance, the complementary-coloured filter, zeroing with a blank and a calibration curve. Saying only that a colorimeter "measures colour" is not enough.
+**How should you improve an experiment in an evaluation answer?**
+Pair each limitation with an improvement that actually deals with it. An improvement that does not address the stated limitation earns no credit.
 
 ## Official syllabus
 

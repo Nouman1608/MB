@@ -224,6 +224,23 @@ Digestion is hydrolysis: large molecules are split by water into units small eno
 - Stating a correlation proves cause in a risk-factor question.
 - Confusing xylem (water, tension, no living cells) with phloem (sugars, pressure, energy).
 
+## Frequently asked questions
+
+**Why does surface area to volume ratio fall as an organism gets bigger?**
+Volume increases faster than surface area as size increases, so SA:V falls. Doubling the side length of a cube halves the ratio.
+
+**What is the counter-current principle in fish gills?**
+Blood in the gill lamellae flows in the opposite direction to the water passing over them, so a diffusion gradient is maintained along the whole length of the lamellae.
+
+**How do you calculate pulmonary ventilation rate?**
+Pulmonary ventilation rate = tidal volume × breathing rate.
+
+**What does the Bohr effect do?**
+More carbon dioxide shifts the oxyhaemoglobin dissociation curve to the right, so haemoglobin releases oxygen more readily in respiring tissues.
+
+**How do you calculate cardiac output?**
+Cardiac output = stroke volume × heart rate.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), version 1.5, published 26 November 2021 by AQA. This page covers section 3.3.

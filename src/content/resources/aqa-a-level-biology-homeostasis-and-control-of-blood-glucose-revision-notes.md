@@ -223,6 +223,23 @@ Worked reminder: stock 100 mmol dm⁻³, make 20 cm³ of 25 mmol dm⁻³. Stock 
 - Saying negative feedback "stops" a change rather than reversing it and returning to the set point.
 - Giving only one side in an evaluation of health advisers and the food industry.
 
+## Frequently asked questions
+
+**What is the difference between negative and positive feedback?**
+Negative feedback reverses a change and returns the system to the set point. Positive feedback causes more of the same change, amplifying it.
+
+**What is the second messenger model?**
+Adrenaline or glucagon binds to a receptor, activating adenylate cyclase, which makes cAMP from ATP. cAMP activates protein kinase, which activates enzymes that convert glycogen to glucose, amplifying the signal at each stage.
+
+**What is the difference between type I and type II diabetes?**
+In type I diabetes too little insulin is produced. In type II diabetes cells respond poorly to insulin.
+
+**How is Required Practical 11 carried out?**
+Make a dilution series of glucose, react each with the same volume of Benedict's reagent, measure with a colorimeter, and plot a calibration curve to read the concentration of an unknown sample.
+
+**Why are there separate mechanisms to raise and lower blood glucose?**
+Separate mechanisms, such as insulin and glucagon, give more control over changes in each direction.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification for first teaching 2015, published by AQA (sections 3.6.4.1 and 3.6.4.2, with Required practical 11).

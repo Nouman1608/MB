@@ -209,17 +209,17 @@ Formulae: N = (n₁ × n₂) / m₂ ; D = 1 − Σ(n/N)² ; rₛ = 1 − (6 × �
 
 ## Frequently asked questions
 
-**What must a biological species definition include?**
-It must say that organisms can interbreed to produce fertile offspring and are reproductively isolated from other species. Leaving out "fertile" is a common way to lose the mark.
-
 **Are the Lincoln index and Simpson's index formulae given in the Cambridge 9700 exam?**
 Yes. The formulae for the Lincoln index, Simpson's index, Spearman's rank and Pearson's correlation are provided, so marks depend on substituting the right values, such as not swapping n₂ and m₂.
 
-**What do you need to write after a correlation test?**
-State the null hypothesis, compare your calculated value with the critical value, and say whether you reject the null hypothesis. A significant correlation does not show that one factor causes the other.
+**What is a common error in Simpson's index calculations?**
+Forgetting to square n/N, or leaving out the "1 −" at the start of the formula.
 
-**What is the difference between IUCN and CITES?**
-The IUCN assesses the conservation status of species and publishes the Red List. CITES is an agreement between governments that controls international trade in endangered species.
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 18, Classification, biodiversity and conservation, including sampling, the statistical tests and conservation methods.
+
+**Which term in Pearson's correlation calculation is often wrong?**
+Students often use n instead of n − 1 in the denominator of Pearson's formula.
 
 ## Official syllabus
 

@@ -142,6 +142,20 @@ These questions follow AQA A-level Biology (7402) sections 3.8.3 and 3.8.4, in t
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should a DNA probe be identical to the target allele?**
+No. A probe is complementary to the target sequence. Writing a probe identical to the allele, or in the wrong direction, loses marks.
+
+**How should you answer a PCR calculation?**
+Show your working, and when asked for the number of cycles needed, do not stop at the first value without checking it passes the target.
+
+**What is the difference between DNA ligase and a restriction endonuclease?**
+DNA ligase joins pieces of DNA, while a restriction endonuclease cuts DNA. Mixing them up is a common error in AQA 7402 answers.
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.8.3 (genome projects) and 3.8.4 (gene technologies) of AQA A-level Biology 7402.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, sections 3.8.3, 3.8.4.1, 3.8.4.2 and 3.8.4.3 (version 1.5), published by AQA.

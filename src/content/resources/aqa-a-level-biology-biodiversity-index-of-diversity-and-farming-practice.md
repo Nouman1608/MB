@@ -153,6 +153,20 @@ Describe how biodiversity can be considered from a small local habitat up to the
 - Take [all free 10-minute diagnostics](/diagnostics/) to find what to revise next.
 - [Book a free trial class](/trial/) for help with this topic.
 
+## Frequently asked questions
+
+**What is the formula for the index of diversity in AQA A-level Biology?**
+d = N(N − 1) ÷ Σn(n − 1), where N is the total number of organisms of all species and n is the number of organisms of each species. Writing n² or N² instead is a common error.
+
+**What should you do in a "show that" calculation?**
+Show every step of the working, not just the final answer, and give the result to the number of significant figures the question asks for.
+
+**How do you calculate a percentage change?**
+Divide the change by the original value, not the new value, then multiply by 100.
+
+**How should you answer a question on the balance between conservation and farming?**
+Give the effects of farming with a mechanism, consider points on both sides, and reach a judgement. One-sided answers or effects with no mechanism lose marks.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, published by AQA. These questions are aligned to section 3.4.6 and maths skill MS 2.3.

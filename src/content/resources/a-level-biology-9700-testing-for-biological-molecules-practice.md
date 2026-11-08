@@ -170,17 +170,17 @@ Explain what these results show about the sugars in each extract. **[4]**
 
 ## Frequently asked questions
 
-**Does a shorter time to colour change in Benedict's test mean more or less sugar?**
-A shorter time to the first colour change means a higher concentration of reducing sugar. Treating a shorter time as a lower concentration is a common error.
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover sub-topic 2.1, Testing for biological molecules, including the food tests, dilutions, the semi-quantitative Benedict's test and the non-reducing sugar test.
 
-**What order are ethanol and water added in the emulsion test?**
-Add ethanol first so that any lipid dissolves, then add the ethanol to water. Adding water before ethanol is a frequent mistake in Cambridge 9700 answers.
+**Should anomalous results be included in a mean?**
+No. Leave out an anomalous replicate when calculating a mean. Including it is a common error.
 
-**Can colour standards give an exact concentration?**
-No. Colour standards give ordinal data, so the unknown's concentration should be given as a range between two standards rather than a single exact value.
+**What must you state when describing Benedict's test?**
+State that the mixture is heated in a water bath and name the colours. Writing "Benedict's turns red" with no heating step loses marks.
 
-**What if a sample is already brick-red before hydrolysis in the non-reducing sugar test?**
-You cannot conclude that no non-reducing sugar is present. When the first test is already positive, a non-reducing sugar can only be detected by comparing the results before and after hydrolysis.
+**Are these Cambridge past paper questions?**
+No. They are original questions written for revision and practice, with marked answers. Use them alongside official past papers.
 
 ## Official syllabus
 

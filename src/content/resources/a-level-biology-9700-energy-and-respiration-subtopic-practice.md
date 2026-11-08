@@ -202,17 +202,17 @@ They do not repeat the [topic-level respiration practice set](/resources/a-level
 
 ## Frequently asked questions
 
-**What does fermentation achieve in anaerobic respiration?**
-Fermentation regenerates NAD so glycolysis can continue; the ATP itself comes from glycolysis. Saying fermentation makes ATP is a common error.
-
 **Is coenzyme A an enzyme?**
 No. Coenzyme A carries acetyl groups to the Krebs cycle; calling it an enzyme loses marks.
 
 **What radius do you use to find gas volume in a respirometer?**
 Use the radius of the capillary bore in πr² × distance moved. Using the bore diameter as the radius is a frequent mistake.
 
-**Why should you not shake tubes in a methylene blue experiment?**
-Shaking mixes oxygen back into the liquid, which can re-oxidise the dye and turn it blue again, so it upsets the timing of the colour change.
+**How are these Cambridge 9700 respiration questions organised?**
+They work through subtopics 12.1 (Energy) and 12.2 (Respiration), with the learning outcomes tested given at the start of each question.
+
+**Are these Cambridge 9700 past paper questions?**
+No. They are original questions written for revision and practice, and they do not repeat the topic-level respiration practice set. Use them alongside official past papers.
 
 ## Official syllabus
 

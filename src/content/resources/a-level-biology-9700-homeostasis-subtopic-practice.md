@@ -191,17 +191,17 @@ This set differs from the topic-level [homeostasis practice questions](/resource
 
 ## Frequently asked questions
 
-**How does glucose enter the cells of the proximal convoluted tubule?**
-Glucose enters by co-transport with sodium ions, driven by the low sodium concentration that Na⁺–K⁺ pumps create inside the cell. Saying glucose is actively pumped into PCT cells loses marks.
-
-**Which cells does glucagon act on?**
-Glucagon acts on liver cells. Saying it acts on muscle cells is a common mistake.
-
-**Which steps are often missed in the glucagon signalling chain?**
-The G-protein and adenylyl cyclase are often left out. The chain runs from glucagon binding a receptor, through the G-protein and adenylyl cyclase making cAMP, to protein kinase A and an enzyme cascade.
-
 **How are these Cambridge 9700 homeostasis questions organised?**
 Each question is labelled with the learning outcomes from sections 14.1 and 14.2 it tests, working from the nephron to guard cells.
+
+**How is this set different from the topic-level homeostasis practice questions?**
+This set works outcome by outcome through the syllabus, while the topic-level set takes different angles on the same topic. Using both gives wider practice.
+
+**Which mistakes cost marks in homeostasis answers?**
+Calling ABA rather than Ca²⁺ the second messenger in guard cells, and leaving the G-protein or adenylyl cyclase out of a signalling chain, are two of the most common.
+
+**Are these Cambridge past paper questions?**
+No. They are original questions written for revision and practice, with mark-by-mark answers. Use them alongside official past papers.
 
 ## Official syllabus
 

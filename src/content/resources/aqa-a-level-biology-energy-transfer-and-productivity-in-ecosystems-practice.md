@@ -180,6 +180,20 @@ These questions cover section 3.5.3, Energy and ecosystems (A-level only), in th
 - Check your gaps: [all free 10-minute diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**What is the formula for the net production of consumers?**
+N = I − (F + R), where I is the energy in ingested food, F is the energy lost in faeces and urine, and R is the respiratory loss. Leaving out R is a common error in AQA 7402 answers.
+
+**Does productivity need a time unit?**
+Yes. Productivity is a rate, so give it per unit area per unit time, such as kJ m⁻² year⁻¹. Giving a rate with no time unit loses marks.
+
+**How do you avoid mistakes with efficiency calculations?**
+Put both values in the same unit, area and time, and divide the energy in the next trophic level by the energy available from the level below. Dividing by the wrong level gives an answer over 100%.
+
+**How should you describe drying a sample to find biomass?**
+Dry the sample in an oven without burning it and re-weigh until the mass stays constant. Not stating constant mass is a frequent way to lose a mark.
+
 ## Official syllabus
 
 AQA, AS and A-level Biology specification (7401 and 7402), first teaching 2015, section 3.5.3 Energy and ecosystems (A-level only).

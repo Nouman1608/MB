@@ -166,6 +166,20 @@ Learn the content first from the [study guide](/resources/aqa-a-level-biology-dn
 - Use the [10-minute diagnostics](/diagnostics/) to choose your next topic.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should mRNA sequences contain thymine?**
+No. mRNA contains uracil in place of thymine. Putting T into an mRNA sequence, or giving a DNA complement when mRNA was asked for, is a common error in AQA 7402 answers.
+
+**Do you count the stop codon as an amino acid?**
+No. A stop codon has no amino acid, so leave it out when counting the length of a polypeptide.
+
+**How should you describe experimental data on protein synthesis?**
+Quote figures from the table when describing a trend, and avoid saying "no protein" when the data show small non-zero values.
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.4.1 (DNA, genes and chromosomes) and 3.4.2 (DNA and protein synthesis) of AQA A-level Biology 7402.
+
 ## Official syllabus
 
 Source document: the AQA specification for AS and A-level Biology (codes 7401 and 7402), first teaching 2015, version 1.5, published by AQA. Sections 3.4.1 and 3.4.2 only.

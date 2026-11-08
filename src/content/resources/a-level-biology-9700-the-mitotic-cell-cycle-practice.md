@@ -173,17 +173,17 @@ Revise first with the [study guide](/resources/a-level-biology-9700-the-mitotic-
 
 ## Frequently asked questions
 
-**In which phase of the cell cycle does DNA replicate?**
-DNA replicates in the S phase of interphase. Placing replication in prophase or G2 is a common error in Cambridge 9700 answers.
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 5, The mitotic cell cycle: chromosome structure, interphase, telomeres, stem cells, tumours and the stages of mitosis.
 
-**What separates in anaphase of mitosis?**
-Sister chromatids separate as the centromeres divide and are pulled to opposite poles. Writing "chromosomes are pulled to the poles" loses marks.
+**Which calculation errors are common in cell cycle questions?**
+Dividing by the wrong value in a percentage change and forgetting to convert hours to minutes or mm to µm.
 
-**What is the difference between a centromere and a centriole?**
-A centromere is the part of a chromosome that holds the sister chromatids together. A centriole is an organelle that organises the spindle in animal cells.
+**How should you describe a DNA mass graph?**
+Quote values and units from the graph rather than describing its shape alone.
 
-**How should you explain how a tumour forms?**
-Say that a mutation in a gene controlling cell division means the cell divides repeatedly by mitosis without control. Leaving out "without control" or "repeatedly" weakens the answer.
+**What counts as a difference between plant and animal cell division?**
+Give a difference in the process of division, not just a structure such as the cell wall.
 
 ## Official syllabus
 

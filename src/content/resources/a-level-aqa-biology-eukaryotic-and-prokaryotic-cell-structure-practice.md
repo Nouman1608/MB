@@ -138,17 +138,17 @@ Use the [study guide](/resources/a-level-aqa-biology-eukaryotic-and-prokaryotic-
 
 ## Frequently asked questions
 
-**Is a cell wall enough to show that a cell is a prokaryote?**
-No. Plant, algal and fungal cells also have cell walls, and all cells have ribosomes. The features that identify a prokaryote are circular DNA free in the cytoplasm, no nucleus and no membrane-bound organelles.
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.2.1.2, Structure of prokaryotic cells and of viruses, in AQA AS and A-level Biology (7401/7402).
 
-**Do I need to know the structure of plasmids, capsules and flagella for AQA A-level Biology?**
-No. The AQA 7401/7402 specification says structural details of plasmids, capsules and flagella are not required. You need to know what they are and that many, but not all, prokaryotic cells have them.
+**Are these AQA past paper questions?**
+No. They are original questions written for revision and practice, and they do not copy the exam's structure, question count or mark tariffs. Use them alongside official past papers.
 
-**What are the three parts of a virus particle named in the AQA specification?**
-Genetic material (nucleic acid), the capsid (the protein coat around it) and attachment proteins that project from the outside and bind to receptors on host cells.
+**Why should you use the specification's exact terms for virus structure?**
+Using the specification's own terms avoids answers that describe a virus as if it were a cell, for example calling its protein coat a cell wall or a membrane.
 
 **How do you answer a comparison question on bacteria and viruses?**
-State each difference for both sides, for example "the bacterium has ribosomes, whereas the virus has none". A one-sided list such as "no ribosomes" can leave the comparison unclear.
+State each difference for both sides, for example "the bacterium has a feature, whereas the virus has none". A one-sided list can leave the comparison unclear.
 
 ## Official syllabus
 

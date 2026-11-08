@@ -181,17 +181,17 @@ Learn it first: [Proteins study guide](/resources/a-level-biology-9700-proteins/
 
 ## Frequently asked questions
 
-**Where does the water come from when a peptide bond forms?**
-The water is made from the –OH of the carboxyl group of one amino acid and an –H from the amine group of the other. Saying it comes from the R groups is a common error in Cambridge 9700 answers.
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover section 2.3 Proteins, part of Topic 2 Biological molecules, including amino acids, protein structure, haemoglobin and collagen.
 
-**How do you count peptide bonds in a protein with more than one chain?**
-Each chain of n amino acids has n − 1 peptide bonds, so work out each chain separately and add them. Treating a multi-chain protein as one chain gives the wrong count.
+**Are these Cambridge past paper questions?**
+No. They are original questions written for revision and practice, with mark-by-mark answers. Use them alongside official past papers.
 
-**Is a disulfide bond within one chain part of quaternary structure?**
-No. A disulfide bond within a single polypeptide chain is part of its tertiary structure. Quaternary structure involves two or more chains.
+**Does magnification have units?**
+No. Give magnification without units, and convert mm to nm before dividing in electron micrograph calculations.
 
-**How should you explain the strength of collagen?**
-Mention the covalent cross-links between neighbouring molecules and their staggered ends, which avoid a line of weakness. Describing collagen strength without these features loses marks.
+**What should you check when drawing an amino acid?**
+Show both hydrogens on the amine group and the –OH of the carboxyl group. Missing atoms are a common way to lose drawing marks.
 
 ## Official syllabus
 

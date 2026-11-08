@@ -190,17 +190,17 @@ Correct genotypes [1]. Females **3 normal red : 1 vestigial red** [1]. Males **3
 
 ## Frequently asked questions
 
-**Are homologous chromosomes identical?**
-No. Homologous chromosomes carry the same genes at the same loci, but they can carry different alleles. Calling them "identical" is a common error.
+**How is this set different from the topic-level inheritance practice questions?**
+This set works subtopic by subtopic through Topic 16, while the topic-level set takes different angles. Using both gives wider practice.
 
-**What separates in anaphase I and anaphase II of meiosis?**
-Homologous chromosomes separate in anaphase I; sister chromatids separate in anaphase II.
+**Is the chi-squared critical value given?**
+Yes. The page gives the critical value of χ² at p = 0.05 with 3 degrees of freedom (7.82). In the exam, work out the degrees of freedom yourself.
 
 **How should codominant and sex-linked alleles be written in a genetic diagram?**
-Use a gene letter with superscripts for codominant alleles, and write sex-linked alleles on the X chromosome, such as Xᴴ and Xʰ. The Y chromosome carries no allele of an X-linked gene.
+Use a gene letter with superscripts for codominant alleles, and write sex-linked alleles on the X chromosome. Using plain dominant and recessive letters for codominant alleles loses marks.
 
-**What is the difference between the operator and the promoter in the lac operon?**
-RNA polymerase binds to the promoter, while the repressor protein binds to the operator. Swapping these two is a frequent mistake.
+**What should you do after finding that a chi-squared result is significant?**
+Go on to explain the likely biological cause of the difference. Stopping at "significant" does not earn the full marks.
 
 ## Official syllabus
 

@@ -177,14 +177,14 @@ Before you start, read the [photosynthesis study guide](/resources/a-level-biolo
 **Does Rf have units?**
 No. Rf is a ratio of two distances measured from the origin, so it has no units. Measure to the centre of each spot, not its edge.
 
-**How many molecules of GP are made when one CO₂ is fixed?**
-Each CO₂ fixed by rubisco with one RuBP gives two molecules of GP. Saying one GP is formed is a common error in Cambridge 9700 answers.
-
-**Does cyclic photophosphorylation release oxygen?**
-No. Only non-cyclic photophosphorylation involves photolysis of water, releases oxygen and makes reduced NADP. Cyclic photophosphorylation makes ATP only.
+**Should you name the whole chloroplast as a site?**
+No. Name the specific site, such as the thylakoids or the stroma. Naming only the chloroplast is a common error.
 
 **How should you explain a plateau on a limiting factor graph?**
-Name the factor that is now limiting, which is one of the factors held constant, and use the data as evidence. Describing the plateau without naming a factor loses marks.
+Name the factor that is now limiting and use the data as evidence. Describing the plateau without naming a factor loses marks.
+
+**What should a planning answer say about controlled variables?**
+Say how each variable is kept constant, not just which variables are controlled.
 
 ## Official syllabus
 
