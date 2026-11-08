@@ -152,6 +152,20 @@ Explanations are in the [study guide](/resources/oxfordaqa-a-level-mathematics-f
 * Try all [free 10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake with composite functions?**
+Composing in the wrong order. fg(x) means f(g(x)), so g acts first and f second; reading it as "g after f" gives the wrong function.
+
+**How do you find the domain of an inverse function?**
+The domain of f⁻¹ is the range of f, not whatever the formula for f⁻¹ seems to allow. Working it out from the formula is a common way to lose the mark.
+
+**Why must you check answers to a modulus equation?**
+When one side is not a modulus, splitting into cases can produce values that do not satisfy the original equation. Substitute each answer back and reject any that fail.
+
+**How should you write the answer to a modulus inequality?**
+A "between" answer is one interval, such as a < x < b, and an "outside" answer uses "or", such as x < a or x > b. Giving only the crossing points does not answer an inequality.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Mathematics (9660)* specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), content area P2.1.

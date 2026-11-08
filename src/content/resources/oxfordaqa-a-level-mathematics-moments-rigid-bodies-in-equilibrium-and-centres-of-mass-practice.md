@@ -140,6 +140,20 @@ Read the [study guide](/resources/oxfordaqa-a-level-mathematics-moments-rigid-bo
 * All free 10-minute [diagnostics](/diagnostics/)
 * Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**What distance do you use when taking moments?**
+Use the perpendicular distance from the point to the line of action of the force. For a force at an angle to a sloping rod, this needs a sine or cosine.
+
+**Where does the weight of a uniform rod or ladder act?**
+At its midpoint. Placing it at an end, or leaving the beam's own weight out of the moments equation, is a common error.
+
+**How do you handle a piece cut out of a lamina?**
+Treat the removed piece as having negative area when you find the centre of mass. Measure every part from the same origin.
+
+**Should you say which point you are taking moments about?**
+Yes. State the point clearly so your working can be followed and any sign error traced.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Mathematics (9660)*, Version 5.2, section M2.3 (Statics and forces), part of International A-level Unit M2 (Mechanics).

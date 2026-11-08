@@ -199,6 +199,20 @@ The specification expects you to comment on terms such as particle, smooth surfa
 
 Condense this into the [revision notes](/resources/oxfordaqa-a-level-mathematics-newtons-laws-inclined-planes-and-variable-acceleration-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-newtons-laws-inclined-planes-and-variable-acceleration-practice/). Return to the [course hub](/boards/oxfordaqa/a-level/mathematics/) or the [checklist](/checklists/oxfordaqa/a-level/mathematics/) to see what else is in Unit M2, and use the [diagnostics](/diagnostics/) to find weaker topics.
 
+## Frequently asked questions
+
+**What does Newton's second law say?**
+The resultant force on a particle equals its mass multiplied by its acceleration, F = ma. It is a vector equation, so it applies to each component separately.
+
+**How do you find the normal reaction on an inclined plane?**
+Resolve perpendicular to the slope. With no other force perpendicular to the plane, R = mg cos θ.
+
+**Which OxfordAQA 9660 section covers inclined planes and variable acceleration?**
+Section M2.4 of the OxfordAQA 9660 specification applies Newton's laws to motion on inclined planes and to variable acceleration in one, two or three dimensions, using the vector calculus of M2.2.
+
+**What should a "find the velocity" answer look like in a vector question?**
+It should be a vector, such as an expression in i, j and k, not a single number. Give the speed only when the question asks for the magnitude.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, for International AS exams from May/June 2018 and International A-level exams from May/June 2019, published by OxfordAQA. This guide follows section M2.4 and draws on M2.1 to M2.3.

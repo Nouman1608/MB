@@ -149,6 +149,23 @@ These questions cover sections M1.3 and M1.4 of the OxfordAQA International AS a
 * Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What value of g should you use in OxfordAQA A-level Maths mechanics?**
+Use g = 9.8 m/s², the value the OxfordAQA 9660 specification sets. Using 10 or 9.81 when a question says 9.8 is a common way to lose accuracy marks.
+
+**How do you set up a pulley question with two connected particles?**
+Draw each particle with all its forces, choose each particle's positive direction as the way it accelerates, and write resultant force = ma for each one. Then solve the two equations together to find the acceleration and the tension.
+
+**Is the normal reaction always equal to mg?**
+No. R = mg only when weight is the only other vertical force. In a lift that is accelerating, or when another vertical force acts, find R by resolving the vertical forces.
+
+**Can you use conservation of momentum when a ball hits a wall?**
+No. A fixed wall is not a second particle that moves, so use impulse = change in momentum instead, with signed velocities before and after the impact.
+
+**What happens in a connected-particle question when the hanging particle hits the ground?**
+The string goes slack, so the tension becomes zero and the remaining particle's equation of motion changes. Many marks are lost by carrying the old acceleration past that point.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: Unit PSM1, sections M1.3 and M1.4.

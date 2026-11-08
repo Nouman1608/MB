@@ -264,6 +264,20 @@ Each doubling of strips cuts the mid-ordinate error to roughly a quarter here, w
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule-practice/), keep the [revision notes](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule-revision-notes/) to hand, and see the P1 [integration guide](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and/) for the trapezium rule.
 
+## Frequently asked questions
+
+**Why can a sign change fail to show a root?**
+If the function is not continuous on the interval, it can change sign without crossing zero. For example, tan x changes sign between x = 1 and x = 2 because of an asymptote.
+
+**How do you draw a staircase or cobweb diagram?**
+Draw y = x and y = g(x) on the same axes. From x₁, go vertically to the curve, then horizontally to the line y = x, and repeat.
+
+**How can you improve a numerical estimate of an integral?**
+Increase the number of strips, so each strip fits the curve more closely. Repeat until successive estimates agree to the accuracy required.
+
+**Which numerical methods are in OxfordAQA 9660 section P2.9?**
+Section P2.9 covers locating roots by a change of sign, iteration with staircase and cobweb diagrams, the mid-ordinate rule and Simpson's rule, in Unit P2 of OxfordAQA 9660.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. This content is listed under P2.9 in International A-level Unit P2 (Pure Maths).

@@ -194,6 +194,19 @@ Move to the [revision notes](/resources/oxfordaqa-a-level-mathematics-mathematic
   <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does treating an object as a particle mean?**
+It means modelling the object as a point with mass but no size, so rotation and size are ignored. A large body can be treated this way when its size is small compared with the distances involved.
+
+**How do you find the speed from a velocity vector?**
+Speed is the magnitude of the velocity, |v| = √(vx² + vy² + vz²). It is a scalar, not a vector.
+
+**Can you use column vectors in OxfordAQA M2 kinematics?**
+Yes. The OxfordAQA 9660 specification allows either ai + bj + ck form or column vectors for section M2.2.
+
+**Is acceleration always in the direction of motion?**
+No. Velocity is always along the direction of motion, but acceleration need not be.
 
 ## Official syllabus
 

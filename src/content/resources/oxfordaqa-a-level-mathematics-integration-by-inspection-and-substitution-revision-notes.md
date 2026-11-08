@@ -217,6 +217,23 @@ Here e^(−2 ln 2) = 2^(−2) = ¼. The result is positive, as it must be for a 
 - Typing the result as a decimal when the question asks for an exact value.
 - Not checking by differentiating when time allows.
 
+## Frequently asked questions
+
+**What is the integral of f′(x)/f(x)?**
+It is ln|f(x)| + c. The numerator must be the derivative of the denominator, or a constant multiple of it.
+
+**What is the integral of tan x?**
+Writing tan x as sin x/cos x gives an f′/f form, so ∫ tan x dx = −ln|cos x| + c.
+
+**What is the integral of 1/(ax + b)?**
+It is (1/a) ln|ax + b| + c. Forgetting the factor 1/a is a common error.
+
+**Do integration by inspection and substitution give the same answer?**
+Yes. Both are the chain rule used backwards, so they give equivalent results. Inspection is quicker when the derivative of the inside function is clearly present.
+
+**Should you use degrees or radians when integrating trigonometric functions?**
+Use radians. The standard results such as ∫ cos kx dx = sin(kx)/k + c only hold when angles are measured in radians.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. These notes follow the content and additional information listed under P2.7.

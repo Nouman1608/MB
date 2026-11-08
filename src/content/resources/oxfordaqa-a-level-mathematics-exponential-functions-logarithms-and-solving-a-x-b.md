@@ -298,6 +298,23 @@ The smallest whole number is **n = 16**. Check: 0.9¹⁵ = 0.206 (not below 0.2)
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-exponential-functions-logarithms-and-solving-a-x-b-practice/) and then recheck with the [revision notes](/resources/oxfordaqa-a-level-mathematics-exponential-functions-logarithms-and-solving-a-x-b-revision-notes/). For the pure maths in the neighbouring Unit P1, see the [Unit P1 study guide](/resources/a-level-oxfordaqa-mathematics-unit-p1/).
 
+## Frequently asked questions
+
+**What is a logarithm?**
+A logarithm answers the question "what power?". The statement y = a^x means the same as x = logₐy, so log₂32 = 5 because 2⁵ = 32.
+
+**When do you need logarithms to solve an exponential equation?**
+If both sides can be written as powers of the same base, you can simply equate the indices. When they cannot, as in 3^(2x) = 2, take logarithms of both sides and bring the index down.
+
+**Can 3^x ever equal a negative number?**
+No. a^x is always positive for a > 0, so an equation such as 3^x = −2 has no solution.
+
+**Is solving a^x = b with a calculator in the OxfordAQA 9660 syllabus?**
+Yes. Section PP1.3 of the OxfordAQA 9660 specification includes solving equations such as 3^(2x) = 2, including by using the logarithm function on a calculator.
+
+**How is the graph of y = (1/4)^x related to y = 4^x?**
+Because (1/4)^x = 4^(−x), the graph of y = (1/4)^x is the reflection of y = 4^x in the y-axis.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2: section PP1.3, Exponential and logarithms. Published by OxfordAQA for International AS exams from May/June 2018 and International A-level exams from May/June 2019.

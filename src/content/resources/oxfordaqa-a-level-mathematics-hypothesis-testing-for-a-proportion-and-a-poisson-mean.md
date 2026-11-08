@@ -218,6 +218,23 @@ A lower significance level makes a Type I error less likely, but it makes a Type
 
 Use the [revision notes](/resources/oxfordaqa-a-level-mathematics-hypothesis-testing-for-a-proportion-and-a-poisson-mean-revision-notes/) for a condensed version. Then work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-hypothesis-testing-for-a-proportion-and-a-poisson-mean-practice/). The [exam preparation guide](/resources/oxfordaqa-a-level-mathematics-exam-preparation/) covers wider revision planning.
 
+## Frequently asked questions
+
+**What is a critical region in a hypothesis test?**
+The critical region is the set of values of the test statistic for which you reject H₀. The value at its edge is the critical value, and the remaining values form the acceptance region.
+
+**What is the difference between a one-tailed and a two-tailed test?**
+A one-tailed test has H₁ saying the parameter is greater than or less than the H₀ value. A two-tailed test has H₁ saying it is different (≠), so the significance level is shared between two tails.
+
+**What is a p-value?**
+The p-value is the probability of getting a result as far out as the one observed, or further, if H₀ is true. If it is no more than the significance level, you reject H₀.
+
+**Can H₀ be written as p ≤ 0.3?**
+Not in OxfordAQA 9660. H₀ must state that the parameter takes a specified value, such as p = 0.3, with any inequality going in H₁.
+
+**Which unit covers binomial and Poisson hypothesis tests in OxfordAQA A-level Maths?**
+Tests for a population proportion and for the mean of a Poisson distribution are in section S2.6 of the OxfordAQA 9660 specification, in Unit S2 (Statistics).
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: Unit S2 (Statistics), section S2.6, Hypothesis testing.

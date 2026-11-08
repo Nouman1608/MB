@@ -262,6 +262,23 @@ Every example here is short algebra that you can do by hand, so write each step 
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-revision-notes/) for quick recall. The wider [Unit P1 pure maths guide](/resources/a-level-oxfordaqa-mathematics-unit-p1/) covers the straight-line and quadratics skills used here. The [diagnostics](/diagnostics/) show which topics to prioritise.
 
+## Frequently asked questions
+
+**How do you find the centre and radius of a circle from its equation?**
+Write the equation in the form (x − a)² + (y − b)² = r², completing the square if it is expanded. The centre is (a, b), with signs opposite to those in the brackets, and the radius is the square root of the right-hand side.
+
+**Do you need calculus to find a tangent to a circle in OxfordAQA 9660?**
+No. The OxfordAQA 9660 specification says implicit differentiation is not required for tangents and normals to a circle. You use the fact that the tangent is perpendicular to the radius, so its gradient is the negative reciprocal of the radius gradient.
+
+**How can you tell whether a point is inside, on or outside a circle?**
+Substitute the point into (x − a)² + (y − b)². If the result equals r² the point is on the circle, if it is less than r² the point is inside, and if it is more than r² the point is outside.
+
+**When does an equation like x² + y² + 2x − 6y + 15 = 0 not give a circle?**
+After completing the square, the right-hand side is r². If it comes out zero the equation describes a single point, and if it is negative no points satisfy it, so there is no circle.
+
+**How do you find the length of a tangent from a point outside a circle?**
+The tangent, the radius to the point of contact and the line to the centre form a right-angled triangle. So the tangent length squared equals the distance from the point to the centre squared, minus r².
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section 3.2.1 PP1.1 (Circle), published by OxfordAQA. For International AS exams from May/June 2018 and International A-level exams from May/June 2019.

@@ -127,6 +127,20 @@ These questions cover section P1.4 (Integration) of the OxfordAQA International 
 - Take all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you integrate a power of x?**
+Add 1 to the power and divide by the new power, so ∫ xⁿ dx = xⁿ⁺¹/(n + 1) + c for n ≠ −1. Dividing by the old power is a common error.
+
+**Can an area be negative in an integration question?**
+No. If the region is below the x-axis the definite integral is negative, but the area is its positive magnitude.
+
+**How many ordinates does the trapezium rule use?**
+With n strips you need n + 1 ordinates. Using only n ordinates gives the wrong estimate.
+
+**How do you justify whether the trapezium rule over- or under-estimates?**
+Refer to the shape of the curve. If it bends upwards, the chords lie above the curve and the rule over-estimates; if it bends downwards, it under-estimates.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section P1.4 Integration (International AS exams from May/June 2018, International A-level from May/June 2019), published by OxfordAQA.

@@ -121,6 +121,20 @@ Learn the content first from the [study guide](/resources/oxfordaqa-a-level-math
 - Take [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why should you state a positive direction in kinematics questions?**
+Velocity, acceleration and displacement all carry signs. Choosing and stating a positive direction first stops the signs of a, v and s clashing, which is one of the most common ways to lose marks.
+
+**What value of a do you use for a ball thrown upwards?**
+If up is positive, the acceleration is a = −9.8 m/s², because gravity acts downwards. Using +9.8 with up positive gives wrong answers.
+
+**How do you find the total distance when a particle changes direction?**
+Split the motion at each time when v = 0, find the displacement for each part, and add their sizes. A single displacement over the whole interval gives the wrong distance.
+
+**What should you do with a negative root for time in a suvat quadratic?**
+Reject it, along with any root that does not fit the situation. Only a root that makes sense for the motion is a valid time.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. Sections M1.1 and M1.2 of Unit PSM1.

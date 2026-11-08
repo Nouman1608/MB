@@ -249,6 +249,19 @@ Condense these methods with the [revision notes](/resources/oxfordaqa-a-level-ma
   <figcaption>Why the product rule has two terms: the rectangle area uv grows by v du + u dv.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is implicit differentiation used for?**
+It finds dy/dx for curves that cannot easily be rearranged into y = f(x), such as x²y + xy² = 12. You differentiate every term with respect to x and then collect the dy/dx terms.
+
+**What does "at a general point" mean in a parametric tangent question?**
+It means you keep the parameter as a letter, such as the point with t = p, and find the tangent or normal equation in terms of p.
+
+**Is implicit and parametric differentiation in the OxfordAQA 9660 syllabus?**
+Yes. Section P2.6 of the OxfordAQA 9660 specification, in Unit P2, covers differentiating simple implicit and parametric functions and finding their tangents and normals.
+
+**Do you have to eliminate the parameter to find a tangent?**
+No. You can work directly with dy/dx = (dy/dt) ÷ (dx/dt). Eliminating the parameter is only a useful check when it is possible.
 
 ## Official syllabus
 

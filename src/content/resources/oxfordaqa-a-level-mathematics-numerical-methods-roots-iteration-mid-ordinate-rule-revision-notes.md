@@ -193,6 +193,20 @@ Write the table of y-values every time. It makes your working easy to follow, an
 
 Examiner insights on how answers gain or lose credit are in the practice set's answers.
 
+## Frequently asked questions
+
+**When does an iteration xₙ₊₁ = g(xₙ) converge?**
+It converges near a root α when |g′(α)| < 1 and the starting value is close enough to α.
+
+**What is the difference between a staircase and a cobweb diagram?**
+A staircase occurs when g′(α) is positive, and the values approach the root from one side. A cobweb occurs when g′(α) is negative, and the values alternate either side of the root.
+
+**What is the Simpson's rule formula?**
+Simpson's rule estimates the integral as (h/3)[first + last + 4(odd ordinates) + 2(even interior ordinates)], with an even number of strips of width h.
+
+**Can a function have a root without a sign change?**
+Yes. A root where the graph touches the axis, such as f(x) = (2x − 5)², gives no sign change, and two roots in one interval can leave the end signs equal.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. This content is listed under P2.9 in International A-level Unit P2 (Pure Maths).

@@ -268,6 +268,23 @@ Force = 8.4 / 0.02 = 420 N
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and-practice/), then condense your notes with the [revision notes](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and-revision-notes/). The [free diagnostics](/diagnostics/) show where to start.
 
+## Frequently asked questions
+
+**Do you need to resolve forces in OxfordAQA M1 forces and Newton's laws questions?**
+No. For this content the specification limits motion to a straight line that is horizontal or vertical, so forces are horizontal or vertical and resolution of forces is not required.
+
+**How do you calculate dynamic friction?**
+For a sliding object, friction has magnitude F = μR, where μ is the coefficient of friction and R is the normal reaction. It acts against the direction of sliding.
+
+**Is the tension in a string equal to the weight of the hanging particle?**
+Only when the system is at rest or moving at constant velocity. If the particles accelerate, the tension differs from the weight and must be found from F = ma for each particle.
+
+**What does "light inextensible string" mean in mechanics?**
+Light means the string has no mass, so the tension is the same at both ends. Inextensible means it does not stretch, so connected particles have the same speed and the same size of acceleration.
+
+**How do you find the impulse on a ball that rebounds from a wall?**
+Choose a positive direction, give both velocities a sign and use impulse = mv − mu. For a constant force acting for time t, the impulse also equals Ft.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: Unit PSM1, sections M1.3 and M1.4.

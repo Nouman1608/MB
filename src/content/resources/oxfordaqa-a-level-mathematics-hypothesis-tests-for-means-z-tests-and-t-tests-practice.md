@@ -161,6 +161,20 @@ Check: n = 24 gives z = 1.633 and n = 25 gives z = 1.667, so **n = 25** [1]. **[
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your next gap.
 - [Book a free trial class](/trial/) if you want help with this topic.
 
+## Frequently asked questions
+
+**What is the most common mistake in a z-test for a mean?**
+Dividing by σ instead of the standard error σ/√n. The test statistic is z = (x̄ − μ₀)/(σ/√n).
+
+**How many degrees of freedom does a t-test for a mean have?**
+A t-test on a sample of size n uses n − 1 degrees of freedom. Using n instead is a frequent error.
+
+**What divisor do you use when finding s² from Σx and Σx²?**
+Use n − 1, so s² = [Σx² − (Σx)²/n]/(n − 1). This gives the unbiased estimate of the population variance.
+
+**What assumption must you state for a t-test?**
+State that the population is normally distributed and that the sample is random. For a large-sample z-test using s, say that the normal distribution is used as an approximation.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA. Content: S2.6 Hypothesis testing, tests for the mean (z-statistic and t-statistic), within Unit S2 (Statistics).
