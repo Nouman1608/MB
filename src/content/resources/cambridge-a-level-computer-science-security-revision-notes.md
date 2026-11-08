@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "security"
     subtopic: "encryption-encryption-protocols-and-digital-certificates"
-description: "Revision notes on symmetric and asymmetric keys, private and verified messages, quantum cryptography, TLS, certificates and digital signatures for Cambridge 9618."
+description: "Notes on symmetric and asymmetric keys, private and verified messages, quantum cryptography, TLS, certificates and digital signatures for Cambridge 9618."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
