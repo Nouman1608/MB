@@ -168,6 +168,20 @@ A full cycle lasts about **90 minutes**, an ultradian rhythm. A typical night ha
 - Treating fatal familial insomnia as typical evidence for a gene for ordinary insomnia.
 - Evaluating every study with "it was a lab study". Name the specific problem, such as a single case or an animal sample.
 
+## Frequently asked questions
+
+**What is the difference between an endogenous pacemaker and an exogenous zeitgeber?**
+An endogenous pacemaker is an internal biological clock, mainly the suprachiasmatic nucleus (SCN) in the hypothalamus. An exogenous zeitgeber is an external cue, mainly light, that resets the clock.
+
+**Why is jet lag usually worse when flying east?**
+Flying east shortens the day, so the body must phase advance, which is harder than the phase delay needed after flying west.
+
+**What did Ralph et al. (1990) show about the SCN?**
+They transplanted SCN tissue between normal hamsters and mutant hamsters with 20-hour rhythms, and the recipients took on the rhythm of the donor tissue, showing the SCN acts as a pacemaker.
+
+**What did Lin et al. (1999) find about narcolepsy?**
+Lin et al. found that inherited narcolepsy in dogs was caused by a mutation in a gene for a hypocretin (orexin) receptor. In humans, the cause is more complex.
+
 ## Where to go next
 
 Test yourself with the [sleep practice questions](/resources/oxfordaqa-a-level-psychology-9685-psychology-of-sleep-practice/) and plan your revision with the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).

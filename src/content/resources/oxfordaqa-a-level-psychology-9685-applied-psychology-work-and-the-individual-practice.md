@@ -166,6 +166,20 @@ Evaluation: Whitehall II is large and longitudinal, so control was measured befo
 - Stress essays that claim workload alone causes illness, contradicting the Whitehall II findings.
 - Extended answers with description but no judgement.
 
+## Frequently asked questions
+
+**Where is OxfordAQA 9685 work and the individual assessed?**
+Section 3.4.3 is assessed in Section C, worth 30 marks, of Unit 4, Approaches and application, a 1 hour 30 minute written exam worth 90 marks.
+
+**How do you calculate motivational force in expectancy theory?**
+Multiply expectancy by instrumentality by valence. Adding the three terms instead of multiplying them is a common mistake, and showing each multiplication earns the method mark.
+
+**How do you answer a groupthink scenario question?**
+Name each symptom of groupthink and point to the specific person or event in the scenario that shows it. Naming symptoms without applying them loses the application marks.
+
+**What are common mistakes in work and the individual questions?**
+Students often explain social facilitation only as improvement, treat deindividuation as always antisocial, and claim workload alone causes illness, which contradicts the Whitehall II findings.
+
 ## Next steps
 
 - Check your weaker areas with a [free diagnostic](/diagnostics/).

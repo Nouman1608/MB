@@ -152,6 +152,20 @@ Watson (1913), rejecting the introspection used in early laboratories, argued th
 - Writing a debate answer with no example from the rest of the course.
 - Describing four debates in an extended answer with no judgement. AO3 carries the largest Unit 4 weighting.
 
+## Frequently asked questions
+
+**How is OxfordAQA 9685 Unit 4 set out?**
+Unit 4 has three 30-mark sections of compulsory questions: Section A, Approaches in psychology; Section B, Issues and debates in psychology; and Section C, Applied psychology: work and the individual.
+
+**Is Piaget's theory on the nature side of the nature-nurture debate?**
+Not purely. Piaget's theory is interactionist: maturation sets the pace, but schemas only change through assimilation and accommodation of experience.
+
+**What did Tolman and Honzik (1930) show?**
+Rats that explored a maze without food for 10 days, then were rewarded on day 11, quickly matched rats that had been rewarded throughout, which challenges stimulus-response reductionism.
+
+**What is Popper's falsifiability criterion?**
+Popper argued that a theory is scientific only if some possible observation could show it to be false.
+
 ## Where to go next
 
 The [introductory topics guide](/resources/a-level-oxfordaqa-psychology-introductory-topics/) gives you social influence and memory examples, such as locus of control and the working memory model. The [Unit 2 biopsychology, development and research methods guide](/resources/a-level-oxfordaqa-psychology-biopsychology-development-research-methods/) covers the Unit 2 topics many of these examples come from. For more examples, use the [psychology of sleep](/resources/oxfordaqa-a-level-psychology-9685-psychology-of-sleep/), [schizophrenia](/resources/oxfordaqa-a-level-psychology-9685-schizophrenia/) and [scientific approaches](/resources/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology/) guides. The [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/) explains resits.

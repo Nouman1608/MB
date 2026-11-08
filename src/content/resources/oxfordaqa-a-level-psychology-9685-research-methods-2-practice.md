@@ -202,6 +202,20 @@ A limitation is that coding needs judgement, and posts are read without context 
 - Writing a design answer with no justification for each choice.
 - In data questions, not quoting figures from the table.
 
+## Frequently asked questions
+
+**Where is Research methods 2 assessed in OxfordAQA 9685?**
+It is assessed in Unit 3, Advanced topics and research methods 2, a 1 hour 30 minute written exam of 90 marks, with 30 marks for Research methods 2.
+
+**How do you justify the choice of a statistical test?**
+Link the test to the aim (difference or correlation), the experimental design (related or unrelated) and the level of measurement, using the details in the scenario.
+
+**Which tests need the calculated value to be less than the critical value?**
+For Mann-Whitney, Wilcoxon and the Sign test, the calculated value must be equal to or less than the critical value to be significant. Using the "greater than" rule for these tests is a common mistake.
+
+**What are common mistakes in Research methods 2 questions?**
+Students often forget to drop zero differences when finding N, use two-tailed values for a directional hypothesis, treat rating scales as interval data, and say a significant result proves the hypothesis.
+
 ## Next steps
 
 - Check gaps with the [revision notes for Research methods 2](/resources/oxfordaqa-a-level-psychology-9685-research-methods-2-revision-notes/), the [Unit 2 practice questions](/resources/oxfordaqa-a-level-psychology-biopsychology-development-practice/) and the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).

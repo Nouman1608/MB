@@ -161,6 +161,20 @@ Test yourself with the [issues and debates practice questions](/resources/oxford
 
 For the examples above in more depth, see the [introductory topics revision notes](/resources/oxfordaqa-a-level-psychology-revision-notes/), the [biopsychology and development revision notes](/resources/oxfordaqa-a-level-psychology-biopsychology-development-revision-notes/) the [psychology of sleep revision notes](/resources/oxfordaqa-a-level-psychology-9685-psychology-of-sleep-revision-notes/), the [schizophrenia revision notes](/resources/oxfordaqa-a-level-psychology-9685-schizophrenia-revision-notes/) and the [scientific approaches revision notes](/resources/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology-revision-notes/).
 
+## Frequently asked questions
+
+**Which four debates are in OxfordAQA 9685 section 3.4.2?**
+The four debates are free will and determinism, nature-nurture, holism and reductionism, and psychology and science.
+
+**What is the difference between determinism and reductionism?**
+Determinism is about whether behaviour is caused. Reductionism is about which level of explanation you use. A theory can be one without the other.
+
+**What is the difference between falsifiable and falsified?**
+Falsifiable means a theory could be shown to be wrong by some possible observation. Falsified means evidence has already shown it to be wrong.
+
+**What did the Open Science Collaboration (2015) find?**
+Of 100 repeated studies, 97% of the originals had significant results, but only 36% of the replications did.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards): section 3.4.2 (Issues and debates in psychology), section 3.4 (synoptic aims), section 2.3 (Unit 4 structure) and section 4.3.2 (assessment objective weightings).
