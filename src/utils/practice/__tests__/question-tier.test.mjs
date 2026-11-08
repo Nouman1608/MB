@@ -170,7 +170,9 @@ test('real banks: every checked file is a practice file in a Foundation/Higher b
   // banks is in HIGHER_LABELS_CHECKED, so a new question without a Higher label would
   // silently count as 'both'. A changed total fails here until the new or removed
   // questions are checked against the specification and these numbers updated.
-  assert.deepEqual(totals, { '4MA1': 202, '8461': 133, '8462': 180, '8463': 108, '8300': 147 });
+  // Re-pinned 8 Nov 2026: 8461 +26 (health/lifestyle/cancer 14, plant tissues and organ
+  // system 12), both files checked against the specification: no (HT only) content.
+  assert.deepEqual(totals, { '4MA1': 202, '8461': 159, '8462': 180, '8463': 108, '8300': 147 });
 });
 
 /**
