@@ -120,6 +120,20 @@ These questions cover the topic **Balance of payments** in the OCR *A Level Econ
 - Giving a policy with no cost or counterweight.
 - Reaching no judgement in an evaluation question.
 
+## Frequently asked questions
+
+**What is the difference between the current, capital and financial accounts?**
+The current account records trade in goods and services, income and current transfers. The capital account records small capital transfers and non-produced, non-financial assets, and the financial account records flows of investment and lending, such as direct and portfolio investment, which show how the current account is paid for.
+
+**Is a balance of payments deficit the same as a current account deficit?**
+No. The balance of payments as a whole always sums to zero once errors and omissions are included, so a "deficit" usually means a deficit on the current account alone. Using the phrases interchangeably is a common mistake.
+
+**How do you judge whether a current account deficit is serious?**
+Scale it as a percentage of GDP, then consider how long it has lasted, how it is financed and what caused it. A deficit financed by long-term direct investment is less risky than one financed by short-term inflows.
+
+**What are common mistakes in balance of payments calculations?**
+Typical errors include dropping the sign on a balance, subtracting credits from debits instead of debits from credits, leaving out income or current transfers from the current account, and applying an income change to the wrong elasticity.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-a-level-economics-the-balance-of-payments-revision-notes/).

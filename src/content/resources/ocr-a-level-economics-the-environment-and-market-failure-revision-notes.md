@@ -222,6 +222,20 @@ These notes condense the topic **Environment** in Component 1, Microeconomics, o
 - Saying a tax always works without considering elasticity.
 - Forgetting that a permit scheme fixes the quantity, not the price.
 
+## Frequently asked questions
+
+**What are the three functions of the environment?**
+The environment provides resources, both renewable and non-renewable; provides amenities such as landscape, clean air and wildlife; and absorbs waste.
+
+**How do tradable permits cut pollution at lower cost?**
+Firms that can cut pollution cheaply cut more and sell permits to firms with high abatement costs. The same total cut is achieved at a lower overall cost than if each firm cut by an equal amount.
+
+**At what level should environmental policy act?**
+It depends on the pollutant. Local problems suit city zones and planning rules, national problems suit taxes and standards, and global pollutants need treaties, which face free riding and weak enforcement.
+
+**What makes an environmental policy effective?**
+The OCR A Level Economics (H460) notes ask whether the policy suits the pollutant, whether its cost is acceptable and who bears it, whether it can be measured, monitored and enforced, how fast it works, and whether it has side effects such as relocation.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study Market failure and government intervention, topic Environment. Practice questions: see the [practice set](/resources/ocr-a-level-economics-the-environment-and-market-failure-practice/).

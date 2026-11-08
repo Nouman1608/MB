@@ -227,6 +227,23 @@ Supply-side policies work in the long run but take years to show results. Others
 - Listing arguments without a judgement about when each applies.
 - Describing unit labour costs as wages alone.
 
+## Frequently asked questions
+
+**What are the main methods of protectionism?**
+The OCR A Level Economics (H460) guide covers tariffs, quotas, subsidies to domestic producers, embargoes, voluntary export restraints, administrative barriers such as standards and paperwork, and local content rules.
+
+**What is quota rent?**
+Quota rent is the extra revenue earned on imports when a quota raises the domestic price above the world price. It goes to whoever holds the import licences, which may be foreign exporters, domestic importers or the government if it auctions them.
+
+**How does a subsidy to domestic producers compare with a tariff?**
+A subsidy lets home firms receive a higher price while consumers still pay the world price, so consumers face no price rise. It costs the government money instead of raising revenue.
+
+**What are the arguments against free trade?**
+Free trade can cause structural unemployment in declining industries, leave a country over-specialised and exposed to shocks, give unequal gains to developing countries that export primary goods, and add environmental costs.
+
+**Can a large country gain from a tariff?**
+A large importer may push down the world price, so foreign sellers bear part of the tariff. A small country cannot do this, which is why an optimal tariff argument applies only to large countries.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. Area of study: the global context; topic: Trade policies and negotiations (first part).

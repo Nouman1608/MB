@@ -232,6 +232,20 @@ If a large importer's tariff pushes the world price down from 10 to 9, the expor
 - Describing the gains from free trade without saying who loses.
 - Using the same example for every country in the stem.
 
+## Frequently asked questions
+
+**What is the infant industry argument for protection?**
+New firms may need time to reach scale before they can compete with mature foreign rivals, so temporary protection can help them grow. It is more likely to work if the protection is temporary and declining rather than permanent.
+
+**Why might a tariff save few jobs?**
+If domestic supply is price inelastic, home firms cannot expand output much when the price rises, so few extra jobs are created. Retaliation by trading partners can also cost jobs in export industries.
+
+**What is a prohibitive tariff?**
+A prohibitive tariff is high enough to remove all imports, so the domestic price rises to the no-trade level and the tariff raises no revenue.
+
+**How do you measure the cost per job saved by protection?**
+Divide the net welfare loss, or the loss to consumers, by the number of jobs protected. This figure is a useful evaluation point in OCR A Level Economics (H460) answers on tariffs.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. Area of study: the global context; topic: Trade policies and negotiations (first part).

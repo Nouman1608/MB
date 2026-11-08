@@ -152,6 +152,23 @@ These questions cover the topic **Environment** in Component 1, Microeconomics, 
 - Saying growth must harm, or must help, the environment with no weighing of both.
 - Forgetting that permits cap the quantity and a tax sets the price.
 
+## Frequently asked questions
+
+**Where does MSC go on a negative production externality diagram?**
+The marginal social cost curve lies above the marginal private cost curve, because MSC = MPC + MEC. Placing MSC below MPC for an external cost is a common error.
+
+**What should an externality diagram include?**
+It should label the market equilibrium where MPB meets MPC, the social optimum where marginal social benefit meets marginal social cost, and the welfare loss triangle between them. Diagrams without these labels lose marks.
+
+**How do you calculate the change in total emissions when GDP grows?**
+Multiply the growth factors rather than adding percentages. Total emissions change by (1 + GDP growth) × (1 + change in emissions per unit of GDP) − 1.
+
+**What is the difference between a pollution tax and tradable permits?**
+A tax sets the price of pollution and lets the quantity adjust, while tradable permits cap the total quantity of pollution and let the permit price adjust.
+
+**How should you evaluate whether economic growth harms the environment?**
+Weigh both sides rather than saying growth must harm or must help. Growth harms the environment only if emissions per unit of output do not fall fast enough, so the answer depends on decoupling, technology and policy.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-the-environment-and-market-failure/) on any weak area.

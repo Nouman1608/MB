@@ -233,6 +233,23 @@ An appreciation reverses these effects: export prices abroad rise and imports ge
 - Mixing up the quoting convention, so a depreciation seems to raise export prices abroad.
 - Listing effects without a chain: lower foreign price, higher volume, higher net exports, higher aggregate demand.
 
+## Frequently asked questions
+
+**How accurate is purchasing power parity theory?**
+PPP predicts poorly over months and years because financial flows dominate exchange rates, but it is a better guide over long periods, especially where inflation gaps are large.
+
+**Does a depreciation always improve the trade balance?**
+No. It improves the balance only if the Marshall-Lerner condition holds, and because of the J-curve the balance may worsen first. Debts held in foreign currency also become heavier.
+
+**Why might a depreciation not make exporters much more competitive?**
+Exporters may keep the foreign price and take a bigger margin, imported components become dearer, demand may depend on quality rather than price, rivals may respond, and domestic inflation can erode the advantage.
+
+**How does a depreciation affect inflation?**
+Dearer imports raise costs and prices directly, in proportion to the share of imports in the consumer price basket. If the economy is near full capacity, higher net exports add demand-pull pressure as well.
+
+**How can a central bank hold its currency down?**
+It can sell its own currency and buy foreign currency, adding to its reserves, lower interest rates to deter hot-money inflows, or use capital controls.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. Component 2, Macroeconomics: area of study The global context, topic Exchange rates (purchasing power parity, managing the exchange rate, the Marshall-Lerner condition and J-curve, competitiveness, and effectiveness of changing the value of a currency).

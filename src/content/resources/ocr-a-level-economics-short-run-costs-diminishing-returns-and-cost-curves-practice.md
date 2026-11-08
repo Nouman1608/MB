@@ -168,6 +168,23 @@ These questions cover the short-run cost statements in Component 1, Microeconomi
 - Giving a list of effects of diminishing returns with no judgement.
 - Mixing up AC and MC, or AFC and TFC.
 
+## Frequently asked questions
+
+**What is the difference between the short run and the long run?**
+The short run is the period in which a firm has at least one input it cannot change; in the long run every input can be changed. It is defined by fixed inputs, not by a calendar length, so treating it as a number of months loses marks.
+
+**Does the law of diminishing returns mean total output falls?**
+No. Diminishing returns means each extra unit of a variable input adds less to output than the one before, so marginal product falls. Total output can still be rising.
+
+**How do you calculate marginal cost from a cost table?**
+Divide the change in total cost by the change in output. Dividing the rise in total cost by the output level, rather than by the rise in output, is a common mistake.
+
+**Which cost curves move when fixed costs rise?**
+A rise in fixed costs shifts average fixed cost and average cost up, but marginal cost and average variable cost do not move. Answers should always say which cost curves shift when an input price changes.
+
+**How do you get marks for explaining why MC cuts AC at its lowest point?**
+Give the reason, not just the fact: while marginal cost is below average cost it pulls the average down, and once it is above it pulls the average up, so the two curves meet at the minimum of average cost.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves/) on weak areas.
