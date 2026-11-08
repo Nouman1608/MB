@@ -185,8 +185,8 @@ Frequent errors include classifying an amine by the carbon next to N rather than
 **How do you get full marks for an amine substitution mechanism?**
 Start each curly arrow at a lone pair or a bond, show the positive charge on nitrogen in the intermediate, and show a second amine molecule removing H⁺ from N⁺ at the end. Missing the final H⁺ removal is a common way to lose a mark.
 
-**How many [H] are needed to reduce nitriles and nitro groups?**
-Each C≡N group needs 4[H] to become –CH₂NH₂, and each –NO₂ group needs 6[H] to become –NH₂, releasing two water molecules. Molecules with two such groups need double these amounts.
+**How do you name N-substituted amides?**
+Show the group on nitrogen with N- in the name, for example N-ethylpentanamide. Dropping the N- from N-substituted amide names is a common error.
 
 ## Official syllabus
 

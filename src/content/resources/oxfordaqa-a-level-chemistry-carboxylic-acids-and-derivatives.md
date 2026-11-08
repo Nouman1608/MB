@@ -301,6 +301,20 @@ Some product always stays dissolved in the cold solvent.
 
 Condense this section with the [revision notes](/resources/oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives-practice/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why are carboxylic acids weak acids?**
+Only a small fraction of carboxylic acid molecules ionise in water, so they are weak acids. They still release carbon dioxide from carbonates, giving fizzing and a gas that turns limewater milky.
+
+**What are esters used for?**
+The OxfordAQA 9620 specification names the common uses of esters as solvents, plasticisers, perfumes and food flavourings.
+
+**What are fats and oils made of?**
+Every vegetable oil and animal fat is a triester of propane-1,2,3-triol, also called glycerol, with each of its three –OH groups esterified by a long-chain carboxylic acid.
+
+**What is the mechanism for acyl chlorides reacting with nucleophiles?**
+It is nucleophilic addition–elimination: a lone pair on the nucleophile attacks the δ+ carbonyl carbon and the C=O electrons move on to oxygen, then the C=O re-forms and Cl⁻ leaves, and finally H⁺ is lost. You must be able to outline it with water, alcohols, ammonia and primary amines.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.9 Carboxylic acids and derivatives (3.3.9.1 and 3.3.9.2) and required practical 10, International A2 content.

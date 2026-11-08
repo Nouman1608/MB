@@ -167,8 +167,8 @@ Frequent errors include starting the cyanide arrow at N instead of C, drawing BH
 **What mole ratios are used in Tollens' and Fehling's calculations?**
 One mole of aldehyde gives two moles of silver with Tollens' reagent, and one mole of copper(I) oxide with Fehling's solution. Using a 1 : 1 ratio for silver is a common error.
 
-**How should hazards be described in a KCN plan question?**
-Pair each hazard with a control that addresses it: KCN is highly toxic, and adding acid forms hydrogen cyanide, a highly toxic volatile gas, so use a fume cupboard, gloves and eye protection and add the dilute acid slowly.
+**How should hazards be described in a plan question?**
+Name the specific hazard and pair it with a control measure that addresses that hazard. Pairing a hazard with a control that does not address it is a common way to lose marks.
 
 ## Official syllabus
 

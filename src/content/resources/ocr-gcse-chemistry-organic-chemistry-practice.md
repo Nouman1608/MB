@@ -209,8 +209,8 @@ Frequent errors include writing "clear" instead of colourless for bromine water,
 **How do you answer an "evaluate" question on fuel cells?**
 Give advantages, such as only water being produced at the point of use and continuous running, and disadvantages, such as hydrogen storage, flammability and cost, then reach a judgement for the stated use. Listing only advantages loses marks.
 
-**What small molecule is formed in the nylon rope trick?**
-The nylon rope trick uses hexanedioyl dichloride, so the small molecule formed at each link is hydrogen chloride, not water. This practical is Higher Tier only.
+**How do you explain boiling point differences between crude oil fractions?**
+Link chain length to the strength of the intermolecular forces and the energy needed to overcome them. Explaining boiling points with covalent bonds breaking is a common mistake.
 
 ## Official syllabus
 

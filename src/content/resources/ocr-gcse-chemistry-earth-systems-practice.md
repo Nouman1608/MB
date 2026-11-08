@@ -175,8 +175,8 @@ Judgement: the claim is well supported because correlation and mechanism agree, 
 **What does OCR GCSE Chemistry C6.3 Interpreting and interacting with earth systems cover?**
 Sub-topic C6.3 of OCR GCSE (9–1) Chemistry A (J248) covers the evolution of the atmosphere, the greenhouse effect, evidence and uncertainty in climate change, its effects and mitigation, air pollutants and the production of potable water.
 
-**How do you answer an "evaluate" question on climate change evidence?**
-Give evidence on both sides, such as the correlation between carbon dioxide and fossil fuel use and the greenhouse mechanism, against uncertainties such as natural factors and proxy data. Finish with a judgement, because treating correlation alone as proof loses credit.
+**How do you answer an "evaluate" question in OCR GCSE Chemistry?**
+Give points on both sides, such as evidence that supports a claim and the uncertainties in it, then finish with a judgement. Treating a correlation alone as proof of cause loses credit.
 
 **How do you calculate a percentage increase from climate data?**
 Subtract the starting value from the final value, divide by the starting value and multiply by 100. Dividing by the final value instead of the starting value is a common error.

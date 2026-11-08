@@ -238,6 +238,20 @@ The calculation chain: given quantity → moles → use equation ratio → moles
 - Quoting a final answer with no unit, or with far more significant figures than the data allow.
 - Writing spectator ions into an ionic equation, or leaving charges unbalanced.
 
+## Frequently asked questions
+
+**Do I need to memorise the Avogadro constant and gas constant for OxfordAQA?**
+No. The OxfordAQA 9620 specification says you need not recall the value of the Avogadro constant, L, or the gas constant, R; they are provided. You need to know how to use them.
+
+**What units are used in the ideal gas equation?**
+All quantities must be in SI units: pressure in Pa, volume in m³ and temperature in K. Convert kPa × 1000 to Pa, cm³ × 10⁻⁶ to m³, dm³ × 10⁻³ to m³ and °C + 273 to K before substituting.
+
+**Why is relative formula mass used for ionic compounds?**
+Ionic compounds exist as lattices of ions, not as separate molecules, so the term relative formula mass is used instead of relative molecular mass. Neither quantity has units, because each is a ratio.
+
+**Why does high atom economy matter?**
+With high atom economy, less raw material ends up as unwanted product, so costs for raw materials, waste disposal and separation fall. It also conserves resources and causes less environmental harm.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620) specification*, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.2 Amount of substance.

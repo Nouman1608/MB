@@ -193,8 +193,8 @@ Frequent errors include giving rates without units, reading tangent points from 
 **How do you show that a substance is acting as a catalyst?**
 You need two pieces of evidence: the reaction is faster with the substance present, and the same mass of it is recovered unchanged at the end. A substance that speeds up the reaction but loses mass is reacting, not acting as a catalyst.
 
-**Does increasing pressure change the energy of collisions?**
-No. Increasing pressure pushes gas particles closer together, so successful collisions happen more often each second, but the energy of each collision stays the same at constant temperature.
+**How should rates be given in OCR GCSE answers?**
+Always give a unit that matches the data, such as cm³/s for a gas volume or g/s for a mass. Rates without units, or g/s used for gas volumes, are a common way to lose marks.
 
 ## Official syllabus
 

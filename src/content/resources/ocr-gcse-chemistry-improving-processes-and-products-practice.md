@@ -219,8 +219,8 @@ Biological extraction (C6.1c) and the balance of rate, equilibrium and commercia
 **What are common mistakes in C6.1 questions?**
 Frequent errors include leaving electrons on the wrong side of an electrode half equation, saying a catalyst raises the yield of ammonia, explaining a compromise temperature with yield only, using one nitrogen atom when a formula has three, and giving only one condition for rusting.
 
-**How do you explain a compromise temperature in an industrial process?**
-Refer to both yield and rate, and to cost. For the Haber process, a lower temperature would give a higher equilibrium yield but too slow a rate, so about 450 °C is used as a compromise.
+**How do you answer a life-cycle assessment comparison question?**
+Put both products on the same number of uses before comparing totals, and subtract any negative value rather than adding it. Missing a stage such as transport or disposal is a common error.
 
 ## Official syllabus
 

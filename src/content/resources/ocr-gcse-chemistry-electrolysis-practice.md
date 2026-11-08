@@ -180,8 +180,8 @@ Sub-topic C3.4 of OCR GCSE (9–1) Chemistry A (J248) covers electrode products,
 **What are common mistakes in electrolysis questions?**
 Frequent errors include saying electrons rather than ions move through the electrolyte, giving a reactive metal such as sodium as a product of an aqueous solution, naming the ion (chloride) instead of the element formed (chlorine), and assuming a 1 : 1 ratio for hydrogen and oxygen.
 
-**How do you test for chlorine produced in electrolysis?**
-Chlorine bleaches damp blue litmus paper. The paper must be damp, and leaving that word out is a common way to lose the mark.
+**How do you write half equations that earn the mark?**
+Show the electrons on the correct side, gained at the cathode and lost at the anode, and check that both the atoms and the total charge balance. Write halogens and oxygen as diatomic molecules, such as Cl₂ and O₂.
 
 **How do you find an empirical formula from electrolysis products?**
 Divide the mass of each element produced by its relative atomic mass, then find the simplest whole-number ratio. For example, 0.48 g of magnesium and 3.20 g of bromine give a 1 : 2 ratio, so the formula is MgBr₂.

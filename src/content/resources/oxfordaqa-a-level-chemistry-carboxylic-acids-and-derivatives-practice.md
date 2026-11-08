@@ -185,6 +185,20 @@ Revise from the [study guide](/resources/oxfordaqa-a-level-chemistry-carboxylic-
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.3.9 Carboxylic acids and derivatives cover?**
+Section 3.3.9 of OxfordAQA International AS and A-level Chemistry (9620) covers carboxylic acids and esters, ester hydrolysis, fats, soap and biodiesel, and acylation with acyl chlorides and acid anhydrides, including the addition–elimination mechanism, aspirin and required practical 10.
+
+**What are common mistakes in carboxylic acids and esters questions?**
+Frequent errors include naming an ester with the acid word first, explaining "weak acid" with pH instead of partial dissociation, giving the free acid instead of the salt for alkaline hydrolysis, missing the factor of 3 for triglycerides, and writing HCl as a product of an acid anhydride.
+
+**How do you write good answers about industrial advantages?**
+Name the specific property in each point, such as cost, corrosiveness or the by-product formed, rather than writing "safer" or "better". Each point should say what the advantage is, not just that one exists.
+
+**How do you compare melting points to judge purity?**
+Compare both the temperature and the range with the data-book value. A pure solid melts sharply at the data-book value, while an impure solid melts lower and over a wider range.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.9 Carboxylic acids and derivatives (3.3.9.1 and 3.3.9.2) and required practical 10, International A2 content.

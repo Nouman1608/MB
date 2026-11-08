@@ -191,6 +191,20 @@ Learn the content first in the [study guide](/resources/oxfordaqa-a-level-chemis
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.3.10 Aromatic chemistry cover?**
+Section 3.3.10 of OxfordAQA International AS and A-level Chemistry (9620) covers the bonding and stability of benzene, electrophilic substitution by nitration, sulfonation and Friedel–Crafts reactions, the reactions of methylbenzene, and free-radical attack by chlorine.
+
+**What are common mistakes in aromatic chemistry questions?**
+Frequent errors include starting the first arrow on a ring carbon instead of the delocalised ring, drawing the intermediate without the + or with a full circle, mixing up AlCl₃ and UV light conditions, and leaving HCl out of Friedel–Crafts equations.
+
+**How should you quote benzene's extra stability from hydrogenation data?**
+Give the difference between the predicted and measured enthalpies of hydrogenation and say clearly that benzene is the more stable compound, linking this to delocalisation. Quoting a figure without saying which compound is more stable loses marks.
+
+**How do you draw the intermediate in electrophilic substitution?**
+Draw a horseshoe of delocalisation, not a full circle, opening towards the carbon that was attacked, with a + charge inside it. That carbon carries both the hydrogen and the new group until H⁺ is lost.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.10 Aromatic chemistry (International A2): subsections 3.3.10.1 (Bonding) and 3.3.10.2 (Electrophilic substitution).

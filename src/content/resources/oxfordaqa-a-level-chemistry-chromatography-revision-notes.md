@@ -220,6 +220,20 @@ Rf  =  --------------------------------------------------------
 - Claiming one spot proves purity, or a single match proves identity.
 - Choosing a formula from a precise m/z without showing the sums for all the candidates.
 
+## Frequently asked questions
+
+**What decides how far a component travels in chromatography?**
+Separation depends on the balance between a component's solubility in the moving phase and its retention by the stationary phase. Two substances with the same balance do not separate, so changing the solvent, solid or conditions can separate them.
+
+**What is the difference between TLC, column and gas chromatography?**
+In TLC a solvent rises up a thin solid layer on a plate; in column chromatography a solvent runs down through a packed column; in gas chromatography a gas carries the vaporised sample through a column of solid, which may carry a thin liquid coating.
+
+**How do you identify a peak in gas chromatography?**
+Match its retention time to a standard run on the same column, at the same temperature and gas flow. A peak with no matching standard is an unknown, which can be analysed by mass spectrometry.
+
+**Why are Rf values only compared on the same plate?**
+An Rf value only holds for the stationary phase, solvent and conditions it was measured with. Compare an unknown only with standards run on the same plate in the same solvent.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards (OxfordAQA). Section 3.3.16 Chromatography (International A2), subsection 3.3.16.1.

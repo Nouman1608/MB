@@ -171,8 +171,8 @@ Work through the [study guide](/resources/ocr-a-level-chemistry-practical-skills
 
 ## Frequently asked questions
 
-**How is the OCR A Level Chemistry Practical Endorsement graded?**
-The Practical Endorsement for OCR A Level Chemistry A (H432) is Component 04, teacher assessed against the CPAC and reported separately from the A level grade as Pass or Not Classified. It is not a numerical mark added to your written papers.
+**Which practical techniques does this OCR set cover?**
+The questions cover OCR A Level Chemistry A (H432) section 1.2 and the Practical Endorsement rules, including risk assessment, standard solutions, titrations, gas volumes, reflux, recrystallisation, chromatography, qualitative tests, cells, rates and pH, in line with the PAG techniques.
 
 **Are practical skills tested in the OCR A Level Chemistry written papers?**
 Yes. Section 1.2 skills are assessed through the endorsement, but practical techniques can also be tested in the written papers through 1.1.2(a), so questions on titrations, standard solutions, gas volumes and purification are worth practising.

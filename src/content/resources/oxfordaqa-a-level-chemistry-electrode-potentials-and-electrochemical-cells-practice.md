@@ -202,6 +202,20 @@ S₂O₈²⁻ + 2e⁻ ⇌ 2SO₄²⁻, E⦵ = +2.01 V
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.1.9 Electrode potentials and electrochemical cells cover?**
+Section 3.1.9 of OxfordAQA International AS and A-level Chemistry (9620) covers electrode potentials, cell representations, EMF and feasibility, required practical 6, and commercial cells including lithium cells and fuel cells. It is International A-level only content.
+
+**What are common mistakes in electrode potential questions?**
+Frequent errors include writing an electrode reaction as an oxidation instead of an IUPAC reduction, scaling an E⦵ value when the half-equation is scaled, leaving Pt(s) or H⁺(aq) out of a cell representation, and saying electrons travel through the salt bridge.
+
+**How should I explain the effect of a concentration change on EMF?**
+State which electrode the change affects and the direction in which its equilibrium shifts, then say whether that electrode potential becomes more positive or more negative. A more positive positive electrode, or a more negative negative electrode, increases the EMF.
+
+**How do you avoid sign errors when calculating an EMF?**
+Use the electrode potentials exactly as given, without scaling them, and subtract the potential of the negative electrode from that of the positive electrode. If a calculation gives a negative EMF, check which electrode is positive rather than simply dropping the minus sign.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.9 Electrode potentials and electrochemical cells (International A2). Published by OxfordAQA.

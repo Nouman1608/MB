@@ -192,8 +192,8 @@ Section 3.2.2 of OCR A Level Chemistry A (H432) covers the effect of concentrati
 **How do you find the rate at a particular time from a graph?**
 Draw a tangent that touches the curve at that time, extend it well across the grid, and read two points far apart on the drawn line. The gradient of the tangent is the rate at that instant, with units taken from the axes.
 
-**How should I plan a rate experiment that follows mass loss?**
-Change only the concentration and control everything else, such as the mass and particle size of the solid, the volume of acid and the temperature, saying how each is controlled. Record the mass at regular intervals, plot mass lost against time and draw a tangent at t = 0 for each initial rate.
+**How do extended planning questions on rates earn marks?**
+Marks come from distinct, practical points: what you change, what you keep constant and how, what you measure and how often, and how you process the data. Listing control variables without saying how each is controlled is a common way to lose marks.
 
 **What mistakes lose marks in reaction rates questions?**
 Common errors include saying that concentration or pressure changes the energy of collisions, mixing cm³ and dm³ when converting a gas volume rate to moles, moving the Boltzmann curve for a catalyst, and giving the hotter Boltzmann curve a higher peak.

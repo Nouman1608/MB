@@ -204,8 +204,8 @@ Sub-topic C3.3 of OCR GCSE (9–1) Chemistry A (J248) covers redox in terms of o
 **What are common mistakes in redox and acids questions?**
 Frequent errors include naming the product instead of the oxide as the substance reduced, calling the oxidising agent "oxidised", missing water or carbon dioxide from an acid and carbonate equation, forgetting brackets in formulae such as Cu(NO₃)₂, and using "strong" to mean "concentrated".
 
-**How do you describe making a salt from an insoluble base to get full marks?**
-Say that the solid is added in excess until no more reacts, then filter off the excess, warm the filtrate until crystals start to form, leave it to crystallise and dry the crystals. Leaving out the excess solid step is a common way to lose marks.
+**Which parts of C3.3 are Higher Tier only?**
+In OCR GCSE Chemistry A (J248), redox in terms of electrons, strong and weak acids, and the link between pH and hydrogen ion concentration are Higher Tier only. Redox in terms of oxygen, neutralisation and making salts are assessed at both tiers.
 
 **How many times does the H⁺ concentration change when pH changes?**
 Each fall of 1 in pH means the hydrogen ion concentration is 10 times greater, so a change of 3 is a factor of 1000, not 3. This is Higher Tier only in J248.

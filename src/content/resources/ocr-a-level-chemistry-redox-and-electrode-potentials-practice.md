@@ -177,8 +177,8 @@ MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O **[5]**
 **What does OCR A Level Chemistry 5.2.3 Redox and electrode potentials cover?**
 Section 5.2.3 of OCR A Level Chemistry A (H432) covers oxidising and reducing agents, constructing redox equations, manganate(VII) and iodine–thiosulfate titrations, standard electrode potentials, cell potentials and feasibility, and storage and fuel cells. It includes PAG8 on electrochemical cells.
 
-**Why is no indicator needed in a manganate(VII) titration?**
-Purple manganate(VII) ions are reduced to almost colourless Mn²⁺ ions, so the manganate acts as its own indicator. The end point is the first permanent pale pink colour in the flask.
+**How should I set out a multi-step redox titration calculation?**
+Write the equation and mole ratio first, then find the moles of titrant from the mean concordant titre, scale by the ratio and by any dilution factor, and only then convert to the quantity asked for. Keep unrounded values until the final answer.
 
 **What are common mistakes in redox titration calculations?**
 Frequent errors include averaging a non-concordant or rough titre, forgetting the dilution factor when only a portion of a volumetric flask is titrated, and using the wrong mole ratio from the equation. Build the ratio from the equation before using any numbers.

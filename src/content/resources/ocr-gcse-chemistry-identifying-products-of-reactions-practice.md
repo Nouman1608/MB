@@ -193,8 +193,8 @@ Sub-topic C4.2 of OCR GCSE (9–1) Chemistry A (J248) covers tests for gases, fl
 **What are common mistakes in chemical test questions?**
 Frequent errors include naming a test without its result, mixing up the glowing splint (oxygen) and lighted splint (hydrogen), writing "red" for both lithium and calcium flames, and writing "iron" instead of iron(II) or iron(III).
 
-**How do you tell zinc ions from calcium ions with sodium hydroxide?**
-Both give a white precipitate with a few drops of sodium hydroxide solution, so add excess. The precipitate from zinc ions dissolves in excess, while the one from calcium ions stays; stopping after "white precipitate" loses the mark.
+**Which parts of C4.2 are Higher Tier only?**
+In OCR GCSE Chemistry A (J248), the sodium hydroxide tests for metal ions and the tests for anions (C4.2b) are Higher Tier only. Gas tests, flame tests, instrumental methods and reading mass spectra are assessed at both tiers.
 
 **How do you justify an instrumental method over a chemical test?**
 Use specific advantages such as sensitivity, accuracy or speed, for example that an instrument can detect much lower concentrations. Vague words such as "more reliable" or "better" do not earn credit.

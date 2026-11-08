@@ -254,8 +254,8 @@ Frequent errors include starting the first arrow at an alkene carbon instead of 
 **How do you draw the repeating unit of an addition polymer?**
 Take the two carbons from one C=C, change the double bond to a single bond, keep every substituent on its original carbon and add extension bonds at each end. A repeating unit with a C=C or with substituents moved is a common error.
 
-**Why are addition polymers unreactive?**
-The saturated backbone has no C=C bond for electrophilic addition, and its C–C and C–H bonds are strong with little polarity. Blaming unreactivity on intermolecular forces is a common mistake.
+**How do you name an addition polymer?**
+Write poly followed by the monomer name in brackets, as the IUPAC rule requires. For example, propenenitrile gives poly(propenenitrile).
 
 ## Official syllabus
 

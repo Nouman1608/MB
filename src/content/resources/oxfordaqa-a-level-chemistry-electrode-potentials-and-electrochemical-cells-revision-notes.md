@@ -284,6 +284,20 @@ Use the data table above.
 - Saying a fuel cell is recharged, or that electrons cross the salt bridge.
 - Writing acid-electrolyte half-equations for the alkaline fuel cell.
 
+## Frequently asked questions
+
+**What is the standard electrode potential?**
+In OxfordAQA A-level Chemistry (9620), the standard electrode potential, E⦵, is the EMF of a half-cell measured against the standard hydrogen electrode at 298 K, 100 kPa and with 1.00 mol dm⁻³ solutions of ions. The standard hydrogen electrode is defined as 0.00 V.
+
+**Why is a high-resistance voltmeter used to measure EMF?**
+A high-resistance voltmeter lets almost no current flow, so the reading is the EMF of the cell. The EMF is the potential difference of a cell when no current flows.
+
+**What happens in a lithium cell?**
+Lithium is oxidised from 0 to +1 at the negative electrode, and cobalt is reduced from +4 to +3 at the positive electrode. Li⁺ ions cross the electrolyte while electrons flow round the external circuit, and charging reverses both reactions.
+
+**Does a feasible cell reaction always happen quickly?**
+No. E⦵ values predict whether a reaction is feasible, not how fast it goes, so treating feasibility as a statement about rate is an error.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.9 Electrode potentials and electrochemical cells (International A2). Published by OxfordAQA.

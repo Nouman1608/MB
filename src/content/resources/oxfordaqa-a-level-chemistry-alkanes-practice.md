@@ -244,8 +244,8 @@ Section 3.3.2 of OxfordAQA International AS and A-level Chemistry (9620) covers 
 **What are common mistakes in alkanes questions?**
 Frequent errors include naming temperature as a difference between thermal and catalytic cracking when both are high, referring to bonds breaking when explaining boiling points, writing an alkene fragment as CₙH₂ₙ₊₂, and tracing the nitrogen in NOₓ to the fuel instead of the air.
 
-**How do you explain why cracking is economically worthwhile?**
-Link surplus, demand and value: distillation gives more heavy fractions than are needed and too few lighter fractions such as motor fuels, so cracking converts low-value surplus into higher-value products. Cracking also gives alkenes, which are valuable feedstocks for polymers.
+**How do you balance cracking equations?**
+Subtract the carbon and hydrogen of the known products from the starting alkane separately, then check each formula against CₙH₂ₙ₊₂ for alkanes or CₙH₂ₙ for alkenes. Writing an alkene fragment as CₙH₂ₙ₊₂ stops the hydrogen balancing.
 
 **What units should be used in pV = nRT for combustion volumes?**
 Use pressure in pascals and temperature in kelvin, which gives the volume in m³; multiply by 1000 for dm³. Leaving the pressure in kPa gives a volume 1000 times too large.

@@ -180,8 +180,8 @@ Section 3.1.1 of OCR A Level Chemistry A (H432) covers the arrangement of the pe
 **How do you find the group of an element from successive ionisation energies?**
 Calculate the ratio between each value and the next and find the largest jump. The electrons removed before that jump are the outer shell, so their number gives the group of an s- or p-block element.
 
-**What must a definition of first ionisation energy include?**
-It must refer to 1 mol of gaseous atoms each losing one electron to form 1 mol of gaseous 1+ ions. Leaving out "gaseous" or the mole quantities is one of the most common ways to lose the mark.
+**Why should I write electron configurations when classifying elements into blocks?**
+The block follows from the sub-shell that the last electron enters, so writing the configuration first makes the answer easy to justify. Following the filling order correctly, such as 4s before 3d and 5s before 4d, avoids placing an element in the wrong block.
 
 **How should I answer an extended question on melting points across Period 3?**
 Name the structure of each group of elements, say what has to be overcome when it melts, and say whether that is strong or weak. A list of structures with no link to the order of melting points earns only part of the credit.

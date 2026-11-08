@@ -236,6 +236,19 @@ Next, read the [revision notes](/resources/oxfordaqa-a-level-chemistry-chromatog
   <figcaption>1H shift ranges on the delta scale with TMS at zero; the aromatic bar (6.5-8.2) is from the OCR lesson (AQA, OCR, others).</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate an Rf value?**
+Rf = distance travelled by the spot ÷ distance travelled by the solvent, with both measured from the baseline and the spot distance taken to its centre. Rf is a pure number between 0 and 1 with no units.
+
+**Does a single spot on a TLC plate prove a compound is pure?**
+No. An impurity could have the same Rf value in that solvent and share the spot, so the plate should be rerun in a different solvent or the sample checked another way. One matching value is strong evidence, not proof.
+
+**How is GC-MS used to identify substances?**
+The gas chromatography column separates the mixture, and its outlet feeds a mass spectrometer, so each component arrives one at a time and gives its own spectrum. The molecular ion, measured precisely, can then identify its formula.
+
+**How are colourless amino acids located on a TLC plate?**
+Amino acids are generally located by spraying the plate with ninhydrin after the run. UV viewing works only for compounds that absorb the lamp wavelength, on a fluorescent-indicator plate.
 
 ## Official syllabus
 

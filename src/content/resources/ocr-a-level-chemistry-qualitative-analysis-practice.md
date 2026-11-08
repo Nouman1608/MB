@@ -166,8 +166,8 @@ Section 3.1.4 of OCR A Level Chemistry A (H432) covers the anions carbonate, sul
 **How should observations be written to earn credit in qualitative analysis?**
 Name the state and colour, such as "white precipitate" rather than "goes cloudy", and for a gas describe the effervescence and then the test result, such as limewater turning milky. Keep the observation separate from the inference you draw from it.
 
-**Why is barium nitrate used instead of barium chloride before a halide test?**
-Barium chloride adds chloride ions to the solution, so the later silver nitrate test would always give a white precipitate of silver chloride. Barium nitrate adds only nitrate ions, which do not interfere.
+**How should I lay out answers that identify an unknown salt?**
+Work through the results one test at a time, giving the evidence for each ion from a specific observation and treating negative results as evidence too. Then combine the ions into the formula and write any equation the question asks for.
 
 **What are common mistakes in qualitative analysis calculations?**
 Frequent slips include leaving a gas volume in cm³ when dividing by 24.0 dm³ mol⁻¹, rearranging the mole link between a halide salt and its silver halide precipitate wrongly, and rounding before the final answer.
