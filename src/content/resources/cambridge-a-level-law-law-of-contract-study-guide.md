@@ -56,7 +56,7 @@ Each party must give something in return, which is **consideration**. It must be
 
 ### Intention and capacity
 
-In social and family arrangements it is presumed that no legal relations are intended (Balfour v Balfour, 1919), but the presumption may be rebutted (Merritt v Merritt, 1969). In commercial dealings the opposite presumption applies. As to capacity, a minor is bound by contracts for necessaries and beneficial contracts of service, but other contracts are generally not enforceable against them.
+In social and family arrangements it is presumed that no legal relations are intended (Balfour v Balfour, 1919), but the presumption may be rebutted (Merritt v Merritt, 1970). In commercial dealings the opposite presumption applies. As to capacity, a minor is bound by contracts for necessaries and beneficial contracts of service, but other contracts are generally not enforceable against them.
 
 ## Contents of a contract
 

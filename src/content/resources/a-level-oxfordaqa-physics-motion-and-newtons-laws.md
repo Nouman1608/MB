@@ -200,4 +200,4 @@ time.
 
 OxfordAQA International AS and A-level Physics (9630) specification,
 Version 4.4 —
-[oxfordaqa.com/9630](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-as-and-a-level-physics-specification.pdf).
+[oxfordaqa.com/9630](https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-as-and-a-level-physics-specification.pdf).
