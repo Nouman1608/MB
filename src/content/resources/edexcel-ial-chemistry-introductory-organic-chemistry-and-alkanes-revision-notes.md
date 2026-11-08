@@ -260,6 +260,23 @@ termination gives side products, so you get a mixture and a low yield of any one
 - Using full curly arrows for homolytic fission, or putting the dot on the wrong atom of an alkyl radical.
 - Stating that bioethanol is carbon-neutral without the life-cycle qualification.
 
+## Frequently asked questions
+
+**What is the difference between a hazard and a risk in Edexcel IAL Chemistry?**
+A hazard is something with the potential to cause harm, such as a flammable or toxic substance. A risk is the likelihood that the hazard causes harm under the conditions of use, as defined in Topic 4 of the Edexcel IAL Chemistry specification (YCH11).
+
+**What is the difference between cracking and reforming?**
+Cracking breaks long-chain alkanes into shorter alkanes and alkenes. Reforming keeps the number of carbon atoms but changes straight chains into branched or cyclic hydrocarbons, which burn more smoothly in petrol engines.
+
+**What are the general formulae of alkanes and cycloalkanes?**
+Alkanes have the general formula CₙH₂ₙ₊₂ and cycloalkanes CₙH₂ₙ. A cycloalkane therefore shares its molecular formula with an alkene of the same carbon count.
+
+**Why is free radical substitution of limited use for making one product?**
+The product can be substituted further, giving dichloro and more highly substituted compounds, and termination steps form side products. The result is a mixture with a low yield of any one compound.
+
+**What is the difference between homolytic and heterolytic fission?**
+In homolytic fission each bonded atom keeps one electron of the shared pair, so free radicals form. In heterolytic fission one atom keeps both electrons, so ions form.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

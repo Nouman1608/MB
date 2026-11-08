@@ -214,6 +214,23 @@ Use R = 8.31 J mol⁻¹ K⁻¹ wherever needed. The Arrhenius equation is k = Ae
 - [Kinetics study guide](/resources/edexcel-ial-chemistry-kinetics/)
 - [Kinetics revision notes](/resources/edexcel-ial-chemistry-kinetics-revision-notes/)
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry kinetics practice questions cover?**
+They cover Topic 11: Kinetics, outcomes 11.1 to 11.13 of the Pearson Edexcel International A Level Chemistry specification (YCH11), including Core Practicals 9a, 9b and 10. Topic 11 is in Unit 4, an International A2 unit.
+
+**Can you read orders of reaction from the balanced equation?**
+No. Orders come only from experimental results, so you compare runs in which one concentration changes at a time. A coefficient such as 6H⁺ in the equation does not make a reaction sixth order.
+
+**How do you show a reaction is first order from a concentration-time graph?**
+Measure two separate half-lives from different starting concentrations. If they are equal, the half-life is constant and the reaction is first order; one half-life alone cannot show this.
+
+**Which mistakes are common when finding activation energy from an Arrhenius plot?**
+Using temperatures in °C instead of kelvin, dropping the negative sign of the gradient, and quoting a value in J mol⁻¹ as if it were kJ mol⁻¹. Plot ln k or ln(1/t) against 1/T and take the gradient from well-separated points on the best-fit line.
+
+**How do you check a proposed reaction mechanism?**
+The species in the rate equation must appear in or before the rate-determining step in the right numbers, zero-order species must react only after it, and all the steps must add up to the overall equation.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 4, Topic 11: Kinetics, outcomes 11.1 to 11.13.

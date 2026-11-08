@@ -243,6 +243,23 @@ read the bottom of the meniscus at eye level; add dropwise near the end point; s
 - Forgetting to scale up when only 25.0 cm³ of a 250 cm³ solution was titrated.
 - Adding absolute uncertainties of different quantities instead of percentage uncertainties.
 
+## Frequently asked questions
+
+**Why does ionisation energy fall down Groups 1 and 2?**
+Each element down the group has an extra occupied shell, so the outer electron is further from the nucleus and more shielded by inner electrons. These effects outweigh the larger nuclear charge, so less energy is needed to remove the electron.
+
+**How do the solubilities of Group 2 hydroxides and sulfates change down the group?**
+Group 2 hydroxides become more soluble down the group, from magnesium to barium. Group 2 sulfates become less soluble, so barium sulfate is the least soluble.
+
+**How do Group 1 and Group 2 nitrates decompose?**
+Sodium and potassium nitrates give the nitrite and oxygen only. Group 2 nitrates and lithium nitrate give the oxide, nitrogen dioxide and oxygen.
+
+**What are the flame test colours for Groups 1 and 2?**
+Lithium is crimson, sodium yellow-orange, potassium lilac, calcium brick red, strontium crimson red and barium pale green. Magnesium gives no visible flame colour.
+
+**How do you test for ammonium ions?**
+Warm the sample with sodium hydroxide solution. Ammonia is released, which turns damp red litmus paper blue and gives white smoke with hydrogen chloride fumes.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

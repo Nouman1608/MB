@@ -211,6 +211,23 @@ Each change alters ΔE, so a different frequency is absorbed.
 - Giving the trans isomer as cis-platin, or omitting why it is supplied as a single isomer.
 - Describing CO poisoning without the words **ligand exchange** or **binds more strongly**.
 
+## Frequently asked questions
+
+**What is a transition metal in Edexcel IAL Chemistry?**
+A transition metal is a d-block element with at least one stable ion whose d-orbitals are incompletely filled, as defined in outcome 17.1 of the Edexcel IAL Chemistry specification (YCH11). Scandium and zinc are in the d-block but are not transition metals.
+
+**Which electronic configurations are exceptions in Period 4?**
+Chromium is [Ar] 3d⁵ 4s¹ and copper is [Ar] 3d¹⁰ 4s¹. Their ions follow the normal rule of losing 4s electrons first.
+
+**Why are some transition metal ions colourless?**
+d⁰ ions such as Sc³⁺ have no d electron to promote, and d¹⁰ ions such as Zn²⁺ have no space in the upper d level. A complex also looks colourless if the energy gap corresponds to ultraviolet rather than visible light.
+
+**What three changes can alter the colour of a transition metal complex?**
+A change of oxidation number, a change of ligand or a change of coordination number. Each changes the energy gap between the split d-orbitals, so a different frequency of light is absorbed.
+
+**What is the difference between cis and trans isomers of a square planar complex?**
+In the cis isomer the two identical ligands are next to each other at 90°; in the trans isomer they are opposite at 180°. Cis-platin, the cancer drug, is the cis isomer of [Pt(NH₃)₂Cl₂].
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 17: Transition Metals and their Chemistry, outcomes 17.1 to 17.17.

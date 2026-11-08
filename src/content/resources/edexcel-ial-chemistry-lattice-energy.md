@@ -260,6 +260,23 @@ Outcome 8.15 ([Groups 1 and 2](/resources/edexcel-ial-chemistry-the-elements-of-
 - Check yourself with the [lattice energy practice questions](/resources/edexcel-ial-chemistry-lattice-energy-practice/).
 - Find your weakest topics with the free [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Is lattice energy AS or A2 in Edexcel International A Level Chemistry?**
+Part 12B, Lattice energy, is International A2 content in the Pearson Edexcel specification (YCH11), assessed in Unit 4: Rates, Equilibria and Further Organic Chemistry. It builds on Hess's law and Group 2 chemistry from Unit 2 and ionic bonding from Unit 1.
+
+**Why can lattice energy not be measured directly?**
+Lattice energy describes gaseous ions coming together to form a solid, which cannot be carried out and measured directly. It is found indirectly from a Born-Haber cycle, which applies Hess's law to the formation of the ionic solid.
+
+**What is the difference between experimental and theoretical lattice energy?**
+The experimental value comes from a Born-Haber cycle built on measured data, so it includes whatever bonding is really present. The theoretical value treats the ions as perfect spheres held only by electrostatic forces, which is the purely ionic model.
+
+**What is enthalpy change of hydration?**
+It is the enthalpy change when 1 mol of a gaseous ion becomes surrounded by water to give 1 mol of that ion in aqueous solution, under standard conditions. Hydration always releases energy.
+
+**Why do Group 2 hydroxides become more soluble down the group?**
+The hydroxide ion is small, so a larger cation makes lattice energy less exothermic faster than hydration enthalpy falls. The enthalpy change of solution becomes more favourable, so solubility rises.
+
 ## Official syllabus
 
 Source document: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Section taught here: 12B Lattice energy (outcomes 12.12 to 12.19), within Topic 12, Entropy and Energetics.

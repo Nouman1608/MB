@@ -211,6 +211,23 @@ C₆H₅OH + 3Br₂ → C₆H₂Br₃OH + 3HBr
 - Describing sulfonation conditions as "concentrated sulfuric acid" when the specification names fuming sulfuric acid.
 - For phenol, writing that oxygen "donates electrons" with no mention of its lone pair overlapping with the ring π-system.
 
+## Frequently asked questions
+
+**Which unit is arenes in for Edexcel International A Level Chemistry?**
+Topic 18: Organic Chemistry – Arenes is in Unit 5: Transition Metals and Organic Nitrogen Chemistry, an International A2 unit of the Pearson Edexcel specification (YCH11). The specification also expects knowledge of the common uses of the compounds in the topic.
+
+**Can you draw benzene as a Kekulé structure in Edexcel IAL Chemistry?**
+Yes. The specification lets you draw benzene either as a hexagon with alternating double bonds or as a hexagon with a circle inside, whichever suits the equation or mechanism.
+
+**Why does benzene burn with a smoky flame?**
+Benzene has a high carbon to hydrogen ratio, so there is not enough oxygen at the flame for complete combustion. Unburnt carbon forms soot.
+
+**How is the nitronium ion formed?**
+Concentrated sulfuric acid, the stronger acid, protonates nitric acid, which then loses water: HNO₃ + 2H₂SO₄ → NO₂⁺ + H₃O⁺ + 2HSO₄⁻. Sulfuric acid is regenerated at the end, so it acts as a catalyst.
+
+**Is the mechanism of sulfonation required for Edexcel IAL Chemistry?**
+No. You need the reagent, fuming sulfuric acid, and the equation C₆H₆ + SO₃ → C₆H₅SO₃H, but the mechanism of sulfonation is not required.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 5, Topic 18: Organic Chemistry – Arenes, outcomes 18.1 to 18.6.

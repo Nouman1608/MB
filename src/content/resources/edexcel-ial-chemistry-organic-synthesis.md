@@ -230,6 +230,23 @@ Losses come from product left dissolved in the recrystallisation solvent, transf
 
 Read the [revision notes](/resources/edexcel-ial-chemistry-organic-synthesis-revision-notes/), then try the [practice questions](/resources/edexcel-ial-chemistry-organic-synthesis-practice/). Tick off 20.1 to 20.5 on the [checklist](/checklists/edexcel/a-level/chemistry/) and take a free [diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**Which unit is organic synthesis in for Edexcel International A Level Chemistry?**
+Topic 20: Organic Synthesis is International A2 content in Unit 5 of the Pearson Edexcel specification (YCH11), and includes Core Practical 16, the preparation of aspirin. The specification says it draws on organic chemistry from the whole course.
+
+**In what order should you use data to identify an organic compound?**
+Find the empirical formula from combustion or percentage data, then the molecular formula from the molecular ion. Next use chemical tests and IR for functional groups, and NMR for the carbon skeleton.
+
+**How do Grignard reagents lengthen a carbon chain?**
+In a Grignard reagent the carbon bonded to magnesium is δ−, so it attacks the δ+ carbon of CO₂ or a C=O group and forms a new C–C bond. The intermediate is then hydrolysed with dilute acid.
+
+**How do you recrystallise an impure solid?**
+Dissolve it in the minimum volume of hot solvent and filter hot to remove insoluble impurities. Cool so the product crystallises, collect by suction filtration, rinse with ice-cold solvent and dry.
+
+**Why is cold water added in the aspirin preparation?**
+Cold water destroys the excess ethanoic anhydride. The mixture is then cooled in ice so the crude aspirin crystallises and can be collected by filtration under reduced pressure.
+
 ## Official syllabus
 
 Source: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, specification XCH11/YCH11, Issue 1, September 2017 (Pearson Education Limited). This page covers Topic 20: Organic Synthesis, outcomes 20.1 to 20.5, including Core Practical 16, in Unit 5.

@@ -199,6 +199,23 @@ Use C = 12.0, H = 1.0, O = 16.0 and Cl = 35.5 wherever you need relative atomic 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry Topic 4 practice questions cover?**
+They cover Topic 4, Introductory Organic Chemistry and Alkanes, outcomes 4.1 to 4.18 of the Pearson Edexcel International A Level Chemistry specification (XCH11/YCH11). The topic is in Unit 1 at International AS level.
+
+**What is the difference between a displayed formula and a structural formula?**
+A displayed formula shows every atom and every bond, including each C–H bond. Writing CH₃ groups on a diagram turns it into a structural formula, which can lose the mark when a displayed formula is asked for.
+
+**How do you check a branched alkane name before writing it?**
+Find the longest chain, including any route through a branch, and number from the end that gives the lowest locants. A name with a branch on carbon 1 or an ethyl group on carbon 2 means the longest chain was missed.
+
+**How do you answer a "discuss" question on carbon-neutral fuels?**
+Give a judgement for each fuel with its condition: petrol is not carbon-neutral, bioethanol is not fully carbon-neutral once farming and processing are included, and hydrogen depends on how it is made. Descriptions with no conclusion tend to score well below full marks.
+
+**What mistakes are common in free radical substitution answers?**
+The radical dot must sit on the carbon of the alkyl radical, and the first propagation step forms the hydrogen halide, not a hydrogen radical. Initiation uses homolytic fission of the halogen by ultraviolet light.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

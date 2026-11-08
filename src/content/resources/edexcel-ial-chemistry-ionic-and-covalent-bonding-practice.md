@@ -159,6 +159,23 @@ Revise first with the [ionic and covalent bonding study guide](/resources/edexce
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry bonding practice questions cover?**
+They cover Topic 3 parts 3A (Ionic bonding) and 3B (Covalent bonding) of the Pearson Edexcel International A Level Chemistry specification (XCH11/YCH11), outcomes 3.1 to 3.15. This is International AS content examined in Unit 1.
+
+**How should you define a covalent bond in an Edexcel answer?**
+Describe the strong electrostatic attraction between two nuclei and the shared pair of electrons between them. "Sharing electrons" alone describes what happens, not what holds the atoms together.
+
+**What is the difference between polarising power and polarisability?**
+Polarising power belongs to cations and is high for small, highly charged ions. Polarisability belongs to anions and is high for large, highly charged ions; swapping the two terms can lose credit.
+
+**How do you explain whether a molecule is polar?**
+Check whether its bonds are polar, then use its shape: if the shape is symmetrical and the bond dipoles cancel, the molecule is non-polar. Calling a molecule polar just because it has polar bonds leaves out the shape reason.
+
+**What mistakes are common in dot-and-cross diagrams for ionic compounds?**
+Missing square brackets or charges on the ions, and drawing the wrong number of each ion so the charges do not balance. Each ion needs brackets with its charge written outside.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11), Specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 3: Bonding and Structure, parts 3A Ionic bonding and 3B Covalent bonding, outcomes 3.1 to 3.15.

@@ -215,6 +215,23 @@ Reactant gases bond weakly (adsorb) at active sites on the solid. Their bonds we
 - Saying iodine "is not involved" because it is zero order. It reacts after the slow step.
 - Describing heterogeneous catalysis without the words adsorption and desorption.
 
+## Frequently asked questions
+
+**What are the units of the rate constant k?**
+The units depend on the overall order: zero order gives mol dm⁻³ s⁻¹, first order s⁻¹, second order mol⁻¹ dm³ s⁻¹ and third order mol⁻² dm⁶ s⁻¹. Each extra order adds mol⁻¹ dm³.
+
+**How does half-life change for zero, first and second order reactions?**
+For a first order reaction the half-life is constant. For zero order it gets shorter as the concentration falls, and for second order it gets longer.
+
+**What is the difference between an intermediate and a catalyst in a mechanism?**
+An intermediate is made in one step and used up in a later one. A catalyst is used in one step and regenerated later, as H⁺ is in the iodination of propanone.
+
+**How is the Arrhenius equation used in Edexcel IAL Chemistry?**
+In Topic 11 of the Edexcel IAL Chemistry specification (YCH11), k = Ae^(−Ea/RT) is rearranged to ln k = −(Ea/R)(1/T) + ln A. A graph of ln k against 1/T has a gradient of −Ea/R, so Ea = −gradient × R.
+
+**What is the difference between SN1 and SN2 rate equations?**
+SN1, typical of tertiary halogenoalkanes, has rate = k[RX] because only the halogenoalkane is in the slow step. SN2, typical of primary halogenoalkanes, has rate = k[RX][OH⁻] because both species react in a single step.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 11: Kinetics, outcomes 11.1 to 11.13.

@@ -230,6 +230,23 @@ These notes condense Unit 3: Practical Skills in Chemistry I in the YCH11 specif
 - Giving only an end colour for a colour change.
 - Mixing up the tests for an aldehyde and a carboxylic acid.
 
+## Frequently asked questions
+
+**How long is the Edexcel IAL Chemistry Unit 3 exam?**
+Unit 3: Practical Skills in Chemistry I in the Edexcel IAL Chemistry specification (YCH11) is a written examination of 1 hour and 20 minutes, out of 50 marks. It tests the practical skills and techniques from Units 1 and 2, including Core Practicals 1 to 8.
+
+**What is the difference between accuracy and precision?**
+An accurate result is close to the true value, while precise results are close to each other. A set of tight repeats can still be inaccurate if a systematic error is present.
+
+**What is the difference between random and systematic error?**
+Random errors scatter readings unpredictably and are reduced by repeating and averaging. A systematic error shifts every reading the same way and is not removed by repeats.
+
+**How do you reduce the percentage uncertainty in a practical?**
+Enlarge the quantity with the biggest percentage uncertainty, for example by using more solid, a longer titre or a larger temperature change. The absolute uncertainty stays the same, so the percentage falls.
+
+**Which flame test colours do you need for Edexcel IAL Unit 3?**
+Lithium gives red, sodium yellow, potassium lilac, calcium orange-red, strontium red and barium pale green.
+
 ## Official syllabus
 
 Source: the YCH11 specification, Issue 1 (September 2017), Pearson Education Limited, for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry. Unit 3: Practical Skills in Chemistry I, with Core Practicals 1 to 8 from Units 1 and 2.

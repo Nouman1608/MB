@@ -318,6 +318,23 @@ of any one product is low.
 - Saying CO "stops you breathing" instead of explaining its binding to haemoglobin.
 - Calling bioethanol fully carbon-neutral, or hydrogen carbon-neutral whatever its source.
 
+## Frequently asked questions
+
+**Is there a core practical in Edexcel IAL Chemistry Topic 4?**
+No. Topic 4 of the Pearson Edexcel International A Level Chemistry specification (XCH11/YCH11) has no core practical. It gives one further suggested practical: cracking alkanes such as liquid paraffin over aluminium oxide.
+
+**What are the three ways to reduce risk in an organic practical?**
+The specification lists working on a smaller scale, taking precautions specific to the hazard, and using an alternative method with less hazardous substances. Each precaution should be linked to the named hazard.
+
+**Why is carbon monoxide toxic?**
+Carbon monoxide binds to haemoglobin more strongly than oxygen does. The blood then carries less oxygen to the body's cells.
+
+**How do oxides of nitrogen form in a car engine?**
+The very high temperature inside an engine makes nitrogen from the air combine with oxygen, forming NO, which is oxidised to NO₂. NO₂ forms nitric acid in rain, contributing to acid rain.
+
+**Is bioethanol a carbon-neutral fuel?**
+In theory the carbon dioxide absorbed by photosynthesis equals that released by fermentation and combustion. In practice, farm machinery, fertiliser, distillation and transport release extra carbon dioxide, so bioethanol is not fully carbon-neutral.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

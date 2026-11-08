@@ -225,6 +225,23 @@ Worked reminder: solvent front 9.0 cm, spot centre 3.6 cm. Rf = 3.6 ÷ 9.0 = 0.4
 - Measuring Rf from the bottom edge of the plate, or giving Rf with units.
 - Describing retention time as a distance, or saying a matching retention time proves identity.
 
+## Frequently asked questions
+
+**What does accurate relative molecular mass tell you?**
+Accurate Mr, calculated from atomic masses to four decimal places, identifies a molecular formula. Isomers have the same accurate mass, so it gives the formula but never the structure on its own.
+
+**What is the difference between peak area and splitting in proton NMR?**
+The relative peak area is proportional to the number of hydrogen atoms in that environment. The splitting shows how many hydrogen atoms are on the neighbouring carbons.
+
+**How do you calculate an Rf value?**
+Divide the distance from the baseline to the centre of the spot by the distance from the baseline to the solvent front. Rf has no units and lies between 0 and 1.
+
+**What is the difference between HPLC and GC?**
+Both are column chromatography methods that separate by retention time. HPLC uses a liquid mobile phase pumped under high pressure through solid particles, while GC uses an unreactive carrier gas over a liquid stationary phase, so the sample must vaporise.
+
+**Which uses of chromatography with mass spectrometry are in the Edexcel IAL specification?**
+Topic 15E of the Edexcel IAL Chemistry specification (YCH11) names forensics and drug testing in sport. Each separated component's mass spectrum is matched against a database.
+
 ## Official syllabus
 
 Specification followed: Pearson Edexcel YCH11, International Advanced Subsidiary/Advanced Level in Chemistry, Issue 1 of September 2017, Pearson Education Limited. Topic 15E: Spectroscopy and chromatography, outcomes 15.17 to 15.23, assessed in Unit 4.

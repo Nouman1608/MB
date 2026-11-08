@@ -215,6 +215,23 @@ temperature change.
 - Find your gaps with [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry intermolecular forces questions cover?**
+They cover Topic 7: Intermolecular Forces, outcomes 7.1 to 7.6, of the Pearson Edexcel International A Level Chemistry specification (XCH11/YCH11). The topic is examined in Unit 2 at International AS level, and the last four questions combine several outcomes.
+
+**What words must you use to describe London forces for full marks?**
+Describe an instantaneous dipole in one molecule that induces a dipole in a neighbouring molecule, with the δ+ end of one attracting the δ− end of the other. "Temporary charges" on its own is too vague.
+
+**How do you decide whether a molecule can form hydrogen bonds?**
+Check for a hydrogen atom bonded directly to nitrogen, oxygen or fluorine, and a lone pair on an N, O or F atom. A molecule that contains hydrogen but has every H bonded to carbon cannot hydrogen bond with itself.
+
+**How should you start a question comparing boiling temperatures?**
+Name the forces in each substance and compare their electron numbers first, since electron number sets the size of the London forces. Then name the extra or stronger force in the higher-boiling substance and link it to the energy needed.
+
+**Why is "halogenoalkanes are non-polar" a wrong explanation for insolubility in water?**
+Halogenoalkanes are polar, but they cannot form hydrogen bonds with water. The energy needed to break water's hydrogen bonds is not repaid by the weaker attractions that form, so the liquids stay separate.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11), Specification,

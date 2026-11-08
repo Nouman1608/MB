@@ -206,6 +206,23 @@ metal is present than weighed and the start of the reaction is delayed [1].
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What topic do these Edexcel IAL Chemistry practice questions cover?**
+They cover Topic 1, Formulae, Equations and Amount of Substance, of the Pearson Edexcel International A Level Chemistry specification (YCH11), outcomes 1.1 to 1.12 including Core Practical 1. The topic is part of Unit 1 at International AS level.
+
+**What units do you need for pV = nRT?**
+Pressure must be in pascals, volume in cubic metres and temperature in kelvin. Leaving any value in kPa, cm³ or °C gives a wrong answer, so show the converted values in your working.
+
+**How do you find oxygen in a combustion analysis question?**
+Work out the masses of carbon and hydrogen from the carbon dioxide and water formed, then find oxygen by difference from the sample mass. The oxygen in the products cannot be used because some of it came from the air.
+
+**What counts as an observation in an ionic equation question?**
+An observation is what you would see, such as a colour change, a precipitate forming or fizzing. Naming a product, such as "copper is formed", is a conclusion rather than an observation.
+
+**What improvement should you suggest in a practical evaluation question?**
+The improvement must match the error you identified, for example stopping gas escaping before the bung is fitted. "Repeat the experiment" or "be more careful" does not reduce a systematic error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

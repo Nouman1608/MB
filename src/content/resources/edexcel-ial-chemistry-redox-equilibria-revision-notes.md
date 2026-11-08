@@ -223,6 +223,22 @@ Overall in both: 2H₂ + O₂ → 2H₂O.
   <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the standard hydrogen electrode?**
+It is platinum coated with platinum black, with hydrogen gas at 100 kPa bubbled over it, dipping into 1.00 mol dm⁻³ H⁺ ions at 298 K. Its E⦵ is 0.00 V by definition, and it is the reference for all other values.
+
+**How do you calculate E⦵cell?**
+E⦵cell = E⦵(right) − E⦵(left), where the right-hand half-cell is the positive electrode with the more positive E⦵. For a working cell the value is positive.
+
+**When is a platinum electrode needed in a half-cell?**
+Platinum is used when no solid in the half-equation can act as the electrode, such as a gas with its ions or two ions of the same element. A metal with its own ions uses the metal itself.
+
+**Why is the titration of iron(II) with manganate(VII) acidified with sulfuric acid?**
+Hydrochloric acid would be oxidised to chlorine by manganate(VII), nitric acid is itself an oxidising agent, and a weak acid cannot supply enough H⁺ ions. Dilute sulfuric acid avoids all three problems.
+
+**Does a positive E⦵cell mean a reaction will be seen?**
+Not always. E⦵ predicts thermodynamic feasibility, not rate, so a feasible reaction with a high activation energy can be too slow to observe. Non-standard conditions can also change E.
 
 ## Official syllabus
 

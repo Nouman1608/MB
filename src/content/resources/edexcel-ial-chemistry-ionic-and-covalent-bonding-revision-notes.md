@@ -213,6 +213,23 @@ Examples: SiCl₄ and BF₃ non-polar; PCl₃, CH₃Cl and H₂S polar.
 - Saying a molecule is polar because it has polar bonds, without considering shape.
 - Placing δ− on the less electronegative atom.
 
+## Frequently asked questions
+
+**What is ionic bonding in Edexcel International A Level Chemistry?**
+Ionic bonding is the strong net electrostatic attraction between oppositely charged ions, as defined in Topic 3A of the Edexcel IAL Chemistry specification (YCH11). Electron transfer forms the ions, but the bond is the attraction between them.
+
+**What makes ionic bonding stronger?**
+Ionic bonding is stronger when the ions have higher charges and smaller radii. Larger charges attract more strongly, and smaller ions have their centres closer together.
+
+**What is a dative covalent bond?**
+A dative covalent bond is a covalent bond in which one atom supplies both electrons of the shared pair. Once formed it is identical to the other bonds of that type, so all four N–H bonds in NH₄⁺ are the same.
+
+**Why does graphite conduct electricity but diamond does not?**
+In graphite each carbon uses three outer electrons in bonds, and the fourth is delocalised and moves along the layers. In diamond all four outer electrons are used in bonds, so there are no delocalised electrons.
+
+**Why does ionic radius decrease from N³⁻ to Al³⁺?**
+All of these ions have 10 electrons with the same shielding, but the number of protons rises from 7 to 13. The greater nuclear charge pulls the electrons in more tightly, so the radius falls.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11), Specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 3: Bonding and Structure, parts 3A Ionic bonding and 3B Covalent bonding, outcomes 3.1 to 3.15.
@@ -236,4 +253,3 @@ Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (X
   <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--04-crystal-types.webp" width="900" height="1140" alt="Four panels show the four crystal types. Ionic (sodium chloride) is a lattice of ions and melting overcomes attractions between ions. Metallic (magnesium) is positive ions in a sea of electrons. Giant covalent (diamond) is a network of carbon atoms, and melting breaks covalent bonds. Molecular (iodine, ice) has only weak forces between molecules to overcome, so the melting point is low." loading="lazy">
   <figcaption>The type of structure decides what has to be overcome on melting: ions, ion-electron attraction, covalent bonds or only weak forces between molecules.</figcaption>
 </figure>
-

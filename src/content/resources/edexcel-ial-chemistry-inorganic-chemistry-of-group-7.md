@@ -311,6 +311,23 @@ based on chlorine's disproportionation do not carry over to fluorine.
 - Acidifying a silver nitrate test with hydrochloric acid.
 - Stating that sulfuric acid is oxidised. It is reduced.
 
+## Frequently asked questions
+
+**Is there a core practical in Edexcel IAL Chemistry Topic 8C, Group 7?**
+No. Topic 8C of the Pearson Edexcel International A Level Chemistry specification (YCH11) has no core practical. The specification suggests practicals on solid potassium halides with concentrated sulfuric acid and on precipitation reactions of anions.
+
+**Why does the boiling temperature of the halogens increase down Group 7?**
+The halogens are simple molecular substances. Down the group each molecule has more electrons, so the London forces between molecules are stronger and more energy is needed to separate them; the X–X covalent bond is not broken on boiling.
+
+**Why is the reaction of chlorine with water called disproportionation?**
+In Cl₂ + H₂O ⇌ HCl + HClO, chlorine goes from 0 to −1 in HCl and from 0 to +1 in HClO. The same element in one species is both reduced and oxidised, which is disproportionation.
+
+**Why does sodium iodide reduce concentrated sulfuric acid further than sodium bromide?**
+Hydrogen iodide is a stronger reducing agent than hydrogen bromide because the larger iodide ion loses its outer electrons more easily. HI can reduce sulfur from +6 to +4, 0 and −2, while HBr only reduces it to +4 in sulfur dioxide.
+
+**How do you tell silver chloride and silver bromide apart?**
+Silver chloride is white and dissolves in dilute aqueous ammonia, while silver bromide is cream and dissolves only in concentrated ammonia. The ammonia step matters because the two colours look alike.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

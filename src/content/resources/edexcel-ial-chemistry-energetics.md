@@ -303,6 +303,23 @@ The C–halogen bond breaks. C–I is weakest, so iodoethane reacts fastest and 
 
 For exam technique, see the [exam preparation guide](/resources/edexcel-ial-chemistry-exam-preparation/).
 
+## Frequently asked questions
+
+**Is energetics AS or A2 content in Edexcel International A Level Chemistry?**
+Topic 6: Energetics is International AS content in the Pearson Edexcel specification (YCH11). It sits in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols and covers learning outcomes 6.1 to 6.11, including Core Practical 2.
+
+**What are standard conditions for enthalpy changes?**
+Standard conditions are a pressure of 100 kPa and a stated temperature, usually 298 K, with every substance in its standard state. A standard enthalpy change is marked with the ⦵ symbol, as in ΔH⦵.
+
+**What mass do you use in q = mcΔT?**
+Use the mass of the solution or water whose temperature changed, not the mass of the solid or fuel added. Then divide the energy in kJ by the moles of the substance named in the enthalpy definition, and give ΔH a negative sign if the temperature rose.
+
+**Why are mean bond enthalpy calculations only estimates?**
+Mean bond enthalpies are averages over many compounds, so they are not the exact values for the bonds in your molecules. The method also only applies to gases, so any change of state is missed; ΔfH or ΔcH data give more reliable values.
+
+**Why is a spirit burner value for ΔcH less exothermic than the data book value?**
+Heat is lost to the air and the can, combustion may be incomplete, fuel can evaporate from the wick, and conditions are not standard. A draught shield, a smaller gap between flame and can, and capping the burner between weighings all reduce the error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Topic 6: Energetics (outcomes 6.1 to 6.11, including Core Practical 2). Published by Pearson Education Limited.

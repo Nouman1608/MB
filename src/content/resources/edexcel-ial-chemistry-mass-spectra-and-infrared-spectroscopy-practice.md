@@ -162,6 +162,23 @@ Step 3: O–H at 3550–3230 cm⁻¹ disappears [1]; C=O (ketone) at 1720–1700
 - Browse the [Edexcel IAL Chemistry course page](/boards/edexcel/a-level/chemistry/) and the [outcome checklist](/checklists/edexcel/a-level/chemistry/).
 - Spot gaps with all free 10-minute [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry spectroscopy questions cover?**
+They cover Topic 10D, Mass spectra and IR, outcomes 10.21 to 10.23 (including Core Practical 8) of the Pearson Edexcel International A Level Chemistry specification (XCH11/YCH11). The content is assessed in the Unit 2 International AS examination.
+
+**How do you write a fragmentation equation that gains credit?**
+Show the molecular ion splitting into a positive ion and an uncharged radical, with the masses balancing. Only the positive ion is detected, so putting the charge on the radical or leaving the fragment uncharged usually loses credit.
+
+**How should you quote IR evidence in an answer?**
+Name the bond and give the wavenumber range from the data supplied, for example C=C at 1669–1645 cm⁻¹. A wavenumber with no bond, or a bond with no wavenumber, is usually not enough.
+
+**How do you tell an aldehyde from a ketone using IR?**
+Both show a strong C=O absorption, but only an aldehyde has the C–H absorption at 2775–2700 cm⁻¹. Identifying a carbonyl as an aldehyde without that band is a common error.
+
+**Why must you say aqueous or ethanolic potassium hydroxide?**
+Aqueous potassium hydroxide gives substitution to an alcohol, while ethanolic potassium hydroxide gives elimination to an alkene. Writing "KOH" alone does not show which reaction happened.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017 (Pearson Education Limited). Mass spectra and IR is part 10D of Topic 10, outcomes 10.21 to 10.23, in Unit 2.

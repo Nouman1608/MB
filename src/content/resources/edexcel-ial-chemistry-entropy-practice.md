@@ -186,6 +186,23 @@ S⦵ values: Ba(OH)₂·8H₂O(s) 427.0; NH₄Cl(s) 94.6; BaCl₂(s) 123.7; NH�
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which unit conversion do Edexcel IAL entropy calculations need?**
+Entropy values are in J mol⁻¹ K⁻¹ while enthalpy changes are usually in kJ mol⁻¹, so ΔH must be multiplied by 1000 before working out −ΔH/T. Forgetting this leaves an answer out by a factor of 1000.
+
+**Which entropy term decides whether a reaction is feasible?**
+Only the total entropy change, ΔStotal = ΔSsystem + ΔSsurroundings, decides feasibility; the reaction is feasible when it is positive. A conclusion based on ΔH or ΔSsystem alone gives the wrong reason even if the final answer happens to be right.
+
+**How should you state a changeover temperature in an answer?**
+Calculate T = ΔH/ΔSsystem with ΔH in J mol⁻¹, then say whether the reaction is feasible above or below that temperature. A temperature quoted with no "above" or "below" is incomplete.
+
+**How do you explain kinetic stability in an entropy question?**
+Explain kinetic stability with activation energy and rate: the change is feasible but the activation energy is so high that the rate at room temperature is negligible. Repeating an entropy or energy argument does not explain why a reaction is slow.
+
+**Are these entropy questions taken from Edexcel past papers?**
+No. They are original questions written for Marlbridge on Topic 12A of the Pearson Edexcel International A Level Chemistry specification (YCH11), and they do not copy the exam's structure or mark tariffs. Use them alongside official past papers.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 12: Entropy and Energetics, part 12A: Entropy, outcomes 12.1 to 12.11.

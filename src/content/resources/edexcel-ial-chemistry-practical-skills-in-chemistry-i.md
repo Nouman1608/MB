@@ -214,6 +214,23 @@ Reflux uses a vertical condenser and anti-bumping granules, never a sealed syste
 
 Related: the [Topic 1 study guide](/resources/edexcel-ial-chemistry-formulae-equations-and-amount-of-substance/) (moles for Core Practical 1) and [exam preparation](/resources/edexcel-ial-chemistry-exam-preparation/).
 
+## Frequently asked questions
+
+**Is Edexcel IAL Chemistry Unit 3 a practical lab exam?**
+No. Unit 3 is a written examination of 1 hour and 20 minutes and 50 marks, worth 20% of the International AS and 10% of the full International A Level. It has no new theory and examines the skills from Units 1 and 2 of the Pearson Edexcel specification (YCH11).
+
+**Which core practicals are examined in Edexcel IAL Unit 3?**
+Core Practicals 1 to 8: molar volume of a gas, Hess's Law, the concentration of hydrochloric acid, making a standard solution, hydrolysis rates of halogenoalkanes, chlorination of 2-methylpropan-2-ol, oxidation of propan-1-ol and identifying unknowns.
+
+**Why do you extrapolate a cooling curve in a calorimetry experiment?**
+Heat leaks out while the reaction is still happening, so the highest reading understates the temperature change. Extrapolating the line after the peak back to the time of mixing gives a better value of ΔT.
+
+**Why is the conical flask rinsed with distilled water only in a titration?**
+Water left in the flask does not change the amount of substance pipetted into it. The burette and pipette are rinsed with the solutions they will hold so those solutions are not diluted.
+
+**What makes a good graph in a practical exam?**
+Put the independent variable on the x-axis, label both axes with units, spread the points over most of the grid and draw a best-fit line. Use a large triangle when measuring a gradient.
+
 ## Official syllabus
 
 Source: the YCH11 specification, Issue 1 (September 2017), Pearson Education Limited, for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry. Unit 3: Practical Skills in Chemistry I, with Core Practicals 1 to 8 from Units 1 and 2.

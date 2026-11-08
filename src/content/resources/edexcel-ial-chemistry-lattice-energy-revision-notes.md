@@ -204,6 +204,23 @@ Charge normally has the larger effect. Quick comparisons: Ca²⁺ is hydrated mo
 - Return to the [lattice energy study guide](/resources/edexcel-ial-chemistry-lattice-energy/) for any self-test answer you missed.
 - Use the free [diagnostics](/diagnostics/) to pick your next topic.
 
+## Frequently asked questions
+
+**What is the equation for enthalpy change of solution from lattice energy?**
+ΔsolH = −(lattice energy) + Σ ΔhydH(ions). Reverse the lattice energy so it becomes positive, then add each ion's hydration enthalpy, multiplied by the number of that ion in the formula.
+
+**Why is the second electron affinity always endothermic?**
+The second electron is added to an ion that is already negatively charged, so it is repelled. Energy has to be put in to force the electron on.
+
+**What is the difference between ΔatH(Cl) and the Cl–Cl bond enthalpy?**
+The enthalpy change of atomisation refers to 1 mol of gaseous chlorine atoms, while the bond enthalpy breaks 1 mol of Cl–Cl bonds to give 2 mol of atoms. So ΔatH(Cl) is half the Cl–Cl bond enthalpy.
+
+**How do ionic charge and radius affect lattice energy and hydration enthalpy?**
+Higher ionic charge and smaller ionic radius both make lattice energy and hydration enthalpy more exothermic. Charge normally has the larger effect.
+
+**Why do Group 2 sulfates become less soluble down the group?**
+The sulfate ion is large, so lattice energy changes little down the group, while cation hydration becomes much less exothermic. The enthalpy change of solution becomes more endothermic, so solubility falls.
+
 ## Official syllabus
 
 Source document: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Section summarised here: 12B Lattice energy (outcomes 12.12 to 12.19), within Topic 12, Entropy and Energetics.

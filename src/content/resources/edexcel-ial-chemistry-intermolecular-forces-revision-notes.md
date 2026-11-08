@@ -199,6 +199,22 @@ Rule of thumb: a substance dissolves well in a solvent whose intermolecular forc
   <figcaption>A molecule with polar bonds is polar overall only if the bond dipoles do not cancel.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the three intermolecular forces in Edexcel International A Level Chemistry?**
+Topic 7 of the Edexcel IAL Chemistry specification (YCH11) covers London forces, permanent dipole-permanent dipole interactions and hydrogen bonds. For a single interaction the order of strength is London < permanent dipole < hydrogen bond, all much weaker than a covalent bond.
+
+**Why does water have a higher boiling temperature than hydrogen fluoride?**
+Each water molecule has two δ+ hydrogen atoms and two lone pairs, so it forms more hydrogen bonds per molecule than HF, which has only one hydrogen atom. The number of hydrogen bonds, not the strength of each one, explains the order.
+
+**Why is ice less dense than liquid water?**
+In ice each water molecule is hydrogen bonded to four others in a tetrahedral arrangement, holding the molecules apart in an open structure. On melting, some hydrogen bonds break and the molecules move closer together.
+
+**Why does branching lower the boiling temperature of an alkane?**
+Branched isomers have the same number of electrons, but their compact shape reduces the surface contact between molecules. The London forces are weaker, so less energy is needed to separate the molecules.
+
+**Can propanone form hydrogen bonds?**
+Propanone cannot hydrogen bond with itself, because all of its hydrogen atoms are bonded to carbon. Its oxygen lone pairs can still accept hydrogen bonds from water molecules.
 
 ## Official syllabus
 
@@ -224,4 +240,3 @@ Issue 1, September 2017, published by Pearson Education Limited. Topic 7: Interm
   <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--04-crystal-types.webp" width="900" height="1140" alt="Four panels show the four crystal types. Ionic (sodium chloride) is a lattice of ions and melting overcomes attractions between ions. Metallic (magnesium) is positive ions in a sea of electrons. Giant covalent (diamond) is a network of carbon atoms, and melting breaks covalent bonds. Molecular (iodine, ice) has only weak forces between molecules to overcome, so the melting point is low." loading="lazy">
   <figcaption>The type of structure decides what has to be overcome on melting: ions, ion-electron attraction, covalent bonds or only weak forces between molecules.</figcaption>
 </figure>
-
