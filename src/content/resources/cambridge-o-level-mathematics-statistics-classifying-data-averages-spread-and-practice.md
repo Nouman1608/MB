@@ -213,6 +213,20 @@ In a pie chart of all 48 pupils, the sector for 4 < t ≤ 8 has an angle of 90°
 * Pie chart angles that do not add to 360°.
 * Comparing two data sets with an average only and giving no comment on spread.
 
+## Frequently asked questions
+
+**What is the difference between categorical, discrete and continuous data?**
+Categorical data is described in words, such as colour. Discrete numerical data takes separate values, usually counts, and continuous data is measured and can take any value in a range.
+
+**How do you find the mean from a frequency table?**
+Multiply each value by its frequency, add these products, and divide by the total frequency. Dividing by the number of rows or columns is a common error.
+
+**How do you find a missing number when a new value changes the mean?**
+Work with totals rather than means: multiply each mean by its number of values and find the difference between the totals.
+
+**Which sections of the Cambridge 4024 syllabus does this statistics topic cover?**
+It covers sections 9.1 to 9.4 of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus: classifying and tabulating data, interpreting data, averages and range, and statistical charts.
+
 ## Next steps
 
 * Revise the methods: [revision notes](/resources/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and-revision-notes/)

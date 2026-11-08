@@ -266,6 +266,20 @@ Do these without a calculator. Cover the answers first.
 - Check an index answer by substituting back into one side of the original equation.
 - If a question gives a condition such as x > 0, say where you use it.
 
+## Frequently asked questions
+
+**What does a negative index mean?**
+A negative index means a reciprocal, not a negative number. For example, 2⁻³ = 1/8.
+
+**Is 5/√2 a fully simplified answer?**
+It is correct but not rationalised. The form to give is 5√2/2, with no surd in the denominator, especially when the question asks you to rationalise.
+
+**How do you solve an index equation that looks like a quadratic?**
+Substitute y for the power, such as y = 2ˣ so that 2^(2x) = y², solve the quadratic in y, then convert each value back to x. Giving y as the final answer loses marks.
+
+**Which AQA 7357 content references cover indices and surds?**
+Content reference B1 covers the laws of indices for all rational exponents, and B2 covers using and manipulating surds, including rationalising the denominator.
+
 ## Official syllabus
 
 AQA, *A-level Mathematics 7357*, specification (version 1.3, dated 31 January 2018), which applies to A-level exams from June 2018: section 3.3 B: Algebra and functions, content references B1 and B2.

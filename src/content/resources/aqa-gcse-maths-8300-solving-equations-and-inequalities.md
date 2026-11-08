@@ -449,6 +449,20 @@ On Paper 1 you must do everything by hand, including exact surd answers. On Pape
 - Using a closed circle for < or a solid line for a strict inequality.
 - Giving x < 5 for a quadratic inequality that needs two parts.
 
+## Frequently asked questions
+
+**Is the quadratic formula given in the AQA GCSE Maths exam?**
+No. The AQA 8300 specification lists the quadratic formula among the formulae you must know; it is not given in the exam. It is Higher tier content.
+
+**How do you solve equations using a graph?**
+Draw both sides of the equation as graphs and read the x-coordinate where they cross. Graph solutions are approximate, while algebraic methods give exact answers.
+
+**What is set notation for inequalities?**
+Set notation writes the solution as a set, for example {x : x > −3}, read as the set of x such that x is greater than −3. It is Higher tier content.
+
+**How do you show an inequality region on a graph?**
+Draw each boundary line, dashed for a strict inequality and solid for one that includes the boundary, then test a point to decide which side to keep. Regions are Higher tier content.
+
 ## Next steps
 
 Condense this page with the [revision notes](/resources/aqa-gcse-maths-8300-solving-equations-and-inequalities-revision-notes/), then test yourself with the [practice questions](/resources/aqa-gcse-maths-8300-solving-equations-and-inequalities-practice/). For the rest of Topic 2, use the [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-notes/) and [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/).

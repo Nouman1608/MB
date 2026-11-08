@@ -233,6 +233,20 @@ Tea 135°, Juice 90°, Coffee 75°, Water 60°  (total 360°)
 * Answering "which is better" with no figures from the data.
 * Leaving out units or context in a written conclusion.
 
+## Frequently asked questions
+
+**How do you find the position of the median?**
+Order the data and use the position (n + 1) ÷ 2. For 20 values the position is 10.5, so the median is halfway between the 10th and 11th values.
+
+**Which average is affected by outliers?**
+The mean is affected by outliers because it uses every value, while the median is not. For data with a few extreme values, such as house prices, the median is usually more typical.
+
+**How do you read a pie chart?**
+Use frequency = (angle ÷ 360°) × total. When drawing one, find 360° divided by the total, multiply by each frequency, and check that the angles add to 360°.
+
+**What is the difference between a composite and a dual bar chart?**
+A composite bar chart stacks the parts on one bar so the total is clear, while a dual bar chart puts bars side by side to compare the parts.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment, section 9: Statistics, parts 9.1 to 9.4.

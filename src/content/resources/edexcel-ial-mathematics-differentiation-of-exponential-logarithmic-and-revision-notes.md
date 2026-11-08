@@ -235,6 +235,20 @@ After 10 years the model gives P = 7459, so about 7460 people. A comment on vali
 - Giving a rate of change without its sign or units.
 - Not commenting on a model's behaviour for large t when asked to evaluate it.
 
+## Frequently asked questions
+
+**How do you differentiate a to the power x?**
+Use d/dx(aˣ) = aˣ ln a. For a^(kx), the chain rule gives k a^(kx) ln a. Treating aˣ as a power of x is wrong.
+
+**What does dN/dt = kN mean in an exponential model?**
+It means the rate of change is proportional to the size of the quantity. For N = Ae^(kt), A is the initial value and k > 0 means growth while k < 0 means decay.
+
+**How do you find a half-life from an exponential model?**
+Solve N = ½A for an exponential decay model N = Ae^(kt), which gives t = ln 2 / |k|.
+
+**Should trigonometric derivatives be worked in degrees or radians?**
+In radians. The standard derivative results only hold when angles are in radians.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification Issue 3, April 2019, published by Pearson Education Limited. Unit P3 section 4, topics 4.1 to 4.4.

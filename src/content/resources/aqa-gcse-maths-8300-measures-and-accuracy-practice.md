@@ -148,6 +148,20 @@ These questions are different from the ones in the topic-level [Number practice 
 - (Higher) Mixing metres with centimetres, or minutes with seconds, inside a bounds calculation.
 - (Higher) Giving a suitable degree of accuracy without comparing both bounds.
 
+## Frequently asked questions
+
+**How do you convert m² to cm²?**
+Square the length conversion factor: 1 m = 100 cm, so 1 m² = 10 000 cm². Multiplying by 100 instead is a common wrong answer.
+
+**How do you convert minutes into decimal hours?**
+Divide the minutes by 60. For example, 2 hours 48 minutes is 2.8 hours, and 2 hours 40 minutes is not 2.40 hours.
+
+**How do you answer a can you be sure question about measurements?**
+Write the error interval and compare the relevant limit with the value in the question, then make a decision based on that limit. A yes or no with no limit quoted scores nothing.
+
+**Which bounds do you use for the maximum of a division?**
+Divide the upper bound of the first value by the lower bound of the second. Pairing upper bound with upper bound for a division or subtraction is a common Higher tier mistake.
+
 ## Next steps
 
 - [Measures and accuracy revision notes](/resources/aqa-gcse-maths-8300-measures-and-accuracy-revision-notes/)

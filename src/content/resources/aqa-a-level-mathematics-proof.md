@@ -302,6 +302,20 @@ This contradicts y being a positive integer. So there are no positive integers x
 - **Getting the negation wrong** in a contradiction proof, or never stating what the contradiction is.
 - **Writing ⇔ when only ⇒ is true.** x = 3 ⇒ x² = 9, but x² = 9 does not imply x = 3.
 
+## Frequently asked questions
+
+**How do you write odd and even numbers in a proof?**
+Write an even number as 2n and an odd number as 2n + 1, where n is an integer. For two different odd numbers use different letters, such as 2m + 1 and 2n + 1.
+
+**How do you prove a quadratic expression is always positive?**
+Complete the square and use the fact that the square of a real number is never negative. For example, 2x² − 8x + 9 = 2(x − 2)² + 1, which is at least 1 for all real x.
+
+**Can you use a calculator to prove something in A-level Maths?**
+No. A calculator check of a few values is evidence, not proof, even though a calculator is required in every AQA 7357 paper.
+
+**Is the product of the first n primes plus 1 always prime?**
+No. For example, 2 × 3 × 5 × 7 × 11 × 13 + 1 = 30031 = 59 × 509. The infinitely-many-primes proof only needs that number to have a prime factor missing from the list.
+
 ## Next steps
 
 - Condensed recall and a quick self-test: [Proof revision notes](/resources/aqa-a-level-mathematics-proof-revision-notes/).

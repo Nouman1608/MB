@@ -149,6 +149,20 @@ These questions cover outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-le
 - Giving an optimisation value with no units or meaning.
 - Claiming an iteration has converged after only one or two steps.
 
+## Frequently asked questions
+
+**What are the four stages of the problem-solving cycle in AQA A-level Maths?**
+The AQA 7357 specification describes four stages: specify the problem, collect information, process and represent the information, and interpret the results. Interpretation may show that the cycle needs repeating.
+
+**How do you get credit for criticising a mathematical model?**
+Name a specific assumption, say how it affects the prediction (for example, that ignoring friction makes the predicted speed too high), and suggest how the model could be refined. Simply writing that the model is unrealistic is a common way to lose marks.
+
+**What do you need to write when showing a root lies in an interval?**
+Evaluate the function at both ends of the interval, show the sign change, and state that the function is continuous on that interval before concluding that a root lies there.
+
+**How accurately should you give an answer calculated from rounded measurements?**
+Work out the lower and upper bounds, then quote only the figures on which both bounds agree. Giving the raw product to more figures than the data supports loses credit.
+
 ## Next steps
 
 - Go back over the [revision notes](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-revision-notes/) and the [study guide](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and/).

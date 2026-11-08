@@ -182,6 +182,20 @@ tan α = 9/8 − 1/4 = 7/8 [1]
 - Using F = μR when the ladder is not on the point of slipping.
 - Dropping the friction at a rough wall from the vertical resolution.
 
+## Frequently asked questions
+
+**How do you find the centre of mass of a lamina with a hole?**
+Treat the hole as a part with negative area, tabulate the area and position of each part, and divide the sum of area times coordinate by the total area.
+
+**How do you show a beam is about to tilt?**
+State that the reaction at the support it is tilting away from is zero, then take moments about the other support.
+
+**When can you use F = μR for a ladder?**
+Only when the ladder is in limiting equilibrium, on the point of slipping. Otherwise friction satisfies F ≤ μR.
+
+**Which units and sections does this Edexcel IAL topic cover?**
+Centres of mass and rigid body equilibrium are sections 2 and 5 of unit M2 (Mechanics 2) in Pearson Edexcel International A Level Mathematics (YMA01).
+
 ## Next steps
 
 - [Revision notes](/resources/edexcel-ial-mathematics-centres-of-mass-and-equilibrium-of-rigid-bodies-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-centres-of-mass-and-equilibrium-of-rigid-bodies/).

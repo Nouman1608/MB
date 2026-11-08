@@ -436,6 +436,20 @@ For a number, work from the inside out: fg(2) = f(5) = 10, but gf(2) = g(1) = 2.
 - Treating fg(x) as "f first". The function nearest the x acts first.
 - Using numerical examples as a "proof".
 
+## Frequently asked questions
+
+**Should you write 0.5x or ½x in GCSE Maths algebra?**
+Write coefficients as fractions, such as ½x or x/2, not decimals like 0.5x. The AQA 8300 specification expects answers in simplest form even when the question does not ask for it.
+
+**How do you change the subject of a formula?**
+Undo the operations on the new subject in reverse order, doing the same to both sides. If the subject appears in two terms, gather them on one side and factorise it out.
+
+**How do you simplify algebraic fractions?**
+Factorise the numerator and denominator fully, then cancel whole common brackets. Never cancel single terms; algebraic fractions are Higher tier content.
+
+**What is (p³)⁴ simplified?**
+Raising a power to a power multiplies the indices, so (p³)⁴ = p¹². Adding the powers to get p⁷ is a common mistake.
+
 ## Next steps
 
 Condense this into the [revision notes](/resources/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation-revision-notes/), then test yourself with the [practice questions](/resources/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation-practice/). For the rest of Topic 2, see the [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-notes/) and [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/).

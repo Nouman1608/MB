@@ -168,6 +168,20 @@ The bar for 5 to 15 seconds represents 48 messages.
 - Giving an estimate from part of a class without stating the even-spread assumption.
 - Skipping the final check that the frequencies add up to the stated total.
 
+## Frequently asked questions
+
+**How do you calculate frequency density?**
+Divide the frequency by the class width. For example, a class from 8 to 14 has width 6, so a frequency of 27 gives a frequency density of 4.5.
+
+**How do you find a frequency from a histogram?**
+Multiply the height of the bar, which is the frequency density, by its class width. The area of the bar is the frequency.
+
+**How do you read a histogram with no vertical scale?**
+Use a bar with a known frequency to find how many values one square centimetre represents, then multiply the area of any other bar by that amount.
+
+**Where are marks usually lost on histogram questions?**
+Common losses include plotting frequency instead of frequency density, using the wrong class width, adding bar heights instead of frequencies, leaving gaps between bars, and giving an estimate for part of a class without stating the even-spread assumption.
+
 ## Next steps
 
 - Review the formulas in the [revision notes](/resources/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class-revision-notes/).

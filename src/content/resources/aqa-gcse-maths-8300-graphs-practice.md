@@ -188,6 +188,20 @@ Learn the content first in the [Graphs study guide](/resources/aqa-gcse-maths-83
 - Leaving out the over- or underestimate reason, or the units, for areas and gradients.
 - Using the radius gradient as the tangent gradient.
 
+## Frequently asked questions
+
+**How do you find the gradient of a line like 5x + 2y = 14?**
+Rearrange to make y the subject first, giving y = −2.5x + 7, so the gradient is −2.5 and the y-intercept is 7. Reading the gradient straight from the original equation loses the marks.
+
+**How do you find the gradient of a perpendicular line?**
+Take the negative reciprocal of the original gradient: flip the fraction and change its sign. This is Higher tier content in AQA GCSE Maths 8300.
+
+**How do you solve a quadratic equation using its graph?**
+Draw the line given by the other side of the equation, such as y = 9, on the same grid and read off the x-values where it crosses the curve. Give every intersection, not just one.
+
+**Which part of the AQA 8300 specification covers graphs?**
+Section 3.2.2 Graphs, references A8 to A16, covers coordinates, straight lines, quadratic and other graphs, transformations, real-life graphs, gradients and areas under graphs, and circle equations.
+
 ## Next steps
 
 - [Graphs revision notes](/resources/aqa-gcse-maths-8300-graphs-revision-notes/)

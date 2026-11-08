@@ -246,6 +246,20 @@ Dividing by cos x at the start would lose π/2 and 3π/2.
 
 For the link between small angles and differentiating sin x from first principles, see the [Differentiation revision notes](/resources/aqa-a-level-mathematics-differentiation-revision-notes/). For examiner-style setting out of a "show that", see the [exam preparation guide](/resources/aqa-a-level-mathematics-exam-preparation/). When you're ready, the [free 10-minute diagnostics](/diagnostics/) help you find other gaps.
 
+## Frequently asked questions
+
+**Which trigonometry formulae do you need to remember for AQA 7357?**
+Appendix B of the specification lists formulae that must be used without being provided. In practice you should also know the compound angle formulae, the double angle forms of cos 2A, and the radian formulae for arc length and sector area.
+
+**What are the small angle approximations?**
+When θ is small and in radians, sin θ ≈ θ, cos θ ≈ 1 − θ²/2 and tan θ ≈ θ. Substitute the whole argument, so sin 4θ ≈ 4θ.
+
+**What is the period of y = sin kx and y = tan kx?**
+y = sin kx and y = cos kx have period 2π/k, while y = tan kx has period π/k.
+
+**What is the difference between sin⁻¹x and (sin x)⁻¹?**
+sin⁻¹x means arcsin x, the inverse function. (sin x)⁻¹ means 1/sin x, which is cosec x.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3, 31 January 2018, for A-level exams June 2018 onwards: Section 3.6 E: Trigonometry (E1 to E9), and Appendix B: mathematical formulae and identities.

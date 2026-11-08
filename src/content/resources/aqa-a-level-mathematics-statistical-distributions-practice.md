@@ -201,6 +201,20 @@ gives 0.109, which then fails the accuracy mark too.
 - Leaving an expected frequency as a probability.
 - Forgetting the continuity correction when using the Normal link to the binomial.
 
+## Frequently asked questions
+
+**What are the conditions for a binomial distribution?**
+There must be a fixed number of trials, two outcomes per trial, a constant probability of success and independent trials. In an exam answer, link each condition to the context of the question.
+
+**Do you enter the variance or standard deviation into a calculator for a Normal distribution?**
+The standard deviation. N(170, 8²) has σ = 8, and N(40, 9) has σ = 3, because the notation puts the variance second.
+
+**When do you need a continuity correction?**
+When you approximate a binomial distribution by a Normal distribution, because a whole number r covers the interval from r − 0.5 to r + 0.5.
+
+**Which AQA A-level Maths paper tests statistical distributions?**
+Section N: Statistical distributions (N1 to N3) of AQA 7357 is listed as Paper 3 content, and a calculator with binomial and Normal functions is expected.
+
 ## Next steps
 
 - Recap with the [Statistical distributions revision notes](/resources/aqa-a-level-mathematics-statistical-distributions-revision-notes/).

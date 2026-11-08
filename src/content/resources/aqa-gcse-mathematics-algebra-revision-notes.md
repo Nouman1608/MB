@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on notation, graphs, solving equations and inequalities, and sequences for AQA GCSE Mathematics (8300), Topic 2 Algebra."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -199,6 +201,20 @@ Finding the second differences first, using them to identify the n² coefficient
 5. List three pieces of Higher-tier-only Algebra content from memory.
 
 **Answers:** 1. 4a × 3b = 12ab; 2y = 6x − 8 gives y = 3x − 4, so the gradient is 3 and the y-intercept is −4. 2. (x − 3)(x + 2) = 0, so x = 3 or x = −2. 3. The common difference is 4, and 4n gives 4, 8, 12, 16, each 3 less than the sequence, so the nth term is 4n + 3. 4. 2x + 2 = x² − 1 gives x² − 2x − 3 = 0, so (x − 3)(x + 1) = 0 and x = 3 or x = −1; substituting back gives the solutions (3, 8) and (−1, 0). 5. Any three of: factorising ax² + bx + c; solving quadratics by completing the square or the quadratic formula; perpendicular lines; exponential and trigonometric graphs; inverse and composite functions; algebraic proof; the equation of a circle and its tangent; linear/quadratic simultaneous equations; iteration; quadratic inequalities; the nth term of a quadratic sequence.
+
+## Frequently asked questions
+
+**What is the difference between an equation and an identity?**
+An equation is true only for specific values of the unknown, while an identity is true for every value. In AQA GCSE Mathematics 8300 this distinction is Foundation tier content.
+
+**How do you find the gradient from an equation like 2y = 4x + 6?**
+Rearrange into the form y = mx + c first. Here y = 2x + 3, so the gradient is 2, not 4.
+
+**How do you find the nth term of a linear sequence?**
+The coefficient of n is the common difference. For 5, 8, 11, 14, the difference is 3, so the nth term is 3n + 2.
+
+**Are quadratic simultaneous equations on the Foundation paper?**
+No. Linear simultaneous equations are Foundation tier, but solving a linear and a quadratic equation simultaneously is Higher tier only in AQA GCSE Maths 8300.
 
 ## Related resources
 

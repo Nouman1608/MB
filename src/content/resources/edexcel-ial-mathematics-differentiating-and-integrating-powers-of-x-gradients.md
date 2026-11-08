@@ -232,6 +232,20 @@ Check by differentiating: 6x^(1/2) − 4x⁻², which matches. A single point fi
 - Substituting into the original function instead of dy/dx when the gradient is wanted (or the reverse for the y-coordinate).
 - Letting h = 0 too soon in a first-principles argument.
 
+## Frequently asked questions
+
+**What does the derivative of a function mean?**
+The derivative gives the gradient of the tangent to the curve at each point, and measures how quickly y changes as x changes.
+
+**What is the rule for differentiating xⁿ?**
+If f(x) = xⁿ, then f′(x) = nxⁿ⁻¹: multiply by the power, then reduce the power by 1. Rewrite roots and reciprocals as powers of x first.
+
+**Do you need the chain rule for Edexcel IAL Pure 1?**
+No. The specification states that knowledge of the chain rule is not required for this section, so products and fractions are handled by expanding and splitting.
+
+**Why do you add + c to an indefinite integral?**
+Differentiating a constant gives zero, so integration can only find the function up to a constant. A known point on the curve is needed to find its value.
+
 ## Where to go next
 
 Practise with the [practice questions](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-practice/), then condense with the [revision notes](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-revision-notes/). For wider P1 recall use the [Pure 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/) and the [Pure 1 practice set](/resources/edexcel-a-level-mathematics-pure1-practice/).

@@ -233,6 +233,20 @@ The greatest value is 4 + 3 = 7 and the least is 4 − 3 = 1. In degrees, the pe
 - Combining a vertical stretch with a vertical translation in the wrong order, so that 2f(x) + 1 becomes 2f(x) + 2.
 - Reading the sketch's y-intercept from the old curve instead of substituting x = 0 into the new equation.
 
+## Frequently asked questions
+
+**What happens to maxima and minima when a graph is reflected in the x-axis?**
+They swap: a maximum becomes a minimum and a minimum becomes a maximum, because every y-value changes sign.
+
+**How do asymptotes change under a transformation?**
+An asymptote moves like any other feature of the graph. For example, if y = f(x) has asymptotes x = 3 and y = 1, then y = 2f(x) − 5 has asymptotes x = 3 and y = −3.
+
+**Does the order of combined transformations matter?**
+Changes in the x direction and changes in the y direction do not interfere with each other, but within one direction the order matters. A stretch then a translation in the same direction gives a different result from the reverse order.
+
+**How do you find the y-intercept after a transformation?**
+Substitute x = 0 into the new equation. After a horizontal translation the old y-intercept usually moves, so reading it from the original curve is a common mistake.
+
 ## Official syllabus
 
 AQA, *A-level Mathematics (7357) specification*, for teaching from September 2017 onwards, version 1.3 (31 January 2018), section 3.3 (B: Algebra and functions), content reference B9.

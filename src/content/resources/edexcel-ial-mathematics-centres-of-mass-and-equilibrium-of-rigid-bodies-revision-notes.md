@@ -214,6 +214,20 @@ S = W/(2 tan 50°) = 0.420 W
 - Stating a tilting condition without saying which reaction is zero.
 - Rounding a reaction early and then using the rounded value in the next equation.
 
+## Frequently asked questions
+
+**Where does the centre of mass of a hanging lamina lie?**
+When a lamina hangs freely from a point, its centre of mass lies vertically below the point of suspension.
+
+**How do you decide whether a lamina on a slope slips or topples first?**
+It topples when tan α equals half the base divided by the height of the centre of mass, and slips when tan α = μ. Whichever angle is smaller happens first as the slope rises.
+
+**Can you quote centre of mass results from the formulae book?**
+Yes. The Edexcel IAL specification allows results given in the formulae book to be quoted without proof. Check your own copy of the booklet to see which results are printed.
+
+**Where is the centre of mass of a uniform semicircular lamina?**
+It is on the axis of symmetry at a distance 4r/(3π) from the diameter.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, unit M2: sections 2 (centres of mass) and 5 (statics of rigid bodies).

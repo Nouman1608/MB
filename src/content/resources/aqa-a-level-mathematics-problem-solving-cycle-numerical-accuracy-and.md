@@ -269,6 +269,20 @@ A trolley of mass 2.5 kg rests on a horizontal table. It is joined by a light in
 - Rounding intermediate values, which can move the final digit.
 - Stopping when the model disagrees with data instead of changing an assumption and testing again.
 
+## Frequently asked questions
+
+**How do you evaluate a mathematical model in A-level Maths?**
+Compare its predictions with data, find the largest disagreement, link it to a named assumption, change that assumption and test the refined model on new data. A model is appropriate when it is accurate enough for its purpose.
+
+**Why does the choice of rearrangement matter in fixed-point iteration?**
+Different rearrangements of the same equation share the root, but not all of them converge to it. A rearrangement converges near a root only if the gradient of its right-hand side is small enough there; otherwise the values can diverge.
+
+**What makes a good reasoned estimate?**
+A good estimate states each assumption, rounds sensibly, gives a range rather than a single value, and names the input that matters most. The honest conclusion is often the order of magnitude.
+
+**Are problem solving and modelling examined in AQA A-level Maths 7357?**
+Yes. They are overarching themes OT2 and OT3 of the AQA 7357 specification, applied across the content rather than taught as a separate topic.
+
 ## Next steps
 
 Try the [practice questions](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-practice/), then condense with the [revision notes](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-revision-notes/). For the content these skills are applied to, see [numerical methods](/resources/aqa-a-level-mathematics-numerical-methods/) and [forces and Newton's laws](/resources/aqa-a-level-mathematics-forces-and-newtons-laws/).

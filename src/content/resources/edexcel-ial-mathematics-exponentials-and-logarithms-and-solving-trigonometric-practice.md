@@ -140,6 +140,20 @@ Give decimal answers to 3 significant figures, and angles in degrees to 1 decima
 - Not rejecting an impossible value such as cos x = 3 with a clear reason.
 - Mixing degrees and radians, or forgetting to subtract the shift at the end.
 
+## Frequently asked questions
+
+**Can you split the logarithm of a sum?**
+No. log_a(x + y) does not simplify to log_a x + log_a y. The product law applies to log_a(xy), not to a sum.
+
+**How do you solve an equation like aˣ = b?**
+Take logarithms of both sides and bring the power down, so x = log b / log a. Keep the unrounded value until the final line.
+
+**Why must you transform the interval when solving trig equations?**
+If the angle is something like x − 20° or 2x, the solutions for the whole angle lie in a shifted or stretched interval. Not transforming the interval is a common way to miss solutions.
+
+**Which topics does this Edexcel IAL Pure 2 page cover?**
+It covers Unit P2 topics 5.1 to 5.3 on exponentials and logarithms and 6.1 to 6.2 on trigonometric identities and equations in Pearson Edexcel International A Level Mathematics (YMA01).
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-revision-notes/).

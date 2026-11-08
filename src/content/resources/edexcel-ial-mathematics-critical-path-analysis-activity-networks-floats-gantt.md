@@ -262,6 +262,20 @@ Every activity starts after its predecessors finish, and the project ends at day
 - Adding a dummy duration to a path. Dummies take no time.
 - Using the number of workers from the lower bound without showing a working schedule.
 
+## Frequently asked questions
+
+**How do you know if an activity is critical?**
+An activity (i, j) is critical when eᵢ = lᵢ, eⱼ = lⱼ, and eⱼ − eᵢ equals its duration. Matching event times alone is not enough.
+
+**What is a Gantt or cascade chart?**
+A Gantt (cascade) chart has one row per activity on a time axis, with each activity drawn as a bar from its earliest start time and its float shown after it.
+
+**How do you find the earliest and latest start of an activity?**
+For activity (i, j) with duration d, the earliest start is eᵢ and the latest start is lⱼ − d. The earliest finish is eᵢ + d and the latest finish is lⱼ.
+
+**How do you build an activity-on-arc network?**
+Draw each activity as an arc with its letter and duration, use a single start and end event, add dummies where needed, and number events so every arc runs from a smaller number to a larger one.
+
 ## Next steps
 
 Condense the method with the [revision notes](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-practice/). Tick topics off on the [checklist](/checklists/edexcel/a-level/mathematics/) and see the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) for related units.

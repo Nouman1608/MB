@@ -149,6 +149,20 @@ The surds cancel in pairs, leaving 2 − 1 = **1** [1]
 - Solving the quadratic in y = aˣ or in u = √x and not converting back to x.
 - Missing steps in a "show that" question, or working backwards from the printed answer.
 
+## Frequently asked questions
+
+**How do you evaluate a number to a fractional power without a calculator?**
+Take the root given by the denominator of the index first, then apply the power, and take the reciprocal if the index is negative. Taking the root first keeps the numbers small.
+
+**How do you solve an equation with the unknown in the index?**
+Rewrite both sides as powers of the same base, then set the indices equal. Equating indices before the bases match is a common mistake.
+
+**How do you rationalise a denominator like a + √b?**
+Multiply the numerator and the denominator by the conjugate a − √b, then use the difference of two squares on the denominator. Using the wrong sign or multiplying only the denominator loses marks.
+
+**Where are marks usually lost on indices and surds questions?**
+Common losses include adding indices when the bases differ, treating a negative index as a negative number, dropping the middle term when expanding a surd bracket, rounding to a decimal when an exact answer is needed, and not converting back to x after a substitution.
+
 ## Next steps
 
 - Recap the methods with the [revision notes](/resources/aqa-a-level-mathematics-rational-indices-and-surds-revision-notes/).

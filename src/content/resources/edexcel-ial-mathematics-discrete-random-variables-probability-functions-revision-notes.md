@@ -264,6 +264,20 @@ Examiners cannot reward an answer they cannot follow, so set out the sum for E(X
 - Leaving a final answer as an unsimplified fraction when a decimal or simplified fraction is clearly expected.
 - Not stating the final line in terms of the question, such as the probability or the mean asked for.
 
+## Frequently asked questions
+
+**What makes a valid probability function?**
+Every probability p(x) must lie between 0 and 1, and the probabilities must add up to exactly 1.
+
+**How do you find an unknown constant in a probability function?**
+Write Σ p(x) = 1 using every value in the table or formula, solve for the constant, then check each probability lies between 0 and 1.
+
+**Is E(X²) the same as (E(X))²?**
+No. The difference between them is the variance, so they are equal only when there is no spread at all.
+
+**How do you handle a discrete uniform variable that does not start at 1?**
+Subtract a constant so the values run from 1 to n, use the uniform formulas for the mean and variance, then add the constant back to the mean and leave the variance unchanged.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, first teaching September 2018, published by Pearson. These notes follow S1 section 5, topics 5.1 to 5.4.

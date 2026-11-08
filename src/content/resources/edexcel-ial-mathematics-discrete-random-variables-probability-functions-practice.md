@@ -212,6 +212,20 @@ Var(X) = 51/8 − (19/8)² [1] = 408/64 − 361/64 = **47/64** [1] **[10]**
 - Rounding E(X) early and using the rounded value in the variance.
 - Leaving a "show that" with a missing line between the setup and the result.
 
+## Frequently asked questions
+
+**How do you find P(X ≥ a) from a cumulative distribution function?**
+Use P(X ≥ a) = 1 − F(a − 1), because the value a itself must be included. Using 1 − F(a) removes a and is a common mistake.
+
+**How do you find the variance of a discrete random variable?**
+Find E(X) = Σ x p(x) and E(X²) = Σ x² p(x), then use Var(X) = E(X²) − [E(X)]². Subtracting E(X) instead of its square is wrong.
+
+**What are E(aX + b) and Var(aX + b)?**
+E(aX + b) = aE(X) + b and Var(aX + b) = a² Var(X). Adding a constant shifts the mean but does not change the variance.
+
+**Which part of Edexcel IAL Maths covers discrete random variables?**
+Discrete random variables are section 5 of Unit S1 in Pearson Edexcel International A Level Mathematics (YMA01), including probability functions, cumulative distribution functions, expectation, variance and the discrete uniform distribution.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions/) for any topic you found hard.

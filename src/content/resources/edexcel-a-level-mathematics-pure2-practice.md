@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p2-pure-mathematics-2-edexcel-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on proof, the factor and remainder theorems, coordinate geometry of the circle, sequences and series, logarithms, and stationary points, for Pearson Edexcel International A Level Mathematics (YMA01), Unit P2."
+description: "Practice questions with worked answers on proof, factor theorem, circles, sequences, logarithms and stationary points for Edexcel IAL Maths YMA01 Unit P2."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -103,3 +105,17 @@ Question 3 illustrates the two things a proof-by-exhaustion answer must show exp
 ## Approaching pure mathematics 2 questions
 
 When applying the factor theorem, substitute the value of x that makes the candidate factor zero — for (ax − b), that is x = b/a — and confirm the result is genuinely zero before factorising further; the remainder theorem uses exactly the same substitution to find what's left over instead. Before applying either series sum formula, explicitly check whether consecutive terms share a common difference or a common ratio, since this one-line check prevents an otherwise correct calculation from being built on the wrong formula. For stationary points, always complete the classification step — stating only that dy/dx = 0 at a point, without applying d²y/dx² (or checking the gradient's sign either side when the second derivative is itself zero), leaves the question unfinished. When a definite integral is asked to find an *area* rather than evaluated as a signed value, check first whether the curve crosses the x-axis within the given limits; if it does, split the integral at each root and add the absolute value of each part instead of evaluating straight through. Finally, for "least number of years" or similar inequality-based growth questions, always take logs correctly, solve for the boundary value, and then round in the direction the inequality actually requires, checking the answer against the original context rather than simply rounding to the nearest whole number by habit.
+
+## Frequently asked questions
+
+**How do you use the factor theorem?**
+Substitute the value of x that makes the candidate factor zero. For a factor (ax − b), substitute x = b/a; if the result is 0, it is a factor.
+
+**When does a geometric series have a sum to infinity?**
+Only when the common ratio satisfies |r| < 1. State this condition before using the sum-to-infinity formula.
+
+**How do you find the least number of years for compound growth to pass a value?**
+Set up an inequality, solve it using logarithms or trial of whole years, and round up to the next whole year. Rounding down is a common mistake.
+
+**What topics are in Edexcel IAL Mathematics Unit P2?**
+Unit P2 of Pearson Edexcel International A Level Mathematics (YMA01) includes proof, algebra including the factor and remainder theorems, coordinate geometry of the circle, sequences and series, exponentials and logarithms, trigonometry, differentiation and integration.

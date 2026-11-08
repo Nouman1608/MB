@@ -133,6 +133,23 @@ These cases cover every integer, so **every cube is of the form 9k, 9k + 1 or 9k
 - Not stating "true" or "false" before proving or disproving.
 - Leaving out the final sentence that restates the result.
 
+## Frequently asked questions
+
+**What types of proof are in AQA A-level Maths 7357?**
+Section A: Proof (content reference A1) covers proof by deduction, proof by exhaustion, disproof by counter-example and proof by contradiction.
+
+**How do you get full marks for a counter-example?**
+Show the substituted working that makes the statement fail, such as the factorisation that shows a number is not prime, and check the case meets the statement's conditions. Naming the value alone is not enough.
+
+**What is the most common mistake in a proof by contradiction?**
+Writing the wrong negation as the opening assumption. You must assume exactly the opposite of what you are proving, then state clearly what the contradiction is.
+
+**What does hence mean in a proof question?**
+It means you must use the result of the previous part to answer the next one. Proving the later part another way, without quoting the earlier result, can lose the marks.
+
+**Why must a proof end with a concluding sentence?**
+The final sentence restates exactly what has been proved. Stopping at an expression such as 3(n + 1) without saying why it proves the claim leaves the proof unfinished.
+
 ## Next steps
 
 - Recap the methods: [Proof revision notes](/resources/aqa-a-level-mathematics-proof-revision-notes/).

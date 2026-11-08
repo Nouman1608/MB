@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Structure and calculation, fractions/decimals/percentages, and measures and accuracy -- the full content of Topic 1 Number for AQA GCSE Mathematics (8300)."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 Number**, the first of six topic areas in
@@ -257,3 +259,17 @@ Multiplying instead of dividing in reverse percentage questions. Treating 1 as a
 - (Higher tier) Simplify and rationalise surds.
 - (Higher tier) Convert recurring decimals to fractions.
 - Write error intervals; (Higher tier) find upper and lower bounds and use them correctly in a calculation.
+
+## Frequently asked questions
+
+**What does Topic 1 Number cover in AQA GCSE Maths 8300?**
+It covers 3.1.1 structure and calculation, 3.1.2 fractions, decimals and percentages, and 3.1.3 measures and accuracy, including estimation, error intervals and, at Higher tier, upper and lower bounds.
+
+**How much of AQA GCSE Maths is number?**
+Number carries roughly 25% of Foundation tier marks and 15% of Higher tier marks, and number skills underpin questions across every other topic area.
+
+**Is 1 a prime number?**
+No. A prime number has exactly two factors, 1 and itself, so 1 is not prime. Treating 1 as a prime is a common mistake.
+
+**What is standard form?**
+A number in standard form is written as A × 10ⁿ, where 1 ≤ A < 10 and n is an integer.

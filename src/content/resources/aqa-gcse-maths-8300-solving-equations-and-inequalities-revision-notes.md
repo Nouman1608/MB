@@ -301,6 +301,20 @@ x = 1, y = -1   and   x = 4, y = 2
 - Giving a context answer as "x = 5" without saying what 5 measures.
 - Rejecting nothing when one root is a negative length.
 
+## Frequently asked questions
+
+**How do you write the answer to a quadratic inequality?**
+Find the roots and sketch the parabola. For less than 0 the answer lies between the roots as one inequality; for greater than 0 it lies outside the roots and needs two inequalities. This is Higher tier content.
+
+**When do you use an open or closed circle on a number line?**
+Use an open circle for a strict inequality (< or >), where the boundary value is not included, and a closed circle for ≤ or ≥.
+
+**How do you use iteration to solve an equation?**
+Rearrange the equation into the form x = g(x), substitute the starting value, and feed each answer back into the formula. Write every iterate to at least 4 decimal places and do not round part-way through.
+
+**How do you show a root lies between two values?**
+Substitute both values into the function and show the results have opposite signs. A change of sign means a root lies between them.
+
 ## Official syllabus
 
 AQA GCSE Mathematics (8300) specification, for teaching from September 2015, exams from May/June 2017, version 1.0, published by AQA -- section 3.2.3 Solving equations and inequalities (A17 to A22), with the Appendix on mathematical formulae.

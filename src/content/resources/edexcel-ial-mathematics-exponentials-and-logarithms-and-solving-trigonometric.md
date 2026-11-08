@@ -353,6 +353,20 @@ x = u/2 + π/12:  x = −3π/4, −7π/12, π/4, 5π/12
 - Dividing by sin x or cos x instead of factorising, which discards solutions.
 - Giving cos x = 3 or sin x = −2 as if they gave angles. Reject them.
 
+## Frequently asked questions
+
+**Can aˣ ever be zero or negative?**
+No. For a positive base a, the curve y = aˣ never touches or goes below the x-axis, so equations such as aˣ = 0 or aˣ = −3 have no solutions.
+
+**How do you write an expression as a single logarithm?**
+Turn each coefficient into a power, write any constant as a logarithm of the same base, then combine using the product and quotient laws. Replacing a constant such as 1 by log_a a is the step most often missed.
+
+**How do you find cos θ when you know sin θ?**
+Use sin²θ + cos²θ = 1 to find cos θ, then choose its sign from the quadrant the angle lies in.
+
+**Why should you not divide a trig equation by sin x?**
+Dividing by sin x loses the solutions where sin x = 0. Collect terms on one side and factorise instead.
+
 ## Next steps
 
 Condense the results with the [revision notes](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-practice/).

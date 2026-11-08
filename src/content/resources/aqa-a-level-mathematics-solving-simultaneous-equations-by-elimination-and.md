@@ -248,6 +248,20 @@ If a = 5, then b = 6, and if a = 6, then b = 5. The lawns have sides 5 m and 6 m
 - Using b² − 4ac with the wrong signs when the quadratic has a negative middle term. Write a, b and c out first.
 - Giving only decimals when the question asks for exact values.
 
+## Frequently asked questions
+
+**Should you add or subtract equations in elimination?**
+Once the coefficients of the letter you want to remove are the same size, add the equations if their signs differ and subtract if the signs match.
+
+**Why should you not cancel x from both sides of an equation like x² = 3x?**
+Dividing by x loses the solution x = 0. Move everything to one side and factorise instead, giving x(x − 3) = 0.
+
+**How do you write the answer to a pair of simultaneous equations?**
+Give each solution as a pair of values or a coordinate point. Stopping after finding only the x-values does not answer the question.
+
+**Can simultaneous equations be used for chord lengths?**
+Yes. Solving a line and a curve together gives the two intersection points, and the distance between them is the length of the chord.
+
 ## Where next
 
 Work through the [practice set](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and-practice/), then move on to the [revision notes](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and-revision-notes/). Linked ideas appear in [coordinate geometry in the plane](/resources/aqa-a-level-mathematics-coordinate-geometry-in-the-plane/).

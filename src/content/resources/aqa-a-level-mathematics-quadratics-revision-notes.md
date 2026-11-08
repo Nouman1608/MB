@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b3-quadratic-functions-aqa-alevel-maths"
-description: "Condensed recall notes on the discriminant, quadratic graphs, simultaneous linear-quadratic equations, and linear/quadratic inequalities for AQA A-Level Mathematics (7357), B3-B5."
+description: "Revision notes on the discriminant, simultaneous linear-quadratic equations and linear and quadratic inequalities for AQA A-Level Mathematics 7357, B3 to B5."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -172,6 +174,19 @@ Because B3, B4 and B5 are frequently combined within a single exam question -- f
   <figcaption>Multiply by the square of the denominator, or compare graphs, rather than by x - 2 itself. (AQA / Edexcel IAL content.)</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does the discriminant tell you about a quadratic?**
+The discriminant b² − 4ac tells you the number of real roots: positive means two distinct real roots, zero means one repeated root where the graph touches the x-axis, and negative means no real roots.
+
+**How do you solve a linear and a quadratic equation simultaneously?**
+Rearrange the linear equation and substitute it into the quadratic, then solve the resulting quadratic. AQA 7357 content B4 names both elimination and substitution, so either method is acceptable.
+
+**How do you write the answer to a quadratic inequality?**
+Sketch the graph first. A region between the roots is written as one inequality such as −2 < x < 3, while the regions outside the roots need two parts joined by or, such as x < −2 or x > 3; set notation can also be used.
+
+**How can the discriminant tell you if a line meets a curve?**
+After substituting the line into the curve, the discriminant of the resulting quadratic shows whether the line crosses the curve at two points, touches it as a tangent, or misses it.
 
 ## Official syllabus
 

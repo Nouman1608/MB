@@ -215,6 +215,20 @@ CM = CO + OA + AM = −c + a + ½c = a − ½c
 - Mixing up the order of letters, so that the final answer points the wrong way.
 - Leaving an unsimplified answer such as (2/5)a + (3/5)b − (1/5)b when asked for a single expression.
 
+## Frequently asked questions
+
+**What is the difference between a position vector and a displacement vector?**
+A position vector such as OA starts at the origin and fixes a point. A displacement vector such as AB can start anywhere.
+
+**How do you express a vector in terms of a and b?**
+Sketch the diagram, choose a route from the start to the end along known vectors, use a minus sign when travelling against an arrow, and collect the a and b terms.
+
+**How can you check a vector answer for a point on a line?**
+When a point lies on the line between A and B, the coefficients of a and b in its position vector add up to 1.
+
+**How do areas scale when vectors show similar triangles?**
+If one side is k times the corresponding side, lengths scale by k and areas scale by k².
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027, published by Cambridge International. Sections 7.2, 7.3 and 7.4.

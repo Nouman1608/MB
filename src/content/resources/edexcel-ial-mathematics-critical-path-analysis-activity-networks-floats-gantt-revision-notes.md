@@ -231,6 +231,20 @@ Float is shared along a chain. In the worked reminder, H has 2 days of float and
 - Stopping at the lower bound for workers and giving no schedule.
 - Starting a Gantt bar before a predecessor has finished.
 
+## Frequently asked questions
+
+**What is the formula for total float?**
+For activity (i, j), total float F(i, j) = lⱼ − eᵢ − duration (i, j), using the latest time of the end event and the earliest time of the start event.
+
+**Why are dummies used in activity networks?**
+A dummy shows a dependence correctly, which is a logic dummy, or gives two activities different pairs of events, which is a uniqueness dummy.
+
+**Can a network have more than one critical path?**
+Yes. A project can have more than one critical path, and every activity on either path has a total float of 0.
+
+**What happens if a non-critical activity is delayed by more than its float?**
+The project is delayed by the difference. For example, an activity with float 3 delayed by 5 days makes the project finish 2 days late.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification Issue 3, April 2019 (first teaching September 2018), published by Pearson Education Limited. Unit D1, section 4, topics 4.1 to 4.4, and the D1 glossary definition of total float.

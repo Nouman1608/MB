@@ -229,6 +229,19 @@ A fraction with a single term in the denominator is split into separate powers. 
   <figcaption>The tangent and normal at P(2, 3) are perpendicular because their gradients multiply to −1.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you integrate a power of x?**
+Add 1 to the power and divide by the new power, then add + c. This works for every power except n = −1.
+
+**What is the difference between dy/dx and d²y/dx²?**
+dy/dx is the gradient of the curve. d²y/dx² is the second derivative, which tells you how fast the gradient is changing.
+
+**How do you find the equation of a normal to a curve?**
+Find the gradient m of the tangent at the point, then use the gradient −1/m with the same point in y − y₁ = m(x − x₁).
+
+**How can you check an integration answer?**
+Differentiate your answer. If you do not get back the original expression, there is a slip to find.
 
 ## Official syllabus
 

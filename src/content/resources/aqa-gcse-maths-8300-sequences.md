@@ -344,6 +344,20 @@ The [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-no
 - **Finding a geometric ratio the wrong way round.** Divide a term by the term before it, not the term after it.
 - **Turning surds into decimals too early.** 6√3 is exact; 10.39... loses marks if an exact answer is asked for.
 
+## Frequently asked questions
+
+**What is a Fibonacci-type sequence?**
+In a Fibonacci-type sequence each term is the sum of the two terms before it. If the first two terms are a and b, the next terms are a + b, a + 2b, 2a + 3b and so on, which lets you work backwards from later terms.
+
+**How can you tell if a sequence is quadratic?**
+In a quadratic sequence the first differences are not constant, but the second differences, the differences between the first differences, are constant.
+
+**What is a geometric progression?**
+A geometric progression multiplies by the same number, the common ratio, each time. The terms get smaller when the ratio is between 0 and 1 and bigger when it is greater than 1.
+
+**Is a surd common ratio on the Foundation paper?**
+No. Geometric progressions with a surd common ratio are Higher tier only in AQA GCSE Maths 8300. Simple geometric progressions with a positive rational ratio are on both tiers.
+
 ## Next steps
 
 Next, use the [revision notes](/resources/aqa-gcse-maths-8300-sequences-revision-notes/) and [practice questions](/resources/aqa-gcse-maths-8300-sequences-practice/). For the rest of Topic 2, try the [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/).

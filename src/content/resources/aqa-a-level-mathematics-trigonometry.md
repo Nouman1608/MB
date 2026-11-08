@@ -300,6 +300,20 @@ The model's period is 12 hours. For the modelling cycle and how to criticise a m
 - Dividing both sides by sin x or cos x instead of factorising, which loses solutions.
 - Keeping a root such as sec x = 1/3, which is impossible because |sec x| ≥ 1.
 
+## Frequently asked questions
+
+**When do you need to use radians in A-level trigonometry?**
+Arc length s = rθ, sector area ½r²θ, small angle approximations and calculus with trigonometric functions all need the angle in radians. π radians equals 180°.
+
+**How do you prove a trigonometric identity?**
+Start from one side, usually the more complicated one, and work step by step to the other using known identities. Do not treat the identity as an equation or work on both sides at once.
+
+**Why is arcsin(sin(5π/6)) not equal to 5π/6?**
+Inverse trigonometric functions only return values in their ranges. arcsin gives values from −π/2 to π/2, so arcsin(sin(5π/6)) is π/6.
+
+**How do you get sec²θ ≡ 1 + tan²θ?**
+Divide the identity sin²θ + cos²θ ≡ 1 by cos²θ. Dividing by sin²θ instead gives 1 + cot²θ ≡ cosec²θ.
+
 ## Next steps
 
 Condense these ideas with the [revision notes](/resources/aqa-a-level-mathematics-trigonometry-revision-notes/), then test yourself on the [practice questions](/resources/aqa-a-level-mathematics-trigonometry-practice/). Try the [free 10-minute diagnostics](/diagnostics/) to check other topics.

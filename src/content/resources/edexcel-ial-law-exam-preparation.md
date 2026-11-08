@@ -9,13 +9,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["YLA1"]
 syllabusSeries: "Issue 4, November 2021"
 order: 3
-description: "Why Edexcel IAL Law YLA1 is linear rather than modular, what sitting two 3-hour papers in one June series demands, how Paper 2's synoptic content works, and a worked application routine."
+description: "Why Edexcel IAL Law YLA1 is linear, what sitting two 3-hour papers in one June series demands, how Paper 2's synoptic content works, and an answer routine."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Edexcel International A Level Law (YLA1) is the exception in Pearson's IAL suite: it is **not** split
@@ -121,6 +123,23 @@ that short practices do not develop, and six hours of extended writing is a subs
 available and connected to the substantive areas it examines. 4. Because a misattributed case can
 damage an answer, whereas a small set of authorities stated confidently and accurately supports every
 proposition it is offered for.
+
+## Frequently asked questions
+
+**Is Edexcel International A Level Law modular?**
+No. Edexcel IAL Law (YLA1) is not split into separate IAS and A2 stages: both papers are compulsory and are taken in the same series, which is June only.
+
+**How long are the Edexcel IAL Law exams?**
+Each of the two papers lasts 3 hours, carries 100 marks and is worth 50% of the qualification. Both are externally assessed.
+
+**What topics are on Edexcel IAL Law Paper 1 and Paper 2?**
+Paper 1 (Underlying Principles of Law and the English Legal System) covers the nature, purpose of and liability in law and the sources of English law. Paper 2 (The Law in Action) covers the law of contract, the criminal offender and the individual, including defamation, privacy and occupiers' liability.
+
+**What does synoptic mean for Edexcel IAL Law Paper 2?**
+It means Paper 2 expects you to use the legal principles and legal-system knowledge from Paper 1 alongside its own substantive areas, so practise questions that connect the two.
+
+**How should you use your time in a three-hour law paper?**
+With roughly 1.8 minutes per mark, there is time to plan. Spending the first few minutes listing every issue in a problem question helps you write a structured answer and check at the end that each issue has been dealt with.
 
 *Written against the Pearson Edexcel International Advanced Level Law specification (official
 specification PDF, Issue 4, November 2021, verified 2026-08-30). The problem-question routine above is

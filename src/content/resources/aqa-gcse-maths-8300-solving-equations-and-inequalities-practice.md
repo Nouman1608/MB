@@ -192,6 +192,20 @@ Sides 5, 12 and 13: **perimeter 30 cm** [1]
 - Writing a "show that" with steps missing.
 - Not rejecting a negative length in a geometry context.
 
+## Frequently asked questions
+
+**When do you reverse an inequality sign?**
+Reverse the inequality sign only when you multiply or divide both sides by a negative number. Forgetting to do so is one of the most common mistakes.
+
+**Why should you not divide a quadratic equation by x?**
+Dividing by x loses the solution x = 0. Factorise instead, for example x(x − 8) = 0 gives x = 0 or x = 8.
+
+**What must you do before using the quadratic formula?**
+Rearrange the equation so that one side equals 0, then identify a, b and c. Using the formula before rearranging gives the wrong values.
+
+**Which references cover equations and inequalities in AQA GCSE Maths 8300?**
+Subsection 3.2.3 Solving equations and inequalities covers A17 to A22: linear and quadratic equations, simultaneous equations, iteration, forming equations and inequalities.
+
 ## Next steps
 
 - [Solving equations and inequalities revision notes](/resources/aqa-gcse-maths-8300-solving-equations-and-inequalities-revision-notes/)

@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on mathematical argument, proof, modelling assumptions and problem solving."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -100,3 +102,17 @@ Related: [Overarching Themes revision notes](/resources/aqa-a-level-mathematics-
 - Giving examples rather than a general argument in a deductive proof.
 - Listing assumptions that the model does not actually make.
 - Saying "necessary" when the condition is in fact sufficient.
+
+## Frequently asked questions
+
+**What are the overarching themes in AQA A Level Maths 7357?**
+They are mathematical argument, language and proof; mathematical problem solving; and mathematical modelling. They are assessed across the content rather than as a separate topic.
+
+**What is the difference between a statement and its converse?**
+The converse of if P then Q is if Q then P. A statement can be true while its converse is false, and confusing the two is a common way to lose marks.
+
+**How do you answer a question asking for the assumptions in a model?**
+Name assumptions the model actually makes, such as ignoring air resistance, and where asked, explain how each one affects the prediction. Listing assumptions the model does not make earns no credit.
+
+**What is the difference between hence and hence or otherwise?**
+Hence means you must use the previous part of the question. Hence or otherwise allows you to use any valid method, though the previous part is usually the quickest route.

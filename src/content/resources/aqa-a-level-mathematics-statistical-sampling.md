@@ -321,6 +321,23 @@ compare the summary statistics you get.
 - Saying a method is "biased" without saying which group is over- or under-represented.
 - Treating a sample estimate as the exact population value.
 
+## Frequently asked questions
+
+**What is the difference between a population and a sample?**
+The population is the whole set of items or people you want to know about. A sample is the part of the population you actually collect data from.
+
+**Why take a sample instead of a census?**
+A sample is cheaper and quicker, it is the only option when testing destroys the item, and it gives manageable data for a very large population. A census gives complete information but takes longer and can be impractical.
+
+**Is a systematic sample a simple random sample?**
+No. Once the random start is chosen, every other member is fixed, so not every possible sample of that size can be selected. It can also be biased if the list has a repeating pattern that lines up with the interval.
+
+**What is informal inference in AQA A-level Maths?**
+Informal inference means using a sample statistic, such as a sample mean or proportion, to make a sensible estimate of the population value and commenting on it, without carrying out a formal test.
+
+**Do you need to know the large data set for AQA 7357?**
+Yes. The specification requires familiarity with a large data set, which AQA provides on its website, and expects you to analyse a subset or features of it using a calculator.
+
 ## Next steps
 
 Condense this into recall with the
