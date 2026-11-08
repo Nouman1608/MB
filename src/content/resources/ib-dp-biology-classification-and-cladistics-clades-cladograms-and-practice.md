@@ -194,6 +194,20 @@ Fossils show that C diverged from the lineage leading to A and B 60 million year
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is classification and cladistics (A3.2) on the IB DP Biology SL syllabus?**
+No. All of section A3.2, Classification and cladistics, is additional higher level in the IB Biology guide (first assessment 2025), so these questions are HL only.
+
+**How do you use a molecular clock in a calculation?**
+Divide the number of sequence differences in a pair with a known (usually fossil-dated) split by that time to get a rate, then divide the differences in another pair by the rate to estimate when they diverged.
+
+**How do you read relatedness from a cladogram?**
+Use the most recent shared node: two groups that share a more recent node are more closely related. Where the tips sit on the page does not show relatedness.
+
+**Why are molecular clock dates only estimates?**
+Mutation rates vary with generation time, population size and selection pressure, rates can differ between lineages, and repeated changes at one site are hidden.
+
 ## Official syllabus
 
 This page is aligned to the *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section A3.2 is additional higher level only.

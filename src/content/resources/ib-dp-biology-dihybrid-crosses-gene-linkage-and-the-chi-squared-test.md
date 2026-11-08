@@ -231,6 +231,23 @@ A non-significant result does not prove the hypothesis; it shows the data do not
 
 Condense with the [revision notes](/resources/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test-practice/).
 
+## Frequently asked questions
+
+**What is the difference between segregation and independent assortment?**
+Segregation is the separation of homologous chromosomes in anaphase I, so each gamete gets one allele of each gene. Independent assortment is the random orientation of each bivalent in metaphase I, so alleles of genes on different chromosomes combine at random.
+
+**What are linked genes?**
+Linked genes have loci on the same chromosome, so their alleles tend to travel together into gametes unless crossing over in prophase I separates them. The closer the loci, the stronger the linkage.
+
+**How do you write the genotype of a linked heterozygote?**
+Write the alleles beside two vertical lines that stand for the homologous chromosomes, such as SH | sh, so it is clear which alleles are on the same chromosome.
+
+**Why is Mendel's second law not true in every case?**
+The law of independent assortment holds only for genes on different chromosomes or far enough apart on one chromosome that recombination reaches 50%; linked genes are the exception.
+
+**Which databases can be used to find human gene loci?**
+Open-access databases such as NCBI Gene, OMIM and UniProt give a gene's chromosome and band, such as 7q31.2 for CFTR, plus the name and function of its product.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Sections D3.2.16 to D3.2.21 (additional higher level).

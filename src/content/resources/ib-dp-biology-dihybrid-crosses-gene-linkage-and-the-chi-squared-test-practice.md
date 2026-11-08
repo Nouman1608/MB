@@ -174,6 +174,20 @@ Critical values for χ² at p = 0.05: 1 degree of freedom 3.84; 2 degrees 5.99; 
 - Find gaps with all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is the chi-squared test in IB DP Biology SL?**
+No. Dihybrid crosses, gene linkage, recombinants and the chi-squared test (D3.2.16 to D3.2.21) are additional higher level content, so these questions are HL only.
+
+**How many degrees of freedom are used in a dihybrid chi-squared test?**
+Degrees of freedom are the number of classes minus one, so four phenotype classes give 3 degrees of freedom, with a critical value of 7.81 at p = 0.05. Using the number of classes is a common mistake.
+
+**How do you calculate a recombinant frequency?**
+Add the recombinant offspring (those with allele combinations not found on either parental chromosome), divide by the total number of offspring and multiply by 100.
+
+**Should you say the null hypothesis is accepted?**
+No. Say the null hypothesis is rejected or not rejected after comparing chi-squared with the critical value; a significant result shows chance alone is an unlikely explanation, but it does not prove linkage.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Sections D3.2.16 to D3.2.21 (additional higher level).

@@ -213,6 +213,23 @@ Climate change alters selection pressures. Tawny owls (*Strix aluco*) have grey 
 - Saying individuals "adapt" to warming. Populations change over generations through selection.
 - Mixing up acidification (carbon dioxide) with bleaching (temperature).
 
+## Frequently asked questions
+
+**How do greenhouse gases cause warming?**
+Greenhouse gases such as carbon dioxide and methane absorb and re-emit some of the infrared radiation given off by the warmed surface, so less heat escapes to space.
+
+**What are the human causes of rising methane?**
+Methane rises through livestock digestion, flooded rice paddies, landfill and fossil fuel leaks; methanogens produce the methane from livestock, paddies and landfill.
+
+**Why do species shift their ranges poleward or upslope?**
+As climate warms, species track their preferred temperatures towards cooler latitudes or altitudes. Evidence includes upslope shifts of montane birds in New Guinea and northward spread of North American trees.
+
+**What is phenology?**
+Phenology is the study of the timing of biological events such as flowering, budburst, migration and nest building, which are cued by photoperiod or temperature patterns. It is HL-only content in IB DP Biology D4.3.
+
+**How can climate change cause evolution in tawny owls?**
+With less snow, the brown colour variant survives better than the grey, so its relative fitness rises and the brown allele becomes more common in the gene pool over generations.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, International Baccalaureate Organization (section D4.3).

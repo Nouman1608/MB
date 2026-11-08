@@ -193,6 +193,20 @@ Marks: each step is a pair of contrasting statements [1]; features are observabl
 - All free 10-minute diagnostics: [diagnostics](/diagnostics/)
 - Book a free trial class: [trial class](/trial/)
 
+## Frequently asked questions
+
+**How should a binomial name be written by hand?**
+Underline it, because italics cannot be handwritten, with a capital letter for the genus and a lower-case letter for the species name, such as Loxodonta africana.
+
+**Which parts of IB DP Biology A3.1 Diversity of organisms are HL only?**
+Statements A3.1.12 to A3.1.15 are HL only: difficulties with the species concept for asexual organisms and bacteria, chromosome numbers and hybrid infertility, dichotomous keys, and DNA barcodes with environmental DNA.
+
+**How do you build a dichotomous key that earns marks?**
+Use numbered pairs of contrasting statements based on observable, constant features (not size or colour alone), so n organisms need n − 1 pairs and every ending names exactly one organism.
+
+**Does a bigger genome mean a more complex organism?**
+No. Genome size does not reliably predict complexity; for example, some salamanders and plants have far larger genomes than other vertebrates with similar complexity.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic A3.1, Diversity of organisms.

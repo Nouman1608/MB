@@ -239,6 +239,20 @@ Archaea turned out to be distinct from bacteria at the level of rRNA, and the se
 - Claiming the molecular clock gives exact dates, or forgetting the outgroup in parsimony.
 - Treating the three domains as a replacement for kingdoms rather than a level above them.
 
+## Frequently asked questions
+
+**Why is the traditional ranked hierarchy hard to apply?**
+Ranks such as family or order are arbitrary cut-offs on graded variation, they are not equivalent in age or divergence across groups, and groups built on similarity may not match the branching pattern of evolution.
+
+**What is the best evidence for placing organisms in a clade?**
+The IB Biology guide states that the most objective evidence comes from the base sequences of genes or the amino acid sequences of proteins; morphology can mislead because of convergent evolution.
+
+**Why are reptiles without birds not a clade?**
+Crocodiles share a more recent common ancestor with birds than with lizards, so a group of reptiles that excludes birds leaves out descendants of the common ancestor.
+
+**Why was the figwort family reorganised?**
+Sequence-based cladistics showed that Scrophulariaceae, built mainly on flower and plant form, combined lineages that were not each other's closest relatives, so many genera were moved to other families. It illustrates that knowledge claims can be falsified.
+
 ## Official syllabus
 
 This page is aligned to the *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section A3.2 is additional higher level only.

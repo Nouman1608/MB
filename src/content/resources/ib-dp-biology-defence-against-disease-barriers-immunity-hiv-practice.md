@@ -142,6 +142,20 @@ Read the [study guide](/resources/ib-dp-biology-defence-against-disease-barriers
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [trial class](/trial/).
 
+## Frequently asked questions
+
+**Is any of IB DP Biology C3.2 Defence against disease HL only?**
+No. The IB Biology guide (first assessment 2025) has no additional higher level content in section C3.2, so all of it is for both SL and HL.
+
+**Do vaccines contain antibodies?**
+No. A vaccine contains antigens, or DNA or RNA coding for antigens, which stimulate the immune system to make memory cells without causing the disease. Saying a vaccine contains antibodies is a common error.
+
+**How do you calculate cell numbers after repeated doubling?**
+Divide the total time by the time per division to find the number of divisions, then multiply the starting number by 2 raised to that power. If a target number is asked for, round the number of divisions up to a whole number.
+
+**What is the difference between percentage change and percentage difference?**
+Percentage change is (new − original) ÷ original × 100 and needs a starting value. Percentage difference is the difference ÷ the mean of the two values × 100, with no starting value.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section C3.2.
