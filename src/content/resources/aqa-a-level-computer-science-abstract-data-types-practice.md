@@ -37,7 +37,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-data-structures"
     subtopic: "vectors-7517"
-description: "Original practice questions with worked answers on files, queues, stacks, graphs, trees, hash tables, dictionaries and vectors for AQA A-Level Computer Science 7517."
+description: "Original practice questions with worked answers on files, queues, stacks, graphs, trees, hash tables, dictionaries and vectors for AQA A-Level CS 7517."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false

@@ -82,6 +82,19 @@ for arrays use the [Data Structures and Arrays revision notes](/resources/aqa-a-
 
 Operations for all three: **add (enqueue)**, **remove (dequeue)**, **is empty**, **is full**. Check full before adding, empty before removing.
 
+Worked example — circular queue of 4 slots (0–3), empty, front = 0, rear = −1, size = 0:
+
+| Operation | front | rear | size | Slots 0–3 |
+|---|---|---|---|---|
+| add P | 0 | 0 | 1 | P, –, –, – |
+| add Q | 0 | 1 | 2 | P, Q, –, – |
+| add R | 0 | 2 | 3 | P, Q, R, – |
+| remove (P) | 1 | 2 | 2 | –, Q, R, – |
+| add S | 1 | 3 | 3 | –, Q, R, S |
+| add T | 1 | 0 | 4 | T, Q, R, S |
+
+The last addition wraps the rear round: (3 + 1) MOD 4 = 0. The queue is now full (size = 4), even though T sits in front of Q in the array.
+
 ## Stacks (4.2.3)
 
 **Push** (check full, top + 1, store) · **pop** (check empty, return, top − 1) · **peek/top** (return without removing) · **is empty** · **is full**.
