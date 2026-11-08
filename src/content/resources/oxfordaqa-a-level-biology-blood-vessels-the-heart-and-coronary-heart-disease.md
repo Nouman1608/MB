@@ -268,6 +268,23 @@ Ethics: volunteers give informed consent, may stop at any time, and should not t
 - Confusing cardiac output (cm³ per minute) with stroke volume (cm³ per beat).
 - Concluding "causes" from a correlation without comment on other variables.
 
+## Frequently asked questions
+
+**How is tissue fluid formed and returned?**
+At the arteriole end of a capillary, high hydrostatic pressure pushes water and small solutes out through gaps in the wall, while large plasma proteins stay behind. At the venule end, the plasma's lower water potential draws water back by osmosis, and excess fluid drains into lymph vessels.
+
+**How do you calculate cardiac output?**
+Cardiac output equals heart rate multiplied by stroke volume. Stroke volume is the volume pumped by one ventricle in one beat, so cardiac output is given per minute.
+
+**What opens and closes the heart valves?**
+The valves open and close passively in response to pressure differences. A valve opens when the pressure behind it exceeds the pressure in front of it.
+
+**What is the difference between atheroma and thrombosis?**
+Atheroma is lipid-containing material within the walls of arteries, which narrows the lumen. Thrombosis is the formation of a blood clot, which can start when atheroma damages the artery lining and may block the vessel.
+
+**Which unit of OxfordAQA International A-level Biology (9610) covers the heart?**
+Sections 3.2.6 and 3.2.7 sit in Unit 2, Biological systems and disease, which is assessed in the International AS and also counts towards the International A-level.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards. Published by OxfordAQA.

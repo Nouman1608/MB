@@ -162,6 +162,20 @@ These questions cover sections 3.2.2 and 3.2.3 of Unit 2 in the OxfordAQA Intern
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you count peptide bonds when a polypeptide is digested?**
+A chain of n amino acids has n − 1 peptide bonds. Each cut by an endopeptidase hydrolyses one bond and adds one fragment, so four cuts in one chain give five fragments.
+
+**What should an answer on cholera use instead of "water concentration"?**
+Use water potential and say that water moves by osmosis, so the direction is clear. The lumen has a lower water potential because chloride and sodium ions are secreted into it.
+
+**How do you answer an ethics question on trialling oral rehydration solutions?**
+Give each point with a reason, for example informed consent from patients or guardians, the control group receiving the standard treatment rather than an untreated placebo, and independent ethics approval. A list of words with no reasons scores poorly.
+
+**How do you calculate the mass of glucose in an oral rehydration solution?**
+Convert the concentration from mmol to mol before multiplying by the molar mass. For example, 75 mmol per litre is 0.075 mol × 180 g per mol = 13.5 g per litre.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.2.1 to 3.2.3.2.

@@ -156,6 +156,20 @@ These questions cover sections 3.2.10 and 3.2.11 and Required practical 4 of the
 - Check your level with the [free diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**How do you calculate the mitotic index?**
+Divide the number of cells in mitosis by the total number of cells counted, and multiply by 100 for a percentage. Pool all fields of view before dividing, and do not use only the dividing cells as the denominator.
+
+**How do you estimate the length of each phase of the cell cycle from cell counts?**
+Find the fraction of cells in each phase and multiply by the total cycle time, assuming the cells are not synchronised. The phase times should add up to the whole cycle, which is a useful check.
+
+**How do you answer questions on what mutagens do?**
+Say that mutagens increase the frequency of mutations. Do not say they cause mutations that would never otherwise occur, since mutations also arise spontaneously during DNA replication.
+
+**How do you link anticancer drugs to the cell cycle?**
+Pair each drug with the phase it affects, such as stopping DNA replication in S phase or preventing the spindle forming in mitosis, and give a consequence. Normal cells that divide often, such as hair follicle and gut lining cells, are also affected, which explains side effects.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, sections 3.2.10, 3.2.11 and Required practical 4.

@@ -9,10 +9,12 @@ qualifications: ["a-level"]
 syllabusCodes: ["9610"]
 syllabusSeries: "For first teaching 2016"
 order: 3
-description: "How OxfordAQA International A-Level Biology 9610's five equally weighted papers work, why the ten required practicals are examined in writing, cashable AS awards, and a worked experimental-design routine."
+description: "Exam guide to OxfordAQA International A-level Biology 9610: five equally weighted papers, ten required practicals assessed in writing, resits and AS cash-in."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -120,6 +122,20 @@ about method, variables, uncertainty and evaluation, rather than through a separ
 content -- the resit policy is insurance, not a substitute for preparation. 4. Naming the underlying
 biological principle before engaging with the specific unfamiliar detail, since the principle is
 almost always one that has been studied even when the example has not.
+
+## Frequently asked questions
+
+**How many papers are in OxfordAQA International A-level Biology (9610)?**
+There are five papers, each worth 20% of the full A-level: two AS papers and three A-level papers. Each paper lasts 1 hour 30 minutes and is worth 75 marks.
+
+**What does each OxfordAQA Biology paper cover?**
+AS Paper 1 covers The Diversity of Living Organisms and AS Paper 2 covers Biological Systems and Disease. A-level Paper 1 covers Populations and Genes, A-level Paper 2 covers Control, and A-level Paper 3 is a synoptic paper drawing on the whole specification.
+
+**Can you cash in the AS and resit papers in OxfordAQA Biology?**
+AS results can be cashed in as a standalone AS-level award or carried forward towards the full A-level. Papers can be resat an unlimited number of times, with the best result counting.
+
+**Why is "human error" a weak answer on a required practical question?**
+It does not identify anything specific. Name the particular measurement that was hard to take precisely and why, then give an improvement that targets that source, such as a data logger for a judgement made by eye.
 
 *Written against the assessment section of OxfordAQA's own International AS/A-level Biology (9610)
 qualification page (official OxfordAQA page, verified 2026-08-28). The practical-description routine

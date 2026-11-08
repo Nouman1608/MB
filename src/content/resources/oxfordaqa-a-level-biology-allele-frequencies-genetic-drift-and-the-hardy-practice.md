@@ -165,6 +165,20 @@ These questions cover sections 3.3.7.1 and 3.3.7.2 of the OxfordAQA Internationa
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you use the Hardy-Weinberg equation when given a recessive phenotype frequency?**
+The recessive phenotype frequency equals q², not q, so a frequency of 1 in 625 means q² = 1/625. Take the square root to get q, then subtract from 1 to find p.
+
+**How do you calculate allele frequency from genotype counts?**
+Count the copies of the allele, with homozygotes contributing two and heterozygotes one, and divide by 2N, the total number of gene copies. Dividing by the number of individuals is a common error that can give a value above 1.
+
+**What is the most common mistake with the dominant phenotype in Hardy-Weinberg questions?**
+The dominant phenotype frequency is p² + 2pq, not p² alone. If you are given the dominant phenotype frequency, subtract it from 1 to get q² first.
+
+**How do you answer a question on why a population is not in Hardy-Weinberg equilibrium?**
+Quote the observed and expected numbers and say how they differ, then name a condition that is broken in that context, such as non-random mating, selection or migration, and say what it does to allele frequency.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.7.1 and 3.3.7.2.

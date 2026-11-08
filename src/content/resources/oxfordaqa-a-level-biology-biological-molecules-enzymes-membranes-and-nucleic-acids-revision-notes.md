@@ -14,10 +14,12 @@ order: 273
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
-description: "Condensed revision notes for OxfordAQA International AS and A-level Biology 9610 Unit 1 on biological molecules, enzymes, transport across membranes, DNA and protein synthesis, with a self-test."
+description: "Revision notes for OxfordAQA International AS and A-level Biology 9610 Unit 1: biological molecules, enzymes, membrane transport, DNA and protein synthesis."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
@@ -257,6 +259,23 @@ You will be given the code table when it is needed; you do not have to recall wh
 ## What these notes do not cover
 
 Other Unit 1 sections are revised elsewhere or not yet condensed here: cell structure and microscopy (3.1.2), gas exchange and haemoglobin (3.1.5), variation (3.1.6), meiosis (3.1.9), and species, taxonomy and biodiversity (3.1.10-3.1.11, in the [diversity revision notes](/resources/oxfordaqa-a-level-biology-diversity-revision-notes/)).
+
+## Frequently asked questions
+
+**What is the difference between condensation and hydrolysis?**
+Condensation joins two molecules with a chemical bond and eliminates a molecule of water. Hydrolysis breaks the chemical bond between two molecules in a reaction that uses a water molecule.
+
+**How do you test for a non-reducing sugar?**
+After a negative Benedict's test, boil a fresh sample with dilute hydrochloric acid, neutralise with sodium hydrogencarbonate, then heat with Benedict's reagent. A coloured precipitate shows a non-reducing sugar, because the acid hydrolysed it to reducing monosaccharides.
+
+**What is the difference between the lock and key and induced fit models of enzyme action?**
+In the lock and key model the active site is a fixed shape exactly complementary to the substrate. In the induced fit model the active site changes shape slightly as the substrate binds, putting strain on bonds in the substrate.
+
+**What is the difference between a competitive and a non-competitive inhibitor?**
+A competitive inhibitor has a similar shape to the substrate and binds the active site, so adding more substrate reduces its effect. A non-competitive inhibitor binds away from the active site and changes its shape, so adding substrate does not overcome it.
+
+**Is this content on the International AS in OxfordAQA Biology (9610)?**
+Yes. Sections 3.1.1, 3.1.3, 3.1.4, 3.1.7 and 3.1.8 sit in Unit 1, The diversity of living organisms, which is International AS content.
 
 ## Official syllabus
 

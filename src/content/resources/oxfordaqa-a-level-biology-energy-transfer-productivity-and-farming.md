@@ -217,6 +217,23 @@ You are expected to apply ecological principles to explain how a practice affect
 - Forgetting that urine carries energy in N = I - (F + U + R).
 - Evaluating with one lens only. Name economic, environmental and ethical points.
 
+## Frequently asked questions
+
+**What is the difference between GPP and NPP?**
+Gross primary production (GPP) is the chemical energy store in plant biomass in a given area or volume, in a given time. Net primary production (NPP) is what remains after respiratory losses, so NPP = GPP − R, and it is the energy available to consumers and decomposers.
+
+**How do you calculate the efficiency of energy transfer between trophic levels?**
+Divide the energy transferred to the next level by the energy available at the level below, then multiply by 100. For a chain of several steps, multiply the efficiencies rather than adding them.
+
+**Why is a pyramid of energy never inverted?**
+A pyramid of energy shows energy transferred per area over a year, so it is a rate. The energy in each level comes from the level below and some is lost at every step, so it always narrows upward.
+
+**How do farmers reduce respiratory losses in livestock?**
+Farmers limit the animals' movement, for example by housing them indoors, and keep them warm so less energy is used to maintain body temperature. More of the energy taken in is then stored as net production.
+
+**Is energy transfer on the International AS in OxfordAQA Biology (9610)?**
+No. Sections 3.3.4.1 and 3.3.4.2 sit in Unit 3, Populations and genes, which the specification lists as International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology, Version 5.1, for International A-level exams May/June 2018 onwards, sections 3.3.4.1 and 3.3.4.2.

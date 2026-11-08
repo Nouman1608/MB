@@ -223,6 +223,23 @@ A trial compares a new ORS with the standard one. Points to discuss:
 - Using "concentration" when the question wants water potential.
 - Treating ORS as a cure for the infection.
 
+## Frequently asked questions
+
+**How is glucose absorbed in the ileum by co-transport?**
+A sodium-potassium pump uses ATP to move sodium ions out of the epithelial cell into the blood, so sodium ions move back in from the lumen through a co-transporter, carrying glucose against its gradient. Glucose then leaves the cell into the blood by facilitated diffusion.
+
+**What do bile salts do?**
+Bile salts are not enzymes. They emulsify lipids into many small droplets, increasing the surface area for lipase, and they take part in forming micelles.
+
+**How does cholera cause diarrhoea?**
+The cholera toxin increases the secretion of chloride ions into the lumen of the small intestine, and sodium ions follow. The water potential of the lumen falls, so water leaves the tissue by osmosis, causing severe watery diarrhoea.
+
+**Why do oral rehydration solutions contain glucose and salts?**
+The cholera toxin does not affect the sodium-glucose co-transporter, so glucose still brings sodium ions into the epithelial cells and water follows by osmosis. Water alone is not enough to replace what was lost.
+
+**Is digestion and cholera on the International AS in OxfordAQA Biology (9610)?**
+Yes. Sections 3.2.2 and 3.2.3 are in Unit 2, Biological systems and disease, which the specification lists as content for both the International AS and the International A-level.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.2.1 to 3.2.3.2. Check the current specification at oxfordaqa.com.
