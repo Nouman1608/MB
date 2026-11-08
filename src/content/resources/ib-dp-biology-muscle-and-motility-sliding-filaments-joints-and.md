@@ -259,6 +259,23 @@ A dolphin swims at 5.0 m per second with a tail beat frequency of 2.0 Hz (suppli
 - Mixing up tendons (muscle to bone) and ligaments (bone to bone).
 - Writing "fluke moves side to side".
 
+## Frequently asked questions
+
+**What is the sliding filament model?**
+During contraction, myosin heads pull the thin actin filaments towards the centre of the sarcomere; the filaments do not shorten but slide past each other, increasing their overlap.
+
+**What are the roles of calcium and ATP in muscle contraction?**
+Calcium ions released from the sarcoplasmic reticulum bind troponin so tropomyosin uncovers binding sites on actin; ATP binding detaches the myosin head from actin, and ATP hydrolysis resets the head for another cycle.
+
+**Why do muscles work in antagonistic pairs?**
+Muscle can only pull while contracting and cannot push, so a second muscle is needed to reverse the movement, for example the biceps flexes the elbow and the triceps extends it.
+
+**How do you measure range of motion at a joint?**
+Use a goniometer with its pivot over the joint and one arm aligned with each bone, or computer analysis of images; read the angle at each end of the movement, repeat and take a mean.
+
+**How are marine mammals adapted for swimming?**
+Whales, dolphins and seals have streamlined bodies to reduce drag, flippers for steering and balance, a fluke moved up and down for thrust, and a blowhole that allows periodic breathing between dives.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section B3.3, Muscle and motility, additional higher level.

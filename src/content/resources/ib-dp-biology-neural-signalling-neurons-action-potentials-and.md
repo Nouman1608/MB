@@ -214,6 +214,23 @@ Consciousness is an **emergent property**: it arises from the interaction of vas
 - Saying a stronger stimulus makes a bigger action potential.
 - Forgetting that calcium enters the presynaptic neuron.
 
+## Frequently asked questions
+
+**What happens during depolarization and repolarization?**
+At threshold, voltage-gated sodium channels open and sodium ions diffuse in, making the inside positive (depolarization); then sodium channels close and voltage-gated potassium channels open, so potassium diffuses out and the inside becomes negative again (repolarization).
+
+**What is saltatory conduction?**
+In myelinated fibres, myelin insulates the axon so ion movement happens only at the nodes of Ranvier, where pumps and channels cluster; the action potential jumps from node to node, which makes conduction faster.
+
+**Why does a nerve impulse pass in only one direction across a synapse?**
+Neurotransmitter is released only from the presynaptic membrane and its receptors are only on the postsynaptic membrane, so the signal crosses one way.
+
+**How do neonicotinoids and cocaine affect synapses?**
+Neonicotinoids bind to acetylcholine receptors in insects and block normal synaptic transmission; cocaine blocks reuptake of dopamine into the presynaptic neuron, so dopamine stays in the cleft and stimulates the postsynaptic neuron for longer.
+
+**How is pain perceived?**
+Free nerve endings in the skin have cation channels that open in response to intense heat, acid or capsaicin; positive ions enter, threshold is reached, and impulses travel to the brain, where pain is perceived.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C2.2 Neural signalling.

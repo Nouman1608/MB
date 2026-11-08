@@ -214,6 +214,23 @@ Unintended results are different. When antibiotics kill most of a bacterial popu
 - Forgetting to square-root q² before finding p.
 - Calling antibiotic resistance artificial selection.
 
+## Frequently asked questions
+
+**Why was Darwin's theory a paradigm shift?**
+Darwin's mechanism of natural selection replaced Lamarck's idea that traits acquired in life are inherited, a fundamental change in the accepted framework of biology, which the IB Biology guide calls a paradigm shift.
+
+**What is fitness in natural selection?**
+Fitness is how well a genotype does at surviving and reproducing, its survival value together with its reproductive potential; what counts is the number of offspring that survive to breed.
+
+**Why are acquired characteristics not inherited?**
+Traits gained during life, such as a weightlifter's muscles or a scar, come from the environment and are not written into the base sequence of genes, so they are not passed on in gametes.
+
+**What did Endler's guppy experiments show?**
+Female guppies prefer brightly coloured males while predators catch conspicuous males, so with predators absent or weak males became more colourful, and with dangerous predators they became duller.
+
+**What is neo-Darwinism?**
+Neo-Darwinism combines natural selection with genetics: evolution is a change in allele frequency in the gene pool, driven by differences in survival and reproduction. This is HL-only content in IB DP Biology D4.1.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D4.1 Natural selection.

@@ -261,6 +261,20 @@ These revision notes condense section B3.3 (Muscle and motility) of the IB *Biol
 - Giving a range of motion without units or without saying which movement was measured.
 - Listing a reason for locomotion without a named example.
 
+## Frequently asked questions
+
+**What happens to the bands of a sarcomere during contraction?**
+The A band stays the same length, the I band becomes shorter, the H zone narrows or disappears, and the distance between Z lines falls, because the filaments slide past each other.
+
+**What are the roles of titin?**
+Titin is a giant elastic protein that stores energy when a sarcomere is stretched, helping it recoil, and limits stretch so the sarcomere is not overstretched.
+
+**What is the difference between motile and sessile organisms?**
+A motile organism, such as a housefly, moves its whole body from place to place; a sessile organism, such as an oak tree, stays fixed but still moves parts, for example turning leaves towards light.
+
+**How do the external and internal intercostal muscles work?**
+External intercostals raise the ribs up and out for inhalation, and internal intercostals pull them down and in for forced exhalation; contraction of either layer stretches the other. This is HL-only content in IB DP Biology B3.3.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section B3.3, Muscle and motility, additional higher level.
