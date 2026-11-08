@@ -331,6 +331,20 @@ Area = 34 200 m² (3 s.f.)
 
 Try the [practice questions](/resources/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle-practice/), then re-read the [revision notes](/resources/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle-revision-notes/) before your next test.
 
+## Frequently asked questions
+
+**How do you label a triangle for the sine and cosine rules?**
+Use capital letters A, B and C for the angles and small letters a, b and c for the sides, with each side opposite the angle of the same letter.
+
+**What is the formula for the area of any triangle?**
+Area = ½ab sin C, where C is the angle between sides a and b. It can also be rearranged to find a side or an angle from a known area.
+
+**Are the sine and cosine rules Core or Extension in OxfordAQA 9260?**
+They are Extension only. In OxfordAQA International GCSE Mathematics (9260), reference G20 covers the sine rule, cosine rule and Area = ½ab sin C at Extension tier.
+
+**Why can the sine rule give two possible angles?**
+Because sin θ = sin(180° − θ), the acute angle from the calculator and 180° minus it can both fit. The second angle is valid only if it keeps the angle sum of the triangle below 180°.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Statement G20, section 3.3.2 Mensuration and calculation.

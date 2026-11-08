@@ -302,6 +302,20 @@ To describe the single equivalent transformation, track two or three points and 
 * Rotating "by eye" without checking one point's distance from the centre before and after.
 * Forgetting that the first transformation in a combination is applied first.
 
+## Frequently asked questions
+
+**What are the four transformations in IGCSE Maths?**
+Translation, reflection, rotation and enlargement. OxfordAQA International GCSE Mathematics (9260), reference G21, asks you to describe and carry out each one.
+
+**How do you reflect a point in the line x = k?**
+The point (x, y) maps to (2k − x, y), so the image is the same distance on the other side of the line. Moving the point k units instead of measuring its distance from the line is a common error.
+
+**Is a fractional scale factor still called an enlargement?**
+Yes. With 0 < k < 1 the shape gets smaller but is still described as an enlargement, for example "enlargement, scale factor ½". Fractional and negative scale factors are Extension only.
+
+**What happens to the point (x, y) after a 90° anticlockwise rotation about the origin?**
+It maps to (−y, x). A 90° clockwise rotation gives (y, −x), and a 180° rotation gives (−x, −y).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Reference G21 in section 3.3.3.

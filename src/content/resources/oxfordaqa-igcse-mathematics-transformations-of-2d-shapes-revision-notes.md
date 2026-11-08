@@ -261,6 +261,20 @@ Quick check: a point and its image must be equally far from the centre.
 * Applying combined transformations in the wrong order.
 * Giving an unlabelled image. Mark every vertex clearly so that your working can be followed.
 
+## Frequently asked questions
+
+**Which transformations keep shapes congruent?**
+Translations, rotations and reflections keep lengths, angles and area the same, so the image is congruent. An enlargement multiplies lengths by k and areas by k², so the image is similar, not congruent.
+
+**How do you find the mirror line of a reflection?**
+Take a point and its image, find their midpoint, and draw the line through it at right angles to the join. For (2, 7) and (2, 1), the mirror line is y = 4.
+
+**What does a negative scale factor enlargement do?**
+The image is on the opposite side of the centre and turned through 180°, with size |k| times the object. A scale factor of −1 is the same as a rotation of 180° about the centre.
+
+**What do two reflections in parallel lines give?**
+They give a translation whose length is twice the gap between the mirror lines. Two reflections in crossing lines give a rotation about the crossing point through twice the angle between them.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Reference G21 in section 3.3.3.

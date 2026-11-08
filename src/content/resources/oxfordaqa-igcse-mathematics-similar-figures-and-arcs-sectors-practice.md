@@ -147,6 +147,20 @@ Give answers to 3 significant figures unless a question says otherwise, and keep
 * Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 * [Book a free trial class](/trial/) if you would like a teacher to go through these questions with you.
 
+## Frequently asked questions
+
+**How do areas and volumes change in similar shapes?**
+If lengths scale by k, areas scale by k² and volumes by k³. Scaling an area by k instead of k² is the most common error.
+
+**How do you find a length from an area or volume ratio?**
+Take the square root of the area ratio, or the cube root of the volume ratio, to get the length scale factor k. Forgetting the root is a frequent lost mark.
+
+**What is included in the perimeter of a sector?**
+The perimeter is the arc length plus the two radii. Leaving out the radii, or using the diameter in the formula, loses marks.
+
+**Should you give sector answers in terms of π?**
+Only when the question asks for an exact answer in terms of π; otherwise give a rounded decimal. In OxfordAQA International GCSE Mathematics (9260) questions, giving the wrong form is a common way to lose the final mark.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Statements G17 and G18, section 3.3.2 Mensuration and calculation.

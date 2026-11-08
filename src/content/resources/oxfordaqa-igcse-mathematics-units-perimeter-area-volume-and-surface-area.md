@@ -401,6 +401,20 @@ Frustum = 864 - 108 = 756 cm³
 
 Next, condense this with the [revision notes](/resources/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area-revision-notes/) and test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area-practice/).
 
+## Frequently asked questions
+
+**How do you convert 1 h 30 min into hours?**
+Divide the minutes by 60, so 1 h 30 min is 1.5 hours, not 1.30 hours. In the same way, 1 h 45 min is 1.75 hours.
+
+**What does "give your answer in terms of π" mean?**
+It means leave π as a symbol in the answer, such as 25π, rather than converting to a decimal like 78.5.
+
+**What are the formulas for the volume and surface area of a sphere?**
+Volume = (4/3)πr³ and surface area = 4πr². In OxfordAQA International GCSE Mathematics (9260), spheres, cones, pyramids and composite solids are Extension only.
+
+**What is the area formula for a trapezium?**
+Area = ½ × (a + b) × h, where a and b are the parallel sides and h is the perpendicular height between them.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Section 3.3.2 Mensuration and calculation.

@@ -244,6 +244,20 @@ Give lengths to 3 significant figures and angles to 1 decimal place.
 - Starting a multi-step question with a rule that does not fit the information given, then getting stuck. Write down what you know first.
 - Writing only a final answer when a question says "show that". Show the substitution and the unrounded value.
 
+## Frequently asked questions
+
+**When do you use the sine rule and when the cosine rule?**
+Use the sine rule when you have a side and its opposite angle as a matched pair. Use the cosine rule when you have two sides and the included angle (to find the third side) or all three sides (to find an angle).
+
+**Do you need to memorise the sine and cosine rules for OxfordAQA 9260?**
+Yes. The OxfordAQA International GCSE Mathematics (9260) specification appendix lists the sine rule, cosine rule and Area = ½ab sin C among the formulae you are expected to know.
+
+**What does a negative value in the cosine rule mean?**
+If cos A comes out negative, the angle A is obtuse. Inverse cosine gives acute or obtuse angles correctly, unlike inverse sine.
+
+**How can you sense-check a triangle answer?**
+The longest side should be opposite the largest angle and the shortest side opposite the smallest angle, the angles must add to 180°, and only one angle can be obtuse.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Statement G20, section 3.3.2 Mensuration and calculation.

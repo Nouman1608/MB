@@ -299,6 +299,20 @@ Worked reminder: cone, radius 3 and height 4, so l = 5. Volume = (1/3) × π × 
 - Putting the perpendicular height into πrl, or forgetting the base circle in a total surface area.
 - Subtracting the small solid's volume from the wrong solid when finding a frustum.
 
+## Frequently asked questions
+
+**How do you convert area and volume units?**
+Square the length factor for area and cube it for volume. So 1 m² = 10 000 cm² and 1 m³ = 1 000 000 cm³; multiply when going to a smaller unit and divide when going to a larger one.
+
+**How many cm³ are in a litre?**
+A litre is 1000 cm³ (or 1000 ml), and a cubic metre is 1000 litres. Capacity and volume measure the same thing in different units.
+
+**How do you find the surface area of a prism?**
+Add the areas of the two cross-sections to the perimeter of the cross-section multiplied by the length. The volume is V = Ah, cross-sectional area times length.
+
+**How do you find the volume of a frustum?**
+Find the volume of the whole cone or pyramid, then subtract the small solid removed from the top. Use the scale factor from the heights to get the small solid's lengths. Frustums are Extension only in OxfordAQA International GCSE Mathematics (9260).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Section 3.3.2 Mensuration and calculation.

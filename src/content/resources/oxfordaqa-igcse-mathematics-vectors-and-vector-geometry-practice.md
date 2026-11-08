@@ -169,6 +169,20 @@ Both midpoints are at the same vector ½(**a** + **c**) from P, so they are the 
 * Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 * [Book a free trial class](/trial/) if you would like a teacher to go through these questions with you.
 
+## Frequently asked questions
+
+**How do you find the vector AB from two points?**
+Subtract the position of A from the position of B: →AB = B − A. Using A − B gives →BA, the vector pointing the opposite way.
+
+**How do you use a ratio on a line in a vector question?**
+Turn the ratio into a fraction of the whole line. If AX : XB = 1 : 3, then →AX is one quarter of →AB, not one third.
+
+**How do you prove three points are collinear with vectors?**
+Show that one vector is a scalar multiple of the other, such as →AB = k→BC, then state that the lines are parallel and share a point, so the points are collinear. Stopping after "parallel" loses the final mark.
+
+**Are vectors in the OxfordAQA 9260 Core tier?**
+No. In OxfordAQA International GCSE Mathematics (9260), all of reference G22, vector notation, arithmetic and 2D vector geometry, is Extension only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Statement G22, section 3.3.3 Transformations, Matrices and Vectors.

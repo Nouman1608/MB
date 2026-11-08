@@ -227,6 +227,20 @@ If the linear equation is not already in the form y = …, rearrange it first. W
 * Writing a reading such as 2.3333 from a graph, which claims accuracy the drawing cannot support.
 * Writing no working: a wrong final pair with clear steps shows the examiner what you did, while a bare wrong pair shows nothing.
 
+## Frequently asked questions
+
+**Should you use elimination or substitution?**
+Both give the same answer, so choose the one with less arithmetic. Elimination suits two equations in the form ax + by = c; substitution suits a pair where one equation already says y = … or x = ….
+
+**How do you know whether to add or subtract in elimination?**
+Look at the signs of the two matching terms. If they have the same sign, subtract the equations; if they have opposite signs, add them.
+
+**How can you tell if simultaneous equations have no solution?**
+If eliminating makes both letters vanish and leaves a false statement such as 0 = 5, the lines are parallel and there is no solution. A true statement such as 0 = 0 means they are the same line, with infinitely many solutions.
+
+**How many times can a line meet a quadratic curve?**
+Twice, once or not at all. After substituting, the discriminant b² − 4ac of the quadratic tells you: greater than 0 gives two points, equal to 0 gives one (the line touches), and less than 0 gives none.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. This page follows section 3.2.3, statement A21.

@@ -302,6 +302,20 @@ Always finish a "show that" with a sentence naming the property: "parallel and s
 * Leaving a fraction of a vector uncombined. Collect the **a** terms and the **b** terms and write the answer as one expression.
 * Assuming **a** − **b** = **b** − **a**.
 
+## Frequently asked questions
+
+**How do you write vectors by hand?**
+Underline a lower-case letter, such as a with a line beneath, to show it is a vector. You can also write →AB for the movement from A to B, or use a column vector.
+
+**How do you add vectors on a diagram?**
+Draw them tip to tail: draw the first vector, then the second from its end. The sum runs from the start of the first to the end of the second.
+
+**Is a column vector the same as a coordinate?**
+No. A point is a fixed place, while a column vector is a movement that can start anywhere. Treating one as the other is a common error.
+
+**What does a negative vector mean?**
+−a has the same length as a but points in the opposite direction, so →BA = −→AB.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Statement G22, section 3.3.3 Transformations, Matrices and Vectors.

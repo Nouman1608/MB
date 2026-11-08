@@ -141,6 +141,20 @@ If a method is unfamiliar, start with the [study guide](/resources/oxfordaqa-igc
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why must a quadratic equation equal zero before you factorise?**
+The zero-product rule only works when the product is exactly 0: if p × q = 0 then p = 0 or q = 0. Setting each bracket equal to a non-zero number, such as 10, gives wrong answers.
+
+**Can you divide both sides of a quadratic by x?**
+No. Dividing by x loses the solution x = 0. Factorise out x instead, so x² − 4x = 0 becomes x(x − 4) = 0 with solutions x = 0 or x = 4.
+
+**How do you avoid sign errors with a negative b in the quadratic formula?**
+Substitute using brackets, so (−b)² is always positive. Writing −b² for (−b)² when b is negative is a common lost mark.
+
+**What should you do with a negative solution in a context question?**
+Reject it with a short reason if it is impossible, such as a negative length or time, and answer in the words of the question with units. OxfordAQA International GCSE Mathematics (9260) questions expect you to say which solution is valid.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.3, reference A20.

@@ -344,6 +344,20 @@ Results above 1 or above 100% are correct when the first quantity is bigger. Swa
 
 Read the [revision notes](/resources/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal-practice/). The wider topic is in the [Number study guide](/resources/igcse-oxfordaqa-mathematics-number/).
 
+## Frequently asked questions
+
+**Why is the upper bound used in calculations if it is not included?**
+The upper bound marks the top of the error interval even though a value equal to it would round up. You use it, for example 14.65 for 14.6 to 1 d.p., because it is the limit the true value approaches.
+
+**What does "of" mean with fractions and percentages?**
+"Of" means multiply, so a fraction, decimal or percentage acts as an operator. For example, 35% of 840 = 840 × 0.35 = 294.
+
+**Which topics does this OxfordAQA 9260 unit cover?**
+It covers N11 to N14 of OxfordAQA International GCSE Mathematics (9260): rounding, limits of accuracy, estimation and bounds, fraction-decimal-percentage conversions, operators, and one quantity as a fraction or percentage of another. Percentage change and interest (N15) are covered separately.
+
+**How do you show a recurring decimal with dot notation?**
+Put one dot over a single repeating digit, or a dot over each end of a repeating block. So 0.46̇ means 0.4666… and 0.2̇7̇ means 0.2727….
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.1.1 (N11) and 3.1.2 (N12, N13, N14).

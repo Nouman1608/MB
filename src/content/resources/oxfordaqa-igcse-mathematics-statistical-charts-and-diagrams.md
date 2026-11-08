@@ -343,6 +343,20 @@ The interquartile range is 18 minutes. To compare two box plots, quote a middle 
 - Leaving leaves in the order they were collected.
 - Joining scatter graph points with a line.
 
+## Frequently asked questions
+
+**Where do you plot points on a cumulative frequency diagram?**
+Plot each running total above the upper class boundary, start the curve at (lower end, 0), and join the points with a smooth curve.
+
+**What five values does a box plot show?**
+A box plot shows the minimum, lower quartile, median, upper quartile and maximum on one scale. The box runs between the quartiles with the median marked across it.
+
+**How do you draw a stem-and-leaf diagram?**
+Put the leading digits in the stem and the last digit of each value as a leaf, order the leaves from smallest to largest, keep the columns aligned and always give a key.
+
+**Which variable goes on the horizontal axis of a scatter graph?**
+Put the variable you control, or the one that comes first, on the horizontal axis. Plot one point per pair and do not join the points with a line.
+
 ## Official syllabus
 
 Specification used: Version 5.1 of the OxfordAQA specification for International GCSE Mathematics (9260), which is for exams May/June 2018 onwards. Section 3.4.1, Presentation and analysis, reference S4.
