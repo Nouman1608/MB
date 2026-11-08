@@ -273,6 +273,20 @@ Avoid vague phrases such as "it is not fair" with no numbers, or "it is wrong" w
 - Not mentioning sample size when a question asks which estimate is better.
 - Writing "it will happen 90 times" when the question is about an expected frequency.
 
+## Frequently asked questions
+
+**What is relative frequency?**
+Relative frequency is the number of times an event happened divided by the total number of trials. It is an estimate of the probability, taken from an experiment or survey.
+
+**What is the difference between theoretical probability and relative frequency?**
+Theoretical probability comes from a model with equally likely outcomes: favourable outcomes divided by total outcomes. Relative frequency comes from data: times the event happened divided by total trials.
+
+**Do past results change the probability of the next trial?**
+No. After a run of misses, the next trial still has the same probability, and differences between repeated experiments are due to chance.
+
+**Why does a larger sample give a better estimate of probability?**
+More trials generally give a relative frequency closer to the true probability, as stated in OxfordAQA International GCSE Mathematics (9260) S13. "Generally" matters: a better estimate is likely, not certain, and a large sample taken in a biased way is still poor.
+
 ## Official syllabus
 
 These notes follow the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA, section 3.4.3 Probability, statements S9 to S13.

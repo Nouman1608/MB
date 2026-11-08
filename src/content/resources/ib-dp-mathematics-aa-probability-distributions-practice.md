@@ -41,10 +41,12 @@ syllabusTopics:
 description: "11 original IB DP Maths AA probability, binomial and normal distribution questions, with HL Bayes and pdf problems and mark-by-mark answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -203,6 +205,20 @@ f(x) = 0,              otherwise
 - See the rest of the course on the [IB DP Maths AA course hub](/boards/ib/ib-dp/mathematics-analysis-and-approaches/) and tick off the [printable syllabus checklist](/checklists/ib/ib-dp/mathematics-analysis-and-approaches/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How do you show two events are independent in IB Maths AA?**
+Give a numerical test: check whether P(A ∩ B) = P(A)P(B), or whether P(A | B) = P(A). Declaring independence without a numerical test, or because a diagram looks separate, loses marks.
+
+**What changes on the second branch of a tree diagram without replacement?**
+Reduce both the count and the total by one on the second branch. Keeping the same denominator on the second draw is a common error.
+
+**How do you find P(X ≥ k) for a binomial distribution on a calculator?**
+Rewrite it in "≤" form, P(X ≥ k) = 1 − P(X ≤ k − 1), then use the binomial cdf. The IB DP Mathematics: Analysis and Approaches guide states binomial probabilities should be found with technology in exams.
+
+**How do you find an unknown mean or standard deviation of a normal distribution?**
+Find z from the inverse normal of the standard normal N(0, 1), then solve z = (x − μ)/σ for the unknown. With both unknown, form two equations and solve simultaneously, keeping σ unrounded.
 
 ## Official syllabus
 

@@ -348,6 +348,23 @@ For a chain such as 9.4 × sin 52° ÷ sin 67°, enter it in one go and read **8
 - Typing a fraction division without brackets, so the calculator divides only by the first term.
 - Rounding before the end of a calculation.
 
+## Frequently asked questions
+
+**How do you divide fractions?**
+Multiply by the reciprocal of the second fraction, cancelling first if you can. Change any mixed numbers to improper fractions before you start.
+
+**What are inverse operations?**
+Inverse operations undo each other: addition and subtraction, multiplication and division, and squaring and square rooting. Use them to undo a calculation, check an answer or cancel.
+
+**What value of π should you use in OxfordAQA 9260 exams?**
+Use your calculator's π value if it has one; otherwise use 3.142, which the OxfordAQA International GCSE Mathematics (9260) specification says is given on the front of the paper.
+
+**Which calculators are not allowed in OxfordAQA International GCSE Maths?**
+Graphical calculators and calculators with built-in symbolic algebra or calculus are not allowed. A scientific calculator is expected for every paper.
+
+**What angle mode should a calculator be in for trigonometry?**
+Degrees. Check the angle unit before any trigonometry, and use the inverse function, such as tan⁻¹, to find a missing angle.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA: section 3.1.1 Structure and calculation, references N1 to N5 and N10.

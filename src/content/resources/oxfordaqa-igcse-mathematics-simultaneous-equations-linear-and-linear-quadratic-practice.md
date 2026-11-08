@@ -180,6 +180,20 @@ y = x + 1
 * Find your weak spots with [all free 10-minute diagnostics](/diagnostics/)
 * Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Why do you need brackets when substituting in simultaneous equations?**
+The whole expression replaces the letter, so it must be multiplied out correctly. Without brackets, 5y with y = 3x − 4 is wrongly written as 5 × 3x − 4 instead of 5(3x − 4).
+
+**Which equation should you use to find y in a linear-quadratic pair?**
+Use the linear equation. Finding y from the quadratic can give a value that is not on the line, so pairs get matched wrongly.
+
+**How should you present the answers to a linear-quadratic pair?**
+Give matched coordinate pairs, such as x = 1, y = 3 and x = −2, y = 0. Separate lists of x-values and y-values with no pairing lose marks.
+
+**Can a graph reading earn the marks for an algebraic solution in OxfordAQA 9260?**
+No. In OxfordAQA International GCSE Mathematics (9260), if the question says "solve algebraically", a graph reading does not earn the marks; graphs give approximate solutions only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. This page follows section 3.2.3, statement A21.

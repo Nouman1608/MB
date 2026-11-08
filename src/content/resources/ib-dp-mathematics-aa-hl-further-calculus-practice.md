@@ -38,10 +38,12 @@ syllabusTopics:
 description: "12 original IB DP Maths AA HL further calculus questions on limits, integration, differential equations and Maclaurin series, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,6 +177,20 @@ Learn the methods first in the [further calculus study guide](/resources/ib-dp-m
 - Plan your final weeks with the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What are common mistakes when differentiating from first principles?**
+Dropping the "lim" notation, or letting h equal 0 before dividing, which gives 0/0. Expand f(x + h) − f(x), divide every term by h, then let h → 0.
+
+**When can you use l'Hôpital's rule?**
+Only when the limit has the form 0/0 or ∞/∞, so substitute first and state the indeterminate form. If the new limit is still indeterminate, check again before applying the rule a second time.
+
+**Should you round during Euler's method?**
+No. Keep full calculator values in each row of the table and round only the final value. A smaller step size h generally improves accuracy.
+
+**Do you need a calculator for HL further calculus in IB Maths AA?**
+HL Paper 1 allows no technology, so almost everything in this IB DP Mathematics: Analysis and Approaches unit must be possible by hand. Papers 2 and 3 require a GDC, for example to evaluate definite integrals and volumes.
 
 ## Official syllabus
 

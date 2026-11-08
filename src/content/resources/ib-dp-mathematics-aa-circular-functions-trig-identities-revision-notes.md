@@ -35,10 +35,12 @@ syllabusTopics:
 description: "Condensed IB DP Maths AA revision notes on circular functions, trig identities and equations (3.5-3.11), with method steps and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and longer worked examples, use the [circular functions study guide](/resources/ib-dp-mathematics-aa-circular-functions-trig-identities/). These notes are for the final weeks of revision.
@@ -254,6 +256,20 @@ Signs by quadrant: first, all positive; second, sin only; third, tan only; fourt
 - Decimal answers on Paper 1 where exact values are expected.
 - (HL only) Giving arccos of a negative number as a negative angle.
 - (HL only) Sign errors in cos(A + B): the sign in the middle is a minus.
+
+## Frequently asked questions
+
+**Which trig identities are SL and which are HL in IB Maths AA?**
+In IB DP Mathematics: Analysis and Approaches, cos²θ + sin²θ = 1 and the double angle identities for sine and cosine are SL and HL. The reciprocal identities, compound angle identities and tan 2θ are HL only.
+
+**What is the period of a sin(bx)?**
+The period of a sin(bx) and a cos(bx) is 2π/b, and the period of tan(bx) is π/b. The value b itself is not the period.
+
+**How do you solve a trig equation like sin 2x = k in an interval?**
+Change the interval to match the argument, so 0 ≤ x ≤ 2π becomes 0 ≤ 2x ≤ 4π, list every angle in that interval with the right sign, then divide by 2. Not changing the interval misses solutions.
+
+**What are the domain and range of arccos x?**
+arccos x has domain −1 ≤ x ≤ 1 and range 0 ≤ y ≤ π, so it never gives a negative angle. arcsin x has range −π/2 to π/2, and arctan x has domain all real numbers.
 
 ## Official syllabus
 

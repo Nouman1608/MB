@@ -35,10 +35,12 @@ syllabusTopics:
 description: "Condensed IB DP Maths AA differentiation revision notes: derivative rules table, tangent and stationary point methods, and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes condense the differentiation unit of IB Diploma Programme Mathematics: Analysis and Approaches for the final weeks before the exam. For full explanations and longer worked examples, use the [differentiation study guide](/resources/ib-dp-mathematics-aa-sl-differentiation/). The notes are aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 5.1–5.4 and 5.6–5.8, which are SL content required at both SL and HL. They follow the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so they apply to the May and November 2026, 2027 and 2028 sessions.
@@ -281,6 +283,20 @@ On Paper 2 you can sketch f′ and f″ with the GDC to check the table. On Pape
 - Listing only one of two intervals of increase, or giving the x-values of the stationary points instead of an interval.
 - In optimisation, finding the value of x but not the maximum or minimum quantity the question asked for, or leaving out units.
 - On Paper 2, writing only a GDC value with no expression, so no method mark is available if the value is wrong.
+
+## Frequently asked questions
+
+**Do trig derivatives work in degrees?**
+No. The results d/dx(sin x) = cos x and d/dx(cos x) = −sin x only hold with x in radians.
+
+**What is the gradient of the normal to a curve?**
+If the tangent has gradient m, the normal has gradient −1/m (when m ≠ 0). Both lines pass through the same point on the curve.
+
+**What is the difference between a stationary point and a point of inflexion?**
+A stationary point is where f′(x) = 0. A point of inflexion is where the concavity changes, so f″(x) = 0 and f″ changes sign; it may or may not also be a stationary point.
+
+**What does the graph of f′ look like at a maximum of f?**
+At a local maximum of f, the graph of f′ crosses the x-axis from positive to negative. At a local minimum it crosses from negative to positive.
 
 ## Official syllabus
 

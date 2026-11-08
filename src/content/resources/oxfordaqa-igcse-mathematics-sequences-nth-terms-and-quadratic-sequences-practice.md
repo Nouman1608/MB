@@ -162,6 +162,20 @@ Read the [study guide](/resources/oxfordaqa-igcse-mathematics-sequences-nth-term
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What number goes in front of n in a linear nth term?**
+The common difference goes in front of n, not the first term. For a decreasing sequence the coefficient is negative, so a sequence falling by 3 each time has an nth term like 23 − 3n.
+
+**How do you show a number is not in a sequence?**
+Set the nth term equal to the number and solve for n. If n is not a positive whole number, the number is not a term, because a position must be 1, 2, 3 and so on.
+
+**How do you answer "first term greater than" questions?**
+Solve the inequality for n, then round up to the next whole number, not to the nearest. State which term it is and give its value if asked.
+
+**What is the most common mistake with quadratic sequences in OxfordAQA 9260?**
+Using the second difference as a instead of halving it. In OxfordAQA International GCSE Mathematics (9260), quadratic sequences are Extension only, and the n² coefficient is half the constant second difference.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.4, references A24, A25 and A26.

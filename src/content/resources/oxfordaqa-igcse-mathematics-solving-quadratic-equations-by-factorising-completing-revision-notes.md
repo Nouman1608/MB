@@ -235,6 +235,20 @@ Example. A rectangle has sides (x + 3) cm and x cm and area 40 cm². Then x(x + 
 
 Examiners can only give credit for what is written. Showing the factorised form, the substitution into the formula or the completed-square form makes your method clear even if a later slip occurs.
 
+## Frequently asked questions
+
+**How do you factorise a quadratic when a is not 1?**
+Find a pair of numbers with product ac and sum b, use them to split the middle term, then factorise in pairs. For example, 3x² + 11x − 4 splits using 12 and −1.
+
+**How do you choose the line to draw when solving a quadratic from a graph?**
+Rearrange the equation so one side matches the curve's expression; the other side gives the line. If the curve is y = x² − 4x − 1, then x² − 4x − 3 = 0 becomes x² − 4x − 1 = 2, so draw y = 2.
+
+**How many solutions can a quadratic equation have?**
+Two, one repeated solution, or none. With the formula, a negative value of b² − 4ac means there are no real solutions.
+
+**Are a root, a solution and an x-intercept the same thing?**
+For a quadratic equation, yes: they all refer to the x-values where y = ax² + bx + c meets y = 0. A graph gives approximate values, while algebra gives exact ones.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.3, reference A20.

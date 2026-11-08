@@ -29,10 +29,12 @@ syllabusTopics:
 description: "Study guide to IB DP Maths AA HL further functions: factor theorem, roots of polynomials, rational graphs, odd/even and inverse functions, modulus."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the HL further functions unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, and covers syllabus sections 2.12–2.16. All of this content is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -297,6 +299,23 @@ HL Paper 1 allows no technology; Papers 2 and 3 require it. So you must factoris
 ## Where to go next
 
 Use the [revision notes](/resources/ib-dp-mathematics-aa-hl-further-functions-revision-notes/) and the [practice questions](/resources/ib-dp-mathematics-aa-hl-further-functions-practice/) next. These functions reappear in the [calculus study guide](/resources/ib-dp-mathematics-aa-calculus/). See also the [syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/), [subject guide](/resources/ib-dp-mathematics-analysis-and-approaches-subject-guide/) and [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
+
+## Frequently asked questions
+
+**What is an oblique asymptote?**
+For a rational function (ax² + bx + c)/(dx + e), divide to write it as mx + k + R/(dx + e). The line y = mx + k is the oblique asymptote, because the remainder term tends to zero.
+
+**How many turning points can a polynomial have?**
+A polynomial of degree n has at most n x-intercepts and at most n − 1 turning points.
+
+**How do you find an inverse when the function is not one-to-one?**
+Restrict the domain to one side of any turning point, for example by completing the square to find it, then swap x and y and rearrange. State the domain of f⁻¹, which is the range of f.
+
+**Is this further functions unit HL only in IB Maths AA?**
+Yes. Syllabus sections 2.12 to 2.16, covering polynomials, rational functions, odd, even and inverse functions, inequalities and modulus graphs, are HL only in IB DP Mathematics: Analysis and Approaches.
+
+**Are periodic functions odd or even?**
+They can be either or neither. sin 2x is odd, cos 3x is even, and sin x + cos x is neither.
 
 ## Official syllabus
 

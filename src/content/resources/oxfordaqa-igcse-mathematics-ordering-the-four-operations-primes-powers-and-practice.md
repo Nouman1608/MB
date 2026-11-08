@@ -179,6 +179,20 @@ Triangle ABC has a right angle at B, AB = 8.4 cm and angle A = 36°. Triangle PQ
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is −2⁴ the same as (−2)⁴?**
+No. −2⁴ means work out 2⁴ first and then negate, giving −16, while (−2)⁴ = 16 because the brackets make the sign part of the base. Similarly (−2)⁵ is negative.
+
+**How do you order negative decimals?**
+Among negatives, the number further from zero is smaller, so −0.75 is smaller than −0.7. Reading the digits and ignoring the sign gives the order the wrong way round.
+
+**Why is 1 not a prime number?**
+A prime number has exactly two factors, 1 and itself, and 1 has only one factor. The only even prime is 2.
+
+**What calculator rules apply in OxfordAQA 9260 Maths?**
+OxfordAQA International GCSE Mathematics (9260) expects a scientific calculator on every paper and says you should not round in the middle of a calculation. Put brackets round the denominator of a long fraction so the calculator divides by all of it.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA: section 3.1.1 Structure and calculation, references N1 to N5 and N10.

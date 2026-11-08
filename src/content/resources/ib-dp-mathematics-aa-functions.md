@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-functions"
-description: "Function notation, transformations, and solving equations involving functions -- the toolkit the Calculus strand depends on -- for IB Diploma Programme Mathematics: Analysis and Approaches, first assessment 2021."
+description: "Study guide to the Functions strand of IB DP Mathematics: Analysis and Approaches: notation, composite and inverse functions, transformations and log pairs."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the **Functions** strand, which carries 21 hours at
@@ -170,6 +172,20 @@ transformed graph without checking how the transformation moved them.
 Treating a graphical solution (technology) and an algebraic solution as
 interchangeable without checking both give a consistent answer, since
 Paper 2 explicitly allows technology for exactly this cross-check.
+
+## Frequently asked questions
+
+**Why does Functions come before Calculus in IB Maths AA?**
+Differentiation and integration are operations performed on functions, so weaknesses in transforming, graphing or solving equations with functions resurface throughout Calculus in IB DP Mathematics: Analysis and Approaches.
+
+**Why does g(x) = x² have no inverse over all real numbers?**
+Because it is not one-to-one: two different inputs, such as 2 and −2, give the same output. Restricting the domain, for example to x ≥ 0, makes an inverse possible.
+
+**What does y = −f(x) do to a graph?**
+y = −f(x) reflects the graph in the x-axis, while y = f(−x) reflects it in the y-axis.
+
+**What is a composite function?**
+A composite function applies one function to the output of another. For example, with f(x) = 2x + 3 and g(x) = x², f(g(x)) = 2x² + 3.
 
 ## Official syllabus
 

@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Learn IB DP Maths AA integration from scratch: anti-differentiation, reverse chain rule, definite integrals, areas and kinematics, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the integration unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, and covers syllabus sections 5.5, 5.9, 5.10 and 5.11. All of it is SL content, so it is examined at both SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 SL and HL sessions.
@@ -304,6 +306,23 @@ On Paper 2, find total distance by integrating |v(t)| directly. You do not need 
 ## Next
 
 Test yourself with the [integration and kinematics revision notes](/resources/ib-dp-mathematics-aa-sl-integration-kinematics-revision-notes/), then work through the [practice questions with marked answers](/resources/ib-dp-mathematics-aa-sl-integration-kinematics-practice/). For exam technique across the course, see the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/) and the [AA subject guide](/resources/ib-dp-mathematics-analysis-and-approaches-subject-guide/). The [AA syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/) lists every section.
+
+## Frequently asked questions
+
+**Why is there a +C in an indefinite integral?**
+Differentiating any constant gives 0, so many functions share the same derivative. The constant of integration C covers all of them; a definite integral does not need it.
+
+**How do you find the area between two curves?**
+If f(x) ≥ g(x) on [a, b], the area is ∫ₐᵇ (f(x) − g(x)) dx, top curve minus bottom curve. The limits are usually the x-coordinates of the intersection points.
+
+**What is integration by inspection?**
+It is the reverse chain rule for integrals of the form ∫ k g′(x) f(g(x)) dx: spot an inner function g(x) whose derivative, up to a constant, is also present, then integrate directly.
+
+**How do you find total distance on a GDC?**
+Integrate |v(t)| directly between the time limits. You do not need to find where v = 0 first, but you should still write ∫|v(t)| dt with its limits.
+
+**Can you integrate 3/x² as 3 ln(x²)?**
+No. Rewrite it as 3x⁻² and use the power rule. Only x⁻¹ integrates to a logarithm.
 
 ## Official syllabus
 

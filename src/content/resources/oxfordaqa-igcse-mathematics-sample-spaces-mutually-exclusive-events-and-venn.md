@@ -277,6 +277,20 @@ Exactly two sports means 5 + 4 + 2 = 11 pupils, so P = 11/40.
 
 Condense this with the [revision notes](/resources/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn-practice/). Tick off S14 to S16 on the [checklist](/checklists/oxfordaqa/igcse/mathematics/), and take a [free diagnostic](/diagnostics/) for a check on the wider topic.
 
+## Frequently asked questions
+
+**What is a sample space in probability?**
+A sample space lists every outcome an experiment could have. If all those outcomes are equally likely, the probability of an event is the number of favourable outcomes divided by the total.
+
+**Are (1, 6) and (6, 1) the same outcome?**
+No. For two successive events they are different ordered outcomes and both must be counted. With replacement, repeated pairs such as (3, 3) also count.
+
+**How many cells does a grid for two spins of a 5-section spinner have?**
+It has 5 × 5 = 25 cells, not 10. Using a grid of the wrong size is a common error.
+
+**Does P(A) + P(B) being less than 1 mean the events are mutually exclusive?**
+No. Mutually exclusive means the events cannot happen together, so check whether any outcome is in both. "Even" and "prime" on a die are not mutually exclusive because 2 is in both.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA, section 3.4.3 Probability, references S14 to S16.

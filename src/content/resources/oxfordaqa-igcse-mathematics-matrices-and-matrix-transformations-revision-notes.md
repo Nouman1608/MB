@@ -243,6 +243,20 @@ An enlargement matrix (k 0 / 0 k) is a scalar multiple of I, so it gives the sam
 - Putting a column vector on the left of the matrix.
 - Not checking one point at the end, when it takes ten seconds.
 
+## Frequently asked questions
+
+**How do you multiply two matrices?**
+Use row times column: each entry of the answer is a row of the left matrix multiplied entry by entry with a column of the right matrix, then added. Multiplying entry by entry in matching positions is wrong.
+
+**What is the identity matrix?**
+The 2 × 2 identity matrix I is (1 0 / 0 1), the matrix of the "do nothing" transformation. Multiplying any 2 × 2 matrix or column by I leaves it unchanged.
+
+**What is the matrix for reflection in y = x?**
+Reflection in y = x has matrix (0 1 / 1 0), while reflection in y = −x has matrix (0 −1 / −1 0). Test with A(1, 0) to tell them apart: y = x sends it to (0, 1) and y = −x sends it to (0, −1).
+
+**Is AB the same as BA for matrices?**
+In general, no: the order of matrix multiplication matters. For "A then B" you must write BA, as covered in OxfordAQA International GCSE Mathematics (9260) reference G26.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), section 3.3.3, statements G23 to G26.

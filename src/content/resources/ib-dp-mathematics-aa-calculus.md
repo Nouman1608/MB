@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
-description: "Differentiation, integration and their applications -- the largest content strand at HL in IB Diploma Programme Mathematics: Analysis and Approaches, first assessment 2021, and how it depends on and extends the Functions strand."
+description: "Study guide to the Calculus strand of IB DP Mathematics: Analysis and Approaches: differentiation, integration, optimisation and its link to Functions."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the **Calculus** strand, the largest of the five
@@ -158,6 +160,20 @@ technology, rather than building genuine manual algebraic fluency.
   derivative, since integration reverses differentiation.
 - HL: practise multi-step Paper 3 style problems that combine Calculus
   with Functions or Geometry and trigonometry.
+
+## Frequently asked questions
+
+**What does the derivative at a point tell you?**
+The derivative at a point gives the gradient of the tangent to the curve there. It is used to find stationary points, classify them, and describe where a function is increasing or decreasing.
+
+**Are related rates problems in IB Maths AA SL?**
+No. In IB DP Mathematics: Analysis and Approaches, rates of change in context are covered at both levels, but related rates problems are HL only.
+
+**How are differentiation and integration related?**
+They are inverse operations. A question can give a derivative and ask you to recover the original function by integration, just as it can give a function and ask for its rate of change.
+
+**How is calculus used in kinematics?**
+Displacement, velocity and acceleration are linked through successive derivatives, so differentiating displacement gives velocity and differentiating velocity gives acceleration.
 
 ## Official syllabus
 

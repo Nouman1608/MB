@@ -139,6 +139,20 @@ These questions cover references A19 and A22 of section 3.2.3 of the OxfordAQA I
 - Find your gaps: [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you clear fractions in a linear equation?**
+Multiply every term on both sides by a common multiple of the denominators, including any whole-number terms. Leaving a whole-number term unmultiplied is a common lost mark.
+
+**Why do you have to define the letter when forming an equation?**
+Starting with "Let x be …", with units, shows the examiner what the unknown means and is part of a complete method. Forgetting to define the letters is a frequent reason for lost marks.
+
+**What should you check after solving an equation from a word problem?**
+Check that the answer is sensible, such as no negative lengths or parts of people, and that you have answered the actual question. Often x is only a step towards an angle, length, age or cost.
+
+**How accurate should a graph solution be in OxfordAQA 9260 Maths?**
+In OxfordAQA International GCSE Mathematics (9260), give a graph solution only to the accuracy the scale supports, often one decimal place, and say it is approximate. Giving more accuracy than the graph allows can lose the mark.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.3, references A19 and A22.

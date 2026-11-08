@@ -320,6 +320,20 @@ If the left edge had been left out of the region, only that line would turn dash
 - Shading the wrong side because the test point lay on the line itself.
 - Including an integer that sits exactly on an open circle.
 
+## Frequently asked questions
+
+**What does a double inequality such as −1 < x ≤ 4 mean?**
+It means both parts are true at once: x is greater than −1 and also less than or equal to 4. On a number line it has an open circle at −1 and a closed circle at 4.
+
+**How do you solve a quadratic inequality?**
+Rearrange so one side is zero, solve the related equation to find the critical values, and sketch the curve. For "> 0" take the parts of the curve above the x-axis, and for "< 0" take the part below it.
+
+**When do you use a dashed line or a solid line for an inequality graph?**
+Use a dashed line for < or >, where the boundary is not included, and a solid line for ≤ or ≥, where it is. In OxfordAQA International GCSE Mathematics (9260) graph regions are Extension only.
+
+**What is the answer to x² > k?**
+It is two outside regions, not a single middle range. For example, x² > 9 gives x < −3 or x > 3.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Section 3.2.3, reference A23.

@@ -235,6 +235,19 @@ Fill the centre, then the three "exactly two" regions, then the "only" regions. 
   <figcaption>Grid for four cards with the diagonal removed.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between mutually exclusive and exhaustive?**
+Mutually exclusive means the events cannot both happen (no overlap). Exhaustive means at least one of them must happen (no gap). A pair of events can be either, both or neither.
+
+**How many outcomes are there for two successive events?**
+Multiply the numbers of outcomes: m × n with replacement. Without replacement from m items, there are m × (m − 1) ordered pairs, because the diagonal of the grid is removed.
+
+**When can you add probabilities with P(A ∪ B) = P(A) + P(B)?**
+Only when A and B are mutually exclusive, as stated in OxfordAQA International GCSE Mathematics (9260) S15. If the events can both happen, adding counts the overlap twice.
+
+**How do you find a missing probability in a table?**
+Confirm the outcomes are mutually exclusive and exhaustive, add the known probabilities and subtract the total from 1. If the unknown is an expression, form an equation and solve it.
 
 ## Official syllabus
 

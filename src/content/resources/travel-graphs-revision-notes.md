@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed recall notes on distance-time and speed-time graphs, conversion graphs and rates of change for Cambridge O Level Mathematics 4024."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For worked examples, use the
@@ -118,3 +120,17 @@ Any straight-line graph's gradient is a rate: cost per item, litres per minute, 
 **Answers:** 1. Speed. 2. Distance travelled. 3. The object is moving at constant speed (zero acceleration). 4. a = 15/6 = **2.5 m/s²**; distance = ½ × 6 × 15 = **45 m**. 5. 72 ÷ 3.6 = **20 m/s**. 6. The object is speeding up, since the gradient — and so the speed — is increasing. 7. **Negative displacement** — motion in the opposite direction, still counted positively when totalling distance travelled.
 
 For exam-style questions with full mark schemes on this topic, see the [Travel Graphs practice questions](/resources/travel-graphs-practice/).
+
+## Frequently asked questions
+
+**What does the area under a distance-time graph represent?**
+Nothing useful: the area under a distance-time graph has no meaning. It is the area under a speed-time graph that gives the distance travelled.
+
+**What is the difference between a speed-time and a velocity-time graph?**
+A velocity-time graph can dip below the time axis, which means the object is moving in the opposite direction. Area above the axis is positive displacement and area below is negative.
+
+**What should you check first when reading a travel graph?**
+Read the axis labels to see which quantity is on the vertical axis before interpreting the gradient or area. Confusing distance-time with speed-time graphs is the most common source of lost marks.
+
+**What is a conversion graph?**
+A conversion graph is a straight line converting between two units, such as currencies, miles and kilometres, or °C and °F, as covered in Cambridge O Level Mathematics 4024. Read across and down, and give the units in your answer.

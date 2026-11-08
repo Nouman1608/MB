@@ -23,10 +23,12 @@ syllabusTopics:
 description: "12 original IB DP Maths AA HL complex numbers questions, calculator-free and calculator allowed, with mark-by-mark worked answers and examiner insights."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,6 +161,20 @@ Learn the methods first in the [complex numbers study guide](/resources/ib-dp-ma
 - Plan your final weeks with the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How do you find the argument of a complex number without a quadrant error?**
+Sketch the point on the Argand diagram first, find the reference angle from tan α = |b|/|a|, then place it in the correct quadrant. Using arctan(b/a) alone gives the wrong angle in the second and third quadrants.
+
+**What range should the argument be in for n-th roots?**
+Use the range the question states, such as −π < θ ≤ π, and adjust each root's argument into it after using the general formula. Arguments left outside the stated range lose marks.
+
+**What do you need for a proof by induction of De Moivre's theorem?**
+Check the case n = 1, assume the result for n = k, multiply by (cos θ + i sin θ), and use the compound angle identities to reach the n = k + 1 form, then write a conclusion. IB DP Mathematics: Analysis and Approaches HL requires this proof for positive integers.
+
+**Is complex numbers calculator-free in IB Maths AA HL?**
+HL Paper 1 is calculator-free, so conversions, division by the conjugate, De Moivre powers and roots with exact arguments must work by hand. Papers 2 and 3 require technology.
 
 ## Official syllabus
 

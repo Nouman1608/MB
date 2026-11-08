@@ -182,6 +182,20 @@ So **5 further years** [1] **[8]**
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) for help with anything that still feels uncertain.
 
+## Frequently asked questions
+
+**How do you calculate a percentage change?**
+Divide the change by the original amount and multiply by 100, then say whether it is an increase or a decrease. Dividing by the new amount is the most common error.
+
+**How do you find the original price after a percentage increase?**
+Divide the new amount by the multiplier, for example by 1.2 after a 20% rise. Taking a percentage of the final amount gives the wrong answer; reverse percentages are Extension only in OxfordAQA International GCSE Mathematics (9260).
+
+**What should you write after trial and improvement for a growth question?**
+Show the values either side of the target so it is clear which whole number of years first crosses it. Stating the answer without that evidence loses marks.
+
+**Should you round in compound interest calculations?**
+No. Keep the full multiplier and intermediate values, and round money to the nearest penny only at the end, because early rounding can change the final penny.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Spec references: N15 (3.1.2) and N20 (3.1.3).

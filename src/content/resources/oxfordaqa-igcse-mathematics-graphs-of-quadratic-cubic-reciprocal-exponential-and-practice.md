@@ -198,6 +198,23 @@ Links: [study guide](/resources/oxfordaqa-igcse-mathematics-graphs-of-quadratic-
 - Take any of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you find the turning point of a quadratic from its roots?**
+The axis of symmetry is halfway between the two roots, x = (root₁ + root₂)/2. Substitute that x-value into the equation to get the y-coordinate, and state whether it is a maximum or a minimum.
+
+**How do you get the turning point from a completed square?**
+For y = (x + p)² + q the turning point is (−p, q), so the sign inside the bracket flips. Reading (x + 4)² − 21 as a turning point at x = 4 is a common lost mark; the correct point is (−4, −21).
+
+**Why does the graph of y = k/x never meet the y-axis?**
+Because y = k/x is undefined at x = 0, as you cannot divide by zero. The graph has two separate branches that should never be joined or allowed to touch either axis.
+
+**What marks are lost when sketching graphs in OxfordAQA 9260 Maths?**
+In OxfordAQA International GCSE Mathematics (9260), sketch marks come from the labelled features, so missing intercepts or an unlabelled turning point loses credit. Other common slips are drawing y = kˣ below the x-axis, leaving out (0, 1), and joining the branches of a reciprocal graph.
+
+**How many solutions does a trig equation have between 0° and 360°?**
+Equations such as sin x = k or cos x = k (with k between −1 and 1, not at a maximum or minimum) usually have two solutions in a full turn. Sketch the wave and draw the horizontal line y = k to find both.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), section 3.2.2, references A12 and A16, published by OxfordAQA.

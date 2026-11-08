@@ -265,6 +265,20 @@ For angles of any size, take away or add 360° (or 180° for tan) until the angl
 - Leaving a sketch without labelled intercepts when the question asks for them.
 - Writing a rounded decimal for a turning point when an exact form such as 3 ± √5 is easy to get.
 
+## Frequently asked questions
+
+**How do you tell whether a quadratic graph has a maximum or a minimum?**
+Look at the sign of the x² coefficient. If it is positive the graph is U-shaped with a minimum; if it is negative it is ∩-shaped with a maximum.
+
+**What is the difference between a root, an intercept and a turning point?**
+A root is where the curve meets the x-axis, the y-intercept is where it meets the y-axis, and the turning point is the minimum or maximum of the curve. A turning point must be given as a coordinate pair.
+
+**What is the period of sin x, cos x and tan x?**
+The sine and cosine graphs repeat every 360° and stay between −1 and 1. The tangent graph repeats every 180° and has breaks at 90°, 270° and so on.
+
+**How do you find k for an exponential graph y = kˣ?**
+Substitute a known point on the curve. For example, if (2, 49) is on y = kˣ then k² = 49, so k = 7, since k is positive. Exponential graphs are Extension only in OxfordAQA International GCSE Mathematics (9260).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), section 3.2.2, references A12 and A16, published by OxfordAQA.

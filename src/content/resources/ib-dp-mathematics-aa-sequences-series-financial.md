@@ -29,10 +29,12 @@ syllabusTopics:
 description: "IB DP Maths AA study guide to standard form, arithmetic and geometric sequences, sigma notation, compound interest, depreciation and infinite sums."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the sequences, series and financial applications unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 1.1, 1.2, 1.3, 1.4 and 1.8, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -304,6 +306,23 @@ Compound interest, depreciation, real value and "least n" questions usually belo
 - [IB DP Maths AA functions study guide](/resources/ib-dp-mathematics-aa-functions/): exponential models link to geometric sequences
 - [IB DP Maths AA calculus study guide](/resources/ib-dp-mathematics-aa-calculus/)
 - [IB DP Maths AA syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/) and [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/)
+
+## Frequently asked questions
+
+**What is the difference between an arithmetic and a geometric sequence?**
+An arithmetic sequence adds the same common difference d each time, while a geometric sequence multiplies by the same common ratio r. Test with u₂ − u₁ = u₃ − u₂ or u₂/u₁ = u₃/u₂.
+
+**Which geometric sum formula should you use?**
+The two forms are equivalent. Use S_n = u₁(rⁿ − 1)/(r − 1) when r > 1 and S_n = u₁(1 − rⁿ)/(1 − r) when r < 1, to avoid negative signs.
+
+**Do you need to derive the compound interest formula in IB Maths AA?**
+No. The IB DP Mathematics: Analysis and Approaches guide says exam questions will not ask you to derive the compound interest formula, though questions may require the GDC financial package.
+
+**How is simple interest linked to arithmetic sequences?**
+Simple interest pays the same amount every year, so the balance forms an arithmetic sequence. Compound interest and depreciation by a fixed percentage are geometric.
+
+**How do you approximate a common difference from real data?**
+When data is nearly but not exactly arithmetic, a simple approach is to take the overall change between the first and last values and divide by the number of gaps.
 
 ## Official syllabus
 

@@ -310,6 +310,20 @@ In part (c) the angle between two planes is measured along a line at right angle
 
 Try the [practice questions](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry-revision-notes/) the week before your exam. Take a [diagnostic](/diagnostics/) when you want a quick check of where you stand.
 
+## Frequently asked questions
+
+**Do you need to memorise Pythagoras and the trig ratios for OxfordAQA 9260?**
+Yes. The OxfordAQA International GCSE Mathematics (9260) specification says you must know a² + b² = c² and the sin, cos and tan ratios, so learn them rather than expecting to look them up.
+
+**Which side of a right-angled triangle is the hypotenuse?**
+The hypotenuse is the side opposite the right angle and is always the longest side. The opposite faces the angle θ you are using, and the adjacent touches θ and is not the hypotenuse.
+
+**Can you use Pythagoras' theorem on any triangle?**
+No. It only works in a right-angled triangle. For a figure without a right angle, look for one or add a perpendicular line to make one.
+
+**How do you rearrange a trig equation when the unknown is on the bottom?**
+Swap the unknown and the trig value. For example, if cos 40° = 15/h then h = 15 ÷ cos 40°.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.2 Mensuration and calculation, statement G19.

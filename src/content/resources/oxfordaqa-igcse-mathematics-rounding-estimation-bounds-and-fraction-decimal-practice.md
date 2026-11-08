@@ -162,6 +162,20 @@ Links: [study guide](/resources/oxfordaqa-igcse-mathematics-rounding-estimation-
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your next weak point.
 - [Book a free trial class](/trial/) if you want to go through these with a teacher.
 
+## Frequently asked questions
+
+**Should you keep trailing zeros when rounding?**
+Yes. Zeros that show the accuracy must stay, so 7.9996 to 3 decimal places is 8.000, not 8. Dropping a trailing zero is a common lost mark.
+
+**How do you write an error interval?**
+Use ≤ at the lower bound and < at the upper bound, because the lower end is included and the upper end is not. For 530 to the nearest 10, the interval is 525 ≤ x < 535.
+
+**Do you need to show working in an estimation question?**
+Yes. Show the rounded numbers you used, usually to one significant figure, then the calculation with them. An answer without the rounded values does not show the method.
+
+**Are bounds calculations Core or Extension in OxfordAQA 9260?**
+In OxfordAQA International GCSE Mathematics (9260), rounding, limits of accuracy and estimation (N11) are Core, while calculating with upper and lower bounds is Extension only. Converting recurring decimals to fractions (N12) is also Extension only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.1.1 (N11) and 3.1.2 (N12, N13, N14).

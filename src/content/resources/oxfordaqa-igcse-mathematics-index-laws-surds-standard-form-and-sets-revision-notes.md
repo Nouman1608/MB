@@ -277,6 +277,19 @@ Try these without looking at the answers. Questions 4 to 7 are Extension only.
   <figcaption>3√12 + √75 = 6√3 + 5√3 = 11√3: only like surds add.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the index laws for multiplying and dividing powers?**
+For the same base, aᵐ × aⁿ = aᵐ⁺ⁿ and aᵐ ÷ aⁿ = aᵐ⁻ⁿ. The laws need the same base, so 2⁴ × 3⁴ cannot be combined by adding indices.
+
+**How do you rationalise a denominator with two terms?**
+Multiply the top and bottom by the conjugate. For a denominator of 4 + √3, multiply by 4 − √3, giving a denominator of 16 − 3 = 13, because (a + √b)(a − √b) = a² − b.
+
+**How do you fill in a Venn diagram problem?**
+Start with the central region (all sets), then the pairs-only regions by subtraction, then the single-set regions, and finally the outside region. Check that all regions add up to n(ξ).
+
+**How do you solve an equation like 2^(x+1) = 1/16?**
+Write both sides as powers of the same base, then equate the indices. Here 1/16 = 2⁻⁴, so x + 1 = −4 and x = −5.
 
 ## Official syllabus
 

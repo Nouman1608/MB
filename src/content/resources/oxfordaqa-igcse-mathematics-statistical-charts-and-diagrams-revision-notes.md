@@ -297,6 +297,20 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
 - Comparing box plots by describing the shape only. Quote a median and a spread, with the figures.
 - Putting axis scales on a graph that do not use most of the grid, or have uneven steps.
 
+## Frequently asked questions
+
+**How do you work out pie chart angles?**
+Angle = (frequency ÷ total) × 360°. Add the angles to check they total 360° before drawing.
+
+**What is frequency density?**
+Frequency density is frequency ÷ class width, and it is the bar height in a histogram with unequal classes. Multiply frequency density by class width to get the frequency back.
+
+**How do you find the median from a cumulative frequency graph?**
+Read across from n ÷ 2 on the vertical (cumulative frequency) axis to the curve, then down to the horizontal axis. Use n ÷ 4 and 3n ÷ 4 for the lower and upper quartiles.
+
+**What is the difference between a bar chart and a histogram?**
+A bar chart has gaps between bars and shows categories or discrete values. A histogram has no gaps and shows grouped continuous data.
+
 ## Official syllabus
 
 Specification used: Version 5.1 of the OxfordAQA specification for International GCSE Mathematics (9260), which is for exams May/June 2018 onwards. Section 3.4.1, Presentation and analysis, reference S4.

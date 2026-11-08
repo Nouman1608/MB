@@ -35,10 +35,12 @@ syllabusTopics:
 description: "IB Maths AA study guide to straight lines, functions, composites, inverses and quadratics (sections 2.1-2.7), with fully worked examples."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the first seven subtopics of the Functions topic in IB Diploma Programme Mathematics: Analysis and Approaches. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 2.1–2.7, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -291,6 +293,23 @@ Paper 1 allows no technology. Paper 2 requires it (and at HL, so does Paper 3). 
 ## Next steps
 
 Condense this into the [revision notes](/resources/ib-dp-mathematics-aa-sl-lines-functions-quadratics-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-aa-sl-lines-functions-quadratics-practice/). For how the course is assessed, read the [syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/) and the [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/). These skills feed directly into the [Calculus strand](/resources/ib-dp-mathematics-aa-calculus/).
+
+## Frequently asked questions
+
+**What are the three forms of a quadratic function?**
+Expanded form ax² + bx + c shows the y-intercept, factorised form a(x − p)(x − q) shows the x-intercepts, and vertex form a(x − h)² + k shows the vertex (h, k). IB DP Mathematics: Analysis and Approaches expects you to change between them.
+
+**What does (f ∘ g)(x) mean?**
+(f ∘ g)(x) = f(g(x)): apply g first, then f. The order matters, so f ∘ g and g ∘ f are usually different.
+
+**When does an inverse function exist?**
+Only when the function is one-to-one on its domain. A quadratic needs its domain restricted to one side of the vertex before it has an inverse.
+
+**How is an inverse graph related to the original?**
+The graph of y = f⁻¹(x) is the reflection of y = f(x) in the line y = x. Solving f(x) = 10 is the same as finding f⁻¹(10).
+
+**What is the formula for the axis of symmetry of a parabola?**
+For f(x) = ax² + bx + c, the axis of symmetry is x = −b/(2a). The parabola opens upwards if a > 0 and downwards if a < 0.
 
 ## Official syllabus
 

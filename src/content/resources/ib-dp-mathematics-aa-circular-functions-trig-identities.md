@@ -35,10 +35,12 @@ syllabusTopics:
 description: "Study guide to IB DP Maths AA sections 3.5-3.11: the unit circle, trig identities, circular function graphs and trig equations, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the circular functions unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 3.5–3.11. Sections 3.5–3.8 are for SL and HL; sections 3.9–3.11 are HL only (AHL) and are labelled as such. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -310,6 +312,23 @@ These results let you write a solution set quickly. If sin x = k has one solutio
 ## Where to go next
 
 Review the unit with the [circular functions revision notes](/resources/ib-dp-mathematics-aa-circular-functions-trig-identities-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-aa-circular-functions-trig-identities-practice/). Transformations of graphs are covered in the [AA functions guide](/resources/ib-dp-mathematics-aa-functions/), and the Calculus strand in the [AA calculus guide](/resources/ib-dp-mathematics-aa-calculus/). For the whole course, see the [AA syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/).
+
+## Frequently asked questions
+
+**How are sin θ and cos θ defined on the unit circle?**
+Rotate a radius of a unit circle anticlockwise from the positive x-axis through angle θ. The point it reaches is (cos θ, sin θ), so cos θ is the x-coordinate, sin θ is the y-coordinate and tan θ is the gradient of the radius.
+
+**What is the ambiguous case of the sine rule?**
+When you know two sides and a non-included angle, the sine rule can give two angles, θ and 180° − θ. Both are valid if each, added to the given angle, is less than 180°.
+
+**Is the general solution of a trig equation required in IB Maths AA?**
+No. The IB DP Mathematics: Analysis and Approaches guide requires solutions in a finite interval, and the general solution is not required.
+
+**How do you build a trig model from a real-life context?**
+In f(x) = a sin(b(x + c)) + d, d is the mean level, a is half the range, and b comes from the period, the time for one cycle, as 2π/b. Contexts include tides and rotating wheels.
+
+**Which form of cos 2θ should you use?**
+Choose the form that matches what you know: cos²θ − sin²θ, 2cos²θ − 1 or 1 − 2sin²θ. Given only sin θ, use 1 − 2sin²θ.
 
 ## Official syllabus
 

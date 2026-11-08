@@ -282,6 +282,20 @@ The shortest distance is about **6.1 km**. A check by calculation: 8 × cos 40°
 
 Move on to the [revision notes](/resources/oxfordaqa-igcse-mathematics-scale-drawings-bearings-constructions-and-loci-revision-notes/) to compress this, then try the [practice set](/resources/oxfordaqa-igcse-mathematics-scale-drawings-bearings-constructions-and-loci-practice/).
 
+## Frequently asked questions
+
+**What are the eight compass point bearings?**
+N is 000°, NE 045°, E 090°, SE 135°, S 180°, SW 225°, W 270° and NW 315°. OxfordAQA International GCSE Mathematics (9260) G12 expects both compass points and three-figure bearings.
+
+**How do you construct a 60° angle with compasses?**
+Draw an arc centred at P cutting the line at X, then with the same width draw an arc centred at X cutting the first arc at Z. Join P to Z; triangle PXZ is equilateral, so the angle is 60°.
+
+**What shape is the locus of points a fixed distance from a line segment?**
+Two lines parallel to the segment, at that distance on either side, closed off by a semicircle at each end. A fixed distance from a point gives a circle.
+
+**How do you bisect an angle with a ruler and compasses?**
+Draw an arc centred at the vertex cutting both arms, then from those two points draw arcs of the same width that cross inside the angle. Join the vertex to the crossing point.
+
 ## Official syllabus
 
 This guide follows the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA, references G12 and G13.

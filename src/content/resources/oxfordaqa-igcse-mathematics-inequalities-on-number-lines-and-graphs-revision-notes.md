@@ -295,6 +295,20 @@ Cover the answers and try each question.
 - Counting integers on an open end, or missing one at a closed end.
 - Shading without a test point and ending up on the wrong side.
 
+## Frequently asked questions
+
+**How do you solve a double inequality like −2 ≤ 3x + 1 < 13?**
+Do the same operation to all three parts at once. Subtracting 1 gives −3 ≤ 3x < 12, and dividing by 3 gives −1 ≤ x < 4.
+
+**What is the solution of (x − p)(x − q) > 0?**
+With roots p < q, the solution is x < p or x > q, which is two separate ranges. A "less than" quadratic inequality, (x − p)(x − q) < 0, gives the single range p < x < q.
+
+**What do "at least" and "at most" mean as inequality symbols?**
+"At least" and "no less than" mean ≥, while "at most" and "no more than" mean ≤. "Between 3 and 8, not including either" is 3 < x < 8.
+
+**How do you know which side of a line to shade for an inequality?**
+Test a point that is not on the boundary line, often (0, 0). If it makes the inequality true, the region is on that side; if false, it is on the other side. This is Extension only in OxfordAQA International GCSE Mathematics (9260).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Section 3.2.3, reference A23.

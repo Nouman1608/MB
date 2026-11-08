@@ -193,6 +193,20 @@ These questions are for OxfordAQA International GCSE Mathematics (9260), specifi
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why must a sample space list equally likely outcomes?**
+Probability = favourable ÷ total only works when every listed outcome is equally likely. Listing one outcome per colour when the colours have different numbers of counters gives wrong probabilities.
+
+**Do you need to give a reason when saying events are mutually exclusive?**
+Yes. A short reason, such as "no outcome is in both events", supports the claim. Stating "mutually exclusive" with no reason, or adding probabilities for events that overlap, loses marks.
+
+**What is the most common Venn diagram mistake?**
+Writing the circle totals straight into the circles instead of the "only" and "both" values. Fill the overlap first, subtract it to get the "only" regions, and remember the "neither" region outside the circles.
+
+**Should a Venn diagram probability answer be a count or a fraction?**
+Read the question: if it asks for a probability, divide the count by the total, such as 21/50. Giving the count alone loses the mark in OxfordAQA International GCSE Mathematics (9260).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA, section 3.4.3 Probability, references S14 to S16.

@@ -289,6 +289,20 @@ Draw on squared paper to a stated scale. Put the plan above or below the front e
 - Mixing up the left and right order of a side elevation.
 - Forgetting units, or giving the dimensions without labelling a drawn view.
 
+## Frequently asked questions
+
+**What is the difference between congruent and similar shapes?**
+Congruent shapes are the same shape and size, so the scale factor is 1; flips and turns are allowed. Similar shapes have the same shape but may differ in size, with matching angles equal and matching lengths in one ratio.
+
+**How many faces, edges and vertices does a prism have?**
+A prism with an n-sided cross-section has n + 2 faces, 3n edges and 2n vertices. A pyramid with an n-sided base has n + 1 faces, 2n edges and n + 1 vertices.
+
+**Is the curved surface of a cylinder a face?**
+No. A face is a flat surface, so a cylinder has 2 flat circular faces and 1 curved surface, with 2 curved edges and no vertices.
+
+**How do you draw elevations from a plan of a cube model?**
+For the front elevation, take the largest number in each column of the plan; for a side elevation, take the largest number in each row. Constructing plans and elevations is Extension only in OxfordAQA International GCSE Mathematics (9260).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1, references G6, G7, G10 and G11.

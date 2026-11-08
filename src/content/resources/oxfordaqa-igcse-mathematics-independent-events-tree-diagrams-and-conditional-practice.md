@@ -177,6 +177,20 @@ One member is picked at random.
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Do you add or multiply probabilities on a tree diagram?**
+Multiply the probabilities along one path to get that outcome, then add the results of separate paths that match the question. Adding along a branch or multiplying across separate paths are both common errors.
+
+**How do you work out "at least one" probability questions?**
+Use 1 − P(none), where P(none) is found by multiplying the complements. Listing every path that gives at least one success is longer and makes it easy to miss a case.
+
+**How do you show two events are independent?**
+Multiply P(A) by P(B) and compare the result with P(A ∩ B); if they match, the events are independent. Stating "independent" without showing this product comparison loses marks.
+
+**Are tree diagrams and conditional probability Core or Extension in OxfordAQA 9260?**
+In OxfordAQA International GCSE Mathematics (9260), independent combined events with tree diagrams (S17) and conditional probability (S18) are both Extension only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. These questions follow section 3.4.3 Probability, statements S17 and S18.

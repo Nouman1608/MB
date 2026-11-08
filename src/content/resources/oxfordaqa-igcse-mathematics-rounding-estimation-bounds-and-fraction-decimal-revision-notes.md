@@ -301,6 +301,20 @@ Reminder: 18 minutes of 1 hour = 18/60 = 3/10 = 30%. For 85 cm compared with 2.5
 - Reversing the roles in a "fraction of another" question.
 - Forgetting to change hours to minutes (or metres to centimetres) first.
 
+## Frequently asked questions
+
+**What is the difference between decimal places and significant figures?**
+Decimal places are counted from the decimal point. Significant figures are counted from the first digit that is not zero, which matters for numbers such as 0.072.
+
+**Which bounds do you use for a − b and a ÷ b?**
+For the upper bound of a − b use upper a − lower b, and for the upper bound of a ÷ b use upper a ÷ lower b. The lower bounds use the opposite ends: lower a − upper b and lower a ÷ upper b.
+
+**How do you convert a recurring decimal to a fraction?**
+Let x equal the decimal, multiply by 10, 100 or 1000 so the repeating part lines up in two equations, subtract to remove the repeat, then solve for x and simplify.
+
+**How do you write one quantity as a percentage of another?**
+Put both quantities in the same unit, write the first over the second (the one after "of"), and multiply by 100. Answers above 100% are acceptable.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.1.1 (N11) and 3.1.2 (N12, N13, N14).
