@@ -219,6 +219,20 @@ A micrometer measuring a wire shows 1.5 mm on the sleeve and the thimble line at
 
 Do the [practice set](/resources/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another-practice/) under timed conditions, then use the [revision notes](/resources/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another-revision-notes/) to fix the gaps.
 
+## Frequently asked questions
+
+**How is Unit 3 assessed in Edexcel IAL Physics?**
+Unit 3 is an International AS unit examined by a written paper of 1 hour 20 minutes worth 50 marks. At least 20 marks are for mathematics at Level 2 or above.
+
+**Do you carry out the experiment in the Unit 3 planning question?**
+No. You plan an experiment that Pearson sets without carrying it out, covering apparatus, measurement, controls, safety, use of data, uncertainty and context.
+
+**How many significant figures should processed values have?**
+The specification says the number of significant figures should usually match the instrument with the fewest in its reading, and that processed values are usually given to 3 significant figures.
+
+**Where is processing results covered?**
+Processing results is section 3.5 of the specification and has its own pages; this guide covers sections 3.3 Planning and 3.4 Implementation and measurements.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics, specification Issue 3 (July 2021), Pearson Education Limited: Unit 3 sections 3.3 and 3.4, with Appendix 10 on uncertainties and practical work.

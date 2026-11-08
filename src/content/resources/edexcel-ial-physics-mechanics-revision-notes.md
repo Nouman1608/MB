@@ -168,3 +168,16 @@ Related: [Mechanics practice questions](/resources/edexcel-ial-physics-mechanics
   <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does a velocity-time graph show in Edexcel IAL Physics?**
+The gradient of a velocity-time graph gives the acceleration and the area under it gives the displacement. On a displacement-time graph, the gradient gives the velocity.
+
+**Is impulse part of Unit 1 in Edexcel IAL Physics?**
+No. Unit 1 needs p = mv and conservation of linear momentum in one dimension. Impulse, FΔt = Δp, is listed under Unit 4 topic 4.3 Further Mechanics.
+
+**What is Core Practical 1 in Edexcel IAL Physics?**
+Core Practical 1 determines the acceleration of a freely-falling object, measuring g with light gates or strobe or video photography. The result can be compared with the standard value of 9.81 m s⁻².
+
+**What is special about a pair of Newton's third law forces?**
+The two forces are equal and opposite, act on different bodies and are of the same type.

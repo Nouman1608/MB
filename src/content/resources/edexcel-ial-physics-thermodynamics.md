@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "thermodynamics-edexcel"
-description: "Specific heat capacity, specific latent heat, internal energy, absolute zero and the ideal gas equation for sub-topic 5.3 of Pearson Edexcel International A Level Physics (YPH11), Unit 5."
+description: "Specific heat capacity, latent heat, internal energy, absolute zero, ideal gases and kinetic theory: sub-topic 5.3 of Edexcel IAL Physics (YPH11), Unit 5."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -207,6 +209,20 @@ potential energy as a whole body.
 - Define internal energy and absolute zero, and relate average molecular kinetic energy to absolute temperature.
 - Use pV = NkT and describe CORE PRACTICAL 14 (pressure-volume relationship).
 - Derive and use ½mc̄² = (3/2)kT.
+
+## Frequently asked questions
+
+**How is Unit 5 assessed in Edexcel IAL Physics?**
+Unit 5 is a compulsory, externally assessed IA2 unit, examined by a 1 hour 45 minute paper worth 90 marks.
+
+**When should ΔE = mcΔθ be used instead of ΔE = LΔm?**
+Use ΔE = mcΔθ when the temperature changes, and ΔE = LΔm when a substance changes state at constant temperature. The two must never be added together for the same energy transfer.
+
+**When do real gases behave most like an ideal gas?**
+At low pressure and high temperature, where the molecules are far apart, so their own volume and mutual attractions are negligible.
+
+**Can the ideal gas equation be written in moles?**
+Yes. As well as pV = NkT for N molecules, it can be written pV = nRT, with n in moles and R = 8.31 J mol⁻¹ K⁻¹.
 
 ## Related resources
 

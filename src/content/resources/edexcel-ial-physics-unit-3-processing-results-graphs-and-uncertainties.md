@@ -239,6 +239,20 @@ Other realistic modifications:
 
 Finish with the [practice questions](/resources/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties-practice/), then use the [revision notes](/resources/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties-revision-notes/) for quick recall.
 
+## Frequently asked questions
+
+**How long is the Edexcel IAL Unit 3 exam, and can I use a calculator?**
+The specification gives the assessment of Unit 3 as 1 hour and 20 minutes and says that calculators may be used in the examination.
+
+**Who collects the results in the processing results part of Unit 3?**
+You are given results collected by a more-experienced student, and your task is to process them.
+
+**Do leading zeros count as significant figures?**
+No. Zeros that only place the decimal point do not count, so 0.0046 has 2 s.f. A trailing zero after the decimal point does count, so 0.250 has 3 s.f.
+
+**How does a systematic error show up on a graph?**
+It shows as an intercept that should be zero but is not, or as a line parallel to the expected one.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics (YPH11), Specification, Issue 3, published by Pearson Education Limited. Section 3.5 Processing Results, within Unit 3: Practical Skills in Physics I.

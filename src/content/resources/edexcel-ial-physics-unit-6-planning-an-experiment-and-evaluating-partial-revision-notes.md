@@ -250,6 +250,20 @@ Fill every bracket with something specific from the question. An empty template 
 - Using a small triangle for the gradient.
 - Deleting an off-line point without checking it.
 
+## Frequently asked questions
+
+**Which experiments does Edexcel IAL Unit 6 draw on?**
+Unit 6 is an IA2 unit linked to the experiments in Units 4 and 5.
+
+**Do lg and ln give the same result for a power law?**
+Both give the same gradient, n, for a power law. Only the intercepts differ, lg k for a lg plot and ln k for an ln plot.
+
+**Should a reading that is off the line be deleted?**
+No. Re-read and repeat it, and compare it with the value the line predicts. Keep it if the repeat still sits off the line, because the physics may change there.
+
+**Should trailing zeros be kept in raw readings?**
+Yes. Raw readings keep the resolution of the instrument, including trailing zeros, and dropping them is a common way to lose marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3, Unit 6: Practical Skills in Physics II, sections 6.1 (log graphs), 6.3 and 6.4. Publisher: Pearson Education Limited.

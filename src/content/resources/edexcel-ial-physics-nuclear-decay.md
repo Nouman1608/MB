@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "nuclear-decay"
-description: "Nuclear binding energy, fusion and fission, background radiation, radiation types, and radioactive decay and half-life for sub-topic 5.4 of Pearson Edexcel International A Level Physics (YPH11), Unit 5."
+description: "Binding energy, fusion and fission, background radiation, alpha, beta and gamma, and half-life: sub-topic 5.4 of Edexcel IAL Physics (YPH11), Unit 5."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -199,6 +201,20 @@ sample follows the exponential decay law.
 - Describe CORE PRACTICAL 15 (gamma absorption by lead) and account for background radiation.
 - Write and balance nuclear equations.
 - Use A = λN, N = N0e^(-λt), A = A0e^(-λt) and t½ = ln2/λ, including graphical determination of half-life.
+
+## Frequently asked questions
+
+**Where does Nuclear Decay sit in Edexcel IAL Physics?**
+It is sub-topic 5.4, the second of four sub-topics in Unit 5: Thermodynamics, Radiation, Oscillations and Cosmology. It links closely with Unit 4's Nuclear and Particle Physics.
+
+**Why does nuclear fusion need very high temperatures and densities?**
+The nuclei are positively charged and repel each other. Very high temperatures and densities are needed to overcome this electrostatic repulsion and bring them close enough for the strong nuclear force to act.
+
+**How can half-life be found from a graph?**
+Read it directly from a graph of activity or undecayed nuclei against time, or use a straight-line log graph such as ln N = ln N₀ − λt, whose gradient is −λ, then t½ = ln2/λ.
+
+**Can you predict when a nucleus will decay?**
+No. Decay is random, so the decay time of an individual nucleus cannot be predicted; only the statistical behaviour of a large sample follows the exponential decay law.
 
 ## Related resources
 

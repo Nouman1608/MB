@@ -247,6 +247,20 @@ when calculating a moment.
 - Use ΔW = FΔs, Ek = ½mv², ΔEgrav = mgΔh, and the conservation of energy principle.
 - Use P = E/t, P = W/t, and calculate efficiency from energy or power ratios.
 
+## Frequently asked questions
+
+**How is Unit 1 assessed in Edexcel IAL Physics?**
+Unit 1, Mechanics and Materials, is a compulsory, externally assessed unit examined by a 1 hour 30 minute paper worth 80 marks.
+
+**What is the difference between a scalar and a vector?**
+A scalar has magnitude only, such as speed, distance or energy. A vector has magnitude and direction, such as velocity, displacement or force.
+
+**How is work calculated when the force is at an angle to the motion?**
+Only the component of the force along the direction of displacement does work, so the force must be resolved along the line of motion before using ΔW = FΔs.
+
+**Why is momentum conserved in a collision?**
+It follows from Newton's third law: the two bodies exert equal and opposite forces on each other during the collision, so in a closed system the total momentum before equals the total after.
+
 ## Related resources
 
 - [Unit 1: Materials](/resources/edexcel-ial-physics-materials/) — the next sub-topic, completing Unit 1

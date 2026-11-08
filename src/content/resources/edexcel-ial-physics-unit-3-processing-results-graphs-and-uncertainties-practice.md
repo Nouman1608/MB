@@ -160,6 +160,20 @@ These questions cover section 3.5 Processing Results of Unit 3: Practical Skills
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class on the [trial page](/trial/).
 
+## Frequently asked questions
+
+**Are these Edexcel IAL processing results questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board or school.
+
+**Which part of the Edexcel IAL Physics specification do these questions cover?**
+They cover section 3.5 Processing Results of Unit 3: Practical Skills in Physics I, an International AS unit in the YPH11 specification.
+
+**Do I need to combine percentage uncertainties for Edexcel IAL Unit 3?**
+No. The specification does not expect compounding of percentage uncertainties, so none of these questions asks for it.
+
+**What unit slips lose marks in processing results questions?**
+Missing units on axes and gradients, and mixing millimetres and metres in gradients and areas, are common ways to lose marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics (YPH11), Specification, Issue 3, published by Pearson Education Limited. Section 3.5 Processing Results, within Unit 3: Practical Skills in Physics I.

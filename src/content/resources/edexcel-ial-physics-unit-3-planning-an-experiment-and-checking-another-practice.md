@@ -158,6 +158,20 @@ These questions follow the Pearson Edexcel International Advanced Subsidiary/Adv
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Are these Edexcel IAL Unit 3 questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board or school.
+
+**Which specification sections do these Unit 3 questions cover?**
+They follow sections 3.3 Planning and 3.4 Implementation and measurements of the YPH11 specification. Unit 3 is an International AS unit based on the experiments of Units 1 and 2.
+
+**Where does the specification cover uncertainties?**
+Appendix 10 of the Pearson Edexcel specification, Issue 3, covers uncertainties and practical work.
+
+**What mistakes lose marks in Unit 3 planning questions?**
+Common errors include giving an instrument without its resolution, listing hazards with no precaution paired to each one, naming an improvement without the apparatus, and describing a graph without saying what the gradient represents.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics, specification Issue 3 (July 2021), Pearson Education Limited: Unit 3 sections 3.3 and 3.4, with Appendix 10 on uncertainties and practical work.
