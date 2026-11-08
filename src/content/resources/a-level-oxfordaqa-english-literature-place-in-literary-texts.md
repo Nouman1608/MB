@@ -13,6 +13,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-place-in-literary-texts-9675"
+  - qualification: "a-level"
+    topic: "unit-2-place-in-literary-texts-9675"
+    subtopic: "unit-2-section-a-9675"
+  - qualification: "a-level"
+    topic: "unit-2-place-in-literary-texts-9675"
+    subtopic: "unit-2-section-b-9675"
 description: "Place as a literary genre -- Unit 2 of OxfordAQA International AS & A-Level English Literature (9675), the second half of the International AS, covering one prose and one poetry text."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
