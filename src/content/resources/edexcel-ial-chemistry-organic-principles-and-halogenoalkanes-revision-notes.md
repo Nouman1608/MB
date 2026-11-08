@@ -247,6 +247,22 @@ Next, test yourself with the [practice questions](/resources/edexcel-ial-chemist
   <figcaption>Hydroxide takes a proton from the neighbouring carbon, the C-H pair becomes the C=C bond and Br leaves.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is a nucleophile in Edexcel IAL Chemistry?**
+A nucleophile is a species that donates a lone pair of electrons to form a new covalent bond, as defined in Topic 10A of the Edexcel IAL Chemistry specification (YCH11). Examples include OH⁻, CN⁻, NH₃ and H₂O.
+
+**What is the difference between aqueous and ethanolic potassium hydroxide with halogenoalkanes?**
+In water, hydroxide ions act as a nucleophile and substitute the halogen to give an alcohol. Dissolved in ethanol, hydroxide ions act as a base and remove H⁺, giving an alkene by elimination.
+
+**How do you classify a halogenoalkane as primary, secondary or tertiary?**
+Count the carbon atoms bonded to the carbon carrying the halogen: one (or none) is primary, two is secondary and three is tertiary. Do not count the total number of carbons in the molecule.
+
+**Are SN1 and SN2 mechanisms needed for Edexcel IAL Unit 2?**
+No. In Unit 2 you learn the substitution mechanisms of primary halogenoalkanes with hydroxide and ammonia and the tertiary > secondary > primary rate trend. SN1 and SN2 labels and their explanation belong to Unit 4.
+
+**Why is sodium hydrogencarbonate used to wash the product in Core Practical 6?**
+Sodium hydrogencarbonate is a weak base that removes leftover acid. Sodium hydroxide would hydrolyse some of the 2-chloro-2-methylpropane back to the alcohol.
 
 ## Official syllabus
 

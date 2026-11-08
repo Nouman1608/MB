@@ -242,6 +242,22 @@ The same steps work the other way round, starting from the oxidising agent, to f
   <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is an oxidation number?**
+An oxidation number is the charge an atom would have if all its bonds were ionic, with the bonding electrons assigned to the more electronegative atom. It is written with the sign first, such as +2 or −1.
+
+**What are the exceptions to the oxidation number rules for hydrogen and oxygen?**
+Hydrogen is −1 in metal hydrides such as NaH, and oxygen is −1 in peroxides such as H₂O₂. Oxygen also takes a positive value when bonded to fluorine.
+
+**What is the difference between an oxidising agent and a reducing agent?**
+An oxidising agent gains electrons and is itself reduced, so its oxidation number falls. A reducing agent loses electrons and is itself oxidised, so its oxidation number rises.
+
+**What does the Roman numeral in sodium chlorate(V) mean?**
+In an oxyanion, the Roman numeral gives the oxidation number of the central atom. In sodium chlorate(V), NaClO₃, chlorine is +5.
+
+**How do you combine two half-equations into a full ionic equation?**
+Multiply one or both half-equations so the numbers of electrons are equal, add them and cancel the electrons. Then cancel any H⁺ or H₂O on both sides and check that elements and charge balance.
 
 ## Official syllabus
 

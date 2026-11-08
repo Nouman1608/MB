@@ -192,6 +192,23 @@ P₄ + 3OH⁻ + 3H₂O → PH₃ + 3H₂PO₂⁻
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry redox questions cover?**
+They cover Topic 8A: Redox chemistry, outcomes 8.1 to 8.10 of the Pearson Edexcel International A Level Chemistry specification (YCH11). Topic 8A is International AS content in Unit 2.
+
+**How should oxidation numbers be written in an exam answer?**
+Write the sign before the number, as in +5 or −1. An oxidation number without its sign, or written like an ionic charge such as "5+", is unlikely to be accepted.
+
+**How do you check an ionic half-equation?**
+Check that atoms and total charge both balance, and that the number of electrons equals the change in oxidation number. For example, nitrogen going from +5 to −3 needs 8 electrons.
+
+**What must a classification of a redox reaction include?**
+Give the oxidation numbers that support each classification, such as which element rises and which falls. A bare label of "redox" or "disproportionation" with no numbers gives the examiner nothing to credit.
+
+**Why is a one-reactant decomposition not always disproportionation?**
+Disproportionation needs the same element in one species to be both oxidised and reduced. If two different elements change, as when nitrogen is reduced and oxygen oxidised in a nitrate decomposition, it is redox but not disproportionation.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 2, Topic 8A: Redox chemistry, outcomes 8.1 to 8.10.

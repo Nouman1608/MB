@@ -246,6 +246,23 @@ A solution containing 0.00250 mol of chlorate(V) ions, ClO₃⁻, reacts in acid
 
 Condense this guide with the [redox revision notes](/resources/edexcel-ial-chemistry-redox-chemistry-revision-notes/), then work through the [redox practice questions](/resources/edexcel-ial-chemistry-redox-chemistry-practice/), which have full worked answers. Tick off outcomes 8.1 to 8.10 on the [checklist](/checklists/edexcel/a-level/chemistry/). Then apply these ideas to [the elements of Groups 1 and 2](/resources/edexcel-ial-chemistry-the-elements-of-groups-1-and-2/) and [Group 7](/resources/edexcel-ial-chemistry-inorganic-chemistry-of-group-7/).
 
+## Frequently asked questions
+
+**Is redox chemistry AS or A2 in Edexcel International A Level Chemistry?**
+Topic 8A: Redox chemistry is International AS content in Unit 2 of the Pearson Edexcel specification (YCH11), covering outcomes 8.1 to 8.10. The rest of Topic 8, on Groups 1, 2 and 7, uses these ideas throughout.
+
+**What happens when two oxidation number rules disagree?**
+Follow the rule higher in the priority order. In a metal hydride, the rule that Group 1 and 2 metals are +1 and +2 beats the hydrogen rule, so hydrogen becomes −1.
+
+**What is disproportionation?**
+Disproportionation is a redox reaction in which the same element in a single species is both oxidised and reduced. For example, copper in Cu₂O goes to 0 in Cu and to +2 in Cu²⁺.
+
+**Why do metals usually act as reducing agents?**
+Metals have few outer-shell electrons and in general lose them to form positive ions, so their oxidation number increases. Non-metals in general gain electrons to form negative ions, so they usually act as oxidising agents.
+
+**How do you balance a half-equation in acid conditions?**
+Balance the redox element first, add water to balance oxygen and hydrogen ions to balance hydrogen. Finally add electrons to the more positive side so the charges agree.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 2, Topic 8A: Redox chemistry, outcomes 8.1 to 8.10.

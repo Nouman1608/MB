@@ -269,6 +269,23 @@ electron sea still holds them, because the bonding is not fixed between particul
 - Saying metals conduct because "ions move". In a solid metal the ions stay in the lattice; the delocalised
   electrons carry the charge.
 
+## Frequently asked questions
+
+**Which shapes must you know for Edexcel IAL Chemistry outcome 3.18?**
+Outcome 3.18 of the Pearson Edexcel specification (XCH11/YCH11) names BeCl₂, BCl₃, CH₄, NH₃, NH₄⁺, H₂O, CO₂, gaseous PCl₅, SF₆ and C₂H₄. You must know and explain their shapes and bond angles, and predict shapes of analogous species.
+
+**Why is PCl₅ described as gaseous in the specification?**
+Only gaseous PCl₅ consists of trigonal bipyramidal molecules, with bond angles of 120° and 90°. Solid phosphorus(V) chloride has a different, ionic structure.
+
+**Why is water bent with a bond angle of about 104.5°?**
+Oxygen in water has two bonding pairs and two lone pairs. Lone pair-lone pair repulsion is the strongest, so the H-O-H angle is squeezed below the 107° of NH₃.
+
+**How do you draw a three-dimensional molecular shape?**
+An ordinary line shows a bond in the plane of the page, a solid wedge a bond pointing towards you and a dashed wedge a bond pointing away. Show lone pairs on the central atom and label the bond angle.
+
+**Is there a core practical for shapes of molecules or metallic bonding?**
+No. The specification lists no core practical for parts 3C and 3D of Topic 3.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1,

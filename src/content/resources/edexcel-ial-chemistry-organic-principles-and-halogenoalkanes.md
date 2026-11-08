@@ -277,6 +277,23 @@ To identify the halogen, warm the halogenoalkane with NaOH(aq) to release the ha
 
 Condense this with the [revision notes](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-revision-notes/), then try the [practice questions](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-practice/). The next part of Topic 10 is the [alcohols guide](/resources/edexcel-ial-chemistry-alcohols/). For exam technique, see [preparing for the Edexcel IAL Chemistry units](/resources/edexcel-ial-chemistry-exam-preparation/).
 
+## Frequently asked questions
+
+**Which unit is halogenoalkanes in for Edexcel IAL Chemistry?**
+Topics 10A and 10B are International AS content examined in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols of the Pearson Edexcel specification (YCH11). The specification says that related topics in Units 4 and 5 assume this material.
+
+**Why is ethanol used in the silver nitrate hydrolysis experiment?**
+Halogenoalkanes do not mix with water, so ethanol is used as a common solvent for the halogenoalkane and the aqueous silver nitrate. Water then acts as the nucleophile and the halide ions form a silver halide precipitate.
+
+**What colours are the silver halide precipitates?**
+Silver chloride is white, silver bromide is cream and silver iodide is yellow. Ammonia confirms the halide: AgCl dissolves in dilute ammonia, AgBr in concentrated ammonia, and AgI in neither.
+
+**What happens in Core Practical 6?**
+2-methylpropan-2-ol is shaken with excess concentrated hydrochloric acid at room temperature to make 2-chloro-2-methylpropane. The product is separated, washed with sodium hydrogencarbonate and water, dried with anhydrous sodium sulfate and distilled.
+
+**Why are two moles of ammonia needed per mole of halogenoalkane?**
+One ammonia molecule acts as the nucleophile and forms RNH₃⁺. A second ammonia molecule removes H⁺ from it, giving the amine and NH₄⁺.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 2, Topic 10: Organic Chemistry: Halogenoalkanes, Alcohols and Spectra, parts 10A General principles and 10B Halogenoalkanes, outcomes 10.1 to 10.14.

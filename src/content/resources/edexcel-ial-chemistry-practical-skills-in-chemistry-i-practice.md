@@ -185,6 +185,23 @@ Data for this set: H = 1.0, C = 12.0, O = 16.0, Na = 23.0, S = 32.1, Cl = 35.5, 
 - [Book a free trial class](/trial/)
 - [Free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry Unit 3 practice questions cover?**
+They target Unit 3: Practical Skills in Chemistry I of the Pearson Edexcel International A Level Chemistry specification (YCH11), an International AS unit. The questions use the skills from Units 1 and 2, including Core Practicals 1 to 8.
+
+**Why do you double the reading uncertainty for a titre?**
+A titre is the difference between two burette readings, so each reading's uncertainty counts once. With ±0.05 cm³ per reading the titre carries ±0.10 cm³; using the single-reading value gives half the correct percentage uncertainty.
+
+**Which titres should you use to calculate a mean?**
+Use only concordant titres, usually within 0.10 cm³ of each other, and leave out the rough titre. Show which titres you chose and quote the mean to two decimal places.
+
+**How do you give the sign of ΔH from a temperature change?**
+A temperature rise means the reaction is exothermic, so ΔH is negative; a fall means it is endothermic, so ΔH is positive. Write the sign on every value and give it in kJ mol⁻¹ when asked.
+
+**How should you describe a colour change in a practical answer?**
+Give both the starting and final colours, for example "orange to green" for acidified potassium dichromate(VI). "Turns green" alone may not score.
+
 ## Official syllabus
 
 Source: the YCH11 specification, Issue 1 (September 2017), Pearson Education Limited, for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry. Unit 3: Practical Skills in Chemistry I, with Core Practicals 1 to 8 from Units 1 and 2.

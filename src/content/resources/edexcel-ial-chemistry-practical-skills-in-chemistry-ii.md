@@ -254,6 +254,23 @@ Ethanoic anhydride is corrosive and its vapour irritates, so use a fume cupboard
 - Acidifying a manganate(VII) titration with hydrochloric acid, which it oxidises.
 - Adding starch at the start of a thiosulfate titration.
 
+## Frequently asked questions
+
+**Is Edexcel IAL Chemistry Unit 6 a written paper?**
+Yes. Unit 6 is a written paper of 1 hour 20 minutes and 50 marks, worth 20% of the International A2 and 10% of the full International A Level, and all of it targets experimental skills (AO3). It has no new theory and examines Core Practicals 9 to 16 from the Pearson Edexcel specification (YCH11).
+
+**Which core practicals are in Edexcel IAL Chemistry Unit 6?**
+Core Practicals 9 to 16: iodination of propanone and an iodine clock, activation energy, Ka of a weak acid, electrochemical cells, redox titrations, a transition metal complex, analysis of unknowns and the preparation of aspirin.
+
+**Does the Edexcel IAL specification give methods for the core practicals?**
+No. The specification gives the titles of the core practicals, not their methods. The methods on this page are typical versions, and yours may differ.
+
+**Why is hydrochloric acid not used in manganate(VII) titrations?**
+Manganate(VII) oxidises chloride ions, so more titrant would be used and the result would be too high. The titration is acidified with dilute sulfuric acid instead.
+
+**How is tetraamminecopper(II) sulfate prepared?**
+Concentrated ammonia is added to copper(II) sulfate solution in a fume cupboard; the pale blue precipitate redissolves to give an intensely blue solution. Ethanol lowers the complex's solubility, so deep blue crystals form, which are filtered, washed with ethanol and dried.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Unit 6: Practical Skills in Chemistry II, with Core Practicals 9 to 16 from Units 4 and 5.

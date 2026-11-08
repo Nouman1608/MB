@@ -210,6 +210,22 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
   <figcaption>Each electrophilic substitution replaces one ring hydrogen, but the electrophile depends on the reagents. (Mixed, board-tagged)</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What evidence shows that benzene is not the Kekulé structure?**
+Thermochemical data show benzene is lower in energy than predicted for three C=C bonds, X-ray diffraction shows all six ring bonds are equal at about 0.140 nm, and the IR spectrum has no alkene C=C absorption. These are the three lines of evidence in outcome 18.1 of the Edexcel IAL Chemistry specification (YCH11).
+
+**What is a halogen carrier?**
+A halogen carrier is a catalyst, such as FeBr₃ or AlCl₃, that pulls a halide ion away from a molecule to create the electrophile. It is regenerated at the end of the reaction.
+
+**What is the difference between Friedel-Crafts alkylation and acylation?**
+Alkylation uses a halogenoalkane and adds an alkyl group to the ring. Acylation uses an acyl chloride and adds an acyl group, giving an aromatic ketone; both need anhydrous aluminium chloride.
+
+**Why is nitration of benzene kept at or below about 55 °C?**
+At higher temperatures more than one nitro group is substituted onto the ring. Keeping the temperature low gives mainly nitrobenzene.
+
+**Why do schools use methylbenzene instead of benzene in practical work?**
+Benzene is carcinogenic, so practical work uses less hazardous arenes such as methylbenzene or methoxybenzene in its place.
 
 ## Official syllabus
 

@@ -178,6 +178,23 @@ Purity = 0.242/0.250 × 100 = **96.9%** [1]
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry redox equilibria questions cover?**
+They cover Topic 16: Redox Equilibria, outcomes 16.1 to 16.19 with Core Practicals 12, 13a and 13b, of the Pearson Edexcel International A Level Chemistry specification (YCH11). Topic 16 is International A2 content in Unit 5.
+
+**Should you multiply E⦵ when a half-equation is doubled?**
+No. E⦵ values stay the same when a half-equation is multiplied to balance electrons. Only the equation is scaled, not the potential.
+
+**What standard conditions must you give when defining E⦵?**
+Give 298 K, 100 kPa for any gases and 1.00 mol dm⁻³ for each ion, measured against a standard hydrogen electrode. "Room temperature" in place of 298 K is unlikely to be accepted.
+
+**Why can a reaction with a negative E⦵cell still happen?**
+E⦵ values apply only under standard conditions. Concentrated reagents or heat change the electrode potentials, so a reaction with an E⦵cell only slightly below zero can become feasible.
+
+**How does E⦵cell relate to the equilibrium constant?**
+For reactions transferring the same number of electrons, ln K is proportional to E⦵cell. Doubling E⦵cell doubles ln K, so K is squared, not doubled.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Unit 5: Transition Metals and Organic Nitrogen Chemistry, Topic 16: Redox Equilibria, outcomes 16.1 to 16.19.

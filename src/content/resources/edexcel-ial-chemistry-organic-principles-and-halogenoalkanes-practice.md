@@ -198,6 +198,23 @@ Mass = 0.150 × 0.64 × 69.0 = **6.62 g** [1]
 - Take one of the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) for help with organic mechanisms.
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry halogenoalkane questions cover?**
+They cover Topic 10A: General principles and Topic 10B: Halogenoalkanes, outcomes 10.1 to 10.14 of the Pearson Edexcel International A Level Chemistry specification (YCH11), including Core Practicals 5 and 6. This is International AS content in Unit 2.
+
+**What must you include when drawing a nucleophilic substitution mechanism?**
+Show the Cδ+–Xδ− dipole, draw the lone pair on the nucleophile and start the curly arrow from it, and move the C–X bonding pair onto the halogen. With ammonia, a second NH₃ molecule removes H⁺ to give the amine and NH₄⁺.
+
+**How do you name a nitrile made from a halogenoalkane and cyanide?**
+Count the carbon in the CN group as part of the main chain, because the reaction lengthens the chain by one carbon. For example, CH₃CH₂CN is propanenitrile.
+
+**How do you combine yields in a two-step synthesis?**
+Multiply the yields of the steps together; two steps of 80% give an overall yield of 64%. Adding or averaging the percentages gives an overall yield that is too high.
+
+**Why is polarity a wrong explanation for the rate of halogenoalkane hydrolysis?**
+The C–Cl bond is the most polar, so polarity would predict chloroalkanes react fastest, which is the opposite of what is observed. The rate order iodo > bromo > chloro follows bond enthalpy, because the C–I bond is the weakest.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 2, Topic 10: Organic Chemistry: Halogenoalkanes, Alcohols and Spectra, parts 10A General principles and 10B Halogenoalkanes, outcomes 10.1 to 10.14.

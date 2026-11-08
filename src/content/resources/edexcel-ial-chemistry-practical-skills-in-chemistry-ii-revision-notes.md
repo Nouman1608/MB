@@ -243,6 +243,23 @@ For all eight aqua ions, see the [full aqua-ion table](/resources/edexcel-ial-ch
 - Giving a general hazard ("chemicals are dangerous") instead of a named hazard with a matching precaution.
 - Quoting a percentage yield to more significant figures than the masses justify.
 
+## Frequently asked questions
+
+**How long is the Edexcel IAL Chemistry Unit 6 exam?**
+Unit 6: Practical Skills in Chemistry II in the Edexcel IAL Chemistry specification (YCH11) is one written paper of 1 hour and 20 minutes, out of 50 marks, with every question compulsory. It tests the practical work of Units 4 and 5, including Core Practicals 9 to 16, and the tests from Units 1 and 2.
+
+**How do you find the end point in a thiosulfate-iodine titration?**
+Run in thiosulfate until the brown iodine colour fades to pale yellow, then add starch, which turns blue-black. The end point is the first drop that removes the blue-black colour completely.
+
+**What is the end point in a potassium manganate(VII) titration?**
+Manganate(VII) acts as its own indicator, so the end point is the first permanent pale pink colour. The titration is acidified with dilute sulfuric acid.
+
+**Why is a potassium nitrate salt bridge used in electrochemical cells?**
+Potassium nitrate forms no precipitate with the metal ions in the half-cells. Potassium chloride would precipitate silver chloride in a silver half-cell and change the concentration of silver ions.
+
+**How do you show an aspirin sample is pure?**
+Measure its melting temperature. A pure sample melts sharply close to the data value, while impurities lower the melting temperature and widen the range.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Unit 6: Practical Skills in Chemistry II, with Core Practicals 9 to 16 from Units 4 and 5.

@@ -178,6 +178,23 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, S = 32.1, Br = 79.9.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry arenes questions cover?**
+They cover Topic 18: Organic Chemistry – Arenes, outcomes 18.1 to 18.6 of the Pearson Edexcel International A Level Chemistry specification (YCH11). Topic 18 is in Unit 5, an International A2 unit.
+
+**How do you draw the intermediate in electrophilic substitution of benzene?**
+The attacked carbon carries both the hydrogen and the electrophile, and a partial ring spans the other five carbons with a positive charge inside it. A horseshoe drawn over all six carbons, or a missing hydrogen on the attacked carbon, loses credit.
+
+**Where should the first curly arrow start in an arene mechanism?**
+The first curly arrow starts inside the ring, from the delocalised electrons, and points to the electrophile. Starting it from a single carbon atom is a common error.
+
+**Which reagent conditions must be stated exactly for benzene reactions?**
+Nitration uses concentrated nitric acid and concentrated sulfuric acid, sulfonation uses fuming sulfuric acid, and Friedel-Crafts reactions need anhydrous aluminium chloride. Leaving out "concentrated", "fuming" or "anhydrous" makes the conditions incomplete.
+
+**How do you tell phenol from cyclohexene using bromine water?**
+Both decolourise bromine water, but only phenol also gives a white precipitate. The precipitate is the observation that separates them.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 5, Topic 18: Organic Chemistry – Arenes, outcomes 18.1 to 18.6.
