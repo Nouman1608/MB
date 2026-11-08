@@ -274,9 +274,11 @@ export const DECK_CAMBRIDGE_IGCSE_ICT: FlashcardDeck = {
     ]),
     ...sub(T8, 'esafety-0417', '8.2', [
       { n: 1, f: 'Why should personal data be kept private online?', b: 'Details such as name, address, school, photos or bank details can be used for identity theft, fraud, or to find and harm a person.' },
-      { n: 2, f: 'Give four eSafety rules for social media', b: 'Use privacy settings; use a nickname, not your real name; do not post your address, school or location; never meet someone you only know online; report abuse; think before posting.' },
-      { n: 3, f: 'What is grooming?', b: 'An adult building a false online friendship with a young person to gain their trust in order to harm them.' },
+      { n: 2, f: 'Give four eSafety rules for social media', b: 'Block and report unwanted users; be aware of the danger of meeting an online contact face to face; do not distribute inappropriate images or use inappropriate language; respect the confidentiality of other people\'s personal data.' },
       { n: 4, f: 'How can you check a website is safe for personal details?', b: 'Check that the address starts with https and shows a padlock, and only use trusted, reputable sites. The padlock shows the connection is encrypted, not that the site is honest.' },
+      { n: 5, f: 'Why is data protection legislation needed?', b: 'Organisations hold large amounts of personal data that could be misused, lost or disclosed. The law sets principles, e.g. data must be used only for its stated purpose, kept accurate, kept secure and not kept longer than necessary.' },
+      { n: 6, f: 'Personal data vs sensitive data', b: 'Personal data identifies a living person (name, address, date of birth, a photo in school uniform). Sensitive data, such as medical history, could cause more harm if disclosed. Both must be kept confidential.' },
+      { n: 7, f: 'Two eSafety rules for online gaming', b: 'Do not use your real name, and do not give out personal or financial data.' },
     ]),
     ...sub(T8, 'security-of-data-0417', '8.3', [
       { n: 1, f: 'Phishing vs pharming', b: 'Phishing: a fake email or message tricks the user into giving details, often via a link to a fake site. Pharming: malicious code redirects the user to a fake website even when the correct address is typed.' },
@@ -284,6 +286,11 @@ export const DECK_CAMBRIDGE_IGCSE_ICT: FlashcardDeck = {
       { n: 3, f: 'What does a firewall do, and what does it not do?', b: 'It monitors network traffic and blocks unauthorised or suspicious traffic in and out. It does not remove viruses; anti-malware software does that.' },
       { n: 4, f: 'Does encryption stop data being intercepted?', b: 'No. It scrambles data so that intercepted data cannot be read without the key.' },
       { n: 5, f: 'Why does two-factor authentication improve security?', b: 'A password alone is not enough: the attacker also needs a second item, such as a code sent to the user\'s phone.' },
+      { n: 6, f: 'What are the three types of card fraud named in the 0417 syllabus?', b: 'Shoulder surfing (watching someone enter a PIN), card cloning (copying a card\'s data with a skimmer to make a duplicate) and key logging (software that records keystrokes).' },
+      { n: 7, f: 'What does a digital certificate contain?', b: 'The owner\'s name, a serial number, an expiry date, the owner\'s public key and the digital signature of the certificate authority. It proves a website is genuine.' },
+      { n: 8, f: 'What does SSL do?', b: 'Secure socket layer sets up an encrypted link between the server and the client computer, so intercepted data cannot be read. Shown by https and a padlock.' },
+      { n: 9, f: 'Where is encryption used to protect data?', b: 'On hard discs, in email, in cloud storage and on HTTPS websites.' },
+      { n: 10, f: 'How do you avoid infecting a computer from a downloaded file?', b: 'Only download from trusted sources, scan the file with up-to-date anti-virus software before opening it, and do not open attachments from unknown senders.' },
     ]),
 
     // 9 Audience
