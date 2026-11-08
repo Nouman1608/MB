@@ -26,10 +26,12 @@ syllabusTopics:
 description: "IB DP Maths AA HL study guide to counting, the extended binomial theorem, partial fractions, proof and 3×3 linear systems, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches counting, the extended binomial theorem, partial fractions, proof and linear systems for IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, and covers syllabus sections 1.10, 1.11, 1.15 and 1.16. All of this content is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -341,6 +343,23 @@ The guide expects technology as well as hand methods. On Paper 2 or 3, use the s
 ## Where to go next
 
 Condense this unit with the [revision notes](/resources/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems-revision-notes/), then test it with the [practice set](/resources/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems-practice/). Partial fractions feed into the [calculus study guide](/resources/ib-dp-mathematics-aa-calculus/). For the whole course, read the [AA syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/) and the [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
+
+## Frequently asked questions
+
+**Is this unit HL only in IB Maths AA?**
+Yes. Counting principles and the extended binomial theorem (1.10), partial fractions (1.11), proof by induction and contradiction (1.15) and systems of linear equations (1.16) are all HL only in IB DP Mathematics: Analysis and Approaches.
+
+**What is the multiplication principle in counting?**
+If one choice can be made in m ways and a second, independent choice in n ways, the pair can be made in m × n ways. Separate cases are added.
+
+**How do you find partial fractions?**
+Factorise the denominator, write the identity with unknowns A and B over each linear factor, and multiply through by the denominator. Then substitute the x-values that make each bracket zero, or equate coefficients, to find A and B.
+
+**How does proof by contradiction work?**
+Assume the statement is false and deduce something impossible, which shows the statement must be true. The classic example is proving √3 is irrational by assuming √3 = p/q in lowest terms.
+
+**What is a general solution of a linear system?**
+When a system has infinitely many solutions, the general solution gives x, y and z in terms of a parameter, such as λ. On Papers 2 and 3 a GDC solver can do the arithmetic, but write down the system you entered.
 
 ## Official syllabus
 

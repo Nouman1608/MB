@@ -35,10 +35,12 @@ syllabusTopics:
 description: "12 original IB DP Maths AA HL vectors, lines and planes questions, calculator-free and calculator allowed, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -199,6 +201,20 @@ where k, m ∈ ℝ.
 - Plan with the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Why do you need different parameters when testing if two lines intersect?**
+Using one parameter for both lines forces them to be at the same parameter value, which can give a false "no intersection". Use λ for one line and μ for the other, solve two component equations, then check the third.
+
+**How do you check that a point lies on a line?**
+Find the parameter value from one component, then check that the same value works in all three components. Checking only two components is a common lost mark.
+
+**What must you show before calling two lines skew?**
+Show that the directions are not parallel (not scalar multiples) and that the lines do not intersect. Claiming "skew" without both checks loses marks.
+
+**Should vectors be written as rows or columns in the IB exam?**
+Write them as columns in IB DP Mathematics: Analysis and Approaches exams. The site pages use rows such as (2, −1, 3) only to fit a phone screen.
 
 ## Official syllabus
 

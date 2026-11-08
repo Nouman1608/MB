@@ -26,10 +26,12 @@ syllabusTopics:
 description: "12 original IB DP Maths AA HL questions on counting, binomial series, partial fractions, proof and linear systems, with mark-by-mark answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,6 +175,20 @@ where a, b ∈ ℝ.
 - See the rest of the course on the [IB DP Maths AA course hub](/boards/ib/ib-dp/mathematics-analysis-and-approaches/) and tick off the [printable syllabus checklist](/checklists/ib/ib-dp/mathematics-analysis-and-approaches/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How do you decide between permutations and combinations?**
+Ask whether order matters. If roles or positions are assigned, such as captain or first and second, use permutations; for plain groups such as a committee, use combinations.
+
+**How do you avoid double-counting in "at least one" counting questions?**
+Use the complement: total selections minus selections with none of the required type. Fixing one special person first and then choosing the rest freely counts some groups more than once.
+
+**Is a counterexample on its own enough to disprove a statement?**
+No. The IB DP Mathematics: Analysis and Approaches guide says stating the counterexample alone is not sufficient; you must also explain why it shows the statement is false.
+
+**What must an induction proof include?**
+A basis step showing P(1) is true, an assumption that P(k) is true, an inductive step showing P(k + 1) follows, and a conclusion sentence. Missing the conclusion is a common way to lose a mark.
 
 ## Official syllabus
 

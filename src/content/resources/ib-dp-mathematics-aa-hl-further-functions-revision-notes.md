@@ -29,10 +29,12 @@ syllabusTopics:
 description: "Condensed IB DP Maths AA HL revision notes on polynomials, rational functions, odd/even and inverse functions and modulus graphs, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, start with the [further functions study guide](/resources/ib-dp-mathematics-aa-hl-further-functions/).
@@ -216,6 +218,20 @@ When you can recall everything here, move on to the [further functions practice 
 - Using < where the answer needs ≤ (or the reverse), and including an asymptote value in an interval.
 - Keeping a modulus solution that makes the right-hand side negative.
 - For y = f(ax + b), translating by b after the stretch instead of by b/a.
+
+## Frequently asked questions
+
+**How do you solve a modulus equation like |f(x)| = g(x)?**
+Solve f(x) = g(x) and f(x) = −g(x) separately, then reject any solution where g(x) < 0. For |f(x)| = |g(x)| or inequalities between two moduli, squaring both sides is often quicker.
+
+**What is the difference between y = |f(x)| and y = f(|x|)?**
+For y = |f(x)|, parts of the graph below the x-axis are reflected up. For y = f(|x|), the right half is kept and mirrored in the y-axis, so the graph is always even.
+
+**What happens to a graph under y = 1/f(x)?**
+Zeros of f become vertical asymptotes, a maximum (p, q) becomes a minimum (p, 1/q) for q ≠ 0, points with y = ±1 stay fixed, and the sign stays the same.
+
+**What are self-inverse functions?**
+A function is self-inverse if f(f(x)) = x, so f⁻¹ = f and its graph is symmetric in y = x. Families include c − x, k/x and (ax + b)/(cx − a).
 
 ## Official syllabus
 

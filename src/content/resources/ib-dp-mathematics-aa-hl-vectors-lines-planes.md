@@ -35,10 +35,12 @@ syllabusTopics:
 description: "Learn IB DP Maths AA HL vectors from scratch: scalar and vector products, lines, planes, intersections and angles, with fully worked examples."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the vectors, lines and planes unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, and covers syllabus sections 3.12–3.18. All of this content is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -350,6 +352,23 @@ HL Paper 1 allows no technology; Papers 2 and 3 require it. On Paper 1 do everyt
 ## Where to go next
 
 Condense the unit with the [revision notes](/resources/ib-dp-mathematics-aa-hl-vectors-lines-planes-revision-notes/), then test yourself on the [practice questions](/resources/ib-dp-mathematics-aa-hl-vectors-lines-planes-practice/). The [AA subject guide](/resources/ib-dp-mathematics-analysis-and-approaches-subject-guide/) covers the whole course.
+
+## Frequently asked questions
+
+**What are the four ways two lines can meet in 3D?**
+Two lines can be coincident (same line), parallel (parallel directions, no common point), intersecting (one common point) or skew (not parallel and never meeting).
+
+**How do you find the angle between a line and a plane?**
+Use the line's direction b and the plane's normal n with the sine, not the cosine, because the angle with the normal is 90° minus the angle with the plane. Using cos instead of sin is a common error.
+
+**How do you find the area of a triangle with vectors?**
+The magnitude |v × w| is the area of the parallelogram with sides v and w, so the triangle's area is half of it.
+
+**Is vectors, lines and planes HL only in IB Maths AA?**
+Yes. Syllabus sections 3.12 to 3.18 of IB DP Mathematics: Analysis and Approaches, including scalar and vector products, lines and planes, are HL only.
+
+**What does it mean when three planes have no common solution?**
+Either two or more of the planes are parallel, or the planes meet in pairs in three parallel lines, forming a triangular prism shape.
 
 ## Official syllabus
 
