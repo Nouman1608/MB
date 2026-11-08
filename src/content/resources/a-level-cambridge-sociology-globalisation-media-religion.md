@@ -18,8 +18,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Paper 4 Globalisation, Media and Religion**, an A
@@ -158,6 +160,20 @@ supporting an answer with a specific, plausible contemporary example
 (rather than only textbook cases from decades past) tends to make an
 argument feel more genuinely engaged with the sociological debate
 being assessed.
+
+## Frequently asked questions
+
+**How is Cambridge 9699 Sociology Paper 4 structured?**
+Each of the three sections carries two essay questions, and candidates answer two questions in total, each from a different section. Every essay is worth 35 marks.
+
+**Which syllabus headings does Paper 4 draw on?**
+Paper 4 draws on syllabus headings 7 to 12, two per section. The lettered sections A, B and C and the numbered headings are separate systems and should not be conflated.
+
+**What are the two views of media influence in Cambridge Sociology?**
+One view sees the media as directly shaping audience attitudes and behaviour. The other sees audiences as actively selecting and interpreting media content.
+
+**Is Paper 4 taken at AS Level?**
+No. Paper 4 is A Level only. AS Level candidates study Paper 1 and Paper 2, and the full A Level adds Paper 3 and Paper 4.
 
 ## Official syllabus
 

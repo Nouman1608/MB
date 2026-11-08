@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,6 +141,20 @@ Judgement: the way schools treat pupils is a significant cause for some groups, 
 - Leaving out working or the units (percentage points) in calculations.
 - Treating girls or boys as a single group with no reference to class or ethnicity.
 - Ending an essay without a reasoned judgement.
+
+## Frequently asked questions
+
+**Which sections of Cambridge 9699 Sociology do these questions cover?**
+They cover sections 6.3 (Ethnicity and educational attainment) and 6.4 (Gender and educational attainment) of Paper 3, Education.
+
+**How should you show a gap in a gender attainment calculation?**
+Show your working and give the gap in percentage points. Leaving out the working or the units is a common way to lose marks.
+
+**How are the extended ethnicity and gender essays marked?**
+The real exam marks extended answers with levels of response, not point by point. The answers show indicative creditworthy content, and essays need a reasoned judgement.
+
+**What are common mistakes in ethnicity and attainment answers?**
+Students often write that "ethnic minorities underachieve" when some groups do better than average, ignore the item in application questions, and treat girls or boys as a single group with no reference to class or ethnicity.
 
 ## Next steps
 

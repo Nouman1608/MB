@@ -22,8 +22,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -87,3 +89,17 @@ The fourth content area (crime control, surveillance, prevention, punishment, vi
 5. Why should a crime-and-deviance answer also draw on Theory and Methods content?
 
 **Answers:** 1. Socialisation, culture and identity; social differentiation, power and stratification. 2. Consensus: crime as a failure of shared norms or a functional safety valve. Conflict: crime and its enforcement reflecting unequal power. Labelling: apparent class differences partly reflecting differential policing/labelling rather than differences in underlying behaviour. 3. Official statistics only capture crime that is reported and recorded (subject to policing practices/bias); self-report and victim studies capture experiences of crime that may never appear in official records. 4. It applies the same question — how is harmful behaviour defined, and by whom — to environmental damage caused by powerful corporate actors, showing the debate operates at an institutional/global scale too. 5. Because Paper 3 examines Crime and Deviance together with Theory and Methods in one paper, and the specification explicitly expects students to draw together knowledge and skills across the course, not treat the two halves as separate.
+
+## Frequently asked questions
+
+**What are the four content areas of AQA 7192 Crime and Deviance?**
+They are crime, deviance, social order and social control; the social distribution of crime by ethnicity, gender and social class; globalisation, media, green crime and state crime; and crime control, punishment, victims and the criminal justice system.
+
+**Are official crime statistics an accurate picture of crime?**
+Not simply. Official statistics are shaped by policing and recording practices, so they show crime that is reported and recorded rather than all crime that occurs.
+
+**Which content area of Crime and Deviance is often under-revised?**
+The fourth area, crime control, surveillance, prevention, punishment, victims and the criminal justice system, is sometimes under-revised compared with the more theory-heavy areas.
+
+**What are common mistakes in AQA Sociology Crime and Deviance answers?**
+Students often describe a theory without linking it to a core theme, cite a statistic without naming its data source, and revise green and state crime as unrelated add-ons.

@@ -33,8 +33,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Unit 1 Introducing Sociology**, one of two units
@@ -199,6 +201,20 @@ engaging with the demographic and social explanations behind it.
   define reliability, validity and representativeness.
 - Remember 3.1.3 Research Methods and Theory resurfaces in Unit 2 as
   a single extended-response question, not new content.
+
+## Frequently asked questions
+
+**How is OxfordAQA International A-level Sociology 9690 Unit 1 assessed?**
+Unit 1 is a 1 hour 45 minute exam worth 60 marks: Section A Families (40 marks) and Section B Research methods (20 marks, short questions plus a structured question based on data about an unseen issue).
+
+**Which sociologists are named for OxfordAQA 9690 Unit 1?**
+The named sociologists are Engels, Oakley, Parsons, Smart, Stacey and Therborn, and all are directly assessable.
+
+**What is the triple shift?**
+The triple shift describes women carrying out paid work, domestic work and emotional work.
+
+**Is research methods examined only in Unit 1 of OxfordAQA 9690?**
+No. Research Methods and Theory (3.1.3) is examined in Unit 1 through short and structured questions, and again in Unit 2 through a single extended-response question.
 
 ## Official syllabus
 
