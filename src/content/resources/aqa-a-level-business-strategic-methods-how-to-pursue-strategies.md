@@ -245,6 +245,23 @@ Worked example. Ibberton Hardware has online sales of £280,000 out of total sal
 - Saying overtrading means making too much profit. It is a cash-flow problem caused by growth outpacing finance.
 - Giving one-sided answers. Judgement needs a reason why the method may or may not suit this business.
 
+## Frequently asked questions
+
+**What is the difference between a merger and a takeover?**
+In a merger two businesses agree to combine, sharing costs but facing difficult integration. In a takeover the buyer gains control of the target, and a hostile bid may be resisted.
+
+**What is synergy in business growth?**
+Synergy means the combined business is worth more than the two separate businesses, often summed up as 2 + 2 = 5.
+
+**What are the four ways of becoming an innovative organisation in AQA 7132?**
+Kaizen (continuous small improvements suggested by all employees), research and development, intrapreneurship (employees acting like entrepreneurs inside the firm) and benchmarking against the best in the industry.
+
+**What does the Bartlett and Ghoshal model compare?**
+It links a firm's international approach to two pressures: the pressure for local responsiveness and the pressure for cost reduction. The transnational strategy faces high pressure on both.
+
+**Which section of the AQA Business specification covers strategic methods?**
+Section 3.9, Strategic methods: how to pursue strategies (A-level only), covering change in scale, innovation, internationalisation and digital technology.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7131 and 7132), section 3.9, "Strategic methods: how to pursue strategies" (A-level only), AQA.

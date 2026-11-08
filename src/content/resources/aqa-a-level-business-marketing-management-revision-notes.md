@@ -252,6 +252,20 @@ Use these to turn description into judgement in longer answers.
 - Giving the same recommendation for any elasticity value.
 - Writing a one-sided evaluation of digital marketing with no judgement about the firm's circumstances.
 
+## Frequently asked questions
+
+**What marketing objectives are listed in the AQA specification?**
+Sales volume, sales value, market size, market growth, sales growth, market share and brand loyalty.
+
+**What are the four segmentation methods in AQA 7132?**
+Demographic, geographic, income and behavioural segmentation.
+
+**Why should you be cautious about extrapolation?**
+Extrapolation is reliable only close to the existing data, because trends can bend, saturate or break outside the range observed.
+
+**What does a wide confidence interval suggest?**
+A wide confidence interval means the sample result is imprecise, often because the sample is small, so decisions based on it carry more risk. A larger, representative sample narrows the interval.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), section 3.3 Decision making to improve marketing performance, published by AQA.

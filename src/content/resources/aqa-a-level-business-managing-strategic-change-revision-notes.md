@@ -220,6 +220,20 @@ Uses: focus control on critical tasks, move resources from tasks with float, est
 - Writing about strategy generally when asked about planned versus emergent, or ownership versus control.
 - Making a one-sided case when asked to evaluate, with no judgement at the end.
 
+## Frequently asked questions
+
+**What are Kotter and Schlesinger's four reasons for resistance to change?**
+Parochial self-interest, misunderstanding, low tolerance of change, and different assessments of the situation.
+
+**What are Handy's four organisational cultures?**
+Power, role, task and person cultures. They should be judged as a fit or mismatch with the strategy, not as good or bad in themselves.
+
+**What are the four types of change in AQA 7132?**
+Internal, external, incremental and disruptive change. Internal and external describe where the change starts, while incremental and disruptive describe its speed and size.
+
+**What is the difference between strategic planning and contingency planning?**
+Strategic planning is the main plan, giving direction and aligning departments. Contingency planning prepares ready responses to possible shocks, allowing faster reaction, but it costs time and cannot cover everything.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7131 and 7132) specification, published by AQA: section 3.10 Managing strategic change (A-level only).
