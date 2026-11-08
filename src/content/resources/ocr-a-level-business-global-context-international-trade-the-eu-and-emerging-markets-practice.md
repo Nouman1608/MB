@@ -115,6 +115,23 @@ These questions cover the content headed Global context, International trade and
 - Quoting stem data without comparing it, or leaving out a conclusion.
 - Recommending an option without a reason why the alternative is weaker.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on Global context, International trade and free trade, The European Union, and Emerging markets and the global environment. Use them alongside OCR's own past papers.
+
+**How do you avoid mistakes in currency conversion questions?**
+Check the starting currency and show the multiply or divide step, then state the direction of the change in words. With a rate in foreign units per £1, multiply to convert pounds into the foreign currency and divide to convert back.
+
+**What should you say about an exchange rate change?**
+Say whether it helps importers or exporters, and what it does to costs, prices or profit for the business in the case. A general statement that "exchange rates affect trade" earns little.
+
+**How do you use figures in an evaluate question on global markets?**
+Compare the numbers and say which effect dominates, then reach a conclusion. Quoting stem data without comparing it, or listing good and bad effects with no comparison, scores less.
+
+**What does a "recommend and justify" answer on international expansion need?**
+A clear decision built on the calculated figures and a reason why the alternative is weaker. A recommendation backed only by general claims scores less.
+
 ## Next steps
 
 - Read the [study guide](/resources/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets/) and [revision notes](/resources/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets-revision-notes/).

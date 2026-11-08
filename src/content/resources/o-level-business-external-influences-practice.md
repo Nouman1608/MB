@@ -12,14 +12,16 @@ order: 6
 syllabusTopics:
   - qualification: "o-level"
     topic: "external-influences-on-business-activity"
-description: "Original exam-style questions with full worked answers on import quotas, tax rates, external costs and benefits, pressure groups, exchange rates and interest rates, for Cambridge O Level Business Studies (7115)."
+description: "Original practice questions with worked answers on import quotas, tax, external costs, pressure groups, exchange and interest rates for O Level Business 7115."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -97,3 +99,17 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 - Giving costs or benefits to the business itself when the question asks about external costs and benefits.
 - Saying a pressure group "puts pressure on" a business without explaining the method it uses.
 - Getting the direction of an exchange-rate effect the wrong way round.
+
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original questions written for Marlbridge, each practising a skill tested in the June 2024 Paper 12. After each answer the page points to the real question to try next from the official past papers.
+
+**Where do the examiner insights on this page come from?**
+They are paraphrased from the Cambridge O Level Business Studies 7115 June 2024 mark scheme for Paper 12 and the June 2024 Principal Examiner Report for Teachers, as the page's source notes state.
+
+**Why does repeating the question lose marks?**
+Restating the stem, such as saying a business "pays less tax" when asked how it gains from a tax cut, gives no new point. Each mark needs a benefit, cost or effect that goes beyond the words of the question.
+
+**How do you develop a short "explain" answer on an external influence?**
+Say what the change does to the business's costs, profit or cash flow, not just that something "costs more". The second mark usually comes from that consequence.

@@ -121,6 +121,23 @@ Judgement: Option B is the best balance of cost and protection, but only if the 
 - Recommending generic measures that do not fit the case.
 - Judging crisis management only on the final outcome.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on the content heading Contingency planning and crisis management. Use them alongside OCR's own past papers.
+
+**What is a common slip when judging whether a contingency plan is worth its cost?**
+Comparing the plan's cost with the full loss instead of with the reduction in expected loss. Show the multiplication and the subtraction as separate steps.
+
+**What should you check when a calculation uses weekly figures?**
+Multiply weekly figures by the number of weeks affected, and include every cost, such as both the direct recall cost and the lost sales revenue.
+
+**How do you evaluate a business's crisis management in an exam answer?**
+Judge it against criteria such as speed, communication and recovery, using evidence from the case for each. Praise or criticism without a stated criterion, or judging only by the final outcome, earns less.
+
+**How specific should a contingency plan recommendation be?**
+Very specific. Name the action, how it would work and why it fits the business, supported by the figures in the stem; generic measures that could fit any business score poorly.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-a-level-business-contingency-planning-and-crisis-management/) and use the [revision notes](/resources/ocr-a-level-business-contingency-planning-and-crisis-management-revision-notes/) for methods.

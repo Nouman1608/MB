@@ -12,14 +12,16 @@ order: 5
 syllabusTopics:
   - qualification: "o-level"
     topic: "financial-information-and-decisions"
-description: "Original exam-style questions with full worked answers on return on capital employed, gross profit margin, the current ratio, improving profit margin, users of accounts and cash-flow forecasts, for Cambridge O Level Business Studies (7115)."
+description: "Original practice questions with worked answers on ROCE, profit margins, the current ratio, cash-flow forecasts and users of accounts for O Level Business 7115."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -153,6 +155,23 @@ Evaluate whether the owner should open the third shop. **[12]**
 - Naming users such as shareholders or managers when external users are asked for.
 - Giving an action in an evaluation question with no reason, drawback or final decision.
 - Mixing profit with cash, and saying a profitable firm cannot run short of money.
+
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original questions written for Marlbridge on the finance calculations and decisions in 7115, using fictional firms. Use them alongside the official past papers available from your board.
+
+**How is a long "evaluate" question on finance marked?**
+In the real exam, a question like this is marked by levels of response, judging the analysis and a supported conclusion rather than counting points. The top level goes to answers that weigh the figures and commit to a decision with a reason.
+
+**What is the difference between net cash flow and the closing balance?**
+Net cash flow is inflows minus outflows for the month. The closing balance is the opening balance plus net cash flow, and it is carried forward as the next month's opening balance.
+
+**Does selling more improve a business's profit margin?**
+Not by itself. A margin compares profit with revenue, so improving it needs a higher price or lower costs per sale, and suggesting ways to increase sales instead is a common error.
+
+**Which finance results need a % sign?**
+Margins and ROCE are percentages, so the % sign is part of the answer. The current ratio is a number such as 1.65 or 1.65 : 1, and adding a % sign to it is marked as an error.
 
 ## Next steps
 

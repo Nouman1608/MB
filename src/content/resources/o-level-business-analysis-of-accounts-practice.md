@@ -142,6 +142,20 @@ Year 1 ratios were: gross profit margin 35%, profit margin 10%, ROCE 16%, curren
 - Naming a user without linking a ratio to a decision.
 - Reaching no judgement in a justify question.
 
+## Frequently asked questions
+
+**Does the Cambridge O Level Business Studies 7115 syllabus give the ratio formulas?**
+No. The syllabus names the ratios but does not print their formulas, so these questions use the standard textbook forms, such as gross profit margin = (gross profit ÷ revenue) × 100.
+
+**Which ratios are shown as percentages and which are not?**
+Gross profit margin, profit margin and return on capital employed are percentages. The current ratio and acid test ratio are not, so writing a % sign after them, or leaving it off the margins and ROCE, loses marks.
+
+**What is the most common divisor mistake in ratio questions?**
+Dividing gross profit by cost of sales instead of revenue, and using revenue instead of profit in ROCE. Show the gross profit step and each division so that a slip can be seen.
+
+**How do you answer a "justify" question on ratio analysis?**
+Reach a clear judgement supported by two or three relevant ratios, linked to the user's concern, and say what extra comparison would strengthen it. Listing every ratio without a conclusion usually gains less.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/o-level-business-analysis-of-accounts/) and [revision notes](/resources/o-level-business-analysis-of-accounts-revision-notes/).

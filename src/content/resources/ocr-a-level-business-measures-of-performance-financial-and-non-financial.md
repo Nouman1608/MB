@@ -219,6 +219,20 @@ To evaluate overall, combine both kinds of measure, compare over time or against
 * Dividing by the wrong figure, for example using revenue instead of capital employed for ROCE.
 * Listing non-financial measures without saying what they reveal.
 
+## Frequently asked questions
+
+**Does the OCR H431 specification give ratio formulas?**
+No. The specification does not print formulas, so the standard forms are used; if a question defines a ratio differently, use its definition.
+
+**What is the difference between gross, operating and net profit?**
+Gross profit is sales revenue minus cost of sales. Operating profit is gross profit minus operating expenses, and net profit is operating profit minus finance costs.
+
+**Is a rise in revenue the same as improved performance?**
+No. Revenue can rise while margins, cash and market share fall, so check profitability and the growth of the market before calling a rise in revenue an improvement.
+
+**Can a profitable business run out of cash?**
+Yes. Profit is revenue minus costs on the income statement, while cash flow is the actual movement of money, so a firm can earn a profit yet run short of cash when it buys assets or waits for customers to pay.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431), Version 2.1 (January 2026), Cambridge OCR; section Measures of Performance: financial and non-financial, Business objectives and strategy.

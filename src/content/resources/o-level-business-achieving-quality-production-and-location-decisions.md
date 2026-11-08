@@ -279,6 +279,23 @@ For "recommend and justify" questions, use this pattern:
 
 Next, practise on the [practice questions](/resources/o-level-business-achieving-quality-production-and-location-decisions-practice/) and test yourself with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between quality control and quality assurance?**
+Quality control checks products or services after production or at checkpoints to find faults, mainly through inspectors. Quality assurance organises the whole business so that faults are prevented at every stage, with every worker responsible.
+
+**Does improving quality always raise profit?**
+Not automatically. Getting quality right costs money too, so the question is whether the benefits, such as repeat customers and fewer refunds, outweigh the costs for that business.
+
+**Can a business use both quality control and quality assurance?**
+Yes, many businesses use both. If asked to recommend one, fit it to the business: a workshop making one-off items may rely on its owner checking each piece, while a large producer of identical items gains more from preventing faults.
+
+**What factors affect the choice of country for a business in Cambridge O Level Business 7115?**
+Factors include labour costs and skills, market size and growth, transport costs, tariffs and trade agreements, exchange rates, political stability, language and culture, government incentives and legal controls.
+
+**Is the cheapest location always the best?**
+No. Treating the cheapest site as automatically the best ignores labour skills, customers and legal controls, so use cost figures as one input and weigh the other factors too.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Business Studies 7115 syllabus, for examination in 2026 (version 2, published December 2025), sections 4.3 and 4.4.

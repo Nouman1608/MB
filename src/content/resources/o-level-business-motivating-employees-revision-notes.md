@@ -252,6 +252,20 @@ Pay is rarely the only answer, but do not dismiss it. If pay is clearly below wh
 - Recommending a bonus where employees do not control the target.
 - Giving a long list of methods instead of justifying one or two.
 
+## Frequently asked questions
+
+**What are the benefits of a well-motivated workforce in Cambridge O Level Business 7115?**
+The syllabus names three: higher labour productivity, lower absenteeism and lower labour turnover. Each lowers costs, for example through lower labour cost per item or less spending on recruitment.
+
+**What is the difference between job rotation and job enrichment?**
+Job rotation moves employees between different tasks at a similar level of responsibility. Job enrichment raises the level of responsibility and challenge in the job.
+
+**How do Taylor's and Herzberg's views on pay differ?**
+Taylor saw money as the main motivator and linked it to piece-rate pay. Herzberg treated pay as mainly a hygiene factor that prevents dissatisfaction, with motivators such as recognition and responsibility needed to create effort.
+
+**Are non-financial methods of motivation free?**
+No. Training takes time and fees, enrichment needs trust and may need extra pay, and promotion places are limited.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Business Studies (7115) syllabus for examination in 2026, section 2.1 Motivating employees (2.1.1 and 2.1.2).

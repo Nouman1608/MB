@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "people-in-business"
-description: "Original exam-style practice questions with full worked answers on motivation theory, organisational structure, leadership styles, recruitment, training and communication."
+description: "Original practice questions with worked answers on motivation, structure, leadership, recruitment, training and communication for O Level Business 7115."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -83,3 +85,14 @@ Related: [People in Business revision notes](/resources/business-people-in-busin
 **10.** A **tall structure** has **many levels of hierarchy** and a correspondingly **narrow span of control** at each level (each manager oversees relatively few staff), with a **long chain of command** from top to bottom [1] [1] [1]. A **short/flat structure** has **fewer levels of hierarchy** and a **wider span of control** (each manager oversees more staff directly), with a **shorter chain of command** [1] [1] [1].
 
 **11.** Financial method: introduce a **bonus or commission scheme** linked to performance or sales, giving staff a direct financial incentive to stay and perform well, beyond the fixed hourly wage they currently receive [1] [2]. Non-financial method: introduce **job enrichment or training with a genuine route to promotion**, giving staff a sense of progression and development that a flat hourly wage alone does not provide [1] [2]. Justification: since the workforce currently has **no motivation beyond a fixed wage**, adding either a financial incentive tied to performance or a non-financial route to development directly addresses a specific gap in their current motivation package, which is a more targeted answer than simply recommending "better pay" or "more benefits" without linking the recommendation to what is currently missing [1] [1].
+
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original questions written for Marlbridge for revision of Topic 2 People in business, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers.
+
+**What does this People in business practice set cover?**
+It covers motivation theory and methods, organisational structure, leadership styles, recruitment, dismissal and redundancy, training and communication, in short-answer, explanation and scenario questions.
+
+**How do you answer a "recommend and justify" question on people in business?**
+Name the method or style, justify it with a detail from the scenario, such as the skill and experience of the workforce or the cause of high labour turnover, and identify one limitation of your choice.

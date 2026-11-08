@@ -250,6 +250,20 @@ The four syllabus points connect, and the best answers use the links.
 - Confusing coordinating (linking departments) with commanding (giving orders).
 - Ending an evaluation without a clear judgement.
 
+## Frequently asked questions
+
+**What is the difference between a tall and a short organisational structure?**
+A tall structure has many levels of hierarchy, usually with narrow spans of control. A short, or flat, structure has few levels, usually with wide spans of control.
+
+**What is the difference between delegation and giving someone a job?**
+Delegation passes the authority to carry out a task and make decisions about it to someone lower in the hierarchy, while the manager remains accountable. Simply handing out work does not pass that authority.
+
+**Does laissez-faire leadership mean no management?**
+No. Under a laissez-faire style the leader still sets the aims but leaves staff free to decide how to reach them.
+
+**What does trust versus control mean in delegation?**
+Trust means letting staff decide for themselves, which builds motivation but may let errors go unnoticed. Control means checking and approving, which reduces errors but slows work, so the right balance depends on the employee and the task.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Business Studies (7115) syllabus for examination in 2026, subject content section 2.2 Organisation and management.

@@ -139,6 +139,23 @@ These questions cover topic 6, Accounting and financial considerations, in OCR A
 - Ignoring qualitative factors in investment decisions.
 - Using the wrong base for turnover ratios.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on topic 6, Accounting and financial considerations. Use them alongside OCR's own past papers.
+
+**How should variances be labelled?**
+Label each variance as favourable or adverse by its effect on profit, not by its arithmetic sign. Higher sales than budget is favourable, while higher costs than budget is adverse.
+
+**What base should gearing be calculated against?**
+Gearing uses capital employed, not equity alone. Using the wrong base for gearing or for turnover ratios is a common way to lose marks.
+
+**Why should you state the formula for net profit margin?**
+Practice varies on which profit figure is the numerator, so stating the formula you used makes your answer clear. Writing a bare number without the formula or working risks losing method marks.
+
+**How do you score well on an evaluate question about finance decisions?**
+Make a reasoned choice that uses the case figures, such as interest cover and gearing, and bring in qualitative factors such as control. Listing pros and cons without a judgement scores less.
+
 ## Next steps
 
 - [Revision notes](/resources/ocr-a-level-business-accounting-and-financial-considerations-revision-notes/)

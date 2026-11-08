@@ -145,6 +145,23 @@ Recommend and justify a suitable form of business organisation. **[6]**
 - Writing one-sided answers to a justify question.
 - Confusing private and public limited companies, or private and public sector.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are twelve original practice questions written for Marlbridge on sections 1.4 (Types of business organisation) and 1.5 (Business objectives and stakeholder objectives). Use them alongside the official past papers.
+
+**Is a rise in sales revenue the same as a rise in market share?**
+No. Market share depends on the business's sales compared with the whole market, so compare the growth of the firm with the growth of the market. Mixing the two up is a common error.
+
+**How do you write a stakeholder conflict answer?**
+Name two stakeholder groups, state each group's objective and explain why the two clash. Listing groups with no objectives or no conflict gains little.
+
+**How do you answer an "outline two differences" question?**
+Give pairs of linked, contrasting points, such as how shares can be sold in each type of company, rather than two separate features of one type.
+
+**How do you recommend a form of business organisation?**
+Pick a form, link it to several facts in the stem, such as the finance needed, the risk and who wants control, and weigh a rejected option.
+
 ## Next steps
 
 - Review the [revision notes](/resources/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder-revision-notes/) and the [study guide](/resources/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder/).

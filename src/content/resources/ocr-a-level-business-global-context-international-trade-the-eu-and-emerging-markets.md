@@ -227,6 +227,23 @@ An **emerging market** is a country whose economy is growing fast and industrial
 
 Next: the [practice questions](/resources/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets-practice/) and the [revision notes](/resources/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets-revision-notes/).
 
+## Frequently asked questions
+
+**What factors facilitate globalisation in OCR A Level Business H431?**
+The specification names the Internet and communication technologies, e-commerce, trade liberalisation, transport infrastructure and multinationals as factors that facilitate globalisation.
+
+**How do you convert between currencies?**
+With a rate quoted as foreign currency per £1, multiply to convert pounds into the foreign currency and divide to convert the foreign currency into pounds.
+
+**What is the difference between a tariff and a quota?**
+A tariff is a tax on imports that makes them dearer than local goods. A quota is a limit on the quantity of a good that may be imported.
+
+**What is a trading bloc?**
+A trading bloc is formed when countries agree to lower or scrap trade barriers among members, often sharing common rules or a common external tariff.
+
+**What should a business consider when trading internationally?**
+Language, culture and customs, logistics, currency and buying habits, each evaluated for the specific product and country rather than listed in general.
+
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR, for first assessment in 2017 with final assessment in summer 2027. Content covered: Global context; International trade and free trade; The European Union; Emerging markets and the global environment, within External influences.

@@ -253,6 +253,20 @@ Method for a conflict question: name the two groups, state each objective, expla
 - Using market share and growth as if they mean the same thing.
 - Forgetting that public sector bodies can still care about costs.
 
+## Frequently asked questions
+
+**What is the difference between unincorporated businesses and limited companies?**
+Sole traders and partnerships are unincorporated, so the business and its owners are treated as the same and the owners have unlimited liability. A limited company is a separate legal entity, and its shareholders have limited liability.
+
+**Is a public limited company in the public sector?**
+No. A public limited company is a private sector business whose shares can be sold to the general public. The public sector is owned and controlled by the government, for example through public corporations.
+
+**Why do business objectives change over time?**
+A new business may aim at survival in its first year, then growth once it is secure, and later profit or market share, as its situation and the market change.
+
+**How do private and public sector objectives differ?**
+Private sector enterprises usually aim for profit, growth and market share. Public sector enterprises usually aim to provide a service to everyone, keep prices affordable and protect jobs.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge International Education, sections 1.4.1 and 1.5.1 to 1.5.3.

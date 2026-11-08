@@ -256,6 +256,23 @@ Internet and social media promotion: businesses can post offers, share customer 
 - Recommending a method without giving a reason linked to the business described.
 - Listing e-commerce benefits only for the business when the question asks about consumers.
 
+## Frequently asked questions
+
+**What are the stages of the product life cycle?**
+The main stages are development, introduction, growth, maturity and decline. During development, before launch, there are no sales but money is spent.
+
+**Is mark-up the same as profit margin on the selling price?**
+No. Mark-up is based on cost: a 40% mark-up on a cost of 2.50 gives a price of 3.50 and a profit of 1.00, which is 40% of cost but only 28.6% of the selling price.
+
+**When is skimming the best pricing method?**
+Skimming suits a new product with no close rival and customers who want novelty. A new entrant in a crowded market is more likely to suit penetration or competitive pricing.
+
+**What does cost-effective promotion mean?**
+It means comparing how much extra sales each promotion method brings per dollar spent. A method can bring many extra sales yet still give a lower net gain than a cheaper one.
+
+**What are the roles of packaging?**
+Packaging protects the product in transport and storage, keeps it fresh, gives information such as ingredients and instructions, and helps promote the brand through its colours and design.
+
 ## Official syllabus
 
 This guide is aligned to the Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge International, section 3.3.

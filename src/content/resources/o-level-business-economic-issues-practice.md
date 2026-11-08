@@ -130,6 +130,23 @@ Option B: close its oldest workshop to reduce fixed costs, accepting lower outpu
 - Recommending without using the data or weighing the other option.
 - Forgetting to show the working that leads to a figure.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original practice questions written for Marlbridge on section 6.1, Economic issues. Use them alongside the official past papers.
+
+**Which figure do you divide by in a percentage change calculation?**
+Divide the change by the old figure, not the new one, then multiply by 100. Dividing by the new figure is the usual slip in growth-rate questions.
+
+**Does a rise in profit tax raise the price customers pay?**
+No. A tax on company profit does not change the shelf price, so linking it to higher prices and lower demand is a common error. A sales tax is the tax added to the price.
+
+**How do you earn the second mark on an economic effect?**
+Carry the effect through to the business in the stem, for example from higher loan costs to lower profit, or from falling sales to job cuts or unsold stock. "Sales fall" on its own is only a first step.
+
+**How do you answer a judgement question on economic issues?**
+Use the figures you have calculated, such as interest costs or falls in revenue, weigh both options and state what the decision depends on before making a clear choice.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/o-level-business-economic-issues-revision-notes/) and [study guide](/resources/o-level-business-economic-issues/).

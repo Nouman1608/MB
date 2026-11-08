@@ -247,6 +247,23 @@ The angles add to 360°. The website is the most popular single method (45%), bu
 - Forgetting that a large sample can still be biased if the wrong people are asked.
 - Stating a percentage with no unit, or reading a chart without checking its scale.
 
+## Frequently asked questions
+
+**What is the difference between primary and secondary research?**
+Primary research is new data collected first-hand for the business's own purpose, such as questionnaires, interviews and focus groups. Secondary research uses data that already exists, collected by someone else, such as government statistics.
+
+**Why do businesses use samples in market research?**
+Asking every customer is usually too slow and costly, so a business questions a sample chosen to represent the whole market. The bigger and more representative the sample, the more reliable the results.
+
+**How do you calculate a pie chart angle from survey results?**
+Angle = (number ÷ total) × 360 degrees, which is the standard form. Check that the angles add up to 360°.
+
+**Is niche marketing always better because there is less competition?**
+No. A niche faces fewer rivals, but its small market limits sales, so judge it against the business and its market.
+
+**What is a market-orientated business?**
+A market-orientated business designs its products around what market research says customers want, using research to identify needs, estimate demand and reduce the risk of a product failing.
+
 ## Official syllabus
 
 *Cambridge O Level Business Studies (7115) syllabus for examination in 2026*, published by Cambridge University Press & Assessment (Cambridge International Education), Subject content, sections 3.1.1 to 3.1.4 and 3.2.1 to 3.2.2.

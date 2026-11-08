@@ -300,6 +300,23 @@ Example: three friends plan a small design studio with modest start-up costs and
 - Treating a franchisee as an employee of the franchisor, when it owns its outlet.
 - Giving only one party's view when the question asks about both franchisor and franchisee.
 
+## Frequently asked questions
+
+**What is the difference between limited and unlimited liability?**
+With unlimited liability the owner can be forced to pay business debts from personal assets such as savings or a house. With limited liability an owner can lose only the money they put into the business.
+
+**Which types of business organisation have unlimited liability?**
+Sole traders and partners in an ordinary partnership have unlimited liability. Shareholders in private and public limited companies have limited liability, because a company is separate from its owners in law.
+
+**How is partnership profit shared?**
+Profit is shared according to the partnership agreement, often in a ratio linked to the capital each partner put in. Add the ratio parts, divide the profit by that total and multiply by each partner's share.
+
+**Why can selling shares reduce the founder's control of a company?**
+New shares increase the total number of shares, so the founder's holding becomes a smaller percentage. A founder who held a majority can lose it once enough new shares are sold to outside investors.
+
+**What must a Cambridge IGCSE Business 0264 answer on business types include?**
+Section 1.4 asks you to recommend and justify a suitable type for a given situation, so support your choice with evidence from the case and say why you rejected the other types.
+
 ## Official syllabus
 
 This page is aligned to the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), section 1.4 Types of business organisation.

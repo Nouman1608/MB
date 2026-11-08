@@ -254,6 +254,20 @@ A magazine costs 50 before sales tax. A 12% sales tax makes the shelf price 50 Ã
 - Recommending without weighing the alternative.
 - Ignoring figures provided in the stem.
 
+## Frequently asked questions
+
+**What is the difference between a percentage point and a percentage?**
+A rate moving from 5% to 8% has risen by 3 percentage points, but the interest bill on a loan at that rate rises by 60%. Treating the two as the same is a common error.
+
+**Why does the same economic change affect businesses differently?**
+Each firm's position differs: a firm with no loan is not hurt by a rise in interest rates on loans, while one with a large variable-rate loan is. Apply the change to the type of business in the question.
+
+**What is the difference between a fixed-rate and a variable-rate loan?**
+A variable-rate loan changes when market interest rates change. A fixed-rate loan stays the same for an agreed period, so the business is protected from a rise during that time.
+
+**What is GDP?**
+Gross Domestic Product is the value of goods and services produced within a country over a period, usually a year. It is not money held by the government.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115 syllabus for 2026, Cambridge University Press & Assessment (Cambridge Assessment International Education), section 6.1 Economic issues.

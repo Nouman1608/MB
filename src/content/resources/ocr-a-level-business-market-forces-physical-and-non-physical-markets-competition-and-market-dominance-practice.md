@@ -115,6 +115,23 @@ These questions cover the External influences content on market forces, physical
 - Writing balanced points but no judgement in an evaluate question.
 - Recommending an option without a justification from the case data.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on market forces, physical and non-physical markets, competition and market dominance. Use them alongside OCR's own past papers.
+
+**Should you name specific competition laws when answering regulation questions?**
+No. Describe the powers of UK regulators in general terms. Naming exact thresholds or Acts you are unsure of can cost credibility, and inventing them loses marks.
+
+**What is easy to forget when calculating online contribution?**
+Delivery or returns costs. Include every variable cost of selling online before working out contribution per unit and break-even.
+
+**What should you do after calculating a break-even point?**
+Interpret it, for example by saying which sales channel suits the expected volume. Stopping at the break-even figure leaves the comparison unfinished.
+
+**How do you evaluate competition at local, national and global levels?**
+Naming all three levels is only the start. The judgement must say which level matters most to the business in the case and why.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance-revision-notes/) and the [study guide](/resources/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance/).

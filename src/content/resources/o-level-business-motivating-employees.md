@@ -238,6 +238,23 @@ Pellingcote Care Home has 30 care assistants on a fixed hourly wage, close to th
 - Forgetting the formula and the units in productivity, absenteeism and turnover.
 - Giving only advantages and no weakness when asked to justify.
 
+## Frequently asked questions
+
+**How do you calculate the absenteeism rate?**
+Absenteeism rate = working days lost ÷ total working days available × 100. The syllabus names the idea but does not give the formula, so this is the standard form.
+
+**How do you calculate labour turnover?**
+Labour turnover = number of leavers in the year ÷ average number employed × 100. It shows the rate at which employees leave and have to be replaced.
+
+**Is motivation always the reason output rises?**
+No. Output can also rise because of new machinery or higher demand, so in a case study say that motivation is a likely reason and point to the evidence.
+
+**What are the limits of Maslow's hierarchy?**
+People do not always climb the levels in order; someone may take a poorly paid job for the work itself. Needs also differ between people and cultures.
+
+**When is commission an unsuitable payment method?**
+Commission is unsuitable for jobs where staff do not control sales, because their pay would depend on results they cannot influence.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Business Studies (7115) syllabus for examination in 2026, section 2.1 Motivating employees (2.1.1 and 2.1.2).

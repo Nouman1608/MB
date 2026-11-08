@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on markets, market forces, globalisation and PESTLE factors for OCR A Level Business (H431), External Influences Facing Businesses."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -116,6 +118,20 @@ Business Objectives and Strategic Decisions covers what a business decides inter
 - Give two facilitators of globalisation.
 - Name one advantage and one disadvantage to a UK business of not being part of the EU, the Eurozone and the Single European Market.
 - Define the difference between an ethical and a legal factor, in one sentence each.
+
+## Frequently asked questions
+
+**What is the difference between physical and non-physical markets?**
+Physical markets are traditional shops and premises, while non-physical markets are online or digital. Firms weigh the lower overheads and wider reach of digital markets against lower footfall and trust barriers.
+
+**How can market dominance arise?**
+Market dominance can arise from organic growth, mergers or acquisitions. The UK regulates dominance to protect competition and consumers, for example by blocking or placing conditions on mergers.
+
+**Are emerging markets a good opportunity for a business?**
+They offer growth opportunities but carry higher political and currency risk, so evaluate the opportunity against the risk for the specific business in the question.
+
+**Should the digital revolution be treated separately from technological factors?**
+Yes. The OCR A Level Business H431 specification treats the information age and rapid technological change as having their own opportunities and threats, so credit them separately.
 
 ## Related resources
 

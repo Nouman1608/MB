@@ -211,6 +211,20 @@ Then decide how effective it was overall, and say what depends on the time frame
 - Ignoring the size of the business when judging how affordable a plan is.
 - Giving a conclusion that repeats the question instead of answering it.
 
+## Frequently asked questions
+
+**When is a contingency plan used?**
+A contingency plan is prepared in advance and written down, then activated when an unexpected event happens. Describing it as something done after the event is a common error.
+
+**How do you calculate expected loss?**
+Expected loss = probability × loss, which is a standard way to organise the thinking rather than a formula named in the specification. Then comment on what the figure leaves out, such as lost customer trust.
+
+**Is "insurance and a backup" a good contingency plan answer?**
+Only if you say which backup, how it would work, who would trigger it and why it suits this business. The same generic answer for every business scores poorly.
+
+**Does a business's size matter when judging a contingency plan?**
+Yes. A large firm can afford specialist planning, while for a small firm even a simple plan is a real cost, though it may have less cushion if it is hit.
+
 ## Official syllabus
 
 These notes follow the *OCR A Level in Business (H431)* specification, Version 2.1 (January 2026), published by OCR, content heading Contingency planning and crisis management within Business objectives and strategy.

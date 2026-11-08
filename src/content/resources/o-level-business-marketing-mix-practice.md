@@ -150,6 +150,23 @@ These questions cover section 3.3 Marketing mix of the Cambridge O Level Busines
 - Writing about advantages to the business when the question asks about consumers.
 - Attempting PED calculations, which the syllabus says are not assessed.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original practice questions written for Marlbridge on section 3.3 Marketing mix, with invented businesses and figures. Use them alongside the official past papers.
+
+**Do you need to calculate price elasticity of demand in 7115?**
+No. The syllabus does not assess PED calculations, so a clear verbal link between a price change, the change in quantity and the effect on revenue is what is needed.
+
+**How do you identify a product life cycle stage from data?**
+Quote figures from the table, such as how fast sales are rising or falling, when naming a stage. A bare stage name without evidence from the data is less convincing.
+
+**What is the most common mistake with cost-plus pricing?**
+Applying the mark-up to the selling price instead of the cost. Show the mark-up working, because a correct-looking price with no working can earn nothing if the figure is wrong.
+
+**How do you compare distribution channels or promotion methods using figures?**
+Say whether you are judging by profit per unit or by total profit, because they can point to different options. Then support your choice with the figures you have calculated.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/o-level-business-marketing-mix/) and the [revision notes](/resources/o-level-business-marketing-mix-revision-notes/).

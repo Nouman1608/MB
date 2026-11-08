@@ -153,6 +153,23 @@ Money is in dollars. All businesses and people are invented. Where a question as
 - Writing only one side in an evaluate or justify question, or finishing with no decision.
 - Treating profit as cash. A business with profit can still have negative working capital.
 
+## Frequently asked questions
+
+**Are these questions from Cambridge IGCSE Business 0264 past papers?**
+No. They are original practice questions written for Marlbridge on sections 5.3 (Profit and loss) and 5.4 (Statement of financial position). Use them alongside the official past papers from your board or school.
+
+**How do you find a missing figure in a statement of profit or loss?**
+Rearrange the two formulas: gross profit = revenue − cost of sales, and profit = gross profit − expenses. Expenses are taken from gross profit, not from revenue, so check which line you are working from.
+
+**What should you write when a profit figure comes out negative?**
+Label it as a loss. If the question asks for an action, tie it to the figures in the case rather than giving a generic idea.
+
+**How do you answer an "analyse" question on financial statements?**
+Build a chain of reasoning from one figure to the next, for example why profit fell even though revenue rose. Describing that revenue rose and profit fell, with no link between them, is only description.
+
+**What does a "justify" question on a loan or lending decision need?**
+A clear decision with a reason that uses evidence from both statements, saying what the figures mean for the lender. Listing figures without interpreting them is incomplete.
+
 ## Next steps
 
 - Review the [revision notes](/resources/igcse-business-0264-profit-and-loss-and-statement-of-financial-position-revision-notes/) and the [study guide](/resources/igcse-business-0264-profit-and-loss-and-statement-of-financial-position/).

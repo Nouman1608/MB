@@ -248,6 +248,20 @@ Check of the calculations: 60 000 ÷ 240 000 = 0.25; 21 000 ÷ 300 000 = 0.07; 3
 </figure>
 
 
+## Frequently asked questions
+
+**How do you calculate the acid test ratio for O Level Business 7115?**
+Acid test ratio = (current assets − inventories) ÷ current liabilities, shown as a ratio such as 0.8 : 1. Inventories are removed because they are the current asset slowest and least certain to turn into cash.
+
+**How do you calculate return on capital employed?**
+ROCE = (profit ÷ capital employed) × 100. Capital employed is total assets minus current liabilities, which equals owners' capital plus non-current liabilities.
+
+**Is a high current ratio always good?**
+No. A result far above what is usual for the industry can mean cash or inventories are sitting idle, and there is no single ideal figure for every business.
+
+**Which ratios matter most to lenders and investors?**
+A lender or supplier cares most about liquidity, through the current ratio and acid test ratio, and about profit that can cover interest. An investor cares most about ROCE and profit margin.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115 syllabus for examination in 2026, Cambridge International, section 5.5.

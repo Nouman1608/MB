@@ -237,6 +237,23 @@ A good recommendation is job rotation combined with some job enrichment. Pay is 
 - Listing methods without linking them to the business in the stem.
 - Recommending a method with no reasoned judgement or limit.
 
+## Frequently asked questions
+
+**What is the difference between job rotation and job enrichment?**
+Job rotation moves workers between different tasks at the same level, which reduces boredom but adds no responsibility. Job enrichment gives workers more challenging tasks, more responsibility and more control over how they work.
+
+**How do you calculate labour turnover for Cambridge IGCSE Business 0264?**
+Labour turnover (%) = number of employees who left in the period ÷ average number employed × 100. Section 2.4 of the syllabus does not print this formula, so it is treated as the standard form.
+
+**Is a high labour turnover figure always a sign of a problem?**
+Not on its own. A figure such as 15% says little until it is compared with the business's previous figure or with similar businesses.
+
+**Why might a pay rise not motivate workers?**
+In Herzberg's two-factor theory pay is a hygiene factor, so a rise stops complaints but does not make people work harder for long. Lasting motivation comes from motivators such as responsibility, recognition and achievement.
+
+**What are fringe benefits?**
+Fringe benefits are extras other than pay, such as a company car, health cover or a staff discount. Workers value them, but they cost the business and not every worker wants the same benefit.
+
 ## Official syllabus
 
 This guide follows section 2.4 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

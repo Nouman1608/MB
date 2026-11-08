@@ -131,6 +131,23 @@ These questions cover section 2.2 Organisation and management of the Cambridge O
 - Giving only one side in "evaluate" questions and finishing without a judgement.
 - Leaving out units in money answers or the percentage sign in percentage answers.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original practice questions written for Marlbridge on section 2.2 Organisation and management. Use them alongside the official past papers.
+
+**What is the most common slip when counting employees or levels on a chart?**
+Forgetting to count the top post, such as the managing director, and mixing up span of control (direct reports only) with the total number of employees. Show each multiplication.
+
+**How do you avoid confusing the functions of management?**
+Read each action carefully: commanding means giving instructions, organising means arranging resources, and coordinating means making departments and people work together. These three are the easiest to mix up.
+
+**How do you answer an "effects on employees" question about trade unions?**
+Write about the workers, such as their bargaining power, advice and support, not about the employer's costs. Answers about the business do not answer a question on employees.
+
+**What does an "evaluate" question on a pay claim need?**
+Both sides, such as the extra cost against possible gains in morale and lower turnover, and a final decision. Finishing without a judgement loses marks.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/o-level-business-organisation-and-management-revision-notes/) and re-read the [study guide](/resources/o-level-business-organisation-and-management/).

@@ -115,6 +115,23 @@ Judgement: A matches the stated causes of leaving and is cheaper [1]; the limit 
 - Reusing a stock answer that ignores the case data.
 - Treating redundancy and dismissal as the same thing.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on the Human resources topic, with invented businesses and figures. Use them alongside OCR's own past papers.
+
+**Which figure should a percentage change be divided by?**
+Divide the change by the earlier figure, not the new one. Dividing by the later figure is a common error in HR performance calculations.
+
+**How do you evaluate a leadership style in a case study?**
+Link the style to the case facts, such as how skilled the staff are and how they feel, weigh both sides and reach a stated conclusion. A stock answer that ignores the case data earns less.
+
+**How do you write about stakeholders in an HR evaluation?**
+Name several stakeholders only if you link each one to a specific effect, such as fair treatment for employees or reliable service for customers.
+
+**What makes an HR recommendation convincing?**
+Use the evidence in the stem, such as exit-interview comments, costs or a seasonal peak in sales, to support your choice and to reject the alternative.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-a-level-business-human-resources/) and use the [revision notes](/resources/ocr-a-level-business-human-resources-revision-notes/) for formulas.

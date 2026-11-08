@@ -198,6 +198,23 @@ A good judgement says that the saving is real but the benefit goes to a few whil
 - Stating that stakeholders are "all equally important".
 - Giving a recommendation that ignores the sector or the size of the business.
 
+## Frequently asked questions
+
+**What is the hierarchy of objectives?**
+It is the chain from the organisational aim to corporate, strategic, tactical and operational objectives, where each level supports the one above it. OCR's text does not set out these definitions, so they are the standard ones.
+
+**What does SMART stand for?**
+Specific, measurable, achievable, realistic and time-bound; some courses use "agreed" or "attainable" for the A. SMART is the standard form and is not spelt out in the specification.
+
+**Why do business objectives change?**
+They change when the business or its environment moves on, for example after a recession or change in demand, new competitors or technology, or growth of the business.
+
+**Why does a business need to manage stakeholder conflict?**
+Unresolved disputes can lead to strikes, lost customers, withdrawn finance, bad publicity, legal action or planning refusal. Options include prioritising powerful groups, compromise, early consultation and compensation or phased change.
+
+**Do you have to own part of a business to be a stakeholder?**
+No. A stakeholder is any person or group that has a stake in what a business does or is touched by its actions, so ownership is not required.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431), specification Version 2.1 (January 2026), for first assessment in 2017, published by OCR. This guide covers the area "Business objectives and strategy" content headed "Different stakeholder and business objectives" and "Stakeholders".

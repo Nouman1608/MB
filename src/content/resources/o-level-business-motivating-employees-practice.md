@@ -119,6 +119,23 @@ Difference 2, job design: Taylor favoured small, repeated tasks with close super
 - Recommending a method without using the figures or facts given.
 - Stopping at advantages and never giving a risk, cost or final judgement.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are ten original practice questions written for Marlbridge on section 2.1 Motivating employees. Use them alongside the official past papers.
+
+**What is the difference between labour turnover and absenteeism?**
+Labour turnover measures people leaving the business and having to be replaced. Absenteeism measures people being away from work when they are expected to be there, and mixing the two up is a common error.
+
+**What do you need to show in motivation calculations?**
+Write the formula, the substitution and the unit, and divide by the original figure when finding a percentage change. A bare number leaves nothing to reward if one input is wrong.
+
+**What is a common slip in pay calculations with commission?**
+Forgetting the fixed element. A salary is paid whatever the sales, so it must be added to the commission to find total pay.
+
+**How do you answer a "recommend" or "evaluate" question on motivation?**
+Use the figures and facts in the stem, such as pay compared with the local average or the cost of staff leaving, and give a risk or cost before a reasoned conclusion. A general statement that a method "motivates" earns little.
+
 ## Next steps
 
 - Review the [study guide](/resources/o-level-business-motivating-employees/) on any question you missed.

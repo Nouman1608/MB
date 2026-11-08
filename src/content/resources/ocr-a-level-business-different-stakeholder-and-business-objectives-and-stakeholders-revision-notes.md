@@ -236,6 +236,20 @@ Recession or demand shift; new competitor or technology; growth or ownership cha
 - Stating that every stakeholder must be satisfied, when the question asks for a choice.
 - Forgetting that stakeholders can also help a business, as well as constrain it.
 
+## Frequently asked questions
+
+**What is the difference between an aim and an objective?**
+An aim is a broad, long-term purpose that may have no number. An objective is a target and should be measurable.
+
+**What is the difference between stakeholder influence and interest?**
+Interest is how much a group cares about the business's actions; influence is how much power it has to affect them. A group can have great interest yet little influence.
+
+**What is the difference between strategic, tactical and operational objectives?**
+Strategic objectives are set by senior managers for the longer term with bigger resources; tactical objectives belong to a team or department over a shorter term; operational objectives are daily tasks.
+
+**Are all stakeholders equally important?**
+No. Stating that stakeholders are all equally important is a common error, since their power, interest and the decision in question differ.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431), specification Version 2.1 (January 2026), for first assessment in 2017, published by OCR. The notes cover the content "Different stakeholder and business objectives" and "Stakeholders".

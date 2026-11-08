@@ -12,13 +12,15 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "marketing-cambridge-igcse-business"
-description: "Original exam-style practice questions with full worked answers on niche/mass marketing, market research, the marketing mix and marketing strategy, for Cambridge IGCSE Business Studies (0450) Topic 3 Marketing."
+description: "Original practice questions with worked answers on niche marketing, market research, the marketing mix and strategy for Cambridge IGCSE Business Studies 0450."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -115,3 +117,17 @@ customer targeted, the product's stage in its life cycle, or the specific challe
 named foreign market — rather than offering a general definition. The study guide identifies this
 scenario-linking skill as what earns Analysis and Evaluation marks (AO3 and AO4) on this topic, which
 are not available from definitions alone, however accurate. When practising further scenario questions from past papers, check each draft answer for a specific detail borrowed directly from the stimulus material or case study -- a missing link back to that detail is the most common reason an otherwise accurate answer scores lower than expected. This applies equally across all four sub-topics of Marketing, from segmentation through to marketing strategy, since the case study paper specifically rewards candidates who read the business context carefully before answering rather than reaching for a memorised definition first.
+
+## Frequently asked questions
+
+**Are these Cambridge IGCSE Business Studies 0450 past paper questions?**
+No. They are original questions written for Marlbridge on Topic 3 Marketing, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers available free from your board.
+
+**How do you earn analysis and evaluation marks on 0450 marketing questions?**
+Link each marketing concept back to a detail in the scenario, such as the type of customer targeted, the product's stage in its life cycle or the challenge of a named foreign market. Analysis and evaluation marks (AO3 and AO4) are not available from definitions alone, however accurate.
+
+**What is the most common reason a scenario answer loses marks?**
+A missing link back to a specific detail from the stimulus material or case study. Check each draft answer for at least one detail borrowed directly from the scenario.
+
+**Is there only one correct answer to a marketing scenario question?**
+Not always. The worked answers note that other valid methods, such as a different extension strategy or a different way of entering a foreign market, can also gain credit when they are explained and justified in the same way.

@@ -218,6 +218,20 @@ A business can respond to a forecast by changing production, stock levels, staff
 - Claiming correlation proves cause.
 - Giving advantages and disadvantages without a judgement tied to the business in the case.
 
+## Frequently asked questions
+
+**What is the Delphi technique?**
+A panel of experts answers questions separately, usually anonymously, a coordinator circulates a summary, and the experts revise their views over several rounds until opinion converges.
+
+**Is profit the same as cash flow in a forecast?**
+No. A month can be profitable yet close overdrawn, because items such as a machine purchase are cash outflows that do not appear in that month's profit, and customers may pay later.
+
+**What are the limitations of time series analysis?**
+The latest years have no moving average, so the method lags exactly where the forecast is needed. It also assumes the past pattern will continue and cannot predict shocks such as a new competitor or a recession.
+
+**Why does accurate forecasting matter?**
+Decisions are costly to reverse. Overestimating demand leaves unsold stock and idle capacity, while underestimating it loses sales and customers, which matters to lenders, suppliers and employees as well as the business.
+
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR, for first assessment in 2017 with final assessment in summer 2027. Content covered: Forecasting, within the area of study Business objectives and strategy.

@@ -113,6 +113,23 @@ These questions cover sections 1.13 Decision making and 1.14 Decision trees of t
 - Judging success from profit alone, ignoring non-financial measures and different stakeholders.
 - Conclusions that offer "it depends" without saying on what.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on sections 1.13 Decision making and 1.14 Decision trees, with invented businesses. Use them alongside OCR's own past papers.
+
+**What is the most common mistake in decision tree calculations?**
+Stopping at the expected value without subtracting the cost of the option. Also check that the probabilities at each chance node total 1.0, or 100%.
+
+**How do you choose between two options with close net gains?**
+Use risk, the business's objectives and qualitative factors to break the tie rather than relying on the small difference in figures. Recommending the highest expected value on its own is a common weakness.
+
+**Can you define strategic, tactical and operational decisions by time alone?**
+No. Defining them by time horizon alone ignores their level and scope, so include who makes them and how much of the business they affect.
+
+**How should an answer that says "it depends" be written?**
+Say what the decision depends on, such as the reliability of a forecast or the savings available, and then reach a conditional judgement. "It depends" with no detail earns little.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-business-decision-making-and-decision-trees-revision-notes/) and the [study guide](/resources/ocr-a-level-business-decision-making-and-decision-trees/).

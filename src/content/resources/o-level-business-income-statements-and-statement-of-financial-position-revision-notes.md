@@ -256,6 +256,20 @@ All questions use the invented Pennifold Bakery, or the figures stated.
 - Forgetting to state the assumption behind a recommendation.
 - Listing the parts of a statement without saying what they show about the business.
 
+## Frequently asked questions
+
+**What is retained profit?**
+Retained profit is the profit kept in the business after tax and any dividends to owners have been paid. Start the calculation from profit, not from gross profit or revenue.
+
+**Is a bank overdraft a current or non-current liability?**
+An overdraft is a current liability, because it is repayable in the short term, even though it comes from a bank like a loan.
+
+**Why do profit and cash differ?**
+Profit is revenue minus costs, while cash is the money actually in the bank and till. They differ because of timing, such as credit sales not yet paid, and because some cash movements, such as buying a machine, are not part of profit.
+
+**What are the limits of an income statement when making a decision?**
+It looks back at a past period, it does not show cash, and any forecast built from it rests on assumptions about future sales and costs.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge University Press & Assessment, sections 5.3 and 5.4.

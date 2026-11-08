@@ -242,6 +242,20 @@ The business has gained a machine but has less short-term safety. Replacing the 
 - Saying a business with profit has plenty of cash. They are different things.
 - Giving only advantages in an evaluate or justify question. Weigh both sides, then decide.
 
+## Frequently asked questions
+
+**What is the difference between gross profit and profit?**
+Gross profit is revenue minus cost of sales. Profit is gross profit minus expenses, which is the same as total revenue minus total costs, so giving gross profit when profit is asked for loses marks.
+
+**How do you calculate working capital for Cambridge IGCSE Business 0264?**
+Working capital = current assets − current liabilities. Use current liabilities only, not total liabilities, and a negative answer means the business may struggle to pay what it owes within the year.
+
+**Is an overdraft a current or non-current liability?**
+An overdraft is a current liability in the 0264 syllabus list, along with trade payables. Bank loans are non-current liabilities.
+
+**Is profit the same as cash?**
+No. A business can record a profit and still run short of cash, for example when customers have not yet paid, so a profitable business can still have negative working capital.
+
 ## Official syllabus
 
 These notes follow the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press and Assessment. Sections 5.3 and 5.4 sit under "Financial information and decisions".
