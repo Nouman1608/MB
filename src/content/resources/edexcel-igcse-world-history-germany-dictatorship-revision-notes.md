@@ -19,7 +19,7 @@ description: "Condensed notes on Germany, 1918–45 for Edexcel IGCSE History 4H
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the timeline, election figures and key terms against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewNote: "Check the timeline, election figures and key terms against the 4HI1 specification and a standard textbook before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
 publishedDate: 2026-11-08
 featured: false
 ---

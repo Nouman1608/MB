@@ -19,7 +19,7 @@ description: "Study guide to India, 1919–47 for Edexcel International GCSE His
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates and casualty figures against a standard textbook before teacher sign-off."
+reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates and casualty figures against a standard textbook before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources and the Bengal famine estimate corrected; figures flag cleared, dates and syllabus check remain."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -111,7 +111,7 @@ independent states in Muslim-majority areas — the basis of the demand for **Pa
 advance in 1942 led Churchill's government to send the **Cripps Mission**, offering dominion status
 after the war with the right of provinces to opt out; Congress rejected it. Congress then launched
 **Quit India** (August 1942); its leaders were arrested and the protests were crushed, while the
-League cooperated with the British and grew stronger. The Bengal famine of 1943 killed around three
+League cooperated with the British and grew stronger. The Bengal famine of 1943 killed an estimated two to three
 million people. **Wavell** became Viceroy in 1943. **Subhas Chandra Bose** led the Indian National
 Army alongside Japan; the trials of its officers in 1945–46 caused nationwide protest.
 

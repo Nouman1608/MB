@@ -19,7 +19,7 @@ description: "Original Paper 2 Section B-style questions on America, 1783–1877
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off."
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -161,3 +161,17 @@ Native Americans the loss of land was more complete. Reward a reasoned compariso
 
 Source: question patterns modelled on the Pearson Edexcel International GCSE History (4HI1)
 specification, Issue 5, February 2026, Paper 2, Section B.
+
+## Frequently asked questions
+
+**How is the Paper 2 breadth study question structured?**
+Part (a) asks you to explain two ways something was different at two dates (6 marks), part (b) to explain two causes (8 marks) and part (c) is a 16-mark essay on change, continuity or significance across the period.
+
+**How did federal power change between 1786 and 1789?**
+Under the Articles of Confederation Congress could not tax and relied on requests to the states; the Constitution gave Congress the power to levy taxes.
+
+**What is a common mistake in part (a)?**
+Describing one date only instead of comparing the two dates in the question.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

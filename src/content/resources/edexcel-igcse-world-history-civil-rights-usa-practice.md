@@ -19,7 +19,7 @@ description: "Original Paper 1-style questions on the USA, 1945–74 for Edexcel
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 1 mark scheme before teacher sign-off."
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 1 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -176,3 +176,17 @@ v Wade (1973); women's liberation changed attitudes.
 
 Source: question patterns modelled on the Pearson Edexcel International GCSE History (4HI1)
 specification, Issue 5, February 2026, Paper 1.
+
+## Frequently asked questions
+
+**How is each Paper 1 depth study question structured?**
+Each 4HI1 Paper 1 question has three parts: (a) what impression an extract gives (6 marks), (b) explain two effects (8 marks) and (c) a 'how far do you agree' essay (16 marks), with bullet prompts and your own knowledge.
+
+**Which events do these questions cover?**
+McCarthyism and the Red Scare, the civil rights campaigns of 1960–68, other protest movements and the Watergate scandal.
+
+**Which Acts are most often confused?**
+The Civil Rights Acts of 1957 and 1964 and the Voting Rights Act of 1965; learn what each did.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

@@ -19,7 +19,7 @@ description: "Original Paper 2 Section B-style questions on medicine, c1848–c1
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off."
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -156,3 +156,17 @@ at least two key topics.
 
 Source: question patterns modelled on the Pearson Edexcel International GCSE History (4HI1)
 specification, Issue 5, February 2026, Paper 2, Section B.
+
+## Frequently asked questions
+
+**How is the Paper 2 breadth study question structured?**
+Part (a) asks you to explain two ways something was different at two dates (6 marks), part (b) to explain two causes (8 marks) and part (c) is a 16-mark essay on change, continuity or significance across the period.
+
+**How did public health law change between 1848 and 1875?**
+The 1848 Public Health Act was voluntary, so many towns did nothing; the 1875 Act made councils provide clean water, drainage and medical officers.
+
+**What is a common part (c) mistake?**
+Listing discoveries without comparing factors or judging which mattered most.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

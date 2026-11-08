@@ -19,7 +19,7 @@ description: "Original Paper 2 Section A-style source questions on the First Wor
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off."
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -160,3 +160,17 @@ blockade and American strength explain why Germany could not recover.
 
 Source: question patterns modelled on the Pearson Edexcel International GCSE History (4HI1)
 specification, Issue 5, February 2026, Paper 2, Section A.
+
+## Frequently asked questions
+
+**How is the Paper 2 historical investigation question structured?**
+Part (a) asks you to describe two features (6 marks), part (b) asks how far one source supports another (8 marks) and part (c) is a 16-mark judgement that uses the sources and your own knowledge.
+
+**Why was HMS Dreadnought important?**
+Launched in 1906, it made older battleships obsolete and intensified the Anglo-German naval race.
+
+**What loses marks in the cross-reference question?**
+Summarising each source separately instead of comparing them point by point, and ignoring provenance.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

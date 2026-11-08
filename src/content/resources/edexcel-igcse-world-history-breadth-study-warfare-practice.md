@@ -19,7 +19,7 @@ description: "Original Paper 2 Section B-style questions on warfare, 1919–2011
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off."
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -160,3 +160,17 @@ period, and returns to the criteria in its conclusion.
 
 Source: question patterns modelled on the Pearson Edexcel International GCSE History (4HI1)
 specification, Issue 5, February 2026, Paper 2, Section B.
+
+## Frequently asked questions
+
+**How is the Paper 2 breadth study question structured?**
+Part (a) asks you to explain two ways something was different at two dates (6 marks), part (b) to explain two causes (8 marks) and part (c) is a 16-mark essay on change, continuity or significance across the period.
+
+**How did land warfare in 1940 differ from 1918?**
+In 1918 armies had only just begun to break the trench deadlock; in 1940 Blitzkrieg combined tanks, aircraft and radio to produce rapid advances.
+
+**How is the 16-mark essay marked?**
+It rewards accurate knowledge from at least two key topics, analysis of change and continuity, and a supported judgement.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

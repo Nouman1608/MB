@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Condensed recall notes on source-based enquiry skills and tracing change across a Breadth Study for Pearson Edexcel International GCSE History Paper 2 (4HI1)."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -162,3 +164,14 @@ source-reading skill in isolation.
 
 - [Paper 2 Investigation and Breadth Studies study guide](/resources/igcse-edexcel-world-history-paper-2-investigation-breadth-studies/)
 - [Paper 2 practice questions](/resources/edexcel-igcse-world-history-paper-2-practice/)
+
+## Frequently asked questions
+
+**How many Paper 2 options are there?**
+Five historical investigations and eight breadth studies; you study one of each.
+
+**Should the investigation be revised like a depth study?**
+No. It includes unseen sources, so revise the skills of reading and cross-referring sources, with enough context to interpret them.
+
+**What does a breadth study test?**
+Change and continuity over a long period, and the factors that drove change, not a list of events.

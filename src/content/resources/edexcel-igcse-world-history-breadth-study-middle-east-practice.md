@@ -19,7 +19,7 @@ description: "Original Paper 2 Section B-style questions on the Middle East, 191
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off."
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -158,3 +158,17 @@ conclusion.
 
 Source: question patterns modelled on the Pearson Edexcel International GCSE History (4HI1)
 specification, Issue 5, February 2026, Paper 2, Section B.
+
+## Frequently asked questions
+
+**How is the Paper 2 breadth study question structured?**
+Part (a) asks you to explain two ways something was different at two dates (6 marks), part (b) to explain two causes (8 marks) and part (c) is a 16-mark essay on change, continuity or significance across the period.
+
+**How is the 16-mark essay marked?**
+It rewards accurate knowledge from at least two key topics, analysis of change and continuity across the period, and a supported judgement.
+
+**How did Britain's role change between 1946 and 1957?**
+In 1946 Britain ruled Palestine under the Mandate and had a major base in the Suez Canal Zone; by 1957 it had left Palestine (1948) and been humiliated over Suez (1956).
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

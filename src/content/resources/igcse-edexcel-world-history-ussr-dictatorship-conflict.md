@@ -19,7 +19,7 @@ description: "Study guide to Stalin's USSR, 1924–53 for Edexcel International 
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates and figures against a standard textbook before teacher sign-off."
+reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates and figures against a standard textbook before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
 publishedDate: 2026-11-08
 featured: false
 ---
