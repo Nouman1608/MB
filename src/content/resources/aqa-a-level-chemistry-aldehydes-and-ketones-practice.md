@@ -175,6 +175,23 @@ chiral [1] **[3]**
 - Saying symmetrical ketones give enantiomers.
 - Refluxing a primary alcohol when the aldehyde is the target.
 
+## Frequently asked questions
+
+**Is aldehydes and ketones on the AQA AS Chemistry paper?**
+No. Section 3.3.8 Aldehydes and ketones of the AQA 7404/7405 specification is A-level only. It is examined on A-level Paper 2, and Paper 3 can test any content.
+
+**Where do curly arrows lose marks in nucleophilic addition mechanisms?**
+Common losses are drawing the cyanide arrow from nitrogen instead of the lone pair on carbon, ending the first arrow on the oxygen instead of the carbonyl carbon, omitting the arrow from the C=O bond to oxygen and leaving the O⁻ intermediate unprotonated.
+
+**How many [H] go in a reduction equation for an aldehyde or ketone?**
+Two. A reduction equation written with a single [H] is unbalanced and loses the equation mark even when the product formula is correct.
+
+**What must you say to explain why a hydroxynitrile product is optically inactive?**
+Your answer needs the ideas that the C=O group is planar and that the nucleophile attacks from either side with equal probability, giving equal amounts of the two enantiomers. Explanations without "planar" and "equal attack" usually lose marks.
+
+**What do examiners want for the hazards of potassium cyanide?**
+Saying "toxic" twice counts as one point. The second mark needs the separate idea that adding acid releases HCN, which is highly toxic.
+
 ## Next steps
 
 - [Aldehydes and ketones revision notes](/resources/aqa-a-level-chemistry-aldehydes-and-ketones-revision-notes/)

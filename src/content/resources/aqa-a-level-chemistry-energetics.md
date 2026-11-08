@@ -314,6 +314,23 @@ Cancelling the four C–H bonds present on both sides gives the same answer: 104
 - Miscounting bonds: draw displayed formulas and multiply by each coefficient.
 - Quoting more significant figures than the least precise measurement allows.
 
+## Frequently asked questions
+
+**What is the difference between exothermic and endothermic reactions?**
+An exothermic reaction transfers heat energy to the surroundings, so ΔH is negative; combustion and neutralisation are examples. An endothermic reaction takes in heat energy from the surroundings, so ΔH is positive; thermal decomposition is an example.
+
+**What does Hess's law state?**
+Hess's law states that the enthalpy change for a reaction is independent of the route taken, provided the initial and final conditions are the same. It lets you calculate ΔH for reactions that cannot be measured directly.
+
+**Do you need to remember the specific heat capacity of water?**
+No. You are not expected to recall c; the question gives it, and 4.18 J g⁻¹ K⁻¹ is the value usually given for water and dilute solutions.
+
+**What is the enthalpy of formation of an element?**
+An element in its standard state has ΔfH⦵ = 0, for example O₂(g) or C(s). Forms that are not the standard state, such as O₃(g) or Br₂(g), do not have a value of zero.
+
+**What is Required practical 2 in AQA A-level Chemistry 7405?**
+Required practical 2 is the measurement of an enthalpy change, part of section 3.1.4.2 Calorimetry. It uses q = mcΔT to calculate a molar enthalpy change from a temperature change.
+
 ## Next steps
 
 Test yourself on the [practice questions](/resources/aqa-a-level-chemistry-energetics-practice/),

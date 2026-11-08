@@ -17,13 +17,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "atomic-structure-7405"
     subtopic: "electron-configuration-7405"
-description: "Original exam-style practice questions with full worked answers on time-of-flight mass spectrometry, electron configuration and ionisation energy for AQA A Level Chemistry 7405."
+description: "Original practice questions with worked answers on time-of-flight mass spectrometry, electron configuration and ionisation energy for AQA A Level Chemistry."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -120,3 +122,17 @@ several different jump positions (after the 1st, 2nd, 3rd electron, and
 so on) rather than only the specific example seen in class. For the
 full electron-configuration filling order, including both anomalies in
 period 4, see the [Atomic Structure revision notes](/resources/aqa-a-level-chemistry-atomic-structure-revision-notes/).
+
+## Frequently asked questions
+
+**Where are marks usually lost in AQA A Level Chemistry mass spectrometry questions?**
+Common losses are giving the time-of-flight stages out of order or leaving out ion drift, and forgetting to subtract 1 from the m/z value after electrospray ionisation, because the detected ion carries an extra proton.
+
+**Which electron configurations are exceptions to the filling order?**
+Chromium and copper are the two standard exceptions, caused by the extra stability of a half-filled or filled d sub-shell. Writing chromium as [Ar]3d⁴4s² or copper as [Ar]3d⁹4s² loses the mark.
+
+**How do you deduce a group from successive ionisation energies?**
+Look for the large jump: it comes immediately after all the outer-shell electrons have been removed, not before. Miscounting which ionisation the jump follows is a frequent error.
+
+**Do isotopes of an element react differently?**
+No. Isotopes have identical chemical properties because they have the same electron arrangement, even though physical properties such as mass differ.

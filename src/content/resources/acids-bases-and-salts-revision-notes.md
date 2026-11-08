@@ -31,10 +31,12 @@ syllabusTopics:
 description: "Condensed recall notes on acid and base properties, oxides, indicators and salt preparation for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -176,3 +178,19 @@ All four routes to a soluble salt — titration (acid + alkali), excess metal, e
   <figcaption>An insoluble salt is made by mixing solutions, then filtering, washing and drying.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between an alkali and a base?**
+A base is a proton acceptor, and an alkali is a base that dissolves in water, producing OH⁻ ions. All alkalis are bases, but not all bases are alkalis, because many metal oxides and hydroxides are insoluble.
+
+**What colour is methyl orange in acid and alkali?**
+Methyl orange is red in acid and yellow in neutral and alkaline solutions. Litmus is red in acid and blue in alkali, and thymolphthalein is colourless in acid and blue in alkali.
+
+**Which oxides are amphoteric for Cambridge IGCSE 0620 and O Level 5070?**
+The two amphoteric oxides to learn are aluminium oxide (Al₂O₃) and zinc oxide (ZnO), which react with both acids and bases. Lead(II) oxide is also amphoteric chemically, but neither 0620 nor 5070 names it at this level.
+
+**Why is excess solid used when making a soluble salt?**
+Adding the metal, insoluble base or insoluble carbonate in excess makes sure all the acid reacts. The leftover solid is then filtered off before the solution is crystallised; an exam answer should state both steps.
+
+**What does pH tell you about hydrogen ion concentration?**
+A lower pH means a higher concentration of H⁺ ions, and each drop of one whole pH unit is a tenfold increase in that concentration. pH below 7 is acidic, 7 is neutral and above 7 is alkaline.

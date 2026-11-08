@@ -263,6 +263,23 @@ directly at an ultraviolet lamp.
 - Stating that GC uses a liquid moving phase.
 - Saying a single matching Rf value or retention time "proves" identity.
 
+## Frequently asked questions
+
+**What is chromatography used for?**
+Chromatography is a method of separating and identifying the components of a mixture. The AQA 7404/7405 specification covers thin-layer, column and gas chromatography, all as A-level only content.
+
+**Why is the TLC baseline drawn in pencil?**
+Pencil does not dissolve in the solvent, whereas ink would dissolve and separate, adding extra spots to the chromatogram. The solvent level must also be below the baseline so the samples do not dissolve into the solvent.
+
+**How are colourless spots located on a TLC plate?**
+The specification names ultraviolet light and developing agents such as ninhydrin, which is used for amino acids. Coloured substances, such as many transition metal complexes, show as visible spots without treatment.
+
+**What affects retention time in gas chromatography?**
+Retention times depend on the column, its temperature and the gas flow, so compare them with standards run under the same conditions. Raising the column temperature shortens retention times.
+
+**What is Required practical 12 in AQA A-level Chemistry?**
+Required practical 12 is the separation of species by thin-layer chromatography, using apparatus and techniques AT a, AT i and AT k. The specification suggests using TLC to identify analgesics or transition metal ions.
+
 ## Where next
 
 Condense this with the [revision notes](/resources/aqa-a-level-chemistry-chromatography-revision-notes/), then

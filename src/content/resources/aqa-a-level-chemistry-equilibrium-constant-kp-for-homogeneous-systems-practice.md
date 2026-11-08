@@ -146,6 +146,23 @@ A mixture of 1.00 mol of ethene and 1.00 mol of steam reaches equilibrium. The e
 - Saying an increase in pressure or a catalyst changes Kp.
 - Temperature explanations that never name the endothermic or exothermic direction.
 
+## Frequently asked questions
+
+**Is Kp in the AQA AS Chemistry exams?**
+No. Section 3.1.10 Equilibrium constant Kp of the AQA 7404/7405 specification is A-level only. It is listed under A-level Paper 1, and Paper 3 can test any content.
+
+**Which moles should you use to calculate mole fractions?**
+Use the equilibrium moles of each gas divided by the total moles of gas at equilibrium, not the initial moles. Fill in the change row using the mole ratios in the equation; using 1 : 1 when the coefficients differ is the commonest wrong step.
+
+**Are marks given for Kp units even if the expression is wrong?**
+The units mark is normally allowed as error carried forward from a wrong expression, so always write units. When gas moles are equal on both sides, the units cancel and writing "kPa" is an error.
+
+**Does a catalyst or higher pressure change the value of Kp?**
+No. Only temperature changes Kp; a catalyst affects how fast equilibrium is reached, and pressure can change only the position. Any statement that a catalyst shifts the equilibrium or increases the yield usually loses the mark.
+
+**How should temperature effects on Kp be explained?**
+Name the endothermic or exothermic direction and say which way the equilibrium shifts. Explanations that never name the direction lose marks.
+
 ## Next steps
 
 - Recheck formulas in the [Kp revision notes](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes/).

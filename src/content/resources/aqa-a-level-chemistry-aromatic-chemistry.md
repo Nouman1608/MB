@@ -299,6 +299,23 @@ Concentrated acids are corrosive: wear eye protection and gloves.
 - Writing AlCl₃ + Cl⁻ in the equation for the electrophile but never showing the catalyst being re-formed.
 - Calling the acylation product an aldehyde. Benzene + RCOCl gives a **ketone**.
 
+## Frequently asked questions
+
+**Why is benzene more stable than cyclohexa-1,3,5-triene?**
+The six p electrons in benzene are delocalised over all six carbons, which makes it more stable. The predicted enthalpy of hydrogenation for the triene is 3 × (−120) = −360 kJ mol⁻¹, but benzene's measured value is −208 kJ mol⁻¹, so benzene is 152 kJ mol⁻¹ more stable.
+
+**What shape is a benzene molecule?**
+Benzene is planar, with bond angles of 120°, because each carbon forms three σ bonds that repel equally. All the C–C bonds are the same length, between that of a C–C single and a C=C double bond.
+
+**What reagents are used to nitrate benzene?**
+Benzene is nitrated with concentrated nitric acid and concentrated sulfuric acid. Sulfuric acid protonates nitric acid to form the nitronium ion, NO₂⁺, and is re-formed at the end, so it acts as a catalyst.
+
+**Why is nitration of benzene important?**
+The AQA 7404/7405 specification states that nitration is an important step in synthesis, including the manufacture of explosives and the formation of amines. Friedel–Crafts acylation is also an important step in synthesis.
+
+**Is there a required practical for aromatic chemistry in AQA A-level Chemistry?**
+Section 3.3.10 lists no required practical of its own. The specification suggests nitrating methyl benzoate to make methyl 3-nitrobenzoate as a skills opportunity, using the same techniques as Required practical 10.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

@@ -306,6 +306,23 @@ required practical.
 - Putting a substituent on the wrong carbon, so the repeating unit becomes three carbons long.
 - Saying polyalkenes are unreactive because "the bonds are weak".
 
+## Frequently asked questions
+
+**Why do alkenes react with electrophiles?**
+A C=C double bond has two shared pairs of electrons between the same two carbon atoms, so it is a centre of high electron density. Electron-deficient species called electrophiles are attracted to it and accept a pair of electrons from it.
+
+**How do you test for an alkene?**
+Shake the compound with bromine water: an alkene turns it from orange to colourless, while an alkane leaves it orange. In the AQA 7404/7405 specification this test forms part of Required practical 6, listed under 3.3.6.1.
+
+**What is the general formula of an alkene?**
+A non-cyclic alkene with one C=C double bond has the general formula CₙH₂ₙ. Ethene, CH₂=CH₂, is the simplest alkene.
+
+**What is addition polymerisation?**
+In addition polymerisation, alkene monomers such as chloroethene join as their double bonds open, forming a long saturated chain with no other product. Poly(chloroethene) is commonly known as PVC.
+
+**Is the carbocation mechanism for bromine addition the full picture?**
+The open-carbocation outline is a simplified school model. A more complete mechanistic account uses a bridged bromonium ion that is opened by Br⁻.
+
 ## Where next
 
 Use the [alkenes revision notes](/resources/aqa-a-level-chemistry-alkenes-revision-notes/), then the

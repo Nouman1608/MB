@@ -229,6 +229,23 @@ top marks; use figures from the table to support both the surplus and the shorta
 - Missing UV light in initiation, or propagation steps that do not regenerate a radical.
 - Ignoring unreacted oxygen in gas-volume calculations.
 
+## Frequently asked questions
+
+**Is the alkanes topic on the AQA AS Chemistry exam?**
+Yes. Section 3.3.2 Alkanes of the AQA 7404/7405 specification is all AS content, examined on AS Paper 2 and A-level Paper 2, and A-level Paper 3 can test any content.
+
+**How do you avoid mixing up thermal and catalytic cracking conditions?**
+Learn them as a pair: thermal cracking uses high pressure and high temperature with no catalyst, while catalytic cracking uses slight pressure, high temperature and a zeolite catalyst. Writing a zeolite or slight pressure for thermal cracking loses the mark.
+
+**Why do combustion analysis calculations often go wrong?**
+Each water molecule contains two hydrogen atoms, so the moles of water must be doubled to find the moles of hydrogen. Forgetting this gives the wrong C : H ratio and loses the method marks.
+
+**What do examiners look for in free-radical substitution mechanisms?**
+Include UV light as the condition for initiation, and make sure each propagation step uses up one radical and produces another. Propagation steps that do not regenerate a radical are not credited.
+
+**What units are needed when using pV = nRT in alkanes questions?**
+Pressure must be converted from kPa to Pa before substituting into pV = nRT. Leaving pressure in kPa is one of the most common ways to lose marks.
+
 ## Next steps
 
 - [Alkanes revision notes](/resources/aqa-a-level-chemistry-alkanes-revision-notes/)

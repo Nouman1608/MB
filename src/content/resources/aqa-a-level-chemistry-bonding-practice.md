@@ -134,6 +134,23 @@ State the type of structure of each solid and give one piece of evidence for eac
 - Failing to make a comparison explicit when asked "why is X higher than Y".
 - Drawing a co-ordinate arrow in the wrong direction.
 
+## Frequently asked questions
+
+**Which part of the AQA Chemistry specification do these bonding questions cover?**
+They cover section 3.1.3 Bonding, points 3.1.3.1 to 3.1.3.7, of the AQA AS and A-level Chemistry specification (7404/7405). Use them after the bonding study guide and revision notes.
+
+**Why is "bonds break" a weak answer for melting a molecular substance?**
+It is ambiguous: when a simple molecular substance melts or boils, intermolecular forces are overcome, not covalent bonds. State which type of force or bond is involved.
+
+**How do you explain a molecular shape for full marks?**
+Count all the bonding pairs and lone pairs, including those in ions, and refer to repulsion between electron pairs. A shape name with no reference to repulsion is unlikely to earn full credit.
+
+**Does a molecule with polar bonds have to be polar?**
+No. A molecule with polar bonds can be non-polar if its shape makes the dipoles cancel, so treating polar bonds as meaning a polar molecule is a common error.
+
+**How should comparison questions about melting points be answered?**
+Address both substances explicitly, naming the bonding or force in each and saying which is stronger. Describing only one substance does not explain the difference.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-chemistry-bonding-revision-notes/) and the [study guide](/resources/aqa-a-level-chemistry-bonding/).

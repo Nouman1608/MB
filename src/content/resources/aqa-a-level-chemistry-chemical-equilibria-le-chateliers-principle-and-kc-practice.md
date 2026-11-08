@@ -145,6 +145,23 @@ At equilibrium, 0.400 mol of CO₂ is present.
 - Saying pressure or concentration changes alter Kc.
 - Compromise answers that talk only about yield and ignore rate, cost or safety.
 
+## Frequently asked questions
+
+**Is equilibria and Kc AS content in AQA Chemistry?**
+Yes. Section 3.1.6 of the AQA 7404/7405 specification is AS content and also part of the full A-level; none of it is A-level only.
+
+**What wording loses marks in a definition of dynamic equilibrium?**
+Writing that the concentrations are "equal" scores nothing; the word needed is "constant". The definition also needs the forward and reverse reactions proceeding at equal rates.
+
+**How do you earn the explanation mark in a Le Chatelier question?**
+Give the direction of shift and a specific reason, such as "fewer moles of gas" or "the endothermic direction". Writing "Le Chatelier's principle" on its own does not earn the explanation mark.
+
+**How are units for Kc marked?**
+The units mark is separate, so a correct value with wrong or missing units loses a mark. Work units out by substituting mol dm⁻³ for each concentration, and give no units when they cancel.
+
+**When can moles be used directly in a Kc calculation?**
+Only when the volume cancels, which happens when the total powers on the top and bottom of the expression are equal. Otherwise convert moles to concentrations by dividing by the volume in dm³.
+
 ## Next steps
 
 - Revise weak areas with the [revision notes](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-revision-notes/).

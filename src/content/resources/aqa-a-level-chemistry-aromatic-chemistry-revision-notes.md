@@ -239,6 +239,23 @@ cyclohexa-1,3-diene, the same logic applies: predict 2 × one C=C and compare.
 - Forgetting HCl as the by-product of acylation.
 - Naming the acylation product as an aldehyde or an acyl chloride.
 
+## Frequently asked questions
+
+**What are the electrophiles in nitration and Friedel–Crafts acylation?**
+The electrophile in nitration is the nitronium ion, NO₂⁺, and in Friedel–Crafts acylation it is the acylium ion, RCO⁺. In AQA A-level Chemistry 7405, write the equation that makes the electrophile as the first stage of the mechanism.
+
+**What is the difference between electrophilic addition and electrophilic substitution?**
+Alkenes undergo electrophilic addition, where two species add across a C=C bond. Benzene undergoes electrophilic substitution, where an electrophile replaces a hydrogen atom and the ring stays intact.
+
+**What product does Friedel–Crafts acylation of benzene give?**
+Acylation of benzene with an acyl chloride gives a ketone, with HCl as the by-product. AlCl₃ is the catalyst and is re-formed at the end; naming the product as an aldehyde is a common error.
+
+**Is the hydrogenation enthalpy of cyclohexa-1,3,5-triene measured?**
+No. The triene value is a prediction based on three times the value for one C=C bond, because cyclohexa-1,3,5-triene is theoretical. Benzene's value is measured and is less exothermic.
+
+**Does the AQA specification include disubstitution of benzene?**
+No. The specification limits electrophilic substitution to monosubstitution, where only one hydrogen on the ring is replaced.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

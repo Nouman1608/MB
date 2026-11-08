@@ -22,13 +22,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "organic-chemistry"
     subtopic: "carboxylic-acids"
-description: "Condensed recall notes on making ethanol, its combustion and uses, reactions of ethanoic acid, oxidation of ethanol and esters for Cambridge IGCSE 0620 and O Level 5070 (2026-2028)."
+description: "Condensed recall notes on making ethanol, its combustion and uses, ethanoic acid reactions and esters for Cambridge IGCSE 0620 and O Level 5070."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for revision. For the full explanation, use the
@@ -185,6 +187,23 @@ each.
    resource, or the high temperature and pressure need a lot of energy.
 7. Purple to colourless.
 8. Methyl propanoate.
+
+## Frequently asked questions
+
+**What are the conditions for making ethanol by fermentation?**
+Fermentation uses aqueous glucose and yeast at 25–35 °C in the absence of oxygen. Writing "warm" alone does not earn the temperature mark.
+
+**What are the conditions for making ethanol from ethene?**
+Ethene reacts with steam at about 300 °C and 6000 kPa (60 atm) using an acid catalyst. Do not confuse these conditions with those of the Haber process.
+
+**How do you name an ester?**
+The alcohol part comes first and ends in -yl, and the acid part comes second and ends in -oate. For example, ethanoic acid and methanol give methyl ethanoate, not ethyl methanoate.
+
+**How is ethanol oxidised to ethanoic acid?**
+Ethanol is oxidised chemically by warming with acidified aqueous potassium manganate(VII), which changes from purple to colourless, or biologically by bacterial oxidation during vinegar production. This is Supplement content for Cambridge IGCSE 0620 and required for O Level 5070.
+
+**What are the disadvantages of making ethanol by fermentation?**
+Fermentation is a slow batch process that gives a dilute, impure mixture which must be distilled, and it needs land to grow crops. Its advantages are a renewable raw material and a low temperature.
 
 *These are original notes written for revision. Check the full syllabus wording in the
 [official 0620 syllabus](https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf) and

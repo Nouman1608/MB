@@ -154,6 +154,23 @@ Learn the content first in the [Fundamental particles study guide](/resources/aq
 - Writing "equal charges" instead of "equal and opposite charges" when explaining why atoms are neutral.
 - Using neutron number to work out charge.
 
+## Frequently asked questions
+
+**Is fundamental particles AS content in AQA Chemistry?**
+Yes. Section 3.1.1.1 Fundamental particles of the AQA 7404/7405 specification is AS content and sits in Paper 1. Where a calculation needs the relative mass of the electron, the question gives 1/1840.
+
+**How should you write the charge on an ion?**
+Write the charge as a number with its sign, such as 3+ or +3, and show protons minus electrons so the method is visible. Writing "3" alone loses the information that the ion is positive.
+
+**What do examiners want when you use alpha scattering as evidence?**
+Link each observation to the conclusion it supports about the atom. Listing the results without saying what each one shows describes the experiment but does not use it as evidence.
+
+**What is a common mistake when comparing the masses of particles?**
+Saying an electron is "much lighter" without a number. Give the ratio, such as about 1840 times, and never write the electron's relative mass as 0 or 1.
+
+**Why are atoms neutral overall?**
+Write "equal and opposite charges": the number of protons equals the number of electrons, and their charges cancel. "Equal charges" alone loses the mark.
+
 ## Next steps
 
 - [Fundamental particles study guide](/resources/aqa-a-level-chemistry-fundamental-particles/)

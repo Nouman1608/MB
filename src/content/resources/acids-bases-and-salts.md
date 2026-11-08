@@ -28,13 +28,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "acids-bases-and-salts"
     subtopic: "preparation-of-salts"
-description: "Properties of acids and bases, strong vs weak acids, acidic/basic/amphoteric oxides, and preparing soluble and insoluble salts, for Cambridge IGCSE 0620 and O Level 5070."
+description: "Acid and base reactions, indicators, strong and weak acids, oxide types and preparing soluble and insoluble salts for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers Topic 7, Acids, bases and salts — subtopics **7.1 The
@@ -274,6 +276,23 @@ instead
 - Defining hydrated and anhydrous substances
 - *(0620 Extended, 5070 required)* water of crystallisation, e.g.
 CuSO₄·5H₂O and CoCl₂·6H₂O
+
+## Frequently asked questions
+
+**What are the products when an acid reacts with a carbonate?**
+An acid reacts with a carbonate to give a salt, water and carbon dioxide. Carbon dioxide is the product most often left out of exam answers.
+
+**Is precipitation of insoluble salts in the Cambridge IGCSE 0620 Core syllabus?**
+No. Preparing insoluble salts by precipitation is Supplement (Extended) content for 0620, along with strong and weak acids, amphoteric oxides and water of crystallisation. Cambridge O Level 5070 has no Core/Extended split, so every outcome is required.
+
+**Are all metal oxides basic?**
+Most metal oxides, such as copper(II) oxide and calcium oxide, are basic, but aluminium oxide and zinc oxide are amphoteric. Amphoteric oxides react with both acids and bases, producing a salt and water either way.
+
+**Why is there no evaporation step when making an insoluble salt?**
+An insoluble salt forms as a precipitate when two soluble solutions are mixed, so it never dissolves. It is filtered, washed and dried directly, whereas a soluble salt has to be crystallised from its solution.
+
+**Which sulfates and chlorides are insoluble?**
+Most sulfates are soluble except barium, calcium and lead sulfates, and most chlorides are soluble except lead and silver chlorides. All sodium, potassium, ammonium and nitrate salts are soluble.
 
 ## Related resources
 

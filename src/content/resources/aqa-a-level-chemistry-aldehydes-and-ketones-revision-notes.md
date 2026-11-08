@@ -249,6 +249,23 @@ and IR).
 </figure>
 
 
+## Frequently asked questions
+
+**What does NaBH₄ reduce aldehydes and ketones to?**
+NaBH₄ in aqueous solution reduces an aldehyde to a primary alcohol and a ketone to a secondary alcohol, by nucleophilic addition with H⁻ as the nucleophile. Overall equations use 2[H] added across the C=O bond.
+
+**Why are ketones not oxidised by Tollens' reagent or Fehling's solution?**
+The C=O carbon in a ketone has no hydrogen atom, so oxidation would mean breaking a C–C bond. Aldehydes are oxidised to carboxylic acids, giving a silver mirror with Tollens' reagent and a red precipitate with Fehling's solution.
+
+**How many moles of silver does one mole of aldehyde produce with Tollens' reagent?**
+One mole of aldehyde reduces two moles of silver(I) ions to silver, while one mole of aldehyde gives one mole of Cu₂O with Fehling's solution. Using a 1 : 1 ratio for silver is a common mistake.
+
+**Which carbonyl compounds give a racemic mixture with KCN?**
+Aldehydes other than methanal, and unsymmetrical ketones, give a chiral hydroxynitrile that forms as a racemic mixture. Methanal and symmetrical ketones such as propanone do not, because the product carbon does not have four different groups.
+
+**Why is KCN used instead of HCN in AQA A-level Chemistry?**
+HCN is hard to handle safely, and as a weak acid it gives few CN⁻ ions, whereas KCN gives plenty. KCN is still highly toxic and releases HCN when acid is added, so a fume cupboard, gloves and eye protection are needed.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

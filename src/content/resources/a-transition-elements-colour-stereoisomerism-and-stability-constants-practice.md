@@ -20,13 +20,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-chemistry-of-transition-elements"
     subtopic: "a-stability-constants-kstab"
-description: "Original exam-style practice questions with full worked answers on d-orbital splitting and colour, cis/trans and optical isomerism in complexes, and stability constant (Kstab) calculations for Cambridge A Level Chemistry 9701."
+description: "Original practice questions with worked answers on d-orbital splitting and colour, isomerism in complexes and Kstab for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -139,3 +141,17 @@ Related: [Transition Elements: Colour, Stereoisomerism and Stability Constants r
 - Missing the electron-count requirement: d⁰ has nothing to promote from, d¹⁰ has nowhere to promote to — both are colourless regardless of ligand.
 - Assuming any complex with bidentate ligands is automatically chiral — check whether a mirror plane exists (the *trans* isomer above does, and is not chiral).
 - Forgetting to square [NH₃] in the Kstab expression before substituting.
+
+## Frequently asked questions
+
+**Are these Cambridge 9701 practice questions real past-paper questions?**
+No. They are original questions written for revision of Cambridge International A Level Chemistry 9701 content on colour, stereoisomerism and stability constants. They do not copy the exam's structure or mark tariffs, so use them alongside the official past papers from Cambridge.
+
+**How do you explain the colour of a transition-metal complex for full marks?**
+Refer to the gap between the split d orbitals, say that light of a particular visible frequency is absorbed as an electron is promoted from a lower to a higher d orbital, and state that the colour seen is the complementary colour. Vague phrases such as "a different energy gap" were not credited in a June 2025 examiner report.
+
+**How should you check whether a complex shows optical isomerism?**
+Look for an internal mirror plane. If the complex has none, it and its mirror image are non-superimposable and form a pair of optical isomers; do not assume a complex is chiral just because it contains bidentate ligands.
+
+**What is the most common slip in Kstab calculations?**
+Forgetting to raise the ligand concentration to the power shown in the balanced equation, such as squaring [NH₃] when two ammonia molecules bind, before substituting. Write the Kstab expression first, then rearrange it for the unknown concentration.

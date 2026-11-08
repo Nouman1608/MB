@@ -287,6 +287,23 @@ You can also work backwards: if Kc gets smaller as the temperature rises, the fo
 - Saying Kc changes when the concentration or pressure changes. At constant temperature, it does not.
 - Writing a compromise answer about yield only. Marks also need rate, cost and, for pressure, safety or equipment.
 
+## Frequently asked questions
+
+**What are the two features of a dynamic equilibrium?**
+In a closed system at dynamic equilibrium, the forward and reverse reactions proceed at equal rates and the concentrations of reactants and products remain constant. The concentrations are constant, not necessarily equal.
+
+**How does increasing pressure affect an equilibrium?**
+Increasing the pressure shifts the equilibrium towards the side with fewer moles of gas, which lowers the pressure. If both sides have the same number of moles of gas, pressure has no effect on the position; count gas moles only.
+
+**What happens to Kc when temperature rises for an exothermic reaction?**
+If the forward reaction is exothermic, raising the temperature shifts the equilibrium to the left, so Kc decreases and the yield of products falls. For an endothermic forward reaction, Kc increases.
+
+**How do you write a Kc expression?**
+Put the equilibrium concentrations of the products on top and the reactants on the bottom, each raised to the power of its coefficient in the balanced equation. Square brackets [X] mean concentration in mol dm⁻³.
+
+**Is there a required practical for equilibria in AQA A-level Chemistry 7405?**
+No. Section 3.1.6 lists no required practical, but the specification suggests test-tube equilibrium shifts and finding Kc for the formation of ethyl ethanoate as practical activities.
+
 ## Next steps
 
 Condense this with the [revision notes](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-revision-notes/), then test yourself with the [practice questions](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-practice/). For paper formats, see the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/), and try the [free diagnostics](/diagnostics/).

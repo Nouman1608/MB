@@ -22,13 +22,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "organic-chemistry"
     subtopic: "carboxylic-acids"
-description: "Manufacturing ethanol by fermentation and by hydration of ethene, and the reactions of carboxylic acids including ester formation, for Cambridge IGCSE 0620 and O Level 5070."
+description: "Making ethanol by fermentation and from ethene, ethanol uses, ethanoic acid reactions and esterification for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers Topic 11, Organic chemistry — subtopics **11.6 Alcohols**
@@ -238,6 +240,23 @@ salts produced (ethanoates)
 ethanoic acid
 - *(0620 Extended, 5070 required)* esterification: reactants, catalyst,
 products, and naming the ester
+
+## Frequently asked questions
+
+**What are the two ways of manufacturing ethanol?**
+Ethanol is made by fermentation of aqueous glucose with yeast at 25–35 °C in the absence of oxygen, or by catalytic addition of steam to ethene at 300 °C and 6000 kPa with an acid catalyst. Fermentation uses a renewable raw material but is slow; the ethene route is fast but uses non-renewable crude oil.
+
+**Why must oxygen be kept out during fermentation?**
+Fermentation is anaerobic. If oxygen is present, the yeast respires aerobically instead and no ethanol accumulates.
+
+**What salt forms when ethanoic acid reacts with sodium hydroxide?**
+Ethanoic acid reacts with sodium hydroxide to form sodium ethanoate and water. Salts of ethanoic acid are called ethanoates, following the same naming pattern as salts of inorganic acids.
+
+**Is esterification in the Cambridge IGCSE 0620 Core syllabus?**
+No. Forming an ester from a carboxylic acid and an alcohol, and oxidising ethanol to ethanoic acid, are Supplement (Extended) content for 0620. Cambridge O Level 5070 has no Core/Extended split, so all of it is required.
+
+**Does Cambridge O Level 5070 only examine ethanol and ethanoic acid?**
+5070's wording is broader than 0620's: it asks for the combustion of alcohols and the reactions of carboxylic acids in general. Ethanol and ethanoic acid are the standard teaching examples rather than the only examinable ones.
 
 ## Related resources
 

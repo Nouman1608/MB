@@ -363,6 +363,23 @@ solution, which could cool and crystallise in the funnel.
 - Missing the charges on the intermediate, or showing Cl⁻ leaving before the C=O re-forms.
 - Using a large volume of hot solvent in recrystallisation, which loses product.
 
+## Frequently asked questions
+
+**Why are carboxylic acids weak acids?**
+Carboxylic acids only partially dissociate in water: RCOOH ⇌ RCOO⁻ + H⁺. They still release carbon dioxide from carbonates, so fizzing does not mean an acid is strong.
+
+**How is an ester made from a carboxylic acid?**
+A carboxylic acid reacts reversibly with an alcohol in the presence of an acid catalyst to form an ester and water. The ester is named with the alcohol part first, for example ethyl ethanoate.
+
+**Why does a fat give three molecules of soap or biodiesel?**
+A fat is an ester of glycerol with three long-chain carboxylic acids, so hydrolysing one fat molecule releases three acid chains. It gives three soap molecules with alkali, or three methyl ester biodiesel molecules with methanol, plus glycerol.
+
+**Why do you use 2NH₃ in the equation for an acyl chloride with ammonia?**
+The HCl formed reacts with excess ammonia to give ammonium chloride, so the equation is CH₃COCl + 2NH₃ → CH₃CONH₂ + NH₄Cl. Showing free HCl in excess ammonia is a common error.
+
+**Why use the minimum volume of hot solvent in recrystallisation?**
+Using the minimum volume means the product crystallises out when the solution cools, while soluble impurities stay dissolved. Too much solvent keeps product in solution and lowers the yield; this is part of AQA Required practical 10.
+
 ## Next steps
 
 For revision planning across the course, see the [AQA A-Level Chemistry exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/).

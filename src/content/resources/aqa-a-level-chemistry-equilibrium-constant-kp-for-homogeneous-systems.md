@@ -300,6 +300,23 @@ The introduction to section 3.1.10 explains that Kp lets us calculate how an equ
 - Saying a catalyst increases the equilibrium yield.
 - Rounding partial pressures early, then losing the final accuracy mark.
 
+## Frequently asked questions
+
+**What is Kp in AQA A-level Chemistry?**
+Kp is the equilibrium constant calculated from partial pressures for a gas-phase reaction at constant temperature. It is section 3.1.10 of the AQA 7404/7405 specification and is A-level only.
+
+**Why is Kp used instead of Kc for gas reactions?**
+For reactions in the gas phase it is often easier to measure pressure than concentration. Kp is written in the same pattern as Kc, but with partial pressures instead of square-bracket concentrations.
+
+**Why does increasing pressure not change Kp?**
+At constant temperature, a pressure change makes the mole fractions adjust as the position of equilibrium shifts towards the side with fewer moles of gas. The value of Kp stays the same; only temperature changes it.
+
+**What is the most common error when finding total moles for Kp?**
+Leaving out a gas, such as a product that starts at zero, or using initial moles instead of equilibrium moles. The total must include every gas in the equilibrium mixture.
+
+**How does Kp relate to the Haber process?**
+In the Haber process, N₂(g) + 3H₂(g) ⇌ 2NH₃(g), there are 4 moles of gas on the left and 2 on the right, so high pressure raises the equilibrium proportion of ammonia. Kp itself does not change with pressure.
+
 ## Next steps
 
 Condense this with the [Kp revision notes](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes/), then test yourself with the [Kp practice questions](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-practice/). For Kc and Le Chatelier questions, use the [Kc practice set](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-practice/). Paper formats are in the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/), and you can find gaps quickly with the [free diagnostics](/diagnostics/).

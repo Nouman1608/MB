@@ -23,11 +23,13 @@ syllabusTopics:
 description: "Condensed recall notes on subatomic particles, mass spectrometry, electron configuration and ionisation energies for AQA A Level Chemistry 7405."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -170,3 +172,19 @@ Every underlined element is a mark: *one mole*, *gaseous*, and the specified cha
   <figcaption>First ionisation energy rises across Period 3 with dips at Al (outer 3p electron) and S (paired 3p electrons).</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the relative masses and charges of protons, neutrons and electrons?**
+A proton has relative mass 1 and charge +1, a neutron has relative mass 1 and charge 0, and an electron has relative mass 1/1840 and charge −1. These values are needed for AQA A Level Chemistry 7405 atomic structure questions.
+
+**When is electrospray ionisation used instead of electron impact?**
+Electron impact is used for elements and low-Mr compounds, forming X⁺ ions. Electrospray ionisation is used for large biological molecules that would fragment; the sample gains a proton to form XH⁺.
+
+**Which electrons are lost first when a transition metal forms an ion?**
+The 4s sub-shell fills before 3d but empties first on ionisation. For example, Fe is [Ar]3d⁶4s² and Fe²⁺ is [Ar]3d⁶, not [Ar]3d⁴4s².
+
+**Why does ionisation energy decrease down a group?**
+Down a group there are more shells, a larger atomic radius and more shielding, so the outer electron is held less tightly. This outweighs the increase in nuclear charge.
+
+**Why do lighter ions arrive first in time-of-flight mass spectrometry?**
+All ions are accelerated to the same kinetic energy, so lighter ions travel faster through the field-free drift region. They therefore reach the detector before heavier ions.
