@@ -114,7 +114,7 @@ The guide gives its own examples only for the first five rows; the others are Ma
 
 - **Paper 1** (1 hour 15 minutes; 25 marks; 30% SL, 20% HL) is source-based and draws on the core topics. Four sources, four compulsory structured questions. The paper always includes a non-textual source, such as a table or image.
 - Early questions test understanding and application: pick out a type of power in a source, or explain a term. Later questions ask you to compare two sources, then evaluate a claim using the sources and your own knowledge.
-- **Paper 2** (1 hour 45 minutes; 30 marks) has section B integrating questions that link the thematic studies with the core topics. Power is the natural bridge.
+- **Paper 2** (1 hour 30 minutes; 30 marks) has section B integrating questions that link the thematic studies with the core topics. Power is the natural bridge.
 - Key command terms: *identify* and *outline* (AO1); *explain* and *distinguish* (AO2); *compare and contrast*, *evaluate* and *to what extent* (AO3).
 - Actors matter: the [stakeholders and systems guide](/resources/ib-dp-global-politics-core-stakeholders-and-systems/) covers who holds power in each case.
 - Link power to the thematic studies: who can enforce rights in [rights and justice](/resources/ib-dp-global-politics-rights-justice/), and how the balance of power shapes war and peace in [peace and conflict](/resources/ib-dp-global-politics-peace-conflict/).

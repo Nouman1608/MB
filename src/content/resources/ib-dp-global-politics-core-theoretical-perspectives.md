@@ -128,7 +128,7 @@ A theory can also shape behaviour. If leaders believe rivals are always hostile,
 
 **Paper 1** (1 hour 15 minutes, 25 marks, SL and HL) is source-based and draws on the core topics, so theory can appear here. The last question rewards evaluating sources, synthesis with your own knowledge, and exploring and evaluating different perspectives. Recognising that a source reasons like a realist or a liberal is a quick way to show this.
 
-**Paper 2** (1 hour 45 minutes, 30 marks, SL and HL) asks for two essays. One comes from section A, on a thematic study, and one from section B, whose integrating questions connect the thematic studies and the core. The top markband expects diverse perspectives that are explored and evaluated. Theory is one strong way to do that.
+**Paper 2** (1 hour 30 minutes, 30 marks, SL and HL) asks for two essays. One comes from section A, on a thematic study, and one from section B, whose integrating questions connect the thematic studies and the core. The top markband expects diverse perspectives that are explored and evaluated. Theory is one strong way to do that.
 
 A theory paragraph has four parts:
 
