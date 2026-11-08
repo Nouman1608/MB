@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "natural-resources-0680"
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "extraction-of-rocks-ores-and-minerals-0680"
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "energy-resources-0680"
 description: "Original exam-style practice questions with full worked answers on renewable and non-renewable resources, energy, water and sustainability."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
