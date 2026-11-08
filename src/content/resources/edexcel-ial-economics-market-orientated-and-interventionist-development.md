@@ -283,6 +283,20 @@ The band stabilises farm incomes and prices. If the floor is set above the long-
 - Quoting a flat microfinance rate as the true cost.
 - Giving a list of strategies without a judgement about which suits the country described.
 
+## Frequently asked questions
+
+**Does removing a fuel subsidy always hurt the poor?**
+Not necessarily. Removal frees funds for health, schools or infrastructure, and the poor can be protected through a working transfer system. If administration is weak, the cost may fall on poorer households.
+
+**Why does FDI raise GDP by more than national income?**
+Part of the output of a foreign-owned plant is profit sent abroad, so GNI rises by less than GDP.
+
+**Why should an infant industry tariff fall over time?**
+As the protected industry learns and its unit costs fall, a smaller tariff is needed for it to compete with imports. A declining tariff schedule limits the cost to buyers, though firms may never grow up if protection lasts too long.
+
+**Which Edexcel International A Level Economics items cover development strategies?**
+Section 4.3.6, item 3, points a and b, in Unit 4 of the Pearson Edexcel International A Level Economics specification covers the impact of market-orientated and interventionist strategies.
+
 ## Official syllabus
 
 *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics*, Specification, Issue 2, June 2018, published by Pearson Education Limited. Section 4.3.6, Growth and development in developing, emerging and developed economies, item 3, points a and b.

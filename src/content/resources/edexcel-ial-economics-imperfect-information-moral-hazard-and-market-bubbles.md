@@ -232,6 +232,20 @@ A share priced at 120 with earnings per share (EPS) of 10 has a price-earnings r
 
 Exam technique is covered on the [exam preparation page](/resources/edexcel-ial-economics-exam-preparation/).
 
+## Frequently asked questions
+
+**How does imperfect information affect saving for a pension?**
+Pensions involve long horizons, complex products and a payoff decades away. People underestimate how much they need and how compounding works, and delay saving, so they save too little.
+
+**Why can one average insurance premium cause a market failure?**
+If insurers cannot see each customer's risk and charge one average premium, low-risk customers may find cover poor value and leave. The insured pool becomes riskier and cover worth having is not bought.
+
+**How can an insurance excess reduce moral hazard?**
+An excess makes the policyholder bear part of any loss, so they have more reason to take care and the chance of a claim falls.
+
+**What is negative equity?**
+Negative equity is when a home is worth less than the mortgage borrowed to buy it, which can happen when house prices fall after a bubble.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.5 Market failure, items 4 to 6.

@@ -222,6 +222,20 @@ Test: welfare after intervention is lower than welfare before.
 - Using general words such as "expensive" instead of quantities, prices and who pays.
 - Forgetting that permits fix the amount of pollution rather than its price.
 
+## Frequently asked questions
+
+**Does a tax or subsidy shift demand or supply?**
+Both shift supply. A tax adds to firms' costs, so supply shifts left (up by the tax), while a subsidy cuts costs, so supply shifts right. Demand does not move.
+
+**What do tradeable pollution permits fix: the amount of pollution or its price?**
+Permits fix the amount. The government sets a cap on total emissions, and the permit price is found by the market as firms buy and sell permits.
+
+**Is every unintended consequence a government failure?**
+No. Government failure is intervention that results in a net welfare loss, so you must show that welfare falls overall, not just that there is a side effect.
+
+**When does a maximum or minimum price have an effect?**
+A maximum price only bites if it is set below the equilibrium price, and a minimum price only if it is set above it. Otherwise the market price is unaffected.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited. These notes cover section 1.3.6 items 1 and 2 of Unit 1.

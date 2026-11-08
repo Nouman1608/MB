@@ -254,6 +254,20 @@ Not every pair conflicts. Faster growth usually lowers unemployment and raises t
 - Treating a current account deficit as automatically bad, without asking about size and finance.
 - Stopping at "inequality rises" with no chain or evaluation.
 
+## Frequently asked questions
+
+**Why is the short-run Phillips curve convex?**
+At low unemployment, firms compete for scarce workers, so wage and price pressure builds fast. At high unemployment, extra slack does little to slow wage growth.
+
+**What is the difference between relative and absolute decoupling?**
+Relative decoupling means emissions grow more slowly than output but still rise. Absolute decoupling means total emissions do not rise, or fall, while output grows, which needs emissions per unit of output to fall fast enough to offset growth.
+
+**What is stagflation?**
+Stagflation is falling output and rising prices together. It can follow a cost-push shock, such as a rise in imported fuel prices, which shifts the short-run Phillips curve outwards.
+
+**Which Edexcel International A Level Economics items cover macroeconomic objectives?**
+Sub-topic 2.3.6, items 1 and 2, in Unit 2 of the Pearson Edexcel International A Level Economics specification covers the macroeconomic objectives and the conflicts between them.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018 (first teaching September 2018), Pearson Education Limited; sub-topic 2.3.6, items 1 and 2.

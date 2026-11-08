@@ -266,6 +266,20 @@ Growth tends to lower unemployment and raise tax revenue, so the budget improves
 - Mixing up deficit (flow) and debt (stock).
 - Ignoring that a gap can widen while everyone's income rises.
 
+## Frequently asked questions
+
+**Does current account equilibrium mean a balance of exactly zero?**
+No. A small deficit financed by steady investment inflows may be sustainable; a large, persistent deficit means the country relies on borrowing or selling assets. A balanced budget likewise need not be exactly zero every year.
+
+**Which way round are the axes of the Phillips curve?**
+Unemployment goes on the horizontal axis and inflation on the vertical axis. Labelling them the wrong way round is a common error.
+
+**Can inequality rise while everyone's income rises?**
+Yes. If higher-income groups gain more than lower-income groups, the gap widens even though every group is better off in absolute terms.
+
+**How can income equality be measured?**
+One measure is the share of income held by the top and bottom groups, for example the top 20% compared with the bottom 20%. A higher ratio of the top share to the bottom share means less equality.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018 (first teaching September 2018), Pearson Education Limited; sub-topic 2.3.6, items 1 and 2.
