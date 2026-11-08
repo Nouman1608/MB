@@ -12,6 +12,18 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-1-2-2251"
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-1-3-2251"
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-2-1-2251"
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-3-1-2251"
 description: "Original exam-style practice questions with full worked answers on research methods, socialisation, culture and social inequality."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

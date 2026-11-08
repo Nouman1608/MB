@@ -12,6 +12,18 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-family-education-crime-2251"
+  - qualification: "o-level"
+    topic: "paper-2-family-education-crime-2251"
+    subtopic: "kq-4-2-2251"
+  - qualification: "o-level"
+    topic: "paper-2-family-education-crime-2251"
+    subtopic: "kq-4-3-2251"
+  - qualification: "o-level"
+    topic: "paper-2-family-education-crime-2251"
+    subtopic: "kq-5-3-2251"
+  - qualification: "o-level"
+    topic: "paper-2-family-education-crime-2251"
+    subtopic: "kq-6-1-2251"
 description: "Original exam-style practice questions with full worked answers on family, education and crime, deviance and social control for Cambridge O Level Sociology Paper 2 (2251)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
