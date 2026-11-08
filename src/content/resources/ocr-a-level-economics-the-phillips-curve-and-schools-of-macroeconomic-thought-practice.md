@@ -118,6 +118,20 @@ Assume wage growth = expected inflation + 0.5 × (6 − U). Evaluate whether the
 - Describing three schools separately and never comparing them.
 - Judging a school without using the data in the question.
 
+## Frequently asked questions
+
+**What is the natural rate of unemployment?**
+The natural rate is the unemployment left when the labour market clears, made up of frictional and structural unemployment. Definitions should make clear that it excludes cyclical unemployment.
+
+**Why does the short-run Phillips curve slope downward?**
+When unemployment is low, labour is scarce, so workers can win bigger pay rises and wage growth is faster. When unemployment is high, wage growth is slower, giving an inverse relationship.
+
+**Is NAIRU a target for zero inflation or zero unemployment?**
+Neither. NAIRU, the non-accelerating inflation rate of unemployment, is the rate at which inflation is stable rather than rising or falling. Treating it as a target of zero inflation or zero unemployment is a common error.
+
+**How should you compare the schools of macroeconomic thought in an answer?**
+Compare the Keynesian, neo-classical and Austrian views directly rather than describing each separately, and use the data in the question to judge which explanation fits best.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought/).

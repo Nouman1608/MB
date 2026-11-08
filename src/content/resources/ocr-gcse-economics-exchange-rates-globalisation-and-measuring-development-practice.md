@@ -144,6 +144,20 @@ These questions cover sections 4.3 and 4.4 of the OCR GCSE (9-1) Economics speci
 - Writing a one-sided answer to an evaluation question.
 - Treating sustainability as an add-on and not applying it to the points made.
 
+## Frequently asked questions
+
+**How do you convert between pounds and a foreign currency?**
+Write the rate as £1 = X units of the foreign currency. Multiply by the rate to turn pounds into the foreign currency, and divide by the rate to turn the foreign currency into pounds; multiplying when converting into pounds is a common error.
+
+**What increases the demand for a country's currency?**
+Demand for a currency rises when foreigners want more of the country's exports, when more tourists visit, or when foreign investors want to put money into the country.
+
+**Does a depreciation always help a country?**
+No. A fall in the currency makes exports cheaper abroad, but it also makes imports, imported parts and holidays abroad dearer, and the effect on sales depends on the price elasticity of demand.
+
+**How should you write about sustainability in a globalisation question?**
+Apply sustainability to each point you make rather than adding it at the end, and weigh costs and benefits for workers, producers and consumers to reach a two-sided judgement.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development/).

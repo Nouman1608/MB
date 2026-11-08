@@ -199,6 +199,20 @@ Questions to ask whenever you compare:
 - Quoting remembered UK statistics from outside the question without a year.
 - Listing differences between economy groups without a judgement about UK performance.
 
+## Frequently asked questions
+
+**How do you calculate real wage growth?**
+Divide one plus the growth in nominal wages by one plus inflation and subtract 1. If nominal wages rise by less than prices, real wages fall.
+
+**What trends has the UK shown over the last 20 years?**
+The OCR AS Level Economics (H060) notes highlight a persistent current account deficit, slower productivity growth after 2008 to 2009, and policy that shifted between loose and tight.
+
+**Why use GDP per head rather than total GDP?**
+Population growth can make strong total growth look weak in terms of living standards. Real GDP per head grows by roughly real GDP growth minus population growth.
+
+**What is the difference between a level and a rate?**
+A level is where a series stands, such as the number unemployed, while a rate is how fast it is changing. A falling unemployment rate can still leave unemployment above its old level.
+
 ## Official syllabus
 
 These notes follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR (Oxford Cambridge and RSA Examinations). The topic Trends in macroeconomic indicators sits in the Area of Study Economic policy objectives and indicators of macroeconomic performance, Component 02, Macroeconomics.

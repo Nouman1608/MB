@@ -241,6 +241,23 @@ The seriousness of unemployment depends on its type, length and location. Short 
 - Treating all unemployment as cyclical.
 - Listing costs and benefits of growth without a judgement.
 
+## Frequently asked questions
+
+**What is GDP?**
+Gross Domestic Product (GDP) is the money value of all the final output produced inside a country's borders during a set period, usually a year. Economic growth is measured by the percentage change in GDP.
+
+**Why is GDP per capita a better measure of living standards?**
+GDP per capita divides output by the population, so it shows output per person. It is a better guide to average living standards than total GDP, although it hides how unevenly income is shared.
+
+**Is economic growth always sustainable?**
+Not automatically. Whether growth is sustainable depends on how the output is produced; growth based on renewable energy differs from growth based on burning fossil fuels.
+
+**Who is counted as unemployed?**
+A person is unemployed if they have no job but are available for work and looking for it. People who are retired or in full-time education are not part of the labour force.
+
+**Why is long-term structural unemployment so damaging?**
+Skills are lost the longer a spell lasts, health and confidence suffer, and when it is concentrated in one region, local spending falls and the decline becomes self-reinforcing.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), for first assessment in 2019, published by Cambridge OCR. This page follows sections 3.1 and 3.2.

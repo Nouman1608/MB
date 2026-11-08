@@ -131,6 +131,20 @@ These questions cover the topic **The economic cycle** in the OCR *A Level Econo
 - Evaluation that says "it depends" without saying on what.
 - Working from nominal rather than real figures.
 
+## Frequently asked questions
+
+**How do you calculate the multiplier when there are taxes and imports?**
+Add the marginal propensities to save, to be taxed and to import to find the marginal propensity to withdraw, then divide 1 by that figure. Using 1 ÷ (1 − MPC) when taxes and imports are in the question is a common mistake.
+
+**Does real GDP rise by the full shift in aggregate demand?**
+Not if short-run aggregate supply slopes upward. The AD curve shifts by the injection times the multiplier, but part of the effect goes into higher prices, so real GDP rises by less.
+
+**How do you calculate an output gap?**
+Subtract potential output from actual output and divide by potential output, then multiply by 100. Keep the minus sign for a negative gap, because dropping it loses marks.
+
+**How do you write a good evaluation on output gaps in OCR A Level Economics?**
+Judge which causes or consequences matter most rather than listing them, and when you say "it depends", say what it depends on, such as the size of the gap or how long it lasts.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps/).

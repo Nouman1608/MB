@@ -241,5 +241,22 @@ Higher incomes face a bigger average rate, which makes the tax progressive. A 20
 - Writing "progressive" when only the total tax paid rises; it is the average rate that must rise.
 - Giving only benefits in an evaluation, with no cost, judgement or condition.
 
+## Frequently asked questions
+
+**What is fiscal policy?**
+Fiscal policy means a government changing how much it spends and how much tax it raises in order to steer the economy towards its objectives, such as growth, low unemployment and price stability.
+
+**What is monetary policy?**
+Monetary policy is the use of interest rates, and sometimes the money supply, by the central bank to influence the economy. In the UK the Bank of England sets Bank Rate.
+
+**How does an interest rate rise affect investment?**
+A firm invests only if the expected return is higher than the cost of borrowing. When interest rates rise, borrowing costs more, so some projects that were profitable at lower rates are no longer worth doing.
+
+**Does the OCR GCSE Economics specification use the term multiplier?**
+No. The specification does not use the word multiplier, but you can use the idea of a knock-on effect to explain why government spending raises income by more than its own size as it is re-spent.
+
+**Is national insurance a direct or indirect tax?**
+National insurance is a direct tax, because it is paid from income. Calling it an indirect tax is a common mistake.
+
 ## Official syllabus
 OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), first assessment 2019, published by OCR. Sections 3.5 and 3.6.

@@ -292,6 +292,23 @@ Evaluation: effects depend on the size and duration of the gap, who is affected,
 - Treating the AD shift as the final change in real GDP when SRAS slopes upward.
 - Saying accelerator investment depends on the level of income, not its change.
 
+## Frequently asked questions
+
+**What is the economic cycle?**
+The economic cycle is the repeated pattern in which real GDP grows faster than usual, slows, sometimes falls, and then recovers, fluctuating around its long-run trend.
+
+**What factors determine the trend rate of growth?**
+The OCR A Level Economics (H460) guide lists labour supply, human capital, capital investment, technology, natural resources, and institutions, infrastructure and competition. Productivity is usually the main source of growth in a mature economy.
+
+**What is the difference between a negative and a positive output gap?**
+A negative output gap occurs when actual output is below potential, leaving spare capacity and unemployment. A positive output gap occurs when output is above its sustainable level, so resources are overstretched and inflation tends to rise.
+
+**How does the multiplier-accelerator model explain the economic cycle?**
+Rising income raises investment through the accelerator, which raises income again through the multiplier, so expansion feeds on itself. When growth slows, investment falls even though income is still rising, and the multiplier then works in reverse.
+
+**Why should growth be measured in real terms?**
+Nominal GDP rises with prices as well as output. Dividing by a price deflator gives real GDP, which shows the change in the volume of output.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), first assessment 2021, Component 2 content: Aggregate demand and aggregate supply, topic The economic cycle. Published by OCR (Oxford Cambridge and RSA).

@@ -266,6 +266,23 @@ From 1,000 to 8,000 candles output rises 700% while AC falls (3.20 − 5.00) ÷ 
 - Shifting the curve when only price changed. A price change is a movement along the curve.
 - Giving a list of benefits with no judgement in an "evaluate" answer.
 
+## Frequently asked questions
+
+**What is the difference between production and productivity?**
+Production is the total amount of goods and services a firm or economy produces. Productivity measures how much each worker, hour or machine contributes, such as output per worker.
+
+**What are economies of scale?**
+Economies of scale are falls in average cost as a firm increases its scale of production. They let a firm cut its price, widen its profit margin, or both.
+
+**How do you calculate market share?**
+Divide a firm's sales by the total sales in the market and multiply by 100. The combined share of the largest firms helps show whether a market is competitive or an oligopoly.
+
+**Does competition always benefit everyone?**
+No. Consumers usually gain from lower prices, more choice and better quality, but producers face lower margins and weaker firms may leave the market. If many rivals fail, survivors may later raise prices.
+
+**What do "analyse" and "evaluate" mean in OCR GCSE Economics (J205)?**
+The specification defines "analyse" as presenting logical chains of reasoning, and "evaluate" as weighing up both sides or comparing alternatives and reaching a supported judgement.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), specification Version 2.0 (June 2026), for first assessment in 2019, published by OCR. Sections 2.5 and 2.6.

@@ -138,6 +138,23 @@ These questions cover sections 3.3 and 3.4 of the OCR GCSE (9-1) Economics speci
 - Listing consequences with no chain of reasoning.
 - Evaluating without a judgement, or giving a judgement without a reason.
 
+## Frequently asked questions
+
+**How do you calculate net wealth?**
+Net wealth is total assets minus total liabilities. Treating debts such as a mortgage as assets, or ignoring them, is a common mistake.
+
+**How do you work out the price of an item after several years of inflation?**
+Multiply the starting price by one plus each year's inflation rate in turn, rather than adding the inflation rates together, because each year's rise applies to the already higher price.
+
+**How do you calculate the CPI from weights and price indices?**
+Multiply each category's price index by its weight and add the results. Check that the weights sum to 1, because missing weights is a common error in OCR GCSE Economics (J205) answers.
+
+**What is the difference between demand-pull and cost-push inflation?**
+Demand-pull inflation happens when total spending rises faster than the economy can supply, for example after interest rate cuts. Cost-push inflation happens when firms' costs, such as wages, energy or raw materials, rise and are passed on in prices.
+
+**How do you get full marks on an "evaluate" question about inflation?**
+Build a chain of reasoning for each group affected, such as savers, borrowers, producers and the government, then give a judgement with a reason, for example depending on whether incomes keep pace with prices.
+
 ## Next steps
 
 - [Revision notes](/resources/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price-revision-notes/)

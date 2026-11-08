@@ -226,6 +226,20 @@ Evaluation prompts: who gains, what kind of growth, over what time, from what st
 - Writing about unemployment in general when the question asks about individuals, regions or the government.
 - Not using the data given, so the answer reads as generic.
 
+## Frequently asked questions
+
+**What determines economic growth?**
+The OCR GCSE Economics (J205) notes list investment, technology, the size of the workforce, education and training, natural resources and government policies such as infrastructure and tax incentives.
+
+**What is the difference between GDP and GDP per capita?**
+GDP is the total output of an economy, while GDP per capita is output per person. Total GDP can rise while GDP per capita falls if the population grows faster.
+
+**What are the limits of the Claimant Count?**
+The Claimant Count is quick and available by area, but it misses unemployed people who do not claim benefits and changes when benefit rules change.
+
+**What are the consequences of unemployment for a region?**
+Unemployment reduces local spending, leads to shop closures and falling property prices, and can cause people to move away, so the decline can become self-reinforcing.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), for first assessment in 2019, published by Cambridge OCR. These notes follow sections 3.1 and 3.2.

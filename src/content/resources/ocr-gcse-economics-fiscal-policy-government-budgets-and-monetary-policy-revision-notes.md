@@ -263,5 +263,19 @@ All numbers are invented for revision. Country A and the other examples are fict
 - Mixing up the effects on savers and borrowers when rates change.
 - Giving figures without units, or real figures when the question asks for nominal ones.
 
+## Frequently asked questions
+
+**What is the difference between expansionary and contractionary fiscal policy?**
+Expansionary fiscal policy uses lower taxes or higher spending to raise aggregate demand, output and jobs. Contractionary fiscal policy uses higher taxes or lower spending to reduce demand and inflation pressure, at the cost of slower growth.
+
+**What are the limits of monetary policy?**
+The OCR GCSE Economics (J205) notes list time lags, weak confidence, banks not passing on rate changes, heavy household debt, and the harm low rates do to savers.
+
+**Who pays an indirect tax?**
+The tax is shared between buyers and sellers. The more price inelastic the demand, the more of the tax falls on buyers through a higher price.
+
+**What is the difference between progressive, proportional and regressive taxes?**
+A progressive tax takes a higher average rate as income rises, a proportional tax takes the same average rate at all incomes, and a regressive tax takes a smaller share of income from richer households.
+
 ## Official syllabus
 OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), first assessment 2019, published by OCR. Sections 3.5 and 3.6.

@@ -159,6 +159,23 @@ These questions cover the topic Trends in macroeconomic indicators in Component 
 - Comparing countries on different years or units.
 - Listing indicators with no judgement.
 
+## Frequently asked questions
+
+**What is the difference between a percentage point change and a percentage change?**
+If unemployment rises from 4.0% to 6.5%, it has risen by 2.5 percentage points, while the percentage change in the rate is the rise divided by the starting value. Writing "2.5%" where percentage points are needed is a common error.
+
+**How do you calculate average growth over several years?**
+Use the compound method: divide the final index by the starting index, raise it to the power of 1 divided by the number of years, and subtract 1. Adding up the yearly growth rates and dividing gives a slightly higher, approximate figure.
+
+**Does positive growth mean an economy has recovered?**
+No. Positive growth after a recession may start from a low base, so output can still be below its previous level or below where its old trend would have taken it.
+
+**Is falling inflation the same as falling prices?**
+No. Falling inflation (disinflation) means prices are still rising, only more slowly. Prices fall only when inflation is negative, which is deflation.
+
+**How should you compare economies in OCR AS Level Economics (H060)?**
+Use the same years, definitions and units, quote figures from the data, prefer per-head figures for living standards, and reach a judgement rather than listing indicators.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-revision-notes/) and the [study guide](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/).

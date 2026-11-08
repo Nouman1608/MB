@@ -139,6 +139,20 @@ These questions cover sections 1.1 and 1.2 of the OCR GCSE (9-1) Economics speci
 - Mentioning sustainability without saying which type.
 - Ignoring the context given in the question.
 
+## Frequently asked questions
+
+**What are the four factors of production?**
+The four factors are land, labour, capital and enterprise. Capital means man-made goods used in making other goods, such as a tractor. Defining capital as money is a common error.
+
+**What is opportunity cost?**
+Opportunity cost is the value of the next best alternative given up when a choice is made. Only the single next best option counts, not all the alternatives together.
+
+**What is the difference between scarcity and a shortage?**
+Scarcity is the basic economic problem of limited resources compared with unlimited wants, and it applies to everything that uses resources. A shortage of one product at a particular time is not the same thing.
+
+**How do you evaluate a choice using sustainability?**
+Say which type of sustainability you mean, economic, social or environmental, and apply it to the context in the question, then weigh costs and benefits to reach a judgement.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and/)

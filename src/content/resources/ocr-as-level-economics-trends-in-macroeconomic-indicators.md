@@ -189,6 +189,23 @@ For "evaluate the current performance of the UK economy compared with..." questi
 </figure>
 
 
+## Frequently asked questions
+
+**What is a trend in macroeconomic data?**
+A trend is the general direction of a data series over several years once short-term noise is set aside. Economists look at its level, its rate of change and its pattern, such as swings around a long-run path.
+
+**Which indicators should you use to judge macroeconomic performance?**
+The OCR AS Level Economics (H060) specification does not list a fixed set for this topic. The sensible set is real GDP and its growth rate, employment and unemployment, and inflation, with the balance of payments and budget position where relevant.
+
+**How do developed, emerging and developing economies differ?**
+Developed economies have high income per head and a large services sector. Emerging economies are industrialising quickly with high growth, often from a lower base. Developing economies have low income per head and often depend on a few primary products.
+
+**How do you evaluate UK economic performance against other countries?**
+Choose indicators that match the question, state the comparison using the data, explain why gaps might exist, qualify the data, and conclude with a judgement naming which indicator weighs most.
+
+**Why can comparing growth rates between countries mislead?**
+Fast growth from a low base is easier than slow growth from a high base, per-head figures show living standards better than totals, income per head says nothing about distribution, and results depend on exchange rates and definitions.
+
 ## Official syllabus
 
 This guide follows the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR (Oxford Cambridge and RSA Examinations). The topic Trends in macroeconomic indicators sits in the Area of Study Economic policy objectives and indicators of macroeconomic performance, Component 02, Macroeconomics.
