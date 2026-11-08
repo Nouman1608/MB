@@ -27,10 +27,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "commercial-operations-7100"
     subtopic: "communication-7100-commerce"
-description: "Private and public sector enterprises, multinationals, franchises, retailing, wholesaling, trading documents and communication -- the second of six topics in Cambridge O Level Commerce (7100), 2026-2028 series."
+description: "Ownership, public corporations, MNCs, franchises, location, retailing, trading documents and communication for Topic 2 of Cambridge O Level Commerce 7100."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: page was mapped to trading documents and communication but did not teach them; added sections on public corporations, location factors, trading documents, communication and an FAQ; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -137,6 +139,26 @@ trades away personal control in exchange for access to more capital
 and reduced personal risk -- that trade-off is the single idea
 examiners return to most often.
 
+## Why do governments run public corporations? (2.1.2)
+
+**Public corporations** are businesses owned by the state, run by a board appointed by the government and financed partly by government funds. Governments set them up or keep them:
+
+- to provide **essential services**, such as water, electricity or public transport, at prices people can afford;
+- to keep **strategic industries**, such as defence or energy, under national control;
+- to provide services in areas where a private firm would not make a profit, such as rural postal services;
+- to protect jobs when a key industry is in difficulty;
+- to avoid a private **monopoly** charging high prices.
+
+**Which form is appropriate?** Match the form to the situation. A hairdresser starting alone suits a sole trader. Two accountants who want to share skills and costs suit a partnership. A family firm that wants limited liability but no outside owners suits a private limited company. A business that needs millions of dollars to build factories in several countries suits a public limited company.
+
+## How do enterprises choose a location? (2.1.5)
+
+**Physical location factors** decide where a shop, factory or office is built: labour (enough workers with the right skills), markets (nearness to customers), transport links, power supply, raw materials, competition, suppliers, communication networks and government influence (grants, tax breaks or planning rules).
+
+**Ecommerce location factors** matter for a business that sells online: reliable **wi-fi** and internet connections, **warehousing** close to delivery routes, access to **technology specialists**, and good **logistics** for fast delivery and returns.
+
+In an answer, choose the two or three factors that matter most for the business in the question. A bakery needs to be near its customers; a steel works needs raw materials and power; an online clothing retailer needs a warehouse near motorways and a parcel hub.
+
 ## Multinationals and franchises
 
 A multinational company (MNC) has its headquarters in one country and
@@ -171,6 +193,40 @@ The independent wholesaler survives mainly through cash-and-carry
 outlets, which let small retailers buy in person without needing a
 credit account.
 
+## Which trading documents are used, and in what order? (2.5)
+
+| Stage | Document | Sent by | Purpose |
+|---|---|---|---|
+| 1 | Enquiry | Buyer | Asks for details of goods, prices and terms |
+| 2 | Quotation | Seller | States prices, discounts, delivery and payment terms |
+| 3 | Order | Buyer | Formally requests the goods |
+| 4 | Invoice | Seller | The bill: what is supplied, the amount owed and the payment terms |
+| 5 | Delivery note | Seller | Goes with the goods; the buyer checks and signs it to confirm they arrived |
+| 6 | Credit note | Seller | Reduces the amount owed if goods are returned, damaged or overcharged |
+| 7 | Statement of account | Seller | Summarises all transactions for the period and the balance due |
+| 8 | Receipt | Seller | Proof that payment has been made |
+
+The order above follows the syllabus list; in practice the invoice may be sent just before, with or just after the goods.
+
+For **international trade** four more documents are needed: a **certificate of origin** (states the country where the goods were made, used for customs duties and trade agreements), a **bill of lading** (a receipt and document of title for goods sent by sea), an **air waybill** (the equivalent for goods sent by air, but not a document of title), and a **documentary credit** or letter of credit (the importer's bank promises to pay the exporter once the correct documents are presented, which reduces the risk of non-payment).
+
+**Online ordering** follows clear stages: the buyer browses the website, selects items and adds them to a basket, checks out and enters delivery details, pays securely, receives an email confirmation, can track the order, and finally receives the goods. Digital technology appears throughout: **digital signatures**, **secure access** (passwords and encryption), **cloud-based storage** of documents, **electronic receipts** and **etickets**. These save paper, time and storage space, but depend on reliable networks and good cyber security.
+
+## How do businesses choose a method of communication? (2.6)
+
+Communication can be **written** (letters, email), **oral** (telephone, face to face), **electronic** (email, videoconferencing, web chat, social media) or **visual** (posters, charts). Several methods fit more than one type.
+
+| Factor | Best choice | Why |
+|---|---|---|
+| Urgency | Telephone or web chat | Immediate reply |
+| Cost | Email or social media | Very cheap per message |
+| Security | Face to face or encrypted email | Less risk of interception |
+| Distance | Videoconferencing or email | No travel needed |
+| Availability of networks | Letter or face to face | Works without an internet connection |
+| Importance of the message | Letter or face to face | Gives a formal record or personal attention |
+
+**Chatbots** answer routine customer questions on a website at any hour, but they cannot deal well with complex complaints.
+
 ## Worked example
 
 A small electronics retailer is deciding whether to source stock
@@ -194,6 +250,18 @@ the lower risk. Naming a trading document without saying what stage
 of the transaction it belongs to. Treating "communication method"
 questions as a simple list rather than matching the method to the
 stated factors (urgency, cost, security) in the scenario.
+
+## Frequently asked questions
+
+**What is the difference between a private and a public limited company?** Both have limited liability. A public limited company can sell shares to the general public through a stock exchange; a private limited company can sell shares only to people the owners invite.
+
+**Why do governments run public corporations?** To provide essential services at affordable prices, to keep strategic industries under national control, to serve areas a private firm would not, and to prevent private monopolies.
+
+**What is the difference between an invoice and a statement of account?** An invoice is the bill for one delivery. A statement of account summarises all invoices, credit notes and payments over a period and shows the balance still owed.
+
+**Is an air waybill a document of title?** No. A bill of lading is a document of title, so whoever holds it can claim the goods; an air waybill is a receipt and a contract for carriage only.
+
+For outsourcing and the wholesaler in more depth, see the [outsourcing, wholesaling and communication study guide](/resources/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication/). Then test yourself with the [commercial operations revision notes](/resources/o-level-commerce-commercial-operations-revision-notes/) and [practice questions](/resources/o-level-commerce-commercial-operations-practice/).
 
 ## Quick revision checklist
 

@@ -7,7 +7,7 @@ topic: "Globalisation of trade"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["7100"]
-syllabusSeries: "For examination in 2026-2028"
+syllabusSeries: "2026-2028"
 order: 3
 syllabusTopics:
   - qualification: "o-level"
