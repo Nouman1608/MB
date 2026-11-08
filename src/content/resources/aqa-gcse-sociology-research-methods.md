@@ -11,7 +11,7 @@ syllabusSeries: "First teaching September 2017"
 order: 2
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-families-and-education-8192"
+    topic: "sociological-research-methods-topic-8192"
     subtopic: "sociological-research-methods-8192"
 description: "Research design, data types, and practical and ethical issues in sociological investigation -- Section 3.7, examined across both papers, distinct from the site's existing content-focused guides to Families, Education, Crime and Social Stratification."
 author: "marlbridge-academic-team"

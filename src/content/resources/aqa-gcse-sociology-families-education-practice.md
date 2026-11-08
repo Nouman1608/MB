@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-families-and-education-8192"
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "conjugal-role-relationships-8192"
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "divorce-8192"
 description: "Original exam-style practice questions with full worked answers on family types, family functions, education and differential achievement."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

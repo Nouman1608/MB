@@ -12,6 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-crime-and-stratification-8192"
+  - qualification: "gcse"
+    topic: "paper-2-crime-and-stratification-8192"
+    subtopic: "social-control-8192"
+  - qualification: "gcse"
+    topic: "paper-2-crime-and-stratification-8192"
+    subtopic: "criminal-and-deviant-behaviour-8192"
+  - qualification: "gcse"
+    topic: "paper-2-crime-and-stratification-8192"
+    subtopic: "data-on-crime-8192"
 description: "Original exam-style practice questions with full worked answers on crime and deviance, social control, and social stratification for AQA GCSE Sociology (8192)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
