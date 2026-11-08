@@ -1,6 +1,6 @@
 # Advanced-course (AP) library -- resource inventory
 
-Generated 2026-11-08T16:39:31.770Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
+Generated 2026-11-08T17:14:06.783Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
 
 Status per topic: **planned** = no resource yet; **drafted** = written and checked by the Marlbridge Academic Team, awaiting AP-teacher review; **reviewed** = every resource reviewed by a named teacher; **published** = live. Shared Calculus AB/BC material (`calculusScope: ab-and-bc`) counts for both courses.
 
@@ -17,10 +17,10 @@ Status per topic: **planned** = no resource yet; **drafted** = written and check
 | AP Physics 2: Algebra-Based | 7 | 46 | 0 | 0 | 46 | 0 | 200 |
 | AP Physics C: Mechanics | 7 | 41 | 0 | 0 | 41 | 0 | 180 |
 | AP Physics C: Electricity and Magnetism | 6 | 31 | 0 | 0 | 31 | 0 | 138 |
-| AP Microeconomics | 6 | 36 | 0 | 36 | 0 | 0 | 158 |
-| AP Macroeconomics | 6 | 42 | 0 | 42 | 0 | 0 | 182 |
+| AP Microeconomics | 6 | 36 | 0 | 0 | 36 | 0 | 158 |
+| AP Macroeconomics | 6 | 42 | 0 | 0 | 42 | 0 | 182 |
 
-Total topics: planned 0, drafted 78, reviewed 559, published 0. Resource records: 2388.
+Total topics: planned 0, drafted 0, reviewed 637, published 0. Resource records: 2388.
 
 Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned for Phase 2)**.
 
@@ -632,86 +632,86 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Scarcity | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.2 | Resource Allocation and Economic Systems | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.3 | Production Possibilities Curve | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.4 | Comparative Advantage and Trade | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.5 | Cost-Benefit Analysis | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.6 | Marginal Analysis and Consumer Choice | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.1 | Demand | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.2 | Supply | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.3 | Price Elasticity of Demand | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.4 | Price Elasticity of Supply | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.5 | Other Elasticities | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.6 | Market Equilibrium and Consumer and Producer Surplus | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.7 | Market Disequilibrium and Changes in Equilibrium | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.8 | The Effects of Government Intervention in Markets | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.9 | International Trade and Public Policy | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.1 | The Production Function | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.2 | Short-Run Production Costs | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.3 | Long-Run Production Costs | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.4 | Types of Profit | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.5 | Profit Maximization | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.6 | Firms’ Short-Run Decisions to Produce and Long-Run Decisions to Enter or Exit a Market | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.7 | Perfect Competition | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.1 | Introduction to Imperfectly Competitive Markets | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.2 | Monopoly | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.3 | Price Discrimination | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.4 | Monopolistic Competition | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.5 | Oligopoly and Game Theory | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.1 | Introduction to Factor Markets | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.2 | Changes in Factor Demand and Factor Supply | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.3 | Profit-Maximizing Behavior in Perfectly Competitive Factor Markets | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.4 | Monopsonistic Markets | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.1 | Socially Efficient and Inefficient Market Outcomes | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.2 | Externalities | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.3 | Public and Private Goods | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.4 | The Effects of Government Intervention in Different Market Structures | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.5 | Inequality | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.1 | Scarcity | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Resource Allocation and Economic Systems | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Production Possibilities Curve | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Comparative Advantage and Trade | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Cost-Benefit Analysis | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.6 | Marginal Analysis and Consumer Choice | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.1 | Demand | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.2 | Supply | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.3 | Price Elasticity of Demand | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.4 | Price Elasticity of Supply | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.5 | Other Elasticities | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.6 | Market Equilibrium and Consumer and Producer Surplus | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.7 | Market Disequilibrium and Changes in Equilibrium | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.8 | The Effects of Government Intervention in Markets | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.9 | International Trade and Public Policy | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.1 | The Production Function | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.2 | Short-Run Production Costs | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.3 | Long-Run Production Costs | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.4 | Types of Profit | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.5 | Profit Maximization | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.6 | Firms’ Short-Run Decisions to Produce and Long-Run Decisions to Enter or Exit a Market | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.7 | Perfect Competition | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.1 | Introduction to Imperfectly Competitive Markets | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.2 | Monopoly | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.3 | Price Discrimination | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.4 | Monopolistic Competition | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.5 | Oligopoly and Game Theory | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.1 | Introduction to Factor Markets | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.2 | Changes in Factor Demand and Factor Supply | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.3 | Profit-Maximizing Behavior in Perfectly Competitive Factor Markets | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.4 | Monopsonistic Markets | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.1 | Socially Efficient and Inefficient Market Outcomes | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.2 | Externalities | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.3 | Public and Private Goods | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.4 | The Effects of Government Intervention in Different Market Structures | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.5 | Inequality | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
 
 ## AP Macroeconomics
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Scarcity | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.2 | Opportunity Cost and the Production Possibilities Curve (PPC) | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.3 | Comparative Advantage and Gains from Trade | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.4 | Demand | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.5 | Supply | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 1.6 | Market Equilibrium, Disequilibrium, and Changes in Equilibrium | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.1 | The Circular Flow and GDP | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.2 | Limitations of GDP | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.3 | Unemployment | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.4 | Price Indices and Inflation | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.5 | Costs of Inflation | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.6 | Real v. Nominal GDP | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 2.7 | Business Cycles | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.1 | Aggregate Demand (AD) | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.2 | Multipliers | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.3 | Short-Run Aggregate Supply (SRAS) | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.4 | Long-Run Aggregate Supply (LRAS) | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.5 | Equilibrium in the Aggregate Demand–Aggregate Supply (AD–AS) Model | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.6 | Changes in the AD–AS Model in the Short Run | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.7 | Long-Run Self-Adjustment | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.8 | Fiscal Policy | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 3.9 | Automatic Stabilizers | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.1 | Financial Assets | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.2 | Nominal v. Real Interest Rates | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.3 | Definition, Measurement, and Functions of Money | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.4 | Banking and the Expansion of the Money Supply | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.5 | The Money Market | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.6 | Monetary Policy | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 4.7 | The Loanable Funds Market | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.1 | Fiscal and Monetary Policy Actions in the Short Run | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.2 | The Phillips Curve | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.3 | Money Growth and Inflation | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.4 | Government Deficits and the National Debt | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.5 | Crowding Out | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.6 | Economic Growth | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 5.7 | Public Policy and Economic Growth | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.1 | Balance of Payments Accounts | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.2 | Exchange Rates | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.3 | The Foreign Exchange Market | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.4 | Effect of Changes in Policies and Economic Conditions on the Foreign Exchange Market | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.5 | Changes in the Foreign Exchange Market and Net Exports | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
-| 6.6 | Real Interest Rates and International Capital Flows | drafted | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.1 | Scarcity | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Opportunity Cost and the Production Possibilities Curve (PPC) | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Comparative Advantage and Gains from Trade | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Demand | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Supply | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.6 | Market Equilibrium, Disequilibrium, and Changes in Equilibrium | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.1 | The Circular Flow and GDP | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.2 | Limitations of GDP | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.3 | Unemployment | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.4 | Price Indices and Inflation | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.5 | Costs of Inflation | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.6 | Real v. Nominal GDP | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.7 | Business Cycles | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.1 | Aggregate Demand (AD) | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.2 | Multipliers | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.3 | Short-Run Aggregate Supply (SRAS) | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.4 | Long-Run Aggregate Supply (LRAS) | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.5 | Equilibrium in the Aggregate Demand–Aggregate Supply (AD–AS) Model | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.6 | Changes in the AD–AS Model in the Short Run | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.7 | Long-Run Self-Adjustment | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.8 | Fiscal Policy | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.9 | Automatic Stabilizers | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.1 | Financial Assets | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.2 | Nominal v. Real Interest Rates | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.3 | Definition, Measurement, and Functions of Money | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.4 | Banking and the Expansion of the Money Supply | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.5 | The Money Market | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.6 | Monetary Policy | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.7 | The Loanable Funds Market | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.1 | Fiscal and Monetary Policy Actions in the Short Run | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.2 | The Phillips Curve | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.3 | Money Growth and Inflation | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.4 | Government Deficits and the National Debt | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.5 | Crowding Out | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.6 | Economic Growth | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.7 | Public Policy and Economic Growth | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.1 | Balance of Payments Accounts | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.2 | Exchange Rates | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.3 | The Foreign Exchange Market | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.4 | Effect of Changes in Policies and Economic Conditions on the Foreign Exchange Market | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.5 | Changes in the Foreign Exchange Market and Net Exports | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.6 | Real Interest Rates and International Capital Flows | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
