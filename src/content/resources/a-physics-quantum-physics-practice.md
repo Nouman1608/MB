@@ -23,10 +23,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-quantum-physics"
     subtopic: "a-energy-levels-in-atoms-and-line-spectra"
-description: "Original exam-style practice questions with full worked answers on the photoelectric effect, photon energy and energy levels for Cambridge AS & A Level Physics 9702."
+description: "Original practice questions with worked answers on the photoelectric effect, de Broglie wavelength and energy levels for Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -150,3 +152,17 @@ KE_max = 4.97 × 10⁻¹⁹ − 3.68 × 10⁻¹⁹ = **1.29 × 10⁻¹⁹ J** [1
 - Omitting the accumulation argument when criticising the wave model.
 - In electron–positron annihilation from rest, explaining why two photons (not one) are produced by saying only that "the particles are annihilated" — the actual reason is momentum conservation: since the pair starts at rest, the total initial momentum is zero, so the two photons must carry equal and opposite momentum, travelling in opposite directions. (This specific two-photon, opposite-direction result assumes negligible initial kinetic energy; it is not a universal feature of every annihilation.)
 - Confusing the two key quantum equations — hf = φ + KE_max applies only to the photoelectric effect, while hf = E₁ − E₂ applies only to energy-level transitions inside an atom; they describe different physical situations and are not interchangeable.
+
+## Frequently asked questions
+
+**What is the work function of a metal?**
+The work function is the minimum energy needed to remove an electron from the surface of a metal. In the photoelectric equation hf = φ + KE_max, it is the term φ.
+
+**Does brighter light give faster photoelectrons?**
+No. Increasing the intensity increases the number of photons and so the number of electrons emitted per second, but the maximum kinetic energy of each electron depends only on the frequency of the light.
+
+**Why can the wave model not explain the photoelectric effect?**
+The wave model predicts that energy is absorbed continuously and accumulates, so intense low-frequency light should eventually cause emission. In fact, below the threshold frequency no electrons are emitted however intense the light, because one photon transfers all its energy to one electron.
+
+**What is the difference between hf = φ + KE_max and hf = E₁ − E₂?**
+The photoelectric equation hf = φ + KE_max applies only to electrons emitted from a metal surface. The relation hf = E₁ − E₂ applies to photons emitted or absorbed when an electron moves between energy levels in an atom.

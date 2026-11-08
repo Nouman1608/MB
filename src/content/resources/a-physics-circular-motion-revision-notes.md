@@ -20,13 +20,15 @@ syllabusTopics:
 description: "Condensed recall notes on angular velocity, centripetal force and vertical circle problems for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 ---
 
-Condensed for the full weeks. For the full explanation, use the
+Condensed for the final weeks. For the full explanation, use the
 [Motion in a Circle study guide](/resources/a-physics-motion-in-a-circle/),
 and test yourself with the [practice questions](/resources/a-physics-circular-motion-practice/).
 
@@ -160,3 +162,16 @@ Below that speed the object leaves the circular path — the string would go sla
   <figcaption>Tension is least at the top and greatest at the bottom, differing by 6mg for a freely moving ball.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate angular velocity?**
+Angular velocity is ω = θ/t = 2π/T = 2πf, measured in rad s⁻¹, and it is linked to linear speed by v = rω. All angles must be in radians.
+
+**What are the formulas for centripetal acceleration and force?**
+Centripetal acceleration is a = v²/r = rω², and centripetal force is F = mv²/r = mrω². Both are always directed towards the centre of the circle.
+
+**What is the minimum speed at the top of a vertical circle?**
+At the minimum speed the tension is zero and weight alone provides the centripetal force, so mg = mv²/r and v_min = √(gr). Below this speed the object leaves the circular path.
+
+**Are banked tracks in the Cambridge 9702 syllabus?**
+No. Banked-track problems do not appear in the Cambridge 9702 Motion in a Circle content; the banked-track section on this page is background only.

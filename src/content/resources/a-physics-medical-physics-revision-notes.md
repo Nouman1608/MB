@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Condensed recall notes on ultrasound, X-rays, attenuation, CT scanning and PET for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -163,6 +165,20 @@ The 0.511 MeV figure comes from `E = mc²` using the rest mass of an electron. P
 
 **Answers:** 1. Air and skin have very different acoustic impedances, so almost all the ultrasound would be reflected at the boundary; the gel has an impedance close to skin's, displacing the air and allowing transmission. 2. λ_min = hc/(eV), set by the accelerating p.d. alone; the characteristic lines depend only on the target material. 3. Calcium has a much higher atomic number than the elements in soft tissue, giving a larger attenuation coefficient, so more X-rays are absorbed. 4. I = I₀e^(−μx); x_½ = ln2/μ. 5. Momentum must be conserved in electron–positron annihilation, so two photons are emitted in opposite directions, each of 0.511 MeV from E = mc² for the electron rest mass.
 
+## Frequently asked questions
+
+**What is specific acoustic impedance?**
+Specific acoustic impedance is Z = ρc, the density of a tissue multiplied by the speed of ultrasound in it, measured in kg m⁻² s⁻¹. The larger the difference in Z at a boundary, the more ultrasound is reflected.
+
+**What is the half-value thickness for X-rays?**
+The half-value thickness is the thickness of material that halves the X-ray intensity, x½ = ln 2/μ, where μ is the attenuation coefficient in the equation I = I₀e^(−μx).
+
+**Why does bone appear white on an X-ray image?**
+Bone contains calcium, which has a much higher atomic number than the elements in soft tissue, so bone has a larger attenuation coefficient and absorbs more X-rays.
+
+**Is A-scan and B-scan terminology in the Cambridge 9702 syllabus?**
+No. The current 9702 syllabus no longer names A-scans and B-scans; it requires you to understand that pulse-echo reflection at tissue boundaries provides diagnostic information. The terms appear on this page only as background.
+
 ## Related resources
 
 - [Medical Physics study guide](/resources/a-physics-medical-physics/) — the full explanation behind these condensed notes
@@ -172,4 +188,3 @@ The 0.511 MeV figure comes from `E = mc²` using the rest mass of an electron. P
   <img src="https://img.marlbridge.com/a-physics-medical-physics--07-aphy-medical-gamma-camera.webp" width="900" height="990" alt="Gamma photons from tracer in an organ pass through a lead collimator that only lets photons travelling straight along a hole through; photons at an angle are absorbed. Each photon makes a flash in the crystal, the photomultiplier tubes give pulses (largest from the nearest tube) and the computer uses them to add a count at that place in the image." loading="lazy">
   <figcaption>A gamma camera forms an image of tracer distribution, one counted photon at a time.</figcaption>
 </figure>
-

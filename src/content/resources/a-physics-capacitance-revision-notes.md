@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Condensed recall notes on capacitance, capacitors in series and parallel, energy stored and discharge curves for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -185,3 +187,16 @@ exam-style practice questions with complete worked answers, see the
   <figcaption>Charge and p.d. rise or fall, but the current always decays exponentially.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the time constant of a capacitor circuit?**
+The time constant is τ = RC, measured in seconds with R in ohms and C in farads. After one time constant, the charge, p.d. and current during discharge have fallen to 1/e, about 37%, of their initial values.
+
+**What is the half-life of a capacitor discharge?**
+The half-life, the time for the charge to fall to half its initial value, is t½ = RC ln 2, which is about 0.69 RC.
+
+**How can you check a series or parallel capacitor answer?**
+A series combination must always be smaller than the smallest individual capacitor, and a parallel combination must always be larger than the largest. If your answer breaks this rule, you have probably swapped the formulas.
+
+**Which Cambridge 9702 paper assesses capacitance?**
+Capacitance is A Level content assessed on Paper 4, the A Level structured paper of Cambridge 9702 Physics.

@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-alternating-currents"
     subtopic: "a-rectification-and-smoothing"
-description: "Characteristics of alternating currents and voltages, root-mean-square values and power, and rectification and smoothing, for Cambridge International AS & A Level Physics 9702."
+description: "Alternating current and voltage, r.m.s. values, mean power, half-wave and full-wave rectification with smoothing: Topic 21 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -232,6 +234,20 @@ perfectly constant output.
 - Half-wave rectification (single diode, gaps) vs full-wave (bridge of four diodes, no gaps) -- know the graphical shape of each output, not just the description
 - Smoothing with a capacitor, and how R and C affect the ripple via τ = RC
 - Transformers and power transmission are prerequisite (IGCSE/O Level) background, not new Topic 21 outcomes
+
+## Frequently asked questions
+
+**What is the formula for the r.m.s. current of a sinusoidal supply?**
+For a sinusoidal alternating current, I_rms = I₀/√2, and similarly V_rms = V₀/√2, where I₀ and V₀ are the peak values. These relationships hold only for a sinusoidal supply.
+
+**What is the difference between half-wave and full-wave rectification?**
+Half-wave rectification uses a single diode and passes only one half of each cycle, leaving flat gaps of zero output. Full-wave rectification uses a bridge of four diodes so both halves of the cycle produce a pulse in the same direction, with no gaps.
+
+**Does a larger smoothing capacitor remove ripple completely?**
+No. A larger capacitance, or a larger load resistance, increases the time constant RC so the voltage falls more slowly between pulses and the ripple is reduced, but the output is never perfectly constant.
+
+**Does Cambridge 9702 require you to sketch rectified waveforms?**
+Yes. The Cambridge 9702 syllabus requires candidates to distinguish half-wave from full-wave rectification graphically, so you need to know the shape of each output against time, not just a verbal description.
 
 ## Related resources
 

@@ -29,7 +29,9 @@ syllabusTopics:
 description: "Condensed recall notes on Coulomb\u2019s law, field strength, potential and the comparison with gravitational fields for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -179,3 +181,16 @@ Related: [Electric Fields practice questions](/resources/a-physics-electric-fiel
   <figcaption>Field strength is minus the gradient of the potential–distance graph.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the formula for electric potential around a point charge?**
+The electric potential at distance r from a point charge Q is V = Q/(4πε₀r). Its sign follows the sign of the charge, so it is positive near a positive charge and negative near a negative charge.
+
+**Can you use E = V/d for a point charge?**
+No. E = V/d only applies to the uniform field between parallel plates. Around a point charge or charged sphere the field is radial and you must use E = Q/(4πε₀r²), with r measured from the centre.
+
+**What is an equipotential?**
+An equipotential is a line or surface of constant potential, always perpendicular to the field lines. No work is done moving a charge along an equipotential.
+
+**How do you find the speed of a charged particle accelerated through a potential difference?**
+If all the work done by the field becomes kinetic energy, qV = ½mv², so v = √(2qV/m). This holds for a particle starting from rest with no other force acting on it.

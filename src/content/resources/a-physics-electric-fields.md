@@ -26,10 +26,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-potential"
-description: "Electric field concept and field lines, uniform fields between parallel plates, Coulomb's law, the field of a point charge, and electric potential, for Cambridge International AS & A Level Physics 9702."
+description: "Field lines, uniform fields between plates, Coulomb's law, point-charge field strength and electric potential: Topic 18 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -286,6 +288,20 @@ sphere.
 - V = Q/(4πε₀r) for electric potential, and the gravitational-electric analogy
 - U = Qq/(4πε₀r) for the electric potential energy of a pair of point charges
 - E = −dV/dr relating field strength to the potential gradient
+
+## Frequently asked questions
+
+**What is the definition of electric potential?**
+Electric potential at a point is the work done per unit positive charge in bringing a small test charge from infinity to that point. For a point charge it is V = Q/(4πε₀r).
+
+**What does the minus sign in E = −dV/dr mean?**
+The minus sign shows that the electric field points in the direction of decreasing potential, from high potential to low. On a graph of V against r, field strength is minus the gradient of the tangent.
+
+**What is the electric potential energy of two point charges?**
+The electric potential energy of a pair of point charges is U = Qq/(4πε₀r). It is positive for like charges and negative for unlike charges.
+
+**Can a charged sphere be treated as a point charge?**
+Yes, for points outside it. In Cambridge 9702 a charged sphere is treated as if all its charge were concentrated at its centre, with r measured from the centre; this does not hold for points inside the sphere.
 
 ## Related resources
 

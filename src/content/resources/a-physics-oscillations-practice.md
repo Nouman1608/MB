@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on simple harmonic motion, energy, damping and resonance for A Level Physics."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -136,3 +138,17 @@ Application: **car suspension** or a **measuring instrument's needle** [1].
 - Forgetting total energy in SHM is constant — only forgetting to convert between total, kinetic and potential energy correctly at a given displacement.
 - Calling every oscillation "free" — a free oscillation specifically has no external driving force, unlike a forced one.
 - Confusing the driving frequency with the natural frequency — resonance requires the two to be **equal**, not merely close.
+
+## Frequently asked questions
+
+**What is the definition of simple harmonic motion?**
+Simple harmonic motion is motion in which the acceleration is proportional to the displacement from the equilibrium position and always directed towards that position. Leaving out "towards the equilibrium position" is a common way to lose the mark.
+
+**Does the mass of a pendulum bob affect its period?**
+No. For small angles of swing, the period T = 2π√(l/g) depends only on the length and g, not on the mass of the bob or the amplitude.
+
+**Is the simple pendulum formula given in the Cambridge 9702 exam?**
+The formula T = 2π√(l/g) is not listed in the standard 9702 data and formulae section, so check a recent past paper or the published data booklet and memorise it if it is not supplied.
+
+**What is the condition for resonance?**
+Resonance occurs when the driving frequency equals the natural frequency of the system, giving maximum amplitude. The two must be equal, not merely close.
