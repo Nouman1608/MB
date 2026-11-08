@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s2-statistics-2-edexcel-alevel-maths"
     subtopic: "s2-continuous-distributions-edexcel-alevel-maths"
-description: "Condensed revision notes for Edexcel IAL Mathematics S2: uniform results, continuity correction rules, method steps and a self-test."
+description: "Condensed revision notes for Edexcel IAL Mathematics S2: uniform results, continuity correction rules, method steps and a self-test (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

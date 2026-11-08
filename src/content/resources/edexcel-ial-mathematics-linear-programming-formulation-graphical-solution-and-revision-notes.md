@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-d1-decision-mathematics-1-edexcel-alevel-maths"
     subtopic: "d1-linear-programming-edexcel-alevel-maths"
-description: "Condensed revision notes on writing linear programs, ruler and vertex methods and integer solutions for Pearson Edexcel IAL Maths unit D1."
+description: "Condensed revision notes on writing linear programs, ruler and vertex methods and integer solutions for Pearson Edexcel IAL Maths unit D1 (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

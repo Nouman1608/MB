@@ -20,7 +20,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m1-mechanics-1-edexcel-alevel-maths"
     subtopic: "m1-moments-edexcel-alevel-maths"
-description: "Original practice questions with worked answers on Edexcel IAL Mathematics M1 momentum, impulse, equilibrium, friction at rest and moments."
+description: "Original practice questions with worked answers on Edexcel IAL Mathematics M1 momentum, impulse, equilibrium, friction at rest and moments (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m2-mechanics-2-edexcel-alevel-maths"
     subtopic: "m2-kinematics-edexcel-alevel-maths"
-description: "Original practice questions with worked answers on Edexcel IAL Maths M2 vertical motion, projectiles, calculus kinematics and vectors."
+description: "Original practice questions with worked answers on Edexcel IAL Maths M2 vertical motion, projectiles, calculus kinematics and vectors (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

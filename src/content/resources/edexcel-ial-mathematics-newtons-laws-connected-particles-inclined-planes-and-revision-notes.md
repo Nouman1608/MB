@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m1-mechanics-1-edexcel-alevel-maths"
     subtopic: "m1-dynamics-edexcel-alevel-maths"
-description: "Condensed revision notes on F = ma, pulleys, connected particles, inclined planes and F = μR for Pearson Edexcel IAL Mathematics Unit M1."
+description: "Condensed revision notes on F = ma, pulleys, connected particles, inclined planes and F = μR for Pearson Edexcel IAL Mathematics Unit M1 (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
