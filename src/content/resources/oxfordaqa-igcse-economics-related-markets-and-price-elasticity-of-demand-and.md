@@ -217,6 +217,23 @@ If demand rises, elastic supply allows output to grow with a small price rise. I
 - Treating a change in a related good's price as a movement along the demand curve of the good affected.
 - Ignoring the time period in an evaluation.
 
+## Frequently asked questions
+
+**What are substitutes and complements?**
+Substitutes are goods that meet the same need, so a buyer can switch between them. Complements are goods used together, so a rise in the price of one tends to lower demand for the other.
+
+**Why does a change in another good's price shift the demand curve?**
+The price of good A is not good B's own price, so a change in it shifts B's whole demand curve rather than causing a movement along it.
+
+**What does price inelastic demand mean?**
+Price inelastic demand means quantity demanded changes by a smaller proportion than price, so the elasticity, ignoring the sign, is less than 1. It does not mean there is no response at all.
+
+**Is price elasticity of supply positive or negative?**
+Price elasticity of supply is normally positive, because a higher price encourages firms to supply more. A value greater than 1 means price elastic supply and less than 1 means price inelastic supply.
+
+**Which sections of OxfordAQA 9214 cover related markets and elasticity?**
+Sections 3.1.3.4 (intermarket relationships), 3.1.3.5 (price elasticity of demand and cross elasticity of demand) and 3.1.3.6 (price elasticity of supply) of the OxfordAQA International GCSE Economics (9214) specification.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Economics (9214), specification for exams from May/June 2025, published by OxfordAQA.

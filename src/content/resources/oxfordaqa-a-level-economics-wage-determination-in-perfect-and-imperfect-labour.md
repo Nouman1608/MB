@@ -223,6 +223,23 @@ Unions bargain for nominal pay, but what matters is real pay. If a deal gives 6%
 - Treating imperfect information and immobility as the same thing.
 - Sketching or describing a diagram but leaving curves, axes or equilibrium points unlabelled.
 
+## Frequently asked questions
+
+**What is monopsony in the labour market?**
+A monopsony is a single buyer of labour, or an employer with dominant buying power, such as the only large employer in an isolated town. It faces an upward-sloping supply curve, so it hires fewer workers and pays a lower wage than a competitive market would.
+
+**What is monopsonistic exploitation?**
+Monopsonistic exploitation is the gap between the wage a monopsonist pays and the marginal revenue product of the last worker it hires. Workers are paid less than the extra revenue they bring in because the employer restricts hiring to keep the wage down.
+
+**Why is the marginal cost of labour above the wage for a monopsonist?**
+To hire one more worker, a monopsonist must raise the wage, and unless it can pay each worker differently it must pay the higher wage to everyone already employed. The extra cost of the extra worker is therefore the new wage plus the rise paid to all existing workers.
+
+**Does a trade union always cause unemployment?**
+No. In a competitive labour market a union wage above equilibrium reduces the number employed and creates excess supply, but against a monopsonist a union can raise both pay and employment, up to the point where the union wage equals the MRP at the monopsony level of employment.
+
+**How do relative wages change in a competitive labour market?**
+A rise in demand for one occupation raises its wage relative to others. Higher pay signals workers to retrain and move in, so supply increases and the wage gap narrows over time, though only if workers are able to move between jobs.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, first teaching September 2020, first International A-level exams May/June 2022, published by OxfordAQA. Sections 3.3.4.3 and 3.3.4.4, with section 3.5 (quantitative skills).

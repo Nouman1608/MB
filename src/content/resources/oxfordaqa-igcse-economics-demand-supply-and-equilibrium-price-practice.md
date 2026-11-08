@@ -158,6 +158,23 @@ Revise first with the [study guide](/resources/oxfordaqa-igcse-economics-demand-
 - Try the [other markets practice](/resources/igcse-oxfordaqa-economics-markets-practice/), then all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a movement along and a shift of a demand curve?**
+A change in the good's own price causes a movement along the demand curve, called an extension or contraction. A change in any other factor, such as income or tastes, shifts the whole curve to the right or left.
+
+**How do you explain the effect of a change on equilibrium price?**
+Name the curve that shifts and why, give the direction, state the excess demand or excess supply at the original price, then explain how price and quantity move to the new equilibrium. Skipping the step at the original price is a common way to lose marks.
+
+**How do you calculate revenue when the price is not at equilibrium?**
+Revenue is price multiplied by the quantity actually traded. Away from equilibrium that is the smaller of quantity demanded and quantity supplied, so above the equilibrium price you use quantity demanded.
+
+**Why is the supply curve vertical when capacity is fixed?**
+When the quantity available, such as the number of seats at an event, cannot change whatever the price, the supply curve is vertical. A rise in demand then changes only the price, not the quantity sold.
+
+**Which sections of OxfordAQA 9214 do these demand and supply questions cover?**
+They cover sections 3.1.3.1 to 3.1.3.3 of the OxfordAQA International GCSE Economics (9214) specification: demand, supply and equilibrium price, including revenue on a supply and demand diagram.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification Version 1.0, first teaching September 2023, first examined May/June 2025. Published by OxfordAQA.

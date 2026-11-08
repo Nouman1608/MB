@@ -228,6 +228,23 @@ Costs and benefits of growth: benefits are lower average cost, higher sales and 
 - Using diseconomies of scale as the same thing as rising variable costs in the short run.
 - One-sided answers on growth: give a cost to set against each benefit and reach a judgement.
 
+## Frequently asked questions
+
+**What is the difference between fixed and variable costs?**
+Fixed costs, such as rent, do not change with the amount produced in the short run. Variable costs, such as raw materials, rise and fall with output. Total cost is fixed cost plus variable cost.
+
+**How do you calculate average total cost?**
+Average total cost is total cost divided by output. It also equals average fixed cost plus average variable cost, which is a useful check on your working.
+
+**What are the five types of economy of scale in the OxfordAQA 9214 specification?**
+The OxfordAQA International GCSE Economics (9214) specification names managerial, purchasing, financial, technical and risk-bearing economies of scale.
+
+**What causes diseconomies of scale?**
+As a firm grows too large, communication and coordination become harder, decisions slow down and workers may feel remote and lose motivation. These problems raise average cost, which is what makes them diseconomies of scale rather than just higher spending.
+
+**Why does a higher price encourage firms to produce more?**
+If costs stay the same, a higher price increases profit per unit, which gives producers an incentive to supply more of the good.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), version 1.0, for exams from May/June 2025 onwards, published by OxfordAQA. Sections 3.1.4.1, 3.1.4.2 and 3.1.4.3.

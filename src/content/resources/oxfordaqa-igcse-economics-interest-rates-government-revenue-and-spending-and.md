@@ -276,6 +276,23 @@ Indirect taxes are not always regressive: a tax on luxury goods can be progressi
 * Saying a higher rate always cuts spending. It depends on size, timing and confidence.
 * Describing sharia-compliant finance as costless. The bank still earns a mark-up, rent or profit share.
 
+## Frequently asked questions
+
+**What is an interest rate?**
+An interest rate is the cost of borrowing money, or the reward for saving it, stated as an annual percentage of the sum. Interest for one year equals the sum multiplied by the rate.
+
+**Why do banks charge borrowers a higher rate than they pay savers?**
+The gap between the two rates covers the bank's costs and the risk that some loans are not repaid, and what remains is the bank's profit.
+
+**What are the main sources of government revenue?**
+Governments raise most revenue from taxes such as income tax, corporation tax, social insurance contributions, sales tax or VAT, excise duties, import duties and property taxes. Other sources include profits from state-owned enterprises.
+
+**Are indirect taxes always regressive?**
+No. A sales tax often takes a larger share of income from poorer households, which makes it regressive in effect, but a tax on luxury goods can be progressive because it is paid mainly by higher-income households.
+
+**What is a proportional tax?**
+A proportional tax takes the same percentage of income at every income level, unlike a progressive tax, where the share rises with income, or a regressive tax, where the share falls as income rises.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025, published by OxfordAQA: sections 3.2.1.1 and 3.2.1.2.

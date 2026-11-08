@@ -191,6 +191,20 @@ A sound evaluation answer weighs which factor matters most in the case given and
 - Treating differentials as purely demand or purely supply: use both.
 - Forgetting to quote the new wage and employment after a shift.
 
+## Frequently asked questions
+
+**What shifts the demand curve for labour?**
+Labour demand shifts with demand for the product, workers' productivity, the price of substitutes such as machines, and the number of firms hiring. A change in the wage itself only moves along the curve.
+
+**What shifts the supply curve of labour in an occupation?**
+Labour supply shifts with wages in other jobs, the qualifications and training needed, the size of the working-age population and migration, and non-wage factors such as working conditions, hours and status.
+
+**Why do some occupations pay more than others?**
+Differentials between occupations come from skills and qualifications, productivity and the value of output, risk or unsocial work, trade union strength, barriers to entry such as licences, and immobility of workers.
+
+**What are the limits of the demand and supply model of wages?**
+Real workers differ in skills, they and firms may not know all wages and vacancies, unions or a dominant employer can move wages away from equilibrium, government rules such as a minimum wage change outcomes, and adjustment can take years.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), version 1.0, for exams May/June 2025 onwards, published by OxfordAQA. Section 3.1.5.4, The labour market. Check the full specification at oxfordaqa.com/9214.

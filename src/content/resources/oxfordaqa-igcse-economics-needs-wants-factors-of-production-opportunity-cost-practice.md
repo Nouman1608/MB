@@ -129,6 +129,20 @@ These questions cover sections 3.1.1 and 3.1.2 of the OxfordAQA International GC
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is opportunity cost?**
+Opportunity cost is the benefit of the next best alternative given up when a choice is made. It is only that single best alternative, so adding all the alternatives together is a common mistake.
+
+**What are the rewards to the factors of production?**
+Land earns rent, labour earns wages, capital earns interest and enterprise earns profit. In exam answers, give both the factor and its reward.
+
+**What is the difference between a factor market and a product market?**
+In a product market households buy goods and services from firms. In a factor market firms buy land, labour, capital and enterprise from households, so the roles of buyer and seller are reversed.
+
+**Which sections of OxfordAQA 9214 do these practice questions cover?**
+They cover sections 3.1.1 (Economic foundations) and 3.1.2 (Resource allocation) of OxfordAQA International GCSE Economics (9214): needs and wants, factors of production, opportunity cost, markets, sectors and specialisation.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), version 1.0, for exams from May/June 2025 onwards, published by OxfordAQA, sections 3.1.1 and 3.1.2.

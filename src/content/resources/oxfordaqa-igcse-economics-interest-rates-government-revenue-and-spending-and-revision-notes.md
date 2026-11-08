@@ -233,6 +233,23 @@ Islamic finance does not allow riba, a fixed charge for lending money. The retur
 * Calling borrowing a source of revenue.
 * Finishing an evaluation question with a summary and no judgement.
 
+## Frequently asked questions
+
+**How does a rise in interest rates affect consumers?**
+Saving becomes more rewarding and borrowing becomes more expensive, so households save more, borrow less and spend less. Borrowers lose and savers, such as retired people living on interest, gain.
+
+**How does a firm decide whether to invest when interest rates change?**
+Compare the expected annual return on the project with the interest cost of the loan (loan multiplied by the rate). Invest only if the return is higher than the interest, so a rise in rates makes fewer projects worthwhile.
+
+**What is riba in Islamic finance?**
+Riba is a fixed charge for lending money, which Islamic finance does not allow. Sharia-compliant finance instead links the provider's return to trade, assets or profit, for example through a mark-up, rent or a profit share.
+
+**What is the difference between the marginal and average rate of tax?**
+The marginal rate is the rate paid on the next slice of income, while the average rate is total tax divided by total income. Whether a tax is progressive is judged from how the average rate changes as income rises.
+
+**Which sections of OxfordAQA 9214 cover interest rates and taxation?**
+Sections 3.2.1.1 (interest rates) and 3.2.1.2 (government income and expenditure) of the OxfordAQA International GCSE Economics (9214) specification.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025, published by OxfordAQA: sections 3.2.1.1 and 3.2.1.2.

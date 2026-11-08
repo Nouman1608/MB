@@ -292,6 +292,23 @@ A 25% price fall cuts total export earnings by 20%. A country with a wide range 
 - Mixing up "percentage" and "percentage point".
 - Describing division of labour and specialisation as the same thing without noting that one is a subset.
 
+## Frequently asked questions
+
+**What is the difference between a need and a want?**
+A need is something required to survive or function at a basic level, such as food, water or shelter. A want is something people desire but could live without, and needs and wants can change over time and between people.
+
+**What is the basic economic problem?**
+The basic economic problem is scarcity: wants are unlimited but resources are limited, so individuals, firms and governments must make choices about how to use them.
+
+**What are the primary, secondary and tertiary sectors?**
+The primary sector extracts natural resources, the secondary sector manufactures, processes and builds, and the tertiary sector provides services such as retail, health, education, banking and transport. Sector sizes change over time and can be measured by their share of employment or output.
+
+**What is the difference between a good and a service?**
+A good is a physical product that can be touched and stored, like a bicycle. A service is intangible and is usually used as it is provided, like a haircut.
+
+**How do governments use costs and benefits to make choices?**
+They compare the benefits and costs of each option and choose the one with the highest net benefit. The opportunity cost of that choice is the best option not chosen.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), version 1.0, for exams from May/June 2025 onwards, published by OxfordAQA, sections 3.1.1 and 3.1.2.

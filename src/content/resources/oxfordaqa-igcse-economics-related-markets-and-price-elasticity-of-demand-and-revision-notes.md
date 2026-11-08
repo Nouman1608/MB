@@ -276,6 +276,20 @@ Price: +20%.  Quantity supplied: +25%.  PES = 25 ÷ 20 = 1.25 (elastic)
 - Equating revenue with profit.
 - Giving a factor with no explanation of why it changes responsiveness.
 
+## Frequently asked questions
+
+**What factors affect price elasticity of demand?**
+Demand is more elastic when there are more substitutes, when the good is a luxury, when it takes a large share of income, over a longer time period and when the market is defined narrowly. Necessities and habit-forming goods tend to have inelastic demand.
+
+**How does price elasticity of demand affect total revenue?**
+If demand is price elastic, a price cut raises total revenue and a price rise lowers it. If demand is price inelastic, a price rise raises total revenue and a price cut lowers it.
+
+**What factors affect price elasticity of supply?**
+Supply is more elastic when firms have spare capacity, hold stocks of finished goods, can easily switch production or hire workers, have a short production period and can get inputs easily. It is also more elastic in the long run.
+
+**How do you use an elasticity to predict a change in quantity?**
+Rearrange the formula: the percentage change in quantity equals the elasticity multiplied by the percentage change in price. Then convert the percentage back into a level if the question asks for the new quantity.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Economics (9214), specification for exams from May/June 2025, published by OxfordAQA.

@@ -9,10 +9,12 @@ qualifications: ["igcse"]
 syllabusCodes: ["9214"]
 syllabusSeries: "First teaching 2023, first examined 2025"
 order: 3
-description: "How OxfordAQA International GCSE Economics 9214 combines multiple choice and essay-style questions across two 80-mark papers, the micro/macro split, and a worked chain-of-reasoning routine."
+description: "How OxfordAQA International GCSE Economics 9214 mixes multiple choice and essay-style questions in two 80-mark papers, with timing and an essay routine."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -126,6 +128,23 @@ economies work; their diagrams, vocabulary and chains of reasoning differ. 3. Ab
 is unprofitable because there is no partial credit for persistence, and the time belongs to the
 extended questions. 4. The evaluative close: what the conclusion depends on, and a judgement -- not
 just two effects presented and left.
+
+## Frequently asked questions
+
+**How long are the OxfordAQA International GCSE Economics exams?**
+OxfordAQA International GCSE Economics (9214) has two papers, Paper 1 (How Markets Work) and Paper 2 (How Economies Work). Each lasts 1 hour 45 minutes, carries 80 marks and is worth 50% of the qualification.
+
+**Is there coursework or tiering in OxfordAQA International GCSE Economics 9214?**
+No. The qualification is linear and untiered, with no coursework, so the whole grade comes from the two written papers.
+
+**How long should I spend on each multiple-choice question?**
+About a minute. With 80 marks in 105 minutes there is roughly 1.3 minutes per mark, and there is no partial credit for persisting with a multiple-choice question, so make your best guess and move on to protect time for the written questions.
+
+**What is the difference between Paper 1 and Paper 2?**
+Paper 1 is microeconomics, covering how individual markets work, while Paper 2 is macroeconomics, covering how whole economies work. The diagrams, vocabulary and chains of reasoning differ, so it helps to revise them as two separate bodies of technique.
+
+**When was the OxfordAQA 9214 Economics specification first examined?**
+It was first taught from September 2023 and first examined in May/June 2025. Always check the current specification for your exam series on the OxfordAQA website.
 
 *Written against the assessment section of OxfordAQA's own International GCSE Economics (9214)
 qualification page (official OxfordAQA page, verified 2026-08-28). The essay routine above is an

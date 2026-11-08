@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "how-the-economy-works-oxfordaqa-igcse-economics"
     subtopic: "government-objectives-oxfordaqa-igcse-economics"
-description: "Original exam-style practice questions with full worked answers on economic growth, employment, inflation, the balance of payments and income distribution for OxfordAQA International GCSE Economics (9214)."
+description: "Original practice questions with worked answers on growth, unemployment, inflation and policy conflicts for OxfordAQA International GCSE Economics (9214)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -125,3 +127,20 @@ in the higher band that a one-sided description cannot reach.
 - Using "growth" and "development" interchangeably, when the specification tests the distinction directly.
 - Misidentifying a type of unemployment, particularly confusing structural (long-term industry decline) with cyclical (linked to the wider economic cycle).
 - Confusing the balance of trade (goods and services only) with the wider balance of payments (which also includes investment and financial flows).
+
+## Frequently asked questions
+
+**What are the main economic objectives of a government?**
+The four principal objectives are full employment, price stability, economic growth and a balance of payments equilibrium. Questions often test how a policy aimed at one objective can work against another.
+
+**What is the difference between economic growth and economic development?**
+Economic growth is a rise in a country's output, measured by GDP, real GDP or GDP per capita. Economic development is a broader improvement in living standards, such as health, education and infrastructure, and does not always follow automatically from growth.
+
+**How do you tell frictional unemployment from structural unemployment?**
+Frictional unemployment is the short time a worker spends between jobs. Structural unemployment comes from a long-term decline in an industry, such as a mine closing permanently, so a scenario mentioning permanent closure or long-term decline signals structural unemployment.
+
+**How do you identify cost-push or demand-pull inflation in a scenario?**
+Look at which side of the market changes first. Rising production costs passed on to consumers indicate cost-push inflation, while demand outstripping what producers can supply indicates demand-pull inflation.
+
+**How do you answer an evaluate question on government objectives in OxfordAQA 9214?**
+Trace the policy through its immediate effect on the targeted objective, then its knock-on effect on at least one other objective, and finish with a judgement about which objective matters most in the context given. A one-sided description of the policy cannot reach the higher marks.

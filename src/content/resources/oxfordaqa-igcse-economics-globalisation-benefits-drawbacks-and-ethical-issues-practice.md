@@ -146,6 +146,20 @@ Judgement [1 for a reasoned conclusion]: for example, less developed countries c
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you define globalisation for full marks?**
+Globalisation is the process by which economies become more closely linked and reliant on one another through trade, investment and the movement of people, ideas and technology. "Countries trading more" on its own is only half a definition; the idea of interdependence is what completes it.
+
+**Why should you compare hourly pay rather than monthly pay?**
+A job with higher monthly pay may also require longer hours, so the gain per hour can be much smaller. Working out pay per hour shows whether the worker is really better off and is a common source of marks in globalisation questions.
+
+**What is the difference between a percentage change and a percentage-point change?**
+A percentage-point change is the simple difference between two percentages, such as trade rising from 35% to 50% of GDP, a rise of 15 percentage points. Calling that a 15% rise is a common error.
+
+**How do you answer an evaluation question on globalisation in OxfordAQA 9214?**
+Weigh benefits and drawbacks for named groups (producers, workers or consumers) in both developed and less developed countries, then reach a reasoned judgement that states what the outcome depends on. A one-sided answer, or one with no conclusion, usually limits the marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification version 1.0, for International GCSE exams May/June 2025 onwards, published by OxfordAQA. Section 3.2.4.3, Globalisation: benefits and drawbacks.

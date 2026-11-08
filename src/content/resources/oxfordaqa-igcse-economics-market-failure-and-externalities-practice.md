@@ -152,6 +152,23 @@ These questions follow specification references 3.1.6.1 and 3.1.6.2 in OxfordAQA
 - Try all the free 10-minute diagnostics at [diagnostics](/diagnostics/).
 - Book a free trial class at [trial](/trial/).
 
+## Frequently asked questions
+
+**What is market failure?**
+Market failure is when a free market misallocates resources, so they are not used in the way that gives society the most benefit. A full definition mentions both resources and efficiency.
+
+**How do you decide whether an externality is from production or consumption?**
+Ask who creates the effect. If it comes from making the good, such as smoke from a kiln, it is a production externality; if it comes from using the good, such as noise from customers leaving a bar, it is a consumption externality.
+
+**How do you find the socially best output from a table?**
+Add the external cost or benefit to the private column to get the social column, then find the last unit where benefit is at least as great as cost using the social figures. Using the private column when the question asks for the social optimum is a common error.
+
+**Why may a tax on a harmful good do little to cut consumption?**
+If demand is price inelastic, a price rise from the tax reduces quantity demanded only slightly. The tax raises revenue, but consumption of the harmful good may fall very little.
+
+**What do these OxfordAQA 9214 market failure questions cover?**
+They follow specification references 3.1.6.1 (misallocation of resources) and 3.1.6.2 (externalities) of OxfordAQA International GCSE Economics (9214), including taxes and subsidies.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), published by OxfordAQA, first teaching September 2023, first examined May/June 2025. Sections 3.1.6.1 and 3.1.6.2.

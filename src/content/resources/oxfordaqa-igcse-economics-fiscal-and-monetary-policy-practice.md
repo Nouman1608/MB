@@ -137,6 +137,20 @@ Evaluate which policy the government should choose. **[8]**
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a budget deficit and the national debt?**
+A budget deficit is the gap when government spending is greater than revenue in one year. The national debt is the running total the government owes, which grows when deficits are financed by borrowing.
+
+**How do you calculate the total effect of extra government spending?**
+Divide the first injection of spending by one minus the share of each extra unit of income that is spent again. The larger the share leaking into saving, tax or imports, the smaller the total increase in income.
+
+**How do you explain how an interest rate rise reduces inflation?**
+Give the full chain: a higher rate makes borrowing dearer and saving more rewarding, so households and firms spend and invest less, total demand falls and demand-pull pressure on prices eases. Stopping at "spending falls" without reaching inflation loses marks.
+
+**How do you evaluate a choice between fiscal and monetary policy in OxfordAQA 9214?**
+Use the data in the question, such as spare capacity, inflation relative to target and the size of any knock-on effect, to weigh each policy, then reach a judgement about which suits the situation. Arguments for and against with no conclusion, or a generic answer that ignores the data, usually score less.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification version 1.0, for exams May/June 2025 onwards, published by OxfordAQA. Sections 3.2.3.1 and 3.2.3.2.

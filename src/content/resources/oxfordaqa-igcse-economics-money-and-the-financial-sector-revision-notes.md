@@ -231,6 +231,20 @@ The specification does not name particular institutions in this part, so know th
 - Giving a one-sided answer to an evaluate question.
 - Forgetting the working in a calculation, or leaving out the unit.
 
+## Frequently asked questions
+
+**Why is money defined as more than banknotes and coins?**
+Balances in bank accounts are accepted as payment, and most payments today are made by card or transfer. Broader measures of money also include savings deposits, which can be turned into spending quickly.
+
+**How many exchange rates does barter need?**
+With n goods, barter needs n × (n − 1) ÷ 2 exchange rates, so 8 goods need 28. With money, each good needs only one price, which shows the benefit of money as a unit of account.
+
+**What is the difference between a central bank and a commercial bank?**
+The central bank is the government-backed institution at the head of the banking system, which sets the policy interest rate and protects financial stability. Commercial banks are private firms that take deposits from customers and make loans.
+
+**How do insurance companies help households and firms?**
+Each policyholder pays a small, known premium instead of risking a large loss, and the insurer pays the claims of the few who suffer a loss. This lets households and firms take on activities they might otherwise avoid as too risky.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification version 1.0, for exams May/June 2025 onwards, published by OxfordAQA. Sections 3.2.5.1 and 3.2.5.2.

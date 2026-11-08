@@ -259,6 +259,23 @@ Average cost = total cost / output. It falls from 12.00 to 9.00 between 1,000 an
 - Describing economies of scale as "bigger is cheaper" without naming the type and the reason.
 - Treating economies of scale as short-run: they need the firm to change its whole scale.
 
+## Frequently asked questions
+
+**What are the three business objectives in the OxfordAQA International GCSE Economics specification?**
+The OxfordAQA International GCSE Economics (9214) specification names profit, sales growth and market share. These objectives can conflict: cutting price to win market share may raise sales but reduce profit per unit.
+
+**How do you calculate market share?**
+Divide the firm's sales by the total sales in the whole market and multiply by 100. Always divide by the market total, not by the firm's own sales.
+
+**Can production rise while productivity falls?**
+Yes. If a firm hires extra workers and total output rises by a smaller proportion than the workforce, total production increases but output per worker falls.
+
+**Why are economies of scale a long-run idea?**
+Economies of scale come from changing the scale of the whole firm, which means all inputs, including fixed ones such as buildings and machinery, can change. That is only possible in the long run.
+
+**How can a firm increase its profit?**
+Since profit is total revenue minus total cost, a firm can raise profit by lowering average costs, for example through cheaper suppliers or less waste, by raising revenue through a higher price or more sales, or by doing both.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), version 1.0, for exams from May/June 2025 onwards, published by OxfordAQA. Sections 3.1.4.1, 3.1.4.2 and 3.1.4.3.

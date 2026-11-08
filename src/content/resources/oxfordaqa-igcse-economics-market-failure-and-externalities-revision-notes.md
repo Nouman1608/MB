@@ -229,6 +229,23 @@ When demand is inelastic, a price rise from a tax cuts quantity only slightly. R
 - Not using the context in the question, such as the named good or place.
 - Calculation answers with no working, or the wrong unit.
 
+## Frequently asked questions
+
+**What is the formula for social cost?**
+Social cost equals private cost plus external cost. In the same way, social benefit equals private benefit plus external benefit.
+
+**Why does a negative externality lead to over-production?**
+The producer pays only the private cost and ignores the external cost, so the cost it faces is lower than the cost to society. It therefore produces more than the socially best output.
+
+**Why does a positive externality lead to under-provision?**
+Buyers count only their private benefit and ignore the external benefit to others, so demand is lower than the social benefit would justify and less is consumed than is best for society.
+
+**Is the best level of pollution zero?**
+No. The socially best output is where social benefit equals social cost, which can still involve some external cost. Removing all pollution may mean giving up output that society values more than the damage.
+
+**What is the difference between a tax and a subsidy for correcting externalities?**
+A tax raises the producer's cost and cuts output of a good with a negative externality. A subsidy lowers the cost to producers or buyers and raises output of a good with a positive externality, but it has an opportunity cost for government spending.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), published by OxfordAQA, first teaching September 2023, first examined May/June 2025. Sections 3.1.6.1 and 3.1.6.2, with 3.2.3.4 for policies on externalities.

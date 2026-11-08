@@ -167,6 +167,23 @@ These questions cover sections 3.2.1.1 and 3.2.1.2 of the OxfordAQA Internationa
 * Take the free [10-minute diagnostics](/diagnostics/).
 * Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you tell whether a tax is progressive or regressive?**
+Compare the tax paid as a percentage of each person's income, not the amount of money paid. A tax is progressive if the percentage rises as income rises and regressive if richer people pay a smaller percentage of their income.
+
+**How do you calculate income tax with tax bands?**
+Work band by band: apply each rate only to the slice of income that falls inside that band, then add the amounts. Applying the top rate to the whole income is a common mistake.
+
+**What is the difference between direct and indirect taxes?**
+Direct taxes are taken from income or profit, such as income tax and corporation tax. Indirect taxes are taxes on spending, such as sales tax, excise duties and import duties.
+
+**Is government borrowing a source of revenue?**
+No. Borrowing has to be repaid, so it is not counted as revenue; it is one way of financing a budget deficit, for example by selling government bonds.
+
+**How is sharia-compliant finance different from an interest-based loan?**
+In a sharia-compliant arrangement the bank's return comes from selling an asset at an agreed price, such as a mark-up on goods it has bought, rather than from a charge for lending money. Describing it as having no return for the bank is a common error.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025, published by OxfordAQA: sections 3.2.1.1 and 3.2.1.2.
