@@ -189,4 +189,18 @@ Under-40 leisure = 22 − 14 = 8 [1]. Over-40 commute = 31 − 14 = 17 [1]. Over
 
 ## Official syllabus
 
+## Frequently asked questions
+
+**What is the most common mistake when finding the mode from a frequency table?**
+Giving the frequency instead of the value. The mode is the value with the highest frequency, not the frequency itself.
+
+**How do you find the mean from a frequency table?**
+Multiply each value by its frequency, add these to get Σfx, then divide by the total frequency Σf. Dividing by the number of columns is a common error.
+
+**What value do you use for a class in a grouped mean?**
+Use the midpoint of each class, not a class limit. The result is an estimate, because the exact values are not known.
+
+**How do you find the mean of two groups combined?**
+Use the totals: (n₁ × mean₁ + n₂ × mean₂) ÷ (n₁ + n₂). Averaging the two means without allowing for group sizes is wrong unless the groups are the same size.
+
 Source: OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018, published by OxfordAQA. Section 3.4.1, statements S1, S2, S3 and S5.

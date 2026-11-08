@@ -188,6 +188,20 @@ These questions cover references A17 and A18 (section 3.2.2, Functions, graphs a
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What should you write when asked to interpret a gradient?**
+Give the gradient with units and say what it means in the context, such as a speed in km/h. A bare number usually loses the mark.
+
+**How do you find average speed from a distance-time graph?**
+Divide the total distance by the total time, including any time spent stopped. Make sure the units match, for example converting minutes to hours for km/h.
+
+**How do you estimate a gradient at a point on a curve?**
+Draw a tangent at that point and use two points on the tangent, not on the curve, to find its gradient. This is Extension only in OxfordAQA 9260.
+
+**What is the first step in a direct or inverse variation question?**
+Write the correct equation, such as y = kx or y = k/x², and use the first pair of values to find k before substituting any other value. Variation is Extension only in OxfordAQA 9260.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA, section 3.2.2 Functions, graphs and calculus, references A17 and A18.

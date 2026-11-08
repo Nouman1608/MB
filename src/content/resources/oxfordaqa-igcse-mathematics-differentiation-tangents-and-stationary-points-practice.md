@@ -150,6 +150,20 @@ At x = −2 the gradient goes − then +: **minimum** [1]. At x = 0 it goes + th
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your weakest areas.
 - Get help from a teacher: [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why should you expand brackets before differentiating?**
+The rule for kxⁿ works only on single terms. Differentiating each bracket separately and multiplying the results gives the wrong answer.
+
+**How do you find the y-coordinate of a stationary point?**
+Substitute the x-value into the original equation y = f(x), not into dy/dx. Putting it into dy/dx just gives 0.
+
+**How do you show whether a stationary point is a maximum or a minimum?**
+Find the sign of dy/dx just before and just after the point. Choose test values close enough that they do not jump past another stationary point.
+
+**Why might there be two tangents with the same gradient?**
+Setting dy/dx equal to a given gradient can give a quadratic with two solutions, so there can be two points with that gradient and two tangents.
+
 ## Official syllabus
 
 These questions follow the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA: section 3.2.2, statements A13, A14 and A15.
