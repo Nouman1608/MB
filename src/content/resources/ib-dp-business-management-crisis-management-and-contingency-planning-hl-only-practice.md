@@ -107,6 +107,20 @@ These questions cover section 5.7, Crisis management and contingency planning (H
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Is crisis management and contingency planning HL only in IB Business Management?**
+Yes. Section 5.7, Crisis management and contingency planning, is labelled HL only in Unit 5 of the IB Business management guide, first assessment 2024.
+
+**How do you calculate expected loss in a contingency planning question?**
+Expected loss is the chance of the event multiplied by the loss if it happens, which is a standard form rather than a formula given in the guide. A common mistake is to use only the size of the loss and forget the chance of the event.
+
+**What are common mistakes on crisis management practice questions?**
+Students often describe contingency planning as something done after the event, name a factor such as speed or transparency without a result for a stakeholder, and treat a plan as always worth its cost. Ignoring safety when people are involved and ending an evaluation without a judgement also lose marks.
+
+**How should you answer an evaluate question on the impact of contingency planning?**
+Weigh benefits and costs using the details of the case, refer to how likely and how serious the event is, and include safety where passengers, staff or the public are involved. Close with a clear judgement rather than a summary.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 5.7, Crisis management and contingency planning (HL only), in Unit 5: Operations management.

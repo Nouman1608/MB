@@ -244,6 +244,20 @@ The guide classifies command terms by assessment objective. Typical uses here:
 </figure>
 
 
+## Frequently asked questions
+
+**How do you calculate market share and market growth?**
+Market share (%) is the business's sales divided by total market sales, multiplied by 100. Market growth (%) is the change in market sales between two periods divided by the earlier period's market sales, multiplied by 100; these are standard forms, as the IB guide does not print the formulas.
+
+**Can a business's sales rise while its market share falls?**
+Yes. If the business's sales grow more slowly than the market as a whole, its share falls even though its sales rise; if they grow at the same rate, its share stays the same.
+
+**What makes a USP effective?**
+A USP must be valued by the target market, not just different, and it is stronger if rivals cannot easily copy it. A vague claim such as "quality" is not an effective USP.
+
+**What is the difference between segmentation and targeting?**
+Segmentation divides a market into groups of customers with shared needs or characteristics. Targeting chooses which of those groups the business will serve.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024, sections 4.1 and 4.2.

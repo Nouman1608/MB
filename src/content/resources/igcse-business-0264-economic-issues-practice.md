@@ -140,6 +140,20 @@ All money is in dollars. All businesses and people are invented. Show your worki
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is inflation?**
+Inflation is a general rise in prices over time, usually shown as a percentage. Defining it as one price rising, rather than prices in general, is a common error.
+
+**What are common mistakes on economic issues questions in IGCSE Business 0264?**
+Students often name a stage of the business cycle without saying what it means for the business in the stem, calculate a tax change from the wrong figure, take a percentage change from the new figure instead of the original, and forget that higher interest rates affect customers as well as the firm's loan costs. Ending an evaluation with no judgement also loses marks.
+
+**Which syllabus section covers economic issues?**
+Economic issues is section 6.1 of the Cambridge IGCSE Business 0264 syllabus. It covers the business cycle, employment, inflation, economic growth, and government use of taxes, spending and interest rates.
+
+**How should you recommend a response to an economic change?**
+Give a response that fits the business in the case, with a reason taken from its data, such as whether it can pass higher costs on to customers or whether its customers are price sensitive.
+
 ## Official syllabus
 
 This set follows the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International), section 6.1 Economic issues.

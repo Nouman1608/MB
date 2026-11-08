@@ -127,6 +127,20 @@ This set covers section 6.3 (Business and the environment) of the Cambridge IGCS
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are common mistakes on business and the environment questions in IGCSE Business 0264?**
+Students often write "pollution" or "damage" without naming a type of harm or linking it to the business, forget that legal controls can affect what and where a business produces, and assume an environmental response always pays. Mixing up fixed and variable costs and leaving out units in calculations also lose marks.
+
+**How do you calculate the effect of an environmental law on average cost?**
+Work out total cost before and after the change as fixed costs plus variable cost per unit multiplied by output, then divide each total by output. Put new equipment into fixed costs and dearer materials into variable costs.
+
+**How should you answer a justify question on an environmental decision?**
+Use the figures in the case, such as the cost of a filter compared with likely fines, weigh both sides, and finish with a clear decision and reason. A one-sided answer, or one with no decision, loses marks.
+
+**Which syllabus section covers business and the environment?**
+Business and the environment is section 6.3 of the Cambridge IGCSE Business 0264 syllabus.
+
 ## Official syllabus
 
 Aligned to section 6.3 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

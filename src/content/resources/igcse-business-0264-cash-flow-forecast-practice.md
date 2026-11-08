@@ -155,6 +155,20 @@ The opening balance in July is 9,000 dollars.
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are common mistakes on cash flow forecast questions in IGCSE Business 0264?**
+Students often fail to carry the closing balance forward as the next opening balance, reverse inflow and outflow so net cash flow has the wrong sign, and miss the minus sign on a negative closing balance. Describing the forecast as a profit forecast also loses marks.
+
+**How do you find the overdraft a business needs from a cash flow forecast?**
+Look for the lowest closing balance across the months, not the last month's balance. The overdraft must cover the largest shortfall in the period.
+
+**Does a late payment from a customer reduce total cash received?**
+No. A late payment only moves the cash inflow to a later month; the total is reduced only if the debt is never paid.
+
+**Which syllabus section covers cash flow forecasts?**
+Cash flow forecasts are section 5.2 of the Cambridge IGCSE Business 0264 syllabus.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), section 5.2.

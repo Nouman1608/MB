@@ -214,6 +214,20 @@ Quantitative results are only part of a recommendation. In a case study, conside
 
 Continue with the [revision notes](/resources/ib-dp-business-management-investment-appraisal-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-business-management-investment-appraisal-practice/).
 
+## Frequently asked questions
+
+**What is the payback period?**
+The payback period is the length of time it takes for the returns from an investment to repay its capital cost. For even returns it is the capital cost divided by the annual net return.
+
+**What are the limitations of the payback method?**
+Payback ignores returns after the payback point, so a project with a long profitable life can look poor. It also does not measure profitability on its own.
+
+**What is the time value of money?**
+The time value of money means a sum due later is worth less than the same sum received today. Net present value (HL only) takes account of this by discounting future returns.
+
+**What non-financial factors should you consider in investment appraisal?**
+Consider how reliable the forecasts are, risk, liquidity and how the project would be financed, effects on stakeholders, ethical and environmental effects, and fit with the business's objectives and strategy.
+
 ## Official syllabus
 
 Source: *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 3.8, Investment appraisal; formulae and discount table as printed in the guide.

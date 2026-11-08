@@ -157,6 +157,20 @@ These questions cover sections 3.1 (Marketing and the market) and 3.2 (Market re
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does rising sales revenue mean market share has risen?**
+No. Market share compares a business's sales revenue with the whole market, so if the market grows faster than the business, its share falls even though its sales revenue rises.
+
+**What are common mistakes on market share and market research questions in IGCSE Business 0264?**
+Students often use profit or units instead of sales revenue in the market share formula, leave out the percent sign, describe a research method without saying whether it is primary or secondary, and give niche market advantages that are not applied to the business. A "justify" answer that supports one side only also loses marks.
+
+**Which syllabus sections cover marketing and market research?**
+Section 3.1 (Marketing and the market) and section 3.2 (Market research) of the Cambridge IGCSE Business 0264 syllabus cover these topics.
+
+**Can a sample result be treated as certain for all customers?**
+No. A sample represents the whole population, but its accuracy depends on its size, how it was chosen, question design and the honesty of answers, so results are estimates rather than certain facts.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education): sections 3.1 and 3.2.

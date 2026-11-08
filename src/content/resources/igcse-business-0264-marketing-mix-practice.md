@@ -149,6 +149,20 @@ These questions cover section 3.3 Marketing mix of the Cambridge IGCSE Business 
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are common mistakes on marketing mix questions in IGCSE Business 0264?**
+Students often use the wrong base in a percentage change, give calculation answers without units or currency, describe a method generally instead of linking it to the business, and list options in a recommendation question without choosing one. Calling a flat peak "decline" in a life cycle table is another common error.
+
+**How do you calculate a percentage change in sales?**
+Percentage change is the new value minus the old value, divided by the old value, times 100. For example, sales rising from 8,000 to 10,000 is a 25% rise.
+
+**How should you answer a marketing mix recommendation question?**
+Make one clear choice and support it with two reasons from the case, linked to the product and its target customers. Listing all the options without choosing one earns little credit.
+
+**Which syllabus section covers the marketing mix?**
+The marketing mix is section 3.3 of the Cambridge IGCSE Business 0264 syllabus, covering product, price, place, promotion, ecommerce, marketing strategy and entering new markets abroad.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment, section 3.3 Marketing mix.

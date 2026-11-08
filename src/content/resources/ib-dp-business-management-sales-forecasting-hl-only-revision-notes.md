@@ -218,6 +218,20 @@ Forecast error is often expressed against the actual figure: (forecast − actua
 
 Try the [practice questions](/resources/ib-dp-business-management-sales-forecasting-hl-only-practice/), return to the [study guide](/resources/ib-dp-business-management-sales-forecasting-hl-only/) for any gaps, and tick off the topic on the [checklist](/checklists/ib/ib-dp/business/).
 
+## Frequently asked questions
+
+**What is the difference between interpolation and extrapolation?**
+Interpolation reads a value from inside the range of the data. Extrapolation extends the line beyond the data to predict a future value, which becomes less reliable the further it goes.
+
+**How do you calculate forecast error as a percentage?**
+Forecast error is often expressed against the actual figure: (forecast − actual) ÷ actual × 100. For example, forecasting 500 loaves and selling 460 gives an error of 8.7%.
+
+**What is the difference between a sales forecast and a cash flow forecast?**
+A sales forecast predicts sales, in units or revenue. A cash flow forecast predicts money coming in and going out; the sales forecast feeds into it through expected receipts.
+
+**How do you find the gradient of a line of best fit?**
+In standard form, the gradient b = Sxy ÷ Sxx, where Sxy is the sum of (x − x̄)(y − ȳ) and Sxx is the sum of (x − x̄)². The intercept is a = ȳ − b·x̄.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections used: 4.3 Sales forecasting (HL only), and the business management tools listing for simple linear regression (HL only).

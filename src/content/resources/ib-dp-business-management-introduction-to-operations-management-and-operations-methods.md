@@ -210,6 +210,20 @@ Investing is ahead by USD 34,000 on these figures. If the probability of high de
 - Giving only advantages in an "evaluate" or "justify" answer. The guide's glossary defines evaluate as weighing up strengths and limitations.
 - Forgetting a conclusion that picks a method and says why.
 
+## Frequently asked questions
+
+**What is operations management?**
+Operations management is the part of a business that plans, organizes and controls the process that turns inputs into outputs customers value. It exists in every organization, including services such as clinics, schools and charities.
+
+**What are the four production methods in IB Business Management?**
+Section 5.2 covers job production, batch production, mass/flow production and mass customization. They differ in how many identical units are made and how closely each unit matches an individual customer.
+
+**Is mass production always the cheapest method?**
+No. Mass production gives the lowest cost per unit only when output is high and steady, because its fixed costs are spread over many units; at lower output, cost per unit rises sharply.
+
+**What are the limitations of job production?**
+Job production has a high cost per unit, is slow, gains nothing from repeating tasks and relies heavily on scarce skilled labour. Its weakness is cost and speed, not quality.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization: Unit 5, sections 5.1 and 5.2.

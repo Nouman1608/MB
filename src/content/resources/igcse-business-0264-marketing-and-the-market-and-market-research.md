@@ -248,6 +248,20 @@ Steps: percentage = number who would buy / number in group × 100. Overall: 162 
 - Listing segmentation bases without applying them to the business in the question.
 - Claiming a sample result is certain for the whole market.
 
+## Frequently asked questions
+
+**How do you calculate market share in IGCSE Business?**
+Market share is the sales revenue of a business divided by the total sales revenue for the whole market, multiplied by 100. The answer is a percentage.
+
+**What is the difference between a mass market and a niche market?**
+A mass market is a very large market where a product is sold to many customers. A niche market is a small part of a larger market with specific needs, such as bicycles built for very tall riders.
+
+**Why do consumer spending patterns change?**
+Spending patterns change with incomes, fashion and tastes, age and population, technology, the prices of other goods, and attitudes such as concern about health or the environment.
+
+**What is the difference between primary and secondary research?**
+Primary (field) research collects new information for the first time for a specific purpose; it is up to date and specific but can be expensive and slow. Secondary (desk) research uses information that already exists and was collected for another purpose.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education): sections 3.1 and 3.2.

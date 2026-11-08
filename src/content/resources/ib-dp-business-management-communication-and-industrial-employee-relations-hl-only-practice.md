@@ -122,6 +122,20 @@ These questions cover sections 2.6 (Communication) and 2.7 (Industrial/employee 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between conciliation and arbitration in IB Business Management?**
+In conciliation a neutral third party helps the two sides reach their own agreement and cannot impose a settlement. In arbitration a neutral third party hears both sides and makes a ruling, so the key contrast is who decides.
+
+**Is industrial/employee relations HL only in IB DP Business Management?**
+Yes. Section 2.7 (Industrial/employee relations) is labelled HL only in the guide, while section 2.6 (Communication) is studied at both SL and HL.
+
+**Where do students commonly lose marks on communication and employee relations questions?**
+Common losses include defining the grapevine as "gossip" without saying it sits outside official channels, listing barriers with no link to the business in the stem, and calling a work-to-rule a strike. On evaluate and recommend questions, one-sided answers and a closing summary instead of a judgement also cost marks.
+
+**How should you use a calculation in a recommend question on a pay dispute?**
+Use the figures you have worked out, such as the cost gap between a pay claim and an offer and the sales lost in a strike, as evidence for your recommendation. A calculation with no link to the decision gains little credit.
+
 ## Official syllabus
 
 IB *Business management guide*, first assessment 2024, International Baccalaureate Organization: sections 2.6 and 2.7 (2.7 is HL only).

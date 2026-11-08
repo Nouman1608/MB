@@ -227,6 +227,20 @@ When a question says evaluate, discuss, justify or recommend, build the answer i
 - Describing laws that the case does not name, instead of using the case.
 - Concluding "it depends" without saying what it depends on.
 
+## Frequently asked questions
+
+**What are the opportunities of entering international markets?**
+Opportunities include a larger customer base, spreading risk across economies, economies of scale, lower costs, extending a product's life, brand prestige, new ideas, and helpful exchange rate moves. None is automatic; each depends on conditions in the case.
+
+**What are the threats of operating internationally?**
+Threats include cultural and language differences, exchange rate movements, tariffs and other trade barriers, legal and regulatory differences, strong local competitors, logistics problems, political or economic instability, higher set-up costs, ethical and reputation risk, and weaker control when using partners.
+
+**How does international marketing in 4.6 differ from MNCs in 1.6?**
+Section 1.6 asks about the impact of multinational companies on host countries, which is the host country's view. Section 4.6 looks at the opportunities and threats from the business's own point of view.
+
+**What are the ways a business can enter a foreign market?**
+Common routes are exporting, online selling, franchising or licensing, a joint venture or alliance, and an own subsidiary or acquisition. The guide does not list entry methods under 4.6, but more control and commitment usually put more money at risk.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 4, section 4.6 International marketing (HL only).

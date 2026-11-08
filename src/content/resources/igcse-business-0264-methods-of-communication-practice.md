@@ -121,6 +121,20 @@ This set covers section 2.3 (Methods of communication) of the Cambridge IGCSE Bu
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is "poor communication" an example of a communication barrier?**
+No. "Poor communication" is the result, not the barrier. Name the actual barrier, such as jargon, language differences, technical failure or no feedback.
+
+**What are common mistakes on communication questions in IGCSE Business 0264?**
+Students often describe features of a method without linking them to the situation, recommend a method without saying why another was rejected, offer a solution that does not match the barrier, and leave out units or workings in a cost calculation. Finishing an evaluation with no reasoned judgement also loses marks.
+
+**How do you work out the cost of a meeting?**
+Add the wage cost of the time each person spends in the meeting, including any travel time, to any travel expenses. Compare this with the cost of an alternative, such as a virtual meeting, before deciding.
+
+**Which syllabus section covers methods of communication?**
+Methods of communication is section 2.3 of the Cambridge IGCSE Business 0264 syllabus, covering why communication is important (2.3.1) and communication barriers (2.3.2).
+
 ## Official syllabus
 
 Aligned to section 2.3 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

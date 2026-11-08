@@ -271,6 +271,20 @@ Check three things: fit with the target market, fit with the stage in the life c
 - Ending an evaluation with "it depends" and no deciding factor.
 - Using the Ps for a service business but ignoring people, processes and physical evidence.
 
+## Frequently asked questions
+
+**What is the difference between penetration pricing and predatory pricing?**
+Penetration pricing sets a low launch price to gain market share quickly. Predatory pricing sets a price to harm or drive out competitors and is generally viewed unfavourably.
+
+**What is the difference between above the line, below the line and through the line promotion?**
+Above the line is paid mass media aimed at a wide audience, such as TV and billboards. Below the line is targeted promotion the business controls, such as samples, discounts and loyalty cards, and through the line combines both.
+
+**Is a product in the growth stage cash positive?**
+Not necessarily. Profit may be rising in growth, but cash flow is often still negative or only improving, because the business pays for stock and equipment before the revenue arrives.
+
+**What does a PED above 1 mean?**
+If the size of PED is above 1, demand is price elastic, so raising the price lowers total revenue. If it is below 1, demand is inelastic and a price rise raises revenue; PED is HL only.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Business management guide*, first assessment 2024, section 4.5, published February 2022 and updated May 2022.

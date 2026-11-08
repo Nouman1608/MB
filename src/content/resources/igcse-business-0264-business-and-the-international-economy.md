@@ -242,6 +242,23 @@ No conversion sums are needed here, because exchange rate calculations are not a
 
 Test yourself with the [practice questions](/resources/igcse-business-0264-business-and-the-international-economy-practice/) and revise with the [revision notes](/resources/igcse-business-0264-business-and-the-international-economy-revision-notes/). Check your overall progress against the [printable checklist](/checklists/cambridge/igcse/business/) and the [course hub](/boards/cambridge/igcse/business/).
 
+## Frequently asked questions
+
+**What are the four reasons for globalisation in IGCSE Business?**
+The syllabus lists improved transport links, technological change including communication, free trade agreements, and newly industrialized countries.
+
+**What is a multinational company?**
+A multinational company (MNC) is a business that has operations, such as factories, offices or shops, in more than one country.
+
+**What are the advantages to a business of becoming an MNC?**
+Advantages include access to larger markets, lower costs, avoiding trade barriers, economies of scale, spreading risk and a stronger global brand.
+
+**What are the advantages of an MNC for a host country?**
+The syllabus gives four examples: jobs, exports, increased choice and investment.
+
+**What is the difference between private costs and external costs?**
+Private costs are what a business pays itself. External costs are costs of its decisions that are borne by others, such as the local community, which is what makes them external.
+
 ## Official syllabus
 
 Aligned to section 6.2 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

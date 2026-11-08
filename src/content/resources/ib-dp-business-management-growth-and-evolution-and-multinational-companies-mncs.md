@@ -250,6 +250,23 @@ Wages, tax and local purchases keep over 12m a year in Sandrovia, while 6.3m lea
 - Mixing up a joint venture (new entity) with a strategic alliance (no new entity).
 - Listing MNC effects with no judgement. Evaluate by who gains, how large, and over what period.
 
+## Frequently asked questions
+
+**What are economies of scale?**
+Economies of scale are falls in average (unit) cost as a business's output rises. Internal types include purchasing, technical, financial, marketing, managerial and risk-bearing economies.
+
+**Why might a business choose to stay small?**
+Owners may want to keep personal control and close customer relationships, serve a niche that is too small for large firms, stay flexible, avoid the risk and debt of expansion, or pursue non-profit aims such as lifestyle.
+
+**What is the difference between a joint venture and a strategic alliance?**
+In a joint venture two or more businesses create a separate new entity and share its ownership, cost, risk and profit. In a strategic alliance they agree to cooperate on shared goals but stay legally separate, with no new entity.
+
+**How does franchising work?**
+The franchisor lets a franchisee operate under its brand, products and methods in return for fees, such as a royalty on sales. The franchisor gains steady income with little capital, while the franchisee pays the royalty whatever its profit.
+
+**How can an MNC affect a host country?**
+Possible benefits include jobs, wages, investment, technology and tax revenue; possible costs include profits sent abroad and local firms driven out by stronger competitors. A balanced answer weighs who gains, by how much and over what period.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 1, sections 1.5 and 1.6. Continue with the [revision notes](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs-revision-notes/) and [practice questions](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs-practice/).

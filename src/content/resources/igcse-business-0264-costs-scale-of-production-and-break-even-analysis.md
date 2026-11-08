@@ -281,6 +281,20 @@ A higher price lowers break-even output, but it may also cut the number of bikes
 
 The syllabus defines **Justify** as support a case with evidence or argument. For a justify question about cost data, give a reason on each side before your decision.
 
+## Frequently asked questions
+
+**What is the difference between fixed and variable costs?**
+Fixed costs do not change when output changes, within the range a business normally works at, such as rent. Variable costs change directly with output, such as materials.
+
+**What are economies of scale?**
+Economies of scale are the cost advantages a business gains as it increases its scale of production, so average cost falls. Diseconomies of scale are when average cost rises as the business grows.
+
+**How can cost data help a business make decisions?**
+The syllabus gives four example decisions: what price to set, which product to produce, whether to continue or stop production, and which supplier to choose. Compare the cost data with revenue in each case.
+
+**What does break-even mean?**
+Break-even is the level of output at which total revenue equals total cost, so the business makes neither a profit nor a loss.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, Cambridge University Press & Assessment, section 4.4 and the Formulas and ratios section.

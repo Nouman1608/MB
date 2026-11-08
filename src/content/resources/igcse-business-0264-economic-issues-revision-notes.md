@@ -227,6 +227,20 @@ Worked reminder: Lowrie Mills has a loan of 80,000 dollars. The rate rises from 
 - Giving a response (such as raising prices) without checking whether customers would accept it.
 - Stopping at one effect when the question asks you to analyse or evaluate, with no judgement at the end.
 
+## Frequently asked questions
+
+**What are the four stages of the business cycle?**
+The four stages are growth, boom, recession and slump, after which the economy returns to growth.
+
+**What is the difference between a tax on profit and a tax on income?**
+A tax on profit is paid by a business on the profit it makes. A tax on income is paid by individuals on what they earn, which reduces their disposable income and so their spending.
+
+**What is the difference between a percentage point change and a percentage change?**
+A rise in the interest rate from 5% to 7% is a 2 percentage point change, but it raises the interest bill by 40%. Mixing up the two is a common error.
+
+**Which businesses are most affected by economic changes?**
+Sellers of non-essentials such as holidays, restaurants and furniture see demand move most, while sellers of basic goods see smaller swings. Firms with large loans, firms that depend on public contracts and firms selling big purchases on credit are also strongly affected.
+
 ## Official syllabus
 
 These notes follow the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International), section 6.1 Economic issues.

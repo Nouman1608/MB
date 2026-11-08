@@ -218,6 +218,20 @@ Trevane Candles opens March with 1,500. Forecast inflows are 4,000, 3,200 and 5,
 - Quoting a figure without saying what it means for the business.
 - Missing the unit or the month label in a calculation answer.
 
+## Frequently asked questions
+
+**Do you have to construct a cash flow forecast in IGCSE Business 0264?**
+No. The syllabus says you will not be assessed on constructing a cash flow forecast, but you do need to amend or complete a simple one and interpret it.
+
+**What is the difference between net cash flow and closing balance?**
+Net cash flow is one month's change: total inflows minus total outflows. The closing balance is the running total: the opening balance plus net cash flow.
+
+**What are the four ways to solve a short-term cash flow problem?**
+The four methods are a bank overdraft, delaying payments to suppliers, asking customers to pay more quickly, and delaying the purchase of non-current assets. Each has a drawback, such as interest on an overdraft or lost supplier trust.
+
+**Does delaying a payment save money?**
+No. Delaying a payment only moves the date when the cash leaves the business; it does not reduce the amount paid.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), section 5.2.

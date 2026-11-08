@@ -244,6 +244,20 @@ For "evaluate", "discuss", "justify" or "recommend" on an international move, ch
 - Recommending adaptation or standardization with no reason tied to cost or fit.
 - Ending an evaluation without a judgment or without saying what the decision depends on.
 
+## Frequently asked questions
+
+**What is the difference between a tariff and a quota?**
+A tariff is a tax on imported goods, which raises the final price or cuts the exporter's margin. A quota limits the quantity of a good that can be imported.
+
+**How does a weaker home currency affect a business that trades internationally?**
+A weaker home currency makes exports cheaper for buyers abroad and raises foreign revenue when it is converted back, which is an opportunity. It also raises the cost of imported inputs, which is a threat.
+
+**What is the difference between standardization and adaptation?**
+Standardization uses the same marketing mix in every country, which keeps costs low and builds one global image. Adaptation changes parts of the mix to suit each market, improving local fit at a higher cost; many firms adapt only some of the seven Ps.
+
+**What depth of answer does section 4.6 require?**
+The single content point in 4.6 is tagged AO3, so questions can ask you to evaluate, discuss, justify or recommend. You need opportunities and threats tied to the case, a criterion such as profit or risk, and a judgement that says what the decision depends on.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 4, section 4.6 International marketing (HL only).

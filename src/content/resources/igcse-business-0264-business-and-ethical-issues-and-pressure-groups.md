@@ -213,6 +213,20 @@ The cost of responding (23,000 a year) is much smaller than the lost contributio
 
 Test yourself with the [practice questions](/resources/igcse-business-0264-business-and-ethical-issues-and-pressure-groups-practice/), then recheck the facts in the [revision notes](/resources/igcse-business-0264-business-and-ethical-issues-and-pressure-groups-revision-notes/). The [free diagnostics](/diagnostics/) show which other topics need work.
 
+## Frequently asked questions
+
+**What ethical issues are named in the IGCSE Business 0264 syllabus?**
+The syllabus gives four examples: child labour, paying fair wages to employees, paying fair prices to suppliers, and using suppliers who do not damage the environment. A case study may present another ethical issue.
+
+**What are the advantages and disadvantages of being ethical?**
+Being ethical can improve reputation, raise sales and build customer loyalty. It can also raise costs, such as wages and supplier prices, and higher prices may lose price-sensitive customers.
+
+**What is a pressure group?**
+A pressure group is an organized group of people who campaign to influence the decisions of businesses or government. Groups can also praise businesses that improve their practices.
+
+**What is a boycott?**
+A boycott is when a pressure group asks customers to stop buying from a business, or to choose a rival instead, in order to pressure it into changing.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge International, sections 6.4 and 6.5.

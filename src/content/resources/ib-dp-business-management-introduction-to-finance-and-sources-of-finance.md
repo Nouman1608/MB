@@ -196,6 +196,20 @@ A justified answer would recommend the loan, because it matches the life of the 
 - Describing a source without applying it. Say why it does or does not suit the business in the question.
 - Listing advantages and disadvantages but never reaching a recommendation in an AO3 question.
 
+## Frequently asked questions
+
+**What is the difference between capital and revenue expenditure?**
+Capital expenditure is spending on non-current assets that the business will use for more than a year, such as machinery or vehicles. Revenue expenditure covers everyday running costs whose benefit is used up within the year, such as wages, materials and ordinary repairs.
+
+**What is the role of finance for a business?**
+Finance is needed to start up, to keep running by paying wages and suppliers on time, and to grow or change. It also helps a business survive a bad period, such as a late-paying customer or poor sales.
+
+**What is a business angel?**
+A business angel is a wealthy individual who invests their own money in a start-up, usually in return for a share of ownership. Many also offer experience and contacts.
+
+**How do you choose the most appropriate source of finance?**
+Consider the purpose and time horizon, the amount needed, the cost, how much control and risk the owner will accept, and which sources the business can actually access given its age, size, legal form and record. In IB Business Management this is an AO3 skill, so finish with a justified recommendation.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections 3.1 Introduction to finance and 3.2 Sources of finance.

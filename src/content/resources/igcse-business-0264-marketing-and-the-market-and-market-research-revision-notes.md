@@ -249,6 +249,20 @@ Market research feeds the role of marketing: it identifies needs, shows whether 
 - Giving a method of research but not saying whether it is primary or secondary.
 - Answering "evaluate" or "justify" with one-sided points and no final judgement.
 
+## Frequently asked questions
+
+**What is the role of marketing?**
+Marketing has five roles: identifying customer needs, satisfying customer needs, maintaining customer loyalty, building customer relationships, and anticipating changes in customer needs.
+
+**What is the difference between a niche market and market segmentation?**
+A niche market is a small, specialist market. Market segmentation is dividing a whole market into groups whose members share traits, so a business can target each group.
+
+**What are the advantages and disadvantages of secondary research?**
+Secondary research is usually cheaper and faster and gives wide coverage of the market. However, the data may be old, may not be specific to the business's question and may come from an unreliable source.
+
+**How do you find total market size from market share?**
+Rearrange the formula: total market sales revenue equals the business's sales revenue divided by its market share, multiplied by 100.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education): sections 3.1 and 3.2.

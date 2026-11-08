@@ -233,6 +233,23 @@ If the cause is losses rather than timing, short-term fixes only delay the probl
 - Recommending a long-term loan for a short gap, or an overdraft for a permanent loss.
 - Treating a high current ratio as proof of good liquidity when most of it is stock or late-paying receivables.
 
+## Frequently asked questions
+
+**Why can a profitable business run out of cash?**
+Profit records sales and costs when they are earned or incurred, while cash flow records money when it actually moves. Credit sales, buying non-current assets for cash and non-cash costs such as depreciation all make the two figures differ, so a business can show a profit in a month and still have a negative net cash flow.
+
+**How do you calculate working capital in IB Business Management?**
+Working capital is current assets minus current liabilities. Current assets include stock, trade receivables and cash; current liabilities include trade payables, an overdraft and tax owed within a year.
+
+**Does depreciation go in a cash flow forecast?**
+No. A cash flow forecast includes only cash movements, so depreciation never appears, and a credit sale is entered only in the month the customer actually pays.
+
+**How do you choose a strategy for a cash flow problem in an IB answer?**
+Match the strategy to the cause and weigh its drawback: an overdraft suits a short timing gap, while leasing avoids a large up-front payment but can cost more over time. Strategies are an AO3 point in section 3.7, so you need to reach a judgement, and if the cause is losses rather than timing, short-term fixes only delay the problem.
+
+**Is cash flow an HL only topic in IB DP Business Management?**
+No. None of the six points in section 3.7 is labelled HL only, so SL and HL students study all of it.
+
 ## Official syllabus
 
 IB *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 3.7 Cash flow. Related: sections 3.4 and 3.5.

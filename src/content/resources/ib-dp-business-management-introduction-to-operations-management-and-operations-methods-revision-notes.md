@@ -231,6 +231,20 @@ For an AO3 answer on method choice, use this frame: name the method, give a stre
 - Stopping an "evaluate" or "justify" answer after the points, with no conclusion.
 - Forgetting non-numerical factors such as staff skills, brand image and sustainability.
 
+## Frequently asked questions
+
+**How do you calculate capacity utilization?**
+Capacity utilization is output divided by capacity, multiplied by 100. For example, 450 units on a 600-unit line is 75%.
+
+**What is the difference between batch production and mass production?**
+Batch production makes groups of identical items and stops to reset equipment between groups. Mass production runs continuously on a line making large numbers of a standard product.
+
+**How do you use expected value in a decision tree?**
+Multiply each outcome by its probability, add the results, then subtract the cost of the option. Compare the net figures for each option before reaching a judgement.
+
+**What are the four conceptual understandings for operations management?**
+The guide states that change in operations impacts other business activities, a creative production process can disrupt the market, operational changes may affect the business's ethical stance, and sustainability ensures efficiency in operations.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization: Unit 5, sections 5.1 and 5.2.

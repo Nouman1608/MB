@@ -160,6 +160,20 @@ Percentage of actual sales = 175 / 1,075 × 100 = **16.3%** [1]. **[2]**
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your weakest areas.
 - [Book a free trial class](/trial/) if you would like help from a teacher.
 
+## Frequently asked questions
+
+**Is sales forecasting HL only in IB Business Management?**
+Yes. Section 4.3, Sales forecasting, is HL only in the IB Business management guide, first assessment 2024, and the simple linear regression tool used to calculate trends is also an HL tool.
+
+**What should you show when calculating a line of best fit?**
+Show the means, Sxy and Sxx as well as the final equation y = a + bx, so that any error can be traced and method marks can still be awarded.
+
+**Does a correlation close to 1 mean a sales forecast will be accurate?**
+No. A high correlation shows that past data fit a straight line closely, not that the future will follow it. Extrapolating far beyond the data without comment is a common mistake.
+
+**What are common mistakes on sales forecasting evaluate questions?**
+Students often write general benefits and limitations that could apply to any business, ignore the numbers in the case, and give "evaluate", "justify" or "recommend" answers with no decision or reason.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections used: 4.3 Sales forecasting (HL only), and the business management tools listing for simple linear regression (HL only).

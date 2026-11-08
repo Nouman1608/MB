@@ -193,6 +193,20 @@ If a question asks you to *analyse*, a chain of reasoning for one or two groups 
 - Forgetting that a decision may help one stakeholder group and harm another.
 - Writing a recommendation with no reason or no acknowledgement of who loses.
 
+## Frequently asked questions
+
+**What is the difference between internal and external stakeholders?**
+Internal stakeholders are individuals or groups inside the organization, such as employees, managers and owners. External stakeholders are outside it, such as customers, suppliers, lenders, government, the local community and pressure groups.
+
+**What is the difference between a stakeholder's interest and its influence?**
+Interest is how much a group cares about an issue; influence is whether it can change the outcome. Two groups may care equally, but only one may have the power to affect the business's decision.
+
+**Does a stakeholder have to own part of the business?**
+No. A stakeholder does not need to own anything: a neighbor who lives beside a factory and hears its noise is affected by the business, and so is a stakeholder.
+
+**Is stakeholder conflict always between owners and workers?**
+No. Conflicts can occur within the internal group or between the business and suppliers, communities, government or the environment, so strong answers look beyond workers and owners.
+
 ## Official syllabus
 
 This page follows the *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization, section 1.4 Stakeholders. The practice set and revision notes use invented businesses and figures.

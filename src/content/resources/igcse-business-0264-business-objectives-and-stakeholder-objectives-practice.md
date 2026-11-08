@@ -137,6 +137,20 @@ Justify whether the owners should go ahead with the move. Consider at least thre
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak area.
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What are common mistakes on business objectives questions in IGCSE Business 0264?**
+Students often define an objective with a single word such as "profit" instead of saying it is a target, put customers and suppliers among internal stakeholders, and mix up sales revenue growth with market share growth. Justifying a decision without weighing the other side also loses marks.
+
+**How do you explain a conflict between two stakeholder groups?**
+State what each group wants and explain why both cannot be fully met, for example because the money available is limited. Listing two wants without that explanation earns less credit.
+
+**Which section of the Cambridge IGCSE Business 0264 syllabus covers objectives and stakeholders?**
+Section 1.5 covers business objectives and stakeholder objectives: 1.5.1 on business objectives and their importance, and 1.5.2 on stakeholder groups and how their objectives may conflict.
+
+**How should you show a market share calculation?**
+Write the formula, sales revenue of the business divided by total sales revenue of the market times 100, substitute the figures and give the answer with a % sign.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press and Assessment (Cambridge International Education). Section 1.5 covers business objectives and the role of stakeholder groups.

@@ -203,6 +203,20 @@ Useful angles are the short run against the long run, the size of the firm, how 
 - Writing a one-sided answer to a recommend and justify question.
 - Repeating the stem of the question instead of using its details.
 
+## Frequently asked questions
+
+**What is the difference between pollution and depletion of resources?**
+Pollution adds harmful substances, energy or noise to the air, water or land. Depletion of resources means using natural resources faster than they are replaced, or using up non-renewable resources.
+
+**Why might a business respond to environmental issues?**
+The syllabus names improved reputation and increased sales as examples. Other valid reasons include avoiding fines or bans, lowering costs by using less energy, water or packaging, and avoiding bad publicity.
+
+**Do you need to name specific environmental laws in IGCSE Business?**
+No. The syllabus asks for the effects of legal controls, so describe them in general terms, such as their effect on how, what and where a business produces and on its costs.
+
+**Does every environmental response increase sales?**
+No. Some customers do not care or will not pay more, so an answer should weigh the cost of the response against its likely gain.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), section 6.3 Business and the environment.

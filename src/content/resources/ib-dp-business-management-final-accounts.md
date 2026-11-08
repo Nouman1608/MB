@@ -231,6 +231,23 @@ A strong answer uses the case: if output is stable, the two methods give similar
 - Ignoring the residual value when calculating depreciation.
 - Giving a generic list when asked why accounts matter to a stakeholder. Name the group and the figure that group uses.
 
+## Frequently asked questions
+
+**What is the difference between the profit and loss account and the balance sheet?**
+The profit and loss account shows the profit or loss a business made over a period. The balance sheet shows what the business owns, owes and is worth at a single point in time, based on the accounting equation assets = liabilities + equity.
+
+**What is goodwill?**
+Goodwill is the extra amount a buyer pays for a business above the value of its identifiable net assets, reflecting things such as its reputation and customer base. It is an intangible asset.
+
+**Does depreciation reduce cash?**
+No. Depreciation is a book entry that spreads the cost of a non-current asset over its useful life, so it lowers profit without any cash leaving the business that year; the cash left when the asset was bought.
+
+**When should a business use the units of production method instead of straight line?**
+Units of production suits assets worn out by use, such as a machine whose output varies or a vehicle measured by distance. Straight line suits assets that lose value mainly with time, such as a building or office furniture, and is simpler and more predictable.
+
+**How are the profit and loss account and the balance sheet linked?**
+The retained profit for the year from the profit and loss account is added to retained profit in equity on the balance sheet.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024: section 3.4 Final accounts and the Glossary of command terms.

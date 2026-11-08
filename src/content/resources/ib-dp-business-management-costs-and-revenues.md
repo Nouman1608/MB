@@ -202,6 +202,20 @@ The membership line deserves a small note. If members pay 120 dollars up front f
 
 Work through the [3.3 practice questions](/resources/ib-dp-business-management-costs-and-revenues-practice/), then use the [3.3 revision notes](/resources/ib-dp-business-management-costs-and-revenues-revision-notes/) for quick recall. The [Unit 3 study guide](/resources/ib-dp-business-management-finance-accounts/) shows how this section connects to final accounts and ratios.
 
+## Frequently asked questions
+
+**What is an indirect cost (overhead)?**
+An indirect cost, or overhead, supports the whole business and cannot sensibly be traced to a single product. Examples include head-office rent, general insurance, accounts staff and the website.
+
+**What is a revenue stream in IB Business Management?**
+A revenue stream is one distinct source of a business's revenue, such as a product line, service, fee or membership. Total revenue is the sum of price × quantity for every stream.
+
+**Why does the difference between fixed and variable costs matter to a business?**
+Fixed costs must be paid whatever sales are, so a business with high fixed costs is more exposed when demand falls. Variable costs track activity, so they fall when output falls and give the business flexibility.
+
+**If a business drops a product, do its overheads disappear?**
+No. Overheads are shared, so dropping one product does not remove its share of them; those costs must then be carried by the remaining products.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024, section 3.3 Costs and revenues.

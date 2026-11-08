@@ -218,6 +218,20 @@ The measures work together. A rise in capacity utilization usually raises labour
 - Writing a one-sided evaluation with no judgement.
 - Treating high capacity utilization as always good, with no mention of the lack of slack.
 
+## Frequently asked questions
+
+**How do you calculate the reorder level?**
+The reorder level is buffer stock plus usage during the lead time, which is daily usage multiplied by lead time in days. This is a standard form, as the guide does not give the formula.
+
+**What is the difference between buffer stock and reorder level?**
+Buffer stock is the minimum stock kept as a safety margin, the floor you try not to go below. The reorder level is higher: it equals the buffer plus the stock used while waiting for a delivery.
+
+**How do you find the volume at which making and buying cost the same?**
+Divide the extra fixed cost of making by the difference between the buy price and the variable cost of making per unit. Above that volume making is cheaper; below it buying is cheaper.
+
+**Which production planning formulas are given in the IB guide?**
+The guide's formulae section gives capacity utilization rate (actual output divided by productive capacity, times 100) and productivity rate (total output divided by total input, times 100). Other measures, such as defect rate and operating leverage, use standard forms.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 5.6, Production planning (HL only).

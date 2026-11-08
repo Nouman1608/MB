@@ -205,6 +205,20 @@ For "evaluate", "discuss", "justify" or "recommend" on a clash, check that you h
 - Quoting a turnover figure without an average staff base or a comparison year.
 - Leaving out the case: a correct but generic answer cannot show application.
 
+## Frequently asked questions
+
+**What are Handy's four types of organizational culture?**
+Charles Handy's "Gods of management" are Zeus (power culture), Apollo (role culture), Athena (task culture) and Dionysus (existential or person culture).
+
+**What are the signs of a cultural clash in a business?**
+Indicators include rising staff turnover, falling productivity, conflict between groups and an "us and them" attitude. Compare a turnover figure with an earlier year so it shows a change.
+
+**How can a business manage a cultural clash?**
+Options include a culture audit before a merger, clear communication about what will change, involving staff through consultation and mixed teams, managers leading by example, training and induction, and choosing whether one culture dominates, the two blend, or the units stay separate for a period.
+
+**What is the difference between a strong culture and a good culture?**
+A strong culture is one whose values are widely shared and acted on by most staff. It is not automatically good, because a strong culture may not suit the business's strategy or situation.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 2, section 2.5 Organizational (corporate) culture (HL only).

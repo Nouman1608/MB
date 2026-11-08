@@ -205,6 +205,20 @@ Label each cost for a delivery bakery: dough ingredients for one product (variab
 - Treating a price rise as certain to raise revenue, with no thought about quantity.
 - Stating fixed cost per unit as constant.
 
+## Frequently asked questions
+
+**What is the difference between a variable cost and a direct cost?**
+Variable describes behaviour: the total changes as output changes. Direct describes traceability: the cost can be linked to one product. A cost can be one without the other, such as cleaning supplies used across a whole site, which are variable but indirect.
+
+**What happens to fixed cost per unit when output rises?**
+The total fixed cost stays the same, but fixed cost per unit falls because it is spread over more units. For example, fixed costs of 1,200 dollars give 3.00 dollars per unit at 400 units and 2.00 dollars per unit at 600 units.
+
+**Does a price rise always increase total revenue?**
+No. Total revenue is price × quantity sold, so if quantity falls by enough after a price rise, total revenue can fall.
+
+**What is the formula for total cost and profit?**
+In standard form, total cost = total fixed costs + total variable costs, and profit = total revenue − total costs. The IB guide does not print formulas for section 3.3, so these are the standard teaching forms.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024, section 3.3 Costs and revenues.

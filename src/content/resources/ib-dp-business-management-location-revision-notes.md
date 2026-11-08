@@ -225,6 +225,20 @@ A maker of 10,000 chairs a year pays 22.00 each to produce overseas and 3.50 eac
 - Treating reshoring as always better because it supports home jobs.
 - Omitting the national forms of outsourcing and insourcing.
 
+## Frequently asked questions
+
+**What is the difference between insourcing and reshoring?**
+Insourcing is bringing in-house an activity that an outside firm used to do, so it reverses outsourcing. Reshoring is moving production back to the home country after it was offshored, so it reverses offshoring.
+
+**How do you calculate landed cost when offshoring?**
+Landed cost is the overseas production cost plus shipping plus import duty. Compare it with the home cost per unit, not the production cost alone, to find the real saving.
+
+**Why might a business choose a more expensive location?**
+A higher-cost site can still be the better choice if it gives faster delivery to customers, fewer lost sales, better quality control or a stronger brand image linked to the place. Lowest cost is not the same as best location.
+
+**Is reshoring always better because it supports home jobs?**
+No. Reshoring may cut lead times or improve quality, but it can raise costs, so the case must rest on whether those gains outweigh the extra cost for that business.
+
 ## Official syllabus
 
 IB *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 5.4 Location, within Unit 5: Operations management.

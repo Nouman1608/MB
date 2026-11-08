@@ -244,6 +244,20 @@ Assumes all output is sold, price and variable cost per unit stay constant, fixe
 - Judging a price change from break-even output alone, with no comment on demand.
 - Listing limitations in general terms, not linked to the business in the question.
 
+## Frequently asked questions
+
+**How do you draw a break-even chart?**
+Put output on the horizontal axis and money on the vertical axis. Draw fixed costs as a horizontal line, start total costs at the fixed cost level and total revenue at the origin; break-even is where total revenue and total costs cross.
+
+**What happens to break-even output if the price rises?**
+A higher price, or lower costs, moves break-even output down. A lower price or higher costs move it up, but a price change may also change how many units customers buy.
+
+**What are the limitations of break-even analysis?**
+It assumes all output is sold, the price and variable cost per unit stay constant and fixed costs stay fixed. It suits one product, uses forecasts that may be wrong and ignores the market.
+
+**Is variable cost per unit the same as average cost?**
+No. Average cost is total cost divided by output, so it includes a share of fixed costs. Calling variable cost per unit the "average cost" is a common error.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, Cambridge University Press & Assessment, section 4.4 and the Formulas and ratios section.

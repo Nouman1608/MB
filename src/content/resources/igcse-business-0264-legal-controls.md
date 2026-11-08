@@ -220,6 +220,20 @@ For ecommerce (section 3.3.5), customers cannot touch the product before buying,
 - Forgetting cost-benefit. A one-sided "rules are bad for business" answer is incomplete.
 - Mixing up faulty goods with a change of mind. A faulty product has something wrong with it.
 
+## Frequently asked questions
+
+**What is misleading promotion?**
+Misleading promotion is promotion that gives customers a false or unclear picture, so that they decide to buy because of it. Examples include false claims about a product, exaggerated performance, misleading prices, hidden conditions, misleading images or packaging, or unfair comparisons.
+
+**What are faulty goods?**
+Faulty goods are goods that do not work properly, are damaged, or are not as described. The business that sold them is responsible for putting things right, not the customer.
+
+**How do legal controls affect a business's marketing?**
+They can make promotion more careful, mean strong claims are given up, add testing, labelling and returns costs, and make price promotions harder to plan. They can also help, by building customer trust, creating a fairer market and pushing quality improvements.
+
+**How do legal controls link to the marketing mix?**
+Legal controls shape each element of the marketing mix, such as what can be claimed in promotion, how "was/now" prices are shown, and how accurately a product must be described, especially when selling online.
+
 ## Official syllabus
 
 This page follows the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International), section 3.4 Legal controls.

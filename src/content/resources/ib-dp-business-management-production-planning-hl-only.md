@@ -227,6 +227,20 @@ Cost is not the only factor. Making gives control over quality, protects confide
 - Comparing CTB and CTM at one quantity and ignoring the volume where the answer flips.
 - Claiming JIT always beats JIC. State when each suits the context.
 
+## Frequently asked questions
+
+**What is the difference between JIT and just-in-case?**
+Just-in-time means ordering and producing only what is needed, when it is needed, so stock is minimal and holding costs are low. Just-in-case holds extra stock, including buffer stock, to protect against delays and demand surges, at a higher holding cost.
+
+**What is the difference between a local and a global supply chain?**
+A local supply chain keeps most stages within one region or country, usually with shorter, more predictable lead times but often higher input prices. A global chain spreads stages across countries, often lowering unit cost but adding longer lead times, exchange-rate risk and harder oversight.
+
+**What does a capacity utilization rate of 75% mean?**
+It means 25% of productive capacity is unused, so fixed costs are spread over fewer units and fixed cost per unit is higher. High utilization is not always good, as it leaves little slack for extra orders or maintenance.
+
+**What is operating leverage?**
+In standard form, the degree of operating leverage is total contribution divided by profit. A high figure means profit changes by a larger percentage than sales volume, in both directions.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 5.6, Production planning (HL only).

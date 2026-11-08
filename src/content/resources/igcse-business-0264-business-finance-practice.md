@@ -135,6 +135,20 @@ Recommend a source of finance for the remaining £30,000 and justify your choice
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak area.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are common mistakes on business finance questions in IGCSE Business 0264?**
+Students often define working capital as "money in the bank", give an external source such as a loan when asked for internal sources, mix up leasing with hire purchase or an overdraft with a bank loan, and recommend a source without applying case facts such as legal form, amount or length of need. Forgetting that a loan must be repaid with interest and a grant does not also loses marks.
+
+**How do you work out the total cost of hire purchase?**
+Add the deposit to the total of all the instalments. Subtract the cash price from this total to find the extra cost of buying on hire purchase.
+
+**How should you answer a recommend question on a source of finance?**
+Recommend one source and justify it using facts from the case, such as the business's legal form, the amount needed, how long it is needed for and any existing loans. Give a reason why it is better than an alternative.
+
+**Which section of the Cambridge IGCSE Business 0264 syllabus covers business finance?**
+Business finance is section 5.1, covering the need for business finance (5.1.1) and the main sources of finance (5.1.2).
+
 ## Official syllabus
 
 These questions follow the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment, section 5.1 Business finance.

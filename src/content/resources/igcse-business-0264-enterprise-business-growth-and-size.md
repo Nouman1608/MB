@@ -300,6 +300,20 @@ The standard sub-types are backward (towards suppliers) and forward (towards ret
 - Confusing a merger with a takeover, or horizontal with vertical integration.
 - Giving only advantages when the question asks you to justify or consider.
 
+## Frequently asked questions
+
+**What are the characteristics of a successful entrepreneur?**
+Common characteristics are risk-taking, innovation, determination and resilience, hard work, self-confidence and leadership, and good decision-making and organization. In an exam, name the trait and show it in the case.
+
+**How can business size be measured?**
+Methods include the number of people employed, the value of output or sales, the volume of output or sales, and capital employed. Each has a limitation, so different methods can give different answers.
+
+**What is internal growth?**
+Internal (organic) growth comes from the business's own resources, such as new products, new markets or new outlets. The owner keeps control and growth is steady, but it is slow and needs finance.
+
+**Why do some businesses fail?**
+Failure is linked to poor management skills, finance running out, a product customers do not want, falling demand, changes in the economy such as recession, and strong competition.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International), section 1.3.

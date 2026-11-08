@@ -262,6 +262,23 @@ A mix is inconsistent if, for example, a premium price is paired with sale-bin d
 - Treating people, processes and physical evidence as irrelevant to a manufacturer: they matter most for services, but all products have some service element.
 - Concluding "it depends" with no condition. Name the factor that decides.
 
+## Frequently asked questions
+
+**What are the seven Ps of the marketing mix?**
+The seven Ps are product, price, promotion, place, people, processes and physical evidence. The IB guide frames the last three in the context of marketing a service.
+
+**What is an extension strategy?**
+An extension strategy aims to keep sales going for longer and put off the start of decline for a product in maturity. Examples include new markets, repositioning, new features or variants, and new packaging.
+
+**What are the four aspects of branding in IB Business Management?**
+The guide lists brand awareness, brand development, brand loyalty and brand value. Branding matters because it separates a product from near-identical rivals and supports higher prices and repeat sales.
+
+**How do you calculate a cost-plus price?**
+A cost-plus price is the unit cost plus the unit cost multiplied by the mark-up percentage. For example, a unit cost of 180 dollars with a 35% mark-up gives a price of 243 dollars; the method is simple but ignores what customers will pay.
+
+**What makes a marketing mix appropriate?**
+There is no single best mix, only one that fits the target market, the product's stage in the life cycle and the business's objectives. A mix is inconsistent if, for example, a premium price is paired with sale-bin distribution.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Business management guide*, first assessment 2024, section 4.5, published February 2022 and updated May 2022. Next, try the [practice questions](/resources/ib-dp-business-management-the-seven-ps-of-the-marketing-mix-practice/).

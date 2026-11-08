@@ -237,6 +237,20 @@ A response is only good if it suits the business. Raising prices to pass on a ta
 - Saying that higher interest rates only hurt borrowers. Customers' spending falls too.
 - Listing effects but not saying whether they are large or small for this business. Evaluation needs a judgement.
 
+## Frequently asked questions
+
+**How does a recession affect a business?**
+In a recession demand falls, especially for goods people can delay buying, such as furniture or holidays. Stocks build up, cash flow weakens and some customers pay late, so businesses often cut prices, run promotions, cut costs or delay investment.
+
+**How do higher interest rates affect a business?**
+Higher interest rates raise the cost of the business's own loans, which cuts profit. They also reduce customer spending, especially on goods bought with loans or credit.
+
+**How does government spending affect businesses?**
+Higher government spending can win contracts for firms such as construction businesses and their suppliers, raising incomes and demand. Lower spending means firms that depend on government contracts lose sales and may cut jobs.
+
+**What is economic growth?**
+Economic growth is an increase in the output of the whole economy over time. It usually brings rising incomes and more demand, especially for non-essentials.
+
 ## Official syllabus
 
 This guide follows the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment, section 6.1 (Economic issues).

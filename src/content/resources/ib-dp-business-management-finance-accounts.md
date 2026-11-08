@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-3"
-description: "The nine sub-topics of IB Diploma Programme Business Management Unit 3 -- sources of finance, costs and revenues, final accounts, ratio analysis, cash flow and investment appraisal -- and how to approach the unit's calculation-heavy content."
+description: "Guide to IB DP Business Management Unit 3 Finance and accounts: the nine sub-topics from sources of finance to budgets, and how to tackle the calculations."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Unit 3 -- Finance and Accounts**, for IB Diploma
@@ -211,6 +213,20 @@ is where the evaluative marks in this sub-topic are earned.
   <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How many teaching hours is IB Business Management Unit 3?**
+Unit 3 has 30 recommended teaching hours at SL, tied with Unit 4 as the largest unit, and 45 hours at HL, tied with Unit 5.
+
+**Can a profitable business have poor liquidity?**
+Yes. Profitability asks whether the business is making money, while liquidity asks whether it can pay its bills now; a business with a healthy gross profit margin can still have a current ratio of 0.6:1 and struggle to meet short-term debts.
+
+**Why is Unit 3 important for Paper 2?**
+Paper 2 is built around unseen quantitative stimulus material that draws directly on Unit 3's numerical tools, which makes timed calculation practice especially worthwhile.
+
+**What is a common mistake when classifying costs?**
+Students often label a cost fixed or variable from its usual category rather than from how the scenario describes it behaving. A delivery cost described as rising with the number of orders is variable, whatever its usual label.
 
 ## Official syllabus
 

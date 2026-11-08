@@ -183,6 +183,20 @@ Answer outline. The forecast of about 495 boards for year 7 helps the firm plan 
 
 Work through the [practice questions](/resources/ib-dp-business-management-sales-forecasting-hl-only-practice/), then use the [revision notes](/resources/ib-dp-business-management-sales-forecasting-hl-only-revision-notes/) for quick recall. The [Unit 4 study guide](/resources/ib-dp-business-management-marketing/) shows how 4.3 sits with the rest of the unit, and the [free diagnostics](/diagnostics/) help you find your weak areas.
 
+## Frequently asked questions
+
+**What is a sales forecast?**
+A sales forecast is a prediction of the sales a business expects over a future period, stated in units, revenue or both. It is often the starting point for production, staffing, marketing and cash flow plans.
+
+**What are the benefits of sales forecasting?**
+Sales forecasting supports production and stock planning, cash flow and finance, human resource planning, marketing planning, and targets for managers and sales teams. It reduces uncertainty compared with planning from guesswork.
+
+**What are the limitations of sales forecasting?**
+Forecasts rely on past data, can be upset by external changes and unexpected events, become less reliable over longer horizons, and can be distorted by small data sets or bias. A precise-looking number can also give false confidence.
+
+**When is a sales forecast most useful?**
+A forecast is more useful in a stable, mature market, over a short horizon, with many years of good data, and where the business can adjust if it is wrong. It is less useful where tastes or technology change fast or the cost of error is high.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page follows section 4.3 (HL only) and the business management tools listing for simple linear regression (HL only).
