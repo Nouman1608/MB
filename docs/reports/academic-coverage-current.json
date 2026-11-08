@@ -3293,7 +3293,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 41852,
+      "totalQualifyingWordCount": 41798,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
