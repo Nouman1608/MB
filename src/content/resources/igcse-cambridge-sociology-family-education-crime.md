@@ -44,8 +44,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review."
 ---
 
 This guide covers **Paper 2 Family, Education and Crime**, for
@@ -211,8 +213,12 @@ approach as if it were universal.
 
 Because candidates answer only two of Paper 2's three topics, decide
 early which two you will prepare in depth rather than spreading equal
-revision time across all three — but keep at least a working knowledge
-of the third, since Question 1 patterns can vary by series.  Within
+revision time across all three. The layout is fixed by the syllabus:
+Question 1 is always Family, Question 2 Education and Question 3 Crime,
+deviance and social control, each worth 40 marks with the same six-part
+(a)–(f) structure, and Cambridge expects centres to teach two of the
+three topics. A working knowledge of a third topic is only a safety net
+if a question's wording does not suit you.  Within
 whichever topics you choose, build a single three-column table per
 topic — functionalist / Marxist / feminist — and fill in each cell with
 one specific mechanism rather than a general summary, since this table
