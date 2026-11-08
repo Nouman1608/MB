@@ -119,8 +119,8 @@ mitosis [1].
 **(c)** To spread the cells into a single layer so light passes through and chromosomes can be seen [1]; twisting
 would break the chromosomes or tear the cells / damage the slide [1].
 
-**7. (a)** Cells in mitosis = 21 + 9 + 4 + 4 = 38 [1]; total = 112 + 38 = 150; mitotic index = 38 / 150 =
-**0.25** (0.253) [1].
+**7. (a)** Cells in mitosis = 21 + 9 + 4 + 4 = 38 [1]; total = 112 + 38 = 150;
+mitotic index = 38 / 150 = **0.25** (0.253) [1].
 **(b)** Proportion in metaphase = 9 / 150 = 0.06 [1]; 0.06 x 18 hours = 1.08 hours = **64.8 minutes** (about 65
 minutes) [1].
 **(c)** Any two [1 each]: count several fields of view; use several root tips (or slides); count a larger number of
