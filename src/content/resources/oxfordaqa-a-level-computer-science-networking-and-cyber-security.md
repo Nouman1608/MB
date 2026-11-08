@@ -174,6 +174,23 @@ A **virus** attaches to a file and spreads when it runs; a **worm** spreads acro
 - Saying CSMA/CA detects collisions: it infers them from a missing acknowledgement.
 - Treating a signature as secrecy: it proves origin and integrity.
 
+## Frequently asked questions
+
+**Is networking and cyber security AS or A-level content in OxfordAQA 9645?**
+Section 3.14, Networking and cyber security, is International A-level only. It covers communications, networking, the Internet, TCP/IP and cyber security.
+
+**Why is serial transmission used instead of parallel over long distances?**
+Serial transmission sends bits one at a time down a single line, so there is no skew between bits arriving on different wires and no crosstalk between neighbouring wires. Parallel transmission sends several bits at once down several lines.
+
+**What is the difference between bandwidth and bit rate?**
+Bandwidth is the range of frequencies a medium can carry, while bit rate is the number of bits transmitted per second. Bit rate is directly proportional to bandwidth, so calling bandwidth "speed" is inaccurate.
+
+**What is the difference between a thin client and a thick client?**
+A thin client does little processing or storage, with programs and data on a server, so it needs a powerful server and a fast, reliable network. A thick client processes and stores data on the machine itself.
+
+**What is the difference between symmetric and asymmetric encryption?**
+Symmetric encryption uses one shared key and is fast, but getting the key to the receiver safely is a problem. Asymmetric encryption uses a public and private key pair and is slower, so it is often used to send a fresh symmetric key securely.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.14 Networking and cyber security.

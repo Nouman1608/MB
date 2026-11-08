@@ -303,6 +303,23 @@ Round brackets stand for ovals, square brackets for rectangles and dotted lines 
 - A join condition missing from a multi-table SELECT.
 - A non-aggregated field selected but not listed in GROUP BY.
 
+## Frequently asked questions
+
+**Is the databases topic in the OxfordAQA 9645 AS exam?**
+No. Topic 15, Databases, is International A-level only in the 9645 specification. It covers ER modelling, relational database concepts, normalisation, SQL, client server databases and Big Data.
+
+**What is a composite primary key?**
+A composite primary key is a primary key made of two or more attributes whose values are unique together, even though each attribute on its own is not unique. A link table such as a service record often has one.
+
+**What are update, insertion and deletion problems in an unnormalised table?**
+An update problem occurs when a fact repeated in many rows is changed in some but not others. An insertion problem occurs when a fact cannot be recorded without unrelated data, and a deletion problem occurs when deleting one fact also removes another.
+
+**How does functional programming help with processing Big Data?**
+Immutable data structures cannot be changed, so machines never interfere with each other's data, and stateless functions give results that depend only on their inputs, so any machine can run them. Higher-order functions such as map-reduce combine results from different servers.
+
+**Which SQL dialect does OxfordAQA 9645 use?**
+The specification names no SQL dialect, so the queries on this page use standard SQL. Keywords for data types can vary slightly between database systems.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.15 Databases.

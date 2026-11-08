@@ -9,13 +9,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["9645"]
 syllabusSeries: "2024-onwards"
 order: 3
-description: "How OxfordAQA International A-Level Computer Science 9645's two on-screen programming papers differ in preparation from its two written theory papers, plus a worked trace-table routine."
+description: "How OxfordAQA International A-level Computer Science 9645's on-screen programming papers and written theory papers differ, plus a worked trace-table routine."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 OxfordAQA International A-Level Computer Science (9645) splits its four papers into two distinct
@@ -108,6 +110,23 @@ algorithms does not train the specific skill of writing and debugging code again
 actual exam environment. 3. Functional programming, theory of computation, networking and cyber
 security, databases, and artificial intelligence. 4. Whether the traced final result actually matches
 what the algorithm claims to compute -- and if not, re-trace from the first point of discrepancy.
+
+## Frequently asked questions
+
+**How many papers are in OxfordAQA International A-level Computer Science 9645?**
+There are four papers: AS Paper 1 and A-level Paper 1 are on-screen programming exams, and AS Paper 2 and A-level Paper 2 are written theory exams. The AS papers are each worth 20% of the full A-level and the A-level papers are each worth 30%.
+
+**Which programming languages can you use in the 9645 on-screen papers?**
+The on-screen programming papers are written in one of C#, Python or VB.Net. They cover procedural and object-oriented programming, data structures and algorithms.
+
+**How long are the OxfordAQA 9645 Computer Science exams?**
+AS Paper 1 is 2 hours for 75 marks and A-level Paper 1 is 2 hours 30 minutes for 90 marks. AS Paper 2 and A-level Paper 2 are each 90 minutes for 75 marks.
+
+**Is being good at coding enough to do well in the 9645 theory papers?**
+No. The written theory papers reward precise technical vocabulary and written explanation with no code to fall back on, so they need separate preparation, such as drilling exact definitions for terms like register, bus, protocol and normalisation.
+
+**When were the first exams for the revised 9645 specification?**
+The revised specification was first taught from September 2024, with first AS exams in May/June 2025 and first A-level exams in May/June 2026.
 
 *Written against the assessment section of OxfordAQA's own International AS/A-level Computer Science
 (9645) qualification page (official OxfordAQA page, verified 2026-08-28); the paper formats, languages,

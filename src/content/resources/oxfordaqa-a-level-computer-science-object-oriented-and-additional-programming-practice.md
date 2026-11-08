@@ -301,6 +301,20 @@ Base case `n == 1` returns the first value [1]; recursive call on `n - 1` [1]; c
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 object-oriented programming questions from past papers?**
+No. They are original practice questions with worked answers written for revision of section 3.9, Object-oriented and additional programming. Use them alongside official past papers from your board or school.
+
+**What are common mistakes in object-oriented programming answers?**
+Common errors include calling the class the object, constructors that leave some attributes unset, setters with no validation, and a subclass that never calls the base constructor.
+
+**How do you explain why the object-oriented paradigm is used?**
+Each reason needs its mechanism, such as encapsulation protecting data, inheritance allowing reuse, or classes being tested on their own. Saying "it is easier" earns little on its own.
+
+**What are common mistakes when reading numbers from a text file?**
+Lines read from a file are text, so strip the newline and convert the value with int() or float() before comparing it with a number. Opening a file with "w" when "a" was needed also wipes the existing data.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.9 Object-oriented and additional programming.

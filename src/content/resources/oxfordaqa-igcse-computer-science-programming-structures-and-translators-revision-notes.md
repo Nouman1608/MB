@@ -153,6 +153,23 @@ When to use: interpreter while developing and testing; compiler to distribute a 
 
 **Answers:** 1. An array holds items of one data type; a record holds fields that can be different types. 2. String to integer, string to real, integer to string, real to string. 3. Code can be reused by calling it many times; each subroutine can be tested separately. 4. Normal 14; boundary 11 and 18 (and 10, 19 just outside); erroneous 25 or "twelve". 5. Assembly language has a 1:1 correspondence with machine code: each mnemonic stands for one processor instruction.
 
+## Frequently asked questions
+
+**What sections of OxfordAQA 9210 do these programming revision notes cover?**
+They cover sections 3.2.6 to 3.2.13 of Topic 2 Programming in OxfordAQA International GCSE Computer Science 9210: data structures, input/output and files, string handling, random numbers, subroutines, robust and secure programming, and languages and translators.
+
+**What validation checks are given as examples in the 9210 specification?**
+The specification's examples of validation are minimum length, not empty, and number in range. Validation checks that input is reasonable before it is used.
+
+**Do you need to know how random numbers are generated for 9210?**
+No. You need to be able to use random numbers, for example for dice rolls or guessing games, but how pseudo-random numbers are produced is not required.
+
+**When should you use a compiler, an interpreter or an assembler?**
+An interpreter suits developing and testing, a compiler suits distributing a finished program, and an assembler is used to translate assembly language, with each line becoming one machine code instruction.
+
+**Why must a number be converted before concatenating it with a string?**
+Concatenation joins strings, so an integer must be converted to a string first. Concatenating a number with a string without converting it is a common exam trap.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Computer Science (9210) specification,

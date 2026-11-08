@@ -173,6 +173,23 @@ Edge 1: **Q₁ = 1, Q₂ = 0** [1]. Edge 2: **Q₁ = 0, Q₂ = 1** [1]. Edge 3: 
 - [Book a free trial class](/trial/)
 - [Printable topic checklist](/checklists/oxfordaqa/a-level/computer-science/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 computer organisation practice questions from past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs. Use them alongside official past papers from your board or school.
+
+**Is computer organisation and architecture AS or A-level content in 9645?**
+Topic 7, sections 3.7.1 to 3.7.7, is International AS content. The specification places it in Unit 2, Concepts and principles of computer science.
+
+**What are common mistakes in Fetch-Execute cycle questions?**
+Common errors include placing the address in the MBR or the instruction in the MAR, and leaving out which bus carries the address and which carries the instruction. Name each register and bus as you describe each step.
+
+**How do you calculate addressable memory from the width of the address bus?**
+An address bus with n lines gives 2ⁿ addressable locations, which you then multiply by the size of each location to get the total memory. Stopping at 2ⁿ without multiplying by the location size is a frequent way to lose marks.
+
+**What does an "evaluate" question on storage need?**
+It needs points on both sides for each storage option and a recommendation linked to the conditions in the scenario. A generic list of features of each storage type scores poorly.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. These questions draw on section 3.7, Computer organisation and architecture.

@@ -214,6 +214,23 @@ Efficiency is measured **time-wise** and **space-wise** (memory). A heuristic me
 
 Next: try the [practice questions](/resources/oxfordaqa-a-level-computer-science-theory-of-computation-practice/), then check gaps with the [free 10-minute diagnostics](/diagnostics/). Related: [searching and sorting revision notes](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms-revision-notes/) and [advanced data structures revision notes](/resources/oxfordaqa-a-level-computer-science-advanced-data-structures-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between * and + in a regular expression?**
+The * symbol means 0 or more repetitions and + means 1 or more repetitions. Using * where at least one repetition is required makes the expression accept strings that are too short.
+
+**Do you need to know Moore machines for OxfordAQA 9645?**
+No. Only Mealy machines, where each output is produced on a transition, are required for finite state machines with output.
+
+**What is a Universal Turing machine?**
+A Universal Turing machine is a Turing machine that can simulate any other Turing machine. The description of the machine to simulate and its input are stored on the UTM's tape.
+
+**What is the worst-case time complexity of searching a binary search tree?**
+The worst case is O(n), which happens when the tree is unbalanced. Quoting O(log n) for every binary search tree search ignores this worst case.
+
+**What is a heuristic?**
+A heuristic is a set of rules or knowledge about the problem domain. Applied to an intractable problem, a heuristic method may give an approximate but non-optimal solution, or change some of the problem constraints.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.13 Theory of computation.

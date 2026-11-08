@@ -185,6 +185,23 @@ De Morgan: NOT(A + B) = A̅⋅B̅ and NOT(A⋅B) = A̅ + B̅. Break the bar and 
 
 Shorten all this into recall cards using the [revision notes](/resources/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture-revision-notes/), and after that attempt the [practice questions](/resources/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture-practice/). Also useful: [exam preparation](/resources/oxfordaqa-a-level-computer-science-exam-preparation/) and the [computer systems guide](/resources/oxfordaqa-a-level-computer-science-computer-systems/).
 
+## Frequently asked questions
+
+**What is the difference between von Neumann and Harvard architecture?**
+Von Neumann architecture uses one memory and one set of buses for both instructions and data, which is simpler, cheaper and flexible. Harvard architecture uses separate memories and buses, so an instruction and data can be accessed at the same time; it is typical of embedded systems.
+
+**Why is the volatile environment saved when an interrupt occurs?**
+The interrupt service routine uses the same registers as the interrupted program. Saving the PC, status register, stack pointer and other registers the ISR may alter means the original program can resume correctly afterwards.
+
+**What factors affect processor performance in OxfordAQA A-level Computer Science?**
+Section 3.7.4 of the 9645 specification covers the number of cores, cache size, clock speed, word length, address bus width and data bus width. More cores only help if the software can split the work.
+
+**How does a solid-state drive differ from a magnetic hard disk?**
+A hard disk stores bits magnetically on spinning platters divided into tracks and sectors, read by a head on a moving arm. An SSD stores bits as charge trapped in NAND flash cells with no moving parts, so it is faster and more robust but costs more per gigabyte.
+
+**What does an edge-triggered D-type flip-flop do?**
+When the clock rises, it stores the current value of the D input and outputs it until the next rising edge. Changes to D between rising edges are ignored, so it holds one bit as a memory unit.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.7 Computer organisation and architecture.

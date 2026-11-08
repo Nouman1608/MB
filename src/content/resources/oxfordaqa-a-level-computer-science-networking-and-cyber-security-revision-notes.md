@@ -217,6 +217,23 @@ Test yourself with the [practice questions](/resources/oxfordaqa-a-level-compute
 - Saying a signature uses the receiver's keys.
 - Calling every piece of malware a virus.
 
+## Frequently asked questions
+
+**How do you calculate bit rate from baud rate?**
+Find the number of signal levels n; each signal change carries log₂(n) bits, so bit rate = baud rate × log₂(n). For example, 1,200 baud with 8 levels gives 3 bits per change and 3,600 bit/s.
+
+**What is the difference between CSMA/CD and CSMA/CA?**
+CSMA/CD controls a shared wired medium: a station transmits when the medium is idle, sends a jam signal if it detects a collision, and backs off for a random time. CSMA/CA is used on wireless networks, where a station cannot detect a collision while transmitting, so it waits for an acknowledgement and assumes a collision if none arrives.
+
+**What is the difference between POP3 and IMAP?**
+POP3 downloads email to one device, normally deleting it from the server. IMAP leaves email on the server, synchronised across devices.
+
+**What are the four layers of the TCP/IP stack?**
+The layers are application, transport, internet and link. The internet layer routes between networks using IP addresses, and the link layer delivers across the physical network using MAC addresses.
+
+**Which key is used to create a digital signature?**
+The sender hashes the message and encrypts the hash with the sender's own private key. The receiver decrypts it with the sender's public key and compares hashes, so saying a signature uses the receiver's keys is wrong.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.14 Networking and cyber security.

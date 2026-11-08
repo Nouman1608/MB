@@ -218,6 +218,23 @@ Called with `[40, 2, 7]`, x is 40 and xs is [2, 7] on the first call. The result
 - Using `++` with a bare element, such as `xs ++ 9`.
 - Giving the trace result but no working when the question asks you to show how it is evaluated.
 
+## Frequently asked questions
+
+**What is the difference between the domain and the co-domain of a function?**
+For a function f: A → B, the domain A is the set the input values are chosen from, and the co-domain B is the set the output values are chosen from. The co-domain is not just the outputs actually produced; describing it that way loses marks.
+
+**What makes a function higher-order in Haskell?**
+A function is higher-order if it takes a function as an argument, returns a function as its result, or both. Being recursive does not make a function higher-order.
+
+**What is the difference between foldl and foldr?**
+foldl combines a list from the left, starting with the initial value, and foldr works from the rightmost item backward. They give the same answer for + and *, but can give different answers for subtraction and division.
+
+**What is the difference between : and ++ in Haskell?**
+The : operator puts one element on the front of a list, as in 5:[2]. The ++ operator joins two lists, so a single item must be written in brackets, as in xs ++ [9].
+
+**What is a common mistake when writing a recursive function in Haskell?**
+Leaving brackets out of the recursive call, such as writing fact n - 1 instead of fact (n - 1), is a common error. Another is placing the recursive case above the base case, so the base case never matches.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. These notes cover section 3.12 Functional programming (3.12.1 to 3.12.3).
