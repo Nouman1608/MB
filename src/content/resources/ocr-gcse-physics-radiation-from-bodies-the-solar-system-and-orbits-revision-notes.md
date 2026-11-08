@@ -224,6 +224,23 @@ Useful relation from speed = distance / time: orbital speed = 2πr / T.
 - Describing a satellite's orbit as a straight line because "speed is constant". Constant speed in a circle still means a changing velocity.
 - Treating the Sun as a planet. It is a star, and the planets orbit it.
 
+## Frequently asked questions
+
+**Do cool objects emit radiation?**
+Yes. Every body emits electromagnetic radiation at every temperature, over a continuous range of wavelengths. People emit infrared all the time, even though they give out no visible light.
+
+**What is the order of the planets from the Sun?**
+Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. The Sun is a star, not a planet, and the planets orbit it.
+
+**What is the difference between a geostationary and a polar orbit?**
+A geostationary satellite stays fixed above one point on the equator, orbiting once in 24 hours in step with Earth's spin. A polar satellite passes over the poles and can cover the whole surface.
+
+**Why does a heated metal rod glow red before white?**
+At a lower temperature the strongest emission is in the infrared, with only a little red light. As the temperature rises the distribution moves to shorter wavelengths, adding more of the other visible colours until the glow looks white.
+
+**Which parts of this topic are Higher tier only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), circular orbits (P8.3f and P8.3g) and the radiation balance (P8.3h) are Higher tier only. Emitted radiation (P8.3d) and the solar system (P8.3e) are separate Physics only.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018, published by OCR.

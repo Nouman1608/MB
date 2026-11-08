@@ -234,6 +234,23 @@ What does travel is the **disturbance**, which carries energy. This is why a wav
 - Using the distance to the wall instead of twice that distance in an echo calculation.
 - Writing that the water or air "travels with the wave". Say that it vibrates about a fixed position.
 
+## Frequently asked questions
+
+**What does a wave transfer?**
+A wave transfers energy from one place to another. Each part of the medium vibrates about a fixed rest position while the wave passes; the medium itself does not travel with the wave.
+
+**How do you calculate wave speed?**
+Wave speed = frequency × wavelength (v = fλ), with frequency in Hz, wavelength in m and speed in m/s. For example, 120 Hz and a wavelength of 2.8 m give 336 m/s.
+
+**How do you measure the speed of ripples in a ripple tank?**
+Use a dipper at a known frequency, measure the length of several wavelengths on the screen and divide by the number of waves to get one wavelength. Then multiply the frequency by the wavelength.
+
+**What is the difference between transverse and longitudinal waves?**
+In a transverse wave the vibration is at right angles to the direction of travel, as in water ripples. In a longitudinal wave the vibration is along the direction of travel, as in sound in air.
+
+**Why are ripples used as a model for other waves?**
+Ripples let you see a wave: the water surface moves up and down while the ripples travel outwards. Sound cannot be seen, so ripples help to model wave behaviour.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)*. Specification Version 5.0, July 2026; first assessment 2018. Topic P5.1 Wave behaviour, statements P5.1a to P5.1e, P5.1j and P5.1k.

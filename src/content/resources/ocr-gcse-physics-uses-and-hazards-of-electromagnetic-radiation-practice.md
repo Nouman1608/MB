@@ -145,6 +145,23 @@ Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A electromagnetic radiation questions cover?**
+They cover statements P5.2g to P5.2j of OCR GCSE (9-1) Physics A (J249): practical uses of each wave group, hazards of ultraviolet, X-rays and gamma rays, detecting hidden structures and radio waves in circuits. The last two statements are Higher tier only.
+
+**Why do answers that say "radiation" or "rays" lose marks?**
+The question usually needs the name of a specific wave group, such as microwaves or infrared. A general word cannot be matched to the job, so name the group and give the property that makes it suitable.
+
+**How should I describe the hazards of X-rays and gamma rays?**
+Mention damage to cells or DNA and the risk of cancer. Writing that they "burn" you, with no reference to cell damage, does not earn the mark.
+
+**What mistakes are common in ultrasound echo calculations?**
+Using the there-and-back distance as the depth instead of halving it, and leaving the time in microseconds instead of converting to seconds. Remember that ultrasound is a sound wave, not an electromagnetic wave.
+
+**How do I describe what bone does to X-rays?**
+Say that bone absorbs more X-rays than soft tissue does. Saying bones "stop" or "block" X-rays completely is not accepted.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0, July 2026, first assessment 2018. Section P5.2 The electromagnetic spectrum, statements P5.2g to P5.2j.

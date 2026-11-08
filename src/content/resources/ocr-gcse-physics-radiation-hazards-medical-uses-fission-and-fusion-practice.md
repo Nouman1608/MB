@@ -173,6 +173,23 @@ These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specificat
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A radiation hazards questions cover?**
+They cover topic P6.2 Uses and hazards of OCR GCSE (9-1) Physics A (J249): contamination and irradiation, hazards linked to half-life, medical tracers and radiotherapy, nuclear fission and nuclear fusion.
+
+**How should I write about the danger of alpha radiation?**
+Separate a source outside the body from one inside it. Saying alpha is always harmless, or always dangerous, without that distinction does not earn the marks.
+
+**Is a source with a long half-life safer?**
+Not simply. Answers that treat a long half-life as safer, or a short half-life as always harmless, lose marks; compare how high the activity is with how long the hazard lasts.
+
+**What do examiners look for in a fission answer?**
+Include the neutron that is absorbed to start fission and the neutrons released that can continue a chain reaction. Describing fission as joining, or fusion as splitting, is a common error.
+
+**How do I show that a nuclear equation conserves nucleon number and charge?**
+Write the total before and the total after for both the top and bottom numbers. A bare "it balances" without both totals does not show the check.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018, topic P6.2 Uses and hazards.

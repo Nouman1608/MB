@@ -203,6 +203,23 @@ Explain, using the idea of an electric field, why a spark jumps from a charged d
 
 Next: condense this with the [revision notes](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-practice/) and the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why does an object become positively charged?**
+It loses electrons. Protons are fixed inside nuclei, so an object becomes positive because it has lost electrons, not because it has gained positive charge.
+
+**How does a gold leaf electroscope detect charge?**
+When a negatively charged rod is brought near the metal cap, electrons in the metal are repelled down to the metal rod and the gold leaf. Both gain extra negative charge and repel each other, so the leaf lifts.
+
+**Does the force between charged objects depend on distance?**
+Yes. The closer two charged objects are, the stronger the force between them, so a hanging charged rod swings further when another charged rod is moved closer.
+
+**Which way do electric field lines point?**
+The arrow on a field line shows the direction of the force on a small positive charge. Lines point away from a positive charge and towards a negative one, and the force on an electron is opposite to the arrow.
+
+**Why does a spark jump from a Van de Graaff dome?**
+Charge builds up on the dome, so the electric field between the dome and a nearby earthed sphere gets stronger. When the field is strong enough, the air in the gap can no longer insulate, and charge is pulled across the gap as a spark.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018, published by OCR. This guide covers learning outcomes P3.1a to P3.1d.

@@ -142,6 +142,23 @@ Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A work and power questions cover?**
+They cover statements P2.2m, P2.2n and P2.2o of OCR GCSE (9-1) Physics A (J249): work done by a force and the energy transfer involved, stored energy, and power as the rate of doing work.
+
+**What unit mistakes are common in work done questions?**
+Giving the answer in N, N m or W when J is needed, and not converting kJ to J before substituting. Check that your final unit matches the quantity asked for.
+
+**What should I do if a question gives a mass instead of a force?**
+Multiply the mass by g to get the weight in newtons before using it as a force. Using the mass in kg as a force is a common error.
+
+**Which distance do I use when something is lifted along a slope?**
+For gravitational potential energy use the vertical height, and for work done by a force use the distance moved along the line of action of that force. Mixing the two up loses marks.
+
+**How should I explain where the energy goes?**
+Name the store the energy is transferred to, such as the thermal stores of the surroundings when work is done against friction. Writing that energy is "lost" or "used up" does not earn the mark.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0, July 2026, first assessment in 2018. Statements P2.2m, P2.2n and P2.2o.

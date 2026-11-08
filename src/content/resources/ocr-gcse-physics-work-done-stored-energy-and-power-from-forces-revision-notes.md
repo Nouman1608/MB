@@ -219,6 +219,23 @@ Keep the wording tied to the situation, for example "the work done is the same b
 - Forgetting that distance must be along the line of action.
 - Writing too few significant figures too early and carrying a rounded value into a later step.
 
+## Frequently asked questions
+
+**What is a joule?**
+One joule is the work done when a force of 1 N moves an object 1 m along the line of action of the force. So 1 N m = 1 J.
+
+**When does a force do no work?**
+A force does no work if there is no movement, or if the movement is at right angles to the force. A force holding a load up while it moves sideways does no work on it.
+
+**What is power?**
+Power is the rate of energy transfer, or the rate of doing work, measured in watts: power = work done ÷ time. It is not how strong a machine is.
+
+**Why does a faster climber have more power?**
+Two people climbing the same stairs do the same work, but the faster one does it in less time, so their rate of energy transfer is greater.
+
+**Which OCR GCSE Physics A statements do these notes cover?**
+They cover statements P2.2m, P2.2n and P2.2o of OCR GCSE (9-1) Physics A (J249): work done, stored energy and power from forces.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0, July 2026, first assessment in 2018. Statements P2.2m, P2.2n and P2.2o.

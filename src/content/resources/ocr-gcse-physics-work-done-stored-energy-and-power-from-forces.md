@@ -255,6 +255,23 @@ Power is not the same as energy. Energy is the amount transferred (J). Power is 
 
 Test yourself on this unit with the [practice questions](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces-practice/), then keep the [revision notes](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces-revision-notes/) open while you revise. For exam technique across the course, see the [OCR GCSE Physics exam preparation page](/resources/ocr-gcse-physics-exam-preparation/).
 
+## Frequently asked questions
+
+**How do you calculate work done?**
+Work done (J) = force (N) × distance moved along the line of action of the force (m). For example, a steady 85 N push that moves a trolley 6.4 m does 544 J of work.
+
+**Is work done the same as energy transferred?**
+Yes. If a force does 100 J of work, 100 J of energy has been transferred by that force.
+
+**How do you calculate gravitational potential energy?**
+Gravitational potential energy (J) = mass (kg) × gravitational field strength (N/kg) × height (m), or E = mgh. Use the vertical height, not the length of a slope.
+
+**What is the difference between power and energy?**
+Energy is the amount transferred, in joules. Power is how fast it is transferred, in watts, so a high-power device can still transfer a small amount of energy if it runs for a very short time.
+
+**What happens to the energy when work is done against friction?**
+It is transferred to the thermal stores of the surroundings and the surfaces. Saying the energy is "lost" or "used up" loses marks.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0, July 2026, first assessment in 2018. Statements P2.2m, P2.2n and P2.2o.

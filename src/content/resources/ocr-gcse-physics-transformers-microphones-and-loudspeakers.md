@@ -241,6 +241,23 @@ The tap moves the cone and the coil attached to it. The coil moves through the m
 
 Practise with the [practice questions](/resources/ocr-gcse-physics-transformers-microphones-and-loudspeakers-practice/), then condense with the [revision notes](/resources/ocr-gcse-physics-transformers-microphones-and-loudspeakers-revision-notes/). Tick the statements off on the [checklist](/checklists/ocr/gcse/physics/), or book a [free trial class](/trial/).
 
+## Frequently asked questions
+
+**How does a transformer work?**
+An alternating current in the primary coil produces a changing magnetic field in the iron core. The changing field passes through the secondary coil and induces an alternating potential difference across it.
+
+**Why is a transformer core made of iron?**
+Iron is easily magnetised, so it carries the magnetic field from the primary coil to the secondary coil.
+
+**How does a loudspeaker produce sound?**
+An alternating current from an amplifier flows in the coil, which sits in the field of a permanent magnet, so a force acts on it. The force changes with the current, so the coil and cone vibrate and push on the air, making a sound wave.
+
+**Can a loudspeaker work as a microphone?**
+Yes. Moving the cone moves the attached coil through the magnet's field, so a potential difference is induced across its ends. The movement of the cone is then the input, not a current.
+
+**Does current flow through the core of a transformer?**
+No. There is no flow of charge from one coil to the other. The link between the coils is the changing magnetic field in the core.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), specification Version 5.0 (July 2026), first assessment 2018, published by OCR. This page covers statements P4.2g to P4.2j.

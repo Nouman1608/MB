@@ -223,6 +223,23 @@ A decay equation has the parent nucleus on the left and the products on the righ
 
 Next: condense this with the [revision notes](/resources/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations-practice/) and the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is in the nucleus of an atom?**
+The nucleus contains protons and neutrons, together called nucleons. It is positive because protons are positive and neutrons are neutral, and electrons are arranged around it.
+
+**What is an alpha particle?**
+An alpha particle is two protons and two neutrons, the same as a helium nucleus. Emitting one lowers the mass number by 4 and the atomic number by 2.
+
+**Are carbon-14 and nitrogen-14 isotopes?**
+No. Isotopes must be the same element with the same number of protons. Carbon-14 and nitrogen-14 share a mass number but have different atomic numbers, so they are different elements.
+
+**Does gamma emission change the element?**
+No. Gamma emission changes neither the mass number nor the atomic number, so the element stays the same.
+
+**Where does the electron in beta decay come from?**
+It comes from the nucleus, made when a neutron changes into a proton. It does not come from the electron shells around the nucleus.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018, published by OCR. This guide covers learning outcomes P6.1a to P6.1g.

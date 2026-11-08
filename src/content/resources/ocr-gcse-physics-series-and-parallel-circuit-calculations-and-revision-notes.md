@@ -210,6 +210,23 @@ A 3.0 kW oven runs for 90 minutes (1.5 h). E = 3.0 × 1.5 = 4.5 kW h. In joules 
 - Rounding too early in a multi-step problem.
 - Mixing up P = V × I and P = I² × R by squaring the wrong quantity.
 
+## Frequently asked questions
+
+**Why does adding resistors in parallel reduce the net resistance?**
+Each new branch is a new path, and the supply p.d. is across every branch. The supply current is the sum of the branch currents, so for the same p.d. the supply current goes up and the net resistance goes down.
+
+**What is the difference between power and energy?**
+Power is a rate, the energy transferred per second, measured in watts (1 W = 1 J/s). Energy is an amount, measured in joules or kilowatt-hours.
+
+**When do I use P = I² × R instead of P = V × I?**
+Use P = I² × R when you know the current and the resistance but not the p.d. Square only the current, and make sure you do not mix up the two equations.
+
+**How do you find a missing resistor in a series circuit?**
+Find the equivalent resistance of the whole circuit from the supply p.d. and current, then subtract the known resistances.
+
+**Where do the ammeter and voltmeter go in a measurement circuit?**
+The ammeter goes in series, so the current passes through it. The voltmeter goes in parallel, across the component, because p.d. is measured across it.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment in 2018, published by OCR. Learning outcomes P3.2i to P3.2m.

@@ -174,6 +174,23 @@ The specification suggests a model power line to show the energy losses at lower
 - Saying a transformer "creates" power, or that the output power is higher than the input power.
 - Using the wrong tier language: if a question is Higher Tier only, it needs the link between turns, potential difference and power, not just a recall of what each transformer does.
 
+## Frequently asked questions
+
+**What is the national grid?**
+The national grid is the network of cables and transformers linking power stations to users. Power goes from the power station through a step-up transformer, along high-p.d. transmission lines, then through a step-down transformer to homes.
+
+**Where are step-down transformers used?**
+Near towns, streets and homes, to lower the potential difference for local use.
+
+**Does a transformer increase power?**
+No. A transformer changes the potential difference, trading it for current, but the output power cannot be higher than the input power.
+
+**What does "400 kV" on a power line actually mean?**
+It is the potential difference between the line and the ground. The potential difference along the cable is only I × R, which is small.
+
+**Are transformer calculations Higher tier in OCR GCSE Physics A?**
+Yes. In OCR GCSE (9-1) Physics A (J249), statement P8.2f on turns, power and the advantages of high voltage is Higher tier only.
+
 ## Official syllabus
 
 These notes are aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018, published by OCR.

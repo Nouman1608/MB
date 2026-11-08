@@ -136,6 +136,23 @@ These questions are aligned to the OCR GCSE (9-1) Gateway Science Physics A (J24
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is the motor effect Higher tier in OCR GCSE Physics A?**
+Yes. Statements P4.2a to P4.2d of OCR GCSE (9-1) Physics A (J249), on the motor effect, Fleming's left-hand rule, F = BIl and motors, are Higher tier only, so Foundation papers do not test them.
+
+**What are the most common mistakes with Fleming's left-hand rule?**
+Using the right hand, mixing up the first and second fingers, and using electron flow instead of conventional current. Current in the rule runs from positive to negative.
+
+**What units should I use in F = BIl?**
+Use force in newtons, flux density in tesla, current in amperes and length in metres. Convert centimetres to metres and milliamps to amps first, and do not write T as the unit of a force.
+
+**How do I earn full marks on a direction question?**
+Show the reasoning, such as which way each finger points, rather than giving the direction alone. State that the force is at right angles to both the field and the current.
+
+**What must an explanation of a motor include?**
+Explain that opposite forces on the two sides of the coil turn it, and why the current must reverse every half turn to keep it turning the same way. Leaving out the reversal is a common way to lose marks.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment 2018, published by OCR, topic P4.2 Uses of magnetism, statements P4.2a to P4.2d.

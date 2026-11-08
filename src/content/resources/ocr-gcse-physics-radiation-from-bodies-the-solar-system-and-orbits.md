@@ -217,6 +217,23 @@ Worked reasoning: suppose that, out of every 100 units of Sun's energy reaching 
 - Describing the greenhouse effect as the atmosphere "trapping heat" with no mention of absorbed infrared from the surface.
 - Saying a geostationary satellite is not moving. It orbits once in 24 hours, in step with Earth's spin.
 
+## Frequently asked questions
+
+**Why is a satellite in a circular orbit accelerating?**
+Its direction keeps changing, so its velocity changes even though its speed is constant. The resultant force causing this is gravity, acting towards the centre of the orbit at right angles to the motion.
+
+**Do satellites in lower orbits move faster?**
+Yes. Gravity is stronger closer to the planet, so a higher speed is needed for a stable orbit at a smaller radius. A satellite in a higher orbit is slower and takes longer to complete one orbit.
+
+**What happens if a satellite in a stable orbit speeds up?**
+It cannot stay at the same radius, so its orbit radius changes and it moves into a higher orbit. A satellite that slows down moves into a lower orbit.
+
+**What decides a body's temperature?**
+The balance between the radiation it absorbs and the radiation it emits. If it absorbs more than it emits it warms up, and if it emits more than it absorbs it cools down.
+
+**Does a hotter object emit only shorter wavelengths?**
+No. It emits a continuous range of wavelengths, but the strongest emission moves to a shorter wavelength as the temperature rises.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018, published by OCR.

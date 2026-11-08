@@ -151,6 +151,23 @@ These questions cover OCR GCSE Physics A (Gateway Science, J249), specification 
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A static electricity questions cover?**
+They cover learning outcomes P3.1a to P3.1d of OCR GCSE (9-1) Physics A (J249): charge, making static electricity, explaining static by electron transfer, and electric fields, which are separate Physics only.
+
+**Which particles move when an object is charged by rubbing?**
+Only electrons are transferred. Saying protons or positive charges moved is a common way to lose marks; a positive object has lost electrons.
+
+**What should a full explanation of charging by rubbing include?**
+Say the materials are insulators, that electrons move from one to the other, which object gains and which loses electrons, and that the two objects end with equal and opposite charges.
+
+**What mistakes are common when drawing electric field lines?**
+Leaving off arrows, letting lines cross, and pointing arrows the wrong way for the sign of the charge. Draw lines closer together where the field is stronger.
+
+**How do I explain why a charged balloon sticks to a neutral wall?**
+Describe the charges in the wall's surface shifting slightly, while the wall's net charge stays zero. Calling the wall itself charged loses the mark.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018, published by OCR. These questions cover learning outcomes P3.1a to P3.1d.

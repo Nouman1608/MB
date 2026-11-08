@@ -304,6 +304,23 @@ Ordinary coloured objects scatter their colour. A glossy surface also gives a sp
 
 Work through the [practice questions](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour-practice/), then use the [revision notes](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour-revision-notes/) to fix the gaps.
 
+## Frequently asked questions
+
+**What is the law of reflection?**
+The angle of incidence equals the angle of reflection, with each angle measured from the normal.
+
+**Which way does light bend when it enters glass?**
+Light slows down when it enters glass from air, so a ray at an angle bends towards the normal. When it leaves glass and speeds up again, it bends away from the normal.
+
+**Does the frequency of light change during refraction?**
+No. The frequency is fixed by the source. Only the speed and the wavelength change when light crosses into a new substance.
+
+**How are lenses used to correct short and long sight?**
+Short sight focuses distant objects in front of the retina, so a concave lens spreads the rays first. Long sight focuses near objects behind the retina, so a convex lens converges the rays first, and in both cases the image then forms on the retina.
+
+**What is the difference between specular reflection and scattering?**
+Specular reflection happens at a smooth surface such as a mirror, where parallel rays stay parallel and form an image. Scattering happens at a rough surface, where rays leave in many directions, which is why you can read a page from any angle.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018. Topic P5.3 Wave interactions.
