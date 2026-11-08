@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Condensed recall notes on standard electrode potentials, cell e.m.f., feasibility and electrolysis for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -216,3 +218,17 @@ mass of Cu = 0.0400 x 63.5 = 2.54 g
 7. According to the Nernst equation, what happens to E if the concentration of the oxidised species increases?
 
 **Answers:** 1. 0.00 V, by definition — it is the arbitrary reference against which all other electrode potentials are measured. 2. Zinc is the anode (more negative, oxidised); electrons flow externally from zinc to copper. 3. +0.34 − (−0.76) = +1.10 V. 4. ΔG = −nFE_cell; a positive E_cell gives a negative ΔG, so the reaction is thermodynamically feasible. 5. In electrolysis an external supply pushes electrons onto the cathode to drive reduction; in a galvanic cell reduction draws electrons in, making the cathode the positive terminal. Reduction occurs at the cathode in both cases. 6. Q = It = 7720 C; moles of electrons = 7720 ÷ 96500 = 0.0800 mol; moles of Cu = 0.0800 ÷ 2 = 0.0400 mol; mass = 0.0400 × 63.5 = 2.54 g. 7. E becomes more positive, since increasing the concentration of the oxidised species shifts the half-equilibrium towards reduction, consistent with Le Chatelier's principle.
+
+## Frequently asked questions
+
+**Is the cathode positive or negative?**
+It depends on the cell. In electrolysis the cathode is negative because the power supply pushes electrons onto it; in a galvanic cell the cathode is the positive terminal. Reduction always happens at the cathode in both.
+
+**How do you test whether a specified redox reaction is feasible using E⦵ values?**
+Calculate E_cell = E(species reduced) − E(species oxidised) for the reaction as written. A positive value means it is feasible; a negative value, such as −0.59 V for Fe³⁺ oxidising Cl⁻, means it is not.
+
+**What does the Nernst equation show for Cambridge 9701 Chemistry?**
+The Nernst equation, E = E⦵ + (0.059/z) log([oxidised]/[reduced]), shows that electrode potential depends on ion concentration. Increasing the concentration of the oxidised species makes E more positive.
+
+**When is chlorine produced instead of oxygen at the anode?**
+Chlorine is discharged from aqueous chloride solutions only at high concentration, so concentrated NaCl gives Cl₂. Very dilute NaCl gives oxygen, because chloride (+1.36 V) is slightly harder to oxidise than water (+1.23 V).

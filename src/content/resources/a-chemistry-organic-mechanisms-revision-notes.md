@@ -26,7 +26,9 @@ syllabusTopics:
 description: "Condensed recall notes on the four reaction mechanisms, curly-arrow rules and benzene delocalisation for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -219,3 +221,16 @@ Every one proceeds by the same three-step pattern: generate the electrophile, at
   <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the evidence that benzene has a delocalised structure?**
+All C–C bonds in benzene are the same length, 139 pm, between a single and a double bond. Its enthalpy of hydrogenation is about 152 kJ mol⁻¹ less exothermic than three times that of cyclohexene, and it does not decolourise bromine water without a catalyst.
+
+**What is the difference between SN1 and SN2 mechanisms?**
+SN2 is one concerted step through a five-coordinate transition state, typical of primary halogenoalkanes, with a rate depending on both reactants. SN1 has two steps via a carbocation, typical of tertiary halogenoalkanes, with a rate depending on the halogenoalkane only.
+
+**What is an addition-elimination mechanism?**
+A nucleophile first adds to a carbon to form a tetrahedral intermediate, which then eliminates a leaving group to restore the double bond. The overall change looks like substitution even though it passes through an addition intermediate.
+
+**Which functional groups are new at Cambridge A Level Chemistry?**
+Seven groups appear for the first time at A Level in 9701: arenes, halogenoarenes, phenols, acyl chlorides, amides, amino acids, and secondary and tertiary amines.

@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Condensed recall notes on functional group interconversions, reagents and conditions, and planning multi-step routes for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -172,3 +174,16 @@ Choosing NaBH₄ when a nitrile must be reduced is a common error.
   <figcaption>The solvent decides substitution or elimination.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you plan a multi-step organic synthesis route?**
+Work backwards from the target: ask which single reaction could make its functional group, then treat that starting material as the new target until you reach the given compound. At each step check whether the carbon skeleton changes, what the oxidation level is, and whether the conditions would destroy a group already present.
+
+**Which reducing agent reduces a nitrile to an amine?**
+Use LiAlH₄ in dry ether, or H₂ with a nickel catalyst. NaBH₄ only reduces aldehydes and ketones, so it cannot reduce nitriles, carboxylic acids or esters.
+
+**How do you convert a halogenoalkane into a carboxylic acid with one extra carbon?**
+Heat the halogenoalkane under reflux with KCN in ethanol to form a nitrile, then heat the nitrile under reflux with dilute HCl(aq) to hydrolyse it to the carboxylic acid.
+
+**Why should you name the by-product in each step of a synthesis route?**
+Many steps release a small molecule such as H₂O, HCl or NH₄Cl, and naming it is often a separate mark from naming the reaction type. For example, benzoyl chloride and excess ammonia give benzamide and NH₄Cl.

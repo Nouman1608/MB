@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electrochemistry"
     subtopic: "a-standard-electrode-potentials-cell-potentials-and-the-nernst-equation"
-description: "Quantitative electrolysis, standard electrode and cell potentials, predicting feasibility, and the Nernst equation, for Cambridge International AS & A Level Chemistry 9701."
+description: "Quantitative electrolysis, the standard hydrogen electrode, cell potentials, feasibility and the Nernst equation, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -326,6 +328,23 @@ electrode, since it's the source of electrons the cell itself generates.
   feasible reaction; negative = not feasible as written
 - Nernst equation: E = E° + (0.059/z) log([ox]/[red])
 - ΔG = −nE°<sub>cell</sub>F links electrode potential to Gibbs free energy
+
+## Frequently asked questions
+
+**What is the standard hydrogen electrode?**
+It is the reference electrode, assigned E° = 0.00 V. Hydrogen gas at 101 kPa is bubbled over a platinised platinum electrode in 1 mol dm⁻³ H⁺(aq) at 298 K.
+
+**Why is a platinum electrode used for a Fe³⁺/Fe²⁺ half-cell?**
+When both species in the half-cell are ions in solution, there is no metal to act as the electrode. Inert platinum makes electrical contact without taking part in the reaction.
+
+**How do you use the Nernst equation for a Cu²⁺/Cu half-cell?**
+Use E = E° + (0.059/z) log[Cu²⁺], with z = 2; solid copper does not appear in the expression. Diluting Cu²⁺ to 0.0100 mol dm⁻³ lowers E from +0.34 V to +0.281 V.
+
+**How can the Avogadro constant be found by electrolysis?**
+Pass a measured charge through a cell and measure the mass or volume of product. Using the half-equation to find the moles of electrons, F = Le with a known electron charge e gives the Avogadro constant L.
+
+**How is ΔG linked to the standard cell potential?**
+ΔG = −nE°cellF, where n is the number of electrons transferred in the overall reaction. A positive E°cell always corresponds to a negative ΔG, meaning the reaction is feasible.
 
 ## Related resources
 

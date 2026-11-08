@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nitrogen-compounds"
     subtopic: "a-amino-acids"
-description: "Original exam-style practice questions with full worked answers on amides, zwitterions, isoelectric point and dipeptide/tripeptide formation and hydrolysis for A Level Chemistry."
+description: "Practice questions with worked answers on amides, zwitterions, isoelectric points, electrophoresis and peptide bonds, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -129,3 +131,17 @@ first place. When a question in this topic asks "explain why," the
 zwitterion is very often the correct starting point for the answer.
 For the full structure and behaviour of amino acids, peptides and
 amides, see the [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-amino-acids-revision-notes/).
+
+## Frequently asked questions
+
+**Why do amino acids have high melting points?**
+Amino acids exist as zwitterions, so there are strong ionic attractions between neighbouring molecules in the solid. These need much more energy to overcome than ordinary intermolecular forces.
+
+**Where are marks usually lost on amides and amino acids questions?**
+Common errors include saying amides are basic like amines, forgetting glycine is not chiral, and sending an ion to the wrong electrode at a given pH. Answers about solubility or melting point should also link back to the zwitterion.
+
+**Do I need protein secondary and tertiary structure for Cambridge 9701?**
+No. For Cambridge 9701 Chemistry, amino acid chemistry stops at di- and tripeptides; α-helices, β-pleated sheets and disulfide bridges are background only.
+
+**What does an acyl chloride form with an amine rather than ammonia?**
+An acyl chloride and ammonia give a primary amide, but with a primary amine the product is an N-substituted amide. For example, ethanoyl chloride and methylamine give N-methylethanamide.

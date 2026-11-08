@@ -20,10 +20,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-polymerisation"
     subtopic: "a-degradable-polymers"
-description: "Forming polyesters and polyamides, deducing repeat units and monomers, predicting polymerisation type, and why some polymers biodegrade and others don't, for Cambridge International AS & A Level Chemistry 9701."
+description: "Polyesters and polyamides, deducing repeat units and monomers, predicting polymerisation type, and polymer degradability, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -201,6 +203,23 @@ naming the specific mechanism expects the matching type of degradation.
 - Some polymers photodegrade (UV-triggered bond breaking)
 - Polyesters/polyamides biodegrade by acidic/alkaline hydrolysis of the
   ester/amide linkage in the backbone
+
+## Frequently asked questions
+
+**What is the difference between addition and condensation polymerisation?**
+In addition polymerisation, monomers join across a broken C=C double bond with no other product. In condensation polymerisation, each new linkage forms between two functional groups with the loss of a small molecule, usually H₂O or HCl.
+
+**Which small molecule is lost when a polyester forms from a dioyl chloride?**
+A dioyl chloride (–COCl) loses HCl at each ester linkage, whereas a free dicarboxylic acid (–COOH) loses H₂O. Check which monomer is given before deciding.
+
+**Why are poly(alkenes) hard to biodegrade?**
+Their backbone is a long chain of strong, non-polar C–C and C–H bonds that enzymes cannot recognise or break. Poly(ethene) and poly(propene) can therefore persist in the environment for a very long time.
+
+**How are polyesters and polyamides broken down?**
+Their ester and amide linkages are hydrolysed under acidic or alkaline conditions, just like the same groups in small molecules. This breaks the chain back down into its monomers or something close to them.
+
+**What is the most common mistake when drawing a condensation repeat unit?**
+Joining the monomers end to end without removing the small molecule lost at each linkage. Always check that the repeat unit's formula accounts for the H₂O or HCl removed.
 
 ## Related resources
 

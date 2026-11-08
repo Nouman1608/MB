@@ -26,7 +26,9 @@ syllabusTopics:
 description: "Condensed recall notes on Born-Haber cycles, entropy change and the Gibbs equation for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -209,3 +211,16 @@ Those four rows answer most Gibbs questions on sight.
   <figcaption>ΔG = ΔH − TΔS gives a straight line whose intercept is ΔH and gradient is −ΔS; it crosses zero at T = ΔH/ΔS = 1079 K.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What must a lattice energy definition include to get full marks?**
+It must say one mole of the ionic compound is formed from its gaseous ions. "One mole" and "gaseous" are the two details that carry marks in the Cambridge 9701 definitions.
+
+**What multipliers do you need in a Born-Haber cycle?**
+Use twice the atomisation enthalpy when two atoms of an element are needed, as for Cl₂ in MgCl₂. A 2+ ion such as Mg²⁺ needs both the first and second ionisation energies.
+
+**How do you predict the sign of an entropy change?**
+Count the moles of gas. More moles of gas produced gives a positive ΔS, fewer gives a negative ΔS, and changes from solid to liquid to gas are positive.
+
+**When is a reaction with positive ΔH and positive ΔS feasible?**
+Only at high temperature, when TΔS becomes larger than ΔH so that ΔG = ΔH − TΔS is negative. The changeover temperature is T = ΔH/ΔS.

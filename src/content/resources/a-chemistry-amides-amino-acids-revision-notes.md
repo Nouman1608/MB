@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nitrogen-compounds"
     subtopic: "a-amino-acids"
-description: "Condensed recall notes on amides, amino acids, zwitterions, isoelectric point, and dipeptide/tripeptide formation and hydrolysis for Cambridge A Level Chemistry 9701."
+description: "Revision notes on amides, hydrolysis, why amides are not basic, zwitterions, isoelectric point, electrophoresis and peptides, for Cambridge 9701 Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -140,3 +142,16 @@ The **peptide bond** `–CONH–` forms by condensation between the amine group 
   <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why are amides not basic even though they contain nitrogen?**
+The nitrogen lone pair in an amide is delocalised into the adjacent C=O group, so it is not available to accept a proton. The delocalisation also stabilises the neutral amide, adding an energetic cost to protonating it.
+
+**Why is glycine not chiral?**
+Glycine's R group is a hydrogen atom, so its central carbon is not bonded to four different groups. All other naturally occurring amino acids are chiral.
+
+**How do you hydrolyse a dipeptide or tripeptide back to amino acids?**
+Heat it under reflux with aqueous acid, such as dilute or concentrated hydrochloric acid. This breaks each peptide bond and releases the free amino acids.
+
+**Which electrode does an amino acid move to at high pH?**
+At high pH an amino acid exists as the anion H₂NCHRCOO⁻ and moves to the anode. At low pH it is the cation H₃N⁺CHRCOOH and moves to the cathode.

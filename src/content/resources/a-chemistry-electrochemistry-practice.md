@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on electrode potentials, cell e.m.f. and electrolysis for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -168,3 +170,20 @@ m = 0.01243 × 27.0 = **0.336 g** [1].
 - Not dividing by the number of electrons when calculating mass deposited.
 - Applying standard E⦵ values to a non-standard concentration without adjusting via the Nernst equation.
 - Assuming the halide-vs-hydroxide anode rule also applies to sulfate, which is never discharged in preference to hydroxide.
+
+## Frequently asked questions
+
+**How do you calculate the e.m.f. of an electrochemical cell for Cambridge 9701?**
+Subtract the electrode potential of the more negative half-cell from that of the more positive one: E_cell = E(positive) − E(negative). For a Zn²⁺/Zn and Ag⁺/Ag cell this gives +0.80 − (−0.76) = +1.56 V.
+
+**Why might a reaction with a positive E_cell not happen?**
+A positive E_cell (negative ΔG) only shows the reaction is thermodynamically feasible. It may not be observed if the activation energy is high, so the rate is negligible, or if conditions are not standard.
+
+**How do you calculate the mass of metal deposited in electrolysis?**
+Find the charge with Q = It (time in seconds), convert to moles of electrons by dividing by F = 96 500 C mol⁻¹, then divide by the number of electrons in the half-equation. Forgetting to divide by that number, such as 3 for Al³⁺, is a common error.
+
+**Why is oxygen produced at the anode when sulfate solutions are electrolysed?**
+Sulfate ions are never discharged in preference to hydroxide ions or water in aqueous electrolysis. With inert electrodes, oxygen is released at the anode instead.
+
+**Where are marks usually lost on electrochemistry questions?**
+Common errors include subtracting electrode potentials the wrong way round, treating feasible as meaning the reaction will be observed, using the wrong number of electrons in ΔG = −nFE_cell, and forgetting to convert hours to seconds.

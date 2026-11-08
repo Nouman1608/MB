@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-group-2"
     subtopic: "a-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds"
-description: "Condensed recall notes on the thermal stability of Group 2 nitrates and carbonates, and the solubility and enthalpy change of solution of Group 2 hydroxides and sulfates, for Cambridge A Level Chemistry 9701 (2025-2027)."
+description: "Revision notes on Group 2 thermal stability of nitrates and carbonates, and solubility of hydroxides and sulfates using energy cycles, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -221,6 +223,23 @@ size of the anion.
    exothermic, but by less. So ΔHsol becomes more exothermic (less endothermic) down the group and
    solubility increases.
 10. Magnesium sulfate; barium hydroxide.
+
+## Frequently asked questions
+
+**Why does thermal stability of Group 2 carbonates increase down the group?**
+Down the group the 2+ cation gets larger, so its charge density and polarising power fall. It distorts the large carbonate ion less, so the C–O bonds are weakened less and a higher temperature is needed to decompose it.
+
+**Why does the solubility of Group 2 sulfates decrease down the group?**
+The sulfate ion is large, so a bigger cation changes the lattice energy only a little, while the cation's hydration enthalpy becomes much less exothermic. ΔHsol therefore becomes less exothermic and solubility decreases.
+
+**Why does the solubility of Group 2 hydroxides increase down the group?**
+OH⁻ is small, so a larger cation greatly increases the distance between ions and the lattice energy falls faster than the hydration enthalpy. ΔHsol becomes more exothermic, so solubility increases from Mg(OH)₂ to Ba(OH)₂.
+
+**What is the equation for the thermal decomposition of a Group 2 nitrate?**
+2M(NO₃)₂(s) → 2MO(s) + 4NO₂(g) + O₂(g), for example with magnesium or barium nitrate. Brown NO₂ gas is seen and the oxygen relights a glowing splint.
+
+**Should I use polarisation or energy cycles to explain Group 2 trends?**
+Use polarisation of the anion for thermal stability and the energy cycle (lattice energy against hydration enthalpy) for solubility. Mixing the two explanations up is a common trap.
 
 *These are original notes written for revision. The trends are given qualitatively, as the syllabus
 requires, and no data values are quoted. Check the full syllabus wording in the

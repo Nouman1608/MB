@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-group-2"
     subtopic: "a-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds"
-description: "Original exam-style practice questions with full worked answers on the thermal stability and solubility trends of Group 2 compounds for Cambridge A Level Chemistry 9701."
+description: "Practice questions with answers on Group 2 thermal stability, polarising power and hydroxide and sulfate solubility, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 featured: false
@@ -92,3 +94,17 @@ Related: [Group 2: Thermal Stability and Solubility Trends study guide](/resourc
 - Stating that hydroxide and sulfate solubility both increase (or both decrease) down the group, rather than recognising they move in opposite directions.
 - Explaining a solubility trend by quoting only one of lattice energy or hydration enthalpy, rather than comparing which one changes faster.
 - Forgetting that it is the *anion's* size (small for OH⁻, large for SO₄²⁻) that determines which energy term dominates the trend.
+
+## Frequently asked questions
+
+**How does ionic radius affect the polarising power of a Group 2 cation?**
+A smaller cation has the same 2+ charge in a smaller volume, giving a higher charge density. Its stronger local electric field distorts a neighbouring anion's electron cloud more, so Mg²⁺ is the most polarising and Ba²⁺ the least.
+
+**Can lattice energy be used to explain the thermal stability of Group 2 carbonates?**
+No. Lattice energy and hydration enthalpy explain the solubility of hydroxides and sulfates; thermal stability of nitrates and carbonates is explained by the cation's polarising power on the large anion. Mixing the two arguments loses marks.
+
+**Is it enough to say lattice energy falls down Group 2 to predict solubility?**
+No. Solubility depends on whether lattice energy or cation hydration enthalpy falls faster, which depends on the anion's size. The same lattice-energy trend gives rising solubility for hydroxides and falling solubility for sulfates.
+
+**Where are marks usually lost on Group 2 trends questions in Cambridge 9701?**
+Common errors include using the wrong argument for each trend, saying hydroxide and sulfate solubility move in the same direction, and quoting only one of lattice energy or hydration enthalpy instead of comparing which changes faster.

@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on organic synthesis routes, reagents and conditions for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -130,3 +132,20 @@ dilute acid, converts it all the way to a **–COOH group** regardless of its or
 length, which is a distinct reaction from the aliphatic alcohol
 oxidation ladder covered earlier. For the full reagent table and
 worked routes, see the [Multi-Step Synthesis Routes revision notes](/resources/a-chemistry-synthesis-routes-revision-notes/).
+
+## Frequently asked questions
+
+**How do you add one carbon atom to a carbon chain in Cambridge 9701 Chemistry?**
+React a halogenoalkane with KCN in ethanol to form a nitrile, or add HCN to an aldehyde or ketone. The nitrile can then be hydrolysed to a carboxylic acid or reduced to an amine.
+
+**What is the difference between distilling and refluxing when oxidising a primary alcohol?**
+Warming with acidified K₂Cr₂O₇ and distilling off the product immediately gives the aldehyde. Heating under reflux keeps the aldehyde in the mixture so it is oxidised further to the carboxylic acid.
+
+**Why does NaOH give different products with a halogenoalkane in water and in ethanol?**
+In aqueous NaOH, OH⁻ acts mainly as a nucleophile, giving an alcohol by substitution. In ethanolic NaOH it acts mainly as a base, giving an alkene by elimination of HBr.
+
+**Why must the temperature be kept between 25 °C and 60 °C when nitrating benzene?**
+Above about 60 °C a second nitro group is introduced, giving dinitrobenzene and reducing the yield of nitrobenzene. Keeping within the range stops the reaction at one substitution.
+
+**Where are marks usually lost on synthesis route questions?**
+Common errors include writing "oxidise" without both reagent and conditions, refluxing when distillation is needed, using aqueous instead of ethanolic KCN, using NaBH₄ on a nitrile or carboxylic acid, and routes that gain or lose carbons without a reaction to account for it.

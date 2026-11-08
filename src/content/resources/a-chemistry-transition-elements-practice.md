@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on transition elements, complex ions and colour for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -160,3 +162,20 @@ Related: [Transition Elements revision notes](/resources/a-chemistry-transition-
 - Explaining the chelate effect by enthalpy rather than entropy.
 - Assuming all four-coordinate complexes are tetrahedral — small ligands on certain ions (notably Ni²⁺ and Pt²⁺ with CN⁻) give square planar geometry instead.
 - Predicting ligand exchange from a single fixed "ligand strength" order without regard to concentration. Displacement is governed by which complex has the larger stability constant (Kstab) under the conditions used — concentrated Cl⁻ displacing water to form `[CuCl₄]²⁻` is a mass-action effect from very high chloride concentration, not evidence that Cl⁻ is intrinsically a stronger ligand than water or ammonia.
+
+## Frequently asked questions
+
+**What is the definition of a transition element for Cambridge 9701 Chemistry?**
+A transition element is a d-block element that forms one or more stable ions with a partially filled d subshell. Both parts of the wording carry marks; "an element in the d block" alone is not enough.
+
+**What is the electron configuration of Fe²⁺?**
+Fe²⁺ is 1s²2s²2p⁶3s²3p⁶3d⁶. The 4s electrons are lost before the 3d electrons, so writing 3d⁴4s² is a common wrong answer.
+
+**What forms when excess ammonia is added to copper(II) sulfate solution?**
+The pale blue [Cu(H₂O)₆]²⁺ ion becomes deep blue [Cu(NH₃)₄(H₂O)₂]²⁺ by ligand exchange. Only four of the six water ligands are replaced, so writing [Cu(NH₃)₆]²⁺ is an error.
+
+**Are all four-coordinate complexes tetrahedral?**
+No. Some d⁸ ions, notably Ni²⁺ with CN⁻ and Pt²⁺ as in cisplatin, form square planar complexes. [CuCl₄]²⁻ and [CoCl₄]²⁻ are tetrahedral.
+
+**Why does the reaction between manganate(VII) and ethanedioate speed up as it goes on?**
+It is autocatalysed by the Mn²⁺ ions it produces. Because transition elements have variable oxidation states, Mn²⁺ can be oxidised and reduced in turn, providing a route with lower activation energy.
