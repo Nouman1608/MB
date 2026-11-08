@@ -181,10 +181,10 @@ writing; it is submitted annotated in your folder.
 
 ## Syllabus coverage
 
-AQA AS and A-level English Language (7701/7702) specification, A-level subject content 4.3 Language in
-action (topic 3.3 on this site): 4.3.1 Language Investigation, 4.3.2 Original writing, 4.3.3 Methods of
-language analysis; 5.2 assessment objectives; 5.4 non-exam assessment marking criteria; 6 NEA
-administration.
+AQA AS and A-level English Language (7701/7702) specification, A-level subject content 3.3 Language in
+action: 3.3.1 Language Investigation, 3.3.2 Original writing, 3.3.3 Methods of language analysis
+(numbered 4.3.1 to 4.3.3 in the combined AS and A-level specification PDF, Version 1.2); 5.2 assessment
+objectives, 5.4 non-exam assessment marking criteria and 6 NEA administration (PDF section numbers).
 
 ## Self-test
 

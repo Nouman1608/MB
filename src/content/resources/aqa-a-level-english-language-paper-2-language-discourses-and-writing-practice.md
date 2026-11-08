@@ -170,5 +170,8 @@ exact format.
 ## Official syllabus
 
 AQA AS and A-level English Language (7701/7702) specification, Version 1.2 (14 October 2021), A-level subject content
-4.2.2 Methods of language analysis, 4.2.3 Language discourses and 4.2.4 Writing skills, assessed in Paper 2 Section B
+3.2.2 Methods of language analysis, 3.2.3 Language discourses and 3.2.4 Writing skills, assessed in Paper 2 Section B
 (and the academic essay skills in Section A).
+
+**Section numbers.** This site follows the A-level (7702) subject content on aqa.org.uk, where Paper 2 content is 3.2 and the NEA is 3.3. The combined AS and A-level specification PDF (Version 1.2, 14 October 2021) puts the AS content in section 3, so the same A-level sections are numbered 4.1, 4.2 and 4.3 there.
+
