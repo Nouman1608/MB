@@ -136,6 +136,20 @@ Evaluate the corporate governance of Yarrowfield Foods plc and recommend changes
 - Find your weak spots: [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on ethics questions in OxfordAQA 9615?**
+Common losses are defining a principle without quoting the fact in the scenario that breaches it, writing a threat category without the principle it endangers, and ending an evaluate answer without a judgement.
+
+**Should I do the calculation in an ethics scenario?**
+Yes. When figures are given, show the formula, the working and any favourable or adverse label, so the ethical point has a scale. Leaving out the calculation loses marks.
+
+**What order should actions follow when wrongdoing is suspected?**
+Use internal routes and professional advice before going outside the organisation. Recommending going to the media or a regulator first is a common mistake.
+
+**Which section of the specification do these questions cover?**
+Section 3.2.10 The impact of ethical considerations of OxfordAQA International AS and A-level Accounting 9615, with questions running from short recall to a 12-mark evaluation.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.2.10, The impact of ethical considerations.

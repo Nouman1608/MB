@@ -250,6 +250,23 @@ outstanding lodgement 380. Bank statement balance = −640 + 1,150 − 380 = 130
 - Adjusting profit for an error that affects only an asset or liability, such as a misposted receipt.
 - Redrafting a statement of financial position without checking that net assets agree with capital.
 
+## Frequently asked questions
+
+**What are the four verification techniques in OxfordAQA 9615?**
+The specification lists exactly four: the trial balance, bank reconciliation statements, trade receivables ledger control accounts and trade payables ledger control accounts.
+
+**What is the difference between an error of omission and a partial omission?**
+An error of omission records nothing, so the trial balance does not reveal it. A partial omission records only one side, so the trial balance does reveal it.
+
+**Is a transposition error always revealed by the trial balance?**
+No. A transposition made in a book of prime entry is used for both sides, so it becomes an error of original entry and is not revealed. A transposition on one side only is revealed.
+
+**How is a dishonoured cheque treated in a bank reconciliation?**
+A dishonoured cheque is a real event, so the cash book is updated for it. An unpresented cheque, by contrast, is a timing item shown in the reconciliation statement.
+
+**How is a contra entry recorded in the control accounts?**
+Debit the trade payables ledger control account and credit the trade receivables ledger control account.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International

@@ -211,6 +211,20 @@ Revenue [1]; cost of sales [1]; gross profit [1]; rent 4,400 and provision decre
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on double entry model questions?**
+Common losses are calculating cash discount on the list price instead of on the invoice value after trade discount, bringing an overdraft down on the wrong side of the cash book, and charging the full provision for doubtful debts to the income statement.
+
+**What mistakes are common with reducing balance depreciation?**
+Using cost instead of the carrying amount for the second and later years. The rate is applied to the carrying amount at the start of each year.
+
+**How should I set out a statement of financial position in OxfordAQA 9615?**
+Use the subheadings the specification names and put each item under the correct one. Missing subheadings, or putting income received in advance under current assets, lose marks.
+
+**Which section of the 9615 specification do these questions cover?**
+Section 3.1.3 The double entry model, which is International AS content running from source documents and books of prime entry to financial statements prepared from a trial balance.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.1.3 The double entry model.

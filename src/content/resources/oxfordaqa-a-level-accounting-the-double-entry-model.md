@@ -282,6 +282,23 @@ Net assets equal equity, so the statement balances.
 
 Condense this with the [revision notes](/resources/oxfordaqa-a-level-accounting-the-double-entry-model-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-accounting-the-double-entry-model-practice/). Exam technique is in the [OxfordAQA A-level Accounting exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/).
 
+## Frequently asked questions
+
+**What does the general journal record?**
+The general journal records items with no other book of prime entry: irrecoverable debts, contra entries, disposals, depreciation, corrections and opening entries.
+
+**What is a three column cash book?**
+A cash book with discount, cash and bank columns on each side. Discounts allowed go in the debit-side discount column and discounts received in the credit-side one; these columns are memorandum totals, posted at the period end to the discounts allowed and discounts received accounts.
+
+**What is a contra entry?**
+When a business both owes and is owed money by the same firm, the smaller amount is set off: debit the firm's payables ledger account and credit its receivables ledger account, leaving one net balance.
+
+**How is cost of sales calculated?**
+Cost of sales = opening inventory + purchases − purchases returns − closing inventory.
+
+**Where do drawings go in the financial statements?**
+Drawings are deducted from equity in the statement of financial position. They are never an expense in the income statement.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.1.3 The double entry model.

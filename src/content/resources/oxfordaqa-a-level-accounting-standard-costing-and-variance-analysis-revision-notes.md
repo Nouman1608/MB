@@ -226,6 +226,23 @@ overheads goes in as one separate line.
 - Not checking that the reconciliation ends on the independently calculated actual profit.
 - In evaluation, judging each variance alone and missing the overall effect on profit.
 
+## Frequently asked questions
+
+**How do you flex a standard to actual output?**
+Multiply actual output by the standard quantity or standard hours per unit to get the standard quantity for actual output. Flexing with budgeted output instead is a common mistake.
+
+**How do you label a variance as favourable or adverse?**
+A variance that makes profit higher than the standard predicted is favourable (F) and one that makes it lower is adverse (A). Always write F or A; a negative number with no label loses marks.
+
+**How are variances linked to each other?**
+The two parts add up to the total, so price plus usage gives the total materials variance and rate plus efficiency the total labour variance. One cause can also create several variances, such as cheaper material leading to more waste.
+
+**Are adverse variances added or deducted in a reconciliation?**
+In a cost reconciliation adverse variances are added because they raise cost. In a profit reconciliation they are deducted because they reduce profit.
+
+**What is the purpose of standard costing?**
+Planning and control. Targets are set in advance and actual results are measured against them, so differences can be traced to the manager responsible.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

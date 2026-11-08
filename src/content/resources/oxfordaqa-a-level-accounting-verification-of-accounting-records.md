@@ -343,6 +343,23 @@ Agreement shows the arithmetic is consistent. It does not prove the records are 
 - Changing profit for an error that touches no income or expense account, such as a
   commission error between two customers.
 
+## Frequently asked questions
+
+**Which errors go through the suspense account?**
+Only errors that caused the trial balance to disagree go through suspense. Errors not revealed by the trial balance, such as errors of principle and commission, are corrected by journal entries without suspense.
+
+**Which side does the suspense account open on?**
+It takes the side that makes the trial balance agree. If debits exceed credits, suspense opens with a credit for the difference.
+
+**What is left out of a trade receivables ledger control account?**
+Cash sales and the provision for doubtful debts are excluded from the control account. Including either of them is a common error.
+
+**Which cash book balance goes in the statement of financial position after a bank reconciliation?**
+The updated cash book balance, after correcting it for items on the bank statement not yet recorded, goes in the statement of financial position, not the bank statement figure.
+
+**Does an error between two customers' accounts change profit?**
+No. An error of commission between two customers' accounts touches no income or expense account, so profit is unchanged.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International
