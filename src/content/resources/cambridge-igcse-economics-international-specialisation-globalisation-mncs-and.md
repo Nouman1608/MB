@@ -249,6 +249,20 @@ Free trade does not help everyone equally. Workers in industries that lose out m
 - Describing globalisation only as trade. Capital, labour, technology and information flows count too.
 - Giving benefits of free trade for consumers only. Name producers and the economy as well.
 
+## Frequently asked questions
+
+**Which parts of the Cambridge IGCSE Economics 0455 syllabus does this guide cover?**
+It covers sections 6.1.1 and 6.1.2 (specialisation at a national level) and 6.2.1 to 6.2.3 (globalisation, multinational companies and the benefits of free trade). Methods, reasons and consequences of protection are in a separate unit.
+
+**Why do countries specialise?**
+The syllabus gives two broad reasons: superior resource allocation, because land, labour, capital and enterprise are not spread evenly, and cheaper production methods through better technology, cheaper labour or large-scale production.
+
+**What is globalisation?**
+Globalisation is the growing integration and interdependence of the world's economies, as trade, capital flows, the movement of labour, technology and information link countries more closely. It is more than trade alone.
+
+**What are the costs of an MNC to a host country?**
+Costs can include profits and payments for imported parts leaving the country and pressure on local firms that cannot compete. How much the host gains depends on how much the MNC buys locally, how it pays and trains workers and how long it stays.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International), section 6.1 and sections 6.2.1 to 6.2.3.

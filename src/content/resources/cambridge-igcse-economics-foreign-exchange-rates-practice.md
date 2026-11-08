@@ -149,6 +149,20 @@ Setting for most questions: Country T uses the tarn and Country V uses the vesk.
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**When do you multiply and when do you divide in a currency conversion?**
+To go from the currency whose price is quoted into the other currency, multiply by the rate; to convert back, divide. Mixing up the two directions is the most common calculation error.
+
+**Is a 20% appreciation of one currency a 20% depreciation of the other?**
+No. The percentage changes in the two directions differ, so a 20% rise in one currency is a smaller fall in the other. Always say which currency the percentage refers to.
+
+**Why must a PED question on exchange rates reach spending?**
+Spending is price multiplied by quantity, so the effect on spending on exports or imports depends on whether the quantity change is larger or smaller than the price change. Stopping at the quantity change leaves the answer incomplete.
+
+**How do you evaluate floating and fixed exchange rates in Cambridge IGCSE Economics 0455?**
+Give advantages and disadvantages of both systems and say what the answer depends on, such as the size of the economy, its pattern of trade and whether it holds enough reserves to defend a fixed rate.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment, section 6.3 Foreign exchange rates (6.3.1 to 6.3.5).

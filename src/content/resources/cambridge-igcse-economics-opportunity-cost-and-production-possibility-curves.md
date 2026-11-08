@@ -259,6 +259,20 @@ A flood destroys a quarter of Country A's farmland. Maximum rice falls from 100 
 - Describing a movement along a PPC as growth.
 - Confusing a shift of one axis with a shift of the whole curve.
 
+## Frequently asked questions
+
+**What do sections 1.3 and 1.4 of Cambridge IGCSE Economics 0455 cover?**
+They cover opportunity cost and how it influences the decisions of consumers, workers, producers and governments (1.3), and production possibility curve diagrams: points on, under and beyond the curve, movements along it and shifts (1.4).
+
+**What does a straight-line PPC show?**
+A straight-line PPC shows constant opportunity cost, which happens when resources are equally suited to producing both goods.
+
+**How does opportunity cost affect government decisions?**
+A government has a limited budget, so spending on one project, such as a road, means giving up others, such as clinics. This does not make the choice wrong, but the government should judge whether its benefit exceeds that of the best alternative.
+
+**Why is opportunity cost hard to measure?**
+Many benefits, such as cleaner air or leisure, are not measured in money, decision makers lack perfect information about alternatives, and different people value the same choice differently.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 1.3 Opportunity cost and 1.4 Production possibility curve (PPC) diagrams.

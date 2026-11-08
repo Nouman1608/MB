@@ -161,6 +161,20 @@ These questions cover section 2.11 (the mixed economic system and government int
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where must a maximum or minimum price be set to have an effect?**
+A maximum price must be set below the equilibrium price and a minimum price above it. A control on the wrong side of equilibrium has no effect.
+
+**How do you calculate a shortage or surplus under a price control?**
+A shortage is quantity demanded minus quantity supplied at the controlled price; a surplus is quantity supplied minus quantity demanded. Reporting the gap the wrong way round loses marks.
+
+**Which curve shifts when a tax or subsidy is introduced?**
+An indirect tax or a subsidy shifts the supply curve, because it changes producers' costs per unit. Moving the demand curve is a common error.
+
+**How do you calculate tax revenue or the cost of a subsidy in Cambridge IGCSE Economics 0455?**
+Multiply the tax or subsidy per unit by the new quantity sold after the change, not the original quantity, and include units.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, Cambridge University Press & Assessment (Cambridge International), version 2, section 2.11.

@@ -273,6 +273,20 @@ To break the cycle, a country needs investment, education, healthcare or lower p
 - Calling the optimum the largest population. It is the one with the highest output per head.
 - Listing causes of development gaps without the impact.
 
+## Frequently asked questions
+
+**What do sections 5.3 and 5.4 of Cambridge IGCSE Economics 0455 cover?**
+Section 5.3 covers population: the factors affecting growth, why rates differ between countries and the effects of changes in size and structure. Section 5.4 covers differences in economic development between countries.
+
+**What causes the birth rate to fall as a country develops?**
+The birth rate tends to fall as incomes rise, women stay in education and paid work, raising children becomes more expensive and families can rely on pensions rather than children.
+
+**What causes differences in development between countries?**
+Differences in income, productivity, population growth, the size of the primary, secondary and tertiary sectors, saving and investment, and education and healthcare all help explain why some countries are more developed than others.
+
+**What is the cycle of low income?**
+Low income limits saving and spending on schools and clinics, so skills and health stay poor and productivity stays low, which keeps income low. Breaking the cycle needs investment, education, healthcare or slower population growth.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, published by Cambridge International, sections 5.3 and 5.4.

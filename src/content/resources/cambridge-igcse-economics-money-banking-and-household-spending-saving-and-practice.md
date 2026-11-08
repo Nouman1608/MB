@@ -141,6 +141,20 @@ These questions cover sections 3.1.1, 3.1.2 and 3.2.1 of the Cambridge IGCSE Eco
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between the functions of a central bank and a commercial bank?**
+A central bank issues notes and coins, acts as banker to the government and commercial banks, is lender of last resort and carries out monetary policy. Commercial banks are profit-seeking firms that accept deposits, lend and provide payment services; mixing the two up loses marks.
+
+**Should you use gross or disposable income to calculate saving?**
+Use disposable income, which is income after tax and other deductions. Saving equals disposable income minus spending.
+
+**Do higher interest rates always reduce spending?**
+Not always. Higher rates usually encourage saving and discourage borrowing, but the effect depends on factors such as confidence and existing debts, so avoid claiming they always cut spending.
+
+**How do you explain the importance of banks in Cambridge IGCSE Economics 0455?**
+Refer to the specific group in the question, whether government, producers or consumers, and give a chain of reasoning. Answers that describe banks only in general terms, or give two reasons that are the same point reworded, earn less.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 3.1.1, 3.1.2 and 3.2.1.

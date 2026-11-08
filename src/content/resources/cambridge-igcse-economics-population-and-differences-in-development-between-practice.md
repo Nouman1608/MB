@@ -166,6 +166,20 @@ This set tests sections 5.3 and 5.4 of the Cambridge IGCSE Economics 0455 syllab
 - Take the [free 10-minute diagnostics](/diagnostics/) for other topics.
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate net migration?**
+Net migration is immigration minus emigration. Treating immigration alone as net migration, without subtracting emigration, is a common error.
+
+**What is the optimum population?**
+The optimum population is the size that gives the highest output per head, given a country's resources, technology and capital. It is not the population with the largest total output.
+
+**How should you describe a population pyramid?**
+Read the base, the middle and the top, and quote numbers from the table or diagram. A description with no figures earns fewer marks.
+
+**How do you avoid losing marks on birth and death rates in Cambridge IGCSE Economics 0455?**
+State rates per 1,000 people per year, or include the percentage sign where asked, and do not confuse a rate with a count of births or deaths.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, published by Cambridge International, sections 5.3 and 5.4.

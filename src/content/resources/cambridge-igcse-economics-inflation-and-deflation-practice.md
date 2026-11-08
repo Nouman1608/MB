@@ -135,6 +135,20 @@ These questions cover section 4.8, Inflation and deflation, of the Cambridge IGC
 - Try the [all free 10-minute diagnostics](/diagnostics/).
 - Want live help? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is a fall in the inflation rate the same as deflation?**
+No. If inflation falls from 6% to 3%, prices are still rising, only more slowly; this is disinflation. Deflation needs the price level itself to fall, which shows up as a negative inflation rate.
+
+**How do you calculate the rate of inflation from the CPI?**
+Take the change in the CPI, divide it by the old CPI and multiply by 100. If the result is negative, say in words that it means deflation.
+
+**How do you calculate a weighted CPI?**
+Multiply each group's index by its weight, add the results and divide by the total of the weights. Forgetting to divide by the total of the weights is a common error.
+
+**How do you answer a policy question on inflation in Cambridge IGCSE Economics 0455?**
+Explain how the policy reaches prices, step by step, and base your judgement on the cause in the case. For example, higher interest rates suit demand-pull inflation better than cost-push inflation.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics syllabus for examination in 2026, section 4.8, published by Cambridge University Press & Assessment.

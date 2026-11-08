@@ -164,6 +164,20 @@ Judgement: the balance depends on how much is bought locally, the pay and traini
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you work out which country should specialise in which good?**
+Calculate each country's opportunity cost of each good by dividing what is given up by what is gained. The country that gives up less of the other good should specialise in it; reversing the ratio is a common error.
+
+**What is the difference between the home country and the host country of an MNC?**
+The home country is where a multinational company has its headquarters. A host country is any other country where it operates, so profits sent home are a cost to the host and a benefit to the home country.
+
+**Why do MNCs not bring all their revenue into the host economy?**
+Part of an MNC's revenue leaves the host economy as payments for imported inputs and as profits sent back to the home country. Only wages, local purchases, taxes and retained profit stay in the host country.
+
+**How should you answer a discuss question on free trade in Cambridge IGCSE Economics 0455?**
+Weigh costs against benefits and say who gains and who loses, covering producers and the economy as well as consumers. Use the data in the question rather than only general points.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International), section 6.1 and sections 6.2.1 to 6.2.3.

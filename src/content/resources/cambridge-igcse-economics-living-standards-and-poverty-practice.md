@@ -172,6 +172,20 @@ This set tests sections 5.1 and 5.2 of the Cambridge IGCSE Economics 0455 syllab
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What words must a definition of real GDP per head include?**
+Include "real", meaning adjusted for price changes, and "per head", meaning divided by the population. Leaving out either word, or using nominal GDP in a question about real values, loses marks.
+
+**What are the three parts of the Human Development Index?**
+The HDI combines health (life expectancy at birth), education (years of schooling) and income per head. Describing the HDI without naming its three parts is a frequent error.
+
+**How do you define a progressive tax correctly?**
+A progressive tax takes a higher proportion of income as income rises. Defining it by the amount paid is wrong, because a flat-rate tax also makes richer people pay more money.
+
+**How do you get evaluation marks on poverty policies in Cambridge IGCSE Economics 0455?**
+Give a reasoned judgement with a stated condition rather than "it depends", and add a limit, cost or time lag for each policy. Show the formula or line before substituting numbers in calculations.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education): sections 5.1 and 5.2.

@@ -155,6 +155,20 @@ This set tests sections 2.1 and 2.2 of the Cambridge IGCSE Economics 0455 syllab
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate revenue at a disequilibrium price?**
+Multiply the price by the smaller of quantity demanded and quantity supplied, because that is the quantity actually traded. Nobody can be forced to buy or sell, so using the larger quantity overstates revenue.
+
+**What happens to price when there is a surplus?**
+A surplus means sellers offer more than buyers want, so unsold stock builds up and sellers cut the price. Saying a surplus raises the price is a common error.
+
+**How do you answer a question on the difference between micro and macro?**
+Describe both terms and say what each studies, not just their size. Microeconomics studies single households, workers, firms and markets, while macroeconomics studies the economy as a whole using totals and averages.
+
+**How do you answer a discuss question on the price mechanism in Cambridge IGCSE Economics 0455?**
+Explain each function of the price mechanism, cover strengths and limitations, and give a conclusion. Remember that the market answers "for whom" by ability and willingness to pay, not by need.
+
 ## Official syllabus
 
 The Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education), sections 2.1 and 2.2.

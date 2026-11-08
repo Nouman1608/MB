@@ -239,6 +239,20 @@ In a recession output falls, so the economy moves from a point on the PPC to a p
 - Saying supply-side policy works quickly.
 - Calling a rise in GDP per head an equal gain for everyone.
 
+## Frequently asked questions
+
+**What does this part of the Cambridge IGCSE Economics 0455 syllabus cover?**
+It covers section 4.5 on supply-side policy and sections 4.6.1 to 4.6.3 on the definition and measurement of economic growth and on recession.
+
+**What is economic growth?**
+Economic growth is an increase in an economy's output of goods and services over time, normally measured as the percentage change in real GDP. It is not the same as development or higher living standards for everyone.
+
+**What are the drawbacks of privatisation?**
+A private monopoly may raise prices, new owners may close unprofitable but socially useful services, and the sale brings only one-off revenue rather than a lasting source of income for the government.
+
+**What causes a recession?**
+Causes include falling consumer spending or confidence, lower investment, weaker export demand, higher interest rates or tight credit, cuts in government spending and a sudden rise in the price of a key input such as energy.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 4.5 Supply-side policy and 4.6 Economic growth (4.6.1 to 4.6.3).

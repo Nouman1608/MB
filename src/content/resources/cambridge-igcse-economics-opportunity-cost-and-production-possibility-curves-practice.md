@@ -177,6 +177,20 @@ It now produces 40 capital goods and 170 consumer goods. The government plans to
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 - [Book a free trial class](/trial/) if you want help from a teacher.
 
+## Frequently asked questions
+
+**Is opportunity cost the same as the price paid?**
+No. Opportunity cost is the benefit of the next best alternative given up, not the money price. Listing every rejected option as the opportunity cost is also wrong; only the next best counts.
+
+**What should you include in the cost of studying full-time?**
+Include the earnings forgone while studying as well as fees. Leaving out earnings forgone is a common way to lose marks.
+
+**What do points inside and beyond a PPC mean?**
+A point inside the curve means resources are unemployed or poorly used, so it is not efficient. A point beyond the curve cannot be reached with current resources and technology.
+
+**How do you show economic growth on a PPC in Cambridge IGCSE Economics 0455?**
+Draw the new curve outside the old one, label both goods and state units. A movement along the curve is a change in the mix of output, not growth.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 1.3 Opportunity cost and 1.4 Production possibility curve (PPC) diagrams.

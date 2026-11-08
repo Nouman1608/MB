@@ -244,6 +244,20 @@ Low income → low saving → low investment → low productivity → low income
 - Writing an evaluation that only repeats the points made earlier, with no judgement or condition.
 - Calling a fast-growing GDP a rise in living standards when population grew just as fast.
 
+## Frequently asked questions
+
+**What factors affect population growth?**
+Population changes through natural change (births minus deaths) and net migration (immigration minus emigration). Total change is natural change plus net migration.
+
+**Why can a rich country have a higher death rate than a poor country?**
+The death rate depends on age structure. A rich country with many elderly people can have a higher death rate than a poorer country with a very young population, even with better healthcare.
+
+**What are the effects of an ageing population?**
+An ageing population raises pension and healthcare costs, leaves fewer taxpayers per pensioner, can cause labour shortages and increases demand for care services. Governments may raise the retirement age or use immigration to fill jobs.
+
+**Does a fast-growing GDP always mean rising living standards?**
+No. If the population grows almost as fast as GDP, income per head barely changes. Compare GDP growth with population growth before judging living standards.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, published by Cambridge International, sections 5.3 and 5.4.

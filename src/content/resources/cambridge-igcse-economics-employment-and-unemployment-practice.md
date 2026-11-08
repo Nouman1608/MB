@@ -136,6 +136,20 @@ These questions cover section 4.7 of the Cambridge IGCSE Economics (0455) syllab
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate the unemployment rate?**
+Divide the number unemployed by the labour force (the employed plus the unemployed) and multiply by 100. Dividing by employment or by the whole population is a common error.
+
+**What is the difference between a percentage and a percentage point change in unemployment?**
+A fall in the unemployment rate from 6% to 5% is a fall of one percentage point, but a fall of about 17% in the rate itself. Mixing the two up loses marks.
+
+**Why might the claimant count and the labour force survey give different figures?**
+The claimant count only includes people claiming unemployment benefit, so it misses people who are not entitled or do not claim. The labour force survey asks a sample of households, so it includes them but depends on sample size and honest answers.
+
+**How do you choose a policy for an unemployment question in Cambridge IGCSE Economics 0455?**
+Identify the type of unemployment in the scenario first, then match the policy to its cause, such as more total demand for cyclical unemployment or training for structural unemployment. Offering one policy for every type, or ending without a judgement, loses marks.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics (0455) syllabus for examination in 2026, version 2, Cambridge University Press & Assessment (Cambridge International), section 4.7.

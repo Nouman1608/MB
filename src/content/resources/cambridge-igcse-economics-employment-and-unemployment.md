@@ -233,6 +233,20 @@ A good evaluation concludes which policy suits the dominant type of unemployment
 - Offering a stimulus for structural unemployment without explaining why skills would match vacancies.
 - Listing consequences without saying who they affect.
 
+## Frequently asked questions
+
+**What does section 4.7 of Cambridge IGCSE Economics cover?**
+Section 4.7 of the Cambridge IGCSE Economics 0455 syllabus covers the definitions of employment, unemployment and full employment, changing patterns of employment, measurement, the three types of unemployment, their consequences and policies to reduce them.
+
+**Who is not counted as unemployed?**
+Full-time students, retired people and those who choose not to look for work, such as full-time carers, are outside the labour force, so they are never counted as unemployed.
+
+**Can unemployment rise while employment also rises?**
+Yes. If the labour force grows faster than the number of jobs, more people are looking for work than find it, so unemployment can rise even as employment increases.
+
+**Does unemployment have any benefits for firms?**
+A large pool of available labour makes hiring easier and can hold down wage demands. Against that, lower consumer spending cuts sales and profits.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics (0455) syllabus for examination in 2026, version 2, Cambridge University Press & Assessment (Cambridge International), section 4.7.

@@ -162,6 +162,20 @@ Family and community ties: workers with children in school or relatives nearby a
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does a zero price prove that a good is free?**
+No. A free good is one that uses no resources to obtain. A good handed out at no charge, such as food from a charity, still used resources, so it remains an economic good.
+
+**Is money a factor of production?**
+No. Money is not capital; it is used to buy factors of production. Capital means goods made to help produce other goods, such as machines and buildings.
+
+**What is the difference between geographical and occupational mobility?**
+Geographical mobility is how easily a factor can move from one place to another. Occupational mobility is how easily it can change from one job or use to another.
+
+**What mistakes cost marks on factors of production in Cambridge IGCSE Economics 0455?**
+Common errors include giving the wrong reward for a factor, forgetting that profit is what remains after all other factors are paid, confusing quantity with quality, and listing influences on mobility without explaining their effect.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 1.1 The nature of the economic problem and 1.2 The factors of production.

@@ -160,6 +160,20 @@ These questions cover sections 4.1 and 4.2 (the role of government, the macroeco
 - Try the free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a percentage change and a percentage point change?**
+A rise in a rate from 2% to 5% is a rise of 3 percentage points, but a 150% rise in the rate itself. Giving a percentage change when the question asks for percentage points loses marks.
+
+**How do you calculate the unemployment rate for a macroeconomic aims question?**
+Divide the number unemployed by the labour force, which is the employed plus the unemployed, and multiply by 100. Dividing by the number employed is a common error.
+
+**How do you explain a conflict between macroeconomic aims?**
+Give a chain of cause and effect rather than an assertion. For example, higher demand reduces unemployment, but near full capacity firms cannot raise output enough, so prices rise and the stable prices aim is harder to meet.
+
+**How do you end a discuss question on macroeconomic aims in Cambridge IGCSE Economics 0455?**
+Give a reasoned judgement, such as saying which effect matters more and why, for example because of how much spare capacity there is or how large the import share is.
+
 ## Official syllabus
 
 This page is aligned to the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 (version 2), published by Cambridge University Press & Assessment (Cambridge International), sections 4.1.1, 4.2.1 and 4.2.2.

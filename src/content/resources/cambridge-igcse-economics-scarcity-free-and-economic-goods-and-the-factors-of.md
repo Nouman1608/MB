@@ -209,6 +209,20 @@ The quantity of capital rose only because gross investment (60) exceeded depreci
 - Mixing up the quantity and quality of labour. More workers is quantity; better-trained workers is quality.
 - Describing mobility without saying which kind, or which factor.
 
+## Frequently asked questions
+
+**What do sections 1.1 and 1.2 of Cambridge IGCSE Economics 0455 cover?**
+They cover the nature of the economic problem, including economic and free goods (1.1), and the factors of production: their nature and rewards, their mobility and changes in their quantity and quality (1.2).
+
+**Is scarcity the same as poverty or a shortage?**
+No. Scarcity means resources are limited relative to wants, and it applies to rich countries and wealthy people as well as poor ones.
+
+**Can water be a free good?**
+It depends on where and how it is supplied. Water collected from a stream in a remote village, using no resources and depriving nobody, behaves like a free good, while piped water in a city uses reservoirs, pipes and workers, so it is an economic good.
+
+**Why might labour be immobile?**
+Workers may lack the skills for jobs elsewhere (occupational immobility) or be unable to afford housing and moving costs or unwilling to leave family (geographical immobility). Low mobility means vacancies and unemployment can exist together.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 1.1 The nature of the economic problem and 1.2 The factors of production.

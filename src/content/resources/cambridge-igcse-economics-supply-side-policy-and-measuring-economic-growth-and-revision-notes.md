@@ -230,6 +230,20 @@ Worked reminder: per head (Country C, invented). Real GDP rises from 1 200 to 1 
 - Giving a total GDP figure when asked for GDP per head.
 - Leaving out the evaluation: who gains, who loses and how long it takes.
 
+## Frequently asked questions
+
+**What is supply-side policy?**
+Supply-side policy is government action to raise the economy's productive capacity by making labour, capital and markets more productive and efficient. It is not mainly about boosting spending.
+
+**What are examples of supply-side measures?**
+Examples include education and training, labour market reforms, lower direct taxes, deregulation, improving incentives to work and invest, and privatisation.
+
+**What is a recession?**
+A recession is a period when real GDP falls. A common rule of thumb is a fall for two consecutive quarters, although the syllabus asks for the meaning rather than a fixed rule.
+
+**What are the limits of GDP per head as a measure?**
+GDP per head is an average that hides inequality, leaves out unpaid work and the informal sector, ignores pollution and leisure, and cannot show the quality of goods and services.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 4.5 Supply-side policy and 4.6 Economic growth (4.6.1 to 4.6.3).

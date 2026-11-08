@@ -233,6 +233,20 @@ Evaluation points: time lags; banks may not pass changes on; low confidence stop
 - Evaluating with a list of limits and no judgement about which matters most.
 - Describing monetary policy as a way to redistribute income without any qualification.
 
+## Frequently asked questions
+
+**What is fiscal policy?**
+Fiscal policy is the use of government spending and taxation to influence the economy and help achieve the government's macroeconomic aims. Expansionary fiscal policy lowers taxes or raises spending; contractionary fiscal policy does the opposite.
+
+**What is monetary policy?**
+Monetary policy is the use of interest rates, the money supply and the foreign exchange rate to influence the economy and help achieve macroeconomic aims. It is usually carried out by the central bank.
+
+**How does a cut in interest rates affect the economy?**
+Cheaper borrowing encourages households to spend and firms to invest, which can raise growth and employment. The risks are rising prices if spending outruns supply and a lower exchange rate that makes imports dearer.
+
+**Can monetary policy redistribute income?**
+It is a weak tool for redistribution. Lower interest rates help borrowers and hurt savers, and higher rates do the reverse, but fiscal tools such as progressive taxes and transfers redistribute income far more directly.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 4.3.7 to 4.3.9 and 4.4.1 to 4.4.3.

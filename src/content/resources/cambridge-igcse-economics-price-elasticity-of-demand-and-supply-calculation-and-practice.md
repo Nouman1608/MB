@@ -177,6 +177,20 @@ This set tests sections 2.7 and 2.8 of the Cambridge IGCSE Economics 0455 syllab
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the formula for price elasticity of demand?**
+PED is the percentage change in quantity demanded divided by the percentage change in price. Putting price on top is a common mistake, as is calculating a percentage from the new value instead of the starting value.
+
+**What should you write after calculating a PED figure?**
+State whether demand is elastic, inelastic or unitary. A figure on its own, without the word that answers the question, can lose marks.
+
+**Does a steep demand curve mean demand is inelastic everywhere?**
+Not on a straight line. A straight downward-sloping demand curve does not have one PED: demand is elastic near the top and inelastic near the bottom, so steepness is not the same as elasticity at every point.
+
+**How do you apply determinants of PED in Cambridge IGCSE Economics 0455?**
+Link each determinant to the good in the question. For example, a medicine with no close substitutes has inelastic demand because buyers cannot switch, rather than simply listing "substitutes" as a factor.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 2.7 Price elasticity of demand (PED) and 2.8 Price elasticity of supply (PES).
