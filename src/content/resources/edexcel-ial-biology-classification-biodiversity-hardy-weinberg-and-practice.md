@@ -170,6 +170,20 @@ Related: [study guide](/resources/edexcel-ial-biology-classification-biodiversit
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 4.14 to 4.21 of Pearson Edexcel International A Level Biology (YBI11): classification, biodiversity, Hardy–Weinberg and conservation.
+
+**How should you describe a trend in data?**
+Quote values from the data. Describing a trend without figures is a common way to lose marks.
+
+**How should you describe an adaptation?**
+Name the adaptation and give its benefit to the organism. An adaptation without its benefit does not earn full credit.
+
+**How should you answer an evaluation question on zoos and seed banks?**
+Give both strengths and limitations and reach a judgement. Giving only advantages is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited: Topic 4, statements 4.14 to 4.21.

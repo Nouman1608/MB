@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Study guide for Cambridge 9700 topic 14: negative feedback, the kidney and nephron, ADH, glucagon cell signalling, insulin, biosensors and guard cells."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 14, Homeostasis, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers section 14.1 Homeostasis in mammals (learning outcomes 1–11) and section 14.2 Homeostasis in plants (outcomes 1–4). Topic 14 is **A Level content**, not AS: it is examined on Paper 4 (A Level Structured Questions), which also expects AS knowledge, and it can supply the context for Paper 5 (Planning, Analysis and Evaluation).
@@ -290,6 +292,23 @@ When a plant is short of water, **abscisic acid (ABA)** is made and reaches the 
 
 - Condense this page with the [homeostasis revision notes](/resources/a-level-biology-9700-homeostasis-revision-notes/), then try the [practice set](/resources/a-level-biology-homeostasis-practice/).
 - Nerves, synapses and muscle continue in the [control and coordination study guide](/resources/a-level-biology-9700-control-and-coordination/).
+
+## Frequently asked questions
+
+**What is homeostasis?**
+Homeostasis is the maintenance of a constant internal environment within narrow limits, despite changes in internal and external conditions. Core temperature, blood glucose concentration and blood water potential are controlled variables.
+
+**How does ultrafiltration happen in the Bowman's capsule?**
+The afferent arteriole is wider than the efferent arteriole, giving high hydrostatic pressure in the glomerulus. Fluid is forced through the endothelium, the basement membrane (the filter) and the filtration slits of the podocytes.
+
+**What is negative feedback?**
+In negative feedback the response reverses the change, so the variable returns towards the set point. Control of blood glucose by insulin and glucagon is an example.
+
+**How does a glucose biosensor work?**
+Glucose oxidase is immobilised on an electrode. It catalyses the oxidation of glucose, which produces a small electric current proportional to the glucose concentration.
+
+**How do stomata open?**
+Proton pumps use ATP to pump H⁺ out of the guard cells, K⁺ channels open and potassium ions diffuse in, lowering the water potential. Water enters by osmosis, the guard cells become turgid and their uneven walls make the stoma open.
 
 ## Official syllabus
 

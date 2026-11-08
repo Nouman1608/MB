@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Study guide for Cambridge 9700 topic 15: action potentials, synapses, muscle contraction, the Venus fly trap, auxin and gibberellin, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 15, Control and coordination, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers section 15.1 Control and coordination in mammals (learning outcomes 1–12) and section 15.2 Control and coordination in plants (outcomes 1–3). Topic 15 is **A Level content**, examined on Paper 4 (A Level Structured Questions) alongside AS knowledge, and it can supply the context for Paper 5.
@@ -263,6 +265,23 @@ Each lobe of the modified leaf has **sensitive hairs**. When an insect bends a h
 
 - Condense this page with the [control and coordination revision notes](/resources/a-level-biology-9700-control-and-coordination-revision-notes/), then try the [practice set](/resources/a-level-biology-control-and-coordination-practice/).
 - Revise hormones in context with the [homeostasis revision notes](/resources/a-level-biology-9700-homeostasis-revision-notes/).
+
+## Frequently asked questions
+
+**How is the resting potential maintained?**
+Na⁺–K⁺ pumps use ATP to move 3 Na⁺ out for every 2 K⁺ in, the membrane is more permeable to K⁺ than to Na⁺, and large negatively charged molecules stay inside. The inside is about −70 mV relative to the outside.
+
+**What is saltatory conduction?**
+Myelin insulates the axon, so ions cross the membrane only at the nodes of Ranvier, where the voltage-gated channels are concentrated. The action potential jumps from node to node, which is faster than along an unmyelinated axon.
+
+**How does the Venus fly trap close?**
+When an insect bends a sensitive hair on a lobe, ion channels open and an action potential is generated, leading to rapid closure of the trap.
+
+**How does gibberellin cause barley seeds to germinate?**
+The embryo releases gibberellin, which causes the breakdown of DELLA proteins in the aleurone layer so the amylase gene is transcribed. Amylase then hydrolyses starch in the endosperm to maltose for the embryo.
+
+**How do you calculate the maximum frequency of impulses from the refractory period?**
+Convert the refractory period to seconds and divide 1 by it. A refractory period of 2.5 ms gives 1 ÷ 0.0025 = 400 impulses per second.
 
 ## Official syllabus
 

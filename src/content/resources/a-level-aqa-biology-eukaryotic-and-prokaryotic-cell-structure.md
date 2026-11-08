@@ -17,13 +17,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "cells-aqa-alevel-biology"
     subtopic: "structure-of-prokaryotic-cells-and-viruses-aqa-alevel-biology"
-description: "The structure and function of eukaryotic organelles, and the differences between prokaryotic cells, eukaryotic cells and viruses -- 3.2.1.1 and 3.2.1.2 of AQA AS and A-Level Biology (7401/7402)."
+description: "Eukaryotic organelles and how prokaryotic cells and viruses differ, for AQA AS and A-level Biology (7401/7402) sections 3.2.1.1 and 3.2.1.2, with exam tips."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **3.2.1.1 Structure of eukaryotic cells** and
@@ -202,6 +204,23 @@ different organelles.
 
 [Eukaryotic and Prokaryotic Cell Structure revision notes](/resources/aqa-a-level-biology-cell-structure-revision-notes/) |
 [Eukaryotic and Prokaryotic Cell Structure practice questions](/resources/aqa-a-level-biology-cell-structure-practice/)
+
+## Frequently asked questions
+
+**What is the difference between eukaryotic and prokaryotic cells?**
+Prokaryotic cells are much smaller and lack membrane-bound organelles and a nucleus. Their DNA is circular and free in the cytoplasm, their ribosomes are smaller, and their cell wall contains murein.
+
+**What does the nucleolus do?**
+The nucleolus is a dense structure inside the nucleus that produces ribosomes. A nucleus can contain one or more nucleoli.
+
+**What is a lysosome?**
+A lysosome is a membrane-bound organelle that releases hydrolytic enzymes, which break down molecules by adding water.
+
+**Does this AQA 7402 guide cover microscopy and cell fractionation?**
+No. It covers 3.2.1.1 and 3.2.1.2. Methods of studying cells, including microscopy and cell fractionation, are in 3.2.1.3 and have a separate resource.
+
+**What is the most common mistake on organelle questions?**
+Listing organelles by name without linking each structure to its function. Learn organelles in function-linked pairs, such as rough endoplasmic reticulum with the Golgi apparatus.
 
 ## Official syllabus
 

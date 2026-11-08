@@ -207,6 +207,23 @@ Pathologists use several indicators together because each is affected by conditi
 
 Use the [revision notes](/resources/edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology-revision-notes/) for recall and the [practice questions](/resources/edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology-practice/) to test yourself.
 
+## Frequently asked questions
+
+**What is in a PCR reaction tube?**
+Template DNA, two primers, free DNA nucleotides, Taq polymerase and a buffer containing the magnesium ions the enzyme needs.
+
+**Why is Taq polymerase used in PCR?**
+It comes from a heat-tolerant bacterium, so it is not denatured at the high temperature used to separate the DNA strands.
+
+**What is a DNA profile based on?**
+DNA profiling uses non-coding short tandem repeat (STR) regions, which vary in repeat number between people. The loci are amplified by PCR and separated by electrophoresis.
+
+**How is time of death estimated in a mammal?**
+Pathologists combine several indicators: the extent of decomposition, the stage of succession of organisms, forensic entomology, body temperature and rigor mortis. No single indicator gives an exact time.
+
+**What does forensic entomology show?**
+The stage of development of blowfly larvae on a body gives a minimum time since death, which depends on temperature.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification Issue 2, February 2021, Pearson Education Limited: Topic 6, statements 6.16 to 6.20.

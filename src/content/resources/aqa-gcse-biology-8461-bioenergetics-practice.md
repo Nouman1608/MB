@@ -22,10 +22,12 @@ syllabusTopics:
 description: "Eleven original AQA GCSE Biology 8461 Bioenergetics questions on photosynthesis rate, limiting factors, respiration and exercise, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,6 +199,23 @@ every point.
 - [Printable AQA GCSE Biology checklist](/checklists/aqa/gcse/biology/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which part of the AQA GCSE Biology 8461 specification do these questions cover?**
+They cover section 4.4 Bioenergetics, from photosynthesis and its rate to respiration and the response to exercise.
+
+**Is light a reactant in the photosynthesis equation?**
+No. Light is needed for photosynthesis but it is not written as a reactant in the equation. Putting light in as a reactant is a common error.
+
+**How should you name a limiting factor in an exam answer?**
+Name the factor and quote evidence from the table or graph to support it. Naming a factor without evidence loses marks.
+
+**Are some of these questions Higher tier only?**
+Yes. Questions marked "Higher tier only" cover content such as the inverse square law and the economics of greenhouses, which only Higher tier students sit.
+
+**What units should rates of photosynthesis have?**
+Give the amount per unit time, for example volume of oxygen per minute, and do not divide time by amount.
 
 ## Official syllabus
 

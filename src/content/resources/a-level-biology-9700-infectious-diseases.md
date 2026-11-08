@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Study guide to cholera, malaria, TB and HIV/AIDS, their transmission and control, penicillin and antibiotic resistance for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 10 **Infectious diseases** of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers section 10.1 Infectious diseases (learning outcomes 1–4) and section 10.2 Antibiotics (learning outcomes 1–2). This is AS Level content, so it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions). The syllabus also states that Paper 4 needs knowledge of AS Level content, so you may use it again at A Level. There is no Core/Supplement split in 9700: every outcome here applies to every candidate.
@@ -225,6 +227,23 @@ Compare percentages, not raw numbers: the sample size changed each year.
 ## Where to go next
 
 Condense this topic with the [infectious diseases revision notes](/resources/a-level-biology-9700-infectious-diseases-revision-notes/), then test yourself with the [infectious diseases practice questions](/resources/a-level-biology-infectious-diseases-practice/). The immune response to these pathogens is in the [immunity study guide](/resources/a-level-biology-9700-immunity/). Check your coverage against the [9700 checklist](/checklists/cambridge/a-level/biology/) and try the [9700 AS diagnostic](/practice/9700/diagnostic/as/).
+
+## Frequently asked questions
+
+**How is cholera transmitted?**
+Cholera is spread by the faecal–oral route: bacteria leave an infected person in faeces and reach others in contaminated water or food.
+
+**How is TB spread?**
+TB caused by *M. tuberculosis* is spread in the air when a person with active TB in the lungs coughs or sneezes. *M. bovis* reaches people from cattle in milk or meat.
+
+**How does antibiotic resistance spread?**
+A random mutation produces a resistance allele. Using the antibiotic kills susceptible bacteria, so resistant ones survive, reproduce and pass the allele to offspring and, on plasmids, to other bacteria.
+
+**How can the impact of antibiotic resistance be reduced?**
+Prescribe antibiotics only when needed and never for viral infections, use narrow-spectrum antibiotics matched to the bacterium, complete the full course, reduce use in farming, improve hospital hygiene and fund research into new antibiotics.
+
+**Why does penicillin not harm human cells?**
+Penicillin targets the formation of cross-links in the bacterial peptidoglycan cell wall. Human cells have no cell wall, so it does not harm them.
 
 ## Official syllabus
 

@@ -224,6 +224,23 @@ Why globular proteins dissolve: hydrophobic R groups point inwards, hydrophilic 
 - Describing collagen as one helix, or forgetting the cross-links and staggered ends when explaining strength.
 - Stating a structural feature without the function it serves: the mark is usually for the link.
 
+## Frequently asked questions
+
+**What is the general structure of an amino acid?**
+A central carbon atom bonded to an amine group (–NH₂), a carboxyl group (–COOH), a hydrogen atom and a variable R group.
+
+**What holds secondary structure together?**
+Secondary structure is held by hydrogen bonds between groups in the polypeptide backbone, not by R group interactions. Tertiary structure is held by interactions between R groups.
+
+**Between which amino acids do disulfide bonds form?**
+Disulfide bonds are covalent bonds that form only between two cysteine R groups.
+
+**How many oxygen molecules can one haemoglobin molecule carry?**
+Up to four: haemoglobin has four polypeptide chains, each with one haem group containing Fe²⁺, and each haem binds one O₂.
+
+**How do you answer a "relate structure to function" question on proteins?**
+Name a structural feature precisely, say what it does physically, and link it to the protein's job. Repeat for further features, because the mark is usually for each link rather than for a list.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.3 Proteins).

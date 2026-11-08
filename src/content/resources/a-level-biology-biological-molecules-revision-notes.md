@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed revision notes on biochemical tests, carbohydrates and lipids, proteins, and water for Cambridge AS & A Level Biology Topic 2 (9700)."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Related: [Topic 2 study guide](/resources/a-level-biology-biological-molecules/)
@@ -173,3 +175,20 @@ for instance, makes both protein structure (Topic 2) and DNA base pairing (Nucle
 the syllabus) harder to understand properly. Treating this topic as a one-off unit to revise once and
 move past, rather than as foundational vocabulary the rest of AS and A Level Biology depends on, is one
 of the more common and avoidable long-term mistakes students make early in the course.
+
+## Frequently asked questions
+
+**What bonds stabilise the tertiary structure of a protein?**
+Ionic bonds, hydrogen bonds, disulfide bonds and hydrophobic interactions. Naming these specific bonds is needed, because "forces between amino acids" is too vague.
+
+**When does a protein have quaternary structure?**
+Only when it has more than one polypeptide chain, as haemoglobin does.
+
+**What is the difference between globular and fibrous proteins?**
+Globular proteins, such as haemoglobin, are compact, roughly spherical and generally soluble. Fibrous proteins, such as collagen, are long insoluble strands suited to structural roles.
+
+**Why are triglycerides efficient energy stores?**
+Their largely non-polar structure means they do not affect the water potential of cells, so they can be stored in large amounts.
+
+**Why is a control needed in a biochemical test?**
+A control confirms that the observed change is caused by the substance being tested and not by the reagent alone.

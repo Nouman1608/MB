@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Study guide for Cambridge 9700 topic 18: species concepts, domains and kingdoms, sampling, Simpson's index, correlation tests and conservation."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide teaches topic 18, Classification, biodiversity and conservation, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers every learning outcome in sections 18.1 to 18.3. This is A Level content, examined on Paper 4 (A Level Structured Questions), not on the AS papers. The syllabus says Paper 4 and Paper 5 may include questions using its statistical tests, so the correlation work also matters for Paper 5.
@@ -301,6 +303,23 @@ An invasive alien species is one introduced outside its natural range that sprea
   <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What are the three species concepts in Cambridge 9700 Biology?**
+The biological species concept (organisms that interbreed to produce fertile offspring), the morphological species concept (organisms that look alike) and the ecological species concept (organisms that share the same niche).
+
+**What are the three levels of biodiversity?**
+The range of ecosystems and habitats, the number of species and their relative abundance, and the genetic variation within each species.
+
+**What is the difference between random sampling and a transect?**
+Random sampling gives every part of an area an equal chance of being chosen and suits uniform areas. Transects are systematic and are used to study how distribution changes along an environmental gradient.
+
+**What assumptions does mark-release-recapture make?**
+Marks do not harm the animals or make them easier to catch, marks are not lost, marked animals mix back into the population, and there are no births, deaths or migration between samples.
+
+**How can assisted reproduction help conserve endangered mammals?**
+IVF, embryo transfer and surrogacy let one valuable female produce more offspring, and using stored sperm or embryos from distant populations increases genetic diversity.
 
 ## Official syllabus
 

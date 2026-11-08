@@ -267,6 +267,23 @@ Use the order of the nephron and give one cause for each step:
 - Dividing by the urine volume instead of the filtrate volume in a percentage reabsorbed calculation.
 - Calling the urea concentration rise "urea being added": urea is concentrated because water is removed.
 
+## Frequently asked questions
+
+**What is the difference between excretion and egestion?**
+Excretion is the removal of the waste products of metabolism, such as urea and carbon dioxide. Egestion is the removal of undigested food as faeces.
+
+**What is the difference between a ureter and a urethra?**
+A ureter carries urine from each kidney to the bladder. The urethra carries urine from the bladder out of the body.
+
+**How does ultrafiltration happen?**
+The vessel into the glomerulus is wider than the vessel leaving it, so blood pressure is high and small molecules are forced out through the capillary walls into the Bowman's capsule, forming glomerular filtrate.
+
+**Where is glucose reabsorbed?**
+All the glucose is reabsorbed in the proximal convoluted tubule, partly by active transport, because it is needed for respiration.
+
+**Does more ADH mean more urine?**
+No. More ADH makes the collecting duct more permeable, so more water is reabsorbed and a smaller volume of concentrated urine is produced.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3 (first assessment June 2019), published by Pearson Education Limited. These notes cover Topic 2, sub-topic (i) Excretion, points 2.70–2.79B.

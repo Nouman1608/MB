@@ -208,6 +208,23 @@ When you evaluate any such experiment, ask what the control was, what the label 
 - Counting the stop codon as an amino acid.
 - Saying a gene "codes for a trait" rather than a polypeptide or functional RNA.
 
+## Frequently asked questions
+
+**What is a gene in AQA A-level Biology?**
+A gene is a base sequence of DNA that codes for the amino acid sequence of a polypeptide or for a functional RNA, such as ribosomal RNA or tRNA.
+
+**How does DNA in prokaryotes differ from DNA in eukaryotes?**
+Prokaryotic DNA is short, circular and not associated with proteins. Eukaryotic nuclear DNA is very long, linear and associated with histone proteins, forming chromosomes.
+
+**What happens in transcription?**
+RNA polymerase attaches at the start of a gene and the DNA strands separate. Free RNA nucleotides pair with the template strand, and RNA polymerase joins them by condensation. In eukaryotes this makes pre-mRNA, which is spliced to remove introns.
+
+**What happens in translation?**
+mRNA binds to a ribosome, and tRNAs with complementary anticodons bring specific amino acids to each codon. Adjacent amino acids are joined by peptide bonds using energy from ATP, and the ribosome moves along until a stop codon is reached.
+
+**Why is the genetic code degenerate?**
+Four bases taken three at a time give 64 possible triplets, but only 20 amino acids are coded for, so most amino acids have more than one triplet.
+
 ## Official syllabus
 
 Source document: the AQA specification for AS and A-level Biology (codes 7401 and 7402), first teaching 2015, version 1.5, published by AQA. Sections 3.4.1 and 3.4.2 only.

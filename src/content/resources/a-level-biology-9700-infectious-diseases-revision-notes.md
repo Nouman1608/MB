@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Condensed 9700 AS Biology notes on pathogens, transmission, disease control, penicillin and antibiotic resistance, with a self-test and answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked data examples, use the [infectious diseases study guide](/resources/a-level-biology-9700-infectious-diseases/). These notes condense topic 10 of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: section 10.1 Infectious diseases (outcomes 1–4) and section 10.2 Antibiotics (outcomes 1–2). It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it too. Every outcome applies to all candidates.
@@ -208,6 +210,23 @@ So penicillin affects only **growing** bacteria, and it does not harm human cell
 - On "discuss" questions, listing control measures without a biological, social or economic factor for each.
 - Suggesting antibiotics as a treatment for HIV/AIDS itself: HIV is a virus.
 - Spending time on the stages of the malarial life cycle, which the syllabus does not expect.
+
+## Frequently asked questions
+
+**Is Plasmodium a bacterium?**
+No. *Plasmodium*, which causes malaria, is a protoctist. The female *Anopheles* mosquito is the vector, not the pathogen.
+
+**Which cells does HIV infect?**
+HIV infects and destroys T-helper lymphocytes, so the immune system fails and AIDS develops. Writing only "white blood cells" may not earn the mark.
+
+**How does penicillin kill bacteria?**
+Penicillin inhibits the enzymes that form new peptide cross-links in the peptidoglycan wall of growing bacteria. The wall weakens, water enters by osmosis and the cell bursts.
+
+**Why do antibiotics not work against viruses?**
+Viruses have no peptidoglycan cell wall, no ribosomes and no metabolism of their own, and they replicate inside host cells. There is nothing for the antibiotic to target.
+
+**Do I need to learn the malarial life cycle for Cambridge 9700?**
+No. The syllabus does not require the stages of the malarial life cycle.
 
 ## Official syllabus
 

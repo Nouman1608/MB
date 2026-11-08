@@ -301,6 +301,23 @@ To answer a "how does the kidney..." question, use this order: ultrafiltration i
 
 Go on to the [excretion revision notes](/resources/edexcel-igcse-biology-4bi1-excretion-revision-notes/) and [practice questions](/resources/edexcel-igcse-biology-4bi1-excretion-practice/). For more of Topic 2, see the [cell structure revision notes](/resources/edexcel-igcse-biology-cell-structure-revision-notes/) and [cell structure practice](/resources/edexcel-igcse-biology-cell-structure-practice/). Find your weaker topics with the free [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What are the waste gases of a plant?**
+Carbon dioxide is a waste product of respiration and oxygen is a waste product of photosynthesis. Both leave the leaf by diffusion through the stomata.
+
+**What are the parts of a nephron?**
+Bowman's capsule, the proximal convoluted tubule, the loop of Henle, the distal convoluted tubule and the collecting duct.
+
+**What is in glomerular filtrate?**
+Water, glucose, urea and ions. Blood cells and large proteins are normally too large to pass into the filtrate.
+
+**What are the two roles of the kidney?**
+Excretion of urea and osmoregulation, which controls the water content of the blood.
+
+**Why is selective reabsorption called selective?**
+The tubule reabsorbs particular useful substances, such as all the glucose and some water and ions, while urea stays in the filtrate.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3 (first assessment June 2019), published by Pearson Education Limited. This page covers Topic 2, sub-topic (i) Excretion, points 2.70–2.79B.

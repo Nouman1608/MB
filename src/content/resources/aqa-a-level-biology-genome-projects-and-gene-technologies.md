@@ -222,6 +222,23 @@ Fingerprints also show genetic relationships (more shared bands means closer rel
 - Saying larger fragments travel further. Smaller ones do.
 - Writing that the probe has the same sequence as the allele. It is complementary.
 
+## Frequently asked questions
+
+**What are the three ways to make a DNA fragment for recombinant DNA technology?**
+Using reverse transcriptase to make cDNA from mRNA, using restriction endonucleases to cut the fragment out of DNA, or using a gene machine to build the sequence from a known base sequence.
+
+**Why do inserted genes need a promoter and terminator?**
+A promoter is needed so that RNA polymerase binds and transcription starts; a terminator is needed so transcription stops at the end of the gene.
+
+**Why are marker genes used in gene cloning?**
+Only a small proportion of cells take up the plasmid, so marker genes, such as antibiotic resistance or fluorescence genes, are used to detect the transformed cells.
+
+**What are the uses of genetic fingerprinting?**
+Forensic science, medical diagnosis, and animal and plant breeding, for example checking parentage, avoiding inbreeding and measuring genetic diversity.
+
+**Why does DNA move towards the positive electrode in electrophoresis?**
+Phosphate groups give DNA an overall negative charge, so fragments move towards the positive electrode.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, sections 3.8.3, 3.8.4.1, 3.8.4.2 and 3.8.4.3 (version 1.5), published by AQA.

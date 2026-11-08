@@ -180,6 +180,20 @@ These questions differ from the [cell membranes practice questions](/resources/a
 - [9700 AS Level diagnostic](/practice/9700/diagnostic/as/), or [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How are these 9700 practice questions organised?**
+They follow the Cambridge 9700 syllabus outcome by outcome through sections 4.1 and 4.2, with the learning outcome given in brackets at the start of each question.
+
+**How should you write a surface area to volume ratio?**
+Write it as "n : 1" by dividing surface area by volume. Leaving out ": 1" is a common way to lose a mark.
+
+**What should you use for the area of a circle in membrane calculations?**
+Use πr² with the radius, not the diameter. Using the diameter is a frequent mistake in Cambridge 9700 calculations.
+
+**What must a "name the process" answer include?**
+Give the process and a reason, such as the direction of movement relative to the gradient or the type of protein involved. Naming a process without a reason does not earn the mark.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Biology 9700 syllabus for 2025, 2026 and 2027* (Version 1, published September 2022), Cambridge University Press & Assessment. Topic 4, Cell membranes and transport: sections 4.1 and 4.2.

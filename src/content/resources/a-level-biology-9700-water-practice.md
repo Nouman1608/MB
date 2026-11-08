@@ -149,6 +149,20 @@ Learn it first: [Water study guide](/resources/a-level-biology-9700-water/) · R
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover section 2.4 Water, learning outcome 1: hydrogen bonding, solvent action, specific heat capacity and latent heat of vaporisation.
+
+**What units should you check in water thermal calculations?**
+Match grams with J g⁻¹ and kilograms with kJ kg⁻¹, and keep J with J and kJ with kJ. Mixing kg with g or kJ with J is a frequent mistake.
+
+**How should you link a property of water to its role?**
+Give the property, the hydrogen-bond reason for it, and the role it plays. A property with no role, or a role with no reason, loses marks.
+
+**Are these Cambridge past paper questions?**
+No. They are original questions written for revision and practice, with fully worked mark schemes. Use them alongside official past papers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.4 Water).

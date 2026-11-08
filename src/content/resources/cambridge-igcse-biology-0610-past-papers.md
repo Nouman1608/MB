@@ -12,10 +12,12 @@ order: 1
 description: "Cambridge IGCSE Biology 0610 past papers guide: grade thresholds and examiner report notes for the March, June and November series, 2022 to 2024."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This page is a guide to Cambridge IGCSE Biology (0610) past papers for nine series: March, June and November in 2022, 2023 and 2024. For each series you get the grade thresholds, copied from Cambridge's official grade-threshold documents, and our notes on what the examiners said, written in our own words from Cambridge's Principal Examiner Reports for Teachers. We do not host any papers. Every paper, mark scheme and report comes from Cambridge's own website, linked below.
@@ -364,3 +366,20 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 ## About these notes
 
 The grade thresholds on this page are copied from Cambridge International's grade-threshold tables, and the examiner notes are our own summaries of Cambridge's Principal Examiner Reports for Teachers for the March, June and November series of 2022, 2023 and 2024. Everything is written in our own words; read the full reports on Cambridge's website. Thresholds change every series and must never be used to predict future ones. If you spot an error, please [report a correction](/report-a-correction/).
+
+## Frequently asked questions
+
+**Which syllabus were the 2022 to 2024 0610 papers set on?**
+They were set on earlier versions of the 0610 syllabus. The current syllabus is for exams in 2026, 2027 and 2028, so check the syllabus version on a paper's front cover before relying on any question.
+
+**Which papers do Core and Extended candidates sit in Cambridge IGCSE Biology 0610?**
+Under the current syllabus, Core candidates sit Papers 1 and 3 (grades C to G) and Extended candidates sit Papers 2 and 4 (grades A* to G). Both also sit one practical paper, Paper 5 or Paper 6.
+
+**What does a paper number such as 42 mean?**
+It means Paper 4, variant 2. Papers 41, 42 and 43 are different versions of Paper 4 set in the same series.
+
+**Why do Core options show no A*, A or B thresholds?**
+Core is graded C to G, so the threshold tables show no A*, A or B grades for Core entry options.
+
+**How should I use past papers to improve?**
+Sit a full paper under timed conditions, mark it strictly with the official mark scheme, read the notes for that series, revise the weak topic, and re-test a week later with a paper from a different series.

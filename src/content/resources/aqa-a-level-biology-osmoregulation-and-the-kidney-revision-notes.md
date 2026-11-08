@@ -207,6 +207,23 @@ Example: loop length 12 mm gives urine 4.0 times plasma concentration, and loop 
 - Omitting units or the sign of a percentage change, such as a decrease written as a positive value.
 - Naming a hormone effect without the target: ADH acts on the DCT and collecting duct, not the PCT.
 
+## Frequently asked questions
+
+**Where is ADH made and released?**
+ADH is made by neurosecretory cells in the hypothalamus and released from the posterior pituitary gland into the blood.
+
+**How does ADH change the amount of water reabsorbed?**
+ADH binds to receptors on cells of the distal convoluted tubule and collecting duct, so more aquaporins are inserted into their membranes. They become more permeable to water, and more water is reabsorbed by osmosis.
+
+**How is glucose reabsorbed in the proximal convoluted tubule?**
+Sodium-potassium pumps lower the sodium ion concentration inside the PCT cells, so sodium ions enter from the filtrate by co-transport with glucose. Glucose then leaves into the tissue fluid by facilitated diffusion.
+
+**Why does a longer loop of Henle produce more concentrated urine?**
+A longer loop gives a greater sodium ion gradient over a greater depth of the medulla, so more water can leave the collecting duct by osmosis.
+
+**What does glucose in urine show?**
+All glucose in healthy filtrate is reabsorbed in the PCT, so glucose in urine suggests the carriers have been overloaded, as in uncontrolled diabetes.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), for first teaching 2015, section 3.6.4.3 Control of blood water potential (A-level only). Published by AQA.

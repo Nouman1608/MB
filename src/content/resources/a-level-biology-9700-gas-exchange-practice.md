@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Twelve original gas exchange questions with fully worked, mark-by-mark answers and examiner insights, for Cambridge 9700 AS & A Level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,6 +171,20 @@ Learn it first: [Gas exchange study guide](/resources/a-level-biology-9700-gas-e
 - [9700 printable checklist](/checklists/cambridge/a-level/biology/)
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 9, Gas exchange: the structures of the gas exchange system, the tissues in the airways and gas exchange in the alveoli.
+
+**Are these Cambridge 9700 past paper questions?**
+No. They are original questions written for revision and practice, with worked answers and examiner insights. Use them alongside official past papers.
+
+**Which mistakes are common in microscope calculations on gas exchange?**
+Forgetting to convert mm to µm before dividing by magnification, and adding units to a magnification. Using diameter instead of radius in area calculations is also common.
+
+**What should you do when a question says "using the data"?**
+Quote figures from the data in your answer. Ignoring the data when a question asks you to use it loses marks.
 
 ## Official syllabus
 

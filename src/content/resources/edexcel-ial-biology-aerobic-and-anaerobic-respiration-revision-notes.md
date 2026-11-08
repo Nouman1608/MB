@@ -251,6 +251,23 @@ A yeast tube decolourises in 250 s. Rate = 1000 ÷ 250 = **4.0 per 1000 s**. A t
 - Writing "time" as the rate in a redox indicator experiment instead of 1 ÷ time.
 - Giving the respirometer reading as oxygen used when no absorber was present.
 
+## Frequently asked questions
+
+**Why is respiration a stepped process?**
+Respiration happens in many small steps, each catalysed by a specific intracellular enzyme, so energy is released gradually and more of it is captured as ATP.
+
+**What happens to lactate after anaerobic respiration?**
+Lactate passes from muscle into the blood and on to the liver, where it is converted to pyruvate and can be respired or used to make glucose.
+
+**What is Core Practical 15 in Edexcel IAL Biology?**
+It uses a redox indicator such as methylene blue with yeast. The indicator accepts hydrogen and turns colourless, and rate is calculated as 1000 ÷ time to decolourise.
+
+**What is Core Practical 16?**
+It uses a simple respirometer to measure oxygen uptake and find the respiratory quotient. With a CO₂ absorber, the movement of the liquid shows oxygen used; without it, the movement shows oxygen used minus carbon dioxide produced.
+
+**Do the link reaction and Krebs cycle use oxygen directly?**
+No. Neither uses oxygen directly, but both depend on oxygen because oxidative phosphorylation regenerates the NAD and FAD they need.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

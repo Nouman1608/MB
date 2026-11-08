@@ -239,6 +239,23 @@ For a 4.21 question, work through these prompts in order.
 - Evaluating zoos with only advantages or only disadvantages and no conclusion.
 - Saying seed banks conserve habitats.
 
+## Frequently asked questions
+
+**How was the three-domain system established?**
+Comparing ribosomal RNA sequences showed that prokaryotes form two very different groups, leading to the three domains: Archaea, Bacteria and Eukarya.
+
+**What is endemism?**
+An endemic species is found naturally in only one area, so a single disturbance there could make it extinct.
+
+**How do you calculate the heterozygosity index?**
+Heterozygosity index = number of heterozygotes ÷ number of individuals in the population.
+
+**What is the minimum value of the index of diversity D?**
+D = 1 when only one species is present. A habitat dominated by one species has a low D even if it is species-rich.
+
+**What is a niche?**
+A niche is the way a species fits into its ecosystem: its role, including where it lives, what it feeds on and how it interacts with other species. It is more than just where it lives.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited: Topic 4, statements 4.14 to 4.21.

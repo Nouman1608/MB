@@ -252,6 +252,23 @@ Volume of CO₂ (cm³) collected in 5 minutes by a yeast culture in buffers.
 - Forgetting that the cycle and link reaction happen twice per glucose.
 - Describing a rate investigation without a control, a time limit or repeats.
 
+## Frequently asked questions
+
+**Where does each stage of respiration happen?**
+Glycolysis happens in the cytoplasm. The link reaction and Krebs cycle happen in the mitochondrial matrix, and oxidative phosphorylation happens on the inner mitochondrial membrane.
+
+**What happens in the link reaction?**
+Pyruvate (3C) is oxidised to acetate (2C), with hydrogen passed to NAD and carbon dioxide released. Acetate combines with coenzyme A to form acetylcoenzyme A. No ATP is made directly.
+
+**What is substrate-level phosphorylation?**
+It is ATP production by direct transfer of a phosphate group from a substrate to ADP, as in glycolysis and the Krebs cycle.
+
+**How do protons move back through ATP synthase?**
+Protons return to the matrix by facilitated diffusion through channels in ATP synthase, which joins ADP and Pi to make ATP. They are not actively transported.
+
+**Can lipids and amino acids be used as respiratory substrates?**
+Yes. Lipids are hydrolysed to glycerol and fatty acids, and fatty acids are broken into two-carbon units that enter the Krebs cycle as acetyl CoA. Amino acids have their amino group removed and the rest can enter respiration.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, for first teaching 2015, published by AQA. This guide follows section 3.5.2 and required practical 9. Check the current document on the AQA website for the latest version.

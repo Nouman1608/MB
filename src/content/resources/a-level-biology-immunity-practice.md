@@ -13,14 +13,16 @@ order: 11
 syllabusTopics:
   - qualification: "a-level"
     topic: "immunity-cambridge-alevel-biology"
-description: "Original exam-style questions with full worked answers on phagocytosis, a live attenuated oral vaccine, memory cells and long-term immunity, types of immunity, T-helper cells and antibody structure, for Cambridge International AS & A Level Biology (9700)."
+description: "Original Cambridge 9700 questions with worked answers on phagocytosis, live attenuated vaccines, memory cells, types of immunity and antibody structure."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -115,3 +117,17 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 - Saying antibodies act as memory cells, or that antibodies stay in the blood for years.
 - Describing memory cells as "remembering" or "fighting" rather than naming the secondary immune response.
 - Mixing up natural/artificial with active/passive immunity.
+
+## Frequently asked questions
+
+**Which exam paper are these immunity questions modelled on?**
+Each question practises a skill tested in the June 2024 Cambridge 9700 Paper 22, with an examiner-style insight after each answer.
+
+**Should you repeat information from the question in your answer?**
+No. Repeating information given in the stem earns no credit. Add the next step or the reason instead.
+
+**Should you write about vaccination programmes when asked about a vaccine?**
+Only if the question asks for it. Writing about vaccination programmes when the question asks about the features of a vaccine is a common way to lose marks.
+
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official past papers.

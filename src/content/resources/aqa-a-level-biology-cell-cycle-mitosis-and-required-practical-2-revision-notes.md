@@ -17,13 +17,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "cells-aqa-alevel-biology"
     subtopic: "all-cells-arise-from-other-cells-aqa-alevel-biology"
-description: "Condensed AQA A-level Biology 7402 notes on section 3.2.2: the cell cycle, the stages of mitosis, cancer, binary fission, virus replication and the root tip squash practical."
+description: "Condensed AQA A-level Biology 7402 notes on 3.2.2: the cell cycle, mitosis, cancer, binary fission, virus replication and the root tip squash practical."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Short notes for the final weeks. These notes follow section 3.2.2, All cells arise from other cells, in the AQA AS and A-level Biology specification (A-level 7402), for first teaching 2015, exams June 2016 onwards. The section is part of the AS content, so nothing here is marked A-level only. Find the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), tick off topics on the [checklist](/checklists/aqa/a-level/biology/), and use the free [diagnostics](/diagnostics/) to find weak spots. Meiosis is in a different section: see the [mutation and meiosis notes](/resources/aqa-a-level-biology-mutation-and-meiosis-revision-notes/). Measuring cells under the microscope is in the [microscopy notes](/resources/aqa-a-level-biology-microscopy-magnification-and-cell-fractionation-revision-notes/).
@@ -179,6 +181,23 @@ Measure cells with a calibrated eyepiece graticule. Worked reminder: a cell meas
 - Forgetting that cytokinesis is a separate step from nuclear division.
 - Counting only metaphase cells as "in mitosis" when calculating a mitotic index.
 - Describing the stain's purpose as "to see the cells" rather than "to make chromosomes visible".
+
+## Frequently asked questions
+
+**How do you calculate the mitotic index?**
+Mitotic index = number of cells in mitosis ÷ total number of cells counted. Count cells in prophase, metaphase, anaphase and telophase as in mitosis, and multiply by 100 if a percentage is asked for.
+
+**Why is the root tip put in dilute hydrochloric acid in Required Practical 2?**
+The acid breaks down the material holding the cells together, so the tip can be squashed into a thin layer for viewing under the microscope.
+
+**Is binary fission a type of mitosis?**
+No. Prokaryotes have no nucleus and no spindle. In binary fission the circular DNA and any plasmids replicate and the cytoplasm divides.
+
+**Do viruses undergo cell division?**
+No. Viruses are non-living. They inject their nucleic acid into a host cell, and the infected host cell replicates the virus particles.
+
+**When does DNA replicate in the cell cycle?**
+DNA replicates during interphase, not during mitosis. Saying it replicates "in prophase" is a common error in AQA 7402 answers.
 
 ## Official syllabus
 

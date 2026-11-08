@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Condensed recall notes on eukaryotic organelles, prokaryotic cell structure and viruses for AQA AS and A-Level Biology (7401/7402), 3.2.1.1 and 3.2.1.2."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -166,6 +168,20 @@ This is the same structure-function-link pattern used for mitochondria above, ap
 - Name the three structural components of a virus.
 - Explain why murein (not cellulose) is named specifically for prokaryotic cell walls.
 - Apply the structure-function-link format to explain how chloroplast structure suits photosynthesis.
+
+## Frequently asked questions
+
+**What does the AQA specification say about organelles and specialised cells?**
+It expects you to apply your knowledge of eukaryotic cell structure to explain the adaptations of specialised cells, and to know how cells are organised into tissues, organs and organ systems.
+
+**What are plasmids?**
+Plasmids are extra small circular DNA molecules found in many prokaryotes, for example carrying antibiotic resistance genes.
+
+**Which organelles are not membrane-bound?**
+Ribosomes are not surrounded by a membrane. Mitochondria, chloroplasts, lysosomes, ER, the Golgi apparatus and the nucleus are membrane-bound.
+
+**What is the most common mistake in prokaryotic cell answers?**
+Describing prokaryotic cells only by what they lack, without covering the additional structures many of them have, such as plasmids, capsules and flagella.
 
 ## Related resources
 

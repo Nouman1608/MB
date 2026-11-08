@@ -31,10 +31,12 @@ syllabusTopics:
 description: "Twelve original AQA GCSE Biology 8461 Ecology questions on sampling, cycles, decay, biomass, human impact and food production, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -192,6 +194,20 @@ Learn the content first in the [study guide](/resources/aqa-gcse-biology-8461-ec
 - [Printable checklist](/checklists/aqa/gcse/biology/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which part of the AQA GCSE Biology 8461 specification do these questions cover?**
+They cover Topic 7, Ecology, sections 4.7.1 to 4.7.5, including sampling, cycles, decay, biomass, human impact and food production.
+
+**How do you scale a quadrat count up to a whole area?**
+Scale from the quadrat area to one square metre, then multiply by the total area. Missing either step is a common error.
+
+**What units should rates of decay have?**
+Give the change per unit time, such as pH units per minute or grams per week. Missing units on rates loses marks.
+
+**How should you answer an "evaluate" question in ecology?**
+Give points on both sides and finish with a conclusion. One-sided answers with no conclusion lose marks.
 
 ## Official syllabus
 

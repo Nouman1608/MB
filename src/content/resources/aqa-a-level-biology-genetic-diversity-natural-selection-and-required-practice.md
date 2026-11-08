@@ -178,6 +178,20 @@ These questions cover AQA A-level Biology (7402) section 3.4.4, *Genetic diversi
 - All free 10-minute diagnostics: [diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**What must a natural selection explanation include?**
+Say that the advantageous allele is inherited by the next generation and that its frequency in the population rises. Leaving out either step, or writing that organisms change because they need to, loses marks in AQA 7402 answers.
+
+**What is the difference between percentage and percentage points?**
+A change from 20% to 30% is a rise of 10 percentage points but a 50% increase. Mixing up the two is a frequent mistake in selection data questions.
+
+**What radius should you use for the area of a clear zone?**
+Use the radius, which is half the diameter, in πr². Using the diameter instead of the radius is a common error.
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.4.4, Genetic diversity and adaptation, including Required Practical 6 on aseptic technique.
+
 ## Official syllabus
 
 This page follows the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, published by AQA, section 3.4.4 and required practical 6.

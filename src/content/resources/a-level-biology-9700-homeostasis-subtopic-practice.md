@@ -189,6 +189,20 @@ This set differs from the topic-level [homeostasis practice questions](/resource
 - [Free 9700 A Level diagnostic](/practice/9700/diagnostic/a-level/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How are these Cambridge 9700 homeostasis questions organised?**
+Each question is labelled with the learning outcomes from sections 14.1 and 14.2 it tests, working from the nephron to guard cells.
+
+**How is this set different from the topic-level homeostasis practice questions?**
+This set works outcome by outcome through the syllabus, while the topic-level set takes different angles on the same topic. Using both gives wider practice.
+
+**Which mistakes cost marks in homeostasis answers?**
+Calling ABA rather than Ca²⁺ the second messenger in guard cells, and leaving the G-protein or adenylyl cyclase out of a signalling chain, are two of the most common.
+
+**Are these Cambridge past paper questions?**
+No. They are original questions written for revision and practice, with mark-by-mark answers. Use them alongside official past papers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 14, Homeostasis (sections 14.1 Homeostasis in mammals and 14.2 Homeostasis in plants).

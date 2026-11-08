@@ -19,10 +19,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on cells, organelles, specialisation and levels of organisation."
 author: "saad-zai"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -113,3 +115,17 @@ Related: [Cell Structure and Organisation revision notes](/resources/cell-struct
 | Ciliated cell | Cilia that beat | Moves mucus and trapped particles |
 
 This table is worth memorising as a set — exam questions on this topic almost always ask for the adaptation **and** the reason it helps, and the two must be paired correctly to score both marks. For the full explanation of cell structure across animal, plant and bacterial cells, see the [Cell Structure and Organisation revision notes](/resources/cell-structure-and-organisation-revision-notes/) and the linked [study guide](/resources/cell-structure-and-organisation/).
+
+## Frequently asked questions
+
+**Which syllabus do these cell structure questions support?**
+They are written for Cambridge O Level Biology 5090 and cover cells, organelles, specialised cells and levels of organisation.
+
+**How should you describe an adaptation of a specialised cell?**
+Give the adaptation and say what it achieves. An adaptation without its effect does not earn full credit.
+
+**What units are used when converting cell sizes?**
+1 mm = 1000 µm. Remember to give units when converting from mm to µm.
+
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official past papers.

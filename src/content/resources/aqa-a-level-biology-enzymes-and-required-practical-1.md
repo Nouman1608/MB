@@ -250,6 +250,23 @@ To make 10 cm³ of enzyme at 1.0% from a 4.0% stock: stock volume = (1.0 ÷ 4.0)
 - Explaining a plateau at high temperature as "all active sites are full". It is denaturation.
 - Saying a non-competitive inhibitor "blocks the active site". It binds elsewhere.
 
+## Frequently asked questions
+
+**How have models of enzyme action changed?**
+In 1894 Emil Fischer proposed the lock-and-key model with a rigid active site. The induced-fit model replaced it because it explains evidence the older model could not, with the active site changing shape slightly when the substrate binds.
+
+**How does a competitive inhibitor work?**
+A competitive inhibitor is shaped like the substrate and occupies the active site, so fewer enzyme–substrate complexes form. Its effect is reduced by adding more substrate.
+
+**What is Required Practical 1 in AQA A-level Biology?**
+It is an investigation into the effect of a named variable on the rate of an enzyme-controlled reaction, such as measuring oxygen from catalase or timing how long a protease takes to clear a milk suspension.
+
+**How do you make an enzyme dilution from a stock solution?**
+Stock volume = (required concentration ÷ stock concentration) × final volume, then make up to the final volume with water. For example, 10 cm³ of 1.0% from 4.0% stock needs 2.5 cm³ of stock.
+
+**Why does the rate of a catalase reaction fall over time?**
+The substrate is used up, so the gradient of the curve falls with time. This is why the initial rate is found from a tangent at time 0.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, published by AQA. Section 3.1.4.2 and Required Practical 1.

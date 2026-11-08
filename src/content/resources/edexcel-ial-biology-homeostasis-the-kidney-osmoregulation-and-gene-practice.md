@@ -170,6 +170,20 @@ These questions cover statements 7.16 to 7.22 (feedback, homeostasis, the kidney
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 7.16 to 7.22 of Pearson Edexcel International A Level Biology (YBI11): feedback, homeostasis, the kidney, osmoregulation and gene switching.
+
+**What unit errors are common in kidney calculations?**
+Not converting units before calculating magnification or other values. Put both measurements in the same unit first.
+
+**Should you describe a table without figures?**
+No. Quote figures from the table when describing it. Quoting no figures is a common way to lose marks.
+
+**Are these Edexcel past paper questions?**
+No. They are original practice questions with worked answers. Use them alongside official Pearson Edexcel past papers.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

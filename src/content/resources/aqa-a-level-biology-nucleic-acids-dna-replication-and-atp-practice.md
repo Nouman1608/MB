@@ -140,6 +140,20 @@ Read the [study guide](/resources/aqa-a-level-biology-nucleic-acids-dna-replicat
 - Take the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Should you say "bonds" when describing DNA enzymes?**
+Name the bonds: hydrogen bonds for DNA helicase and phosphodiester bonds for DNA polymerase. Writing just "bonds" is a common way to lose marks in AQA 7402 answers.
+
+**What should you check in base percentage calculations?**
+Check that the percentages of all four bases total 100, and do not treat the percentages for one strand as those for the whole molecule.
+
+**How should you answer an evaluation question on the Watson-Crick model?**
+Give both strengths and limitations, and describe the evidence rather than saying an experiment simply "proved" the model.
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.1.5 (nucleic acids and DNA replication) and 3.1.6 (ATP) of AQA AS and A-level Biology (7401/7402).
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* (7401 and 7402), specification for first teaching 2015, sections 3.1.5.1, 3.1.5.2 and 3.1.6.

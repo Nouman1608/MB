@@ -13,14 +13,16 @@ order: 12
 syllabusTopics:
   - qualification: "a-level"
     topic: "energy-and-respiration-cambridge-alevel-biology"
-description: "Original exam-style questions with full worked answers on how carbon dioxide leaves a mitochondrion, oxidative phosphorylation and chemiosmosis, the effects of cyanide and of an uncoupler, respiratory quotient, and anaerobic respiration in yeast, for Cambridge International AS & A Level Biology (9700)."
+description: "Original Cambridge 9700 questions with worked answers on oxidative phosphorylation, cyanide and uncouplers, respiratory quotient and anaerobic yeast."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -101,3 +103,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Not saying that protons are actively transported into the intermembrane space but diffuse back through ATP synthase.
 - Saying energy is "produced" or "lost" rather than released.
 - Dividing oxygen by carbon dioxide when calculating RQ.
+
+## Frequently asked questions
+
+**Which exam paper are these respiration questions modelled on?**
+Each question practises a skill tested in the June 2024 Cambridge 9700 Paper 42, with an examiner-style insight after each answer.
+
+**What should the electron transport chain be called?**
+Call it the electron transport chain made of electron carriers, not "carrier proteins" or "proton pumps".
+
+**How do you calculate RQ?**
+Divide the volume of carbon dioxide produced by the volume of oxygen taken in. Dividing oxygen by carbon dioxide is a frequent mistake.
+
+**Should you say energy is produced in respiration?**
+No. Energy is released and transferred to ATP; writing that energy is "produced" or "lost" loses marks in Cambridge 9700 answers.

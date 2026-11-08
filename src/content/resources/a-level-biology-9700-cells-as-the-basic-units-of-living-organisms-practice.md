@@ -188,6 +188,20 @@ Chloroplasts: ✗ ✗ ✓ [1]
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover section 1.2, Cells as the basic units of living organisms, from Topic 1 Cell structure.
+
+**Does magnification have units?**
+No. Magnification is a ratio with no units. Convert the image size and the actual size to the same unit, such as mm to µm, before dividing.
+
+**How do you answer a "compare" question on cell structures in Cambridge 9700?**
+Write matched points that say what each structure or cell has, rather than two separate descriptions. Include at least one similarity where the question allows.
+
+**Can you use knowledge that is not in the micrograph or description?**
+When a question asks for evidence, use only features given in the micrograph or description. Using evidence that is not in the material provided is a common way to lose marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 1, Cell structure (section 1.2 Cells as the basic units of living organisms).

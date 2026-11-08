@@ -226,6 +226,23 @@ A phosphate group (derived from the phosphate ion) is part of every nucleotide.
 - Describing pH as "the amount of acid". It is a measure of H⁺ concentration on a log scale.
 - Saying co-transport uses ATP directly. The pump does.
 
+## Frequently asked questions
+
+**What is the difference between cohesion and adhesion?**
+Cohesion is attraction between water molecules; adhesion is attraction between water and another substance. Cohesion holds water together as a continuous column in the xylem.
+
+**What causes surface tension?**
+At an air–water boundary, surface molecules are pulled inwards and sideways by neighbouring water molecules but not upwards by the air, so the surface behaves like a stretched skin.
+
+**Why does a large latent heat of vaporisation help organisms?**
+A small mass of evaporated water carries away a large amount of energy, so organisms can cool down with little loss of water.
+
+**How do sodium ions help glucose enter ileum cells?**
+A sodium-potassium pump removes Na⁺ from the cell, so Na⁺ diffuses in from the lumen through a co-transporter protein, carrying glucose with it. The pump uses ATP; the co-transporter does not.
+
+**Why are phosphate ions important?**
+Phosphate groups are part of every DNA and RNA nucleotide and of ATP, which has three phosphate groups.
+
 ## Official syllabus
 
 AQA, AS and A-level Biology specification (7401 and 7402), first teaching 2015, sections 3.1.7 and 3.1.8.

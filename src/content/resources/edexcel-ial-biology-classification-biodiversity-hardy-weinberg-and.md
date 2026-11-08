@@ -231,6 +231,23 @@ Good evaluations end with a judgement, such as that these methods support in sit
 </figure>
 
 
+## Frequently asked questions
+
+**What are the three levels of biodiversity?**
+Species diversity (how many species there are and how evenly individuals are spread), genetic diversity (the variety of alleles within a species) and habitat diversity.
+
+**What is the formula for the index of diversity in Edexcel IAL Biology?**
+D = N(N − 1) ÷ Σn(n − 1), where N is the total number of individuals of all species and n is the number of each species. A higher D means greater diversity.
+
+**What are the Hardy–Weinberg equations?**
+p + q = 1 and p² + 2pq + q² = 1, where p and q are the allele frequencies, p² is homozygous dominant, 2pq is heterozygous and q² is homozygous recessive.
+
+**Does the Hardy–Weinberg equation prove evolution is happening?**
+No. It predicts allele frequencies in a population that is not evolving; a change in allele frequency between generations shows that a change is occurring.
+
+**How does reproductive isolation lead to speciation?**
+If two populations are kept apart there is no gene flow between them. Different mutations and selection pressures change their allele frequencies until they can no longer interbreed to produce fertile offspring.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited: Topic 4, statements 4.14 to 4.21.

@@ -13,14 +13,16 @@ order: 15
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-and-coordination-cambridge-alevel-biology"
-description: "Original exam-style questions with full worked answers on neurone types and myelin, saltatory conduction, conduction speed, voltage-gated and ligand-gated channels at a cholinergic synapse, an insecticide that inhibits acetylcholinesterase, and hyperpolarisation and the threshold potential, for Cambridge International AS & A Level Biology (9700)."
+description: "Cambridge 9700 practice questions with worked answers on neurone types, saltatory conduction, synapse ion channels, acetylcholinesterase and threshold."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -105,3 +107,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Describing where ion channels are instead of how they open and which ions pass through.
 - Writing "membrane" or "neurone" without saying presynaptic or postsynaptic membrane.
 - Saying the inside becomes "negative" rather than "more negative".
+
+## Frequently asked questions
+
+**Which exam paper are these control and coordination questions modelled on?**
+Each question practises a skill tested in the June 2024 Cambridge 9700 Paper 42, with an examiner-style insight after each answer.
+
+**How should you describe ion channels at a synapse?**
+Say how each channel opens and which ions pass through. Describing only where the channels are does not earn full credit.
+
+**Should you name the presynaptic or postsynaptic membrane?**
+Yes. Always say which membrane you mean; writing just "membrane" or "neurone" is a common way to lose marks in Cambridge 9700 answers.
+
+**What should you give when a question asks for a type of cell?**
+Name the type of cell, such as a type of neurone, rather than part of a cell such as an axon or dendrite.

@@ -168,6 +168,20 @@ Learn the content first in the [Transport study guide](/resources/edexcel-igcse-
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topic (h), Transport, in plants and humans, including xylem, transpiration, blood, immunity and the heart.
+
+**What does a potometer actually measure?**
+A potometer measures water uptake, which is used as an estimate of transpiration. Saying it measures transpiration exactly is a common error.
+
+**Do vaccines contain antibodies?**
+No. Vaccines contain antigens, such as dead or weakened pathogens. Saying vaccines contain antibodies loses marks.
+
+**How do you calculate a percentage change?**
+Divide by the original value, not the new value, then multiply by 100.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1), Specification, Issue 3, September 2024, Pearson Education Limited: Topic 2, sub-topic (h) Transport, points 2.51–2.69.

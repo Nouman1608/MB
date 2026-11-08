@@ -204,6 +204,23 @@ Repeated contraction can lead to **fatigue**. Anaerobic respiration makes lactat
 - Forgetting that phosphocreatine regenerates ATP, rather than being a fuel itself.
 - Leaving out the release of calcium ions from the sarcoplasmic reticulum, or the ATP needed to pump them back.
 
+## Frequently asked questions
+
+**What happens to the bands of a sarcomere during contraction?**
+The I band gets shorter, the H zone gets narrower and may disappear, and the sarcomere shortens, while the A band stays the same length because the thick filaments do not shorten.
+
+**What are the three roles of ATP in muscle contraction?**
+ATP detaches myosin heads from actin, its hydrolysis returns the head to its original position, and it is used to actively transport calcium ions back into the sarcoplasmic reticulum.
+
+**What is the difference between slow and fast twitch muscle fibres?**
+Slow twitch fibres contract more slowly, respire aerobically and contain myoglobin, which stores oxygen and makes them look red. Fast twitch fibres contract quickly and rely more on anaerobic respiration.
+
+**What are thin and thick filaments made of?**
+Thin filaments are mostly actin, with tropomyosin lying along them. Thick filaments are myosin, with globular heads that project towards the actin.
+
+**Which practical skills does the AQA specification suggest for muscle contraction?**
+Examining prepared slides of skeletal muscle and investigating muscle fatigue, as listed in this guide.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, AQA. Section 3.6.3, Skeletal muscles are stimulated to contract by nerves and act as effectors (A-level only).

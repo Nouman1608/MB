@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "molecules-transport-and-health-edexcel-alevel-biology"
-description: "Carbohydrates and lipids, the heart and circulation, and the risk factors and evidence behind cardiovascular disease -- the full learning outcomes of Topic 1 for Pearson Edexcel International A Level Biology (YBI11), examined as Unit 1."
+description: "Carbohydrates and lipids, the heart and circulation, and cardiovascular disease risk: Topic 1 of Pearson Edexcel International A Level Biology (YBI11), Unit 1."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 Molecules, Transport and Health**, the
@@ -129,6 +131,23 @@ consequence.
   <figcaption>The order in which excitation travels explains why atria contract before ventricles.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What does Topic 1 of Edexcel International A Level Biology cover?**
+Water and carbohydrates, lipids and the need for mass transport, the heart and blood vessels, cardiovascular disease, and evaluating health risk data.
+
+**What is the Bohr effect?**
+A higher concentration of carbon dioxide, as found in actively respiring tissues, lowers haemoglobin's affinity for oxygen. The dissociation curve shifts to the right, so more oxygen is released.
+
+**How is vitamin C content measured in Core Practical 2?**
+It uses DCPIP, a blue dye that is decolourised when reduced by vitamin C. A known volume of DCPIP is titrated with the sample, added dropwise until the blue colour just disappears.
+
+**Why does fetal haemoglobin have a higher affinity for oxygen?**
+Fetal haemoglobin has a different quaternary structure from adult haemoglobin, so its dissociation curve sits to the left. This lets the fetus load oxygen from the mother's blood across the placenta, where the partial pressure of oxygen is low.
+
+**How do statins reduce cardiovascular disease risk?**
+Statins lower blood LDL cholesterol by inhibiting an enzyme in the liver involved in cholesterol production.
 
 ## Official syllabus
 

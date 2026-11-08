@@ -202,6 +202,23 @@ Turbidity (cloudiness) of a broth culture can estimate growth rate. A log scale 
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between a niche and a habitat?**
+A habitat is the place where a species lives. A niche is the role of the species within the habitat, including its interactions with other species and the environment.
+
+**What factors affect the carrying capacity of an ecosystem?**
+Abiotic factors, interspecific competition, intraspecific competition and predation.
+
+**How do you carry out a random quadrat survey?**
+Lay two tapes at right angles, generate random coordinates, place the quadrat at each one and count or score the species, then calculate the mean and scale up to the whole area.
+
+**What is Required Practical 12?**
+It investigates the effect of a named environmental factor, such as light intensity or soil moisture, on the distribution of a species, using random quadrats or a belt transect.
+
+**What is the difference between percentage cover and frequency?**
+Percentage cover is how much of the quadrat area a species covers. Frequency is the proportion of quadrats in which the species is present. They are different measures of abundance.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), for first teaching 2015: section 3.7.4, Populations in ecosystems (A-level only), and required practical 12.

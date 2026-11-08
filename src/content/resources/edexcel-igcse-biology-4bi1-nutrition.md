@@ -373,6 +373,23 @@ The result is too low: heat escapes to the air and glass, and burning may be inc
 
 Use the [nutrition revision notes](/resources/edexcel-igcse-biology-4bi1-nutrition-revision-notes/), then the [nutrition practice questions](/resources/edexcel-igcse-biology-4bi1-nutrition-practice/). For enzyme action, see the [cell structure revision notes](/resources/edexcel-igcse-biology-cell-structure-revision-notes/) and [cell structure practice](/resources/edexcel-igcse-biology-cell-structure-practice/).
 
+## Frequently asked questions
+
+**What is the balanced symbol equation for photosynthesis?**
+6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, with light energy absorbed by chlorophyll.
+
+**Why is a plant destarched before a photosynthesis experiment?**
+Keeping the plant in the dark first uses up its starch, so any starch found afterwards must have been made during the experiment.
+
+**What is peristalsis?**
+Peristalsis is the waves of muscle contraction that push food along the alimentary canal.
+
+**How are villi adapted for absorption?**
+Villi give a large surface area, have a thin wall one cell thick, a good blood supply from a dense capillary network, and a lacteal to absorb products of fat digestion.
+
+**How do you calculate the energy in a food sample?**
+Energy released (J) = mass of water (g) × 4.2 × temperature rise (°C), then divide by the mass of food. The result is usually too low because heat escapes. This is Paper 2 only content.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 2: Structures and functions in living organisms, sub-topic (e) Nutrition, statements 2.18–2.33B.

@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Original exam-style questions with marked answers on DNA replication, transcription, translation and gene mutation for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,6 +157,20 @@ Codon table for Questions 8 and 9 (mRNA codons): AUG = Met (start), GCU = Ala, A
 - Track every outcome: [printable 9700 checklist](/checklists/cambridge/a-level/biology/)
 - Test the whole AS course: [9700 AS Level diagnostic](/practice/9700/diagnostic/as/), or see [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What is the difference between a codon and an anticodon?**
+A codon is three bases on mRNA; an anticodon is three bases on tRNA that are complementary to the codon. Giving one when the question asks for the other is a common error in Cambridge 9700 answers.
+
+**Should mRNA sequences contain T or U?**
+mRNA contains uracil, so write U, never T, in an mRNA sequence.
+
+**Do stop codons count as amino acids?**
+No. Stop codons code for no amino acid, so leave them out when working out the length of a polypeptide.
+
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions for topic 6 with marked answers. A codon table is given at the top of the page for the codon questions.
 
 ## Official syllabus
 

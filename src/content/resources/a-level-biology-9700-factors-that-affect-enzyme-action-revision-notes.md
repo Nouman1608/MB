@@ -216,6 +216,23 @@ Small reminder: Vmax = 64 units, so ½Vmax = 32 units. If the curve passes 32 un
 
 Next: test yourself on data and planning questions in the [Factors that affect enzyme action practice questions](/resources/a-level-biology-9700-factors-that-affect-enzyme-action-practice/), or try the [9700 AS diagnostic](/practice/9700/diagnostic/as/). Course hub: [Cambridge A Level Biology](/boards/cambridge/a-level/biology/); [printable checklist](/checklists/cambridge/a-level/biology/).
 
+## Frequently asked questions
+
+**What is Km in Cambridge 9700 Biology?**
+Km is the substrate concentration at which the rate is half of Vmax. A low Km means high affinity of the enzyme for its substrate; a high Km means low affinity.
+
+**Do competitive inhibitors change Vmax?**
+No. A competitive inhibitor raises Km but Vmax is unchanged. A non-competitive inhibitor lowers Vmax.
+
+**Why are buffers used in enzyme investigations?**
+In a pH investigation each tube gets a different buffer; in every other enzyme investigation the same buffer is used in every tube so that pH is kept constant.
+
+**What is the difference between a serial and a proportional dilution?**
+A serial dilution multiplies the concentration by a fixed factor at each step, such as halving. A proportional dilution mixes stock and water in different proportions to give evenly spaced concentrations.
+
+**Why is a boiled enzyme used as a control?**
+A boiled (denatured) enzyme in place of active enzyme shows that any change observed is caused by the enzyme's activity.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge International: Topic 3 Enzymes, subtopic 3.2 Factors that affect enzyme action, learning outcomes 1–4.

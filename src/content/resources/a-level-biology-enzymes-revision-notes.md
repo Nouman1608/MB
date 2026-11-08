@@ -13,13 +13,15 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "enzymes-cambridge-alevel-biology"
-description: "Condensed recall notes on enzyme mode of action, lock-and-key vs induced-fit, factors affecting rate, Michaelis-Menten kinetics, inhibitors and immobilised enzymes, for Cambridge International AS & A Level Biology (9700) Topic 3."
+description: "Condensed Cambridge 9700 Topic 3 enzyme notes: lock-and-key and induced fit, rate factors, Vmax and Km, inhibitors and immobilised enzymes, with exam traps."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -179,6 +181,20 @@ reused, and the product is not contaminated with enzyme.
   <figcaption>Competitive inhibition keeps Vmax and raises Km; non-competitive inhibition lowers Vmax and leaves Km unchanged.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What is an enzyme?**
+An enzyme is a biological catalyst: it increases the rate of a reaction and is unchanged at the end of it. Enzymes are globular proteins.
+
+**How can you tell a competitive inhibitor from a non-competitive one?**
+Ask whether adding more substrate reduces the inhibitor's effect. If it does, the inhibitor is competitive; if it does not, it is non-competitive.
+
+**What is the difference between sub-topics 3.1 and 3.2 in Cambridge 9700?**
+3.1 explains why catalysed reactions are faster, using the active site and activation energy. 3.2 covers what changes the rate, such as temperature, pH, concentrations and inhibitors. Answering a 3.1 question with 3.2 content is a common trap.
+
+**Why must pH be buffered in enzyme investigations?**
+pH affects enzyme activity, so it must be kept constant with a buffer when investigating any other factor's effect on rate.
 
 ## Official syllabus
 

@@ -243,6 +243,23 @@ The specification says you need not recall drug names. Use the information given
 - Describing summation without saying which kind it is, or confusing the two.
 - Predicting a drug's effect with no explanation of the step it changes.
 
+## Frequently asked questions
+
+**How is a resting potential established?**
+The sodium-potassium pump moves 3 Na⁺ out and 2 K⁺ in using ATP. The membrane is more permeable to K⁺ than to Na⁺, so K⁺ diffuses out and the inside becomes negative relative to the outside.
+
+**What does all-or-nothing mean for action potentials?**
+Below threshold no action potential forms. At or above threshold an action potential forms, and it is always the same size, so a stronger stimulus gives more frequent impulses, not bigger ones.
+
+**Which factors affect the speed of conduction?**
+Myelination, axon diameter and temperature. Myelinated, wider axons at higher temperatures conduct impulses faster.
+
+**What is the difference between spatial and temporal summation?**
+Spatial summation is when several presynaptic neurones release transmitter at the same time. Temporal summation is when one presynaptic neurone releases transmitter repeatedly in a short time.
+
+**Do I need to know the names of drugs that affect synapses?**
+No. The specification says you need not recall drug names; use the information given to predict the effect of a drug on synaptic transmission.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, for first teaching 2015, published by AQA. These notes follow sections 3.6.2.1 and 3.6.2.2. Check the current document on the AQA website for the latest version.

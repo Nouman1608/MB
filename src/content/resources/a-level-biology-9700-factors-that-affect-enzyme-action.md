@@ -250,6 +250,23 @@ The immobilised enzyme is slower at first. Substrate has to **diffuse** into the
 - Check your AS knowledge with the [9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - Course hub: [Cambridge A Level Biology](/boards/cambridge/a-level/biology/) and the [printable checklist](/checklists/cambridge/a-level/biology/)
 
+## Frequently asked questions
+
+**Why does enzyme activity fall above the optimum temperature?**
+Stronger vibrations break hydrogen bonds and some ionic bonds holding the tertiary structure, so the active site changes shape and is no longer complementary to the substrate. Fewer enzyme–substrate complexes form.
+
+**How does pH affect enzyme activity?**
+A change in hydrogen ion concentration changes the charges on R groups, disrupting ionic and hydrogen bonds in the tertiary structure and charged groups in the active site. Extreme pH denatures the enzyme.
+
+**How does a non-competitive inhibitor work?**
+It binds to the enzyme at a site other than the active site, changing the shape of the active site. This takes some enzyme molecules out of action, so Vmax is lowered.
+
+**What are the advantages of immobilised enzymes?**
+The product is not contaminated with enzyme, the enzyme can be recovered and reused, immobilised enzymes are usually more stable over a wider range of temperature and pH, and substrate can flow continuously through a column.
+
+**Why is an immobilised enzyme often slower at first than a free enzyme?**
+Substrate has to diffuse into the alginate bead and product has to diffuse out, so the initial rate is often lower than for the same quantity of free enzyme.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge International: Topic 3 Enzymes, subtopic 3.2 Factors that affect enzyme action, learning outcomes 1–4.

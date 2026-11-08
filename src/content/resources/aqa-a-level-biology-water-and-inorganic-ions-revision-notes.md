@@ -231,6 +231,23 @@ Ions occur in solution in cytoplasm and body fluids. Some are at high concentrat
 - Saying co-transport uses ATP directly.
 - Leaving out the pump when explaining why glucose enters against its gradient.
 
+## Frequently asked questions
+
+**Why is water a metabolite?**
+Water takes part in metabolic reactions: it is used in hydrolysis and photosynthesis and released in condensation and aerobic respiration.
+
+**How does evaporation of water cool an organism?**
+Water molecules escaping from the surface must break hydrogen bonds, which takes a lot of energy. The escaping molecules carry that energy away, so the surface is cooled with little loss of water.
+
+**Why does water buffer temperature changes?**
+Heat supplied first disrupts hydrogen bonds, so less energy goes into increasing molecular movement and temperature rises and falls slowly.
+
+**What is the role of iron ions in haemoglobin?**
+Each haem group contains an Fe²⁺ ion that binds one oxygen molecule, so one haemoglobin with four haem groups can carry up to four O₂ molecules.
+
+**What does a change of one pH unit mean?**
+Each pH unit is a factor of 10 in hydrogen ion concentration, so pH 6 has 100 times the H⁺ concentration of pH 8.
+
 ## Official syllabus
 
 AQA, AS and A-level Biology specification (7401 and 7402), first teaching 2015, sections 3.1.7 and 3.1.8.

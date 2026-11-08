@@ -222,6 +222,23 @@ Worked reminder: a body is 33.0 °C at 10:00. It was 37.0 °C at death and coole
 * Reading a size from a ladder by straight-line interpolation when the scale is logarithmic.
 * Claiming a profile match proves identity, or giving one indicator as an exact time of death.
 
+## Frequently asked questions
+
+**How do saprotrophs decompose dead matter?**
+They secrete enzymes such as proteases, lipases and carbohydrases onto the dead matter, the large molecules are hydrolysed to small soluble ones, and the products are absorbed. Some are respired, releasing carbon dioxide.
+
+**What are the stages of a PCR cycle?**
+Denature at about 95 °C so the strands separate, anneal at about 50 to 65 °C so primers bind, and extend at about 72 °C as Taq polymerase builds new strands.
+
+**Which way does DNA move in gel electrophoresis?**
+DNA is negatively charged, so it moves towards the positive electrode. Shorter fragments travel further through the gel.
+
+**Can DNA profiling tell identical twins apart?**
+No. Identical twins have the same DNA profile, so profiling cannot separate them.
+
+**What is the difference between a saprotroph and a detritivore?**
+A saprotroph is a microorganism that digests dead matter with extracellular enzymes. A detritivore is an animal, such as an earthworm, that eats dead matter.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification Issue 2, February 2021, Pearson Education Limited: Topic 6, statements 6.16 to 6.20.

@@ -313,6 +313,23 @@ is about 25 cells thick. Always convert first, then divide the larger by the sma
 - Missing units in rate answers, or forgetting to multiply by 60 to get beats per minute.
 - Comparing sizes in different units (mm against µm) without converting.
 
+## Frequently asked questions
+
+**What are the levels of organisation in AQA GCSE Biology?**
+Cell, tissue, organ, organ system, organism. An organ contains more than one type of tissue.
+
+**What is double circulation?**
+Blood passes through the heart twice in each complete circuit: the right ventricle pumps blood to the lungs, and the left ventricle pumps blood to the rest of the body.
+
+**What controls the natural heart rate?**
+A group of cells in the right atrium acts as a pacemaker. Artificial pacemakers are electrical devices that correct irregularities in the heart rate.
+
+**Why is the left ventricle wall thickest?**
+The left ventricle pumps blood around the whole body, so it needs a thicker muscular wall than the right ventricle, which pumps blood only to the lungs.
+
+**Do I need to know the names of the heart valves?**
+No. You need to know that valves stop backflow, but not the names of the valves.
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, Version 1.0, for teaching from September 2016 and exams from 2018 onwards

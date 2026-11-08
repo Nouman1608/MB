@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Blood vessels, blood cells, tissue fluid, oxygen and carbon dioxide transport and the cardiac cycle, taught step by step for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches Topic 8, Transport in mammals, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 8.1 The circulatory system, 8.2 Transport of oxygen and carbon dioxide and 8.3 The heart. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content.
@@ -287,6 +289,23 @@ Knowledge of nervous and hormonal control is not expected.
 - Exam-style questions: [Transport in mammals practice](/resources/a-level-biology-transport-in-mammals-practice/)
 - Find your gaps across AS topics: [free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - Next topic: [Gas exchange study guide](/resources/a-level-biology-9700-gas-exchange/)
+
+## Frequently asked questions
+
+**What is the difference between elastic and muscular arteries?**
+Elastic arteries, such as the aorta, have many elastic fibres that stretch and recoil to smooth out blood pressure. Muscular arteries have more smooth muscle, which contracts to narrow the lumen and control blood flow.
+
+**Why is the left ventricle wall thicker than the right?**
+The left ventricle pumps blood through the whole systemic circulation, which needs a higher pressure, while the right ventricle pumps blood only to the lungs.
+
+**Why is the heartbeat delayed at the AVN?**
+The atrioventricular node passes the wave of excitation on after a short delay, so the atria finish contracting and the ventricles fill before they contract.
+
+**How do you recognise a red blood cell on a blood smear?**
+Red blood cells are small biconcave discs with no nucleus, and they appear paler in the centre.
+
+**Is nervous and hormonal control of the heart in Cambridge 9700 topic 8?**
+No. The guide states that knowledge of nervous and hormonal control of the heart is not expected; cardiac muscle is myogenic and the SAN starts each beat.
 
 ## Official syllabus
 

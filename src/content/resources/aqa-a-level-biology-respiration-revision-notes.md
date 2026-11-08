@@ -239,6 +239,23 @@ Lipids give more reduced coenzymes per gram than carbohydrate because they conta
 - Describing a practical with no control, no repeats or no fixed time.
 - Not using figures from the data when asked to describe a trend.
 
+## Frequently asked questions
+
+**What is the net ATP yield of glycolysis?**
+Glycolysis makes 4 ATP and uses 2, giving a net gain of 2 ATP, along with 2 reduced NAD and 2 pyruvate per glucose.
+
+**Why do lactate and ethanol fermentation happen?**
+They regenerate NAD so that glycolysis can continue when respiration is only anaerobic. No extra ATP is made by these reactions.
+
+**Where is most ATP made in aerobic respiration?**
+At the inner mitochondrial membrane, by oxidative phosphorylation, not in the Krebs cycle.
+
+**What is the role of oxygen in respiration?**
+Oxygen is the final acceptor of electrons and protons at the end of the electron transfer chain, forming water.
+
+**What is Required Practical 9?**
+It investigates the effect of a named variable, such as temperature, pH or substrate, on the rate of respiration of single-celled organisms like yeast, using carbon dioxide volume or a redox indicator.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, for first teaching 2015, published by AQA. These notes follow section 3.5.2 and required practical 9. Check the current document on the AQA website for the latest version.

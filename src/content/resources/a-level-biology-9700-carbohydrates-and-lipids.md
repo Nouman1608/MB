@@ -256,6 +256,23 @@ The phosphate group is charged, so the "head" is **polar and hydrophilic**: it a
 - Course hub: [Cambridge A Level Biology](/boards/cambridge/a-level/biology/)
 - Printable checklist: [9700 checklist](/checklists/cambridge/a-level/biology/)
 
+## Frequently asked questions
+
+**Which sugars are reducing sugars in Cambridge 9700 Biology?**
+Glucose, fructose and maltose are reducing sugars and give a positive Benedict's test. Sucrose is a non-reducing sugar and only gives a positive result after it has been hydrolysed.
+
+**What are maltose and sucrose made of?**
+Maltose is two α-glucose molecules joined by an α-1,4 glycosidic bond. Sucrose is α-glucose and fructose joined by a 1,2 glycosidic bond.
+
+**How do you calculate the Mr of a molecule made by condensation?**
+Add the Mr values of all the monomers, then subtract 18 for each bond formed. For example, maltose is 180 + 180 − 18 = 342.
+
+**Why is cellulose strong enough for plant cell walls?**
+Its straight β-glucose chains lie parallel and form many hydrogen bonds, building microfibrils and fibres laid in layers. This gives high tensile strength, so the wall resists the pressure of water entering by osmosis.
+
+**What is the difference between a triglyceride and a phospholipid?**
+A triglyceride has glycerol joined to three fatty acids. In a phospholipid one fatty acid is replaced by a phosphate group, giving a polar, hydrophilic head and two hydrophobic tails.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.2 Carbohydrates and lipids).

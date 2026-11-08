@@ -228,6 +228,23 @@ Random allocation spreads other differences between groups. Informed consent is 
 * Explaining a placebo only as a "fake drug".
 * Treating all three phases as the same, instead of stating the size and purpose of each.
 
+## Frequently asked questions
+
+**Why do nitrate and magnesium deficiencies show first in older leaves?**
+Nitrate and magnesium are mobile in the plant, so they are moved from older leaves to new growth, and the older leaves show the deficiency.
+
+**What is Core Practical 8 in Edexcel IAL Biology?**
+It measures the tensile strength of plant fibres by hanging increasing masses from fibres of the same length until they break, then calculating force per unit area.
+
+**What is Core Practical 9?**
+It investigates the antimicrobial properties of plant extracts by placing soaked discs on a lawn of bacteria and comparing the areas of the clear zones.
+
+**What is the difference between a placebo and a double blind trial?**
+A placebo is the dummy treatment. In a double blind trial neither the patients nor the staff who treat or assess them know who receives the drug, which reduces bias.
+
+**Why is dry mass used in mineral deficiency experiments?**
+Fresh mass changes with water content, so dry mass gives a more reliable measure of growth.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology, specification Issue 2 (Pearson Education Limited), Topic 4, statements 4.8 to 4.13.

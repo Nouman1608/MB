@@ -211,6 +211,23 @@ Parkinson's disease involves loss of dopamine-releasing neurones in the brain. D
 - Confusing grey matter (cell bodies, synapses) with white matter (myelinated axons).
 - Saying a bigger stimulus gives a bigger action potential.
 
+## Frequently asked questions
+
+**What is the difference between sensory, relay and motor neurones?**
+Sensory neurones carry impulses from receptors towards the CNS, relay neurones lie wholly inside the CNS and connect them, and motor neurones carry impulses from the CNS to effectors.
+
+**How is the resting potential maintained?**
+The sodium-potassium pump uses ATP to move 3 Na⁺ out for every 2 K⁺ in, and at rest the membrane is far more permeable to K⁺ than Na⁺, giving a potential of about −70 mV.
+
+**How does the pupil respond to bright light?**
+Receptors in the retina send impulses to the brain, and the circular muscle of the iris contracts while the radial muscle relaxes, so the pupil constricts and protects the retina.
+
+**Why is synaptic transmission one-way?**
+Only the presynaptic side releases acetylcholine and only the postsynaptic membrane has receptors for it.
+
+**What is the role of acetylcholinesterase?**
+It breaks acetylcholine into choline and ethanoate, so the transmitter is removed from the receptors and the postsynaptic membrane can repolarise.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, Pearson Education Limited. Statements 8.1 to 8.7 of Topic 8.

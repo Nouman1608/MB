@@ -262,6 +262,23 @@ Triglycerides are large but **not polymers** (no repeating monomer chain).
 - Saying triglycerides are polar or that phospholipid tails are hydrophilic.
 - Calling a triglyceride a polymer.
 
+## Frequently asked questions
+
+**How do you tell α-glucose from β-glucose?**
+Look at carbon 1 only. In α-glucose the OH on carbon 1 is below the ring; in β-glucose it is above the ring, on the same side as the CH₂OH group.
+
+**How do you test for a non-reducing sugar?**
+Do Benedict's test first; if it stays blue, heat a fresh sample with dilute hydrochloric acid, cool and neutralise with sodium hydrogencarbonate, then repeat Benedict's test. An orange-red or brick-red precipitate shows a non-reducing sugar was present.
+
+**Why do you neutralise the acid in the non-reducing sugar test?**
+Benedict's solution only works in alkaline conditions, so the acid used to hydrolyse the sugar must be neutralised first.
+
+**Is a triglyceride a polymer?**
+No. A triglyceride is one glycerol joined to three fatty acids by ester bonds; it is a large molecule but not a chain of repeating monomers.
+
+**What holds cellulose molecules together?**
+Neighbouring parallel cellulose chains are held together by many hydrogen bonds, forming microfibrils and then fibres. The chains are not joined to each other by glycosidic bonds.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.2 Carbohydrates and lipids).

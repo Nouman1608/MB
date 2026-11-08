@@ -180,6 +180,20 @@ Learn the content first with the [study guide](/resources/edexcel-igcse-biology-
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topic 2(d), Movement of substances into and out of cells: diffusion, osmosis, active transport and surface area to volume ratio.
+
+**How should you write a percentage change in mass?**
+Keep the sign, positive for a gain and negative for a loss. Dropping the sign is a common error.
+
+**How should a surface area to volume ratio be calculated?**
+Divide surface area by volume, not the other way round. Giving the ratio upside down loses marks.
+
+**What should you do after describing a trend?**
+Explain it as well as describing it. A trend described without an explanation does not earn full marks.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, published by Pearson Education Limited: Topic 2, Structures and functions in living organisms, sub-topic (d) Movement of substances into and out of cells, points 2.15–2.17.

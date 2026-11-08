@@ -222,6 +222,20 @@ A good evaluation uses evidence. If a farm trial shows that sown margins raise d
 
 Use the [revision notes](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-revision-notes/) for quick recall, then try the [practice questions](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-practice/). All the sample data on this page are invented for practice.
 
+## Frequently asked questions
+
+**Which section of AQA 7402 covers biodiversity and farming?**
+Section 3.4.6, Biodiversity within a community. The specification says you could be given data from which to calculate an index of diversity.
+
+**Why is species richness not enough to describe biodiversity?**
+Two communities can have the same number of species but very different spreads of individuals. Species richness ignores how evenly individuals are spread, so a community dominated by one species can have the same richness as an even one.
+
+**What are the limits of the index of diversity?**
+Small samples give unreliable values, one sample is only a snapshot, spreading plants are hard to count as individuals, and species must be identified correctly. A high d also does not show which species are present.
+
+**How can farmers balance food production with conservation?**
+Keep or replant hedgerows and leave field margins and buffer strips, rotate crops and leave some land fallow, use fewer pesticides or biological control, reduce stocking density and protect nearby wetlands and woodland.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, published by AQA. This page is aligned to section 3.4.6 and maths skill MS 2.3.

@@ -168,6 +168,20 @@ Explain what these results show about the sugars in each extract. **[4]**
 - Take the free 10-minute [9700 AS diagnostic](/practice/9700/diagnostic/as/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover sub-topic 2.1, Testing for biological molecules, including the food tests, dilutions, the semi-quantitative Benedict's test and the non-reducing sugar test.
+
+**Should anomalous results be included in a mean?**
+No. Leave out an anomalous replicate when calculating a mean. Including it is a common error.
+
+**What must you state when describing Benedict's test?**
+State that the mixture is heated in a water bath and name the colours. Writing "Benedict's turns red" with no heating step loses marks.
+
+**Are these Cambridge past paper questions?**
+No. They are original questions written for revision and practice, with marked answers. Use them alongside official past papers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for 2025, 2026 and 2027 (Version 1), Cambridge International (Cambridge University Press & Assessment). Topic 2, Biological molecules, sub-topic 2.1 Testing for biological molecules.

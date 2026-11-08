@@ -164,6 +164,20 @@ These questions follow section 3.6.3 (A-level only) of the AQA AS and A-level Bi
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.6.3, Skeletal muscles are stimulated to contract by nerves and act as effectors, which is A-level only in AQA Biology 7402.
+
+**How should you calculate a percentage decrease?**
+Divide the change by the original value, not the later value, then multiply by 100.
+
+**What should you do when comparing muscle fibre types from a table?**
+Quote figures from the table in your comparison. Comparing fibre types without figures is a common way to lose marks.
+
+**What unit errors are common in micrograph calculations?**
+Mixing mm and µm. Convert both measurements to the same unit before dividing.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, AQA. Section 3.6.3, Skeletal muscles are stimulated to contract by nerves and act as effectors (A-level only).

@@ -232,6 +232,23 @@ Another reminder: if the quadrat is 0.25 m² and six quadrats have 18 individual
 - Claiming a correlation proves a cause.
 - Describing succession without saying how each stage changes the environment.
 
+## Frequently asked questions
+
+**What is the relationship between GPP, NPP and respiration?**
+NPP = GPP − R, so GPP = NPP + R and R = GPP − NPP. NPP is what is available to primary consumers and decomposers.
+
+**Why is energy transfer between trophic levels inefficient?**
+Not all of an organism is eaten, not all that is eaten is digested, respiration releases energy as heat, and excretory products carry energy away, so only the remainder forms new tissue.
+
+**What is the difference between intraspecific and interspecific competition?**
+Intraspecific competition is between members of the same species; interspecific competition is between different species.
+
+**What is Core Practical 11 in Edexcel IAL Biology?**
+It studies the ecology of a habitat by measuring the distribution and abundance of organisms with quadrats and transects and measuring abiotic factors such as light, soil moisture, pH and temperature.
+
+**What happens during succession from bare rock?**
+Pioneers such as lichens and mosses colonise, weathering and dead material form soil, then grasses, shrubs and finally trees form the climax community. Soil deepens and diversity and biomass increase.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited. Statements 5.9 to 5.15, Topic 5.

@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Study guide for Edexcel IGCSE Biology 4BI1 Topic 5: crop yield, yeast and yoghurt, fermenters, selective breeding, genetic modification and cloning."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches Topic 5, **Use of biological resources** (specification points 5.1–5.20), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points with a **B** reference (5.9B and 5.17B–5.20B) are bold in the specification and are examined on Paper 2 only; everything else can appear on either paper. It applies to the June and November series examined under Issue 3.
@@ -364,6 +366,23 @@ A human gene for a useful protein is inserted into an animal embryo, so the anim
 ## Next steps
 
 Condense this with the [revision notes](/resources/edexcel-igcse-biology-4bi1-use-of-biological-resources-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi1-use-of-biological-resources-practice/). The [free diagnostics](/diagnostics/) show which Biology topics need the most work.
+
+## Frequently asked questions
+
+**What is the difference between restriction enzymes and ligase?**
+Restriction enzymes cut DNA at specific sequences; ligase enzymes join pieces of DNA together.
+
+**What does transgenic mean?**
+Transgenic means genetic material has been transferred from one species into another.
+
+**What is micropropagation?**
+Small pieces of tissue (explants) are sterilised and grown on sterile agar with nutrients and plant hormones into plantlets. Many genetically identical plants can be produced rapidly. This is Paper 2 only content.
+
+**How was Dolly the sheep cloned?**
+A diploid nucleus from a body cell of sheep A was inserted into an egg cell of sheep B with its nucleus removed. The embryo was placed in the uterus of a surrogate sheep, and the lamb was a clone of sheep A.
+
+**How can fish farming be managed?**
+Keep water quality high, prevent intraspecific and interspecific predation, control disease and waste, feed high-protein food and use selective breeding. This is Paper 2 only content.
 
 ## Official syllabus
 

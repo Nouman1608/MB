@@ -202,6 +202,23 @@ If the whole cell cycle takes 18 hours, the time spent in mitosis is about 0.138
 - Counting only prophase to metaphase cells as dividing. Count all four stages.
 - Giving a mitotic index without checking the total counted is all cells, not just dividing ones.
 
+## Frequently asked questions
+
+**What is a locus?**
+A locus is the position of a gene on a chromosome. Genes whose loci are on the same chromosome are linked.
+
+**How does meiosis produce variation?**
+Crossing over between non-sister chromatids in prophase I and the independent assortment of homologous pairs in metaphase I both produce new combinations of alleles.
+
+**What is the acrosome reaction?**
+The acrosome membrane fuses with the sperm cell membrane and releases enzymes that digest a path through the zona pellucida.
+
+**What is the cortical reaction?**
+Cortical granules in the egg release their contents by exocytosis, changing the zona pellucida so that it cannot bind further sperm, which prevents polyspermy.
+
+**Why is a stain used in the root tip squash?**
+Chromosomes are almost transparent, so a stain that binds DNA is needed to make them visible.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology specification, Issue 2, February 2021 (Pearson Education Limited), statements 3.9 to 3.16 and Core Practical 6.

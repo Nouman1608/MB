@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed recall notes on carbohydrates, lipids, proteins, enzymes and food tests for AQA A Level Biology 7402."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -162,3 +164,19 @@ The non-reducing sugar test must be preceded by a **negative** Benedict's test, 
   <figcaption>Each test has a clear colour change; non-reducing sugars need acid hydrolysis first.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why does cellulose have high tensile strength?**
+Cellulose is made of β-glucose, so alternate molecules are inverted and form straight chains. Many hydrogen bonds between parallel chains give strength, and mentioning the inverted alternate molecules is needed for the marks.
+
+**What is the difference between saturated and unsaturated fatty acids?**
+Saturated fatty acids have no C=C double bonds; unsaturated fatty acids have one or more C=C double bonds.
+
+**Is an enzyme "killed" by high temperature?**
+No. Enzymes are not alive. Denaturation is the loss of the tertiary structure, so the active site changes shape and substrates no longer fit.
+
+**Which model of enzyme action does AQA expect?**
+The induced-fit model, in which the active site is not rigid and changes shape slightly when the substrate binds.
+
+**What must you do before the non-reducing sugar test?**
+Carry out a Benedict's test first and get a negative result, then hydrolyse with acid and neutralise before testing again.

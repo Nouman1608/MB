@@ -25,10 +25,12 @@ syllabusTopics:
 description: "Twelve original AQA GCSE Biology 8461 questions on disease, defences, vaccines, drug trials, monoclonal antibodies and plant disease, fully marked."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -187,6 +189,20 @@ every point.
 - [Printable AQA GCSE Biology checklist](/checklists/aqa/gcse/biology/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which section of the AQA GCSE Biology 8461 specification do these questions cover?**
+They cover section 4.3 Infection and response: pathogens and disease, human defences, vaccination, drug development, monoclonal antibodies and plant disease.
+
+**How do you calculate a percentage change correctly?**
+Divide by the original value, not the new value, then multiply by 100.
+
+**Are some of these questions Higher tier only?**
+Yes. Questions marked "Higher tier only", such as those on monoclonal antibodies, are for Higher tier students.
+
+**What should you revise before attempting these questions?**
+Work through the Infection and response study guide first, then use these questions to test your recall and data skills.
 
 ## Official syllabus
 

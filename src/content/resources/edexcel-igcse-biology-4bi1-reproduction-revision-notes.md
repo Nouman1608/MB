@@ -322,6 +322,23 @@ Pubic and underarm hair grow in both sexes at puberty.
 - Saying mother's and embryo's blood mix in the placenta.
 - Calling cuttings a natural method.
 
+## Frequently asked questions
+
+**What conditions do seeds need to germinate?**
+Water, oxygen and a suitable temperature. Light is not one of the conditions in the germination practical.
+
+**How do you calculate percentage germination?**
+Percentage germination = (number of seeds germinated ÷ total number of seeds) × 100.
+
+**Why does the dry mass of a germinating seed fall at first?**
+Stored food reserves are broken down and respired, and they are not replaced because there are no leaves yet. Dry mass rises later when the leaves photosynthesise.
+
+**What are the roles of oestrogen and progesterone?**
+Oestrogen repairs the uterus lining after menstruation; progesterone maintains the lining. Mixing them up is a common error.
+
+**What crosses the placenta?**
+Glucose, amino acids, fatty acids, oxygen and other useful substances pass from mother to embryo; carbon dioxide and urea pass from embryo to mother. The two bloods do not mix.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Topic 3, Reproduction and inheritance, sub-topic (a) Reproduction.

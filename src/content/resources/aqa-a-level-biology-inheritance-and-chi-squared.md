@@ -225,6 +225,23 @@ Do not write that a non-significant result proves the ratio. Say the difference 
 - Using observed totals or percentages as the expected values in a chi-squared test.
 - Using degrees of freedom = number of individuals − 1.
 
+## Frequently asked questions
+
+**Is there a required practical for AQA 7402 section 3.7.1?**
+No required practical is listed in 3.7.1. The specification suggests crosses of Drosophila or Fast Plants as a way to investigate genetic ratios.
+
+**What is the difference between genotype and phenotype?**
+The genotype is the genetic constitution of an organism, the alleles it carries. The phenotype is the expression of that genetic constitution and its interaction with the environment.
+
+**What ratios show epistasis?**
+Two heterozygous parents can give 9 : 3 : 4 for recessive epistasis, 12 : 3 : 1 for dominant epistasis and 9 : 7 for complementary action, instead of 9 : 3 : 3 : 1.
+
+**How is sex linkage different in birds?**
+In birds males are ZZ and females ZW, so the female is the one with a single copy of each gene on the Z chromosome.
+
+**What does a test cross show?**
+Crossing an individual showing the dominant phenotype with a homozygous recessive individual shows whether it is homozygous or heterozygous from the offspring phenotypes.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, section 3.7.1 (version 1.5), published by AQA.

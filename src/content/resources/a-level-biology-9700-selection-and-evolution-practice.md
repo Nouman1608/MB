@@ -26,10 +26,12 @@ syllabusTopics:
 description: "12 original Cambridge 9700 questions on variation, t-tests, Hardy-Weinberg, selection, breeding and speciation, with fully worked mark-by-mark answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,6 +170,20 @@ Use t = (x̄₁ − x̄₂) / √(s₁²/n₁ + s₂²/n₂) to decide whether t
 - [Printable 9700 checklist](/checklists/cambridge/a-level/biology/)
 - [9700 A Level diagnostic](/practice/9700/diagnostic/a-level/) and [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Should you write "genes" or "alleles" when describing natural selection?**
+Write "alleles". Selection changes allele frequencies in a population's gene pool, and writing "genes" instead is a common way to lose marks.
+
+**How do you calculate degrees of freedom for a t-test?**
+Degrees of freedom are n₁ + n₂ − 2. Using n₁ + n₂ is a frequent mistake in Cambridge 9700 answers.
+
+**Where should you start a Hardy–Weinberg calculation?**
+Start from q², the frequency of the recessive phenotype, then find q and p. Starting from the dominant phenotype gives the wrong answer.
+
+**What should you include when naming a type of speciation?**
+Explain the lack of gene flow between the populations. Naming the type of speciation without this does not earn full credit.
 
 ## Official syllabus
 

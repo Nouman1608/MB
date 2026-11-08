@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "infection-and-response-aqa-gcse-biology"
     subtopic: "plant-disease-aqa-gcse-biology"
-description: "Pathogens and communicable diseases, human defence systems, vaccination, antibiotics and drug development, plus the Biology-only content on monoclonal antibodies and plant disease -- the full content of Topic 4.3 for AQA GCSE Biology (8461)."
+description: "Pathogens, named diseases, human defences, vaccines, antibiotics, drug development, monoclonal antibodies and plant disease: AQA GCSE Biology 8461 section 4.3."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **4.3 Infection and response**, the third of the seven assessed subject-content topics in AQA
@@ -260,3 +262,19 @@ ion deficiencies and plant defence responses are still required content.
   <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which diseases do I need to know for AQA GCSE Biology 4.3?**
+Measles, HIV and tobacco mosaic virus (viral), salmonella and gonorrhoea (bacterial), rose black spot (fungal) and malaria (protist).
+
+**What are the body's non-specific defences?**
+Non-specific defences include the skin, the nose, the trachea and bronchi with mucus and cilia, and stomach acid, which stop pathogens entering or kill them.
+
+**How does vaccination work?**
+Small quantities of a dead or inactive form of a pathogen are introduced, so white blood cells produce antibodies. If the same pathogen enters later, the body responds quickly and the person does not become ill.
+
+**Which parts of AQA GCSE Biology 4.3 are Biology only?**
+The guide marks monoclonal antibodies (4.3.2) as Biology only and Higher tier only, and plant disease (4.3.3) as Biology only.
+
+**Why can't antibiotics treat viral infections?**
+Antibiotics kill bacteria but not viruses, because viruses live and reproduce inside cells, so it is hard to develop drugs that kill them without damaging body tissues.

@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
-description: "Properties of gas exchange surfaces, Fick's Law, cell membrane structure and the fluid mosaic model, and osmosis and membrane transport -- outcomes 2.1-2.5 of Pearson Edexcel International A-Level Biology (YBI11), Topic 2."
+description: "Gas exchange surfaces, Fick's Law, the fluid mosaic model, osmosis and membrane transport: outcomes 2.1-2.5 of Edexcel International A Level Biology (YBI11)."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers outcomes **2.1 to 2.5**, the opening cluster of
@@ -191,6 +193,23 @@ involvement.
 movement down a water potential gradient.
 - Review the fluid mosaic model as a scientific model built from
 interpreting data, not simply a fixed structural diagram.
+
+## Frequently asked questions
+
+**What is Fick's Law?**
+Fick's Law states that the rate of diffusion is proportional to surface area × concentration difference ÷ diffusion distance. Each property of a gas exchange surface links to one of these three variables.
+
+**What is Core Practical 3 in Edexcel International A Level Biology?**
+Core Practical 3 investigates membrane properties, including the effect of alcohol and temperature on membrane permeability.
+
+**How is osmosis defined for Edexcel YBI11?**
+Osmosis is the movement of free water molecules through a partially permeable membrane, down a water potential gradient.
+
+**Which transport mechanisms are named in outcome 2.5?**
+Passive transport by diffusion and facilitated diffusion, active transport, and endocytosis and exocytosis. Compare them in a table by energy requirement, gradient direction and whether proteins or vesicles are involved.
+
+**Why is the fluid mosaic model described as a model?**
+The specification treats it as an interpretation of data used to develop scientific explanations of membrane structure, not simply a fixed structural diagram.
 
 ## Related resources
 

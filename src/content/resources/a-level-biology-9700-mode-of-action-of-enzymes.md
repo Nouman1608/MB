@@ -259,6 +259,23 @@ From 6 to 8 min: (0.325 − 0.225) ÷ 2 = 0.050 g dm⁻³ min⁻¹. The rate fal
 - [Enzymes practice questions](/resources/a-level-biology-enzymes-practice/) and [Enzymes revision notes](/resources/a-level-biology-enzymes-revision-notes/) for the whole topic, including 3.2
 - [AS Level Biology 9700 diagnostic](/practice/9700/diagnostic/as/)
 
+## Frequently asked questions
+
+**Why are enzymes described as globular proteins?**
+An enzyme's polypeptide chain folds into a compact, roughly spherical shape, which gives it a specific active site.
+
+**How do enzymes lower activation energy?**
+In building reactions the active site holds substrates close in the right orientation; in breaking reactions binding distorts the substrate and strains its bonds. Charged R groups in the active site can also help bonds form or break.
+
+**What is the difference between intracellular and extracellular enzymes?**
+Intracellular enzymes, such as catalase, act inside the cell that made them. Extracellular enzymes, such as amylase, are secreted and act outside the cell. The test is where the enzyme acts, not where it is made.
+
+**How do you calculate the rate of an amylase reaction with iodine?**
+Record the first time at which a sample leaves the iodine orange-brown and calculate rate = 1/time, in s⁻¹. The sampling interval sets the uncertainty in the end point.
+
+**Why is the initial rate used to compare enzyme experiments?**
+The rate is highest at the start, when substrate concentration is highest, and later rates are lowered as substrate is used up. The initial rate is found from the gradient of a tangent at t = 0.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge Assessment International Education (Cambridge University Press & Assessment, September 2022). Topic 3, Enzymes, section 3.1 Mode of action of enzymes, learning outcomes 1 to 4.

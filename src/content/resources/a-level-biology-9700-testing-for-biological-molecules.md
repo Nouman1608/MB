@@ -249,6 +249,23 @@ When the first test is already positive, you detect a non-reducing sugar only by
 - Forgetting that a shorter time means a higher concentration.
 - Estimating an unknown outside the range of the standards.
 
+## Frequently asked questions
+
+**What are the four standard food tests in Cambridge 9700?**
+Benedict's test for reducing sugars, the iodine test for starch, the emulsion test for lipids and the biuret test for proteins. Only Benedict's test needs heating.
+
+**What is the positive result for the iodine test?**
+The orange-brown iodine solution turns blue-black if starch is present. If starch is absent, it stays orange-brown.
+
+**What is the difference between proportional and serial dilution?**
+Proportional dilution mixes different volumes of stock with water to the same final volume, giving evenly spaced concentrations. Serial dilution dilutes each solution by the same factor to make the next.
+
+**Which variables must be standardised in the semi-quantitative Benedict's test?**
+Keep the volume of sample, the volume of Benedict's solution (in excess), the water bath temperature, the heating time and the way colour is judged the same.
+
+**Why does the emulsion test work?**
+Lipids dissolve in ethanol but are insoluble in water, so when water is added the lipid comes out of solution as tiny droplets that form a cloudy white emulsion.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for 2025, 2026 and 2027 (Version 1), Cambridge International (Cambridge University Press & Assessment). Topic 2, Biological molecules, sub-topic 2.1 Testing for biological molecules.

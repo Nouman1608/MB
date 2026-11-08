@@ -301,6 +301,23 @@ the number of plants and protect the species from extinction.
 - Stopping a therapeutic cloning answer at "same genes" without "not rejected".
 - In an evaluate question, listing points with no conclusion.
 
+## Frequently asked questions
+
+**What are the three stages of the cell cycle in AQA GCSE Biology?**
+Stage 1: the cell grows, makes more sub-cellular structures and replicates its DNA. Stage 2: mitosis, when one set of chromosomes is pulled to each end and the nucleus divides. Stage 3: the cytoplasm and cell membrane divide to form two identical cells.
+
+**Do I need to name the phases of mitosis for AQA GCSE?**
+No. AQA wants the three overall stages of the cell cycle, not the named phases of mitosis.
+
+**How many chromosomes are in a human body cell?**
+23 pairs, which is 46 chromosomes. Mitosis keeps the number the same.
+
+**What is a stem cell?**
+A stem cell is an undifferentiated cell of an organism which can give rise to many more cells of the same type, and from which certain other cells can arise by differentiation.
+
+**How are meristems used to clone plants?**
+Stem cells from meristems produce clones quickly and economically, for example to protect rare species from extinction or to produce crop plants with special features such as disease resistance.
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, Version 1.0, for teaching from September 2016 and exams from 2018

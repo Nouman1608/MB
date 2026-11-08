@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Condensed notes on xylem, phloem, apoplast and symplast, transpiration, xerophytes and mass flow, with a self-test, for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For full explanations and worked examples, use the [transport in plants study guide](/resources/a-level-biology-9700-transport-in-plants/).
@@ -251,6 +253,23 @@ Convert to the same unit first: 1 mm = 1000 µm.
   <figcaption>Plan diagrams show tissue distribution only: xylem inside phloem in stems, a central xylem star in roots, xylem above phloem in leaves.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What is the difference between the apoplast and symplast pathways?**
+In the apoplast pathway, water moves through cellulose cell walls and intercellular spaces. In the symplast pathway, water moves through cytoplasm from cell to cell via plasmodesmata.
+
+**What is the difference between cohesion and adhesion?**
+Cohesion is hydrogen bonding between water molecules. Adhesion is hydrogen bonding between water molecules and cellulose in the cell walls.
+
+**What is a xerophyte?**
+A xerophyte is a plant adapted to reduce water loss by transpiration. Annotations of xerophyte features must explain how each reduces water loss, not just label it.
+
+**What is the difference between a source and a sink?**
+A source is where assimilates such as sucrose are loaded into the phloem; a sink is where they are used or stored.
+
+**What is the difference between suberin and lignin?**
+Suberin forms the Casparian strip in the endodermis; lignin thickens the walls of xylem vessels and stops them collapsing.
 
 ## Official syllabus
 

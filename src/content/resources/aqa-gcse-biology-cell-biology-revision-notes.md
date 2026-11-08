@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on cell structure, microscopy, mitosis, stem cells and transport for AQA GCSE Biology 8461."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -210,3 +212,19 @@ Rate of diffusion increases with a **steeper concentration gradient, higher temp
   <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What do plant cells have that animal cells lack?**
+Plant cells have a cellulose cell wall, chloroplasts and a permanent vacuole, which animal cells do not have.
+
+**Do plant cells have mitochondria?**
+Yes. Plant cells have mitochondria as well as chloroplasts. Saying plant cells have no mitochondria is a common trap.
+
+**What is mitosis used for?**
+Mitosis is used for growth, repair and asexual reproduction, producing two genetically identical cells.
+
+**What increases the rate of diffusion?**
+A steeper concentration gradient, a higher temperature and a larger surface area all increase the rate of diffusion.
+
+**Does active transport need energy?**
+Yes. Active transport needs energy from respiration to move substances against a concentration gradient.

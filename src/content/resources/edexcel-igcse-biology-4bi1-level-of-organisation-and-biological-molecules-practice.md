@@ -184,6 +184,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-biology-4b
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topics 2(a) Level of organisation and 2(c) Biological molecules, including food tests and enzyme practicals.
+
+**What should you include when stating a food test result?**
+State the starting colour as well as the positive colour.
+
+**What units should a rate have in an enzyme practical?**
+Give rate as 1 ÷ time with the unit s⁻¹. Leaving off the unit loses marks.
+
+**Should anomalous repeats be included in a mean?**
+No. Leave out anomalous repeats when calculating a mean.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Topic 2, Structures and functions in living organisms: sub-topics (a) Level of organisation and (c) Biological molecules.

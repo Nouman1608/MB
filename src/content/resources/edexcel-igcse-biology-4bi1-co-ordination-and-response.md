@@ -351,6 +351,23 @@ ADH links back to homeostasis of body water content. If the blood becomes too co
 
 Condense this into the [revision notes](/resources/edexcel-igcse-biology-4bi1-co-ordination-and-response-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi1-co-ordination-and-response-practice/). The [free diagnostics](/diagnostics/) show which topics need most work.
 
+## Frequently asked questions
+
+**What is homeostasis?**
+Homeostasis is the maintenance of a constant internal environment, such as body water content and body temperature.
+
+**How do impulses cross a synapse?**
+An impulse reaches the end of the first neurone, a neurotransmitter is released, diffuses across the gap and changes the activity of the next neurone. Transmission is one-way because neurotransmitter is released from one side only.
+
+**How does the pupil respond to bright light?**
+The circular muscles of the iris contract and the radial muscles relax, so the pupil gets smaller and less light enters.
+
+**Do blood vessels move closer to the skin when you are hot?**
+No. Arterioles supplying the skin capillaries dilate (vasodilation), so more blood flows near the surface. The vessels do not move.
+
+**What does ADH do?**
+ADH from the pituitary gland makes the collecting ducts more permeable to water, so more water is reabsorbed into the blood. This is Paper 2 only content.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Topic 2, Structures and functions in living organisms, sub-topic (j) Co-ordination and response.

@@ -235,6 +235,23 @@ Worked reminder: 36 cells in mitosis out of 240 gives 36 / 240 = 0.15, or 15%. I
 </figure>
 
 
+## Frequently asked questions
+
+**What are the stages of meiosis?**
+In prophase I homologous chromosomes pair and cross over; in metaphase I homologous pairs line up; in anaphase I homologous chromosomes are pulled apart; meiosis II then separates chromatids, giving four genetically different haploid cells.
+
+**How do linked genes show up in a test cross?**
+A test cross of a double heterozygote gives two large parental classes and two small recombinant classes. A smaller recombinant frequency means the loci are closer together.
+
+**What happens in fertilisation in a flowering plant?**
+A pollen tube grows to the ovule and the generative nucleus divides into two male nuclei. One fuses with the egg nucleus to give the diploid zygote; the other fuses with two polar nuclei to give the triploid endosperm.
+
+**How do you calculate the mitotic index?**
+Count all cells in the field, including interphase cells, count those in any stage of mitosis, and divide mitotic cells by total cells.
+
+**What is Core Practical 6?**
+A root tip squash: cut the actively dividing tip, soften it with warm acid, stain the DNA, squash it into one layer of cells and identify the stages of mitosis.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology specification, Issue 2, February 2021 (Pearson Education Limited), statements 3.9 to 3.16 and Core Practical 6.

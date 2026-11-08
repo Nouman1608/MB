@@ -166,6 +166,20 @@ These questions cover subtopic 3.2, **Factors that affect enzyme action**, from 
 - Course hub: [Cambridge A Level Biology](/boards/cambridge/a-level/biology/) and [printable checklist](/checklists/cambridge/a-level/biology/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you read Km from a graph?**
+Estimate Vmax from the level the curve approaches, halve it, then read across to the curve and down to find the substrate concentration. Reading Km at half the highest measured rate, when the curve has not levelled off, loses marks.
+
+**How do you identify the type of inhibitor from data?**
+Compare the effect of the inhibitor at low and high substrate concentrations and quote the figures as evidence. Naming an inhibitor type without evidence from the data loses marks.
+
+**How should you explain pH effects on enzymes?**
+Mention H⁺ ions and the charges on R groups, and link changes in bonding to the shape of the active site.
+
+**What units should a rate from a tangent have?**
+Give the units of the quantity measured per unit time, such as cm³ s⁻¹. Leaving units off a rate is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge International: Topic 3 Enzymes, subtopic 3.2 Factors that affect enzyme action, learning outcomes 1–4.

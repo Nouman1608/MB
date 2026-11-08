@@ -230,6 +230,23 @@ Always make a judgement in "evaluate" answers, using data if given.
 - Mixing up the first and second plate counts in a replica-plating subtraction.
 - Dropping units, such as bp or µg, in calculations.
 
+## Frequently asked questions
+
+**How is recombinant DNA made?**
+Obtain the gene, cut the gene and plasmid with the same restriction endonuclease, let the complementary sticky ends anneal by hydrogen bonding, then seal the backbone with DNA ligase, making sure there is a promoter that works in the host.
+
+**Why is cDNA used to put human genes into bacteria?**
+cDNA is made from mRNA by reverse transcriptase, so it contains no introns. Bacteria cannot remove introns.
+
+**What is insertional inactivation?**
+The new gene is inserted into a resistance gene on the plasmid, inactivating it. Cells that have taken up the recombinant plasmid lose that resistance, which identifies them.
+
+**How does a microarray show gene activity?**
+mRNA is extracted and made into fluorescent cDNA, which hybridises to complementary probes. A brighter spot shows more mRNA, so the gene is more active.
+
+**What is bioinformatics?**
+Bioinformatics is the use of computer analysis on large biological datasets, mainly sequences, for example to compare a new sequence with database entries.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited.

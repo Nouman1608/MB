@@ -179,6 +179,20 @@ Learn it first: [Proteins study guide](/resources/a-level-biology-9700-proteins/
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover section 2.3 Proteins, part of Topic 2 Biological molecules, including amino acids, protein structure, haemoglobin and collagen.
+
+**Are these Cambridge past paper questions?**
+No. They are original questions written for revision and practice, with mark-by-mark answers. Use them alongside official past papers.
+
+**Does magnification have units?**
+No. Give magnification without units, and convert mm to nm before dividing in electron micrograph calculations.
+
+**What should you check when drawing an amino acid?**
+Show both hydrogens on the amine group and the –OH of the carboxyl group. Missing atoms are a common way to lose drawing marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.3 Proteins).

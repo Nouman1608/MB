@@ -259,6 +259,23 @@ For a plant cell that lost water, add the state: flaccid, or plasmolysed if the 
 - Comparing raw mass changes instead of percentage change when starting masses differ.
 - Naming "concentration" as a control variable in the potato practical; it is the independent variable.
 
+## Frequently asked questions
+
+**What is the difference between diffusion and osmosis?**
+Osmosis is the diffusion of water through a partially permeable membrane. Diffusion can involve any particles and does not need a membrane.
+
+**What is the difference between a flaccid and a plasmolysed cell?**
+A flaccid cell has lost water and is no longer firm. A plasmolysed cell has lost so much water that the cytoplasm and membrane have pulled away from the cell wall.
+
+**What happens to an animal cell and a plant cell in water?**
+An animal cell takes in water by osmosis and may burst. A plant cell becomes turgid but does not burst, because of its cell wall.
+
+**Why is percentage change in mass used in the potato cylinder practical?**
+Starting masses differ, so percentage change allows a fair comparison between cylinders.
+
+**What does the zero point on an osmosis graph show?**
+Where the line crosses zero change in mass, there is no net movement of water, so the solution has the same concentration as the cell contents.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, published by Pearson Education Limited: Topic 2, Structures and functions in living organisms, sub-topic (d) Movement of substances into and out of cells, points 2.15–2.17.

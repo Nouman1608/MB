@@ -203,6 +203,23 @@ After death, ATP is no longer made. Calcium ions stay in the sarcoplasm and cros
 - Naming a pair of muscles without saying which one relaxes.
 - Calling fast fibres red or slow fibres pale.
 
+## Frequently asked questions
+
+**What do calcium ions do in muscle contraction?**
+Calcium ions released from the sarcoplasmic reticulum cause tropomyosin to move, exposing the binding sites on actin so myosin heads can bind. They do not bind to actin or myosin directly.
+
+**What is phosphocreatine used for?**
+Phosphocreatine gives its phosphate to ADP to regenerate ATP quickly: phosphocreatine + ADP → creatine + ATP. It is not a respiratory substrate.
+
+**Why does rigor mortis happen?**
+After death ATP is no longer made, so myosin heads cannot detach from actin and the muscles stay contracted.
+
+**How do antagonistic muscles work at the elbow?**
+Muscles can only pull. To bend the arm the biceps (flexor) contracts and the triceps (extensor) relaxes; to straighten it the triceps contracts and the biceps relaxes.
+
+**How do you calculate the I band from a micrograph?**
+Find the actual sarcomere length by dividing the image length by the magnification, then subtract the A band length to get the I band in one sarcomere.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, AQA. Section 3.6.3, Skeletal muscles are stimulated to contract by nerves and act as effectors (A-level only).

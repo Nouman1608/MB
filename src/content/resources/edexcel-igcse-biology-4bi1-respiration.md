@@ -275,6 +275,23 @@ Always include the unit (°C per day) and use the same time unit given in the qu
 
 Condense this with the [revision notes](/resources/edexcel-igcse-biology-4bi1-respiration-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi1-respiration-practice/). For more on the cell structures involved, use the [cell structure practice questions](/resources/edexcel-igcse-biology-cell-structure-practice/).
 
+## Frequently asked questions
+
+**What is respiration?**
+Respiration is a set of chemical reactions in living cells that releases energy from glucose. It happens in every living cell, in plants and animals, and is controlled by enzymes.
+
+**Is respiration the same as breathing?**
+No. Breathing moves air in and out of the lungs; respiration is a chemical process in cells.
+
+**Is yeast a plant?**
+No. Yeast is a fungus, but it uses the same anaerobic pathway as plants, producing ethanol and carbon dioxide.
+
+**How can you show that respiring organisms release carbon dioxide?**
+Put organisms such as germinating seeds above hydrogen-carbonate indicator in a sealed tube, with a control of dead seeds or glass beads, and record the colour change over time.
+
+**Why is a vacuum flask used in the heat practical?**
+The vacuum flask insulates the peas, so the heat released by respiration is not lost and the temperature rise can be measured.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Section 2, Structure and functions in living organisms, sub-topic (f) Respiration, points 2.34–2.39.

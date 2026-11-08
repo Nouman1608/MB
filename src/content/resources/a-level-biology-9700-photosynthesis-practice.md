@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Eleven original photosynthesis questions with marked worked answers: Rf, photophosphorylation, Calvin cycle and limiting factors, for Cambridge 9700."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,6 +171,20 @@ Before you start, read the [photosynthesis study guide](/resources/a-level-biolo
 - [Printable Biology checklist](/checklists/cambridge/a-level/biology/)
 - [A Level Biology 9700 diagnostic](/practice/9700/diagnostic/a-level/), or [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Does Rf have units?**
+No. Rf is a ratio of two distances measured from the origin, so it has no units. Measure to the centre of each spot, not its edge.
+
+**Should you name the whole chloroplast as a site?**
+No. Name the specific site, such as the thylakoids or the stroma. Naming only the chloroplast is a common error.
+
+**How should you explain a plateau on a limiting factor graph?**
+Name the factor that is now limiting and use the data as evidence. Describing the plateau without naming a factor loses marks.
+
+**What should a planning answer say about controlled variables?**
+Say how each variable is kept constant, not just which variables are controlled.
 
 ## Official syllabus
 

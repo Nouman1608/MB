@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "structures-and-functions-in-living-organisms-edexcel-igcse-biology"
     subtopic: "cell-structure-4bi1"
-description: "Condensed revision notes on cell structures and functions, plant vs animal cells, and the three major biological molecules for Pearson Edexcel International GCSE Biology (4BI1)."
+description: "Condensed notes on cell structures and functions, plant and animal cells, biological molecules and enzymes for Pearson Edexcel International GCSE Biology 4BI1."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Related: [Cell structure and biological molecules study guide](/resources/igcse-edexcel-biology-cell-structure-and-biological-molecules/)
@@ -186,3 +188,19 @@ warmed back toward the optimum. 5. Glucose, starch, protein, fat (each with its 
   <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What structures do only plant cells have?**
+A cell wall, chloroplasts and a large permanent vacuole. Never say that animal cells have a cell wall.
+
+**What are the building blocks of biological molecules?**
+Starch and glycogen are made of simple sugar units, proteins of amino acids, and lipids of fatty acids and glycerol.
+
+**Is stem cell content on both Edexcel 4BI1 papers?**
+No. Cell differentiation and stem cells (2.5B–2.6B) are Paper 2 only and not in the Science Double Award.
+
+**What happens to enzymes at extreme temperature or pH?**
+Activity increases towards an optimum, but at high temperature or extreme pH the enzyme is denatured: the active site changes shape and the substrate no longer fits.
+
+**What should you always state about a cell structure?**
+State both what the structure is and what it does. Giving only one of these loses marks.

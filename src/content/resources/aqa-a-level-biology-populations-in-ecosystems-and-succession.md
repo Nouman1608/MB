@@ -200,6 +200,23 @@ You could investigate the growth rate of a broth culture, such as yeast, using t
 
 Related: [biodiversity](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming/), [energy transfer](/resources/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems/) and [nutrient cycles](/resources/aqa-a-level-biology-nutrient-cycles-and-fertilisers/).
 
+## Frequently asked questions
+
+**How do you estimate a population by mark-release-recapture?**
+Capture, count and mark a first sample (n₁), release it, then capture a second sample (n₂) and count the marked animals (m). The estimate is N = (n₁ × n₂) ÷ m.
+
+**What assumptions does mark-release-recapture make?**
+No immigration, emigration, births or deaths between samples; marked animals mix fully; marking does not change survival or behaviour; marks are not lost; and every animal has the same chance of being caught.
+
+**What happens during primary succession?**
+Pioneer species such as lichens colonise bare rock, soil forms, new colonisers arrive and a climax community develops. At each stage species change the environment so that it becomes more suitable for others.
+
+**How can conservation manage succession?**
+Grazing or mowing stops scrub growing on grassland, coppicing lets light into woodland, and removing invading scrub keeps heathland, holding the community at an earlier stage.
+
+**When should you use a belt transect?**
+Use a belt transect to show how abundance changes along a gradient, such as from open ground into woodland.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), for first teaching 2015: section 3.7.4, Populations in ecosystems (A-level only), and required practical 12.

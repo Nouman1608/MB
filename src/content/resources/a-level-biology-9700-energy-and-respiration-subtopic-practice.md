@@ -200,6 +200,20 @@ They do not repeat the [topic-level respiration practice set](/resources/a-level
 - [A Level Biology 9700 diagnostic](/practice/9700/diagnostic/a-level/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is coenzyme A an enzyme?**
+No. Coenzyme A carries acetyl groups to the Krebs cycle; calling it an enzyme loses marks.
+
+**What radius do you use to find gas volume in a respirometer?**
+Use the radius of the capillary bore in πr² × distance moved. Using the bore diameter as the radius is a frequent mistake.
+
+**How are these Cambridge 9700 respiration questions organised?**
+They work through subtopics 12.1 (Energy) and 12.2 (Respiration), with the learning outcomes tested given at the start of each question.
+
+**Are these Cambridge 9700 past paper questions?**
+No. They are original questions written for revision and practice, and they do not repeat the topic-level respiration practice set. Use them alongside official past papers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge Assessment International Education (Cambridge University Press & Assessment). Topic 12, Energy and respiration, subtopics 12.1 and 12.2.

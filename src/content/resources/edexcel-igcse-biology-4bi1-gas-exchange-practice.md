@@ -163,6 +163,20 @@ Learn the content first with the [gas exchange study guide](/resources/edexcel-i
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topic (g), Gas exchange, in flowering plants and humans, including ventilation, alveoli, smoking and practicals.
+
+**How should you describe alveolus features?**
+Give the effect of each feature on gas exchange, not just a list of features.
+
+**Does a correlation in smoking data prove cause?**
+No. A correlation shows a link but not proof of cause.
+
+**What units should surface area answers have?**
+Give units such as m² or cm². Leaving units off surface-area or volume answers loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3 (first teaching September 2017, first examination June 2019), published by Pearson Education Limited. Topic 2, sub-topic (g) Gas exchange, points 2.40B–2.50.

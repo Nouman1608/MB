@@ -9,13 +9,15 @@ qualifications: ["gcse"]
 syllabusCodes: ["8461"]
 syllabusSeries: "For first teaching 2016"
 order: 1
-description: "Paper-by-paper exam preparation for AQA GCSE Biology 8461 -- Foundation/Higher tier strategy, required-practicals revision, AO1/AO2/AO3 balance, a worked six-mark answer and a checklist."
+description: "How AQA GCSE Biology 8461 Papers 1 and 2 work: tier choice, required practicals, AO1 to AO3 balance, command words, a worked six-mark answer and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 AQA GCSE Biology (8461) is assessed through two written papers, each sat at Foundation or Higher
@@ -126,3 +128,20 @@ too slow."
 scenario above is an original example written for this resource, not a reproduction of any official
 past or sample paper question. Always check the current specification for your examination year at
 [aqa.org.uk](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/specification-at-a-glance).*
+
+## Frequently asked questions
+
+**How many papers are there in AQA GCSE Biology 8461?**
+Two written papers, each 1 hour 45 minutes and 100 marks (50%). Paper 1 covers Topics 1–4 and Paper 2 covers Topics 5–7, both at Foundation or Higher tier.
+
+**What grades do Foundation and Higher tier target?**
+Foundation tier targets grades 1–5 and Higher tier targets grades 4–9, with separate question papers covering the same topics.
+
+**Are the required practicals examined in the written papers?**
+Yes. All 10 required practicals are assessed within the written papers, so revise their methods, controlled variables and sources of error.
+
+**What are AO1, AO2 and AO3 in AQA GCSE Biology?**
+AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and evaluation. They are weighted roughly 40%, 40% and 20%.
+
+**What is the difference between "describe" and "explain"?**
+"Describe" asks for an accurate account of what happens. "Explain" asks for a reasoned account of why it happens.

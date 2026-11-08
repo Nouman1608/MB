@@ -308,6 +308,23 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 - Swapping the hepatic vein and the hepatic portal vein.
 - In heart rate calculations, forgetting to scale a 15-second or 20-second count to one minute.
 
+## Frequently asked questions
+
+**Why do multicellular organisms need transport systems?**
+They have a small surface area to volume ratio, so diffusion across the body surface is too slow. Unicellular organisms have a large ratio and do not need one.
+
+**What is transpiration?**
+Transpiration is the evaporation of water from the surface of a plant, mainly through the stomata, which pulls water up the xylem.
+
+**How are red blood cells adapted?**
+Their biconcave shape gives a large surface area to volume ratio, they have no nucleus, so there is more space for haemoglobin, and haemoglobin combines with oxygen to form oxyhaemoglobin.
+
+**What is the difference between phagocytes and lymphocytes?**
+Phagocytes ingest and digest pathogens. Lymphocytes release antibodies specific to the pathogen.
+
+**Why is the left ventricle wall thicker?**
+The left ventricle pumps blood at higher pressure all around the body, while the right ventricle pumps blood only to the lungs.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1), Specification, Issue 3, September 2024, Pearson Education Limited: Topic 2, sub-topic (h) Transport, points 2.51–2.69.

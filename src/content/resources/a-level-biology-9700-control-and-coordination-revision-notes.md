@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Cambridge 9700 control and coordination revision notes: neurones, action potentials, synapses, sliding filaments and plant responses, plus a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes cover topic 15, Control and coordination, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: section 15.1 (outcomes 1–12) and section 15.2 (outcomes 1–3). This is **A Level content**, examined on Paper 4 alongside AS knowledge, and it may set the context for Paper 5. For full explanations and worked examples, use the [control and coordination study guide](/resources/a-level-biology-9700-control-and-coordination/).
@@ -250,6 +252,23 @@ motor neurone → neuromuscular junction (ACh) → sarcolemma depolarised
 - Confusing **troponin** and **tropomyosin**.
 - Describing auxin as causing cell division rather than **elongation** by acidifying the cell wall.
 - Forgetting to convert ms to s before calculating frequency.
+
+## Frequently asked questions
+
+**What does the refractory period do?**
+It keeps action potentials discrete, makes them travel in one direction only, and sets a maximum frequency of impulses.
+
+**What is the difference between voltage-gated and ligand-gated channels?**
+Voltage-gated channels open when the membrane potential changes, such as Na⁺ and K⁺ channels on the axon and Ca²⁺ channels at the presynaptic knob. Ligand-gated channels open when a chemical binds, such as the Na⁺ channels on the postsynaptic membrane that open when acetylcholine binds.
+
+**Is ATP needed for myosin to attach to actin?**
+No. ATP binding makes the myosin head detach from actin, and hydrolysis of ATP re-cocks the head. Saying ATP is needed for attachment is a common error in Cambridge 9700 answers.
+
+**What is the difference between troponin and tropomyosin?**
+Troponin binds Ca²⁺ and changes shape; tropomyosin is the protein that blocks the myosin-binding sites on actin until it is moved aside.
+
+**How does auxin cause plant growth?**
+Auxin causes cell elongation by acidifying the cell wall, which loosens it. It is not described as causing cell division for this outcome.
 
 ## Official syllabus
 

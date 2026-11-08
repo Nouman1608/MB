@@ -233,6 +233,23 @@ Aim: use aseptic techniques to investigate the effect of antimicrobial substance
 </figure>
 
 
+## Frequently asked questions
+
+**What are the steps of natural selection?**
+Variation exists because of different alleles; a random mutation can produce a new allele; a selection pressure means carriers of an advantageous allele reproduce more; the allele is inherited; and over many generations its frequency increases.
+
+**Do bacteria mutate because of the antibiotic?**
+No. The resistance allele arose by random mutation before the antibiotic was used. The antibiotic acts as the selection pressure.
+
+**What are the three types of adaptation?**
+Anatomical, physiological and behavioural. In an unfamiliar organism, identify the feature, say which type it is and explain how it helps survival.
+
+**What is Required Practical 6 in AQA A-level Biology?**
+It uses aseptic techniques to investigate the effect of antimicrobial substances on microbial growth, by measuring clear zones around discs on a bacterial lawn.
+
+**How do you read a logarithmic scale?**
+Equal steps on a log scale are equal multiples, not equal additions. On a log₁₀ scale each step of 1 is a tenfold change.
+
 ## Official syllabus
 
 This page follows the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, published by AQA, section 3.4.4 and required practical 6.

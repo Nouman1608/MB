@@ -136,6 +136,20 @@ Use the [study guide](/resources/a-level-aqa-biology-eukaryotic-and-prokaryotic-
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.2.1.2, Structure of prokaryotic cells and of viruses, in AQA AS and A-level Biology (7401/7402).
+
+**Are these AQA past paper questions?**
+No. They are original questions written for revision and practice, and they do not copy the exam's structure, question count or mark tariffs. Use them alongside official past papers.
+
+**Why should you use the specification's exact terms for virus structure?**
+Using the specification's own terms avoids answers that describe a virus as if it were a cell, for example calling its protein coat a cell wall or a membrane.
+
+**How do you answer a comparison question on bacteria and viruses?**
+State each difference for both sides, for example "the bacterium has a feature, whereas the virus has none". A one-sided list can leave the comparison unclear.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, version 1.5, 26 November 2021, section 3.2.1.2 Structure of prokaryotic cells and of viruses. Published by AQA.

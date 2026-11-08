@@ -177,6 +177,20 @@ These questions differ from the [topic-level practice set](/resources/a-level-bi
 - Free 10-minute [9700 AS diagnostic](/practice/9700/diagnostic/as/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of the Cambridge 9700 syllabus do these questions cover?**
+They cover sections 8.1 to 8.3 of Topic 8, Transport in mammals: blood cells, tissue fluid, carbon dioxide transport, the dissociation curve and the cardiac cycle.
+
+**What are the rules for a plan diagram of a blood vessel?**
+Draw tissue-layer outlines only, with no individual cells and no shading, and keep the layers in the correct proportions.
+
+**How should you explain when heart valves open and close?**
+Compare the pressures on either side of the valve. Stating valve positions without comparing pressures does not earn full credit.
+
+**How is this set different from the topic-level transport in mammals questions?**
+This set works through sections 8.1 to 8.3 by subtopic, while the topic-level set takes different angles on the same content.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for 2025, 2026 and 2027, Cambridge International (Cambridge University Press & Assessment). Topic 8, Transport in mammals, sub-topics 8.1, 8.2 and 8.3.

@@ -13,13 +13,15 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "cell-structure-cambridge-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on organelles, microscopy, magnification, viruses and cell comparison for Cambridge A Level Biology 9700."
+description: "Cambridge 9700 practice questions with worked answers on organelles, protein secretion, magnification, graticule calibration, viruses and cell walls."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -125,3 +127,17 @@ Related: [Cell Structure revision notes](/resources/a-level-biology-cell-structu
 - Confusing magnification with resolution.
 - Stating electron microscopy has "better resolution" without linking this to the shorter wavelength of electrons.
 - Describing an organelle's appearance without linking its structure to its function.
+
+## Frequently asked questions
+
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 1 Cell structure: organelles, microscopy, magnification, viruses and comparing cell types.
+
+**What is a common mistake in magnification calculations?**
+Failing to convert units so that the image size and actual size are in the same unit before dividing.
+
+**Do prokaryotes have organelles?**
+Prokaryotes have no membrane-bound organelles, but they do have ribosomes. Saying they have "no organelles" is a common error.
+
+**How should you describe an organelle in an exam answer?**
+Link its structure to its function. Describing an organelle's appearance without this link earns fewer marks.

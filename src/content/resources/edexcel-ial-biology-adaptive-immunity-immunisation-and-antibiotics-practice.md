@@ -140,6 +140,20 @@ These questions cover statements 6.10 to 6.15 (B and T cells, types of immunity,
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 6.10 to 6.15 of Pearson Edexcel International A Level Biology (YBI11), on B and T cells, immunity types, antibiotics and hospital infections.
+
+**What should a Core Practical 14 method include?**
+Include a control disc, the inverted plate and the safety measures. Missing any of these is a common way to lose marks.
+
+**How should you compare hospital infections when patient-days differ?**
+Calculate an infection rate per 1000 patient-days rather than comparing raw infection counts.
+
+**What should you link a hospital practice to?**
+Link each practice to the cause of infection it addresses. Naming a practice with no link loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

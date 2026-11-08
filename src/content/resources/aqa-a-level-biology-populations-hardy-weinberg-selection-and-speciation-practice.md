@@ -152,6 +152,20 @@ These questions cover AQA A-level Biology (7402) sections 3.7.2 and 3.7.3 (A-lev
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.7.2 (Populations) and 3.7.3 (Evolution may lead to speciation) of AQA A-level Biology 7402.
+
+**What should you do if observed genotypes differ from Hardy–Weinberg predictions?**
+Name the condition that has probably been broken, rather than only saying the numbers differ.
+
+**Does genetic drift improve survival?**
+No. Genetic drift is a random change in allele frequency. Describing drift as if it improves survival is a common error.
+
+**Should you give a final answer in Hardy–Weinberg calculations?**
+Yes. Give a clear final value, and do not mix up frequencies with numbers of individuals.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, published by AQA: sections 3.7.2 and 3.7.3.

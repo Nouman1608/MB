@@ -170,6 +170,20 @@ so use both. The course hub is [AQA GCSE Biology](/boards/aqa/gcse/biology/), an
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which section of the AQA GCSE Biology 8461 specification do these questions cover?**
+They cover section 4.1.3 Transport in cells: diffusion, surface area to volume ratio, osmosis, Required Practical 3 and active transport.
+
+**How should a percentage loss in mass be written?**
+Keep the minus sign for a loss and divide by the initial mass, not the final mass.
+
+**What should you link an exchange surface adaptation to?**
+Link each adaptation to how it increases the rate of exchange. Naming an adaptation with no link loses marks.
+
+**What units should a rate have?**
+Give an amount per unit time, such as grams per minute. A rate without a unit, or in the wrong unit, loses marks.
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, for first teaching 2016 and exams from 2018 onwards, published by AQA --

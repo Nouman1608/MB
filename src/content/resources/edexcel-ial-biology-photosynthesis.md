@@ -224,6 +224,23 @@ Making a 0.05 mol dm⁻³ solution from a 0.10 mol dm⁻³ stock: 25 cm³ stock 
 - Mixing up absorption and action spectra. One measures absorbed light, the other measures rate.
 - Measuring Rf to the edge of a spot, or using ink for the origin.
 
+## Frequently asked questions
+
+**Where does the oxygen released in photosynthesis come from?**
+It comes from water, by photolysis in the light-dependent reactions, not from carbon dioxide.
+
+**What are the products of the light-dependent reactions?**
+Non-cyclic photophosphorylation produces ATP, reduced NADP and oxygen. Cyclic photophosphorylation produces ATP only.
+
+**What are the stages of the Calvin cycle?**
+CO₂ combines with RuBP, catalysed by RUBISCO, to give two GP. GP is reduced to GALP using ATP and reduced NADP, and most GALP is used to regenerate RuBP.
+
+**What is the difference between an absorption spectrum and an action spectrum?**
+An absorption spectrum shows how much light a pigment absorbs at each wavelength. An action spectrum shows the rate of photosynthesis at each wavelength.
+
+**How does light intensity change with lamp distance?**
+Light intensity is proportional to 1 ÷ distance². Halving the distance makes the light four times more intense.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

@@ -254,6 +254,23 @@ For a comparison, write the virus and the bacterium in the same sentence, for ex
 - Calculating a percentage fall against the final value instead of the starting value.
 - Describing a viral life cycle without saying where the host cell machinery is used.
 
+## Frequently asked questions
+
+**Which four viruses do you need for Edexcel IAL Biology?**
+The guide's four named viruses are Ebola, HIV, TMV and lambda phage. Three have RNA and lambda phage has DNA.
+
+**What is the difference between a lytic infection and latency?**
+In a lytic infection the virus replicates at once and bursts the host cell. In latency the viral genetic material is in the host but makes no new viruses, and it can later switch to the lytic cycle.
+
+**How does HIV infect cells?**
+HIV attachment proteins bind to CD4 on helper T cells and macrophages, the envelope fuses with the cell membrane, reverse transcriptase makes DNA from viral RNA, and the DNA is integrated as a provirus.
+
+**What does interferon do?**
+Interferon is released by a virus-infected cell and makes neighbouring cells more resistant to viral infection. It does not kill viruses.
+
+**What are the four actions of antibodies?**
+Agglutination, neutralising toxins, blocking attachment sites on pathogens, and opsonisation, which marks pathogens for phagocytes.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification Issue 2, published by Pearson Education Limited, Topic 6, statements 6.5 to 6.9.
