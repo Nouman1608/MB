@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-programming"
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-aqa-alevel-cs"
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-paradigms-aqa-alevel-cs"
 description: "Condensed recall notes on data types, constructs, arrays, subroutines, OOP and testing for AQA A Level Computer Science 7517."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-programming"
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-aqa-alevel-cs"
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-paradigms-aqa-alevel-cs"
 description: "Topic 1 Fundamentals of programming (4.1) for AQA A-Level Computer Science (7517): data types, programming concepts and operations, exception handling, subroutines, stack frames and recursion (4.1.1), and the procedural-oriented and object-oriented paradigms, including class diagrams (4.1.2)."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

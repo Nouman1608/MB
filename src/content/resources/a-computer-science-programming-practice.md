@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-programming"
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-aqa-alevel-cs"
 description: "Original exam-style practice questions with full worked answers on data types, control structures, procedures, functions and scope."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
