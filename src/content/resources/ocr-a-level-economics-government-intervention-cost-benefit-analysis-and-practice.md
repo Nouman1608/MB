@@ -150,6 +150,23 @@ These questions cover the OCR A Level Economics (H460) topics "Alternative metho
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you find the price consumers pay after an indirect tax?**
+Shift the supply equation by the tax, write it out, then solve with demand to find the new equilibrium. Treating the whole tax as the rise in price is a common error, since the burden is usually shared between consumers and producers.
+
+**How do you calculate the cost of a subsidy per additional unit?**
+Divide the total cost of the subsidy by the extra quantity it causes, not by the total quantity. This shows how much of the spending pays for units that would have been bought anyway.
+
+**How does a buffer stock scheme work?**
+A buffer stock agency buys when the price would fall below a floor and sells when it would rise above a ceiling. The amount traded is the gap between quantity demanded and quantity supplied at the floor or ceiling price.
+
+**Which OCR A Level Economics topics cover government intervention and government failure?**
+"Alternative methods of government intervention" and "Government failure" are topics in the OCR A Level Economics (H460) specification, within Market failure and government intervention in Component 1.
+
+**When is a policy government failure?**
+A policy is government failure when intervention fails to improve resource allocation or makes it worse. Compare the outcome with doing nothing before using the term, because an imperfect policy can still be better than the original market failure.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), for first assessment in 2021, published by OCR. Topics: "Alternative methods of government intervention" and "Government failure".

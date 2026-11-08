@@ -211,6 +211,23 @@ Ownership and legal form; the gap between ownership and control; strength of com
 - Quoting a number without its unit, such as £ thousand, £ million or a percentage sign.
 - Naming a solution to the principal-agent problem but not saying how it changes the agent's incentive.
 
+## Frequently asked questions
+
+**What are the assumptions behind profit maximisation?**
+The firm is assumed to know its demand and cost curves, to have profit as its only aim, to be controlled by its owners, to act rationally by calculating MR and MC, and to face no conflict between short-run and long-run profit. Each assumption often fails in practice.
+
+**What is sales volume maximisation?**
+Sales volume maximisation is producing the largest output at which price is at least equal to average cost, so profit is at least zero. It gives a higher output and lower price than profit maximisation or revenue maximisation with a profit constraint.
+
+**What is satisficing?**
+Satisficing is aiming for a satisfactory level of profit and then pursuing other goals. It is realistic when information is poor and goals compete, but "satisfactory" is vague, so the theory predicts less precisely.
+
+**How can the principal-agent problem be reduced?**
+Solutions include performance-related pay, share options, long-term bonuses, audits, non-executive directors, shareholder votes on pay and the threat of takeover. Each has limits, such as monitoring costs, manipulation of profits and bonuses that encourage short-term focus.
+
+**What factors influence a firm's choice of objectives?**
+In OCR A Level Economics (H460), useful factors are ownership and legal form, the gap between ownership and control, strength of competition, stage of the business, financial health, stakeholder pressure and economic conditions. The judgement usually turns on who holds control and what constrains them.
+
 ## Official syllabus
 
 The source document is the OCR *A Level in Economics (H460)* specification, version 3.0 (June 2026), first assessment in 2021, published by OCR.

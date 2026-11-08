@@ -246,6 +246,23 @@ For any of these, finish with a judgement. Say whether the externality is large 
 - Evaluation that lists points without a judgement or without weighing size, timing and measurement.
 - Calling a monopoly inefficient with no mention of scale economies or dynamic gains.
 
+## Frequently asked questions
+
+**What is the difference between static and dynamic efficiency?**
+Static efficiency is efficiency at one point in time, given resources and technology. Dynamic efficiency is efficiency over time through investment and innovation that shift cost curves down; its gains are real but arrive later and are uncertain.
+
+**What are the four types of externality?**
+They are negative externalities of production (MSC above MPC), negative externalities of consumption (MSB below MPB), positive externalities of consumption (MSB above MPB) and positive externalities of production (MSC below MPC). Negative externalities lead to over-production or over-consumption, positive ones to under-production or under-consumption.
+
+**How is MSC calculated?**
+Marginal social cost equals marginal private cost plus marginal external cost. In the same way, marginal social benefit equals marginal private benefit plus marginal external benefit.
+
+**Which market structures are allocatively and productively efficient?**
+Perfect competition is allocatively efficient and productively efficient in the long run. Monopolistic competition is neither in the long run, oligopoly is usually not allocatively efficient, and monopoly is not allocatively efficient and often not productively efficient, though scale economies may help.
+
+**How do you write a market failure answer?**
+State that the market sets output where private benefit equals private cost, identify the missing third-party cost or benefit, show that MSB differs from MSC so output is too high or too low, and name the welfare loss.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021. Component 1 Microeconomics: Productive and allocative efficiency, Market failure and Externalities.

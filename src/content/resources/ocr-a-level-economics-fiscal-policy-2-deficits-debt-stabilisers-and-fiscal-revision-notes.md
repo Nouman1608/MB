@@ -227,6 +227,23 @@ Judgement depends on the ratio to GDP, use of the borrowing (capital or current)
 - Evaluating fiscal rules with only generalities such as "they can be broken".
 - Forgetting to link a conclusion to the question's context or time frame.
 
+## Frequently asked questions
+
+**How can a government finance a budget deficit?**
+It can sell bonds and bills to the public, borrow from the central bank (which creates money and risks inflation), sell state assets or draw on cash balances. Bond sales add to debt and may push up interest rates.
+
+**What are automatic stabilisers?**
+Automatic stabilisers are parts of the budget, such as progressive taxes and unemployment benefits, that offset swings in output without any new government decision. In a boom tax receipts rise and benefits fall, cooling demand; in a recession the reverse supports demand.
+
+**What is the difference between crowding out and crowding in?**
+Crowding out happens when government borrowing raises interest rates or competes for resources, reducing private spending. Crowding in happens when government spending raises confidence, sales or the returns on private projects, increasing private investment.
+
+**What decides whether a debt-to-GDP ratio rises or falls?**
+The ratio depends on the interest rate on debt relative to nominal growth and on the primary balance. When the interest rate is above the growth rate, a primary surplus is needed just to hold the ratio steady.
+
+**Is high government debt always harmful?**
+Not always. Costs include interest payments, higher future taxes, crowding out and loss of lender confidence, but debt is more manageable if it funds investment, is held domestically in the country's own currency and growth exceeds the interest rate.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460) specification, version 3.0 (June 2026), for first assessment in 2021, published by OCR.

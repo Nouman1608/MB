@@ -245,6 +245,23 @@ A fall of £3 cuts surplus by 7.5. Check: rectangle 2 × 3 = 6 plus triangle ½ 
 - Describing consumer surplus in words only, with no reference to the area on the diagram.
 - Stopping at "surplus rises" in an evaluation question, without weighing who gains, why price moved and what the model leaves out.
 
+## Frequently asked questions
+
+**What is the difference between a contraction in demand and a decrease in demand?**
+A contraction in demand is a movement along the demand curve caused by a rise in the good's own price. A decrease in demand is a leftward shift of the whole curve caused by another factor, such as a fall in income for a normal good.
+
+**What is the difference between joint demand and joint supply?**
+Joint demand is about buyers: complements bought together, such as cameras and memory cards. Joint supply is about producers: one process yields two products, such as beef and hides.
+
+**How do you calculate the change in consumer surplus when price falls?**
+Split the change into a rectangle and a triangle. The rectangle is the original quantity times the price fall, which is the gain to existing buyers, and the triangle is half the extra quantity times the price fall, which is the gain on new units bought.
+
+**Why does the demand curve slope downwards?**
+Marginal utility falls with each extra unit, so consumers buy more only at a lower price. A price fall also has a substitution effect, making the good cheaper relative to others, and an income effect, raising real income; for a normal good both raise quantity demanded.
+
+**Does a rise in price always reduce consumer surplus?**
+Not if the price rise comes from an increase in demand. When demand shifts right, consumer surplus can rise even though price is higher, so check why the price moved.
+
 ## Official syllabus
 
 OCR's *A Level Economics* specification (H460), published by OCR, Version 3.0 (June 2026), for first assessment in 2021. Sections used: the first part of the Supply and demand and the interaction of markets topic, in Component 1 (Microeconomics).

@@ -144,6 +144,23 @@ Read the [study guide](/resources/ocr-a-level-economics-income-and-wealth-distri
 - Find weak spots with the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between income and wealth?**
+Income is a flow received over a period of time, such as wages or interest. Wealth is a stock of assets owned at a point in time, such as property, shares and savings.
+
+**Why can mean and median pay differ?**
+The mean is pulled up or down by extreme values, such as one very high earner, while the median is the middle value. When pay is skewed, the median better represents a typical person.
+
+**Can relative poverty fall if everyone's income rises by the same percentage?**
+No. A uniform rise leaves the distribution unchanged, so the relative poverty line, a share of median income, rises too. Absolute poverty can fall because its line is fixed in real terms.
+
+**Which OCR A Level Economics topics cover inequality and UK trends?**
+"Income distribution and welfare" and "Trends in macroeconomic indicators" are topics in Component 2, Macroeconomics, of the OCR A Level Economics (H460) specification.
+
+**Why does a recovery need a larger percentage rise than the fall?**
+A percentage fall is measured from a higher starting level, while the recovery is measured from the lower level reached. So after real GDP falls by 8%, it needs to rise by more than 8% to return to its former level.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: Component 2, topics "Income distribution and welfare" and "Trends in macroeconomic indicators".

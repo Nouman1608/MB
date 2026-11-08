@@ -154,6 +154,23 @@ These questions test the topic Elasticity in Component 1, Microeconomics, of the
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate the change in revenue from a price change and PED?**
+Use PED to find the percentage change in quantity, then multiply the price and quantity factors rather than adding the percentages. For example, a 5% price rise with a 2% fall in quantity gives revenue of 1.05 x 0.98 = 1.029 times the original.
+
+**How do you find who bears an indirect tax?**
+Find the new equilibrium after the tax, then compare the rise in the price buyers pay with the fall in the price sellers receive. The less elastic side of the market bears more of the tax, so explain the split using PED and PES.
+
+**Why does the sign of YED and XED matter?**
+The sign carries the meaning. A negative YED identifies an inferior good, a positive XED identifies substitutes and a negative XED identifies complements, so dropping the sign leads to misclassification.
+
+**Which OCR A Level Economics component covers elasticity?**
+Elasticity is a topic within How competitive markets work in Component 1, Microeconomics, of the OCR A Level Economics (H460) specification.
+
+**How should you evaluate the usefulness of elasticities to a government and a firm?**
+Separate the two agents and judge which measure matters most to each, such as PED for a tax decision or YED for a firm's sales forecasts. Defining all four measures first, without evaluating, spends words without earning credit.
+
 ## Official syllabus
 
 Source document: OCR *A Level Economics* (H460) specification, Version 3.0, June 2026, first assessed in 2021. Content used: Component 1, How competitive markets work, topic Elasticity.

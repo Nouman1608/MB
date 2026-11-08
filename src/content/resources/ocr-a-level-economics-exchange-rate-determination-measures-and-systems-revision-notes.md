@@ -230,6 +230,23 @@ Which system is best depends on openness, institutions, reserves, the type of sh
 - Confusing nominal and real rates, so that a rise in prices is ignored.
 - Giving examples of hybrid systems without checking they are current.
 
+## Frequently asked questions
+
+**What is the difference between a nominal and a real exchange rate?**
+The nominal exchange rate is the market rate, not adjusted for prices. The real exchange rate adjusts the nominal rate for relative price levels, so it shows whether home goods are becoming dearer or cheaper abroad.
+
+**What causes a currency to appreciate under a floating system?**
+Higher relative interest rates, rising exports or inward investment, and speculation on a rise increase demand for the currency, shifting demand right. Higher relative inflation or a loss of confidence tend to cause depreciation instead.
+
+**What is a hybrid exchange rate system?**
+A hybrid system mixes fixed and floating features, such as a managed float, a band or target zone, a crawling peg or a basket link. Classifications change, so check the latest International Monetary Fund classification for current examples.
+
+**What is the difference between depreciation and devaluation?**
+Depreciation and appreciation describe a floating currency's value changing through market forces. Devaluation and revaluation describe an official resetting of a pegged rate.
+
+**What are the merits and drawbacks of a fixed exchange rate?**
+A fixed rate offers stability and discipline on inflation. Its drawbacks are the need for large reserves, the loss of interest rate freedom, the risk that the rate is set wrongly and exposure to speculative attack.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021, published by Oxford Cambridge and RSA Examinations.

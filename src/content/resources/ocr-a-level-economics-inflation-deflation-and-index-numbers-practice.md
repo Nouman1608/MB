@@ -150,6 +150,23 @@ These questions test the topic Inflation in Component 2, Macroeconomics, of the 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between disinflation and deflation?**
+Disinflation is a slowdown in the rate of inflation, so prices are still rising but more slowly. Deflation is a continuing fall in the average price level, meaning negative inflation; labelling slower inflation as deflation is a common error.
+
+**How do you calculate an inflation rate from index numbers?**
+Subtract the old index value from the new one, divide by the old value and multiply by 100. Using the new index value as the denominator is a frequent mistake.
+
+**How do you convert a nominal value into a real value?**
+Divide the nominal value by the price index for that year and multiply by 100 to express it in base-year prices. Then compare it with the earlier real value to see whether real pay or output has risen.
+
+**Which part of the OCR A Level Economics specification covers inflation?**
+Inflation is a topic in Economic policy objectives and indicators of macroeconomic performance, in Component 2 (H460/02), Macroeconomics, of the OCR A Level Economics (H460) specification.
+
+**Why do governments target low and stable inflation rather than zero?**
+A little inflation lets real wages adjust without cuts in money pay and keeps the economy away from the risks of deflation. Answers should explain why zero is not the target, not just describe low and stable inflation.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021, Component 2 (H460/02), Economic policy objectives and indicators of macroeconomic performance, topic Inflation.

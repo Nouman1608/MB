@@ -274,6 +274,23 @@ Falling demand → lower output → firms cut jobs → unemployment rises → in
 - Describing costs and benefits of growth without a judgement about which dominates and why.
 - Writing about the recession in general terms rather than chaining cause to effect.
 
+## Frequently asked questions
+
+**What is the difference between sustained and sustainable growth?**
+Sustained growth continues over a long period without being cut short by instability, such as high inflation or a balance of payments crisis. Sustainable growth does not damage the environment or deplete resources that future generations need.
+
+**How do you calculate growth over several years?**
+Multiply the yearly growth factors rather than adding the percentages. For example, growth of 1.5%, 2.0% and -0.5% gives 1.015 x 1.02 x 0.995 = 1.0301, so cumulative growth is about 3.01%.
+
+**What is the difference between actual and potential growth?**
+Actual growth is a rise in actual output that uses up spare capacity, shown by AD shifting right or a move from inside the PPF to the curve. Potential growth is a rise in capacity, shown by LRAS shifting right or the PPF moving outwards.
+
+**Does GDP overstate or understate welfare?**
+It can do both. Informal activity and unpaid work are left out, so GDP understates output, while spending on clearing up pollution or repairing damage adds to GDP without raising welfare, so it overstates welfare.
+
+**What are the consequences of a recession?**
+Falling demand reduces output, firms cut jobs and unemployment rises, incomes and spending fall, tax revenue falls and welfare spending rises, widening the deficit. Lower investment also reduces future capacity, a long-run "scarring" effect.
+
 ## Official syllabus
 
 These notes follow the OCR *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, published by OCR (Oxford Cambridge and RSA Examinations).

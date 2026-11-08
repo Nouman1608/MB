@@ -234,6 +234,23 @@ The effect is modest for Country A, but would be much larger for an economy that
 - Mixing up percentage and percentage-point changes.
 - Ending an evaluation with "it depends" and no judgement.
 
+## Frequently asked questions
+
+**Is globalisation the same as free trade?**
+No. Globalisation is a process of growing integration through flows of goods, services, capital, people, technology and ideas. Free trade is one policy and one channel within it.
+
+**Why do firms move production abroad?**
+Firms move production abroad to cut costs, such as lower labour costs, and to reach new markets. They compare the annual saving with the set-up cost, and also weigh risk, skills, infrastructure and market access; rising wages abroad lengthen the payback period.
+
+**How does globalisation affect developing economies?**
+Developing economies gain access to markets, aid, investment, cheaper capital goods and technology. They also risk reliance on a few volatile primary exports, weak bargaining power, limited infrastructure that deters FDI and imports that undercut infant industries.
+
+**What are the benefits and costs of multinational firms for host economies?**
+Benefits include capital, jobs, higher wages, technology and training spillovers, tax revenue and export earnings. Costs include profit repatriation, transfer pricing that lowers local tax, market power that crowds out local firms and footloose behaviour.
+
+**Does faster GDP growth in an emerging economy mean better living standards?**
+Not necessarily. Population growth can absorb much of the gain in output, profit sent abroad reduces residents' income, and GDP per head says nothing about how income is shared.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 2 content, area of study The global context, topic Globalisation.

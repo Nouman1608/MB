@@ -248,6 +248,23 @@ Evaluation: demand-side policy is quick but depends on spare capacity and can be
 - Writing "inflation falls" when only the rate of increase in prices has slowed.
 - Using the model without naming an assumption when you evaluate.
 
+## Frequently asked questions
+
+**Why does the SRAS curve slope upwards?**
+In the short run some costs, mainly nominal wages, are fixed by contracts. If the price level rises while costs stay put, profit per unit rises and firms supply more; higher output also brings overtime and rising unit costs, which steepens the curve near capacity.
+
+**What determines the position of the LRAS curve?**
+LRAS depends on the quantity and quality of factors of production and on technology, not on the price level. Changes in the labour force, skills, capital stock, infrastructure, technology and institutions shift it.
+
+**What happens in the long run after a rise in AD in the neo-classical model?**
+In the short run prices and output both rise and output exceeds potential. Tight input markets then push up wages and costs, shifting SRAS left until output returns to potential, leaving a higher price level and no lasting gain in output.
+
+**Is aggregate supply AS-level or A-level content for OCR Economics?**
+The OCR A Level Economics (H460) specification labels no content as AS-level or A-level only, so aggregate supply and the AD/AS model are treated as A Level content within Component 2, Macroeconomics.
+
+**How do you choose between demand-side and supply-side policies using AD/AS?**
+Read the data first. Low output, high unemployment and low inflation suggest weak AD and a demand-side case; low output with high inflation suggests SRAS has shifted left, so cost-cutting supply-side action attacks the cause; sustained growth needs LRAS to shift right.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021, area of study "Aggregate demand and aggregate supply": topics Aggregate supply (AS); Aggregate demand and aggregate supply; and the first two outcomes of Macroeconomic equilibrium.

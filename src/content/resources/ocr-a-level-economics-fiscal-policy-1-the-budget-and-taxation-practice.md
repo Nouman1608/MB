@@ -157,6 +157,23 @@ Calculate the average rate of each tax at each income, and classify each tax. **
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between current and capital government expenditure?**
+Current expenditure is spending on day-to-day items such as public sector wages, while capital expenditure is spending on long-lasting assets such as roads or schools. Using debt interest or wages as examples of capital spending is a common error.
+
+**How do you calculate tax under a banded income tax system?**
+Charge each band's rate only on the slice of income within that band, then add the slices. Charging the top rate on all income rather than just the part above its threshold is a frequent mistake.
+
+**How do you classify a tax as progressive, proportional or regressive?**
+Use the average tax rate at different incomes, not the amount of tax paid. If the average rate rises with income the tax is progressive, if it stays the same it is proportional, and if it falls it is regressive.
+
+**Which part of the OCR A Level Economics specification covers the budget and taxation?**
+The budget and taxation are the first part of the topic Fiscal policy, within The application of policy instruments in Component 2 of the OCR A Level Economics (H460) specification.
+
+**What is the difference between a cyclical and a structural deficit?**
+A cyclical deficit is the part caused by the economic cycle, such as lower tax revenue in a downturn, which disappears when the economy returns to trend. A structural deficit remains even at trend output because it reflects government decisions on spending and taxation.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), first assessment 2021, Component 2 content: The application of policy instruments, topic Fiscal policy, the first part. Published by OCR (Oxford Cambridge and RSA).

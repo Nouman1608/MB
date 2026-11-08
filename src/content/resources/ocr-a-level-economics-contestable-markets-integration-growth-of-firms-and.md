@@ -257,6 +257,23 @@ Firms are interdependent when one firm's decision affects its rivals and their d
 - Claiming cost savings always reach consumers.
 - Describing competition policy without saying how firms change behaviour.
 
+## Frequently asked questions
+
+**What are the characteristics of a perfectly contestable market?**
+A perfectly contestable market has no barriers to entry or exit, no sunk costs, entrants with access to the same technology and similar costs, good information, and entrants able to enter and leave faster than incumbents can change price.
+
+**What are the limits of contestable market theory?**
+Almost every real market has some sunk costs, incumbents can respond quickly or use strategies such as limit pricing, information is rarely perfect, and contestability is a matter of degree. The theory's main contribution is the idea of potential competition.
+
+**What is the main benefit of a conglomerate merger?**
+Conglomerate integration joins firms in unrelated industries, so profits in one business can offset weak results in another. Risk spreading is the main benefit, though the firm may lose focus.
+
+**How does ownership affect the behaviour of firms?**
+Private shareholder-owned firms usually pursue profit and cost control but face principal-agent problems. Public sector bodies may pursue social welfare or political targets with weaker cost discipline, and co-operatives and social enterprises balance profit with member or social aims.
+
+**How interdependent are firms in different market structures?**
+Interdependence is high in oligopoly, where reactions matter, and low in perfect competition and monopolistic competition. A monopoly faces little interdependence with rivals, though potential entry can still constrain it, and the answer depends on how the market is defined.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. Component 1, Microeconomics (H460/01), Area of Study Competition and market power.

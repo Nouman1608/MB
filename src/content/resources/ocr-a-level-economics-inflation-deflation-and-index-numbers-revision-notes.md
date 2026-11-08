@@ -256,6 +256,23 @@ CPI tracks the cost of a basket of goods and services. The steps: choose the bas
 - Stating that CPI is "better" without saying for whom or for what purpose.
 - Omitting units or the word "real" when comparing wages.
 
+## Frequently asked questions
+
+**What is the difference between CPI and RPI?**
+The CPI uses a geometric mean, almost entirely excludes owner-occupier housing costs and council tax, and covers a very wide range of households. The RPI uses an arithmetic mean, includes housing costs and council tax, and excludes the top 4% of households by income and some pensioner households.
+
+**What is the difference between demand-pull and cost-push inflation?**
+Demand-pull inflation comes from aggregate demand shifting right, raising output as well as prices. Cost-push inflation comes from higher unit costs shifting short-run aggregate supply left, so prices rise while output falls.
+
+**How do you rebase an index?**
+Divide every value in the index by the value for the new base year and multiply by 100. The new base year then equals 100, and earlier years can fall below 100.
+
+**Who gains and who loses from inflation?**
+Borrowers on fixed rates gain because the real value of their debt falls, and governments benefit from fiscal drag. People on fixed incomes, savers facing negative real interest rates and workers whose pay lags prices lose out.
+
+**Is deflation always harmful?**
+Not always. Deflation caused by weak demand can lead to postponed spending, higher real debt burdens and falling output and jobs. Deflation caused by supply growth, such as lower costs or higher productivity, can accompany rising output and real incomes.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021, Component 2 (H460/02), Economic policy objectives and indicators of macroeconomic performance, topic Inflation.

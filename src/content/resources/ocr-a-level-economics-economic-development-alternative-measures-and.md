@@ -228,6 +228,23 @@ The **Office for National Statistics (ONS) Measuring National Well-being program
 - Writing about the IMF, World Bank and WTO as one body; each has a different function.
 - Listing criticisms with no judgement of their weight.
 
+## Frequently asked questions
+
+**Does economic growth always lead to development?**
+No. Growth enlarges the pool of resources, but the gains may go to a narrow group, tax revenue may not be spent on health and schooling, and growth can bring long hours, pollution and loss of community. Growth is usually necessary for development but rarely sufficient on its own.
+
+**Why does a big rise in income raise the HDI only a little?**
+The HDI enters income as a logarithm, so each extra dollar counts for less at higher income levels. If health and education are unchanged, even a large rise in GNI per head produces only a small rise in the HDI.
+
+**How can trade promote growth and development?**
+Trade widens markets for exports, brings in capital goods and technology, and allows specialisation and economies of scale. The risks include dependence on volatile primary exports and falling terms of trade.
+
+**What is the ONS Measuring National Well-being programme?**
+Launched in 2010, the ONS programme reports on ten areas, including personal well-being, health, relationships, personal finance and the environment. It asks people directly about life satisfaction, feeling worthwhile, happiness and anxiety, and treats GDP as one indicator among many.
+
+**What are the criticisms of IMF loan conditions?**
+IMF loans usually carry conditions on government spending, taxes and exchange rates. Critics argue that austerity conditions can deepen recessions, hurt the poor and apply one-size-fits-all policies.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), first assessment 2021, published by OCR. Component 2: Macroeconomics, Area of Study "Economic policy objectives and indicators of macroeconomic performance", topic "Economic growth and development".

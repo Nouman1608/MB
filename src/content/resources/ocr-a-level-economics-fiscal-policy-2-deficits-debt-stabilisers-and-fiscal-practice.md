@@ -134,6 +134,23 @@ These questions cover the second half of Fiscal policy in the OCR A Level Econom
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a budget deficit and the national debt?**
+A budget deficit is the amount by which government spending exceeds revenue in one year, a flow. The national debt is the stock of outstanding government borrowing at a point in time, and each deficit adds to it.
+
+**What is a primary deficit?**
+A primary deficit is the budget deficit before interest payments on existing debt are counted. It shows whether the government's other spending is covered by revenue.
+
+**Why does a cut in government spending reduce the deficit by less than the cut?**
+The cut lowers GDP through the multiplier, so tax revenue falls and spending on benefits rises. These responses offset part of the saving, so the net reduction in the deficit is smaller than the cut itself.
+
+**Which part of the OCR A Level Economics specification covers deficits and debt?**
+Deficits, debt, automatic stabilisers, crowding out and fiscal rules are the second half of the topic Fiscal policy in the OCR A Level Economics (H460) specification.
+
+**How should you evaluate fiscal rules?**
+Give both sides, such as credibility and discipline against rigidity in a recession and accounting tricks, test any data against each rule separately, and decide what effectiveness depends on. A single sentence such as "they can be broken" is too thin.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460) specification, version 3.0 (June 2026), for first assessment in 2021, published by OCR.
