@@ -220,6 +220,20 @@ The specification limits this to s- and p-block ions up to Z = 36. (d-block ions
 - Attempt the [practice questions](/resources/ocr-a-level-chemistry-electron-structure-practice/), which have fully worked answers.
 - Tick off 2.2.1 on the [checklist](/checklists/ocr/a-level/chemistry/) and see the [course hub](/boards/ocr/a-level/chemistry/).
 
+## Frequently asked questions
+
+**What is an atomic orbital in OCR A Level Chemistry?**
+An atomic orbital is a region around the nucleus that can hold up to two electrons, with opposite spins. Leaving out either part of this definition loses marks.
+
+**What is the difference between a shell, a sub-shell and an orbital?**
+A shell contains sub-shells and a sub-shell contains orbitals; each orbital holds up to two electrons. A p-sub-shell has three orbitals but holds six electrons.
+
+**Can you write 3d before 4s in an electron configuration?**
+Yes. 4s fills before 3d, but you may write 3d before 4s when you group the electrons by shell.
+
+**Which ions are covered in 2.2.1?**
+Section 2.2.1 is limited to s- and p-block ions up to Z = 36. Configurations of d-block ions come later, in section 5.3.1.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Section 2.2.1 Electron structure.

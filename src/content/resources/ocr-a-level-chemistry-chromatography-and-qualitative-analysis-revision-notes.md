@@ -227,6 +227,20 @@ The 2,4-DNP equation and the structure of its derivative are not required.
 - Using carbonate to test for phenol and reporting a positive result as "fizzes".
 - Saying a ketone turns acidified dichromate green.
 
+## Frequently asked questions
+
+**What is retention time in gas chromatography?**
+Retention time is the time from injection of the sample until a component reaches the detector. It changes with the column, oven temperature and carrier gas flow rate.
+
+**How do you calculate an Rf value?**
+Divide the distance travelled by the component by the distance travelled by the solvent front, both measured from the baseline. Rf has no units and cannot be greater than 1.
+
+**How do you distinguish an alkene from phenol with bromine water?**
+Both decolourise bromine water, but phenol also gives a white precipitate.
+
+**Does a matching retention time prove a compound's identity?**
+No. Two compounds can share a retention time, so a match with a pure standard run under the same conditions is evidence, not proof.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.3.1 Chromatography and qualitative analysis, learning outcomes (a), (b)(i)–(ii) and (c)(i)–(vii), with their additional guidance, PAG6 and PAG7. Published by OCR.

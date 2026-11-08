@@ -240,6 +240,20 @@ To make 5.00 g of the acid (Mᵣ 132.0): 5.00 ÷ 132.0 = 0.03788 mol, so 0.03788
 - Related: [OCR carbonyl compounds study guide](/resources/ocr-a-level-chemistry-carbonyl-compounds/)
 - Check the whole course: [all free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What conditions convert a haloalkane into a nitrile?**
+Heat the haloalkane under reflux with sodium or potassium cyanide dissolved in ethanol. The reaction is nucleophilic substitution and adds one carbon to the chain.
+
+**How is HCN supplied for reaction with aldehydes and ketones?**
+In practice HCN is supplied as aqueous NaCN with H⁺(aq). It adds across the C=O bond by nucleophilic addition to give a hydroxynitrile.
+
+**How do you reduce a nitrile to an amine?**
+Use hydrogen gas with a nickel catalyst. Two H₂ molecules are needed for each nitrile group.
+
+**What does a halogen carrier do in a Friedel–Crafts reaction?**
+A halogen carrier such as AlCl₃ reacts with the haloalkane or acyl chloride to form the electrophile, and it is regenerated at the end, forming HCl as a by-product.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.4 Carbon–carbon bond formation, learning outcomes (a) to (d). Published by OCR.

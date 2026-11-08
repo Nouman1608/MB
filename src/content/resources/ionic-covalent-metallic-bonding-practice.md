@@ -37,7 +37,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on bonding types, structures and properties."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -134,3 +136,17 @@ Na: 1 outer electron (•), lost      Cl⁻: 7 crosses (its own) + 1 dot (from N
 - Forgetting that "high melting point" alone doesn't distinguish giant covalent from ionic — the reasoning must specifically reference **covalent bonds** being broken throughout the structure, not electrostatic attraction between ions.
 
 Questions 8 and 9 draw on the giant covalent structures and metallic bonding sections of the [Ionic, Covalent and Metallic Bonding study guide](/resources/ionic-covalent-and-metallic-bonding/) — question 8 extends the diamond/graphite comparison in question 5 to a third giant covalent substance, and question 9 completes question 7's account of malleability with the closely related property of ductility, neither previously tested on this page.
+
+## Frequently asked questions
+
+**Are these bonding practice questions from IGCSE past papers?**
+No. They are original exam-style practice questions with full worked answers, written for revision of ionic, covalent, giant covalent and metallic bonding.
+
+**Why do diamond and silicon dioxide not conduct electricity?**
+All their outer electrons are localised in bonding pairs (and, in silicon dioxide, lone pairs too), so there are no delocalised electrons to carry charge. Only graphite among these giant covalent structures conducts.
+
+**How do you explain a high melting point for a giant covalent substance?**
+Refer specifically to strong covalent bonds being broken throughout the structure. "High melting point" on its own does not distinguish a giant covalent substance from an ionic one.
+
+**Are silicon dioxide and diamond the same kind of structure?**
+They share a structure type, a fully bonded three-dimensional covalent lattice, but they do not have the same formula or the same elements.

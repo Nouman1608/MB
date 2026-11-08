@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "ocr-a-level-chemistry-foundations-in-chemistry"
     subtopic: "ocr-a-level-chemistry-2-1-2"
-description: "Writing formulae of ionic compounds from ionic charges, recalling five named polyatomic ions and two monatomic metal cations, and constructing balanced chemical and ionic equations with state symbols, for OCR A Level Chemistry A H432, Module 2.1.2."
+description: "OCR A Level Chemistry A H432 2.1.2: ionic formulae from charges, the named ions to recall, the criss-cross method and balanced and ionic equations."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -156,6 +158,20 @@ formulae are correct is one of the most common sources of error. For
 ionic equations specifically, get in the habit of identifying and
 cancelling spectator ions explicitly rather than trying to write the
 ionic equation directly from the reaction description.
+
+## Frequently asked questions
+
+**Which ions must you recall for OCR A Level Chemistry 2.1.2?**
+The specification names seven ions: the polyatomic ions nitrate (NO₃⁻), carbonate (CO₃²⁻), sulfate (SO₄²⁻), hydroxide (OH⁻) and ammonium (NH₄⁺), and the monatomic metal cations zinc (Zn²⁺) and silver (Ag⁺).
+
+**Do you need to memorise the charges of every ion?**
+No. You predict charges from periodic table position and recall the named ions. Charges on ions outside the named list are given in the exam.
+
+**What is the most common formula-writing error?**
+Forgetting brackets around a polyatomic ion when more than one is present, such as writing CaOH2 instead of Ca(OH)₂.
+
+**Why must you simplify after using the criss-cross method?**
+The raw criss-cross method can give a ratio that is not in lowest terms. Combining Mg²⁺ with O²⁻ gives Mg₂O₂, which must be simplified to MgO.
 
 ## Official syllabus
 

@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-chemistry-structure-1"
-description: "Original practice questions with full worked answers covering particle theory, the nuclear atom, electron configurations, the mole and ideal gases, for IB Diploma Programme Chemistry Structure 1."
+description: "Original IB DP Chemistry Structure 1 practice questions with worked answers on particles, the nuclear atom, electron configurations, the mole and ideal gases."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -103,6 +105,20 @@ or by using a connective such as "whereas" or "in contrast."
 ## Why this scope
 
 These questions cover all five Structure 1 sub-topics -- particulate matter, the nuclear atom, electron configurations, the mole and ideal gases. The guide gives teaching hours for Structure 1 as a whole (17 SL, 21 HL), not for each sub-topic, so the balance of questions here is Marlbridge's own choice. Question 5 in particular starts with the same mass-to-moles step as the [revision notes](/resources/ib-dp-chemistry-structure-1-revision-notes/) worked example (which runs mass to moles to particles), then continues through a mole ratio back to a mass, so it tests transfer of the method rather than memorisation of one specific chain.
+
+## Frequently asked questions
+
+**Are these IB DP Chemistry Structure 1 questions from past papers?**
+No. They are original questions written for revision and do not reproduce IB past papers or mark tariffs. Use them alongside the official past papers available through your school or the IB store.
+
+**Why should you show working in mole and gas calculations?**
+Marks are awarded for method as well as the final answer, so an unsupported final number rarely earns full marks even when it is correct.
+
+**How do you answer an "explain" question on isotopes?**
+Give both the reason in terms of sub-atomic particles and its consequence. Isotopes have the same number of protons and electrons, so the same electron configuration and chemistry, but different numbers of neutrons, so different masses.
+
+**Which Structure 1 topics do these practice questions cover?**
+They cover all five Structure 1 sub-topics: the particulate nature of matter, the nuclear atom, electron configurations, the mole and ideal gases.
 
 ## Official syllabus
 

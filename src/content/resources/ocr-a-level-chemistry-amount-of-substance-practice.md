@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on moles, the ideal gas equation, titrations and percentage yield for OCR A Level Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -222,3 +224,17 @@ D) 108% **[1]**
 - Confusing theoretical and actual yield in the percentage calculation.
 - Not dividing by the smallest mole value when finding an empirical formula ratio, or stopping at the empirical formula when the molecular formula was asked for.
 - Confusing atom economy (a property of the reaction's stoichiometry) with percentage yield (a property of how the reaction was actually carried out) — a reaction can have 100% yield but poor atom economy, or vice versa.
+
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry amount of substance questions from past papers?**
+No. They are original exam-style questions with worked answers. They cover only this topic, so they are not a reconstruction of a full H432 paper.
+
+**How is Section A of H432 Papers 1 and 2 set out?**
+Papers 1 and 2 each open with a Section A of 15 four-option multiple-choice questions worth 15 marks, followed by a longer Section B of short-answer and extended-response questions. Each paper is worth 100 marks.
+
+**What units must you use in the ideal gas equation?**
+Convert volumes to m³ and pressures to Pa before using pV = nRT. Not converting cm³ to m³ or kPa to Pa is a common way to lose marks.
+
+**What is the difference between atom economy and percentage yield?**
+Atom economy is a property of the reaction's stoichiometry, calculated from the balanced equation. Percentage yield depends on how much product you actually collected compared with the theoretical amount.

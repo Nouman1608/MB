@@ -244,6 +244,23 @@ Shortcut: FC = V − (number of lone-pair electrons) − (number of bonds).
 - Mark this unit as done on your [course checklist](/checklists/ib/ib-dp/chemistry/).
 - Run a free [diagnostic](/diagnostics/) to choose your next unit.
 
+## Frequently asked questions
+
+**What is the formula for formal charge?**
+Formal charge = V − (L + ½B), where V is the number of valence electrons, L the number of lone-pair electrons and B the number of bonding electrons. Using all the bonding electrons instead of half is a common error.
+
+**What is the difference between formal charge and oxidation state?**
+Formal charge assumes the bonding electrons are shared equally. Oxidation state assigns the bonding electrons to the more electronegative atom.
+
+**What is the difference between a sigma bond and a pi bond?**
+A σ bond forms by end-on overlap, with electron density on the axis between the nuclei. A π bond forms only by side-on overlap of p orbitals, with density above and below the axis.
+
+**Which hybridization types are in the IB DP Chemistry guide?**
+Only sp, sp² and sp³ hybridization are in the guide. You are not expected to assign hybridization to atoms with five or six electron domains.
+
+**Does the double bond in a resonance structure flip back and forth?**
+No. The resonance structures are drawings on paper; the real species is one delocalized resonance hybrid with bonds of equal length.
+
 ## Official syllabus
 
 Source: the IB *Chemistry guide* for the Diploma Programme (International Baccalaureate Organization), issued in February 2023 for first assessment in 2025. This page covers Structure 2.2, The covalent model, understandings 2.2.11 to 2.2.16, all of them additional higher level.

@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "atomic-structure-and-the-periodic-table-9202"
     subtopic: "the-periodic-table-9202"
-description: "States of matter, the structure of the atom, and the periodic table's arrangement by proton number -- the opening topic of OxfordAQA International GCSE Chemistry 9202, and the foundation for every topic that follows."
+description: "OxfordAQA International GCSE Chemistry 9202 Topic 1: states of matter, the structure of the atom, isotopes, electron shells and the periodic table, explained."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -229,6 +231,23 @@ result shows about particle behaviour, not just to describe the setup.
 </figure>
 
 
+## Frequently asked questions
+
+**What does Topic 1 cover in OxfordAQA IGCSE Chemistry 9202?**
+Topic 1 has three sections: 3.1.1 solids, liquids and gases, 3.1.2 a simple model of the atom, and 3.1.3 the periodic table.
+
+**What are the relative charges and masses of sub-atomic particles?**
+A proton has relative charge +1 and relative mass 1, a neutron has charge 0 and mass 1, and an electron has charge −1 and a very small mass.
+
+**What is a common mistake when describing isotopes?**
+Saying isotopes have "different atomic numbers". Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons, so different mass numbers.
+
+**Why are the noble gases unreactive?**
+The noble gases in Group 0 have stable outer-shell electron arrangements: eight outer electrons for all of them except helium, which has two.
+
+**How does the group number relate to electron arrangement?**
+For Groups 1 to 7, the group number equals the number of outer-shell electrons. Sodium, with the arrangement 2,8,1, is in Group 1 because it has one outer electron.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2
@@ -238,4 +257,3 @@ OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2
   <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
   <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
 </figure>
-

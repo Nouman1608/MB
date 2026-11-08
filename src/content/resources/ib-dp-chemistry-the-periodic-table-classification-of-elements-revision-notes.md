@@ -269,6 +269,20 @@ The guide says the data booklet supplies both the colour wheel and c = λf. Appr
 - (HL) Taking 3d electrons out before 4s.
 - (HL) Leaving λ in nanometres in c = λf.
 
+## Frequently asked questions
+
+**What is the difference between electron affinity and electronegativity?**
+Electron affinity is the energy change, per mole, when gaseous atoms each gain one electron. Electronegativity is an atom's ability to attract a bonding pair of electrons in a covalent bond.
+
+**Why is aluminium's first ionization energy lower than magnesium's?**
+Aluminium's outer electron is in a 3p sublevel, which is higher in energy than magnesium's 3s sublevel, so it is easier to remove. This is HL content in Structure 3.1.7.
+
+**How do you work out an element's group from its valence electrons?**
+For groups 1 and 2 the number of valence electrons equals the group number. For groups 13 to 18 it is the group number minus 10, so a group 15 element has 5 valence electrons.
+
+**Why are isoelectronic ions different sizes?**
+Isoelectronic ions have the same number of electrons, so the ion with more protons pulls them in more strongly and is smaller. For example, N³⁻ is larger than O²⁻, F⁻, Na⁺ and Mg²⁺.
+
 ## Official syllabus
 
 Content here maps to the International Baccalaureate Organization's Diploma Programme *Chemistry guide*, published in February 2023 for first assessment in 2025. Sub-topic covered: Structure 3.1, The periodic table: classification of elements. Understandings 3.1.1 to 3.1.6 are SL and HL; 3.1.7 to 3.1.10 are additional higher level.

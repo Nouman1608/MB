@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "ocr-a-level-chemistry-foundations-in-chemistry"
     subtopic: "ocr-a-level-chemistry-2-1-4"
-description: "Common acids and alkalis, strong versus weak acid dissociation, neutralisation reactions, standard solution preparation, acid-base titration technique, and titration calculations, for OCR A Level Chemistry A H432, Module 2.1.4."
+description: "OCR A Level Chemistry A (H432) 2.1.4 Acids: common acids and alkalis, strong and weak acids, neutralisation, standard solutions and titration calculations."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -179,6 +181,20 @@ practical method rather than only calculate a result.
   <figcaption>Both HA and A- are plentiful, so adding a little acid or alkali barely changes their ratio or the pH.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**Do you need Ka calculations for OCR A Level Chemistry 2.1.4 Acids?**
+No. Section 2.1.4 needs only a qualitative explanation of strong and weak acids in terms of relative dissociation. Calculations with Ka and pH belong to later physical chemistry content.
+
+**Which practical skill covers titrations in H432?**
+Preparing a standard solution and carrying out acid–base titrations is practical skill PAG2 in the OCR A Level Chemistry A specification.
+
+**How do you make a standard solution?**
+Accurately weigh the solid solute, dissolve it, and make the solution up to a precise volume in a volumetric flask.
+
+**What is a non-structured titration calculation?**
+It is a calculation where you plan the full working method yourself instead of following guided steps. You use the titre, the known concentration and the mole ratio from the balanced equation to find the unknown concentration.
 
 ## Official syllabus
 

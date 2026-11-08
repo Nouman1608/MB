@@ -250,6 +250,20 @@ For acid basics, revisit [OCR acids](/resources/ocr-a-level-chemistry-acids/).
 - Quoting le Chatelier's principle for a pressure change when the question wants the argument made through Kp.
 - Leaving units off, or giving kPa when the expression gives kPa³.
 
+## Frequently asked questions
+
+**What is a heterogeneous equilibrium?**
+A heterogeneous equilibrium has species in two or more phases. Solids are left out of its Kc or Kp expression, and only gases count in the total amount for mole fractions.
+
+**How do you work out the units of Kc or Kp?**
+Replace each term in the expression with its unit, mol dm⁻³ for Kc or a pressure unit for Kp, then cancel. If the total powers on top and bottom are equal, K has no units.
+
+**How does K control the position of equilibrium?**
+If a change makes the quotient smaller than K, the reaction goes forwards until they match; if larger, it goes backwards. Concentration and pressure changes move the quotient, while temperature changes K itself.
+
+**Which section does How far? build on?**
+Section 5.1.2 builds on section 3.2.3, Chemical equilibrium, extending it to Kp, heterogeneous equilibria, units of K and calculating equilibrium amounts.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017 (OCR). This guide follows its section 5.1.2, How far?, from Module 5.

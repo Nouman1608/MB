@@ -185,6 +185,20 @@ Explain the order of the rates of hydrolysis of 1-chloro-3-methylbutane, 1-bromo
 - [Book a free trial class](/trial/)
 - Check other topics with a [free 10-minute diagnostic](/diagnostics/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry haloalkanes questions from past papers?**
+No. They are original practice questions with marked answers on section 4.2.2 of OCR A Level Chemistry A (H432).
+
+**What is a nucleophile?**
+A nucleophile is an electron pair donor. Leaving out the words "electron pair donor" in a definition loses the mark.
+
+**Why does the rate of hydrolysis increase from fluoroalkanes to iodoalkanes?**
+The rate depends on bond enthalpy: the C–I bond is the weakest, so it breaks most easily. Explaining the trend with polarity is a common error.
+
+**What colours are the silver halide precipitates?**
+Silver chloride is white, silver bromide is cream and silver iodide is yellow. Confusing cream with yellow is a common way to lose marks.
+
 ## Official syllabus
 
 Written against the OCR H432 document, A Level Chemistry A, in specification Version 3.1 (May 2026, first assessment 2017): section 4.2.2 Haloalkanes, statements (a) to (e).

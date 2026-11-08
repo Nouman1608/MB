@@ -261,6 +261,20 @@ Bottles A to D hold butanal, butanone, butan-2-ol and 2-methylpropan-2-ol, in so
 - Original questions with mark-by-mark answers: [Chromatography and qualitative analysis practice questions](/resources/ocr-a-level-chemistry-chromatography-and-qualitative-analysis-practice/)
 - How PAG6 and PAG7 fit the Practical Endorsement: [Practical skills for the Practical Endorsement](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/)
 
+## Frequently asked questions
+
+**What is the difference between the stationary and mobile phase?**
+The stationary phase stays put, while the mobile phase moves through or over it and carries the mixture. In TLC the stationary phase is a solid such as silica and the mobile phase is a solvent.
+
+**Can acidified dichromate tell primary from secondary alcohols?**
+Not directly. Both turn orange dichromate green. To tell them apart, distil off the product and test it, because a primary alcohol gives an aldehyde.
+
+**How do you test for a haloalkane in OCR A Level Chemistry?**
+Warm the haloalkane with aqueous silver nitrate in ethanol. Water hydrolyses the C–X bond, and the halide ions released form a silver halide precipitate.
+
+**Does 2,4-DNP show that a compound is an aldehyde?**
+No. 2,4-DNP shows a C=O group in an aldehyde or ketone. Tollens' reagent then decides whether it is an aldehyde.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.3.1 Chromatography and qualitative analysis, learning outcomes (a), (b)(i)–(ii) and (c)(i)–(vii), with their additional guidance, PAG6 and PAG7. Published by OCR.

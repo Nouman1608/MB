@@ -240,6 +240,23 @@ The key evidence is what happens in excess, not the shade of green. Excess ammon
 - Concentration and mole calculations: [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/)
 - Recording observations for PAG work: [Practical Endorsement skills](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/)
 
+## Frequently asked questions
+
+**What is the ammonium ion test in OCR A Level Chemistry?**
+Warm the unknown with aqueous sodium hydroxide and hold damp red litmus paper in the mouth of the tube without touching it. Ammonia gas is given off and turns the litmus blue.
+
+**Why do both sodium hydroxide and ammonia precipitate metal hydroxides?**
+Ammonia reacts with water to give hydroxide ions, NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, so both reagents supply OH⁻ that precipitates the metal hydroxide.
+
+**What is the formula of the copper–ammonia complex in H432?**
+Use the formula given in the specification, [Cu(NH₃)₄(H₂O)₂]²⁺. Leaving out the water ligands is a common error.
+
+**Why might no precipitate form straight after a carbonate test?**
+Excess acid from the carbonate test has to be neutralised first, so the first drops of sodium hydroxide only react with the acid. Keep adding before deciding there is no precipitate.
+
+**Which required practical links to 5.3.2?**
+Qualitative analysis links to PAG4 in the OCR practical endorsement, with HSW4 skills such as recording observations.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.3.2 Qualitative analysis, learning outcome (a)(i) and (a)(ii), with its additional guidance (PAG4, HSW4) and the linked statements 3.1.4(a) and 5.3.1(j). Published by OCR.

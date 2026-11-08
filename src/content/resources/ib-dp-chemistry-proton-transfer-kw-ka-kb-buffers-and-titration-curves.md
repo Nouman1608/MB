@@ -282,6 +282,23 @@ pOH = 4.75 + log₁₀(0.0800 ÷ 0.120) = 4.57, so pH = **9.43**
 
 **Dilution.** Diluting lowers [HA] and [A⁻] by the same factor, so the ratio and the pH stay almost unchanged. With fewer moles per cm³, though, the buffer absorbs less added acid or alkali.
 
+## Frequently asked questions
+
+**Do you need the quadratic equation for weak acid pH calculations in IB DP Chemistry?**
+No. The guide does not expect quadratic equations. You assume that the acid ionizes only slightly and that [H⁺] equals [A⁻], then use [H⁺] = √(Ka × c).
+
+**How can you predict whether a salt solution is acidic, basic or neutral?**
+Look at the parent acid and base. Strong acid with strong base gives pH 7, strong acid with weak base gives pH below 7, and weak acid with strong base gives pH above 7. For weak acid with weak base, compare Ka of the cation with Kb of the anion.
+
+**What is the difference between an acidic buffer and a basic buffer?**
+An acidic buffer is a weak acid plus a soluble salt of its conjugate base, such as lactic acid with sodium lactate. A basic buffer is a weak base plus a soluble salt of its conjugate acid, such as ammonia with ammonium chloride.
+
+**How do you find pKa from a weak acid titration curve?**
+Read the pH at half-equivalence, where half the weak acid has been neutralized and [HA] equals [A⁻]. At that point the pH equals the pKa of the acid.
+
+**Why does no indicator work for a weak acid–weak base titration?**
+The pH curve for a weak acid with a weak base has no sharp vertical jump, so the pH changes gradually and no indicator gives a clear end point.
+
 ## Official syllabus
 
 This guide is based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 3.1, understandings 3.1.9 to 3.1.17 (additional higher level).

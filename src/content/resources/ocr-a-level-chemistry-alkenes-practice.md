@@ -163,6 +163,20 @@ Data for this set: C = 12.0, H = 1.0, O = 16.0, F = 19.0, Cl = 35.5, Ca = 40.1. 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry alkenes questions from past papers?**
+No. They are original practice questions with marked answers on section 4.1.3 of OCR A Level Chemistry A (H432).
+
+**How do you rank groups using the CIP priority rules?**
+Compare the atomic numbers of the atoms attached to each C=C carbon, atom by atom. Ranking groups by size is a common way to lose marks.
+
+**Where should the first curly arrow start in electrophilic addition?**
+It starts at the C=C double bond and goes to the H of H–X. Starting it at a carbon atom or ending it at the wrong end of H–X is a common error.
+
+**What is a common mistake when drawing a repeat unit?**
+Keeping the C=C double bond in the repeat unit, or putting a side group into the main chain. The repeat unit has a single C–C bond with the side groups attached.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.1.3 Alkenes, learning outcomes (a) to (l). Published by OCR.

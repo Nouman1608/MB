@@ -19,7 +19,9 @@ syllabusTopics:
 description: "The reagents, observations and conclusions for identifying anions, cations, gases and flame colours, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-09-27
@@ -199,6 +201,23 @@ ammonium, calcium, chromium(III), copper(II), iron(II), iron(III), zinc
 
 There is no Core/Extended split to track for the tests — every *test* on this page is
 examinable for every candidate on both qualifications.
+
+## Frequently asked questions
+
+**How are qualitative analysis questions marked in Cambridge IGCSE Chemistry 0620?**
+Marks are given for the correct reagent, the correct observation and the correct conclusion. Missing any one of the three loses marks, even if the other two are right.
+
+**How do you test for hydrogen and oxygen gas?**
+Hydrogen gives a squeaky pop with a lighted splint. Oxygen relights a glowing splint.
+
+**What are the flame test colours for IGCSE Chemistry?**
+Lithium is red, sodium yellow, potassium lilac, calcium orange-red, barium light green and copper(II) blue-green.
+
+**Why are flame tests needed for sodium and potassium?**
+Sodium and potassium compounds do not form informative precipitates with sodium hydroxide or ammonia, so a flame test is often the only practical way to identify them.
+
+**Is identification of ions and gases Core or Extended in 0620?**
+Every test in subtopic 12.5 is 0620 Core, so all candidates need it. Cambridge O Level Chemistry 5070 has effectively identical wording.
 
 ## Related resources
 

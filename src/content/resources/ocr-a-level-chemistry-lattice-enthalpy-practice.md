@@ -149,6 +149,20 @@ Before you start, work through the [Lattice enthalpy study guide](/resources/ocr
 - Track outcomes on paper: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry lattice enthalpy questions from past papers?**
+No. They are original practice questions with marked worked answers on section 5.2.1 of OCR A Level Chemistry A (H432).
+
+**Is lattice enthalpy exothermic or endothermic in H432?**
+In H432 lattice enthalpy is defined as the formation of the lattice from gaseous ions, so it is exothermic. Defining it as lattice breaking reverses the sign.
+
+**What must you remember for an MX₂ compound in a Born–Haber cycle?**
+Double the halogen atomisation enthalpy and electron affinity, and include the second ionisation energy for a Group 2 cation.
+
+**How do you use lattice enthalpy in a solution cycle?**
+Reverse the lattice enthalpy, so ΔsolH = −ΔLEH + ΣΔhydH, and count the hydration enthalpy of a doubled ion twice.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.2.1 Lattice enthalpy, learning outcomes (a) to (e). Published by OCR.

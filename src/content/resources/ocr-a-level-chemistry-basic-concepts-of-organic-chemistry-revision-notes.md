@@ -211,6 +211,20 @@ A curly arrow stands for an **electron pair** on the move. It shows either heter
 - Arrows that start from an atom or a δ+ end, or that point the wrong way along a bond.
 - Leaving out the dipole on the bond being attacked.
 
+## Frequently asked questions
+
+**What is a homologous series in OCR A Level Chemistry?**
+A homologous series is a series of organic compounds with the same functional group, in which each successive member differs by CH₂. Leaving out either part of the definition loses marks.
+
+**What is a radical?**
+A radical is a species with an unpaired electron, shown with a dot, such as Cl• or CH₃•. Dots are not required for diradicals such as an oxygen atom.
+
+**Where should a curly arrow start?**
+A curly arrow starts from a bond or a lone pair, never from an atom with no lone pair shown or from a positive charge. Add the dipole on a polar bond before drawing an arrow to it.
+
+**Do you need to define the different types of formula?**
+No. Definitions of formula types such as structural and skeletal are not required, but you must use them correctly.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.1.1 Basic concepts of organic chemistry, learning outcomes (a) to (i). Published by OCR.

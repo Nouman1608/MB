@@ -215,6 +215,20 @@ Not needed: mass spectra of organic halogen compounds, which the specification s
 - Rounding a ratio such as 2.33 to 2 instead of multiplying by 3.
 - Giving a structure that fits the IR but not the fragment peaks, or the other way round.
 
+## Frequently asked questions
+
+**How do you tell an alcohol O–H from a carboxylic acid O–H in IR?**
+An alcohol O–H gives a broad absorption at 3200–3600 cm⁻¹. A carboxylic acid O–H gives a very broad absorption at 2500–3300 cm⁻¹, usually alongside a strong C=O peak.
+
+**Are IR absorption data given in the OCR A Level Chemistry exam?**
+Yes. The specification says IR absorption data are given on the Data Sheet in examinations.
+
+**Why is only one fragment detected when a molecular ion breaks up?**
+A molecular ion splits into a positive ion and a radical, M⁺ → X⁺ + Y•. Only the charged ion X⁺ is detected; the uncharged radical gives no peak.
+
+**Do you need mass spectra of organic halogen compounds for H432?**
+No. The specification says you will not be expected to interpret mass spectra of organic halogen compounds.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.2.4 Analytical techniques, learning outcomes (a) to (h). Published by OCR.

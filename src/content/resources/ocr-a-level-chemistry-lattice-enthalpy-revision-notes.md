@@ -225,6 +225,20 @@ Questions sometimes give a part-drawn Born–Haber or solution cycle with one ar
 - Explaining trends with "bigger ion, bigger value" instead of linking size or charge to attraction and energy released.
 - Missing state symbols, or missing e⁻, on Born–Haber levels.
 
+## Frequently asked questions
+
+**What is lattice enthalpy in OCR A Level Chemistry?**
+Lattice enthalpy is the enthalpy change when 1 mol of an ionic lattice is formed from its gaseous ions under standard conditions. It cannot be measured directly, so it is found from a Born–Haber cycle.
+
+**How do ionic charge and radius affect lattice enthalpy?**
+Smaller ions and ions with a higher charge attract more strongly, giving more exothermic lattice enthalpies. Down Group 1 the cation radius increases, so the lattice enthalpy becomes less exothermic.
+
+**What is the difference between hydration and solution enthalpy?**
+Hydration starts from gaseous ions, while solution starts from the solid ionic compound.
+
+**How is atomisation enthalpy defined for chlorine?**
+It is per mole of chlorine atoms formed: ½Cl₂(g) → Cl(g). Writing it for one mole of Cl₂ molecules is a common error.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.2.1 Lattice enthalpy, learning outcomes (a) to (e). Published by OCR.

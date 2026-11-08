@@ -188,6 +188,20 @@ x = 0.040, so ¹¹³In = **4.0%** [1]
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these IB DP Chemistry nuclear atom questions from past papers?**
+No. They are original questions on Structure 1.2, written for revision, and they do not reproduce IB past papers or mark tariffs.
+
+**Why should you not round during a relative atomic mass calculation?**
+Rounding intermediate products can change the second decimal place of the final answer. Keep every digit until the last line, then round.
+
+**How do you calculate Ar when mass spectrum peaks are relative heights?**
+Multiply each m/z value by its peak height, add them, and divide by the total of the heights, not by 100. This is HL content in Structure 1.2.
+
+**Why do isotopes of an element react in the same way?**
+Isotopes have the same number of protons and electrons, so the same electron arrangement, and chemistry depends on the electrons. Linking identical chemistry to "the same mass" is a common error.
+
 ## Official syllabus
 
 Structure 1.2, The nuclear atom: International Baccalaureate Organization, *Chemistry guide*, Diploma Programme, first assessment 2025, published February 2023.

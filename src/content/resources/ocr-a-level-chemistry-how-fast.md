@@ -266,6 +266,20 @@ Using k = Ae^(–Ea/RT) directly: with Ea = 63.0 kJ mol⁻¹ and A = 5.0 × 10�
 
 Once the ideas make sense, drill them with the [condensed How fast? notes](/resources/ocr-a-level-chemistry-how-fast-revision-notes/) and test them on the [How fast? questions](/resources/ocr-a-level-chemistry-how-fast-practice/). Tangent and gradient skills are revisited in our page on [written-paper practical skills](/resources/ocr-a-level-chemistry-practical-skills-written-examination/).
 
+## Frequently asked questions
+
+**What is the rate-determining step?**
+In a mechanism with more than one step, the rate-determining step is the step with the lowest rate. Species in the rate equation take part in this step or in a step before it.
+
+**How do you find the order from initial rates data?**
+If the rate is unchanged when a concentration changes, the order is 0; if it changes by the same factor, the order is 1; if it changes by the square of the factor, the order is 2.
+
+**Do you need to derive k = ln 2/t½?**
+No. The specification gives k = ln 2/t½ for first-order reactions, and you do not need to derive it. Do not use it for zero- or second-order reactions.
+
+**What does a zero-order concentration–time graph look like?**
+It is a straight line sloping down, so the rate is constant until the reactant runs out. A first-order graph is a curve with a constant half-life.
+
 ## Official syllabus
 
 Source: section 5.1.1 How fast?, learning outcomes (a) to (k), in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR.

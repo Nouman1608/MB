@@ -215,6 +215,20 @@ Carry unrounded values through to the last step, and give the answer to the prec
 - Proposing ammonia substitution to make phenylamine from a halobenzene instead of the nitroarene route.
 - Forgetting that the nitrile route adds a carbon, so naming the wrong amine.
 
+## Frequently asked questions
+
+**Why are amines bases in OCR A Level Chemistry?**
+The lone pair on the nitrogen atom accepts a proton (H⁺), forming a dative covalent bond. In water this gives RNH₃⁺ and OH⁻, so the solution is alkaline.
+
+**Do you need to compare the basicity of different amines?**
+No. The specification does not require comparison of basicity between amines, and reactions with acids are restricted to inorganic acids.
+
+**Why is ethanol used instead of water when making amines from haloalkanes?**
+In water, hydroxide ions or water molecules would substitute the halogen and form an alcohol. Ethanolic ammonia avoids this by-product.
+
+**How many [H] are needed to reduce a nitro group?**
+Each NO₂ group needs 6[H] to form NH₂ and two molecules of water. Balancing with too few [H] is a common error.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.1 Amines, learning outcomes (a) and (b)(i)–(ii). Published by OCR.

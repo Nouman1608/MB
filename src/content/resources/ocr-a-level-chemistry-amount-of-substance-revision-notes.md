@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Condensed recall notes on the mole, empirical formulae, titrations, gas volumes, yield and atom economy for OCR A Level Chemistry H432."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -164,3 +166,16 @@ concentration in mol dm-3  x  M  =  concentration in g dm-3
   <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are concordant titres in OCR A Level Chemistry?**
+Concordant titres are results within 0.10 cm³ of each other. Only concordant titres are averaged; the rough titre is not included.
+
+**What is the uncertainty in a burette titre?**
+A burette reads to ±0.05 cm³, and each titre needs two readings, so the uncertainty in a titre is ±0.10 cm³. Larger titres, around 25 cm³, have a lower percentage uncertainty.
+
+**Why is high atom economy important in industry?**
+A high atom economy means less waste to dispose of and lower raw-material costs.
+
+**When should you round in a multi-step mole calculation?**
+Round only at the end, and give the answer to the same number of significant figures as the least precise data.

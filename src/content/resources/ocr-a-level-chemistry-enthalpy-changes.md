@@ -231,6 +231,20 @@ Route: anhydrous solid → solution (−25.0), then solution → hydrated solid 
 
 Condense this with the [Enthalpy changes revision notes](/resources/ocr-a-level-chemistry-enthalpy-changes-revision-notes/), then test yourself with the [Enthalpy changes practice questions](/resources/ocr-a-level-chemistry-enthalpy-changes-practice/). Bond strength first appears in [Bonding and structure](/resources/ocr-a-level-chemistry-bonding-and-structure/), and mole calculations in [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/).
 
+## Frequently asked questions
+
+**What is activation energy?**
+Activation energy, Ea, is the minimum energy required for a reaction to take place. On an enthalpy profile it is measured upwards from the reactant level to the peak.
+
+**What is the difference between an exothermic and an endothermic reaction?**
+In an exothermic reaction energy passes to the surroundings, which warm up, and ∆H is negative. In an endothermic reaction energy is taken from the surroundings, which cool down, and ∆H is positive.
+
+**How is the enthalpy change of neutralisation defined for sulfuric acid?**
+∆neutH is per mole of water formed, so for sulfuric acid with sodium hydroxide the equation is ½H₂SO₄(aq) + NaOH(aq) → ½Na₂SO₄(aq) + H₂O(l). Divide by moles of water, not moles of acid.
+
+**Which practical covers enthalpy changes in H432?**
+Direct determination of enthalpy changes, using solutions in a lidded polystyrene cup or a spirit burner heating water in a metal can, is PAG3.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.2.1 Enthalpy changes, learning outcomes (a) to (h). Published by OCR.

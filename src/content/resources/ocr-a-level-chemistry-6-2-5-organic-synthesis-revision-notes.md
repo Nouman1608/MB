@@ -214,6 +214,23 @@ Compound H is CH₃CH(OH)CH₂COOCH₃, methyl 3-hydroxybutanoate.
 - Using NaBH₄ to reduce a carboxylic acid or a C=C bond.
 - Missing an intermediate's structure in a multi-stage route.
 
+## Frequently asked questions
+
+**What is the difference between reflux and distillation?**
+Heating under reflux returns the vapour to the flask so the reaction can continue for a long time. Distillation sends the vapour to a receiver to collect a volatile product.
+
+**How do you esterify a phenol in OCR A Level Chemistry?**
+Use an acyl chloride. Both carboxylic acids and acyl chlorides form esters with alcohols, but only the acyl chloride readily esterifies a phenol.
+
+**What can sodium borohydride reduce?**
+NaBH₄ reduces only the C=O group in aldehydes and ketones. It does not reduce carboxylic acids or C=C bonds; H₂ with a nickel catalyst reduces C=C and C≡N.
+
+**How do you calculate the overall yield of a multi-stage synthesis?**
+Multiply the yields of each stage. For example, stages of 80% and 65% give 0.80 × 0.65 × 100 = 52.0% overall.
+
+**What is the difference between PAG5 and PAG6?**
+PAG5 is the synthesis of an organic liquid, using a separating funnel, drying and redistillation. PAG6 is the synthesis of an organic solid.
+
 ## Official syllabus
 
 Aligned to section 6.2.5 (Organic synthesis, outcomes (a) to (c)) of OCR's H432 A Level Chemistry A specification, issued as Version 3.1 in May 2026 for the course first examined in 2017. Published by OCR.

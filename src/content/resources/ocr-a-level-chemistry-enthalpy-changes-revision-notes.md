@@ -192,6 +192,20 @@ Only the changing bonds are needed. Broken: C=C + H–Cl = 612 + 432 = 1044. Mad
 - Counting bonds in the wrong molecule or forgetting double bonds such as C=O.
 - Drawing the Ea arrow from the product level on an exothermic profile.
 
+## Frequently asked questions
+
+**What are standard conditions in OCR A Level Chemistry?**
+Standard conditions are 100 kPa and a stated temperature, usually 298 K, shown by the symbol ⦵.
+
+**Why are experimental enthalpy of combustion values too small?**
+Heat is lost to the air, some heat is absorbed by the can, combustion may be incomplete, and fuel can evaporate. All of these make the measured value smaller than the data book value.
+
+**What is the difference between average and actual bond enthalpy?**
+An average bond enthalpy comes from the same bond in many compounds, while the actual value applies to the bond in one particular molecule. Calculations with average values are therefore approximate.
+
+**Why is a temperature-time graph used in calorimetry?**
+Cooling starts before the reaction finishes, so you extend the best-fit cooling line back to the mixing time to correct for heat loss and find the true temperature change.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.2.1 Enthalpy changes, learning outcomes (a) to (h). Published by OCR.

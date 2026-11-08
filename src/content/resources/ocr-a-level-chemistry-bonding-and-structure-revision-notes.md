@@ -223,6 +223,20 @@ Hydrogen-bond diagram checklist: δ+ on H and δ− on N/O/F, the lone pair draw
 
 Try the [practice questions](/resources/ocr-a-level-chemistry-bonding-and-structure-practice/), revisit the [study guide](/resources/ocr-a-level-chemistry-bonding-and-structure/) wherever an answer slipped, then check off 2.2.2 on the [checklist](/checklists/ocr/a-level/chemistry/). The [diagnostics page](/diagnostics/) has short tests for other topics.
 
+## Frequently asked questions
+
+**Why is ice less dense than water?**
+In ice each water molecule hydrogen bonds to four others in a tetrahedral, open lattice, which holds the molecules further apart than in liquid water.
+
+**Can a molecule with polar bonds be non-polar?**
+Yes. CO₂ and BCl₃ have polar bonds, but their shapes are symmetrical, so the dipoles cancel and the molecules are non-polar.
+
+**Why do simple molecular substances not conduct electricity?**
+They have no mobile charged particles in any state, so they do not conduct when solid, liquid or dissolved.
+
+**What must the covalent bond definition include for OCR A Level Chemistry?**
+It must include the attraction between the shared pair of electrons and the nuclei of the bonded atoms. Leaving out "and the nuclei of the bonded atoms" is a common error.
+
 ## Official syllabus
 
 OCR, A Level Chemistry A specification (H432), Version 3.1 dated May 2026, first assessment 2017: section 2.2.2 Bonding and structure.
@@ -246,4 +260,3 @@ OCR, A Level Chemistry A specification (H432), Version 3.1 dated May 2026, first
   <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--04-crystal-types.webp" width="900" height="1140" alt="Four panels show the four crystal types. Ionic (sodium chloride) is a lattice of ions and melting overcomes attractions between ions. Metallic (magnesium) is positive ions in a sea of electrons. Giant covalent (diamond) is a network of carbon atoms, and melting breaks covalent bonds. Molecular (iodine, ice) has only weak forces between molecules to overcome, so the melting point is low." loading="lazy">
   <figcaption>The type of structure decides what has to be overcome on melting: ions, ion-electron attraction, covalent bonds or only weak forces between molecules.</figcaption>
 </figure>
-

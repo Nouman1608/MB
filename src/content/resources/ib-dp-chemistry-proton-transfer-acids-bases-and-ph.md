@@ -251,6 +251,23 @@ Adding acid to base gives the mirror image: high start, falling curve.
 - Putting water in the products of acid + ammonia.
 - Reading the equivalence point at the top of the vertical section, not its midpoint.
 
+## Frequently asked questions
+
+**What is the difference between a base and an alkali in IB DP Chemistry?**
+A base is a proton acceptor in the Brønsted–Lowry model. An alkali is a base that dissolves in water and releases OH⁻ ions, such as sodium hydroxide; copper(II) oxide is a base but not an alkali.
+
+**Is Reactivity 3.1.1 to 3.1.8 SL or HL content?**
+These understandings are for both SL and HL students. The higher level material in Reactivity 3.1 starts at understanding 3.1.9 and covers Ka, Kb, buffers and other titration curves.
+
+**What is the difference between a strong acid and a concentrated acid?**
+Strength is the fraction of the acid that ionizes in water, while concentration is how much acid is dissolved per dm³. A concentrated solution of a weak acid such as ethanoic acid is still weak.
+
+**Is pure water always pH 7?**
+No. Pure water is neutral because [H⁺] equals [OH⁻], but pH 7 is only the neutral value at 298 K. Water's ionization is endothermic, so hot pure water has a pH below 7 and is still neutral.
+
+**Where is the equivalence point on a strong acid–strong base pH curve?**
+It is mid-way up the near-vertical section of the curve, at pH 7 at 298 K. Reading it at the top of the vertical section is a common error.
+
 ## Official syllabus
 
 This unit is drawn from Reactivity 3.1 (understandings 3.1.1 to 3.1.8) of the *Diploma Programme Chemistry guide*, first examined in 2025 and issued by the International Baccalaureate Organization in February 2023.

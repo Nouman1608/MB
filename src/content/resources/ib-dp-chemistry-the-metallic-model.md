@@ -247,6 +247,20 @@ The rise is not smooth across the whole d-block. Zinc, with a full 3d sublevel, 
 - Tick off what you have revised: [printable DP chemistry checklist](/checklists/ib/ib-dp/chemistry/)
 - Check yourself in ten minutes: [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What is metallic bonding in IB DP Chemistry?**
+Metallic bonding is the electrostatic attraction between a lattice of cations and delocalized electrons. The attraction acts in all directions and is collective, not between particular pairs of atoms.
+
+**Why do solid metals conduct electricity but solid ionic compounds do not?**
+A solid metal has mobile delocalized electrons that carry the current. In a solid ionic compound the ions are fixed in place and there are no mobile charge carriers.
+
+**How does melting point change down a group of metals?**
+Down a group the cation charge stays the same but the ion radius increases, so the delocalized electrons are further from each nucleus and the metallic bond gets weaker.
+
+**Which part of Structure 2.3 is HL only?**
+Structure 2.3.3 on transition elements is HL only. It explains their high melting points and good electrical conductivity through delocalized d-electrons.
+
 ## Official syllabus
 
 This study guide is based on the *Chemistry guide* for the IB Diploma Programme, published by the International Baccalaureate in February 2023 (first assessment 2025). It follows sub-topic Structure 2.3, The metallic model. Understandings 2.3.1 and 2.3.2 apply to SL and HL; understanding 2.3.3 is additional higher level, so HL only.

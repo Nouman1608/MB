@@ -283,6 +283,20 @@ All of these happen readily at room temperature and are not reversible. Every on
 - Describing hydrogen bonding vaguely ("it is polar") without naming the δ+ H and the oxygen lone pair.
 - Forgetting the 2 : 1 acid-to-carbonate ratio, and so doubling the CO₂ volume.
 
+## Frequently asked questions
+
+**Why are short-chain carboxylic acids soluble in water?**
+The –COOH group forms hydrogen bonds with water: the δ+ H of the O–H is attracted to a lone pair on a water oxygen, and water's δ+ H is attracted to the acid's oxygen lone pairs. Solubility falls as the non-polar chain gets longer.
+
+**How do you name an ester?**
+The alcohol gives the alkyl word, written first, and the acid gives the -oate word. Propyl ethanoate comes from propan-1-ol and ethanoic acid.
+
+**Why must acyl chloride reactions with SOCl₂ be kept dry?**
+Acyl chlorides react with water, so the conditions must be dry. Both by-products of the SOCl₂ reaction are gases, which makes the acyl chloride easy to separate.
+
+**Do you need to compare the acidity of different carboxylic acids?**
+No. The specification states that comparing the acidity of different carboxylic acids is not required.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.1.3 Carboxylic acids and esters, learning outcomes (a) to (f). Published by OCR.

@@ -187,6 +187,20 @@ Use 24.0 dm³ mol⁻¹ for the molar gas volume at RTP.
 - Outcome tracker: [H432 printable checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry Group 2 questions from past papers?**
+No. They are original practice questions with marked worked answers on section 3.1.2 of OCR A Level Chemistry A (H432).
+
+**How do you explain why reactivity increases down Group 2?**
+Refer to both increasing atomic radius and increased shielding, so the outer electrons are less strongly attracted and the ionisation energies fall. Saying that nuclear charge falls is wrong, because it increases.
+
+**Is the reaction of a Group 2 oxide with water a redox reaction?**
+No. No oxidation numbers change when a Group 2 oxide reacts with water, so it is not redox. The reaction of the metal with water is redox.
+
+**Why does alkalinity increase down Group 2?**
+The hydroxides become more soluble down the group, so the concentration of OH⁻ ions rises. Explaining alkalinity with reactivity instead of hydroxide solubility loses marks.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.2 Group 2, learning outcomes (a) to (e). Published by OCR.
