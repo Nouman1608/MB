@@ -237,6 +237,20 @@ Loops through every item in `order` [1]; tests whether the item is a key in `pri
 - Forgetting that a full priority queue rejects an enqueue, or testing "full" with the wrong condition.
 - Looking up a missing dictionary key without testing for it first.
 
+## Frequently asked questions
+
+**Is advanced data structures AS or A-level content in OxfordAQA 9645?**
+Section 3.10 Advanced data structures is International A-level only and is assessed in Unit 3: Advanced Programming.
+
+**How do you justify choosing an adjacency list over a matrix?**
+Compare the number of edges with the number of vertices using figures. For example, a matrix for 4,000 vertices needs 16,000,000 cells, while a list with at most 5 links per vertex needs about 20,000 entries.
+
+**When does a hash table search stop?**
+A search stops when it finds a match or reaches an empty position. Stopping at the first non-matching key is a common error.
+
+**What is a common mistake with directed graph adjacency matrices?**
+Copying each edge into both cells, as for an undirected graph. In a directed graph, read the row as from and the column as to, so the matrix is not symmetric.
+
 ## Next steps
 
 - [Revision notes](/resources/oxfordaqa-a-level-computer-science-advanced-data-structures-revision-notes/)

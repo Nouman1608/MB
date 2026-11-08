@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fundamental-data-structures"
     subtopic: "arrays-and-lists-oxfordaqa-alevel-cs"
-description: "Condensed recall notes on static vs dynamic data structures, and one/two-dimensional arrays and lists, for OxfordAQA International A-Level Computer Science (9645), sub-topic 3.2.1."
+description: "Recall notes for OxfordAQA International A-Level Computer Science 9645 sub-topic 3.2.1: static and dynamic data structures, arrays, lists and 2D structures."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -104,6 +106,20 @@ In programming exam questions, it is acceptable to use either lists or arrays to
 ## Vocabulary precision matters
 
 Keeping the words "array" and "list" mapped correctly to "static" and "dynamic" respectively -- rather than treating all indexed collections as one interchangeable category -- is the specific vocabulary precision this sub-topic rewards in written exam answers, even when your practical programming work uses Python lists throughout.
+
+## Frequently asked questions
+
+**Can you use Python lists instead of arrays in OxfordAQA 9645 programming exams?**
+Yes. Either lists or arrays may be used to solve a problem unless the question states that one specifically must be used.
+
+**What is the difference between an array and a list in OxfordAQA 9645?**
+An array is a static, fixed-size, indexed collection of elements of the same type. A Python list is a dynamic, indexed collection that can change size during execution.
+
+**How do you index a seat in a two-dimensional cinema layout?**
+Use seating[row][seat], so with zero-based indexing seating[2][5] is the 3rd row and 6th seat.
+
+**What is the disadvantage of a static data structure?**
+A static structure wastes memory if it is oversized and fails if it is undersized, because its size cannot change once created.
 
 ## Related resources
 

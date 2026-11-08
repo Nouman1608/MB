@@ -182,6 +182,20 @@ Judgement tied to the scenario, e.g. the gains do not outweigh the bias and surv
 - Stating "bias" without the training-data cause and its effect on a named group.
 - Giving generic benefits and risks with no link to the scenario.
 
+## Frequently asked questions
+
+**Which paper assesses Artificial intelligence in OxfordAQA 9645?**
+Section 3.16 Artificial intelligence is International A-level only and is assessed in Unit 4, Advanced concepts and principles of computer science, a written paper.
+
+**How do you calculate the output of a node in a neural network?**
+Multiply each input by its weight, add the products to get the weighted sum, then apply the rule given in the question, such as outputting 1 if the sum is greater than 0. Applying the rule to single inputs is a common error.
+
+**What makes a neural network a deep learning network?**
+A deep learning network has several hidden layers rather than just one. Judging deep by the number of nodes or the amount of data is a common mistake.
+
+**How should you explain bias in an AI system?**
+Link the cause in the training data, such as one group being under-represented, to its effect on a named group, such as unequal shortlisting rates. Stating that the data is biased on its own is too thin.
+
 ## Next steps
 
 - Recap definitions and methods with the [AI revision notes](/resources/oxfordaqa-a-level-computer-science-artificial-intelligence-revision-notes/).

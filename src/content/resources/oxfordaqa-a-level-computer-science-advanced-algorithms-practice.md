@@ -243,6 +243,20 @@ Correct header and parameters [1]; `visited` and `queue` both start with `start`
 - Reading a parallel-array tree from the letters instead of the left and right pointers.
 - Reversing the operands when evaluating postfix.
 
+## Frequently asked questions
+
+**Is advanced algorithms AS or A-level content in OxfordAQA 9645?**
+Sections 3.11.1 Graph algorithms and 3.11.2 Tree algorithms are International A-level only and are examined in Unit 3: Advanced Programming.
+
+**What is a common mistake in a breadth-first search trace?**
+Adding a vertex to the queue a second time because it was not marked as visited when it was first discovered. Ignoring the stated neighbour order is another frequent error.
+
+**Why is breadth-first search not suitable for weighted graphs?**
+Breadth-first search finds the route with the fewest edges and ignores weights, so a route with fewer edges can still have a higher total weight than the one Dijkstra's algorithm finds.
+
+**How do you get the route from a breadth-first search?**
+Record the parent of each vertex when it is discovered, then follow the parents back from the target and reverse them. A visit order on its own is not a route.
+
 ## Next steps
 
 - [Revision notes](/resources/oxfordaqa-a-level-computer-science-advanced-algorithms-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-computer-science-advanced-algorithms/) for anything you lost marks on.

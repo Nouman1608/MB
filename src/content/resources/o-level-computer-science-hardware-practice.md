@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "hardware-2210"
     subtopic: "network-hardware-2210"
-description: "Original exam-style practice questions with full worked answers on the fetch-decode-execute cycle, sensors, data storage and network hardware, for Cambridge O Level Computer Science (2210) Topic 3 Hardware."
+description: "Original practice questions with worked answers for Cambridge O Level Computer Science 2210 Topic 3: fetch-execute, sensors, storage and network hardware."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -129,3 +131,17 @@ exactly as the study guide recommends, rather than guessing a sensor from its na
 rewards naming each register in the correct order during the fetch stage specifically — a frequent
 exam format asks for one stage of the cycle in isolation, so practising each stage separately, not just
 the cycle as a whole, is worth building into revision for this sub-topic. Question 8 shows the same explicit-comparison habit applied to IPv4 versus IPv6, one of several named pairs (alongside RAM vs ROM, primary vs secondary storage, and local vs cloud storage) that the study guide recommends preparing as short, structured comparisons rather than isolated facts.
+
+## Frequently asked questions
+
+**What happens during the fetch stage of the fetch-decode-execute cycle?**
+The address in the program counter is copied to the MAR, the instruction at that address is copied into the MDR, the program counter is incremented, and the instruction is copied from the MDR to the CIR.
+
+**What are the two parts of a MAC address?**
+A MAC address is made up of a manufacturer code and a serial code, and it is assigned at the point of manufacture.
+
+**Why might someone use both cloud storage and a local hard drive?**
+Using both means there is a copy if the hard drive fails or is lost, and a copy if the cloud service or internet connection is unavailable, avoiding a single point of failure.
+
+**How do more processor cores improve performance?**
+More cores let the CPU process several tasks genuinely at the same time, so tasks that can be split and run in parallel finish faster.

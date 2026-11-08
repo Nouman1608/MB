@@ -12,10 +12,12 @@ order: 9
 syllabusTopics:
   - qualification: "o-level"
     topic: "databases-2210"
-description: "Original exam-style questions with full worked answers on fields, records and primary keys, choosing data types for fields, and writing and reading SQL using SELECT, FROM, WHERE, ORDER BY, SUM and COUNT, for Cambridge O Level Computer Science (2210)."
+description: "Original practice questions with worked answers for Cambridge O Level Computer Science 2210: fields, records, primary keys, data types and SQL queries."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
@@ -111,3 +113,17 @@ PetID and WeightKg after SELECT and FROM Pet [1]; WHERE WeightKg > 20 [1]; ORDER
 - Forgetting quotation marks around a text criterion, or putting them around a number.
 - Choosing text for a field that only ever holds numbers, or integer for a value with decimal places.
 - Forgetting DESC when the largest value must come first.
+
+## Frequently asked questions
+
+**How are SQL statements marked in O Level Computer Science?**
+In the mark scheme insights on this page, each part earns its own mark: the fields after SELECT, the keyword FROM, the field in WHERE and the criterion. A text criterion was accepted in single or double quotation marks.
+
+**What is a common mistake in SQL SELECT answers?**
+Listing extra fields after SELECT, or using SELECT *, when the question asks for only some fields.
+
+**How do you choose the right data type for a database field?**
+Base the choice on the values in the data: a weight with decimals is real, yes or no values are Boolean, names are text and counts are integer.
+
+**How do you work out the output of an SQL query?**
+Go through the records one at a time to pick out those that meet the WHERE condition, then apply COUNT, SUM or ORDER BY to that smaller set.
