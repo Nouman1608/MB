@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-literary-genres-7717"
     subtopic: "option-1b-aspects-of-comedy-7717"
-description: "Original exam-style practice questions with full worked answers on Paper 1 of AQA A-Level English Literature B (7717)."
+description: "Original essay practice with top-band guidance on Paper 1 Literary Genres (tragedy or comedy) of AQA A-Level English Literature B 7717, for any studied texts."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

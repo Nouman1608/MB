@@ -162,53 +162,53 @@ scheme.
 
 ### Questions 2 to 10: what a strong essay does
 
-- **Q2 (Blake).** For: 'The Chimney Sweeper' poems and 'Holy Thursday' speak through or about
+- **Question 2 (Blake).** For: 'The Chimney Sweeper' poems and 'Holy Thursday' speak through or about
   children exploited by church and state, and their innocence makes the reader see the cruelty.
   Against or complicating: 'London' uses an adult wanderer who sees "mind-forg'd manacles" in
   every face, a more direct and systemic protest. Strong answers explore Blake's paired
   contrary states and the ballad and hymn forms he subverts.
-- **Q3 (Harrison).** Class is central: 'Them and [uz]' attacks the policing of Received
+- **Question 3 (Harrison).** Class is central: 'Them and [uz]' attacks the policing of Received
   Pronunciation, and 'V' is set in a Leeds cemetery during the miners' strike of 1984 to 1985.
   Counter-arguments: 'Working' gives voice to a child mine worker from the 1842 parliamentary
   reports, so the protest is also about child labour and silenced testimony; 'Marked with D' is
   as much elegy as anger. Good answers analyse Harrison's sonnet variants and his use of dialect.
-- **Q4 (*Harvest*).** For: Walter Thirsk narrates the end of a village's open-field way of life as
+- **Question 4 (*Harvest*).** For: Walter Thirsk narrates the end of a village's open-field way of life as
   enclosure for sheep arrives; the threat is a historical process. Against: change is carried by
   people, the new landowner, and the village's own scapegoating of outsiders shows oppression
   coming from below as well. The unnamed, timeless setting lets Crace generalise.
-- **Q5 (*Brotherless Night*).** The novel follows a young Tamil woman training as a doctor in
+- **Question 5 (*Brotherless Night*).** The novel follows a young Tamil woman training as a doctor in
   Jaffna during the Sri Lankan civil war, whose brothers are drawn into the conflict. Arguments can
   weigh her attempts at medical neutrality against the pressures from militant groups and the
   state; strong answers consider the retrospective first-person narrative as testimony.
-- **Q6 (*The Kite Runner*).** For: Hassan is Hazara and Amir Pashtun, and Assef's assault draws
+- **Question 6 (*The Kite Runner*).** For: Hassan is Hazara and Amir Pashtun, and Assef's assault draws
   on ethnic hatred; Amir's silence reproduces a social hierarchy. Against: the novel frames the
   betrayal through guilt, fatherhood and friendship, with politics (the Soviet invasion and the
   Taliban) as backdrop. Amir's redemption through Sohrab can be read either way.
-- **Q7 (*The Handmaid's Tale*).** For: the Aunts train Handmaids, Wives such as Serena Joy enforce
+- **Question 7 (*The Handmaid's Tale*).** For: the Aunts train Handmaids, Wives such as Serena Joy enforce
   the household hierarchy, and Ofglen's betrayals and loyalties show women policing women. Against:
   the Commanders, Guardians and Eyes hold armed power, and the Ceremony rests on male authority.
   The 'Historical Notes' complicate the view by showing the male academic who later
   edits Offred's story.
-- **Q8 (*Hard Times*).** For: Louisa's breakdown, Tom's corruption and Stephen Blackpool's fate show
+- **Question 8 (*Hard Times*).** For: Louisa's breakdown, Tom's corruption and Stephen Blackpool's fate show
   individual damage, and Gradgrind's opening "Now, what I want is, Facts" is a philosophy of
   education. Against: Coketown's factories, Bounderby's self-made myth and the union orator
   Slackbridge make the politics of industry explicit; strong answers note Dickens's ambivalence
   towards trade unions and his attack on utilitarian thinking.
-- **Q9 (*A Doll's House*).** For: Nora's departure overturns the domestic order the play has built.
+- **Question 9 (*A Doll's House*).** For: Nora's departure overturns the domestic order the play has built.
   Against: her secret loan and forgery, done to save Torvald's life, is already a rebellion against
   laws that forbade a wife to borrow without her husband's consent, and Kristine and Krogstad make
   their own choices against social judgement. Discuss staging, especially the final exit.
-- **Q10 (*Henry IV Part I*).** For: Falstaff's tavern world mocks honour ("What is honour? A
+- **Question 10 (*Henry IV Part I*).** For: Falstaff's tavern world mocks honour ("What is honour? A
   word") and law, a comic rebellion against order. Against: the Percys' armed rising against the
   king is the play's political crisis, and Hal's "I know you all" soliloquy shows his tavern life
   as a strategy, so Falstaff is ultimately contained. Strong answers explore the play's double plot.
 
 ### Questions 11 and 12: what a strong connective essay does
 
-- **Organise by aspect.** For Q11, paragraphs might cover open revolt, quiet or private resistance,
+- **Organise by aspect.** For Question 11, paragraphs might cover open revolt, quiet or private resistance,
   and the cost of resistance, moving between both texts in each.
 - **Choose pairs with real tension.** Offred's private acts of memory set against Nora's public exit;
-  Blake's sweeps beside Harrison's child miner in 'Working'; Hard Times beside Harvest for Q12.
+  Blake's sweeps beside Harrison's child miner in 'Working'; Hard Times beside Harvest for Question 12.
 - **Include context and interpretation.** Industrial England, enclosure, Gilead's sources in
   twentieth-century politics, or nineteenth-century property law for married women.
 - **Give each text substantial depth** and avoid two separate mini-essays.

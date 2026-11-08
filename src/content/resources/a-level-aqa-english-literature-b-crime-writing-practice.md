@@ -172,7 +172,7 @@ shows what a top-band answer is likely to explore, not a list to total.
 A top-band Section B answer argues a clear position on the view, tests it against counter-evidence,
 and analyses method (structure, voice, form, imagery) rather than retelling plot.
 
-- **Q2 (Crabbe, Browning, Wilde).** For: Crabbe's Peter Grimes, who mistreats and outlives his
+- **Question 2 (Crabbe, Browning, Wilde).** For: Crabbe's Peter Grimes, who mistreats and outlives his
   workhouse apprentices, is shunned by the Borough and tormented by visions that drive him to a
   delirious death, so punishment comes through the mind. Against: Browning's Duke in 'My Last
   Duchess' is never punished; his chilling understatement, "I gave commands; / Then all smiles
@@ -182,41 +182,41 @@ and analyses method (structure, voice, form, imagery) rather than retelling plot
   of the trooper is presented as cruel, and the refrain "each man kills the thing he loves"
   spreads guilt to everyone. Good answers compare dramatic monologue (Browning) with narrative
   verse (Crabbe, Wilde).
-- **Q3 (*The Rime*).** The shooting of the albatross is told in a single line and never explained,
+- **Question 3 (*The Rime*).** The shooting of the albatross is told in a single line and never explained,
   which supports the view; the long sequence of drought, the death of the crew and the figure of
   Life-in-Death gives the punishment the weight of the poem. A counter-argument: the crime's
   lack of motive is the point, a sin against the "one life" of creation, and the moral, "He
   prayeth best, who loveth best / All things both great and small", depends on it. The Mariner's
   compulsion to retell his tale shows the punishment never fully ends.
-- **Q4 (Atkinson).** The novel opens with a child's survival of a violent attack on her family,
+- **Question 4 (Atkinson).** The novel opens with a child's survival of a violent attack on her family,
   then follows Joanna Hunter as an adult, the teenage Reggie Chase, Jackson Brodie and DCI Louise
   Monroe. Shifting viewpoints, coincidence and digressive interior voice keep attention on the
   aftermath of crime rather than on procedure, which supports the view. Against: the novel still
   turns on a disappearance that has to be investigated, so detection shapes its later chapters.
-- **Q5 (*Atonement*).** For: Briony's accusation sends Robbie to prison and to war, and the novel's
+- **Question 5 (*Atonement*).** For: Briony's accusation sends Robbie to prison and to war, and the novel's
   form, Briony's own narrative, is her attempt at atonement. Against: the rape of Lola is committed
   by Paul Marshall, who prospers; McEwan also implicates class, which makes Robbie (the cleaner's
   son) believable as a suspect. The metafictional final section asks whether fiction can atone at
   all, which strong answers use to question "real".
-- **Q6 (*Kala*).** The novel centres on the disappearance of a teenage girl from a small Irish
+- **Question 6 (*Kala*).** The novel centres on the disappearance of a teenage girl from a small Irish
   seaside town and the return, years later, of friends who knew her when her remains are found.
   Arguments can weigh the community's silences, small-town power and complicity against the
   individual culpability that the investigation finally exposes. Answer only from the 2027 series.
-- **Q7 (*Oliver Twist*).** For: the workhouse, the parish board and Mr Bumble ("the law is a ass")
+- **Question 7 (*Oliver Twist*).** For: the workhouse, the parish board and Mr Bumble ("the law is a ass")
   starve and exploit children legally, and Dickens's satirical narrator attacks the New Poor Law
   of 1834. Against: Sikes's murder of Nancy is the most violent and morally charged episode, and
   Fagin's condemned cell is written with intense personal horror, so individual crime is not
   sidelined.
-- **Q8 (*Roger Ackroyd*).** The narrator, Dr Sheppard, is the murderer. Because his account is
+- **Question 8 (*Roger Ackroyd*).** The narrator, Dr Sheppard, is the murderer. Because his account is
   technically truthful but full of omissions, the reader is deceived by the narrative itself,
   which supports the view. Poirot, however, is also misled for much of the novel, and his final
   exposure of Sheppard restores order, so the detective is still central to Christie's design.
-- **Q9 (*Brighton Rock*).** For: Ida pursues Pinkie out of a confident, secular sense of right and
+- **Question 9 (*Brighton Rock*).** For: Ida pursues Pinkie out of a confident, secular sense of right and
   wrong and an appetite for life, and Greene sets her morality against the Catholic categories of
   good and evil held by Pinkie and Rose; her pursuit drives Rose's suffering. Against: Pinkie
   murders, threatens and plans to kill Rose, so his crimes are the novel's moral centre. Strong
   answers engage with the debate over whether the novel's sympathy lies with Ida or with Rose.
-- **Q10 (*Hamlet*).** For: Hamlet kills Polonius, sends Rosencrantz and Guildenstern to their
+- **Question 10 (*Hamlet*).** For: Hamlet kills Polonius, sends Rosencrantz and Guildenstern to their
   deaths and drives Ophelia toward madness. Against: Claudius commits regicide and fratricide,
   "Murder most foul", and admits "O, my offence is rank, it smells to heaven"; Hamlet's acts belong
   to the revenge-tragedy pattern of a wronged avenger. Strong answers use the element of *the type
@@ -229,7 +229,7 @@ and analyses method (structure, voice, form, imagery) rather than retelling plot
   between both texts within it.
 - **Give both texts substantial depth.** The coverage need not be exactly equal, but both must be
   explored in detail.
-- **Use the element list.** For Q12, *guilt and remorse, confession and the desire for
+- **Use the element list.** For Question 12, *guilt and remorse, confession and the desire for
   forgiveness* is a named element; pairings that work well include the Mariner's penance with
   Briony's lifelong rewriting, or Claudius's failed prayer with Sheppard's written confession.
 - **Bring in context and interpretation.** For example, Victorian penal debate for Wilde or
