@@ -11,6 +11,8 @@ import { DECK_AQA_A_LEVEL_ENGLISH_LITERATURE } from './aqa-a-level-english-liter
 import { DECK_AQA_A_LEVEL_LAW } from './aqa-a-level-law.ts';
 import { DECK_AQA_A_LEVEL_MATHEMATICS } from './aqa-a-level-mathematics.ts';
 import { DECK_AQA_A_LEVEL_PHYSICS } from './aqa-a-level-physics.ts';
+import { DECK_AQA_A_LEVEL_PSYCHOLOGY } from './aqa-a-level-psychology.ts';
+import { DECK_AQA_A_LEVEL_SOCIOLOGY } from './aqa-a-level-sociology.ts';
 import { DECK_AQA_AS_LEVEL_BUSINESS } from './aqa-as-level-business.ts';
 import { DECK_AQA_AS_LEVEL_ECONOMICS } from './aqa-as-level-economics.ts';
 import { DECK_AQA_GCSE_BIOLOGY } from './aqa-gcse-biology.ts';
@@ -21,6 +23,8 @@ import { DECK_AQA_GCSE_ENGLISH_LANGUAGE } from './aqa-gcse-english-language.ts';
 import { DECK_AQA_GCSE_ENGLISH_LITERATURE } from './aqa-gcse-english-literature.ts';
 import { DECK_AQA_GCSE_MATHEMATICS } from './aqa-gcse-mathematics.ts';
 import { DECK_AQA_GCSE_PHYSICS } from './aqa-gcse-physics.ts';
+import { DECK_AQA_GCSE_PSYCHOLOGY } from './aqa-gcse-psychology.ts';
+import { DECK_AQA_GCSE_SOCIOLOGY } from './aqa-gcse-sociology.ts';
 import { DECK_AQA_GCSE_WORLD_HISTORY } from './aqa-gcse-world-history.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_ACCOUNTING } from './cambridge-a-level-accounting.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_BIOLOGY } from './cambridge-a-level-biology.ts';
@@ -35,6 +39,8 @@ import { DECK_CAMBRIDGE_A_LEVEL_ICT } from './cambridge-a-level-ict.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_LAW } from './cambridge-a-level-law.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS } from './cambridge-a-level-mathematics.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_PHYSICS } from './cambridge-a-level-physics.ts';
+import { DECK_CAMBRIDGE_A_LEVEL_PSYCHOLOGY } from './cambridge-a-level-psychology.ts';
+import { DECK_CAMBRIDGE_A_LEVEL_SOCIOLOGY } from './cambridge-a-level-sociology.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_WORLD_HISTORY } from './cambridge-a-level-world-history.ts';
 import { DECK_CAMBRIDGE_IGCSE_ACCOUNTING } from './cambridge-igcse-accounting.ts';
 import { DECK_CAMBRIDGE_IGCSE_BIOLOGY } from './cambridge-igcse-biology.ts';
@@ -51,6 +57,7 @@ import { DECK_CAMBRIDGE_IGCSE_ISLAMIYAT } from './cambridge-igcse-islamiyat.ts';
 import { DECK_CAMBRIDGE_IGCSE_MATHEMATICS } from './cambridge-igcse-mathematics.ts';
 import { DECK_CAMBRIDGE_IGCSE_PAKISTAN_STUDIES } from './cambridge-igcse-pakistan-studies.ts';
 import { DECK_CAMBRIDGE_IGCSE_PHYSICS } from './cambridge-igcse-physics.ts';
+import { DECK_CAMBRIDGE_IGCSE_SOCIOLOGY } from './cambridge-igcse-sociology.ts';
 import { DECK_CAMBRIDGE_IGCSE_STATISTICS } from './cambridge-igcse-statistics.ts';
 import { DECK_CAMBRIDGE_IGCSE_WORLD_HISTORY } from './cambridge-igcse-world-history.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_ACCOUNTING } from './cambridge-o-level-accounting.ts';
@@ -66,6 +73,7 @@ import { DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT } from './cambridge-o-level-islamiyat.
 import { DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS } from './cambridge-o-level-mathematics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_PAKISTAN_STUDIES } from './cambridge-o-level-pakistan-studies.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_PHYSICS } from './cambridge-o-level-physics.ts';
+import { DECK_CAMBRIDGE_O_LEVEL_SOCIOLOGY } from './cambridge-o-level-sociology.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_STATISTICS } from './cambridge-o-level-statistics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_WORLD_HISTORY } from './cambridge-o-level-world-history.ts';
 import { DECK_EDEXCEL_A_LEVEL_ACCOUNTING } from './edexcel-a-level-accounting.ts';
@@ -131,6 +139,8 @@ import { DECK_OXFORDAQA_A_LEVEL_ENGLISH_LANGUAGE } from './oxfordaqa-a-level-eng
 import { DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE } from './oxfordaqa-a-level-english-literature.ts';
 import { DECK_OXFORDAQA_A_LEVEL_MATHEMATICS } from './oxfordaqa-a-level-mathematics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
+import { DECK_OXFORDAQA_A_LEVEL_PSYCHOLOGY } from './oxfordaqa-a-level-psychology.ts';
+import { DECK_OXFORDAQA_A_LEVEL_SOCIOLOGY } from './oxfordaqa-a-level-sociology.ts';
 import { DECK_OXFORDAQA_IGCSE_ACCOUNTING } from './oxfordaqa-igcse-accounting.ts';
 import { DECK_OXFORDAQA_IGCSE_BIOLOGY } from './oxfordaqa-igcse-biology.ts';
 import { DECK_OXFORDAQA_IGCSE_BUSINESS } from './oxfordaqa-igcse-business.ts';
@@ -143,6 +153,8 @@ import { DECK_OXFORDAQA_IGCSE_ISLAMIYAT } from './oxfordaqa-igcse-islamiyat.ts';
 import { DECK_OXFORDAQA_IGCSE_MATHEMATICS } from './oxfordaqa-igcse-mathematics.ts';
 import { DECK_OXFORDAQA_IGCSE_PAKISTAN_STUDIES } from './oxfordaqa-igcse-pakistan-studies.ts';
 import { DECK_OXFORDAQA_IGCSE_PHYSICS } from './oxfordaqa-igcse-physics.ts';
+import { DECK_OXFORDAQA_IGCSE_PSYCHOLOGY } from './oxfordaqa-igcse-psychology.ts';
+import { DECK_OXFORDAQA_IGCSE_SOCIOLOGY } from './oxfordaqa-igcse-sociology.ts';
 import { DECK_OXFORDAQA_IGCSE_WORLD_HISTORY } from './oxfordaqa-igcse-world-history.ts';
 
 export const GENERATED_DECKS: readonly FlashcardDeck[] = [
@@ -157,6 +169,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_A_LEVEL_LAW,
   DECK_AQA_A_LEVEL_MATHEMATICS,
   DECK_AQA_A_LEVEL_PHYSICS,
+  DECK_AQA_A_LEVEL_PSYCHOLOGY,
+  DECK_AQA_A_LEVEL_SOCIOLOGY,
   DECK_AQA_AS_LEVEL_BUSINESS,
   DECK_AQA_AS_LEVEL_ECONOMICS,
   DECK_AQA_GCSE_BIOLOGY,
@@ -167,6 +181,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_GCSE_ENGLISH_LITERATURE,
   DECK_AQA_GCSE_MATHEMATICS,
   DECK_AQA_GCSE_PHYSICS,
+  DECK_AQA_GCSE_PSYCHOLOGY,
+  DECK_AQA_GCSE_SOCIOLOGY,
   DECK_AQA_GCSE_WORLD_HISTORY,
   DECK_CAMBRIDGE_A_LEVEL_ACCOUNTING,
   DECK_CAMBRIDGE_A_LEVEL_BIOLOGY,
@@ -181,6 +197,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_A_LEVEL_LAW,
   DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_A_LEVEL_PHYSICS,
+  DECK_CAMBRIDGE_A_LEVEL_PSYCHOLOGY,
+  DECK_CAMBRIDGE_A_LEVEL_SOCIOLOGY,
   DECK_CAMBRIDGE_A_LEVEL_WORLD_HISTORY,
   DECK_CAMBRIDGE_IGCSE_ACCOUNTING,
   DECK_CAMBRIDGE_IGCSE_BIOLOGY,
@@ -197,6 +215,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_IGCSE_MATHEMATICS,
   DECK_CAMBRIDGE_IGCSE_PAKISTAN_STUDIES,
   DECK_CAMBRIDGE_IGCSE_PHYSICS,
+  DECK_CAMBRIDGE_IGCSE_SOCIOLOGY,
   DECK_CAMBRIDGE_IGCSE_STATISTICS,
   DECK_CAMBRIDGE_IGCSE_WORLD_HISTORY,
   DECK_CAMBRIDGE_O_LEVEL_ACCOUNTING,
@@ -212,6 +231,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_O_LEVEL_PAKISTAN_STUDIES,
   DECK_CAMBRIDGE_O_LEVEL_PHYSICS,
+  DECK_CAMBRIDGE_O_LEVEL_SOCIOLOGY,
   DECK_CAMBRIDGE_O_LEVEL_STATISTICS,
   DECK_CAMBRIDGE_O_LEVEL_WORLD_HISTORY,
   DECK_EDEXCEL_A_LEVEL_ACCOUNTING,
@@ -277,6 +297,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE,
   DECK_OXFORDAQA_A_LEVEL_MATHEMATICS,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
+  DECK_OXFORDAQA_A_LEVEL_PSYCHOLOGY,
+  DECK_OXFORDAQA_A_LEVEL_SOCIOLOGY,
   DECK_OXFORDAQA_IGCSE_ACCOUNTING,
   DECK_OXFORDAQA_IGCSE_BIOLOGY,
   DECK_OXFORDAQA_IGCSE_BUSINESS,
@@ -289,5 +311,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_IGCSE_MATHEMATICS,
   DECK_OXFORDAQA_IGCSE_PAKISTAN_STUDIES,
   DECK_OXFORDAQA_IGCSE_PHYSICS,
+  DECK_OXFORDAQA_IGCSE_PSYCHOLOGY,
+  DECK_OXFORDAQA_IGCSE_SOCIOLOGY,
   DECK_OXFORDAQA_IGCSE_WORLD_HISTORY,
 ];
