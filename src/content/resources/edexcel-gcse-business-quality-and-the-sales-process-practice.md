@@ -140,6 +140,20 @@ Evaluate whether Hexby Plants should go ahead with the plan. **[9]**
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these quality and sales process questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 2 items 2.3.3 and 2.3.4: quality control, quality assurance, how quality controls costs and builds competitive advantage, the sales process and customer service.
+
+**What is a common mistake when defining quality control?**
+Saying quality control prevents faults. Preventing faults is quality assurance; quality control checks products to find faults after they have happened.
+
+**How do you calculate a defect rate?**
+Divide the number of rejected items by the total checked and multiply by 100. For example, 85 rejects out of 1,250 candles is a 6.8% defect rate.
+
+**What should you include when comparing quality options?**
+Include the cost of the quality programme itself as well as the savings from fewer faults, then give a recommendation with a reason. Leaving out the programme's cost is a frequent error.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2, Topic 2.3 Making operational decisions, content items 2.3.3 and 2.3.4.

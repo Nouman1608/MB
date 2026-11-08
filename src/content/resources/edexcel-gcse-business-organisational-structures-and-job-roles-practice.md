@@ -140,6 +140,20 @@ Justify which option the owner should choose. **[9]**
 - Take the [free 10-minute diagnostics](/diagnostics/) to see which topics to revisit.
 - [Book a free trial class](/trial/) if you would like live help.
 
+## Frequently asked questions
+
+**What do these organisational structure questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 2 items 2.5.1 and 2.5.2: hierarchical and flat structures, centralised and decentralised decision making, communication, ways of working, job roles and recruitment.
+
+**How do you calculate an average when there are different groups of staff?**
+Divide the total hours by the total number of staff. Averaging two group averages instead is a common mistake.
+
+**What does a Justify question need in Edexcel GCSE Business?**
+Use the information provided to recommend one of the two options and say why it is better than the other. Discussing both options without picking one limits the marks.
+
+**What are common mix-ups on recruitment questions?**
+Confusing a job description, which describes the job, with a person specification, which describes the qualities needed in the person. Treating freelance and temporary workers as the same is another frequent error.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.5 Making human resource decisions, items 2.5.1 and 2.5.2.

@@ -224,6 +224,20 @@ The bakery must pay the higher rate. It could absorb the cost or raise prices sl
 - Naming a barrier but not saying how it arises or how to remove it.
 - Mixing up the job description (the duties) and the person specification (the person).
 
+## Frequently asked questions
+
+**Why is good communication important to a business?**
+Good communication means workers know what to do, managers get accurate information for decisions and staff feel valued. Poor communication leads to wrong orders, missed deadlines, rumours and complaints.
+
+**What are the advantages of email for business communication?**
+Email is quick and cheap, gives a written record, carries attachments and reaches many people at once. Its limitations are inbox overload, tone that can be misread and the need for equipment and access.
+
+**What is the difference between internal and external recruitment?**
+Internal recruitment fills a vacancy from existing staff, which is cheaper and quicker and motivates others. External recruitment uses a job advertisement or agency to reach a wider pool with new skills, but costs more and takes longer.
+
+**What is the effect of minimum wage laws on a business?**
+Minimum wage laws set the lowest hourly pay a business may legally give, so labour costs rise for low-paid roles. The business may raise prices or accept lower profit, but it cannot pay below the legal rate.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 2: People in business, sections 2.1 "Internal and external communication" (2.1.1 and 2.1.2) and 2.2 "Recruitment and selection process" (2.2.1 to 2.2.4).

@@ -141,6 +141,20 @@ The owner wants quick responses to customers and lower costs. Justify which opti
 - Take the [free diagnostics](/diagnostics/) to find weak topics.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these organisation structure practice questions cover?**
+They follow section 2.5 of Pearson Edexcel International GCSE Business (4BS1): hierarchical and flat organisational charts, centralised and decentralised structures, span of control, chain of command, delegation and the four functional areas.
+
+**What is a common mistake with span of control?**
+Giving the total number of staff instead of the number of subordinates who report directly to one manager. Span of control is counted for one manager at a time.
+
+**Does delegation pass on accountability?**
+No. Delegation passes authority to carry out a task to a subordinate, but the delegating manager remains accountable for the result.
+
+**What should you include in a wage calculation answer?**
+Show your working and units, for example basic hours times the hourly rate plus any overtime at its higher rate, and remember to count every post when adding up employees.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 2: People in business, section 2.5 "Organisation structure and employees", points 2.5.1 to 2.5.3.

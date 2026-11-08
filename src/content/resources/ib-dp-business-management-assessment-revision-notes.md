@@ -7,13 +7,15 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 order: 1
-description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings and the internal assessment -- for IB Diploma Programme Business Management."
+description: "Condensed recall notes on how IB Diploma Business Management is assessed at SL and HL: the papers, their weightings and the internal assessment project."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
@@ -112,6 +114,20 @@ Paper 3, sat only by HL students and worth 25% of the HL grade, is built around 
 6. What distinguishes the organisation type typically used in HL Paper 3 from Papers 1 and 2?
 
 **Answers:** 1. Because Paper 1 releases a statement three months in advance with a small number of research topics and the first ~200 words of the case study, letting students research those topics even though the rest of the (fictitious) case study stays unseen, while Paper 2 (and HL Paper 3) use entirely unseen stimulus material under timed exam conditions. 2. The business research project (maximum 1,800 words, 25 marks) on a real organisation, with identical requirements and assessment criteria at both levels; only the weighting differs, 30% at SL and 20% at HL. 3. Change, creativity, ethics, sustainability. 4. First by the student's own teacher, then externally moderated by IB examiners. 5. Because assessment criteria reward genuine insight and a reasoned, justified conclusion from the tool used, not just correctly filling in a template such as SWOT or Ansoff's matrix. 6. Paper 3 is built around a social-enterprise stimulus, where success and strategy must be evaluated against social or environmental objectives rather than profit maximisation alone.
+
+## Frequently asked questions
+
+**How much is the internal assessment worth in IB Business Management?**
+The business research project is worth 30% of the final grade at SL and 20% at HL. It is the same task at both levels: a maximum of 1,800 words, marked out of 25, on a real organisation.
+
+**What is released before IB Business Management Paper 1?**
+A short statement is released to schools three months before the exam, with a small number of research topics and about the first 200 words of the case study. The full case study, about a fictitious organisation, stays unseen until the exam.
+
+**What are the four concepts in DP Business Management?**
+The four interdisciplinary concepts are change, creativity, ethics and sustainability. They run through the whole course, every paper and the internal assessment.
+
+**Which command terms ask for evaluation in IB Business Management?**
+The AO3 command terms (synthesis and evaluation) are compare, contrast, discuss, evaluate, examine, justify, recommend and to what extent. These require a reasoned judgement rather than description alone.
 
 ## Official syllabus
 

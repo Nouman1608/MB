@@ -128,6 +128,20 @@ These questions cover Theme 2: Building a business, topic 2.1, items 2.1.3 and 2
 
 Revisit the [revision notes](/resources/edexcel-gcse-business-globalisation-ethics-and-the-environment-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-globalisation-ethics-and-the-environment/), check the [hub](/boards/edexcel/gcse/business/) and [checklist](/checklists/edexcel/gcse/business/), take all free 10-minute [diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate the effect of a tariff on a price?**
+Find the tariff as a percentage of the good's value and add it on, rather than adding the rate itself to the price. A 12% tariff on a £25 mug is £3.00, so the mug costs £28.00 if the whole tariff is passed on.
+
+**What do these globalisation and ethics practice questions cover?**
+They follow Theme 2 items 2.1.3 and 2.1.4 of Pearson Edexcel GCSE Business (1BS0): imports, exports, changing locations, multinationals, tariffs and trade blocs, competing internationally, ethics, the environment and pressure groups.
+
+**What are common mistakes on pressure group questions?**
+Listing marketing mix elements with no link to the pressure group's campaign, or describing an environmental action without saying what it costs or saves. Answers should name the business in the question.
+
+**Can you answer an Evaluate question with "it depends"?**
+Not on its own. Give a reasoned judgement and say what the decision depends on, using evidence from the case.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.1 Growing the business, items 2.1.3 and 2.1.4.

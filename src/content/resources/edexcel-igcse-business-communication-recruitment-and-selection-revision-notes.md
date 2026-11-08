@@ -235,6 +235,20 @@ The specification defines the command words. Here is how each looks on people-in
 - Forgetting that minimum wage applies to part-time and casual workers too.
 - Giving an "evaluate" or "justify" answer with no decision.
 
+## Frequently asked questions
+
+**What is the difference between a job description and a person specification?**
+A job description sets out the job: its title, duties, hours and who it reports to. A person specification sets out the qualifications, skills, experience and qualities wanted in the person, often split into essential and desirable.
+
+**What is shortlisting?**
+Shortlisting reduces all applications to the few that best match the person specification, by comparing each application form or CV with the essential criteria.
+
+**What are the types of employment in Edexcel IGCSE Business?**
+The 4BS1 specification lists full-time, part-time, job share, and casual, seasonal or temporary employment.
+
+**How can barriers to communication be removed?**
+Use plain language, simple wording or translations, fewer layers in the hierarchy, short clear messages and reliable back-up systems. Asking the receiver for feedback is the main remedy.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 2: People in business, sections 2.1 (points 2.1.1 and 2.1.2) and 2.2 (points 2.2.1 to 2.2.4).

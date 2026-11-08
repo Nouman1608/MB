@@ -221,6 +221,20 @@ In an evaluation answer, a sentence about how the objective may change over time
 - Leaving out the stakeholder: who gains, who loses.
 - Ignoring the time frame when judging whether an objective is sensible.
 
+## Frequently asked questions
+
+**What is the difference between a vision statement and a mission statement?**
+A vision statement describes what the organization hopes to become or achieve in the long term. A mission statement describes what it does now, who it serves and how it goes about it.
+
+**What is the difference between strategic and tactical objectives?**
+Strategic objectives are long term, cover the whole organization and are set by senior management. Tactical objectives are short to medium term, cover a department, product or project and show how a strategic aim will be reached.
+
+**What is shareholder value?**
+Shareholder value is the worth of a company to the people who own its shares. It rises when the share price rises and when dividends are paid.
+
+**Can growth and profit objectives conflict?**
+Yes. A business can meet a sales growth target while its net profit margin falls, if costs rise faster than revenue.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 1.3, Business objectives.

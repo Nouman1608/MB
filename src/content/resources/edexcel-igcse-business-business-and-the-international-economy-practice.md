@@ -138,6 +138,20 @@ These questions cover Topic 1, section 1.5 "Business and the international econo
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these international economy practice questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) section 1.5: globalisation, multinationals, exchange rate calculations and the impact of exchange rate changes on importers and exporters.
+
+**How do you change a foreign currency into pounds?**
+If the rate is given as £1 = a number of foreign units, divide the foreign amount by the rate to get pounds, and multiply pounds by the rate to get the foreign currency. Multiplying instead of dividing is a common error.
+
+**Do you need to label the currency in an exchange rate answer?**
+Yes. State the currency in the final answer and give money to a sensible number of decimal places, usually two.
+
+**What should you do when a business both imports and exports?**
+Calculate the effect of the exchange rate change on each side, then say which effect is larger before deciding whether the change helps or harms the business.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, section 1.5 "Business and the international economy", points 1.5.1 to 1.5.4.

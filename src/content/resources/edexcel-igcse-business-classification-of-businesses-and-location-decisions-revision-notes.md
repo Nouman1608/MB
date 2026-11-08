@@ -241,6 +241,20 @@ The specification's command-word table describes the answers as follows.
 - Stopping at figures in an evaluate or justify answer, with no judgement.
 - Describing legal controls in detail that is not in the question, or naming a law you are unsure of.
 
+## Frequently asked questions
+
+**What are the primary, secondary and tertiary sectors?**
+The 4BS1 specification describes primary as extracting raw materials from the earth, secondary as converting raw materials into finished or semi-finished goods, and tertiary as the provision of a wide variety of services.
+
+**Is being close to competitors good or bad for a business?**
+It can be both. A cluster of similar businesses may draw customers and skilled workers to an area, but it also means sharing customers and facing price competition.
+
+**How does e-commerce affect location decisions?**
+An online seller can use cheaper premises away from busy areas and reach customers in other regions without opening shops. Costs shift to delivery, packaging, website upkeep and returns, and many businesses keep fixed premises as well.
+
+**What is a trade bloc?**
+In the standard form, a trade bloc is a group of countries that agree to reduce barriers to trade between them. Producing inside a bloc can avoid tariffs on goods sold to its members.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, sections 1.3 Classification of businesses and 1.4 Decisions on location.

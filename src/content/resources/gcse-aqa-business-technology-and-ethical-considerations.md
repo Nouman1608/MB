@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "influences-on-business-aqa-gcse-business"
     subtopic: "technology-aqa-gcse-business"
-description: "E-commerce and digital communication, and the trade-offs between ethics, sustainability and profit -- 3.2.1 and 3.2.2 of AQA GCSE Business (8132), the opening two sub-topics of Influences on Business."
+description: "E-commerce, digital communication and the trade-offs between ethics, sustainability and profit, covering sections 3.2.1 and 3.2.2 of AQA GCSE Business (8132)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **3.2.1 Technology** and **3.2.2 Ethical and
@@ -196,6 +198,20 @@ though only technology and ethics are covered in depth here — helps
 you recognise which specific influence a given exam scenario is
 testing, since questions often describe a business situation without
 naming the influence directly.
+
+## Frequently asked questions
+
+**What is e-commerce in AQA GCSE Business?**
+E-commerce is buying and selling goods or services over the internet. In AQA GCSE Business (8132) section 3.2.1, it matters because it gives businesses access to wider, often global, markets without a physical presence in every location.
+
+**What is a trade-off between ethics and profit?**
+A trade-off is where gaining more of one thing, such as ethical standing, means giving up some of another, such as short-term profit. Paying suppliers above the market rate, for example, raises costs but may improve reputation and supplier relationships.
+
+**What is the difference between environmental considerations and sustainability?**
+The specification lists them as related but separate headings. Environmental considerations cover impacts such as traffic congestion, recycling, waste disposal, and noise and air pollution, while sustainability covers global warming and the use of scarce resources.
+
+**How should you structure an answer on an ethical or sustainability decision?**
+State the action, explain its cost to the business, explain its benefit, then give a reasoned judgement on balance. Arguing only one side ignores the trade-off the specification asks you to analyse.
 
 ## Related resources
 

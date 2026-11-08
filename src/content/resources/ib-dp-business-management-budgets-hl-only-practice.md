@@ -122,6 +122,20 @@ Judgment: the budget and variances were important because they made the problem 
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Is the budgets topic for SL or HL in IB Business Management?**
+Section 3.9 Budgets is HL only in the IB DP Business Management guide, first assessment 2024. It covers cost and profit centres, constructing a budget, variances and budgets in decision-making.
+
+**Is a positive variance always favorable?**
+No. A variance is favorable if it increases profit and adverse if it reduces profit, so a cost that is above budget gives a positive but adverse variance.
+
+**How do you calculate a variance as a percentage?**
+Divide the variance by the budgeted figure and multiply by 100. Dividing by the actual figure is a common error.
+
+**What should you add after calculating a variance?**
+Label it F or A, then give a cause that fits the data in the case, such as price discounts, supplier price rises or overtime.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 3.9, Budgets (HL only).

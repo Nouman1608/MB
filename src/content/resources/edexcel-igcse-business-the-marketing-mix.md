@@ -196,6 +196,20 @@ A **brand** is the identity customers associate with a product or business. A st
 - Saying a promotion is good because revenue rose, without checking profit.
 - Listing marketing mix methods without linking them to the target segment in the question.
 
+## Frequently asked questions
+
+**What are the four categories of the Boston matrix?**
+A star has high relative market share in a fast-growing market, a cash cow has high share in a slow market, a question mark has low share in a fast-growing market, and a dog has low share in a slow market.
+
+**What is the difference between a retailer and an e-tailer?**
+A retailer is a shop that buys from a producer or wholesaler and sells to the public, letting customers see the product. An e-tailer sells over the internet, with low premises costs and a wide market.
+
+**What jobs does packaging do?**
+Packaging protects the product, keeps it fresh or safe, carries information such as ingredients and instructions, makes it easier to transport and display, and helps attract customers.
+
+**Why is a brand important?**
+A strong brand can make customers loyal, support a higher price and make new products easier to launch.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 4: Marketing, section 4.3 "The marketing mix", points 4.3.1 to 4.3.4.

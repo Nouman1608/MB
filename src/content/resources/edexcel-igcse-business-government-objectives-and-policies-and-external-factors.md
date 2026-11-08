@@ -221,6 +221,20 @@ If it raises the price by 0.30 it protects its margin but may lose price-sensiti
 
 Condense the key terms with the [revision notes](/resources/edexcel-igcse-business-government-objectives-and-policies-and-external-factors-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-business-government-objectives-and-policies-and-external-factors-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/), or find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**How does infrastructure affect businesses?**
+Infrastructure is the roads, railways, ports, airports, energy, water and communications networks businesses rely on. Good infrastructure provided by the government lowers transport costs and makes it easier to reach customers and suppliers.
+
+**How does legislation affect a business?**
+Laws can bring extra costs, such as training or new equipment, and may force changes to products, processes or adverts, with penalties for breaking them. They also create a level playing field and products customers trust.
+
+**Do higher interest rates hurt every business?**
+Not equally. A heavily borrowed business faces higher interest costs and weaker demand, but a business with savings or one selling everyday necessities may be little affected.
+
+**How can environmental factors affect business decisions?**
+Pressure from customers, the government and the public may push a business to cut pollution and waste. Responses such as recyclable packaging raise costs, but customers who value the change may buy more.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, sections 1.6 (1.6.1 to 1.6.3) and 1.7 (1.7.1).

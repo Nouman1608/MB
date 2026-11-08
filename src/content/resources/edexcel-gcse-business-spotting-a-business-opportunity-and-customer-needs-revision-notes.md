@@ -267,6 +267,20 @@ The formula for market share is given here in its standard form; it is not one o
 - Describing a rival's strength with no factor named, such as "they are good".
 - Giving a Justify answer that picks no option, or an Evaluate answer with no conclusion.
 
+## Frequently asked questions
+
+**What are the four customer needs in Edexcel GCSE Business?**
+The 1BS0 specification names price, quality, choice and convenience. Identifying them matters because it helps a business generate sales and survive.
+
+**What is the difference between primary and secondary research?**
+Primary research is new information collected first-hand, through surveys, questionnaires, focus groups or observation. Secondary research uses existing information such as the internet, market reports and government reports, which is cheaper and faster but may be dated.
+
+**What is the difference between qualitative and quantitative data?**
+Quantitative data is in number form, such as counts, percentages and ratings, and is easy to compare. Qualitative data is descriptive, such as opinions and reasons, and explains the numbers but is harder to measure.
+
+**Does market research remove risk?**
+No. Market research reduces risk by showing demand before money is spent, but it cannot remove risk altogether.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.2 Spotting a business opportunity, items 1.2.1 to 1.2.4.

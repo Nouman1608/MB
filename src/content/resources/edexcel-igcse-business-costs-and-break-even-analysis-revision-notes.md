@@ -215,6 +215,20 @@ A lower break-even output is not automatically better. A price rise may lower br
 - Using two points in Explain answers: the command word asks for a statement and two expansion points.
 - Skipping the workings, when the Calculate command word asks for them.
 
+## Frequently asked questions
+
+**What is the difference between fixed and variable costs?**
+Fixed costs, such as rent and insurance, do not change when output changes in the short run. Variable costs, such as raw materials, change in direct proportion to output.
+
+**How do you calculate break-even output for Edexcel IGCSE Business?**
+Divide fixed costs by the contribution per unit (selling price minus variable cost per unit). The 4BS1 formulae list does not include a break-even formula, so this is the standard form to learn.
+
+**How do you calculate profit at a given output using contribution?**
+Multiply the contribution per unit by the number of units sold, then subtract fixed costs. A negative answer is a loss.
+
+**How does a price rise affect the break-even point?**
+A price rise increases contribution per unit, so break-even output falls. It may also reduce the number of units customers buy, so profit does not always rise.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 3: Business finance, section 3.3 Costs and break-even analysis, points 3.3.1 to 3.3.3.

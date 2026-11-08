@@ -211,6 +211,20 @@ Markets change: customers' tastes move, new technology arrives, rivals enter and
 
 Condense the formulas with the [revision notes](/resources/edexcel-igcse-business-what-makes-a-business-successful-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-igcse-business-what-makes-a-business-successful-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or the [checklist](/checklists/edexcel/igcse/business/). Find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**When is a business successful?**
+A business is successful when it achieves its objectives, which can be financial, such as profit or market share, or non-financial, such as satisfaction or independence.
+
+**Why is a profit margin a better measure than profit alone?**
+A margin relates profit to the size of the business. A rising profit with a falling margin means costs are growing faster than revenue.
+
+**How can a business grow and still fail?**
+If expansion outruns finance, the cash balance can fall below zero, so the business cannot pay what it owes even while revenue grows.
+
+**What is the difference between "not competitive" and "failure to adapt"?**
+A business is not competitive when rivals offer a better mix of price, quality, service, range or convenience. Failure to adapt means it keeps selling what customers no longer want after tastes, technology or the market change.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, section 1.8 "What makes a business successful?", points 1.8.1 and 1.8.2.

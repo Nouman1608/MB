@@ -283,6 +283,20 @@ Strong competition can reduce sales and force lower prices. Weak competition giv
 - Saying qualitative data is "wrong" because it has no numbers. It explains reasons.
 - Reading a market map as proof of demand. A gap needs testing.
 
+## Frequently asked questions
+
+**What is market segmentation?**
+Market segmentation divides a market into groups of customers with shared characteristics so a business can aim its product, price and promotion at them. The Edexcel GCSE Business (1BS0) specification lists location, demographics, lifestyle, income and age.
+
+**What is a market map used for?**
+A market map plots existing businesses on two axes, usually price and quality, to show the competition and find a gap in the market. A gap is not proof of demand, so it still needs testing.
+
+**How can social media be used for market research?**
+A business can post polls, ask followers to choose between designs and read comments and reviews quickly and cheaply. Followers already like the business, so they may not represent the whole market.
+
+**How does competition affect a business's decisions?**
+A business may change its price, improve quality or service, widen or narrow its range, choose a location away from or among rivals, or change its promotion to stress what makes it different.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.2 Spotting a business opportunity, items 1.2.1 to 1.2.4.

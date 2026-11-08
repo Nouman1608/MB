@@ -200,5 +200,19 @@ Use data from Units 1, 2 and 3 as well: break-even, cash flow, and the strategic
 - Describing MNC effects in general terms rather than for the stakeholder named.
 - Forgetting to show workings on calculate questions.
 
+## Frequently asked questions
+
+**What is the difference between a tariff and an import quota?**
+A tariff is a tax on imports, which raises their price. An import quota is a limit on the quantity imported, which raises prices by restricting supply, and the government earns no tax revenue from it.
+
+**What is the difference between off-shoring and outsourcing?**
+Off-shoring means moving production abroad. Outsourcing means paying another firm to carry out the work. Both can make a business more cost competitive.
+
+**What are push and pull factors in global expansion?**
+Push factors, such as saturated markets and competition, drive a firm out of its home market. Pull factors, such as increased sales and profitability, risk spreading and economies of scale, attract it abroad.
+
+**What is glocalisation?**
+Global localisation, or glocalisation, keeps a global brand but adapts products and marketing to local tastes. It sits between a single global strategy and a separate approach for each country.
+
 ## Official syllabus
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business, Specification, Issue 1, September 2017, Unit 4: Global business (first assessment June 2020).

@@ -134,6 +134,20 @@ Business C bakes 200 croissants, then resets the ovens for 150 pain au chocolat.
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What topics do these Edexcel GCSE Business operations questions cover?**
+They cover Theme 2 topic 2.3 of Pearson Edexcel GCSE Business (1BS0): job, batch and flow production, the impact of technology, bar gate stock graphs, just in time stock control, and choosing and working with suppliers.
+
+**Are the formulae for productivity and unit cost given in the exam?**
+No. The specification lists formulae in Appendix 3 but they are not provided in the examinations, so learn productivity (output ÷ number of workers) and unit cost (total cost ÷ units produced) before the exam.
+
+**What is a common mistake when defining just in time stock control?**
+Saying JIT means holding no stock at all. JIT means materials arrive only when they are needed for production, so the business holds very little stock, not none.
+
+**How should you answer a question that asks you to choose a supplier?**
+Compare suppliers on total cost, including delivery and the cost of late deliveries, rather than on price alone. Then weigh up quality, reliability and trust and finish with a clear recommendation.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.3 Making operational decisions, items 2.3.1 Business operations and 2.3.2 Managing stock (working with suppliers).

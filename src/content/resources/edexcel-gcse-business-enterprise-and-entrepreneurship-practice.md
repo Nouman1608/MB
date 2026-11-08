@@ -135,6 +135,20 @@ A. A firm launches a device no one has sold before. B. A bakery adds a gluten-fr
 - Find weak spots with the [free diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What topics do these enterprise and entrepreneurship questions cover?**
+They cover Theme 1, Topic 1.1 of Pearson Edexcel GCSE Business (1BS0): why and how new business ideas come about, the risks and rewards of enterprise, the purpose of business activity, adding value and the role of an entrepreneur.
+
+**Where do students lose marks on enterprise and entrepreneurship questions?**
+Common slips include mixing up revenue and profit, describing an obsolete product as broken rather than out of date, treating value added as profit, and listing the entrepreneur's roles without a detail from the case.
+
+**How do you calculate a percentage change in Edexcel GCSE Business?**
+Subtract the old figure from the new one, divide by the old (starting) figure and multiply by 100. Dividing by the new figure is a frequent mistake.
+
+**How should you finish an Evaluate or Justify answer?**
+Reach a clear decision supported by evidence from the case, and show why the other side is weaker. Stopping before giving a decision limits the marks available.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.1 Enterprise and entrepreneurship, items 1.1.1 to 1.1.3.

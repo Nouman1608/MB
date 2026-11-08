@@ -192,6 +192,20 @@ Appendix 1 sets out what each command word asks for. For "explain", it describes
 - Listing the entrepreneur's roles without applying them to the case.
 - Giving only advantages of adapting an idea, or only of an original one.
 
+## Frequently asked questions
+
+**Why do new business ideas come about?**
+The Edexcel GCSE Business (1BS0) specification gives three reasons: changes in technology, changes in what consumers want, and products and services becoming obsolete. Each change closes some opportunities and opens others.
+
+**What is the difference between an original idea and adapting an existing idea?**
+An original idea is something not offered before, so it has no direct rivals but demand is untested. Adapting changes a product, service or idea already on sale, so demand is proven but rivals already exist and it is easier to copy.
+
+**What are the risks and rewards of starting a business?**
+The risks in the specification are business failure, financial loss and lack of security. The rewards are business success, profit and independence.
+
+**What is a unique selling point?**
+A unique selling point (USP) is a feature that rivals do not offer, such as the only café in town with a children's play corner. It is one of the five ways a business can add value.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.1 Enterprise and entrepreneurship, items 1.1.1 to 1.1.3.

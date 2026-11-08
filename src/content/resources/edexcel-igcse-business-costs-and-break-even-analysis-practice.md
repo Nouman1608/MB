@@ -164,6 +164,20 @@ Course links: [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/) and 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these costs and break-even practice questions cover?**
+They follow section 3.3 of Pearson Edexcel International GCSE Business (4BS1): revenue, fixed and variable costs, profit and loss, the break-even level of output, break-even charts and their limitations.
+
+**What is the most common break-even mistake?**
+Dividing fixed costs by the selling price instead of by the contribution per unit. Contribution per unit is the selling price minus the variable cost per unit.
+
+**Should break-even output be rounded?**
+Yes. Give break-even as a whole number of units with its unit, rounding up to the next whole unit so the business at least covers its costs, rather than leaving a decimal.
+
+**Where does the total costs line start on a break-even chart?**
+The total costs line starts at the fixed cost figure on the vertical axis at zero output, not at zero. Starting it at zero is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 3: Business finance, section 3.3 Costs and break-even analysis, points 3.3.1 to 3.3.3.

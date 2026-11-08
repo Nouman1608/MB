@@ -153,6 +153,20 @@ These questions cover Topic 1, sections 1.6 "Government objectives and policies"
 
 Review the [revision notes](/resources/edexcel-igcse-business-government-objectives-and-policies-and-external-factors-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-government-objectives-and-policies-and-external-factors/). Go back to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/), take the [free diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these government policy and external factors questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 1.6 and 1.7: government spending and taxation, infrastructure, legislation, trade policy, interest rates and social, technological, environmental and political factors.
+
+**Is a tariff a tax on imports or exports?**
+A tariff is a tax on imported goods. Treating it as a tax on exports is a common error.
+
+**What is the difference between a percentage point and a percentage change?**
+If an interest rate rises from 5% to 8%, it has risen by 3 percentage points, but the interest bill on the same loan rises by 60%. Confusing the two loses marks.
+
+**Should you use the price including sales tax as a business's revenue?**
+No. The tax added to the customer price goes to the government, so the business's revenue is based on the price before tax.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, sections 1.6 and 1.7.

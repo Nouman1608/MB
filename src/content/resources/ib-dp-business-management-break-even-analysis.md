@@ -287,6 +287,20 @@ The studio would need to sell more than 650 mugs just to equal its present profi
 
 Test yourself with the [5.5 practice questions](/resources/ib-dp-business-management-break-even-analysis-practice/), then revise from the [5.5 revision notes](/resources/ib-dp-business-management-break-even-analysis-revision-notes/). The [IB Business Management hub](/boards/ib/ib-dp/business/) lists the other units and the [checklist](/checklists/ib/ib-dp/business/) tracks your progress. The [diagnostics](/diagnostics/) can show you where to start.
 
+## Frequently asked questions
+
+**What does a break-even chart show?**
+A break-even chart plots output along the horizontal axis and costs and revenue up the side, with fixed cost, total cost and total revenue lines. The break-even point is where total revenue crosses total cost.
+
+**How does a price rise affect the break-even point?**
+A higher price makes the total revenue line steeper, so it crosses the total cost line sooner and the break-even point moves left. A price rise may also cut demand, which the chart does not show.
+
+**What are the limitations of break-even analysis?**
+It assumes straight-line revenue and costs, fixed costs that stay fixed and that all output is sold. It suits one product, relies on forecasts, is static, ignores non-financial factors and does not show demand.
+
+**Where does the total cost line start on a break-even chart?**
+The total cost line starts at the fixed cost level on the vertical axis at zero output, not at the origin.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024, section 5.5 Break-even analysis.

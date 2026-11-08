@@ -229,6 +229,20 @@ Pick by cause. The guide does not list strategies, so this table is standard tea
 - Reaching no judgement when asked to evaluate, justify or recommend.
 - Quoting a figure without units or with the wrong sign when it is negative.
 
+## Frequently asked questions
+
+**What is the difference between profit and cash flow?**
+Profit is sales revenue minus costs and follows when revenue is earned and costs are incurred. Cash flow is money actually received and paid out, so it follows the timing of payments and receipts.
+
+**How do you calculate working capital?**
+Working capital is current assets minus current liabilities. It shows the funds available for day-to-day operations.
+
+**Why is the acid test ratio stricter than the current ratio?**
+The acid test ratio removes stock from current assets before dividing by current liabilities. It is a fairer test where stock is slow to sell or perishable.
+
+**How does an investment affect cash flow and profit differently?**
+Cash falls by the full price on the day of purchase, while profit falls only by the depreciation charge each year. A business can look profitable and still run short of cash in the year it invests.
+
 ## Official syllabus
 
 IB *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 3.7 Cash flow. Related: sections 3.4 and 3.5.

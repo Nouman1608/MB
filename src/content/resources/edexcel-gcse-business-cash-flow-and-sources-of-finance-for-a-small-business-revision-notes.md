@@ -232,6 +232,20 @@ For "justify" or "evaluate", always weigh cost, certainty, control, speed and th
 - Giving a recommendation with no counter-argument on "justify" or "evaluate" questions.
 - Giving an interest percentage without dividing by the amount borrowed.
 
+## Frequently asked questions
+
+**What is insolvency in GCSE Business?**
+Insolvency means a business cannot pay its debts when they fall due. Many profitable small businesses still fail because cash runs out before the money from customers arrives.
+
+**What is the difference between short-term and long-term sources of finance?**
+Short-term sources, such as an overdraft and trade credit, cover temporary cash gaps and day-to-day running costs. Long-term sources, such as personal savings, venture capital, share capital, loans, retained profit and crowd funding, fund start-up costs, equipment, premises and growth.
+
+**Which sources of finance can a start-up use?**
+A start-up has no trading history and no retained profit, so it usually relies on personal savings, a loan, share capital, venture capital or crowd funding. It may find trade credit harder to obtain than an established business does.
+
+**Is a loan counted as profit on a cash-flow forecast?**
+No. A loan received is a cash inflow, but it is not sales revenue and it is not profit. Counting a loan as revenue is a common error in Edexcel GCSE Business (1BS0) answers.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.3 Putting a business idea into practice, items 1.3.3 and 1.3.4.

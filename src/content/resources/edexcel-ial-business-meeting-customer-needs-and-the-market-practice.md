@@ -112,6 +112,20 @@ Links: [study guide](/resources/edexcel-ial-business-meeting-customer-needs-and-
 * Take the [free 10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these meeting customer needs practice questions cover?**
+They cover Unit 1 sections 1.3.1 Meeting customer needs and 1.3.2 The market of Pearson Edexcel International A Level Business (YBS11): markets, market research, positioning, demand and supply, and price and income elasticity of demand.
+
+**What is a common mistake when interpreting income elasticity of demand?**
+Dropping the minus sign. For YED the sign matters: a positive value shows a normal good and a negative value shows an inferior good.
+
+**Does a change in a product's own price shift its demand curve?**
+No. A change in the product's own price causes a movement along the demand curve; other factors, such as incomes or substitutes' prices, shift the whole curve.
+
+**How should you recommend a market research method?**
+Link the method to the purpose of the research in the case, such as quantifying demand or understanding attitudes, rather than recommending it in general terms.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business, specification Issue 1, September 2017 (Pearson Education Limited), Unit 1, sections 1.3.1 and 1.3.2.

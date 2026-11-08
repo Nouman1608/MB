@@ -133,6 +133,20 @@ Option B would end 3 of the 8 jobs and customers could no longer try a bike befo
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these stakeholders and technology questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 1 items 1.5.1 and 1.5.2: stakeholder groups and their objectives, how stakeholders affect and are affected by a business, conflicts between them, and how technology influences sales, costs and the marketing mix.
+
+**How do you answer a stakeholder conflict question?**
+Name the two groups, say what each wants, and explain why both cannot be fully satisfied at once. Writing that "everyone benefits" misses the point of a conflict question.
+
+**What is a common mistake when writing about technology?**
+Showing the gain from technology but forgetting the costs it brings, such as website, delivery, payment fees and training. Name the part of sales, costs or the marketing mix that the technology affects.
+
+**Can you define a term using only an example?**
+No. A definition should state what the term means; an example can support it but does not replace it.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.5 Understanding external influences on business, items 1.5.1 and 1.5.2.

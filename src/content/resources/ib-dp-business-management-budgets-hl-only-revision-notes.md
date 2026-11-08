@@ -190,6 +190,20 @@ Conclusion template for "evaluate" or "justify" questions: budgets are most usef
 - Stopping an "evaluate" answer after the advantages, with no limits and no judgment.
 - Forgetting to state assumptions or to total rows and columns twice.
 
+## Frequently asked questions
+
+**What is the difference between a cost centre and a profit centre?**
+A cost centre is a part of a business to which costs can be charged but which earns no revenue of its own, such as human resources or IT support. A profit centre records both revenue and costs, so its profit can be measured.
+
+**How do you construct a budget in IB Business Management?**
+Divide the period into months, forecast sales volume and price to find revenue, work out variable and fixed costs, subtract cost of sales and other expenses to reach profit or loss, then total each row and check the totals.
+
+**What is a variance?**
+A variance is the difference between a budgeted figure and the actual figure for the same item and period, found as actual minus budgeted.
+
+**What layout do IB budget questions use?**
+The guide's appendix says budgets in case studies or examination questions follow the layout in its figure 11, "Budget: Profit and non-profit entity".
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 3.9, Budgets (HL only).

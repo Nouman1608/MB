@@ -181,6 +181,20 @@ Justify which option Meadowbank should choose. **[6]**
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these market research and customer needs questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 1 items 1.2.1 to 1.2.4: customer needs, market research, market segmentation, market mapping and the competitive environment.
+
+**Why is "asking people" a weak definition of market research?**
+It leaves out secondary research. Market research means gathering and studying information on customers, rivals and the market, using both primary methods and existing secondary sources.
+
+**Is a larger number of survey replies always more reliable?**
+Not if everyone asked is alike. Reliability also depends on a representative sample, unbiased questions, up-to-date data and a trusted source.
+
+**How should you compare a business with its rivals in an answer?**
+Name the specific factors, such as price, quality, location, product range or customer service, rather than writing "they are better". Then link the comparison to the decision in the case.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.2 Spotting a business opportunity, items 1.2.1 to 1.2.4.

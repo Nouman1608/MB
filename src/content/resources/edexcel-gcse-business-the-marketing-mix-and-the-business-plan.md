@@ -205,6 +205,20 @@ Suppose Wrenchwell's owner needs £8,500 in total for the van deposit, tools and
 
 Recap with the [revision notes](/resources/edexcel-gcse-business-the-marketing-mix-and-the-business-plan-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-gcse-business-the-marketing-mix-and-the-business-plan-practice/). Take the [free diagnostics](/diagnostics/) to see where to focus.
 
+## Frequently asked questions
+
+**How do the elements of the marketing mix work together?**
+A change to one element usually forces a change to another. A premium product needs a matching price, a place where premium buyers shop and promotion in the same style.
+
+**How do changing consumer needs affect the marketing mix?**
+As tastes, incomes and lifestyles change, each element has to be reviewed. If customers want healthier or more sustainable choices, the product changes; if budgets tighten, price may need attention.
+
+**How does e-commerce affect the marketing mix?**
+For place, e-commerce lets a small business reach customers beyond its local area without extra premises, though it must handle delivery and returns. For price, customers can compare prices online easily.
+
+**How does a business plan help an owner get a loan?**
+A plan with market research, realistic forecasts and a clear cash-flow forecast shows a bank that the owner has thought carefully and that the business can repay.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, topic 1.4 Making the business effective, content items 1.4.3 The marketing mix and 1.4.4 Business plans.

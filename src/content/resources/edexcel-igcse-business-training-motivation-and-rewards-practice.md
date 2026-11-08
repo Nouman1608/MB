@@ -146,6 +146,20 @@ Justify which option the owner should choose. **[8]**
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these training and motivation questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 2.3 and 2.4: induction, on-the-job and off-the-job training, health and safety compliance, why motivation matters, Herzberg, Maslow and Taylor, and financial and non-financial rewards.
+
+**What should you include when costing training?**
+Include the course fees and the wages paid for the time employees spend away from work. Leaving out wages for time away is a common error.
+
+**What does an Explain question need in Edexcel IGCSE Business?**
+A statement of fact followed by two expansion points. Stating a fact with no expansion limits the marks.
+
+**How should you recommend a motivation method?**
+Say what the method does to output, retention or quality for the business in the case, use any survey data given, and weigh the other option before deciding.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 2: People in business, sections 2.3 Training and 2.4 Motivation and rewards, points 2.3.1, 2.4.1 and 2.4.2.

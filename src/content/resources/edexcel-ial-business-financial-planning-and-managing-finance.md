@@ -322,6 +322,20 @@ Link causes to figures: a business that overestimated sales may hold unsold inve
 - Saying a high current ratio is always good; idle cash and slow-moving inventory can inflate it.
 - Listing causes of failure without linking them to the business in the source.
 
+## Frequently asked questions
+
+**Why is profit not the same as cash?**
+Profit is revenue minus costs over a period, counted when earned or incurred, while cash is money actually received and paid. A credit sale adds to profit straight away but brings no cash until the customer pays.
+
+**What are the limitations of break-even analysis?**
+It assumes all output is sold, the selling price and variable cost per unit stay constant, and fixed costs stay fixed. It suits a single product better than a business selling many.
+
+**How can a business improve its liquidity?**
+It can sell surplus non-current assets, negotiate longer supplier credit terms so cash leaves later, or use factoring, selling trade receivables to a finance firm for immediate cash at a fee.
+
+**Is a high current ratio always good?**
+No. Idle cash and slow-moving inventory can inflate the current ratio, and too much idle cash earns nothing for the business.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (YBS11), Issue 1, September 2017, Unit 2, sections 2.3.2 and 2.3.3 and Appendices 8 and 9, published by Pearson Education Limited.

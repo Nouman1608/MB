@@ -246,6 +246,20 @@ Unlimited-liability businesses rely on personal savings, retained profit, loans 
 - Calling a sole trader's liability limited, or saying a Ltd can sell shares to the public.
 - Saying a grant must be repaid.
 
+## Frequently asked questions
+
+**What does a business plan contain?**
+A business plan typically covers the business idea and aims, market research, a marketing plan, operations, the owners and managers, and financial information such as start-up costs, sales and cash-flow forecasts, break-even and the finance needed.
+
+**What is the difference between leasing and buying an asset?**
+Leasing lets a business use an asset in return for regular payments without owning it, avoiding a large outlay. Total payments are often higher than buying, and the business does not own the asset.
+
+**What is a social enterprise?**
+A social enterprise trades to meet social or environmental aims and reinvests most of its profit in them rather than maximising returns for its owners.
+
+**Can a private limited company sell shares to the public?**
+No. A private limited company's shares cannot be offered to the general public; only a public limited company (plc) can do this, for example through a stock market flotation.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification, Issue 1, September 2017, Pearson Education Limited: Unit 2, section 2.3.1.

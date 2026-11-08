@@ -157,6 +157,20 @@ Judgement: a bank loan, because it gives certainty of the full amount and keeps 
 
 Review the [revision notes](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting/). Go back to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off the [checklist](/checklists/edexcel/igcse/business/), take the [free diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these sources of finance and cash-flow questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 3.1 and 3.2: the need for finance, internal and external sources, why cash matters, cash and profit, and calculating and interpreting cash-flow forecasts.
+
+**Are credit sales counted as cash in the month they are made?**
+No. Cash from a credit sale is counted when the customer actually pays, so treating credit sales as cash received in the month of sale is a common error.
+
+**Can a sole trader raise share capital?**
+No. Share capital comes from selling shares in a company, and stock market flotation is only for public limited companies, so offering either to a sole trader is a mistake.
+
+**How should you show a negative net cash flow?**
+Keep the minus sign and subtract it from the opening balance. Reporting a negative net cash flow or closing balance as a positive number loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 3: Business finance, sections 3.1 "Business finance - sources" (3.1.1 to 3.1.3) and 3.2 "Cash flow forecasting" (3.2.1 to 3.2.2).

@@ -151,6 +151,20 @@ These questions cover Topic 4, sections 4.1 Market research and 4.2 The market, 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these market research and the market questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 4.1 and 4.2: the purpose and methods of market research, using data, why marketing matters, market share, niche and mass marketing, responding to change and segmentation.
+
+**Are government reports primary or secondary research?**
+Government reports and market reports are secondary research, because the business did not collect the data itself. Calling them primary is a common error.
+
+**How do you calculate market share?**
+Divide the business's sales by the total market sales and multiply by 100. Using the firm's own sales as the divisor is a frequent mistake.
+
+**How should you answer a question about the reliability of research data?**
+Consider the sample size, whether the sample represents the target market, any bias in the questions, the age of the data and its source, and say where and who the sample came from.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 4: Marketing, sections 4.1 Market research and 4.2 The market.

@@ -245,6 +245,20 @@ These links connect the topic. A supplier delay can lead to a stock-out, then a 
 
 Test yourself with the [practice questions](/resources/edexcel-gcse-business-business-operations-and-managing-stock-practice/), then recap using the [revision notes](/resources/edexcel-gcse-business-business-operations-and-managing-stock-revision-notes/). The [free diagnostics](/diagnostics/) show where to focus.
 
+## Frequently asked questions
+
+**How do you calculate productivity in GCSE Business?**
+Productivity is output per worker, found by dividing output by the number of workers. If 5 staff fill 1,500 jars a day, productivity is 300 jars per worker.
+
+**Is flow production always cheaper than batch production?**
+No. Flow lines cost a lot to install and run, so unit costs only fall if the business sells enough to keep the line busy. Flow also lacks flexibility, as changing the product can mean stopping the line.
+
+**How does technology affect production in Edexcel GCSE Business?**
+The 1BS0 specification asks you to balance cost, productivity, quality and flexibility. Technology can raise output and give consistent quality, but machines are expensive to buy and maintain and breakdowns can stop production.
+
+**How do logistics decisions affect a business?**
+Logistics affects costs (transport and storage), reputation (late or damaged orders spread through reviews) and customer satisfaction (customers want the right item on time). A supplier delay can lead to a stock-out, a late customer order and then a poor review.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2, Topic 2.3 Making operational decisions, items 2.3.1 Business operations and 2.3.2 Managing stock (working with suppliers).

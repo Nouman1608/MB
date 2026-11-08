@@ -246,6 +246,20 @@ Pricing changes through the life cycle. Skimming or penetration suits introducti
 
 Use the [revision notes](/resources/edexcel-gcse-business-product-and-price-decisions-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-gcse-business-product-and-price-decisions-practice/). Try the [free diagnostics](/diagnostics/) too.
 
+## Frequently asked questions
+
+**Why is differentiation important to a business?**
+Differentiation gives customers a reason to choose the business without it having the lowest price, can support a higher price and can build loyalty. It only works if customers notice and value the difference.
+
+**What is an extension strategy?**
+An extension strategy is an action that keeps a product's sales up and lengthens its life, such as modifying the product, finding a new market or a new use, or changing packaging, price or promotion. Its cost should be weighed against the extra sales.
+
+**What is psychological pricing?**
+Psychological pricing sets a price that looks lower than it is, such as £2.99 instead of £3. It is often used for everyday goods where the price seems to matter.
+
+**How does the product life cycle affect pricing?**
+Skimming or penetration pricing suits the introduction phase, competitive pricing is common in growth and maturity as rivals enter, and promotional pricing can clear stock in decline.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, topic 2.2 Making marketing decisions, content items 2.2.1 Product and 2.2.2 Price.

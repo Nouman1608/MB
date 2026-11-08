@@ -215,6 +215,20 @@ A ratio means little alone, so compare it:
 
 Condense the formulae with the [revision notes](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis-practice/). Go back to the [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), tick progress on the [checklist](/checklists/edexcel/igcse/business/), or locate gaps with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between the current ratio and the acid test ratio?**
+The current ratio is current assets divided by current liabilities. The acid test ratio subtracts inventory from current assets first, so it shows whether short-term debts can be paid without selling stock.
+
+**How do you calculate capital employed?**
+The specification gives no formula, so use the standard form: non-current assets plus current assets minus current liabilities.
+
+**Why does liquidity matter if a business is profitable?**
+Liquidity is how easily a business can find cash to meet bills due soon. A firm that cannot pay suppliers, employees or lenders on time may fail even while it is profitable.
+
+**How should ratios be compared?**
+Compare a ratio with previous years to spot trends and with similar businesses of the same type and size. A ratio called good or bad without a comparison has little meaning.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 3: Business finance, sections 3.4 Financial documents and 3.5 Accounts analysis, with the formulae in Appendix 4.

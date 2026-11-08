@@ -234,6 +234,20 @@ If the extra service costs £2,400 a year, the extra revenue exceeds the cost, b
 - Giving percentage changes the wrong way round, so that a fall shows as a rise.
 - Ending an evaluation with a list of points and no judgement.
 
+## Frequently asked questions
+
+**What is quality in GCSE Business?**
+Quality is how well a product meets the needs and expectations of the customer who buys it. For goods it shows in materials, finish and reliability; for services it shows in accuracy, courtesy, reliability and the time taken.
+
+**How does quality give a business a competitive advantage?**
+Satisfied customers buy again and recommend the business, a reputation for quality can support a higher price, and quality is hard for rivals to copy quickly because it comes from training and supplier relationships.
+
+**What is post-sales service?**
+Post-sales service is help given after the sale, such as returns, repairs, guarantees and follow-up emails. It is one of the five parts of the sales process in the Edexcel GCSE Business (1BS0) specification.
+
+**Does quality assurance guarantee there will be no faults?**
+No. Quality assurance reduces faults by preventing them, but it does not remove them all, which is why many businesses also use quality control to catch any that remain.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2, Topic 2.3 Making operational decisions, content items 2.3.3 and 2.3.4.

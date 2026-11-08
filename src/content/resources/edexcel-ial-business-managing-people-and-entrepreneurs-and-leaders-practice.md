@@ -112,6 +112,20 @@ Judgement. She should not commit the whole sum yet [1]: pilot a smaller rise wit
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these managing people practice questions cover?**
+They cover Unit 1 sections 1.3.4 Managing people and 1.3.5 Entrepreneurs and leaders of Pearson Edexcel International A Level Business (YBS11): staffing, recruitment and training, organisational design, motivation, leadership, entrepreneurs, objectives and business choices.
+
+**What is the difference between dismissal and redundancy?**
+Dismissal ends a contract because of the worker's own conduct or performance. Redundancy ends it because the job itself is no longer needed, so defining redundancy as dismissal is a common error.
+
+**How do you calculate opportunity cost in a business choice?**
+Opportunity cost is the value of the next best alternative forgone, not the total of every rejected option. Adding all rejected options together is a frequent mistake.
+
+**How should you use motivation theory in an answer?**
+Apply the theory to the business in the case, and separate Herzberg's hygiene factors from motivators rather than simply stating that pay motivates.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business, Specification, Issue 1, September 2017 (Pearson Education Limited); Unit 1: Marketing and people, sections 1.3.4 and 1.3.5.

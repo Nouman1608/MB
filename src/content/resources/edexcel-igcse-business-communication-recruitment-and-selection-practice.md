@@ -149,6 +149,20 @@ These questions cover Topic 2 "People in business", sections 2.1 and 2.2, in the
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these communication and recruitment questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 2.1 and 2.2: communication methods and barriers, types of employment, recruitment documents, internal and external recruitment, and legal controls over employment.
+
+**What is a job share?**
+A job share is one full-time job split between two or more people. Calling it simply "part-time" without explaining that one job is shared is a common error.
+
+**What are common slips in recruitment cost calculations?**
+Forgetting to multiply by the number of workers or weeks, leaving out a cost such as the advertisement, and giving a final figure without units.
+
+**How should you answer a question on equal opportunities?**
+Explain the effects on the business's recruitment, such as fair adverts, consistent selection and possible adaptations, rather than writing generally about discrimination.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 2: People in business, sections 2.1 (points 2.1.1 and 2.1.2) and 2.2 (points 2.2.1 to 2.2.4).

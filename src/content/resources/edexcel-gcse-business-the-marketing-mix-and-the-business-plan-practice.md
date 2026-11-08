@@ -130,6 +130,20 @@ Links: the [Edexcel GCSE Business hub](/boards/edexcel/gcse/business/), the [pri
 - Take the [free diagnostics](/diagnostics/) to see where to focus.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these marketing mix and business plan questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 1 items 1.4.3 and 1.4.4: the four elements of the marketing mix, how they work together, and the role and purpose of a business plan.
+
+**What is a common mistake in cash-flow questions on a business plan?**
+Using the starting balance again in month 2. Each opening balance should equal the previous month's closing balance.
+
+**Why should you show working in calculations?**
+Showing only a final figure gives no working to credit if the answer contains a slip. Write the formula, the substitution and the answer with its unit.
+
+**Does a business plan guarantee success?**
+No. A plan reduces risk and helps a business obtain finance, but forecasts are estimates, so it cannot remove risk.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, topic 1.4 Making the business effective, content items 1.4.3 The marketing mix and 1.4.4 Business plans.
