@@ -6,6 +6,8 @@ import { DECK_AQA_A_LEVEL_BUSINESS } from './aqa-a-level-business.ts';
 import { DECK_AQA_A_LEVEL_CHEMISTRY } from './aqa-a-level-chemistry.ts';
 import { DECK_AQA_A_LEVEL_COMPUTER_SCIENCE } from './aqa-a-level-computer-science.ts';
 import { DECK_AQA_A_LEVEL_ECONOMICS } from './aqa-a-level-economics.ts';
+import { DECK_AQA_A_LEVEL_ENGLISH_LANGUAGE } from './aqa-a-level-english-language.ts';
+import { DECK_AQA_A_LEVEL_ENGLISH_LITERATURE } from './aqa-a-level-english-literature.ts';
 import { DECK_AQA_A_LEVEL_LAW } from './aqa-a-level-law.ts';
 import { DECK_AQA_A_LEVEL_MATHEMATICS } from './aqa-a-level-mathematics.ts';
 import { DECK_AQA_A_LEVEL_PHYSICS } from './aqa-a-level-physics.ts';
@@ -15,6 +17,8 @@ import { DECK_AQA_GCSE_BIOLOGY } from './aqa-gcse-biology.ts';
 import { DECK_AQA_GCSE_BUSINESS } from './aqa-gcse-business.ts';
 import { DECK_AQA_GCSE_CHEMISTRY } from './aqa-gcse-chemistry.ts';
 import { DECK_AQA_GCSE_ECONOMICS } from './aqa-gcse-economics.ts';
+import { DECK_AQA_GCSE_ENGLISH_LANGUAGE } from './aqa-gcse-english-language.ts';
+import { DECK_AQA_GCSE_ENGLISH_LITERATURE } from './aqa-gcse-english-literature.ts';
 import { DECK_AQA_GCSE_MATHEMATICS } from './aqa-gcse-mathematics.ts';
 import { DECK_AQA_GCSE_PHYSICS } from './aqa-gcse-physics.ts';
 import { DECK_AQA_GCSE_WORLD_HISTORY } from './aqa-gcse-world-history.ts';
@@ -24,17 +28,23 @@ import { DECK_CAMBRIDGE_A_LEVEL_BUSINESS } from './cambridge-a-level-business.ts
 import { DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY } from './cambridge-a-level-chemistry.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_COMPUTER_SCIENCE } from './cambridge-a-level-computer-science.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_ECONOMICS } from './cambridge-a-level-economics.ts';
+import { DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LANGUAGE } from './cambridge-a-level-english-language.ts';
+import { DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LITERATURE } from './cambridge-a-level-english-literature.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_GLOBAL_PERSPECTIVES } from './cambridge-a-level-global-perspectives.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_ICT } from './cambridge-a-level-ict.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_LAW } from './cambridge-a-level-law.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS } from './cambridge-a-level-mathematics.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_PHYSICS } from './cambridge-a-level-physics.ts';
+import { DECK_CAMBRIDGE_A_LEVEL_WORLD_HISTORY } from './cambridge-a-level-world-history.ts';
 import { DECK_CAMBRIDGE_IGCSE_ACCOUNTING } from './cambridge-igcse-accounting.ts';
 import { DECK_CAMBRIDGE_IGCSE_BIOLOGY } from './cambridge-igcse-biology.ts';
 import { DECK_CAMBRIDGE_IGCSE_BUSINESS } from './cambridge-igcse-business.ts';
 import { DECK_CAMBRIDGE_IGCSE_CHEMISTRY } from './cambridge-igcse-chemistry.ts';
+import { DECK_CAMBRIDGE_IGCSE_COMMERCE } from './cambridge-igcse-commerce.ts';
 import { DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE } from './cambridge-igcse-computer-science.ts';
 import { DECK_CAMBRIDGE_IGCSE_ECONOMICS } from './cambridge-igcse-economics.ts';
+import { DECK_CAMBRIDGE_IGCSE_ENGLISH_LITERATURE } from './cambridge-igcse-english-literature.ts';
+import { DECK_CAMBRIDGE_IGCSE_ENVIRONMENTAL_MANAGEMENT } from './cambridge-igcse-environmental-management.ts';
 import { DECK_CAMBRIDGE_IGCSE_GLOBAL_PERSPECTIVES } from './cambridge-igcse-global-perspectives.ts';
 import { DECK_CAMBRIDGE_IGCSE_ICT } from './cambridge-igcse-ict.ts';
 import { DECK_CAMBRIDGE_IGCSE_ISLAMIYAT } from './cambridge-igcse-islamiyat.ts';
@@ -42,12 +52,16 @@ import { DECK_CAMBRIDGE_IGCSE_MATHEMATICS } from './cambridge-igcse-mathematics.
 import { DECK_CAMBRIDGE_IGCSE_PAKISTAN_STUDIES } from './cambridge-igcse-pakistan-studies.ts';
 import { DECK_CAMBRIDGE_IGCSE_PHYSICS } from './cambridge-igcse-physics.ts';
 import { DECK_CAMBRIDGE_IGCSE_STATISTICS } from './cambridge-igcse-statistics.ts';
+import { DECK_CAMBRIDGE_IGCSE_WORLD_HISTORY } from './cambridge-igcse-world-history.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_ACCOUNTING } from './cambridge-o-level-accounting.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_BIOLOGY } from './cambridge-o-level-biology.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_BUSINESS } from './cambridge-o-level-business.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY } from './cambridge-o-level-chemistry.ts';
+import { DECK_CAMBRIDGE_O_LEVEL_COMMERCE } from './cambridge-o-level-commerce.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE } from './cambridge-o-level-computer-science.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_ECONOMICS } from './cambridge-o-level-economics.ts';
+import { DECK_CAMBRIDGE_O_LEVEL_ENGLISH_LANGUAGE } from './cambridge-o-level-english-language.ts';
+import { DECK_CAMBRIDGE_O_LEVEL_ENVIRONMENTAL_MANAGEMENT } from './cambridge-o-level-environmental-management.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT } from './cambridge-o-level-islamiyat.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS } from './cambridge-o-level-mathematics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_PAKISTAN_STUDIES } from './cambridge-o-level-pakistan-studies.ts';
@@ -59,6 +73,7 @@ import { DECK_EDEXCEL_A_LEVEL_BIOLOGY } from './edexcel-a-level-biology.ts';
 import { DECK_EDEXCEL_A_LEVEL_BUSINESS } from './edexcel-a-level-business.ts';
 import { DECK_EDEXCEL_A_LEVEL_CHEMISTRY } from './edexcel-a-level-chemistry.ts';
 import { DECK_EDEXCEL_A_LEVEL_ECONOMICS } from './edexcel-a-level-economics.ts';
+import { DECK_EDEXCEL_A_LEVEL_ENGLISH_LITERATURE } from './edexcel-a-level-english-literature.ts';
 import { DECK_EDEXCEL_A_LEVEL_LAW } from './edexcel-a-level-law.ts';
 import { DECK_EDEXCEL_A_LEVEL_MATHEMATICS } from './edexcel-a-level-mathematics.ts';
 import { DECK_EDEXCEL_A_LEVEL_PHYSICS } from './edexcel-a-level-physics.ts';
@@ -68,6 +83,8 @@ import { DECK_EDEXCEL_IGCSE_BIOLOGY } from './edexcel-igcse-biology.ts';
 import { DECK_EDEXCEL_IGCSE_BUSINESS } from './edexcel-igcse-business.ts';
 import { DECK_EDEXCEL_IGCSE_CHEMISTRY } from './edexcel-igcse-chemistry.ts';
 import { DECK_EDEXCEL_IGCSE_ECONOMICS } from './edexcel-igcse-economics.ts';
+import { DECK_EDEXCEL_IGCSE_ENGLISH_LANGUAGE } from './edexcel-igcse-english-language.ts';
+import { DECK_EDEXCEL_IGCSE_ENGLISH_LITERATURE } from './edexcel-igcse-english-literature.ts';
 import { DECK_EDEXCEL_IGCSE_MATHEMATICS } from './edexcel-igcse-mathematics.ts';
 import { DECK_EDEXCEL_IGCSE_PHYSICS } from './edexcel-igcse-physics.ts';
 import { DECK_EDEXCEL_IGCSE_WORLD_HISTORY } from './edexcel-igcse-world-history.ts';
@@ -84,6 +101,8 @@ import { DECK_IB_IB_DP_LANGUAGE_B } from './ib-ib-dp-language-b.ts';
 import { DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES } from './ib-ib-dp-mathematics-analysis-and-approaches.ts';
 import { DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION } from './ib-ib-dp-mathematics-applications-and-interpretation.ts';
 import { DECK_IB_IB_DP_PHYSICS } from './ib-ib-dp-physics.ts';
+import { DECK_IB_IB_DP_PSYCHOLOGY } from './ib-ib-dp-psychology.ts';
+import { DECK_IB_IB_DP_WORLD_HISTORY } from './ib-ib-dp-world-history.ts';
 import { DECK_IB_IB_MYP_DESIGN } from './ib-ib-myp-design.ts';
 import { DECK_IB_IB_MYP_INDIVIDUALS_AND_SOCIETIES } from './ib-ib-myp-individuals-and-societies.ts';
 import { DECK_IB_IB_MYP_LANGUAGE_ACQUISITION } from './ib-ib-myp-language-acquisition.ts';
@@ -108,6 +127,8 @@ import { DECK_OXFORDAQA_A_LEVEL_BUSINESS } from './oxfordaqa-a-level-business.ts
 import { DECK_OXFORDAQA_A_LEVEL_CHEMISTRY } from './oxfordaqa-a-level-chemistry.ts';
 import { DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE } from './oxfordaqa-a-level-computer-science.ts';
 import { DECK_OXFORDAQA_A_LEVEL_ECONOMICS } from './oxfordaqa-a-level-economics.ts';
+import { DECK_OXFORDAQA_A_LEVEL_ENGLISH_LANGUAGE } from './oxfordaqa-a-level-english-language.ts';
+import { DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE } from './oxfordaqa-a-level-english-literature.ts';
 import { DECK_OXFORDAQA_A_LEVEL_MATHEMATICS } from './oxfordaqa-a-level-mathematics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
 import { DECK_OXFORDAQA_IGCSE_ACCOUNTING } from './oxfordaqa-igcse-accounting.ts';
@@ -116,6 +137,8 @@ import { DECK_OXFORDAQA_IGCSE_BUSINESS } from './oxfordaqa-igcse-business.ts';
 import { DECK_OXFORDAQA_IGCSE_CHEMISTRY } from './oxfordaqa-igcse-chemistry.ts';
 import { DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE } from './oxfordaqa-igcse-computer-science.ts';
 import { DECK_OXFORDAQA_IGCSE_ECONOMICS } from './oxfordaqa-igcse-economics.ts';
+import { DECK_OXFORDAQA_IGCSE_ENGLISH_LANGUAGE } from './oxfordaqa-igcse-english-language.ts';
+import { DECK_OXFORDAQA_IGCSE_ENGLISH_LITERATURE } from './oxfordaqa-igcse-english-literature.ts';
 import { DECK_OXFORDAQA_IGCSE_ISLAMIYAT } from './oxfordaqa-igcse-islamiyat.ts';
 import { DECK_OXFORDAQA_IGCSE_MATHEMATICS } from './oxfordaqa-igcse-mathematics.ts';
 import { DECK_OXFORDAQA_IGCSE_PAKISTAN_STUDIES } from './oxfordaqa-igcse-pakistan-studies.ts';
@@ -129,6 +152,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_A_LEVEL_CHEMISTRY,
   DECK_AQA_A_LEVEL_COMPUTER_SCIENCE,
   DECK_AQA_A_LEVEL_ECONOMICS,
+  DECK_AQA_A_LEVEL_ENGLISH_LANGUAGE,
+  DECK_AQA_A_LEVEL_ENGLISH_LITERATURE,
   DECK_AQA_A_LEVEL_LAW,
   DECK_AQA_A_LEVEL_MATHEMATICS,
   DECK_AQA_A_LEVEL_PHYSICS,
@@ -138,6 +163,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_GCSE_BUSINESS,
   DECK_AQA_GCSE_CHEMISTRY,
   DECK_AQA_GCSE_ECONOMICS,
+  DECK_AQA_GCSE_ENGLISH_LANGUAGE,
+  DECK_AQA_GCSE_ENGLISH_LITERATURE,
   DECK_AQA_GCSE_MATHEMATICS,
   DECK_AQA_GCSE_PHYSICS,
   DECK_AQA_GCSE_WORLD_HISTORY,
@@ -147,17 +174,23 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY,
   DECK_CAMBRIDGE_A_LEVEL_COMPUTER_SCIENCE,
   DECK_CAMBRIDGE_A_LEVEL_ECONOMICS,
+  DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LANGUAGE,
+  DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LITERATURE,
   DECK_CAMBRIDGE_A_LEVEL_GLOBAL_PERSPECTIVES,
   DECK_CAMBRIDGE_A_LEVEL_ICT,
   DECK_CAMBRIDGE_A_LEVEL_LAW,
   DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_A_LEVEL_PHYSICS,
+  DECK_CAMBRIDGE_A_LEVEL_WORLD_HISTORY,
   DECK_CAMBRIDGE_IGCSE_ACCOUNTING,
   DECK_CAMBRIDGE_IGCSE_BIOLOGY,
   DECK_CAMBRIDGE_IGCSE_BUSINESS,
   DECK_CAMBRIDGE_IGCSE_CHEMISTRY,
+  DECK_CAMBRIDGE_IGCSE_COMMERCE,
   DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE,
   DECK_CAMBRIDGE_IGCSE_ECONOMICS,
+  DECK_CAMBRIDGE_IGCSE_ENGLISH_LITERATURE,
+  DECK_CAMBRIDGE_IGCSE_ENVIRONMENTAL_MANAGEMENT,
   DECK_CAMBRIDGE_IGCSE_GLOBAL_PERSPECTIVES,
   DECK_CAMBRIDGE_IGCSE_ICT,
   DECK_CAMBRIDGE_IGCSE_ISLAMIYAT,
@@ -165,12 +198,16 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_IGCSE_PAKISTAN_STUDIES,
   DECK_CAMBRIDGE_IGCSE_PHYSICS,
   DECK_CAMBRIDGE_IGCSE_STATISTICS,
+  DECK_CAMBRIDGE_IGCSE_WORLD_HISTORY,
   DECK_CAMBRIDGE_O_LEVEL_ACCOUNTING,
   DECK_CAMBRIDGE_O_LEVEL_BIOLOGY,
   DECK_CAMBRIDGE_O_LEVEL_BUSINESS,
   DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY,
+  DECK_CAMBRIDGE_O_LEVEL_COMMERCE,
   DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE,
   DECK_CAMBRIDGE_O_LEVEL_ECONOMICS,
+  DECK_CAMBRIDGE_O_LEVEL_ENGLISH_LANGUAGE,
+  DECK_CAMBRIDGE_O_LEVEL_ENVIRONMENTAL_MANAGEMENT,
   DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT,
   DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_O_LEVEL_PAKISTAN_STUDIES,
@@ -182,6 +219,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_EDEXCEL_A_LEVEL_BUSINESS,
   DECK_EDEXCEL_A_LEVEL_CHEMISTRY,
   DECK_EDEXCEL_A_LEVEL_ECONOMICS,
+  DECK_EDEXCEL_A_LEVEL_ENGLISH_LITERATURE,
   DECK_EDEXCEL_A_LEVEL_LAW,
   DECK_EDEXCEL_A_LEVEL_MATHEMATICS,
   DECK_EDEXCEL_A_LEVEL_PHYSICS,
@@ -191,6 +229,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_EDEXCEL_IGCSE_BUSINESS,
   DECK_EDEXCEL_IGCSE_CHEMISTRY,
   DECK_EDEXCEL_IGCSE_ECONOMICS,
+  DECK_EDEXCEL_IGCSE_ENGLISH_LANGUAGE,
+  DECK_EDEXCEL_IGCSE_ENGLISH_LITERATURE,
   DECK_EDEXCEL_IGCSE_MATHEMATICS,
   DECK_EDEXCEL_IGCSE_PHYSICS,
   DECK_EDEXCEL_IGCSE_WORLD_HISTORY,
@@ -207,6 +247,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES,
   DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION,
   DECK_IB_IB_DP_PHYSICS,
+  DECK_IB_IB_DP_PSYCHOLOGY,
+  DECK_IB_IB_DP_WORLD_HISTORY,
   DECK_IB_IB_MYP_DESIGN,
   DECK_IB_IB_MYP_INDIVIDUALS_AND_SOCIETIES,
   DECK_IB_IB_MYP_LANGUAGE_ACQUISITION,
@@ -231,6 +273,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_A_LEVEL_CHEMISTRY,
   DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE,
   DECK_OXFORDAQA_A_LEVEL_ECONOMICS,
+  DECK_OXFORDAQA_A_LEVEL_ENGLISH_LANGUAGE,
+  DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE,
   DECK_OXFORDAQA_A_LEVEL_MATHEMATICS,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
   DECK_OXFORDAQA_IGCSE_ACCOUNTING,
@@ -239,6 +283,8 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_IGCSE_CHEMISTRY,
   DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE,
   DECK_OXFORDAQA_IGCSE_ECONOMICS,
+  DECK_OXFORDAQA_IGCSE_ENGLISH_LANGUAGE,
+  DECK_OXFORDAQA_IGCSE_ENGLISH_LITERATURE,
   DECK_OXFORDAQA_IGCSE_ISLAMIYAT,
   DECK_OXFORDAQA_IGCSE_MATHEMATICS,
   DECK_OXFORDAQA_IGCSE_PAKISTAN_STUDIES,
