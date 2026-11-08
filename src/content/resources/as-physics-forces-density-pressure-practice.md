@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on moments, equilibrium, upthrust and pressure for AS Physics."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -124,3 +126,17 @@ The pressure increase depends only on **depth, density and g** [1] — not on th
 - Saying upthrust depends on the object's weight rather than the fluid displaced.
 - Drawing the vector triangle open rather than closed, or failing to keep the arrows tip-to-tail in a consistent direction.
 - Confusing torque of a couple (one force × distance between the forces) with a single moment (force × distance to a pivot).
+
+## Frequently asked questions
+
+**Which Cambridge 9702 topic covers forces, density and pressure?**
+Forces, density and pressure is Topic 4 of Cambridge International AS & A Level Physics 9702, covering turning effects of forces, equilibrium, and density and pressure. It is AS Level content.
+
+**Where does a uniform beam's weight act in a moments question?**
+The weight of a uniform beam acts at its centre of gravity, which is at its midpoint. Forgetting to include the beam's own weight at its centre is a common error.
+
+**What is the difference between gauge pressure and absolute pressure?**
+Gauge pressure is the increase in pressure above the pressure at the surface, ρgh. Absolute pressure also includes atmospheric pressure.
+
+**What mistakes lose marks in moments and pressure questions?**
+Common errors include leaving "perpendicular" out of the definition of a moment, giving only one condition for equilibrium, and saying upthrust depends on the object's weight rather than the fluid displaced.

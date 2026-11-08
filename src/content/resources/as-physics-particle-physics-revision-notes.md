@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Condensed recall notes on the standard model, quarks, leptons, fundamental forces and conservation rules for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -187,3 +189,16 @@ Same mass, **opposite charge and opposite quantum numbers**. When a particle and
   <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the quark compositions of a proton and a neutron?**
+A proton is uud, with charge 2(+2/3) + (−1/3) = +1, and a neutron is udd, with charge (+2/3) + 2(−1/3) = 0.
+
+**Why was the neutrino postulated?**
+Beta particles were emitted with a range of energies rather than a fixed value, so energy and momentum appeared not to be conserved. Rather than abandon conservation, physicists proposed an undetected particle carrying the balance.
+
+**Which force changes quark flavour?**
+The weak force is the only force that changes quark flavour, which is why it is responsible for beta decay: d → u in beta-minus and u → d in beta-plus.
+
+**Why do alpha particles have discrete energies but beta particles a continuous range?**
+In alpha decay the energy is shared between just two bodies, giving a fixed value. In beta decay an antineutrino or neutrino also shares the energy in a variable proportion, so beta particles have a continuous spread of energies.

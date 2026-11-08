@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-particle-physics"
     subtopic: "as-fundamental-particles"
-description: "The nuclear atom, isotopes, alpha/beta/gamma radiation and radioactive decay equations, plus quarks and leptons as fundamental particles and hadrons as the composite particles built from quarks, for Cambridge International AS & A Level Physics 9702."
+description: "The nuclear atom, isotopes, alpha, beta and gamma radiation, decay equations, and quarks, hadrons and leptons: Topic 11 of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -184,6 +186,20 @@ other force-carrying (elementary boson) particles.
 - Writing and balancing a radioactive decay equation
 - Quarks, hadrons (baryons/mesons), leptons, and the quark-level description
 of β decay
+
+## Frequently asked questions
+
+**What did the alpha-particle scattering experiment show?**
+It showed that most of an atom's mass and all of its positive charge are concentrated in a tiny, dense nucleus, with the electrons occupying the much larger space around it.
+
+**What are isotopes?**
+Isotopes of an element have the same proton number but different nucleon numbers, because they have different numbers of neutrons.
+
+**What is a positron?**
+A positron is the antiparticle of the electron, with the same mass but opposite (positive) charge. It is emitted in beta-plus decay along with an electron neutrino.
+
+**What is the difference between a baryon and a meson?**
+Both are hadrons, particles made of quarks. A baryon, such as a proton or neutron, has three quarks, while a meson has one quark and one antiquark.
 
 ## Related resources
 

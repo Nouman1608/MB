@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on Hooke law, the Young modulus and strain energy for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -141,3 +143,17 @@ A = πr² = π × (2.1 × 10⁻⁴)² = **1.385 × 10⁻⁷ m²** [1].
 - Treating the Young modulus as a property of the object.
 - Confusing strong, stiff and tough.
 - Using ½Fx on a non-linear force–extension graph.
+
+## Frequently asked questions
+
+**Why must you use the radius when calculating a wire's cross-sectional area?**
+Area is A = πr², so using the diameter instead of the radius makes the area four times too large and the stress four times too small. Halve the diameter first and convert to metres.
+
+**Which Cambridge 9702 topic covers deformation of solids?**
+Deformation of solids is Topic 6 of Cambridge International AS & A Level Physics 9702, covering stress and strain and elastic and plastic behaviour. It is AS Level content.
+
+**What are the units of stress and strain?**
+Stress is force per unit area, measured in pascals (Pa), equivalent to N m⁻². Strain is a ratio of two lengths, so it has no unit.
+
+**What mistakes lose marks in deformation of solids questions?**
+Common errors include omitting "up to the limit of proportionality" from Hooke's law, using the diameter instead of the radius, treating the Young modulus as a property of the object, and confusing strong, stiff and tough.

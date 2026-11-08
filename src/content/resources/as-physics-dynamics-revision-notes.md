@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Condensed recall notes on Newton three laws, momentum, impulse and collisions for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -150,3 +152,16 @@ Momentum before is zero, so momentum after must total zero — the fragments mov
   <figcaption>Explosion: equal and opposite momenta, but kinetic energy increases.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the conditions for a Newton's third law pair?**
+The two forces must act on two different bodies and be of the same type. Weight and the normal contact force on a book are not a pair, because they act on the same body.
+
+**What is impulse?**
+Impulse is force multiplied by the time it acts, Ft, and equals the change in momentum. It is the area under a force-time graph, measured in N s.
+
+**How do crumple zones and airbags reduce force?**
+They increase the time over which a given momentum change happens, so by F = Δp/Δt the average force is smaller. Saying the airbag "absorbs the force" scores nothing.
+
+**What happens to kinetic energy lost in an inelastic collision?**
+It is not destroyed but transferred to thermal energy, sound and the work done deforming the objects. Momentum is still conserved.

@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-kinematics"
     subtopic: "as-equations-of-motion"
-description: "Distance, displacement, speed, velocity and acceleration, motion graphs, and deriving and using the equations of uniformly accelerated motion, for Cambridge International AS & A Level Physics 9702."
+description: "Distance, displacement, speed, velocity and acceleration, motion graphs and deriving the suvat equations: Topic 2, Kinematics, of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -191,6 +193,20 @@ from the definitions of velocity and acceleration
 - Treating perpendicular uniform-velocity and uniform-acceleration motions
 independently
 
+## Frequently asked questions
+
+**What are the equations of uniformly accelerated motion?**
+The four equations are v = u + at, s = ut + ½at², v² = u² + 2as and s = ½(u + v)t. They apply only to uniformly accelerated motion in a straight line.
+
+**What does the area under a velocity-time graph show?**
+The area under a velocity-time graph gives the displacement, as a signed area, and the gradient gives the acceleration. For total distance when the velocity changes sign, add the magnitudes of the areas above and below the axis.
+
+**Do you need to derive the suvat equations for Cambridge 9702?**
+Yes. Cambridge 9702 requires you to derive the equations of uniformly accelerated motion from the definitions of velocity and acceleration, not just recall them.
+
+**How do you determine g experimentally?**
+Drop an object from rest through a measured height and time the fall electronically, for example with a light gate. Rearrange s = ½gt² to g = 2s/t², and repeat the drops and average t to reduce random error.
+
 ## Related resources
 
 - [Physical Quantities, Units and Measurement](/resources/as-physics-physical-quantities-units-and-measurement/) — the vector resolution this topic builds on
@@ -204,4 +220,3 @@ series. Always check the current syllabus for your examination year.*
   <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--08-terminal-speed.webp" width="900" height="1020" alt="A speed-time graph for an 80 kg skydiver starts with gradient g and flattens at about 55 m/s. Force diagrams show A: drag 0, a = 9.81; B: drag 500 N, a = 3.56 m/s squared; C: drag = weight = 785 N, a = 0." loading="lazy">
   <figcaption>At terminal speed drag equals weight, the resultant force is zero and the speed is constant.</figcaption>
 </figure>
-
