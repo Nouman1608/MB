@@ -258,6 +258,23 @@ Note that double entry does not guarantee accuracy. A trial balance only proves 
 
 Test yourself on the [practice questions](/resources/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry-revision-notes/) for quick recall. Take a [free diagnostic](/diagnostics/) to find weak areas.
 
+## Frequently asked questions
+
+**What is a statement of affairs?**
+A statement of affairs lists the assets and liabilities of a business at one date, and the balancing figure is its capital. It is used when the business has not kept full double entry records.
+
+**Why are drawings added back when calculating profit from capital?**
+Drawings reduced capital during the year but are not an expense, so they are added back to the increase in capital. Capital introduced raised capital without being a profit, so it is deducted.
+
+**What can profit from capital not show?**
+The method gives one figure, net profit or loss. It does not give sales, cost of sales, gross profit or individual expenses, which an income statement would show.
+
+**How do you find credit sales from a totals account?**
+Use opening trade receivables + credit sales = cash received + discount allowed + irrecoverable debts + returns + closing trade receivables, and solve for credit sales. Add cash sales to find total sales.
+
+**Does double entry guarantee accurate records?**
+No. A trial balance only proves that debits equal credits, so some errors can remain. Double entry does, however, give more control and information than single entry for a business with many credit customers.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, for International GCSE exams May/June 2026 onwards (OxfordAQA). Section 3.4, Preparation of financial statements: accounting for organisations with incomplete records.

@@ -230,6 +230,22 @@ Points to use in a judgement answer: size of the business, number of credit cust
   <figcaption>Profit is the change in capital plus drawings minus capital introduced.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate profit from changes in capital?**
+Profit = closing capital − opening capital + drawings − capital introduced. If the result is negative, it is a loss.
+
+**How do you find drawings from a bank summary?**
+Take the opening bank balance, add all receipts and deduct all known payments; the remaining amount needed to reach the closing balance is the missing figure, such as drawings. Treat an opening overdraft as a negative balance.
+
+**Are a bank overdraft and a loan shown in a statement of affairs?**
+Yes, as liabilities, not negative assets. A loan repayable in three years would be listed under non-current liabilities, and capital would fall by the loan amount.
+
+**What is the difference between a statement of affairs and a statement of financial position?**
+A statement of affairs is built from counted and valued items; a statement of financial position is built from the ledger. Their layout can look the same.
+
+**Does late information change the profit from capital?**
+Yes. Any asset or liability changed at the closing date, such as an irrecoverable debt or an accrued expense found after the count, changes closing capital and profit by the same amount.
 
 ## Official syllabus
 

@@ -145,6 +145,20 @@ Draw up a statement of corrected profit for the year. **[8]**
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on correcting errors questions in OxfordAQA 9215?**
+Common losses are writing the journal with the debit and credit the wrong way round, using suspense when the trial balance agreed or failing to use it when it did not, and putting the opening suspense balance on the wrong side.
+
+**How should I state the effect of an error on profit?**
+Say whether profit rises or falls and by how much. Remember that an expense that was too high means profit was too low, and that a correction touching neither an income nor an expense account does not change profit.
+
+**Do I need to include a narrative in a correcting journal entry?**
+Include a narrative, and the name of the error type, whenever the question asks for them. Omitting either one loses marks.
+
+**How should I set out a statement of corrected profit?**
+List every error, including any that has no effect on profit, and give a reason for each adjustment. Start from the profit as first calculated and show a plus or minus on each line.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for International GCSE exams May/June 2026 onwards, published by OxfordAQA. See section 3.2, Verification of accounting records.
