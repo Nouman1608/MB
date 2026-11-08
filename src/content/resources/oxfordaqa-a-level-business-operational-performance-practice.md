@@ -150,6 +150,17 @@ Learn it first: [study guide](/resources/oxfordaqa-a-level-business-operational-
 - Treating JIT as all of lean production and forgetting Kaizen, standardised processes and teamwork.
 - Writing an evaluation with no final judgement, or one not linked to the case.
 
+## Frequently asked questions
+
+**Which costs should you include in a make-or-buy comparison?**
+Include only the costs that would change with the decision, such as variable costs saved and the price paid to the supplier. Including costs that would stay the same either way, such as unchanged fixed costs, distorts the comparison.
+
+**How do you get full marks on an "explain" question about operations?**
+Name the advantage or disadvantage and then explain its effect on the business in the case. Naming advantages without explaining their effect limits the marks.
+
+**Which OxfordAQA 9725 section do these questions cover?**
+They cover operational performance, section 3.2.1 of OxfordAQA International AS and A-level Business (9725): operations management, operations competitiveness, and inventory and supply chain management.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/oxfordaqa-a-level-business-operational-performance-revision-notes/).

@@ -251,6 +251,23 @@ Climate change brings **physical** risks (floods, heat, disrupted supply chains,
 
 Next: the [revision notes](/resources/oxfordaqa-a-level-business-analysing-the-external-environment-to-assess-revision-notes/), then the [practice questions](/resources/oxfordaqa-a-level-business-analysing-the-external-environment-to-assess-practice/) and [exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/).
 
+## Frequently asked questions
+
+**What is PESTLE analysis used for?**
+PESTLE sorts external factors into political, economic, social, technological, legal and environmental groups, giving a structured scan of the outside world and an early warning of change. Its limitation is that it is a snapshot that fast-moving factors soon date, and it does not rank factors by likelihood or impact.
+
+**What is the difference between the shareholder and stakeholder concepts?**
+The shareholder concept says a business exists mainly to maximise owners' returns. The stakeholder concept says it should balance the interests of all the groups it affects, which makes corporate social responsibility more likely.
+
+**Do you need to know specific laws for OxfordAQA A-level Business 9725?**
+No. The specification requires you to understand how law within a country affects business, such as competition and consumer protection law, but specific laws are not required. Specific government spending and taxation policies are not required either.
+
+**How can a business respond to exchange rate changes?**
+Responses include fixing a rate in advance with the bank, invoicing in the home currency, matching the currency of inputs to the currency of sales, or switching suppliers. Whether to change price depends on price elasticity and rivals' prices.
+
+**What risks does climate change bring to businesses?**
+Climate change brings physical risks, such as floods, heat, disrupted supply chains and higher insurance costs, and pressure to cut emissions from law, customers and investors. It also creates opportunities for low-carbon products.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

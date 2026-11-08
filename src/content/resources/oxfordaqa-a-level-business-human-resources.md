@@ -231,6 +231,23 @@ For example, a worker paid £0.80 per item who makes 550 items in a week earns 5
 
 Next: the [revision notes](/resources/oxfordaqa-a-level-business-human-resources-revision-notes/), then the [practice set](/resources/oxfordaqa-a-level-business-human-resources-practice/).
 
+## Frequently asked questions
+
+**What is the difference between job enlargement and job enrichment?**
+Job enlargement adds more tasks at the same level, giving variety but possibly feeling like more work for the same pay. Job enrichment adds responsibility and more challenging tasks, which meets Herzberg's motivators but needs training.
+
+**What is the difference between arbitration and bargaining?**
+Bargaining is negotiation between managers and employee representatives. Arbitration brings in an independent third party who hears both sides and recommends or decides a settlement.
+
+**Why does effective recruitment and selection matter?**
+The right person becomes productive sooner and stays longer, while a poor hire means repeat recruitment costs and lost output.
+
+**What are the benefits of motivated employees?**
+Motivated employees bring higher productivity, better quality and service, and lower labour turnover and absence.
+
+**How does technology affect the management of human resources?**
+Technology changes how businesses recruit, for example through online adverts and video interviews, as well as the nature of work, the skills needed and ways of working. Remote working, for example, cuts office costs but makes supervision harder.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards, published by OxfordAQA. Section 3.2.2 Human resources.

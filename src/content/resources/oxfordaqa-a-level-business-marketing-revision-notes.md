@@ -13,13 +13,15 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-oxfordaqa-alevel-business"
-description: "Condensed recall notes on marketing objectives, marketing research, segmentation-targeting-positioning, and the marketing mix, for OxfordAQA International A-Level Business, primarily 9625 (7Ps) with 9725 (4Ps) divergence flagged."
+description: "Condensed OxfordAQA International A-Level Business marketing notes: objectives, research, STP and marketing mix, following 9625's 7Ps with 9725's 4Ps flagged."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -289,6 +291,23 @@ A stratified sample (dividing the population into subgroups and sampling proport
 ## How this connects forward
 
 Topic 1 established why a business exists and who it is accountable to; Marketing turns to how it competes for customers, and the STP-plus-mix framework built here recurs across the rest of the AS topics (Operations, Human Resources, Finance) whenever a question asks how a business should respond to a market opportunity or threat. Treat the segmentation-targeting-positioning-mix sequence as a reusable analytical tool, not content specific to Topic 2 alone.
+
+## Frequently asked questions
+
+**How many elements does the marketing mix have in OxfordAQA 9625 and 9725?**
+Under 9625 the marketing mix has 7 elements: product, price, promotion, place, people, process and physical environment. Under 9725 it is simplified back to the classic 4Ps, and people, process, physical environment and the Boston Matrix are dropped from this first-year section.
+
+**What are segmentation, targeting and positioning?**
+They are a connected three-step process: segment the market into groups, target the segment or segments to serve, then position the product relative to competitors for that segment. Questions usually expect all three steps applied to one scenario.
+
+**What does a price elasticity of demand of less than 1 mean for revenue?**
+If the magnitude of PED is less than 1, demand is price inelastic, so quantity demanded falls proportionally less than a price rise and total revenue rises. PED is not fixed, so one figure should not be treated as permanent for long-term pricing.
+
+**How do you calculate the customer retention rate?**
+Customer retention rate is customers at the end of the period minus new customers gained, divided by customers at the start, multiplied by 100. A falling retention rate can flag a problem even while total sales volume rises.
+
+**What sampling methods are in OxfordAQA International AS Business?**
+The sampling methods are random, stratified and quota sampling. Choosing a research method depends on cost, time and reliability.
 
 ## Related resources
 

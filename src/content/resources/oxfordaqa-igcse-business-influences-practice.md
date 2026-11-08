@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
-description: "Original exam-style practice questions with full worked answers on technology, ethics, the economic climate, globalisation, legislation and competition for OxfordAQA International GCSE Business (9225)."
+description: "Original OxfordAQA International GCSE Business 9225 practice questions with worked answers on technology, ethics, the economy, globalisation, law and rivals."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -129,3 +131,17 @@ complete, pays off throughout the rest of the exam.
 - Treating ethical behaviour as costless, without acknowledging the genuine trade-off with profit the question is testing.
 - Confusing the direction of an exchange-rate effect — a weaker currency helps exporters and hurts importers, not the reverse.
 - Giving a generic evaluation conclusion that does not engage with the specific business or scenario described in the question.
+
+## Frequently asked questions
+
+**How are the real OxfordAQA IGCSE Business 9225 papers structured?**
+Each real 9225 paper opens with a Section A of 15 marks of multiple choice and short answer questions, followed by two further sections of about 40 and 35 marks built around case-study or data-response stimulus. The Section A and B labels on this practice page are organisational only and do not copy that profile.
+
+**How do you write a strong evaluation on influences on business?**
+Reach a supported judgement specific to the scenario, tying it back to a detail in the question such as the type of business, its customers or its market position. A generic list of pros and cons that could apply to any business scores lower.
+
+**Which sub-topics does Influences on business cover in OxfordAQA IGCSE Business?**
+The topic covers six sub-topics: technology, ethical and environmental considerations, the economic climate, globalisation, legislation and the competitive environment. They recur as background context in the operations, human resources, marketing and finance topics.
+
+**Which section of the 9225 specification covers exchange-rate effects?**
+Exchange-rate effects sit in specification section 3.2.4, Globalisation, of OxfordAQA International GCSE Business (9225).

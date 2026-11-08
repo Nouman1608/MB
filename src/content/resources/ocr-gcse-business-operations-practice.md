@@ -103,6 +103,17 @@ These questions cover section 4, Operations, of the OCR GCSE (9-1) Business (J20
 - Choosing a location or supplier on one factor, such as cost, and ignoring time, reliability and labour.
 - Stopping at the comparison and not giving a final recommendation or judgement.
 
+## Frequently asked questions
+
+**What does section 4 Operations cover in OCR GCSE Business J204?**
+Section 4 of OCR GCSE (9-1) Business (J204) covers production processes, quality of goods and services, the sales process and customer service, consumer law, business location and working with suppliers. These questions use invented businesses to practise each area.
+
+**How do you write a good "explain" answer in GCSE Business?**
+Give a point, then develop it with a consequence for the business in the question. A benefit stated with no consequence does not earn the second mark.
+
+**How should you compare two suppliers or two sites in an exam question?**
+Calculate the cost of each option first, then weigh the cheaper one against non-cost factors such as delivery time, reliability or closeness to customers. Finish with a supported judgement about which option suits the business best.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-gcse-business-operations-revision-notes/) and the [study guide](/resources/ocr-gcse-business-operations/).

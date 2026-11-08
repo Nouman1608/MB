@@ -273,6 +273,23 @@ A firm with revenue £730,000, trade receivables £70,000, cost of sales £438,0
 
 Next: condense this with the [revision notes](/resources/oxfordaqa-a-level-business-finance-revision-notes/), test yourself with the [practice questions](/resources/oxfordaqa-a-level-business-finance-practice/), and read [how the 9625 and 9725 papers differ](/resources/oxfordaqa-a-level-business-exam-preparation/).
 
+## Frequently asked questions
+
+**What is the difference between profit and profitability?**
+Profit is an absolute figure, while profitability measures profit relative to revenue as a margin. A firm can make more profit but be less profitable than a smaller firm with a higher margin.
+
+**How do you calculate break-even output?**
+Break-even output is fixed costs divided by contribution per unit, where contribution per unit is selling price minus variable cost per unit. In OxfordAQA Business (9725) a decimal answer should be rounded up to the next whole unit.
+
+**What happens to break-even when the price rises?**
+A higher price makes the revenue line steeper on the break-even chart, increases contribution per unit and lowers break-even output, assuming costs do not change.
+
+**What are the limitations of break-even analysis?**
+Break-even analysis assumes all output is sold at one price and that costs follow straight lines. It is only as good as the cost estimates it is based on.
+
+**How is finance tested in OxfordAQA AS Business 9725?**
+Finance is part of the Unit 2 paper, which includes a calculation section, Section B, worth 10 marks. That is why break-even, margin, variance and cash flow methods need to be quick and accurate.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards, published by OxfordAQA. Section 3.2.3 Finance.

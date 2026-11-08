@@ -301,6 +301,20 @@ External influences on operations (social, legal, ethical, environmental, econom
 - Recommending without justifying against alternatives.
 - Mixing up outsourcing, subcontracting and offshoring.
 
+## Frequently asked questions
+
+**What is the formula for capacity utilisation?**
+Capacity utilisation is actual output divided by maximum possible output, multiplied by 100. Low utilisation means a high fixed cost per unit, while running close to 100% leaves no room for rises in demand or for maintenance.
+
+**What is the difference between total float and free float?**
+Total float is how long an activity can be delayed without delaying the whole project, found as latest finish time minus earliest start time minus duration. Free float is how long it can be delayed without delaying the start of the next activity.
+
+**What happens if a critical activity is delayed?**
+An activity on the critical path has no float, so a delay of one day to it delays the whole project by one day. Qualitative factors such as team skills also matter alongside the network calculation.
+
+**What is the difference between job, batch, flow and cell production?**
+Job production makes one-off items to customer order, batch production makes a set quantity before switching, flow production is continuous and standardised, and cell production uses a team to make a complete product or component. Flow gives the lowest unit cost but the least flexibility, while job production gives high flexibility at a high unit cost.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431), Version 2.1 (January 2026), topic 4 Operational strategy, published by OCR.

@@ -15,11 +15,13 @@ syllabusTopics:
 description: "Business activity, marketing, and people -- the three sections of Component 1 (J204/01) for OCR GCSE Business (J204)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 updatedDate: 2026-11-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Component 1 Business activity, marketing and
@@ -178,3 +180,20 @@ Saying limited liability means limited debt. Describing primary research as "bet
 - Distinguish primary from secondary and quantitative from qualitative research.
 - Explain each element of the marketing mix and why consistency matters.
 - Compare internal and external recruitment, and financial with non-financial motivation.
+
+## Frequently asked questions
+
+**What does Component 1 of OCR GCSE Business J204 cover?**
+Component 1 (J204/01) covers three sections: business activity, marketing and people. It is one of two equally weighted components, and its content can also be drawn on in Component 2.
+
+**What is the difference between unlimited and limited liability?**
+Sole traders and partnerships have unlimited liability, so the owners' personal assets are at risk if the business cannot pay its debts. Shareholders in private and public limited companies can only lose the money they have invested; limited liability does not mean the business has limited debts.
+
+**Why do new and established businesses have different objectives?**
+A start-up usually prioritises survival and cash flow, covering its costs and building a customer base. An established business is more likely to pursue profit, growth or market share.
+
+**Why must the four Ps of the marketing mix be consistent?**
+Product, price, promotion and place have to support each other, because mixed signals confuse customers. For example, a premium price combined with poor-quality packaging and discount retailers is likely to fail.
+
+**Is primary research better than secondary research?**
+Not necessarily. Primary research is more specific to the business's needs but slower and more expensive, while secondary research is cheaper and quicker but not tailored to the business's own needs.

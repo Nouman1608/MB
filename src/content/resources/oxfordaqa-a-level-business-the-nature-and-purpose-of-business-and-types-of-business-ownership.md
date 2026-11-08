@@ -283,6 +283,23 @@ If the price rises to £3.60 and the dividend stays at 15p, the yield falls to 0
 - Stopping a decision-tree answer at expected value, without taking off the cost.
 - Using partnerships in a 9625 answer, or co-operatives in a 9725 answer, without checking your specification.
 
+## Frequently asked questions
+
+**What does SMART stand for in OxfordAQA 9725?**
+The 9725 text spells SMART out as Specific, Measurable, Accountable, Realistic and Time specific. An objective such as raising sales by a set percentage by a set date, owned by a named manager, can be checked.
+
+**What are the key elements of a business plan in 9725?**
+The 9725 key elements are ownership, objectives, target market and market analysis, competitor analysis, unique selling point (USP) and financial analysis.
+
+**What are the primary, secondary and tertiary sectors?**
+The primary sector extracts natural resources, such as farming and mining. The secondary sector makes or builds things, such as manufacturing and construction, and the tertiary sector provides services, such as retail, banking and teaching.
+
+**What are the advantages and disadvantages of a family business?**
+A family business can benefit from loyalty, shared values, long-term thinking and quick decisions. Its disadvantages include conflict, limited finance and skills, and difficult succession.
+
+**Why do people buy shares?**
+Shareholders invest to receive dividends, which are a share of profit paid out, to gain if the share price rises, and sometimes for a say in decisions or because they back the business's aims.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9625), Version 3.1, first AS exams May/June 2019 and first A-level exams May/June 2020; and OxfordAQA International AS and A-level Business (9725), Version 1.1, first AS exams May/June 2027 and first A-level exams May/June 2028. Publisher: OxfordAQA. Sections 3.1.1.1 and 3.1.1.2.

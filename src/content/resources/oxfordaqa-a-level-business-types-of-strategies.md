@@ -227,6 +227,23 @@ Each profit margin is that profit ÷ revenue × 100. Year 2 included fair-wage p
 
 Next: [practice questions](/resources/oxfordaqa-a-level-business-types-of-strategies-practice/) and [exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/).
 
+## Frequently asked questions
+
+**What are diseconomies of scale?**
+Diseconomies of scale are rises in unit cost when a firm becomes too large. They come from problems of control, communication through long chains of command, and coordination between sites and departments.
+
+**What is Triple Bottom Line reporting?**
+Triple Bottom Line reporting covers people, planet and profit. It gives stakeholders a fuller picture and can attract customers, staff and investors, but social and environmental results are hard to measure and reports may be selective.
+
+**What is retrenchment?**
+Retrenchment is deliberately cutting back, for example by closing sites, selling divisions, dropping products or making redundancies, often because of falling demand, losses, diseconomies, low capacity utilisation or a need for cash. Problems include redundancy costs, low morale among those who stay and lost skills.
+
+**How does intellectual property protect innovation?**
+A patent lets the owner stop others using an invention for a set period, copyright protects original creative work, and a trademark protects brand names and logos. Intellectual property earns a return before rivals copy, but it costs money to register and defend, and a patent publishes the idea.
+
+**What is the difference between organic and external growth?**
+Organic growth uses the firm's own resources, which is lower risk and keeps control and culture but is slow. External growth joins with another firm, for example through a merger or acquisition, which is fast and buys share, brands or skills, but is costly, risky and prone to culture clashes.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA. Section 3.4.4 Types of strategies.

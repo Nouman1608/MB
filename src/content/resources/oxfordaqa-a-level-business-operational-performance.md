@@ -258,6 +258,23 @@ Supply chain management coordinates the flow from suppliers to customers, includ
 
 Next: [revision notes](/resources/oxfordaqa-a-level-business-operational-performance-revision-notes/), [practice questions](/resources/oxfordaqa-a-level-business-operational-performance-practice/) and [exam preparation for 9625 and 9725](/resources/oxfordaqa-a-level-business-exam-preparation/).
 
+## Frequently asked questions
+
+**What is the difference between just in time and just in case?**
+Just in time keeps minimal inventory, lowering storage costs and cash tied up, but needs reliable suppliers and risks stopping if one delivery fails. Just in case holds large inventory as a safety margin against disruption and sudden demand, at the cost of higher storage costs and a risk of waste.
+
+**Should a business make a component itself or buy it in?**
+Making in-house keeps control over quality, design and timing and protects know-how. Buying in can be cheaper, needs no capital and gives access to specialist skills, but the business depends on the supplier and loses some control.
+
+**Why does high capacity utilisation lower unit costs?**
+High capacity utilisation spreads fixed costs over more units, so the cost of each unit falls. Near 100%, though, there is no room for extra orders or maintenance.
+
+**How can a business match supply to fluctuating demand?**
+Methods include increasing or decreasing output, inventory or capacity, outsourcing, and flexible labour such as temporary, part-time, agency or zero hours contracts. A mismatch is costly: too little supply loses sales, while too much leaves unsold inventory.
+
+**What is supply chain transparency?**
+Supply chain transparency means knowing, and often publishing, where inputs come from and how they are produced. Together with third-party accreditation, it helps a business check ethical and environmental claims.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards, published by OxfordAQA. Section 3.2.1 Operational performance.

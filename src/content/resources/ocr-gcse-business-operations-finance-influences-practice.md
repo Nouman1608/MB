@@ -12,14 +12,16 @@ order: 3
 syllabusTopics:
   - qualification: "gcse"
     topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-description: "Original exam-style practice questions with full worked answers on production, quality, break-even, cash flow, profit and loss, and ethical/economic/global influences, with a 15-question multiple-choice Section A in the OCR GCSE (9-1) Business (J204/02) format."
+description: "Original OCR GCSE Business J204/02 practice with worked answers: a 15-question multiple-choice Section A plus operations, finance and influences questions."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -144,3 +146,14 @@ Question 17 illustrates a distinction worth being explicit about in an exam answ
 ## Approaching operations, finance and influences questions
 
 For any calculation question in this component, write out the formula being used before substituting numbers, since method marks are often available for a correctly applied method even where the final answer contains an arithmetic slip. When a question uses the word "evaluate," always structure the answer around a clear "for" case, an "against" case, and a final judgement that explicitly weighs the two rather than simply restating both sides — a missing judgement is an easy way to lose marks on the longer influences-on-business questions. Finally, keep at least one worked example of a decision that spans Business 1 and Business 2 — such as a marketing launch that requires a location or supplier change — fresh in mind throughout revision, since the specification says that in Section B of the Business 2 paper learners must draw on the full range of content to answer at least two of the questions — the synoptic questions that reward this kind of cross-component thinking.
+
+## Frequently asked questions
+
+**How is the OCR GCSE Business J204/02 paper structured?**
+Section A of the J204/02 paper is 15 multiple-choice questions worth 1 mark each, making 15 marks. Section B is worth 65 marks and uses stimulus material drawn from real business contexts, including synoptic questions that draw on Business 1 content.
+
+**Why should you write the formula before the numbers in a calculation?**
+Method marks are often available for a correctly applied method even if the final answer contains an arithmetic slip. Writing the formula first shows the examiner your method.
+
+**Are these real OCR past paper questions?**
+No. They are original questions written for revision in the J204/02 format, and Section B here is a shorter set of topic questions rather than a full 65-mark section.

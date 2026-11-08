@@ -124,6 +124,17 @@ Judgement: re-shoring is justified only if Halvering expects the tariff to last 
 - Treating Kaizen and R&D as the same thing because both "improve products".
 - Giving an evaluation with no judgement, or a judgement with no condition.
 
+## Frequently asked questions
+
+**Why does the sign of PED matter in a forecast?**
+PED is negative, because a price cut raises quantity demanded and a price rise lowers it. Losing the minus sign leads you to predict the wrong direction of change.
+
+**How do you avoid generic answers on growth methods such as franchising?**
+Link each advantage or disadvantage to the business in the question, such as its size, its goals or its finance. Writing generic advantages of franchising or acquisition with no link to the case limits the marks.
+
+**Which OxfordAQA 9725 section do these questions cover?**
+They cover section 3.4.4 Types of strategies of OxfordAQA International AS and A-level Business (9725): growth, innovation, globalisation and sustainability strategies.
+
 ## Next steps
 
 - Recall the formulas with the [revision notes](/resources/oxfordaqa-a-level-business-types-of-strategies-revision-notes/).

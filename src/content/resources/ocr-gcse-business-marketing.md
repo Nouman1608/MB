@@ -270,6 +270,23 @@ Pembrook grew faster than the market, so its share rose one percentage point. A 
 - Stating that sales rose without comparing them to the market. Share is the comparison.
 - Describing a P in isolation, with no judgement about whether it suits the target market.
 
+## Frequently asked questions
+
+**What pricing methods do you need to know for OCR GCSE Business?**
+The pricing methods are price skimming, penetration pricing, cost-plus pricing, competitor pricing and promotional pricing. Each suits a different situation, for example skimming suits a new, desirable product with few rivals.
+
+**What is a loss leader?**
+A loss leader is a product sold at or below cost to bring shoppers in, in the hope that they buy other items at full price. It is one of the point of sale promotion methods.
+
+**What is market segmentation?**
+Market segmentation divides a market into groups of customers who share characteristics, such as age, gender, income, location or lifestyle. It lets a business choose the product, price, promotion and place to suit each group.
+
+**What is the difference between invention and innovation?**
+Invention is creating something new that did not exist before. Innovation is improving or changing an existing idea, such as adding a feature or using a new process, and is the more common route.
+
+**How do you calculate market share in OCR GCSE Business?**
+Market share is the business's sales divided by total market sales, multiplied by 100. In OCR GCSE Business (J204) you should then compare it with the growth of the market, because a firm's sales can rise while its share falls.
+
 ## Official syllabus
 
 OCR GCSE (9-1) in Business (J204), Version 2.0, Cambridge OCR, section 2: Marketing, topics 2.1 to 2.4, within Business 1: business activity, marketing and people.

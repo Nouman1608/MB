@@ -222,6 +222,17 @@ A **strategic review** is a wider, less frequent look at whether the strategy it
 - Evaluating with only advantages, or with no judgement at the end.
 - Ignoring stakeholders other than owners and customers.
 
+## Frequently asked questions
+
+**What is a business plan?**
+A business plan is a written document that sets out what a business intends to do, how it will do it and the results it expects. In OCR A Level Business (H431) you need to describe its main contents and explain why each is included.
+
+**What goes in a business plan?**
+A standard business plan includes an executive summary, a description of the business and its aims, market research, a marketing plan, operations and staffing details, financial forecasts, sources and use of finance, and risks and contingencies. The specification does not fix a list, so explain why each content you choose is included.
+
+**Why might a business change its strategy?**
+A business may change strategy because of falling sales, a new competitor, a change in customer tastes or new technology. Changing has costs such as retraining and disruption, but changing too late can be worse.
+
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR: the "Strategy and implementation" and "Business plan" content in the area of study "Business objectives and strategy".

@@ -121,6 +121,17 @@ Using Porter's five forces, evaluate whether boutique fitness in the city is an 
 - Analysing the firm's internal strengths instead of the industry's structure.
 - Ending a five forces evaluation without a view on overall attractiveness or a clear recommendation.
 
+## Frequently asked questions
+
+**What calculation slips should you watch for in industry environment questions?**
+Remember to multiply a per-unit cost change by annual volume, and divide by profit rather than sales when a question asks for a percentage of profit. Showing each step makes these slips easier to spot.
+
+**How do you structure an "evaluate" answer on whether an industry is attractive?**
+Rate each relevant force using evidence from the case, decide which forces matter most, and then reach an overall judgement on how attractive the industry is for the business. Evaluation can also note that the model is a snapshot that may change.
+
+**Which OxfordAQA 9725 section do these questions test?**
+They test section 3.3.3, Analysing the industry environment, of OxfordAQA International AS and A-level Business (9725), which is examined in Unit 3: Business analysis.
+
 ## Next steps
 
 - Recap: [revision notes](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment-revision-notes/)

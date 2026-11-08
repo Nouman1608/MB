@@ -105,6 +105,17 @@ Businesses and people are invented. Ivy Gate Cafe is a busy cafe with 14 staff. 
 - Not weighing both sides in an evaluate question.
 - Describing employment law in detail you cannot be sure of instead of its general impact.
 
+## Frequently asked questions
+
+**What does section 3 People cover in OCR GCSE Business J204?**
+Section 3 of OCR GCSE (9-1) Business (J204) covers the role of human resources, organisational structures and ways of working, communication, recruitment and selection, motivation and retention, training and development, and employment law.
+
+**How do you avoid mistakes in bonus and profit-sharing calculations?**
+Apply the percentage only to the part of the amount the question names, such as sales above a target, rather than to the full figure. Show your working and give the answer in pounds.
+
+**How do you answer a question about choosing between an internal and an external candidate?**
+Weigh the benefits of each for the business in the case, such as the internal candidate already knowing the business against the outside candidate bringing new skills or ideas. Finish with a supported recommendation.
+
 ## Next steps
 
 - [People revision notes](/resources/ocr-gcse-business-people-revision-notes/) and [People study guide](/resources/ocr-gcse-business-people/)

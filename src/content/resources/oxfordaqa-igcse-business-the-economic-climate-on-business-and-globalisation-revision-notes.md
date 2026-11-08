@@ -236,6 +236,20 @@ A judgement that could be pasted onto any other business has not used the case.
 - Attempting currency conversions, which are not required.
 - Forgetting that a variable-rate loan responds at once, while a fixed-rate loan does not.
 
+## Frequently asked questions
+
+**What is the difference between the direct and indirect effects of an interest rate rise?**
+The direct channel works through the business's own borrowing: repayments rise, costs rise and profit falls. The indirect channel works through customers: their borrowing costs rise, so they spend less and the business's sales fall.
+
+**What is Sharia compliant finance?**
+Sharia compliant finance does not charge or pay interest. It is not free, because the business still has payments to make, but it may be less exposed to a change in interest rates.
+
+**Do you need to calculate exchange rate conversions for OxfordAQA IGCSE Business?**
+No. These notes list exchange rate conversions as not required for 9225, along with explaining why interest rates change. Focus instead on the direction of a currency movement and its effect on exporters and importers.
+
+**How does a stronger home currency affect a business that both imports and exports?**
+A stronger currency makes its overseas prices higher, so export sales may fall, but makes its imported inputs cheaper. The two effects pull against each other, so weigh which is larger for the business.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225), specification version 3.1, for International GCSE exams from May/June 2022 onwards, published by OxfordAQA. Sections 3.2.3 and 3.2.4.

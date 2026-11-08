@@ -296,6 +296,20 @@ Cover the right-hand column and fill it in from memory.
 - Giving a percentage without showing the working.
 - Evaluating with one side only and no judgement.
 
+## Frequently asked questions
+
+**What are the four characteristics of an entrepreneur in OCR GCSE Business?**
+The OCR GCSE Business (J204) specification lists creativity, risk taking, determination and confidence. In a case question, name the characteristic, quote the evidence from the case and explain why it helps the business.
+
+**What are the five business objectives you need to know for J204?**
+The five are profit, survival, growth, providing a service and market share. A brand-new start-up is most likely to aim for survival, while a plc with shareholders is more likely to aim for profit or growth.
+
+**What do the command words analyse and evaluate mean in OCR GCSE Business?**
+Analyse needs a logical chain of reasoning, linking a cause to a consequence for the business. Evaluate and discuss need you to weigh both sides and reach a supported judgement.
+
+**Does a business plan guarantee success?**
+No. A plan supports success by reducing risk and helping with finance, markets, resources and objectives, but forecasts can be wrong and it does not guarantee the business will succeed.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Business (J204) specification, Version 2.0 (January 2026), section 1 Business activity. Published by OCR.

@@ -138,6 +138,17 @@ Recommend which option Ravenholt Fitness should choose. Justify your answer usin
 - Writing about one function when the question names several.
 - Ending an evaluate or recommend answer with no judgement, or a judgement with no reason.
 
+## Frequently asked questions
+
+**What do sections 6 and 7 of OCR GCSE Business J204 cover?**
+Section 6 covers influences on business: ethical and environmental considerations, the economic climate and globalisation. Section 7 covers the interdependent nature of business, including how the functions link, risk and reward, and the use of financial information.
+
+**What should you say when you calculate a margin?**
+State clearly whether the margin is gross or net, and give it as a percentage of revenue. A figure without its label can lose marks even when the arithmetic is right.
+
+**How do you answer a "recommend" question using financial information?**
+Use the figures given, such as forecast profit, ARR or break-even, to compare the options, then add a non-financial factor from the case. Finish by choosing one option and saying why it is better than the alternative.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business/) and the [revision notes](/resources/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business-revision-notes/).

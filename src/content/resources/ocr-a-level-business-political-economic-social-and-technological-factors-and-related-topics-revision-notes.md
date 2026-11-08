@@ -294,6 +294,20 @@ An ethical change that cuts margin from 35% to 32% is a trade-off. Argue whether
 - Ending an evaluation without a reasoned judgement on importance.
 - Skipping the stakeholder angle when the question asks for it.
 
+## Frequently asked questions
+
+**What is the difference between monetary, fiscal and supply-side policy?**
+Monetary policy works through interest rates and the availability of money, fiscal policy through taxation and government spending, and supply-side policy through measures that raise the economy's productive capacity. Distinguishing them by the tool used is the quickest way to tell them apart.
+
+**How do higher interest rates affect the exchange rate?**
+Higher UK interest rates tend to attract foreign money, which raises demand for the pound and lifts its value. A stronger pound makes imports cheaper and UK exports dearer for foreign buyers.
+
+**What is the difference between law and ethics in business?**
+The law is compulsory, enforced by the state and carries penalties. Ethics are moral principles a business chooses to follow, often going beyond what the law requires, so treating the two as the same thing is a common error.
+
+**Which businesses are most affected by the digital revolution?**
+Businesses whose products can be digitised, such as music, books and banking, or whose customers buy online, are most affected. Local services that must be delivered in person tend to be less affected.
+
 ## Official syllabus
 
 OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.

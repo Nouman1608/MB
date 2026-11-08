@@ -225,6 +225,17 @@ Judgements on this topic usually turn on a few case facts. Use them to say "it d
 - Describing agility in general terms without one of the four named ways.
 - Giving stakeholder effects for "employees" only and ignoring other groups.
 
+## Frequently asked questions
+
+**What are Kotter and Schlesinger's four reasons for resistance to change?**
+The four reasons are self-interest, misunderstanding and lack of trust, inertia, and different assessments of the situation. Identifying the reason from the case comes first, because the best response depends on it.
+
+**What are the six types of risk in OxfordAQA A-level Business?**
+The OxfordAQA A-level Business (9725) notes list financial, strategic, operational, compliance, reputational and cybersecurity risk. Methods of managing them include market research, contingency and crisis plans, insurance, diversifying, training and forecasting.
+
+**What is the difference between a contingency plan and crisis management?**
+A contingency plan is written in advance to deal with a possible problem. Crisis management is the live response while the problem is happening.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

@@ -291,6 +291,20 @@ For any change, name the stakeholder, state the effect and say whether it helps 
 - Using partnerships or co-operatives without checking which specification you follow.
 - Making a recommendation with no reason for the choice and no condition on which it depends.
 
+## Frequently asked questions
+
+**What are the four inputs a business uses?**
+The four inputs are land, labour, capital and enterprise. Businesses transform these inputs into outputs.
+
+**What is the difference between unlimited and limited liability?**
+With unlimited liability, the owner's personal assets can be used to pay business debts. With limited liability, the business still owes the whole debt, but a shareholder's loss is limited to the amount they invested.
+
+**What is the difference between a customer and a consumer?**
+A customer is the person who buys the product, while a consumer is the person who uses it. They are not always the same person.
+
+**How do you calculate dividend per share and dividend yield?**
+Dividend per share is the total dividend divided by the number of shares. Dividend yield is dividend per share divided by the share price, multiplied by 100, with both figures in the same units.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9625), Version 3.1, and OxfordAQA International AS and A-level Business (9725), Version 1.1, sections 3.1.1.1 and 3.1.1.2. Publisher: OxfordAQA.

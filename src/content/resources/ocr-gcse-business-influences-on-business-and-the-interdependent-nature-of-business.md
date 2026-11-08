@@ -266,6 +266,23 @@ A 25% ARR looks attractive, but it rests on forecasts. The machine also means a 
 - Writing about one function when the question is synoptic.
 - Quoting a margin or ARR without saying what it means for the decision.
 
+## Frequently asked questions
+
+**What is globalisation in OCR GCSE Business?**
+Globalisation is the increasing connection between economies, so that goods, services, money and ideas move more easily across borders. OCR GCSE Business (J204) looks at its impact through the growth of multinationals, business location, international branding and how businesses compete internationally.
+
+**Can behaving ethically lower a business's costs or raise its profit?**
+It can. Ethical choices such as fair pay may cost money but can improve motivation and reduce staff turnover, and ethically sourced inputs may allow a higher price that more than covers the extra cost.
+
+**How does a fall in consumer income affect a business?**
+When consumer income falls and unemployment rises, people have less to spend, so demand falls, especially for non-essential products. Because fixed costs stay the same, profit can fall by a larger percentage than revenue.
+
+**What are the four business functions in J204?**
+The four functions named in the specification are operations, finance, marketing and human resources. They are interdependent, so a decision in one, such as expanding, needs input from all the others.
+
+**How can a business reduce risk?**
+A business can reduce risk by researching the market first, starting small and selling several products rather than relying on one. Bigger potential rewards usually come with bigger risks.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Business (J204), Version 2.0 (January 2026), first assessment 2019, published by OCR. Sections 6 and 7 of the specification, as part of Business 2: operations, finance and influences on business.

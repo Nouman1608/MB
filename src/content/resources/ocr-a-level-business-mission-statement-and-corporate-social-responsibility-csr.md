@@ -225,6 +225,20 @@ Justify by linking to cost, timing and credibility. A low-cost, visible action m
 - Listing stakeholders without saying how each is affected.
 - Judging without evidence from the case, such as the business's size, sector or customers.
 
+## Frequently asked questions
+
+**What is the difference between a mission statement and an objective?**
+A mission statement is broad, usually non-numerical and meant to last several years. An objective is a specific, measurable target, so writing a mission as a numerical target is a common error.
+
+**How do you answer a "recommend and justify" question on a mission statement?**
+Make a clear choice of statement that fits the business in the case, then give reasons linked to its product, customers and values. A fuller answer adds a limitation, such as a word like "finest" not being measurable, so objectives must turn it into targets.
+
+**Why might a business change its mission statement?**
+A business may change its mission after a takeover, a change of ownership, entry to new markets, a scandal or a shift in customer values. The impact depends on how far the new wording differs from the old and how well the change is explained.
+
+**Which OCR A Level Business sections cover mission statements and CSR?**
+Section 1.3 (Mission statement) and section 1.4 (Corporate social responsibility) of the OCR A Level Business specification (H431) cover them, within the Business objectives and strategy area of study.
+
 ## Next steps
 
 Test yourself with the [practice questions](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-practice/) and use the [revision notes](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-revision-notes/) for recall.

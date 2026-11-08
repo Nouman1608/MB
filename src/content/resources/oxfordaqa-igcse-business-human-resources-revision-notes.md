@@ -213,6 +213,20 @@ For an evaluate or justify question on any method (a structure, a way of recruit
 - Naming on the job or off the job training without costs and benefits for that business.
 - Ending an evaluation without a decision.
 
+## Frequently asked questions
+
+**What is the difference between centralised and decentralised structures?**
+In a centralised structure decisions are made at the top, giving consistency and tight control but slower decisions that may demotivate staff. In a decentralised structure decisions are made lower down, which is quicker and more trusting but gives less control and a risk of inconsistency.
+
+**What is the difference between delegation and delayering?**
+Delegation is passing authority down to someone lower in the structure. Delayering is removing levels from the structure.
+
+**What is the difference between recruitment and selection?**
+Recruitment is attracting people to apply for a job, while selection is choosing the right person from the applicants.
+
+**What are the benefits of training to a business?**
+Training can increase productivity, help the business deal with changes in technology, increase motivation and staff retention, and lead to high-quality goods and good customer service.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225) specification, version 3.1, OxfordAQA, for International GCSE exams May/June 2022 onwards. Section 3.4 Human resources (3.4.1 to 3.4.4).

@@ -203,6 +203,20 @@ Example reminder: a current ratio of 1.2 is a weakness only if the industry norm
 - Naming stakeholder groups without explaining their power and interest in the decision in the case.
 - Listing objectives without tracing their impact on a named functional area.
 
+## Frequently asked questions
+
+**What is the difference between a mission statement and an objective?**
+A mission statement is a qualitative statement of a business's purpose and values, with no numbers or deadline. An objective is a measurable target with a deadline, so a mission statement containing a numerical target is really an objective.
+
+**How do you calculate dividend yield?**
+First find dividend per share by dividing total dividends paid by the number of ordinary shares in issue. Then divide dividend per share by the market price per share and multiply by 100.
+
+**How should a business manage stakeholders on a power-interest grid?**
+High-power, high-interest groups should be managed closely, high-power, low-interest groups kept satisfied, low-power, high-interest groups kept informed, and low-power, low-interest groups monitored.
+
+**How do you decide whether a figure is a strength or a weakness?**
+Calculate the measure, then compare it with a benchmark such as last year, a competitor or the industry average. A figure is only a strength or weakness in comparison with something, and the firm's own needs.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

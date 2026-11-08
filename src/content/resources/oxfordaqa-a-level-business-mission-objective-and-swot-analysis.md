@@ -240,6 +240,23 @@ Managing the relationships: consult residents early, offer noise barriers and li
 
 Next: drill the formulas in the [revision notes](/resources/oxfordaqa-a-level-business-mission-objective-and-swot-analysis-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-business-mission-objective-and-swot-analysis-practice/). Elasticity and correlation were introduced at AS in the [marketing study guide](/resources/a-level-oxfordaqa-business-marketing/).
 
+## Frequently asked questions
+
+**What is market capitalisation?**
+Market capitalisation is the total number of shares in issue multiplied by the current market price per share. In OxfordAQA A-level Business (9725) it is a useful measure of shareholder value for a public company.
+
+**What are the limitations of SWOT analysis?**
+SWOT is a snapshot that soon dates, it is subjective unless backed by data, its factors are not weighted, and a list of factors is not a plan. It is still simple, quick and cheap and gives managers a shared picture.
+
+**What makes an objective effective?**
+Effective objectives are SMART: specific, measurable, achievable, relevant and time-bound. They turn the mission into measurable targets, and section 3.3.1 names five kinds.
+
+**Why might stakeholder objectives conflict?**
+Objectives can conflict when one group's gain is another's cost, for example higher dividends leave less retained profit to fund growth or environmental projects. They can also overlap, because a profitable, growing firm can pay dividends, wages and suppliers at the same time.
+
+**What can stakeholders do if they are unhappy with a business?**
+Customers can switch or boycott, employees can strike or leave, suppliers can change credit terms, lenders can refuse finance and shareholders can sell or vote against directors. Government can regulate or fine, and communities can object to planning applications.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

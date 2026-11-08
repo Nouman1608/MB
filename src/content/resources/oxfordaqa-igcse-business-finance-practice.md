@@ -132,6 +132,17 @@ Calculate the values (a), (b), (c) and (d). **[4]**
 - Quoting figures from the case without saying what they mean for the stakeholder named.
 - Showing a final answer with no formula or working.
 
+## Frequently asked questions
+
+**Should margin of safety be given in pounds or units?**
+When it is read from a break-even chart showing output, give the margin of safety in units of output, not in pounds. It is the amount by which actual or planned output is above break-even output.
+
+**How do you answer an "evaluate" question on finance?**
+Weigh advantages against disadvantages for the business in the question and finish with a judgement. Offering advantages only, when an evaluation or judgement is asked for, limits the marks.
+
+**Which part of OxfordAQA IGCSE Business 9225 do these questions cover?**
+They cover section 3.6 Finance of OxfordAQA International GCSE Business (9225): sources of finance, cash flow, financial terms and calculations, and financial performance.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-business-finance/) on any part you missed.

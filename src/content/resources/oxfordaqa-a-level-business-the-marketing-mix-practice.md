@@ -127,6 +127,17 @@ This set practises section 3.1.2.4, The marketing mix, from the OxfordAQA Intern
 - Ignoring B2B or B2C context when the stem gives it.
 - Giving only advantages when the command word asks for both sides.
 
+## Frequently asked questions
+
+**Is a rise in revenue the same as a rise in profit?**
+No. Revenue can rise while profit falls if costs rise too, so treating a revenue rise as a profit rise is a common error in pricing questions.
+
+**How do you use the case in a pricing question?**
+Link the pricing method or influence to facts in the case, such as the number of rivals, how distinctive the product is or the target market. Writing about pricing methods in general earns fewer marks.
+
+**Which OxfordAQA section do these questions cover?**
+They cover section 3.1.2.4, The marketing mix, of OxfordAQA International AS and A-level Business. Some content, such as the six NPD stages and cross-price elasticity, is not printed in this section of the 9625 text, so check with your teacher if you sit 9625.
+
 ## Next steps
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-business-the-marketing-mix-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-business-the-marketing-mix/).

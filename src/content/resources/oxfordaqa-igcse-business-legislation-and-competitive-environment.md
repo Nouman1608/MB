@@ -253,6 +253,23 @@ That 4.40 lets Nuroo undercut on price or earn a higher profit. But the advantag
 - Giving a list of risks without linking one to the business in the question.
 - Saying developing-country firms always win on price.
 
+## Frequently asked questions
+
+**What does employment law cover in OxfordAQA IGCSE Business?**
+Employment law covers how a business treats the people who work for it, such as pay, hours, contracts and fair treatment. Legislation is a legal requirement, which separates it from ethics, the choices a business makes beyond the legal minimum.
+
+**How do consumer protection laws affect a business?**
+They add costs, such as quality checks, refunds, clear product descriptions and staff training on complaints. They also build trust, which can raise repeat purchases, and stop rivals winning sales with misleading claims.
+
+**What are the benefits of health and safety laws to a business?**
+Benefits include fewer accidents and less absence, better morale, a good reputation with recruits and customers, and no price advantage for rivals who cut corners. Drawbacks are equipment and training costs, time spent on checks and records, and disruption while changes are made.
+
+**Why do entrepreneurs take risks?**
+Common reasons are the chance of profit and financial independence, being their own boss, turning an idea or skill into a business, meeting a need they have spotted and the satisfaction of building something. The reward must look worth the risk of losing the money invested.
+
+**Is competition only about price?**
+No. Businesses also compete on quality, service and branding, so defining competition as price alone is a common error.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225) specification, version 3.1, OxfordAQA, for International GCSE exams May/June 2022 onwards. Sections 3.2.5 Legislation and 3.2.6 Competitive environment.

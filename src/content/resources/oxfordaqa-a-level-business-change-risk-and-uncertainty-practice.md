@@ -126,6 +126,17 @@ Judgement: agility is the best single approach because Orrinford's problem is sl
 - Calculations left unused in evaluation questions.
 - Judgements that could apply to any business.
 
+## Frequently asked questions
+
+**Is coercion always the wrong way to manage change?**
+No. Coercion is fast and works when speed matters and managers hold power, but it risks resentment, demotivation and staff leaving. Good answers weigh speed against these costs rather than rejecting it automatically.
+
+**Can a business insure against every risk?**
+No. Some risks, such as a strategic failure like a failed product launch, cannot be insured, so proposing insurance for them is a common error. Other methods, such as research or diversifying, are needed instead.
+
+**Which OxfordAQA 9725 paper tests change, risk and uncertainty?**
+Section 3.4.6 of OxfordAQA International AS and A-level Business (9725) is examined in the Unit 4: Business strategy paper, a 1 hour 45 minute written exam worth 80 marks.
+
 ## Next steps
 
 - Recap the lists with the [change, risk and uncertainty revision notes](/resources/oxfordaqa-a-level-business-change-risk-and-uncertainty-revision-notes/)

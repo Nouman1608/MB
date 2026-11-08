@@ -270,6 +270,20 @@ Stratified method in steps: split the population into groups, work out each grou
 - Ignoring capacity when advising a bigger promotion.
 - Presenting a 9725-only point as a 9625 point, or the reverse.
 
+## Frequently asked questions
+
+**What are the marketing objectives in OxfordAQA International AS Business?**
+The objectives are sales volume, sales value, market share, customer retention and repeat sales, sales per product, employee, region, store or customer, and brand loyalty. Both specifications list the first five; brand loyalty is in 9725 only.
+
+**How do you calculate return on marketing spending?**
+Return on marketing spending is the extra profit gained from the marketing minus the marketing spend, divided by the marketing spend, multiplied by 100. It appears in 9725 only, and not all extra sales may come from the campaign.
+
+**Can sales volume rise while sales value falls?**
+Yes. If a business cuts its prices, it may sell more units while its total revenue falls. Equally, value can rise while volume falls if prices go up.
+
+**What is the value of sampling in market research?**
+Sampling is cheaper and faster than asking every customer, as long as the sample is representative of the population. The choice of method depends on cost, the time required and the reliability of the findings.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business specification (9625, first teaching September 2018; successor 9725, first teaching September 2026 for AS and September 2027 for A2), sections 3.1.2.1 and 3.1.2.2, published by OxfordAQA.

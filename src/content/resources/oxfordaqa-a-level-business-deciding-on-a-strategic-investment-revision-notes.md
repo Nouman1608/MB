@@ -188,6 +188,17 @@ Payback = 2 years 6 months
 - Mixing up risk and uncertainty in an evaluation.
 - Mentioning opportunity cost without naming the alternative that is given up.
 
+## Frequently asked questions
+
+**What is the difference between expected value and net gain?**
+Expected value is the weighted average result at a chance node: the sum of each probability multiplied by its financial outcome. Net gain is the expected value minus the cost of the option, and it is the figure to compare when options cost different amounts.
+
+**How do you calculate NPV?**
+Multiply each year's net cash flow by its discount factor, add the present values, then subtract the initial cost. A positive NPV means the project earns more than the discount rate.
+
+**How do you calculate the average rate of return?**
+Add all net cash inflows and subtract the cost to get total profit, divide by the number of years to get average annual profit, then divide by the cost and multiply by 100.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

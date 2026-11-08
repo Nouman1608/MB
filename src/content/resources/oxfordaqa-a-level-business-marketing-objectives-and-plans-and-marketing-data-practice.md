@@ -107,6 +107,17 @@ These questions cover sections 3.1.2.1 Marketing objectives and plans and 3.1.2.
 - Listing research options one by one without reaching a justified choice.
 - Ignoring capacity, skills or budget when judging a plan.
 
+## Frequently asked questions
+
+**Do these questions cover both OxfordAQA 9625 and 9725?**
+Yes. They cover sections 3.1.2.1 Marketing objectives and plans and 3.1.2.2 Marketing data, and some points apply to only one specification, so check which code you are sitting. Describing a 9725-only point as a 9625 point, or the reverse, is a common error.
+
+**What makes a good interpretation of a marketing figure?**
+State the figure and which way it moved, compare it with something such as last year, the market or a target, and give a reason or consequence for the business. A figure on its own earns little credit.
+
+**What is the difference between a stratified sample and a quota sample?**
+A stratified sample makes a random choice within groups set in proportion to the population. A quota sample also uses groups, but the interviewer chooses who to ask within each one.
+
 ## Next steps
 
 - Review the [revision notes for this unit](/resources/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data/).

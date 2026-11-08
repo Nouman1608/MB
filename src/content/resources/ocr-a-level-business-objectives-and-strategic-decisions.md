@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "business-objectives-and-strategic-decisions-ocr-alevel-business"
-description: "Stakeholders and business objectives, mission statements, CSR, strategy and implementation, business plans, risk and uncertainty, opportunity cost, contingency planning, models of strategic choice, performance measures, forecasting, decision making, decision trees, Ansoff's matrix, and conflicts in decision making -- the full content of the Business objectives and strategy area for OCR A-Level Business (H431)."
+description: "Mission, objectives, stakeholders, SWOT, Five Forces, Ansoff, decision trees and change for OCR A Level Business H431's Business objectives and strategy area."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers what the OCR specification itself names
@@ -252,3 +254,20 @@ Placing external factors under strengths or weaknesses in a SWOT. Confusing stra
 - Calculate expected values and appraise investments, then evaluate the assumptions.
 - Explain Lewin's Change Management Model, the McKinsey 7-S Model and Kotter's 8-Step Change Model, and apply one to a given business.
 - Explain barriers to change and causes of resistance to change.
+
+## Frequently asked questions
+
+**What is the difference between strategy and tactics?**
+Strategy is the long-term plan for achieving corporate objectives, while tactics are the shorter-term actions used to carry it out. Confusing the two is a common mistake in OCR A Level Business (H431) answers.
+
+**How do you calculate expected value on a decision tree?**
+Expected value is the sum of each outcome's probability multiplied by its payoff, and net gain is the expected value minus the cost of the option. The evaluation marks come from caveats, such as probabilities being estimates and qualitative factors being left out.
+
+**What is the lowest-risk option in Ansoff's matrix?**
+Market penetration, selling existing products in existing markets, is the lowest-risk option. Diversification, a new product in a new market, carries the highest risk.
+
+**Why do business objectives change over time?**
+Objectives shift with circumstances: survival dominates in a downturn, growth in an expanding market, and profit or other aims at other times. Objectives should also be SMART so progress can be measured.
+
+**What goes in a SWOT analysis?**
+SWOT sets internal strengths and weaknesses against external opportunities and threats. Placing an external factor under strengths or weaknesses is a common error.

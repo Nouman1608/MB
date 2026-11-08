@@ -236,6 +236,23 @@ Follow the command words in the specification. **Identify** and **state** need k
 - Listing stakeholders without saying how each is affected.
 - Describing a business plan without saying why it helps this business.
 
+## Frequently asked questions
+
+**What is the difference between a merger and a takeover?**
+In a merger, two businesses agree to combine into one. In a takeover, one business buys control of another.
+
+**What is the difference between horizontal and vertical growth?**
+Horizontal growth joins a business at the same stage of production, such as buying a rival. Vertical growth joins a business at a different stage in the chain: backward means buying a supplier and forward means buying a customer.
+
+**What is the difference between organic and external growth?**
+Organic growth comes from inside the business using its own resources, and is slower but lower risk and easier to control. External growth joins with another business through a merger or takeover, and is faster but costs more and the businesses may not blend well.
+
+**How does a business plan help a new business?**
+In OCR GCSE Business (J204), a business plan helps identify markets, obtain finance, identify the resources needed to operate and achieve aims and objectives. Writing it also reduces risk because weak points show up while they are cheap to fix.
+
+**Why do business objectives change over time?**
+A business changes as it evolves, so its objectives change too. A start-up usually aims first to survive, then may move on to profit, growth or market share once it is established.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Business (J204) specification, Version 2.0 (January 2026), section 1 Business activity. Published by OCR.

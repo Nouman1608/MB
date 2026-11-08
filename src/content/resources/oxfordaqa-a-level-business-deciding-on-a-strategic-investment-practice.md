@@ -123,6 +123,17 @@ Project X has a payback period of 2 years 8 months, an ARR of 13.7% and an NPV o
 - Recommending the project with the highest NPV without weighing funding, uncertainty and opportunity cost.
 - Finishing an evaluation with no firm recommendation backed by the case facts.
 
+## Frequently asked questions
+
+**How do you convert part of a year into months for payback?**
+Divide the shortfall at the start of the year by that year's cash flow and multiply by 12. A result of 0.67 of a year is about 8 months, not 6.7 months, which is a common conversion slip.
+
+**What should you check before calculating an expected value?**
+Complete any missing probability first: the probabilities at one chance node must add up to 1. Forgetting this step leads to a wrong expected value and net gain.
+
+**Which OxfordAQA 9725 section and paper do these questions cover?**
+They cover section 3.4.3 Deciding on a strategic investment of OxfordAQA International AS and A-level Business (9725), which is examined in the Unit 4: Business strategy paper.
+
 ## Next steps
 
 - Recap every formula with the [strategic investment revision notes](/resources/oxfordaqa-a-level-business-deciding-on-a-strategic-investment-revision-notes/)

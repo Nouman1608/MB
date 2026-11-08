@@ -269,6 +269,17 @@ margin of safety = 166 / 1,500 x 100 = 11.1%
 - Ending an evaluation with a summary rather than a judgement.
 - Stating that a plan guarantees success, when it only improves the odds.
 
+## Frequently asked questions
+
+**What is the difference between an objective, a strategy and a tactic?**
+An objective says where the business wants to get to, a strategy says which route it will take, and tactics are the short-term actions it takes this month. In OCR A Level Business (H431), using strategy and tactics as if they meant the same thing loses marks.
+
+**How do you calculate a budget variance?**
+A variance is the actual figure minus the budgeted figure, and it should be labelled favourable or adverse by its effect on profit. For example, wages of £9,720 against a budget of £9,000 give a £720 adverse variance, which is 8% over budget.
+
+**How do lenders and investors use a business plan?**
+Lenders and investors use the plan to decide whether to lend or invest, and on what terms. Figures such as the margin of safety show how far sales could fall before profit disappears.
+
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR: the "Strategy and implementation" and "Business plan" content in the area of study "Business objectives and strategy".

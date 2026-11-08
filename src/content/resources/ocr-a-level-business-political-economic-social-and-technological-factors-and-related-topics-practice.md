@@ -126,6 +126,17 @@ These questions are aligned to the external influences content of the OCR A Leve
 - Naming no stakeholders when asked about stakeholders.
 - Forgetting to state units and percentages.
 
+## Frequently asked questions
+
+**What external factors are tested in OCR A Level Business H431?**
+The external influences content of OCR A Level Business (H431) covers political, economic, social, technological, digital, ethical, legal and environmental factors. Most questions end by asking you to evaluate the impact and importance of a change in one of these factors for a named business.
+
+**How do you approach a question on exchange rates and a business?**
+Work out the cost or revenue in pounds at each exchange rate, showing the conversion, then explain what the change means for the business's prices or margins. Then judge how important the change is, for example by considering how much of its costs or sales are in foreign currency.
+
+**What is the difference between a direct and an indirect tax?**
+A direct tax is paid directly to the government by the person or business it is levied on, such as income tax or corporation tax. An indirect tax is added to the price of goods and services and collected by the seller, such as VAT.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics-revision-notes/) and [study guide](/resources/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics/).

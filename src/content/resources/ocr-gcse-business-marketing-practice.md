@@ -149,6 +149,17 @@ These questions cover section 2, Marketing, of OCR GCSE (9-1) Business (J204), V
 - Listing the four Ps but not judging whether they fit the target segment.
 - Giving a general answer on advertising with no mention of the audience or budget in the stem.
 
+## Frequently asked questions
+
+**What does OCR GCSE Business section 2 Marketing cover?**
+Section 2 of OCR GCSE (9-1) Business (J204) covers the role of marketing, market research, market segmentation and the marketing mix, including interpreting market data. Questions often combine a calculation, such as market share, with an explanation.
+
+**Is qualitative data less reliable than quantitative data?**
+Not simply. Calling qualitative data "less reliable" loses marks unless you also say what it reveals that numbers cannot, such as the reasons behind customers' opinions.
+
+**How do you answer an "analyse" question about the marketing mix?**
+Build a chain of reasoning from the change to its effect on customers and then on the business, for example a lower price leading to more customers and higher sales. Each step should link to the business in the question.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ocr-gcse-business-marketing-revision-notes/) and the [study guide](/resources/ocr-gcse-business-marketing/).

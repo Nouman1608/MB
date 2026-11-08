@@ -129,6 +129,20 @@ These questions cover **the market, market size and growth** and **demand and su
 - Listing options in an evaluation without testing them against the stem.
 - Ending an "evaluate" or "recommend" answer without a clear, reasoned judgement.
 
+## Frequently asked questions
+
+**What is the most common mistake when calculating market growth?**
+The most common mistake is dividing the change by the new figure instead of the original one. Market growth is the change in market size divided by the starting size, multiplied by 100.
+
+**Are market share and sales growth the same thing?**
+No. Market share is a business's sales as a percentage of total market sales, while sales growth is the change in the business's own sales. A firm's sales can grow while its market share falls if the market grows faster.
+
+**How do you answer a demand and supply diagram question?**
+Name the curve that moves, its direction and the cause, then show the new equilibrium and compare its price and quantity with the original. In OCR A Level Business (H431) only shift both curves if the question describes two separate changes.
+
+**How do you find equilibrium price from demand and supply equations?**
+Set quantity demanded equal to quantity supplied, solve for price, then substitute that price back into either equation to find the equilibrium quantity. Showing each line of working protects method marks.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply-revision-notes/).

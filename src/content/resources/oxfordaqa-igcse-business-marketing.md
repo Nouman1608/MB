@@ -268,6 +268,23 @@ The mix changes over time. As a product ages, a business may cut price, change c
 </figure>
 
 
+## Frequently asked questions
+
+**What is a loss leader?**
+A loss leader is a product sold below cost to attract shoppers, in the hope that they buy other goods too. It is worthwhile only if the extra profit on those other goods is greater than the loss on the loss leader.
+
+**How should a business choose its promotional mix?**
+Consider the target market and where it reads, watches and browses, the budget available, competitors' activities and the type of product. A small budget rules out TV, while complex goods may need personal selling.
+
+**What is a channel of distribution?**
+A channel of distribution is the route a product takes from producer to consumer. It can be direct, such as the producer's own shop or website, or go through intermediaries such as retailers and wholesalers.
+
+**What is a unique selling point?**
+A unique selling point (USP) is something that makes a product different from rivals' products and gives customers a reason to choose it, sometimes allowing a higher price.
+
+**Why must the marketing mix be integrated?**
+The four elements must fit together and send one message. A luxury perfume, for example, needs a high price, elegant packaging, glossy-magazine advertising and exclusive shops, while a budget price with a luxury image confuses buyers.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225) specification, version 3.1, OxfordAQA, for International GCSE exams May/June 2022 onwards. Section 3.5 Marketing (3.5.1 to 3.5.4).
