@@ -290,6 +290,20 @@ Percentage change = (new value − old value) ÷ old value × 100.
 - Describing a labelled flower part without its function.
 - Saying that self-incompatibility prevents pollination, when it blocks fertilization after pollen lands.
 
+## Frequently asked questions
+
+**Which hormones control the menstrual cycle?**
+FSH and LH from the pituitary gland, and oestradiol and progesterone from the ovary: FSH stimulates follicle growth, an LH surge triggers ovulation, oestradiol thickens the endometrium, and progesterone maintains it while inhibiting FSH and LH.
+
+**What causes the LH surge before ovulation?**
+When oestradiol from the growing follicle is high for long enough, its feedback on the pituitary switches from negative to positive, causing a surge of LH that triggers ovulation.
+
+**What is the difference between the ovarian and uterine cycles?**
+The ovarian cycle covers events in the ovary (follicle growth, ovulation and the corpus luteum); the uterine cycle covers the endometrium thickening and then being shed. Together they make the menstrual cycle.
+
+**What is self-incompatibility in plants?**
+Self-incompatibility is a genetic mechanism in which pollen carrying an allele that matches one in the stigma tissue is blocked from growing, so only pollen from a different plant can fertilize; it reduces inbreeding.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, statements D3.1.1 to D3.1.12.

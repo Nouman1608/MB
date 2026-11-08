@@ -249,6 +249,23 @@ Use this order and you will cover the usual points:
 - Describing a graph without quoting values from it.
 - Stating a function of collagen or insulin without linking it to shape.
 
+## Frequently asked questions
+
+**What is the structure of a generalized amino acid?**
+An amino acid has a central alpha carbon bonded to an amine group (NH2), a carboxyl group (COOH), a hydrogen atom and a variable R-group; only the R-group differs between amino acids.
+
+**What is an essential amino acid?**
+An essential amino acid cannot be made by the body and must be obtained from food, while non-essential amino acids can be made from other amino acids, which is why vegan diets need a mix of plant protein sources.
+
+**What are the four levels of protein structure?**
+Primary structure is the order of amino acids, held by peptide bonds; secondary structure is alpha helices or beta sheets held by backbone hydrogen bonds; tertiary is the folded shape held by R-group interactions; quaternary is two or more chains together.
+
+**What is the difference between globular and fibrous proteins?**
+Globular proteins such as insulin are compact and soluble; fibrous proteins such as collagen are long, rope-like and usually insoluble, giving strength.
+
+**What is a conjugated protein?**
+A conjugated protein contains a non-protein prosthetic group, such as the haem groups in haemoglobin; non-conjugated proteins such as insulin and collagen are made of amino acids only.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic B1.2 Proteins.

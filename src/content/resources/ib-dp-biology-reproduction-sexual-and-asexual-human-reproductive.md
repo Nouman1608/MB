@@ -267,6 +267,23 @@ The mass falls because stored food is used in respiration and lost as carbon dio
 - Confusing pollination with fertilization or with dispersal.
 - Saying that hermaphrodite plants reproduce asexually. They still use gametes.
 
+## Frequently asked questions
+
+**What is the difference between sexual and asexual reproduction?**
+Asexual reproduction involves one parent and mitosis, giving genetically identical offspring; sexual reproduction involves the fusion of gametes made by meiosis, usually from two parents, giving genetically varied offspring.
+
+**Why are sperm small and eggs large?**
+The male gamete has to travel to the female gamete, so a sperm is small, motile and carries little food, while the egg does not move and carries food reserves for the early embryo.
+
+**What happens during fertilization in humans?**
+After the membranes fuse, the sperm nucleus enters the egg and the sperm tail and mitochondria are destroyed; the nuclear membranes dissolve and all the chromosomes take part in one joint mitosis, giving two diploid nuclei.
+
+**What happens during seed germination?**
+The seed absorbs water and the embryo releases gibberellin, which switches on genes for digestive enzymes; amylase breaks stored starch into sugars for respiration and growth until the leaves can photosynthesise.
+
+**How is cross-pollination promoted in flowering plants?**
+Methods include anthers and stigmas ripening at different times, separate male and female flowers or plants, and animals or wind carrying pollen between plants.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, statements D3.1.1 to D3.1.12.
