@@ -40,6 +40,7 @@ const ORG = 'organic-chemistry-revision-notes';
 const ALC = 'alcohols-and-carboxylic-acids-revision-notes';
 const POLY = 'polymers-revision-notes';
 const PRAC = 'practical-techniques-revision-notes';
+const PT = 'periodic-table-revision-notes';
 
 export const DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY: FlashcardDeck = {
   boardSlug: 'cambridge',
@@ -48,7 +49,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY: FlashcardDeck = {
   syllabusCode: '5070',
   syllabusSeries: '2026-2028',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-08',
   deckReview: { reviewerSlug: 'farhat-ul-ain-sehgal', reviewedOn: '2026-11-05' },
   cards: [
     // 1 States of matter
@@ -268,10 +269,16 @@ export const DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('the-periodic-table', 'transition-elements', '8.4', [
       { n: 1, f: 'Properties of transition elements', b: 'High densities and high melting points. They form coloured compounds, and they and their compounds often act as catalysts.' },
       { n: 2, f: 'Transition elements have ions with variable oxidation numbers. Give an example.', b: 'Iron forms Fe²⁺ (iron(II)) and Fe³⁺ (iron(III)) compounds. 5070 states the general property; iron is the usual example.' },
+      { n: 3, f: 'Transition elements compared with Group I metals: density, melting point and reactivity', b: 'Transition elements: high density, high melting point, low reactivity.\nGroup I metals: low density, low melting point, very high reactivity.', src: PT },
+      { n: 4, f: 'Compounds of Group I metals and of transition elements: colour', b: 'Group I compounds are white or colourless. Transition element compounds are coloured.', src: PT },
+      { n: 5, f: 'Ion charges: Group I metals compared with transition elements', b: 'Group I metals always form 1+ ions. Transition elements form ions with variable charges, e.g. Fe²⁺ and Fe³⁺.', src: PT },
     ]),
     ...sub('the-periodic-table', 'noble-gases', '8.5', [
       { n: 1, f: 'Noble gases (Group VIII): physical form', b: 'Unreactive, monatomic gases.' },
       { n: 2, f: 'Why are the noble gases unreactive?', b: 'They have a full outer shell of electrons, so they do not need to lose, gain or share electrons.' },
+      { n: 3, f: 'Electronic configurations of neon and argon, and what they explain', b: 'Neon is 2,8 and argon is 2,8,8. Each has a full outer shell, so its atoms have no tendency to lose, gain or share electrons: the gases are unreactive.' },
+      { n: 4, f: 'Monatomic', b: 'Existing as single, separate atoms rather than as molecules. The noble gases are monatomic, unlike the diatomic halogens.', src: PT },
+      { n: 5, f: 'A use of helium, of neon and of argon', b: 'Helium: balloons (low density, non-flammable).\nNeon: lighting.\nArgon: lamps and welding (an inert atmosphere).', src: PT },
     ]),
 
     // 9 Metals
@@ -283,6 +290,8 @@ export const DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('metals', 'uses-of-metals', '9.2', [
       { n: 1, f: 'Aluminium: two uses and the property behind each', b: 'Aircraft parts — low density.\nFood containers — resistance to corrosion.' },
       { n: 2, f: 'Copper: a use and the properties behind it', b: 'Electrical wiring — good electrical conductor and ductile.' },
+      { n: 3, f: 'Aluminium in overhead electrical cables: which properties?', b: 'Low density and good electrical conductivity.' },
+      { n: 4, f: 'Copper in electrical wiring: which properties, and what does ductile mean?', b: 'Good electrical conductivity and ductility. Ductile means it can be drawn out into wires.' },
     ]),
     ...sub('metals', 'alloys-and-their-properties', '9.3', [
       { n: 1, f: 'Alloy', b: 'A mixture of a metal with other elements.' },

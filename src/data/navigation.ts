@@ -23,7 +23,7 @@ export const primaryNav: readonly NavItem[] = [
 
 /** Navigation round (6 Oct 2026): which primary item a page belongs to. */
 const SECTION_PREFIXES: Record<string, readonly string[]> = {
-  '/resources/': ['/resources/', '/boards/', '/levels/', '/subjects/', '/practice/', '/diagnostics/', '/checklists/', '/revision-planner/'],
+  '/resources/': ['/resources/', '/boards/', '/levels/', '/subjects/', '/practice/', '/diagnostics/', '/checklists/', '/revision-planner/', '/flashcards/'],
   '/tutoring/': ['/tutoring/', '/programs/', '/trial/'],
 };
 export const isCurrentSection = (href: string, pathname: string): boolean =>
@@ -60,6 +60,7 @@ export const footerNav = {
     // anchors still resolve, to the subject x type table.
     { label: '10-Minute Diagnostics', href: '/diagnostics/' },
     { label: 'Practice (Self-Check)', href: '/practice/' },
+    { label: 'Flashcards', href: '/flashcards/' },
     { label: 'Syllabus Changes', href: '/syllabus-updates/' },
     { label: 'Command Words Guide', href: '/command-words/' },
     { label: 'Exam Calendar', href: '/exam-calendar/' },
