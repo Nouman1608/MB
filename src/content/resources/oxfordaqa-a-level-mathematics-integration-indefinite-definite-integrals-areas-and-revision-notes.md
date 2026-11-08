@@ -243,6 +243,23 @@ Use more strips (a smaller h). The estimate moves towards the true value, from t
 - Saying "over-estimate" with no reference to the shape of the curve.
 - Rounding ordinates too early and losing accuracy in the final estimate.
 
+## Frequently asked questions
+
+**Do you need + c in a definite integral?**
+No. The constant cancels when you work out F(b) − F(a), so + c is used only in indefinite integrals.
+
+**How do you integrate √x or 1/x³?**
+Rewrite them as powers first: √x = x^(1/2) and 1/x³ = x^(−3). Then integrate each power with the power rule.
+
+**What is the trapezium rule formula?**
+Area ≈ (h/2)[y₀ + yₙ + 2(y₁ + … + yₙ₋₁)], where h = (b − a)/n is the strip width and n is the number of strips.
+
+**How can you improve a trapezium rule estimate?**
+Use more strips, so the strip width h is smaller. The estimate moves closer to the true value.
+
+**How do you find the area between a line and a curve?**
+Set the equations equal to find the x-values where they meet, then integrate (upper − lower) between those values.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section P1.4 Integration (International AS exams from May/June 2018, International A-level from May/June 2019), published by OxfordAQA.

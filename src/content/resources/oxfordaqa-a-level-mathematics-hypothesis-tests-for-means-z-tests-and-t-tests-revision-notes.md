@@ -179,6 +179,20 @@ A good final sentence has three parts: the decision, the level, and the context.
 - Stopping at "reject H₀" with no sentence in context, or writing "the mean is proved to be higher".
 - Not stating the assumption that the population is normal when using t.
 
+## Frequently asked questions
+
+**When do you use a t-test instead of a z-test?**
+Use a t-test when the population is normal, the variance is unknown and the sample is small. With a large sample you can use z with s in place of σ as an approximation.
+
+**What is the difference between standard deviation and standard error?**
+The standard deviation describes the spread of single values. The standard error, σ/√n, describes the spread of the sample mean.
+
+**What are the critical values of z for common significance levels?**
+The one-tailed 5% value is 1.645, the one-tailed 1% value is 2.326, and the two-tailed 5% values are ±1.960.
+
+**Why are t critical values larger than z critical values?**
+The t-distribution has heavier tails than N(0, 1), so a larger value is needed to cut off the same tail probability. As the degrees of freedom increase, it approaches N(0, 1).
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA. Content: S2.6 Hypothesis testing, tests for the mean (z-statistic and t-statistic), within Unit S2 (Statistics).

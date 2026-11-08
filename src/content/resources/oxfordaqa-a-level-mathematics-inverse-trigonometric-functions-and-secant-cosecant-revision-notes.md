@@ -273,6 +273,20 @@ The last graph keeps its shape and moves up by π/4, so its asymptotes are y = �
 - Mixing degrees and radians in the final answers.
 - Stating the domain of sin⁻¹(2x − 1) as −1 ≤ x ≤ 1 instead of solving for the inside expression.
 
+## Frequently asked questions
+
+**What is the difference between sin⁻¹x and cosec x?**
+sin⁻¹x is the inverse function, which gives an angle. cosec x is the reciprocal 1/sin x.
+
+**What are the identities involving sec² and cosec²?**
+1 + tan²x = sec²x and 1 + cot²x = cosec²x. Both come from dividing sin²x + cos²x = 1 by cos²x or sin²x.
+
+**What is the period of cot x?**
+cot x has period π, like tan x. sec x and cosec x have period 2π.
+
+**Can cos⁻¹x be negative?**
+No. The range of cos⁻¹x is 0 ≤ y ≤ π, so it never returns a negative angle. sin⁻¹x and tan⁻¹x can.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: content area P2.4 Trigonometry (inverse trigonometric functions; secant, cosecant and cotangent).

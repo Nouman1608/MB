@@ -223,6 +223,20 @@ Equivalent check using the mean: X̄ ≈ N(20, 0.5²) and P(X̄ > 20.417) gives 
 - Applying the CLT to one observation or to a small sample from a skewed distribution.
 - Writing a final answer with no link to the context, such as the unit or the claim being tested.
 
+## Frequently asked questions
+
+**What is the difference between a parameter and a statistic?**
+A parameter is a fixed, usually unknown, number describing the population, such as μ. A statistic is calculated from a sample, such as x̄, and varies from sample to sample.
+
+**What is an unbiased estimator?**
+An estimator T of a parameter θ is unbiased if E(T) = θ, so it is correct on average. x̄ is unbiased for μ, and s² with divisor n − 1 is unbiased for σ².
+
+**What is the distribution of the total of a large sample?**
+By the Central Limit Theorem, the total T of n independent values is approximately N(nμ, nσ²) when n is large.
+
+**How does the standard error change when the sample size is increased?**
+The standard error is σ/√n, so multiplying the sample size by 9 divides the standard error by 3.
+
 ## Official syllabus
 
 These notes follow section S2.5 of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA.

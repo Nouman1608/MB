@@ -140,6 +140,20 @@ These questions cover section P2.8 (Differential equations) of the OxfordAQA Int
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on differential equations questions?**
+Common losses are not separating the variables before integrating, leaving out the constant of integration, turning ln y = kt + c into y = kt + c, and using the wrong sign for k in a decay or cooling model.
+
+**When should you find the constant of integration in a differential equation?**
+Find it straight after integrating, using the initial condition. Putting a constant on both sides, or adding it after the condition has been applied, loses marks.
+
+**How do you apply the initial condition in a Newton's law of cooling question?**
+Apply it to the quantity in the solution, which is the excess temperature T − S, not T itself. For example, with surroundings at 25 °C, the starting value is T − 25.
+
+**Which unit of OxfordAQA 9660 covers differential equations?**
+Forming and solving first-order separable differential equations is section P2.8, in Unit P2 (Pure Maths, A-level) of the OxfordAQA 9660 specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA. These questions cover section P2.8 of Unit P2.

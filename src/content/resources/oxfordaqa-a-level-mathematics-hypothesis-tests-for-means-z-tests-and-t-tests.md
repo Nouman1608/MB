@@ -226,6 +226,23 @@ A Type I error is rejecting H₀ when H₀ is true. Its probability equals the s
 - Writing "H₀ is true" or "the claim is proved". Write "not enough evidence to reject H₀".
 - Forgetting context. The last line must mention the quantity being tested.
 
+## Frequently asked questions
+
+**Which OxfordAQA 9660 specification section covers z-tests and t-tests?**
+Hypothesis tests for a population mean are in section S2.6 of OxfordAQA International A-level Mathematics 9660, in Unit S2 (Statistics). They use results from S2.5 (Estimation).
+
+**Can you use a z-test if the population is not known to be normal?**
+Yes, if the sample is large. The Central Limit Theorem makes X̄ approximately normal, so you can use z, replacing σ by s if the variance is unknown.
+
+**When should you choose the alternative hypothesis H₁?**
+Choose it from the wording of the question before looking at the data. Words such as "greater" or "fallen" give a one-tailed test, while "changed" gives a two-tailed test.
+
+**What is the probability of a Type I error in a test for a mean?**
+A Type I error is rejecting H₀ when it is true. For a fixed critical region, its probability equals the significance level of the test.
+
+**What should the conclusion of a hypothesis test for a mean say?**
+Give the decision, the significance level and the context, without claiming proof. For example, write that there is not enough evidence to reject H₀, rather than that H₀ is true.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA. Content: S2.6 Hypothesis testing, tests for the mean (z-statistic and t-statistic), within Unit S2 (Statistics).

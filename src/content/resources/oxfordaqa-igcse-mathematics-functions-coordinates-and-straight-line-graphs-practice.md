@@ -165,6 +165,20 @@ These questions follow the OxfordAQA International GCSE Mathematics (9260) speci
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you find the gradient of a line like 5x − 2y = 8?**
+Rearrange it into the form y = mx + c first, then read off m. Taking the gradient straight from the original equation is a common error.
+
+**What is the most common mistake with composite functions?**
+Doing them in the wrong order. fg(x) means do g first, then f, so check which function the question needs.
+
+**How do you find the range of a quadratic on a restricted domain?**
+Find the outputs at both ends of the domain and at the turning point if it lies inside the domain. The range runs from the smallest to the largest of these.
+
+**How do you find a perpendicular gradient?**
+Turn the gradient upside down and change its sign, so the two gradients multiply to −1. Forgetting the sign change loses the mark.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.2, statements A9, A10 and A11.

@@ -148,6 +148,20 @@ Range: **6.95 N ≤ X ≤ 31.2 N** [1]. **[8]**
 * Take the [free 10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**When should you use F = μR in a statics question?**
+Only when the particle is in limiting equilibrium, on the point of slipping. If it is at rest but not about to move, find F by resolving and then check F ≤ μR.
+
+**Is the normal reaction always equal to the weight?**
+No. A rope, a push with a vertical component or a slope all change R, so always find it by resolving perpendicular to the surface.
+
+**How do you answer a "range of values" friction question?**
+Consider both limiting cases, with friction acting each way, and give the answer as an inequality with both limits. Giving only one limit loses marks.
+
+**What happens if you draw friction the wrong way?**
+If you are unsure of its direction, draw it one way and solve. A negative answer shows it acts the other way, but you must then correct it rather than leaving it.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section M2.3 Statics and forces, published by OxfordAQA.

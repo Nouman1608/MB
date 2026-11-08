@@ -289,6 +289,20 @@ Irreducible quadratic factors will not be tested, so you will not need a Bx + C 
 
 For the full question set go to the [practice questions](/resources/oxfordaqa-a-level-mathematics-transformations-rational-functions-algebraic-division-practice/), and use the [revision notes](/resources/oxfordaqa-a-level-mathematics-transformations-rational-functions-algebraic-division-revision-notes/) for quick recall.
 
+## Frequently asked questions
+
+**What is the Factor Theorem for a divisor (ax + b)?**
+(ax + b) is a factor of f(x) if and only if f(−b/a) = 0. The Remainder Theorem says the remainder on dividing by (ax + b) is f(−b/a).
+
+**What is a rational function?**
+A rational function is a fraction p(x)/q(x) of two polynomials. It is undefined where q(x) = 0.
+
+**How do you simplify a rational expression?**
+Factorise the numerator and the denominator completely, using the Factor Theorem for cubics, then cancel common factors.
+
+**Which OxfordAQA 9660 section covers transformations and partial fractions?**
+Section P2.1, in Unit P2 of OxfordAQA 9660, covers combined transformations, rational functions, algebraic division and partial fractions with denominators up to a repeated linear factor.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. For International AS exams from May/June 2018 and International A-level exams from May/June 2019. Section P2.1: Algebra and functions.

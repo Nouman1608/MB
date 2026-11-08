@@ -180,6 +180,19 @@ Constant-acceleration equations (v = u + at, s = ut + ½at², v² = u² + 2as, s
   <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the acceleration of a particle sliding down a smooth slope?**
+It is g sin θ, where θ is the angle of the slope to the horizontal. It does not depend on the mass.
+
+**What is the acceleration down a rough slope?**
+For a particle sliding down, a = g(sin θ − μ cos θ). Sliding up, the deceleration is g(sin θ + μ cos θ), because friction then acts down the slope.
+
+**When does F = μR apply?**
+Only when the object is sliding or about to slide. When it is not sliding, the friction force satisfies F ≤ μR.
+
+**How do you find a force from a position vector?**
+Differentiate r twice with respect to t to get the acceleration, then multiply by the mass using F = ma. For the magnitude, take the square root of the sum of the squared components.
 
 ## Official syllabus
 

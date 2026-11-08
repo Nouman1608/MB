@@ -243,6 +243,19 @@ Since v < 0 for 0 < t < 4, the distance is 32/3 m
   <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the five suvat equations?**
+They are v = u + at, s = ut + ½at², s = vt − ½at², s = ½(u + v)t and v² = u² + 2as. Each one leaves out one of the five variables, and they apply only when acceleration is constant.
+
+**What does the area under a velocity–time graph represent?**
+It gives the displacement. Area above the time axis is positive displacement and area below is negative; for distance, add the sizes.
+
+**What is the difference between average speed and average velocity?**
+Average speed is total distance divided by total time, so it is never negative. Average velocity is displacement divided by total time, and can be positive or negative.
+
+**How do you find the maximum height of a ball thrown upwards?**
+At the highest point v = 0, so v² = u² + 2as gives a maximum height of u² ÷ 19.6 when g = 9.8 m/s².
 
 ## Official syllabus
 

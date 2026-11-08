@@ -258,6 +258,20 @@ Longer questions chain the skills together. Work in this order and label each re
 * Leaving fractions in a line equation when the question asks for whole-number coefficients.
 * Giving a decimal approximation when an exact answer or surd was expected.
 
+## Frequently asked questions
+
+**How do you find the equation of a perpendicular bisector?**
+Find the mid-point of the two points, find the gradient of the line joining them, then take its negative reciprocal. Write the line through the mid-point with that gradient.
+
+**What is the formula for the distance between two points?**
+The distance is √[(x₂ − x₁)² + (y₂ − y₁)²]. The mid-point is ((x₁ + x₂)/2, (y₁ + y₂)/2).
+
+**What is the difference between a point of intersection and a point of contact?**
+A point of contact is the single point where a line touches a curve as a tangent. Points of intersection are where the line crosses the curve.
+
+**What is the gradient of a vertical line?**
+A vertical line x = k has an undefined gradient. A horizontal line y = k has gradient 0.
+
 ## Official syllabus
 
 These notes follow section P1.2 (Coordinate geometry) in section 3.1 of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2, published by OxfordAQA.

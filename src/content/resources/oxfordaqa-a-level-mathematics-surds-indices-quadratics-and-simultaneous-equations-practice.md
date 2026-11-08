@@ -147,6 +147,20 @@ Related links: [OxfordAQA Mathematics hub](/boards/oxfordaqa/a-level/mathematics
 - Try all the [free 10-minute diagnostics](/diagnostics/) to see which topics need work.
 - [Book a free trial class](/trial/) for support with anything you could not finish.
 
+## Frequently asked questions
+
+**What mistakes do students make when rationalising a denominator?**
+Common slips are using the wrong sign in the conjugate, forgetting the middle term when squaring a bracket with surds, and leaving a common factor uncancelled at the end.
+
+**How should you evaluate a fractional power like 16^(3/4)?**
+Take the root first, then the power: 16^(3/4) = (⁴√16)³ = 2³ = 8. Working out the power first leads to very large numbers and arithmetic slips.
+
+**How do you write the answer to a quadratic inequality?**
+Give a set of values, not an equation. For a > 0, "> 0" gives values outside the roots, and "< 0" gives values between the roots.
+
+**Which equation do you use to find the second variable in simultaneous equations?**
+Substitute back into the linear equation, not the quadratic. Using the quadratic can produce false pairs of solutions.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. Content P1.1 (Algebra), International AS Unit P1 (Pure Maths).

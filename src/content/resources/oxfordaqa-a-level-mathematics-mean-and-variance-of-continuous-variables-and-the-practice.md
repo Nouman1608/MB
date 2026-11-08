@@ -164,6 +164,20 @@ These questions follow the OxfordAQA International AS and A-level Mathematics (9
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake when finding a variance from a pdf?**
+Forgetting to subtract μ² after finding E(X²). The variance is Var(X) = E(X²) − μ².
+
+**Is E(1/X) equal to 1/E(X)?**
+No. To find E(1/X) you must integrate (1/x) f(x) over the range of X.
+
+**How do you find λ for an exponential distribution from a mean?**
+Use λ = 1/mean, and make sure the rate and the time are in the same units. Using the mean itself as λ is a common error.
+
+**What is the variance of a difference of independent variables?**
+For independent X and Y, Var(X − Y) = Var(X) + Var(Y). Variances add even when the variables are subtracted.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA: sections S2.2 (second part) and S2.3.

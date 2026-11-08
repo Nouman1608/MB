@@ -281,6 +281,20 @@ If a particle is added, include it in the system first, then find the new G.
 * Using total mass in a composite formula but using an area for one part. Be consistent.
 * Measuring a hanging angle from the wrong edge. Draw the vertical line PG first.
 
+## Frequently asked questions
+
+**What is a moment of a force?**
+A moment measures the turning effect of a force about a point. It equals the force multiplied by the perpendicular distance to its line of action, measured in N m.
+
+**How do you find the centre of mass of a system of particles?**
+Use X Σm = Σ mx and Y Σm = Σ my, where each particle has mass m at (x, y). For a uniform lamina, areas can be used in place of masses.
+
+**Where is the centre of mass of a body hanging freely from a point?**
+It is vertically below the point of suspension. This lets you find the angle the body hangs at using the right-angled triangle formed with the vertical.
+
+**Which part of the OxfordAQA 9660 specification covers moments and centres of mass?**
+Section M2.3, in Unit M2 (Mechanics), covers moments, rigid bodies in equilibrium, centres of mass and suspended bodies.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Mathematics (9660)*, Version 5.2, section M2.3 (Statics and forces), part of International A-level Unit M2 (Mechanics).

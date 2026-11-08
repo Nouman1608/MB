@@ -249,6 +249,20 @@ Work in the order you find the angles, so each line depends only on lines above 
 - Writing the equation correctly but dropping a bracket, such as 3a + a + 35 + 2a − 15 with the wrong sign.
 - Leaving the answer as x when the question asks for the size of an angle.
 
+## Frequently asked questions
+
+**What is the sum of the interior angles of a polygon?**
+For a polygon with n sides, the interior angles add up to (n − 2) × 180°. The exterior angles of any polygon add up to 360°.
+
+**What is the interior angle of a regular hexagon?**
+A regular hexagon has exterior angles of 60°, so each interior angle is 180° − 60° = 120°.
+
+**What is the exterior angle property of a triangle?**
+An exterior angle of a triangle equals the sum of the two interior opposite angles.
+
+**What is the difference between a rhombus and a kite?**
+A rhombus has four equal sides, while a kite has two pairs of adjacent equal sides. A rhombus is a special kind of parallelogram.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1, references G1 to G5.

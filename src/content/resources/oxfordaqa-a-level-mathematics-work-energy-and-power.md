@@ -276,6 +276,20 @@ Show the stage of the motion each equation describes, because an energy equation
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-work-energy-and-power-practice/), then condense the unit with the [revision notes](/resources/oxfordaqa-a-level-mathematics-work-energy-and-power-revision-notes/). Take a [free diagnostic](/diagnostics/) when you want to check readiness.
 
+## Frequently asked questions
+
+**What is the work-energy principle?**
+The total work done on a particle by all the forces equals its change in kinetic energy: total work = final KE − initial KE.
+
+**What is power in mechanics?**
+Power is the rate at which a force does work, measured in watts, where 1 W = 1 J s⁻¹. For a driving force F at speed v, P = Fv.
+
+**Is work done against friction positive or negative?**
+Friction does negative work, because it acts against the motion and removes mechanical energy. Give each force's work its correct sign.
+
+**What does the work, energy and power topic in OxfordAQA 9660 Unit M2 include?**
+It covers work done by a constant force at any angle, gravitational potential energy mgh, kinetic energy ½mv², the work-energy principle, conservation of mechanical energy and power P = Fv.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section M2.6 (Work and energy). Published by OxfordAQA for International AS exams from May/June 2018 and International A-level exams from May/June 2019.

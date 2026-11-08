@@ -210,6 +210,23 @@ Impulse on the 5 kg particle: 5 × (1.75 − 4) = −11.25 N s  (equal and oppos
 * Forgetting that after the string goes slack the equation of motion of the remaining particle changes.
 * Leaving out units: N, N s, m/s².
 
+## Frequently asked questions
+
+**Which mechanics formulae do you need to learn for OxfordAQA 9660?**
+The specification lists W = mg, F = ma, F = μR, p = mv and impulse = mv − mu as formulae to learn. They are not in the formulae booklet.
+
+**What is the difference between tension and thrust?**
+Tension pulls along a string or rod, while thrust pushes along a rod. A string can only pull, but a rod can do either.
+
+**Is Newton's law of restitution in the OxfordAQA A-level Maths M1 content?**
+No. The momentum content covers conservation of momentum for two particles and impulse, and restitution is not required.
+
+**What is the difference between a Newton's third law pair and balanced forces?**
+A third-law pair acts on two different bodies, with equal size and opposite direction. Balanced forces all act on the same body.
+
+**What units are used for momentum and impulse?**
+Momentum and impulse are measured in N s, which is the same as kg m/s. Force is in newtons and acceleration in m/s².
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: Unit PSM1, sections M1.3 and M1.4.

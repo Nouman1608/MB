@@ -262,6 +262,19 @@ Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-t
   <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is the scalar product a vector or a number?**
+It is a single number, also called the dot product. Writing it as a vector is a common error.
+
+**What does the sign of the scalar product tell you?**
+If u.v > 0 the angle between the vectors is acute, and if u.v < 0 it is obtuse. If u.v = 0 the vectors are perpendicular.
+
+**Why can the angle between two lines not be obtuse?**
+The angle between two lines is taken as the acute one. If the direction vectors give an obtuse angle θ, the angle between the lines is 180° − θ.
+
+**Which OxfordAQA 9660 section covers the scalar product?**
+Section P2.10, in Unit P2 of OxfordAQA 9660, covers the scalar product, the angle between two lines, the foot of the perpendicular and the perpendicular distance from a point to a line.
 
 ## Official syllabus
 

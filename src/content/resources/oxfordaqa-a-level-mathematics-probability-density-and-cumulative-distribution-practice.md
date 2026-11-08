@@ -151,6 +151,20 @@ f(x) = kx for 0 ≤ x < 2, f(x) = k(6 − x)/2 for 2 ≤ x ≤ 6, and f(x) = 0 o
 - Take any of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) if you would like help with this topic.
 
+## Frequently asked questions
+
+**How do you find an unknown constant in a pdf?**
+Integrate the pdf over its range, set the area equal to 1 and solve. Setting the pdf itself equal to 1 is a common mistake.
+
+**What do students forget when building a cdf from a piecewise pdf?**
+They drop the probability already accumulated from the earlier piece. Each later piece of F must start from the value F reached at the end of the previous piece.
+
+**Is P(X = a) zero for a continuous random variable?**
+Yes. For a continuous variable the probability of any single exact value is 0, so P(X < a) and P(X ≤ a) are equal.
+
+**How do you check a median found from a cdf?**
+Make sure the root lies inside the piece of the range you solved in, and reject any root outside it. Use the probability 0.5, not a percentage, in F(m) = 0.5.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), specification Version 5.2, published by OxfordAQA: section 3.4 International A-level Unit S2 (Statistics), S2.2 Continuous random variables.

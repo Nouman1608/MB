@@ -126,6 +126,20 @@ Learn the content first from the [study guide](/resources/oxfordaqa-a-level-math
 - Take the [free 10-minute diagnostics](/diagnostics/) to find the next topic to work on.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What power of r is in the nth term of a geometric sequence?**
+The nth term is a rⁿ⁻¹, so the power is n − 1. Using rⁿ is a common error.
+
+**How do you round in a "least value of n" series question?**
+Round up to the next whole number that satisfies the inequality, never down. If S(14) falls short of the target, the answer is 15.
+
+**When can you use the sum to infinity of a geometric series?**
+Only when |r| < 1, that is −1 < r < 1. State this condition before writing S∞ = a/(1 − r).
+
+**What mistakes happen with negative terms in a binomial expansion?**
+Losing the sign or the coefficient, for example writing (−3x)² as −9x² instead of 9x². Keep each term in brackets until it is simplified.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: section P1.5, Sequences and series, under International AS Unit P1 (Pure Maths).

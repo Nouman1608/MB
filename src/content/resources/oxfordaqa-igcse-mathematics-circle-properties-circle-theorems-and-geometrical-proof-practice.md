@@ -170,6 +170,20 @@ Support: [study guide](/resources/oxfordaqa-igcse-mathematics-circle-properties-
 - Take one of the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) for help with proofs.
 
+## Frequently asked questions
+
+**What reasons should you give in circle theorem questions?**
+Quote the theorem in words, such as "angles in the same segment are equal". A vague reason like "circle rule" does not earn the mark.
+
+**Which angles of a cyclic quadrilateral add up to 180°?**
+Only opposite angles. Pairing adjacent angles is a common mistake.
+
+**Which side is the hypotenuse in a tangent and radius problem?**
+The line from the external point to the centre, such as OT, is the hypotenuse, because the right angle is at the point of contact.
+
+**How should a geometrical proof end?**
+Finish by stating the result exactly as the question words it. A proof that stops before the stated conclusion loses marks.
+
 ## Official syllabus
 
 These questions follow the OxfordAQA International GCSE Mathematics (9260) Specification, Version 5.1, for exams in May/June 2018 onwards, published by OxfordAQA, section 3.3.1, references G8 and G9.

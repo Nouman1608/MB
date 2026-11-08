@@ -293,6 +293,20 @@ Equal gradients with equal intercepts mean the same line.
 - Leaving a final line equation without checking it passes through a given point.
 - Giving a line as "y = mx + c" without the numbers substituted.
 
+## Frequently asked questions
+
+**Are composite and inverse functions in the Core tier of OxfordAQA 9260?**
+No. f(x) notation, domain and range, composite functions and inverse functions are Extension only. Core covers function machines, inputs and outputs.
+
+**How do you find an inverse function?**
+Set y equal to the rule for f, rearrange to get x on its own, then swap y for x. Check by working out f(f⁻¹(x)), which should simplify to x.
+
+**What do m and c mean in y = mx + c?**
+m is the gradient of the line and c is the y-intercept, where the line crosses the y-axis.
+
+**Is f⁻¹(x) the same as 1/f(x)?**
+No. f⁻¹(x) is the inverse function that undoes f, while 1/f(x) is the reciprocal of the output.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.2, statements A9, A10 and A11.
@@ -306,4 +320,3 @@ OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for 
   <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--02-gradient-signs.webp" width="900" height="880" alt="Four small graphs: a rising line has positive gradient, a falling line negative, a horizontal line zero, and a vertical line has no gradient because the run is zero." loading="lazy">
   <figcaption>Uphill is positive, downhill is negative, flat is zero.</figcaption>
 </figure>
-

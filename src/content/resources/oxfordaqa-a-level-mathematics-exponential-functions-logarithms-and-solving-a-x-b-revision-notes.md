@@ -260,6 +260,20 @@ A minute spent checking is worth more than a minute spent on a new question.
 - Giving a decimal when the question asks for an exact value, such as log₂9.
 - Omitting the y-intercept or the asymptote label on a sketch of y = a^x.
 
+## Frequently asked questions
+
+**What are the three laws of logarithms?**
+For logarithms with the same base, logₐx + logₐy = logₐ(xy), logₐx − logₐy = logₐ(x/y), and k logₐx = logₐ(x^k). These are the laws listed in section PP1.3 of the OxfordAQA 9660 specification.
+
+**What is the difference between log(x²) and (log x)²?**
+log(x²) equals 2 log x by the power law. (log x)² is the logarithm multiplied by itself, and it is not equal to 2 log x.
+
+**How do you solve an equation like 4 × 3^x = 100?**
+Isolate the power first by dividing by 4, giving 3^x = 25. Then take logarithms of both sides and divide, so x = log 25 / log 3.
+
+**What do the graphs of y = a^x always have in common?**
+Every graph of y = a^x passes through (0, 1), lies above the x-axis and has the asymptote y = 0. It rises when a > 1 and falls when 0 < a < 1.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2: section PP1.3, Exponential and logarithms. Published by OxfordAQA for International AS exams from May/June 2018 and International A-level exams from May/June 2019.

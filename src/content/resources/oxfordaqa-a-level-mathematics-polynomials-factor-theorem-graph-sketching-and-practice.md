@@ -192,6 +192,20 @@ x = (−1 ± √65)/2, so **x = 0, (−1 − √65)/2, (−1 + √65)/2** [1]
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which value do you test to show (x + 2) is a factor?**
+Use f(−2). A factor (x − a) corresponds to f(a) = 0, so (x + 2) needs a = −2.
+
+**How do you show that an expression is a factor using the Factor Theorem?**
+Substitute the value and show the working that gives zero, for example f(2) = 0. A bare statement that it is a factor earns no credit.
+
+**Why should you not divide by x when solving where two curves meet?**
+Dividing by x loses the root x = 0. Factor x out instead so every solution remains.
+
+**How should a transformation be described?**
+Name the type and give its full detail: the vector for a translation, the direction and scale factor for a stretch, or the mirror line for a reflection.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. See section 3.1, International AS Unit P1 (Pure Maths), content area P1.1.

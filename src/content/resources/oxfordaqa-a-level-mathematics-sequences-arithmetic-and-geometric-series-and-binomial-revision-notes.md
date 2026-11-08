@@ -267,6 +267,20 @@ Try each before you look at the answers.
 - Stopping a Σ question at the formula without evaluating, or ignoring a lower limit other than 1.
 - Not giving an exact answer when the question asks for one.
 
+## Frequently asked questions
+
+**What is the formula for the sum of an arithmetic series?**
+S(n) = n/2 × (2a + (n − 1)d), which can also be written n/2 × (a + l), where l is the last term.
+
+**What is the sum of the first n natural numbers?**
+1 + 2 + ... + n = n(n + 1)/2. It is the arithmetic series with a = 1 and d = 1.
+
+**How do you find the limit of a recurrence relation?**
+If the sequence x(n+1) = f(x(n)) converges, its limit L satisfies L = f(L). Solve this equation and reject any root that does not suit the sequence.
+
+**What is the difference between an arithmetic and a geometric sequence?**
+An arithmetic sequence adds a common difference d each time, and a geometric sequence multiplies by a common ratio r. An arithmetic series never has a sum to infinity unless every term is 0.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: section P1.5, Sequences and series, under International AS Unit P1 (Pure Maths).

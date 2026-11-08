@@ -166,6 +166,20 @@ Links: [course hub](/boards/oxfordaqa/a-level/mathematics/), [checklist](/checkl
 - Take the [free 10-minute diagnostics](/diagnostics/) to find what to revise next.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the ranges of sin⁻¹x, cos⁻¹x and tan⁻¹x?**
+sin⁻¹x lies in −π/2 ≤ y ≤ π/2, cos⁻¹x in 0 ≤ y ≤ π, and tan⁻¹x in −π/2 < y < π/2. Giving an angle outside these ranges loses the mark.
+
+**How should you prove a trigonometric identity?**
+Start from one side, usually the more complicated, and work only on that side until it matches the other. Working on both sides at once is not accepted as a proof.
+
+**What mistakes do students make sketching sec and cosec graphs?**
+Common errors are drawing branches inside the strip −1 < y < 1 and leaving out or drawing through the asymptotes.
+
+**How do you avoid missing solutions to a trigonometric equation?**
+After solving the quadratic, find every angle in the stated interval for each value of the trigonometric function, and give the answers in the unit the interval uses.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: content area P2.4 Trigonometry (inverse trigonometric functions; secant, cosecant and cotangent).

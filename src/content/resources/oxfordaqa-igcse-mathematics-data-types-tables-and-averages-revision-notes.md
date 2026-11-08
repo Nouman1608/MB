@@ -261,4 +261,18 @@ Which average? Use the median when there is an extreme value, the mode for quali
 
 ## Official syllabus
 
+## Frequently asked questions
+
+**What is the difference between discrete and continuous data?**
+Discrete data is counted and takes separate values, such as the number of siblings. Continuous data is measured and can take any value in a range, such as time or mass.
+
+**How do you find the median from a frequency table?**
+Add a cumulative frequency column and find the value at position (n + 1) ÷ 2. The data must be in order.
+
+**Are quartiles and the interquartile range in the Core tier of OxfordAQA 9260?**
+No. Quartiles, the interquartile range and percentiles are Extension only in OxfordAQA International GCSE Mathematics 9260. The mean, median, mode, modal class and range are Core.
+
+**How do you find a missing value from a mean?**
+Multiply the mean by the number of values to get the total, then subtract the total of the known values.
+
 Source: OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018, published by OxfordAQA. Section 3.4.1, statements S1, S2, S3 and S5.

@@ -171,6 +171,20 @@ The repeated root x = 1 means the line **touches** the curve at **(1, −2)** [1
 * Take one of the [free 10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/) for help with any question you could not finish.
 
+## Frequently asked questions
+
+**What is the gradient of the line ax + by + c = 0?**
+The gradient is −a/b. Reading it as a/b, without the minus sign, is a common error.
+
+**How do you find the gradient of a perpendicular line?**
+Take the reciprocal of the gradient and change its sign, so the two gradients multiply to −1. Doing only one of these steps gives the wrong line.
+
+**Which equation should you substitute back into after solving a line and curve together?**
+Substitute each x-value into the line, not the curve, because it is simpler. Then give the answers as coordinate pairs.
+
+**Which discriminant condition means a line is a tangent to a curve?**
+After substituting the line into the curve, the quadratic has b² − 4ac = 0 for a tangent. Greater than zero means two intersections.
+
 ## Official syllabus
 
 These questions follow section P1.2 (Coordinate geometry) in section 3.1 of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2, published by OxfordAQA.

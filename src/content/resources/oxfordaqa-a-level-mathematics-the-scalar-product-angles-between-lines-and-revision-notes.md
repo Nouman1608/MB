@@ -246,6 +246,20 @@ Both vectors start at A, which is the vertex of the angle. Using AB and CA inste
 - Using the scalar product to test for parallel lines. It tests for perpendicular ones.
 - Claiming a result with no working when the question says show that. Write every line.
 
+## Frequently asked questions
+
+**How do you calculate the scalar product of two vectors?**
+In components, (x, y, z).(a, b, c) = xa + yb + zc. Geometrically, u.v = |u||v| cos θ, where θ is the angle between the vectors.
+
+**How do you show two vectors are perpendicular?**
+Show that their scalar product is zero, with both vectors non-zero. The scalar product tests for perpendicular vectors, not parallel ones.
+
+**What are skew lines?**
+Skew lines are lines in three dimensions that are neither parallel nor intersecting.
+
+**What direction vector does the line y = mx + c have?**
+It has direction vector (1, m). A line ax + by = c has direction vector (b, −a).
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section P2.10 (Vectors), published by OxfordAQA. For International AS exams from May/June 2018 and International A-level exams from May/June 2019.

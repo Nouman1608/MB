@@ -258,6 +258,19 @@ Practise with the [projectile practice questions](/resources/oxfordaqa-a-level-m
   <figcaption>Find where v = 0, split the motion there, and add the sizes of the stages for distance.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which OxfordAQA 9660 section covers projectile motion?**
+Projectile motion is section M2.5, in Unit M2 (Mechanics) of OxfordAQA International A-level Mathematics 9660. It includes range, time of flight, maximum height and the equation of the trajectory.
+
+**How do you find the equation of the trajectory of a projectile?**
+Eliminate time t between x = (V cos α)t and y = (V sin α)t − ½gt². This gives y in terms of x alone.
+
+**What links the horizontal and vertical motion of a projectile?**
+Time is the only link. Treat the two directions separately, and find t from one equation before using it in the other.
+
+**Are air resistance questions set on projectiles in OxfordAQA 9660?**
+No. The model ignores air resistance and resistance problems are not set, so state that assumption precisely rather than writing "ignore friction".
 
 ## Official syllabus
 

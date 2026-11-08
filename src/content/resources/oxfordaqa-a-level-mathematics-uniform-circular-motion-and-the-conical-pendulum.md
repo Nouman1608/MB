@@ -289,6 +289,20 @@ Check with the vertical equation: T cos θ = 12 × 0.3267 = 3.92, and mg = 0.4 �
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-uniform-circular-motion-and-the-conical-pendulum-practice/), then keep the [revision notes](/resources/oxfordaqa-a-level-mathematics-uniform-circular-motion-and-the-conical-pendulum-revision-notes/) for the final weeks. Take the [free diagnostics](/diagnostics/) to check where you stand.
 
+## Frequently asked questions
+
+**Which direction does the acceleration act in uniform circular motion?**
+Towards the centre of the circle, perpendicular to the velocity. It is not along the direction of motion.
+
+**How do you convert revolutions per minute to radians per second?**
+Multiply by 2π/60. For example, 60 rev/min is 2π rad s⁻¹.
+
+**In a conical pendulum, does the tension equal the weight?**
+No. Only the vertical component of tension, T cos θ, balances the weight mg. The horizontal component T sin θ provides the acceleration towards the centre.
+
+**Which OxfordAQA 9660 section covers circular motion?**
+Uniform circular motion and the conical pendulum are in section M2.7 of OxfordAQA International A-level Mathematics 9660, in Unit M2 (Mechanics).
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. Section M2.7 of Unit M2 (International A-level only).

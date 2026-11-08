@@ -224,6 +224,20 @@ Method in steps for a model problem:
 - Giving a time with no units, or with no comment when the question asks for one.
 - Showing too little working on a "show that" question: write every line from the start to the target.
 
+## Frequently asked questions
+
+**What is the difference between y = eˣ and y = ln x?**
+They are inverse functions. y = eˣ takes all real x and gives y > 0, passing through (0, 1); y = ln x needs x > 0, takes every real value and passes through (1, 0).
+
+**How do you solve an equation like e²ˣ + a eˣ + b = 0?**
+Substitute u = eˣ to get a quadratic in u, solve it, and reject any value where eˣ would be zero or negative. Then take ln of each valid value.
+
+**What is the half-life in an exponential decay model?**
+For N = Ae⁻ᵏᵗ with k > 0, the half-life is ln 2/k. For growth N = Aeᵏᵗ, the doubling time is also ln 2/k.
+
+**How do you find the asymptote of y = 2eˣ − 5?**
+The graph of eˣ has asymptote y = 0, so adding −5 moves it to y = −5. The y-intercept is (0, −3).
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*, published by OxfordAQA. Sections P2.3 (Cartesian and parametric equations of curves and conversion between the two forms) and P2.5 (the function eˣ and its graph, ln x as the inverse of eˣ, exponential growth and decay including exponential functions as models).

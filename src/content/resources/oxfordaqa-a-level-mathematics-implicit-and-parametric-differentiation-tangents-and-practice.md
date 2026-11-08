@@ -144,6 +144,20 @@ Related pages: [study guide](/resources/oxfordaqa-a-level-mathematics-implicit-a
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake in implicit differentiation?**
+Leaving out the dy/dx factor on a y-term, or adding one to an x-term. For example, y³ differentiates to 3y² dy/dx with respect to x.
+
+**Do you need the product rule in implicit differentiation?**
+Yes, on any term that multiplies x and y together, such as xy, x²y or xy². For example, d/dx(xy) = y + x dy/dx.
+
+**How do you find dy/dx for a parametric curve?**
+Divide dy/dt by dx/dt. Dividing the other way round gives the reciprocal of the gradient and loses the marks.
+
+**How do you find where a parametric curve has a horizontal tangent?**
+Set dy/dt = 0 and check that dx/dt is not zero at the same value of the parameter. Use that parameter value in both equations to find the point.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. Content area P2.6: Differentiation.

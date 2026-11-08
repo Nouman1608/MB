@@ -341,6 +341,23 @@ It meets the x-axis where y = 0: 4x = 38, so x = 9.5.
 
 Try the [practice questions](/resources/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs-practice/), then condense with the [revision notes](/resources/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs-revision-notes/). Use the [checklist](/checklists/oxfordaqa/igcse/mathematics/) to track progress.
 
+## Frequently asked questions
+
+**What is the domain and range of a function?**
+The domain is the set of inputs you are allowed to use, and the range is the set of outputs that result.
+
+**How are the four quadrants numbered?**
+They are numbered anticlockwise from the top right. The first quadrant has x and y both positive, and the third has both negative.
+
+**How do you tell if two lines are parallel?**
+Two lines are parallel if they have the same gradient. Rearrange each into y = mx + c to compare.
+
+**How do you find the equation of a line through two points?**
+Find the gradient m from the two points first, then use y − y₁ = m(x − x₁) with either point. This is Extension only in OxfordAQA International GCSE Mathematics 9260.
+
+**How many points should you plot for a straight-line graph?**
+Use a table of values with at least three points, so a mistake shows up as a point that is not in line.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.2, statements A9, A10 and A11.

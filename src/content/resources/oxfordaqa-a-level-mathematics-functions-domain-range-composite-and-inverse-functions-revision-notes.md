@@ -258,6 +258,23 @@ The reflected hump between x = 1 and x = 5 reaches a height of 4 at x = 3, so it
 * Writing a "between" answer with the word "or", or an "outside" answer as one interval.
 * Sketches that show a modulus graph dipping below the x-axis.
 
+## Frequently asked questions
+
+**What is the difference between a one-one and a many-one function?**
+In a one-one function each output comes from exactly one input. In a many-one function some outputs come from two or more inputs, so it has no inverse unless its domain is restricted.
+
+**Is f⁻¹(x) the same as 1/f(x)?**
+No. f⁻¹ is the inverse function that undoes f, while 1/f(x) is the reciprocal of the output.
+
+**How are the graphs of y = f(x) and y = f⁻¹(x) related?**
+The graph of y = f⁻¹(x) is the reflection of y = f(x) in the line y = x. A point (a, b) on f becomes (b, a) on f⁻¹.
+
+**What is a self-inverse function?**
+A function is self-inverse when f⁻¹ = f, so ff(x) = x. An example is f(x) = (x + 1)/(x − 1) for x ≠ 1.
+
+**How do you sketch y = |f(x)|?**
+Keep the parts of y = f(x) on or above the x-axis and reflect any part below the x-axis upwards. The whole graph lies in y ≥ 0.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Mathematics (9660)* specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), content area P2.1.

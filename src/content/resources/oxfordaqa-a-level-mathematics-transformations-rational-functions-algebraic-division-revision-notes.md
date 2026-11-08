@@ -220,6 +220,20 @@ Example: (4x + 1)/((x − 2)(x + 1)) = 3/(x − 2) + 1/(x + 1).
 - Writing a repeated factor as a single fraction.
 - Not checking the final partial fractions by substituting a value of x.
 
+## Frequently asked questions
+
+**How do you combine two transformations of a graph?**
+Inside changes, in the x-direction, act opposite to how they look, while outside changes, in the y-direction, act as they look. On the y side, stretch first and then translate for an equation such as 3f(x) + 2.
+
+**What partial fraction form do you use for a repeated factor?**
+For a denominator (ax + b)(cx + d)², use A/(ax + b) + B/(cx + d) + C/(cx + d)². A repeated factor needs one fraction for each power.
+
+**What methods of algebraic division are allowed?**
+Any correct method: inspection, equating coefficients or formal long division. Each aims for f(x) = (divisor)(quotient) + remainder.
+
+**How do you track a point under a transformation?**
+Solve the inside bracket for x and apply the outside changes to y. For example, (3, 4) on y = f(x) moves to (4, 13) on y = 2f(x − 1) + 5.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. For International AS exams from May/June 2018 and International A-level exams from May/June 2019. Section P2.1: Algebra and functions.

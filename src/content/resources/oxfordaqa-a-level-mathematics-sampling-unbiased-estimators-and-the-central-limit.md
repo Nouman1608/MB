@@ -251,6 +251,20 @@ P(T > 300) = 1 − Φ(1.375) = 0.0846
 
 Condense this unit with the [revision notes](/resources/oxfordaqa-a-level-mathematics-sampling-unbiased-estimators-and-the-central-limit-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-mathematics-sampling-unbiased-estimators-and-the-central-limit-practice/). Estimation is the base for hypothesis testing of a mean (S2.6), so make sure the sampling distribution of X̄ is secure first. The [diagnostics](/diagnostics/) show which topics to prioritise.
 
+## Frequently asked questions
+
+**What does the Central Limit Theorem say?**
+For a large random sample from any distribution with mean μ and variance σ², the sample mean X̄ is approximately N(μ, σ²/n).
+
+**Does the Central Limit Theorem make individual values normal?**
+No. It applies only to the sample mean or the total of the sample, not to single observations.
+
+**What is the sampling distribution of the mean from a normal population?**
+If the population is N(μ, σ²), then X̄ ~ N(μ, σ²/n) exactly, for any sample size n.
+
+**Which OxfordAQA 9660 section covers sampling and the Central Limit Theorem?**
+Section S2.5 (Estimation), in Unit S2 of OxfordAQA 9660, covers population and sample, unbiased estimators, the sampling distribution of the mean and the Central Limit Theorem.
+
 ## Official syllabus
 
 This guide follows section S2.5 of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA.

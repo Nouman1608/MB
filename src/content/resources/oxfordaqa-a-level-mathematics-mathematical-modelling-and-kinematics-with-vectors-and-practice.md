@@ -175,6 +175,20 @@ Learn the method first in the [study guide](/resources/oxfordaqa-a-level-mathema
 - Take the [free 10-minute diagnostics](/diagnostics/) to find gaps.
 - [Book a free trial class](/trial/) for help with any question you could not finish.
 
+## Frequently asked questions
+
+**How do you show a particle is at rest using vectors?**
+Every component of the velocity must be zero at the same time. Checking only one component is not enough.
+
+**How do you show that two particles collide?**
+Equate the i components and the j components of their position vectors and solve each. They collide only if the same value of t satisfies both.
+
+**Is |r| the same as the distance travelled?**
+No. |r| is the distance of the particle from the origin O. The distance travelled is the length of the path.
+
+**How do you comment on a modelling assumption?**
+Name the assumption, such as treating the object as a particle, say what it ignores and say how that affects the answer. Calling a model unrealistic without this earns little credit.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. Sections M2.1 and M2.2 of Unit M2 (International A-level only).

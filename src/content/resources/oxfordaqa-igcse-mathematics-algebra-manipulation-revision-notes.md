@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-oxfordaqa-igcse-maths"
     subtopic: "notation-and-manipulation-oxfordaqa-igcse-maths"
-description: "Condensed recall notes on expanding, factorising, index laws and algebraic fractions, for OxfordAQA International GCSE Mathematics (9260), sub-topic 3.2.1 Notation and Manipulation."
+description: "Recall notes on expanding, factorising, index laws and algebraic fractions for OxfordAQA International GCSE Mathematics 9260: Notation and Manipulation."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -186,6 +188,23 @@ A student secure on the Core version of A5 (factorising x^2 + bx + c) is most of
 ## How this connects forward
 
 Topic 1 Number establishes arithmetic fluency; this sub-topic is where that fluency generalises into symbolic algebra -- the foundation the rest of Topic 2 (functions and graphs, solving equations, sequences) and much of Topics 3 and 4 depend on. A student who is genuinely fluent expanding and factorising here will find solving quadratic equations later in the course considerably faster, since factorising a quadratic is usually the first method taught for solving one.
+
+## Frequently asked questions
+
+**What is the difference between an expression, an equation and an identity?**
+An expression has no equals sign, such as 3x + 2. An equation is true only for particular values, while an identity is true for every value of the variable.
+
+**How do you check that you have factorised correctly?**
+Multiply the brackets back out. You should get the original expression, which catches sign errors.
+
+**What are the index laws for multiplying and dividing powers?**
+When multiplying powers of the same base, add the indices; when dividing, subtract them. They only apply to terms with the same base.
+
+**Why can you not cancel a term in an algebraic fraction?**
+You can only cancel a common factor that multiplies the whole numerator and denominator. Cancelling an added term is a common mistake.
+
+**What is the difference between Core and Extension algebra in OxfordAQA 9260?**
+Most points have a Core and an Extension version. For example, Core factorising covers x² + bx + c and the difference of two squares, while Extension adds ax² + bx + c.
 
 ## Official syllabus
 

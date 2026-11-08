@@ -271,6 +271,20 @@ Solutions: **θ = 0°, 70.5°, 180°, 289.5°, 360°**. Do not cancel sin θ fro
 
 Condense this into the [revision notes](/resources/oxfordaqa-a-level-mathematics-trigonometric-identities-and-solving-trigonometric-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-trigonometric-identities-and-solving-trigonometric-practice/) without looking at the answers. For a first look at your level, use the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**How do you solve an equation with both sin θ and cos θ?**
+In a linear equation such as 2 sin θ − cos θ = 0, divide by cos θ to get an equation in tan θ, then solve.
+
+**How do you solve a trig equation that becomes a quadratic?**
+Use sin²θ + cos²θ = 1 to replace the squared function, so only one trig function remains. Collect terms, factorise, and solve each factor.
+
+**Which OxfordAQA 9660 section covers trig identities and equations?**
+Section PP1.2 of the OxfordAQA 9660 specification, the pure maths content of Unit PSM1, covers the two identities and solving simple trigonometric equations in degrees or radians.
+
+**Why does the calculator give only one solution to a trig equation?**
+The inverse function returns only the principal value. Use the symmetry of the sin, cos or tan graph to list the other solutions in the interval.
+
 ## Official syllabus
 
 This guide follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA (International AS exams from May/June 2018, A-level from May/June 2019), content area PP1.2 Trigonometry.
