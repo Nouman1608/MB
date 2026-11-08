@@ -18,10 +18,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "commerce-and-production-0715"
     subtopic: "production-0715"
-description: "Trade, commerce, aids to trade and the different types of modern commerce -- the opening topic of Cambridge IGCSE Commerce (0715), a new six-topic syllabus for exams from 2028."
+description: "Guide to Topic 1 of Cambridge IGCSE Commerce 0715, exams from 2028: trade and commerce, sectors of production, specialisation, supply chains, aids to trade."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -175,3 +177,17 @@ Treating commerce and trade as the same thing — trade is only one branch of co
 - State the function of each aid to trade and the obstacle it removes.
 - Compare home and foreign trade.
 - State the advantages and disadvantages of specialisation for an individual, a factory and a country.
+
+## Frequently asked questions
+
+**What is the difference between trade and commerce?**
+Trade is the buying and selling of goods and services, and it is only one branch of commerce. Commerce is trade together with the aids to trade, such as banking, transport, warehousing, insurance, communication and advertising.
+
+**What are the four sectors of production in Cambridge IGCSE Commerce 0715?**
+Primary (extractive), secondary, tertiary and quaternary. The tertiary sector is split into commercial services and direct services, and the quaternary sector is digital technology.
+
+**What is the difference between an agent and a factor in international trade?**
+An agent acts on behalf of a buyer or seller without taking ownership of the goods. A factor takes possession of goods on consignment and sells them for the owner in return for a commission.
+
+**What are the types of modern commerce?**
+The 0715 syllabus names traditional commerce, ecommerce, mcommerce and scommerce. Questions often reward clear distinctions between them with specific examples.

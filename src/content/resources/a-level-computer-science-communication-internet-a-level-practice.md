@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "communication-and-internet-technologies"
     subtopic: "circuit-switching-packet-switching"
-description: "Original exam-style questions with full worked answers on the layers of the TCP/IP protocol suite, email and peer-to-peer protocols, and packet switching compared with circuit switching, for Cambridge AS & A Level Computer Science (9618)."
+description: "Practice questions with worked answers for Cambridge A Level Computer Science 9618: TCP/IP layers, email and BitTorrent, packet and circuit switching."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
@@ -109,3 +111,17 @@ Each question practises a skill tested in the June 2025 Paper 31. After each ans
 - Giving advantages and disadvantages when the question only asks for a description of the process.
 - Forgetting the sequence number in the packet header and the reassembly of packets at the destination.
 - Saying POP3 or IMAP is used to send email: sending uses SMTP.
+
+## Frequently asked questions
+
+**What are the four layers of the TCP/IP protocol suite?**
+Application, Transport, Internet and Link. Learn one key job for each layer, such as the Internet Layer adding IP addresses and routing packets.
+
+**What is the difference between packet switching and circuit switching?**
+In packet switching, data is split into packets that are sent independently and may take different routes before being reassembled. In circuit switching, a dedicated path is set up between the two ends for the whole communication.
+
+**Which protocol is used to send email?**
+SMTP is used to send email to the mail server. POP3 and IMAP are used to collect it, and IMAP keeps messages on the server so several devices stay in step.
+
+**What is a common mistake in questions on TCP/IP layers?**
+Describing which layer passes data to which, instead of what each layer actually does to the data, such as segmenting, addressing or routing it.

@@ -24,7 +24,9 @@ syllabusTopics:
 description: "Condensed recall notes on the chain of production, direct and indirect services, trade and aids to trade for Cambridge IGCSE Commerce 0715."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -159,3 +161,17 @@ Confusing balance of trade with balance of payments is the most common error her
 5. Name the four elements of how enterprises make use of insurance.
 
 **Answers:** 1. Commerce sits within the tertiary sector, alongside direct services; commerce itself covers trade and aids to trade. 2. Breaking bulk benefits retailers, who buy small quantities; warehousing benefits both manufacturer and retailer by relieving storage costs; granting credit benefits retailers' cash flow — any three. 3. Balance of trade covers goods only; balance of payments covers goods and services plus financial flows. 4. Individual, factory and country. 5. Pooling of risk, calculation of premiums, insurance documents, and the role of an insurance broker.
+
+## Frequently asked questions
+
+**What are the functions of a wholesaler?**
+Breaking bulk, warehousing, bearing risk, transport, providing information and granting credit. Marks are given for saying who benefits from each function, such as retailers or manufacturers.
+
+**What is the difference between commercial services and direct services?**
+Commercial services are trade and the aids to trade that help industry function, such as banking and transport. Direct services serve people directly, such as doctors, teachers and hairdressers.
+
+**What is the difference between place utility and time utility?**
+Transport creates place utility by moving goods to where they are demanded. Warehousing creates time utility by storing goods until they are demanded.
+
+**What is the difference between visible and invisible trade?**
+Visible trade is trade in goods. Invisible trade is trade in services, such as tourism, banking, insurance and shipping.

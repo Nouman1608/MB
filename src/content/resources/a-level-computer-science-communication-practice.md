@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "communication"
     subtopic: "networks-including-the-internet"
-description: "Original exam-style practice questions with full worked answers on network models, topologies, CSMA/CD, IP addressing and DNS, for Cambridge International AS & A Level Computer Science (9618) Topic 2 Communication."
+description: "Original practice questions with worked answers for Cambridge AS Computer Science 9618 Topic 2: network models, topologies, CSMA/CD, IP addresses and DNS."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -136,3 +138,17 @@ identifies as central to this topic: a strong answer states a specific benefit a
 to the scenario's stated need (centralised control), rather than listing general advantages of each
 model without connecting either to the business's actual requirement. The same justification habit
 applies equally to topology and cloud computing questions on this topic, and question 8 shows the same pairing applied to the public/private IP address distinction the study guide flags as a common source of confused answers under exam pressure.
+
+## Frequently asked questions
+
+**How does CSMA/CD work?**
+A device listens to check that the shared medium is free before transmitting. If a collision is detected, both devices stop and each waits a random time before trying again.
+
+**What is the difference between a thin client and a thick client?**
+A thin client relies heavily on a server for processing and does little itself. A thick client performs most of its processing locally and relies on the server mainly for services such as storage.
+
+**How do you answer a justify question on network models?**
+State a specific benefit and tie it directly to the need described in the scenario, such as centralised control of file permissions, rather than listing general advantages of each model.
+
+**What are the two methods of bit streaming in Cambridge 9618?**
+Real-time and on-demand bit streaming.

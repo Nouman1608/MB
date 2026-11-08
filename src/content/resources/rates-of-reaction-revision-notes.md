@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Condensed recall notes on collision theory, factors affecting rate, equilibrium and Le Chatelier for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -132,3 +134,17 @@ Both use a **compromise temperature**: lower would give a higher yield but too s
 8. *(0620 Extended, 5070 required)* State the source of the sulfur dioxide and oxygen used in the Contact process.
 
 **Answers:** 1. It increases surface area, exposing more particles, so collisions are more frequent. 2. Decreases it — the equilibrium shifts towards the endothermic (reverse) direction to oppose the rise. 3. No — it speeds up forward and reverse equally, so equilibrium is reached sooner at the same position. 4. A compromise: lower temperature would give a higher yield but the rate would be uneconomically slow. 5. Forward and reverse rates are equal; concentrations of reactants and products remain constant; the system is closed. 6. A much higher pressure would push the equilibrium further towards ammonia, but very high pressures are expensive to generate and maintain and present safety risks, so 200 atm is a compromise rather than the highest pressure achievable. 7. Nitrogen comes from the **air**; hydrogen comes from **methane**. 8. Sulfur dioxide comes from **burning sulfur or roasting sulfide ores**; oxygen comes from the **air**.
+
+## Frequently asked questions
+
+**What are the factors that affect the rate of a reaction?**
+Temperature, concentration, pressure of gases, surface area of solids and the presence of a catalyst. Increasing any of the first four, or adding a catalyst, makes the reaction faster.
+
+**Which factor changes the energy of collisions as well as their frequency?**
+Only temperature. Concentration, pressure and surface area change the frequency of collisions, while a catalyst provides an alternative pathway of lower activation energy.
+
+**How can the rate of a reaction be measured?**
+Collect the gas produced in a gas syringe, measure the loss in mass on a balance, or time how long a cross takes to disappear when a precipitate forms. On a graph, a steeper curve means a faster rate.
+
+**Is collision theory required for Cambridge IGCSE 0620 Core?**
+No. Collision theory and activation energy are 0620 Supplement content; Core candidates need the effect of each factor on rate and what a catalyst does. O Level 5070 candidates need collision theory.

@@ -19,7 +19,9 @@ syllabusTopics:
 description: "How to identify and distinguish physical changes from chemical changes, with the evidence examiners actually accept, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 featured: false
@@ -170,6 +172,20 @@ change/unexplained temperature change/precipitate/effervescence
 - Why reversibility is useful evidence but not the definition
 - Being able to classify an unfamiliar described change and justify your
 answer with the correct type of evidence
+
+## Frequently asked questions
+
+**What is the simplest test for a chemical change?**
+Ask whether a new substance has been formed. If it has, the change is chemical however easily it reverses; if the substance is the same in a different form, the change is physical.
+
+**Does a temperature change always show a chemical reaction?**
+Only if the reaction itself produces the temperature change. A beaker warming over a Bunsen burner is not evidence, because the heat comes from outside.
+
+**Is rusting a physical or a chemical change?**
+Rusting is a chemical change. A new substance, hydrated iron(III) oxide, forms slowly on the iron and has different properties from the metal.
+
+**Do Cambridge IGCSE 0620 Core and O Level 5070 students study the same content on physical and chemical changes?**
+Yes. Topic 6.1 is Core only, so the single outcome is identical for 0620 Core, 0620 Extended and O Level 5070 candidates.
 
 ## Related resources
 

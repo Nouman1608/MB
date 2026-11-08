@@ -34,10 +34,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "experimental-techniques-and-chemical-analysis"
     subtopic: "separation-and-purification"
-description: "Apparatus, titration technique, chromatography (including Rf) and separation/purification methods for Cambridge IGCSE 0620 and O Level 5070 — the practical-skills half of Topic 12."
+description: "Guide to Cambridge IGCSE 0620 and O Level 5070 practical techniques: choosing apparatus, acid-base titration, paper chromatography, Rf and separation methods."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 featured: false
@@ -293,6 +295,20 @@ for identity and purity
 - *(0620 Extended, 5070 required)* the Rf equation and how to apply it
 - The five separation/purification methods and when each applies
 - Using melting point/boiling point (sharp point vs range) to assess purity
+
+## Frequently asked questions
+
+**What is the end-point of a titration?**
+The end-point is the point at which the indicator changes colour permanently with the addition of a single further drop, not the first hint of a colour shift.
+
+**What is the difference between a burette, a volumetric pipette and a measuring cylinder?**
+A burette delivers a precise, variable volume added gradually, a volumetric pipette delivers one exact fixed volume, and a measuring cylinder measures an approximate volume.
+
+**How does paper chromatography show whether a substance is pure?**
+A pure substance produces exactly one spot, while an impure substance separates into two or more spots. Unknowns are identified by comparing them with known substances on the same chromatogram.
+
+**Do O Level 5070 students need to know the Rf equation?**
+Yes. The Rf equation and colourless-substance chromatography are Extended only for 0620, but 5070 has no Core and Extended split, so every O Level candidate needs them.
 
 ## Related resources
 

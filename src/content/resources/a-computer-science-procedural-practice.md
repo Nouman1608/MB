@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on algorithms, searching, sorting, complexity and modular design."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -161,3 +163,17 @@ Base case: n = 0 returns 1 [2]. General case: n × factorial(n − 1), which mov
 - Forgetting that binary search requires a sorted list.
 - Omitting the base case when writing a recursive function.
 - Confusing a stack's LIFO order with a queue's FIFO order.
+
+## Frequently asked questions
+
+**Do you have to write pseudocode in the OxfordAQA 9645 Computer Science exam?**
+No. The exams ask candidates to trace pseudocode, not write it; where a question asks you to write an algorithm, it must be written as a program in your own chosen language.
+
+**Is Big O notation assessed at AS level in OxfordAQA Computer Science?**
+No. The AS searching and sorting content states that Big O comparisons are not required at AS, but they may be required at A-level.
+
+**What is a common mistake when writing a bubble sort?**
+Omitting the temporary variable in the swap, which loses one of the values, or getting the inner loop bound wrong so the code reads past the end of the array.
+
+**Why must a recursive function have a base case?**
+The base case stops the recursion. Without it, the function keeps adding calls to the call stack until memory runs out and a stack overflow occurs.

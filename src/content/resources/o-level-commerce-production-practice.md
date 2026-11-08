@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on trade, commerce, production and specialisation for Cambridge O Level Commerce 7100."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -114,3 +116,17 @@ interdependence → the necessity of commerce — rather than treating
 specialisation and commerce as two separate topics that happen to
 appear in the same syllabus section. For the full treatment of trade,
 production and utility, see the [Commerce and Production revision notes](/resources/o-level-commerce-production-revision-notes/).
+
+## Frequently asked questions
+
+**Is commerce the same thing as production?**
+Not exactly. Production is the creation of goods and services across the four sectors, while commerce means distribution, which is trade and aids to trade. Commercial services do sit within the tertiary sector of production.
+
+**What is a common mistake on specialisation questions in O Level Commerce?**
+Listing advantages without the interdependence that specialisation creates, or using contexts such as a worker or a region instead of the syllabus's individual, factory and country.
+
+**What is entrepot trade?**
+Entrepot trade is importing goods in order to re-export them, often after storage or minor processing, rather than selling them domestically. The term itself is background and is not named in the 7100 syllabus.
+
+**How do you get the marks on a utility question?**
+Name the utility and explain why it applies to the scenario given. Transport creates place utility, storage creates time utility, and changing a product creates form utility.

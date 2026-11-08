@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-data-structures"
     subtopic: "single-and-multi-dimensional-arrays-7517"
-description: "The concept of a data structure, and the use of single- and multi-dimensional arrays to solve simple problems -- 4.2.1.1 and 4.2.1.2 of AQA A-Level Computer Science (7517)."
+description: "Guide to AQA A-Level Computer Science 7517 sections 4.2.1.1 and 4.2.1.2: what a data structure is, and using one- and multi-dimensional arrays in solutions."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -151,6 +153,20 @@ described problem, not just naming "array" as the answer.
 - Be comfortable with looping through one- and two-dimensional
 arrays in your course's chosen language, and confirm whether it
 indexes from 0 or from 1 before relying on either.
+
+## Frequently asked questions
+
+**What is a data structure in AQA A-Level Computer Science?**
+A data structure is a way of organising, storing and accessing data so that it can be used efficiently for a particular task.
+
+**What is the difference between a vector and a matrix in AQA 7517?**
+A one-dimensional array represents a vector, a single ordered list where each value is accessed by one index. A two-dimensional array represents a matrix, with values in rows and columns accessed by two indices.
+
+**Does AQA A-Level Computer Science index arrays from 0 or 1?**
+AQA sets no pseudocode convention of its own at this level, so check whether the language or convention your course uses indexes arrays from 0 or from 1.
+
+**How do you justify choosing an array in an exam answer?**
+State how many dimensions are needed and explain how the data will be accessed, for example a two-dimensional array indexed by day and time slot, rather than just saying use an array.
 
 ## Related resources
 
