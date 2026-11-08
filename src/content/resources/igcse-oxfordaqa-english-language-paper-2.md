@@ -26,7 +26,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Paper 2 Source-based Reading and Directed Writing**,
@@ -135,6 +135,18 @@ these three elements -- for example, a beautifully argued piece that
 reads like a formal essay rather than a magazine article -- loses marks
 against AO2's requirement to adapt form and register to task and
 purpose, however accurate the grammar is.
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9270 Paper 2?**
+2 hours for 80 marks and 40% of the International GCSE.
+
+**How many sources are there?**
+Five or six texts; at least one question requires you to consider two texts.
+
+**Is Paper 2 compulsory?**
+No. Candidates take Paper 2 or the non-exam assessment project as the alternative.
+
 
 ## Quick revision checklist
 
