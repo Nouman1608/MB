@@ -18,7 +18,9 @@ syllabusTopics:
 description: "IB MYP Sciences study guide to forces: types of force, resultant force, Newton's laws, motion graphs, pressure and moments, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -243,6 +245,23 @@ For each, you should be able to name the independent, dependent and control vari
 ## Where this fits in the course
 
 Forces sits beside other MYP content topics. For how the examinations and criteria are set up, read the [MYP Sciences syllabus guide](/resources/ib-myp-sciences-syllabus-guide/), the [course models guide](/resources/ib-myp-sciences-course-models/) and the [criteria in practice guide](/resources/ib-myp-sciences-criteria-in-practice/). Your next steps on this topic are the [revision notes](/resources/ib-myp-sciences-forces-revision-notes/) and the [practice set](/resources/ib-myp-sciences-forces-practice/).
+
+## Frequently asked questions
+
+**What is the difference between mass and weight?**
+Mass is the amount of matter in an object, measured in kilograms, and it does not change from place to place. Weight is the gravitational force on the object, measured in newtons, and is found with W = m × g.
+
+**Can an object with balanced forces be moving?**
+Yes. Newton's first law says an object stays at rest or keeps moving at constant velocity unless a resultant force acts on it, so balanced forces can mean steady motion as well as no motion.
+
+**Why does a skydiver reach terminal velocity?**
+At first her weight is much bigger than air resistance, so she accelerates. Air resistance grows with speed until it equals her weight; the resultant force is then zero and she falls at a constant terminal velocity.
+
+**What does the area under a velocity-time graph show?**
+The area under a velocity-time graph is the distance travelled, while its gradient is the acceleration. Reading the height of the graph as the distance is a common error.
+
+**Is forces in the IB MYP Sciences syllabus?**
+The IB MYP Sciences subject brief (from 2014) lists forces among the topics explored in the on-screen examinations. MYP has no prescribed content list, so schools design their own forces units.
 
 ## Official syllabus
 

@@ -18,7 +18,9 @@ syllabusTopics:
 description: "IB MYP Sciences study guide to states of matter: particle model, heating curves, density, gas behaviour and separating mixtures, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -220,6 +222,23 @@ Draw the baseline in **pencil** (graphite doesn't dissolve and run), and keep it
 - Measuring Rf distances from the bottom of the paper instead of from the baseline.
 - Choosing filtration to separate salt from salt water. Dissolved salt passes through filter paper.
 - Describing a gas as having "no forces" between particles. The forces are very weak, not zero.
+
+## Frequently asked questions
+
+**Why does temperature stay constant while a substance melts or boils?**
+During a change of state, the energy supplied overcomes the forces of attraction between particles instead of making them move faster. That is why a heating curve has flat sections at the melting and boiling points.
+
+**What is the difference between evaporation and boiling?**
+Evaporation happens only at the surface of a liquid and can happen at any temperature, while boiling happens throughout the liquid at its boiling point. Evaporation cools the liquid because the most energetic particles escape.
+
+**How do you find the density of an irregular object?**
+Measure its mass, then lower it into a measuring cylinder of water and subtract the starting reading from the new reading to find its volume. Density = mass ÷ volume.
+
+**Why does a gas exert pressure?**
+Gas particles collide with the walls of the container, and each collision pushes on the wall. Heating the gas makes the particles move faster, so collisions are more frequent and harder and the pressure rises.
+
+**Is states and properties of matter in the IB MYP Sciences syllabus?**
+The IB MYP Sciences subject brief (from 2014) lists states and properties of matter among the topics the on-screen examinations can draw on. MYP has no prescribed content list, so schools design their own units.
 
 ## Next steps
 

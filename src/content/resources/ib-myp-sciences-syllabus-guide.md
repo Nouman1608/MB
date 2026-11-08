@@ -9,10 +9,12 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
 syllabusSeries: "From 2014"
 order: 2
-description: "The discrete, modular and integrated course models and four assessment criteria of IB Middle Years Programme Sciences -- knowing and understanding, inquiring and designing, processing and evaluating, reflecting on the impacts of science -- and its eAssessment structure."
+description: "The IB MYP Sciences framework: discrete, modular and integrated course models, the four assessment criteria, key concepts and the three-task eAssessment."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -143,6 +145,20 @@ experimentation -- rather than treating scientific method as a
 memorised procedure recited once and then set aside, it is meant to be
 the working practice students actually use across every unit,
 regardless of discipline or course model.
+
+## Frequently asked questions
+
+**How many teaching hours does IB MYP Sciences require?**
+The MYP requires at least 50 hours of teaching time for sciences in each year of the programme, rising to a recommended 70 hours of guided learning per year in MYP years 4 and 5 for students pursuing eAssessment.
+
+**What is in the IB MYP Sciences eAssessment?**
+The on-screen exam has three tasks: Knowing and understanding (criterion A, 25 marks), Investigation skills (criteria B and C, 50 marks) and Applying science (criterion D, 25 marks). It is available in biology, chemistry, physics and integrated sciences.
+
+**What topics can the MYP Sciences on-screen exam cover?**
+Topics include atomic structure and bonding, cells, cycles, electromagnetism, evolution, interactions between organisms, forces, states and properties of matter, metabolism, organisms and waves. The topics in your own exam depend on the option you are entered for.
+
+**What are the key concepts in MYP Sciences?**
+The key concepts are change, relationships and systems, explored through related concepts such as energy, movement, transformation and models. Schools may identify further related concepts to meet local needs.
 
 ## Official syllabus
 

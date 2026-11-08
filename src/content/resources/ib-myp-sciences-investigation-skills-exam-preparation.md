@@ -12,10 +12,12 @@ order: 9
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-assessment-criteria"
-description: "Exam preparation for IB Middle Years Programme Sciences's Investigation skills eAssessment task -- worth half the total available marks -- covering hypothesis formulation, data handling and evaluation, with a worked practice example."
+description: "How to prepare for the IB MYP Sciences Investigation skills eAssessment task, worth 50 of 100 marks: hypotheses, variables, data processing and evaluation."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -126,6 +128,20 @@ improvement would help. 5. Because the content the MYP Sciences on-screen examin
 set by the eAssessment option entered, not by the course model (discrete, modular or integrated) a
 school followed or by teaching order -- for integrated sciences it spans biology, chemistry and
 physics -- so revision confined to one recently taught discipline can leave genuine gaps.
+
+## Frequently asked questions
+
+**How many marks is the IB MYP Sciences Investigation skills task worth?**
+The Investigation skills task carries 50 of the eAssessment's 100 marks, assessed against criteria B and C. The other two tasks, Knowing and understanding and Applying science, are worth 25 marks each.
+
+**What is the difference between independent, dependent and controlled variables?**
+The independent variable is the one you change, the dependent variable is the one you measure, and controlled variables are kept the same so they do not affect the result. A strong answer names each controlled variable and explains why it must be controlled.
+
+**Why should I calculate percentage change in an MYP Sciences investigation?**
+Percentage change allows a fair comparison between samples that started at different values, such as potato pieces of slightly different masses. Raw, unprocessed data does not show the interpretation Criterion C rewards.
+
+**What format does the MYP Sciences Investigation skills task use?**
+The task can present a single investigation or several separate scenarios, so practise both: working through one investigation from hypothesis to evaluation, and answering short questions about an investigation someone else designed.
 
 ## Official syllabus
 

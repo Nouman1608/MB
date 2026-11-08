@@ -163,6 +163,20 @@ Reaching 7–8 needs an explanation of the science plus a two-sided discussion t
 - Using everyday words ("stuff breaks down") instead of scientific language (decomposers, biodegradable polymer).
 - Using data or claims in a criterion D response without documenting the source.
 
+## Frequently asked questions
+
+**Which global context is most common in MYP Sciences?**
+The IB MYP Sciences guide notes that many science inquiries sit easily in scientific and technical innovation. However, students should meet all six global contexts over the course, not just that one.
+
+**What makes a strong statement of inquiry in MYP Sciences?**
+It joins a key concept, one or more related concepts and a global context in one sentence. A strong one does not name the specific topic, so it would still be true for other cases.
+
+**What are factual, conceptual and debatable inquiry questions?**
+Factual questions are answered by recall or measurement, conceptual questions are about big ideas that transfer, and debatable questions have more than one defensible answer. Debatable questions are where the global context and Criterion D meet most clearly.
+
+**How do the Criterion D command terms change across the year 5 levels?**
+For strand 2, the descriptors climb from outline (levels 1–2) to describe (3–4), discuss (5–6) and discuss and evaluate (7–8). Higher levels need a judgement, not just a description.
+
 ## Official syllabus
 
 These notes follow the IB *MYP Sciences guide* (for use from September 2014/January 2015; published May 2014, updated May 2019), published by the International Baccalaureate Organization. Your teacher will share the task-specific clarifications for each assessed task.

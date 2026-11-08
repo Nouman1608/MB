@@ -136,6 +136,20 @@ Judgement: the policy is justified on health grounds if it allows exceptions and
 - Discussing implications without a final judgement.
 - Hypotheses with a prediction but no scientific reasoning.
 
+## Frequently asked questions
+
+**What are common mistakes in MYP Sciences global contexts questions?**
+Frequent slips include naming a global context where Criterion D needs a factor, labelling a unit's context with no reason linked to the issue, and writing statements of inquiry that name the topic and so do not transfer.
+
+**How do you justify which global context fits a science unit?**
+Give a reason that links the context to the unit's issue, such as who benefits from a technology or how it affects shared resources. A label with no reason earns little.
+
+**What should a Criterion D discussion end with?**
+It should end with a final judgement that weighs the implications. Discussing implications without a conclusion limits the level that can be reached.
+
+**What is the key concept list for MYP Sciences?**
+Sciences contributes the key concepts change, relationships and systems, though units may use others such as creativity. Related concepts include balance, consequences, energy, environment, evidence, form, function, interaction, models, movement, patterns and transformation.
+
 ## Next steps
 
 - [Global contexts revision notes](/resources/ib-myp-sciences-global-contexts-revision-notes/)

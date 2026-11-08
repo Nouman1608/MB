@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Condensed IB MYP Sciences revision notes on natural selection, evolution evidence, energy transfer, symbiosis and sampling, with a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -183,6 +185,20 @@ Criteria use eight achievement levels (1–8) in four bands. Recall questions tr
 - Calling commensalism "mutualism", or giving the type of symbiosis with no reason.
 
 Next: work through the [practice questions](/resources/ib-myp-sciences-evolution-and-interactions-practice/), then check the [investigation skills exam preparation](/resources/ib-myp-sciences-investigation-skills-exam-preparation/) and the [assessment revision notes](/resources/ib-myp-sciences-assessment-revision-notes/) for the task structure.
+
+## Frequently asked questions
+
+**How do you calculate the efficiency of energy transfer in a food chain?**
+Efficiency (%) = energy passed to the next level ÷ energy in the previous level × 100. The rest of the energy is transferred to the surroundings, mostly as heat.
+
+**How do you estimate a plant population with quadrats?**
+Place quadrats at random, find the mean number per quadrat, divide by the area of one quadrat to get the density, then multiply by the total area of the habitat.
+
+**What are homologous structures?**
+Homologous structures have the same basic plan but different uses, such as the pentadactyl limb in a human arm and other vertebrate limbs. They are evidence that species share a common ancestor.
+
+**What is the capture-mark-recapture formula?**
+Estimated population = number marked in the first sample × total caught in the second sample ÷ number of marked animals in the second sample. It assumes marks do not harm the animals or rub off and that marked animals mix back into the population.
 
 ## Official syllabus
 

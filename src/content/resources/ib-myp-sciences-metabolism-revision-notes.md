@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Condensed IB MYP Sciences metabolism notes: key definitions, equations, enzyme and limiting-factor rules, data methods and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -190,6 +192,20 @@ Remember: only one factor limits the rate at any moment. Raising a factor that i
 - Stating an exact optimum from readings taken 10 units apart.
 
 Next: try the [metabolism practice questions](/resources/ib-myp-sciences-metabolism-practice/), or revisit how the criteria are judged in the [criteria in practice revision notes](/resources/ib-myp-sciences-criteria-in-practice-revision-notes/).
+
+## Frequently asked questions
+
+**What are the equations for respiration and photosynthesis?**
+Aerobic respiration: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O. Photosynthesis is the reverse: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, using light energy absorbed by chlorophyll.
+
+**Is bile an enzyme?**
+No. Bile is made in the liver and stored in the gall bladder; it emulsifies fats into small droplets, giving lipase more surface area to work on.
+
+**How does moving a lamp change light intensity?**
+Light intensity is proportional to 1/d², where d is the distance from the lamp. Doubling the distance cuts the intensity to a quarter, not a half.
+
+**How do you turn reaction times into a rate?**
+A shorter time means a faster reaction, so use rate = 1/time, or 1000/time to avoid tiny decimals. Always give the rate's unit.
 
 ## Official syllabus
 

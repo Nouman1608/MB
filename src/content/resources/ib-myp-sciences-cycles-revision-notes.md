@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Condensed IB MYP Sciences revision notes on the carbon, water, nitrogen and rock cycles, with key terms, human impacts and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -169,6 +171,20 @@ A cycle is a **system**: matter moves between **stores** by **processes**, and t
 - Linking deforestation only to carbon and forgetting its effect on transpiration and runoff.
 - In criterion D, describing a solution without evaluating it, or giving no final judgement.
 - Using everyday words ("pollution", "gets used up") where a scientific term (eutrophication, dissolved oxygen, respiration) is expected.
+
+## Frequently asked questions
+
+**What are the word equations for photosynthesis and respiration?**
+Photosynthesis: carbon dioxide + water → glucose + oxygen, using light energy and chlorophyll. Respiration: glucose + oxygen → carbon dioxide + water, releasing energy.
+
+**What is eutrophication?**
+Eutrophication happens when nitrate runs off fields into water, algae grow fast and block light, water plants die, and decomposers breaking them down use up the oxygen, so fish and other animals die.
+
+**How does metamorphic rock form?**
+Metamorphic rock forms when existing rock is changed by high temperature and pressure without melting; for example, limestone becomes marble and shale becomes slate. If the rock melts fully it becomes magma instead.
+
+**What is transpiration in the water cycle?**
+Transpiration is the evaporation of water from leaves, mostly through the stomata, which pulls water up from the roots. It is not evaporation from the soil.
 
 ## Official syllabus
 

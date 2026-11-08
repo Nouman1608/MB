@@ -18,7 +18,9 @@ syllabusTopics:
 description: "IB MYP Sciences study guide to cells and organisms: cell structure, organelles, microscopy and magnification, specialised cells and classification."
 author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -244,6 +246,23 @@ The global context **scientific and technical innovation** fits the story of mic
 - Confusing magnification with resolution.
 - Writing *panthera Leo* -- the genus takes the capital, the species does not.
 - Describing a feature of a specialised cell without explaining how it helps.
+
+## Frequently asked questions
+
+**What is the difference between magnification and resolution?**
+Magnification is how many times bigger the image is than the real object, while resolution is the ability to see two close points as separate. Enlarging a blurred image increases magnification without improving resolution.
+
+**How do you calculate magnification?**
+Magnification equals image size divided by actual size, with both sizes in the same unit first. Magnification has no unit and is written as, for example, ×500.
+
+**What is the difference between prokaryotic and eukaryotic cells?**
+Eukaryotic cells, such as animal and plant cells, keep their DNA inside a nucleus and have membrane-bound organelles. Prokaryotic cells, such as bacteria, have no nucleus, but they still have DNA.
+
+**Do plant cells have mitochondria?**
+Yes. Plant cells have mitochondria as well as chloroplasts, because plants respire all the time. Root cells, which are underground, have no chloroplasts.
+
+**Are cells and organisms in the IB MYP Sciences syllabus?**
+The IB MYP Sciences subject brief (from 2014) lists "cells" and "organisms" among its topics. MYP has no prescribed content list, so schools design their own units around them.
 
 ## Next steps
 

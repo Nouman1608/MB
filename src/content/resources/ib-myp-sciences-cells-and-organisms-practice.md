@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Original IB MYP Sciences practice questions on cells and organisms, from magnification sums to a stomata investigation, with fully worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -192,6 +194,20 @@ Useful facts: 1 mm = 1000 µm; 1 µm = 1000 nm; magnification = image size ÷ ac
 - "Keep everything the same" in place of named control variables.
 - Conclusions that ignore sample size and the spread of the data.
 - In evaluations, covering only one option or giving no final judgement.
+
+## Frequently asked questions
+
+**What are the most common mistakes in microscopy calculations?**
+Students often divide a length in mm by a length in µm without converting first, or give magnification a unit. When working out the area of a field of view, using the diameter instead of the radius is another frequent error.
+
+**How do you explain an adaptation of a specialised cell?**
+Use the pattern feature, then how it helps: name the feature and explain how it suits the cell's function. Giving a feature with no explanation earns little.
+
+**What should I include when planning a cells investigation?**
+Name the specific control variables rather than writing "keep everything the same", and consider sample size and the spread of the data when drawing conclusions.
+
+**How are these IB MYP Sciences answers marked?**
+Real MYP work is judged against criterion level descriptors with eight achievement levels in four bands, so the mark points on this page are a revision aid, not IB marks.
 
 ## Next steps
 

@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Twelve original IB MYP Sciences practice questions on states of matter, density, gas pressure and separation, with worked answers for criteria A to D."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -159,6 +161,20 @@ Revise first from the [study guide](/resources/ib-myp-sciences-states-and-proper
 - Measuring Rf distances from the paper's bottom edge instead of the baseline.
 - Listing variables in a design task without saying how each control is kept constant.
 - Ending an "evaluate" answer without a judgment.
+
+## Frequently asked questions
+
+**What are common mistakes in states of matter questions?**
+Frequent slips include saying the temperature rises during melting, freezing or boiling, explaining gas pressure without mentioning collisions with the container walls, and saying particles get bigger when heated.
+
+**What units should I use in energy and density calculations?**
+Give every density a unit, and use time in seconds in E = P × t, not minutes. Mixing units, such as grams with cubic metres, is a common error.
+
+**Where should Rf distances be measured from?**
+Measure both distances from the pencil baseline, not from the bottom edge of the paper.
+
+**How should I describe control variables in an MYP Sciences design task?**
+List each control variable and say how it is kept constant. Listing variables without a method is a frequent way to lose credit.
 
 ## Next steps
 

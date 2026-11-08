@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Condensed IB MYP Sciences revision notes on electromagnetism and waves: key rules, v = fλ methods, the EM spectrum table and a checked self-test."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -188,6 +190,20 @@ All EM waves: transverse, travel in a vacuum at 3.0 × 10⁸ m/s, transfer energ
 - Swapping the order of ultraviolet and X-rays, or putting infrared after visible.
 - Giving a hazard with no mechanism in a criterion D answer ("X-rays are dangerous") instead of "ionising radiation can damage cells and cause cancer".
 - Final numerical answers with no unit.
+
+## Frequently asked questions
+
+**What is the wave equation?**
+Wave speed = frequency × wavelength, or v = fλ. Convert to base units first, such as MHz to Hz and cm to m, before substituting.
+
+**How do you use Fleming's left-hand rule?**
+Hold your first finger, second finger and thumb at right angles: the first finger points along the field (N to S), the second finger along the current and the thumb gives the direction of the force (motion).
+
+**What speed do electromagnetic waves travel at?**
+All electromagnetic waves travel at 3.0 × 10⁸ m/s in a vacuum and need no medium. Higher-frequency waves carry more energy per wave, so the high-frequency end of the spectrum is the most harmful.
+
+**How do you calculate distance from an echo?**
+Multiply the speed of sound by the time to find the total distance travelled, then halve it, because the sound goes to the reflecting surface and back.
 
 ## Official syllabus
 

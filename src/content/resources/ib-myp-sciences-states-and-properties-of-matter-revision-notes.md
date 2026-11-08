@@ -18,7 +18,9 @@ order: 29
 description: "Condensed IB MYP Sciences revision notes on matter: particle model tables, changes of state, density, gas pressure, separation methods and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -188,6 +190,20 @@ The brief names energy, movement, transformation and models as examples of relat
 - Describing evaporation as happening only at 100 °C.
 - In a design task, naming "temperature" as a controlled variable but not saying how you would keep it constant.
 - Calling a sharp melting point "proof" of a substance's identity; it shows purity and supports identification when compared with data.
+
+## Frequently asked questions
+
+**How do you calculate an Rf value in chromatography?**
+Rf = distance moved by the spot ÷ distance moved by the solvent front, with both distances measured from the baseline. Rf is always between 0 and 1.
+
+**How can you tell if a substance is pure from its melting point?**
+A pure substance melts and boils at fixed, sharp temperatures. An impure substance melts over a range of temperatures, so its melting point is not sharp.
+
+**What is the difference between an element, a compound and a mixture?**
+An element contains only one type of atom, a compound contains two or more elements chemically joined in fixed proportions, and a mixture contains substances not chemically joined that can be separated by physical methods.
+
+**Do particles get bigger when a substance is heated?**
+No. When a gas or solid is heated, the particles move or vibrate more and the spaces between them increase; the particles themselves do not expand.
 
 ## Official syllabus
 
