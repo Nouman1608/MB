@@ -230,6 +230,20 @@ Finance questions often join sections. A firm short of cash (3.6.2) may need an 
 - Evaluating with no judgement at the end.
 - Describing a statement of financial position as covering a year.
 
+## Frequently asked questions
+
+**Are formulae given in the OxfordAQA IGCSE Business exam?**
+No. In OxfordAQA International GCSE Business (9225) you will not be given formulae, so you need to learn them. You will not be asked to draw break-even charts or use the break-even formula, nor to construct an entire cash flow forecast.
+
+**Why do new businesses find it harder to raise finance?**
+New businesses have no track record, so lenders see more risk. Established businesses have a profit history, assets and credibility, which makes borrowing easier.
+
+**How do you calculate the payback period?**
+Add the yearly net cash inflows to make a running total and find the year in which the cost is recovered. For the part-year, divide the amount still needed by that year's inflow and convert it into months.
+
+**How do you judge a business's financial performance?**
+Use four comparisons: current performance, performance against previous years, performance against competitors, and the view of each stakeholder, such as owners, lenders, employees and suppliers.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225), version 3.1, first teaching September 2020, first examined May/June 2022, section 3.6 Finance. Published by OxfordAQA.

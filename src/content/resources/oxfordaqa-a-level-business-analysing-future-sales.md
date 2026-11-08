@@ -264,9 +264,6 @@ Next: shrink this page into the [revision notes](/resources/oxfordaqa-a-level-bu
 
 ## Frequently asked questions
 
-**What is a sales forecast?**
-A sales forecast is an estimate of the sales volume or sales revenue a business expects over a future period. It can be quantitative, using past sales to find a pattern, or qualitative, using informed judgement.
-
 **Which OxfordAQA 9725 paper tests sales forecasting?**
 Section 3.3 is covered by Unit 3: Business analysis of OxfordAQA International A-level Business (9725). That exam lasts 1 hour 45 minutes, carries 80 marks and is worth 30% of the International A-level.
 

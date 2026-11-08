@@ -250,9 +250,6 @@ A weaker pound helps exporters, who earn more pounds per foreign sale or can cut
 **What is the difference between globalisation and a global strategy?**
 Globalisation is a trend in the business environment that no single firm controls. A global strategy is a plan a particular business chooses in order to respond to that trend.
 
-**What is the difference between free trade and a trading bloc?**
-Free trade means trade without tariffs, quotas or similar barriers between trading partners. A trading bloc is a group of countries that cuts barriers between its members while often keeping barriers against countries outside it.
-
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR, for first assessment in 2017 with final assessment in summer 2027. Content covered: The global environment of business.

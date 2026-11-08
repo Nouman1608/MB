@@ -297,17 +297,11 @@ An **operations strategy** is the long-term plan combining operations decisions 
 **What is added value in OCR A Level Business?**
 Added value is the selling price minus the cost of bought-in materials and services. In OCR A Level Business (H431) it is not the same as profit, because overheads such as wages and rent have not yet been deducted.
 
-**What is lean production?**
-Lean production minimises waste of materials, time, space and effort while keeping quality, in order to cut costs and respond quickly to customers. Its methods include just in time, kaizen, cell production and time-based management, but it can make supply fragile and relies heavily on staff commitment.
-
 **How is PERT different from critical path analysis?**
 PERT allows for uncertainty by using an optimistic, a most likely and a pessimistic time for each activity to give an expected time, rather than a single fixed duration. Like critical path analysis, it depends on the accuracy of the estimates.
 
 **What is the difference between offshoring and re-shoring?**
 Offshoring moves business activities to another country, often to cut labour costs, while re-shoring brings them back to the home country. Offshoring raises communication, quality and transport risks, whereas re-shoring improves control but usually costs more.
-
-**What are internal and external economies of scale?**
-Internal economies of scale come from the firm's own growth, such as technical, purchasing, financial, marketing and managerial economies. External economies come from the growth of the industry or area the firm operates in.
 
 ## Official syllabus
 

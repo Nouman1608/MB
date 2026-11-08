@@ -244,9 +244,6 @@ Risk generally rises as a business moves away from what it knows, so market pene
 **Why might a business change its strategy?**
 A business may change strategy because of external change, such as new competitors, falling demand, new technology or changes in law or the economy, or internal change such as new leadership, new objectives or poor results. It may also change when the current strategy has achieved what it can, such as in a saturated home market. Challenges include the cost and time before any return and resistance from employees.
 
-**How is strategy linked to functional decisions?**
-The chain runs from mission to corporate objectives, strategy, functional objectives and functional decisions. The link runs both ways, because what the functions can do limits which strategy is realistic.
-
 **What are the advantages and risks of market development?**
 Market development sells existing products in new markets, which spreads risk across markets and can extend a product's life. Its limits are that the business may not understand local tastes, laws or competitors, and it needs new distribution.
 

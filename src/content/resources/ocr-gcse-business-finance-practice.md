@@ -137,9 +137,6 @@ These questions cover section 5, Finance (5.1 to 5.5), of the OCR GCSE (9-1) Bus
 **What finance topics are tested in OCR GCSE Business J204?**
 Section 5 of OCR GCSE (9-1) Business (J204) covers the finance function, sources of finance, revenue, costs, profit and loss including margins and average rate of return, break-even, and cash and cash flow.
 
-**Where are marks usually lost on GCSE Business finance questions?**
-Common losses include listing sources of finance without linking them to the business, using net profit when gross profit is asked for, and averaging profit over the wrong number of years in ARR. Leaving off the percentage sign or using the wrong denominator in a margin also costs marks.
-
 **Should you round break-even output up or down?**
 Round break-even output up to the next whole unit, because selling a fraction of a unit is not possible and rounding down would leave the business just short of covering its costs.
 

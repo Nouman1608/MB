@@ -126,9 +126,6 @@ Mass option: sell 120,000 bottles a year at a price of 2.40, variable cost 1.95 
 
 ## Frequently asked questions
 
-**Where are marks usually lost on segmentation, targeting and positioning questions?**
-Common losses include naming a segmentation method without saying which variable the case uses, quoting revenue when the question asks about profit, and leaving out intermediate steps in a multi-stage calculation. Giving two challenges of repositioning that are really the same point also costs marks.
-
 **How should you evaluate niche against mass marketing?**
 Weigh the advantages and disadvantages of each for the business in the case, using any figures given, and finish with a judgement about which suits it better. Writing only advantages, with no disadvantages or judgement, limits the marks.
 

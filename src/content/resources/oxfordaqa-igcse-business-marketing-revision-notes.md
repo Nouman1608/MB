@@ -324,6 +324,20 @@ A producer sells at 16 to a wholesaler, who sells at 20 to a retailer, who sells
 - Recommending a channel without analysing the product and customer.
 - Giving a list in evaluation questions with no judgement.
 
+## Frequently asked questions
+
+**What types of market segmentation are in OxfordAQA IGCSE Business?**
+The types listed include gender, age, location and income. A segment is a group of customers with shared characteristics, so the business can fit its product and message to that group.
+
+**How do you calculate a cost-plus price?**
+Multiply the unit cost by the mark-up percentage and add the result to the unit cost. For example, a 25% mark-up on a cost of 22 adds 5.50, giving a price of 27.50.
+
+**What are extension strategies?**
+Extension strategies delay the decline of a product, for example new packaging, new uses, new markets, a price change, a new design or more promotion. Judge them by their cost against the likely extra sales.
+
+**What is the purpose of promotion?**
+Promotion aims to inform, persuade and remind customers. Methods include advertising, sales promotions, public relations, sponsorship and personal selling.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225) specification, version 3.1, OxfordAQA, for International GCSE exams May/June 2022 onwards. Section 3.5 Marketing (3.5.1 to 3.5.4).

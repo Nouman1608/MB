@@ -110,9 +110,6 @@ Before you start, the [study guide](/resources/oxfordaqa-a-level-business-analys
 
 ## Frequently asked questions
 
-**Where are marks usually lost on moving average questions?**
-Common losses include placing a moving average against the third period instead of the middle one, dividing the total change by the number of moving averages instead of the gaps between them, and counting periods ahead from the last actual figure instead of the last moving average.
-
 **How do you show a forecast error correctly?**
 Calculate the error as actual minus forecast, divided by the forecast, multiplied by 100, and keep the sign. Then say whether sales came in above or below the forecast, because dropping the sign loses marks.
 

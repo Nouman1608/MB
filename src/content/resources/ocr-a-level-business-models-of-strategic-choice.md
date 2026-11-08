@@ -227,17 +227,14 @@ The two models answer different questions. Five Forces asks how hard it is to ea
 
 ## Frequently asked questions
 
-**What is competitive advantage?**
-A business has a competitive advantage when it has a feature that lets it outperform rivals in the same market, usually through lower costs or something customers value more. It only helps if customers notice it and rivals cannot copy it quickly.
+**What is the difference between cost focus and differentiation focus?**
+Both concentrate on a narrow segment, such as one age group, region or type of customer. Cost focus wins that segment through lower costs, while differentiation focus wins it through something customers value and will pay more for, such as quality or design.
 
-**What is the purpose of Porter's Five Forces model?**
-The model helps a business judge how attractive an industry is and how much profit it can expect from it. Strong forces mean lower profit potential, so it is most useful as a first filter for entry decisions.
+**Why is Five Forces often used alongside SWOT?**
+Five Forces describes the industry, not the business itself. A business's own strengths are a separate question, so the model is often combined with SWOT or the generic strategies in OCR A Level Business (H431) answers.
 
-**What are the limitations of Porter's generic strategies?**
-Real businesses often blend strategies, for example cutting costs and improving quality together, so four boxes can oversimplify. The model is more useful for diagnosing what a business is trying to do than as a recipe for success.
-
-**How do you evaluate a proposed position using Five Forces?**
-Compare the forces in the new market with those in the current one, rank which force limits profit most, and judge whether the new market is more attractive. In OCR A Level Business (H431) the judgement should rest on evidence from the case.
+**Can a business with a lower margin make more total profit?**
+Yes. A cost leader may earn a lower margin per unit than a differentiator but make a higher total gross profit by selling a much larger volume, so neither strategy is automatically better.
 
 ## Next steps
 

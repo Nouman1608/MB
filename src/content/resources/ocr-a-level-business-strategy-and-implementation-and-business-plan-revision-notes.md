@@ -271,17 +271,14 @@ margin of safety = 166 / 1,500 x 100 = 11.1%
 
 ## Frequently asked questions
 
-**What is the Plan-Do-Review cycle?**
-Plan-Do-Review is a repeating loop in which a business sets objectives, targets and a budget, carries out the plan and records results, then compares actual results with the plan and acts on the differences. It is a loop, not three separate words, because the review feeds the next plan.
+**What is the difference between an objective, a strategy and a tactic?**
+An objective says where the business wants to get to, a strategy says which route it will take, and tactics are the short-term actions it takes this month. In OCR A Level Business (H431), using strategy and tactics as if they meant the same thing loses marks.
 
-**What is a strategic review?**
-A strategic review is a wider and less frequent look than the Plan-Do-Review cycle at whether the business's objectives, markets and resources still fit its strategy. It can lead to the strategy itself being changed.
+**How do you calculate a budget variance?**
+A variance is the actual figure minus the budgeted figure, and it should be labelled favourable or adverse by its effect on profit. For example, wages of £9,720 against a budget of £9,000 give a £720 adverse variance, which is 8% over budget.
 
-**What are the advantages and disadvantages of a business plan?**
-A business plan forces research and clear thinking, helps win finance and sets targets to measure performance against. However, it takes time and skill to write, and its forecasts may turn out to be wrong.
-
-**Why does a business need to plan how a strategy is implemented?**
-Planning makes sure resources such as cash, staff and equipment are ready when needed, that steps happen in the right order and that someone owns each task. The cost is management time, and a rigid plan may slow the response to events.
+**How do lenders and investors use a business plan?**
+Lenders and investors use the plan to decide whether to lend or invest, and on what terms. Figures such as the margin of safety show how far sales could fall before profit disappears.
 
 ## Official syllabus
 

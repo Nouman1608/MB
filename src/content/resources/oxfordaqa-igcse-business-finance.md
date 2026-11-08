@@ -230,6 +230,23 @@ Compare current performance, performance against previous years, performance aga
 - Dividing by cost of sales instead of revenue for margins.
 - Treating the statement of financial position as covering a year; it is a snapshot.
 
+## Frequently asked questions
+
+**Which sources of finance can a new business use?**
+A new business has no profit history, so it often relies on family and friends, crowdfunding, grants or a loan with security. It cannot easily use retained profit or a share issue to the public, unlike an established business.
+
+**What are the benefits of positive cash flow?**
+Positive cash flow, with more cash coming in than going out, lets a business pay bills on time, build a reserve, invest in growth and negotiate better terms.
+
+**What is margin of safety?**
+Margin of safety is the amount by which actual or planned output is above break-even output. On a break-even chart it is read off as a horizontal distance.
+
+**What are the limitations of break-even analysis?**
+Break-even analysis assumes everything made is sold and that costs and price stay constant, ignoring bulk discounts and price cuts. It is only as good as the forecast figures it uses.
+
+**What is the difference between a current and a non-current asset?**
+Non-current assets last for more than a year, such as buildings and vehicles. Current assets are short-term, such as inventories, receivables and cash.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225), version 3.1, first teaching September 2020, first examined May/June 2022, section 3.6 Finance. Published by OxfordAQA.

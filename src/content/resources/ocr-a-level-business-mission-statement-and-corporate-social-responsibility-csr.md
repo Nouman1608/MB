@@ -227,20 +227,17 @@ Justify by linking to cost, timing and credibility. A low-cost, visible action m
 
 ## Frequently asked questions
 
-**What is a mission statement in OCR A Level Business?**
-A mission statement is a short, public statement of what a business is for: what it does, for whom, and often how or why. In OCR A Level Business (H431) it sits at the top of the planning chain, so aims, objectives, strategy and tactics should all be consistent with it.
-
 **What is the difference between a mission statement and an objective?**
 A mission statement is broad, usually non-numerical and meant to last several years. An objective is a specific, measurable target, so writing a mission as a numerical target is a common error.
 
-**Does corporate social responsibility just mean giving money to charity?**
-No. CSR covers how the whole business operates, including fair pay and working conditions, ethical sourcing, reducing waste and emissions and honest marketing, as well as supporting local causes.
-
-**Why can CSR conflict with profit?**
-CSR can raise costs or reduce revenue, for example by paying above the market wage or buying more expensive materials, which lowers short-run profit. The conflict is not inevitable, because good CSR can also lift sales, help recruitment and retention, and reduce the risk of fines and bad publicity.
-
 **How do you answer a "recommend and justify" question on a mission statement?**
 Make a clear choice of statement that fits the business in the case, then give reasons linked to its product, customers and values. A fuller answer adds a limitation, such as a word like "finest" not being measurable, so objectives must turn it into targets.
+
+**Why might a business change its mission statement?**
+A business may change its mission after a takeover, a change of ownership, entry to new markets, a scandal or a shift in customer values. The impact depends on how far the new wording differs from the old and how well the change is explained.
+
+**Which OCR A Level Business sections cover mission statements and CSR?**
+Section 1.3 (Mission statement) and section 1.4 (Corporate social responsibility) of the OCR A Level Business specification (H431) cover them, within the Business objectives and strategy area of study.
 
 ## Next steps
 

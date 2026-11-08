@@ -154,9 +154,6 @@ These questions cover section 2, Marketing, of OCR GCSE (9-1) Business (J204), V
 **What does OCR GCSE Business section 2 Marketing cover?**
 Section 2 of OCR GCSE (9-1) Business (J204) covers the role of marketing, market research, market segmentation and the marketing mix, including interpreting market data. Questions often combine a calculation, such as market share, with an explanation.
 
-**Where are marks usually lost on marketing questions?**
-Common losses include giving a market share figure without comparing it with sales growth, dividing by the new figure in a percentage change, and leaving out the percentage sign or the direction of a change. Choosing a research method without linking it to what the business needs to find out also costs marks.
-
 **Is qualitative data less reliable than quantitative data?**
 Not simply. Calling qualitative data "less reliable" loses marks unless you also say what it reveals that numbers cannot, such as the reasons behind customers' opinions.
 

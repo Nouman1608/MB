@@ -148,9 +148,6 @@ Judgement: network analysis is necessary but not sufficient. It shows that 12 we
 
 ## Frequently asked questions
 
-**Where are marks usually lost on network analysis questions?**
-Common losses include taking the lower value when two arrows enter a node on the forward pass, taking the higher value when two arrows leave a node on the backward pass, and calculating float without subtracting the duration. Naming a critical path without stating the project duration also costs marks.
-
 **Does every delay to an activity extend the whole project?**
 No. Compare the delay with the activity's total float: if the extra time is no more than the float, the project length is unchanged. Only a delay greater than the float, or a delay on the critical path, extends the project.
 

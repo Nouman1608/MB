@@ -120,6 +120,17 @@ Exercise books: 2,000 sold at £6, falling to 1,920 at £6.
 - Offering a general judgement that is not linked to the figures or the case.
 - Treating Sharia compliant finance as having no payments at all.
 
+## Frequently asked questions
+
+**How should you use the figures in an evaluation answer?**
+Link your judgement to the figures and facts in the case rather than offering a general view. A judgement that could be pasted onto any other business has not used the case.
+
+**What is the most common slip in percentage fall calculations?**
+Dividing by the wrong base. A percentage fall is the change divided by the original figure, multiplied by 100.
+
+**Which part of OxfordAQA IGCSE Business 9225 do these questions cover?**
+They cover sections 3.2.3 The economic climate on business and 3.2.4 Globalisation of OxfordAQA International GCSE Business (9225).
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation/).

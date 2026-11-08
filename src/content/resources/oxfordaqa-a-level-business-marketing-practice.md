@@ -158,8 +158,5 @@ The 9625 Unit 1: Business and markets paper is a 1 hour 30 minute written exam w
 **How is the 9725 Unit 1 paper different?**
 The 9725 Unit 1 paper lasts 1 hour 15 minutes and is worth 60 marks, in four sections: short answer (10 marks), calculation (10 marks), and two extended response sections worth 16 and 24 marks. 9725 also uses a 4Ps marketing mix rather than 9625's 7 elements.
 
-**Where are marks usually lost on OxfordAQA marketing questions?**
-Common losses include confusing a marketing objective with a marketing plan, treating segmentation, targeting and positioning as separate topics rather than a chain, and stating whether demand is elastic or inelastic without linking it to the change in total revenue. Naming a Boston Matrix category without a matching strategy also costs marks.
-
 **How are the 12-mark evaluation questions marked in this practice paper?**
 They are marked as whole answers against levels, with the top level needing balanced analysis that leads to a supported judgement explaining what the answer depends on. These level descriptors are Marlbridge's own guide, not OxfordAQA's published mark scheme.

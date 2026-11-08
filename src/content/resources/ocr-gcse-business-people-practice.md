@@ -110,9 +110,6 @@ Businesses and people are invented. Ivy Gate Cafe is a busy cafe with 14 staff. 
 **What does section 3 People cover in OCR GCSE Business J204?**
 Section 3 of OCR GCSE (9-1) Business (J204) covers the role of human resources, organisational structures and ways of working, communication, recruitment and selection, motivation and retention, training and development, and employment law.
 
-**Where are marks usually lost on People questions?**
-Common losses include writing a list when the command word is explain or analyse, giving a calculation with no working or units, and mixing up span of control with chain of command. Describing a method in general instead of using the case study also limits marks.
-
 **How do you avoid mistakes in bonus and profit-sharing calculations?**
 Apply the percentage only to the part of the amount the question names, such as sales above a target, rather than to the full figure. Show your working and give the answer in pounds.
 

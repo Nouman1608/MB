@@ -199,9 +199,6 @@ Multiply each year's net cash flow by its discount factor, add the present value
 **How do you calculate the average rate of return?**
 Add all net cash inflows and subtract the cost to get total profit, divide by the number of years to get average annual profit, then divide by the cost and multiply by 100.
 
-**What factors influence investment decisions apart from the numbers?**
-Investment criteria, non-financial factors such as effects on employees and the environment, risk, uncertainty, business confidence and opportunity cost all influence the decision. A project may pass on one appraisal method and fail on another, so managers must decide which matters most.
-
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

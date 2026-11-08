@@ -140,9 +140,6 @@ These questions cover topic 4, Operational strategy, in the OCR A Level Business
 **What calculations come up in OCR A Level Business operational strategy questions?**
 Topic 4 of OCR A Level Business (H431) includes added value, labour productivity, capacity utilisation, wastage rates, stock control charts, critical path analysis and PERT. Calculation questions are often followed by a part asking you to analyse or explain what the figure means.
 
-**What are the most common mistakes in operations calculations?**
-Common slips are treating added value as profit, leaving out the multiplication by 100 when a percentage is asked for, and forgetting to subtract usage during the lead time in stock control. Showing each step of working helps you keep method marks even if the final figure is wrong.
-
 **How should you answer a "recommend" question on operations, such as choosing a stock control method?**
 Choose one option, give reasons drawn from the case, such as supplier distance and reliability or stock costs, and explain why the main alternative is weaker. Saying a method like JIT is always best without discussing the case is a common way to lose marks.
 

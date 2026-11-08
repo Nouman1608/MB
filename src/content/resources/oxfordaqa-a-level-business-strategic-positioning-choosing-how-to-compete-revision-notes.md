@@ -178,6 +178,20 @@ Method for "which position should X choose?":
 - Naming difficulties of keeping an advantage without explaining how each would cut profit for this business.
 - Concluding with "it depends" and no stated deciding factor.
 
+## Frequently asked questions
+
+**What are the limitations of market mapping?**
+A market map uses only two variables, a gap on it may have no demand, perceptions differ between segments and change over time, and maps based on opinion may be biased. Its value is that it is fast and visual and shows rivals and gaps.
+
+**What is the difference between low cost and low price?**
+Low cost is about the business's cost base, while low price is a choice that a low-cost business may or may not make. A low-cost firm can match rivals' prices and earn a higher margin instead.
+
+**Why is a competitive advantage hard to maintain?**
+Rivals may imitate it or patents may expire, tastes may change, technology may make a feature standard, and new entrants, rising input costs or complacency can erode it.
+
+**How can a business protect its competitive advantage?**
+It can keep innovating, build a brand, protect ideas legally, secure supply, invest in staff skills and keep cutting costs. Each costs money, so weigh the cost against how long the advantage is likely to last.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

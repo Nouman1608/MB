@@ -244,9 +244,6 @@ Impact on decision making: it forces comparison of options, shows that a positiv
 **What is the difference between risk and uncertainty?**
 Risk can be measured, for example with probabilities from past data, while uncertainty cannot be given reliable probabilities. Decision trees and expected value handle risk, but uncertainty is managed through flexibility, scenario planning and cash reserves.
 
-**What is the difference between quantifiable and unquantifiable risk?**
-A quantifiable risk can be given a number for its likelihood or size of loss, using past data, records or research. An unquantifiable risk has no reliable basis for a number and has to be judged instead.
-
 **How does uncertainty affect business objectives?**
 Under uncertainty, targets may become unrealistic or need to be set as ranges, and survival may take priority over growth. Planning and investment decisions may also be delayed until the situation is clearer.
 

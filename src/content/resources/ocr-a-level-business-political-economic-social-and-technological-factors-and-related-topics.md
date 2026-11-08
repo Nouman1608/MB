@@ -280,9 +280,6 @@ A subsidy is money paid by government to a business or industry to lower its cos
 **What does sustainability mean in OCR A Level Business?**
 Sustainability means using resources so that today's needs are met while future generations can still meet theirs. In OCR A Level Business (H431) you evaluate sustainable actions by weighing their cost against savings, brand effects and stakeholder reactions.
 
-**What are the risks of a business ignoring external factors?**
-A business that ignores external factors risks being caught out by tax or interest rate changes, falling behind on technology, breaking the law or losing customers to rivals who adapt faster. This can mean lost sales, fines, rising costs and reputational harm.
-
 ## Official syllabus
 
 OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.

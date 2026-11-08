@@ -114,9 +114,6 @@ Teaching first: [study guide](/resources/oxfordaqa-a-level-business-analysing-th
 
 ## Frequently asked questions
 
-**Where are marks usually lost on external environment questions?**
-Common losses include converting currency the wrong way, treating a change in index points as the percentage change, and using the original loan rather than the outstanding balance in interest calculations. Naming an external change without tracing its effect to a functional area also costs marks.
-
 **What is the difference between a tariff and a quota?**
 A tariff is a tax on imported goods, which raises their price. A quota is a limit on the quantity of a good that can be imported; describing one as the other is a common error.
 

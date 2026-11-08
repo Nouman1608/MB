@@ -213,9 +213,6 @@ A trade agreement removes import tariffs on cement, so overseas producers can se
 **What is Porter's five forces model?**
 Porter's five forces model analyses the pressures that shape how much profit firms in an industry can make: rivalry, buyer power, supplier power, the threat of entry and the threat of substitutes. In OxfordAQA A-level Business (9725) it is part of section 3.3.3, Analysing the industry environment.
 
-**What are the limitations of the five forces model?**
-It is a snapshot of a changing industry, industry boundaries are hard to draw, and the forces are judged rather than measured. Firms within one industry also differ, so it should be used alongside PESTLE analysis.
-
 **How can a business weaken the five forces it faces?**
 A business can act to weaken a force, for example differentiating through branding to reduce rivalry or using several suppliers and long-term contracts to cut supplier power. Each action has a cost, so it should be assessed rather than simply listed.
 

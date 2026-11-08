@@ -222,9 +222,6 @@ Reasons to hold inventory: unexpected demand, late deliveries, bulk discounts, s
 
 ## Frequently asked questions
 
-**What are the four elements of lean production in OxfordAQA 9725?**
-The four elements are just in time, kaizen, standardised processes and teamwork. Lean production cuts waste and inventory costs but needs reliable suppliers and is vulnerable to disruption.
-
 **How do you calculate the re-order level?**
 The re-order level is buffer stock plus usage per period multiplied by the lead time. It is a level of inventory, which is different from the re-order quantity, the amount ordered.
 

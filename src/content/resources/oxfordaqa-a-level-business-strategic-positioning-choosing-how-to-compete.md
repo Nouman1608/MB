@@ -247,6 +247,17 @@ Fall = 102,000 − 35,100 = £66,900
 - Saying a market map "proves" a gap should be filled. It shows a gap, not demand or profit.
 - Ending a positioning answer without a judgement that weighs risk, not just base-case profit.
 
+## Frequently asked questions
+
+**What is a market map?**
+A market map, also called a perceptual or positioning map, plots the brands or businesses in a market against two features customers use to compare them, such as price and quality. It shows where competitors are positioned and can reveal gaps in the market.
+
+**Can a business charge more than its rivals?**
+Only if customers believe they receive more benefits. A business offering the same or fewer benefits than rivals at a higher price is unlikely to succeed.
+
+**Which OxfordAQA 9725 paper tests strategic positioning?**
+All of section 3.4 is examined in Unit 4: Business strategy, a 1 hour 45 minute written exam worth 80 marks and 30% of the International A-level. It has two compulsory sections, each built on one case study with questions worth 40 marks.
+
 ## Next steps
 
 For quick recall use the [revision notes](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-revision-notes/), apply them in the [practice questions](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-practice/), and use [OxfordAQA A-level Business exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/) for case study technique. For AS positioning, see the [AS marketing guide](/resources/a-level-oxfordaqa-business-marketing/).

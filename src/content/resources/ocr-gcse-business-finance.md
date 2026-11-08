@@ -274,14 +274,8 @@ February ends £200 overdrawn. Remedies include arranging an overdraft, asking s
 
 ## Frequently asked questions
 
-**What is average rate of return in OCR GCSE Business?**
-Average rate of return (ARR) compares the profit an investment earns with what it cost: average annual profit divided by the cost of the investment, multiplied by 100. In OCR GCSE Business (J204) a higher ARR means more return for each pound spent, though it does not allow for risk.
-
 **What is the difference between fixed and variable costs?**
 Fixed costs, such as rent, do not change as output changes in the short term. Variable costs, such as materials, rise and fall with output.
-
-**Why do new and established businesses use different sources of finance?**
-A new business has no profit history, so retained profit is not available and lenders may hesitate, so it tends to rely on owners' capital, family and friends, crowdfunding or a small loan. An established business has trading records, assets and retained profit, so it can borrow more easily or, if a company, issue shares.
 
 **What does break-even tell a business?**
 Break-even is the level of sales at which total costs equal total revenue, so the business makes neither a profit nor a loss. It informs marketing and planning decisions, such as whether a price or sales target is realistic.

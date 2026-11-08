@@ -109,9 +109,6 @@ These questions cover sections 3.1.2.1 Marketing objectives and plans and 3.1.2.
 
 ## Frequently asked questions
 
-**Where are marks usually lost on marketing data questions?**
-Common losses include reporting a figure without comparing it with something or giving a reason, using revenue instead of profit in a return calculation, and treating a correlation as proof of cause. Treating a confidence interval as an exact figure also costs marks.
-
 **Do these questions cover both OxfordAQA 9625 and 9725?**
 Yes. They cover sections 3.1.2.1 Marketing objectives and plans and 3.1.2.2 Marketing data, and some points apply to only one specification, so check which code you are sitting. Describing a 9725-only point as a 9625 point, or the reverse, is a common error.
 

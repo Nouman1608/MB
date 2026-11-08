@@ -122,6 +122,17 @@ Practice for section 3.1.1.3, The external environment, in the OxfordAQA Interna
 - Mixing up a strong and a weak currency, especially for exporters.
 - Giving a conclusion in an evaluation question with no reasons or numbers behind it.
 
+## Frequently asked questions
+
+**How do you write a good chain of analysis for an external change?**
+Name the change and who it affects, say whether it acts on costs or demand, then follow it through to the business's decisions and profit. Writing "profit falls" with no chain from the change earns little credit.
+
+**How should you answer a question about barriers to entry?**
+Explain why each barrier blocks entry rather than just listing it, and consider effects on both existing businesses and customers when asked. Writing from one side only limits the marks.
+
+**Which OxfordAQA section do these questions cover?**
+They cover section 3.1.1.3, The external environment, of OxfordAQA International AS and A-level Business, written for both 9625 and 9725.
+
 ## Next steps
 
 - [Revision notes](/resources/oxfordaqa-a-level-business-the-external-environment-revision-notes/)

@@ -138,6 +138,17 @@ Links: [study guide](/resources/oxfordaqa-a-level-business-the-nature-and-purpos
 - Listing stakeholders instead of explaining how the decision changes things for each.
 - Ending an "evaluate" or "justify" answer with a choice but no reason or condition.
 
+## Frequently asked questions
+
+**Is a plc part of the public sector?**
+No. A public limited company is owned by its shareholders and belongs to the private sector; public sector organisations are government-owned and government-run. Treating a plc as public sector is a common error.
+
+**What is the most common slip in decision tree questions?**
+Stopping at expected value without subtracting the cost of each option to find the net gain. Compare net gains when options cost different amounts.
+
+**Which OxfordAQA sections do these questions cover?**
+They cover sections 3.1.1.1 The nature and purpose of business and 3.1.1.2 Types of business ownership of OxfordAQA International AS and A-level Business, for both 9625 and 9725.
+
 ## Next steps
 
 - Check formulas in the [revision notes](/resources/oxfordaqa-a-level-business-the-nature-and-purpose-of-business-and-types-of-business-ownership-revision-notes/).

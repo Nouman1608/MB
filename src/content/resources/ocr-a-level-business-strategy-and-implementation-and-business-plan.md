@@ -233,9 +233,6 @@ A standard business plan includes an executive summary, a description of the bus
 **Why might a business change its strategy?**
 A business may change strategy because of falling sales, a new competitor, a change in customer tastes or new technology. Changing has costs such as retraining and disruption, but changing too late can be worse.
 
-**How do you evaluate a current or proposed strategy?**
-Judge the strategy against criteria such as fit with the objectives, affordability, the skills to manage it, and its risks, using figures from the case such as payback. Then reach a clear view on whether it should go ahead.
-
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR: the "Strategy and implementation" and "Business plan" content in the area of study "Business objectives and strategy".

@@ -108,9 +108,6 @@ These questions cover section 4, Operations, of the OCR GCSE (9-1) Business (J20
 **What does section 4 Operations cover in OCR GCSE Business J204?**
 Section 4 of OCR GCSE (9-1) Business (J204) covers production processes, quality of goods and services, the sales process and customer service, consumer law, business location and working with suppliers. These questions use invented businesses to practise each area.
 
-**Where are marks usually lost on operations questions?**
-Common losses include naming a production process loosely instead of using job, batch or flow, saying that quality control prevents faults, and leaving out the unit or the working in a calculation. Discussing e-commerce or telesales without linking it to the business in the stem also costs marks.
-
 **How do you write a good "explain" answer in GCSE Business?**
 Give a point, then develop it with a consequence for the business in the question. A benefit stated with no consequence does not earn the second mark.
 

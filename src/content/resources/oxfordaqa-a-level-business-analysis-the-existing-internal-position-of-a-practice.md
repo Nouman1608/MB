@@ -133,9 +133,6 @@ In Year 2 Kestrine borrowed to open two hotels, both opening in the final quarte
 
 ## Frequently asked questions
 
-**Where are marks usually lost on ratio analysis questions?**
-Common losses include using total assets instead of non-current liabilities plus total equity for capital employed, leaving inventory in the acid test ratio, mixing pence and pounds in dividend yield, and using closing rather than average inventory for inventory turnover.
-
 **What should you do when a question asks you to amend financial statements?**
 Change every line an event affects, not just one, because entries in the statement of financial position and income statement move together. Amending one line without its matching line is a common error.
 

@@ -245,9 +245,6 @@ Opportunity cost is what the second-best use of the same resources would have be
 **Why can a project with a positive return still be a poor choice?**
 A project can earn a positive return but still be worse than the best alternative use of the same money or resources. Opportunity cost forces a business to compare options rather than judging one project in isolation.
 
-**What are the consequences of poor risk management?**
-For the business, poor risk management can lead to unexpected losses, a cash-flow crisis, lost sales, a damaged reputation, higher borrowing costs and even closure. Owners, employees and other stakeholders can also be affected.
-
 **Can a business remove risk completely?**
 No. A business cannot remove risk, but it can reduce it through methods such as research and forecasting, and each method should be judged on its cost, effectiveness and suitability for the business.
 

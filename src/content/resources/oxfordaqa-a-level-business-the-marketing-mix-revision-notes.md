@@ -290,6 +290,20 @@ Rule of thumb: elastic, a price rise cuts revenue; inelastic, a price rise lifts
 - Describing a pricing method generically without linking it to the product, market or objective given.
 - Ignoring B2B or B2C context when the case makes it clear.
 
+## Frequently asked questions
+
+**What are the six stages of new product development?**
+The six stages, in order, are idea generation, screening, concept testing, business analysis, product testing and launch.
+
+**What are the four extension strategies in OxfordAQA Business?**
+The four extension strategies are advertising, rebranding, lowering the price and adapting the product. They are used at maturity to delay decline.
+
+**What does the sign of cross-price elasticity of demand show?**
+A positive XED shows the two products are substitutes, while a negative XED shows they are complements.
+
+**What is the difference between penetration and skimming pricing?**
+Both are demand-based. Penetration starts with a low price to win market share fast and needs price-sensitive buyers, while skimming starts high to take profit from early buyers and then falls, and needs a distinctive product.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business specification, section 3.1.2.4 The marketing mix. Text read: 9725 Version 1.1 (4Ps) and 9625 Version 3.1 (7Ps); the two differ. Published by OxfordAQA.

@@ -253,6 +253,23 @@ Profit falls in the year of purchase if paid from cash, but emissions and later 
 - Saying ethical behaviour always increases profit. It often does not, at least at first.
 - Listing environmental issues without a cost and a benefit for the business.
 
+## Frequently asked questions
+
+**What is the trade-off between ethics and profit?**
+Ethical choices such as paying suppliers more often raise costs and cut profit per unit, but they may bring loyalty, a better reputation and more sales. Weigh the cost against the likely benefit for the specific business before reaching a judgement.
+
+**How does sustainability affect profit over time?**
+The trade-off between sustainability and profit often has a time dimension. Spending now cuts profit now, while savings or reputation benefits arrive later.
+
+**What two sustainability ideas does the 9225 specification name?**
+The two ideas are global warming, caused by burning fossil fuels in factories, vehicles and heating, and the use of scarce resources such as certain metals, fuels and clean water.
+
+**How should a business choose a digital communication method?**
+Choose the method to fit the stakeholder and the message. Telling many customers about a closure date suits email, while a tense negotiation with a supplier abroad may suit video conferencing, because tone and expression matter.
+
+**What are the drawbacks of e-commerce for a business?**
+Delivery, packaging and returns cost money, website, payment and security systems cost money to build and maintain, and customers cannot touch the product. Some sales may also simply move from the shop to the website, so revenue does not rise by the full amount of online sales.
+
 ## Next steps
 
 Try the [practice questions](/resources/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations-practice/), then a [free diagnostic](/diagnostics/).

@@ -143,6 +143,17 @@ This practice set is aligned to the OxfordAQA International GCSE Business (9225)
 - Evaluating without a final judgement.
 - Describing e-commerce in general terms only.
 
+## Frequently asked questions
+
+**What is the difference between mark-up and profit margin?**
+Mark-up is the amount added to cost, usually expressed as a percentage of cost. Profit margin expresses profit as a percentage of the selling price, so the two give different figures and are easy to mix up.
+
+**Does a year of flat sales mean a product is in decline?**
+Not necessarily. Flat sales usually suggest the maturity stage of the product life cycle, while decline is shown by sales falling, so reading a flat year as decline is a common error.
+
+**Which part of OxfordAQA IGCSE Business 9225 do these questions cover?**
+They cover section 3.5 Marketing of OxfordAQA International GCSE Business (9225): customers, segmentation, market research and the 4Ps of price, product, promotion and place.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-business-marketing/) for any question you missed.

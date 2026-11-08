@@ -143,9 +143,6 @@ Recommend which option Ravenholt Fitness should choose. Justify your answer usin
 **What do sections 6 and 7 of OCR GCSE Business J204 cover?**
 Section 6 covers influences on business: ethical and environmental considerations, the economic climate and globalisation. Section 7 covers the interdependent nature of business, including how the functions link, risk and reward, and the use of financial information.
 
-**Where are marks usually lost on influences on business questions?**
-Marks are often lost by naming an influence without saying what it does to the business, and by treating all businesses as equally affected by falling incomes. Writing a long paragraph when only a short definition or identification was asked for also wastes time.
-
 **What should you say when you calculate a margin?**
 State clearly whether the margin is gross or net, and give it as a percentage of revenue. A figure without its label can lose marks even when the arithmetic is right.
 

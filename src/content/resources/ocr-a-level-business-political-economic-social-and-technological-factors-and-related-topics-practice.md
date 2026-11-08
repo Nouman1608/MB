@@ -131,9 +131,6 @@ These questions are aligned to the external influences content of the OCR A Leve
 **What external factors are tested in OCR A Level Business H431?**
 The external influences content of OCR A Level Business (H431) covers political, economic, social, technological, digital, ethical, legal and environmental factors. Most questions end by asking you to evaluate the impact and importance of a change in one of these factors for a named business.
 
-**Where are marks usually lost on external factor questions?**
-Marks are often lost by writing about a factor in general terms without using the business or the figures in the question. Mixing up the direction of an effect, such as what a stronger pound does to import costs, is another common slip.
-
 **How do you approach a question on exchange rates and a business?**
 Work out the cost or revenue in pounds at each exchange rate, showing the conversion, then explain what the change means for the business's prices or margins. Then judge how important the change is, for example by considering how much of its costs or sales are in foreign currency.
 

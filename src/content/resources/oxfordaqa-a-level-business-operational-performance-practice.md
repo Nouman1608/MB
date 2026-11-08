@@ -152,9 +152,6 @@ Learn it first: [study guide](/resources/oxfordaqa-a-level-business-operational-
 
 ## Frequently asked questions
 
-**Where are marks usually lost on operational performance questions?**
-Common losses include dividing total costs by capacity instead of actual output, leaving out units or % signs, and reporting a change in output when the question asks for a change in productivity. Using the old lead time or usage rate after a chart has been amended is another frequent slip.
-
 **Which costs should you include in a make-or-buy comparison?**
 Include only the costs that would change with the decision, such as variable costs saved and the price paid to the supplier. Including costs that would stay the same either way, such as unchanged fixed costs, distorts the comparison.
 

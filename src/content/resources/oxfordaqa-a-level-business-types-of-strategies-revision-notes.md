@@ -219,6 +219,20 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-types-of-st
 - Treating TBL as only an environmental report.
 - Ending an "assess" or "evaluate" answer with no judgement about which strategy suits this business.
 
+## Frequently asked questions
+
+**How do you calculate unit cost after a change in output?**
+Find total cost as fixed costs plus variable cost per unit multiplied by output, then divide by actual output, not capacity. Using capacity as the divisor is a common error.
+
+**What is the difference between backward and forward vertical integration?**
+Backward vertical integration means buying a supplier at an earlier stage of production, which secures inputs. Forward vertical integration means buying a customer or outlet at a later stage, which controls distribution.
+
+**What is the difference between a tariff and a quota?**
+A tariff is a tax on imports, while a quota is a limit on the quantity that can be imported.
+
+**How do methods of entering a foreign market compare?**
+Ranked by control, cost and risk, exporting is lowest, followed by licensing or franchising, then a joint venture, with foreign direct investment highest.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA. Section 3.4.4 Types of strategies.

@@ -155,11 +155,5 @@ Section A of the J204/02 paper is 15 multiple-choice questions worth 1 mark each
 **Why should you write the formula before the numbers in a calculation?**
 Method marks are often available for a correctly applied method even if the final answer contains an arithmetic slip. Writing the formula first shows the examiner your method.
 
-**What happens to profit once a business passes break-even?**
-Beyond break-even, fixed costs are already covered, so each extra unit's contribution adds directly to profit. You can use the contribution per unit you have already found rather than recalculating total costs and revenue from scratch.
-
-**Where are marks usually lost on Business 2 questions?**
-Common losses include confusing quality control with quality assurance, quoting gross profit when net profit is asked for, and explaining cash flow problems only as "not enough sales" rather than a timing mismatch. On synoptic questions, answering only from Business 2 content without linking to a Business 1 decision also costs marks.
-
 **Are these real OCR past paper questions?**
 No. They are original questions written for revision in the J204/02 format, and Section B here is a shorter set of topic questions rather than a full 65-mark section.

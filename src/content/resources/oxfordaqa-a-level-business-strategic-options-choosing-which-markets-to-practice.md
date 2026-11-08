@@ -142,9 +142,6 @@ Judgement: Option A is better, because it uses existing strengths against a grow
 
 ## Frequently asked questions
 
-**Where are marks usually lost on strategic options questions?**
-Common losses include swapping market development and product development by not checking which element is new, calling market penetration risk-free, and dividing by total equity instead of capital employed in gearing. Writing "per cent" for a change in market share instead of percentage points is another frequent slip.
-
 **How do you identify the Ansoff strategy in a case?**
 Check whether the product is existing or new and whether the market is existing or new. A new market with an existing product is market development, while a new product for an existing market is product development.
 

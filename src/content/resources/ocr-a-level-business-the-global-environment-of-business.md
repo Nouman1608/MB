@@ -221,9 +221,6 @@ An emerging market is an economy that is growing quickly, industrialising and se
 **How do UK interest rates affect the value of the pound?**
 Higher UK interest rates make pound savings more attractive to overseas savers, which raises demand for pounds and tends to strengthen the pound. A stronger pound helps UK importers and makes UK exports dearer abroad.
 
-**What factors should a business consider when trading internationally?**
-Key factors include language, culture and customs, logistics, currency and buying habits in the target country. In OCR A Level Business (H431) you should evaluate each factor for the product and the country in the case.
-
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR, for first assessment in 2017 with final assessment in summer 2027. Content covered: The global environment of business, using the global and international points in the content tables.

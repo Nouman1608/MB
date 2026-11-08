@@ -215,9 +215,6 @@ Structure and empowerment also appear in the [human resources guide](/resources/
 
 ## Frequently asked questions
 
-**What is Lewin's force field analysis?**
-Force field analysis lists the driving forces pushing for a change and the restraining forces resisting it, scores each one and compares the totals. It makes managers consider every force, but the scores are subjective judgements.
-
 **What is the difference between risk and uncertainty?**
 Risk is the chance that an outcome differs from the plan where the possible outcomes can be identified and estimated. Uncertainty covers events that cannot be predicted, so it is managed through broader approaches such as scenario planning and agility.
 

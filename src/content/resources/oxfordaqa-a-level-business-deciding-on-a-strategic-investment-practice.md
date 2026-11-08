@@ -125,9 +125,6 @@ Project X has a payback period of 2 years 8 months, an ARR of 13.7% and an NPV o
 
 ## Frequently asked questions
 
-**Where are marks usually lost on investment appraisal questions?**
-Common losses include comparing expected values instead of net gains when options cost different amounts, using total inflows rather than profit in ARR, converting part-years to months wrongly, and dropping the minus sign on a negative NPV.
-
 **How do you convert part of a year into months for payback?**
 Divide the shortfall at the start of the year by that year's cash flow and multiply by 12. A result of 0.67 of a year is about 8 months, not 6.7 months, which is a common conversion slip.
 

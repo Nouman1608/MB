@@ -128,9 +128,6 @@ Judgement: agility is the best single approach because Orrinford's problem is sl
 
 ## Frequently asked questions
 
-**Where are marks usually lost on change, risk and uncertainty questions?**
-Common losses include confusing the four reasons for resistance with the six methods of overcoming it, totalling force field scores without commenting on the margin or next step, and naming a risk type without identifying the event in the case that causes it.
-
 **Is coercion always the wrong way to manage change?**
 No. Coercion is fast and works when speed matters and managers hold power, but it risks resentment, demotivation and staff leaving. Good answers weigh speed against these costs rather than rejecting it automatically.
 

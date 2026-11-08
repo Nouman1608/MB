@@ -131,6 +131,17 @@ This practice set is aligned to the OxfordAQA International GCSE Business (9225)
 - Comparing training methods using only fees, ignoring lost output and coaching time.
 - Ending an evaluate, justify or recommend answer without a decision and a reason.
 
+## Frequently asked questions
+
+**How do you answer a recruitment question for the highest marks?**
+Write about the specific vacancy in the stem rather than internal or external recruitment in general. Also check the stem carefully, because listing stages that have already happened earns no credit.
+
+**Are motivation theories such as Maslow examined in OxfordAQA IGCSE Business?**
+No. The OxfordAQA International GCSE Business (9225) specification states that specific motivational theories, such as Maslow, will not be examined.
+
+**Which part of the 9225 specification do these questions cover?**
+They cover section 3.4 Human resources of OxfordAQA International GCSE Business (9225): organisational structures, recruitment and selection, motivating employees and training.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-business-human-resources-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-igcse-business-human-resources/).

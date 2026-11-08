@@ -138,9 +138,6 @@ Before you start, skim the [study guide](/resources/oxfordaqa-a-level-business-h
 
 ## Frequently asked questions
 
-**Where are marks usually lost on HR data questions?**
-Common losses include using the opening or closing headcount instead of the average number of employees, dividing a percentage change by the new figure rather than the original, and leaving units off productivity and per-unit answers.
-
 **Is pay a motivator in Herzberg's theory?**
 No. In Herzberg's theory pay is a hygiene factor, which prevents dissatisfaction rather than motivating staff, so treating pay as a Herzberg motivator is a common error.
 

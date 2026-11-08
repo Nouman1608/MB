@@ -123,9 +123,6 @@ Using Porter's five forces, evaluate whether boutique fitness in the city is an 
 
 ## Frequently asked questions
 
-**Where are marks usually lost on five forces questions?**
-Common losses include rating a force without evidence from the case, treating the concentration ratio on its own as proof of high or low rivalry, and naming a way to influence a force without explaining why it weakens that force.
-
 **What calculation slips should you watch for in industry environment questions?**
 Remember to multiply a per-unit cost change by annual volume, and divide by profit rather than sales when a question asks for a percentage of profit. Showing each step makes these slips easier to spot.
 

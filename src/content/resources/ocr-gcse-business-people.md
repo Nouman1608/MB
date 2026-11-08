@@ -291,9 +291,6 @@ Span of control is the number of subordinates who report directly to one manager
 **Why does digital communication matter to a business?**
 Email, messaging and video meetings let staff work flexibly or remotely and send messages quickly. Digital channels also give cheap reach to wide markets and instant feedback from customers.
 
-**What is staff development?**
-Staff development is wider than training for today's job and includes vocational and academic qualifications and apprenticeships. It gives employees new skills and better promotion chances, and gives the business a more skilled workforce that can fill senior roles from within.
-
 ## Official syllabus
 
 OCR GCSE (9-1) Business J204, Version 2.0 (January 2026), published by OCR, section 3 People.

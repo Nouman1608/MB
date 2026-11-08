@@ -125,9 +125,6 @@ Learn it first: [study guide](/resources/oxfordaqa-a-level-business-mission-obje
 
 ## Frequently asked questions
 
-**Where are marks usually lost on mission, objectives and SWOT questions?**
-Common losses include dividing total dividends by market capitalisation instead of finding dividend per share first, leaving non-current liabilities out of capital employed, and calling a figure a strength or weakness without comparing it to the benchmark given.
-
 **Is a change in market share given in per cent or percentage points?**
 A change from one market share to another is measured in percentage points, for example from 10% to 12% is a rise of 2 percentage points. Writing "per cent" for this change is a common error.
 

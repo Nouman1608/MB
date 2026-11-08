@@ -230,9 +230,6 @@ Judgements on this topic usually turn on a few case facts. Use them to say "it d
 **What are Kotter and Schlesinger's four reasons for resistance to change?**
 The four reasons are self-interest, misunderstanding and lack of trust, inertia, and different assessments of the situation. Identifying the reason from the case comes first, because the best response depends on it.
 
-**What are Kotter and Schlesinger's six ways to overcome resistance?**
-The six methods are education, participation, facilitation, negotiation, manipulation and coercion. They run roughly from slow and consensual to fast and forceful, and each should be matched to the reason for resistance.
-
 **What are the six types of risk in OxfordAQA A-level Business?**
 The OxfordAQA A-level Business (9725) notes list financial, strategic, operational, compliance, reputational and cybersecurity risk. Methods of managing them include market research, contingency and crisis plans, insurance, diversifying, training and forecasting.
 

@@ -147,9 +147,6 @@ Links: [Finance study guide](/resources/oxfordaqa-a-level-business-finance/) · 
 
 ## Frequently asked questions
 
-**Where are marks usually lost on OxfordAQA Business finance questions?**
-Common losses include dividing fixed costs by price rather than by contribution per unit, rounding break-even output down or leaving a decimal, and giving variance amounts without saying whether they are favourable or adverse. Using the wrong opening balance in later months of a cash flow forecast is another frequent slip.
-
 **Is a cost above budget a favourable variance?**
 No. A cost above budget is adverse because it reduces profit, even though the number is bigger. Label each variance by its effect on profit, not by its size.
 

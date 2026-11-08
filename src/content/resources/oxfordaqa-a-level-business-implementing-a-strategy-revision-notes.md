@@ -234,9 +234,6 @@ Pyrford Signs is installing a digital sign for a client. Times are in days.
 
 ## Frequently asked questions
 
-**What are the five factors for successful strategy implementation?**
-The five factors are resources, the quality of planning and monitoring, leadership, communication and external factors. The first four can be managed directly, while external factors cannot be controlled.
-
 **How do you find the EST and LFT at a node?**
 On the forward pass, the earliest start time at a node is the highest of the routes into it. On the backward pass, the latest finish time is the lowest of the routes out of it.
 
