@@ -225,6 +225,20 @@ Always say what n counts and whether term 1 is "now" or "after one step". Name o
 - Losing the minus sign in r when solving r³ = negative number.
 - In models, giving an answer with no context or units, or calling a geometric model "linear".
 
+## Frequently asked questions
+
+**When is a binomial expansion valid?**
+An expansion of (a + bx)ⁿ with a positive integer n is finite and always valid. For a negative or fractional n it is infinite and valid only for |bx/a| < 1, that is |x| < |a/b|.
+
+**How do you count the terms in sigma notation?**
+A sum from r = k to r = m has m − k + 1 terms. Miscounting terms when the sum does not start at r = 1 is a common error.
+
+**What is the difference between an arithmetic and a geometric sequence?**
+An arithmetic sequence has a constant difference between terms, while a geometric sequence has a constant ratio. Test with u₂ − u₁ = u₃ − u₂ or u₂/u₁ = u₃/u₂.
+
+**What is a periodic sequence?**
+A periodic sequence repeats its terms after a fixed number of steps, called its order. A periodic sequence is neither increasing nor decreasing.
+
 ## Next steps
 
 Work through the [practice questions](/resources/aqa-a-level-mathematics-sequences-and-series-practice/), revisit the [study guide](/resources/aqa-a-level-mathematics-sequences-and-series/) for any gap, and check paper timing with the [7357 exam preparation guide](/resources/aqa-a-level-mathematics-exam-preparation/). Find weak topics fast with the [free diagnostics](/diagnostics/).

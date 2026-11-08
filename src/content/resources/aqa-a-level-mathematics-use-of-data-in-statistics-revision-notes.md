@@ -261,6 +261,20 @@ From overarching theme OT2.6:
 - Treating one sample's result as a fact about the whole population.
 - Claiming cause from survey data.
 
+## Frequently asked questions
+
+**What is the AQA A-level Maths large data set?**
+For exams in 2018 and 2019 it was an extract of DEFRA Family Food data. For exams from 2020 AQA uses a new data set, available only on the AQA website, and you must know its contexts and main features.
+
+**What is the difference between σ and s?**
+σ is the standard deviation with divisor n, used for a population, and s is the standard deviation with divisor n − 1, used for a sample. They are close for large n, but you should say which one you are using.
+
+**Why might a calculator and spreadsheet give different quartiles?**
+Different packages and calculators use different quartile methods, so they can give slightly different Q₁ and Q₃ for the same data.
+
+**Which AQA paper assesses use of data in statistics?**
+Section 3.21 is not placed under one paper, but the statistics sections it supports (K to O) are assessed on Paper 3 of AQA A-level Mathematics 7357.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams

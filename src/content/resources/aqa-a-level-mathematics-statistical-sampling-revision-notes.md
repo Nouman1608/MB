@@ -229,6 +229,20 @@ sampling decision, so state which method you used and why.
 - Presenting an estimate from a sample as the exact population value.
 - Claiming a larger sample fixes a biased method.
 
+## Frequently asked questions
+
+**What is the difference between stratified and quota sampling?**
+Both fix how many are chosen from each group, but stratified sampling selects at random within each group and quota sampling does not.
+
+**Does a larger sample remove bias?**
+No. A larger sample reduces variability between samples, but a biased method stays biased.
+
+**What is a sampling frame?**
+A sampling frame is the list of the population you can actually use to select a sample. It may miss part of the population, such as a phone directory missing people with no listed number.
+
+**Which sampling methods are named in the AQA A-level Maths specification?**
+The AQA 7357 specification names simple random and opportunity sampling. Other standard techniques, such as systematic, stratified, quota and cluster sampling, can also be used in questions.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams

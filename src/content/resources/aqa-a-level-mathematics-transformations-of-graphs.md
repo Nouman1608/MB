@@ -241,6 +241,20 @@ One full cycle fits in 120°, the midline is y = −1, the maximum is 1 and the 
 
 Now try the [practice questions](/resources/aqa-a-level-mathematics-transformations-of-graphs-practice/) and use the [revision notes](/resources/aqa-a-level-mathematics-transformations-of-graphs-revision-notes/) for the final weeks.
 
+## Frequently asked questions
+
+**Why do changes inside the bracket of f(x) do the opposite of what you expect?**
+A change inside the bracket acts on x. On y = f(x + 1), the graph reaches each value one unit earlier than y = f(x) does, so the whole graph moves one unit to the left.
+
+**What do y = −f(x) and y = f(−x) do to a graph?**
+y = −f(x) reflects the graph in the x-axis, and y = f(−x) reflects it in the y-axis.
+
+**How do you describe the transformation y = f(2x − 1)?**
+Write it as f(2(x − ½)). It can be described as a stretch with scale factor ½ parallel to the x-axis followed by a translation by (½, 0), or as a translation by (1, 0) followed by the same stretch.
+
+**How does completing the square show a transformation?**
+Writing a quadratic as (x − p)² + q shows it is y = x² translated by the vector (p, q), with vertex (p, q). For example, x² − 6x + 14 = (x − 3)² + 5.
+
 ## Official syllabus
 
 AQA, *A-level Mathematics (7357) specification*, for teaching from September 2017 onwards, version 1.3 (31 January 2018), section 3.3 (B: Algebra and functions), content reference B9.

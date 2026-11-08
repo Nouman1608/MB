@@ -22,10 +22,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on sources of law, civil court tracks, ADR, judicial precedent and statutory interpretation."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -79,3 +81,17 @@ Related: [The English Legal System revision notes](/resources/a-law-english-lega
 - Describing the intermediate track by its monetary band alone, without its conditions on trial length, expert evidence and the number of parties.
 - Treating obiter dicta as binding.
 - Describing a rule of interpretation without a linked advantage or disadvantage.
+
+## Frequently asked questions
+
+**What are the main sources of English law?**
+The main sources are legislation (Acts of Parliament), delegated legislation such as statutory instruments and by-laws, case law through judicial precedent, and international treaties including the European Convention on Human Rights, given effect by the Human Rights Act 1998.
+
+**What is the difference between mediation and conciliation?**
+In mediation a neutral third party helps the parties reach their own solution but does not suggest one. In conciliation the conciliator plays a more active role and may suggest a solution, as ACAS does in employment disputes.
+
+**What is the difference between ratio decidendi and obiter dicta?**
+The ratio decidendi is the legal reason for a decision and is the only part that binds later courts. Obiter dicta are other things said by the way, which are persuasive but not binding.
+
+**Where are marks usually lost on English legal system questions?**
+Common losses include confusing conciliation with mediation, giving civil track limits incorrectly, describing the intermediate track by value alone, treating obiter dicta as binding, and describing a rule of interpretation without a linked advantage or disadvantage.

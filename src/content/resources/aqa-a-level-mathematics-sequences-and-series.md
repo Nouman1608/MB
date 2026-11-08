@@ -290,6 +290,20 @@ A runner who covers 5 km in week 1 and adds 0.5 km each week follows an arithmet
 - Miscounting terms in sigma notation when the lower limit is not 1.
 - In models, being one term out because term 1 is "after one year" in one question and "now" in another.
 
+## Frequently asked questions
+
+**Which sequences and series formulae must you learn for AQA A-level Maths?**
+Appendix B of the AQA 7357 specification lists results in this section that you must recall without being given them, including the nth term of an arithmetic sequence, uₙ = a + (n − 1)d.
+
+**How do you prove the formula for the sum of an arithmetic series?**
+Write Sₙ forwards and backwards and add the two lines. Each pair of terms sums to a + l and there are n pairs, so 2Sₙ = n(a + l).
+
+**When should you use an arithmetic model rather than a geometric one?**
+A constant amount of change each step gives an arithmetic model, while a constant percentage change gives a geometric model, such as a car losing 15% of its value each year.
+
+**How do you find a distant term of a periodic sequence?**
+Find the order of the cycle, then use the remainder when the term's position is divided by that order to identify which term in the cycle it matches.
+
 ## Next steps
 
 Condense this into the [Section D revision notes](/resources/aqa-a-level-mathematics-sequences-and-series-revision-notes/), then test yourself with the [Section D practice questions](/resources/aqa-a-level-mathematics-sequences-and-series-practice/). For timing and paper strategy, read the [7357 exam preparation guide](/resources/aqa-a-level-mathematics-exam-preparation/). To find your weakest topics quickly, try the [free diagnostics](/diagnostics/).

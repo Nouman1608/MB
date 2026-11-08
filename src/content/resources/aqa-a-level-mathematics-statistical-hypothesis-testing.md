@@ -289,6 +289,20 @@ Always write down the distribution and the probability you found.
 - Stating a definite conclusion ("the mean has changed") or missing the context.
 - Testing r against ρ = r, or claiming the test proves causation.
 
+## Frequently asked questions
+
+**What is the difference between a one-tailed and a two-tailed test?**
+In a one-tailed test the alternative hypothesis looks in one direction only, such as p > 0.2. In a two-tailed test it is p ≠ 0.2, and the significance level is split equally between the two tails.
+
+**What is a critical region?**
+The critical region is the set of values of the test statistic that lead you to reject the null hypothesis. The critical value is its boundary.
+
+**Do you need to calculate the correlation coefficient for AQA 7357 hypothesis tests?**
+No. In Section O the product moment correlation coefficient r is given, together with either a critical value or a p-value, and you use it to test the population coefficient ρ.
+
+**Which AQA A-level Maths paper tests hypothesis testing?**
+Section O: Statistical hypothesis testing (O1 to O3) of the AQA 7357 specification is listed under Paper 3, with the rest of the statistics content.
+
 ## Next steps
 
 Go through the [revision notes](/resources/aqa-a-level-mathematics-statistical-hypothesis-testing-revision-notes/)

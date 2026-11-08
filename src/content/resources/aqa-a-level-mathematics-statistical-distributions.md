@@ -307,6 +307,23 @@ working shows what you entered.
 - Calculating a mean and variance for a general discrete table. This is excluded from 7357.
 - Rounding a probability to 2 decimal places mid-question and carrying the error forward.
 
+## Frequently asked questions
+
+**When is a binomial model not suitable?**
+A binomial model may not be suitable when items are chosen without replacement from a small group, when the probability varies between trials, when the number of trials is not fixed, or when outcomes cluster so trials are not independent.
+
+**When is a Normal model not suitable?**
+A Normal model may not be suitable when the data are clearly skewed, when the variable is discrete with only a few possible values, or when the model gives a noticeable probability to impossible values such as negative times.
+
+**What percentage of a Normal distribution lies within one standard deviation of the mean?**
+Roughly 68% of values lie within one standard deviation of the mean, 95% within two and 99.7% within three.
+
+**When can a binomial distribution be approximated by a Normal distribution?**
+When n is large and p is not close to 0 or 1, B(n, p) can be approximated by a Normal distribution with mean np and variance np(1 − p), using a continuity correction.
+
+**What does Section N of AQA A-level Maths 7357 cover?**
+Section N: Statistical distributions covers discrete probability distributions including the binomial (N1), the Normal distribution and its links to histograms and the binomial (N2), and selecting an appropriate model (N3).
+
 ## Next steps
 
 Condense the methods with the

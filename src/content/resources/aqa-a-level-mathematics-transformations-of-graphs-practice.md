@@ -156,6 +156,20 @@ Sketches should be described clearly in your own working: label the coordinates 
 - Not swapping a maximum and a minimum after a reflection in the x-axis.
 - Mapping x-intercepts as if they were still x-intercepts after a vertical translation.
 
+## Frequently asked questions
+
+**Which way does y = f(x + a) move a graph?**
+For a positive a, y = f(x + a) is a translation by a units to the left, by the vector (−a, 0). Moving it to the right is one of the most common errors.
+
+**What is the scale factor of the stretch y = f(ax)?**
+y = f(ax) is a stretch parallel to the x-axis with scale factor 1/a. For example, y = f(2x) has scale factor ½, not 2.
+
+**How do you fully describe a transformation of a graph?**
+Give the type of transformation and its details: a translation needs its vector, a stretch needs its scale factor and the axis it is parallel to, and a reflection needs its mirror line.
+
+**Which part of the AQA 7357 specification covers transformations of graphs?**
+Content reference B9 of AQA A-level Mathematics 7357 covers transformations of the graph of y = f(x), including translations, stretches, reflections and their combinations.
+
 ## Next steps
 
 - Review the [Transformations of Graphs revision notes](/resources/aqa-a-level-mathematics-transformations-of-graphs-revision-notes/).

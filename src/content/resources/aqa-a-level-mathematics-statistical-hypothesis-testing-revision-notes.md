@@ -252,6 +252,20 @@ excluded from this section. A significant correlation is not evidence of causati
 - Correlation conclusion that implies causation.
 - Wrong critical value chosen because the number of tails was misread.
 
+## Frequently asked questions
+
+**What is the actual significance level of a binomial test?**
+It is the probability that the test statistic falls in the critical region when the null hypothesis is true. Because the binomial is discrete, it is usually less than the stated significance level.
+
+**How do you find P(X ≥ k) from a cumulative binomial function?**
+Use P(X ≥ k) = 1 − P(X ≤ k − 1). Using 1 − P(X ≤ k) drops the value k itself and gives the wrong probability.
+
+**What standard deviation do you use when testing a Normal mean?**
+Use σ/√n, because the sample mean X̄ of a random sample of size n from N(μ, σ²) has the distribution N(μ, σ²/n).
+
+**Does a significant correlation prove causation?**
+No. A significant correlation test gives evidence of a linear relationship in the population, but it is not evidence that one variable causes the other.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3, 31 January 2018, for A-level exams June

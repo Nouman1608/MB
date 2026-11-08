@@ -168,6 +168,20 @@ greatest m = **3.83 kg** (3 s.f.) [1]
 - Stopping a "show that" one line short of the stated result.
 - Missing units, or the direction, on a final force or acceleration.
 
+## Frequently asked questions
+
+**What is the SI unit of force in A-level Maths?**
+The newton (N). One newton is the force that gives a mass of 1 kg an acceleration of 1 m s⁻², so 1 N = 1 kg m s⁻².
+
+**How do you convert km/h to m/s?**
+Divide by 3.6. For example, 108 km h⁻¹ is 30 m s⁻¹. Multiplying by 3.6 instead of dividing is a common way to lose the mark.
+
+**What is the difference between mass and weight?**
+Mass is measured in kilograms and does not change with location. Weight is a force measured in newtons, found from W = mg, so it depends on the value of g.
+
+**Where are marks usually lost on mechanics units questions?**
+Common losses include leaving grams, centimetres, kN or km h⁻¹ unconverted, giving weight in kg, writing m s⁻¹ for acceleration, using a different g from the one given, and rounding converted values too early.
+
 ## Next steps
 
 - Recap the rules: [Quantities and units revision notes](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics-revision-notes/).

@@ -213,6 +213,20 @@ schools turns it into an opportunity sample and loses the mark.
 - Describing quota sampling as random within groups.
 - Giving two criticisms that are really the same point.
 
+## Frequently asked questions
+
+**How do you describe taking a simple random sample?**
+Obtain a sampling frame, number every member, use a random number generator to choose numbers in that range, ignore repeats, and stop when you have enough. Just writing choose at random earns no marks.
+
+**How do you find the last item in a systematic sample?**
+With a random start r and interval k, the items are r, r + k, r + 2k and so on, so the nth item is r + (n − 1)k. Using n × k instead of (n − 1) × k is a common slip.
+
+**How do you criticise a sampling method in an exam?**
+Say which group is over- or under-represented because of how the sample was chosen, and state the direction of the effect on the estimate. Calling a method biased without this detail does not earn the marks.
+
+**Which part of the AQA 7357 specification covers sampling?**
+Section K: Statistical sampling (K1) covers populations and samples, sampling techniques, informal inference and critiquing sampling methods. It is Paper 3 content.
+
 ## Next steps
 
 - Recap with the [Statistical sampling revision notes](/resources/aqa-a-level-mathematics-statistical-sampling-revision-notes/).
