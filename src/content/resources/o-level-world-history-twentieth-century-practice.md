@@ -27,10 +27,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "core-content-option-b-2147"
     subtopic: "containment-communism-2147"
-description: "Original O Level practice questions on Versailles, the League of Nations, Hitler's foreign policy and US containment of communism — built onto Paper 1's three-part essays and Paper 2's document-question format."
+description: "Original Cambridge O Level History 2147 practice on Versailles, the League, Hitler's foreign policy and containment, in Paper 1 and Paper 2 formats."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -167,6 +169,17 @@ uses three.
 - Naming League of Nations weaknesses without linking them to a specific 1930s outcome.
 - Discussing US containment of communism using the Marshall Plan or NATO rather than the three named case studies (Korea, Cuba, Vietnam) this key question is actually examined against.
 - On the document question, repeating what a source says without weighing its provenance (who wrote it, when, and why).
+
+## Frequently asked questions
+
+**How is O Level History 2147 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 55%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two questions on each, answer one). Every question is a three-part structured essay: (a) 4 marks, (b) 6 marks, (c) 10 marks.
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 45 minutes, 40 marks, 45%) sets one document question of five parts, with up to seven sources, on a prescribed Core Content topic that changes each exam series.
+
+**What is the most common weakness in (c) answers?**
+Describing Hitler's actions, or any single factor, without weighing it against others such as appeasement and the League's weakness; a 'how far' question needs balance and a judgement.
 
 ## Official syllabus
 

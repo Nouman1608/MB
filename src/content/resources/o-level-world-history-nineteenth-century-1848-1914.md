@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "core-content-option-a-2147"
     subtopic: "causes-first-world-war-2147"
-description: "Cambridge O Level World History 2147 (2024-2026 series), Core Content Option A: the Revolutions of 1848, Italian and German unification, the US Civil War, overseas empires and the causes of the First World War. Identical Core content options to Cambridge IGCSE World History 0470."
+description: "Cambridge O Level History 2147 Core Content Option A, 1848-1914: the 1848 revolutions, unification, the US Civil War, empires and the causes of the Great War."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -182,6 +184,17 @@ than months: Germany's Schlieffen Plan required a rapid defeat of
 France before Russia's army could fully mobilise, so once Russia began
 mobilising, German military timetables left almost no room for
 diplomacy to intervene.
+
+## Frequently asked questions
+
+**What are the six key questions in Option A?**
+Were the revolutions of 1848 important? How was Italy unified? How was Germany unified? Why was there a civil war in the United States? Why, and with what effects, did nations expand their overseas empires? What caused the First World War?
+
+**Is Option A the same as in IGCSE History 0470?**
+Yes. The 2024–2026 O Level 2147 and IGCSE 0470 syllabuses share the same Core Content key questions.
+
+**How is O Level History 2147 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 55%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two questions on each, answer one). Every question is a three-part structured essay: (a) 4 marks, (b) 6 marks, (c) 10 marks.
 
 ## Official syllabus
 

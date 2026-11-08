@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "core-content-option-b-2147"
     subtopic: "blame-cold-war-2147"
-description: "Cambridge O Level World History 2147 (2024-2026 series), Core Content Option B: the Treaty of Versailles, the League of Nations, Hitler's foreign policy, and the origins and course of the Cold War. Identical Core content options to Cambridge IGCSE World History 0470."
+description: "Cambridge O Level History 2147 Core Content Option B: Versailles, the League of Nations, Hitler's foreign policy, the Cold War, containment and Eastern Europe."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -205,3 +207,14 @@ the "who was to blame" debate the syllabus specifically raises.
   named case studies: Korea, Cuba and Vietnam.
 - Explain how the USSR maintained control over Eastern Europe and the
   challenges to that control up to 1989.
+
+## Frequently asked questions
+
+**What are the six key questions in Option B?**
+Was the Treaty of Versailles fair? To what extent was the League of Nations a success? How far was Hitler's foreign policy to blame for war in 1939? Who was to blame for the Cold War? How effectively did the US contain communism? How secure was the USSR's control over Eastern Europe, 1948–c.1989?
+
+**How are Option B questions framed?**
+As judgements, 'how far', 'to what extent', 'who was to blame', so answers must weigh evidence and reach a conclusion rather than narrate.
+
+**How is O Level History 2147 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 55%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two questions on each, answer one). Every question is a three-part structured essay: (a) 4 marks, (b) 6 marks, (c) 10 marks.

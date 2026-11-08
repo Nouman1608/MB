@@ -14,14 +14,22 @@ syllabusTopics:
     topic: "core-content-option-a-2147"
   - qualification: "o-level"
     topic: "core-content-option-a-2147"
+    subtopic: "revolutions-1848-2147"
+  - qualification: "o-level"
+    topic: "core-content-option-a-2147"
     subtopic: "unification-italy-2147"
   - qualification: "o-level"
     topic: "core-content-option-a-2147"
     subtopic: "overseas-empires-2147"
-description: "Original O Level practice questions on the Congress of Vienna, Italian unification, the Eastern Question and imperialism — built onto Paper 1's three-part essays and Paper 2's document-question format."
+  - qualification: "o-level"
+    topic: "core-content-option-a-2147"
+    subtopic: "causes-first-world-war-2147"
+description: "Original Cambridge O Level History 2147 practice on 1848, Italian unification, the Balkans before 1914 and imperialism, with Paper 1 and Paper 2 style answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced Q1 (Congress of Vienna, 1815, before the 1848 start of Option A) with a 1848 revolutions question and Q3 (Eastern Question) with a Balkans 1908-14 question on key question 1.6; mapped subtopics 1.1 and 1.6; FAQ added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -49,21 +57,21 @@ resource — see the [Depth Studies practice](/resources/o-level-world-history-d
 for that style). Practise any two of the four questions below; each is
 worth 20 marks, split across three parts.
 
-### Question 1: The Vienna Settlement, 1815
+### Question 1: The Revolutions of 1848
 
-**(a)** Describe the aims of the Congress of Vienna (1815). **[4]**
+**(a)** Describe **three** causes of the revolutions of 1848. **[4]**
 
-**(b)** Explain how the settlement of 1815 attempted to prevent future French aggression. **[6]**
+**(b)** Explain why the revolution in France in February 1848 was important for the rest of Europe. **[6]**
 
-**(c)** 'Containing France was the most important aim of the Congress of Vienna.' How far do you agree? **[10]**
+**(c)** 'The revolutions of 1848 changed nothing.' How far do you agree? **[10]**
 
 #### Worked answer
 
-**(a)** To restore legitimate rulers deposed by Napoleon; to contain France and prevent any future bid for domination; to establish a balance of power among the great powers so that no one state could dominate Europe. **[4]**
+**(a)** Any three, briefly developed: **liberalism** — the educated middle classes wanted constitutions, elected parliaments and freedom of the press; **nationalism** — Italians, Germans, Hungarians and Czechs wanted national unity or self-government, against Austrian control; **economic hardship** — poor harvests (including the potato blight) and an industrial slump in 1846–47 raised food prices and unemployment in the towns; **the example of France** — the overthrow of Louis Philippe in February 1848 showed that a ruler could be removed. **[4]**
 
-**(b)** France was surrounded by strengthened neighbours: the Netherlands was enlarged by the addition of Belgium, and Prussia was given the Rhineland, placing a major power directly on France's eastern frontier; Piedmont was strengthened by the addition of Genoa in the south. The powers also agreed the Quadruple Alliance and the Congress System, committing to meet regularly and act together against any renewed French aggression. **[6]**
+**(b)** The February Revolution overthrew Louis Philippe and set up the Second Republic, with universal male suffrage. News spread quickly and gave liberals and nationalists elsewhere a model and a signal: within weeks there were risings in Vienna, Berlin, Milan and Venice, Metternich fled Vienna in March, and the King of Prussia promised a constitution. France's example mattered because it showed that even established monarchies could be forced into concessions, and because conservative rulers feared French support for revolution elsewhere. **[6]**
 
-**(c)** **For:** the specific territorial measures — strengthening the Netherlands, Prussia and Piedmont on France's borders, and the Quadruple Alliance's ongoing commitment to act together — were all designed with the single, explicit purpose of preventing a repeat of French expansion under a future Napoleon, showing containment was the practical priority the other powers acted on. **Against:** restoring legitimate rulers mattered just as much to the conservative powers, since a settlement that merely contained France's borders while leaving revolutionary or Napoleonic-sympathising regimes in place elsewhere would have left the underlying threat unaddressed; and the balance-of-power principle was what made the whole settlement durable, since containing France through territorial measures alone, without a wider balance among Austria, Prussia, Russia and Britain, could have simply created a new imbalance and a new source of future conflict. **Judgement:** containing France explains the most visible and specific measures, but the balance-of-power principle was what the settlement's architects (especially Britain's Castlereagh) treated as the deeper, longer-term goal — the anti-French measures were the immediate application of that principle rather than a separate or more important aim in their own right. **[10]** (Marks for weighing containment against the settlement's other aims, and reaching a supported judgement.)
+**(c)** **Agree:** by 1849–50 the old order had been restored almost everywhere. Austria crushed the Italian risings (Custoza 1848, Novara 1849) and, with Russian help, the Hungarians (1849); the Frankfurt Parliament collapsed after Frederick William IV refused the crown "from the gutter" (1849); and in France Louis Napoleon, elected President in December 1848, made himself Emperor by 1852. **Disagree:** some changes lasted — serfdom was abolished in the Austrian Empire in 1848 and was not restored; Piedmont kept its constitution (the Statuto), which made it the focus of later Italian nationalism; Prussia kept a (limited) parliament; and the failure taught nationalists that unity would need the armed force of a strong state, the approach later taken by Cavour and Bismarck. **Judgement:** the revolutions failed in their immediate aims, but "changed nothing" goes too far, because the abolition of serfdom, the Piedmontese constitution and the lessons learned shaped unification after 1859. **[10]** (Marks for specific evidence on both sides and a supported judgement.)
 
 ### Question 2: The Unification of Italy
 
@@ -81,21 +89,21 @@ worth 20 marks, split across three parts.
 
 **(c)** **For:** the 1848–49 revolutions in Italy failed for reasons that a later, more disciplined strategy specifically avoided — the revolutionaries split between liberals wanting moderate change and radicals wanting more sweeping change, the middle classes withdrew their support once property and order seemed threatened, and the conservative powers (above all Austria) kept control of their armies throughout and used them to restore the old order; Cavour and Garibaldi's later success came only once diplomacy (securing French support so Austria could not simply reimpose control) and organised military force were used instead of relying on popular uprising alone. **Against:** popular uprising was not simply replaced by diplomacy and war — Garibaldi's Expedition of the Thousand was itself a form of popular, volunteer-led action rather than a state-directed war, and it succeeded partly because it drew on genuine local support in Sicily and Naples; diplomacy and war created the conditions (a secure northern kingdom, Austria's exclusion) in which a popular-style expedition could finally succeed, rather than uprising being abandoned altogether. **Judgement:** the 1848 failures showed that popular uprising *alone*, without a secure state behind it and without neutralising the other great powers, could not succeed against Austria's army — but Garibaldi's 1860 campaign shows that popular action still had a genuine role once Cavour's diplomacy had first removed the conditions that had doomed it in 1848–49. **[10]** (Marks for using 1848's specific failures as evidence, and reaching a supported judgement rather than an unqualified claim.)
 
-### Question 3: The Eastern Question
+### Question 3: The Balkans and the Origins of the First World War
 
-**(a)** Describe what is meant by the "Eastern Question". **[4]**
+**(a)** Describe the Bosnian Crisis of 1908–09. **[4]**
 
-**(b)** Explain **two** reasons why the great powers were concerned with the decline of the Ottoman Empire. **[6]**
+**(b)** Explain why problems in the Balkans were so difficult for the Great Powers to solve. **[6]**
 
-**(c)** 'Russia's ambitions were the most significant reason the great powers were concerned about Ottoman decline.' How far do you agree? **[10]**
+**(c)** 'Developments in the Balkans were the most important cause of the First World War.' How far do you agree? **[10]**
 
 #### Worked answer
 
-**(a)** The "Eastern Question" was the problem of what would happen to the territories of the declining Ottoman Empire, and which powers would gain from its collapse. **[4]**
+**(a)** In 1908 Austria-Hungary annexed Bosnia-Herzegovina, which it had administered since 1878 but which was still formally Ottoman. Serbia, which hoped to unite the South Slavs including the Bosnian Serbs, was furious, and Russia backed Serbia. Germany gave Austria-Hungary firm support, and Russia, still weak after defeat by Japan in 1905, backed down in 1909. Russia was humiliated and determined not to back down again. **[4]**
 
-**(b)** Any two: **Russia** sought access to the Mediterranean through the Straits and posed as the protector of Ottoman Christians, so Ottoman collapse would give her a decisive strategic gain. **Britain** wanted to prevent Russian expansion towards the Mediterranean and the route to India, so she generally propped up the Ottoman Empire despite its misgovernment. **[6]**
+**(b)** Ottoman power in the Balkans was collapsing, leaving a vacuum. Russia saw itself as protector of the Slav peoples and wanted influence over the Straits; Austria-Hungary feared that Serbian nationalism would encourage its own Slav subjects to break away, so it wanted Serbia weakened. Because each power saw its vital interests at stake, compromise was hard, and the Balkan Wars of 1912–13 left Serbia larger and more confident, which alarmed Austria-Hungary further. The alliance system meant that a dispute between Austria-Hungary and Serbia could draw in Russia, Germany and France. **[6]**
 
-**(c)** **For:** Russia's specific, concrete ambitions — gaining direct access to the Mediterranean through the Straits, and using her claimed role as protector of Ottoman Christians as a pretext for intervention — gave her the clearest and most immediate incentive to want Ottoman collapse, and it was precisely the prospect of Russian gain that drove the other powers' policies in response. **Against:** Britain's concern (protecting the route to India from Russian expansion) and Austria-Hungary's concern (fearing that Balkan nationalism, encouraged by Ottoman retreat, would spread to her own Slav subjects and break up the Habsburg Empire) were not simply secondary reactions to Russia — each power had its own independent stake in the region's future regardless of what Russia did. **Judgement:** Russia's ambitions were the single most direct threat and therefore the most immediate trigger for other powers' concern, but describing them as the "most significant reason" overall understates how much Britain's and Austria-Hungary's own separate interests shaped their policies — the Eastern Question is better understood as a genuine multi-power rivalry than as one power's ambitions with the others simply reacting. **[10]** (Marks for weighing Russia's ambitions against the other powers' independent concerns, and reaching a supported judgement.)
+**(c)** **Agree:** the war began in the Balkans: the assassination of Franz Ferdinand at Sarajevo on 28 June 1914 by Gavrilo Princip, linked to the Serbian Black Hand, led to Austria-Hungary's ultimatum to Serbia and declaration of war (28 July). Earlier Balkan crises (Bosnia 1908–09, the Balkan Wars 1912–13) had hardened Austro-Russian hostility, and Russia's humiliation in 1909 made it determined to support Serbia in 1914. **Disagree:** a Balkan quarrel became a general war only because of the alliance system and Germany's "blank cheque" to Austria-Hungary; the arms race and military plans (above all the Schlieffen Plan, which meant attacking France through Belgium) turned Russian mobilisation into a western war; colonial rivalries, including the Moroccan crises of 1905 and 1911, had already drawn Britain and France together against Germany. **Judgement:** the Balkans provided the flashpoint and the immediate cause, but the alliance system, the arms race and German policy explain why a regional conflict became a world war, so the Balkans were necessary but not sufficient. **[10]** (Marks for weighing the Balkans against the alliance system, the arms race and colonial rivalry, and reaching a supported judgement.)
 
 ### Question 4: European Imperialism in Africa
 
@@ -158,7 +166,22 @@ uses three.
 - Describing events on the (c) parts rather than sustaining a judgement against the specific claim in the question.
 - On the document question, repeating what a source says without weighing its provenance (who wrote it, when, and why).
 - Giving Garibaldi, or popular uprising generally, sole credit for unification without weighing Cavour's diplomacy alongside it.
-- Explaining the Eastern Question without weighing each power's own, independent strategic interests.
+- Explaining the Balkan crises without saying why Austria-Hungary and Russia each saw vital interests at stake.
+- Writing about events before 1848 (for example the Congress of Vienna): Option A content runs from 1848 to 1914.
+
+## Frequently asked questions
+
+**How is O Level History 2147 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 55%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two questions on each, answer one). Every question is a three-part structured essay: (a) 4 marks, (b) 6 marks, (c) 10 marks.
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 45 minutes, 40 marks, 45%) sets one document question of five parts, with up to seven sources, on a prescribed Core Content topic that changes each exam series.
+
+**Does Option A include the Congress of Vienna?**
+No. Core Content Option A runs from 1848 to 1914, starting with the 1848 revolutions; the Vienna Settlement of 1815 is background only.
+
+**Which Balkan crises should I know for the causes of the First World War?**
+The Bosnian Crisis of 1908–09, the Balkan Wars of 1912–13 and the July Crisis that followed the assassination of Franz Ferdinand on 28 June 1914.
 
 ## Official syllabus
 

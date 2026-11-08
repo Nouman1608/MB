@@ -12,10 +12,12 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
-description: "Original exam-technique practice questions with full worked answers on the five Depth Studies, how Paper 1 Section B examines them, and the source-evaluation skill Paper 2 tests on the Core Content prescribed topic, for Cambridge O Level World History (2147)."
+description: "Original practice on the five Cambridge O Level History 2147 Depth Studies: how Paper 1 Section B sets them, and source skills for Paper 2, with answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -98,6 +100,17 @@ Related: [Depth Studies revision notes](/resources/o-level-world-history-depth-s
 **7.** A Depth Study is examined in Paper 1 Section B, which sets two questions on each Depth Study; the candidate answers one, a structured essay in three parts, (a), (b) and (c), assessing knowledge (AO1) and explanation (AO2). No sources are supplied, so Depth Study preparation must build secure, detailed factual knowledge of the chosen period and practise matching each part's demand — describe, explain, or reach a supported judgement — with precise supporting detail. Paper 2, by contrast, supplies a range of sources (up to seven) on a Core Content prescribed topic that changes each exam series, and assesses knowledge (AO1) and source evaluation (AO3): candidates must interpret sources and judge their origin, purpose and value as evidence against background knowledge of that topic. So Depth Study revision centres on knowledge and explanation of one period, while source-evaluation practice belongs with the prescribed topic for the candidate's Paper 2 series; practising source technique on Depth Study material is useful skill-building for Paper 2, but it prepares neither the Depth Study question itself nor the content of the prescribed topic. **[6]** (Marks for correctly locating the Depth Study in Paper 1 Section B and describing its demand, for correctly describing Paper 2's source-based demand on the Core Content, and for drawing a genuine consequence for how revision should differ.)
 
 **8.** This reasoning is weak, because although the Second World War was indeed a single global conflict, the syllabus specifically frames Depth Study E as covering "Europe and the Asia-Pacific" as related but distinct theatres, each with its own specific causes, course and consequences that a candidate is expected to know. Preparing only the European theatre risks being unable to answer a Paper 1 Section B question, or question part, set specifically on the Asia-Pacific theatre, or a question asking candidates to draw connections between the two theatres (such as how events in Europe affected Japan's strategic calculations), which requires genuine knowledge of both sides rather than one theatre extended by assumption to cover the other. A stronger revision approach prepares both theatres, even if one receives more detailed attention than the other, precisely because "one war" does not mean the exam treats both theatres as interchangeable in its questions. **[6]** (Marks for correctly identifying the flaw in the student's reasoning and explaining the syllabus's actual expectation.)
+
+## Frequently asked questions
+
+**How is O Level History 2147 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 55%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two questions on each, answer one). Every question is a three-part structured essay: (a) 4 marks, (b) 6 marks, (c) 10 marks.
+
+**Are Depth Studies examined on Paper 2?**
+No. Depth Studies are examined only in Paper 1 Section B; Paper 2's sources are always set on a prescribed Core Content topic.
+
+**Why do some questions here practise source evaluation?**
+Questions 2, 4 and 6 use Depth Study material to practise the Paper 2 source skill (content, origin, value and limitations); that is useful practice, but it is not how a Depth Study question is set.
 
 ## Official syllabus
 

@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
     subtopic: "depth-study-d-usa-2147"
-description: "Study guide to Cambridge O Level History 2147 Depth Study D, the USA 1919-41: who gained from the 1920s boom, social change and intolerance, the Crash, Hoover and the New Deal."
+description: "Study guide to Cambridge O Level History 2147 Depth Study D, the USA 1919-41: the 1920s boom, social change and intolerance, the Crash and the New Deal."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check statistics and legislation dates against standard texts and the 2147 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check statistics and legislation dates against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -21,11 +21,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "core-content-option-a-2147"
     subtopic: "causes-first-world-war-2147"
-description: "Original Cambridge O Level History 2147 practice on key questions 1.1, 1.3 and 1.6: the 1848 revolutions, German unification and the causes of WWI, with worked answers."
+description: "Original Cambridge O Level History 2147 practice on the 1848 revolutions, German unification and the causes of the First World War, with worked answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check worked-answer facts and dates against standard texts and the 2147 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check worked-answer facts and dates against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
