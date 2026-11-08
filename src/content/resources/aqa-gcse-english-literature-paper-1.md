@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-shakespeare-and-the-19th-century-novel-8702"
+  - qualification: "gcse"
+    topic: "paper-1-shakespeare-and-the-19th-century-novel-8702"
+    subtopic: "section-a-shakespeare-8702"
+  - qualification: "gcse"
+    topic: "paper-1-shakespeare-and-the-19th-century-novel-8702"
+    subtopic: "section-b-the-19th-century-novel-8702"
 description: "Shakespeare and the 19th-century novel -- the full paper structure of Paper 1 for AQA GCSE English Literature (8702), an untiered, closed-book qualification."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
