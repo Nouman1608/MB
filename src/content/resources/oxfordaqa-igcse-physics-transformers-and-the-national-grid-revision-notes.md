@@ -206,6 +206,20 @@ The primary-to-secondary ratio is 20 : 1, so this is a step-down transformer.
 - Listing only "it is smaller" for switch mode transformers without relating it to the phone charger or to no-load power.
 - Not labelling transformers as step-up or step-down on a grid diagram.
 
+## Frequently asked questions
+
+**What is the difference between a step-up and a step-down transformer?**
+A step-up transformer has a greater potential difference across its secondary coil than its primary coil. A step-down transformer has a smaller potential difference across the secondary.
+
+**What is the turns ratio equation?**
+The ratio of the potential differences equals the ratio of the turns: V_p / V_s = n_p / n_s, where p is the primary coil and s is the secondary coil.
+
+**What are the three parts of a transformer?**
+A primary coil connected to the input supply, a secondary coil where the output is taken, and a soft iron core that links the two coils.
+
+**What happens to the current when a transformer steps up the voltage?**
+The current falls. Power out cannot exceed power in, so if the potential difference goes up, the current in the secondary coil must be smaller.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification for exams May/June 2018 onwards, published by OxfordAQA, section 3.6.2.

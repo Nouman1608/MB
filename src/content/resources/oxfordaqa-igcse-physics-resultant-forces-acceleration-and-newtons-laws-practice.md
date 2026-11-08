@@ -160,6 +160,20 @@ Between each pair of readings the velocity changes at a steady rate.
 * Take the [free 10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on resultant forces, acceleration and Newton's laws for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**What mistakes lose marks in scale drawing questions?**
+Not stating the scale, and giving an angle without saying which force it is measured from. Use a sharp pencil and a large scale so lengths and angles can be measured accurately.
+
+**What units should you use in F = m × a?**
+Use force in newtons, mass in kilograms and acceleration in m/s². Leaving a mass in grams is a common error.
+
+**Which section of the OxfordAQA 9203 specification do these questions cover?**
+They cover section 3.1.3, resultant forces, statements a to h, of OxfordAQA International GCSE Physics (9203). The qualification is untiered.
+
 ## Official syllabus
 
 Source document: OxfordAQA International GCSE Physics (9203), version 5.2, exams May/June 2018 onwards. Scope here: section 3.1.3, a to h.

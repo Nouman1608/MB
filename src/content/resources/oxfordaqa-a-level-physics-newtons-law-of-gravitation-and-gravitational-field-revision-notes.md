@@ -203,6 +203,20 @@ M = gR²/G = 0.30 × (2.0 × 10⁵)² / 6.67 × 10⁻¹¹ = 1.8 × 10²⁰ kg.
 - Describing a field as "strong" because the lines are long, when it is the spacing that shows strength.
 - Confusing mass and weight when a planet's g is different from 9.81 N kg⁻¹.
 
+## Frequently asked questions
+
+**Why are N kg⁻¹ and m s⁻² equivalent units for g?**
+One newton is 1 kg m s⁻², so a newton per kilogram is the same as a metre per second squared. The field strength at a point therefore equals the acceleration of a freely falling object there.
+
+**Does gravitational field strength depend on the mass of the object?**
+No. The test mass cancels, so g = GM/r² depends only on the mass creating the field and the distance from its centre. The force on the object depends on its mass, but g does not.
+
+**Is gravitational field strength a vector?**
+Yes. g has a direction as well as a size: it points in the direction of the force on a mass, towards the mass creating the field. Its unit is N kg⁻¹.
+
+**Can you treat a planet as a point mass?**
+Yes, for a uniform sphere you can treat all its mass as concentrated at the centre, provided the point is outside the sphere. This is why r is measured between centres, not surfaces.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.7.1 Newton's gravitational law and 3.7.2 Gravitational field strength (International A-level only).

@@ -242,6 +242,20 @@ A grating gives **sharp, bright maxima** that are widely spaced, so angles are e
 - Calculating a non-whole order and rounding up. Only whole orders exist, so round down.
 - Saying a wider slit gives a wider central maximum: it is the narrower slit that spreads more.
 
+## Frequently asked questions
+
+**What is the formula for fringe spacing in Young's double-slit experiment?**
+The fringe spacing is w = λD/s, where λ is the wavelength, D is the slit-to-screen distance and s is the slit separation. It applies when the fringes are close together compared with D.
+
+**What is the grating equation?**
+For light at normal incidence, d sin θ = nλ, where d is the spacing between lines, θ is the angle from the straight-through direction and n is the order. Measure θ from the central maximum, not from the grating surface.
+
+**What are diffraction gratings used for?**
+Gratings are used to measure the wavelengths of light from lamps and stars, which identifies elements from their line spectra. X-ray diffraction by layers of atoms in crystals works on the same principle with a much smaller spacing.
+
+**Which sections of the OxfordAQA 9630 specification does this guide cover?**
+It covers sections 3.5.6 (interference) and 3.5.7 (diffraction) of OxfordAQA International AS and A-level Physics (9630), Version 4.4. Both are shared content for International AS and A-level.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), sections 3.5.6 and 3.5.7, Version 4.4 (for exams May/June 2020 onwards), published by OxfordAQA.

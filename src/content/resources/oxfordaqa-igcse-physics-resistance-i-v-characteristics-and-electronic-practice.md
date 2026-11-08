@@ -176,6 +176,20 @@ These questions follow the OxfordAQA International GCSE Physics (9203) specifica
 - Plan your revision with the [exam preparation page](/resources/oxfordaqa-igcse-physics-exam-preparation/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on resistance and I-V characteristics for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**What unit mistakes lose marks in resistance calculations?**
+Substituting values in mA, kΩ or MΩ without converting them first. Convert to amperes and ohms before using V = I × R.
+
+**How do you find resistance from a curved I-V graph?**
+Read V and I at the point and calculate V ÷ I. Using the gradient of a curve to find resistance is a common error.
+
+**Which part of the OxfordAQA 9203 specification do these questions cover?**
+They cover section 3.5.1 Electrical circuits, statements h to o, of OxfordAQA International GCSE Physics (9203), including the required practical on V-I characteristics.
+
 ## Official syllabus
 
 This page follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, Version 5.2, published by OxfordAQA, section 3.5.1 Electrical circuits, statements h to o.

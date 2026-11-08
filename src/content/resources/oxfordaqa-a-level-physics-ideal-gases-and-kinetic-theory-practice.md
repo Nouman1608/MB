@@ -166,6 +166,20 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-ideal-gases-and-kine
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Next, [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What unit mistakes lose marks in ideal gas questions?**
+Using degrees Celsius instead of kelvin, leaving volume in cm³ or dm³ instead of m³, and leaving molar mass in g mol⁻¹ instead of kg mol⁻¹. Convert everything to SI units before substituting into pV = nRT.
+
+**What is the difference between molar mass and molecular mass?**
+Molar mass is the mass of one mole of a substance, in kg mol⁻¹. Molecular mass is the mass of one molecule, found from m = M / N_A, and it is the m needed in pV = ⅓Nm(c_rms)².
+
+**Why is the root mean square speed not the same as the mean speed?**
+The r.m.s. speed is the square root of the mean of the squared speeds, which gives more weight to fast molecules. For any spread of speeds it is larger than the simple mean speed.
+
+**Which parts of the OxfordAQA 9630 specification do these questions test?**
+They test sections 3.11.3 (ideal gases) and 3.11.4 (kinetic theory of gases) of OxfordAQA International AS and A-level Physics (9630), including required practical 9 on Boyle's and Charles's laws.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA. Sections 3.11.3 and 3.11.4.

@@ -248,6 +248,20 @@ Keep the currents through the resistor small and switch off between readings so 
 - Saying a thermistor and an LDR both react to light. A thermistor responds to temperature; an LDR to light intensity.
 - Connecting the voltmeter in series or the ammeter across the component in the practical.
 
+## Frequently asked questions
+
+**What does the I-V graph of a diode look like?**
+It is almost flat in the reverse direction and for small forward potential differences, then rises steeply. This shows a low resistance in the forward direction and a very high resistance in reverse.
+
+**Does a filament lamp break Ohm's law?**
+Do not phrase it that way in an exam. Say that the lamp's resistance is not constant, because its temperature rises as the current increases.
+
+**Do the electrons get hot in a filament lamp?**
+Do not say that. As the current increases, the ions in the filament vibrate more, so the electrons collide with them more often and the resistance rises.
+
+**Which section of the OxfordAQA 9203 specification does this guide cover?**
+It covers section 3.5.1 Electrical circuits, statements h to o, of OxfordAQA International GCSE Physics (9203), Version 5.2, including the required practical on V-I characteristics.
+
 ## Official syllabus
 
 This page follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, Version 5.2, published by OxfordAQA, section 3.5.1 Electrical circuits, statements h to o.

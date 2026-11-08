@@ -256,6 +256,17 @@ d = 0.45 m from the loaded end.
 - Putting a plank's weight at an end instead of at its centre.
 - Calling a couple a "resultant force". Its resultant force is zero; its effect is a turning effect.
 
+## Frequently asked questions
+
+**Where does the weight of a uniform plank act?**
+The weight acts at the centre of mass, which for a uniform plank is at its centre. Putting the weight at one end is a common error in moments calculations.
+
+**What is the arm of an angled force?**
+The arm is the perpendicular distance from the pivot to the line of action of the force, not the full length of the rod. For a force at an angle, use the perpendicular distance or the perpendicular component of the force.
+
+**Which sections of the OxfordAQA 9630 specification does this guide cover?**
+It covers sections 3.2.1 (scalars and vectors) and 3.2.2 (moments) of OxfordAQA International AS and A-level Physics (9630), Version 4.4. Both are shared International AS and A-level content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification Version 4.4, sections 3.2.1 and 3.2.2, published by OxfordAQA.

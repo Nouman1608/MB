@@ -171,6 +171,20 @@ Course pages: the [OxfordAQA International GCSE Physics hub](/boards/oxfordaqa/i
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your weakest topic.
 - [Book a free trial class](/trial/) if you want help with the unit.
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on reflection, refraction and total internal reflection for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**Where should angles be measured from in light questions?**
+Measure every angle of incidence, reflection and refraction from the normal, not from the mirror or the surface of the block. A question may give the angle to the surface, so convert it first.
+
+**Does refractive index have a unit?**
+No. Refractive index is a ratio of two speeds, so it has no unit. Forgetting this is a common way to lose a mark.
+
+**Which sections of the OxfordAQA 9203 specification do these questions cover?**
+They cover sections 3.3.4 (reflection) and 3.3.5 (refraction and total internal reflection) of OxfordAQA International GCSE Physics (9203). The qualification is untiered.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.4 and 3.3.5.

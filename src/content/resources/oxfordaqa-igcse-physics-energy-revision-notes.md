@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "energy-oxfordaqa-igcse"
-description: "Condensed recall notes on work, energy transfers, conservation, efficiency, Sankey diagrams and energy resources for OxfordAQA International GCSE Physics (9203), Topic 2 Energy."
+description: "Condensed notes on work, energy stores, conservation, efficiency, Sankey diagrams and energy resources for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -173,6 +175,20 @@ Topic 1 (Forces and their Effects) established force, motion and momentum; Energ
 
 - [Energy study guide](/resources/igcse-oxfordaqa-physics-energy/)
 - [Energy practice questions](/resources/oxfordaqa-igcse-physics-energy-practice/)
+
+## Frequently asked questions
+
+**What is the equation for power in OxfordAQA International GCSE Physics?**
+Power is the rate of transferring energy or doing work: P = W/t = E/t. It is measured in watts, while energy is measured in joules.
+
+**Can energy be destroyed?**
+No. Energy is never created or destroyed; it is only transferred usefully, stored or dissipated, usually as heat through friction or air resistance.
+
+**What does the width of a Sankey diagram arrow show?**
+The width of each arrow is proportional to the amount of energy it represents. The useful and wasted branches together must account for all of the input energy.
+
+**What is elastic potential energy?**
+Elastic potential energy is the energy stored in a stretched spring, within the limit of proportionality.
 
 ## Official syllabus
 

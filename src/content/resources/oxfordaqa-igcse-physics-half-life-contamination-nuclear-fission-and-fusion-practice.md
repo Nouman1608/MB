@@ -148,6 +148,20 @@ These questions follow the OxfordAQA International GCSE Physics (9203) specifica
 - Try the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in half-life calculations?**
+Using half the elapsed time as the number of half-lives, and forgetting to subtract the background count before halving the count rate. Divide the elapsed time by the half-life to find the number of half-lives.
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions written for revision on this topic of OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers from the board.
+
+**Do control rods stop a nuclear reaction?**
+In normal running, control rods absorb neutrons to hold the chain reaction steady, so that each fission causes on average one more fission. Saying they simply stop the reaction is a common error.
+
+**Which sections of the OxfordAQA International GCSE Physics (9203) specification do these questions cover?**
+They cover 3.7.2 h to j (half-life, contamination and irradiation, the range of half-lives), 3.7.3 (nuclear fission) and 3.7.4 (nuclear fusion) of OxfordAQA International GCSE Physics (9203).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), published by OxfordAQA, for exams May/June 2018 onwards: sections 3.7.2 h to j, 3.7.3 and 3.7.4.

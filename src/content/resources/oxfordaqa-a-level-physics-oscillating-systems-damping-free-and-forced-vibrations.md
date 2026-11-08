@@ -205,6 +205,20 @@ The lowest stationary wave has half a wavelength on the string: λ = 1.6 m. f = 
 
 Condense the topic with the [revision notes](/resources/oxfordaqa-a-level-physics-oscillating-systems-damping-free-and-forced-vibrations-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-oscillating-systems-damping-free-and-forced-vibrations-practice/).
 
+## Frequently asked questions
+
+**What is the period of a mass-spring system?**
+The period is T = 2π√(m/k), where m is the oscillating mass and k is the spring constant. A larger mass or a weaker spring gives a longer period.
+
+**How do you find g from a pendulum experiment?**
+Plot T² against l. Since T² = (4π²/g) l, the graph is a straight line through the origin with gradient 4π²/g, so g = 4π² divided by the gradient.
+
+**What happens to a lightly damped oscillator?**
+It keeps oscillating, but the amplitude falls with each cycle while the period stays almost unchanged. If the resistive force grows with speed, the amplitude falls by the same fraction each cycle.
+
+**Which sections of the OxfordAQA 9630 specification does this guide cover?**
+It covers sections 3.5.1 (oscillating systems) and 3.5.2 (forced vibrations and resonance) of OxfordAQA International AS and A-level Physics (9630), which are shared AS and A-level content, plus the A-level-only derivation in 3.6.2.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.5.1 and 3.5.2, with the derivation in 3.6.2.

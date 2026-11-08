@@ -249,6 +249,20 @@ Small changes of a few counts are within random variation, so do not read them a
 - Writing that heating or chemical reactions change the decay of a nucleus.
 - Mixing up penetration and ionising power: the one with the most ionisation penetrates least.
 
+## Frequently asked questions
+
+**What are isotopes?**
+Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons, so they have the same atomic number but different mass numbers.
+
+**What is the relative charge and mass of a proton, neutron and electron?**
+A proton has charge +1 and mass 1, a neutron has charge 0 and mass 1, and an electron has charge −1 and a very small mass.
+
+**How does an atom become an ion?**
+An atom that loses electrons becomes a positive ion, and one that gains electrons becomes a negative ion. The charge of the ion is the number of protons minus the number of electrons.
+
+**What is a beta particle?**
+A beta particle is a fast-moving electron that leaves the nucleus when one of its neutrons changes into a proton. It does not come from the electron shells.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.7.1 a to f and 3.7.2 a to g.

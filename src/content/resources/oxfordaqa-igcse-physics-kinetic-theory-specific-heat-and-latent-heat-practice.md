@@ -170,6 +170,20 @@ These questions cover sections 3.4.1 and 3.4.2 of the OxfordAQA International GC
 * Take the [free 10-minute diagnostics](/diagnostics/) to see what to revise next.
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between specific heat capacity and specific latent heat?**
+Specific heat capacity is used when the temperature changes, E = m c Δθ. Specific latent heat is used when the state changes at a constant temperature, E = m L.
+
+**How do you find the energy supplied by an electric heater?**
+Multiply the power in watts by the time in seconds, E = P × t. Convert minutes to seconds and kilowatts to watts before substituting.
+
+**What are the units of specific heat capacity and specific latent heat?**
+Specific heat capacity is measured in J/kg °C, the energy per kilogram per degree of temperature change. Specific latent heat is measured in J/kg, the energy per kilogram for a change of state.
+
+**Which sections of the OxfordAQA International GCSE Physics (9203) specification do these questions cover?**
+They cover sections 3.4.1 (kinetic theory) and 3.4.2 (energy transfers and particle motion) of OxfordAQA International GCSE Physics (9203).
+
 ## Official syllabus
 
 These questions are aligned to sections 3.4.1 and 3.4.2 of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA.

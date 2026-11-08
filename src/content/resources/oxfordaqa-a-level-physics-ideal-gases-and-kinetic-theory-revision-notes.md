@@ -207,6 +207,20 @@ Visible smoke or pollen particles jitter randomly because unequal numbers of fas
 - Dropping the "random" in the definition of internal energy, or adding potential energy to an ideal gas.
 - Describing the Charles's law method without saying that the gas must reach the bath temperature.
 
+## Frequently asked questions
+
+**What is absolute zero?**
+Absolute zero, 0 K, is the lowest possible temperature. It is found by extrapolating a graph of gas volume or pressure against Celsius temperature back to zero, which cuts the axis at about −273 °C for any gas.
+
+**What is the internal energy of an ideal gas?**
+An ideal gas has no intermolecular forces except during collisions, so it has no potential energy. Its internal energy is the total kinetic energy of its molecules, U = 3nRT/2, which is proportional to the kelvin temperature.
+
+**How is the Boltzmann constant related to the molar gas constant?**
+The Boltzmann constant is the molar gas constant divided by the Avogadro constant: k = R / N_A = 1.38 × 10⁻²³ J K⁻¹. This is why pV = nRT and pV = NkT describe the same gas.
+
+**How do you find the work done by a gas expanding at constant pressure?**
+Work done = pΔV, where ΔV is the change in volume. On a p–V graph it equals the area under the line.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA. Sections 3.11.3 and 3.11.4.

@@ -248,6 +248,20 @@ Examples: crowbar, wheelbarrow, nutcracker.
 - Saying "streamlined" without explaining smooth flow and less drag.
 - Explaining toppling with "too heavy" instead of the position of the line of action of the weight.
 
+## Frequently asked questions
+
+**What is the unit of a moment?**
+A moment is a force multiplied by a perpendicular distance, so it is measured in newton metres (N m).
+
+**Does a heavy object topple more easily?**
+Not because it is heavy. An object topples when the line of action of its weight falls outside its base, so explain toppling in terms of where the weight acts.
+
+**Which forces act on a falling skydiver?**
+Weight acts downwards and drag acts upwards. The resultant force is the weight minus the drag, and it falls to zero as the drag increases with speed.
+
+**Does a skydiver at terminal velocity have no forces acting?**
+No. The weight and drag are still acting, but they are balanced, so the resultant force is zero and the velocity is constant.
+
 ## Official syllabus
 
 These notes follow the OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards, published by OxfordAQA.

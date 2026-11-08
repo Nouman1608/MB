@@ -161,6 +161,20 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-work-power-efficienc
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in work and energy questions?**
+Using the path length instead of the vertical height in mgΔh, using F instead of F cos θ for a force at an angle, and using the peak force instead of the area when the force varies.
+
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
+
+**Can you say energy is lost in an exam answer?**
+Avoid saying energy is "gone" or "lost" without saying where it went. Name the store or form it is transferred to, for example thermal energy of the surroundings.
+
+**Is work, energy and power in OxfordAQA International AS Physics (9630)?**
+Yes. Sections 3.2.7 (work, energy and power) and 3.2.8 (conservation of energy) are shared International AS and A-level content in the OxfordAQA International AS and A-level Physics (9630) specification.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.2.7 and 3.2.8.

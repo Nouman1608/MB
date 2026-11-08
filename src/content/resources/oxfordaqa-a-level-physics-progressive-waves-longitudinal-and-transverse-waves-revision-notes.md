@@ -193,6 +193,20 @@ Malus's law is not expected, so you do not need to calculate transmitted intensi
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-practice/), re-read the [study guide](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves/) where you slipped, and take a free 10-minute check on the [diagnostics page](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the wave equation?**
+The wave speed is c = fλ, where f is the frequency and λ is the wavelength. The frequency and period are linked by f = 1/T.
+
+**What is the definition of wavelength?**
+Wavelength is the distance between two adjacent points on a wave that oscillate in phase, for example from crest to crest. It is measured in metres.
+
+**How can phase difference be given?**
+Phase difference can be given as an angle, in radians or degrees, or as a fraction of a cycle. Two points one whole wavelength apart are in phase.
+
+**Can sound waves be polarised?**
+No. Only transverse waves can be polarised. Sound in air is longitudinal, so it cannot be polarised, while light and other electromagnetic waves can.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.5.3 and 3.5.4.

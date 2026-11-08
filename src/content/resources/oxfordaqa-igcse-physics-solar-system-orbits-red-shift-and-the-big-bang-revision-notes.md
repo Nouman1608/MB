@@ -249,6 +249,20 @@ Distinction to keep: red shift is evidence that the universe is expanding. CMBR 
 - Quoting the age as 14 million years, or giving it without a unit.
 - Saying a larger orbit means a faster satellite. Further out means slower.
 
+## Frequently asked questions
+
+**Does a satellite in a larger orbit move faster?**
+No. A larger orbital radius goes with a lower orbital speed, so satellites further out move more slowly.
+
+**Is a geostationary satellite stationary?**
+No. It orbits once every 24 hours above the equator, moving in the same direction as the Earth spins, so it stays above the same point on the ground.
+
+**Does gravity pull a satellite forwards along its orbit?**
+No. Gravity acts towards the centre of the orbit, at right angles to the satellite's motion. It changes the direction of motion, not the speed.
+
+**What is a moon?**
+A moon is a natural satellite that orbits a planet and travels round the Sun with it. A moon is smaller than the planet it orbits.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.8.2 and 3.8.3.

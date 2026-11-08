@@ -272,6 +272,20 @@ Nuclear fusion is the process by which energy is released in stars. In the core 
 - Saying a long half-life means a high count rate. It means a slow decay and little radiation each second.
 - Saying control rods "stop" the reaction. In normal running they hold it at one neutron per fission.
 
+## Frequently asked questions
+
+**Why do isotopes with short half-lives emit so much radiation?**
+The most unstable nuclei have the shortest half-lives, so they decay rapidly and emit a lot of radiation in a short time. Isotopes with long half-lives emit little radiation each second but keep emitting for a very long time.
+
+**How do you choose a radioactive isotope for a use?**
+Match the type of radiation and the half-life to the job. For a medical scan, gamma can leave the body while alpha would be absorbed, and a short half-life means the patient is exposed for less time.
+
+**When does exposure from radioactive contamination stop?**
+Contamination puts radioactive atoms onto or into a material or person, so exposure stops only when the atoms are removed or have decayed. With irradiation, exposure stops when the object moves away from the source.
+
+**Which sections of the OxfordAQA 9203 specification does this guide cover?**
+It covers 3.7.2 h to j, 3.7.3 (nuclear fission) and 3.7.4 (nuclear fusion) of OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), published by OxfordAQA, for exams May/June 2018 onwards: sections 3.7.2 h to j, 3.7.3 and 3.7.4.

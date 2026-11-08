@@ -269,6 +269,20 @@ The value of g is tiny compared with 9.81 N kg⁻¹, yet the force is huge becau
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-physics-newtons-law-of-gravitation-and-gravitational-field-practice/) and use the [revision notes](/resources/oxfordaqa-a-level-physics-newtons-law-of-gravitation-and-gravitational-field-revision-notes/) for the final weeks. Tick off each point on the [checklist](/checklists/oxfordaqa/a-level/physics/).
 
+## Frequently asked questions
+
+**What is Newton's law of gravitation?**
+Two point masses attract each other with a force proportional to the product of their masses and inversely proportional to the square of their separation: F = Gm₁m₂/r². Gravity is always attractive.
+
+**How does g change with distance from a planet?**
+Outside the planet, g is inversely proportional to r², measured from the centre. At twice the Earth's radius from its centre, g falls to about a quarter of its surface value, roughly 2.45 N kg⁻¹.
+
+**What does the field near a planet's surface look like?**
+Over a few metres or kilometres near the surface, the field lines are parallel and equally spaced, so the field is close to uniform. Further out the field is radial and g falls with distance.
+
+**Which sections of the OxfordAQA 9630 specification does this guide cover?**
+It covers sections 3.7.1 (Newton's gravitational law) and 3.7.2 (gravitational field strength) of OxfordAQA International AS and A-level Physics (9630). Section 3.7 is International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.7.1 Newton's gravitational law and 3.7.2 Gravitational field strength (International A-level only).

@@ -249,6 +249,20 @@ Worked reminder: field from right to left, current up the page. First finger poi
 - Using the right hand for Fleming's rule, or swapping the first and second fingers.
 - Forgetting that the force reverses when only one of current and field is reversed.
 
+## Frequently asked questions
+
+**Why is it harder to push a magnet into a coil when the circuit is complete?**
+The induced current creates a magnetic field that opposes the movement causing it. The magnet can still be moved, but more work must be done against the opposing field.
+
+**What is the difference between an alternator and a dynamo?**
+An alternator produces alternating current, which reverses direction as the coil turns. A dynamo produces direct current, which flows one way but still varies in size.
+
+**How do you remember Fleming's left-hand rule?**
+Hold the thumb, first finger and second finger of your left hand at 90° to each other. The first finger shows the field, the second finger shows the current and the thumb shows the force, or motion.
+
+**How can you increase the force on a wire in a magnetic field?**
+Increase the strength of the magnetic field, the size of the current or the length of the conductor in the field.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), version 5.2, for exams May/June 2018 onwards, published by OxfordAQA, sections 3.6.1 and 3.6.4.

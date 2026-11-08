@@ -261,6 +261,20 @@ The two forces are opposite, so they turn the coil. When the coil lies square-on
 - Mixing up the two fingers in Fleming's rule. Second finger is current, first finger is field.
 - Treating a dynamo as a generator that produces a steady pd. The output is dc but still varies in size.
 
+## Frequently asked questions
+
+**How can you increase the induced pd in a coil?**
+Move the magnet or coil faster, use a stronger magnetic field, add more turns to the coil or use a coil of larger area. Each change makes the wire cut field lines at a greater rate.
+
+**When is the induced pd in an alternator at its maximum?**
+The pd is at its maximum when the plane of the coil is parallel to the field lines, because the sides are cutting the lines at the fastest rate. It is zero when the plane of the coil is at right angles to the field lines.
+
+**What happens when a magnet is held still inside a coil?**
+No pd is induced, because the field through the coil is not changing. A meter only deflects while the magnet or coil is moving, and the deflection reverses when the motion reverses.
+
+**Which sections of the OxfordAQA 9203 specification does this guide cover?**
+It covers sections 3.6.1 (generating electricity) and 3.6.4 (the motor effect) of OxfordAQA International GCSE Physics (9203), version 5.2.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), version 5.2, for exams May/June 2018 onwards, published by OxfordAQA, sections 3.6.1 and 3.6.4.

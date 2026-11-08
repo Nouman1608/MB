@@ -252,6 +252,20 @@ High-energy ionising radiation can be dangerous. People who work with it need **
 
 Condense this with the revision notes, then test yourself with the practice questions (both linked at the top). Tick off progress on the [checklist](/checklists/oxfordaqa/igcse/physics/).
 
+## Frequently asked questions
+
+**Do only black objects emit infrared?**
+No. All objects emit and absorb infrared radiation, whatever their temperature. Dark, matt surfaces are simply better emitters than light, shiny ones.
+
+**Why are X-rays useful for medical imaging?**
+X-rays affect photographic film in the same way as light, are absorbed strongly by bone and metal, and are transmitted by healthy tissue, so bones show up clearly on the image.
+
+**What is infrared used for?**
+Infrared is used in TV remote controls, night vision devices and heating.
+
+**What is the hazard of ultraviolet radiation?**
+Overexposure to ultraviolet can cause skin cancer and blindness. Sunscreen, covering the skin and eye protection that blocks UV reduce the risk.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards, published by OxfordAQA, section 3.3.2 The electromagnetic spectrum.

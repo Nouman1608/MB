@@ -262,6 +262,20 @@ A bi-metallic strip joins two metals, such as brass and iron, which expand by di
 
 See also [energy transfers and Sankey diagrams](/resources/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy/) and the [infrared radiation guide](/resources/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and/).
 
+## Frequently asked questions
+
+**What is the equation for specific heat capacity?**
+The energy needed to change the temperature of a mass m is E = m c Δθ, where c is the specific heat capacity and Δθ is the temperature change.
+
+**What does a flat section on a heating curve show?**
+A flat section shows a change of state, melting or boiling, at a constant temperature. The energy supplied is separating particles rather than increasing their kinetic energy.
+
+**Why does a small object cool faster than a large one?**
+A smaller object has a larger surface area to volume ratio. A cube of edge s has surface area 6s² and volume s³, so halving s doubles the ratio and energy is transferred to the surroundings faster relative to its size.
+
+**Is OxfordAQA International GCSE Physics (9203) tiered?**
+No. The qualification is untiered, so all the kinetic theory and heat transfer content in sections 3.4.1 and 3.4.2 applies to every candidate.
+
 ## Official syllabus
 
 This guide is aligned to sections 3.4.1 and 3.4.2 of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA.

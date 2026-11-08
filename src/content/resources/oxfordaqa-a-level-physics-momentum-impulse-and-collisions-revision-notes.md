@@ -210,6 +210,20 @@ Good wording: "The crumple zone increases the time to stop, so the rate of chang
 - Leaving out weight in vertical impacts when the question asks for the contact force.
 - Dropping units, or writing N s and kg m s⁻¹ as if they were different quantities.
 
+## Frequently asked questions
+
+**What is the principle of conservation of momentum?**
+The total momentum of a closed system stays constant as long as no resultant external force acts on it. Momentum is conserved in elastic collisions, inelastic collisions and explosions.
+
+**What is the unit of impulse?**
+Impulse is the change in momentum, measured in N s. This is equivalent to kg m s⁻¹, the unit of momentum.
+
+**What is a perfectly inelastic collision?**
+A perfectly inelastic collision is one in which the bodies move off together. It gives the greatest loss of kinetic energy possible while still conserving momentum.
+
+**How do you find the average force during an impact?**
+Divide the impulse by the contact time: average force = impulse / contact time. A longer contact time for the same change in momentum gives a smaller average force.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Section 3.2.6 Momentum.

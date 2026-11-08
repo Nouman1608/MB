@@ -206,6 +206,20 @@ The consequence is that over long distances the signal falls below what the rece
 
 Condense this section with the [revision notes](/resources/oxfordaqa-a-level-physics-refraction-total-internal-reflection-and-optical-fibres-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-refraction-total-internal-reflection-and-optical-fibres-practice/). If the graph method needs uncertainty work, revisit [measurements and their errors](/resources/a-level-oxfordaqa-physics-measurements-and-their-errors/).
 
+## Frequently asked questions
+
+**Why does an optical fibre need cladding?**
+The cladding has a slightly lower refractive index than the core, which allows total internal reflection at the core boundary. It also protects the core from scratches, stops signals leaking between touching fibres and strengthens the fibre.
+
+**What is the difference between modal and material dispersion?**
+Modal dispersion happens because rays taking different paths along the fibre arrive at different times. Material dispersion happens because different wavelengths travel at different speeds in the glass. Both broaden a pulse.
+
+**Does a ray along the normal change speed?**
+Yes. A ray travelling along the normal passes straight through without bending, but its speed and wavelength still change in the new medium.
+
+**Which section of the OxfordAQA 9630 specification covers optical fibres?**
+Section 3.5.8 (refraction at a plane surface) of OxfordAQA International AS and A-level Physics (9630) covers refractive index, Snell's law, total internal reflection and a simple treatment of fibre optics. It is shared AS and A-level content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Section 3.5.8 Refraction at a plane surface.

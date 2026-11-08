@@ -156,6 +156,20 @@ These questions follow section 3.1 (3.1.1 to 3.1.3) of the *OxfordAQA Internatio
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What mistakes lose marks in unit conversion questions?**
+Converting mm² or cm³ with the linear factor, using grams where kilograms are needed, and dividing instead of multiplying by 3.6 × 10⁶ when going from kW h to J. Apply the power to the whole prefix when units are squared or cubed.
+
+**How do you combine uncertainties when two readings are subtracted?**
+Add the absolute uncertainties. Uncertainties never cancel, so subtracting them when the readings are subtracted is a common error.
+
+**Is section 3.1 in OxfordAQA International AS Physics (9630)?**
+Yes. Section 3.1 is shared content: it is assessed in the International AS and in the full International A-level, with no AS/A-level split inside it.
+
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, section 3.1 Measurements and their errors, for International AS and A-level exams from May/June 2020 onwards. Published by OxfordAQA.

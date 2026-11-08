@@ -249,6 +249,20 @@ An oscillator of mass 0.20 kg has ω = 9.0 rad s⁻¹ and amplitude 0.050 m.
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-physics-simple-harmonic-motion-equations-graphs-and-energy-practice/) next.
 
+## Frequently asked questions
+
+**What is the phase relationship between displacement, velocity and acceleration in SHM?**
+Velocity leads displacement by a quarter of a cycle (π/2 rad). Acceleration is in antiphase with displacement, a phase difference of π, which is the graph form of a = −ω²x.
+
+**How do you find velocity from a displacement-time graph?**
+The velocity at any instant is the gradient of the x–t graph, found by drawing a tangent. It is greatest where the curve crosses x = 0 and zero at the peaks and troughs.
+
+**How often do kinetic and potential energy repeat in SHM?**
+Against time, kinetic and potential energy each oscillate at twice the frequency of the motion, with period T/2. Both are always zero or positive.
+
+**Which section of the OxfordAQA 9630 specification covers SHM?**
+Section 3.6.2 of OxfordAQA International AS and A-level Physics (9630), version 4.4, covers simple harmonic motion. It is International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. This guide follows section 3.6.2 (International A-level only).

@@ -263,6 +263,20 @@ The three properties are linked. A strongly ionising radiation loses energy at e
 
 Next, use the [revision notes](/resources/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising-revision-notes/) to condense this, then try the [practice questions](/resources/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising-practice/).
 
+## Frequently asked questions
+
+**Can heating a radioactive sample change how fast it decays?**
+No. Radioactive decay is random and is not affected by chemical or physical processes, so heating, compressing or chemically combining a sample does not change how its nuclei decay.
+
+**Why are alpha, beta and gamma called ionising radiation?**
+They can remove electrons from atoms they pass, turning those atoms into ions.
+
+**What is the difference between atomic number and mass number?**
+The atomic number, also called the proton number, is the number of protons in the nucleus. The mass number is the number of protons plus neutrons.
+
+**Which sections of the OxfordAQA International GCSE Physics (9203) specification does this guide cover?**
+It covers sections 3.7.1 a to f (atomic structure) and 3.7.2 a to g (ionising radiation from the nucleus) of OxfordAQA International GCSE Physics (9203). Half-life, fission and fusion are covered separately.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.7.1 a to f and 3.7.2 a to g.

@@ -229,6 +229,20 @@ At times of low demand, surplus electricity drives pumps that lift water from a 
 - Adding voltages in parallel or currents in series.
 - Calling pumped storage an energy source.
 
+## Frequently asked questions
+
+**Why can a wind turbine not extract all the wind's kinetic energy?**
+If it took all the kinetic energy, the air would stop behind the rotor and block the flow, so air must leave with some kinetic energy. There are also losses to friction, turbulence and resistive heating, and the wind speed varies.
+
+**Why is the power of a wind turbine proportional to v³?**
+The mass of air passing through the blades each second is proportional to v, and the kinetic energy of each kilogram is proportional to v². Together these give a power proportional to v³.
+
+**How do you find the maximum power of a solar cell?**
+Multiply current by voltage at each point on the cell's V-I characteristic, P = IV. The maximum power is produced at a point between zero voltage and the open-circuit voltage.
+
+**Which sections of the OxfordAQA 9630 specification does this guide cover?**
+It covers sections 3.13.2 (wind energy), 3.13.3 (solar energy) and 3.13.4 (hydroelectric power and pumped storage) of OxfordAQA International AS and A-level Physics (9630), version 4.4. Section 3.13 is International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA. This guide follows sections 3.13.2, 3.13.3 and 3.13.4.

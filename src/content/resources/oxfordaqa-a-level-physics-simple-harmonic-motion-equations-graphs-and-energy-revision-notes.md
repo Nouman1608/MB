@@ -217,6 +217,20 @@ A second reminder, for the pendulum. A 2.5 m pendulum swings through a small ang
 - Reading a gradient from a chord instead of drawing a tangent at the point required.
 - Using the full extension of a hanging spring as the displacement.
 
+## Frequently asked questions
+
+**What is the condition for simple harmonic motion?**
+The acceleration must be proportional to the displacement from equilibrium and directed towards it: a = −ω²x. The minus sign shows that the acceleration always points back to the equilibrium position.
+
+**Where is the speed greatest in SHM?**
+The speed is greatest, ωA, at the equilibrium position, where the acceleration is zero. At the extremes the speed is zero and the acceleration has its maximum size, ω²A.
+
+**What is the speed equation for SHM?**
+The speed at displacement x is v = ±ω√(A² − x²). It gives the maximum speed ωA when x = 0 and zero speed when x = ±A.
+
+**At what displacement are kinetic and potential energy equal in SHM?**
+The kinetic and potential energy curves cross at x = ±A/√2. At those points each is half of the total energy, ½mω²A².
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Section 3.6.2 is International A-level only.

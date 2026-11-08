@@ -182,6 +182,20 @@ These questions follow the OxfordAQA International GCSE Physics (9203) specifica
 - Take the [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in lens questions?**
+Writing that a concave lens forms a real image of a real object, saying a virtual image cannot be seen, and dividing heights measured in different units when finding magnification.
+
+**Can you see a virtual image?**
+Yes. A virtual image can be seen by looking through the lens, but it cannot be caught on a screen.
+
+**How can you locate an image on graph paper without measuring?**
+Write the equation of each ray as a straight line, using the principal focus and the centre of the lens, then solve the two equations together. The point where the rays cross gives the image position.
+
+**Which section of the OxfordAQA International GCSE Physics (9203) specification do these questions cover?**
+They cover section 3.3.6, lenses and the eye, points a to l, of OxfordAQA International GCSE Physics (9203). This section is for the full Physics award.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards, Version 5.2, published by OxfordAQA. These questions follow section 3.3.6, Lenses and the eye.

@@ -147,6 +147,20 @@ These questions follow section 3.2.6 (Momentum) of the OxfordAQA International A
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to check what to revise next.
 - [Book a free trial class](/trial/) if you want help with any of these questions.
 
+## Frequently asked questions
+
+**What are the most common mistakes in momentum questions?**
+Forgetting that velocities in opposite directions need opposite signs, assuming kinetic energy is conserved in every collision, and using milliseconds without converting to seconds. Mark a positive direction on a sketch before you start.
+
+**How do you find a change in momentum when an object rebounds?**
+Subtract the velocities with their signs, so a ball that reverses direction has a change in momentum larger than mv. Adding speeds without thinking about direction leads to sign errors.
+
+**Is momentum in OxfordAQA International AS Physics (9630)?**
+Yes. Section 3.2.6, Momentum, is shared International AS and A-level content of the OxfordAQA International AS and A-level Physics (9630) specification.
+
+**How do you find impulse from a curved force-time graph?**
+Impulse is the area under the force-time graph. For a curved graph, count squares or use the trapezium rule on tabulated data.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Section 3.2.6 Momentum.

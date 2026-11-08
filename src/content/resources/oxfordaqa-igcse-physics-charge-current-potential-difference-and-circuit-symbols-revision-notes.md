@@ -246,6 +246,20 @@ Buzzer transfers = 240 - 100 = 140 J, so V = 140 / 40 = 3.5 V
 - Drawing the voltmeter in the loop or the ammeter across a component.
 - Missing the unit, or writing C for current and A for charge.
 
+## Frequently asked questions
+
+**What is the equation linking charge, current and time?**
+Charge equals current multiplied by time, Q = It, with charge in coulombs, current in amperes and time in seconds.
+
+**What does a potential difference of 4 V mean?**
+A potential difference of 4 V across a component means each coulomb of charge passing through it transfers 4 joules of energy. This follows from V = E/Q.
+
+**What is the difference between the voltage of a source and a potential difference?**
+The voltage of a source is the energy it gives to each coulomb of charge driven round the circuit. The potential difference across a component is the energy each coulomb transfers while passing through it.
+
+**Which section of the OxfordAQA International GCSE Physics (9203) specification do these notes cover?**
+They cover section 3.5.1 Electrical circuits, statements a to g, of OxfordAQA International GCSE Physics (9203): charge, static electricity, current, potential difference, circuit symbols, thermistors and LDRs.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.5.1 Electrical circuits, statements a to g.

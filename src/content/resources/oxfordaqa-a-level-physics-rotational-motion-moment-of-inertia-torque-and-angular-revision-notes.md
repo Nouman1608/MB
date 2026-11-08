@@ -195,6 +195,20 @@ W = Tθ = 0.80 × 15 = 12 J
 - Omitting units, or mixing N m with J as if they were interchangeable. Torque is in N m; work and energy are in J.
 - Using a value of I for one axis when the object turns about another.
 
+## Frequently asked questions
+
+**What is the moment of inertia of a point mass?**
+For a point mass, I = mr², where r is the distance from the axis of rotation. For several point masses, add the contributions: I = Σmr².
+
+**What is the rotational equivalent of momentum?**
+Angular momentum is Iω, the rotational version of linear momentum mv. It is conserved when no resultant external torque acts on the system.
+
+**What is the rotational equivalent of F = ma?**
+The rotational version is T = Iα, where T is the resultant torque, I is the moment of inertia and α is the angular acceleration.
+
+**What is the formula for rotational kinetic energy?**
+Rotational kinetic energy is ½Iω², the rotational version of ½mv². Work done by a torque is Tθ and power is Tω.
+
 ## Official syllabus
 
 Published by OxfordAQA: International AS and A-level Physics (9630), specification Version 4.4, which applies to exams from May/June 2020. Source for this page: section 3.13.1, Rotational motion.

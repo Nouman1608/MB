@@ -227,6 +227,20 @@ A grating with d = 4.00 × 10⁻⁶ m and 633 nm light gives sin θ = 0.158 at n
 </figure>
 
 
+## Frequently asked questions
+
+**What does coherent mean in physics?**
+Two sources are coherent when they have the same frequency and a constant phase difference. Coherent sources are needed to produce a stable interference pattern.
+
+**What path difference gives a bright fringe?**
+If the waves leave their sources in phase, a path difference of a whole number of wavelengths, nλ, gives constructive interference and a maximum. A path difference of (n + ½)λ gives destructive interference and a minimum.
+
+**Does a narrower slit give a wider or narrower central maximum?**
+A narrower slit gives a wider central maximum, because diffraction is stronger. A longer wavelength also widens it, while a wider slit makes it narrower and brighter.
+
+**Which laser safety precautions should you state for OxfordAQA required practical 5?**
+Use a low-power laser, never look into the beam or its reflection, stop the beam with a matt screen or block, and keep the beam below eye level. A vague answer such as "be careful" does not earn the mark.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), sections 3.5.6 and 3.5.7, Version 4.4 (for exams May/June 2020 onwards), published by OxfordAQA.

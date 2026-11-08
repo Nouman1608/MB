@@ -296,6 +296,20 @@ Useful power out = 0.18 x 5400 = 972 W (about 970 W)
 - Drawing Sankey arrows where the outputs do not add up to the input.
 - Saying renewable sources have no environmental impact. Every source has some.
 
+## Frequently asked questions
+
+**What energy transfer happens when a diver steps off a high board?**
+As the diver falls, gravitational potential energy is transferred to kinetic energy. A ball rolling up a ramp does the reverse, transferring kinetic energy to gravitational potential energy.
+
+**Why is burning fossil fuels a problem?**
+Burning coal, oil and natural gas releases carbon dioxide, which contributes to global warming, and coal can also release sulfur dioxide, which causes acid rain. Extraction can also damage land or sea.
+
+**What are the drawbacks of solar power?**
+Solar cells give no output at night and less in cloudy weather, large areas are needed for large outputs, and making and disposing of panels has an environmental cost.
+
+**Is energy resources content in OxfordAQA International GCSE Physics (9203)?**
+Yes. Section 3.2.3 covers energy resources and section 3.2.2 covers energy transfers. The qualification is untiered, so all of it applies to every candidate.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.2 and 3.2.3.

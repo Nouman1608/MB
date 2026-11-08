@@ -154,6 +154,20 @@ These questions cover sections 3.1.6 to 3.1.8 of the OxfordAQA International GCS
 - Take any of the [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on terminal velocity, centre of mass, moments and levers for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**What is the equation for the moment of a force?**
+Moment = force × perpendicular distance from the pivot to the line of action of the force, measured in N m.
+
+**What unit mistake loses marks in moments questions?**
+Mixing centimetres and metres in one calculation. Convert every distance to the same unit, usually metres, before taking moments.
+
+**Which sections of the OxfordAQA 9203 specification do these questions cover?**
+They cover sections 3.1.6 (forces and terminal velocity), 3.1.7 (centre of mass) and 3.1.8 (moments and levers) of OxfordAQA International GCSE Physics (9203), version 5.2.
+
 ## Official syllabus
 
 These questions follow the OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards, published by OxfordAQA.

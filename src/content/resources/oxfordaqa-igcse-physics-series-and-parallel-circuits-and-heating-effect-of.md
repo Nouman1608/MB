@@ -206,6 +206,20 @@ The same amount of light costs far less energy. When you buy a new appliance you
 - Writing that heating happens because electrons "rub" the wire. Name the collisions with stationary atoms.
 - Calling a CFL "100% efficient" because it feels cooler. It still wastes some energy.
 
+## Frequently asked questions
+
+**Is current used up in a series circuit?**
+No. The current is the same everywhere in a series loop. It is the energy carried by the charge that is transferred to the components.
+
+**Does each parallel branch get a share of the supply pd?**
+No. Every parallel branch has the whole supply pd across it. It is the current that splits between the branches and rejoins afterwards.
+
+**What is the resistance of two equal resistors in parallel?**
+Two equal resistors in parallel have half the resistance of one, because each carries half of the supply current. Two 60 Ω resistors in parallel behave as 30 Ω.
+
+**Why does a heater element have a high resistance?**
+A wire with a high resistance transfers a large share of the energy supplied as heat in the element. The connecting wires have a low resistance, so little energy is transferred in them and they stay cool.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.5.1 (electrical circuits), statements p to t.

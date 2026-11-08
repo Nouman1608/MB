@@ -247,6 +247,20 @@ The resultant force is the contact force minus weight. Weight = 2.4 × 9.81 = 23
 - Forgetting weight when asked for the contact force during a vertical impact.
 - Explaining a crumple zone as "absorbing the force". Say that it increases the stopping time, which reduces the rate of change of momentum.
 
+## Frequently asked questions
+
+**Is kinetic energy always conserved in a collision?**
+No. Kinetic energy is conserved only in an elastic collision; in an inelastic collision some becomes thermal energy, sound or deformation. Momentum, by contrast, is always conserved when the system is closed.
+
+**Is momentum a vector?**
+Yes. Momentum, p = mv, has the direction of the velocity, so in one-dimensional problems you must choose a positive direction and give velocities in the opposite direction a negative sign.
+
+**Why do crumple zones and padding reduce injury?**
+They increase the contact time during an impact. For the same change in momentum, a longer time means a smaller rate of change of momentum and so a smaller force.
+
+**Which section of the OxfordAQA 9630 specification covers momentum?**
+Section 3.2.6 (Momentum) of OxfordAQA International AS and A-level Physics (9630) covers p = mv, conservation of momentum, collisions, explosions, F = Δ(mv)/Δt, impulse and force-time graphs.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Section 3.2.6 Momentum.

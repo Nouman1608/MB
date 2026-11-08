@@ -247,6 +247,20 @@ The force is multiplied by 1.20 ÷ 0.15 = 8. In return, the effort moves eight t
 - Mixing centimetres and metres in one calculation.
 - Saying a tall object topples because it is heavy, not because the line of action of the weight is outside the base.
 
+## Frequently asked questions
+
+**Why does the acceleration of a falling object decrease?**
+As the object speeds up, drag increases, so the resultant force, weight minus drag, gets smaller. The acceleration falls until drag equals weight and terminal velocity is reached.
+
+**What happens when a skydiver opens a parachute?**
+Drag suddenly becomes much bigger than the weight, so the skydiver slows down. As the speed falls, drag falls, until it equals the weight again at a new, much lower terminal velocity.
+
+**What does a horizontal line on a skydiver's velocity-time graph mean?**
+It means the velocity is constant, so the skydiver is at a terminal velocity and the weight equals the drag.
+
+**Is OxfordAQA International GCSE Physics (9203) tiered?**
+No. The qualification is untiered, so the terminal velocity, centre of mass and moments content in sections 3.1.6 to 3.1.8 applies to every candidate.
+
 ## Official syllabus
 
 This guide follows the OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Check the current version on the OxfordAQA website.

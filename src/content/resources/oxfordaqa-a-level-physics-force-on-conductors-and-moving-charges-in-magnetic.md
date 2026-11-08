@@ -212,6 +212,23 @@ At speeds close to the speed of light the particle's mass increases, the revolut
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-force-on-conductors-and-moving-charges-in-magnetic-practice/) or find your weak spots with a [diagnostic](/diagnostics/). For earlier ideas on forces and circular motion, see the [motion and Newton's laws guide](/resources/a-level-oxfordaqa-physics-motion-and-newtons-laws/).
 
+## Frequently asked questions
+
+**Is magnetic force on moving charges in the OxfordAQA International AS Physics (9630) content?**
+No. Section 3.10 of the OxfordAQA International AS and A-level Physics (9630) specification is marked International A-level only, so F = BIL, F = BQv and the cyclotron are not part of the International AS content.
+
+**Why does a magnetic field not change the speed of a charged particle?**
+The magnetic force always acts at 90° to the velocity, so it does no work on the particle. Its speed and kinetic energy stay constant and only its direction changes, which is why it moves in a circle.
+
+**Does the time for one orbit depend on the speed of the particle?**
+No. The period is T = 2πm / (BQ), so it depends only on the mass, the charge and the flux density. A faster particle moves on a larger circle, r = mv / (BQ), but takes the same time to go round it.
+
+**How do you use Fleming's left-hand rule for an electron?**
+Point the second finger opposite to the electron's velocity, because the equivalent conventional current runs the other way. For the same velocity and field, an electron is pushed in the opposite direction to a proton.
+
+**What is the tesla in base units?**
+One tesla is 1 N A⁻¹ m⁻¹, the flux density that gives a 1 N force on a 1 m wire carrying 1 A at right angles to the field. In SI base units this is kg s⁻² A⁻¹.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by Oxford International AQA Examinations. Sections 3.10.1 and 3.10.2.

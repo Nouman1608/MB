@@ -177,6 +177,20 @@ Links: [study guide](/resources/oxfordaqa-igcse-physics-atomic-structure-isotope
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in atomic structure questions?**
+Saying a beta particle comes from the electron shells, saying the nucleus is mostly empty space, and calculating neutrons as the atomic number. Beta particles come from the nucleus, the atom is mostly empty space, and neutrons equal mass number minus atomic number.
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions written for revision on this topic of OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers from the board.
+
+**Is the OxfordAQA International GCSE Physics (9203) exam tiered?**
+No. The OxfordAQA International GCSE Physics (9203) qualification is untiered, so every candidate takes the same papers.
+
+**How do you correct a count rate for background radiation?**
+Measure the background count rate with no source present, then subtract it from each count rate measured with the source.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.7.1 a to f and 3.7.2 a to g.

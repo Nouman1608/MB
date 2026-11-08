@@ -273,6 +273,20 @@ Distance between the boundaries = 0.105 - 0.045 = 0.060 m (6.0 cm)
 5. Forgetting to convert units: µs to s, MHz to Hz, ms to s.
 6. Describing diffraction without mentioning that the wavelength must be comparable to the gap.
 
+## Frequently asked questions
+
+**What does the pitch of a sound depend on?**
+Pitch depends on the frequency of vibration of the source: a higher frequency gives a higher pitch. Loudness is related to the amplitude.
+
+**Can sound travel through a vacuum?**
+No. Sound needs a medium, because it travels as vibrations of the particles of the material. Electromagnetic waves, by contrast, can travel through a vacuum.
+
+**Does a wave's frequency change when it refracts?**
+No. The source decides the frequency, and the boundary cannot change it. The speed changes, and so does the wavelength.
+
+**What is the definition of amplitude?**
+Amplitude is the maximum displacement of a point on a wave from its undisturbed position.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. This page covers sections 3.3.1 and 3.3.3.

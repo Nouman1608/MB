@@ -156,6 +156,20 @@ Use: speed of sound in air 340 m/s; 1 day = 86 400 s.
 - Try the [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on the solar system, orbits, red shift and the Big Bang for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**How do you calculate the orbital speed of a satellite?**
+Divide the distance round the orbit by the time for one orbit, v = 2πr / T, with r the orbital radius in metres and T in seconds. Convert days or hours to seconds first.
+
+**Which sections of the OxfordAQA 9203 specification do these questions cover?**
+They cover sections 3.8.2 (solar system and orbital motion) and 3.8.3 (red shift and the expanding universe) of OxfordAQA International GCSE Physics (9203).
+
+**Is OxfordAQA International GCSE Physics (9203) tiered?**
+No. The qualification is untiered, so the space physics in sections 3.8.2 and 3.8.3 applies to every candidate.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.8.2 and 3.8.3.
