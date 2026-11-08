@@ -93,7 +93,7 @@ WRITEFILE "Marks.txt", "Amira,71"
 CLOSEFILE "Marks.txt"
 
 OPENFILE "Marks.txt" FOR READ
-WHILE NOT EOF("Marks.txt") DO
+WHILE NOT EOF("Marks.txt")
   READFILE "Marks.txt", Line
   OUTPUT Line
 ENDWHILE
@@ -154,7 +154,7 @@ ENDFUNCTION
 | pop (returns 5) | 7 | 12 | 5 | 3 |
 | push 9 | 7 | 12 | 9 | 4 |
 
-The pop returns 5, the most recent item, and decrements the pointer; the value 5 remains in memory but is treated as free and is overwritten by the push of 9. I ran an equivalent Python version to confirm the final state: items 7, 12, 9 and a pointer showing the next free position. In an exam, state clearly that the pointer moves and the data does not.
+The pop returns 5, the most recent item, and decrements the pointer; the value 5 remains in memory but is treated as free and is overwritten by the push of 9. The final state is items 7, 12, 9 and a pointer showing the next free position. In an exam, state clearly that the pointer moves and the data does not.
 
 ## Worked example 2: totals in a two-dimensional array
 

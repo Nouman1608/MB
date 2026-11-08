@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "types-and-components-of-computer-systems"
+  - qualification: "igcse"
+    topic: "types-and-components-of-computer-systems"
+    subtopic: "hardware-and-software-0417"
+  - qualification: "igcse"
+    topic: "types-and-components-of-computer-systems"
+    subtopic: "the-main-components-of-computer-systems-0417"
 description: "Condensed recall notes on hardware, software, storage, networks, safety and the effects of ICT for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

@@ -13,6 +13,12 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "databases"
+  - qualification: "a-level"
+    topic: "databases"
+    subtopic: "database-concepts"
+  - qualification: "a-level"
+    topic: "databases"
+    subtopic: "ddl-and-dml"
 description: "Original exam-style practice questions with full worked answers on primary, candidate and foreign keys, referential integrity, normalisation and SQL for Cambridge AS & A Level Computer Science (9618) Topic 8."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

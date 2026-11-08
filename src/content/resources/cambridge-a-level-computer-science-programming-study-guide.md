@@ -29,7 +29,7 @@ publishedDate: 2026-11-08
 featured: false
 ---
 
-Programming is the skill that Paper 2 tests most directly. You must write correct code in a language you have studied (Cambridge allows Python, Java or Visual Basic for the practical paper) and read and write Cambridge pseudocode in the theory papers. This guide uses pseudocode, with Python to check the arithmetic, and covers the basic building blocks, the three constructs and the structured approach using procedures and functions.
+Programming is the skill that Paper 2 tests most directly. You must write correct code in a language you have studied (Cambridge allows Python, Java or Visual Basic for the practical paper) and read and write Cambridge pseudocode in the theory papers. This guide uses Cambridge pseudocode and covers the basic building blocks, the three constructs and the structured approach using procedures and functions.
 
 ## Where this fits in the specification
 
@@ -39,10 +39,10 @@ Topic 11 is AS Level. It depends on the thinking skills in the algorithm design 
 
 A **variable** is a named storage location whose value can change while a program runs. A **constant** is a named value that is set once and cannot change, such as a rate of tax, and using one means a value is changed in one place only. Use **meaningful identifiers** such as TotalMarks, not x1, so the code explains itself.
 
-Declare each variable with its type and assign with the arrow.
+Declare each variable with its type and assign with the arrow; a constant is declared with an equals sign.
 
 ```
-CONSTANT VatRate ← 0.20
+CONSTANT VatRate = 0.20
 DECLARE Price, Total : REAL
 DECLARE Quantity : INTEGER
 INPUT Quantity
@@ -78,7 +78,7 @@ ENDCASE
 Choose the loop that fits what you know.
 
 - **FOR ... TO ... NEXT** (count-controlled): use when the number of repetitions is known in advance.
-- **WHILE ... DO ... ENDWHILE** (pre-condition): the condition is tested first, so the body might never run.
+- **WHILE ... ENDWHILE** (pre-condition): the condition is tested first, so the body might never run.
 - **REPEAT ... UNTIL** (post-condition): the body always runs at least once, and the loop ends when the condition becomes true.
 
 A very common error is mixing the exit conditions. WHILE continues while the condition is true; REPEAT UNTIL stops when it is true. For input validation, REPEAT UNTIL is natural because you must ask at least once.
@@ -97,7 +97,7 @@ Structured programming means breaking a program into named, self-contained modul
 FUNCTION DigitSum(Number : INTEGER) RETURNS INTEGER
   DECLARE Total : INTEGER
   Total ← 0
-  WHILE Number > 0 DO
+  WHILE Number > 0
     Total ← Total + Number MOD 10
     Number ← Number DIV 10
   ENDWHILE
@@ -115,7 +115,7 @@ CALL ShowResult(DigitSum(4827))
 
 ## Worked example 1: tracing DigitSum
 
-Trace DigitSum(4827). The Python check confirms the final value is 21.
+Trace DigitSum(4827).
 
 | Step | Number | Number MOD 10 | Total | Number after DIV 10 |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ PassCount ← 0
 REPEAT
   INPUT Mark
 UNTIL (Mark >= 0 AND Mark <= 100) OR Mark = -1
-WHILE Mark <> -1 DO
+WHILE Mark <> -1
   IF Mark >= 50 THEN
     PassCount ← PassCount + 1
   ENDIF

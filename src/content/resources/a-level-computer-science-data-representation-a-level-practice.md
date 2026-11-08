@@ -13,6 +13,12 @@ order: 13
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-data-representation"
+  - qualification: "a-level"
+    topic: "a-data-representation"
+    subtopic: "user-defined-data-types"
+  - qualification: "a-level"
+    topic: "a-data-representation"
+    subtopic: "floating-point-numbers-representation-and-manipulation"
 description: "Original exam-style questions with full worked answers on enumerated, composite and pointer data types, normalised binary floating-point representation and random file access by hashing, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

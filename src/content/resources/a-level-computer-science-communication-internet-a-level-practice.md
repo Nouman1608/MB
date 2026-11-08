@@ -13,6 +13,12 @@ order: 14
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-and-internet-technologies"
+  - qualification: "a-level"
+    topic: "communication-and-internet-technologies"
+    subtopic: "protocols"
+  - qualification: "a-level"
+    topic: "communication-and-internet-technologies"
+    subtopic: "circuit-switching-packet-switching"
 description: "Original exam-style questions with full worked answers on the layers of the TCP/IP protocol suite, email and peer-to-peer protocols, and packet switching compared with circuit switching, for Cambridge AS & A Level Computer Science (9618)."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

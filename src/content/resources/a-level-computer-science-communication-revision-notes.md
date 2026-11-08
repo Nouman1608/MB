@@ -13,6 +13,9 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication"
+  - qualification: "a-level"
+    topic: "communication"
+    subtopic: "networks-including-the-internet"
 description: "Condensed revision notes on networks, topologies, cloud computing, wired/wireless media, Ethernet, IP addressing and DNS for Cambridge AS & A Level Computer Science Topic 2 (9618)."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

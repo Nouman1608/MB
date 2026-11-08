@@ -117,13 +117,21 @@ A simple validation routine in Cambridge-style pseudocode shows how a range, typ
 
 ```
 FUNCTION ValidMonth(Entry : STRING) RETURNS BOOLEAN
-  IF LENGTH(Entry) = 0 THEN          // presence
+  DECLARE Index : INTEGER
+  DECLARE Ch : CHAR
+  IF LENGTH(Entry) = 0 THEN                  // presence
     RETURN FALSE
   ENDIF
-  IF NOT IS_NUM(Entry) THEN          // type
-    RETURN FALSE
+  FOR Index ← 1 TO LENGTH(Entry)             // type: digits only
+    Ch ← MID(Entry, Index, 1)
+    IF Ch < '0' OR Ch > '9' THEN
+      RETURN FALSE
+    ENDIF
+  NEXT Index
+  IF LENGTH(Entry) = 1 THEN                  // range: 1 to 12
+    RETURN Entry <> "0"
   ENDIF
-  RETURN (INT(Entry) >= 1) AND (INT(Entry) <= 12)   // range
+  RETURN LENGTH(Entry) = 2 AND Entry >= "01" AND Entry <= "12"
 ENDFUNCTION
 ```
 

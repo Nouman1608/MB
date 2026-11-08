@@ -42,7 +42,7 @@ A **binary search** finds an item in a **sorted** array by repeatedly halving th
 Low ← 1
 High ← 11
 Found ← FALSE
-WHILE Low <= High AND Found = FALSE DO
+WHILE Low <= High AND Found = FALSE
   Mid ← (Low + High) DIV 2
   IF List[Mid] = Target THEN
     Found ← TRUE
@@ -64,7 +64,7 @@ An **insertion sort** builds a sorted section at the start of the list. It takes
 FOR i ← 2 TO n
   Value ← List[i]
   j ← i - 1
-  WHILE j >= 1 AND List[j] > Value DO
+  WHILE j >= 1 AND List[j] > Value
     List[j + 1] ← List[j]
     j ← j - 1
   ENDWHILE
@@ -120,13 +120,13 @@ Search the sorted list 3, 9, 14, 22, 27, 31, 40, 46, 58, 63, 71 (positions 1 to 
 | 7 | 8 | 7 | 40 | 46 > 40, so Low = 8 |
 | 8 | 8 | 8 | 46 | found at position 8 |
 
-It takes 4 comparisons, whereas a linear search needs 8. Now search for 30. The first midpoint (position 6, value 31) means 30 < 31 so High = 5; then Mid = 3 (value 14), Low = 4; then Mid = 4 (value 22), Low = 5; then Mid = 5 (value 27), Low = 6. Now Low > High, so the loop ends with Found still FALSE: 30 is not in the list, after 4 comparisons. I checked both traces in Python. For 11 items the maximum number of comparisons is 4, since 2 to the power 4 is 16, which is at least 11 + 1.
+It takes 4 comparisons, whereas a linear search needs 8. Now search for 30. The first midpoint (position 6, value 31) means 30 < 31 so High = 5; then Mid = 3 (value 14), Low = 4; then Mid = 4 (value 22), Low = 5; then Mid = 5 (value 27), Low = 6. Now Low > High, so the loop ends with Found still FALSE: 30 is not in the list, after 4 comparisons. For 11 items the maximum number of comparisons is 4, since 2 to the power 4 is 16, which is at least 11 + 1.
 
 ## Worked example 2: tracing recursion and counting calls
 
 Trace Factorial(4). The calls wind down: Factorial(4) needs 4 x Factorial(3); Factorial(3) needs 3 x Factorial(2); Factorial(2) needs 2 x Factorial(1); Factorial(1) returns 1, the base case. Unwinding: Factorial(2) = 2 x 1 = 2, Factorial(3) = 3 x 2 = 6, Factorial(4) = 4 x 6 = 24. Four calls were made and 4 frames sat on the stack at the deepest point.
 
-Now consider a recursive Fibonacci function that returns n when n is 0 or 1 and otherwise returns Fib(n - 1) + Fib(n - 2). Fib(6) is 8, but a Python run counting the calls shows 25 calls are made, because the same values are recalculated many times. An iterative loop would need only 6 additions, which illustrates why a recursive solution is not always the efficient choice.
+Now consider a recursive Fibonacci function that returns n when n is 0 or 1 and otherwise returns Fib(n - 1) + Fib(n - 2). Fib(6) is 8, but counting the calls shows 25 are made (Fib(6) calls Fib(5) and Fib(4), and so on down to the base cases), because the same values are recalculated many times. An iterative loop would need only 6 additions, which illustrates why a recursive solution is not always the efficient choice.
 
 ## Common mistakes
 
