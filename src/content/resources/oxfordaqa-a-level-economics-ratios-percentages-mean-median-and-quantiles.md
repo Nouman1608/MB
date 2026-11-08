@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "qs3-quantitative-skills-oxfordaqa-alevel-economics"
 description: "Study guide to ratios, fractions, percentages, percentage changes, mean, median and quantiles for OxfordAQA International AS and A-level Economics (9640)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches quantitative skills QS1, QS2 and QS3 from section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. The specification says these skills could be assessed in any of the assessments. Sections 3.1 and 3.2 are International AS content and sections 3.3 and 3.4 are the extra International A2 content. The one A2 addition here is in QS3: for A2 assessments you also need to understand and use relevant quantiles. Every country, firm and number below is invented for practice. Use the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/) to track coverage. For recall, use the [revision notes](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles-revision-notes/). To test yourself, use the [practice questions](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles-practice/) or the [free diagnostics](/diagnostics/).

@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "methods-of-language-analysis-3-3-3-7702"
 description: "Revision notes on AQA A-level English Language (7702) Language in Action: the 2,000-word investigation, original writing, commentary, language levels and AOs."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Language in Action is the non-exam assessment (NEA) of AQA A-level English Language (7702), worth **100

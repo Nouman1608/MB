@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics: benefits of competition, non-price competition, creative destruction, contestability, sunk costs, hit-and-run."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level, first taught from September 2015. It covers two parts of the sub-section Perfect competition, imperfectly competitive markets and monopoly: the dynamics of competition and competitive market processes, and contestable and non-contestable markets. The PDF prints these as 4.1.5.8 and 4.1.5.9; the AQA website numbers them 3.1.5.8 and 3.1.5.9. Every firm, country and number below is invented for illustration.

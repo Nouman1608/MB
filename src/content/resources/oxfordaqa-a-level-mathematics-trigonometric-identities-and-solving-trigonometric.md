@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "pp1-trigonometry-oxfordaqa-alevel-maths"
 description: "Study guide to the two trigonometric identities and solving simple trig equations in degrees or radians, for OxfordAQA International AS and A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is written for the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the second part of content area PP1.2 (Trigonometry): the tangent identity, the Pythagorean identity sin²θ + cos²θ = 1, and the solution of simple trigonometric equations in a given interval in degrees or radians. The specification places this content in International AS, Unit PSM1 (section 3.2, PP1), and it carries no further tier label. Other pages cover the sine and cosine rules, radians with arcs and sectors, and the trigonometric graphs, so they are not repeated here.

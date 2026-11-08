@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d2-3"
 description: "Condensed IB DP Biology D2.3 revision notes on solvation, tonicity, plasmolysis, isotonic fluids and HL water potential, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes cover section D2.3 (Water potential) of the IB *Biology guide*, first assessment 2025, for DP Biology. Statements D2.3.1 to D2.3.7 are SL and HL. Statements D2.3.8 to D2.3.11 are additional higher level, so they are HL only. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-water-potential-and-osmosis/).

@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "superpower-relations-4hi1"
 description: "Original Paper 1-style questions on superpower relations, 1943–72 for Edexcel IGCSE History 4HI1: conferences, Berlin, Hungary, Cuba and détente, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 1 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 1 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

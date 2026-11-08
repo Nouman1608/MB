@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "chemical-formulae-equations-and-calculations-4ch1"
 description: "Condensed 4CH1 revision notes for points 1.25-1.36: formula table, method steps, Paper 2 concentration and gas volumes, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense sub-topic 1(e), **Chemical formulae, equations and calculations** (points 1.25 to 1.36), from Topic 1 Principles of chemistry of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). The qualification is untiered. Points 1.34C and 1.35C are **Paper 2 only**; the rest can be tested on both papers, and a calculator is allowed on both. For full explanations and worked examples, read the [chemical formulae, equations and calculations study guide](/resources/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations/) first.

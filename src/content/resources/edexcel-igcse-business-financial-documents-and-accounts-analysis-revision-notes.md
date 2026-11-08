@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "accounts-analysis-4bs1"
 description: "Condensed revision notes on financial documents, the six ratios, liquidity and analysis for Edexcel IGCSE Business, Topic 3 sections 3.4 and 3.5."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 Use these notes after the [study guide](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis/) for full explanations. They cover Topic 3, sections 3.4 and 3.5 of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. Links: [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), [printable checklist](/checklists/edexcel/igcse/business/), [practice questions](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis-practice/) and [free diagnostics](/diagnostics/). Businesses and figures are invented, in dollars.

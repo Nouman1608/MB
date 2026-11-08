@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Revision notes on Sharing the planet in IB DP Language B: its seven recommended topics, vocabulary to build and how to prepare for unseen Paper 2 texts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 Sharing the planet is one of the five compulsory themes set out in the

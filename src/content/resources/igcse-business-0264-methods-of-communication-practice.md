@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "methods-of-communication-0264"
 description: "Original practice questions with worked answers on communication methods and barriers for Cambridge IGCSE Business 0264, with calculation and case items."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

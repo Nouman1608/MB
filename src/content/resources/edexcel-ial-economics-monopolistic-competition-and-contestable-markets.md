@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-structures-and-contestability-edexcel-alevel-economics"
 description: "Study guide to monopolistic competition, product differentiation, limit pricing and sunk costs for Pearson Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. It covers 3.3.3 item 4 (a to d, monopolistic competition) and item 8 (a to d, contestability). Both sit in Unit 3, Business behaviour. The specification calls Units 1 and 2 the International AS (IAS) units and Units 3 and 4 the additional International A2 (IA2) content for the full International Advanced Level. Unit 3 is an IAL compulsory unit, so this material is in the full International Advanced Level only, not the IAS. Every firm, market and figure below is invented for illustration.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "synthetic-and-naturally-occurring-polymers-9202"
 description: "Study guide for OxfordAQA International GCSE Chemistry polymers: addition polymerisation, LD and HD poly(ethene), thermosetting plastics and waste."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section 3.10.2 Synthetic and naturally occurring polymers from the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. The section has six statements, lettered a to f, and every one is covered below with worked examples. There are no tiers in this qualification, so you need all of it, and either of the two papers can test it.

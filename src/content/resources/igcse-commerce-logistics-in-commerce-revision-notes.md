@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "logistics-in-commerce-0715"
 description: "Cambridge IGCSE Commerce 0715 Topic 4 recall notes: transport functions, choosing road, rail, air, sea or pipeline, containerisation, warehouses and automation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Logistics in commerce is about moving goods to the right place, at the right time and in the right

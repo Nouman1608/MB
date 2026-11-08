@@ -11,11 +11,12 @@ syllabusSeries: "For first teaching 2015"
 order: 3
 description: "Exam preparation for AQA GCSE English Literature 8702: weighting by paper, closed-book quotation strategy, a worked extract-to-whole-text plan and a checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 AQA GCSE English Literature (8702) is assessed through two written papers of **unequal weighting**,

@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Condensed notes on Cambridge O Level English Language 1123 Paper 1 Reading: structure, the reading objectives R1 to R5 and how each question is marked."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-06
 featured: false
 ---

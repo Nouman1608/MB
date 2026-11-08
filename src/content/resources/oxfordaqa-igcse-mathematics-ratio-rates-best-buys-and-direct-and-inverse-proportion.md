@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ratio-and-proportion-oxfordaqa-igcse-maths"
 description: "Worked study guide to ratio, rates of pay, best buys and direct and inverse proportion for OxfordAQA International GCSE Mathematics (9260), with examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers section 3.1.3 (Ratio and proportion) in the OxfordAQA International GCSE Mathematics specification (9260), Version 5.1, for exams in May/June 2018 onwards. It teaches statements N16 to N20. All of it is Core content, and the specification states that Core content can also be assessed on the Extension papers. The Extension-only part of N20, exponential growth and decay, is taught elsewhere.

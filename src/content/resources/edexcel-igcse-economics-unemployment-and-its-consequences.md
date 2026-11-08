@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-edexcel-igcse-economics"
 description: "Study guide to unemployment for Pearson Edexcel International GCSE Economics: the ILO measure, five types and eight consequences, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers low unemployment as a macroeconomic objective, point c) of section 2.1.1 in the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3. It is single tier, so every learner studies all of it. It sits in Paper 2: Macroeconomics and the Global Economy. All figures below are invented and illustrative.

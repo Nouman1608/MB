@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "chemical-formulae-equations-and-calculations-4ch1"
 description: "Study guide for Edexcel IGCSE Chemistry 4CH1 sub-topic 1(e): equations, moles, reacting masses, yield, formulae, concentration and gas volumes."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches sub-topic 1(e), **Chemical formulae, equations and calculations**, from Topic 1 Principles of chemistry of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). It covers specification points 1.25 to 1.36. The qualification is untiered. Points 1.34C and 1.35C are printed in bold with a C reference, so they are **Paper 2 only**; everything else can appear on Paper 1 and Paper 2. A calculator may be used on both papers.

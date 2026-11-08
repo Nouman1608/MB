@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-11-2"
 description: "Study guide for OxfordAQA International A-level Chemistry 9620 section 3.1.11: orders, the rate constant, Arrhenius plots and Required practical 8."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches **section 3.1.11 Rate equations** of the OxfordAQA International AS and

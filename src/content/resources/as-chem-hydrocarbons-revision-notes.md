@@ -19,11 +19,12 @@ syllabusTopics:
     subtopic: "as-alkenes"
 description: "Condensed 9701 notes on making alkanes and alkenes, cracking, free-radical substitution, electrophilic addition, KMnO4 oxidation and Markovnikov's rule."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added missing 14.1-14.2 outcomes (making alkanes/alkenes incl. cracking with Al2O3, alkane unreactivity, combustion pollutants, addition polymerisation, ethane example), opening answer and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: added missing 14.1-14.2 outcomes (making alkanes/alkenes incl. cracking with Al2O3, alkane unreactivity, combustion pollutants, addition polymerisation, ethane example), opening answer and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 Hydrocarbons in Cambridge AS & A Level Chemistry 9701 (Topic 14) means alkanes and alkenes: how each is made,

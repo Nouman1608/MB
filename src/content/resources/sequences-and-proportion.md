@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "proportion"
 description: "Find the nth term of linear, quadratic, cubic and exponential sequences, and solve direct and inverse proportion, for Cambridge O Level Maths 4024."
 author: "muhammad-ghazali-siddiqui"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers subtopics **2.7 Sequences** and **2.8 Proportion**, from

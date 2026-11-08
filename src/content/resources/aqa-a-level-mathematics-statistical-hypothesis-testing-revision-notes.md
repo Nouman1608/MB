@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "o-statistical-hypothesis-testing-aqa-alevel-maths"
 description: "Revision notes for AQA A-Level Maths Section O: test vocabulary, binomial and Normal mean tests, correlation tests and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense **Section O: Statistical hypothesis testing** (O1 to O3) of the **AQA A-level

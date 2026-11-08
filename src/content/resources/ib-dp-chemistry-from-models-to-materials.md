@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-2-4"
 description: "Study guide to IB DP Chemistry Structure 2.4: the bonding continuum and triangle, alloys, plastics, addition polymers and HL condensation polymers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches **Structure 2.4, From models to materials**, following the IB *Chemistry guide* (Diploma Programme; published February 2023; first assessment 2025). It works through understandings Structure 2.4.1 to 2.4.6. The first five are for SL and HL; Structure 2.4.6 is additional higher level, so it is **HL only**.

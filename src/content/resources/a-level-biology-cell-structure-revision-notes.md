@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "cell-structure-cambridge-alevel-biology"
 description: "Condensed recall notes on organelles, prokaryotic and eukaryotic cells, microscopy and magnification for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

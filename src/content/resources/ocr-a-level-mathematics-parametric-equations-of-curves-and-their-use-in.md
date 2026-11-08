@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordinate-geometry-in-the-xy-plane-ocr-alevel-maths"
 description: "Parametric curves, converting to and from Cartesian form, sketching and modelling, with worked examples for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers parametric equations of curves for OCR A Level Mathematics A (H240), using the OCR specification Version 3.1 (August 2026). It teaches content statements 1.03g and 1.03h in Pure Mathematics section 1.03, Coordinate Geometry in the x–y Plane. Both statements sit in the Stage 2 column, so they are **A Level only** and are not part of the common Stage 1 content shared with AS Level (H230).

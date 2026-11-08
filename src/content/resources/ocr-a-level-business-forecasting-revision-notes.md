@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forecasting-ocr-alevel-business"
 description: "Condensed revision notes on forecasting for OCR A Level Business (H431): methods, formulas, moving averages, correlation, a self-test and lost marks."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are quick-recall notes on Forecasting from the Business objectives and strategy area of study in the OCR A Level Business (H431) specification, Version 2.1 (January 2026), with final assessment in summer 2027. Full explanations and worked examples are in the [forecasting study guide](/resources/ocr-a-level-business-forecasting/). Test yourself with the [practice questions](/resources/ocr-a-level-business-forecasting-practice/). Wider context: [objectives and strategic decisions guide](/resources/ocr-a-level-business-objectives-and-strategic-decisions/), [strategy revision notes](/resources/a-business-strategy-revision-notes/) and [strategy practice set](/resources/a-business-strategy-practice/). Links: [course hub](/boards/ocr/a-level/business/), [checklist](/checklists/ocr/a-level/business/) and [free 10-minute diagnostics](/diagnostics/).

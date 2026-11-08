@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "solving-equations-and-inequalities-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 revision notes on solving equations and inequalities (A17-A22), with method steps, a self-test and full answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover subsection 3.2.3, **Solving equations and inequalities** (A17 to A22), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Linear equations, factorising quadratics, linear/linear simultaneous equations, forming equations and linear inequalities are for both tiers. Completing the square, the quadratic formula, linear/quadratic simultaneous equations, iteration, quadratic inequalities, set notation and regions are **Higher tier only**. This content can appear on the non-calculator Paper 1 or the calculator Papers 2 and 3.

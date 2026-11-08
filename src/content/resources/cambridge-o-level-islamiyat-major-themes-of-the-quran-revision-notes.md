@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "major-themes-quran-2058"
 description: "Question-and-answer recall notes on the 15 set Qur'an passages for Cambridge O Level Islamiyat 2058 Paper 1, grouped by theme, with links between passages."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **These revision notes cover Paper 1 Question 1 of Cambridge O Level Islamiyat 2058, Major Themes of

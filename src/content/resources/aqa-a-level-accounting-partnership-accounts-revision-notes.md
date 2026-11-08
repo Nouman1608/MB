@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "partnership-accounts"
 description: "Condensed revision notes for AQA A-Level Accounting 7127 section 3.15: appropriation order, current accounts, revaluation, goodwill and partner changes."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.15, Partnership accounts, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and section 3.15 is assessed on Paper 1. For full explanations and longer worked examples, use the [study guide](/resources/aqa-a-level-accounting-partnership-accounts/); then test yourself with the [practice questions](/resources/aqa-a-level-accounting-partnership-accounts-practice/).

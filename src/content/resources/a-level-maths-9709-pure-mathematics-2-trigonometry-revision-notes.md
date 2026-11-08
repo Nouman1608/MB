@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "trigonometry-cambridge-alevel-maths-2"
 description: "Condensed 9709 Paper 2 trigonometry notes: six functions, identity table, R-form steps, equation methods and a 12-question self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-28
 featured: false
 ---

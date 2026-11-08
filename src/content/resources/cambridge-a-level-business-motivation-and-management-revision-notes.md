@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "management-cambridge-alevel-business"
 description: "Condensed revision notes for 2.2 Motivation and 2.3 Management in Cambridge AS & A Level Business 9609, with a self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These are condensed notes for sections 2.2 Motivation and 2.3 Management of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028 (AS Level content, examined on Paper 1 and Paper 2). For full explanations and worked examples, read the [study guide](/resources/cambridge-a-level-business-motivation-and-management/). Then try the [practice questions](/resources/cambridge-a-level-business-motivation-and-management-practice/). Recruitment, training and workforce relations are in the [Topic 2 revision notes](/resources/a-level-business-hrm-revision-notes/) and [Topic 2 study guide](/resources/a-level-business-human-resource-management/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monitoring-and-maintaining-the-environment-ocr-gcse-biology"
 description: "Condensed revision notes on sampling, quadrats, capture-recapture, biodiversity, conservation and environmental change for OCR GCSE Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), topic B6.1, statements B6.1a to B6.1d. Statement B6.1d is printed in bold in the specification, so it is **Higher Tier only**; the others are assessed in both tiers. Full explanations are in the [study guide](/resources/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on/). Test yourself with the [practice questions](/resources/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on-practice/), track coverage on the [checklist](/checklists/ocr/gcse/biology/), see the [course hub](/boards/ocr/gcse/biology/), and find gaps with the [free 10-minute diagnostics](/diagnostics/).

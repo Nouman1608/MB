@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cumulative-frequency-diagrams-cambridge-igcse-maths"
 description: "Study guide to cumulative frequency tables and curves for Cambridge IGCSE Maths 0580 (Extended): median, quartiles, IQR and percentiles, worked through."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches subtopic E9.6, Cumulative frequency diagrams, from Topic 9 Statistics of the Cambridge IGCSE Mathematics 0580 syllabus for examination in 2025, 2026 and 2027. The syllabus lists C9.6 as "Extended content only", so everything on this page is **Extended only**: it is assessed on Paper 2 (non-calculator) and Paper 4 (calculator), and a Core candidate does not need it. You will learn to build a cumulative frequency table, draw the curve, and read and interpret the median, quartiles, interquartile range and percentiles.

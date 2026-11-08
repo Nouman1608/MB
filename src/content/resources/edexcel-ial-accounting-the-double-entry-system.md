@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-double-entry-system-yac11"
 description: "Study guide to the double entry system for Edexcel International A-Level Accounting: ledgers, books of prime entry, adjustments, allowances and ICT."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches the double entry system, content points 1.1.3 to 1.1.7 of Unit 1, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. Unit 1 topics are International AS. All businesses and figures are invented, and every amount is in dollars.

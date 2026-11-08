@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "transfer-of-thermal-energy"
 description: "Condensed revision notes for thermal physics in Cambridge O Level Physics 5054, with key equations, comparisons, a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 These notes condense topic 2, Thermal physics, from the Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028 (sections 2.1 to 2.3). For full explanations and worked examples, read the [study guide](/resources/o-level-physics-thermal-physics/). For longer questions, use the [practice questions](/resources/o-level-physics-thermal-physics-practice/). See also the [Cambridge O Level Physics hub](/boards/cambridge/o-level/physics/), the [physics checklist](/checklists/cambridge/o-level/physics/) and the [free diagnostics](/diagnostics/).
 

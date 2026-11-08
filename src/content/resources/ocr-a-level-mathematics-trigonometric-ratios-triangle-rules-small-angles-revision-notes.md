@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "trigonometry-ocr-alevel-maths"
 description: "Condensed revision notes for OCR A Level Maths A (H240): trig ratios, radians, triangle rules, small angles, graphs, simple equations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 1.05a to 1.05g and 1.05o of OCR A Level Mathematics A (H240), Version 3.1 (August 2026), for first assessment in 2018. Longer explanations and full worked examples are in the [study guide](/resources/ocr-a-level-mathematics-trigonometric-ratios-triangle-rules-small-angles/). To test yourself afterwards, try the [practice questions](/resources/ocr-a-level-mathematics-trigonometric-ratios-triangle-rules-small-angles-practice/). Content that is **A Level only** (Stage 2) is labelled; everything else is Stage 1, shared with AS. Course hub: [/boards/ocr/a-level/mathematics/](/boards/ocr/a-level/mathematics/). Checklist: [/checklists/ocr/a-level/mathematics/](/checklists/ocr/a-level/mathematics/). Unsure where to begin? The [free diagnostics](/diagnostics/) will show you.

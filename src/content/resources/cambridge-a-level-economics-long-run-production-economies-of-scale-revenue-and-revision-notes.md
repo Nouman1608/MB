@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "types-of-cost-revenue-and-profit-cambridge-alevel-economics"
 description: "Condensed revision notes on returns to scale, LRAC, minimum efficient scale, economies of scale, revenue and profit for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense statements 7.5.3 to 7.5.10 of the Cambridge International AS & A Level Economics syllabus for examination in 2026, 2027 and 2028. This is topic 7, so it is A Level content only and is not examined at AS. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and/), then test yourself with the [practice questions](/resources/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and-practice/). The [course hub](/boards/cambridge/a-level/economics/) and [checklist](/checklists/cambridge/a-level/economics/) show the rest of the syllabus, and a [free 10-minute diagnostic](/diagnostics/) shows what to revise first. All figures here are invented and money is in currency units (cu).

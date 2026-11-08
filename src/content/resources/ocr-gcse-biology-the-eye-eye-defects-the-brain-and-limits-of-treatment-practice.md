@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordination-and-control-the-nervous-system-ocr-gcse-biology"
 description: "Original practice questions with answers on the eye, eye defects, brain regions and the limits of treating nervous system damage for OCR GCSE Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

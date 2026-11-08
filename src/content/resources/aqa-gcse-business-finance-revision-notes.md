@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "analysing-the-financial-performance-of-a-business-aqa-gcse-business"
 description: "Condensed AQA GCSE Business Finance revision notes: sources of finance, cash flow, break-even, ARR, profit margins and statements, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.6 Finance of the AQA GCSE Business (8132) specification, for first teaching from September 2017: 3.6.1 sources of finance, 3.6.2 cash flow, 3.6.3 financial terms and calculations and 3.6.4 analysing the financial performance of a business. For full explanations read the [study guide](/resources/aqa-gcse-business-finance/), then test yourself with the [practice questions](/resources/aqa-gcse-business-finance-practice/).

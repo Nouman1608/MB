@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-trigonometry-oxfordaqa-alevel-maths"
 description: "Condensed recall notes on sin⁻¹, cos⁻¹, tan⁻¹, sec, cosec, cot and the two Pythagorean-type identities for OxfordAQA International A-level Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. For full explanations and worked examples, use the [study guide](/resources/oxfordaqa-a-level-mathematics-inverse-trigonometric-functions-and-secant-cosecant/). These notes follow content area P2.4 (Trigonometry, first part) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level Unit P2, so it is A2 content and not examined at International AS. Angles are in radians unless a degree sign appears.

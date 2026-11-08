@@ -16,8 +16,12 @@ syllabusSeries: "Version 3.1 (May 2026), for first assessment in 2017"
 order: 22
 description: "Condensed revision notes for OCR A Level Chemistry A 3.1.2 Group 2, with equation tables, trend explanations, a self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.1.2, Group 2, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover all five learning outcomes, 3.1.2(a) to (e), in Module 3, Periodic table and energy. All of it is full A level content; components 01 and 03 assess Module 3, according to the specification. For full explanations and six worked examples, read the [Group 2 study guide](/resources/ocr-a-level-chemistry-group-2/) first.

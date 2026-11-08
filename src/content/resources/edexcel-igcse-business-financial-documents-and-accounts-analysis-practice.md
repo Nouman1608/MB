@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "accounts-analysis-4bs1"
 description: "Original practice questions with worked answers on financial documents, ratios and liquidity for Edexcel IGCSE Business, Topic 3 sections 3.4 and 3.5."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

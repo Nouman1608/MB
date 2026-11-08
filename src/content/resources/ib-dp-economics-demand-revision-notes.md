@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-1"
 description: "Condensed revision notes for sub-topic 2.1 Demand in IB Diploma Programme Economics, with diagrams, a quick self-test and HL-only content marked."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The topic is sub-topic 2.1 Demand, at SL and HL. The assumptions behind the law of demand are **HL only**. The [study guide](/resources/ib-dp-economics-demand/) gives the reasoning behind each point. Test yourself with the [practice set](/resources/ib-dp-economics-demand-practice/). For the full course see the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and [checklist](/checklists/ib/ib-dp/economics/). To find weak spots, use the [free diagnostics](/diagnostics/). All examples use invented markets and figures.

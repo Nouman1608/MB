@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on fiscal policy tools: AD and AS effects, public spending, tax types, principles and quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the AQA A-level Economics specification (version 1.3, 29 June 2022) sub-section Fiscal policy, numbered 3.2.5.1 on the AQA website (4.2.5.1 in the combined PDF), covering the tools of fiscal policy, public expenditure, taxation and how to assess them. None of this content is labelled AS-only or A-level-only. All countries and figures are invented for illustration. If a point is unclear, go back to the [study guide](/resources/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the/), then try the [practice questions](/resources/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the-practice/). Also useful: the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/). Budget balance, national debt and supply-side policies are on separate pages.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d3-2"
 description: "Study guide to IB DP Biology HL dihybrid crosses, independent assortment, autosomal linkage, recombinants and the chi-squared test (D3.2.16 to D3.2.21)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers IB Diploma Programme Biology, sections D3.2.16 to D3.2.21 of the second part of D3.2 Inheritance, as set out in the IB *Biology guide*, first assessment 2025. All six statements are in the additional higher level (AHL) part of the guide, so everything here is **HL only**. The single-gene material in D3.2.1 to D3.2.15 is not repeated.

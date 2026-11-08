@@ -26,11 +26,12 @@ syllabusTopics:
     subtopic: "kq-6-1-2251"
 description: "Guide to Cambridge O Level Sociology (2251) Paper 2, 2025-2027: family, education, and crime, deviance and social control, with the named perspectives."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-01
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide sets out **Paper 2 Family, Education and Crime**, for

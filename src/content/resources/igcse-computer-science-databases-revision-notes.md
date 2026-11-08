@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "databases-0478"
 description: "Revision notes on single-table databases, fields, records, data types, primary keys and SQL SELECT, WHERE, ORDER BY, SUM and COUNT for Cambridge IGCSE 0478."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 9 Databases is about designing a single-table database and querying it with SQL. In Cambridge IGCSE Computer Science (0478) you must define fields, records and validation from a description of the data, choose data types, pick a primary key, and read, complete or write SQL scripts using a short, fixed list of keywords. It is examined on Paper 2 and is one of the most reliable sources of marks if you learn the SQL layout exactly.

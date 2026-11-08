@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Study guide to the reflex arc, taxes and kineses, the Pacinian corpuscle and the rods and cones of the retina for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide is aligned to the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1, and covers sections 3.4.1, 3.4.2.1 and 3.4.2.2 of Unit 4: Control. The specification lists Unit 4 as International A-level only, so it is not part of the International AS. Use it with the [revision notes](/resources/oxfordaqa-a-level-biology-reflexes-taxes-and-kineses-and-sensory-receptors-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-biology-reflexes-taxes-and-kineses-and-sensory-receptors-practice/). The [course hub](/boards/oxfordaqa/a-level/biology/) and the [printable checklist](/checklists/oxfordaqa/a-level/biology/) show where this unit sits, and the [free diagnostics](/diagnostics/) help you find weak spots first.

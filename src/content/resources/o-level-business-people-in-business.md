@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "people-in-business"
 description: "Study guide to Topic 2 People in business for Cambridge O Level Business Studies 7115: motivation, organisation, leadership, recruitment and communication."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 Every business decision studied under Topic 1 -- what to produce, how

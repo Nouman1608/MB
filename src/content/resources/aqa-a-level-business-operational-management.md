@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "operational-management-aqa-alevel-business"
 description: "Study guide to operational management for AQA A-Level Business: objectives, productivity, capacity, lean, quality, inventory and supply chains."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the operations section of the AQA A-level Business specification (7132), listed in the specification as 3.4 "Decision making to improve operational performance", sub-sections 3.4.1 to 3.4.5. Marlbridge numbers it as topic 4, Operational management. The specification's assessment overview says the A-level papers assess all of the subject content, so this topic can appear on any of the three papers. The guide uses the board's own terms and gives each formula in its standard form, because the official text prints none.

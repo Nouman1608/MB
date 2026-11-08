@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-electromagnetic-spectrum-oxfordaqa"
 description: "Study guide to the electromagnetic spectrum, infrared emission, black-body radiation, uses, hazards and X-rays for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This study guide covers section 3.3.2, The electromagnetic spectrum (statements a to m), of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. The qualification is untiered. Some statements in 3.3.2 are for the full Physics award only (marked P in the specification): the extra detail on emission in statement d, and statements e and f on black-body radiation. They are included below. The wave equation used in the calculations comes from section 3.3.1.
 

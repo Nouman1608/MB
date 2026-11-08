@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "data-integrity"
 description: "Cambridge 9618 Topic 6 study guide: security, privacy and integrity, threats and countermeasures, validation, verification, check digits and parity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: fixed a broken sentence fragment in the countermeasures list; aligned threats and measures to syllabus 6.1 (added integrity definition, digital signatures, anti-spyware; worms/trojans/ransomware/DoS no longer taught as required); please re-review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: fixed a broken sentence fragment in the countermeasures list; aligned threats and measures to syllabus 6.1 (added integrity definition, digital signatures, anti-spyware; worms/trojans/ransomware/DoS no longer taught as required); please re-review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

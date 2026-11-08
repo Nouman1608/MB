@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "logistics-in-commerce-0715"
 description: "Exam-style 0715 Commerce questions with worked answers on transport functions, choosing a method, containerisation, bonded warehouses and voice picking."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These practice questions cover all of Topic 4, Logistics in commerce, of Cambridge IGCSE Commerce

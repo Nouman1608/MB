@@ -42,8 +42,12 @@ syllabusTopics:
     subtopic: "satellite-systems-0417"
 description: "Condensed recall notes on modelling, control, school, booking, banking, medical, expert, retail, recognition and satellite systems for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Condensed for the final weeks. These notes cover subtopics 6.2–6.11 of

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-poisson-distribution-oxfordaqa-alevel-maths"
 description: "A worked study guide to the Poisson distribution for OxfordAQA International A-level Mathematics: conditions, probabilities, mean and variance, and sums."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide covers section S2.1 (Poisson distribution) of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2. The specification places this content in International A-level (A2) Unit S2 (Statistics). It is not examined at International AS. The guide teaches every outcome in S2.1 from scratch and works each one through in full.
 

@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "differences-and-inequalities-9292"
 description: "Notes on life chances, Marx, Weber, Davis and Moore, Walby, Crenshaw, du Bois and reducing inequality for OxfordAQA IGCSE Sociology 9292, section 3.2.1."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Condensed for the final weeks. These notes cover **3.2.1 Differences and inequalities** in Paper 2 of

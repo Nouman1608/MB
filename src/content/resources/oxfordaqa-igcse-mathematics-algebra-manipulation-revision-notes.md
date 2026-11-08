@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "notation-and-manipulation-oxfordaqa-igcse-maths"
 description: "Recall notes on expanding, factorising, index laws and algebraic fractions for OxfordAQA International GCSE Mathematics 9260: Notation and Manipulation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

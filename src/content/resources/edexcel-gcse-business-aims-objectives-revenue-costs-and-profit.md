@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "business-revenues-costs-and-profits-1bs0"
 description: "Study guide to business aims and objectives, revenue, costs, profit, interest, break-even and margin of safety for Pearson Edexcel GCSE Business 1BS0."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide teaches content items 1.3.1 (Business aims and objectives) and 1.3.2 (Business revenues, costs and profits) from Topic 1.3, Putting a business idea into practice, in the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. The specification describes this topic as making a business idea happen through identifying aims and objectives and concentrating on the financial aspects. The qualification has two written papers: Theme 1, Investigating small business (1BS0/01), and Theme 2, Building a business (1BS0/02). Both are 1 hour 45 minutes long and worth 90 marks, which is 50% of the qualification each. Their three sections (A is 35 marks, B is 30, C is 25) mix calculations, multiple-choice, short-answer and extended-writing questions, with Sections B and C built on business contexts printed in the paper. Calculators may be used. Appendix 3 of the specification lists the formulae, and the examinations do not supply them. Every business below is invented.

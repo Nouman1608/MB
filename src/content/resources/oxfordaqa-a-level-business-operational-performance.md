@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "inventory-and-supply-chain-management-9725"
 description: "Study guide to OxfordAQA 9725 Business section 3.2.1: operations objectives and calculations, capacity, lean production, quality and inventory control."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams from May/June 2027. It covers section 3.2.1 Operational performance: 3.2.1.1 Operations management, 3.2.1.2 Operations competitiveness and 3.2.1.3 Inventory and supply chain management. All of it is International AS content, assessed in Unit 2: Managing operations, human resources and finance. If you are finishing the older 9625 specification, use your own specification instead.

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "capacitors-oxfordaqa-alevel"
 description: "Original worked practice questions on electric potential, equipotentials, capacitance, dielectrics and stored energy for OxfordAQA A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

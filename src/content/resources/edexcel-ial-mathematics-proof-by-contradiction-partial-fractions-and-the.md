@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "p4-binomial-expansion-edexcel-alevel-maths"
 description: "Study guide to proof by contradiction, partial fractions and the binomial series for any rational n, for Pearson Edexcel International A Level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. It covers three parts of Unit P4: Pure Mathematics 4, namely proof by contradiction (1.1), partial fractions (2.1) and the binomial series for any rational n (4.1). The specification lists P4 as a compulsory unit for IAL Mathematics and Pure Mathematics. It is not part of IAS. It assumes the content of P1, P2 and P3.
 

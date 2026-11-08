@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-1-2"
 description: "Condensed IB DP Chemistry Structure 1.2 notes: particle counts from nuclear symbols, isotopes, Ar calculations, HL mass spectra and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 The [nuclear atom study guide](/resources/ib-dp-chemistry-the-nuclear-atom/) explains everything here at length. These notes compress Structure 1.2, The nuclear atom, from the IB's Diploma Programme *Chemistry guide* (first assessment in 2025; published February 2023) into a form for the last weeks before your exams. They span Structure 1.2.1 and 1.2.2, which are for SL and HL, and Structure 1.2.3, which is HL only. They apply to the DP Chemistry course first assessed in 2025.

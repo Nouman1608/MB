@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "m1-dynamics-edexcel-alevel-maths"
 description: "Study guide to Newton's laws, connected particles, pulleys, inclined planes and friction for Pearson Edexcel IAL Mathematics Unit M1, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers topics 4.1, 4.2 and 4.4 of Unit M1 (Mechanics 1) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that M1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. Momentum and impulse (4.3), equilibrium and moments are taught on separate pages, so they are left out here.

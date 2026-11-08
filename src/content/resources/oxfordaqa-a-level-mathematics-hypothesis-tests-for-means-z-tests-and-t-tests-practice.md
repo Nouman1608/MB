@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-hypothesis-testing-oxfordaqa-alevel-maths"
 description: "Original practice questions with full worked answers on z-tests and t-tests for a mean, for OxfordAQA International A-level Mathematics Unit S2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "m2-statics-and-forces-oxfordaqa-alevel-maths"
 description: "Study guide to force diagrams, friction, resolving forces and equilibrium of a particle (M2.3) for OxfordAQA International A-level Mathematics 9660."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the first part of section M2.3 (Statics and forces) of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2: force diagrams, friction, forces as vectors, resolving, and the equilibrium of a particle. The specification states this content is part of International A-level Unit M2 (Mechanics) and is not examined at International AS. Moments, rigid bodies in equilibrium and centres of mass are the rest of M2.3 and are taught separately.

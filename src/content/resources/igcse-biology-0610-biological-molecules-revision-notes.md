@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "biological-molecules-cambridge-igcse-biology"
 description: "Condensed revision notes for Cambridge IGCSE Biology 0610 biological molecules: element lists, food-test colour table, DNA pairing and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, read the [biological molecules study guide](/resources/igcse-biology-0610-biological-molecules/) first. These notes are for the final weeks.

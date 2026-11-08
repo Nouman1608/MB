@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "mensuration-and-calculation-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on units, conversions, area, circles, volume and surface area for OxfordAQA International GCSE Mathematics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes are for OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), section 3.3.2 Mensuration and calculation, references G14 to G16. Core content is also assessable at Extension. Content marked **Extension only** is for Extension students. For full explanations and worked examples, use the [study guide](/resources/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area/).
 

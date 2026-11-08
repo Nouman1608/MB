@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "location-and-scale-cambridge-alevel-business"
 description: "Original practice questions with worked answers on 9.1 Location and scale for Cambridge A Level Business 9609, including calculation and case-study items."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "algorithm-design-and-problem-solving-2210"
 description: "Exam-focused notes for Topic 7 of Cambridge O Level Computer Science 2210, set out by Paper 2 question type: design, purpose, search, sort, validation, tracing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 7 of Cambridge O Level Computer Science (2210) appears on Paper 2 in a handful of recurring question types: identify a life-cycle stage, decompose a problem, state an algorithm's purpose, choose test data, complete a trace table, find and correct errors, and write or amend an algorithm. These notes are organised around those question types, with the facts and templates each one needs.

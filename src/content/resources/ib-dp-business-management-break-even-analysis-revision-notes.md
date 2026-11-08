@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-5"
 description: "Condensed IB DP Business Management revision notes for section 5.5 Break-even analysis: formulas, chart steps, quick self-test and common mistakes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 5.5 (Break-even analysis) of the IB *Business management guide*, first assessment 2024, for SL and HL. The section is in Unit 5 (Operations management) and none of it is marked HL only. For full explanations and worked examples, read the [5.5 study guide](/resources/ib-dp-business-management-break-even-analysis/). When you want to test recall, use the [5.5 practice questions](/resources/ib-dp-business-management-break-even-analysis-practice/).

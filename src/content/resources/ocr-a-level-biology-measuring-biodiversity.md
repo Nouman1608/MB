@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "biodiversity-ocr-alevel-biology"
 description: "Study guide to levels of biodiversity, sampling, richness and evenness, Simpson's Index and genetic diversity for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 4.2.1(a) to (e) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It sits in Module 4, Biodiversity, evolution and disease. It teaches the levels of biodiversity, sampling in the field, species richness and evenness, Simpson's Index of Diversity and the measurement of genetic diversity. Sections 4.2.1(f) to (h), on the factors affecting biodiversity and conservation, are outside this unit.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "finance-oxfordaqa-igcse-business"
 description: "Study guide to OxfordAQA International GCSE Business 9225 section 3.6 Finance: sources of finance, cash flow, break-even, payback and financial statements."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.6 Finance of the OxfordAQA International GCSE Business (9225) specification, version 3.1, for exams from May/June 2022 onwards. It follows the four parts of the section in order: 3.6.1 sources of finance, 3.6.2 cash flow, 3.6.3 financial terms and calculations, and 3.6.4 analysing the financial performance of a business. Finance is assessed in Paper 2, alongside marketing.

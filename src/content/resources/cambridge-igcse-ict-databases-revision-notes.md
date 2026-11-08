@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "present-data-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 18: data types, primary and foreign keys, flat files vs relational databases, forms, queries and reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Databases in Cambridge IGCSE ICT 0417 (Topic 18) cover creating a database structure (importing data, setting field data types, primary and foreign keys and relationships, data entry forms), manipulating data (calculated fields, sorting, and queries with operators and wildcards) and presenting data in reports. The practical skills are tested in Paper 2, and flat-file versus relational databases, keys and form design can be asked in Paper 1.

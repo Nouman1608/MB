@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-1"
 description: "Original IB DP Physics B.1 practice questions with worked answers on density, temperature, internal energy, specific heat capacity and latent heat."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

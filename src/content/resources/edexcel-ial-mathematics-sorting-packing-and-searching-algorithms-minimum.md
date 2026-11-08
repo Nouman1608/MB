@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "d1-algorithms-on-graphs-edexcel-alevel-maths"
 description: "Study guide to flow charts, bin packing, bubble and quick sort, binary search, Prim, Kruskal and Dijkstra for Edexcel IAL Mathematics Unit D1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide is written against Pearson's International Advanced Subsidiary/Advanced Level specification for Mathematics, Further Mathematics and Pure Mathematics (YMA01), Issue 3, April 2019. It covers Unit D1 section 1 (Algorithms, topics 1.1 and 1.2) and section 2 (Algorithms on graphs, topics 2.1 and 2.2). The specification makes Unit D1 optional for IAS Mathematics, IAS Further Mathematics, IAL Mathematics and IAL Further Mathematics.

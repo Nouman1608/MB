@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "partnership-statements-oxfordaqa-igcse-accounting"
 description: "Condensed revision notes on partnership appropriation accounts, current and capital accounts and equity for OxfordAQA International GCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These revision notes condense the partnerships part of section 3.4 of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. Full explanations and a complete worked set of statements are in the [study guide](/resources/oxfordaqa-igcse-accounting-partnership-financial-statements-and-partners-capital-a/). When you are ready to test yourself, use the [practice questions](/resources/oxfordaqa-igcse-accounting-partnership-financial-statements-and-partners-capital-a-practice/).

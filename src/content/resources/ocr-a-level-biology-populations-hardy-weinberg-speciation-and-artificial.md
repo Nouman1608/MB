@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "patterns-of-inheritance-ocr-alevel-biology"
 description: "Study guide to selection, drift, Hardy-Weinberg calculations, speciation and artificial selection for OCR A Level Biology A (H420), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 6.1.2(e) to (h) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025: the factors that affect evolution, the Hardy-Weinberg principle, isolating mechanisms and the evolution of new species, and artificial selection with its ethics. Use it with the [revision notes](/resources/ocr-a-level-biology-populations-hardy-weinberg-speciation-and-artificial-revision-notes/) and the [practice questions](/resources/ocr-a-level-biology-populations-hardy-weinberg-speciation-and-artificial-practice/). Earlier ideas are in [variation, adaptation and natural selection](/resources/ocr-a-level-biology-variation-adaptation-and-natural-selection/). The [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/) show the rest of the course.

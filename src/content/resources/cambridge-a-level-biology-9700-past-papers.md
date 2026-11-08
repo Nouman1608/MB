@@ -11,11 +11,12 @@ syllabusCodes: ["9700"]
 order: 1
 description: "9700 Biology past papers guide: grade thresholds and examiner report notes for every March, June and November series from 2021 to 2024."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-28
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This page is a guide to the past papers for Cambridge International AS & A Level Biology (9700). It covers twelve series, from March 2021 to November 2024. The grade thresholds are copied from Cambridge's official grade-threshold documents, and the examiner notes are our own summaries of Cambridge's Principal Examiner Reports for Teachers. We do not host any papers: every paper, mark scheme and report is on Cambridge's own site.

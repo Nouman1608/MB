@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ecosystems-ocr-gcse-biology"
 description: "Study guide to cycling materials and decomposition for OCR GCSE (9-1) Biology A (J247), statements B4.1a to B4.1d, with worked data examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers statements B4.1a to B4.1d of the OCR GCSE (9-1) Gateway Science Biology A specification (J247), Version 4.0. They sit in topic B4, Community level systems, within B4.1 Ecosystems. None of these four statements is printed in bold, so none is marked as Higher Tier only: the content is for both tiers. The other statements in B4.1 (levels of organisation, abiotic and biotic factors, feeding relationships and biomass transfer) are not taught here. Related pages: the [revision notes](/resources/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems-revision-notes/) and the [practice questions](/resources/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems-practice/). Course hub: [OCR GCSE Biology](/boards/ocr/gcse/biology/). Printable [checklist](/checklists/ocr/gcse/biology/). Not sure where you stand? Try a [free diagnostic](/diagnostics/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-structures-ocr-alevel-economics"
 description: "Condensed OCR A Level Economics revision notes on oligopoly: kinked demand, game theory, collusion, concentration ratios and comparing market structures."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for the oligopoly statements in OCR A Level Economics (H460), specification Version 3.0 (June 2026), under Market structures in Component 01, Microeconomics. Longer explanations and worked examples are in the [study guide](/resources/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios/). Try the [practice questions](/resources/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios-practice/), then find gaps with the course [hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/). The [OCR microeconomics notes](/resources/ocr-a-level-economics-microeconomics-revision-notes/) cover the wider component.

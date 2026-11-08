@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-macroeconomic-aims-of-government-cambridge-igcse-economics"
 description: "Condensed revision notes on the role of government, the five macroeconomic aims, their criteria and conflicts, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 4.1 and 4.2 of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026: the role of government, the macroeconomic aims, and the conflicts between them. Full explanations and longer examples are in the [study guide](/resources/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims/). Then try the [practice questions](/resources/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims-practice/), the [free diagnostics](/diagnostics/), the [course page](/boards/cambridge/igcse/economics/) and the [printable checklist](/checklists/cambridge/igcse/economics/). All figures below are invented and describe no real country.

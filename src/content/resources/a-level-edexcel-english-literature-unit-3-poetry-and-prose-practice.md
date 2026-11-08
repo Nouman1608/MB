@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "unit-3-prose-yet01"
 description: "Original Edexcel IAL English Literature (YET01) Unit 3-style questions: an unseen post-1900 poem and comparative prose essays by theme, with indicative content."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

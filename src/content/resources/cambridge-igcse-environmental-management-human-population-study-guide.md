@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "managing-human-population-size-0680"
 description: "Population density, distribution and age structure, birth and death rates, natural increase, the demographic transition, and population management policies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 How many people live in a place, where they live and how old they are shape the demand for food, water, energy, housing and services. This topic gives you the measures that geographers and environmental managers use to describe population, then asks you to explain why populations change and how governments try to influence that change. Much of the marking is numerical, so practise the calculations until they are routine.

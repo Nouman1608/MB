@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "translation-software"
 description: "Notes on process states, FCFS, SJF, SRT and round robin, kernel interrupts, paging, thrashing, compiler stages, BNF and RPN for Cambridge A Level 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These notes condense Topic 16 System Software, A Level content in Cambridge International AS & A Level Computer Science 9618. The OS half covers resource use, the user interface, process states, the four named scheduling routines, the kernel as interrupt handler, and virtual memory with paging, segmentation, page replacement and thrashing. The translation half covers interpreters, the four compilation stages, BNF and syntax diagrams, and Reverse Polish Notation. It is examined in Paper 3.

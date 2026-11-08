@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-arenes-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 18 Arenes: benzene's structure and stability, electrophilic substitution mechanisms and phenol with bromine."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 18: Organic Chemistry – Arenes of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 18.1 to 18.6. The content sits in Unit 5: Transition Metals and Organic Nitrogen Chemistry, which is an International A2 (IA2) unit. The specification also says that knowledge of the common uses of the organic compounds mentioned in this topic is expected, so uses are flagged as you go.

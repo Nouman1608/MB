@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d3-3"
 description: "Study guide to IB DP Biology D3.3 homeostasis: negative feedback, blood glucose and diabetes, thermoregulation, plus HL kidney, ADH and blood supply."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches section D3.3 (Homeostasis) of the IB *Biology guide*, first assessment 2025. It covers statements D3.3.1 to D3.3.6 for SL and HL, plus D3.3.7 to D3.3.11 (the kidney, osmoregulation and changes in blood supply), which are **HL only**. For condensed recall use the [revision notes](/resources/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the-practice/). Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Checklist: [printable checklist](/checklists/ib/ib-dp/biology/). To find weak areas first, take the [free 10-minute diagnostics](/diagnostics/).

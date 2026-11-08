@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "depth-studies-2147"
 description: "Revision notes on the five Cambridge O Level History 2147 Depth Studies, how Paper 1 Section B tests them, and the source skills Paper 2 tests on Core Content."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-06
 featured: false
 ---

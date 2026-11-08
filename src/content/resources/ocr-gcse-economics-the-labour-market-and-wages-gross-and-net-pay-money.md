@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-role-of-money-and-financial-markets-ocr-gcse-economics"
 description: "Study guide to OCR GCSE (9-1) Economics J205 topics 2.7 and 2.8: wage determination, gross and net pay, money, the financial sector and interest rates."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR GCSE (9-1) Economics (J205) specification, Version 2.0 (June 2026), for first assessment in 2019. It covers topic 2.7 (the labour market) and topic 2.8 (the role of money and financial markets), which sit in the content of Introduction to Economics (J205/01). The specification has no tiers, so all of it applies to you. Every number, firm and place in the worked examples is made up for illustration.

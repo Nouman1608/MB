@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "marketing-mix-0264"
 description: "Condensed revision notes on the marketing mix, life cycle, pricing, channels, promotion and ecommerce for Cambridge IGCSE Business 0264."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3 Marketing mix of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-marketing-mix/) first, then test yourself with the [practice questions](/resources/igcse-business-0264-marketing-mix-practice/). Course links: [IGCSE Business hub](/boards/cambridge/igcse/business/), the [checklist](/checklists/cambridge/igcse/business/) and the [free diagnostics](/diagnostics/).

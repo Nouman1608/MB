@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-7"
 description: "Study guide to IB DP Business Management 5.7 (HL only): crisis management, contingency planning, four success factors and their impact."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide covers section 5.7, Crisis management and contingency planning, in Unit 5 of the IB *Business management guide*, first assessment 2024. The whole section is HL only, so it is HL extension content that SL students do not study. The guide gives the section three content points and a depth of teaching for each. Businesses and figures below are invented. The guide does not define the two key terms, so the definitions here are standard ones, and they are marked as such.

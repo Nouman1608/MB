@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "managing-business-activities-edexcel-alevel-business"
 description: "Condensed notes on finance, break-even, ratios, business failure, resources and external influences for Edexcel International A Level Business (WBS12) Unit 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-02
 featured: false
 ---

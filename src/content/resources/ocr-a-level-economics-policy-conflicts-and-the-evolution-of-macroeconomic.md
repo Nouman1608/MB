@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "policy-conflicts-ocr-aslevel-economics"
 description: "Study guide to trade-offs between macroeconomic objectives, how to resolve them, and why policy approaches changed, for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers two topics from the area of study "The application of policy instruments" (Component 2, Macroeconomics) in the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: **Policy conflicts** and **Approaches to policy and macroeconomic context**. The specification does not label this content by level. Component 03 is synoptic, so these ideas can also be drawn on there.

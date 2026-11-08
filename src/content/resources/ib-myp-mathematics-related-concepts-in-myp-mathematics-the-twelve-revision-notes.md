@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "ib-myp-mathematics-related-concepts"
 description: "Condensed revision notes on the twelve MYP mathematics related concepts: glossary meanings, branch links, short methods and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes are aligned to the IB *Mathematics* guide for the Middle Years Programme (for use from September 2020/January 2021, first assessment 2022). They condense Table 2, the twelve related concepts, with the glossary meanings and the branch links. For full explanations and longer worked examples, read the [study guide](/resources/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve/). When you are ready to test yourself, use the [practice set](/resources/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve-practice/). The course hub is [MYP Mathematics](/boards/ib/ib-myp/mathematics/), the [printable checklist](/checklists/ib/ib-myp/mathematics/) tracks your progress, and the [free 10-minute diagnostics](/diagnostics/) show what to revise first. The guide gives one list of related concepts for the whole course, with no split between standard and extended mathematics.

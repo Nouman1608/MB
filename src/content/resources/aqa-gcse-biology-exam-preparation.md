@@ -11,11 +11,12 @@ syllabusSeries: "For first teaching 2016"
 order: 1
 description: "How AQA GCSE Biology 8461 Papers 1 and 2 work: tier choice, required practicals, AO1 to AO3 balance, command words, a worked six-mark answer and a checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 AQA GCSE Biology (8461) is assessed through two written papers, each sat at Foundation or Higher

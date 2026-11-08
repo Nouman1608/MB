@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "classification-and-evolution-ocr-alevel-biology"
 description: "Revision notes and self-test on ranks, binomial names, five kingdoms, three domains, molecular evidence and phylogeny for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 4.2.2(a) to (d) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. They cover the taxonomic hierarchy, binomial names, the five kingdoms, the three domains, new evidence for classification and phylogeny. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-biology-classification-and-taxonomy/) first.

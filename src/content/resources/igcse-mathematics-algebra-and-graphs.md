@@ -24,12 +24,13 @@ syllabusTopics:
     subtopic: "differentiation-cambridge-igcse-maths"
 description: "Core and Extended content of Topic 2 Algebra and graphs for Cambridge IGCSE Mathematics 0580 (2025-2027): equations, inequalities, sequences, graphs, functions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers **Topic 2 Algebra and graphs**, for Cambridge IGCSE

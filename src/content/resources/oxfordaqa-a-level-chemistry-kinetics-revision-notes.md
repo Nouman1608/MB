@@ -31,8 +31,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-6-5"
 description: "Condensed OxfordAQA 9620 kinetics notes: key definitions, Maxwell–Boltzmann drawing rules, rate factors, catalysts and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and worked examples, read the [kinetics study guide](/resources/oxfordaqa-a-level-chemistry-kinetics/)

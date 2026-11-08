@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "computer-systems-9210"
 description: "Recall notes on NOT, AND and OR logic, software types, Von Neumann architecture, the fetch-execute cycle, memory and storage for OxfordAQA IGCSE 9210."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Computer systems (topic 3.4 of OxfordAQA International GCSE Computer Science 9210) covers hardware and software,

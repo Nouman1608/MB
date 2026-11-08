@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "big-data"
 description: "Recall notes on volume, velocity and variety, relational limits, functional distributed processing and graph schema for AQA A-Level Computer Science 7517."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Big Data (section 4.11 of AQA A-Level Computer Science 7517) is the catch-all term for data that will not fit

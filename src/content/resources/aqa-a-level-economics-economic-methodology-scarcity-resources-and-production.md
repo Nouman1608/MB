@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-methodology-and-the-economic-problem-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics methodology, needs and wants, factors of production, scarcity, opportunity cost and production possibility diagrams."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level, first taught from September 2015. It covers the sub-section called Economic methodology and the economic problem, numbered 3.1.1 on the AQA website (the combined specification PDF prints the A-level version as 4.1.1). Its five parts, 3.1.1.1 to 3.1.1.5, are taught below in order. Every number in the worked examples is invented, for illustration only.

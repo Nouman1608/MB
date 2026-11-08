@@ -11,9 +11,10 @@ syllabusSeries: "Specification Version 1.9, first examined May/June 2026"
 order: 3
 description: "How each OxfordAQA International GCSE Pakistan Studies 9236 paper splits into two compulsory topics and one option, the 28/28/21 marks, and a source routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-09
 featured: false
 ---

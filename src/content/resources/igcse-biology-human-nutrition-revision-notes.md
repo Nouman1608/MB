@@ -27,12 +27,13 @@ syllabusTopics:
     subtopic: "absorption-cambridge-igcse-biology"
 description: "Condensed recall notes on diet, digestion, enzymes and absorption, with the Core and Supplement split marked, for Cambridge IGCSE Biology 0610 Topic 7."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-05
 updatedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 Topic 7 spans five sub-topics (7.1-7.5) and is examined on every tier

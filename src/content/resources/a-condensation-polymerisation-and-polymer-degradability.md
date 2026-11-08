@@ -22,9 +22,10 @@ syllabusTopics:
     subtopic: "a-degradable-polymers"
 description: "Polyesters and polyamides, deducing repeat units and monomers, predicting polymerisation type, and polymer degradability, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

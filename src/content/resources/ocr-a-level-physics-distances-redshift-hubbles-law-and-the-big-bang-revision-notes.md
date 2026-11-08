@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "astrophysics-and-cosmology-ocr-alevel"
 description: "Condensed revision notes on parsecs, parallax, Doppler shift, Hubble's law, the CMB and the age of the universe for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense section 5.5.3 (Cosmology) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), first assessment 2017. Read the [full study guide](/resources/ocr-a-level-physics-distances-redshift-hubbles-law-and-the-big-bang/) for explanations, then test yourself with the [practice questions](/resources/ocr-a-level-physics-distances-redshift-hubbles-law-and-the-big-bang-practice/). Course links: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), [printable checklist](/checklists/ocr/a-level/physics/) and [free 10-minute diagnostics](/diagnostics/).
 

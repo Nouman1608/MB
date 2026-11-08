@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "processing-results-unit-3-yph11"
 description: "Study guide to section 3.5 of Edexcel International A Level Physics Unit 3: significant figures, graphs, gradients, uncertainties and improvements."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3, and covers section 3.5 Processing Results in Unit 3: Practical Skills in Physics I. Unit 3 is an International AS (IAS) unit. In this part of the unit you are given results collected by a more-experienced student and you process them. The specification says that compounding percentage uncertainties is not expected, so none is used here.
 

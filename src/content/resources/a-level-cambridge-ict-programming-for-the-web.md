@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "programming-for-the-web"
 description: "Study guide for Cambridge A Level IT 9626 Programming for the web: JavaScript in HTML, events, output, data types, operators, loops and timers."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 21, Programming for the web**, of Cambridge International AS & A Level Information Technology (9626). It follows the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), section 21.1. Topic 21 is **A Level only**. The syllabus bases **Paper 3 (Advanced Theory)** questions on sections 12–21 and **Paper 4 (Advanced Practical)** tasks on sections 17–21, so you can meet JavaScript in both papers. The syllabus recommends a working knowledge of HTML and CSS first, for example from website authoring in Cambridge IGCSE ICT.

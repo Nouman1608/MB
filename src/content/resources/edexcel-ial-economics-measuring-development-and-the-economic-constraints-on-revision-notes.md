@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics"
 description: "Revision notes on the HDI, other development indicators, the Harrod-Domar savings gap, Prebisch-Singer and capital flight for Edexcel IAL Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed notes for specification section 4.3.6, items 1(a) to 1(c) and the first five bullets of item 2(a), of the Pearson Edexcel International Advanced Level in Economics specification (YEC11), Issue 2, June 2018. The topic belongs to Unit 4, one of the two International A2 units, so only full International A Level candidates take it. For explanations, use the [study guide](/resources/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on/), then test yourself with the [practice questions](/resources/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on-practice/).

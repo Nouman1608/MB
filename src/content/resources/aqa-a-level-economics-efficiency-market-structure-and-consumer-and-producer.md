@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-aqa-alevel-economics"
 description: "Study guide to static and dynamic efficiency, conduct and performance, and consumer and producer surplus for AQA A-level Economics, with worked diagrams."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA A-level Economics specification (7136), content sections 4.1.5.10 and 4.1.5.11 in the PDF, which the AQA website and our site map number as part of 3.1.5. It covers efficiency, market structure and consumer and producer surplus. Neither section carries an AS-only or A-level-only marker in the specification. Every figure here is made up for practice and is not a real statistic.

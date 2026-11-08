@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a1-2"
 description: "Twelve original practice questions with worked answers on IB DP Biology A1.1 Water and A1.2 Nucleic acids, including HL-only questions."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

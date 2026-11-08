@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-e-3"
 description: "Original IB DP Physics E.3 practice questions on isotopes, binding energy, the strong force and alpha, beta and gamma decay, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

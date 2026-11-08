@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-1-3"
 description: "Condensed OxfordAQA 9620 atomic structure notes: particles, isotopes, TOF mass spectrometry, electron configuration, ionisation energies and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.1.1 Atomic structure** of the OxfordAQA International AS and A-level Chemistry

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-3"
 description: "Condensed IB DP Physics A.3 revision notes on work, mechanical energy, power, efficiency and energy density, with formulas, methods and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These are condensed revision notes for sub-topic A.3, Work, energy and power, in the IB *Physics guide* (first assessment 2025). SL and HL study the same content here, because A.3 has no extra HL-only material in the guide. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-physics-work-energy-power-and-efficiency/). When you are ready, try the [practice questions](/resources/ib-dp-physics-work-energy-power-and-efficiency-practice/), or take a [free 10-minute diagnostic](/diagnostics/) to find weak spots.

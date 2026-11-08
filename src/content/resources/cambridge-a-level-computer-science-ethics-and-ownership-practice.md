@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ethics-and-ownership-sub"
 description: "Original exam-style questions with model answers on professional ethics, BCS and IEEE, copyright, software licences and the impact of AI for Cambridge AS 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

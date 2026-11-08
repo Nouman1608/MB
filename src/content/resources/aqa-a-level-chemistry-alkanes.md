@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "alkanes-7405"
 description: "AQA A-Level Chemistry alkanes taught from scratch: crude oil distillation, cracking, combustion, pollutants, flue gases and chlorination of methane."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.3.2 Alkanes** of the AQA AS and A-level Chemistry specification

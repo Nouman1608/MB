@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "present-data-0417"
 description: "Building a database table, setting field types and keys, validating data, running queries and producing reports for Cambridge IGCSE ICT."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 A database is an organised collection of data stored so that it can be searched, sorted and reported on quickly. In the Cambridge IGCSE ICT practical you build a small database from instructions, enter or import data, search it with queries and produce a neat report. This guide follows the three parts of the topic: creating the structure, manipulating the data and presenting it. It includes a full worked example with every result calculated.

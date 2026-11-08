@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "momentum-oxfordaqa-alevel"
 description: "Study guide to momentum, conservation, collisions, explosions, impulse and force-time graphs for OxfordAQA International AS and A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers section 3.2.6 (Momentum), which is shared International AS and A-level content, so everything here is relevant to both qualifications. Read it with the [course hub](/boards/oxfordaqa/a-level/physics/) and tick off each point on the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

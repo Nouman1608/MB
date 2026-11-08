@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-12"
 description: "Twelve original HL-only practice questions with worked answers on why a free market can leave income and wealth unequal: IB DP Economics sub-topic 2.12."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

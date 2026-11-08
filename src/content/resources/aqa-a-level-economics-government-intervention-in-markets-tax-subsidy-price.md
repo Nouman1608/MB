@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics government intervention: indirect taxes, subsidies, price controls, permits and property rights, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level, first taught from September 2015. It covers the sub-section Government intervention in markets, numbered 3.1.5.8 on the AQA website (the combined PDF prints the A-level version as 4.1.8.9). The specification gives no AS-only or A-level-only labels for this content. Every country, firm and number below is invented for illustration.

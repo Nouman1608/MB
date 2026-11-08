@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "storage-media-0417"
 description: "Condensed recall notes on the device/media distinction and magnetic, optical and solid-state storage for Cambridge IGCSE ICT 0417, Topic 3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

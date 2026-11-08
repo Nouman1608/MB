@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "neuronal-communication-ocr-alevel-biology"
 description: "Condensed revision notes on receptors, neurones, action potentials, myelination and cholinergic synapses for OCR A Level Biology A (H420), section 5.1.3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense OCR A Level Biology A (H420) section 5.1.3, Neuronal communication, learning outcomes (a) to (d), from specification Version 4.1 (April 2026). Read the [study guide](/resources/ocr-a-level-biology-neuronal-communication/) for full explanations, then test yourself with the [practice questions](/resources/ocr-a-level-biology-neuronal-communication-practice/). A short [diagnostic](/diagnostics/) shows where to start, the [checklist](/checklists/ocr/a-level/biology/) tracks progress and the [course hub](/boards/ocr/a-level/biology/) lists the other units.

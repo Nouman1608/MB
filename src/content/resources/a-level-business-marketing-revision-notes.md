@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "marketing-as-cambridge-alevel-business"
 description: "Condensed notes on orientation, segmentation, market research and the 4Ps, including the Boston Matrix, for Cambridge AS & A Level Business 9609 Topic 3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-05
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

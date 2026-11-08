@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-performance-oxfordaqa-alevel-economics"
 description: "Original practice questions with worked answers on OxfordAQA International AS and A-level Economics 9640: unemployment, inflation and deflation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

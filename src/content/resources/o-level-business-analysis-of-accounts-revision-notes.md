@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "analysis-of-accounts"
 description: "Condensed notes on profitability, liquidity, the five ratios and users of accounts, with a self-test, for Cambridge O Level Business Studies 7115 5.5."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These are quick revision notes for section 5.5, Analysis of accounts, in the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. For full explanations and a worked two-year example, read the [study guide](/resources/o-level-business-analysis-of-accounts/). Test yourself with the [practice questions](/resources/o-level-business-analysis-of-accounts-practice/). Other links: [Cambridge O Level Business hub](/boards/cambridge/o-level/business/), [printable checklist](/checklists/cambridge/o-level/business/), [free diagnostics](/diagnostics/) and the [wider topic practice page](/resources/o-level-business-financial-information-and-decisions-practice/).
 

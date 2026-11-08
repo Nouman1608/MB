@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "non-exam-assessment-route-b-9275"
 description: "Revision notes for OxfordAQA International GCSE English Literature (9275) Route B: Paper 2b anthology and unseen poetry, the prose NEA, AOs and level criteria."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Route B of OxfordAQA International GCSE English Literature (9275) replaces Route A's unseen-prose section

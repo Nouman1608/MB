@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-hadiths-0493"
 description: "Study guide to Hadith compilation, musnad and musannaf works, isnad and matn, the Sunni and Shi'a books and Hadith in law, for Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **The History and Importance of the Hadiths is Paper 2 Question 2 of Cambridge IGCSE Islamiyat

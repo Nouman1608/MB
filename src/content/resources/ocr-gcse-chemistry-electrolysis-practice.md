@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c3-4-electrolysis-j248"
 description: "Original practice questions with worked answers for OCR GCSE Chemistry A (J248) C3.4 Electrolysis, from molten salts to copper electrode masses."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics"
 description: "Study guide to demographic, debt, credit, infrastructure, skills and non-economic constraints on development, for Pearson Edexcel IAL Economics Unit 4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (YEC11), Issue 2, June 2018. It teaches part of section 4.3.6, item 2: the demographic, debt, credit, infrastructure and skills factors in 2a, and the non-economic factors in 2b. The specification groups Units 1 and 2 as International AS, and Units 3 and 4 as International A2, the additional content needed for the full International A Level. This topic is in Unit 4 (Developments in the global economy), which only full International A Level candidates take.

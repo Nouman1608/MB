@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "circuit-switching-packet-switching"
 description: "Study guide to protocols, the four-layer TCP/IP stack, HTTP, FTP, POP3, IMAP, SMTP, BitTorrent, and circuit versus packet switching for Cambridge A Level 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 14 Communication and internet technologies explains how computers agree to communicate. A protocol is a set of rules for data transmission; the internet uses the TCP/IP suite, a stack of four layers that each do one job, plus application protocols such as HTTP, SMTP and BitTorrent. The topic also compares circuit switching with packet switching. In Cambridge International AS & A Level Computer Science 9618 it is A Level content, examined in Paper 3.

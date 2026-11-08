@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "labour-market-forces-and-government-intervention-cambridge-alevel-economics"
 description: "Study guide to trade unions, minimum wages, monopsony, wage differentials, transfer earnings and economic rent for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers outcomes 8.3.8 to 8.3.10 of the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028: wage determination in imperfect labour markets, wage differentials, transfer earnings and economic rent. Topic 8 is A Level content, so it is not examined at AS. The syllabus states that AS content is assumed knowledge for the A Level papers.

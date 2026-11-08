@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "moving-charges-in-a-magnetic-field-oxfordaqa-alevel-physics"
 description: "Condensed revision notes on F = BIL, Fleming's left-hand rule, the tesla, F = BQv, circular orbits and the cyclotron for OxfordAQA A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes condense sections 3.10.1 (Magnetic flux density) and 3.10.2 (Moving charges in a magnetic field) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4. Section 3.10 is International A-level only. For full explanations and derivations, read the [study guide](/resources/oxfordaqa-a-level-physics-force-on-conductors-and-moving-charges-in-magnetic/), then try the [practice questions](/resources/oxfordaqa-a-level-physics-force-on-conductors-and-moving-charges-in-magnetic-practice/). Related pages: the [subject hub](/boards/oxfordaqa/a-level/physics/), the [printable checklist](/checklists/oxfordaqa/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).

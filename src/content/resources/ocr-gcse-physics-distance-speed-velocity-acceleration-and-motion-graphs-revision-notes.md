@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "motion-ocr-gcse"
 description: "Condensed revision notes for OCR GCSE Physics A (J249) P2.1 Motion: speed and acceleration equations, graph rules, unit conversions and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense **P2.1 Motion** (P2.1a to P2.1h) from OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018. All of P2.1 is assessed at both tiers except P2.1f (the area under a velocity-time graph), which is printed in bold in the specification and is **Higher Tier only**. For full explanations read the [study guide](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/); to test yourself use the [practice questions](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-practice/). Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/), the [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/) and the [free 10-minute diagnostics](/diagnostics/).

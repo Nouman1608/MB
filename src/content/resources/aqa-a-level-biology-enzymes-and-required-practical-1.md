@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "proteins-aqa-alevel-biology"
 description: "Study guide to enzyme action for AQA A-level Biology 7402 section 3.1.4.2: models, inhibitors, pH, temperature and Required Practical 1, worked through."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide follows the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, with exams from June 2016 onwards. It covers section 3.1.4.2, "Many proteins are enzymes", and Required Practical 1. The content is part of both the AS and the A-level course. The other statements in section 3.1.4 (general properties of proteins and protein structure) are taught on separate pages.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electrical-circuits-oxfordaqa-igcse"
 description: "Study guide to resistance, V = IR, I-V graphs, thermistors, LDRs, diodes, LEDs and the required practical for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide is aligned to the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards (Version 5.2). It covers the resistance part of specification section 3.5.1 Electrical circuits, statements h to o, including the required practical on V-I characteristics. The qualification is untiered.
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-1"
 description: "Revision notes for IB DP Chemistry Reactivity 3.1.1 to 3.1.8: key definitions, pH and Kw methods, neutralization equations, pH curves and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense IB DP Chemistry Reactivity 3.1.1 to 3.1.8, "Proton transfer reactions", for the final weeks before your exams. They are aligned to the IB Diploma Programme Chemistry guide (first assessment 2025; February 2023 edition). Everything here is for SL and HL; pOH, Ka, Kb, indicators and buffers come later in the AHL part of Reactivity 3.1 and are not included. The notes apply to sessions from 2025 onwards.

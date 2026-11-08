@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "business-communication-cambridge-alevel-business"
 description: "Condensed revision notes for 7.1 Organisational structure and 7.2 Business communication in Cambridge A Level Business, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These are condensed notes for sections 7.1 Organisational structure and 7.2 Business communication of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. They are A Level content, assessed on Paper 3 and Paper 4. For full explanations and worked examples, read the [study guide](/resources/cambridge-a-level-business-organisational-structure-and-business-communication/), then try the [practice questions](/resources/cambridge-a-level-business-organisational-structure-and-business-communication-practice/). Other topic 7 ideas are in the [A Level HRM practice set](/resources/a-level-business-hrm-a-level-practice/) and the AS foundations are in the [Topic 2 revision notes](/resources/a-level-business-hrm-revision-notes/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

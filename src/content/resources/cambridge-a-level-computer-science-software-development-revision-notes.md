@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "program-testing-and-maintenance"
 description: "Revision notes on waterfall, iterative and RAD, structure charts, state-transition diagrams, error types, testing methods and maintenance for Cambridge 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 12 Software Development covers how programs are planned, designed, tested and maintained: the program development life cycle and its waterfall, iterative and RAD models, structure charts and state-transition diagrams, error types, testing methods and test data, and the three types of maintenance. In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 2, often alongside a pseudocode task you must test or amend.

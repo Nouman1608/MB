@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "accounting-ratios-oxfordaqa-igcse-accounting"
 description: "Condensed formulae, method steps, interpretation cues and a ten-question self-test on the nine ratios in OxfordAQA International GCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes are aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, exams from May/June 2026 onwards. They condense the section 3.5 content on the calculation and interpretation of financial measures and ratios, with short reminders on appraisal, cash and profit, and limitations. All amounts are in dollars.

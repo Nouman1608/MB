@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Revision notes on Intertextuality in IB DP Language A: Literature: how works echo, respond to or subvert each other, with a comparison method and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 Intertextuality: connecting texts is where, as the [full syllabus

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-financial-sector-ocr-alevel-economics"
 description: "Original OCR A Level Economics (H460) questions on financial institutions, bond yields, borrowing costs and risk-based interest rates, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

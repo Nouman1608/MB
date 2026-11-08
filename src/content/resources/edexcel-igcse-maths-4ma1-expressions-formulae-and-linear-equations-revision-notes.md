@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "linear-equations-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes on substitution, writing and rearranging formulae and solving linear equations, with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These are condensed notes for the final weeks. For full explanations and longer worked examples, use the [study guide for 2.3–2.4](/resources/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations/).

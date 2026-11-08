@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "computer-organisation-and-architecture"
 description: "Original practice questions with worked answers on OxfordAQA 9645 topic 7: Fetch-Execute, interrupts, storage, logic circuits and Boolean algebra."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

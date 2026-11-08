@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "section-b-international-english-9670"
 description: "Revision notes for OxfordAQA International A-level English Language (9670) Unit 3: learning language data, international English debates, theories and AOs."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Unit 3 (Language variation) of OxfordAQA International A-level English Language (9670) is a two-hour,

@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "beyond-earth-ocr-gcse"
 description: "Original OCR GCSE Physics A practice questions on thermal radiation, the solar system, circular orbits and Earth's radiation balance, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

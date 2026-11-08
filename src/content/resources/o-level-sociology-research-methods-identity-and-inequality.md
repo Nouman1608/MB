@@ -20,11 +20,12 @@ syllabusTopics:
     subtopic: "kq-2-2-2251"
 description: "Cambridge O Level Sociology (2251) Paper 1 guide, 2025-2027: research methods, identity and socialisation, and social stratification and inequality."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: softened unverifiable claim about what mark schemes credit for sampling; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: softened unverifiable claim about what mark schemes credit for sampling; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers **Paper 1 Research Methods, Identity and

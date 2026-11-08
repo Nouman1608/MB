@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "functions-graphs-and-calculus-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on functions, composite and inverse functions, coordinates and straight-line equations for OxfordAQA International GCSE Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 Quick recall for the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, section 3.2.2, statements A9, A10 and A11. The [study guide](/resources/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs/) has the full explanations. Core content can also be assessed on the Extension papers. Content that only Extension candidates need is marked **Extension only**.
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-labour-market-aqa-alevel-economics"
 description: "Condensed AQA A-level Economics revision notes on the National Minimum Wage and wage discrimination: definitions, methods, evaluation and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense two parts of the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), first taught from September 2015: The National Minimum Wage (3.1.6.6) and Discrimination in the labour market (3.1.6.7). The combined PDF prints the A-level versions as 4.1.6.6 and 4.1.6.7. All figures are invented and illustrative.

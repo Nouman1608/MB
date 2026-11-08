@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "life-teachings-hazrat-muhammad-9237"
 description: "Timeline recall notes for OxfordAQA International GCSE Islamiat 9237 topic 3.2.1: the Prophet's (pbuh) life, key people, battles, treaties and Farewell Sermon."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense topic 3.2.1 of OxfordAQA International GCSE Islamiat 9237, Life and Teachings

@@ -16,9 +16,10 @@ syllabusTopics:
 description: "Paper 2 of Cambridge IGCSE Islamiyat 0493 (2026-2027): the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam."
 seoDescription: "Cambridge IGCSE Islamiyat (0493) Paper 2 study guide: the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam explained."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-01
 featured: false
 ---

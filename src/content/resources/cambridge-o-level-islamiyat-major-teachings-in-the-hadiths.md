@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "major-teachings-hadiths-2058"
 description: "Theme-based study guide to the 20 set Hadiths in Cambridge O Level Islamiyat 2058 Paper 2: faith, speech, charity, work, leadership and mercy."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Major Teachings in the Hadiths of the Prophet is the compulsory first question of Paper 2 in

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "inflation-and-deflation"
 description: "Study guide to inflation and deflation for Cambridge O Level Economics (2281): definitions, CPI, causes, consequences and policies, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is written for section 4.8 (4.8.1 to 4.8.5, inflation and deflation) of the 2026 Cambridge O Level Economics (2281) syllabus, version 2. All names and numbers below are fictional. Use it with the [revision notes](/resources/cambridge-o-level-economics-inflation-and-deflation-revision-notes/) and the [practice questions](/resources/cambridge-o-level-economics-inflation-and-deflation-practice/). Other links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/), the [free diagnostics](/diagnostics/) and the [money and banking guide](/resources/cambridge-o-level-economics-money-banking-and-household-spending-saving-and/), which explains interest rates and saving.

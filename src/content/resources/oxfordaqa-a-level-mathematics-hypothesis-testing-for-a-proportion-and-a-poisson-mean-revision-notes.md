@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-hypothesis-testing-oxfordaqa-alevel-maths"
 description: "Condensed revision notes with method boxes and a self-test on binomial and Poisson hypothesis tests and Type I and II errors, OxfordAQA A-level Maths S2.6."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 Condensed notes for the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, section S2.6 (first part): tests for a population proportion using exact binomial probabilities, tests for a Poisson mean using exact Poisson probabilities, and Type I and Type II errors. The specification places this content in International A-level (A2) Unit S2 (Statistics); it is not examined at International AS. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-mathematics-hypothesis-testing-for-a-proportion-and-a-poisson-mean/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-hypothesis-testing-for-a-proportion-and-a-poisson-mean-practice/).
 

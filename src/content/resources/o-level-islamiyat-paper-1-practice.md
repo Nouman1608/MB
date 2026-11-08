@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "first-islamic-community-2058"
 description: "Original Cambridge O Level Islamiyat 2058 Paper 1 practice in the real five-question format, with set passages in Arabic and English and worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-25
 featured: false
 ---

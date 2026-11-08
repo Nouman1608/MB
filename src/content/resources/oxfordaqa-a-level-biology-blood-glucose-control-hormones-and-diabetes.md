@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Study guide to OxfordAQA International A-level Biology 9610, 3.4.7: blood glucose, the liver, diabetes, insulin, glucagon, adrenaline and cAMP."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide follows the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1. It covers section 3.4.7, Hormones and the control of blood glucose concentration: 3.4.7.1 (glucose concentration and its control), 3.4.7.2 (insulin), 3.4.7.3 (glucagon) and 3.4.7.4 (adrenaline and the second messenger model). In the specification, Unit 4 (Control) is one of the units that belong to the International A-level only.

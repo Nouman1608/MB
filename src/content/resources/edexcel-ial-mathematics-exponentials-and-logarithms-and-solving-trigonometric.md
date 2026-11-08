@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "p2-trigonometry-edexcel-alevel-maths"
 description: "Study guide to exponential graphs, laws of logarithms, a^x = b, change of base, identities and trig equations for Edexcel IAL Mathematics P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P2 topics 5.1 to 5.3 (exponentials and logarithms) and 6.1 to 6.2 (trigonometric identities and equations). The specification lists P2 as a compulsory unit for both IAS Mathematics and IAL Mathematics (and Pure Mathematics).
 

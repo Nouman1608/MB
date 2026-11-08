@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "supply-side-policy"
 description: "Original practice questions with worked answers on supply-side policy measures and their effects, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

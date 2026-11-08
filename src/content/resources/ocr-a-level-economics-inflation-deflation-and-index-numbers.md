@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "inflation-ocr-aslevel-economics"
 description: "Study guide to inflation, deflation, CPI and RPI, index number calculations and real values for OCR A Level Economics (H460), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0, dated June 2026 and first assessed in 2021. It teaches the topic **Inflation** within Component 2, Macroeconomics (H460/02), under Economic policy objectives and indicators of macroeconomic performance. No content is labelled AS or Extension. Every country, firm and number below is invented for illustration.

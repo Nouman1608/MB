@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-differentiation-oxfordaqa-alevel-maths"
 description: "Detailed study guide to OxfordAQA 9660 P2.6: derivatives of e^x, ln x and trig functions, product, quotient and chain rules, and dy/dx = 1/(dx/dy)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the first part of specification section P2.6 (Differentiation) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification states that this content is part of International A-level (A2) Unit P2 (Pure Maths) and is not examined at International AS. The series line on this page reads: International AS exams from May/June 2018, A-level from May/June 2019. The later parts of P2.6, implicit and parametric differentiation and the related tangents and normals, are separate topics and are not taught here.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "properties-and-constructions-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on angle facts, parallel lines, triangle types, polygon angles and special quadrilaterals for OxfordAQA International GCSE Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense references G1 to G5 of section 3.3.1 (Properties and constructions) in the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). All of it is Core content, and Core content can also be assessed on the Extension tier papers. For full explanations see the [study guide](/resources/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals/).

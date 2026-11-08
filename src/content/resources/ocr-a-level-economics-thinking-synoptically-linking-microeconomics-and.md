@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "themes-in-economics-ocr-alevel-economics"
 description: "Study guide to Component 03 of OCR A Level Economics: analysing an unseen theme, linking micro and macro, quantitative skills and extended answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers Component 03, **Themes in economics**. The specification prescribes no content of its own for this component: it draws on the microeconomic and macroeconomic content and applies it to a specific unseen theme. The text does not label any of it as AS or Extension. There is one examination series each year, in May/June. The countries, firms and figures below are made up.

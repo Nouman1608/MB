@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "analysing-future-sales-oxfordaqa-alevel-business"
 description: "Study guide for OxfordAQA A-level Business 9725 section 3.3.5: three period moving averages, extrapolation and qualitative sales forecasting."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Written for the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Section 3.3.5 Analysing future sales closes the 3.3 Business analysis block, and every outcome on this page is **International A-level only**. Anyone still sitting the older 9625 specification should work from that document instead. Every business here is invented.

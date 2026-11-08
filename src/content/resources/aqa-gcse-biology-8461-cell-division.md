@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cell-division-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 study guide to 4.1.2 Cell division: chromosomes, the cell cycle and mitosis, and stem cells, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches section **4.1.2 Cell division** (4.1.2.1 Chromosomes, 4.1.2.2 Mitosis and the cell

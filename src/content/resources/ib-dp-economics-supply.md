@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-2"
 description: "Study guide to IB Diploma Programme Economics sub-topic 2.2 Supply: the law of supply, market supply, determinants and shifts of the supply curve."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers **sub-topic 2.2 Supply** of Unit 2 Microeconomics. The core of 2.2 is for SL and HL. One part is marked **HL only**: the assumptions behind the law of supply. Every market in this guide is invented and labelled as illustrative.

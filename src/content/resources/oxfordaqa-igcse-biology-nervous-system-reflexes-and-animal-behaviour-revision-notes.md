@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
 description: "Condensed recall notes on neurones, reflex arcs, courtship, parental care, learned behaviour and animal communication for OxfordAQA IGCSE Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sections 3.4.1 and 3.4.6 of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. The qualification is untiered. For full explanations read the [study guide](/resources/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour/). Then try the [practice questions](/resources/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour-practice/). Course pages: the [OxfordAQA IGCSE Biology hub](/boards/oxfordaqa/igcse/biology/), the [checklist](/checklists/oxfordaqa/igcse/biology/) and the [free 10-minute diagnostics](/diagnostics/).

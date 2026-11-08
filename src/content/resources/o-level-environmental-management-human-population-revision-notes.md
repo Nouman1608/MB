@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "managing-human-population-size-5014-2027"
 description: "O Level Environmental Management 5014 (2027-2029) Topic 7 notes: where people live, pyramids, income groups, migration, urban growth and population policy."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 > **Syllabus edition note.** These notes follow the Cambridge O Level Environmental Management 5014

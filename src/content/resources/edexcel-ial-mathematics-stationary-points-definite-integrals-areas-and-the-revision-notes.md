@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "p2-integration-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel International Advanced Level Maths P2 stationary points, areas and the trapezium rule, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense Unit P2: Pure Mathematics 2, sections 7.1 and 8.1 to 8.3 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). P1 and P2 are compulsory units for IAS and IAL Mathematics (and Pure Mathematics), as the specification states. Longer explanations and worked examples are in the [study guide](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the/).

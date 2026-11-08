@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "computer-systems-9210"
 description: "The CPU and fetch-execute cycle, memory and storage, system and application software, translators and logic gates for OxfordAQA International GCSE 9210."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 A computer system is hardware and software working together to take in data, process it, store it and output the results. This topic explains what the main components are, how the processor runs a program, how software controls the hardware, and how logic gates make decisions at the lowest level. In OxfordAQA International GCSE Computer Science (9210) the questions mix definitions with explanations of "why", so you need to be able to connect a feature to its effect on performance or use.

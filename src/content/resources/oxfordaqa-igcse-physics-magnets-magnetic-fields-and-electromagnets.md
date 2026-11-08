@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "magnetism-and-electromagnetism-oxfordaqa-igcse"
 description: "Study guide to magnets, magnetic fields, the Earth's field, solenoids and electromagnets for OxfordAQA International GCSE Physics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, section 3.5.2 (Magnetism and electromagnetism), points a to g. The qualification is untiered. It also covers the required practical on the factors that determine the strength of an electromagnet.
 

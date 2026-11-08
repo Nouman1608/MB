@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-4"
 description: "Condensed HL revision notes for IB DP Physics A.4: torque, moment of inertia, angular momentum and rotational energy, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense **sub-topic A.4, Rigid body mechanics**, from the IB Diploma Programme *Physics guide*, first assessment 2025. A.4 is **additional higher level (HL only)** with no standard level content. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and/), then test yourself with the [practice questions](/resources/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and-practice/).

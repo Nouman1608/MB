@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "globalisation-ocr-gcse-economics"
 description: "Study guide to OCR GCSE Economics J205 sections 4.3 and 4.4: exchange rate determination, conversion, globalisation and measuring development."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR GCSE (9-1) Economics specification (J205, version 2.0, first assessment 2019), sections 4.3 (exchange rates) and 4.4 (globalisation). J205 has no Higher or Foundation tier, so the content is common to all candidates. The countries, firms and numbers in the examples are invented. Use the [revision notes](/resources/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development-revision-notes/) to recall it quickly and the [practice set](/resources/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development-practice/) to test it. Demand, supply and elasticity are in [The Role of Markets and Money](/resources/ocr-gcse-economics-the-role-of-markets-and-money/). Other useful pages: the [OCR GCSE Economics hub](/boards/ocr/gcse/economics/), a printable [topic checklist](/checklists/ocr/gcse/economics/) and the [diagnostics](/diagnostics/).

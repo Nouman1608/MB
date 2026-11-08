@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "single-and-multi-dimensional-arrays-7517"
 description: "Recall notes for AQA A-Level Computer Science 7517 sections 4.2.1.1 and 4.2.1.2: the definition of a data structure, vectors, matrices and n-dimensional arrays."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-09-02
 featured: false
 ---

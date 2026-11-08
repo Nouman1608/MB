@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-aqa-gcse-economics"
 description: "Original practice questions with worked answers on the labour market for AQA GCSE Economics (8136) 3.1.5.4: wages, differentials, gross and net pay."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

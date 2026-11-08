@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-structures-and-contestability-edexcel-alevel-economics"
 description: "Revision notes on efficiency, concentration ratios and perfect competition, with a self-test, for Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3.3 (Market structures and contestability), items 1 to 3, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics (YEC11) specification, Issue 2, June 2018. Unit 3, Business behaviour, is labelled IA2 and is compulsory for the full International Advanced Level only. Units 1 and 2 are the International Advanced Subsidiary units.

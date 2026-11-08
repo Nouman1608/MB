@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "revenue-costs-and-profits-edexcel-alevel-economics"
 description: "Study guide to economies of scale, normal and supernormal profit, losses and shutdown points for Pearson Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. It covers 3.3.2 items 3 and 4 (economies and diseconomies of scale; profits and losses). They sit in Unit 3, Business behaviour. The specification calls Units 1 and 2 the International AS (IAS) content and Units 3 and 4 the additional International A2 (IA2) content, and it labels Unit 3 an IAL compulsory unit, so this material is for the full International A Level only. Every firm and figure below is invented, and money is in currency units (cu).

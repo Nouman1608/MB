@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "contingency-planning-and-crisis-management-ocr-alevel-business"
 description: "Study guide to contingency planning and crisis management for OCR A Level Business H431: purpose, evaluation, recommending a plan, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the content heading **Contingency planning and crisis management** in the OCR A Level Business (H431) specification, Version 2.1 (January 2026). It sits within the area of study Business objectives and strategy, and Marlbridge numbers it 1.9 in its checklist. H431 is being withdrawn by OCR, with final assessment in summer 2027. The specification says content in one section may be assessed in any context, so expect to use this material alongside risk, stakeholders, change and operations.

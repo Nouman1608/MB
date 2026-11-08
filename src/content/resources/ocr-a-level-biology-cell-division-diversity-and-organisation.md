@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "cell-division-cell-diversity-and-cellular-organisation-ocr-alevel-biology"
 description: "OCR A Level Biology A (H420) 2.1.6 study guide: cell cycle and checkpoints, mitosis, meiosis, specialised cells, tissues and organs, stem cells and their uses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Section 2.1.6 of OCR A Level Biology A (H420) explains how cells divide and how they become different. You need the

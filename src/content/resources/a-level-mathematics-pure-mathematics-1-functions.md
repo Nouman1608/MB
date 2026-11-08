@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "functions-cambridge-alevel-maths"
 description: "Cambridge 9709 Pure Mathematics 1 guide to subtopic 1.2: domain, range, one-one and inverse functions, composite functions and graph transformations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-02
 featured: false
 ---

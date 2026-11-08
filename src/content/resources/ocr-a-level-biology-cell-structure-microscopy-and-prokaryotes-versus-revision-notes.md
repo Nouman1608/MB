@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "cell-structure-ocr-alevel-biology"
 description: "Condensed revision notes on microscopy, magnification, organelles, the cytoskeleton and prokaryotes versus eukaryotes for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 2.1.1 (a) to (k) of the OCR A Level Biology A specification (H420, Version 4.1, April 2026). Use the [full study guide](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus/) for explanations and fully worked examples, then test yourself with the [practice questions](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus-practice/). Related pages: [Foundations in Biology revision notes](/resources/ocr-a-level-biology-foundations-revision-notes/), the [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/).

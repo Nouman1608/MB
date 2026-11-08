@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "general-ideas-of-surveys-4040"
 description: "Condensed revision notes on open and closed questions, response options, wording faults and pilot surveys for Cambridge O Level Statistics section 1.4."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Quick recall for section 1.4 of the Cambridge O Level Statistics syllabus (4040), for examination in 2025, 2026 and 2027: general ideas of surveys, including closed and open questions in questionnaires. Full explanations and worked examples are in the [study guide](/resources/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed/). Test yourself with the [practice questions](/resources/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed-practice/). Course links: [hub](/boards/cambridge/o-level/statistics/), [printable checklist](/checklists/cambridge/o-level/statistics/) and [free diagnostics](/diagnostics/). For sampling and bias see [Data and Its Collection](/resources/o-level-cambridge-statistics-data-and-its-collection/).

@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "irrecoverable-debts-and-allowance-for-irrecoverable-debts"
 description: "Condensed revision notes for IGCSE Accounting 0452 sections 4.3 and 4.4: accruals, prepayments, irrecoverable debts and the allowance, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

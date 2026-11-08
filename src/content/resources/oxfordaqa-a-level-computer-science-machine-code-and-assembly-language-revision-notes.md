@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "machine-code-and-assembly-language"
 description: "Condensed revision notes for OxfordAQA A-level Computer Science topic 8: opcodes, addressing modes, the assembly instruction set and loops."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Fuller explanations, and longer worked examples, sit in the [study guide](/resources/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language/) first. These notes condense topic 8, Machine code and assembly language (sections 3.8.1 and 3.8.2), of Version 1.1 of OxfordAQA's International AS and A-level Computer Science (9645) specification, which applies to International AS exams in May/June 2025 and later and International A-level exams in May/June 2026 and later. Everything here is International AS content, assessed in the written Unit 2 paper and carried into the full International A-level.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "statement-of-financial-position"
 description: "Condensed revision notes on profit, income statements and the statement of financial position for Cambridge O Level Business 7115, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense syllabus sections 5.3 (Income statements) and 5.4 (Statement of financial position) of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. For full explanations and worked examples, read the [study guide](/resources/o-level-business-income-statements-and-statement-of-financial-position/). The syllabus says constructing these statements will not be assessed, so the notes focus on reading them and using them.

@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "headers-and-footers-0417"
 description: "Original exam-style questions and practical tasks with answers on editing, text wrapping, tables, headers and footers for Cambridge IGCSE ICT 0417 Topic 13."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 13: creating or editing a document (13.1), tables (13.2) and headers and footers (13.3). Layout is a practical skill used in Papers 2 and 3, so the page combines short theory questions with practical-style tasks and examiner-style checklists.

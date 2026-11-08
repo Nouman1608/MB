@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "f-exponentials-and-logarithms-aqa-alevel-maths"
 description: "Study guide to exponentials and logarithms for AQA A-Level Maths (7357): graphs, laws of logs, solving equations, log graphs and growth models."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **Section F: Exponentials and logarithms** (content references F1 to F7) of

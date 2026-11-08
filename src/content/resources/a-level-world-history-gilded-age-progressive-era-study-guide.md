@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "gilded-age-progressive-era-9489"
 description: "Study guide to Cambridge 9489 History AS topic 5, the Gilded Age and Progressive Era: industrial growth, trusts, labour, Populism and Progressive reform."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check legislation dates and named examples against standard texts and the 9489 2027-2029 syllabus before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check legislation dates and named examples against standard texts and the 9489 2027-2029 syllabus before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

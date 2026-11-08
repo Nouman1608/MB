@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "system-life-cycle"
 description: "Condensed revision notes on the system life cycle for Cambridge A Level IT 9626, with comparison tables, a quick self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 For full explanations and worked examples, read the [system life cycle study guide](/resources/a-level-cambridge-ict-system-life-cycle/) first. These notes cover **topic 16, System life cycle** (sections 16.1–16.10) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is **A Level only** content, and the syllabus states that Paper 3 (Advanced Theory) questions are based on sections 12–21.

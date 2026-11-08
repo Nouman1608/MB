@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "costs-and-break-even-analysis-4bs1"
 description: "Condensed revision notes on costs, profit, break-even output and break-even charts for Edexcel International GCSE Business 4BS1, section 3.3."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense section 3.3 Costs and break-even analysis of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-business-costs-and-break-even-analysis/). When you are ready to test yourself, use the [practice questions](/resources/edexcel-igcse-business-costs-and-break-even-analysis-practice/). Both Paper 1 (small businesses) and Paper 2 (large businesses) can draw on this topic. Course links: [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free 10-minute diagnostics](/diagnostics/).

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "acid-base-equilibria-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 14.1-14.14: Brønsted-Lowry acids, pH, strong and weak acids, Ka, Kw, pKa, pKw and pH data analysis."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Here you will learn outcomes 14.1 to 14.14, the opening half of Topic 14 (Acid-base Equilibria), as set out by the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. That means proton transfer, pH, strong and weak acids, Ka, Kw, pKa and pKw, and the analysis of pH data. Topic 14 is assessed in Unit 4, the International A2 (IA2) unit titled Rates, Equilibria and Further Organic Chemistry. Expect the Unit 2, Topic 9B equilibrium ideas to be extended here. Titration curves, indicators, buffers and Core Practical 11 (outcomes 14.15 onwards) have their own [titration curves and buffers guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "group-properties-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) revision notes on Group 1 and Group 7 trends, displacement and energy-level explanations, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 3.7.1 Group properties of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements a to f. The qualification is untiered, so every point here is for every candidate, and no required practical is attached to this section. For full teaching and longer worked examples, use the [group properties study guide](/resources/oxfordaqa-igcse-chemistry-group-properties/).

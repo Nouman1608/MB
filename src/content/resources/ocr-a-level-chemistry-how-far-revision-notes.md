@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-1-2"
 description: "Condensed revision notes for OCR A Level Chemistry A 5.1.2 How far?: Kc and Kp expressions, units, heterogeneous rules and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes cover section 5.1.2, How far?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. You will find every lettered outcome, 5.1.2(a) to (h), from this second section of Module 5 (Physical chemistry and transition elements). The content belongs to the full A level, and the specification lists Module 5 as assessed in components 01 and 03. If any point here feels thin, go back to the [How far? study guide](/resources/ocr-a-level-chemistry-how-far/), which explains each idea in full with longer examples.

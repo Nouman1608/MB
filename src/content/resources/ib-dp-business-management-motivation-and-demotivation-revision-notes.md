@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-4"
 description: "Condensed revision notes for IB DP Business Management section 2.4: motivation theories, rewards, training, labour turnover, appraisal and recruitment."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.4, Motivation and demotivation, from Unit 2 (Human resource management) of the IB *Business management guide*, first assessment 2024. Full explanations and worked examples are in the [study guide](/resources/ib-dp-business-management-motivation-and-demotivation/). Items marked HL only are labelled that way in the guide. Where the guide names an idea but gives no definition or formula, the wording here is the standard textbook form. Other pages: the [Business Management hub](/boards/ib/ib-dp/business/), the [printable checklist](/checklists/ib/ib-dp/business/), the [practice questions](/resources/ib-dp-business-management-motivation-and-demotivation-practice/) and the [free diagnostics](/diagnostics/). Money amounts are in dollars.

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "depreciation-4ac1"
 description: "Revision notes on capital and revenue expenditure, depreciation methods, ledger entries and disposals for Edexcel IGCSE Accounting 4AC1, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense sections 2.4 (Capital expenditure and revenue expenditure) and 2.5 (Depreciation) of Topic 2, Introduction to bookkeeping, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. Depreciation is repeated in Topic 5, which sits in Paper 2, so learn it once and use it in both papers. For full explanations and worked examples, use the [study guide](/resources/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation/).

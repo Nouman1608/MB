@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "algorithms-9-2"
 description: "Revision notes on abstraction, decomposition, identifier tables, structured English, flowcharts, pseudocode and stepwise refinement for Cambridge AS 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 9 Algorithm Design and Problem-solving is about turning a problem into a precise sequence of steps: using abstraction and decomposition, naming the data in an identifier table, and expressing the algorithm in structured English, a flowchart or Cambridge pseudocode, refined until it can be programmed. In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 2, where you write, convert and refine algorithms using the Cambridge pseudocode guide.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-and-newtons-laws-ocr-alevel-maths"
 description: "Condensed revision notes on forces, Newton's laws, weight, normal reaction and straight-line equilibrium for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense OCR A Level Mathematics A (H240) specification section 3.03, items 3.03a to 3.03k (Version 3.1, August 2026, first assessment 2018), with 3.03e marked **A Level only**. For full explanations use the [study guide](/resources/ocr-a-level-mathematics-newtons-laws-weight-and-equilibrium-in-one-dimension/). Then test yourself with the [practice questions](/resources/ocr-a-level-mathematics-newtons-laws-weight-and-equilibrium-in-one-dimension-practice/). Course hub: [OCR A Level Mathematics](/boards/ocr/a-level/mathematics/). Printable [checklist](/checklists/ocr/a-level/mathematics/). Free [10-minute diagnostics](/diagnostics/). Connected particles, pulleys, two-dimensional equilibrium and friction are in separate units.

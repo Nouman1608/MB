@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "distribution-of-income-aqa-gcse-economics"
 description: "Eleven original practice questions with worked answers for AQA GCSE Economics 8136 sections 3.2.2.5 and 3.2.2.6: current account balances and redistribution."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

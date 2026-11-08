@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-2-2"
 description: "Study guide to IB DP Chemistry Reactivity 2.2.1 to 2.2.5: measuring rates, collision theory, factors affecting rate, activation energy and catalysts."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches the first part of **Reactivity 2.2, How fast? The rate of chemical change**, based on the IB Diploma Programme *Chemistry guide* (February 2023, first assessment 2025). Its scope is understandings Reactivity 2.2.1 to 2.2.5, which are studied at **both SL and HL**. The additional higher level understandings (Reactivity 2.2.6 to 2.2.13: mechanisms, rate equations and the Arrhenius equation) are covered in the [HL rates guide](/resources/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius/).

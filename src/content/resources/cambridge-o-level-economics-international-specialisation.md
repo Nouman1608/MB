@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "international-specialisation"
 description: "Study guide to national specialisation, its two bases and its advantages and disadvantages, with worked examples, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, and covers section 6.1 (6.1.1 and 6.1.2, international specialisation). The course is not tiered. Every country, firm, market and figure below is invented and illustrative. Related pages: the [revision notes](/resources/cambridge-o-level-economics-international-specialisation-revision-notes/), the [practice questions](/resources/cambridge-o-level-economics-international-specialisation-practice/), the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/), the [costs, revenue and objectives of firms guide](/resources/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms/) and the [free diagnostics](/diagnostics/).

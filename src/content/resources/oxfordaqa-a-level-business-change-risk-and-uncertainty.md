@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "change-risk-and-uncertainty-oxfordaqa-alevel-business"
 description: "Study guide for OxfordAQA A-level Business 9725 section 3.4.6: reasons for change, resistance, force field analysis, types of risk and agility."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide follows the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. It teaches section 3.4.6 Change, risk and uncertainty, the last part of 3.4 Business strategy, which is **International A-level only** content. Anyone still completing the older 9625 specification should keep to that specification instead. Every business named here is invented.

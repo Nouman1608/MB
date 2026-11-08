@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "capacitors-ocr-alevel"
 description: "Study guide to charging and discharging a capacitor through a resistor, time constant CR, ln graphs and spreadsheet models, for OCR A Level Physics (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers section 6.1.3, Charging and discharging capacitors, of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. It teaches statements 6.1.3(a) to 6.1.3(e) with worked examples. The definition of capacitance, capacitor combinations and stored energy belong to sections 6.1.1 and 6.1.2 and are not repeated here.
 

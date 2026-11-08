@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "firms-cambridge-igcse-economics"
 description: "Study guide to classifying firms, small firms, how firms grow, mergers and economies of scale for Cambridge IGCSE Economics 0455, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.5 (Firms) of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: 3.5.1 classification of firms, 3.5.2 small firms, 3.5.3 causes and forms of growth, 3.5.4 mergers and 3.5.5 economies and diseconomies of scale. The course is not tiered, so everything here is for every candidate. The syllabus says detailed knowledge of different types of structure of a firm is not required, so this guide does not cover company structures.

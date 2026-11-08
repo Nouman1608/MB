@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "sound"
 description: "Condensed revision notes on Waves for Cambridge O Level Physics 5054: definitions, equations, light, sound, the EM spectrum, a self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 Short notes on topic 3, Waves, from the Cambridge O Level Physics 5054 syllabus (examined 2026 to 2028), covering sections 3.1 to 3.4. The [study guide](/resources/o-level-physics-waves/) has the longer explanations and worked examples. Once the self-test below goes well, try the [practice questions](/resources/o-level-physics-waves-practice/). Also useful: the Physics [course hub](/boards/cambridge/o-level/physics/), a [printable checklist](/checklists/cambridge/o-level/physics/) and our [free diagnostics](/diagnostics/).
 

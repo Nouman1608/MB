@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "biological-membranes-ocr-alevel-biology"
 description: "Original OCR A Level Biology A (H420) 2.1.5 questions with answers on membrane roles, fluid mosaic, permeability, diffusion, ATP-driven transport and osmosis."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

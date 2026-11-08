@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on 3.4.3 for OxfordAQA International GCSE Biology: water loss, liver, kidneys, ADH and negative feedback, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These revision notes are aligned to the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. They cover section 3.4.3, Control of water and ion content of the body, statements a to g. The qualification is untiered. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh/).
 

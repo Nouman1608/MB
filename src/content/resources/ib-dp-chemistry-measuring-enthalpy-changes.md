@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-1-1"
 description: "Study guide for IB DP Chemistry Reactivity 1.1: heat and temperature, exothermic and endothermic change, energy profiles and calorimetry with Q = mcΔT."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches IB DP Chemistry Reactivity 1.1, "Measuring enthalpy changes", starting from nothing. It is written against the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023), whose understandings Reactivity 1.1.1 to 1.1.4 each get a worked example here. The sub-topic has no additional higher level (AHL) content, so SL and HL learn identical material.

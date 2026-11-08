@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "depreciation-and-disposal-oxfordaqa-igcse-accounting"
 description: "Original questions with worked answers on capital and revenue items, depreciation and disposals for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

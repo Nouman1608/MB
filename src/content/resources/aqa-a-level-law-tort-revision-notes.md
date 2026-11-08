@@ -41,8 +41,12 @@ syllabusTopics:
     subtopic: "remedies-tort-7162"
 description: "AQA A-level Law 7162 tort notes: negligence, economic loss, psychiatric injury, occupiers' liability, nuisance, Rylands, vicarious liability and remedies."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 Tort is section 3.3 of AQA A-level Law (7162) and carries 75 of the 100 marks on Paper 2 (2 hours),

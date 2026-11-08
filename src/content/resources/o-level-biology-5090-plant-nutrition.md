@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "plant-nutrition"
 description: "Study guide for Cambridge O Level Biology 5090 plant nutrition: photosynthesis, limiting factors, leaf structure and nitrate and magnesium ions."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches Topic 6, Plant nutrition, for Cambridge O Level Biology 5090. It follows the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 6.1 Photosynthesis, 6.2 Leaf structure and 6.3 Mineral nutrition. The syllabus is not tiered: every candidate studies all of this content.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "supplying-the-cell-ocr-gcse-biology"
 description: "Study guide to diffusion, osmosis, active transport, the cell cycle, differentiation and stem cells for OCR GCSE Biology A, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers statements B2.1a to B2.1f ("Supplying the cell") of the OCR GCSE (9-1) Biology A Gateway Science specification (J247), Version 4.0, for first assessment in 2018. None of these statements is printed in bold, so none is marked as Higher Tier only. Work through it with the [revision notes](/resources/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells-revision-notes/) and the [practice questions](/resources/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells-practice/). Course links: the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), the [printable checklist](/checklists/ocr/gcse/biology/), and the [free diagnostics](/diagnostics/). For the wider topic, see [Scaling Up](/resources/ocr-gcse-biology-scaling-up/) and [Cell Level Systems](/resources/ocr-gcse-biology-cell-level-systems/).

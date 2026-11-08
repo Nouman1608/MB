@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-circular-flow-of-income-cambridge-alevel-economics"
 description: "Study guide to the parts of aggregate demand, the accelerator, and inflationary and deflationary gaps for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers outcomes 9.1.2 (components of Aggregate Demand and their determinants) and 9.1.3 (full employment and equilibrium national income, inflationary and deflationary gaps) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content only and is not examined at AS. Treat the AS topics as background. Each country, firm and number here is made up to show the method, so none is a real statistic. Money is in currency units (cu).

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "kinetic-theory-of-gases-oxfordaqa-alevel-physics"
 description: "Original practice questions with worked answers on gas laws, pV = nRT, work done, Brownian motion and kinetic theory for OxfordAQA A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

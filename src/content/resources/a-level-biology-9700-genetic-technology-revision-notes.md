@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "genetically-modified-organisms-in-agriculture-cambridge"
 description: "Condensed Cambridge 9700 genetic technology notes: gene transfer tools, PCR, electrophoresis, microarrays, medicine and GM crops, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense topic 19, Genetic technology, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, sections 19.1 to 19.3. It is A Level content, examined on Paper 4. For full explanations and worked examples, read the [study guide](/resources/a-level-biology-9700-genetic-technology/) first.

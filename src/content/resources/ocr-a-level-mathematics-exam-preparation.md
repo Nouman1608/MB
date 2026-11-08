@@ -11,11 +11,12 @@ syllabusSeries: "Version 3.1 (August 2026), for first assessment in 2018"
 order: 3
 description: "How pure mathematics runs through all three OCR A Level Mathematics H240 papers, what the Component 02 pre-release data set needs, and a method-mark routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 OCR A Level Mathematics A (H240) is linear and untiered, with three compulsory components each worth

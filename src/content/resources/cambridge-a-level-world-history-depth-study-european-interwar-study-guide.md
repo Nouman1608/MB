@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "hitlers-germany-9489"
 description: "Study guide to the Cambridge 9489 History Paper 4 European option: Mussolini's Italy, Stalin's Russia and Hitler's Germany, 1919-41, with exam guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the syllabus for the key questions and prescribed content under each of the three dictatorships and the paper in which this depth study is examined. 2026-11-08 recheck: added the Paper 4 format from the 2027-2029 syllabus; FAQ added; description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the syllabus for the key questions and prescribed content under each of the three dictatorships and the paper in which this depth study is examined. 2026-11-08 recheck: added the Paper 4 format from the 2027-2029 syllabus; FAQ added; description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

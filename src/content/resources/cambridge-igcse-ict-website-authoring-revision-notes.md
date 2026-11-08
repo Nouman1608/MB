@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "use-stylesheets-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 21: content, presentation and behaviour layers, HTML head and body, tables, links, bookmarks and CSS."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Website authoring in Cambridge IGCSE ICT 0417 (Topic 21) is about building web pages in three layers: the content layer written in HTML, the presentation layer written in CSS, and the behaviour layer for scripting. You must be able to write the head and body sections, tables, images, video, lists, bookmarks and hyperlinks, create external styles and classes, and explain relative file paths and the stylesheet hierarchy. It is assessed practically in Paper 3, with theory points also asked in Paper 1.

@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "communication-7100-commerce"
 description: "Recall notes on outsourcing growth, what wholesalers do for manufacturers and retailers, and communication types, methods and factors for O Level Commerce 7100."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check examples against the 7100 syllabus for 2026-2028 and examiner guidance before review. 2026-11-08 recheck: added FAQ section to expand a thin page."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check examples against the 7100 syllabus for 2026-2028 and examiner guidance before review. 2026-11-08 recheck: added FAQ section to expand a thin page; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-08
 featured: false
 ---

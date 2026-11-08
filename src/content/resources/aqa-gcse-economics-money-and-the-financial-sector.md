@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-role-and-importance-of-the-financial-sector-for-the-economy-aqa-gcse-economics"
 description: "Study guide to AQA GCSE Economics 8136 3.2.5.1 and 3.2.5.2: the four functions of money, what counts as money, the Bank of England and high street banks."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Money is anything that is generally accepted as payment for goods and services; it works as a medium of exchange, a unit of account, a store of value and a means of deferred payment. The financial sector is the group of institutions, such as the Bank of England, commercial banks and building societies, that moves money from savers to borrowers and keeps the payment system working. AQA GCSE Economics (8136) sections 3.2.5.1 and 3.2.5.2 ask you to explain the functions of money, why money is more than notes and coins, the role of the Bank of England, and how high street banks help savers, borrowers and investment.

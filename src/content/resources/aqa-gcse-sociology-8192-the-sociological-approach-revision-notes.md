@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "the-sociological-approach-8192"
 description: "Revision notes for AQA GCSE Sociology 8192 section 3.1: key terms, four perspectives, Durkheim, Marx and Weber at a glance, essay plan and self-test."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 For full explanations and worked paragraphs, read the [study guide for this unit](/resources/aqa-gcse-sociology-8192-the-sociological-approach/) first.

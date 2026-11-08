@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "diseases-and-immunity-cambridge-igcse-biology"
 description: "Condensed notes on pathogens, defences, disease control, active and passive immunity, vaccination and cholera, with a self-test, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and a worked data example, use the [diseases and immunity study guide](/resources/igcse-biology-0610-diseases-and-immunity/). These notes condense topic 10 (section 10.1, statements 1–17) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Statements 1–5 are Core (Papers 1 and 3). Statements 6–17 are Supplement, marked **Extended only** (Papers 2 and 4).

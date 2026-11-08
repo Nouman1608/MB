@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "nucleotides-and-nucleic-acids-ocr-alevel-biology"
 description: "Study guide to the genetic code, transcription and translation for OCR A Level Biology A (H420), with worked examples on mRNA, tRNA, rRNA and polypeptides."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide is for OCR A Level Biology A (H420), written to the OCR specification Version 4.1 (April 2026), for first assessment in 2025. It covers module 2.1.3 learning outcomes (f) and (g): the nature of the genetic code, and the transcription and translation of genes to make polypeptides. DNA structure and replication are in other units, so they are only used here as background. For quick recall use the [revision notes](/resources/ocr-a-level-biology-the-genetic-code-transcription-and-translation-revision-notes/), and for exam-style questions use the [practice set](/resources/ocr-a-level-biology-the-genetic-code-transcription-and-translation-practice/). Course pages: [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/). Not sure where you stand? Try the free [10-minute diagnostics](/diagnostics/). The wider module is in [Foundations in Biology](/resources/ocr-a-level-biology-foundations-in-biology/).

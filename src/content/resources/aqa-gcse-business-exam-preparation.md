@@ -11,9 +11,10 @@ syllabusSeries: "For first teaching 2017"
 order: 2
 description: "Paper-by-paper exam preparation for AQA GCSE Business (8132): the Paper 1 and Paper 2 topic split, AO1 to AO3 balance, case-study technique and a worked answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-07
 featured: false
 ---

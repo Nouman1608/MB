@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-16-1"
 description: "Revision notes for OxfordAQA 9620 chromatography: phases, TLC, CC and GC compared, Rf and retention-time methods, GC-MS and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense 3.3.16 Chromatography (subsection 3.3.16.1) from the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams from May/June 2020 onwards. As International A2 content, the whole section is **International A-level only**. It is part of the organic content assessed in Unit 4, and Unit 5 can test any content.

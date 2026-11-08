@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "redox-reactions-9202"
 description: "Revision notes for OxfordAQA International GCSE Chemistry redox: both definitions, half equation steps, key distinctions and a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.8.4 Redox reactions (statements a, b and c) of the OxfordAQA International GCSE Chemistry (9202) specification, in its Version 6.2 form for exams May/June 2018 onwards. With no tiers, every line here is for you, and the specification says content from any part may come up on either paper. Section 3.8.4 has no required practical.

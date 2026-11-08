@@ -19,9 +19,10 @@ syllabusTopics:
     subtopic: "a-the-first-law-of-thermodynamics"
 description: "Original practice questions with worked answers on internal energy, the first law ΔU = q + W, work done by a gas and latent heat for Cambridge 9702 Physics."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 publishedDate: 2026-08-22
 featured: false
 ---

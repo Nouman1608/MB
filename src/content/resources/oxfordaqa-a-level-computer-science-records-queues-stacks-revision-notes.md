@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "stacks-oxfordaqa-alevel-cs"
 description: "Recall notes for 9645 sub-topics 3.2.2 to 3.2.4: records and fields, FIFO queues, circular queue pointers, LIFO stacks, empty and full tests, and traces."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 **These notes condense sub-topics 3.2.2 (Records), 3.2.3 (Queues) and 3.2.4 (Stacks) of OxfordAQA

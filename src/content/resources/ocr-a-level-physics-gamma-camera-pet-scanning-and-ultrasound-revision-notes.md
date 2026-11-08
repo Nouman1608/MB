@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "medical-imaging-ocr-alevel"
 description: "Condensed H556 revision notes for 6.5.2 and 6.5.3: tracers, gamma camera, PET, ultrasound, acoustic impedance, gel and Doppler, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These revision notes condense sections 6.5.2 (Diagnostic methods in medicine) and 6.5.3 (Using ultrasound) of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. Full explanations and worked examples are in the [study guide](/resources/ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound/); test yourself with the [practice set](/resources/ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound-practice/). The course hub is [OCR A Level Physics](/boards/ocr/a-level/physics/), the printable list is the [checklist](/checklists/ocr/a-level/physics/), and the [free 10-minute diagnostics](/diagnostics/) show where to focus. X-rays and CAT scanning (6.5.1) are covered separately.
 

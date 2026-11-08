@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "containment-communism-2147"
 description: "Original structured questions with mark guidance on US containment in Korea, Cuba and Vietnam, for Cambridge IGCSE History 0470 and O Level History 2147."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: disclaimer reworded (page has no sources); FAQ added; please re-review."
+reviewNote: "2026-11-08 recheck: disclaimer reworded (page has no sources); FAQ added; please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d1-3"
 description: "Original IB DP Biology practice questions with worked answers on D1.1 DNA replication and D1.3 Mutation and gene editing, SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

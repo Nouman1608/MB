@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-structures-ocr-alevel-economics"
 description: "Condensed revision notes on monopoly, monopsony, natural monopoly, efficiency and price discrimination for OCR A Level Economics, with a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the monopoly statements in the market structures topic of Component 01 (Microeconomics) in OCR A Level Economics, H460, Version 3.0 (June 2026), for first assessment in 2021. Read the [study guide](/resources/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination/) for the full explanations. Test yourself with the [practice questions](/resources/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination-practice/). Other links: the [Microeconomics revision notes](/resources/ocr-a-level-economics-microeconomics-revision-notes/), the [OCR economics hub](/boards/ocr/a-level/economics/), the [printable checklist](/checklists/ocr/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).

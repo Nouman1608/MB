@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "presentation-and-analysis-oxfordaqa-igcse-maths"
 description: "Study guide to drawing and reading statistical charts for OxfordAQA International GCSE Maths, from tally charts to cumulative frequency and box plots."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is written for OxfordAQA International GCSE Mathematics (9260) and follows Version 5.1 of the specification, covering exams from May/June 2018. It covers reference S4 in section 3.4.1, Presentation and analysis, and teaches how to produce and read each chart the specification names. Extension papers can also assess the Core content. Three items are Extension only: histograms with unequal class intervals, cumulative frequency diagrams and box plots.

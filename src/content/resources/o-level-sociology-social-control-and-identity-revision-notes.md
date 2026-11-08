@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-2-3-2251"
 description: "Revision notes for Cambridge O Level Sociology 2251 key questions 2.2 and 2.3: agencies and methods of control, sanctions, resistance, and identity influences."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes cover key questions 2.2 (*How does society control us?*) and 2.3 (*What influences our

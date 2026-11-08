@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "fiscal-policy"
 description: "Condensed revision notes on fiscal policy for Cambridge O Level Economics: definitions, budget balance sums, measures, effects on aims and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These revision notes are for Cambridge O Level Economics 2281, syllabus for examination in 2026, statements 4.3.7 to 4.3.9 (definition of fiscal policy, fiscal policy measures including budget deficit and surplus calculations, and effects on the government's macroeconomic aims). Full explanations are in the [study guide](/resources/cambridge-o-level-economics-fiscal-policy-measures-and-their-effects/), and exam-style questions are in the [practice set](/resources/cambridge-o-level-economics-fiscal-policy-measures-and-their-effects-practice/).
 

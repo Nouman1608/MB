@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordination-and-control-the-endocrine-system-ocr-gcse-biology"
 description: "Condensed revision notes on hormones, thyroxine, adrenaline and the menstrual cycle for OCR GCSE Biology A (J247), with a self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense statements B3.2a to B3.2d of module B3.2 in the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. B3.2b and B3.2d are in bold in the specification, so they are Higher Tier only and are labelled. For the full explanations and worked data examples, read the [study guide](/resources/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the/). Test yourself with the [practice questions](/resources/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the-practice/). Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) | [checklist](/checklists/ocr/gcse/biology/) | [free diagnostics](/diagnostics/).

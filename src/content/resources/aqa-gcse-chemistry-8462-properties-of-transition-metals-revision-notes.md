@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "properties-of-transition-metals-8462"
 description: "Condensed revision notes on transition metals for AQA GCSE Chemistry 8462 (4.1.3): Group 1 comparison, ion charges, colours, catalysts and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **4.1.3 Properties of transition metals** (4.1.3.1 Comparison with Group 1 elements and 4.1.3.2 Typical properties) of the AQA GCSE Chemistry (8462) specification, for teaching from September 2016 with exams from June 2018 (version 1.1). The section is in Topic 1, assessed on Paper 1 at Foundation and Higher tier. None of it is Higher tier only, and there is no required practical for it.

@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "unification-italy-4hi1"
 description: "Original Paper 1-style questions on the unification of Italy, 1848–70 for Edexcel IGCSE History 4HI1, covering 1848, Cavour, Garibaldi and Rome, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 1 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 1 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

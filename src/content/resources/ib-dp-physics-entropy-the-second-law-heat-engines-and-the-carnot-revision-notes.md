@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-4"
 description: "Condensed IB DP Physics B.4 (HL only) notes on entropy, microstates, the second law, heat engines, efficiency and the Carnot limit, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes condense the second half of sub-topic B.4, Thermodynamics, from the IB *Physics guide* (first assessment 2025). All of B.4 is additional higher level (HL only); the guide has no standard level content there. For full explanations and worked examples read the [study guide](/resources/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot/), and test yourself with the [practice questions](/resources/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot-practice/). Not sure where to start? Try the [free 10-minute diagnostics](/diagnostics/).

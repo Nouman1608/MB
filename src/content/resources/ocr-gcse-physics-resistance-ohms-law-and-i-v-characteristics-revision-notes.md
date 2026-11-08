@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "simple-circuits-ocr-gcse"
 description: "Condensed revision notes on V = IR, constant and changing resistance, circuit design and I-V graphs for OCR GCSE (9-1) Gateway Science Physics A."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes are for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), and cover statements P3.2c to P3.2h in topic P3, Electricity. All of this content can be tested in both Foundation and Higher Tier papers. For full explanations and extra worked examples, read the [study guide](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-practice/). See also the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the printable [checklist](/checklists/ocr/gcse/physics/). Unsure where to begin? Take the [free 10-minute diagnostics](/diagnostics/). For paper technique, see [exam preparation](/resources/ocr-gcse-physics-exam-preparation/).

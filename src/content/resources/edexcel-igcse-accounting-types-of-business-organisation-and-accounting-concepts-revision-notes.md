@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "accounting-concepts-4ac1"
 description: "Condensed Edexcel IGCSE Accounting 4AC1 notes on business types, stakeholders and six accounting concepts, with a self-test and common errors."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense sections 1.1 (Types of business organisation) and 1.2 (Accounting concepts) of Topic 1, The accounting environment, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts/). Amounts are in dollars ($) and all businesses are invented.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-prices-are-determined-aqa-gcse-economics"
 description: "Twelve original questions with worked answers on price elasticity of demand and supply for AQA GCSE Economics (8136), sections 3.1.3.5 and 3.1.3.6."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

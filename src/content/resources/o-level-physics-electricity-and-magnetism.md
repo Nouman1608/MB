@@ -31,8 +31,12 @@ syllabusTopics:
     subtopic: "uses-of-an-oscilloscope"
 description: "A full study guide to Electricity and magnetism for Cambridge O Level Physics 5054: magnetism, circuits, mains safety, induction, motors and transformers."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 This guide teaches Section 4, Electricity and magnetism (4.1 to 4.6), of the Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028. 
 

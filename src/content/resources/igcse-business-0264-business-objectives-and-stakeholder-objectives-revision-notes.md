@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "business-objectives-and-stakeholder-objectives-0264"
 description: "Condensed revision notes on business objectives, internal and external stakeholders and stakeholder conflict for Cambridge IGCSE Business 0264."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 1.5 (Business objectives and stakeholder objectives) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-business-objectives-and-stakeholder-objectives/). Both Paper 1 and Paper 2 are based on all the subject content, so this topic can turn up in any case study. Then try the [practice questions](/resources/igcse-business-0264-business-objectives-and-stakeholder-objectives-practice/), tick off the [printable checklist](/checklists/cambridge/igcse/business/), visit the [course hub](/boards/cambridge/igcse/business/) and take a [free diagnostic](/diagnostics/) to check your recall.

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "non-current-asset-depreciation-yac11"
 description: "Study guide to capital and revenue expenditure and non-current asset depreciation, outcomes 1.1.11 to 1.1.20 of Edexcel International A Level Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide covers outcomes 1.1.11 to 1.1.20 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. They sit in Unit 1, topic 1.1, which is the International AS unit. The businesses and figures are invented, and all amounts are in dollars. The wider overview is [Principles and double entry bookkeeping](/resources/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping/); this guide goes deeper on its last two headings. For quick recall use the [revision notes](/resources/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d-revision-notes/), then try the [practice questions](/resources/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d-practice/). The course hub is [Edexcel A-Level Accounting](/boards/edexcel/a-level/accounting/), the printable list is the [checklist](/checklists/edexcel/a-level/accounting/), and the [free diagnostics](/diagnostics/) show where to start.

@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-4-4"
 description: "Twelve original OxfordAQA 9620 energetics questions with worked answers on enthalpy definitions, calorimetry, Hess's law and mean bond enthalpies."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

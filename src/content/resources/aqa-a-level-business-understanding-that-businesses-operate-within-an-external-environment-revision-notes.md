@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "external-environment-aqa-alevel-business"
 description: "Condensed revision notes on how the external environment affects costs and demand, with short calculations and a self-test for AQA A-level Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for section 3.1.3, *Understanding that businesses operate within an external environment*, in the AQA AS and A-level Business specification (7131 and 7132), written for A-level Business 7132. For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment/). To test yourself on exam-style questions, use the [practice questions](/resources/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment-practice/). The wider topic is in the [What is business? revision notes](/resources/aqa-a-level-business-what-is-business-revision-notes/), the course hub is [AQA A-level Business](/boards/aqa/a-level/business/), the printable list is the [Business checklist](/checklists/aqa/a-level/business/), and the [free diagnostics](/diagnostics/) show where your gaps are.

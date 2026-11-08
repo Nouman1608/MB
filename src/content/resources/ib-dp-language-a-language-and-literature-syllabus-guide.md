@@ -13,11 +13,12 @@ syllabusSeries: "First assessment 2021"
 order: 2
 description: "The three areas of exploration in IB DP Language A: Language and Literature, with teaching hours, works studied and how literary and non-literary texts are set."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme

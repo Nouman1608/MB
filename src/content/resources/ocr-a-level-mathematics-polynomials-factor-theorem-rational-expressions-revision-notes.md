@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebra-and-functions-ocr-alevel-maths"
 description: "Condensed OCR A Level Maths A revision notes on polynomials, the factor theorem, rational expressions, partial fractions and modelling, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense the [full study guide](/resources/ocr-a-level-mathematics-polynomials-factor-theorem-rational-expressions/) for the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), content references 1.02j, 1.02k, 1.02y and 1.02z. Use them in the final weeks, then test yourself with the [practice questions](/resources/ocr-a-level-mathematics-polynomials-factor-theorem-rational-expressions-practice/). Other links: [course hub](/boards/ocr/a-level/mathematics/), [printable checklist](/checklists/ocr/a-level/mathematics/), [free 10-minute diagnostics](/diagnostics/) and the [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pure-revision-notes/).

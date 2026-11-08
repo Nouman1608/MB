@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "social-and-ethical-accounting"
 description: "Study guide for Edexcel IAL Accounting topic 1.6: social context, non-financial factors, stakeholders and ethics, with two fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide covers topic 1.6, Social and ethical accounting, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. It teaches learning outcomes 1.6.1 to 1.6.4. The topic sits in Unit 1, The Accounting System and Costing (unit code WAC11), which is the International AS unit, so it counts towards both the International AS and the full International A Level. There are no tiers.

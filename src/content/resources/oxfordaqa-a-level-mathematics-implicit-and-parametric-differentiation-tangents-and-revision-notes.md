@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-differentiation-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on implicit and parametric differentiation, with tangents and normals at given and general points, for OxfordAQA A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense the second part of content area P2.6 of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level (A2) Unit P2; it is not examined at International AS. For full explanations see the [study guide](/resources/oxfordaqa-a-level-mathematics-implicit-and-parametric-differentiation-tangents-and/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-implicit-and-parametric-differentiation-tangents-and-practice/). Hub: [OxfordAQA A-level Mathematics](/boards/oxfordaqa/a-level/mathematics/). Tracker: [printable checklist](/checklists/oxfordaqa/a-level/mathematics/). Find weak spots with the [free diagnostics](/diagnostics/).
 

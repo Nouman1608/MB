@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "financial-management-aqa-alevel-business"
 description: "Study guide to financial management for AQA A-Level Business (7132): objectives, budgets, break-even, profit ratios, cash timing and finance."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the whole of section 3.5, Decision making to improve financial performance, in the AQA AS and A-level Business specification text (7131/7132), numbered 3.5.1 to 3.5.4. It uses the specification's own terms: profit from operations, profit for the year, payables and receivables. The text says all of its content can be assessed at A-level, so treat every point below as live.

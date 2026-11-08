@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-15-1"
 description: "OxfordAQA 9620 study guide to NMR: the δ scale, TMS, deuterated solvents, ¹³C and ¹H spectra, integration and the n+1 rule, with five worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Here you learn section 3.3.15, **Nuclear magnetic resonance spectroscopy** (sub-section

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "j-vectors-aqa-alevel-maths"
 description: "Condensed revision notes for AQA A-level Maths (7357) vectors, J1 to J5: notation, formula table, method steps, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and worked examples, use the [Vectors study guide](/resources/aqa-a-level-mathematics-vectors/). These notes condense **Section J: Vectors (J1 to J5)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification places Section J on **Paper 2**, and a calculator is required in every 7357 paper. Test yourself afterwards with the [Vectors practice questions](/resources/aqa-a-level-mathematics-vectors-practice/), or start with the [free 10-minute diagnostics](/diagnostics/). Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/). Printable checklist: [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/).

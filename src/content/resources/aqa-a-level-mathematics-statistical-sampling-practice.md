@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "k-statistical-sampling-aqa-alevel-maths"
 description: "Original practice questions with marked, worked answers on AQA A-Level Maths sampling: populations, sampling methods, estimates and critiques."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

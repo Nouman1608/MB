@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "resource-allocation-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.1.2: markets and allocation, factor and product markets, the sectors, and division of labour."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense **section 3.1.2, Resource allocation**, in the AQA GCSE Economics specification (code 8136), which began first teaching in September 2017: markets (3.1.2.1), the sectors (3.1.2.2) and specialisation with division of labour (3.1.2.3). The [study guide](/resources/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and/) has the full explanations; the [practice questions](/resources/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and-practice/) let you test yourself. Also useful: the [subject hub](/boards/aqa/gcse/economics/), the [printable checklist](/checklists/aqa/gcse/economics/), the [broader Paper 1 guide](/resources/aqa-gcse-economics-how-markets-work/) and the [free 10-minute diagnostics](/diagnostics/) for spotting weak areas. There are no tiers. All figures are invented.

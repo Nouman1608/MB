@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "corporate-house-style-t14-0417"
 description: "Creating, editing and applying paragraph and character styles, and following a corporate house style, for the Cambridge IGCSE ICT 0417 practical skills."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The sub-topics for this practical topic are unnumbered in the source list; check how far the 0417 2026-2028 syllabus expects style definitions and house style to be taken."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "The sub-topics for this practical topic are unnumbered in the source list; check how far the 0417 2026-2028 syllabus expects style definitions and house style to be taken; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

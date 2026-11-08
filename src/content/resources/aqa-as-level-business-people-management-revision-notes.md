@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "people-management-aqa-aslevel-business"
 description: "Condensed revision notes for AQA AS Business 7137 section 3.2.1 People management: formulas, models, contrasts, self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for AQA AS Business (7137), for first teaching from September 2026, section 3.2.1 People management. For full explanations and a worked data example, use the [study guide](/resources/aqa-as-level-business-people-management/). Test yourself with the [practice questions](/resources/aqa-as-level-business-people-management-practice/). The [AQA AS Business hub](/boards/aqa/as-level/business/), the [checklist](/checklists/aqa/as-level/business/) and the [diagnostics](/diagnostics/) cover the rest of the course. Ethics in HR is not included. For stakeholder links see [What Is Business?](/resources/aqa-as-level-business-what-is-business/) and for the course layout the [course structure guide](/resources/aqa-as-level-business-course-structure/).

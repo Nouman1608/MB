@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "proteins-aqa-alevel-biology"
 description: "Condensed revision notes on enzymes for AQA A-level Biology 7402 section 3.1.4.2, with a pH formula, inhibitor table, practical method and self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Short recall notes for the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, section 3.1.4.2 and Required Practical 1. The [study guide](/resources/aqa-a-level-biology-enzymes-and-required-practical-1/) gives the full explanations and worked examples. Then test yourself with the [practice questions](/resources/aqa-a-level-biology-enzymes-and-required-practical-1-practice/). Tick off topics on the [printable checklist](/checklists/aqa/a-level/biology/), find your course at the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), and use the [free diagnostics](/diagnostics/) to find weak spots. A wider overview is in [Biological Molecules](/resources/aqa-a-level-biology-biological-molecules/).

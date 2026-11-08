@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "using-the-marketing-mix-1bs0"
 description: "Twelve original practice questions with worked answers on promotion, place and the integrated marketing mix for Pearson Edexcel GCSE Business Theme 2."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

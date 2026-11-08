@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "preparation-of-financial-statements-of-sole-traders-oxfordaqa"
 description: "Study guide to sole trader income statements and statements of financial position, with every adjustment worked, for OxfordAQA A-Level Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.1.6, Preparation of financial statements of sole traders, from the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It is International AS content. The specification lists 3.1.6 among the sections assessed in Paper 1: Introduction to Financial Accounting. All figures below are in dollars and every business is invented.

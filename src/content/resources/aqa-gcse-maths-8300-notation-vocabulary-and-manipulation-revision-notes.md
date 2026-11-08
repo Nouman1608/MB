@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "notation-vocabulary-and-manipulation-aqa-gcse-maths"
 description: "Revision notes for AQA GCSE Maths 8300 section 3.2.1 (A1-A7): index laws, expanding, factorising, rearranging, proof and functions, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense section **3.2.1 Notation, vocabulary and manipulation** (A1 to A7) of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Content from the specification's "Higher content only" column is marked **Higher tier only**; everything else can appear on Foundation and Higher papers. For full explanations and worked examples, use the [study guide for this section](/resources/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation/).

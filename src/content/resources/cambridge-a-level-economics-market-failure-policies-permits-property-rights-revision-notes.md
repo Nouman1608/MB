@@ -17,9 +17,13 @@ syllabusTopics:
     subtopic: "government-policies-to-correct-market-failure-cambridge-alevel-economics"
 description: "Condensed revision notes on pollution permits, property rights, privatisation, nudges and government failure for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense part of section 8.1.1 and all of 8.1.2 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 8 belongs to the A Level part of the syllabus (topics 7 to 11), not to AS. Explanations and fuller worked examples are in the [study guide](/resources/cambridge-a-level-economics-market-failure-policies-permits-property-rights/), and testing comes from the [practice questions](/resources/cambridge-a-level-economics-market-failure-policies-permits-property-rights-practice/). Related pages: [reasons for intervention](/resources/cambridge-a-level-economics-reasons-for-government-intervention-in-markets/) and [methods of microeconomic intervention](/resources/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention/). See also the [course hub](/boards/cambridge/a-level/economics/), the [checklist](/checklists/cambridge/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are made up.

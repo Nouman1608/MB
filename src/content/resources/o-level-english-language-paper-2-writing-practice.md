@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Original practice on Cambridge O Level English Language 1123 Paper 2: the format, writing objectives W1 to W5 and the directed writing marks."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-06
 featured: false
 ---

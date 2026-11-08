@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "writing-skills-7702"
 description: "Condensed AQA A-level English Language 7702 notes on Paper 2 Section B: language levels, discourses about language, analysing two texts and directed writing."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 These notes condense the Paper 2 content on **methods of language analysis**, **language discourses** and **writing

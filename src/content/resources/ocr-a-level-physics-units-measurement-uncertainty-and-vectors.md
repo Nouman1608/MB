@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "nature-of-quantities-ocr-alevel"
 description: "A full teaching guide to units, estimates, errors, uncertainty calculations, graphs and vectors for OCR A Level Physics A (H556), sections 2.1 to 2.3."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches sections 2.1, 2.2 and 2.3 of Module 2 in the OCR *Advanced GCE in Physics A* specification (H556), Version 3.0 (March 2026), for first assessment in 2017. It covers units, errors and uncertainties, and scalars and vectors, with worked examples. For a shorter overview, see the [Foundations of Physics study guide](/resources/ocr-a-level-physics-foundations-of-physics/). Condensed recall is in the [revision notes](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors-revision-notes/) and exam-style work is in the [practice questions](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors-practice/). Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), [checklist](/checklists/ocr/a-level/physics/) and [free diagnostics](/diagnostics/).

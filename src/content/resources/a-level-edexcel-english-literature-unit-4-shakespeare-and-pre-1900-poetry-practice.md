@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "unit-4-poetry-yet01"
 description: "Original statement-based essay questions for Edexcel IAL English Literature (YET01) Unit 4 on Shakespeare and three poetry movements, with AO-mapped answers."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

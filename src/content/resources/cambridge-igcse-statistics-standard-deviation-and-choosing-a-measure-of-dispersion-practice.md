@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "quartiles-percentiles-and-measures-of-dispersion-0479"
 description: "Original practice questions with worked answers on standard deviation and on choosing the range, IQR or standard deviation -- Cambridge IGCSE Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

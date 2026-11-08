@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "movement-into-and-out-of-cells-cambridge-alevel"
 description: "Study guide for Cambridge 9700 topic 4: the fluid mosaic model, cell signalling, diffusion, osmosis, active transport and SA:V, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches topic 4, Cell membranes and transport, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sub-topics 4.1 (Fluid mosaic membranes) and 4.2 (Movement into and out of cells). All of it is AS Level content, so it is tested on Paper 1 (multiple choice) and Paper 2 (AS Level structured questions), and Paper 4 can draw on it because A Level questions require AS knowledge. The investigations in 4.2 also build the practical skills assessed in Paper 3 and Paper 5.

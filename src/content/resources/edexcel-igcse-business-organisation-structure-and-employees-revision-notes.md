@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "organisation-structure-and-employees-4bs1"
 description: "Condensed revision notes on structures, span of control, delegation and functional areas for Edexcel IGCSE Business 4BS1, section 2.5."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Topic 2, section 2.5 "Organisation structure and employees" (points 2.5.1 to 2.5.3) of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-business-organisation-structure-and-employees/). Then test yourself with the [practice questions](/resources/edexcel-igcse-business-organisation-structure-and-employees-practice/).

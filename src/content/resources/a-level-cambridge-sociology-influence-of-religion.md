@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "religion-and-post-modernity-9699"
 description: "Cambridge 9699 Paper 4 sections 12.1-12.3 explained: the secularisation thesis, feminist views of religion, spiritual shopping, NRMs and fundamentalism."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Is religion declining, changing shape or reviving? Syllabus heading 12 of Cambridge International

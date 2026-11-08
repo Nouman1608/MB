@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "transformations-4024"
 description: "Study guide to reflection, rotation, enlargement and translation for Cambridge O Level Mathematics 4024, with worked examples on describing and drawing."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide covers section 7.1 (Transformations) of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. The syllabus is not tiered, so every candidate studies all of it. Sections 7.2 and 7.3 (vectors and magnitude) are separate. Use the [revision notes](/resources/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and-revision-notes/) for a short recap and the [practice questions](/resources/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and-practice/) to test yourself. The [course hub](/boards/cambridge/o-level/mathematics/) and the [printable checklist](/checklists/cambridge/o-level/mathematics/) show where this unit fits. For work on coordinates and lines, try [coordinate geometry practice](/resources/o-level-mathematics-coordinate-geometry-practice/). To find out what to revise first, take a [free diagnostic](/diagnostics/).
 

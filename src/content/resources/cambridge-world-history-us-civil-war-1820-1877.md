@@ -20,8 +20,12 @@ seoTitle: "Why Was There a Civil War in the USA? 0470 and 2147 Guide"
 seoDescription: "The American Civil War, 1820–77, for Cambridge IGCSE 0470 and O Level 2147 History: slavery, Lincoln, the North's victory and Reconstruction."
 description: "Guide to Cambridge IGCSE 0470 and O Level 2147 key question 1.4: slavery and sectional conflict, Lincoln's election, why the North won, and Reconstruction."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Key question 1.4 asks why the United States went to war with itself

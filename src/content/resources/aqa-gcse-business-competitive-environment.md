@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "competitive-environment-aqa-gcse-business"
 description: "Study guide to AQA GCSE Business 8132 section 3.2.6: markets and competition, little or no competition, uncertainty and risk, and how entrepreneurs reduce risk."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 The competitive environment is the set of rival businesses a firm faces in its market, together with the uncertainty

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "refraction-and-total-internal-reflection-oxfordaqa"
 description: "Study guide to reflection, refraction, refractive index, critical angle and optical fibres for OxfordAQA International GCSE Physics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide follows sections 3.3.4 (Reflection) and 3.3.5 (Refraction and total internal reflection) of the OxfordAQA International GCSE Physics (9203) specification, for exams from May/June 2018 onwards. The qualification is untiered, and every outcome is taught with worked examples.
 

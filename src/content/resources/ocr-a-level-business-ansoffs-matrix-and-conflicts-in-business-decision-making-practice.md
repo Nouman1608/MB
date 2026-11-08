@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "conflicts-in-business-decision-making-ocr-alevel-business"
 description: "Original practice questions with worked answers on Ansoff's matrix and on conflicts between decision making tools, for OCR A Level Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

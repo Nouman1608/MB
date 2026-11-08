@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "nuclear-magnetic-resonance-spectroscopy-7405"
 description: "Condensed AQA A-Level Chemistry NMR revision notes: environments, δ, TMS, solvents, integration and n+1 splitting, plus a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Condensed notes for the final weeks. For full explanations and worked examples, use the

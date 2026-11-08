@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "probability-ocr-alevel-maths"
 description: "Condensed exam revision notes for OCR A Level Maths A (H240) probability: formulae, method steps, self-test and common slips for 2.03a to 2.03e."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense section 2.03 Probability of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-mathematics-probability-venn-and-tree-diagrams-conditional/). When you are ready, try the [practice questions](/resources/ocr-a-level-mathematics-probability-venn-and-tree-diagrams-conditional-practice/).

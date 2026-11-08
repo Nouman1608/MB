@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "c-coordinate-geometry-aqa-alevel-maths"
 description: "Straight lines, circles and parametric equations taught from scratch with worked examples for AQA A-Level Mathematics (7357), Section C, C1 to C4."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches **Section C: Coordinate geometry in the (x, y) plane** of the AQA A-level

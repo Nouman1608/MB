@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-1-3"
 description: "OxfordAQA 9620 Chemistry introduction to organic chemistry taught from scratch: formula types, IUPAC names, radicals, curly arrows and E–Z isomers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide covers section **3.3.1 Introduction to organic chemistry** of the OxfordAQA International AS and

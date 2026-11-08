@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "qs8-quantitative-skills-oxfordaqa-alevel-economics"
 description: "Study guide to cost, revenue, profit and elasticity calculations for OxfordAQA International AS and A-level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Economics specification (9640), version 1.2, and covers quantitative skills QS6 (cost, revenue and profit, including averages and totals) and QS8 (calculating elasticity and interpreting the result) from section 3.5. These skills can be assessed in any unit. The economics they rely on sits in sections 3.1.2.2, 3.1.2.4 and 3.1.3.3 to 3.1.3.5, which are International AS content, and in sections 3.3.2.4 and 3.3.2.5, which are extra International A2 content. The specification says that for A2 assessments you must also calculate marginal values. All the firms, countries and figures below are made up as illustrations.

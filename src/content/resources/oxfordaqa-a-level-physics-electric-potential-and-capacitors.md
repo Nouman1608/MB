@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "capacitors-oxfordaqa-alevel"
 description: "Study guide to electric potential, equipotentials, capacitance, dielectrics and stored energy for OxfordAQA A-level Physics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers sections 3.8.3 (Electric potential) and 3.8.4 (Capacitors). Section 3.8 is marked International A-level only, so it is not part of the International AS qualification. Use the [course hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/) to track your progress.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-economic-problem-and-methodology-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on scarcity, opportunity cost, production possibility diagrams and positive and normative statements for OxfordAQA 9640 economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense section 3.1.1 (the economic problem and methodology) of the OxfordAQA International AS and A-level Economics (9640) specification, first teaching September 2020. Section 3.1 is International AS content. For full explanations use the [study guide](/resources/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology-practice/). See also the [course hub](/boards/oxfordaqa/a-level/economics/), the [printable checklist](/checklists/oxfordaqa/a-level/economics/), [the operation of markets](/resources/oxfordaqa-a-level-economics-markets-revision-notes/) and the [free diagnostics](/diagnostics/). All figures are invented.
 

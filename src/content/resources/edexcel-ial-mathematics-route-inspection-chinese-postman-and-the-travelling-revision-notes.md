@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "d1-algorithms-on-graphs-ii-edexcel-alevel-maths"
 description: "Condensed revision notes on route inspection, travelling salesman bounds and nearest neighbour for Edexcel International A Level D1, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense Unit D1 (Decision Mathematics 1), section 3, topics 3.1 to 3.4, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that D1 is optional for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. Full explanations and longer examples are in the [study guide](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling/). Test yourself with the [practice set](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-practice/), and tick off the course on the [printable checklist](/checklists/edexcel/a-level/mathematics/). The course home is the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/). Not sure where you stand? Take a [free 10-minute diagnostic](/diagnostics/).
 

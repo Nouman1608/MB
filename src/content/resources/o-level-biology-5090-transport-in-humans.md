@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "transport-in-humans"
 description: "Study guide to transport in humans for Cambridge O Level Biology 5090: double circulation, the heart, heart rate, CHD, blood vessels and blood."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches Topic 11, Transport in humans, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, and covers every learning outcome in sections 11.1 to 11.4: the circulatory system, the heart, blood vessels and blood, including the heart-rate investigation in 11.2. The 5090 syllabus is not tiered, so every candidate studies all of it.

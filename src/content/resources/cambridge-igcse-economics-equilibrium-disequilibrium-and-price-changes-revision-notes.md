@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-changes-cambridge-igcse-economics"
 description: "Condensed revision notes on equilibrium, shortages, surpluses and price changes with diagram steps and a self-test, for Cambridge IGCSE Economics 0455."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 2.5 (price determination) and 2.6 (price changes) of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. For full explanations read the [study guide](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes/). Test yourself with the [practice questions](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-practice/). Course pages: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). Every figure below is invented and is not a real statistic.

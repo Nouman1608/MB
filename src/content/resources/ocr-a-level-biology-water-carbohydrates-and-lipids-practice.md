@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "biological-molecules-ocr-alevel-biology"
 description: "Twelve original questions with worked answers on water, carbohydrates, triglycerides, phospholipids and cholesterol for OCR A Level Biology A (H420) 2.1.2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

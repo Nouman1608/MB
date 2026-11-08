@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "decimal-fractions-ocr-gcse-maths"
 description: "Study guide to fractions and decimal fractions for OCR GCSE Mathematics J560, with fully worked examples for every outcome in sections 2.01 and 2.02."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is written for OCR GCSE (9-1) Mathematics, J560, Version 2.1 of the specification (August 2026). It covers sections **2.01 Fractions** and **2.02 Decimal fractions** of topic area 2. Almost everything here is for both tiers. One skill, converting a recurring decimal to an exact fraction, is **Higher tier only**. The specification says all content may be assessed on calculator or non-calculator papers, and that Paper 2 (Foundation) and Paper 5 (Higher) do not allow a calculator, so every method below is one you can do by hand.

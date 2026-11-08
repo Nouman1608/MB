@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "analysis-and-evaluation-of-financial-information-oxfordaqa"
 description: "Study guide to calculating, interpreting and evaluating accounting ratios, cash versus profit and ratio limitations for OxfordAQA A-Level Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.1.8, Analysis and evaluation of financial information, from the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It is International AS content. The specification lists 3.1.8 in what is assessed by both Paper 1: Introduction to Financial Accounting and Paper 2: Financial & Management Accounting. Every business and figure below is invented, and amounts are in dollars.

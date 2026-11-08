@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "foreign-exchange-rates"
 description: "Revision notes on foreign exchange rates for Cambridge O Level Economics (2281): definitions, method steps, worked reminders and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 6.3 (6.3.1 to 6.3.5, foreign exchange rates) of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, which has no tiers. For full explanations read the [study guide](/resources/cambridge-o-level-economics-foreign-exchange-rates/), then try the [practice set](/resources/cambridge-o-level-economics-foreign-exchange-rates-practice/). The countries, currencies and numbers here are fictional teaching examples. Related pages: the [price elasticity of demand revision notes](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants-revision-notes/), the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/) to find your weak spots.

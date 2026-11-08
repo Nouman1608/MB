@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "properties-of-period-3-elements-and-their-oxides-7405"
 description: "AQA A-Level Chemistry Period 3 elements and oxides taught from scratch: reactions with water and oxygen, oxide melting points, pH and acid-base equations."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.2.4 Properties of Period 3 elements and their oxides** of the AQA AS and

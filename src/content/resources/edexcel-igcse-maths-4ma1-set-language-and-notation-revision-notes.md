@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "set-language-and-notation-edexcel-igcse-maths"
 description: "Revision notes for Edexcel IGCSE Maths 4MA1 section 1.5: set symbols, Venn diagram regions, complements, n(A), subsets and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover section 1.5, Set language and notation, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for papers sat in January and June. Foundation statements 1.5 A–E apply to both tiers. Higher statements 1.5 A–D (algebraic sets, subsets, n(A) and practical problems) are marked **Higher tier only**. For full explanations and worked examples, read the [set language and notation study guide](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation/).

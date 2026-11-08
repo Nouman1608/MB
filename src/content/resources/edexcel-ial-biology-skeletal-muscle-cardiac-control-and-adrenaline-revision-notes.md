@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "respiration-muscles-and-the-internal-environment-edexcel-alevel-biology"
 description: "Condensed revision notes for Edexcel IAL Biology 7.9-7.15: muscle structure, sliding filaments, heartbeat control, cardiac output and spirometer traces."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These notes condense statements 7.9 to 7.15 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, including Core Practical 17. Topic 7 is International A2 (IA2); Topics 1 to 4 are International AS (IAS). There are no tiers. For full explanations see the [study guide](/resources/edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline/), then test yourself with the [practice questions](/resources/edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline-practice/).
 

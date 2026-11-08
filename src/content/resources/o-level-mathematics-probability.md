@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "probability"
 description: "Study guide to every Probability outcome in Cambridge O Level Mathematics 4024: the scale, relative frequency, expected frequency, Venn and tree diagrams."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide is aligned to the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027. It covers all of syllabus topic 8, Probability, sections 8.1 to 8.3. The syllabus is not tiered, so every candidate meets all of it. Calculators are not allowed in Paper 1 and a scientific calculator is required for Paper 2, so practise exact fraction work by hand.
 

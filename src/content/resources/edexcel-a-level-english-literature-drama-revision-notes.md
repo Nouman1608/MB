@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "unit-2-pre-1900-and-post-1900-drama-yet01"
 description: "Condensed notes on the assessment objectives, essay structure and set-text preparation for Unit 2 Drama of Edexcel International A Level English Literature."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-02
 featured: false
 ---

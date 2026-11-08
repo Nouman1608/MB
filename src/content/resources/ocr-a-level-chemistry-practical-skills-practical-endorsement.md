@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-1-2-2"
 description: "Study guide to OCR A Level Chemistry A section 1.2: the Practical Endorsement, the PAGs, CPAC and every apparatus and technique, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section 1.2, Practical skills assessed in the practical endorsement, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It covers every statement in 1.2.1 and 1.2.2, plus what the specification says about the Practical Endorsement, the Practical Activity Groups (PAGs) and the Common Practical Assessment Criteria (CPAC). H432 is the full A level; none of this content is labelled AS or A2.

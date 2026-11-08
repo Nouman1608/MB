@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-4-1-3"
 description: "Revision notes for OCR A Level Chemistry A 4.1.3 Alkenes: bonding, E/Z naming, addition reactions, mechanism, polymers and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [Alkenes study guide](/resources/ocr-a-level-chemistry-alkenes/) first.

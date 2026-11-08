@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "relational-databases-and-sql"
 description: "Recall notes on tables, records, fields, keys, data types, table design and SQL SELECT, INSERT INTO, UPDATE and DELETE FROM for OxfordAQA IGCSE 9210."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Relational databases and SQL (topic 3.7 of OxfordAQA International GCSE Computer Science 9210) covers what a

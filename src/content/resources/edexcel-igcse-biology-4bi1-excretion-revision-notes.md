@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "excretion-4bi1"
 description: "Revision notes for Edexcel IGCSE Biology 4BI1 excretion: organs of excretion, nephron structure, ultrafiltration, glucose reabsorption and ADH."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes cover sub-topic 2(i), **Excretion** (specification points 2.70–2.79), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points 2.70 and 2.71 can appear on either paper; points 2.72B–2.79B are bold with a **B** reference and are **Paper 2 only**. They apply to the June and November series examined under Issue 3.

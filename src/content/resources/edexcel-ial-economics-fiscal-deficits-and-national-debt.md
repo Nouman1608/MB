@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-role-of-the-state-in-the-macroeconomy-edexcel-alevel-economics"
 description: "Study guide to fiscal deficits, automatic stabilisers, structural and cyclical deficits, and national debt for Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. It covers section 4.3.5 (The role of the state in the macroeconomy), item 3, Public sector borrowing and public sector debt, points a to c. The specification calls Units 1 and 2 the International AS content and Units 3 and 4 the additional International A2 content. Unit 4, Developments in the global economy, is therefore compulsory for the full International Advanced Level only. The specification describes its examination as a 2-hour written paper: six multiple-choice questions, a five-part data question and two 20-mark essays from a choice of three. Every country and figure below is invented for illustration.

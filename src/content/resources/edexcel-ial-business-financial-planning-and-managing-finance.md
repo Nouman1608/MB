@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "managing-finance-ybs11"
 description: "Full study guide to Financial planning (2.3.2) and Managing finance (2.3.3) in Edexcel International A Level Business Unit 2, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches sections 2.3.2 Financial planning and 2.3.3 Managing finance of Unit 2 Managing business activities in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (YBS11), Issue 1, September 2017. The Unit 2 paper is 2 hours and 80 marks, built on sources, and the specification says calculators may be used and that the accounting ratios will not be supplied. All sums of money below are in dollars and every business is invented.

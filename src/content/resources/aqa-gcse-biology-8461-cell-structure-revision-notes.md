@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cell-structure-aqa-gcse-biology"
 description: "Condensed revision notes for AQA GCSE Biology 8461 section 4.1.1 Cell structure, with method boxes, required practicals and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed recall notes for section **4.1.1 Cell structure** (4.1.1.1 to 4.1.1.6) of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0). Cell biology is examined on Paper 1, set at Foundation and Higher Tier. The one (HT only) point in this section is labelled **Higher tier only**. For full explanations and worked examples, use the [Cell structure study guide](/resources/aqa-gcse-biology-8461-cell-structure/).

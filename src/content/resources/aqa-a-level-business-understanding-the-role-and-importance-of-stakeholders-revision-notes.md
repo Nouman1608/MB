@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "role-and-importance-of-stakeholders-aqa-alevel-business"
 description: "Condensed AQA A-level Business revision notes on 3.2.3 stakeholders: mapping, needs, conflict, influences, communication, consultation, self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.2.3 (Understanding the role and importance of stakeholders) of the AQA A-level Business specification (7132) for the final weeks of revision. For full explanations and the main worked example, use the [study guide](/resources/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders/), then test yourself with the [practice questions](/resources/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders-practice/). Wider topic revision is in the [Managers, leadership and decision making notes](/resources/aqa-a-level-business-managers-leadership-revision-notes/). Course hub: [AQA A-level Business](/boards/aqa/a-level/business/). Printable list: [checklist](/checklists/aqa/a-level/business/). Not sure what to revise first? Take a [free diagnostic](/diagnostics/).

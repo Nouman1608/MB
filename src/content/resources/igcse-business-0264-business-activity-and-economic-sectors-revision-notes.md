@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-sectors-0264"
 description: "Condensed revision notes on factors of production, added value, opportunity cost and economic sectors for Cambridge IGCSE Business 0264."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for sections 1.1 (Business activity) and 1.2 (Economic sectors) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-business-activity-and-economic-sectors/). When you are ready to test yourself, use the [practice questions](/resources/igcse-business-0264-business-activity-and-economic-sectors-practice/). Course pages: the [Cambridge IGCSE Business hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/). The [free diagnostics](/diagnostics/) show which topics need most work.

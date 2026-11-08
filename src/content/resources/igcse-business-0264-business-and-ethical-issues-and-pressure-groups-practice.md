@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "pressure-groups-0264"
 description: "Twelve original practice questions with worked answers on ethical issues and pressure groups for Cambridge IGCSE Business 0264 sections 6.4 and 6.5."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

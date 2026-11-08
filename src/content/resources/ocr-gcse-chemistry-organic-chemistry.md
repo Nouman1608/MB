@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c6-2-organic-chemistry-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C6.2: homologous series, organic reactions, polymers, crude oil, cracking and fuel cells, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 Sub-topic **C6.2 Organic chemistry** sits in Topic C6 Global challenges of OCR's Chemistry A (Gateway Science) GCSE (9–1) specification, code J248, Version 4.0 (August 2026). This guide teaches outcomes C6.2a to C6.2q, maths outcome CM6.2i and both practical suggestions (use of models; making nylon). Statements C6.2e and C6.2f are **Higher Tier only**; every other statement can be tested on either tier. Topic C6 is assessed on Paper 2 (Foundation) and Paper 4 (Higher).

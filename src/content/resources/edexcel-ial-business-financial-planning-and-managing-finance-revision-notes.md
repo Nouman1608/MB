@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "managing-finance-ybs11"
 description: "Condensed revision notes for Financial planning (2.3.2) and Managing finance (2.3.3) in Edexcel International A Level Business Unit 2, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for sections 2.3.2 Financial planning and 2.3.3 Managing finance of Unit 2 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (YBS11), Issue 1, September 2017. For full explanations start with the [study guide](/resources/edexcel-ial-business-financial-planning-and-managing-finance/), then test yourself with the [practice questions](/resources/edexcel-ial-business-financial-planning-and-managing-finance-practice/). Wider Unit 2 pages: [study guide](/resources/a-level-edexcel-business-managing-business-activities/), [revision notes](/resources/edexcel-a-level-business-managing-activities-revision-notes/) and [practice](/resources/edexcel-a-level-business-managing-activities-practice/). Hub: [Edexcel A Level Business](/boards/edexcel/a-level/business/). Checklist: [printable checklist](/checklists/edexcel/a-level/business/). Find weak spots first with the [free diagnostics](/diagnostics/).

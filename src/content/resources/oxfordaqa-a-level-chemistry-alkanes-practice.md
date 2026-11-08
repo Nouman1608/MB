@@ -28,8 +28,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-2-4"
 description: "Original OxfordAQA 9620 alkanes questions with worked answers: cracking equations, combustion data, engine pollutants, SO₂ and radical substitution."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

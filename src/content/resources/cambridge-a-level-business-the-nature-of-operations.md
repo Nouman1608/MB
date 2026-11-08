@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-nature-of-operations-cambridge-alevel-business"
 description: "Study guide to the nature of operations for Cambridge AS & A Level Business: added value, productivity, sustainability and operations methods."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide follows the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It covers section 4.1, The nature of operations, which is AS Level content (topic 4, Operations management). The syllabus says AS content is assumed knowledge in the A Level case-study papers, so it stays useful for the full A Level.
 

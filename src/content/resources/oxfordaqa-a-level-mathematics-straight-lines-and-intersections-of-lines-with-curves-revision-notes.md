@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-coordinate-geometry-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on straight lines, perpendicular lines and line-curve intersections for OxfordAQA International AS and A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These are condensed notes for section P1.2 (Coordinate geometry) of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2, for International AS exams from May/June 2018 and A-level exams from May/June 2019. The content sits in International AS Unit P1 (Pure Maths) and is not split into core and extension parts. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-straight-lines-and-intersections-of-lines-with-curves/).
 

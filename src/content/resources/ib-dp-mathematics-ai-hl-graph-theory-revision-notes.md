@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-16"
 description: "Condensed IB DP Maths AI HL graph theory revision notes: key definitions, algorithm steps, matrix results and a quick self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 For full explanations and longer worked examples, use the [graph theory study guide](/resources/ib-dp-mathematics-ai-hl-graph-theory/).

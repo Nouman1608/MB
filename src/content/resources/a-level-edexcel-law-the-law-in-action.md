@@ -23,11 +23,12 @@ syllabusTopics:
     subtopic: "the-individual-yla1"
 description: "Contract or negligence, criminal liability and property offences, and reputation, privacy and land: Paper 2 of Pearson Edexcel International A Level Law."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-30
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 This guide covers **Paper 2 The Law in Action**, one of two compulsory

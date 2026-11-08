@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-trigonometry-oxfordaqa-alevel-maths"
 description: "Study guide to inverse trig functions, sec, cosec and cot, their graphs, domains and two identities, for OxfordAQA International A-level Maths Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, and covers the first part of content area P2.4 (Trigonometry): the inverse functions sin⁻¹, cos⁻¹ and tan⁻¹, and the reciprocal functions secant, cosecant and cotangent. The specification places this content in International A-level Unit P2 (Pure Maths), so it belongs to the A2 year and is not examined at International AS. The compound-angle, double-angle, R-form and equation-solving parts of P2.4 have their own pages and are not repeated here.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Condensed revision notes on the balance of payments for AQA A-level Economics: accounts, causes, FDI, correction policies and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the AQA AS and A-level Economics specification (7135 and 7136), version 1.3, sub-section "The balance of payments" (4.2.6.3 in the combined PDF; 3.2.6.3 on the AQA website and this site's map). The full explanations and longer worked examples are in the [study guide](/resources/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances/); test yourself with the [practice questions](/resources/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances-practice/). See also the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), the [checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures below are invented for illustration.

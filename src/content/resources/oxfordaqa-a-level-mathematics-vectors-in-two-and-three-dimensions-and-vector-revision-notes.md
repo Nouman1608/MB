@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-vectors-oxfordaqa-alevel-maths"
 description: "Condensed recall notes on 2D and 3D vectors, position vectors, vector equations of lines, intersection, parallel and skew lines for OxfordAQA 9660."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed notes for the final weeks, aligned to the OxfordAQA International AS and A-level Mathematics specification (9660, Version 5.2), section P2.10 (first part). This content is part of International A-level (A2) Unit P2 and is not examined at International AS. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-mathematics-vectors-in-two-and-three-dimensions-and-vector/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-vectors-in-two-and-three-dimensions-and-vector-practice/).

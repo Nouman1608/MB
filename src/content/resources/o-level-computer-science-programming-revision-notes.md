@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "programming-2210"
 description: "Topic 8 recall notes for Cambridge O Level Computer Science 2210: choosing data types and loops, string and library drills, scope, arrays and file commands."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 8 of Cambridge O Level Computer Science (2210) is tested on Paper 2 by asking you to read, complete and write pseudocode. Most lost marks come from a few small decisions: the wrong data type, the wrong loop, a misread SUBSTRING, a total reset in the wrong place or a file opened in the wrong mode. These notes are arranged as decision guides and quick drills so you can make each choice correctly under time pressure.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-5"
 description: "Condensed IB DP Physics B.5 revision notes: definitions, formulas, method steps, a self-test with answers and the usual lost marks, for SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sub-topic B.5, Current and circuits, from the IB *Physics guide* (first assessment 2025), for SL and HL. The guide lists no additional higher level content here. For full explanations and worked examples read the [study guide](/resources/ib-dp-physics-electric-current-resistance-and-circuits/), and test yourself with the [practice questions](/resources/ib-dp-physics-electric-current-resistance-and-circuits-practice/). Not sure where to start? Try the [free 10-minute diagnostics](/diagnostics/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-edexcel-igcse-economics"
 description: "Condensed revision notes on pollution policy, poverty, inequality and redistribution for Pearson Edexcel International GCSE Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense section 2.1.1 e) and f) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3: protection of the environment and redistribution of income. For full explanations, read the [study guide](/resources/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income/). Then try the [practice questions](/resources/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income-practice/), the [course hub](/boards/edexcel/igcse/economics/), the [checklist](/checklists/edexcel/igcse/economics/) and the [free diagnostics](/diagnostics/). All data below is invented for practice.
 

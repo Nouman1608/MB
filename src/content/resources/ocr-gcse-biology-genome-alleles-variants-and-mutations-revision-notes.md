@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "inheritance-ocr-gcse-biology"
 description: "Condensed revision notes on genome, alleles, variants and mutations for OCR GCSE Biology A, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These notes condense statements B5.1a to B5.1e of OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. B5.1e is in bold in the specification and is tested only in the Higher Tier papers. For full explanations read the [study guide](/resources/ocr-gcse-biology-genome-alleles-variants-and-mutations/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-genome-alleles-variants-and-mutations-practice/).
 

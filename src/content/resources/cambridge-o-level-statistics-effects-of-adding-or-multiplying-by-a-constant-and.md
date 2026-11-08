@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "linear-transformation-to-given-mean-and-sd-4040"
 description: "Study guide to how adding or multiplying by a constant changes mean and standard deviation, and fitting y = a + bx to a target, for O Level Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers topic 6 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027: section 6.1, the effect on the mean and standard deviation of adding a constant to each observation and of multiplying each observation by a constant, and section 6.2, the linear transformation of data to a given mean and standard deviation. The syllabus does not split content into tiers, so everything here applies to every candidate. Test yourself afterwards with the [revision notes](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-revision-notes/) and the [practice questions](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-practice/). The [Cambridge O Level Statistics hub](/boards/cambridge/o-level/statistics/) and the [printable checklist](/checklists/cambridge/o-level/statistics/) show where this topic sits in the course. If you are unsure which topics need work first, take a [free 10-minute diagnostic](/diagnostics/).

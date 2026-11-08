@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-labour-market-aqa-alevel-economics"
 description: "Condensed AQA A-level Economics revision notes on monopsony, imperfect information and trade unions, with diagrams in words, recall tables and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed recall for the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), A-level sub-sections 3.1.6.4 and 3.1.6.5 on the AQA website (4.1.6.4 and 4.1.6.5 in the combined PDF): imperfectly competitive labour markets, and the influence of trade unions on wages and employment. For full explanations use the [study guide](/resources/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets-practice/). Also see the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/). All figures below are invented.

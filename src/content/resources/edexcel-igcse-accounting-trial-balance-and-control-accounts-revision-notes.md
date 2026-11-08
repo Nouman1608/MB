@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "control-accounts-4ac1"
 description: "Condensed 4AC1 revision notes on the trial balance, its limitations and trade receivables and payables control accounts, with a self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense sections 3.1 Trial balance and 3.2 Control accounts of Topic 3, Introduction to control processes, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The topic is part of Paper 1, which draws on topics 1 to 3, and Paper 2 builds on it. For full explanations and worked examples, use the [trial balance and control accounts study guide](/resources/edexcel-igcse-accounting-trial-balance-and-control-accounts/). All amounts are in dollars and all businesses are invented.

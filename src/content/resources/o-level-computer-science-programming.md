@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "programming-2210"
 description: "Topic 8 guide for Cambridge O Level Computer Science 2210, built around one step-tracker program: data types, loops, strings, subroutines, 2D arrays and files."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 8 of Cambridge O Level Computer Science (2210) is the practical heart of Paper 2: declaring variables and constants, choosing data types, using sequence, selection and iteration, handling strings, writing procedures and functions, storing data in arrays, and reading and writing files. This guide teaches each concept through one running example — a program for a fitness step tracker — so you can see how the pieces fit into a real solution.

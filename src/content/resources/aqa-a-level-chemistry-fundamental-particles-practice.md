@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "fundamental-particles-7405"
 description: "Original practice questions with worked answers on protons, neutrons, electrons and how atomic models changed, for AQA A-Level Chemistry."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

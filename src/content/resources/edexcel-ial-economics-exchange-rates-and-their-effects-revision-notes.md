@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "balance-of-payments-exchange-rates-and-competitiveness-edexcel-alevel-economics"
 description: "Condensed revision notes on exchange rate systems, intervention, causes, Marshall-Lerner, the J-curve and effects for Edexcel IAL Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense 4.3.3 item 2, points a to g, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. It is IA2 content in Unit 4, Developments in the global economy, so it applies to the full IAL and not the IAS. Fuller explanations are in the [study guide](/resources/edexcel-ial-economics-exchange-rates-and-their-effects/), then test yourself with the [practice questions](/resources/edexcel-ial-economics-exchange-rates-and-their-effects-practice/). Also useful: the [course hub](/boards/edexcel/a-level/economics/), the [checklist](/checklists/edexcel/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented. The ark is Country A's currency and the bel is Country B's; rates are quoted in bels per ark.

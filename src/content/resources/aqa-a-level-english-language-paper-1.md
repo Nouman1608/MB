@@ -23,11 +23,12 @@ syllabusTopics:
     subtopic: "section-b-childrens-language-development-7702"
 description: "Textual variations and representations, and children's language development -- the full content of Paper 1 for AQA A-Level English Language (7702)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers **Paper 1 Language, the Individual and Society**,

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on central bank functions, the MPC, bank rate, transmission, exchange rates, QE and forward guidance."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These revision notes condense central banks and monetary policy for AQA A-level Economics (7136), specification version 1.3. The content point is printed as 4.2.4.3 in the PDF and numbered 3.2.4.3 on the AQA website. The specification gives no AS-only or A-level-only label for it. For full explanations, read the [study guide](/resources/aqa-a-level-economics-central-banks-and-monetary-policy/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-central-banks-and-monetary-policy-practice/). Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), the [checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/). Related: [aggregate demand and supply](/resources/aqa-a-level-economics-aggregate-demand-supply/). All figures are invented and illustrative.
 

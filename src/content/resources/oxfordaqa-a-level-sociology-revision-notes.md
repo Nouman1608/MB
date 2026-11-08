@@ -30,11 +30,12 @@ syllabusTopics:
     subtopic: "research-methods-9690"
 description: "OxfordAQA International A-level Sociology (9690) Unit 1 recall notes: families (3.1.1) and research methods and theory (3.1.3), with traps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin page with 3.1.3.2-3.1.3.4 methods, research issues and data interpretation, plus an FAQ; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08 recheck: expanded thin page with 3.1.3.2-3.1.3.4 methods, research issues and data interpretation, plus an FAQ; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

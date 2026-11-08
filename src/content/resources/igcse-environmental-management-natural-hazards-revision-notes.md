@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "drought-0680"
 description: "Recall notes for Cambridge IGCSE Environmental Management 0680 Topic 6: plate boundaries, eruptions, tropical cyclones, flooding and drought management."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 Topic 6 of Cambridge IGCSE Environmental Management (0680) covers four hazards: earthquakes and

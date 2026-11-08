@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "principle-of-superposition-and-stationary-waves-oxfordaqa"
 description: "Condensed revision notes on stationary waves, harmonics, f = (1/2l)√(T/μ) and string experiments for OxfordAQA International AS and A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense section 3.5.5 (Principle of superposition of waves and formation of stationary waves) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. It is shared International AS and A-level content. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves-practice/), use the [course hub](/boards/oxfordaqa/a-level/physics/) and tick points off the [printable checklist](/checklists/oxfordaqa/a-level/physics/). Not sure what to revise first? Take a [free diagnostic](/diagnostics/).

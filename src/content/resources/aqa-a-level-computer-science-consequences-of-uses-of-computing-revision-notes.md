@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "consequences-of-uses-of-computing"
 description: "Recall notes on the moral, ethical, legal and cultural risks of computing and the challenges facing legislators, for AQA A-Level Computer Science 7517."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Consequences of uses of computing (section 4.8 of AQA A-Level Computer Science 7517) asks you to discuss the

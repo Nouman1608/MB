@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "sound-and-ultrasound-oxfordaqa"
 description: "Study guide to wave properties, sound and ultrasound for OxfordAQA International GCSE Physics, with worked echo, wave speed and scan examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide is written for the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. It covers sections 3.3.1 (general properties of waves) and 3.3.3 (sound and ultrasound). The qualification is untiered. Parts 3.3.3 d to h are for the full Physics award only and are marked "P" in the specification.
 

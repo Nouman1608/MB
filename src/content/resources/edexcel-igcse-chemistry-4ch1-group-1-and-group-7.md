@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "group-7-halogens-4ch1"
 description: "Study guide for Edexcel International GCSE Chemistry 4CH1 points 2.1-2.8: alkali metal and halogen trends, predictions and displacement, worked through."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches sub-topics (a) Group 1 (alkali metals) and (b) Group 7 (halogens) of Topic 2, Inorganic chemistry, in the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). It covers points 2.1–2.8 in depth. The qualification is untiered. Points 2.4C and 2.8C carry a C reference (bold in the specification), so they are assessed on Paper 2 only, and this guide labels them **Paper 2 only**.

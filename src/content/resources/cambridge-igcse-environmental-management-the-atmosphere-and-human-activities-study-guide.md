@@ -26,9 +26,12 @@ syllabusTopics:
     subtopic: "ozone-depletion-0680"
 description: "The structure of the atmosphere, the enhanced greenhouse effect, acid rain and ozone depletion, with causes, impacts, management and two worked calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 The atmosphere is the layer of gases that makes life on Earth possible, and it is also the part of the environment that human activities can change most visibly. This topic asks you to describe how the atmosphere is made up, then to explain three separate problems that people have caused in it: climate change, acid rain and ozone depletion. These three are often muddled in answers, so a large part of scoring well is keeping their causes, effects and solutions apart.

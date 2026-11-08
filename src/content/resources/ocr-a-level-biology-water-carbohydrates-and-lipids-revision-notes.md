@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "biological-molecules-ocr-alevel-biology"
 description: "Condensed revision notes on water, glucose, polysaccharides, triglycerides, phospholipids and cholesterol for OCR A Level Biology A (H420) 2.1.2(a)-(j)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense learning outcomes 2.1.2(a) to 2.1.2(j) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025. For full explanations read the [study guide](/resources/ocr-a-level-biology-water-carbohydrates-and-lipids/), then test yourself with the [practice set](/resources/ocr-a-level-biology-water-carbohydrates-and-lipids-practice/). The course sits on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/); tick off outcomes on the [checklist](/checklists/ocr/a-level/biology/). The wider module is in the [Foundations revision notes](/resources/ocr-a-level-biology-foundations-revision-notes/), and the [free diagnostics](/diagnostics/) show gaps quickly.

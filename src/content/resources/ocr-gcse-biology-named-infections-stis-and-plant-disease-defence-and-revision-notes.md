@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monitoring-and-maintaining-health-ocr-gcse-biology"
 description: "Condensed notes on named human and plant infections, STIs, plant defences and disease detection for OCR GCSE Biology A (J247)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense statements B6.3f to B6.3i of the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. B6.3i is in bold in the specification, so it is **Higher Tier only**; B6.3f to B6.3h are for both tiers. Full explanations are in the [study guide](/resources/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and/). When you have revised, try the [practice questions](/resources/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and-practice/), check coverage on the [printable checklist](/checklists/ocr/gcse/biology/), see the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and take a [free diagnostic](/diagnostics/).

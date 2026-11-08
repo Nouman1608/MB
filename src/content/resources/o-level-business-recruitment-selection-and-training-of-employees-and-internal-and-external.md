@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "internal-and-external-communication"
 description: "Study guide to hiring, training, redundancy, employment law, communication methods and barriers for Cambridge O Level Business Studies."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the *Cambridge O Level Business Studies 7115 syllabus for examination in 2026*. It covers syllabus sections 2.3 (Recruitment, selection and training of employees) and 2.4 (Internal and external communication), both inside Topic 2, People in business. The syllabus states that all candidates take both papers. Paper 1 (Short Answer and Data Response) and Paper 2 (Case Study) each carry 50% of the qualification.

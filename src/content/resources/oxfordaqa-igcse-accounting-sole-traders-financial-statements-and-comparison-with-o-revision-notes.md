@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "sole-trader-statements-oxfordaqa-igcse-accounting"
 description: "Condensed revision notes on sole traders' income statements, statement of financial position adjustments and comparing business types for OxfordAQA 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.4 of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards (first teaching 2024, first examined 2026). They cover the concepts used in preparing financial statements, comparing sole traders, partnerships and limited companies, and sole traders' statements. For full explanations and long worked examples, read the [study guide](/resources/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o/). Then try the [practice questions](/resources/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o-practice/). Other links: [subject hub](/boards/oxfordaqa/igcse/accounting/), [checklist](/checklists/oxfordaqa/igcse/accounting/), [free diagnostics](/diagnostics/) and the [verification notes](/resources/igcse-oxfordaqa-accounting-verification-revision-notes/). All amounts are in dollars.

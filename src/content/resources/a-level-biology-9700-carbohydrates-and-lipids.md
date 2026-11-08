@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "carbohydrates-and-lipids-cambridge-alevel-biology"
 description: "Glucose rings, glycosidic bonds, starch, glycogen, cellulose, triglycerides and phospholipids taught from scratch with worked examples for Cambridge 9700."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches section 2.2 Carbohydrates and lipids from Topic 2, Biological molecules, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers all eleven learning outcomes in section 2.2. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content. Calculators are allowed in all 9700 papers.

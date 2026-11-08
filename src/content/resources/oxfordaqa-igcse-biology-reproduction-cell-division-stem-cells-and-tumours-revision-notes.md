@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "inheritance-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on reproduction, mitosis, meiosis, differentiation, stem cells and tumours for OxfordAQA International GCSE Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sections 3.5.1 and 3.5.2 of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. The qualification is untiered. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours/) first. Then test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours-practice/), tick off topics on the [checklist](/checklists/oxfordaqa/igcse/biology/), and see the [course hub](/boards/oxfordaqa/igcse/biology/). A [free diagnostic](/diagnostics/) shows what to revise first.

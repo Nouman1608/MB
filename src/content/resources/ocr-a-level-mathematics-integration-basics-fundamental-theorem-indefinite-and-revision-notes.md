@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "integration-ocr-alevel-maths"
 description: "Condensed exam revision notes on standard integrals, definite integrals and areas for OCR A Level Mathematics A (H240), with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense OCR A Level Mathematics A (H240) content references 1.08a to 1.08f from the OCR specification (Version 3.1, August 2026). The 1.08a, 1.08b, 1.08d and 1.08e statements are Stage 1, common to AS and A Level. Integrating e^kx, 1/x, sin kx and cos kx (1.08c) and the area between two curves (1.08f) are A Level only. The [study guide](/resources/ocr-a-level-mathematics-integration-basics-fundamental-theorem-indefinite-and/) has the full explanations. Test yourself with the [practice set](/resources/ocr-a-level-mathematics-integration-basics-fundamental-theorem-indefinite-and-practice/), tick topics off on the [checklist](/checklists/ocr/a-level/mathematics/), see the [course hub](/boards/ocr/a-level/mathematics/) and try the [free diagnostics](/diagnostics/). Reverse chain rule, parts, substitution, partial fractions, the trapezium rule and differential equations are not covered here.

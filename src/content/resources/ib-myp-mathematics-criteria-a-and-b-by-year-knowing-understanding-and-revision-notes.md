@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-assessment-criteria-b-investigating-patterns"
 description: "Condensed revision notes on MYP Mathematics Criteria A and B: band descriptors, Year 1, 3 and 5 differences, caps and investigation methods."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Quick recall for Criterion A (knowing and understanding) and Criterion B (investigating patterns) in the IB *Middle Years Programme Mathematics guide*, first assessment 2022, covering the Year 1, 3 and 5 descriptor sets. For full explanations and worked examples, read the [study guide](/resources/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and/). Test yourself with the [practice questions](/resources/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and-practice/). Wider resources: the [subject hub](/boards/ib/ib-myp/mathematics/), the [printable checklist](/checklists/ib/ib-myp/mathematics/) and the [free 10-minute diagnostics](/diagnostics/). The guide has no tiers, and standard and extended mathematics are judged on the same criteria.

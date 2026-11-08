@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics monopoly, monopoly power and price discrimination: the monopoly diagram, evaluation and two-market worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level, first taught from September 2015. It covers two sub-sections of Perfect competition, imperfectly competitive markets and monopoly, numbered 3.1.5 on the AQA website (the combined PDF prints the A-level version as 4.1.5): Monopoly and monopoly power, and Price discrimination. The specification gives no AS-only or A-level-only labels for this content. Every number below is invented for illustration and describes no real firm or country.

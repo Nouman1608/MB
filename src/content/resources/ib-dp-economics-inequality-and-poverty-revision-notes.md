@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-4"
 description: "Condensed revision notes for IB DP Economics sub-topic 3.4: Lorenz curve, poverty measures, causes, tax rates, policies and a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover sub-topic 3.4, the economics of inequality and poverty, for SL and HL. Items marked **HL only** are the Lorenz construction from quintile data and the two tax calculations. All data are invented.

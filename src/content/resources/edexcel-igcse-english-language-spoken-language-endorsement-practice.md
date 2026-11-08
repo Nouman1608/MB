@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "spoken-language-endorsement-4ea1"
 description: "Original practice tasks for the Edexcel IGCSE English Language A (4EA1) Spoken Language Endorsement: planning, handling questions and grading against AO6."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

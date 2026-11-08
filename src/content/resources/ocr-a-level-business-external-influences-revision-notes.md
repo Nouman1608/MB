@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "external-influences-facing-businesses-ocr-alevel-business"
 description: "Condensed recall notes on markets, market forces, globalisation and PESTLE factors for OCR A Level Business (H431), External Influences Facing Businesses."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

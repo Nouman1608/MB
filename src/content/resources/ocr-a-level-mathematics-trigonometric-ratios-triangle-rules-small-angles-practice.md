@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "trigonometry-ocr-alevel-maths"
 description: "Original practice questions with worked answers on OCR A Level Maths A (H240) trig ratios, radians, triangle rules, small angles and simple equations."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

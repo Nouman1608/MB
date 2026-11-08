@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "sustainable-production-of-goods-and-services-0264"
 description: "Study guide to Cambridge IGCSE Business 0264 sections 4.2 and 4.3: technology in production, service-sector productivity and sustainable production."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 4.2 and 4.3 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029: **Technology and production of goods and services**, and **Sustainable production of goods and services**. Both sit in topic 4, Operations management. All businesses in the examples are invented. For condensed recall use the [revision notes](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track your progress, and the [free diagnostics](/diagnostics/) show where to start.

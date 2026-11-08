@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "encryption-encryption-protocols-and-digital-certificates"
 description: "Notes on symmetric and asymmetric keys, private and verified messages, quantum cryptography, TLS, certificates and digital signatures for Cambridge 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 17 Security explains how encryption protects data in A Level detail: symmetric and asymmetric key cryptography, which key is used to send a private message and which to send a verified one, quantum cryptography, the SSL/TLS protocols, and how digital certificates are acquired and used to produce digital signatures. In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 3, where most marks depend on naming the right key at each step.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-1-4"
 description: "Condensed revision notes on the mole for IB DP Chemistry Structure 1.4, with method steps, key distinctions and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Structure 1.4, "Counting particles by mass: the mole", and follow the IB Diploma Programme Chemistry guide for first assessment in 2025 (published in February 2023). Statements Structure 1.4.1 to Structure 1.4.6 are all included. Structure 1.4 has no AHL material, so the notes serve SL and HL alike, for the course examined from 2025 onwards. If a method here is unfamiliar, the [study guide](/resources/ib-dp-chemistry-counting-particles-by-mass-the-mole/) explains it in full.

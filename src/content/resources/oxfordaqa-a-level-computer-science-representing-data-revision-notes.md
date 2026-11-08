@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "representing-data"
 description: "Condensed revision notes for OxfordAQA International AS Computer Science 3.5: methods, formulas, key distinctions and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the [Representing data study guide](/resources/oxfordaqa-a-level-computer-science-representing-data/).

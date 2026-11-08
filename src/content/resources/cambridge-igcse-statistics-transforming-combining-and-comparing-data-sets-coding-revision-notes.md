@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "transformations-of-data-sets-0479"
 description: "Condensed revision notes for Topic 6 of Cambridge IGCSE Statistics (0479): coding rules, combined mean and SD, z-scores and comparing distributions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes summarise **Topic 6, Transformations of data sets**, from the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027, outcomes 6.1 to 6.6. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding/). Test yourself with the [practice set](/resources/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding-practice/), tick off topics on the [printable checklist](/checklists/cambridge/igcse/statistics/), and see the [Statistics hub](/boards/cambridge/igcse/statistics/). Not sure where to start? Take a [free 10-minute diagnostic](/diagnostics/).

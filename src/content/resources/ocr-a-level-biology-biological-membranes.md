@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "biological-membranes-ocr-alevel-biology"
 description: "OCR A Level Biology A (H420) 2.1.5 study guide: membrane roles, fluid mosaic model, receptors, permeability, diffusion, active and bulk transport, osmosis."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Biological membranes are partially permeable phospholipid bilayers with proteins, cholesterol, glycoproteins and

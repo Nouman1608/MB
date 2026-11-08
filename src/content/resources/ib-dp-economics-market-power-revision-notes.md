@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-11"
 description: "Condensed recall notes for IB DP Economics 2.11 (HL only): profit rules, market structure diagrams, game theory, concentration ratios and policy responses."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense sub-topic 2.11, market failure -- market power, from the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. All of 2.11 is **HL only**. For full explanations read the [market power study guide](/resources/ib-dp-economics-market-power/), then try the [market power practice questions](/resources/ib-dp-economics-market-power-practice/). Course pages: the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/). All numbers below are invented.

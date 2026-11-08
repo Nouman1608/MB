@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "emerging-technologies-0417"
 description: "Hardware, computer types and system components -- the opening topic of Cambridge IGCSE ICT (0417), a 21-topic, untiered syllabus."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "proportion-edexcel-igcse-maths"
 description: "Original Higher tier practice questions on Edexcel IGCSE Maths A 4MA1 section 2.5 Proportion, with fully worked mark schemes and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "marketing-and-marketing-strategies-ocr-alevel-business"
 description: "Twelve original practice questions with worked answers on OCR A Level Business (H431) content area 3, Marketing and marketing strategies."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

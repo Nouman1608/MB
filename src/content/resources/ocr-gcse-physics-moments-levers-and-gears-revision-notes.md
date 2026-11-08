@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "forces-in-action-ocr-gcse"
 description: "Condensed revision notes on moments, the principle of moments, levers and gears for OCR GCSE (9-1) Physics A (Gateway Science), J249, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P2.3k, P2.3l and P2.3m of OCR GCSE (9-1) Gateway Science Physics A (J249, Version 5.0, July 2026), topic P2.3 Forces in action. None of the three is printed in bold, so everything here is for both tiers; the specification marks all three as separate Physics only content (not in Combined Science). Look in the [study guide](/resources/ocr-gcse-physics-moments-levers-and-gears/); test yourself afterwards with the [practice set](/resources/ocr-gcse-physics-moments-levers-and-gears-practice/). Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). Not sure where to begin? Use the [free 10-minute diagnostics](/diagnostics/).

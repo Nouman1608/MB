@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fractions-decimals-and-percentages-ocr-gcse-maths"
 description: "Fractions, decimal fractions, percentages, and ordering fractions/decimals/percentages -- the full content of Topic 2 for OCR GCSE (9-1) Mathematics (J560)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "depreciation-and-disposal-oxfordaqa-igcse-accounting"
 description: "Revision notes on capital and revenue items, depreciation methods and the disposal account for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense the part of section 3.3 of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2 (exams from May/June 2026), that deals with capital and revenue items, depreciation and disposals. Full explanations and worked examples are in [the study guide](/resources/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of/). Test yourself with [the practice set](/resources/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of-practice/). Other links: [course hub](/boards/oxfordaqa/igcse/accounting/), [checklist](/checklists/oxfordaqa/igcse/accounting/) and [free diagnostics](/diagnostics/). Amounts are in dollars. For double entry practice, see the [recording notes](/resources/igcse-oxfordaqa-accounting-recording-revision-notes/).

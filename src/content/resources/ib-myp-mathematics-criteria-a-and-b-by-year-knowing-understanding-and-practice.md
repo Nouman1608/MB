@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-assessment-criteria-b-investigating-patterns"
 description: "Eleven original practice questions on MYP Mathematics Criteria A and B for Years 1, 3 and 5, with worked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

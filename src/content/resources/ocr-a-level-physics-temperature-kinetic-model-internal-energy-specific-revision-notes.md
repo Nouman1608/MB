@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "thermal-physics-ocr-alevel"
 description: "Condensed revision notes for OCR A Level Physics A (H556) 5.1.1-5.1.3: temperature, kinetic model, internal energy, specific heat capacity and latent heat."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These revision notes condense sections 5.1.1 to 5.1.3 of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. Full explanations are in the [study guide](/resources/ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific/), and the [practice set](/resources/ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific-practice/) tests the same content. See also the [OCR A Level Physics hub](/boards/ocr/a-level/physics/), the [checklist](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).
 

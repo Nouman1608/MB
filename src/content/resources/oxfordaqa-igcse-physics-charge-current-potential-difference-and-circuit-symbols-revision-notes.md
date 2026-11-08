@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electrical-circuits-oxfordaqa-igcse"
 description: "Revision notes on charge, static electricity, current, potential difference, circuit symbols, thermistors and LDRs for OxfordAQA IGCSE Physics 9203."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense section 3.5.1 Electrical circuits, statements a to g, of the OxfordAQA *International GCSE Physics* (9203) specification, for exams from May/June 2018 onwards. For full explanations, read the [study guide](/resources/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols/). Then try the [practice questions](/resources/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols-practice/). See also the [OxfordAQA International GCSE Physics hub](/boards/oxfordaqa/igcse/physics/), the [printable checklist](/checklists/oxfordaqa/igcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).

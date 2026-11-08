@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "standard-costing-and-variance-analysis"
 description: "Condensed revision notes for AQA A-Level Accounting 7127 standard costing: variance formulas, reconciliation steps, linked variances and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For full explanations and the long worked example, use the

@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "wave-interaction-ocr-gcse"
 description: "Study guide to wave interactions for OCR GCSE (9-1) Physics A: absorption, reflection, refraction, lens ray diagrams and colour, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), and covers topic P5.3 Wave interactions, statements P5.3a to P5.3e. Statements P5.3a and P5.3b are in bold in the specification, so they are **Higher Tier only**, and each is labelled that way below. Statements P5.3c, P5.3d and P5.3e are not in bold, so they are assessed on both tiers; the specification marks them as separate Physics only content (not in Combined Science).

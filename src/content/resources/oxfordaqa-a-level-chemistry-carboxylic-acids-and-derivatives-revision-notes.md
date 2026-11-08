@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-9-2"
 description: "OxfordAQA 9620 revision notes for carboxylic acids and derivatives: ester naming, hydrolysis, soap, biodiesel, acylation equations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes summarise section 3.3.9 (Carboxylic acids and derivatives: subsections 3.3.9.1 and 3.3.9.2, with required practical 10), of OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020. It is International A2 content, so it is **International A-level only**. Questions on it appear in Unit 4 (Organic 2 and Physical 2), and any section can also appear in Unit 5 (Practical and synoptic). For full explanations and worked examples, read the [carboxylic acids and derivatives study guide](/resources/oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives/).

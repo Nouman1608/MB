@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on oligopoly: definitions, concentration ratios, collusion, kinked demand, price wars and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the Oligopoly sub-section of the AQA A-level Economics specification (7136, version 1.3), numbered 3.1.5.5 on the AQA website and 4.1.5.5 in the combined PDF. For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked/), then test yourself with the [practice set](/resources/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked-practice/). Related pages: the [course hub](/boards/aqa/a-level/economics/), the [checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures here are invented for revision.

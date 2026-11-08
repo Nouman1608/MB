@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "maintaining-internal-environments-ocr-gcse-biology"
 description: "Study guide to homeostasis, skin and temperature control, insulin, glucagon and diabetes for OCR GCSE Biology A (J247), with worked data examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide is aligned to the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. It covers statements B3.3a to B3.3e of module B3.3, Maintaining internal environments. Statement B3.3d is in bold in the specification, so it is tested only in the Higher Tier papers. The other four statements apply to both tiers. Osmotic balance, the kidney and ADH (B3.3f onwards) are taught elsewhere.

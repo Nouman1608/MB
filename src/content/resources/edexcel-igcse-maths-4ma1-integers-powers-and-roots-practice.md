@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "powers-and-roots-edexcel-igcse-maths"
 description: "Original practice questions with marked worked answers for Edexcel IGCSE Maths 4MA1 sections 1.1 and 1.4: integers, primes, HCF, LCM, indices and surds."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

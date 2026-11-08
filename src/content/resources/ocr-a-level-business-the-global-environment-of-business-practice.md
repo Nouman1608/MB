@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "the-global-environment-of-business-ocr-alevel-business"
 description: "Original practice questions with worked answers on the global environment of business for OCR A Level Business H431, from short answers to a 12-mark case."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

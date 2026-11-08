@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-8"
 description: "Study guide to IB DP Economics sub-topic 4.8: single and composite development indicators, how HDI is built, and growth versus development."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.8, measuring development, in Unit 4 The global economy. All of 4.8 is SL and HL; it has no HL-only content. Every country, currency and figure here is invented and illustrative.

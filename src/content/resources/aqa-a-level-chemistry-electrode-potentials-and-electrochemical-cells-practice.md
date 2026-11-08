@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "electrode-potentials-and-electrochemical-cells-7405"
 description: "Original AQA A-Level Chemistry 7405 questions on cell notation, EMF, feasibility, required practical 8 and commercial cells, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

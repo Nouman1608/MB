@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "chemical-tests-4ch1"
 description: "Study guide for Edexcel International GCSE Chemistry 4CH1 points 2.44-2.50: gas, flame, cation, anion and water tests, with worked identifications."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches sub-topic (h) Chemical tests of Topic 2, Inorganic chemistry, in the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). It covers points 2.44–2.50 in depth. The qualification is untiered. None of points 2.44–2.50 carries a C reference, so all of this content can be assessed on both Paper 1 and Paper 2.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "reasons-for-government-intervention-in-markets-cambridge-alevel-economics"
 description: "Revision notes on public goods, merit and demerit goods and price controls, covering section 3.1 of Cambridge AS and A Level Economics 9708."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes cover section 3.1 of the Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028: Reasons for government intervention in markets (3.1.1 to 3.1.3). It is AS Level content and is assumed knowledge for the A Level papers. Full explanations and worked examples are in the [study guide](/resources/cambridge-a-level-economics-reasons-for-government-intervention-in-markets/), and you can test yourself with the [practice questions](/resources/cambridge-a-level-economics-reasons-for-government-intervention-in-markets-practice/). Use the [course hub](/boards/cambridge/a-level/economics/), the [printable checklist](/checklists/cambridge/a-level/economics/) and the [diagnostics](/diagnostics/) to plan your revision. All figures are invented for illustration.

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "analysis-of-published-accounts-cambridge-alevel-business"
 description: "Condensed revision notes on financial statements, depreciation, inventory and ratio analysis for Cambridge A Level Business 9609, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These are condensed notes for sections 10.1 (Financial statements) and 10.2 (Analysis of published accounts) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both sections are A Level content. For full explanations and worked examples, use the [study guide](/resources/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts/). Then test yourself with the [practice questions](/resources/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts-practice/). Investment appraisal is in the [finance and accounting practice set](/resources/a-level-business-finance-a-level-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

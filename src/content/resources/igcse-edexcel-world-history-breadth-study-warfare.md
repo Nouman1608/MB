@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-warfare-4hi1"
 description: "Study guide to Breadth Study B6, warfare 1919–2011, for Edexcel IGCSE History 4HI1: Blitzkrieg, carriers, nuclear weapons, guerrilla war and drones."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

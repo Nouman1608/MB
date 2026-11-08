@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "aldehydes-and-ketones-7405"
 description: "Original AQA A-Level Chemistry aldehydes and ketones questions with marked answers: tests, NaBH4 and KCN mechanisms, racemates and yields."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

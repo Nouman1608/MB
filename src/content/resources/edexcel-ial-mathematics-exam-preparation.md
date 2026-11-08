@@ -11,11 +11,12 @@ syllabusSeries: "Specification Issue 3, April 2019"
 order: 3
 description: "The five valid applied unit pairs for Edexcel IAL Mathematics YMA01, why every unit carries equal weight, and a routine for protecting method marks on a paper."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Edexcel International A Level Mathematics (YMA01) is modular and unusually flexible. Every unit is an

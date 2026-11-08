@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-3"
 description: "Study guide to pressure, amount of substance, the empirical gas laws, PV = nRT, kinetic theory and internal energy for IB DP Physics B.3 (SL and HL)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers topic B.3 (Gas laws) in the theme on the particulate nature of matter. B.3 applies to Standard Level and Higher Level alike, and the guide lists no additional higher level content in it. Everything here is for both.

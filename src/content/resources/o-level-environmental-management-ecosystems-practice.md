@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "fieldwork-investigations-5014-2027"
 description: "Practice questions with worked answers on ecosystem terms, energy transfer, forest loss, seed banks and pitfall-trap fieldwork for O Level 5014 (2027-2029)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 These questions cover every learning outcome in Topic 5, Ecosystems, biodiversity and fieldwork, of the

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "development-of-organisms-and-continuity-of-life"
 description: "Condensed revision notes on cell division, plant and human reproduction, germination and the menstrual cycle for Cambridge O Level Biology 5090."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense Topic 16, Development of organisms and continuity of life, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4). They cover every learning outcome in 16.1 Nuclear division, 16.2 Asexual and sexual reproduction, 16.3 Sexual reproduction in plants and 16.4 Sexual reproduction in humans. The syllabus is not tiered. For full explanations and worked examples, use the [study guide](/resources/o-level-biology-5090-development-of-organisms-and-continuity-of-life/).

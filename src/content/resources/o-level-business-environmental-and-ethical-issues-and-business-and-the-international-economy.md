@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-and-the-international-economy"
 description: "Study guide to environmental and ethical issues, globalisation, multinationals and exchange rates for Cambridge O Level Business 7115, with examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide follows the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It covers sections 6.2 (Environmental and ethical issues) and 6.3 (Business and the international economy) from topic 6, External influences on business activity. The syllabus assesses content from the whole course in both Paper 1 (Short Answer and Data Response) and Paper 2 (Case Study), so these ideas can appear in either.
 

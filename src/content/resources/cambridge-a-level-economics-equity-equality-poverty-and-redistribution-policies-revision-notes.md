@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "equity-and-redistribution-of-income-and-wealth-cambridge-alevel-economics"
 description: "Condensed revision notes on equity, equality, poverty, the poverty trap, negative income tax, benefits and basic income for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 8.2 (Equity and redistribution of income and wealth) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 8 is A Level content, so it is not examined at AS. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies/), then test yourself with the [practice questions](/resources/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies-practice/). The [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/) and the [printable checklist](/checklists/cambridge/a-level/economics/) show the whole course, and a [free 10-minute diagnostic](/diagnostics/) finds weak spots. All figures below are invented for illustration.

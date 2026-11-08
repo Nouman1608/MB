@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "major-teachings-hadiths-0493"
 description: "Study guide to the 20 set Hadiths for Cambridge IGCSE Islamiyat 0493 Paper 2 Question 1: teachings on conduct and community life, with answer technique."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Major Teachings in the Hadiths of the Prophet is Paper 2 Question 1 of Cambridge IGCSE Islamiyat

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "rate-of-reaction-9202"
 description: "OxfordAQA IGCSE Chemistry (9202) study guide to section 3.8.1: measuring rate, collision theory, rate factors, catalysts and the required practical."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use this guide to learn rate of reaction from scratch for OxfordAQA International GCSE Chemistry (9202). Its source is the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Section 3.8.1 is taught in full, statements a to h, together with the required practical linked to it. There are no tiers in this qualification, so nothing here is optional. Either Paper 1 or Paper 2 may test any part of the content, this unit included.

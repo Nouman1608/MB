@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "statistical-hypothesis-testing-ocr-alevel-maths"
 description: "Condensed revision notes on Pearson's product-moment coefficient and the correlation hypothesis test for OCR A Level Mathematics A, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense references 2.05f and 2.05g of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. Both are Stage 2, so **A Level only**. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-mathematics-hypothesis-testing-for-correlation-pearsons-product/). Then test yourself with the [practice questions](/resources/ocr-a-level-mathematics-hypothesis-testing-for-correlation-pearsons-product-practice/). Other links: the [OCR A Level Mathematics hub](/boards/ocr/a-level/mathematics/), the [printable checklist](/checklists/ocr/a-level/mathematics/), the wider [Statistics revision notes](/resources/ocr-a-level-mathematics-statistics-revision-notes/) and the [free diagnostics](/diagnostics/).

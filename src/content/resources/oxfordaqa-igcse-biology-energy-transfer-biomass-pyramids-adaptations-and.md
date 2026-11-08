@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "ecology-oxfordaqa-igcse-biology"
 description: "Study guide to energy transfer, biomass pyramids, competition, adaptations, extremophiles and parasites for OxfordAQA IGCSE Biology, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide is aligned to the OxfordAQA International GCSE Biology specification, Version 5.2 (for exams May/June 2018 onwards). It covers sections 3.3.1 (energy transferred in ecosystems) and 3.3.2 (adaptations, interdependence and competition). The qualification is untiered, so every candidate meets all of this content. Revise with the [revision notes](/resources/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and-revision-notes/) and test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and-practice/). Course hub: [OxfordAQA IGCSE Biology](/boards/oxfordaqa/igcse/biology/). Tick off outcomes on the [printable checklist](/checklists/oxfordaqa/igcse/biology/). To find your weak spots first, take a [short diagnostic](/diagnostics/).
 

@@ -22,9 +22,10 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-1-3"
 description: "OxfordAQA 9620 section 3.1.1 Atomic structure: fundamental particles, isotopes, the time of flight mass spectrometer, configurations and ionisation energy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-02
 featured: false
 ---

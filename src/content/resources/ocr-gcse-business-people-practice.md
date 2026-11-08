@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "people-ocr-gcse-business"
 description: "Original practice questions with worked answers on section 3 People in OCR GCSE Business J204, using short-answer, calculation and case-study items."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

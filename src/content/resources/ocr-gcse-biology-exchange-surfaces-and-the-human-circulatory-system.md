@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-challenges-of-size-ocr-gcse-biology"
 description: "A full study guide to exchange surfaces, surface area to volume ratio and the human circulatory system for OCR GCSE Biology A, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers statements B2.2a to B2.2e of OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. The statements are in module B2.2, The challenges of size. No statement in this unit is printed in bold, so everything here is assessed in both Foundation and Higher Tier papers. Plant transport (B2.2f to B2.2j) has its own pages. For condensed recall see the [revision notes](/resources/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system-revision-notes/), and for exam-style questions use the [practice set](/resources/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system-practice/). Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [checklist](/checklists/ocr/gcse/biology/) and [free diagnostics](/diagnostics/). For the wider topic see [Scaling Up](/resources/ocr-gcse-biology-scaling-up/).

@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "chemical-analysis-8462"
 description: "Study guide for AQA GCSE Chemistry 8462 Topic 8 Chemical analysis: purity, formulations, chromatography, gas tests, ion tests and flame emission."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches Topic 8, **Chemical analysis** (sections 4.8.1 to 4.8.3), of the AQA GCSE Chemistry (8462) specification, for teaching from September 2016 with exams from June 2018 (version 1.1). The topic is assessed on Paper 2 (1 hour 45 minutes, 100 marks, 50% of the GCSE), which covers Topics 6 to 10 and can draw on ideas from sections 4.1 to 4.3. Everything in this topic is for both Foundation and Higher tier: the specification marks no part of Topic 8 as Higher tier only. It contains two required practicals, 6 (chromatography) and 7 (identifying ions).

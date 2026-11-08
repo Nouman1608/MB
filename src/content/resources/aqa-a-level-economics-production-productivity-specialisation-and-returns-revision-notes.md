@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-aslevel-economics"
 description: "Condensed revision notes on productivity, division of labour, money, diminishing returns and returns to scale for AQA A-level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed recall notes for AQA A-level Economics (7136), based on the AQA AS and A-level Economics specification (version 1.3, 29 June 2022). They cover Production and productivity (3.1.4.1), Specialisation, division of labour and exchange (3.1.4.2) and The law of diminishing returns and returns to scale (3.1.4.3); the PDF prints these as 4.1.4.1 to 4.1.4.3. For full explanations, use the [study guide](/resources/aqa-a-level-economics-production-productivity-specialisation-and-returns/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-production-productivity-specialisation-and-returns-practice/). See also the [course hub](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/), the [microeconomics revision notes](/resources/aqa-a-level-economics-microeconomics-revision-notes/) and the [free diagnostics](/diagnostics/). All data below is invented for illustration.

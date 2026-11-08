@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-in-action-ocr-gcse"
 description: "Study guide to stretching, bending, elastic and plastic change, force-extension graphs, F = ke and stored energy for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers statements P2.3a to P2.3f of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018. They sit in topic P2 Forces, section P2.3 Forces in action. None of these six statements is printed in bold, so they are assessed in both the Foundation Tier and the Higher Tier. Topic P2 is assessed on Paper 1 (Foundation Tier) and Paper 3 (Higher Tier).

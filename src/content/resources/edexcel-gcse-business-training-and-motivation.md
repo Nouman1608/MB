@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "motivation-1bs0"
 description: "Study guide to training, development and motivation methods for Edexcel GCSE Business Theme 2, Topic 2.5, items 2.5.3 and 2.5.4, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2, Topic 2.5 Making human resource decisions, content items 2.5.3 (Effective training and development) and 2.5.4 (Motivation). The specification lists formulae in Appendix 3 and says they are not provided in the examinations. No formula there is specific to this topic, so where a calculation appears below (productivity, commission, percentages), the standard form is stated and labelled as such.

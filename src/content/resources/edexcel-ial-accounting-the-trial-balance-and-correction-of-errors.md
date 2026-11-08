@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "correction-of-errors-yac11"
 description: "Study guide to the Edexcel IAL Accounting trial balance, its limits, error types, journals, suspense account, revised profit and control account fixes."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches the trial balance and the correction of errors from Unit 1: The Accounting System and Costing in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2 (September 2018). It covers outcomes 1.2.1 and 1.2.2 (trial balance) and 1.2.5 to 1.2.9 (correction of errors), all International AS content. All amounts are in dollars.

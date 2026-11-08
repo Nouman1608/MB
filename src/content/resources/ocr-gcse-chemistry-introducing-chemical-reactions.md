@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c3-1-introducing-chemical-reactions-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C3.1: formulae, balanced, half and ionic equations, the mole, conservation of mass and reacting masses."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 This guide teaches sub-topic **C3.1 Introducing chemical reactions** from Topic C3 of the OCR GCSE (9-1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026). It covers every learning outcome from C3.1a to C3.1l, plus the mathematical learning outcomes CM3.1i to CM3.1iv. Five statements (C3.1e, C3.1g, C3.1h, C3.1k and C3.1l) are tested only in the Higher Tier papers and are labelled **Higher Tier only** below; everything else is for both tiers. The specification says Topic C3 is assessed in Paper 1 (Foundation) and Paper 3 (Higher), with Papers 2 and 4 assuming knowledge of it.

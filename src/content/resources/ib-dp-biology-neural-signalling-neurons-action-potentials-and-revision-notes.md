@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c2-2"
 description: "Condensed IB DP Biology C2.2 revision notes: resting potential, action potentials, synapses, EPSPs and IPSPs, saltatory conduction, summation, pain, R²."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section C2.2 (Neural signalling) of the IB *Biology guide*, first assessment 2025, for DP Biology. C2.2.1 to C2.2.7 are SL and HL; C2.2.8 to C2.2.16 are **HL only**. They suit the sessions that follow the first assessment in 2025. For full explanations read the [study guide](/resources/ib-dp-biology-neural-signalling-neurons-action-potentials-and/), then test yourself with the [practice questions](/resources/ib-dp-biology-neural-signalling-neurons-action-potentials-and-practice/). Also see the [IB DP Biology hub](/boards/ib/ib-dp/biology/), the [printable checklist](/checklists/ib/ib-dp/biology/) and the [free diagnostics](/diagnostics/).

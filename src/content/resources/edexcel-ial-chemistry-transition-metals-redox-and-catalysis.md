@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "transition-metals-and-their-chemistry-ych11"
 description: "Edexcel IAL Chemistry study guide to outcomes 17.18-17.33: vanadium and chromium redox, NaOH and NH₃ tests, ligand exchange, catalysis and CP14."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches learning outcomes 17.18 to 17.33, with Core Practical 14, which make up the second half of Topic 17, Transition Metals and their Chemistry. The source is the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017. The topic sits in the IA2 (International A2) paper Unit 5: Transition Metals and Organic Nitrogen Chemistry. The specification states that Unit 6: Practical Skills in Chemistry II will predominantly assess knowledge and understanding related to Units 4 and 5. It builds on Topic 16 (electrode potentials) and Topic 12 (entropy).

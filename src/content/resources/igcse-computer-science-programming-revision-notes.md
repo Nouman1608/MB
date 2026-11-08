@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "programming-0478"
 description: "Revision notes on data types, selection, loops, string handling, operators, subroutines, library routines, arrays and files for Cambridge IGCSE CS 0478."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 8 Programming covers the building blocks of every program: variables and constants, data types, sequence, selection and iteration, string handling, operators, subroutines, library routines, arrays and file handling. In Cambridge IGCSE Computer Science (0478) it is examined on Paper 2, where you write and read Cambridge-style pseudocode; the syllabus says the logic matters more than the syntax of any one language.

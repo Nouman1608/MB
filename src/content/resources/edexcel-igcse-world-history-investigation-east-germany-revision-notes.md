@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "investigation-east-germany-4hi1"
 description: "Condensed notes on Investigation A5, East Germany 1958–90, for Edexcel IGCSE History 4HI1: timeline, Ulbricht v Honecker, control methods, Ostpolitik and 1989."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

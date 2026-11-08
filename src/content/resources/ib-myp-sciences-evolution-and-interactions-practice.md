@@ -17,9 +17,10 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Original IB MYP Sciences practice questions on natural selection, food webs, symbiosis and population sampling, with fully worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29."
+reviewer: "ameer-hamza"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: reviewed by ameer-hamza."
 publishedDate: 2026-09-28
 featured: false
 ---

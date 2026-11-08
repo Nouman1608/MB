@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "business-and-the-international-economy-0264"
 description: "Condensed revision notes on globalisation, tariffs, quotas, MNCs, external costs and benefits and exchange rates for Cambridge IGCSE Business 0264."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 6.2 (Business and the international economy) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. Both papers are based on all the subject content. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-business-and-the-international-economy/), then test yourself with the [practice questions](/resources/igcse-business-0264-business-and-the-international-economy-practice/). The [course hub](/boards/cambridge/igcse/business/), the [printable checklist](/checklists/cambridge/igcse/business/) and the [free diagnostics](/diagnostics/) help you plan the rest of your revision.

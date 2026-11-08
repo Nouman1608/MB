@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a2-3"
 description: "Original practice questions with worked answers on IB DP Biology HL A2.1 and A2.3: origin of cells, LUCA, virus structure, life cycles, evolution."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

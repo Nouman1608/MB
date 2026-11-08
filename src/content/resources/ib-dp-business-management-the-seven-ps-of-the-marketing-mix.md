@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-4-5"
 description: "Study guide to section 4.5 of IB DP Business Management: product, price, promotion, place, people, processes, physical evidence and marketing mixes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 4.5, The seven Ps of the marketing mix, from the IB *Business management guide*, first assessment 2024. It applies to SL and HL. Items that the guide marks as HL only are labelled the same way here: dynamic pricing, competitive pricing, contribution pricing and price elasticity of demand. The wider unit is covered in the [Unit 4 study guide](/resources/ib-dp-business-management-marketing/), and you can check your starting point with the [free diagnostics](/diagnostics/).

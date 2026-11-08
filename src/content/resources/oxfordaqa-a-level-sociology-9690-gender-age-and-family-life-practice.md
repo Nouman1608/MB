@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "gender-age-experience-family-life-9690"
 description: "Original OxfordAQA 9690 Unit 1 style questions on gender roles, the triple shift, domestic labour, children, boomerang families and older people."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

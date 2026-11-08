@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "globalisation-oxfordaqa-igcse-business"
 description: "Study guide to interest rates, employment, spending, globalisation and exchange rates for OxfordAQA International GCSE Business, sections 3.2.3-3.2.4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International GCSE Business (9225) specification, version 3.1, for exams from May/June 2022 onwards. It covers section 3.2.3 (The economic climate on business) and section 3.2.4 (Globalisation) in full. For a broader tour of all six influences, read the [Influences on business study guide](/resources/igcse-oxfordaqa-business-influences-on-business/) first. When you are ready to test yourself, use the [revision notes](/resources/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation-revision-notes/), the [practice questions](/resources/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation-practice/), the [course hub](/boards/oxfordaqa/igcse/business/), the [printable checklist](/checklists/oxfordaqa/igcse/business/) and the [free diagnostics](/diagnostics/).

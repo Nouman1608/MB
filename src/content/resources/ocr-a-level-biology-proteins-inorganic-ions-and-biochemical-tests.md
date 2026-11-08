@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "biological-molecules-ocr-alevel-biology"
 description: "Study guide to amino acids, protein structure, inorganic ions, food tests, colorimetry and chromatography for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide follows the OCR A Level Biology A specification (H420), Version 4.1 (April 2026), for first assessment in 2025. It covers module 2.1.2 Biological molecules, statements (k) to (s): amino acids, peptide bonds, protein structure, globular and fibrous proteins, inorganic ions, the biochemical tests, colorimetry and chromatography. Water, carbohydrates and lipids (statements (a) to (j)) are taught in separate pages.

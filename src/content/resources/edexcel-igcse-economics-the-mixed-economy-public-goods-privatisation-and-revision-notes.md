@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "externalities-edexcel-igcse-economics"
 description: "Condensed revision notes on the mixed economy, public goods, privatisation and externalities for Pearson Edexcel International GCSE Economics 4EC1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense sections 1.1.5 (The mixed economy) and 1.1.6 (Externalities) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. Full explanations and worked examples are in the [study guide](/resources/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and/). Test yourself with the [practice questions](/resources/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and-practice/), tick off the [checklist](/checklists/edexcel/igcse/economics/), see the [course hub](/boards/edexcel/igcse/economics/) or try the [free 10-minute diagnostics](/diagnostics/). The single tier of entry means no content is marked as higher or foundation. All numbers below are invented.

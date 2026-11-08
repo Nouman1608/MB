@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d4-1"
 description: "Study guide to IB DP Biology D4.1 natural selection: variation, selection pressures, sexual selection, gene pools, Hardy-Weinberg and artificial selection."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide is aligned to the IB *Biology guide*, first assessment 2025, and covers section D4.1 (Natural selection), statements D4.1.1 to D4.1.15. Statements D4.1.1 to D4.1.8 are for SL and HL. Statements D4.1.9 to D4.1.15 are additional higher level, so they are **HL only**. Hardy-Weinberg calculations are therefore HL work.

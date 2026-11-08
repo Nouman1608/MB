@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "accounting-concepts-used-in-the-preparation-of-accounting-records"
 description: "Study guide to section 3.5 of AQA A-Level Accounting: the ten accounting concepts and how they apply to inventory, non-current assets and sale or return."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches section **3.5 Accounting concepts used in the preparation of accounting records** of the

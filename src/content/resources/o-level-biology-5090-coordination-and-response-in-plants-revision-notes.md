@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "coordination-and-response-in-plants"
 description: "Revision notes on plant tropisms for Cambridge O Level Biology 5090: definitions, the four auxin points, bending step by step, practicals and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, use the [study guide for this topic](/resources/o-level-biology-5090-coordination-and-response-in-plants/). These notes condense Topic 15, Coordination and response in plants, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4): every learning outcome in section 15.1 (15.1.1 to 15.1.4). The syllabus is not tiered, so all of it applies to every candidate.

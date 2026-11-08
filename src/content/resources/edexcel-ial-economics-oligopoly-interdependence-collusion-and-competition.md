@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-structures-and-contestability-edexcel-alevel-economics"
 description: "Study guide to oligopoly, game theory, collusion, and price and non-price competition for Edexcel IAL Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers oligopoly, interdependence, collusion and price and non-price competition: section 3.3.3 item 5, points a to g, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. The specification places Units 1 and 2 in the International AS and Units 3 and 4 in the extra International A2 content. This topic sits in Unit 3, Business behaviour, which the specification labels an IAL compulsory unit, so it is for the full International Advanced Level only. All firms, markets and figures below are invented for illustration.

@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "bit-manipulation"
 description: "Guide to Topic 4 of Cambridge AS Computer Science 9618: the fetch-execute cycle and its registers, tracing assembly code, addressing modes and bit masking."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-09-01
 featured: false
 ---

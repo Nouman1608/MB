@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "interpreting-graphs-ocr-gcse-maths"
 description: "Condensed revision notes on real-world graphs, proportion graphs, gradients, chords, tangents and areas under graphs for OCR GCSE Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense section 7.04 of the OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026): 7.04a real-world graphs, 7.04b gradients and 7.04c areas. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and/). Content marked "Higher tier only" is listed for the Higher tier only in the specification.
 

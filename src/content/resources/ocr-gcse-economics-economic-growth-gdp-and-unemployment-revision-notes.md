@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "low-unemployment-ocr-gcse-economics"
 description: "Revision notes on GDP, growth, the Claimant Count and unemployment for OCR GCSE (9-1) Economics sections 3.1 and 3.2, with a ten-question self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.1 (Economic growth) and 3.2 (Low unemployment) of the OCR GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. They sit in topic 3, Economic objectives and the role of government. Full explanations are in the [study guide](/resources/ocr-gcse-economics-economic-growth-gdp-and-unemployment/). Test yourself with the [practice questions](/resources/ocr-gcse-economics-economic-growth-gdp-and-unemployment-practice/), tick off topics on the [printable checklist](/checklists/ocr/gcse/economics/), see the [OCR GCSE Economics hub](/boards/ocr/gcse/economics/) and use the [10-minute diagnostics](/diagnostics/) as a check. Every number below is invented. Country Y is a made-up economy.

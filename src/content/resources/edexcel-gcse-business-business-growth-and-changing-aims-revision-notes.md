@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "changes-in-business-aims-1bs0"
 description: "Condensed revision notes on growth methods, plc, sources of finance and changing aims for Pearson Edexcel GCSE Business Theme 2, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Topic 2.1 Growing the business (items 2.1.1 and 2.1.2) of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. For full explanations and worked examples, read the [study guide](/resources/edexcel-gcse-business-business-growth-and-changing-aims/). Test yourself with the [practice questions](/resources/edexcel-gcse-business-business-growth-and-changing-aims-practice/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-3-1-4"
 description: "Revision notes for OCR A Level Chemistry A 3.1.4: ion test reagents, observations, ionic equations, test order and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 3.1.4, Qualitative analysis, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover the single learning outcome 3.1.4(a), both the anion part (i) and the ammonium part (ii), with the additional guidance on test order and the PAG4 link. H432 is the full A level. For full explanations and longer worked examples, read the [Qualitative analysis study guide](/resources/ocr-a-level-chemistry-qualitative-analysis/).

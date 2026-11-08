@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-algebra-and-functions-edexcel-alevel-maths"
 description: "Study guide for Edexcel IAL Maths P1 topics 1.6 to 1.12: substitution, inequalities, polynomials, cubic and reciprocal graphs and transformations."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers Unit P1: Pure Mathematics 1, section 1 (Algebra and functions), topics 1.6 to 1.12. According to the specification, P1 and P2 are compulsory in IAS Mathematics, in IAL Mathematics and in IAL Pure Mathematics; no tier labels apply.

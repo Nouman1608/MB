@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "algorithm-design-and-problem-solving-0478"
 description: "Computational thinking, flowcharts and pseudocode, linear search, bubble sort, trace tables, validation, verification and test data for Cambridge IGCSE 0478."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 An algorithm is a set of clear, ordered steps that solves a problem. This topic is about how you plan a solution before you write any code, how you describe it so that someone else can follow it, and how you prove that it works. It is a heavily examined topic in the algorithm and programming paper because you are asked to trace, correct, complete and write algorithms rather than just describe them.

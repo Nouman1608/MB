@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "network-hardware-2210"
 description: "Guide to Topic 3 of Cambridge O Level Computer Science 2210 (2026-2028): the fetch-decode-execute cycle, CPU components, devices, sensors, storage and networks."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-09-02
 featured: false
 ---

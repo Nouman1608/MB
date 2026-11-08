@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "how-the-macroeconomy-works-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on the multiplier, AD and activity, SRAS shifts and LRAS determinants for OxfordAQA International AS and A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense sections 3.2.2.4 to 3.2.2.6 of the OxfordAQA *International AS and A-level Economics (9640)* specification, version 1.2 (International AS exams from May/June 2021, International A-level exams from May/June 2022). Section 3.2 is International AS content. For full explanations start with the [study guide](/resources/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run-practice/).
 

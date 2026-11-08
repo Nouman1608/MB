@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "reduce-file-sizes-for-storage-or-transmission-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 11: folder structures, file naming, application and generic file formats, and zip and rar compression."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 File management in Cambridge IGCSE ICT 0417 (Topic 11) means locating, opening, saving and exporting files in a planned folder structure with sensible names, choosing the right file format, and compressing files with .zip or .rar when they are too large to store or send. It is tested in Paper 1 (characteristics of file formats) and underpins every task in the practical Papers 2 and 3.

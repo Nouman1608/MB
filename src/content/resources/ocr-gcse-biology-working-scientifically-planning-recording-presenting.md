@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "practical-skills-ocr-gcse-biology"
 description: "Study guide to planning, recording, presenting and evaluating practical data for OCR GCSE Biology A (J247), with fully worked data examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers the working scientifically section (5e) of the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026): the practical skills in statements 2a to 2d, and the experimental, analysis and vocabulary statements 1.2, 1.3 and 1.4 as they are used in the Topic B7 practicals. None of these statements carries the Higher Tier only marking, so Foundation and Higher candidates need all of it. OCR says 15% of the questions in the written papers assess practical skills.

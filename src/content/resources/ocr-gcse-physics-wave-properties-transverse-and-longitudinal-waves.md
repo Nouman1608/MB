@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "wave-behaviour-ocr-gcse"
 description: "Study guide to wave properties for OCR GCSE (9-1) Physics A: amplitude, wavelength, frequency, period, v = f λ, wave types and measuring speed."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches statements P5.1a, P5.1b, P5.1c, P5.1d, P5.1e, P5.1j and P5.1k of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026), within topic P5.1 Wave behaviour. The specification does not print any of them in bold, so Foundation and Higher Tier papers can both test them. Use the [revision notes](/resources/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves-revision-notes/) for quick recall and the [practice set](/resources/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves-practice/) for questions. Course pages are at the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). If you are unsure where to start, try the [free 10-minute diagnostics](/diagnostics/).

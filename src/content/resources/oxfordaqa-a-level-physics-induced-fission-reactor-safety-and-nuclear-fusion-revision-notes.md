@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "nuclear-fusion-oxfordaqa-alevel-physics"
 description: "Condensed notes on moderators, control rods, coolants, reactor safety, nuclear waste and fusion conditions for OxfordAQA International A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 3.12.3 to 3.12.5 of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams from May/June 2020 onwards. All of section 3.12 is International A-level only. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-induced-fission-reactor-safety-and-nuclear-fusion/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-physics-induced-fission-reactor-safety-and-nuclear-fusion-practice/). Mass-energy is in the [nuclear radius and binding energy guide](/resources/oxfordaqa-a-level-physics-nuclear-radius-mass-energy-and-binding-energy/). Related pages: the [OxfordAQA Physics hub](/boards/oxfordaqa/a-level/physics/), the [printable checklist](/checklists/oxfordaqa/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).

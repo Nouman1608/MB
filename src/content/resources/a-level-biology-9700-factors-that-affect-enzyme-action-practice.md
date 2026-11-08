@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "factors-that-affect-enzyme-action-cambridge-alevel"
 description: "Original data and planning questions for Cambridge Biology 9700 on enzyme rate factors, Km, both reversible inhibitor types and immobilised enzymes."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

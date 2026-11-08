@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "paper-4-globalisation-media-religion-9699"
 description: "Revision notes on Paper 4 of Cambridge International A Level Sociology 9699: globalisation, media and religion, with exam traps and links to research methods."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

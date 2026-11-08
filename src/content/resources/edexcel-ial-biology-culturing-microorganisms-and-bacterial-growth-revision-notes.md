@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "microbiology-immunity-and-forensics-edexcel-alevel-biology"
 description: "Condensed revision notes on aseptic technique, growth measurement, the growth curve, rate constants and Core Practical 13 for Edexcel IAL Biology YBI11."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense statements 6.1 to 6.4 of Topic 6, including Core Practical 13, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. Topic 6 is International A2 (IA2) and there are no tiers. Read the [full study guide](/resources/edexcel-ial-biology-culturing-microorganisms-and-bacterial-growth/) for explanations and test yourself with the [practice questions](/resources/edexcel-ial-biology-culturing-microorganisms-and-bacterial-growth-practice/). The [course hub](/boards/edexcel/a-level/biology/), the [printable checklist](/checklists/edexcel/a-level/biology/) and the [free diagnostics](/diagnostics/) show where this fits.

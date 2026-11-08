@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "algebra-aqa-gcse-maths"
 description: "AQA GCSE Maths 8300 algebra practice with full worked answers on manipulation, graphs, equations, inequalities, functions and sequences, Higher parts marked."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-04
 featured: false
-reviewNote: "2026-11-08 recheck: added intro naming 8300 A1-A25, questions on expanding, linear equations and functions (Higher A7), and FAQ; fixed a garbled rounding note in Q7 and an unsupported claim about the specification in the technique section. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
-reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added intro naming 8300 A1-A25, questions on expanding, linear equations and functions (Higher A7), and FAQ; fixed a garbled rounding note in Q7 and an unsupported claim about the specification in the technique section. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

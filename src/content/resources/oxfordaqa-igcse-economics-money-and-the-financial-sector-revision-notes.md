@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-role-of-money-and-financial-markets-oxfordaqa-igcse-economics"
 description: "Condensed revision notes on money, central banks, commercial banks and other financial institutions for OxfordAQA International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.2.5.1 (the role of money) and 3.2.5.2 (the role and importance of the financial sector) of the OxfordAQA International GCSE Economics specification (9214), first teaching September 2023, first examined May/June 2025. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-economics-money-and-the-financial-sector/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-economics-money-and-the-financial-sector-practice/). Related pages: [fiscal and monetary policy revision notes](/resources/oxfordaqa-igcse-economics-fiscal-and-monetary-policy-revision-notes/), [course hub](/boards/oxfordaqa/igcse/economics/), [checklist](/checklists/oxfordaqa/igcse/economics/) and [free diagnostics](/diagnostics/).

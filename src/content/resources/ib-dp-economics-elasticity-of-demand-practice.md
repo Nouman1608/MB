@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-5"
 description: "Eleven original practice questions with worked answers on IB DP Economics sub-topic 2.5: PED, YED, revenue, Engel curves and HL-only items."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -36,9 +36,10 @@ syllabusTopics:
     subtopic: "separation-and-purification"
 description: "Original practice questions with worked answers for Cambridge IGCSE 0620 and O Level 5070: apparatus, titration, chromatography and Rf, separation and purity."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false

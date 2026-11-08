@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "external-factors-4bs1"
 description: "Study guide to public spending, taxes, tariffs, interest rates and social, technological, environmental and political factors for Edexcel IGCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1, section 1.6 "Government objectives and policies" (1.6.1 to 1.6.3) and section 1.7 "External factors" (1.7.1). The specification says both Paper 1 (small businesses, up to 49 employees) and Paper 2 (large businesses, more than 250 employees) can draw on the whole content, so expect this material in either paper, applied to a business in the question.

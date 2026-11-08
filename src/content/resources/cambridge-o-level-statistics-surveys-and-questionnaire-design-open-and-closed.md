@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "general-ideas-of-surveys-4040"
 description: "Study guide to surveys and questionnaires for Cambridge O Level Statistics: open and closed questions, response options, pilot surveys, leading questions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is aligned to the Cambridge O Level Statistics syllabus (4040) for examination in 2025, 2026 and 2027. It covers section 1.4, general ideas of surveys, which the syllabus says includes the use of closed and open questions in questionnaires. The syllabus is not tiered, so everything here is for every candidate. Existing pages cover sampling and bias in [Data and Its Collection](/resources/o-level-cambridge-statistics-data-and-its-collection/); this guide goes further on question design.

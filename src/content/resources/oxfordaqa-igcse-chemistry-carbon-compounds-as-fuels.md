@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "carbon-compounds-as-fuels-9202"
 description: "Carbon compounds as fuels for OxfordAQA International GCSE Chemistry (9202) from scratch: crude oil, alkanes, combustion, cracking, ethanol, biofuels."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches carbon compounds as fuels for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. It covers every statement in section 3.10.1: crude oil (3.10.1.1 a to c), hydrocarbons (3.10.1.2 a to g) and obtaining useful substances from crude oil (3.10.1.3 a to e), plus the required practical on testing for a double bond. The qualification is untiered, so all of this applies to every candidate. Either paper may test this unit.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "mixed-economic-system"
 description: "Original practice questions with worked answers on price controls, taxes, subsidies and privatisation for Cambridge O Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

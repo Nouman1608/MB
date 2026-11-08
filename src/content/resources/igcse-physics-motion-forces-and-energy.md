@@ -36,9 +36,10 @@ syllabusTopics:
     subtopic: "pressure-cambridge-igcse-physics"
 description: "Cambridge IGCSE Physics 0625 Topic 1 study guide for 2026-2028: motion graphs, mass and weight, density, forces, momentum, energy, work, power and pressure."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-08-21
 updatedDate: 2026-09-28
 featured: false

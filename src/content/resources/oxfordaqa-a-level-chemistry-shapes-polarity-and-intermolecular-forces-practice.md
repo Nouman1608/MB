@@ -35,8 +35,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-3-7"
 description: "Original OxfordAQA 9620 bonding questions with worked answers: formulae, dative bonds, structures, shapes, polarity and intermolecular forces."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

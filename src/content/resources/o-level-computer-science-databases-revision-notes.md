@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "databases-2210"
 description: "Topic 9 notes for Cambridge O Level Computer Science 2210: fields and records, choosing data types and keys, and a step-by-step method for writing SQL."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 9 of Cambridge O Level Computer Science (2210) asks four things of you: define a single-table database, choose data types, pick a primary key, and read or write SQL using a fixed set of keywords. These notes reduce each to a checklist, then practise the SQL method on a small table so that the four-line query shape becomes automatic before Paper 2.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-halogenoalkanes-alcohols-and-spectra-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 10C Alcohols: naming, classes, halogenation, elimination, oxidation, purification and Core Practical 7."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 10C: Alcohols from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 10.15 to 10.20, including Core Practical 7. It is International AS (IAS) content in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols. The specification states that descriptions of the mechanisms of the 10.17 reactions are not required.

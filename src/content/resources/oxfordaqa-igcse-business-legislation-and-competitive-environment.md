@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "competitive-environment-oxfordaqa-igcse-business"
 description: "Study guide to legislation, competition, risk and uncertainty for OxfordAQA International GCSE Business (9225), with worked cost examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Business (9225) specification, version 3.1, for International GCSE exams from May/June 2022 onwards. It covers section 3.2.5 Legislation and section 3.2.6 Competitive environment, both part of Influences on business. The specification names Influences on business as assessed on both written papers. For the full course, use the [OxfordAQA IGCSE Business hub](/boards/oxfordaqa/igcse/business/) and the [printable checklist](/checklists/oxfordaqa/igcse/business/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a2-2"
 description: "Condensed IB DP Biology A2.2 revision notes: microscopy calculations, prokaryote versus eukaryote cells, micrograph identification and HL origins of cells."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense section A2.2 (Cell structure) of the IB *Biology guide*, first assessment 2025, for DP Biology. A2.2.1 to A2.2.11 are SL and HL. A2.2.12 to A2.2.14 are additional higher level and are marked HL only. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes/).

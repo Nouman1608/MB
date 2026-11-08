@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "gravitational-fields-ocr-alevel"
 description: "Condensed revision notes on gravitational potential, potential energy and escape velocity for OCR A Level Physics A (H556), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 Condensed notes for section 5.4.4 (Gravitational potential and energy), statements (a) to (e), of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. For full explanations and worked examples, use the [study guide](/resources/ocr-a-level-physics-gravitational-potential-potential-energy-and-escape/), then test yourself with the [practice questions](/resources/ocr-a-level-physics-gravitational-potential-potential-energy-and-escape-practice/). The [OCR A Level Physics hub](/boards/ocr/a-level/physics/), the [checklist](/checklists/ocr/a-level/physics/) and the [free diagnostics](/diagnostics/) sit alongside these notes.
 

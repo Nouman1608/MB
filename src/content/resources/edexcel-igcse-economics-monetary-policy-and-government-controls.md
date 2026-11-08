@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "government-policies-edexcel-igcse-economics"
 description: "Study guide to interest rates, central banks, asset purchasing, regulation, fines and pollution permits for Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It covers sub-topic 2.1.2 Government policies, parts b) monetary policy and d) government controls. The specification states no Higher or Foundation labels. This material sits under Government and the economy, in Paper 2: Macroeconomics and the Global Economy.

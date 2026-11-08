@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on genetic crosses, sex-linkage, linkage, epistasis and the chi-squared test for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 Quick recall for sections 3.3.6.1 and 3.3.6.2 of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1 (Unit 3, listed as International A-level only). For full explanations and worked genetic diagrams, use the [study guide](/resources/oxfordaqa-a-level-biology-inheritance-and-genetic-crosses/). Then try the [practice questions](/resources/oxfordaqa-a-level-biology-inheritance-and-genetic-crosses-practice/). Course pages: [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/), [printable checklist](/checklists/oxfordaqa/a-level/biology/) and [free diagnostics](/diagnostics/).
 

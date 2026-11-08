@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "Original AQA A-level Economics practice questions with worked answers on budget deficits, surpluses, national debt, the OBR and rebalancing the budget."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "static-and-charge-ocr-gcse"
 description: "Condensed recall notes on charge, rubbing, electron transfer, the electroscope and electric field lines for OCR GCSE Physics A (J249), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These are condensed notes for OCR GCSE Physics A (Gateway Science, J249), specification Version 5.0 (July 2026), learning outcomes P3.1a to P3.1d. All four are assessed in both tiers; P3.1d is separate Physics only content (not in Combined Science). For full explanations, read the [study guide](/resources/ocr-gcse-physics-static-electricity-and-electric-fields/). Then use the [practice questions](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-practice/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-oxfordaqa-igcse-economics"
 description: "A full study guide to market structures, competitive markets, monopoly and oligopoly for OxfordAQA International GCSE Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1.5.1 to 3.1.5.3 of the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards: the range of market structures, competitive markets, and non-competitive markets including monopoly and oligopoly. The specification does not split the content into tiers. The labour market (3.1.5.4) is taught separately and is not covered here.

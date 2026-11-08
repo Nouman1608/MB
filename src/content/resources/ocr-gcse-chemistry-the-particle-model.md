@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c1-1-particle-model-j248"
 description: "Study guide to OCR GCSE Chemistry A (J248) sub-topic C1.1: states of matter, changes of state, physical vs chemical change and the model's limits."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 This study guide covers sub-topic **C1.1 The particle model**, from Topic C1 Particles, in OCR GCSE (9–1) Chemistry A (Gateway Science). It follows the J248 specification (Version 4.0, August 2026) and teaches learning outcomes C1.1a to C1.1c, the mathematical learning outcome CM1.1i and the practical suggestion listed for this sub-topic. C1.1a and C1.1b are assessed on both tiers. C1.1c is **Higher Tier only**. Foundation candidates meet Topic C1 in Paper 1 and Higher candidates in Paper 3; Papers 2 and 4 assume you know it.

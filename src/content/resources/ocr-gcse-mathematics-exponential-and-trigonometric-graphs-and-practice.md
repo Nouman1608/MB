@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "transformations-of-curves-and-their-equations-ocr-gcse-maths"
 description: "Original practice questions with worked answers on exponential graphs, sin, cos, tan and curve transformations for OCR GCSE Maths J560 Higher tier."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

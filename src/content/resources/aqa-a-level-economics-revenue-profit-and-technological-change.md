@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-aslevel-economics"
 description: "AQA A-level Economics study guide on revenue curves, profit, normal and abnormal profit, innovation and creative destruction, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level sub-section Production, costs and revenue (3.1.4 on the AQA website, 4.1.4 in the combined PDF). It covers the three content blocks Marginal, average and total revenue, Profit, and Technological change. The specification does not label any of this content as AS-only or A-level-only. The content sits in the Paper 1 content area, and Paper 3 can draw on any of it. Production, productivity and costs are taught in separate Marlbridge units, so this guide concentrates on revenue, profit and technological change. All firms, countries and figures below are invented.

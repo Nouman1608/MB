@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "choosing-strategic-direction-aqa-alevel-business"
 description: "Condensed revision notes for AQA A-Level Business 7132 topic 8: Ansoff, Porter, Bowman's clock, competitive advantage, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense topic 8, Choosing strategic direction, from the AQA A-level Business (7132) specification (A-level only, sections 3.8.1 and 3.8.2). Full explanations and worked examples are in the [study guide](/resources/aqa-a-level-business-choosing-strategic-direction/). When you are ready, try the [practice set](/resources/aqa-a-level-business-choosing-strategic-direction-practice/), then tick items off the [checklist](/checklists/aqa/a-level/business/). The course page is [AQA A-level Business](/boards/aqa/a-level/business/) and the free [10-minute diagnostics](/diagnostics/) show where to focus.

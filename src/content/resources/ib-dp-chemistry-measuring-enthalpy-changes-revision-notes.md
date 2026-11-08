@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-1-1"
 description: "Condensed IB DP Chemistry Reactivity 1.1 notes: heat vs temperature, exo and endothermic signs, energy profiles, ΔH⦵ and calorimetry, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These are short-form notes for Reactivity 1.1. If any point is unfamiliar, go back to the [measuring enthalpy changes study guide](/resources/ib-dp-chemistry-measuring-enthalpy-changes/) for the full explanation and longer worked examples.

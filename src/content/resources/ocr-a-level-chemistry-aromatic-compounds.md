@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-1-1"
 description: "Study guide to OCR A Level Chemistry A 6.1.1 Aromatic compounds: benzene models, electrophilic substitution, phenol and directing groups."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 6.1.1, Aromatic compounds, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It opens Module 6, Organic chemistry and analysis, and all twelve lettered outcomes, 6.1.1(a) to (l), are taught below. According to the specification, Module 6 content is examined in component 02 (Synthesis and analytical techniques) and component 03 (Unified chemistry). PAG7 is linked to outcome 6.1.1(h).

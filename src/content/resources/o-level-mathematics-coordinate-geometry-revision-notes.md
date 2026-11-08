@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "coordinate-geometry"
 description: "Condensed Cambridge O Level Mathematics revision notes on gradient, length, midpoint, line equations, parallel and perpendicular lines, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 Use this page in the last weeks before the exam. For full explanations and worked examples, read the [study guide](/resources/o-level-mathematics-coordinate-geometry/). The notes follow topic 3, Coordinate geometry (sections 3.1 to 3.7), of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. The content is the same for every candidate, and it can appear on the non-calculator paper and the calculator paper. Test yourself with the [practice questions](/resources/o-level-mathematics-coordinate-geometry-practice/), see the [course hub](/boards/cambridge/o-level/mathematics/), tick off outcomes on the [checklist](/checklists/cambridge/o-level/mathematics/) and find weak spots with a free [diagnostic](/diagnostics/).
 

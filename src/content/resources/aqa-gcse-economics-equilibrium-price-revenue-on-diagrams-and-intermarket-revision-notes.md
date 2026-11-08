@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-prices-are-determined-aqa-gcse-economics"
 description: "Condensed revision notes for AQA GCSE Economics (8136) on equilibrium price, shortages and surpluses, revenue on diagrams, and related markets."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.1.3.3 (Equilibrium price) and 3.1.3.4 (Intermarket relationships) of the AQA GCSE Economics (8136) specification, for first teaching from September 2017. The specification marks no tiers. For full explanations and worked examples, read the [study guide](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket/). Then test yourself with the [practice questions](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket-practice/).

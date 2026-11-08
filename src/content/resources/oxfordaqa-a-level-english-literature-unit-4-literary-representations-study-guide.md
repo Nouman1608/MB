@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "unit-4-literary-representations-9675"
 description: "How writers represent people, groups, places and ideas, and how to analyse choices, perspective and context when writing about representation in literary texts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check what Unit 4 actually assesses: whether it is an exam or non-exam assessment, the type and number of texts, whether any critical reading or independent choice is involved, and the assessment objective weightings. 2026-11-08 recheck: FAQ added."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check what Unit 4 actually assesses: whether it is an exam or non-exam assessment, the type and number of texts, whether any critical reading or independent choice is involved, and the assessment objective weightings. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

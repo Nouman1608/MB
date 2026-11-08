@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "hitlers-germany-9489"
 description: "Original Paper 4-style essays for Cambridge 9489 History on Mussolini, Stalin and Hitler, 1919-41, with indicative content and the AO1/AO2 level descriptors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the indicative content against the 2027-2029 syllabus content and a recent 9489 Paper 4 mark scheme before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the indicative content against the 2027-2029 syllabus content and a recent 9489 Paper 4 mark scheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

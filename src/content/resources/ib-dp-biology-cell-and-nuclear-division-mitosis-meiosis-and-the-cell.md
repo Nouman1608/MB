@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d2-1"
 description: "Study guide to IB DP Biology D2.1: cytokinesis, mitosis, meiosis, non-disjunction, the cell cycle, cyclins and tumours, with HL parts marked."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches sub-topic D2.1, Cell and nuclear division, from the IB *Biology guide*, first assessment 2025. It covers statements D2.1.1 to D2.1.11 for SL and HL, and D2.1.12 to D2.1.17, which are **HL only** and are labelled each time they appear. For condensed recall use the [revision notes](/resources/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell-revision-notes/); to test yourself use the [practice questions](/resources/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell-practice/). Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Printable list: [checklist](/checklists/ib/ib-dp/biology/). Not sure what to revise first? Try the [free 10-minute diagnostics](/diagnostics/).

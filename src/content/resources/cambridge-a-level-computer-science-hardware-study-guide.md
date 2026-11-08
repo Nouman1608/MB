@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "logic-gates-and-logic-circuits"
 description: "Cambridge 9618 Hardware study guide: memory types, PROM to EEPROM, embedded systems, how devices work, buffers, monitoring and control, and logic gates."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the exact bullet points in 3.1 (devices, ports, memory, virtual memory) and whether 3.2 stops at gates and circuits or also lists adders and flip-flops, and where processor registers sit (Topic 4). 2026-11-08 recheck: checked against the syllabus 3.1-3.2; moved ports and interrupts out (they are 4.1), removed virtual memory (16.1) and cloud storage, added PROM/EPROM/EEPROM, the named device operations, buffers and monitoring/control; please re-review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the exact bullet points in 3.1 (devices, ports, memory, virtual memory) and whether 3.2 stops at gates and circuits or also lists adders and flip-flops, and where processor registers sit (Topic 4). 2026-11-08 recheck: checked against the syllabus 3.1-3.2; moved ports and interrupts out (they are 4.1), removed virtual memory (16.1) and cloud storage, added PROM/EPROM/EEPROM, the named device operations, buffers and monitoring/control; please re-review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

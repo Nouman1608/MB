@@ -9,9 +9,10 @@ syllabusCodes: ["DP Chemistry"]
 order: 1
 description: "Recall notes on how IB Diploma Programme Chemistry is assessed: Paper 1 and Paper 2 weightings, the data booklet, the internal assessment and SL vs HL."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-08-26
 featured: false
 ---

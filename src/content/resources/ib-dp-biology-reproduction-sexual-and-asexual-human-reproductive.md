@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d3-1"
 description: "IB DP Biology study guide to D3.1.1-D3.1.12: sexual and asexual reproduction, menstrual cycle, fertilization, IVF and flowers, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers the first part of section D3.1 (Reproduction), statements D3.1.1 to D3.1.12, in the IB *Biology guide*, first assessment 2025, for DP Biology. Everything here is SL and HL. The later statements of D3.1 (puberty, gametogenesis, pregnancy and hormone replacement therapy) are taught elsewhere, and statements D3.1.13 onwards include HL content.

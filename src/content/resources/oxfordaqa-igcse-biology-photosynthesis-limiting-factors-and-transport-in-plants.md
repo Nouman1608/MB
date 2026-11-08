@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "exchange-and-transport-in-plants-oxfordaqa-igcse-biology"
 description: "Study guide to photosynthesis, limiting factors, greenhouse economics, stomata, transpiration, xylem and phloem for OxfordAQA International GCSE Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide follows the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. It covers sections 3.2.1 (Photosynthesis) and 3.2.2 (Exchange and transport in plants) of the Bioenergetics topic. The qualification is untiered, so there is one set of content for everyone. For the condensed version use the [revision notes](/resources/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants-practice/). The wider topic is in the [Bioenergetics study guide](/resources/igcse-oxfordaqa-biology-bioenergetics/). Course page: [OxfordAQA IGCSE Biology hub](/boards/oxfordaqa/igcse/biology/). Printable list: [checklist](/checklists/oxfordaqa/igcse/biology/). If you are unsure where you stand, take a [free 10-minute diagnostic](/diagnostics/) first.

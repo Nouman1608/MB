@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "the-periodic-table-4ch1"
 description: "Eleven original 4CH1 questions on particles, isotopes, Ar calculations, electron configurations and classifying metals and non-metals, fully marked."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

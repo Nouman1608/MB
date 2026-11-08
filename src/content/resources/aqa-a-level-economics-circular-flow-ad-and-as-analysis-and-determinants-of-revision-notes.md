@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "how-the-macroeconomy-works-aqa-aslevel-economics"
 description: "AQA A-level Economics revision notes on the circular flow, AD/AS diagrams and the determinants of aggregate demand, with worked examples and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes cover three sub-sections of the AQA A-level Economics (7136) specification, version 1.3: the circular flow of income, aggregate demand and aggregate supply analysis, and the determinants of aggregate demand. The PDF numbers them 4.2.2.1 to 4.2.2.3; the AQA website and the site map call them 3.2.2.1 to 3.2.2.3. They stand alone, so you can revise from this page, the [practice questions](/resources/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-practice/) and, for a fuller treatment of the same diagrams, the [AQA aggregate demand and supply study guide](/resources/aqa-a-level-economics-aggregate-demand-supply/). Every country and figure is invented and illustrative. Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/) and [free diagnostics](/diagnostics/).
 

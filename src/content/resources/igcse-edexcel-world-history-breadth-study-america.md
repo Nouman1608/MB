@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-america-4hi1"
 description: "Study guide to Breadth Study B1, America 1783–1877, for Edexcel IGCSE History 4HI1: the Constitution, expansion, slavery, the Civil War and Reconstruction."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

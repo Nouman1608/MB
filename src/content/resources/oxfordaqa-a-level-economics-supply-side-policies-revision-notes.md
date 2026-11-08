@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on supply-side policies for OxfordAQA International AS and A-level Economics (9640), section 3.2.4.3, with quick calculations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed recall notes for OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.2.4.3 Supply-side policies. Section 3.2 is International AS content. The full explanations are in the [study guide](/resources/oxfordaqa-a-level-economics-supply-side-policies/). Afterwards, test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-supply-side-policies-practice/). Track coverage with the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/). The [free diagnostics](/diagnostics/) show where to begin. Related background: the [macroeconomic performance revision notes](/resources/oxfordaqa-a-level-economics-macroeconomic-performance-revision-notes/). All figures here are invented and illustrative.

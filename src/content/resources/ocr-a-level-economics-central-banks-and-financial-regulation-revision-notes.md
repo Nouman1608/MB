@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-financial-sector-ocr-alevel-economics"
 description: "Condensed revision notes on the role of the central bank and financial regulation for OCR A Level Economics (H460), with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the role of the central bank and financial regulation in the financial sector area of study of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It is macroeconomics content, with no separate stage. Use the [study guide](/resources/ocr-a-level-economics-central-banks-and-financial-regulation/) for full explanations. Then try the [practice questions](/resources/ocr-a-level-economics-central-banks-and-financial-regulation-practice/), the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/). For instruments such as the liquidity trap and symmetric targets, see the [monetary policy notes](/resources/ocr-a-level-economics-monetary-policy-and-inflation-targeting-revision-notes/). All figures here are invented and illustrative.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "similarity-ocr-gcse-maths"
 description: "Condensed revision notes on similar triangles, enlargements and similar shapes for OCR GCSE (9-1) Mathematics, with a ten-question self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes condense similarity and enlargement for the OCR GCSE (9-1) Mathematics specification (J560), Version 2.1 (August 2026), content references 9.04a to 9.04c. Both tiers are covered. Two items carry the label "Higher tier only": negative scale factors in 9.04b, and the relationship between lengths, areas and volumes of similar shapes in 9.04c. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-similarity-and-enlargement/).
 

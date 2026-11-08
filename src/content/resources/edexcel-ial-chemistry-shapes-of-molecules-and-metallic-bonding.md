@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "bonding-and-structure-ych11"
 description: "Study guide for Edexcel International A Level Chemistry 3.16-3.22: electron-pair repulsion, bond angles, named shapes and metallic bonding."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 3 parts **3C Shapes of molecules** and **3D Metallic bonding** of the Pearson Edexcel

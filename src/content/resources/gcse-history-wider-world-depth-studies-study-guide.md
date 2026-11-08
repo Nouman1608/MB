@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "utmw-section-b-wider-world-depth-studies-8145"
 description: "Study guide to AQA GCSE History 8145 Paper 1 Section B: the five Conflict and tension depth studies part by part, and how the four questions are marked."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check dates and named examples against standard texts and the AQA 8145 specification (3.2.2) before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check dates and named examples against standard texts and the AQA 8145 specification (3.2.2) before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

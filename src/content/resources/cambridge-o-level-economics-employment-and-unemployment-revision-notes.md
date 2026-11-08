@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "employment-and-unemployment"
 description: "Condensed revision notes on employment and unemployment for Cambridge O Level Economics: definitions, rate, types, consequences, policies and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.7 of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. The [study guide](/resources/cambridge-o-level-economics-employment-and-unemployment/) has the full explanations and longer examples, so read that first, and use the [practice questions](/resources/cambridge-o-level-economics-employment-and-unemployment-practice/). Other links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/). All countries and figures here are made up.

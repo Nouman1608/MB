@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "the-marketing-mix-4bs1"
 description: "Condensed revision notes on product, price, place and promotion for Edexcel IGCSE Business (4BS1) section 4.3, with tables and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Topic 4 Marketing, section 4.3 "The marketing mix" (points 4.3.1 to 4.3.4) of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-business-the-marketing-mix/). Test yourself with the [practice questions](/resources/edexcel-igcse-business-the-marketing-mix-practice/). Course links: the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/). Both papers can draw on the whole content, so expect to apply these ideas to a small business in one paper and a large business in the other.

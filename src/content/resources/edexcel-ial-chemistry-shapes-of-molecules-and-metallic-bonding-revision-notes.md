@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "bonding-and-structure-ych11"
 description: "Revision notes for Edexcel International A Level Chemistry 3.16-3.22: shape counting, bond angles, the seven shapes of the ten named species and metal properties."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 3 parts 3C Shapes of molecules and 3D Metallic bonding (outcomes **3.16 to 3.22**)

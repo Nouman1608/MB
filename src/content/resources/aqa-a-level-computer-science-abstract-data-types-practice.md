@@ -39,8 +39,12 @@ syllabusTopics:
     subtopic: "vectors-7517"
 description: "Original practice questions with worked answers on files, queues, stacks, graphs, trees, hash tables, dictionaries and vectors for AQA A-Level CS 7517."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

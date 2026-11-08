@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "capital-investment-appraisal"
 description: "Original AQA A-Level Accounting 7127 investment appraisal questions with worked answers: relevant cash flows, payback, NPV and project evaluation."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

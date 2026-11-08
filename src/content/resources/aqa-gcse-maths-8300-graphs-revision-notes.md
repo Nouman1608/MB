@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "graphs-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 Graphs revision notes (A8-A16): y = mx + c, quadratic features, graph shapes, transformations and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense section 3.2.2, **Graphs** (A8 to A16), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Basic and additional foundation content is for both tiers; anything from the "Higher content only" column is marked **Higher tier only**. Graphs can come up on Paper 1 (non-calculator) or on Papers 2 and 3 (calculator).

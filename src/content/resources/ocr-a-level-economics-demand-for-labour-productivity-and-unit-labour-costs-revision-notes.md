@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-labour-market-ocr-alevel-economics"
 description: "Revision notes on derived demand, real wages, wage elasticity, ULC, human capital and MRP theory for OCR A Level Economics (H460), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the demand side of the topic **Wage determination** from the OCR *A Level Economics (H460)* specification, in Component 1, Microeconomics. The specification labels no content as AS or Extension. Full explanations are in the [study guide](/resources/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs/). Test yourself with the [practice set](/resources/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs-practice/), the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented and illustrative.

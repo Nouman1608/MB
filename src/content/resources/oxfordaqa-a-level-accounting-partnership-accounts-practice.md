@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "partnership-accounts-oxfordaqa"
 description: "Original partnership questions with fully worked answers for OxfordAQA A-Level Accounting 9615: appropriation, current accounts, admission, retirement."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

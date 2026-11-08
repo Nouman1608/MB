@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "living-standards"
 description: "Condensed revision notes on living standards for Cambridge O Level Economics (2281): GDP per head, HDI, income distribution, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 5.1 (5.1.1 and 5.1.2, Living standards) of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. There are no tiers. All figures are invented and illustrative. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-o-level-economics-living-standards/) first, then test yourself with the [practice set](/resources/cambridge-o-level-economics-living-standards-practice/). Other links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/).

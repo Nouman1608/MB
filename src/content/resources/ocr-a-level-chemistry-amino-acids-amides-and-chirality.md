@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-2-2"
 description: "Study guide to OCR A Level Chemistry A 6.2.2: amino acid reactions with alkalis, alcohols and acids, amide types, optical isomers and chiral centres."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section 6.2.2, Amino acids, amides and chirality, from the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Module 6, Organic chemistry and analysis, places it under 6.2, Nitrogen compounds, polymers and synthesis. Each of the four lettered outcomes, 6.2.2(a) to (d), gets an explanation and a worked example. The course is the full A level. The assessment overview puts Module 6 content on two papers, Unified chemistry (03) as well as Synthesis and analytical techniques (02). The specification lists no PAG for this section.

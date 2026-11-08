@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "the-impact-of-ethical-considerations-oxfordaqa"
 description: "Condensed revision notes for OxfordAQA 9615 section 3.2.10: principles, threats, audit opinions, regulation and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.2.10, The impact of ethical considerations, of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. Ethics sits in the second-year content (**International A-level only**) and appears in the specification for both Paper 3 and Paper 4. For full explanations and three worked examples, read the [study guide](/resources/oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations/) first.

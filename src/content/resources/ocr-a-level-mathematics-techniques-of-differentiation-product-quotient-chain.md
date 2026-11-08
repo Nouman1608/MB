@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "differentiation-ocr-alevel-maths"
 description: "Product, quotient and chain rules, connected rates, implicit and parametric differentiation and modelling equations, with worked examples for OCR H240."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches differentiation techniques for the OCR A Level Mathematics A course (H240), written against specification Version 3.1 (August 2026). It teaches content statements 1.07q, 1.07r, 1.07s and 1.07t in Pure Mathematics section 1.07, Differentiation. All four are listed under Stage 2 only, so treat them as **A Level only**: AS Level (H230) learners do not need them.

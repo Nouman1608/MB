@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "waves-ocr-alevel"
 description: "Condensed revision notes on stationary waves, nodes, harmonics, tube patterns and the resonance tube for OCR A Level Physics A (H556), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These revision notes condense section 4.4.4 (Stationary waves) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. Read the [study guide](/resources/ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes/) for full explanations, then try the [practice questions](/resources/ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes-practice/).
 

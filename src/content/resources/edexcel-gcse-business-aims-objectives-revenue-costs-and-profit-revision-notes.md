@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "business-revenues-costs-and-profits-1bs0"
 description: "Condensed revision notes on aims, objectives, revenue, costs, profit, interest, break-even and margin of safety for Pearson Edexcel GCSE Business 1BS0."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense content items 1.3.1 (Business aims and objectives) and 1.3.2 (Business revenues, costs and profits) of Topic 1.3, Putting a business idea into practice, in the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. This topic sits in Theme 1, Investigating small business. Read the [study guide](/resources/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit/) first. Then test yourself with the [practice questions](/resources/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit-practice/).

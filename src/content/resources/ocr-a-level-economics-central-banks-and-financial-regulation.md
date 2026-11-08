@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-financial-sector-ocr-alevel-economics"
 description: "Study guide to the role of the central bank and financial regulation for OCR A Level Economics (H460), with worked examples and evaluation chains."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the role of the central bank and financial regulation in the financial sector area of study of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It is macroeconomics content, and none of it is labelled as a separate stage. Every figure is invented and illustrative. Country K, its currency units (CU) and its banks are made up.

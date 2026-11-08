@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "application-of-accounting-concepts-4ac1"
 description: "Study guide to applying consistency, prudence, accruals, materiality, money measurement and business entity at the year end, for Edexcel IGCSE Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide covers section 5.1, Application of accounting concepts, in Topic 5 (Accounting for end of period adjustments) of the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The qualification is not tiered. The specification asks you to apply six concepts: consistency, prudence, accruals, materiality, money measurement and business entity. Paper 2 covers Topics 4 and 5 and also builds on what you learned in Topics 1 to 3, so these ideas can appear whenever you prepare or adjust financial statements. All money amounts on this page are in dollars, written without a currency sign.

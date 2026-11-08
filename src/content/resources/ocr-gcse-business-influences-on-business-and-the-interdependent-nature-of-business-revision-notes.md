@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "interdependent-nature-of-business-ocr-gcse-business"
 description: "Condensed revision notes on ethical, environmental, economic and global influences, risk and reward, and linking business functions, for OCR GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are quick-recall notes for sections 6 (Influences on business) and 7 (The interdependent nature of business) of OCR GCSE (9-1) Business (J204), Version 2.0 (January 2026), first assessment 2019. Both are part of Business 2: operations, finance and influences on business. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business/), then test yourself with the [practice set](/resources/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business-practice/).

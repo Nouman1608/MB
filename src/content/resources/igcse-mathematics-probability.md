@@ -18,12 +18,13 @@ syllabusTopics:
     subtopic: "conditional-probability-cambridge-igcse-maths"
 description: "Core and Extended Topic 8 Probability for Cambridge IGCSE Maths 0580 (2025-2027): the probability scale, relative frequency, combined and conditional events."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers **Topic 8 Probability**, for Cambridge IGCSE

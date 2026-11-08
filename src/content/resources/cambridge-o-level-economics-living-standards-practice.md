@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "living-standards"
 description: "Twelve original worked questions on living standards, real GDP per head, the HDI and income distribution for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

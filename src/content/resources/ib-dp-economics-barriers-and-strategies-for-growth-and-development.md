@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-10"
 description: "Study guide to IB DP Economics sub-topics 4.9 and 4.10: every barrier to growth and development, every strategy, and how to evaluate them."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.9, barriers to economic growth and/or economic development, and sub-topic 4.10, growth and/or development strategies, in Unit 4 The global economy. Neither sub-topic contains HL-only content, so both are for SL and HL. The countries, firms and figures below are made up.

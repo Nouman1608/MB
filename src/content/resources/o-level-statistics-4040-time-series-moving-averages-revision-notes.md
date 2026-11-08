@@ -21,8 +21,12 @@ syllabusTopics:
     topic: "time-series-0479"
 description: "Condensed notes on trend, moving averages with centring, mean seasonal variation and prediction for Cambridge O Level Statistics 4040 and IGCSE 0479."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 These revision notes cover time series for Cambridge O Level Statistics 4040, syllabus sections 10.1 (understanding of trend) and 10.2 (understanding of seasonal variation), from the syllabus for examination in 2025, 2026 and 2027. The same content is tagged to the time series topic of Cambridge IGCSE Statistics 0479. For full explanations start with the [time series study guide](/resources/o-level-statistics-4040-time-series-moving-averages/), then test yourself with the [practice questions](/resources/o-level-statistics-4040-time-series-moving-averages-practice/).

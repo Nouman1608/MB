@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-development-cambridge-alevel-economics"
 description: "Study guide to economic development and living standards for Cambridge A Level Economics: GDP, GNI, PPP, HDI, MEW, MPI, Kuznets curve, worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 11.3 (Economic development), outcomes 11.3.1 to 11.3.4, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 11 is A Level content only, so it is not examined at AS. The syllabus states that AS content is assumed knowledge for the A Level papers, so revisit real and nominal GDP and economic growth first.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-5"
 description: "Condensed revision notes for IB DP Physics A.5 (HL only): relativity formulas, method steps, key distinctions, a quick self-test and common mistakes."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These are condensed notes for **sub-topic A.5, Galilean and special relativity**, from the IB *Physics guide*, first assessment 2025. All of A.5 is additional higher level content, so everything below is **HL only**. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz/), then test yourself with the [practice questions](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-practice/).

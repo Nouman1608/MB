@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "patterns-of-inheritance-ocr-alevel-biology"
 description: "Condensed revision notes on selection, drift, Hardy-Weinberg, speciation and artificial selection for OCR A Level Biology A (H420), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes cover section 6.1.2(e) to (h) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. For full explanations and longer worked examples, go to the [study guide](/resources/ocr-a-level-biology-populations-hardy-weinberg-speciation-and-artificial/). Then test yourself with the [practice questions](/resources/ocr-a-level-biology-populations-hardy-weinberg-speciation-and-artificial-practice/). The [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/) cover the rest of the course.

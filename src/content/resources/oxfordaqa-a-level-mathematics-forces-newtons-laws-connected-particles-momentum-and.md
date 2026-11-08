@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "m1-momentum-and-impulse-oxfordaqa-alevel-maths"
 description: "Study guide to forces, Newton's laws, connected particles, momentum and impulse (M1.3 and M1.4) for OxfordAQA International AS and A-level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers sections M1.3 (Forces and Newton's Laws) and M1.4 (Momentum and impulse) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019). The specification states this content is part of International AS, Unit PSM1, in the Mechanics (M1) strand, so it also counts towards the International A-level. Everything is restricted to motion in a straight line.

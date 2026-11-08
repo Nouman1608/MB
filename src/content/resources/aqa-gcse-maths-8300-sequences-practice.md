@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "sequences-aqa-gcse-maths"
 description: "Twelve original AQA GCSE Maths 8300 Sequences questions on nth terms, Fibonacci-type, geometric and quadratic sequences, with fully marked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

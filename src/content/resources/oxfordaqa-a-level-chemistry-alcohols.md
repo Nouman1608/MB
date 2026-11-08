@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-5-2"
 description: "OxfordAQA 9620 alcohols taught from scratch: classifying alcohols, dichromate oxidation, distil or reflux, Fehling's and Tollens', and elimination."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Section **3.3.5 Alcohols** is the subject of this guide, written for the OxfordAQA International AS and A-level Chemistry

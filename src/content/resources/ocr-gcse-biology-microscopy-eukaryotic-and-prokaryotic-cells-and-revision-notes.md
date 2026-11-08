@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "cell-structures-ocr-gcse-biology"
 description: "Condensed revision notes for OCR GCSE Biology A B1.1: microscope parts, stains, magnification formulae, cell structure functions and TEM resolution."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense statements B1.1a to B1.1c of OCR GCSE (9-1) Gateway Science Suite Biology A (J247), Version 4.0, first assessment in 2018. No statement in B1.1 is Higher Tier only. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and/), then try the [practice questions](/resources/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and-practice/). Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [checklist](/checklists/ocr/gcse/biology/) and the [Cell level systems overview](/resources/ocr-gcse-biology-cell-level-systems/). To find your weak spots first, try a [free 10-minute diagnostic](/diagnostics/).

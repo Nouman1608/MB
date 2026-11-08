@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ethics-and-ownership-sub"
 description: "Revision notes on professional ethics, BCS and IEEE, copyright, free, open source, shareware and commercial licences, and the impact of AI for Cambridge 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 7 Ethics and Ownership covers why computing professionals must act ethically, why copyright law is needed, how the main software licence types differ, and the applications and impact of artificial intelligence. Cambridge International AS & A Level Computer Science 9618 tests it in Paper 1 with written answers applied to a scenario, so marks come from precise terms and points tied to the situation described, not from general opinion.

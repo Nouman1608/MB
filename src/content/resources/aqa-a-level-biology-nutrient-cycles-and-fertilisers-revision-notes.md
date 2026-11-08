@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "nutrient-cycles-aqa-alevel-biology"
 description: "Condensed revision notes on nutrient cycles for AQA A-level Biology: key terms, process tables, fertiliser sums, eutrophication steps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 3.5.4 Nutrient cycles of the AQA AS and A-level Biology specification (7402 is the A-level), for first teaching 2015. The section is A-level only. The [study guide](/resources/aqa-a-level-biology-nutrient-cycles-and-fertilisers/) has the full explanations and worked examples. Then test yourself with the [practice questions](/resources/aqa-a-level-biology-nutrient-cycles-and-fertilisers-practice/).

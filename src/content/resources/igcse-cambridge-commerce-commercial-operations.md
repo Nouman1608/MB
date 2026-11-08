@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "communication-0715-commerce"
 description: "Ownership types, MNCs, franchises, location, retailing, trading documents and communication explained for Topic 2 of Cambridge IGCSE Commerce 0715 (2028)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: page was mostly a syllabus outline; added teaching sections on ownership, public corporations, MNCs, franchises, location, retailing, trading documents, communication and an FAQ; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: page was mostly a syllabus outline; added teaching sections on ownership, public corporations, MNCs, franchises, location, retailing, trading documents, communication and an FAQ; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-01
 featured: false
 ---

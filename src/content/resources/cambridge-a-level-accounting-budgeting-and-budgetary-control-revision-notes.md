@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "budgeting-and-budgetary-control"
 description: "Revision notes on budgets, flexible budgeting, reconciliations and behaviour, with a self-test, for Cambridge A Level Accounting 9706 section 4.3."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 These notes condense section 4.3 Budgeting and budgetary control (A Level content) of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. For full explanations and a complete master budget, read the [study guide](/resources/cambridge-a-level-accounting-budgeting-and-budgetary-control/). Then test yourself with the [practice questions](/resources/cambridge-a-level-accounting-budgeting-and-budgetary-control-practice/). Other links: [course hub](/boards/cambridge/a-level/accounting/), printable [checklist](/checklists/cambridge/a-level/accounting/), [exam preparation guide](/resources/cambridge-a-level-accounting-exam-preparation/) and free [diagnostics](/diagnostics/). Businesses and figures are invented; amounts are in dollars.

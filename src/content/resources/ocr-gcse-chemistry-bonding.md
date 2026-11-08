@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c2-2-bonding-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C2.2 Bonding: metals and non-metals, electron arrangements, ionic, covalent and metallic bonds, and models."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 This study guide teaches sub-topic **C2.2 Bonding** (statements C2.2a to C2.2i, plus the mathematical learning outcomes CM2.2i to CM2.2iii) from Topic C2 of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018. None of the C2.2 statements is Higher Tier only, so all of it is assessed on both tiers. The specification says Paper 1 (Foundation) and Paper 3 (Higher) assess Topics C1–C3 and C7, and Papers 2 and 4 assume knowledge of C1–C3.

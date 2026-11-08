@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "ozone-depletion-0680"
 description: "Recall notes for Cambridge IGCSE Environmental Management 0680 Topic 4: atmosphere layers, greenhouse effect, climate change strategies, acid rain and CFCs."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 Topic 4 of Cambridge IGCSE Environmental Management (0680) is about how the atmosphere works and how

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "integration-ocr-alevel-maths"
 description: "Study guide to the fundamental theorem, indefinite and definite integrals, standard integrals and areas for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the first part of integration in OCR A Level Mathematics A (H240), as set out in the OCR specification (Version 3.1, August 2026): content references 1.08a to 1.08f. The specification has two stages. Stage 1 is common to AS Level (H230) and A Level, and Stage 2 is A Level only. References 1.08a, 1.08b, 1.08d and 1.08e are Stage 1. Integrating e^kx, 1/x, sin kx and cos kx (1.08c) and finding areas between curves (1.08f) are A Level only. Pure Mathematics content is assessed on each of the three papers. Reverse chain rule, parts, substitution, partial fractions, the trapezium rule and differential equations are separate topics and are not taught here.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "representing-data"
 description: "Study guide to OxfordAQA International AS/A-level Computer Science section 3.5: binary, floating point, characters, images, sound, ciphers and errors."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This guide teaches section 3.5, Representing data, of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams from May/June 2025 and International A-level exams from May/June 2026. It covers every outcome in sections 3.5.1 to 3.5.8. All of it is AS content, assessed in the Unit 2 written exam; none of it is International A-level only.

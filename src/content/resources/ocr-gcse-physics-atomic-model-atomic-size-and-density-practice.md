@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-particle-model-ocr-gcse"
 description: "Original practice questions with full worked answers on atomic models, atom size and density for OCR GCSE (9-1) Physics A Gateway Science J249."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "relationship-between-countries-at-different-levels-of-development-cambridge-alevel-economics"
 description: "Original practice questions with worked answers on international aid, trade and investment for Cambridge A Level Economics, including extended evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

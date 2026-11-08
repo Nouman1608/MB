@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "graphics-creation"
 description: "Original practice questions with worked answers for Cambridge A Level IT 9626 Graphics creation, from colour systems to tracing and compression."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

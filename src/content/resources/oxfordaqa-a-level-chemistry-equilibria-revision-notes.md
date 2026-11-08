@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-7-2"
 description: "Condensed OxfordAQA 9620 AS notes on dynamic equilibrium, Kc, Le Chatelier's principle and industrial compromise, with the A2 Kp extension flagged."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

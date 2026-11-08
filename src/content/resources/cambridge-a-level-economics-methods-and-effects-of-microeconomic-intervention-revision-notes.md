@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "methods-and-effects-of-government-intervention-in-markets-cambridge-alevel-economics"
 description: "Condensed revision notes on taxes, subsidies, direct provision, price controls, buffer stocks and information for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for section 3.2 (Methods and effects of government intervention in markets) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. This is topic 3, AS Level content, and A Level candidates need it as assumed knowledge for Papers 3 and 4. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention/). Then test yourself with the [practice questions](/resources/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention-practice/). See also the [course hub](/boards/cambridge/a-level/economics/), the [printable checklist](/checklists/cambridge/a-level/economics/), the [free diagnostics](/diagnostics/) and the reasons for intervention in [section 3.1](/resources/a-level-economics-government-intervention-revision-notes/). All figures are invented.

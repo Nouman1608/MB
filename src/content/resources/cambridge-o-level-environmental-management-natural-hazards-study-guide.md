@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "drought-5014-2027"
 description: "Causes, effects and management of earthquakes, volcanoes, tropical cyclones, flooding and drought for Cambridge O Level Environmental Management 5014 Topic 6."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check how deeply the 2027-2029 syllabus expects plate tectonics, hazard scales and named case studies to be covered for sub-topics 6.1 to 6.4."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check how deeply the 2027-2029 syllabus expects plate tectonics, hazard scales and named case studies to be covered for sub-topics 6.1 to 6.4; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

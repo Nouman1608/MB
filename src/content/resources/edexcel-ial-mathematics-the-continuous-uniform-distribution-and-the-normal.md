@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-continuous-distributions-edexcel-alevel-maths"
 description: "Study guide to the continuous uniform distribution and Normal approximations with continuity correction for Edexcel IAL Mathematics S2 (YMA01)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers unit S2 (Statistics 2) content 3.1 and 3.2. The specification lists S2 as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics.
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "carbon-compounds-as-fuels-9202"
 description: "Revision notes for OxfordAQA IGCSE Chemistry (9202) fuels: fractional distillation, alkane trends, pollutants, cracking, bromine water and ethanol."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense carbon compounds as fuels for OxfordAQA International GCSE Chemistry (9202). They are aligned to the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, section 3.10.1 (3.10.1.1 crude oil, 3.10.1.2 hydrocarbons, 3.10.1.3 obtaining useful substances from crude oil) and the required practical on testing for a double bond. The qualification is untiered, so every point applies to every candidate. The [study guide](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels/) has the full explanations and worked examples.

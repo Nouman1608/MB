@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-oxfordaqa-alevel-economics"
 description: "Study guide to competitive dynamics, creative destruction, efficiency and consumer and producer surplus for OxfordAQA International A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.3.3.8 (the dynamics of competition and competitive market processes), 3.3.3.9 (static efficiency, dynamic efficiency and resource allocation) and 3.3.3.10 (consumer and producer surplus). The specification places section 3.3 in the extra International A2 content: Unit 3 assesses it with section 3.5, and it builds on the International AS units. Every country, firm and number below is invented for illustration and is not a real statistic.

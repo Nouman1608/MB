@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "verification-of-accounting-records-oxfordaqa-alevel"
 description: "OxfordAQA A-level Accounting study guide to 3.1.4: trial balance errors, suspense, bank reconciliation and ledger control accounts, worked step by step."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.1.4, Verification of accounting records, of the OxfordAQA

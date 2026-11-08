@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "marketing-analysis-cambridge-alevel-business"
 description: "Study guide to Cambridge A Level Business 9609 section 8.1: elasticity, product development, R&D and sales forecasting with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 8.1 (Marketing analysis) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is A Level content, taught under topic 8 (Marketing). The syllabus says Paper 3 and Paper 4 are based on the A Level content and that AS content is assumed knowledge, so you should be ready to use these ideas on a case study. The syllabus says answers to the last part of Paper 3 Questions 3 and 4, and to both Paper 4 questions, should show evaluation.

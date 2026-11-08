@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "extraction-and-uses-of-metals-4ch1"
 description: "Study guide to extraction and uses of metals for Edexcel IGCSE Chemistry 4CH1: ores, carbon v electrolysis, steels and why alloys are harder."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches sub-topic 2(e) Extraction and uses of metals of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024): statements 2.22C to 2.27C. The qualification is untiered. Every statement in 2(e) is printed in bold with a C reference, so the whole sub-topic is **Paper 2 only**. Chemistry Paper 2 (1 hour 15 minutes, 70 marks) assesses all the content; Paper 1 assesses only the content that is not in bold.

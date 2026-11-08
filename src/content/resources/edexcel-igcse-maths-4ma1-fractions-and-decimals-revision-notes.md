@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "decimals-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes on fractions and decimals: methods in steps, conversions, recurring decimals and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections **1.2 Fractions** and **1.3 Decimals** of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. Section 1.2 and the Foundation part of 1.3 apply to both tiers. Converting recurring decimals into fractions (statement 1.3A in the Higher Tier content) is **Higher tier only**. A calculator is allowed on every paper, but questions often say "show your working", so learn the written methods.

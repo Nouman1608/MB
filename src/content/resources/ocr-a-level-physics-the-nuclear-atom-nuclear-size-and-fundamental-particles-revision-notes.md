@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "nuclear-and-particle-physics-ocr-alevel"
 description: "Condensed revision notes on alpha scattering, nuclear radius and density, quarks, hadrons, leptons and beta decay for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense sections 6.4.1 (The nuclear atom) and 6.4.2 (Fundamental particles) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. For full explanations, read the [study guide](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles/); to test yourself, use the [practice questions](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-practice/).
 

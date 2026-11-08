@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "the-marketing-mix-aqa-gcse-business"
 description: "Study guide to AQA GCSE Business Marketing: customers, segmentation, market research, the 4Ps, product life cycle, Boston Matrix and e-commerce."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers 3.5 Marketing from the 8132 AQA GCSE Business specification (first teaching September 2017). It takes in all four parts of the section: 3.5.1 to 3.5.4. Marketing is assessed in Paper 2 (Influences of marketing and finance on business activity), which the specification describes as a 1 hour 45 minute written exam. All businesses and figures below are invented.

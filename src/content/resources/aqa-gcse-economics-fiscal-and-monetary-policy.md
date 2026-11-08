@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "monetary-policy-aqa-gcse-economics"
 description: "Study guide to AQA GCSE Economics 8136 3.2.3.1 and 3.2.3.2: fiscal policy, balanced budgets, surpluses, deficits and monetary policy via interest rates."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Fiscal policy is the use of government spending and taxation to influence the economy. Monetary policy is the use of interest rates (and the supply of money) to influence the economy; in the UK it is carried out by the Bank of England. AQA GCSE Economics (8136) sections 3.2.3.1 and 3.2.3.2 ask you to explain how each policy changes income and spending, how each can be used to reach the government's objectives, and what a balanced budget, a surplus and a deficit mean.

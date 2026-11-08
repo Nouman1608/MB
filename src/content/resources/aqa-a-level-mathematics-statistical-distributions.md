@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "n-statistical-distributions-aqa-alevel-maths"
 description: "Study guide to AQA A-Level Maths Section N: discrete distributions, the binomial and Normal models, and choosing a model, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **Section N: Statistical distributions** (content references N1, N2 and N3) of

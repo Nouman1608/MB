@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-c-4"
 description: "Eleven original, fully worked practice questions on standing waves, pipes, strings, resonance and damping for IB Diploma Physics C.4, SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

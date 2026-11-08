@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "demand-ocr-gcse-economics"
 description: "Condensed revision notes on markets, sectors, specialisation, demand shifts and price elasticity of demand, with a self-test, for OCR GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for sections 2.1 (The role of markets) and 2.2 (Demand) of OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026). Full explanations are in the [study guide](/resources/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price/); test yourself with the [practice questions](/resources/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price-practice/). See also the [course hub](/boards/ocr/gcse/economics/), the [printable checklist](/checklists/ocr/gcse/economics/) and the [diagnostics](/diagnostics/). Every figure below is invented and illustrative.

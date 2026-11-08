@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-labour-market-aqa-alevel-economics"
 description: "Condensed AQA A-level Economics revision notes on labour demand, MRP, labour supply and competitive wage determination, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense three parts of the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level, first taught from September 2015: the demand for labour and marginal productivity theory, influences upon the supply of labour, and wage determination in perfectly competitive labour markets. The AQA website numbers them 3.1.6.1 to 3.1.6.3 (the combined PDF prints 4.1.6.1 to 4.1.6.3). For full explanations go to the [study guide](/resources/aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour-practice/). The [AQA A-level Economics hub](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/) help you plan. Monopsony, trade unions, the National Minimum Wage and discrimination are separate units. All figures are invented for illustration.

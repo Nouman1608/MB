@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "accounting-for-organisations-with-incomplete-records-oxfordaqa"
 description: "Revision notes for OxfordAQA A-level Accounting 9615 section 3.2.4: capital method, missing-figure accounts, markup and margin, and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.2.4, Accounting for organisations with incomplete records, of the OxfordAQA

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-e-3"
 description: "Study guide to IB DP Physics E.3: isotopes, mass defect, binding energy curve, strong force and alpha, beta and gamma decay, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers the first part of sub-topic E.3, Radioactive decay, in the IB *Physics guide* (first assessment 2025): nuclear structure, binding energy and the types of decay. The core understandings apply to SL and HL. Five further understandings are additional higher level, and each is marked "HL only". Activity, count rate, half-life and the decay law are the second part of E.3 and are not taught here. Use the [revision notes](/resources/ib-dp-physics-nuclear-structure-binding-energy-and-types-of-revision-notes/) for recall and the [practice questions](/resources/ib-dp-physics-nuclear-structure-binding-energy-and-types-of-practice/) for testing. Find your weak spots first with the [free 10-minute diagnostics](/diagnostics/). See also the [course hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).

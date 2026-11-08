@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "rate-equations-7405"
 description: "AQA A-Level Chemistry rate equations from scratch: orders, k and its units, the Arrhenius equation, initial rates, mechanisms and Required practical 7."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.1.9 Rate equations** of the AQA AS and A-level Chemistry specification

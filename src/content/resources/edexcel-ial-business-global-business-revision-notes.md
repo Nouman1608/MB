@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "global-business-edexcel-alevel-business"
 description: "Condensed revision notes for all of Unit 4 Global business in Edexcel International A Level Business (YBS11), with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense Unit 4 Global business (sections 4.3.1 to 4.3.4) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (YBS11), Issue 1, September 2017. For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-business-global-business/). Test yourself with the [practice questions](/resources/edexcel-ial-business-global-business-practice/). Course hub: [Edexcel A Level Business](/boards/edexcel/a-level/business/). Checklist: [printable checklist](/checklists/edexcel/a-level/business/). Find weak spots with the [free diagnostics](/diagnostics/).

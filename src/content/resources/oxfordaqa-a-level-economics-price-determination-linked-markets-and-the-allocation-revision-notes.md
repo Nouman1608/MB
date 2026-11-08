@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "how-markets-work-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on equilibrium, linked markets, speculation and the price mechanism for OxfordAQA International AS and A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.1.2.5 to 3.1.2.7 (International AS content, so also part of the International A-level). For full explanations use the [study guide](/resources/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation-practice/). Course pages: the [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/economics/) and the [checklist](/checklists/oxfordaqa/a-level/economics/). A [free diagnostic](/diagnostics/) will show what to revise first. All figures are invented and illustrative.

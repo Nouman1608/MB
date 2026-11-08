@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-5"
 description: "Study guide to IB DP Physics A.5 (HL only): Galilean and Lorentz transformations, time dilation, length contraction, simultaneity, space-time diagrams."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches **sub-topic A.5, Galilean and special relativity**, from Topic A of the IB *Physics guide*, first assessment 2025. The guide places all of A.5 in the additional higher level (AHL) content, so everything here is **HL only**; A.5 has no standard level part. Derivations of the Lorentz transformations, velocity addition, time dilation and length contraction are not required, so the focus is on using the results.

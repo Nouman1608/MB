@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-4-2-2"
 description: "Condensed revision notes for OCR A Level Chemistry A 4.2.2 Haloalkanes, with mechanism steps, rate trends, ozone equations and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use these notes in the last weeks before your exams for section 4.2.2, Haloalkanes, in OCR's H432 Chemistry A specification (Version 3.1, May 2026; first assessed in 2017). Each lettered statement, (a) through (e), appears below in short form. Two written components examine this Module 4 content: component 02 (Synthesis and analytical techniques) and component 03 (Unified chemistry), and PAG7 is linked to statement (a). H432 is a full A level, so there is no AS label.

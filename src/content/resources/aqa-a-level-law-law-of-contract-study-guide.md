@@ -41,9 +41,10 @@ syllabusTopics:
     subtopic: "remedies-law-of-contract-7162"
 description: "Formation, terms, consumer statutes, exclusion clauses, vitiating factors, discharge and remedies in contract law, with applied examples for AQA A Level Law."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the case and statute lists against the specification and the board's guidance, as AQA may expect particular authorities and a particular depth of theory."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the case and statute lists against the specification and the board's guidance, as AQA may expect particular authorities and a particular depth of theory; 2026-11-08: reviewed by aizaz-raoof-ali."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d3-2"
 description: "Condensed IB DP Biology HL revision notes on dihybrid ratios, linkage, recombinant frequency and chi-squared for D3.2.16 to D3.2.21, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense IB Diploma Programme Biology sections D3.2.16 to D3.2.21 (dihybrid crosses, linkage, recombinants and the chi-squared test) from the IB *Biology guide*, first assessment 2025. Every statement here is additional higher level, so all of it is **HL only**. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test/) first.

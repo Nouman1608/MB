@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cloning-and-biotechnology-ocr-alevel-biology"
 description: "Condensed revision notes on microorganisms in biotechnology, aseptic culture, growth curves, fermenters and immobilised enzymes for OCR A Level Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense learning outcomes 6.2.1(e) to 6.2.1(i) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. Read the [study guide](/resources/ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes/) for full explanations and worked examples, then test yourself with the [practice questions](/resources/ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes-practice/). The [course hub](/boards/ocr/a-level/biology/), [checklist](/checklists/ocr/a-level/biology/) and [free diagnostics](/diagnostics/) help you find weak areas.

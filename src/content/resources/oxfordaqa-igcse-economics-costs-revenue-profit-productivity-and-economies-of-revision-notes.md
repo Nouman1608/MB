@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "production-costs-revenue-and-profit-oxfordaqa-igcse-economics"
 description: "Condensed revision notes on costs, revenue, profit, productivity and economies of scale for OxfordAQA International GCSE Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.1.4 (Production, costs, revenue and profit) of Topic 1, How markets work, in the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards. For full explanations read the [study guide](/resources/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of-practice/). Also useful: the [course hub](/boards/oxfordaqa/igcse/economics/), the [checklist](/checklists/oxfordaqa/igcse/economics/) and the [free diagnostics](/diagnostics/). Every figure is made up, and money is in an unnamed currency unit.

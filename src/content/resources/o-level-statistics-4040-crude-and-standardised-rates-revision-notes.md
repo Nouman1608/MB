@@ -17,8 +17,12 @@ syllabusTopics:
     topic: "crude-and-standardised-rates-0479"
 description: "Condensed revision notes on crude, age-specific and standardised rates with a self-test, for Cambridge O Level Statistics 4040 and IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 These revision notes cover topic 7, crude and standardised rates and their appropriate use, of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027. The same content appears as topic 9 of the Cambridge IGCSE Statistics 0479 syllabus for 2027, where it is listed as five learning outcomes. Neither syllabus text splits this topic into tiers. For full explanations read the [study guide](/resources/o-level-statistics-4040-crude-and-standardised-rates/) first, then test yourself with the [practice questions](/resources/o-level-statistics-4040-crude-and-standardised-rates-practice/).

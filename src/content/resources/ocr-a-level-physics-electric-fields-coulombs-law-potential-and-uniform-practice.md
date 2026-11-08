@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electric-fields-ocr-alevel"
 description: "Original questions with worked answers on Coulomb's law, uniform fields, capacitance, potential and energy for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

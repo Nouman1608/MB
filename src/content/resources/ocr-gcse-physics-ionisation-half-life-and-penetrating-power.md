@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "radioactive-emissions-ocr-gcse"
 description: "Study guide to electron energy levels, ionisation, half-life, decline ratios and alpha, beta and gamma penetration for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. It covers statements P6.1h to P6.1l in topic P6.1, Radioactive emissions. Statements P6.1h, P6.1i, P6.1j and P6.1l are assessed in both Foundation and Higher Tier papers. Statement P6.1k is printed in bold in the specification, so it is **Higher Tier only**. Nuclear structure, isotopes and decay equations (P6.1a to P6.1g) are taught in a separate unit and are not repeated here.

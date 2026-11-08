@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "technology-aqa-gcse-business"
 description: "E-commerce, digital communication and the trade-offs between ethics, sustainability and profit, covering sections 3.2.1 and 3.2.2 of AQA GCSE Business (8132)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **3.2.1 Technology** and **3.2.2 Ethical and

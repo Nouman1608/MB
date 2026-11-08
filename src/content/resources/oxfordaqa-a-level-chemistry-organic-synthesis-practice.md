@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "oxfordaqa-a-level-chemistry-organic-synthesis"
 description: "Original OxfordAQA 9620 organic synthesis questions: atom economy, step yields, greener design and routes of up to four steps, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

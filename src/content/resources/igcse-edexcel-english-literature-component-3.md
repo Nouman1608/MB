@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "assignment-b-literary-heritage-texts-4et1"
 description: "Component 3 of Pearson Edexcel IGCSE English Literature 4ET1: the coursework alternative to Component 2, with assignments on modern drama and a heritage text."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-28
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers **Component 3: Modern Drama and Literary Heritage

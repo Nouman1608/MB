@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "interpreting-and-representing-data-ocr-gcse-maths"
 description: "Study guide to sampling, bias, charts, time series, cumulative frequency graphs and histograms, with worked examples, for OCR GCSE Mathematics J560."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide follows the OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026). It covers sections 12.01 and 12.02: sampling, then drawing and reading charts, line graphs, cumulative frequency graphs and histograms. Sampling and the chart work in 12.02a are listed for both tiers. Cumulative frequency graphs and histograms (12.02b) are Higher tier only.
 

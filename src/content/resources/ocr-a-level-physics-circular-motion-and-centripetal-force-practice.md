@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "circular-motion-ocr-alevel"
 description: "Eleven original practice questions with worked answers on radians, angular velocity, centripetal force and the whirling bung for OCR A Level Physics A."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "inheritance-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on cloning, genetic engineering and GM crops for OxfordAQA International GCSE Biology (9201), section 3.5.5, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 3.5.5 (Genetic manipulation, parts a to f) of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. Use the [study guide](/resources/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and/) for fuller explanations and worked examples. Then test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and-practice/). Course pages: the [OxfordAQA IGCSE Biology hub](/boards/oxfordaqa/igcse/biology/) and the [printable checklist](/checklists/oxfordaqa/igcse/biology/). Not sure what to revise first? Take a [free diagnostic](/diagnostics/).

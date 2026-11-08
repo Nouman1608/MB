@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "aids-to-trade-that-support-commerce-7100"
 description: "Cambridge O Level Commerce 7100 Topic 5 notes: advertising types, media choice, promotions, bank payments, insurance documents, finance and mark-up."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Aids to trade are the support services without which commerce would struggle: advertising tells buyers

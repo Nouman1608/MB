@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "unit-3-practical-skills-in-chemistry-i-ych11"
 description: "Condensed Edexcel IAL Chemistry Unit 3 revision notes: error and uncertainty rules, Core Practicals 1 to 8, test results and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Full explanations and longer worked examples are in the [Unit 3 study guide](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i/); start there if a point below is new to you.

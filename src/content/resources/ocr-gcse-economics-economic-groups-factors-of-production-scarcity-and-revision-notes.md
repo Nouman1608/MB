@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-basic-economic-problem-ocr-gcse-economics"
 description: "Condensed OCR GCSE Economics J205 revision notes for 1.1 and 1.2: economic groups, factors, scarcity, opportunity cost and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for sections 1.1 and 1.2 of the OCR GCSE (9-1) Economics specification (J205, version 2.0, first assessment 2019), part of component J205/01, Introduction to Economics. J205 has no tiers. Longer explanations sit in the [study guide](/resources/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and/). Test yourself with the [practice questions](/resources/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and-practice/), use the [checklist](/checklists/ocr/gcse/economics/), visit the [course hub](/boards/ocr/gcse/economics/) or try a [free diagnostic](/diagnostics/). Every figure below is made up for illustration.

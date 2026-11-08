@@ -19,11 +19,12 @@ syllabusTopics:
     subtopic: "the-gas-exchange-system-cambridge-alevel-biology"
 description: "Quick-recall notes on airway tissues, their functions, plan diagrams and alveolar gas exchange, with a self-test, for Cambridge 9700 AS Level Biology."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes cover Topic 9, Gas exchange, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: section 9.1 The gas exchange system, outcomes 1 to 7. It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it. For full explanations and worked examples, use the [Gas exchange study guide](/resources/a-level-biology-9700-gas-exchange/).

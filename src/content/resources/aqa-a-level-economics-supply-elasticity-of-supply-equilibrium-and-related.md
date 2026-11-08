@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-determination-in-a-competitive-market-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics supply, price elasticity of supply, equilibrium, disequilibrium and related markets, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level, first taught from September 2015. It covers four parts of the sub-section Price determination in a competitive market, numbered 3.1.3 on the AQA website (the combined PDF prints the A-level version as 4.1.3): the determinants of supply, price elasticity of supply, the determination of equilibrium market prices, and the interrelationship between markets. The demand side and elasticities of demand are taught on other pages. Every number below is invented for illustration.

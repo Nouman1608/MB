@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "production-costs-revenue-and-profit-aqa-gcse-economics"
 description: "Study guide to productivity, the factors that raise it, economies and diseconomies of scale and the costs and benefits of growth, for AQA GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA GCSE Economics (8136) specification, first taught from September 2017. It covers sections 3.1.4.2 (production and productivity) and 3.1.4.3 (economies of scale). The specification gives no tier labels, so everything here is common content. Every firm, country and figure below is invented for teaching. For quick recall, use the [revision notes](/resources/aqa-gcse-economics-productivity-and-economies-of-scale-revision-notes/). To test yourself, try the [practice questions](/resources/aqa-gcse-economics-productivity-and-economies-of-scale-practice/). The wider [How Markets Work guide](/resources/aqa-gcse-economics-how-markets-work/), the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), the [checklist](/checklists/aqa/gcse/economics/) and the [free diagnostics](/diagnostics/) sit alongside it.

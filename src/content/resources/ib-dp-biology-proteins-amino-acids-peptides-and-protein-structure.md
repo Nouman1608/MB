@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b1-2"
 description: "A full study guide to IB DP Biology B1.2 Proteins, from amino acids and peptide bonds to protein conformation, with worked examples, for SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches IB Diploma Programme Biology topic B1.2 (Proteins) in depth. It follows the IB *Biology guide*, first assessment 2025. Statements B1.2.1 to B1.2.5 are SL and HL. Statements B1.2.6 to B1.2.12 are additional higher level and are marked "HL only".

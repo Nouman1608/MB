@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "motion-oxfordaqa-igcse"
 description: "Condensed revision notes on forces, weight, scalars and vectors, Hooke's law, the spring practical and distance-time graphs for OxfordAQA IGCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes are aligned to the OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards, sections 3.1.1 and 3.1.2. They condense the [full study guide](/resources/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion/), which has the explanations and longer worked examples. Test yourself afterwards with the [practice questions](/resources/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion-practice/).

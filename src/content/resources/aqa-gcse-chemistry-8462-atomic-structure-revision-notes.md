@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "atomic-structure-8462"
 description: "Condensed AQA GCSE Chemistry 8462 notes for spec 4.1.1: equations, separating mixtures, atomic models, isotopes, Ar and electron shells, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **4.1.1 A simple model of the atom, symbols, relative atomic mass, electronic charge

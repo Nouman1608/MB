@@ -19,9 +19,10 @@ syllabusTopics:
     subtopic: "a-phenylamine-and-azo-compounds"
 description: "Original exam-style practice questions with full worked answers on amine basicity, preparation and diazotisation for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 publishedDate: 2026-08-22
 featured: false
 ---

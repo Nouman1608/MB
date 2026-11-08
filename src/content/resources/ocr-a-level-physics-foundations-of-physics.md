@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "foundations-of-physics-ocr-alevel"
 description: "Study guide to Module 2 of OCR A Level Physics A (H556): SI units and prefixes, homogeneity, uncertainties and errors, and resolving and adding vectors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-02
 featured: false
 ---

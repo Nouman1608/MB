@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "combined-events-and-probability-diagrams-ocr-gcse-maths"
 description: "Study guide to tree diagrams, the addition and multiplication laws and conditional probability for OCR GCSE (9-1) Mathematics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide covers tree diagrams, the addition law, the multiplication law and conditional probability for OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), content references 11.02d, 11.02e and 11.02f. Most of it is for both tiers. The parts marked **Higher tier only** are conditional probability from first principles, the formula p(A and B) = p(A given B)p(B) and the test for independence. Work through the [revision notes](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and-revision-notes/) for a quick recap and the [practice questions](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and-practice/) to test yourself. Course pages: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [checklist](/checklists/ocr/gcse/mathematics/) and the [free diagnostics](/diagnostics/).
 

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-2"
 description: "Condensed revision notes for IB DP Business Management sections 2.1 and 2.2: HR planning, resistance to change, structure terms, charts and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 2.1 (Introduction to human resource management) and 2.2 (Organizational structure) of the IB *Business management guide*, first assessment 2024. Both are SL and HL, except the HL-only point marked below. Full explanations and worked examples are in the [study guide](/resources/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure/).

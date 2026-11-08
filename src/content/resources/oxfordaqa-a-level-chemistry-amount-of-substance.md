@@ -28,9 +28,10 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-2-5"
 description: "OxfordAQA 9620 section 3.1.2 Amount of substance: relative masses, the mole and Avogadro constant, pV = nRT, empirical formulae, yield and atom economy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-02
 featured: false
 ---

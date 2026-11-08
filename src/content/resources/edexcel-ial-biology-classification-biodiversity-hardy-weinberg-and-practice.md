@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "plant-structure-and-function-biodiversity-and-conservation-edexcel-alevel-biology"
 description: "Original Edexcel International A Level Biology 4.14-4.21 practice questions with worked answers: diversity indices, Hardy-Weinberg, conservation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

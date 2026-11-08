@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "software"
 description: "Cambridge IGCSE Computer Science 0478 Topic 4 study guide: system and application software, OS functions, firmware, interrupts, translators and IDE features."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Software is the set of programs that tells computer hardware what to do. Topic 4 of Cambridge IGCSE Computer Science (0478) separates software into system and application software, explains what an operating system does, how hardware, firmware and the operating system work together to run an application, how interrupts are handled, and how program code is translated. It is a short topic with many definitions, so precise wording earns the marks.

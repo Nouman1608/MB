@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-6"
 description: "Study guide to IB DP Business Management sections 1.5 and 1.6: economies of scale, growth methods, franchising and the impact of MNCs on host countries."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 1.5 (Growth and evolution) and 1.6 (Multinational companies (MNCs)) of Unit 1 in the IB *Business management guide*, first assessment 2024. The guide gives no HL-only label to either section, so read them as content for both SL and HL. Use it with the [syllabus guide](/resources/ib-dp-business-management-syllabus-guide/), the [revision notes](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs-revision-notes/) and the [practice questions](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs-practice/). The course page is [IB DP Business Management](/boards/ib/ib-dp/business/), the printable list is the [checklist](/checklists/ib/ib-dp/business/), and the [free diagnostics](/diagnostics/) show where to start.

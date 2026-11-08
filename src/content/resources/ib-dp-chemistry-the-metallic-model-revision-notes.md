@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-2-3"
 description: "Condensed IB DP Chemistry revision notes on Structure 2.3, the metallic model: bonding, properties, melting point trends, HL d-electrons and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use these notes for fast recall of **Structure 2.3, The metallic model**, as it appears in the IB's DP *Chemistry guide* (February 2023 edition, examined from 2025). They cover understandings 2.3.1 and 2.3.2, which are **SL and HL**, and 2.3.3, which is additional higher level and so **HL only**. If an idea here feels thin, go back to the [metallic model study guide](/resources/ib-dp-chemistry-the-metallic-model/), which explains each point at length.

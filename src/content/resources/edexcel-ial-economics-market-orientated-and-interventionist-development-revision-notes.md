@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics"
 description: "Condensed revision notes on market-orientated and interventionist development strategies for Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense the [study guide](/resources/edexcel-ial-economics-market-orientated-and-interventionist-development/), which has the full explanations and longer worked examples. They follow the *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics* specification (YEC11), Issue 2, June 2018, section 4.3.6 item 3, points a and b. The specification labels Units 1 and 2 as the International AS and Units 3 and 4 as the extra International A2 content, so this is Unit 4 material for the full International A Level only. All figures below are invented and fictional.

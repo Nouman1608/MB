@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ecosystems-ocr-gcse-biology"
 description: "Study guide to ecosystem levels, abiotic and biotic factors, interdependence, trophic levels, biomass pyramids and efficiency for OCR GCSE Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide follows the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. It covers statements B4.1e to B4.1j of topic B4, Community level systems: levels of organisation, abiotic and biotic factors, interdependence and competition, trophic levels, pyramids of biomass and the efficiency of biomass transfer. None of these statements is marked as Higher Tier only in the specification text, so all of them are for both tiers. The cycling of materials and decomposition (B4.1a to B4.1d) are taught separately.

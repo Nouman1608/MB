@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-5"
 description: "Revision notes for IB DP History Paper 1: key facts for all ten prescribed-subject case studies and a checklist for the four source questions, 2017 syllabus."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check case-study content and dates against the IB History guide (first assessment 2017) before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check case-study content and dates against the IB History guide (first assessment 2017) before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

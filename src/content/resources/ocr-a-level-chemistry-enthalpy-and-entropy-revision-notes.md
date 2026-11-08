@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-2-2"
 description: "Condensed revision notes for OCR A Level Chemistry A 5.2.2: entropy trends, ∆S sums, ∆G = ∆H − T∆S, threshold temperatures and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 5.2.2, Enthalpy and entropy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover all six learning outcomes, 5.2.2(a) to (f), which sit in Module 5 (Physical chemistry and transition elements) of this full A level. The specification's assessment overview places Module 5 in the Periodic table, elements and physical chemistry component and the Unified chemistry component.

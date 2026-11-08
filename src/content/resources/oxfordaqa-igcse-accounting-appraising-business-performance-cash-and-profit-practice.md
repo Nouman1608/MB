@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "appraising-performance-oxfordaqa-igcse-accounting"
 description: "Eleven original questions with worked answers on profitability and liquidity ratios, appraisal, and cash versus profit for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

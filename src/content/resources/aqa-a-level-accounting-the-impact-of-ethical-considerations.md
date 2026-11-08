@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "the-impact-of-ethical-considerations"
 description: "Study guide to AQA A-Level Accounting 7127 section 3.18: ethical principles, governance, regulators, CCAB and CIMA, and what to do about wrongdoing."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide covers section 3.18, The impact of ethical considerations, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification lists section 18 in the content assessed by both Paper 1 and Paper 2, each a 3-hour written exam. It also lists "analyse situations to identify ethical considerations and suggest appropriate actions" as a skill, so expect scenarios rather than bare definitions.

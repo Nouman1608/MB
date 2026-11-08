@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-differential-equations-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on forming differential equations, growth and decay, and separable equations for OxfordAQA 9660 Unit P2 (P2.8), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Quick recall for section P2.8 of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It belongs to International A-level (A2) Unit P2 and is not examined at International AS. For full explanations use the [study guide](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations/). Then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations-practice/). Also see the [course hub](/boards/oxfordaqa/a-level/mathematics/), the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).

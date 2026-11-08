@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "what-happens-in-cells-ocr-gcse-biology"
 description: "Condensed revision notes on DNA, protein synthesis and enzymes for OCR GCSE Biology A, with method boxes, a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These notes condense module B1.2 (statements B1.2a to B1.2g) of OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. For explanations and worked examples, go to the [study guide](/resources/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action/). Test yourself with the [practice questions](/resources/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action-practice/), tick off topics on the [printable checklist](/checklists/ocr/gcse/biology/), find the rest of the course on the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), and see [Cell level systems revision notes](/resources/ocr-gcse-biology-cell-level-revision-notes/) for neighbouring topics. The [diagnostics](/diagnostics/) show which parts to start with.
 

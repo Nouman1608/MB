@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "triangle-mensuration-ocr-gcse-maths"
 description: "Condensed revision notes on Pythagoras, sin, cos, tan, 3D right-angled problems and exact trig values for OCR GCSE Maths J560, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense OCR GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), statements 10.05a, 10.05b and 10.05c. The [study guide](/resources/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact/) has the full explanations and longer worked examples. Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact-practice/), see the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/), and take a [free 10-minute diagnostic](/diagnostics/) to find gaps. The 2D work and exact values are in the Foundation tier and Higher tier content. Complex figures and 3D figures are **Higher tier only**.
 

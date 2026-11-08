@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "all-cells-arise-from-other-cells-aqa-alevel-biology"
 description: "Study guide to AQA A-level Biology 3.2.2: the cell cycle, stages of mitosis, cancer, binary fission, virus replication, root tip squashes and the mitotic index."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Section 3.2.2 of the AQA A-level Biology (7402) specification, *All cells arise from other cells*, asks you to

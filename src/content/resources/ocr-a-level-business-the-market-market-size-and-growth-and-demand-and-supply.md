@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "demand-and-supply-ocr-alevel-business"
 description: "Study guide to markets, market size and growth, market structures, demand, supply and equilibrium for OCR A Level Business (H431), with worked diagrams."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers two content areas inside **External influences** in the OCR *Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026): **the market, market size and growth** (2.1 on this site) and **demand and supply** (2.2 on this site). The specification does not number its own areas, so the numbers are ours. It is written for the specification's final assessment in summer 2027. For the wider topic, see the [external influences study guide](/resources/ocr-a-level-business-external-influences/), the [revision notes](/resources/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply-revision-notes/) and the [practice questions](/resources/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply-practice/). Course hub: [OCR A Level Business](/boards/ocr/a-level/business/). Checklist: [printable checklist](/checklists/ocr/a-level/business/). To find weak spots first, try the [free diagnostics](/diagnostics/).

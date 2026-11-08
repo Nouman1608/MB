@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "us-civil-war-2147"
 description: "Original Paper 1 and 2 style questions with answers on slavery, secession, the North's victory and Reconstruction for Cambridge IGCSE 0470 and O Level 2147."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; please re-review."
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions.

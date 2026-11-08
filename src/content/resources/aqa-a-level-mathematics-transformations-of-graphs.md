@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "b9-transformations-of-graphs-aqa-alevel-maths"
 description: "Study guide to AQA A-level Maths content reference B9: translations, stretches and reflections of y = f(x), combined in order, with asymptotes tracked."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide covers content reference **B9** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. B9 sits in section B: Algebra and functions. It asks you to understand the effect of simple transformations on the graph of y = f(x) and to sketch the associated graphs y = af(x), y = f(x) + a, y = f(x + a) and y = f(ax), including combinations. Section B is part of the Paper 1 content, and Papers 2 and 3 can each assess any Paper 1 content.

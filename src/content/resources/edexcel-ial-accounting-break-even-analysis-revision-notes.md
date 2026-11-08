@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "break-even-analysis"
 description: "Revision notes for Edexcel IAL Accounting topic 2.7 break-even analysis: cost formulas, margin of safety, chart features and a checked quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense topic 2.7, Break-even analysis, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. They cover outcomes 2.7.1 to 2.7.3 and are **Unit 2 (A2) only**. The [break-even study guide](/resources/edexcel-ial-accounting-break-even-analysis/) has the full teaching and longer worked examples. The firms are fictional and money is in dollars.

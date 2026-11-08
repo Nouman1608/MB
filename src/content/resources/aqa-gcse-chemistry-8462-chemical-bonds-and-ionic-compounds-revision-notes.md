@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "ionic-compounds-8462"
 description: "Condensed AQA GCSE Chemistry 8462 notes on chemical bonds and ionic lattices (4.2.1.1, 4.2.1.3), with a checked self-test and the usual lost marks."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the

@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "nuclear-fusion-oxfordaqa-igcse"
 description: "Condensed revision notes on half-life, contamination, fission, chain reactions, waste and fusion for OxfordAQA International GCSE Physics 9203."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense half-life, contamination and irradiation, fission and fusion for the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards: sections 3.7.2 h to j, 3.7.3 and 3.7.4. For full explanations and worked examples read the [study guide](/resources/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion-practice/). See also the [course hub](/boards/oxfordaqa/igcse/physics/), the [printable checklist](/checklists/oxfordaqa/igcse/physics/) and the [10-minute diagnostics](/diagnostics/).
 

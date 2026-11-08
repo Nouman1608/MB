@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-failure-oxfordaqa-igcse-economics"
 description: "Study guide to market failure, misallocation, government intervention and externalities, with worked tables, for OxfordAQA International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows specification references 3.1.6.1 (misallocation of resources) and 3.1.6.2 (externalities) in OxfordAQA International GCSE Economics (9214), first teaching September 2023 and first examined May/June 2025. The course is not tiered. Market failure sits under the Paper 1 heading "How markets work" in the assessment overview, and the specification tells you to draw on the whole course in the exam. Section 3.2.3.4 returns to policies for externalities in the second half of the course.

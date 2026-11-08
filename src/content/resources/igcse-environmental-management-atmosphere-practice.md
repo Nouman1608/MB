@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "ozone-depletion-0680"
 description: "Exam-style questions with answers on atmosphere layers, greenhouse gases, adaptation, acid rain and CFCs for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 These practice questions cover every learning outcome in Topic 4, The atmosphere and human activities,

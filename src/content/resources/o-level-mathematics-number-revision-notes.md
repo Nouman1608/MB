@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "number"
 description: "Condensed revision notes for all of Number in Cambridge O Level Mathematics 4024: key methods, distinctions, a quick self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes are aligned to the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027, and cover topic 1, Number, sections 1.1 to 1.18. The syllabus is not tiered. For full explanations and worked examples, read the [study guide](/resources/o-level-mathematics-number/) first.
 

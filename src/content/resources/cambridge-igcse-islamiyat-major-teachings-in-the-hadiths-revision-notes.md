@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "major-teachings-hadiths-0493"
 description: "One-line teaching and application for each of the 20 set Hadiths in Cambridge IGCSE Islamiyat 0493 Paper 2, with linked Qur'an verses and a worked answer."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **These revision notes condense Paper 2 Question 1 of Cambridge IGCSE Islamiyat 0493, Major

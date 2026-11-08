@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "sequences-and-series-ocr-alevel-maths"
 description: "Study guide to the binomial expansion for OCR A Level Mathematics A: positive integer and rational powers, validity, approximations and partial fractions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers 1.04a to 1.04d, the binomial expansion, together with the way the specification asks you to combine it with partial fractions (1.02y). Positive integer powers and the link to binomial probabilities (1.04a and 1.04b) sit in Stage 1, which is common with AS. Rational powers and validity (1.04c and 1.04d) are **A Level only**. Each of the specification's three components assesses Pure Mathematics content.

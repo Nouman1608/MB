@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "magnets-and-magnetic-fields-ocr-gcse"
 description: "Study guide to magnets, magnetic field patterns, the Earth's field, current-carrying wires and solenoids for OCR GCSE Physics A (J249), topic P4.1."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018. It covers topic P4.1, Magnets and magnetic fields (statements P4.1a to P4.1g). None of these statements is marked as Higher Tier only, so everything here is for both tiers. Use it with the [revision notes](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets-practice/). The course hub is at [OCR GCSE Physics](/boards/ocr/gcse/physics/), the printable [checklist](/checklists/ocr/gcse/physics/) lists every statement, and the [exam preparation page](/resources/ocr-gcse-physics-exam-preparation/) covers general technique. If you want to test yourself first, try the [free diagnostics](/diagnostics/).

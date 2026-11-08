@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "amino-acids-proteins-and-dna-7405"
 description: "Condensed AQA A-Level Chemistry notes on zwitterions, peptides, protein structure, TLC, enzymes, DNA base pairing and cisplatin, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and worked examples, read the

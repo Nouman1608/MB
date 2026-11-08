@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "the-internet-and-its-uses"
 description: "IGCSE study guide to the internet and World Wide Web, URLs, DNS, HTTPS, cookies, digital currency, blockchain and cyber security for Cambridge 0478."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Most people use the internet every day without thinking about how it works. This topic explains the difference between the internet and the World Wide Web, what happens between typing an address and seeing a page, how cookies and digital currency work, and which threats you face online and how to defend against them. Questions reward clear definitions and the ability to apply them to a short scenario.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "productivity-and-division-of-labour-edexcel-igcse-economics"
 description: "Study guide to factors of production, the three sectors, productivity and division of labour, with worked examples, for Edexcel IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 1.2.1 (Production) and 1.2.2 (Productivity and division of labour) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It is a single tier of entry, so everything here is for every candidate. The content sits in Paper 1: Microeconomics and Business Economics. Every figure below is invented and illustrative: no real country, firm or statistic is being described.

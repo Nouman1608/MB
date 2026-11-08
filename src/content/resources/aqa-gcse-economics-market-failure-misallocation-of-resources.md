@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-failure-aqa-gcse-economics"
 description: "AQA GCSE Economics 8136 section 3.1.6 study guide: market failure, costs of misallocation, externalities and government intervention, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.1.6, **Market failure**, of the AQA GCSE Economics (8136) specification for first teaching from September 2017. It teaches 3.1.6.1 (misallocation of resources) and 3.1.6.2 (externalities). The specification states no tiers, so all of it is common content, and it sits in Paper 1, How markets work. Every figure below is invented for illustration: the places and firms are made up and none of the numbers are real statistics.

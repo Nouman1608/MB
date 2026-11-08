@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "structured-programming"
 description: "Revision notes on constants, operators, built-in functions, IF and CASE, the three loop types, procedures, functions and parameters for Cambridge 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 11 Programming covers writing Cambridge pseudocode: declaring constants and variables, using operators and built-in functions, choosing between IF and CASE, choosing the right loop, and structuring a program into procedures and functions with parameters passed by value or by reference. In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 2, which is marked against the 9618 Pseudocode Guide and the function Insert given in the exam.

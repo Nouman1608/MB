@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "writing-skills-8702"
 description: "Revision notes on 3.3 Skills in AQA GCSE English Literature (8702): comprehension, critical reading, writers' choices, comparison, writing and AO1–AO4."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Section 3.3 of the AQA GCSE English Literature (8702) specification lists the **skills** you develop

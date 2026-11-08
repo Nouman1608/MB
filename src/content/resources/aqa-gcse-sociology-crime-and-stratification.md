@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "paper-2-crime-and-stratification-8192"
 description: "AQA GCSE Sociology (8192) Paper 2 guide to crime and deviance, social control and stratification, sections 3.5 and 3.6, with a worked comparison."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers **Paper 2 The Sociology of Crime and Deviance and

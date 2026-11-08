@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "cell-structure-reproduction-and-development-edexcel-alevel-biology"
 description: "Revision notes on organelles, prokaryotes, protein transport, magnification and Core Practical 5 for Edexcel International A Level Biology (YBI11)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 Quick recall for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, statements 3.1 to 3.8 of Topic 3 (International AS content), including Core Practical 5. For full explanations see the [study guide](/resources/edexcel-ial-biology-cell-ultrastructure-and-microscopy/), then test yourself with the [practice questions](/resources/edexcel-ial-biology-cell-ultrastructure-and-microscopy-practice/). The [course hub](/boards/edexcel/a-level/biology/), the [checklist](/checklists/edexcel/a-level/biology/) and the [free diagnostics](/diagnostics/) help you plan.
 

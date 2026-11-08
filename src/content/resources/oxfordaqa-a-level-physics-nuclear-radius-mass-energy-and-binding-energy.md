@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "mass-and-energy-oxfordaqa-alevel-physics"
 description: "Study guide to nuclear radius, density, binding energy, fission and fusion energy for OxfordAQA International A-level Physics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams from May/June 2020 onwards. It covers sections 3.12.1 (Radius of the nucleus) and 3.12.2 (Mass and energy). Section 3.12 is International A-level only, so none of it is examined at International AS; the specification places it in Unit 4 of the International A2 assessments.

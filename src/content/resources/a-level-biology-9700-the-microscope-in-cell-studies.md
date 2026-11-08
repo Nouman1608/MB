@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-microscope-in-cell-studies-cambridge-alevel-biology"
 description: "Study guide to Cambridge 9700 sub-topic 1.1: slides, drawings, magnification, graticule calibration, units and resolution, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches sub-topic **1.1 The microscope in cell studies**, part of topic 1 Cell structure in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content. Papers 1 and 2 are based on the AS content, Paper 4 assumes it, and the light-microscope skills it builds are assessed hands-on in Paper 3 (Advanced Practical Skills). There are no tiers in 9700: everything here is for every candidate.

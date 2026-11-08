@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "solving-equations-and-inequalities-oxfordaqa-igcse-maths"
 description: "Study guide to solving linear equations and forming equations from geometry and context problems for OxfordAQA International GCSE Mathematics (9260)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is for OxfordAQA International GCSE Mathematics (9260), aligned to the specification Version 5.1 (for exams May/June 2018 onwards). It covers references A19 and A22 in section 3.2.3 (Solving equations and inequalities). Every statement in these two references is Core content, so it is also assessable on the Extension papers. There is no Extension-only content to separate out here.
 

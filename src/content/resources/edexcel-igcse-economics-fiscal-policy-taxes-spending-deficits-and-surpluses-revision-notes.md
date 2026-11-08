@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "government-policies-edexcel-igcse-economics"
 description: "Condensed revision notes on fiscal policy for Edexcel International GCSE Economics: definitions, formulas, effect chains, a self-test and common mistakes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense specification point 2.1.2 a), fiscal policy, from the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026 (Paper 2: Macroeconomics and the Global Economy). For the full explanations and longer worked examples, read the [study guide](/resources/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses/). Then test yourself with the [practice questions](/resources/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses-practice/).

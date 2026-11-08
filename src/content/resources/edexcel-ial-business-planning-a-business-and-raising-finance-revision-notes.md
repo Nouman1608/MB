@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "planning-and-raising-finance-ybs11"
 description: "Recall notes on business plans, finance sources and methods, forms of business and liability for Edexcel International A Level Business, section 2.3.1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall notes for section 2.3.1, Planning a business and raising finance, in Unit 2 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business (YBS11) specification, Issue 1, September 2017. The [study guide](/resources/edexcel-ial-business-planning-a-business-and-raising-finance/) holds the full explanations and worked examples; check your recall with the [practice questions](/resources/edexcel-ial-business-planning-a-business-and-raising-finance-practice/). Earlier unit-level pages: [unit revision notes](/resources/edexcel-a-level-business-managing-activities-revision-notes/) and [unit study guide](/resources/a-level-edexcel-business-managing-business-activities/). Course hub: [Edexcel A Level Business](/boards/edexcel/a-level/business/). Printable list: [checklist](/checklists/edexcel/a-level/business/). Unsure where you stand? Take the [free diagnostics](/diagnostics/). Amounts are in dollars.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "analysis-of-accounting-statements"
 description: "Study guide to Edexcel IAL Accounting topic 1.5: the ten Unit 1 ratios worked in full, appraising sole traders and partnerships, and ratio projections."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide covers topic 1.5, Analysis of accounting statements, in Unit 1 (The Accounting System and Costing) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018 (first teaching September 2015). It teaches outcomes 1.5.1 to 1.5.3. This is Unit 1 (International AS) content, so it counts towards both the International AS and the full International A Level. All figures are invented and are in dollars.

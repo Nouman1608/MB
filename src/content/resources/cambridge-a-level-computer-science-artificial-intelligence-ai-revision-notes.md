@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "artificial-intelligence-sub"
 description: "Revision notes on graphs in AI, Dijkstra and A*, neural networks, supervised, unsupervised and reinforcement learning, back-propagation and regression for 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 18 Artificial Intelligence (AI) covers how graphs help AI find routes (using Dijkstra's algorithm and A*), how artificial neural networks support machine learning, the categories of machine learning (supervised, unsupervised, reinforcement and deep learning) and why each is used, and back-propagation and regression. In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 3, where you trace searches on a given graph but are not asked to write the algorithms.

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "effective-recruitment-1bs0"
 description: "Study guide to organisational structures, communication, ways of working, job roles and recruitment for Pearson Edexcel GCSE Business Theme 2."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2, Topic 2.5 Making human resource decisions, content items 2.5.1 (Organisational structures) and 2.5.2 (Effective recruitment). The formulae sit in Appendix 3 of the specification, and candidates do not receive them in the exam. Every business below is invented.

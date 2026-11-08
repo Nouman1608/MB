@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d1-3"
 description: "Condensed IB DP Biology revision notes for D1.1 DNA replication and D1.3 Mutation and gene editing: key terms, tables, methods and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense IB Diploma Programme Biology sections D1.1 (DNA replication) and D1.3 (Mutation and gene editing) from the IB *Biology guide*, first assessment 2025. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-dna-replication-mutation-and-gene-editing/). Statements D1.1.6 to D1.1.9 and D1.3.8 to D1.3.10 are HL only and are marked; the rest is SL and HL.

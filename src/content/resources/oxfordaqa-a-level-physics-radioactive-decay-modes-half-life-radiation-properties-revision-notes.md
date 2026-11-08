@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "radioactivity-oxfordaqa-alevel"
 description: "Condensed recall notes on alpha, beta and gamma decay, neutrinos, half-life, absorption, hazards and the inverse-square law for OxfordAQA Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense section 3.3.3 (Radioactivity) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams from May/June 2020 onwards. The content is shared by International AS and International A-level. Exponential decay equations are International A2 only (section 3.9) and are not covered here. For full explanations use the [study guide](/resources/oxfordaqa-a-level-physics-radioactive-decay-modes-half-life-radiation-properties/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-radioactive-decay-modes-half-life-radiation-properties-practice/).

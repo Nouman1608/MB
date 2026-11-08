@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "structure-and-calculation-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on ordering, fractions, priority of operations, primes, HCF, LCM, powers, roots and calculators for OxfordAQA IGCSE Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense section 3.1.1 Structure and calculation (references N1 to N5 and N10) of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). For full explanations read the [study guide](/resources/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and-practice/). Course pages: [hub](/boards/oxfordaqa/igcse/mathematics/) and [checklist](/checklists/oxfordaqa/igcse/mathematics/). Find weak spots with a free [diagnostic](/diagnostics/).

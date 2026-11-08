@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "organisation-structure-and-employees-4bs1"
 description: "Study guide to organisation charts, span of control, delegation and the four functional areas for Edexcel IGCSE Business 4BS1, section 2.5."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 2 "People in business", section 2.5 "Organisation structure and employees", points 2.5.1 to 2.5.3. The specification says both papers can draw on the whole content, so this topic can appear in the small-business paper (up to 49 employees) and the large-business paper (more than 250 employees). Each paper lasts 1 hour 30 minutes and is worth 80 marks.

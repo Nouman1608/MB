@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "activity-based-costing-abc"
 description: "Cost drivers, cost pools, ABC unit costs and selling prices, uses and limitations, and ABC versus traditional absorption, for Cambridge 9706."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 This guide covers **4.1 Activity based costing (ABC)**, from section 4, Cost and management accounting (A Level), of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. Section 4 is assessed in Paper 4, which the syllabus describes as two structured questions worth 50 marks in 1 hour, with AS Level content assumed knowledge. All businesses and figures are invented and all amounts are in dollars.

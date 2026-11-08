@@ -13,11 +13,12 @@ syllabusSeries: "For first teaching 2015"
 order: 3
 description: "How AQA A-Level Biology 7402 Papers 1, 2 and 3 work, with strategy for the Paper 2 comprehension, the Paper 3 essay and practical skills, plus a checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 AQA A-Level Biology (7402) is assessed through three written papers, not tiered: Paper 1 (any content

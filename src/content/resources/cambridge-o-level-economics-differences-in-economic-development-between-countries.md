@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "differences-in-economic-development-between-countries"
 description: "Study guide to why economic development differs between countries, with worked calculations and chains of analysis, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows section 5.4 (5.4.1, differences in economic development between countries) of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. Tiers do not apply to this course. For each of seven areas you must be able to explain causes and impacts. Every country, sector and number below is invented and illustrative. None of it is a real statistic.

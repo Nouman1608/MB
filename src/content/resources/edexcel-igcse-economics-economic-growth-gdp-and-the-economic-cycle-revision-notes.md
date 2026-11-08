@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-edexcel-igcse-economics"
 description: "Condensed revision notes on economic growth, GDP, its limitations and the economic cycle for Pearson Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 Quick recall for the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, section 2.1.1 a), economic growth. For explanations and full worked examples, read the [study guide](/resources/edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle/). Then test yourself with the [practice set](/resources/edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle-practice/). Links: [course hub](/boards/edexcel/igcse/economics/), [printable checklist](/checklists/edexcel/igcse/economics/), [free 10-minute diagnostics](/diagnostics/). All data in this page is invented for practice. This content is part of the Paper 2 material, and the specification has a single tier of entry.
 

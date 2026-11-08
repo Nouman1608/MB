@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "classification"
 description: "Condensed revision notes on classification for Cambridge O Level Biology 5090, with feature tables, key-writing rules and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed notes for the final weeks. For full explanations and worked examples, use the [classification study guide](/resources/o-level-biology-5090-classification/).

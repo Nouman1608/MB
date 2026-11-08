@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b1-2"
 description: "Condensed revision notes for IB DP Biology B1.2 Proteins: amino acids, peptides, denaturation and HL protein structure, with a self-test and lost marks."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense IB Diploma Programme Biology topic B1.2 (Proteins) from the IB *Biology guide*, first assessment 2025. For fuller explanations, read the [study guide](/resources/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure/). Test yourself with the [practice set](/resources/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure-practice/). Statements B1.2.6 to B1.2.12 are additional higher level and marked "HL only"; B1.2.1 to B1.2.5 are SL and HL.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p4-integration-edexcel-alevel-maths"
 description: "Condensed revision notes on volumes of revolution, separable differential equations and parametric areas for Pearson Edexcel IAL Mathematics P4."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense Pearson Edexcel International Advanced Level Mathematics (Specification Issue 3, April 2019), Pure Mathematics 4 sections 6.1, 6.4 and 6.5. P4 is compulsory for IAL Mathematics and Pure Mathematics and has no IAS weighting. For full explanations read the [study guide](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations-practice/). See also the [Edexcel A-level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).

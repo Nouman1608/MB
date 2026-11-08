@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-methodology-and-the-economic-problem-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on positive and normative statements, factors of production, opportunity cost and PPD efficiency."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), A-level sub-section Economic methodology and the economic problem. It is numbered 3.1.1 on the AQA website and 4.1.1 in the combined specification PDF. The [study guide](/resources/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production/) carries the explanations and worked examples in full. Check recall with the [practice questions](/resources/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production-practice/), mark outcomes off on the [checklist](/checklists/aqa/a-level/economics/), and browse the wider course from the [AQA A-level Economics hub](/boards/aqa/a-level/economics/). Not sure where you stand? A [free 10-minute diagnostic](/diagnostics/) will show you. All numbers below are invented and illustrative.

@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "evolution-may-lead-to-speciation-aqa-alevel-biology"
 description: "Study guide to populations, the Hardy-Weinberg equation, selection, genetic drift and speciation for AQA A-level Biology 7402 sections 3.7.2 and 3.7.3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide covers AQA A-level Biology (7402) sections 3.7.2, *Populations*, and 3.7.3, *Evolution may lead to speciation*, as set out in the AQA AS and A-level Biology specification for first teaching 2015. Both sections are A-level only, not AS. They sit in topic 7, which the assessment overview places on A-level Paper 2 and Paper 3. Course pages: the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), the [printable checklist](/checklists/aqa/a-level/biology/) and the [free diagnostics](/diagnostics/). Next steps: the [revision notes](/resources/aqa-a-level-biology-populations-hardy-weinberg-selection-and-speciation-revision-notes/) and the [practice questions](/resources/aqa-a-level-biology-populations-hardy-weinberg-selection-and-speciation-practice/).
 

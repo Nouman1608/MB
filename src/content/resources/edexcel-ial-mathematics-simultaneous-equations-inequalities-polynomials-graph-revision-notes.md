@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-algebra-and-functions-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel IAL Maths P1 topics 1.6 to 1.12 with method boxes, a graph and transformation cheat sheet and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes are aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019, Unit P1: Pure Mathematics 1, topics 1.6 to 1.12. The specification makes P1 and P2 compulsory for IAS Mathematics, IAL Mathematics and IAL Pure Mathematics. For full explanations read the [study guide](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-practice/).

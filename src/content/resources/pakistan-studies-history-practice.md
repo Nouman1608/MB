@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "nationhood-1947-99-0448"
 description: "A full original Cambridge IGCSE Pakistan Studies 0448 Paper 1 practice paper: a source-based Section A and four Section B questions, with levels mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on budget deficits and surpluses, national debt, cyclical and structural balances, the OBR and rebalancing."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense the budget balance and national debt points of AQA A-level Economics (7136), specification version 1.3, section 4.2.5.1 (3.2.5.1 on the AQA website). For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of/). Test yourself on the [practice questions](/resources/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of-practice/). Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/) and [free diagnostics](/diagnostics/). Related: [aggregate demand and supply](/resources/aqa-a-level-economics-aggregate-demand-supply/). All figures are invented and illustrative.
 

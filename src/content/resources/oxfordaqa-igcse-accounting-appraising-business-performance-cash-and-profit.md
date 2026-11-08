@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "appraising-performance-oxfordaqa-igcse-accounting"
 description: "Calculate and interpret profitability and liquidity ratios, then explain how cash differs from profit, for OxfordAQA International GCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the part of specification section 3.5 (topic 5, Interpretation, analysis and communication of financial information) on appraising business performance with financial statements and ratios, and on the difference between cash and profit. The specification says content 3 to 5 is assessed in Paper 2. All amounts on this page are in dollars.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "principle-of-superposition-and-stationary-waves-oxfordaqa"
 description: "Study guide to superposition, stationary waves, nodes, antinodes, harmonics and string experiments for OxfordAQA AS and A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers section 3.5.5 (Principle of superposition of waves and formation of stationary waves), which is shared International AS and A-level content, so it applies to both qualifications. Use it with the [course hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

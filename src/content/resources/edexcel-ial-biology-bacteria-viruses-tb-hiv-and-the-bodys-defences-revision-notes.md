@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "microbiology-immunity-and-forensics-edexcel-alevel-biology"
 description: "Condensed revision notes on bacteria, viruses, TB, HIV, barriers, inflammation, interferon and antibodies for Edexcel IAL Biology YBI11 Topic 6."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense statements 6.5 to 6.9 of Topic 6 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. Topic 6 is International A2 (IA2); Topics 1 to 4 are International AS (IAS). There are no tiers. For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-biology-bacteria-viruses-tb-hiv-and-the-bodys-defences/). Then test yourself with the [practice questions](/resources/edexcel-ial-biology-bacteria-viruses-tb-hiv-and-the-bodys-defences-practice/), tick off the [checklist](/checklists/edexcel/a-level/biology/), find the [course hub](/boards/edexcel/a-level/biology/) and try a [free diagnostic](/diagnostics/).

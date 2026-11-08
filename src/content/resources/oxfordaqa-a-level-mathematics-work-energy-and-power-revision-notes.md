@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "m2-work-and-energy-oxfordaqa-alevel-maths"
 description: "Revision notes on work, energy, the work-energy principle and power for OxfordAQA International A-level Mathematics 9660 Unit M2, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes cover section M2.6 (Work and energy) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification states that this content belongs to International A-level (A2) Unit M2 (Mechanics) and is not examined at International AS. The [study guide](/resources/oxfordaqa-a-level-mathematics-work-energy-and-power/) teaches each idea from scratch; these notes are the short version.
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "triangle-mensuration-ocr-gcse-maths"
 description: "Study guide to OCR GCSE Mathematics J560 sections 10.05d and 10.05e: the sine rule and cosine rule for lengths and angles, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide covers sections 10.05d (sine rule) and 10.05e (cosine rule) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). Both statements sit only in the Higher tier column of the specification, so everything below is **Higher tier only**. The same column lists the area formula ½ab sin C in 10.03a, and 6.02d lists all three formulae among those Higher tier learners should recall and use, so the area formula is included here for problem solving.

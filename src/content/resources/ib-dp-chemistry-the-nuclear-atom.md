@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-1-2"
 description: "Study guide for IB DP Chemistry Structure 1.2: subatomic particles, nuclear symbols, isotopes, relative atomic mass and HL mass spectra, worked through."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches Structure 1.2, The nuclear atom, as set out in the IB's Diploma Programme *Chemistry guide* (first assessment in 2025; published February 2023). Its scope runs from Structure 1.2.1 to 1.2.3. The first two are for SL and HL students; Structure 1.2.3, on mass spectra, sits in the guide's additional higher level material and is HL only. It applies to the DP Chemistry course first assessed in 2025.

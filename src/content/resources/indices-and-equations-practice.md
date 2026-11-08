@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "equations"
 description: "Cambridge O Level Mathematics 4024 practice questions with worked answers on index laws, linear, fractional, quadratic and simultaneous equations and formulas."
 author: "muhammad-ghazali-siddiqui"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopics 2.4 and 2.5, Section C (index equation, index simplification, two-denominator fractional equation, subject inside a root and appearing twice) and FAQ; fixed a garbled exam-trap bullet; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
-reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopics 2.4 and 2.5, Section C (index equation, index simplification, two-denominator fractional equation, subject inside a root and appearing twice) and FAQ; fixed a garbled exam-trap bullet; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

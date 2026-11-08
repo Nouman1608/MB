@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "principles-of-accounting-and-double-entry-bookkeeping"
 description: "Revision notes on the accounting equation, concepts, adjustments and control accounts, with bank reconciliation as background, for Edexcel IAL Accounting YAC11."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 publishedDate: 2026-08-22
 featured: false
 ---

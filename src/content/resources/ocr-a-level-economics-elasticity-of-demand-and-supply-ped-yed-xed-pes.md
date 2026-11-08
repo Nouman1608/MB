@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "elasticity-ocr-aslevel-economics"
 description: "Study guide to PED, YED, XED and PES for OCR A Level Economics (H460): point elasticity, total revenue, tax incidence and evaluation, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is based on the OCR *A Level Economics (H460)* specification, Version 3.0, dated June 2026 and first assessed in 2021. It teaches the topic **Elasticity**, which sits within How competitive markets work in Component 1, Microeconomics. No content is labelled AS or Extension in the text. All numbers below are made up for illustration.

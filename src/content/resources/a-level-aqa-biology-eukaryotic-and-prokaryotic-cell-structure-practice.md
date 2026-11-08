@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "structure-of-prokaryotic-cells-and-viruses-aqa-alevel-biology"
 description: "Eleven original questions with worked answers on prokaryotic cell structure and virus particles for AQA AS and A-level Biology (7401/7402), 3.2.1.2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

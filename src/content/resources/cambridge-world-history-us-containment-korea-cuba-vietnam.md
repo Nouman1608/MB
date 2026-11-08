@@ -20,8 +20,12 @@ seoTitle: "How Effectively Did the USA Contain Communism? 0470 and 2147"
 seoDescription: "Korea 1950–53, Cuba 1959–62 and Vietnam 1955–75: the three containment case studies for Cambridge IGCSE History 0470 and O Level History 2147, with judgements."
 description: "Guide to Cambridge 0470 and 2147 key question 2.5: US containment in Korea 1950–53, Cuba 1959–62 and Vietnam 1955–75, and how effective each case was."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Key question 2.5 asks how effectively the United States contained

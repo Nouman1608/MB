@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "government-policies-to-correct-market-failure-cambridge-alevel-economics"
 description: "Study guide to pollution permits, property rights, privatisation, information, nudge theory and government failure for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers part of section 8.1.1 and all of 8.1.2 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028: pollution permits, property rights, nationalisation and privatisation, provision of information, behavioural insights and nudge theory, and government failure. According to the syllabus, AS Level covers topics 1 to 6 and A Level adds topics 7 to 11, so topic 8 is A Level only. AS content is assumed knowledge. Taxes, subsidies, controls and quotas sit in a separate unit. The countries, firms and numbers here are made up for teaching.

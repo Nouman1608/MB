@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "systematic-approach-to-problem-solving-7517"
 description: "Original scenario-based practice questions with answers on analysis, design, test data, acceptance testing and evaluation for AQA A-Level CS 7517."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

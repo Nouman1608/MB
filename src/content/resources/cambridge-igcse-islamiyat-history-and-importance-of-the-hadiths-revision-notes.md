@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-hadiths-0493"
 description: "Recall notes on Hadith compilation, isnad and matn tests, grades, the Sunni and Shi'a collections and sources of law for Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense Paper 2 Question 2 of Cambridge IGCSE Islamiyat 0493, The History and

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "unit-3-practical-skills-in-chemistry-i-ych11"
 description: "Study guide to Edexcel IAL Chemistry Unit 3: practical skills, uncertainty, graphs, safety and Core Practicals 1 to 8 with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Unit 3: Practical Skills in Chemistry I, as set out in the YCH11 specification from Pearson (Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, Issue 1, September 2017). Unit 3 is an International AS (IAS) unit with no new theory: it examines the skills and techniques you build in Units 1 and 2, including Core Practicals 1 to 8, and can set them in unfamiliar practical situations.

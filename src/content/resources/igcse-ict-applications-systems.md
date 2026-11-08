@@ -42,8 +42,12 @@ syllabusTopics:
     subtopic: "satellite-systems-0417"
 description: "Modelling, control, school management, booking, banking, medicine, expert, retail, recognition and satellite systems for Cambridge IGCSE ICT 0417, 6.2-6.11."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This guide covers subtopics **6.2 to 6.11** of Topic 6, ICT

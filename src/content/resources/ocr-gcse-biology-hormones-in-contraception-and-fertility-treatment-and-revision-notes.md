@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordination-and-control-the-endocrine-system-ocr-gcse-biology"
 description: "Condensed revision notes on contraception, IVF and plant hormones for OCR GCSE Biology A (J247), with a self-test and common mark-losing errors."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense statements B3.2e to B3.2i of module B3.2 in the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. Use the [study guide](/resources/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and/) for full explanations and worked examples. Bold statements in the specification are tested in the Higher Tier only: here that means B3.2f, B3.2i, and gibberellins and ethene in B3.2h. They are labelled "Higher Tier only". Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) | [checklist](/checklists/ocr/gcse/biology/) | [practice questions](/resources/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and-practice/) | [free 10-minute diagnostics](/diagnostics/).

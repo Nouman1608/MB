@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-stability-ocr-gcse-economics"
 description: "Study guide to income and wealth, how they are shared, and inflation, CPI, real and nominal values, with worked examples, for OCR GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR GCSE (9-1) Economics specification (J205, Version 2.0, June 2026) and covers sections 3.3 (fair distribution of income) and 3.4 (price stability) of topic 3, Economic objectives and the role of government. The qualification is untiered, so everything applies to every candidate. All figures in the examples are invented and illustrative.

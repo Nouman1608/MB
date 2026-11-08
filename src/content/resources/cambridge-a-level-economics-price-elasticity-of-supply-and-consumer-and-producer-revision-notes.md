@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "consumer-and-producer-surplus-cambridge-alevel-economics"
 description: "Condensed revision notes on price elasticity of supply and consumer and producer surplus, with a self-test, for Cambridge AS and A Level Economics 9708."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 2.3 (Price elasticity of supply) and 2.5 (Consumer and producer surplus) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 2 is AS Level content and is assumed knowledge for A Level Papers 3 and 4. All figures are invented for illustration. Money is in currency units (cu).

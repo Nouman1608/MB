@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "transformations-of-data-sets-0479"
 description: "Original practice questions with full worked answers on Topic 6 of Cambridge IGCSE Statistics (0479): coding, combined data sets and z-scores."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

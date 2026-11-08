@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "understanding-business-data-1bs0"
 description: "Condensed revision notes on graphs, financial, marketing and market data and the limits of financial information, for Edexcel GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Theme 2, Topic 2.4 Making financial decisions, item 2.4.2 of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. The specification heads the item "Understanding business performance". Full explanations and longer worked examples are in the [study guide](/resources/edexcel-gcse-business-interpreting-quantitative-business-data/). Test yourself with the [practice questions](/resources/edexcel-gcse-business-interpreting-quantitative-business-data-practice/).

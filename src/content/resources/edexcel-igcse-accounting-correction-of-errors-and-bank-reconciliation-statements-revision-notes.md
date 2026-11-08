@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "bank-reconciliation-statements-4ac1"
 description: "Condensed Edexcel IGCSE Accounting revision notes on error types, correcting journals, suspense accounts and bank reconciliation, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense sections 3.3 Correction of errors and 3.4 Bank reconciliation statements of Topic 3, Introduction to control processes, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1 (October 2016). The specification does not split them into tiers. For full explanations and worked examples, use the [study guide](/resources/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements/). All amounts are in dollars.

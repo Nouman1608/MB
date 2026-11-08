@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "electrolysis-4ch1"
 description: "Condensed electrolysis notes for Edexcel IGCSE Chemistry 4CH1: product rules, half-equations, required practical and a checked self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Condensed for the final weeks. For full explanations and worked examples, use the [electrolysis study guide](/resources/edexcel-igcse-chemistry-4ch1-electrolysis/), then test yourself with the [electrolysis practice questions](/resources/edexcel-igcse-chemistry-4ch1-electrolysis-practice/).

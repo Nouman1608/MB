@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "redox-chemistry-and-groups-1-2-and-7-ych11"
 description: "Study guide for Edexcel IAL Chemistry Topic 8C: halogen trends, displacement, disproportionation, halides with sulfuric acid and silver nitrate tests."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 8C, Inorganic chemistry of Group 7, of the Pearson Edexcel International

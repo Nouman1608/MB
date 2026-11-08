@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "water-cambridge-alevel-biology"
 description: "Hydrogen bonding, solvent action, specific heat capacity and latent heat of vaporisation in water, taught with worked examples for Cambridge 9700."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches section 2.4 Water from Topic 2, Biological molecules, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. Section 2.4 has a single learning outcome, and this page covers all of it. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content. Calculators are allowed in 9700 examinations.

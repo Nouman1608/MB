@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "international-trade-edexcel-igcse-economics"
 description: "Condensed revision notes on free trade, reasons for protection, tariffs, quotas and subsidies, with a self-test, for Pearson Edexcel IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense section 2.2.2 a), b) and c) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026: free trade, reasons for protection, and tariff, quota and subsidy diagrams. The topic sits in Paper 2 (Macroeconomics and the Global Economy), with one tier of entry. The full explanations and the tile-market worked example are in the [study guide](/resources/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy/). Practice follows in the [practice questions](/resources/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy-practice/).
 

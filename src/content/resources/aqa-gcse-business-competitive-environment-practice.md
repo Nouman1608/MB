@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "competitive-environment-aqa-gcse-business"
 description: "Original practice questions with worked answers on markets, competition, low competition, uncertainty, risk and reducing risk, for AQA GCSE Business 8132."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

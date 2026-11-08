@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-oxfordaqa-alevel-economics"
 description: "Original practice questions with worked answers on supply-side policies for OxfordAQA International AS and A-level Economics (9640), section 3.2.4.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-in-action-ocr-alevel"
 description: "Study guide to F = ma, weight, contact forces, free-body diagrams, drag and terminal velocity, with worked examples, for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers OCR A Level Physics A (H556), Module 3 Forces and motion, sections 3.2.1 Dynamics and 3.2.2 Motion with non-uniform acceleration. It follows the OCR specification Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. Moments, equilibrium, density and pressure (3.2.3 and 3.2.4) are taught separately.

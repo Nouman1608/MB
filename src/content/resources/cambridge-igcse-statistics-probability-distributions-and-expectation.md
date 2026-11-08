@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "probability-distributions-0479"
 description: "Study guide to Topic 8 of Cambridge IGCSE Statistics 0479: building probability distribution tables, using ΣP(x) = 1, and calculating expectation."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is for **Cambridge IGCSE Statistics (0479)**, aligned to the Cambridge IGCSE Statistics 0479 syllabus for examination in 2027. It covers **Topic 8, Probability distributions**, outcomes 8.1 and 8.2. The syllabus lists no extended-only content for this topic, so everything here is for every candidate. Topic 8 builds directly on Topic 7 (probability, including tree diagrams and the addition and multiplication rules).

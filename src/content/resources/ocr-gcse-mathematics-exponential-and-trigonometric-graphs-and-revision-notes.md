@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "transformations-of-curves-and-their-equations-ocr-gcse-maths"
 description: "Condensed revision notes on exponential graphs, sin, cos and tan, and translating or reflecting curves for OCR GCSE Mathematics J560 Higher tier."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense OCR GCSE (9-1) Mathematics J560 statements 7.01b, 7.01d, 7.01e and 7.03a (specification Version 2.1, August 2026). Everything here is **Higher tier only**; Foundation tier candidates are not assessed on it. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and/). Then try the [practice questions](/resources/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and-practice/), see the [course hub](/boards/ocr/gcse/mathematics/) and tick items off the [checklist](/checklists/ocr/gcse/mathematics/). If you are unsure where to start, take a [free 10-minute diagnostic](/diagnostics/).
 

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "water-cambridge-alevel-biology"
 description: "Original 9700 practice questions on hydrogen bonding in water, solvent action, specific heat capacity and latent heat, with fully worked mark schemes."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

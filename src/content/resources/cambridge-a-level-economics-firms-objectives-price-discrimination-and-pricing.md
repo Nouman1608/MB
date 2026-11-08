@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "differing-objectives-and-policies-of-firms-cambridge-alevel-economics"
 description: "Study guide to firms' objectives, price discrimination, limit and predatory pricing, price leadership and PED and revenue, Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers syllabus section 7.8 (Differing objectives and policies of firms), outcomes 7.8.1 to 7.8.5, in the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 7 is A Level content only, so it is not examined at AS. The syllabus says A Level papers assume AS knowledge, so be ready to use elasticity, costs and revenue from earlier topics.

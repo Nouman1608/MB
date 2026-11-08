@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "orbits-of-planets-and-satellites-oxfordaqa"
 description: "Study guide to gravitational potential, equipotentials, orbital speed and period, satellite energy and geosynchronous orbits for OxfordAQA A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers sections 3.7.3 (Gravitational potential) and 3.7.4 (Orbits of planets and satellites). Section 3.7 is marked International A-level only, so none of it is part of the International AS qualification. Use the [course hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/) to track your progress.

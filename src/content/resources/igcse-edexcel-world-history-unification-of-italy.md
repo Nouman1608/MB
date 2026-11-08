@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "unification-italy-4hi1"
 description: "Study guide to the unification of Italy, 1848–70 for Edexcel International GCSE History 4HI1: 1848, Cavour, the war of 1859, Garibaldi, Venice and Rome."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

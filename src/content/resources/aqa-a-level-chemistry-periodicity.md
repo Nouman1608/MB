@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "periodicity-7405"
 description: "AQA A-Level Chemistry periodicity taught from scratch: s, p, d and f blocks, and Period 3 trends in atomic radius, ionisation energy and melting point."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.2.1 Periodicity** of the AQA AS and A-level Chemistry specification

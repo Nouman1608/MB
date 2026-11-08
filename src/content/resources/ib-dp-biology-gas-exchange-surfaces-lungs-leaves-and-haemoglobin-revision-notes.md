@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b3-1"
 description: "Condensed IB DP Biology B3.1 revision notes on gas exchange: surfaces, lungs, ventilation, lung volumes, leaves, transpiration, stomata and haemoglobin."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section B3.1 (Gas exchange) of the IB *Biology guide*, first assessment 2025. B3.1.1 to B3.1.10 are SL and HL. B3.1.11 to B3.1.13 are **HL only** and are marked. For full explanations use the [study guide](/resources/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin/), and practise with the [practice questions](/resources/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin-practice/). Related: [Theme B revision notes](/resources/ib-dp-biology-theme-b-form-function-revision-notes/). Hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Checklist: [printable checklist](/checklists/ib/ib-dp/biology/). Unsure where to start? Take the [free 10-minute diagnostics](/diagnostics/).

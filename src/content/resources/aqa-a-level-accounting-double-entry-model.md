@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "the-double-entry-model"
 description: "Source documents, books of prime entry, ledger accounts and the recording of adjustments -- the full content of Topic 3 for AQA A-Level Accounting (7127)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 publishedDate: 2026-09-09
 featured: false
 ---

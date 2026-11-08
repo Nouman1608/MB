@@ -9,11 +9,12 @@ syllabusCodes: ["DP Language A: Literature"]
 order: 1
 description: "IB DP Language A: Literature -- condensed recall notes on the assessment structure at SL and HL, papers, weightings, the individual oral and the HL essay."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-26
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the

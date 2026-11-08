@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-particle-model-ocr-gcse"
 description: "Condensed recall notes on atomic models, atom size, density and the states of matter for OCR GCSE (9-1) Physics A Gateway Science J249, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P1.1a to P1.1f of the OCR GCSE (9-1) Physics A (Gateway Science) specification (J249), Version 5.0 (July 2026). All six statements are assessed in both tiers. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-practice/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "calculations-with-ratio-ocr-gcse-maths"
 description: "Condensed exam revision notes for OCR GCSE Mathematics ratio: methods, formulas, a self-test with answers and the places marks are lost (J560)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes condense section 5.01, Calculations with ratio, from the OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026), first assessment 2017. The content is Foundation and Higher: no statement in this unit is Higher tier only. The [study guide](/resources/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and/) has the full explanations and longer worked solutions. Then try the [practice questions](/resources/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and-practice/).
 

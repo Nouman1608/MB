@@ -11,11 +11,12 @@ syllabusSeries: "For first teaching 2019"
 order: 3
 description: "How the five equal papers of OxfordAQA International A-level Physics (9630) work, why Paper 3 covers the whole course, and a worked uncertainty routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 OxfordAQA International A-Level Physics (9630) is modular, with five papers of identical size, each

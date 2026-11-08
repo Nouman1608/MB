@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "approximation-and-estimation-detail-ocr-gcse-maths"
 description: "Original practice questions with worked answers on rounding, estimation, error intervals and bounds for OCR GCSE Mathematics J560, both tiers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

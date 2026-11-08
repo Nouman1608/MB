@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "inventory-management-cambridge-alevel-business"
 description: "Condensed revision notes for 4.2 Inventory management in Cambridge AS & A Level Business 9609, with formulas, a self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These are condensed notes for section 4.2 Inventory management (4.2.1 and 4.2.2) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is an AS Level topic. For explanations and worked examples, use the [study guide](/resources/cambridge-a-level-business-inventory-management/). Then test yourself with the [practice questions](/resources/cambridge-a-level-business-inventory-management-practice/). Other Topic 4 questions are in the [operations management practice set](/resources/a-level-business-operations-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

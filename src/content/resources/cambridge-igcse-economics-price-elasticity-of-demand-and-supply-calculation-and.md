@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-elasticity-of-supply-cambridge-igcse-economics"
 description: "Study guide to defining, calculating and applying price elasticity of demand and supply, with worked examples, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches sections 2.7 (price elasticity of demand, PED) and 2.8 (price elasticity of supply, PES) of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. There is no separate tier for this subject, so every candidate studies the same content. The firms, markets, countries and figures below are fictional, and none of them is a real statistic.

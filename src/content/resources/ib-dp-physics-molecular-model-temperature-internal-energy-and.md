@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-1"
 description: "Study guide to the molecular model, density, temperature scales, internal energy, specific heat capacity and latent heat for IB DP Physics B.1."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers the first half of topic B.1 (Thermal energy transfers) in the theme on the particulate nature of matter. It applies to Standard Level and Higher Level alike; B.1 contains nothing marked as additional higher level. The second half of B.1 (conduction, convection and thermal radiation) is taught separately.

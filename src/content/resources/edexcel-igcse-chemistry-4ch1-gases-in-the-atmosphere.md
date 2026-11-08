@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "gases-in-the-atmosphere-4ch1"
 description: "Study guide for Edexcel IGCSE Chemistry 4CH1 points 2.9-2.14: composition of air, the oxygen-in-air practical, combustion, carbonates and CO2."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches sub-topic 2(c), Gases in the atmosphere, of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). It covers specification points 2.9–2.14, including the required practical 2.14. The qualification is untiered, and none of these six points carries a "C" reference, so all of them can be examined on Paper 1 and Paper 2. One calculation step below uses molar volume, which comes from point 1.35C in Topic 1; that step is labelled **Paper 2 only**.

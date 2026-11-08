@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebra-and-functions-ocr-alevel-maths"
 description: "Study guide to modulus equations, functions, composites, inverses and graph transformations for OCR A Level Mathematics A (H240), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers the modulus function and its graph (1.02l, 1.02s), functions, inverses and composites (1.02u, 1.02v) and graph transformations (1.02w, 1.02x). The specification lists Pure Mathematics content in each of its three components. Stage 1 content is common with AS (H230); Stage 2 content is A Level only, and each section below says which applies.
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-challenges-of-size-ocr-gcse-biology"
 description: "Twelve original practice questions with worked, marked answers on OCR GCSE Biology A (J247) plant transport: root hairs, transpiration, phloem, potometers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "numerical-methods-ocr-alevel-maths"
 description: "Study guide to locating roots, iterative methods, cobweb and staircase diagrams, Newton-Raphson and the trapezium rule for OCR A Level Mathematics A."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide follows the OCR A Level Mathematics A specification (H240, Version 3.1, August 2026, for first assessment in 2018). It covers section 1.09, Numerical Methods, parts a to g. The whole of 1.09 sits in the Stage 2 column, so it is **A Level only** and is not part of the content shared with AS Level. Pure Mathematics content appears across all three assessed papers.
 

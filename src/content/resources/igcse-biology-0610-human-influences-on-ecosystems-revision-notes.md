@@ -27,11 +27,12 @@ syllabusTopics:
     subtopic: "conservation-cambridge-igcse-biology"
 description: "Condensed revision notes for 0610 Human influences on ecosystems: food supply, deforestation, pollution, eutrophication steps, conservation and self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense topic 20, Human influences on ecosystems, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028 (sections 20.1 to 20.4) for your final weeks of revision. Supplement content is marked **Extended only**; Core candidates (Papers 1 and 3) can skip it, while Extended candidates (Papers 2 and 4) need all of it. For full explanations and worked examples, use the [Human influences on ecosystems study guide](/resources/igcse-biology-0610-human-influences-on-ecosystems/).

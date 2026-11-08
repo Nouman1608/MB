@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "human-nutrition"
 description: "Study guide for Cambridge O Level Biology 5090 human nutrition: diet, deficiency diseases, teeth, digestive enzymes, bile, villi and absorption."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches Topic 8, Human nutrition, for Cambridge O Level Biology 5090. It follows the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 8.1 Diet, 8.2 Human digestive system and 8.3 Absorption and assimilation. The syllabus is not tiered: every candidate studies all of this content.

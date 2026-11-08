@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-binomial-and-poisson-distributions-edexcel-alevel-maths"
 description: "Eleven original questions with worked answers on binomial and Poisson models, mean and variance and the Poisson approximation, for Edexcel IAL Unit S2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

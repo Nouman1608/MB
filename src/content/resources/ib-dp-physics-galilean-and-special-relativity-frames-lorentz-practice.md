@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-5"
 description: "Original practice questions with worked answers for IB DP Physics A.5 (HL only): Lorentz transformations, dilation, contraction and space-time diagrams."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

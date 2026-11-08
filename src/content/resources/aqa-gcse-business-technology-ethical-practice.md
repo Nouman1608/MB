@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "technology-aqa-gcse-business"
 description: "Original practice questions with worked answers on e-commerce, digital communication and ethics and environment trade-offs for AQA GCSE Business (8132)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-04
 featured: false
 ---

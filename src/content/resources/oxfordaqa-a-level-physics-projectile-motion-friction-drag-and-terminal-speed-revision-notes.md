@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "projectile-motion-oxfordaqa"
 description: "Condensed recall notes on projectiles, friction, lift, drag and terminal speed with a self-test, for OxfordAQA International AS and A-level Physics 9630."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense section 3.2.4 (Projectile motion) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4. It is shared International AS and A-level content. For full explanations and longer worked examples read the [study guide](/resources/oxfordaqa-a-level-physics-projectile-motion-friction-drag-and-terminal-speed/), then try the [practice questions](/resources/oxfordaqa-a-level-physics-projectile-motion-friction-drag-and-terminal-speed-practice/). The course page is [OxfordAQA A-level Physics](/boards/oxfordaqa/a-level/physics/), the [checklist](/checklists/oxfordaqa/a-level/physics/) lets you tick off outcomes, and the [free 10-minute diagnostics](/diagnostics/) show where to focus. The equations come from [motion along a straight line and Newton's laws](/resources/a-level-oxfordaqa-physics-motion-and-newtons-laws/), with [practice on those equations](/resources/oxfordaqa-a-level-physics-motion-newtons-laws-practice/).

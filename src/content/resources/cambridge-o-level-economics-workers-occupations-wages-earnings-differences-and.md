@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "workers"
 description: "Study guide to occupation choice, wage setting, earnings differences and division of labour for Cambridge O Level Economics 2281, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.3 (Workers) of the Cambridge O Level Economics 2281 syllabus for examination in 2026: 3.3.1 choice of occupation, 3.3.2 wage determination, 3.3.3 reasons for differences in earnings and 3.3.4 division of labour and specialisation. The syllabus is not tiered. Every country, firm and figure below is invented for practice. Check your progress with the [revision notes](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and-revision-notes/) and the [practice questions](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and-practice/), then try a [free diagnostic](/diagnostics/). The course [hub](/boards/cambridge/o-level/economics/) and [printable checklist](/checklists/cambridge/o-level/economics/) show the rest of the syllabus, and the [Topic 3 overview](/resources/o-level-economics-microeconomic-decision-makers/) puts workers alongside banks, households, unions and firms. Demand and supply are explained in [the allocation of resources](/resources/o-level-economics-the-allocation-of-resources/).

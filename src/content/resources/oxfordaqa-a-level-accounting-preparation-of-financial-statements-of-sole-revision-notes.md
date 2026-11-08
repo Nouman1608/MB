@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "preparation-of-financial-statements-of-sole-traders-oxfordaqa"
 description: "Condensed revision notes on sole trader adjustments, layouts and double entries, with a checked self-test, for OxfordAQA International AS Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.1.6, Preparation of financial statements of sole traders, of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It is International AS content, listed in the specification among the sections assessed in Paper 1: Introduction to Financial Accounting. For full explanations and worked statements, use the [study guide](/resources/oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole/). All figures are in dollars.

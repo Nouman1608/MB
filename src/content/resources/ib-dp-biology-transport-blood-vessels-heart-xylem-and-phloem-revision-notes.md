@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b3-2"
 description: "Condensed revision notes for IB DP Biology B3.2 Transport: vessels, heart, tissue fluid, xylem, phloem, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense IB Diploma Programme Biology section B3.2 (Transport) from the IB *Biology guide*, first assessment 2025. Statements B3.2.1 to B3.2.10 are SL and HL. Statements B3.2.11 to B3.2.18 are additional higher level, so they are **HL only**.

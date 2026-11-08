@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "unit-3-prose-yet01"
 description: "Quick-recall notes for Edexcel IAL English Literature (YET01) Unit 3: the unseen post-1900 poem, the comparative prose essay, themes, set texts and AOs."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Unit 3 (WET03) of Pearson Edexcel International Advanced Level English Literature (YET01) is a two-hour,

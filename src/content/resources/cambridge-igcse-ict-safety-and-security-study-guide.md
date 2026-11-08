@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "security-of-data-0417"
 description: "Cambridge IGCSE ICT 0417 Topic 8 study guide: physical safety hazards, data protection principles, eSafety, threats to data and the protection methods named."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 8 of Cambridge IGCSE ICT 0417 covers three related but different ideas. **Physical safety** (8.1) is about keeping people safe from the equipment. **eSafety** (8.2) is about protecting personal data and keeping people safe when they use the internet, email, social media and online games. **Security of data** (8.3) is about the threats to data and the methods that protect it. A common cause of lost marks is blending these together, so keep the three headings separate in your revision.

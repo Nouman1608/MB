@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a3-1"
 description: "Twelve original IB DP Biology A3.1 practice questions with worked answers on species, binomials, karyograms, genomes and sequencing, plus HL-only items."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

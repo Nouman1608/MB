@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-of-ammonia-and-sulfuric-acid-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) notes on equilibrium shifts, Haber process conditions, fertilizers and the contact process, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense sections 3.8.2 Factors affecting equilibrium and 3.8.3 Production of ammonia and sulfuric acid of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements 3.8.2 a to e and 3.8.3 a to d; neither section has a required practical. The qualification is untiered, so every point is for every candidate. For full explanations and worked examples, use the [study guide for this unit](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid/).

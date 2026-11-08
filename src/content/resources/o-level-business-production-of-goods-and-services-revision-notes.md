@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "production-of-goods-and-services"
 description: "Revision notes on production, productivity, inventories, lean production, job, batch and flow methods and technology for Cambridge O Level Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.1, Production of goods and services, from the Cambridge O Level Business Studies 7115 syllabus for examination in 2026 (Topic 4, Operations management). They cover points 4.1.1, 4.1.2 and 4.1.3. For full explanations and worked examples, read the [study guide](/resources/o-level-business-production-of-goods-and-services/) first, then test yourself on the [practice set](/resources/o-level-business-production-of-goods-and-services-practice/). The earlier [operations management practice page](/resources/o-level-business-operations-management-practice/) covers location and break-even. See the course [hub](/boards/cambridge/o-level/business/), the [checklist](/checklists/cambridge/o-level/business/) and the free [10-minute diagnostics](/diagnostics/).

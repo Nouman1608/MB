@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "age-and-family-life-9699"
 description: "Original Cambridge 9699 Paper 2 style questions on childhood, grandparents, class and children, and changing motherhood and fatherhood, with mark guidance."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

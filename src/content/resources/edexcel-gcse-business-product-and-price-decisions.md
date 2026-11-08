@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "price-1bs0"
 description: "Study guide to product and price decisions for Pearson Edexcel GCSE Business, Theme 2 topic 2.2: design mix, life cycle, differentiation and pricing."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2: Building a business, topic 2.2 Making marketing decisions, content items 2.2.1 Product and 2.2.2 Price. The specification has two written papers, Theme 1 (1BS0/01) and Theme 2 (1BS0/02), each 1 hour 45 minutes, 90 marks and 50% of the qualification. Calculators may be used. Formulae are listed in the specification (Appendix 3) and are not provided in the examinations.

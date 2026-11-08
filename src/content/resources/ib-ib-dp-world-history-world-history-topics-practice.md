@@ -50,9 +50,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-12"
 description: "Twelve original IB DP History Paper 2-style essay questions, one per world history topic, with indicative content and the 15-mark markbands, 2017 syllabus."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the indicative content against the IB History guide (first assessment 2017) and a recent Paper 2 markscheme before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the indicative content against the IB History guide (first assessment 2017) and a recent Paper 2 markscheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

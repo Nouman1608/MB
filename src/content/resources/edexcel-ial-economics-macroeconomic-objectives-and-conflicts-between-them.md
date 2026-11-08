@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-and-policies-edexcel-alevel-economics"
 description: "Study guide to the six macroeconomic objectives and the conflicts between them, with worked examples, for Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It covers sub-topic 2.3.6, items 1 and 2: the macroeconomic objectives (a to f) and the possible conflicts between them (a to d). The specification labels Units 1 and 2 as the International AS (IAS) content and Units 3 and 4 as the extra International A2 (IA2) content. This material sits in Unit 2, an IAS compulsory unit, and is also part of the full International Advanced Level. Supply-side and demand-side policies (items 3 and 4 of 2.3.6) are taught elsewhere. Every country and number below is invented for illustration.

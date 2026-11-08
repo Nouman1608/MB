@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-2"
 description: "Condensed HL revision notes for IB DP Physics D.2 on electric potential energy, potential, gradient, work done and equipotentials, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense the additional higher level (AHL) part of sub-topic D.2, Electric and magnetic fields, from the IB *Physics guide* (first assessment 2025). All of it is HL only. Read the [study guide](/resources/ib-dp-physics-electric-potential-energy-potential-and-equipotentials/); to test yourself, use the [practice questions](/resources/ib-dp-physics-electric-potential-energy-potential-and-equipotentials-practice/). Check what you already know with the [free 10-minute diagnostics](/diagnostics/).

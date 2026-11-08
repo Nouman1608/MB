@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "pressure"
 description: "Pressure as force per unit area, atmospheric pressure and the liquid barometer, and pressure beneath a liquid surface, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 ---
 
 This guide covers subtopic **1.8 Pressure**, from Topic 1, Motion, forces

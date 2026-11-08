@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "transport-and-telecommunications-0448"
 description: "Study guide to Sections 6 and 7 of Cambridge IGCSE Pakistan Studies 0448 Paper 2: exports, imports, trading partners, roads, rail, ports and telecoms."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Trade (Section 6) and Transport and telecommunications (Section 7) are the two linked sections of

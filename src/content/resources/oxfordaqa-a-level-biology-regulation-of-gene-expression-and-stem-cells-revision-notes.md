@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on epigenetics, cancer genes, miRNA, siRNA and stem cell potency for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 3.4.9 of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1 (Unit 4, Control): 3.4.9.1 epigenetics and cancer genes, 3.4.9.2 RNA interference and 3.4.9.3 stem cells. For full explanations and worked examples use the [study guide](/resources/oxfordaqa-a-level-biology-regulation-of-gene-expression-and-stem-cells/), then try the [practice questions](/resources/oxfordaqa-a-level-biology-regulation-of-gene-expression-and-stem-cells-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/biology/), [checklist](/checklists/oxfordaqa/a-level/biology/) and [free diagnostics](/diagnostics/).

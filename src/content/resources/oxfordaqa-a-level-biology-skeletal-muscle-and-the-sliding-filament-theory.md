@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Study guide to skeletal muscle for OxfordAQA International A-level Biology 9610 section 3.4.4: sarcomeres, cross-bridges, ATP and fibre types."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches section 3.4.4, skeletal muscles as effectors, from the OxfordAQA International AS and A-level Biology specification (9610, Version 5.1, International A-level exams May/June 2018 onwards). Its two parts are 3.4.4.1, the sliding filament theory of muscle contraction, and 3.4.4.2, muscles as effectors. The specification places Unit 4, Control, in the International A-level only group. Condensed recall is in the [revision notes](/resources/oxfordaqa-a-level-biology-skeletal-muscle-and-the-sliding-filament-theory-revision-notes/) and questions with worked answers are in the [practice set](/resources/oxfordaqa-a-level-biology-skeletal-muscle-and-the-sliding-filament-theory-practice/). See also the [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/), the [printable checklist](/checklists/oxfordaqa/a-level/biology/), the [exam preparation page](/resources/oxfordaqa-a-level-biology-exam-preparation/) and the [free 10-minute diagnostics](/diagnostics/).

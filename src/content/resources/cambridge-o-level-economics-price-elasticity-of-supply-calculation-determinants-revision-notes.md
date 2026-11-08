@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "price-elasticity-of-supply-pes"
 description: "Condensed recall notes and a self-test on price elasticity of supply for Cambridge O Level Economics (2281), section 2.8."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.8 (2.8.1 to 2.8.4, price elasticity of supply, PES) of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. There are no tiers here. For full explanations use the [study guide](/resources/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants/), then work through the [practice questions](/resources/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants-practice/). Also useful: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/). All figures below are invented and illustrative.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "electrode-potentials-and-electrochemical-cells-7405"
 description: "Condensed AQA A-Level Chemistry 7405 notes on electrode potentials: cell notation, EMF, feasibility, lithium and fuel cells, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells/). These notes condense section 3.1.11, Electrode potentials and electrochemical cells, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole section is marked "A-level only" and is not AS content. It is listed under A-level Paper 1, and Paper 3 can assess any content. Required practical 8 belongs here.

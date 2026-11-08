@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-3-1-1"
 description: "Condensed revision notes for OCR A Level Chemistry A 3.1.1 Periodicity, with method steps, key distinctions, trend tables and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.1.1, Periodicity, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover learning outcomes 3.1.1(a) to (g) in Module 3, Periodic table and energy. H432 is a full A level; the specification names components 01 and 03 as the papers that examine Module 3. The [Periodicity study guide](/resources/ocr-a-level-chemistry-periodicity/) holds the longer explanations and every worked example.

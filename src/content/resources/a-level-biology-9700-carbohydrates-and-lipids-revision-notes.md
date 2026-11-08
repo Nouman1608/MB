@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "carbohydrates-and-lipids-cambridge-alevel-biology"
 description: "Condensed recall notes for 9700 section 2.2: glucose rings, sugars, condensation, hydrolysis, polysaccharides and lipids, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 New to this content? Start with the [Carbohydrates and lipids study guide](/resources/a-level-biology-9700-carbohydrates-and-lipids/), which explains everything here in full with worked examples.

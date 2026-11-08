@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "other-receivables-and-other-payables-4ac1-eop"
 description: "Condensed Edexcel IGCSE Accounting 4AC1 notes on depreciation, disposals, irrecoverable debts, provisions, accruals and prepayments, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense Topic 5, sections 5.2 Depreciation, 5.3 Irrecoverable debts and 5.4 Other receivables and other payables, of the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The specification marks none of these points as tier-specific. For fuller explanations and ledgers, see the [study guide](/resources/edexcel-igcse-accounting-end-of-period-adjustments/).

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "the-periodic-table-4ch1"
 description: "Condensed 4CH1 revision notes on atoms, isotopes, Ar from abundances, shell configurations, groups, periods and metal or non-metal tests, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense sub-topics 1(c) Atomic structure and 1(d) The Periodic Table (points 1.14–1.24) of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). The qualification is untiered and none of these points has a "C" reference, so everything here can appear on Paper 1 and Paper 2. For full explanations and worked examples, use the [atomic structure and Periodic Table study guide](/resources/edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table/).

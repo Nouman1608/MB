@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "acids-and-bases-7405"
 description: "AQA A-Level Chemistry acids and bases from scratch: Brønsted–Lowry acids, pH, Kw, Ka and pKa, pH curves, indicators, buffers and Required practical 9."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.1.12 Acids and bases** of the AQA AS and A-level Chemistry specification

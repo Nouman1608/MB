@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "chromatography-7405"
 description: "AQA A-Level Chemistry study guide to chromatography: TLC, column and gas chromatography, Rf values, retention times, GC-MS and Required practical 12."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.3.16 Chromatography** of the AQA AS and A-level Chemistry specification

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "plane-vector-geometry-ocr-gcse-maths"
 description: "Condensed revision notes on reflections, rotations, translations, combined transformations and vectors for OCR GCSE Mathematics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 9.01a to 9.01d and 9.03a and 9.03b of the OCR GCSE (9-1) Mathematics specification, Version 2.1 (August 2026). For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-isometric-transformations-and-vectors/). Section 9.01d (combinations) and the proof part of 9.03a are **Higher tier only**; everything else is for both tiers.

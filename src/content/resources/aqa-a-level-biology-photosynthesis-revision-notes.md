@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "photosynthesis-aqa-alevel-biology"
 description: "Condensed revision notes on photosynthesis for AQA A-level Biology 7402: light reactions, Calvin cycle, limiting factors and required practicals 7 and 8."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 3.5.1 (Photosynthesis) of the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, including required practicals 7 and 8. Section 3.5 is A-level only. For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-biology-photosynthesis/). Then try the [practice questions](/resources/aqa-a-level-biology-photosynthesis-practice/). See also the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), the [printable checklist](/checklists/aqa/a-level/biology/), the [free diagnostics](/diagnostics/) and the [exam preparation page](/resources/aqa-a-level-biology-exam-preparation/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "AQA A-level Economics study guide to central banks and monetary policy: the MPC, bank rate, transmission, exchange rates, QE, Funding for Lending."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers central banks and monetary policy for AQA A-level Economics (7136), using the AQA AS and A-level Economics specification, version 1.3. It teaches the content point headed "Central banks and monetary policy" in the national and international economy section. The specification PDF prints it as 4.2.4.3; the AQA website and our site map number it 3.2.4.3. The specification does not mark any of this as AS-only or A-level-only in that section. All figures below are invented and illustrative, set in "Country A".
 

@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "foundations-in-biology-ocr-alevel-biology"
 description: "Cell structure, biological molecules, and nucleotides and nucleic acids -- the opening content of Module 2 for OCR A Level Biology A (H420), Version 4.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers the opening content of **Module 2: Foundations in

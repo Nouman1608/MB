@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "nucleotides-and-nucleic-acids-ocr-alevel-biology"
 description: "Condensed revision notes on nucleotides, ATP, DNA structure, the DNA purification practical and semi-conservative replication for OCR A Level Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed recall for OCR *A Level Biology A* (H420, Version 4.1, April 2026), section 2.1.3(a) to (e). For full explanations and worked examples use the [study guide](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-practice/). Course pages: [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/). If you are unsure where to start, take a [free diagnostic](/diagnostics/). The genetic code, transcription and translation (2.1.3(f) and (g)) are not covered here.

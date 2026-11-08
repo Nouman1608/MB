@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "government-failure-ocr-aslevel-economics"
 description: "Condensed OCR A Level Economics revision notes on intervention methods, Cost Benefit Analysis and government failure, with a self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the OCR A Level Economics (H460) topics "Alternative methods of government intervention" and "Government failure" (Version 3.0, June 2026, first assessment 2021). Read the [full study guide](/resources/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and/) for the explanations, then test yourself with the [practice questions](/resources/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and-practice/). Other links: [OCR economics hub](/boards/ocr/a-level/economics/), [printable checklist](/checklists/ocr/a-level/economics/) and [free 10-minute diagnostics](/diagnostics/). All figures below are invented.

@@ -34,8 +34,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-2-5-6"
 description: "Condensed OxfordAQA 9620 notes on transition metals: key terms, ligand swaps, shapes, ΔE = hc/λ, vanadium, titration steps and catalysts, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Section 3.2.5, Transition metals, is condensed here from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3 (exams from May/June 2020). This page covers 3.2.5.1 to 3.2.5.6. The whole section sits in International A2, so it is **International A-level only**. Full teaching and worked examples are in the [study guide](/resources/oxfordaqa-a-level-chemistry-transition-metals/); start there.

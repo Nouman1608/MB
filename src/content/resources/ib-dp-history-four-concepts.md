@@ -11,9 +11,10 @@ syllabusSeries: "First assessment 2017"
 order: 2
 description: "The six key concepts of IB DP History (first assessed 2017): change, continuity, causation, consequence, significance and perspectives in exam answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten from the 2028 four-concept framing to the six key concepts of the current course (first assessment 2017) per owner decision; slug kept; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: rewritten from the 2028 four-concept framing to the six key concepts of the current course (first assessment 2017) per owner decision; slug kept; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-06
 featured: false
 ---

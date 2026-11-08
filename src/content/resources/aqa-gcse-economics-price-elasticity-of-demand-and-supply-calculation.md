@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-prices-are-determined-aqa-gcse-economics"
 description: "Study guide to price elasticity of demand and supply for AQA GCSE Economics (8136): formulas, factors, worked calculations and implications."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA GCSE Economics (8136) specification, first taught from September 2017. It covers **3.1.3.5 Price elasticity of demand** and **3.1.3.6 Price elasticity of supply**, both part of Paper 1, How markets work. The specification has no tiers, so everything here is common content. Every firm, place and number below is invented for practice.

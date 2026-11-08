@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "corporate-house-style-t14-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 14: creating, modifying and applying styles for font, alignment, spacing and bullets, and house style."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 A style is a named set of formatting — font, size, colour, alignment, enhancement, spacing and bullets — that is saved once and applied to text so every similar item looks the same. Cambridge IGCSE ICT 0417 Topic 14 expects you to create, modify, update and apply styles to ensure consistency, and to explain the purpose and uses of a corporate house style. Styles are tested practically in Papers 2 and 3 and the house style idea can appear in Paper 1.

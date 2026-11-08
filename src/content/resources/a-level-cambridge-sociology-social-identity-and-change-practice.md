@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "social-identity-and-change-9699"
 description: "Original Cambridge 9699 Paper 1 style questions on class, gender, ethnic and age identity and the impact of globalisation and hybridity, with mark guidance."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

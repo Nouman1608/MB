@@ -29,8 +29,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-2-5"
 description: "Twelve original OxfordAQA 9620 amount of substance questions with worked answers: moles, pV = nRT, formulae, equations, yield and atom economy."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "nationhood-1947-99-0448"
 description: "Study guide to Section 3 of Cambridge IGCSE Pakistan Studies 0448 Paper 1: early problems, governments to 1999, Bangladesh 1971 and foreign relations."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Nationhood, 1947–99 is Section 3 of Paper 1 in Cambridge IGCSE Pakistan Studies 0448.** It

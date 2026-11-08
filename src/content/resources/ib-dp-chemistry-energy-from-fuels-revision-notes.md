@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-1-3"
 description: "Condensed revision notes for IB DP Chemistry Reactivity 1.3 Energy from fuels, with equation methods, fuel comparisons and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense **Reactivity 1.3, Energy from fuels** (understandings 1.3.1 to 1.3.5) from the IB *Chemistry guide* for the Diploma Programme (first assessment 2025). Nothing in Reactivity 1.3 is marked additional higher level, so all of it applies at **SL and HL**. The [study guide](/resources/ib-dp-chemistry-energy-from-fuels/) has the full teaching and worked examples.

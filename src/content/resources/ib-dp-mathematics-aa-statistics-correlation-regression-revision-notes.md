@@ -28,11 +28,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-10"
 description: "Revision notes for IB DP Maths AA SL and HL statistics: sampling, outliers, box plots, mean and standard deviation, r and both regression lines."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 These are condensed revision notes. For full explanations and longer worked examples, read the [statistics study guide](/resources/ib-dp-mathematics-aa-statistics-correlation-regression/) first.

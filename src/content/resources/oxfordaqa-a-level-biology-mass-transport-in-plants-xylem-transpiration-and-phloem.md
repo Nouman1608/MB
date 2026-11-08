@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "mass-transport-systems-in-plants-oxfordaqa-alevel-biology"
 description: "Study guide to root structure, water pathways, root pressure, transpiration, mass flow and the potometer for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide is aligned to the *OxfordAQA International AS and A-level Biology (9610)* specification, Version 5.1, section 3.2.8 (mass transport systems in plants), covering 3.2.8.1 (xylem) and 3.2.8.2 (phloem). It sits in Unit 2, Biological systems and disease, which the specification lists as part of both the International AS and the International A-level. It includes Required practical 6, the simple potometer.

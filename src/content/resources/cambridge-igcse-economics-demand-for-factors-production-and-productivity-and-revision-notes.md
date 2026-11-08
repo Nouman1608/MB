@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-structure-cambridge-igcse-economics"
 description: "Condensed revision notes on factor demand, labour- and capital-intensive production, productivity, competition and monopoly for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.6 (Firms and production) and 3.8 (Market structure) of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2. The subject is not tiered. Fuller explanations are in the [study guide](/resources/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and/), and you can test yourself with the [practice questions](/resources/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/), the [microeconomic decision makers overview](/resources/cambridge-igcse-economics-microeconomic-decision-makers/) and the [free diagnostics](/diagnostics/). All figures are invented.

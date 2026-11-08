@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "intermolecular-forces-ych11"
 description: "Condensed notes and a quick self-test on intermolecular forces, hydrogen bonding and solvents for Edexcel International A Level Chemistry Unit 2."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Start with the [intermolecular forces study guide](/resources/edexcel-ial-chemistry-intermolecular-forces/) if

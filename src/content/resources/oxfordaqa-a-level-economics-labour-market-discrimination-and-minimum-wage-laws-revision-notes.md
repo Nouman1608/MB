@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-labour-market-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on wage discrimination and the national minimum wage, with formulas and a self-test, for OxfordAQA International Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense sections 3.3.4.5 (discrimination in the labour market) and 3.3.4.6 (minimum wage laws) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. Section 3.3 is extra International A2 content. Quantitative skills from section 3.5 appear throughout. For full explanations read the [study guide](/resources/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws-practice/). The [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/), the [printable checklist](/checklists/oxfordaqa/a-level/economics/) and the [free diagnostics](/diagnostics/) are also useful. All figures are invented.
 

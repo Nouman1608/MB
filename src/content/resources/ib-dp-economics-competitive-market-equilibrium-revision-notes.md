@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-3"
 description: "Condensed revision notes for IB Diploma Programme Economics sub-topic 2.3: equilibrium, the price mechanism, surplus, efficiency and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sub-topic 2.3, competitive market equilibrium, of Unit 2 (Microeconomics) for SL and HL. They follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020) and are written for the course examined from the 2022 session onwards. One calculation is **HL only** and is marked. Each idea is explained in full in the [study guide](/resources/ib-dp-economics-competitive-market-equilibrium/). Then test yourself with the [practice questions](/resources/ib-dp-economics-competitive-market-equilibrium-practice/).

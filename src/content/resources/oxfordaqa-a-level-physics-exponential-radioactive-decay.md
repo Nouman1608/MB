@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "exponential-changes-in-radioactivity-oxfordaqa"
 description: "Study guide to random decay, the decay constant, N = N₀e^(−λt), activity, half-life, molar mass and log graphs for OxfordAQA International A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches section 3.9.2 (Exponential changes in radioactivity) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams from May/June 2020 onwards. Section 3.9 is marked International A-level only. Section 3.3.3 adds that use of the exponential decay equations is needed at International A2 only, so none of this is needed for the International AS qualification.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "accounting-concepts-used-in-the-preparation-of-accounting-records-oxfordaqa"
 description: "Condensed revision notes on the ten accounting concepts in OxfordAQA 9615 section 3.1.5, with method steps, a concept map and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section **3.1.5 Accounting concepts used in the preparation of accounting records** of

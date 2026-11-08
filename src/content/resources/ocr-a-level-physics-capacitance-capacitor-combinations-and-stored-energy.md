@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "capacitors-ocr-alevel"
 description: "Study guide to capacitance, series and parallel capacitors, circuits with resistors and stored energy for OCR A Level Physics A (H556), with examples"
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is aligned to the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. It covers Module 6 sections 6.1.1(a)-(e) and 6.1.2(a)-(c): capacitance, charge flow, capacitors in series and parallel, simple circuits and the energy stored. How the p.d. and charge change with time through a resistor is taught separately, so it is not repeated here.

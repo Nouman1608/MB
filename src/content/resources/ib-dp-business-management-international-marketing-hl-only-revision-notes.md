@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-4-6"
 description: "Condensed revision notes for IB DP Business Management 4.6 (HL only): international opportunities, threats, adaptation, key calculations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.6, International marketing (HL only), of the IB *Business management guide* (first assessment 2024). For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-international-marketing-hl-only/) first. Then test yourself with the [practice questions](/resources/ib-dp-business-management-international-marketing-hl-only-practice/).

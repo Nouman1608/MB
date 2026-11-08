@@ -41,11 +41,12 @@ syllabusTopics:
     subtopic: "kq-6-3-0495"
 description: "Cambridge IGCSE Sociology (0495) Paper 2 guide, 2025-2027: family structures and perspectives, education, and crime, deviance and social control."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the hidden curriculum most often; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the hidden curriculum most often; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers **Paper 2 Family, Education and Crime**, for

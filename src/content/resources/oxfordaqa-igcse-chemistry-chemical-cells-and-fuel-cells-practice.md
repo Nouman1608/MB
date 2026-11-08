@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "chemical-cells-and-fuel-cells-9202"
 description: "Original OxfordAQA IGCSE Chemistry (9202) questions on chemical cells and hydrogen fuel cells, with data evaluations and fully worked, marked answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

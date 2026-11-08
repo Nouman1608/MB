@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-differentiation-oxfordaqa-alevel-maths"
 description: "Condensed revision notes for OxfordAQA 9660 P2.6: standard derivatives, product, quotient and chain rules, dy/dx = 1/(dx/dy) and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense the first part of specification section P2.6 (Differentiation) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification states that this content is part of International A-level (A2) Unit P2 (Pure Maths) and is not examined at International AS. For full explanations and fully worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-differentiating-exponentials-logarithms-trigonometric/). When you are ready to test yourself, use the [practice questions](/resources/oxfordaqa-a-level-mathematics-differentiating-exponentials-logarithms-trigonometric-practice/). Related pages are the [P1 differentiation notes](/resources/oxfordaqa-a-level-mathematics-differentiation-gradients-tangents-normals-and-revision-notes/), the [course hub](/boards/oxfordaqa/a-level/mathematics/) and the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/). To find your weak spots, try the [free diagnostics](/diagnostics/).

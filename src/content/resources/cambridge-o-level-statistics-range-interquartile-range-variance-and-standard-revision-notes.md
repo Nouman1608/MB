@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "measures-of-dispersion-4040"
 description: "Revision notes on range, IQR, variance and standard deviation, with formulas, method steps and a self-test, for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes are for Cambridge O Level Statistics (4040), aligned to the syllabus for examination in 2025, 2026 and 2027. They cover section 5.2: range, interquartile range, variance and standard deviation, from a set of numbers, an ungrouped frequency distribution and a grouped frequency distribution, plus interpretation and comparison of spread. For the reasoning and longer worked examples, read the [study guide](/resources/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard/). For questions, use the [practice set](/resources/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard-practice/).

@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-chemistry-reactivity-3"
 description: "Condensed IB DP Chemistry Reactivity 3 revision notes on proton transfer, electron transfer, radical and electron-pair sharing reactions, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-02
 featured: false
 ---

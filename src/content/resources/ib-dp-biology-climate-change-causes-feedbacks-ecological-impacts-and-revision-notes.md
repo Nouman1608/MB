@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d4-3"
 description: "Condensed revision notes for IB DP Biology D4.3 climate change: feedback loops, tipping points, habitat change, reefs, sequestration and HL phenology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense IB Diploma Programme Biology section D4.3 (Climate change) from the IB *Biology guide*, first assessment 2025. D4.3.1 to D4.3.8 are SL and HL. D4.3.9 to D4.3.12 are **HL only**. For full explanations see the [study guide](/resources/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and/), then test yourself with the [practice questions](/resources/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and-practice/). Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [checklist](/checklists/ib/ib-dp/biology/) and [free diagnostics](/diagnostics/).

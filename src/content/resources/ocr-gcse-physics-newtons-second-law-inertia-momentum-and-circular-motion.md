@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "newtons-laws-ocr-gcse"
 description: "Study guide to F = ma, inertia, momentum, collisions and circular motion for OCR GCSE Physics A, with worked examples and a Higher Tier section."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers statements P2.2i, P2.2j, P2.2k, P2.2l and P2.2q of the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), first assessment 2018. They sit in the Newton's laws part of Topic P2 Forces. Statements P2.2j, P2.2k and P2.2q are printed in bold in the specification, so they are Higher Tier only. P2.2i is for both tiers. P2.2l is not printed in bold (it is separate Physics only content), but its force and change in momentum work is treated as Higher Tier only here because it depends on momentum (P2.2k), which is bold.

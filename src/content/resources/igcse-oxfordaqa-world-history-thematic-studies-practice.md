@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "paper-2-section-b-9245"
 description: "Original OxfordAQA 9245 Paper 2 Section B practice: full four-question sets on Technology and change and on Medicine and change, c800-present, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "New specification (first exams 2028, no past papers yet): check against the 9245 Version 1.1 specification, sections 3.2.2 and 4.4.2, before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "New specification (first exams 2028, no past papers yet): check against the 9245 Version 1.1 specification, sections 3.2.2 and 4.4.2, before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

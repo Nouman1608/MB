@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-3-1-1"
 description: "Study guide to OCR A Level Chemistry A 3.1.1 Periodicity: blocks, ionisation energies, metallic and giant covalent lattices, melting point trends."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.1.1, Periodicity, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It opens Module 3, Periodic table and energy, and covers every lettered outcome, 3.1.1(a) to (g), with its additional guidance. H432 is a full A level, not split into AS and A2 here. According to the specification, components 01 (Periodic table, elements and physical chemistry) and 03 (Unified chemistry) examine Module 3. This section has no PAG link.

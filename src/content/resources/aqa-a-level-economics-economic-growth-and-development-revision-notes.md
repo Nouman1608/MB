@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-international-economy-aqa-alevel-economics"
 description: "Condensed revision notes on growth and development for AQA A-level Economics (7136): definitions, HDI, barriers, policies, aid, trade and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the content point "Economic growth and development" in the AQA A-level Economics (7136) specification, version 1.3 (29 June 2022), numbered 3.2.6.5 on the AQA website and 4.2.6.5 in the combined PDF. For full explanations and longer worked examples use the [study guide](/resources/aqa-a-level-economics-economic-growth-and-development/). Test yourself with the [practice set](/resources/aqa-a-level-economics-economic-growth-and-development-practice/), tick off the [printable checklist](/checklists/aqa/a-level/economics/), see the [course hub](/boards/aqa/a-level/economics/) and take a [free diagnostic](/diagnostics/).

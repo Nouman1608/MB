@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "project-appraisal"
 description: "Condensed revision notes for Edexcel IAL Accounting topic 2.6 project appraisal: formulae, decision rules, method steps and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes assume you have worked through the

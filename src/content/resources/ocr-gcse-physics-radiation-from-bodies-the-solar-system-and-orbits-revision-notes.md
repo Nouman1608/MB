@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "beyond-earth-ocr-gcse"
 description: "Condensed OCR GCSE Physics A revision notes on thermal radiation, solar system features, circular orbits and Earth's radiation balance, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P8.3d to P8.3h of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018. P8.3f, P8.3g and P8.3h are in bold in the specification, so they are **Higher Tier only**. P8.3d and P8.3e are for both tiers. All five are separate Physics only content (not in Combined Science). For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits/). Then test yourself with the [practice questions](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-practice/). Planning links: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).

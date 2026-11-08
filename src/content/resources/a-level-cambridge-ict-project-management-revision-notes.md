@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "project-management"
 description: "Condensed revision notes on project management for Cambridge A Level IT 9626: life cycle stages, software types, Gantt, PERT and float."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 For full explanations and worked examples, use the [project management study guide](/resources/a-level-cambridge-ict-project-management/). These notes condense **topic 15, Project management** (sections 15.1–15.3) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is **A Level only** content, and the syllabus states that Paper 3 (Advanced Theory) questions are based on sections 12–21. Calculators are not allowed in Paper 3.

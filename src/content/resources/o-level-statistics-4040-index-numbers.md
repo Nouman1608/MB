@@ -18,8 +18,12 @@ syllabusTopics:
     topic: "index-numbers-0479"
 description: "Price relatives and weighted aggregate index numbers with base-year weights, interpretation and limitations: Cambridge O Level Statistics 4040 and IGCSE 0479."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 This guide covers **index numbers**: Topic 8 of Cambridge O Level Statistics

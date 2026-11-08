@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "cosmology-aqa-alevel"
 description: "Original AQA A-Level Physics 7408 Astrophysics practice questions with fully worked answers, mark points and examiner insights for every question."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

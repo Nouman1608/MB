@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "families-and-households-7192"
 description: "Study guide to AQA A-level Sociology 7192 Families and Households: family and the state, diversity, domestic labour, childhood and demography."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers Families and Households for AQA A-level Sociology (7192), as set out in the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 4.2.2 of the A-level content (the specification-at-a-glance list also shows it as 3.2.2). It is assessed in Paper 2: Topics in Sociology, Section A, where it is one of the four option 1 topics.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-1-2"
 description: "Condensed IB DP Chemistry Reactivity 1.2 notes: bond enthalpy sums, Hess cycles, ΔHf⦵ and ΔHc⦵ methods and Born-Haber cycles, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Reactivity 1.2. The [energy cycles study guide](/resources/ib-dp-chemistry-energy-cycles-in-reactions/) has the full teaching and more worked examples, so read that first if anything here is unfamiliar.

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "solving-equations-and-inequalities-aqa-gcse-maths"
 description: "Original AQA GCSE Maths 8300 practice questions on solving equations and inequalities (A17-A22), Foundation and Higher, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

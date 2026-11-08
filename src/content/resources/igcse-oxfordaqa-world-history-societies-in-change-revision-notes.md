@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "paper-2-section-a-9245"
 description: "Revision notes for OxfordAQA 9245 Paper 2 Section A: who gained and lost in Germany 1919-49, Russia and the USSR 1914-53 and the USA 1920-68, with technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "New specification (first exams 2028): check against the 9245 Version 1.1 specification, section 3.2.1, before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added key terms table."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "New specification (first exams 2028): check against the 9245 Version 1.1 specification, section 3.2.1, before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added key terms table; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

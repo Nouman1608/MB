@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-hypothesis-testing-oxfordaqa-alevel-maths"
 description: "Study guide to z-tests and t-tests for a population mean in OxfordAQA International A-level Mathematics Unit S2, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is aligned to the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the second part of S2.6 (Hypothesis testing): tests for a mean using a z-statistic or a t-statistic. The spec states that this content belongs to International A-level (A2) Unit S2 (Statistics) and is not examined at International AS. Tests for a proportion and for a Poisson mean are separate topics and are not repeated here.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "bank-reconciliation"
 description: "Step-by-step guide to bank statements, updating the cash book and preparing a bank reconciliation statement for Cambridge IGCSE Accounting 0452."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electrical-circuits-ocr-alevel"
 description: "Condensed revision notes on Kirchhoff's laws, internal resistance, lost volts and potential dividers for OCR A Level Physics A (H556) section 4.3."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 Quick recall for section 4.3 (Electrical circuits) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. It covers 4.3.1 series and parallel circuits, 4.3.2 internal resistance and 4.3.3 potential dividers. For full explanations, read the [study guide](/resources/ocr-a-level-physics-series-and-parallel-circuits-internal-resistance-and/), then test yourself with the [practice set](/resources/ocr-a-level-physics-series-and-parallel-circuits-internal-resistance-and-practice/). Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), the [printable checklist](/checklists/ocr/a-level/physics/) and the free [10-minute diagnostics](/diagnostics/).
 

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics: income and wealth, equity, Lorenz curve and Gini coefficient, inequality as cause and effect of market failure."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), first taught from September 2015. It covers the first part of the sub-section The distribution of income and wealth: poverty and inequality, called The distribution of income and wealth (3.1.7.1 on the AQA website, printed as 4.1.7.1 in the combined PDF). Poverty and the policies that redistribute income are separate units and are not repeated here. Every country, household and number below is invented, for illustration only.

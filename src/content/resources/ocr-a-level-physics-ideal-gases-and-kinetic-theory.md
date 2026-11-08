@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "thermal-physics-ocr-alevel"
 description: "OCR A Level Physics A (H556) study guide to section 5.1.4: moles, kinetic theory, pV = nRT, pV = 1/3 Nm<c²>, Boltzmann constant, internal energy."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This study guide follows the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. It covers section 5.1.4 (Ideal gases), statements (a) to (i), all part of the full A level. Temperature scales, the solid-liquid-gas model, specific heat capacity and latent heat are taught in a [separate guide](/resources/ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific/). After this guide use the [revision notes](/resources/ocr-a-level-physics-ideal-gases-and-kinetic-theory-revision-notes/) and the [practice set](/resources/ocr-a-level-physics-ideal-gases-and-kinetic-theory-practice/). The course hub is [OCR A Level Physics](/boards/ocr/a-level/physics/), the printable list is the [checklist](/checklists/ocr/a-level/physics/), and the [free 10-minute diagnostics](/diagnostics/) show which topics need work. The practical skills behind the gas experiments are in [Practical skills](/resources/ocr-a-level-physics-practical-skills-revision-notes/).
 

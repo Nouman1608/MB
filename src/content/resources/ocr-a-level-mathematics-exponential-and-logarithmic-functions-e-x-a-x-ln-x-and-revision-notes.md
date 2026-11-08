@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "exponentials-and-logarithms-ocr-alevel-maths"
 description: "Condensed exam revision notes on a^x, e^x, the gradient of e^kx, log_a x and ln x for OCR A Level Mathematics A (H240), with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These are condensed notes for OCR A Level Mathematics A (H240), based on the OCR specification (Version 3.1, August 2026): content references 1.06a to 1.06e. All of this is Stage 1 content, common to AS Level (H230) and A Level. Laws of logarithms, exponential equations a^x = b, linear form and modelling (1.06f to 1.06i) are separate topics. Full explanations are in the [study guide](/resources/ocr-a-level-mathematics-exponential-and-logarithmic-functions-e-x-a-x-ln-x-and/); test yourself with the [practice set](/resources/ocr-a-level-mathematics-exponential-and-logarithmic-functions-e-x-a-x-ln-x-and-practice/). See also the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).

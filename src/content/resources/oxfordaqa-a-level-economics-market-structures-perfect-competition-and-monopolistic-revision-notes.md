@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on perfect and monopolistic competition for OxfordAQA International A-level Economics, with worked reminders and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense sections 3.3.3.1 to 3.3.3.3 of the OxfordAQA *International AS and A-level Economics* specification (9640), version 1.2. Section 3.3 is the extra International A2 content. The explanations and longer worked examples are in the [study guide](/resources/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/economics/), [checklist](/checklists/oxfordaqa/a-level/economics/) and free [10-minute diagnostics](/diagnostics/). All figures are invented and illustrative.
 

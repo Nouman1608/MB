@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "interpretation-of-accounting-ratios"
 description: "Original practice questions with worked answers on calculating and interpreting accounting ratios, for Cambridge IGCSE Accounting 0452 sections 6.1-6.2."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

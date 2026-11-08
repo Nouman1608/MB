@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "security-of-data-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 8: physical safety hazards, data protection, eSafety, threats such as phishing and how data is protected."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Safety and security in Cambridge IGCSE ICT 0417 (Topic 8) has three separate parts: physical safety around ICT equipment, eSafety when using the internet and personal data, and the security of data against threats such as hacking and phishing. Paper 1 questions usually ask you to name a threat or hazard, explain its effect and give a matching way to prevent it.

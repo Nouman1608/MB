@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "articles-faith-pillars-2058"
 description: "Original Cambridge O Level Islamiyat 2058 Paper 2 practice: set Hadiths, Bukhari and Muslim, Umar's caliphate, fasting and al-qadr, with mark guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-03
 featured: false
 ---

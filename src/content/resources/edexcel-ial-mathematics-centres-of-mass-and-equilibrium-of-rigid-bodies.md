@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "m2-statics-of-rigid-bodies-edexcel-alevel-maths"
 description: "Study guide to centres of mass, laminas in equilibrium, moments, beams and ladders for Pearson Edexcel IAL Maths unit M2, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches sections 2 and 5 of unit M2 (Mechanics 2) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics specification, Issue 3, April 2019: centres of mass (2.1 to 2.3) and statics of rigid bodies (5.1 and 5.2). The specification lists M2 as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics. It assumes the M1 work on moments.

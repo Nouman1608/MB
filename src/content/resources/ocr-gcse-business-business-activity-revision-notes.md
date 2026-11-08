@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "business-activity-ocr-gcse-business"
 description: "Condensed revision notes on OCR GCSE Business section 1: enterprise, planning, ownership, objectives, stakeholders and growth, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for section 1, Business activity, of the OCR GCSE (9-1) Business specification (J204), Version 2.0 (January 2026), topics 1.1 to 1.6, examined in Business 1. For full explanations and worked examples, read the [Business activity study guide](/resources/ocr-gcse-business-business-activity/), then test yourself with the [practice questions](/resources/ocr-gcse-business-business-activity-practice/).

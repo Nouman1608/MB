@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "similarity-ocr-gcse-maths"
 description: "Study guide to similar triangles, enlargements and similar shapes for OCR GCSE (9-1) Mathematics, with worked examples and Higher tier content marked."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide covers similarity and enlargement for the OCR GCSE (9-1) Mathematics specification (J560), Version 2.1 (August 2026). It follows content references 9.04a, 9.04b and 9.04c in content area 9, Congruence and similarity. Most of the unit is for both tiers. Two parts are Higher tier only, and each is labelled "Higher tier only" where it appears. The specification states that content can appear on calculator and non-calculator papers alike, so every method here is set out so that you can do it by hand.
 

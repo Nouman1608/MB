@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "exponentials-and-logarithms-ocr-alevel-maths"
 description: "Original exam-style practice questions with worked answers on a^x, e^x, the gradient of e^kx, log_a x and ln x for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

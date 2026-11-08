@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-e-2"
 description: "Study guide to the photoelectric effect, de Broglie wavelength, particle diffraction and Compton scattering for IB DP Physics HL, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers **sub-topic E.2, Quantum physics**, from Topic E (Nuclear and quantum physics) of the IB Diploma Programme *Physics guide*, first assessment 2025. E.2 is **entirely additional higher level (HL only)**: the guide lists no standard level content, so it is for HL candidates only. Use it with the [revision notes](/resources/ib-dp-physics-photoelectric-effect-matter-waves-and-compton-revision-notes/) and the [practice set](/resources/ib-dp-physics-photoelectric-effect-matter-waves-and-compton-practice/). The course hub is at [/boards/ib/ib-dp/physics/](/boards/ib/ib-dp/physics/) and the printable checklist is at [/checklists/ib/ib-dp/physics/](/checklists/ib/ib-dp/physics/). For the bigger picture see the [DP Physics syllabus guide](/resources/ib-dp-physics-syllabus-guide/) and [exam preparation](/resources/ib-dp-physics-exam-preparation/). To find your weak spots first, try the [free diagnostics](/diagnostics/).

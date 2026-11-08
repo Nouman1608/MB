@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "graphs-of-equations-and-functions-detail-ocr-gcse-maths"
 description: "Study guide to plotting from tables and sketching linear, quadratic, cubic and reciprocal graphs for OCR GCSE Mathematics J560, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). It covers 7.01a (x- and y-coordinates), 7.01b (using a table of values to plot graphs) and 7.01c (recognising and sketching polynomial and reciprocal graphs). Most of it is assessed at both tiers. Solving quadratics with the quadratic formula or by completing the square, and sketching a quadratic with its turning point found by completing the square, are **Higher tier only**. Exponential graphs, straight-line gradient work and circles are covered in other units.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-1-3"
 description: "Condensed notes for IB DP Chemistry Structure 1.3: spectra, 2n², orbitals, filling rules, ions, Cr and Cu, HL ionization energy, plus a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These are recall notes for **Structure 1.3, Electron configurations**, from the IB *Chemistry guide* for the Diploma Programme (published February 2023; first assessment 2025). Understandings 1.3.1 to 1.3.7 are all here. Sections 1.3.1 to 1.3.5 are SL and HL; 1.3.6 and 1.3.7 are additional higher level, so **HL only**. Stuck on a point? Go back to the [study guide](/resources/ib-dp-chemistry-electron-configurations/), which gives the full reasoning and longer examples.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-marketing-mix-cambridge-alevel-business"
 description: "A full study guide to section 3.3 The marketing mix for Cambridge AS & A Level Business 9609: product, portfolio analysis, pricing, promotion and place."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.3 The marketing mix (3.3.1 to 3.3.6) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is AS Level content, which A Level candidates also study and which is assumed knowledge for the A Level papers. The syllabus aims for candidates to be able to recommend a marketing mix that suits a specific business context, so the sections below keep returning to application. All businesses and figures below are invented.

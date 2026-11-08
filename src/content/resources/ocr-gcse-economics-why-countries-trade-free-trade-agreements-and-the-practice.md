@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "balance-of-payments-ocr-gcse-economics"
 description: "Original practice questions with worked answers on trade, free trade agreements, the EU and the current account for OCR GCSE (9-1) Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

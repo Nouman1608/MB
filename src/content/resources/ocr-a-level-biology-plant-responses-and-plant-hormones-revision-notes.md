@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "plant-and-animal-responses-ocr-alevel-biology"
 description: "Condensed revision notes on tropisms, plant hormones, auxin, gibberellin, serial dilution and commercial uses of plant hormones for OCR A Level Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense learning outcomes 5.1.5(a) to 5.1.5(f) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. For full explanations and worked data examples, read the [study guide](/resources/ocr-a-level-biology-plant-responses-and-plant-hormones/). Then try the [practice questions](/resources/ocr-a-level-biology-plant-responses-and-plant-hormones-practice/), check the [course hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/), and take a free [diagnostic](/diagnostics/). For practical-skills revision see [development of practical skills](/resources/ocr-a-level-biology-development-of-practical-skills/).

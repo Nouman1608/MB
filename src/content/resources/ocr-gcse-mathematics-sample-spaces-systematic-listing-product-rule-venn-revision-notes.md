@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "combined-events-and-probability-diagrams-ocr-gcse-maths"
 description: "Condensed revision notes on sample spaces, systematic listing, the product rule, Venn diagrams and set notation for OCR GCSE Mathematics J560."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover sections 11.02a, 11.02b and 11.02c of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026): sample spaces, systematic listing, the product rule, and Venn diagrams and sets. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn/). Content marked "Higher tier only" is for Higher tier candidates; everything else is for both tiers. See the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [checklist](/checklists/ocr/gcse/mathematics/). To find weak areas first, try the [10-minute diagnostics](/diagnostics/).

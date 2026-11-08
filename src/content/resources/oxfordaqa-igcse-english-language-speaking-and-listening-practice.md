@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "speaking-and-listening-optional-endorsement-9270"
 description: "Original practice for the OxfordAQA 9270 speaking and listening endorsement: planning talks, interview answers, and grading performances against SL1–SL3."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

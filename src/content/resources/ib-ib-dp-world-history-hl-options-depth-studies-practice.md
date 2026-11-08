@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-hl-options-depth-studies-4"
 description: "Original IB DP History HL Paper 3-style essays for all four regional options, with indicative content, markbands and a timed three-essay practice plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check that each question falls within a section of the IB History guide (first assessment 2017) and compare the indicative content with a recent Paper 3 markscheme before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check that each question falls within a section of the IB History guide (first assessment 2017) and compare the indicative content with a recent Paper 3 markscheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

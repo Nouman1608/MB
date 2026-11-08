@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "statistical-charts-and-diagrams-4024"
 description: "A study guide to tabulating data, mean, median, mode, range, grouped estimates, bar charts, pie charts and pictograms for Cambridge O Level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide follows the Cambridge O Level Mathematics (Syllabus D) syllabus for exams in 2025, 2026 and 2027. It covers sections 9.1 to 9.4 of the statistics content: classifying and tabulating data, interpreting data, averages and spread, and statistical charts. The syllabus is not tiered, so every candidate meets all of this material.
 

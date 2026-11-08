@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "government-intervention-edexcel-alevel-economics"
 description: "Condensed revision notes for Edexcel IAL Economics 3.3.5 item 1: regulation, mergers, contestability, protection, impacts, limits and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3.5 Government intervention, item 1 (product markets, points a to f), of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. The specification labels Units 1 and 2 as International AS (IAS) and Units 3 and 4 as International A2 (IA2). This topic is in Unit 3, Business behaviour, so it is IA2 content for the full International Advanced Level only.

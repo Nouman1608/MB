@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "logistics-in-commerce-7100"
 description: "Cambridge O Level Commerce 7100 Topic 4 notes: time, place and quantity, matching transport to goods, container transshipment, warehouse types and robotics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Logistics is the part of commerce that gets goods from producer to consumer: transporting them and

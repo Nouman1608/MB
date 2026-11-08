@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "globalisation-transport-9236"
 description: "Study guide to 9236 optional topic 3.2.3: globalisation and TNCs in Pakistan, consumer change, road, rail, ports and CPEC, and communication and finance."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Globalisation, Transport and Communication in Pakistan is topic 3.2.3 of OxfordAQA International

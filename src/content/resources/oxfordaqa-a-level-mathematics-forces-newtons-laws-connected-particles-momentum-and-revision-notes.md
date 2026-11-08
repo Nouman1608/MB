@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "m1-momentum-and-impulse-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on M1.3 forces, Newton's laws and connected particles and M1.4 momentum and impulse for OxfordAQA AS and A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Quick recall for sections M1.3 and M1.4 of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019). The specification places this content in International AS, Unit PSM1 (Mechanics, M1). For explanations and full worked examples, use the [study guide](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and-practice/). See also the [course hub](/boards/oxfordaqa/a-level/mathematics/), the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/), [exam preparation](/resources/oxfordaqa-a-level-mathematics-exam-preparation/) and the [free diagnostics](/diagnostics/).

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "e-trigonometry-aqa-alevel-maths"
 description: "Condensed revision notes for AQA A-level Maths (7357) trigonometry, E1 to E9: formula tables, exact values, method steps and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and worked examples, use the [Trigonometry study guide](/resources/aqa-a-level-mathematics-trigonometry/). These notes condense **Section E: Trigonometry (E1 to E9)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Section E is Paper 1 content and can also be assessed on Papers 2 and 3. Test yourself afterwards with the [Trigonometry practice questions](/resources/aqa-a-level-mathematics-trigonometry-practice/). Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/). Printable checklist: [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/).

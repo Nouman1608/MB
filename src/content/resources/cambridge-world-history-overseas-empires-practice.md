@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "overseas-empires-2147"
 description: "Original structured and source questions with answers on imperial motives, rule in Africa, India in 1857 and US expansion in 1898, for Cambridge 0470 and 2147."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; please re-review."
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions.

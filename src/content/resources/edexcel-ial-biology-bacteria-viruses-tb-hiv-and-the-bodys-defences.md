@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "microbiology-immunity-and-forensics-edexcel-alevel-biology"
 description: "Bacteria and viruses compared, TB and HIV infection, barriers, non-specific responses, antigens and antibodies for Edexcel IAL Biology YBI11."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches bacteria, viruses, tuberculosis, HIV and the body's first lines of defence from scratch. It is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, and covers statements 6.5 to 6.9 of Topic 6. Topics 1 to 4 are International AS (IAS) and Topics 5 to 8 are International A2 (IA2), so this material sits in IA2. There are no tiers. Statements 6.10 onward (B and T cell roles, immunity types, antibiotics) are separate. Check your progress against the [course hub](/boards/edexcel/a-level/biology/) and the [checklist](/checklists/edexcel/a-level/biology/). When you finish, use the [revision notes](/resources/edexcel-ial-biology-bacteria-viruses-tb-hiv-and-the-bodys-defences-revision-notes/) and the [practice questions](/resources/edexcel-ial-biology-bacteria-viruses-tb-hiv-and-the-bodys-defences-practice/), then take a [free diagnostic](/diagnostics/).

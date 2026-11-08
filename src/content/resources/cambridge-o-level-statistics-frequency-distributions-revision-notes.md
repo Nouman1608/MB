@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "class-measures-grouped-frequency-4040"
 description: "Condensed notes on class limits, class boundaries, mid-points and class intervals for grouped frequency tables in Cambridge O Level Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover section 3.1 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027: class measures for grouped frequency distributions, meaning class limits, boundaries and mid-points, and class intervals. For the wider topic read the [study guide](/resources/cambridge-o-level-statistics-frequency-distributions/). When you are ready to test yourself, use the [practice questions](/resources/cambridge-o-level-statistics-frequency-distributions-practice/), the [Cambridge O Level Statistics hub](/boards/cambridge/o-level/statistics/), the [printable checklist](/checklists/cambridge/o-level/statistics/) and the [free diagnostics](/diagnostics/).

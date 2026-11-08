@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "kq-1-1-2251"
 description: "Revision notes for Cambridge O Level Sociology 2251 key question 1.1: positivism versus interpretivism, combining approaches, and evaluating research choices."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Key question 1.1 of Cambridge O Level Sociology (2251) asks *How do sociologists approach the study

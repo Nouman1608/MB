@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-as-cambridge-alevel-economics"
 description: "Condensed revision notes on economic growth for 9708 Economics: formulas, real v nominal GDP, per capita, causes, consequences and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.4 (Economic growth), outcomes 4.4.1 to 4.4.5, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 4 is AS Level content, and AS content is assumed knowledge for A Level Papers 3 and 4. For full explanations read the [study guide](/resources/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences/). Test yourself with the [practice questions](/resources/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences-practice/).

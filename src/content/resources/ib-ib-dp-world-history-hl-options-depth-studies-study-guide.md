@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-hl-options-depth-studies-4"
 description: "How HL students approach the regional depth studies for IB History Paper 3: Africa and the Middle East, the Americas, Asia and Oceania, and Europe."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the current subject guide for the section titles within each region and how many sections are studied, because the content within each regional option is chosen from a list that this guide does not reproduce. 2026-11-08 recheck: stated 18 sections / 3 studied / 36 questions, corrected marking to holistic markbands, added FAQ."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the current subject guide for the section titles within each region and how many sections are studied, because the content within each regional option is chosen from a list that this guide does not reproduce. 2026-11-08 recheck: stated 18 sections / 3 studied / 36 questions, corrected marking to holistic markbands, added FAQ; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

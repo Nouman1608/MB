@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-5"
 description: "Condensed IB DP Economics revision notes on sub-topic 4.5 exchange rates: definitions, factors, diagram steps, formulas and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense exchange rates, sub-topic 4.5 of Unit 4 (The global economy), for the final weeks of revision. They follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. Everything is for SL and HL except the fixed versus floating comparison, which is **HL only**. For full explanations and worked examples, read the [study guide](/resources/ib-dp-economics-exchange-rates/), then test yourself with the [practice set](/resources/ib-dp-economics-exchange-rates-practice/).

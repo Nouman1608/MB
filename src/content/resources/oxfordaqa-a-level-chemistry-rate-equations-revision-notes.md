@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-11-2"
 description: "Revision notes for OxfordAQA A-level Chemistry 9620 rate equations (3.1.11): orders, units of k, Arrhenius, mechanisms, practical 8 and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense **section 3.1.11 Rate equations** of the OxfordAQA International AS and A-level

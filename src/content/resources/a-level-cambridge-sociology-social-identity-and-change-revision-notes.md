@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "social-identity-and-change-9699"
 description: "Revision notes for Cambridge 9699 section 1.3: how class, gender, ethnicity and age build identity, and how globalisation and hybridity are changing it."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Social identity is the sense of who we are that comes from belonging to social groups. Section 1.3

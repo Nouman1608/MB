@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "fractions-decimals-and-percentages-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 notes on N10-N12: fraction-decimal equivalents, recurring decimals, ratio as fractions and multipliers, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense section 3.1.2, **Fractions, decimals and percentages** (N10, N11 and N12), of the AQA GCSE Mathematics (8300) specification, version 1.0, for teaching from September 2015 with exams from May/June 2017 onwards. Everything here is Foundation content, assessed at both tiers, except converting between recurring decimals and fractions, which is **Higher tier only**. Any of the three papers can test this section, and Paper 1 is non-calculator.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "intermolecular-forces-ych11"
 description: "Study guide to London forces, dipole interactions, hydrogen bonding, boiling trends and solvent choice for Edexcel International A Level Chemistry."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 7: Intermolecular Forces (outcomes **7.1 to 7.6**) of the Pearson Edexcel International

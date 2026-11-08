@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "magnets-and-magnetic-fields-ocr-gcse"
 description: "Condensed recall notes on poles, induced magnets, field lines, the dipping compass, wires and solenoids for OCR GCSE Physics A (J249) topic P4.1."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Condensed notes for the final weeks, aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P4.1, statements P4.1a to P4.1g. All of these are for both tiers. For full explanations, use the [study guide](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets/), then try the [practice questions](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets-practice/). See the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/).

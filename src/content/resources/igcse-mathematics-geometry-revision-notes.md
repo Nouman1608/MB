@@ -36,12 +36,13 @@ syllabusTopics:
     subtopic: "circle-theorems-ii-cambridge-igcse-maths"
 description: "Recall notes on geometry vocabulary, constructions, scale drawings, similarity, symmetry, polygon angles and circle theorems for Cambridge IGCSE Maths 0580."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. Pair these notes with the

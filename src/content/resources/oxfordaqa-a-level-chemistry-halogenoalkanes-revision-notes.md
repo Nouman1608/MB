@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-3-2"
 description: "Condensed OxfordAQA 9620 halogenoalkanes notes: three nucleophiles, arrow checklists, C–X bond enthalpy, elimination and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use these notes in the final weeks before your exam. They boil down section **3.3.3 Halogenoalkanes**

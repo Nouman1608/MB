@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-in-action-ocr-gcse"
 description: "Condensed revision notes on deforming objects, elastic and plastic change, force-extension graphs, F = ke and E = ½ke² for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P2.3a to P2.3f of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018. All six statements are assessed in both tiers. The [study guide](/resources/ocr-gcse-physics-deformation-springs-and-hookes-law/) has the full explanations and longer examples. To test yourself, use the [practice questions](/resources/ocr-gcse-physics-deformation-springs-and-hookes-law-practice/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "projectile-motion-oxfordaqa"
 description: "Original questions with worked answers on projectiles, friction, lift, drag and terminal speed for OxfordAQA International AS and A-level Physics 9630."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

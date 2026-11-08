@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "biological-molecules-content"
 description: "Elements and building blocks of carbohydrates, lipids, proteins and DNA, and how to carry out the four food tests, for Cambridge O Level Biology 5090."
 author: "saad-zai"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, method for each food test, fair-test points, worked results table, FAQ); removed ester bond/double-helix detail beyond 4.1; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, method for each food test, fair-test points, worked results table, FAQ); removed ester bond/double-helix detail beyond 4.1; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 Biological molecules are the carbohydrates, lipids, proteins and DNA that

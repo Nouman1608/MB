@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "power-2059"
 description: "Study guide to Section 3 Power of Cambridge O Level Pakistan Studies 2059 Paper 2: fuel extraction, coal, gas and oil supply, power stations and renewables."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Power is Section 3 of Paper 2, The Environment of Pakistan, in Cambridge O Level Pakistan

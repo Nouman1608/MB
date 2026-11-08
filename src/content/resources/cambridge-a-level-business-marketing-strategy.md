@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "marketing-strategy-cambridge-alevel-business"
 description: "Study guide to marketing plans, coordinated strategy, IT and AI in marketing and international marketing, for Cambridge A Level Business, section 8.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers section 8.2 (Marketing strategy) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is A Level content, so it sits under topic 8 (Marketing). The syllabus says the A Level papers that assess it, Paper 3 and Paper 4, are case-study based and that AS content is assumed knowledge. Build on the AS marketing mix first: see [the marketing mix guide](/resources/cambridge-a-level-business-the-marketing-mix/) and [the nature of marketing and market research guide](/resources/cambridge-a-level-business-the-nature-of-marketing-and-market-research/). Related pages: [revision notes](/resources/cambridge-a-level-business-marketing-strategy-revision-notes/), [practice questions](/resources/cambridge-a-level-business-marketing-strategy-practice/), [the earlier A Level marketing practice set](/resources/a-level-business-marketing-a-level-practice/), the [course hub](/boards/cambridge/a-level/business/), the [printable checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

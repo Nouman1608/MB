@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "plant-and-animal-responses-ocr-alevel-biology"
 description: "Study guide to nervous system organisation, the brain, reflexes, fight or flight, heart rate control and muscle contraction for OCR A Level Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 5.1.5(g) to (l) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It sits in Module 5, Communication, homeostasis and energy, and teaches how the nervous system is organised, what the parts of the brain do, how reflexes work, how nervous and hormonal signals combine in fight or flight, how heart rate is controlled and how skeletal muscle contracts. Plant responses (5.1.5(a) to (f)) are outside this unit. Module 5 content can be assessed in Biological processes (Component 01) and in Unified biology (Component 03).

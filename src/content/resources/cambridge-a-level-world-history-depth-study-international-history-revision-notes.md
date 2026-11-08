@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "route-independence-malaysia-indonesia-9489"
 description: "Paper 4 revision notes for Cambridge 9489 History's International depth study: the Soviet bloc 1953-91, South Africa and Zimbabwe, and Malaysia and Indonesia."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check dates, names and figures against standard texts and the 2027-2029 syllabus key questions before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check dates, names and figures against standard texts and the 2027-2029 syllabus key questions before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on homeostasis, feedback and heart rate control for OxfordAQA International A-level Biology, with a self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sections 3.4.6.1, 3.4.6.2 and 3.4.8 of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1 (Unit 4: Control, an International A-level only unit). The [study guide](/resources/oxfordaqa-a-level-biology-homeostasis-feedback-and-control-of-heart-rate/) explains each point in full with worked examples. Afterwards, use the [practice questions](/resources/oxfordaqa-a-level-biology-homeostasis-feedback-and-control-of-heart-rate-practice/), the [free diagnostics](/diagnostics/), the [course hub](/boards/oxfordaqa/a-level/biology/) and the [checklist](/checklists/oxfordaqa/a-level/biology/).

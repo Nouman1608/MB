@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "government-intervention-in-markets-edexcel-alevel-economics"
 description: "Study guide to Edexcel IAL Economics 1.3.6: taxes, subsidies, price controls, permits, property rights, regulation and government failure."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It covers section 1.3.6 Government intervention in markets, items 1 and 2: the purpose and methods of intervention, and government failure. The specification labels Units 1 and 2 as International AS (IAS) and the extra content for the full International Advanced Level as International A2 (IA2). This topic is in Unit 1, so it is IAS content and also part of the full IAL.

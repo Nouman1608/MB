@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-economic-climate-on-businesses-aqa-gcse-business"
 description: "Condensed recall notes on ethics, environmental considerations, sustainability, interest rates, employment and spending for AQA GCSE Business 8132."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.2.2 and 3.2.3 of the AQA GCSE Business (8132) specification, for first teaching from September 2017. For full explanations and worked examples, read the [study guide](/resources/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses/). Then test yourself with the [practice questions](/resources/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses-practice/). Other links: [course hub](/boards/aqa/gcse/business/), [printable checklist](/checklists/aqa/gcse/business/), [free diagnostics](/diagnostics/), [technology and ethics revision notes](/resources/aqa-gcse-business-technology-ethical-revision-notes/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-4-3-2251"
 description: "Cambridge O Level Sociology 2251 key questions 4.1 and 4.3: family structures, diversity, marriage types, demographic change and changing family roles."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Families take many forms, and they are changing quickly almost everywhere. Key questions 4.1 (*What

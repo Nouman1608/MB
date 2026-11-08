@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "types-of-strategies-oxfordaqa-alevel-business"
 description: "Revision notes for OxfordAQA A-level Business 9725 section 3.4.4: growth, innovation, global and sustainability strategy terms, formulas and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.4.4 Types of strategies of the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Everything here is **International A-level only** and is assessed in Unit 4: Business strategy. If you are finishing the older 9625 specification, use your own specification instead. The [study guide](/resources/oxfordaqa-a-level-business-types-of-strategies/) teaches each point in full, with worked examples.

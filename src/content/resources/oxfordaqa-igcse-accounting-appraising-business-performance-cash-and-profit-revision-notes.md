@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "appraising-performance-oxfordaqa-igcse-accounting"
 description: "Condensed formulas, interpretation phrases, cash versus profit grids and a self-test on ratios and appraisal for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes are aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. They condense the part of specification section 3.5 on appraising business performance with financial statements and ratios, and on cash versus profit. The full explanations and worked examples are in the [study guide](/resources/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit/). When you are ready, try the [practice questions](/resources/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit-practice/), the [course hub](/boards/oxfordaqa/igcse/accounting/), the [checklist](/checklists/oxfordaqa/igcse/accounting/) and the [free diagnostics](/diagnostics/). Amounts are in dollars.

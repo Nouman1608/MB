@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-12-2"
 description: "OxfordAQA 9620 study guide to section 3.3.12: polyesters, polyamides, repeating units, forces between chains, hydrolysis and disposal, worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.3.12, Polymers, from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020, and spans 3.3.12.1 Condensation polymers and 3.3.12.2 Biodegradability and disposal of polymers. The specification places this section in the International A2 organic content, so all of it is **International A-level only**. You meet it in Unit 4 (Organic 2 and Physical 2), whose organic content runs from 3.3.7 to 3.3.16, while Unit 5 (practical and synoptic) may test anything in the course.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-7"
 description: "Condensed revision notes for IB DP Business Management 2.6 communication and HL-only 2.7 employee relations, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 2.6 (Communication) and 2.7 (Industrial/employee relations) of the IB *Business management guide*, first assessment 2024. Section 2.6 is SL and HL. Section 2.7 is HL only. For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only/). Test yourself with the [practice questions](/resources/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only-practice/). See also the [course hub](/boards/ib/ib-dp/business/), the [checklist](/checklists/ib/ib-dp/business/) and the [free diagnostics](/diagnostics/).

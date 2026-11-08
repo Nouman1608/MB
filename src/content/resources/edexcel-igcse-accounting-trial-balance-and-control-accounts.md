@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "control-accounts-4ac1"
 description: "Study guide to the trial balance and to trade receivables and trade payables control accounts for Pearson Edexcel International GCSE Accounting 4AC1."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches sections 3.1 Trial balance and 3.2 Control accounts of Topic 3, Introduction to control processes, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. Topic 3 belongs to Paper 1, Introduction to Bookkeeping and Accounting, which draws exclusively on topics 1 to 3. Paper 2 builds on the same skills. All figures in this guide are in dollars ($) and every business is invented.

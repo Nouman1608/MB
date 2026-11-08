@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "radioactivity-aqa-alevel"
 description: "Condensed revision notes for AQA A-level Physics 7408 Nuclear physics: key equations, decay modes, binding energy, reactors and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 For full explanations and worked examples, use the [Nuclear physics study guide](/resources/aqa-a-level-physics-nuclear-physics/).

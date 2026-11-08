@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "capital-investment-appraisal-oxfordaqa"
 description: "Study guide to OxfordAQA International A-level Accounting 3.2.3: project cash flows, payback, net present value and evaluating capital projects."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches section **3.2.3 Capital investment appraisal** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International A-level exams from May/June 2026 onwards. Section 3.2.3 is **International A-level only**, assessed in Paper 4: Accounting for analysis and decision making. The businesses and numbers are made up, and all money is in dollars.

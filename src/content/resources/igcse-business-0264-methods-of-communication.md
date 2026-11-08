@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "methods-of-communication-0264"
 description: "A full study guide to methods of communication and communication barriers for Cambridge IGCSE Business 0264, with worked examples and common errors."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 2.3 (Methods of communication, 2.3.1 and 2.3.2) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. Every candidate sits Paper 1 (Short Answer and Data Response) and Paper 2 (Case Study). Both papers are based on all the subject content, so this topic can turn up as a short question, in data, or inside a case study. Track your progress on the [printable checklist](/checklists/cambridge/igcse/business/) and see the [course hub](/boards/cambridge/igcse/business/) for the rest of the syllabus. Then use the [revision notes](/resources/igcse-business-0264-methods-of-communication-revision-notes/) and the [practice questions](/resources/igcse-business-0264-methods-of-communication-practice/). If you are not sure where you stand, take a [free diagnostic](/diagnostics/) first.

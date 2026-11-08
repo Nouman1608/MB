@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "investment-ratios"
 description: "Original practice questions with fully worked answers on EPS, P/E, dividend ratios and company ROCE for Edexcel IAL Accounting topic 2.2."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

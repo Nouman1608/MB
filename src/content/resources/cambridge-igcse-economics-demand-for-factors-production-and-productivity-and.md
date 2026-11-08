@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-structure-cambridge-igcse-economics"
 description: "Study guide to demand for factors, labour- and capital-intensive production, productivity, competitive markets and monopoly for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 (version 2). It covers section 3.6 Firms and production (3.6.1 to 3.6.3) and section 3.8 Market structure (3.8.1 and 3.8.2). The subject is not tiered. The syllabus says that the theory of perfect and imperfect competition is not required, and that diagrams are not required for 3.8.1 or 3.8.2, so this guide uses words and small tables instead. Every firm, country and number below is invented and used only to show a method.

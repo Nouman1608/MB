@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "cells-as-the-basic-units-of-living-organisms-cambridge"
 description: "Eleven original questions on 9700 section 1.2 (organelles, micrographs, bacteria, viruses, ATP) with mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

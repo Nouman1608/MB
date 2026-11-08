@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "the-double-entry-model-oxfordaqa"
 description: "Study guide to OxfordAQA International AS Accounting 3.1.3: source documents, books of prime entry, ledgers, adjustments and financial statements."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches section **3.1.3 The double entry model** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. All of 3.1.3 is International AS content. The specification lists it in the content assessed by both Paper 1 and Paper 2, and the International A-level papers build on it. All amounts below are in dollars, and every business is invented.

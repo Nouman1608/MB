@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "business-acquisition-and-merger"
 description: "Condensed notes on goodwill, merger and acquisition entries and evaluation for Cambridge A Level Accounting 9706 section 3.3, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 These notes condense section 3.3 Business acquisition and merger (A Level content) of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. For full explanations and worked ledgers, read the [study guide](/resources/cambridge-a-level-accounting-business-acquisition-and-merger/) first. Then test yourself with the [practice questions](/resources/cambridge-a-level-accounting-business-acquisition-and-merger-practice/). Other links: the [course hub](/boards/cambridge/a-level/accounting/), the printable [checklist](/checklists/cambridge/a-level/accounting/) and the [free diagnostics](/diagnostics/). All businesses and figures are invented and amounts are in dollars.

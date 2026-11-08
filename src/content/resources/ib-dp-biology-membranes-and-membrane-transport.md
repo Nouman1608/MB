@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b2-1"
 description: "Study guide to IB DP Biology B2.1: lipid bilayers, membrane proteins, diffusion, osmosis, active transport, the fluid mosaic model and the HL extensions."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers section B2.1 (Membranes and membrane transport) of the IB *Biology guide*, first assessment 2025, for DP Biology. Statements B2.1.1 to B2.1.10 are for both SL and HL. Statements B2.1.11 to B2.1.17 are additional higher level, so they are HL only and are marked that way below.

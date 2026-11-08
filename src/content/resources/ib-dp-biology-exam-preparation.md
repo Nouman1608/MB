@@ -11,11 +11,12 @@ syllabusSeries: "First assessment 2025"
 order: 1
 description: "Exam preparation for IB Diploma Programme Biology: time planning for Paper 1 and Paper 2, a worked data-based scenario and a before and during exam checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 The [assessment revision notes](/resources/ib-dp-biology-assessment-revision-notes/) set out what

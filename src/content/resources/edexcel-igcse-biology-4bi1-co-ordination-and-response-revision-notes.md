@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "co-ordination-and-response-4bi1"
 description: "Condensed Edexcel IGCSE Biology 4BI1 notes on homeostasis, tropisms, nerves, reflexes, the eye, skin and hormones, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sub-topic 2(j), **Co-ordination and response** (points 2.80–2.95B), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3, for the June and November series examined under Issue 3. The course is untiered; point 2.95B (ADH, FSH and LH) is a bold **B** statement and is examined on Paper 2 only. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-biology-4bi1-co-ordination-and-response/) first.

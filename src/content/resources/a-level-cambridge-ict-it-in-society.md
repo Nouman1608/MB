@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "it-in-society"
 description: "Study guide to IT in society for Cambridge A Level IT 9626: digital currencies, data mining, social networking, impact of IT and online learning."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 12, IT in society** (sections 12.1–12.5) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is **A Level only** content. The syllabus states that Paper 3 (Advanced Theory) questions are based on sections 12–21, so this topic is examined there; Paper 4 (Advanced Practical) tasks are set on sections 17–21, but candidates apply knowledge and understanding of all subject content.

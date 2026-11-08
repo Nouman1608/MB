@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-1-2"
 description: "Study guide for IB DP Chemistry Reactivity 1.2: bond enthalpies, Hess's law, formation and combustion data, and Born-Haber cycles, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Reactivity 1.2, "Energy cycles in reactions", from scratch. It follows the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023) and covers understandings Reactivity 1.2.1 to 1.2.5. The first two are for SL and HL; the last three sit in the additional higher level (AHL) part and are HL only. It applies to exams from 2025 onwards.

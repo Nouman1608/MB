@@ -11,9 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "Exam preparation for Cambridge O Level Statistics 4040: the two 2h15 papers, short and long questions, calculator use, the linear rule and method marks."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-07
 featured: false
 ---

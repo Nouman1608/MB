@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-economic-system"
 description: "Study guide to why market prices change, how demand and supply diagrams show the results, and the market economic system, for Cambridge O Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 2.6 (price changes) and 2.9 (market economic system) of the Cambridge O Level Economics syllabus for examination in 2026. It teaches why equilibrium prices move, how to show the move on a demand and supply diagram, and how to judge the market economic system. Every business, country and number below is invented for illustration.

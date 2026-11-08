@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "limited-company-statements-oxfordaqa-igcse-accounting"
 description: "Condensed recall notes, a layout checklist and a self-test on limited company income statements and statements of financial position, OxfordAQA 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes are aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. They cover the limited companies row of section 3.4, Preparation of financial statements, which is assessed in Paper 2: Financial Statements. For full explanations and a long worked example, read the [study guide](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-practice/).

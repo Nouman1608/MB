@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "input-and-output-devices-0478"
 description: "Original Cambridge IGCSE Computer Science 0478 questions with answers on input devices, touch screens, printers, projectors, actuators and choosing sensors."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

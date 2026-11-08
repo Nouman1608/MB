@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "algebraic-manipulation-edexcel-igcse-maths"
 description: "Twelve original 4MA1 practice questions on indices, substitution, brackets, factorising, algebraic fractions and proof, with mark-by-mark answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

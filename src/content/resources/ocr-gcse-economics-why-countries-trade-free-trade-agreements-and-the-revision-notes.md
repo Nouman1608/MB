@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "balance-of-payments-ocr-gcse-economics"
 description: "Condensed revision notes on why countries trade, free trade agreements, the EU and the current account for OCR GCSE (9-1) Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 Condensed notes for OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), sections 4.1 and 4.2. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the/). Then try the [practice questions](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-practice/). Course page: [OCR GCSE Economics](/boards/ocr/gcse/economics/). Printable [checklist](/checklists/ocr/gcse/economics/). Unsure where you stand? Take a [free diagnostic](/diagnostics/). All numbers below are invented for illustration.
 

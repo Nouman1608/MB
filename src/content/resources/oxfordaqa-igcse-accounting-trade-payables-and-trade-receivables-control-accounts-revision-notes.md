@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "control-accounts-oxfordaqa-igcse-accounting"
 description: "Condensed revision notes on trade receivables and trade payables control accounts, with a self-test, for OxfordAQA International GCSE Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.2 (Verification of accounting records) of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for the control accounts content only. Full explanations and longer worked examples are in the [control accounts study guide](/resources/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts/). Broader topic notes are in the [Topic 2 revision notes](/resources/igcse-oxfordaqa-accounting-verification-revision-notes/). Amounts are in dollars. Go to the [course hub](/boards/oxfordaqa/igcse/accounting/), the [checklist](/checklists/oxfordaqa/igcse/accounting/) or a [free diagnostic](/diagnostics/) to check your progress, and use the [practice questions](/resources/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts-practice/) once you have learned these notes.

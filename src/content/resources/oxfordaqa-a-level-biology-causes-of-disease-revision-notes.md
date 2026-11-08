@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-causes-of-disease-pathogens-lifestyle-and-genes-oxfordaqa-alevel-biology"
 description: "Revision notes for OxfordAQA International A-level Biology (9610) section 3.2.1: how pathogens cause disease, and lifestyle risk factors for CHD and cancer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 publishedDate: 2026-09-02
 featured: false
 ---

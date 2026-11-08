@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebra-and-functions-ocr-alevel-maths"
 description: "Condensed exam recall notes for OCR A Level Mathematics A H240 sections 1.02a-1.02i, with methods, a self-test and the most common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes follow the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), sections 1.02a to 1.02i. All of this is Stage 1 content. For full explanations and worked examples, start with the [study guide](/resources/ocr-a-level-mathematics-indices-surds-simultaneous-equations-quadratics-and/). Afterwards, test yourself with the [practice questions](/resources/ocr-a-level-mathematics-indices-surds-simultaneous-equations-quadratics-and-practice/).
 

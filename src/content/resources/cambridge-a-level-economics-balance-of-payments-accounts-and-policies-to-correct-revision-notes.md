@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "policies-to-correct-balance-of-payments-disequilibrium-cambridge-alevel-economics"
 description: "Condensed revision notes on balance of payments accounts, policy effects and expenditure-switching versus reducing, for Cambridge 9708 A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 11.1 (outcomes 11.1.1 to 11.1.3) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 7 to 11 are A Level content, so this unit is not examined at AS. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct/). Then test yourself with the [practice questions](/resources/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct-practice/). Course pages: [hub](/boards/cambridge/a-level/economics/) and [checklist](/checklists/cambridge/a-level/economics/). Find weak spots with the [free 10-minute diagnostics](/diagnostics/). All figures below are invented for illustration, in billions of currency units (bn cu).

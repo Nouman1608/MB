@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-economic-system"
 description: "Condensed revision notes on causes and effects of price changes and the market economic system for Cambridge O Level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for sections 2.6 and 2.9 of the Cambridge O Level Economics syllabus for examination in 2026. For full explanations and longer worked examples use the [study guide](/resources/cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market/). When you are ready to test yourself, try the [practice questions](/resources/cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market-practice/). Other links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/). All figures below are invented.

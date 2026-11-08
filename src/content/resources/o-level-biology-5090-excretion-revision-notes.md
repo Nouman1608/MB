@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "excretion"
 description: "Revision notes on excretion for Cambridge O Level Biology 5090: definitions, deamination, kidney organs, nephron parts, filtration, a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, use the [study guide for this topic](/resources/o-level-biology-5090-excretion/). These notes condense Topic 13, Excretion, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4): every learning outcome in sections 13.1 Excretion (13.1.1 to 13.1.3) and 13.2 Urinary system (13.2.1 to 13.2.6). The syllabus is not tiered, so all of it applies to every candidate.

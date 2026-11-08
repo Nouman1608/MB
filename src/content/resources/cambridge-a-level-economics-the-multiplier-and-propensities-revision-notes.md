@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-circular-flow-of-income-cambridge-alevel-economics"
 description: "Condensed revision notes on the multiplier, propensities and national income determination for Cambridge A Level Economics, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense outcome 9.1.1 (the multiplier process) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content (topics 7 to 11 are A Level; topics 1 to 6 are AS). Full explanations and longer worked examples are in the [study guide](/resources/cambridge-a-level-economics-the-multiplier-and-propensities/). Practise on the [practice questions](/resources/cambridge-a-level-economics-the-multiplier-and-propensities-practice/), check your level with the free [diagnostics](/diagnostics/), and tick off topics on the [checklist](/checklists/cambridge/a-level/economics/). The [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/) lists every resource. All figures here are invented.

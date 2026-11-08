@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "firms-costs-revenue-and-objectives-cambridge-igcse-economics"
 description: "Study guide to costs, revenue and firms' objectives in Cambridge IGCSE Economics (0455), with worked calculations, cost-curve sketches and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.7, Firms' costs, revenue and objectives, of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. It sits inside Topic 3, Microeconomic decision makers, and the syllabus is not tiered. The official text says marginal cost and marginal revenue are not required, so this guide does not use them. All figures are invented and illustrative, and all money amounts are in dollars.

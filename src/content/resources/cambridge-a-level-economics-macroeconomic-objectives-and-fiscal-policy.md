@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "fiscal-policy-as-cambridge-alevel-economics"
 description: "Study guide to macroeconomic objectives, the budget, taxes, spending and fiscal policy with AD/AS analysis for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 5.1 and 5.2 of the Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028: government macroeconomic policy objectives (5.1.1) and fiscal policy (5.2.1 to 5.2.7). Topics 1 to 6 are AS Level content, and this unit is assumed knowledge for A Level Papers 3 and 4. Every country, firm and figure here is invented for illustration, and money is in currency units (cu). For quick recall use the [revision notes](/resources/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy-revision-notes/), then try the [practice questions](/resources/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy-practice/). See also the [course hub](/boards/cambridge/a-level/economics/), the [checklist](/checklists/cambridge/a-level/economics/) and the [diagnostics](/diagnostics/). You need the AD/AS model from section 4.3, covered in the [AD and AS guide](/resources/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis/).

@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "text-selection-7717"
 description: "Condensed notes on the 7717 Theory and Independence NEA: text selection, the AQA Critical anthology, re-creative writing and the commentary requirement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-05
 featured: false
 ---

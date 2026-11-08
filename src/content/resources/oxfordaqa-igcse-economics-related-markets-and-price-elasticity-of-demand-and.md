@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-prices-are-determined-oxfordaqa-igcse-economics"
 description: "Study guide to complements, substitutes and price and cross elasticity of demand and supply, with worked calculations, for OxfordAQA IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1.3.4 (Intermarket relationships), 3.1.3.5 (PED and cross elasticity) and 3.1.3.6 (PES) of the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards. Every country, firm and number below is invented for illustration.

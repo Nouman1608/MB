@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Condensed revision notes on UK unemployment measures, types, causes, real wage and natural rate unemployment and the LRAS link, for AQA A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense the Employment and unemployment sub-section of AQA A-level Economics (7136), from the AQA AS and A-level Economics specification, first teaching from September 2015. The AQA website numbers it 3.2.3.2 (the combined PDF prints it as 4.2.3.2). Full explanations and longer worked examples are in the [study guide](/resources/aqa-a-level-economics-employment-and-unemployment/). Test yourself with the [practice questions](/resources/aqa-a-level-economics-employment-and-unemployment-practice/), tick topics off on the [checklist](/checklists/aqa/a-level/economics/), start from the [course hub](/boards/aqa/a-level/economics/), or take a [free diagnostic](/diagnostics/). Related pages: [aggregate demand and supply](/resources/aqa-a-level-economics-aggregate-demand-supply/) and [labour demand and supply](/resources/aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour-revision-notes/).

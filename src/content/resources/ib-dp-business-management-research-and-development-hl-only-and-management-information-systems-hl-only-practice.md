@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-9"
 description: "Original practice questions with worked answers for IB DP Business Management 5.8 R&D and 5.9 management information systems (HL only)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

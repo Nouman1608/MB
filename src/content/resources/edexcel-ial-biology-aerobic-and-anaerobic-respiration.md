@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "respiration-muscles-and-the-internal-environment-edexcel-alevel-biology"
 description: "Glycolysis, the link reaction, Krebs cycle, oxidative phosphorylation, lactate, RQ and Core Practicals 15 and 16 for Edexcel IAL Biology YBI11."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches aerobic and anaerobic respiration from scratch for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. It covers statements 7.1 to 7.8 of Topic 7, including Core Practicals 15 and 16. Topics 1 to 4 are International AS (IAS) and Topics 5 to 8 are International A2 (IA2), so this material is A2. There are no tiers. Use it with the [revision notes](/resources/edexcel-ial-biology-aerobic-and-anaerobic-respiration-revision-notes/) and the [practice questions](/resources/edexcel-ial-biology-aerobic-and-anaerobic-respiration-practice/). The [course hub](/boards/edexcel/a-level/biology/) and [printable checklist](/checklists/edexcel/a-level/biology/) show the rest of the course, and the [free diagnostics](/diagnostics/) show where to start. Mitochondrial structure is revised in [cell ultrastructure and microscopy](/resources/edexcel-ial-biology-cell-ultrastructure-and-microscopy/), and the matching energy-capture topic is [photosynthesis](/resources/edexcel-ial-biology-photosynthesis/).

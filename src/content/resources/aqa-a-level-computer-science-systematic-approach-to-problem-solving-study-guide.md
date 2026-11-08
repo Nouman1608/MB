@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "systematic-approach-to-problem-solving-7517"
 description: "Analysis, design, implementation, testing and evaluation of a computing solution for AQA A Level Computer Science, with a worked test plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the exact list of development methods, testing types and analysis techniques the specification names for this section."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the exact list of development methods, testing types and analysis techniques the specification names for this section; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

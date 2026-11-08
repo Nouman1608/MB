@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "poverty"
 description: "Study guide to poverty for Cambridge O Level Economics (2281): absolute and relative poverty, causes, and policies to reduce it, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 5.2 (Poverty, 5.2.1 to 5.2.3) of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. The course is not tiered, so everything here is for every candidate. Every country, firm and figure below is invented and illustrative. Next, use the [revision notes](/resources/cambridge-o-level-economics-poverty-revision-notes/) and the [practice questions](/resources/cambridge-o-level-economics-poverty-practice/). Other links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/), the [free diagnostics](/diagnostics/), and the [wages and earnings guide](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and/), which helps with the low-wage material.

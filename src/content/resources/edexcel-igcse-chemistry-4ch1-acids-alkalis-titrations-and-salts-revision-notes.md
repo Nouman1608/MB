@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "acids-bases-and-salt-preparations-4ch1"
 description: "Condensed 4CH1 revision notes on indicators, pH bands, titration, solubility rules, proton transfer and salt methods, with a self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense sub-topics (f) Acids, alkalis and titrations and (g) Acids, bases and salt preparations of Topic 2, Inorganic chemistry, in the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). They cover points 2.28–2.43. The qualification is untiered; points 2.33C, 2.40C, 2.41C and 2.43C are bold with a C reference, so they are **Paper 2 only**. For full explanations and worked examples, use the [acids, alkalis and salts study guide](/resources/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts/).

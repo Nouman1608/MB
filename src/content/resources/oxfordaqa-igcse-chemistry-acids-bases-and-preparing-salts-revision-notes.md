@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "preparation-of-salts-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) notes on acids, alkalis, pH, neutralisation and salt preparation, with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense acids, bases and the preparation of salts for OxfordAQA International GCSE Chemistry (9202). They follow the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and cover sections 3.5.1 (statements a to g) and 3.5.2 (statements a to c). With no tiers in this qualification, every candidate needs all of it. The full teaching, with worked examples, is in the [acids, bases and salts study guide](/resources/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts/).

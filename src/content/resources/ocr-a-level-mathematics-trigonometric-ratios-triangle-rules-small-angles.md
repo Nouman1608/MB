@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "trigonometry-ocr-alevel-maths"
 description: "Study guide to OCR A Level Maths A (H240) trig ratios, radians, sine and cosine rules, small angles, graphs and basic equations, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers part of section 1.05 Trigonometry in the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It teaches 1.05a to 1.05g and 1.05o: the ratios for all angles, radians, the triangle rules, small angle approximations, the basic graphs and simple equations. Content shared with the AS qualification is marked Stage 1, and content for the full A Level is marked **A Level only** (Stage 2). The specification lets you use a scientific or graphical calculator on every paper and expects you to support answers with working.

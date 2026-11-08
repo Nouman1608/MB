@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-5"
 description: "Original IB DP Economics practice questions with worked answers on exchange rates, sub-topic 4.5, with the HL-only comparison labelled."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

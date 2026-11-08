@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "data-representation-9210"
 description: "Original practice questions with answers on conversions, binary shifts, ASCII, image and sound file sizes, Huffman coding and RLE for OxfordAQA IGCSE 9210."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

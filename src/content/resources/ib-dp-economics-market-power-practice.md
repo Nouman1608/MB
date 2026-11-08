@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-11"
 description: "Ten original HL practice questions with worked answers on IB DP Economics 2.11 market power: profit, monopoly, oligopoly, game theory and policy."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

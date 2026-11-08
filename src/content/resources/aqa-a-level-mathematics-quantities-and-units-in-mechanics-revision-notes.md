@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "p-quantities-and-units-in-mechanics-aqa-alevel-maths"
 description: "Condensed notes on SI units, unit conversions, mass versus weight, force, moment and unit checks for AQA A-level Maths (7357) Section P, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes cover **Section P: Quantities and units in mechanics (P1)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification places Section P in **Paper 2**, and a calculator is required in every 7357 paper. For full explanations and worked examples, start with the [Quantities and units study guide](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics/); these notes are for quick recall in the final weeks.

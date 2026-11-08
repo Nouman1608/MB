@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "business-calculations-1bs0"
 description: "Condensed revision notes on gross profit, net profit, profit margins and average rate of return for Pearson Edexcel GCSE Business 1BS0, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense content item 2.4.1, Business calculations, from Topic 2.4 Making financial decisions in Theme 2, Building a business, of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. For full explanations and worked examples, read the [study guide](/resources/edexcel-gcse-business-business-calculations/) first. Then test yourself with the [practice questions](/resources/edexcel-gcse-business-business-calculations-practice/).

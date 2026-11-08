@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-2"
 description: "Condensed revision notes on emissivity, albedo, S/4, greenhouse gases and energy balance models for IB DP Physics topic B.2, SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes condense topic B.2 (Greenhouse effect) of the IB *Physics guide*, first assessment 2025, for Standard Level and Higher Level; the guide sets no extra content for Higher Level alone in B.2. For full explanations and worked examples, go to the [study guide](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance/). Test yourself with the [practice set](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance-practice/).

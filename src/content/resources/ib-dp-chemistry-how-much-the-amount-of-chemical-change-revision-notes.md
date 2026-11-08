@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-2-1"
 description: "Condensed IB DP Chemistry Reactivity 2.1 revision notes: mole ratios, limiting reactant, percentage yield and atom economy, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These are condensed notes. The [Reactivity 2.1 study guide](/resources/ib-dp-chemistry-how-much-the-amount-of-chemical-change/) has the full explanations and longer worked examples.

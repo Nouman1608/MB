@@ -19,9 +19,10 @@ syllabusTopics:
     subtopic: "a-the-first-law-of-thermodynamics"
 description: "Internal energy as random kinetic and potential energy of molecules, work W = pΔV, and the first law ΔU = q + W: Topic 16 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

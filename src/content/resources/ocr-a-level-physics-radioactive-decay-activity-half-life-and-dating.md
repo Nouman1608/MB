@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "nuclear-and-particle-physics-ocr-alevel"
 description: "Study guide to radioactive decay, activity, half-life, exponential decay, simulations and dating for OCR A Level Physics A (H556), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide teaches section 6.4.3 (Radioactivity), statements (a) to (h), of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. Module 6 content is assessed in Exploring physics (component 02) and Unified physics (component 03). The nuclear atom, fundamental particles, binding energy, fission and fusion are covered in separate pages. Revise with the [revision notes](/resources/ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating-revision-notes/), then try the [practice set](/resources/ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating-practice/). The course hub is [OCR A Level Physics](/boards/ocr/a-level/physics/), the printable list is the [checklist](/checklists/ocr/a-level/physics/), and the [free 10-minute diagnostics](/diagnostics/) show where to start.
 

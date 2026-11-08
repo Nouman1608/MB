@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "models-of-strategic-choice-ocr-alevel-business"
 description: "Condensed revision notes on Porter's Five Forces, generic strategies and competitive advantage for OCR A Level Business (H431), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 1.10 "Models of strategic choice" of the OCR A Level Business (H431) specification, Version 2.1 (January 2026), for first assessment in 2017 and final assessment in summer 2027. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-business-models-of-strategic-choice/) first. Then test yourself on the [practice questions](/resources/ocr-a-level-business-models-of-strategic-choice-practice/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "functions-graphs-and-calculus-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on real-context graphs, gradient as rate of change, kinematics and variation for OxfordAQA International GCSE Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense references A17 and A18 (section 3.2.2, Functions, graphs and calculus) of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). Full explanations and longer worked examples are in the [study guide](/resources/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and/). Test yourself with the [practice set](/resources/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and-practice/). See the [OxfordAQA International GCSE Mathematics course hub](/boards/oxfordaqa/igcse/mathematics/), the printable [checklist](/checklists/oxfordaqa/igcse/mathematics/) tracks progress, and the [free diagnostics](/diagnostics/) show where to focus.

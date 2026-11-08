@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "proofing-techniques-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 15: spell and grammar checks, validation checks, visual verification, double data entry and proofreading."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Proofing in Cambridge IGCSE ICT 0417 (Topic 15) is about reducing errors: using spell and grammar checkers sensibly, using validation routines to stop unreasonable data being entered, verifying data by visual checking or double data entry, and proofreading documents for layout and consistency errors. You must also explain why validation and verification are both needed, a frequent Paper 1 question.

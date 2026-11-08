@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "fundamentals-of-computer-organisation-and-architecture"
 description: "AQA A Level Computer Science 7517 section 4.7 guide: stored-program concept, processor components, fetch-decode-execute, performance, assembly and devices."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This topic looks inside the processor and explains how it runs a program one instruction at a time. You need to know the role of each component, trace the registers through a fetch-decode-execute cycle, explain what makes one processor faster than another, and read and write short programs in assembly language. It also covers the external devices that connect to the processor.

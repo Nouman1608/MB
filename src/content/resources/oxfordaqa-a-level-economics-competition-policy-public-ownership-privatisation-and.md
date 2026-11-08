@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-oxfordaqa-alevel-economics"
 description: "Study guide to competition policy, public ownership, privatisation, regulation and capture for OxfordAQA International A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is aligned to the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers sections 3.3.3.11 (competition policy) and 3.3.3.12 (public ownership, privatisation, regulation and deregulation of markets). Section 3.3 forms part of the extra International A2 content, taught in Unit 3. All numbers below are invented and fictional.
 

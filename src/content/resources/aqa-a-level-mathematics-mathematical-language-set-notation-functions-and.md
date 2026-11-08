@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ot1-mathematical-argument-language-and-proof-aqa-alevel-maths"
 description: "Study guide to AQA A-level Maths 7357 OT1: precise language, set notation, functions with domain and range, and spotting flaws in arguments."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide follows the AQA 7357 A-level Mathematics specification (version 1.3, dated 31 January 2018) and covers overarching theme OT1.1 to OT1.5. It teaches the language of mathematics, the set notation in Appendix A (applied to inequalities and probability), the definition of a function with its domain and range, and how to critique an argument. OT1 applies to the whole course, so expect these skills to appear inside questions on any topic. The shorter [overarching themes guide](/resources/aqa-a-level-mathematics-overarching-themes/) gives a broad overview; this page goes deeper on the parts it leaves out.

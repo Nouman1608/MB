@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "artificial-intelligence-9645"
 description: "Condensed notes on AI traits, neural networks, backpropagation, machine learning, bias, benefits and risks, plus a self-test, for OxfordAQA A-level."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 For full explanations and longer worked examples, read the [AI study guide](/resources/oxfordaqa-a-level-computer-science-artificial-intelligence/) first.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "marketing-mix-and-strategy-ybs11"
 description: "A full study guide to marketing objectives, product, promotion, price and place for Pearson Edexcel International A Level Business, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 1.3.3, Marketing mix and strategy, of Unit 1 (Marketing and people) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification, Issue 1, September 2017. It follows the five headings the specification lists: marketing objectives and strategy, product/service design, promotion and branding, pricing strategies, and distribution. Where the specification gives no formula or list, the guide says it is giving the standard form.

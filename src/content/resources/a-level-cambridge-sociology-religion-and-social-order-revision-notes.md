@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "religion-source-of-social-change-9699"
 description: "Condensed Cambridge 9699 notes on 11.1-11.3: definitions, measurement, religiosity by group, Durkheim and Marx, Weber, liberation theology and Iran 1979."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense heading 11 *Religion and social order* from Cambridge International A Level

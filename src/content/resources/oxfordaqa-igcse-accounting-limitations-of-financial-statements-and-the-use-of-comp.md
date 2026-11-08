@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "computers-in-accounting-oxfordaqa-igcse-accounting"
 description: "Study guide to the limits of financial statements and ratio analysis, and to computerised versus manual accounting, for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide follows the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the last two content points of section 3.5, "Interpretation, analysis and communication of financial information": the limitations of financial statements and ratio analysis when assessing business performance, and the use of computers in accounting. The specification says section 3.5 is assessed in Paper 2, Financial Statements (content 3 to 5). All amounts are in dollars. Every business and figure is invented.

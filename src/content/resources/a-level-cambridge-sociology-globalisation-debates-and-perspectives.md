@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "globalisation-power-and-politics-9699"
 description: "Cambridge 9699 Paper 4 sections 7.1-7.3 explained: defining globalisation, who benefits, hybrid identity, cultural defence and global social movements."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Globalisation is the growing interconnectedness of the world's societies through trade, media,

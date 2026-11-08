@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "inventory-and-supply-chain-management-9725"
 description: "Condensed OxfordAQA 9725 Business revision notes on operational performance: formulas, processes, lean, quality, inventory charts and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 For full explanations and worked examples, start with the [Operational performance study guide](/resources/oxfordaqa-a-level-business-operational-performance/). These notes follow the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams from May/June 2027, and cover section 3.2.1 (3.2.1.1 to 3.2.1.3). It is all International AS content, assessed in Unit 2. If you are finishing the older 9625 specification, use your own specification.

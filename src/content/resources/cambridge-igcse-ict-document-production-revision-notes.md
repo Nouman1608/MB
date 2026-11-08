@@ -32,9 +32,12 @@ syllabusTopics:
     subtopic: "gutter-margin-t17-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 17: page layout, columns, breaks, line spacing, tabs, lists, find and replace, bookmarks and gutter margins."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Document production in Cambridge IGCSE ICT 0417 (Topic 17) is the word-processing skill set assessed in Paper 2: organising page layout (size, orientation, margins, columns and breaks), formatting text (line spacing, tabs, indents, enhancements, lists), finding and replacing text, and adding bookmarks and hyperlinks. You must also know the purpose of page, section and column breaks and of gutter margins.

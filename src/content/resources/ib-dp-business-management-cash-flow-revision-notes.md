@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-7"
 description: "Condensed revision notes for IB DP Business Management section 3.7: cash flow versus profit, working capital, liquidity, forecasts and strategies."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.7 (Cash flow) of Unit 3 in the IB *Business management guide*, first assessment 2024. All six content points apply at SL and HL. For fuller explanations and longer worked examples, read the [study guide](/resources/ib-dp-business-management-cash-flow/) first, then test yourself with the [practice questions](/resources/ib-dp-business-management-cash-flow-practice/). Related pages: the [Unit 3 revision notes](/resources/ib-dp-business-management-finance-accounts-revision-notes/), the [course hub](/boards/ib/ib-dp/business/), the [printable checklist](/checklists/ib/ib-dp/business/) and the [free diagnostics](/diagnostics/).

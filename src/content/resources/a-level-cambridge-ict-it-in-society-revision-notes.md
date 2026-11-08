@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "it-in-society"
 description: "Condensed revision notes on IT in society for Cambridge A Level IT 9626, with definition tables, data mining stages and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 For full explanations and worked examples, use the [IT in society study guide](/resources/a-level-cambridge-ict-it-in-society/). These notes condense **topic 12, IT in society** (sections 12.1–12.5) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is **A Level only** content, and the syllabus states that Paper 3 (Advanced Theory) questions are based on sections 12–21. Paper 4 (Advanced Practical) candidates apply knowledge and understanding of all subject content.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "a-analysis-and-communication-of-accounting-information"
 description: "Formula tables, a worked company, self-test questions and common mistakes for Cambridge 9706 A Level Accounting ratio analysis, section 3.5."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 Quick-recall notes for **section 3.5 Analysis and communication of accounting information (A Level)** in the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, examined on Paper 3 (Financial Accounting). For explanations and a full worked company, read the [study guide](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a/), then test yourself with the [practice questions](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a-practice/). See also the [course hub](/boards/cambridge/a-level/accounting/), the printable [checklist](/checklists/cambridge/a-level/accounting/) and the free [diagnostics](/diagnostics/).

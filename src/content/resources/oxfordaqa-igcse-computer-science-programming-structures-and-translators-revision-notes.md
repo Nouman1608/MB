@@ -36,8 +36,12 @@ syllabusTopics:
     subtopic: "classification-of-programming-languages-and-translators-9210"
 description: "Condensed recall notes on arrays, records, files, strings, random numbers, subroutines, validation and translators for OxfordAQA IGCSE 9210, 3.2.6-3.2.13."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Condensed for the final weeks. These notes cover sections 3.2.6 to

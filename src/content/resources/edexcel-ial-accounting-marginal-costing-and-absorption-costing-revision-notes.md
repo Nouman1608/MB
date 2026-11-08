@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "marginal-costing-and-absorption-costing"
 description: "Revision notes for Edexcel IAL Accounting topic 2.8: statement layouts, inventory rules, decision tests, limiting factors and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense topic 2.8, Marginal costing and absorption costing, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. They cover outcomes 2.8.1 to 2.8.6, which are **Unit 2 (A2) only**. The [study guide](/resources/edexcel-ial-accounting-marginal-costing-and-absorption-costing/) explains each idea in full with longer examples; for timed practice, try the [practice questions](/resources/edexcel-ial-accounting-marginal-costing-and-absorption-costing-practice/). All businesses and figures are invented; money is in dollars.

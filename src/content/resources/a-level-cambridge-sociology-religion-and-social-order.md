@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "religion-source-of-social-change-9699"
 description: "Cambridge 9699 Paper 4 sections 11.1-11.3 explained: defining and measuring religion, functionalist and Marxist views, Weber and liberation theology."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Does religion hold society together, keep people in their place, or drive social change? Syllabus

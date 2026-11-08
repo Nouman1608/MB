@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "cell-level-systems-ocr-gcse-biology"
 description: "Study guide to OCR GCSE Gateway Biology A (J247) Topic B1 Cell level systems: cell structures, microscopy, DNA, enzymes, respiration and photosynthesis."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers **Topic B1 Cell level systems**, the first of six

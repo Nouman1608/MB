@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "information-asymmetries-ocr-aslevel-economics"
 description: "Condensed revision notes on information failure, merit and demerit goods, public goods and inequity for OCR A Level Economics (H460), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, topics Market power/Information asymmetries, Public goods and Inequity in Component 01, Microeconomics. The specification labels no content as AS or Extension. For the reasoning behind each point, read the [study guide](/resources/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public/); then try the [practice questions](/resources/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public-practice/). Course pages: the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/). To find weak areas first, try the [free diagnostics](/diagnostics/). All figures are invented and illustrative.

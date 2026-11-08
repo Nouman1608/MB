@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-algebra-and-functions-edexcel-alevel-maths"
 description: "Condensed P1 revision notes on indices, surds, quadratic graphs, the discriminant and completing the square for Edexcel International A Level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense the [full study guide](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant/), so read that first if a step looks unfamiliar. They follow the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019, Unit P1 topics 1.1 to 1.5. P1 is a compulsory unit for IAS and IAL Mathematics and Pure Mathematics. Test yourself with the [practice questions](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-practice/), tick the topic on the [checklist](/checklists/edexcel/a-level/mathematics/), see the [course hub](/boards/edexcel/a-level/mathematics/), and use the [free 10-minute diagnostics](/diagnostics/) to find gaps.

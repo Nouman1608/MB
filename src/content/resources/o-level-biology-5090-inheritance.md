@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "inheritance"
 description: "Study guide for Cambridge O Level Biology 5090 on variation, DNA, monohybrid crosses, codominance, mutation and natural and artificial selection."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches Topic 17, Inheritance, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 17.1 Variation, 17.2 DNA, 17.3 Inheritance and 17.4 Selection. The syllabus is not tiered, so everyone studies all of it. One practical outcome is listed: investigating continuous and discontinuous variation.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "nucleotides-and-nucleic-acids-ocr-alevel-biology"
 description: "Study guide to nucleotides, phosphodiester bonds, ATP, DNA structure, DNA purification and semi-conservative replication for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide follows the OCR *A Level Biology A* specification (H420, Version 4.1, April 2026, first assessment 2025). It covers module 2 section 2.1.3, learning outcomes (a) to (e): nucleotides, phosphodiester bonds, ADP and ATP, the structure of DNA, the DNA purification practical, and semi-conservative replication. Outcomes (f) and (g), the genetic code and protein synthesis, are separate topics and are not taught here. Pair this page with the [revision notes](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-revision-notes/) and the [practice questions](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-practice/). The wider module is in [Foundations in Biology](/resources/ocr-a-level-biology-foundations-in-biology/). Course pages: [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/). To find weak spots first, try the [free diagnostics](/diagnostics/).

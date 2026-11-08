@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "sustainable-future-9236"
 description: "Study guide to 9236 optional topic 3.2.4: pollution, deforestation, desertification, climate change, and strategies for equality and food security in Pakistan."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Creating a Sustainable Future for Pakistan is topic 3.2.4 of OxfordAQA International GCSE

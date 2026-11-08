@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "balance-of-payments-ocr-aslevel-economics"
 description: "Condensed revision notes on the balance of payments for OCR A Level Economics (H460): definitions, calculations, evaluation chains and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the topic **Balance of payments** from the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessed in 2021. It sits in Component 2, Macroeconomics, under The global context. Nothing is labelled AS or Extension. For full explanations, read the [study guide](/resources/ocr-a-level-economics-the-balance-of-payments/). Test yourself with the [practice set](/resources/ocr-a-level-economics-the-balance-of-payments-practice/). Other links: the [hub for OCR A Level Economics](/boards/ocr/a-level/economics/), the printable [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented.

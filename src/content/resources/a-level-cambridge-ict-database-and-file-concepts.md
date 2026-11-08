@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "database-and-file-concepts"
 description: "Study guide for Cambridge AS & A Level IT 9626 topic 10: keys, relationships, ERDs, queries, forms, reports, normalisation and file access."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 10, Database and file concepts**, of Cambridge International AS & A Level Information Technology (9626), following the syllabus for examination in 2025, 2026 and 2027 (version 3), sections 10.1 to 10.4. Topic 10 is an **AS Level** topic, so it is in both the AS and the full A Level. **Paper 1 (Theory)** is based on sections 1–11 and **Paper 2 (Practical)** on sections 8–11, so you can meet this topic in both. **Paper 4 (Advanced Practical)** may also include tasks from sections 8–10.

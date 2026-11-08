@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "testing-for-biological-molecules-cambridge-alevel"
 description: "Revision notes for Cambridge 9700 sub-topic 2.1: test methods and results, dilutions, semi-quantitative Benedict's and sucrose test, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, use the [testing for biological molecules study guide](/resources/a-level-biology-9700-testing-for-biological-molecules/). These notes condense sub-topic 2.1, Testing for biological molecules, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content: tested on Paper 1 and Paper 2, assumed in Paper 4, and used as a practical skill in Paper 3 (identifying unknown solutions, estimating concentrations) and Paper 5 (planning dilutions and controls).

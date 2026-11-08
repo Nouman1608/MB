@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cell-division-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on 4.1.2: chromosomes, the three-stage cell cycle, mitosis in context and stem cells, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed recall notes for section **4.1.2 Cell division** (4.1.2.1 to 4.1.2.3) of the AQA GCSE

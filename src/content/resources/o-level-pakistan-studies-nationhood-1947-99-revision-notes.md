@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "nationhood-1947-99-2059"
 description: "Recall notes for Cambridge O Level Pakistan Studies 2059 Paper 1 Section 3: a timeline of leaders, constitutions, wars and foreign relations, 1947 to 1999."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense Section 3 of Cambridge O Level Pakistan Studies 2059 Paper 1, Nationhood

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "movement-into-and-out-of-cells"
 description: "Condensed revision notes on diffusion, osmosis, water potential and active transport for Cambridge O Level Biology 5090, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, read the [study guide for this topic](/resources/o-level-biology-5090-movement-into-and-out-of-cells/) first.

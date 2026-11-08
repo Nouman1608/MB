@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "balance-of-payments-ocr-aslevel-economics"
 description: "Original practice questions on the balance of payments for OCR A Level Economics (H460), with worked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

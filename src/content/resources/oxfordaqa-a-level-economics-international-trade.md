@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "globalisation-and-trade-oxfordaqa-alevel-economics"
 description: "Study guide to comparative advantage, terms of trade, protectionism, trading blocs and the WTO with worked examples for OxfordAQA A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is written for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers section 3.4.1.2 (Trade). Section 3.4 belongs to the extra International A2 part of the course and builds on the International AS sections 3.1 and 3.2. Section 3.5 (quantitative skills) can be assessed in any unit, so the sums here use percentages (QS2), index numbers (QS5), graphs (QS4) and reading data (QS9). No real country or statistic is used: all figures are made up. Globalisation and transnational corporations (3.4.1.1) are taught on a different page, so they are left out here.
 

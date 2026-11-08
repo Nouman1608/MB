@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-motor-effect-oxfordaqa-igcse"
 description: "Revision notes on induced pd, alternators, dynamos, power station generators and the motor effect for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes condense OxfordAQA International GCSE Physics (9203) specification sections 3.6.1 (Generating electricity) and 3.6.4 (The motor effect), version 5.2, for exams May/June 2018 onwards. The qualification is untiered. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor-practice/). The course hub is at [OxfordAQA International GCSE Physics](/boards/oxfordaqa/igcse/physics/), the [checklist](/checklists/oxfordaqa/igcse/physics/) tracks your progress, and the [free diagnostics](/diagnostics/) show which topics need work first.

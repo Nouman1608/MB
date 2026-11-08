@@ -26,9 +26,12 @@ syllabusTopics:
     subtopic: "output-the-presentation-t19-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 19: creating slides from a text file, master slides, editing slides, hyperlinks, action buttons and outputs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Presentations in Cambridge IGCSE ICT 0417 (Topic 19) cover creating a presentation from a text file, using a master slide to place and format objects consistently, editing slides (layouts, objects, presenter notes, hyperlinks, action buttons, alternative text, transitions, animations, hidden slides) and outputting the presentation as a looped carousel, presenter-controlled show or printed handouts. It is assessed practically in Paper 2.

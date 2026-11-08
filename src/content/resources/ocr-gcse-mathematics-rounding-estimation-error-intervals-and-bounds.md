@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "approximation-and-estimation-detail-ocr-gcse-maths"
 description: "Study guide to rounding, estimation, error intervals and upper and lower bounds for OCR GCSE Mathematics J560, with worked examples for both tiers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). It covers section 4.01 (Approximation and estimation): 4.01a rounding, 4.01b estimation and 4.01c upper and lower bounds. Most of it is assessed at both tiers. Calculating the bounds of a calculation, and the difference between discrete and continuous bounds, is **Higher tier only**.

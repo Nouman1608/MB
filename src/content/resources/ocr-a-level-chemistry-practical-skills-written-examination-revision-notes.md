@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-1-1-4"
 description: "Condensed OCR A Level Chemistry H432 revision notes on practical skills in written papers: variables, units, significant figures, graphs and uncertainty."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 1.1, Practical skills assessed in a written examination, from the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover 1.1.1 Planning, 1.1.2 Implementing, 1.1.3 Analysis and 1.1.4 Evaluation. The section has no tiers; all of it applies to the full A level. Explanations and longer worked examples are in the [practical skills study guide](/resources/ocr-a-level-chemistry-practical-skills-written-examination/).

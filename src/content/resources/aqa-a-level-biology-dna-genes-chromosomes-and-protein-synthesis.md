@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "dna-and-protein-synthesis-aqa-alevel-biology"
 description: "Study guide to AQA A-level Biology sections 3.4.1 and 3.4.2: DNA and chromosomes, the genetic code, transcription, translation and worked codon problems."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide follows the AQA specification for AS and A-level Biology (codes 7401 and 7402), first teaching 2015, and covers sections 3.4.1 (DNA, genes and chromosomes) and 3.4.2 (DNA and protein synthesis). Both sections sit in topic 4, which is AS content and is also part of the A-level course. Nothing in them is marked A-level only. You also need the nucleic acid structure in section 3.1.5.
 

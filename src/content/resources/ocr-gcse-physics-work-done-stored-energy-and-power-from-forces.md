@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "newtons-laws-ocr-gcse"
 description: "Study guide to work done, stored energy and power from forces for OCR GCSE Physics A (J249), statements P2.2m to P2.2o, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026, for first assessment in 2018. It covers statements P2.2m, P2.2n and P2.2o in topic P2.2 Newton's laws: work done by a force, stored energy and energy transfers, and power. None of these three statements is marked as Higher Tier only, so all of it is for both tiers.

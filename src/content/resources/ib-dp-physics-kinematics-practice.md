@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-physics-topic-a"
 description: "Original IB DP Physics A.1 kinematics practice with worked answers: SUVAT, graphs, horizontal and angled projectiles, air resistance and uncertainty in g."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-26
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin page with angled projectile, v-t area, fluid resistance and uncertainty questions (answers recomputed), exam-structure section and FAQ; new description; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewNote: "2026-11-08 recheck: expanded thin page with angled projectile, v-t area, fluid resistance and uncertainty questions (answers recomputed), exam-structure section and FAQ; new description; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

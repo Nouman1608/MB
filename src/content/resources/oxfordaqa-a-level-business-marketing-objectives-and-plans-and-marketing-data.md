@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "marketing-data-9725"
 description: "Study guide to OxfordAQA International AS Business marketing objectives, plans, market research, sampling and data interpretation, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1.2.1 Marketing objectives and plans and 3.1.2.2 Marketing data of the OxfordAQA International AS and A-level Business specification. The 9625 and 9725 wordings differ, so points are labelled: **(9625 only)** or **(9725 only)**; unlabelled points appear in both. Money is in dollars.

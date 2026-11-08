@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-2-1"
 description: "Study guide to OCR A Level Chemistry A 5.2.1 Lattice enthalpy: Born-Haber cycles, solution and hydration cycles, and charge and radius effects."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Section 5.2.1, Lattice enthalpy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, is taught from scratch on this page. The section is part of Module 5, Physical chemistry and transition elements, and each of its outcomes, 5.2.1(a) to (e), has its own heading below. Because H432 is the whole A level, no content here carries an AS or A2 label. According to the specification's assessment overview, Module 5 is examined in the Periodic table, elements and physical chemistry component (01), and Unified chemistry (03) draws on every module.

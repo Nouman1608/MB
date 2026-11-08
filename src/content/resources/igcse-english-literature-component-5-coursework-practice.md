@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "component-5-coursework-0475"
 description: "Original coursework-style tasks for Cambridge IGCSE Literature in English (0475) Component 5, with AO1–AO4 indicative content, level guidance and model answers."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

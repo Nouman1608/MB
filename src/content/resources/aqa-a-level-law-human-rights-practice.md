@@ -59,8 +59,12 @@ syllabusTopics:
     subtopic: "reform-7162"
 description: "AQA A-level Law 7162 human rights practice with worked answers: HRA 1998 ss2-4, Articles 2, 5, 8, 10 and 11, proportionality, judicial review and reform."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 These questions practise section 3.5 Human Rights in AQA A-level Law (7162), the human rights option on

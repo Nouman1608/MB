@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-planning-aqa-gcse-business"
 description: "Study guide to the factors behind a business's location and to business planning, with worked cost and profit examples, for AQA GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1.5 Business location and 3.1.6 Business planning of the AQA GCSE Business (8132) specification, "For first teaching from September 2017". Both sections sit in Topic 1, Business in the real world, which the specification lists as assessed in Paper 1 and in Paper 2.

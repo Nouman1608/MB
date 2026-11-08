@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Condensed recall notes on niche, competition, predation, correlation, succession and required practical 9 for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 3.3.1 of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1, which sits in Unit 3 (International A-level only). For full explanations use the [study guide](/resources/oxfordaqa-a-level-biology-populations-communities-and-ecological-succession/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-populations-communities-and-ecological-succession-practice/). Course pages: [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/), [printable checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/).

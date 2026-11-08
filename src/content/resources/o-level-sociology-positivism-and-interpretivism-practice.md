@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "kq-1-1-2251"
 description: "Original Cambridge O Level Sociology 2251 research-methods practice on positivism, interpretivism, longitudinal studies and bias, built on a source."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

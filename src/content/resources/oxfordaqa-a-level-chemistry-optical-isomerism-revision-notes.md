@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-7-1"
 description: "OxfordAQA 9620 revision notes for optical isomerism: key definitions, chiral-centre checks, drawing enantiomers, racemates and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.3.7, Optical isomerism (subsection 3.3.7.1), of OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020. It is International A2 content, so it is **International A-level only**. Unit 4 assesses sections 3.3.7 to 3.3.16, and the synoptic Unit 5 can draw on any content. For full explanations and worked examples, read the [optical isomerism study guide](/resources/oxfordaqa-a-level-chemistry-optical-isomerism/).

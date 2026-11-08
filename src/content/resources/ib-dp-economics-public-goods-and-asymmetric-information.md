@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-10"
 description: "Study guide to IB DP Economics sub-topics 2.9 public goods and 2.10 asymmetric information (HL only), with fictional worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 2.9, market failure through public goods, which is taught at SL and HL, and sub-topic 2.10, market failure through asymmetric information, which is **HL only**. Every HL-only section below is marked.

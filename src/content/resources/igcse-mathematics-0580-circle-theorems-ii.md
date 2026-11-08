@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "circle-theorems-ii-cambridge-igcse-maths"
 description: "Study guide to Cambridge IGCSE Mathematics 0580 E4.8 (Extended only): chord and tangent symmetry properties of circles, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches subtopic E4.8, Circle theorems II, from the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. The whole subtopic is **Extended only**: the syllabus lists C4.8 as "Extended content only", so there is no Core version. It is examined on Paper 2 (non-calculator) and Paper 4 (calculator), the two Extended papers.

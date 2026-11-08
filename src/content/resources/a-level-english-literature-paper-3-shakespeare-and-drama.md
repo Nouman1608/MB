@@ -21,11 +21,12 @@ syllabusTopics:
     subtopic: "section-b-drama-9695"
 description: "Cambridge 9695 Paper 3 Shakespeare and Drama: A Level-only format, AO5 evaluation of opinion, and the set plays for 2026 and for 2027 compared side by side."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added 2027 set plays (Henry IV Part 1, Our Country's Good replace Hamlet, Long Day's Journey), FAQ, shorter description; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: added 2027 set plays (Henry IV Part 1, Our Country's Good replace Hamlet, Long Day's Journey), FAQ, shorter description; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 Paper 3 -- Shakespeare and Drama is one of two papers exclusive to the

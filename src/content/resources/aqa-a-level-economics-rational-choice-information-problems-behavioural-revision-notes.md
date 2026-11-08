@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "individual-economic-decision-making-aqa-alevel-economics"
 description: "Condensed AQA A-level Economics revision notes on utility, the margin, asymmetric information, biases, nudges, defaults and framing, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), A-level sub-section Individual economic decision making, which the AQA website numbers 3.1.2 and the combined PDF numbers 4.1.2. They cover 3.1.2.1 to 3.1.2.4. For full explanations, read the [study guide](/resources/aqa-a-level-economics-rational-choice-information-problems-behavioural/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-rational-choice-information-problems-behavioural-practice/). The hub is [AQA A-level Economics](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) records progress, and the [free 10-minute diagnostics](/diagnostics/) find gaps. All figures are invented.

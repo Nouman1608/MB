@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-c-1"
 description: "Original IB DP Physics C.1 practice questions on SHM: period of springs and pendulums, a = –ω²x, energy changes, and HL phase angle and energy."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "verification-of-accounting-records-aqa"
 description: "Study guide to AQA A-Level Accounting 7127 section 3.4: trial balance errors, suspense, control accounts and bank reconciliation, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.4, Verification of accounting records, of the AQA A-level

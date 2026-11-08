@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "drugs-cambridge-igcse-biology"
 description: "Condensed Cambridge IGCSE Biology 0610 notes on drugs and antibiotics, with the Core/Extended split, a resistance method box and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense topic 15 (Drugs) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, section 15.1. Outcomes 15.1.1 to 15.1.4 are Core (Papers 1 and 3, and needed by Extended candidates too); outcome 15.1.5 is Supplement, labelled "Extended only" here and tested on Papers 2 and 4. For full explanations and worked examples, use the [Drugs study guide](/resources/igcse-biology-0610-drugs/).

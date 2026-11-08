@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "number-aqa-gcse-maths"
 description: "Structure and calculation, fractions/decimals/percentages, and measures and accuracy -- the full content of Topic 1 Number for AQA GCSE Mathematics (8300)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers **Topic 1 Number**, the first of six topic areas in

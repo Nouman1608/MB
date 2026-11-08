@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "external-factors-4bs1"
 description: "Condensed revision notes on public spending, taxation, tariffs, interest rates and the four external factors for Edexcel IGCSE Business, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These revision notes condense Topic 1, sections 1.6 and 1.7 of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-business-government-objectives-and-policies-and-external-factors/) first. The specification says Paper 1 (small businesses) and Paper 2 (large businesses) can both draw on the whole content, so revise this for either paper.

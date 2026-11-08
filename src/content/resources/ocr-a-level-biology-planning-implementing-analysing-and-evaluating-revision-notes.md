@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "practical-skills-written-examination-ocr-alevel-biology"
 description: "Condensed revision notes on practical skills in the OCR A Level Biology A written papers: planning, units, graphs, anomalies, uncertainty and improvements."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed recall for section 1.1 of OCR A Level Biology A (H420, Version 4.1, April 2026, first assessment in 2025), outcomes 1.1.1 to 1.1.4. For full explanations and worked examples, use the [study guide](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating/). Test yourself with the [practice set](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating-practice/), the [free diagnostics](/diagnostics/), the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/).

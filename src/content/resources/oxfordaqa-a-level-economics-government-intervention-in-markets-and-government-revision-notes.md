@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-failure-and-government-intervention-in-markets-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on government intervention and government failure for OxfordAQA International AS and A-level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense sections 3.1.5.7 (government intervention in markets) and 3.1.5.8 (government failure) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. Both sections are in section 3.1, which is International AS content. For full explanations and longer worked examples, use the [study guide](/resources/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government/). Then try the [practice questions](/resources/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government-practice/). Course pages: [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/). All figures below are invented and illustrative. For elasticity revision, see the pages on [demand elasticities](/resources/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand/) and [supply elasticity](/resources/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply/).
 

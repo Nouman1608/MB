@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "oscillations-ocr-alevel"
 description: "Condensed revision notes on SHM equations, graphs, energy, damping and resonance, with a self-test, for OCR A Level Physics A (H556) section 5.3."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense section 5.3 (Oscillations) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017: statements 5.3.1(a) to (g), 5.3.2(a), (b) and 5.3.3(a) to (e). For full explanations use the [study guide](/resources/ocr-a-level-physics-simple-harmonic-motion-energy-damping-and-resonance/), then try the [practice questions](/resources/ocr-a-level-physics-simple-harmonic-motion-energy-damping-and-resonance-practice/). Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) | [checklist](/checklists/ocr/a-level/physics/) | [free diagnostics](/diagnostics/).
 

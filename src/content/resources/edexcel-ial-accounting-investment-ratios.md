@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "investment-ratios"
 description: "Study guide to Edexcel IAL Accounting topic 2.2: EPS, P/E, dividend per share, yield and cover, and company ROCE, with full worked examples."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches topic 2.2, Investment ratios, from Unit 2 (Corporate and Management Accounting) of Pearson's specification for the Edexcel International Advanced Subsidiary and Advanced Level in Accounting (XAC11/YAC11), Issue 2, September 2018, first taught from September 2015. It covers outcome 2.2.1 and the note attached to it. Everything here is **Unit 2 (A2) only**, so you meet it on the way to the full International A Level; the International AS does not assess it. Every company and figure here is invented, and amounts are in dollars.

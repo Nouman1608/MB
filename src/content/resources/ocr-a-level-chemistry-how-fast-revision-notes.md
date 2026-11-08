@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-1-1"
 description: "Revision notes for OCR A Level Chemistry A 5.1.1 How fast?: rate equations, units of k, half-life, graph shapes, mechanisms, Arrhenius and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, use the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast/).

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "strategic-positioning-choosing-how-to-compete-oxfordaqa-alevel-business"
 description: "Original OxfordAQA 9725 practice questions on market maps, low cost or differentiation and competitive advantage, with fully worked answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "what-happens-in-cells-ocr-gcse-biology"
 description: "Study guide to DNA structure, protein synthesis and enzyme action for OCR GCSE Biology A, with worked examples on base pairing, rates and graphs."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide is written for OCR GCSE (9-1) Gateway Science Biology A (J247), using the specification Version 4.0 (August 2026), for first assessment in 2018. It covers module B1.2, "What happens in cells (and what do cells need)?", statements B1.2a to B1.2g. Statements B1.2d and B1.2e are in bold in the specification and are tested only in the Higher Tier papers; they are labelled "Higher Tier only" below. Everything else is for both tiers.
 

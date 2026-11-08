@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "biological-molecules-cambridge-alevel-biology"
 description: "Study guide to Cambridge AS & A Level Biology 9700 Topic 2: food tests, carbohydrates and lipids, proteins and water, for the 2025-2027 exam series."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-01
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers **Topic 2 Biological molecules**, an AS Level topic

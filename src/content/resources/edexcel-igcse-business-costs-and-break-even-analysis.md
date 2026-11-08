@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "costs-and-break-even-analysis-4bs1"
 description: "Study guide to costs, profit and break-even charts for Pearson Edexcel International GCSE Business 4BS1, with worked examples and common errors."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide teaches section 3.3 Costs and break-even analysis of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It sits in Topic 3, Business finance. The specification has two papers, each lasting 1 hour 30 minutes and worth 80 marks, and each has four compulsory 20-mark questions. Paper 1 is set around a small business (up to 49 employees) and Paper 2 around a large business (more than 250 employees). Both can draw on the whole content, so expect this topic in either. All money amounts below are in pounds and every business is invented.

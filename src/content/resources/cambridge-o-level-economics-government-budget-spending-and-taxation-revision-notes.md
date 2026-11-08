@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "fiscal-policy"
 description: "Condensed revision notes on the budget, public spending, tax types, qualities of a good tax and tax effects for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes cover the Cambridge O Level Economics 2281 syllabus for examination in 2026 (statements 4.3.1 to 4.3.6) in short form. For full explanations, use the [study guide](/resources/cambridge-o-level-economics-government-budget-spending-and-taxation/). Test yourself with the [practice questions](/resources/cambridge-o-level-economics-government-budget-spending-and-taxation-practice/), then check progress with the [free 10-minute diagnostics](/diagnostics/). Course links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/). All numbers below are invented and illustrative.

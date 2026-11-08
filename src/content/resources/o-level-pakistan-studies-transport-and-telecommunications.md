@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "transport-and-telecommunications-2059"
 description: "Study guide to Section 7 of Cambridge O Level Pakistan Studies 2059 Paper 2: road, rail and air networks, border routes, seaports, dry ports and telecoms."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Transport and telecommunications is Section 7 of Paper 2 in Cambridge O Level Pakistan Studies

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "revenue-costs-and-profits-edexcel-alevel-economics"
 description: "Condensed revision notes on revenue, PED, short-run costs and diminishing returns with formulae and a self-test, for Edexcel IAL Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3.2 items 1 and 2 (revenue; short-run costs and diminishing returns) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics (YEC11) specification, Issue 2, June 2018. Unit 3, Business behaviour, is International A2 content and an IAL compulsory unit; it is not part of the IAS. For full explanations use the [study guide](/resources/edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns/), then test yourself with the [practice questions](/resources/edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns-practice/).

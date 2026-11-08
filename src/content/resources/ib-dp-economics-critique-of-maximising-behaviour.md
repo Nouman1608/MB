@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-4"
 description: "Study guide to sub-topic 2.4 of IB Diploma Programme Economics (HL only): rational choice, biases, bounded behaviour, nudges and business objectives."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers **sub-topic 2.4, Critique of the maximizing behaviour of consumers and producers**, which is **HL only**: SL candidates do not study it. Every example in this guide uses invented figures and invented places; none is real data.

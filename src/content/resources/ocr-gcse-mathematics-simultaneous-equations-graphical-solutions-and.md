@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebraic-equations-ocr-gcse-maths"
 description: "Study guide to simultaneous equations, graphical solutions and sign-change methods for OCR GCSE Mathematics J560, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide follows sections 6.03c, 6.03d and 6.03e of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). It covers simultaneous equations, using graphs for approximate solutions, and sign-change methods. Both tiers study the linear simultaneous equations and the graph work on straight lines and quadratics. Anything labelled **Higher tier only** is for Higher tier candidates alone. The specification states that any content can be set on either type of paper, so practise the algebra by hand.

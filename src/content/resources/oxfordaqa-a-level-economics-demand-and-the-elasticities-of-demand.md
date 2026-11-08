@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "how-markets-work-oxfordaqa-alevel-economics"
 description: "Study guide to demand curves and price, income and cross elasticity of demand for OxfordAQA International AS and A-level Economics, with worked sums."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide follows OxfordAQA's economics specification (9640, version 1.2), which applies to International AS papers from May/June 2021 and International A-level papers from May/June 2022. The unit is sections 3.1.2.1 (demand for goods and services) and 3.1.2.2 (price, income and cross elasticities of demand). Section 3.1 is International AS content, examined through Unit 1, and it also counts towards the International A-level. The quantitative skills in 3.5 (QS2 percentages and QS8 elasticity) can be assessed in any unit, so every calculation below shows its working.
 

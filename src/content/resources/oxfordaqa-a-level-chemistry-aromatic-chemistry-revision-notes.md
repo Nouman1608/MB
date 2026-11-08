@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-10-2"
 description: "Revision notes for OxfordAQA 9620 aromatic chemistry: reagent tables, electrophiles, methylbenzene products, radical chlorination and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This page summarises section 3.3.10 (Aromatic chemistry) from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020: subsections 3.3.10.1 (Bonding) and 3.3.10.2 (Electrophilic substitution). Everything here is International A2 content and therefore **International A-level only**. Unit 4 (Organic 2 and Physical 2) examines it, and Unit 5 (Practical and synoptic) may also draw on it.

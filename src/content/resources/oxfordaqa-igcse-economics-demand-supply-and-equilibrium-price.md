@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-prices-are-determined-oxfordaqa-igcse-economics"
 description: "Study guide to demand, supply, equilibrium price and revenue diagrams, with worked examples, for OxfordAQA International GCSE Economics (9214)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1.3.1 to 3.1.3.3 of the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards. This is Paper 1 content (How markets work). Every country, firm and number below is invented for illustration. Intermarket relationships and elasticity are in separate sections of the specification and are not taught here.

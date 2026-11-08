@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "practical-skills-ocr-gcse-biology"
 description: "Twelve original questions with worked answers on planning, data handling, graphs, errors, units and evaluation for OCR GCSE Biology A (J247)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

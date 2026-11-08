@@ -34,8 +34,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-10-6"
 description: "Original OxfordAQA 9620 acids and bases questions with full worked answers: pH, Kw, Ka, titrations, pH curves, practical 7 and buffer pH."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

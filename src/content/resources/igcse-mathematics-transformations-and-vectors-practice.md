@@ -24,12 +24,13 @@ syllabusTopics:
     subtopic: "vector-geometry-cambridge-igcse-maths"
 description: "Cambridge IGCSE Maths 0580 practice with worked answers on reflection, rotation, enlargement, translation, column vectors, magnitude and vector geometry."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08 recheck: rewrote Question 2, which was circular (it described the transformation it asked students to describe), as a 180° rotation image plus the two required facts; tidied the parallelogram reasoning in 5(b). Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
-reviewNeeded: true
+reviewNote: "2026-11-08 recheck: rewrote Question 2, which was circular (it described the transformation it asked students to describe), as a 180° rotation image plus the two required facts; tidied the parallelogram reasoning in 5(b). Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

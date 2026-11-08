@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "databases-0478"
 description: "Single-table databases, fields, records, primary keys, data types and SQL queries using SELECT, FROM, WHERE, ORDER BY, SUM and COUNT for Cambridge IGCSE 0478."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 A database is an organised collection of data that can be searched, sorted and updated efficiently. In Cambridge IGCSE Computer Science 0478 the topic is deliberately focused: you work with a single table, and you write short SQL queries to get information out of it. It is a good topic for secure marks because the rules are precise and the questions are predictable once you have practised the query pattern.

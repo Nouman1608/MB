@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-2-3"
 description: "Study guide to OCR A Level Chemistry A 6.2.3: forming polyesters and polyamides, acid and base hydrolysis, and deducing repeat units and monomers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 6.2.3, Polyesters and polyamides, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 6, Organic chemistry and analysis, and each of its lettered learning outcomes, 6.2.3(a) to (c), is taught below through worked examples. H432 is the full A level, and its specification places Module 6 in two examined components: Synthesis and analytical techniques (02) and Unified chemistry (03). No PAG is listed against this section.

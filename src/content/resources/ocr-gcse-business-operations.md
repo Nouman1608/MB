@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "operations-ocr-gcse-business"
 description: "Study guide to section 4 Operations in OCR GCSE (9-1) Business J204: production, quality, selling, consumer law, location, suppliers, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 4, Operations, of the OCR GCSE (9-1) Business (J204) specification, Version 2.0 (January 2026), for first assessment in 2019. It covers topics 4.1 to 4.6. The content is assessed in Business 2: operations, finance and influences on business (J204/02), an 80-mark component with 15 marks of multiple choice in Section A and 65 marks in Section B. Section B uses stimulus material, so apply every idea below to the business you are given.

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "fiscal-policy-as-cambridge-alevel-economics"
 description: "Condensed revision notes on policy objectives, the budget, national debt, taxes, spending and AD/AS analysis of fiscal policy for Cambridge AS Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes cover sections 5.1 and 5.2 of the Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028: policy objectives (5.1.1) and fiscal policy (5.2.1 to 5.2.7). This is AS Level content, assumed knowledge for A Level Papers 3 and 4. Full explanations are in the [study guide](/resources/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy/), and you can test yourself with the [practice questions](/resources/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy-practice/). Use the [course hub](/boards/cambridge/a-level/economics/), the [checklist](/checklists/cambridge/a-level/economics/) and the [diagnostics](/diagnostics/) to plan revision. All figures are invented, in currency units (cu).

@@ -11,9 +11,10 @@ syllabusSeries: "From 2020"
 order: 2
 description: "The IB MYP Language Acquisition framework from 2020: key concepts, four criteria, six teaching phases, three proficiency levels and the eAssessment structure."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-02
 featured: false
 ---

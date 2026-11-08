@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "advanced-data-structures"
 description: "Condensed revision notes on graphs, trees, hash tables, priority queues and dictionaries for OxfordAQA International A-level Computer Science section 3.10."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These notes condense topic 10, Advanced data structures (sections 3.10.1 to 3.10.5), of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. Everything here is International A-level only and sits in Unit 3: Advanced Programming, the on-screen exam in C#, Python or VB.Net. The [study guide](/resources/oxfordaqa-a-level-computer-science-advanced-data-structures/) has the full explanations and longer worked examples; to test yourself under exam-style conditions, use the [practice questions](/resources/oxfordaqa-a-level-computer-science-advanced-data-structures-practice/).

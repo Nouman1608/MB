@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "kq-1-1-0495"
 description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 1.1: positivism, interpretivism, triangulation, longitudinal studies and judging research."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Key question 1.1 of Cambridge IGCSE Sociology (0495) asks *How do sociologists approach the study of

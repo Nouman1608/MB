@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "section-a-diversity-and-change-7702"
 description: "Original practice with full worked answers on sociolect, dialect, context and language change for AQA A-Level English Language 7702 Paper 2 Section A."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-04
 featured: false
 ---

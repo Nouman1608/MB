@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-and-sustainability-cambridge-alevel-economics"
 description: "Condensed revision notes on inclusive and sustainable growth, resource use, climate impacts and mitigation policy for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 9.2.5 and 9.2.6 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content only, so AS candidates do not sit it. The [study guide](/resources/cambridge-a-level-economics-inclusive-and-sustainable-economic-growth/) gives the full explanations. All figures are invented for illustration.

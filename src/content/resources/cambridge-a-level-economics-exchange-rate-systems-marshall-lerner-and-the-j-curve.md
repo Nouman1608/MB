@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "exchange-rates-a-cambridge-alevel-economics"
 description: "Study guide to Cambridge A Level Economics 11.2: real and trade-weighted rates, fixed and managed systems, devaluation, Marshall-Lerner, J curve."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers syllabus section 11.2 (Exchange rates), outcomes 11.2.1 to 11.2.5, in the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. This is A Level content, so it is not examined at AS. The syllabus says AS Level content is assumed knowledge for A Level Paper 3 and Paper 4.

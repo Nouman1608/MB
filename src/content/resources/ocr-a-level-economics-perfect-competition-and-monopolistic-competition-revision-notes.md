@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-structures-ocr-alevel-economics"
 description: "Condensed revision notes on perfect and monopolistic competition for OCR A Level Economics (H460): definitions, diagrams, barriers and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the [full study guide](/resources/ocr-a-level-economics-perfect-competition-and-monopolistic-competition/) for the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. They cover perfect competition, monopolistic competition, and barriers to entry and exit, in Component 1, Microeconomics. The specification labels no content as AS or Extension. All figures are invented and illustrative.

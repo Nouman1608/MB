@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "causes-first-world-war-2147"
 description: "Original Cambridge O Level History 2147 practice on 1848, Italian unification, the Balkans before 1914 and imperialism, with Paper 1 and Paper 2 style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: replaced Q1 (Congress of Vienna, 1815, before the 1848 start of Option A) with a 1848 revolutions question and Q3 (Eastern Question) with a Balkans 1908-14 question on key question 1.6; mapped subtopics 1.1 and 1.6; FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: replaced Q1 (Congress of Vienna, 1815, before the 1848 start of Option A) with a 1848 revolutions question and Q3 (Eastern Question) with a Balkans 1908-14 question on key question 1.6; mapped subtopics 1.1 and 1.6; FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-22
 featured: false
 ---

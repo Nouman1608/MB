@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Study guide to the light-dependent and light-independent reactions, the Calvin cycle and limiting factors for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide is aligned to the *OxfordAQA International AS and A-level Biology (9610)* specification, Version 5.1, section 3.3.2 (photosynthesis), covering 3.3.2.1 (the light-dependent reaction), 3.3.2.2 (the light-independent reaction) and 3.3.2.3 (limiting factors). It sits in Unit 3, Populations and genes, which the specification lists as International A-level only. It also covers Required practical 7.

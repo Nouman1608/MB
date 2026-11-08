@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "sequences-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 Sequences revision notes: nth-term methods, special and geometric sequences, a quick self-test with answers, common slips."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and worked examples, read the [Sequences study guide](/resources/aqa-gcse-maths-8300-sequences/). These notes condense section **3.2.4 Sequences** (A23, A24 and A25) of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Content in the specification's "Higher content only" column is marked **Higher tier only**; everything else is for both tiers. Sequences can come up on the non-calculator Paper 1 as well as the calculator Papers 2 and 3, so practise every method by hand.

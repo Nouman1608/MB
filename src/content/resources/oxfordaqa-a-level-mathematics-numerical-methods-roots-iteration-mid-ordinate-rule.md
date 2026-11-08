@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-numerical-methods-oxfordaqa-alevel-maths"
 description: "Study guide to P2.9 numerical methods for OxfordAQA International A-level Maths 9660: sign change, iteration, cobweb, mid-ordinate and Simpson's rules."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide covers section P2.9 (Numerical methods) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level (A2) Unit P2 (Pure Maths); it is not examined at International AS. Use it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/mathematics/) and [checklist](/checklists/oxfordaqa/a-level/mathematics/). To find out where you stand first, try the [free diagnostics](/diagnostics/).
 

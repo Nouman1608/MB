@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-1"
 description: "Condensed HL revision notes for IB DP Chemistry Reactivity 3.1.9-3.1.17: pOH, Ka and Kb, salt pH, pH curves, indicators, buffers and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [proton transfer study guide](/resources/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves/) first.

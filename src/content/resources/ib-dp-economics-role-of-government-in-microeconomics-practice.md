@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-7"
 description: "Original practice questions with worked answers on price controls, taxes, subsidies and nudges for IB DP Economics sub-topic 2.7, SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

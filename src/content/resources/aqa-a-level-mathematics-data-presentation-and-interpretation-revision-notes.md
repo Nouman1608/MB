@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "l-data-presentation-and-interpretation-aqa-alevel-maths"
 description: "Revision notes for AQA A-Level Maths Section L: frequency density, correlation, standard deviation formulas, outlier rules and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense **Section L: Data presentation and interpretation** (L1 to L4) of the

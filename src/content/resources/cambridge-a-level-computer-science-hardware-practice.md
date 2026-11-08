@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "logic-gates-and-logic-circuits"
 description: "Original exam-style questions with mark-scheme answers on memory, embedded systems, devices, buffers, sensors and logic circuits for Cambridge 9618 Hardware."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "externalities-ocr-aslevel-economics"
 description: "Study guide to the environment and market failure for OCR A Level Economics: externality diagrams, the Kuznets curve, growth and policy evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the topic **Environment** in Component 1, Microeconomics, within the area of study Market failure and government intervention. The specification labels no content as AS or Extension: it is all A Level. Every figure below is invented and illustrative, and every country, firm and market is fictional.

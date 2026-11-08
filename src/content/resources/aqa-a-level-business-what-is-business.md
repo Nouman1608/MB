@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "what-is-business-aqa-alevel-business"
 description: "Study guide to Topic 1 What is business? for AQA A-level Business 7132: the nature and purpose of business, business forms and the external environment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **Topic 1 What is business?**, the first of ten

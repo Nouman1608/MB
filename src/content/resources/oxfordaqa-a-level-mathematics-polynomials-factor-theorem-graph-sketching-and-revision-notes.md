@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-algebra-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on polynomial division, the Factor Theorem, sketching and transformations for OxfordAQA International AS Mathematics Unit P1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes cover the polynomial, graph and transformation content in P1.1 of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It is part of International AS, Unit P1 (Pure Maths), with no Core, Extension or Higher labels. For fuller explanations and longer worked examples, use the [study guide](/resources/oxfordaqa-a-level-mathematics-polynomials-factor-theorem-graph-sketching-and/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-polynomials-factor-theorem-graph-sketching-and-practice/). See also the [OxfordAQA Mathematics hub](/boards/oxfordaqa/a-level/mathematics/), the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/), the [Unit P1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/) and the [free 10-minute diagnostics](/diagnostics/).

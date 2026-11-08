@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "population"
 description: "Condensed revision notes on population growth, migration, optimum population and pyramid reading for Cambridge O Level Economics 2281, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall notes for section 5.3, Population, of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-o-level-economics-population/) first. There are no tiers. The syllabus says you must interpret a population pyramid but not draw one. All countries and figures here are invented and illustrative.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "differentiation-ocr-alevel-maths"
 description: "Condensed rules, method boxes, a self-test and common slips for product, quotient, chain, implicit and parametric differentiation in OCR H240."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense the differentiation techniques for OCR A Level Mathematics A (H240), written against specification Version 3.1 (August 2026), statements 1.07q to 1.07t, linked to 1.08k. The specification lists them under Stage 2 only, so they are **A Level only**. For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-mathematics-techniques-of-differentiation-product-quotient-chain/). When you are ready, test yourself with the [practice questions](/resources/ocr-a-level-mathematics-techniques-of-differentiation-product-quotient-chain-practice/), find the rest of the course on the [OCR A Level Mathematics hub](/boards/ocr/a-level/mathematics/), and tick off skills on the [printable checklist](/checklists/ocr/a-level/mathematics/). The [free 10-minute diagnostics](/diagnostics/) show where to focus first.

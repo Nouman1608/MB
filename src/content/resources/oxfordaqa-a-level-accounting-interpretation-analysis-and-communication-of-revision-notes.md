@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "interpretation-analysis-and-communication-of-accounting-information-oxfordaqa"
 description: "Condensed notes on investors' ratios, comparisons, cash versus profit, stakeholders, recording systems and recommendations for OxfordAQA Accounting 9615."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These revision notes condense section 3.2.9, Interpretation, analysis and communication of accounting information, of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. This content belongs to the **International A-level only**; according to the specification, Paper 3 and Paper 4 both assess it. The [study guide](/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of/) has the full teaching; to test yourself, use the [practice questions](/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-practice/). Names and numbers are made up; money is in dollars, share prices in cents.

@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "ddl-and-dml"
 description: "Study guide to relational databases, keys, E-R diagrams, normalisation to 3NF, DBMS features and SQL for Cambridge AS & A Level Computer Science 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 A relational database stores data in linked tables so that each fact is held once, can be kept consistent, and can be queried in any combination. Topic 8 of Cambridge International AS & A Level Computer Science 9618 asks you to explain why this beats a file-based approach, use the correct terminology, normalise a design to third normal form (3NF), describe what a database management system (DBMS) provides, and read and write SQL.

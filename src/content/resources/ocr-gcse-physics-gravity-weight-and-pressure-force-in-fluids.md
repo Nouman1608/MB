@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "forces-in-action-ocr-gcse"
 description: "Study guide to gravitational fields, weight, free fall and pressure in fluids for OCR GCSE Physics A (J249), with fully worked calculations and common errors."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 Forces in the OCR GCSE (9-1) Physics A (Gateway Science) specification, Version 5.0 (July 2026), first assessment 2018. P2.3g, P2.3h and P2.3i are assessed on both tiers. P2.3j, P2.3n and P2.3o are not printed in bold, so they are also assessed on both tiers; the specification marks them as separate Physics only content (not in Combined Science). Other pages cover springs and moments: see the [Forces study guide](/resources/ocr-gcse-physics-forces/) for the wider topic.

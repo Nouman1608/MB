@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "group-properties-9202"
 description: "OxfordAQA IGCSE Chemistry (9202) study guide to section 3.7.1: alkali metals, halogens, displacement and reactivity trends, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches group properties for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in section 3.7.1 (statements a to f). The qualification is untiered, so all of it applies to every candidate. The specification allows content from any part of the course on Paper 1 or Paper 2, so expect this unit on either paper.

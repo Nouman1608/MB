@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "number-operations-and-integers-ocr-gcse-maths"
 description: "OCR GCSE Maths J560 number practice with worked answers: negative numbers, order of operations, primes, HCF and LCM, fractions, estimating, inverse operations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added intro naming OCR J560 topic 1, questions on reciprocals and inverse operations (1.04), negative-number order of operations and prime factorisation in index form, and FAQ; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
-reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added intro naming OCR J560 topic 1, questions on reciprocals and inverse operations (1.04), negative-number order of operations and prime factorisation in index form, and FAQ; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "influences-on-the-curriculum-9699"
 description: "Study guide to Cambridge 9699 Sociology 5.1-5.3: theories of education, meritocracy and social mobility, and what shapes the school curriculum."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers sections 5.1 (Theories about the role of education), 5.2 (Education and social mobility) and 5.3 (Influences on the curriculum) of the Cambridge International AS & A Level Sociology (9699) syllabus for examination in 2024, 2025 and 2026. Together they make up topic 5, Education and society. This topic is assessed in Paper 3 – Education, which is an A Level paper, not an AS Level paper.

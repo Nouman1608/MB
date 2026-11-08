@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "poverty-and-inequality-oxfordaqa-alevel-economics"
 description: "Study guide to income and wealth distribution, Lorenz curves, poverty and redistribution policy for OxfordAQA International A-level Economics (9640)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.3.5.1 and 3.3.5.2 of the OxfordAQA International AS and A-level Economics (9640) specification: the distribution of income and wealth, poverty, and government policies that change the distribution. The specification says sections 3.1 and 3.2 are International AS content and sections 3.3 and 3.4 are the extra International A2 content, so this unit is International A2 content. All data below are invented and illustrative.

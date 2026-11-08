@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "different-market-structures-cambridge-alevel-economics"
 description: "Study guide to market structures, natural monopoly, barriers to entry and exit and concentration ratios for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers outcomes 7.6.1, 7.6.2, 7.6.3 and 7.6.5 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 1 to 6 are AS Level content and topics 7 to 11 are A Level content. This unit is A Level content only, so it is not examined at AS Level, and the AS content is assumed knowledge. Every firm, market, country and figure below is invented and illustrative.
 

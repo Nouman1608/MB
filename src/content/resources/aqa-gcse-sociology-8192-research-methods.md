@@ -36,11 +36,12 @@ syllabusTopics:
     subtopic: "ethical-issues-8192"
 description: "Study guide to AQA GCSE Sociology 8192 section 3.7: research design, sampling, methods, data types, reading tables, and practical and ethical issues."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers section 3.7, Sociological research methods, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.7 has seven content rows: research design, qualitative and quantitative methods, different types of data, primary and secondary sources, interpretation of data, practical issues and ethical issues. It is not a separate paper. Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) both assess "relevant areas of social theory and methodology"; each is a 1 hour 45 minute written exam worth 100 marks and 50% of the GCSE.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "distribution-of-income-aqa-gcse-economics"
 description: "Study guide to AQA GCSE Economics 8136 sections 3.2.2.5 and 3.2.2.6: current account calculations, deficits and surpluses, inequality and redistribution."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 The balance of payments records the money flowing into and out of a country from its trade and other transactions with the rest of the world; at GCSE the focus is the current account. The distribution of income describes how a country's income is shared between households, and how far the government narrows the gap through taxes and spending. AQA GCSE Economics (8136) sections 3.2.2.5 and 3.2.2.6 expect you to calculate a current account balance, explain why deficits and surpluses arise, and explain how inequality occurs and how redistribution works.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "operational-management-aqa-alevel-business"
 description: "Original short-answer, calculation and case-study practice for AQA A-Level Business operational management, with worked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-external-environment-9725"
 description: "Condensed recall notes on market size, share, concentration ratio, barriers to entry, income elasticity and external changes for OxfordAQA Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for section 3.1.1.3, The external environment, in the OxfordAQA International AS and A-level Business specification (9625 for current cohorts, 9725 for its successor; the wording used here is from the 9725 document). Full explanations and longer worked examples are in the [study guide](/resources/oxfordaqa-a-level-business-the-external-environment/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-business-the-external-environment-practice/). For the whole topic see the [topic revision notes](/resources/a-business-what-is-business-revision-notes/), the [topic study guide](/resources/a-level-oxfordaqa-business-what-is-business/) and the [topic practice paper](/resources/a-business-what-is-business-practice/). Course hub: [OxfordAQA A-level Business](/boards/oxfordaqa/a-level/business/). Printable list: [checklist](/checklists/oxfordaqa/a-level/business/). Find weak spots first with the [free diagnostics](/diagnostics/). The businesses and figures are invented.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-3"
 description: "Original IB DP Business Management practice questions on section 3.3 costs and revenues, with fully worked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

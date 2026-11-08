@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-2-3-2251"
 description: "Original Cambridge O Level Sociology 2251 identity-question practice on formal control, sanctions, subcultures, age and ethnic identity and global culture."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

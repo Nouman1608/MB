@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "computer-systems-9645"
 description: "Study guide to OxfordAQA International AS and A-level Computer Science topic 6: hardware, system software, the OS, language levels and translators."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide teaches topic 6, Computer systems, of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It covers specification sections 3.6.1 to 3.6.3.2. All of it is International AS content, listed under Unit 2: Concepts and principles of computer science, a written exam, so it also forms part of the full International A-level.

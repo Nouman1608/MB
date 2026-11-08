@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "oscillations-ocr-alevel"
 description: "Study guide to simple harmonic motion, its equations and graphs, energy, damping and resonance, with worked examples, for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers section 5.3 (Oscillations), statements 5.3.1(a) to (g), 5.3.2(a) and (b) and 5.3.3(a) to (e), of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level, and this section sits in module 5, which the specification says is assessed in Modelling physics (01) and Unified physics (03). Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) | [checklist](/checklists/ocr/a-level/physics/) | [free diagnostics](/diagnostics/).
 

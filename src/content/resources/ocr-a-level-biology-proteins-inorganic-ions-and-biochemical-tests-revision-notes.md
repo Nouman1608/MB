@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "biological-molecules-ocr-alevel-biology"
 description: "Condensed revision notes on amino acids, protein structure, ions, reagent tests, colorimetry and Rf values for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense OCR A Level Biology A (H420, Version 4.1, April 2026, first assessment 2025), module 2.1.2 Biological molecules, statements (k) to (s). For full explanations go to the [study guide](/resources/ocr-a-level-biology-proteins-inorganic-ions-and-biochemical-tests/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-proteins-inorganic-ions-and-biochemical-tests-practice/).

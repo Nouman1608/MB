@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cloning-and-biotechnology-ocr-alevel-biology"
 description: "Condensed revision notes on cuttings, micropropagation, embryo splitting, SCNT and the ethics of cloning, OCR A Level Biology A (H420) 6.2.1(a)-(d)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 6.2.1(a) to (d) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-biology-natural-and-artificial-cloning/). When you are ready to test yourself, use the [practice questions](/resources/ocr-a-level-biology-natural-and-artificial-cloning-practice/), the [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/).

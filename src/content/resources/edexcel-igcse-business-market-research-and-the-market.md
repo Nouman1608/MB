@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "the-market-4bs1"
 description: "Study guide to market research methods, data and the market for Edexcel International GCSE Business, with worked examples and common errors."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 4, Marketing: section 4.1 Market research (4.1.1 to 4.1.3) and section 4.2 The market (4.2.1 to 4.2.3). The marketing mix is section 4.3 and is not covered here. Paper 1 uses a small business (up to 49 employees) and Paper 2 a large business (more than 250 employees). Both papers can draw on the whole content.

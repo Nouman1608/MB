@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "radioactivity-cambridge-igcse-physics"
 description: "Study guide for Cambridge IGCSE Physics 0625 Topic 5: atomic structure, isotopes, fission and fusion, alpha, beta and gamma, half-life and safety."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "methods-in-context-7192"
 description: "How the 20-mark methods in context question works in AQA A Level Sociology (7192) Paper 1: applying research methods to education, with a worked example."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers **3.1.2 Methods in Context**, the second of three compulsory content areas

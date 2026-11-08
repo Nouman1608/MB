@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "wave-particle-duality-oxfordaqa"
 description: "Revision notes on line spectra, X-rays, the photoelectric effect and de Broglie wavelength for OxfordAQA International AS and A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense sections 3.5.9 to 3.5.11 of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4: collisions of electrons with atoms, the photoelectric effect and wave-particle duality. They are shared AS and A-level content. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-electron-collisions-photoelectric-effect-and-wave/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-electron-collisions-photoelectric-effect-and-wave-practice/).
 

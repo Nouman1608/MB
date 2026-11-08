@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "thermodynamics-7405"
 description: "Study guide to AQA A-Level Chemistry (7405) section 3.1.8 Thermodynamics: Born-Haber cycles, hydration, entropy and Gibbs free energy."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide covers **section 3.1.8 Thermodynamics** of the AQA AS and A-level Chemistry

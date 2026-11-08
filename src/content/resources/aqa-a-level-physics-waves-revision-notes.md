@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "refraction-diffraction-and-interference"
 description: "Condensed revision notes for AQA A-Level Physics 7408 Waves: key equations, stationary waves, interference, gratings, fibres and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 These notes condense section 3.3 Waves of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.3.1 Progressive and stationary waves and 3.3.2 Refraction, diffraction and interference. It is AS and A-level content, assessed at A-level in Paper 1 and assumed in Paper 2; it is not one of the Paper 3 Section B options (sections 3.9 to 3.13). For full explanations and worked examples, use the [Waves study guide](/resources/aqa-a-level-physics-waves/).

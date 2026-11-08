@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "different-business-forms-aqa-alevel-business"
 description: "Condensed AQA A-Level Business revision notes on objectives, profit, business forms, liability, shares, dividends and market cap, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for AQA A-level Business (7132), sections 3.1.1 and 3.1.2, for first teaching from September 2023. For full explanations use the [study guide](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different/). When you are ready to test yourself, use the [practice set](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different-practice/), the [course hub](/boards/aqa/a-level/business/), the [printable checklist](/checklists/aqa/a-level/business/) and the [free diagnostics](/diagnostics/). The wider topic also has [topic-level revision notes](/resources/aqa-a-level-business-what-is-business-revision-notes/).

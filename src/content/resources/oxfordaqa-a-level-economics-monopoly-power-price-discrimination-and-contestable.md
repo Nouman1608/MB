@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-oxfordaqa-alevel-economics"
 description: "Study guide to the monopoly model, third-degree price discrimination and contestable markets for OxfordAQA International A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows sections 3.3.3.5 (monopoly and monopoly power), 3.3.3.6 (price discrimination) and 3.3.3.7 (contestable markets) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. The specification places section 3.3 in the extra International A2 content, examined in Unit 3. The first International AS exams were in May/June 2021 and the first International A-level exams in May/June 2022.

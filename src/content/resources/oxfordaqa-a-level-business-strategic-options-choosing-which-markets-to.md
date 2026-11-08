@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "strategic-options-choosing-markets-and-products-oxfordaqa-alevel-business"
 description: "Study guide for OxfordAQA A-level Business 9725 section 3.4.1: strategic decisions, SWOT-led choices and the Ansoff matrix, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Everything below is built on the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Its subject is section 3.4.1 Strategic options: choosing which markets to compete in and what products to offer, the opening section of 3.4 Business strategy, and every outcome in it is **International A-level only**. Students completing the older 9625 specification should work from their own specification instead.

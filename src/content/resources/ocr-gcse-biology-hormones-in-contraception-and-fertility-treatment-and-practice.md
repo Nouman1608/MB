@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordination-and-control-the-endocrine-system-ocr-gcse-biology"
 description: "Eleven original practice questions with worked answers on contraception, IVF and plant hormones for OCR GCSE Biology A (J247)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

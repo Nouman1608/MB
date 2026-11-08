@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "resistivity-oxfordaqa-alevel"
 description: "Condensed revision notes on current, p.d., resistance, I-V graphs, resistivity, ntc thermistors and superconductors for OxfordAQA AS and A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 3.4.1 to 3.4.3 of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4: basics of electricity, current-voltage characteristics and resistivity. The content is shared International AS and A-level content. Longer explanations and worked examples are in the [study guide](/resources/oxfordaqa-a-level-physics-current-p-d-resistance-i-v-characteristics-and/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-current-p-d-resistance-i-v-characteristics-and-practice/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "expanding-a-business-aqa-gcse-business"
 description: "Condensed recall notes on growth methods, economies and diseconomies of scale and average unit cost for AQA GCSE Business section 3.1.7."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.1.7 Expanding a business from the AQA GCSE Business (8132) specification, for first teaching from September 2017. For full explanations and worked examples, read the [study guide](/resources/aqa-gcse-business-expanding-a-business/). Then test yourself with the [practice questions](/resources/aqa-gcse-business-expanding-a-business-practice/).

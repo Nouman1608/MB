@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-hypothesis-testing-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on z-tests and t-tests for a mean, with formulae, method steps, a self-test and common errors for OxfordAQA A-level Maths Unit S2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense S2.6 (tests for a mean) from the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The content belongs to International A-level Unit S2 (Statistics) and is not examined at International AS. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-hypothesis-tests-for-means-z-tests-and-t-tests/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-hypothesis-tests-for-means-z-tests-and-t-tests-practice/). See also the [course hub](/boards/oxfordaqa/a-level/mathematics/), the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).

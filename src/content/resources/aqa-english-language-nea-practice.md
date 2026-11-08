@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "methods-of-language-analysis-3-3-3-7702"
 description: "Original NEA practice for AQA A-level English Language (7702): investigation design, data analysis, style-model work and commentary writing, with model answers."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and practice

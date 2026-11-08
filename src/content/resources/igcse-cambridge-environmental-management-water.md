@@ -32,9 +32,10 @@ syllabusTopics:
     subtopic: "plastic-pollution-0680"
 description: "The water cycle, water supply, pollution, water-related diseases, marine aquaculture, and oil and plastic pollution: Topic 3 of Cambridge IGCSE 0680, 2027-2029."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-02
 featured: false
 ---

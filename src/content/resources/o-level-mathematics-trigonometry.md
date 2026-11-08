@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "trigonometry"
 description: "A step-by-step Cambridge O Level Mathematics study guide to Pythagoras, right-angled and non-right-angled trigonometry, bearings and 3D problems."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide teaches topic 6, Trigonometry, from the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. It covers sections 6.1 to 6.4. The syllabus does not split this topic into tiers, so all of it is for every candidate. Paper 1 forbids calculators while Paper 2 requires one, and on Paper 2 candidates should give angles in degrees to 1 decimal place and other non-exact answers to 3 significant figures unless the question says otherwise.
 

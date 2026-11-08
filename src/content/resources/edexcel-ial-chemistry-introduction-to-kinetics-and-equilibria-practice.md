@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "introduction-to-kinetics-and-equilibria-ych11"
 description: "Original Edexcel IAL Chemistry Topic 9 practice questions with worked answers on rates, tangents, catalysts, equilibrium shifts and industrial compromise."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

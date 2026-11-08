@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "containment-communism-2147"
 description: "Original Cambridge O Level History 2147 practice on Versailles, the League, Hitler's foreign policy and containment, in Paper 1 and Paper 2 formats."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-05
 featured: false
 ---

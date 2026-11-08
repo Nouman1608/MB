@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "people-management-aqa-aslevel-business"
 description: "Original worked practice questions for AQA AS Business 7137 section 3.2.1 People management, with HR data, structures, motivation and case studies."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

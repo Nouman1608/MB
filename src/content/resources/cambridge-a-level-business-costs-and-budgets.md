@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "budgets-cambridge-alevel-business"
 description: "Study guide to 5.4 Costs and 5.5 Budgets of Cambridge AS & A Level Business 9609: costing, break-even, budgets and variances, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers sections 5.4 Costs and 5.5 Budgets of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. They sit in Topic 5, Finance and accounting, an AS Level topic that A Level candidates also study: the syllabus says AS content is assumed knowledge for Paper 3 and Paper 4. All businesses here are invented.
 

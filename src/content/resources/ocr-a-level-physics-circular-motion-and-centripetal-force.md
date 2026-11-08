@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "circular-motion-ocr-alevel"
 description: "Study guide to radians, angular velocity, centripetal acceleration and force, and the whirling bung practical for OCR A Level Physics A (H556) 5.2."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide covers section 5.2 (Circular motion) of the H556 Physics A specification from OCR (Version 3.0, March 2026): 5.2.1 Kinematics of circular motion and 5.2.2 Centripetal force. It sits in Module 5, Newtonian world and astrophysics, and the ideas return in planetary motion (5.4.3). For condensed recall use the [revision notes](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force-revision-notes/), and check your understanding with the [practice questions](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force-practice/). Related: the subject [hub](/boards/ocr/a-level/physics/), the [checklist to print](/checklists/ocr/a-level/physics/), and the [free 10-minute diagnostics](/diagnostics/) if you want to find your weak spots first.

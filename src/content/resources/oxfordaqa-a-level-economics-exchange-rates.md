@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-balance-of-payments-exchange-rates-and-financial-markets-oxfordaqa-alevel-economics"
 description: "Study guide to exchange rate determination, speculation, intervention, exchange rate systems and effects, for OxfordAQA International Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is built on section 3.4.2.2 (exchange rates) of the International AS and A-level Economics specification from OxfordAQA, version 1.2. Section 3.4 is extra International A2 content. Quantitative skills from section 3.5 apply in every unit, so the sums here use percentages, graphs and elasticity. All figures are invented, and the countries and currencies are fictional.

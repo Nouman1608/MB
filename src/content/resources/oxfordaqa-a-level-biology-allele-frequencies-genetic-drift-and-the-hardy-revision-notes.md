@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on allele frequency, bottlenecks, genetic drift and the Hardy-Weinberg equation for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These notes condense sections 3.3.7.1 and 3.3.7.2 of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1, for International A-level exams May/June 2018 onwards. Unit 3 is listed under the International A-level assessments, not the International AS. For full explanations use the [study guide](/resources/oxfordaqa-a-level-biology-allele-frequencies-genetic-drift-and-the-hardy/). Then try the [practice questions](/resources/oxfordaqa-a-level-biology-allele-frequencies-genetic-drift-and-the-hardy-practice/), check your coverage on the [printable checklist](/checklists/oxfordaqa/a-level/biology/), see the [course hub](/boards/oxfordaqa/a-level/biology/) and find gaps with the [free diagnostics](/diagnostics/).
 

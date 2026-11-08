@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "absorption-and-activity-based-costing-oxfordaqa"
 description: "Condensed OxfordAQA International A-level Accounting 3.2.2 notes: OAR and ABC formulas, method steps, profit under three costing methods and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This page condenses the [study guide](/resources/oxfordaqa-a-level-accounting-absorption-and-activity-based-costing/); go there for full explanations and the longer worked examples.

@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "networks-including-the-internet"
 description: "Recall notes for Cambridge AS Computer Science 9618 Topic 2: network models, topologies, cloud computing, media, Ethernet, CSMA/CD, IP addressing and DNS."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-09-03
 featured: false
 ---

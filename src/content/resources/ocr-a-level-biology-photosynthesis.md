@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "photosynthesis-ocr-alevel-biology"
 description: "Study guide to photosynthesis for OCR A Level Biology A (H420) section 5.2.1: chloroplasts, pigments, both stages, uses of TP and limiting factors."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers learning outcomes 5.2.1(a) to 5.2.1(g) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It sits in module 5, Communication, homeostasis and energy. It teaches the link with respiration, chloroplast structure, pigments and chromatography, the light-dependent stage, the Calvin cycle, the uses of triose phosphate and limiting factors. Respiration (5.2.2) is a separate unit.

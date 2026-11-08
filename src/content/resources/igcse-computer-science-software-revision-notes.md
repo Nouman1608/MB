@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "software"
 description: "Quick-recall notes on system and application software, OS functions, interrupts, firmware, translators and IDEs for Cambridge IGCSE Computer Science 0478."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 4 Software asks you to tell system software from application software, list what an operating system does, explain how interrupts are generated and handled, and compare high-level with low-level languages and compilers with interpreters. In Cambridge IGCSE Computer Science (0478) it is examined on Paper 1, mostly through short "state" and "describe" questions where exact wording earns the marks.

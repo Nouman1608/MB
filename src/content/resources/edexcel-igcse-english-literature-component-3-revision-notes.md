@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "assignment-b-literary-heritage-texts-4et1"
 description: "Condensed notes on Edexcel IGCSE English Literature (4ET1) Component 3: modern drama and literary heritage assignments, AO split, word count and levels."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Component 3 is the coursework alternative to Component 2 in Pearson Edexcel International GCSE English

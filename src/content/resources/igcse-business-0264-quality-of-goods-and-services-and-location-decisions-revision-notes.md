@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "location-decisions-0264"
 description: "Condensed revision notes on quality control, quality assurance and location decisions for Cambridge IGCSE Business 0264, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 4.5 (Quality of goods and services) and 4.6 (Location decisions) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-quality-of-goods-and-services-and-location-decisions/). When you are ready to test yourself, use the [practice questions](/resources/igcse-business-0264-quality-of-goods-and-services-and-location-decisions-practice/), the [course hub](/boards/cambridge/igcse/business/), the [printable checklist](/checklists/cambridge/igcse/business/) and the [free diagnostics](/diagnostics/).

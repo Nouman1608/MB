@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "revenue-costs-and-profits-edexcel-alevel-economics"
 description: "Study guide to revenue, elasticity, short-run costs and diminishing returns with worked tables, for Edexcel International A Level Economics (YEC11)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.3.2 (Revenue, costs and profits), items 1 and 2, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics (YEC11) specification, Issue 2, June 2018. Units 1 and 2 make up the International AS. Unit 3, Business behaviour, is extra International A2 content: the specification labels it an IAL compulsory unit, so it is not part of the IAS alone. Items 3 and 4 of 3.3.2 (scale, profits and shutdown points) are taught elsewhere.

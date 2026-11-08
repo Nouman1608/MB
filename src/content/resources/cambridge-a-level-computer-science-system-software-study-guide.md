@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "language-translators"
 description: "Guide to Topic 5 of Cambridge AS Computer Science 9618: operating system tasks, utilities, libraries and DLLs, interrupts, translators and IDE features."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check which operating system topics (memory management, process management, paging) are in the AS content of 5.1 and which are A Level only."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check which operating system topics (memory management, process management, paging) are in the AS content of 5.1 and which are A Level only; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

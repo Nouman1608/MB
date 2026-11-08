@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "investigation-wwi-4hi1"
 description: "Condensed notes on Investigation A1, the First World War 1905–18, for Edexcel IGCSE History 4HI1: timeline, crises, deadlock, the sea war and 1918."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

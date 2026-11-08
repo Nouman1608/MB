@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c3-2"
 description: "IB DP Biology C3.2 study guide: pathogens, barriers, phagocytes, B and T cells, HIV, antibiotics, vaccines, herd immunity and COVID-19 data, worked."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers section C3.2 (Defence against disease) of the IB *Biology guide*, first assessment 2025, for DP Biology. Statements C3.2.1 to C3.2.18 are for both SL and HL, and the guide lists no additional higher level material for the section, so nothing here is HL only.

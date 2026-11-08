@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-3"
 description: "Study guide to IB DP Business Management 2.3: management and leadership, five leadership styles, and scientific and intuitive thinking (HL only)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 2.3, Leadership and management, in Unit 2 (Human resource management) of the IB *Business management guide*, first assessment 2024. Most of the section applies to both SL and HL. One point, scientific and intuitive thinking/management, is labelled HL only in the guide. The wording of the official text is short, so this guide fills in each named idea with the standard textbook account and says where it does so.

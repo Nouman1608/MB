@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-financial-sector-ocr-alevel-economics"
 description: "Revision notes on money, bank credit creation, liquidity preference, loanable funds and MV = PT for OCR A Level Economics (H460), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the money outcomes in the role of the financial sector topic of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. The specification labels none of this macroeconomics content as a separate stage. For full explanations and worked examples, use the [study guide](/resources/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates/). Test yourself with the [practice questions](/resources/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates-practice/), then check the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures here are invented.

@@ -31,9 +31,13 @@ syllabusTopics:
     subtopic: "employer-employee-relations-9725"
 description: "Revision notes for OxfordAQA International AS Business 9725 human resources: HR formulas, key terms, theories, distinctions and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the human resources topic (sections 3.2.2.1 to 3.2.2.5) of the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams from May/June 2027 and International A-level exams from May/June 2028. All of it is International AS content, assessed in Unit 2: Managing operations, human resources and finance. If you are finishing the older 9625 specification, use your own specification. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-business-human-resources/) first.

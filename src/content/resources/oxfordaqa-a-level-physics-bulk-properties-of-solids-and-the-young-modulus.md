@@ -20,9 +20,13 @@ syllabusTopics:
     subtopic: "the-young-modulus-oxfordaqa"
 description: "Study guide to density, Hooke's law, stress, strain, elastic energy and the Young modulus for OxfordAQA International AS and A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers sections 3.2.9 (Bulk properties of solids) and 3.2.10 (The Young modulus) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. Both sections are shared content: they are part of International AS and also of International A-level. It includes Required practical 2. Condensed recall is in the [revision notes](/resources/oxfordaqa-a-level-physics-bulk-properties-of-solids-and-the-young-modulus-revision-notes/) and exam-style questions are in the [practice set](/resources/oxfordaqa-a-level-physics-bulk-properties-of-solids-and-the-young-modulus-practice/). Course pages: [OxfordAQA A-level Physics hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/). Related: [mechanics and materials revision notes](/resources/oxfordaqa-a-level-physics-mechanics-materials-revision-notes/). To find weak spots first, try the [free diagnostics](/diagnostics/).
 

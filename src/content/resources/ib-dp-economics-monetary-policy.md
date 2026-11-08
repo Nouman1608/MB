@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-5"
 description: "Study guide to IB DP Economics sub-topic 3.5: goals, real interest rates, AD/AS diagrams, effectiveness, plus HL money creation, tools and money market."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers monetary policy, sub-topic 3.5 of Unit 3 (Macroeconomics). It follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. Most of 3.5 is for both SL and HL. Money creation by commercial banks, the tools of monetary policy and the money market diagram are **HL only** and are marked that way below.

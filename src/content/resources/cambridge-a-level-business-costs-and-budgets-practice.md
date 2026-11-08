@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "budgets-cambridge-alevel-business"
 description: "Original practice questions with worked answers on 5.4 Costs and 5.5 Budgets for Cambridge AS & A Level Business 9609: short, calculation, case study."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "verification-of-accounting-records-oxfordaqa-alevel"
 description: "Condensed OxfordAQA A-level Accounting notes on 3.1.4 verification: error types, journal and suspense, control accounts, bank reconciliation, self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For full explanations and longer worked examples, start with the

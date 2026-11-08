@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "motivating-employees"
 description: "Condensed revision notes on motivation for Cambridge O Level Business 7115: formulas, theories, methods, a self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.1 Motivating employees (2.1.1 and 2.1.2) of the Cambridge O Level Business Studies (7115) syllabus for examination in 2026. For full explanations and worked examples, read the [study guide](/resources/o-level-business-motivating-employees/). When you are ready to test yourself, use the [practice questions](/resources/o-level-business-motivating-employees-practice/).

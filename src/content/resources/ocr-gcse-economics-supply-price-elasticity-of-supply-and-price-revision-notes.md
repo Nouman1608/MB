@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-ocr-gcse-economics"
 description: "Condensed revision notes on supply, price elasticity of supply, equilibrium and market forces for OCR GCSE (9-1) Economics (J205) sections 2.3 and 2.4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Use these notes for fast recall of sections 2.3 (Supply) and 2.4 (Price) of Topic 2, OCR GCSE (9-1) Economics (J205), version 2.0, first assessment 2019. Nothing here is tiered. The [study guide](/resources/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price/) gives the full reasoning; afterwards try the [practice questions](/resources/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price-practice/), mark progress on the [checklist](/checklists/ocr/gcse/economics/); more is on the [course hub](/boards/ocr/gcse/economics/), and check gaps with a free [10-minute diagnostic](/diagnostics/). The figures below are made up for illustration.

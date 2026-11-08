@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "human-gas-exchange"
 description: "Condensed notes on alveoli, air composition, breathing mechanics, exercise and airway defence for Cambridge O Level Biology 5090, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, use the [study guide for this topic](/resources/o-level-biology-5090-human-gas-exchange/). These notes condense Topic 9, Human gas exchange, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028: every learning outcome in section 9.1 (9.1.1 to 9.1.9). The syllabus is not tiered, so all of it applies to every candidate.

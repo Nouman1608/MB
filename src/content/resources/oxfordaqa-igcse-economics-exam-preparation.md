@@ -11,9 +11,10 @@ syllabusSeries: "First teaching 2023, first examined 2025"
 order: 3
 description: "How OxfordAQA International GCSE Economics 9214 mixes multiple choice and essay-style questions in two 80-mark papers, with timing and an essay routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -31,11 +31,12 @@ syllabusTopics:
     subtopic: "obstacles-to-progress-9690"
 description: "Study guide to OxfordAQA 9690 Sociology Unit 3: the Great Divergence, globalisation, aid, migration, diasporas and obstacles to development."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide teaches Unit 3, People and development, of the OxfordAQA International AS and A-level Sociology (9690) specification, Version 1.1 (first teaching September 2026; first A-level exams May/June 2028). It covers every content point in section 3.2.1, from 3.2.1.1 to 3.2.1.5. The specification assesses this content in the Unit 3 exam: 1 hour 30 minutes, 50 marks, 20% of the International A-level, with short and extended response questions.

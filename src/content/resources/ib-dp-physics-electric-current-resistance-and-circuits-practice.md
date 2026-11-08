@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-5"
 description: "Original IB DP Physics B.5 practice questions on current, resistance, power, circuits and internal resistance, with worked answers, for SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

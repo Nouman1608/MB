@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "trigonometric-functions-cambridge-igcse-maths"
 description: "Study guide for Cambridge IGCSE Maths 0580 E6.3-E6.4: exact sin, cos and tan values, the graphs of y = sin x, cos x, tan x and solving trig equations."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches subtopics E6.3 Exact trigonometric values and E6.4 Trigonometric functions from topic 6, Trigonometry, of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. Both subtopics are **Extended only**: the syllabus lists C6.3 and C6.4 as "Extended content only", so they are not tested on the Core papers (Papers 1 and 3). Extended candidates meet them on Paper 2, which is non-calculator, and Paper 4, which is a calculator paper. Paper 2 is where exact values matter most, because you cannot look a value up.

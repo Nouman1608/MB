@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "the-impact-of-ethical-considerations"
 description: "Original AQA A-Level Accounting 7127 section 3.18 questions on ethical threats, governance, audit, regulators and wrongdoing, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

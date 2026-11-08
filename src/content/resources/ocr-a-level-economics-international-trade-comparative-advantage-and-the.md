@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "international-trade-ocr-aslevel-economics"
 description: "Study guide to comparative advantage, opportunity cost ratios, terms of trade, Heckscher-Ohlin, competitiveness, trade and aid for OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers International trade, part of The global context in Component 2, Macroeconomics. The specification labels no content as AS or Extension: all of it is A Level. Every country and figure is made up for illustration.

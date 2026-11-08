@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "structure-and-calculation-oxfordaqa-igcse-maths"
 description: "Study guide to ordering, operations, primes, HCF, LCM, powers, roots and calculator use for OxfordAQA International GCSE Mathematics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide follows the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It covers section 3.1.1 Structure and calculation, content references N1 to N5 and N10. Every statement here is Core content, and the specification says all content can be assessed on the Extension tier papers, so Core and Extension students both need all of it. Nothing on this page is "Extension only".

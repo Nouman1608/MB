@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-4"
 description: "Study guide to sub-topic 4.4 of IB DP Economics: preferential trade agreements, trading blocs, monetary union and the WTO, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.4, Economic integration. The agreements, the three types of bloc, their advantages and disadvantages, monetary union and the World Trade Organization (WTO) are SL and HL. Trade creation, trade diversion and the evaluation of monetary union are HL only, and they are marked that way below.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "capacitors-ocr-alevel"
 description: "Condensed revision notes on capacitance, series and parallel capacitors, simple capacitor circuits and stored energy for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Condensed recall for OCR A Level Physics A (H556), specification Version 3.0 (March 2026), sections 6.1.1(a)-(e) and 6.1.2(a)-(c). Fuller explanations and longer examples are in the [study guide](/resources/ocr-a-level-physics-capacitance-capacitor-combinations-and-stored-energy/). Test yourself with the [practice questions](/resources/ocr-a-level-physics-capacitance-capacitor-combinations-and-stored-energy-practice/), tick topics off on the [printable checklist](/checklists/ocr/a-level/physics/), find the course on the [OCR A Level Physics hub](/boards/ocr/a-level/physics/), and try the [free diagnostics](/diagnostics/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-2"
 description: "Study guide to IB DP Business Management 3.1 and 3.2: capital and revenue expenditure, internal and external sources of finance, and choosing between them."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1 (Introduction to finance) and 3.2 (Sources of finance) of the IB *Business management guide*, first assessment 2024. Both sections are SL and HL content. Section 3.1 is listed at AO2 depth, and so are the internal and external sources in 3.2. The last point in 3.2, appropriateness of short- or long-term sources of finance for a given situation, is listed at AO3, which means you must weigh options and reach a judgment, not just describe them.

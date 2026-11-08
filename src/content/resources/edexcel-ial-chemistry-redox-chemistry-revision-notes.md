@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "redox-chemistry-and-groups-1-2-and-7-ych11"
 description: "Condensed Edexcel IAL Chemistry redox notes for outcomes 8.1-8.10: oxidation number rules, naming, disproportionation, half-equations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 8A: Redox chemistry of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, learning outcomes 8.1 to 8.10. The topic sits in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols, an IAS unit. For full explanations and longer worked examples, read the [redox study guide](/resources/edexcel-ial-chemistry-redox-chemistry/) first.

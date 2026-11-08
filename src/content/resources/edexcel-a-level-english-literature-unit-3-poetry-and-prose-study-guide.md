@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "unit-3-prose-yet01"
 description: "Reading and writing about poetry and prose for Unit 3 of Edexcel International A Level English Literature, with a method for comparison and a worked paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check which set texts or collections the unit uses, whether the poetry and prose sections ask for comparison, which section carries 20 marks and which 30, and the assessment objective weightings. 2026-11-08 recheck: FAQ added."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check which set texts or collections the unit uses, whether the poetry and prose sections ask for comparison, which section carries 20 marks and which 30, and the assessment objective weightings. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

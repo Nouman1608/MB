@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-labour-market-oxfordaqa-alevel-economics"
 description: "Study guide to wages and employment in perfect and imperfect labour markets: monopsony, trade unions and imperfect information, for OxfordAQA 9640."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.3.4.3 (wage determination in perfectly competitive labour markets) and 3.3.4.4 (imperfectly competitive labour markets). Section 3.3 is extra International A2 content, assessed in Unit 3 together with the quantitative skills in 3.5. All figures below are invented and illustrative.
 

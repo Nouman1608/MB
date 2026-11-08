@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "maintaining-internal-environments-ocr-gcse-biology"
 description: "Condensed revision notes on osmosis in body fluids, the kidney, water balance and ADH for OCR GCSE Biology A (J247), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense statements B3.3f to B3.3j of module B3.3 in OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh/). B3.3i and B3.3j are in bold in the specification, so they are tested only in the Higher Tier papers; they are labelled below. Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) | [checklist](/checklists/ocr/gcse/biology/) | [all free 10-minute diagnostics](/diagnostics/).

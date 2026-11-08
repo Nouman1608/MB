@@ -27,9 +27,12 @@ syllabusTopics:
     subtopic: "introduction-to-abstract-data-types-adt"
 description: "AS study guide to data types, records, arrays, text files and the stack, queue and linked list abstract data types for Cambridge Computer Science 9618."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Programs are only as good as the way they store their data. This topic covers the basic data types, how to group related values into records and arrays, how to keep data in files between runs, and the idea of an abstract data type (ADT) such as a stack or a queue. You are expected both to explain these ideas and to write Cambridge-style pseudocode that uses them.

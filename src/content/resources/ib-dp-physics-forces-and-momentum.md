@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-2"
 description: "Newton's laws, contact and field forces, momentum, impulse, collisions and circular motion: sub-topic A.2 of IB DP Physics, the same at SL and HL."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-02
 featured: false
 ---

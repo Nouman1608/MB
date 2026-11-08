@@ -11,11 +11,12 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 3
 description: "How to prepare for OCR GCSE Business J204: two 80-mark papers, synoptic Component 02, using the case study, and a calculate-then-interpret routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 OCR GCSE (9-1) Business (J204) is untiered and linear, assessed by two compulsory components of equal

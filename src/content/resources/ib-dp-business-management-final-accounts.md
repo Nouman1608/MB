@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-4"
 description: "Study guide to section 3.4 of IB DP Business Management: purpose of accounts, profit and loss account, balance sheet, intangible assets, HL depreciation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.4 (Final accounts) of Unit 3 in the IB *Business management guide*, first assessment 2024. Most of the section applies at both SL and HL. The two depreciation methods and the choice between them are marked "HL only" in the guide, and this page labels them the same way. Use it with the [course hub](/boards/ib/ib-dp/business/), the [printable checklist](/checklists/ib/ib-dp/business/), the [revision notes](/resources/ib-dp-business-management-final-accounts-revision-notes/) and the [practice questions](/resources/ib-dp-business-management-final-accounts-practice/). For the wider unit, see the [Unit 3 overview](/resources/ib-dp-business-management-finance-accounts/). To test yourself on Unit 3 as a whole, try the [diagnostics](/diagnostics/).

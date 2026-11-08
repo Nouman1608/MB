@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "excretion-in-humans-cambridge-igcse-biology"
 description: "Condensed revision notes on excretion for Cambridge IGCSE Biology 0610: kidney, nephron, deamination and urea, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes cover topic 13, Excretion in humans, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: section 13.1, outcomes 1–9. Outcomes 1–3 are Core and are tested on every paper. Outcomes 4–9 are Supplement, marked **Extended only**, and appear only on the Extended Papers 2 and 4. For full explanations and worked examples, use the [excretion study guide](/resources/igcse-biology-0610-excretion-in-humans/).

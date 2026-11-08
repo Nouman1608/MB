@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "pakistan-21st-century-9236"
 description: "Study guide to 9236 topic 3.1.2, OxfordAQA International GCSE Pakistan Studies: constitutions, politics 1999–2022, foreign relations and women's empowerment."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Pakistan into the 21st Century: from Independence to 2022 is topic 3.1.2 of OxfordAQA

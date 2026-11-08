@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-carbonyls-carboxylic-acids-and-chirality-ych11"
 description: "Edexcel IAL Chemistry Topic 15E study guide: accurate mass, carbon-13 and proton NMR, the (n+1) rule, Rf values, HPLC and GC with mass spectrometry."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches Topic 15E: Spectroscopy and chromatography from the Pearson Edexcel International Advanced Level in Chemistry (YCH11) specification, Issue 1, September 2017. It works through every outcome from 15.17 to 15.23. Being IA2 (International A2) material, it belongs in Unit 4: Rates, Equilibria and Further Organic Chemistry, closing Topic 15 (Organic Chemistry: Carbonyls, Carboxylic Acids and Chirality). The specification says that Unit 2, Topic 10D (mass spectra and IR) is assumed and extended here, so revise [Topic 10D on mass spectra and IR](/resources/edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy/) first if fragmentation or IR absorptions feel shaky.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-3-1-3"
 description: "Condensed revision notes for OCR A Level Chemistry A 3.1.3 The halogens, with colour tables, key equations, a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.1.3, The halogens, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover outcomes 3.1.3(a) to (g); OCR assesses this module (Module 3, Periodic table and energy) in Periodic table, elements and physical chemistry (01) and Unified chemistry (03). H432 is the full A level. Outcome (g) links to PAG4.

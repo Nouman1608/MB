@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-3"
 description: "Study guide to IB DP Physics D.3: charges in electric and magnetic fields, forces on conductors, charge-to-mass ratio and parallel wires."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches **D.3, Motion in electromagnetic fields**, from Theme D (Fields) of the IB *Physics guide*, first assessment 2025. D.3 is taught at both standard level (SL) and higher level (HL), and the guide lists no additional HL content for it, so everything here applies to both. It follows on from the field ideas in D.2. For the rest of the course, see the [IB Physics hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-e-4"
 description: "Study guide to fission energy, chain reactions, reactor components and nuclear waste for IB DP Physics sub-topic E.4, SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches sub-topic E.4, Fission, from the IB *Physics guide* for first assessment 2025. The content is the same for SL and HL: the guide adds no extra HL material to E.4, and suggests about four hours of teaching. It follows on from binding energy and radioactive decay in E.3, so read the [nuclear structure and binding energy guide](/resources/ib-dp-physics-nuclear-structure-binding-energy-and-types-of/) first if mass defect is new to you.

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "incomplete-records-4ac1"
 description: "Condensed revision notes on incomplete records for Edexcel International GCSE Accounting 4AC1: formulas, methods, distinctions and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 4.3 Incomplete records from Topic 4 of the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. Topic 4 is assessed in Paper 2. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-igcse-accounting-incomplete-records/), then test yourself with the [practice questions](/resources/edexcel-igcse-accounting-incomplete-records-practice/). Course links: [Edexcel IGCSE Accounting hub](/boards/edexcel/igcse/accounting/), the [printable checklist](/checklists/edexcel/igcse/accounting/) and the [free diagnostics](/diagnostics/). All amounts are in dollars.

@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "elimination-alcohols-7405"
 description: "Condensed AQA A-Level Chemistry alcohols notes: production, biofuels, oxidation products, aldehyde tests, elimination, practical 5 and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.3.5 Alcohols** of the AQA AS and A-level Chemistry specification

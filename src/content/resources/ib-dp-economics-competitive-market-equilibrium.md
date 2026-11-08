@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-3"
 description: "A study guide to sub-topic 2.3 of IB Diploma Programme Economics: equilibrium, price signals, surplus and allocative efficiency, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sub-topic 2.3, competitive market equilibrium, of Unit 2 (Microeconomics) for IB Diploma Programme Economics. It follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020) and is written for the course examined from the 2022 session onwards. The content is for both SL and HL, except one calculation, which is **HL only** and is marked as such below.

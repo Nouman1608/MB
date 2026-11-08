@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "as-analysis-and-communication-of-accounting-information"
 description: "Original questions with worked answers on stakeholders, ratio calculation, evaluation, improvements and limitations for Cambridge AS Accounting 9706."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

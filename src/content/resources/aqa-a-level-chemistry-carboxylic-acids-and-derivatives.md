@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "carboxylic-acids-and-derivatives-7405"
 description: "AQA A-Level Chemistry carboxylic acids taught from scratch: esters, hydrolysis, soap, biodiesel, acyl chlorides, anhydrides, aspirin and practical 10."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.3.9 Carboxylic acids and derivatives** of the AQA AS and A-level Chemistry

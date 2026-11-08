@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-4"
 description: "Condensed revision notes for IB DP Business Management section 3.4 Final accounts, with formulas, layouts and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for section 3.4 (Final accounts) of the IB *Business management guide*, first assessment 2024. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-business-management-final-accounts/). Then test yourself with the [practice questions](/resources/ib-dp-business-management-final-accounts-practice/), tick off the [checklist](/checklists/ib/ib-dp/business/) and use the [course hub](/boards/ib/ib-dp/business/). The wider unit is in the [Unit 3 notes](/resources/ib-dp-business-management-finance-accounts-revision-notes/). Depreciation and its methods are HL only; everything else applies at SL and HL. Check what you know with the [diagnostics](/diagnostics/).

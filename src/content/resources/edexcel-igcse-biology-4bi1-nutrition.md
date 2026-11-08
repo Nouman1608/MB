@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "nutrition-4bi1"
 description: "Study guide to nutrition for Edexcel IGCSE Biology 4BI1: photosynthesis, leaf structure, mineral ions, diet, digestion, bile and absorption in the villi."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches sub-topic 2(e) Nutrition of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3 (September 2024): statements 2.18 to 2.33B. The qualification is untiered. Only 2.33B (the food energy practical) is in bold with a B reference, so it is **Paper 2 only**. Everything else can be examined on Paper 1 (2 hours, 110 marks) or Paper 2 (1 hour 15 minutes, 70 marks). A calculator may be used in both.

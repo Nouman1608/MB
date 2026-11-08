@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-halogenoalkanes-alcohols-and-spectra-ych11"
 description: "Condensed Edexcel IAL Chemistry revision notes for Topic 10A-10B: reaction types, nucleophiles, halogenoalkane reagents, mechanisms and rate trends."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [study guide for this topic](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes/) first. These notes condense Topic 10A: General principles and Topic 10B: Halogenoalkanes of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 10.1 to 10.14, with Core Practicals 5 and 6. It is International AS (IAS) content in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols.

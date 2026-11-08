@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "probability-ocr-alevel-maths"
 description: "Study guide to OCR A Level Maths A (H240) probability: independence, Venn and tree diagrams, conditional probability and modelling, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers section 2.03 Probability in the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It teaches 2.03a to 2.03e. The specification has two stages. Stage 1 content (2.03a and 2.03b) is shared with AS. Conditional probability, the two formulae and modelling (2.03c to 2.03e) are **A Level only** (Stage 2).

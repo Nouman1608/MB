@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "transport-in-plants-ocr-alevel-biology"
 description: "Twelve original worked questions on gas exchange, the heart, haemoglobin and plant transport for OCR A Level Biology A (H420), Module 3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

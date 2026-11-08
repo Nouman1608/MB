@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-1-2-2251"
 description: "Cambridge O Level Sociology 2251 key questions 1.1 and 1.2: positivist and interpretivist approaches, judging research, and types of data and evidence."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Before sociologists collect any evidence they must decide how to approach society and what kind of

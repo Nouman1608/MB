@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-edexcel-alevel-economics"
 description: "Study guide to the causes, benefits and costs of economic growth in Pearson Edexcel International A Level Economics, with worked calculations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches the first three statements of 2.3.5 Economic growth in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018): causes of growth, benefits of growth and costs of growth. They sit in Unit 2, Macroeconomic performance and policy. The specification lists Unit 1 and Unit 2 as International AS (IAS) units, and Unit 3 and Unit 4 as the extra International A2 (IA2) content. This topic is therefore IAS content that also forms part of the full International Advanced Level. Every figure below is invented and illustrative.

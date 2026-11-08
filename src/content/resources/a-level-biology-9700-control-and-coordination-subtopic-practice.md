@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "control-and-coordination-in-plants-cambridge"
 description: "Eleven original questions for Cambridge 9700 sections 15.1 and 15.2, tagged by learning outcome: taste buds, synapses, sarcomeres and barley seeds."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-failure-and-government-intervention-in-markets-oxfordaqa-alevel-economics"
 description: "Revision notes on market failure, public goods, the commons and externalities for OxfordAQA International AS and A-level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 Short-form recall for 3.1.5.1, 3.1.5.2 and 3.1.5.3 of OxfordAQA's International AS and A-level Economics course (9640), specification version 1.2: what market failure means, private, public and quasi-public goods, and externalities. Section 3.1 belongs to the International AS, and the A-level extends it. The [study guide](/resources/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities/) has the full explanations, and the [practice questions](/resources/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities-practice/). Also see the [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/). A free [10-minute diagnostic](/diagnostics/) shows weak spots. Related reading: [the operation of markets](/resources/a-level-oxfordaqa-economics-operation-of-markets/). All figures are invented and illustrative.
 

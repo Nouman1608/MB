@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "exponentials-and-logarithms-ocr-alevel-maths"
 description: "Study guide to a^x, e^x, the gradient of e^kx, logarithms as inverses of a^x and ln x for OCR A Level Mathematics A (H240), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the exponential and logarithmic functions in OCR A Level Mathematics A (H240), as set out in the OCR specification (Version 3.1, August 2026): content references 1.06a to 1.06e, within 1.06 Exponentials and Logarithms. The specification lists all of this as Stage 1 content, common to AS Level (H230) and A Level, so none of it is A Level only. Laws of logarithms, solving a^x = b, reduction to linear form and growth and decay modelling (1.06f to 1.06i) are separate topics and are not taught here. The specification shows Pure Mathematics content in all three components.

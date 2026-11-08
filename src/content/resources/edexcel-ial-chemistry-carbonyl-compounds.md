@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-carbonyls-carboxylic-acids-and-chirality-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 15B: naming aldehydes and ketones, their physical properties, test reactions, reduction and HCN addition."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. It is International A2 (IA2) content: Unit 4 (Rates, Equilibria and Further Organic Chemistry) is where you meet it. Within that unit it forms part of Topic 15: Organic Chemistry: Carbonyls, Carboxylic Acids and Chirality.

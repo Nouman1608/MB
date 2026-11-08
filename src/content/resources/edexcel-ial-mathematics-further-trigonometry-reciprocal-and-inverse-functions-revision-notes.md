@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p3-trigonometry-edexcel-alevel-maths"
 description: "Condensed revision notes on reciprocal and inverse trig functions, sec and cosec identities, double angles and R-formulae for Edexcel IAL Mathematics P3."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense Unit P3 section 2 (topics 2.1 to 2.3) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification, Issue 3, April 2019. The specification lists P3 as compulsory for IAL Mathematics and Pure Mathematics only; IAS weighting is N/A. Longer explanations and fuller worked examples are in the [study guide](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions/). Then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-practice/).
 

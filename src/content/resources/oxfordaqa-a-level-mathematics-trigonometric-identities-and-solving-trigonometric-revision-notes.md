@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "pp1-trigonometry-oxfordaqa-alevel-maths"
 description: "Condensed notes on tan and sin squared plus cos squared identities and solving simple trig equations, for OxfordAQA International AS and A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These are condensed notes for the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, content area PP1.2 (second part): the tangent identity and sin²θ + cos²θ = 1, and solving simple trigonometric equations in a given interval in degrees or radians. The specification states this content is part of International AS, Unit PSM1 (section 3.2, PP1). Read the [study guide](/resources/oxfordaqa-a-level-mathematics-trigonometric-identities-and-solving-trigonometric/) first, then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-trigonometric-identities-and-solving-trigonometric-practice/).

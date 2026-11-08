@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "section-c-modern-prose-4et1"
 description: "Condensed recall notes on the three-section structure and assessment objectives of Component 1 for Pearson Edexcel International GCSE English Literature (4ET1)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-08-26
 featured: false
 ---

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-4"
 description: "Eleven original HL practice questions on IB DP Economics sub-topic 2.4, behavioural economics and business objectives, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

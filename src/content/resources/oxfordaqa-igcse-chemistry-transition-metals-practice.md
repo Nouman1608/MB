@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "transition-metals-9202"
 description: "Original practice questions with worked answers for OxfordAQA International GCSE Chemistry transition metals: ion charges, colours, catalysts and Group 1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

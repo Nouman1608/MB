@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-structures-and-contestability-edexcel-alevel-economics"
 description: "Study guide to efficiency, n-firm concentration ratios and perfect competition with worked calculations, for Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.3.3 (Market structures and contestability), items 1 to 3, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics (YEC11) specification, Issue 2, June 2018. These items are efficiency, concentration ratios and perfect competition. Units 1 and 2 are labelled International Advanced Subsidiary (IAS). Unit 3, Business behaviour, is labelled IA2 and is a compulsory unit for the full International Advanced Level only, not for the IAS.

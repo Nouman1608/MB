@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "nutrition-4bi1"
 description: "Condensed nutrition revision notes for Edexcel IGCSE Biology 4BI1: photosynthesis, limiting factors, diet, enzymes, bile and villi, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, use the [nutrition study guide](/resources/edexcel-igcse-biology-4bi1-nutrition/). These notes are for the final weeks.

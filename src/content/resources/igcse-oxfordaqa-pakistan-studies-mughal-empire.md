@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "mughal-empire-9236"
 description: "Study guide to optional topic 3.1.4 of 9236 Pakistan Studies: Babur to Shah Jahan, Aurangzeb's empire, and Mughal decline from Nadir Shah to British expansion."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **The Mughal Empire (c1526–c1850s) is topic 3.1.4 of OxfordAQA International GCSE Pakistan Studies

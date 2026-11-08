@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "waves-and-particle-nature-of-light"
 description: "Wave properties, standing waves, refraction, diffraction, the photoelectric effect and line spectra: sub-topic 2.3 of Edexcel IAL Physics (YPH11), Unit 2."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

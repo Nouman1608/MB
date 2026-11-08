@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "inorganic-ions-aqa-alevel-biology"
 description: "Condensed revision notes on water and inorganic ions for AQA A-level Biology, with key facts, short worked reminders, a self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sections 3.1.7 Water and 3.1.8 Inorganic ions of Topic 1 in the AQA AS and A-level Biology specification (7402 is the A-level), for first teaching 2015. For full explanations and longer worked examples read the [study guide](/resources/aqa-a-level-biology-water-and-inorganic-ions/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-water-and-inorganic-ions-practice/). Wider context: [Biological molecules revision notes](/resources/aqa-a-level-biology-biological-molecules-revision-notes/). Course hub: [AQA A-level Biology](/boards/aqa/a-level/biology/). Checklist: [AQA A-level Biology checklist](/checklists/aqa/a-level/biology/). Find gaps first with the [free diagnostics](/diagnostics/).

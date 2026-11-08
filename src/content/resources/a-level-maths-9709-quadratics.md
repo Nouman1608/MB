@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "quadratics-cambridge-alevel-maths"
 description: "Every 9709 section 1.1 Quadratics outcome taught with worked examples: completed square, discriminant, inequalities, simultaneous and disguised quadratics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches section 1.1 Quadratics of the Cambridge International AS & A Level Mathematics 9709 syllabus for exams in 2026 and 2027 (June and November series, plus March in India). Section 1.1 is part of Pure Mathematics 1, which is examined on Paper 1 (1 hour 50 minutes, 75 marks) and is compulsory for both AS Level and A Level. Each 1.1 outcome has its own section below. You may use a scientific calculator in every 9709 paper, but you must show your working.

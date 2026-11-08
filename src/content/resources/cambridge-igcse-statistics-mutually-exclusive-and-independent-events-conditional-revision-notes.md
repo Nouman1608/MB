@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "probability-0479"
 description: "Condensed revision notes on exclusive and independent events, conditional probability and tree diagrams for Cambridge IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense outcomes 7.5, 7.6 and 7.7 of Topic 7 (Probability) in the 2027 Cambridge IGCSE Statistics (0479) syllabus. The [study guide](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional/) has the full explanations and worked examples. To test yourself afterwards, use the [practice set](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-practice/), the [course hub](/boards/cambridge/igcse/statistics/), the [checklist](/checklists/cambridge/igcse/statistics/) and the [free diagnostics](/diagnostics/) are also linked.

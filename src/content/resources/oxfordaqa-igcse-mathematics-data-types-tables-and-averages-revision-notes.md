@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "presentation-and-analysis-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on data types, two-way tables, averages and spread for OxfordAQA International GCSE Mathematics 9260, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense statements S1, S2, S3 and S5 from section 3.4.1 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1. Core content is also assessable on the Extension papers. Content marked "Extension only" is extra. For full explanations read the [study guide](/resources/oxfordaqa-igcse-mathematics-data-types-tables-and-averages/), then try the [practice questions](/resources/oxfordaqa-igcse-mathematics-data-types-tables-and-averages-practice/). Charts and diagrams (S4) are on a separate page.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "resource-allocation-oxfordaqa-igcse-economics"
 description: "Study guide to needs and wants, factors of production, opportunity cost, markets, sectors and specialisation for OxfordAQA International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1.1 (Economic foundations) and 3.1.2 (Resource allocation) of the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards. Every number, country and firm below is invented for illustration.

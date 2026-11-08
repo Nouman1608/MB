@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-1"
 description: "Condensed IB DP Physics revision notes on particle model, density, temperature, internal energy, Q = mcΔT and Q = mL, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes condense the first half of topic B.1 (Thermal energy transfers) from the IB *Physics guide*, first assessment 2025, for Standard Level and Higher Level. Nothing in B.1 is marked additional higher level. The [study guide](/resources/ib-dp-physics-molecular-model-temperature-internal-energy-and/) gives the full explanations, and the [practice set](/resources/ib-dp-physics-molecular-model-temperature-internal-energy-and-practice/) tests them.

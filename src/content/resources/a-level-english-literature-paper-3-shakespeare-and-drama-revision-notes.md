@@ -21,11 +21,12 @@ syllabusTopics:
     subtopic: "section-b-drama-9695"
 description: "Condensed notes on Cambridge 9695 Paper 3: format, AO5 evaluation of opinion and how to build it, and the set plays for the 2026 and 2027 exam series."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added 2027 set plays and FAQ, shorter description; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: added 2027 set plays and FAQ, shorter description; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

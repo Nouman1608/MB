@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "types-and-sizes-of-businesses-edexcel-alevel-economics"
 description: "Study guide to types of business, how firms grow, demergers and business objectives for Pearson Edexcel International A Level Economics, Unit 3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (Issue 2, June 2018) and covers section 3.3.1, Types and sizes of businesses: items 1 to 3. The specification labels Unit 3 (Business behaviour) as an IAL compulsory unit, so it belongs to the full International A Level and not to the International AS. Units 1 and 2 are the International AS content; Units 3 and 4 are the extra International A2 content. All figures below are invented and illustrative.

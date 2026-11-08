@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-3-1"
 description: "Condensed IB DP Chemistry Structure 3.1 revision notes: periodic trends, group reactions, oxides, oxidation states, HL colour, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense **Structure 3.1, The periodic table: classification of elements**, following the IB *Chemistry guide* for the Diploma Programme (February 2023 edition, first examined in 2025). They cover understandings 3.1.1 to 3.1.10. Sections 3.1.1 to 3.1.6 apply at SL and HL. Sections 3.1.7 to 3.1.10 come from the additional higher level part of the guide and are marked **HL only**. The notes apply to the course from 2025 onwards.

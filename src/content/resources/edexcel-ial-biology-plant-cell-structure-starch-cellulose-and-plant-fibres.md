@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "plant-structure-and-function-biodiversity-and-conservation-edexcel-alevel-biology"
 description: "Study guide to plant cell ultrastructure, starch, cellulose, plant fibres, xylem, phloem and Core Practical 7 for Edexcel International A Level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide is written for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. It covers statements 4.1 to 4.7 of Topic 4, including Core Practical 7. Topics 1 to 4 belong to the International AS (IAS) and Topics 5 to 8 to the International A2 (IA2), so this unit is IAS content. There are no tiers.

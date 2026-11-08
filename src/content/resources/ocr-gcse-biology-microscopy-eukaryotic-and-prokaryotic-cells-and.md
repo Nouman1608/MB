@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "cell-structures-ocr-gcse-biology"
 description: "Study guide to OCR GCSE Biology A B1.1: light microscopes, stains, magnification sums, cell structures and what the TEM revealed, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers statements B1.1a, B1.1b and B1.1c of Topic B1 (Cell level systems) in the OCR GCSE (9-1) Gateway Science Suite Biology A specification (J247), Version 4.0, for first assessment in 2018. None of these three statements is marked as Higher Tier only, so everything here applies to both Foundation and Higher Tier. Revise it with the [revision notes](/resources/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and-practice/). The wider topic is on the [Cell level systems overview](/resources/ocr-gcse-biology-cell-level-systems/), and the course hub is at [OCR GCSE Biology](/boards/ocr/gcse/biology/) with a printable [checklist](/checklists/ocr/gcse/biology/). If you are unsure where to start, take a [10-minute diagnostic](/diagnostics/).

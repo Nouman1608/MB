@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "investigation-wwi-4hi1"
 description: "Study guide to Investigation A1 for Edexcel IGCSE History 4HI1: alliances, Balkan crises, the naval race, Sarajevo, the Western Front, the sea war, 1918."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

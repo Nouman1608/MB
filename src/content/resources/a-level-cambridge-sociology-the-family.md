@@ -27,11 +27,12 @@ syllabusTopics:
     subtopic: "age-and-family-life-9699"
 description: "Study guide to Paper 2 The Family in Cambridge International AS & A Level Sociology 9699: perspectives, family diversity, gender roles and age in family life."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Paper 2 – The Family is worth 60 marks, 1 hour 30 minutes, and is one

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "trade-and-the-global-economy-edexcel-alevel-economics"
 description: "Study guide to comparative advantage, patterns of world trade and the terms of trade for Edexcel International A Level Economics, with worked sums."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches statements 1 to 3 of 4.3.2 Trade and the global economy in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018): specialisation and comparative advantage, patterns and volume of world trade, and the terms of trade. The International AS units are Units 1 and 2; Units 3 and 4 add the International A2 content. Unit 4, Developments in the global economy, is marked IAL compulsory, so this topic is A2 material. Every country, firm and figure below is invented and illustrative.

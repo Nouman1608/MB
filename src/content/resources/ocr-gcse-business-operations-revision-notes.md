@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "operations-ocr-gcse-business"
 description: "Condensed revision notes for section 4 Operations in OCR GCSE (9-1) Business J204, with tables, method steps, a self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed recall for section 4, Operations, of the OCR GCSE (9-1) Business (J204) specification, Version 2.0 (January 2026), topics 4.1 to 4.6, assessed in Business 2 (J204/02). For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-business-operations/). Test yourself with the [practice questions](/resources/ocr-gcse-business-operations-practice/), find your weak areas with the [free diagnostics](/diagnostics/), and tick off topics on the [checklist](/checklists/ocr/gcse/business/). The [course hub](/boards/ocr/gcse/business/) lists everything for this qualification, and the wider component is in the [operations, finance and influences notes](/resources/ocr-gcse-business-operations-finance-influences-revision-notes/).

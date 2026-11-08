@@ -22,9 +22,10 @@ syllabusTopics:
     subtopic: "as-potential-dividers"
 description: "E.m.f. and internal resistance, circuit symbols, Kirchhoff's laws, series and parallel resistance and potential dividers: Topic 10 of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
 featured: false

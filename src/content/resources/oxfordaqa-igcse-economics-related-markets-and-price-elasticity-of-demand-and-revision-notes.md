@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-prices-are-determined-oxfordaqa-igcse-economics"
 description: "Condensed revision notes on intermarket relationships, price and cross elasticity of demand and price elasticity of supply for OxfordAQA IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for sections 3.1.3.4 to 3.1.3.6 of the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards. For full explanations read the [study guide](/resources/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and-practice/). Other links: [How markets work guide](/resources/igcse-oxfordaqa-economics-how-markets-work/), [course hub](/boards/oxfordaqa/igcse/economics/), [checklist](/checklists/oxfordaqa/igcse/economics/) and [free diagnostics](/diagnostics/). All figures are invented.

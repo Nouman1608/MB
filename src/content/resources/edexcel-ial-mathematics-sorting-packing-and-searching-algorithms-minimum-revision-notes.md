@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "d1-algorithms-on-graphs-edexcel-alevel-maths"
 description: "Condensed revision notes on bin packing, sorting, binary search, Prim, Kruskal and Dijkstra for Edexcel IAL Mathematics Unit D1, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense Unit D1 sections 1 and 2 (topics 1.1, 1.2, 2.1 and 2.2) of Pearson's International Advanced Subsidiary/Advanced Level specification for Mathematics, Further Mathematics and Pure Mathematics (YMA01), Issue 3, April 2019. The specification makes Unit D1 optional for IAS and IAL Mathematics and Further Mathematics. Read the [study guide](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum/) when you need the reasoning or longer examples.

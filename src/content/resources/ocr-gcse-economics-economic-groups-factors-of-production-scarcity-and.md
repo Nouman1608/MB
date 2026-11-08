@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-basic-economic-problem-ocr-gcse-economics"
 description: "Worked study guide to OCR GCSE Economics J205 sections 1.1 and 1.2: economic groups, factors of production, scarcity and opportunity cost."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 1.1 and 1.2 of the OCR GCSE (9-1) Economics specification (J205), version 2.0, for first assessment in 2019. They sit in component J205/01, Introduction to Economics, a written paper of 80 marks and 1 hour 30 minutes worth 50% of the qualification. J205 has no tiers, so every candidate learns the same content. Each number in the worked examples is made up for illustration.

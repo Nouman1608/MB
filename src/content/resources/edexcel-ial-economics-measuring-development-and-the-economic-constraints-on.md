@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics"
 description: "Study guide to the HDI, other development indicators and the savings gap, commodity and capital flight constraints for Pearson Edexcel IAL Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers specification section 4.3.6, items 1(a) to 1(c) and the first five bullets of item 2(a), of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. In the specification, Units 1 and 2 make up the International AS and Units 3 and 4 add the International A2 content. This topic sits in Unit 4 (Developments in the global economy), which only the full International A Level candidates take.

@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "respiration-cambridge-alevel-biology"
 description: "Original 9700 questions on subtopics 12.1 and 12.2: ATP, energy values, RQ, respirometers, Krebs cycle, mitochondria, rice and redox dyes, with answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

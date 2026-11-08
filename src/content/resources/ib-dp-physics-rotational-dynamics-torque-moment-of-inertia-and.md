@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-4"
 description: "A full HL guide to IB DP Physics A.4 rigid body mechanics: torque, moment of inertia, angular momentum and rotational energy, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches **sub-topic A.4, Rigid body mechanics** (torque, moment of inertia and angular momentum), from Topic A of the IB Diploma Programme *Physics guide*, first assessment 2025. A.4 is **additional higher level (HL only)**: the guide lists no standard level content here, and the sub-topic is allotted 7 hours. If you take Physics at SL, you can skip it. Everything below is HL only.

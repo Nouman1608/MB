@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "waves-ocr-alevel"
 description: "Study guide to stationary waves, nodes, antinodes, harmonics, strings, open and closed tubes and the resonance tube for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers section 4.4.4 (Stationary waves), statements (a) to (g), of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. The ideas on this page build on progressive waves and wavelength, which you should already know. Superposition and the double slit are taught elsewhere. Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) | [checklist](/checklists/ocr/a-level/physics/) | [free diagnostics](/diagnostics/).
 

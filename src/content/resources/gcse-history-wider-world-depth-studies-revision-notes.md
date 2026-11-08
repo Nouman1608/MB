@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "utmw-section-b-wider-world-depth-studies-8145"
 description: "Revision notes for AQA GCSE History 8145 Paper 1 Section B: key dates for all five Conflict and tension studies, a technique sheet for questions 1-4 and traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check dates against standard texts and the AQA 8145 specification (3.2.2) before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added a question 4 worked plan."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check dates against standard texts and the AQA 8145 specification (3.2.2) before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added a question 4 worked plan; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

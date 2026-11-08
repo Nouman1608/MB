@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "poverty"
 description: "Eleven original worked questions on absolute and relative poverty, its causes and the policies to reduce it, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "algorithms-and-flowcharts"
 description: "Revision notes for Cambridge 9626 IT Topic 4: pseudocode keywords, loop choice, trace tables, flowchart symbols, error spotting and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These notes condense **Topic 4 Algorithms and flowcharts** (sections 4.1 and 4.2) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027. It is **AS Level** content (topics 1–11), examined in Paper 1 Theory, and Paper 2 Practical expects you to apply knowledge from sections 1–7. For full explanations and worked examples, use the [study guide](/resources/a-level-cambridge-ict-algorithms-and-flowcharts/). To test yourself properly, use the [practice questions](/resources/a-level-cambridge-ict-algorithms-and-flowcharts-practice/).

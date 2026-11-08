@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "poverty-and-inequality-edexcel-alevel-economics"
 description: "Study guide to Edexcel IAL Economics topic 4.3.4: absolute and relative poverty, Lorenz curve and Gini calculations, causes and effects of inequality."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches topic 4.3.4, Poverty and inequality, from Unit 4: Developments in the global economy, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (Issue 2, June 2018). The specification names Units 1 and 2 as the International AS units and Units 3 and 4 as the extra International A2 units, so this topic is full International A Level content only. Unit 4 includes a data-response section and 20-mark essays, so you need both calculations and extended evaluation. Every figure below is invented for illustration. None is a real statistic.

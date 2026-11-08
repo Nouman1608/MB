@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "global-development-7192"
 description: "Study guide to AQA A-level Sociology 7192 Global Development: theories of development, globalisation, TNCs, NGOs, aid, trade, health and gender."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers Global Development, section 4.2.6 of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021); the specification at a glance also lists it as 3.2.6. It is assessed in A-level Paper 2: Topics in Sociology, a 2 hour written exam worth 80 marks and 33.3% of the A-level. Global Development is an A-level option only: it is not one of the four topics listed for AS Paper 2.

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "quadratic-equations-edexcel-igcse-maths"
 description: "Study guide to 4MA1 section 2.7: solving quadratics by factorising, the formula and completing the square, in context and as simultaneous equations."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches section 2.7, **Quadratic equations**, from Topic 2 (Equations, formulae and identities) of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. On the Foundation tier, 2.7 is limited to solving x² + bx + c = 0 by factorisation. Everything else in this guide -- factorising when the x² coefficient is not 1, the quadratic formula, completing the square, forming equations from a context, and linear-quadratic simultaneous equations -- appears only in the Higher tier content, so it is labelled **Higher tier only**. A calculator may be used on all four papers (1F, 2F, 1H, 2H).

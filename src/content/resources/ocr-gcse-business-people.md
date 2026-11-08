@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "people-ocr-gcse-business"
 description: "A full study guide to section 3 People in OCR GCSE (9-1) Business J204: structures, communication, recruitment, motivation, training and employment law."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 3 People (topics 3.1 to 3.7) of the OCR GCSE (9-1) Business J204 specification, Version 2.0 (January 2026). The content sits in Business 1: business activity, marketing and people (J204/01), and the specification says learners also draw on it for the synoptic questions in Business 2.

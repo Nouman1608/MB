@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "limited-company-statements-oxfordaqa-igcse-accounting"
 description: "Prepare and comment on a limited company's internal income statement and statement of financial position for OxfordAQA International GCSE Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the limited companies row of specification section 3.4, Preparation of financial statements. Content 3 to 5 is the content assessed in Paper 2: Financial Statements, so this topic sits in that paper. The specification does not split the content into tiers.

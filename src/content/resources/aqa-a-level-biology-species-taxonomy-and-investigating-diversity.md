@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "investigating-diversity-aqa-alevel-biology"
 description: "Study guide to species, courtship, taxonomic ranks, binomials and comparing DNA, mRNA and protein data for AQA A-level Biology, sections 3.4.5 and 3.4.7."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide covers AQA A-level Biology (7402) sections 3.4.5, *Species and taxonomy*, and 3.4.7, *Investigating diversity*, as set out in the AQA AS and A-level Biology specification for first teaching 2015. Both belong to topic 4. That is AS content, and the A-level papers that assess topics 1 to 4 can also test it. Section 3.4.6 is not covered here. Use the [revision notes](/resources/aqa-a-level-biology-species-taxonomy-and-investigating-diversity-revision-notes/) for recall and the [practice questions](/resources/aqa-a-level-biology-species-taxonomy-and-investigating-diversity-practice/) to test yourself. Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). To find weak spots first, try the [free diagnostics](/diagnostics/). The sequences and data below are invented for teaching.
 

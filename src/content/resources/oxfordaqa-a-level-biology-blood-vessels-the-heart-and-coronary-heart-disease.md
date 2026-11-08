@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "heart-disease-may-be-associated-with-specific-risk-factors-oxfordaqa-alevel-biology"
 description: "Step-by-step OxfordAQA International AS and A-level Biology guide to blood vessels, tissue fluid, the cardiac cycle, atheroma and CHD risk factors."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide is written for the OxfordAQA International AS and A-level Biology specification (9610), Version 5.1, and covers sections 3.2.6 (the circulation of blood and the structure of the mammalian heart) and 3.2.7 (heart disease and specific risk factors). Both sit in Unit 2, Biological systems and disease, which is assessed in the International AS and also counts towards the International A-level. It applies to International A-level exams from May/June 2018 onwards.
 

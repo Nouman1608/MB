@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-role-of-the-state-in-the-macroeconomy-edexcel-alevel-economics"
 description: "Condensed revision notes on deficits, surpluses, automatic stabilisers, cyclical and structural deficits and the national debt for Edexcel IAL Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.3.5, item 3 (a to c) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. Unit 4 is International A2 content, compulsory for the full International Advanced Level only. For full explanations use the [study guide](/resources/edexcel-ial-economics-fiscal-deficits-and-national-debt/). Test yourself with the [practice questions](/resources/edexcel-ial-economics-fiscal-deficits-and-national-debt-practice/), then tick off the [checklist](/checklists/edexcel/a-level/economics/). The [course hub](/boards/edexcel/a-level/economics/) lists the other units, [the multiplier and output gaps](/resources/edexcel-ial-economics-the-multiplier-and-output-gaps/) explains output gaps, and the [free diagnostics](/diagnostics/) show where to focus. All figures are invented.

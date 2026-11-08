@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "organisation-and-management"
 description: "Study guide to organisational charts, management functions, delegation, leadership styles and trade unions for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 2.2 Organisation and management of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It sits inside Topic 2, People in business. All candidates take the same two components, so there is no tier to choose and every point below is in scope for every candidate. For the wider topic, see the [People in business study guide](/resources/o-level-business-people-in-business/). For the course overview, use the [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/).

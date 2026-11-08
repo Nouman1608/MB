@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cloning-and-biotechnology-ocr-alevel-biology"
 description: "Original practice questions with worked answers on aseptic culture, growth curves, fermenters, antibiotic zones and immobilised enzymes, OCR Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

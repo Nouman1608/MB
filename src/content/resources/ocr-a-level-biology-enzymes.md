@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "enzymes-ocr-alevel-biology"
 description: "OCR A Level Biology A (H420) 2.1.4 study guide: enzyme mechanism, induced fit, pH and temperature, the temperature coefficient, cofactors, inhibitors and PAG4."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Enzymes are globular proteins that act as biological catalysts: they speed up metabolic reactions by lowering the

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "recruitment-and-selection-process-4bs1"
 description: "Study guide to communication, barriers, types of employment, recruitment, shortlisting, interviews and employment law for Edexcel IGCSE Business 4BS1."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 2 "People in business", sections 2.1 "Internal and external communication" and 2.2 "Recruitment and selection process", every numbered content point. The specification has two papers, Paper 1 on small businesses (up to 49 employees) and Paper 2 on large businesses (more than 250 employees). Each draws on the whole content, so you should be able to apply this material to a small firm and to a large one.

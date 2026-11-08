@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "changes-of-state-ocr-gcse"
 description: "Twelve original questions with worked answers on P1.2 Changes of state, specific heat capacity and latent heat for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

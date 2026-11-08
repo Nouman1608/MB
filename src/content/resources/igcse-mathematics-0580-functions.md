@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "functions-cambridge-igcse-maths"
 description: "Study guide for Cambridge IGCSE Mathematics 0580 section E2.13: function notation, domain and range, inverse and composite functions, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches section 2.13, Functions, of the Cambridge IGCSE Mathematics 0580 syllabus for exams in 2025, 2026 and 2027. The Core column of the syllabus lists C2.13 as "Extended content only", so everything on this page is **Extended only**. Extended candidates take Paper 2 (non-calculator, 2 hours) and Paper 4 (calculator, 2 hours), and functions questions can appear on either, so every method here is shown by hand.

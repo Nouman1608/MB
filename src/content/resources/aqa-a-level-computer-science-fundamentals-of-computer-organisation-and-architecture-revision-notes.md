@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "fundamentals-of-computer-organisation-and-architecture"
 description: "Recall notes on buses, Von Neumann and Harvard, registers, the fetch-execute cycle, addressing, assembly, interrupts and storage for AQA A-Level CS 7517."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Fundamentals of computer organisation and architecture (section 4.7 of AQA A-Level Computer Science 7517)

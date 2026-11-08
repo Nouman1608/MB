@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "exchange-rates-edexcel-igcse-economics"
 description: "Condensed definitions, diagram notes, worked reminders and a self-test on exchange rates for Pearson Edexcel International GCSE Economics (4EC1)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.2.3 (Exchange rates) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026, a single-tier course. Read the [full study guide](/resources/edexcel-igcse-economics-exchange-rates-determination-appreciation-and/) for explanations and then use the [practice questions](/resources/edexcel-igcse-economics-exchange-rates-determination-appreciation-and-practice/). Related notes: the [current account](/resources/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments-revision-notes/). Find the course on the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/), tick things off on the [printable checklist](/checklists/edexcel/igcse/economics/), and check your level with a [free diagnostic](/diagnostics/). All figures below are invented and illustrative.

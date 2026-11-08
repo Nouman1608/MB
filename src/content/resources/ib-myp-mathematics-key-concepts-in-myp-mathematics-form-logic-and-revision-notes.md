@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "ib-myp-mathematics-key-concepts"
 description: "Condensed revision notes on MYP mathematics key concepts: form, logic, relationships, statements of inquiry and the three types of inquiry question."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense the key concepts section of the IB Middle Years Programme *Mathematics* guide (for use from September 2020 or January 2021, first assessment 2022). The section applies to the guide's mathematics and extended mathematics courses alike. If a point is unclear, the [study guide](/resources/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and/) explains it in more depth.

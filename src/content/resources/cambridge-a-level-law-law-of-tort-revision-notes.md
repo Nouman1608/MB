@@ -27,8 +27,12 @@ syllabusTopics:
     subtopic: "general-defences-and-remedies-9084"
 description: "Revision notes for Cambridge A Level Law 9084 Topic 4: negligence, occupiers' liability, nuisance, Rylands, trespass, defences and tort remedies with key cases."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 A tort is a civil wrong, other than breach of contract, for which the injured person can claim a

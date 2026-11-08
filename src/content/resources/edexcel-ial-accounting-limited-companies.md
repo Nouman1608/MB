@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "limited-companies-yac"
 description: "Study guide to Edexcel IAL Accounting topic 2.1: company financial statements, reserves, share issues, gearing, provisions, mergers and goodwill."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches topic 2.1, Limited companies, from Unit 2: Corporate and Management Accounting of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2 (September 2018). It covers outcomes 2.1.1 to 2.1.15. All of it is Unit 2 (A2) only. Calculators may be used in the examination.

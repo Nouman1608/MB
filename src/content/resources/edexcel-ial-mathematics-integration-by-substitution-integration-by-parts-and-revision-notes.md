@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p4-integration-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel IAL Maths P4 integration: substitution, by parts, partial fractions, with a self-test and common mistakes."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover Pearson Edexcel International Advanced Level Mathematics (YMA01), aligned to the *International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics* specification (Issue 3, April 2019), Pure Mathematics 4 topics 6.2 and 6.3. The specification states that P3 and P4 are compulsory for IAL Mathematics and Pure Mathematics only; they are not part of IAS.

@@ -26,9 +26,12 @@ syllabusTopics:
     subtopic: "output-the-presentation-t19-0417"
 description: "Creating slides, using a master slide, editing content and producing slides, notes and handouts for the Cambridge IGCSE ICT presentation practical."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Presentation software lets you build a set of slides to inform or persuade an audience. In Cambridge IGCSE ICT you are marked on how accurately you follow a list of instructions to create slides, set up a master slide, edit the content and produce the right kind of output. Good slides are simple and consistent, and the master slide is what makes them consistent. This guide covers all four subtopics and works through a typical task from start to finish.

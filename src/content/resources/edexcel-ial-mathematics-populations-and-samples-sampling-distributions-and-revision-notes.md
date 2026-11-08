@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "s2-hypothesis-tests-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel IAL Mathematics Statistics 2 section 4: sampling terms, test method, critical regions, binomial and Poisson tests."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These are condensed notes for section 4 (topics 4.1 to 4.6, "Hypothesis tests") of Unit S2: Statistics 2 in the

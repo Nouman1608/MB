@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "market-research-cambridge-alevel-business"
 description: "Twelve original practice questions with worked answers on Cambridge A Level Business 9609 sections 3.1 and 3.2: markets, segmentation, CRM, research."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

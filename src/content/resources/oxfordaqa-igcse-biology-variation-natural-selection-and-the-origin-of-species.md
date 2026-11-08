@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "variation-and-evolution-oxfordaqa-igcse-biology"
 description: "Study guide to causes of variation, Lamarck, natural selection, time scales and speciation for OxfordAQA International GCSE Biology, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 3.6 (Variation and evolution) of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams in May/June 2018 onwards: 3.6.1 (causes of variation) and 3.6.2 parts a to c (natural selection). The qualification is untiered, and the specification says content from any part of it may be assessed in either paper. Use it with the [course hub](/boards/oxfordaqa/igcse/biology/) and the [printable checklist](/checklists/oxfordaqa/igcse/biology/).

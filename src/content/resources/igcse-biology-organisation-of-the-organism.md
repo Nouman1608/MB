@@ -18,12 +18,13 @@ syllabusTopics:
     subtopic: "size-of-specimens-cambridge-igcse-biology"
 description: "Plant, animal and bacterial cell structure, six specialised cells and magnification calculations, covering Topic 2 of Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-31
 updatedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers **Topic 2 Organisation of the organism**, for

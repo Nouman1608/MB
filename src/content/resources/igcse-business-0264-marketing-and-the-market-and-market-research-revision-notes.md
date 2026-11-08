@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-research-0264"
 description: "Condensed revision notes on marketing, market share, niche and mass markets, segmentation and market research for Cambridge IGCSE Business 0264."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for sections 3.1 (Marketing and the market) and 3.2 (Market research) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-marketing-and-the-market-and-market-research/). To test yourself, use the [practice questions](/resources/igcse-business-0264-marketing-and-the-market-and-market-research-practice/). Course pages: the [Cambridge IGCSE Business hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/). The [free diagnostics](/diagnostics/) show which topics need most work.

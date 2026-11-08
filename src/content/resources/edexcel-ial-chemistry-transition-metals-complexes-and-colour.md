@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "transition-metals-and-their-chemistry-ych11"
 description: "Study guide to Edexcel IAL Chemistry outcomes 17.1-17.17: d-block configurations, ligands, complex shapes, colour, cis-platin and haemoglobin."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches outcomes 17.1 to 17.17 of Topic 17: Transition Metals and their Chemistry, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. The content is International A2 (IA2) material and sits in Unit 5: Transition Metals and Organic Nitrogen Chemistry. The later outcomes of Topic 17 (vanadium and chromium redox, reactions with hydroxide and ammonia, catalysis) are in the [redox and catalysis guide](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis/).

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-role-of-the-state-in-the-macroeconomy-edexcel-alevel-economics"
 description: "Study guide to macroeconomic policy tools, the 2008 crisis response, controlling TNCs and policy problems for Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches statement 4 (a to e) of 4.3.5, The role of the state in the macroeconomy, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018). The specification labels Unit 4, Developments in the global economy, as an IAL compulsory unit. Units 1 and 2 make up International AS (IAS); Units 3 and 4 carry the extra International A2 (IA2) content. The specification also says Unit 4 questions may draw on content from Units 1, 2 and 3. All countries, firms and figures below are invented and illustrative.

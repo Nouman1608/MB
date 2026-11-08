@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "aids-to-trade-that-support-commerce-0715"
 description: "Cambridge IGCSE Commerce 0715 Topic 5 recall notes: advertising media and appeals, sales promotion, banking, insurance premiums, finance and profit formulas."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Aids to trade are the services that make buying and selling possible: advertising, banking, insurance

@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
 description: "Map of the eight sub-topics in OCR GCSE Economics (J205) Topic 2, The Role of Markets and Money, with explanations and worked calculations for Component 01."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **Topic 2: The Role of Markets and Money**, the

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "conservation-of-energy-oxfordaqa-alevel"
 description: "Study guide to work, power, efficiency and conservation of energy for OxfordAQA International AS and A-level Physics (9630), sections 3.2.7 and 3.2.8."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, for International AS and A-level exams from May/June 2020 onwards. It covers sections 3.2.7 (work, energy and power) and 3.2.8 (conservation of energy). Both sections are shared International AS and A-level content, so they apply to AS and to the full A-level.

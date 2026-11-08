@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "boolean-algebra-and-logic-circuits"
 description: "Paper 3-style questions with answers on RISC and CISC, pipelines, SIMD, virtual machines, adders, flip-flops, Boolean algebra and K-maps for Cambridge 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

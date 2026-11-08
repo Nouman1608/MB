@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "emerging-technologies-0417"
 description: "Recall notes for Cambridge IGCSE ICT 0417 sections 1.3 to 1.5: CLI, GUI, dialogue and gesture interfaces, desktop and mobile computers, AI and extended reality."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 **These notes cover sections 1.3 Operating systems, 1.4 Types of computer and 1.5 Emerging

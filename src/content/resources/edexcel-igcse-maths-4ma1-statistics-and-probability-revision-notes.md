@@ -24,11 +24,12 @@ syllabusTopics:
     subtopic: "probability-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes on statistics and probability: formulas, averages, histograms, quartiles, tree diagrams and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover topic 6, Statistics and probability, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers in January and June. They cover sections 6.1 (Graphical representation of data), 6.2 (Statistical measures) and 6.3 (Probability). Foundation content is needed by both tiers; items marked **Higher tier only** appear only on papers 1H and 2H. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability/) first.

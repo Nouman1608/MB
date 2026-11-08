@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "monetary-policy-ocr-gcse-economics"
 description: "Condensed revision notes on taxes, budgets, fiscal policy, redistribution and monetary policy, with formulas and a self-test, for OCR GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 Condensed notes for sections 3.5 (Fiscal policy) and 3.6 (Monetary policy) of the OCR GCSE (9-1) Economics (J205) specification, Version 2.0 (June 2026). For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy/). Afterwards, try the [practice questions](/resources/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy-practice/), tick off points on the [checklist](/checklists/ocr/gcse/economics/), look at the [course hub](/boards/ocr/gcse/economics/) and take a [free 10-minute diagnostic](/diagnostics/). Interest rates and banks are also covered in the [markets and money guide](/resources/ocr-gcse-economics-the-role-of-markets-and-money/).
 

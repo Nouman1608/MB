@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "conservation-cambridge-alevel-biology"
 description: "Condensed Cambridge 9700 revision notes on classification, sampling, the Lincoln index, Simpson's index, correlation and conservation, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense topic 18, Classification, biodiversity and conservation, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, sections 18.1 to 18.3. This is A Level content, examined on Paper 4; the statistics can also appear in Paper 5. For full explanations and longer worked examples, read the [study guide](/resources/a-level-biology-9700-classification-biodiversity-and-conservation/) first.

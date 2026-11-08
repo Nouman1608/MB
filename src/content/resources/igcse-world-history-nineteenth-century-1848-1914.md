@@ -28,9 +28,10 @@ seoTitle: "IGCSE World History 0470 Option A: 1848–1914 (2024–2026)"
 seoDescription: "Core Content Option A of Cambridge IGCSE World History 0470 (2024–2026): the 1848 revolutions, Italian and German unification, the US Civil War and empires."
 description: "Cambridge IGCSE History 0470 Core Content Option A, 1848-1914: the 1848 revolutions, unification, the US Civil War, empires and the causes of the Great War."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-21
 featured: false
 ---

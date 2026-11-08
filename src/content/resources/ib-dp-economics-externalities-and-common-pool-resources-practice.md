@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-8"
 description: "Twelve original IB DP Economics practice questions on externalities, diagrams, common pool resources and policy, with worked answers and an HL calculation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Study guide to genotype, phenotype, alleles, genetic diagrams, linkage, epistasis and chi-squared for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide covers sections 3.3.6.1 (Principles) and 3.3.6.2 (Patterns of inheritance) of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1. Both sit in Unit 3, Populations and genes, which the specification lists as International A-level only. The [revision notes](/resources/oxfordaqa-a-level-biology-inheritance-and-genetic-crosses-revision-notes/) condense the ideas and the [practice questions](/resources/oxfordaqa-a-level-biology-inheritance-and-genetic-crosses-practice/) let you check them. Course pages: the [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/), the [printable checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/).
 

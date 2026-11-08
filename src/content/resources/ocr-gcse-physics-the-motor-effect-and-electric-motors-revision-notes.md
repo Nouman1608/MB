@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "uses-of-magnetism-ocr-gcse"
 description: "Condensed recall notes on the motor effect, Fleming's left-hand rule, F = BIl and d.c. motor rotation for OCR GCSE Physics A (J249), P4.2a to P4.2d."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Condensed notes for the final weeks, aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P4.2, statements P4.2a to P4.2d. All four are printed in bold in the specification, so everything here is **Higher Tier only**. For full explanations, use the [study guide](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors/), then try the [practice questions](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-practice/). See the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/).

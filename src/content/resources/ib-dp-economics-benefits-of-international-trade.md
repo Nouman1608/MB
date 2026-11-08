@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-1"
 description: "Study guide to sub-topic 4.1 of IB DP Economics: benefits of trade, export and import diagrams, comparative advantage and its limits."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.1, Benefits of international trade. The benefits of trade and the two free-trade diagrams are SL and HL. Absolute and comparative advantage, the HL calculations and the limitations of the theory are HL only, and they are marked that way below.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "government-income-and-expenditure-aqa-gcse-economics"
 description: "Original AQA GCSE Economics practice questions with worked answers on UK government revenue, spending, direct and indirect tax, and progressive tax."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

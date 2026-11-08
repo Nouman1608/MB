@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-growth-ocr-aslevel-economics"
 description: "Original OCR A Level Economics practice questions with worked answers on real and nominal GDP, growth rates, recession, and costs of growth."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

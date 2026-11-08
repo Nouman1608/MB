@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "organisation-and-management-0264"
 description: "Original practice questions with worked answers on organisation and management for Cambridge IGCSE Business 0264, with short-answer and case items."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "price-determination-edexcel-alevel-economics"
 description: "Condensed revision notes for Edexcel IAL Economics 1.3.4: equilibrium, surplus, the price mechanism, taxes, subsidies and incidence, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense section 1.3.4 Price determination, items 1 to 4, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It is Unit 1 content. For full explanations and first worked examples, read the [study guide](/resources/edexcel-ial-economics-price-determination-surplus-the-price-mechanism/). Then try the [practice questions](/resources/edexcel-ial-economics-price-determination-surplus-the-price-mechanism-practice/), the [Edexcel Economics hub](/boards/edexcel/a-level/economics/), the [printable checklist](/checklists/edexcel/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented.

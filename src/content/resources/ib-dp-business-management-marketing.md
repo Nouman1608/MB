@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-business-unit-4"
 description: "Guide to IB DP Business Management Unit 4 Marketing: six sub-topics from marketing planning to the seven Ps and international marketing, and how to tackle them."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **Unit 4 — Marketing**, for IB Diploma Programme

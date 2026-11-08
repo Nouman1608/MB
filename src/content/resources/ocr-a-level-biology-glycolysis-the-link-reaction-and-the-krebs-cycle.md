@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "respiration-ocr-alevel-biology"
 description: "Study guide to why cells respire, the mitochondrion, glycolysis, link reaction, Krebs cycle and coenzymes for OCR A Level Biology A, 5.2.2(a)-(g)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers learning outcomes 5.2.2(a) to 5.2.2(g) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025. It follows the first part of respiration: why cells need it, where it happens, and the stages up to the production of reduced coenzymes. Track progress on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [checklist](/checklists/ocr/a-level/biology/). The [revision notes](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-revision-notes/) and [practice questions](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice/) go with this page, and the [free diagnostics](/diagnostics/) show where to start. Earlier ideas are in [nucleotides and ATP](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative/) and [cell structure](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus/).

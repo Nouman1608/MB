@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "kq-1-1-0495"
 description: "Original Cambridge IGCSE Sociology 0495 Question 1 style practice on positivism, interpretivism, triangulation and evaluating research, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

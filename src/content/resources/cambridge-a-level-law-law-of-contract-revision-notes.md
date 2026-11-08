@@ -27,8 +27,12 @@ syllabusTopics:
     subtopic: "remedies-for-breach-of-a-contract-9084"
 description: "Revision notes for Cambridge A Level Law 9084 Topic 3: formation, minors' capacity, CRA 2015 terms, exemption clauses, frustration and contract remedies."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 The law of contract decides when an agreement is legally binding, what each side has promised, how

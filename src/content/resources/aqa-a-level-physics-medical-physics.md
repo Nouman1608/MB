@@ -33,8 +33,12 @@ syllabusTopics:
     subtopic: "radionuclide-imaging-and-therapy-aqa-alevel"
 description: "Study guide for the AQA A-level Physics 7408 Medical physics option (3.10): eye, ear, ECG, ultrasound, endoscopy, MR, X-rays, CT and radionuclides."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 This guide teaches section 3.10 Medical physics of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards), covering every sub-section from 3.10.1 to 3.10.6. The section is **A-level only**. Sections 3.9-3.13 are **options**: you study one, and it is assessed in Paper 3 Section B (35 of the paper's 80 marks). Section A of Paper 3 assesses practical skills and data analysis.

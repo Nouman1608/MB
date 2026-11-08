@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics"
 description: "Condensed revision notes on the Lewis model, tourism, primary industries, debt relief, aid and the World Bank, IMF and NGOs for Edexcel IAL Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense parts c and d of item 3 in section 4.3.6 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. The specification places Unit 4 among the International A2 units, so it applies to the full International Advanced Level only. For explanations read the [study guide](/resources/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international/), then test yourself with the [practice questions](/resources/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international-practice/). Other useful pages: the [course hub](/boards/edexcel/a-level/economics/), the [checklist](/checklists/edexcel/a-level/economics/), [exam preparation](/resources/edexcel-ial-economics-exam-preparation/) and the [free diagnostics](/diagnostics/). Every number here is invented.

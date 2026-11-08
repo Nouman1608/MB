@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "geometry"
 description: "Condensed Cambridge O Level Mathematics revision notes on geometry: angles, polygons, bearings, similarity, symmetry, circle theorems and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense topic 4, Geometry, from the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027 (sections 4.1 to 4.8). For full explanations and worked examples, read the [study guide](/resources/o-level-mathematics-geometry/). Test yourself with the [practice questions](/resources/o-level-mathematics-geometry-practice/), tick outcomes on the [checklist](/checklists/cambridge/o-level/mathematics/), see the [course hub](/boards/cambridge/o-level/mathematics/) and find weak spots with the [free diagnostics](/diagnostics/).
 

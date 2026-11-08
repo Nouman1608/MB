@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "other-receivables-and-other-payables-4ac1"
 description: "Study guide to Edexcel International GCSE Accounting 4AC1 sections 2.6 and 2.7: irrecoverable debts, provisions, other receivables and other payables."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches sections 2.6 (Irrecoverable debts) and 2.7 (Other receivables and other payables) of Topic 2, Introduction to bookkeeping, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The specification describes two papers and does not divide them into tiers. Paper 1 is drawn only from topics 1 to 3, while Paper 2 adds topics 4 and 5 to that base, so this bookkeeping carries into the financial statements you prepare later.

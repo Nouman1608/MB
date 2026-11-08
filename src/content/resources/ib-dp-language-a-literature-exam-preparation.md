@@ -10,11 +10,12 @@ syllabusCodes: ["DP Language A: Literature"]
 order: 4
 description: "Exam preparation for IB DP Language A: Literature: Paper 1's two unseen extracts, a comparative Paper 2, a balanced individual oral and drafting the HL essay."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 The [assessment revision notes](/resources/ib-dp-language-a-literature-assessment-revision-notes/)

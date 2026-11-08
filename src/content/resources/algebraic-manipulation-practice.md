@@ -24,11 +24,12 @@ syllabusTopics:
     subtopic: "equations"
 description: "Cambridge O Level Mathematics 4024 practice questions with worked answers on expanding, factorising, completing the square, algebraic fractions and rearranging."
 author: "muhammad-ghazali-siddiqui"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: expanded from about 800 words (Section C on triple brackets, grouping, cubic factorising, algebraic fractions, completing the square with a ≠ 1), added intro and FAQ, removed a duplicated exam-trap bullet, rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
-reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded from about 800 words (Section C on triple brackets, grouping, cubic factorising, algebraic fractions, completing the square with a ≠ 1), added intro and FAQ, removed a duplicated exam-trap bullet, rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

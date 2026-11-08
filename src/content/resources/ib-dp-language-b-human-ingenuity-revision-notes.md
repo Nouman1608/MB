@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "ib-dp-language-b-human-ingenuity"
 description: "Condensed revision notes on Human ingenuity for IB DP Language B: theme facts, vocabulary fields, key structures, method steps and a quick self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 For full explanations and worked examples, read the [Human ingenuity study guide](/resources/ib-dp-language-b-human-ingenuity/) first. These notes are for the final weeks.

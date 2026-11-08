@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d3-1"
 description: "Condensed HL-only revision notes for IB DP Biology D3.1.13-D3.1.20: puberty, gametogenesis, polyspermy, hCG, placenta, childbirth and HRT."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes are aligned to the IB *Biology guide*, first assessment 2025, and condense statements D3.1.13 to D3.1.20 of sub-topic D3.1 (Reproduction). Everything here is Additional higher level, so it is **HL only**. For full explanations go to the [study guide](/resources/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis/). Then try the [practice questions](/resources/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis-practice/). Other links: [course hub](/boards/ib/ib-dp/biology/), [printable checklist](/checklists/ib/ib-dp/biology/) and [all free 10-minute diagnostics](/diagnostics/).

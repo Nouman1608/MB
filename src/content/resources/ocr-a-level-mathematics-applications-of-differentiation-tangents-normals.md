@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "differentiation-ocr-alevel-maths"
 description: "Study guide to tangents, normals, stationary points, increasing and decreasing functions, inflection and optimisation for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the applications of differentiation in OCR A Level Mathematics A (H240), as set out in the OCR specification (Version 3.1, August 2026): content references 1.07m, 1.07n and 1.07o (Stage 1, the stage shared with AS Level H230) and 1.07p (Stage 2, A Level only), within 1.07 Differentiation. Optimisation in context and curve sketching with calculus apply the same results. Gradients, second derivatives, first principles and standard derivatives are taught in a separate fundamentals page, and the product, quotient and chain rules in a techniques page.

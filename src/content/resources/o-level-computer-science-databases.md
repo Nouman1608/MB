@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "databases-2210"
 description: "Topic 9 guide for Cambridge O Level Computer Science 2210: designing a single-table database, data types, validation, primary keys and SQL, with worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 9 of Cambridge O Level Computer Science (2210) covers single-table databases: setting one up from a description of the data, choosing data types and validation for its fields, choosing a primary key, and using structured query language (SQL) to get information out of it. The SQL is limited to a short list of keywords, so this is a topic where careful practice quickly turns into reliable marks on Paper 2.

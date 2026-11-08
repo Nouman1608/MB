@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c5-1-monitoring-chemical-reactions-j248"
 description: "Condensed J248 C5.1 revision notes: formula table, titration steps, gas volume at RTP, yield and atom economy, plus a ten-question self-test."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 For full explanations and longer worked examples, read the [Monitoring chemical reactions study guide](/resources/ocr-gcse-chemistry-monitoring-chemical-reactions/) first.

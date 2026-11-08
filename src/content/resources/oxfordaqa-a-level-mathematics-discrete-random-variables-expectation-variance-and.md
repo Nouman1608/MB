@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s1-discrete-random-variables-oxfordaqa-alevel-maths"
 description: "Study guide to OxfordAQA International AS and A-level Maths S1.2: expectation, variance, functions of X and independent sums, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide covers section S1.2 (Discrete random variables) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. This content is part of International AS, Unit PSM1 (section 3.2, S1). It teaches the mean, variance and standard deviation of a discrete random variable, of a function of it, and of sums and differences of independent variables.
 

@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "islam-beliefs-teachings-9237"
 description: "Recall notes for OxfordAQA International GCSE Islamiat 9237 topic 3.1.1: Tawhid, shirk, names of Allah, angels, Al-Qadr, akhirah, prophets, books and caliphs."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense topic 3.1.1 of OxfordAQA International GCSE Islamiat 9237, Islam: Beliefs and

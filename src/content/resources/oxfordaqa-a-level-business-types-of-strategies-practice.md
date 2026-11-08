@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "types-of-strategies-oxfordaqa-alevel-business"
 description: "Practice questions with worked answers for OxfordAQA A-level Business 9725 section 3.4.4: growth, innovation, global trade and sustainability strategy."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "classification-of-goods-and-services-cambridge-alevel-economics"
 description: "Condensed revision notes on PPC shape, shifts and position, and free, private, public, merit and demerit goods for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 1.5 and 1.6 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. They are AS Level content (topic 1), assumed knowledge for A Level Papers 3 and 4. Full explanations are in the [study guide](/resources/cambridge-a-level-economics-production-possibility-curves-and-the-classification/). Test yourself with the [practice questions](/resources/cambridge-a-level-economics-production-possibility-curves-and-the-classification-practice/), the [free diagnostics](/diagnostics/), the [course hub](/boards/cambridge/a-level/economics/) and the [printable checklist](/checklists/cambridge/a-level/economics/). All figures here are invented.

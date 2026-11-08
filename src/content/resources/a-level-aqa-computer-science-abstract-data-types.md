@@ -39,8 +39,12 @@ syllabusTopics:
     subtopic: "vectors-7517"
 description: "Text and binary files, static vs dynamic structures, queues, stacks, graphs, trees, hash tables, dictionaries and vectors for AQA A-Level Computer Science 7517."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This guide covers the rest of 4.2 Fundamentals of data structures in

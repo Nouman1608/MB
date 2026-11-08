@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "understanding-management-leadership-and-decision-making-aqa-alevel-business"
 description: "Original practice questions with worked answers on AQA A-Level Business (7132) 3.2.1: Tannenbaum Schmidt, leadership styles and their effectiveness."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

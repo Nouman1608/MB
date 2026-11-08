@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "recursion"
 description: "Revision notes on binary search, insertion and bubble sort, linked lists, binary trees, stacks, queues, graphs, Big O and recursion for Cambridge A Level 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 19 Computational thinking and Problem-solving is the A Level algorithms topic in Cambridge International AS & A Level Computer Science 9618: linear and binary search, insertion and bubble sort, algorithms that find, insert and delete items in abstract data types (stack, queue, linked list, binary tree), graphs and dictionaries, comparing algorithms with Big O notation, and recursion. It is examined in Paper 3 and is one of the two topics, with Topic 20, that Paper 4 Practical assesses in program code.

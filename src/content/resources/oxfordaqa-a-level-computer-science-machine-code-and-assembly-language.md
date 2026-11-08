@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "machine-code-and-assembly-language"
 description: "Study guide to OxfordAQA A-level Computer Science topic 8: instruction format, addressing modes and writing and tracing assembly programs."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This guide teaches topic 8, Machine code and assembly language, from Version 1.1 of OxfordAQA's International AS and A-level Computer Science (9645) specification (it applies to International AS exams in May/June 2025 and later, and to International A-level exams in May/June 2026 and later). The sections taught are sections 3.8.1 and 3.8.2. The whole topic is International AS content. The assessment overview puts it in the written paper for Unit 2 (Concepts and principles of computer science), which means it also counts towards the full International A-level.

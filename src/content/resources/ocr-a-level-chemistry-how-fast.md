@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-1-1"
 description: "Study guide to OCR A Level Chemistry A 5.1.1 How fast?: orders, rate equations, units of k, half-life, rate graphs, mechanisms and the Arrhenius equation."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 5.1.1, How fast?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, covering outcomes (a) to (k). H432 is the full A level. OCR's assessment overview places Module 5 in Periodic table, elements and physical chemistry (01) and in Unified chemistry (03).

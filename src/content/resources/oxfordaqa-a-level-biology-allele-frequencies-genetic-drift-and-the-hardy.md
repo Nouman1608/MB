@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Study guide to gene pools, allele frequency, bottlenecks, genetic drift and the Hardy-Weinberg equation for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide covers sections 3.3.7.1 and 3.3.7.2 of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1, for International A-level exams May/June 2018 onwards. Both sections sit in Unit 3, *Populations and genes*, which the specification lists under the International A-level assessments. The International AS covers Units 1 and 2 only. Course pages: the [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/), the [printable checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/). Next steps: the [revision notes](/resources/oxfordaqa-a-level-biology-allele-frequencies-genetic-drift-and-the-hardy-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-biology-allele-frequencies-genetic-drift-and-the-hardy-practice/).
 

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "simple-circuits-ocr-gcse"
 description: "Twelve original practice questions with worked answers on current, charge, Q = It, series and parallel circuits and symbols for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

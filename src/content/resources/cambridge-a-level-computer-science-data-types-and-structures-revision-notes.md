@@ -28,8 +28,12 @@ syllabusTopics:
     subtopic: "introduction-to-abstract-data-types-adt"
 description: "Revision notes on data types, records, 1D and 2D arrays, bubble sort, linear search, text files, stacks, queues and linked lists for Cambridge AS 9618 Topic 10."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 10 Data Types and Structures covers choosing data types, grouping data in records and arrays, keeping data in text files, and the stack, queue and linked list abstract data types (ADTs). In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 2, where you write pseudocode for records, arrays, a bubble sort, a linear search and text-file handling, and show how ADTs are stored in arrays.

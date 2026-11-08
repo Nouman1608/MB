@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "expert-systems"
 description: "Revision notes on expert systems for Cambridge AS & A Level IT 9626: the five components, chaining, data and goal driven, scenarios and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 For full explanations and worked examples, read the [study guide on expert systems](/resources/a-level-cambridge-ict-expert-systems/) first. These notes are for quick recall in the final weeks.

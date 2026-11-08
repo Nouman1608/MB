@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "enterprise-cambridge-alevel-business"
 description: "Study guide to section 1.1 Enterprise of Cambridge AS & A Level Business 9609: business activity, entrepreneurs, intrapreneurs and business plans."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide teaches section 1.1 Enterprise of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Section 1.1 is part of Topic 1, Business and its environment, an AS Level topic that A Level candidates also study. It has three parts: 1.1.1 The nature of business activity, 1.1.2 The role of entrepreneurs and intrapreneurs, and 1.1.3 Business plans.
 

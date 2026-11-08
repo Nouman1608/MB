@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "movement-into-and-out-of-cells"
 description: "Study guide to diffusion, osmosis and active transport for Cambridge O Level Biology 5090, with worked examples on SA:V and potato osmosis data."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches Topic 3, Movement into and out of cells, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, and covers every learning outcome in sections 3.1 (Diffusion and osmosis) and 3.2 (Active transport). The 5090 syllabus is not tiered: every candidate studies the same outcomes, and this content can appear on Paper 1, Paper 2 and the practical papers.

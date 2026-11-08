@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "projectile-motion-oxfordaqa"
 description: "Study guide to projectile motion, friction, lift, drag and terminal speed with worked examples, for OxfordAQA International AS and A-level Physics 9630."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide follows the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, section 3.2.4 (Projectile motion). It is shared International AS and A-level content, so it applies whichever route you are taking. Gravitational field strength is taken as 9.81 N kg⁻¹ (m s⁻² for free fall) throughout; in an exam, use the value the question gives you.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "bonding-and-structure-ych11"
 description: "Study guide for Edexcel International A Level Chemistry Topic 3A-3B: evidence for ions, lattices, polarisation, dative bonds, carbon lattices and polarity."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide covers Topic 3 parts 3A (Ionic bonding) and 3B (Covalent bonding) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017. It teaches learning outcomes 3.1 to 3.15. This is International AS (IAS) content, examined in Unit 1: Structure, Bonding and Introduction to Organic Chemistry. [Shapes of molecules (3C) and metallic bonding (3D)](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding/) are not taught here.

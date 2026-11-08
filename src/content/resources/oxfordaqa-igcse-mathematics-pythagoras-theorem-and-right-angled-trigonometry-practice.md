@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "mensuration-and-calculation-oxfordaqa-igcse-maths"
 description: "Original practice questions with full worked answers on Pythagoras and right-angled trigonometry, 2D and 3D, for OxfordAQA IGCSE Mathematics 9260."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

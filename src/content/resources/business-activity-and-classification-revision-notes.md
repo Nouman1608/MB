@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "classification-of-businesses"
 description: "Condensed recall notes on needs and wants, added value, economic sectors and business classification for Cambridge O Level Business Studies 7115."
 author: "asif-iqbal"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-08-22
 featured: false
 ---

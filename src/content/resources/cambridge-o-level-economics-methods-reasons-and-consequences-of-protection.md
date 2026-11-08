@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "globalisation-free-trade-and-protection"
 description: "Study guide to tariffs, quotas, subsidies, embargoes, reasons for protection and its effects, with worked examples, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches sections 6.2.4 to 6.2.6 of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2: methods of protection, reasons for protection, and the consequences of protection. The syllabus has no tiers, so all of it applies to every candidate. Every country, firm, market and number below is invented for practice and is not a real statistic.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "ib-myp-sciences-global-contexts"
 description: "Revision notes on the six MYP global contexts for IB MYP Sciences: key terms, unit examples, statement of inquiry steps, criterion D links and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense the global contexts part of IB MYP Sciences. For full explanations and worked examples, read the [global contexts study guide](/resources/ib-myp-sciences-global-contexts/) first. The notes are aligned to the IB *MYP Sciences guide* (for use from September 2014/January 2015; published May 2014, updated May 2019) and suit MYP years 4 and 5 (no SL/HL split).

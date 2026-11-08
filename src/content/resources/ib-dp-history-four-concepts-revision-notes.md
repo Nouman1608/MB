@@ -11,9 +11,10 @@ syllabusSeries: "First assessment 2017"
 order: 3
 description: "Revision notes on IB DP History's six key concepts (first assessed 2017): definitions, question wording, a worked example, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten from the 2028 four-concept framing to the six key concepts of the current course (first assessment 2017) per owner decision; slug kept; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: rewritten from the 2028 four-concept framing to the six key concepts of the current course (first assessment 2017) per owner decision; slug kept; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-02
 featured: false
 ---

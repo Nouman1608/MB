@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "practical-skills-ocr-gcse-biology"
 description: "A study guide to OCR GCSE Biology A (J247) practical activity groups 1 to 4: microscopy, food tests, sampling and enzyme rates, with worked calculations."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers the first four practical activity groups (PAGs) in Topic B7, Practical skills, of the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026): microscopy, testing for biological molecules, sampling techniques and rates of enzyme-controlled reactions. It also covers the working scientifically practical skills 2a to 2d. None of these statements carries the Higher Tier only marking. OCR states that 15% of the written-paper questions test practical skills.

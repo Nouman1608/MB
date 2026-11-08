@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-e-3"
 description: "Study guide to IB DP Physics E.3: activity, count rate, half-life, background radiation, the decay law and uses of radioisotopes, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers the second part of sub-topic E.3, Radioactive decay, in the IB *Physics guide* (first assessment 2025): activity, count rate, half-life, background radiation, finding a half-life and real-life uses of radioisotopes. Standard level (SL) and higher level (HL) both study these. The decay constant and the exponential law are additional higher level, and each is marked "HL only". Types of decay and binding energy are the first part of E.3 and are taught in a [separate guide](/resources/ib-dp-physics-nuclear-structure-binding-energy-and-types-of/). Use the [revision notes](/resources/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law-revision-notes/) for recall and the [practice questions](/resources/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law-practice/) for testing. Also see the [course hub](/boards/ib/ib-dp/physics/), the [printable checklist](/checklists/ib/ib-dp/physics/) and the [free 10-minute diagnostics](/diagnostics/).

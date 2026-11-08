@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "atomic-structure-and-the-periodic-table-8462"
 description: "Atomic structure, isotopes, the periodic table, Groups 0, 1 and 7 and transition metals: Topic 4.1 of AQA GCSE Chemistry (8462), with a worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-08-21
 updatedDate: 2026-09-27
 featured: false

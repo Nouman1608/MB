@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "microbiology-immunity-and-forensics-edexcel-alevel-biology"
 description: "Condensed revision notes on decomposition, PCR, gel electrophoresis, DNA profiling and time of death for Pearson Edexcel International A Level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 Quick recall for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, statements 6.16 to 6.20 in Topic 6. This topic is in Unit 4, the International A2 (IA2) part of the course. For full explanations read the [study guide](/resources/edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology/). Test yourself with the [practice questions](/resources/edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology-practice/), use the [Edexcel A Level Biology hub](/boards/edexcel/a-level/biology/) and the [printable checklist](/checklists/edexcel/a-level/biology/), and find gaps with the [free 10-minute diagnostics](/diagnostics/).
 

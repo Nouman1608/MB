@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-failure-cambridge-igcse-economics"
 description: "Condensed revision notes on the market economic system, market failure, its causes and consequences, with a self-test, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 2.9 and 2.10 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-economics-the-market-economic-system-and-market-failure/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-the-market-economic-system-and-market-failure-practice/). Other links: the wider [allocation of resources revision notes](/resources/igcse-economics-allocation-of-resources-revision-notes/), the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). All figures below are invented.

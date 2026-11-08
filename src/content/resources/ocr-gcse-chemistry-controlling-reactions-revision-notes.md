@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c5-2-controlling-reactions-j248"
 description: "Revision notes for OCR GCSE Chemistry A (J248) C5.2: rate units, tangents, 1/t, collision theory, surface area to volume ratio, catalysts and enzymes."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 These notes condense sub-topic **C5.2 Controlling reactions** of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026): learning outcomes C5.2a–C5.2i, mathematical learning outcomes CM5.2i–CM5.2iv and the rate practicals linked to PAG C1, PAG C7 and PAG C8. None of C5.2 is in bold type, so all of it is for both tiers. The specification's assessment overview places Topic C5 in Paper 2 (Foundation) and Paper 4 (Higher).

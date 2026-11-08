@@ -32,8 +32,12 @@ syllabusTopics:
     subtopic: "plastic-pollution-5014-2027"
 description: "Practice questions with worked answers on water treatment, desalination, eutrophication, malaria, fish farming, oil spills and plastics for O Level 5014."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 These questions cover all six sub-topics of Topic 3 Water in the 2027-2029 Cambridge O Level

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-4"
 description: "Study guide to IB DP Economics sub-topic 3.4: inequality, the Lorenz curve, poverty measures, causes, taxes and policies, with an HL-only calculation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 3.4, the economics of inequality and poverty, in Unit 3 Macroeconomics. Most of 3.4 is SL and HL; the construction of a Lorenz curve from quintile data and two tax calculations are **HL only**, and are marked that way below. Every country, figure and currency here is invented.

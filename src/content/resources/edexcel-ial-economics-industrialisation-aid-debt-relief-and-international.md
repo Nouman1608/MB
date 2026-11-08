@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics"
 description: "Study guide to the Lewis model, tourism, primary industries, debt relief, aid, the World Bank, IMF and NGOs for Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is written for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. It teaches the last two parts of item 3 in section 4.3.6, which deals with growth and development across developing, emerging and developed economies: other development strategies (3c) and international institutions (3d). By the specification's own labels, Units 1 and 2 make up the International AS (IAS) and Units 3 and 4 add the International A2 (IA2) content, so this Unit 4 material sits in the full International Advanced Level only. All countries, firms and numbers below are made up for practice.

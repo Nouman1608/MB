@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "kinetics-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 11 Kinetics: rate equations, orders, half-life, mechanisms, activation energy and Core Practicals 9 and 10."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 11: Kinetics of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 11.1 to 11.13, with Core Practicals 9a, 9b and 10, in the International A2 (IA2) unit Unit 4: Rates, Equilibria and Further Organic Chemistry, and it builds on Unit 2, Topic 9A: Kinetics (see the [Topic 9 guide](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria/)).

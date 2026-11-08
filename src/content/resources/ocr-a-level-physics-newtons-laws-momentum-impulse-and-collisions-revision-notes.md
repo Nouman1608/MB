@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "newtons-laws-of-motion-and-momentum"
 description: "Condensed revision notes on momentum, impulse, force-time graphs and elastic and inelastic collisions for OCR A Level Physics A (H556), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense section 3.5 of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026): 3.5.1 Newton's laws of motion and 3.5.2 Collisions. For fuller explanations, read the [study guide](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions/). To test yourself, try the [practice questions](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions-practice/). Two-dimensional collision problems are assessed at A level only. See also the [OCR A Level Physics hub](/boards/ocr/a-level/physics/), the [printable checklist](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).

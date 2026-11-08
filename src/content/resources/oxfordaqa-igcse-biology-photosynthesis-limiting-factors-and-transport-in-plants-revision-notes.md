@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "exchange-and-transport-in-plants-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on photosynthesis, limiting factors, stomata, transpiration, xylem and phloem for OxfordAQA International GCSE Biology (9201)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed recall notes for OxfordAQA International GCSE Biology (9201), Version 5.2, sections 3.2.1 and 3.2.2. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants/). When you can answer the self-test below, move on to the [practice questions](/resources/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants-practice/). Related pages: the [Bioenergetics revision notes](/resources/oxfordaqa-igcse-biology-bioenergetics-revision-notes/), the [course hub](/boards/oxfordaqa/igcse/biology/), the [printable checklist](/checklists/oxfordaqa/igcse/biology/) and the [free 10-minute diagnostics](/diagnostics/).

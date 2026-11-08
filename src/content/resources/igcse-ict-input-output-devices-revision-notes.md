@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "output-devices-and-their-uses-0417"
 description: "Condensed notes on input devices, direct data entry devices such as RFID and OMR, and output devices including printers, for Cambridge IGCSE ICT 0417 Topic 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-09-06
 featured: false
 ---

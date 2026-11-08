@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "respiration-muscles-and-the-internal-environment-edexcel-alevel-biology"
 description: "Study guide to Edexcel IAL Biology 7.9-7.15: antagonistic muscles, sliding filaments, SAN and AVN, cardiac output, adrenaline, Core Practical 17."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. It covers statements 7.9 to 7.15 of Topic 7, including Core Practical 17. Topic 7 belongs to the International A2 (IA2) part of the course; Topics 1 to 4 are International AS (IAS). There are no tiers, and every (i), (ii) and (iii) part is covered.
 

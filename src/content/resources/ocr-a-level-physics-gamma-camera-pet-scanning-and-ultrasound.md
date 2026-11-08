@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "medical-imaging-ocr-alevel"
 description: "OCR A Level Physics A (H556) study guide to sections 6.5.2 and 6.5.3: Tc-99m and F-18 tracers, gamma camera, PET, ultrasound, impedance and Doppler."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This study guide follows the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. It covers 6.5.2 (Diagnostic methods in medicine), statements (a) to (e), and 6.5.3 (Using ultrasound), statements (a) to (g). X-rays, attenuation and CAT scanning (6.5.1) are taught separately. Next: the [revision notes](/resources/ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound-revision-notes/) and [practice set](/resources/ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound-practice/). See the [course hub](/boards/ocr/a-level/physics/), the [checklist](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).
 

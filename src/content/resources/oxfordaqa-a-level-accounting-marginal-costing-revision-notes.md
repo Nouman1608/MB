@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "marginal-costing-oxfordaqa"
 description: "Revision notes for OxfordAQA AS Accounting 3.1.10 marginal costing: cost terms, break-even formulas, decision rules and a checked quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For full explanations and longer worked examples, read the [marginal costing study guide](/resources/oxfordaqa-a-level-accounting-marginal-costing/) first.

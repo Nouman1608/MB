@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "quadratic-equations-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes on quadratic equations (2.7): method steps, the formula, completing the square, context problems and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense section 2.7, **Quadratic equations**, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. Foundation tier 2.7 is solving x² + bx + c = 0 by factorisation only. The rest -- factorising ax² + bx + c, the quadratic formula, completing the square, forming equations from a context and linear-quadratic simultaneous equations -- is **Higher tier only**. A calculator may be used on every paper.

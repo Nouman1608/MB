@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "representation-pictorial-diagrammatic-4040"
 description: "Condensed revision notes on tables, two-way tables, pictograms, pie, bar, dual, sectional and percentage bar charts for Cambridge O Level Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Use these notes after the [full study guide](/resources/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts/). They fit Cambridge O Level Statistics (4040), version 1, examined in 2025, 2026 and 2027. They cover sections 2.1 and the construction of pictograms, pie charts, comparative pie charts, bar charts, sectional and percentage bar charts and dual bar charts from section 2.2. Test yourself afterwards with the [practice set](/resources/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts-practice/). When you plan revision, open the [Statistics hub](/boards/cambridge/o-level/statistics/), tick off the [checklist](/checklists/cambridge/o-level/statistics/) and take a [diagnostic](/diagnostics/). For the whole of Topic 2, there is also an [overview page](/resources/o-level-cambridge-statistics-summary-representation-of-data/).

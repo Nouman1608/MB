@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "plant-organ-system-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 guide to leaf tissues, root hair cells, xylem, phloem, stomata, transpiration, translocation and potometer calculations, worked through."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 A plant's roots, stem and leaves form an **organ system that transports substances around the plant**: water and

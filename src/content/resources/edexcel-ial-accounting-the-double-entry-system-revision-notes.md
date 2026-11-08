@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-double-entry-system-yac11"
 description: "Condensed recall notes on the double entry system for Edexcel International A-Level Accounting: rules, prime entry, adjustments and allowances."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These revision notes condense content points 1.1.3 to 1.1.7 of Unit 1 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018: the double entry system. Full explanations and longer worked examples are in the [study guide](/resources/edexcel-ial-accounting-the-double-entry-system/). Test yourself with the [practice questions](/resources/edexcel-ial-accounting-the-double-entry-system-practice/). The businesses are invented and amounts are in dollars.

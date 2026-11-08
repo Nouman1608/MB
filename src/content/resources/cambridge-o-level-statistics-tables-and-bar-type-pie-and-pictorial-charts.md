@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "representation-pictorial-diagrammatic-4040"
 description: "Study guide to tables, two-way tables, pictograms, pie charts and bar charts for Cambridge O Level Statistics, with fully worked constructions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Written for Cambridge O Level Statistics (4040), version 1, examined in 2025, 2026 and 2027, this guide covers section 2.1 (classification and representation in tabular form, including two-way tables) and the part of section 2.2 that deals with pictograms, pie charts, comparative pie charts, bar charts, sectional and percentage bar charts and dual bar charts. The syllabus applies to all candidates; it is not tiered.

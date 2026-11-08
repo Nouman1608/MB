@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-oxfordaqa-alevel-economics"
 description: "Study guide to market structures, firms' objectives and competitive markets for OxfordAQA International AS and A-level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA *International AS and A-level Economics* specification (version 1.2; first teaching September 2020, International AS from May/June 2021, International A-level from May/June 2022). It covers sections 3.1.4.1 (market structures), 3.1.4.2 (the objectives of firms) and 3.1.4.3 (competitive markets). Section 3.1 is International AS content and is also examined in the full International A-level. Section 3.5 (quantitative skills) can be assessed in any unit, so the calculations here use it. Monopoly, monopoly power and the competitive market process are separate statements in the specification and are not taught here.

@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "international-history-1929-39-9489"
 description: "Revision notes on the three International option topics of Cambridge AS and A Level History 9489 (2027-2029): imperialism, the 1920s and the road to war, 1939."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added a dated 1929-39 table; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added a dated 1929-39 table; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-06
 featured: false
 ---

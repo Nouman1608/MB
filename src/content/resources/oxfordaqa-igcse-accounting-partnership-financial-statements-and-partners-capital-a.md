@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "partnership-statements-oxfordaqa-igcse-accounting"
 description: "Study guide to partnership income statements, appropriation accounts, capital and current accounts and statements of financial position for OxfordAQA 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide follows the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the partnerships part of section 3.4, Preparation of financial statements. The specification lists Content 3 to 5 as the content assessed in Paper 2, so this topic sits in that paper. All amounts below are in dollars.

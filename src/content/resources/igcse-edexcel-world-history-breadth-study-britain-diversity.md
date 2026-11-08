@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-britain-diversity-4hi1"
 description: "Study guide to Breadth Study B8, Britain 1914–2010, for Edexcel IGCSE History 4HI1: votes for women, war, Windrush, civil rights laws and the Equality Act."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates of each Act against legislation.gov.uk before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates of each Act against legislation.gov.uk before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

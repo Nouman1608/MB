@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "budgets-cambridge-alevel-business"
 description: "Condensed revision notes for 5.4 Costs and 5.5 Budgets in Cambridge AS & A Level Business 9609: definitions, formulas, methods and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense sections 5.4 Costs and 5.5 Budgets of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both sections are AS Level content in Topic 5, which A Level candidates also study. For fuller explanations, use the [study guide](/resources/cambridge-a-level-business-costs-and-budgets/), then test yourself with the [practice questions](/resources/cambridge-a-level-business-costs-and-budgets-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/). The businesses here are invented.
 

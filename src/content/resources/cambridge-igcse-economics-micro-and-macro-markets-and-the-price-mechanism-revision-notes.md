@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-role-of-markets-in-allocating-resources-cambridge-igcse-economics"
 description: "Condensed notes on micro versus macro, market equilibrium and disequilibrium, the three allocation questions and the price mechanism for IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 2.1 and 2.2 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. For full explanations and worked examples, read the [study guide](/resources/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism/). Then test yourself with the [practice questions](/resources/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the free [diagnostics](/diagnostics/). All data below are invented and illustrative.

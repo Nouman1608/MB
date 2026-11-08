@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "elementary-ideas-of-probability-4040"
 description: "Study guide to sample spaces, relative frequency, complements, the addition rule and mutually exclusive events for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is aligned to the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027, topic 11, *Elementary ideas of probability*. It covers the basic ideas, the treatment of mutually exclusive events, and the Venn, tree and table methods used to organise them. The syllabus also lists independent events and selections with or without replacement under the same topic. Those are not the focus here, apart from one tree example where the stages are stated to be independent. The syllabus is not tiered, and its assessment overview says electronic calculators should be used on both papers.
 

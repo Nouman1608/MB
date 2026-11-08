@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-and-newtons-laws-ocr-alevel-maths"
 description: "Condensed revision notes on friction for OCR A Level Mathematics A (H240): F ≤ μR, limiting equilibrium, rough planes and slopes, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These are condensed notes on friction, references 3.03r to 3.03v of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026). The [study guide](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and/) explains each idea in full with longer examples. Once the notes feel familiar, check yourself with the [practice questions](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-practice/), the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 

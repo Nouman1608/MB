@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "introduction-to-costing"
 description: "Study guide to Edexcel IAL Accounting topic 1.4: FIFO, LIFO and NRV, labour pay schemes, overhead absorption and job costing, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches topic 1.4, Introduction to costing, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. It covers learning outcomes 1.4.1 to 1.4.13. This is Unit 1 (The Accounting System and Costing) content, so it is International AS material that also counts towards the full International A Level. All money amounts are in dollars.

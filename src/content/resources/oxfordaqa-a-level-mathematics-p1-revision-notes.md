@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
 description: "Condensed recall notes for OxfordAQA 9660 Unit P1 on algebra, quadratics, coordinate geometry and calculus, with circle and trig flagged as Unit PSM1 content."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

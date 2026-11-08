@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "d-sequences-and-series-aqa-alevel-maths"
 description: "Original practice questions with mark-by-mark worked answers on binomial expansion, recurrences, sigma, AP and GP for AQA A-Level Maths 7357 Section D."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "skeletal-muscles-aqa-alevel-biology"
 description: "Study guide to myofibril structure, sliding filaments, calcium ions, ATP, phosphocreatine and fibre types for AQA A-level Biology 7402 section 3.6.3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide covers section 3.6.3 of the AQA AS and A-level Biology specification for first teaching 2015 (7402): skeletal muscles are stimulated to contract by nerves and act as effectors. The section is A-level only. The specification says the role of troponin is not required, so it is left out here. Revise with the [revision notes](/resources/aqa-a-level-biology-muscle-contraction-revision-notes/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-muscle-contraction-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). Use the [free diagnostics](/diagnostics/) to find your weakest topics. For the energy side, see the [respiration page](/resources/aqa-a-level-biology-respiration/).
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "solving-equations-and-inequalities-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on simultaneous equations for OxfordAQA International GCSE Mathematics: methods, special cases, graphs and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes condense statement A21 in section 3.2.3 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). Core content is also assessable at Extension. Solving a linear equation with a quadratic one is **Extension only**. For full explanations, read the [study guide](/resources/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic-practice/).
 

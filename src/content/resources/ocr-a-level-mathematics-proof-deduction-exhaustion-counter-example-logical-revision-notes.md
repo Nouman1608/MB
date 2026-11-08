@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "proof-ocr-alevel-maths"
 description: "Condensed OCR A Level Mathematics A revision notes on proof: methods, connectives, counter-examples, contradiction, a self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense section 1.01 Proof (1.01a to 1.01d) of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. Stage 1 content (1.01a to 1.01c) is shared with AS. Proof by contradiction, 1.01d, is **A Level only**. The [study guide](/resources/ocr-a-level-mathematics-proof-deduction-exhaustion-counter-example-logical/) explains each method at length. Test yourself with the [practice questions](/resources/ocr-a-level-mathematics-proof-deduction-exhaustion-counter-example-logical-practice/).

@@ -45,9 +45,10 @@ syllabusTopics:
     subtopic: "the-legal-system-legal-personnel-and-the-judiciary-7162"
 description: "Practice questions with answers on Parliament, delegated legislation, interpretation, precedent, law reform, the EU, courts, juries and judges for AQA 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the mark allocations and examples against AQA mark schemes before review."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the mark allocations and examples against AQA mark schemes before review; 2026-11-08: reviewed by aizaz-raoof-ali."
 publishedDate: 2026-11-08
 featured: false
 ---

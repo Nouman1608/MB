@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "surface-area-and-volume-cambridge-igcse-maths"
 description: "Cambridge IGCSE Maths 0580 subtopic 5.4 study guide: surface area and volume of cuboids, prisms, cylinders, spheres, pyramids and cones, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches subtopic 5.4, Surface area and volume, from topic 5 (Mensuration) of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. The learning outcome is word-for-word the same in both columns: C5.4 (Core) and E5.4 (Extended) both ask you to carry out calculations and solve problems involving the surface area and volume of a cuboid, prism, cylinder, sphere, pyramid and cone. Core candidates take Paper 1 (non-calculator) and Paper 3 (calculator); Extended candidates take Paper 2 (non-calculator) and Paper 4 (calculator). The examples below mix both kinds of paper. The one Extended-only step on this page is finding a length inside a solid with Pythagoras in three dimensions (E6.6), and it is labelled where it appears.

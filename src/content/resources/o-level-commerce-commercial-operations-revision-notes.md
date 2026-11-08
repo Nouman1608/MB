@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "trading-documents-7100"
 description: "Recall notes for Cambridge O Level Commerce 7100 Topic 2: enterprise types, multinationals, franchises, outsourcing, retail, wholesale and communication."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-02
 featured: false
 ---

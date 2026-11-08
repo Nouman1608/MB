@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "analysis-unit-6-yph11"
 description: "Original practice questions with worked answers on section 6.5 Analysis in Pearson Edexcel International A Level Physics (YPH11), including log graphs."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

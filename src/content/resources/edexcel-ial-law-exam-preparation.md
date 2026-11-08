@@ -11,11 +11,12 @@ syllabusSeries: "Issue 4, November 2021"
 order: 3
 description: "Why Edexcel IAL Law YLA1 is linear, what sitting two 3-hour papers in one June series demands, how Paper 2's synoptic content works, and an answer routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 Edexcel International A Level Law (YLA1) is the exception in Pearson's IAL suite: it is **not** split

@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "mughal-empire-9236"
 description: "A full original OxfordAQA 9236 Pakistan Studies Paper 1 practice paper: Sections A and B on compulsory topics and Section C on both options, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-26
 featured: false
 ---

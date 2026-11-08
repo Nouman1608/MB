@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "drought-0680"
 description: "Exam-style questions with answers on plate boundaries, eruptions, cyclones, floods and drought strategies for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 These practice questions cover all of Topic 6, Natural hazards, in Cambridge IGCSE Environmental

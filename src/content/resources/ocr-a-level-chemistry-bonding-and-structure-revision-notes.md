@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-2-2"
 description: "Condensed revision notes for OCR A Level Chemistry A 2.2.2 Bonding and structure: definitions, shapes, polarity, intermolecular forces and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **2.2.2, Bonding and structure**, from OCR's A Level Chemistry A specification (H432, Version 3.1 dated May 2026; first assessment 2017), statements (a) to (o). H432 is the full A level with no tiers, and Module 2 is assessed in all three written components. For full explanations and worked examples, read the [bonding and structure study guide](/resources/ocr-a-level-chemistry-bonding-and-structure/) first.

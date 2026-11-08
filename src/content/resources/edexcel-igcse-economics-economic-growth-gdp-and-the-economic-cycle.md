@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-edexcel-igcse-economics"
 description: "Study guide to economic growth, GDP, its limitations and the economic cycle for Pearson Edexcel International GCSE Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This study guide follows the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, and covers part a) of section 2.1.1, Macroeconomic objectives: economic growth. This content sits in the Paper 2 material, Macroeconomics and the Global Economy. The specification has a single tier of entry. All the countries, firms and figures below are invented for practice.
 

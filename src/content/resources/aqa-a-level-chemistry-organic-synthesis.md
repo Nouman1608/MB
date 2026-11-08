@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "organic-synthesis-7405"
 description: "AQA A-Level Chemistry study guide to organic synthesis: greener process design, atom economy and planning routes of up to four steps, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.3.14 Organic synthesis** of the AQA AS and A-level Chemistry specification

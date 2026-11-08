@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "market-research-cambridge-alevel-business"
 description: "Condensed revision notes for Cambridge A Level Business 9609 sections 3.1 and 3.2, with formulas, comparison tables, a self-test and common mistakes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.1 (The nature of marketing) and 3.2 (Market research) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both are AS Level content. For full explanations, read the [study guide](/resources/cambridge-a-level-business-the-nature-of-marketing-and-market-research/), then test yourself with the [practice questions](/resources/cambridge-a-level-business-the-nature-of-marketing-and-market-research-practice/). The broader [Marketing revision notes](/resources/a-level-business-marketing-revision-notes/) also cover the marketing mix, which is section 3.3 and not covered here. Links: [course hub](/boards/cambridge/a-level/business/), [checklist](/checklists/cambridge/a-level/business/) and [free diagnostics](/diagnostics/).

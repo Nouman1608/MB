@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "inventory-management-cambridge-alevel-business"
 description: "Study guide to 4.2 Inventory management in Cambridge AS & A Level Business 9609: inventory types, costs, re-order level, charts, SCM, JIT and JIC."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers section 4.2 Inventory management (4.2.1 Managing inventory and 4.2.2 Just in Time) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is an AS Level topic, so it is assessed through Papers 1 and 2, and knowledge of AS content is assumed in Papers 3 and 4. For quick recall use the [revision notes](/resources/cambridge-a-level-business-inventory-management-revision-notes/), then try the [practice questions](/resources/cambridge-a-level-business-inventory-management-practice/). The wider Topic 4 questions are in the [operations management practice set](/resources/a-level-business-operations-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

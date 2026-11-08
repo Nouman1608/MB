@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-4-4"
 description: "Revision notes on market research for IB DP Business Management section 4.4: methods, sampling, qualitative versus quantitative, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.4 Market research of the IB *Business management guide*, first assessment 2024, for the final weeks of revision. The content is SL and HL. For full explanations and worked examples, use the [study guide](/resources/ib-dp-business-management-market-research/). When you are ready to test yourself, move on to the [practice questions](/resources/ib-dp-business-management-market-research-practice/). More resources: the [Unit 4 revision notes](/resources/ib-dp-business-management-marketing-revision-notes/), the [Business Management hub](/boards/ib/ib-dp/business/), the [printable checklist](/checklists/ib/ib-dp/business/) and the [free diagnostics](/diagnostics/).

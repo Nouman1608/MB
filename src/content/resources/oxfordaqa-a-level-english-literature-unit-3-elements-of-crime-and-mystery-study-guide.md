@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "unit-3-elements-of-crime-and-mystery-9675"
 description: "Unit 3 Elements of Crime and Mystery for OxfordAQA 9675: the closed-book exam, the set texts, genre elements from the specification and a method for each essay."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added exam format, full set-text list with the spec's eight/nine discrepancy flagged, and corrected the linking-texts section (Unit 3 has no comparative question). Check the number and type of set texts (prose, drama, poetry), the exam structure and duration, whether an unseen extract is set, whether texts may be taken in, and the weighting of each assessment objective."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: added exam format, full set-text list with the spec's eight/nine discrepancy flagged, and corrected the linking-texts section (Unit 3 has no comparative question). Check the number and type of set texts (prose, drama, poetry), the exam structure and duration, whether an unseen extract is set, whether texts may be taken in, and the weighting of each assessment objective; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

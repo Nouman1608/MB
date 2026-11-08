@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "measures-of-dispersion-4040"
 description: "Study guide to range, IQR, variance and standard deviation from lists and frequency tables, with worked examples, for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is for Cambridge O Level Statistics (4040), aligned to the syllabus for examination in 2025, 2026 and 2027. It covers section 5.2, measures of dispersion: the range, the interquartile range, the variance and the standard deviation. The syllabus note asks for these to be calculated or estimated from a list, an ungrouped table and a grouped table. The course is not tiered.

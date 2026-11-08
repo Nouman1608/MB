@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "probability-distributions-0479"
 description: "Original practice questions with full worked answers on probability distribution tables, ΣP(x) = 1 and expectation, for Cambridge IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

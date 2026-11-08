@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-double-entry-system-of-book-keeping"
 description: "Condensed revision notes for Cambridge IGCSE Accounting 0452 section 2.1: debit and credit rules, balancing steps, transfers, balances and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

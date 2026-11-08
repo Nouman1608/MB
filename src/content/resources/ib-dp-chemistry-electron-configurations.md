@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-1-3"
 description: "Study guide to IB DP Chemistry Structure 1.3: emission spectra, sublevels, orbital diagrams, Cr and Cu, and HL ionization energies, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches **Structure 1.3, Electron configurations**, as set out in the IB *Chemistry guide* for the Diploma Programme (published February 2023 for first assessment in 2025). It works through understandings Structure 1.3.1 to 1.3.7. Understandings 1.3.1 to 1.3.5 are taught at both SL and HL; 1.3.6 and 1.3.7 sit in the additional higher level (AHL) part of the guide, so they are **HL only**. The page applies to the course as first assessed in 2025.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "metals-9202"
 description: "Condensed revision notes for OxfordAQA International GCSE Chemistry metals, with the reactivity series, extraction methods, key equations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.3.1 Metals (3.3.1 a to c, 3.3.1.1 a to i and 3.3.1.2 a and b) of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. The qualification is not tiered, so all of it applies to you. For full explanations and worked examples, go to the [Metals study guide](/resources/oxfordaqa-igcse-chemistry-metals/). When you are ready to test yourself properly, use the [Metals practice questions](/resources/oxfordaqa-igcse-chemistry-metals-practice/).

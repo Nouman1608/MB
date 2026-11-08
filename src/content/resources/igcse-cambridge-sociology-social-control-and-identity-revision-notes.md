@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-2-3-0495"
 description: "Revision notes for Cambridge IGCSE Sociology 0495 key questions 2.2 and 2.3: formal and informal control, sanctions, resistance and social identity."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes cover two linked key questions from Cambridge IGCSE Sociology (0495) Paper 1: 2.2 *How

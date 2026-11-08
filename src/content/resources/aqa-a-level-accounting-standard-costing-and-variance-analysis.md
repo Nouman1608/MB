@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "standard-costing-and-variance-analysis"
 description: "Study guide to AQA A-Level Accounting 7127 section 3.11: standard costs, materials, labour and sales variances, links between them and reconciliations."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.11, Standard costing and variance analysis, of the AQA A-level

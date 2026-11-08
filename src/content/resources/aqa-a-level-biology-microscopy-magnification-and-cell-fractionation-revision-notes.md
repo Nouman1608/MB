@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "methods-of-studying-cells-aqa-alevel-biology"
 description: "Condensed recall notes for AQA A-level Biology 3.2.1.3: microscope comparison, graticules, magnification sums, cell fractionation and artefacts."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Short notes for the final weeks. For full explanations, start with the [study guide](/resources/aqa-a-level-biology-microscopy-magnification-and-cell-fractionation/). These notes follow section 3.2.1.3, Methods of studying cells, in the AQA AS and A-level Biology specification (A-level 7402), for first teaching 2015, exams June 2016 onwards. Nothing here is marked A-level only. Test yourself with the [practice questions](/resources/aqa-a-level-biology-microscopy-magnification-and-cell-fractionation-practice/), find the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), tick off topics on the [checklist](/checklists/aqa/a-level/biology/), and use the free [diagnostics](/diagnostics/) to find weak spots. The [cell structure notes](/resources/aqa-a-level-biology-cell-structure-revision-notes/) cover the organelles themselves.

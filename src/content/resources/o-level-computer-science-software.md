@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "software-2210"
 description: "Study guide to Topic 4 Software for Cambridge O Level Computer Science 2210: OS functions, the firmware layer, interrupts, language levels, translators, IDEs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Software is every program a computer runs, and Topic 4 of Cambridge O Level Computer Science (2210) asks you to sort it into two families, explain what the operating system does, follow an interrupt from signal to service routine, and explain how program code is turned into instructions a processor can carry out. Questions on Paper 1 are mostly short and definition-based, so the aim of this guide is to give you the exact ideas and the vocabulary examiners credit.

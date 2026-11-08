@@ -41,8 +41,12 @@ syllabusTopics:
     subtopic: "remedies-tort-7162"
 description: "Exam-style AQA A-level Law 7162 tort questions with worked answers: negligence, misstatement, nervous shock, occupiers, nuisance and vicarious liability."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 These questions practise section 3.3 Tort of AQA A-level Law (7162), examined on Paper 2. They move

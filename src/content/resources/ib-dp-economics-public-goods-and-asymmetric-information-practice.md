@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-10"
 description: "Original practice questions with worked answers for IB DP Economics sub-topics 2.9 public goods and 2.10 asymmetric information (HL only)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

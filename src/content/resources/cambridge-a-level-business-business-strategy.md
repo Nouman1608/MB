@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "business-strategy-cambridge-alevel-business"
 description: "Study guide to section 6.2 Business strategy in Cambridge A Level Business 9609: strategic tools, decision trees, corporate planning and crisis management."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide teaches section 6.2 Business strategy of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is an A Level topic, part of Topic 6, Business and its environment. Section 6.2.1 covers developing business strategy and 6.2.2 covers corporate planning and implementation. The syllabus says Topics 6 to 10 are the direct focus of Paper 3 (Business Decision-Making) and Paper 4 (Business Strategy), with the AS content assumed knowledge.
 

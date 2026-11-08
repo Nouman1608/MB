@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-8"
 description: "Original practice questions with worked answers for IB DP Economics sub-topic 4.8, measuring development: PPP, HDI, IHDI, GII and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

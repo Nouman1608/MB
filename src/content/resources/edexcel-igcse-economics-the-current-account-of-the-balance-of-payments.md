@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-edexcel-igcse-economics"
 description: "A study guide to the current account of the balance of payments for Pearson Edexcel International GCSE Economics: deficits, surpluses, causes and effects."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the current account of the balance of payments, which is statement 2.1.1 d) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3. This is Paper 2 material and supports the objective of a surplus or balance on the current account. There are no tiers. All the countries, firms and numbers used are made up as illustrations.

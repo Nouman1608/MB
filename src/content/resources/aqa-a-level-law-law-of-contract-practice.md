@@ -41,8 +41,12 @@ syllabusTopics:
     subtopic: "remedies-law-of-contract-7162"
 description: "AQA A-level Law 7162 contract practice questions with worked answers on formation, CRA 2015 rights, exclusion clauses, misrepresentation, duress and remedies."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 These questions cover section 3.4 Law of contract in AQA A-level Law (7162), the contract option on

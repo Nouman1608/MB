@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "fieldwork-investigations-0680"
 description: "Recall notes for Cambridge IGCSE Environmental Management 0680 Topic 5: ecosystem terms, energy flow, carbon cycle, deforestation, conservation, sampling."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 Topic 5 of Cambridge IGCSE Environmental Management (0680) covers how ecosystems work, why forests

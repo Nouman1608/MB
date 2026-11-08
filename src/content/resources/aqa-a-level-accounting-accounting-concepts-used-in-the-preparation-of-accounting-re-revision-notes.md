@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "accounting-concepts-used-in-the-preparation-of-accounting-records"
 description: "Condensed AQA A-Level Accounting 3.5 notes: ten concepts, NRV and sale or return methods, capital versus revenue items, and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 Condensed recall notes for section **3.5 Accounting concepts used in the preparation of accounting records** of

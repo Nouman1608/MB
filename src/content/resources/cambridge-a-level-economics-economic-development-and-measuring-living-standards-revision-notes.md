@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-development-cambridge-alevel-economics"
 description: "Condensed revision notes on economic development and living standards for Cambridge A Level Economics: formulas, indicators, Kuznets curve, self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 11.3 (Economic development), outcomes 11.3.1 to 11.3.4, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 11 is A Level content only. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-a-level-economics-economic-development-and-measuring-living-standards/), then test yourself with the [practice questions](/resources/cambridge-a-level-economics-economic-development-and-measuring-living-standards-practice/). The [course hub](/boards/cambridge/a-level/economics/), the [printable checklist](/checklists/cambridge/a-level/economics/) and the [free diagnostics](/diagnostics/) show what to revise next. All figures are invented.

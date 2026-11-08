@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "strategic-positioning-choosing-how-to-compete-oxfordaqa-alevel-business"
 description: "Study guide for OxfordAQA A-level Business 9725 section 3.4.2: market mapping, low cost versus differentiation, and building competitive advantage."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 3.4.2, Strategic positioning: Choosing how to compete, in the 9725 specification for OxfordAQA International AS and A-level Business, Version 1.1 (International AS exams May/June 2027 onwards, International A-level exams May/June 2028 onwards). It follows the revised 9725 content only; if you are finishing the older 9625 course, work from your own 9625 specification instead. Everything here sits in 3.4 Business strategy, so it is **International A-level only**.

@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "route-independence-malaysia-indonesia-9489"
 description: "Study guide to the Cambridge 9489 History Paper 4 International option: the Soviet empire, South Africa and Zimbabwe, and Malaysia and Indonesia."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the syllabus for the key questions and prescribed content under each of the three sections, and the paper in which the international depth study is assessed. 2026-11-08 recheck: added the Paper 4 format from the 2027-2029 syllabus; FAQ added; description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the syllabus for the key questions and prescribed content under each of the three sections, and the paper in which the international depth study is assessed. 2026-11-08 recheck: added the Paper 4 format from the 2027-2029 syllabus; FAQ added; description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

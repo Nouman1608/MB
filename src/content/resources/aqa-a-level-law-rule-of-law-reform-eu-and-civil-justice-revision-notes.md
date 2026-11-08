@@ -30,9 +30,10 @@ syllabusTopics:
     subtopic: "the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution-7162"
 description: "Recall notes on legal rules, sources, the rule of law, justice, the Law Commission, EU institutions and law, civil courts, tribunals and ADR for AQA 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the track limits, EU material and examples against the specification and current AQA guidance before review."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the track limits, EU material and examples against the specification and current AQA guidance before review; 2026-11-08: reviewed by aizaz-raoof-ali."
 publishedDate: 2026-11-08
 featured: false
 ---

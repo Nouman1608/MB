@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "statistical-distributions-ocr-alevel-maths"
 description: "Condensed recall for OCR A Level Mathematics A: normal distribution notation, standardising, inverse normal, unknown parameters and choosing a model."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense references 2.04e to 2.04h of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. All four are Stage 2 content, so they are **A Level only**. For full explanations and longer worked examples, start with the [study guide](/resources/ocr-a-level-mathematics-the-normal-distribution-and-choosing-an-appropriate/).

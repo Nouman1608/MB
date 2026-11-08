@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "economic-foundations-aqa-gcse-economics"
 description: "Twelve original practice questions with worked answers for AQA GCSE Economics (8136) 3.1.1: needs, wants, factors of production and opportunity cost."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

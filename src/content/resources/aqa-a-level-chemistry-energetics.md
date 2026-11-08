@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "energetics-7405"
 description: "Study guide to AQA A-Level Chemistry (7405) section 3.1.4 Energetics: enthalpy definitions, q = mcΔT, Hess's law and mean bond enthalpies."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide covers **section 3.1.4 Energetics** of the AQA AS and A-level Chemistry specification

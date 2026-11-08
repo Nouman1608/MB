@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-16"
 description: "Condensed IB DP Maths AA HL revision notes on counting, binomial series, partial fractions, proof and linear systems, with a quick self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 For full explanations and worked examples, start with the [study guide for this unit](/resources/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems/). These notes are for fast recall in the final weeks.

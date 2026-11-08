@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "government-intervention-edexcel-alevel-economics"
 description: "Study guide to labour immobility, minimum and maximum wages, taxes, training and anti-discrimination policy for Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Written against the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (YEC11), Issue 2, June 2018, this guide covers 3.3.4 item 4 (market failure in the labour market) and 3.3.5 item 2 (government intervention in labour markets), both in Unit 3 Business behaviour. In the specification, Units 1 and 2 make up the International AS and Units 3 and 4 add the International A2 content, so this material belongs to the full International A Level only.

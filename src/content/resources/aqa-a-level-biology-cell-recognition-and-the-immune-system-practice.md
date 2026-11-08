@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "cell-recognition-and-the-immune-system-aqa-alevel-biology"
 description: "Original questions with worked answers on AQA A-level Biology 3.2.4: antigens, phagocytosis, T and B cells, antibodies, vaccines, HIV, monoclonals and ELISA."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

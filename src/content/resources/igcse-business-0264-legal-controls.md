@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "legal-controls-0264"
 description: "A full study guide to Cambridge IGCSE Business 0264 section 3.4: why legal controls protect customers and how they affect marketing decisions."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.4, **Legal controls**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It follows the syllabus point 3.4.1, **Legal controls related to marketing**. All candidates study the same content, and both papers can test it: the syllabus describes Paper 1 as short answer and data response and Paper 2 as a case study. For quick recall use the [revision notes](/resources/igcse-business-0264-legal-controls-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-legal-controls-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track what you have covered, and the free [diagnostics](/diagnostics/) show where to start.

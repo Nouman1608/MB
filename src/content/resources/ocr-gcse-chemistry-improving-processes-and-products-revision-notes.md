@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c6-1-improving-processes-products-j248"
 description: "Revision notes for OCR GCSE Chemistry A (J248) C6.1: extraction, industrial conditions, fertilisers, LCA, recycling, alloys, materials and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 These notes condense sub-topic **C6.1 Improving processes and products** from OCR's Chemistry A (Gateway Science) specification for GCSE (9–1), code J248, in its Version 4.0 issue of August 2026. They cover learning outcomes C6.1a to C6.1s, the mathematical learning outcomes CM6.1i to CM6.1iv and the linked practicals (PAG C1, PAG C2, PAG C6). Statements C6.1c to C6.1f are **Higher Tier only**; the rest are tested at both tiers. The content is examined in Paper 2 (Foundation) or Paper 4 (Higher).

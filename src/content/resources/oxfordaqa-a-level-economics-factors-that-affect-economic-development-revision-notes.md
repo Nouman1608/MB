@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-and-development-oxfordaqa-alevel-economics"
 description: "Revision notes on factors that affect economic development for OxfordAQA International A-level Economics 9640, with formulas, a self-test and errors."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 Condensed notes for section 3.4.3.2, Factors that affect economic development, in the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. This is extra International A2 content (section 3.4, assessed in Unit 4). Full explanations and worked examples are in the [study guide](/resources/oxfordaqa-a-level-economics-factors-that-affect-economic-development/); test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-factors-that-affect-economic-development-practice/). Also see the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/), the [printable checklist](/checklists/oxfordaqa/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented and illustrative.
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ot1-mathematical-argument-language-and-proof-aqa-alevel-maths"
 description: "Original AQA A-level Maths 7357 OT1 practice questions with worked answers on identities, set notation, domain and range, and flawed arguments."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "measures-for-combined-sets-of-data-4040"
 description: "Study guide to estimating quartiles and percentiles from cumulative frequency graphs and tables, and the mean and standard deviation of combined sets."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide covers sections 5.3 and 5.4 of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027: quartiles and percentiles, and measures for combined sets of data. The syllabus is not tiered, so everything here is for every candidate.

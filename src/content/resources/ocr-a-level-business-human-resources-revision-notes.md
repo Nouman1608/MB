@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "human-resources-ocr-alevel-business"
 description: "Condensed revision notes for the whole Human resources topic of OCR A Level Business H431, with formulas, theories and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the **Human resources** topic of the OCR A Level in Business (H431), Version 2.1 (January 2026). For full explanations read the [study guide](/resources/ocr-a-level-business-human-resources/), then try the [practice questions](/resources/ocr-a-level-business-human-resources-practice/). Course pages: [OCR A Level Business hub](/boards/ocr/a-level/business/) and [checklist](/checklists/ocr/a-level/business/). Find gaps first with the [free diagnostics](/diagnostics/).

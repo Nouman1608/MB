@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "motion-ocr-alevel"
 description: "Study guide to OCR A Level Physics A (H556) section 3.1 Motion: kinematics graphs, suvat equations, measuring g, stopping distance and projectiles."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers section 3.1 (Motion) of Module 3, Forces and motion, in the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026). It follows the learning outcomes 3.1.1 (kinematics), 3.1.2 (linear motion) and 3.1.3 (projectile motion) in order. Use it with the [revision notes](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles-revision-notes/) and the [practice questions](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles-practice/). The course hub is [OCR A Level Physics](/boards/ocr/a-level/physics/), the tick-list is the [printable checklist](/checklists/ocr/a-level/physics/), and the [free diagnostics](/diagnostics/) show where you stand.

@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "stratification-and-differentiation-7192"
 description: "Condensed AQA A-level Sociology 7192 stratification notes: key terms, theorists at a glance, class measurement, mobility, an essay plan and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense the [Stratification and differentiation study guide](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation/). Read the guide first for full explanations and worked paragraphs.

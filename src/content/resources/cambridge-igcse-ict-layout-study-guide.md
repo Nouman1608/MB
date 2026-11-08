@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "headers-and-footers-0417"
 description: "Page setup, margins, columns, text formatting, tables, headers and footers for document production in Cambridge IGCSE ICT 0417 Topic 13."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Layout is how text, tables and images are arranged on a page. In Cambridge IGCSE ICT 0417 the document production tasks check that you can set up a page, format text consistently, build a table and add headers and footers exactly as instructed. These are practical skills, and the marks come from following each instruction precisely and then checking the result on screen, in print preview.

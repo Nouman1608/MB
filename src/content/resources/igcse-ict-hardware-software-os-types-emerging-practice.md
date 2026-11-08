@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "emerging-technologies-0417"
 description: "Original questions with answers on hardware, software, analogue and digital data, interfaces, desktop and mobile computers, AI and XR, for IGCSE ICT 0417."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

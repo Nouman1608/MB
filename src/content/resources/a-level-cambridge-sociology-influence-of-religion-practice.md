@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "religion-and-post-modernity-9699"
 description: "Original 9699 Paper 4 style essays on secularisation, rationalisation, feminism and religion, spiritual shopping and the growth of fundamentalism, with plans."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

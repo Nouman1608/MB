@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "transition-metals-and-their-chemistry-ych11"
 description: "Condensed Edexcel IAL Chemistry notes for 17.1-17.17: transition metal definition, ligands, coordination number, shapes, colour and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour/) first.

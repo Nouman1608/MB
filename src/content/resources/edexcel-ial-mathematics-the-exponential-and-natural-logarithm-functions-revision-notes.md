@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "p3-numerical-methods-edexcel-alevel-maths"
 description: "Condensed revision notes on eˣ, ln x, log-graph methods, sign-change roots and iteration for Pearson Edexcel IAL Mathematics Unit P3, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense P3 sections 3 and 6 (topics 3.1 to 3.3 and 6.1 to 6.2) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. P3 is compulsory for IAL Mathematics and Pure Mathematics; its IAS weighting is N/A. The [study guide](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions/) has the full explanations and longer worked examples.

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "diffraction-oxfordaqa-alevel"
 description: "Study guide to coherence, Young's double slits, single-slit diffraction and the diffraction grating for OxfordAQA International AS and A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers sections 3.5.6 (Interference) and 3.5.7 (Diffraction) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, written for exams from May/June 2020 onwards. Both sections are shared content, so they apply at International AS and at International A-level. Sections 3.6 to 3.13 are International A-level only; these two are not.

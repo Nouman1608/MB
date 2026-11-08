@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "momentum"
 description: "Original Cambridge O Level Physics 5054 momentum questions with worked answers: p = mv, impulse, F = Δp/Δt, collisions, explosions and car safety."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added syllabus-mapped intro, impulse, recoil, opposite-direction collision and landing questions and an FAQ (page was under 900 words); please re-review; previously reviewed by hassan on 2026-09-29."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: added syllabus-mapped intro, impulse, recoil, opposite-direction collision and landing questions and an FAQ (page was under 900 words); please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 publishedDate: 2026-08-22
 featured: false
 ---

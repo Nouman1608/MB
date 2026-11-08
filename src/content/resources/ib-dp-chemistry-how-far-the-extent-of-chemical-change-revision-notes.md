@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-2-3"
 description: "Condensed IB DP Chemistry revision notes on equilibrium: K expressions, size of K, Le Châtelier, and HL Q, ICE tables and Gibbs energy, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense **Reactivity 2.3, How far? The extent of chemical change** from the IB Diploma Programme *Chemistry guide* (February 2023, first assessment 2025) for final revision. They cover understandings Reactivity 2.3.1 to 2.3.7: 2.3.1 to 2.3.4 are for **SL and HL**, and 2.3.5 to 2.3.7 are **HL only**. The [study guide](/resources/ib-dp-chemistry-how-far-the-extent-of-chemical-change/) explains each idea in full with worked examples.

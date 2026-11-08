@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "markets-in-action-edexcel-alevel-economics"
 description: "Original exam-style practice for Edexcel International A Level Economics Unit 1 (YEC11): elasticity, market failure and intervention, with worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-08-22
 updatedDate: 2026-11-05
 featured: false

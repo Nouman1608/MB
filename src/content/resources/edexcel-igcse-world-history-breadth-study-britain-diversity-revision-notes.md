@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-britain-diversity-4hi1"
 description: "Condensed notes on Breadth Study B8, Britain 1914–2010, for Edexcel IGCSE History 4HI1: key laws table, timeline, groups traced, an essay plan and exam traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the laws table and timeline against the 4HI1 specification and legislation.gov.uk before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the laws table and timeline against the 4HI1 specification and legislation.gov.uk before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

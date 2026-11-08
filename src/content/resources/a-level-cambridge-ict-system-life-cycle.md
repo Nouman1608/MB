@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "system-life-cycle"
 description: "Study guide to the system life cycle for Cambridge A Level IT 9626: analysis, DFDs, testing, changeover, documentation, prototyping and maintenance."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 16, System life cycle** (sections 16.1–16.10) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is **A Level only** content. The syllabus states that Paper 3 (Advanced Theory) questions are based on sections 12–21, so this is a theory topic examined there; Paper 4 tasks are set on sections 17–21, though candidates apply knowledge of all subject content.

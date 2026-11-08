@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-2"
 description: "Study guide to IB DP Physics D.2: Coulomb's law, charge, Millikan, charging methods, E = F/q, E = V/d and magnetic field patterns, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers the standard level and higher level understandings of sub-topic D.2, Electric and magnetic fields, from the IB *Physics guide* (first assessment 2025). The higher level potential content in D.2 is taught in a separate unit and is not repeated here. Use the [revision notes](/resources/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic-revision-notes/) for recall and the [practice questions](/resources/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic-practice/) to test yourself. Find weak spots first with the [free 10-minute diagnostics](/diagnostics/).

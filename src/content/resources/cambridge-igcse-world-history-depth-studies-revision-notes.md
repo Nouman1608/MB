@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "depth-study-e-wwii-0470"
 description: "Recall notes on the five Cambridge IGCSE History 0470 depth studies: WWI, Germany 1918-45, Russia 1905-41, the USA 1919-41 and WWII, plus Paper 1 tips."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check dates and figures against standard texts and the 0470 2024-2026 syllabus focus points before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check dates and figures against standard texts and the 0470 2024-2026 syllabus focus points before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

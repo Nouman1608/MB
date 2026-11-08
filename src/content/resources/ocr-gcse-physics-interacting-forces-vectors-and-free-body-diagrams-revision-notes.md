@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "newtons-laws-ocr-gcse"
 description: "Revision notes on interacting forces, vectors, resultants, equilibrium, free body diagrams and Newton's first and third laws for OCR GCSE Physics A."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). P2.2e to P2.2h are printed in bold in the specification, so they are **Higher Tier only**: resultants at right angles, resolution, equilibrium vector diagrams and terminal velocity. The rest is for both tiers, including adding forces along one line. For full explanations read the [study guide](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams/), then try the [practice questions](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-practice/). Related: [OCR GCSE Physics: Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). Check your level with the [free 10-minute diagnostics](/diagnostics/).

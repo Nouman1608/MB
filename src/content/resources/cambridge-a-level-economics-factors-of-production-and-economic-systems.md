@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "resource-allocation-in-different-economic-systems-cambridge-alevel-economics"
 description: "Study guide to the factors of production, their rewards, specialisation, and market, planned and mixed economies for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 1.3 (Factors of production) and 1.4 (Resource allocation in different economic systems) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Both sit in topic 1, which is AS Level content. A Level candidates study it too, and the syllabus treats AS content as assumed knowledge for A Level Papers 3 and 4. Every firm, country and figure below is invented for illustration. None is a real statistic.

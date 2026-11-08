@@ -59,7 +59,8 @@ const tree = quals.map((q) => {
     b,
     courses: entries.filter((e) => e.bs === bs).sort((x, y) => x.s.localeCompare(y.s)),
   }));
-  return { qs: q.slug, q: q.name, boards };
+  // `qs` is a plain string: the AP family added below ('ap') is not a syllabus QualificationSlug.
+  return { qs: q.slug as string, q: q.name, boards };
 });
 
 /**

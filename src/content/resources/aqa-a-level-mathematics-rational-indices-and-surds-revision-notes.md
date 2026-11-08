@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "b2-surds-aqa-alevel-maths"
 description: "Condensed AQA A-level Maths revision notes on indices, fractional powers and surds, with method steps, a self-test and the usual lost marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense content references **B1** (laws of indices for all rational exponents) and **B2** (using and manipulating surds, including rationalising the denominator) from section 3.3 **B: Algebra and functions** of the AQA A-level Mathematics (7357) specification (version 1.3, dated 31 January 2018), which applies to A-level exams from June 2018. 7357 is a linear A-level with no AS/A split. Section B belongs to the Paper 1 content, and Papers 2 and 3 can assess any Paper 1 content.

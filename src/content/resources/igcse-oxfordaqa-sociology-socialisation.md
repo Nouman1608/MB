@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "socialisation-and-social-control-9292"
 description: "OxfordAQA International GCSE Sociology (9292) section 3.2.2.2: types and agencies of socialisation and functionalist, Marxist, feminist and social action views."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers **3.2.2.2 Socialisation**, part of the Socialisation

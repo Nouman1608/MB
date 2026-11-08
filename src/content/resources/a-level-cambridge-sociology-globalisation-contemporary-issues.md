@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "globalisation-and-crime-9699"
 description: "Cambridge 9699 Paper 4 sections 8.1-8.3 explained: globalisation and life chances, transnational bodies, causes and effects of migration, and global crime."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Syllabus heading 8, *Contemporary issues*, is the second half of the Globalisation section of

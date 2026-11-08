@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-2"
 description: "Original IB DP Economics practice questions on sub-topic 4.2, types of trade protection, with worked answers and HL-only calculations labelled."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

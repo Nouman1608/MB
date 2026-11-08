@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "population-and-employment-2059"
 description: "Study guide to Section 8 of Cambridge O Level Pakistan Studies 2059 Paper 2: population growth and structure, migration, distribution, density and employment."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Population and employment is Section 8, the last section of Paper 2 in Cambridge O Level Pakistan

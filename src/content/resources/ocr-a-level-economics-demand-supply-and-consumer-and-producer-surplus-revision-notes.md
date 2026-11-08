@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics"
 description: "Condensed revision notes on demand, supply, consumer surplus and producer surplus, with a short self-test, for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the first part of the topic Supply and demand and the interaction of markets in Component 1 (Microeconomics) of OCR's *A Level Economics* specification (H460), Version 3.0 of June 2026, first assessed in 2021. For full explanations go to the [study guide](/resources/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus/), then test yourself with the [practice questions](/resources/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus-practice/). Course pages: the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented.

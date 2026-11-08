@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-economic-climate-on-businesses-aqa-gcse-business"
 description: "A full study guide to ethics, the environment, sustainability, interest rates, employment and consumer spending for AQA GCSE Business 8132."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.2.2 (Ethical and environmental considerations) and 3.2.3 (The economic climate on businesses) of the AQA GCSE Business (8132) specification, for first teaching from September 2017. Influences on business is assessed in both written papers, so these ideas can turn up in either one. The specification asks you to think about the effect of each influence on the four functional areas: business operations, human resources, marketing and finance.

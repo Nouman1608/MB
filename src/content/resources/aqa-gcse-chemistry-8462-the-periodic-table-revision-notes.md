@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "the-periodic-table-8462"
 description: "Condensed AQA GCSE Chemistry 8462 periodic table notes (4.1.2): Mendeleev, metals vs non-metals, Group 0, 1 and 7 trends, equations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **4.1.2 The periodic table** (4.1.2.1 to 4.1.2.6) of the AQA GCSE Chemistry (8462)

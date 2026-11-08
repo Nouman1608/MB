@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-7"
 description: "Condensed revision notes for IB DP Economics sub-topic 3.7 Supply-side policies: definitions, diagrams, constraints, strengths and a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover **sub-topic 3.7, Supply-side policies**, for SL and HL; the guide marks no part of 3.7 as HL only. For full explanations and worked examples, read the [study guide](/resources/ib-dp-economics-supply-side-policies/) first. Then use the [practice questions](/resources/ib-dp-economics-supply-side-policies-practice/), the [Economics hub](/boards/ib/ib-dp/economics/), the [printable checklist](/checklists/ib/ib-dp/economics/) and the [free diagnostics](/diagnostics/).

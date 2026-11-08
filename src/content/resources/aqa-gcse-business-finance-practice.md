@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "analysing-the-financial-performance-of-a-business-aqa-gcse-business"
 description: "Original practice questions with worked answers on AQA GCSE Business Finance: sources of finance, cash flow, ARR, break-even and financial statements."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

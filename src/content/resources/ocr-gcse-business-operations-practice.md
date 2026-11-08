@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "operations-ocr-gcse-business"
 description: "Twelve original practice questions with worked answers on section 4 Operations in OCR GCSE (9-1) Business J204, using invented businesses."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

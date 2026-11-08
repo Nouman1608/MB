@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-1"
 description: "Study guide to IB DP Physics D.1 at SL and HL: Kepler's laws, Newton's law of gravitation, field strength g and field lines, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches the standard level and higher level part of **sub-topic D.1, Gravitational fields**, from the IB Diploma Programme *Physics guide*, first assessment 2025. It covers Kepler's three laws, Newton's law of gravitation, extended bodies treated as point masses, gravitational field strength and field lines. Everything here is for both SL and HL. The potential-based content in D.1 (potential energy, potential, escape speed and orbital speed) is HL only and is taught separately.

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "biological-molecules-4bi1"
 description: "Revision notes for Edexcel IGCSE Biology 4BI1 2.1 and 2.7-2.14B: organisation levels, elements, food tests, enzymes, plus a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules/) first.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "methods-of-studying-cells-aqa-alevel-biology"
 description: "Original practice questions with worked answers on AQA A-level Biology 3.2.1.3: microscopes, magnification, graticules, fractionation and artefacts."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

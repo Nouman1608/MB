@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "pp1-circle-oxfordaqa-alevel-maths"
 description: "Condensed formulae, method steps and a self-test on circle equations, translations, circle properties, tangents and normals for OxfordAQA 9660."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed notes for OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, content area PP1.1 (Circle). The specification places this in International AS, Unit PSM1. For full explanations read the [study guide](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/mathematics/) and [checklist](/checklists/oxfordaqa/a-level/mathematics/). To find weak spots, try a [free 10-minute diagnostic](/diagnostics/).

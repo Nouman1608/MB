@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c1-2"
 description: "A full study guide to IB DP Biology C1.2 Cell respiration, from ATP to the electron transport chain, with worked data and rate examples for SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches IB Diploma Programme Biology topic C1.2 (Cell respiration) from the start. It follows the IB *Biology guide*, first assessment 2025. Statements C1.2.1 to C1.2.6 are SL and HL. Statements C1.2.7 to C1.2.17 are additional higher level and are marked "HL only".

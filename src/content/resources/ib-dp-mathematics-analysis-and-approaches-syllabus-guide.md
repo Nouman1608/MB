@@ -11,11 +11,12 @@ syllabusSeries: "First assessment 2021"
 order: 2
 description: "The five content strands of IB DP Mathematics: Analysis and Approaches, with SL and HL teaching hours, the toolkit, the exploration and paper structure."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme

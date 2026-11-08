@@ -19,9 +19,10 @@ syllabusTopics:
     subtopic: "the-mole-and-the-avogadro-constant-7405"
 description: "Relative atomic and molecular mass on the carbon-12 scale, the Avogadro constant, and mole calculations from mass and concentration, for AQA 7405."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-02
 featured: false
 ---

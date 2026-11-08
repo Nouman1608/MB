@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "marketing-mix-and-strategy-ybs11"
 description: "Condensed recall notes, formulas and a self-test on objectives, the Boston Matrix, pricing and distribution for Edexcel International A Level Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for section 1.3.3, Marketing mix and strategy, in Unit 1 (Marketing and people) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification, Issue 1, September 2017. Full explanations and worked examples are in the [study guide](/resources/edexcel-ial-business-marketing-mix-and-strategy/). Test yourself with the [practice set](/resources/edexcel-ial-business-marketing-mix-and-strategy-practice/), the [free diagnostics](/diagnostics/) and the [Unit 1 revision notes](/resources/a-business-marketing-people-revision-notes/). The course hub is at [/boards/edexcel/a-level/business/](/boards/edexcel/a-level/business/) and the printable checklist at [/checklists/edexcel/a-level/business/](/checklists/edexcel/a-level/business/).

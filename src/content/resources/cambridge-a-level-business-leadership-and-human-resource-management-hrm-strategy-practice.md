@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "human-resource-management-hrm-strategy-cambridge-alevel-business"
 description: "Original practice questions with worked answers on leadership, EQ, flexible contracts, performance, MBO and AI for Cambridge A Level Business 9609 7.3-7.4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

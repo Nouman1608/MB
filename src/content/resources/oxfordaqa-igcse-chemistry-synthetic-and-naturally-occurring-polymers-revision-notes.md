@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "synthetic-and-naturally-occurring-polymers-9202"
 description: "Revision notes for OxfordAQA International GCSE Chemistry polymers: drawing addition polymers, cross-links, LD vs HD poly(ethene) and cornstarch bags."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [polymers study guide](/resources/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers/) first.

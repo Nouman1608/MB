@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "new-and-emerging-technologies"
 description: "Revision notes on new and emerging technologies for Cambridge A Level IT 9626: one-line definitions, impact grids, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These revision notes cover **topic 13, New and emerging technologies** (section 13.1) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). This is **A Level only** content, examined on Paper 3 (Advanced Theory), which is based on sections 12–21; Paper 4 candidates apply knowledge and understanding of all subject content.

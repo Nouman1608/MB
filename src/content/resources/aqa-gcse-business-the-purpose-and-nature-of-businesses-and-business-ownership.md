@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-ownership-aqa-gcse-business"
 description: "Study guide to why businesses exist, enterprise, entrepreneurs and the five forms of ownership, with worked examples, for AQA GCSE Business 8132."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the AQA GCSE Business (8132) specification, for first teaching from September 2017. It covers sections 3.1.1 (The purpose and nature of businesses) and 3.1.2 (Business ownership) of Business in the real world. The specification lists Business in the real world as assessed on both Paper 1 and Paper 2, so this material can be used in either. For a short overview of the whole topic, see the [Business in the real world study guide](/resources/aqa-gcse-business-business-in-the-real-world/). This guide goes deeper on the two sections above and adds worked examples.

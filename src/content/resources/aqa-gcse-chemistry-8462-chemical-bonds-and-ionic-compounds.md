@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "ionic-compounds-8462"
 description: "Study guide for AQA GCSE Chemistry 8462 sections 4.2.1.1 and 4.2.1.3: the three strong bonds, giant ionic lattices, diagram limits and empirical formulae."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches two subsections of the AQA GCSE Chemistry (8462) specification, for teaching from

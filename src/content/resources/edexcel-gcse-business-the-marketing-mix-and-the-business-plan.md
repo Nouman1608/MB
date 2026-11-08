@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "business-plans-1bs0"
 description: "Study guide to the marketing mix and the business plan for Pearson Edexcel GCSE Business, Theme 1 topic 1.4, with worked forecast and cash-flow examples."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 1: Investigating small business, topic 1.4 Making the business effective, content items 1.4.3 The marketing mix and 1.4.4 Business plans. The specification has two written papers: Theme 1 Investigating small business (1BS0/01) and Theme 2 Building a business (1BS0/02). Each lasts 1 hour 45 minutes, carries 90 marks and is 50% of the qualification. Each has three sections (A 35 marks, B 30 marks, C 25 marks) of calculations, multiple-choice, short-answer and extended-writing questions, and Sections B and C use business contexts given in the paper. Calculators may be used, and formulae are listed in the specification (Appendix 3) but are not provided in the examinations.

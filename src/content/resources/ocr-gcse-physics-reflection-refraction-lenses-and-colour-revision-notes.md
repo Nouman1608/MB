@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "wave-interaction-ocr-gcse"
 description: "Condensed revision notes for OCR GCSE Physics A topic P5.3 wave interactions: refraction, ray diagrams, lenses and colour, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Quick recall for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), topic P5.3 Wave interactions. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour/). P5.3a and P5.3b are in bold in the specification, so they are **Higher Tier only**. P5.3c, P5.3d and P5.3e are on both tiers; they are separate Physics only content (not in Combined Science).

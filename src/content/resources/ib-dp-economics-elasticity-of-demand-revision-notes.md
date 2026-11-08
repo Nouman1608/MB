@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-5"
 description: "Condensed revision notes for IB DP Economics sub-topic 2.5: PED, YED, formulas, diagrams, revenue rules, HL-only points and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover sub-topic 2.5, Elasticity of demand, for SL and HL, with HL-only points marked. Full explanations and worked examples are in the [study guide](/resources/ib-dp-economics-elasticity-of-demand/); test yourself with the [practice questions](/resources/ib-dp-economics-elasticity-of-demand-practice/).

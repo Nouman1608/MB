@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "basic-probability-and-experiments-ocr-gcse-maths"
 description: "Original practice questions with worked answers on OCR GCSE Mathematics J560 11.01: probability scale, relative frequency, two dice and expected numbers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

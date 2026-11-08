@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "data-on-crime-8192"
 description: "Study guide to AQA GCSE Sociology 8192 Crime and deviance 3.5.1-3.5.4: Merton, Becker, Heidensohn, Albert Cohen, Carlen, social control and crime statistics."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Crime is behaviour that breaks the law; deviance is behaviour that breaks a society's norms, whether

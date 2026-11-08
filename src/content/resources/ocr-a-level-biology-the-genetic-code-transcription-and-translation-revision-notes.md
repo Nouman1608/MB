@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "nucleotides-and-nucleic-acids-ocr-alevel-biology"
 description: "Condensed revision notes on the genetic code, transcription, translation and mRNA, tRNA and rRNA for OCR A Level Biology A (H420), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed revision notes for OCR A Level Biology A (H420), aligned to the OCR specification Version 4.1 (April 2026), for first assessment in 2025. They cover module 2.1.3 learning outcomes (f) and (g). For full explanations read the [study guide](/resources/ocr-a-level-biology-the-genetic-code-transcription-and-translation/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-the-genetic-code-transcription-and-translation-practice/). Course pages: the [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the free [10-minute diagnostics](/diagnostics/). Background is in [Foundations in Biology revision notes](/resources/ocr-a-level-biology-foundations-revision-notes/).

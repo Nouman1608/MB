@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "homeostasis-aqa-alevel-biology"
 description: "Condensed revision notes on feedback, the liver, insulin, glucagon, adrenaline, cAMP, diabetes and Required practical 11 for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sections 3.6.4.1 and 3.6.4.2 of the AQA AS and A-level Biology specification for first teaching 2015 (A-level Biology 7402), both A-level only, plus Required practical 11. Full explanations and worked examples are in the [study guide](/resources/aqa-a-level-biology-homeostasis-and-control-of-blood-glucose/). Test yourself with the [practice set](/resources/aqa-a-level-biology-homeostasis-and-control-of-blood-glucose-practice/), use the [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/), and try the free [diagnostics](/diagnostics/) to find weak spots.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "standard-costing-yac"
 description: "Revision notes for Edexcel IAL Accounting topic 2.5: variance formulas, reasons, interrelationships, management by exception and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense topic 2.5, Standard costing, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018: outcomes 2.5.1 to 2.5.6. It is examined in Unit 2, Corporate and Management Accounting: **Unit 2 (A2) only**. The [standard costing study guide](/resources/edexcel-ial-accounting-standard-costing/) explains each idea in full with longer examples. Every company and figure below is made up; money is in dollars.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "acid-base-equilibria-ych11"
 description: "Study guide to Edexcel IAL Chemistry outcomes 14.15-14.23: titration curves, indicator choice, buffer action and pH, Ka from curves and Core Practical 11."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches the second half of Topic 14: Acid-base Equilibria from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 14.15 to 14.23, including Core Practical 11. This content is in Unit 4: Rates, Equilibria and Further Organic Chemistry (IA2). It assumes outcomes 14.1 to 14.14 ([pH, Ka and Kw](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw/)).

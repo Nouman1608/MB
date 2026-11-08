@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "plant-structure-and-function-biodiversity-and-conservation-edexcel-alevel-biology"
 description: "Original practice questions with worked answers for Edexcel International A Level Biology (YBI11) 4.8-4.13: plant ions, fibres, bacteria, drug trials."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

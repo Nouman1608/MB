@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "aldehydes-and-ketones-7405"
 description: "AQA A-Level Chemistry aldehydes and ketones taught from scratch: oxidation, Tollens' and Fehling's, NaBH4 reduction, KCN and racemic hydroxynitriles."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.3.8 Aldehydes and ketones** of the AQA AS and A-level Chemistry specification

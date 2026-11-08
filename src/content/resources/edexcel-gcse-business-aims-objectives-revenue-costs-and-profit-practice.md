@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "business-revenues-costs-and-profits-1bs0"
 description: "Original practice questions with worked answers on aims, objectives, costs, profit, interest and break-even for Edexcel GCSE Business 1BS0, topic 1.3."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

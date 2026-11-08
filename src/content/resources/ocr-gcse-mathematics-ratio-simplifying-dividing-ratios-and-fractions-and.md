@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "calculations-with-ratio-ocr-gcse-maths"
 description: "Study guide to OCR GCSE Mathematics ratio: simplifying, sharing in a ratio, ratios as fractions and ratio problems, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide is written for OCR GCSE (9-1) Mathematics (J560), aligned to the specification Version 2.1 (August 2026), first assessment 2017. It covers section 5.01, Calculations with ratio, which is part of section 5, Ratio, Proportion and Rates Of Change. Everything here is Foundation and Higher content: there are no Higher tier only statements in this unit. Splitting a quantity into three or more parts (5.01b) is listed for Foundation tier learners in the specification's second column, so Higher tier learners need it too. The specification says all content may be assessed on either the calculator or non-calculator papers, so practise every method below by hand.
 

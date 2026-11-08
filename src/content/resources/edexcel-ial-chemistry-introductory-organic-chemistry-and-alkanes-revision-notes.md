@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "introductory-organic-chemistry-and-alkanes-ych11"
 description: "Condensed Edexcel IAL Chemistry Topic 4 notes: definitions, naming steps, isomers, cracking, pollutants, carbon neutrality and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 4, Introductory Organic Chemistry and Alkanes, of the Pearson Edexcel

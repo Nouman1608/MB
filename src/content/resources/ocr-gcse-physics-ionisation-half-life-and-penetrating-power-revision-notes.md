@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "radioactive-emissions-ocr-gcse"
 description: "Condensed revision notes on energy levels, ionisation, half-life, decline ratios and alpha, beta and gamma penetration for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P6.1h to P6.1l of the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. Statements P6.1h, P6.1i, P6.1j and P6.1l are assessed in both tiers. P6.1k is in bold in the specification and is Higher Tier only. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power/). Test yourself with the [practice questions](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power-practice/), and tick off topics on the [printable checklist](/checklists/ocr/gcse/physics/). The [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) lists every unit, and the [free diagnostics](/diagnostics/) show where to start.

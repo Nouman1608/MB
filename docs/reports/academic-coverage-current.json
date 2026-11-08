@@ -23,8 +23,8 @@
       "NO_ASSESSMENT_RECORD": 0
     },
     "reviewStatus": {
-      "review-pending": 7938,
-      "reviewed": 150
+      "review-pending": 384,
+      "reviewed": 7704
     },
     "resourcesByType": {
       "study-guides": 2683,
@@ -83,11 +83,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 46,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 46,
+      "reviewedCount": 46,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (46)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (46)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -96,7 +96,7 @@
       "totalQualifyingWordCount": 112320,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -133,11 +133,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 40,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 40,
+      "reviewedCount": 40,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (40)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (40)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -146,7 +146,7 @@
       "totalQualifyingWordCount": 84484,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -183,11 +183,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 49,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 49,
+      "reviewedCount": 49,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (49)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "nouman-ahmed (49)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -196,7 +196,7 @@
       "totalQualifyingWordCount": 125160,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -233,11 +233,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 66,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 66,
+      "reviewedCount": 66,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (66)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (66)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -246,7 +246,7 @@
       "totalQualifyingWordCount": 127802,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -283,11 +283,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 13,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 13,
+      "reviewedCount": 13,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (12); lubna-waseem (1)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (13)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -296,7 +296,7 @@
       "totalQualifyingWordCount": 15209,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -333,11 +333,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 17,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 17,
+      "reviewedCount": 17,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (17)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (17)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -346,7 +346,7 @@
       "totalQualifyingWordCount": 22268,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -383,11 +383,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 40,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 40,
+      "reviewedCount": 40,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (40)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (40)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -396,7 +396,7 @@
       "totalQualifyingWordCount": 109586,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -433,11 +433,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 31,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 31,
+      "reviewedCount": 31,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (26); iftikhar-azeemi (5)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "iftikhar-azeemi (26); hassan (5)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -446,7 +446,7 @@
       "totalQualifyingWordCount": 74783,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -533,11 +533,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 27,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 27,
+      "reviewedCount": 27,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (27)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "naqiya-yousaf (27)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -546,7 +546,7 @@
       "totalQualifyingWordCount": 50676,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -583,11 +583,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 55,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 55,
+      "reviewedCount": 55,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (55)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "javaid-iqbal-sabri (55)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -596,7 +596,7 @@
       "totalQualifyingWordCount": 127938,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -633,11 +633,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 98,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 98,
+      "reviewedCount": 98,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (98)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (98)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -646,7 +646,7 @@
       "totalQualifyingWordCount": 222112,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -683,11 +683,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 61,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 61,
+      "reviewedCount": 61,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (61)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (61)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -696,7 +696,7 @@
       "totalQualifyingWordCount": 140203,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -733,11 +733,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 108,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 108,
+      "reviewedCount": 108,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (108)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "nouman-ahmed (108)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -746,7 +746,7 @@
       "totalQualifyingWordCount": 260390,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -783,11 +783,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 44,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 44,
+      "reviewedCount": 44,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (44)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "harris-khan (44)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -796,7 +796,7 @@
       "totalQualifyingWordCount": 65289,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -833,11 +833,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 129,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 129,
+      "reviewedCount": 129,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (129)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (129)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-19",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -846,7 +846,7 @@
       "totalQualifyingWordCount": 314776,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -883,11 +883,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 14,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 14,
+      "reviewedCount": 14,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (14)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (14)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -896,7 +896,7 @@
       "totalQualifyingWordCount": 19611,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -933,11 +933,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 23,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 23,
+      "reviewedCount": 23,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (23)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "aizaz-raoof-ali (23)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -946,7 +946,7 @@
       "totalQualifyingWordCount": 37991,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -983,11 +983,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 91,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 91,
+      "reviewedCount": 91,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (91)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (91)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-11",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -996,7 +996,7 @@
       "totalQualifyingWordCount": 223608,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -1033,11 +1033,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 45,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 45,
+      "reviewedCount": 45,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (40); iftikhar-azeemi (5)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hassan (42); iftikhar-azeemi (3)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1046,7 +1046,7 @@
       "totalQualifyingWordCount": 100333,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -1133,11 +1133,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 37,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 37,
+      "reviewedCount": 37,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (37)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "naqiya-yousaf (37)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1146,7 +1146,7 @@
       "totalQualifyingWordCount": 71633,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -1183,11 +1183,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 61,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 61,
+      "reviewedCount": 61,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (61)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (61)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1196,7 +1196,7 @@
       "totalQualifyingWordCount": 140203,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -1233,11 +1233,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 129,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 129,
+      "reviewedCount": 129,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (129)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (129)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-19",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1246,7 +1246,7 @@
       "totalQualifyingWordCount": 314776,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -1283,11 +1283,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 11,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 11,
+      "reviewedCount": 11,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (11)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (11)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1296,7 +1296,7 @@
       "totalQualifyingWordCount": 14061,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "AQA",
@@ -1333,11 +1333,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 11,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 11,
+      "reviewedCount": 11,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (11)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (11)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1346,7 +1346,7 @@
       "totalQualifyingWordCount": 15831,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1383,11 +1383,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 46,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 46,
+      "reviewedCount": 46,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (43); javaid-iqbal-sabri (3)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "zain-ud-din-ahmed (41); javaid-iqbal-sabri (5)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1396,7 +1396,7 @@
       "totalQualifyingWordCount": 111090,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1433,11 +1433,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 90,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 90,
+      "reviewedCount": 90,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (90)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (90)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1446,7 +1446,7 @@
       "totalQualifyingWordCount": 207144,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1483,11 +1483,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 84,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 84,
+      "reviewedCount": 84,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (84)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (84)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1496,7 +1496,7 @@
       "totalQualifyingWordCount": 193507,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1533,11 +1533,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 64,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 64,
+      "reviewedCount": 64,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (64)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "harris-khan (64)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1546,7 +1546,7 @@
       "totalQualifyingWordCount": 97369,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1583,11 +1583,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 165,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 165,
+      "reviewedCount": 165,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (165)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (165)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1596,7 +1596,7 @@
       "totalQualifyingWordCount": 403287,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1633,11 +1633,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 13,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 13,
+      "reviewedCount": 13,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (13)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (13)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-03",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1646,7 +1646,7 @@
       "totalQualifyingWordCount": 18142,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1683,11 +1683,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 27,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 27,
+      "reviewedCount": 27,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (27)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (27)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1696,7 +1696,7 @@
       "totalQualifyingWordCount": 39797,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1733,11 +1733,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 65,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 65,
+      "reviewedCount": 65,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (65)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "harris-khan (65)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1746,7 +1746,7 @@
       "totalQualifyingWordCount": 129922,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1783,11 +1783,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 14,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 14,
+      "reviewedCount": 14,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (14)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "aizaz-raoof-ali (14)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1796,7 +1796,7 @@
       "totalQualifyingWordCount": 21859,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1833,11 +1833,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 62,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 62,
+      "reviewedCount": 62,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (62)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (62)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-06",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1846,7 +1846,7 @@
       "totalQualifyingWordCount": 145622,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1883,11 +1883,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 76,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 76,
+      "reviewedCount": 76,
+      "reviewPendingCount": 0,
       "namedAuthors": "iftikhar-azeemi (75); marlbridge-academic-team (1)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hassan (75); iftikhar-azeemi (1)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1896,7 +1896,7 @@
       "totalQualifyingWordCount": 127490,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -1983,11 +1983,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 41,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 41,
+      "reviewedCount": 41,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (41)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "naqiya-yousaf (41)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -1996,7 +1996,7 @@
       "totalQualifyingWordCount": 56699,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2033,11 +2033,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 75,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 75,
+      "reviewedCount": 75,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (75)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "javaid-iqbal-sabri (75)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2046,7 +2046,7 @@
       "totalQualifyingWordCount": 199002,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2083,11 +2083,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 67,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 67,
+      "reviewedCount": 67,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (67)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (67)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2096,7 +2096,7 @@
       "totalQualifyingWordCount": 139634,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2133,11 +2133,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 78,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 78,
+      "reviewedCount": 78,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (78)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (78)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2146,7 +2146,7 @@
       "totalQualifyingWordCount": 184002,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2183,11 +2183,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 31,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 31,
+      "reviewedCount": 31,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (31)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "harris-khan (31)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2196,7 +2196,7 @@
       "totalQualifyingWordCount": 44336,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2233,11 +2233,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 86,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 86,
+      "reviewedCount": 86,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (86)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (86)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-18",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2246,7 +2246,7 @@
       "totalQualifyingWordCount": 201926,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2283,11 +2283,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 23,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 23,
+      "reviewedCount": 23,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (23)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (23)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2296,7 +2296,7 @@
       "totalQualifyingWordCount": 34800,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2333,11 +2333,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 69,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 69,
+      "reviewedCount": 69,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (69)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "harris-khan (69)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2346,7 +2346,7 @@
       "totalQualifyingWordCount": 89481,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2383,11 +2383,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 60,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 60,
+      "reviewedCount": 60,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (60)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (60)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2396,7 +2396,7 @@
       "totalQualifyingWordCount": 135508,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2433,11 +2433,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 22,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 22,
+      "reviewedCount": 22,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (22)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "iftikhar-azeemi (22)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-28",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2446,7 +2446,7 @@
       "totalQualifyingWordCount": 50208,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2483,11 +2483,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 19,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 19,
+      "reviewedCount": 19,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (19)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "naqiya-yousaf (19)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2496,7 +2496,7 @@
       "totalQualifyingWordCount": 23563,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2533,11 +2533,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 57,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 57,
+      "reviewedCount": 57,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (48); saad-zai (9)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (57)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-06",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2546,7 +2546,7 @@
       "totalQualifyingWordCount": 139433,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2583,11 +2583,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 63,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 63,
+      "reviewedCount": 63,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (60); asif-iqbal (3)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (63)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2596,7 +2596,7 @@
       "totalQualifyingWordCount": 141807,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2633,11 +2633,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 22,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 22,
+      "reviewedCount": 22,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (22)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (22)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2646,7 +2646,7 @@
       "totalQualifyingWordCount": 29745,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2683,11 +2683,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 32,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 32,
+      "reviewedCount": 32,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (32)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "harris-khan (32)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2696,7 +2696,7 @@
       "totalQualifyingWordCount": 41215,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2733,11 +2733,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 101,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 101,
+      "reviewedCount": 101,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (100); salman-ahmad (1)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (100); asif-iqbal (1)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2746,7 +2746,7 @@
       "totalQualifyingWordCount": 238687,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2783,11 +2783,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 10,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 10,
+      "reviewedCount": 10,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (10)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (10)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-28",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2796,7 +2796,7 @@
       "totalQualifyingWordCount": 11397,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2833,11 +2833,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 36,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 36,
+      "reviewedCount": 36,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (36)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (36)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2846,7 +2846,7 @@
       "totalQualifyingWordCount": 49062,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2883,11 +2883,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 55,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 55,
+      "reviewedCount": 55,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (34); muhammad-ghazali-siddiqui (21)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (55)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2896,7 +2896,7 @@
       "totalQualifyingWordCount": 119774,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2933,11 +2933,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 42,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 42,
+      "reviewedCount": 42,
+      "reviewPendingCount": 0,
       "namedAuthors": "iftikhar-azeemi (24); marlbridge-academic-team (18)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hassan (37); iftikhar-azeemi (5)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2946,7 +2946,7 @@
       "totalQualifyingWordCount": 78653,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -2983,11 +2983,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 24,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 24,
+      "reviewedCount": 24,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (24)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "naqiya-yousaf (24)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -2996,7 +2996,7 @@
       "totalQualifyingWordCount": 26525,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3033,11 +3033,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 58,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 58,
+      "reviewedCount": 58,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (58)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (49); muhammad-ghazali-siddiqui (9)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3046,7 +3046,7 @@
       "totalQualifyingWordCount": 109648,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3083,11 +3083,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 75,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 75,
+      "reviewedCount": 75,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (75)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "javaid-iqbal-sabri (75)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3096,7 +3096,7 @@
       "totalQualifyingWordCount": 199002,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3133,11 +3133,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 15,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 15,
+      "reviewedCount": 15,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (15)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (15)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3146,7 +3146,7 @@
       "totalQualifyingWordCount": 18198,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3183,11 +3183,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 13,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 13,
+      "reviewedCount": 13,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (13)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (13)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3196,7 +3196,7 @@
       "totalQualifyingWordCount": 18103,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3233,11 +3233,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 26,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 26,
+      "reviewedCount": 26,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (26)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (26)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3246,7 +3246,7 @@
       "totalQualifyingWordCount": 32503,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3283,11 +3283,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 31,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 31,
+      "reviewedCount": 31,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (31)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (31)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3296,7 +3296,7 @@
       "totalQualifyingWordCount": 41798,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3333,11 +3333,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 16,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 16,
+      "reviewedCount": 16,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (16)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (16)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3346,7 +3346,7 @@
       "totalQualifyingWordCount": 22121,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3383,11 +3383,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 15,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 15,
+      "reviewedCount": 15,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (15)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (15)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3396,7 +3396,7 @@
       "totalQualifyingWordCount": 19352,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3683,11 +3683,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 25,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 25,
+      "reviewedCount": 25,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (25)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (25)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3696,7 +3696,7 @@
       "totalQualifyingWordCount": 32045,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3733,11 +3733,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 33,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 33,
+      "reviewedCount": 33,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (33)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (33)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3746,7 +3746,7 @@
       "totalQualifyingWordCount": 46523,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3883,11 +3883,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 42,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 42,
+      "reviewedCount": 42,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (42)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (33); muhammad-ghazali-siddiqui (9)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3896,7 +3896,7 @@
       "totalQualifyingWordCount": 74627,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3933,11 +3933,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 21,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 21,
+      "reviewedCount": 21,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (21)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (21)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3946,7 +3946,7 @@
       "totalQualifyingWordCount": 28751,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -3983,11 +3983,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 61,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 61,
+      "reviewedCount": 61,
+      "reviewPendingCount": 0,
       "namedAuthors": "nouman-ahmed (55); marlbridge-academic-team (6)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "farhat-ul-ain-sehgal (55); nouman-ahmed (6)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -3996,7 +3996,7 @@
       "totalQualifyingWordCount": 97049,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -4033,11 +4033,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 61,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 61,
+      "reviewedCount": 61,
+      "reviewPendingCount": 0,
       "namedAuthors": "nouman-ahmed (55); marlbridge-academic-team (6)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "farhat-ul-ain-sehgal (57); nouman-ahmed (4)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4046,7 +4046,7 @@
       "totalQualifyingWordCount": 96995,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Cambridge",
@@ -4083,11 +4083,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 130,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 130,
+      "reviewedCount": 130,
+      "reviewPendingCount": 0,
       "namedAuthors": "nouman-ahmed (121); marlbridge-academic-team (9)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "farhat-ul-ain-sehgal (121); nouman-ahmed (9)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4096,7 +4096,7 @@
       "totalQualifyingWordCount": 199149,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4133,11 +4133,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 58,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 58,
+      "reviewedCount": 58,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (58)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "javaid-iqbal-sabri (58)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4146,7 +4146,7 @@
       "totalQualifyingWordCount": 139770,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4183,11 +4183,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 65,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 65,
+      "reviewedCount": 65,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (65)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (65)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4196,7 +4196,7 @@
       "totalQualifyingWordCount": 148704,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4233,11 +4233,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 28,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 28,
+      "reviewedCount": 28,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (28)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (28)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4246,7 +4246,7 @@
       "totalQualifyingWordCount": 68092,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4283,11 +4283,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 103,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 103,
+      "reviewedCount": 103,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (103)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "nouman-ahmed (103)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-07",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4296,7 +4296,7 @@
       "totalQualifyingWordCount": 251759,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4333,11 +4333,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 119,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 119,
+      "reviewedCount": 119,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (119)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (119)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4346,7 +4346,7 @@
       "totalQualifyingWordCount": 293216,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4383,11 +4383,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 8,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 8,
+      "reviewedCount": 8,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (8)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "aizaz-raoof-ali (8)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4396,7 +4396,7 @@
       "totalQualifyingWordCount": 11526,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4433,11 +4433,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 116,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 116,
+      "reviewedCount": 116,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (116)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (116)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4446,7 +4446,7 @@
       "totalQualifyingWordCount": 283903,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4483,11 +4483,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 45,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 45,
+      "reviewedCount": 45,
+      "reviewPendingCount": 0,
       "namedAuthors": "iftikhar-azeemi (33); marlbridge-academic-team (12)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hassan (45)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-12",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4496,7 +4496,7 @@
       "totalQualifyingWordCount": 85628,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4533,11 +4533,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 12,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 9,
-      "reviewPendingCount": 3,
+      "reviewedCount": 12,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (12)",
-      "namedReviewers": "farheen-zehra (9)",
-      "lastTeacherCredit": "2026-09-29",
+      "namedReviewers": "farheen-zehra (12)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4546,7 +4546,7 @@
       "totalQualifyingWordCount": 15782,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4583,11 +4583,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 45,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 45,
+      "reviewedCount": 45,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (45)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (45)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4596,7 +4596,7 @@
       "totalQualifyingWordCount": 122993,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4633,11 +4633,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 40,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 40,
+      "reviewedCount": 40,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (40)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "nouman-ahmed (40)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4646,7 +4646,7 @@
       "totalQualifyingWordCount": 102943,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4683,11 +4683,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 68,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 68,
+      "reviewedCount": 68,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (68)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (68)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4696,7 +4696,7 @@
       "totalQualifyingWordCount": 161266,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4733,11 +4733,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 13,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 13,
+      "reviewedCount": 13,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (13)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (13)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4746,7 +4746,7 @@
       "totalQualifyingWordCount": 16036,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4783,11 +4783,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 69,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 69,
+      "reviewedCount": 69,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (69)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (69)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4796,7 +4796,7 @@
       "totalQualifyingWordCount": 79617,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4833,11 +4833,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 55,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 55,
+      "reviewedCount": 55,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (55)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (55)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4846,7 +4846,7 @@
       "totalQualifyingWordCount": 146610,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4883,11 +4883,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 24,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 24,
+      "reviewedCount": 24,
+      "reviewPendingCount": 0,
       "namedAuthors": "iftikhar-azeemi (20); marlbridge-academic-team (4)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hassan (20); iftikhar-azeemi (4)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4896,7 +4896,7 @@
       "totalQualifyingWordCount": 42295,
       "evidence": "la-course",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4933,11 +4933,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 45,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 45,
+      "reviewedCount": 45,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (45)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "javaid-iqbal-sabri (45)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4946,7 +4946,7 @@
       "totalQualifyingWordCount": 105271,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -4983,11 +4983,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 45,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 45,
+      "reviewedCount": 45,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (45)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "asif-iqbal (45)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -4996,7 +4996,7 @@
       "totalQualifyingWordCount": 105614,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -5033,11 +5033,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 54,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 54,
+      "reviewedCount": 54,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (54)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "asif-iqbal (54)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5046,7 +5046,7 @@
       "totalQualifyingWordCount": 124286,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -5083,11 +5083,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 10,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 10,
+      "reviewedCount": 10,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (10)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (10)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5096,7 +5096,7 @@
       "totalQualifyingWordCount": 13327,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "Pearson Edexcel",
@@ -5133,11 +5133,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 13,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 13,
+      "reviewedCount": 13,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (13)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (13)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5146,7 +5146,7 @@
       "totalQualifyingWordCount": 16930,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5183,11 +5183,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 94,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 94,
+      "reviewedCount": 94,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (94)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (94)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5196,7 +5196,7 @@
       "totalQualifyingWordCount": 216071,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5233,11 +5233,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 34,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 34,
+      "reviewedCount": 34,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (34)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (34)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5246,7 +5246,7 @@
       "totalQualifyingWordCount": 63294,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5283,11 +5283,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 34,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 34,
+      "reviewedCount": 34,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (34)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (34)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5296,7 +5296,7 @@
       "totalQualifyingWordCount": 63621,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5333,11 +5333,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 19,
       "resourcesUnder900Words": 8,
-      "reviewedCount": 0,
-      "reviewPendingCount": 19,
+      "reviewedCount": 19,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (19)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "harris-khan (19)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5346,7 +5346,7 @@
       "totalQualifyingWordCount": 18059,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5433,11 +5433,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 127,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 127,
+      "reviewedCount": 127,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (127)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (127)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-12",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5446,7 +5446,7 @@
       "totalQualifyingWordCount": 305212,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5483,11 +5483,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 94,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 94,
+      "reviewedCount": 94,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (94)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "nouman-ahmed (94)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-07",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5496,7 +5496,7 @@
       "totalQualifyingWordCount": 220161,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5533,11 +5533,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 84,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 84,
+      "reviewedCount": 84,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (84)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (84)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5546,7 +5546,7 @@
       "totalQualifyingWordCount": 203597,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5633,11 +5633,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 19,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 19,
+      "reviewedCount": 19,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (19)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (19)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5646,7 +5646,7 @@
       "totalQualifyingWordCount": 22390,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5683,11 +5683,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 34,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 34,
+      "reviewedCount": 34,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (34)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (34)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5696,7 +5696,7 @@
       "totalQualifyingWordCount": 63442,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5733,11 +5733,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 55,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 55,
+      "reviewedCount": 55,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (55)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "muhammad-ghazali-siddiqui (55)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5746,7 +5746,7 @@
       "totalQualifyingWordCount": 131118,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5783,11 +5783,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 61,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 61,
+      "reviewedCount": 61,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (61)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "muhammad-ghazali-siddiqui (61)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5796,7 +5796,7 @@
       "totalQualifyingWordCount": 145579,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5833,11 +5833,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 91,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 91,
+      "reviewedCount": 91,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (91)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "iftikhar-azeemi (91)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5846,7 +5846,7 @@
       "totalQualifyingWordCount": 210666,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5983,11 +5983,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 34,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 34,
+      "reviewedCount": 34,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (34)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (34)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-09-28",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5996,7 +5996,7 @@
       "totalQualifyingWordCount": 63671,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -6033,11 +6033,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 46,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 46,
+      "reviewedCount": 46,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (46)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (46)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-12",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6046,7 +6046,7 @@
       "totalQualifyingWordCount": 114913,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -6083,11 +6083,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 40,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 40,
+      "reviewedCount": 40,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (40)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "nouman-ahmed (22); ameer-hamza (12); iftikhar-azeemi (6)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-04",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6096,7 +6096,7 @@
       "totalQualifyingWordCount": 75971,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -6233,11 +6233,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 148,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 148,
+      "reviewedCount": 148,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (148)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (148)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6246,7 +6246,7 @@
       "totalQualifyingWordCount": 383941,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6283,11 +6283,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 52,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 52,
+      "reviewedCount": 52,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (49); nouman-ahmed (3)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "farhat-ul-ain-sehgal (48); nouman-ahmed (4)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-07",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6296,7 +6296,7 @@
       "totalQualifyingWordCount": 133924,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6333,11 +6333,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 112,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 112,
+      "reviewedCount": 112,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (112)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "iftikhar-azeemi (112)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6346,7 +6346,7 @@
       "totalQualifyingWordCount": 271891,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6383,11 +6383,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 100,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 100,
+      "reviewedCount": 100,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (100)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (100)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-12",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6396,7 +6396,7 @@
       "totalQualifyingWordCount": 252229,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6433,11 +6433,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 115,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 115,
+      "reviewedCount": 115,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (115)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (115)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-11",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6446,7 +6446,7 @@
       "totalQualifyingWordCount": 292264,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6483,11 +6483,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 25,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 25,
+      "reviewedCount": 25,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (25)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (25)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6496,7 +6496,7 @@
       "totalQualifyingWordCount": 59837,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6533,11 +6533,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 40,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 40,
+      "reviewedCount": 40,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (40)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (40)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-18",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6546,7 +6546,7 @@
       "totalQualifyingWordCount": 95879,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6583,11 +6583,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 122,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 122,
+      "reviewedCount": 122,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (119); nouman-ahmed (3)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "nouman-ahmed (119); farhat-ul-ain-sehgal (3)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6596,7 +6596,7 @@
       "totalQualifyingWordCount": 288036,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6633,11 +6633,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 112,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 112,
+      "reviewedCount": 112,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (112)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "iftikhar-azeemi (112)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-12",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6646,7 +6646,7 @@
       "totalQualifyingWordCount": 263530,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6683,11 +6683,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 112,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 112,
+      "reviewedCount": 112,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (112)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (112)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6696,7 +6696,7 @@
       "totalQualifyingWordCount": 267309,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6733,11 +6733,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 109,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 109,
+      "reviewedCount": 109,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (109)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (109)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-11",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6746,7 +6746,7 @@
       "totalQualifyingWordCount": 264748,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6783,11 +6783,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 64,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 64,
+      "reviewedCount": 64,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (64)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (64)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6796,7 +6796,7 @@
       "totalQualifyingWordCount": 150643,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OCR",
@@ -6833,11 +6833,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 148,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 148,
+      "reviewedCount": 148,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (148)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (148)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6846,7 +6846,7 @@
       "totalQualifyingWordCount": 383941,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -6883,11 +6883,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 61,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 61,
+      "reviewedCount": 61,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (61)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "javaid-iqbal-sabri (61)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6896,7 +6896,7 @@
       "totalQualifyingWordCount": 139598,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -6933,11 +6933,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 28,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 28,
+      "reviewedCount": 28,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (28)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (28)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6946,7 +6946,7 @@
       "totalQualifyingWordCount": 64075,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -6983,11 +6983,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 28,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 28,
+      "reviewedCount": 28,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (28)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "harris-khan (28)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -6996,7 +6996,7 @@
       "totalQualifyingWordCount": 38403,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7033,11 +7033,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 46,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 46,
+      "reviewedCount": 46,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (46)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (46)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-18",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7046,7 +7046,7 @@
       "totalQualifyingWordCount": 106530,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7083,11 +7083,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 100,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 100,
+      "reviewedCount": 100,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (100)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (100)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-11",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7096,7 +7096,7 @@
       "totalQualifyingWordCount": 258167,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7133,11 +7133,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 49,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 49,
+      "reviewedCount": 49,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (49)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (49)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-12",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7146,7 +7146,7 @@
       "totalQualifyingWordCount": 126794,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7183,11 +7183,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 61,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 61,
+      "reviewedCount": 61,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (58); nouman-ahmed (3)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "nouman-ahmed (58); farhat-ul-ain-sehgal (3)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-07",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7196,7 +7196,7 @@
       "totalQualifyingWordCount": 147759,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7233,11 +7233,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 73,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 73,
+      "reviewedCount": 73,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (73)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "iftikhar-azeemi (73)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-12",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7246,7 +7246,7 @@
       "totalQualifyingWordCount": 176014,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7283,11 +7283,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 13,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 13,
+      "reviewedCount": 13,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (13)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (13)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7296,7 +7296,7 @@
       "totalQualifyingWordCount": 15430,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7333,11 +7333,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 10,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 10,
+      "reviewedCount": 10,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (10)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (10)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7346,7 +7346,7 @@
       "totalQualifyingWordCount": 12073,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7433,11 +7433,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 13,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 13,
+      "reviewedCount": 13,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (13)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (13)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7446,7 +7446,7 @@
       "totalQualifyingWordCount": 16757,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7483,11 +7483,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 12,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 12,
+      "reviewedCount": 12,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (12)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (12)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7496,7 +7496,7 @@
       "totalQualifyingWordCount": 17261,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7533,11 +7533,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 22,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 22,
+      "reviewedCount": 22,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (22)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (22)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7546,7 +7546,7 @@
       "totalQualifyingWordCount": 26579,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7633,11 +7633,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 10,
       "resourcesUnder900Words": 1,
-      "reviewedCount": 0,
-      "reviewPendingCount": 10,
+      "reviewedCount": 10,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (10)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "naqiya-yousaf (10)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7646,7 +7646,7 @@
       "totalQualifyingWordCount": 12787,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7733,11 +7733,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 61,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 61,
+      "reviewedCount": 61,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (61)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "javaid-iqbal-sabri (61)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-06",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7746,7 +7746,7 @@
       "totalQualifyingWordCount": 142819,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7783,11 +7783,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 64,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 64,
+      "reviewedCount": 64,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (64)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (64)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7796,7 +7796,7 @@
       "totalQualifyingWordCount": 153438,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7833,11 +7833,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 52,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 52,
+      "reviewedCount": 52,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (52)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "harris-khan (52)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7846,7 +7846,7 @@
       "totalQualifyingWordCount": 102427,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7883,11 +7883,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 139,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 139,
+      "reviewedCount": 139,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (139)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "salman-ahmad (139)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-18",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7896,7 +7896,7 @@
       "totalQualifyingWordCount": 347349,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7933,11 +7933,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 133,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 133,
+      "reviewedCount": 133,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (133)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "sajawal-zahid (133)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-11",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7946,7 +7946,7 @@
       "totalQualifyingWordCount": 313954,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -7983,11 +7983,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 74,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 74,
+      "reviewedCount": 74,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (74)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "hina-mogul (74)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -7996,7 +7996,7 @@
       "totalQualifyingWordCount": 170012,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -8033,11 +8033,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 103,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 103,
+      "reviewedCount": 103,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (100); nouman-ahmed (3)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "nouman-ahmed (100); farhat-ul-ain-sehgal (3)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-10-25",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -8046,7 +8046,7 @@
       "totalQualifyingWordCount": 244387,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -8083,11 +8083,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 106,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 106,
+      "reviewedCount": 106,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (106)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "iftikhar-azeemi (106)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-05",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -8096,7 +8096,7 @@
       "totalQualifyingWordCount": 246748,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -8133,11 +8133,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 14,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 14,
+      "reviewedCount": 14,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (14)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (14)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -8146,7 +8146,7 @@
       "totalQualifyingWordCount": 17821,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -8183,11 +8183,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 13,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 13,
+      "reviewedCount": 13,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (13)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "ammar-bilal (13)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -8196,7 +8196,7 @@
       "totalQualifyingWordCount": 16782,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "OxfordAQA",
@@ -8333,11 +8333,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 21,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 21,
+      "reviewedCount": 21,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (21)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "naqiya-yousaf (21)",
+      "lastTeacherCredit": "2026-11-08",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -8346,7 +8346,7 @@
       "totalQualifyingWordCount": 35103,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     }
   ]
 }

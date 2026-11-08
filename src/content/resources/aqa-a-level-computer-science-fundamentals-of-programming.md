@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "programming-paradigms-aqa-alevel-cs"
 description: "Guide to AQA A-Level Computer Science 7517 section 4.1: data types, operations, exceptions, subroutines, stack frames, recursion and object orientation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-08-21
 featured: false
 ---

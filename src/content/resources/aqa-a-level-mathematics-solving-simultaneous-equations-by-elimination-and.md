@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "b4-simultaneous-equations-aqa-alevel-maths"
 description: "Full study guide to solving simultaneous equations by elimination and substitution, including line-curve problems, for AQA A-level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers statement B4 of Section B (Algebra and functions) in the AQA A-level Mathematics specification, first teaching 2017. B4 asks you to use both elimination and substitution on pairs of equations in two unknowns, including one linear and one quadratic equation. Use this page with the [revision notes](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and-revision-notes/) and the [practice set](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and-practice/), then see the [AQA A-level Mathematics hub](/boards/aqa/a-level/mathematics/) and the [printable checklist](/checklists/aqa/a-level/mathematics/).

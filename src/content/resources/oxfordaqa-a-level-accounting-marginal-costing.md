@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "marginal-costing-oxfordaqa"
 description: "Study guide to OxfordAQA International AS Accounting 3.1.10: cost behaviour, contribution, break-even, marginal costing profit and six decision types."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches section **3.1.10 Marginal costing** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2. It is International AS content, assessed on Paper 2: Financial & Management Accounting. The comparison of marginal, absorption and activity based costing belongs to 3.2.2, which is International A-level only. All figures are in dollars and all the businesses are fictional.

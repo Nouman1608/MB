@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economies-and-diseconomies-of-scale-ocr-aslevel-economics"
 description: "Study guide to LRAC, economies of scale, MES, TR, AR, MR, PED, economic profit and MC=MR for OCR A Level Economics (H460), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the part of the Competition and market power area of study, in Component 1 Microeconomics, that deals with the long run, revenue and profit. The whole specification is A Level and the text labels no content as AS or Extension. Every figure below is invented and illustrative.

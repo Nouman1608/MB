@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-macroeconomic-aims-of-government-cambridge-igcse-economics"
 description: "Study guide to the role of government and the macroeconomic aims and their conflicts for Cambridge IGCSE Economics, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. It covers sections 4.1 (the role of government) and 4.2 (the macroeconomic aims of government) from section 4, Government and the macroeconomy. There is no separate tier for this syllabus, so all of it is for you. All numbers in the worked examples are invented for illustration and describe no real country.

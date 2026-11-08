@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-oxfordaqa-alevel-economics"
 description: "Revision notes on competition policy, ownership, privatisation and regulation for OxfordAQA International A-level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense sections 3.3.3.11 and 3.3.3.12 of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. Section 3.3 forms part of the extra International A2 content. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and-practice/). Course links: [hub](/boards/oxfordaqa/a-level/economics/), [checklist](/checklists/oxfordaqa/a-level/economics/) and [free diagnostics](/diagnostics/). All figures below are invented.
 

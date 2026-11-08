@@ -11,9 +11,10 @@ syllabusSeries: "First assessment 2017"
 order: 2
 description: "Every option in IB DP History (first assessed 2017): five prescribed subjects and case studies, twelve world history topics, four HL regions and teaching hours."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten to present the current course (first assessment 2017, last exams 2027) per owner decision, with case studies and HL section examples from the 2017 History guide; 2028 content kept to a labelled section; please re-review (check the HL section titles quoted); previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: rewritten to present the current course (first assessment 2017, last exams 2027) per owner decision, with case studies and HL section examples from the 2017 History guide; 2028 content kept to a labelled section; please re-review (check the HL section titles quoted); previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-02
 featured: false
 ---

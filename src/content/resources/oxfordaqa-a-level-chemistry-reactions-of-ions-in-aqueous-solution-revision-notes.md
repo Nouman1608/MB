@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-2-6-1"
 description: "Revision notes for OxfordAQA 9620 section 3.2.6.1: ion-by-ion profiles of Fe²⁺, Cu²⁺, Fe³⁺ and Al³⁺ with bases, equation patterns and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense subsection 3.2.6.1, on the reactions of metal ions in water, from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for exams from May/June 2020. It is International A2 content, so all of it is **International A-level only**. Unit 3 assesses 3.2.4 to 3.2.6, and Unit 5 can draw on any content. Required practical 9 sits in this section.

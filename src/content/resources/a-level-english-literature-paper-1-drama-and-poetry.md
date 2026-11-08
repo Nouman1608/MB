@@ -21,11 +21,12 @@ syllabusTopics:
     subtopic: "section-b-poetry-9695"
 description: "The format and structure of Paper 1 Drama and Poetry -- an AS Level paper for Cambridge International A Level English Literature 9695, 2024-2026 series."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added 2026 and 2027 Paper 1 set-text lists from the 2024-26 and 2027-28 syllabuses and an FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: added 2026 and 2027 Paper 1 set-text lists from the 2024-26 and 2027-28 syllabuses and an FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers **Paper 1 – Drama and Poetry**, an AS Level paper for

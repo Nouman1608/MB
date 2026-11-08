@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "proof-ocr-alevel-maths"
 description: "Study guide to OCR A Level Mathematics A proof: deduction, exhaustion, logical connectives, counter-examples and contradiction, with worked proofs."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches section 1.01 Proof of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers 1.01a to 1.01d. The specification splits the content in two stages: 1.01a, 1.01b and 1.01c are Stage 1, shared with the AS qualification, and 1.01d proof by contradiction is **A Level only**. Pure Mathematics content is assessed in all three components, so proof can turn up on any paper.

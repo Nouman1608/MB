@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "geometry"
 description: "A step-by-step Cambridge O Level Mathematics study guide to geometry: terms, constructions, bearings, similarity, symmetry, angles and circle theorems."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide teaches topic 4, Geometry, from the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027. It covers sections 4.1 to 4.8. Every candidate sits Paper 1 (non-calculator) and Paper 2 (calculator), so practise angle and ratio work both ways.
 

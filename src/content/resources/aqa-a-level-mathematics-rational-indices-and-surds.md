@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "b2-surds-aqa-alevel-maths"
 description: "A study guide to laws of indices, rational exponents and surds for AQA A-level Mathematics, with fully worked examples on rationalising denominators."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches content references **B1** and **B2** from section 3.3 **B: Algebra and functions** of the AQA A-level Mathematics (7357) specification (version 1.3, dated 31 January 2018), which applies to A-level exams from June 2018. B1 is the laws of indices for all rational exponents. B2 is using and manipulating surds, including rationalising the denominator. 7357 is a linear A-level with no AS/A split. Section B is listed in the Paper 1 content, and Papers 2 and 3 can each assess any Paper 1 content, so these skills can turn up anywhere.

@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "life-teachings-hazrat-muhammad-9237"
 description: "Study guide to 9237 topic 3.2.1: pre-Islamic Arabia, the life of Hazrat Muhammad (pbuh) from birth to the Farewell Sermon, his battles, treaties and teachings."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Life and Teachings of Hazrat Muhammad (pbuh) is topic 3.2.1 of OxfordAQA International GCSE

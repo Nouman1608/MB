@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on control systems, temperature control, insulin, glucagon and diabetes for OxfordAQA International GCSE Biology (9201)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes are aligned to the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams from May/June 2018 onwards. They cover sections 3.4.2 (Homeostasis), 3.4.4 (Temperature control) and 3.4.5 (Control of blood glucose). The course is untiered. For full explanations, start with the [study guide](/resources/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose/). Then test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose-practice/).

@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "ussr-dictatorship-conflict-4hi1"
 description: "Condensed notes on Stalin's USSR, 1924–53 for Edexcel IGCSE History 4HI1: timeline, Stalin v Trotsky, the Plans, purges, key terms and the exam traps to avoid."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

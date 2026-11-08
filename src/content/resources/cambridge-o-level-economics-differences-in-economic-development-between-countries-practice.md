@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "differences-in-economic-development-between-countries"
 description: "Eleven original worked questions on causes and impacts of differences in economic development between countries, for Cambridge O Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

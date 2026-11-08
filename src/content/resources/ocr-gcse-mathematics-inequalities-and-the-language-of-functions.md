@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "language-of-functions-ocr-gcse-maths"
 description: "OCR GCSE Maths J560 sections 6.04-6.05 study guide: linear and quadratic inequalities, graph regions, and functions as machines, inverses and composites."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide covers sections 6.04 (Algebraic inequalities) and 6.05 (Language of functions) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessment 2017. It teaches both tiers: what every learner needs, and the content the specification marks for Higher tier learners, which this page labels **Higher tier only**.
 

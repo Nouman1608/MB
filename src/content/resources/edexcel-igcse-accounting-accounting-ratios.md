@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "the-calculation-and-interpretation-of-accounting-ratios-4ac1"
 description: "Study guide to profitability versus liquidity and the five Edexcel IGCSE Accounting ratios, with a two-year worked example and interpretation."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. It covers Topic 4, section 4.4 "The calculation and interpretation of accounting ratios", points (a) to (c). The specification places topics 4 and 5 in Paper 2, so this material belongs to the financial statements paper. You will need the income statement and the statement of financial position from earlier in the topic, because every ratio is built from figures on those two statements.

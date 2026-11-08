@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "biodiversity-ocr-alevel-biology"
 description: "Original practice questions with worked answers on threats to biodiversity, conservation methods and agreements, OCR A Level Biology A (H420) 4.2.1(f)-(i)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

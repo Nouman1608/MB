@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "newtons-laws-ocr-gcse"
 description: "Original practice questions with worked answers on work done, stored energy and power from forces for OCR GCSE Physics A (J249), P2.2m to P2.2o."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-defensive-functions-of-mammalian-blood-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on antigens, antibodies, plasma and memory cells, vaccination and herd immunity for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense section 3.2.5 (3.2.5.1 to 3.2.5.3, the defensive functions of mammalian blood) of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1, for International AS exams from May/June 2017 and International A-level exams from May/June 2018. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-biology-immunity-antigens-antibodies-and-vaccination/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-immunity-antigens-antibodies-and-vaccination-practice/). Track coverage on the [course hub](/boards/oxfordaqa/a-level/biology/) and the printable [checklist](/checklists/oxfordaqa/a-level/biology/), and the [free diagnostics](/diagnostics/) to spot gaps. Related: [causes of disease](/resources/oxfordaqa-a-level-biology-causes-of-disease-revision-notes/).

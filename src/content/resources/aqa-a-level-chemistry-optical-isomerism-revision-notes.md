@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "optical-isomerism-7405"
 description: "Condensed AQA A-Level Chemistry revision notes on optical isomerism: chiral centres, enantiomers, 3D drawings, racemates and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.3.7 Optical isomerism** of the AQA AS and A-level Chemistry specification

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "sequences-aqa-gcse-maths"
 description: "AQA GCSE Maths 8300 Sequences study guide: term-to-term and nth-term rules, special sequences, geometric and quadratic sequences, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches section **3.2.4 Sequences** (references A23, A24 and A25) of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Most of this content is on both tiers. The parts the specification places in its "Higher content only" column are labelled **Higher tier only**: other sequences, geometric progressions with a surd ratio, and the nth term of a quadratic sequence. Sequences can be tested on any of the three papers, so you need to do every method here by hand for the non-calculator Paper 1.

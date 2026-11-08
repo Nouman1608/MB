@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "inorganic-ions-aqa-alevel-biology"
 description: "Study guide to water and inorganic ions for AQA A-level Biology: heat capacity, latent heat, cohesion, pH, iron, sodium and phosphate, worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches sections 3.1.7 Water and 3.1.8 Inorganic ions of Topic 1, Biological molecules, in the AQA AS and A-level Biology specification (7402 is the A-level), for first teaching 2015. Both sections are AS content, part of Topic 1. They have no required practical of their own, but the skills below (rates, percentages, reading tables) are used throughout the course.

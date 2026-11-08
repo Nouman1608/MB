@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "circular-flow-of-income-ocr-aslevel-economics"
 description: "Condensed revision notes on the economic cycle, trend growth, the multiplier, the multiplier-accelerator model and output gaps for OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the topic **The economic cycle** from the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It sits in the Aggregate demand and aggregate supply area of study within the Macroeconomics content. Read the [full study guide](/resources/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps/) for explanations, then test yourself with the [practice questions](/resources/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps-practice/). Use the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/) to find weak spots. The [macroeconomics overview](/resources/ocr-a-level-economics-macroeconomics/) gives context. Every figure here is made up for illustration.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "aggregate-demand-and-aggregate-supply-analysis-cambridge-alevel-economics"
 description: "Condensed revision notes on AD, AS, SRAS and LRAS shapes, shifts, equilibrium and the effects on output, prices and employment for Cambridge Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.3 (Aggregate Demand and Aggregate Supply analysis, outcomes 4.3.1 to 4.3.12) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. It is AS Level content, and A Level candidates need it as assumed knowledge for Papers 3 and 4. For full explanations and worked examples, read the [study guide](/resources/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis/). Then test yourself with the [practice questions](/resources/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis-practice/). All figures here are invented for illustration.

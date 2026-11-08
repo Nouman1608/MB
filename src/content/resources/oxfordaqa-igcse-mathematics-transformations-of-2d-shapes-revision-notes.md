@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "transformations-matrices-and-vectors-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on rotation, reflection, translation and enlargement for OxfordAQA International GCSE Mathematics, with a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense reference G21 in section 3.3.3 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018 onwards. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes-practice/), tick topics off on the [printable checklist](/checklists/oxfordaqa/igcse/mathematics/), find the [course hub](/boards/oxfordaqa/igcse/mathematics/) here, and try a [free diagnostic](/diagnostics/) to find weak spots. Content labelled **Extension only** is combined transformations and fractional or negative enlargements. Everything else is Core and is also assessable on the Extension tier.

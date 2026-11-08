@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "aggregate-demand-ad-ocr-aslevel-economics"
 description: "Condensed OCR A Level Economics revision notes on national income measures, the circular flow, propensities and aggregate demand, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the Circular flow of income and Aggregate demand topics of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, macroeconomics content. The specification labels no content AS or Extension. Full explanations and fuller worked examples are in the [study guide](/resources/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate/). All figures are invented.

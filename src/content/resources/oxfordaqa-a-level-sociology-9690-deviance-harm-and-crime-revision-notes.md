@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "deviance-harm-and-crime-9690"
 description: "Revision notes for OxfordAQA 9690 section 3.1.2.5: the social construction of crime, types of crime, social harm, measuring crime and patterns of offending."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Section **3.1.2.5 Deviance, harm and crime** of OxfordAQA International AS/A level Sociology (9690)

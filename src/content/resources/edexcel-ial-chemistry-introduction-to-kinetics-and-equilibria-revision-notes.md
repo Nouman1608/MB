@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "introduction-to-kinetics-and-equilibria-ych11"
 description: "Condensed Edexcel IAL Chemistry Topic 9 notes: rates, activation energy, catalysts, dynamic equilibrium and Le Chatelier, plus a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and worked examples, read the [kinetics and equilibria study guide](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria/).

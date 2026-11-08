@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "mode-of-action-of-enzymes-cambridge-alevel-biology"
 description: "Revision notes for 9700 section 3.1: enzyme definitions, both binding models, catalase and amylase methods, colorimeter steps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 3.1, **Mode of action of enzymes**, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content: examined in Papers 1 and 2, with its practical skills tested in Paper 3, and assumed knowledge for Paper 4. For full explanations and worked examples, read the [3.1 study guide](/resources/a-level-biology-9700-mode-of-action-of-enzymes/) first.

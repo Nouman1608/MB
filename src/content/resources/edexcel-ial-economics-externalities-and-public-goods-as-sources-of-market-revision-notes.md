@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-failure-edexcel-alevel-economics"
 description: "Condensed revision notes for Edexcel IAL Economics 1.3.5 items 1 to 3: externalities, welfare areas, public goods and free riders, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes are aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018, section 1.3.5 Market failure, items 1 to 3. They sit in Unit 1: Markets in action, which the specification labels as International AS (IAS) content, also part of the full IAL. For full explanations, read the [study guide](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market/). Then test yourself with the [practice set](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market-practice/).

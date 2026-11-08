@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-growth-cambridge-igcse-economics"
 description: "Study guide to supply-side policy, real GDP, GDP per head, recession and the PPC, with worked calculations, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches sections 4.5 and 4.6.1 to 4.6.3 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: supply-side policy (4.5.1 to 4.5.3), the definition and measurement of economic growth (4.6.1 and 4.6.2), and recession (4.6.3). Economics 0455 is not tiered. The causes, consequences and policies of growth (4.6.4 to 4.6.6) are taught in a separate unit. Every country, firm and figure below is invented for practice and is not a real statistic.

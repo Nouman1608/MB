@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebra-and-functions-ocr-alevel-maths"
 description: "Study guide to OCR A Level Maths A polynomials, the factor theorem, rational expressions, partial fractions and modelling, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), and covers content references 1.02j, 1.02k, 1.02y and 1.02z in Algebra and functions. It teaches polynomial manipulation, the factor theorem, algebraic division, rational expressions, partial fractions and the use of functions in modelling. Pure Mathematics is examined in Papers 1, 2 and 3 of the A Level. Content is labelled Stage 1 (common with AS) or A Level only (Stage 2), as the specification marks it.

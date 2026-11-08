@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-13-3"
 description: "Original OxfordAQA 9620 practice questions on amino acid ions, peptides, protein structure, TLC Rf values and cisplatin, with fully worked answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "what-is-business-oxfordaqa-alevel-business"
 description: "Study guide to Topic 1 What is Business? for OxfordAQA International AS and A-level Business 9625: objectives, ownership, stakeholders and the environment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **Topic 1 What is Business?**, the opening topic

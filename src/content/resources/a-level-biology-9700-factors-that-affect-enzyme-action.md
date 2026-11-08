@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "factors-that-affect-enzyme-action-cambridge-alevel"
 description: "Study guide for Cambridge 9700 subtopic 3.2: temperature, pH, concentration, Vmax and Km, reversible inhibitors and alginate-immobilised enzymes."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches subtopic 3.2, **Factors that affect enzyme action**, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content (Topic 3, Enzymes). The syllabus bases Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions) on AS content, and Paper 4 expects you to bring AS knowledge with you. The investigations also build skills for Papers 3 and 5, which can set contexts outside the syllabus content.

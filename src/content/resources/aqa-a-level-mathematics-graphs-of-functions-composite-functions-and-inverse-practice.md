@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "b8-composite-and-inverse-functions-aqa-alevel-maths"
 description: "Original AQA A-level Maths 7357 B7 and B8 practice questions with worked answers on sketching, modulus, proportion, composite and inverse functions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

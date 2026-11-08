@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-4"
 description: "Condensed IB DP Chemistry revision notes on Reactivity 3.4.1 to 3.4.5: definitions, equation patterns, curly arrows and a checked self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes boil down Reactivity 3.4.1 to 3.4.5 from the IB DP *Chemistry guide* (issued in February 2023; first assessment 2025), so they suit any session from 2025 on. All five understandings are **SL and HL**. The longer explanations live in the [study guide](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and/), and original exam-style questions with marked answers are in the [practice set](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-practice/).

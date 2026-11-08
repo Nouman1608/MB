@@ -18,9 +18,12 @@ syllabusTopics:
     subtopic: "ethics-and-ownership-sub"
 description: "AS study guide to professional ethics, codes of conduct, copyright, software licences and the social impact of computing for Cambridge Computer Science 9618."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 7 is the least technical part of the AS course, but it rewards careful, structured writing. You are asked to understand why computing professionals follow codes of conduct, how software and other work is owned, what the main licensing models allow, and how to reason about an ethical dilemma using the language of a professional body. Because the answers are written in sentences, most lost marks come from vague points, not from missing knowledge.

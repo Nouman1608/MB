@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "investigation-vietnam-4hi1"
 description: "Condensed notes on Investigation A4, Vietnam 1945–75, for Edexcel IGCSE History 4HI1: timeline, US presidents' policies, tactics compared and key terms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

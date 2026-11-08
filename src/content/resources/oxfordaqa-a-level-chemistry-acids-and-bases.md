@@ -34,8 +34,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-10-6"
 description: "OxfordAQA 9620 study guide to section 3.1.10: proton transfer, pH, Kw, Ka and pKa, pH curves, indicators, required practical 7 and buffers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.1.10, Acids and bases, of the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards. It covers 3.1.10.1 to 3.1.10.6 and required practical 7. This is International A2 material, so it is **International A-level only**. Acids and bases sit in Unit 3 (Inorganic 2 and Physical 2), and questions in Unit 5 (Practical and synoptic) can come from anywhere in the course.

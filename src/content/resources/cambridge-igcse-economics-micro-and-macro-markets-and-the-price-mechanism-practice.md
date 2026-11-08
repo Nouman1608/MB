@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-role-of-markets-in-allocating-resources-cambridge-igcse-economics"
 description: "Twelve original practice questions with worked answers on micro and macro, market equilibrium, the allocation questions and the price mechanism."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

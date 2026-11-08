@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "qs9-quantitative-skills-oxfordaqa-alevel-economics"
 description: "Condensed notes on constructing graphs and interpreting written, graphical and numerical data for OxfordAQA International AS and A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense quantitative skills QS4 (construct and interpret a range of standard graphical forms) and QS9 (interpret, apply and analyse information in written, graphical and numerical forms) from section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. The specification says they could be assessed in any assessment, and it adds no extra A2 requirement for either. Sections 3.1 and 3.2 are International AS content and sections 3.3 and 3.4 are the extra International A2 content. For full explanations read the [study guide](/resources/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and-practice/). Track progress on the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/), the [printable checklist](/checklists/oxfordaqa/a-level/economics/) and the [free diagnostics](/diagnostics/). All data here are invented.

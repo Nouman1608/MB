@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "nuclear-and-particle-physics-ocr-alevel"
 description: "Study guide to mass-energy, pair creation, binding energy, the binding energy curve, fission reactors, nuclear waste and fusion for OCR A Level Physics A."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers section 6.4.4 (Nuclear fission and fusion), outcomes (a) to (k), of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026). It is full A level content. The nuclear atom, nuclear size and fundamental particles (6.4.1 and 6.4.2) and radioactive decay, activity and half-life (6.4.3) are separate units and are not repeated here.
 

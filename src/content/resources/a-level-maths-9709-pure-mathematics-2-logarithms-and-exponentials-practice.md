@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "logarithmic-and-exponential-functions-cambridge-2"
 description: "12 original Cambridge 9709 Paper 2 questions on logarithms and exponentials, with mark-by-mark worked answers and an examiner insight for each."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-28
 featured: false
 ---

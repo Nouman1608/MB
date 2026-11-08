@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "natural-selection-and-evolution-ocr-gcse-biology"
 description: "Condensed revision notes on variation, classification, natural selection, evolution, fossils and antibiotic resistance for OCR GCSE Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are quick-recall notes for topic B5.2 Natural selection and evolution in OCR *GCSE (9-1) Gateway Science Biology A* (J247), Version 4.0 (August 2026), outcomes B5.2a to B5.2f. No B5.2 statement is shown in bold type, so none is Higher Tier only. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-biology-variation-natural-selection-evolution-and/). Then try the [practice questions](/resources/ocr-gcse-biology-variation-natural-selection-evolution-and-practice/). Course links: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [checklist](/checklists/ocr/gcse/biology/) and [free diagnostics](/diagnostics/).

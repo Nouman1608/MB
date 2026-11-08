@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "Study guide to resource allocation, incentives, market, planned and mixed economies and the objectives of economic agents for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers two topics in the area of study How competitive markets work, in the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. The topics are Allocation of resources and The objectives of economic agents, both in the microeconomics content. The specification does not label any of this as AS or Extension, so all of it is A Level content. All figures and countries below are invented for practice.

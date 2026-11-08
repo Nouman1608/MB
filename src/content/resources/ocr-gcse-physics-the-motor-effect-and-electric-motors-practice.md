@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "uses-of-magnetism-ocr-gcse"
 description: "Eleven original questions with worked answers on the motor effect, Fleming's left-hand rule, F = BIl and d.c. motors for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

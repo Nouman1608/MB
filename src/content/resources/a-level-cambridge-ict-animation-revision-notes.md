@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "animation"
 description: "Revision notes for Cambridge A Level IT 9626 Animation: key terms, tweening and frame-rate methods, animation types compared, and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These revision notes cover **topic 20, Animation** (section 20.1) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). This is **A Level only** content. The syllabus bases Paper 3 (Advanced Theory) on sections 12–21 and Paper 4 (Advanced Practical) on sections 17–21, so animation can appear in both. Calculators are not allowed in Paper 3.

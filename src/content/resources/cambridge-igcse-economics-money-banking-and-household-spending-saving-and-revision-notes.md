@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "households-cambridge-igcse-economics"
 description: "Condensed revision notes on money, central and commercial banks and what drives household spending, saving and borrowing, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.1.1, 3.1.2 and 3.2.1 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-economics-money-banking-and-household-spending-saving-and/). Then test yourself with the [practice questions](/resources/cambridge-igcse-economics-money-banking-and-household-spending-saving-and-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). All figures here are invented for revision and are not real statistics.

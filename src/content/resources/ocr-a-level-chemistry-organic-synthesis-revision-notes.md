@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-4-2-3"
 description: "Revision notes for OCR A Level Chemistry A 4.2.3 Organic synthesis: Quickfit set-ups, purification steps, functional groups and a reagent toolkit."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 4.2.3, Organic synthesis, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover every learning outcome, 4.2.3(a) to (c), in Module 4, Core organic chemistry, including the PAG5 techniques. H432 is the full A level. The [Organic synthesis study guide](/resources/ocr-a-level-chemistry-organic-synthesis/) explains each idea in full, with longer examples.

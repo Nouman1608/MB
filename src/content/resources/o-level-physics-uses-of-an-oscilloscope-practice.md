@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "uses-of-an-oscilloscope"
 description: "Original Cambridge O Level Physics 5054 questions with worked answers on oscilloscope traces: Y-gain, timebase, p.d., period, frequency and short time gaps."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

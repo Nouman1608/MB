@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "respiration-ocr-alevel-biology"
 description: "Condensed revision notes on chemiosmosis, anaerobic respiration, energy values, RQ and respirometers for OCR A Level Biology A (H420), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), section 5.2.2 Respiration, learning outcomes (h) to (l). For full explanations, start with the [study guide](/resources/ocr-a-level-biology-chemiosmosis-anaerobic-respiration-and-respiratory/). Then test yourself with the [practice questions](/resources/ocr-a-level-biology-chemiosmosis-anaerobic-respiration-and-respiratory-practice/), the [free 10-minute diagnostics](/diagnostics/), the [course hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/).

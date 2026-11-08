@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "communicable-diseases-disease-prevention-and-the-immune-system-ocr-alevel-biology"
 description: "Study guide to T and B lymphocytes, antibodies, vaccination, herd immunity, sources of medicines and antibiotics for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers learning outcomes 4.1.1(f) to 4.1.1(n) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. They sit in the module on biodiversity, evolution and disease. The specification lists Biological diversity (Component 02) as assessing modules 1, 2, 4 and 6, and Unified biology (Component 03) as assessing all six modules. Statement 4.1.1(e), on phagocytes, comes just before this unit, and only the parts needed here are recalled. Use the [revision notes](/resources/ocr-a-level-biology-specific-immunity-vaccination-and-medicines-revision-notes/) and the [practice questions](/resources/ocr-a-level-biology-specific-immunity-vaccination-and-medicines-practice/) alongside it. The [course hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/) show the rest of the course. Protein structure is revised in the [Foundations in Biology guide](/resources/ocr-a-level-biology-foundations-in-biology/).

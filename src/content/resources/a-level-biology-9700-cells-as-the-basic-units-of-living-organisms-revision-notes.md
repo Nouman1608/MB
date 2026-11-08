@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "cells-as-the-basic-units-of-living-organisms-cambridge"
 description: "Condensed recall for 9700 section 1.2: organelle membranes, 70S and 80S ribosomes, micrograph clues, bacteria and viruses, plus a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 1.2, Cells as the basic units of living organisms, from Topic 1 Cell structure of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. They cover learning outcomes 1 to 7 of 1.2. It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it. For full explanations and worked examples, use the [1.2 study guide](/resources/a-level-biology-9700-cells-as-the-basic-units-of-living-organisms/).

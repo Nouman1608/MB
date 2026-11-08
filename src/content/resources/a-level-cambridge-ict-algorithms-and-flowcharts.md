@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "algorithms-and-flowcharts"
 description: "Cambridge 9626 IT Topic 4 study guide: pseudocode with IF, CASE, FOR, WHILE and REPEAT, nested loops, procedures and flowcharts, with examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This guide teaches **Topic 4 Algorithms and flowcharts** from the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027. It covers sections **4.1 Algorithms** and **4.2 Flowcharts**. This is **AS Level** content (topics 1–11), so it is part of both the AS and the full A Level. Paper 1 Theory questions are based on sections 1–11, so this topic is examined there; Paper 2 Practical also expects you to apply knowledge from sections 1–7.

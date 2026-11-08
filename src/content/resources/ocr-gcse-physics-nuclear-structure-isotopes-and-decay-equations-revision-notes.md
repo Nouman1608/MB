@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "radioactive-emissions-ocr-gcse"
 description: "Condensed revision notes on nuclear structure, isotopes, nuclear symbols and balancing decay equations for OCR GCSE Physics A (J249), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These revision notes condense nuclear structure, isotopes and decay equations for OCR GCSE Physics A (Gateway Science, J249), specification Version 5.0 (July 2026), learning outcomes P6.1a to P6.1g. All of these statements are assessed in both tiers. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations/) first. Course links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free 10-minute diagnostics](/diagnostics/).
 

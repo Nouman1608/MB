@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "practical-skills-written-examination-ocr-alevel-biology"
 description: "Study guide to planning, implementing, analysing and evaluating practicals in the OCR A Level Biology A written papers, with worked data examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 1.1 of the OCR A Level Biology A specification (H420, Version 4.1, April 2026, first assessment in 2025): practical skills assessed in a written examination. That is learning outcomes 1.1.1(a)-(c) planning, 1.1.2(a)-(c) implementing, 1.1.3(a)-(d) analysis and 1.1.4(a)-(e) evaluation. The specification says these skills are embedded throughout the content. Use this page with the [revision notes](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating-revision-notes/) and the [practice set](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating-practice/). See the [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/).

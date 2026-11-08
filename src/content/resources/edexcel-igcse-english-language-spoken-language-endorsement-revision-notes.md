@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "spoken-language-endorsement-4ea1"
 description: "Quick notes on the optional Spoken Language Endorsement in Edexcel IGCSE English Language A (4EA1): formats, 10-minute limit, AO6, Pass/Merit/Distinction."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 The Spoken Language Endorsement is an optional, separately reported part of Pearson Edexcel International

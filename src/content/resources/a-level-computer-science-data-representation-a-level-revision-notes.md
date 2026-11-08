@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "floating-point-numbers-representation-and-manipulation"
 description: "Condensed notes on enumerated, pointer, set and record types, file organisation, hashing and floating-point normalisation for Cambridge A Level 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These revision notes condense Topic 13 Data Representation, A Level content in Cambridge International AS & A Level Computer Science 9618: user-defined data types, file organisation and access with hashing, and binary floating-point numbers with a two's complement mantissa and exponent. It is examined in Paper 3, where conversions, normalisation and the choice of file organisation are standard questions.

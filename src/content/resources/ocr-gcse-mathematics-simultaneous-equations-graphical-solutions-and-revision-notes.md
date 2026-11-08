@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebraic-equations-ocr-gcse-maths"
 description: "Condensed revision notes on simultaneous equations, graph solutions and sign-change methods for OCR GCSE Mathematics J560, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Quick recall for the last stretch before the exam. Use the [study guide](/resources/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and/) for full explanations and worked examples. These notes follow sections 6.03c, 6.03d and 6.03e of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). Linear simultaneous equations and the graph work on lines and quadratics are for both tiers. Quadratic simultaneous equations, curve-and-line intersections and sign-change methods are marked **Higher tier only**.

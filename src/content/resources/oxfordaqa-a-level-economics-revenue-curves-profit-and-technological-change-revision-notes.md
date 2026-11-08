@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "costs-revenue-and-profits-oxfordaqa-alevel-economics"
 description: "Revision notes on revenue curves, normal and abnormal profit and technological change for OxfordAQA International A-level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the [study guide](/resources/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change/) for the OxfordAQA International AS and A-level Economics specification (9640), version 1.2, sections 3.3.2.4 to 3.3.2.6. Section 3.3 is extra International A2 content. Quantitative skills (section 3.5) can be assessed in any unit; A2 assessments need marginal values. All figures here are invented. When you are ready, use the [practice questions](/resources/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change-practice/), the [course hub](/boards/oxfordaqa/a-level/economics/), the [printable checklist](/checklists/oxfordaqa/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).

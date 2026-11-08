@@ -11,11 +11,12 @@ syllabusSeries: "First assessed 2019"
 order: 3
 description: "How OxfordAQA International A-Level Mathematics 9660's compulsory units weight against the Statistics-or-Mechanics option, plus a worked full-working routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 OxfordAQA International A-Level Mathematics (9660) is a modular qualification of four units, three of

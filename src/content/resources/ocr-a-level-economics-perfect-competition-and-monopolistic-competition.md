@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-structures-ocr-alevel-economics"
 description: "Study guide to perfect and monopolistic competition for OCR A Level Economics (H460): price taking, efficiency, equilibrium and barriers, with examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers part of the topic on market structures in Component 1, Microeconomics: perfect competition, monopolistic competition, and barriers to entry and exit. The specification labels no content as AS or Extension. Every figure below is invented and illustrative.

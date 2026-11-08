@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "transport-in-plants-ocr-alevel-biology"
 description: "Condensed recall notes on exchange surfaces, transport in animals and transport in plants for OCR A Level Biology A (H420), Module 3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense Module 3 (sections 3.1.1 to 3.1.3) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026). Use the [study guide](/resources/ocr-a-level-biology-exchange-and-transport/) for full explanations, then test yourself with the [practice questions](/resources/ocr-a-level-biology-exchange-and-transport-practice/). The [course hub](/boards/ocr/a-level/biology/) and [printable checklist](/checklists/ocr/a-level/biology/) show where this fits, and the [free diagnostics](/diagnostics/) help you spot weak topics. Each outcome is covered, but the practical outcomes (dissection, drawing, slides) are the briefest.

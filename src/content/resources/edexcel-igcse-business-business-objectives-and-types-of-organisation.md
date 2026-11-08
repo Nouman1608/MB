@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "types-of-organisations-4bs1"
 description: "Study guide to business objectives, why they change, and the types of business organisation for Pearson Edexcel International GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1, "Business activity and influences on business", sections 1.1 (Business objectives) and 1.2 (Types of organisations). The specification sets a single tier of entry, and Paper 1 (small businesses, up to 49 employees) and Paper 2 (large businesses, more than 250 employees) can each draw on the whole content, so expect these ideas to turn up inside any scenario.

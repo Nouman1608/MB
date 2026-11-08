@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "conservation-of-energy-oxfordaqa-alevel"
 description: "Condensed revision notes on work, power, efficiency and energy conservation for OxfordAQA International AS and A-level Physics (9630), 3.2.7 and 3.2.8."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes are aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, sections 3.2.7 (work, energy and power) and 3.2.8 (conservation of energy). Both are shared International AS and A-level content. For full explanations, start with the [study guide](/resources/oxfordaqa-a-level-physics-work-power-efficiency-and-conservation-of-energy/). Test yourself with the [practice set](/resources/oxfordaqa-a-level-physics-work-power-efficiency-and-conservation-of-energy-practice/), keep the [A-level Physics course page](/boards/oxfordaqa/a-level/physics/) and the [checklist](/checklists/oxfordaqa/a-level/physics/) to hand, and use the [free diagnostics](/diagnostics/) to find gaps. Related reading: [Motion and Newton's laws](/resources/a-level-oxfordaqa-physics-motion-and-newtons-laws/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-plan-ocr-alevel-business"
 description: "Condensed revision notes on strategy, implementation, the business plan, Plan-Do-Review and strategic review for OCR A Level Business H431."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 Quick recall for the "Strategy and implementation" and "Business plan" content of OCR A Level Business (H431, Version 2.1, January 2026), within the area of study "Business objectives and strategy". For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-business-strategy-and-implementation-and-business-plan/), then test yourself with the [practice questions](/resources/ocr-a-level-business-strategy-and-implementation-and-business-plan-practice/). The wider topic is in the [objectives and strategic decisions revision notes](/resources/a-business-strategy-revision-notes/). Course hub: [OCR A Level Business](/boards/ocr/a-level/business/). Tick items off on the [checklist](/checklists/ocr/a-level/business/), and spot gaps with the [free diagnostics](/diagnostics/).
 

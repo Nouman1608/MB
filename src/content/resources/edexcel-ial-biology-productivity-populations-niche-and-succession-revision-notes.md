@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "energy-flow-ecosystems-and-the-environment-edexcel-alevel-biology"
 description: "Condensed notes on NPP, transfer efficiency, niche, ecological sampling and succession for Edexcel IAL Biology YBI11, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Short-form revision for statements 5.9 to 5.15 of Topic 5 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, with Core Practical 11. Topic 5 belongs to IA2, and no tiers apply. The [study guide](/resources/edexcel-ial-biology-productivity-populations-niche-and-succession/) gives the full explanations and the [practice questions](/resources/edexcel-ial-biology-productivity-populations-niche-and-succession-practice/) test recall. Related pages: [course hub](/boards/edexcel/a-level/biology/), [checklist](/checklists/edexcel/a-level/biology/) and [free diagnostics](/diagnostics/).

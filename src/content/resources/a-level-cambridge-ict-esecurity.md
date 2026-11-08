@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "esecurity"
 description: "Study guide for Cambridge AS & A Level IT 9626 topic 5, eSecurity: personal data, phishing, pharming, firewalls, malware types and prevention."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 5, eSecurity**, of Cambridge International AS & A Level Information Technology (9626). It follows the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), sections 5.1 Personal data and 5.2 Malware. Topic 5 is an **AS Level** topic, so it is part of both the AS Level and the full A Level. It is examined in **Paper 1 (Theory)**, which is based on sections 1–11; Paper 2 (Practical) also expects you to apply knowledge from sections 1–7.

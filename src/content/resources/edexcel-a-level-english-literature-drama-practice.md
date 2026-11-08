@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "unit-2-pre-1900-and-post-1900-drama-yet01"
 description: "Original exam-style practice questions with worked answer plans on Unit 2 Drama, Pearson Edexcel International Advanced Level English Literature (YET01)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-04
 featured: false
 ---

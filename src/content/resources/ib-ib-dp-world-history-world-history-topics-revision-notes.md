@@ -50,9 +50,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-12"
 description: "Revision notes for IB DP History Paper 2: the twelve world history topics, example pairs from different regions, essay markbands and the traps examiners report."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check topic themes and Paper 2 rules against the IB History guide (first assessment 2017) before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check topic themes and Paper 2 rules against the IB History guide (first assessment 2017) before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

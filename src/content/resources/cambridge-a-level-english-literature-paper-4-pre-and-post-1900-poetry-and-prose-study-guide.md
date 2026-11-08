@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "section-b-post-1900-poetry-and-prose-9695"
 description: "How to read, plan and write about poetry and prose in both halves of Paper 4, with a method for passage and essay questions and short worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the current paper's exact format: how many questions are answered in each section, the choice between passage-based and essay questions, the mark split, whether texts are taken into the exam, and the assessment objective weightings."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the current paper's exact format: how many questions are answered in each section, the choice between passage-based and essay questions, the mark split, whether texts are taken into the exam, and the assessment objective weightings; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

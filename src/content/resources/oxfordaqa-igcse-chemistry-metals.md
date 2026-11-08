@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "metals-9202"
 description: "Study guide for OxfordAQA International GCSE Chemistry metals: properties, alloys, the reactivity series, extraction, recycling and metal carbonates."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.3.1 Metals of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. It covers the opening statements 3.3.1 a to c, the reactivity series (3.3.1.1 a to i) and metal carbonates (3.3.1.2 a and b). The qualification is not tiered, so everything here applies to you whatever grade you are aiming for. The specification says content from any part of it may be assessed on either paper.

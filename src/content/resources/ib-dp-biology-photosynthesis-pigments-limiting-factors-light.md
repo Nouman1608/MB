@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c1-3"
 description: "A full study guide to IB DP Biology C1.3 Photosynthesis: pigments, spectra, limiting factors, CO2 enrichment, plus the HL light reactions and Calvin cycle."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches IB Diploma Programme Biology topic C1.3 (Photosynthesis) from the start. It follows the IB *Biology guide*, first assessment 2025. Statements C1.3.1 to C1.3.8 are SL and HL. Statements C1.3.9 to C1.3.19 are additional higher level and are marked "HL only".

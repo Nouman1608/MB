@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "organisation-structure-and-employees-4bs1"
 description: "Original questions with worked answers on structures, delegation and functional areas for Edexcel IGCSE Business 4BS1, section 2.5."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

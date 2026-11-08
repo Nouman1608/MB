@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "sustainability-and-ethics-0715"
 description: "Exam-style 0715 Commerce questions with answers on sustainable logistics, packaging, repair services, fair trade, misleading adverts and consumer complaints."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These questions cover all three sections of Topic 6, Sustainability and ethics, in Cambridge IGCSE

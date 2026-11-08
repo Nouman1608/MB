@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "employment-and-unemployment-cambridge-igcse-economics"
 description: "Study guide to employment and unemployment for Cambridge IGCSE Economics: definitions, measurement, types, consequences and policies, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 4.7 of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026: what employment and unemployment mean, how the pattern of jobs changes, how unemployment is measured, its three types, its consequences and the policies that reduce it. The syllabus is not tiered, so everyone studies all of it. All the countries and numbers in the examples are made up, so none of them is real data.

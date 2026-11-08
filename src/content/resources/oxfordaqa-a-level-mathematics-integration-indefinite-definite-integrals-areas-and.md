@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-integration-oxfordaqa-alevel-maths"
 description: "Study guide to P1.4 integration for OxfordAQA International AS and A-level Mathematics 9660: powers, definite integrals, areas and the trapezium rule."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide covers section P1.4 (Integration) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International AS, Unit P1 (Pure Maths); it is not labelled Core, Extension or Higher, and it carries into the International A-level. Pair it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-practice/). The wider unit is on the [Unit P1 overview](/resources/a-level-oxfordaqa-mathematics-unit-p1/), and the course home is the [OxfordAQA A-level Mathematics hub](/boards/oxfordaqa/a-level/mathematics/) with a [printable checklist](/checklists/oxfordaqa/a-level/mathematics/). If you are unsure where you stand, take a [free diagnostic](/diagnostics/) first.
 

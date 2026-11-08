@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-numerical-and-abstract-reasoning"
 description: "Study guide to the algebra rows of IB MYP Mathematics: sequences, equations, expressions, inequalities, quadratics, formulae and flowcharts."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the Algebra rows of the numerical and abstract reasoning branch in the IB *Mathematics guide for the MYP* (for use from September 2020 and January 2021, first assessment 2022). The framework has three columns: MYP 1-3, MYP 4-5 standard and MYP 4-5 extended, plus a list of enrichment ideas. Items from the extended column and the enrichment list are labelled below. MYP has no tiers. For the other branches see the [MYP Mathematics hub](/boards/ib/ib-myp/mathematics/), the [printable checklist](/checklists/ib/ib-myp/mathematics/) and the [syllabus guide](/resources/ib-myp-mathematics-syllabus-guide/). Pair it with the [revision notes](/resources/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and-revision-notes/), the [practice set](/resources/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and-practice/) and the free [diagnostics](/diagnostics/).

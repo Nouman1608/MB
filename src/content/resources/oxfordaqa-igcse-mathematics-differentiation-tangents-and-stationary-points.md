@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "functions-graphs-and-calculus-oxfordaqa-igcse-maths"
 description: "Study guide to differentiating kxⁿ, finding tangents and locating and classifying stationary points for OxfordAQA International GCSE Mathematics Extension."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is written for the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It covers the calculus statements A13, A14 and A15 in section 3.2.2, Functions, graphs and calculus. Every statement in this unit is **Extension only**: the specification lists no Core content for A13 to A15. The specification also says all content can be assessed on the Extension papers.
 

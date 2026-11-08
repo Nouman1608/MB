@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "histograms-4024"
 description: "Condensed revision notes on histograms, frequency density and bar areas with unequal class widths, with a self-test, for Cambridge O Level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These are quick-recall notes for section 9.7, Histograms, of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. The content is the same for every candidate. If a point here is unclear, go back to the [study guide](/resources/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class/). To test yourself, use the [practice questions](/resources/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class-practice/). The [course hub](/boards/cambridge/o-level/mathematics/) lists the other topics, the [printable checklist](/checklists/cambridge/o-level/mathematics/) tracks your progress, and the [free 10-minute diagnostics](/diagnostics/) show where to focus.

@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "effective-use-of-the-internet-0417"
 description: "Using email effectively, netiquette, searching the internet and judging whether information is reliable, for Cambridge IGCSE ICT 0417 Topic 10."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 10 of Cambridge IGCSE ICT 0417 is about communicating with other people through ICT, using email, and about using the internet well to find information. There is a practical side, because you may be asked to compose and send an email in the practical paper, and a theory side, because you need to explain terms and judge sources. This guide covers both halves, 10.1 on email and 10.2 on effective internet use.

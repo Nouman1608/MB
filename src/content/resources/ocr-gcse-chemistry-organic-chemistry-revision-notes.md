@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c6-2-organic-chemistry-j248"
 description: "Condensed revision notes for OCR GCSE Chemistry A (J248) C6.2 Organic chemistry, with method steps, key distinctions and a checked quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 These notes condense sub-topic **C6.2 Organic chemistry** in J248, the OCR GCSE (9–1) Chemistry A (Gateway Science) specification, Version 4.0 of August 2026. They cover learning outcomes C6.2a to C6.2q, the mathematical learning outcome CM6.2i and the practical suggestions on molecular models and making nylon. Only C6.2e and C6.2f are **Higher Tier only**. Topic C6 is assessed on Paper 2 for Foundation candidates and Paper 4 for Higher.

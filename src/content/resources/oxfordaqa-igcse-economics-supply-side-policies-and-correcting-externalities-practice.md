@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-the-government-manages-the-economy-oxfordaqa-igcse-economics"
 description: "Original practice questions with worked answers on supply-side policies and policies for externalities in OxfordAQA International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

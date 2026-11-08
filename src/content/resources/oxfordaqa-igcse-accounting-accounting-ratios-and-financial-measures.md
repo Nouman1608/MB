@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "accounting-ratios-oxfordaqa-igcse-accounting"
 description: "Study guide to the nine financial ratios and measures in OxfordAQA International GCSE Accounting 9215: standard forms, worked examples and interpretation."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the content point in section 3.5 (topic 5, Interpretation, analysis and communication of financial information) on the calculation and interpretation of financial measures and ratios. The specification names nine of them. It says the formulae are in a separate OxfordAQA guide, "Formulae for accounting ratios", which is not part of the specification. The forms below are the standard textbook forms. Check them against that guide, because your exam will use the board's own versions. All amounts are in dollars.

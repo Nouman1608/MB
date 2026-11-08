@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "entrepreneurs-and-leaders-ybs11"
 description: "Condensed recall tables, quick calculations and a self-test for Edexcel International A Level Business Unit 1 people, leadership and entrepreneurs."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes are for the final weeks of revision on sections 1.3.4 Managing people and 1.3.5 Entrepreneurs and leaders of Unit 1, Marketing and people, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (Issue 1, September 2017). For full explanations, read the [study guide](/resources/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders/). Then test yourself with the [practice questions](/resources/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders-practice/). Broader Unit 1 notes are in [Marketing and people revision notes](/resources/a-business-marketing-people-revision-notes/), and the [topic overview](/resources/a-level-edexcel-business-marketing-and-people/) and [practice set](/resources/a-business-marketing-people-practice/) cover the whole unit. See also the [course hub](/boards/edexcel/a-level/business/), the [printable checklist](/checklists/edexcel/a-level/business/) and the [free 10-minute diagnostics](/diagnostics/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "kq-2-3-0495"
 description: "Cambridge IGCSE Sociology 0495 key question 2.3: age, gender, ethnicity and class identity, the digital self, globalisation and postmodern choice."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Social identity is how we see ourselves and how others see us because of the groups we belong to.

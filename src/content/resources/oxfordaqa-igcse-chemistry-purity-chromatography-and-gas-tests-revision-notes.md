@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "identification-of-common-gases-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) notes on purity, separating mixtures, chromatography and Rf, and the five gas tests, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense sections 3.4.1 Purity and chromatography and 3.4.2 Identification of common gases of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements a to e in each section. The qualification is untiered, so every line applies to everyone sitting the exam. The teaching and worked examples are in the [study guide for this unit](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests/).

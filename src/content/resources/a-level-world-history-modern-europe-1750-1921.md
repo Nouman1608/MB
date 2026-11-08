@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "european-option-modern-europe-9489"
 description: "The European option of Cambridge AS and A Level History 9489 (2027-2029): France 1774-1814, liberalism and nationalism in Germany, and Russia 1881-1924."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-21
 featured: false
 ---

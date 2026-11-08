@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "international-trade-edexcel-igcse-economics"
 description: "Study guide to trading blocs, the WTO and the trade patterns of developed and developing countries for Pearson Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, and covers statements 2.2.2 d), e) and f) in the section on international trade: trading blocs, the World Trade Organization (WTO) and trade patterns. The content is examined in Paper 2: Macroeconomics and the Global Economy. The specification has a single tier of entry. The countries, firms and numbers in the worked examples are made up.

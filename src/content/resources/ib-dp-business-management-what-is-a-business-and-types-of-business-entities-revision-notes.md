@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-2"
 description: "Condensed IB DP Business Management revision notes for 1.1 and 1.2: sectors, entrepreneurship, start-up issues, entity types, social enterprises."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for the IB *Business management guide*, first assessment 2024, sections 1.1 (What is a business?) and 1.2 (Types of business entities). The content is SL and HL, with no HL-only parts in these two sections. For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-what-is-a-business-and-types-of-business-entities/). Then test yourself with the [practice questions](/resources/ib-dp-business-management-what-is-a-business-and-types-of-business-entities-practice/).

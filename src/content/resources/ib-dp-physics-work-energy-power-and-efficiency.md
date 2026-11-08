@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-3"
 description: "Study guide to IB DP Physics A.3: work, energy transfer, mechanical energy, power, efficiency and energy density, with worked calculations for SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers sub-topic A.3, Work, energy and power, from the IB *Physics guide* (first assessment 2025). The content is the same for SL and HL: A.3 has no extra HL-only material in the guide. It teaches each understanding from scratch, with worked calculations. For quick recall use the [revision notes](/resources/ib-dp-physics-work-energy-power-and-efficiency-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-physics-work-energy-power-and-efficiency-practice/). Find your gaps first with the [free 10-minute diagnostics](/diagnostics/).

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "decisions-on-location-4bs1"
 description: "Original practice questions with worked answers on business sectors and location decisions for Pearson Edexcel International GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

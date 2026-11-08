@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-11-3"
 description: "Condensed OxfordAQA 9620 amines notes: three preparation routes, base-strength order, substitution ladder, surfactants, amides and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [amines study guide](/resources/oxfordaqa-a-level-chemistry-amines/) first.

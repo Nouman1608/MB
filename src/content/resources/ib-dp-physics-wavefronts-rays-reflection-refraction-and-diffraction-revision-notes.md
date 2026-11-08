@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-c-3"
 description: "Condensed IB DP Physics C.3 revision notes on wavefronts, reflection, refraction, Snell's law, total internal reflection and diffraction, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense the first half of sub-topic C.3 (Wave phenomena) in the IB *Physics guide*, first assessment 2025. Everything here is SL and HL. Interference, single-slit diffraction and gratings are covered elsewhere in C.3. For full explanations and derivations use the [study guide](/resources/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction/), and test yourself with the [practice questions](/resources/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction-practice/). Also see the [course hub](/boards/ib/ib-dp/physics/), the [printable checklist](/checklists/ib/ib-dp/physics/) and [travelling waves and the Doppler effect](/resources/ib-dp-physics-travelling-waves-and-the-doppler-effect/). To find gaps first, take the [free 10-minute diagnostics](/diagnostics/).

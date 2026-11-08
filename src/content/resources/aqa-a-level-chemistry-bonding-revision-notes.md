@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "bonding-7405"
 description: "Recall notes on ionic, covalent, dative and metallic bonding, structures, shapes, polarity and intermolecular forces for AQA A-Level Chemistry."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.1.3 (Bonding) of the AQA AS and A-level Chemistry specification (7404/7405), covering 3.1.3.1 to 3.1.3.7. The specification lists this content under Paper 1 and Paper 2 at both AS and A-level. For full explanations read the [Bonding study guide](/resources/aqa-a-level-chemistry-bonding/), then test yourself with the [practice questions](/resources/aqa-a-level-chemistry-bonding-practice/). Related notes: [Atomic Structure](/resources/aqa-a-level-chemistry-atomic-structure-revision-notes/) and [Periodicity](/resources/aqa-a-level-chemistry-periodicity-revision-notes/). Course hub: [AQA A-level Chemistry](/boards/aqa/a-level/chemistry/). Track progress on the [printable checklist](/checklists/aqa/a-level/chemistry/), and use the [free 10-minute diagnostics](/diagnostics/) to find weak spots.

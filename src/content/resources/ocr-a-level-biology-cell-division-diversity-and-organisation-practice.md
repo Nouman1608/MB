@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "cell-division-cell-diversity-and-cellular-organisation-ocr-alevel-biology"
 description: "Original OCR A Level Biology A (H420) 2.1.6 questions with worked answers on the cell cycle, mitosis, meiosis, specialised cells, tissues and stem cells."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

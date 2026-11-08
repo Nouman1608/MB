@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "people-and-animals-9690"
 description: "Study guide to OxfordAQA 9690 Unit 4: cities and rural life, climate crisis, green theories, environmental justice and people and animals."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers section 3.2.2 People and the environment (3.2.2.1 to 3.2.2.3) of the OxfordAQA International AS and A-level Sociology (9690) specification, Version 1.1 (first teaching September 2026; first A-level exams May/June 2028). The section is A-level content and is assessed in Unit 4: People and the environment, a 1 hour 30 minute exam worth 50 marks and 20% of the International A-level.

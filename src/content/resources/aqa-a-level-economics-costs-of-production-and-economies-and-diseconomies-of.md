@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics costs of production, cost curves, economies and diseconomies of scale, LRAC and minimum efficient scale."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level sub-sections Costs of production and Economies and diseconomies of scale. The AQA website numbers them 3.1.4.4 and 3.1.4.5; the combined PDF prints the A-level content as 4.1.4.4 and 4.1.4.5. Every firm and figure below is invented. Use the [revision notes](/resources/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of-revision-notes/) for recall and the [practice set](/resources/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of-practice/) to test yourself. The course hub is [AQA A-level Economics](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) tracks coverage, and the [free diagnostics](/diagnostics/) show where to start.

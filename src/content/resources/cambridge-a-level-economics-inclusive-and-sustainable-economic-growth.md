@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-and-sustainability-cambridge-alevel-economics"
 description: "Study guide to inclusive and sustainable growth: equity, resource use, climate impacts and policy, with worked examples, for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 9.2.5 (inclusive economic growth) and 9.2.6 (sustainable economic growth) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content only, so AS candidates do not sit it. The countries, firms, households and numbers below are all made up, so none is a real statistic.

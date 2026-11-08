@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "wholesaling-0715"
 description: "Why outsourcing through contract manufacturing and logistics has grown, and the wholesaler's functions, importance and survival, for IGCSE Commerce 0715."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check examples against the 0715 syllabus for 2028 and examiner guidance before review."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check examples against the 0715 syllabus for 2028 and examiner guidance before review; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-08
 featured: false
 ---

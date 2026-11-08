@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "limitations-of-markets-ocr-gcse-economics"
 description: "Condensed revision notes on supply side policy, externalities and government correction, with a self-test, for OCR GCSE (9-1) Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 Condensed notes for OCR GCSE (9-1) Economics (J205), specification Version 2.0 (June 2026), sections 3.7 and 3.8 in "Economic objectives and the role of government". The specification is untiered. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets/), then test yourself with the [practice questions](/resources/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets-practice/). Also see the [OCR GCSE Economics hub](/boards/ocr/gcse/economics/), the [printable checklist](/checklists/ocr/gcse/economics/) and the [free 10-minute diagnostics](/diagnostics/). All figures below are invented and illustrative.
 

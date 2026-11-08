@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c4-2"
 description: "Study guide to production, the carbon cycle, sinks and sources, the Keeling Curve and nutrient recycling for IB DP Biology C4.2.15 to C4.2.22."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide is for IB Diploma Programme Biology, aligned to the IB *Biology guide*, first assessment 2025. It covers the second part of C4.2 (Transfers of energy and matter), statements C4.2.15 to C4.2.22, at both standard level and higher level. The guide has no additional higher level (AHL) material for C4.2, so nothing here is HL only.

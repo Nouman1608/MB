@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "globalisation-and-trade-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on comparative advantage, terms of trade, tariffs, quotas, trading blocs and the WTO for OxfordAQA A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense section 3.4.1.2 (Trade) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. Section 3.4 belongs to the extra International A2 part of the course. The [study guide](/resources/oxfordaqa-a-level-economics-international-trade/) has the full explanations, so start there, then test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-international-trade-practice/). Course pages: the [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/economics/) and the [checklist](/checklists/oxfordaqa/a-level/economics/). A free [10-minute diagnostic](/diagnostics/) shows what to revise first. Every number below is made up.
 

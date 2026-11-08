@@ -33,8 +33,12 @@ syllabusTopics:
     subtopic: "data-communication-systems-aqa-alevel"
 description: "Study guide to the AQA A-Level Physics 7408 electronics option: MOSFETs, zener diodes, sampling, LC filters, op-amps, logic, counters and AM/FM."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 This study guide teaches section 3.13 Electronics (3.13.1 to 3.13.6) of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards). Section 3.13 is **A-level only** and one of the five **options** (sections 3.9 to 3.13): you study one, assessed in Paper 3 Section B (35 marks). Paper 3 Section A assesses practical skills and data analysis. The section lists no required practicals.

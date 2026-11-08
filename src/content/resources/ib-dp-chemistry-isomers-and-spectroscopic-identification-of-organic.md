@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-3-2"
 description: "HL study guide to IB DP Chemistry Structure 3.2.7 to 3.2.12: cis-trans and optical isomers, mass spectra, IR, 1H NMR and combined structure work."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches **Structure 3.2.7 to 3.2.12** of IB Diploma Programme Chemistry, following the IB *Chemistry guide* (published February 2023, first assessment 2025) for exams from 2025 onwards. These understandings are the additional higher level (AHL) half of the guide's topic "Functional groups: Classification of organic compounds" (Structure 3.2), so this page is **HL only**.

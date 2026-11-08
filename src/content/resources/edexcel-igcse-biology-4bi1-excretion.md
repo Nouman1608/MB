@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "excretion-4bi1"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 excretion: waste gases in leaves, organs of excretion, the nephron, ultrafiltration and ADH."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches sub-topic 2(i), **Excretion** (specification points 2.70–2.79), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points 2.70 and 2.71 can be examined on either paper. Points 2.72B–2.79B are bold with a **B** reference, so they are **Paper 2 only**. It applies to the June and November series examined under Issue 3.

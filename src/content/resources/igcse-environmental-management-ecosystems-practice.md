@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "fieldwork-investigations-0680"
 description: "Exam-style questions with answers on food webs, energy pyramids, deforestation, conservation and quadrats for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 These questions test all of Topic 5, Ecosystems, biodiversity and fieldwork, in Cambridge IGCSE

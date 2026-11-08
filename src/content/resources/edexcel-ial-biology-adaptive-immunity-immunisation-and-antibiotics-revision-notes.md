@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "microbiology-immunity-and-forensics-edexcel-alevel-biology"
 description: "Condensed notes on T and B cells, immunity types, pathogen evasion, antibiotics and Core Practical 14 for Edexcel IAL Biology YBI11 (6.10 to 6.15)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed notes for statements 6.10 to 6.15 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, including Core Practical 14. Topic 6 belongs to International A2 (IA2); Topics 1 to 4 are International AS (IAS). There are no tiers. Read the [study guide](/resources/edexcel-ial-biology-adaptive-immunity-immunisation-and-antibiotics/) for full explanations and use the [practice questions](/resources/edexcel-ial-biology-adaptive-immunity-immunisation-and-antibiotics-practice/) to test yourself. The [course hub](/boards/edexcel/a-level/biology/), [printable checklist](/checklists/edexcel/a-level/biology/) and [free diagnostics](/diagnostics/) cover the rest of the course.

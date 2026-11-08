@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "low-unemployment-ocr-gcse-economics"
 description: "Eleven original practice questions with worked answers on GDP, growth, the Claimant Count and unemployment for OCR GCSE (9-1) Economics, sections 3.1-3.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

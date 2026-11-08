@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monitoring-and-maintaining-health-ocr-gcse-biology"
 description: "Study guide to health, types of disease, disease interactions, and how communicable disease spreads and is controlled, for OCR GCSE Biology A (J247)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide follows the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026). It covers statements B6.3a to B6.3e in Topic B6, Global challenges, section B6.3 "Monitoring and maintaining health". None of these statements is printed in bold, so they are assessed in both Foundation and Higher Tier papers. Other statements in B6.3, such as named infections and plant defences, are taught on separate pages.

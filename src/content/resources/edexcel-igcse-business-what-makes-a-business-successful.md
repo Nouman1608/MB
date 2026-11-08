@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "what-makes-a-business-successful-4bs1"
 description: "Study guide to measuring business success and the reasons for business failure in Edexcel IGCSE Business (4BS1), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1, section 1.8 "What makes a business successful?", points 1.8.1 (measuring success in business) and 1.8.2 (reasons for business failure). The specification says both Paper 1 (small businesses) and Paper 2 (large businesses) can draw on the whole content, so this section can appear in either paper and alongside any other topic.

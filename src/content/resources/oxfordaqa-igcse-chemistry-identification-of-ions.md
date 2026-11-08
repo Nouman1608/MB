@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "identification-of-ions-9202"
 description: "Ion tests for OxfordAQA International GCSE Chemistry (9202) taught step by step: flame tests, hydroxide precipitates, carbonates, halides and sulfates."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches the identification of ions for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in section 3.4.3 (statements a to f) plus the required practical on flame testing. There are no tiers in this qualification, so everything here is for every candidate. The specification says content from any part of the course may be assessed on Paper 1 or Paper 2.

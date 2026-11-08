@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "costs-scale-of-production-and-break-even-analysis"
 description: "Condensed revision notes on cost types, economies and diseconomies of scale, break-even charts and margin of safety for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These revision notes condense section 4.2 of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026: costs, scale of production and break-even analysis. For full explanations and longer worked examples, read the [study guide](/resources/o-level-business-costs-scale-of-production-and-break-even-analysis/). When you are ready to test yourself, use the [practice questions](/resources/o-level-business-costs-scale-of-production-and-break-even-analysis-practice/). More operations questions are in the [operations management practice set](/resources/o-level-business-operations-management-practice/). Course pages: [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/). Not sure what to revise first? Take a free [10-minute diagnostic](/diagnostics/).
 

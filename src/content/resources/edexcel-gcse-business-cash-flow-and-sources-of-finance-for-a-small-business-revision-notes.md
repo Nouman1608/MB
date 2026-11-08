@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "sources-of-business-finance-1bs0"
 description: "Condensed revision notes on cash, cash-flow forecasts and short- and long-term sources of finance for Edexcel GCSE Business Theme 1."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Topic 1.3 Putting a business idea into practice, items 1.3.3 (cash and cash-flow) and 1.3.4 (sources of business finance), from the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. For full explanations and worked examples read the [study guide](/resources/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business/). Test yourself with the [practice questions](/resources/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business-practice/).

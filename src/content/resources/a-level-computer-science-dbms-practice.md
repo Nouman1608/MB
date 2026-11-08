@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "database-management-systems-dbms"
 description: "Original questions with worked answers on DBMS features, the data dictionary, schema, integrity, security, developer interface and query processor, for 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

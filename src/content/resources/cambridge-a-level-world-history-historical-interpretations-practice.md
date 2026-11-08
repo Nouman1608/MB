@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "origins-development-cold-war-9489"
 description: "Three original Paper 3-style extracts for Cambridge 9489 History on 1914, the Holocaust and the Cold War, with indicative content and AO4/AO1 level guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the constructed extracts and indicative content against a recent 9489 Paper 3 mark scheme before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the constructed extracts and indicative content against a recent 9489 Paper 3 mark scheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

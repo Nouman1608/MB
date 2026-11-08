@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "static-and-charge-ocr-gcse"
 description: "Study guide to charge, charging by rubbing, electron transfer and electric fields for OCR GCSE Physics A (Gateway Science), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide teaches static electricity for OCR GCSE Physics A (Gateway Science, J249), using the specification Version 5.0 (July 2026). It covers learning outcomes P3.1a to P3.1d of topic P3.1 Static and charge. None of these statements is printed in bold, so P3.1a to P3.1d are all assessed in both tiers. P3.1d is marked in the specification as separate Physics only content (not in Combined Science). The later outcomes in P3.1 (current as a flow of charge, and charge = current x time) are covered separately and are not repeated here.
 

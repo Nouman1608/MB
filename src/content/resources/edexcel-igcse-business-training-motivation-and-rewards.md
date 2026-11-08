@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "motivation-and-rewards-4bs1"
 description: "Study guide to training types, motivation theories (Herzberg, Maslow, Taylor) and financial and non-financial rewards for Edexcel IGCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 2 "People in business", section 2.3 Training and section 2.4 Motivation and rewards: every numbered content point, 2.3.1, 2.4.1 and 2.4.2. The specification says Paper 1 (small businesses, up to 49 employees) and Paper 2 (large businesses, more than 250 employees) can both draw on the whole content, so expect this topic in either setting.

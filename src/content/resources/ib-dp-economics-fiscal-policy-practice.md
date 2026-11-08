@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-6"
 description: "Original practice questions with worked answers on fiscal policy for IB Diploma Programme Economics 3.6, including HL multiplier and crowding out."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

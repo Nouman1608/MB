@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "bivariate-distributions-0479"
 description: "Study guide to scatter diagrams, correlation, lines of best fit, semi-averages and estimation for Cambridge IGCSE Statistics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers Topic 11, Bivariate distributions, of the Cambridge IGCSE Statistics 0479 syllabus for examination in 2027. It teaches outcomes 11.1 to 11.7: independent and dependent variables, correlation, plotting a scatter diagram, drawing a line of best fit by eye and by semi-averages, finding its equation, and using it to estimate. Use it with the [revision notes](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-revision-notes/) and the [practice questions](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-practice/). The [Cambridge IGCSE Statistics hub](/boards/cambridge/igcse/statistics/) and the [printable checklist](/checklists/cambridge/igcse/statistics/) cover the rest of the course, and the [Representation of Data guide](/resources/igcse-cambridge-statistics-representation-of-data/) covers the earlier charts and diagrams.

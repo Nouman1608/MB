@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "chromatography-7405"
 description: "Condensed AQA A-Level Chemistry 7405 notes on chromatography: phases, TLC, column and GC, Rf and retention times, GC-MS, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.3.16 Chromatography** of the AQA AS and A-level Chemistry specification

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "inflation-and-deflation-cambridge-igcse-economics"
 description: "Condensed revision notes on inflation and deflation for Cambridge IGCSE Economics: definitions, CPI method, causes, consequences, policies and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. The course is not tiered. For full explanations and worked examples, read the [study guide](/resources/cambridge-igcse-economics-inflation-and-deflation/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-inflation-and-deflation-practice/). The [course hub](/boards/cambridge/igcse/economics/), the [checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/) show where to go next. All figures are invented for illustration.

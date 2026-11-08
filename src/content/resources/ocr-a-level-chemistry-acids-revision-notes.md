@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-4"
 description: "Revision notes for OCR A Level Chemistry A 2.1.4 Acids: formulae, strong and weak acids, neutralisation equations, titration method and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For the full explanation, read the [2.1.4 Acids study guide](/resources/ocr-a-level-chemistry-acids/) first. These notes are for the final weeks.

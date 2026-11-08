@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ecosystems-ocr-gcse-biology"
 description: "Condensed revision notes on ecosystem levels, abiotic and biotic factors, trophic levels, biomass pyramids and efficiency for OCR GCSE Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Quick recall for OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), first assessment in 2018, statements B4.1e to B4.1j. No statement in this unit is marked Higher Tier only. The [study guide](/resources/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors/) has the full explanations and worked examples; this page condenses it. Then try the [practice questions](/resources/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors-practice/), tick off topics on the [printable checklist](/checklists/ocr/gcse/biology/), see the [course hub](/boards/ocr/gcse/biology/) and take the [free diagnostics](/diagnostics/).

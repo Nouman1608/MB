@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "government-income-and-expenditure-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes on UK government revenue and spending, direct and indirect tax and progressive and regressive tax."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for AQA GCSE Economics (8136), specification for first teaching from September 2017, section 3.2.1.2 Government income and expenditure (part of 3.2.1 within "How the economy works"). Full explanations and longer worked examples are in the [study guide](/resources/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect/). Test yourself with the [practice questions](/resources/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect-practice/). Other links: [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), [printable checklist](/checklists/aqa/gcse/economics/), [free diagnostics](/diagnostics/), and the [short definitions page](/resources/gcse-aqa-economics-interest-rates-and-government-finances/). All numbers below are invented for illustration.

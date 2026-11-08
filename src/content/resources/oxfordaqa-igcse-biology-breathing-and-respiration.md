@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "respiration-oxfordaqa-igcse-biology"
 description: "Study guide to breathing, ventilators, aerobic and anaerobic respiration, exercise and oxygen debt for OxfordAQA International GCSE Biology (9201)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide covers sections 3.2.5 (Breathing) and 3.2.6 (Respiration) of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams in May/June 2018 onwards. The qualification is untiered, so everything here is for every candidate. Use the [course hub](/boards/oxfordaqa/igcse/biology/) for the other topics and the [printable checklist](/checklists/oxfordaqa/igcse/biology/) to tick off each statement. When you want short recall pages, use the [revision notes](/resources/oxfordaqa-igcse-biology-breathing-and-respiration-revision-notes/); for exam-style questions with worked answers, use the [practice set](/resources/oxfordaqa-igcse-biology-breathing-and-respiration-practice/). A quick check of where you stand is on the [diagnostics page](/diagnostics/). For wider context, see the existing [bioenergetics study guide](/resources/igcse-oxfordaqa-biology-bioenergetics/).
 

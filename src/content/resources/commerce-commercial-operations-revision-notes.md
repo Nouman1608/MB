@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "trading-documents-0715"
 description: "Recall notes for Cambridge IGCSE Commerce 0715 Topic 2, exams from 2028: ownership types, outsourcing, retail, wholesale, trading documents and communication."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-03
 featured: false
 ---

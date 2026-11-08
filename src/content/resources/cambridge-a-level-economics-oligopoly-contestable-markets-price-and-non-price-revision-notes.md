@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "different-market-structures-cambridge-alevel-economics"
 description: "Condensed revision notes on contestable markets, price and non-price competition, the Prisoner's Dilemma and oligopoly efficiency for Cambridge A Level."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Short recall notes for the Cambridge International AS and A Level Economics 9708 syllabus (for examination in 2026, 2027 and 2028), part of section 7.6.4. Topics 1 to 6 are AS Level content and topics 7 to 11 are A Level content; this unit is A Level only. For full explanations, start with the [study guide](/resources/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price/). Then test yourself with the [practice questions](/resources/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price-practice/), tick off the [checklist](/checklists/cambridge/a-level/economics/), visit the [Cambridge Economics hub](/boards/cambridge/a-level/economics/), or try the [free diagnostics](/diagnostics/).

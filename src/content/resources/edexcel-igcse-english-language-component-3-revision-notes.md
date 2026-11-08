@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "assignment-b-imaginative-writing-4ea1"
 description: "Condensed notes on Edexcel IGCSE English Language A (4EA1) Component 3: Assignment A's three-text essay, Assignment B's imaginative writing, AOs and levels."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Component 3 is the non-examined (coursework) alternative to Component 2 in Pearson Edexcel International

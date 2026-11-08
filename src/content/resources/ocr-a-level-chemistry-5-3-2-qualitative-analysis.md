@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-3-2"
 description: "Study guide to OCR A Level Chemistry A 5.3.2: test-tube tests for anions, ammonium and the Cu²⁺, Fe²⁺, Fe³⁺, Mn²⁺ and Cr³⁺ ions, with equations."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section 5.3.2, Qualitative analysis, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 5 (Physical chemistry and transition elements), inside 5.3 Transition elements. It has one lettered learning outcome, 5.3.2(a): part (i) lists the anions and part (ii) the cations you must identify in an unknown compound. Its additional guidance links it to PAG4 and HSW4, and it points back to 3.1.4(a) and 5.3.1(j). H432 is the full A level. The assessment overview says Module 5 is assessed in component 01 (Periodic table, elements and physical chemistry) and in component 03 (Unified chemistry).

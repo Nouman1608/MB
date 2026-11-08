@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "enterprise-cambridge-alevel-business"
 description: "Condensed revision notes for 1.1 Enterprise in Cambridge AS & A Level Business 9609, with a self-test and the usual ways marks are lost."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These are condensed notes for section 1.1 Enterprise of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028 (1.1.1 to 1.1.3, an AS Level topic). For full explanations and worked examples, use the [study guide](/resources/cambridge-a-level-business-enterprise/). Then test yourself with the [practice questions](/resources/cambridge-a-level-business-enterprise-practice/). Wider Topic 1 recall is in the [Topic 1 revision notes](/resources/a-business-environment-revision-notes/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

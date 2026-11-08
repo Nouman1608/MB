@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "electromotive-force-and-internal-resistance-oxfordaqa"
 description: "Study guide to series and parallel circuits, potential dividers, emf and internal resistance for OxfordAQA International AS and A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, for International AS and A-level exams May/June 2020 onwards. It covers sections 3.4.4 (circuits), 3.4.5 (potential divider) and 3.4.6 (electromotive force and internal resistance), including Required practical 3. All three sections are shared International AS and A-level content.

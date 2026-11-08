@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "marginal-costing-and-absorption-costing"
 description: "Original practice questions with worked answers for Edexcel IAL Accounting topic 2.8: profit statements, inventory, orders, make or buy, limiting factors."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

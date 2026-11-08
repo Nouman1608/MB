@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "practical-skills-practical-endorsement-ocr-alevel-biology"
 description: "Condensed recall notes, formulas and a self-test for OCR A Level Biology A practical skills and techniques, sections 1.2.1 and 1.2.2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These notes condense sections 1.2.1 and 1.2.2 of OCR A Level Biology A (H420, specification Version 4.1, April 2026, first assessment in 2025). For the full explanations, use the [study guide](/resources/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques-practice/). Related pages: [practical skills revision notes](/resources/ocr-a-level-biology-practical-skills-revision-notes/), the [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/).
 

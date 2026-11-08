@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "gravitational-field-strength-oxfordaqa"
 description: "Condensed notes on gravitational force, field lines, g = F/m and radial field strength for OxfordAQA International A-level Physics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 3.7.1 (Newton's gravitational law) and 3.7.2 (Gravitational field strength) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. Section 3.7 is International A-level only. For full explanations, use the [study guide](/resources/oxfordaqa-a-level-physics-newtons-law-of-gravitation-and-gravitational-field/). Next, work the [practice questions](/resources/oxfordaqa-a-level-physics-newtons-law-of-gravitation-and-gravitational-field-practice/), follow progress on the [printable checklist](/checklists/oxfordaqa/a-level/physics/), and see the [course hub](/boards/oxfordaqa/a-level/physics/). If you are unsure where to start, try the [free diagnostics](/diagnostics/).

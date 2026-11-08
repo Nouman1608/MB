@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-numerical-and-abstract-reasoning"
 description: "Condensed revision notes for IB MYP Mathematics algebra: sequence rules, equations, quadratics, inequalities, formulae, flowcharts, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense the Algebra rows of the numerical and abstract reasoning branch in the IB *Mathematics guide for the MYP* (first assessment 2022). Full explanations and worked examples are in the [study guide](/resources/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and/); test yourself with the [practice set](/resources/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and-practice/). See also the [MYP Mathematics hub](/boards/ib/ib-myp/mathematics/), the [printable checklist](/checklists/ib/ib-myp/mathematics/) and the free [diagnostics](/diagnostics/). Items marked *Extended* or *Enrichment* come from the guide's extended column and enrichment list.

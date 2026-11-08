@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "exchange-rates-edexcel-igcse-economics"
 description: "How exchange rates are set, why they rise and fall, and what that does to prices, trade and the current account, for Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 2.2.3 (Exchange rates) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It sits in Paper 2, Macroeconomics and the Global Economy. The specification has a single tier of entry, so everything here is for every candidate. All figures are invented and the countries and currencies are made up. For condensed recall use the [revision notes](/resources/edexcel-igcse-economics-exchange-rates-determination-appreciation-and-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-economics-exchange-rates-determination-appreciation-and-practice/). The [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/) and the [printable checklist](/checklists/edexcel/igcse/economics/) show where this fits. To find your weak spots first, try a [free 10-minute diagnostic](/diagnostics/).

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "the-calculation-and-interpretation-of-accounting-ratios-4ac1"
 description: "Original practice questions with worked answers on profitability and liquidity ratios for Edexcel IGCSE Accounting (4AC1), Topic 4 section 4.4."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

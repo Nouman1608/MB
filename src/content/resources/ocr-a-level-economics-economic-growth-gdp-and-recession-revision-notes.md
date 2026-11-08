@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-growth-ocr-aslevel-economics"
 description: "Condensed OCR A Level Economics revision notes on growth, real and nominal GDP, recession, causes, costs and benefits, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the growth part of Economic growth and development in Component 2, Macroeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. Fuller explanations are in the [study guide](/resources/ocr-a-level-economics-economic-growth-gdp-and-recession/); test yourself with the [practice questions](/resources/ocr-a-level-economics-economic-growth-gdp-and-recession-practice/). Also see the [OCR Economics hub](/boards/ocr/a-level/economics/), the [printable checklist](/checklists/ocr/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/). Data are invented and illustrative.

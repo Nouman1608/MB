@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "water-cambridge-alevel-biology"
 description: "Condensed 9700 notes on water: polarity, hydrogen bonds, solvent action, specific heat capacity and latent heat of vaporisation, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 New to this content? Start with the [Water study guide](/resources/a-level-biology-9700-water/), which explains everything here in full with worked examples.

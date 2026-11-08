@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "gender-educational-attainment-9699"
 description: "Study guide to Cambridge 9699 Sociology sections 6.3-6.4: racism in schools, cultural explanations, subcultures and gender and attainment."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers sections 6.3 (Ethnicity and educational attainment) and 6.4 (Gender and educational attainment) of the Cambridge International AS & A Level Sociology (9699) syllabus for examination in 2024, 2025 and 2026. Both sections sit in topic 6, Education and inequality, which is part of Paper 3 – Education. Paper 3 is an A Level paper, not an AS Level paper.

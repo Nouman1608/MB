@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-objectives-of-economic-agents-ocr-aslevel-economics"
 description: "Original practice questions with worked answers on business objectives and the principal-agent problem for OCR A Level Economics H460."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

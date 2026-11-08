@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "operations-management-aqa-aslevel-business"
 description: "Study guide to operations objectives, KPIs, efficiency, quality, supply chains, inventory, innovation, network analysis and scale for AQA AS Business (7137)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **3.2.2 Operations management** for AQA AS-Level Business (7137). It was checked on 5 November 2026 against AQA's AS and A-level Business specification (7137/7138), Version 1.1, November 2025, including its annex of formulae; "the specification" below means that document. Formulas are the ones in the annex.

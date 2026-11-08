@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Study guide to perfect and monopolistic competition for AQA A-level Economics (7136): short and long run diagrams, efficiency and non-price competition."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the **Perfect competition** and **Monopolistic competition** sub-sections of AQA A-level Economics (7136), as set out in the AQA AS and A-level Economics specification, version 1.3, 29 June 2022. They are numbered 3.1.5.3 and 3.1.5.4 on the AQA website (the combined specification PDF prints them as 4.1.5.3 and 4.1.5.4). The specification states no AS-only or A-level-only labels for this content. All figures below are invented and illustrative.

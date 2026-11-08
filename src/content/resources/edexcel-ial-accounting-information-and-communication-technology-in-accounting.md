@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "ict-in-accounting"
 description: "Study guide to Edexcel IAL Accounting topic 2.9: spreadsheets, accounting packages, EPOS stock control, and the pros and cons of ICT, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches topic 2.9, Information and communication technology (ICT) in accounting, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. Both of its learning outcomes, 2.9.1 and 2.9.2, are taught here. Its home is Unit 2 (Corporate and Management Accounting), so treat it as **Unit 2 (A2) only**. The businesses and numbers are fictional, with money shown in dollars.

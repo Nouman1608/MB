@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "transport-and-telecommunications-2059"
 description: "Two original 25-mark questions on transport networks, border routes, dry ports and telecoms, with mark schemes, for Cambridge O Level 2059 Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 > These are original practice questions written in the style of Cambridge O Level

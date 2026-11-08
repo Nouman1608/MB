@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "powering-earth-ocr-gcse"
 description: "Condensed notes on energy resources, trends in energy use, a.c. versus d.c. and the live, neutral and earth wires for OCR GCSE Physics A (J249), topic P8.2."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Quick recall notes for OCR GCSE (9-1) Physics A (Gateway Science), J249, Version 5.0 (July 2026), statements P8.2a, P8.2b and P8.2g to P8.2j. All of these are assessed in both tiers. The [study guide](/resources/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity/) has the full explanations and the [practice questions](/resources/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity-practice/) test them. See the [course hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).

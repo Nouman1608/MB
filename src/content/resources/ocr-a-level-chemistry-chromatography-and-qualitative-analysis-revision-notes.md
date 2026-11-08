@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-3-1"
 description: "Revision notes for OCR A Level Chemistry A 6.3.1: Rf values, GC retention times, peak areas, calibration graphs and organic test results, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 6.3.1, on chromatography and qualitative analysis, from the H432 Chemistry A specification from OCR (Version 3.1, May 2026, for first assessment in 2017). They cover learning outcomes (a), (b)(i)–(ii) and (c)(i)–(vii), with the PAG6 and PAG7 links. H432 is the full A level. Module 6 is examined, according to the specification, in component 02 (Synthesis and analytical techniques) as well as component 03 (Unified chemistry). Full teaching and longer worked examples are in the [study guide](/resources/ocr-a-level-chemistry-chromatography-and-qualitative-analysis/).

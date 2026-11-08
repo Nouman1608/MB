@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "articles-faith-pillars-0493"
 description: "Study guide to the six Articles of Faith, jihad and the Five Pillars, with their meaning and significance, for Cambridge IGCSE Islamiyat 0493 Paper 2 Topic 4."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **The Articles of Faith and the Pillars of Islam is Paper 2 Topic 4 of Cambridge IGCSE Islamiyat

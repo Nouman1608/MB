@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "fundamentals-of-databases"
 description: "Recall notes on ER modelling, keys, normalisation to third normal form, SQL and concurrency in client server databases for AQA A-Level CS 7517."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Fundamentals of databases (section 4.10 of AQA A-Level Computer Science 7517) covers designing a relational

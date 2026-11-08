@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "profit-and-cash-9725"
 description: "Condensed revision notes for OxfordAQA AS Business 9725 Finance, with formula tables, method steps, key distinctions and a checked quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the [Finance study guide](/resources/oxfordaqa-a-level-business-finance/).

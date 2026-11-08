@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "aggregate-demand-and-aggregate-supply-ocr-alevel-economics"
 description: "Original practice questions with worked answers on the Phillips Curve, NAIRU, expectations and the three schools of thought, for OCR Economics H460."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

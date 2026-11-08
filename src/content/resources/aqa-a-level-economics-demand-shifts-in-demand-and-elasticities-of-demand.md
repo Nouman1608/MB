@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-determination-in-a-competitive-market-aqa-aslevel-economics"
 description: "Study guide to the demand curve, shifts in demand and price, income and cross elasticities of demand, with worked calculations, for AQA A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is written for the AQA A-level Economics (7136) specification, version 1.3 of 29 June 2022. It covers "The determinants of the demand for goods and services" and "Price, income and cross elasticities of demand", which sit under Price determination in a competitive market. The specification prints the A-level content as section 4.1.3.1 and 4.1.3.2; the AQA website numbers the same content 3.1.3.1 and 3.1.3.2. The specification states no separate labels for this content. All figures below are invented and illustrative.
 

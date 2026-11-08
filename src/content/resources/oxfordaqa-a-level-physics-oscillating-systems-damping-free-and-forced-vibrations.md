@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "forced-vibrations-and-resonance-oxfordaqa"
 description: "Study guide to mass-spring and pendulum periods, oscillation energy, damping, required practical 4, forced vibrations and resonance for OxfordAQA Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers sections 3.5.1 (Oscillating systems) and 3.5.2 (Forced vibrations and resonance). Both are shared International AS and A-level content. The derivation of the period formulae sits in section 3.6.2, which is International A-level only, and is marked as such below.

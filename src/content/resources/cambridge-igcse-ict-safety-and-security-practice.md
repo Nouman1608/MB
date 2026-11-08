@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "security-of-data-0417"
 description: "Original exam-style questions with answers on physical safety, data protection, eSafety, phishing, pharming, card fraud and data security for IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover all of Cambridge IGCSE ICT 0417 Topic 8: physical safety (8.1), eSafety and data protection (8.2), and threats to data and methods of protecting it (8.3). They are written for Paper 1 Theory, where each answer must be linked to the context in the question.

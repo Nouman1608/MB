@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "price-elasticity-of-demand-ped"
 description: "Study guide to price elasticity of demand for Cambridge O Level Economics: formula, diagrams, determinants, revenue and who it matters to."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 2.7 (price elasticity of demand, PED) of the Cambridge O Level Economics 2281 syllabus for examination in 2026. The course is not tiered, and the official text says calculators may be used in the examination. Every firm, country, market and figure below is invented for practice and is not a real statistic.

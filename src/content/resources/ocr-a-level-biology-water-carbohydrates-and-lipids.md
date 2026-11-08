@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "biological-molecules-ocr-alevel-biology"
 description: "Study guide to water, monomers and polymers, carbohydrates, triglycerides, phospholipids and cholesterol for OCR A Level Biology A (H420) section 2.1.2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers learning outcomes 2.1.2(a) to 2.1.2(j) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It teaches water, monomers and polymers, the elements in biological molecules, glucose and ribose, disaccharides, starch, glycogen and cellulose, triglycerides, phospholipids and cholesterol. Amino acids, proteins, inorganic ions and the biochemical tests (2.1.2(k) onwards) are separate units.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "biotechnology-and-genetic-modification"
 description: "Study guide to biotechnology and genetic modification for Cambridge O Level Biology 5090: yeast, fermenters, enzymes in industry, insulin and GM crops."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches Topic 18, Biotechnology and genetic modification, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 18.1 Biotechnology and 18.2 Genetic modification. The 5090 syllabus is not tiered, so every candidate studies all of it.

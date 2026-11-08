@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-numerical-methods-oxfordaqa-alevel-maths"
 description: "Original practice questions with worked answers on P2.9 numerical methods for OxfordAQA International A-level Maths 9660: roots, iteration and integration."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

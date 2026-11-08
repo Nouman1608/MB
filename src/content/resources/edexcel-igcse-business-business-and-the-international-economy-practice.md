@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "business-and-the-international-economy-4bs1"
 description: "Original practice questions with worked answers on globalisation, multinationals and exchange rates for Edexcel IGCSE Business (4BS1), section 1.5."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

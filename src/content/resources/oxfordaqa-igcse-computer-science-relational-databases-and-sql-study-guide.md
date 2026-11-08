@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "relational-databases-and-sql"
 description: "OxfordAQA International GCSE Computer Science 9210 study guide: tables, keys, database design and the SQL SELECT, INSERT INTO, UPDATE and DELETE FROM commands."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the 9210 specification for exactly which SQL commands are required (SELECT, FROM, WHERE, ORDER BY, INSERT, UPDATE, DELETE and joins) and the required form of the join syntax. 2026-11-08 recheck: checked against spec v3.3 section 3.7: SQL limited to SELECT/FROM/WHERE (max two tables), full-record INSERT INTO, UPDATE, DELETE FROM; removed ORDER BY, LIKE and INNER JOIN; added 3.7.2 database design; please re-review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the 9210 specification for exactly which SQL commands are required (SELECT, FROM, WHERE, ORDER BY, INSERT, UPDATE, DELETE and joins) and the required form of the join syntax. 2026-11-08 recheck: checked against spec v3.3 section 3.7: SQL limited to SELECT/FROM/WHERE (max two tables), full-record INSERT INTO, UPDATE, DELETE FROM; removed ORDER BY, LIKE and INNER JOIN; added 3.7.2 database design; please re-review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "inheritance-ocr-gcse-biology"
 description: "Condensed revision notes on dominant and recessive crosses, Punnett squares, XX and XY sex determination and Mendel for OCR GCSE Biology A (J247)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These notes condense statements B5.1i to B5.1m (single gene inheritance, crosses, sex determination, multi-gene features and the history of genetics) of OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. For full explanations go to the [study guide](/resources/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex/). Then test yourself with the [practice questions](/resources/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex-practice/), tick off topics on the [printable checklist](/checklists/ocr/gcse/biology/), find the rest of the course on the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and use the [diagnostics](/diagnostics/) to find weak spots.
 

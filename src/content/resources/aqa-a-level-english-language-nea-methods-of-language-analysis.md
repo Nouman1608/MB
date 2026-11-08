@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "methods-of-language-analysis-3-3-3-7702"
 description: "How to apply the six language levels in the AQA A-level English Language 7702 NEA: choosing methods, coding data and analysing your own writing."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 In the AQA A-level English Language (7702) non-exam assessment, *Language in Action*, methods of language analysis

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electrical-circuits-oxfordaqa-igcse"
 description: "Study guide to series and parallel circuits, cells in series and the heating effect of an electric current for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This study guide follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, section 3.5.1 (electrical circuits), statements p to t: cells in series, series and parallel circuits, mixed circuits, and the heating effect of current. Charge, current and potential difference, circuit symbols, and resistance and I-V graphs are covered in other Marlbridge pages; this one teaches only how components behave when they are joined together, and why current heats a conductor.
 

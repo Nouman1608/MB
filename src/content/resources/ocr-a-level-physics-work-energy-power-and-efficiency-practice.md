@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "work-energy-and-power-ocr-alevel"
 description: "Original practice questions with worked answers on work done, kinetic and potential energy, power, P = Fv and efficiency for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

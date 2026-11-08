@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "kq-1-3-0495"
 description: "Cambridge IGCSE Sociology 0495 key questions 1.1-1.3: positivism and interpretivism, primary and secondary data, research design, sampling, methods and ethics."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Research methods are how sociologists collect and judge evidence about society, and in Cambridge

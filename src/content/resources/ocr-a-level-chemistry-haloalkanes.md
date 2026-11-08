@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-4-2-2"
 description: "Study guide for OCR A Level Chemistry A 4.2.2 Haloalkanes: hydrolysis, nucleophiles, the substitution mechanism, C–X bond enthalpy and CFCs."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Haloalkanes are section 4.2.2 in OCR's specification for A Level Chemistry A, code H432 (Version 3.1, issued May 2026; first assessment 2017). You meet them in Module 4, which OCR calls Core organic chemistry. This guide works through each lettered outcome, (a) through (e), and gives a worked example for each group of ideas. Because H432 is a full A level, nothing here is labelled AS or A2. Module 4 is examined in two of the written components: Synthesis and analytical techniques (02) and Unified chemistry (03). The specification ties outcome 4.2.2(a) to PAG7, qualitative analysis of organic functional groups.

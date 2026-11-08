@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "logistics-in-commerce-0715"
 description: "Transport functions and methods, choice factors, containerisation, warehouse types and automation explained for Cambridge IGCSE Commerce 0715 Topic 4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 4.1-4.2 (functions and methods of transport, choice factors, containerisation, warehousing functions, types and automation); removed stock control and reorder levels, which the syllabus does not include; please review."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 4.1-4.2 (functions and methods of transport, choice factors, containerisation, warehousing functions, types and automation); removed stock control and reorder levels, which the syllabus does not include; please review; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-08
 featured: false
 ---

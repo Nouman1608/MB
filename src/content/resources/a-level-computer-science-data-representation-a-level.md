@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "floating-point-numbers-representation-and-manipulation"
 description: "Study guide to user-defined data types, serial, sequential and random files, hashing and binary floating point for Cambridge A Level Computer Science 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 13 Data Representation, the first A Level topic in Cambridge International AS & A Level Computer Science 9618, covers three ways of shaping data: user-defined data types (enumerated, pointer, set, record and class), how files are organised and accessed (serial, sequential and random, with hashing), and binary floating-point numbers. It is examined in Paper 3 Advanced Theory, where floating-point conversion and normalisation questions need exact working.

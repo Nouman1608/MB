@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-distribution-of-income-and-wealth-poverty-and-inequality-aqa-alevel-economics"
 description: "Condensed AQA A-level Economics revision notes on poverty, tax and benefit policies, minimum wages, trade-offs and moral and political views."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense The problem of poverty (3.1.7.2) and Government policies to alleviate poverty and to influence the distribution of income and wealth (3.1.7.3) from the AQA AS and A-level Economics specification, version 1.3, first taught from September 2015. The combined PDF prints them as 4.1.7.2 and 4.1.7.3. For full explanations start with the [study guide](/resources/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and-practice/).

@@ -19,9 +19,10 @@ syllabusTopics:
     subtopic: "globalisation-benefits-and-drawbacks-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.4.3 and 3.2.4.4: free trade, trade barriers, the EU, globalisation, multinationals and ethical issues."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-05
 featured: false
 ---

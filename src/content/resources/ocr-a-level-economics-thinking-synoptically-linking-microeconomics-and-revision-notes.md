@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "themes-in-economics-ocr-alevel-economics"
 description: "Condensed revision notes for OCR A Level Economics Component 03: assessment facts, link bank, quantitative formulas, a worked theme and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense Component 03, **Themes in economics**, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. There is no prescribed content for this component, so the notes cover the method, the links and the skills. Full explanations are in the [study guide](/resources/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and/); test yourself with the [practice questions](/resources/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and-practice/). Other pages: the [OCR Economics hub](/boards/ocr/a-level/economics/), the [printable checklist](/checklists/ocr/a-level/economics/), the [free diagnostics](/diagnostics/) and the [exam preparation page](/resources/ocr-a-level-economics-exam-preparation/). All countries and figures here are invented.

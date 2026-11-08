@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "histograms-4024"
 description: "Study guide to drawing and reading histograms with unequal class widths and calculating with frequency density, for Cambridge O Level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers section 9.7, Histograms, in the Statistics topic of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. The syllabus is not tiered, so every candidate meets this content. It teaches both outcomes: drawing and interpreting histograms, and calculating with frequency density. Afterwards, check what you have learned with the [revision notes](/resources/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class-revision-notes/) and the [practice questions](/resources/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class-practice/). Other topics are listed on the [course hub](/boards/cambridge/o-level/mathematics/), and you can tick off what you have covered on the [printable checklist](/checklists/cambridge/o-level/mathematics/).

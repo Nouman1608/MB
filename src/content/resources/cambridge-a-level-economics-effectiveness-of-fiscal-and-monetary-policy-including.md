@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "effectiveness-of-macroeconomic-policy-options-cambridge-alevel-economics"
 description: "Study guide to judging fiscal and monetary policy, the Laffer curve, policy conflicts and government failure for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers part of outcome 10.3.1 (fiscal policy including Laffer curve analysis, and monetary policy), plus 10.3.2 and 10.3.3, in the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. The syllabus states that topics 1 to 6 are AS Level content and topics 7 to 11 are A Level content. Topic 10 is therefore A Level only and is not examined at AS. Supply-side, exchange rate and trade policies sit in a separate unit. All countries, firms and figures below are invented, and money is in zu (illustrative currency units).

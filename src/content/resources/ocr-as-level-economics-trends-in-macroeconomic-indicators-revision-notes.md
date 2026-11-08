@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "trends-in-macroeconomic-indicators-ocr-aslevel-economics"
 description: "Condensed OCR AS Level Economics revision notes on trends in macroeconomic indicators: reading data, UK phases and international comparison."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the topic **Trends in macroeconomic indicators** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. Fuller explanations are in the [study guide](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/); test yourself with the [practice questions](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-practice/). The related topics are in the [growth and GDP](/resources/ocr-a-level-economics-economic-growth-gdp-and-recession-revision-notes/), [unemployment](/resources/ocr-a-level-economics-unemployment-and-employment-revision-notes/) and [inflation](/resources/ocr-a-level-economics-inflation-deflation-and-index-numbers-revision-notes/) revision notes. Use the [OCR AS Economics hub](/boards/ocr/as-level/economics/), the [printable checklist](/checklists/ocr/as-level/economics/) and the [free 10-minute diagnostics](/diagnostics/). All data in the worked reminders is invented.

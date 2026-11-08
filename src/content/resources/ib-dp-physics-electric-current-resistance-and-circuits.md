@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-5"
 description: "Study guide to IB DP Physics B.5: current, p.d., resistance, power, circuits, internal resistance and variable resistors, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers sub-topic B.5, Current and circuits, from the IB *Physics guide* (first assessment 2025). The content is the same for SL and HL: the guide adds no extra HL material to this sub-topic. It teaches each understanding from scratch, with worked calculations. For quick recall use the [revision notes](/resources/ib-dp-physics-electric-current-resistance-and-circuits-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-physics-electric-current-resistance-and-circuits-practice/). Find your gaps first with the [free 10-minute diagnostics](/diagnostics/).

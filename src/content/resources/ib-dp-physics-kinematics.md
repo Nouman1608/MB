@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-1"
 description: "Distance, displacement, velocity, acceleration, SUVAT and projectile motion: sub-topic A.1 of IB DP Physics, with identical content at SL and HL."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-06
 featured: false
 ---

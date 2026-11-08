@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "evolution-may-lead-to-speciation-aqa-alevel-biology"
 description: "Condensed revision notes on gene pools, Hardy-Weinberg calculations, selection types, genetic drift and speciation for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 Condensed recall for AQA A-level Biology (7402) sections 3.7.2 and 3.7.3 (A-level only), from the AQA specification for first teaching 2015. For full explanations use the [study guide](/resources/aqa-a-level-biology-populations-hardy-weinberg-selection-and-speciation/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-populations-hardy-weinberg-selection-and-speciation-practice/). Course pages: the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), the [printable checklist](/checklists/aqa/a-level/biology/) and the [free diagnostics](/diagnostics/). Related: [genetic diversity and natural selection](/resources/aqa-a-level-biology-genetic-diversity-natural-selection-and-required/) and [mutation and meiosis](/resources/aqa-a-level-biology-mutation-and-meiosis/).
 

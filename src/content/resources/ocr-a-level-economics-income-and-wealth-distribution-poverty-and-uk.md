@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "economic-policy-objectives-ocr-alevel-economics"
 description: "Study guide to inequality, Lorenz curves, Gini coefficients, poverty and UK macroeconomic trends for OCR A Level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers two topics from the area of study "Economic policy objectives and indicators of macroeconomic performance" in Component 2, Macroeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. They are "Income distribution and welfare" and "Trends in macroeconomic indicators". The specification labels no content as AS or extension: all of it is A Level. Growth, development, unemployment and inflation have their own pages. Figures are invented and illustrative unless stated as real-world facts.

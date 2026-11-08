@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "us-civil-war-2147"
 description: "Recall notes on the causes of the American Civil War, the 1860 election, why the North won and Reconstruction, for Cambridge IGCSE 0470 and O Level 2147."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section."
+reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **Key question 1.4 in Cambridge IGCSE 0470 and O Level 2147 asks why

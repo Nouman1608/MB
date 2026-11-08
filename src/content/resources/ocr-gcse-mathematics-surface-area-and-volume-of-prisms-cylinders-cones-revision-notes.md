@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "volume-and-surface-area-calculations-ocr-gcse-maths"
 description: "Condensed revision notes on volume and surface area of solids for OCR GCSE Maths J560 section 10.04: formula table, methods, self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), section 10.04 (10.04a to 10.04c). Everything here is for both the Foundation and the Higher tier; nothing is Higher tier only. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones/), then try the [practice set](/resources/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones-practice/).
 

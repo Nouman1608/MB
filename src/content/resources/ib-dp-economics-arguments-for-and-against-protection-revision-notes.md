@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-3"
 description: "Condensed revision notes for IB DP Economics sub-topic 4.3: arguments for and against trade protection, calculations, distinctions and self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover sub-topic 4.3, Arguments for and against trade control/protection, which is SL and HL. The guide marks no 4.3 content as HL only.

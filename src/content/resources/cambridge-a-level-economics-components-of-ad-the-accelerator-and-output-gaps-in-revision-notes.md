@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-circular-flow-of-income-cambridge-alevel-economics"
 description: "Condensed revision notes on consumption, saving, investment, the accelerator, G, net exports and output gaps for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Full explanations are in the [study guide](/resources/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in/). These notes condense outcomes 9.1.2 and 9.1.3 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content only. The numbers are made up to show the method and are not real data. The multiplier and the propensities (9.1.1) have their own unit. Use the [hub](/boards/cambridge/a-level/economics/), the [checklist](/checklists/cambridge/a-level/economics/), the [practice questions](/resources/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in-practice/) and the [free 10-minute diagnostics](/diagnostics/).

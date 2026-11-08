@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on taxes, subsidies, price controls, permits and property rights, with worked reminders and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) sub-section Government intervention in markets: 3.1.5.8 on the AQA website, printed as 4.1.8.9 in the combined PDF. The specification gives no AS-only or A-level-only labels for it. Full explanations and different worked examples are in the [study guide](/resources/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price/); test yourself with the [practice questions](/resources/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price-practice/). Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [printable checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented.

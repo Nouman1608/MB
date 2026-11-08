@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "metallic-bonding-4ch1"
 description: "Condensed 4CH1 bonding notes: ion charges, formula rules, dot-and-cross counts, structure-property tables and a self-test, for Edexcel IGCSE Chemistry."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and worked examples, use the [bonding study guide](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding/). These notes condense sub-topics 1(f) Ionic bonding, 1(g) Covalent bonding and 1(h) Metallic bonding (points 1.37 to 1.54C) of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). The qualification is untiered; points 1.52C to 1.54C on metallic bonding are **Paper 2 only**.

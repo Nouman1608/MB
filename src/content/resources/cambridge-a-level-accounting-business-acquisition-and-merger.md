@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "business-acquisition-and-merger"
 description: "Goodwill, journals and ledger accounts for mergers and acquisitions, and the new entity's statements, for Cambridge A Level Accounting 9706 section 3.3."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 This guide covers section 3.3 Business acquisition and merger (A Level content) of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. It sits in topic 3, Financial accounting, which is the A Level content that Paper 3 assesses. AS Level content is assumed knowledge, so you should be comfortable with journals, ledger accounts and the statement of financial position first. All businesses and figures are invented and all amounts are in dollars.

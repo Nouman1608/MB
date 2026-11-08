@@ -11,9 +11,10 @@ syllabusSeries: "2024-2026"
 order: 3
 description: "Exam preparation for Cambridge IGCSE History 0470: Paper 1 core and depth questions, Paper 2 sources, coursework or Paper 4, and a source-evaluation routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-07
 featured: false
 ---

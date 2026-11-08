@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-4"
 description: "Overview study guide to B.4 Abstract data types, the HL-only IB DP Computer Science sub-topic (first assessment 2027): 23 HL hours and Paper 2 HL questions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); the brief names B.4 as HL only but does not list the ADTs or outcomes, which are in the licensed full guide; general ADT background is labelled; please review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); the brief names B.4 as HL only but does not list the ADTs or outcomes, which are in the licensed full guide; general ADT background is labelled; please review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

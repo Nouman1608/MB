@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-3"
 description: "Overview study guide to B.3 Object oriented programming in IB DP Computer Science (first assessment 2027): SL and HL hours, Paper 2 coverage and how to prepare."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); the brief names B.3 but does not list its learning outcomes, which are in the licensed full guide; general OOP background is labelled as such; please review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); the brief names B.3 but does not list its learning outcomes, which are in the licensed full guide; general OOP background is labelled as such; please review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

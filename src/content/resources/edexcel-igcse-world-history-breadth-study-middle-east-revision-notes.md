@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-middle-east-4hi1"
 description: "Condensed notes on Breadth Study B7, the Middle East 1917–2012, for Edexcel IGCSE History 4HI1: timeline, the wars compared, peace efforts, key terms and traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline and comparison tables against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline and comparison tables against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

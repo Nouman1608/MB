@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "life-teachings-hazrat-muhammad-9237"
 description: "Two original 25-mark Section A practice sets with mark-scheme answers on the life of Hazrat Muhammad (pbuh) for OxfordAQA International GCSE Islamiat 9237."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

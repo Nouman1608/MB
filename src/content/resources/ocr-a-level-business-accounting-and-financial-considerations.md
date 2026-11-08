@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "accounting-and-financial-considerations-ocr-alevel-business"
 description: "Whole-topic study guide to accounting and financial considerations for OCR A Level Business H431: costs, break-even, budgets, accounts and ratios."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the whole of topic 6, Accounting and financial considerations, in the OCR A Level Business H431 specification (Version 2.1, January 2026; final assessment summer 2027). Companions: [revision notes](/resources/ocr-a-level-business-accounting-and-financial-considerations-revision-notes/) and the [practice questions](/resources/ocr-a-level-business-accounting-and-financial-considerations-practice/). See also [measures of performance](/resources/ocr-a-level-business-measures-of-performance-financial-and-non-financial/) and [forecasting](/resources/ocr-a-level-business-forecasting/). [OCR A Level Business hub](/boards/ocr/a-level/business/), [checklist](/checklists/ocr/a-level/business/) and the free [10-minute diagnostics](/diagnostics/).

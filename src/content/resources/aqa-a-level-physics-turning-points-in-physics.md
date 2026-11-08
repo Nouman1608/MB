@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "special-relativity-aqa-alevel"
 description: "Study guide to the AQA A-Level Physics 7408 Turning points option: the electron, e/m and Millikan, wave-particle duality and special relativity."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 This study guide teaches section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13): you study one option, and it is assessed in Paper 3 Section B (35 of the paper's 80 marks). Section A of Paper 3 assesses practical skills and data analysis. All of section 3.12 is A-level only.

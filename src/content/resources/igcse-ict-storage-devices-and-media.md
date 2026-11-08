@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "storage-media-0417"
 description: "Storage devices versus media, and the uses, advantages and disadvantages of magnetic, optical and solid-state storage, for Cambridge IGCSE ICT 0417 Topic 3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 ---
 
 This guide covers **Topic 3, Storage devices and media**, of Cambridge

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "structure-and-calculation-oxfordaqa-igcse-maths"
 description: "Study guide with worked examples on index laws, exact fractions, surds, standard form and Venn diagrams for OxfordAQA International GCSE Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is aligned to the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It covers specification statements N6 to N9 in section 3.1.1 (Number: structure and calculation). Core content is also assessable on the Extension tier. Two statements are Extension only and are labelled that way below: fractional powers (N6) and calculating exactly with surds, including rationalising a denominator (N7).
 

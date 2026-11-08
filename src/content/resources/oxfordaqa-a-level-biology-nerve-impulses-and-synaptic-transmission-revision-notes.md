@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Recall notes on resting and action potentials, refractory period, conduction speed, cholinergic synapses and drug predictions, OxfordAQA A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed notes for sections 3.4.3.1 (Nerve impulses) and 3.4.3.2 (Synaptic transmission) of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1, for International A-level exams May/June 2018 onwards. The specification lists Unit 4, Control, as International A-level only. For full explanations use the [study guide](/resources/oxfordaqa-a-level-biology-nerve-impulses-and-synaptic-transmission/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-nerve-impulses-and-synaptic-transmission-practice/), see the [course hub](/boards/oxfordaqa/a-level/biology/) and [checklist](/checklists/oxfordaqa/a-level/biology/), and find weak spots with the [free diagnostics](/diagnostics/).

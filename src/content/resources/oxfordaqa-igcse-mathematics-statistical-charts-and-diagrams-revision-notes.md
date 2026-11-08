@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "presentation-and-analysis-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on statistical charts for OxfordAQA International GCSE Maths: formulas, methods, distinctions and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes are a short recall sheet for OxfordAQA International GCSE Mathematics (9260), based on Version 5.1 of the specification (exams from May/June 2018), section 3.4.1, reference S4. The [study guide](/resources/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams/) has the full explanations. Extension papers can also assess Core content. Items marked Extension only are for Extension candidates alone.

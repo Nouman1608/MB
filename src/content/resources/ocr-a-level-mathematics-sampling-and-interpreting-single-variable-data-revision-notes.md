@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "data-presentation-and-interpretation-ocr-alevel-maths"
 description: "Condensed revision notes on sampling methods, histograms, mean and standard deviation, outliers and data cleaning for OCR A Level Mathematics A."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 2.01a to 2.01d and 2.02a, 2.02b and 2.02f to 2.02j of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026). All of it is Stage 1 content, shared with AS Level. The [study guide](/resources/ocr-a-level-mathematics-sampling-and-interpreting-single-variable-data/) explains each idea in full. When you are ready, try the [practice questions](/resources/ocr-a-level-mathematics-sampling-and-interpreting-single-variable-data-practice/).

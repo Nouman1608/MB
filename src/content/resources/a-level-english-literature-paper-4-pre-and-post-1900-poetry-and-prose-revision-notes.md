@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "section-b-post-1900-poetry-and-prose-9695"
 description: "Quick-recall notes for Cambridge 9695 Paper 4: format, the one-poetry-one-prose rule, (a) vs (b) questions, AO1–AO5 with AO5 critical views, and 2026 set texts."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Paper 4 of Cambridge International AS & A Level Literature in English (9695) is a two-hour, closed-book

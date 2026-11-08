@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-10"
 description: "Original practice questions with worked answers for IB DP Economics 4.9 and 4.10: barriers to growth and development, and the strategies to overcome them."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

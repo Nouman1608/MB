@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "stacks-oxfordaqa-alevel-cs"
 description: "Original questions with worked answers on records, linear and circular queues and stacks, with traces and Python code, for OxfordAQA Computer Science 9645."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

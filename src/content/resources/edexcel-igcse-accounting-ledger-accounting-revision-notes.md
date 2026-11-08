@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "ledger-accounting-4ac1"
 description: "Condensed revision notes on ledger accounting for Pearson Edexcel IGCSE Accounting: ledgers, debit and credit rules, balancing, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 2.3, Ledger accounting, of Topic 2, Introduction to bookkeeping, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The section asks you to explain the purpose of the nominal, receivables and payables ledgers (2.3a) and to record transactions in ledger accounts using double entry principles (2.3b). The specification lists no tiers or paper-only markers for it. For full explanations and worked examples, read the [ledger accounting study guide](/resources/edexcel-igcse-accounting-ledger-accounting/).

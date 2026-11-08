@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "location-decisions"
 description: "Study guide to quality control, quality assurance and location decisions for Cambridge O Level Business Studies 7115, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers sections 4.3 (Achieving quality production) and 4.4 (Location decisions) of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. Both sit inside section 4, Operations management. Paper 1 (short answer and data response) and Paper 2 (case study) each assess content from the entire syllabus, so these ideas can appear in either paper, usually applied to a business you are given. Pair this guide with the [revision notes](/resources/o-level-business-achieving-quality-production-and-location-decisions-revision-notes/) and the [practice questions](/resources/o-level-business-achieving-quality-production-and-location-decisions-practice/). For earlier operations topics there is also [the operations management practice set](/resources/o-level-business-operations-management-practice/). Course pages: [Cambridge O Level Business hub](/boards/cambridge/o-level/business/), [printable checklist](/checklists/cambridge/o-level/business/) and the [free diagnostics](/diagnostics/).
 

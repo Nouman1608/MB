@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "financial-markets-and-monetary-policy-aqa-alevel-economics"
 description: "Condensed AQA A-level Economics revision notes on bank balance sheets, credit creation, bank failure, moral hazard and UK financial regulation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sub-sections 4.2.4.2 and 4.2.4.4 of the AQA A-level Economics (7136) specification (3.2.4.2 and 3.2.4.4 on the AQA website). For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and/). Test yourself afterwards with the [practice set](/resources/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and-practice/).

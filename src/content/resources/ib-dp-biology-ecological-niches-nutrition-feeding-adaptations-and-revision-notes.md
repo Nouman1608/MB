@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b4-2"
 description: "Condensed IB DP Biology B4.2 revision notes: niches, nutrition modes, dentition, herbivory, predation, light capture and competition, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sub-topic B4.2, Ecological niches, from the IB *Biology guide*, first assessment 2025 (statements B4.2.1 to B4.2.13, SL and HL, with no HL-only content). For full explanations and worked examples read the [study guide](/resources/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and/). Test yourself with the [practice questions](/resources/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and-practice/). Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Printable list: [checklist](/checklists/ib/ib-dp/biology/). Unsure what to revise first? Take the [free 10-minute diagnostics](/diagnostics/).

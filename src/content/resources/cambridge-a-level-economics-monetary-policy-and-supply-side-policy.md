@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "supply-side-policy-as-cambridge-alevel-economics"
 description: "Study guide to monetary policy tools, supply-side policy, LRAS shifts and AD/AS analysis for Cambridge AS and A Level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 5.3 (Monetary policy) and 5.4 (Supply-side policy) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 5 is AS Level content. A Level candidates study it too, and the syllabus treats AS content as assumed knowledge for A Level Papers 3 and 4. Every country, firm and figure below is invented for illustration. None is a real statistic, and money is in currency units (cu).

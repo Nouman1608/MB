@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-medicine-4hi1"
 description: "Study guide to Breadth Study B2, medicine c1848–c1948, for Edexcel IGCSE History 4HI1: Nightingale, Snow, germ theory, Lister, Koch, war, penicillin, the NHS."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

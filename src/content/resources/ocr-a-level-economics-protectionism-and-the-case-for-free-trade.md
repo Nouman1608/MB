@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-global-context-ocr-alevel-economics"
 description: "Methods of protectionism, tariff and quota diagrams, the case for and against protection and free trade, and competitiveness policies, for OCR H460."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the first part of the "Trade policies and negotiations" topic in the "global context" area of study in Component 2, Macroeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It teaches methods of protectionism, tariff and quota diagrams, effectiveness, the cases for and against protection and free trade, and government policies for international competitiveness. Economic integration, the EU and the WTO are separate bullets and are not taught here. The specification does not label any of this content as AS or Higher. All countries, firms and figures below are invented. Work with the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/), the [revision notes](/resources/ocr-a-level-economics-protectionism-and-the-case-for-free-trade-revision-notes/), the [practice questions](/resources/ocr-a-level-economics-protectionism-and-the-case-for-free-trade-practice/) and the free [diagnostics](/diagnostics/).

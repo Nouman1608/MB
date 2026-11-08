@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "statement-of-financial-position-0264"
 description: "Study guide to profit, the statement of profit or loss and the statement of financial position for Cambridge IGCSE Business 0264, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 5.3 (Profit and loss) and 5.4 (Statement of financial position) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. Both papers are based on all the subject content, so these ideas can appear in a short answer, a data response or a case study. The syllabus says you will not be assessed on constructing a statement of profit or loss or a statement of financial position. You are expected to read them, calculate from them and use them to make decisions.

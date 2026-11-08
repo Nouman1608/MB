@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-8"
 description: "Original IB DP Business Management practice questions on 3.8 Investment appraisal: payback, ARR and NPV (HL only), with fully worked answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "m2-work-and-energy-oxfordaqa-alevel-maths"
 description: "Detailed study guide to work done by a force, kinetic and potential energy, the work-energy principle and power (P = Fv) for OxfordAQA 9660 Unit M2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide covers section M2.6 (Work and energy) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification states that this content is part of International A-level (A2) Unit M2 (Mechanics) and is not examined at International AS. Resolving forces and the constant-acceleration (suvat) equations are useful background.
 

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-labour-market-oxfordaqa-alevel-economics"
 description: "Study guide to marginal productivity theory, the demand for labour, its elasticity and the supply of labour, for OxfordAQA International Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is written for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers sections 3.3.4.1 (the demand for labour and marginal productivity theory) and 3.3.4.2 (the supply of labour to different labour markets). Section 3.3 is extra International A2 content. Section 3.5 quantitative skills may appear in any unit, and the sums here use QS2 (percentages), QS6 (revenue and totals), QS8 (elasticity) and QS9 (interpreting data). Every firm, place and figure is invented and illustrative.
 

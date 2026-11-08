@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "magnetism-and-electromagnetism-oxfordaqa-igcse"
 description: "Condensed revision notes on magnets, field patterns, the Earth's field, solenoids and electromagnets for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense section 3.5.2 (Magnetism and electromagnetism) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. For full explanations, start with the [study guide](/resources/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets/). When you are ready, try the [practice questions](/resources/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets-practice/).
 

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "the-global-environment-of-business-ocr-alevel-business"
 description: "Condensed revision notes on the global environment of business for OCR A Level Business H431, with a quick self-test and a list of common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for the global environment of business in the OCR A Level Business (H431) specification, Version 2.1 (January 2026), final assessment summer 2027. The specification names the topic in its content overview, and one component is titled The global business environment, so these notes gather all the global and international points. For full explanations read the [study guide](/resources/ocr-a-level-business-the-global-environment-of-business/), then try the [practice questions](/resources/ocr-a-level-business-the-global-environment-of-business-practice/).

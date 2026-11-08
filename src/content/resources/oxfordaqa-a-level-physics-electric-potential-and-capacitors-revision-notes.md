@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "capacitors-oxfordaqa-alevel"
 description: "Condensed revision notes on electric potential, equipotentials, capacitance, dielectrics and stored energy for OxfordAQA International A-level Physics 9630."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 3.8.3 (Electric potential) and 3.8.4 (Capacitors) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, exams from May/June 2020 onwards. Both sections sit inside 3.8, which is International A-level only. For full explanations read the [study guide](/resources/oxfordaqa-a-level-physics-electric-potential-and-capacitors/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-electric-potential-and-capacitors-practice/). Track progress on the [course hub](/boards/oxfordaqa/a-level/physics/) and the [checklist](/checklists/oxfordaqa/a-level/physics/), and use the [free diagnostics](/diagnostics/) to find weak spots.

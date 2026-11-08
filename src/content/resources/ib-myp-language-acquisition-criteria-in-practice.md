@@ -13,9 +13,10 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "What top-band evidence looks like for each IB MYP Language Acquisition criterion (listening, reading, speaking, writing) at emergent, capable, proficient."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-06
 featured: false
 ---

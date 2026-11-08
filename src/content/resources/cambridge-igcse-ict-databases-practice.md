@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "present-data-0417"
 description: "Original exam-style database questions with worked answers on data types, keys, relational tables, forms, queries and reports for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 18: creating a database structure (18.1), manipulating data (18.2) and presenting data (18.3). Theory points such as keys, flat-file and relational databases and form design appear in Paper 1; the practical skills are tested in Paper 2, so Section C sets practical-style tasks.

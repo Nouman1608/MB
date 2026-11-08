@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ionic-bonding-8462"
 description: "Condensed recall notes on the three types of chemical bond and ionic bonding by electron transfer for AQA GCSE Chemistry (8462), 4.2.1.1 and 4.2.1.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-02
 featured: false
 ---

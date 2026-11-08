@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "links-between-macroeconomic-problems-cambridge-alevel-economics"
 description: "Study guide to macroeconomic objectives, the links between inflation, growth, unemployment and the balance of payments, and the Phillips curve."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028. It covers sections 10.1.1 and 10.2.1 to 10.2.5: government macroeconomic objectives and the links between macroeconomic problems, including the traditional and expectations-augmented Phillips curves. Topics 1 to 6 are AS Level content and topics 7 to 11 are A Level content. This unit sits in topic 10, so it is A Level content, assessed through the A Level papers; AS content is assumed knowledge. Every country and figure used below is made up for illustration.

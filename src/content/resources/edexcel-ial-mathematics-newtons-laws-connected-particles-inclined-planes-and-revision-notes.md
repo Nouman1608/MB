@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "m1-dynamics-edexcel-alevel-maths"
 description: "Condensed revision notes on F = ma, pulleys, connected particles, inclined planes and F = μR for Pearson Edexcel IAL Mathematics Unit M1 (YMA01)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense topics 4.1, 4.2 and 4.4 of Unit M1 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that M1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-mathematics-newtons-laws-connected-particles-inclined-planes-and/) first.

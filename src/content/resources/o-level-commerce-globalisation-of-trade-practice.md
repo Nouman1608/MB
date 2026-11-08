@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "globalisation-of-trade-7100"
 description: "Cambridge O Level Commerce 7100 practice with worked answers: Balance of Payments sums, exchange rates, tariffs and quotas, trading blocs and supply chain risk."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These questions practise Topic 3, Globalisation of trade, of Cambridge O Level Commerce (7100,

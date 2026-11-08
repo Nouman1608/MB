@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-performance-oxfordaqa-alevel-economics"
 description: "Condensed revision notes for OxfordAQA International AS and A-level Economics 9640 sections 3.2.3.2-3.2.3.3, with formulas, chains and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.2.3.2 (employment and unemployment) and 3.2.3.3 (inflation and deflation) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. Section 3.2 is International AS content. For full explanations read the [study guide](/resources/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation-practice/). Course page: [OxfordAQA A-level Economics](/boards/oxfordaqa/a-level/economics/). Tick off topics on the [checklist](/checklists/oxfordaqa/a-level/economics/) and find gaps with the [free diagnostics](/diagnostics/). Index-number practice: [measurement of macroeconomic performance](/resources/a-level-oxfordaqa-economics-measurement-of-macroeconomic-performance/). All figures are invented.

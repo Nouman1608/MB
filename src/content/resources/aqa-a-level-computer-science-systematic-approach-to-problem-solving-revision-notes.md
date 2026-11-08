@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "systematic-approach-to-problem-solving-7517"
 description: "Recall notes on analysis, design, implementation, normal, boundary and erroneous test data, acceptance testing and evaluation for AQA A-Level CS 7517."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 A systematic approach to problem solving (section 4.13 of AQA A-Level Computer Science 7517) means developing

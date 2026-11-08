@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "standard-costing"
 description: "A full guide to standard costing and variances for Cambridge A Level Accounting 9706, with one worked example from cost card to profit reconciliation."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 This guide covers section 4.2 Standard costing (A Level content) of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. It sits in topic 4, Cost and management accounting, which is assessed in Paper 4 (one hour, two structured questions, 25 marks each). AS Level content is assumed knowledge. Every business and figure below is invented and amounts are in dollars. Use it with the [revision notes](/resources/cambridge-a-level-accounting-standard-costing-revision-notes/) and the [practice questions](/resources/cambridge-a-level-accounting-standard-costing-practice/), then see the [course hub](/boards/cambridge/a-level/accounting/), the printable [checklist](/checklists/cambridge/a-level/accounting/) and the free [diagnostics](/diagnostics/).

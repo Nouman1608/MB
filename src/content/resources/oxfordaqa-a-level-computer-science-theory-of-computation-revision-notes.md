@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "theory-of-computation-9645"
 description: "Condensed revision notes on FSMs, Mealy machines, regex, Turing machines, BNF, Big O and the Halting problem for OxfordAQA A-level Computer Science."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These revision notes cover section **3.13 Theory of computation** (3.13.1 to 3.13.5) of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1 (International AS exams May/June 2025 onwards, International A-level exams May/June 2026 onwards). Everything here is **International A-level only**, examined in Unit 4: Advanced concepts and principles of computer science, a written exam. Go to the [study guide](/resources/oxfordaqa-a-level-computer-science-theory-of-computation/) when you need a topic taught from the start.

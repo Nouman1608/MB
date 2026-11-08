@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "copyright-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 9: analysing audience needs, matching design to an audience, software copyright, piracy and its prevention."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 9 of Cambridge IGCSE ICT 0417 has two parts: audience appreciation, which means designing ICT solutions that suit the needs of the people who will use them, and copyright, which covers why software is protected by law and how producers stop it being copied illegally. In the exam you justify design choices by linking each one to the audience, and you explain piracy and the methods used to prevent it.

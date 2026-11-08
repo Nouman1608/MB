@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "national-income-edexcel-alevel-economics"
 description: "Study guide to aggregate supply, the circular flow of income and equilibrium real output for Pearson Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (YEC11), Issue 2, June 2018. It covers specification sections 2.3.3 (aggregate supply) and 2.3.4 items 1 to 3 (the circular flow, injections and withdrawals, and equilibrium real output). In the specification, the IAS label belongs to Units 1 and 2, and the extra IA2 content is Units 3 and 4. Your topic sits in Unit 2: it is IAS content, and it carries on into the complete International Advanced Level.

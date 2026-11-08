@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "sequences-and-series-ocr-alevel-maths"
 description: "Condensed revision notes for OCR A Level Mathematics A sequences and series: formulae, methods, must-know distinctions and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes condense sections 1.04e to 1.04k of the OCR A Level Mathematics A specification (Version 3.1, August 2026, for first assessment in 2018): sequences, sigma notation, arithmetic and geometric series, the sum to infinity and modelling. All of this content is Stage 2, so it is A Level only. For full explanations and fuller worked examples, read the [study guide](/resources/ocr-a-level-mathematics-sequences-sigma-notation-arithmetic-and-geometric/).
 

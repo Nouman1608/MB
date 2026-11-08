@@ -27,8 +27,12 @@ syllabusTopics:
     subtopic: "remedies-for-breach-of-a-contract-9084"
 description: "Original Paper 3-style scenarios and essays with indicative answers on formation, capacity, CRA terms, frustration and remedies for Cambridge A Level Law 9084."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 These practice questions cover all of Topic 3 Law of contract in Cambridge International A Level Law

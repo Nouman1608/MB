@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "combined-events-and-probability-diagrams-ocr-gcse-maths"
 description: "Original practice questions with worked answers on tree diagrams, addition and multiplication laws and conditional probability for OCR GCSE (9-1) Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

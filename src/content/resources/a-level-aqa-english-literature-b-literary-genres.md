@@ -20,11 +20,12 @@ syllabusTopics:
     subtopic: "option-1b-aspects-of-comedy-7717"
 description: "Aspects of Tragedy and Aspects of Comedy -- the two genre options and full paper structure of Paper 1 for AQA A-Level English Literature B (7717)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers **Paper 1 Literary Genres**, one of two exam papers

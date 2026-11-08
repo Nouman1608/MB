@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "networking-and-cyber-security"
 description: "Original practice questions with worked answers on OxfordAQA A-Level Computer Science networking: bit rates, subnets, DNS, CSMA and encryption."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

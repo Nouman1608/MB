@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-forces-competition-and-market-dominance-ocr-alevel-business"
 description: "Condensed OCR A Level Business H431 revision notes on market forces, physical and non-physical markets, competition, mergers and market dominance."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the External influences content on market forces, physical and non-physical markets, competition and market dominance in the OCR *A Level Business (H431) specification*, Version 2.1 (January 2026). For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance/), then test yourself with the [practice questions](/resources/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance-practice/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "different-business-forms-aqa-alevel-business"
 description: "Study guide to why businesses exist, mission and objectives, profit measurement, business forms, shares and ownership for AQA A-Level Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1.1 (Understanding the nature and purpose of business) and 3.1.2 (Understanding different business forms) of the AQA A-level Business (7132) specification, for first teaching from September 2023. The specification says all content is assessed across the three A-level papers, so this material can appear anywhere. See the [course hub](/boards/aqa/a-level/business/) and the [printable checklist](/checklists/aqa/a-level/business/).

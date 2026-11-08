@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "globalisation-and-crime-9699"
 description: "Condensed Cambridge 9699 notes on sections 8.1-8.3: globalisation and life chances, aid and transnational bodies, migration push and pull, and global crime."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense heading 8 *Contemporary issues* of Cambridge International A Level Sociology

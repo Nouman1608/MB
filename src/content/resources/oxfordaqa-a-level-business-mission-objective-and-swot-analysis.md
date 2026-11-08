@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "mission-objective-and-swot-analysis-oxfordaqa-alevel-business"
 description: "Study guide for OxfordAQA A-level Business 9725 section 3.3.1: mission, objectives, SWOT data analysis and stakeholder mapping, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. It teaches section 3.3.1 Mission, objective and SWOT analysis, the first section of 3.3 Business analysis. All of it is **International A-level only** content. If you are finishing the older 9625 specification, use your own specification, not this page.

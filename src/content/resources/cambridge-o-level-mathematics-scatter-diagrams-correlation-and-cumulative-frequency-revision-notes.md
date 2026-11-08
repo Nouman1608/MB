@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "cumulative-frequency-diagrams-4024"
 description: "Condensed revision notes on scatter diagrams, correlation, lines of best fit and cumulative frequency curves for Cambridge O Level Maths, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense sections 9.5 (Scatter diagrams) and 9.6 (Cumulative frequency diagrams) of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. The content is the same for every candidate. For full explanations and longer worked examples, use the [study guide](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency/), then test yourself with the [practice questions](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency-practice/). The [course hub](/boards/cambridge/o-level/mathematics/) and [printable checklist](/checklists/cambridge/o-level/mathematics/) show the rest of the syllabus. To find your weak spots first, try the [free 10-minute diagnostics](/diagnostics/).
