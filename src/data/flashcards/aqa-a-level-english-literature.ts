@@ -65,6 +65,8 @@ export const DECK_AQA_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
       { n: 4, f: 'What is the pre-1900 rule for Option 2A?', b: 'The three set texts are one post-2000 prose text, one poetry text and one further text, and the poetry text must be pre-1900.' },
       { n: 5, f: 'Why does the specification say "elements" rather than "genre"?', b: 'Many set texts pre-date crime writing as a recognised genre, so ask which elements a text shows and how strongly, rather than whether it belongs to the genre.' },
       { n: 6, f: 'How does guilt work in The Rime of the Ancient Mariner?', b: 'After killing the albatross the Mariner suffers isolation and torment ("Water, water, every where, / Nor any drop to drink"), and must retell his tale as a form of confession.' },
+      { n: 7, f: 'Which Option 2A text is new for 2027, and what are the post-2000 prose choices?', b: 'Colin Walsh\'s Kala is first assessed in 2027. The post-2000 prose texts are When Will There Be Good News?, Atonement and, from 2027, Kala.' },
+      { n: 8, f: 'Which texts can you use in Paper 2 Section C?', b: 'Two texts that you have not used in Section B. Across Sections B and C you write about all three of your texts: one poetry, one post-2000 prose and one further text.' },
     ]),
     ...sub(P2, 'option-2b-elements-of-political-and-social-protest-writing-7717', '3.2.2', [
       { n: 1, f: 'Name some elements of political and social protest writing listed for Option 2B.', b: 'Settings for power struggles; the pursuit of power and rebellion; corruption and control; individual against collective experience; gender politics and social class; structures that heighten or resolve tension.' },
@@ -73,6 +75,8 @@ export const DECK_AQA_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
       { n: 4, f: 'What does Blake\'s "mind-forg\'d manacles" suggest in London?', b: 'That oppression is not only imposed by institutions but internalised in people\'s minds, a protest against the control that limits city life.' },
       { n: 5, f: 'What makes a Section C answer genuinely connective?', b: 'It tracks one specific element (such as the structure of a power struggle) across both texts in one argument, using each to illuminate the other, not two mini-essays.' },
       { n: 6, f: 'How should you revise for an open-book paper?', b: 'Build a mental map of each text: which sections deal with which elements, so you can locate material quickly. Word-perfect recall matters less.' },
+      { n: 7, f: 'Which Option 2B texts count as post-2000 prose?', b: 'Harvest, Brotherless Night and The Kite Runner. The Handmaid\'s Tale (1985) is not post-2000, so it can only be the further text.' },
+      { n: 8, f: 'Which edition of A Doll\'s House must Option 2B students use?', b: 'The Bloomsbury Methuen Drama edition translated by Michael Meyer, which AQA treats as Ibsen\'s own words for assessment.' },
     ]),
 
     // 3 Theory and independence (NEA)
