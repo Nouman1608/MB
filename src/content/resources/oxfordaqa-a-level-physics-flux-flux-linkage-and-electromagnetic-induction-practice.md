@@ -177,6 +177,23 @@ The flux linkage changes uniformly between readings.
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is electromagnetic induction in OxfordAQA International AS Physics?**
+No. Sections 3.10.3 Magnetic flux and flux linkage and 3.10.4 Electromagnetic induction of OxfordAQA International AS and A-level Physics (9630) are International A-level only.
+
+**Which angle goes into cos θ for a tilted coil?**
+Use the angle between the field and the normal to the coil, not the angle to the coil's plane. Sketch the normal first to avoid this common error.
+
+**Why do I need a change in flux to find an emf?**
+The induced emf depends on the rate of change of flux linkage, not on the flux itself. Using a single flux value instead of a change in flux gives the wrong answer.
+
+**How should I give the direction of an induced current?**
+State whether the flux linkage is rising or falling, then use Lenz's law to say which way the induced current must flow to oppose that change. A direction with no reasoning gains little credit.
+
+**What mistakes are common with a rotating coil?**
+Using degrees for sin ωt when ωt is in radians, forgetting the number of turns, and rounding the emf too early. Convert mWb, cm² and minutes to base units first.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.10.3 Magnetic flux and flux linkage and 3.10.4 Electromagnetic induction (International A-level only).

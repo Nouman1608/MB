@@ -150,6 +150,23 @@ These questions cover sections 3.10.1 (Magnetic flux density) and 3.10.2 (Moving
 - Find weak areas: [all free 10-minute diagnostics](/diagnostics/)
 - Ready for help? [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics magnetic force questions cover?**
+They cover sections 3.10.1 and 3.10.2 of OxfordAQA International AS and A-level Physics (9630): the force on a current-carrying wire, magnetic flux density, the force on a moving charge, circular paths and the cyclotron.
+
+**How do I use Fleming's left-hand rule for an electron?**
+Point the second finger opposite to the electron's velocity, because the equivalent conventional current runs the other way. Using the electron's direction of motion as the current is a common error.
+
+**What must a definition involving magnetic flux density include?**
+Mention the force, the current, the length of the conductor and that the conductor is at right angles to the field. Leaving out the right angle loses marks.
+
+**What unit conversions are needed in these questions?**
+Convert grams to kilograms, centimetres to metres and atomic mass units to kilograms before substituting. Then give the answer with a unit and to a sensible number of significant figures.
+
+**What length of wire goes into F = BIL?**
+Use only the length of wire inside the field, not the length of the whole wire, and check that the current and field are perpendicular.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by Oxford International AQA Examinations. Sections 3.10.1 and 3.10.2.

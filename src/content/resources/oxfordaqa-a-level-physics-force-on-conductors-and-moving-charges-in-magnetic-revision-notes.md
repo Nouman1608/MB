@@ -181,6 +181,23 @@ At speeds approaching the speed of light these simple results stop working, beca
 - Giving too many or too few significant figures, or leaving out the unit.
 - Describing a definition with no mention of right angles, current, length or force.
 
+## Frequently asked questions
+
+**What is the radius of a charged particle's circular path in a magnetic field?**
+Setting the magnetic force equal to the centripetal force, BQv = mv²/r, gives r = mv/(BQ). A faster or heavier particle moves in a larger circle.
+
+**Does the magnetic force change a particle's speed?**
+No. The force acts at right angles to the velocity, so it does no work. It changes only the direction of motion, not the speed.
+
+**How does a cyclotron accelerate particles?**
+The electric field in the gap between the two dees accelerates the particle, adding kinetic energy QV at each crossing. Inside the dees the magnetic field only bends the path into semicircles, so the path spirals outwards.
+
+**Why is the cyclotron frequency fixed?**
+The time for each semicircle is πm/(BQ), which does not depend on speed. So the pd across the gap can alternate at a fixed frequency, f = BQ/(2πm).
+
+**How does a current balance measure magnetic flux density?**
+Zero the balance with the current off, then record the change in mass Δm when a current I flows. The force on the wire is Δm g, and since F = BIL, B can be found from the current and the length of wire in the field.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by Oxford International AQA Examinations. Sections 3.10.1 and 3.10.2.
