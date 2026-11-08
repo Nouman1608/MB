@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "non-exam-assessment-language-in-action-7702"
+  - qualification: "a-level"
+    topic: "non-exam-assessment-language-in-action-7702"
+    subtopic: "language-investigation-7702"
+  - qualification: "a-level"
+    topic: "non-exam-assessment-language-in-action-7702"
+    subtopic: "original-writing-7702"
 description: "The language investigation, original writing and commentary, and the methods of language analysis required -- the full content of Section 3.3 Language in Action, the non-exam assessment component for AQA A-Level English Language (7702)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
