@@ -25,10 +25,12 @@ syllabusTopics:
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 18: variation, mutation, adaptive features, natural selection and selective breeding, with examples."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide teaches topic 18, Variation and selection, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 18.1 Variation, 18.2 Adaptive features and 18.3 Selection. Each section has Core statements, which every candidate needs, and Supplement statements, which are labelled **Extended only** here.
@@ -242,6 +244,20 @@ It is used to improve **crop plants** (higher yield, disease resistance, drought
 - Exam-style questions with answers: [Variation and selection practice questions](/resources/igcse-biology-0610-variation-and-selection-practice/)
 - Find your gaps: [Core diagnostic](/practice/0610/diagnostic/core/) or [Extended diagnostic](/practice/0610/diagnostic/extended/)
 - Tick off every statement on the [0610 checklist](/checklists/cambridge/igcse/biology/) and return to the [course hub](/boards/cambridge/igcse/biology/)
+
+## Frequently asked questions
+
+**What is an adaptive feature?**
+An adaptive feature is an inherited feature that helps an organism to survive and reproduce in its environment. A feature gained during life, such as a scar or larger muscles from training, is not an adaptive feature.
+
+**What is the difference between an adaptive feature and adaptation?**
+An adaptive feature is a feature, while adaptation is a process. In Cambridge IGCSE Biology 0610, adaptation is the process, resulting from natural selection, by which populations become more suited to their environment over many generations.
+
+**What increases the rate of mutation?**
+Ionising radiation and some chemicals increase the rate of mutation.
+
+**What is the difference between natural selection and artificial selection?**
+In natural selection, the environment decides which individuals survive and reproduce. In artificial (selective) breeding, humans choose which individuals reproduce, selecting features useful to them, and the process is usually faster. This comparison is Extended only.
 
 ## Official syllabus
 

@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on the characteristics of life, the five kingdoms, pathogens and levels of organisation for Edexcel International GCSE Biology 4BI1."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -159,3 +161,16 @@ organelle -> cell -> tissue -> organ -> organ system -> organism
   <figcaption>Each level of organisation is built from the one before.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between excretion and egestion?**
+Excretion is the removal of the waste products of metabolism, substances the body itself produced. Egestion is undigested food leaving the gut; it was never absorbed or part of the organism's metabolism, so in Edexcel IGCSE Biology 4BI1 it is not excretion.
+
+**What do plants, animals and fungi store carbohydrate as?**
+Plants store carbohydrate as starch and sucrose, while animals and fungi both store it as glycogen.
+
+**What is the difference between a pathogen and a vector?**
+A pathogen is the organism that causes a disease, such as Plasmodium, which causes malaria. A vector carries and transmits the pathogen, such as the mosquito.
+
+**Why are viruses not classed as living?**
+Viruses can only reproduce inside a host cell and show none of the characteristics of life independently. They have no cytoplasm or organelles, only genetic material inside a protein coat.

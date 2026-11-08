@@ -22,11 +22,13 @@ syllabusTopics:
 description: "Condensed recall notes on MRS GREN, the five kingdoms, vertebrate and arthropod groups, and dichotomous keys for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -178,3 +180,16 @@ When constructing one: use **observable, contrasting** features only, phrase eac
   <figcaption>Answer one two-way question at a time to reach a name.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does MRS GREN stand for in IGCSE Biology?**
+MRS GREN stands for movement, respiration, sensitivity, growth, reproduction, excretion and nutrition, the seven characteristics of living organisms in Cambridge IGCSE Biology 0610.
+
+**What is the difference between a prokaryote and a protoctist?**
+Prokaryotes are single-celled organisms with no nucleus, while protoctists have a nucleus. The presence of a nucleus, not size, is the distinguishing feature.
+
+**How do you tell a monocotyledon from a dicotyledon?**
+Monocotyledons have one cotyledon, parallel leaf veins and flower parts in threes. Dicotyledons have two cotyledons, branching (net-like) veins and flower parts in fours or fives.
+
+**What makes a good dichotomous key?**
+A good key uses paired statements based on observable, contrasting features. Avoid features that vary with age, season or individual, such as size or colour that changes.

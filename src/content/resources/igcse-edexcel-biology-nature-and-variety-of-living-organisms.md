@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "the-nature-and-variety-of-living-organisms-edexcel-igcse-biology"
-description: "Characteristics of living organisms and the variety of living organisms (plants, animals, fungi, protoctists, bacteria and pathogens) -- the opening topic of Pearson Edexcel International GCSE Biology (4BI1), an untiered, linear qualification."
+description: "Characteristics of living organisms, the five kingdoms, viruses and pathogens, covering Topic 1 of Pearson Edexcel International GCSE Biology 4BI1."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 The Nature and Variety of Living
@@ -185,3 +187,17 @@ Confusing excretion with egestion. Saying fungi "eat" their food — they digest
 - Explain saprotrophic nutrition step by step.
 - Describe the structure of a virus and explain why it is not placed in a kingdom.
 - Name a pathogen from each group and the disease it causes.
+
+## Frequently asked questions
+
+**What is saprotrophic nutrition?**
+Saprotrophic nutrition is the way fungi feed: they secrete enzymes onto food outside the body, digest it externally and absorb the products.
+
+**Why are viruses not placed in any kingdom?**
+Viruses are not cells. They have no cytoplasm, organelles or metabolism of their own; each is a protein coat around DNA or RNA and can reproduce only inside a host cell.
+
+**How is growth defined in Edexcel IGCSE Biology?**
+Growth is a permanent increase in dry mass. Taking up water increases mass but not dry mass, so it does not count as growth.
+
+**Is cell structure part of Topic 1 in Edexcel 4BI1?**
+No. Topic 1 covers the characteristics and variety of living organisms. The structure of plant and animal cells, and the movement of substances into and out of cells, belong to Topic 2.

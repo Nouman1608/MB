@@ -19,14 +19,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
     subtopic: "active-transport-cambridge-igcse-biology"
-description: "Original exam-style practice questions with full worked answers on diffusion, osmosis and active transport, with Core and Supplement content marked, for Cambridge IGCSE Biology (0610) Topic 3."
+description: "Exam-style questions with worked answers on diffusion, osmosis and active transport, with Core and Supplement marked, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -155,3 +157,14 @@ energy is required, rather than simply naming a process from a half-remembered d
 and 8(b) reward Core candidates for keeping the Supplement-only water potential language distinct from the
 simpler Core statement that water moves by osmosis through a partially permeable membrane — know which
 level of explanation your tier actually requires.
+
+## Frequently asked questions
+
+**How do you identify which transport process is happening in an unfamiliar context?**
+Check the direction of movement relative to the concentration gradient and whether energy is needed. Movement against the gradient using energy from respiration is active transport; movement down the gradient with no energy input is diffusion, or osmosis if it is water through a partially permeable membrane.
+
+**Do Core candidates need to use the term water potential?**
+No. In Cambridge IGCSE Biology 0610, water potential is Supplement-only language. Core candidates state that water moves by osmosis through a partially permeable membrane.
+
+**Which parts of Topic 3 are Supplement content?**
+Diffusion has no Supplement-only content. The Supplement content is describing osmosis in terms of water potential, explaining plant cell changes using turgid, turgor pressure, plasmolysis and flaccid, and explaining the importance of active transport, including protein carriers.

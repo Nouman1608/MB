@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "bioenergetics-oxfordaqa-igcse-biology"
-description: "Photosynthesis, exchange and transport in plants, human circulation, digestion, breathing and respiration -- the six sub-topics of Bioenergetics in OxfordAQA International GCSE Biology (9201)."
+description: "Photosynthesis, plant transport, human circulation, digestion, breathing and respiration, covering the Bioenergetics topic of OxfordAQA IGCSE Biology 9201."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 2 Bioenergetics**, one of the six topics of
@@ -229,6 +231,19 @@ candidate.
   <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the symbol equation for photosynthesis in OxfordAQA 9201?**
+6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, with light required. Light is absorbed by chlorophyll in chloroplasts.
+
+**What does "B" mean in the OxfordAQA 9201 Bioenergetics topic?**
+Content marked B, such as pacemakers, stents, valve replacement, artificial hearts and mechanical ventilators, is examined in Biology only and is not shared with Combined Science. It is still compulsory, because 9201 is linear and untiered.
+
+**How do plants use the glucose made in photosynthesis?**
+Glucose is used in respiration, stored as starch, converted to fats or oils, used to make cellulose, and combined with nitrate ions from the soil to make proteins.
+
+**How do you identify the limiting factor in a photosynthesis question?**
+Decide which of light, temperature or carbon dioxide is in short supply in that specific scenario, rather than listing all three. For example, on a bright but cold morning, temperature is the likely limiting factor.
 
 ## Official syllabus
 
@@ -244,4 +259,3 @@ OxfordAQA International GCSE Biology (9201) specification, Version 5.2
   <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-bioenergetics--02-heart-valve-faulty.webp" width="900" height="700" alt="Three vessels show a healthy valve whose flaps meet and block backflow, a faulty valve with a gap that leaks blood back, and a replacement valve that closes fully again." loading="lazy">
   <figcaption>A faulty valve lets blood leak backwards; a replacement valve stops it (B content).</figcaption>
 </figure>
-

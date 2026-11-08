@@ -22,11 +22,13 @@ syllabusTopics:
 description: "Condensed recall notes on diffusion, osmosis and active transport, with the Core/Supplement split, for Cambridge IGCSE Biology (0610)."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -188,3 +190,17 @@ permeable membranes by osmosis, moving into and out of cells through the cell me
 area, temperature, concentration gradient, and distance. 4. Because diffusion has no Supplement-only
 content — the same statements apply at both Core and Extended tier. 5. Turgid, turgor pressure,
 plasmolysis and flaccid.
+
+## Frequently asked questions
+
+**What is the difference between diffusion and active transport?**
+Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration, down a gradient, and needs no energy from the cell. Active transport moves particles against a concentration gradient using energy from respiration.
+
+**What is osmosis in Cambridge IGCSE Biology 0610?**
+At Core level, osmosis is water diffusing through a partially permeable membrane. Supplement candidates describe it as the net movement of water molecules from a region of higher water potential to a region of lower water potential through a partially permeable membrane.
+
+**Is there any Supplement-only content for diffusion?**
+No. In Cambridge IGCSE Biology 0610, diffusion is all Core. The Supplement content in this topic is in osmosis (water potential and the plant cell terms) and active transport (its importance and protein carriers).
+
+**What supplies the energy for active transport?**
+The energy for active transport comes from respiration. Supplement candidates also state that protein carriers move the molecules or ions across the membrane.

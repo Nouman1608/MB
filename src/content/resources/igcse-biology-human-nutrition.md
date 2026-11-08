@@ -25,14 +25,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "absorption-cambridge-igcse-biology"
-description: "Diet, the alimentary canal, physical and chemical digestion, enzymes and absorption, with the Core and Supplement split marked exactly as the official syllabus states it -- the full content of Topic 7 for Cambridge IGCSE Biology 0610, 2026-2028 series."
+description: "Diet, the alimentary canal, physical and chemical digestion, enzymes and absorption, with Core and Supplement content marked, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Topic 7 of Cambridge IGCSE Biology (0610) covers what a balanced diet
@@ -249,6 +251,20 @@ correctly: the structure of villi, microvilli and lacteals is
 Supplement content, so it is examined only on the Extended papers
 (Papers 2 and 4); Core candidates take Papers 1 and 3, which the
 syllabus bases on the Core subject content only.
+
+## Frequently asked questions
+
+**What is the difference between physical and chemical digestion?**
+Physical digestion breaks food into smaller pieces without chemical change, which increases the surface area for enzymes. Chemical digestion breaks large, insoluble molecules into small, soluble molecules using enzymes.
+
+**What does amylase break starch down into?**
+Core candidates state that amylase breaks starch down to simple reducing sugars. Supplement candidates must be precise: amylase produces maltose, and maltase at the epithelium lining of the small intestine breaks maltose down to glucose.
+
+**Where is water absorbed in the alimentary canal?**
+Most water is absorbed from the small intestine, with some also absorbed from the colon.
+
+**Why do pepsin and trypsin work in different parts of the gut?**
+Pepsin is a protease that works in the acidic conditions of the stomach, and trypsin is a protease that works in the alkaline conditions of the small intestine. Bile neutralises the acidic stomach contents so intestinal enzymes can work. This is Supplement content.
 
 ## Official syllabus
 
