@@ -182,6 +182,20 @@ Opening credit balances on the credit side [1]; opening debit balances on the de
 - Take a [free diagnostic](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you approach a control account question in OxfordAQA IGCSE Accounting 9215?**
+Decide first whether it is a receivables or a payables control account, write the opening balances on the correct side, then post each total from the question before finding the closing balance as the balancing figure. Labelling every entry clearly helps the marker award each line.
+
+**Which section of the OxfordAQA 9215 specification covers control accounts?**
+Trade receivables and trade payables ledger control accounts are part of section 3.2, Verification of accounting records, alongside the trial balance and the bank reconciliation statement.
+
+**Why should you label every entry in a control account answer?**
+Each line of a control account is usually a separate total from the question, so naming every entry and showing its amount lets each correct line be credited even if the closing balance is wrong. It also makes it easier to spot an item placed on the wrong side.
+
+**What is a contra entry in control accounts?**
+A contra entry sets off an amount a trader owes the business against an amount the business owes the same trader. It is recorded in the general journal and then in both control accounts, reducing the balances on each.
+
 ## Official syllabus
 
 These questions are based on the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, section 3.2, Verification of accounting records, published by OxfordAQA.

@@ -19,10 +19,12 @@ syllabusTopics:
 description: "Original practice questions for Cambridge IGCSE Biology 0610 topic 15 (Drugs), covering antibiotics, resistance data and MRSA, with mark-by-mark answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,6 +175,20 @@ Before you start, you may want the [Drugs study guide](/resources/igcse-biology-
 - Go to the [Cambridge IGCSE Biology course hub](/boards/cambridge/igcse/biology/) and the [printable checklist](/checklists/cambridge/igcse/biology/).
 - Try [all free 10-minute diagnostics](/diagnostics/), including the 0610 [Core](/practice/0610/diagnostic/core/) and [Extended](/practice/0610/diagnostic/extended/) ones.
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which parts of the Drugs topic are Extended only in Cambridge IGCSE Biology 0610?**
+Only 15.1.5, explaining how using antibiotics only when essential can limit the development of resistant bacteria such as MRSA, is Extended (Supplement) content. The other learning outcomes in topic 15 are Core, which Extended candidates must also know.
+
+**How do you describe a trend in antibiotic resistance data?**
+State the overall direction of the change and quote data, such as the starting and finishing values with their units. When sample sizes differ, compare percentages rather than raw numbers.
+
+**Why should you write "bacteria" rather than "germs" in drugs answers?**
+Antibiotics act on bacteria, not on viruses or pathogens in general, so vague words such as "germs" or "microbes" do not show which organism is affected. Naming bacteria precisely is what makes the answer creditworthy.
+
+**How should you answer a six-mark "Explain" question on this topic?**
+Write separate, full-sentence points, each making one creditworthy idea, and link them in a logical order. Repeating the same idea in different words does not add extra marks.
 
 ## Official syllabus
 

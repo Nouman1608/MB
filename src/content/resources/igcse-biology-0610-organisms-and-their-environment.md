@@ -28,10 +28,12 @@ syllabusTopics:
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 19: energy flow, food webs, ecological pyramids, carbon and nitrogen cycles, and population growth."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 19, Organisms and their environment, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers syllabus sections 19.1 to 19.4: energy flow, food chains and food webs, nutrient cycles and populations. Everything here is Core unless it is labelled **Extended only** (Supplement content). Core candidates are examined on Papers 1 and 3; Extended candidates sit Papers 2 and 4, which test Core and Supplement content together.
@@ -283,6 +285,20 @@ Read values carefully from the axes, show the subtraction, and give the unit (in
 ## Where to go next
 
 Condense this into the [revision notes](/resources/igcse-biology-0610-organisms-and-their-environment-revision-notes/), then try the [practice questions](/resources/igcse-biology-0610-organisms-and-their-environment-practice/).
+
+## Frequently asked questions
+
+**What is the difference between a food chain and a food web?**
+A food chain shows the transfer of energy from one organism to the next, beginning with a producer. A food web is a network of interconnected food chains.
+
+**Why is a pyramid of biomass often more useful than a pyramid of numbers?**
+A pyramid of biomass takes account of the size of the organisms, so one large producer such as a tree does not give a misleading narrow base as it would in a pyramid of numbers.
+
+**Is energy recycled in an ecosystem?**
+No. Energy enters an ecosystem as light, passes along food chains and eventually leaves as heat, so it is not recycled. Nutrients such as carbon and nitrogen, by contrast, are recycled.
+
+**What is the difference between a population and a community?**
+A population is a group of organisms of one species living in the same area at the same time. A community is all of the populations of different species in an ecosystem.
 
 ## Official syllabus
 

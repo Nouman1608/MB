@@ -25,10 +25,12 @@ syllabusTopics:
 description: "Uses of energy, aerobic and anaerobic respiration, the yeast temperature investigation and oxygen debt, taught in steps for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches Topic 12, Respiration, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 12.1 (Respiration), 12.2 (Aerobic respiration) and 12.3 (Anaerobic respiration). Core content is examined on Papers 1 and 3; Core plus Supplement is examined on Papers 2 and 4. Content marked **Extended only** is Supplement content: the balanced chemical equations and oxygen debt.
@@ -246,6 +248,20 @@ A full answer links each observation to its own job. "She needs to get her breat
 ## Next steps
 
 Condense this guide with the [respiration revision notes](/resources/igcse-biology-0610-respiration-revision-notes/), then try the [respiration practice questions](/resources/igcse-biology-respiration-practice/). Revisit [gas exchange](/resources/igcse-biology-0610-gas-exchange-in-humans/) for how oxygen reaches the blood, and tick off each outcome on the [Biology checklist](/checklists/cambridge/igcse/biology/).
+
+## Frequently asked questions
+
+**What is the word equation for anaerobic respiration in yeast?**
+In yeast, glucose → alcohol (ethanol) + carbon dioxide. Extended candidates also need the balanced equation, C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂.
+
+**What is the word equation for anaerobic respiration in muscles?**
+In muscles during vigorous exercise, glucose → lactic acid. No carbon dioxide is produced in this reaction.
+
+**What is the balanced equation for aerobic respiration?**
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O. Extended candidates need correct formulae and correct numbers for full credit.
+
+**How is an oxygen debt removed after exercise?**
+The heart rate stays fast to carry lactic acid in the blood from the muscles to the liver, breathing stays deeper and faster to supply oxygen, and the lactic acid is broken down by aerobic respiration in the liver. This is Extended only in Cambridge IGCSE Biology 0610.
 
 ## Official syllabus
 

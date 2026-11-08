@@ -222,6 +222,19 @@ For a contra of 940, the general journal shows: debit the trader's account in th
   <figcaption>The payables control account is laid out on the opposite sides to the receivables account.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is a trade receivables ledger control account?**
+It is a summary account showing the totals of all transactions with credit customers for a period: opening balances, credit sales, receipts, returns, discounts allowed, irrecoverable debts and contras. Its closing balance should equal the total of the individual customer accounts.
+
+**Is a control account part of the double-entry system?**
+In OxfordAQA IGCSE Accounting 9215, control accounts are treated as memorandum records. They check the accuracy of the ledger and give a quick total of amounts owed, rather than forming part of the double entry.
+
+**Does an agreeing control account prove the ledger is correct?**
+No. Some errors do not affect the totals, such as a receipt posted to the wrong customer's account, so the control account balance and the list of balances can still agree while an individual account is wrong.
+
+**How do you find a missing figure such as credit sales using a control account?**
+Enter all the known figures in the control account, including the opening and closing balances, and the missing item is the amount needed to make the two sides total the same.
 
 ## Official syllabus
 

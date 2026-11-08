@@ -348,6 +348,20 @@ The specification asks you to comment, so numbers alone do not earn full credit.
 - Valuing inventory at selling price or at cost when net realisable value is lower.
 - Forgetting that net profit is added to capital and drawings deducted.
 
+## Frequently asked questions
+
+**Which accounting concepts explain the year-end adjustments?**
+Accruals explains expenses owing and paid in advance, depreciation draws on going concern, historic cost and consistency, prudence explains irrecoverable debts, provisions for doubtful debts and valuing inventory at the lower of cost and net realisable value, and business entity explains treating goods taken by the owner as drawings.
+
+**How do you calculate profit or loss on disposal of a non-current asset?**
+Compare the net book value of the asset (cost less accumulated depreciation) with the proceeds of sale. If proceeds exceed net book value there is a profit on disposal; if they are lower there is a loss, which is shown in the income statement.
+
+**What are the advantages of a limited company over a sole trader?**
+A limited company gives its shareholders limited liability, can raise larger amounts of capital through shares and loans, and continues if an owner leaves. A sole trader keeps all the profit and makes quick decisions alone, but has unlimited liability and limited sources of finance.
+
+**What should you write when asked to comment on a sole trader's financial statements?**
+Use the figures to make a judgement, for example comparing gross and net profit margins or comparing drawings with net profit. If drawings exceed net profit, the owner's capital falls, which is a point a marker would expect you to state and explain.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.4, for exams from May/June 2026 onwards. Published by OxfordAQA.

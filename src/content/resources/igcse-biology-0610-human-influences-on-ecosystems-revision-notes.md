@@ -28,10 +28,12 @@ syllabusTopics:
 description: "Condensed revision notes for 0610 Human influences on ecosystems: food supply, deforestation, pollution, eutrophication steps, conservation and self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense topic 20, Human influences on ecosystems, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028 (sections 20.1 to 20.4) for your final weeks of revision. Supplement content is marked **Extended only**; Core candidates (Papers 1 and 3) can skip it, while Extended candidates (Papers 2 and 4) need all of it. For full explanations and worked examples, use the [Human influences on ecosystems study guide](/resources/igcse-biology-0610-human-influences-on-ecosystems/).
@@ -228,6 +230,20 @@ Also useful: the [IGCSE Biology hub](/boards/cambridge/igcse/biology/), the [061
 - Dividing by the new value, not the original, in percentage-change calculations.
 - Answering a plastics question with aquatic effects only when the question asks about terrestrial ecosystems too; give points for each ecosystem named.
 - Saying intensive livestock production is an advantage because it gives "more meat" without linking it to less energy lost in movement and keeping warm.
+
+## Frequently asked questions
+
+**What are the six steps of eutrophication in Cambridge IGCSE Biology 0610?**
+Increased availability of nitrate and other ions leads to increased growth of producers such as algae. When they die there is more decomposition, so aerobic respiration by decomposers increases, dissolved oxygen falls, and organisms that need dissolved oxygen, such as fish, die. This explanation is Extended only.
+
+**What is a sustainable resource?**
+A sustainable resource is one that is produced as rapidly as it is removed from the environment, so that it does not run out.
+
+**Why is a very small population at risk of extinction?**
+A very small population has reduced genetic variation, so it is less likely to contain individuals with alleles that help them survive a change in the environment or a new disease.
+
+**How does artificial insemination help captive breeding?**
+Sperm is collected from a male and placed into a female. Because sperm can be frozen and transported between zoos, animals do not need to be moved and males from different populations can be used.
 
 ## Official syllabus
 

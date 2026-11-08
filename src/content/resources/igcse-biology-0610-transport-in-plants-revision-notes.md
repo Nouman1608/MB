@@ -28,10 +28,12 @@ syllabusTopics:
 description: "Condensed revision notes on xylem, phloem, root hairs, transpiration, wilting and sources and sinks, with a self-test, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense topic 8, Transport in plants, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: sections 8.1 (Xylem and phloem), 8.2 (Water uptake), 8.3 (Transpiration) and 8.4 (Translocation). Anything marked **Extended only** is Supplement content, examined on Papers 2 and 4, not Papers 1 and 3; all of 8.4 is Extended only. For full explanations and worked examples, use the [transport in plants study guide](/resources/igcse-biology-0610-transport-in-plants/).
@@ -255,6 +257,20 @@ A part can be a source at one time and a sink at another because its role depend
 - (Extended) Saying wind "dries the leaf" with no concentration gradient.
 - (Extended) Explaining wilting without the words turgor pressure and flaccid.
 - (Extended) Defining a sink as only a store, forgetting "uses".
+
+## Frequently asked questions
+
+**What is the difference between xylem and phloem?**
+Xylem carries water and mineral ions up from the roots and helps support the plant. Phloem carries sucrose and amino acids from sources to sinks, which is called translocation.
+
+**What is the pathway of water through a plant?**
+Water moves from the soil into root hair cells, across the root cortex cells to the xylem, up the xylem to the leaves, then into the mesophyll cells. It evaporates from the mesophyll cells and leaves through the stomata as water vapour.
+
+**Which transpiration factors are Core and which are Extended in Cambridge IGCSE Biology 0610?**
+Core candidates describe the effects of temperature and wind speed on transpiration. Humidity is Extended only, and Extended candidates must also explain each effect.
+
+**Why do plants wilt?**
+A plant wilts when it loses water by transpiration faster than it takes it up. Its cells lose water and turgor pressure, so the leaves and stems droop. Wilting is Extended content.
 
 ## Official syllabus
 

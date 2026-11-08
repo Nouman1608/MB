@@ -231,6 +231,20 @@ The topic-level [Reproduction practice questions](/resources/igcse-biology-repro
 - [All free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of sex hormones and STIs are Extended only in Cambridge IGCSE Biology 0610?**
+Outcomes 16.5.3 and 16.5.4, on the hormones that control the menstrual cycle and pregnancy, are Supplement content. Section 16.6 on sexually transmitted infections is Core only.
+
+**How should you explain how an STI control measure works?**
+Name the measure and then say how it stops body fluids, and so the pathogen, passing from one person to another. Naming a measure such as condoms without the explanation does not earn the full marks.
+
+**Should you write that "the uterus breaks down" during menstruation?**
+No. It is the lining of the uterus that breaks down, so write "the uterus lining breaks down". The uterus itself stays intact.
+
+**Do you need units when you give a rate from data?**
+Yes. A rate is a change divided by time, so it needs a unit such as cases per year. Giving a rate without a unit is a common way to lose a mark.
+
 ## Official syllabus
 
 Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028 (Version 3), Cambridge Assessment International Education, part of Cambridge University Press & Assessment. Topic 16 Reproduction, sections 16.5 Sex hormones in humans and 16.6 Sexually transmitted infections.

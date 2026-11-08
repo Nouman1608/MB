@@ -28,10 +28,12 @@ syllabusTopics:
 description: "Condensed Cambridge IGCSE Biology 0610 inheritance notes: definitions, genetic diagram method, Core and Extended split and a quick self-test with answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked genetic diagrams, use the [Inheritance study guide](/resources/igcse-biology-0610-inheritance/). These notes are for the final weeks.
@@ -227,6 +229,20 @@ Cross the dominant-phenotype organism with a **homozygous recessive**. All offsp
 - Writing sex-linked genotypes without X and Y, or putting an allele on the Y chromosome.
 - Saying mitosis produces gametes in humans, or that meiosis gives identical cells.
 - Describing mRNA as "the gene leaving the nucleus". The gene stays in the nucleus; mRNA is a copy.
+
+## Frequently asked questions
+
+**What is the difference between a gene and an allele?**
+A gene is a length of DNA that codes for a protein. An allele is an alternative form of a gene, so one gene can have several alleles.
+
+**What is the difference between genotype and phenotype?**
+Genotype is the genetic make-up of an organism in terms of the alleles present, written as letters. Phenotype is the observable features of the organism.
+
+**Does a 3 : 1 ratio mean a 1 in 3 chance?**
+No. A 3 : 1 ratio means that out of four offspring, one is expected to show the recessive phenotype, so the probability is 1 in 4 (25%), not 1 in 3.
+
+**What does pure-breeding mean in genetics?**
+Pure-breeding describes two identical homozygous individuals that breed together and produce offspring with the same genotype. A heterozygous individual is not pure-breeding.
 
 ## Official syllabus
 

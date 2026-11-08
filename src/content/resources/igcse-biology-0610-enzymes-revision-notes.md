@@ -19,10 +19,12 @@ syllabusTopics:
 description: "Condensed revision notes for Cambridge IGCSE Biology 0610 Enzymes, with Core and Extended answer templates, rate calculations and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked investigations, read the [enzymes study guide](/resources/igcse-biology-0610-enzymes/) first. These notes are for quick recall in the final weeks.
@@ -242,6 +244,20 @@ When a question asks for improvements or sources of error, choose points that fi
 - Not warming the enzyme and substrate separately before mixing, so the reaction starts at the wrong temperature.
 - Inverting the rate: using time ÷ 1000, or saying a longer time means a faster reaction.
 - Forgetting a control (boiled enzyme) when planning an investigation.
+
+## Frequently asked questions
+
+**What is an enzyme in Cambridge IGCSE Biology 0610?**
+An enzyme is a protein that acts as a biological catalyst, increasing the rate of a chemical reaction without being changed by it. Without enzymes, metabolic reactions would be too slow to sustain life.
+
+**What happens to an enzyme above its optimum temperature?**
+The enzyme becomes denatured: its active site changes shape, so the substrate no longer fits and fewer enzyme-substrate complexes form. The rate of reaction falls, and denaturation is not reversed by cooling.
+
+**Why should you never say an enzyme is "killed"?**
+Enzymes are proteins, not living organisms, so they cannot die. The correct term is denatured, which means the shape of the active site has changed.
+
+**How do you calculate the rate of an enzyme reaction from time taken?**
+When a reaction is timed to an end point, rate can be calculated as 1000 divided by the time in seconds. A shorter time to reach the end point means a faster rate.
 
 ## Official syllabus
 

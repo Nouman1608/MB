@@ -291,6 +291,20 @@ Gross profit is 38.25% of revenue and net profit is about 12.9%. On the statemen
 - Giving a list of features with no link to the business in the question.
 - Stating a figure when asked to comment, without saying what it means.
 
+## Frequently asked questions
+
+**What adjustments are made to a sole trader's final accounts?**
+The usual adjustments are accruals and prepayments of expenses and income, depreciation of non-current assets, irrecoverable debts, the provision for doubtful debts, closing inventory and goods taken for own use. Each one changes a figure in the income statement and a matching figure in the statement of financial position.
+
+**What is the difference between an irrecoverable debt and a provision for doubtful debts?**
+An irrecoverable debt is one that will not be paid, so it is written off as an expense and removed from trade receivables. A provision for doubtful debts is an estimate of debts that may not be paid; only the increase or decrease in the provision is charged or credited to the income statement.
+
+**Are FIFO, AVCO and LIFO examined in OxfordAQA IGCSE Accounting 9215?**
+No. The specification states that FIFO, AVCO and LIFO inventory valuation methods are not examined, so closing inventory is valued at the lower of cost and net realisable value using the figures given.
+
+**How does a service business's income statement differ from a trading business's?**
+A service business sells services rather than goods, so it has no inventory, no cost of sales and no gross profit. Its income statement starts with fees or revenue and deducts expenses directly to find the profit for the year.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.4, for exams from May/June 2026 onwards. Published by OxfordAQA.
