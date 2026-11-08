@@ -13,6 +13,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "monitoring-and-control"
+  - qualification: "a-level"
+    topic: "monitoring-and-control"
+    subtopic: "monitoring-and-measurement-technologies"
+  - qualification: "a-level"
+    topic: "monitoring-and-control"
+    subtopic: "control-technologies"
 description: "Condensed recall notes on sensors, calibration, actuators, and microprocessor-controlled systems for Cambridge International AS & A Level Information Technology (9626), Topic 3."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
