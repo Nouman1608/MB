@@ -96,6 +96,12 @@ The same magnitude of event produces very different outcomes in a high-income an
 
 Management uses the four Ps: prediction, protection, preparation and planning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--01-phys-plate-margins.webp" width="900" height="949" alt="Four small cross-sections, not to scale. Constructive: two plates move apart with a shield volcano at the gap. Destructive: an oceanic plate dives under a continental plate with a composite volcano on land. Collision: two continental plates push together to make fold mountains with no volcano. Conservative: two plates slide past each other, seen from above, with no volcano." loading="lazy">
+  <figcaption>Plate margins decide the hazard: volcanoes occur at constructive and destructive margins only; collision and conservative margins give none.</figcaption>
+</figure>
+
+
 ## Weather hazards
 
 **Tropical storms** form over oceans above about 27 degrees Celsius, between 5 and 30 degrees latitude, where warm moist air rises, condenses and releases latent heat. The Coriolis effect gives the rotation. Their structure — eye, eyewall, spiralling rainbands — should be described and explained, not merely labelled.
@@ -103,6 +109,17 @@ Management uses the four Ps: prediction, protection, preparation and planning.
 Effects come from wind, storm surge and flooding; management again follows prediction, protection, preparation and planning.
 
 Climate change is expected to increase the intensity and distribution of such storms as ocean temperatures rise. Its causes divide into **natural** (orbital cycles, solar output variation, volcanic ash and aerosols) and **human** (burning fossil fuels, deforestation, livestock and rice agriculture, industry and cement production), working through the **enhanced greenhouse effect** as rising gas concentrations trap more outgoing radiation. Responses divide the same way exam mark schemes divide them: **mitigation** reduces the causes (renewable energy, afforestation, carbon capture, international agreements), while **adaptation** copes with the effects already locked in (flood defences, drought-resistant crops, managed retreat). Placing a strategy in the wrong category is one of the most common marks lost on this topic — planting trees is mitigation, building a sea wall is adaptation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--02-phys-tropical-storm.webp" width="900" height="1060" alt="Top: a tropical storm seen from above with a calm eye at the centre, a ring called the eyewall around it, and spiralling rainbands outside. Bottom: a side view over warm sea. Warm moist air rises, condenses into cloud, and releases latent heat. Tall clouds stand either side of the eye and lower rainband clouds lie farther out." loading="lazy">
+  <figcaption>A tropical storm forms over warm sea: warm moist air rises, condenses and releases latent heat, and the Coriolis effect gives the spin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--03-phys-mitigation-adaptation.webp" width="900" height="960" alt="Two columns. Mitigation reduces the causes of climate change: renewable energy, afforestation, carbon capture, international agreements. Adaptation copes with effects already locked in: flood defences, drought-resistant crops, managed retreat. A note says planting trees is mitigation and building a sea wall is adaptation." loading="lazy">
+  <figcaption>Mitigation reduces the causes of climate change; adaptation copes with its effects. Putting a strategy in the wrong column is a common lost mark.</figcaption>
+</figure>
+
 
 ## Ecosystems
 
@@ -114,6 +131,12 @@ A food chain runs producer to primary consumer to secondary consumer, with decom
 
 **Deforestation** is driven by logging, cattle ranching, commercial farming, mineral extraction, road building, hydroelectric schemes and population pressure. Its impacts include biodiversity loss, soil erosion, a disrupted water cycle, reduced carbon storage and the displacement of indigenous communities — set against genuine benefits in employment, export revenue and development, which a top-band answer weighs on both sides before reaching a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--04-phys-rainforest-nutrients.webp" width="900" height="940" alt="Top: intact rainforest with a closed canopy, a liana, an epiphyte and buttress roots. Most nutrient dots sit in the trees (biomass) and only a few in the thin soil. Bottom: cleared land with the trees gone. The biomass store has gone and only a few nutrient dots remain in the soil, so the land becomes infertile within a few growing seasons." loading="lazy">
+  <figcaption>In rainforest the nutrients are held in the biomass, not the soil, so cleared land becomes infertile within a few growing seasons.</figcaption>
+</figure>
+
+
 ## Rivers and coasts
 
 Coastal landscapes are compulsory; river landscapes are one of the two
@@ -124,6 +147,22 @@ Erosion works by **hydraulic action, abrasion, attrition and solution**; transpo
 River landforms progress downstream: waterfalls and gorges in the upper course, meanders and ox-bow lakes in the middle, floodplains, levees and estuaries in the lower. Coastal landforms divide into erosional — headlands and bays, caves, arches, stacks, stumps, wave-cut platforms — and depositional — beaches, spits, bars.
 
 Management is compared as **hard engineering** (dams, sea walls, groynes: effective but costly and visually intrusive) against **soft engineering** (beach nourishment, managed retreat, afforestation: cheaper and more sustainable but slower and less certain).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--05-phys-river-landforms.webp" width="900" height="945" alt="Three rows for the upper, middle and lower course. Upper: a side view of a waterfall dropping into a gorge. Middle: a view from above of a meandering river with an ox-bow lake beside it. Lower: a cross-section of a floodplain with levees either side of the channel, and a view from above of an estuary widening towards the sea. All schematic." loading="lazy">
+  <figcaption>Landforms appear in order downstream: waterfalls and gorges, then meanders and ox-bow lakes, then floodplains, levees and estuaries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--06-phys-coast-erosion-landforms.webp" width="900" height="760" alt="Five side-view sketches in order. 1 Headland: a block of rock meeting the sea. 2 Cave: a dark hollow cut at the base. 3 Arch: the hollow cut right through so the sea shows beneath a rock bridge. 4 Stack: a lone pillar of rock standing in the sea. 5 Stump: a low remnant just above the water." loading="lazy">
+  <figcaption>Erosional coastal landforms in sequence: headland, cave, arch, stack, stump.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--07-phys-hard-soft-engineering.webp" width="900" height="900" alt="Two side views. Hard engineering: a concrete sea wall stopping waves at the back of a beach; effective but costly and visually intrusive. Soft engineering: extra sand added to the beach so it absorbs the waves; cheaper and more sustainable but slower and less certain." loading="lazy">
+  <figcaption>Hard engineering builds a structure against the sea; soft engineering works with natural processes. Compare the strengths and weaknesses of each.</figcaption>
+</figure>
+
 
 ## Worked example
 

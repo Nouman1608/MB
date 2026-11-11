@@ -68,9 +68,21 @@ Tally each letter and count.
 
 The total is 14 + 11 + 9 + 6 = 40, which matches the number of customers, so no observation was missed or counted twice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--14-charts-tally.webp" width="900" height="836" alt="The 40 raw drink letters are tallied into a frequency table: tea 14, coffee 11, juice 9, water 6, total 40." loading="lazy">
+  <figcaption>Tally in groups of five, then check the total matches the number of observations.</figcaption>
+</figure>
+
+
 ### Two-way tables
 
 A two-way table classifies each observation by two features at once. Row totals, column totals and the grand total must all agree. The grand total is found by adding the row totals or the column totals, and both must give the same number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--15-charts-twoway.webp" width="900" height="698" alt="A boys and girls by sport table with the worked-out cells numbered in order; the girls row is outlined as the base for 30 out of 70 = 42.9%." loading="lazy">
+  <figcaption>Fill a two-way table using row and column totals, and choose the correct base for percentages.</figcaption>
+</figure>
+
 
 ### Worked example 2: completing a two-way table
 
@@ -108,6 +120,12 @@ Divide each value by 8.
 | Fri | 28 ÷ 8 | 3½ |
 
 Draw the rows with a label, the symbols and the key. To read a pictogram, multiply the number of symbols by the key value: 3½ symbols represent 3.5 × 8 = 28. Choose a key that gives whole or half symbols for your data. A key of 10 would make 36 and 12 hard to draw accurately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--16-charts-pictogram.webp" width="900" height="710" alt="Bicycle repairs on five days drawn with symbols, key one symbol = 8 bicycles, half symbols for 4." loading="lazy">
+  <figcaption>Divide each value by the key to find the number of symbols.</figcaption>
+</figure>
+
 
 ## 2.2 Pie charts
 
@@ -155,6 +173,17 @@ Angles for 2025 (360° ÷ 900 = 0.4° per tonne): 180°, 90°, 54°, 36°. Total
 
 Each pie uses its own total. The recycling sector is 144° in 2024 and 180° in 2025, so its share rose from 40% to 50%. The larger 2025 circle shows that the total is bigger as well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--17-charts-pie.webp" width="900" height="810" alt="Pie chart with angles 120, 96, 72, 48 and 24 degrees for 45 pupils at 8 degrees each." loading="lazy">
+  <figcaption>Angle = frequency over total times 360; angles must add to 360.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--18-charts-comp-pie.webp" width="900" height="875" alt="Two pies for 400 and 900 tonnes with radii 2 cm and 3 cm and their sector angles." loading="lazy">
+  <figcaption>Radius is proportional to the square root of the total so that area follows the total.</figcaption>
+</figure>
+
+
 ## 2.2 Bar charts
 
 A bar chart compares frequencies for separate categories. Bars have equal width, equal gaps and a common baseline at zero. The vertical axis needs an even scale, labelled with units, and each bar needs a label. The height of a bar is the frequency divided by the number of units per centimetre.
@@ -183,6 +212,17 @@ Scale: 1 cm for 4 absences. Heights in cm:
 | Fri | 22 ÷ 4 = 5.5 | 19 ÷ 4 = 4.75 |
 
 Totals are 76 and 64 absences. Draw each pair side by side with a key.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--19-charts-dual-bar.webp" width="900" height="820" alt="Paired bars for Term 1 and Term 2 absences on each weekday, with totals 76 and 64." loading="lazy">
+  <figcaption>A dual bar chart puts two bars side by side for each category.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--20-charts-stacked.webp" width="900" height="1170" alt="Theatre tickets as a sectional chart (totals 100, 150, 100) and a percentage chart where every bar is 100%." loading="lazy">
+  <figcaption>Sectional bars show totals; percentage bars compare proportions.</figcaption>
+</figure>
+
 
 ## 2.2 Sectional and percentage bar charts
 

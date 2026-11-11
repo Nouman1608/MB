@@ -107,6 +107,17 @@ the chemical does physiologically, and what specific behaviour that
 mechanism is proposed to explain — rather than naming a
 neurotransmitter as an isolated fact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--01-ibbio-maguire-hippocampus.webp" width="900" height="1060" alt="A side view of the brain with the hippocampus marked and its posterior part in gold. A bar chart shows taxi drivers with a taller bar of posterior hippocampal volume than controls. A scatter graph shows volume rising with years spent as a taxi driver. Bar heights and points are illustrative." loading="lazy">
+  <figcaption>Maguire et al. (2000): taxi drivers had larger posterior hippocampal volume, and volume correlated with years driving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--02-ibbio-maguire-correlational.webp" width="900" height="980" alt="Two possible explanations for larger hippocampi in taxi drivers. Explanation A: driving a taxi causes the hippocampus to grow, which is neuroplasticity. Explanation B: people with naturally larger posterior hippocampi become and stay taxi drivers. A note says drivers were not randomly assigned to the job, so B cannot be ruled out." loading="lazy">
+  <figcaption>Because drivers were not randomly assigned, larger hippocampi could be a cause of becoming a taxi driver, not only a result.</figcaption>
+</figure>
+
+
 ### Hormones and pheromones and their effects on behaviour
 
 Revise hormones with the same two-part structure: what the hormone does
@@ -128,6 +139,12 @@ behaviour is also shaped by cognitive and social factors, and it is
 difficult to show that a single chemical, rather than expectation or
 context, produced an effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--03-ibbio-hormone-vs-pheromone.webp" width="900" height="1050" alt="Top: a hormone is released by a gland inside one body, travels in the bloodstream and acts on a target cell in the same body; cortisol from the adrenal glands is the example. Bottom: a pheromone is released by one moth and drifts to another moth of the same species; bombykol is the sex attractant of the female silkworm moth. A note says no human pheromone has been conclusively identified." loading="lazy">
+  <figcaption>A hormone acts inside the body that made it; a pheromone acts between individuals of the same species.</figcaption>
+</figure>
+
+
 ### The relationship between genetics and behaviour
 
 Understand the logic of twin and adoption study designs specifically:
@@ -139,6 +156,12 @@ biological and adoptive relatives to help separate genetic from
 environmental influence — explaining why these designs are used, not
 just that they exist, is what distinguishes a strong evaluative answer
 from a descriptive one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--04-ibbio-twin-adoption.webp" width="900" height="1070" alt="Top: a twin study compares the concordance rate of identical (monozygotic) twin pairs with non-identical (dizygotic) twin pairs to estimate a genetic contribution. Bottom: an adoption study compares an adopted person with both biological relatives and adoptive relatives, which helps separate genetic from environmental influence." loading="lazy">
+  <figcaption>Twin studies compare concordance in identical and non-identical twins; adoption studies compare adopted people with both biological and adoptive relatives.</figcaption>
+</figure>
+
 
 ### The role of animal research in understanding human behaviour (HL only)
 
@@ -158,6 +181,17 @@ frameworks apply the "3Rs" principle (replacement, reduction and
 refinement) when judging whether animal research is justified. For any
 animal study you use, be ready to argue how far it contributes to
 understanding *human* behaviour, not just what it found in animals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--06-ibbio-animal-why.webp" width="900" height="890" alt="Three reasons shown with pictures. One: a procedure would be unethical or impractical in humans, for example directly manipulating brain structures, hormone levels or genes. Two: researchers need close control over genes and environment. Three: a short lifespan lets effects be observed across generations." loading="lazy">
+  <figcaption>HL only: animals are studied when procedures would be unethical or impractical in humans, when close control is needed, or when generations can be observed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--07-ibbio-animal-balance.webp" width="900" height="970" alt="A balance with two sides. Value: controlled experiments that human research often cannot do, and neurotransmitter and hormone systems shared across mammals. Limits: species differences mean findings may not generalise to humans, and there are ethical questions about harm to animals. Below, the 3Rs: replacement, reduction and refinement." loading="lazy">
+  <figcaption>HL only: weigh the value and limits of animal research, and use the 3Rs to judge whether it is justified.</figcaption>
+</figure>
+
 
 ### Across all the topics
 
@@ -200,6 +234,12 @@ named behaviour, cites named evidence, and evaluates that evidence's
 limitations (a gene-environment interaction rather than a simple cause,
 and a contested replication record) — this is the structure Paper
 1's essay question rewards over a single unevaluated fact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--05-ibbio-gene-environment.webp" width="900" height="880" alt="Two inputs combine: a short variant of the 5-HTT gene, which affects serotonin transporter activity, and stressful life events. Together they led to individuals being more likely to develop depression, a gene-environment (diathesis-stress) interaction. A warning says later larger studies and meta-analyses, for example Risch et al. (2009), failed to replicate the finding." loading="lazy">
+  <figcaption>Caspi et al. (2003): the short 5-HTT variant raised depression risk only when stressful life events had also happened; the finding is disputed.</figcaption>
+</figure>
+
 
 ## Connecting to the internal assessment
 

@@ -65,6 +65,27 @@ Course links: [AQA A-level Psychology hub](/boards/aqa/a-level/psychology/), [AQ
 | Parasocial relationship | A one-sided relationship with a media figure who does not know you |
 | Absorption / addiction | Preoccupation with a celebrity to build identity / need for ever stronger involvement |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--17-rel-self-disclosure.webp" width="900" height="830" alt="A grid with breadth (range of topics) across and depth (how personal) upward. An arrow from low breadth and depth to high breadth and depth shows a relationship developing as disclosure increases. Below, two people exchange disclosure and understanding, which is reciprocity." loading="lazy">
+  <figcaption>Relationships develop as disclosure widens and deepens, and partners respond in kind.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--18-rel-matching-hypothesis.webp" width="900" height="980" alt="Two pulls act on a person choosing a partner: the wish for the most attractive partner possible pulls up, and the risk of rejection pulls down. The result is a realistic match: a partner of similar attractiveness. Separately, the halo effect: attractive faces are rated as having more desirable personality traits." loading="lazy">
+  <figcaption>People balance wanting the most attractive partner against the risk of rejection.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--20-rel-equity-theory.webp" width="900" height="850" alt="Three rows compare what a partner puts in with what they get out. Over-benefited: gets more than they give and may feel guilt. Equitable: the ratio feels balanced and partners are more satisfied. Under-benefited: gets less than they give and may feel anger and resentment; usually the more dissatisfied. Bar lengths are schematic." loading="lazy">
+  <figcaption>Equity is a fair ratio of input to output, not equal inputs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--24-rel-online-gating.webp" width="900" height="1020" alt="Face to face, gates such as appearance, shyness, a stammer or social anxiety can stop a relationship starting. Online, the gates are absent at first, and lonely or socially anxious people were more likely to form close online relationships (McKenna et al.). Deception is common but modest: most daters misreported height, weight or age by small amounts." loading="lazy">
+  <figcaption>Absence of gating removes early obstacles; profiles invite small deceptions.</figcaption>
+</figure>
+
+
 ## Theories and studies at a glance
 
 | Who | What | Finding or claim | One evaluation point |
@@ -86,6 +107,22 @@ Course links: [AQA A-level Psychology hub](/boards/aqa/a-level/psychology/), [AQ
 | McCutcheon et al. (2002) | Absorption addiction model | Absorption, then addiction, drives stronger involvement with a celebrity | Mostly correlational self-report |
 | Celebrity Attitude Scale (McCutcheon and colleagues) | Levels of parasocial relationship | Entertainment-social, intense-personal, borderline-pathological | Self-report measure |
 | Cole and Leets (1999) | Attachment explanation | Insecure-resistant most likely to form parasocial relationships | McCutcheon et al. (2006) found no link |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--19-rel-social-exchange.webp" width="900" height="915" alt="A balance with rewards (company, sex, support) outweighing costs (time, stress, money): profit is rewards minus costs. Two comparisons decide whether to stay: the comparison level, the reward we feel we deserve from past relationships and expectations, and the comparison level for alternatives, whether another relationship or being single would give more profit." loading="lazy">
+  <figcaption>We stay if the relationship gives enough profit and beats the alternatives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--22-rel-duck-phase-model.webp" width="900" height="940" alt="Five steps in order. Intra-psychic: one partner privately broods, thinking I can’t stand this any more. Dyadic: partners confront each other and may repair. Social: the breakdown becomes public and friends and family take sides. Grave dressing: each partner builds a story that protects their reputation. Resurrection, added later by Rollie and Duck, applies lessons to future relationships." loading="lazy">
+  <figcaption>Each phase is triggered when a threshold is reached; resurrection was added later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--23-rel-online-disclosure.webp" width="900" height="880" alt="Two opposite predictions. Reduced cues theory: online communication lacks facial expression and tone, leading to deindividuation and less self-disclosure. Hyperpersonal model: people choose what to reveal and have time to plan messages, so disclosure is faster and deeper. Joinson found more disclosure in computer-mediated conversation, supporting the hyperpersonal model." loading="lazy">
+  <figcaption>The two theories predict opposite effects on online self-disclosure.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -139,6 +176,12 @@ Course links: [AQA A-level Psychology hub](/boards/aqa/a-level/psychology/), [AQ
 11. Entertainment-social, intense-personal, borderline-pathological.
 12. Insecure-resistant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--25-rel-parasocial.webp" width="900" height="860" alt="A one-way arrow from a fan to a celebrity shows a one-sided relationship. Three rising levels: entertainment-social, intense-personal and borderline-pathological. The absorption-addiction model says needing ever stronger involvement can push a person up the levels. The attachment explanation predicts insecure-resistant people are more likely, and insecure-avoidant people less likely, to form parasocial relationships." loading="lazy">
+  <figcaption>A parasocial relationship is one-sided; the Celebrity Attitude Scale describes three levels.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing the matching hypothesis as "people go for partners who look like them". It is about similar levels of attractiveness.
@@ -167,6 +210,17 @@ Satisfaction, comparison with alternatives and investment. A person can be dissa
 
 **Which attachment type is most likely to form parasocial relationships?**
 The attachment theory explanation predicts that insecure-resistant people are most likely, because parasocial relationships meet unmet needs without the risk of rejection. Insecure-avoidant people are predicted to be less likely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--16-rel-filter-theory.webp" width="900" height="940" alt="A funnel narrowing from the field of availables through three filters in order: social demography, similarity in attitudes and complementarity, to the field of desirables. Similarity matters early on and complementarity later." loading="lazy">
+  <figcaption>Kerckhoff and Davis: three filters in a fixed order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--21-rel-investment-model.webp" width="900" height="780" alt="Three factors lead to commitment, which leads to staying together: high satisfaction, poor alternatives and large investment. Investments are intrinsic (time, effort, self-disclosure), extrinsic (shared friends, a home, children) and, added later, planned futures." loading="lazy">
+  <figcaption>Commitment, not satisfaction alone, predicts whether a relationship lasts.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

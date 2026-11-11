@@ -64,6 +64,17 @@ The specification prints the Paper 3 rules like this. Compulsory content is Issu
 
 **Worked paragraph.** *"Neophobia is a reluctance to eat unfamiliar food (AO1). It would explain why a toddler pushes away a new vegetable even though she is hungry (AO2). In the ancestral environment, a child who avoided unknown plants was less likely to be poisoned, so the trait was passed on (AO3 analysis). However, neophobia usually fades with repeated exposure, which shows that learning shapes how long it lasts (AO3 evaluation)."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--10-psy-innate-tastes.webp" width="900" height="690" alt="Six cards: sweet, salty, fat, bitter, sour and newborn reactions. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Each innate taste preference signals something useful or harmful.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--11-psy-taste-aversion.webp" width="900" height="960" alt="Chemotherapy ice cream example and the rat finding that taste, not light or sound, is linked to illness. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Taste aversion is prepared learning: taste links to illness easily.</figcaption>
+</figure>
+
+
 ## Explanations for food preferences: learning
 
 **Classical conditioning.** A flavour paired with something pleasant (calories, sweetness, a happy setting) becomes liked. A flavour paired with illness becomes disliked.
@@ -100,6 +111,17 @@ The specification prints the Paper 3 rules like this. Compulsory content is Issu
 
 **Worked paragraph.** *"Ghrelin from an empty stomach signals the hypothalamus to start eating (AO1). This explains why someone who skips breakfast feels very hungry before lunch (AO2). Cummings et al. (2001) found ghrelin rises before meals (AO3). However, people also eat at set times when not hungry, so hormones are only part of the story (AO3)."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--08-psy-ghrelin-leptin.webp" width="900" height="950" alt="Schematic: stomach releases ghrelin (more hunger), fat tissue releases leptin (less appetite), both signalling the hypothalamus. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Ghrelin from the stomach raises hunger; leptin from fat tissue lowers appetite.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--09-psy-dual-centre.webp" width="900" height="1050" alt="Schematic hypothalamus with LH (starts eating), VMH (stops eating) and arcuate nucleus, plus the two rat findings. Facts taken from the lesson text." loading="lazy">
+  <figcaption>LH damage stopped eating in rats; VMH damage led to overeating.</figcaption>
+</figure>
+
+
 ## Biological explanations for anorexia nervosa
 
 **Genetic.** Anorexia nervosa (AN) runs in families. Holland et al. (1988) found much higher concordance for AN in identical (MZ) twins than in non-identical (DZ) twins. Watson et al. (2019), a genome-wide association study, identified several gene locations linked to AN. It found genetic overlap with psychiatric traits and with metabolic traits, which suggests AN has both psychiatric and metabolic roots.
@@ -130,6 +152,17 @@ The specification prints the Paper 3 rules like this. Compulsory content is Issu
 
 **Worked paragraph.** *"SLT says thin ideals are modelled and weight loss is reinforced (AO1). A dancer praised by a coach for looking 'lighter' receives direct reinforcement (AO2). Becker et al. (2002) support a media effect (AO3), but most people exposed to such media never develop AN (AO3)."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--12-psy-family-systems.webp" width="900" height="940" alt="Enmeshed family, little autonomy, and restricting food as one area of control. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Family systems theory links enmeshment to a struggle for autonomy and control over food.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--13-psy-fiji-television.webp" width="900" height="830" alt="Bar chart: about 13% within a month of television arriving, about 29% three years later. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Girls above the eating-attitudes risk threshold rose after television arrived in Fiji.</figcaption>
+</figure>
+
+
 ## Biological explanations for obesity
 
 **Genetic.** Stunkard et al. (1986) found that adopted adults' weight was related to their biological parents' weight, not their adoptive parents'. Frayling et al. (2007) found adults with two copies of a higher-risk variant of the FTO gene were on average about 3 kg heavier than people with no copies. Obesity is polygenic: many genes each add a small risk.
@@ -155,6 +188,12 @@ The specification prints the Paper 3 rules like this. Compulsory content is Issu
 - *Limitation:* laboratory taste tests may not reflect everyday eating, so ecological validity is limited.
 
 **Worked paragraph.** *"The boundary model says that dieters set a diet boundary lower than their satiety boundary (AO1). A dieter who eats one biscuit at work may think the day is ruined and eat the whole packet (AO2). This shows disinhibition: crossing the self-set boundary removes cognitive control, so intake is governed only by satiety (AO3 analysis). Herman and Mack (1975) support this, but their laboratory taste test may lack ecological validity (AO3 evaluation)."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--14-psy-boundary-model.webp" width="900" height="850" alt="Two scales: non-dieter and dieter zones between hunger and satiety boundaries, with a diet boundary and keep-eating arrow. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Crossing the diet boundary leads a dieter to eat on to satiety.</figcaption>
+</figure>
+
 
 ## Common errors
 

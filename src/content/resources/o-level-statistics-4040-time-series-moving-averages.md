@@ -61,6 +61,12 @@ seen. The number of values in each average should equal the number of seasons
 in one cycle: a **4-point** moving average for quarterly data, a **3-point**
 moving average for data by school term, a **12-point** average for monthly data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-time-series-moving-averages--13-seasonal-vs-trend.webp" width="900" height="860" alt="A line graph of quarterly sales for 2023 to 2025 repeats a pattern each year, with the highest value in every fourth quarter (64, 68, 74) and the lowest in the third quarter. A dashed straight trend line underneath rises from 48.5 to 56.25." loading="lazy">
+  <figcaption>Quarterly sales repeat a seasonal pattern around an upward trend.</figcaption>
+</figure>
+
+
 ## 2. Calculating moving averages
 
 Average the first cycle of values, then move along one place and repeat.
@@ -72,6 +78,37 @@ Each average is plotted at the **middle** of the values it covers.
   periods (for quarterly data, between Q2 and Q3). To line the averages up with
   actual quarters, **centre** them: average each pair of neighbouring moving
   averages. This is the "centring, where appropriate" in the syllabus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-time-series-moving-averages--14-moving-average-window.webp" width="900" height="900" alt="Twelve quarterly sales values in a row. A window of four values is averaged and then slid one place at a time: 52, 40, 36, 64 give 48.0 between Q2 and Q3; 40, 36, 64, 56 give 49.0 between Q3 and Q4; 36, 64, 56, 44 give 50.0 between Q4 and Q1. Twelve quarters give nine averages from 48.0 to 57.0." loading="lazy">
+  <figcaption>A 4-point moving average averages four values, then moves along one place each time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-time-series-moving-averages--15-odd-even-points.webp" width="900" height="800" alt="Two schematic panels with no data. A 3-point average over terms T1 to T3 lands on T2, so no centring is needed. A 4-point average over quarters Q1 to Q4 lands between Q2 and Q3, so it must be centred." loading="lazy">
+  <figcaption>An odd-point average lands on a time period; an even-point average lands between two and needs centring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-time-series-moving-averages--16-centring.webp" width="900" height="800" alt="Three rows on a timeline from 2023 Q2 to 2024 Q2. Sales are 40, 36, 64, 56 and 44. The 4-point averages 48.0, 49.0, 50.0 and 51.0 sit between quarters. Averaging neighbouring pairs gives centred values 48.5 on 2023 Q3, 49.5 on 2023 Q4 and 50.5 on 2024 Q1." loading="lazy">
+  <figcaption>Centring: average each pair of neighbouring 4-point averages to place the result on a quarter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-time-series-moving-averages--17-trend-line.webp" width="900" height="860" alt="Quarterly sales in light grey with the eight centred moving averages marked as diamonds from 48.5 (2023 Q3) to 56.25 (2025 Q2). A straight trend line through them rises 7.75 over 7 quarters, about 1.1 per quarter." loading="lazy">
+  <figcaption>The trend line is drawn through the centred moving averages, not through the sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-time-series-moving-averages--18-seasonal-components.webp" width="900" height="890" alt="Bars show sales minus the centred moving average. Q1: +5.5 and +7.0, mean +6.25. Q2: −7.5 and −8.25, mean −7.875. Q3: −12.5 and −12.75, mean −12.625. Q4: +14.5 and +14.0, mean +14.25. Q4 is the strong quarter." loading="lazy">
+  <figcaption>The seasonal component is the mean of sales minus trend for each quarter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-time-series-moving-averages--19-time-series-prediction.webp" width="900" height="860" alt="The sales line with the trend line extended by a dashed line to 2026 Q1, where the trend value is about 59.6. Adding the Q1 seasonal component of +6.25 gives a prediction of about 66 thousand units." loading="lazy">
+  <figcaption>Predict by reading the trend value, then adding the seasonal component: about 66 thousand units for 2026 Q1.</figcaption>
+</figure>
+
 
 ## Worked example (quarterly data, with centring)
 

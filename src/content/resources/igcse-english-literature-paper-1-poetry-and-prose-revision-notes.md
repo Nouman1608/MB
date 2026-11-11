@@ -72,6 +72,12 @@ quotations, each unpacked for language, structure and effect, will
 consistently outscore six quotations that are each only briefly
 mentioned.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--10-p1-explore-depth.webp" width="900" height="790" alt="Six short single-layer columns for brief quotations contrast with three tall three-layer columns (language, structure, effect) for closely analysed ones; depth earns the marks." loading="lazy">
+  <figcaption>Explore means sustained detail on a few well-chosen moments.</figcaption>
+</figure>
+
+
 ## Structuring an answer around all four AOs
 
 Rather than writing one paragraph "about the content" and a
@@ -84,6 +90,17 @@ specific language or structural choice in that quotation, and closes
 by connecting it to the writer's likely intention or the reader's
 effect -- which naturally satisfies AO4 "by implication" without
 needing a separate, bolted-on opinion sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--09-p1-four-aos.webp" width="900" height="760" alt="Four steps AO1 to AO4: what happens, what it reveals, how it is achieved, your response. A dashed line after AO2 marks where accurate but descriptive answers stop." loading="lazy">
+  <figcaption>Push beyond AO1 and AO2 into the writer’s methods and your own response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--11-p1-paragraph.webp" width="900" height="880" alt="Four linked steps: a point, a short exact quotation, analysis of language or structure, and a link to intention or effect. A crossed-out I think bubble shows personal response should not be bolted on." loading="lazy">
+  <figcaption>Fold the objectives into one paragraph rather than boxing them separately.</figcaption>
+</figure>
+
 
 ## Quotation and timing
 
@@ -134,8 +151,25 @@ situations and themes (AO2), the writer's methods and use of language (AO3), and
 
 **Answers:** 1. "Write in detail about particular aspects" — implying two or three closely analysed quotations rather than many briefly mentioned ones. 2. AO1 knowledge of content, AO2 understanding of meaning/context, AO3 understanding of the writer's methods, AO4 personal response. 3. Because AO4 is often assessed "by implication" through the quality of analysis itself, and separating the AOs into isolated sections tends to produce a plot summary followed by a bolted-on opinion rather than integrated analysis. 4. Roughly 5 minutes reading and planning, then 35–38 minutes writing, leaving a small buffer. 5. Any two of: narrating plot instead of analysing; treating AO4 as one tacked-on sentence; choosing long quotations over precise short ones; misquoting the printed text.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--08-p1-routes.webp" width="900" height="740" alt="Paper 1 is compulsory and leads to one of three routes: Paper 2; Paper 3 plus Paper 4; or Paper 3 plus Component 5." loading="lazy">
+  <figcaption>Paper 1 is universal; the route after it varies.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Cambridge IGCSE Literature in English (0475) syllabus for exams in
 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--07-p1-format.webp" width="900" height="840" alt="Marks bar 25 + 25 = 50, time bar 90 minutes split roughly evenly, one question per section from a choice of two, extract printed on the paper, set texts not allowed in the room." loading="lazy">
+  <figcaption>Two 25-mark answers share 90 minutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--12-p1-syllabus-change.webp" width="900" height="740" alt="Timeline of 2026 series, 2027 syllabus and 2028-2030 restructure. Four papers plus coursework become two components; Paper 1 becomes open text and Paper 2 becomes drama and unseen." loading="lazy">
+  <figcaption>The structure changes from the 2028-2030 cycle.</figcaption>
+</figure>
+

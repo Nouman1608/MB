@@ -74,9 +74,21 @@ Midpoints are 5, 7, 9, 11, 13. The empty class before is 2 ≤ l < 4 (midpoint 3
 
 The peak is at (9, 20), so the modal class is 8 ≤ l < 10. Check: 5 + 12 + 20 + 9 + 4 = 50.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--07-leaf-length-polygon.webp" width="900" height="850" alt="A frequency polygon for 50 leaves: points (3, 0), (5, 5), (7, 12), (9, 20), (11, 9), (13, 4) and (15, 0) joined by straight lines over faint class bars. The peak at (9, 20) shows the modal class 8 to under 10." loading="lazy">
+  <figcaption>Plot frequency against midpoint, add zero-frequency end points and join with straight lines.</figcaption>
+</figure>
+
+
 ### Why use a polygon at all?
 
 A polygon is better than a histogram when you want to compare two distributions on one set of axes, because two sets of bars overlap and become unreadable while two lines do not. If the two samples have different sizes, raw frequencies mislead: the larger sample's line is taller simply because it has more items. Compare proportions (relative frequencies) instead, or say clearly that the sizes differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--12-compare-with-polygons.webp" width="900" height="1150" alt="Two illustrative samples of 50 shown as overlapping histograms (hard to read) and as two frequency polygons on the same axes, A solid with circles and B dashed with squares (clear)." loading="lazy">
+  <figcaption>Polygons compare two distributions better than overlapping bars.</figcaption>
+</figure>
+
 
 ## Histograms with equal class widths
 
@@ -118,6 +130,12 @@ A rough text sketch of the bar heights:
    29.5  39.5  49.5  59.5  69.5  79.5
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--08-polygon-histogram-same-area.webp" width="900" height="880" alt="A histogram of 50 typing speeds with bars from 29.5 to 79.5 and a frequency polygon through the bar-top centres with end points at 24.5 and 84.5. Both have area 500." loading="lazy">
+  <figcaption>With equal widths and both end points, the polygon has the same area as the histogram.</figcaption>
+</figure>
+
+
 ## Histograms with unequal class widths
 
 Data are often grouped with narrow classes where most values lie and wide classes in the tails. If you drew bars whose heights were frequencies, a wide class would look far bigger than it is. The fix is to make the area of each bar represent frequency.
@@ -146,6 +164,12 @@ The class with the highest frequency (15 ≤ t < 20, 22 people) is also the tall
 ### Polygons with unequal widths
 
 If a question asks for a polygon on unequal classes, plotting raw frequency against midpoint distorts the shape in the same way. Plotting frequency density against midpoint matches the histogram. Label the vertical axis so the reader can see what you plotted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--09-unequal-widths-density.webp" width="900" height="1180" alt="Journey times of 74 employees. Top: bars with height equal to frequency make the wide 30-50 class look far too big. Bottom: bars with height equal to frequency density (0.8, 2.8, 4.4, 1.8, 0.6) make area equal frequency." loading="lazy">
+  <figcaption>For unequal class widths the bar height must be frequency density, not frequency.</figcaption>
+</figure>
+
 
 ## Reading from a histogram
 
@@ -177,6 +201,12 @@ Total:             9 + 12 = 21 people
 
 Both answers are estimates because the exact spread inside each class is unknown. Say "estimate" in your answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--10-histogram-estimates.webp" width="900" height="1180" alt="Using the journey-time histogram, 12 to 18 minutes is 3 x 2.8 + 3 x 4.4 = 8.4 + 13.2 = 21.6, about 22 people. More than 25 minutes is 5 x 1.8 + the whole 30 to 50 bar of 12 = 21 people. Both are estimates." loading="lazy">
+  <figcaption>Part of a class is estimated as bar height times the part of the width wanted.</figcaption>
+</figure>
+
+
 ### Worked example 5: finding a bar height from a scale
 
 On a histogram, the bar for 0 ≤ x < 4 is 2.5 cm tall and represents 20 items. How tall is the bar for 4 ≤ x < 10, which represents 27 items?
@@ -187,6 +217,12 @@ So 1 unit of density  = 2.5 ÷ 5 = 0.5 cm
 Density of second bar = 27 ÷ 6  = 4.5
 Height                = 4.5 × 0.5 = 2.25 cm
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--11-bar-height-from-scale.webp" width="900" height="800" alt="Bar 0 to 4 represents 20 items and is 2.5 cm tall, so density 5 equals 2.5 cm and one density unit is 0.5 cm. Bar 4 to 10 represents 27 items, density 4.5, so its height is 2.25 cm." loading="lazy">
+  <figcaption>A scale from one bar gives the height of another: 4.5 x 0.5 = 2.25 cm.</figcaption>
+</figure>
+
 
 ## Choosing between the two diagrams
 

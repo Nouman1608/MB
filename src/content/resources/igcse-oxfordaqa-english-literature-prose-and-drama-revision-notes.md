@@ -41,6 +41,12 @@ and Route B.
 | A | Prose fiction (set text) | 30 | Essay-style **or** passage-based |
 | B | Drama (set text) | 30 | Essay-style **or** passage-based |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--01-p1-glance.webp" width="900" height="710" alt="Paper 1 lasts 1 hour 30 minutes, is worth 60 marks and counts for 40 percent of the International GCSE. A bar splits it into two equal sections: Section A Prose Fiction, 30 marks, and Section B Drama, 30 marks. Each section needs one question on your chosen set text. The exam is closed book, shown by a crossed-out book." loading="lazy">
+  <figcaption>Paper 1 is two equal 30-mark sections in a closed-book exam.</figcaption>
+</figure>
+
+
 ## Precise textual reference beats plot summary
 
 Both sections reward embedding **short, specific quotations** to support an analytical point about
@@ -56,6 +62,12 @@ occasionally content), so always confirm the exact edition your course follows.
 Treat the play text as something **written to be staged**: comment on stage directions, dialogue
 delivery and dramatic structure, not just the words as if they were prose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--06-text-to-stage.webp" width="900" height="850" alt="Three inputs feed into a small stage: stage directions, dialogue and dramatic structure. Together they create meaning in performance. The figure reminds you that examiners look for awareness of the play as a text written to be staged, not only as prose on a page." loading="lazy">
+  <figcaption>Stage directions, dialogue and dramatic structure all create meaning in performance.</figcaption>
+</figure>
+
+
 ## Route A vs Route B
 
 The 9275 specification splits into two routes beyond Paper 1, and this affects what else you are
@@ -70,6 +82,12 @@ Confirm with your teacher which route your centre follows, since Route A candida
 an additional skill — responding to unseen prose extracts under timed conditions — that Route B
 candidates do not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--04-route-a-b.webp" width="900" height="980" alt="Paper 1 is the same on both routes. Route A adds Paper 2a, which includes an unseen prose section, so Route A candidates must also prepare to respond to unseen prose extracts under timed conditions. Route B adds Paper 2b and a non-exam assessment, which is coursework. Confirm early which route your centre follows." loading="lazy">
+  <figcaption>Paper 1 is common to both routes; what you sit alongside it differs.</figcaption>
+</figure>
+
+
 ## Building a quotation bank
 
 Because Paper 1 is closed book, precise textual reference has to come from memory rather than the
@@ -83,6 +101,12 @@ text in front of you. Build a compact bank for both the prose text and the play 
 A focused bank like this outperforms an attempt to memorise the whole text, and it is what makes
 "precise textual reference" achievable under exam pressure rather than just a mark-scheme phrase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--03-quotation-bank.webp" width="900" height="960" alt="Because Paper 1 is closed book, quotations must come from memory. A compact bank has two parts. For the prose text: two or three major characters, each with a short quotation showing development or central trait, and two or three central themes with evidence from more than one point in the text. For the play: at least one quotation per major character that carries a clear staging note. A small bank beats memorising a whole text." loading="lazy">
+  <figcaption>A compact bank of short quotations beats trying to memorise a whole text.</figcaption>
+</figure>
+
+
 ## Choosing between the essay and passage-based options
 
 Each section offers a choice between an essay-style question and a passage-based question — this
@@ -93,6 +117,12 @@ essay-style question requires you to select your own evidence across the whole t
 which rewards candidates with a well-built quotation bank and a clear command of the text's overall
 shape. Practise both formats in timed conditions before the exam, since candidates who only ever
 practise one often make the wrong call under pressure on the day.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--02-essay-or-passage.webp" width="900" height="950" alt="In both Section A and Section B you choose between two question types. A passage-based question gives a printed extract to anchor close, line-by-line analysis; it suits candidates who read closely but are less sure recalling the whole text. An essay-style question needs evidence selected from across the whole text, from memory; it rewards a good quotation bank. Practise both under timed conditions." loading="lazy">
+  <figcaption>Each section offers a choice: a printed extract to analyse, or an essay that relies on memory of the whole text.</figcaption>
+</figure>
+
 
 ## A revised specification is coming
 
@@ -143,3 +173,9 @@ Yes. OxfordAQA has published a revised 9275 specification for first teaching fro
 ## Official specification
 
 OxfordAQA International GCSE English Literature (9275) specification, Version 5.1, for exams May/June 2018 onwards — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-gcse-english-literature-specification-2018.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--05-spec-timeline.webp" width="900" height="1040" alt="A vertical timeline in date order. September 2026: first teaching of the revised specification. May/June 2027: the final May/June series for Version 5.1. November 2027: the final resit series, the real last sitting of Version 5.1. May/June 2028: first exams for the revised specification. The Paper 1 structure is unchanged, but set texts differ, so check the version before buying an edition." loading="lazy">
+  <figcaption>Version 5.1 runs to the November 2027 resit; the revised specification is first examined in May/June 2028.</figcaption>
+</figure>
+

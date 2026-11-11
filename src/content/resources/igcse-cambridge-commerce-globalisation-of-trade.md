@@ -100,6 +100,22 @@ Practise calculating each from a simple table of export and import
 figures, and stating whether the result represents a surplus or
 deficit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--01-gt-bot-vs-bop.webp" width="900" height="1080" alt="Balance of Payments is drawn as a box holding goods, services and financial flows, with the goods part marked as the Balance of Trade. Below, bars show illustrative exports of 500 and imports of 420, giving +80, a surplus. Rules for surplus and deficit are shown." loading="lazy">
+  <figcaption>Balance of Trade covers goods only; Balance of Payments is the wider record.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--02-gt-benefits.webp" width="900" height="960" alt="Two countries exchange goods. Five benefit cards show a wider choice of goods, higher standard of living, lower cost of imports, more investment and creation of jobs." loading="lazy">
+  <figcaption>International trade brings five benefits to a country.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--03-gt-challenges.webp" width="900" height="1050" alt="An exporter and importer are joined by a route with hurdles. Eleven tiles name the challenges: distance, language, methods of payment, documentation, transport, customs duties, non-payment, currencies, foreign exchange rates, competition and different legal systems." loading="lazy">
+  <figcaption>Exporters and importers face eleven named challenges.</figcaption>
+</figure>
+
+
 ## Free trade, trading blocs and trade restrictions (3.1.4)
 
 Trading blocs and trade restrictions are natural counterparts in exam
@@ -114,6 +130,17 @@ named trade restriction types with a specific effect — a tariff raises
 the price of imported goods to consumers, a quota limits the physical
 quantity that can be imported, and an embargo bans trade in a good or
 with a country entirely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--04-gt-trading-bloc.webp" width="900" height="990" alt="Three member countries sit inside a dashed bloc and trade without tariffs. A non-member outside meets a wall and may face a tariff, quota or embargo. Advantages and disadvantages of joining are listed." loading="lazy">
+  <figcaption>A bloc removes restrictions between members but an outsider may face them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--05-gt-restrictions.webp" width="900" height="760" alt="Three columns. Tariff: an illustrative 100 plus 20 gives 120. Quota: of 8 crates, 5 are let in and 3 turned back. Embargo: nothing gets in." loading="lazy">
+  <figcaption>A tariff raises price, a quota limits quantity and an embargo bans trade.</figcaption>
+</figure>
+
 
 ## Global supply chain management (3.2)
 
@@ -131,6 +158,17 @@ political) give a ready-made checklist for evaluating any supply chain
 scenario the exam presents, and risk assessment itself — identifying
 and planning for these risks in advance — is treated as important in
 its own right, not just a list to memorise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--06-gt-supply-chains.webp" width="900" height="1060" alt="Two vertical chains. Simple: supplier (upstream), manufacturer (enterprise), consumer (downstream). Complex: supplier, agent, wholesaler, retailer, consumer." loading="lazy">
+  <figcaption>A complex chain adds agents, wholesalers and retailers to a simple one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--07-gt-risks.webp" width="900" height="1000" alt="A chain from supplier to maker to seller above six risk cards: environmental (pollution, deforestation), natural disasters, financial, ethical, technological and political. Risk assessment is shown as spotting risks then planning in advance." loading="lazy">
+  <figcaption>Six named risk types threaten a supply chain, and risk assessment plans for them in advance.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

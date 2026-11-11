@@ -78,6 +78,12 @@ Result: a divide **among connected people**. Two learners may both be online, bu
 | Old, slow device, fast Wi-Fi | Restricted access | Low performance computer |
 | Old, slow device, weak signal | Restricted or no access | Both |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--02-dd-causes.webp" width="900" height="960" alt="Panel one contrasts a high performance laptop that runs current software, video calls and updates with a low performance one that cannot. Panel two contrasts a house near a mast with four signal bars with a house far from a mast with none." loading="lazy">
+  <figcaption>Two causes: device performance and wireless coverage.</figcaption>
+</figure>
+
+
 ## Effects
 
 ### Inequality of access to all types of internet services and technology
@@ -113,6 +119,22 @@ Learn by **service type**, each with one consequence:
 2. Identify the **cause** for that group (skills, cost, coverage, device, accessibility).
 3. Propose a measure that **matches** that cause.
 4. Say **how** it reduces the effect for that group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--03-dd-services.webp" width="900" height="870" alt="Seven padlocked tiles: banking and payments, shopping, education, employment, government services, health and communication." loading="lazy">
+  <figcaption>Without access, people cannot use these seven kinds of service.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--04-dd-loop.webp" width="900" height="830" alt="A four-step clockwise loop: no device or connection, cannot apply for jobs online, lower-paid job, device and data harder to afford." loading="lazy">
+  <figcaption>The divide can reinforce itself in a loop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--05-dd-fix.webp" width="900" height="900" alt="Five cause-to-measure pairs (skills, coverage, cost, accessibility, still offline) with a warning that free Wi-Fi does not help someone who cannot use a browser." loading="lazy">
+  <figcaption>Match the measure to the cause.</figcaption>
+</figure>
+
 
 ## Groups affected
 
@@ -166,6 +188,17 @@ If 70% of one group and 40% of another have home internet, the gap is **30 perce
 11. Less industrially developed nations may have less infrastructure (electricity, broadband, mobile networks), fewer affordable devices and lower technological awareness.
 12. The problem is lack of skills, not lack of a connection; free Wi-Fi needs to be paired with digital literacy teaching.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--06-dd-age.webp" width="900" height="784" alt="Bar chart: 93% of 400 people aged 18-30 and 34% of 250 people aged 70+ used online banking; gap 59 percentage points." loading="lazy">
+  <figcaption>Use percentage points for a difference between percentages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--07-dd-groups.webp" width="900" height="812" alt="Six tiles: age, city v rural, education, income, accessibility, nations, each with a short reason." loading="lazy">
+  <figcaption>The syllabus names six groups affected.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Defining the divide only in terms of devices, and leaving out **information** or **restricted** access.
@@ -197,6 +230,12 @@ The syllabus groups are different age groups, people in cities and rural areas, 
 
 **How can the effects of the digital divide be reduced?**
 Measures should match the cause, for example improving coverage where there is no signal or providing devices where computers are too slow. The syllabus specifically names digital literacy teaching as a way to reduce the effects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--01-dd-gap.webp" width="900" height="960" alt="Two cards compare people with access (phone, TV, PC, tablet, laptop, internet) and people with restricted or no access (shared phone, slow link, no signal), with a gap arrow, a full/restricted/none bar and the people/areas/countries levels." loading="lazy">
+  <figcaption>The digital divide is the gap between those with access to technology and information and those with restricted or no access.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

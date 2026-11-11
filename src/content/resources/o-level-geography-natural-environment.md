@@ -98,6 +98,12 @@ that volcanoes offer opportunities as well as hazards: for example,
 fertile soils weathered from volcanic material, geothermal energy, and
 tourism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--14-nat-plate-boundaries.webp" width="900" height="995" alt="Three cross-sections, not to scale. Plates diverge: two plates move apart and magma reaches the surface. Plates converge: one plate sinks under the other with a volcano on the upper plate. Plates slide past one another, seen from above. Stress builds at every boundary and earthquakes occur when it is released along a fault. Volcanoes occur typically at converging or diverging boundaries." loading="lazy">
+  <figcaption>Plates diverge, converge or slide past each other; stress released along a fault causes earthquakes, and volcanoes typically occur at converging or diverging boundaries.</figcaption>
+</figure>
+
+
 ## The river system, from source to mouth
 
 A river's long profile changes character along its course. Near the
@@ -122,6 +128,12 @@ supply, and transport routes. River flooding is managed through both
 hard engineering (dams, levees, channel straightening) and soft
 engineering (floodplain zoning, afforestation upstream) -- a
 distinction examiners expect candidates to make explicitly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--15-nat-river-long-profile.webp" width="900" height="800" alt="A curve that starts high and steep at the source and flattens towards the mouth, split into upper, middle and lower course. Upper course: vertical erosion cuts a V-shaped valley and waterfalls. Middle course: lateral erosion forms meanders. Lower course: deposition builds a floodplain and delta." loading="lazy">
+  <figcaption>Along a river’s course the dominant process changes: vertical erosion, then lateral erosion, then deposition.</figcaption>
+</figure>
+
 
 ## Coastal processes and landforms
 
@@ -158,6 +170,22 @@ they provide against erosion and storm surges. Coasts present hazards
 opportunities for people, such as fishing, ports and trade, and
 tourism; the required case study covers both, with their management.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--16-nat-cave-arch-stack-stump.webp" width="900" height="805" alt="Four side-view sketches of one headland in order. 1 A cave is cut at a line of weakness. 2 The cave is enlarged until it cuts through as an arch. 3 The arch roof collapses leaving an isolated stack. 4 The stack is eroded down to a stump." loading="lazy">
+  <figcaption>On a single resistant headland, waves attack lines of weakness: cave, then arch, then stack, then stump.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--17-nat-cliff-platform.webp" width="900" height="1025" alt="Three side views of a cliff. 1 Waves cut a notch at the base of the cliff between the high and low tide levels. 2 The overhanging rock above collapses. 3 The cliff has retreated inland and the gently sloping rock surface left behind is exposed at low tide as a wave-cut platform." loading="lazy">
+  <figcaption>Waves cut a notch, the overhang collapses, the cliff retreats and a wave-cut platform is left, exposed at low tide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--18-nat-longshore-drift-spit.webp" width="900" height="840" alt="A view from above. Waves arrive at an angle and push sediment up the beach diagonally; the backwash drags it straight back. Repeating this zigzag moves sediment along the coast. Where the coastline changes direction, the sediment is carried on into open water and builds a spit." loading="lazy">
+  <figcaption>Waves approaching at an angle move sediment along the coast by longshore drift; where the coastline changes direction a spit builds out into open water.</figcaption>
+</figure>
+
+
 ## Weather: collecting and using data
 
 Weather is the day-to-day, short-term state of the atmosphere;
@@ -177,6 +205,12 @@ temperature range as maximum minus minimum, or a mean or total
 rainfall), and use and interpret graphs and other diagrams showing
 weather and climate data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--19-nat-stevenson-screen.webp" width="900" height="760" alt="A white box with slatted louvred sides raised on four legs above grass, standing in open space. A building on the left and a tree on the right are crossed out and drawn far from the box. Thermometers sit inside the box and record the temperature of freely circulating air in the shade." loading="lazy">
+  <figcaption>A Stevenson screen is a white, louvred box on legs in an open space away from buildings and trees, so the thermometers inside record the temperature of freely circulating air in the shade.</figcaption>
+</figure>
+
+
 ## Climate: equatorial and hot desert
 
 The syllabus names the two climates as **equatorial** and **hot
@@ -193,6 +227,12 @@ rainfall throughout the year with a small annual temperature range;
 hot deserts lie under subtropical high pressure, where sinking air
 gives very low rainfall, and dryness is increased by distance from the
 sea or by cold ocean currents offshore.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--20-nat-climate-graphs.webp" width="900" height="965" alt="Two climate graphs with rainfall bars and a temperature line, using illustrative values. Equatorial: temperature about 26 to 27 degrees every month, annual range 1 degree, and heavy rainfall in every month, with rising air. Hot desert: temperature from 14 up to 35 degrees, annual range 21 degrees, and almost no rainfall, with sinking air." loading="lazy">
+  <figcaption>To describe a climate, read the hottest and coolest months, the annual temperature range, and the amount and seasonal pattern of rainfall. Values here are illustrative, not a real station.</figcaption>
+</figure>
+
 
 ## Worked example
 

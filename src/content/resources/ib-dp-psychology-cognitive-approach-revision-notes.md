@@ -43,6 +43,12 @@ biological approach's focus on physiology, the cognitive approach models the min
 information-processing, often using computer-like models (input, processing, storage, output) as a
 way of representing mental activity that cannot be directly observed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-cognitive-approach--11-ibcog-bartlett-ghosts.webp" width="900" height="980" alt="A story card of ten lines, four of them unfamiliar details, is followed by four recall cards over increasing delays. Each recall is shorter, loses unfamiliar details and gains details changed to fit the participant's own cultural schema. Line counts are illustrative. An evaluation note says Bartlett used qualitative free recall with limited standardisation." loading="lazy">
+  <figcaption>Bartlett (1932): repeated recall over increasing delays became shorter, more conventional and distorted towards the participants' cultural schema.</figcaption>
+</figure>
+
+
 ## The same topic, three approaches
 
 The syllabus guide's key point: many topics are studied from more than one approach, and memory is the
@@ -85,6 +91,22 @@ Evaluation point:    this cognitive explanation has real-world
 
 Naming the study and the specific cognitive concept, applying it directly to the scenario, then adding
 a genuine evaluative point is the structure Paper 1's essay question rewards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-cognitive-approach--08-ibcog-information-processing.webp" width="900" height="810" alt="Top: a computer-like model with four steps in order: input, processing, storage, output. Middle: memory examined cognitively as encoding, then storage, then retrieval. Bottom: factors affecting accuracy named in the lesson are reconstructive memory and schema." loading="lazy">
+  <figcaption>The cognitive approach models mental activity with information-processing steps; memory is examined as encoding, storage and retrieval.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-cognitive-approach--09-ibcog-loftus-palmer.webp" width="900" height="1170" alt="Step 1: participants watch film clips of car accidents. Step 2: they are asked how fast the cars were going when they smashed into, collided with, bumped, hit or contacted each other. Step 3: the verb significantly affected speed estimates, and the smashed-into group were also more likely to wrongly report broken glass that was not in the film. A strength is real-world use in police interviews; a limitation is low ecological validity of filmed clips." loading="lazy">
+  <figcaption>The verb in the question changed speed estimates, and &quot;smashed into&quot; led to false reports of broken glass: post-event wording became part of the memory.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-cognitive-approach--10-ibcog-reconstructive-memory.webp" width="900" height="860" alt="An original event is not replayed like a video recording. Instead, existing schema, expectations, leading questions and information encountered after the event all feed into an active reconstruction. The recalled memory differs from the original event, and the witness is not aware that recall has changed." loading="lazy">
+  <figcaption>Memory is an active reconstruction shaped by schema, expectations, leading questions and later information, not a video replay.</figcaption>
+</figure>
+
 
 ## Building evaluation into every study
 
@@ -164,6 +186,12 @@ is an active reconstruction shaped by existing schema and later information, not
 of the original event. 3. Because many topics (such as memory) can be explained from more than one
 approach, and blending them without distinction produces an unclear, unfocused answer. 4. Its
 methodology and at least one genuine evaluative point (a strength or limitation). 5. Paper 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-cognitive-approach--12-ibcog-memory-two-approaches.webp" width="900" height="940" alt="The topic memory is explained in two ways. Biological approach: brain structures such as the hippocampus and neurochemistry. Cognitive approach: information-processing (encoding, storage, retrieval), reconstructive memory and schema. A banner says the Paper 1 essay is answered from a single approach, keeping clear which approach is doing the explanatory work." loading="lazy">
+  <figcaption>The same topic can be explained biologically or cognitively; a Paper 1 essay stays within one approach.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

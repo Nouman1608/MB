@@ -79,6 +79,17 @@ p(2) = 3/8 × 2/7 = 6/56 = 3/28
 
 Check: 10/28 + 15/28 + 3/28 = 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--07-dpd-tree-to-table.webp" width="900" height="810" alt="A tree diagram for taking two counters without replacement from a bag of 3 green and 5 yellow. The first counter is green with probability 3/8 or yellow 5/8; the second depends on the first. The four paths give 6/56, 15/56, 15/56 and 20/56. Grouped by number of green counters X: X=2 has 3/28, X=1 has the two middle paths adding to 15/28, and X=0 has 5/14. The three values add up to 1." loading="lazy">
+  <figcaption>Multiply along each path, then add the paths that give the same value of X. The two orders for X = 1 are added. Check that the probabilities total 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--08-dpd-find-k.webp" width="900" height="860" alt="Four rows of small squares, each square worth k. The row for x = 1 has 3 squares, x = 2 has 4, x = 3 has 5 and x = 4 has 6, because p(x) = k(x + 2). Together they make one bar of 18 squares, which must equal probability 1, so 18k = 1 and k = 1/18. The probabilities are 3/18, 4/18, 5/18 and 6/18." loading="lazy">
+  <figcaption>Because the probabilities must add to 1, 3k + 4k + 5k + 6k = 18k = 1, so k = 1/18.</figcaption>
+</figure>
+
+
 ## Method: unknown constants
 
 * A constant k in a rule: add all the probabilities, set the sum equal to 1, solve for k.
@@ -108,6 +119,17 @@ E(3X−1) = 3 × 1.95 − 1 = 4.85
 
 Note that E(X²) = 4.35 but [E(X)]² = 3.8025, about 3.80. They are different.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--09-dpd-expectation-balance.webp" width="900" height="900" alt="A beam with four bars standing on it at x = 0, 1, 2 and 3 faults per roll, with heights 0.45, 0.35, 0.15 and 0.05 (36, 28, 12 and 4 rolls out of 80). A triangle supports the beam at 0.8 and the beam balances there. The balance point is E(X) = 0.8, found as 0 + 0.35 + 0.30 + 0.15." loading="lazy">
+  <figcaption>E(X) = Σ x p(x) is the balance point of the distribution. For the fabric faults it is 0.80, which is the observed mean (64 faults in 80 rolls).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--10-dpd-ex2-not-squared.webp" width="900" height="740" alt="Two bars. The left bar is built from three pieces, 0.35, 0.60 and 0.45, from x = 1, 2 and 3 (x squared times p of x), and totals E of X squared = 1.40. The right bar is the square of the expectation, 0.80 squared = 0.64. A not-equal sign sits between them. A note says that for a straight line E(3X + 2) = 3 times 0.80 + 2 = 4.40." loading="lazy">
+  <figcaption>Square each value first, then weight and add: E(X²) = 1.40. Squaring the expectation gives 0.64, a different number. The shortcut only works for straight lines, such as E(3X + 2) = 4.40.</figcaption>
+</figure>
+
+
 ## Method: expected profit and loss in a game
 
 1. Write each outcome, its probability and its net gain (received minus stake).
@@ -122,6 +144,17 @@ E(received) = 6 × 1/4 + 1 × 1/4 = 1.75
 E(net gain) = 1.75 − 2 = −0.25
 Over 200 plays: 200 × (−0.25) = −50, an expected loss of Rs 50
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--11-dpd-die-game.webp" width="900" height="920" alt="Six dice faces. A 6 pays Rs 15 so the net gain is +11; a 4 or 5 pays Rs 3 so the net gain is minus 1; a 1, 2 or 3 pays nothing so the net gain is minus 4. A bar chart shows each net gain times its probability: +11/6, minus 2/6 and minus 12/6. They add to minus 3/6, an expected loss of Rs 0.50 per play." loading="lazy">
+  <figcaption>Net gain = amount received − stake. Weight each net gain by its probability and add: E(net gain) = −0.50, so the player expects to lose Rs 0.50 per play.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--12-dpd-fair-game.webp" width="900" height="810" alt="Ten cards, two of them winning cards. With a stake of Rs 5 the expected prize is w times 2/10, which equals Rs 5 when w = 25, so the game is fair. A number line of expected net gain runs from minus 1 to plus 1: left of zero favours the organiser, right of zero favours the player, and zero is fair. The die game sits at minus 0.50 and the card game at 0." loading="lazy">
+  <figcaption>A game is fair when E(net gain) = 0, that is, when the stake equals the expected amount received. With 2 winning cards in 10 and a stake of Rs 5, the prize must be Rs 25.</figcaption>
+</figure>
+
 
 ## Method: fair games
 

@@ -59,6 +59,12 @@ knowledge of plot, character and dramatic technique
 - Section B: Poetry — answering on a set poetry text or selection,
 testing close reading of poetic language, form and structure
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--08-paper1-where-it-sits.webp" width="900" height="760" alt="Papers 1 and 2 make up the AS Level award; Papers 3 and 4 are added for the full A Level. Paper 1 is outlined." loading="lazy">
+  <figcaption>Paper 1 is one of the two AS papers.</figcaption>
+</figure>
+
+
 ## Paper format
 
 Paper 1 is a **written paper lasting two hours and worth 50 marks**,
@@ -77,6 +83,17 @@ Set texts and dictionaries are **not allowed** in the exam room, and
 Paper 1 forms half of the standalone AS Level award, alongside Paper 2
 (Prose and Unseen).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--09-paper1-format.webp" width="900" height="870" alt="Paper 1 lasts 2 hours and is worth 50 marks, 25 for Drama and 25 for Poetry. Set texts and dictionaries are not allowed. One question is answered from each section." loading="lazy">
+  <figcaption>Two hours, 50 marks, one question from each section.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--10-paper1-question-types.webp" width="900" height="1010" alt="Question (a) is a discursive essay on the whole text with no extract; question (b) is anchored to a printed passage or poem needing line-level commentary linked to the whole text. Neither is easier." loading="lazy">
+  <figcaption>Choose (a) breadth or (b) precision, whichever suits you.</figcaption>
+</figure>
+
+
 ## Assessment objectives
 
 All four assessment objectives are tested on **every** question on
@@ -91,6 +108,12 @@ Because AO2 and AO3 both require going beyond description, an answer
 that only paraphrases a poem's content or summarises a play's plot,
 however accurately, will not access the marks available for analysis
 or independent interpretation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--11-paper1-assessment-objectives.webp" width="900" height="930" alt="A ring of four equal 25% slices for AO1 to AO4. AO5 is not assessed on Paper 1 and appears only on Papers 3 and 4." loading="lazy">
+  <figcaption>All four objectives carry 25% each; AO5 is not on this paper.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -127,6 +150,12 @@ rhythm and metre, and form and structure all reward close reading, and
 naming a technique such as enjambment or caesura earns little on its
 own — the mark is in explaining the **effect** that technique has on
 meaning or tone at that specific point in the poem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--12-paper1-name-then-explain.webp" width="900" height="940" alt="Naming a technique alone earns little; explaining its effect on meaning or tone at that point leads to higher bands. Drama: staging, dramatic irony, audience response. Poetry: word choice and imagery, sound, rhythm and metre, form and structure." loading="lazy">
+  <figcaption>Name the technique, then explain its effect at that point.</figcaption>
+</figure>
+
 
 ## Which set texts are on Paper 1 in 2026 and 2027?
 

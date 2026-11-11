@@ -72,6 +72,12 @@ skills developed for one section transfer directly to the other; the
 main variable is the historical distance between the two texts and what
 that means for contextual knowledge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-drama--11-ed-unit-glance.webp" width="900" height="880" alt="Four chips: open book, 2 hours, 50 marks, January and June. A bar shows Section A pre-1900 drama and Section B post-1900 drama at 25 marks each. Two proportion bars show Unit 2 as 50 percent of the IAS grade and 25 percent of the full International A Level." loading="lazy">
+  <figcaption>Unit 2 is one open-book paper with two equally weighted drama sections.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Since the exam is open book, the value of memorising long quotations is
@@ -99,6 +105,17 @@ directions and dramatic form (entrances, exits, asides, silence) tends
 to strengthen AO2 responses more than treating the text purely as prose
 to be read.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-drama--14-ed-context-timeline.webp" width="900" height="1090" alt="A vertical timeline: A Streetcar Named Desire in 1947 and Death of a Salesman in 1949, both post-war America. A gold band for the McCarthy era 1950 to 1954 sits after both plays, labelled reception history, not writing context. After a break in the axis, Top Girls sits in 1980s Britain." loading="lazy">
+  <figcaption>The McCarthy era comes after both American plays, so treat it as reception, not context of writing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-drama--16-ed-staging.webp" width="900" height="950" alt="A stage seen from above with an audience of seven seats below. The entrance and exit doors on the back wall have arrows. One character gives an aside by a dashed arrow towards the audience; another is silent with an empty speech bubble. A note lists stage directions, entrances, exits, asides and silence as things to analyse." loading="lazy">
+  <figcaption>Drama is written to be performed, so analyse staging as well as the words.</figcaption>
+</figure>
+
+
 ## The question format
 
 Both sections give candidates a statement to respond to, rather than an
@@ -110,6 +127,12 @@ question also instructs candidates to consider relevant contextual
 factors, tying the statement format directly to AO3. Practising against
 statement-based prompts, not generic explore-how questions, is what
 prepares you for the actual mechanism the exam uses to credit AO5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-drama--13-ed-ao-map.webp" width="900" height="920" alt="Four tiles show AO1, AO2, AO3 and AO5 with short descriptions. Above, two gold boxes show what the question gives you: an instruction to consider context, with an arrow to AO3, and a statement to respond to, with an arrow to AO5. A bar says each section is worth 25 marks." loading="lazy">
+  <figcaption>The statement is how the exam credits AO5; the context instruction ties to AO3.</figcaption>
+</figure>
+
 
 ## Worked example: using AO5 on a single text
 
@@ -131,6 +154,12 @@ across different centuries and critical schools, from morality-play
 villain to psychologically complex character, and a strong essay can
 draw on this range rather than presenting only one fixed interpretation
 without acknowledgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-drama--15-ed-ao5-readings.webp" width="900" height="1050" alt="A crossed warning says one fixed meaning leaves AO5 untouched. Death of a Salesman splits into two readings, Willy as sympathetic victim of economic forces and Willy as self-deceiving and complicit, which both lead to arguing your own position. A strip below shows readings of Iago shifting from morality-play villain to psychologically complex character." loading="lazy">
+  <figcaption>Naming a range of readings, then arguing your own, is what makes an answer AO5-aware.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -174,6 +203,12 @@ exam.
 
 - [Unit 2 Drama revision notes](/resources/edexcel-a-level-english-literature-drama-revision-notes/)
 - [Unit 2 Drama practice questions](/resources/edexcel-a-level-english-literature-drama-practice/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-drama--12-ed-text-lists.webp" width="900" height="788" alt="Two columns list the five pre-1900 set texts for Section A and the five post-1900 set texts for Section B. A note says one text is studied per section and one essay is answered from a choice of two questions." loading="lazy">
+  <figcaption>Each section has five set texts; your centre picks one per list.</figcaption>
+</figure>
+
 
 ## Official specification
 

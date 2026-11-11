@@ -118,6 +118,22 @@ software (2.3) performs a specific maintenance task for the user, such as
 backing up or compressing files. Mixing up the two categories weakens an answer even when the
 factual content about what the software does is otherwise correct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--01-hs-mainframe-supercomputer.webp" width="900" height="830" alt="Two columns compare large-scale systems. A mainframe is built for high-volume transaction throughput and used for census, transaction processing and industry and consumer statistics. A supercomputer is built for raw processing speed on computation-heavy problems and used for weather forecasting, climate research and quantum mechanics. Both list reliability, availability and serviceability (RAS)." loading="lazy">
+  <figcaption>Mainframes are built for transaction throughput; supercomputers for raw processing speed; both list RAS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--02-hs-ras-fault-tolerance.webp" width="900" height="870" alt="An illustrative 100-unit timeline shows usable time, two failure-and-repair blocks and one planned maintenance block. Serviceability is how quickly a failure is repaired, availability is the share of time usable (85 percent here, because planned maintenance counts too) and reliability is how rarely it fails. A second bar shows fault tolerance: the system keeps running, often degraded, when a component fails." loading="lazy">
+  <figcaption>Reliability, availability and serviceability read off one timeline; fault tolerance is a related idea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--03-hs-system-utility-software.webp" width="900" height="890" alt="Two columns separate the categories. System software manages and translates for the computer itself: operating system, device drivers, compilers, interpreters and linkers. Utility software performs one specific maintenance task for the user: anti-virus, back-up, data compression, disk defragmentation, formatting, and file copying and deleting." loading="lazy">
+  <figcaption>System software looks after the computer itself; utility software does a maintenance task for the user.</figcaption>
+</figure>
+
+
 ## Worked example: comparing software types
 
 A question might ask candidates to justify whether a small design studio
@@ -137,6 +153,12 @@ test, and depends on ongoing support from the developer who built it.
 A strong answer weighs both sides against the studio's specific
 situation (budget, timescale, how unusual its workflow is) rather than
 asserting one option is simply "better."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--05-hs-custom-vs-off-the-shelf.webp" width="900" height="930" alt="A small design studio compares off-the-shelf and custom-written graphics software. Off-the-shelf costs less, is available immediately and is well tested by many users, but may include unneeded features and cannot be tailored exactly. Custom-written matches the exact requirements and can be changed, but costs far more and takes time to develop and test. A strong answer weighs both sides against budget, timescale and how unusual the workflow is." loading="lazy">
+  <figcaption>Tick and cross show the advantage and disadvantage of each option for the studio.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -163,6 +185,17 @@ separated by function.
 software for a given scenario.
 - Know the four named interface types and one advantage and one
 disadvantage of each.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--04-hs-compiler-interpreter.webp" width="900" height="850" alt="A four-line program is handled in two ways. A compiler translates the whole program, stores it and then runs it. An interpreter translates and runs one line at a time: translate line 1, run line 1, translate line 2, and so on. Development-stage code is often run through an interpreter first." loading="lazy">
+  <figcaption>A compiler translates everything first; an interpreter translates and runs line by line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--06-hs-user-interfaces.webp" width="900" height="880" alt="Four named interface types: command line (typed commands, suited to a systems administrator), graphical (windows, icons and a pointer, suited to a general consumer device), dialogue (two speech bubbles) and gesture-based (a hand with movement arrows)." loading="lazy">
+  <figcaption>The four user interface types in the syllabus, with the two uses the lesson names.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

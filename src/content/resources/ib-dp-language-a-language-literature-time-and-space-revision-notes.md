@@ -35,6 +35,12 @@ Not "what happened in this text" but **how the context of production and recepti
 the historical period, culture and place a text was written in, and the historical period, culture and
 place it is now being read in, are not the same thing, and both matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--06-ts-two-contexts.webp" width="900" height="652" alt="A timeline runs from then to now. On the left, a text is produced: the card describes the period, culture and place it was written in. On the right, the same text is received: the card describes the period, culture and place it is read in now. A double arrow between them is labelled shift in reception. A note says the question is not what happened in the text but how context shapes meaning." loading="lazy">
+  <figcaption>The context a text was written in and the context it is read in now are different, and both matter to meaning.</figcaption>
+</figure>
+
+
 ## The core skill: reading across time and place
 
 A single text can be read very differently by its original audience and by a reader today. For a
@@ -69,6 +75,12 @@ Reception today:                 a modern reader may find the
 Identifying the shift between original and current reception -- not just describing two texts side by
 side -- is the skill this component specifically rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--07-ts-editorial-leaflet.webp" width="900" height="954" alt="Two cards compare production contexts. A 19th-century newspaper editorial was written for a literate, middle-class readership, in a formal register, with the writer's authority unquestioned. A modern public-health leaflet is written for a broad general audience who are visually literate, with a short attention span, using direct address, &quot;you&quot;. Below, an arrow labelled shift links original readers, who found the editorial authoritative, to a modern reader, who may find its tone paternalistic. The shift in reception is the analytical point." loading="lazy">
+  <figcaption>The strongest analysis names the shift in reception, not just two different styles side by side.</figcaption>
+</figure>
+
+
 ## Applying this to a literary text too
 
 Because this course studies both literary and non-literary texts under every component, the same
@@ -79,6 +91,12 @@ novel's assumptions about social class, for example, may read very differently t
 audience than they did to its first readers, and identifying that gap is exactly the analytical move
 this component rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--09-ts-literary-gap.webp" width="900" height="893" alt="A 19th-century novel sits at the top. Beneath it are four kinds of assumption its first readers might hold without question: social class, gender roles, religion and everyday life. First readers took the assumption for granted; readers today notice, question or misread it. Below, a cross marks the vague statement that attitudes have changed, and a tick marks naming a specific gap with a concrete textual example." loading="lazy">
+  <figcaption>Name one specific assumption that first readers held and a reader today notices, and support it with a textual example.</figcaption>
+</figure>
+
+
 ## Connecting to the individual oral and HL essay
 
 Because the individual oral connects a literary work and a non-literary body of work through a global
@@ -86,6 +104,12 @@ issue, Time and Space's questions about shifting context and reception are a nat
 material: a strong oral commentary can explicitly discuss how the chosen global issue is understood
 differently now than when either text was produced, using this component's vocabulary of production
 and reception context directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--10-ts-where-used.webp" width="900" height="711" alt="Three equal cards show the three areas of exploration, Readers, writers and texts, Time and space, and Intertextuality, each with recommended teaching hours of 50 at standard level and 80 at higher level. Time and space is highlighted. Arrows lead from it to three places where it is applied: Paper 1 guided textual analysis, Paper 2 comparative essay and the individual oral discussion of a global issue. A note says it is not examined as a separate named section on any paper." loading="lazy">
+  <figcaption>Time and Space carries equal teaching time but is tested through Paper 1, Paper 2 and the individual oral, not as a named section.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -103,6 +127,12 @@ both text types equally.
   question to a non-literary text type you have not yet discussed in class.
 - Keep separate short notes on production context and reception context for each text -- conflating
   the two is a common source of vague answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--08-ts-two-note-sets.webp" width="900" height="926" alt="Top, with a tick: two separate note cards for one text, one headed production context and one headed reception context today, each with its own coloured lines of notes. Bottom, with a cross: a single merged card headed background, in which the two kinds of note are mixed together, which leads to vague answers." loading="lazy">
+  <figcaption>Keep production-context notes and reception-today notes separate; merging them into one background note gives vague answers.</figcaption>
+</figure>
+
 
 ## A note on assessment weighting
 

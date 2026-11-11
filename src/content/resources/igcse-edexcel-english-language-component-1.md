@@ -67,6 +67,12 @@ candidates for the optional Spoken Language Endorsement, a separately
 assessed and separately graded component that does not contribute to
 the overall qualification grade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-1--06-qualification-split.webp" width="900" height="800" alt="A bar showing the whole qualification. Component 1, Non-fiction Texts and Transactional Writing, is compulsory and worth 60 per cent. The remaining 40 per cent is either Component 2, an exam, or Component 3, internally marked and externally moderated coursework. An optional Spoken Language Endorsement is graded separately." loading="lazy">
+  <figcaption>Component 1 is compulsory (60%); the other 40% is Component 2 or Component 3.</figcaption>
+</figure>
+
+
 ## Assessment at a glance
 
 Component 1 is **2 hours 15 minutes** long, marked out of **90** (45 for
@@ -76,6 +82,12 @@ and **45 minutes** for Section B — reading and interpreting two texts
 in detail takes longer than the single writing task, even though the
 two sections carry equal marks. Section B offers a **choice of two**
 writing prompts, from which you answer one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-1--07-component1-time-marks.webp" width="900" height="700" alt="Two bars compare Section A and Section B of Component 1. Marks are equal at 45 each, out of 90. Advised time is not equal: about 1 hour 30 minutes for Section A and 45 minutes for Section B, in a paper of 2 hours 15 minutes." loading="lazy">
+  <figcaption>The sections carry equal marks but Section A is advised more time.</figcaption>
+</figure>
+
 
 ## Specification coverage
 
@@ -105,6 +117,12 @@ Dyslexic? You've got it going on* (Benjamin Zephaniah), *A Game of
 Polo with a Headless Goat* (Emma Levine), *Beyond the Sky and Earth: A
 Journey into Bhutan* (Jamie Zeppa), *H is for Hawk* (Helen Macdonald),
 and *Chinese Cinderella* (Adeline Yen Mah).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-1--09-section-a-two-texts.webp" width="900" height="800" alt="Two documents feed Section A: one non-fiction text from Part 1 of the anthology, supplied in the exam and knowable in advance, and one previously unseen extract. Three skills are tested on them: comprehension (AO1), analysis of language and structure (AO2), and links between the two texts (AO3). Either text can be the basis of any of the three questions." loading="lazy">
+  <figcaption>Section A pairs one anthology text with one unseen extract.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -148,6 +166,12 @@ journals, reference-book extracts, autobiography, letters, obituaries and travel
 both for the unseen extract and for building genuine familiarity with the ten Part 1 anthology
 texts, since either text can be the basis of any of the three questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-1--08-section-a-marks.webp" width="900" height="900" alt="A grid of 45 squares, one per mark in Section A: 11 for AO1 comprehension, 12 for AO2 analysis of language and structure, and 22 for AO3 links and connections between the two texts. AO3 is almost half the section and is 15 per cent of the whole qualification." loading="lazy">
+  <figcaption>AO3 comparison carries 22 of Section A’s 45 marks.</figcaption>
+</figure>
+
+
 ## Section B in more depth — matching form, purpose and audience
 
 A transactional writing task specifies all three of purpose, audience and form in the question
@@ -158,6 +182,12 @@ form change how that persuasive purpose should actually be expressed. Before sta
 briefly noting the specified purpose, audience and form, and checking the finished response against
 that note, catches the most common way marks are lost in this section: drifting into a generic
 essay-like register regardless of what form was actually asked for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-1--10-section-b-match.webp" width="900" height="900" alt="A triangle with purpose, audience and form at its corners and your response in the middle, showing that all three must be reflected throughout. Below, six possible forms: article, speech, letter, guide, review, leaflet. One 45-mark task is chosen from two prompts." loading="lazy">
+  <figcaption>A strong transactional answer matches purpose, audience and form throughout.</figcaption>
+</figure>
+
 
 ## Official specification
 

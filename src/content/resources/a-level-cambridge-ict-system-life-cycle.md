@@ -55,6 +55,12 @@ analysis → design → development and testing → implementation → documenta
 
 **How the stages relate.** Each stage's output feeds the next: requirements drive the design; the design specification drives development and the test plan. Evaluation compares the working system with the requirements from analysis, and any shortfall starts a new round of analysis, which is why it is a *cycle*. Requirements and design documents are written early, not only at the end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--13-slc-stages.webp" width="900" height="1030" alt="Six stages in a ring: analysis, design, development and testing, implementation, documentation, evaluation. Evaluation loops back to analysis when there is a shortfall, and maintenance follows evaluation." loading="lazy">
+  <figcaption>Evaluation can start a new round of analysis, which is why it is a cycle.</figcaption>
+</figure>
+
+
 ## 16.2 Analysis
 
 ### Researching the current situation
@@ -74,6 +80,12 @@ analysis → design → development and testing → implementation → documenta
 - **Analyse documents**: the paper membership form and booking sheets show every field the new system must store.
 
 Each choice fits the group's size and the information needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--14-slc-research-methods.webp" width="900" height="930" alt="Three managers are interviewed, twelve reception staff observed, about 4,000 members sent a questionnaire, and the paper forms analysed as documents." loading="lazy">
+  <figcaption>Each research method fits the size of the group and the information needed.</figcaption>
+</figure>
+
 
 ### Specifications
 
@@ -107,11 +119,23 @@ Level 1:
 
 Every store is reached through a process, and the level 0 flows still appear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--15-slc-dfd.webp" width="900" height="1125" alt="Level 0 shows one booking system process between Member and Instructor. Level 1 splits it into three processes with the Members, Classes and Bookings files; no flow goes directly between an entity and a store." loading="lazy">
+  <figcaption>Level 1 splits the single process into processes and data stores.</figcaption>
+</figure>
+
+
 ### System flowcharts
 
 A **system flowchart** shows hardware, files and processes, not program logic. Its syllabus symbols are: input/output, process, single document output, multiple document output, magnetic disk file, magnetic tape file, and display. (For program flowcharts, see [algorithms and flowcharts](/resources/a-level-cambridge-ict-algorithms-and-flowcharts/).)
 
 **Worked example in words:** Input/output (member enters booking at a kiosk) → Process (validate and record booking), which reads and updates the Members and Bookings **magnetic disk files** → Display (confirmation on screen) and Single document output (printed receipt). Overnight, a Process reads the Bookings file and produces a Multiple document output (one register per class).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--16-slc-system-flowchart.webp" width="900" height="1110" alt="Input/output, process, magnetic disk file, display, single document and multiple document symbols used for the booking system, with a day section and an overnight section." loading="lazy">
+  <figcaption>A system flowchart shows hardware, files and processes, not program logic.</figcaption>
+</figure>
+
 
 ### Data storage, input forms and output reports
 
@@ -147,6 +171,12 @@ Testing finds errors before users depend on the system and proves it meets the d
 | White box | Tests every path | Needs programming skill; slow |
 | Black box | User's view; no code knowledge | Untested paths may hide faults |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--17-slc-test-data.webp" width="900" height="890" alt="A number line for the 1 to 6 places rule showing normal (3), extreme (1, 6) and abnormal (7, 2.5, two) data, a note that a boundary value is extreme not abnormal, and the live data idea." loading="lazy">
+  <figcaption>Boundary values are extreme and accepted; invalid values are abnormal and rejected.</figcaption>
+</figure>
+
+
 ## 16.5 Implementation
 
 | Method | How it is done | Advantages | Disadvantages |
@@ -157,6 +187,12 @@ Testing finds errors before users depend on the system and proves it meets the d
 | **Pilot** | Whole system live in one branch or department first | Real trial, limited risk; pilot staff train others | Slow rollout; pilot site bears the risk |
 
 **Worked example.** The leisure centre has one site and one reception team, so there is nothing separate to pilot in; direct changeover risks lost bookings. **Parallel running** for two weeks suits it: paper sheets remain a backup, at the cost of extra staff time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--18-slc-changeover.webp" width="900" height="1050" alt="Four timelines of old and new system: parallel running overlaps them, direct changeover switches at once, phased switches one part at a time, pilot switches one branch first." loading="lazy">
+  <figcaption>The four implementation methods differ in how the old and new systems overlap in time.</figcaption>
+</figure>
+
 
 ## 16.6 Documentation
 

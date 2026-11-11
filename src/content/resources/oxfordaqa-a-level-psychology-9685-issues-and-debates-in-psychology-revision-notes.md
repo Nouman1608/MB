@@ -63,6 +63,22 @@ Test yourself with the [issues and debates practice questions](/resources/oxford
 | Falsifiability | A theory makes predictions that could, in principle, be shown false |
 | Hypothetico-deductive method | Theory produces a hypothesis; data test it; the theory is supported, revised or rejected |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology--16-determinism-positions.webp" width="900" height="920" alt="A line from hard determinism (all behaviour is caused) through soft determinism (caused, but conscious choice within limits) to free will (genuine choices not fully caused). Skinner is placed at hard, environmental determinism; Bandura at the softer position, with reciprocal determinism: behaviour, environment and personal factors all influence each other. Biological determinism points to genes, brain, hormones; environmental determinism to learning." loading="lazy">
+  <figcaption>Hard and soft determinism differ on whether conscious choice operates within the causes of behaviour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology--17-nature-nurture-positions.webp" width="900" height="640" alt="A bar from nature (heredity) to nurture (environment). Nativists stress innate abilities, empiricists stress learning from experience, and the interactionist approach says both work together. Examples from the lesson: Baillargeon found some infants as young as 3.5 months looked longer at impossible events (nature); Vygotsky stressed language and scaffolding by adults (nurture); Piaget's theory is interactionist." loading="lazy">
+  <figcaption>Nativists, empiricists and interactionists weigh heredity and environment differently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology--19-levels-of-explanation.webp" width="900" height="770" alt="Four levels of explanation from most to least reductionist: biological (genes, neurotransmitters, brain structures; schizophrenia: dopamine hypothesis), basic behavioural (learned stimulus-response links), psychological or cognitive (thoughts, schemas; Frith: a fault in central monitoring of action) and social and cultural (norms, culture; culture and gender bias in diagnosis)." loading="lazy">
+  <figcaption>One behaviour can be explained at several levels, from most to least reductionist.</figcaption>
+</figure>
+
+
 ## Studies and theories at a glance
 
 | Who | What | Finding or claim | One evaluation point |
@@ -80,6 +96,17 @@ Test yourself with the [issues and debates practice questions](/resources/oxford
 | Popper (1934; English 1959) | Falsifiability | A scientific theory must be open to refutation | Criticised theories that could explain any outcome |
 | Baddeley and Hitch (1974); Baddeley (2000) | Working memory model | Episodic buffer added to fit new evidence | Shows theory revision through hypothesis testing |
 | Open Science Collaboration (2015) | Replication of 100 studies | 97% of originals significant; 36% of replications significant | Failed replications do not always mean the original was false |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology--18-taxi-drivers-hippocampus.webp" width="900" height="1010" alt="Maguire et al. (2000) found London taxi drivers had a larger posterior hippocampus than controls, and its volume was positively correlated with time spent as a taxi driver. A schematic brain marks the posterior hippocampus; a bar pair shows taxi drivers larger than controls; an illustrative scatter graph shows volume rising with years of driving. This suggests experience changes the brain (plasticity), an interactionist point." loading="lazy">
+  <figcaption>Maguire et al.: a larger posterior hippocampus that grows with years of taxi driving points to interaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology--20-tolman-honzik-sketch.webp" width="900" height="830" alt="A sketch graph of maze errors across days. Rats rewarded every day make fewer errors steadily. Rats given no food for 10 days stay high, then once rewarded on day 11 their errors drop quickly to match the always-rewarded rats. They had learned the layout without reinforcement, which stimulus-response links alone cannot explain." loading="lazy">
+  <figcaption>Tolman and Honzik: rats unrewarded for 10 days quickly matched rewarded rats once food appeared on day 11.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -146,6 +173,17 @@ Test yourself with the [issues and debates practice questions](/resources/oxford
 9. Of 100 studies, 97% of the originals had significant results, but only 36% of the replications did.
 10. Some amnesic patients recalled more of a story in the short term than the phonological loop could hold.
 11. Longer looking may reflect novelty or perceptual interest rather than understanding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology--21-replication-results.webp" width="900" height="766" alt="Two grids of 100 squares. In the original studies, 97 of 100 had statistically significant results. In the replications, 36 of 100 did. The Open Science Collaboration (2015) repeated 100 studies published in 2008." loading="lazy">
+  <figcaption>Open Science Collaboration (2015): 97% of original studies but only 36% of replications were significant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology--22-hypothetico-deductive-cycle.webp" width="900" height="890" alt="In the hypothetico-deductive cycle a theory produces a testable, falsifiable hypothesis; data are collected; the theory is then supported, revised or rejected, and a revised theory returns to the start. Example: Baddeley and Hitch proposed the working memory model in 1974; in 2000 Baddeley added the episodic buffer." loading="lazy">
+  <figcaption>Theories are tested, then supported, revised or rejected; the working memory model was revised in 2000.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

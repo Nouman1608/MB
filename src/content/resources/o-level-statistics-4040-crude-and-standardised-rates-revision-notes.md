@@ -62,6 +62,17 @@ Worked reminders:
 - A region has 11 500 women aged 15 to 49 and 690 births to women in that range. Fertility rate = 690 ÷ 11 500 × 1000 = **60.0 per thousand women**.
 - A bus depot employs 640 drivers and records 24 accidents. Accident rate = 24 ÷ 640 × 1000 = **37.5 per thousand drivers**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--01-crude-rate.webp" width="900" height="980" alt="A town of 84 000 people is drawn as 84 blocks, each standing for 1 000 people. One block is enlarged to show 15.5 births, because 1 302 births spread over 84 blocks is 15.5 per block. The formula crude rate equals events divided by population times 1 000 gives 15.5 per thousand." loading="lazy">
+  <figcaption>A crude rate counts events per 1 000 people: 1 302 births in 84 000 people is 15.5 per thousand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--02-age-structure.webp" width="900" height="850" alt="Two bars of equal length show towns of 40 000 people split into four age groups. In Town A, 5 thousand are aged 65 and over, one in eight, and the crude death rate is 10.15 per thousand. In Town B, 2 thousand are 65 and over, one in twenty, and the crude death rate is 6.75." loading="lazy">
+  <figcaption>Two towns of the same size can have very different age structures, which lifts the crude death rate of the older one.</figcaption>
+</figure>
+
+
 ## 2. Age-specific (subgroup) rates
 
 A rate for one subgroup uses only that subgroup's events and size:
@@ -69,6 +80,12 @@ A rate for one subgroup uses only that subgroup's events and size:
 age-specific rate = events in the group ÷ people in the group × 1000
 
 The subgroup does not have to be an age band. It could be sex, occupation or years of driving experience. The idea is the same: the rate inside each group is the building block for standardising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--03-age-specific-rates.webp" width="900" height="850" alt="Horizontal bars compare deaths per 1 000 people in four age groups. Town A: 2.0, 3.0, 9.0 and 50.0. Town B: 2.5, 3.5, 10.0 and 55.0. Town B is higher in every group." loading="lazy">
+  <figcaption>Age-specific rates remove the effect of age structure: Town B is higher in every age group.</figcaption>
+</figure>
+
 
 ## 3. Why standardise
 
@@ -121,6 +138,17 @@ Standardised death rates (per thousand):
 
 Two things to notice. First, Hill's standardised rate equals its crude rate. That is because Hill has exactly the standard population's make-up (30%, 50% and 20% in the three groups), so standardising changes nothing for it. Second, the order reverses: Vale has the lower crude rate but the higher standardised rate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--04-standardised-rate.webp" width="900" height="910" alt="A 10 by 10 grid shows the standard population of 100 people: 20 aged 0 to 14, 40 aged 15 to 44, 25 aged 45 to 64 and 15 aged 65 and over. Two stacked bars show how much each age group adds to the standardised death rate: Town A 0.40, 1.20, 2.25 and 7.50 making 11.35; Town B 0.50, 1.40, 2.50 and 8.25 making 12.65." loading="lazy">
+  <figcaption>A standardised rate weights each age-specific rate by the standard population: Town A 11.35, Town B 12.65.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--05-rates-ranking-flips.webp" width="900" height="840" alt="Two pairs of bars. Crude death rate: Town A 10.15 is higher than Town B 6.75. Standardised death rate: Town A 11.35 is lower than Town B 12.65. The ranking flips because one in eight of Town A is aged 65 or over." loading="lazy">
+  <figcaption>Town A has the higher crude death rate, but Town B has the higher standardised death rate.</figcaption>
+</figure>
+
+
 ## 5. Forming conclusions
 
 Use this order when a question asks you to compare populations.
@@ -147,6 +175,12 @@ This works for the whole population (using the crude rate) or for a subgroup (us
 
 - Crude birth rate 14.2 per thousand, population 310 000: births = 14.2 × 310 000 ÷ 1000 = **4 402**.
 - Death rate 3.5 per thousand for a group of 48 000 people: deaths = 3.5 × 48 000 ÷ 1000 = **168**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--06-rate-to-events.webp" width="900" height="840" alt="A district of 125 000 people is drawn as 125 blocks of 1 000 with 8.4 deaths per block, giving 1 050 deaths. A group of 6 400 people aged 65 and over is drawn as six blocks of 45 deaths and a 0.4 block of 18 deaths, giving 288 deaths." loading="lazy">
+  <figcaption>Events = rate × population ÷ 1 000, so 8.4 per thousand in 125 000 people is 1 050 deaths.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

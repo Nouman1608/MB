@@ -77,6 +77,22 @@ Venice* (all William Shakespeare), *Pride and Prejudice* (Jane Austen),
 (Nathaniel Hawthorne). Centres choose one drama text and one literary
 heritage text from these two lists
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--07-c2-route-choice.webp" width="900" height="820" alt="A compulsory Component 1 box splits into an OR choice between Component 2, a 1 hour 30 minute exam worth 40 percent, and Component 3, the coursework alternative also worth 40 percent. A panel notes both routes cover one modern drama and one literary heritage text." loading="lazy">
+  <figcaption>Candidates take Component 1, then either the exam (Component 2) or the coursework (Component 3).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--08-c2-paper-layout.webp" width="900" height="780" alt="A clock shows 1 hour 30 minutes for 60 marks. Two equal cards show Section A, Modern drama, 30 marks, assessed on AO1 and AO2, and Section B, Literary heritage, 30 marks, assessed on AO1, AO2 and AO4. Each section asks for one essay chosen from two." loading="lazy">
+  <figcaption>Two 30-mark essays: drama is marked on AO1 and AO2, the heritage text also on AO4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--09-c2-set-texts.webp" width="900" height="900" alt="Two columns list the five modern drama set texts and the six literary heritage set texts. A banner says to choose one drama text and one heritage text." loading="lazy">
+  <figcaption>One set text is studied from each of the two lists.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because Section B specifically tests AO4 (contextual understanding)
@@ -100,6 +116,12 @@ real constraint: practising full-length timed responses to both a drama
 and a literary heritage question in one sitting, not just individually,
 builds the pacing needed on the actual exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--11-c2-exam-habits.webp" width="900" height="880" alt="Three numbered cards: open book so learn to locate passages fast, weigh both essay options briefly, and practise timed drama and heritage answers in one sitting. A banner says locating a passage beats memorising it." loading="lazy">
+  <figcaption>Open-book skills, brief planning and timed practice matter more than memorised quotations.</figcaption>
+</figure>
+
+
 ## Worked example: bringing in context (Section B)
 
 An essay question asks how a literary heritage text explores social
@@ -121,6 +143,12 @@ AO1/AO2 + AO4: "The character's treatment reflects the rigid class
 The second version earns AO4 credit by connecting the textual evidence
 to the world the text was written in and out of, rather than treating
 the text as if it existed without a historical setting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--10-c2-context-bridge.webp" width="900" height="830" alt="Two panels compare answers. The first only describes a character being looked down on and has no link to context. The second links that moment to the rigid class structure and limited social mobility of the period, and to the writer critiquing it." loading="lazy">
+  <figcaption>Linking a textual moment to its historical context is what earns AO4.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

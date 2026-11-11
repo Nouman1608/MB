@@ -48,6 +48,12 @@ by Pearson. Both routes assess AO1 and AO2 throughout, with Component
 Component 2's coverage of the same assessment objectives across its two
 sections.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--12-c3-two-routes.webp" width="900" height="890" alt="A grid compares the exam route and the coursework route. Weight, marks and content are the same for both, shown as wide teal cells. Format and marking differ: a written exam marked externally, or two assignments marked by the centre and externally moderated." loading="lazy">
+  <figcaption>The two routes carry the same weight and content but are assessed differently.</figcaption>
+</figure>
+
+
 ## Specification coverage
 
 **PEARSON EDEXCEL INTERNATIONAL GCSE ENGLISH LITERATURE (4ET1) — COMPONENT 3**
@@ -78,6 +84,17 @@ is permitted once a piece has been marked; submissions may be handwritten
 or word-processed; centres must retain candidate work securely for at
 least six months after the relevant examination series
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--13-c3-assignment-marks.webp" width="900" height="700" alt="Two equal bars of 30 marks. Assignment A is split 15 marks for AO1 and 15 for AO2. Assignment B is split 10 marks each for AO1, AO2 and AO4, and AO4 appears only in Assignment B." loading="lazy">
+  <figcaption>Assignment A uses AO1 and AO2 equally; Assignment B adds AO4 for context.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--14-c3-conditions.webp" width="900" height="880" alt="Six tiles list assessment rules, with ticks for allowed actions (independent work, general guidance at draft stage, signed authentication, handwritten or typed work) and crosses for detailed correction and rewriting after marking. A flow shows the centre marks, external moderation follows, and the centre keeps the work for at least six months." loading="lazy">
+  <figcaption>Work must be independent, with general guidance only and no rewriting after marking.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because Assignment B is the only place AO4 (context) is directly
@@ -101,6 +118,17 @@ is losing focus and repeating points, not a formal deduction -- so
 treat the range as a target for a tightly argued response rather than a
 hard ceiling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--15-c3-word-count.webp" width="900" height="640" alt="A ruler from 0 to 1000 words has the 650 to 800 word range shaded and labelled target range. A note says the range is a target, not a ceiling or floor, and that going past 800 carries no stated penalty but focus can drift." loading="lazy">
+  <figcaption>Aim for a tightly argued answer of about 650 to 800 words.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--17-c3-context-link.webp" width="900" height="880" alt="A top panel shows a generic background paragraph disconnected from the analysis. A bottom panel shows one specific contextual detail linked both ways to one specific textual moment, earning AO4. A banner says to plan at least one precise link." loading="lazy">
+  <figcaption>In Assignment B, tie a specific contextual detail to a specific moment in the text.</figcaption>
+</figure>
+
+
 ## Worked example: balancing Assignment A's two AOs
 
 A candidate is writing on a modern drama text, focusing on how a
@@ -122,6 +150,12 @@ Balance check: since AO1 and AO2 are weighted equally (15 marks each),
 Explicitly checking that every paragraph pairs a technique (AO2) with
 the textual evidence for it (AO1) is a reliable way to keep the two
 equally-weighted objectives in balance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--16-c3-pair-every-point.webp" width="900" height="900" alt="Three balance scales show an essay that only narrates tipping towards AO1, an essay that pairs technique with evidence staying balanced, and an essay that only lists techniques tipping towards AO2. Below, techniques such as stage directions are paired with the evidence they rest on." loading="lazy">
+  <figcaption>Pair every technique (AO2) with its evidence (AO1) to keep the two equally weighted objectives in balance.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

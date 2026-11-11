@@ -53,6 +53,12 @@ poetry), examining how writers use and adapt tragic conventions
 genre across a prescribed set of texts (drama, prose and poetry),
 examining how writers use and adapt comic conventions
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--05-p1-whole-qualification.webp" width="900" height="870" alt="A bar shows Paper 1 at 40 percent, Paper 2 at 40 percent and the non-exam assessment at 20 percent, with Paper 1 marked as the current paper. Three cards give the format: Paper 1 closed book 2 hours 30 minutes 75 marks; Paper 2 open book 3 hours 75 marks; non-exam two essays 50 marks. A note says closed book means building a memorised quotation bank." loading="lazy">
+  <figcaption>Paper 1 is closed book and worth 40% of the A-level, alongside Paper 2 and the non-exam component.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because this is a genre-led specification, the strongest answers treat
@@ -75,6 +81,12 @@ summarises a text's plot and features, without connecting back to the
 genre question, underperforms even where the individual textual
 analysis is strong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--03-p1-genre-led.webp" width="900" height="1030" alt="A crossed-out row of three unconnected text boxes is contrasted with a hub diagram. The hub, labelled one genre, has two-way arrows to a drama text, a prose text and a poetry text. The caption says each text both follows and departs from the genre." loading="lazy">
+  <figcaption>Paper 1 treats the genre as the centre and the texts as ways of testing it.</figcaption>
+</figure>
+
+
 ## Assessment at a glance
 
 Paper 1 (Literary Genres) is a 2 hour 30 minute closed-book exam worth
@@ -90,6 +102,12 @@ AQA has published an updated 7717 specification for first exams from
 2027, adding further optional set texts within the same paper
 structure described above -- confirm which version applies to your
 examination year before relying on any specific text list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--01-p1-structure.webp" width="900" height="820" alt="Four chips give the facts: 2 hours 30 minutes, 75 marks, 40 percent of the A-level, closed book. Beneath, a bar splits into three equal 25-mark sections. Section A is a Shakespeare passage question answered on the play you studied; Section B is a Shakespeare essay and Section C an essay linking two texts, each chosen from two questions." loading="lazy">
+  <figcaption>Paper 1 has three compulsory 25-mark sections and no text in the exam room.</figcaption>
+</figure>
+
 
 ## The three sections in more detail
 
@@ -111,6 +129,12 @@ two genre options themselves; confirming which genre option your
 course is actually teaching is still worth doing early, since in
 practice a centre typically teaches only one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--04-p1-section-c.webp" width="900" height="870" alt="Three boxes (drama, prose, poetry) lead to two linked circles, Text 1 and Text 2. Two ticked rules follow: one of the two texts must be a drama text and one must be written before 1900. A final note says to check your planned texts satisfy both before the exam." loading="lazy">
+  <figcaption>Section C links two texts, and the pair must include a drama text and a pre-1900 text.</figcaption>
+</figure>
+
+
 ## Genre conventions worth knowing cold
 
 For Aspects of Tragedy, the key conventions are the tragic hero,
@@ -124,6 +148,12 @@ really achieve full catharsis, or does it complicate it -- rather than
 a checklist to confirm is mechanically present, since AQA's assessment
 objectives explicitly reward this kind of critical debate over simple
 feature-spotting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--02-p1-genre-options.webp" width="900" height="858" alt="Two side-by-side panels with a sad mask for Tragedy (Option 1A) and a happy mask for Comedy (Option 1B). Tragedy lists tragic hero, hamartia, hubris, catharsis and inevitable downfall. Comedy lists comic resolution, misunderstanding or mistaken identity, social correction and restored order. A note says to test each against the text." loading="lazy">
+  <figcaption>Candidates choose Tragedy or Comedy and treat its conventions as questions to debate.</figcaption>
+</figure>
+
 
 ## Why Paper 1's closed-book format matters for revision
 

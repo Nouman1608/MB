@@ -68,6 +68,12 @@ qualification (against Paper 1's 30% AO1 and 30% AO2), for an overall
 Listening) is a separately reported endorsement that does not count
 toward Paper 2 or the overall grade
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--11-p2-compare.webp" width="900" height="900" alt="Two-column comparison of reading and writing on each paper." loading="lazy">
+  <figcaption>Paper 2 reads modern-world themes and issues and has a directed writing task; Paper 1 reads literary non-fiction and offers a free choice of composition.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because Paper 2's reading texts are explicitly "modern-world themes and
@@ -112,6 +118,12 @@ assessable meaning. Neglecting technical accuracy (W4) under time
 pressure -- it is worth 10 of Section B's 40 marks, a quarter of the
 section, not an equal half against the other three writing objectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--15-p2-w4.webp" width="900" height="780" alt="A grid of 40 squares, one row of ten highlighted." loading="lazy">
+  <figcaption>W4 technical accuracy is 10 of Section B’s 40 marks, a quarter; W1 to W3 share the other 30.</figcaption>
+</figure>
+
+
 ## Worked example: matching writing to audience and purpose
 
 A directed writing task asks candidates to write an article for a school
@@ -134,6 +146,12 @@ these three elements -- for example, a beautifully argued piece that
 reads like a formal essay rather than a magazine article -- loses marks
 against AO2's requirement to adapt form and register to task and
 purpose, however accurate the grammar is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--14-p2-directed.webp" width="900" height="1040" alt="The school magazine task linked to its three checks with the lesson’s key features of each." loading="lazy">
+  <figcaption>A directed task is checked against audience, purpose and form; ignoring any one loses marks even if the grammar is accurate.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -172,3 +190,14 @@ across genres.
 
 OxfordAQA International GCSE English Language (9270) specification,
 Version 5.1 — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-english-language-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--12-p2-weights.webp" width="900" height="780" alt="Two to-scale bars show the 30+20 split for reading and writing." loading="lazy">
+  <figcaption>AO1 and AO2 each total 50%: 30% from Paper 1 plus 20% from Paper 2 or NEA; AO3 Speaking and Listening is reported separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--13-p2-sources.webp" width="900" height="900" alt="Four tile pictures of source types and a banner about prior knowledge." loading="lazy">
+  <figcaption>Section A texts can be brief or solely visual, fiction or non-fiction, on modern-world themes; everything needed is in the source.</figcaption>
+</figure>
+

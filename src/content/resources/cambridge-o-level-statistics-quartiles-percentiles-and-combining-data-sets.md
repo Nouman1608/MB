@@ -106,6 +106,12 @@ P90 = 40 + (108 − 94)/18 × 20 = 40 + 15.56 = 55.6 minutes
 
 Notice the unequal class widths. The formula uses the width of the class you are in, so it copes with them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--08-q-interpolation.webp" width="900" height="880" alt="A close-up of the cumulative frequency line across the class 20 to 30 minutes. Going from 30 up to the target 60 is 30 of the 34 patients, so the median is 20 + 30/34 x 10, about 28.8 minutes." loading="lazy">
+  <figcaption>Interpolation assumes the observations are spread evenly across the class, so the result is an estimate.</figcaption>
+</figure>
+
+
 ### Going the other way: value to percentile
 
 To find what percentage of the data lies at or below a value, find the cumulative frequency at that value, then divide by n.
@@ -121,6 +127,12 @@ patients waiting more than 50 minutes = 120 − 103 = 17
 
 So 50 minutes is about the 86th percentile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--09-q-percentile-rank.webp" width="900" height="880" alt="On the polygon, 50 minutes gives a cumulative frequency of 103. A strip of 120 patients splits into 103 who waited 50 minutes or less and 17 who waited longer, so 50 minutes is about the 86th percentile." loading="lazy">
+  <figcaption>To find a percentile rank, go up from the value first, then across.</figcaption>
+</figure>
+
+
 ### Reading from a curve or polygon
 
 A cumulative frequency graph does the same job by eye. Plot at the upper class boundaries, add the starting point at cumulative frequency 0, then draw straight lines (polygon) or a smooth curve.
@@ -132,6 +144,12 @@ A cumulative frequency graph does the same job by eye. Plot at the upper class b
 Keep the guide lines on the paper, because they show your method. For the clinic data the polygon passes through (0, 0), (10, 8), (20, 30), (30, 64), (40, 94), (60, 112) and (80, 120). Reading across at 60 meets the polygon in the segment from (20, 30) to (30, 64), so the reading is the same 28.8 that interpolation gives. A smooth curve drawn by hand will give a slightly different reading, which is acceptable for an estimate.
 
 To read a percentile rank from a curve, go up from the value first, then across.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--07-q-polygon-readings.webp" width="900" height="770" alt="A cumulative frequency polygon of 120 waiting times with target lines for n/4, n/2, 3n/4 and 0.9n. Reading across then down gives Q1 = 20, median about 28.8, Q3 about 38.7 and the 90th percentile about 55.6 minutes." loading="lazy">
+  <figcaption>Mark the target on the vertical axis, go across to the graph, then down to read the value.</figcaption>
+</figure>
+
 
 ### Data rounded to a unit
 
@@ -159,6 +177,12 @@ Q3 = 60.5 + (120 − 96)/44 × 20 = 60.5 + 10.91 = 71.4
 
 The lower quartile is the score at cumulative frequency 40, which is exactly 40.5. Using the limits 40 or 60 instead of the boundaries 40.5 and 60.5 would shift every answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--10-q-boundaries.webp" width="900" height="860" alt="A histogram of 160 whole-mark scores with bars between the true boundaries 0.5 to 100.5. The lower quartile is 40.5, the median about 54.8 and the upper quartile about 71.4." loading="lazy">
+  <figcaption>For classes with gaps, use true boundaries half a unit beyond the limits.</figcaption>
+</figure>
+
+
 ## Section 5.4: combining data sets
 
 ### Why you cannot just average the averages
@@ -173,6 +197,12 @@ For a set of n values with mean x̄ and standard deviation σ, these two facts r
 ```
 
 The second comes from σ² = Σx²/n − x̄², the working form of the standard deviation (the syllabus notation uses σ for the population standard deviation). If your course notes define it another way, use your course's definition consistently.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--11-q-combined-mean.webp" width="900" height="620" alt="A balance beam with group A (30 pupils, mean 54) and group B (20 pupils, mean 64). It balances at the combined mean 58, since 30 x 4 = 20 x 6. The simple average 59 is marked wrong." loading="lazy">
+  <figcaption>The larger group counts for more, so the combined mean sits nearer its mean.</figcaption>
+</figure>
+
 
 ### Method for combined sets
 
@@ -208,6 +238,12 @@ mean = 14.2
 σ² = 2116/10 − 14.2² = 211.6 − 201.64 = 9.96
 σ = 3.16 (3 s.f.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--12-q-combined-sd.webp" width="900" height="800" alt="Three bars add up n, the sum of x and the sum of x squared for groups A and B, giving 50, 2900 and 171 130. The combined mean is 58 and the standard deviation 7.66." loading="lazy">
+  <figcaption>Combine the totals, never the standard deviations.</figcaption>
+</figure>
+
 
 ### Removing or adding a value
 

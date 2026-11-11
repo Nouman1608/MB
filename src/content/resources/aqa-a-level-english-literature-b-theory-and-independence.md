@@ -47,6 +47,12 @@ title, "Theory and Independence," names both the critical-theory
 application and the self-directed research and text selection as the
 skills actually being assessed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-b-theory-and-independence--01-tni-weights.webp" width="900" height="860" alt="A stacked bar shows the A-level split: Paper 1 is 40 percent, Paper 2 is 40 percent and Component 3, the non-exam assessment, is 20 percent. Paper 1 and 2 are timed exams, while Component 3 is coursework marked by the centre and moderated by AQA. A second pair of bars shows that 20 percent is half the 40 percent weighting of one exam paper." loading="lazy">
+  <figcaption>Component 3 is worth 20% of the A-level, half the weighting of each exam paper.</figcaption>
+</figure>
+
+
 ## What you submit
 
 Two essays, **1,250-1,500 words each**, on **two different texts**:
@@ -60,6 +66,12 @@ Two essays, **1,250-1,500 words each**, on **two different texts**:
 There is no exam-hall time pressure, but each essay should be 1,250-1,500
 words, with 1,500 the maximum, and a strict requirement that the two texts draw on genuinely
 *different* critical lenses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-b-theory-and-independence--02-tni-submission.webp" width="900" height="1120" alt="Two essay sheets are shown, one on a poetry text and one on a prose text. Each is linked to a different section of the AQA Critical anthology. A ruler shows each essay is 1,250 to 1,500 words with 1,500 as the maximum. Below, the two allowed pairings are shown: two conventional essays, or one conventional and one re-creative essay." loading="lazy">
+  <figcaption>Two essays on two different texts, one poetry and one prose, each tied to a different anthology section.</figcaption>
+</figure>
+
 
 ## The Critical anthology and how to choose texts against it
 
@@ -82,6 +94,12 @@ to apply to it -- an essay that has to strain to make a critical lens
 fit its chosen text rarely scores as well as one where the fit was
 considered from the start.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-b-theory-and-independence--03-tni-anthology.webp" width="900" height="990" alt="A hub labelled Critical anthology connects to six boxes, one for each critical method: narrative theory, feminist theory, Marxist theory, eco-critical theory, post-colonial theory, and literary value and the canon, each with the lesson's short gloss. Below, two rows compare approaches: picking two anthology sections first and then texts that fit is the sound approach; choosing a favourite text first and hunting for a lens afterwards is riskier." loading="lazy">
+  <figcaption>Six critical methods to choose from, and why to pick the lens before the text.</figcaption>
+</figure>
+
+
 ## The conventional essay
 
 A conventional response is a debate-style essay that uses the Critical
@@ -92,6 +110,12 @@ sympathise with any of the English characters" -- an argumentative
 task format: state a position, then use anthology-informed ideas as
 evidence and counter-evidence, arriving at a considered, not
 one-sided, conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-b-theory-and-independence--04-tni-two-routes.webp" width="900" height="770" alt="Two columns compare the response types. A conventional essay has three steps: state a position, use anthology ideas as evidence and counter-evidence, and reach a considered, not one-sided, conclusion; the lesson's example is post-colonial ideas on A Passage to India. A re-creative response also has three steps: rewrite or extend part of the text, fill a silence the text leaves, and add a commentary explaining each choice; the lesson's example is journal entries from Miss Kenton in The Remains of the Day." loading="lazy">
+  <figcaption>A conventional essay argues a position; a re-creative piece offers a critical reading by filling a gap in the text.</figcaption>
+</figure>
+
 
 ## The re-creative essay
 
@@ -115,6 +139,12 @@ re-creative narrators than already-central ones, precisely because
 their absence from the original narrative is itself the "gap" a
 re-creative piece can exploit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-b-theory-and-independence--05-tni-recreative.webp" width="900" height="1050" alt="A row of five blocks stands for the base text, with one dashed gap block. A gold block labelled Your piece fills the gap; examples are a new narrative voice, a missing scene or journal entries. A commentary sheet connects by arrows to the base text and to the anthology section used, explaining why each choice was made and what reading it produces. A word bar shows piece and commentary sharing one count of 1,250 to 1,500 words." loading="lazy">
+  <figcaption>A re-creative piece fills a gap in the base text; the commentary explains the choices, and both share one word count.</figcaption>
+</figure>
+
+
 ## Text-selection rules
 
 One prose text and one poetry text (a single-author poetry collection
@@ -131,6 +161,12 @@ appears anywhere on the A-level exam paper set-text lists, even if the
 candidate's own centre studies a different exam text and would never
 be examined on the banned one specifically.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-b-theory-and-independence--06-tni-text-rules.webp" width="900" height="860" alt="Two slots show the required texts: one poetry text (a single-author collection or one longer narrative poem) and one prose text. A flow shows that for a collection you study the whole text and then analyse at least two pieces, while a re-creative piece may focus on just one. Another row says one text may be a high-quality translation, treated as the author's own words. A red banner says any text on the A-level exam set-text lists is banned." loading="lazy">
+  <figcaption>One poetry text, one prose text, no exam set texts.</figcaption>
+</figure>
+
+
 ## How the five assessment objectives apply here
 
 Component 3 is marked against the same AO1-AO5 framework as the exam
@@ -145,6 +181,12 @@ lenses by design -- but the specification still expects each essay to
 gesture toward the wider network of texts and contexts the studied
 work sits within, not treat its text as read in total isolation from
 the wider literary and critical landscape.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-b-theory-and-independence--07-tni-ao-order.webp" width="900" height="980" alt="Five horizontal bars rank the assessment objectives. AO1 informed personal response is longest, labelled largest share. AO2 how meanings are shaped and AO3 significance of context are shorter and equal, marked roughly equal. AO4 connections across texts and AO5 different interpretations are shortest, marked smaller share each. A note warns that AO4 is easy to under-serve because the two essays are on different texts. Bar lengths show order only." loading="lazy">
+  <figcaption>AO1 carries the largest share, AO2 and AO3 are roughly equal, and AO4 and AO5 carry smaller shares.</figcaption>
+</figure>
+
 
 ## How to approach it
 

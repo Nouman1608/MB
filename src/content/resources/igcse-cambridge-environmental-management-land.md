@@ -92,6 +92,12 @@ chain like this, rather than memorising 2.1, 2.2 and 2.3 as separate
 lists, is what turns recall into the kind of application both papers
 reward, above all in their extended response questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--16-land-ig-feedback-loop.webp" width="900" height="880" alt="A four-step loop. Unsustainable land use causes soil to be lost by erosion; yields fall; farmers are pushed onto marginal, erosion-prone land; and that land use is again unsustainable, so the loop repeats. It is a human-environment feedback loop: land use degrades the resource farming depends on." loading="lazy">
+  <figcaption>Unsustainable land use degrades soil, which pushes farmers onto more marginal, erosion-prone land.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The three sub-topics build a cause-and-effect chain that examiners
@@ -147,3 +153,29 @@ Match the specific strategy to the specific problem in the scenario, such as ter
 Cambridge IGCSE Environmental Management (0680) syllabus for exams in
 2027, 2028 and 2029 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718156-2027-2029-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--15-land-ig-hillside-farm.webp" width="900" height="1120" alt="Four stages of one hillside farm. 1: loam soil with mixed cropping. 2: population pressure leads to monoculture and clearing of vegetation, which strips the roots that held the soil. 3: heavy rain washes topsoil down the slope into the river, silting it, and the yield falls. 4: practical fixes are terracing, contour ploughing and a vegetation buffer." loading="lazy">
+  <figcaption>A hillside farm: loam, then monoculture and clearing, then erosion, then fixes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--17-land-ig-loam.webp" width="900" height="930" alt="A soil cross-section shows the four parts of soil: mineral particles (sand, silt and clay), organic content, air and water in the pore spaces. Loam is a good medium for crop growth because it has the right mix of particles and pore spaces, retains moisture, contains organic content and inorganic ions, drains excess water and is easy to cultivate." loading="lazy">
+  <figcaption>Loam combines the soil parts in a mix that holds moisture, drains and is easy to work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--18-land-ig-farm-descriptions.webp" width="900" height="860" alt="Four panels. Arable farms grow crops, pastoral farms rear animals and mixed farms do both. Subsistence farms produce food mainly for the farmer's family; commercial farms produce food for sale. Intensive farming uses high inputs such as labour, capital, fertiliser or machinery to get high yields from a given area. Monoculture is growing a single crop over a large area." loading="lazy">
+  <figcaption>Four ways to describe a farm: what it grows, who eats it, how many inputs, how many crops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--19-land-ig-sustainable-food.webp" width="900" height="960" alt="Sustainable food production means producing enough food for the present generation using methods that let future generations grow food from the same land. In the sustainable row the field stays fertile across three generations. In the unsustainable row the soil is degraded each generation, so there are fewer plants and less fertile land. The fertility values are illustrative." loading="lazy">
+  <figcaption>Sustainable food production leaves land that future generations can still farm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--20-land-ig-slope-strategies.webp" width="900" height="640" alt="A cross-section of a slope shows six strategies to reduce soil erosion: a row of trees as a wind break at the top, terraces cut into the slope, contour ploughing ridges, a bund (a low earth wall), vegetation cover with roots at the bottom, and organic matter added to the soil." loading="lazy">
+  <figcaption>The six syllabus strategies placed on one slope.</figcaption>
+</figure>
+

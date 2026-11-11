@@ -52,6 +52,12 @@ Course links: [Language and Literature hub](/boards/ib/ib-dp/language-a-language
 Your teacher will share the assessment criteria, your school's deadlines, how drafts and feedback
 work, and what counts towards the word count. Do not rely on rumour for any of these.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-hl-essay--14-hl-facts.webp" width="900" height="800" alt="The HL essay is a written, externally assessed coursework component, worth 20 percent of the final grade at HL, on one work studied in the course. A donut chart shows the 20 percent share. A word-count bar marks the required range of 1,200 to 1,500 words, with the region above 1,500 shown as over the limit. SL students do not write it." loading="lazy">
+  <figcaption>The HL essay is written coursework of 1,200–1,500 words, worth 20% of the final grade at HL.</figcaption>
+</figure>
+
+
 ## Definitions
 
 - **Work**: the single literary text you write about, studied in class.
@@ -83,6 +89,17 @@ work, and what counts towards the word count. Do not rely on rumour for any of t
 3. Drop any work where the moments are only plot events.
 4. Keep the one where your question is narrowest and your evidence is richest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-hl-essay--15-hl-choose.webp" width="900" height="906" alt="A book icon over four ticked tests for choosing a work you studied in class: you have a question about it; it has five or more precise moments to cite; you can say how the writer’s choices create effects; and a narrow question on a rich work fits 1,500 words. The same tests apply to a non-literary body of work." loading="lazy">
+  <figcaption>A good choice passes four tests: a question, depth in one place, analysable choices and a fit with the word limit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-hl-essay--17-hl-areas.webp" width="900" height="950" alt="One work at the top with three arrows to the three areas of exploration. Readers, writers and texts: how language, form and structure make meaning. Time and space: how contexts of writing and reading change meaning. Intertextuality, connecting texts: how the work uses, bends or answers the conventions of other texts. In the HL essay this is about one work, not a comparison, which is the job of Paper 2." loading="lazy">
+  <figcaption>The three areas of exploration give three ways in to one work, not a comparison.</figcaption>
+</figure>
+
+
 ### Building the line of inquiry
 
 1. Start with a topic (e.g. control in a marriage).
@@ -99,6 +116,12 @@ work, and what counts towards the word count. Do not rely on rumour for any of t
 4. **Development**: second example, contrast or wider effect.
 5. **Link** back to the thesis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-hl-essay--18-hl-narrow.webp" width="900" height="1190" alt="A five-step flow from the lesson’s worked example. 1 Log four pieces of evidence from the story. 2 Spot the pattern: control arrives in the language of care. 3 Ask the question: how does Gilman make John’s control sound like kindness? 4 Write a working thesis: control dressed as love and medicine, with the diary voice letting the reader judge. 5 Split into three body sections: the language of care, the narrator’s self-correction, and the room as a physical form of the same control." loading="lazy">
+  <figcaption>The worked example moves from logged evidence to a pattern, a question, a thesis and three body sections.</figcaption>
+</figure>
+
+
 ### Final checks
 
 1. Every paragraph answers the line of inquiry.
@@ -111,6 +134,12 @@ work, and what counts towards the word count. Do not rely on rumour for any of t
 
 Draft is 1,640 words. Limit is 1,500. Cut at least **140 words**. If the draft has four body
 sections, cutting 35 from each removes exactly 140. Cut plot summary and repeated points first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-hl-essay--19-hl-budget.webp" width="900" height="650" alt="A bar drawn to scale from 0 to 1,500 words shows the lesson’s worked budget for a 1,380-word target: introduction 160, three body sections of 360 each, conclusion 140. That leaves 120 words spare under 1,500, and 1,380 lies within the 1,200 to 1,500 range. When you cut, cut summary and repetition, not analysis." loading="lazy">
+  <figcaption>A 1,380-word plan is 160 + 3 x 360 + 140 and leaves 120 words under the 1,500 limit.</figcaption>
+</figure>
+
 
 ## Worked reminder: description vs analysis (original text written for Marlbridge)
 
@@ -130,6 +159,12 @@ organisation's name. Pattern: a public shortage is made to feel like a private h
 inquiry: *How does the campaign turn a town-wide shortage into a matter of household habit?* The
 question names a method and an effect, and every text in the body of work can answer it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-hl-essay--16-hl-inquiry.webp" width="900" height="916" alt="Three boxes in sequence using the lesson’s example on Gilman’s “The Yellow Wall-Paper”. Topic: marriage in the story. Better: how is the husband presented? Line of inquiry: how does Gilman use the narrator’s polite, self-correcting voice (the feature) to expose the control (the effect) she cannot name directly (the tension)?" loading="lazy">
+  <figcaption>A line of inquiry asks one arguable question and names a feature, an effect and a tension.</figcaption>
+</figure>
+
+
 ## Essay structure at a glance
 
 | Part | Job | Watch for |
@@ -145,6 +180,12 @@ question names a method and an effect, and every text in the body of work can an
 - Every quotation embedded in your own sentence.
 - A page, line or text reference after each quotation, in your school's style.
 - Paraphrased ideas from critics cited as well as quotations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-hl-essay--20-hl-paragraph.webp" width="900" height="912" alt="A strip of the essay frame, introduction, three body paragraphs and conclusion, with one body paragraph highlighted and zoomed. Its five parts in order: claim, one sentence linked to the line of inquiry; evidence, a short embedded quotation; analysis, what the words, syntax or form do and why; development, a second piece of evidence, a contrast or a wider effect; link, how this moves the argument on." loading="lazy">
+  <figcaption>A body paragraph builds claim, evidence, analysis, development and link.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

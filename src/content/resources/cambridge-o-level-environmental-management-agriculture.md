@@ -82,6 +82,22 @@ Cambridge O Level Environmental Management (5014) syllabus, for examination in 2
 The syllabus coverage above was checked against this syllabus (Version 2) on 2026-09-21. Always check
 the current syllabus document for the complete, authoritative wording before an exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-agriculture--01-agri-soil-composition.webp" width="900" height="790" alt="A schematic cross-section of soil shows four parts. Mineral particles are sand (the largest), silt and clay (the smallest). The gaps between particles hold air (white) or water (blue). Organic content, shown dark with a worm, is also part of the soil." loading="lazy">
+  <figcaption>Soil is mineral particles (sand, silt, clay), organic content, air and water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-agriculture--02-agri-sandy-vs-clay.webp" width="900" height="900" alt="Close-ups show sandy soil with large grains and big air-filled gaps, and clay soil with tiny particles packed closely and water in the small gaps. Bars compare four properties. Sandy soil has more air, less water, drains fast and is easy to cultivate. Clay soil has less air, more water, drains slowly and is heavy to work. The comparison is relative, not measured." loading="lazy">
+  <figcaption>Sandy and clay soil compared on air, water, drainage and ease of cultivation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-agriculture--03-agri-farm-types.webp" width="900" height="850" alt="Two ways of describing farms. By what is farmed: arable farms grow crops, pastoral farms rear animals and mixed farms do both. By who the food is for: subsistence farms produce food for the farmer's own family, commercial farms produce food for sale." loading="lazy">
+  <figcaption>Arable, pastoral and mixed farms; subsistence and commercial farming.</figcaption>
+</figure>
+
+
 ## Intensive vs extensive farming
 
 Topic 3 names farming types as arable, pastoral and mixed, and subsistence and commercial (3.3); the
@@ -94,6 +110,12 @@ but generally placing less concentrated pressure on any single area's soil and w
 approach is universally "better" -- the environmental trade-off depends on the specific practices used
 within each system, so an answer that simply labels intensive farming as bad and extensive farming as
 good is oversimplified.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-agriculture--04-agri-intensive-extensive.webp" width="900" height="1030" alt="Intensive farming puts many inputs (labour, capital, fertiliser, pesticide) into a small area and gives a higher yield per hectare, but puts more concentrated pressure on soil and water. Extensive farming uses a larger area with fewer inputs for the area, gives a lower yield per hectare and puts less concentrated pressure on any one area. Neither is automatically better." loading="lazy">
+  <figcaption>Intensive farming: many inputs, high yield per hectare, concentrated pressure; extensive: the reverse.</figcaption>
+</figure>
+
 
 ## Soil erosion and desertification
 
@@ -116,6 +138,17 @@ Agroforestry, combining trees or shrubs with crops or livestock on the same land
 provide shade, and diversify a farm's output. These practices share a common principle worth remembering
 for exam answers: sustainable farming generally works by protecting or restoring the soil and ecosystem a
 farm depends on, rather than treating land purely as a short-term input to be exhausted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-agriculture--05-agri-erosion-desertification.webp" width="900" height="1100" alt="Two slope cross-sections: a slope with plant cover where roots hold the soil, and a slope where the cover has been removed, so bare soil is carried downhill by rain run-off and blown away by wind. Cover is removed by ploughing, overgrazing and clearing land. Bare soil is carried away by wind or water; where this is severe and sustained in dry or semi-arid land it can lead to desertification, which reduces future farming potential." loading="lazy">
+  <figcaption>Removing plant cover exposes soil to wind and water; severe, sustained loss in dry land can lead to desertification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-agriculture--06-agri-sustainable-practices.webp" width="900" height="1180" alt="Three sustainable practices. Crop rotation grows a different crop on the same field each year, shown as wheat, then a leafy crop, then a root crop; it restores soil nutrients and breaks pest and disease cycles. Terracing cuts level steps into a slope, which slows surface run-off and soil erosion. Agroforestry combines trees with crops or livestock, which stabilises soil, gives shade and diversifies output." loading="lazy">
+  <figcaption>Crop rotation, terracing and agroforestry protect or restore the soil a farm depends on.</figcaption>
+</figure>
+
 
 ## Worked example: comparing two farming inputs
 
@@ -143,6 +176,12 @@ alternative      the crop actually needs,        management, combining
 
 A strong exam answer names the specific environmental mechanism (such as eutrophication) rather than
 simply stating that a chemical input is "bad for the environment" without explaining how.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-agriculture--07-agri-fertiliser-pesticide.webp" width="900" height="1090" alt="Two panels compare farm inputs. Excess fertiliser runs into waterways, causing excess algal growth that uses up the oxygen: eutrophication. The sustainable alternative is to apply only what the crop needs, based on soil testing. Pesticide can kill non-target species and build up in food chains, reducing biodiversity. The sustainable alternative is integrated pest management, which combines targeted, reduced chemical use with natural pest control." loading="lazy">
+  <figcaption>Excess fertiliser causes eutrophication; pesticide kills non-target species and builds up in food chains.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

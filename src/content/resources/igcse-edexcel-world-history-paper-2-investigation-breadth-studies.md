@@ -80,6 +80,17 @@ turning points and periods of continuity is usually more useful than a
 list of isolated events, since exam questions frequently ask
 candidates to assess how much, or how quickly, something changed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--15-p2-cross-reference.webp" width="900" height="880" alt="Two sources with three illustrative points joined by solid lines where they agree and a dashed line where they disagree, then a weak answer (describes in turn) against a strong one (matches, adds origin and purpose, judges how far)." loading="lazy">
+  <figcaption>Cross-referencing means matching agreements and disagreements, then judging how far.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--16-p2-change-curve.webp" width="900" height="870" alt="An illustrative curve of change over a century or more with flat continuity stretches and three numbered turning points, two rapid and one gradual." loading="lazy">
+  <figcaption>A Breadth Study answer traces turning points, continuity and the pace of change.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Treating the Historical Investigation like a second Depth Study and
@@ -161,6 +172,12 @@ omits.
 - [Paper 2 revision notes](/resources/edexcel-igcse-world-history-paper-2-revision-notes/)
 - [Paper 2 practice questions](/resources/edexcel-igcse-world-history-paper-2-practice/)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--17-p2-assessment-objectives.webp" width="900" height="900" alt="A stacked bar of AO1 34%, AO2 36%, AO3 15%, AO4 15%, and a second bar splitting AO4 into 10% on Paper 1 and 5% on Paper 2." loading="lazy">
+  <figcaption>The four assessment objectives and where AO4 and AO3 sit.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **What does Paper 2 contain?**
@@ -177,3 +194,19 @@ Part (a) asks you to explain two ways something was different at two dates (6 ma
 Pearson Edexcel International GCSE History (4HI1) specification, Issue
 5, February 2026 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--12-p2-structure.webp" width="900" height="940" alt="Two panels: choose 1 of 5 Historical Investigations (A1 to A5, testing unseen sources) and 1 of 8 Breadth Studies (B1 to B8, testing change). 5 + 8 = 13 options but two choices." loading="lazy">
+  <figcaption>Paper 2 pairs one Investigation with one Breadth Study.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--13-p2-investigations.webp" width="900" height="755" alt="A to-scale timeline of the five Investigation options A1 to A5 between 1905 and 1990." loading="lazy">
+  <figcaption>The five Historical Investigation periods drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--14-p2-breadth-spans.webp" width="900" height="1051" alt="A to-scale timeline of the eight Breadth Studies, each 89 to 100 years long, with a 100-year ruler." loading="lazy">
+  <figcaption>Breadth Studies cover very long spans, around a century.</figcaption>
+</figure>
+

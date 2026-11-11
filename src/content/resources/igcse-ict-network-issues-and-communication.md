@@ -38,6 +38,12 @@ across the internet can potentially be intercepted or accessed by
 someone other than the intended recipient, which is why the specific
 protective measures below matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-network-issues-and-communication--07-sec-interception.webp" width="900" height="860" alt="A sender laptop sends packets along a shared network path to the recipient. A hooded figure who is not the recipient can read or copy the data. Passwords are protected by up-to-date anti-spyware and regular password changes." loading="lazy">
+  <figcaption>Data crossing shared networks can be intercepted; anti-spyware and regular password changes protect passwords.</figcaption>
+</figure>
+
+
 ## Passwords
 
 You need to know how to avoid password interception by using up-to-
@@ -50,6 +56,12 @@ character type, or is based on easily discoverable information such as
 a name or birthdate. Regularly changing passwords limits how long a
 compromised password remains useful to an attacker, even if it has
 already been intercepted or guessed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-network-issues-and-communication--08-sec-passwords.webp" width="900" height="915" alt="Three illustrative passwords. sara (4 characters, 1 of 4 types, a name) is weak. 14031999 (8 characters, 1 type, birthdate-style) is weak. Tq7#mK!92rLw (12 characters, all 4 types, no personal information) is strong." loading="lazy">
+  <figcaption>Strong passwords combine length, mixed character types and no personal information.</figcaption>
+</figure>
+
 
 ## Other authentication methods
 
@@ -70,6 +82,12 @@ combining "something you know" (a password), "something you have" (a
 token or card), and "something you are" (a biometric) for stronger,
 multi-factor authentication than any single method alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-network-issues-and-communication--09-sec-authentication.webp" width="900" height="1060" alt="Something you know: password. Something you have: magnetic stripe card, smart card, physical token, electronic token. Something you are: biometrics such as fingerprint, iris, face. Zero login uses passive signals; combining methods gives multi-factor authentication." loading="lazy">
+  <figcaption>Classify authentication by something you know, have or are; combining them is stronger.</figcaption>
+</figure>
+
+
 ## Anti-malware software
 
 You need to know the use of anti-malware and anti-virus software,
@@ -79,6 +97,12 @@ scanning data or software when downloading. Keeping anti-malware
 software up to date matters specifically because it relies on a
 database of known malware signatures -- software that is not updated
 cannot recognise malware discovered after its last update.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-network-issues-and-communication--10-sec-anti-malware.webp" width="900" height="970" alt="Storage used to move data and downloaded data or software are scanned against a database of known malware signatures. No match: allowed. Virus found: removed or quarantined. Malware discovered after the last update is not recognised." loading="lazy">
+  <figcaption>Anti-malware scans against known signatures, so it must be updated regularly.</figcaption>
+</figure>
+
 
 ## Electronic conferencing
 
@@ -98,6 +122,12 @@ and/or video, suiting collaborative work sessions where participants
 need to view the same material together in real time, not just hear or
 see each other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-network-issues-and-communication--11-conf-types.webp" width="900" height="906" alt="A grid compares video, audio and web conferencing. Video: camera, microphone, speaker, fast connection. Audio: microphone and speaker, lower bandwidth. Web: adds sharing of documents or screens alongside audio and/or video." loading="lazy">
+  <figcaption>Video needs a camera and fast connection, audio only a microphone and speaker, web adds sharing.</figcaption>
+</figure>
+
+
 ## A worked scenario
 
 A company runs a weekly meeting with staff working from three
@@ -115,6 +145,12 @@ need. This same reasoning -- matching the communication method's actual
 capability to what a scenario genuinely requires, rather than always
 choosing the most feature-rich option -- is the pattern exam questions
 in this subtopic are built around.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-network-issues-and-communication--12-conf-choose.webp" width="900" height="1000" alt="If everyone must work on the same live document, use web-conferencing. Otherwise if seeing people adds value use video; if not, audio. A weekly three-country meeting with a shared spreadsheet needs web; a daily spoken supplier update needs audio." loading="lazy">
+  <figcaption>Choose web, video or audio by what the meeting genuinely needs.</figcaption>
+</figure>
+
 
 ## Why this connects back to the network layer
 

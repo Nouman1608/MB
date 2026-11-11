@@ -130,6 +130,27 @@ and Virtual Machines) at full A Level, which extends processor
 architecture to parallel processing and virtual machines built
 directly on these AS-level foundations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--01-pf-registers-buses.webp" width="900" height="860" alt="The seven registers named in the lesson sit inside a CPU; three buses join it to main memory." loading="lazy">
+  <figcaption>The registers and buses the fetch-execute cycle uses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--02-pf-fetch-stage.webp" width="900" height="880" alt="PC copied to MAR, PC incremented, memory read into MDR, MDR copied to CIR, using illustrative values; then decode and execute." loading="lazy">
+  <figcaption>The fetch stage as a sequence of register transfers (illustrative values).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--03-pf-addressing-modes.webp" width="900" height="940" alt="Operand 20 under five addressing modes gives 20, 7, 42, 99 and address 121 from an illustrative memory." loading="lazy">
+  <figcaption>Same operand, five addressing modes, different results (illustrative memory).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--04-pf-trace-table.webp" width="900" height="839" alt="Trace table of four instructions: ACC becomes 5, 8, 8, 16 and address 20 becomes 8." loading="lazy">
+  <figcaption>Tracing means tracking registers and memory after every instruction.</figcaption>
+</figure>
+
+
 ## Worked example: masking a byte
 
 Suppose a byte holds the value 10110110 and a question asks how to
@@ -145,6 +166,17 @@ trace with several different masks, on paper, until the pattern is
 automatic is far more reliable exam preparation than memorising the
 truth tables for AND, OR, XOR and NOT in isolation from how they are
 actually applied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--05-pf-mask-and.webp" width="900" height="830" alt="10110110 AND 00111111 gives 00110110: the top two bits are forced to 0." loading="lazy">
+  <figcaption>AND with a mask clears chosen bits and keeps the others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--06-pf-set-toggle-invert.webp" width="900" height="1043" alt="OR sets bits, XOR toggles bits and NOT inverts, on the byte 10110110." loading="lazy">
+  <figcaption>OR sets, XOR toggles and NOT flips bits.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

@@ -53,6 +53,17 @@ The specification gives approximate Unit 4 weightings of AO1 9%, AO2 8% and AO3 
 
 **Worked paragraph.** *"Social loafing is reduced effort when contributions are pooled (knowledge). The eight sales staff share one target, so nobody's own figures are visible (application). The collective effort model predicts loafing because no one's effort seems to change the result (analysis). However, Earley found collectivists loafed less, so a team with strong shared identity may not (evaluation)."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--08-social-facilitation.webp" width="900" height="990" alt="Being watched by an audience raises arousal, which makes the dominant (best-learned) response more likely. On an easy or well-learned task the dominant response is correct, so performance improves, as with a skilled pool player. On a hard or new task it is often wrong, so performance worsens, as with a weak player. Cottrell added evaluation apprehension: arousal comes from expecting to be judged." loading="lazy">
+  <figcaption>Zajonc: an audience raises arousal, which helps easy tasks and harms hard ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--09-social-loafing.webp" width="900" height="1000" alt="Three rope-pulling scenes. Alone, one person pulls with full effort. In a group of four, each person pulls less hard (Ringelmann). In a pseudo-group, only one person pulls and the others pretend, yet effort still falls (Ingham), so the loss is motivational, not poor coordination. The collective effort model says people work hard in a group only if they expect their effort to matter for an outcome they value." loading="lazy">
+  <figcaption>People pull less hard in groups, even when others only pretend to pull, so the loss is motivational.</figcaption>
+</figure>
+
+
 ## Group decision-making
 
 **Risky shift** is when group decisions are riskier than the average of members' private decisions. It began with Stoner's (1961) master's thesis; Wallach, Kogan and Bem (1962) studied it with choice-dilemma problems. Later studies found some groups became more cautious. Moscovici and Zavalloni (1969) named the wider effect **group polarisation**: discussion pushes a group further in the direction it already leaned, risky or cautious.
@@ -65,6 +76,12 @@ Explanations: **social comparison** (people take a position slightly more extrem
 
 **Worked paragraph.** *"Groupthink is a drive for agreement that overrides realistic appraisal (knowledge). The board is close-knit, the chair announced her view first and the one doubter stayed silent, which is self-censorship (application). A directive leader in a cohesive group is a key antecedent (analysis). But Janis's evidence is retrospective case studies, so the theory is better at explaining failures than predicting them (evaluation)."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--10-groupthink.webp" width="900" height="1194" alt="Antecedents of groupthink: high cohesion, structural faults such as insulation or a directive leader, and stress. Groupthink is a drive for agreement that overrides realistic appraisal. Janis listed eight symptoms in three types: overestimating the group (2), closed-mindedness (2) and pressure to conform (4). Remedies are an impartial leader, a devil's advocate and outside experts." loading="lazy">
+  <figcaption>Janis listed antecedents, eight symptoms in three types, and cheap remedies for groupthink.</figcaption>
+</figure>
+
+
 ## Group membership: deindividuation and social identity
 
 **Deindividuation** is reduced self-awareness and accountability, often in crowds or under anonymity. Festinger, Pepitone and Newcomb (1952) introduced the term. Diener et al. (1976) found Halloween trick-or-treaters who were anonymous and in groups took extra sweets more often than named children alone. Johnson and Downing (1979) found participants in Ku Klux Klan-style robes gave more shocks and those dressed as nurses fewer, so anonymity does not simply release aggression. The **SIDE model** (Reicher, Spears and colleagues) argues that anonymity makes group identity more salient, so people follow the **group's norms**, good or bad.
@@ -74,6 +91,12 @@ Explanations: **social comparison** (people take a position slightly more extrem
 **Evaluation.** Minimal group findings replicate well, but the tasks are artificial; real departments have history and status. The theory is weaker at predicting when favouritism becomes hostility.
 
 **Worked paragraph.** *"Social identity theory says self-esteem partly comes from group membership (knowledge). After the merger, staff call themselves 'old Dalton' and give their own side the better projects, which is in-group favouritism (application). Comparing favourably with the other side raises their self-esteem (analysis). Minimal group studies support this, though their trivial groups lack the history of real firms (evaluation)."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--11-social-identity-theory.webp" width="900" height="920" alt="Three processes: social categorisation (sorting people into groups), social identification (adopting the group identity) and social comparison (comparing favourably to raise self-esteem). The result is in-group favouritism and out-group bias. In Tajfel's minimal group studies, people divided by preferring paintings by Klee or Kandinsky favoured their own group." loading="lazy">
+  <figcaption>Social identity theory: categorise, identify, compare, then favour the in-group.</figcaption>
+</figure>
+
 
 ## Communication at work
 
@@ -88,6 +111,12 @@ Explanations: **social comparison** (people take a position slightly more extrem
 **Evaluation.** Ekman versus Jack is a [nature-nurture debate](/resources/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology/): biology may set expressions while culture shapes display and recognition. Personal space surveys use self-report, which may not match behaviour.
 
 **Worked paragraph.** *"E-mail lacks non-verbal cues (knowledge). The manager's 'Great job, as always' was meant as praise but read as sarcasm (application). Kruger et al. explain why she did not foresee this: egocentrism means writers hear their own tone, and e-mail gives no instant feedback to correct it (analysis). Their controlled experiments make this causal claim strong (evaluation)."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--12-personal-space-zones.webp" width="900" height="700" alt="A scale in centimetres shows Hall's four zones: intimate up to about 46 cm, personal 46 cm to 1.2 m, social 1.2 m to 3.7 m and public beyond. Below it, Sorokowska et al. found preferred distance from strangers was under 90 cm in Argentina, Peru, Ukraine and Bulgaria and over 120 cm in Romania, Hungary and Saudi Arabia." loading="lazy">
+  <figcaption>Hall described four distance zones; preferred distance from strangers differs between cultures.</figcaption>
+</figure>
+
 
 ## Job motivation and satisfaction
 
@@ -109,6 +138,17 @@ Motivational force = expectancy x instrumentality x valence, so if any one is ze
 
 **Worked paragraph.** *"Expectancy theory says motivational force is expectancy x instrumentality x valence (knowledge). The technicians value the bonus, but believe the target cannot be reached, so expectancy is near zero (application). Because the terms multiply, motivation collapses however large the bonus (analysis). However, the theory assumes rational calculation, which real workers rarely do (evaluation)."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--13-expectancy-theory.webp" width="900" height="880" alt="Vroom: effort leads to performance (expectancy), performance leads to an outcome (instrumentality), and valence is how much the outcome is valued. Motivational force = expectancy x instrumentality x valence. With illustrative values, if the target seems impossible, expectancy is 0 and motivation is 0 x 0.9 x 8 = 0; if reachable, 0.8 x 0.9 x 8 = 5.76." loading="lazy">
+  <figcaption>Motivational force is expectancy multiplied by instrumentality multiplied by valence, so any zero makes it zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--14-warr-vitamin-model.webp" width="900" height="965" alt="A sketch graph of well-being against the amount of a job feature. Additional decrement (AD) features, like vitamins A and D, help up to a point and then harm: the curve rises then falls. Constant effect (CE) features, like vitamins C and E, help and never harm: the curve rises and levels off. Lists name six AD and six CE features." loading="lazy">
+  <figcaption>In Warr's model, some job features can be harmful in excess (AD) while others never harm (CE).</figcaption>
+</figure>
+
+
 ## Workplace stress
 
 **Workload and control.** Workload can be **overload** (too much or too difficult) or **underload** (too little, repetitive). Karasek's (1979) **demand-control model** says the most stressful jobs combine high demands with low **decision latitude** (control). In the Whitehall II study of 10,308 London civil servants, Bosma et al. (1997) found low job control predicted new coronary heart disease: low control at two measurements gave an odds ratio of 1.93 for any coronary event versus high control at both. Job demands were not related to risk. Marmot et al. (1997) found low control made the largest contribution to higher heart disease rates in lower grades.
@@ -118,6 +158,12 @@ Motivational force = expectancy x instrumentality x valence, so if any one is ze
 **Evaluation.** Whitehall II is large and longitudinal, but studied office workers in one country, largely by self-report. The J D-R model is flexible, since any demand or resource fits, but this makes it harder to falsify.
 
 **Worked paragraph.** *"The J D-R model says resources buffer demands (knowledge). The nurses face heavy caseloads, but one ward has supportive supervision and control over rotas (application). The model predicts less exhaustion there, because resources reduce the cost of demands (analysis). Bakker et al. (2005) support buffering for exhaustion and cynicism, though not for professional efficacy (evaluation)."* Shift work is covered in the [sleep study guide](/resources/oxfordaqa-a-level-psychology-9685-psychology-of-sleep/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--15-jd-r-model.webp" width="900" height="900" alt="Job demands such as work pressure and emotional demands lead to exhaustion and burnout (the health-impairment process). Job resources such as autonomy, feedback, coaching and role clarity lead to engagement (the motivational process). Resources also buffer the effect of demands. Bakker, Demerouti and Euwema found buffering for exhaustion and cynicism but not for professional efficacy." loading="lazy">
+  <figcaption>High demands drive exhaustion, resources drive engagement and also buffer the effect of demands.</figcaption>
+</figure>
+
 
 ## Common errors
 

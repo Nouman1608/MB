@@ -38,6 +38,12 @@ basin from a neighbouring one), tributary (a smaller river or stream
 joining a larger one), and confluence (the point where two rivers or
 streams meet).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--08-riv-basin.webp" width="900" height="940" alt="A schematic plan of one drainage basin. A dashed line around the basin is the watershed, the boundary that separates it from neighbouring basins. A main river runs from its source at the top to its mouth at the sea. Two smaller rivers, tributaries, join the main river at points called confluences, which are circled. Not to scale." loading="lazy">
+  <figcaption>A drainage basin with its watershed, tributaries and confluences labelled.</figcaption>
+</figure>
+
+
 ## Drainage basin processes
 
 You need to know the processes operating within a drainage basin:
@@ -52,6 +58,12 @@ river channel, and the balance between them -- particularly how much
 water travels via slow underground routes versus faster overland flow
 -- directly affects how quickly a river responds to rainfall and how
 severe the resulting flood risk becomes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--09-riv-pathways.webp" width="900" height="1010" alt="A hillside cross-section running down to a river. Numbered arrows show alternative routes for rainfall. 1 Interception: rain caught by a tree. 2 Infiltration: water soaking into the soil. 3 Overland flow: water running across the surface. 4 Throughflow: water moving sideways through the soil. 5 Groundwater flow: water moving through the underlying rock. 6 Evaporation: water lost to the air from the river and the ground. Water that infiltrates has not travelled as overland flow, so these are competing routes. Schematic, not to scale." loading="lazy">
+  <figcaption>Rainfall can take several alternative routes to the river channel; they are competing routes, not consecutive steps.</figcaption>
+</figure>
+
 
 ## River processes: erosion, transportation and deposition
 
@@ -83,6 +95,17 @@ wherever a river's energy falls below what is needed to keep carrying
 its load -- for example, where the river slows on the inside of a
 meander bend, or where it loses velocity entering the sea or a lake.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--10-riv-erosion.webp" width="900" height="890" alt="Four panels. Hydraulic action: moving water forces air into a crack in the bank until material breaks loose. Abrasion: sediment carried by the river scrapes the bed and banks. Attrition: carried stones collide and become smaller and more rounded. Solution: soluble rock such as limestone is dissolved by the water. Schematic, not to scale." loading="lazy">
+  <figcaption>The four erosion processes: hydraulic action, abrasion, attrition and solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--11-riv-transport.webp" width="900" height="870" alt="A side view of a river flowing left to right. 1 Traction: large heavy pieces are rolled along the bed. 2 Saltation: smaller pieces bounce along the bed. 3 Suspension: fine material is carried within the water. 4 Solution: dissolved material is carried invisibly in the water. Schematic, not to scale." loading="lazy">
+  <figcaption>The four ways a river transports its load, from large pieces rolled along the bed to dissolved material.</figcaption>
+</figure>
+
+
 ## Landforms of the long profile and valley shape
 
 You need to know a named set of landforms, spanning a river's long
@@ -104,6 +127,12 @@ repeated flood deposits) develop, and deltas can form where a river
 deposits sediment as it enters a standing body of water, such as a
 sea or lake.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--12-riv-long-profile.webp" width="900" height="1060" alt="A side view of a river from source to mouth, drawn from a curve that falls steeply at first and then more gently, ending at the sea. The profile is split into upper, middle and lower course. In the upper course erosion dominates and the profile has a waterfall (1, a step where the river drops) and potholes (2, circular hollows in the bed). In the middle and lower course transport and deposition increase: meanders (3), oxbow lakes (4), levées (5) and a flood plain (6), and a delta (7) where the river enters the sea. Schematic, not to scale." loading="lazy">
+  <figcaption>Where the named landforms typically occur along a river from source to mouth.</figcaption>
+</figure>
+
+
 ## Hazards, opportunities and flood management
 
 You need to demonstrate understanding that rivers present hazards and
@@ -116,6 +145,12 @@ the impacts of river flooding, covering both hard engineering
 approaches (such as building embankments or dams) and softer,
 non-structural approaches (such as flood warning systems and
 floodplain zoning that restricts building in the highest-risk areas).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--14-riv-flood-management.webp" width="900" height="880" alt="Four small pictures in two columns. Hard engineering: embankments, raised banks that keep the river in its channel and protect a house, and dams, a wall that holds water back in a reservoir so less flows downstream. Soft approaches: flood warnings, a siren and a phone alert that warn a house, and floodplain zoning, where building is not allowed on the highest-risk land beside the river. Schematic, not to scale." loading="lazy">
+  <figcaption>Hard engineering (embankments, dams) and soft approaches (flood warnings, floodplain zoning) for managing river floods.</figcaption>
+</figure>
+
 
 ## Required case study
 
@@ -140,6 +175,12 @@ an isolated, curved body of water: an oxbow lake. Being able to
 explain this full process -- not just define "oxbow lake" as a term --
 is what distinguishes a strong answer on river landforms from a
 partial one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--13-riv-meander-oxbow.webp" width="900" height="890" alt="Four plan views of a river bend drawn from a computed meander curve. 1: the river erodes the outside of each bend, where water flows fastest and deepest, and deposits on the inside, where it is slowest and shallowest. 2: the bend grows and the neck of land between two bends narrows. 3: during a flood the river breaks through the neck and takes a shorter, straighter course. 4: deposition seals the ends of the abandoned loop, leaving an isolated curved oxbow lake. Schematic, not to scale." loading="lazy">
+  <figcaption>How erosion and deposition at a bend lead to a cut-off neck and an isolated oxbow lake.</figcaption>
+</figure>
+
 
 ## How to approach it
 

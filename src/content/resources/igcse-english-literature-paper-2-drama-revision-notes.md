@@ -32,6 +32,12 @@ Condensed for the final weeks. For the full explanation, use the
 - **Closed book** — no texts in the exam; passage extracts for (a) questions are printed on the paper.
 - Set texts change by year — always confirm against the current syllabus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--13-p2-format.webp" width="900" height="660" alt="A bar splits the qualification 50 percent Paper 1 and 50 percent Paper 2. Paper 2 is two plays at 25 marks each in 1 hour 30 minutes, 50 marks in total." loading="lazy">
+  <figcaption>Paper 2 is half the qualification: two plays, 50 marks, 90 minutes.</figcaption>
+</figure>
+
+
 ## The one-of-each rule
 
 For each text, there is a choice of **(a) passage-based** or **(b) essay**. You must answer **one
@@ -58,11 +64,23 @@ paired with either Paper 4 (Unseen) or Component 5 (Coursework). Choosing Paper 
 paper, no coursework folder — but also no text open on the desk, and two plays held securely in memory
 at once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--15-p2-routes.webp" width="900" height="800" alt="Two panels: Paper 2 is closed book with no unseen paper or coursework but no text on the desk and two plays in memory. The Paper 3 route has the text open, plus Paper 4 Unseen or Component 5 Coursework." loading="lazy">
+  <figcaption>Paper 2 concentrates everything into one closed-book sitting.</figcaption>
+</figure>
+
+
 ## Because it's closed book: build a quotation bank
 
 Memorise **10-15 flexible lines per play**, chosen to cover several characters and themes — this will
 serve almost any essay title. Open-text candidates never need to do this; closed-book candidates
 cannot skip it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--17-p2-quote-bank.webp" width="900" height="970" alt="Two stacks of short quotation bars, one per play: ten solid and up to five dashed, ten to fifteen per play and twenty to thirty in all. Colours stand for different characters and themes." loading="lazy">
+  <figcaption>Memorise ten to fifteen flexible quotations per play.</figcaption>
+</figure>
+
 
 ## Passage vs essay — different jobs
 
@@ -78,6 +96,12 @@ Write about **audience, staging, entrances, dramatic irony**, and what an audien
 Treating a play like a novel — describing only plot and character — misses the genre awareness AO3
 specifically rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--18-p2-stage-paragraph.webp" width="900" height="1150" alt="A schematic stage with an entrance, a table and an audience, followed by four steps for a paragraph: claim, evidence, dramatic method, evaluation." loading="lazy">
+  <figcaption>Write about what an audience sees and hears.</figcaption>
+</figure>
+
+
 ## Timing discipline
 
 Split 90 minutes evenly: **45 minutes per question**. Two balanced 25-mark answers nearly always
@@ -90,6 +114,12 @@ outscore one long, well-developed answer and one rushed one.
   extract.
 - Writing about a play as if it were a novel — no staging, no audience awareness.
 - Over-running the first question and leaving the second rushed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--19-p2-timing.webp" width="900" height="800" alt="An even 45 plus 45 minute split of the 90-minute paper compared with an illustrative uneven split. A clock notes the five-minute plan for the essay question." loading="lazy">
+  <figcaption>Finish the first question at 45 minutes.</figcaption>
+</figure>
+
 
 ## Why 0475 is organised by paper, not by topic list
 
@@ -150,3 +180,14 @@ dramatic irony — treating the text as a play, not a novel.
 
 Cambridge IGCSE Literature in English 0475 syllabus for 2026 (Version 2, December 2025) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--14-p2-one-of-each.webp" width="900" height="880" alt="Four combinations of question types across the two plays. Passage with essay, in either order, is allowed; two passages or two essays are not." loading="lazy">
+  <figcaption>You must answer one passage question and one essay question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--16-p2-four-aos.webp" width="900" height="880" alt="A ring with four equal quarters for AO1 to AO4, each 25 percent, with a short description of each objective." loading="lazy">
+  <figcaption>The four objectives carry equal weight.</figcaption>
+</figure>
+

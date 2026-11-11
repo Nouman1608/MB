@@ -73,6 +73,17 @@ Practise with the [Forensic Psychology practice questions](/resources/aqa-a-leve
 | Token economy | Operant conditioning: tokens for target behaviours, exchanged for privileges |
 | Restorative justice | Offender and victim meet with a mediator; the offender takes responsibility |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--16-psy-organised-disorganised.webp" width="900" height="850" alt="Four process stages and organised versus disorganised characteristics. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Organised and disorganised offenders and the four typology stages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--17-psy-circle-theory.webp" width="900" height="1070" alt="Marauder home inside the circle; commuter home outside it; circle from the two furthest crimes (computed). Facts taken from the lesson text." loading="lazy">
+  <figcaption>Canter’s circle theory contrasts marauders and commuters.</figcaption>
+</figure>
+
+
 ## Theories and studies at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -93,6 +104,12 @@ Practise with the [Forensic Psychology practice questions](/resources/aqa-a-leve
 | Osborn and West (1979) | Conviction records of fathers and sons | Sons of convicted fathers more often convicted than sons of non-criminal fathers | Shared genes could explain it |
 | Hobbs and Holt (1976) | Token economy, young offenders | Improved behaviour | Gains may not last after release |
 | Sherman and Strang (2007) | Review of restorative justice | Reduced reoffending for some; more consistent for violent than property crime | Needs offender and victim consent |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--19-psy-eysenck-personality.webp" width="900" height="880" alt="Three scales with the typical criminal at the high end and a chain to poor socialisation. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Eysenck’s criminal personality is high on E, N and P.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -145,6 +162,17 @@ Practise with the [Forensic Psychology practice questions](/resources/aqa-a-leve
 10. Deterrence, incapacitation, retribution, rehabilitation.
 11. Cognitive preparation, skill acquisition, application practice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--18-psy-mednick-adoption.webp" width="900" height="990" alt="Bars 13.5%, 20% and 24.5% with parent icons showing who had a conviction. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Adoptee convictions rise when biological parents have convictions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--20-psy-kohlberg-levels.webp" width="900" height="930" alt="Six stages in three levels; offenders thought more likely pre-conventional. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Kohlberg’s levels of moral reasoning.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing the typology without naming organised and disorganised features.
@@ -174,6 +202,17 @@ Most of it. The specification's approximate Paper 3 weightings are 9 to 12% of t
 ## Next steps
 
 Revise the learning and biological approaches in the [Approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). Then try the [practice questions](/resources/aqa-a-level-psychology-7182-forensic-psychology-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--15-psy-profiling-approaches.webp" width="900" height="840" alt="Typology (top-down) and data-driven (bottom-up) flows to a profile. Facts taken from the lesson text." loading="lazy">
+  <figcaption>The two approaches start from different places.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--21-psy-custodial-aims.webp" width="900" height="800" alt="Deterrence, incapacitation, retribution and rehabilitation. Facts taken from the lesson text." loading="lazy">
+  <figcaption>The four aims of custodial sentencing.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

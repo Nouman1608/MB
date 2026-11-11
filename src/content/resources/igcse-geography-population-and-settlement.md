@@ -111,6 +111,12 @@ ignores migration entirely, it assumes every country follows the same
 path in the same order, and it gives no fixed timescale for how long
 each stage lasts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--01-pop-dtm.webp" width="900" height="820" alt="A graph of birth rate and death rate over five stages. In stage 1 both rates are high and roughly equal so the population changes little. In stage 2 the death rate falls sharply while the birth rate stays high, opening a wide gap called natural increase. In stage 3 the birth rate falls too and the gap narrows. In stage 4 both rates are low. In stage 5 the death rate is slightly above the birth rate and the population declines. Japan and Germany are the lesson's examples for stages 4 and 5. Sketch of the model, not real data." loading="lazy">
+  <figcaption>Birth and death rates across the five stages of the Demographic Transition Model, with the death rate falling first in stage 2.</figcaption>
+</figure>
+
+
 ## Population policies, over-population and under-population
 
 1.1 also requires you to describe and evaluate population policies,
@@ -167,6 +173,17 @@ health services now and risks high youth unemployment once that large
 cohort reaches working age, though it also promises a large future
 workforce if that potential is used well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--02-pop-pyramids.webp" width="900" height="910" alt="Three population pyramids built from illustrative percentages. Stage 1 has a very wide base that narrows fast, showing high birth and death rates. Stage 2 keeps a wide base but narrows more slowly, because the death rate has fallen. Stage 4 or 5 has a narrow base and near-vertical sides, showing low birth and death rates. Gold bars are the dependants (under 15 and over 64) and teal bars are working age (15 to 64). Male is on the left and female on the right of each pyramid." loading="lazy">
+  <figcaption>Population pyramid shapes for stage 1, stage 2 and stage 4 or 5 (illustrative percentages).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--03-pop-dependency.webp" width="900" height="850" alt="A bar of 100 people split into under 15 (18), working age 15 to 64 (65) and over 64 (17). The dependency ratio is under 15 plus over 64, divided by working age, times 100: (18 + 17) divided by 65 times 100 equals 53.8, about 54 dependants for every 100 workers. The numbers are illustrative." loading="lazy">
+  <figcaption>The dependency ratio worked through with an illustrative population of 100.</figcaption>
+</figure>
+
+
 ## Migration in depth
 
 1.2 expects both the causes and the consequences of migration to be
@@ -184,6 +201,12 @@ unemployment and skills brought back by returning migrants, but risks
 brain drain, the loss of working-age people, and family separation.
 Mark schemes consistently reward answers that evaluate both sides
 rather than treating migration as a one-directional story.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--04-pop-push-pull.webp" width="900" height="820" alt="A migrant stands in the middle. On the left, six push factors from the source country point towards the migrant: unemployment, poverty, conflict, natural disaster, persecution and poor access to services. On the right, five pull factors draw the migrant to the destination: jobs, higher wages, better services, greater safety and family already there. Both sets of arrows point the same way, left to right." loading="lazy">
+  <figcaption>Push factors in the source country and pull factors in the destination work together to drive migration.</figcaption>
+</figure>
+
 
 ## Settlement site, situation and hierarchy
 
@@ -214,6 +237,22 @@ strain on services, prompting responses such as site-and-service
 schemes, self-help housing schemes, and rural development aimed at
 reducing the push factors that drive migration to the city in the
 first place.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--05-pop-hierarchy.webp" width="900" height="1028" alt="A stack of four settlement sizes: city at the top, then town, village and hamlet at the bottom. Red dots on the left show how many settlements there are of each size (illustrative): 1 city, 2 towns, 4 villages, 8 hamlets. Shop symbols on the right show how many services each offers: 6 for the city, 4 for the town, 2 for the village, 1 for the hamlet. As size increases the number of settlements falls and the number of services rises." loading="lazy">
+  <figcaption>As settlements get larger there are fewer of them and each offers more services (illustrative counts).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--06-pop-range-threshold.webp" width="900" height="990" alt="Top: four small newsagent shops, each with a small dashed circle (its range) holding a few customers (a low threshold), so many shops fit close together. Bottom: one department store with a large dashed circle (a large range) holding many customers (a high threshold), so there are relatively few such shops. Range is how far people will travel to use a service. Threshold population is the minimum number of customers needed to make it viable. Schematic, not to scale." loading="lazy">
+  <figcaption>A newsagent has a low threshold and small range so there are many; a department store has a high threshold and large range so there are few.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--07-pop-land-use.webp" width="900" height="1010" alt="Concentric rings around a city centre, not to scale. 1: the central business district, accessible and high-value. 2: the inner city of older housing and former industry. 3: lower-density suburbs. 4: the rural-urban fringe where the city meets the countryside." loading="lazy">
+  <figcaption>A typical pattern of land use in a city, from the CBD out to the rural-urban fringe.</figcaption>
+</figure>
+
 
 ## A note on the syllabus successor
 

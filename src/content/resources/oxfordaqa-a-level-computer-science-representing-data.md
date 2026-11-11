@@ -69,6 +69,12 @@ The **bit** is the fundamental unit of information; a **byte** is 8 bits. With n
 
 So 3 MiB = 3 × 2²⁰ = 3,145,728 bytes. 3 MB is only 3,000,000 bytes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--08-rd-binary-hex.webp" width="900" height="710" alt="Eight boxes with place values 128, 64, 32, 16, 8, 4, 2, 1 hold the bits 1, 0, 1, 1, 0, 0, 1, 1, so 179 = 128 + 32 + 16 + 2 + 1 is 10110011 in binary. The bits are split into two groups of four. 1011 is 11, which is B in hex, and 0011 is 3, so 179 is B3 in hex." loading="lazy">
+  <figcaption>Each 1 in binary adds its place value; one hex digit stands for a group of four bits (a nibble).</figcaption>
+</figure>
+
+
 ## 3.5.3.1 to 3.5.3.3 Integers in binary
 
 **Unsigned** binary holds only zero and positive numbers, from 0 to 2ⁿ − 1 in n bits. **Signed** binary can also hold negatives.
@@ -100,6 +106,12 @@ So 3 MiB = 3 × 2²⁰ = 3,145,728 bytes. 3 MB is only 3,000,000 bytes.
 
 The range of n-bit two's complement is −2ⁿ⁻¹ to +2ⁿ⁻¹ − 1. For 10 bits that is −512 to +511.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--09-rd-twos-complement.webp" width="900" height="720" alt="Eight columns have place values -128, 64, 32, 16, 8, 4, 2, 1. Start with +89 as 01011001. Flip every bit to get 10100110. Add 1 to get 10100111. Checking: -128 + 32 + 4 + 2 + 1 = -89. The leftmost bit has a negative place value." loading="lazy">
+  <figcaption>To make a negative number, write the positive value, flip every bit, then add 1.</figcaption>
+</figure>
+
+
 ## 3.5.3.4 Numbers with a fractional part
 
 **Fixed point** puts the binary point in a fixed position. In an 8-bit unsigned format with four bits before the point and four after, the place values are 8, 4, 2, 1 . ½, ¼, ⅛, 1/16.
@@ -128,6 +140,12 @@ mantissa 0.1101010   exponent 0100
 For −5.75, first build +5.75 = 101.11 = 0.1011100 × 2³. Then take the two's complement of the mantissa: 0.1011100 becomes **1.0100100**, with exponent **0011**. Check: (−1 + 0.25 + 0.03125) × 8 = −5.75.
 
 **Precision and range.** More mantissa bits give **greater precision**; more exponent bits give **greater range**. For a fixed total, one is traded against the other. Here the largest positive value is 0.1111111 × 2⁷ = 127.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--10-rd-floating-point.webp" width="900" height="680" alt="The mantissa 0.1101000 has its binary point after the first bit. The exponent 0011 is +3, so the point moves 3 places right, giving 0110.1000. The place values 4 + 2 + 0.5 add up to 6.5." loading="lazy">
+  <figcaption>The exponent tells you how many places to move the binary point in the mantissa.</figcaption>
+</figure>
+
 
 ## 3.5.3.5 to 3.5.3.7 Errors, overflow and underflow
 
@@ -196,6 +214,12 @@ A **vector graphic** stores a list of objects with properties: x and y coordinat
 | File size | Depends on pixels and colour depth | Depends on number of objects; often small |
 | Suits | Photographs, detailed scenes | Logos, diagrams, maps, fonts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--11-rd-bitmap-size.webp" width="900" height="910" alt="An illustrative 8 by 8 grid of pixels forms a simple heart, with width 8 pixels and height 8 pixels. Each pixel holds a binary colour code. For the lesson example, 1440 by 960 pixels is 1,382,400 pixels; at 12 bits each that is 16,588,800 bits, which is 2,073,600 bytes. 12 bits allow 4096 colours." loading="lazy">
+  <figcaption>Bitmap storage = width x height x colour depth, then divide by 8 for bytes.</figcaption>
+</figure>
+
+
 ## 3.5.6 Representing sound
 
 An **analogue** quantity varies continuously; a **digital** one takes discrete values. When recording, an **ADC** samples a microphone's analogue voltage at regular intervals and converts each sample to the nearest binary value. For playback, a **DAC** turns stored numbers back into voltages that drive a speaker.
@@ -209,6 +233,12 @@ file size (bits) = rate (Hz) × resolution × seconds
 ```
 
 **Nyquist's theorem**: to represent a sound accurately, sample at a rate at least twice its highest frequency. A sound whose highest frequency is 9 kHz needs at least 18 kHz.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--12-rd-sound-sampling.webp" width="900" height="880" alt="A smooth analogue wave is measured at regular intervals. Each measurement is a vertical stem ending on the nearest of eight levels, which is a 3-bit illustrative resolution. For the lesson example, 22,050 Hz x 16 bits x 40 s = 14,112,000 bits = 1,764,000 bytes. Nyquist says to sample at least twice the highest frequency, so 9 kHz needs 18 kHz." loading="lazy">
+  <figcaption>An ADC measures the wave at regular intervals and stores each sample as the nearest binary value.</figcaption>
+</figure>
+
 
 ## 3.5.7 Basic encryption methods
 
@@ -229,6 +259,12 @@ XOR with key  01001000 -> H again
 
 The **key exchange problem** is sharing the key without interception. **Symmetric** ciphers (Caesar, Vernam) use one key for both directions; **asymmetric** ciphers use different, mathematically related keys, so the problem does not apply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--13-rd-caesar-cipher.webp" width="900" height="740" alt="Two alphabets are stacked. The top row is the plaintext A to Z. The bottom row is the cipher alphabet, shifted 7 places, so A becomes H, and the letters T to Z wrap round to A to G. The word SIGNAL is encrypted letter by letter, with each letter shifted by 7, to ZPNUHS. Shifting back 7 decrypts it." loading="lazy">
+  <figcaption>Every letter is shifted along by the key (here 7), wrapping from Z back to A.</figcaption>
+</figure>
+
+
 ## 3.5.8 Error detection and correction
 
 - **Parity bit**: an extra bit makes the count of 1s even (even parity) or odd. 1011001 has four 1s, so its even parity bit is 0. It detects an odd number of flipped bits, misses an even number, and cannot correct.
@@ -236,6 +272,12 @@ The **key exchange problem** is sharing the key without interception. **Symmetri
 - **Checksum**: a value calculated from the data is sent with it and recalculated on arrival. In one simple scheme, the bytes 01101100, 10011011 and 00110101 (108 + 155 + 53 = 316) give 316 mod 256 = 60. A mismatch shows an error, not its position, so data is resent.
 
 **Comparing them:** parity is cheapest (one bit) but weakest; majority voting can correct but costs the most bandwidth; checksums cover whole blocks and catch more errors than one parity bit, but cannot correct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--14-rd-error-detection.webp" width="900" height="990" alt="Parity bit: the data 1011001 has four 1s, so the even parity bit added is 0; it detects but cannot correct. Majority voting: each bit is sent three times; received groups 110, 001 and 111 decode to 1, 0 and 1 by majority, so one error per group is corrected. Checksum: the bytes 108, 155 and 53 add to 316, and 316 mod 256 is 60; a mismatch shows an error but not where." loading="lazy">
+  <figcaption>Parity and checksum detect errors; majority voting can also correct them, at the cost of sending more data.</figcaption>
+</figure>
+
 
 ## Common errors
 

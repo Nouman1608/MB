@@ -87,6 +87,12 @@ In "my infant tongue" the adult speaks about the child. The formal sentence belo
 the name it arrives at, "Pip", belongs to a small boy. From the first line you read two versions of
 one person, which lets the adult judge his younger self.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-prose-and-drama-analysis--01-pd-narrators.webp" width="900" height="1160" alt="Six small scenes compare narration types. A speech bubble marks the narrator (who tells) and an eye marks the focaliser (whose eyes). In first person both sit on one character. In third-person limited the narrator stays outside but sees through one character. In omniscient narration the narrator looks into several minds. In free indirect style the narrator voice and a character thoughts overlap. An unreliable narrator carries a question mark for the reader. In retrospective narration an older narrator looks back at a younger self with a gap between them." loading="lazy">
+  <figcaption>Ask two questions of every prose extract: who is telling, and whose eyes are we seeing through?</figcaption>
+</figure>
+
+
 ### Characterisation
 
 Writers build characters in two ways. **Direct characterisation** tells you ("She was proud").
@@ -109,6 +115,17 @@ Every narrative has two timelines: the **story** (events in the order they happe
 
 Always ask why the writer tells events in this order.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-prose-and-drama-analysis--02-pd-story-telling.webp" width="900" height="920" alt="Two rows. The top row shows five events A to E in the order they happened, left to right along a time arrow. The bottom row shows the order the text presents them: A, B, E, C, D. The jump from B to E is a prolepsis (flash-forward) and the jump from E back to C is an analepsis (flashback). Events A to E are illustrative." loading="lazy">
+  <figcaption>The story is the order events happened; the telling is the order the text gives them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-prose-and-drama-analysis--03-pd-pace.webp" width="900" height="930" alt="Three rows compare space on the page (gold bar) with time in the story (teal bar). In a scene the two bars are the same length. In a summary a very short gold bar stands for a long teal bar. In an ellipsis the gold bar has a gap where story time passes with nothing on the page." loading="lazy">
+  <figcaption>Pace is the relationship between how long events take in the story and how much page they get.</figcaption>
+</figure>
+
+
 ### Setting
 
 Setting covers place, time of day, season, weather and social world. It can mirror a character's
@@ -128,6 +145,17 @@ another. Mary Shelley's *Frankenstein* (1818) nests Victor's story, and the crea
 it, within Walton's letters, so each account reaches you through a listener who may not be neutral.
 Emily Brontë's *Wuthering Heights* (1847) works in a similar way through Lockwood and Nelly Dean.
 Endings can be **closed** (resolved) or **open** (left uncertain).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-prose-and-drama-analysis--04-pd-frame.webp" width="900" height="980" alt="Three nested boxes. The outer box is Walton’s letters, inside it is Victor’s story, and at the centre is the creature’s story. An arrow leaves the centre, crosses each frame and ends at an eye labelled you: each account reaches the reader through a listener who may not be neutral. A note says Wuthering Heights works in a similar way through Lockwood and Nelly Dean." loading="lazy">
+  <figcaption>In a frame narrative every inner story reaches you through the outer tellers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-prose-and-drama-analysis--07-pd-conventions.webp" width="900" height="850" alt="Four small stage drawings, each with an audience row below. Soliloquy: one character alone on stage speaks private thoughts to the audience. Aside: a brief remark goes to the audience while the other character on stage does not hear it. Dramatic irony: the audience knows something a character does not. Off-stage action: an event or sound comes from beyond the stage, such as a slamming door, reported rather than shown." loading="lazy">
+  <figcaption>Dramatic conventions control what the audience knows, and when, compared with the characters.</figcaption>
+</figure>
+
 
 ### Worked example: prose
 
@@ -154,6 +182,12 @@ slows the reading to match his dread.
 
 **Step 5 -- thesis.** The writer turns an ordinary wait into suspense by letting a flash-forward
 hang over a slowed-down present, so the reader shares Leo's dread before learning its cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-prose-and-drama-analysis--05-pd-prose-scene.webp" width="900" height="1090" alt="A scene drawn from the worked example: Leo stands at a bus stop beside eleven puddles, across the road from a bakery with lit windows. A thought bubble shows the letter that his mother will see later. Numbered marks tie the picture to five steps: perspective, time, setting, pace, and thesis." loading="lazy">
+  <figcaption>Five steps turn one short extract into an argument about suspense.</figcaption>
+</figure>
+
 
 ## Drama
 
@@ -223,6 +257,12 @@ non-action ends the scene, and the actor's stillness carries the moment.
 
 **Thesis.** The playwright creates tension through what is withheld: an unopened letter, an
 unexplained phone call and a son who will not touch either.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-prose-and-drama-analysis--06-pd-stage-scene.webp" width="900" height="1030" alt="A plan view of the kitchen scene seen from above. One lamp on the table lights a pool of light around Margaret, who sits at the table, and Ray, who has come in by the door with car keys in his hand. An unopened envelope lies on the table. A dashed line from Ray to the envelope is crossed out: he does not pick it up. Below, four numbered notes explain staging, prop, keys and action as meaning, and a box shows the short clipped dialogue." loading="lazy">
+  <figcaption>Staging, props, short lines and stillness all carry meaning in a scene.</figcaption>
+</figure>
+
 
 ## Comparing prose and drama
 

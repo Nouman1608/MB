@@ -60,6 +60,12 @@ P(C ∪ B) = 18/40 + 14/40 - 6/40 = 26/40 = 0.65
 
 Test before you add: can both events happen on the same trial? If yes, the simple sum is wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional--08-add-or-subtract.webp" width="900" height="870" alt="Two pictures. First, a ferry crossing is on time with probability 0.62, late by up to 10 minutes with 0.23 and late by more than 10 minutes with 0.15; these cannot happen together, so the late outcomes add to 0.38. Second, of 40 students 18 are in chess club and 14 in badminton club, with 6 in both, 12 in chess only, 8 in badminton only and 14 in neither. Adding 18 and 14 counts the 6 twice, so subtract them: 26 out of 40, which is 0.65." loading="lazy">
+  <figcaption>Add probabilities only when the events cannot both happen; otherwise subtract the overlap.</figcaption>
+</figure>
+
+
 ## 2. Independent events
 
 Two events are **independent** if one happening does not change the probability of the other. Typical sources are separate trials that cannot influence each other, such as two different coin tosses, or draws made with replacement. For independent events:
@@ -100,6 +106,17 @@ These ideas are often mixed up. If A and B are mutually exclusive and both have 
 | P(A ∩ B) | 0 | P(A) × P(B) |
 | Typical wording | "one outcome of a single trial" | "separate trials", "with replacement" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional--09-exclusive-vs-independent.webp" width="900" height="880" alt="With P(A) = 0.7 and P(B) = 0.15. Top: if A and B are mutually exclusive their bars cannot overlap, so P(A and B) is 0 and P(A or B) is 0.85, but P(A) times P(B) is 0.105, which is not 0, so exclusive events cannot be independent. Bottom: for independent events the unit square splits by 0.7 across and 0.15 down, so the overlap has area 0.7 times 0.15, which is 0.105. The other cells are 0.045, 0.595 and 0.255; P(A or B) is 0.745 and P(neither) is 0.3 times 0.85, which is 0.255." loading="lazy">
+  <figcaption>Exclusive events have no overlap, independent events overlap by exactly P(A) x P(B).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional--10-independence-test.webp" width="900" height="880" alt="A survey of 250 households: 200 have broadband, 75 have a dog and 60 have both. Drawn as a rectangle split 200 to 50 across and 75 to 175 down, the cells have counts 60 (broadband and dog), 140, 15 and 35, and each cell area equals its row share times its column share. P(B) times P(D) is 0.8 times 0.3, which is 0.24, and P(B and D) is 60 over 250, which is also 0.24, so the events are independent. If only 50 had both, P(B and D) would be 0.2, which differs from 0.24, so they would not be independent." loading="lazy">
+  <figcaption>If P(B and D) equals P(B) x P(D) the events are independent, and the cell counts match the margins.</figcaption>
+</figure>
+
+
 ## 3. Conditional probability in simple cases
 
 A **conditional probability** is the probability of an event given that another has already happened. It is written P(A | B), read "the probability of A given B". The syllabus does not require the formula, so use this idea instead: **the condition shrinks the list of possible outcomes.** Count only outcomes where the condition holds, then ask what fraction of those also satisfy the event.
@@ -126,6 +143,12 @@ P(cycles | Finance) = 10/40 = 1/4
 The two answers differ. P(A | B) and P(B | A) are different questions, and the total you divide by is the group named after the word "given".
 
 **Without replacement.** When items are not put back, the second probability depends on the first outcome. A box has 9 counters: 4 green and 5 yellow. One is taken and is green. Given that, 8 counters remain, 3 of them green, so P(second is green) = 3/8. This is a conditional probability, and tree diagrams build it in automatically.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional--11-conditional-shrinks-group.webp" width="900" height="890" alt="Of 120 staff, 50 travel by car, 38 by bus and 32 cycle; by department 40 are in Finance, 50 in Support and 30 in Design. Top: given that the person cycles, only the 32 cyclists are possible, and 10 of them are in Finance, so P(Finance given cycles) is 10 over 32, which is 5 over 16. Bottom: given that the person is in Finance, only the 40 Finance staff are possible, and 10 of them cycle, so P(cycles given Finance) is 10 over 40, which is 1 over 4. The two answers differ, because you divide by the group named after the word given." loading="lazy">
+  <figcaption>A condition shrinks the group: divide by the total of the group named after &quot;given&quot;.</figcaption>
+</figure>
+
 
 ## 4. Tree diagrams
 
@@ -193,6 +216,22 @@ Given the train is delayed, what is the probability there was a fault? Only the 
 P(fault | delayed) = 0.14/0.18 = 7/9 ≈ 0.778
 
 The second-stage branches are different after a fault and after no fault, so the stages are not independent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional--12-tree-independent-seeds.webp" width="900" height="850" alt="A tree diagram with two stages. Each seed germinates (G) with probability 0.85 or does not (N) with probability 0.15, the same at both stages because the seeds are independent. The four outcomes are GG 0.85 times 0.85 = 0.7225, GN 0.85 times 0.15 = 0.1275, NG 0.15 times 0.85 = 0.1275 and NN 0.15 times 0.15 = 0.0225, which add to 1. Exactly one germinates is GN plus NG, 0.255. At least one is 1 minus the chance of none, 1 minus 0.0225, which is 0.9775." loading="lazy">
+  <figcaption>Multiply along the branches and add the routes that make up the event.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional--13-tree-without-replacement.webp" width="900" height="1080" alt="Ten sweets, 6 mint and 4 toffee, are drawn one after the other without replacement. The first draw has probabilities 6/10 and 4/10. After a mint 9 sweets remain with 5 mint and 4 toffee, so the second-draw branches are 5/9 and 4/9; after a toffee they are 6/9 and 3/9. The outcomes are MM 30/90, MT 24/90, TM 24/90 and TT 12/90. Two of the same type is 42/90 = 7/15 and two different is 48/90 = 8/15. Given that the second sweet is toffee, only MT and TT remain, so P(mint first) is 24 out of 36, which is 2/3." loading="lazy">
+  <figcaption>Without replacement the second-stage probabilities change because the jar has one fewer sweet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional--14-tree-dependent-stages.webp" width="900" height="880" alt="A signal fault on a rail line has probability 0.2. After a fault the train is delayed with probability 0.7 and on time with 0.3; after no fault it is delayed with probability 0.05 and on time with 0.95, so the second-stage branches differ and the stages are dependent. The outcomes are fault and delayed 0.14, fault and on time 0.06, no fault and delayed 0.04, and no fault and on time 0.76. P(delayed) is 0.14 plus 0.04, which is 0.18. Given that the train is delayed, only the two delayed paths remain, and the fault path is 0.14 of 0.18, so the probability of a fault is 7/9, about 0.778." loading="lazy">
+  <figcaption>When second-stage branches differ the stages are dependent, and a conditional question uses only the matching routes.</figcaption>
+</figure>
+
 
 ## Common errors
 

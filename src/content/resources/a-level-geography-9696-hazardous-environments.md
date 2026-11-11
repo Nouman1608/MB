@@ -78,6 +78,17 @@ Most earthquakes and volcanoes lie along plate margins. The Pacific "Ring of Fir
 
 **Evaluation.** Christchurch shows a moderate, shallow earthquake near a city can be deadly. Tohoku shows a prepared country can be overwhelmed by an event larger than planned for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--15-hz-liquefaction.webp" width="900" height="1010" alt="Two cross-sections of saturated sand with a house on top. Before shaking, the sand grains touch each other in a packed pattern and the ground is firm. During shaking, pore-water pressure rises, upward arrows show water pushing the grains apart, the grains float separately, the ground behaves like a liquid, the house tilts and sinks, and silt reaches the surface." loading="lazy">
+  <figcaption>Shaking raises pore-water pressure in saturated sand or silt until the grains float apart and the ground behaves like a liquid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--16-hz-tsunami-uplift.webp" width="900" height="1020" alt="Two side views of a subduction zone, with a plate sinking beneath another. In the first the plates are stuck together. In the second the sea floor suddenly lifts up, the water column above it is displaced upwards into a hump, and a wave travels towards the coast. Text notes that the 2011 Tohoku earthquake (Mw 9.0 to 9.1) caused a 38.9 m run-up at Miyako and 19,759 deaths." loading="lazy">
+  <figcaption>Sudden uplift of the sea floor at a subduction zone displaces the water column and sends a tsunami toward the coast.</figcaption>
+</figure>
+
+
 ## 9.1 Volcanic hazards: eruption types and products
 
 Eruption style depends on magma viscosity and gas content. Runny basaltic magma lets gas escape, so eruptions are **effusive**. Viscous, high-silica magma traps gas and erupts **explosively** (Vulcanian, Peléan, Plinian). The **Volcanic Explosivity Index (VEI)** ranks eruptions from 0 to 8.
@@ -90,6 +101,12 @@ Eruption style depends on magma viscosity and gas content. Runny basaltic magma 
 | Lahar | Volcanic mudflow of ash and water | Nevado del Ruiz, Colombia, 13 November 1985: over 20,000 deaths in Armero |
 | Volcanic landslide | Collapse of an unstable flank | Mount St Helens, USA, 18 May 1980: the largest landslide on land in recorded history; about 57 deaths |
 | Ash fallout | Fine ash spread by wind | Pinatubo, 1991: wet ash collapsed roofs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--17-hz-eruption-style.webp" width="900" height="1040" alt="Two volcano cross-sections. On the left, runny basaltic magma lets gas bubbles escape from the crater, so lava flows quietly down the sides: an effusive eruption. On the right, viscous high-silica magma traps gas bubbles and pressure builds until the volcano erupts explosively with an ash column. Below, a scale shows the Volcanic Explosivity Index from 0 to 8, increasing in height from least to most explosive." loading="lazy">
+  <figcaption>Runny magma lets gas escape (effusive); thick magma traps gas and erupts explosively. VEI ranks eruptions from 0 to 8.</figcaption>
+</figure>
+
 
 ## 9.1 Primary and secondary impacts
 
@@ -116,6 +133,12 @@ Mass movement is the downslope movement of rock and soil under gravity. Slopes f
 
 **Freetown, Sierra Leone.** On 14 August 2017, mudslides left 1,141 people dead or missing. Rainfall since 1 July was about 1,000 mm, around three times the seasonal average. Deforestation, informal housing on steep slopes and poor drainage raised vulnerability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--18-hz-slope-failure.webp" width="900" height="950" alt="A cross-section of a slope with a block of soil on it. An arrow pulls the block down the slope (shear stress) and a shorter arrow resists up the slope (shear strength, from friction and cohesion). The slope fails when stress exceeds strength. Five numbered causes are marked: heavy rain raising pore-water pressure, deforestation removing roots, undercutting of the slope toe by a river or waves, buildings loading the top, and earthquake shaking." loading="lazy">
+  <figcaption>A slope fails when shear stress exceeds shear strength; rain, deforestation, undercutting, loading and earthquakes tip the balance.</figcaption>
+</figure>
+
+
 ## 9.2 Prediction, hazard mapping, preparedness, monitoring and perception of risk
 
 - **Monitoring:** inclinometers and GPS track slow movement; piezometers measure groundwater pressure; satellite radar spots small ground changes.
@@ -134,6 +157,17 @@ Mass movement is the downslope movement of rock and soil under gravity. Slopes f
 A tropical cyclone needs: sea surface temperatures of at least 26.5 °C to a depth of about 50 m; a position at least about 5° from the equator, so the Coriolis force can start rotation; low vertical wind shear; moist air in the lower and middle troposphere; and a pre-existing disturbance. Rising air condenses and releases latent heat, warming the core and lowering surface pressure, so more air spirals in. An eye forms where air sinks at the centre. The storm weakens over land or cold water. Category 5 on the Saffir-Simpson scale means winds of 252 km/h or more.
 
 **Tornadoes** mostly form in **supercell** thunderstorms. Warm, moist air near the ground lies under drier air, and winds change with height (wind shear). The shear creates a horizontal rolling motion that a strong updraught tilts upright into a rotating **mesocyclone**; a rear-flank downdraught can bring the rotation to the ground. The United States has by far the most tornadoes, especially in "Tornado Alley". Bangladesh also has deadly tornadoes. The Enhanced Fujita scale rates them EF0-EF5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--19-hz-cyclone-structure.webp" width="900" height="1010" alt="A cross-section through a tropical cyclone over a warm sea. Air spirals in near the surface, rises in two tall eyewall cloud towers where it condenses and releases latent heat, and flows out at the top. In the middle, the eye, air sinks. A bracket marks sea surface temperature of at least 26.5 degrees Celsius to about 50 metres depth. Four more conditions are listed: at least about 5 degrees from the equator, low vertical wind shear, moist air in the lower and middle troposphere, and a pre-existing disturbance." loading="lazy">
+  <figcaption>Warm sea water feeds rising air in the eyewall; latent heat lowers surface pressure so more air spirals in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--20-hz-tornado-formation.webp" width="900" height="1050" alt="Three steps. Step 1: wind speed increases with height (wind shear), creating a horizontal rolling tube of air; warm moist air lies near the ground under drier air. Step 2: a strong updraught tilts the roll upright into a rotating mesocyclone. Step 3: a rear-flank downdraught brings the rotation to the ground as a tornado funnel. The Enhanced Fujita scale rates tornadoes EF0 to EF5." loading="lazy">
+  <figcaption>Wind shear makes a horizontal roll; the updraught tilts it upright; a downdraught brings the rotation to the ground.</figcaption>
+</figure>
+
 
 ## 9.3 Hazards and impacts
 
@@ -171,6 +205,12 @@ Coastal Bangladesh, on the Ganges-Brahmaputra-Meghna delta, suits this required 
 **Is it sustainable?** Deaths have fallen sharply, so the social measures work. But economic losses remain high, shrimp farmers profit from clearing mangroves that protect everyone else, and sea-level rise may outpace engineering.
 
 **Worked paragraph (9.4).** *Bangladesh shows that management can save lives without removing the hazard. Cyclone Sidr in 2007 caused damage that some officials described as worse than the 1991 cyclone, yet deaths fell from about 138,000 to at least 3,447 because about 2 million people reached shelters. However, the management is only partly sustainable: homes, crops and livelihoods are still lost, and mangroves that buffer surges are being cleared for shrimp farms. It has succeeded socially but not yet economically or environmentally.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--21-hz-bangladesh-deaths.webp" width="900" height="920" alt="A bar chart of cyclone deaths in coastal Bangladesh. In 1970 deaths were 300,000 to 500,000. In 1991 they were about 138,000. In Cyclone Sidr in 2007 they were at least 3,447, a bar barely visible at this scale and about 40 times fewer than in 1991. A note says about 2 million people reached cyclone shelters for Sidr, and that the Cyclone Preparedness Programme began in the early 1970s, with volunteers passing warnings to villages." loading="lazy">
+  <figcaption>Deaths fell from hundreds of thousands to a few thousand as warnings and shelters improved, though the hazard remains.</figcaption>
+</figure>
+
 
 ## Common errors
 

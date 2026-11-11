@@ -97,6 +97,12 @@ Two things are tested together: **analysis** of an unseen text, and **directed w
 
 Both depend on the same underlying skill — recognising how choices of language create effects — but they apply it in opposite directions. Analysis takes a text apart; directed writing builds one to specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--08-p1-two-tasks.webp" width="900" height="745" alt="Two panels. Analysis: a text page is taken apart into pieces such as lexis, grammar and imagery. Directed writing: form, audience and purpose are assembled into a new page. A banner below says both depend on the same skill, recognising how language choices create effects." loading="lazy">
+  <figcaption>Analysis takes a text apart; directed writing builds one to specification.</figcaption>
+</figure>
+
+
 ## Analysing an unseen text
 
 Work systematically through the frameworks rather than commenting on whatever catches the eye first.
@@ -110,6 +116,12 @@ Work systematically through the frameworks rather than commenting on whatever ca
 
 Every observation needs the same three-part treatment: **identify, quote, explain the effect**. The explanation must connect to the writer's purpose and the reader's experience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--09-p1-frameworks.webp" width="900" height="950" alt="Six cards in two columns, each with a small icon: form and structure (how a text opens, develops and closes), lexis (semantic fields, connotation, formality), grammar (sentence types, voice, modality), imagery (metaphor, simile, personification), tone and voice (attitude and whether it shifts) and point of view (first, second or third person)." loading="lazy">
+  <figcaption>Work through form, lexis, grammar, imagery, tone and point of view rather than commenting on whatever catches the eye.</figcaption>
+</figure>
+
+
 ## Directed writing
 
 You will be given a form (letter, speech, article, diary, report), an audience and a purpose, and material to draw on.
@@ -122,6 +134,12 @@ Use the source material but **transform** it: select what serves your purpose, r
 
 Adopting a consistent **voice** — a persona appropriate to the form — is what separates competent from strong responses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--11-p1-directed-writing.webp" width="900" height="995" alt="Three cards: form dictates conventions, audience dictates register and vocabulary, purpose dictates structure. Below, a source page passes through three steps, select, reorganise and recast in your own words, to become a new page. A crossed-out arrow shows that copying stretches of the original earns no credit." loading="lazy">
+  <figcaption>The brief shapes the text; the source material is transformed, never copied.</figcaption>
+</figure>
+
+
 ## Comparing your response with the source
 
 Question 1's second part asks you to compare your own directed response in 1(a) with the original
@@ -133,6 +151,12 @@ repays as much planning time.
 
 A reflective commentary explaining your own linguistic choices is required on Paper 2 Writing, not
 here -- do not confuse the two tasks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--12-p1-compare.webp" width="900" height="1050" alt="A grid with two columns, my 1(a) response and the source text, and three rows, form, structure and language, joined by double-headed arrows to show comparison point by point. Below, a crossed-out alternative shows two separate descriptions placed side by side with no links. A banner notes that this part carries more marks than the writing task, and that the reflective commentary belongs to Paper 2 Writing, not here." loading="lazy">
+  <figcaption>Compare form, then structure, then language, linking your text with the source at each point.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -152,6 +176,12 @@ Past tense, third person  detached observation, no consolation offered
 Effect: the closure is presented as irreversible and the reader's
 sympathy is directed at the loss rather than at any cause.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--10-p1-identify-quote-explain.webp" width="900" height="960" alt="The lesson’s example sentence, “The factory stood silent, its chimneys cold, its gates chained.”, sits above three steps. Step 1 identify: personification. Step 2 quote: “stood silent”. Step 3 explain: it suggests death rather than mere closure. A final box links the explanation to the writer’s purpose and the reader’s experience." loading="lazy">
+  <figcaption>Every observation gets the same three steps, with the effect tied to purpose.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

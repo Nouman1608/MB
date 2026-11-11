@@ -82,6 +82,12 @@ When you replicate a formula, references change unless fixed with `$`:
 
 A **named cell** or **named range** replaces an address with a meaningful name. If B1 on a Settings sheet is named `Discount`, `=E2*(1-Discount)` works on every worksheet. A name acts like an absolute reference and makes formulas easier to read. Formulas can also use a name in another workbook, which must stay where the link expects it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--06-ss-reference-types.webp" width="900" height="932" alt="A grid with prices down column A and group sizes across row 2. =$A3*B$2 copied to D5 becomes =$A5*D$2: the dollar signs keep column A and row 2 fixed. Four reference types are listed." loading="lazy">
+  <figcaption>Dollar signs decide which part of a reference stays put when a formula is copied.</figcaption>
+</figure>
+
+
 ### Functions
 
 The examples use this table, with a rates table in H2:I4 (Junior 120, Adult 240, Senior 150).
@@ -119,6 +125,22 @@ Row 2 (18) gives **Silver**, row 4 (9) **Bronze**, row 6 **No record**. With IFS
 
 These function names are examples; the syllabus says a paper will name any function needed for a skill it does not list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--07-ss-conditional-functions.webp" width="900" height="972" alt="The members table with Adult rows shaded and visits over 30 ringed, and the results 3, 720, 33.3, 2, 480 and 42 for COUNTIF, SUMIF, AVERAGEIF, COUNTIFS, SUMIFS and MAXIFS." loading="lazy">
+  <figcaption>Each conditional function works only on the rows that meet its criteria.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--08-ss-lookups.webp" width="900" height="1032" alt="VLOOKUP finds Junior in the first column of the rates table and returns column 2, 120. INDEX with MATCH finds the largest visit count (42) at position 2 and returns the surname there, Haddad." loading="lazy">
+  <figcaption>Lookups find a key, then return a value from the same row or position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--09-ss-nested-if.webp" width="900" height="810" alt="A ladder of three tests: blank gives No record, 30 or more gives Gold, 15 or more gives Silver, otherwise Bronze. Each member lands in one band." loading="lazy">
+  <figcaption>A nested IF tests in order, so the highest band goes first.</figcaption>
+</figure>
+
+
 ### Formatting and audience
 
 Format cells as **date and time**, **text**, **numeric** (decimal places), **currency**, **percentage** (0.25 shows as 25%) or **fractions**, and set **text orientation** and **alignment**. Add emphasis with font **size**, **style** and **colour**, **shading**, **merge**, **borders**, **comments** and **conditional formatting** (shade Visits green when ≥ 30).
@@ -148,6 +170,12 @@ Choose data that exposes errors:
 
 To test the Gold/Silver/Bronze formula, use 14, 15, 29 and 30 visits, either side of each boundary, where `>` versus `>=` mistakes show.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--10-ss-test-data.webp" width="900" height="960" alt="A number line for the 1 to 8 ticket rule showing normal (4), extreme (1, 8) and abnormal (9, 3.5, two) data, and a second line showing 14, 15, 29 and 30 either side of the IF boundaries." loading="lazy">
+  <figcaption>Good test data includes normal, extreme and abnormal values and both sides of each boundary.</figcaption>
+</figure>
+
+
 ## 8.3 Using a spreadsheet
 
 **Extracting (searching)** uses criteria on **text**, **numbers**, **dates and times**, the operators **>, <, =, >=, <=**, the Boolean operators **AND, OR, NOT**, and **contains**, **starts with** and **ends with**.
@@ -163,6 +191,12 @@ To test the Gold/Silver/Bronze formula, use 14, 15, 29 and 30 visits, either sid
 
 **Importing and exporting.** **csv** (comma-separated) and **txt** (delimited plain text) files keep values only: formulas, formatting and extra worksheets are lost. **pdf** gives a fixed layout that is easy to share but not to edit. **Graphs and charts** can be exported into other documents. The syllabus states that work saved in the wrong format earns no marks for that task.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--12-ss-pivot-table.webp" width="900" height="622" alt="Six member records are grouped by type and the fee is totalled: Junior 240, Adult 720, Senior 150, grand total 1110." loading="lazy">
+  <figcaption>A pivot table groups records by a field and totals each group.</figcaption>
+</figure>
+
+
 ## 8.4 Graphs and charts
 
 | Purpose | Chart |
@@ -175,6 +209,12 @@ To test the Gold/Silver/Bronze formula, use 14, 15, 29 and 30 visits, either sid
 | Show two kinds of data together, e.g. bars and a line | Combination chart |
 
 Select the **data series** from **contiguous** (adjacent) or **non-contiguous** (separate) cells, or a **specified range**. Then format: **title**, **legend**, **category** and **value axis labels**, **series labels**, pie **segment labels**, **segment values** and **percentages**, pivot-chart **field selection buttons**, axis **scales** with a set **maximum and minimum**, and **data intervals** (the gap between gridlines). **Add a secondary axis** when two series have very different sizes, such as rainfall in mm and visitor numbers. **Extract a pie chart sector** to pull one segment out for emphasis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--11-ss-chart-choice.webp" width="900" height="1016" alt="Six small charts with illustrative data: bar, pie, line, comparative bar, comparative line and a combination chart, each labelled with its purpose." loading="lazy">
+  <figcaption>Choose the chart that matches what you want to show.</figcaption>
+</figure>
+
 
 ## Common errors
 

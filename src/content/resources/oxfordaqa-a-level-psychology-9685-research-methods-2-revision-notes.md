@@ -46,6 +46,12 @@ Test yourself afterwards with the [Research methods 2 practice questions](/resou
 
 You will not calculate tests in the exam, but you must comment on their use and interpret results.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--13-rm2-report-structure.webp" width="900" height="800" alt="A page split into six stacked sections in order: abstract (short summary), introduction (past research leads to the aim), method (enough detail to replicate), results (statistics, graphs, test outcome), discussion (meaning, limits, applications) and referencing (every source cited)." loading="lazy">
+  <figcaption>A report runs abstract, introduction, method, results, discussion, referencing.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Definition |
@@ -88,6 +94,12 @@ You will not calculate tests in the exam, but you must comment on their use and 
 
 Matched pairs count as **related**. Rating scales are **ordinal**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--07-rm2-choose-test.webp" width="900" height="780" alt="A grid with research aim and design down the side (difference between unrelated groups, difference between related groups, correlation or association) and level of measurement across the top (nominal, ordinal, interval). The cells name the test: Chi-squared, Mann-Whitney, unrelated t-test; Sign test, Wilcoxon, related t-test; Chi-squared, Spearman's rho, Pearson's r. Mann-Whitney is highlighted for the worked example: a difference, independent groups, ordinal ratings." loading="lazy">
+  <figcaption>Pick the test from three things: the aim, the design and the level of measurement.</figcaption>
+</figure>
+
+
 ## Reading a critical value table
 
 1. Find the right table for the test.
@@ -97,6 +109,12 @@ Matched pairs count as **related**. Rating scales are **ordinal**.
 5. Apply the rule: Mann-Whitney, Wilcoxon and Sign test need calculated ≤ critical; the tests with an "r" in their name need calculated ≥ critical.
 
 **Mini example (fictional).** Twelve people try a breathing exercise before a public talk. Nine feel calmer, two feel less calm, one feels no change. The person with no change is dropped, so N = 11. S is the less frequent sign, so S = 2. The one-tailed critical value at p ≤ 0.05 for N = 11 is 2. S ≤ 2, so the result is significant. The two-tailed critical value is 1, so with a non-directional hypothesis it would not be significant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--08-rm2-critical-value.webp" width="900" height="825" alt="Two number lines. For Mann-Whitney (and Wilcoxon and Sign test) the result is significant when the calculated value is equal to or less than the critical value: the worked example U = 18 is below the one-tailed critical values of 27 at 0.05 and 19 at 0.01, so it is significant at both levels. For tests with an r in the name the result is significant when the calculated value is equal to or greater than the critical value." loading="lazy">
+  <figcaption>Mann-Whitney, Wilcoxon and Sign: calculated must be at most the critical value. Tests with an &quot;r&quot;: at least the critical value.</figcaption>
+</figure>
+
 
 ## Improving reliability and validity
 
@@ -109,6 +127,17 @@ Matched pairs count as **related**. Rating scales are **ordinal**.
 | Low ecological validity | Use a more natural task or setting, or follow up with a field study |
 
 **Using correlation.** Test-retest, inter-observer, concurrent and predictive checks all end in a correlation. A strong positive correlation supports reliability or validity. Many textbooks use +0.80 as a guide for reliability; your teacher will confirm what is expected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--10-rm2-reliability.webp" width="900" height="1010" alt="Two ways to check reliability. Test-retest: the same people take the same test twice with a gap between. Inter-observer: two observers record the same behaviour separately, giving two tallies. In both cases the two sets of scores are correlated. A scatter plot of ten illustrative pairs shows a strong positive correlation with r about 0.98, above the textbook rule of thumb of +0.80, so the measure is reliable." loading="lazy">
+  <figcaption>Correlate the two sets of scores: a strong positive correlation (rule of thumb +0.80 or above) shows good reliability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--11-rm2-validity-types.webp" width="900" height="740" alt="Four panels. Face validity: the measure looks right to an expert. Concurrent validity: scores agree with a known established test (correlate the two). Predictive validity: scores predict a later outcome (correlate with it). Ecological validity: findings hold in real-life settings, compared with the lab." loading="lazy">
+  <figcaption>Face, concurrent, predictive and ecological validity ask different questions about accuracy.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -186,6 +215,12 @@ No. You will not calculate tests in the exam, but you must comment on their use 
 
 **What is the difference between concurrent and predictive validity?**
 Concurrent validity compares a new measure with an established one at the same time. Predictive validity checks whether scores predict a later behaviour or outcome.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--09-rm2-type-errors.webp" width="900" height="800" alt="A two by two grid. If the null hypothesis is true and you reject it, that is a Type I error, a false positive. If the null hypothesis is false and you accept it, that is a Type II error, a false negative. The other two cells are correct decisions. Below, a scale of significance levels: 0.10 is lenient and makes Type I errors more likely, 0.01 is strict and makes Type II errors more likely, and 0.05 balances the two risks." loading="lazy">
+  <figcaption>Rejecting a true null is a Type I error; accepting a false null is a Type II error. A level of 0.05 balances the risks.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

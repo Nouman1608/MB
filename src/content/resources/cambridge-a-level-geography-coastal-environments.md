@@ -86,6 +86,12 @@ of the wave, the crest topples forward, and the water runs up the beach as swash
 is concentrated on the headlands and spread out in the bays. This is why headlands are eroded while bays
 tend to be places of deposition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--13-wave-refraction.webp" width="900" height="880" alt="Seen from above, waves approach a coast with a headland in the middle and a bay each side. The wave fronts curve to follow the coast and the arrows showing wave direction bunch together at the headland and spread apart at the bays. This shows wave energy concentrated on the headland, which erodes, and spread in the bays, where sediment is deposited." loading="lazy">
+  <figcaption>Refraction concentrates wave energy on headlands and spreads it in bays, so headlands erode and bays tend to receive deposition.</figcaption>
+</figure>
+
+
 ## Landforms of coastal deposition, from smallest to largest scale
 
 A beach is the most fundamental depositional landform, built from sediment moved by swash and backwash and
@@ -97,6 +103,12 @@ successive stages of growth as the wave or current pattern shifted over time. Wh
 to an offshore island, the result is a tombolo. At a larger scale still, offshore bars and barrier beaches
 can enclose a body of water (a lagoon) behind them, within which fine sediment often accumulates as tidal
 saltmarsh or, in tropical and subtropical environments, mangrove forest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--16-depositional-landforms-plan.webp" width="900" height="870" alt="Four plan views of depositional landforms. A simple spit extends along the coast and hooks at the end where the coastline changes direction. A compound spit shows several old hooks along its landward side. A tombolo is a strip of sand linking the mainland to an island. An offshore bar lies parallel to the coast enclosing a lagoon with saltmarsh along the shore." loading="lazy">
+  <figcaption>Spits, tombolos and offshore bars are built by longshore drift and deposition, and can enclose lagoons with saltmarsh or mangrove.</figcaption>
+</figure>
+
 
 ## Marine erosion and sub-aerial processes
 
@@ -113,6 +125,12 @@ freeze-thaw, salt crystallisation and wetting and drying) weakens the rock in pl
 cliff's profile depends on the balance between marine erosion at its base and sub-aerial processes on its
 face.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--14-marine-erosion-processes.webp" width="900" height="1080" alt="Five labelled mini-drawings. In hydraulic action a wave pushes into a crack and compressed air pushes it open. In cavitation a bubble collapses next to the rock with shock lines. In corrasion a wave carries pebbles into a cliff. In solution dissolved particles leave the rock face. In attrition angular pebbles become smaller and rounder." loading="lazy">
+  <figcaption>The syllabus names five marine erosion processes; attrition acts on the sediment itself rather than the cliff.</figcaption>
+</figure>
+
+
 ## Erosional landforms
 
 **Cliffs and wave-cut platforms.** Waves erode most strongly between high and low tide, cutting a
@@ -125,6 +143,12 @@ A crack is enlarged into a cave; where caves on either side of a headland meet, 
 through, an arch forms. When the arch roof collapses, the seaward pillar left standing is a stack, which
 is eroded further into a stump. Explain each stage by the process at work (hydraulic action and
 corrasion at the base, weathering and mass movement of the roof), not only by the sequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--15-cliff-notch-platform.webp" width="900" height="640" alt="A cross-section shows a vertical cliff with a notch cut into its foot between the high and low tide lines. Dashed lines show where the cliff stood earlier, further out to sea, and an arrow shows it retreating inland. A gently sloping platform of rock is left behind. An arrow down the cliff face marks weathering and mass movement." loading="lazy">
+  <figcaption>Waves cut a notch, the overhang collapses, the cliff retreats and a wave-cut platform is left; a wider platform slows retreat.</figcaption>
+</figure>
+
 
 ## Sediment sources, sediment cells and longshore drift
 
@@ -139,6 +163,12 @@ beaches, spits and offshore bars. The idea matters for management: interrupting 
 sediment at one point in a cell, for example with groynes or cliff protection, can starve beaches further
 along the same cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--17-sediment-cell.webp" width="900" height="700" alt="A stretch of coast between two headlands is outlined by a dashed box labelled one sediment cell. Arrows show sediment entering from a river, a cliff and the sea bed, travelling along the coast by longshore drift, and ending up in stores: a beach, a spit and an offshore bar. A groyne across the drift path is labelled as starving beaches further along." loading="lazy">
+  <figcaption>A sediment cell is a largely closed system of sources, transfers and stores; blocking the flow at one point starves beaches further along.</figcaption>
+</figure>
+
+
 ## Sea level change and coastal landforms
 
 Sea level changes in two ways: a change in the volume of water in the oceans (eustatic change, for example
@@ -147,6 +177,12 @@ rebounds after the weight of an ice sheet is removed). A relative rise in sea le
 form rias and drowns glaciated valleys to form fjords; a relative fall leaves former shorelines above the
 reach of the waves as raised beaches and, behind them, relict cliffs. These landforms show that a coast's
 features record past as well as present sea levels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--18-sea-level-change-landforms.webp" width="900" height="1000" alt="Two boxes name the causes of sea level change: eustatic, a change in the volume of ocean water, and isostatic, a change in land level. Two valley cross-sections show a relative rise: a V-shaped river valley flooded to form a ria and a U-shaped glaciated valley flooded to form a fjord. A coastal profile shows a relative fall, leaving a raised beach platform and a relict cliff above the present sea level." loading="lazy">
+  <figcaption>Eustatic and isostatic change can raise or lower sea level relative to the land, forming rias and fjords or raised beaches and relict cliffs.</figcaption>
+</figure>
+
 
 ## Worked example: linking process to management strategy
 
@@ -182,6 +218,12 @@ of sediment, increasing erosion downdrift.
 Step 4 is where most essays lose marks: describing a management strategy without evaluating its wider
 consequences, including on stretches of coast beyond the immediate case-study site, keeps an answer in the
 lower mark bands.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--19-process-to-management-routine.webp" width="900" height="910" alt="Four boxes joined by downward arrows show the routine for a coastal management essay. First the dominant process, then the management strategy, then the link between strategy and process, then an evaluation of costs, benefits and effects elsewhere on the coast. The lesson example uses destructive waves and rock armour." loading="lazy">
+  <figcaption>A strong management answer names the process, the strategy, links them, and evaluates effects elsewhere on the coast.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

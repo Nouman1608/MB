@@ -83,6 +83,12 @@ say, a Victorian travel account and a 21st-century opinion piece on
 the same broad theme, rather than simply comparing two contemporary
 writers whose styles are more likely to overlap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-2--09-p2-two-texts.webp" width="900" height="720" alt="Two page icons face each other. The left is a 19th-century text, for example a Victorian travel account. The right is a 20th- or 21st-century text, for example an opinion piece. Double arrows between them are labelled tone, assumed audience and rhetorical convention: the things that differ across historical distance." loading="lazy">
+  <figcaption>A 19th-century text and a modern one differ in tone, assumed audience and rhetorical convention.</figcaption>
+</figure>
+
+
 ## What "comparing perspectives" actually means
 
 The specification's own aims are precise: students should "read and
@@ -94,6 +100,12 @@ identifies specific, comparable points (attitude to the same event,
 choice of emotive language, use of a particular structural device) and
 discusses how each writer's choices serve their distinct purpose or
 audience, throughout the answer rather than as an afterthought.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-2--10-p2-compare-method.webp" width="900" height="910" alt="Two methods. Not this: describe Text A, then Text B, then note one difference at the end. This: take comparable points such as attitude to the same event, emotive language and a structural device, and for each one set Text A against Text B, showing how each serves its writer’s purpose or audience, all through the answer." loading="lazy">
+  <figcaption>Strong answers compare specific points all the way through instead of describing each text separately.</figcaption>
+</figure>
+
 
 ## Section B: writing to a specified viewpoint
 
@@ -109,6 +121,12 @@ spelling, and a wide vocabulary). Students who default to a Paper
 rather than making and developing an argument -- consistently
 underperform relative to their technical accuracy, because the task
 demands a different genre of writing altogether.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-2--11-p2-writing.webp" width="900" height="1020" alt="Top: a story arc of opening, development, turning point and ending is crossed out, because Paper 2 Section B is not narrative. Middle: four argument tools are shown: rhetorical questions, direct address, structured argument and a deliberately chosen tone, for example in an article, letter or speech. Bottom: the same technical accuracy criteria apply on both papers." loading="lazy">
+  <figcaption>Paper 2 Section B needs argument tools, not a story, but the same technical accuracy as Paper 1.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -171,3 +189,14 @@ https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification/subject-
 and
 https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification/specification-at-a-glance,
 fetched and verified in full 2026-09-02.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-2--07-p2-marks.webp" width="900" height="700" alt="Paper 2 is 80 marks in 1 hour 45 minutes. Section A, Reading, is 40 marks on two non-fiction texts. Section B, Writing, is 40 marks for one task. An arrow from A to B shows they share a theme. A dashed box shows the spoken language endorsement is reported separately and carries 0% weighting." loading="lazy">
+  <figcaption>Paper 2 has two 40-mark sections linked by a shared theme; spoken language is reported separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-2--08-p1-p2-compare.webp" width="900" height="920" alt="A grid compares the two papers. Texts: Paper 1 has one fiction extract, Paper 2 has two non-fiction texts. Centuries: Paper 1 uses the 20th or 21st century, Paper 2 uses the 19th century plus a modern one. Reading focus: evaluate (AO4) against compare (AO3). Section B: a choice of scenario, prompt or image against one fixed task. Writing: narrative or descriptive against viewpoint. Each paper is 80 marks." loading="lazy">
+  <figcaption>Paper 1 reads one fiction text and writes a story; Paper 2 compares two non-fiction texts and argues a viewpoint.</figcaption>
+</figure>
+

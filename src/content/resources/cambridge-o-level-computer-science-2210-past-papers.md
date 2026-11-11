@@ -48,6 +48,12 @@ Earlier series are on [Cambridge's past-papers page](https://www.cambridgeintern
 
 Papers 11, 12 and 13 are the Computer Systems papers. Papers 21, 22 and 23 are the Algorithms, Programming and Logic papers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-computer-science-2210-past-papers--06-series-papers-grid.webp" width="900" height="810" alt="A grid of the seven series from June 2023 to June 2026 and the papers examined in each. June series examined papers 11, 12, 21 and 22. November series examined papers 12, 13, 22 and 23. Papers 11, 12 and 13 are the Computer Systems papers; papers 21, 22 and 23 are the Algorithms, Programming and Logic papers." loading="lazy">
+  <figcaption>June series examine papers 11, 12, 21 and 22; November series examine 12, 13, 22 and 23.</figcaption>
+</figure>
+
+
 ## What examiners keep saying
 
 These are the mistakes that come up again and again, grouped by the syllabus's own topics.
@@ -108,6 +114,27 @@ These are the mistakes that come up again and again, grouped by the syllabus's o
 - Learn the syllabus pseudocode and use it whenever pseudocode is asked for; draw flowcharts with arrowheads and logic gates as the syllabus shows them. (June 2023, November 2023, June 2024, November 2025, June 2026)
 - In the extended program, read the whole scenario first, use the arrays given, initialise variables, and add comments, prompts and output messages. (June 2023, November 2023, June 2024, November 2024, November 2025, June 2026)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-computer-science-2210-past-papers--01-twos-complement-trap.webp" width="900" height="840" alt="An illustrative 8-bit example. Start with +37 as 00100101. Flip every bit to get 11011010, which on its own is −38. Add 1 to get 11011011, which is −37. The place values are −128, 64, 32, 16, 8, 4, 2, 1 and the left-hand bit is the sign bit. Two wrong methods are shown: flipping without adding 1 gives −38, and putting a 1 in front of the positive pattern gives 10100101, which is −91." loading="lazy">
+  <figcaption>Two’s complement means flip every bit and then add 1; flipping alone or adding a 1 in front are common wrong answers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-computer-science-2210-past-papers--02-hex-digit-by-digit.webp" width="900" height="880" alt="The hex number 3A is converted one digit at a time. 3 becomes 0011 and A, which is 10, becomes 1010. Joined together they give 00111010. A common wrong answer converts 3A as one number, 58, to 111010, which has only six bits because the leading zeros were lost." loading="lazy">
+  <figcaption>Convert each hex digit to four bits and keep the leading zeros; converting the whole number as one value loses them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-computer-science-2210-past-papers--03-binary-addition-overflow.webp" width="900" height="790" alt="An illustrative 8-bit sum with carries shown above each column. 11010110 plus 10011100 gives a ninth bit of 1 and an 8-bit result of 01110010. The ninth bit does not fit in 8 bits, so this is overflow. As a check only, in denary 214 plus 156 is 370, more than the 255 an 8-bit number can hold; the 8-bit result is 114." loading="lazy">
+  <figcaption>Show every carry in binary addition; a carry out of the leftmost column is overflow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-computer-science-2210-past-papers--04-validation-loop.webp" width="900" height="970" alt="Two flowcharts for validating a score from 0 to 100 (an illustrative rule). With a single IF the program checks once: an invalid value gives an error and the program ends without asking again. With a loop the error leads back to the input, so the program asks again until the value is valid. If 150 and then 42 are typed, the single IF stops after the error, while the loop reports the error and then accepts 42." loading="lazy">
+  <figcaption>Validation needs a loop that asks again until the data is valid, not a single IF.</figcaption>
+</figure>
+
+
 ## June 2026
 
 The Computer Systems papers asked about number conversions, binary addition and overflow, two's complement, storage units, the fetch-decode-execute cycle, devices, transmission and parity, encryption, packets, compression, translators, cyber security and AI. Recall and conversions were good, but the report wants sharper technical language, accurate step-by-step processes and answers that use the scenario. The programming papers covered validation and verification, library routines, file handling, functions, loops, sorting and searching, flowcharts, logic, database data types, SQL and the extended program. The best scripts wrote exact syllabus syntax and answered at the depth the command word asked for. Weaker ones slipped real code into pseudocode and mixed up programming and database data types.
@@ -130,6 +157,12 @@ The Computer Systems papers asked about number conversions, binary addition and 
 *Not shown: 1 further route(s) in the official table (staged entries that carry marks from an earlier series, or other special routes). See the official document.*
 
 Official documents: [past papers, mark schemes and examiner report](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/past-papers/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-computer-science-2210-past-papers--05-threshold-history.webp" width="900" height="880" alt="A line chart of the grade thresholds for components 12 and 22 (marks out of 150) for seven series from June 2023 to June 2026. The A* mark ranged from 104 to 123, the C mark from 40 to 54 and the E mark from 27 to 41. Because the thresholds change every series they must never be used to predict future ones." loading="lazy">
+  <figcaption>The A*, C and E thresholds for components 12 and 22 differ in every series, so they cannot predict the next one.</figcaption>
+</figure>
+
 
 ## November 2025
 
@@ -269,6 +302,12 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. Fix the weak topics with the notes and practice on the [O Level Computer Science hub](/boards/cambridge/o-level/computer-science/), then try the [2210 self-check question bank](/practice/2210/).
 6. Re-test with a paper from a different series and compare your mark with that series' thresholds. For the latest series on our flagship syllabuses, see our [grade thresholds page](/grade-thresholds/).
 7. Plan your remaining papers against your exam dates on the [exam calendar](/exam-calendar/). If you want a teacher to go through your scripts, book a [free trial class](/trial/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-computer-science-2210-past-papers--07-past-paper-cycle.webp" width="900" height="884" alt="A six-step cycle for using a past paper. One: find your starting point with the diagnostic and checklist. Two: sit a paper under timed conditions. Three: mark it strictly with the mark scheme. Four: read the examiner notes for that series. Five: fix the weak topics. Six: re-test with a paper from a different series, then repeat from step two." loading="lazy">
+  <figcaption>Sit a paper, mark it, read the examiner notes, fix weak topics and re-test with a different series.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

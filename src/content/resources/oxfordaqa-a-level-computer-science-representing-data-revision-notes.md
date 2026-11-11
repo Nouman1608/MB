@@ -51,6 +51,12 @@ Links: [course hub](/boards/oxfordaqa/a-level/computer-science/) · [printable c
 | Computationally secure | Cracking takes an unfeasible time or has a very low chance of success |
 | Key exchange problem | Sharing the key without it being intercepted |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--13-rd-caesar-cipher.webp" width="900" height="740" alt="Two alphabets are stacked. The top row is the plaintext A to Z. The bottom row is the cipher alphabet, shifted 7 places, so A becomes H, and the letters T to Z wrap round to A to G. The word SIGNAL is encrypted letter by letter, with each letter shifted by 7, to ZPNUHS. Shifting back 7 decrypts it." loading="lazy">
+  <figcaption>Every letter is shifted along by the key (here 7), wrapping from Z back to A.</figcaption>
+</figure>
+
+
 ## Formulas and facts
 
 | What | Rule |
@@ -70,6 +76,12 @@ Links: [course hub](/boards/oxfordaqa/a-level/computer-science/) · [printable c
 | Code blocks | digits from 48, uppercase from 65, lowercase from 97 |
 
 Divide bits by 8 for bytes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--11-rd-bitmap-size.webp" width="900" height="910" alt="An illustrative 8 by 8 grid of pixels forms a simple heart, with width 8 pixels and height 8 pixels. Each pixel holds a binary colour code. For the lesson example, 1440 by 960 pixels is 1,382,400 pixels; at 12 bits each that is 16,588,800 bits, which is 2,073,600 bytes. 12 bits allow 4096 colours." loading="lazy">
+  <figcaption>Bitmap storage = width x height x colour depth, then divide by 8 for bytes.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -131,6 +143,17 @@ Vernam: ciphertext = plaintext XOR key
 ```
 
 **Absolute and relative error.** 0.6 in a format with five fraction bits: 0.6 × 32 = 19.2, so the nearest is 19/32 = 0.59375. Absolute error 0.00625; relative error 0.00625 ÷ 0.6 ≈ 0.0104, about 1.04%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--09-rd-twos-complement.webp" width="900" height="720" alt="Eight columns have place values -128, 64, 32, 16, 8, 4, 2, 1. Start with +89 as 01011001. Flip every bit to get 10100110. Add 1 to get 10100111. Checking: -128 + 32 + 4 + 2 + 1 = -89. The leftmost bit has a negative place value." loading="lazy">
+  <figcaption>To make a negative number, write the positive value, flip every bit, then add 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--10-rd-floating-point.webp" width="900" height="680" alt="The mantissa 0.1101000 has its binary point after the first bit. The exponent 0011 is +3, so the point moves 3 places right, giving 0110.1000. The place values 4 + 2 + 0.5 add up to 6.5." loading="lazy">
+  <figcaption>The exponent tells you how many places to move the binary point in the mantissa.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -198,6 +221,17 @@ The key must be:
 12. Five 1s, so the parity bit is **1** to make six.
 13. 8 + 2 + 1 + 0.25 + 0.0625 = **11.3125**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--08-rd-binary-hex.webp" width="900" height="710" alt="Eight boxes with place values 128, 64, 32, 16, 8, 4, 2, 1 hold the bits 1, 0, 1, 1, 0, 0, 1, 1, so 179 = 128 + 32 + 16 + 2 + 1 is 10110011 in binary. The bits are split into two groups of four. 1011 is 11, which is B in hex, and 0011 is 3, so 179 is B3 in hex." loading="lazy">
+  <figcaption>Each 1 in binary adds its place value; one hex digit stands for a group of four bits (a nibble).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--14-rd-error-detection.webp" width="900" height="990" alt="Parity bit: the data 1011001 has four 1s, so the even parity bit added is 0; it detects but cannot correct. Majority voting: each bit is sent three times; received groups 110, 001 and 111 decode to 1, 0 and 1 by majority, so one error per group is corrected. Checksum: the bytes 108, 155 and 53 add to 316, and 316 mod 256 is 60; a mismatch shows an error but not where." loading="lazy">
+  <figcaption>Parity and checksum detect errors; majority voting can also correct them, at the cost of sending more data.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Flipping the bits for a negative number but not adding 1.
@@ -210,6 +244,12 @@ The key must be:
 - Writing "number of colours" for colour depth.
 - Describing an ADC as "turning sound into binary" without sampling at intervals and approximating each sample.
 - Listing only two Vernam conditions when the question needs all four.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-representing-data--12-rd-sound-sampling.webp" width="900" height="880" alt="A smooth analogue wave is measured at regular intervals. Each measurement is a vertical stem ending on the nearest of eight levels, which is a 3-bit illustrative resolution. For the lesson example, 22,050 Hz x 16 bits x 40 s = 14,112,000 bits = 1,764,000 bytes. Nyquist says to sample at least twice the highest frequency, so 9 kHz needs 18 kHz." loading="lazy">
+  <figcaption>An ADC measures the wave at regular intervals and stores each sample as the nearest binary value.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

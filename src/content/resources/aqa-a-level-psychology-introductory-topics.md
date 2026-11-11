@@ -99,6 +99,12 @@ treating depression (Beck's negative triad, Ellis's ABC model, CBT);
 and the biological approach to explaining and treating OCD (genetic and
 neural explanations; drug therapy)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-introductory-topics--14-intro-paper1.webp" width="900" height="1070" alt="Blocks of 24 marks: AS Paper 1 has three sections (72 marks, 1 hour 30 minutes) on social influence, memory and attachment; A-level Paper 1 has four sections (96 marks, 2 hours) and adds clinical psychology and mental health." loading="lazy">
+  <figcaption>A-level Paper 1 adds a fourth 24-mark section, clinical psychology and mental health, to the AS topics.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Each of the four sub-topics is built around named studies and
@@ -124,6 +130,12 @@ more applied topics — a candidate who cannot describe the multi-store
 model precisely will find it resurfacing as an obstacle well beyond
 this paper's own exam questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-introductory-topics--18-intro-describe-evaluate.webp" width="900" height="800" alt="A named study or model splits into AO1, a concise accurate description, and AO3, two or three distinct evaluation points such as methodology, real-world application and alternative explanations." loading="lazy">
+  <figcaption>For each named study, describe it concisely (AO1) then give two or three distinct evaluation points (AO3).</figcaption>
+</figure>
+
+
 ## Social Influence — the argument in sequence
 
 1.1 moves through a deliberate sequence: first *why* people conform or obey (the explanations),
@@ -133,6 +145,12 @@ as a single argument — pressure, explanation, resistance — rather than three
 makes it easier to answer synoptic questions that span more than one part of 1.1, and it mirrors how
 minority influence (the final part of 1.1) is best understood as the flip side of majority
 conformity examined earlier in the same sub-topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-introductory-topics--17-intro-linked-arguments.webp" width="900" height="850" alt="Social influence runs from why people conform or obey, to what makes it more or less likely, to how people resist, with minority influence as the flip side of majority conformity. In attachment, Lorenz's imprinting and its critical period lead to Bowlby's monotropic theory." loading="lazy">
+  <figcaption>Revise social influence and attachment as one argument each rather than disconnected parts.</figcaption>
+</figure>
+
 
 ## Social Influence — conformity, obedience and resistance
 
@@ -170,6 +188,12 @@ loop, visuo-spatial sketchpad, episodic buffer) that the simpler multi-store mod
 undifferentiated store. Understanding this relationship — working memory as a more detailed account
 of one part of the multi-store model, not a rival model of memory as a whole — is what a strong
 "compare the two models" essay actually needs to demonstrate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-introductory-topics--16-intro-memory-models.webp" width="900" height="960" alt="The multi-store model (sensory register, short-term memory, long-term memory) with short-term memory expanded into the working memory model: central executive, phonological loop, visuo-spatial sketchpad and episodic buffer." loading="lazy">
+  <figcaption>The working memory model is a more detailed account of the short-term store, not a rival model.</figcaption>
+</figure>
+
 
 ## Attachment — from animal studies to human theory
 
@@ -252,3 +276,9 @@ Phobias are explained and treated through the behavioural approach, depression t
 AQA AS and A-level Psychology (7181/7182) specification, version 1.4
 (1 September 2025; for teaching from September 2025) —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-introductory-topics--15-intro-four-topics.webp" width="900" height="990" alt="Four tiles for social influence, memory, attachment, and clinical psychology and mental health, each with its main content and worth 24 marks; together 96 marks." loading="lazy">
+  <figcaption>Paper 1 has four compulsory topics, each a 24-mark section.</figcaption>
+</figure>
+

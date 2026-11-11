@@ -108,6 +108,17 @@ the paper actually rewards rather than four separate, siloed summaries.
 | Learning | Behaviour shaped by experience through operant conditioning, classical conditioning and social learning | Bandura et al.; Fagen et al.; Saavedra and Silverman |
 | Social | Behaviour, cognitions and emotions influenced by social contexts and by the actual, implied or imagined presence of others | Milgram; Perry et al.; Piliavin et al. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--15-psy-four-approaches.webp" width="900" height="860" alt="Four cards in a two-by-two grid. Biological: a brain picture; behaviour explained through the brain, hormones, genetics and evolution. Cognitive: three linked boxes; information processed from input through process to output. Learning: a bell; behaviour shaped by conditioning and social learning. Social: a group of people; behaviour influenced by others and the social context." loading="lazy">
+  <figcaption>The four approaches of Paper 1 and the core idea of each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--17-psy-cognitive-route.webp" width="900" height="870" alt="A vertical flow: Input, then a large Process box containing four chips (attention, language, thinking, memory), then Output. A note says people differ in each process." loading="lazy">
+  <figcaption>The cognitive approach: information is processed along an input, process, output route, with individual differences in attention, language, thinking and memory.</figcaption>
+</figure>
+
+
 ## Why "issues and debates" is not a separate revision block
 
 A common mistake is treating Issues and Debates as a fifth, standalone topic to revise once, rather
@@ -124,6 +135,22 @@ core studies that raise them. Being able to apply these debates approach-by-appr
 than reciting a generic definition of "nature versus nurture," is what separates a strong evaluative
 answer from a weak one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--18-psy-nature-nurture.webp" width="900" height="720" alt="A horizontal line from Nature on the left to Nurture on the right. The Biological approach sits towards nature (genetics, physiology) and the Learning approach towards nurture (environment, conditioning). The Cognitive and Social approaches sit somewhere between the two, depending on the study. A DNA helix marks nature and a house marks nurture." loading="lazy">
+  <figcaption>Biological leans towards nature, Learning towards nurture; Cognitive and Social sit between, depending on the study.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--19-psy-children-animals.webp" width="900" height="760" alt="Two groups. Children in research: Bandura et al. (Learning approach), Pozzulo et al. (Cognitive) and Saavedra and Silverman (Learning). Animals in research: Hassett et al. (Biological) and Fagen et al. (Learning)." loading="lazy">
+  <figcaption>Three core studies use children and two use animals, drawn from three of the four approaches.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--20-psy-five-debates.webp" width="900" height="800" alt="A central circle labelled apply to each approach, joined by lines to five boxes arranged around it: application to everyday life, individual versus situational explanations, nature versus nurture, use of children, and use of animals." loading="lazy">
+  <figcaption>The five AS Level issues and debates are a lens applied to each approach, not a separate block.</figcaption>
+</figure>
+
+
 ## Comparing approaches head-to-head
 
 Because "compare and contrast" questions are a recurring format, it helps to have, for each pair of
@@ -135,6 +162,12 @@ advance, across different pairings of the four approaches, is more efficient rev
 improvise a comparison from scratch in the exam, since the underlying structure of a good comparison
 (state each approach's explanation, then explicitly weigh them against each other) is reusable
 regardless of which specific pairing comes up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--21-psy-compare-approaches.webp" width="900" height="890" alt="A box labelled one behaviour with arrows to two boxes. Step 1: the Biological approach explains it through physiology and genetics. Step 2: the Learning approach explains it through conditioning and environmental reinforcement. Step 3: both arrows lead to a balance scale and the instruction to weigh them against each other." loading="lazy">
+  <figcaption>A good comparison states each approach's explanation of the same behaviour, then weighs them against each other.</figcaption>
+</figure>
+
 
 ## Named studies are non-negotiable
 
@@ -173,6 +206,12 @@ approach is itself examinable:
 For each one the syllabus expects the psychology being investigated, the background, the aim(s), the
 procedure (including research method, sample, design, controls and variables), the ethical issues,
 the results, the conclusions, and the strengths and weaknesses of every element of the study.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--16-psy-twelve-core-studies.webp" width="900" height="800" alt="Four coloured rows, one per approach, each holding its three compulsory core studies. Biological: Dement and Kleitman, Hassett et al., Holzel et al. Cognitive: Andrade, Baron-Cohen et al., Pozzulo et al. Learning: Bandura et al., Fagen et al., Saavedra and Silverman. Social: Milgram, Perry et al., Piliavin et al." loading="lazy">
+  <figcaption>Three compulsory core studies for each of the four approaches: 12 in all.</figcaption>
+</figure>
+
 
 ## Biological approach
 

@@ -75,6 +75,12 @@ course of the Korean War and the Vietnam War.
 the 1990 Gulf War, the war on Al-Qaeda following 11 September, and the
 2003 Iraq War.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-understanding-the-modern-world-options--06-um-paper-shape.webp" width="900" height="1180" alt="Paper 1 has two equally weighted sections. Section A offers four period studies (AA to AD) and Section B offers five wider world depth studies (BA to BE). You choose one from each, and the date ranges are shown." loading="lazy">
+  <figcaption>Choose one period study and one wider world depth study.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because each option covers roughly half a century of change, the most
@@ -110,6 +116,17 @@ shape across different options makes it much faster to orient yourself
 if you ever need to sanity-check revision notes or past-paper questions
 against the specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-understanding-the-modern-world-options--07-um-time-spans.webp" width="900" height="870" alt="Each option is a bar on one timeline from 1830 to 2010. The four period studies run for 51 to 55 years each, while the five depth studies are shorter, 19 to 27 years each." loading="lazy">
+  <figcaption>Period studies span about 51-55 years; depth studies 19-27 years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-understanding-the-modern-world-options--08-um-three-phases.webp" width="900" height="880" alt="A period study such as AB Germany moves from a political system, through a crisis, to ordinary people’s lived experience. A depth study such as BB Inter-War Years moves from the aftermath of a conflict, through an international peace effort, to breakdown." loading="lazy">
+  <figcaption>Period and depth studies share a three-part shape.</figcaption>
+</figure>
+
+
 ## Worked example: applying causation to any option
 
 Whichever period or depth study you are revising, a reliable way to
@@ -131,6 +148,12 @@ Germany's domestic collapse. Naming all three causes without showing
 how they reinforced each other does not meet the top level of AQA's
 published mark schemes for causation questions, which describes a
 "complex explanation of the relationship between causes".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-understanding-the-modern-world-options--09-um-causation.webp" width="900" height="840" alt="Three bars sort the causes of the collapse of Weimar democracy: the long-term weak constitution and Versailles resentment, the short-term Depression from 1929, and the trigger of Hindenburg appointing Hitler in January 1933. Arrows show they reinforce each other and all lead to the collapse." loading="lazy">
+  <figcaption>Sort causes into long-term, short-term and trigger, then connect them.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -156,6 +179,12 @@ your period study.
 longer-term causes.
 - Use the [Historic Environment study resources](/resources/gcse-history-historic-environment-revision-notes/)
 separately -- that content sits within Paper 2, not Paper 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-understanding-the-modern-world-options--10-um-two-styles.webp" width="900" height="870" alt="Period studies need answers that link political, economic, social and cultural strands, drawn as four wavy lines tied together. Depth studies need answers that weigh longer-term causes against short-term triggers, drawn as a balance." loading="lazy">
+  <figcaption>Period studies link strands; depth studies weigh causes.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

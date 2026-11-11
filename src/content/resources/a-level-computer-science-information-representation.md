@@ -118,6 +118,22 @@ represent binary in the first place. Two's complement (used for negative numbers
 bit of the positive binary representation and adds 1 — practise this alongside ordinary conversion,
 since exam questions frequently test both positive and negative numbers within the same question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--13-ir-denary-binary.webp" width="900" height="900" alt="Repeated division of 45 by 2: quotients 22, 11, 5, 2, 1, 0 with remainders 1, 0, 1, 1, 0, 1. Reading the remainders from bottom to top gives 101101, which is 32 + 8 + 4 + 1 = 45." loading="lazy">
+  <figcaption>Divide by 2 until you reach 0, then read the remainders from the bottom up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--14-ir-binary-hex.webp" width="900" height="800" alt="The 8-bit binary number 10110110 is split into two nibbles, 1011 and 0110. 1011 is 11, hex digit B. 0110 is 6, hex digit 6. So the number is B6 in hexadecimal, which is 182 in denary. This works because 16 is 2 to the power 4." loading="lazy">
+  <figcaption>Each group of four bits becomes one hex digit, because 16 = 2^4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--15-ir-twos-complement.webp" width="900" height="660" alt="Starting from +45 as 8-bit binary 00101101, invert every bit to get 11010010, then add 1 to get 11010011. With place values -128, 64, 32, 16, 8, 4, 2, 1 this is -128 + 64 + 16 + 2 + 1 = -45." loading="lazy">
+  <figcaption>To write a negative number in two's complement, invert every bit of the positive value and add 1.</figcaption>
+</figure>
+
+
 ## Calculating file sizes — the two core formulas
 
 **Image file size** = image resolution (width × height, in pixels) × colour depth (bits per pixel).
@@ -129,6 +145,17 @@ show the file size roughly quadrupling (since both width and height double), not
 duration (seconds). A higher sampling rate captures the waveform more accurately (closer to the
 original analogue sound) and a higher sampling resolution captures more possible amplitude values per
 sample — both trade higher audio quality for a larger file.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--16-ir-image-size.webp" width="900" height="830" alt="A 4 by 4 pixel bitmap at 8 bits per pixel is 4 x 4 x 8 = 128 bits. Doubling width and height gives an 8 by 8 bitmap with 64 pixels, 8 x 8 x 8 = 512 bits, four times as much. 8 bits per pixel allows 2 to the power 8 = 256 colours." loading="lazy">
+  <figcaption>Image size = width x height x colour depth, so doubling both width and height quadruples the file size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--17-ir-sound-sampling.webp" width="900" height="970" alt="Four plots of the same sound wave. Top row: sampled 8 times per second (few dots, a rough match) and 24 times per second (many dots, a closer match). Bottom row: each sample stored with 2 bits (4 possible levels) and with 3 bits (8 levels); more levels match the wave more closely. Both improvements make the file bigger: size = rate x resolution x duration." loading="lazy">
+  <figcaption>A higher sampling rate takes more samples per second; a higher sampling resolution gives each sample more possible values. Both raise quality and file size.</figcaption>
+</figure>
+
 
 ## Bitmap images versus vector graphics
 
@@ -154,6 +181,12 @@ size depends on the number and complexity of its objects rather than on how larg
 so for such images it is usually much smaller than an equivalent bitmap. In an exam answer, tie the
 justification to the specific task in the question rather than listing general properties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--18-ir-bitmap-vector.webp" width="900" height="800" alt="The same circle stored two ways. A bitmap is a grid of pixels, each with a colour value; enlarged, the circle looks blocky. A vector graphic is a drawing list of objects with properties, here a circle with centre (4, 4) and radius 3, and is recalculated smoothly at any size." loading="lazy">
+  <figcaption>A bitmap stores a colour for every pixel; a vector graphic stores a drawing list of objects and their properties.</figcaption>
+</figure>
+
+
 ## Lossy versus lossless compression
 
 Lossless compression (such as run-length encoding, which replaces repeated sequences of the same
@@ -163,6 +196,12 @@ sampling rate in audio) permanently discards some information to achieve a small
 small, often imperceptible loss in quality for a significantly smaller file size. Knowing which
 category a given real-world format or technique falls into — and being able to justify why — is
 tested as directly as the underlying calculations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--19-ir-compression.webp" width="900" height="1120" alt="Top: run-length encoding. A row of 10 squares, 5 teal, 3 gold and 2 navy, is stored as three count-and-colour pairs, then decoded back to exactly the original row. Bottom: lossy compression by reducing colour depth. Eight shades of grey are merged into four, and the original eight cannot be recovered." loading="lazy">
+  <figcaption>Lossless compression (run-length encoding) can be undone exactly; lossy compression (such as reducing colour depth) permanently discards information.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

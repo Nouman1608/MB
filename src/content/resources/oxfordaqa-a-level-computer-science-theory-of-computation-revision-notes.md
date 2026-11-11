@@ -45,6 +45,12 @@ Pseudo-code and diagram notation here is language-neutral; the specification doe
 - **Heuristic:** a set of rules or knowledge about the problem domain.
 - **Halting problem:** the unsolvable problem of determining whether a program will eventually stop if given particular input, without executing the program.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--01-fsm-accept.webp" width="900" height="1100" alt="A state diagram with start state S0, accepting state S2 (double ring) and trap state S3, with three traces. xxyxy ends in S2 and is accepted; xyx ends in S1 and yxy in S3, so both are rejected." loading="lazy">
+  <figcaption>An FSM accepts a string only if it ends in an accepting state; this one accepts strings that start with x and end with y.</figcaption>
+</figure>
+
+
 ## 3.13.1 FSMs
 
 **Method: tracing an FSM without output**
@@ -71,6 +77,17 @@ Pseudo-code and diagram notation here is language-neutral; the specification doe
 Input `00110` gives output **01010**.
 
 Only Mealy machines are required, not Moore machines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--02-mealy-delay.webp" width="900" height="920" alt="Two states S0 and S1 with arcs labelled input / output. Input 1101 visits S1, S1, S0, S1 and gives output 0110, the input delayed by one step." loading="lazy">
+  <figcaption>In a Mealy machine the output is written on each arc as input / output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--03-regex-fsm.webp" width="900" height="940" alt="The FSM for (ab)+c? with S2 and S3 accepting. abab and ababc are accepted; aba and abcc are rejected, abcc because no arc leaves S3 on c." loading="lazy">
+  <figcaption>The regular expression (ab)+c? and this FSM define the same regular language.</figcaption>
+</figure>
+
 
 ## 3.13.2 Regular expressions
 
@@ -106,6 +123,12 @@ Only Mealy machines are required, not Moore machines.
 4. Mark every state where the string may legally end as accepting.
 5. State that missing arcs go to a rejecting trap state.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--06-bnf-nesting.webp" width="900" height="958" alt="Nested rings show &lt;same&gt; producing aaabbb and &lt;pal&gt; producing bbabb, each ring adding matching letters on both sides. An FSM has a fixed number of states, so no regular expression describes either language." loading="lazy">
+  <figcaption>Recursive BNF rules can match unlimited nested pairs, which a fixed-state FSM cannot.</figcaption>
+</figure>
+
+
 ## 3.13.3 Turing machines
 
 | Part | What it is |
@@ -120,6 +143,12 @@ Only Mealy machines are required, not Moore machines.
 **Worked reminder.** Rules `δ(S0, 0) = (S0, 1, R)`, `δ(S0, 1) = (S0, 1, R)`, `δ(S0, □) = (S1, □, L)`. On tape `0100`, every 0 becomes 1 and the machine halts in S1 on the last digit. Final tape: **1111**.
 
 **Importance:** Turing machines give a general, formal model of computation and define what is computable. The UTM shows that one machine can run any program held as data on its tape.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--04-turing-parity.webp" width="900" height="1007" alt="Six tape snapshots show the head moving right across 1011 in states SE and SO, then writing a 1 on the blank and halting in SH. The final tape 10111 has four 1s." loading="lazy">
+  <figcaption>Each step reads a symbol, writes, moves and changes state until the halting state is reached.</figcaption>
+</figure>
+
 
 ## 3.13.4 BNF and syntax diagrams
 
@@ -140,6 +169,12 @@ Only Mealy machines are required, not Moore machines.
 In a **syntax diagram**, a loop arrow means repeat; a branch means choose; any route from entry to exit is a valid string.
 
 **BNF beats regular expressions** on palindromes and on strings with equal numbers of certain characters, because these need recursion (unlimited memory) that an FSM cannot provide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--05-bnf-decimal.webp" width="900" height="1190" alt="Syntax diagrams for unsigned (a digit with a loop) and decimal (optional sign, unsigned, point, unsigned). -12.5 is valid; 3., +.7 and --2.1 are invalid for the reasons shown." loading="lazy">
+  <figcaption>A string is valid if some path through the syntax diagram uses its symbols in order.</figcaption>
+</figure>
+
 
 ## 3.13.5 Classification of algorithms
 
@@ -167,6 +202,17 @@ In a **syntax diagram**, a loop arrow means repeat; a branch means choose; any r
 | Binary search tree search | O(1) | O(n), unbalanced tree |
 
 Efficiency is measured **time-wise** and **space-wise** (memory). A heuristic method on an intractable problem may give an **approximate but non-optimal** solution or **change some of the problem constraints**. The Halting problem shows some problems **cannot be solved by a computer** at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--07-complexity-curves.webp" width="900" height="1150" alt="A line chart of O(log n), O(n), O(n squared) and O(2 to the n) for n up to 12, with the exponential curve leaving the chart just after n = 7. A table gives the lesson values for n = 8, 16 and 32." loading="lazy">
+  <figcaption>Exponential growth overtakes polynomial growth very quickly as n rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--08-routes-intractable.webp" width="900" height="1060" alt="Log-scale bars show 10! = 3,628,800 routes for 10 shops and 15! = 1,307,674,368,000 for 15 shops, so the problem is intractable. An illustrative route shows the nearest-unvisited-shop heuristic." loading="lazy">
+  <figcaption>Checking every route is impractical, so a heuristic gives a quick approximate answer.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

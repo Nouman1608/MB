@@ -129,6 +129,22 @@ whenever a scenario describes a computer system causing something to
 move or operate physically rather than displaying, printing or
 sounding an output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--02-touch-screen-both.webp" width="900" height="780" alt="A finger touches a touch screen tablet with an arrow labelled Input going into the screen. A second arrow labelled Output goes from the screen to an eye. A touch screen is an input device when used to make a selection and an output device when displaying an image." loading="lazy">
+  <figcaption>A touch screen is an input device for selections and an output device for displaying images.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--05-device-scenarios.webp" width="900" height="950" alt="Three scenarios: a supermarket uses a bar code reader for speed and accuracy and a chip and PIN reader for secure payment; a school register uses an RFID reader rather than a keyboard because it removes manual entry; a delivery company uses a bar code or QR scanner rather than OCR because OCR reads text, not printed codes." loading="lazy">
+  <figcaption>Match the device to the scenario, then justify the choice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--07-actuator-movement.webp" width="900" height="890" alt="An electrical signal goes into an actuator, which produces physical movement such as opening a valve, moving a robot arm or triggering a motor. Other output devices only display, print or sound." loading="lazy">
+  <figcaption>An actuator converts an electrical signal into physical movement.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **What is direct data entry in IGCSE ICT?**
@@ -148,3 +164,24 @@ An actuator is an output device that converts an electrical signal into physical
 Cambridge IGCSE Information and Communication Technology (0417)
 syllabus for exams in 2026, 2027 and 2028 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697139-2026-2028-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--01-io-data-journey.webp" width="900" height="990" alt="Input devices such as a keyboard, mouse and microphone, and direct data entry devices such as a bar code reader, card and RFID tag, both lead into a computer that processes the data. Output devices such as a monitor, printer, speaker and robot arm then give something a person can see, hear or use." loading="lazy">
+  <figcaption>Topic 2 follows a data journey: input, direct entry, then output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--03-direct-entry-readers.webp" width="900" height="1000" alt="Seven direct data entry devices are listed with a picture of what each reads: magnetic stripe reader (stripe on a card), chip and PIN reader (chip in a card), RFID reader (tag), optical mark reader (marks), optical character reader (printed or handwritten text), bar code reader (bar code) and QR scanner (QR code). Direct entry is faster, has fewer errors and needs no manual reading." loading="lazy">
+  <figcaption>Direct data entry devices read data automatically instead of a person typing it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--04-barcode-vs-rfid.webp" width="900" height="925" alt="Two panels show a reader and a label hidden behind a cover. The bar code reader beam is blocked, so it cannot read the code; the RFID reader reads the tag through the cover at short range. RFID suits hospital patient wristbands when a patient is moving or the tag is concealed." loading="lazy">
+  <figcaption>RFID does not need a direct line of sight, unlike a bar code reader.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--06-printer-choice.webp" width="900" height="940" alt="A poster proof needs a large-format inkjet printer for print width and continuous-tone colour. A plotter suits large-format precision line work such as technical drawings, CAD and maps but not continuous-tone images. Everyday worksheets suit a cheaper standard inkjet or laser printer." loading="lazy">
+  <figcaption>Printer choice depends on print width, image type and cost.</figcaption>
+</figure>
+

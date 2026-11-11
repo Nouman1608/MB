@@ -49,6 +49,12 @@ P(A ∩ B′)  probability that A happens and B does not
 
 Probabilities lie between 0 and 1 inclusive. 0 means impossible and 1 means certain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and--16-notation-venn.webp" width="900" height="800" alt="Thirty cards numbered 1 to 30. A is even numbers, 15 cards, and B is multiples of 3, 10 cards. The Venn regions hold A only 10 cards, both 5 (the multiples of 6), B only 5 and neither 10. Shaded: A and B is the overlap, 5 out of 30, which is 1/6. A or B or both is 5 plus 10 plus 5 which is 20 out of 30, 2/3. Not A is 15 out of 30, 1/2. A and not B is 10 out of 30, 1/3." loading="lazy">
+  <figcaption>The four notation forms shown as shaded regions of a Venn diagram, with counts out of 30.</figcaption>
+</figure>
+
+
 ## Converting between forms
 
 | Fraction | Decimal | Percentage |
@@ -87,6 +93,22 @@ Without replacement:  P(both grey) = 3/8 × 2/7 = 6/56 = 3/28
 
 Without replacement the second pick has one fewer sock overall and one fewer grey sock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and--15-probability-favourable-total.webp" width="900" height="830" alt="A jar holds 25 buttons: 9 brass, 6 steel and 10 plastic, shown as a grid. One is chosen without looking. P(brass) is 9 out of 25, which is 0.36 or 36 percent. The 15 buttons that are not plastic fill the first three rows, so P(not plastic) is 15 out of 25, which is 3/5, 0.6 or 60 percent. Both probabilities sit on a scale from 0, impossible, to 1, certain. Check: P(plastic) 0.4 plus 0.6 is 1." loading="lazy">
+  <figcaption>Probability is favourable outcomes divided by all equally likely outcomes, and always lies between 0 and 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and--18-replacement-grids.webp" width="900" height="770" alt="Two 9 by 9 grids list every ordered pair of beads from a bag of 4 blue and 5 yellow. With replacement all 81 pairs are possible: 16 are both blue and 40 are one of each colour, so the probabilities are 16/81 and 40/81. Without replacement the 9 cells where the same bead is taken twice are crossed out, leaving 72 pairs: 12 both blue, which is 1/6, and 40 one of each, which is 5/9. This matches 4/9 times 3/8, which is 12/72." loading="lazy">
+  <figcaption>Taking without replacement removes the same-bead pairs, so there are 72 equally likely ordered pairs instead of 81.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and--19-three-chocolates.webp" width="900" height="840" alt="A box holds 9 chocolates, 4 dark and 5 milk. Three are taken without replacement. Each pick removes a dark chocolate, so the chance of dark is 4/9, then 3/8, then 2/7. Multiplying gives 24/504, which is 1/21, the probability that all three are dark. At least one milk is the complement, 1 minus 1/21, which is 20/21; a bar split into 1/21 and 20/21 shows this." loading="lazy">
+  <figcaption>Each pick without replacement lowers both the number of dark chocolates and the total, and at least one milk is the complement of all dark.</figcaption>
+</figure>
+
+
 ### Reminder: one of each
 
 Using the same drawer without replacement:
@@ -117,6 +139,17 @@ P(neither) = 1 - 19/30 = 11/30
 
 Rearranged, the rule gives the overlap: P(A ∩ B) = P(A) + P(B) – P(A ∪ B).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and--20-addition-rule-counts.webp" width="900" height="770" alt="Of 50 students, 31 study French, 24 study Spanish and 9 study both. The Venn diagram has 22 French only, 9 both, 15 Spanish only and 4 neither. Adding 31 and 24 gives 55 and counts the 9 twice, so subtract once: 46 students study at least one language, so P(F or S) is 46/50, which is 23/25. P(neither) is 1 minus 23/25, which is 2/25, matching 4 out of 50." loading="lazy">
+  <figcaption>Adding P(F) and P(S) counts the overlap twice, so subtract it once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and--21-addition-rule-rearranged.webp" width="900" height="640" alt="A bar of total length 1 is split into four parts: A and not B is 0.57, A and B is 0.15, B and not A is 0.16 and neither is 0.12. P(A) = 0.72 covers the first two parts, P(B) = 0.31 the middle two and P(A or B) = 0.88 the first three. Rearranging the addition rule, P(A and B) is 0.72 plus 0.31 minus 0.88, which is 0.15. Then P(A and not B) is 0.72 minus 0.15, which is 0.57, and P(B and not A) is 0.31 minus 0.15, which is 0.16." loading="lazy">
+  <figcaption>Rearranging the addition rule finds the overlap, from which the other regions follow.</figcaption>
+</figure>
+
+
 ## Sample-space tables
 
 For two dice, draw a 6 by 6 grid with the first die down the side, the second across the top and the total in each cell. Every cell is equally likely, so the denominator is 36.
@@ -143,6 +176,12 @@ P(at least one torn) = 1 - 2/7 = 5/7
 ```
 
 The 4 and 3 are the undamaged stamps left at each pick, and 7 and 6 are the totals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and--17-complement-two-dice.webp" width="900" height="860" alt="A 6 by 6 table of the totals of two dice. The six pairs with a total of 4 or less, (1,1), (1,2), (2,1), (1,3), (3,1) and (2,2), are outlined. The other 30 pairs give a total of at least 5. It is quicker to count the six: P(at least 5) is 1 minus 6 over 36, which is 30 over 36, or 5/6." loading="lazy">
+  <figcaption>Count the few outcomes that fail the condition and subtract the fraction from 1.</figcaption>
+</figure>
+
 
 ## Reminder: two-way table
 

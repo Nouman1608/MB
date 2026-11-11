@@ -39,6 +39,12 @@ Other links: the [Cambridge O Level Statistics hub](/boards/cambridge/o-level/st
 | Midpoint | Halfway between a class's lower and upper boundaries |
 | Frequency density | Frequency ÷ class width |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class--14-median-position.webp" width="900" height="740" alt="Two rows of ordered tiles. Nine values 18, 22, 24, 27, 29, 31, 31, 31, 45: position (9 + 1) ÷ 2 is 5, so the median is the 5th value, 29, with four values either side. Ten values 9, 9, 9, 12, 14, 15, 17, 20, 22, 31: the 5th and 6th values are 14 and 15, so the median is halfway between them, 14.5." loading="lazy">
+  <figcaption>Order the data, then count in from both ends: an odd number of values has one middle value, an even number has two and the median is halfway between them.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Case | Mean | Median position |
@@ -56,6 +62,12 @@ Other links: the [Cambridge O Level Statistics hub](/boards/cambridge/o-level/st
 2. Median: put the values in order first. Count to the middle.
 3. Mode: count repeats. Say "no mode" if nothing repeats.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class--13-three-averages.webp" width="900" height="560" alt="A dot plot of nine journey times: 18, 22, 24, 27, 29, 31, 31, 31 and 45 minutes, with the three 31s stacked. The mean, 258 divided by 9 which is 28.67, is shown as the balance point. The median is the 5th value, 29, ringed. The mode is 31, the stack of three." loading="lazy">
+  <figcaption>The same nine journey times give three different averages: the mean balances the data, the median is the middle value, and the mode is the most frequent.</figcaption>
+</figure>
+
+
 ### From an ungrouped table
 
 1. Add a column f × x and find Σf and Σfx.
@@ -63,12 +75,24 @@ Other links: the [Cambridge O Level Statistics hub](/boards/cambridge/o-level/st
 3. Median: build cumulative frequencies, find which value covers the middle position.
 4. Mode: the value (the x entry) with the largest f.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class--15-frequency-table-averages.webp" width="900" height="860" alt="A strip of 40 members in order, grouped by books borrowed: 5 borrowed 0, 9 borrowed 1, 12 borrowed 2, 8 borrowed 3, 4 borrowed 4 and 2 borrowed 5. The 20th and 21st members both fall in the group that borrowed 2 books, so the median is 2. A bar chart of the frequencies shows the tallest bar, 12, at x = 2, so the mode is 2 books, not 12. The mean is 83 divided by 40, which is 2.075." loading="lazy">
+  <figcaption>With 40 members in order the median lies between the 20th and 21st values; the mode is the value 2, not the frequency 12.</figcaption>
+</figure>
+
+
 ### From a grouped table
 
 1. Write the midpoint of each class, then f × midpoint.
 2. Estimated mean = Σfx ÷ Σf. Label it as an estimate.
 3. Modal class: highest frequency, or highest frequency density if widths differ.
 4. Median class: the class containing the n/2 th value. Interpolate inside it from its lower boundary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class--16-grouped-mean-median.webp" width="900" height="970" alt="A histogram of the waiting times of 52 patients in classes of width 5 minutes with frequencies 4, 11, 17, 12, 6 and 2. The tallest bar, 10 to 15 minutes, is the modal class. Midpoints 2.5 to 27.5 are marked below the axis. The estimated mean is 705 divided by 52, which is 13.56, and the estimated median is 10 plus 11 over 17 times 5, which is 13.24; the first 11 of the 17 values in the median class are shaded. The mean is above the median because a few long waits pull it up." loading="lazy">
+  <figcaption>For grouped data every answer is an estimate: the modal class is the tallest bar, the mean uses class midpoints, and the median is found by interpolating inside its class.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -115,6 +139,17 @@ Take 6, 7, 7, 8, 9: mean 7.4, median 7, mode 7. Add the value 40. The total beco
 
 For classes written as 1-5 and 6-10, the midpoint of the first is (1 + 5)/2 = 3, and of the second is (6 + 10)/2 = 8. Using the boundaries 0.5 and 5.5 gives the same midpoint, 3. Either route works.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class--17-unequal-class-density.webp" width="900" height="1080" alt="Two charts of 56 fruit crates in classes 0 to 2, 2 to 4, 4 to 8, 8 to 12 and 12 to 20 kg with frequencies 6, 14, 20, 10 and 6. In the first, bar height is frequency and the tallest bar is 4 to 8 kg, which is twice as wide as the class before it. In the second, bar height is frequency density, 3, 7, 5, 2.5 and 0.75, and the tallest bar is 2 to 4 kg. The estimated mean is 364 divided by 56, which is 6.5 kg." loading="lazy">
+  <figcaption>When classes are not equally wide the tallest frequency bar can mislead; compare frequency density (frequency ÷ class width), where area shows frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class--19-discrete-class-boundaries.webp" width="900" height="910" alt="A histogram of the ages of 50 club members in classes 10 to 19, 20 to 29, 30 to 39, 40 to 49 and 50 to 59 with frequencies 7, 13, 18, 9 and 3. The bars run between the boundaries 9.5, 19.5, 29.5, 39.5, 49.5 and 59.5, and the midpoints are 14.5, 24.5, 34.5, 44.5 and 54.5. 20 members lie in the first two classes, so the median needs 5 of the 18 in the 30 to 39 class: 29.5 plus 5 over 18 times 10, which is about 32.3. The estimated mean is 1605 divided by 50, which is 32.1." loading="lazy">
+  <figcaption>Classes written as 10–19, 20–29 leave gaps; the boundaries 9.5, 19.5 and so on close them, give the midpoints, and start the median interpolation.</figcaption>
+</figure>
+
+
 ### Working backwards from a mean
 
 The mean of 12 numbers is 6.5, so their total is 12 × 6.5 = 78. If one value of 10 is removed, the total is 68 and the mean of the remaining 11 is 68 ÷ 11 = 6.18 (to 3 s.f.).
@@ -142,6 +177,12 @@ The mean of 12 numbers is 6.5, so their total is 12 × 6.5 = 78. If one value of
 ## Choosing and justifying an average
 
 A strong answer has three parts: the average, the figure, and the reason tied to the data. For example: "The median is better here, because one very high value raises the mean above most of the values."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class--18-which-average.webp" width="900" height="960" alt="A bar chart of seven weekly wages in hundreds of rupees: 18, 19, 19, 20, 21, 22 and 95. The mean, 30.57, is drawn as a line above six of the seven bars. The median, 20, is the fourth bar and the mode, 19, is the two equal bars. Below, four rows give the best average: categories use the mode, extreme values or skew use the median, roughly symmetrical numerical data uses the mean, and grouped data for a quick description uses the modal class." loading="lazy">
+  <figcaption>One extreme wage drags the mean above six of the seven values; the median describes the typical wage. Choose the average to suit the data.</figcaption>
+</figure>
+
 
 ## Sense checks before you move on
 

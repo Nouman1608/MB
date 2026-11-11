@@ -53,6 +53,12 @@ Two facts always hold:
 
 The second fact is your main checking tool. If your table does not add to 1, there is an error somewhere. It is also how you find a missing probability or an unknown constant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--01-a-dist-sums-to-one.webp" width="900" height="930" alt="A bar chart shows the probabilities 5/14, 4/14, 3/14 and 2/14 for x = 1, 2, 3 and 4. Underneath, the four probabilities are placed end to end in a single bar, which fills the whole width. The total is 14/14 = 1, the check every probability distribution must pass." loading="lazy">
+  <figcaption>Every distribution table must add to 1: the bars together make up the whole.</figcaption>
+</figure>
+
+
 ### Method for building a distribution
 
 1. List every value X can take.
@@ -94,6 +100,12 @@ P(X = 1) = P(red, blue) + P(blue, red)
 
 Check: 1/7 + 4/7 + 2/7 = 1. For X = 1 you must add two routes. Forgetting the second route is the usual reason a table fails the check.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--02-a-tree-to-distribution.webp" width="900" height="1030" alt="A tree diagram for two counters taken without replacement from 4 red and 3 blue counters. The four routes RR, RB, BR and BB have probabilities 12/42, 12/42, 12/42 and 6/42, giving X = 2, 1, 1 and 0 red counters. Below, a bar chart adds the two routes with X = 1 to get 4/7, with 1/7 for X = 0 and 2/7 for X = 2." loading="lazy">
+  <figcaption>X = 1 can happen by two routes, so its probability is the sum of both.</figcaption>
+</figure>
+
+
 ### Worked example 3: a distribution from a table of outcomes
 
 Two fair four-sided spinners, each numbered 1 to 4, are spun. Let X be the larger of the two scores (if they are equal, X is that score). Find the distribution of X.
@@ -114,6 +126,12 @@ Count how often each value appears: one 1, three 2s, five 3s and seven 4s.
 | P(X = x) | 1/16 | 3/16 | 5/16 | 7/16 |
 
 Check: 1 + 3 + 5 + 7 = 16, so the total is 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--03-a-outcome-table.webp" width="900" height="1000" alt="A 4 by 4 grid shows the larger of two spinner scores for all 16 equally likely outcomes. Counting the cells gives one 1, three 2s, five 3s and seven 4s. The bars below show these as probabilities 1/16, 3/16, 5/16 and 7/16." loading="lazy">
+  <figcaption>Count each value in the grid of equally likely outcomes to get its probability.</figcaption>
+</figure>
+
 
 ## 8.2 Expectation
 
@@ -149,6 +167,12 @@ E(X) = (1 × 1 + 2 × 3 + 3 × 5 + 4 × 7)/16 = (1 + 6 + 15 + 28)/16 = 50/16 = 2
 ```
 
 The larger score is, on average, above the middle of the range 1 to 4, which makes sense because the larger of two numbers tends to be high.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--04-a-expectation-balance.webp" width="900" height="790" alt="Four bars for x = 1 to 4, with heights proportional to 5/14, 4/14, 3/14 and 2/14, rest on a beam. A support under the beam at 15/7, about 2.14, balances it, so E(X) is the balance point of the distribution. A dashed marker at 2.5 shows that the plain average of the values is not the expectation." loading="lazy">
+  <figcaption>E(X) is the point where the probability-weighted values balance, here 15/7.</figcaption>
+</figure>
+
 
 ### Worked example 5: expectation need not be a possible value
 
@@ -218,6 +242,12 @@ E(X) = 20 × 2/20 + 5 × 5/20 + 0 × 13/20 = 2 + 1.25 = 3.25
 You pay £4 and expect to receive £3.25 back, so your expected gain per game is 3.25 − 4 = **−£0.75**. A game is **fair** when the expected gain is zero, that is, when the stake equals the expected payout. This game is not fair, and it favours the organiser.
 
 Over 200 plays the expected total gain for a player is 200 × (−0.75) = −£150. For the organiser it is an expected profit of £150.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--05-a-fair-game.webp" width="900" height="930" alt="A bar chart gives the prize distribution: win £20 with probability 2/20, £5 with 5/20 and nothing with 13/20, so the expected payout is £3.25. On a money line the expected payout is marked below the £4 stake. The gap of £0.75 is the expected loss per game, which makes the game unfair to the player." loading="lazy">
+  <figcaption>A game is fair only when the expected payout equals the stake; here it is 75p short.</figcaption>
+</figure>
+
 
 ### Method for expectation problems
 

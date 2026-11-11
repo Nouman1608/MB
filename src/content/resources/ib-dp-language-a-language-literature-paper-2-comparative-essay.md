@@ -74,6 +74,12 @@ So:
 Plan to write from memory. Your teacher will confirm the exam rules and which of your studied works you
 may use for Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--12-p2-format.webp" width="900" height="910" alt="Four question cards, with one chosen: you choose one of four questions. Two books represent the two literary works the essay compares. A clock shows 1 hour 45 minutes (105 minutes). Two bars show the share of the final grade: 35 percent at SL and 25 percent at HL. A note says only literary works count; advertisements and speeches belong to Paper 1." loading="lazy">
+  <figcaption>Paper 2: one of four questions, two literary works, 1 h 45 min, 35% (SL) or 25% (HL).</figcaption>
+</figure>
+
+
 ## Before the exam: preparing your works
 
 ### Build a pool, not a pair
@@ -102,6 +108,17 @@ Do not memorise a whole essay; it rarely answers the question set. Instead, for 
 pair in your pool, list three similarities and three differences in *method* (how the writers work),
 not just in content. That list is what you adapt on the day.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--13-p2-pool-pairs.webp" width="900" height="950" alt="Three books, Work A (for example a play), Work B (a novel) and Work C (a poetry collection), joined by three lines, one for each pair. On every line: three similarities and three differences. The advice beneath is to compare method, how the writers work, not only content, and to pre-compare rather than pre-write an essay." loading="lazy">
+  <figcaption>Prepare a pool of at least three works and pre-compare each pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--18-p2-evidence-bank.webp" width="900" height="928" alt="A page for one work, Work A, with five parts. Key moments: eight to ten, shown as filled dots out of ten. Short quotations: five to six, five filled dots out of six. Big concerns: four to six, four filled dots out of six, such as power, freedom, guilt and belonging. Plus notes on form and structure, and notes on context." loading="lazy">
+  <figcaption>An evidence bank holds moments, quotations, form, context and concerns.</figcaption>
+</figure>
+
+
 ## In the exam: reading the question
 
 Whatever the question, unpack it in three moves.
@@ -111,6 +128,12 @@ Whatever the question, unpack it in three moves.
    effect*, or ask for both similarity and difference. Your essay must meet both halves.
 3. **Test the fit.** Before committing, name one moment from each work that answers the question. If
    you cannot find at least three comparable points, pick another question or another pair.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--14-p2-read-question.webp" width="900" height="1000" alt="Three numbered moves. 1: underline the key term, for example silence or a turning point. 2: find the double demand, such as how writers present something plus to what effect, or similarity plus difference, and meet both halves. 3: test the fit by naming one moment from each work and finding at least three comparable points; if there are fewer than three, pick another question or another pair." loading="lazy">
+  <figcaption>Underline the key term, find the double demand, test the fit.</figcaption>
+</figure>
+
 
 ## Building a comparative thesis
 
@@ -134,6 +157,12 @@ Compare three versions for a question about how writers present home.
 
 The strong version already tells you your paragraphs: control, the outside view, the inside view.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--15-p2-thesis-ladder.webp" width="900" height="898" alt="Three rows, with ticks and crosses under Claim, Method and Reason. Weak, a summary: Both works are about homes and the people in them; no ticks. Better, claim only: Both works show the home as a place of control; a tick for claim only. Strong, claim plus method plus reason: a stage the audience watches from outside versus a diary that traps the reader; all three ticked." loading="lazy">
+  <figcaption>A strong thesis has a claim, a method difference and a reason.</figcaption>
+</figure>
+
+
 ## Weaving comparison through the essay
 
 ### Point by point, not text by text
@@ -153,6 +182,12 @@ about both works. Use point by point.
 Connectives that do real work: *whereas, while, by contrast, similarly, in the same way, unlike,
 both ... but, where A ..., B ...*. A connective is not enough on its own; step 4 still has to say what
 the difference shows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--16-p2-block-vs-point.webp" width="900" height="830" alt="Two stacks of paragraphs. Block, marked with a cross: paragraphs 1 and 2 about Work A, 3 and 4 about Work B, and the comparison only in paragraph 5. Point by point, marked with a tick: each of four paragraphs is split between Work A and Work B, so every paragraph compares both works." loading="lazy">
+  <figcaption>Point by point makes every paragraph compare both works.</figcaption>
+</figure>
+
 
 ## Using remembered evidence
 
@@ -218,6 +253,12 @@ first-person journal, so that resistance appears as a breakdown the narrator exp
 
 The topic sentence names both works, each work gets one precise piece of evidence, and the last two
 sentences say what the difference in method means for the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--17-p2-worked-plan.webp" width="900" height="1058" alt="A plan comparing A Doll’s House (play, 1879) with “The Yellow Wall-Paper” (story, 1892) in four numbered points. 1 How the role is imposed: Torvald’s pet names, a lark and a squirrel; John, a physician, forbids her to write or work. 2 Small, hidden resistance: Nora eats the forbidden macaroons in secret; the narrator hides her journal from John. 3 Form shapes the resistance: three acts building to a debate; journal entries growing shorter and stranger. 4 The ending and its effect: Nora leaves and the door closes offstage; the narrator creeps over John, who has fainted." loading="lazy">
+  <figcaption>A four-point plan comparing A Doll’s House and &quot;The Yellow Wall-Paper&quot;.</figcaption>
+</figure>
+
 
 ## A timing plan for 1 hour 45 minutes
 

@@ -46,6 +46,12 @@ sealed unit (a solid-state drive). Keeping this distinction explicit
 in an answer, rather than using "storage device" and "storage medium"
 interchangeably, is specifically what this topic expects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--13-store-device-media.webp" width="900" height="1000" alt="A DVD drive is a device and a DVD disc is separate removable media. A card reader is a device and a memory card is separate media. A solid-state drive is device and media in one sealed unit." loading="lazy">
+  <figcaption>The device reads and writes; the media is the material the data is recorded on.</figcaption>
+</figure>
+
+
 ## Storage devices: magnetic, optical and solid-state
 
 You need to know the characteristics, uses, advantages and
@@ -64,6 +70,12 @@ moving parts, which gives much faster access speed and greater
 resistance to physical shock than magnetic or optical devices, at a
 higher cost per gigabyte of capacity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--15-store-trade-offs.webp" width="900" height="1000" alt="Magnetic: large capacity, low cost per GB; slower than solid-state, damaged by magnets and shock. Optical: cheap, widely compatible; slower, lower capacity, needs a clean disc. Solid-state: no moving parts, fast, shock resistant; higher cost per GB." loading="lazy">
+  <figcaption>Each technology has strengths and a weakness.</figcaption>
+</figure>
+
+
 ## Storage media: magnetic, optical and solid-state
 
 You need to know the same three-way characteristics/uses/advantages/
@@ -79,6 +91,12 @@ formats: SD, xD and CFast. Recognising that a solid-state storage
 card) use the same underlying technology, but the syllabus still
 expects you to distinguish which term a question is actually asking
 about, is a subtle but examinable point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--14-store-families.webp" width="900" height="1080" alt="Devices and media for three technologies. Magnetic: hard and tape drives; hard disks and magnetic tape. Optical: CD, DVD, Blu-ray drives; the discs, capacity rising CD to DVD to Blu-ray. Solid-state: SSD, pen and flash drives; SD, xD, CFast cards." loading="lazy">
+  <figcaption>Each technology family has devices and media.</figcaption>
+</figure>
+
 
 ## Why the technology choice matters for backup and archiving
 
@@ -99,6 +117,12 @@ everyday access speed versus long-term low-cost archiving versus
 portability -- rather than one technology being unconditionally
 superior, is central to how exam scenarios in this topic are framed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--16-store-archive.webp" width="900" height="1030" alt="To reach file 6 on magnetic tape the tape passes 5 files first; a hard disk or SSD goes straight to it. Tape is low cost per GB and fine for archives. Read-only or write-once optical discs cannot be altered." loading="lazy">
+  <figcaption>Tape access is sequential and slow but cheap for archives.</figcaption>
+</figure>
+
+
 ## A worked comparison
 
 A photographer needs to store several thousand high-resolution photos
@@ -113,6 +137,12 @@ its cheap, widely compatible offline archival format -- illustrating
 that different storage technologies commonly co-exist for different
 stages of the same workflow, rather than one technology simply being
 "best" in every case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--17-store-workflow.webp" width="900" height="1000" alt="Stage 1: a memory card (SD or CFast) in the camera, no moving parts, compact, removable. Stage 2: photos copied to a laptop and edited. Stage 3: archive to a magnetic hard drive (low cost per GB) or a Blu-ray disc (cheap, widely compatible)." loading="lazy">
+  <figcaption>Different storage technologies suit different stages of one workflow.</figcaption>
+</figure>
+
 
 ## How to approach it
 

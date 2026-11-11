@@ -51,6 +51,12 @@ step in full.
 
 Check: 6 + 15 + 4 = 25 marks; 500 + 1,300 + 400 = 2,200 words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--05-ia-three-sections.webp" width="900" height="870" alt="Three numbered sections (question, analysis of sources, synthesis) are bracketed as 24 marks. A crossed-out dashed box shows reflection belonged to the previous course and is not assessed." loading="lazy">
+  <figcaption>The 2028 response has three sections and no separate reflection.</figcaption>
+</figure>
+
+
 ## Source evaluation in one line each
 
 - **Origin:** who produced it, when, where, what kind of source.
@@ -59,6 +65,12 @@ Check: 6 + 15 + 4 = 25 marks; 500 + 1,300 + 400 = 2,200 words.
 - **Value:** what it can show *for your question*.
 - **Limitation:** what it cannot show, or may distort, *for your
   question*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--03-ia-opvl.webp" width="900" height="1000" alt="One source leads to four cards: origin, purpose, value and limitation. Below, the same source is highly valuable for one question and limited for another." loading="lazy">
+  <figcaption>Every source needs origin, purpose, value and limitation, and value depends on the question.</figcaption>
+</figure>
+
 
 ## Worked example: Section 1 sentence pair
 
@@ -95,6 +107,22 @@ in Cuba in 1962 motivated by the defence of Castro's regime?"
 Keep a research log as you go: the problems you record during stages
 3 to 5 (missing evidence, contradictions, translation, bias) become the
 raw material for Section 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--01-ia-four-stages.webp" width="900" height="940" alt="Four numbered cards joined by arrows: formulate a focused question, identify and select sources, analyse and evaluate them, synthesise into a response. A banner says a weak stage limits the whole mark." loading="lazy">
+  <figcaption>The investigation moves through four stages, and weakness in any one limits the whole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--02-ia-question-funnel.webp" width="900" height="1010" alt="A too-broad question about an independence movement is narrowed by adding a named factor, a narrow outcome and precise dates, giving the To what extent did ... form. Three ticks give the reasons it works." loading="lazy">
+  <figcaption>Narrowing a broad topic into an answerable To what extent question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--06-ia-concepts.webp" width="900" height="850" alt="Four tiles name the four concepts with the question each raises, leading to a sustained, weighed argument. A crossed-out box says it is not a narrative of what happened." loading="lazy">
+  <figcaption>The four concepts help turn evidence into an argument.</figcaption>
+</figure>
+
 
 ## What does a strong Section 2 paragraph contain?
 

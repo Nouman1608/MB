@@ -63,6 +63,22 @@ Keep the [7182 subject hub](/boards/aqa/a-level/psychology/) and the [7182 topic
 | Covert sensitisation | Pairing the behaviour with an imagined unpleasant consequence |
 | Functional analysis | The first stage of CBT: identifying when and why the behaviour occurs |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--05-add-terms.webp" width="900" height="800" alt="Four cards: physical dependence (body adapted), psychological dependence (compulsion, pleasure or relief), tolerance (amount doubles, illustrative), withdrawal syndrome (nicotine symptoms)." loading="lazy">
+  <figcaption>Physical and psychological dependence, tolerance and withdrawal syndrome.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--07-add-dopamine.webp" width="900" height="1160" alt="Schematic brain: nicotine binds receptors on VTA dopamine neurons, dopamine is released in the nucleus accumbens along the mesolimbic pathway giving pleasure; repeated use leads to tolerance, withdrawal and smoking again." loading="lazy">
+  <figcaption>How nicotine acts on the reward pathway and drives the tolerance-withdrawal cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--08-add-cue.webp" width="900" height="1000" alt="Cue paired with nicotine and reward, later the cue alone causes craving and arousal (cue reactivity), then the Dev example: workday walk causes craving and relapse, holiday does not." loading="lazy">
+  <figcaption>Cue reactivity is classical conditioning: cues alone produce craving.</figcaption>
+</figure>
+
+
 ## Studies and theories at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -79,6 +95,17 @@ Keep the [7182 subject hub](/boards/aqa/a-level/psychology/) and the [7182 topic
 | Hajek and Stead (2004) | Cochrane review of aversive smoking | Insufficient evidence to judge rapid smoking; most trials had serious method problems | Weak trial quality limits conclusions |
 | Petry et al. (2006) | 231 gamblers: GA referral, plus workbook, or plus individual CBT | CBT reduced gambling more than GA referral alone | Needs motivation and a trained therapist |
 | Cahill, Lancaster and Green (2010) | Cochrane review of stage-based smoking interventions | Neither more nor less effective than non-stage-based equivalents | Challenges the practical value of Prochaska's model |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--09-add-variable.webp" width="900" height="1005" alt="14 illustrative bets with wins after bets 3, 8, 10 and 14 so the gaps are 3, 5, 2, 4; a slot machine showing a near miss." loading="lazy">
+  <figcaption>A variable ratio schedule keeps betting fast, steady and resistant to extinction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--10-add-naltrexone.webp" width="900" height="830" alt="Two 100-square grids: 75 squares filled for naltrexone and 24 for placebo (Kim et al., 2001). Nausea was common in week one." loading="lazy">
+  <figcaption>In an 11-week double-blind trial 75 percent on naltrexone improved much or very much versus 24 percent on placebo.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -144,6 +171,17 @@ For the debates themselves (Section A of Paper 3), see the [Issues and debates s
 10. Functional analysis: working out when and why the behaviour happens.
 11. Precontemplation, contemplation, preparation, action, maintenance, termination.
 12. They were neither more nor less effective than non-stage-based equivalents.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--06-add-twins.webp" width="900" height="1010" alt="Two bars from Vink et al. (2005): smoking initiation 44 percent genes, 51 shared environment, 5 unique; nicotine dependence 75 genes, 25 unique." loading="lazy">
+  <figcaption>Twin data: shared environment largest for starting to smoke, genes largest for dependence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--11-add-prochaska.webp" width="900" height="940" alt="Six stages in order with a dashed arrow for moving back (relapse) and two matched interventions." loading="lazy">
+  <figcaption>People move through six stages and can move back; match the intervention to the stage.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

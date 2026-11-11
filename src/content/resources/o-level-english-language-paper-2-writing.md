@@ -55,6 +55,17 @@ Reading objectives (R3, R5, worth the remaining 10). Section B tests
 four of the five (W1, W2, W3, W5 -- W4, register, is not separately
 assessed in Section B) across all 25 of its marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-english-language-paper-2-writing--16-ep2-marks-split.webp" width="900" height="820" alt="Section A, directed writing, is 25 marks: 15 for Writing (W1 to W5) and 10 for Reading (R3 and R5). Section B, composition, is 25 marks, all for Writing (W1, W2, W3 and W5). Across the whole 50-mark paper that is 40 Writing marks, 80 per cent, and 10 Reading marks, 20 per cent. Bar lengths are proportional to marks." loading="lazy">
+  <figcaption>Section A gives 15 Writing and 10 Reading marks, Section B 25 Writing marks; overall 40 Writing and 10 Reading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-english-language-paper-2-writing--17-ep2-assessment-objectives.webp" width="900" height="834" alt="A grid. Section A, directed writing, tests all five Writing objectives, W1 to W5, plus two Reading objectives: R3 analyse, evaluate and develop, and R5 select information. Section B, composition, tests W1, W2, W3 and W5 only; W4, register, is not separately assessed because there is no set audience or format." loading="lazy">
+  <figcaption>Section A tests W1-W5, R3 and R5; Section B tests W1, W2, W3 and W5.</figcaption>
+</figure>
+
+
 ## Section A: Directed Writing (25 marks)
 
 You answer **one compulsory question**. You are given one or two
@@ -90,6 +101,17 @@ specific point from each source text rather than leaning on only one,
 since Section A explicitly rewards evaluating and developing material
 across what you've been given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-english-language-paper-2-writing--14-ep2-structure.webp" width="900" height="1060" alt="Paper 2 Writing is 50 marks in 2 hours. Section A, directed writing, 25 marks: one compulsory question with one or two source texts of about 400 to 450 words printed on the paper; you write your own piece of about 250 to 350 words as a speech, email, report, letter or article. Section B, composition, 25 marks: choose one question from four, two descriptive and two narrative, with no source text, writing about 350 to 450 words." loading="lazy">
+  <figcaption>Section A uses one or two sources and a 250-350 word answer; Section B is a choice of four and 350-450 words.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-english-language-paper-2-writing--18-ep2-directed-flow.webp" width="900" height="860" alt="Two source texts feed into your own piece through three actions: use, develop and evaluate. The piece must follow the form, audience and purpose set in the question and draw at least one specific point from each source. A dashed route that skips the sources and writes a general opinion essay is crossed out because it loses marks." loading="lazy">
+  <figcaption>Use, develop and evaluate points from each source in your own piece; do not skip the sources.</figcaption>
+</figure>
+
+
 ## Section B: Composition (25 marks)
 
 You choose **one question from a choice of four**: two descriptive
@@ -124,6 +146,17 @@ and proofread the final few minutes purely for W5 (spelling,
 punctuation, grammar), which is tested throughout the composition and
 is easy to lose marks on under time pressure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-english-language-paper-2-writing--15-ep2-lengths.webp" width="900" height="760" alt="A range chart of word counts on an axis from 200 to 500. The source texts for directed writing run about 400 to 450 words. The directed writing answer is about 250 to 350 words. The composition is about 350 to 450 words, the longest single piece of continuous writing in the qualification." loading="lazy">
+  <figcaption>Source texts run about 400-450 words; directed writing is 250-350; composition is 350-450.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-english-language-paper-2-writing--19-ep2-descriptive-narrative.webp" width="900" height="1040" alt="Section B offers two descriptive and two narrative questions; you choose one. Descriptive writing describes a person, place or situation in sensory detail so the reader can picture it; it needs no plot. Narrative writing tells a story: connected events, real or imaginary, with a beginning, development and some form of resolution or turning point. The story curve is a schematic." loading="lazy">
+  <figcaption>Descriptive writing needs sensory detail but no plot; narrative has a beginning, development and resolution.</figcaption>
+</figure>
+
+
 ## Command words that appear on this paper
 
 The syllabus defines a small, fixed set of command words used across
@@ -151,6 +184,12 @@ Section A's word count (250–350) is shorter than Section B's
 (350–450), resist the temptation to under-plan Section B simply
 because it feels more "creative" -- it carries exactly the same 25
 marks and rewards structure just as much as Section A does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-english-language-paper-2-writing--20-ep2-timing.webp" width="900" height="1066" alt="A vertical bar for the two hours. Section A takes 55 to 60 minutes, including 8 to 10 minutes reading and annotating the source texts, then writing. Section B takes 55 to 60 minutes, including about 5 minutes planning before writing. A short buffer at the end is for a final proofread across both answers. The bar is a suggested split and is not exact." loading="lazy">
+  <figcaption>Around 55-60 minutes per section including reading and planning, with a short proofreading buffer.</figcaption>
+</figure>
+
 
 ## How to approach it
 

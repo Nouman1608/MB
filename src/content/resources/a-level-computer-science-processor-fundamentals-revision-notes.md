@@ -54,6 +54,22 @@ summary:
 **Practise the fetch-execute cycle as a diagram from memory** —
 completing a partially given cycle is a common exam format.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--01-pf-registers-buses.webp" width="900" height="860" alt="The seven registers named in the lesson sit inside a CPU; three buses join it to main memory." loading="lazy">
+  <figcaption>The registers and buses the fetch-execute cycle uses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--02-pf-fetch-stage.webp" width="900" height="880" alt="PC copied to MAR, PC incremented, memory read into MDR, MDR copied to CIR, using illustrative values; then decode and execute." loading="lazy">
+  <figcaption>The fetch stage as a sequence of register transfers (illustrative values).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--03-pf-addressing-modes.webp" width="900" height="940" alt="Operand 20 under five addressing modes gives 20, 7, 42, 99 and address 121 from an illustrative memory." loading="lazy">
+  <figcaption>Same operand, five addressing modes, different results (illustrative memory).</figcaption>
+</figure>
+
+
 ## 4.2 Assembly language — tracing accurately
 
 Grading depends on tracing a program **accurately**, working through
@@ -107,6 +123,17 @@ Practise several different masks on paper until the pattern is
 automatic — more reliable than memorising AND/OR/XOR/NOT truth
 tables in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--05-pf-mask-and.webp" width="900" height="830" alt="10110110 AND 00111111 gives 00110110: the top two bits are forced to 0." loading="lazy">
+  <figcaption>AND with a mask clears chosen bits and keeps the others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--06-pf-set-toggle-invert.webp" width="900" height="1043" alt="OR sets bits, XOR toggles bits and NOT inverts, on the byte 10110110." loading="lazy">
+  <figcaption>OR sets, XOR toggles and NOT flips bits.</figcaption>
+</figure>
+
+
 ## Worked example: tracing a short assembly program
 
 A short program loads a value, adds a second value to it, and stores
@@ -139,6 +166,12 @@ chosen mask and operation produce it.
 - Treating Processor Fundamentals as a topic to learn once, when its
 concepts (registers, fetch-execute, bit-level manipulation) recur
 throughout later topics on how software executes on hardware.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-processor-fundamentals--04-pf-trace-table.webp" width="900" height="839" alt="Trace table of four instructions: ACC becomes 5, 8, 8, 16 and address 20 becomes 8." loading="lazy">
+  <figcaption>Tracing means tracking registers and memory after every instruction.</figcaption>
+</figure>
+
 
 ## Where this topic sits in the syllabus sequence
 

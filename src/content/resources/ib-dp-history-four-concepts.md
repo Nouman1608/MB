@@ -98,6 +98,12 @@ Perspectives:  seen as a "diktat" in Germany, as too lenient by many in
 The facts are the same throughout; the concept decides which facts
 lead the paragraph and what judgement follows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-four-concepts--17-ib-habit.webp" width="900" height="1060" alt="Four questions form a cycle around your event: cause and consequence, continuity and change, perspectives, significance. Two overlapping circles show content and concepts should be practised together." loading="lazy">
+  <figcaption>Ask all four concept questions of one event, and practise content with concepts.</figcaption>
+</figure>
+
+
 ## How do historians' perspectives change over time?
 
 Perspectives are not only those of people at the time. Interpretations
@@ -110,6 +116,17 @@ other; and the opening of Soviet archives after 1991 renewed debate on
 Stalin's intentions. In an essay, use such a debate to support your own
 argument: explain what each school argued and what evidence it relied
 on, then say which view your evidence supports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-four-concepts--13-ib-cause-consequence.webp" width="900" height="860" alt="A long-term cause and a short-term cause lead to an event, which has an immediate and a longer-term consequence. Below, a list of equal bars is marked wrong and a ranked set of bars is marked right, with illustrative lengths." loading="lazy">
+  <figcaption>Distinguish long- from short-term causes and weigh them rather than list them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-four-concepts--16-ib-significance.webp" width="900" height="710" alt="Three criteria are shown: scale of impact, duration of effects, and how the event has been remembered. Steps say to state criteria, apply them and argue a verdict, and a crossed box warns against merely asserting significance." loading="lazy">
+  <figcaption>State your criteria before arguing significance.</figcaption>
+</figure>
+
 
 ## How should you revise the concepts?
 
@@ -155,3 +172,24 @@ Brief — History*, first assessments 2017 (republished 2020), which
 names the six key concepts. Related:
 [key concepts revision notes](/resources/ib-dp-history-four-concepts-revision-notes/)
 and [practice questions](/resources/ib-dp-history-four-concepts-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-four-concepts--11-ib-four-concepts.webp" width="900" height="780" alt="Four cards around an event name the concepts and their questions: cause and consequence (why, what resulted), continuity and change (what stayed, what changed), perspectives (whose viewpoint), and significance (why it matters, to whom, by what criteria)." loading="lazy">
+  <figcaption>The four concepts and the question each asks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-four-concepts--12-ib-papers.webp" width="900" height="620" alt="The four concepts structure every external paper. Paper 1 is source-based on one of five focused studies, Paper 2 is on one of four thematic studies, and HL-only Paper 3 is on one of four regions." loading="lazy">
+  <figcaption>The concepts structure Papers 1, 2 and (HL) 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-four-concepts--14-ib-continuity-change.webp" width="900" height="770" alt="A scale marks nothing changed and everything changed as wrong and a specific evidenced account as right. Three illustrative lanes show one group unchanged, one changed at the event and one mostly continuing with a small change." loading="lazy">
+  <figcaption>Say what changed, what continued and for whom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-four-concepts--15-ib-perspectives.webp" width="900" height="780" alt="Two groups emphasise different parts (A and B, C and D) of the same event, shown as spotlights. For a source, ask whose perspective it represents before judging its reliability." loading="lazy">
+  <figcaption>Perspective comes before judging reliability.</figcaption>
+</figure>
+

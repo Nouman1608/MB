@@ -81,6 +81,17 @@ Use it with the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geog
 
 **Worked paragraph.** *Explain why the Atacama is so arid.* "The Atacama lies under the subtropical high, where descending air warms and dries, so convection is suppressed. The cold Humboldt Current cools air near the coast, creating an inversion that traps moisture as fog rather than rain. The Andes block moist air from the Amazon to the east, adding a rain shadow. Because the three causes reinforce each other, the Atacama is drier than deserts with only one cause."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--01-ha-aridity-index.webp" width="900" height="1125" alt="A vertical scale of the P/PET aridity index with four bands: hyper-arid below 0.05, arid 0.05 to 0.20, semi-arid 0.20 to 0.50 and dry sub-humid 0.50 to 0.65. Two illustrative examples are marked: 100 divided by 1,000 gives 0.10 (arid) and 300 divided by 1,000 gives 0.30 (semi-arid)." loading="lazy">
+  <figcaption>The aridity index compares precipitation with potential evapotranspiration, so a hot place can be arid even with some rain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--02-ha-causes-of-aridity.webp" width="900" height="1210" alt="Three side-view schematics. Air sinking at 20 to 30 degrees latitude warms and dries; a cold ocean current creates an inversion that stops convection and gives fog; and a mountain range creates a rain shadow on its lee side." loading="lazy">
+  <figcaption>Three causes of aridity: sinking air, cold ocean currents and rain shadow.</figcaption>
+</figure>
+
+
 ## 10.2 Weathering and processes
 
 **Weathering.**
@@ -93,6 +104,17 @@ Use it with the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geog
 **Wind processes.** Wind erodes by **deflation** (lifting loose particles, forming deflation hollows and leaving stony desert pavements, or reg) and **abrasion/corrasion** (sand blasting rock). Transport is by **suspension** (dust, carried long distances), **saltation** (sand grains bouncing, mostly within a metre or two of the ground) and **traction** (larger grains rolled or pushed by impact, called surface creep). Because saltating sand stays low, abrasion is strongest near the ground.
 
 **Water processes.** Most desert rivers are **ephemeral**, flowing only after rain. Some, like the Nile, are **exogenous**, fed from wetter areas. Rainfall is **episodic**: years of drought, then an intense storm. Bare, crusted soils have low infiltration, so overland flow starts quickly. Unconfined water spreads as a **sheet flood** across gentle slopes; confined water in channels becomes a **flash flood** carrying very high sediment loads. Water soon seeps into the channel bed (transmission loss).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--03-ha-weathering.webp" width="900" height="1040" alt="Four small schematics: rock expanding by day and shrinking at night; outer shells peeling from a boulder with moisture needed; salt crystals growing in pores and pushing grains apart; and slow chemical weathering helped by dew, with a dark desert varnish coating." loading="lazy">
+  <figcaption>Desert weathering depends on heating and cooling, but moisture and salt matter too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--04-ha-wind-transport.webp" width="900" height="830" alt="A side view of wind moving particles: dust in suspension high above the ground, sand grains bouncing in arcs within about one to two metres in saltation, larger grains rolling in traction, and a rock outcrop worn most strongly near the ground by abrasion." loading="lazy">
+  <figcaption>Saltating sand stays low, so abrasion is strongest near the ground.</figcaption>
+</figure>
+
 
 ## 10.2 Landforms
 
@@ -109,6 +131,17 @@ Use it with the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geog
 **Past climate change.** Many features formed under wetter conditions. During the Pleistocene, **pluvials** (wetter periods) filled basins with lakes. Lake Bonneville in Utah existed from about 30,000 to 13,000 years ago and was over 300 m deep; Great Salt Lake and the Bonneville Salt Flats are its remains, and old shorelines stand as benches on the mountainsides. In the Sahara, a wetter phase in the early to mid Holocene expanded Lake Chad into a much larger "Mega-Chad", whose shorelines are visible from satellites. Large wadi networks and inactive dunes now covered by vegetation also suggest that past processes, not present ones, built much of today's landscape.
 
 **Worked paragraph.** *Assess the role of past processes.* "Wadis in the central Sahara are often too large for the rare storms that now flow through them. This mismatch suggests they were cut during wetter phases. Lake shorelines, such as those of Lake Bonneville, give firmer evidence of pluvials. However, current flash floods still deepen wadis and build fans, so landforms are best seen as inherited features reworked by present processes, with the balance varying by place."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--05-ha-dune-types.webp" width="900" height="1180" alt="Plan views of three dune types: a crescent-shaped barchan with horns pointing downwind (one wind direction, limited sand), long seif ridges (two alternating wind directions) and a star dune with radiating arms (winds from many directions)." loading="lazy">
+  <figcaption>Dune shape depends on the number of wind directions and the sand supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--06-ha-piedmont-landforms.webp" width="900" height="830" alt="A cross-section from a steep mountain front to a desert basin: the piedmont angle, a gently sloping pediment with an inselberg, alluvial fans (coarse at the apex, finer at the edge) merging into a bahada, and a playa with a salt crust." loading="lazy">
+  <figcaption>Landforms of the piedmont zone follow the path of floodwater from mountain to basin.</figcaption>
+</figure>
+
 
 ## 10.3 Soils and vegetation
 
@@ -139,6 +172,12 @@ Plants face **extreme temperatures** too. Pale or hairy surfaces reflect heat, a
 **Evaluation.** Satellite studies show "regreening" in parts of the Sahel as rain partly returned, so early accounts overstated a steady human-driven advance of the Sahara. Human factors still matter locally, so most geographers now see interaction rather than a single cause.
 
 **Worked paragraph.** "In the Sahel, drought reduces plant cover, but people decide how land is used during drought. When herds stay large around boreholes, overgrazing strips vegetation that would otherwise recover. Natural factors therefore start the degradation, while human factors decide whether it becomes lasting desertification."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--07-ha-salinisation.webp" width="900" height="940" alt="A soil cross-section showing capillary rise from the water table, evaporation leaving a salt crust, irrigation raising the water table, and a magnified root cell where salty soil water has more solutes than the cell, so osmosis works against the plant." loading="lazy">
+  <figcaption>Salinisation causes physiological drought: the water is there but the plant cannot take it up.</figcaption>
+</figure>
+
 
 ## 10.4 Case study: the semi-arid Sahel (Niger and Burkina Faso)
 

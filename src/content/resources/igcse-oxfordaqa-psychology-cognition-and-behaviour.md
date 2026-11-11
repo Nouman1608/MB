@@ -114,6 +114,22 @@ Forgetting is explained by **interference** — proactive (old disrupts new) and
 
 The **theory of reconstructive memory** holds that recall is an active rebuilding of an event rather than a faithful replay, shaped by schemas and by **'effort after meaning'** — the tendency to iron out unfamiliar or confusing details so that a memory makes sense in terms of what is already known. **Bartlett's *War of the Ghosts* study** supported this: participants recalling an unfamiliar folk story shortened it, omitted culturally unfamiliar details, and changed elements to fit their own expectations. Factors affecting the accuracy of memory include **interference**, **context** and **false memories** — confident but inaccurate recollections that can be created by misleading information or suggestion after the event.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-cognition-and-behaviour--13-ox-multi-store.webp" width="900" height="740" alt="Three stores in a row. Sensory store: modality-specific encoding, very large capacity, under 2 seconds. Short-term store: mainly acoustic encoding, 5 to 9 items, 18 to 30 seconds. Long-term store: mainly semantic encoding, unlimited capacity, up to a lifetime. Attention moves information from sensory to short-term; rehearsal moves it to long-term. Long-term memory divides into episodic (personal events), semantic (facts) and procedural (skills)." loading="lazy">
+  <figcaption>Information flows from the sensory store to short-term (attention) and long-term (rehearsal) memory; long-term memory has three types.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-cognition-and-behaviour--14-ox-serial-position.webp" width="900" height="800" alt="A line graph of words recalled against position in a 15-word list. Recall is high for the first few words (primacy effect), dips for the middle words, and rises again for the last few words (recency effect). The curve is illustrative. A note says the curve supports the existence of separate stores." loading="lazy">
+  <figcaption>Murdock's free-recall result: first words (primacy) and last words (recency) are recalled better than middle words. Curve is illustrative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-cognition-and-behaviour--15-ox-working-memory.webp" width="900" height="1060" alt="The central executive coordinates three components: the phonological loop (spoken and written material, coded acoustically), the visuo-spatial sketchpad (visual and spatial information) and the episodic buffer, which integrates information and links it to long-term memory. Below, Baddeley and Hitch: two visual tasks using the same component disrupt performance far more than a visual and a verbal task that use different components." loading="lazy">
+  <figcaption>Working memory has four components; dual-task studies show tasks using the same component interfere more.</figcaption>
+</figure>
+
+
 ## Perception
 
 **Sensation** is the raw information the senses receive; **perception** is the brain's interpretation of it.
@@ -128,6 +144,17 @@ Illusions are useful evidence precisely because they reveal different ways perce
 
 **Perceptual set** — the tendency to perceive what we expect — is affected by culture, motivation, emotion and expectation. Four named investigations provide evidence for these factors: **Gilchrist and Nesberg** found that hungrier participants rated pictures of food as brighter than well-fed participants did, evidence for the effect of **motivation**; **Bruner and Minturn** showed that an identical ambiguous figure was read as the letter "B" or the number "13" depending on whether it appeared in a sequence of letters or of numbers, evidence for the effect of **context/expectation**; **Kunst-Wilson and Zajonc** showed that participants preferred shapes they had been shown too briefly to recognise, even though they could not tell which shapes they had seen, evidence for the effect of **emotion** (a feeling of liking formed without conscious recognition); and **Nisbett and Miyamoto** compared the eye movements and scene recall of participants from different cultural backgrounds, evidence for the effect of **culture** on what is attended to and perceived.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-cognition-and-behaviour--16-ox-gibson-gregory.webp" width="900" height="1070" alt="Left, Gibson: bottom-up. The scene gives an optic array with enough information (motion parallax, texture gradient, optic flow), so perception is accurate. Right, Gregory: top-down. Prior knowledge and expectation combine with sensory data to form a hypothesis, which can be wrong. Bottom: the two horizontal lines of the Müller-Lyer illusion are equal in length, but one looks longer; the persistent error supports Gregory." loading="lazy">
+  <figcaption>Gibson: bottom-up, accurate perception from the optic array. Gregory: top-down hypothesis, so errors such as the Müller-Lyer illusion occur.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-cognition-and-behaviour--17-ox-illusions.webp" width="900" height="1300" alt="Six illusions in tiles, each tagged with its explanation. Müller-Lyer and Ponzo: misapplied depth cues. Rubin's vase and the Necker cube: ambiguity. Kanizsa triangle: fiction, where the brain supplies edges that are not there. Ames Room: size constancy, where two people of equal height look very different in size. Schematic drawings." loading="lazy">
+  <figcaption>The specification's four explanations for illusions (ambiguity, misinterpreted depth cues, fiction, size constancy) with a named example of each.</figcaption>
+</figure>
+
+
 ## Biopsychology
 
 The human nervous system divides into the **central nervous system** (brain and spinal cord) and the **peripheral nervous system**, which itself divides into the **somatic** (voluntary, sensory and motor signals to and from the muscles) and **autonomic** (involuntary control of internal organs) systems.
@@ -141,6 +168,17 @@ The brain has four main lobes -- **frontal**, **temporal**, **parietal** and **o
 **Scanning techniques** let psychologists study brain function in living people: **CT** scans use X-rays to image brain structure, **PET** scans track a radioactive tracer to show which areas are metabolically active, and **fMRI** scans measure blood-oxygen changes to show which areas are active during a task. **Tulving's 'gold' memory study** used PET scans to show that episodic and semantic memory are processed in different brain regions.
 
 Neurological damage -- for example from a stroke or head injury -- can affect motor abilities and behaviour, depending on which area of the brain is damaged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-cognition-and-behaviour--18-ox-synapse.webp" width="900" height="950" alt="A sending neuron above and a receiving neuron below with a synaptic gap between them. Step 1: neurotransmitter is released from vesicles in the sending neuron. Step 2: it crosses the synaptic gap. Step 3: it binds to receptors on the receiving neuron. Step 4: it is reabsorbed by the sending neuron (reuptake). The result is excitation (more likely to fire) or inhibition (less likely to fire). Schematic, not to scale." loading="lazy">
+  <figcaption>Neurotransmitter is released, crosses the gap, binds to receptors, and is reabsorbed (reuptake), producing excitation or inhibition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-cognition-and-behaviour--19-ox-brain-lobes.webp" width="900" height="840" alt="Side view of the brain with four lobes (frontal, parietal, temporal, occipital) and the cerebellum. Marked areas: motor (movement), somatosensory (touch), Broca's area (speech production), auditory (hearing), Wernicke's area (language comprehension) and visual (sight). Schematic, not to scale; positions are the standard textbook layout." loading="lazy">
+  <figcaption>The brain has four lobes plus the cerebellum; specific areas are responsible for specific functions (localisation of function).</figcaption>
+</figure>
+
 
 ## Research methods
 

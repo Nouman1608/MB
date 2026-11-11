@@ -100,6 +100,17 @@ On the second reading, look in four places:
 Annotate for **effect**. "Imperative" is a label; "imperative: makes the job feel simple and
 theirs" is the start of a paragraph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-1-guided-textual-analysis--07-p1-three-readings.webp" width="900" height="966" alt="A flow of steps. First read the guiding question and underline its key words. Reading 1, gist: four short notes on text type, audience, purpose and context. Reading 2, evidence: find features that answer the question, with underlining and margin notes on effect. Reading 3, argument: decide what the features add up to, in one sentence that is your thesis." loading="lazy">
+  <figcaption>Each reading has one job: gist, evidence, argument.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-1-guided-textual-analysis--08-p1-four-places.webp" width="900" height="1030" alt="A page in the centre with arrows to four boxes. Language: word choice, register, pronouns, rhetorical patterns. Structure: order of ideas, headings, where the text turns, opening and closing. Visual features: image, layout and white space, font size, colour. Context: who produced it, where it appeared, when, who the reader is. Below, an annotation example: the label imperative becomes the start of a paragraph when you add the effect, makes the job feel simple and theirs." loading="lazy">
+  <figcaption>Look at language, structure, visuals and context, and annotate for effect.</figcaption>
+</figure>
+
+
 ## Worked example
 
 > **Original text written for Marlbridge** -- community web page
@@ -173,6 +184,12 @@ P4  Bigger purpose: "throw it away" doesn't mean it goes away;
 
 In 75 minutes, three strong paragraphs beat five thin ones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-1-guided-textual-analysis--09-p1-plan-by-idea.webp" width="900" height="888" alt="A plan for the Saturday Fix web page. At the top, the thesis: removes obstacles, then redefines the reader as a fixer. Below, four paragraph ideas, each with short evidence: P1 obstacles answered in advance (Tea is free. Biscuits are free. Advice is free.); P2 reader made active (Who fixes it? You do.); P3 emotional and communal appeal (the radio your grandmother loved); P4 bigger purpose (broken means finished)." loading="lazy">
+  <figcaption>Plan by idea: a thesis and four paragraph claims with short evidence.</figcaption>
+</figure>
+
+
 ## Step 4: structure the analysis
 
 ### Introduction
@@ -217,6 +234,12 @@ approach suits this audience, place and moment.
 > with before the reader can object. Its final line widens a Saturday repair session into a
 > challenge to the habit of throwing things away.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-1-guided-textual-analysis--10-p1-paragraph-pattern.webp" width="900" height="990" alt="Four stacked blocks showing the pattern of every body paragraph, with an example from the Saturday Fix. Claim answers the guiding question: the page turns its reader from a customer into a participant. Evidence is a short quotation or visual detail: Who fixes it? You do. Effect says what it does to the reader and why: taking part feels like a small achievement. Link goes back to the guiding question: how does the text encourage its readers to take part?" loading="lazy">
+  <figcaption>Every body paragraph moves from claim to evidence, effect and link.</figcaption>
+</figure>
+
+
 ## Step 5: manage your time
 
 The brief sets **1 hour 15 minutes at SL** and **2 hours 15 minutes at HL**. A workable split for
@@ -235,6 +258,12 @@ one analysis in 75 minutes:
 If your paper asks you to write about more than one passage in the HL time, divide the 135 minutes
 evenly: roughly 65 minutes per analysis, with 5 minutes spare. Plan each analysis separately. Do
 not start the second passage until the first has a conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-1-guided-textual-analysis--11-p1-time-split.webp" width="900" height="832" alt="Two bar charts. For one analysis in 75 minutes: guiding question and three readings 15 minutes, thesis and plan 5, introduction 5, three body paragraphs 40, conclusion 5, check 5. For HL with two passages in 135 minutes: 65 minutes for each passage and 5 minutes spare, finishing the first passage with a conclusion before starting the second." loading="lazy">
+  <figcaption>A workable 75-minute split, and the 135-minute HL split for two passages.</figcaption>
+</figure>
+
 
 ## Text-type conventions worth knowing
 

@@ -62,6 +62,12 @@ The specification says sections B, C and D of Paper 3 contain extended response 
 
 **Worked paragraph.** *A person with schizophrenia might believe a neighbour is reading their thoughts through the wall (a persecutory delusion). This is a positive symptom because the belief is added to normal experience and is held despite no evidence. If the same person also stops washing and leaves their course, that shows avolition, a negative symptom. Negative symptoms are often harder to spot, because they look like an absence of behaviour rather than an unusual behaviour.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--01-sz-symptoms.webp" width="900" height="900" alt="A dashed line marks normal functioning. Above it are two positive symptoms added to experience, hallucinations and delusions. Below it are two negative symptoms that reduce normal functioning, speech poverty and avolition." loading="lazy">
+  <figcaption>Positive symptoms are added to normal experience; negative symptoms are a loss or reduction of normal functioning.</figcaption>
+</figure>
+
+
 ## Issues in diagnosis
 
 The specification names four issues.
@@ -90,6 +96,12 @@ Schizophrenia is **polygenic**: many genes each add a small amount of risk. Ripk
 - Limitation: families share environments as well as genes. Twin studies cannot fully separate the two.
 - Counter-evidence and nuance: Tienari et al. (2004) studied adopted children in Finland. Children whose biological mothers had a schizophrenia-spectrum diagnosis were more likely to develop schizophrenia-spectrum disorders mainly when their adoptive family was rated as dysfunctional. This supports genes as a vulnerability, not destiny.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--02-sz-twin-risk.webp" width="900" height="930" alt="Bar chart: risk of schizophrenia is about 48% for an identical twin, 17% for a non-identical twin, 9% for a sibling and 1% in the general population. Risk falls with genetic similarity but identical twins are well below 100%." loading="lazy">
+  <figcaption>Gottesman (1991): risk rises with genetic similarity, yet identical twins are far from 100%.</figcaption>
+</figure>
+
+
 ## Biological explanations: neural correlates and dopamine
 
 A **neural correlate** is a pattern of brain structure or activity linked to a symptom. It is a correlation, so it does not show cause.
@@ -107,6 +119,12 @@ Other neural correlates include enlarged ventricles in some people with schizoph
 - Limitation: some people do not respond to dopamine-blocking drugs, which suggests dopamine is not the full story for everyone.
 
 **Worked paragraph.** *The dopamine hypothesis is supported by the effects of drugs. Amphetamines increase dopamine activity and can produce hallucinations and delusions in people without schizophrenia. Antipsychotics block D2 receptors and reduce positive symptoms. However, this evidence is indirect. It shows that dopamine can change symptoms, not that dopamine started the disorder. The fact that glutamate is also involved suggests a reductionist single-neurotransmitter account is incomplete.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--03-sz-dopamine.webp" width="900" height="980" alt="A schematic side view of the brain marks the subcortical striatum with too much dopamine, linked to positive symptoms, and the prefrontal cortex with too little, linked to negative symptoms. Amphetamines raising dopamine and antipsychotics blocking D2 receptors are the evidence." loading="lazy">
+  <figcaption>Hyperdopaminergia in subcortical areas is linked to positive symptoms and hypodopaminergia in the prefrontal cortex to negative symptoms.</figcaption>
+</figure>
+
 
 ## Psychological explanations: family dysfunction
 
@@ -136,6 +154,12 @@ Stirling et al. (2006) found people with schizophrenia were much slower than a c
 - Limitation: it describes how symptoms work more than where the faulty processing comes from. It sits well alongside biological explanations.
 - Strength: it led directly to CBT for psychosis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--05-sz-frith-cognitive.webp" width="900" height="960" alt="Two flows. When metarepresentation fails, inner speech is not recognised as your own and is heard as an outside voice (hallucination). When central control fails, automatic word associations break into speech, giving disorganised speech. A Stroop panel shows Stirling et al. found slower performance." loading="lazy">
+  <figcaption>Frith proposed two faulty processes, metarepresentation and central control, that could produce symptoms.</figcaption>
+</figure>
+
+
 ## Drug therapy
 
 **Typical antipsychotics**, such as chlorpromazine and haloperidol, were introduced from the 1950s. They are dopamine antagonists: they block D2 receptors and reduce dopamine activity, which reduces positive symptoms.
@@ -146,6 +170,12 @@ Stirling et al. (2006) found people with schizophrenia were much slower than a c
 - Effectiveness: Leucht et al. (2013) compared 15 antipsychotics across 212 trials. Every drug did better than placebo, and clozapine ranked most effective for overall symptoms.
 - Side effects: typical drugs are linked with movement problems such as tardive dyskinesia. Some atypicals, such as clozapine and olanzapine, are linked with weight gain.
 - Appropriateness: drugs act quickly and can allow people to engage in therapy. Critics argue drugs may sometimes be used to manage behaviour rather than help the person. Present both views.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--04-sz-antipsychotic-synapse.webp" width="900" height="990" alt="Two synapse panels. Without a drug, dopamine binds D2 receptors. With an antipsychotic, the drug occupies the D2 receptors and dopamine cannot bind, reducing dopamine activity. Typical drugs block D2; atypical drugs also affect systems such as serotonin." loading="lazy">
+  <figcaption>Antipsychotics block dopamine D2 receptors, which reduces positive symptoms.</figcaption>
+</figure>
+
 
 ## CBT and family therapy
 
@@ -172,6 +202,12 @@ In treatment, the interactionist approach means combining drugs with CBT and fam
 - Limitation: it is harder to test than a single-cause model. It is not clear how diathesis and stress combine.
 
 **Worked paragraph.** *The diathesis-stress model explains why only some people with high genetic risk develop schizophrenia. In Tienari et al.'s adoption study, children with a biological mother who had a schizophrenia-spectrum diagnosis were at higher risk mainly when the adoptive family was dysfunctional. This suggests the family environment acted as the stressor that triggered a genetic vulnerability. This links to the nature-nurture debate, as it supports an interactionist position rather than either extreme.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--06-sz-diathesis-stress.webp" width="900" height="930" alt="Two stacked bars with the same high vulnerability. One adds little stress and stays under a dashed threshold; the other adds much stress and crosses it. Heights are illustrative." loading="lazy">
+  <figcaption>Illustration of the diathesis-stress model: vulnerability plus stress together can pass a threshold (illustrative heights).</figcaption>
+</figure>
+
 
 ## Common errors
 

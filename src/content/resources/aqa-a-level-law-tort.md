@@ -70,6 +70,12 @@ either replace or add to one of those three stages (occupiers' liability replace
 care with a statutory one; vicarious liability adds a question about who else can be held liable, on top
 of an underlying tort).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--06-tort-variations.webp" width="900" height="900" alt="Negligence runs duty, breach, damage. Occupiers' liability replaces the general duty of care with a statutory duty. Vicarious liability adds a second party who can be held liable on top of an underlying tort; it is a route, not a stand-alone tort." loading="lazy">
+  <figcaption>Occupiers' liability swaps the duty stage; vicarious liability adds a second liable party.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 AQA A-level Law (7162) specification, first teaching September 2017 --
@@ -84,6 +90,17 @@ whether the breach factually caused the harm, and whether that harm was a legall
 remote, consequence. A claim fails if any one of the three stages is not satisfied, regardless of how
 strong the other two are.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--01-negligence-stages.webp" width="900" height="1120" alt="A flow of three stages: duty of care, breach, and damage, with damage split into factual cause and legal cause. A claim fails if any one stage is not met. If all three are made out the claim is established." loading="lazy">
+  <figcaption>Negligence runs duty, breach, damage in a fixed order, and failing any one stage defeats the claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--02-duty-route.webp" width="900" height="980" alt="A decision picture: if the duty situation is already established by precedent, the duty exists and Caparo need not be applied. If the situation is novel, the Caparo three-part test is applied. Either way the next question is breach." loading="lazy">
+  <figcaption>Check precedent first; use the Caparo test only for a novel duty situation.</figcaption>
+</figure>
+
+
 ## Beyond straightforward negligence: two special categories
 
 Pure economic loss (financial loss unconnected to physical injury or damage) and psychiatric injury
@@ -93,12 +110,29 @@ purely financial consequences, and psychiatric injury claims are further split b
 (those in the actual danger zone) and secondary victims (witnesses), who face additional control
 mechanisms before a claim succeeds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--03-restricted-harm.webp" width="900" height="1010" alt="Three rows with a claim arrow meeting a gate. Physical injury and property damage meet a wide gate. Pure economic loss and psychiatric injury meet narrow gates because courts are wary of unlimited liability. Gate widths are illustrative." loading="lazy">
+  <figcaption>Pure economic loss and psychiatric injury are treated more restrictively than physical injury or property damage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--04-psychiatric-victims.webp" width="900" height="970" alt="A schematic, not to scale. An incident sits at the centre of a danger zone. A primary victim is inside the actual danger zone. A secondary victim is a witness outside it and faces extra control mechanisms before a claim succeeds." loading="lazy">
+  <figcaption>Primary victims are in the danger zone; secondary victims witness events and face additional control mechanisms.</figcaption>
+</figure>
+
+
 ## Occupiers' liability: two Acts, two categories of claimant
 
 The Occupiers' Liability Act 1957 governs liability to lawful visitors; the Occupiers' Liability Act
 1984 governs the more limited liability owed to trespassers. Confusing which Act applies to which
 claimant is one of the most common structural errors in this section -- the standard of care and the
 scope of duty differ meaningfully between the two.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--05-occupiers-acts.webp" width="900" height="1020" alt="A fenced plot of land with a house. A lawful visitor enters through the gate and the Occupiers' Liability Act 1957 applies. A trespasser crosses the fence and the Occupiers' Liability Act 1984 applies, with more limited liability. The standard of care and scope of duty differ." loading="lazy">
+  <figcaption>The 1957 Act governs lawful visitors and the 1984 Act governs trespassers.</figcaption>
+</figure>
+
 
 ## Worked example: applying the negligence structure
 
@@ -127,6 +161,12 @@ even where all three negligence elements are made out.
 
 Step 5 is often missed under time pressure: candidates who establish negligence successfully sometimes
 forget that a defence can still reduce or entirely defeat an otherwise complete claim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--07-answer-routine.webp" width="900" height="1040" alt="A staircase of five steps: duty (established or Caparo), breach (reasonable person standard), factual cause (but for), legal cause (reasonably foreseeable harm), then defences and remedies, which can still reduce or defeat a complete claim and are often missed." loading="lazy">
+  <figcaption>Work through duty, breach, factual then legal cause, and only then defences and remedies.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

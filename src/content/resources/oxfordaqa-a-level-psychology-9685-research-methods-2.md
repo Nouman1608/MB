@@ -67,6 +67,12 @@ Content analysis is a way of studying behaviour indirectly, through things peopl
 
 **Worked paragraph.** *A fictional researcher codes 200 food adverts for "health claims" and "taste claims".* Content analysis suits this aim because adverts are permanent and public, so no consent is needed (knowledge, application). Tallying claims converts adverts into frequencies that can be compared (analysis). However, deciding whether "light and fresh" is a health or taste claim needs judgement, so a second coder should code a sample, and agreement should be checked (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--12-rm2-content-analysis.webp" width="900" height="880" alt="Four steps. 1: a sample of 200 food adverts, shown as 200 grey squares. 2: each advert is coded into a category, shown as coloured squares for health claims, taste claims and other. 3: the tallies are counted into bars (70, 90 and 40, illustrative). 4: a second coder codes a sample and the two tallies are compared, which is inter-observer reliability." loading="lazy">
+  <figcaption>Sample, code, tally, then check with a second coder.</figcaption>
+</figure>
+
+
 ## Case studies
 
 A case study is an in-depth investigation of one person, group, institution or event. It usually uses several methods, such as interviews, observation and psychological tests. Many case studies are **longitudinal** and follow the case over time.
@@ -104,6 +110,12 @@ A case study is an in-depth investigation of one person, group, institution or e
 - Experiments: standardise procedures and instructions.
 - Content analysis: tighten coding definitions and pilot them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--10-rm2-reliability.webp" width="900" height="1010" alt="Two ways to check reliability. Test-retest: the same people take the same test twice with a gap between. Inter-observer: two observers record the same behaviour separately, giving two tallies. In both cases the two sets of scores are correlated. A scatter plot of ten illustrative pairs shows a strong positive correlation with r about 0.98, above the textbook rule of thumb of +0.80, so the measure is reliable." loading="lazy">
+  <figcaption>Correlate the two sets of scores: a strong positive correlation (rule of thumb +0.80 or above) shows good reliability.</figcaption>
+</figure>
+
+
 ## Validity
 
 **Validity** means accuracy. A valid measure measures what it claims to measure, and valid findings can be generalised beyond the study.
@@ -119,6 +131,12 @@ A case study is an in-depth investigation of one person, group, institution or e
 
 **Worked paragraph.** *A fictional company designs a 20-item test of nursing aptitude.* To check concurrent validity, applicants could also complete an established aptitude test, and the two sets of scores could be correlated (knowledge, application). To check predictive validity, scores could be correlated with supervisors' ratings after a year in post (application). A strong positive correlation in each case would suggest the test measures aptitude (analysis). A weak link with job ratings might reflect training received after selection rather than a poor test, so one correlation is not proof (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--11-rm2-validity-types.webp" width="900" height="740" alt="Four panels. Face validity: the measure looks right to an expert. Concurrent validity: scores agree with a known established test (correlate the two). Predictive validity: scores predict a later outcome (correlate with it). Ecological validity: findings hold in real-life settings, compared with the lab." loading="lazy">
+  <figcaption>Face, concurrent, predictive and ecological validity ask different questions about accuracy.</figcaption>
+</figure>
+
+
 ## Designing and reporting investigations
 
 Design choices come from Research methods 1: aim, hypothesis, sampling, design, variables, controls and ethics. Research methods 2 adds how the study is written up.
@@ -133,6 +151,12 @@ Design choices come from Research methods 1: aim, hypothesis, sampling, design, 
 | Referencing | Full details of every source cited |
 
 A reference usually lists author(s), year, title, journal, volume and page numbers. For example: Scoville, W. B. and Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. *Journal of Neurology, Neurosurgery and Psychiatry*, 20, 11-21. Your teacher will confirm the format they want.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--13-rm2-report-structure.webp" width="900" height="800" alt="A page split into six stacked sections in order: abstract (short summary), introduction (past research leads to the aim), method (enough detail to replicate), results (statistics, graphs, test outcome), discussion (meaning, limits, applications) and referencing (every source cited)." loading="lazy">
+  <figcaption>A report runs abstract, introduction, method, results, discussion, referencing.</figcaption>
+</figure>
+
 
 ## Probability, significance and inferential tests
 
@@ -152,6 +176,17 @@ For most tests the calculated value must be **equal to or greater than** the cri
 **Type I error.** Rejecting the null hypothesis when it is true: a false positive. More likely if the level is too lenient, such as 0.10.
 
 **Type II error.** Accepting the null hypothesis when it is false: a false negative. More likely if the level is too strict, such as 0.01. Using 0.05 balances the two risks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--08-rm2-critical-value.webp" width="900" height="825" alt="Two number lines. For Mann-Whitney (and Wilcoxon and Sign test) the result is significant when the calculated value is equal to or less than the critical value: the worked example U = 18 is below the one-tailed critical values of 27 at 0.05 and 19 at 0.01, so it is significant at both levels. For tests with an r in the name the result is significant when the calculated value is equal to or greater than the critical value." loading="lazy">
+  <figcaption>Mann-Whitney, Wilcoxon and Sign: calculated must be at most the critical value. Tests with an &quot;r&quot;: at least the critical value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--09-rm2-type-errors.webp" width="900" height="800" alt="A two by two grid. If the null hypothesis is true and you reject it, that is a Type I error, a false positive. If the null hypothesis is false and you accept it, that is a Type II error, a false negative. The other two cells are correct decisions. Below, a scale of significance levels: 0.10 is lenient and makes Type I errors more likely, 0.01 is strict and makes Type II errors more likely, and 0.05 balances the two risks." loading="lazy">
+  <figcaption>Rejecting a true null is a Type I error; accepting a false null is a Type II error. A level of 0.05 balances the risks.</figcaption>
+</figure>
+
 
 ## Levels of measurement
 
@@ -174,6 +209,12 @@ The specification names three factors: the research aim, the level of measuremen
 Textbooks usually add that the t-tests and Pearson's r (parametric tests) need interval data that are roughly normally distributed, with similar spread in each condition. Your teacher will confirm how much of this the exam expects.
 
 **Worked example.** *A fictional researcher tests whether people who revise in silence recall more than people who revise with music. Two separate groups of 10 rate their recall confidence on a 1-10 scale. Mann-Whitney gives U = 18.* Mann-Whitney is right: the aim is a difference, the design is independent groups, and ratings are ordinal. The hypothesis is directional, so the one-tailed critical value at p ≤ 0.05 for n1 = n2 = 10 is 27. U must be equal to or less than this. 18 ≤ 27, so the result is significant and the null hypothesis is rejected. The one-tailed critical value at p ≤ 0.01 is 19, so the result is also significant at the stricter level, which reduces the risk of a Type I error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-2--07-rm2-choose-test.webp" width="900" height="780" alt="A grid with research aim and design down the side (difference between unrelated groups, difference between related groups, correlation or association) and level of measurement across the top (nominal, ordinal, interval). The cells name the test: Chi-squared, Mann-Whitney, unrelated t-test; Sign test, Wilcoxon, related t-test; Chi-squared, Spearman's rho, Pearson's r. Mann-Whitney is highlighted for the worked example: a difference, independent groups, ordinal ratings." loading="lazy">
+  <figcaption>Pick the test from three things: the aim, the design and the level of measurement.</figcaption>
+</figure>
+
 
 ## Common errors
 

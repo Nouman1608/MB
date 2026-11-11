@@ -58,6 +58,27 @@ The specification sets no pseudo-code conventions of its own, so the snippets be
 
 Size reminder: a matrix for n vertices always has n × n cells, however few edges there are. A list grows with the number of edges.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--01-ads-graph-kinds.webp" width="900" height="1000" alt="Two graphs. The first is undirected and weighted: a trail map with vertices F, G, H, J, K and six edges weighted in kilometres. The second is directed: W follows X and Y, X and Y follow Z, Z follows W, shown with arrows." loading="lazy">
+  <figcaption>Undirected weighted graph (top) and directed graph (bottom).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--02-ads-trail-matrix-list.webp" width="900" height="1151" alt="The trail map as a 5 by 5 adjacency matrix, symmetric about the leading diagonal so F-G = 4 appears twice, and as an adjacency list of linked entries such as F: G(4), H(7)." loading="lazy">
+  <figcaption>The same weighted graph stored as an adjacency matrix and as an adjacency list.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--03-ads-directed-matrix.webp" width="900" height="1040" alt="A directed graph W, X, Y, Z with its matrix: rows are from, columns are to. W to X is 1 but X to W is 0, so the matrix is not symmetric." loading="lazy">
+  <figcaption>The matrix of a directed graph is not symmetric.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--04-ads-sparse-size.webp" width="900" height="930" alt="A large square for 1,000,000 matrix cells beside a tiny square, 200 times smaller in area, for 5,000 adjacency-list entries. The graph is sparse so a list is better." loading="lazy">
+  <figcaption>Matrix and list sizes for 1,000 vertices and 2,500 edges, drawn to the same scale.</figcaption>
+</figure>
+
+
 ## 3.10.2 Trees -- definitions to learn word for word
 
 - **Tree:** a connected, undirected graph with no cycles. It does **not** need a root.
@@ -75,6 +96,12 @@ Size reminder: a matrix for n vertices always has n × n cells, however few edge
 > Follow the same left/right rule. Stop when the value matches (found) or when the branch you need is empty (not present).
 
 **Small reminder.** Inserting 25, 14, 37, 9, 20, 31 gives root 25; 14 (left) with children 9 and 20; 37 (right) with left child 31. Searching for 20 visits 25, 14, 20.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--05-ads-bst-search.webp" width="900" height="880" alt="A binary search tree built from 52, 30, 71, 18, 44, 60, 85, 39. Searching for 39 follows 52, 30, 44, 39. Searching for 65 follows 52, 71, 60 then an empty position, so it is absent." loading="lazy">
+  <figcaption>Two search paths through the same binary search tree.</figcaption>
+</figure>
+
 
 ## 3.10.3 Hash tables
 
@@ -107,6 +134,12 @@ Size reminder: a matrix for n vertices always has n × n cells, however few edge
 | Order | Records not held in key order | Can be kept in order |
 | Weak point | Collisions slow it down as it fills | Search time grows with the amount of data |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--06-ads-hash-table.webp" width="900" height="1105" alt="An eleven-slot hash table using key MOD 11. 6688 collides at slot 0 and moves to slot 3. A strip shows the search for 8603 ending at empty slot 5." loading="lazy">
+  <figcaption>Inserting into a hash table with rehashing, and a search that ends at an empty slot.</figcaption>
+</figure>
+
+
 ## 3.10.4 Priority queues
 
 - **Priority queue:** each item has a priority; items are removed in priority order, and items of equal priority leave in arrival order.
@@ -122,6 +155,12 @@ Size reminder: a matrix for n vertices always has n × n cells, however few edge
 Another valid design adds every item at the rear and searches for the highest priority when dequeuing. Either way, the empty and full tests use `count`.
 
 **Small reminder.** Array size 4, priority 1 is highest. Enqueue A (3), B (1), C (3), D (2). Front to rear: B, D, A, C. `count` = 4, so the queue is full. A dequeue returns B.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--07-ads-priority-queue.webp" width="900" height="866" alt="The array contents and count after each of six operations on a size-5 priority queue, with priority 1 highest and equal priorities kept in arrival order." loading="lazy">
+  <figcaption>Step-by-step array contents of the priority queue.</figcaption>
+</figure>
+
 
 ## 3.10.5 Dictionaries
 

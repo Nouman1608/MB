@@ -72,6 +72,22 @@ The specification does not name these writers; treat them as optional tools.
 
 **Worked paragraph (knowledge, application, analysis, evaluation).** *The character of a place is the product of endogenous and exogenous factors working together [knowledge]. In the Walled City of Lahore, the dense lanes and Mughal-era buildings are endogenous factors, but the area's role as a wholesale trading hub depends on links to the rest of the city and beyond [application]. The built environment therefore shapes how flows arrive, while the flows decide how the built environment is used [analysis]. This suggests the endogenous/exogenous distinction is best treated as a starting point, since neither set of factors explains the place on its own [evaluation].*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-changing-places--06-space-to-place.webp" width="900" height="960" alt="Space is a location with no meaning attached, drawn as a grey pin. People add experience, memory and attachment, and it becomes place, drawn as a gold pin. Below, the optional framework of John Agnew shows place as three things together: location (where it is and how it links to other places), locale (the material setting such as streets, homes, markets and schools) and sense of place (the feelings and meanings people attach to it)." loading="lazy">
+  <figcaption>Space becomes place when people give it meaning; one framework sees place as location, locale and sense of place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-changing-places--07-insider-outsider.webp" width="900" height="880" alt="A place inside a dashed boundary with houses and one insider who lives there and knows it through daily routines. Outside the boundary four outsiders look in from beyond: a tourist, an investor, a planner and a viewer of a news report. Below, a five-step bar runs from existential insideness, a place felt as home without thinking about it, to existential outsideness, feeling alienated from a place. A person can be an insider in one place and an outsider in the next street." loading="lazy">
+  <figcaption>Insiders know a place through daily life; outsiders look in from beyond, and insideness runs from feeling at home to feeling alienated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-changing-places--08-place-inside-out.webp" width="900" height="880" alt="A large circle labelled place shows endogenous, or internal, factors: location and land, buildings and roads, people and economy. Gold arrows come from outside: two-way flows of people, goods, capital and ideas, and, from above, external forces such as government policy and multinational company decisions. Place character comes from both sets working together; neither explains a place alone." loading="lazy">
+  <figcaption>Place character comes from internal (endogenous) factors and external flows and forces working together.</figcaption>
+</figure>
+
+
 ## 3.4.1.2 Relationships and connections
 
 The specification asks how relationships and connections change people and place, with a focus on five areas. Work through each using your two place studies, and other places where needed.
@@ -90,6 +106,12 @@ The specification asks how relationships and connections change people and place
 
 **Worked paragraph.** *External forces can transform a place quickly [knowledge]. In Stratford, the decision to hold the 2012 Olympic Games in east London brought state-led investment in a 560-acre park, and Westfield Stratford City opened in September 2011 next to the site [application]. These decisions came from national government, the Mayor of London and a property company rather than residents, so the direction of change was set from outside [analysis]. However, Stratford had been shaped by external forces before, notably the railway works established there in 1847, so the Olympics continued a long pattern rather than starting one [evaluation].*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-changing-places--09-newham-numbers.webp" width="900" height="1240" alt="Two data views of Newham, east London, from the lesson. A bar chart shows the five largest groups in the 2021 census of 351,030 residents: Bangladeshi 15.9 percent, White British 14.8, White Other 14.6, African 11.6 and Indian 11. Together they make 67.9 percent. A grid of 100 dots has 36 filled: a 2017 report found 36 percent of Newham employees in low-paid work, the highest share of any London borough." loading="lazy">
+  <figcaption>Newham five largest groups make up 67.9% of residents, and 36% of its employees were in low-paid work in 2017.</figcaption>
+</figure>
+
+
 ## 3.4.1.3 Meaning and representation
 
 **Perception and attachment.** People perceive the same place differently depending on age, gender, ethnicity, religion, class, length of residence and ability. A market street may mean livelihood to a trader, nostalgia to an older resident and danger to a parent. Everyday place meanings are bound up with these identities.
@@ -107,6 +129,12 @@ The specification asks how relationships and connections change people and place
 **Evaluation.** Representations are never neutral. Each has an author, an audience and a purpose. Statistics look objective but depend on chosen categories and boundaries. Personal accounts are rich but may not be typical.
 
 **Worked paragraph.** *Official bodies often try to fix a single meaning on a place [knowledge]. The Walled City of Lahore Authority, set up in 2012, promotes the old city as a heritage destination, and its restoration of the Shahi Hammam with the Aga Khan Trust for Culture received a UNESCO Award of Merit in 2016 [application]. This presents the area as a site of Mughal heritage, which may attract tourists and funding [analysis]. Yet for traders and residents the same lanes mean work, family and congestion, so the official meaning is only one of several, and it may sit uneasily with everyday use [evaluation].*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-changing-places--10-formal-informal-representations.webp" width="900" height="800" alt="The same place can be represented in two ways. A formal representation, such as a census table, may show a ward as deprived. An informal representation, such as a local song, may present the same ward as close-knit and proud. Formal sources are census data, maps and statistics; informal sources include advertising, film, art, story and song. Every representation has an author, an audience and a purpose." loading="lazy">
+  <figcaption>Formal and informal sources can give contrasting images of the same place, and every representation has an author, audience and purpose.</figcaption>
+</figure>
+
 
 ## 3.4.1.4 Quantitative and qualitative skills
 
@@ -145,6 +173,17 @@ Both must focus on people's lived experience of the place in the past and at pre
 - **Change.** The 2012 Olympics drove regeneration. The London Legacy Development Corporation, a mayoral development corporation, was set up in 2012. Queen Elizabeth Olympic Park opened permanently in 2014. The former athletes' village became East Village, with 2,818 homes, of which 1,379 are affordable. UCL and London College of Fashion opened campuses on the park in 2023.
 - **Contrast with Lahore.** Higher-income country, much lower population density than the Walled City, ethnically very mixed population.
 - **Lived experience.** Long-standing residents may welcome transport and jobs while reporting rising rents; the 2013 young mothers' housing campaign shows contested meaning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-changing-places--11-timeline-stratford.webp" width="900" height="1110" alt="A vertical timeline for Stratford, east London, in the order the lesson gives. 1847 the Eastern Counties Railway moves its works to Stratford. 1862 the Great Eastern Railway runs them. September 2011 Westfield Stratford City opens. 2012 the Olympics drive regeneration and the London Legacy Development Corporation is set up. 2013 young mothers form a housing campaign. 2014 the Queen Elizabeth Olympic Park opens permanently and in September the campaign occupies empty flats. 2023 UCL and London College of Fashion open on the park. Spacing is not to scale. A bar shows 1,379 of 2,818 East Village homes are affordable, 48.9 percent." loading="lazy">
+  <figcaption>Stratford change runs from Victorian railway works to Olympic-era regeneration and resident campaigns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-changing-places--12-timeline-lahore.webp" width="900" height="1050" alt="A vertical timeline for the Walled City of Lahore, Pakistan, in the order the lesson gives. 1634 to 1641 Wazir Khan Mosque built. 1635 Shahi Hammam built. 1947 Partition brings mass migration in both directions. 1981 Lahore Fort becomes a UNESCO World Heritage Site. 2012 the Walled City of Lahore Authority is set up. 2016 UNESCO Award of Merit for the Shahi Hammam restoration. The old city covers about 256 hectares with about 200,000 people, roughly 780 people per hectare. Spacing is not to scale." loading="lazy">
+  <figcaption>The Walled City history runs from Mughal buildings through Partition to conservation and recognition.</figcaption>
+</figure>
+
 
 ## Common errors
 

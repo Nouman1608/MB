@@ -110,6 +110,27 @@ In the exam you will normally be given the table. Use it.
 - **Electronic databases:** census, flow records, statistics; large and consistent but collected for other purposes.
 - **Crowd sourcing and big data:** volunteered maps, geotagged posts, phone data; huge and fast but unrepresentative, with privacy concerns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--01-gs-spread.webp" width="900" height="940" alt="A dispersion diagram of 11 pedestrian counts from a fictional town, plotted as dots up a vertical scale from 12 to 75. Horizontal lines mark the lower quartile 18, median 31, upper quartile 46 and a dashed mean of 33.9. The highest count, 75, is an outlier that pulls the mean above the median. The inter-quartile range is 28, the range is 63 and the standard deviation is 17.6." loading="lazy">
+  <figcaption>One dot per site shows why the median, IQR and standard deviation are less affected by the extreme count of 75 than the mean and range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--02-gs-spearman.webp" width="900" height="1010" alt="A scatter graph of ten sites, A to J, showing environmental quality score rising with distance from the town centre, with a dashed trend line. Below it the working: the squared rank differences add up to 14.5, so Spearman r s = 1 minus 6 times 14.5 divided by 990, which is 0.912. A scale from minus 1 to plus 1 shows the two-tailed critical values 0.648 and 0.794 for n = 10; 0.912 lies beyond 0.794, so the null hypothesis is rejected." loading="lazy">
+  <figcaption>Scatter of the ten Aldervale sites with the rank working and the significance scale for r_s = 0.912.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--03-gs-chi.webp" width="900" height="990" alt="A bar chart of observed litter counts 42, 30 and 18 in three equal zones, with a dashed line at the expected count of 30 in each. Under each bar the working: 144 divided by 30 is 4.8, 0, and 4.8, which sum to a chi-square value of 9.6. A scale from 0 to 12 shows the critical values 5.99 at the 0.05 level and 9.21 at the 0.01 level for 2 degrees of freedom. 9.6 lies above 9.21, so the null hypothesis of an even spread is rejected." loading="lazy">
+  <figcaption>Observed against expected litter counts, the chi-square working and where 9.6 falls against the 5.99 and 9.21 critical values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--04-gs-circles.webp" width="900" height="620" alt="Three circles on a baseline. A small circle for value 1 has radius 1 unit. The correct circle for a value four times larger has radius two times larger, so its area is four times larger. The wrong circle, with radius four times larger, has an area sixteen times larger. The rule is that radius is proportional to the square root of the value." loading="lazy">
+  <figcaption>Why a proportional circle needs radius proportional to the square root of the value.</figcaption>
+</figure>
+
+
 ## Fieldwork stages (3.5.2.1-3.5.2.5)
 
 1. **Planning and preparation:** aims, location, a justified hypothesis or research question, appropriate methods, background research from secondary sources, and a risk assessment.
@@ -119,6 +140,12 @@ In the exam you will normally be given the table. Use it.
 5. **Conclusions and evaluation:** accept or reject the hypothesis; ethics and the impact of collecting and representing data; increased understanding of the place and ideas; evaluate every stage; suggest improvements and future use.
 
 The specification requires every student to do a personal investigation. If practical fieldwork is not possible, it allows school-grounds enquiries, interviews in school or at home, or raw unprocessed data from your teacher that you help plan and sample. Pre-processed data alone is not enough.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--06-gs-enquiry.webp" width="900" height="1010" alt="A vertical chain of five stages joined by arrows: 1 plan and prepare (aim, hypothesis, risk assessment), 2 collect data (sampling, primary and secondary), 3 present data (maps, graphs, sketches, tables), 4 analyse data (statistics and coded themes), 5 conclude and evaluate (accept or reject, ethics, improvements). A gold arrow loops from the last stage back to the first, labelled evaluate every stage." loading="lazy">
+  <figcaption>The five stages of a fieldwork enquiry, with evaluation running through all of them.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -169,6 +196,12 @@ The specification requires every student to do a personal investigation. If prac
 9. It is unrepresentative, because only people with the technology and willingness to contribute are included.
 10. Equal percentage (proportional) rates of change, not equal absolute changes.
 11. Unfamiliar fieldwork questions and familiar fieldwork questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--05-gs-sampling.webp" width="900" height="960" alt="Three rectangles each showing 10 sample points. In the random panel the points are scattered with no pattern. In the systematic panel the points lie at equal spacing along a line. In the stratified panel the area is split into three zones taking 50, 30 and 20 percent of the width, and they receive 5, 3 and 2 points in proportion. Notes say random sampling avoids bias but can miss parts, systematic gives even coverage but can miss a regular pattern, and stratified is representative but needs prior knowledge." loading="lazy">
+  <figcaption>The three sampling types the specification names, each with 10 illustrative points and its main weakness.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

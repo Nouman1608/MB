@@ -58,6 +58,12 @@ Syllabus notation to recognise: n(A) for the number of elements in A, A′ for t
 
 Work out whether the formula needs the overlap before you add anything.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--04-p1-mutually-exclusive.webp" width="900" height="790" alt="A bar of 200 staff split into bus 90, car 60, walk 36 and cycle 14. Highlighting bus and cycle shows P(bus or cycle) = 13/25 by adding; highlighting all but car shows P(not car) = 7/10." loading="lazy">
+  <figcaption>Mutually exclusive events share no outcomes, so their probabilities add.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 **Finding a probability from equally likely outcomes**
@@ -85,6 +91,17 @@ Work out whether the formula needs the overlap before you add anything.
 2. Multiply along a path when the stages are independent.
 3. Add the paths that make up the event, because different paths are exclusive.
 4. Check that all path probabilities add to 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--05-p1-venn.webp" width="900" height="1060" alt="A Venn diagram of 50 pupils built in four steps from the overlap outwards: both 9, French only 19, Spanish only 10, neither 12. P(French or Spanish) is 38/50 = 19/25, matching 28/50 + 19/50 - 9/50." loading="lazy">
+  <figcaption>Start with the intersection, then work outwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--06-p1-tree.webp" width="900" height="970" alt="A two-stage tree for a sensor faulty with probability 0.1 on each test. The four path probabilities are 0.01, 0.09, 0.09 and 0.81. Exactly one faulty is 0.18 by adding two paths and at least one is 0.19 by the complement." loading="lazy">
+  <figcaption>Multiply along a path and add the paths that fit the event.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -177,6 +194,12 @@ P(at least one head) = 1 − P(no heads) = 1 − 1/8 = 7/8
 10. 0.1 + 0.3 + x + 0.25 = 1, so x = **0.35**.
 11. 5, 10, 15, 20, 25 give 5 cards: 5/25 = **1/5**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--02-p1-relative-frequency.webp" width="900" height="820" alt="A line graph of relative frequency for a drawing pin landing point up: 0.55 after 20 trials, 0.58 after 50, 0.59 after 100 and 0.62 after 200. The best estimate is 0.62, and in 500 drops about 310 are expected, as an average rather than a guarantee." loading="lazy">
+  <figcaption>Relative frequency tends to settle near the true probability as trials increase.</figcaption>
+</figure>
+
+
 ## Writing answers clearly
 
 The syllabus overview asks candidates to show all working on the question paper, so set your work out as a short chain of steps.
@@ -198,6 +221,17 @@ The syllabus overview asks candidates to show all working on the question paper,
 - Answering "expected number" with a probability, or giving a decimal count of people without comment.
 - Giving only a final answer. Writing the addition or subtraction makes your method visible.
 - Saying events are exclusive without a reason. State the overlapping outcome, or show that there is none.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--01-p1-sample-space.webp" width="900" height="710" alt="Ten tiles show the letters of STATISTICS. Events (a) T, (b) a vowel, (c) S or I and (d) not C are highlighted with probabilities 3/10, 3/10, 1/2 and 9/10. A note says the five distinct letters are not equally likely." loading="lazy">
+  <figcaption>Counting each letter as its own outcome gives 10 equally likely outcomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--03-p1-difference-table.webp" width="900" height="920" alt="A 4 by 4 table of the difference between two tetrahedral dice, coloured by difference. There are 16 outcomes: 4 zeros, 6 ones, 4 twos and 2 threes, giving P(0) = 1/4 and P(at least 2) = 3/8, checked with the complement." loading="lazy">
+  <figcaption>Listing the sample space in a table makes the counts and the complement check visible.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

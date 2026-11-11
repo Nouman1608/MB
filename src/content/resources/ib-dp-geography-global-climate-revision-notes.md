@@ -57,6 +57,27 @@ The IB Geography guide (first assessment 2019) divides this unit into three sub-
    technology, including geo-engineering), and civil society and corporate strategies, with a case
    study of one country's response focusing on the actions of non-governmental stakeholders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--01-gc-energy-balance.webp" width="900" height="1040" alt="Shortwave radiation from the Sun passes through the atmosphere to the surface. The surface emits longwave radiation upwards. Greenhouse gases absorb some of it and re-emit it, warming the lower atmosphere, and the rest escapes to space." loading="lazy">
+  <figcaption>Greenhouse gases absorb some outgoing longwave radiation and re-emit it, warming the lower atmosphere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--02-gc-volcanic-dimming.webp" width="900" height="920" alt="A volcanic eruption puts aerosols into the atmosphere. Aerosols reflect some incoming sunlight back to space, so less reaches the surface. The surface cools temporarily (global dimming)." loading="lazy">
+  <figcaption>Volcanic aerosols reflect incoming sunlight, causing temporary cooling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--03-gc-albedo-loop.webp" width="900" height="920" alt="Warming melts ice, which lowers albedo so less sunlight is reflected. The surface absorbs more energy, so warming increases further and the loop repeats. Each pass amplifies the warming, so it is a positive feedback loop." loading="lazy">
+  <figcaption>Melting ice lowers albedo, so more energy is absorbed and warming increases further.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--04-gc-adapt-mitigate.webp" width="900" height="1100" alt="Greenhouse gas emissions lead to climate change, which leads to impacts such as sea-level rise and heatwaves. Mitigation acts on the cause by reducing it. Adaptation manages the effects, for example flood defences and drought-resistant crops." loading="lazy">
+  <figcaption>Mitigation reduces the causes of climate change; adaptation manages its effects.</figcaption>
+</figure>
+
+
 ## Core vocabulary
 
 - **Vulnerability** -- the degree to which a place, community or system is susceptible to harm from a
@@ -97,6 +118,22 @@ Conclusion:         vulnerability is not just about the SIZE of the
 Breaking vulnerability down in this way (this resource's framework, not the guide's terms) and linking
 each part to the guide's named factors, such as wealth or location, gives a more analytical answer than
 just describing that "one place is more vulnerable".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--05-gc-vulnerability-parts.webp" width="900" height="960" alt="A climate hazard feeds into exposure (the place faces the hazard), sensitivity (housing and infrastructure) and adaptive capacity (resources and institutions). Together they make vulnerability. The IB guide names these factors behind differences between places: location, wealth, age, gender, education and risk perception." loading="lazy">
+  <figcaption>Vulnerability can be analysed as exposure, sensitivity and adaptive capacity; the lesson says this is its own framework, not IB wording.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--06-gc-two-places.webp" width="900" height="1060" alt="Two places face the same flood level. Place A has low-lying, poorly built housing and fewer resources and weaker institutions, so it suffers more harm. Place B has strong building codes, better drainage and greater financial and institutional capacity, so it suffers less harm." loading="lazy">
+  <figcaption>Two places face the same flood hazard but vulnerability differs, so outcomes differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--07-gc-resilience-curve.webp" width="900" height="960" alt="Illustrative graph of normal functioning after a hazard. Place A falls only a little but recovers slowly. Place B falls further (more vulnerable) but recovers faster and overtakes Place A shortly after the strike, showing that resilience is not just low vulnerability." loading="lazy">
+  <figcaption>A place can be less vulnerable at impact but recover more slowly, so the two ideas differ.</figcaption>
+</figure>
+
 
 ## Named, specific case studies
 

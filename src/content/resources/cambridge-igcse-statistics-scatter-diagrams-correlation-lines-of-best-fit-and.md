@@ -75,6 +75,12 @@ As altitude rises, temperature falls every time, and the fall is roughly steady.
 
 Always put your description in context. "Strong negative correlation" is the type; "higher villages tend to be cooler" shows you understand it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--11-c-correlation-types.webp" width="900" height="1100" alt="Six small scatter diagrams in two columns. Strong positive and strong negative show points close to a rising or falling straight line. Weak positive and weak negative show points in a loose band along a rising or falling trend. The fifth has no pattern. The sixth plots the lesson’s altitude and temperature table, which falls steadily: strong negative correlation." loading="lazy">
+  <figcaption>Describe correlation by direction (positive or negative) and strength (strong, weak or none).</figcaption>
+</figure>
+
+
 ## 11.3 Plotting a scatter diagram
 
 1. Draw axes with a ruler. Put the independent variable on the x-axis.
@@ -126,6 +132,12 @@ A line of best fit is a single straight line that follows the trend of the point
 
 Two sensible lines drawn by different people will differ a little. Estimates from a by-eye line are therefore approximate, so give them with that in mind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--15-c-equation-from-points.webp" width="900" height="880" alt="A straight line through (14, 40) and (30, 120). A right-angled dashed triangle with a run of 16 and a rise of 80 gives the gradient 80/16 = 5. Extending the line back to the vertical axis gives an intercept of −30. Together these give the equation y = 5x − 30." loading="lazy">
+  <figcaption>The gradient is rise over run between two far-apart points; the intercept is where the line meets the y-axis.</figcaption>
+</figure>
+
+
 ### By semi-averages
 
 This method gives one definite line. The syllabus says there will be an even number of data pairs.
@@ -144,6 +156,12 @@ Upper half (x = 5 to 8): mean x = (5 + 6 + 7 + 8)/4 = 6.5 and mean y = (26 + 25 
 The line passes through (2.5, 31.5) and (6.5, 23.5).
 
 If the data are not listed in order, sort by x first. With six pairs you would have three in each group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--12-c-semi-averages.webp" width="900" height="860" alt="A scatter diagram of eight practice-and-time pairs falling from top left to bottom right. The first four points and the last four points are marked differently, and the mean of each group, (2.5, 31.5) and (6.5, 23.5), is shown as a diamond. A ruled line through the two mean points has the equation y = −2x + 36.5." loading="lazy">
+  <figcaption>Split the ordered data in half, take the mean of each half, and join the two mean points.</figcaption>
+</figure>
+
 
 ## 11.5 The equation y = mx + c
 
@@ -184,6 +202,12 @@ Using the drinks line y = 5x − 30: at 22 °C, y = 5 × 22 − 30 = **80 drinks
 
 The line is drawn to predict the dependent variable from the independent one. Working backwards to find x from y is allowed, but it is a rougher estimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--13-c-estimate-from-line.webp" width="900" height="1000" alt="Two graphs of the line y = −2x + 36.5. In the first, a dashed line goes up from 5.5 hours to the line and across to 25.5 minutes. In the second, a dashed line goes across from 27 minutes to the line and down to 4.75 hours. The values agree with substituting into the equation." loading="lazy">
+  <figcaption>Go up from x then across to estimate y, or across from y then down to estimate x.</figcaption>
+</figure>
+
+
 ## 11.7 Assumptions and extrapolation
 
 **Interpolation** is estimating inside the range of the data. **Extrapolation** is estimating outside it. Interpolation is generally more trustworthy.
@@ -200,6 +224,12 @@ An estimate from a line of best fit assumes that:
 y = −2 × 20 + 36.5 = −3.5. A negative running time is impossible, so the estimate is meaningless. The data only cover 1 to 8 hours, and times cannot keep falling by 2 minutes for every extra hour. Even 10 hours, giving 16.5 minutes, lies beyond the data and should be treated as unreliable.
 
 Likewise, the drinks line gives y = 5 × 5 − 30 = −5 at 5 °C. Sales cannot be negative, so the line fails outside its range.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--14-c-extrapolation.webp" width="900" height="880" alt="The line y = −2x + 36.5 is extended far past the data, which only cover 1 to 8 hours of practice. At 10 hours it predicts 16.5 minutes and is marked unreliable. At 20 hours it predicts −3.5 minutes, in a shaded region below zero where times are impossible. Extrapolating outside the data can give meaningless estimates." loading="lazy">
+  <figcaption>Estimates inside the data (interpolation) are more trustworthy than those outside it (extrapolation).</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -90,6 +90,17 @@ and iterated over in whichever language or convention your own course
 actually uses for practical work, and check its index origin (0 or 1)
 rather than assuming one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--04-ds-dimensions.webp" width="900" height="1060" alt="Three arrays. A 1D array of 5 cells needs 1 index. A 2D array of 3 rows by 4 columns has 12 elements and needs 2 indices. A 3D array of 2 by 3 by 4 has 24 elements and needs 3 indices. Dimensions count the indices; size counts the elements." loading="lazy">
+  <figcaption>Dimensionality is how many indices locate an element; size is how many elements the array holds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--05-ds-index-origin.webp" width="900" height="740" alt="The same four-cell array A, B, C, D drawn twice. Indexed from 0 the cells are numbered 0 to 3, so the third element C is at index 2. Indexed from 1 they are numbered 1 to 4, so C is at index 3." loading="lazy">
+  <figcaption>The same element has a different index depending on the origin your course uses, so check it before relying on either.</figcaption>
+</figure>
+
+
 ## Worked example: choosing an array dimension for a problem
 
 A question describes a program that needs to store the temperature
@@ -130,6 +141,17 @@ array's *dimensionality* (how many indices are needed to locate an
 element) and its *size* (how many elements it holds in total) avoids a
 common source of confusion when describing or declaring arrays in exam
 answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--02-ds-matrix.webp" width="900" height="810" alt="A grid with 7 rows for days 0 to 6 and 3 columns for the 7am, 1pm and 7pm readings, giving 21 cells. The cell at row 4, column 1 is highlighted and labelled temperatures[4][1]." loading="lazy">
+  <figcaption>temperatures[7][3] stores 3 readings x 7 days = 21 values; the first index is the day and the second is the time slot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--03-ds-access.webp" width="900" height="690" alt="Three copies of the 7 by 3 temperature grid. In the first, one cell is highlighted: a single reading. In the second, one row of 3 cells: all readings for one day. In the third, one column of 7 cells: one time slot across all days." loading="lazy">
+  <figcaption>Two indices let a program reach one reading, a whole day, or one time slot across all days, instead of 21 separate variables.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -177,3 +199,9 @@ State how many dimensions are needed and explain how the data will be accessed, 
 AQA A-Level Computer Science (7517) specification, first teaching 2015
 —
 [aqa.org.uk/7517](https://www.aqa.org.uk/subjects/computer-science/a-level/computer-science-7517/specification/subject-content).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--01-ds-vector.webp" width="900" height="700" alt="A row of seven array cells numbered 0 to 6, each holding one value of the same type. One index, 3, points at one cell, which holds 23 (illustrative value)." loading="lazy">
+  <figcaption>A one-dimensional array is a vector: an ordered list of same-type values, each reached with a single index.</figcaption>
+</figure>
+

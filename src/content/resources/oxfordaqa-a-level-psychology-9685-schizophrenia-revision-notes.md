@@ -66,6 +66,12 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 | Tardive dyskinesia | Involuntary movements, a side effect mainly of typical drugs |
 | Agranulocytosis | Dangerous fall in white blood cells, a risk with clozapine |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--19-scz-frith-model.webp" width="900" height="790" alt="Three rows of three boxes. Healthy: inner speech, self-monitoring tags it as mine, heard as my own thought. Faulty self-monitoring: inner speech, self-monitoring fails, heard as an outside voice (hallucination). Faulty willed action: deciding what to say, willed action fails, poverty of speech." loading="lazy">
+  <figcaption>Frith links hallucinations to faulty self-monitoring and poverty of speech to faulty willed action.</figcaption>
+</figure>
+
+
 ## Studies at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -88,6 +94,17 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 | Adams et al. (2014) | Cochrane review of chlorpromazine vs placebo | Chlorpromazine reduced relapse | Evidence rated very low quality |
 | Jauhar et al. (2014) | Meta-analysis of CBT trials | Small effect overall; very small on negative symptoms | Effects shrank with masked assessors |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--15-scz-rosenhan.webp" width="900" height="1000" alt="Top: twelve hospitals, where healthy volunteers claimed to hear voices; stays ranged from 7 to 52 days with an average of 19, shown on a day scale. Bottom: in the follow-up, 193 patients are shown as dots, 41 of them highlighted as judged to be impostors by staff, although none had been sent. A note says later records cast serious doubt on how the study was run." loading="lazy">
+  <figcaption>Staff judged 41 of 193 patients to be impostors when none had been sent; later evidence casts doubt on the study.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--16-scz-twin-concordance.webp" width="900" height="900" alt="A bar chart of concordance from Danish registers covering 31,524 twin pairs: 33% for identical (MZ) twins and 7% for non-identical (DZ) twins. A dashed line at 100% marks what purely genetic causation would give. A bar at the bottom shows the heritability estimate of 79%." loading="lazy">
+  <figcaption>Concordance is 33% (MZ) against 7% (DZ), well short of 100%, so environment matters too.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Hallucination vs delusion.** A hallucination is a false perception; a delusion is a false belief.
@@ -98,6 +115,12 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 - **Original vs revised dopamine hypothesis.** Excess dopamine only vs low prefrontal plus high mesolimbic.
 - **Self-monitoring vs willed action.** Recognising your thoughts and actions as your own vs starting deliberate behaviour yourself.
 - **Typical vs atypical drugs.** D2 blockers mainly for positive symptoms vs broader action, generally with fewer movement side effects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--17-scz-dopamine-regions.webp" width="900" height="920" alt="Two side-view brain schematics (not to scale). Original hypothesis: high dopamine activity in subcortical (mesolimbic) areas leads to positive symptoms. Revised by Davis et al. (1991): high dopamine in the mesolimbic pathway leads to positive symptoms, and low dopamine in the prefrontal cortex leads to negative symptoms." loading="lazy">
+  <figcaption>The revision adds low prefrontal dopamine (negative symptoms) to high mesolimbic dopamine (positive symptoms).</figcaption>
+</figure>
+
 
 ## Mini essay plan
 
@@ -140,6 +163,12 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 11. Typical: chlorpromazine or haloperidol. Atypical: clozapine, risperidone or olanzapine.
 12. CBT has a small effect on symptoms, and the effect shrinks when assessors are masked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--18-scz-drug-synapse.webp" width="900" height="860" alt="Two synapse schematics. Top: dopamine released from the sending neuron binds to four D2 receptors on the receiving neuron. Bottom: a typical antipsychotic sits in each D2 receptor and blocks it, so the dopamine cannot bind: less dopamine transmission, fewer positive symptoms." loading="lazy">
+  <figcaption>Typical antipsychotics are dopamine antagonists: they block D2 receptors, reducing dopamine transmission and positive symptoms.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Calling a hallucination a false belief, or a delusion a false perception.
@@ -154,6 +183,12 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 - Using stigmatising language such as "schizophrenics".
 
 For deeper explanations and worked paragraphs, return to the [Schizophrenia study guide](/resources/oxfordaqa-a-level-psychology-9685-schizophrenia/). Reliability and validity as methods ideas are in [Research methods 2](/resources/oxfordaqa-a-level-psychology-9685-research-methods-2/). For whole-course strategy, see the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--14-scz-symptoms.webp" width="900" height="770" alt="Top panel, positive symptoms (added to experience): a hallucination is a voice heard with no external source; a delusion is a firmly held false belief, such as others plotting against me. Bottom panel, negative symptoms (reduced or lost): speech poverty, a full speech bubble shrinking to a short one; avolition, a battery with little charge for loss of motivation." loading="lazy">
+  <figcaption>Positive symptoms are added experiences; negative symptoms are normal abilities that are reduced or lost.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

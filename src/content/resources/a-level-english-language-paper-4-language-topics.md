@@ -47,13 +47,36 @@ groupings below are an editorial summary of the named content for each section, 
 
 Total mark for the paper: 50, split evenly between the two sections. Each question presents unseen stimulus material (typically a news article, blog extract, or set of online comments) and asks candidates to discuss the issues it raises, drawing on wider study of the topic as well as the material itself. No dictionaries allowed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--14-p4-stimulus-approach.webp" width="900" height="920" alt="Three steps with icons: first ground the answer in a detail from the unseen stimulus text (a page with a highlighted line and magnifier); then widen out to a named theory or example (arrows spreading outward); then take a position on the issue (a flag). Below, a bar shows the 50 marks split into two equal 25-mark sections: Section A English in the World and Section B Language and the Self, with equal time for each." loading="lazy">
+  <figcaption>Start from the stimulus, widen out to named knowledge, then take a position; the two sections are equally weighted.</figcaption>
+</figure>
+
+
 ## How to approach Section A: English in the World
 
 Because Section A questions are built around unseen stimulus texts, the skill being tested is not simply reciting facts about global English but engaging with what a specific text says and linking it outward to broader knowledge. Build a working vocabulary of key terms and examples: **Kachru's Three Circles** (Inner, Outer, Expanding) as a way of framing where and how a variety developed; "zero translation" (using an English word or acronym without translating it, common in contexts like China's use of "WiFi" or "CEO"); **creolisation** as the process by which contact between English and other languages produced new first-language varieties; hybrid varieties like Hinglish, Singlish and Spanglish, the standard/nonstandard distinction, and the ethical debate over whether the global spread of English represents opportunity (wider communication, economic access) or a form of cultural imperialism that displaces local languages. A strong answer references specific details in the given text before widening out to this broader knowledge, rather than ignoring the text and writing a prepared essay regardless of what it actually says.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--13-p4-ethics-balance.webp" width="900" height="760" alt="A level balance scale. The left pan, labelled Opportunity, holds connected speech bubbles and a coin and is described as wider communication and economic access. The right pan, labelled Cultural imperialism, holds a large circle covering a small one and is described as displacing local languages. The balance is level to show that an answer should weigh both sides." loading="lazy">
+  <figcaption>Engage with the ethical tension in the global spread of English rather than taking only one side.</figcaption>
+</figure>
+
+
 ## How to approach Section B: Language and the Self
 
 A Section B stimulus can draw on any of the three strands, so prepare all three rather than only the identity strand. For **innateness and learning**, know the competing positions: **behaviourism** explains language as learned through imitation and reinforcement; **innatism/nativism** (associated with Chomsky) argues for an innate language acquisition device, evidenced by children producing rule-governed forms ("goed", "sheeps") they cannot have imitated; **empiricism** holds that language is learned primarily from environmental input rather than an innate structure. For **language and thought**, know **linguistic relativity and determinism** (the Sapir-Whorf hypothesis: the language you speak shapes, or in its strong form determines, how you think), **universalism** (thought is independent of and precedes language), and the **language of thought hypothesis** (there is an underlying, language-independent "mentalese" that language merely expresses). For **language and social identity**, keep the idiolect/sociolect distinction sharp: idiolect is what makes one individual's speech distinctive, while sociolect is shared within a group defined by class, occupation, age or another social category — a stimulus text about a youth variety like Multicultural London English (MLE) is evidence of sociolect, not idiolect, even though it may be illustrated through one speaker's words. Build a working knowledge of influences on identity — gender, ethnicity, age, occupation, region and social group — along with at least one concrete named theory or example for each (for gender, theories such as the deficit, dominance, difference and diversity approaches are commonly cited). As with Section A, ground every point in the specific stimulus text first, then widen out to named theories or examples from your broader study.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--11-p4-language-thought.webp" width="900" height="980" alt="Three panels, each with a Language box and a Thought box. Linguistic relativity and determinism (Sapir-Whorf): an arrow from language to thought, because language shapes, or in its strong form determines, thought. Universalism: an arrow from thought to language, because thought is independent of and comes before language. Language of thought: thought contains a language-independent mentalese, and language merely expresses it." loading="lazy">
+  <figcaption>Three positions on how language and thought relate: language shapes thought, thought comes first, or an underlying mentalese sits beneath both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--12-p4-idiolect-sociolect.webp" width="900" height="975" alt="A large circle holds a group of people: a social group sharing a sociolect. One person in the middle has a dashed ring around them: their idiolect, the distinctive speech of one individual. Below, a legend explains three terms: idiolect (one person), sociolect (shared in a social group such as class, occupation or age) and dialect (defined by region). A note says a youth variety such as Multicultural London English is sociolect, not idiolect." loading="lazy">
+  <figcaption>Idiolect is individual; sociolect is shared by a social group; dialect is defined by region.</figcaption>
+</figure>
+
 
 ## Worked example: responding to a Section A-style stimulus
 
@@ -94,3 +117,19 @@ No. Paper 4 completes the A Level with Paper 3.
 ## Official syllabus
 
 Cambridge International AS & A Level English Language (9093) syllabus for 2024, 2025 and 2026 — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/635901-2024-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--08-p4-three-circles.webp" width="900" height="800" alt="Three concentric circles. The small centre circle is the Inner Circle, where English is a first language. The middle ring is the Outer Circle, where English has official or institutional status as a second language. The outer ring is the Expanding Circle, where English is learned as a foreign language. Labels on the right point to each ring." loading="lazy">
+  <figcaption>Kachru's Three Circles frame where and how a variety of English developed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--09-p4-pidgin-creole.webp" width="900" height="990" alt="A three-step flow. Contact between English and another language produces a pidgin, a simplified contact language with no native speakers. Creolisation turns the pidgin into a creole, a fully-fledged first language of a speech community. Below, three hybrid varieties that combine English with other languages are shown as overlapping circles: Hinglish, Singlish and Spanglish." loading="lazy">
+  <figcaption>Creolisation turns a pidgin (no native speakers) into a creole (a first language); hybrids blend English with another language.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--10-p4-continuum.webp" width="900" height="780" alt="A five-step ladder of varieties. At the top is the acrolect, closest to standard English. Three middle steps are mesolects, intermediate varieties. At the bottom is the basilect, furthest from standard English, such as colloquial Singlish or broad Jamaican Creole. A speaker icon with a double arrow shows that a speaker can shift up and down the ladder depending on factors such as education and how formal the situation is." loading="lazy">
+  <figcaption>Speakers move along the continuum from basilect to acrolect depending on education and formality.</figcaption>
+</figure>
+

@@ -67,6 +67,12 @@ The four bullets of 3.4.3 are your checklist:
 | Job demands | Aspects of work that need sustained physical or psychological effort |
 | Job resources | Aspects of work that help achieve goals, reduce demands or support growth |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--08-social-facilitation.webp" width="900" height="990" alt="Being watched by an audience raises arousal, which makes the dominant (best-learned) response more likely. On an easy or well-learned task the dominant response is correct, so performance improves, as with a skilled pool player. On a hard or new task it is often wrong, so performance worsens, as with a weak player. Cottrell added evaluation apprehension: arousal comes from expecting to be judged." loading="lazy">
+  <figcaption>Zajonc: an audience raises arousal, which helps easy tasks and harms hard ones.</figcaption>
+</figure>
+
+
 ## Theories and studies at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -102,6 +108,22 @@ The four bullets of 3.4.3 are your checklist:
 | Bosma et al. (1997); Marmot et al. (1997) | Whitehall II civil servants | Low control predicted heart disease; demands did not | Large, longitudinal; one country, office work |
 | Demerouti et al. (2001) | J D-R model | Health-impairment and motivational processes | Flexible but hard to falsify |
 | Bakker, Demerouti and Euwema (2005) | 1,012 higher education staff | Resources buffered demands for exhaustion and cynicism | Not for professional efficacy |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--09-social-loafing.webp" width="900" height="1000" alt="Three rope-pulling scenes. Alone, one person pulls with full effort. In a group of four, each person pulls less hard (Ringelmann). In a pseudo-group, only one person pulls and the others pretend, yet effort still falls (Ingham), so the loss is motivational, not poor coordination. The collective effort model says people work hard in a group only if they expect their effort to matter for an outcome they value." loading="lazy">
+  <figcaption>People pull less hard in groups, even when others only pretend to pull, so the loss is motivational.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--11-social-identity-theory.webp" width="900" height="920" alt="Three processes: social categorisation (sorting people into groups), social identification (adopting the group identity) and social comparison (comparing favourably to raise self-esteem). The result is in-group favouritism and out-group bias. In Tajfel's minimal group studies, people divided by preferring paintings by Klee or Kandinsky favoured their own group." loading="lazy">
+  <figcaption>Social identity theory: categorise, identify, compare, then favour the in-group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--12-personal-space-zones.webp" width="900" height="700" alt="A scale in centimetres shows Hall's four zones: intimate up to about 46 cm, personal 46 cm to 1.2 m, social 1.2 m to 3.7 m and public beyond. Below it, Sorokowska et al. found preferred distance from strangers was under 90 cm in Argentina, Peru, Ukraine and Bulgaria and over 120 cm in Romania, Hungary and Saudi Arabia." loading="lazy">
+  <figcaption>Hall described four distance zones; preferred distance from strangers differs between cultures.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -157,6 +179,22 @@ The four bullets of 3.4.3 are your checklist:
 11. AD: personal control, skill use, variety, demands and goals, clarity, social contact. CE: pay, physical security, valued social position, supportive supervision, career outlook, equity.
 12. Job demands were not related to coronary heart disease risk; low job control was.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--10-groupthink.webp" width="900" height="1194" alt="Antecedents of groupthink: high cohesion, structural faults such as insulation or a directive leader, and stress. Groupthink is a drive for agreement that overrides realistic appraisal. Janis listed eight symptoms in three types: overestimating the group (2), closed-mindedness (2) and pressure to conform (4). Remedies are an impartial leader, a devil's advocate and outside experts." loading="lazy">
+  <figcaption>Janis listed antecedents, eight symptoms in three types, and cheap remedies for groupthink.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--13-expectancy-theory.webp" width="900" height="880" alt="Vroom: effort leads to performance (expectancy), performance leads to an outcome (instrumentality), and valence is how much the outcome is valued. Motivational force = expectancy x instrumentality x valence. With illustrative values, if the target seems impossible, expectancy is 0 and motivation is 0 x 0.9 x 8 = 0; if reachable, 0.8 x 0.9 x 8 = 5.76." loading="lazy">
+  <figcaption>Motivational force is expectancy multiplied by instrumentality multiplied by valence, so any zero makes it zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--15-jd-r-model.webp" width="900" height="900" alt="Job demands such as work pressure and emotional demands lead to exhaustion and burnout (the health-impairment process). Job resources such as autonomy, feedback, coaching and role clarity lead to engagement (the motivational process). Resources also buffer the effect of demands. Bakker, Demerouti and Euwema found buffering for exhaustion and cynicism but not for professional efficacy." loading="lazy">
+  <figcaption>High demands drive exhaustion, resources drive engagement and also buffer the effect of demands.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Defining social facilitation as "working better with others" and missing the hard-task prediction.
@@ -185,6 +223,12 @@ Low job control predicted new coronary heart disease among London civil servants
 
 **What is the SIDE model of deindividuation?**
 The SIDE model says anonymity strengthens group identity, so people follow the local group's norms, which can be antisocial or prosocial. Classic deindividuation theory says anonymity simply removes restraint.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual--14-warr-vitamin-model.webp" width="900" height="965" alt="A sketch graph of well-being against the amount of a job feature. Additional decrement (AD) features, like vitamins A and D, help up to a point and then harm: the curve rises then falls. Constant effect (CE) features, like vitamins C and E, help and never harm: the curve rises and levels off. Lists name six AD and six CE features." loading="lazy">
+  <figcaption>In Warr's model, some job features can be harmful in excess (AD) while others never harm (CE).</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -61,6 +61,12 @@ Schizophrenia is a serious mental disorder in which contact with reality is disr
 
 **Classification.** Clinicians use manuals such as the DSM and the ICD. The specification does not name one; your teacher will confirm which to refer to.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--14-scz-symptoms.webp" width="900" height="770" alt="Top panel, positive symptoms (added to experience): a hallucination is a voice heard with no external source; a delusion is a firmly held false belief, such as others plotting against me. Bottom panel, negative symptoms (reduced or lost): speech poverty, a full speech bubble shrinking to a short one; avolition, a battery with little charge for loss of motivation." loading="lazy">
+  <figcaption>Positive symptoms are added experiences; negative symptoms are normal abilities that are reduced or lost.</figcaption>
+</figure>
+
+
 ## Reliability and validity in diagnosis
 
 **Key terms**
@@ -83,6 +89,12 @@ Reliability and validity are taught in depth in [Research methods 2](/resources/
 - **Cotton et al. (2009)** audited records of 661 patients with first-episode psychosis in Melbourne. Males had more severe symptoms and lower functioning. If women function better, their schizophrenia may be missed or diagnosed as a mood disorder.
 - **Buckley et al. (2009)** estimated that comorbid depression occurs in about 50% of patients with schizophrenia, and that about 47% have a lifetime diagnosis of substance abuse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--20-scz-clozapine-kane.webp" width="900" height="850" alt="A bar chart of 268 patients who had not responded to at least three previous drugs: 30% improved on clozapine against 4% on chlorpromazine, on a pre-set criterion. A note says clozapine improved negative as well as positive symptoms. A strip lists risks: tardive dyskinesia with typical drugs and agranulocytosis with clozapine, which needs regular blood tests." loading="lazy">
+  <figcaption>In treatment-resistant patients, 30% improved on clozapine against 4% on chlorpromazine (Kane et al., 1988).</figcaption>
+</figure>
+
+
 ### Co-morbidity and symptom overlap
 
 If half of patients also have depression, is schizophrenia one disorder or several? Co-morbidity makes it hard to say which symptoms belong to which condition. Symptom overlap matters too. Hallucinations and delusions can occur in bipolar disorder, and avolition looks like the low motivation of depression. Schizoaffective disorder sits on the boundary, and Cheniaux et al. found the two manuals agreed least on that diagnosis.
@@ -98,6 +110,12 @@ If half of patients also have depression, is schizophrenia one disorder or sever
 
 > Hearing voices is a key positive symptom, but its meaning differs across cultures (knowledge). A clinician trained in one culture may treat a person who hears an ancestor's guidance as having a hallucination, when in their community this may be an accepted experience (application). Luhrmann et al. (2015) found that people in India and Ghana were more likely than people in the USA to report rich relationships with their voices, so the same symptom label may cover different experiences (analysis). This suggests diagnosis can reflect the clinician's norms rather than a real disorder, which lowers validity. However, the study used small samples of 20 per country, so the findings may not generalise (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--15-scz-rosenhan.webp" width="900" height="1000" alt="Top: twelve hospitals, where healthy volunteers claimed to hear voices; stays ranged from 7 to 52 days with an average of 19, shown on a day scale. Bottom: in the follow-up, 193 patients are shown as dots, 41 of them highlighted as judged to be impostors by staff, although none had been sent. A note says later records cast serious doubt on how the study was run." loading="lazy">
+  <figcaption>Staff judged 41 of 193 patients to be impostors when none had been sent; later evidence casts doubt on the study.</figcaption>
+</figure>
+
+
 ## Biological explanations: genetics
 
 Risk rises with closeness of relationship, but families share environments too, so twin and adoption studies are needed.
@@ -107,6 +125,12 @@ Risk rises with closeness of relationship, but families share environments too, 
 - **The Psychiatric Genomics Consortium (Ripke et al., 2014)** compared up to 36,989 cases with 113,075 controls and found 108 genetic loci linked to schizophrenia. These included the dopamine D2 receptor gene (DRD2) and genes involved in glutamate signalling. Schizophrenia is **polygenic**: many genes, each with a small effect.
 
 **Evaluation.** If schizophrenia were purely genetic, MZ concordance would approach 100%. At 33%, environment must matter. MZ twins may also be treated more alike, inflating MZ concordance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--16-scz-twin-concordance.webp" width="900" height="900" alt="A bar chart of concordance from Danish registers covering 31,524 twin pairs: 33% for identical (MZ) twins and 7% for non-identical (DZ) twins. A dashed line at 100% marks what purely genetic causation would give. A bar at the bottom shows the heritability estimate of 79%." loading="lazy">
+  <figcaption>Concordance is 33% (MZ) against 7% (DZ), well short of 100%, so environment matters too.</figcaption>
+</figure>
+
 
 ## Biological explanations: neural correlates and the dopamine hypothesis
 
@@ -130,6 +154,12 @@ Risk rises with closeness of relationship, but families share environments too, 
 
 > A strength is that drugs which block D2 receptors reduce positive symptoms, which fits the claim that excess dopamine causes hallucinations and delusions (knowledge and analysis). However, the original hypothesis cannot explain avolition or speech poverty. Davis et al. (1991) addressed this by proposing low prefrontal dopamine alongside high mesolimbic dopamine, so the revised theory covers both symptom types (evaluation). Even so, the fact that drugs work does not show dopamine is the cause (analysis).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--17-scz-dopamine-regions.webp" width="900" height="920" alt="Two side-view brain schematics (not to scale). Original hypothesis: high dopamine activity in subcortical (mesolimbic) areas leads to positive symptoms. Revised by Davis et al. (1991): high dopamine in the mesolimbic pathway leads to positive symptoms, and low dopamine in the prefrontal cortex leads to negative symptoms." loading="lazy">
+  <figcaption>The revision adds low prefrontal dopamine (negative symptoms) to high mesolimbic dopamine (positive symptoms).</figcaption>
+</figure>
+
+
 ## Cognitive explanations: dysfunctional thought processing
 
 **Frith (1992)** argued that symptoms come from faulty information processing. He related many symptoms to a problem of **metarepresentation**: the ability to reflect on mental states, your own and other people's.
@@ -144,6 +174,12 @@ Risk rises with closeness of relationship, but families share environments too, 
 
 **Evaluation.** The explanation fits specific symptoms and has led to cognitive therapy. But it describes **how** symptoms happen (proximal causes) rather than **why** the processing is faulty in the first place (distal causes). Deficits may be a consequence of the disorder or medication. The accounts can combine: faulty self-monitoring may have a neural basis, as Allen et al. (2007) suggest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--19-scz-frith-model.webp" width="900" height="790" alt="Three rows of three boxes. Healthy: inner speech, self-monitoring tags it as mine, heard as my own thought. Faulty self-monitoring: inner speech, self-monitoring fails, heard as an outside voice (hallucination). Faulty willed action: deciding what to say, willed action fails, poverty of speech." loading="lazy">
+  <figcaption>Frith links hallucinations to faulty self-monitoring and poverty of speech to faulty willed action.</figcaption>
+</figure>
+
+
 ## Therapies: anti-psychotic drugs
 
 **Typical anti-psychotics** (first generation), such as **chlorpromazine** (developed in the 1950s) and haloperidol, are **dopamine antagonists**: they block D2 receptors, reducing dopamine transmission and positive symptoms.
@@ -156,6 +192,12 @@ Risk rises with closeness of relationship, but families share environments too, 
 - **Kane et al. (1988)** studied 268 patients who had not responded to at least three previous drugs. On a pre-set criterion, 30% of those given clozapine improved, against 4% given chlorpromazine. Clozapine improved negative as well as positive symptoms.
 
 **Evaluation.** Typical drugs can cause movement problems, including **tardive dyskinesia** (involuntary movements). Clozapine carries a risk of **agranulocytosis**, a dangerous fall in white blood cells, so patients need regular blood tests. Atypicals can cause weight gain. Side effects reduce adherence, and drugs manage symptoms rather than cure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-schizophrenia--18-scz-drug-synapse.webp" width="900" height="860" alt="Two synapse schematics. Top: dopamine released from the sending neuron binds to four D2 receptors on the receiving neuron. Bottom: a typical antipsychotic sits in each D2 receptor and blocks it, so the dopamine cannot bind: less dopamine transmission, fewer positive symptoms." loading="lazy">
+  <figcaption>Typical antipsychotics are dopamine antagonists: they block D2 receptors, reducing dopamine transmission and positive symptoms.</figcaption>
+</figure>
+
 
 ## Therapies: cognitive therapy
 

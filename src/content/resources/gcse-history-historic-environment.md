@@ -79,6 +79,12 @@ interpretation question, an 8-mark explanation question and an 8-mark
 narrative account) are set on the depth study's other three parts, not
 on the site.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--12-env-where-it-fits.webp" width="900" height="980" alt="Section A is one thematic study. Section B has four questions drawn with heights proportional to marks: three 8-mark questions (interpretation, explanation, narrative account) and a double-height 16-mark site essay, split 8 AO1 and 8 AO2, with no spelling, punctuation and grammar marks." loading="lazy">
+  <figcaption>The site essay is the fourth and final question of Section B and is worth 16 marks.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because Historic Environment questions are site-based rather than pure
@@ -122,6 +128,17 @@ features show to reach an overall judgement — the structure does not
 change from feature to feature, which is what makes it reliable under
 exam pressure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--14-env-feature-context-link-significance.webp" width="900" height="1090" alt="Four stacked steps with arrows: Feature (what is physically true), Context (what was happening in the period), Link (how the feature reflects, resulted from or shaped the context, stated outright) and Significance (why the link matters), the last marked as a planning step." loading="lazy">
+  <figcaption>The same four steps work for every feature of the site.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--15-env-essay-shape.webp" width="900" height="1000" alt="A flow from a clear early position, through two or three feature rows each with F, C, L and S boxes, to weighing the site evidence against the alternative view and an overall judgement." loading="lazy">
+  <figcaption>Apply the same four steps to two or three features, then weigh them to reach a judgement.</figcaption>
+</figure>
+
+
 ## Why this element is examined differently
 
 The Historic Environment study exists to test a genuinely different
@@ -136,6 +153,12 @@ the course should not assume that skill transfers automatically here
 -- the starting point is always something you can point to physically
 (a wall's thickness, a room's position, an object's placement), not a
 sentence someone else wrote about the period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--16-env-describe-explain-judge.webp" width="900" height="740" alt="Three chips name physical starting points: a wall’s thickness, a room’s position, an object’s placement. A staircase of three steps rises from describe, to explain, to judge; the first step is marked as not enough alone." loading="lazy">
+  <figcaption>Description is where you start, not where the marks are.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -185,3 +208,9 @@ AQA GCSE History (8145), Paper 2 subject content —
 verified 2026-09-06. Always confirm your centre's specific chosen
 depth study and the current historic environment site with your
 teacher, since AQA changes the specified site annually.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--13-env-site-to-period.webp" width="900" height="1010" alt="A generic building has four labels: location, function, structure and design, and people connected. An arrow leads to wider events of the period, then four chips for change, continuity, causation and consequence. A dashed box says significance is a planning step, not an assessed concept." loading="lazy">
+  <figcaption>Read features of the site, link them to the period, and use change, continuity, cause and consequence.</figcaption>
+</figure>
+

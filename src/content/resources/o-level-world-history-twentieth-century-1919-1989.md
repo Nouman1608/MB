@@ -77,6 +77,12 @@ INTERNATIONAL RELATIONS SINCE 1919**
   1948-c.1989? — Soviet methods of control over Eastern Europe and
   the challenges to that control up to the end of the Cold War era
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--01-chain-1919-1989.webp" width="900" height="1010" alt="Six numbered enquiries 2.1 to 2.6 in a vertical chain, with resentment linking Versailles to Hitler and the wartime alliance breaking down into the Cold War." loading="lazy">
+  <figcaption>The six enquiries form one connected chain from 1919 to 1989.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Every question in this Core content option is framed as a judgement
@@ -123,6 +129,12 @@ as either a reasonable response to the destruction of the First World
 War, or as harsh and short-sighted terms that fuelled German
 resentment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--02-versailles-aims-terms.webp" width="900" height="1100" alt="Wilson, Lloyd George and Clemenceau each had a different aim; the Treaty imposed territorial loss, military restriction, reparations and the war guilt clause on Germany, which can be judged reasonable or harsh." loading="lazy">
+  <figcaption>Three different aims produced one Treaty with four terms imposed on Germany.</figcaption>
+</figure>
+
+
 ## The League of Nations: success or failure?
 
 | Area | Evidence of success | Evidence of failure |
@@ -135,6 +147,17 @@ The League's fundamental weakness was structural: it could recommend
 sanctions but had no independent means of enforcing them, which
 became fatal once major powers chose to defy it in the 1930s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--03-league-scorecard.webp" width="900" height="970" alt="Three areas (peacekeeping, structure, membership) each with evidence of success and of failure as the lesson tabulates." loading="lazy">
+  <figcaption>The League had real successes but failed on peacekeeping, structure and membership.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--04-league-weakness.webp" width="900" height="1010" alt="The League recommends sanctions but has no army, so member states must enforce them; major powers defying it in the 1930s makes the system fail." loading="lazy">
+  <figcaption>The League could recommend sanctions but not enforce them.</figcaption>
+</figure>
+
+
 ## Causes of the Second World War
 
 Hitler's foreign policy -- remilitarising the Rhineland, pursuing
@@ -146,6 +169,12 @@ Nations already established above, and the wider failure of collective
 security in the 1930s. A strong answer does not treat Hitler's
 foreign policy in isolation but places it alongside these other
 contributing factors before reaching a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--05-ww2-causes-weighed.webp" width="900" height="830" alt="A level balance: four steps of Hitler's foreign policy (Rhineland, Anschluss, Sudetenland, Poland) against appeasement, League weakness and failed collective security." loading="lazy">
+  <figcaption>A strong answer weighs Hitler's foreign policy against other causes before judging.</figcaption>
+</figure>
+
 
 ## The Cold War: origins, containment and the end of Soviet control
 
@@ -171,6 +200,17 @@ policy that either succeeded or failed everywhere.
 Soviet control over Eastern Europe — maintained through political,
 military and economic means from 1948 — faced growing challenges
 through the Cold War period up to its end around 1989.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--06-cold-war-origins.webp" width="900" height="1030" alt="The USSR-West alliance breaks after 1945 over Eastern Europe and Germany; the USA responds in 1947 with the Truman Doctrine and Marshall Plan; confrontation hardens and historians disagree on blame." loading="lazy">
+  <figcaption>The wartime alliance broke down and hardened into the Cold War.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--07-containment-cases.webp" width="900" height="1190" alt="Containment is shown as a ring around communism, then three named case studies (Korea to 1953, Cuba including the 1962 missile crisis, Vietnam), each with a question mark: assess separately." loading="lazy">
+  <figcaption>Containment is judged separately in each of three case studies.</figcaption>
+</figure>
+
 
 ## Worked example
 

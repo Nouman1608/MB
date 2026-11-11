@@ -66,6 +66,12 @@ The brief does not describe how the oral runs, how long it lasts or how it is ma
 will share the format, timings and assessment criteria. The excerpt can come from either work, so
 you need to know **both** well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--06-hl-lit-oral-stimulus.webp" width="900" height="1010" alt="Two cards contrast the SL oral stimulus, a visual image, with the HL stimulus, an excerpt from one of two literary works. A ring marks the individual oral as 25 percent, worth 30 marks. A panel notes the two works were originally written in the target language." loading="lazy">
+  <figcaption>At HL the oral starts from an excerpt of one of your two literary works.</figcaption>
+</figure>
+
+
 ## Reading a whole work in a second language
 
 A literary work is longer and denser than most texts you meet in class. Read it in passes.
@@ -89,6 +95,12 @@ Add two support pages: a **character map** (names, relationships, how each perso
 Build vocabulary by function: feelings, places, conflict, and verbs of speaking (*whispers*,
 *insists*, *admits*).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--01-hl-lit-reading-passes.webp" width="900" height="1100" alt="Three numbered cards show reading a literary work in three passes: for the story, for detail with a dictionary, and for 10 to 12 key passages. Below are icons for a reading log, a character map and a timeline." loading="lazy">
+  <figcaption>Read each work three times, each time with a different job, and keep a log, a character map and a timeline.</figcaption>
+</figure>
+
+
 ## Tools for analysing a literary text
 
 These are standard features of literary texts. Each gives you something to say beyond "what
@@ -107,6 +119,17 @@ happens".
 
 Always use the pattern **feature, quotation, effect**. Naming a simile scores nothing on its own;
 explaining what the simile makes the reader understand does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--03-hl-lit-feature-quote-effect.webp" width="900" height="1010" alt="A chain of three boxes shows a feature (simile), a short quotation, and its effect. A warning says naming the feature alone earns nothing. Eight tiles list the features to look for, each with one question." loading="lazy">
+  <figcaption>Name a feature, quote a few words, then explain what the reader understands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--04-hl-lit-worked-extract.webp" width="900" height="1000" alt="A page of text with four highlighted passages, labelled A to D, each linked to a card. Each card names a feature, gives a short quotation and states its effect: figurative language, dialogue, setting and simile." loading="lazy">
+  <figcaption>Each feature is paired with a short quotation and its effect.</figcaption>
+</figure>
+
 
 ## Discussing an extract: a five-step method
 
@@ -165,6 +188,12 @@ the household rule shows how a small community sets its own conventions.
 
 Notice that only two short sentences of the answer are summary. The rest is analysis and linking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--02-hl-lit-extract-method.webp" width="900" height="960" alt="Five numbered cards in order: Locate, Summarise, Analyse, Connect, Link. The Summarise card is gold and marked to keep short. The last three cards are teal because they are where you show understanding." loading="lazy">
+  <figcaption>Use the five steps in order, and keep the summary to one or two sentences.</figcaption>
+</figure>
+
+
 ## Linking literature to the three themes
 
 The brief gives each theme a guiding principle, optional recommended topics and possible questions.
@@ -215,6 +244,12 @@ A work can link to more than one theme, including Experiences and Human ingenuit
 
 Fill it in as you read, not in the final week. When you meet an unseen excerpt, the map tells you
 which link to make.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--05-hl-lit-theme-lenses.webp" width="900" height="1010" alt="A box labelled Your literary work links to three theme cards. Each card gives one possible question from the brief and what to look for in the work. A note says a work can link to more than one theme." loading="lazy">
+  <figcaption>Use a theme’s possible question as a lens, and look for the signs it names.</figcaption>
+</figure>
+
 
 ## Range and complexity when you talk about literature
 

@@ -57,12 +57,24 @@ The syllabus says everything listed after "including" must be studied, so learn 
 4. The block is added and **copies are updated on every node**.
 5. Altering an old block changes its hash, so the next block no longer matches: tampering shows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--09-ne-blockchain.webp" width="900" height="920" alt="A chain of blocks in which each block stores the hash of the previous block. If an old record is changed, its hash changes, the next block no longer matches, and the chain breaks, so tampering is easy to detect. Copies of the chain are held on many computers, and new blocks are added only when the network agrees." loading="lazy">
+  <figcaption>Changing an old record changes its hash and breaks the chain.</figcaption>
+</figure>
+
+
 ### 3D printing in steps
 
 1. Create or scan a **CAD model**.
 2. Software **slices** it into thin horizontal layers.
 3. The printer **deposits or hardens material** one layer at a time.
 4. The object may need finishing (supports removed, smoothing).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--10-ne-3d-printing.webp" width="900" height="810" alt="A digital CAD model is turned into a physical object by a printer that adds it layer by layer. Compared with cutting the same shape from a block, which leaves waste, printing adds material only where needed." loading="lazy">
+  <figcaption>3D printing is additive: layers are built from a digital model, with less waste than cutting from a block.</figcaption>
+</figure>
+
 
 ### Autonomous transport in steps
 
@@ -71,6 +83,17 @@ The syllabus says everything listed after "including" must be studied, so learn 
 3. The system **decides** on speed and direction.
 4. **Actuators** steer, brake and accelerate.
 5. The loop repeats continuously, many times a second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--07-ne-fourteen-types.webp" width="900" height="1271" alt="The fourteen technologies in the syllabus listed in six groups: think (AI, computer-assisted translation), see (AR, VR, holographic imaging, vision enhancement), sense, act (robotics, IoT, wearables, autonomous transport), make (3D printing), store (holographic and 4th generation optical storage, molecular storage) and trust (blockchain)." loading="lazy">
+  <figcaption>All fourteen listed types, grouped to help you remember them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--08-ne-ar-vs-vr.webp" width="900" height="840" alt="Augmented reality shows the real view on a phone with computer-generated items added, such as a sofa in a furniture preview. Virtual reality replaces the real world with a fully computer-generated 3D environment seen through a headset that tracks head movement, such as in flight training." loading="lazy">
+  <figcaption>AR adds to the real view; VR replaces it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -100,6 +123,12 @@ The syllabus says everything listed after "including" must be studied, so learn 
 - **Artificial blood vessels**: bioprinted or engineered vessels being developed for grafts.
 - **Medical tools and equipment**: CAD and 3D printing for prototypes and custom guides; VR and AR training.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--12-ne-medicine.webp" width="900" height="840" alt="Five areas of medicine and healthcare, each linked to the technologies the lesson names: patient care and monitoring (wearables, IoT sensors, AI), prosthetics (3D printing, robotics), tissue engineering (3D bioprinting), artificial blood vessels (bioprinting and tissue engineering), and design of medical tools and equipment (CAD with 3D printing, VR and AR)." loading="lazy">
+  <figcaption>Match each healthcare area to the technology the lesson names for it.</figcaption>
+</figure>
+
+
 ### The environment: learn all five named areas
 
 - **E-waste**: short-lived wearables and IoT devices add hazardous waste.
@@ -107,6 +136,12 @@ The syllabus says everything listed after "including" must be studied, so learn 
 - **Power consumption**: AI data centres and some blockchains use a lot; smart IoT controls can save energy.
 - **Manufacturing processes**: additive printing wastes less; local production cuts transport.
 - **Energy from wireless signals**: low-power sensors harvest energy from radio signals such as Wi-Fi, reducing battery use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--11-ne-iot-energy.webp" width="900" height="890" alt="Heating savings of 2,400 kWh a year minus 525.6 kWh used by 120 always-on IoT sensors leaves a net saving of 1,874.4 kWh, so the environmental saving is less than it first looks." loading="lazy">
+  <figcaption>Net energy saved = 2,400 − 525.6 = 1,874.4 kWh a year.</figcaption>
+</figure>
+
 
 ## Method: answering Discuss and Evaluate questions
 

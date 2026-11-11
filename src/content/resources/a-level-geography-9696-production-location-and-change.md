@@ -74,6 +74,12 @@ The syllabus names four of these for special attention.
 
 **Agricultural technology** includes mechanisation, high-yielding varieties (HYVs), fertilisers, pesticides, GM crops and GPS-guided precision farming. It raises output but needs capital, so it can widen the gap between large and small farms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--08-pl-von-thunen.webp" width="900" height="1180" alt="Concentric rings around a market town: market gardening and dairying close in, grain and ranching further out. A graph of locational rent against distance with illustrative lines shows the steeper intensive line overtaken by the shallower extensive line at about 6.7 units, and zero rent at about 13.3 units." loading="lazy">
+  <figcaption>Locational rent explains why land uses with high rent near the market give way to extensive uses further out.</figcaption>
+</figure>
+
+
 ## 11.1 Agricultural systems: one arable, one pastoral
 
 A **system** has **inputs** (physical: sun, rain, soil; human: labour, seed, fertiliser, capital), **throughputs** (sowing, harvesting, milking), **subsystems** (linked parts, such as a crop subsystem feeding a livestock subsystem) and **outputs** (crops, livestock products, waste, income). 
@@ -81,6 +87,12 @@ A **system** has **inputs** (physical: sun, rain, soil; human: labour, seed, fer
 **Arable example: wheat farming on the Canadian Prairies.** Inputs: deep, fertile chernozem soils, a short but warm growing season, large farms, heavy machinery and fertiliser. Throughputs: mechanised sowing in spring, spraying, combine harvesting in late summer. A storage and marketing subsystem moves grain to elevators and by rail to ports such as Vancouver and Thunder Bay. Outputs: wheat and canola, straw, income. This is a commercial, **extensive** system.
 
 **Pastoral example: dairy farming in New Zealand's Waikato region.** Inputs: mild, wet climate, grass that grows for most of the year, cows, fertiliser, labour, milking sheds. Throughputs: rotational grazing, milking, herd breeding. A grass subsystem feeds the herd subsystem. Outputs: milk sent to processors such as Fonterra (a farmer-owned co-operative), calves, manure and nitrate run-off. This is a commercial, **intensive** pastoral system.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--09-pl-farm-systems.webp" width="900" height="870" alt="Two rows of linked boxes. Prairie wheat: inputs, throughputs and outputs with a storage and marketing subsystem. Waikato dairy: the same structure with a grass subsystem feeding the herd." loading="lazy">
+  <figcaption>A farm system has inputs, throughputs, subsystems and outputs.</figcaption>
+</figure>
+
 
 ## 11.1 Intensive and extensive production and productivity
 
@@ -92,6 +104,12 @@ A **system** has **inputs** (physical: sun, rain, soil; human: labour, seed, fer
 - **per worker** (labour productivity), where mechanised extensive farms often score highest.
 
 A smallholder rice farm can have high yield per hectare but low output per worker. A Prairie wheat farm is the reverse. Always say which measure you mean.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--10-pl-productivity.webp" width="900" height="930" alt="Two illustrative farms: a 1-hectare smallholder rice farm with 4 workers producing 5 tonnes and an 800-hectare Prairie wheat farm with 2 workers producing 2,400 tonnes. The smallholder has higher output per hectare, 5.0 against 3.0 tonnes, but far lower output per worker, 1.25 against 1,200 tonnes." loading="lazy">
+  <figcaption>Always say whether productivity is per hectare or per worker.</figcaption>
+</figure>
+
 
 ## 11.1 Issues in intensification and extension of cultivation
 
@@ -140,6 +158,17 @@ Responses at this scale include a 2009 Punjab law that delays rice transplanting
 
 Alfred Weber's least-cost theory (1909) explains location by minimising transport and labour costs. *Evaluation:* it suits past heavy industry better than footloose high-tech or service firms, which weigh skills and incentives more. "Related service industry" means services linked to manufacturing, such as logistics and maintenance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--11-pl-india-timeline.webp" width="900" height="1126" alt="A vertical timeline in two lanes. National: mid-1960s food shortages and MSP; 2015 Soil Health Card; 2019 PM-KISAN; September 2020 farm laws; 19 November 2021 repeal. Farm scale in Punjab: late 1960s Green Revolution, 2009 delayed rice planting, 2022 MSP offer for maize and bajra." loading="lazy">
+  <figcaption>The India case study needs both the farm scale and the national scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--12-pl-punjab-problems.webp" width="900" height="1020" alt="A rice-wheat rotation leads to a falling water table, stubble burning and debt. Responses are a 2009 law delaying rice planting, the Happy Seeder that sows through stubble, and a 2022 MSP offer for maize and bajra." loading="lazy">
+  <figcaption>Local fixes can address one problem while the system stays under pressure.</figcaption>
+</figure>
+
+
 ## 11.3 Agglomeration, linkages, estates and EPZs
 
 **Industrial agglomeration** is the clustering of firms in one area. Firms gain **external economies**: a skilled labour pool, shared suppliers, specialist services and shared infrastructure.
@@ -155,6 +184,12 @@ Alfred Weber's least-cost theory (1909) explains location by minimising transpor
 An **industrial estate** is a planned area with serviced plots, roads, power and water, built for several firms. It cuts start-up costs and separates industry from housing.
 
 An **export processing zone (EPZ)** is a fenced area where firms import materials duty-free, process them and export the product, often with tax holidays. *Example:* the Chittagong EPZ in Bangladesh opened in 1983 and is run by the Bangladesh Export Processing Zones Authority (BEPZA). New factories have been offered a five-year tax holiday, and ordinary trade unions have been banned inside the zones. *Evaluation:* EPZs bring jobs, foreign investment and export earnings, but linkages to local firms can be weak, profits may leave the country and labour rights are often restricted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--13-pl-agglomeration-linkages.webp" width="900" height="900" alt="A cluster of firms in a dashed box. A central firm has a backward linkage from a supplier, a forward linkage to a customer, a horizontal linkage between two parts firms and a service linkage from transport, finance and repair firms. Clustering brings a skilled labour pool, shared suppliers, services and infrastructure." loading="lazy">
+  <figcaption>Functional linkages connect firms in an industrial cluster.</figcaption>
+</figure>
+
 
 ## 11.3 The informal sector
 
@@ -186,6 +221,12 @@ Character changed from processing rubber and tin to electronics, cars and semico
 - *Regional imbalance:* Sabah, Sarawak and the east coast gained less than the west coast.
 
 **Worked paragraph (How far):** "Malaysia's industrial policy changed the location of manufacturing more than its ownership. Free trade zones concentrated electronics in Penang and the Klang Valley, while the east coast gained little. Yet much output is controlled by foreign TNCs, and even state-backed Proton passed into part-Chinese ownership in 2017. Policy created industrial regions but only partly created Malaysian-owned industry."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--14-pl-malaysia-industrial-policy.webp" width="900" height="1214" alt="A timeline in four phases from import substitution to master plans and the knowledge industry, with key dates from 1971 to 2017. A bar chart shows Proton’s market share falling from 74 per cent in 1993 to 32 per cent in 2006." loading="lazy">
+  <figcaption>Malaysia’s policy shifted from protecting home industry to attracting exports, heavy industry and knowledge industry.</figcaption>
+</figure>
+
 
 ## Common errors
 

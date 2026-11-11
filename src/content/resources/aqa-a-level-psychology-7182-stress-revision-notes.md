@@ -64,6 +64,22 @@ When you are ready, try the [Stress practice questions](/resources/aqa-a-level-p
 | Biofeedback | Learning to control a body response by receiving real-time information about it |
 | Instrumental / emotional / esteem support | Practical help / care and listening / boosting belief in your own ability |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-stress--07-st-sam-hpa.webp" width="900" height="920" alt="Two flow charts from the hypothalamus. SAM, fast: sympathetic nerves, adrenal medulla, adrenaline and noradrenaline, fight or flight. HPA, slower: CRH, anterior pituitary, ACTH in the blood, adrenal cortex, cortisol." loading="lazy">
+  <figcaption>The SAM pathway is the fast response and the HPA system the slower response to an ongoing stressor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-stress--08-st-cortisol.webp" width="900" height="880" alt="The HPA chain with a dashed negative-feedback loop from the adrenal cortex back to the hypothalamus. Cortisol raises blood glucose, lowers sensitivity to pain and suppresses the immune system." loading="lazy">
+  <figcaption>Cortisol keeps energy available but suppresses immunity, and high cortisol switches the HPA response off by feedback.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-stress--09-st-gas.webp" width="900" height="810" alt="Three columns with arrows: alarm reaction, resistance and exhaustion, with a time arrow beneath. Prolonged stress leads to exhaustion and illness becomes more likely." loading="lazy">
+  <figcaption>Selye proposed three stages of response to a stressor: alarm, resistance and exhaustion.</figcaption>
+</figure>
+
+
 ## Studies at a glance
 
 | Study | What they did | Finding | One evaluation point |
@@ -87,6 +103,27 @@ When you are ready, try the [Stress practice questions](/resources/aqa-a-level-p
 | Taylor et al. (2000) | Proposed tend-and-befriend | Women seek social contact and protect offspring under stress, possibly linked to oxytocin | Evolutionary claims are hard to test |
 | Tamres et al. (2002) | Meta-analysis of coping studies | Women more likely to use most strategies, not only emotion-focused ones; some differences depended on the stressor | Challenges simple "men problem-focused" claim |
 | Cohen et al. (2015) | Adults reported support and hugs, then were exposed to a cold virus | Support and hugs linked to protection and milder symptoms | Correlational on support |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-stress--10-st-immune.webp" width="900" height="920" alt="A chain from long-lasting stress to high cortisol to lower NK cell activity to more illness, beside a drawing of an NK cell, with three evidence cards: exams, dementia carers and cold-virus volunteers." loading="lazy">
+  <figcaption>Cortisol lowers NK cell activity, and three studies link stress to weaker immune function.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-stress--11-st-srrs.webp" width="900" height="960" alt="Bars show death of a spouse scoring 100 and marriage 50 on the SRRS of 43 events. An illustrative sum gives 150 units. A number line marks the weak correlation of about +0.12 between life change scores and illness in US Navy sailors." loading="lazy">
+  <figcaption>The SRRS adds life change units for events experienced; Rahe et al. (1970) found only a weak link with illness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-stress--12-st-hassles.webp" width="900" height="1000" alt="A chain: a life change such as bereavement creates many new hassles, which lead to psychological symptoms. Hassles predicted symptoms better than major life events in Kanner et al. (1981). Uplifts may offset hassles." loading="lazy">
+  <figcaption>The amplification hypothesis says a life change creates new hassles and the hassles do the damage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-stress--13-st-workplace.webp" width="900" height="940" alt="Sawmill finishers with little control had higher stress hormones, illness and absence than cleaners with more control. In Whitehall II, low job control made the largest contribution to heart disease while workload was not related to it." loading="lazy">
+  <figcaption>Job control, not workload alone, was linked to heart disease in Whitehall II.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

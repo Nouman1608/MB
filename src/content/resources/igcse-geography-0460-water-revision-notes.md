@@ -66,6 +66,22 @@ They cover Topic 3.6 Water from the Cambridge IGCSE Geography (0460) syllabus fo
 | Borehole | Drilled deep; pumped | More reliable, cleaner water; good for rural villages | Pumps need fuel or repair; over-abstraction lowers water table |
 | Desalination | Seawater through membranes or boiled | Does not depend on rain | High energy cost; brine waste; coastal only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--14-dam-and-reservoir.webp" width="900" height="790" alt="A dam holds back a river to form a reservoir that stores wet-season rain, supplies towns and farms and can produce hydroelectric power. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>How a dam and reservoir store and supply water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--15-well-and-borehole.webp" width="900" height="970" alt="A shallow dug well dries up when the water table falls, while a deeper drilled borehole reaches the aquifer. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Wells are shallow and boreholes deep, so boreholes are more reliable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--16-desalination.webp" width="900" height="790" alt="Seawater becomes fresh water by reverse osmosis through membranes or by distillation, leaving salty brine. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Two desalination methods and their outputs.</figcaption>
+</figure>
+
+
 ## Use by level of development
 
 | | Agriculture | Industry | Domestic |
@@ -77,6 +93,12 @@ They cover Topic 3.6 Water from the Cambridge IGCSE Geography (0460) syllabus fo
 World figure (FAO AQUASTAT): about 69% agriculture, 19% industry, 12% municipal.
 
 Remember that a pie chart or table shows proportions. A person in a high-income country still uses far more water at home than a person in a low-income country, even if the domestic share looks small. Always quote the figures given in the resource.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--17-water-use-by-sector.webp" width="900" height="1025" alt="A ring chart of global water use (69%, 19%, 12%) and three illustrative bars for low, middle and high income countries. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Global water use by sector and how the pattern changes with development.</figcaption>
+</figure>
+
 
 ## Why shortages happen
 
@@ -91,11 +113,23 @@ Remember that a pie chart or table shows proportions. A person in a high-income 
 
 Much of sub-Saharan Africa faces economic scarcity. Arid regions such as North Africa and West Asia face physical scarcity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--18-water-scarcity-types.webp" width="900" height="810" alt="Physical scarcity means too little water; economic scarcity means water exists but is not supplied for lack of investment. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Physical and economic water scarcity compared.</figcaption>
+</figure>
+
+
 ## Impacts of lack of clean water
 
 **On local people:** water-borne diseases such as cholera and diarrhoea, worst among young children; hours spent walking to collect water, often by women and girls; missed school; poor hygiene.
 
 **On economic development:** sick workers are less productive; families spend money on medical care; time carrying water is lost from farming, trade and study; farms cannot irrigate; factories and tourism avoid places without a reliable supply. This creates a cycle in which poverty prevents investment in water, and poor water keeps people poor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--19-unsafe-water-cycle.webp" width="900" height="1035" alt="A five-step cycle from no clean water to illness, less school and work, low income and no money for supply, with three WHO figures. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Lack of clean water and poverty reinforce each other.</figcaption>
+</figure>
+
 
 ## Management strategies at a glance
 
@@ -110,6 +144,12 @@ Much of sub-Saharan Africa faces economic scarcity. Arid regions such as North A
 
 Name a method every time. "Use water wisely" earns nothing on its own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--20-water-management-tank.webp" width="900" height="920" alt="A tank picture links supply, demand, losses and pollution to the main management strategies. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Management balances supply and demand, cuts losses and protects quality.</figcaption>
+</figure>
+
+
 ## Case studies at a glance
 
 | Place | What | Key facts | One evaluation point |
@@ -118,6 +158,12 @@ Name a method every time. "Use water wisely" earns nothing on its own.
 | Lesotho Highlands Water Project | Dams and transfer to South Africa's Vaal River system | Katse Dam 185 m high, deliveries from 1998; royalties and hydropower for Lesotho | Income for Lesotho, but people lost land and livelihoods; corruption cases |
 
 Global facts (WHO): in 2022, 2.2 billion people lacked safely managed drinking water; 115 million used untreated surface water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--21-singapore-four-taps.webp" width="900" height="990" alt="Four sources feed Singapore: local catchment, imports from Malaysia, NEWater and desalination, with demand and loss figures. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Singapore uses four national taps to secure its water.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

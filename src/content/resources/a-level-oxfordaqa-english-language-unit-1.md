@@ -78,6 +78,12 @@ OxfordAQA International AS and A-level English Language (9670)
 specification, Version 5.2 —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-english-language-specification.pdf).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--21-u1-assessment.webp" width="900" height="920" alt="A clock shows a 2-hour written exam worth 50 marks. Two section cards: Section A Understanding Texts, a compulsory analysis of two texts linked by a common theme but differing in context; Section B Directed Writing, writing for a specified audience, purpose and context, from a choice of two tasks. Two bars show weighting: Unit 1 is 50% of the International AS (with Unit 2 the other 50%) and 20% of the full A-level, the same as Unit 2." loading="lazy">
+  <figcaption>One 2-hour, 50-mark paper: Section A understanding texts, Section B directed writing.</figcaption>
+</figure>
+
+
 ## Language and context
 
 The central claim of this unit is that language is never neutral: every text is shaped by, and helps shape, the situation in which it is produced. Analysis therefore always begins with context.
@@ -89,6 +95,17 @@ Three variables organise most analysis:
 - **Field** — the subject matter and the specialist lexis it brings.
 - **Tenor** — the relationship between participants, which governs formality, politeness and directness.
 - **Mode** — spoken, written, or one of the hybrid digital forms that borrow from both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--15-u1-context.webp" width="900" height="870" alt="A left-to-right flow of three cards. Context of production: who wrote it, when, why, for whom, under what constraints. The text, drawn as a page. Context of reception: who reads it, in what circumstances, with what expectations and prior knowledge. Below, a private letter and a published memoir show that the same words function differently in different settings." loading="lazy">
+  <figcaption>Analysis begins with context: how and why the text was produced, and how and by whom it is received.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--16-u1-field-tenor-mode.webp" width="900" height="940" alt="Three bands. Field: the subject matter and the specialist lexis it brings, shown as a book and word shapes. Tenor: the relationship between participants, governing formality, politeness and directness, shown as two people and a formal to informal slider. Mode: spoken, written, or hybrid digital forms that borrow from both, shown as a speech bubble, a phone and a page." loading="lazy">
+  <figcaption>Field is what the text is about, tenor is who is talking to whom, and mode is the channel.</figcaption>
+</figure>
+
 
 ## The language levels
 
@@ -105,6 +122,12 @@ Analysis must be conducted through frameworks, with accurate terminology:
 
 **Modality** repays particular attention: modal verbs (must, might, should) encode certainty and obligation, and are one of the clearest markers of a writer's stance and power position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--17-u1-language-levels.webp" width="900" height="1170" alt="Six tiles, one for each language level, with an icon: lexis and semantics (word choice, connotation), grammar and syntax (word classes, sentences, modality), phonology (sound patterning, accent), graphology (layout, typography, images), pragmatics (implicature, politeness, deixis) and discourse (structure, cohesion, turn-taking). A strip below highlights modality: modal verbs such as must, might and should mark certainty and obligation, and signal stance and power." loading="lazy">
+  <figcaption>Apply all six levels with accurate terminology, and watch modality as a marker of stance and power.</figcaption>
+</figure>
+
+
 ## Spoken language
 
 Transcripts require their own toolkit: **adjacency pairs**, turn-taking, interruption and overlap, fillers and hesitation, false starts, repair, discourse markers, back-channelling, and non-fluency features.
@@ -113,11 +136,23 @@ Crucially, non-fluency is normal in speech and should not be treated as error. A
 
 **Power in interaction** is visible in who controls the topic, who interrupts, who asks and who answers, and who uses imperatives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--19-u1-spoken-features.webp" width="900" height="1010" alt="Five rows of speech bubbles for two speakers (gold and teal) show spoken-language features. Adjacency pair: a bubble from one speaker answered by a bubble from the other. Overlap and interruption: two bubbles that overlap. Fillers and hesitation: a bubble with a pause shown as dots. False start and repair: a broken-off stretch followed by a corrected one. Back-channelling: a very small bubble from the listener during a long turn. A banner says non-fluency is normal, not error." loading="lazy">
+  <figcaption>Use the transcript toolkit and analyse what non-fluency does; do not treat it as error.</figcaption>
+</figure>
+
+
 ## Representation and attitudes
 
 **Representation** is how language constructs a version of people, groups or events. Interrogate naming choices, modifiers, and whether agency is expressed or obscured — a passive construction can delete the actor entirely.
 
 Attitudes to language variation are examinable in themselves: **prescriptivism** treats change and non-standard forms as decline; **descriptivism** records variation without judgement. Standard English carries **overt prestige**; non-standard varieties can carry **covert prestige** within a group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--20-u1-attitudes-prestige.webp" width="900" height="960" alt="Four cards in two rows. Attitudes: prescriptivism treats change and non-standard forms as decline, shown as a downward arrow; descriptivism records variation without judgement, shown as a notebook and magnifier. Prestige: overt prestige belongs to Standard English, shown as a crown; covert prestige is carried by non-standard varieties within a group, shown as a hidden star inside a group circle." loading="lazy">
+  <figcaption>Prescriptivism is one attitude among others; prestige can be overt (Standard English) or covert (within a group).</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -136,6 +171,12 @@ Parallel structure balanced clauses give a formal, rehearsed quality --
 Effect: accountability is acknowledged in form while being grammatically
 avoided in substance -- characteristic of institutional apology.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--18-u1-agency-example.webp" width="900" height="910" alt="The sentence &quot;Mistakes were made, and lessons have been learned.&quot; is split into word tiles. The nouns mistakes and lessons are shaded as nominalisations, turning actions into things. The verb groups were made and have been learned are shaded as passives with no agent. Dashed &quot;by ?&quot; tiles show where the missing actor would go. A banner states the effect: accountability is acknowledged in form but avoided in substance." loading="lazy">
+  <figcaption>Two passives and two nominalisations delete the actor: accountability appears in form but is avoided in substance.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

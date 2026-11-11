@@ -62,6 +62,17 @@ A missing entry in a two-way table is found by subtraction from a total. Check i
 
 The share of Year 11 who walk is 25 ÷ 36 × 100 = 69.4% (1 d.p.). The base is the Year 11 row, not the 60 pupils.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--14-charts-tally.webp" width="900" height="836" alt="The 40 raw drink letters are tallied into a frequency table: tea 14, coffee 11, juice 9, water 6, total 40." loading="lazy">
+  <figcaption>Tally in groups of five, then check the total matches the number of observations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--15-charts-twoway.webp" width="900" height="698" alt="A boys and girls by sport table with the worked-out cells numbered in order; the girls row is outlined as the base for 30 out of 70 = 42.9%." loading="lazy">
+  <figcaption>Fill a two-way table using row and column totals, and choose the correct base for percentages.</figcaption>
+</figure>
+
+
 ## 2.2 Pictograms
 
 - Give a key. Draw all symbols at the same size and spacing.
@@ -69,6 +80,12 @@ The share of Year 11 who walk is 25 ÷ 36 × 100 = 69.4% (1 d.p.). The base is t
 - Choose a key that fits the data.
 
 Example: books borrowed 14, 18, 6, 10 with a key of 1 symbol = 4 books give 3½, 4½, 1½ and 2½ symbols. To read the chart, multiply: 4½ symbols represent 18 books.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--16-charts-pictogram.webp" width="900" height="710" alt="Bicycle repairs on five days drawn with symbols, key one symbol = 8 bicycles, half symbols for 4." loading="lazy">
+  <figcaption>Divide each value by the key to find the number of symbols.</figcaption>
+</figure>
+
 
 ## 2.2 Pie charts
 
@@ -79,6 +96,17 @@ Example: books borrowed 14, 18, 6, 10 with a key of 1 symbol = 4 books give 3½,
 5. Draw, label each sector and give the title.
 
 Worked reminder: 60 pupils choose a trip: museum 22, zoo 18, park 12, beach 8. One pupil is 360° ÷ 60 = 6°, so the angles are 132°, 108°, 72° and 48°. The sum is 360°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--17-charts-pie.webp" width="900" height="810" alt="Pie chart with angles 120, 96, 72, 48 and 24 degrees for 45 pupils at 8 degrees each." loading="lazy">
+  <figcaption>Angle = frequency over total times 360; angles must add to 360.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--18-charts-comp-pie.webp" width="900" height="875" alt="Two pies for 400 and 900 tonnes with radii 2 cm and 3 cm and their sector angles." loading="lazy">
+  <figcaption>Radius is proportional to the square root of the total so that area follows the total.</figcaption>
+</figure>
+
 
 ## 2.2 Comparative pie charts
 
@@ -104,6 +132,12 @@ Worked reminder: weekly sales of two drinks, scale 1 cm = 5 units.
 | Cold drinks | 10 | 25 | 40 |
 
 Heights in cm: hot drinks 7, 4, 3; cold drinks 2, 5, 8. Each day gets one pair of bars with the same width, and a key says which shade is which.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--19-charts-dual-bar.webp" width="900" height="820" alt="Paired bars for Term 1 and Term 2 absences on each weekday, with totals 76 and 64." loading="lazy">
+  <figcaption>A dual bar chart puts two bars side by side for each category.</figcaption>
+</figure>
+
 
 ## 2.2 Sectional and percentage bar charts
 
@@ -132,6 +166,12 @@ Before you hand in a drawn chart, run through these points.
 If a chart is already drawn and you must read it, work backwards. Divide the angle by 360 and multiply by the total. Multiply symbols by the key. Read the bar height against the scale. For a stacked bar, subtract the lower boundary from the upper one to find a part.
 
 Worked reminder: reading a stacked bar. In a sectional bar chart with 1 cm = 10 units, the bottom part ends at 4 cm and the next part ends at 6.5 cm. The bottom part is 4 × 10 = 40 units. The second part is (6.5 − 4) × 10 = 25 units. The whole bar so far is 65 units. A common slip is to read 6.5 cm as the second part on its own.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts--20-charts-stacked.webp" width="900" height="1170" alt="Theatre tickets as a sectional chart (totals 100, 150, 100) and a percentage chart where every bar is 100%." loading="lazy">
+  <figcaption>Sectional bars show totals; percentage bars compare proportions.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

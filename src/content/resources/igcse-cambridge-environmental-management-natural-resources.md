@@ -100,6 +100,17 @@ A **natural resource** is any material or energy source from the environment tha
 - **Non-renewable (finite)** resources exist in a fixed stock and are used up faster than they form. The syllabus classifies fossil fuels (coal, petroleum and natural gas) and **nuclear power using uranium** as non-renewable energy resources; rocks, ores and minerals are also finite.
 - **Sustainable** is not a synonym for renewable. A renewable resource can be used unsustainably: a forest is renewable, but if felling outpaces regrowth the stock still collapses. **Sustainable use** means meeting present needs without preventing future generations from meeting theirs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--01-nr-renewable-or-not.webp" width="900" height="940" alt="Two water tanks compare a renewable stock that refills at about the rate it is used with a non-renewable stock that has only a slow drip in and a larger outflow. Lists beside each tank name the renewable (biofuels, geothermal, hydro-electric, tidal, wave, solar, wind) and non-renewable (coal, oil, natural gas, mineral ores) resources from the lesson." loading="lazy">
+  <figcaption>Renewable resources refill within a human timescale; non-renewable ones are a fixed stock used faster than they form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--02-nr-forest-sustainable.webp" width="900" height="910" alt="A graph with illustrative numbers. Forest stock stays at 100 when felling equals regrowth, but falls to zero after 34 years when felling exceeds regrowth by three units a year. The forest example shows that a renewable resource can be used unsustainably." loading="lazy">
+  <figcaption>A forest is renewable, but if felling outpaces regrowth the stock still collapses.</figcaption>
+</figure>
+
+
 ## Fossil fuels
 
 Coal, oil and gas formed from organic matter buried under heat and pressure over millions of years. They have high energy density, established infrastructure and reliable output, which is why they remain dominant.
@@ -121,6 +132,12 @@ Their costs are the reason the topic exists: carbon dioxide driving the enhanced
 **Nuclear power** (non-renewable) uses the heat from splitting uranium atoms to raise steam that drives turbines. It gives large, continuous output with very low carbon emissions in use, but power stations are very expensive to build and decommission, radioactive waste stays dangerous for thousands of years, and accidents such as Chernobyl (1986) and Fukushima (2011) can contaminate wide areas.
 
 All of these except solar photovoltaic panels generate electricity in the same basic way: a source of energy turns a **turbine** connected to a **generator**. Fossil fuels, biofuels, nuclear power and geothermal heat raise steam; water drives the turbines in HEP, tidal and wave schemes; wind turns the blades directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--05-nr-renewables-compared.webp" width="900" height="910" alt="Five rows, one per source, each with one strength and one limitation. Solar: no emissions in use, but intermittent and needs storage. Wind: land below stays usable, but intermittent with noise objections. Hydro-electric power: reliable with flood control, but the dam displaces people. Geothermal: continuous output, but electricity needs a tectonically active area. Biofuels: can be carbon-neutral, but compete with food for land." loading="lazy">
+  <figcaption>Each renewable source has a strength and a limitation.</figcaption>
+</figure>
+
 
 ## What affects the demand for energy? (1.4.5)
 
@@ -166,9 +183,26 @@ management strategies include reduce and reuse; recycling (accessibility, ease, 
 extraction efficiency; avoiding resource depletion; legislation and enforcement; and using alternative
 materials.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--03-nr-rock-cycle.webp" width="900" height="1160" alt="Five boxes (magma or lava, igneous, sedimentary, metamorphic rock and sediment) are joined by numbered arrows. Cooling and crystallisation form igneous rock; any rock can be weathered to sediment; sediment becomes sedimentary rock; heat and pressure make metamorphic rock; melting returns rock to magma, and sedimentary rock can melt directly." loading="lazy">
+  <figcaption>The rock cycle branches: any rock can be weathered directly, and sedimentary rock can melt directly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--04-nr-extraction-methods.webp" width="900" height="900" alt="Three ground cross-sections side by side. Surface extraction digs a terraced open pit to an ore body. Subsurface extraction uses a shaft and tunnel to a deep ore body. Biological extraction uses plants (phytomining) and microorganisms (bioleaching) on low-grade ore." loading="lazy">
+  <figcaption>Ores are extracted by surface, subsurface or biological methods.</figcaption>
+</figure>
+
+
 ## Sustainable management
 
 Practical strategies group into four ideas: **use less** through efficiency and conservation; **use again** through reuse and recycling; **substitute** with renewable alternatives; and **restore** through replanting, land rehabilitation and protected areas. Legislation, international agreements, education and appropriate pricing are the tools that make these happen at scale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--06-nr-four-strategies.webp" width="900" height="930" alt="Four cards: use less (efficiency and conservation), use again (reuse and recycling), substitute (renewable alternatives) and restore (replanting, land rehabilitation, protected areas). A banner says legislation, international agreements, education and appropriate pricing make these happen at scale." loading="lazy">
+  <figcaption>Sustainable management groups into use less, use again, substitute and restore.</figcaption>
+</figure>
+
 
 ## Worked example
 

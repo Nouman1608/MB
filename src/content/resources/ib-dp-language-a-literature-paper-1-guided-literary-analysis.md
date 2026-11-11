@@ -91,6 +91,17 @@ On the second reading, check four layers. The questions differ by form.
 Annotate for **effect**: "short sentence" is a label; "short sentence: hope ends in three words"
 starts a paragraph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--01-p1-question-to-thesis.webp" width="900" height="980" alt="Step 1 shows the guiding question split into the verb &quot;present&quot; and the aspect &quot;Mara’s decision&quot;. Step 2 then runs through three readings, literal, form and style, and argument, ending in one arguable sentence, the thesis. A dashed arrow shows the thesis must answer the question." loading="lazy">
+  <figcaption>The method for Paper 1: read the question, read three times, write one thesis that answers it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--02-p1-four-layers.webp" width="900" height="904" alt="A grid of four layers, voice, structure, language and context, against three forms, prose, poetry and drama. Each cell lists what to look for in that form, taken from the lesson’s table." loading="lazy">
+  <figcaption>On the second reading, check voice, structure, language and context, and expect the questions to differ by form.</figcaption>
+</figure>
+
+
 ## Worked example 1: prose fiction
 
 > **Original text written for Marlbridge** -- prose fiction extract
@@ -171,6 +182,12 @@ The paragraph follows **claim → evidence → effect → link**. Each quotation
 inside a sentence of analysis. A conclusion then takes two or three sentences, adds no new
 evidence, and says how the features work together to answer the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--03-p1-plan-by-idea.webp" width="900" height="994" alt="Four paragraph blocks of the Mara passage, drawn to the length of the real text, feed three plan ideas under the thesis: hesitation, the case against calling, and the choice. Each body paragraph then follows claim, evidence, effect, link." loading="lazy">
+  <figcaption>A plan groups evidence from the passage under three ideas that together prove the thesis.</figcaption>
+</figure>
+
+
 ## Worked example 2: form and style in a poem
 
 In poetry, lines, breaks, stanzas and sound all carry meaning.
@@ -216,6 +233,12 @@ A model paragraph on form:
 > something held in habits as well as objects: the speaker keeps the mother present by repeating
 > what her hands once did.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--04-p1-inventory-form.webp" width="900" height="872" alt="Twelve bars show the syllables in each line of the original poem Inventory. Eleven have ten syllables and line 7 has eight, so it stops early. A gap marks the stanza break between the mother’s past and the present." loading="lazy">
+  <figcaption>Line length and the stanza break are evidence in a poem.</figcaption>
+</figure>
+
+
 ## Step 3: manage your time
 
 The brief sets **1 hour 15 minutes at SL** and **2 hours 15 minutes at HL**. A workable split for
@@ -234,6 +257,12 @@ one analysis in 75 minutes:
 If your paper asks you to write about more than one passage in the HL time, divide the 135 minutes
 evenly: 65 minutes per analysis, with 5 minutes spare. Finish the first analysis, conclusion
 included, before you start the second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--05-p1-time-split.webp" width="900" height="972" alt="A tall bar shows the 75 minutes of one SL analysis: 15 for the question and readings, 10 for thesis and plan, 5 for introduction, 35 for body paragraphs, 5 for conclusion, 5 for checking. A second bar shows 135 HL minutes split 65, 65 and 5 spare." loading="lazy">
+  <figcaption>Plan the 75 minutes, and at HL with two passages split 135 minutes into 65, 65 and 5 spare.</figcaption>
+</figure>
+
 
 ## Common errors
 

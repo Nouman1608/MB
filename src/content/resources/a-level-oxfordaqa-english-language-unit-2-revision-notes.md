@@ -53,6 +53,17 @@ marks.
 Naming the specific function a feature demonstrates — not just
 describing what a text says — is what Section A is assessed against.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-2--02-u2-four-functions.webp" width="900" height="1040" alt="Language in use sits at the centre with four arrows to the four social functions named in the specification: group rapport and shared perspectives, assertions of power and status, expressions of identity and relationship, and creative play and performance. Power and status and identity are separate categories; a text may draw on them individually or together." loading="lazy">
+  <figcaption>Four social functions a Section A text may be doing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-2--05-u2-analysis-to-argument.webp" width="900" height="760" alt="A two-by-two grid. Section A: a weak answer describes the content of the text; a strong answer names the language features that do the social work. Section B: a weak essay restates the Section A analysis; a strong essay builds an academic argument that uses the analysis as evidence. An arrow runs from the strong Section A answer to the strong Section B essay." loading="lazy">
+  <figcaption>Strong answers name features in Section A and use them as evidence in Section B.</figcaption>
+</figure>
+
+
 ## Practise across all three modes
 
 Section A source material can be **spoken, written or multimodal**.
@@ -84,6 +95,12 @@ A weak answer would describe the transcript's topic (what job, what
 questions) without naming the specific language features doing this
 social work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-2--04-u2-interview.webp" width="900" height="910" alt="A job interview transcript. The interviewer uses closed questions and topic control. The interviewee uses politeness strategies, hedging and first-person narrative. Both keep a formal register. These features point to two social functions: power and status, and identity and relationship. The observations can then be used as evidence in a Section B essay on how language reflects or reinforces power in social interaction." loading="lazy">
+  <figcaption>A job-interview transcript analysed for power and status, and identity and relationship.</figcaption>
+</figure>
+
+
 ## Weighting tells you where to invest revision time
 
 AO1 (understanding of methods, terminology, concepts and issues) is
@@ -100,6 +117,12 @@ as evidence — it is not a transformed or creative writing task, which
 is what Unit 1's Directed Writing asks for. Treating Unit 2's Section B
 as a creative exercise, rather than an evidence-based argument, misreads
 the task entirely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-2--01-u2-assessment.webp" width="900" height="1000" alt="Unit 2, Language and Society, is a 2-hour written exam worth 50 marks. Section A is a text analysis of spoken, written or multimodal material and its data feeds Section B, an academic essay. Unit 1 and Unit 2 each count for 50% of the International AS and 20% each of the full International A-level, leaving 60% for other units. Unit 2 gives more weight to AO1 than Unit 1 does, so precise terminology matters." loading="lazy">
+  <figcaption>Unit 2 is one 2-hour, 50-mark exam in which Section A analysis feeds the Section B essay.</figcaption>
+</figure>
+
 
 ## How Unit 2 fits the wider International AS/A-level
 
@@ -123,6 +146,12 @@ categories.
 - Revising only written prose, neglecting spoken and multimodal data.
 - Confusing Unit 2's academic-essay Section B with Unit 1's
 transformed/creative Directed Writing task.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-2--03-u2-text-types.webp" width="900" height="840" alt="Three columns show the three modes Section A material can come from: spoken (for example an interview transcript), written (for example persuasive writing) and multimodal (for example a meme or an advertisement in which image and words work together). A further pill adds in-group banter and wordplay. Revision should cover all of these, not only formal written prose." loading="lazy">
+  <figcaption>Section A material can be spoken, written or multimodal.</figcaption>
+</figure>
+
 
 ## Building a genuinely mixed-mode revision folder
 

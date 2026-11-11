@@ -77,6 +77,12 @@ both questions and planning your answer before writing. Use it to:
 3. Decide poem vs prose — then commit. Switching part-way through
 wastes time neither the paper nor the candidate can afford.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-4-unseen--11-lit-p4-plan.webp" width="900" height="810" alt="A 75-minute bar split into a 20-minute planning block and a 55-minute writing block. Beneath it four steps: read the text twice, annotate it, choose one of the two questions, then write. The first three steps fall in the planning block. Annotate for language, structure, form, tone, and shifts in mood or perspective." loading="lazy">
+  <figcaption>About 20 of the 75 minutes go on reading, annotating and choosing before you start to write.</figcaption>
+</figure>
+
+
 ## Comparing the poem and prose options
 
 Both options test the same four AOs, but the raw material differs in
@@ -125,6 +131,17 @@ unstructured commentary written under increased time pressure.
 learn — for candidates on this route it carries the same 25%
 weighting as an entire studied set text on Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-4-unseen--08-lit-p4-skills.webp" width="900" height="810" alt="Two panels. On the left, Papers 1, 2 and 3 are shown as three books: they reward text-specific knowledge built up over a course of study. On the right, Paper 4 is a blank sheet with a question mark and a magnifying glass: it rewards reading and analysis skills on a poem or passage seen for the first time in the exam room, with no set text list." loading="lazy">
+  <figcaption>Papers 1 to 3 reward knowledge of set texts; Paper 4 rewards reading and analysis skills on something new.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-4-unseen--12-lit-p4-effect.webp" width="900" height="860" alt="Three lanes. Lane one, naming a technique only: a Technique box is filled but Effect and Response boxes are dashed and empty, so marks are left unclaimed. Lane two, retelling: three event boxes in a row, a summary with no analysis. Lane three, selective analysis: Technique, Its effect, My response, all filled, which is what examiners reward." loading="lazy">
+  <figcaption>Name the technique, say its effect on the reader, then give your own response; retelling the extract is not enough.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **How long is Paper 4 Unseen?**
@@ -165,9 +182,26 @@ well-supported analysis of specific techniques and their effects —
 avoided by annotating for language/structure/form/tone during
 planning and building the commentary directly from those annotations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-4-unseen--07-lit-p4-share.webp" width="900" height="860" alt="Two bars of equal length show the drama part of the qualification. The first is Paper 2 alone, 50 per cent. The second is split into Paper 3, 25 per cent, and Paper 4 Unseen, 25 per cent, which together equal the same 50 per cent. A dashed note says the third route, Paper 3 with Component 5 Coursework, has no Paper 4. Every candidate also takes Paper 1." loading="lazy">
+  <figcaption>Paper 4 only exists on the Paper 3 route, where Papers 3 and 4 together carry the same 50% as Paper 2.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Cambridge IGCSE Literature in English (0475) syllabus for exams in
 2026 — the same syllabus cited by the [Paper 4 Unseen study
 guide](/resources/igcse-english-literature-paper-4-unseen/) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-4-unseen--09-lit-p4-format.webp" width="900" height="850" alt="Three tiles state the format: 1 hour 15 minutes, 25 marks, and 25 per cent of the qualification. Below, two question cards, a poem and a prose extract, are joined by the word OR: candidates answer one question from the two. Each card carries 25 marks and both texts are printed in full on the paper. The task is a critical commentary." loading="lazy">
+  <figcaption>Choose one of two questions, a poem or a prose extract, and write a critical commentary on it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-4-unseen--10-lit-p4-aos.webp" width="900" height="790" alt="A two-by-two grid of cards, one for each assessment objective, each marked with a quarter of a pie chart showing 25 per cent. AO1: detailed reference and quotation. AO2: meanings, characters, relationships, themes. AO3: the writer’s methods, including language, structure and form. AO4: personal response, given directly or by implication." loading="lazy">
+  <figcaption>The four assessment objectives each carry a quarter of the marks, so none can be skipped.</figcaption>
+</figure>
+

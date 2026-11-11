@@ -126,6 +126,12 @@ Advanced Level. Pearson's YET01 specification is currently Issue 7,
 first taught from September 2015, and this remains the version in
 force for current examination series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--01-unit1-at-a-glance.webp" width="900" height="880" alt="Unit 1 is a 2-hour, open-book exam worth 50 marks, split into two 25-mark sections. Section A (poetry) is marked on AO1, AO2 and AO4; Section B (prose) on AO1, AO2 and AO3." loading="lazy">
+  <figcaption>The exam has two equal 25-mark sections with different assessment objectives.</figcaption>
+</figure>
+
+
 ## Section A in more depth
 
 Section A's comparative poetry essay pairs one poem named by the exam
@@ -145,6 +151,27 @@ than only in a closing paragraph, and since Section A offers a choice
 of two questions, briefly reading both before committing to one is
 worth the time it costs, since one question may suit a candidate's
 strongest poems far better than the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--03-section-a-poem-pair.webp" width="900" height="970" alt="A named poem and a poem of your own choice are compared; both come from the 21 prescribed poems. The exam is open book. Marked on AO1, AO2 and AO4, not AO3." loading="lazy">
+  <figcaption>Section A pairs one poem named by the board with one you choose from the same 21.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--04-comparison-structure.webp" width="900" height="920" alt="Poem-by-poem puts all links at the end; by point of comparison places both poems side by side in every paragraph so AO4 is visible throughout." loading="lazy">
+  <figcaption>Structure by point of comparison so connections show in every paragraph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--05-section-b-prose.webp" width="900" height="890" alt="The five prescribed novels are shown as a stack of books. Section B is marked on AO1, AO2 and AO3 and the context focus is contemporary social and cultural concerns, not historical background." loading="lazy">
+  <figcaption>One of five post-2000 novels; context means contemporary concerns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--06-prose-technique-not-theme.webp" width="900" height="880" alt="A low block (theme described, capped) and a tall block (narrative structure, voice and form analysed, leading to meaning shaped around the concern, higher marks) with an arrow from one to the other." loading="lazy">
+  <figcaption>Describing theme without analysing technique caps the mark.</figcaption>
+</figure>
+
 
 ## Section B in more depth
 
@@ -177,6 +204,12 @@ qualification, since Units 3 and 4 -- Unit 3's unseen post-1900
 poetry and thematic prose, and Unit 4's Shakespeare and pre-1900
 poetry -- do not factor into an AS-only result at all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--02-unit1-weight.webp" width="900" height="920" alt="Two bars: for AS-only Units 1 and 2 are 50% each; for the full IAL Units 1 and 2 are 25% each and Units 3 and 4 share the other 50%. Unit 1 is highlighted." loading="lazy">
+  <figcaption>Unit 1 is half of the AS but a quarter of the full A Level.</figcaption>
+</figure>
+
+
 ## Why post-2000 texts often come first
 
 Studying post-2000 poetry and prose before the older texts elsewhere
@@ -195,6 +228,12 @@ argument, comparing texts -- on more approachable contemporary
 material first can give candidates a stronger foundation before they
 tackle the additional linguistic demands of Shakespearean and other
 pre-1900 language later in the course.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--07-teaching-order.webp" width="900" height="880" alt="Four ascending steps show Units 1 to 4 under an arrow of heavier language demands, with the skills built first on Unit 1. No order is prescribed and any unit can be resat." loading="lazy">
+  <figcaption>Post-2000 first is a common choice, not a rule.</figcaption>
+</figure>
+
 
 ## Official specification
 

@@ -112,6 +112,12 @@ are taken into the exam and must be completely unmarked) for
 candidates on the examined route, or with Component 3 (non-exam
 assessment, also 40%) for candidates on the coursework route.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--02-e4-exam-room.webp" width="900" height="850" alt="Three rows for Sections A, B and C. The unseen poem is printed on the paper, the anthology poems come in a booklet, but the modern prose text is not available in the exam room. Marks and assessment objectives are shown for each section." loading="lazy">
+  <figcaption>Only the Section C prose text is unavailable, so only it needs exact quotations from memory.</figcaption>
+</figure>
+
+
 ## Section A in more depth
 
 Section A is pure AO2: since the unseen poem is printed on the paper,
@@ -123,6 +129,27 @@ word choice and sound; form such as rhyme, meter and stanza shape; and
 structure, meaning how the poem develops or shifts -- with every point
 rooted in a short, precisely selected quotation and a clear effect
 explained rather than merely named.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--01-e4-marks-time.webp" width="900" height="760" alt="Two aligned bars show Component 1's 90 marks (20, 30, 40) and the 120 recommended minutes (35, 40, 45). Ribbons show Section A is 22% of marks but 29% of time. A dashed bar shows a proportional split would be 27, 40 and 53 minutes." loading="lazy">
+  <figcaption>The paper gives Section A more time than its marks alone would suggest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--03-e4-section-a-lenses.webp" width="900" height="870" alt="A schematic poem of three stanzas. A highlighted word is linked to language (imagery, word choice, sound), a dashed box round a stanza to form (rhyme, meter, stanza shape) and a turning arrow to structure (how the poem develops or shifts). Below, a short quotation leads to an explained effect." loading="lazy">
+  <figcaption>Section A rewards analysis of language, form and structure, each rooted in a short quotation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--04-e4-section-b-compare.webp" width="900" height="830" alt="Two essay plans. Poem-by-poem blocks leave comparison to the end. The by-point plan shows each point with poem 1 and poem 2 side by side and a double arrow between them in every paragraph." loading="lazy">
+  <figcaption>Organise by point of comparison and keep comparing in every paragraph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--05-e4-section-c-track.webp" width="900" height="1030" alt="A novel timeline showing a single starred scene versus every point tracked by a rising development arrow. Two essay outlines compare context added as a final paragraph with context woven through every paragraph." loading="lazy">
+  <figcaption>Track a theme across the whole novel and weave context into the argument.</figcaption>
+</figure>
+
 
 ## Section B in more depth
 
@@ -174,6 +201,12 @@ only** -- that is the one text with no copy available in the exam
 room to check a half-remembered quotation against. For the anthology,
 revision time is better spent on comparative analysis than on
 memorising the poems verbatim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--06-e4-qualification-share.webp" width="900" height="850" alt="A bar splits the qualification 60 percent Component 1 and 40 percent a second component. Component 1 is compulsory (90 marks, 2 hours). The second component is either Component 2, a 1 hour 30 minute open-book exam worth 60 marks, or Component 3 coursework." loading="lazy">
+  <figcaption>Component 1 is compulsory and carries 60% of the qualification.</figcaption>
+</figure>
+
 
 ## Official specification
 

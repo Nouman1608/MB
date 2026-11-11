@@ -68,6 +68,12 @@ value = lower boundary + (target − CF before) / (class frequency) × (class wi
 
 For rounded data, use the true boundaries (for example 9.5 and 19.5 for the classes 10–19 and 20–29). If the target equals a cumulative frequency in the table exactly, the answer is that class's upper boundary and no interpolation is needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--08-q-interpolation.webp" width="900" height="880" alt="A close-up of the cumulative frequency line across the class 20 to 30 minutes. Going from 30 up to the target 60 is 30 of the 34 patients, so the median is 20 + 30/34 x 10, about 28.8 minutes." loading="lazy">
+  <figcaption>Interpolation assumes the observations are spread evenly across the class, so the result is an estimate.</figcaption>
+</figure>
+
+
 ## Method in steps: from a curve or polygon
 
 1. Plot points at the upper boundaries, starting from (lower boundary of the first class, 0).
@@ -77,6 +83,17 @@ For rounded data, use the true boundaries (for example 9.5 and 19.5 for the clas
 5. For a percentile rank, go the other way: up from the value, then across.
 
 A polygon uses straight segments, so readings equal the interpolation formula. A smooth curve gives a nearby reading. Both are estimates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--07-q-polygon-readings.webp" width="900" height="770" alt="A cumulative frequency polygon of 120 waiting times with target lines for n/4, n/2, 3n/4 and 0.9n. Reading across then down gives Q1 = 20, median about 28.8, Q3 about 38.7 and the 90th percentile about 55.6 minutes." loading="lazy">
+  <figcaption>Mark the target on the vertical axis, go across to the graph, then down to read the value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--09-q-percentile-rank.webp" width="900" height="880" alt="On the polygon, 50 minutes gives a cumulative frequency of 103. A strip of 120 patients splits into 103 who waited 50 minutes or less and 17 who waited longer, so 50 minutes is about the 86th percentile." loading="lazy">
+  <figcaption>To find a percentile rank, go up from the value first, then across.</figcaption>
+</figure>
+
 
 ## Small worked reminder: interpolation
 
@@ -96,6 +113,12 @@ Q3 = 40 + (37.5 − 22)/19 × 20 = 40 + 16.3 = 56.3
 | Combined σ | √( (Σx² of all sets) / (total n) − combined mean² ) |
 
 The standard deviation here is the population standard deviation σ, which divides by n. The working form is σ² = Σx²/n − mean².
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--12-q-combined-sd.webp" width="900" height="800" alt="Three bars add up n, the sum of x and the sum of x squared for groups A and B, giving 50, 2900 and 171 130. The combined mean is 58 and the standard deviation 7.66." loading="lazy">
+  <figcaption>Combine the totals, never the standard deviations.</figcaption>
+</figure>
+
 
 ## Method in steps: combining sets
 
@@ -155,6 +178,17 @@ mean = 60/8 = 7.5
 9. The mean is unchanged. The standard deviation increases, because n falls while the sum of squared deviations stays the same.
 10. Q1 target 12.5, in the class 20–40: 20 + (12.5 − 6)/16 × 20 = 28.1. Q3 target 37.5, in the class 40–60: 40 + (37.5 − 22)/19 × 20 = 56.3. Interquartile range = 56.32 − 28.13 = **28.2**.
 11. 12 × 30 + 40n = 36 × (12 + n), so 360 + 40n = 432 + 36n, so 4n = 72 and n = **18**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--10-q-boundaries.webp" width="900" height="860" alt="A histogram of 160 whole-mark scores with bars between the true boundaries 0.5 to 100.5. The lower quartile is 40.5, the median about 54.8 and the upper quartile about 71.4." loading="lazy">
+  <figcaption>For classes with gaps, use true boundaries half a unit beyond the limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets--11-q-combined-mean.webp" width="900" height="620" alt="A balance beam with group A (30 pupils, mean 54) and group B (20 pupils, mean 64). It balances at the combined mean 58, since 30 x 4 = 20 x 6. The simple average 59 is marked wrong." loading="lazy">
+  <figcaption>The larger group counts for more, so the combined mean sits nearer its mean.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

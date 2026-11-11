@@ -97,6 +97,12 @@ Memory hook: each non-key attribute depends on "the key, the whole key and nothi
 - insertion problems (a fact cannot be added without unrelated data)
 - deletion problems (deleting one fact removes another).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-databases--09-normalise-once.webp" width="900" height="880" alt="A flat service log of four rows repeats the customer name and town: Kenward of Ashgill appears in three rows (for clocks 7, 8 and 7 again) and Szabo of Ashgill in one. After normalising, a Customer table holds each customer once: 201 Kenward Ashgill and 203 Szabo Ashgill. A Clock table links each clock to its customer using the foreign key CustomerID: clock 7 and 8 belong to 201 and clock 10 to 203. Kenward’s town is now stored once, so a change to it is made in one place." loading="lazy">
+  <figcaption>Normalising stores Kenward’s town once instead of three times.</figcaption>
+</figure>
+
+
 ## SQL (3.15.1.4)
 
 | Task | Pattern |
@@ -138,6 +144,17 @@ Data types to know: INTEGER, REAL (or FLOAT), VARCHAR(n) or CHAR(n) for strings,
 4. Add the search conditions with AND.
 5. Add GROUP BY for any non-aggregated output field when using aggregates, then ORDER BY.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-databases--10-sql-join.webp" width="900" height="1018" alt="Two unpaid services are joined to their clock and restorer. For the service of 2026-03-09, its ClockID 9 matches the Clock row for the Carriage clock, and its RestorerID 33 matches the Restorer row for Olu Yewdale, giving the result row 2026-03-09, Carriage, Olu Yewdale. For the service of 2026-04-14, ClockID 7 matches the Longcase clock and RestorerID 32 matches Linnea Kettleby, giving 2026-04-14, Longcase, Linnea Kettleby. A service whose Paid field is TRUE is not selected. Each WHERE condition matches a foreign key to the primary key it references, so three tables need two join conditions." loading="lazy">
+  <figcaption>A multi-table SELECT pairs rows whose foreign and primary keys match.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-databases--11-sql-group-by.webp" width="900" height="894" alt="Six Service rows are grouped by restorer. Lucan Treave (restorer 31) has three rows of 3.0, 4.0 and 1.0 hours, giving 3 jobs and 8.0 hours. Linnea Kettleby (restorer 32) has two rows of 1.5 and 2.0 hours, giving 2 jobs and 3.5 hours. Olu Yewdale (restorer 33) has one row of 2.5 hours, giving 1 job and 2.5 hours. The result table, ordered by TotalHours descending, has one row per restorer: Lucan Treave 3 and 8.0, Linnea Kettleby 2 and 3.5, Olu Yewdale 1 and 2.5." loading="lazy">
+  <figcaption>GROUP BY gives one row per restorer with its COUNT and SUM.</figcaption>
+</figure>
+
+
 ## Client server databases (3.15.1.5)
 
 - **Concurrent access:** many clients use one server's database at the same time.
@@ -145,6 +162,12 @@ Data types to know: INTEGER, REAL (or FLOAT), VARCHAR(n) or CHAR(n) for strings,
 - **Record lock:** the record is locked while one client updates it, so others cannot update it until the lock is released. This preserves integrity.
 
 **Worked reminder.** A climbing-wall class has 40 places. Clients A and B both read 40. A books 6 and saves 34; B books 9 and saves 31. The stored value is 31, but the correct value is 40 − 6 − 9 = **25**. A's booking is lost. With a lock, B reads 34 after A finishes and saves 25.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-databases--12-lost-update-lock.webp" width="900" height="1060" alt="Two workshop terminals share a parts table where the stock of a mainspring is 14. Without a record lock: terminal A reads 14, terminal B reads 14, A uses 3 and saves 11, then B uses 5 and saves 9, overwriting A’s change. The stored value is 9 although the correct stock is 14 minus 3 minus 5, which is 6. With a record lock: terminal A reads 14 and locks the record, B has to wait, A saves 11 and releases the lock, then B reads 11, uses 5 and saves 6, so the correct stock of 6 is stored." loading="lazy">
+  <figcaption>Without a lock 9 is stored; with a lock the correct 6 is stored.</figcaption>
+</figure>
+
 
 ## Big Data (3.15.2)
 
@@ -159,6 +182,22 @@ Data types to know: INTEGER, REAL (or FLOAT), VARCHAR(n) or CHAR(n) for strings,
 - Functional programming helps through immutable data structures, statelessness and higher-order functions such as map-reduce that combine results from different servers.
 - **Fact-based model:** each fact captures a single piece of information; facts are timestamped and added, not overwritten.
 - **Graph schema:** entity = oval node; property = rectangle attached by a dashed line; relationship = solid labelled edge between nodes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-databases--08-er-diagram.webp" width="900" height="880" alt="Four entities are drawn as boxes. Customer has identifier CustomerID. Clock has identifier ClockID and a foreign key CustomerID. Restorer has identifier RestorerID. Service, the link entity, has the composite identifier ClockID and ServiceDate, with ClockID and RestorerID as foreign keys. A line from Customer to Clock ends in a crow’s foot at Clock: one customer, many clocks. A line from Clock to Service ends in a crow’s foot at Service: one clock, many services. A line from Restorer to Service ends in a crow’s foot at Service: one restorer, many services. A dashed crossed-out line directly between Restorer and Clock shows a many-to-many relationship that a relational database cannot store directly, which is why the link entity Service is used." loading="lazy">
+  <figcaption>Four entities, crow’s foot relationships, and why Service links Restorer and Clock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-databases--13-map-reduce.webp" width="900" height="830" alt="Parking-bay sensors send 1 for occupied or 0 for free. The same stateless function is mapped over each server’s readings to give partial totals per zone. Server 1 gives Harbour 1, Market 1 and North 1. Server 2 gives Harbour 2, Market 0 and North 1. A higher-order reduce function then merges the partial totals into combined totals: Harbour 3, Market 1 and North 2. Immutable data means the servers never interfere with each other’s data." loading="lazy">
+  <figcaption>Partial totals mapped on two servers are merged by a reduce into combined totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-databases--14-graph-schema.webp" width="900" height="840" alt="An oval node Driver Pryor and an oval node Bay 118 are joined by a solid edge labelled parked in. Driver Pryor has two properties drawn as rectangles joined by dashed lines: Permit Resident and Since 2024. Bay 118 has two properties: Zone North and Type Short stay. A key shows that ovals are entities, rectangles are properties joined by dashed lines, and solid labelled lines are relationships." loading="lazy">
+  <figcaption>A graph schema for a driver parked in a bay, with properties on both nodes.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -64,6 +64,12 @@ Course hub: [Cambridge A Level ICT](/boards/cambridge/a-level/ict/). Checklist: 
 | Inline script | Code between `<script>` and `</script>` in the `<head>` or `<body>` | Short code used by one page |
 | External script | `<script src="file.js"></script>`; the `.js` file has no `<script>` tags | Code shared by many pages; one edit updates all; file can be cached |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-programming-for-the-web--13-pw-script-in-page.webp" width="900" height="920" alt="An inline script between script tags changes a paragraph from &quot;Waiting...&quot; to &quot;Script ran&quot;. An external script is a .js file with no script tags, linked from several pages with the src attribute, so one edit updates every page and the browser can cache the file." loading="lazy">
+  <figcaption>Inline code sits between &lt;script&gt; tags; an external .js file is linked with src and shared by many pages.</figcaption>
+</figure>
+
+
 ## Method in steps -- change content, images and styles
 
 1. Find the element: `document.getElementById("id")`. The id is a string in quotes and must match the HTML exactly.
@@ -99,6 +105,17 @@ Course hub: [Cambridge A Level ICT](/boards/cambridge/a-level/ict/). Checklist: 
 | `onmouseover` / `onmouseout` | pointer enters / leaves the element |
 | `onkeydown` | a key is pressed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-programming-for-the-web--16-pw-events.webp" width="900" height="1085" alt="The six events in the syllabus with what fires each and an example: onload when the page has loaded; onchange when a value changes; onclick when an element is clicked; onmouseover when the pointer moves onto an element; onmouseout when it leaves; onkeydown when a key is pressed." loading="lazy">
+  <figcaption>The six events the syllabus lists, with the lesson’s example uses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-programming-for-the-web--19-pw-timers.webp" width="900" height="890" alt="setTimeout(fn, 3000) runs the function once after 3 seconds. setInterval(fn, 1000) runs it every second until clearInterval stops it; in the countdown example the clock shows 5, 4, 3, 2, 1, 0 and then the interval stops." loading="lazy">
+  <figcaption>setTimeout runs once; setInterval repeats until clearInterval.</figcaption>
+</figure>
+
+
 ## Popups -- return values
 
 | Popup | Buttons | Returns |
@@ -106,6 +123,12 @@ Course hub: [Cambridge A Level ICT](/boards/cambridge/a-level/ict/). Checklist: 
 | `alert(msg)` | OK | nothing useful |
 | `confirm(msg)` | OK, Cancel | `true` / `false` |
 | `prompt(msg, default)` | OK, Cancel | the typed **string**, `""` if empty, `null` on Cancel |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-programming-for-the-web--17-pw-popups.webp" width="900" height="740" alt="confirm() shows OK and Cancel and returns true for OK and false for Cancel. prompt() shows a text box and returns the text as a string, or null if Cancel is clicked." loading="lazy">
+  <figcaption>confirm() returns true or false; prompt() returns a string or null.</figcaption>
+</figure>
+
 
 ## Operators
 
@@ -146,6 +169,12 @@ Order of working: brackets, then `**`, then `* / %`, then `+ -`.
 
 `+` with any string joins: `"4" + "4"` → `"44"`. Other arithmetic converts: `"9" / "3"` → `3`. Text that is not a number becomes `NaN`; test with `isNaN()`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-programming-for-the-web--14-pw-ticket-calc.webp" width="900" height="915" alt="A text box value is always a string. Number() converts &quot;3&quot; to the number 3, multiplying by 4.5 gives 13.5, toFixed(2) gives the string &quot;13.50&quot; and innerHTML shows £13.50. Without Number(), &quot;3&quot; + 4.5 joins the strings to give &quot;34.5&quot;." loading="lazy">
+  <figcaption>Worked example 1: convert with Number() before calculating, or + will join strings.</figcaption>
+</figure>
+
+
 ## Method in steps -- read, calculate, display
 
 1. Give each HTML element an `id`.
@@ -174,6 +203,12 @@ Order of working: brackets, then `**`, then `* / %`, then `+ -`.
 | `do/while` | after each pass | Yes | input that must be asked for at least once |
 
 `break` leaves the loop (or a `switch`) at once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-programming-for-the-web--18-pw-loop-trace.webp" width="900" height="865" alt="Looping over [12, 15, 9, 18] adds each score to a total and tracks the highest: totals 12, 27, 36, 54 and highest 12, 15, 15, 18, so the average is 13.5. Searching for the first value over 14 with break stops at index 1 (15) without checking 9 or 18." loading="lazy">
+  <figcaption>A for loop visits indexes 0 to length − 1; break leaves the loop early.</figcaption>
+</figure>
+
 
 ## Functions -- three ways to run
 
@@ -258,6 +293,12 @@ Values read from text boxes are strings, and + joins strings rather than adding 
 
 **How do you change an element's style with JavaScript?**
 Find the element with document.getElementById("id") and set .style.property to a quoted value with units where needed, such as "18px". Hyphenated CSS names become camelCase, so font-size becomes fontSize.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-programming-for-the-web--15-pw-show-hide.webp" width="900" height="760" alt="With visibility set to hidden an element becomes invisible but its space stays in the layout. With display set to none it is removed from the layout and the content below moves up. Use visibility when the layout must not jump, and display for menus and help panels that take no space when closed." loading="lazy">
+  <figcaption>visibility hides but keeps the space; display none removes the space.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

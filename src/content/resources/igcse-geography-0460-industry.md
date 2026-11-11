@@ -66,6 +66,12 @@ Profit is often shown as a **feedback** loop. Some of the money made is reinvest
 
 The answer names both kinds of output, gives examples, and adds a developed point about by-products. That last step is analysis, not just a list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--01-industrial-system.webp" width="900" height="790" alt="Physical and human inputs go into the factory, processes change them, and products and waste come out; some profit is reinvested as a new input. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>An industrial system has inputs, processes and outputs, with profit reinvested as feedback.</figcaption>
+</figure>
+
+
 ## Types of industry
 
 The syllabus names four types. Learn one clear definition and one example of each.
@@ -81,6 +87,12 @@ The types overlap. A car plant presses steel panels (manufacturing) and fits bou
 
 **High-tech industry** is often **footloose**. Its products are light and valuable, so transport costs matter less. It can locate where skilled workers want to live. High-tech firms often cluster near universities in **science parks**. Cambridge Science Park in England is a real example. Trinity College founded it in 1970. It lies about 3 km north of Cambridge city centre, by the A14 road and close to Cambridge North railway station, and its firms have strong links with the University of Cambridge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--02-industry-types.webp" width="900" height="920" alt="Four cards define processing, manufacturing, assembly and high technology with a picture and an example each. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>The four industry types, each with a picture and an example.</figcaption>
+</figure>
+
+
 ## Location and site
 
 These two words are not the same, and the syllabus uses both.
@@ -89,6 +101,12 @@ These two words are not the same, and the syllabus uses both.
 - **Site** is the actual plot of land a factory stands on: its size, slope, drainage, cost and what is next to it.
 
 A **greenfield site** has not been built on before. A **brownfield site** has been used before, for example an old mill or railway yard. An **industrial zone** (or industrial estate) is an area planned for many firms, with shared roads, power and services.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--03-location-and-site.webp" width="900" height="860" alt="Location is the general area, the industrial zone is a planned estate, and the site is the actual plot; greenfield sites are unbuilt, brownfield sites were used before. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Location, industrial zone and site are nested, and greenfield and brownfield differ by previous use.</figcaption>
+</figure>
+
 
 ## Factors that influence location
 
@@ -103,6 +121,12 @@ A **greenfield site** has not been built on before. A **brownfield site** has be
 | **Political factors** | Governments offer grants, tax breaks, cheap land or free trade zones. They also set planning rules and trade agreements. |
 
 **Change over time.** Better transport and electricity have made raw materials and power less important for most firms. Markets, labour skills and political factors now matter more. **Industrial inertia** is when industry stays in a place after the original reason has gone, because moving costs too much.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--04-location-factors.webp" width="900" height="960" alt="Seven location factors with a one-line rule each; raw materials and power matter less now, markets, labour skills and political factors more. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Seven location factors and how the importance of some has changed.</figcaption>
+</figure>
+
 
 ## How the factors combine
 
@@ -127,6 +151,12 @@ Jebel Ali Free Zone (Jafza) is at the far western end of Dubai, United Arab Emir
 
 **Evaluation.** Jafza shows that political and transport factors can outweigh raw materials: most firms bring their inputs in by sea. A limitation is that much activity is storage and trade rather than making things, so use examples of factories inside the zone when a question asks about manufacturing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--05-jebel-ali-free-zone.webp" width="900" height="1010" alt="A schematic of port, free zone, road and airport, with the import, store or process, and re-export flow of a customs bonded zone. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Jafza sits beside a port, with road and airport links, and works as a customs bonded zone.</figcaption>
+</figure>
+
+
 ## Case study 2: Toyota, Burnaston, England (a factory)
 
 Toyota's car plant at Burnaston, Derbyshire, is about 7 km south-west of Derby. It built its first car on 16 December 1992. The engines come from Toyota's second UK plant at Deeside, North Wales, which opened in September 1992. Processes at Burnaston include stamping, welding, painting, plastic moulding and assembly. It currently builds the Corolla.
@@ -137,6 +167,12 @@ Toyota's car plant at Burnaston, Derbyshire, is about 7 km south-west of Derby. 
 - **Labour:** Derby has a long history of engineering, including railway works and Rolls-Royce, so skilled workers lived nearby.
 
 **Evaluation.** Burnaston shows how transport and market access combine with a good site. It also shows political risk: when trade rules change, a plant built to serve one market can face new costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--06-toyota-burnaston.webp" width="900" height="1025" alt="Land, transport, markets and labour each point to the Burnaston plant, and engines arrive from Deeside. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Why Toyota located at Burnaston: flat site, roads, market access and skilled labour.</figcaption>
+</figure>
+
 
 ## Worked example: using a case study
 

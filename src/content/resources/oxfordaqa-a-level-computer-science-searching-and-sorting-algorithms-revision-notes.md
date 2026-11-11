@@ -73,6 +73,22 @@ ENDWHILE
 
 This version uses a `found` flag rather than returning from inside the loop. Both styles are correct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms--15-ss-linear-search.webp" width="900" height="830" alt="Seven boxes hold 37, 12, 58, 4, 91, 26 and 73. Searching for 4, the first three boxes get a cross and the fourth, index 3, gets a tick, so the advanced version makes 4 comparisons; the last three boxes are not needed, but the inefficient version would still check them for 7 comparisons. Searching for 50, which is absent, every box gets a cross: 7 comparisons either way." loading="lazy">
+  <figcaption>Linear search checks from the start; it stops early when it finds the target, but proving an item is absent means checking everything.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms--16-ss-binary-search.webp" width="900" height="830" alt="Eleven sorted values from index 0 to 10 are shown in five rows while searching for 25. Row 1: the whole list, mid is index 5 (40), too big, so high becomes 4. Row 2: indexes 0 to 4, mid 2 (14), too small, low becomes 3. Row 3: indexes 3 to 4, mid 3 (22), too small, low becomes 4. Row 4: only index 4, mid 4 (31), too big, high becomes 3. Row 5: low 4 is greater than high 3 so the loop stops and 25 is not in the list." loading="lazy">
+  <figcaption>Each comparison with the middle item throws away about half of the range still being searched.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms--17-ss-search-compare.webp" width="900" height="740" alt="A bar chart on a logarithmic scale. For 1,000 items the worst case is 1,000 comparisons for linear search and 10 for binary search. For 1,000,000 items it is 1,000,000 comparisons for linear search and 20 for binary search. Binary search only works on an ordered list." loading="lazy">
+  <figcaption>Binary search needs far fewer comparisons on big lists, but only works if the list is ordered (log scale).</figcaption>
+</figure>
+
+
 ### Worked reminder
 
 Ordered list `[5, 12, 18, 24, 33, 47, 59]`, target 47.
@@ -105,6 +121,22 @@ Inefficient linear search makes the same number of comparisons whether or not th
 5. The loop stops after a pass with no swaps (improvement 2: indefinite iteration).
 
 The **basic** version uses two `FOR` loops: n − 1 passes, each of n − 1 comparisons, whatever the data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms--18-ss-bubble-pass1.webp" width="900" height="990" alt="Bars show the list 29, 7, 41, 15, 3, 22 at the start. Pass 1 compares neighbouring pairs from left to right: 29 and 7 swap, 29 and 41 do not, 41 and 15 swap, 41 and 3 swap, 41 and 22 swap. The bar for 41 is carried along to the end of the list, so the largest value bubbles to the end." loading="lazy">
+  <figcaption>In one pass, neighbours are compared and swapped if out of order, so the largest value bubbles to the end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms--19-ss-bubble-passes.webp" width="900" height="798" alt="The list 29, 7, 41, 15, 3, 22 is shown at the start and after each of five passes. Swaps per pass are 4, 3, 1, 1 and 0. After pass k the last k items are already in their final places, so they need no more comparisons. Pass 5 makes no swaps, so the sort stops." loading="lazy">
+  <figcaption>After pass k the last k items are final; a pass with no swaps means the list is sorted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms--21-ss-merge-sort.webp" width="900" height="839" alt="The list 38, 16, 52, 9, 27, 44, 11, 30 is split in half repeatedly: into two lists of four, then four lists of two, then eight single items. The merges then join pairs back in order: 16 38, 9 52, 27 44 and 11 30; then 9 16 38 52 and 11 27 30 44; and finally the sorted list 9, 11, 16, 27, 30, 38, 44, 52. The ordering happens during the merges, not during the splits." loading="lazy">
+  <figcaption>Merge sort splits the list down to single items, then merges sorted sub-lists back together.</figcaption>
+</figure>
+
 
 ### Worked reminder
 
@@ -155,6 +187,12 @@ Result `[4, 7, 12, 19, 25, 30]` after 5 comparisons.
 | Already sorted | One pass, no swaps, stops |
 | Nearly sorted | Few passes, then a clean pass and stop |
 | Reverse order | Every pass swaps; the flag saves nothing |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms--20-ss-bubble-counts.webp" width="900" height="830" alt="Horizontal bars count comparisons. For the list 29, 7, 41, 15, 3, 22 the basic version makes 25, reducing the range makes 15, and both improvements make 15. For the nearly sorted list 10, 20, 30, 50, 40, 60 the counts are 25, 15 and 9. An already sorted list of six items needs only 5 comparisons with both improvements." loading="lazy">
+  <figcaption>The flag only helps when the list is already close to sorted; otherwise it saves nothing.</figcaption>
+</figure>
+
 
 ## Big O (International A-level only)
 

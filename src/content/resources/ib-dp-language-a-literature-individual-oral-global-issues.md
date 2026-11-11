@@ -74,6 +74,12 @@ Its assessment objectives include analysing the ways texts "offer perspectives o
 The brief does not give the timing, the length of extract, the rules on notes or the assessment
 criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--01-ns57-oral-requirements.webp" width="900" height="1090" alt="One work in the language studied and one work studied in translation both approach a common global issue. Arrows run from each book to a globe, and labels show you analyse voice, imagery, structure and form. Two works in one language are marked as not allowed, and the oral is shown as internally assessed at 30% SL and 20% HL." loading="lazy">
+  <figcaption>The oral pairs one work in the language studied with one in translation around a common global issue.</figcaption>
+</figure>
+
+
 ## Choosing a global issue
 
 ### Theme or issue?
@@ -112,6 +118,17 @@ Your oral is strongest when it explains that difference.
 For illustration only, if you study the course in English: Henrik Ibsen's *A Doll's House* (1879,
 translated from Norwegian) and Kate Chopin's *The Awakening* (1899) could both be read against the
 issue of a woman's freedom within marriage. Your teacher decides which works your class studies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--02-ns57-oral-issue-tests.webp" width="900" height="870" alt="Four numbered cards list the tests a global issue should pass: it affects many people, it crosses borders, it is visible in local life, and both works engage it through choices you can quote. The fourth is highlighted as the one that matters most." loading="lazy">
+  <figcaption>Test an issue against four questions before you commit to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--03-ns57-oral-narrowing.webp" width="900" height="1030" alt="A funnel narrows Power (too broad to argue) to Censorship (only names a practice) to the angle keep speaking (arguable). The full angle then becomes one question put to both works." loading="lazy">
+  <figcaption>Narrow a theme to an issue and then to an arguable angle both works can answer.</figcaption>
+</figure>
+
 
 ## Choosing the extracts
 
@@ -193,6 +210,12 @@ You are analysing the words of the translation. Be precise about what you can cl
   explains a choice in the text.
 - Never treat the translated work as the weaker partner. It needs the same depth of analysis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--04-ns57-oral-translation.webp" width="900" height="900" alt="A bridge links an original and a translation. Events, narrative perspective, imagery, structure and symbols usually carry across; puns, rhyme and alliteration may belong to the translator. The phrase in this translation marks a point that rests on a single word, sound or rhythm." loading="lazy">
+  <figcaption>Build points on what usually survives translation and flag the rest.</figcaption>
+</figure>
+
+
 ### Worked analytical paragraph
 
 > Both works show that censorship does not end speech; it drives speech into disguise. In the poem,
@@ -205,6 +228,12 @@ You are analysing the words of the translation. Be precise about what you can cl
 > think.
 
 The pattern: a claim, evidence from each work, the effect of each choice, and a contrast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--05-ns57-oral-paragraph.webp" width="900" height="790" alt="A grid breaks the worked paragraph into claim, evidence, effect and contrast for the poem (a community, we) and the novel (one outsider). Quotations are the short ones used in the lesson." loading="lazy">
+  <figcaption>A paragraph states a claim, gives evidence and effect from each work, then contrasts them.</figcaption>
+</figure>
+
 
 ### Moving from extract to whole work
 
@@ -240,6 +269,12 @@ it. Comparison runs throughout, but you need careful signposting.
 
 A listener cannot see your headings. Use phrases such as "My first point about the poem...",
 "Beyond this extract, the novel...", "Where the poem speaks as a community, the novel...".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--06-ns57-oral-structure.webp" width="900" height="730" alt="Two panels compare structures. Work by work runs in six numbered steps from introduction to comparison and conclusion. Point by point moves between work A and work B on each aspect, and needs careful signposting." loading="lazy">
+  <figcaption>Two common oral structures: work by work, or point by point.</figcaption>
+</figure>
+
 
 ## Common errors
 

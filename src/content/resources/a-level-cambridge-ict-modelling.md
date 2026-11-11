@@ -55,6 +55,12 @@ Key vocabulary:
 - **Assumption** -- a simplification built into the model, such as "the growth rate stays the same every year".
 - **Scenario** -- one set of input values, such as "best case" or "price rise".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-modelling--18-mod-model-simulation.webp" width="900" height="910" alt="A model has variables you can change (price, cost, cups sold), a rule linking them (profit = sales x (price - cost) - fixed costs) and an output (profit). A simulation runs the model step by step over time, for example year 0 to year 5 of a growing population, assuming the growth rate stays the same. A scenario is one set of input values such as best case or price rise." loading="lazy">
+  <figcaption>A model holds variables and rules; a simulation runs them over time.</figcaption>
+</figure>
+
+
 ## What-if analysis
 
 What-if analysis means changing one or more inputs to a model and seeing how the outputs change. Because the spreadsheet recalculates automatically, you can try many scenarios in seconds. The syllabus lists two parts:
@@ -81,6 +87,17 @@ A café owner sets up this model.
 **Step 3 -- a second scenario.** Reset B4 to 1000 and change B1 to 3.50. Each cup now earns £2.40, so profit = 1000 × 2.40 − 1890 = **£510**.
 
 Notice that every input sits in its own labelled cell and the formula refers to those cells. If the price were typed into the formula itself, each scenario would mean editing the formula, which is slow and easy to get wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-modelling--14-mod-what-if-cafe.webp" width="900" height="1125" alt="A café spreadsheet has input cells for price per cup (3.20), cost per cup (1.10), fixed costs (1890) and cups sold (1000), and a profit formula. A column chart shows profit for three scenarios: 210 pounds now, a loss of 210 pounds if only 800 cups are sold, and 510 pounds if the price is raised to 3.50. The predicted fall of 420 pounds was correct." loading="lazy">
+  <figcaption>Change one input cell, read the new profit: this is what-if analysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-modelling--17-mod-queue-clerks.webp" width="900" height="1005" alt="A post office queue model divides arrivals per hour by customers served per clerk per hour. 72 arrivals at 15 per clerk gives 4.8, so 5 clerks. 96 arrivals gives 6.4, so 7 clerks. With faster equipment serving 18 an hour, 72 divided by 18 is exactly 4 clerks, leaving no spare capacity if arrivals come in a burst." loading="lazy">
+  <figcaption>Round the answer up to whole clerks; an average-rate model hides bursts of arrivals.</figcaption>
+</figure>
+
 
 ## Goal seek
 
@@ -116,6 +133,17 @@ The formula in B3 is filled down to B7 (year 5). Because Rate is a named cell, e
 
 - Year 1: 50,000 × 1.02 = 51,000. Year 2: 52,020. Year 5: **55,204** (to the nearest person).
 - **Goal seek:** "What yearly growth rate gives 60,000 people after 5 years?" Result cell B7, target 60000, cell to change Rate. Goal seek returns about **3.71%** (to 3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-modelling--15-mod-goal-seek-cafe.webp" width="900" height="990" alt="Profit against cups sold is a straight line for each price. Goal seek needs a result cell (B5), a target value (0) and a cell to change (B4). At 3.20 pounds per cup the line crosses zero at 900 cups. At 3.50 pounds it crosses at 787.5 cups, which must be read as 788 cups because half a cup cannot be sold." loading="lazy">
+  <figcaption>Goal seek works backwards from a target output to the input that gives it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-modelling--16-mod-population-growth.webp" width="900" height="970" alt="A town of 50,000 grows at the rate stored in cell Rate (2 percent). Each year the population is the previous year times one plus Rate, giving 51,000, 52,020 and eventually 55,204 in year 5. Goal seek, with result cell B7, target 60,000 and cell to change Rate, finds that about 3.71 percent a year is needed to reach 60,000 in five years." loading="lazy">
+  <figcaption>Goal seek finds the growth rate (about 3.71%) that reaches 60,000 after five years.</figcaption>
+</figure>
+
 
 ## Uses of what-if analysis
 
@@ -166,6 +194,12 @@ Computer models are used because, compared with testing the real thing, they can
 - **Possible at all** -- you cannot run a real experiment on the future climate or on an earthquake.
 
 They also let decision-makers compare many options before committing money or resources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-modelling--19-mod-why-models.webp" width="900" height="940" alt="Five tiles list why computer models are used instead of testing the real thing: cheaper (a traffic layout tested on screen), safer (no one at risk), faster (years of change in seconds), repeatable (change one variable and run again) and possible at all (you cannot experiment on the future climate or an earthquake)." loading="lazy">
+  <figcaption>Five reasons to model instead of testing the real thing.</figcaption>
+</figure>
+
 
 ## The effectiveness of spreadsheet models
 

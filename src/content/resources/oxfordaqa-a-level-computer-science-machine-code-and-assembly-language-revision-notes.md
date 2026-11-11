@@ -59,6 +59,22 @@ Small reminder: a 7-bit opcode field allows 2⁷ = 128 different opcodes.
 
 Small reminder: if R4 holds 70 and location 70 holds 5, `LDR R0, [R4]` puts **5** in R0. `MOV R0, R4` would put 70 in R0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--01-mc-instruction-fields.webp" width="900" height="830" alt="A made-up 16-bit instruction, 0101101000101101 (5A2D in hexadecimal), is split into a 5-bit opcode 01011 which is operation 11, a 2-bit addressing mode 01 which means direct, and a 9-bit operand 000101101 which is 45. Because the mode is direct, the instruction works on the value held at memory address 45, not on the number 45 itself. The mode codes are 00 immediate, 01 direct and 10 indirect. A 5-bit opcode gives 32 different opcodes and a 9-bit operand has a largest unsigned value of 511." loading="lazy">
+  <figcaption>Splitting a 16-bit instruction into opcode, addressing mode and operand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--02-mc-addressing-modes.webp" width="900" height="930" alt="Memory location 40 holds 52 and location 52 holds 9. Immediate: MOV R1, #40 puts the value 40 itself into R1. Direct: LDR R2, 40 reads location 40, so R2 becomes 52. Indirect: LDR R3, [R2] uses the 52 held in R2 as an address and reads location 52, so R3 becomes 9. The same number 40 gives different results in each mode." loading="lazy">
+  <figcaption>MOV, LDR direct and LDR indirect give three different results from the same number 40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--04-mc-loop-sum.webp" width="900" height="1019" alt="Four values 12, 7, 30 and 5 are stored in locations 80 to 83. Each pass of the loop uses indirect addressing: LDR R2, [R1] reads the location R1 points at, ADD adds it to the total in R0, and R1 moves on by 1. After pass 1 the total is 12, after pass 2 it is 19, after pass 3 it is 49 and after pass 4 it is 54. BLT loop repeats while R1 is less than 84, so the loop exits after pass 4 and STR stores 54 in location 84." loading="lazy">
+  <figcaption>A pointer register walks locations 80 to 83 while the total builds in R0.</figcaption>
+</figure>
+
+
 ## 3.8.2 Instruction set summary
 
 The OxfordAQA set is based on ARM. A copy is included in any exam paper with an assembly language question, according to the specification.
@@ -99,6 +115,12 @@ The OxfordAQA set is based on ARM. A copy is included in any exam paper with an 
 | Divide by 2ⁿ (whole part) | `LSR Rd, Rn, #n` | Each shift right halves, remainder lost |
 
 Small reminder: 13 = 00001101. `LSL` by 2 gives 00110100 = 52. `LSR` 52 by 2 gives back 13.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--05-mc-bitwise-shifts.webp" width="900" height="962" alt="R1 holds 11101110, which is 238. AND with 15 gives 00001110 (14), keeping the low four bits. ORR with 1 gives 11101111 (239), setting bit 0. EOR with 255 gives 00010001 (17), flipping every bit; MVN gives the same result. LSL by 1 gives 11011100 (220) because the top 1 is shifted out and lost. LSR by 2 gives 00111011 (59), the two right-hand 1 bits being lost, so 238 divided by 4 is 59 with the fraction dropped." loading="lazy">
+  <figcaption>Each bitwise instruction and shift applied to 11101110, showing changed and lost bits.</figcaption>
+</figure>
+
 
 ## Method in steps: pseudocode to assembly
 
@@ -172,6 +194,12 @@ R0 runs 3, 6, 12, 24, 48, 96, 192. The test fails at 192, so the loop ends with 
 10. 10100011 = 163.
 11. Instruction sets are processor specific, so the binary patterns mean different things (or nothing) on another processor.
 12. R0 to R12.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--03-mc-if-else-branch.webp" width="900" height="1100" alt="Flow of an assembly program that stores the amount over a limit. It loads speed from location 90 and the limit from location 91, compares them with CMP R0, R1, then BGT over. If speed is greater (speed 68, limit 50) the branch is taken to over: SUB R2, R0, R1, giving R2 = 18. If not (speed 45) the branch is not taken, MOV R2, #0 runs and B done skips the subtraction, so R2 = 0. Both paths meet at done: STR R2, 92 and HALT. Leaving out B done would let the program fall into the subtraction and overwrite the 0." loading="lazy">
+  <figcaption>CMP and BGT choose between two paths; B done skips the THEN part.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

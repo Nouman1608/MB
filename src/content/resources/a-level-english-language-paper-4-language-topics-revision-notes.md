@@ -43,6 +43,12 @@ Paper 4, 2 h 15, 50 marks, 25% of the A Level. A Level-only, alongside Paper 3. 
 - **"Zero translation"**: using an English word/acronym untranslated in another language's media (e.g. WiFi, CEO in Chinese publications) — a frequent stimulus topic.
 - **Ethical dimension**: cultural imperialism vs opportunity/access — always engage genuinely with both sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--13-p4-ethics-balance.webp" width="900" height="760" alt="A level balance scale. The left pan, labelled Opportunity, holds connected speech bubbles and a coin and is described as wider communication and economic access. The right pan, labelled Cultural imperialism, holds a large circle covering a small one and is described as displacing local languages. The balance is level to show that an answer should weigh both sides." loading="lazy">
+  <figcaption>Engage with the ethical tension in the global spread of English rather than taking only one side.</figcaption>
+</figure>
+
+
 ## Section B: Language and the Self
 
 Three strands, any of which a stimulus can draw on.
@@ -50,6 +56,17 @@ Three strands, any of which a stimulus can draw on.
 - **Innateness and learning**: **behaviourism** (language learned through imitation and reinforcement) vs **innatism/nativism** (an innate language acquisition device; evidence from rule-governed errors like "goed", "sheeps" that could not have been imitated) vs **empiricism** (language learned mainly from environmental input).
 - **Language and thought**: **linguistic relativity/determinism** (the Sapir-Whorf hypothesis — the language you speak shapes, or in its strong form determines, how you think) vs **universalism** (thought is independent of and precedes language) vs the **language of thought hypothesis** (an underlying, language-independent "mentalese").
 - **Language and social identity**: **Idiolect** (an individual's distinctive speech) vs **sociolect** (a variety shared within a social group such as a class, occupation or age group, as distinct from a regionally defined **dialect**) — keep these precise; a group-level variety such as Multicultural London English is a sociolect (or an ethnolect), not an idiolect. Influences on identity: **gender, ethnicity, age, occupation, region, social group**. **Gender theories**: deficit, dominance, difference, diversity approaches (plus standpoint and muted-group theory). **Inclusion/exclusion**: slang, jargon, accent and speech sounds as identity markers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--11-p4-language-thought.webp" width="900" height="980" alt="Three panels, each with a Language box and a Thought box. Linguistic relativity and determinism (Sapir-Whorf): an arrow from language to thought, because language shapes, or in its strong form determines, thought. Universalism: an arrow from thought to language, because thought is independent of and comes before language. Language of thought: thought contains a language-independent mentalese, and language merely expresses it." loading="lazy">
+  <figcaption>Three positions on how language and thought relate: language shapes thought, thought comes first, or an underlying mentalese sits beneath both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--12-p4-idiolect-sociolect.webp" width="900" height="975" alt="A large circle holds a group of people: a social group sharing a sociolect. One person in the middle has a dashed ring around them: their idiolect, the distinctive speech of one individual. Below, a legend explains three terms: idiolect (one person), sociolect (shared in a social group such as class, occupation or age) and dialect (defined by region). A note says a youth variety such as Multicultural London English is sociolect, not idiolect." loading="lazy">
+  <figcaption>Idiolect is individual; sociolect is shared by a social group; dialect is defined by region.</figcaption>
+</figure>
+
 
 ## The stimulus-response skill
 
@@ -70,6 +87,12 @@ Stimulus: a short comment thread about English acronyms appearing untranslated i
 ## Common ground between the two sections
 
 Both sections are ultimately about how English variation carries social meaning — Section A at the level of nations and global varieties, Section B at the level of individuals and social groups. Revising them together, rather than as unrelated topics, reinforces the underlying skill: read a text, identify what variation or feature it shows, and explain what that variation signals about identity, status or attitude.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--14-p4-stimulus-approach.webp" width="900" height="920" alt="Three steps with icons: first ground the answer in a detail from the unseen stimulus text (a page with a highlighted line and magnifier); then widen out to a named theory or example (arrows spreading outward); then take a position on the issue (a flag). Below, a bar shows the 50 marks split into two equal 25-mark sections: Section A English in the World and Section B Language and the Self, with equal time for each." loading="lazy">
+  <figcaption>Start from the stimulus, widen out to named knowledge, then take a position; the two sections are equally weighted.</figcaption>
+</figure>
+
 
 ## Wider reading habit
 
@@ -123,3 +146,19 @@ Named approaches include the deficit, dominance and difference models, along wit
 ## Official syllabus
 
 Cambridge International AS & A Level English Language (9093) syllabus for 2024, 2025 and 2026 — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/635901-2024-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--08-p4-three-circles.webp" width="900" height="800" alt="Three concentric circles. The small centre circle is the Inner Circle, where English is a first language. The middle ring is the Outer Circle, where English has official or institutional status as a second language. The outer ring is the Expanding Circle, where English is learned as a foreign language. Labels on the right point to each ring." loading="lazy">
+  <figcaption>Kachru's Three Circles frame where and how a variety of English developed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--09-p4-pidgin-creole.webp" width="900" height="990" alt="A three-step flow. Contact between English and another language produces a pidgin, a simplified contact language with no native speakers. Creolisation turns the pidgin into a creole, a fully-fledged first language of a speech community. Below, three hybrid varieties that combine English with other languages are shown as overlapping circles: Hinglish, Singlish and Spanglish." loading="lazy">
+  <figcaption>Creolisation turns a pidgin (no native speakers) into a creole (a first language); hybrids blend English with another language.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--10-p4-continuum.webp" width="900" height="780" alt="A five-step ladder of varieties. At the top is the acrolect, closest to standard English. Three middle steps are mesolects, intermediate varieties. At the bottom is the basilect, furthest from standard English, such as colloquial Singlish or broad Jamaican Creole. A speaker icon with a double arrow shows that a speaker can shift up and down the ladder depending on factors such as education and how formal the situation is." loading="lazy">
+  <figcaption>Speakers move along the continuum from basilect to acrolect depending on education and formality.</figcaption>
+</figure>
+

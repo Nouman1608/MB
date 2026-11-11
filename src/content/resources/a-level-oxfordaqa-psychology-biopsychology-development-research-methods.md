@@ -102,6 +102,12 @@ knowledge for Research Methods 2 at A2, so building genuinely secure
 foundations now, including being able to design a simple study from
 scratch, pays off across the whole qualification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--05-psy-piaget-vs-vygotsky.webp" width="900" height="1200" alt="Top panel, Piaget: a staircase of four steps with a child standing alone on the second step and an upward arrow labelled stages, to show an internal, stage-based process. Bottom panel, Vygotsky: three concentric rings with a child in the centre. The inner ring is what the child can do alone, the middle ring is the zone of proximal development, what the child can do with help, and the outer ring is not yet possible. A helper outside the rings gives scaffolding by reaching into the middle ring." loading="lazy">
+  <figcaption>Piaget: an internal, stage-based process. Vygotsky: development driven socially and culturally, through scaffolding in the zone of proximal development.</figcaption>
+</figure>
+
+
 ## 3.2.1 Biopsychology
 
 **The nervous system** divides into the **central nervous system** (brain and spinal cord) and the
@@ -135,6 +141,17 @@ hand. **Plasticity** is the brain's ability to change with experience; after tra
 recovery** can occur as undamaged areas take over lost functions, through mechanisms such as axonal
 sprouting and the recruitment of similar areas in the opposite hemisphere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--02-psy-neuron-synapse.webp" width="900" height="980" alt="Three neurons in a row, labelled sensory neuron, relay neuron and motor neuron, with the signal travelling left to right. A small gap, the synapse, lies between each pair. A magnified view of one synapse shows neurotransmitter dots crossing the gap from the sending neuron to the next neuron, which results in excitation or inhibition. Schematic, not to scale." loading="lazy">
+  <figcaption>Messages pass along sensory, relay and motor neurons; at each synapse neurotransmitters cross the gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--03-psy-brain-localisation.webp" width="900" height="920" alt="A side-view brain outline with the front on the left. Coloured regions mark the motor area and the somatosensory area as two vertical bands near the middle, the visual area at the back, the auditory area in the lower middle, Broca's area at the lower front and Wernicke's area at the lower back; Broca's and Wernicke's are the language centres. Schematic, not to scale." loading="lazy">
+  <figcaption>Localisation of function: different regions of the brain carry out different functions.</figcaption>
+</figure>
+
+
 ## 3.2.2 Cognitive development
 
 **Piaget's theory.** Children build **schemas**; new information is either **assimilated** into an
@@ -163,6 +180,12 @@ said the basket, while most autistic children said the box — evidence of a dif
 understanding. The **mirror neuron system**, first identified in monkeys by Rizzolatti and colleagues,
 fires both when an individual acts and when it watches another perform the same action, and has been
 proposed as a biological basis for understanding others' intentions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--04-psy-piaget-adaptation.webp" width="900" height="880" alt="Two panels use a shape-fitting picture. Assimilation: a square block drops into a square hole in a frame that stands for a schema, so the schema stays the same. Accommodation: a triangular block does not fit a square hole, so the schema is reshaped with a triangular hole. Arrows from both panels lead to equilibration, balance restored." loading="lazy">
+  <figcaption>New experience is fitted into a schema (assimilation) or the schema is changed (accommodation), restoring equilibrium.</figcaption>
+</figure>
+
 
 ## 3.2.3 Research methods 1
 
@@ -198,6 +221,12 @@ relationship between co-variables without manipulating an independent
 variable. Confusing a population with a sample, or describing a
 sampling technique without stating one implication (bias or
 generalisability) of using it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--01-psy-nervous-divisions.webp" width="900" height="680" alt="A tree diagram. The nervous system splits into the central nervous system (CNS) and the peripheral nervous system (PNS). The PNS splits into the somatic and autonomic divisions. A dashed outline around the PNS, somatic and autonomic boxes shows that the autonomic division sits inside the PNS and is not a separate category." loading="lazy">
+  <figcaption>The autonomic nervous system is a division of the peripheral nervous system, not a separate category.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -239,6 +268,17 @@ and one limitation of each.
 stating one implication (bias or generalisability) of using it.
 - List the ethical guidelines for psychological research and be ready
 to apply them to a novel study description.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--06-psy-correlation-scatter.webp" width="900" height="780" alt="A scatter graph of hours of sleep against hours of screen time before bed. The twelve illustrative points slope downwards from left to right and a straight line of best fit slopes down. The correlation coefficient computed from these points is r = -0.70, a strong negative correlation: more screen time goes with less sleep." loading="lazy">
+  <figcaption>A coefficient of -0.7 is a strong negative correlation: as screen time rises, sleep tends to fall (illustrative data).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--07-psy-third-variable.webp" width="900" height="780" alt="Three boxes in a triangle: screen time and sleep at the bottom, joined by a dashed line marked r = -0.7, and stress at the top with arrows to both. The picture shows that stress, a possible third variable, could cause both more screen use and less sleep, so the correlation does not show that screen time causes poor sleep." loading="lazy">
+  <figcaption>A correlation between two co-variables does not show cause: a third variable such as stress could affect both.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

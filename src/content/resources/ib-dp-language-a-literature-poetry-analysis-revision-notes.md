@@ -65,6 +65,17 @@ Course links: [Language A: Literature hub](/boards/ib/ib-dp/language-a-literatur
 | Symbol | Concrete thing standing for something larger | a rose for love or beauty |
 | Juxtaposition | Contrasting things side by side | "forget and smile" / "remember and be sad" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--15-poetry-line-breaks.webp" width="900" height="770" alt="Three lines of an original free-verse passage with arrows carrying the reader over the line breaks. &quot;his hands&quot; is highlighted at the end of line 2, a gold marker shows the caesura after &quot;name.&quot;, and &quot;Outside&quot; hangs at the end of line 3." loading="lazy">
+  <figcaption>Line breaks and pauses carry meaning in free verse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--16-poetry-metre.webp" width="900" height="1030" alt="Stressed syllables are big dots. An iamb is da-DUM and a trochee DUM-da. Blake’s line has eight syllables in four iambs. Five iambs make ten syllables, four make eight. A line with seven syllables starting on a stress breaks the pattern." loading="lazy">
+  <figcaption>Metre is a pattern of stressed and unstressed syllables, and a change in it is worth noting.</figcaption>
+</figure>
+
+
 ## Forms at a glance
 
 | Form | Shape | Typical use of the shape |
@@ -74,6 +85,12 @@ Course links: [Language A: Literature hub](/boards/ib/ib-dp/language-a-literatur
 | Quatrain stanzas | Four-line units, often abab or abcb | Steady, song-like progress |
 | Blank verse | Unrhymed iambic pentameter | Speech-like, flexible thought |
 | Free verse | No fixed metre or rhyme | Line breaks carry emphasis |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--14-poetry-sonnet-forms.webp" width="900" height="940" alt="Two 14-line sonnets side by side. The Petrarchan has an octave and a sestet with the rhymes of Rossetti’s Remember and a turn at line 9; the Shakespearean has three quatrains and a couplet. A row shows couplet, tercet and quatrain stanzas." loading="lazy">
+  <figcaption>Sonnet shapes: octave plus sestet, or three quatrains plus a couplet.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -102,6 +119,12 @@ Course links: [Language A: Literature hub](/boards/ib/ib-dp/language-a-literatur
 7  Choose 2-3 features that best explain the change in step 3.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--13-poetry-voice.webp" width="900" height="1030" alt="A poem frame holds a speaker talking to an addressee while the poet stands outside it, marked not equal. Three questions, who speaks, to whom and in what tone, are followed by Blake’s speaker, a witness who marks faces and hears cries." loading="lazy">
+  <figcaption>The speaker is not automatically the poet, and voice is found by asking who, to whom and in what tone.</figcaption>
+</figure>
+
+
 ## Method in steps: the analytical paragraph
 
 ```
@@ -111,6 +134,12 @@ Technique  -> precise name of the method
 Effect     -> what it does to meaning or to the reader
 Link       -> back to the question and the whole poem
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--19-poetry-paragraph-moves.webp" width="900" height="992" alt="Five stacked moves, claim, evidence, technique, effect and link, applied to Rossetti’s Remember with the guiding question on top. Every quotation is under ten words and sits inside a sentence." loading="lazy">
+  <figcaption>A good paragraph makes five moves, from claim to link.</figcaption>
+</figure>
+
 
 ## Worked reminder: scansion, rhyme and pauses
 
@@ -139,6 +168,12 @@ Hopkins's "Pied Beauty" (written 1877, first published 1918) praises "dappled th
 marked with contrast. The paired opposites "swift, slow; sweet, sour; adazzle, dim" place contrasting
 words side by side, split by commas and semicolons. The sound and punctuation enact the idea: variety
 itself is the beauty. That link, from sound to idea, is the whole point of noting sound.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--18-poetry-features-to-meaning.webp" width="900" height="850" alt="Four steps in order: read twice, find the turn, pick two or three features, and ask what would be lost if the poet had written it differently. The fourth question turns spotting into analysis." loading="lazy">
+  <figcaption>A feature is worth mentioning only if it helps answer a question about the poem.</figcaption>
+</figure>
+
 
 ## Worked reminder: weak vs strong analysis
 
@@ -185,6 +220,12 @@ from effect to an idea about the whole poem. That last step is what turns spotti
 10. Stressed then unstressed (DUM-da).
 11. Form is the poem's shape (type, stanza, rhyme scheme); structure is how it moves and turns.
 12. Sprung rhythm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--17-poetry-imagery.webp" width="900" height="1060" alt="Top, two cuffs joined by a chain whose links are thought, habit and fear, not iron. Bottom, a soldier’s sigh drawn as a speech bubble running as a red streak down a palace wall, so power looks stained by suffering." loading="lazy">
+  <figcaption>Images carry meaning: the manacles are made of mind, and the sigh stains the palace.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -103,6 +103,27 @@ Read a row as "from" and a column as "to"; the matrix is not symmetric. In Pytho
 
 **Worked example 3.** A delivery map has 1,000 vertices and 2,500 undirected edges. A matrix needs 1,000 × 1,000 = 1,000,000 cells, almost all 0. A list stores each edge once from each end: 5,000 entries. The graph is sparse, so use an adjacency list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--01-ads-graph-kinds.webp" width="900" height="1000" alt="Two graphs. The first is undirected and weighted: a trail map with vertices F, G, H, J, K and six edges weighted in kilometres. The second is directed: W follows X and Y, X and Y follow Z, Z follows W, shown with arrows." loading="lazy">
+  <figcaption>Undirected weighted graph (top) and directed graph (bottom).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--02-ads-trail-matrix-list.webp" width="900" height="1151" alt="The trail map as a 5 by 5 adjacency matrix, symmetric about the leading diagonal so F-G = 4 appears twice, and as an adjacency list of linked entries such as F: G(4), H(7)." loading="lazy">
+  <figcaption>The same weighted graph stored as an adjacency matrix and as an adjacency list.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--03-ads-directed-matrix.webp" width="900" height="1040" alt="A directed graph W, X, Y, Z with its matrix: rows are from, columns are to. W to X is 1 but X to W is 0, so the matrix is not symmetric." loading="lazy">
+  <figcaption>The matrix of a directed graph is not symmetric.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--04-ads-sparse-size.webp" width="900" height="930" alt="A large square for 1,000,000 matrix cells beside a tiny square, 200 times smaller in area, for 5,000 adjacency-list entries. The graph is sparse so a list is better." loading="lazy">
+  <figcaption>Matrix and list sizes for 1,000 vertices and 2,500 edges, drawn to the same scale.</figcaption>
+</figure>
+
+
 ## 3.10.2 Trees
 
 - A **tree** is a connected, undirected graph with no cycles. A tree does not have to have a root.
@@ -150,6 +171,12 @@ def insert(node, value):
     return node
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--05-ads-bst-search.webp" width="900" height="880" alt="A binary search tree built from 52, 30, 71, 18, 44, 60, 85, 39. Searching for 39 follows 52, 30, 44, 39. Searching for 65 follows 52, 71, 60 then an empty position, so it is absent." loading="lazy">
+  <figcaption>Two search paths through the same binary search tree.</figcaption>
+</figure>
+
+
 ## 3.10.3 Hash tables
 
 A **hash table** maps keys to values. A **hash function** uses a record's key to calculate the position at which the record is stored. Hash functions often use MOD so the result always lies in the range 0 to table size − 1.
@@ -183,6 +210,12 @@ A poor hash function clusters records. Adding the character codes of a word and 
 - Disadvantage: spare positions must be left empty, which uses more memory.
 - Disadvantage: records are not held in key order, so producing a sorted list needs extra work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--06-ads-hash-table.webp" width="900" height="1105" alt="An eleven-slot hash table using key MOD 11. 6688 collides at slot 0 and moves to slot 3. A strip shows the search for 8603 ending at empty slot 5." loading="lazy">
+  <figcaption>Inserting into a hash table with rehashing, and a search that ends at an empty slot.</figcaption>
+</figure>
+
+
 ## 3.10.4 Priority queues
 
 A **priority queue** is a queue in which each item has a priority. Items leave in priority order; items with the same priority leave in the order they arrived. They suit scheduling jobs or processes by importance, where urgent work must jump ahead. The specification notes priority queues can be used to implement some graphing algorithms, such as breadth-first search or Dijkstra's algorithm.
@@ -204,6 +237,12 @@ A **priority queue** is a queue in which each item has a priority. Items leave i
 | enqueue mail (1) | mail, scan, sync, print | 4 |
 
 sync goes after scan because both have priority 2 and scan arrived first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-data-structures--07-ads-priority-queue.webp" width="900" height="866" alt="The array contents and count after each of six operations on a size-5 priority queue, with priority 1 highest and equal priorities kept in arrival order." loading="lazy">
+  <figcaption>Step-by-step array contents of the priority queue.</figcaption>
+</figure>
+
 
 ## 3.10.5 Dictionaries
 

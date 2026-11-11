@@ -83,6 +83,17 @@ One instruction matters more than any other here: you are "expected to illustrat
 
 **Worked paragraph (application to a fictional study).** *A fictional study of revision anxiety at Larkfield College used 300 students, 255 of them women (85%), and concluded that "students" cope by seeking support.* This risks beta bias: a mainly female sample is generalised to all students, ignoring possible sex differences (knowledge -> application). If men are less likely to seek support, the conclusion would misdescribe them and could shape support services that suit only women (analysis). Taylor et al. (2000) made a similar argument about stress research built on male samples; however, the researchers could test the claim by recruiting a balanced sample and comparing the sexes (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--08-issues-gender-bias.webp" width="900" height="960" alt="Three rows. Alpha bias: bars for men and women with a large gap, exaggerating differences; example Freud’s weaker female superego. Beta bias: equal bars, ignoring or minimising differences; example fight-or-flight research on mostly male samples. Androcentrism: a large figure as the norm and a smaller figure judged different; example Kohlberg’s theory built from interviews with boys." loading="lazy">
+  <figcaption>Alpha exaggerates differences, beta minimises them, androcentrism makes male the norm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--09-issues-etic-emic.webp" width="900" height="920" alt="Left, an observer outside a culture looks in for universals: the etic approach. Right, an observer inside the culture studies it from within: the emic approach. Below, a tool made in culture A is applied as if universal in culture B, which is an imposed etic; the example is the Strange Situation developed in the USA." loading="lazy">
+  <figcaption>An imposed etic uses a tool built in one culture as if it were universal.</figcaption>
+</figure>
+
+
 ## Free will and determinism
 
 **Free will** is the idea that people can choose their behaviour, within limits. **Determinism** is the idea that behaviour is caused by forces we do not control.
@@ -103,6 +114,12 @@ One instruction matters more than any other here: you are "expected to illustrat
 
 **Worked paragraph.** Biological determinism explains OCD through genes and abnormal brain functioning (knowledge). For a person who checks locks many times a night, this would mean the behaviour is caused, not chosen (application). A strength is that it reduces blame and supports drug treatment; a limitation is that drug treatment does not work for everyone, and cognitive therapy, which assumes people can change their thinking, also helps some people with OCD (analysis and evaluation). Soft determinism may fit the evidence better: biology sets a vulnerability, but some control remains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--10-issues-determinism.webp" width="900" height="920" alt="A row of three positions: hard determinism (all behaviour has causes; free will is an illusion), soft determinism (behaviour has causes but some conscious choice remains) and free will (people can choose within limits). Below, three sources of cause: biological (genes, hormones, brain), environmental (learning, as in Skinner) and psychic (unconscious forces, as in Freud)." loading="lazy">
+  <figcaption>Soft determinism sits between hard determinism and free will; the three types name the cause.</figcaption>
+</figure>
+
+
 ## The nature-nurture debate
 
 **Nature** means heredity: the influence of genes inherited from parents. **Nurture** means environment: everything from prenatal conditions to culture. The specification asks about the relative importance of each.
@@ -114,6 +131,17 @@ One instruction matters more than any other here: you are "expected to illustrat
 **Examples.** Bowlby's monotropic theory sees attachment as innate (nature); learning theory explains it through conditioning (nurture). Bouchard et al. (1990) studied identical twins reared apart and estimated that around 70% of the variation in IQ in their sample was associated with genetic variation. The **diathesis-stress model** is interactionist: a vulnerability (diathesis) leads to a disorder only if a stressor triggers it. **Phenylketonuria (PKU)** is a genetic condition whose harmful effects can be prevented by a special diet, so the outcome depends on genes and environment together. **Epigenetics** studies how experience can change whether genes are switched on or off, without changing the DNA sequence.
 
 **Evaluation.** Twin studies help separate the two influences, but MZ twins may also be treated more alike than DZ twins, which inflates genetic estimates. Interactionism fits the evidence well but is harder to test, because the influences cannot be cleanly separated. Extreme positions also raise concerns: a strong nature view can be used to argue that groups cannot change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--11-issues-nature-nurture.webp" width="900" height="850" alt="A bar from nature (heredity) on the left to nurture (environment) on the right with the interactionist approach marked in the middle as both working together. Two examples of interaction: in the diathesis-stress model a vulnerability plus a stressor leads to a disorder; in PKU a gene plus a special diet means the harm is prevented." loading="lazy">
+  <figcaption>The interactionist approach says behaviour comes from nature and nurture together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--12-issues-heritability.webp" width="900" height="900" alt="A scale from 0 to 1 with a marker at 0.5, the lesson’s example. A heritability of 0.5 describes variation across a population, not half of one person’s trait. Below, identical twins show higher concordance than non-identical twins, which suggests a genetic influence." loading="lazy">
+  <figcaption>Heritability describes a population, never one individual; higher MZ than DZ concordance suggests genes.</figcaption>
+</figure>
+
 
 ## Holism and reductionism
 
@@ -132,6 +160,12 @@ One instruction matters more than any other here: you are "expected to illustrat
 
 **Worked paragraph.** Behaviourism explains a phobia as a conditioned link between a stimulus and fear (knowledge). For someone afraid of lifts, this reduces the fear to one learned association (application). It allows a precise treatment, systematic desensitisation, which targets that link (analysis). However, it ignores the person's thoughts about being trapped, which a cognitive or holistic account would include, and some people develop phobias with no remembered conditioning event (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--13-issues-levels-reductionism.webp" width="900" height="940" alt="Three stacked levels of explanation: socio-cultural (social norms, group influence), psychological (thoughts, emotions, learning) and physical or biological (brain areas, neurotransmitters, genes). An arrow down the side shows reductionism moving to lower levels. Biological reductionism explains at the lowest level; environmental stimulus-response reductionism explains by learned links. Holism studies the whole." loading="lazy">
+  <figcaption>Reductionism moves down the levels; holism keeps the whole in view.</figcaption>
+</figure>
+
+
 ## Idiographic and nomothetic approaches
 
 The terms come from the philosopher Wilhelm Windelband. Allport (1937) made them widely known in personality psychology.
@@ -143,6 +177,12 @@ The terms come from the philosopher Wilhelm Windelband. Allport (1937) made them
 
 **Evaluation.** The idiographic approach gives rich detail and can challenge a general law with one clear case, but it is hard to generalise and relies on subjective interpretation. The nomothetic approach is scientific, replicable and useful for prediction, but it can lose sight of the individual. In practice the two work together: case studies suggest hypotheses that nomothetic research then tests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--14-issues-idiographic-nomothetic.webp" width="900" height="870" alt="Left, the idiographic approach studies one individual in depth with qualitative methods such as case studies; example Phineas Gage. Right, the nomothetic approach studies groups to find general laws with quantitative methods; example Milgram. A link below shows that case studies suggest hypotheses that nomothetic research then tests." loading="lazy">
+  <figcaption>The two approaches work together: case studies suggest hypotheses, nomothetic research tests them.</figcaption>
+</figure>
+
+
 ## Social sensitivity in psychological research
 
 Sieber and Stanley (1988) described socially sensitive research as studies with potential social consequences for the participants or for the group of people the research represents. They identified issues at four points:
@@ -153,6 +193,12 @@ Sieber and Stanley (1988) described socially sensitive research as studies with 
 4. **Interpretation and application:** how findings may shape policy or public opinion.
 
 **Evaluation.** Socially sensitive research can benefit the groups studied, for example by showing the value of early support. Avoiding it entirely could leave important questions unanswered. But researchers often cannot control how others use their findings. Bowlby's theory of maternal deprivation, for example, was used in public debate to argue that mothers of young children should not go out to work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--15-issues-social-sensitivity.webp" width="900" height="890" alt="Four numbered points in a chain, from Sieber and Stanley: the research question, the conduct of the research, the institutional context and the interpretation and application of findings. Each has a short prompt, such as whether asking the question could cause harm, protecting participants through confidentiality, who funds the research and how findings shape policy or opinion." loading="lazy">
+  <figcaption>Socially sensitive issues can arise at four points in a study.</figcaption>
+</figure>
+
 
 ## Common errors
 

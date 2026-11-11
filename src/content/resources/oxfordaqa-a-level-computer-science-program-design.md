@@ -100,6 +100,17 @@ Gym class booking
 
 Read across each row: `Check spaces` needs the class code and returns the number of spaces. That tells you its parameter list and return value before you write any code.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-program-design--01-pd-hierarchy.webp" width="900" height="690" alt="A tree with &quot;Gym class booking&quot; at the top. Under it are four modules: Read member ID, Choose class, Check spaces and Confirm booking. Choose class has two modules below it: Show timetable and Validate choice. Confirm booking has two below it: Update register and Print receipt. Lines show which module calls which; there are no decisions, loops or data." loading="lazy">
+  <figcaption>A hierarchy chart is a tree of modules: the whole program at the top, each module under the module that calls it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-program-design--02-pd-structure.webp" width="900" height="780" alt="The main module &quot;Gym class booking&quot; on the left is joined to four modules on the right. Read member ID returns memberID. Choose class returns classCode. Check spaces is passed classCode and returns spacesLeft. Confirm booking is passed memberID and classCode and returns nothing. Arrows to the right show data passed in; arrows to the left show values returned." loading="lazy">
+  <figcaption>A structure chart adds the data: parameters passed down into a module and values returned back up.</figcaption>
+</figure>
+
+
 ## 3.3.2 Abstraction and decomposition
 
 **Abstraction** is removing unnecessary details from a problem to make it easier to solve. You keep only what the solution needs.
@@ -121,6 +132,17 @@ Produce monthly bill
 ```
 
 Decomposition gives you the shape of a hierarchy chart. Abstraction decides what data flows through it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-program-design--03-pd-decompose.webp" width="900" height="690" alt="A tree starts with &quot;Produce monthly bill&quot; and splits it into four sub-problems: Get readings, Calculate units used, Calculate charge and Output bill. Calculate charge is split again into Apply unit rate and Add standing charge. Each box is one identifiable task." loading="lazy">
+  <figcaption>Decomposition breaks a problem into sub-problems, and a sub-problem can be broken down again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-program-design--04-pd-abstraction.webp" width="900" height="792" alt="Seven details of a real parcel locker are listed. Four are kept and flow into a record with four fields: locker number, size, occupied or not, and collection code. Three are left out, marked with crosses: the locker colour, the metal it is made from, and the courier vehicle." loading="lazy">
+  <figcaption>Abstraction removes unnecessary detail, leaving a simple data model: one record per locker with four fields.</figcaption>
+</figure>
+
 
 ## 3.3.3 Following and writing algorithms
 
@@ -199,6 +221,12 @@ print(longest_wet_run([0, 3, 5, 0, 2, 4, 1, 0]))   # 3
 
 When you convert, check three things. Loop bounds: `FOR i ← 0 TO LEN − 1` covers every index, as does Python's `for value in readings`. Assignment versus comparison: `←` becomes `=`, while the pseudo-code `=` in a condition becomes `==`. Output versus return: if the question asks for a subroutine, return the value rather than printing it. C# and VB.Net versions follow the same structure with their own syntax.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-program-design--05-pd-trace.webp" width="900" height="670" alt="A table with one column per loop pass i from 0 to 7. The readings row is 0, 3, 5, 0, 2, 4, 1, 0, with wet days shaded. The current row counts the wet run: 0, 1, 2, 0, 1, 2, 3, 0. The best row is 0, 1, 2, 2, 2, 2, 3, 3. A bracket under indexes 4 to 6 marks the longest run, so the output is 3." loading="lazy">
+  <figcaption>Reading down each column shows one pass of the loop: current counts the wet run and best keeps the largest value.</figcaption>
+</figure>
+
+
 ## 3.3.4 Aspects of software development
 
 The specification lists five aspects. You need to be aware of each and know the evaluation criteria.
@@ -244,6 +272,17 @@ The specification's criteria for evaluating a computer system include:
 - **Correctness**: does it produce the right results for all valid inputs, and handle invalid ones properly?
 - **Efficiency**: does it use reasonable time and memory for the task?
 - **Maintainability**: can another programmer understand, correct and extend it? Meaningful names, comments, modules with clear interfaces and local variables all help.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-program-design--06-pd-testdata.webp" width="900" height="740" alt="A number line of password lengths from 0 to 20 with the accepted band from 10 to 16 shaded. Normal test: length 12, accept. Boundary tests: 9 and 17 are just outside and are rejected; 10 and 16 are on the edges and are accepted. Erroneous tests: lengths 0 and 40 are rejected." loading="lazy">
+  <figcaption>Boundary tests sit on both edges of the valid range and just outside it; erroneous data should always be rejected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-program-design--07-pd-lifecycle.webp" width="900" height="880" alt="Five stages stacked top to bottom with arrows between them: Analysis (define the problem and requirements), Design (data, algorithms, interface), Implementation (code it, critical path first), Testing (normal, boundary, erroneous data) and Evaluation (correct, efficient, maintainable). An arrow on the right goes from the bottom back to the top, showing that development can be iterative using prototyping or an agile approach." loading="lazy">
+  <figcaption>The five aspects of software development, which can be repeated iteratively with prototyping or an agile approach.</figcaption>
+</figure>
+
 
 ## Common errors
 

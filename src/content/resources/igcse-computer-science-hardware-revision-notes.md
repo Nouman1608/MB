@@ -59,6 +59,22 @@ improve performance — but be ready to say *why*, not just list them.
 **Embedded system** = one dedicated function (a washing machine
 controller); a PC is general-purpose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--14-hw-von-neumann.webp" width="900" height="990" alt="The CPU holds five registers (PC, MAR, MDR, CIR, ACC) and two units (CU and ALU). The address bus, data bus and control bus link the CPU to RAM." loading="lazy">
+  <figcaption>The CPU's registers and units connect to RAM through the address, data and control buses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--15-hw-fde-cycle.webp" width="900" height="960" alt="Fetch: the PC value goes to the MAR, the address bus sends it to RAM, and the instruction returns on the data bus through the MDR to the CIR. Decode: the CU works out the instruction. Execute: the ALU carries it out and the result goes to the ACC. The cycle then repeats." loading="lazy">
+  <figcaption>Each instruction is fetched, decoded and executed, then the cycle repeats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--16-hw-cpu-performance.webp" width="900" height="1030" alt="A CPU with more cores, a larger cache or a faster clock speed can perform better. The pictures compare one core with four, a small cache with a large one, and a slower clock with a faster one." loading="lazy">
+  <figcaption>More cores, a larger cache and a faster clock can each improve CPU performance.</figcaption>
+</figure>
+
+
 ## 3.2 Input, output and sensors
 
 | Category | Named examples |
@@ -71,6 +87,12 @@ Scenario questions ("a greenhouse needs to monitor...") test whether
 you can match a sensor to what it *measures* — build a quick-recall
 table of sensor → measured quantity rather than memorising the list
 alphabetically.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--17-hw-sensors.webp" width="900" height="852" alt="A greenhouse uses temperature, humidity, light and moisture sensors. Ten other sensors named in the syllabus are listed below: acoustic, accelerometer, flow, gas, infra-red, level, magnetic field, pH, pressure and proximity." loading="lazy">
+  <figcaption>A greenhouse scenario shows four sensors; the other named sensors are listed.</figcaption>
+</figure>
+
 
 ## 3.3 Data storage
 
@@ -86,6 +108,17 @@ alphabetically.
 full. **Cloud storage**: remote access vs needing physical local
 servers — know one advantage and one disadvantage of each side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--18-hw-secondary-storage.webp" width="900" height="1210" alt="A magnetic disk has tracks and sectors read by an electromagnet. An optical disc has pits and lands read by a laser. A solid-state flash cell has a control gate above a floating gate. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Three secondary storage technologies store data in different physical ways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--19-hw-primary-virtual.webp" width="900" height="870" alt="The CPU accesses RAM (volatile) and ROM (non-volatile) directly; secondary storage is not accessed directly. When RAM is full, pages are swapped between RAM and virtual memory. Page letters are illustrative." loading="lazy">
+  <figcaption>RAM and ROM are primary storage; virtual memory swaps pages with RAM.</figcaption>
+</figure>
+
+
 ## 3.4 Network hardware
 
 - **NIC** — required to access a network.
@@ -98,6 +131,12 @@ addresses, connects a local network to the internet.
 
 Links to Topic 2 (Data transmission): a router directing packets
 builds directly on packet-switching — revise both together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--20-hw-network.webp" width="900" height="990" alt="A computer needs a NIC to join a network. Its MAC address is set at manufacture and has a manufacturer code and a serial code. The network gives it an IP address, which can be static or dynamic. A router connects the local network to the internet. Example addresses are illustrative." loading="lazy">
+  <figcaption>A NIC has a fixed MAC address; the network allocates an IP address; a router links to the internet.</figcaption>
+</figure>
+
 
 ## Worked example: tracing an instruction through the FDE cycle
 

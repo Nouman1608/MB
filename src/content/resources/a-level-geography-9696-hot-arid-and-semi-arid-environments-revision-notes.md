@@ -70,6 +70,17 @@ Use the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geography/),
 | Salinisation | Build-up of salts at the surface after capillary rise and evaporation |
 | Desertification | Land degradation in drylands from climatic variations and human activities (UNCCD) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--01-ha-aridity-index.webp" width="900" height="1125" alt="A vertical scale of the P/PET aridity index with four bands: hyper-arid below 0.05, arid 0.05 to 0.20, semi-arid 0.20 to 0.50 and dry sub-humid 0.50 to 0.65. Two illustrative examples are marked: 100 divided by 1,000 gives 0.10 (arid) and 300 divided by 1,000 gives 0.30 (semi-arid)." loading="lazy">
+  <figcaption>The aridity index compares precipitation with potential evapotranspiration, so a hot place can be arid even with some rain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--02-ha-causes-of-aridity.webp" width="900" height="1210" alt="Three side-view schematics. Air sinking at 20 to 30 degrees latitude warms and dries; a cold ocean current creates an inversion that stops convection and gives fog; and a mountain range creates a rain shadow on its lee side." loading="lazy">
+  <figcaption>Three causes of aridity: sinking air, cold ocean currents and rain shadow.</figcaption>
+</figure>
+
+
 ## Processes and landforms at a glance
 
 | Landform | Main process | Key point to explain |
@@ -83,6 +94,27 @@ Use the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geography/),
 | Pediment | Sheet flood erosion and slope retreat | Gentle bedrock slope; piedmont angle |
 | Playa / salt lake | Deposition and evaporation | Lowest point of enclosed basin |
 | Inselberg | Deep weathering and stripping, or scarp retreat | Isolated steep hill on a plain, e.g. Uluru |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--03-ha-weathering.webp" width="900" height="1040" alt="Four small schematics: rock expanding by day and shrinking at night; outer shells peeling from a boulder with moisture needed; salt crystals growing in pores and pushing grains apart; and slow chemical weathering helped by dew, with a dark desert varnish coating." loading="lazy">
+  <figcaption>Desert weathering depends on heating and cooling, but moisture and salt matter too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--04-ha-wind-transport.webp" width="900" height="830" alt="A side view of wind moving particles: dust in suspension high above the ground, sand grains bouncing in arcs within about one to two metres in saltation, larger grains rolling in traction, and a rock outcrop worn most strongly near the ground by abrasion." loading="lazy">
+  <figcaption>Saltating sand stays low, so abrasion is strongest near the ground.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--05-ha-dune-types.webp" width="900" height="1180" alt="Plan views of three dune types: a crescent-shaped barchan with horns pointing downwind (one wind direction, limited sand), long seif ridges (two alternating wind directions) and a star dune with radiating arms (winds from many directions)." loading="lazy">
+  <figcaption>Dune shape depends on the number of wind directions and the sand supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--06-ha-piedmont-landforms.webp" width="900" height="830" alt="A cross-section from a steep mountain front to a desert basin: the piedmont angle, a gently sloping pediment with an inselberg, alluvial fans (coarse at the apex, finer at the edge) merging into a bahada, and a playa with a salt crust." loading="lazy">
+  <figcaption>Landforms of the piedmont zone follow the path of floodwater from mountain to basin.</figcaption>
+</figure>
+
 
 ## Studies and examples at a glance
 
@@ -116,6 +148,12 @@ Use the [Cambridge A Level Geography hub](/boards/cambridge/a-level/geography/),
 - **Fragility.** Damaged plant cover and soil crusts recover slowly, sometimes over decades.
 - **Adaptations.** Succulents store water and open stomata at night; phreatophytes send roots deep to groundwater; ephemerals survive as dormant seeds; xerophytes have small, waxy or spiny leaves; halophytes tolerate salt. Pale, hairy surfaces and upright leaves limit heating.
 - **Salinisation.** Capillary rise plus evaporation leaves salts at the surface; over-irrigation without drainage raises the water table and speeds this up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--07-ha-salinisation.webp" width="900" height="940" alt="A soil cross-section showing capillary rise from the water table, evaporation leaving a salt crust, irrigation raising the water table, and a magnified root cell where salty soil water has more solutes than the cell, so osmosis works against the plant." loading="lazy">
+  <figcaption>Salinisation causes physiological drought: the water is there but the plant cannot take it up.</figcaption>
+</figure>
+
 
 ## Mini essay plan
 

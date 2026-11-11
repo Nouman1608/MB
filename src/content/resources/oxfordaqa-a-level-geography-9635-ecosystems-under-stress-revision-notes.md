@@ -56,6 +56,22 @@ Practise with the [practice questions](/resources/oxfordaqa-a-level-geography-96
 | Coral bleaching | Corals expel their algae under stress, often heat, and turn white |
 | Ocean acidification | Fall in seawater pH as the ocean absorbs carbon dioxide |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--14-energy-trophic.webp" width="900" height="980" alt="Four stacked bars from producers at the bottom to tertiary consumers at the top. Sunlight enters at the producers. About 10 percent of the energy passes up each level, shown with illustrative values 10,000, 1,000, 100 and 10 units. The rest leaves as heat from respiration and undigested waste. Because so little passes on, food chains rarely exceed four or five levels. Bar widths are not to scale." loading="lazy">
+  <figcaption>Only about 10% of energy passes up each trophic level, so food chains rarely exceed four or five levels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--17-climax-types.webp" width="900" height="680" alt="A flow diagram of succession. Pioneers lead through seral stages to the climatic climax, which for lowland Britain is oak woodland. If a natural factor such as poor drainage or regular disturbance halts succession early, the result is a sub-climax. If continuing human activity such as grazing, burning or trampling holds it back, the result is a plagioclimax, for example grazed heath at Studland." loading="lazy">
+  <figcaption>A natural halt gives a sub-climax; continuing human activity gives a plagioclimax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--18-coral-bleaching.webp" width="900" height="820" alt="Two coral polyps side by side. Healthy: the polyp holds algae called zooxanthellae, which photosynthesise in sunlight and feed the coral. Marine heatwave: warmer water makes the coral expel its algae, so the coral turns pale. This is bleaching, not death: bleached coral can recover if conditions improve quickly. Reefs grow in about 23 to 29 degrees Celsius water." loading="lazy">
+  <figcaption>Heat stress makes corals expel their algae; bleached coral can recover if conditions improve quickly.</figcaption>
+</figure>
+
+
 ## Systems and nutrients in one view
 
 - **Inputs**: sunlight, precipitation, nutrients from weathering and rain.
@@ -93,6 +109,22 @@ Practise with the [practice questions](/resources/oxfordaqa-a-level-geography-96
 | Rondônia, Brazil (3.3.2.7 region) | Amazon frontier region | BR-364 paved in the 1980s; population about 117,000 (1970) to over 1.1 million (1991); about 70,000 km² cleared by 2003; "fishbone" clearance; cattle and soy economy; Uru-Eu-Wau-Wau Indigenous Territory | Forest Code and satellite monitoring helped cut Amazon clearance after 2004, but enforcement varies with politics |
 
 Biodiversity trend data: the WWF Living Planet Report 2024 found an average 73% decline in monitored wildlife populations between 1970 and 2020; the 2019 IPBES assessment estimated around one million species threatened with extinction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--13-biodiversity-decline.webp" width="900" height="900" alt="Three tall bars, each starting at 100 percent for the 1970 level. Average monitored wildlife populations fell 73 percent, leaving 27 percent. Freshwater populations fell 85 percent, leaving 15. Latin America and the Caribbean fell 95 percent, leaving 5. The figure is an average change in monitored vertebrate populations, not a count of species lost. Separately, around one million species are estimated to be threatened with extinction." loading="lazy">
+  <figcaption>Monitored wildlife populations fell by an average of 73% from 1970 to 2020, and by more in freshwater and in Latin America and the Caribbean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--16-psammosere-profile.webp" width="900" height="920" alt="A schematic cross-section from the sea on the left to heath on the right, not to scale. Five zones follow the sequence of a psammosere: 1 embryo dunes with salt-tolerant pioneers; 2 fore and yellow dunes with marram grass; 3 grey dunes with more humus, mosses and lichens and falling pH; 4 dune slacks, damp hollows near the water table; 5 heath and scrub with heather, gorse, birch and pine. Ground further inland is older, the space-for-time assumption." loading="lazy">
+  <figcaption>A sand dune succession runs from embryo dunes through marram and grey dunes to slacks, heath and scrub.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--19-rondonia-clearance.webp" width="900" height="1030" alt="Top: a schematic fishbone pattern, not a map. A main highway runs across a forest area, with side roads branching off both sides and strips of cleared land along each. Bottom left: Rondônia population rose from about 117,000 in 1970 to over 1.1 million in 1991, about nine times larger. Bottom right: rainforest once covered over 200,000 square kilometres and around 70,000 square kilometres, about 35 percent, had been cleared by 2003." loading="lazy">
+  <figcaption>Roads and settlement drove forest clearance in Rondônia: about 70,000 km² of over 200,000 km² had gone by 2003.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -156,6 +188,12 @@ Biodiversity trend data: the WWF Living Planet Report 2024 found an average 73% 
 - Classing warming and acidification as purely natural without noting the human cause.
 - Using the region case study to describe deforestation only, without the community's economic, social and political character.
 - Ending an evaluation essay with no clear judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--15-nutrient-stores.webp" width="900" height="1110" alt="Two three-store nutrient cycling models, with circle size showing the size of each store (illustrative). In tropical rainforest the biomass store is largest and the litter store is small because litter decomposes fast in hot, wet conditions. In savanna more nutrients sit in the soil. Arrows show leaf fall from biomass to litter, decomposition from litter to soil, and uptake from soil back to biomass." loading="lazy">
+  <figcaption>In rainforest the biomass store is largest and litter small; in savanna more nutrients sit in the soil.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

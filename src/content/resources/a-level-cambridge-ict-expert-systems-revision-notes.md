@@ -64,6 +64,12 @@ Key words for full credit: **knowledge of experts**, **rules**, **possible** sol
 - **User interface vs knowledge base editor:** the user enters **case data** through the interface; the editor changes the **stored knowledge**.
 - **Facts vs rules:** a fact states something ("species Q has smooth leaves"); a rule links conditions to a conclusion ("IF … THEN …").
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--08-xs-components.webp" width="900" height="970" alt="The user talks to a user interface, which passes answers to the inference engine. The engine reasons with a knowledge base made of a database of facts and a rules base of IF THEN rules. An explanation system explains how and why, and a knowledge base editor used by the knowledge engineer changes facts and rules." loading="lazy">
+  <figcaption>The five components of an expert system and how they connect.</figcaption>
+</figure>
+
+
 ## How a possible solution is produced (method in steps)
 
 1. User interface asks a question; user answers.
@@ -73,6 +79,12 @@ Key words for full credit: **knowledge of experts**, **rules**, **possible** sol
 5. Repeat, asking further questions only where needed.
 6. Display possible solutions (often ranked or with probabilities).
 7. Explanation system available on request.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--09-xs-cycle.webp" width="900" height="930" alt="Six steps in order: the interface asks a question; the answer is added to the facts; the engine compares facts with rules; a rule fires and adds a new fact, looping back; possible solutions are shown; the explanation system shows why and how." loading="lazy">
+  <figcaption>The cycle repeats until the system can show possible solutions.</figcaption>
+</figure>
+
 
 ## IF…THEN rules and chaining
 
@@ -91,12 +103,24 @@ Key words for full credit: **knowledge of experts**, **rules**, **possible** sol
 3. Repeat passes until a full pass adds nothing.
 4. State the rules in the order they fired and the final conclusion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--10-xs-forward.webp" width="900" height="1010" alt="Facts: engine does not crank, headlights dim, battery over 5 years old. R1 fires first (new fact: battery charge is low), then R2 fires, giving the advice to replace the battery. R3, R4 and R5 do not fire." loading="lazy">
+  <figcaption>Forward chaining fires rules R1 then R2, ending with the advice to replace the battery.</figcaption>
+</figure>
+
+
 ### Method in steps: tracing backward chaining
 
 1. Take the goal. Find a rule whose THEN part is that goal.
 2. Treat each IF condition as a sub-goal. Prove it from known facts, from another rule, or by asking the user.
 3. If any condition fails, reject that rule (or goal) and try the next one.
 4. Never ask the same question twice: reuse answers already given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--11-xs-backward.webp" width="900" height="740" alt="The goal plant is X needs hairy leaves (asked, yes) and white flowers (asked, no), so X is rejected. The goal plant is W needs hairy leaves (already known) and yellow flowers (asked, yes), so W is proved. Three questions were asked; the stem was never needed." loading="lazy">
+  <figcaption>Backward chaining tests one goal at a time and asks only what it needs.</figcaption>
+</figure>
+
 
 ### Worked reminder (forward chaining, investment analysis)
 
@@ -118,6 +142,12 @@ Facts: 7 years to retirement; attitude to risk is low. R1 fires (horizon short).
 | Gaming | Character reacts to the current game state (IF player in range THEN attack) | Character has a goal and plans the steps backward to reach it |
 | AI for manipulating social media | Activity data (likes, shares, viewing time) used to infer interests and choose content | Start from a goal (more time online, see a message) and choose content and timing to achieve it |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--12-xs-direction.webp" width="900" height="890" alt="Data driven (forward chaining): a game character starts from a fact, the player is within range, a rule fires and the result is attack. Goal driven (backward chaining): the goal is to capture the object, which needs reaching the room, which needs opening the door." loading="lazy">
+  <figcaption>Data driven reasoning runs from facts to conclusions; goal driven reasoning runs from a goal back to the facts it needs.</figcaption>
+</figure>
+
+
 ## Scenarios: one line each
 
 | Scenario | Input → possible solution |
@@ -132,6 +162,12 @@ Facts: 7 years to retirement; attitude to risk is low. R1 fires (horizon short).
 | Plant and animal identification | Observed features → most likely species |
 
 Identification questions should test **one feature at a time**, like the couplets of a classification key.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--13-xs-scenarios.webp" width="900" height="970" alt="Eight scenarios and their possible solutions: mineral prospecting (deposit sites), investment analysis (buy, hold or sell), financial planning (saving plan), insurance planning (risk level and premium), car fault diagnosis (likely repairs), medical diagnosis (possible conditions), route scheduling (order of stops), plant and animal identification (likely species)." loading="lazy">
+  <figcaption>Each scenario takes in data and produces possible solutions.</figcaption>
+</figure>
+
 
 ## Advantages and disadvantages
 

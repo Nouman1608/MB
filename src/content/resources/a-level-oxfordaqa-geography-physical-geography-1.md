@@ -86,6 +86,12 @@ Risk = hazard x vulnerability / capacity to cope
 
 The **Park model** (disaster response curve) traces relief, rehabilitation and reconstruction, and comparing curves for different countries is a standard exam task. The **hazard management cycle** runs preparedness, response, recovery, mitigation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--06-hazard-risk-disaster.webp" width="900" height="890" alt="Two communities face an identical hazard. The first has a tall defence representing high capacity to cope, so the hazard passes without disaster. The second has a short defence, so the hazard overwhelms it and floods the houses, which is a disaster. Using illustrative numbers in the risk equation, risk is 1.75 for the first and 28 for the second." loading="lazy">
+  <figcaption>An identical hazard becomes a disaster only where it overwhelms a community’s capacity to cope.</figcaption>
+</figure>
+
+
 ## Tectonic hazards
 
 Plate movement is driven by mantle convection, ridge push and slab pull.
@@ -101,11 +107,23 @@ Plate movement is driven by mantle convection, ridge push and slab pull.
 
 **Volcanic** hazards: lava flows, pyroclastic flows, lahars, ash falls, gases. Prediction is more reliable for volcanoes than for earthquakes, because precursors — seismicity, ground deformation, gas emission — are measurable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--07-plate-margin-hazards.webp" width="900" height="1220" alt="Four labelled cross-sections show the plate margins. At a constructive margin plates move apart with magma rising between them under a low shield volcano. At a destructive margin an oceanic plate dips beneath a continental plate with a composite volcano above and earthquake points down the sloping plate. At a collision margin two continental blocks push together and crumple into fold mountains. At a conservative margin two blocks slide past each other along a fault with an earthquake at the fault." loading="lazy">
+  <figcaption>Each plate margin type has its own characteristic hazards; volcanoes belong at constructive and destructive margins only.</figcaption>
+</figure>
+
+
 ## Storm hazards
 
 Tropical storms require sea temperatures above about 27 degrees Celsius to a depth of 60 metres, latitudes between 5 and 30 degrees for Coriolis deflection, low wind shear, and convergence in the lower atmosphere.
 
 The specification's forms of storm hazard are high winds, **storm surges** (usually the greatest killer), coastal flooding, river flooding and landslides. Responses are short and long term, with risk management designed to reduce impacts through **preparedness, mitigation, prevention and adaptation** (3.1.1.5) — for river flooding, for example, forecasting and warnings, floodplain zoning, and engineered defences such as levées.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--08-tropical-storm-conditions.webp" width="900" height="870" alt="Four small panels show what a tropical storm needs. A warm sea layer of 27 degrees Celsius or more reaches 60 metres deep. The storm forms in two bands between 5 and 30 degrees latitude either side of the equator, where Coriolis deflection works. Winds must have low shear, so cloud grows upright rather than tilting. Winds must converge in the lower atmosphere, forcing air to rise." loading="lazy">
+  <figcaption>Tropical storms need warm deep sea, latitude 5° to 30°, low wind shear and convergence in the lower atmosphere.</figcaption>
+</figure>
+
 
 ## Coastal systems and landscapes (Option 1b)
 
@@ -116,6 +134,27 @@ These processes produce a characteristic set of **landforms**. Differential eros
 Wave type also matters: **constructive waves** are low and have a long wavelength, with swash stronger than backwash, so they build beaches up; **destructive waves** are high with a short wavelength, and their strong backwash pulls material away, eroding beaches.
 
 Coastlines are best understood as a **sediment cell** -- a largely closed system of sources, transfers and sinks of material. This framing explains why coastal management in one location affects another: groynes built to trap sediment for one beach starve the beach further along the drift direction of material, causing erosion there instead. Management choices split into **hard engineering** (sea walls, groynes, rip-rap) and **soft engineering** (beach nourishment, dune stabilisation, managed retreat). **Managed retreat** -- deliberately allowing the sea to reclaim land rather than defending it -- is increasingly favoured on cost and sustainability grounds, but remains socially contentious wherever it means abandoning inhabited or farmed land.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--09-longshore-drift.webp" width="900" height="900" alt="Seen from above, wave fronts approach a straight shoreline at an angle. A pebble is carried up the beach along the wave direction by each swash, then drawn straight back down by backwash. The repeated zigzag moves the pebble steadily sideways along the shore, which is longshore drift." loading="lazy">
+  <figcaption>Swash moves sediment up the beach at an angle, backwash returns it straight down, so material zigzags along the shore.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--10-headland-cave-arch-stack-stump.webp" width="900" height="1090" alt="Five side-view drawings of a rocky headland in order. First a crack at the waterline, then a cave, then an arch with sea passing through, then after the roof collapses an isolated stack, and finally a low stump just above the water." loading="lazy">
+  <figcaption>Wave erosion turns a line of weakness into a cave, an arch, a stack and finally a stump.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--11-constructive-destructive-waves.webp" width="900" height="900" alt="Two beach profiles. In the first a low, long wave sends a long swash arrow up the beach and a short backwash arrow down, and extra sand is added to the beach. In the second a high, short wave has a short swash arrow and a long backwash arrow, and sand is removed from the beach." loading="lazy">
+  <figcaption>Constructive waves have stronger swash and build beaches; destructive waves have stronger backwash and erode them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--12-groyne-sediment-starvation.webp" width="900" height="800" alt="From above, a straight beach has a groyne sticking out into the sea. Sand has piled up in a wide beach on the side the drift comes from, while the beach on the far side is narrow and eroding, with houses close behind. Labels list hard engineering methods and soft engineering methods." loading="lazy">
+  <figcaption>Groynes trap sediment on one side but starve the beach further along the drift direction, causing erosion there.</figcaption>
+</figure>
+
 
 ## Worked example
 

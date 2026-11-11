@@ -67,6 +67,12 @@ either directly or through exploring the effect of the writer's choices
 for the specific examination series — always confirm the current list
 against the syllabus grid for the year being examined, since it rotates
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--08-p1-routes.webp" width="900" height="740" alt="Paper 1 is compulsory and leads to one of three routes: Paper 2; Paper 3 plus Paper 4; or Paper 3 plus Component 5." loading="lazy">
+  <figcaption>Paper 1 is universal; the route after it varies.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because relevant passages are printed on the paper, Paper 1 is not
@@ -84,6 +90,12 @@ practice answering the exact essay-style prompts used in past papers,
 for the texts actually being studied, is the most direct way to build
 that habit before the real exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--09-p1-four-aos.webp" width="900" height="760" alt="Four steps AO1 to AO4: what happens, what it reveals, how it is achieved, your response. A dashed line after AO2 marks where accurate but descriptive answers stop." loading="lazy">
+  <figcaption>Push beyond AO1 and AO2 into the writer’s methods and your own response.</figcaption>
+</figure>
+
+
 ## The command word "Explore"
 
 "Explore" is the one command word Cambridge formally defines for this
@@ -96,6 +108,12 @@ moments. Two or three closely analysed quotations, each unpacked for
 language, structure and effect, will consistently outscore six
 quotations that are each mentioned only briefly — breadth of coverage
 is not what earns marks on Paper 1, depth of analysis is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--10-p1-explore-depth.webp" width="900" height="790" alt="Six short single-layer columns for brief quotations contrast with three tall three-layer columns (language, structure, effect) for closely analysed ones; depth earns the marks." loading="lazy">
+  <figcaption>Explore means sustained detail on a few well-chosen moments.</figcaption>
+</figure>
+
 
 ## Building an answer that satisfies all four AOs together
 
@@ -132,6 +150,12 @@ objectives, and the specific ways marks are most often lost — see the
 which build directly on the format and assessment objectives
 introduced here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--11-p1-paragraph.webp" width="900" height="880" alt="Four linked steps: a point, a short exact quotation, analysis of language or structure, and a link to intention or effect. A crossed-out I think bubble shows personal response should not be bolted on." loading="lazy">
+  <figcaption>Fold the objectives into one paragraph rather than boxing them separately.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **Is Paper 1 compulsory for 0475?**
@@ -158,8 +182,20 @@ Prose, now open text, plus either Paper 2 Drama and Unseen or a
 50-mark coursework component). Confirm which syllabus cycle your candidates are sitting before
 revising from this guide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--12-p1-syllabus-change.webp" width="900" height="740" alt="Timeline of 2026 series, 2027 syllabus and 2028-2030 restructure. Four papers plus coursework become two components; Paper 1 becomes open text and Paper 2 becomes drama and unseen." loading="lazy">
+  <figcaption>The structure changes from the 2028-2030 cycle.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Cambridge IGCSE English Literature 0475 syllabus for 2026 (Version 2,
 December 2025) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-1-poetry-and-prose--07-p1-format.webp" width="900" height="840" alt="Marks bar 25 + 25 = 50, time bar 90 minutes split roughly evenly, one question per section from a choice of two, extract printed on the paper, set texts not allowed in the room." loading="lazy">
+  <figcaption>Two 25-mark answers share 90 minutes.</figcaption>
+</figure>
+

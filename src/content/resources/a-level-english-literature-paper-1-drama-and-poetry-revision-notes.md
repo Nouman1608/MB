@@ -44,6 +44,22 @@ Condensed for the final weeks. For the full explanation, use the
 | Materials | **Set texts and dictionaries are not allowed** in the exam room |
 | Route | Forms **half of the AS Level award**, alongside Paper 2 (Prose and Unseen) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--08-paper1-where-it-sits.webp" width="900" height="760" alt="Papers 1 and 2 make up the AS Level award; Papers 3 and 4 are added for the full A Level. Paper 1 is outlined." loading="lazy">
+  <figcaption>Paper 1 is one of the two AS papers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--09-paper1-format.webp" width="900" height="870" alt="Paper 1 lasts 2 hours and is worth 50 marks, 25 for Drama and 25 for Poetry. Set texts and dictionaries are not allowed. One question is answered from each section." loading="lazy">
+  <figcaption>Two hours, 50 marks, one question from each section.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--10-paper1-question-types.webp" width="900" height="1010" alt="Question (a) is a discursive essay on the whole text with no extract; question (b) is anchored to a printed passage or poem needing line-level commentary linked to the whole text. Neither is easier." loading="lazy">
+  <figcaption>Choose (a) breadth or (b) precision, whichever suits you.</figcaption>
+</figure>
+
+
 ## Assessment objectives
 
 All four objectives are assessed on **every** question on this paper, each weighted **25%**.
@@ -56,6 +72,12 @@ All four objectives are assessed on **every** question on this paper, each weigh
 | **AO4** | Communication — communicate a **relevant, structured, well-supported** response |
 
 **AO5 (Evaluation of opinion)** is not assessed on Paper 1 — it appears only on Papers 3 and 4, alongside the higher A Level weighting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--11-paper1-assessment-objectives.webp" width="900" height="930" alt="A ring of four equal 25% slices for AO1 to AO4. AO5 is not assessed on Paper 1 and appears only on Papers 3 and 4." loading="lazy">
+  <figcaption>All four objectives carry 25% each; AO5 is not on this paper.</figcaption>
+</figure>
+
 
 ## The (a) vs (b) choice
 
@@ -91,6 +113,12 @@ Naming a technique earns little; the mark is in the **effect**. A few reliable p
 - Practise **both sections in one timed sitting**, not separately — pacing across the full two hours is a skill in itself, and it is where marks are commonly lost even by well-prepared candidates.
 - **Specific textual evidence beats generic structure.** An essay with a simple shape but precise, well-chosen quotation consistently outscores a confidently structured essay with thin support.
 - Always check the **current set-text grid** for your own examination series before revising — set texts rotate by year, and these notes deliberately cover the paper's stable structure and skills rather than any named text.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-1-drama-and-poetry--12-paper1-name-then-explain.webp" width="900" height="940" alt="Naming a technique alone earns little; explaining its effect on meaning or tone at that point leads to higher bands. Drama: staging, dramatic irony, audience response. Poetry: word choice and imagery, sound, rhythm and metre, form and structure." loading="lazy">
+  <figcaption>Name the technique, then explain its effect at that point.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

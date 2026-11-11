@@ -78,6 +78,12 @@ Tsarist autocracy from the assassination of Alexander II, the causes
 and course of the 1917 revolutions, and the consolidation of
 Bolshevik power through to Lenin's death
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-modern-europe-1750-1921--07-wh-eur-rotation.webp" width="900" height="732" alt="A grid of the three European Option topics against 2027, 2028 and 2029. Gold marks Paper 1 (Historical Sources), teal marks Paper 2 (Outline Study). France is Paper 1 in 2027, Germany in 2028, Russia in 2029." loading="lazy">
+  <figcaption>Each topic is on Paper 1 once in three years and on Paper 2 in the other two.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because Paper 1 (Historical Sources) and Paper 2 (Outline Study) test
@@ -124,6 +130,12 @@ rotation, a candidate cannot safely prepare document-analysis technique for only
 for only the others — both skill sets need to be practised against all three topics, since the rotation
 determines which topic needs which skill in the candidate's own exam series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-modern-europe-1750-1921--09-wh-eur-papers.webp" width="900" height="930" alt="Using 2027 as the example, France goes to Paper 1 (four sources: three written, one visual) and Germany and Russia go to Paper 2 (extended essays). All three topics need both skills." loading="lazy">
+  <figcaption>Paper 1 analyses sources on one topic; Paper 2 sets essays on the other two.</figcaption>
+</figure>
+
+
 ## Building connected causation across each period
 
 | Period | A weak answer treats causes as... | A strong answer treats causes as... |
@@ -135,6 +147,22 @@ determines which topic needs which skill in the candidate's own exam series.
 This "chain, not list" approach is the single most consistently rewarded essay-writing habit across
 all three periods, and it transfers directly regardless of which specific period an exam question
 happens to draw on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-modern-europe-1750-1921--10-wh-eur-france-chain.webp" width="900" height="984" alt="Top: financial crisis, social inequality and Enlightenment ideas as three unlinked boxes. Below: the same causes as a chain, financial crisis exposed by war debt, worsened by social inequality, given shape by Enlightenment ideas, together producing revolution, whose instability led to Napoleon’s rise." loading="lazy">
+  <figcaption>A strong answer links the causes into a chain from financial crisis to Napoleon’s rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-modern-europe-1750-1921--11-wh-eur-germany-converge.webp" width="900" height="880" alt="Top: three parallel arrows for liberal ideas, nationalist ideas and Prussian politics and military strategy that never meet. Below: the same three arrows converge on German unification." loading="lazy">
+  <figcaption>Liberal and nationalist pressures interact with Prussian strategy instead of running in parallel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-modern-europe-1750-1921--12-wh-eur-russia-chain.webp" width="900" height="892" alt="A four-step chain: strains on autocracy from 1881, Tsarist failures producing the 1917 revolutions, the Bolsheviks seizing power, and the Bolsheviks consolidating through to Lenin’s death in 1924." loading="lazy">
+  <figcaption>Russia 1881-1924 is one connected chain, not just 1917.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -152,3 +180,9 @@ The three topics in each AS option rotate between Paper 1 and Paper 2 according 
 Cambridge International AS & A Level History 9489 syllabus for
 2027-2029 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718292-2027-2029-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-modern-europe-1750-1921--08-wh-eur-timeline.webp" width="900" height="1070" alt="A vertical timeline from 1774 to 1924 with bars for France 1774-1814, Germany 1815-71 and Russia 1881-1924, a gap between Germany and Russia, a 1917 marker and the end at Lenin’s death." loading="lazy">
+  <figcaption>The three topics sit one after another with a ten-year gap before Russia.</figcaption>
+</figure>
+

@@ -56,6 +56,12 @@ See the [revision notes](/resources/a-level-cambridge-ict-communications-technol
 
 **Uses:** sharing and storing resources, sharing peripherals, exchanging data, internet services, telephony, tunnelling, and content delivery (streaming, software downloads). **BitTorrent** splits a large file into pieces; you download pieces from many peers at once while uploading pieces you hold, so no single server carries the load.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-communications-technology--16-comm-bandwidth-bit-rate.webp" width="900" height="790" alt="A 50 Mbit/s link with two 20 Mbit/s films and a 4 Mbit/s call totalling 44 (fits); a third film makes 64, 14 over. A 1.5 GB download is 12 000 Mbit, 240 s." loading="lazy">
+  <figcaption>Bandwidth is capacity and bit rate is demand.</figcaption>
+</figure>
+
+
 ## 14.2 Components in a network
 
 | Component | Role and operation |
@@ -71,6 +77,12 @@ See the [revision notes](/resources/a-level-cambridge-ict-communications-technol
 | Gateway | Joins networks using **different** protocols, converting between them |
 
 **Working together:** PCs' NICs cable to a switch; a WAP on the switch serves laptops; the switch connects to a router, which forwards outside traffic to the internet provider. Switches cut collisions and improve security compared with hubs, as frames are not broadcast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-communications-technology--15-comm-hub-vs-switch.webp" width="900" height="1060" alt="A hub sends a frame from A to C out of every other port (3 copies); a switch has learned which port C is on and sends only 1 copy to port 3." loading="lazy">
+  <figcaption>A hub broadcasts every frame; a switch forwards it only to its destination port.</figcaption>
+</figure>
+
 
 ## 14.3 Network servers
 
@@ -148,6 +160,27 @@ A doctor wants one inbox on phone and laptop. Choose protocols.
 - Receive with **IMAP**, which keeps mail on the server so both devices match; POP3 would move each message onto one device.
 - Run both over **TLS** for encryption.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-communications-technology--17-comm-packet-switching.webp" width="900" height="940" alt="A packet has a header, payload and trailer. Four numbered packets take two routes and arrive as 2, 1, 4, 3 (illustrative times) before being put in order by sequence number." loading="lazy">
+  <figcaption>Packets can arrive out of order and are reassembled by sequence number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-communications-technology--18-comm-address-sizes.webp" width="900" height="770" alt="Bars drawn to bit length: MAC 48, IPv4 32 (four denary numbers, 192.168.1.20) and IPv6 128 (eight hexadecimal groups)." loading="lazy">
+  <figcaption>MAC, IPv4 and IPv6 addresses compared by length and purpose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-communications-technology--19-comm-osi-tcpip-layers.webp" width="900" height="880" alt="OSI seven layers beside TCP/IP four layers; TCP/IP application spans the top three OSI layers and link spans the bottom two." loading="lazy">
+  <figcaption>How the TCP/IP layers group the OSI layers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-communications-technology--20-comm-email-protocols.webp" width="900" height="880" alt="SMTP sends and both run over TLS. With IMAP the phone, server and laptop all show the same three messages; with POP3 the laptop downloads them and the server and phone hold none." loading="lazy">
+  <figcaption>IMAP keeps devices in sync; POP3 moves mail to one device.</figcaption>
+</figure>
+
+
 ## 14.7 Wireless technology
 
 **Wi-Fi** (radio, medium range, wireless LANs, IEEE 802.11 protocols); **Bluetooth** (low-power radio over a few metres, devices pair first); **infrared** (line of sight, remote controls); **microwave** (line-of-sight links between masts, satellite links); **radio** (broadcast to many receivers); **NFC** (devices almost touching; contactless payment).
@@ -163,6 +196,12 @@ A doctor wants one inbox on phone and laptop. Choose protocols.
 A **cellular network** divides an area into **cells**, each with a base station. Neighbouring cells use different frequencies so frequencies can be reused further away. Moving between cells, sessions are **handed over** between base stations. **3G** brought mobile internet; **4G** faster all-IP data; **5G** higher speeds, lower delay and many more devices, suiting IoT.
 
 **Satellites.** Data is encoded and modulated, sent from a ground station on the **uplink**, amplified by the satellite's transponder and returned on a **downlink** at a different frequency. Uses: **GPS** (position from the timing of signals from several satellites), **global mapping** from images, **surveillance**, **broadcasting** TV and radio including UHD TV, and telephones in remote areas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-communications-technology--21-comm-cellular-cells.webp" width="900" height="780" alt="Hexagonal cells each with a base station and a frequency number 1 to 3; neighbours never share a number, and the same number is reused further away. A phone moving to a neighbouring cell is handed over." loading="lazy">
+  <figcaption>Cells, frequency reuse and handover.</figcaption>
+</figure>
+
 
 ## 14.9 Network security
 

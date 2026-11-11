@@ -50,6 +50,12 @@ Because Q4 is the highest-tariff question in the section and an essay in its own
 writing time accordingly — its 16 marks are double any other Section B question and 40% of the
 section's 40 marks (Q1 to Q3 together carry 24).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--12-env-where-it-fits.webp" width="900" height="980" alt="Section A is one thematic study. Section B has four questions drawn with heights proportional to marks: three 8-mark questions (interpretation, explanation, narrative account) and a double-height 16-mark site essay, split 8 AO1 and 8 AO2, with no spelling, punctuation and grammar marks." loading="lazy">
+  <figcaption>The site essay is the fourth and final question of Section B and is worth 16 marks.</figcaption>
+</figure>
+
+
 ## What the study tests
 
 The Historic Environment element links one specified historic site, changed annually, to your chosen British
@@ -62,6 +68,12 @@ depth study. The specification expects you to:
 
 Significance is not one of the concepts the specification names for this question; the Significance step in the
 structure below is a planning device for explaining why a link matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--13-env-site-to-period.webp" width="900" height="1010" alt="A generic building has four labels: location, function, structure and design, and people connected. An arrow leads to wider events of the period, then four chips for change, continuity, causation and consequence. A dashed box says significance is a planning step, not an assessed concept." loading="lazy">
+  <figcaption>Read features of the site, link them to the period, and use change, continuity, cause and consequence.</figcaption>
+</figure>
+
 
 ## The skill, not the fact list
 
@@ -82,6 +94,12 @@ LINK      -> how the feature reflects, resulted from, or shaped that context
 SIGNIFICANCE -> why this connection matters / what it tells historians
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--14-env-feature-context-link-significance.webp" width="900" height="1090" alt="Four stacked steps with arrows: Feature (what is physically true), Context (what was happening in the period), Link (how the feature reflects, resulted from or shaped the context, stated outright) and Significance (why the link matters), the last marked as a planning step." loading="lazy">
+  <figcaption>The same four steps work for every feature of the site.</figcaption>
+</figure>
+
+
 ## Why this element is examined differently
 
 The Historic Environment study exists to test a genuinely different historical skill from the rest
@@ -90,6 +108,12 @@ placement, a site's location — and connecting it back to historical knowledge,
 from written sources alone. This is a different demand from purely textual source analysis
 elsewhere in the qualification, which is why answers should always start from a specific, concrete
 feature of the site rather than describing the site as a whole in general terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--16-env-describe-explain-judge.webp" width="900" height="740" alt="Three chips name physical starting points: a wall’s thickness, a room’s position, an object’s placement. A staircase of three steps rises from describe, to explain, to judge; the first step is marked as not enough alone." loading="lazy">
+  <figcaption>Description is where you start, not where the marks are.</figcaption>
+</figure>
+
 
 ## Preparing without knowing the exact question in advance
 
@@ -136,6 +160,12 @@ each question is marked against its own, different skill.
 4. Complete the structure: Feature → Context → Link → ____?
 
 **Answers:** 1. Change, continuity, causation and consequence (the specification's wording is "change, continuity, causation and/or consequence"; significance is not among them). 2. Because the specified site is directly tied to your chosen British depth study — revising it in isolation misses the connections examiners specifically test. 3. The current specified site for your exact depth study and examination year, since AQA changes it every year. 4. Significance — explaining why the connection between the feature and its historical context matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-historic-environment--15-env-essay-shape.webp" width="900" height="1000" alt="A flow from a clear early position, through two or three feature rows each with F, C, L and S boxes, to weighing the site evidence against the alternative view and an overall judgement." loading="lazy">
+  <figcaption>Apply the same four steps to two or three features, then weigh them to reach a judgement.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

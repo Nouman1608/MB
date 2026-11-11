@@ -118,6 +118,17 @@ advantages and disadvantages of a particular method (such as delegated
 legislation or judicial precedent), so practise structured evaluation
 rather than description alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--09-law2-precedent.webp" width="900" height="1010" alt="An earlier decision has a ratio decidendi that binds and obiter dicta that persuade. A later court asks whether the material facts are sufficiently similar. If yes, it follows the precedent. If there is a material factual difference, it distinguishes, which any court can do. Separately, a higher court can overrule, declaring the earlier decision wrong law, and the Supreme Court can depart from its own past decisions under the Practice Statement 1966." loading="lazy">
+  <figcaption>Precedent is followed, distinguished on material facts, or overruled by a higher court; the Supreme Court may depart from its own decisions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--12-law2-marks-share.webp" width="900" height="830" alt="Three bars, one per 100-mark paper. In each, the first 25 marks come from Section 3.1 and the other 75 from one substantive area: Criminal law on Paper 1, Tort on Paper 2, Law of contract or Human rights on Paper 3. A fourth bar shows all 300 marks, with Section 3.1 worth 75 marks, a quarter." loading="lazy">
+  <figcaption>Section 3.1 is 25 of 100 marks on each paper: 75 of 300 marks, a quarter of the qualification.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 AQA A-level Law (7162) specification, for teaching from September
@@ -144,6 +155,12 @@ The most examined classification is **civil versus criminal**:
 | Courts | Magistrates', Crown | County, High Court |
 | Outcome | Conviction and sentence | Liability, damages, injunction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--06-law2-civil-criminal.webp" width="900" height="960" alt="A comparison grid of criminal and civil law across five rows. Purpose: criminal punishes, deters and protects society; civil compensates and resolves disputes. Parties: prosecution v defendant; claimant v defendant. Standard of proof: beyond reasonable doubt; balance of probabilities. Courts: magistrates' and Crown; county and High Court. Outcome: conviction and sentence; liability, damages, injunction." loading="lazy">
+  <figcaption>The same five questions give different answers in criminal and civil law, including the standard of proof.</figcaption>
+</figure>
+
+
 ## Sources of law
 
 **Parliamentary supremacy** places Acts of Parliament above all other sources; no court may override one. The doctrine is not unlimited in practice: devolution to Scotland, Wales and Northern Ireland has transferred competences that are politically very difficult to reverse, and the Human Rights Act 1998 lets courts issue a declaration of incompatibility rather than strike an Act down, so an incompatible Act stays law unless and until Parliament itself amends it.
@@ -162,6 +179,17 @@ The specification names two influences on interpretation. **European Union law**
 
 **Judicial precedent** rests on *stare decisis*. The **ratio decidendi** binds; **obiter dicta** persuade. This specification names the operation of precedent as **following, overruling and distinguishing**: a court follows a binding precedent whose material facts are sufficiently similar, and may avoid one by distinguishing it on its material facts or, if it is a higher court, by overruling it. The Practice Statement 1966 allows the Supreme Court to depart from its own previous decisions where it appears right to do so.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--07-law2-delegated-legislation.webp" width="900" height="1000" alt="Parliament passes an enabling Act. Under it, statutory instruments, byelaws and Orders in Council are made. Below, two controls: parliamentary (affirmative and negative resolution, scrutiny committees) and judicial (review for procedural or substantive ultra vires, and unreasonableness). Advantages: speed, expertise, flexibility. Dangers: volume, sub-delegation, lack of publicity." loading="lazy">
+  <figcaption>Delegated legislation is made under an enabling Act, with parliamentary and judicial controls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--08-law2-hra-section3-4.webp" width="900" height="951" alt="A flow chart. Legislation is read under section 3 of the Human Rights Act 1998 so far as it is possible, compatibly with Convention rights. If a compatible reading is possible, the court adopts it, as in Ghaidan v Godin-Mendoza (2004). If not, higher courts may make a declaration of incompatibility under section 4, as in Bellinger v Bellinger (2003), and the Act stays in force until Parliament changes it." loading="lazy">
+  <figcaption>Section 3 asks for a compatible reading; if impossible, section 4 allows a declaration, but the Act remains law.</figcaption>
+</figure>
+
+
 ## The legal system
 
 Civil claims are allocated to small claims, fast, intermediate or multi-track by value and complexity. Criminal offences are summary, either-way or indictable, determining the trial venue. Criminal court powers on sentencing adult offenders sit alongside this: magistrates' and Crown Court sentencing powers differ, and the choice between custodial, community, fine and discharge sentences reflects the seriousness of the offence and any aggravating or mitigating factors.
@@ -171,6 +199,17 @@ Civil claims are allocated to small claims, fast, intermediate or multi-track by
 **Access to justice and funding.** Alternative sources of legal advice include help lines, Citizens Advice, law centres and trade unions. Private funding comes from a person's own resources, legal expenses insurance or a **conditional fee agreement** ("no win, no fee"), and public funding is available as criminal and civil state legal aid, subject to eligibility rules.
 
 Personnel: barristers (advocacy, specialist opinions), solicitors (client-facing, increasingly with rights of audience), and legal executives. Each branch has its own regulator with a basic disciplinary and training framework — barristers through the Bar Standards Board, solicitors through the Solicitors Regulation Authority, and legal executives through CILEX Regulation. The **judiciary** is appointed by the Judicial Appointments Commission, with independence protected by security of tenure and immunity from suit. **Lay people** — magistrates and juries — bring community participation but attract criticism over representativeness and competence in complex cases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--10-law2-tribunals-adr.webp" width="900" height="960" alt="Two tribunal ladders. Most tribunals: a First-tier Tribunal, organised into chambers by subject, with appeals on points of law going up to the Upper Tribunal. Employment cases: Employment Tribunals, with appeal to the Employment Appeal Tribunal. Below, mediation and negotiation: two parties reach their own settlement privately, with no binding third-party decision." loading="lazy">
+  <figcaption>Tribunals sit outside the ordinary courts; mediation and negotiation let the parties settle for themselves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--11-law2-legal-personnel.webp" width="900" height="1130" alt="Three roles with their regulators: barristers (advocacy and specialist opinions) regulated by the Bar Standards Board; solicitors (client-facing, increasingly with rights of audience) regulated by the Solicitors Regulation Authority; legal executives regulated by CILEX Regulation. Below: the judiciary is appointed by the Judicial Appointments Commission, with security of tenure and immunity from suit; lay people are magistrates and juries." loading="lazy">
+  <figcaption>Each branch of the profession has its own regulator; judges are appointed by the Judicial Appointments Commission.</figcaption>
+</figure>
+
 
 ## Worked example
 

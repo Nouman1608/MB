@@ -81,6 +81,12 @@ New mean = 125 / 5 = 25 cm. This is 20 + 5.
 
 The new deviations are −3, −1, 0, 1, 3 again, so the standard deviation is still **2 cm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and--13-tc-add-shift.webp" width="900" height="810" alt="Two number lines. The top one shows five rope lengths 17, 19, 20, 21 and 23 cm with mean 20 and a gold bar for the standard deviation of 2. Five slanted arrows labelled plus 5 cm carry each length to the bottom number line: 22, 24, 25, 26 and 28 cm, with mean 25. The gold standard-deviation bar on the bottom line is the same width, still 2 cm." loading="lazy">
+  <figcaption>Adding 5 cm to every rope slides every value and the mean up by 5, but the distances between values do not change, so the standard deviation stays 2 cm.</figcaption>
+</figure>
+
+
 ## 6.1 Multiplying by a constant
 
 Now suppose every observation is multiplied by the same number b, so y = bx. This happens when a scale changes: kilograms to grams, hours to minutes, a test marked out of 50 doubled to be out of 100.
@@ -109,6 +115,12 @@ new variance = 3² × 4 = 36
 ```
 
 Direct check: the new deviations from 60 are −9, −3, 0, 3, 9. The squares add up to 81 + 9 + 0 + 9 + 81 = 180. Then 180 / 5 = 36 and √36 = **6**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and--14-tc-multiply-scale.webp" width="900" height="1060" alt="Two number lines on the same scale. The top one shows the rope lengths 17 to 23 cm bunched together with mean 20 and sd 2. Fan-shaped arrows labelled times 3 carry them to the bottom line, 51, 57, 60, 63 and 69, spread out with mean 60 and sd 6. Below, a small square of side 2 holds the variance 4 and a square of side 6 holds the variance 36, nine times the area: sd is multiplied by 3 but variance by 9." loading="lazy">
+  <figcaption>Multiplying every value by 3 multiplies the mean and the sd by 3, but the variance (the area of the sd square) by 3² = 9.</figcaption>
+</figure>
+
 
 ## Combining both: y = a + bx
 
@@ -139,6 +151,12 @@ sd in °F = 1.8 × 4 = 7.2 °F
 
 The 32 raises the mean but plays no part in the standard deviation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and--15-tc-linear-two-steps.webp" width="900" height="880" alt="Three number lines show the mean plus or minus one standard deviation as a teal bar with a gold line at the mean. In Celsius the mean is 18 and the sd is 4. After multiplying by 1.8 the mean is 32.4 and the sd 7.2: the bar is longer and has moved. After adding 32 the mean is 64.4 and the sd is still 7.2: the bar has slid along without changing length." loading="lazy">
+  <figcaption>For F = 1.8C + 32: multiplying by b = 1.8 changes the mean and the sd; adding a = 32 changes only the mean, so the mean is 64.4 °F and the sd is 7.2 °F.</figcaption>
+</figure>
+
+
 ## Working backwards from coded data
 
 Coded data are sometimes given so that the numbers are small, for example y = (x − 50) / 5. To recover the original data, undo the coding in reverse: multiply by 5, then add 50, so x = 50 + 5y.
@@ -153,6 +171,12 @@ Since x = 50 + 5y, the rules give:
 mean of x = 50 + 5 × 3.2 = 50 + 16 = 66
 sd of x = 5 × 1.5 = 7.5
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and--16-tc-coded-back.webp" width="900" height="830" alt="Two number lines, one above the other and aligned. The top line is the coded scale y from 0 to 6 with a bar for the mean 3.2 plus or minus the sd 1.5. The bottom line is the original scale x from 50 to 80, with the same bar read as mean 66 and sd 7.5. An arrow says to multiply by 5, then add 50, to go from y to x." loading="lazy">
+  <figcaption>Undo the coding in reverse: x = 50 + 5y. The mean becomes 50 + 5 × 3.2 = 66, and the sd becomes 5 × 1.5 = 7.5, with the 50 playing no part.</figcaption>
+</figure>
+
 
 ## 6.2 Transforming to a given mean and standard deviation
 
@@ -200,9 +224,21 @@ So **y = −7.5 + 1.5x**. The new scores are:
 
 Check: the mean of the new scores is 300 / 5 = 60. The deviations from 60 are −22.5, −7.5, 0, 7.5, 22.5, whose squares add up to 1125 and 1125 / 5 = 225, so the standard deviation is √225 = 15. ✓
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and--18-tc-data-fit.webp" width="900" height="890" alt="Two number lines. The top shows the original scores 30, 40, 45, 50 and 60 with mean 45 and sd 10. Lines carry each score to the new value on the bottom line: 37.5, 52.5, 60, 67.5 and 82.5, with mean 60 and sd 15. The new scores are further apart and centred higher, using y = 1.5x minus 7.5." loading="lazy">
+  <figcaption>With b = 15 ÷ 10 = 1.5 and a = 60 − 1.5 × 45 = −7.5, every score moves along y = −7.5 + 1.5x and the new data has mean 60 and sd 15.</figcaption>
+</figure>
+
+
 ### A reversed scale
 
 If you want the order of the data to flip, so that a high score becomes a low score, use a negative b. Take marks with mean 62 and standard deviation 5, and let y = 100 − 2x. Then ȳ = 100 − 2 × 62 = −24 and the standard deviation of y is |−2| × 5 = 10. The standard deviation stays positive. When you are told a target standard deviation in 6.2, b = target sd ÷ original sd gives a positive b. A negative b would give the same standard deviation with the order of the data reversed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and--17-tc-target-two-steps.webp" width="900" height="990" alt="Three number lines with the mean plus or minus one sd as a teal bar and a gold line at the mean. Original marks: mean 45, sd 12.5. Step 1, multiply by b = 10 divided by 12.5 = 0.8: the bar shrinks to sd 10 and the mean moves to 36. Step 2, add a = 60 minus 0.8 times 45 = 24: the bar of sd 10 slides to mean 60. The result is y = 24 + 0.8x." loading="lazy">
+  <figcaption>Match the spread first (b = target sd ÷ original sd = 0.8), then the mean (a = target mean − b × original mean = 24). Check: 24 + 0.8 × 45 = 60.</figcaption>
+</figure>
+
 
 ## Common errors
 

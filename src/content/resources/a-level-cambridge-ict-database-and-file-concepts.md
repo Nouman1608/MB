@@ -92,6 +92,17 @@ One teacher teaches many courses; each course and each student has many enrolmen
 
 To **create a relational database**: build each table with fields, data types and sizes; **set the primary key**; join each primary key to its matching foreign key (same data type) and switch on referential integrity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--13-db-erd-link-table.webp" width="900" height="770" alt="Teacher, Course, Enrolment and Student tables. A teacher teaches many courses; Enrolment is a link table with composite key StudentID + CourseCode, each also a foreign key, so Student–Course many-to-many becomes two one-to-many relationships." loading="lazy">
+  <figcaption>A link table turns a many-to-many relationship into two one-to-many relationships.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--14-db-referential-integrity.webp" width="900" height="785" alt="Lesson rows for S104, S117, S122 and S131 match Student primary keys. A lesson for S999 is refused because S999 is not in the Student table, and deleting a student who still has lessons is refused unless deletions cascade." loading="lazy">
+  <figcaption>Every foreign key value must match an existing primary key value.</figcaption>
+</figure>
+
+
 ## Validating and verifying data entry
 
 A **validation rule** is checked as data is entered, for example "Minutes is 30, 45 or 60" or "StudentID is S then three digits", with clear **error text**. **Test** it with normal data (accepted), extreme boundary data (accepted) and abnormal data (rejected), recording expected and actual results. **Verification** checks data was entered accurately: a visual check against the source, or double entry compared by the computer.
@@ -120,6 +131,12 @@ The Lesson table of a music school:
 5. **Wildcard:** Instrument like "G*", where * stands for any characters (the wildcard symbol depends on the software). Result: **L02, L05**.
 6. **Date range:** LessonDate >= 10/03/2026 AND <= 24/03/2026. Result: **L03, L04, L05, L06**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--15-db-query-results.webp" width="900" height="926" alt="The eight Lesson rows with six queries A to F; ticks show rows returned: A L01 L03 L06; B L02 L06 L07; C L04 L07 L08; D L04 L05 L08; E L02 L05; F L03 L04 L05 L06." loading="lazy">
+  <figcaption>A tick shows which lessons each query returns.</figcaption>
+</figure>
+
+
 ### Choosing a query type
 
 | Query type | Use it when |
@@ -144,6 +161,12 @@ A cross-tab of total Fee by Instrument and Paid:
 Unpaid total: 28 + 15 + 30 + 21 = **94**. Pivot tables are in the [Spreadsheets study guide](/resources/a-level-cambridge-ict-spreadsheets/).
 
 **Action queries** change data: **make-table** creates a new table from results (an archive of old lessons); **append** adds results to an existing table; **delete** removes matching records; **update** changes values in matching records (raise all Guitar fees). To **remove duplicates**, run a find-duplicates query on fields that should be unique together (name and date of birth), check each pair, then delete the extra copies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--16-db-cross-tab.webp" width="900" height="707" alt="Total Fee by Instrument and Paid: Drums Yes 14; Guitar Yes 28, No 28; Piano Yes 15, No 45; Violin Yes 21, No 21. Unpaid total 28 + 15 + 30 + 21 = 94." loading="lazy">
+  <figcaption>A cross-tab puts one field down the side and another across the top.</figcaption>
+</figure>
+
 
 ### Calculations and sorting
 
@@ -180,6 +203,12 @@ Result: four tables, matching the ERD above.
 
 **Advantages:** less redundant data and storage; each fact updated in one place, so fewer inconsistencies. **Disadvantages:** more tables; queries need joins, so they are more complex and can run slower; design takes longer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--17-db-normalisation.webp" width="900" height="1280" alt="UNF Student with a repeating group; 1NF moves the group to StudentCourse; 2NF splits Enrolment and Course; 3NF splits Teacher from Course, giving four tables." loading="lazy">
+  <figcaption>Each normal form splits tables further, ending with four 3NF tables.</figcaption>
+</figure>
+
+
 ## 10.3 Data dictionary
 
 10.3 adds **currency** and **percentage** to the data types above; Boolean may be called logical (yes/no, true/false). A **data dictionary** records, for every field: table, field name, data type, field size, format, key, validation rule, error text, default value, whether required, and a description.
@@ -204,6 +233,12 @@ Result: four tables, matching the ERD above.
 | Relational | Linked tables | Flexible queries | Joins slow huge queries |
 
 A **management information system (MIS)** turns data from an organisation's systems into summaries, reports and charts for managers. Features: data from many sources, regular and on-demand reports, comparisons over time. Organisations use it to monitor performance, spot trends and plan.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--18-db-file-access.webp" width="900" height="1290" alt="Indexed sequential: records in key order with an index of key ranges; read all in order or jump via the index then search. Direct: a hashing algorithm turns the key into an address; 4527 mod 100 = 27 so block 27 of 100." loading="lazy">
+  <figcaption>Indexed sequential uses an index then a search; direct access hashes the key to an address.</figcaption>
+</figure>
+
 
 ## Common errors
 

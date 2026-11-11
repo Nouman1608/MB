@@ -82,6 +82,22 @@ Jean Piaget argued that children are active learners who build knowledge by acti
 
 > Piaget claimed that pre-operational children fail conservation because they centre on one feature, such as the height of a glass (knowledge). A four-year-old who says a tall thin glass "has more juice" is focusing only on height (application). However, McGarrigle and Donaldson's Naughty Teddy study suggests the failure may come from the way the question is asked, not from a lack of logic, because more children conserved when the change looked accidental (analysis). This means Piaget may have underestimated what young children understand, so his stage ages may be too late (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--01-psy-piaget-stages.webp" width="900" height="870" alt="Four stages: sensorimotor 0-2, pre-operational 2-7, concrete operational 7-11, formal operational 11+, with an icon for each stage’s key feature. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Piaget’s four stages rise like a staircase with approximate ages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--02-psy-schema-adaptation.webp" width="900" height="980" alt="New information either fits the schema (assimilation, schema unchanged) or does not (disequilibrium, then accommodation, then equilibrium restored). Facts taken from the lesson text." loading="lazy">
+  <figcaption>Assimilation adds to a schema; accommodation changes it; equilibration restores balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--03-psy-conservation.webp" width="900" height="1000" alt="Same volume of liquid in a wide and a tall glass (130 x 100 = 65 x 200); a pre-operational child centres on height, a concrete operational child conserves. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Pouring liquid into a tall glass changes its look but not its amount.</figcaption>
+</figure>
+
+
 ## Vygotsky's theory of cognitive development
 
 Lev Vygotsky argued that cognitive development is social first and individual later. Children learn through interaction with "more knowledgeable others" (adults, older children, peers) and through cultural tools such as language.
@@ -102,6 +118,12 @@ Lev Vygotsky argued that cognitive development is social first and individual la
 **Worked paragraph (scaffolding)**
 
 > Vygotsky argued that children learn best in the zone of proximal development, with scaffolding from a more knowledgeable other (knowledge). For example, a parent teaching a child to tie shoelaces might first do most of the steps, then give hints only, then simply watch (application). Wood and Middleton's finding that the most effective mothers adjusted their help to how the child was doing supports this, because the help was matched to the child's current level (analysis). However, scaffolding research mostly uses practical tasks with young children, so it shows how help works rather than proving that all thinking starts as social interaction (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--04-psy-zpd-scaffolding.webp" width="900" height="1030" alt="Concentric zones for can do alone, ZPD and cannot do yet, plus the shoelace scaffolding example with fading help. Facts taken from the lesson text." loading="lazy">
+  <figcaption>The ZPD sits between what a child can do alone and what they cannot yet do; scaffolding fades as ability grows.</figcaption>
+</figure>
+
 
 ## Baillargeon's explanation of early infant abilities
 
@@ -124,6 +146,12 @@ Infants cannot search or speak, so Baillargeon measured **looking time**. Infant
 **Worked paragraph (VoE)**
 
 > Baillargeon used violation of expectation, where longer looking at an impossible event is taken to show surprise (knowledge). If a five-month-old stares at a screen that seems to pass through a hidden box, this suggests the infant knows the box still exists (application). However, Rivera and colleagues found infants looked longer at the larger rotation even with no box, so longer looking could reflect a preference for more movement (analysis). This weakens the internal validity of VoE, because we cannot be sure looking time measures understanding (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--05-psy-violation-expectation.webp" width="900" height="840" alt="Drawbridge screen stops at the box (possible) or rotates through it (impossible); longer looking is taken as surprise. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Violation of expectation: infants look longer at the impossible event.</figcaption>
+</figure>
+
 
 ## The development of social cognition
 
@@ -160,6 +188,17 @@ Robert Selman interviewed children about social dilemmas, such as a story in whi
 **Worked paragraph (mirror neurons)**
 
 > The mirror neuron system may underpin social cognition because the same neurons fire when we act and when we watch others act (knowledge). If a teenager winces as a friend trips, their brain may be simulating the friend's movement and feeling (application). Iacoboni's finding that mirror areas responded to the intention behind a grasp supports a role in understanding intentions (analysis). However, fMRI cannot isolate individual neurons and the evidence is correlational, so it is not yet clear that mirror neurons cause social understanding (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--06-psy-selman-levels.webp" width="900" height="958" alt="Five levels with approximate age spans and what the child can do. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Selman’s levels run from egocentric (about 3-6) to societal (about 12+).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--07-psy-sally-anne.webp" width="900" height="1032" alt="Four-step scene and bar chart of about 85%, 86% and 20% correct answers (basket). Facts taken from the lesson text." loading="lazy">
+  <figcaption>The Sally-Anne false belief task and the results for three groups of children.</figcaption>
+</figure>
+
 
 ## Linking to other parts of the course
 

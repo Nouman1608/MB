@@ -83,6 +83,22 @@ Other methods you can mention beyond the named three include water transfer by p
 
 **Example: Lesotho Highlands Water Project.** Lesotho and South Africa developed this project together. Dams in the Lesotho mountains, including Katse Dam (185 m high; water deliveries began in 1998), store water, which is transferred into South Africa's Vaal River system to supply the industrial Witwatersrand region. Lesotho receives royalties and hydroelectric power. In 2015 royalties were about 5% of Lesotho's state income outside taxes. Critics point to people who lost their land and livelihoods, ecological impacts, and corruption cases linked to the project. A further dam, Polihali, is under construction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--14-dam-and-reservoir.webp" width="900" height="790" alt="A dam holds back a river to form a reservoir that stores wet-season rain, supplies towns and farms and can produce hydroelectric power. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>How a dam and reservoir store and supply water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--15-well-and-borehole.webp" width="900" height="970" alt="A shallow dug well dries up when the water table falls, while a deeper drilled borehole reaches the aquifer. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Wells are shallow and boreholes deep, so boreholes are more reliable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--16-desalination.webp" width="900" height="790" alt="Seawater becomes fresh water by reverse osmosis through membranes or by distillation, leaving salty brine. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Two desalination methods and their outputs.</figcaption>
+</figure>
+
+
 ## 2. How water use changes with development
 
 The syllabus asks you to describe the proportions used for agriculture, domestic and industrial purposes in countries at different levels of development.
@@ -102,6 +118,12 @@ Be careful with "proportion" and "amount". A high-income country may use a small
 > The chart shows agriculture uses most of the country's water, far more than industry or domestic use. This is because most of the population works in farming, so irrigation for crops such as rice takes large volumes, especially in the dry season when rainfall is low. There are few factories, so industrial demand is small. Domestic use is also low because many homes have no piped supply, so people use only what they can carry.
 
 The answer quotes the resource, then gives three separate reasons, each linked to development.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--17-water-use-by-sector.webp" width="900" height="1025" alt="A ring chart of global water use (69%, 19%, 12%) and three illustrative bars for low, middle and high income countries. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Global water use by sector and how the pattern changes with development.</figcaption>
+</figure>
+
 
 ## 3. Why there are water shortages in some areas
 
@@ -125,6 +147,12 @@ Learn shortages as two groups: not enough water, or not enough money and infrast
 
 Much of sub-Saharan Africa faces economic water scarcity, while arid regions such as North Africa and West Asia face physical scarcity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--18-water-scarcity-types.webp" width="900" height="810" alt="Physical scarcity means too little water; economic scarcity means water exists but is not supplied for lack of investment. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Physical and economic water scarcity compared.</figcaption>
+</figure>
+
+
 ## 4. The impact of lack of clean water
 
 The syllabus names two impacts: on local people and on the potential for economic development.
@@ -145,6 +173,12 @@ The syllabus names two impacts: on local people and on the potential for economi
 
 This forms a cycle: poverty means no investment in water, and lack of water keeps people poor. WHO notes that better water supply can boost economic growth and reduce poverty. Link this to the [development unit](/resources/igcse-geography-0460-development/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--19-unsafe-water-cycle.webp" width="900" height="1035" alt="A five-step cycle from no clean water to illness, less school and work, low income and no money for supply, with three WHO figures. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Lack of clean water and poverty reinforce each other.</figcaption>
+</figure>
+
+
 ## 5. Careful management for future supplies
 
 The syllabus asks you to *demonstrate* that management is needed. Show that demand is rising while supply is limited, then give strategies.
@@ -159,6 +193,12 @@ The syllabus asks you to *demonstrate* that management is needed. Show that dema
 | Small-scale solutions | Hand pumps, rainwater tanks, sand dams, run by communities | Cheap and locally run, but may fail without maintenance |
 
 Use phrases like "sustainable" and "future generations", but always add a specific method.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--20-water-management-tank.webp" width="900" height="920" alt="A tank picture links supply, demand, losses and pollution to the main management strategies. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Management balances supply and demand, cuts losses and protects quality.</figcaption>
+</figure>
+
 
 ## 6. Case study: water supply in Singapore
 
@@ -180,6 +220,12 @@ Singapore is a small, densely populated island city-state. It has heavy rainfall
 > Singapore has heavy rainfall but little land to collect it, so it uses Four National Taps. First, about two-thirds of the island is catchment, and rain is channelled into 17 reservoirs, including Marina Reservoir behind Marina Barrage. Second, it imports water from Malaysia's Johor River under a 1962 agreement lasting until 2061, because local catchment alone cannot meet demand of about 430 million gallons a day. Third, used water is purified into NEWater, which can meet up to 40% of current needs, mainly for industry. Finally, five desalination plants turn seawater into fresh water. Using several sources means supply is secure even in a drought, but the high energy cost is a weakness.
 
 Notice: named place, numbers, a reason for each method, and a brief judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-water--21-singapore-four-taps.webp" width="900" height="990" alt="Four sources feed Singapore: local catchment, imports from Malaysia, NEWater and desalination, with demand and loss figures. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Singapore uses four national taps to secure its water.</figcaption>
+</figure>
+
 
 ## Common errors
 

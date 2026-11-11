@@ -54,6 +54,12 @@ Use it with the [revision notes](/resources/a-level-cambridge-ict-it-in-society-
 
 **Decentralised systems** have no single authority. **Bitcoin** and **Litecoin** are cryptocurrencies whose transactions are checked by a network of computers. **Peer-to-peer electronic monetary systems** let users pay each other directly. **Mobile electronic wallets** store a user's currency, or the keys to it, on a phone so payments go straight from one wallet to another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--02-central-vs-decentral.webp" width="900" height="800" alt="Two panels. Centralised, for example a debit card payment: six customers connect to one bank, which keeps the one ledger and checks and records every payment. Decentralised, for example a Bitcoin payment: six computers are connected to each other, each holds a copy of the ledger, and there is no single authority." loading="lazy">
+  <figcaption>A centralised system has one authority that checks and records every transaction; a decentralised one is checked by a network of computers.</figcaption>
+</figure>
+
+
 ### Blockchains as distributed ledgers
 
 A **blockchain** is a **distributed ledger**: a record of transactions held as identical copies on many computers (nodes).
@@ -64,6 +70,12 @@ A **blockchain** is a **distributed ledger**: a record of transactions held as i
 4. Blocks are only ever added, never edited.
 
 Changing an old transaction changes that block's hash, so it no longer matches the hash stored in the next block. Other nodes hold the original, so the altered copy is rejected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--01-blockchain-tamper.webp" width="900" height="900" alt="Two rows of four linked blocks. Each block stores the hash of the previous block, so the blocks form a chain. In the original chain every link matches. When block 2 is edited its hash changes, but block 3 still stores the old hash, so the link from block 2 to block 3 breaks. Below, the other nodes keep the original chain and the edited copy is rejected." loading="lazy">
+  <figcaption>Changing an old block changes its hash, which no longer matches the hash stored in the next block, so the altered copy is rejected.</figcaption>
+</figure>
+
 
 ### Impact and risks
 
@@ -98,6 +110,12 @@ Changing an old transaction changes that block's hash, so it no longer matches t
 5. **Evaluation:** check whether the results are accurate and meet the business objectives; if not, return to an earlier stage.
 6. **Deployment:** put the results to use, for example in reports or in a live system, and monitor them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--03-data-mining-stages.webp" width="900" height="964" alt="Six numbered stages in order: 1 Business understanding (set the objective), 2 Data understanding (collect, explore, check quality), 3 Data preparation (select, clean, combine, format), 4 Data modelling (classification, clustering, association rules), 5 Evaluation (accurate? meets the objective?), 6 Deployment (use the results, then monitor). A dashed arrow runs from Evaluation back to stages 1 to 4 when the results are not good enough." loading="lazy">
+  <figcaption>Data mining runs through six stages; if evaluation shows the results are not good enough, return to an earlier stage.</figcaption>
+</figure>
+
+
 ### Worked example 2 (data preparation)
 
 *A retailer extracts 12,500 customer records. 4% are duplicates. Of the remaining records, 5% have no postcode and are removed. How many records are left, and which stage is this?*
@@ -108,6 +126,12 @@ Missing postcode = 5% of 12,000 = 600  ->  12,000 - 600 = 11,400
 ```
 
 **11,400 records** remain. Removing duplicates and incomplete records is **data preparation** (stage 3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--04-data-prep-example.webp" width="900" height="740" alt="Three bars drawn to scale show 12,500 customer records, then 12,000 after 500 duplicates (4%) are removed, then 11,400 after 600 records with no postcode (5% of 12,000) are removed. The result, 11,400, is data preparation, stage 3." loading="lazy">
+  <figcaption>Removing 500 duplicates and then 600 records with no postcode leaves 11,400 of the 12,500 records.</figcaption>
+</figure>
+
 
 ### How and why it is used
 
@@ -144,6 +168,12 @@ Missing postcode = 5% of 12,000 = 600  ->  12,000 - 600 = 11,400
 
 **Advantages vs disadvantages by type:** chat rooms and IM are fast but poor as a permanent record. Email keeps a formal record but is slower and attracts spam and phishing. Forums and blogs keep searchable content but need moderation. Microblogs reach large audiences quickly, so false information spreads quickly too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--05-social-platform-types.webp" width="900" height="804" alt="Six cards each show an icon and one key feature: chat room (real-time, many users, one topic), instant messaging (real-time private messages), email (read when the receiver chooses), forum (threads stay online, moderated), blog (regular posts with comments), microblog (very short posts to followers)." loading="lazy">
+  <figcaption>The six types of social networking service differ in how fast, how public and how lasting the messages are.</figcaption>
+</figure>
+
+
 ## 12.4 The impact of IT
 
 | Area | Positive impact | Negative impact |
@@ -171,6 +201,12 @@ Missing postcode = 5% of 12,000 = 600  ->  12,000 - 600 = 11,400
 
 *Discuss the impact of IT on banking.* Pair each point with its downside: online banking works at any time without travel [1], but branches close, hurting customers who are offline [1]; automated systems block suspicious payments [1], but customers face phishing [1]; contactless payment is faster [1], but stored card details can be stolen [1].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--06-discuss-banking-pairs.webp" width="900" height="988" alt="Three rows pair a benefit of IT in banking with its downside: bank online at any time, but branches close and offline customers lose out; systems block suspicious payments, but customers face phishing; contactless payment is faster, but stored card details can be stolen. A balance icon reminds students to give both sides, then a conclusion." loading="lazy">
+  <figcaption>A Discuss answer pairs each point with its downside, as in this six-mark banking plan.</figcaption>
+</figure>
+
+
 ## 12.5 Technology enhanced learning
 
 | Method | Description |
@@ -188,6 +224,12 @@ Missing postcode = 5% of 12,000 = 600  ->  12,000 - 600 = 11,400
 - **Autonomy:** learners choose when, where and how fast they study, which needs self-discipline.
 
 **Advantages vs disadvantages:** CBT and online tutorials are self-paced but offer little human help. Networked courses track work but need a reliable network. MOOCs reach huge numbers cheaply but give little individual support. Video-conferencing allows live questions but needs a stable connection and fixed times. Access gaps link to [the digital divide](/resources/a-level-cambridge-ict-the-digital-divide/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--07-learning-methods.webp" width="900" height="958" alt="A learner icon connects to five methods of delivery: computer-based training (own pace, built-in tests), online tutorials (step-by-step, one skill), networked courses (share materials, submit work), MOOC (open to very large numbers), and video-conferencing (live sound and video)." loading="lazy">
+  <figcaption>Five methods of delivering technology enhanced learning, from self-paced software to live video lessons.</figcaption>
+</figure>
+
 
 ## Common errors
 

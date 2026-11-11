@@ -54,6 +54,12 @@ Geographers treat a farm like a factory. Things go in, work is done, and product
 
 An exam diagram usually has three boxes joined by arrows. Put the correct items in the correct box. "Labour" is an input. "Harvesting" is a process. "Grain" is an output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--14-food-system.webp" width="900" height="830" alt="Three boxes in a row: inputs, processes and outputs. Inputs list natural items (relief, climate, soil) and human items (labour, machinery, seeds and money). Processes list ploughing, sowing, irrigating and harvesting. Outputs list products (crops, milk, meat, wool, eggs) and by-products or waste (manure, straw, run-off). A long arrow under the boxes returns from outputs to inputs, labelled feedback." loading="lazy">
+  <figcaption>A farm is an input-process-output system, and some outputs return as inputs.</figcaption>
+</figure>
+
+
 ## Classifying farming types
 
 The syllabus names three pairs or groups of types. Every farm can be described using all three.
@@ -70,6 +76,12 @@ The syllabus names three pairs or groups of types. Every farm can be described u
 
 So a Bangladeshi rice plot is **subsistence, arable and intensive** (lots of labour per hectare). A Canadian Prairie wheat farm is **commercial, arable and extensive** (few workers and large fields, even though it uses expensive machines). Intensity is measured per hectare. A farm that uses a lot of machinery spread over thousands of hectares is still extensive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--15-food-types.webp" width="900" height="740" alt="Two scenes side by side. On the left, a small field with nine workers: a Bangladesh rice plot. On the right, a large field with one tractor: a Canadian wheat farm. A table below gives three labels for each. Purpose: subsistence versus commercial. Product: arable for both. Inputs per hectare: intensive (many inputs per hectare) versus extensive (few inputs per hectare). A note adds pastoral (animals) and mixed (crops and animals)." loading="lazy">
+  <figcaption>Every farm can be described by purpose, product and intensity; intensity is measured per hectare.</figcaption>
+</figure>
+
+
 ## How natural and human inputs shape land use
 
 **Relief.** Flat land suits machinery, irrigation and arable farming. Steep slopes have thin soils and are hard to plough, so they are used for grazing or forestry, or are terraced. High land is colder because temperature falls with height.
@@ -85,6 +97,12 @@ So a Bangladeshi rice plot is **subsistence, arable and intensive** (lots of lab
 **Combined influences.** These inputs work together to set the **scale of production** (farm size and output), the **methods of organisation** (family labour or hired workers, co-operatives, contracts) and the **products**. You gain more credit for showing the link between two factors than for listing six separate ones. For example, flat land plus high capital allows large, mechanised, commercial arable farming.
 
 You can link this to the climate graphs in [climate and natural vegetation](/resources/igcse-geography-climate-and-natural-vegetation/) and to river flooding in [rivers](/resources/igcse-geography-rivers/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--16-food-land-use.webp" width="900" height="760" alt="A landscape cross-section divided into four zones by dashed lines. High land on the left is colder and has a snow cap: grazing and forestry. A steep slope with trees has thin soil: terraces or grazing. A flat plain under a rain cloud has fertile alluvium and crops with a river: intensive arable. On the right, a sunny area with sheep has low, unreliable rainfall: extensive pastoral." loading="lazy">
+  <figcaption>Relief, climate and soil together decide whether land is used for crops, grazing or forestry.</figcaption>
+</figure>
+
 
 ## Case study 1: wet rice farming in Bangladesh
 
@@ -110,6 +128,12 @@ Output reached about 39.1 million tonnes in 2022-23. Average yields are close to
 
 **Worked example paragraph.** *Explain how natural inputs influence wet rice farming in a named area.* In the Ganges-Brahmaputra delta in Bangladesh, the land is very flat, so water can be held in level paddy fields for transplanted rice (knowledge and application). Annual floods deposit alluvium, which renews soil fertility without much fertiliser, so poorer farmers can still get high yields (analysis). The monsoon gives enough rain for the aman crop to rely on rainfall alone. However, the dry-season boro crop needs tubewell irrigation, which shows that natural inputs alone no longer explain output (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--17-food-rice.webp" width="900" height="770" alt="A twelve-month chart with three rows. Aus: planting in March and April, harvest in summer, rainy season. Aman: planting in July and August, then rainfall, harvest in November and December. Boro: planting from mid-November to February (the bar wraps from the end of the year to the start), harvest from April to June, a dry-season crop that needs irrigation with tubewells and is now the leading paddy crop." loading="lazy">
+  <figcaption>Aus and Aman depend on the monsoon rains; boro is the irrigated dry-season crop.</figcaption>
+</figure>
+
+
 ## Causes of food shortages
 
 A **food shortage** happens when people cannot get enough food, either because too little is produced or because they cannot obtain or afford it. **Famine** is an extreme, widespread shortage that causes deaths from hunger.
@@ -129,6 +153,12 @@ A **food shortage** happens when people cannot get enough food, either because t
 
 Other relevant factors include rapid population growth (see [population and settlement](/resources/igcse-geography-population-and-settlement/)), high food prices and poverty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--18-food-causes.webp" width="900" height="910" alt="Two columns of cause tiles lead down to a bar labelled food shortage. Natural: drought (crops fail), floods (crops drown), tropical storms (wind and salt water) and pests (locusts eat crops). Economic and political: low investment (no irrigation or storage), poor transport (food cannot arrive) and war (fighting blocks aid). A dashed tile lists other factors: population growth, high prices and poverty. Below the bar, an arrow leads to famine: extreme shortage with deaths from hunger." loading="lazy">
+  <figcaption>Natural hazards and economic or political problems combine to cause food shortages.</figcaption>
+</figure>
+
+
 ## Effects of food shortages and responses
 
 **Negative effects.** Undernutrition and malnutrition weaken people, especially children. Weak bodies catch diseases more easily. People sell animals and tools to buy food, which makes the next harvest smaller. Families migrate to camps or towns. Children leave school. In famine, death rates rise sharply.
@@ -143,6 +173,12 @@ Other relevant factors include rapid population growth (see [population and sett
 - **Pest control and early warning systems.**
 - **Land reform, credit and farmer education.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--19-food-loop.webp" width="900" height="880" alt="A clockwise loop of four boxes: food shortage, people weak and ill, sell animals and tools, smaller next harvest, then back to food shortage. A sack labelled food aid, saves lives, has an arrow pointing into the people weak and ill box. Below, six tiles show measures to raise output: irrigation, better seed and fertiliser, appropriate technology, pest control and early warning, land reform and credit, and farmer education." loading="lazy">
+  <figcaption>Shortages can trap families in a cycle; aid saves lives now and measures to raise output work longer term.</figcaption>
+</figure>
+
+
 ## Case study 2: Somalia, 2010-2012 food crisis
 
 **Causes.** In 2011 the Horn of Africa suffered a drought widely described as the worst in 60 years. In many areas, rainfall from April to June 2011 was less than 30% of the 1995-2010 average. Livestock losses reached 40-60% in some areas. Staple food prices in southern Somalia rose by up to 240%. Conflict involving the militant group al-Shabaab made matters worse. Some Western governments restricted aid to areas the group controlled, and aid workers were intimidated, kidnapped or killed, so some operations were suspended.
@@ -154,6 +190,12 @@ Other relevant factors include rapid population growth (see [population and sett
 **Evaluation.** This is a strong case because it shows natural and political causes together. Drought alone did not cause famine; conflict and blocked aid turned a shortage into mass death. One limitation is that death toll estimates vary widely, so avoid quoting one figure as certain.
 
 **Worked example paragraph.** *To what extent was drought the main cause of food shortage in a named country?* In southern Somalia in 2011, rainfall from April to June was less than 30% of the 1995-2010 average in many areas and some areas lost 40-60% of their livestock, so drought cut food supply (knowledge and application). Food prices then rose by up to 240%, so poor households could not buy what was available (analysis). However, neighbouring areas with the same drought did not see famine declared, while conflict with al-Shabaab blocked aid in the south. So drought triggered the shortage, but war turned it into famine (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--20-food-somalia.webp" width="900" height="945" alt="A banner shows drought plus conflict with blocked aid leading to famine. A vertical timeline follows. April to June 2011: rain below 30 per cent of the 1995 to 2010 average, shown by a short bar beside a long one. 2011: livestock losses of 40 to 60 per cent and food prices up to 240 per cent higher. 20 July 2011: the UN declares famine in Lower Shabelle and Bakool. 27 July 2011: the WFP airlift to Mogadishu begins. Mid-September 2011: over 920,000 refugees had fled; bars show Dadaab camp holding 440,000 against a capacity of 90,000. February 2012: the UN says the famine is over." loading="lazy">
+  <figcaption>Drought triggered the shortage in Somalia in 2011, but conflict and blocked aid turned it into famine.</figcaption>
+</figure>
+
 
 ## Common errors
 

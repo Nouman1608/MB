@@ -67,6 +67,12 @@ The process has four stages: data assimilation, crime scene classification, crim
 
 **Evaluation.** The original sample was small and based on self-report from offenders, who may have lied or exaggerated. Canter et al. (2004) analysed 100 US serial murders and found organised features were common across most cases, but found no clearly separate disorganised type. The approach was designed for crimes such as murder and rape, where the scene reveals a lot; it fits property crime poorly. On the other hand, the typology is simple and quick to apply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--16-psy-organised-disorganised.webp" width="900" height="850" alt="Four process stages and organised versus disorganised characteristics. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Organised and disorganised offenders and the four typology stages.</figcaption>
+</figure>
+
+
 ### The data-driven approach: investigative psychology
 
 The data-driven (bottom-up) approach builds a profile from statistical analysis of databases of past crimes. **Investigative psychology**, associated with David Canter, looks for patterns using techniques such as smallest space analysis. Key ideas:
@@ -90,6 +96,17 @@ Kim Rossmo developed criminal geographic targeting, which uses crime locations t
 
 **Worked paragraph.** *Knowledge:* Investigative psychology uses statistical analysis of crime databases. *Application:* For a series of burglaries in which the offender wipes surfaces, the police might infer forensic awareness and search records of people with previous burglary convictions. *Analysis:* This narrows the suspect pool using patterns from real cases. *Evaluation:* But databases contain only solved crimes, so an offender who has never been caught may not fit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--15-psy-profiling-approaches.webp" width="900" height="840" alt="Typology (top-down) and data-driven (bottom-up) flows to a profile. Facts taken from the lesson text." loading="lazy">
+  <figcaption>The two approaches start from different places.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--17-psy-circle-theory.webp" width="900" height="1070" alt="Marauder home inside the circle; commuter home outside it; circle from the two furthest crimes (computed). Facts taken from the lesson text." loading="lazy">
+  <figcaption>Canter’s circle theory contrasts marauders and commuters.</figcaption>
+</figure>
+
+
 ## Biological explanations of offending behaviour
 
 ### Genetic explanations
@@ -103,6 +120,12 @@ Genetic explanations suggest some people inherit a predisposition that raises th
 The **diathesis-stress model** proposes that a genetic predisposition (diathesis) leads to offending only when combined with environmental triggers (stress), such as a harsh upbringing.
 
 **Evaluation.** Concordance rates in twin studies are never 100%, so genes cannot be the whole explanation. MZ twins also share more similar environments than DZ twins, which inflates genetic estimates. Adoption studies help separate genes from upbringing, but children are often placed in homes similar to their biological family. The explanation raises a free will and determinism issue: if offending were genetically determined, could an offender be held responsible?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--18-psy-mednick-adoption.webp" width="900" height="990" alt="Bars 13.5%, 20% and 24.5% with parent icons showing who had a conviction. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Adoptee convictions rise when biological parents have convictions.</figcaption>
+</figure>
+
 
 ### Neural explanations
 
@@ -128,6 +151,12 @@ The typical criminal personality is high on all three. Eysenck argued these trai
 
 **Evaluation.** Eysenck and Eysenck (1977) found prisoners scored higher on E, N and P than non-prisoners. However, Farrington et al. (1982) reviewed studies and found offenders scored consistently high on P, but not consistently high on E. Bartol and Holanchock (1979) found Hispanic and African-American offenders in a New York prison were less extraverted than a control group, suggesting cultural bias. Personality may also not be a stable trait across situations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--19-psy-eysenck-personality.webp" width="900" height="880" alt="Three scales with the typical criminal at the high end and a chain to poor socialisation. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Eysenck’s criminal personality is high on E, N and P.</figcaption>
+</figure>
+
+
 ### Cognitive explanations: level of moral reasoning
 
 Kohlberg described three levels of moral reasoning, each with two stages:
@@ -139,6 +168,12 @@ Kohlberg described three levels of moral reasoning, each with two stages:
 Offenders are thought more likely to reason at the pre-conventional level. They may offend if they think they can avoid punishment or gain reward.
 
 **Evaluation.** Palmer and Hollin (1998) found offenders showed less mature moral reasoning than non-offenders. However, moral reasoning does not always predict moral behaviour. Gilligan (1982) argued Kohlberg's scale is androcentric because it was built on male participants and favours justice over care, which links to gender bias.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--20-psy-kohlberg-levels.webp" width="900" height="930" alt="Six stages in three levels; offenders thought more likely pre-conventional. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Kohlberg’s levels of moral reasoning.</figcaption>
+</figure>
+
 
 ### Cognitive explanations: cognitive distortions
 
@@ -169,6 +204,12 @@ The four **aims** of custodial sentencing are:
 - **Rehabilitation**: helping the offender change so they do not reoffend.
 
 **Psychological effects** include stress and depression, a raised risk of self-harm, **institutionalisation** (finding it hard to function outside prison) and **prisonisation** (adopting the norms of prison culture, a term from Clemmer, 1940). Reoffending after release is common, which challenges the deterrence and rehabilitation aims. Effects vary between individuals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-forensic-psychology--21-psy-custodial-aims.webp" width="900" height="800" alt="Deterrence, incapacitation, retribution and rehabilitation. Facts taken from the lesson text." loading="lazy">
+  <figcaption>The four aims of custodial sentencing.</figcaption>
+</figure>
+
 
 ### Behaviour modification in custody
 

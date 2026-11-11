@@ -114,6 +114,12 @@ A small farm tracks four inputs. The base year is 2022. Prices are in rupees.
 
 **Quick check:** the plain average of the four relatives is 120.75. That is higher than 118.16 because the heaviest-weighted items (fertiliser and diesel) have lower relatives than seed and pesticide. A weighted answer that lands between the lowest and highest relatives (115 and 130) is plausible. One outside that range is wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--09-index-weights.webp" width="900" height="810" alt="Four horizontal bars show base-year spending used as weights: flour 120 × 20 = 2 400, cooking oil 500 × 6 = 3 000, milk 200 × 30 = 6 000 and electricity 40 × 150 = 6 000. The weights total 17 400." loading="lazy">
+  <figcaption>Each weight is base-year price × base-year quantity; the weights total 17 400.</figcaption>
+</figure>
+
+
 ## 5. Reading price relatives and indices
 
 - **Above 100**: prices have risen. A relative of 108 means 8% higher than in the base year.
@@ -121,6 +127,17 @@ A small farm tracks four inputs. The base year is 2022. Prices are in rupees.
 - **Exactly 100**: no change.
 - An index describes the **average** change. It does not mean every item changed by that amount.
 - Comparing two later years: use the percentage change formula, not the difference in index points. Index points of 108 and 118.8 differ by 10.8 points, but the rise between them is 10.8 / 108 x 100 = 10%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--07-price-relative.webp" width="900" height="790" alt="Two pairs of bars drawn to one scale with the base-year price set to 100. Forwards: a bus fare of Rs 80 becoming Rs 92 has a price relative of 115, a rise of 15%. Backwards: a price relative of 135 with a current price of Rs 270 gives a base-year price of Rs 200." loading="lazy">
+  <figcaption>Price relative = price in the given year ÷ price in the base year × 100, and it can be worked backwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--08-price-relatives-four-items.webp" width="900" height="798" alt="Horizontal bars start at the base-year line 100. Flour (Rs 120 to Rs 150) has relative 125, cooking oil (Rs 500 to Rs 560) 112, milk (Rs 200 to Rs 230) 115 and electricity (Rs 40 to Rs 52) 130." loading="lazy">
+  <figcaption>The four price relatives in the worked example range from 112 to 130.</figcaption>
+</figure>
+
 
 ## 6. Limitations (always link them to the data)
 
@@ -167,6 +184,12 @@ A good limitation answer names a specific item. Compare "the weights may be out 
 9. A plain average gives every item the same importance. The weights are 600, 540 and 600, so the second item counts for less than the other two, and the weighted index (114.8) is slightly below 115.
 10. The weight of the second item (540) is now too large, so the index puts too much importance on a price the centre hardly pays.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--10-weighted-index-area.webp" width="900" height="850" alt="A bar chart where each bar’s width is its weight and its height is its price relative: flour 2 400 and 125, cooking oil 3 000 and 112, milk 6 000 and 115, electricity 6 000 and 130. A dashed line at 121.0 shows the weighted aggregate index. A plain average of the relatives, 120.5, is not the answer." loading="lazy">
+  <figcaption>The weighted index is the average height of the bars once each counts in proportion to its weight: 121.0.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing the division the wrong way up, so a price rise gives a relative below 100.
@@ -186,6 +209,12 @@ A good limitation answer names a specific item. Compare "the weights may be out 
 - Later in the syllabus: [time series and moving averages](/resources/o-level-statistics-4040-time-series-moving-averages/).
 - Check your readiness with the free [10-minute diagnostics](/diagnostics/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--11-index-cost-check.webp" width="900" height="830" alt="Two stacked columns show the cost of the 2023 quantities. At 2023 prices: flour 2 400, cooking oil 3 000, milk 6 000, electricity 6 000, total 17 400. At 2025 prices: 3 000, 3 360, 6 900 and 7 800, total 21 060. 21 060 ÷ 17 400 × 100 = 121.0, matching the weighted index." loading="lazy">
+  <figcaption>Check: the cost of the 2023 quantities at 2025 prices over the cost at 2023 prices, times 100, is 121.0.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **How do you find the percentage change between two index numbers?**
@@ -202,6 +231,12 @@ A correct weighted index lies between the lowest and highest price relatives. An
 
 **Which topics cover index numbers in Cambridge O Level Statistics 4040 and IGCSE Statistics 0479?**
 Index numbers are Topic 8 of the 4040 syllabus for examination in 2025, 2026 and 2027, and Topic 10 of the 0479 syllabus, covering price relatives, weighted aggregate index numbers and their limitations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--12-index-meaning.webp" width="900" height="850" alt="Top: a number line with 100 for 2023, 110.0 for 2024 and 121.0 for 2025; the rise is 11 index points, 11 ÷ 110 × 100 = 10% of the 2024 level. Bottom: the items’ relatives (oil 112, milk 115, flour 125, electricity 130) are spread around the index of 121.0, so it is an average, not the rise of every item." loading="lazy">
+  <figcaption>An index of 121.0 is a weighted average rise; items rose by between 12% and 30%.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

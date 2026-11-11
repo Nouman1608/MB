@@ -45,6 +45,12 @@ The mean tells you where the centre of a data set is. Dispersion tells you how f
 
 Its units are the units of the data. If the data are in minutes, the standard deviation is in minutes. A small standard deviation means the values are bunched near the mean. A large one means they are scattered. It cannot be negative, and it is zero only when every value is identical.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--01-sd-distances.webp" width="900" height="930" alt="A number line of six puzzle times (9, 10, 12, 14, 15 and 18 minutes) with the mean of 13 marked. Arrows run from each value to the mean and show the distances 1, 2, 4, 5, 1 and 3 (above or below). Below, a square is drawn for each distance, with areas 1, 4, 16, 25, 1 and 9, which add up to 56. Dividing by 6 gives 9.33 and the square root is 3.06 minutes, shown as a band either side of the mean." loading="lazy">
+  <figcaption>Six puzzle times: each distance from the mean is squared, the squares are averaged, and the square root gives the standard deviation of 3.06 minutes.</figcaption>
+</figure>
+
+
 ## The two formulae
 
 The syllabus expects you to recall and use a formula, and gives two forms. Here x̄ is the mean and n is the number of values.
@@ -62,6 +68,12 @@ Which to use:
 - Form 2 needs only Σx and Σx², so it is shorter when the mean is awkward, and it suits frequency tables.
 
 For a frequency distribution, replace n by Σf, Σx by Σfx and Σx² by Σfx².
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--02-sd-two-formulae.webp" width="900" height="740" alt="Two bars drawn to the same scale for the six puzzle times. Form 1: the squared distances add to 56, and six equal shares of that are 9.33 each. Form 2: the mean of the squares is 1070 divided by 6, which is 178.33; taking away the square of the mean, 13 squared or 169, leaves 9.33. Both forms give the same variance of 9.33, so the standard deviation is 3.06 minutes." loading="lazy">
+  <figcaption>Both forms reach the same variance of 9.33 for the six puzzle times, so both give a standard deviation of 3.06 minutes.</figcaption>
+</figure>
+
 
 ## Small data set
 
@@ -111,6 +123,12 @@ SD = √(158/40 − 1.7²) = √(3.95 − 2.89) = √1.06 = 1.03 (3 s.f.)
 ```
 
 So the typical batch is within about one faulty item of the mean of 1.7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--03-sd-frequency-tables.webp" width="900" height="1130" alt="Two bar charts. Top: 40 batches with 0 to 4 faulty items and frequencies 5, 12, 15, 6 and 2; the mean is 1.7 and the standard deviation 1.03, using sums of 40, 68 and 158. Bottom: queue times of 40 people in classes of width 10 from 0 to 50 with frequencies 4, 9, 15, 8 and 4; each class is represented by its midpoint 5, 15, 25, 35 or 45; the estimated mean is 24.75 and the estimated standard deviation 11.1 minutes, using sums of 40, 990 and 29 400." loading="lazy">
+  <figcaption>The same formula works for a frequency table: use x with f for ungrouped data, and class midpoints for grouped data (an estimate).</figcaption>
+</figure>
+
 
 ## Grouped frequency distribution: an estimate
 
@@ -166,6 +184,12 @@ For 11 values, the lower quartile is the 3rd value (25) and the upper quartile i
 
 One unusual delivery more than doubles the standard deviation and nearly triples the range. The IQR does not move. The first ten values are the same in both versions, so the IQR reports the same typical spread for each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--04-sd-extreme-value.webp" width="900" height="1070" alt="Two strips of 11 delivery times. In version A the last value is 36 and in version B it is 61. Both have the same lower quartile 25 and upper quartile 34, so the IQR is 9 in both. A bar chart compares the measures: range 14 against 39, IQR 9 against 9, and standard deviation 4.44 against 10.1." loading="lazy">
+  <figcaption>One breakdown (61 minutes instead of 36) nearly triples the range and more than doubles the SD, but the IQR stays at 9.</figcaption>
+</figure>
+
+
 ## Justifying a choice in context
 
 Do not just name a measure. Link the property of the measure to the data in the question. A good answer has three parts:
@@ -186,6 +210,12 @@ Useful rules of thumb:
 - A very quick comparison of two small sets: range, with a caution about extremes.
 
 When two sets are compared, say which has the larger spread and which is more consistent in the context, using the same measure for both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--05-sd-choose-measure.webp" width="900" height="890" alt="Four rows, each with a small picture, a data situation and a recommended measure. Data with an outlier or skewed shape: the IQR. Data where every value matters and the mean is the average: the standard deviation. A table with an open-ended class such as 60 and over: the IQR, because the range and standard deviation cannot be calculated. A quick comparison of two small sets: the range, with a caution about extremes." loading="lazy">
+  <figcaption>Match the measure to the data: outliers or skew point to the IQR, data where every value matters point to the standard deviation, and open-ended classes rule out the range and SD.</figcaption>
+</figure>
+
 
 ## Common errors
 

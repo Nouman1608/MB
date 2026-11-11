@@ -65,6 +65,12 @@ Behaviourists study only behaviour that can be observed and measured. They assum
 
 **Evaluation.** Pavlov measured salivation precisely under controlled conditions, so findings were objective and replicable. Classical conditioning also has practical use: it underpins therapies that link a feared stimulus with relaxation. But the research used dogs, and human learning involves thought, so generalising is a problem. It also explains only simple reflex responses, not new, complex behaviour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--01-pavlov-stages.webp" width="900" height="900" alt="Three stages of classical conditioning. Before: food (unconditioned stimulus) produces salivation (unconditioned response) with no learning, while a sound (neutral stimulus) produces no response. During: the sound and food are paired many times. After: the sound is a conditioned stimulus and alone produces salivation, now the conditioned response." loading="lazy">
+  <figcaption>How a neutral sound becomes a conditioned stimulus through pairing with food.</figcaption>
+</figure>
+
+
 ## Operant conditioning, reinforcement and Skinner
 
 **Operant conditioning** is learning from the consequences of behaviour. Behaviour followed by a pleasant outcome is repeated; behaviour followed by an unpleasant outcome is not.
@@ -87,6 +93,12 @@ Negative reinforcement is not punishment. Both reinforcements make behaviour *mo
 
 Each notification works as positive reinforcement, because a new message is a pleasant consequence of checking. Messages arrive at unpredictable times, so checking is on a variable ratio schedule. Skinner's work shows this schedule produces steady responding that is highly resistant to extinction. This explains why the teenager keeps checking even when most checks find nothing new.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--02-operant-consequences.webp" width="900" height="1000" alt="Three rows show behaviour, consequence and effect. A rat presses a lever and gets a food pellet (positive reinforcement) so pressing increases. Pressing switches off a loud noise (negative reinforcement) so pressing also increases. An unpleasant outcome after a behaviour (punishment) makes it decrease." loading="lazy">
+  <figcaption>Positive and negative reinforcement both increase behaviour; punishment decreases it.</figcaption>
+</figure>
+
+
 ## Social learning theory and Bandura
 
 Social learning theory (SLT) keeps the behaviourist idea that learning comes from the environment. It adds that we learn by watching others, and that thinking sits between what we see and what we do.
@@ -103,6 +115,17 @@ Social learning theory (SLT) keeps the behaviourist idea that learning comes fro
 
 **Evaluation.** SLT explains learning without direct reinforcement, which strict behaviourism cannot. The Bobo doll studies used controlled observations and standardised procedures, so they can be replicated. But a Bobo doll is designed to be hit, so children may have shown demand characteristics, and the studies measured behaviour straight afterwards, not over time. SLT also says little about biological factors, such as hormones, that may help explain why boys were more physically aggressive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--03-slt-mediational.webp" width="900" height="1064" alt="A model is rewarded while an observer watches (vicarious reinforcement); a dashed link shows identification. Four numbered steps give the mediational processes in order: attention, retention, reproduction, motivation." loading="lazy">
+  <figcaption>Watching a model, and the four mediational processes in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--04-bandura-1965.webp" width="900" height="1020" alt="Children watch an aggressive model who is rewarded, punished or faces no consequences. Those who saw punishment copied less aggression. When all children were then offered rewards for copying, aggression rose in every group, so vicarious reinforcement affected performance rather than learning." loading="lazy">
+  <figcaption>Bandura (1965): offering rewards showed that learning had happened in every group.</figcaption>
+</figure>
+
+
 ## The cognitive approach: mental processes, schema and models
 
 The cognitive approach studies **internal mental processes**: perception, attention, memory, language and thinking. These cannot be seen directly, so cognitive psychologists **infer** them from behaviour measured in controlled experiments. Ulric Neisser's 1967 book *Cognitive Psychology* helped establish the field.
@@ -114,6 +137,12 @@ The cognitive approach studies **internal mental processes**: perception, attent
 **Computer models** use the computer as an analogy: information is input, processed and stored, then output. Some researchers go further and write programs that simulate thinking, then compare the program's output with human performance.
 
 **Evaluation.** The approach uses lab experiments with tight control, so it is scientific and its findings can be replicated. It has practical value; for example, work on schema helps explain errors in eyewitness memory. However, mental processes are inferred, not observed, so models can be too abstract to test fully. The computer analogy also ignores emotion and motivation, which affect human thinking but not machines. Many tasks are artificial, such as recalling word lists, so ecological validity can be low.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--05-cognitive-models.webp" width="900" height="770" alt="Two box-and-arrow models. Computer analogy: input, processing, storage, output. Multi-store model of memory (1968): sensory register, short-term store, long-term store." loading="lazy">
+  <figcaption>Two box-and-arrow models of mental processes named in the lesson.</figcaption>
+</figure>
+
 
 ## The emergence of cognitive neuroscience
 
@@ -142,6 +171,17 @@ The biological approach explains behaviour through **genes**, **biological struc
 *Question: Evaluate the biological approach. (one paragraph of a longer answer)*
 
 One limitation is that genetic evidence rarely shows behaviour is fixed by genes alone. If a trait were wholly genetic, MZ twins would show 100% concordance, but twin studies do not find this. This means the environment shapes how a genotype becomes a phenotype, as PKU shows: the same genotype leads to very different outcomes depending on diet. So the approach is strongest when it is combined with environmental explanations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--06-twin-concordance.webp" width="900" height="920" alt="Identical (MZ) twins share all their genes and non-identical (DZ) twins about half on average. If MZ concordance is clearly higher than DZ concordance a genetic influence is suggested, but no trait shows 100% MZ concordance, so the environment matters too." loading="lazy">
+  <figcaption>How comparing MZ and DZ concordance suggests a genetic influence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--07-pku-genotype-phenotype.webp" width="900" height="900" alt="Two altered copies of the PAH gene mean a person cannot break down phenylalanine. Without treatment this causes intellectual disability; with a low-phenylalanine diet from early infancy, after newborn heel-prick screening, development is normal. Same genotype, different phenotype." loading="lazy">
+  <figcaption>PKU shows the same genotype producing different phenotypes.</figcaption>
+</figure>
+
 
 ## Common errors
 

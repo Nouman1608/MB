@@ -66,6 +66,27 @@ Test yourself with the [issues and debates practice questions](/resources/aqa-a-
 | Nomothetic approach | Study of groups to find general laws; quantitative |
 | Socially sensitive research | Research with potential social consequences for participants or the group they represent |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--09-issues-etic-emic.webp" width="900" height="920" alt="Left, an observer outside a culture looks in for universals: the etic approach. Right, an observer inside the culture studies it from within: the emic approach. Below, a tool made in culture A is applied as if universal in culture B, which is an imposed etic; the example is the Strange Situation developed in the USA." loading="lazy">
+  <figcaption>An imposed etic uses a tool built in one culture as if it were universal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--11-issues-nature-nurture.webp" width="900" height="850" alt="A bar from nature (heredity) on the left to nurture (environment) on the right with the interactionist approach marked in the middle as both working together. Two examples of interaction: in the diathesis-stress model a vulnerability plus a stressor leads to a disorder; in PKU a gene plus a special diet means the harm is prevented." loading="lazy">
+  <figcaption>The interactionist approach says behaviour comes from nature and nurture together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--13-issues-levels-reductionism.webp" width="900" height="940" alt="Three stacked levels of explanation: socio-cultural (social norms, group influence), psychological (thoughts, emotions, learning) and physical or biological (brain areas, neurotransmitters, genes). An arrow down the side shows reductionism moving to lower levels. Biological reductionism explains at the lowest level; environmental stimulus-response reductionism explains by learned links. Holism studies the whole." loading="lazy">
+  <figcaption>Reductionism moves down the levels; holism keeps the whole in view.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--14-issues-idiographic-nomothetic.webp" width="900" height="870" alt="Left, the idiographic approach studies one individual in depth with qualitative methods such as case studies; example Phineas Gage. Right, the nomothetic approach studies groups to find general laws with quantitative methods; example Milgram. A link below shows that case studies suggest hypotheses that nomothetic research then tests." loading="lazy">
+  <figcaption>The two approaches work together: case studies suggest hypotheses, nomothetic research tests them.</figcaption>
+</figure>
+
+
 ## Studies and theories at a glance
 
 | Who | What | Finding or claim | One evaluation point |
@@ -81,6 +102,12 @@ Test yourself with the [issues and debates practice questions](/resources/aqa-a-
 | Allport (1937) | Personality | Made the idiographic-nomothetic distinction widely known in personality psychology | Shows both approaches have a place |
 | Sieber and Stanley (1988) | Socially sensitive research | Four points where issues arise | Researchers cannot control how findings are used |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--15-issues-social-sensitivity.webp" width="900" height="890" alt="Four numbered points in a chain, from Sieber and Stanley: the research question, the conduct of the research, the institutional context and the interpretation and application of findings. Each has a short prompt, such as whether asking the question could cause harm, protecting participants through confidentiality, who funds the research and how findings shape policy or opinion." loading="lazy">
+  <figcaption>Socially sensitive issues can arise at four points in a study.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Alpha vs beta bias.** Alpha *adds* or exaggerates difference; beta *removes* or hides difference.
@@ -91,6 +118,12 @@ Test yourself with the [issues and debates practice questions](/resources/aqa-a-
 - **Biological vs environmental reductionism.** One reduces to physiology; the other to stimulus-response links.
 - **Idiographic vs nomothetic.** One person in depth vs general laws from many.
 - **Ethical issues vs social sensitivity.** Ethical issues concern the participants; social sensitivity also covers the wider group and how findings are used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--12-issues-heritability.webp" width="900" height="900" alt="A scale from 0 to 1 with a marker at 0.5, the lesson’s example. A heritability of 0.5 describes variation across a population, not half of one person’s trait. Below, identical twins show higher concordance than non-identical twins, which suggests a genetic influence." loading="lazy">
+  <figcaption>Heritability describes a population, never one individual; higher MZ than DZ concordance suggests genes.</figcaption>
+</figure>
+
 
 ## Linking each debate to your other topics
 
@@ -183,6 +216,17 @@ Both say behaviour has causes. Hard determinism says free will is an illusion, w
 
 **What are the three levels of explanation?**
 They are socio-cultural, psychological and biological (physical). The same behaviour, such as anxiety, can be explained at each level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--08-issues-gender-bias.webp" width="900" height="960" alt="Three rows. Alpha bias: bars for men and women with a large gap, exaggerating differences; example Freud’s weaker female superego. Beta bias: equal bars, ignoring or minimising differences; example fight-or-flight research on mostly male samples. Androcentrism: a large figure as the norm and a smaller figure judged different; example Kohlberg’s theory built from interviews with boys." loading="lazy">
+  <figcaption>Alpha exaggerates differences, beta minimises them, androcentrism makes male the norm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-issues-and-debates--10-issues-determinism.webp" width="900" height="920" alt="A row of three positions: hard determinism (all behaviour has causes; free will is an illusion), soft determinism (behaviour has causes but some conscious choice remains) and free will (people can choose within limits). Below, three sources of cause: biological (genes, hormones, brain), environmental (learning, as in Skinner) and psychic (unconscious forces, as in Freud)." loading="lazy">
+  <figcaption>Soft determinism sits between hard determinism and free will; the three types name the cause.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

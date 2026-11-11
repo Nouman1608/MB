@@ -43,6 +43,12 @@ Related links: [Cambridge IGCSE Statistics course page](/boards/cambridge/igcse/
 
 Form 2 reads: mean of the squares, minus the square of the mean. Whatever is under the root is the variance, so the SD is the square root of the variance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--02-sd-two-formulae.webp" width="900" height="740" alt="Two bars drawn to the same scale for the six puzzle times. Form 1: the squared distances add to 56, and six equal shares of that are 9.33 each. Form 2: the mean of the squares is 1070 divided by 6, which is 178.33; taking away the square of the mean, 13 squared or 169, leaves 9.33. Both forms give the same variance of 9.33, so the standard deviation is 3.06 minutes." loading="lazy">
+  <figcaption>Both forms reach the same variance of 9.33 for the six puzzle times, so both give a standard deviation of 3.06 minutes.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 Small data set or ungrouped table, Form 2:
@@ -89,6 +95,12 @@ Mean = 39/20 = 1.95
 SD = √(89/20 − 1.95²) = √(4.45 − 3.8025) = √0.6475 = 0.805
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--03-sd-frequency-tables.webp" width="900" height="1130" alt="Two bar charts. Top: 40 batches with 0 to 4 faulty items and frequencies 5, 12, 15, 6 and 2; the mean is 1.7 and the standard deviation 1.03, using sums of 40, 68 and 158. Bottom: queue times of 40 people in classes of width 10 from 0 to 50 with frequencies 4, 9, 15, 8 and 4; each class is represented by its midpoint 5, 15, 25, 35 or 45; the estimated mean is 24.75 and the estimated standard deviation 11.1 minutes, using sums of 40, 990 and 29 400." loading="lazy">
+  <figcaption>The same formula works for a frequency table: use x with f for ungrouped data, and class midpoints for grouped data (an estimate).</figcaption>
+</figure>
+
+
 ### Grouped table
 
 | Class | 0 ≤ x < 5 | 5 ≤ x < 10 | 10 ≤ x < 15 | 15 ≤ x < 20 |
@@ -127,6 +139,17 @@ IQR = 28 − 16 = 12
 ```
 
 The range uses two values. The IQR uses the two quartiles. Neither uses all seven values, which is the main reason the standard deviation can be preferred when no extreme value is present.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--04-sd-extreme-value.webp" width="900" height="1070" alt="Two strips of 11 delivery times. In version A the last value is 36 and in version B it is 61. Both have the same lower quartile 25 and upper quartile 34, so the IQR is 9 in both. A bar chart compares the measures: range 14 against 39, IQR 9 against 9, and standard deviation 4.44 against 10.1." loading="lazy">
+  <figcaption>One breakdown (61 minutes instead of 36) nearly triples the range and more than doubles the SD, but the IQR stays at 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--05-sd-choose-measure.webp" width="900" height="890" alt="Four rows, each with a small picture, a data situation and a recommended measure. Data with an outlier or skewed shape: the IQR. Data where every value matters and the mean is the average: the standard deviation. A table with an open-ended class such as 60 and over: the IQR, because the range and standard deviation cannot be calculated. A quick comparison of two small sets: the range, with a caution about extremes." loading="lazy">
+  <figcaption>Match the measure to the data: outliers or skew point to the IQR, data where every value matters point to the standard deviation, and open-ended classes rule out the range and SD.</figcaption>
+</figure>
+
 
 ## Comparing the three measures (outcome 5.7)
 
@@ -215,6 +238,12 @@ It has a conclusion, a comparison of the figures, and a reason. Copy the pattern
 - Calling a grouped result exact. Say "estimate".
 - Naming a measure without linking it to the context, for example saying "IQR is better" without mentioning the extreme value.
 - Judging consistency from the mean rather than from the spread.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion--01-sd-distances.webp" width="900" height="930" alt="A number line of six puzzle times (9, 10, 12, 14, 15 and 18 minutes) with the mean of 13 marked. Arrows run from each value to the mean and show the distances 1, 2, 4, 5, 1 and 3 (above or below). Below, a square is drawn for each distance, with areas 1, 4, 16, 25, 1 and 9, which add up to 56. Dividing by 6 gives 9.33 and the square root is 3.06 minutes, shown as a band either side of the mean." loading="lazy">
+  <figcaption>Six puzzle times: each distance from the mean is squared, the squares are averaged, and the square root gives the standard deviation of 3.06 minutes.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

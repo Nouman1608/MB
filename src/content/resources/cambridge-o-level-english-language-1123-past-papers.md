@@ -32,6 +32,17 @@ Use the three documents together. Sit the paper first, under timed conditions. M
 
 **Which syllabus was each paper set on?** The current syllabus (valid for 2024, 2025 and 2026) has two papers: Paper 1 Reading and Paper 2 Writing, each worth 50%. The examiner notes confirm that June 2024 was the first sitting of this version. Every series before June 2024 was set on the earlier syllabus. In the 2022 and 2023 papers we summarise, the order was the other way round: Paper 1 was Writing and Paper 2 was Reading. So Papers 11 and 12 from 2022 and 2023 are Writing papers, and Papers 21 and 22 are Reading papers. The task types differ too: the older Reading papers were built around notes for a summary, picking out the writer's advice and a two-part meaning-and-effect question, while the current Reading papers have a selective summary and a short perspective task, and the current directed writing task is based on two texts. For anything older than 2022, check the syllabus version on the paper's front cover against the current syllabus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-past-papers--12-o-swap.webp" width="900" height="970" alt="Before June 2024, Papers 11 and 12 were Writing and Papers 21 and 22 were Reading. From June 2024, Papers 11 and 12 are Reading and Papers 21 and 22 are Writing; crossing arrows show the swap. A strip of eight series from June 2022 to November 2025 shows the first four on the earlier syllabus and the last four on the current one, with June 2024 as the first sitting." loading="lazy">
+  <figcaption>From June 2024 the 1x papers are Reading and the 2x papers are Writing; before that it was the reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-past-papers--13-o-tasks.webp" width="900" height="900" alt="Two columns compare task types. Earlier syllabus Reading: notes for a summary, the writer’s advice, and a two-part meaning-and-effect question. Earlier Writing: directed writing and a composition (descriptive, argumentative or narrative). Current syllabus Reading: a selective summary and a short perspective task. Current Writing: directed writing based on two texts, and a composition." loading="lazy">
+  <figcaption>The current Reading papers use a selective summary and a perspective task; directed writing now draws on two texts.</figcaption>
+</figure>
+
+
 ## Series index
 
 | Series | Papers (components) examined | Examiner report notes | Grade thresholds |
@@ -86,6 +97,12 @@ The syllabus has two strands, Reading and Writing. These are the faults that com
 - Plan before you write, then stay near the suggested word count. Very long answers tend to collect more errors, not more marks.
 - Leave about five minutes per task to proofread for tense, articles, agreement and punctuation.
 - Delete a mistake with a single line, and if you run out of space continue on a clearly labelled extra page.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-past-papers--15-o-faults.webp" width="900" height="870" alt="A grid of eight common faults against the eight series from June 2022 to November 2025. A filled dot means the examiner report named the fault in that series. Own-words answers and descriptive writing that turns into a story appear in all eight series; the other six faults appear in five to seven series." loading="lazy">
+  <figcaption>Own-words slips and descriptions that become stories appear in every series from June 2022 to November 2025.</figcaption>
+</figure>
+
 
 ## November 2025
 
@@ -150,6 +167,12 @@ In the second sitting of the new syllabus, Reading candidates again found retrie
 | Y | 12, 22 | 100 | 82 | 73 | 64 | 56 | 48 | 41 |
 
 Official documents: [past papers, mark schemes and examiner report](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-english-language-1123/past-papers/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-past-papers--14-o-thresholds.webp" width="900" height="830" alt="A line chart of grade thresholds out of 100 for Option X (papers 11 and 21) over six series. A* goes 84, 83, 82, 85, 71, 80. C goes 61, 60, 58, 62, 47, 53. E goes 46, 46, 44, 48, 34, 39. June 2024, the first sitting of the current syllabus, has the lowest thresholds of the six. Thresholds change every series." loading="lazy">
+  <figcaption>Thresholds move from series to series, so they cannot be used to predict future ones.</figcaption>
+</figure>
+
 
 ## June 2024
 
@@ -274,6 +297,12 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. **Try a free diagnostic.** There is no dedicated 1123 diagnostic yet, but you can see what we offer on the [diagnostics page](/diagnostics/).
 6. **Re-test on a different series** a week or two later, and compare your marks against that series' thresholds. See [grade thresholds](/grade-thresholds/) for the June 2026 figures for our flagship syllabuses, and the [exam calendar](/exam-calendar/) for your dates.
 7. **Get feedback on your writing.** Having a teacher mark your directed writing and compositions shows you which level you are working at. Book a [free trial lesson](/trial/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-past-papers--16-o-loop.webp" width="900" height="930" alt="A five-step loop. One: sit a paper under timed conditions. Two: mark it strictly with the mark scheme. Three: read the examiner report notes for that series. Four: fix the weak skill. Five: re-test on a different series a week or two later. A return arrow leads back to step one." loading="lazy">
+  <figcaption>Sit, mark, read the report, fix, then re-test on a different series.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

@@ -73,6 +73,12 @@ Check your progress against the [Geography checklist](/checklists/cambridge/a-le
 | Informal sector | Economic activity not registered, regulated or taxed by the state |
 | Footloose industry | Industry not tied to materials or a market, free to choose among many locations |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--13-pl-agglomeration-linkages.webp" width="900" height="900" alt="A cluster of firms in a dashed box. A central firm has a backward linkage from a supplier, a forward linkage to a customer, a horizontal linkage between two parts firms and a service linkage from transport, finance and repair firms. Clustering brings a skilled labour pool, shared suppliers, services and infrastructure." loading="lazy">
+  <figcaption>Functional linkages connect firms in an industrial cluster.</figcaption>
+</figure>
+
+
 ## Theories and case studies at a glance
 
 | Who / what | What it says or shows | Key detail | One evaluation point |
@@ -87,6 +93,27 @@ Check your progress against the [Geography checklist](/checklists/cambridge/a-le
 | Jua kali, Kenya (informal sector) | "Hot sun" in Swahili: informal enterprises, such as the Kamukunji cluster in Nairobi | Thousands of small firms with their own association | Supplies jobs and cheap goods, but low, unstable pay |
 | Malaysia, industrial policy (11.4) | Import substitution, then export zones, heavy industry, master plans | Bayan Lepas FIZ (1972); Proton (1983); MSC (1996) | Strong electronics exports, but Proton's share fell from 74% (1993) to 32% (2006) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--08-pl-von-thunen.webp" width="900" height="1180" alt="Concentric rings around a market town: market gardening and dairying close in, grain and ranching further out. A graph of locational rent against distance with illustrative lines shows the steeper intensive line overtaken by the shallower extensive line at about 6.7 units, and zero rent at about 13.3 units." loading="lazy">
+  <figcaption>Locational rent explains why land uses with high rent near the market give way to extensive uses further out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--09-pl-farm-systems.webp" width="900" height="870" alt="Two rows of linked boxes. Prairie wheat: inputs, throughputs and outputs with a storage and marketing subsystem. Waikato dairy: the same structure with a grass subsystem feeding the herd." loading="lazy">
+  <figcaption>A farm system has inputs, throughputs, subsystems and outputs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--11-pl-india-timeline.webp" width="900" height="1126" alt="A vertical timeline in two lanes. National: mid-1960s food shortages and MSP; 2015 Soil Health Card; 2019 PM-KISAN; September 2020 farm laws; 19 November 2021 repeal. Farm scale in Punjab: late 1960s Green Revolution, 2009 delayed rice planting, 2022 MSP offer for maize and bajra." loading="lazy">
+  <figcaption>The India case study needs both the farm scale and the national scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--14-pl-malaysia-industrial-policy.webp" width="900" height="1214" alt="A timeline in four phases from import substitution to master plans and the knowledge industry, with key dates from 1971 to 2017. A bar chart shows Proton’s market share falling from 74 per cent in 1993 to 32 per cent in 2006." loading="lazy">
+  <figcaption>Malaysia’s policy shifted from protecting home industry to attracting exports, heavy industry and knowledge industry.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Intensive v extensive:** inputs per hectare, not farm size. A large feedlot is intensive.
@@ -99,6 +126,12 @@ Check your progress against the [Geography checklist](/checklists/cambridge/a-le
 - **Industrial estate v EPZ:** an estate serves any firm; an EPZ is for export processing with customs and tax privileges.
 - **Informal v formal sector:** registration, regulation and tax, not legality of the product.
 - **Local v national scale (11.2):** the syllabus asks for both; one farm or producer, plus national policy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--10-pl-productivity.webp" width="900" height="930" alt="Two illustrative farms: a 1-hectare smallholder rice farm with 4 workers producing 5 tonnes and an 800-hectare Prairie wheat farm with 2 workers producing 2,400 tonnes. The smallholder has higher output per hectare, 5.0 against 3.0 tonnes, but far lower output per worker, 1.25 against 1,200 tonnes." loading="lazy">
+  <figcaption>Always say whether productivity is per hectare or per worker.</figcaption>
+</figure>
+
 
 ## Mini essay plan
 
@@ -142,6 +175,12 @@ Keep a judgement in every paragraph, not only the last.
 10. Duty-free import of materials; production mainly for export (tax holidays are common).
 11. Any three: unregistered, small scale, low capital, easy entry, irregular income, no legal protection.
 12. Bayan Lepas Free Industrial Zone; electronics and semiconductors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-production-location-and-change--12-pl-punjab-problems.webp" width="900" height="1020" alt="A rice-wheat rotation leads to a falling water table, stubble burning and debt. Responses are a 2009 law delaying rice planting, the Happy Seeder that sows through stubble, and a 2022 MSP offer for maize and bajra." loading="lazy">
+  <figcaption>Local fixes can address one problem while the system stays under pressure.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -93,6 +93,12 @@ HV7: 8 frames, 0.0 kg
 
 `Beehive` is the class; `hive_id`, `frames` and `honey_kg` are attributes; `add_honey` and `describe` are methods. `Beehive("HV3", 10)` instantiates an object, and the constructor runs at once to set its starting state, with `honey_kg` fixed at 0.0. `north` and `south` are separate objects, each with its own copy of every attribute, so adding honey to `north` leaves `south` untouched.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming--13-oo-class-objects.webp" width="900" height="838" alt="The Beehive class is a template with attributes hive_id, frames and honey_kg and methods add_honey and describe. Instantiating it twice gives two separate objects: north with hive_id HV3, 10 frames and 6.75 kg of honey (after adding 4.5 and 2.25), and south with hive_id HV7, 8 frames and 0.0 kg. Each object has its own copy of every attribute, so adding honey to north leaves south unchanged." loading="lazy">
+  <figcaption>A class is the template; north and south are separate objects with their own attributes.</figcaption>
+</figure>
+
+
 ## 3.9.2 Encapsulation
 
 **Encapsulation** hides how a class works and how it stores its data from other classes, which use only the methods it makes public.
@@ -143,6 +149,12 @@ True 38.2
 ```
 
 The first call is rejected. Reading `unit.__target_c` from outside the class raises an `AttributeError`. Design rule: make attributes private by default and add only the getters and setters other classes need; a value with no setter is read-only from outside.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming--14-oo-encapsulation.webp" width="900" height="900" alt="The Incubator keeps its target temperature in a private attribute, __target_c, starting at 37.5. Other code can reach it only through the public methods set_target and get_target. The setter accepts values from 36.0 to 39.5 only: set_target(41.0) returns False and the target stays 37.5, while set_target(38.2) returns True and the target becomes 38.2. Reading unit.__target_c directly from outside the class raises an AttributeError." loading="lazy">
+  <figcaption>A setter guards a private attribute; direct access from outside fails.</figcaption>
+</figure>
+
 
 ## 3.9.3 Relationships between classes
 
@@ -249,6 +261,17 @@ The specification shows inheritance as a line with an unfilled triangle head, an
 
 `Cactus` lists `weekly_water_ml` again because it overrides it, but not the inherited `summary`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming--15-oo-inheritance.webp" width="900" height="914" alt="Class diagram. Plant has public attribute label, protected attribute pot_litres, and methods weekly_water_ml and summary. Cactus inherits from Plant (unfilled triangle pointing at the base class), adds a public spines attribute and overrides weekly_water_ml. A fern, which is a Plant, with a 4 litre pot needs 4 times 150, which is 600 millilitres a week. An aloe, which is a Cactus, with the same pot needs 4 times 25, which is 100 millilitres, because the inherited summary method calls the overridden version." loading="lazy">
+  <figcaption>Cactus inherits from Plant and overrides weekly_water_ml, so aloe needs 100 ml not 600 ml.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming--16-oo-association.webp" width="900" height="830" alt="An evening choir has three singers: Leocadia (alto), Oskar (tenor) and Rafe (tenor). A festival choir has only Rafe. Plain lines show association: a Choir uses Singers. count_part for tenor returns 2 for the evening choir and 1 for the festival choir. Rafe is a single object shared by both choirs, not copied. Compare: a Cactus is a Plant is inheritance, whereas a Choir uses Singers is association." loading="lazy">
+  <figcaption>One Singer object used by two Choir objects; association is weaker than inheritance.</figcaption>
+</figure>
+
+
 ## 3.9.4.1 Files
 
 You must be able to write to and read from a text file. Three steps: **open** the file in a mode, **read or write** lines, **close** it. In Python, `with open(...)` closes the file for you.
@@ -277,6 +300,12 @@ with open("summary.txt", "w") as f:
 ```
 
 `summary.txt` then holds `Readings: 6`, `Mean: 18.2` and `Highest: 22`. Each line read ends in a newline, so `strip()` comes before `int()`; `write` adds none, so you add `"\n"`. Reopening with `"a"` and writing one line gives four lines; `"w"` would wipe the file first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming--17-oo-file-modes.webp" width="900" height="900" alt="Three file modes: r reads and the file must exist; w writes and creates the file or wipes an existing one; a appends to the end and keeps what is there. In the example, readings.txt holds six temperatures 14, 17, 21, 19, 16 and 22. The program reads them, works out the mean and the highest, and writes summary.txt with three lines: Readings: 6, Mean: 18.2 and Highest: 22. strip() removes the newline before int(), and write adds no newline of its own. Reopening summary.txt with a and writing one line gives four lines; w would wipe it first." loading="lazy">
+  <figcaption>File modes r, w and a, and the readings-to-summary example.</figcaption>
+</figure>
+
 
 ## 3.9.4.2 Recursion
 
@@ -324,6 +353,17 @@ def count_char(text, ch):
 ```
 
 One base case (empty string) and two recursive cases. Each call drops the first character, so the string shrinks towards the base case. `count_char("tattoo", "t")` returns **3**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming--18-oo-recursion-ways.webp" width="900" height="900" alt="Call tree for ways(n), which counts the ways to climb n steps taking one or two at a time. ways(5) calls ways(4) and ways(3); ways(4) calls ways(3) and ways(2); each ways(3) calls ways(2) and ways(1). The base cases ways(1) = 1 and ways(2) = 2 stop the recursion. Working back up gives ways(3) = 3, ways(4) = 5 and ways(5) = 8. There are 9 calls in total, and ways(3) is worked out twice." loading="lazy">
+  <figcaption>The 9 calls of ways(5), with two base cases and ways(3) worked out twice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming--19-oo-recursion-string.webp" width="900" height="854" alt="The recursive function count_char counts how often a character appears in a string. Each call removes the first character: tattoo, attoo, ttoo, too, oo, o, then the empty string, which is the base case and returns 0. Going back up, o and oo return 0, too returns 1 plus 0 which is 1, ttoo returns 1 plus 1 which is 2, attoo returns 2, and tattoo returns 1 plus 2 which is 3. The first character is highlighted in gold when it matches t." loading="lazy">
+  <figcaption>Each call drops a character until the empty-string base case, then results add back up.</figcaption>
+</figure>
+
 
 ## Common errors
 

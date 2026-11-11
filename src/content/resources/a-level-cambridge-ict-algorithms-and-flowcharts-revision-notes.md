@@ -39,6 +39,12 @@ Course links: [Cambridge A Level ICT hub](/boards/cambridge/a-level/ict/) · [pr
 - **Rogue value**: a value that marks the end of the data (for example -1 or 0) and is not processed.
 - **Trace table**: a table that records the value of each variable after each step, used to test an algorithm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--04-alg-nested-loops.webp" width="900" height="740" alt="Grid of Row times Col for 3 rows and 4 columns with row totals 10, 20, 30 and GrandTotal 60; inner body runs 12 times." loading="lazy">
+  <figcaption>The inner loop completes for every pass of the outer loop.</figcaption>
+</figure>
+
+
 ## 4.1 Pseudocode keywords at a glance
 
 | Keyword(s) | Job | Pattern |
@@ -98,6 +104,12 @@ Assignment: this page uses `←`. The syllabus does not fix a symbol; just be co
 2. Write a new row each time a value changes.
 3. Check each decision against the current values, not the values you expect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--03-alg-for-trace.webp" width="900" height="810" alt="Stacked staircase of readings 4, 0, 12, 7, 3, 10 giving running totals 4, 4, 16, 23, 26, 36; output 36 and 6." loading="lazy">
+  <figcaption>Total grows by each reading inside the loop; Total is set to 0 before the loop.</figcaption>
+</figure>
+
+
 ## 4.2 Flowchart symbols
 
 These are the shapes in the syllabus's own symbols table.
@@ -117,6 +129,17 @@ Rules that earn the marks:
 - Every decision has two labelled exits.
 - Loops are drawn as a flowline going back up to an earlier symbol.
 - Every flowline has an arrowhead; no box is left with no way out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--05-alg-flowchart-symbols.webp" width="900" height="950" alt="Seven symbols: terminator, input/output parallelogram, process rectangle, decision diamond, subroutine rectangle with double side lines, connector circle and flowline arrow, each with its use." loading="lazy">
+  <figcaption>The seven flowchart symbols and what each is used for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--06-alg-till-flowchart.webp" width="900" height="1100" alt="Shop till flowchart with START, Total set to 0, INPUT Price, decision Price = 0 with loop back, decision Total &gt; 50 with 10 percent off, PrintReceipt subroutine, OUTPUT Total and STOP. Test 1 (20, 18, 25, 0) gives 56.70; test 2 (12, 30, 0) gives 42." loading="lazy">
+  <figcaption>The till flowchart in standard symbols, with the lesson test data traced.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -169,6 +192,12 @@ Rules that earn the marks:
 10. It runs when the value matches none of the listed cases, so invalid values are handled.
 11. REPEAT…UNTIL, because the PIN must be asked for at least once and the test comes after the input.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--01-alg-if-branching.webp" width="900" height="840" alt="A decision flow for the cinema price: INPUT Age; Age &lt; 16 gives price 6; otherwise Age &gt; 64 gives 7; otherwise 10. Boundary ages 15, 16, 64, 65 are placed under the price they receive." loading="lazy">
+  <figcaption>Nested IF sends each age to one of three prices; boundary ages fall on the correct side.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Initialising a total or counter inside the loop, so it resets every pass.
@@ -195,6 +224,17 @@ Use CASE...ENDCASE when choosing between several fixed values of one variable, s
 
 **How do you complete a trace table?**
 Use one column per variable plus one for output, write a new row each time a value changes, and check each decision against the current values rather than the values you expect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--02-alg-while-repeat.webp" width="900" height="830" alt="Two loop flows: WHILE tests at the top so the body can run 0 times; REPEAT tests at the bottom so the body runs at least once and stops when the condition becomes true." loading="lazy">
+  <figcaption>WHILE tests first and can run zero times; REPEAT tests last and runs at least once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--07-alg-find-errors.webp" width="900" height="870" alt="Seven lines of pseudocode with line 4 (adds Count instead of Num) and line 6 (divides by 9) highlighted. With ten 1s the expected average is 1; the faulty trace gives 6.1 and the fixed version 1." loading="lazy">
+  <figcaption>Tracing with simple test data exposes the two errors.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

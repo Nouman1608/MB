@@ -61,6 +61,22 @@ It is "crude" because it ignores how the population is made up. Deaths
 depend strongly on age, so a town with many elderly residents will have a
 high crude death rate even if every age group in it is healthy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--01-crude-rate.webp" width="900" height="980" alt="A town of 84 000 people is drawn as 84 blocks, each standing for 1 000 people. One block is enlarged to show 15.5 births, because 1 302 births spread over 84 blocks is 15.5 per block. The formula crude rate equals events divided by population times 1 000 gives 15.5 per thousand." loading="lazy">
+  <figcaption>A crude rate counts events per 1 000 people: 1 302 births in 84 000 people is 15.5 per thousand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--02-age-structure.webp" width="900" height="850" alt="Two bars of equal length show towns of 40 000 people split into four age groups. In Town A, 5 thousand are aged 65 and over, one in eight, and the crude death rate is 10.15 per thousand. In Town B, 2 thousand are 65 and over, one in twenty, and the crude death rate is 6.75." loading="lazy">
+  <figcaption>Two towns of the same size can have very different age structures, which lifts the crude death rate of the older one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--05-rates-ranking-flips.webp" width="900" height="840" alt="Two pairs of bars. Crude death rate: Town A 10.15 is higher than Town B 6.75. Standardised death rate: Town A 11.35 is lower than Town B 12.65. The ranking flips because one in eight of Town A is aged 65 or over." loading="lazy">
+  <figcaption>Town A has the higher crude death rate, but Town B has the higher standardised death rate.</figcaption>
+</figure>
+
+
 ## 2. Age-specific rates
 
 To see past the age structure, work out a separate rate for each age group
@@ -70,6 +86,12 @@ To see past the age structure, work out a separate rate for each age group
 
 This is the step most questions are built on. If a table gives population and
 deaths by age group, you will almost always need these rates first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--03-age-specific-rates.webp" width="900" height="850" alt="Horizontal bars compare deaths per 1 000 people in four age groups. Town A: 2.0, 3.0, 9.0 and 50.0. Town B: 2.5, 3.5, 10.0 and 55.0. Town B is higher in every group." loading="lazy">
+  <figcaption>Age-specific rates remove the effect of age structure: Town B is higher in every age group.</figcaption>
+</figure>
+
 
 ## 3. Why standardise?
 
@@ -87,6 +109,12 @@ subgroups". The weights are the standard population:
 
 The standard population may be given as numbers of people or as
 percentages. The method is the same; with percentages, the divisor is 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--04-standardised-rate.webp" width="900" height="910" alt="A 10 by 10 grid shows the standard population of 100 people: 20 aged 0 to 14, 40 aged 15 to 44, 25 aged 45 to 64 and 15 aged 65 and over. Two stacked bars show how much each age group adds to the standardised death rate: Town A 0.40, 1.20, 2.25 and 7.50 making 11.35; Town B 0.50, 1.40, 2.50 and 8.25 making 12.65." loading="lazy">
+  <figcaption>A standardised rate weights each age-specific rate by the standard population: Town A 11.35, Town B 12.65.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -143,6 +171,12 @@ A rate can be turned back into a number of events:
 - If the age-specific rate for people aged 65 and over is 45 per thousand and
   6 400 people are in that group, the expected number of deaths in that group
   is 45 × 6 400 ÷ 1000 = **288**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-crude-and-standardised-rates--06-rate-to-events.webp" width="900" height="840" alt="A district of 125 000 people is drawn as 125 blocks of 1 000 with 8.4 deaths per block, giving 1 050 deaths. A group of 6 400 people aged 65 and over is drawn as six blocks of 45 deaths and a 0.4 block of 18 deaths, giving 288 deaths." loading="lazy">
+  <figcaption>Events = rate × population ÷ 1 000, so 8.4 per thousand in 125 000 people is 1 050 deaths.</figcaption>
+</figure>
+
 
 ## Other kinds of rate
 

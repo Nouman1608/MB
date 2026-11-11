@@ -74,6 +74,17 @@ Test yourself afterwards with the [practice questions for this unit](/resources/
 | Primary / secondary impact | Caused directly by the event / caused by the primary impacts |
 | Hazard mapping | Zoning land by level of danger to guide planning and evacuation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--15-hz-liquefaction.webp" width="900" height="1010" alt="Two cross-sections of saturated sand with a house on top. Before shaking, the sand grains touch each other in a packed pattern and the ground is firm. During shaking, pore-water pressure rises, upward arrows show water pushing the grains apart, the grains float separately, the ground behaves like a liquid, the house tilts and sinks, and silt reaches the surface." loading="lazy">
+  <figcaption>Shaking raises pore-water pressure in saturated sand or silt until the grains float apart and the ground behaves like a liquid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--16-hz-tsunami-uplift.webp" width="900" height="1020" alt="Two side views of a subduction zone, with a plate sinking beneath another. In the first the plates are stuck together. In the second the sea floor suddenly lifts up, the water column above it is displaced upwards into a hump, and a wave travels towards the coast. Text notes that the 2011 Tohoku earthquake (Mw 9.0 to 9.1) caused a 38.9 m run-up at Miyako and 19,759 deaths." loading="lazy">
+  <figcaption>Sudden uplift of the sea floor at a subduction zone displaces the water column and sends a tsunami toward the coast.</figcaption>
+</figure>
+
+
 ## Case studies at a glance
 
 ### 9.1 Tectonic
@@ -95,6 +106,12 @@ Test yourself afterwards with the [practice questions for this unit](/resources/
 | Freetown, Sierra Leone, 14 August 2017 | Mudslides | 1,141 dead or missing; about 1,000 mm of rain since 1 July | Deforestation and informal housing turned heavy rain into disaster |
 | Oso, USA, 22 March 2014 | Landslide | 43 deaths; 49 homes and structures destroyed; earlier slide in 2006 | Risk was known but under-perceived |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--18-hz-slope-failure.webp" width="900" height="950" alt="A cross-section of a slope with a block of soil on it. An arrow pulls the block down the slope (shear stress) and a shorter arrow resists up the slope (shear strength, from friction and cohesion). The slope fails when stress exceeds strength. Five numbered causes are marked: heavy rain raising pore-water pressure, deforestation removing roots, undercutting of the slope toe by a river or waves, buildings loading the top, and earthquake shaking." loading="lazy">
+  <figcaption>A slope fails when shear stress exceeds shear strength; rain, deforestation, undercutting, loading and earthquakes tip the balance.</figcaption>
+</figure>
+
+
 ### 9.3 Atmospheric
 
 | Case | What | Key facts | One evaluation point |
@@ -104,12 +121,29 @@ Test yourself afterwards with the [practice questions for this unit](/resources/
 | Joplin, USA, 22 May 2011 | EF5 tornado | 158 deaths; 17 minutes' warning | Warnings were given but many did not act |
 | Daulatpur-Saturia, Bangladesh, 26 April 1989 | Tornado | About 1,300 deaths | Tornado risk is not only a US issue |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--19-hz-cyclone-structure.webp" width="900" height="1010" alt="A cross-section through a tropical cyclone over a warm sea. Air spirals in near the surface, rises in two tall eyewall cloud towers where it condenses and releases latent heat, and flows out at the top. In the middle, the eye, air sinks. A bracket marks sea surface temperature of at least 26.5 degrees Celsius to about 50 metres depth. Four more conditions are listed: at least about 5 degrees from the equator, low vertical wind shear, moist air in the lower and middle troposphere, and a pre-existing disturbance." loading="lazy">
+  <figcaption>Warm sea water feeds rising air in the eyewall; latent heat lowers surface pressure so more air spirals in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--20-hz-tornado-formation.webp" width="900" height="1050" alt="Three steps. Step 1: wind speed increases with height (wind shear), creating a horizontal rolling tube of air; warm moist air lies near the ground under drier air. Step 2: a strong updraught tilts the roll upright into a rotating mesocyclone. Step 3: a rear-flank downdraught brings the rotation to the ground as a tornado funnel. The Enhanced Fujita scale rates tornadoes EF0 to EF5." loading="lazy">
+  <figcaption>Wind shear makes a horizontal roll; the updraught tilts it upright; a downdraught brings the rotation to the ground.</figcaption>
+</figure>
+
+
 ### 9.4 Sustainable management: coastal Bangladesh
 
 - Cyclone Preparedness Programme set up in the early 1970s, after the 1970 cyclone, by the government and the Bangladesh Red Crescent Society.
 - Deaths: 300,000-500,000 (1970), about 138,000 (1991), at least 3,447 (Sidr, 2007), when about 2 million people went to shelters.
 - 139 polders built from the 1960s; the Sundarbans mangroves act as a buffer but face shrimp farming, salinity and sea-level rise.
 - Evaluation: big gains in lives saved; weaker gains in livelihoods and the environment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--21-hz-bangladesh-deaths.webp" width="900" height="920" alt="A bar chart of cyclone deaths in coastal Bangladesh. In 1970 deaths were 300,000 to 500,000. In 1991 they were about 138,000. In Cyclone Sidr in 2007 they were at least 3,447, a bar barely visible at this scale and about 40 times fewer than in 1991. A note says about 2 million people reached cyclone shelters for Sidr, and that the Cyclone Preparedness Programme began in the early 1970s, with volunteers passing warnings to villages." loading="lazy">
+  <figcaption>Deaths fell from hundreds of thousands to a few thousand as warnings and shelters improved, though the hazard remains.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -122,6 +156,12 @@ Test yourself afterwards with the [practice questions for this unit](/resources/
 - **Large-scale vs small-scale atmospheric disturbances:** cyclones hundreds of kilometres wide lasting days vs tornadoes a few hundred metres wide lasting minutes.
 - **Tropical cyclone vs tornado formation:** warm ocean and latent heat vs wind shear in a supercell over land.
 - **Primary vs secondary impacts:** collapse and drowning vs disease, fire and lost income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--17-hz-eruption-style.webp" width="900" height="1040" alt="Two volcano cross-sections. On the left, runny basaltic magma lets gas bubbles escape from the crater, so lava flows quietly down the sides: an effusive eruption. On the right, viscous high-silica magma traps gas bubbles and pressure builds until the volcano erupts explosively with an ash column. Below, a scale shows the Volcanic Explosivity Index from 0 to 8, increasing in height from least to most explosive." loading="lazy">
+  <figcaption>Runny magma lets gas escape (effusive); thick magma traps gas and erupts explosively. VEI ranks eruptions from 0 to 8.</figcaption>
+</figure>
+
 
 ## Mini essay plan
 

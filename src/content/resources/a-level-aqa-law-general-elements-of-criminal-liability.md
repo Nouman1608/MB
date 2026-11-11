@@ -81,6 +81,27 @@ no proof of mens rea for at least one element of the offence — know
 that this is the specification's own named exception to the general
 actus reus/mens rea requirement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-general-elements-of-criminal-liability--01-law1-two-elements.webp" width="900" height="760" alt="Two overlapping circles. The left circle is actus reus, the guilty act. The right circle is mens rea, the guilty mind. The overlap is labelled both at once, meaning liability. A dashed box below states the exception: strict liability, where no mens rea is needed for at least one element." loading="lazy">
+  <figcaption>Criminal liability normally needs actus reus and mens rea to coincide; strict liability is the named exception.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-general-elements-of-criminal-liability--02-law1-actus-reus.webp" width="900" height="806" alt="A tree with actus reus at the top and four parts below. Conduct can be a positive act, an omission where a duty to act exists, or a state of affairs. Conduct must normally be voluntary, so a reflex does not count. Where the offence is defined by a result, the consequence must follow. Causation must be proved." loading="lazy">
+  <figcaption>Actus reus is conduct (normally voluntary), any required consequence, and causation of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-general-elements-of-criminal-liability--03-law1-causation.webp" width="900" height="880" alt="A vertical flow. The defendant's conduct leads to a gate for factual cause, the but-for test: but for the defendant's act, would the consequence have occurred? Then a second gate for legal cause. Only when both are satisfied is the prohibited consequence caused by the defendant." loading="lazy">
+  <figcaption>The prosecution must prove both the factual (&quot;but for&quot;) cause and the legal cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-general-elements-of-criminal-liability--04-law1-fault-ladder.webp" width="900" height="830" alt="Four rows from most to least fault. Intention: the defendant's aim or purpose, or foreseeing a consequence as virtually certain. Subjective recklessness: the defendant personally foresaw a risk and unreasonably took it. Negligence: judged against a reasonable person, not the defendant's own mind. Strict liability: no mens rea needed for at least one element." loading="lazy">
+  <figcaption>Intention and subjective recklessness are judged on the defendant's own mind; negligence on a reasonable person; strict liability needs no mens rea for one element.</figcaption>
+</figure>
+
+
 ## Worked example: applying transferred malice
 
 A defendant throws a punch intending to hit person A, but misses and
@@ -125,6 +146,12 @@ law. Precision about the "but for" test as the specific factual
 causation standard — rather than a looser notion of contribution — is
 worth over-learning, since causation problem questions are a
 recurring feature of this content's assessment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-general-elements-of-criminal-liability--05-law1-transferred-malice.webp" width="900" height="1030" alt="A defendant punches, intending to hit person A. A dashed arrow shows the intended target. The punch misses A and a solid arrow hits person B, who is injured. Below, three boxes: actus reus, the act injured B; mens rea, intent to harm A; and the doctrine of transferred malice moves the intent to B, if the harm is the same type, so the defendant is liable for the offence against B." loading="lazy">
+  <figcaption>Transferred malice lets the intent towards A count against B, provided the harm is the same type.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

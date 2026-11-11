@@ -58,6 +58,12 @@ AI also drives expert systems; see the [expert systems study guide](/resources/a
 - Advantage: safe practice of dangerous or expensive tasks (VR); information at the point of need (AR).
 - Disadvantage: headsets are costly; VR can cause motion sickness and cuts the user off from their surroundings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--08-ne-ar-vs-vr.webp" width="900" height="840" alt="Augmented reality shows the real view on a phone with computer-generated items added, such as a sofa in a furniture preview. Virtual reality replaces the real world with a fully computer-generated 3D environment seen through a headset that tracks head movement, such as in flight training." loading="lazy">
+  <figcaption>AR adds to the real view; VR replaces it.</figcaption>
+</figure>
+
+
 ### Robotics
 
 The design and use of **programmable machines** that use sensors, a processor and actuators to carry out tasks automatically.
@@ -91,6 +97,12 @@ Optical discs are often described in generations: CD, DVD, then Blu-ray. **Fourt
 - Advantage: one-off, customised items are cheap to make; less material wasted than cutting from a block.
 - Disadvantage: slow for large numbers; limited strength for some materials.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--10-ne-3d-printing.webp" width="900" height="810" alt="A digital CAD model is turned into a physical object by a printer that adds it layer by layer. Compared with cutting the same shape from a block, which leaves waste, printing adds material only where needed." loading="lazy">
+  <figcaption>3D printing is additive: layers are built from a digital model, with less waste than cutting from a block.</figcaption>
+</figure>
+
+
 ### Vision enhancement
 
 Technology that **improves or restores what a person can see**: night vision devices that amplify low light or detect infrared, electronic magnifiers and smart glasses that enlarge and increase contrast for people with low vision, and retinal implants.
@@ -110,6 +122,12 @@ A **decentralised, distributed ledger**. Records are grouped into **blocks**; ea
 - Advantage: no single point of control; a transparent, tamper-evident history.
 - Disadvantage: some methods of agreeing new blocks use a lot of electricity; mistakes are hard to reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--09-ne-blockchain.webp" width="900" height="920" alt="A chain of blocks in which each block stores the hash of the previous block. If an old record is changed, its hash changes, the next block no longer matches, and the chain breaks, so tampering is easy to detect. Copies of the chain are held on many computers, and new blocks are added only when the network agrees." loading="lazy">
+  <figcaption>Changing an old record changes its hash and breaks the chain.</figcaption>
+</figure>
+
+
 ### Internet of Things (IoT)
 
 Everyday objects with **embedded sensors, processors and network connections**, so they can collect and exchange data over the internet and be controlled remotely: smart thermostats, smart meters, connected medical monitors, farm soil sensors. IoT builds on the sensor ideas in the [monitoring and control study guide](/resources/a-level-cambridge-ict-monitoring-and-control/).
@@ -128,6 +146,12 @@ Vehicles that **sense their surroundings** (cameras, radar, lidar, GPS) and use 
 - Advantage: removes human error such as tiredness; can run continuously.
 - Disadvantage: unclear legal responsibility after an accident; risk of hacking; job losses for drivers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--07-ne-fourteen-types.webp" width="900" height="1271" alt="The fourteen technologies in the syllabus listed in six groups: think (AI, computer-assisted translation), see (AR, VR, holographic imaging, vision enhancement), sense, act (robotics, IoT, wearables, autonomous transport), make (3D printing), store (holographic and 4th generation optical storage, molecular storage) and trust (blockchain)." loading="lazy">
+  <figcaption>All fourteen listed types, grouped to help you remember them.</figcaption>
+</figure>
+
+
 ## Impact of new and emerging technologies
 
 ### Individuals and organisations
@@ -143,6 +167,12 @@ The syllabus lists five areas.
 - **Tissue engineering**: growing tissue to repair or replace damaged tissue, for example by 3D bioprinting layers of living cells.
 - **Artificial blood vessels**: bioprinting and tissue engineering are being used to develop vessels for grafts, which could reduce reliance on donors.
 - **Design of medical tools and equipment**: CAD with 3D printing for rapid prototypes and custom surgical guides; VR and AR for training surgeons on new equipment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--12-ne-medicine.webp" width="900" height="840" alt="Five areas of medicine and healthcare, each linked to the technologies the lesson names: patient care and monitoring (wearables, IoT sensors, AI), prosthetics (3D printing, robotics), tissue engineering (3D bioprinting), artificial blood vessels (bioprinting and tissue engineering), and design of medical tools and equipment (CAD with 3D printing, VR and AR)." loading="lazy">
+  <figcaption>Match each healthcare area to the technology the lesson names for it.</figcaption>
+</figure>
+
 
 ### Scientific research
 
@@ -186,6 +216,12 @@ The point for the environment: IoT devices use power too, so the saving is less 
 - Software can be updated centrally. [1] But a hacked control system could stop or misdirect the whole fleet. [1]
 
 A conclusion helps on "Evaluate": for example, a trial on one route with a safety supervisor on board.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-new-and-emerging-technologies--11-ne-iot-energy.webp" width="900" height="890" alt="Heating savings of 2,400 kWh a year minus 525.6 kWh used by 120 always-on IoT sensors leaves a net saving of 1,874.4 kWh, so the environmental saving is less than it first looks." loading="lazy">
+  <figcaption>Net energy saved = 2,400 − 525.6 = 1,874.4 kWh a year.</figcaption>
+</figure>
+
 
 ## Common errors
 

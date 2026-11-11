@@ -70,6 +70,17 @@ Sections B and C take one topic each from Options 1 and 2. Research methods and 
 
 **Worked paragraph (testosterone).** *Testosterone may raise the likelihood of aggression in men. Dabbs et al. found that prisoners with the highest saliva testosterone had mostly committed violent crimes. But the data are correlational: prison conflict could raise testosterone, so the direction of cause is unclear. The dual-hormone hypothesis suggests testosterone matters most when cortisol is low, so a single-hormone account is too simple.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--12-agg-brain.webp" width="900" height="925" alt="Schematic brain: threat to amygdala, to hypothalamus, then arousal; the OFC damps the amygdala; serotonin helps the OFC." loading="lazy">
+  <figcaption>The amygdala and hypothalamus drive arousal and the OFC normally damps it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--13-agg-testosterone.webp" width="900" height="910" alt="Eleven highest and eleven lowest testosterone prisoners: 10 of 11 violent in the top group, 9 of 11 non-violent in the lowest. Correlation warning." loading="lazy">
+  <figcaption>Dabbs et al. found a link between testosterone and violent crime, but the data are correlational.</figcaption>
+</figure>
+
+
 ## Genetic factors and the MAOA gene
 
 **Twin studies** compare identical (MZ) and non-identical (DZ) twins. **Coccaro et al. (1997)** studied adult male twins and estimated that genes explained about 47% of the variance in direct physical aggression. **Rhee and Waldman (2002)** pooled twin and adoption studies and estimated that about 41% of the variance in antisocial behaviour was genetic.
@@ -83,6 +94,12 @@ Sections B and C take one topic each from Options 1 and 2. Research methods and 
 
 **Worked paragraph.** *The MAOA gene helps explain why some people are more aggressive. The low-activity variant means less of the enzyme that breaks down serotonin. Caspi et al. found this variant was linked to antisocial behaviour mostly in men maltreated as children. So the gene seems to raise vulnerability rather than cause aggression directly. This interactionist finding is a strength because it fits evidence that environment matters.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--14-agg-maoa.webp" width="900" height="980" alt="MAOA gene makes an enzyme that breaks down serotonin; a Caspi grid of maltreatment by MAOA activity, qualitative." loading="lazy">
+  <figcaption>The MAOA variant matters mainly for maltreated boys: a gene-environment interaction.</figcaption>
+</figure>
+
+
 ## The ethological explanation
 
 **Lorenz** argued that aggression is **adaptive**: it spreads animals across territory and lets the strongest breed. Within a species, aggression is often **ritualistic**, ending with an appeasement display such as a wolf exposing its neck.
@@ -94,6 +111,12 @@ Sections B and C take one topic each from Options 1 and 2. Research methods and 
 **Evaluation.** Tinbergen's work is controlled and repeatable. But many "fixed" patterns vary with experience and context. Ritualised aggression is not universal: Jane Goodall observed chimpanzees at Gombe killing members of a former group in the 1970s. Extending animal findings to humans is weak, because human aggression is heavily shaped by culture and learning.
 
 **Worked paragraph.** *Aggression may be released by specific triggers. Tinbergen found sticklebacks attacked a red-bellied model even when it looked nothing like a fish. The red underside was the stimulus that set off the IRM, and the attack ran as a fixed sequence. This supports a biological, innate account. However, the Gombe chimpanzee killings show that animal aggression is not always ritualised and harmless.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--15-agg-ethology.webp" width="900" height="910" alt="Crude red-bellied model attacked, realistic model without red ignored; sign stimulus to IRM to FAP with its four properties." loading="lazy">
+  <figcaption>A sign stimulus triggers an IRM which releases a fixed action pattern.</figcaption>
+</figure>
+
 
 ## Evolutionary explanations of human aggression
 
@@ -117,6 +140,12 @@ Evolutionary psychologists argue that aggression helped ancestors survive and re
 
 **Worked paragraph (de-individuation).** *De-individuation may explain violence by masked crowds. Anonymity reduces self-awareness, so people stop checking behaviour against their own standards. Zimbardo found hooded participants gave longer shocks. But Postmes and Spears found anonymity leads people to follow the group's norms, so a masked crowd will only become violent if aggression is the norm.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--16-agg-frustration.webp" width="900" height="1080" alt="Blocked goal leads to frustration and aggression at the source; if unavailable, displacement; Berkowitz revision." loading="lazy">
+  <figcaption>Frustration leads to aggression, displaced if the source is unavailable; Berkowitz made it less certain.</figcaption>
+</figure>
+
+
 ## Institutional aggression in prisons
 
 **Dispositional explanation: the importation model (Irwin and Cressey, 1962).** Prisoners bring their characteristics, values and norms into prison. Violent histories, gang ties and an "inmate code" learned outside predict violence inside.
@@ -126,6 +155,12 @@ Evolutionary psychologists argue that aggression helped ancestors survive and re
 **Evaluation.** In a study by **Camp and Gaes (2005)**, male prisoners with the same risk score were randomly assigned to lower- or higher-security prisons, and misconduct rates were similar. This supports importation over situation. But the deprivation model has practical value: if conditions cause violence, better management and less crowding should reduce it. An **interactionist** view (individual factors plus prison conditions) fits the evidence best.
 
 **Worked paragraph.** *The importation model claims prisoners bring aggression in with them. Camp and Gaes randomly assigned similar-risk prisoners to lower- or higher-security prisons, and misconduct rates were similar. This suggests the prisoner matters more than the prison regime. However, Sykes' deprivations, such as loss of autonomy, may still add frustration, so an interactionist account is stronger.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--17-agg-prisons.webp" width="900" height="1160" alt="Importation versus deprivation, Sykes five pains, and Camp and Gaes with similar misconduct in lower and higher security prisons." loading="lazy">
+  <figcaption>Importation (dispositional) versus deprivation (situational) explanations of prison violence.</figcaption>
+</figure>
+
 
 ## Media influences, including computer games
 
@@ -140,6 +175,12 @@ The specification names three explanations:
 **Evaluation.** Lab measures are not real-world aggression, and correlational studies cannot rule out that aggressive people choose violent games.
 
 **Worked paragraph (desensitisation).** *Desensitisation suggests violent games blunt reactions to real violence. Carnagey et al. found lower skin conductance to real-life violence after violent play. But this was a short lab effect, and lower arousal is not the same as behaving aggressively.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--18-agg-media.webp" width="900" height="1000" alt="Three cards: desensitisation, disinhibition, cognitive priming." loading="lazy">
+  <figcaption>Three explanations of how violent media may influence aggression.</figcaption>
+</figure>
+
 
 ## Common errors
 

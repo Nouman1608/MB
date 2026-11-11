@@ -34,6 +34,12 @@ Test yourself with the [practice questions](/resources/a-level-cambridge-ict-sys
 - **Stages**: analysis → design → development and testing → implementation → documentation → evaluation, then maintenance.
 - **Relationship**: each stage's output is the next stage's input. Evaluation checks the system against the requirements from analysis; problems found feed a new analysis, closing the cycle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--13-slc-stages.webp" width="900" height="1030" alt="Six stages in a ring: analysis, design, development and testing, implementation, documentation, evaluation. Evaluation loops back to analysis when there is a shortfall, and maintenance follows evaluation." loading="lazy">
+  <figcaption>Evaluation can start a new round of analysis, which is why it is a cycle.</figcaption>
+</figure>
+
+
 ## 16.2 Analysis
 
 | Method | Best when | Main drawback |
@@ -81,6 +87,17 @@ Test yourself with the [practice questions](/resources/a-level-cambridge-ict-sys
 
 **Mini reminder (vet surgery).** A form field "Species" is best a drop-down list: it limits entries to valid values, acting as a lookup check, and speeds entry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--15-slc-dfd.webp" width="900" height="1125" alt="Level 0 shows one booking system process between Member and Instructor. Level 1 splits it into three processes with the Members, Classes and Bookings files; no flow goes directly between an entity and a store." loading="lazy">
+  <figcaption>Level 1 splits the single process into processes and data stores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--16-slc-system-flowchart.webp" width="900" height="1110" alt="Input/output, process, magnetic disk file, display, single document and multiple document symbols used for the booking system, with a day section and an overnight section." loading="lazy">
+  <figcaption>A system flowchart shows hardware, files and processes, not program logic.</figcaption>
+</figure>
+
+
 ## 16.4 Development and testing
 
 **Test plan columns**: test number, item tested, test data, type of test data, expected result, actual result, action or comment.
@@ -105,6 +122,12 @@ Test yourself with the [practice questions](/resources/a-level-cambridge-ict-sys
 4. Pick abnormal values just outside each limit and one of the wrong type.
 5. State the expected result for each, including the error message for rejections.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--17-slc-test-data.webp" width="900" height="890" alt="A number line for the 1 to 6 places rule showing normal (3), extreme (1, 6) and abnormal (7, 2.5, two) data, a note that a boundary value is extreme not abnormal, and the live data idea." loading="lazy">
+  <figcaption>Boundary values are extreme and accepted; invalid values are abnormal and rejected.</figcaption>
+</figure>
+
+
 ## 16.5 Implementation
 
 | Method | Choose it when | Avoid it when |
@@ -121,6 +144,12 @@ Test yourself with the [practice questions](/resources/a-level-cambridge-ict-sys
 3. Recommend one method and describe how it would be carried out in *this* scenario.
 4. Give one benefit and one drawback of your choice for this organisation.
 5. Conclude: why its benefits outweigh its drawbacks here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-system-life-cycle--18-slc-changeover.webp" width="900" height="1050" alt="Four timelines of old and new system: parallel running overlaps them, direct changeover switches at once, phased switches one part at a time, pilot switches one branch first." loading="lazy">
+  <figcaption>The four implementation methods differ in how the old and new systems overlap in time.</figcaption>
+</figure>
+
 
 ## 16.6 Documentation
 

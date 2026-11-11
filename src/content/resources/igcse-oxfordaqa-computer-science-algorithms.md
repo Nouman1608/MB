@@ -69,6 +69,12 @@ page —
 
 **Decomposition** breaks a large problem down into smaller, more manageable sub-problems that can be tackled separately. **Abstraction** removes the detail that is not relevant to solving the problem, keeping only what matters — a London Underground map is the standard example: it abstracts away real geography and distance, keeping only the connections between stations. Both are tools for getting from a problem statement to an algorithm that solves it, and exam questions can ask you to decompose a described problem or to identify what a given abstraction has deliberately left out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--01-decomposition-abstraction.webp" width="900" height="870" alt="A big problem splits into three sub-problems. Below, a winding real route with stations A to E becomes a straight line map of the same stations, keeping only their connections." loading="lazy">
+  <figcaption>Decomposition splits a problem into parts; abstraction keeps only what matters, as an Underground map does.</figcaption>
+</figure>
+
+
 ## Representing algorithms
 
 An **algorithm** is a sequence of steps that solves a problem or performs a task. Two representations are examined, and you must be able to move between them.
@@ -88,6 +94,12 @@ ENDIF
 
 Every algorithm is built from three constructs, and naming them earns marks: **sequence** (steps in order), **selection** (IF, CASE), and **iteration** (FOR for a known number of repetitions, WHILE when the count is not known in advance).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--02-flowchart-pseudocode.webp" width="900" height="1240" alt="A legend names the four flowchart symbols. A flowchart reads a number and branches on number &gt; 0 to output positive or not positive. The same algorithm is written below in pseudocode." loading="lazy">
+  <figcaption>A flowchart and pseudocode can express exactly the same algorithm.</figcaption>
+</figure>
+
+
 ## Tracing an algorithm
 
 Tracing means working through step by step, recording the value of every variable after each line, to determine the output. A **trace table** with one column per variable and one row per iteration is the reliable method — attempting it mentally is where marks are lost.
@@ -102,11 +114,28 @@ A **linear search** checks each item in turn and works on unordered data, but on
 
 Evaluation questions reward precise criticism. "It is inefficient" earns nothing; "the loop continues checking after the item has been found, so unnecessary comparisons are performed" earns the mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--04-binary-vs-linear-search.webp" width="900" height="900" alt="Three rows show a sorted list of 15 numbers; each step marks the middle item and greys out the discarded half until 47 is found on step 3. A bar chart compares about 10 comparisons for binary search with up to 1,000 for linear search on 1,000 items." loading="lazy">
+  <figcaption>Binary search halves a sorted list each step, so it needs far fewer comparisons than linear search.</figcaption>
+</figure>
+
+
 ## Sorting algorithms
 
 **Bubble sort** repeatedly compares adjacent pairs of items and swaps them if they are out of order; after each full pass through the list, the largest remaining item has "bubbled" to its correct position at the end. The specification requires this specific improved form: the outer loop is indefinite, controlled by whether any swaps were made during the last pass — a flag is set at the start of each pass and cleared whenever a swap happens, and the sort stops as soon as a complete pass makes no swaps, since that means the list is already sorted. It is simple to code and trace, but slow on large lists.
 
 **Merge sort** works differently: it divides the list in half repeatedly until each part holds a single item, then merges the parts back together in the correct order. It is more complex to describe and trace than bubble sort, but performs far fewer comparisons on large lists, making it much faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--05-bubble-sort-flag.webp" width="900" height="860" alt="A list of five numbers is shown after each pass of bubble sort with the number of swaps: 4, 2, 1 and finally 0. The pass with no swaps ends the sort." loading="lazy">
+  <figcaption>The improved bubble sort stops as soon as a complete pass makes no swaps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--06-merge-sort-split-merge.webp" width="900" height="960" alt="Eight numbers are halved repeatedly until single items, then merged back in order through sorted pairs and fours to a fully sorted list." loading="lazy">
+  <figcaption>Merge sort splits the list down to single items and merges the parts back in the correct order.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -130,6 +159,12 @@ OUTPUT total
 | 5 | 15 |
 
 Output: **15**. The algorithm sums the integers from 1 to n.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--03-trace-table-sum.webp" width="900" height="960" alt="The pseudocode for summing 1 to n is shown beside its trace table for n = 5. Bars show total after each pass: 1, 3, 6, 10, 15. The output is 15." loading="lazy">
+  <figcaption>A trace table records each variable after every iteration; the output here is 15.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

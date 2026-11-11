@@ -77,6 +77,17 @@ The syllabus prints these facts. Paper 3 lasts 1 hour 30 minutes, is worth 60 ma
 
 A useful phrase is "night is the winter of the tropics": in humid tropical places the difference between day and night is often larger than the difference between the warmest and coolest months.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--15-tr-itcz-seasons.webp" width="900" height="940" alt="Two side views by latitude. In the wet season the ITCZ lies over a savanna site, with rising air, cloud and rain. In the dry season the ITCZ has moved away and the subtropical high extends over the site, so air sinks and skies are clear." loading="lazy">
+  <figcaption>The savanna dry season begins when the ITCZ moves away and the subtropical high takes its place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--16-tr-monsoon.webp" width="900" height="920" alt="Two side views with sea on the left and land on the right. In the high-sun season hotter land has low pressure and moist air flows onshore to give the wet season. In the low-sun season cooler land sends winds offshore and the season is dry." loading="lazy">
+  <figcaption>A monsoon is a seasonal reversal of wind direction.</figcaption>
+</figure>
+
+
 ## 7.2 Granite landforms
 
 **Deep weathering profiles.** High temperatures and plenty of water speed up chemical reactions. In granite, hydrolysis breaks feldspar down to clay minerals such as kaolinite, while quartz grains survive. Weathering follows joints, so it reaches deepest where joints are close together. The result is a thick layer of rotted rock (regolith or saprolite) above a sharp boundary with fresh rock, called the weathering front. Unweathered blocks surrounded by rotted rock are corestones.
@@ -92,6 +103,12 @@ A useful phrase is "night is the winter of the tropics": in humid tropical place
 
 **Evaluation.** The etching model explains corestones and weathering fronts seen in road cuttings. But stripping could happen in many climates, and some granite domes stand in deserts today, so present climate is not always the cause. Many geographers now accept that both processes can operate over millions of years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--18-tr-granite-landforms.webp" width="900" height="1130" alt="Stage 1: deep weathering rots granite beneath the surface along joints, leaving regolith, corestones and a weathering front. Stage 2: erosion strips the regolith, leaving widely jointed blocks as a tor and massive rock as a bare bornhardt dome with curved sheeting joints." loading="lazy">
+  <figcaption>The two-stage model explains tors and bornhardts through deep weathering followed by stripping.</figcaption>
+</figure>
+
+
 ## 7.2 Tropical karst
 
 Limestone dissolves by carbonation: rainwater containing carbon dioxide forms weak carbonic acid, which reacts with calcium carbonate. In the humid tropics, heavy rain and high carbon dioxide from rapid decay in the soil make solution fast.
@@ -101,6 +118,12 @@ Limestone dissolves by carbonation: rainwater containing carbon dioxide forms we
 - **Tower karst** (fenglin). Steep-sided, isolated towers rising from a flat plain of alluvium. Towers form where depressions have been lowered to the water table. Swamps and rivers then undercut the bases and form foot caves, keeping the sides steep. Guilin, along the Li River in southern China, is the classic area. The South China Karst World Heritage property is described as the global type-site for fenglin and fengcong.
 
 **Evaluation.** Many geographers see an evolution from cone to tower karst as the land surface is lowered towards the water table. But structure, uplift rate and rock purity matter as much as climate, so tower karst is not simply a later stage everywhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--17-tr-tropical-karst.webp" width="900" height="1260" alt="Three cross-sections: cockpit karst with enclosed hollows (up to about 120 metres in Jamaica), cone karst with conical hills sharing a common base, and tower karst with isolated steep towers on an alluvial plain, a water table and foot caves." loading="lazy">
+  <figcaption>Cockpit, cone and tower karst differ in how hills and hollows are arranged.</figcaption>
+</figure>
+
 
 ## 7.3 Plant communities
 
@@ -127,6 +150,12 @@ Gersmehl's model (1976) shows three stores (biomass, litter and soil) as circles
 
 **Energy flows and trophic levels.** Producers (plants) fix solar energy. Primary consumers eat plants, secondary and tertiary consumers eat animals. Only a small share of energy (often taken as about 10%) passes to each level. Rainforest has the highest net primary productivity of any land biome; savanna is lower because water limits growth for part of the year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--19-tr-gersmehl-nutrients.webp" width="900" height="1120" alt="Two Gersmehl diagrams on the same scale. In the rainforest biomass is the largest store, litter and soil are small and flows are large. In the savanna biomass is smaller, the soil store is relatively larger and flows are smaller. Circle area and arrow width are illustrative." loading="lazy">
+  <figcaption>Rainforest nutrients are mostly in the plants; savanna holds relatively more in the soil.</figcaption>
+</figure>
+
+
 ## 7.3 Soil formation
 
 - **Ferrallitisation:** intense chemical weathering removes silica in solution and leaves iron and aluminium oxides, which give a red or yellow colour.
@@ -134,6 +163,12 @@ Gersmehl's model (1976) shows three stores (biomass, litter and soil) as circles
 - **Laterisation:** iron oxides can harden into a laterite (ferricrete) crust, especially where wetting and drying alternate.
 
 **Oxisols (latosols)** form under rainforest. They are very deep (often many metres), with a thin humus-rich A horizon, a deep red or yellow B horizon rich in sesquioxides and kaolinite, and low ability to hold nutrients. **Tropical red and brown earths** form under savanna. Leaching in the wet season is followed by upward capillary movement in the dry season, so profiles are shallower, less leached and may contain ironstone concretions. Both are less deeply weathered than oxisols. Their colour reflects how much iron oxide and organic matter they hold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--20-tr-tropical-soils.webp" width="900" height="920" alt="Two soil profiles with illustrative relative depths. The rainforest oxisol is very deep, with a thin humus-rich A horizon and a deep red or yellow B horizon rich in iron oxides and kaolinite. The savanna red or brown earth is shallower and less leached, with ironstone concretions, and water moves down in the wet season and up in the dry season." loading="lazy">
+  <figcaption>Oxisols are deeply weathered; savanna soils are shallower and less leached.</figcaption>
+</figure>
+
 
 ## 7.4 Case study: the Brazilian Amazon
 
@@ -155,6 +190,12 @@ The syllabus requires one case study in either the rainforest or the savanna. Th
 *Question: Evaluate the success of attempts to manage the rainforest sustainably.*
 
 > In Brazil, the PPCDAm combined DETER satellite alerts with fines and new protected areas (knowledge). This targeted ranchers directly, because alerts let officials act within weeks of clearing (application). As a result, deforestation fell from 27,772 km² in 2004 to 4,571 km² in 2012, which suggests that enforcement, not just satellites, cut the profit of illegal clearing (analysis). However, enforcement weakened after 2019 and clearing rose again, so its success was fragile and depended on politics rather than lasting change in land use (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--21-tr-amazon-deforestation.webp" width="900" height="1070" alt="A bar chart of annual Amazon deforestation: 27,772 square kilometres in 2004, 4,571 in 2012 and 6,288 in 2024, a fall of about 84 per cent then a rise of about 38 per cent. A numbered timeline marks the PPCDAm, the Soy Moratorium, the Amazon Fund, the 2019 weakening and the 2023 relaunch." loading="lazy">
+  <figcaption>Deforestation fell sharply with enforcement and rose again when political backing weakened.</figcaption>
+</figure>
+
 
 ## Common errors
 

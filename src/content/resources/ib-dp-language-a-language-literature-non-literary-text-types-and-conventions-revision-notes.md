@@ -53,6 +53,17 @@ Course links: [Language and Literature hub](/boards/ib/ib-dp/language-a-language
 - **Salience**: how much an element stands out.
 - **Anchorage**: words (usually a caption) that fix the meaning of an image.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--03-nlt-inverted-pyramid.webp" width="900" height="940" alt="A mock news page. At the top are a headline bar, a standfirst (a short summary), and a byline and dateline. Below sits an upside-down triangle in three bands: the most important facts at the wide top, detail in the middle, and background at the narrow bottom, showing that the most important facts come first." loading="lazy">
+  <figcaption>A news report puts the most important facts first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--06-nlt-layout-terms.webp" width="900" height="925" alt="A mock poster with six numbered parts. 1 Salience: the large bright image stands out most. 2 Vector: the person’s gaze, drawn as a dashed line, leads the eye to the product. 3 Hierarchy of type: a large headline over smaller lines and tiny print shows what matters. 4 White space: an empty dashed area isolates and calms. 5 Reading path: a dashed route from top left to bottom right. 6 Call to action: a button often placed at the end of that path. The reading path is a tendency for left-to-right languages, not a rule." loading="lazy">
+  <figcaption>Six layout terms located on a mock page.</figcaption>
+</figure>
+
+
 ## Conventions at a glance
 
 | Text type | Main purpose | Core conventions | Question to ask |
@@ -66,6 +77,17 @@ Course links: [Language and Literature hub](/boards/ib/ib-dp/language-a-language
 | Editorial cartoon | Comment on a topical issue | Single panel, caricature, visual metaphor, symbols, labels, caption, irony | What must the reader already know? |
 | News report | Inform about recent events | Headline, standfirst, byline, dateline, third person, quotations, inverted pyramid | What is placed first, and who is quoted? |
 | Formal report | Present findings to decision-makers | Title, summary, headed sections, findings, recommendations, passive voice | How does the register build authority? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--01-nlt-eight-types.webp" width="900" height="994" alt="Eight cards, each with a small icon, a text type and three conventions the reader expects. Advert: slogan, dominant image, call to action. Editorial: unsigned, voice of we, recommendation. Speech: opening address, lists of three, repetition. Blog: title and date, first person, comments. Infographic: headline figure, charts and icons, source line. Photograph: shot distance, angle, caption. Cartoon: caricature, visual metaphor, speech bubble. News report: headline, byline, inverted pyramid." loading="lazy">
+  <figcaption>Eight text types with three conventions each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--04-nlt-photo-choices.webp" width="900" height="1042" alt="Three panels. Shot distance: close-up, medium and long shots of a figure, from large in the frame to small and far away. Camera angle: a camera placed high, at eye level and low, each aiming at a standing figure. Gaze: a face looking straight at the viewer (demand) and a face looking away (offer)." loading="lazy">
+  <figcaption>Shot distance, angle and gaze are choices a photographer makes.</figcaption>
+</figure>
+
 
 ## Visual and layout toolkit
 
@@ -171,6 +193,12 @@ built for listeners: it gives them a pause and a laugh before the argument begin
 11. Demand.
 12. It breaks a strong convention, so the reader notices; the advert may be selling a feeling or
     lifestyle rather than an object.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--05-nlt-anchorage.webp" width="900" height="955" alt="A schematic news photograph in the centre: a low-angle view of a figure in a gold high-visibility jacket standing on a flood barrier, looking out of the frame to the left, with a grey sky filling the top two-thirds and tiny rooftops in the bottom corner. Two captions point from the same image. Caption A, Engineer Dana Okoro checks the new barrier on its first day, makes the picture read as reassurance. Caption B, Is this all that stands between Wexmoor and the next flood, makes it read as a warning. The picture is the same; the caption anchors its meaning." loading="lazy">
+  <figcaption>The same photograph reads as reassurance or warning depending on its caption.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

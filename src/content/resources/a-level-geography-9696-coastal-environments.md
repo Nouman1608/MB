@@ -61,6 +61,17 @@ Wind transfers energy to the sea surface. Wave size depends on wind speed, wind 
 - **High energy waves:** high, steep, frequent; backwash exceeds swash, so they tend to remove sediment and flatten the beach.
 - **Low energy waves:** low, long wavelength, less frequent; swash exceeds backwash, so they tend to build the beach up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--14-coast-wave-energy.webp" width="900" height="1010" alt="Three waves of height 1, 2 and 3 units, each beside a square whose side equals the height. The squares have areas 1, 4 and 9, showing that wave energy rises with the square of wave height: a wave twice as high carries about four times the energy. Below, an arrow of wind over open water is labelled fetch, the distance of open water the wind blows over. Illustrative heights." loading="lazy">
+  <figcaption>Wave energy rises with the square of wave height, and bigger waves need strong, long-lasting wind blowing over a long fetch.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--15-coast-refraction.webp" width="900" height="850" alt="Plan view of waves approaching an indented coast with a headland between two bays. Wave crests slow in the shallower water off the headland and bend, while the dashed wave direction lines converge on the headland and spread out in the bays. Energy is concentrated on the headland and spread out in the bays. Schematic, not to scale." loading="lazy">
+  <figcaption>Refraction bends wave crests so their energy is concentrated on headlands and spread out in bays.</figcaption>
+</figure>
+
+
 ## 8.1 Marine erosion and sub-aerial processes
 
 The five marine erosion processes are **hydraulic action** (water and trapped air forced into joints), **cavitation** (collapsing air bubbles sending shock waves into rock), **corrasion/abrasion** (sediment hurled at or scraped across rock), **solution** (chemical dissolving, especially of limestone and chalk) and **attrition** (particles wearing each other down).
@@ -79,11 +90,23 @@ A **sediment cell** is a stretch of coast, usually bounded by large headlands, w
 
 **Worked paragraph (8.1).** *"The cliffs of the Holderness coast in eastern England are made of glacial till, which is weak and easily saturated [knowledge]. Waves arriving from the north-east over a long North Sea fetch remove slumped debris from the cliff foot, so the cliff never gains a protective apron [application]. This shows that the rate of retreat depends on the link between sub-aerial slumping and marine removal, not on either process alone [evaluation]."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--16-coast-longshore-drift.webp" width="900" height="930" alt="Plan view of a beach. Waves arrive at an angle. Each swash carries a pebble up the beach in the direction the waves are moving; each backwash pulls it straight back down the slope. Over five cycles the zigzag path gives a net movement along the beach, called longshore drift. Illustrative angle of 40 degrees." loading="lazy">
+  <figcaption>Swash moves particles up the beach at the wave angle, backwash returns them straight down, so they zigzag along the coast.</figcaption>
+</figure>
+
+
 ## 8.2 Erosional landforms
 
 **Cliffs and wave-cut platforms.** Erosion concentrated between high and low tide cuts a notch. The overhang collapses and the cliff retreats, leaving a gently sloping platform. As the platform widens, waves lose energy crossing it, so retreat should slow over time. This is a negative feedback loop.
 
 **Caves, arches and stacks.** Erosion exploits joints and faults on a headland. A cave is enlarged into an arch where it cuts through the headland. The arch roof is weakened from below by waves and from above by weathering, and collapses to leave a stack and later a stump.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--17-coast-cave-arch-stack.webp" width="900" height="790" alt="Four side views of a headland. 1: waves enlarge a joint into a cave at the base. 2: the cave cuts through the headland to make an arch. 3: the arch roof collapses, leaving a stack standing offshore. 4: the stack is worn down to a low stump. Schematic, not to scale." loading="lazy">
+  <figcaption>Waves exploit joints and faults on a headland, creating in turn a cave, an arch, a stack and a stump.</figcaption>
+</figure>
+
 
 ## 8.2 Depositional landforms
 
@@ -98,6 +121,12 @@ A **sediment cell** is a stretch of coast, usually bounded by large headlands, w
 **Coastal dunes.** Onshore winds blow dry sand from a wide beach. Obstacles such as driftwood trap it to form embryo dunes. Marram grass traps and stabilises more sand, giving fore, yellow and then grey dunes as organic matter builds up.
 
 **Estuaries, saltmarshes and mangroves.** In estuaries, fine sediment settles at slack water around high tide, and **flocculation** (clay particles clumping in salt water) helps it settle. Mudflats form. Salt-tolerant pioneer plants trap more mud, the surface rises, and a **saltmarsh** develops with creeks draining it. In the tropics, **mangroves** occupy the same intertidal niche. Their prop roots and breathing roots slow tidal flow, trap sediment and absorb wave energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--18-coast-spit-recurves.webp" width="900" height="970" alt="Two plan views. Where the coastline changes direction, longshore drift carries sediment straight on into open water and builds a spit. A simple spit has one recurved end. A compound spit has several recurves on its landward side, numbered 1 to 4 from oldest to current end, each recording an earlier end of the spit. Schematic." loading="lazy">
+  <figcaption>A spit grows where drift continues past a change in coastline direction; each recurve of a compound spit records an earlier end.</figcaption>
+</figure>
+
 
 ## 8.2 Sea level change
 
@@ -131,6 +160,12 @@ These conditions place most reefs between about 30°N and 30°S. They are scarce
 
 **Management.** The Great Barrier Reef Marine Park (established under a 1975 Act; World Heritage Site since 1981) was rezoned in 2004, raising no-take "green zones" from 4.6% to 33.3% of the park. Other strategies include mooring buoys, crown-of-thorns starfish control and reducing farm runoff. Evaluation: local management can raise reef resilience, but no zoning plan stops a marine heatwave. Bleaching on the Great Barrier Reef has continued since the 2004 rezoning, which suggests that reducing global emissions is the main long-term solution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--19-coast-coral-darwin.webp" width="900" height="1025" alt="Three cross-sections of a coral reef around a volcanic island, following Darwin's subsidence theory. 1: a fringing reef grows close to the shore of the island. 2: as the island sinks, coral grows upwards to stay in the light, giving a barrier reef separated from the island by a wide, deep lagoon. 3: once the island is submerged, a ring of reef remains around a central lagoon: an atoll. Reef-building coral grows mainly in the top 30 m or so. Schematic, not to scale." loading="lazy">
+  <figcaption>Darwin linked the three reef types: as a volcanic island sinks, a fringing reef becomes a barrier reef and then an atoll.</figcaption>
+</figure>
+
+
 ## 8.4 Sustainable management of coasts: case study
 
 The syllabus asks for a case study of a stretch or stretches of coastline, with evaluation of hard and soft engineering. The examples below are one possible choice; your teacher will confirm the case study your class uses.
@@ -145,6 +180,12 @@ The syllabus asks for a case study of a stretch or stretches of coastline, with 
 - *Sustainability* means judging a scheme across the whole sediment cell and over decades, and weighing the views of residents, farmers, conservationists and governments.
 
 **Worked paragraph (8.4).** *"At Mappleton, rock groynes and a revetment have stopped the village being lost [knowledge]. But because Holderness is one sediment cell, sediment trapped at Mappleton no longer reaches the cliffs to the south, which have retreated faster since 1991 [application and analysis]. The scheme is therefore successful for one community but not sustainable at the scale of the cell. It moves the problem rather than solving it [evaluation]."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--20-coast-mappleton-cell.webp" width="900" height="1030" alt="Schematic plan view of the Holderness coast with the sea on the right. Sediment drifts south along the coast. At Mappleton, two rock groynes and a rock revetment (1991) hold sediment, giving a wider beach on the updrift side and protecting the village. South of the scheme, little sediment arrives and the cliffs retreat faster than before. Spurn Head lies at the south end and Flamborough Head at the north. Average retreat on the coast is about 1.5 metres a year. Not to scale." loading="lazy">
+  <figcaption>At Mappleton, groynes and a revetment protect the village, but because the coast is one sediment cell the cliffs to the south have retreated faster.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -105,6 +105,12 @@ The range grows as the formula is copied (absolute start, relative end). In row 
 
 **Result:** 8 rows − 1 duplicate − 1 blank − 1 invalid = **5 clean records**, with 2 sent back to the branch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--01-da-cleaning-extract.webp" width="900" height="950" alt="Eight raw rows are checked. N101 and N105 have extra spaces and N102 says Bike, all fixed; the second N102 is a duplicate and is deleted; N103 (blank Days) and N104 (Days of −1) are sent back. 8 − 1 − 1 − 1 leaves 5 clean records." loading="lazy">
+  <figcaption>Cleaning removes a duplicate and flags two rows that cannot be guessed, leaving 5 clean records.</figcaption>
+</figure>
+
+
 ### Transforming fields
 
 - **Derived fields**: calculate what you need, for example Revenue `=D2*E2` (Days × Rate), or Month `=MONTH(G2)`.
@@ -132,6 +138,12 @@ Forename: =MID(B2,FIND(",",B2)+2,50)
 
 Software can also split a column at a **delimiter** (comma, tab or space), and when importing a csv or txt file you choose the delimiter so each value lands in its own field. Formulas update when data changes; a split tool suits a one-off clean-up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--02-da-split-fields.webp" width="900" height="715" alt="FIND returns 6 for the comma in Malik, Hina. LEFT(B2,6−1) takes 5 characters, Malik. MID(B2,6+2,50) starts at 8 and returns Hina. Forgetting the −1 leaves the comma on the surname." loading="lazy">
+  <figcaption>FIND, LEFT and MID split “Malik, Hina” into surname and forename.</figcaption>
+</figure>
+
+
 ### Merging and combining data into required fields
 
 Merging joins fields into the one field the task needs.
@@ -149,6 +161,12 @@ South stores the hire date as three fields: Day (F2 = 14), Month (G2 = 7), Year 
 ```
 
 DATE takes year, month, day in that order. Joining the parts with `&` would give text, which will not sort or group by month reliably. To keep IDs unique when files are combined, `="S"&A2` turns South's hire 17 into **S17**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--03-da-merge-fields.webp" width="900" height="900" alt="Forename and surname are joined with &amp; and a space to give Hina Malik. Day 14, month 7 and year 2026 become the true date 14/07/2026 with DATE(year, month, day); joining with &amp; would give text. “S” &amp; 17 gives the unique ID S17." loading="lazy">
+  <figcaption>Join text with &amp;, but build dates with DATE so they sort and group.</figcaption>
+</figure>
+
 
 ### Comparing data from two sources
 
@@ -186,6 +204,12 @@ You can also consolidate totals without one table. Bikes revenue from both sheet
 ```
 
 This gives 150 + 75 = **225**. A combined table is usually more efficient: one pivot table then answers many questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--04-da-consolidate.webp" width="900" height="1214" alt="A csv file from North and a tab-delimited txt file from South are given the same field names, order, types and formats, a Branch field is added, and the records are appended. The combined table has 12 hires (6 North + 6 South)." loading="lazy">
+  <figcaption>Consolidating means one consistent table that still records each record’s branch.</figcaption>
+</figure>
+
 
 ## Displaying data to communicate information
 
@@ -230,6 +254,12 @@ Change the summary to **Count** to show numbers of hires: Bikes 3 and 2, Kayaks 
 
 A **pivot table report** is the pivot table made ready for its reader: a clear title, meaningful headings ("Total revenue (dollars)", not "Sum of Revenue"), currency format, sensible sort order and the filter setting visible. If the source list changes, **refresh** the pivot table so its figures update (some newer versions refresh automatically).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--05-da-pivot-table.webp" width="900" height="792" alt="The 12 hire revenues are grouped by Category (rows) and Branch (columns) and summed: Bikes 150 and 75, Kayaks 150 and 100, Tents 40 and 90. Row totals are 225, 250 and 130, column totals 340 and 265, grand total 605. Kayaks are 250 of 605, 41.3%." loading="lazy">
+  <figcaption>A pivot table sums the 12 records into category-by-branch totals.</figcaption>
+</figure>
+
+
 ### Pivot charts
 
 A **pivot chart** is drawn from a pivot table and stays linked to it: rearranging or filtering the table changes the chart. Its **field selection buttons** let the user filter categories, branches or months on the chart itself.
@@ -241,6 +271,12 @@ Choose the chart for the message:
 - Monthly revenue trend (June 215, July 195, August 195): **line graph**.
 
 Add a title, axis titles with units, a legend, and a value axis starting at zero so differences are not exaggerated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--06-da-pivot-chart.webp" width="900" height="1290" alt="Three pivot-chart choices: a comparative bar chart for revenue by category and branch, a pie chart for the categories’ share of North revenue (150, 150, 40) and a line graph for monthly revenue (June 215, July 195, August 195). Value axes start at zero." loading="lazy">
+  <figcaption>Match the chart to the message: bar to compare, pie for share, line for trend.</figcaption>
+</figure>
+
 
 ### Communicating clearly and efficiently
 

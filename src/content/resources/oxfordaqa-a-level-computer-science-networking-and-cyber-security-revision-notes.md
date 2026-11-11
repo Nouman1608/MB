@@ -56,6 +56,12 @@ Test yourself with the [practice questions](/resources/oxfordaqa-a-level-compute
 
 **Asynchronous overhead:** with 1 start bit, 8 data bits and 2 stop bits, each character costs 11 bits, so only 8/11 ≈ 72.7% of the bits are data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--06-net-bit-rate-frame.webp" width="900" height="1010" alt="A link runs at 2,400 baud with 16 signal levels, so each signal change carries log base 2 of 16, which is 4 bits, giving a bit rate of 2,400 times 4, which is 9,600 bits per second. Each asynchronous character is 10 bits: 1 start bit, 8 data bits and 1 stop bit. Sending 3,000 characters is 30,000 bits, which takes 30,000 divided by 9,600, which is 3.125 seconds. Data bits are 8 of 10, or 80 percent, of the traffic. The signal shape is illustrative." loading="lazy">
+  <figcaption>Each signal change carries 4 bits, and each character costs 10 bits, 80% of them data.</figcaption>
+</figure>
+
+
 ## 3.14.2 Networking
 
 **Peer-to-peer vs client-server**
@@ -96,6 +102,12 @@ Test yourself with the [practice questions](/resources/oxfordaqa-a-level-compute
 
 **Wired vs wireless:** wireless wins on mobility, set-up cost and adding devices; wired wins on speed, reliability and security.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--07-net-csma-ca-rts-cts.webp" width="900" height="880" alt="Station A and station B can both reach the wireless access point but cannot hear each other (the hidden-node problem). Step 1: A sends a short Request to Send to the access point. Step 2: the access point replies Clear to Send, which both A and B hear, so B stays silent. Step 3: A sends its data. Step 4: the access point sends an acknowledgement. If no acknowledgement arrives, a collision is assumed and the station backs off for a random time and retries." loading="lazy">
+  <figcaption>RTS and CTS make other stations stay silent while data and the acknowledgement pass.</figcaption>
+</figure>
+
+
 ## 3.14.3 The Internet
 
 - **Structure:** a network of networks joined by high-capacity backbone links and routers; ISPs connect users.
@@ -123,6 +135,17 @@ Test yourself with the [practice questions](/resources/oxfordaqa-a-level-compute
 5. Authoritative server returns the IP address; resolver caches it and replies.
 
 **Internet registries:** allocate IP addresses and record domain names so each is unique. IANA delegates to five Regional Internet Registries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--08-net-packet-switching.webp" width="900" height="1080" alt="A packet holds a source address, destination address, sequence number, time to live, payload and error-checking information. Three numbered packets travel from sender to receiver by different routes through routers R1 to R4. Each router subtracts 1 from the time to live; with an illustrative starting value of 5, packet 1 passes three routers (TTL 2), packet 2 passes two (TTL 3) and packet 3 passes three (TTL 2). Packets can arrive out of order, for example 2, 1, 3, and the receiver puts them back in order using the sequence numbers." loading="lazy">
+  <figcaption>Packets take different routes, lose 1 from their TTL at each router and are re-ordered by sequence number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--09-net-dns-lookup.webp" width="900" height="1060" alt="The computer checks its cache, then asks its DNS resolver. If the resolver has no cached answer it asks a root name server, which refers it to the .org servers. A .org server refers it to the name server for orrinvale-museum.org, which returns the IP address. The resolver caches the answer and passes it back to the computer. Below, the domain name is read right to left: root, .org, orrinvale-museum, then the host name tickets." loading="lazy">
+  <figcaption>The resolver asks root, .org and the domain name server in turn, then caches and returns the IP address.</figcaption>
+</figure>
+
 
 ## 3.14.4 TCP/IP
 
@@ -160,6 +183,17 @@ Test yourself with the [practice questions](/resources/oxfordaqa-a-level-compute
 **Routable vs non-routable:** public addresses are unique and forwarded across the Internet; private ranges (10.x.x.x, 172.16–31.x.x, 192.168.x.x) are reused within local networks and not forwarded.
 
 **DHCP:** Discover (broadcast) → Offer → Request → Acknowledge. Address leased for a period. Beats manual set-up: no duplicates or typos, address reuse, instant connection for visitors, central changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--10-net-subnet-mask.webp" width="900" height="970" alt="The address 10.48.157.201 is ANDed with the subnet mask 255.255.240.0. Octets 1 and 2 are kept by the mask 255, giving 10 and 48. Octet 3: 157 is 10011101 and 240 is 11110000; ANDing them bit by bit gives 10010000, which is 144. Octet 4 has mask 0, so it becomes 0. The network identifier is 10.48.144.0, and there are 4 + 8 = 12 host bits." loading="lazy">
+  <figcaption>ANDing 10.48.157.201 with 255.255.240.0 gives network identifier 10.48.144.0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--11-net-dhcp.webp" width="900" height="900" alt="A device joining a network broadcasts a Discover message. The DHCP server sends an Offer. The device sends a Request. The server sends an Acknowledge. The device then uses the address for a set lease time, after which the address returns to the pool to be reused." loading="lazy">
+  <figcaption>Four messages give a device an address, which is leased and then returns to the pool.</figcaption>
+</figure>
+
 
 ## 3.14.5 Cyber security
 
@@ -207,6 +241,12 @@ Test yourself with the [practice questions](/resources/oxfordaqa-a-level-compute
 8. POP3 downloads and usually deletes from the server; IMAP keeps mail on the server.
 9. The sender's own private key.
 10. A worm spreads by itself across networks; a virus needs a host file to be run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--12-net-digital-signature.webp" width="900" height="880" alt="Sender: the message is hashed, the hash is encrypted with the sender’s private key to make the signature, and the message and signature are sent together. Receiver: the signature is decrypted with the sender’s public key to give hash A, and the message is hashed again to give hash B. If A equals B the message came from the sender and has not been changed. A signature proves origin and integrity but does not keep the message secret." loading="lazy">
+  <figcaption>The sender signs a hash with the private key; the receiver compares two hashes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

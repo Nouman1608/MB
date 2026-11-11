@@ -38,6 +38,17 @@ These notes cover section 3.2 Food production of the Cambridge IGCSE Geography (
 - Know the negative effects of shortages, and how they encourage food aid and measures to increase output.
 - Case studies: a farm or agricultural system, and a country or region suffering from food shortages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--16-food-land-use.webp" width="900" height="760" alt="A landscape cross-section divided into four zones by dashed lines. High land on the left is colder and has a snow cap: grazing and forestry. A steep slope with trees has thin soil: terraces or grazing. A flat plain under a rain cloud has fertile alluvium and crops with a river: intensive arable. On the right, a sunny area with sheep has low, unreliable rainfall: extensive pastoral." loading="lazy">
+  <figcaption>Relief, climate and soil together decide whether land is used for crops, grazing or forestry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--18-food-causes.webp" width="900" height="910" alt="Two columns of cause tiles lead down to a bar labelled food shortage. Natural: drought (crops fail), floods (crops drown), tropical storms (wind and salt water) and pests (locusts eat crops). Economic and political: low investment (no irrigation or storage), poor transport (food cannot arrive) and war (fighting blocks aid). A dashed tile lists other factors: population growth, high prices and poverty. Below the bar, an arrow leads to famine: extreme shortage with deaths from hunger." loading="lazy">
+  <figcaption>Natural hazards and economic or political problems combine to cause food shortages.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Definition |
@@ -62,6 +73,17 @@ These notes cover section 3.2 Food production of the Cambridge IGCSE Geography (
 | High-yielding varieties (HYV) | Crop strains bred to produce more grain, usually needing fertiliser and water |
 | Appropriate technology | Simple, affordable tools that local people can build and repair |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--14-food-system.webp" width="900" height="830" alt="Three boxes in a row: inputs, processes and outputs. Inputs list natural items (relief, climate, soil) and human items (labour, machinery, seeds and money). Processes list ploughing, sowing, irrigating and harvesting. Outputs list products (crops, milk, meat, wool, eggs) and by-products or waste (manure, straw, run-off). A long arrow under the boxes returns from outputs to inputs, labelled feedback." loading="lazy">
+  <figcaption>A farm is an input-process-output system, and some outputs return as inputs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--19-food-loop.webp" width="900" height="880" alt="A clockwise loop of four boxes: food shortage, people weak and ill, sell animals and tools, smaller next harvest, then back to food shortage. A sack labelled food aid, saves lives, has an arrow pointing into the people weak and ill box. Below, six tiles show measures to raise output: irrigation, better seed and fertiliser, appropriate technology, pest control and early warning, land reform and credit, and farmer education." loading="lazy">
+  <figcaption>Shortages can trap families in a cycle; aid saves lives now and measures to raise output work longer term.</figcaption>
+</figure>
+
+
 ## Case studies at a glance
 
 | Case study | What it shows | Key facts | One evaluation point |
@@ -70,6 +92,22 @@ These notes cover section 3.2 Food production of the Cambridge IGCSE Geography (
 | Wheat farming, Canadian Prairies (contrast) | Commercial, arable, extensive system | Large, mechanised farms in provinces such as Saskatchewan; wheat, oats, barley, canola; early homesteads of 160 acres grew much larger; south-west prone to drought | Good contrast in capital and scale; use it as a contrast, not as your only farm case |
 | Somalia 2010-2012 (country or region with food shortages) | Drought plus conflict turning shortage into famine | Worst drought in 60 years; April-June 2011 rain under 30% of the 1995-2010 average in many areas; famine declared 20 July 2011 in Lower Shabelle and Bakool; prices up to 240% higher; more than 920,000 refugees by mid-September 2011; death toll estimates about 50,000 to 260,000; famine declared over February 2012 | Shows natural and political causes interacting; death toll estimates vary, so present a range |
 | Green Revolution, India (measure to increase output) | HYV seeds, fertiliser and irrigation | From the 1960s; linked to Norman Borlaug's wheat; raised wheat and rice output in states such as Punjab | Output rose, but groundwater use and input costs are criticised |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--15-food-types.webp" width="900" height="740" alt="Two scenes side by side. On the left, a small field with nine workers: a Bangladesh rice plot. On the right, a large field with one tractor: a Canadian wheat farm. A table below gives three labels for each. Purpose: subsistence versus commercial. Product: arable for both. Inputs per hectare: intensive (many inputs per hectare) versus extensive (few inputs per hectare). A note adds pastoral (animals) and mixed (crops and animals)." loading="lazy">
+  <figcaption>Every farm can be described by purpose, product and intensity; intensity is measured per hectare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--17-food-rice.webp" width="900" height="770" alt="A twelve-month chart with three rows. Aus: planting in March and April, harvest in summer, rainy season. Aman: planting in July and August, then rainfall, harvest in November and December. Boro: planting from mid-November to February (the bar wraps from the end of the year to the start), harvest from April to June, a dry-season crop that needs irrigation with tubewells and is now the leading paddy crop." loading="lazy">
+  <figcaption>Aus and Aman depend on the monsoon rains; boro is the irrigated dry-season crop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-food-production--20-food-somalia.webp" width="900" height="945" alt="A banner shows drought plus conflict with blocked aid leading to famine. A vertical timeline follows. April to June 2011: rain below 30 per cent of the 1995 to 2010 average, shown by a short bar beside a long one. 2011: livestock losses of 40 to 60 per cent and food prices up to 240 per cent higher. 20 July 2011: the UN declares famine in Lower Shabelle and Bakool. 27 July 2011: the WFP airlift to Mogadishu begins. Mid-September 2011: over 920,000 refugees had fled; bars show Dadaab camp holding 440,000 against a capacity of 90,000. February 2012: the UN says the famine is over." loading="lazy">
+  <figcaption>Drought triggered the shortage in Somalia in 2011, but conflict and blocked aid turned it into famine.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

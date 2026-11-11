@@ -56,12 +56,24 @@ Quick recall for section 1.4 of the Cambridge O Level Statistics syllabus (4040)
 
 Memory line: closed gives counts, open gives reasons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--08-survey-closed-open.webp" width="900" height="780" alt="A closed question (tick boxes, tallied) beside an open question (written answer, coded into categories) with advantages and drawbacks of each." loading="lazy">
+  <figcaption>Closed questions are quick to count but give little detail; open questions give detail but must be coded.</figcaption>
+</figure>
+
+
 ## Types of closed question
 
 - Yes/No
 - Multiple choice (tick one, or tick all that apply)
 - Rating scale (for example very satisfied to very dissatisfied)
 - Banded numbers (for example hours per week: 0–2, 3–5, 6 or more)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--10-survey-rating.webp" width="900" height="790" alt="Bar chart of 40 answers on a five-point scale with counts and percentages; 9 + 15 = 24 satisfied members is 60%." loading="lazy">
+  <figcaption>Closed answers are already in categories so they are easy to count and display.</figcaption>
+</figure>
+
 
 ## Response options: the three tests
 
@@ -76,6 +88,17 @@ Faulty:    0–10   10–20   25–30
 Problems:  10 is in two bands; 21 to 24 are in none
 Corrected: 0–10   11–20   21–30
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--09-survey-bands.webp" width="900" height="920" alt="Faulty age options overlap at 25 and leave 41 to 44 uncovered; corrected options cover every whole age exactly once." loading="lazy">
+  <figcaption>Response options must be mutually exclusive and exhaustive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--13-survey-response.webp" width="900" height="920" alt="A bar of 320 forms: 176 usable, 8 spoiled, 136 not returned, giving a response rate of 55%." loading="lazy">
+  <figcaption>Response rate is usable replies divided by people asked, as a percentage.</figcaption>
+</figure>
+
 
 ## Method: coding open answers
 
@@ -129,6 +152,17 @@ Make each point a complete reason and tie it to the survey in the question.
 
 Purpose in one sentence: to find and fix faults before the full survey is carried out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--07-survey-steps.webp" width="900" height="920" alt="Six numbered steps joined by arrows: aim, population and sample, how to ask, write and pilot, collect and record non-response, process and interpret." loading="lazy">
+  <figcaption>A survey follows six steps from stating the aim to interpreting results.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--12-survey-pilot.webp" width="900" height="780" alt="Three pilot findings and fixes: blank transport question leads to an Other option; sedentary leads to plain words; 20 minutes leads to cutting questions." loading="lazy">
+  <figcaption>A pilot tests the questionnaire so faults are fixed before the main survey.</figcaption>
+</figure>
+
+
 ## Response rate: worked reminder
 
 150 forms are given out and 90 usable ones come back.
@@ -176,6 +210,12 @@ To raise it: shorten the form, send a reminder, make it easy to return, explain 
 10. For example: "In the last 7 days, how many books did you read? None, 1, 2 or 3, 4 or more."
 11. Any two of: shorten the form, send a reminder, give a prepaid return envelope, explain the purpose clearly.
 12. Every extra answer is pushed in the same direction by the wording, so the error is repeated across the whole sample rather than averaged away.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--11-survey-coding.webp" width="900" height="1050" alt="24 canteen answers sorted into five categories shown as dots, then drawn as a pie chart with angles 105, 90, 75, 45 and 45 degrees." loading="lazy">
+  <figcaption>Coding sorts open answers into categories that can then be counted and charted.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

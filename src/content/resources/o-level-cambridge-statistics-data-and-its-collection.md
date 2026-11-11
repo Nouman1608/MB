@@ -98,6 +98,17 @@ Continuous data is always recorded to an accuracy, so its stated value implies a
 
 **Variables** may also be described as **bivariate** where two are recorded per item, which is what makes scatter diagrams and correlation possible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--07-dc-data-types.webp" width="900" height="820" alt="A tree: data is qualitative (category, not measured: hair colour, town of birth) or quantitative (numerical), and quantitative is discrete (counted: siblings, goals scored) or continuous (measured: height, mass, time)." loading="lazy">
+  <figcaption>Data is qualitative or quantitative, and quantitative data is discrete or continuous.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--08-dc-class-boundaries.webp" width="900" height="640" alt="A number line from 12.30 to 12.50. A time recorded as 12.4 s sits in the band from 12.35 (included, solid dot) to 12.45 (not included, open dot), written 12.35 &lt;= t &lt; 12.45." loading="lazy">
+  <figcaption>A continuous value recorded to 1 decimal place stands for a range of possible true values.</figcaption>
+</figure>
+
+
 ## Primary and secondary sources
 
 **Primary** data is collected by the investigator for the current purpose: relevant, with known reliability, but slow and costly. **Secondary** data already exists in published statistics, records or databases: quick and cheap, but possibly outdated, incomplete, or gathered under different definitions.
@@ -119,6 +130,17 @@ A **sample** covers part of it. The **sampling frame** is the list from which it
 | Cluster | Whole groups selected at random | Less precise if clusters differ |
 | Opportunity | Whoever is available | Unrepresentative |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--09-dc-census-sample.webp" width="900" height="840" alt="An illustrative population of 24 people. A census asks all 24. A sample picks 6 from the sampling frame; 4 people are missing from the frame and can never be picked, so gaps in the frame cause bias." loading="lazy">
+  <figcaption>A census asks everyone, while a sample draws part of the population from a frame whose gaps cause bias.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--10-dc-sampling-methods.webp" width="900" height="1104" alt="Six panels show the same 30 people with sample members filled in: simple random, systematic (every 5th from a random start), stratified, quota, cluster and opportunity, each with its limitation from the lesson." loading="lazy">
+  <figcaption>Each sampling method selects people differently and has its own limitation.</figcaption>
+</figure>
+
+
 ## Collecting data and avoiding bias
 
 Questionnaires should use clear language, avoid leading and ambiguous questions, offer response options that are exhaustive and non-overlapping, and place sensitive items last. A **pilot survey** tests the instrument before full deployment.
@@ -128,6 +150,22 @@ Bias arises from an incomplete sampling frame, non-response, self-selection, lea
 **Worked example.** A researcher wants to survey the reading habits of adults in a town, so she stands outside a bookshop on a Saturday morning and asks every 5th person who passes -- systematic **in form** (every 5th person), but with no sampling frame and no defined random start, this is opportunity sampling **in substance**, applied to a self-selected location. This sample is unlikely to be representative for two separate reasons: it only includes people **near a bookshop**, who are already more likely to be interested in reading than the general adult population, so the results will overstate reading habits; and it is conducted only on a **Saturday morning**, which excludes adults who work or are otherwise unavailable at that time, so the sample also fails to represent all adults' schedules and habits. The fix is not a bigger sample but a **different sampling frame** -- surveying at several different locations and at different times and days, so the frame is no longer skewed toward people who were already likely to be readers.
 
 Data may be recorded using a **tally chart** or a **data collection sheet**, then organised into a grouped frequency table with equal class widths where possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--11-dc-stratified.webp" width="900" height="700" alt="A bar of 360 workers split 240 production, 90 sales and 30 admin. Dividing each by 10 (the sampling fraction 36/360 = 1/10) gives 24, 9 and 3 in the sample of 36, picked randomly within each group." loading="lazy">
+  <figcaption>A stratified sample takes proportional numbers from each group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--12-dc-bookshop-bias.webp" width="900" height="960" alt="All adults in a town as a large box. Only people near the bookshop who are also free on Saturday morning can be asked, so results are too high for reading and working adults are missed. The fix is a new frame across several places, days and times." loading="lazy">
+  <figcaption>Two filters, location and time, make the bookshop sample unrepresentative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--13-dc-sample-size-bias.webp" width="900" height="880" alt="Four strips of dots (illustrative simulation) around a true value. A larger sample has less scatter with or without bias, but a biased frame stays off to one side however large the sample." loading="lazy">
+  <figcaption>A bigger sample reduces scatter but does not remove bias.</figcaption>
+</figure>
+
 
 ## Worked example
 

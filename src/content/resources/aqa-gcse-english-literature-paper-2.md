@@ -93,6 +93,12 @@ practice analysing poems the student has never encountered, building
 the habit of noticing structure, form and language shifts within a
 single reading under time pressure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-2--18-p2-section-b-pair.webp" width="900" height="870" alt="A gold poem sheet labelled named poem and a teal sheet labelled your choice, same cluster, face each other. Below, three chips say compare language, form and structure. Three linked pairs of dots show that you should prepare at least three comparison pairings early. A note says choose the second poem for a real contrast or link." loading="lazy">
+  <figcaption>Compare the named poem with a second poem you chose in advance, on language, form and structure.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Treating Section A as a chance to retell the plot rather than analyse
@@ -108,6 +114,12 @@ Section C 32 marks, so under-time on unseen poetry still costs a
 substantial share of the paper and is one of the most avoidable
 ways to lose marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-2--15-p2-marks.webp" width="900" height="800" alt="A bar splits Paper 2's 96 marks into Section A modern text 34, Section B poetry cluster 30 and Section C unseen poetry 32. A second bar shows the 135-minute paper split in proportion to the marks: 48, 42 and 45 minutes, marked illustrative. A note says Section C is worth 32 marks so should not be under-timed." loading="lazy">
+  <figcaption>Give each section a broadly similar share of time: Section C is 32 of 96 marks.</figcaption>
+</figure>
+
+
 ## Assessment at a glance
 
 Paper 2 is a 2 hour 15 minute closed-book exam worth 96 marks -- 60%
@@ -117,6 +129,12 @@ poem of their choice from the same cluster (Section B), and two
 compulsory questions in Section C: one analysing a single unseen poem
 (24 marks) and one comparing that poem with a second unseen poem
 (8 marks) -- both compulsory, not one combined comparison question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-2--19-p2-unseen.webp" width="900" height="920" alt="Two unseen poem sheets flank two question boxes. Question 1 analyses Poem 1 in depth for 24 marks. Question 2 compares Poem 1 with Poem 2 for 8 marks. A grid of 32 squares, 24 gold and 8 teal, shows the 24 plus 8 equals 32 marks. Both questions are compulsory and focus on content, theme, structure and language." loading="lazy">
+  <figcaption>Two compulsory questions: 24 marks for one poem, 8 marks to compare it with a second.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -142,6 +160,12 @@ Choosing the comparison poem well before the exam -- rather than
 deciding in the moment -- is one of the highest-value pieces of
 Section B preparation, since it removes a difficult decision from
 under time pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-2--20-p2-weak-strong.webp" width="900" height="830" alt="Two columns compare answers. The weak column shows a summary of poem 1, a summary of poem 2 and a single link at the end. The strong column has three rows for language, structure and form, each comparing poem 1 with poem 2 using a connective: similarly, in contrast, whereas. A note says to compare from the opening paragraph and to pick the second poem for a real contrast or link." loading="lazy">
+  <figcaption>A strong comparison works across both poems from the first paragraph, using connectives throughout.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -184,3 +208,14 @@ because it feels less prepared-for.
 AQA GCSE English Literature (8702) specification, for first teaching
 2015, section 3.2 Modern Texts and Poetry —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/english/gcse/english-8702/specification/subject-content/modern-texts-and-poetry).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-2--16-p2-modern-texts.webp" width="900" height="860" alt="Two columns list the 12 prescribed post-1914 texts, six drama and six prose. Drama: An Inspector Calls, Blood Brothers, DNA, A Taste of Honey, Princess &amp; The Hustler and Leave Taking. Prose: Lord of the Flies, Animal Farm, Telling Tales, Anita and Me, Pigeon English and My Name is Leon. The last two drama titles and My Name is Leon carry a 2023 tag for first teaching 2023. The centre picks one." loading="lazy">
+  <figcaption>The centre chooses one of 12 post-1914 prose and drama texts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-2--17-p2-poetry-clusters.webp" width="900" height="890" alt="Three boxes each show 15 dots for the 15 poems in a cluster: Love and Relationships, Power and Conflict, and Worlds and Lives (tagged 2023). Students study one cluster in full. A timeline from 1789 to today shows the span of the poems." loading="lazy">
+  <figcaption>Three clusters of 15 poems; each student studies one in full.</figcaption>
+</figure>
+

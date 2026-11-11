@@ -127,15 +127,33 @@ A **variable** may change during execution; a **constant** may not. Using consta
 - **Boolean:** NOT, AND, OR and **XOR** (true when exactly one of its two inputs is true).
 - **String handling:** length, position (where a character or substring occurs), substring, concatenation, converting a character to its character code and back, and conversions between strings and integers, floats and date/time values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--10-prog-div-mod-truncate.webp" width="900" height="750" alt="Seventeen items shared into groups of five give three whole groups (17 DIV 5 = 3) with two left over (17 MOD 5 = 2). On a number line from 3 to 4, 3.9 truncates to 3 but rounds to 4." loading="lazy">
+  <figcaption>DIV counts whole groups, MOD is what is left, and truncation drops the fraction without rounding.</figcaption>
+</figure>
+
+
 ## Exception handling
 
 An **exception** is an error that occurs while a program runs, such as dividing by zero, opening a file that does not exist, or converting "abc" to an integer. **Exception handling** lets the program catch the error in a designated block (for example TRY ... EXCEPT or TRY ... CATCH), respond to it — reporting the problem, asking for the input again or using a default value — and continue or end in a controlled way rather than crashing. You should be able to use it in the language you program in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--08-prog-exceptions.webp" width="900" height="780" alt="Two paths when converting the text &quot;abc&quot; to an integer fails. With TRY ... EXCEPT the error is caught, the EXCEPT block reports it, asks again or uses a default, and the program carries on. With no handler the program crashes." loading="lazy">
+  <figcaption>An exception handler lets a program recover instead of crashing.</figcaption>
+</figure>
+
 
 ## The three programming constructs
 
 All procedural code is built from **sequence**, **selection** (IF, ELSE IF, CASE/SWITCH) and **iteration**. These can be **nested** — a selection inside a loop, or one loop inside another — and every identifier should have a **meaningful name**, so that the code documents itself and is easier to read, debug and maintain.
 
 Iteration divides into **definite** (FOR — the number of repetitions is known) and **indefinite** (WHILE, REPEAT UNTIL — controlled by a condition). The distinction between WHILE and REPEAT UNTIL is that WHILE tests before the first pass, so its body may execute zero times, whereas REPEAT UNTIL tests after, so it always executes at least once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--09-prog-while-repeat.webp" width="900" height="750" alt="Two flowcharts. WHILE tests the condition before the body, so if the condition is already false the body runs zero times. REPEAT UNTIL runs the body first and tests after, so it always runs at least once; with count starting at 10 the body runs once." loading="lazy">
+  <figcaption>WHILE may run its body zero times; REPEAT UNTIL always runs it at least once.</figcaption>
+</figure>
+
 
 ## Subroutines and parameters
 
@@ -146,6 +164,17 @@ A subroutine is a named, "out of line" block of code that is executed by writing
 **Recursion** — a subroutine calling itself — requires a base case that terminates it and a general case that moves towards the base case. Each call uses stack space, so deep recursion risks stack overflow; an iterative solution is often more efficient but less elegant.
 
 **Stack frames.** Every subroutine call pushes a new stack frame onto the call stack, which stores the **return address** (where execution resumes once the call finishes), the subroutine's **parameters**, and its **local variables**. When the subroutine ends, its frame is popped and control returns to the stored address. This is why recursion is expensive in memory — each nested call keeps its own frame on the stack until it returns — and why a missing base case causes a **stack overflow**: frames keep being pushed with nothing ever popping them off.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--11-prog-pass-value-reference.webp" width="900" height="1005" alt="Pass by value sends a copy: the procedure doubles its copy n to 10 and x in main stays 5. Pass by reference sends the address: n points at x, so doubling n changes x to 10." loading="lazy">
+  <figcaption>By value, the original is safe; by reference, the original is changed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--12-prog-stack-frames.webp" width="900" height="1180" alt="A call stack for fact(3) with frames for fact(3), fact(2) and fact(1) above main; each frame stores a return address, a parameter and a local variable. The base case returns 1, then 2, then 6, popping frames. Without a base case, frames pile up beyond the stack limit and cause a stack overflow." loading="lazy">
+  <figcaption>Each call pushes a frame holding the return address, parameters and local variables.</figcaption>
+</figure>
+
 
 ## Object-oriented programming
 
@@ -158,6 +187,12 @@ A **class** is a template that defines the attributes (data) and methods (behavi
 **Why the object-oriented paradigm is used.** Modelling a program as interacting objects keeps each object's data and behaviour together, so classes can be developed, tested and maintained largely independently, reused in other programs and extended through inheritance without rewriting working code. The specification also names three **design principles** you should be aware of: **encapsulate what varies**, **favour composition over inheritance**, and **program to interfaces, not implementation** (the specification says you will not be explicitly tested on programming to interfaces, or required to program to interfaces in a practical exam).
 
 **Class diagrams.** You must be able to draw and interpret class diagrams showing single inheritance, **composition** (a line ending in a **black** diamond), **aggregation** (a line ending in a **white** diamond) and the access specifiers **public (+)**, **private (−)** and **protected (#)** placed before each attribute and method.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--13-prog-class-diagram.webp" width="900" height="1150" alt="An illustrative class diagram: Car inherits from Vehicle (hollow triangle), Car is composed of an Engine (black diamond) and aggregates a Passenger (white diamond). Members are marked + public, minus private and # protected." loading="lazy">
+  <figcaption>Black diamond = composition, white diamond = aggregation; + public, − private, # protected.</figcaption>
+</figure>
+
 
 ## Data structures and file handling
 
@@ -189,6 +224,12 @@ OUTPUT total
 | 4 | 16 | 30 |
 
 The loop then tests count = 5, which fails, so output is **30** — the sum of the first four square numbers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--14-prog-trace-table.webp" width="900" height="1058" alt="The lesson's loop traced row by row: count 1, 2, 3, 4 gives count*count 1, 4, 9, 16 and total 1, 5, 14, 30, each row with a square of dots. The test then fails at count 5 and the output is 30." loading="lazy">
+  <figcaption>One row per pass of the loop; the output is the sum of the first four squares.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

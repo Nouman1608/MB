@@ -109,6 +109,22 @@ Reading a pyramid this way — shape first, then specific irregularities and the
 is what distinguishes strong analysis from a purely descriptive account of "more males than females
 in this age group."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--01-pop-pyramid-shapes.webp" width="900" height="740" alt="Two schematic population pyramids side by side. The left one has a wide base that narrows steeply to the top: high birth rates, a young population, typically an earlier stage of development. The right one is closer to a rectangle with a narrower base: lower birth rates, an ageing population, typically a later stage of development. Males are on the left of each pyramid and females on the right. Illustrative shapes, not real data." loading="lazy">
+  <figcaption>A wide-based pyramid shows high birth rates and a young population; a more rectangular one shows lower birth rates and ageing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--02-pop-pyramid-irregularities.webp" width="900" height="810" alt="One schematic population pyramid with age bands from 0-9 at the bottom to 70 plus at the top. The 50-59 band bulges out, which can mean a past baby boom or in-migration of that age group. The 30-39 band is pinched in, which can mean war, famine or emigration affected that cohort. Below, three steps for reading any pyramid: overall shape, then bulges or narrowings, then likely cause." loading="lazy">
+  <figcaption>A bulge or narrowing in one age band points to a past event such as a baby boom, war, famine or migration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--03-pop-pyramid-chain.webp" width="900" height="660" alt="A flow diagram. High birth rates (sub-topic 1.1) produce a youthful population pyramid with a wide base. From that pyramid, three arrows lead to consequences: pressure on services (1.5), migration pattern (1.2) and dependency ratio (1.3). One strong answer links shape, cause and consequence." loading="lazy">
+  <figcaption>A strong answer links pyramid shape to its cause (birth rates) and to a consequence such as service pressure, migration or dependency ratio.</figcaption>
+</figure>
+
+
 ## Connecting settlement and service provision
 
 1.5's settlement content and service provision are examined together because they're causally
@@ -122,6 +138,17 @@ situation are among the factors that influence a settlement's growth and functio
 for its size or function. Understanding the hierarchy this way matters since exam questions frequently ask candidates to explain *why* a settlement
 has (or lacks) a particular service, which requires this causal reasoning rather than description
 alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--04-settlement-hierarchy.webp" width="900" height="880" alt="A triangle of three tiers shows a settlement hierarchy. At the top is one large, central settlement with a wide range of higher-order services (five service blocks). In the middle are a few medium settlements with some services (three blocks). At the base are many small, isolated settlements with few, lower-order services (one block). Size, function and connectivity decide which services a settlement can support. Illustrative counts." loading="lazy">
+  <figcaption>Larger, more central settlements support a wider range and higher order of services than small, isolated ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--05-site-situation.webp" width="900" height="900" alt="A schematic landscape, not to scale. A small settlement sits on a patch of land inside a dashed ring: the ring is its site, the physical land it is built on. Dashed arrows from the ring to a river, hills and a neighbouring settlement show its situation, its position relative to surrounding features and other places. Both influence growth and functions." loading="lazy">
+  <figcaption>Site is the land a settlement is built on; situation is its position relative to surrounding features and other places.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

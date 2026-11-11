@@ -64,6 +64,27 @@ Links: [course hub](/boards/cambridge/a-level/ict/), [9626 checklist](/checklist
 | Colour correction | Adjust brightness, contrast, colour balance so shots match |
 | Still image | One frame extracted from video, or an inserted picture |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-video-and-audio-editing--08-va-trim.webp" width="900" height="860" alt="An 80 s timeline with in point 0:12 and out point 1:05 leaves 53 s; below, two clips are joined end to end." loading="lazy">
+  <figcaption>Trimming sets in and out points; splicing joins clips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-video-and-audio-editing--09-va-crop.webp" width="900" height="900" alt="A 1200x900 photo is cropped to 1200x675 then resized x1.6 to 1920x1080; resizing without cropping uses x1.6 and x1.2 and stretches the picture." loading="lazy">
+  <figcaption>Crop first, then resize by one factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-video-and-audio-editing--10-va-text.webp" width="900" height="980" alt="Mock screens for a title, a subtitle (speech only), a caption (speech and sounds), and scrolling credits with blank lines between groups, plus four readability tips." loading="lazy">
+  <figcaption>Titles, subtitles, captions and credits do different jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-video-and-audio-editing--11-va-frames.webp" width="900" height="900" alt="Intraframe stores all 8 frames whole; interframe stores whole frames at intervals and then changes. Illustrative sizes 8.0 v 3.2." loading="lazy">
+  <figcaption>Interframe compression makes much smaller files but loses quality when much changes.</figcaption>
+</figure>
+
+
 ## Why each video feature is used
 
 | Feature | Reason (link it to the audience) |
@@ -132,6 +153,22 @@ Links: [course hub](/boards/cambridge/a-level/ict/), [9626 checklist](/checklist
 | Overdub / voiceover | New recording laid over or alongside existing audio; narration over music |
 | Sampling rate | Samples per second (Hz) |
 | Sampling resolution | Bits per sample (bit depth) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-video-and-audio-editing--12-va-sampling.webp" width="900" height="940" alt="Four panels show one wave sampled at a low and a high rate, and stored on few or many levels." loading="lazy">
+  <figcaption>Higher rate or resolution: better quality, bigger file.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-video-and-audio-editing--13-va-size.webp" width="900" height="960" alt="40,000 x 16 x 2 x 30 = 38,400,000 bits, / 8 = 4.8 MB; mono 2.4 MB; mono at 20,000 Hz 1.2 MB." loading="lazy">
+  <figcaption>Audio file size = rate x resolution x channels x seconds, divided by 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-video-and-audio-editing--14-va-filters.webp" width="900" height="810" alt="Two schematic graphs: high pass removes low frequencies below the cut-off; low pass removes high frequencies above it." loading="lazy">
+  <figcaption>High pass removes rumble and hum; low pass removes hiss.</figcaption>
+</figure>
+
 
 ## Sampling formula
 

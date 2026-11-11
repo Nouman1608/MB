@@ -33,6 +33,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Storage device** = the hardware that reads/writes data (a disk drive, an SSD unit). **Storage media** = the physical material data is recorded onto — removable and separate for some technologies (a DVD disc vs its drive), sealed into one unit for others (an SSD). Using the two terms interchangeably is exactly what this topic penalises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--13-store-device-media.webp" width="900" height="1000" alt="A DVD drive is a device and a DVD disc is separate removable media. A card reader is a device and a memory card is separate media. A solid-state drive is device and media in one sealed unit." loading="lazy">
+  <figcaption>The device reads and writes; the media is the material the data is recorded on.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--14-store-families.webp" width="900" height="1080" alt="Devices and media for three technologies. Magnetic: hard and tape drives; hard disks and magnetic tape. Optical: CD, DVD, Blu-ray drives; the discs, capacity rising CD to DVD to Blu-ray. Solid-state: SSD, pen and flash drives; SD, xD, CFast cards." loading="lazy">
+  <figcaption>Each technology family has devices and media.</figcaption>
+</figure>
+
+
 ## The three technology families
 
 | | Devices | Media | Strength | Weakness |
@@ -43,13 +54,31 @@ Condensed for the final weeks. For the full explanation, use the
 
 Optical discs also differ from each other mainly by capacity: Blu-ray > DVD > CD.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--15-store-trade-offs.webp" width="900" height="1000" alt="Magnetic: large capacity, low cost per GB; slower than solid-state, damaged by magnets and shock. Optical: cheap, widely compatible; slower, lower capacity, needs a clean disc. Solid-state: no moving parts, fast, shock resistant; higher cost per GB." loading="lazy">
+  <figcaption>Each technology has strengths and a weakness.</figcaption>
+</figure>
+
+
 ## Why the technology choice depends on purpose
 
 **Magnetic tape**, despite being the oldest listed technology, is still used for large-scale organisational backup because of its very low cost per gigabyte at huge capacities — even though its sequential (not random) access makes retrieving one specific file far slower than a hard disk or SSD. That trade-off is acceptable for long-term archival storage, not day-to-day access. **Optical media's** read-only or write-once variants matter where data must not be alterable after writing — a guarantee neither magnetic nor solid-state media gives by default. "Advantages and disadvantages" in this topic usually hinge on *purpose* (everyday access speed vs long-term low-cost archiving vs portability), not one technology being unconditionally best.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--16-store-archive.webp" width="900" height="1030" alt="To reach file 6 on magnetic tape the tape passes 5 files first; a hard disk or SSD goes straight to it. Tape is low cost per GB and fine for archives. Read-only or write-once optical discs cannot be altered." loading="lazy">
+  <figcaption>Tape access is sequential and slow but cheap for archives.</figcaption>
+</figure>
+
+
 ## Worked example: a photographer's workflow
 
 In-camera, during a shoot: solid-state media (SD/CFast memory card) — no moving parts to damage from vibration, compact and removable. Back at a desk: archive to a magnetic hard drive for low cost/GB across a large photo library, or back up to Blu-ray for a cheap, widely compatible offline format. Different technologies co-exist across one workflow's different stages, rather than one being "best" throughout.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-storage-devices-and-media--17-store-workflow.webp" width="900" height="1000" alt="Stage 1: a memory card (SD or CFast) in the camera, no moving parts, compact, removable. Stage 2: photos copied to a laptop and edited. Stage 3: archive to a magnetic hard drive (low cost per GB) or a Blu-ray disc (cheap, widely compatible)." loading="lazy">
+  <figcaption>Different storage technologies suit different stages of one workflow.</figcaption>
+</figure>
+
 
 ## A subtle examinable point
 

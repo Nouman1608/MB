@@ -61,6 +61,12 @@ Use this guide with the [Development revision notes](/resources/igcse-geography-
 
 > GNP per capita only measures average income, while the HDI also includes life expectancy and years of schooling (knowledge). This matters because a country can be rich on average without that wealth reaching most people (application). For example, a country with large oil exports may have a high GNP per capita but low literacy and short lives, so its HDI would be lower and give a truer picture of how people live (analysis). However, the HDI is still a national average, so it can hide big differences between rich cities and poor rural areas (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-development--01-dev-hdi.webp" width="900" height="790" alt="Three tiles show the parts of the HDI: a long and healthy life (life expectancy at birth), knowledge (years of schooling) and a decent standard of living (GNI per capita at PPP). They combine into one number between 0 and 1. A scale marks the four groups: low below 0.550, medium to 0.699, high to 0.799, very high from 0.800. South Sudan (0.388) and Pakistan (0.544) fall in the low group; Iceland (0.972) is very high." loading="lazy">
+  <figcaption>The HDI turns health, education and income into one number, so countries can be placed on a single 0 to 1 scale.</figcaption>
+</figure>
+
+
 ## Inequalities between and within countries
 
 **Between countries.** The Brandt Line, associated with the 1980 Brandt Report (*North–South: A Programme for Survival*), divides a richer "North" from a poorer "South". Today geographers prefer terms such as high-income countries (HICs) and low-income countries (LICs), because many countries, such as China, have moved up the scale.
@@ -82,6 +88,12 @@ Reasons for inequality between countries:
 
 > Inequalities develop because investment tends to collect in a core region (knowledge). In a coastal capital, ports, airports and a large market attract factories and offices, so jobs and wages rise (application). This creates a cycle: better-paid workers pay more tax, which funds schools and hospitals, which attracts more firms, while young people leave rural areas and those areas fall further behind (analysis). Government spending on roads and services in the periphery can reduce the gap, but it rarely closes it quickly (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-development--02-dev-core-periphery.webp" width="900" height="850" alt="A top panel shows the core region as a loop of four steps: firms invest, jobs and wages rise, more tax is paid, and the tax funds schools and hospitals, which attract more firms. A bottom panel shows the periphery with houses and the words fewer jobs and services. A thick arrow points up from the periphery to the core: young people move to the core." loading="lazy">
+  <figcaption>Investment, jobs and services reinforce each other in the core while young people leave the periphery.</figcaption>
+</figure>
+
+
 ## Sectors of production
 
 | Sector | Meaning | Illustrations |
@@ -92,6 +104,12 @@ Reasons for inequality between countries:
 | Quaternary | Knowledge-based services: research, information and expertise | Software design, scientific research and development, data analysis, consultancy |
 
 The syllabus names all four sectors, so learn all four. Be precise with jobs: a farmer is primary, a worker canning fruit is secondary, a lorry driver moving the cans is tertiary, and a scientist developing a new crop variety is quaternary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-development--03-dev-sectors.webp" width="900" height="840" alt="Four numbered rows, each with an icon. 1 Primary, a tree: a farmer grows fruit. 2 Secondary, a can: a worker cans the fruit. 3 Tertiary, a lorry: a lorry driver moves the cans. 4 Quaternary, a laboratory flask: a scientist develops a new crop. Arrows run down the chain." loading="lazy">
+  <figcaption>The same fruit passes through all four sectors: grown, canned, transported and improved by research.</figcaption>
+</figure>
+
 
 ## Employment structure and level of development
 
@@ -110,6 +128,12 @@ The syllabus names all four sectors, so learn all four. Be precise with jobs: a 
 **Worked skills example.** In a fictional Country Z, primary employment fell from 55% in 1990 to 25% in 2020, secondary stayed at 20% then rose to 25%, and tertiary rose from 25% to 50%.
 
 > Primary employment fell by 30 percentage points while tertiary employment doubled, from 25% to 50% (knowledge, using data). This suggests farming was mechanised and that rising incomes increased demand for services (application). As people moved from farms to towns, more found jobs in shops, transport and offices, showing Country Z is developing (analysis). However, part of the tertiary rise may be informal work, so other indicators such as GNP per capita would be needed to confirm this (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-development--04-dev-country-z.webp" width="900" height="810" alt="Two stacked horizontal bars, 1990 above 2020, with shaded bands linking each sector. In 1990 primary is 55%, secondary 20% and tertiary 25%. In 2020 primary is 25%, secondary 25% and tertiary 50%. Three cards summarise the change: primary down 30 points, secondary up 5 points, tertiary doubled. The country is fictional." loading="lazy">
+  <figcaption>As Country Z develops, the primary share shrinks and the tertiary share doubles.</figcaption>
+</figure>
+
 
 ## Globalisation
 
@@ -139,6 +163,12 @@ The syllabus names all four sectors, so learn all four. Be precise with jobs: a 
 
 **Evaluation.** Globalisation has helped some countries grow fast, for example in East and South-East Asia. Its benefits are uneven: TNCs can move when costs rise, and the poorest countries attract little investment. Whether it is good or bad depends on the place, the group of people and the time scale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-development--05-dev-globalisation.webp" width="900" height="898" alt="Three rows lead down to one banner. Technology, with a container ship: the Ideal X carried 58 containers in 1956; internet, phones and video calls. TNCs, with an office building: firms working in many countries, design in an HIC and factories where costs are lower. Economic factors, with a coin: cheap labour and land, lower tariffs and the WTO from 1995, special economic zones in China from 1980, growing markets. The banner reads globalisation: trade, investment, technology, people and ideas." loading="lazy">
+  <figcaption>Technology, transnational corporations and economic factors together make economies more connected.</figcaption>
+</figure>
+
+
 ## Case study: Nike, a TNC and its global links
 
 These figures come from Nike's annual report (Form 10-K) for the financial year ending 31 May 2026.
@@ -153,6 +183,12 @@ These figures come from Nike's annual report (Form 10-K) for the financial year 
 **Impacts.** Factory jobs in Vietnam and Indonesia provide regular wages and export earnings. In the 1990s, Nike was heavily criticised over low pay and poor conditions in contractor factories in countries including Indonesia, and over child labour in the stitching of footballs in Pakistan. Nike introduced codes of conduct, factory audits and later published its supplier list, now shown on its online Manufacturing Map. Critics argue that monitoring cannot fully control conditions in factories Nike does not own.
 
 **Evaluation.** Nike shows the "global shift" of manufacturing clearly, but because it owns few factories, the profits and high-paid jobs mostly stay in the USA. If you use Nike in Paper 1, name specific countries, numbers and impacts, not just "Asia" and "cheap labour".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-development--06-dev-nike.webp" width="900" height="860" alt="Three stacked panels linked by arrows. Top: headquarters in Oregon, USA, for design, research, marketing and finance. Middle: 95 footwear factories in 11 countries run by contractors, shown as a bar split into Vietnam 52 per cent, Indonesia 27, China 16 and other 5, with a note that clothing comes from 321 factories in 34 countries. Bottom: about 56 per cent of revenue came from outside the USA." loading="lazy">
+  <figcaption>Nike designs in the USA but nearly all of its products are made by contractors in Asia and sold worldwide.</figcaption>
+</figure>
+
 
 ## Common errors
 

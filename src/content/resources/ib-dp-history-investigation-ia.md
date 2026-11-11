@@ -55,6 +55,12 @@ A **bibliography** is required and references must be consistent. The
 counted. A commonly used guideline is roughly 500 words for Section 1,
 1,300 for Section 2 and 400 for Section 3, in proportion to the marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--05-ia-three-sections.webp" width="900" height="870" alt="Three numbered sections (question, analysis of sources, synthesis) are bracketed as 24 marks. A crossed-out dashed box shows reflection belonged to the previous course and is not assessed." loading="lazy">
+  <figcaption>The 2028 response has three sections and no separate reflection.</figcaption>
+</figure>
+
+
 ## How do you choose a good question?
 
 A good question is narrow enough to answer in about 1,300 words of
@@ -76,6 +82,12 @@ Why better:    one decision, one actor, one year, a "to what extent"
 Avoid questions that only produce narrative ("What happened at…?") and
 questions so recent or obscure that sources are scarce.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--02-ia-question-funnel.webp" width="900" height="1010" alt="A too-broad question about an independence movement is narrowed by adding a named factor, a narrow outcome and precise dates, giving the To what extent did ... form. Three ticks give the reasons it works." loading="lazy">
+  <figcaption>Narrowing a broad topic into an answerable To what extent question.</figcaption>
+</figure>
+
+
 ## How do you evaluate the two Section 1 sources?
 
 Choose two sources that are genuinely useful for the question and,
@@ -85,6 +97,17 @@ memoir and a secondary work by a historian. For each, explain
 whom) and **content**, then analyse **value** and **limitations** *for
 your question*. A source is never valuable in general; it is valuable
 for something.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--01-ia-four-stages.webp" width="900" height="940" alt="Four numbered cards joined by arrows: formulate a focused question, identify and select sources, analyse and evaluate them, synthesise into a response. A banner says a weak stage limits the whole mark." loading="lazy">
+  <figcaption>The investigation moves through four stages, and weakness in any one limits the whole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--03-ia-opvl.webp" width="900" height="1000" alt="One source leads to four cards: origin, purpose, value and limitation. Below, the same source is highly valuable for one question and limited for another." loading="lazy">
+  <figcaption>Every source needs origin, purpose, value and limitation, and value depends on the question.</figcaption>
+</figure>
+
 
 ## How do you write Section 2?
 
@@ -96,6 +119,12 @@ interpretations and weigh them, and finish with a conclusion that
 answers the question directly. The key concepts help: a "to what
 extent" question about motives is a causation question, so rank the
 motives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--06-ia-concepts.webp" width="900" height="850" alt="Four tiles name the four concepts with the question each raises, leading to a sustained, weighed argument. A crossed-out box says it is not a narrative of what happened." loading="lazy">
+  <figcaption>The four concepts help turn evidence into an argument.</figcaption>
+</figure>
+
 
 ## What goes in the reflection?
 

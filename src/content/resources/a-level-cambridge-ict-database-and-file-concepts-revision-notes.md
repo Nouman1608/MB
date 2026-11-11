@@ -65,6 +65,17 @@ Course hub: [Cambridge A Level ICT](/boards/cambridge/a-level/ict/). Checklist: 
 4. Switch on referential integrity.
 5. Add validation rules and test them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--13-db-erd-link-table.webp" width="900" height="770" alt="Teacher, Course, Enrolment and Student tables. A teacher teaches many courses; Enrolment is a link table with composite key StudentID + CourseCode, each also a foreign key, so Student–Course many-to-many becomes two one-to-many relationships." loading="lazy">
+  <figcaption>A link table turns a many-to-many relationship into two one-to-many relationships.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--14-db-referential-integrity.webp" width="900" height="785" alt="Lesson rows for S104, S117, S122 and S131 match Student primary keys. A lesson for S999 is refused because S999 is not in the Student table, and deleting a student who still has lessons is refused unless deletions cascade." loading="lazy">
+  <figcaption>Every foreign key value must match an existing primary key value.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Flat file vs relational:** a flat file is one table, simple and fine for a small single list, but repeats data. A relational database links tables, stores each fact once, and stays consistent, but takes longer to design.
@@ -96,6 +107,17 @@ Operators: =, >, <, >=, <=, AND, OR, NOT, wildcards (any characters / one charac
 
 A product costs 30 before tax and tax is 20%. A calculated field PriceWithTax = Price × 1.2 gives 30 × 1.2 = **36**. A report footer control summing PriceWithTax is a **calculated control**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--15-db-query-results.webp" width="900" height="926" alt="The eight Lesson rows with six queries A to F; ticks show rows returned: A L01 L03 L06; B L02 L06 L07; C L04 L07 L08; D L04 L05 L08; E L02 L05; F L03 L04 L05 L06." loading="lazy">
+  <figcaption>A tick shows which lessons each query returns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--16-db-cross-tab.webp" width="900" height="707" alt="Total Fee by Instrument and Paid: Drums Yes 14; Guitar Yes 28, No 28; Piano Yes 15, No 45; Violin Yes 21, No 21. Unpaid total 28 + 15 + 30 + 21 = 94." loading="lazy">
+  <figcaption>A cross-tab puts one field down the side and another across the top.</figcaption>
+</figure>
+
+
 ## Forms, reports, menus, import and export
 
 - **Form design:** readable font style and size, spacing, white space, boxes sized to the data, key fields highlighted, radio buttons for 2–4 fixed choices, drop-downs for longer lists, buttons as form controls, linked subform for the "many" side.
@@ -122,6 +144,12 @@ UNF: Order(OrderNo, OrderDate, CustomerID, CustomerName, {ItemCode, ItemName, Qt
 - **3NF:** CustomerName depends on CustomerID → Customer(**CustomerID**, CustomerName); Order(**OrderNo**, OrderDate, CustomerID).
 
 **For:** less redundancy and storage, fewer update errors, better integrity. **Against:** more tables, more joins, slower and harder queries, longer design.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--17-db-normalisation.webp" width="900" height="1280" alt="UNF Student with a repeating group; 1NF moves the group to StudentCourse; 2NF splits Enrolment and Course; 3NF splits Teacher from Course, giving four tables." loading="lazy">
+  <figcaption>Each normal form splits tables further, ending with four 3NF tables.</figcaption>
+</figure>
+
 
 ## 10.3 Data dictionary
 
@@ -175,6 +203,12 @@ Components to name: field name, data type, field size, format, key (primary/fore
 10. A **physical** ERD.
 11. An **update** query.
 12. **Object-oriented**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-database-and-file-concepts--18-db-file-access.webp" width="900" height="1290" alt="Indexed sequential: records in key order with an index of key ranges; read all in order or jump via the index then search. Direct: a hashing algorithm turns the key into an address; 4527 mod 100 = 27 so block 27 of 100." loading="lazy">
+  <figcaption>Indexed sequential uses an index then a search; direct access hashes the key to an address.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

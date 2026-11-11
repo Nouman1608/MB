@@ -52,6 +52,17 @@ Course links: [Language and Literature hub](/boards/ib/ib-dp/language-a-language
 - Expect questions you have not seen; your teacher will show you specimen questions.
 - Plan to write from memory. Your teacher confirms the exam rules and which works you may use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--12-p2-format.webp" width="900" height="910" alt="Four question cards, with one chosen: you choose one of four questions. Two books represent the two literary works the essay compares. A clock shows 1 hour 45 minutes (105 minutes). Two bars show the share of the final grade: 35 percent at SL and 25 percent at HL. A note says only literary works count; advertisements and speeches belong to Paper 1." loading="lazy">
+  <figcaption>Paper 2: one of four questions, two literary works, 1 h 45 min, 35% (SL) or 25% (HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--14-p2-read-question.webp" width="900" height="1000" alt="Three numbered moves. 1: underline the key term, for example silence or a turning point. 2: find the double demand, such as how writers present something plus to what effect, or similarity plus difference, and meet both halves. 3: test the fit by naming one moment from each work and finding at least three comparable points; if there are fewer than three, pick another question or another pair." loading="lazy">
+  <figcaption>Underline the key term, find the double demand, test the fit.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Meaning for Paper 2 |
@@ -66,6 +77,12 @@ Course links: [Language and Literature hub](/boards/ib/ib-dp/language-a-language
 | Context of reception | When, where and by whom it is being read now |
 | Convention | An expectation of a form or genre, which a work may follow or break |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--16-p2-block-vs-point.webp" width="900" height="830" alt="Two stacks of paragraphs. Block, marked with a cross: paragraphs 1 and 2 about Work A, 3 and 4 about Work B, and the comparison only in paragraph 5. Point by point, marked with a tick: each of four paragraphs is split between Work A and Work B, so every paragraph compares both works." loading="lazy">
+  <figcaption>Point by point makes every paragraph compare both works.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 ### Choosing the question (first 5 minutes)
@@ -78,6 +95,12 @@ Course links: [Language and Literature hub](/boards/ib/ib-dp/language-a-language
 5. Commit. Don't switch after you start writing.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--17-p2-worked-plan.webp" width="900" height="1058" alt="A plan comparing A Doll’s House (play, 1879) with “The Yellow Wall-Paper” (story, 1892) in four numbered points. 1 How the role is imposed: Torvald’s pet names, a lark and a squirrel; John, a physician, forbids her to write or work. 2 Small, hidden resistance: Nora eats the forbidden macaroons in secret; the narrator hides her journal from John. 3 Form shapes the resistance: three acts building to a debate; journal entries growing shorter and stranger. 4 The ending and its effect: Nora leaves and the door closes offstage; the narrator creeps over John, who has fainted." loading="lazy">
+  <figcaption>A four-point plan comparing A Doll’s House and &quot;The Yellow Wall-Paper&quot;.</figcaption>
+</figure>
+
+
 ### Writing the thesis
 
 ```
@@ -86,6 +109,12 @@ but [Writer A] uses [method] to [effect],
 whereas [Writer B] uses [method] to [effect],
 because of [form or context].
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--15-p2-thesis-ladder.webp" width="900" height="898" alt="Three rows, with ticks and crosses under Claim, Method and Reason. Weak, a summary: Both works are about homes and the people in them; no ticks. Better, claim only: Both works show the home as a place of control; a tick for claim only. Strong, claim plus method plus reason: a stage the audience watches from outside versus a diary that traps the reader; all three ticked." loading="lazy">
+  <figcaption>A strong thesis has a claim, a method difference and a reason.</figcaption>
+</figure>
+
 
 ### Writing a body paragraph
 
@@ -126,6 +155,12 @@ What makes the strong column strong: the key term is in it, both works are named
 - **Following vs breaking a convention.** Intertextual points often come from how each work uses its
   form: a novel's frame, a poem's closing turn, a play's final stage direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--13-p2-pool-pairs.webp" width="900" height="950" alt="Three books, Work A (for example a play), Work B (a novel) and Work C (a poetry collection), joined by three lines, one for each pair. On every line: three similarities and three differences. The advice beneath is to compare method, how the writers work, not only content, and to pre-compare rather than pre-write an essay." loading="lazy">
+  <figcaption>Prepare a pool of at least three works and pre-compare each pair.</figcaption>
+</figure>
+
+
 ## Introduction and final paragraph in brief
 
 - **Introduction (3–4 sentences):** name both works, writers and forms; define the question's key term
@@ -161,6 +196,12 @@ comparing *effect*.
 | Form and structure | 3–4 notes | Voice, frame, genre conventions, how it ends |
 | Context | 2 notes | One on production, one on how a reader today may differ |
 | Human concerns | 4–6 | Single words or short phrases: power, guilt, freedom |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--18-p2-evidence-bank.webp" width="900" height="928" alt="A page for one work, Work A, with five parts. Key moments: eight to ten, shown as filled dots out of ten. Short quotations: five to six, five filled dots out of six. Big concerns: four to six, four filled dots out of six, such as power, freedom, guilt and belonging. Plus notes on form and structure, and notes on context." loading="lazy">
+  <figcaption>An evidence bank holds moments, quotations, form, context and concerns.</figcaption>
+</figure>
+
 
 ## Timing (a suggestion, not an IB rule)
 

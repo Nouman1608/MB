@@ -58,6 +58,12 @@ might miss or misread; for a non-literary text, this means asking how
 the same event or issue might be represented differently by different
 media, institutions, or audiences at a different moment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--10-ts-where-used.webp" width="900" height="711" alt="Three equal cards show the three areas of exploration, Readers, writers and texts, Time and space, and Intertextuality, each with recommended teaching hours of 50 at standard level and 80 at higher level. Time and space is highlighted. Arrows lead from it to three places where it is applied: Paper 1 guided textual analysis, Paper 2 comparative essay and the individual oral discussion of a global issue. A note says it is not examined as a separate named section on any paper." loading="lazy">
+  <figcaption>Time and Space carries equal teaching time but is tested through Paper 1, Paper 2 and the individual oral, not as a named section.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The skill this component specifically rewards is identifying a shift
@@ -74,6 +80,17 @@ component's vocabulary of production and reception context is a
 natural source of material for that assessment too — a strong oral
 commentary can explicitly discuss how the chosen global issue is
 understood differently now than when either text was produced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--06-ts-two-contexts.webp" width="900" height="652" alt="A timeline runs from then to now. On the left, a text is produced: the card describes the period, culture and place it was written in. On the right, the same text is received: the card describes the period, culture and place it is read in now. A double arrow between them is labelled shift in reception. A note says the question is not what happened in the text but how context shapes meaning." loading="lazy">
+  <figcaption>The context a text was written in and the context it is read in now are different, and both matter to meaning.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--08-ts-two-note-sets.webp" width="900" height="926" alt="Top, with a tick: two separate note cards for one text, one headed production context and one headed reception context today, each with its own coloured lines of notes. Bottom, with a cross: a single merged card headed background, in which the two kinds of note are mixed together, which leads to vague answers." loading="lazy">
+  <figcaption>Keep production-context notes and reception-today notes separate; merging them into one background note gives vague answers.</figcaption>
+</figure>
+
 
 ## Worked example: applying Time and Space to a non-literary text
 
@@ -107,6 +124,12 @@ Identifying the shift between original and current reception, rather
 than only describing two texts side by side, is what distinguishes a
 strong Time and Space analysis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--07-ts-editorial-leaflet.webp" width="900" height="954" alt="Two cards compare production contexts. A 19th-century newspaper editorial was written for a literate, middle-class readership, in a formal register, with the writer's authority unquestioned. A modern public-health leaflet is written for a broad general audience who are visually literate, with a short attention span, using direct address, &quot;you&quot;. Below, an arrow labelled shift links original readers, who found the editorial authoritative, to a modern reader, who may find its tone paternalistic. The shift in reception is the analytical point." loading="lazy">
+  <figcaption>The strongest analysis names the shift in reception, not just two different styles side by side.</figcaption>
+</figure>
+
+
 ## Applying the same lens to a literary text
 
 Because it can feel more natural to discuss "context" for a
@@ -122,6 +145,12 @@ a concrete textual example, is exactly the analytical move this
 component rewards -- a generalised statement that "attitudes have
 changed since this was written" does not, on its own, demonstrate the
 skill.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-time-and-space--09-ts-literary-gap.webp" width="900" height="893" alt="A 19th-century novel sits at the top. Beneath it are four kinds of assumption its first readers might hold without question: social class, gender roles, religion and everyday life. First readers took the assumption for granted; readers today notice, question or misread it. Below, a cross marks the vague statement that attitudes have changed, and a tick marks naming a specific gap with a concrete textual example." loading="lazy">
+  <figcaption>Name one specific assumption that first readers held and a reader today notices, and support it with a textual example.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -61,6 +61,12 @@ Centre guides: x = 1280 ÷ 2 = 640, y = 720 ÷ 2 = 360
 
 40 divides both sides exactly, so there are no part-cells at the edges.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--08-anim-stage-setup.webp" width="900" height="860" alt="A 16:9 stage 1280 by 720 px with rulers, a 40 px grid (32 by 18 cells) and gold guides through the centre at x 640 and y 360." loading="lazy">
+  <figcaption>Stage size, aspect ratio, grid and guides from the museum example.</figcaption>
+</figure>
+
+
 ## Creating and controlling objects
 
 ### Vector objects
@@ -82,6 +88,12 @@ Centre guides: x = 1280 ÷ 2 = 640, y = 720 ÷ 2 = 360
 - **Layers.** Each layer is a separate transparent sheet. Put the background, each character and the text on their own layers, so you can animate one without disturbing the others and control which object appears in front.
 - **Masks.** A mask is a shape on one layer that controls what shows on the layer(s) beneath it: only the parts under the mask shape are visible. Moving the mask gives effects such as a spotlight sweeping across a scene.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--11-anim-layers-masks.webp" width="900" height="870" alt="Three stacked transparent layers (text, character, background) combine into one scene; a circular mask shape shows only the part of a scene under it." loading="lazy">
+  <figcaption>Layers stack objects; a mask decides what shows.</figcaption>
+</figure>
+
+
 ### Controlling playback
 
 - **Frame rate** is the number of frames shown each second (fps). A higher rate gives smoother motion but needs more frames and a larger file. Changing it without changing the frames changes the running time.
@@ -94,6 +106,12 @@ Running time = 144 ÷ 24 = 6 s
 Same 144 frames at 12 fps: 144 ÷ 12 = 12 s (twice as long, jerkier)
 Frames needed for 6 s at 12 fps: 6 × 12 = 72 frames
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--09-anim-frame-rate.webp" width="900" height="790" alt="Three bars on a common time scale: 144 frames at 24 fps is 6 s; 144 frames at 12 fps is 12 s; 72 frames at 12 fps is 6 s." loading="lazy">
+  <figcaption>Running time is frames divided by frame rate.</figcaption>
+</figure>
+
 
 ## The basic principles of animation
 
@@ -133,6 +151,12 @@ Opacity = 100 − (3/4 × 80) = 40%
 
 **Morphing** changes one image or shape into another through a seamless transition. The first image is warped towards the shape of the second while the two cross-fade. The effect is a smooth transformation, such as one face turning into another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--10-anim-tweening.webp" width="900" height="870" alt="A balloon tweens from key frame 1 to key frame 25. Computed frame 13: (340, 180), 125 px, 60 percent opacity. Frame 19: (460, 120), 162.5 px, 40 percent." loading="lazy">
+  <figcaption>The software calculates the in-between frames from two key frames.</figcaption>
+</figure>
+
+
 ## Animation types and methods
 
 - **Cel animation.** Characters are drawn and painted on transparent sheets called cels (short for celluloid) and laid over a static painted background. The background is drawn once, which cuts the number of times an image has to be redrawn.
@@ -154,6 +178,17 @@ Speed-up = 7200 s ÷ 10 s = 720 times
 Stop motion: 15 s at 12 fps → 15 × 12 = 180 photos
 At 2 minutes per pose: 180 × 2 = 360 min = 6 hours
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--12-anim-capture-planning.webp" width="900" height="890" alt="Time lapse: 2 h = 7200 s, a photo every 30 s gives 240 photos, 10 s at 24 fps, 720 times speed-up. Stop motion: 15 s at 12 fps gives 180 photos; at 2 minutes each, 360 min = 6 h." loading="lazy">
+  <figcaption>Calculating photos, running time and effort for time lapse and stop motion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--14-anim-types.webp" width="900" height="790" alt="Tiles for cel, stop motion, time lapse and flip book; CGI contains 2D (x and y) and 3D (x, y, z, rendered)." loading="lazy">
+  <figcaption>The animation types in the lesson, with CGI covering 2D and 3D.</figcaption>
+</figure>
+
 
 ## Components of an animation
 
@@ -180,6 +215,12 @@ At 24 fps: 30 ÷ 24 = 1.25 s
 ```
 
 Reversing the sign of `speed` makes the ball bounce back. A variable such as `armAngle` could swing an arm between two limits in the same way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--13-anim-variable-ball.webp" width="900" height="870" alt="A 60 px ball on a 550 px stage moves 15 px per frame from x 40 to x 490 in 30 frames (1.25 s at 24 fps), then speed reverses." loading="lazy">
+  <figcaption>An animation variable (speed) controls the ball position each frame.</figcaption>
+</figure>
+
 
 ## Advantages and disadvantages of animation types
 

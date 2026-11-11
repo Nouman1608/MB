@@ -66,6 +66,22 @@ Test yourself with the [practice questions for this unit](/resources/a-level-geo
 | Leakage | Tourist spending that leaves the local or national economy |
 | Ecotourism | Responsible travel to natural areas that conserves the environment, supports local people and educates visitors |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--08-gi-visible-invisible.webp" width="900" height="860" alt="Two columns. Visible trade is physical goods such as copper, cars and coffee. Invisible trade is services such as tourism, banking, insurance, shipping and software. Below, an arrow shows a tourist from Germany spending money in Kenya: this is an invisible export for Kenya and an invisible import for Germany." loading="lazy">
+  <figcaption>Visible trade is goods; invisible trade is services, such as a German tourist spending money in Kenya.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--11-gi-aid-types.webp" width="900" height="1010" alt="Three rows show who gives and who controls aid. Bilateral aid goes from one government directly to another. Multilateral aid comes from several donors pooled through an international body such as the World Bank or a UN agency, then passes to the receiver. Tied aid goes from a donor to a receiver, but a dashed arrow shows the receiver must spend the money on goods or services from the donor. A bottom strip contrasts relief aid, short-term help after a disaster, with development aid, long-term help such as schools, roads and water supply." loading="lazy">
+  <figcaption>Aid is classified by who gives it and on what conditions, and by whether it is short-term relief or long-term development.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--12-gi-tourism-multiplier.webp" width="900" height="960" alt="Five horizontal bars show tourist spending passing through the local economy. In round 1 a tourist spends 100 (an illustrative amount). If 60% is spent again locally, round 2 is 60, then 36, 21.6 and 13. Each bar is split: the teal part is spent again locally and the gold part leaks abroad. A destination that re-spends only 20% locally gains a total of about 125 from the same 100, compared with 250 when 60% is re-spent." loading="lazy">
+  <figcaption>Leakage cuts the multiplier: money that leaves the destination is not spent again. Numbers are illustrative.</figcaption>
+</figure>
+
+
 ## Facts and models at a glance
 
 | Item | What | Key point | Evaluation point |
@@ -80,6 +96,22 @@ Test yourself with the [practice questions for this unit](/resources/a-level-geo
 | Pergau Dam (Malaysia) | UK aid linked to an arms deal | Ruled unlawful by the High Court in 1994 | Shows aid shaped by donor interests |
 | Butler (1980) | Tourism area life cycle | Exploration, involvement, development, consolidation, stagnation, then decline or rejuvenation | Stages hard to spot at the time; descriptive, not predictive |
 | Venice (13.4 case study) | Historic city and lagoon, UNESCO site since 1987 | 22-30 million visitors a year; historic-centre population about 50,000 in 2021 | Cruise ban (2021), access fee (2024), 25-person group limit (2024), MOSE barrier (first raised 2020) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--10-gi-debt-crisis-chain.webp" width="900" height="1190" alt="A vertical chain of eight linked steps. 1973: oil price rise. In the 1970s oil exporters deposit money in Western banks, which lend it on to developing countries. From 1979 interest rates in the US and Europe rise and debt service soars. In August 1982 Mexico cannot service its debt and the crisis spreads across Latin America. IMF loans bring structural adjustment: austerity, privatisation and trade liberalisation. Urban real wages fall in the lost decade. Debt relief follows through HIPC in 1996 and 1999 and MDRI in 2005. In November 2020 Zambia defaults on a Eurobond." loading="lazy">
+  <figcaption>How the 1970s oil shock led to the 1982 debt crisis, then relief, and why debt problems returned.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--13-gi-butler-life-cycle.webp" width="900" height="960" alt="A graph of visitor numbers against time. The curve rises slowly through stage 1 exploration, stage 2 involvement and stage 3 development, then flattens through stage 4 consolidation and stage 5 stagnation, reaching a dashed carrying-capacity line. After stagnation the curve either falls (decline) or rises again (rejuvenation). Venice, from the case study, is marked at the stagnation stage." loading="lazy">
+  <figcaption>Butler’s model (1980): resorts pass through five stages, then decline or are rejuvenated. Shape is schematic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--14-gi-venice-people.webp" width="900" height="860" alt="Three rows of person icons, each icon standing for 5,000 people. In 1980 the historic centre had about 95,000 residents (19 icons). By 2021 it had about 50,000 (10 icons), a fall of about 47%. On a peak day up to 60,000 visitors arrive (12 icons), more than the number of residents. Estimates put annual visitors at 22 to 30 million." loading="lazy">
+  <figcaption>Venice’s historic centre lost about 47% of its residents while peak-day visitors outnumber those who remain.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -104,6 +136,12 @@ Paper 4 topics are synoptic, so the best answers connect sections rather than tr
 - **Fairtrade and ecotourism.** Both are attempts to make global links fairer and more sustainable, and both face the same criticism: they reach only part of the market.
 
 Use one of these links in each essay to show you understand interdependence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--09-gi-fairtrade-floor.webp" width="900" height="1010" alt="A line graph with time on the horizontal axis and price on the vertical axis. A wavy line shows an illustrative world price that rises and falls. A dashed horizontal line shows the Fairtrade Minimum Price, a floor. Where the world price falls below the floor, the gap is shaded: a certified producer is still paid the floor. Underneath, a stacked bar shows the price paid plus the Fairtrade Premium, which the producer group invests in community or business projects." loading="lazy">
+  <figcaption>When world prices fall, the Fairtrade floor holds; the Premium is paid on top for projects. Numbers are illustrative.</figcaption>
+</figure>
+
 
 ## Mini essay plan
 

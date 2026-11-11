@@ -71,6 +71,17 @@ disconnected from the content topics, misses how it is actually examined.
 AQA GCSE Psychology (8182) specification, first teaching September 2017 --
 [aqa.org.uk](https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/cognition-and-behaviour).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-research-methods--12-r-ethics.webp" width="900" height="990" alt="Six cards with pictograms: informed consent (a signed form), protection from harm (a shield), right to withdraw (an open door), confidentiality (a padlock), debriefing (speech bubbles) and deception (a mask). Deception is marked as managed, not banned." loading="lazy">
+  <figcaption>The BPS issues the lesson lists; deception is permitted only when justified and unavoidable, and is managed with a full debrief.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-research-methods--13-r-data-handling.webp" width="900" height="990" alt="A dot plot of ten illustrative scores from 3 to 17. The mode is 7 (the most common value, three dots), the median is 8 (halfway between the middle values 7 and 9), the mean is 9 (total 90 divided by 10) and the range is 14 (17 minus 3)." loading="lazy">
+  <figcaption>Illustrative scores: the mode, median and mean sit at different points; the range is the spread.</figcaption>
+</figure>
+
+
 ## Sampling methods, compared
 
 Random sampling gives every member of the target population an equal chance of selection, minimising bias
@@ -81,6 +92,12 @@ sampling but can still miss the true diversity of a population. Stratified sampl
 into subgroups (strata) and samples proportionally from each, producing the most representative sample of
 the four but requiring more information about the population in advance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-research-methods--08-r-sampling.webp" width="900" height="1010" alt="Four panels each show the same population of 40 dots and a sample of 10 filled dots. Random: 10 dots chosen with equal chance. Opportunity: 10 dots from one convenient block. Systematic: every 4th dot. Stratified: the population has three groups (20 circles, 12 squares, 8 diamonds) and the sample takes 5, 3 and 2 from them in proportion." loading="lazy">
+  <figcaption>Each panel samples 10 from 40: only stratified sampling mirrors the groups in the population.</figcaption>
+</figure>
+
+
 ## Experimental designs, compared
 
 Independent groups design uses different participants in each condition, avoiding order effects but
@@ -89,6 +106,12 @@ every condition, controlling for participant variables but introducing order eff
 fatigue), which can be addressed through counterbalancing. Matched pairs design pairs participants on key
 characteristics and assigns one of each pair to each condition, balancing some of the strengths of both
 other designs at the cost of being time-consuming to set up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-research-methods--09-r-designs.webp" width="900" height="1070" alt="Three rows. Independent groups: different people in each condition, which avoids order effects but allows participant variables. Repeated measures: the same people do both conditions, which controls participant variables but causes order effects. Matched pairs: people are paired on key characteristics and one of each pair goes in each condition, which is slow to set up." loading="lazy">
+  <figcaption>Who takes part in each condition decides which problem you meet: participant variables, order effects or set-up time.</figcaption>
+</figure>
+
 
 ## Correlations are not experiments
 
@@ -99,6 +122,12 @@ focus: a study that simply measures two existing variables (such as hours of sle
 correlational, not experimental, even if the results are described using similar-sounding language.
 Confusing a strong correlation with proof of cause and effect is one of the most frequently tested
 research-methods errors across the whole specification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-research-methods--11-r-correlation-experiment.webp" width="900" height="990" alt="Top: an experiment, where the researcher sets the independent variable with a dial and then measures the dependent variable, so cause can be tested. Bottom: a correlation, where hours of sleep and test score are only measured and plotted as a scatter graph with a trend line. It shows a relationship but cannot establish that one causes the other." loading="lazy">
+  <figcaption>An experiment changes one variable on purpose; a correlation only measures two, so it cannot show cause.</figcaption>
+</figure>
+
 
 ## Worked example: identifying variables in a study description
 
@@ -126,6 +155,12 @@ something else that could affect recall, such as time of day
 or prior familiarity with the word list, that should be
 controlled for.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-research-methods--10-r-variables.webp" width="900" height="960" alt="Two groups of people: one memorises a word list in silence, one with music playing. The independent variable is music present or absent. The dependent variable is the number of words correctly recalled. Extraneous variables to control include time of day and prior familiarity with the word list. The design is independent groups because different people are in each group." loading="lazy">
+  <figcaption>IV: what the researcher changes. DV: what is measured. Extraneous: what must be kept the same.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

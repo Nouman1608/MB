@@ -54,6 +54,12 @@ When you have learned these notes, try the [tourism practice questions](/resourc
 | Sustainable tourism | Meets visitors' and hosts' needs now without harming the future |
 | Honeypot site | A popular spot that attracts large crowds, causing local pressure |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--13-maldives-in-numbers.webp" width="900" height="1280" alt="The Maldives lesson figures: 1,192 islands, 26 atolls, arrivals 1.7 million to 555,000, 21 per cent of GDP, 85 per cent of exports, and the 2025 green tax rates. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Key Maldives figures from the lesson.</figcaption>
+</figure>
+
+
 ## Growth of tourism at a glance
 
 **Why more people travel:** higher incomes; paid holidays; cheaper flights and budget airlines; online booking and social media; package holidays; better transport links; government promotion.
@@ -64,6 +70,17 @@ When you have learned these notes, try the [tourism practice questions](/resourc
 
 Remember: the physical attraction explains *why* people want to go; human factors (access, accommodation, marketing) often explain *when* growth happens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--07-tourism-growth-reasons.webp" width="900" height="820" alt="Seven pictured reasons: incomes, paid holidays, cheaper flights, online booking, package holidays, better transport and government promotion. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Seven reasons more people travel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--08-tourism-attractions.webp" width="900" height="840" alt="Physical attractions (climate, mountains, beaches, reefs) beside human-made ones (hotels, heritage, theme parks, museums, festivals); a ski resort needs both. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Physical and human attractions, and why most places need both.</figcaption>
+</figure>
+
+
 ## Impacts on receiving areas
 
 | | Benefits | Disadvantages |
@@ -73,6 +90,17 @@ Remember: the physical attraction explains *why* people want to go; human factor
 | Environmental | Fees fund conservation; areas protected | Erosion, litter, sewage, water and energy use, flight emissions, habitat loss |
 
 What decides the balance: scale, ownership, type of tourism, management, and whose viewpoint you take.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--10-multiplier-leakage.webp" width="900" height="830" alt="Bars show 100 pounds of tourist spending split each round into leakage and local re-spending (illustrative 40 per cent leakage). The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Leakage shrinks the multiplier effect of tourist spending (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--11-tourism-balance.webp" width="900" height="990" alt="A balance of economic, social and environmental benefits against disadvantages, with four factors that decide the judgement. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Evaluating tourism means weighing both sides and judging by scale, ownership, type and management.</figcaption>
+</figure>
+
 
 ## Management for sustainability
 
@@ -85,6 +113,12 @@ What decides the balance: scale, ownership, type of tourism, management, and who
 - Sewage treatment, recycling, renewable energy
 - Visitor codes of conduct
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--12-tourism-carrying-capacity.webp" width="900" height="960" alt="Unmanaged visitor numbers rise above carrying capacity while managed numbers stay below; four management tools are listed. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Management keeps visitors below carrying capacity.</figcaption>
+</figure>
+
+
 ## Models and case studies at a glance
 
 | Who / where | What | Key facts | One evaluation point |
@@ -95,6 +129,12 @@ What decides the balance: scale, ownership, type of tourism, management, and who
 | Venice | Managing crowds | EUR 5 day-tripper fee from 25 April 2024 on selected days; ships over 25,000 tonnes banned from the Giudecca Canal since August 2021 | A small fee may not change visitor behaviour much |
 
 The 3.4 content list does not require a model. The Butler model is named in the syllabus's list of suggested coursework enquiries; your teacher will confirm how far to use it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--09-butler-model.webp" width="900" height="1115" alt="A curve of visitors over time with six numbered stages from exploration to decline or rejuvenation. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>The Butler model as an illustrative curve with its six stages.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

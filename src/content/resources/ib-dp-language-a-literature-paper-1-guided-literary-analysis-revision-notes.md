@@ -105,6 +105,12 @@ quotations and no paragraph-by-paragraph repeat.
 | Pace | Speed of the telling | Where does the writer slow down or skip ahead? |
 | Foreshadowing | A hint of what will happen | What does the reader expect that the character doesn't? |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--03-p1-plan-by-idea.webp" width="900" height="994" alt="Four paragraph blocks of the Mara passage, drawn to the length of the real text, feed three plan ideas under the thesis: hesitation, the case against calling, and the choice. Each body paragraph then follows claim, evidence, effect, link." loading="lazy">
+  <figcaption>A plan groups evidence from the passage under three ideas that together prove the thesis.</figcaption>
+</figure>
+
+
 ### Drama
 
 | Term | What it is | Ask yourself |
@@ -113,6 +119,17 @@ quotations and no paragraph-by-paragraph repeat.
 | Subtext | Meaning under the spoken words | What are the characters avoiding? |
 | Dramatic irony | The audience knows more than a character | How does the gap change our response? |
 | Soliloquy / aside | Speech to the audience, unheard by others | What private truth is revealed? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--02-p1-four-layers.webp" width="900" height="904" alt="A grid of four layers, voice, structure, language and context, against three forms, prose, poetry and drama. Each cell lists what to look for in that form, taken from the lesson’s table." loading="lazy">
+  <figcaption>On the second reading, check voice, structure, language and context, and expect the questions to differ by form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--04-p1-inventory-form.webp" width="900" height="872" alt="Twelve bars show the syllables in each line of the original poem Inventory. Eleven have ten syllables and line 7 has eight, so it stops early. A gap marks the stanza break between the mother’s past and the present." loading="lazy">
+  <figcaption>Line length and the stanza break are evidence in a poem.</figcaption>
+</figure>
+
 
 ## Time and space on an unseen passage
 
@@ -208,6 +225,12 @@ Questions 6–8 and 11 use this short poem.
     sentence and splits the line, so the second half turns to the tide and the real subject.
 12. New evidence, and a repeat of each paragraph in turn.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--01-p1-question-to-thesis.webp" width="900" height="980" alt="Step 1 shows the guiding question split into the verb &quot;present&quot; and the aspect &quot;Mara’s decision&quot;. Step 2 then runs through three readings, literal, form and style, and argument, ending in one arguable sentence, the thesis. A dashed arrow shows the thesis must answer the question." loading="lazy">
+  <figcaption>The method for Paper 1: read the question, read three times, write one thesis that answers it.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - **Summary instead of analysis.** Retelling the passage in order, with a device named now and
@@ -235,6 +258,12 @@ One workable split for 75 minutes is 15 minutes reading, 10 planning, 5 on the i
 
 **What should a Paper 1 conclusion avoid?**
 New evidence, and a paragraph-by-paragraph repeat of the essay. In two or three sentences, say how the features work together to answer the guiding question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--05-p1-time-split.webp" width="900" height="972" alt="A tall bar shows the 75 minutes of one SL analysis: 15 for the question and readings, 10 for thesis and plan, 5 for introduction, 35 for body paragraphs, 5 for conclusion, 5 for checking. A second bar shows 135 HL minutes split 65, 65 and 5 spare." loading="lazy">
+  <figcaption>Plan the 75 minutes, and at HL with two passages split 135 minutes into 65, 65 and 5 spare.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

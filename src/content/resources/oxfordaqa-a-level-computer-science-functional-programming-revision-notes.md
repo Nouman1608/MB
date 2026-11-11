@@ -52,6 +52,12 @@ Each idea is explained at length in the [study guide](/resources/oxfordaqa-a-lev
 
 ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ. When asked for "the smallest set", pick the first one in that chain that contains the number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-functional-programming--16-number-sets.webp" width="900" height="880" alt="Four nested boxes. The outer box is the real numbers, which holds pi and root 2. Inside it are the rational numbers, holding 2.5 and 7 over 3. Inside that are the integers, holding minus 6. The innermost box is the natural numbers, which include zero, holding 0, 15 and 40. Every natural number is an integer, every integer is rational and every rational is real, so minus 6 is in the integers, rationals and reals but not the naturals." loading="lazy">
+  <figcaption>Natural, integer, rational and real numbers nested, with the lesson’s examples placed.</figcaption>
+</figure>
+
+
 ### Composition reminder
 
 Let f(x) = x + 5 and g(y) = 2y on ℤ.
@@ -64,6 +70,17 @@ Let f(x) = x + 5 and g(y) = 2y on ℤ.
 Read g ∘ f as "g after f". In Haskell: `(g . f) 3`.
 
 **Type check:** the co-domain of the first function applied must match the domain of the second. If f: Char → ℕ and g: ℕ → Boolean, then g ∘ f: Char → Boolean.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-functional-programming--15-domain-codomain.webp" width="900" height="900" alt="Two mapping diagrams. For sign from the integers to the set minus 1, 0, 1, inputs minus 6, 0 and 40 map to minus 1, 0 and 1, so every member of the co-domain is used. For toDigit from digit characters to the natural numbers, the characters 0, 3 and 9 map to the numbers 0, 3 and 9; only 0 to 9 are ever output, so most of the co-domain, such as 10, 11 and so on, is never used." loading="lazy">
+  <figcaption>Domain and co-domain shown as mappings; not every co-domain member needs to be output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-functional-programming--17-composition-order.webp" width="900" height="700" alt="Two machines in a row. For g after f, the input 4 goes into f(x) = 3x minus 1 giving 11, and then into g(y) = y squared giving 121. For f after g, the input 4 goes into g first giving 16, then into f giving 47. The two answers 121 and 47 differ, so the order of composition matters. In g composed with f, the function applied first, f, is written on the right." loading="lazy">
+  <figcaption>Composition order matters: 121 against 47 for the same input.</figcaption>
+</figure>
+
 
 ## 3.12.2 Haskell syntax at a glance
 
@@ -115,6 +132,12 @@ foldr (-) 50 [6, 2]  =  6 - (2 - 50)  = 54
 ```
 
 For `+` and `*` both folds give the same value. Start value: 0 for `+`, 1 for `*`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-functional-programming--19-filter-map-fold.webp" width="900" height="800" alt="A list 12, 7, 30, 5, 9 passes through three stages. Filter odd keeps 7, 5 and 9 and drops 12 and 30. Map triple turns them into 21, 15 and 27. Fold with plus and start value 0 adds them to 63." loading="lazy">
+  <figcaption>filter, map and foldl applied in turn give 63.</figcaption>
+</figure>
+
 
 ### Method in steps: evaluating a nested expression
 
@@ -208,6 +231,22 @@ Called with `[40, 2, 7]`, x is 40 and xs is [2, 7] on the first call. The result
 10. **[3,0,3]**
 11. `5 /= 5` is False; `not (2 > 3)` is True; False || True is **True**.
 12. Appear in expressions; be assigned to a variable; be passed as an argument; be returned from a function call.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-functional-programming--18-recursion-power.webp" width="900" height="830" alt="Five frames show the recursive calls going down: power 3 4, power 3 3, power 3 2, power 3 1 and power 3 0. The last is the base case, which gives 1 directly. The answers then come back up: 3 times 1 is 3, 3 times 3 is 9, 3 times 9 is 27 and 3 times 27 is 81. So power 3 4 is 81." loading="lazy">
+  <figcaption>Calls go down to the base case and answers come back up to 81.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-functional-programming--20-foldl-foldr.webp" width="900" height="930" alt="The list 10, 4, 3 is folded with subtraction and start value 0. Foldl works from the left: 0 minus 10 is minus 10, minus 10 minus 4 is minus 14, minus 14 minus 3 is minus 17, grouped as ((0 minus 10) minus 4) minus 3. Foldr works from the right: 3 minus 0 is 3, 4 minus 3 is 1, 10 minus 1 is 9, grouped as 10 minus (4 minus (3 minus 0)). The answers are minus 17 and 9. For plus or times the two folds give the same answer." loading="lazy">
+  <figcaption>foldl and foldr with subtraction give −17 and 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-functional-programming--21-head-tail-list.webp" width="900" height="810" alt="The list 14, 9, 21, 6 is a head, 14, followed by a tail which is itself a list, 9, 21, 6. The function countItems drops the head each time and adds 1, so four rows show the list shrinking: after one call 9, 21, 6 remain, then 21, 6, then 6, then the empty list, which is the base case giving 0. The total is 1 plus 1 plus 1 plus 1 plus 0, which is 4." loading="lazy">
+  <figcaption>A list is a head and a tail, and countItems counts by dropping heads.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

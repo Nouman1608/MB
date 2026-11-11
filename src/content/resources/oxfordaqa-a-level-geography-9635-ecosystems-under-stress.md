@@ -56,6 +56,12 @@ The index tracks the average change in monitored vertebrate populations. It is n
 
 Ecosystems supply food, fuel, timber, water and space, and demand rises with population and economic development. Yet traditional fire use and grazing have shaped many ecosystems for centuries. Sustainability means using ecosystems while keeping their functions intact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--13-biodiversity-decline.webp" width="900" height="900" alt="Three tall bars, each starting at 100 percent for the 1970 level. Average monitored wildlife populations fell 73 percent, leaving 27 percent. Freshwater populations fell 85 percent, leaving 15. Latin America and the Caribbean fell 95 percent, leaving 5. The figure is an average change in monitored vertebrate populations, not a count of species lost. Separately, around one million species are estimated to be threatened with extinction." loading="lazy">
+  <figcaption>Monitored wildlife populations fell by an average of 73% from 1970 to 2020, and by more in freshwater and in Latin America and the Caribbean.</figcaption>
+</figure>
+
+
 ## Ecosystem structure, energy and nutrients (3.3.2.2)
 
 An **ecosystem** is a community of living things interacting with each other and with the non-living environment. **Trophic levels** are feeding positions: producers, primary consumers (herbivores), secondary and tertiary consumers. A **food web** shows the many linked food chains in a real ecosystem.
@@ -76,6 +82,17 @@ As a system, an ecosystem has:
 **Terrestrial ecosystems** result from links between climate, vegetation, soil and topography. Climate sets temperature and moisture; vegetation supplies litter that forms soil; topography alters drainage and exposure. Change one part and the others respond: drier conditions favour drought-tolerant species and slow decomposition.
 
 Factors that change ecosystems include climate change (shifting temperature and rainfall belts) and human exploitation (clearance, grazing, fire, mining, pollution).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--14-energy-trophic.webp" width="900" height="980" alt="Four stacked bars from producers at the bottom to tertiary consumers at the top. Sunlight enters at the producers. About 10 percent of the energy passes up each level, shown with illustrative values 10,000, 1,000, 100 and 10 units. The rest leaves as heat from respiration and undigested waste. Because so little passes on, food chains rarely exceed four or five levels. Bar widths are not to scale." loading="lazy">
+  <figcaption>Only about 10% of energy passes up each trophic level, so food chains rarely exceed four or five levels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--15-nutrient-stores.webp" width="900" height="1110" alt="Two three-store nutrient cycling models, with circle size showing the size of each store (illustrative). In tropical rainforest the biomass store is largest and the litter store is small because litter decomposes fast in hot, wet conditions. In savanna more nutrients sit in the soil. Arrows show leaf fall from biomass to litter, decomposition from litter to soil, and uptake from soil back to biomass." loading="lazy">
+  <figcaption>In rainforest the biomass store is largest and litter small; in savanna more nutrients sit in the soil.</figcaption>
+</figure>
+
 
 ## Succession (3.3.2.2 and 3.3.2.4)
 
@@ -108,6 +125,17 @@ In lowland Britain the climatic climax would be deciduous woodland dominated by 
 *Question: "Explain how human activity can produce a plagioclimax."*
 
 At Studland, the heath behind the dunes would, if left alone, succeed to birch and pine scrub and then towards oak woodland, the climatic climax for lowland Britain (knowledge). The National Trust keeps it open by grazing it with Red Devon cattle, so the community is held at heath (application). This means the vegetation reflects management, not climate, which is the defining feature of a plagioclimax (analysis). However, fires at Studland also hold back succession, so heath is partly maintained by a mix of human and natural disturbance (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--16-psammosere-profile.webp" width="900" height="920" alt="A schematic cross-section from the sea on the left to heath on the right, not to scale. Five zones follow the sequence of a psammosere: 1 embryo dunes with salt-tolerant pioneers; 2 fore and yellow dunes with marram grass; 3 grey dunes with more humus, mosses and lichens and falling pH; 4 dune slacks, damp hollows near the water table; 5 heath and scrub with heather, gorse, birch and pine. Ground further inland is older, the space-for-time assumption." loading="lazy">
+  <figcaption>A sand dune succession runs from embryo dunes through marram and grey dunes to slacks, heath and scrub.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--17-climax-types.webp" width="900" height="680" alt="A flow diagram of succession. Pioneers lead through seral stages to the climatic climax, which for lowland Britain is oak woodland. If a natural factor such as poor drainage or regular disturbance halts succession early, the result is a sub-climax. If continuing human activity such as grazing, burning or trampling holds it back, the result is a plagioclimax, for example grazed heath at Studland." loading="lazy">
+  <figcaption>A natural halt gives a sub-climax; continuing human activity gives a plagioclimax.</figcaption>
+</figure>
+
 
 ## Biomes (3.3.2.3)
 
@@ -158,6 +186,12 @@ The Great Barrier Reef, off Queensland, is over 2,300 km long. It has over 2,900
 
 **Management and future prospects.** The 2004 zoning plan raised highly protected zones from 4.5% to over 33% of the marine park. The Reef 2050 Long-Term Sustainability Plan (2015) targets water quality. Local management can cut runoff and fishing pressure, but not marine heatwaves, which depend on global emissions. Reefs can recover between events, but recovery takes years; if bleaching returns every year or two, there is not enough time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--18-coral-bleaching.webp" width="900" height="820" alt="Two coral polyps side by side. Healthy: the polyp holds algae called zooxanthellae, which photosynthesise in sunlight and feed the coral. Marine heatwave: warmer water makes the coral expel its algae, so the coral turns pale. This is bleaching, not death: bleached coral can recover if conditions improve quickly. Reefs grow in about 23 to 29 degrees Celsius water." loading="lazy">
+  <figcaption>Heat stress makes corals expel their algae; bleached coral can recover if conditions improve quickly.</figcaption>
+</figure>
+
+
 ## Local ecosystems (3.3.2.6)
 
 The specification suggests forest conservation, mangrove conservation, managed parkland, a pond or a dune system. Your teacher will confirm which local example your class studies. One option is below.
@@ -187,6 +221,12 @@ Rondônia, in the western Brazilian Amazon, once held over 200,000 km² of rainf
 ### Ecosystem at a local scale
 
 Use Studland or Sungei Buloh above. Cover the ecosystem's properties, human impact, and the challenges and opportunities of sustainable development.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-ecosystems-under-stress--19-rondonia-clearance.webp" width="900" height="1030" alt="Top: a schematic fishbone pattern, not a map. A main highway runs across a forest area, with side roads branching off both sides and strips of cleared land along each. Bottom left: Rondônia population rose from about 117,000 in 1970 to over 1.1 million in 1991, about nine times larger. Bottom right: rainforest once covered over 200,000 square kilometres and around 70,000 square kilometres, about 35 percent, had been cleared by 2003." loading="lazy">
+  <figcaption>Roads and settlement drove forest clearance in Rondônia: about 70,000 km² of over 200,000 km² had gone by 2003.</figcaption>
+</figure>
+
 
 ## Common errors
 

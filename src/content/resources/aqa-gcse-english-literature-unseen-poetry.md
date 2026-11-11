@@ -58,6 +58,12 @@ tariff given in AQA's published mark schemes (for example June 2023, Questions 2
   poems written between 1789 and the present day), though Section C poems are always new to the
   candidate
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--01-up-marks.webp" width="900" height="1124" alt="A grid of 96 squares stands for the 96 marks of Paper 2. Twenty-four squares are Part (i), analysing one unseen poem; eight are Part (ii), comparing it with a second poem; the other 64 are the rest of the paper. Together Section C is 32 of the 96 marks. Below, two bars show the assessment objectives: Part (i) is 12 marks for AO1 and 12 for AO2, and Part (ii) is 8 marks, all AO2." loading="lazy">
+  <figcaption>Section C is 32 of Paper 2’s 96 marks, split 24 for Part (i) and 8 for Part (ii).</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because no specific poem can be revised in advance, preparation for Section C means practising a
@@ -65,6 +71,12 @@ transferable method, not memorising content. Read as many unfamiliar poems as po
 timing yourself to build the habit of producing a structured, well-supported analysis within a fixed
 time -- roughly 45 minutes for both parts of Section C combined is a reasonable target within Paper 2's
 overall 2 hour 15 minute length.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--02-up-time.webp" width="900" height="900" alt="Two bars show that Section C is one third of Paper 2 twice over: 32 of 96 marks and about 45 of 135 minutes. A clock face then shows the 45 minutes shared in proportion to the 24 and 8 marks: roughly 34 minutes for Part (i) and 11 minutes for Part (ii). The split is illustrative." loading="lazy">
+  <figcaption>Section C is a third of the marks and about a third of the time; the 45 minutes can be shared roughly in proportion to marks.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
@@ -79,12 +91,24 @@ itself is new. The same technique that works for anthology poems (identify a fea
 link it to the poem's overall meaning) transfers directly, provided it can be applied quickly to
 unfamiliar material.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--04-up-chain.webp" width="900" height="750" alt="Two rows compare weak and strong annotation. In the first, a highlighted word on a poem leads to a feature box, but the arrows to the effect and the poem’s meaning are broken and crossed, so it earns little credit. In the second, the chain runs from feature to effect to the poem’s meaning, the method that also works for the anthology poems." loading="lazy">
+  <figcaption>A feature earns little credit until its effect and its link to the poem’s meaning are explained.</figcaption>
+</figure>
+
+
 ## Part (ii): comparing methods across two unseen poems
 
 The 8-mark comparison task asks specifically about how the poets use methods -- not simply what each poem
 is about. A strong comparison identifies a specific technique (imagery, structure, form, tone) present in
 both poems, and analyses how each poet uses it differently or similarly, rather than describing the two
 poems' content side by side without any technical comparison.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--05-up-compare.webp" width="900" height="810" alt="Two panels. On the left, many thin crossing lines link two poems at scattered points of content: weaker. On the right, one thick double arrow links the same highlighted technique in both poems: stronger. Below, four chips list possible shared techniques: imagery, structure, form and tone. The advice is to analyse how each poet uses the chosen technique, similarly or differently." loading="lazy">
+  <figcaption>A strong comparison picks one shared technique and analyses it in both poems, rather than listing surface points.</figcaption>
+</figure>
+
 
 ## Worked example: a fast first-read routine for an unseen poem
 
@@ -128,6 +152,17 @@ unfamiliar form or subject matter; candidates who have read broadly are better p
 common poetic techniques -- enjambment, caesura, extended metaphor, shifts in tone -- wherever they
 appear. Regular timed practice on genuinely unfamiliar poems, rather than poems already partly discussed
 in class, most closely replicates exam conditions and builds genuine unseen-analysis confidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--03-up-routine.webp" width="900" height="900" alt="Five numbered steps in order, each with a small icon. Step 1: read the whole poem once for subject and tone. Step 2: reread and mark stanzas, rhyme and shifts. Step 3: mark three or four strong language choices. Step 4: link every note to its effect. Step 5, for the 8-mark comparison: choose one shared technique." loading="lazy">
+  <figcaption>A five-step first read: whole poem, structure and form, language choices, effects, then one shared technique for the comparison.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--06-up-breadth.webp" width="900" height="904" alt="A schematic of poems you have read. In the first panel, fifteen dots form one tight anthology cluster and an unseen poem, shown as a star, lies far outside it with a crossed arrow between them: unfamiliar form or subject is hard. In the second panel the same cluster sits among many more dots spread across poets, periods and styles, and the unseen poem has familiar poems close by." loading="lazy">
+  <figcaption>Wide reading prepares you for an unfamiliar poem better than practising only on poems like your anthology cluster.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

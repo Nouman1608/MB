@@ -121,6 +121,17 @@ set texts. The rubric on AQA's question papers says you must write about
 two texts that you have not used in Section B, so plan in advance which
 text you will cover in each section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-texts-and-genres--08-p2-exam-structure.webp" width="900" height="930" alt="Chips show 3 hours, 75 marks, 40 percent of the A-level and open book. A bar shows three 25-mark sections: the compulsory unseen passage, an essay on one set text, and an essay connecting two set texts. Below, a clean open book with a tick is allowed and an annotated book with a cross is not allowed." loading="lazy">
+  <figcaption>Paper 2 is open book, but only clean, unannotated copies are allowed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-texts-and-genres--09-p2-plan-texts.webp" width="900" height="850" alt="Three text boxes at the top. An arrow takes Text 1 to Section B; arrows take Texts 2 and 3 to Section C. A dashed crossed line from Text 1 to Section C shows that reusing the Section B text is not allowed." loading="lazy">
+  <figcaption>Choose the texts for B and C in advance: they cannot overlap.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because the paper is open book, the highest-value revision work is
@@ -140,6 +151,12 @@ pre-1900 requirements simultaneously), check with your teacher exactly
 which three texts your centre has chosen and how they map onto the
 specification's requirements before building a revision plan around
 them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-texts-and-genres--10-p2-connective.webp" width="900" height="850" alt="A crossed-out pair of separate analyses for Text 1 and Text 2 is contrasted with a diagram where both texts link by two-way arrows to one shared element. The example elements are guilt or the structure of a power struggle." loading="lazy">
+  <figcaption>A strong Section C essay tracks one element across both texts.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -192,3 +209,14 @@ page, both verified 2026-09-02, and the set-text lists rechecked on
 2026-11-08 against the specification PDF (Version 1.5.1, 1 October
 2025). *Kala* is the text marked for first assessment in 2027; check
 with your teacher which text list applies to your examination series.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-texts-and-genres--06-p2-options.webp" width="900" height="948" alt="Two panels, a magnifying glass for Option 2A crime writing and a placard for Option 2B political and social protest writing, each listing five of the specification elements. A note says to weigh each element in every text rather than treat the genre as a rigid set of rules." loading="lazy">
+  <figcaption>Paper 2 offers two option genres, each described as a set of elements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-texts-and-genres--07-p2-three-texts.webp" width="900" height="980" alt="Two rows show the three texts per option: post-2000 prose, poetry and a further text. In the crime option a gold tag marks the poetry text as the one that must be pre-1900. In the protest option dashed tags on all three show that any one may be the pre-1900 text. A note says one text can meet two requirements." loading="lazy">
+  <figcaption>The pre-1900 rule is stricter in Option 2A than in Option 2B.</figcaption>
+</figure>
+

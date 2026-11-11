@@ -62,6 +62,17 @@ On a 1:50 000 map, a winding road measured with string is 6.8 cm: 6.8 x 500 = 3,
 
 **Evaluation.** A map can be out of date, and shows that a road exists, not how busy it is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills--01-ns45-grid-reference.webp" width="900" height="800" alt="A grid with eastings 31 to 34 along the bottom and northings 55 to 58 up the side, with square 3256 enlarged. A hostel sits seven tenths east and two tenths north in the square. The four-figure reference is 3256 (whole square) and the six-figure reference is 327562 (a point). Eastings always come before northings." loading="lazy">
+  <figcaption>Four-figure references name a square; six-figure references name a point, eastings first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills--02-ns45-scale-gradient.webp" width="900" height="960" alt="A ruler shows 3.6 cm on a fictional 1:25 000 map where 1 cm is 250 m, giving 900 m. A to-scale triangle shows the 225 m rise from a 64 m footbridge to a 289 m summit. Gradient is 225 divided by 900, which is 1 in 4 or 25 percent." loading="lazy">
+  <figcaption>Convert map distance with the scale, then divide rise by distance in the same units.</figcaption>
+</figure>
+
+
 ## Maps, photographs and sketches
 
 You must compare maps, use sketch maps, and describe landforms, vegetation, land use and settlement from ground, aerial and satellite photographs.
@@ -95,6 +106,12 @@ You must select, construct, complete and interpret graphs and maps, and plot dat
 - **Desire lines**: straight lines from origin to destination, not the route taken.
 - **Flow lines**: width is proportional to the amount moving along a real route.
 - **Proportional symbols**: symbol size shows quantity at a place.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills--03-ns45-data-maps.webp" width="900" height="790" alt="Six schematic panels: choropleth (areas shaded by class), isolines (close lines mean a steep change), dot map (each dot a fixed number), desire lines (straight, not the route), flow lines (width shows amount along a real route) and proportional symbols (size shows amount)." loading="lazy">
+  <figcaption>Each type of data map shows a different kind of information; values here are illustrative.</figcaption>
+</figure>
+
 
 ## Numerical skills
 
@@ -140,6 +157,22 @@ The **modal class** is 2 to under 4 km. The median is the 20th value, which fall
 
 **Exam-style paragraph (statistics).** "The median noise level is 63 dB and the IQR is 14 dB (knowledge). The mean of 65.2 dB is higher because one site beside the main road recorded 88 dB (application). The median is the better summary of typical noise, since one extreme reading distorts the mean (analysis). With only 11 sites, each recorded once, the results may not be reliable; repeat readings at different times would show whether 88 dB was a one-off (evaluation)."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills--04-ns45-noise-statistics.webp" width="900" height="570" alt="Eleven fictional noise readings are plotted on a number line. Median 63, mean 65.2 (pulled up by 88 dB beside the main road), mode 58, quartiles 58 and 72 so IQR 14, and range 36 dB." loading="lazy">
+  <figcaption>The lesson noise data shown as a dot plot with mean, median, mode, IQR and range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills--05-ns45-cumulative-frequency.webp" width="900" height="700" alt="A cumulative frequency graph for 40 fictional shoppers with points at 9, 23, 31, 36 and 40. The 20th value gives a median of about 3.6 km and the 36th value, the 90th percentile, is 8 km." loading="lazy">
+  <figcaption>Read across from the cumulative frequency to the curve and down to find the median and percentiles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills--06-ns45-best-fit.webp" width="900" height="800" alt="Eight fictional river widths against distance downstream with one line of best fit through the mean point. At 5 km the line gives about 3.4 m (interpolation); at 20 km about 10.6 m, which is far beyond the data and unreliable (extrapolation). Site 5 is marked as an anomaly." loading="lazy">
+  <figcaption>Predictions inside the data are safer than predictions far beyond it.</figcaption>
+</figure>
+
+
 ## Qualitative and quantitative data, and building an argument
 
 **Quantitative** data is numerical; **qualitative** data is descriptive (interview quotes, photographs, sketches). **Primary** data you collect yourself; **secondary** data someone else collected. The specification's examples include maps, fieldwork data, geo-spatial data in a geographical information system (GIS) and satellite imagery. You must also identify questions and sequences of enquiry, write descriptively, analytically and critically, communicate clearly, and develop an extended argument: give a view, support it with data, and say how far the evidence supports it.
@@ -168,6 +201,12 @@ Exam questions can cover: planning (aims, location, hypothesis, methods); backgr
 **Risk.** Match each risk (deep water, tides, traffic, approaching strangers) to a precaution, such as checking tide times or working in groups.
 
 **Exam-style paragraph (evaluating your enquiry).** "My enquiry asked whether river velocity increases downstream. I timed a float over 10 m at five sites, three times each (knowledge). Three repeats reduced the effect of one odd timing, and the sites covered 4 km of the stream (application). However, the float was blown by wind at the widest site, so velocity there was probably overestimated, which weakens the link I found (analysis). My conclusion is partly reliable: the trend was clear at four sites, but a flow meter and readings on a second day would make it more secure (evaluation)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills--07-ns45-enquiry-strands.webp" width="900" height="1010" alt="The six strands in order: suitable question, select measure and record, process and present, describe analyse and explain, conclusions, evaluation. Paper 3 Section B tests the enquiry process in unfamiliar contexts and Section C tests your own titled enquiry." loading="lazy">
+  <figcaption>Every fieldwork enquiry moves through the same six strands.</figcaption>
+</figure>
+
 
 ## Common errors
 

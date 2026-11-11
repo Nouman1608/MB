@@ -68,6 +68,12 @@ different texts".
 Parody and satire overlap but are not the same. Parody always imitates a particular style or form.
 Satire attacks a target and may or may not imitate anything.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--07-inter-six-ways.webp" width="900" height="1060" alt="Six ways one text can connect to another. Allusion is a brief, indirect reference. Quotation is the exact words of another text, usually marked. Parody imitates a style to mock it. Pastiche imitates a style without mockery. Adaptation moves a text into a new medium or form. Response answers another text. For every connection, ask what the reference does in this text." loading="lazy">
+  <figcaption>Six ways one text connects to another.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 ### Analysing an intertextual reference
@@ -83,6 +89,17 @@ Satire attacks a target and may or may not imitate anything.
 2. Decide whether each is **followed, bent or broken**.
 3. Choose the most significant bent or broken one.
 4. Explain why the writer made that choice, linked to purpose and audience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--09-inter-follow-bend-break.webp" width="900" height="800" alt="A print advert has five expected features in order: headline, image, brand name, slogan, call to action. Follow: all five appear where readers expect, so attention goes to the message. Bend: a familiar feature is used in an unexpected place or way, shown by the slogan tile shifted out of its slot. Break: an expected feature is missing or reversed, shown by an empty dashed slot with a cross where the image should be." loading="lazy">
+  <figcaption>Follow, bend or break a convention.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--10-inter-hybrid-advert.webp" width="900" height="850" alt="A hybrid text mixing two types. The invented kettle advert borrows fairy-tale conventions: &quot;Once upon a time&quot;, &quot;not far from yours&quot;, a problem, a magical arrival and &quot;happily ever after&quot;. It still has advert conventions: brand name, product name and the slogan &quot;Mornings, rewritten&quot;. The effect is that a small appliance becomes the hero of a story. &quot;Happily ever after&quot; promises a feeling, not a fact, so the advert persuades without stating anything it could be held to." loading="lazy">
+  <figcaption>An advert dressed as a fairy tale.</figcaption>
+</figure>
+
 
 ### Building a comparison
 
@@ -128,6 +145,12 @@ suggests that the friendship has become something to be managed rather than enjo
   to show what a reader gains from making the connection -- but do not invent a source that is not
   there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--06-inter-strands.webp" width="900" height="890" alt="Intertextuality has three strands. Text to text: one text points to another, shown as a new page pointing back to an earlier page. Text to convention: a text works with, or against, the expected features of its type or form, shown as a page against a dashed template outline. Text beside text: two texts placed together so you can build an argument from the comparison, shown as two pages with arrows both ways." loading="lazy">
+  <figcaption>Three kinds of connection.</figcaption>
+</figure>
+
+
 ## Where the unit shows up in assessment
 
 From the brief's assessment model:
@@ -171,6 +194,17 @@ Your teacher will share the assessment criteria.
 10. A common global issue that both have approached.
 11. It is too broad to argue from; a precise connection (an issue, technique or form) lets you
     compare specific choices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--11-inter-poem-leaflet.webp" width="900" height="1060" alt="The lesson compares the original poem &quot;The Last Bus&quot; and a leaflet from an invented charity, both about loneliness in old age. Purpose: the poem makes the reader feel, the leaflet makes the reader act. Address: the poem uses third person so the reader observes; the leaflet uses &quot;your&quot; so the reader is involved. Method: concrete images against a plain statement and practical offer. Ending: &quot;who waves back&quot; against &quot;Pick up a form&quot;. Below, comparing block by block puts all of one text then all of the other; a woven comparison alternates texts within the same sentence and is better." loading="lazy">
+  <figcaption>One issue, two text types.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--12-inter-weights.webp" width="900" height="870" alt="Two stacked bars show how the final grade is shared. At SL: Paper 1 35 percent, Paper 2 35 percent, individual oral 30 percent. At HL: Paper 1 35 percent, Paper 2 25 percent, individual oral 20 percent, HL essay 20 percent. Paper 1 is a guided analysis of unseen non-literary passages (1.25 hours at SL, 2.25 at HL). Paper 2 is a comparative essay on two literary works (1.75 hours). The oral connects one literary work and one non-literary body of work through a global issue. The HL essay is 1,200 to 1,500 words and HL only." loading="lazy">
+  <figcaption>Where intertextuality is assessed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

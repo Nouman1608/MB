@@ -64,6 +64,12 @@ time            = 30,000 ÷ 9,600 = 3.125 s
 data fraction   = 8 ÷ 10 = 80%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--06-net-bit-rate-frame.webp" width="900" height="1010" alt="A link runs at 2,400 baud with 16 signal levels, so each signal change carries log base 2 of 16, which is 4 bits, giving a bit rate of 2,400 times 4, which is 9,600 bits per second. Each asynchronous character is 10 bits: 1 start bit, 8 data bits and 1 stop bit. Sending 3,000 characters is 30,000 bits, which takes 30,000 divided by 9,600, which is 3.125 seconds. Data bits are 8 of 10, or 80 percent, of the traffic. The signal shape is illustrative." loading="lazy">
+  <figcaption>Each signal change carries 4 bits, and each character costs 10 bits, 80% of them data.</figcaption>
+</figure>
+
+
 ## 3.14.2 Networking
 
 In a **peer-to-peer** network every computer has equal status and shares its own resources; it suits a small home network or direct file sharing between users. In a **client-server** network, clients request services from one or more servers (file server, email server); it suits an organisation needing central storage, accounts, backups and security.
@@ -99,6 +105,12 @@ UNTIL frame sent without collision
 
 **Wired vs wireless**: wireless gives mobility, no cabling and easy expansion, but lower and less steady speed, interference, range limits and greater interception risk. Wired is faster, more reliable and more secure but costs more to install and fixes devices in place.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--07-net-csma-ca-rts-cts.webp" width="900" height="880" alt="Station A and station B can both reach the wireless access point but cannot hear each other (the hidden-node problem). Step 1: A sends a short Request to Send to the access point. Step 2: the access point replies Clear to Send, which both A and B hear, so B stays silent. Step 3: A sends its data. Step 4: the access point sends an acknowledgement. If no acknowledgement arrives, a collision is assumed and the station backs off for a random time and retries." loading="lazy">
+  <figcaption>RTS and CTS make other stations stay silent while data and the acknowledgement pass.</figcaption>
+</figure>
+
+
 ## 3.14.3 The Internet
 
 The Internet is a network of networks: high-capacity backbone links and routers, with ISPs connecting users to them. **Packet switching** splits data into packets that travel independently, possibly by different routes. **Routers** read each packet's destination address and use a routing table to pick the next hop, so routing is achieved hop by hop. The receiver reorders packets by sequence number.
@@ -120,6 +132,17 @@ The **domain service** lets people use names while routers use numbers; it relie
 4. That server returns the IP address; the resolver caches it and passes it back.
 
 **Internet registries** allocate IP addresses and keep records of domain names so every public address and name is unique. IANA delegates address blocks to five Regional Internet Registries, which allocate them to ISPs and organisations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--08-net-packet-switching.webp" width="900" height="1080" alt="A packet holds a source address, destination address, sequence number, time to live, payload and error-checking information. Three numbered packets travel from sender to receiver by different routes through routers R1 to R4. Each router subtracts 1 from the time to live; with an illustrative starting value of 5, packet 1 passes three routers (TTL 2), packet 2 passes two (TTL 3) and packet 3 passes three (TTL 2). Packets can arrive out of order, for example 2, 1, 3, and the receiver puts them back in order using the sequence numbers." loading="lazy">
+  <figcaption>Packets take different routes, lose 1 from their TTL at each router and are re-ordered by sequence number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--09-net-dns-lookup.webp" width="900" height="1060" alt="The computer checks its cache, then asks its DNS resolver. If the resolver has no cached answer it asks a root name server, which refers it to the .org servers. A .org server refers it to the name server for orrinvale-museum.org, which returns the IP address. The resolver caches the answer and passes it back to the computer. Below, the domain name is read right to left: root, .org, orrinvale-museum, then the host name tickets." loading="lazy">
+  <figcaption>The resolver asks root, .org and the domain name server in turn, then caches and returns the IP address.</figcaption>
+</figure>
+
 
 ## 3.14.4 TCP/IP
 
@@ -162,6 +185,17 @@ network identifier = 10.48.144.0   host bits = 4 + 8 = 12
 
 **DHCP** gives a device its IP configuration automatically: the device broadcasts **Discover**, a server sends an **Offer**, the device sends a **Request**, the server sends **Acknowledge**. The address is leased for a set time, then returns to the pool. Advantages over manual set-up: no typing errors or duplicate addresses, addresses are reused, visitors join instantly, and changes are made centrally.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--10-net-subnet-mask.webp" width="900" height="970" alt="The address 10.48.157.201 is ANDed with the subnet mask 255.255.240.0. Octets 1 and 2 are kept by the mask 255, giving 10 and 48. Octet 3: 157 is 10011101 and 240 is 11110000; ANDing them bit by bit gives 10010000, which is 144. Octet 4 has mask 0, so it becomes 0. The network identifier is 10.48.144.0, and there are 4 + 8 = 12 host bits." loading="lazy">
+  <figcaption>ANDing 10.48.157.201 with 255.255.240.0 gives network identifier 10.48.144.0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--11-net-dhcp.webp" width="900" height="900" alt="A device joining a network broadcasts a Discover message. The DHCP server sends an Offer. The device sends a Request. The server sends an Acknowledge. The device then uses the address for a set lease time, after which the address returns to the pool to be reused." loading="lazy">
+  <figcaption>Four messages give a device an address, which is leased and then returns to the pool.</figcaption>
+</figure>
+
+
 ## 3.14.5 Cyber security
 
 A **firewall** controls traffic between networks. **Packet filtering** checks addresses, port numbers and protocol against rules. A **proxy server** makes requests for internal users, hiding their addresses and filtering content. **Stateful inspection** tracks open connections and only admits packets belonging to one.
@@ -171,6 +205,12 @@ A **firewall** controls traffic between networks. **Packet filtering** checks ad
 A **digital signature**: hash the message, encrypt the hash with the sender's private key, attach it. The receiver decrypts it with the sender's public key, re-hashes and compares; a match proves origin and integrity. A **digital certificate** is obtained by sending your public key and identity to a **Certificate Authority**, which verifies you and signs a certificate holding the public key, owner and expiry date. Browsers check that signature before trusting a site's key.
 
 A **virus** attaches to a file and spreads when it runs; a **worm** spreads across networks by itself through unpatched software; a **trojan** poses as useful software to trick users. They exploit out-of-date software, weak passwords, excess privileges and careless users; patching, anti-malware, least privilege and training reduce the risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-networking-and-cyber-security--12-net-digital-signature.webp" width="900" height="880" alt="Sender: the message is hashed, the hash is encrypted with the sender’s private key to make the signature, and the message and signature are sent together. Receiver: the signature is decrypted with the sender’s public key to give hash A, and the message is hashed again to give hash B. If A equals B the message came from the sender and has not been changed. A signature proves origin and integrity but does not keep the message secret." loading="lazy">
+  <figcaption>The sender signs a hash with the private key; the receiver compares two hashes.</figcaption>
+</figure>
+
 
 ## Common errors
 

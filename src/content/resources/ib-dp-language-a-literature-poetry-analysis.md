@@ -78,6 +78,12 @@ are verbs of noticing: the speaker will "mark" faces and "hear" cries. The voice
 participant. That choice makes the poem feel like evidence gathered on a walk, which gives its
 accusations more weight.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--13-poetry-voice.webp" width="900" height="1030" alt="A poem frame holds a speaker talking to an addressee while the poet stands outside it, marked not equal. Three questions, who speaks, to whom and in what tone, are followed by Blake’s speaker, a witness who marks faces and hears cries." loading="lazy">
+  <figcaption>The speaker is not automatically the poet, and voice is found by asking who, to whom and in what tone.</figcaption>
+</figure>
+
+
 ## Form: the shape the poem takes
 
 **Form** is the poem's overall shape: its type, stanza pattern, line length and rhyme scheme.
@@ -93,6 +99,12 @@ Form matters when it connects to meaning. Christina Rossetti's "Remember" (*Gobl
 Poems*, 1862) is a Petrarchan sonnet. The octave rhymes abbaabba and the sestet cddece. A sonnet is
 a traditional form for love poetry, and this is a love poem, but it is about the speaker's own
 death. The tight, familiar form holds a hard subject steady.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--14-poetry-sonnet-forms.webp" width="900" height="940" alt="Two 14-line sonnets side by side. The Petrarchan has an octave and a sestet with the rhymes of Rossetti’s Remember and a turn at line 9; the Shakespearean has three quatrains and a couplet. A row shows couplet, tercet and quatrain stanzas." loading="lazy">
+  <figcaption>Sonnet shapes: octave plus sestet, or three quatrains plus a couplet.</figcaption>
+</figure>
+
 
 ## Structure: how the poem moves
 
@@ -121,6 +133,12 @@ Line 2 ends on "his hands". For a moment, you read the hands as the thing being 
 runs on: the hands "remember better than his name". The enjambment delays the sad detail, so it
 lands with more force. The caesura after "name." stops the thought short. "Outside" then hangs at
 the line end and pulls you out of the kitchen to the tilted boats.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--15-poetry-line-breaks.webp" width="900" height="770" alt="Three lines of an original free-verse passage with arrows carrying the reader over the line breaks. &quot;his hands&quot; is highlighted at the end of line 2, a gold marker shows the caesura after &quot;name.&quot;, and &quot;Outside&quot; hangs at the end of line 3." loading="lazy">
+  <figcaption>Line breaks and pauses carry meaning in free verse.</figcaption>
+</figure>
+
 
 ## Sound: metre, rhyme and sound patterns
 
@@ -156,6 +174,12 @@ opposites sit side by side.
 
 Never stop at "this creates rhythm" or "this makes it flow". Say what the sound does to the meaning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--16-poetry-metre.webp" width="900" height="1030" alt="Stressed syllables are big dots. An iamb is da-DUM and a trochee DUM-da. Blake’s line has eight syllables in four iambs. Five iambs make ten syllables, four make eight. A line with seven syllables starting on a stress breaks the pattern." loading="lazy">
+  <figcaption>Metre is a pattern of stressed and unstressed syllables, and a change in it is worth noting.</figcaption>
+</figure>
+
+
 ## Imagery: pictures and what they carry
 
 - **Simile:** a comparison using "like" or "as".
@@ -170,6 +194,12 @@ thought, habit and fear. Blake then fuses sound and sight: the soldier's "sigh /
 palace-walls". A sigh cannot run in blood. The impossible image makes the palace, the seat of power,
 look stained by the soldier's suffering.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--17-poetry-imagery.webp" width="900" height="1060" alt="Top, two cuffs joined by a chain whose links are thought, habit and fear, not iron. Bottom, a soldier’s sigh drawn as a speech bubble running as a red streak down a palace wall, so power looks stained by suffering." loading="lazy">
+  <figcaption>Images carry meaning: the manacles are made of mind, and the sigh stains the palace.</figcaption>
+</figure>
+
+
 ## From features to meaning
 
 A feature is only worth mentioning if it helps answer a question about the poem. Work in this order:
@@ -182,6 +212,12 @@ A feature is only worth mentioning if it helps answer a question about the poem.
 That fourth question turns spotting into analysis. If Rossetti had written "Remember" in loose free
 verse, the pleading repetitions would lose the firm frame that makes her final release feel
 controlled rather than desperate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--18-poetry-features-to-meaning.webp" width="900" height="850" alt="Four steps in order: read twice, find the turn, pick two or three features, and ask what would be lost if the poet had written it differently. The fourth question turns spotting into analysis." loading="lazy">
+  <figcaption>A feature is worth mentioning only if it helps answer a question about the poem.</figcaption>
+</figure>
+
 
 ## Writing an analytical paragraph
 
@@ -217,6 +253,12 @@ beloved's happiness above the speaker's wish.
 Notice what the paragraph does not do. It never retells the poem. Every quotation is under ten words
 and sits inside a sentence. Each technique is tied to an effect, and the last sentence links form to
 meaning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-poetry-analysis--19-poetry-paragraph-moves.webp" width="900" height="992" alt="Five stacked moves, claim, evidence, technique, effect and link, applied to Rossetti’s Remember with the guiding question on top. Every quotation is under ten words and sits inside a sentence." loading="lazy">
+  <figcaption>A good paragraph makes five moves, from claim to link.</figcaption>
+</figure>
+
 
 ## Common errors
 

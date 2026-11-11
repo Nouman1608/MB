@@ -56,6 +56,12 @@ book rewards candidates who know their text well enough to locate
 relevant passages quickly, not candidates who have simply not learned
 the text.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-3-drama-open-text--01-lit-p3-open-book.webp" width="900" height="820" alt="Four rows, each showing a book and a verdict. A clean copy of the set text is allowed (tick). A book with annotations, highlighting or underlining is not allowed (cross). An edition with extensive study notes or facing-page translations is not allowed (cross). An edition with a brief introduction and foot or end notes may be taken in, but the extra notes must not be used in the exam (warning sign)." loading="lazy">
+  <figcaption>Open book means a clean copy: no personal marks and no extensive study notes, and brief editorial notes may be present but not used.</figcaption>
+</figure>
+
+
 ## Format: one question, not two
 
 Where Paper 2 requires two questions on two different texts, Paper 3
@@ -76,6 +82,12 @@ minutes is a tight window for a full response addressing all four
 assessment objectives, so efficient planning matters more here than on
 the longer papers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-3-drama-open-text--02-lit-p3-format.webp" width="900" height="890" alt="Two horizontal bar pairs compare Paper 2 and Paper 3. Paper 2 lasts 1 hour 30 minutes and carries 50 marks; Paper 3 lasts 45 minutes and carries 25 marks, exactly half of each. Below, Paper 2 asks two questions on two different texts, while Paper 3 asks one question chosen from two, both on the same single text." loading="lazy">
+  <figcaption>Paper 3 is half the length and half the marks of Paper 2, with one answer on one play.</figcaption>
+</figure>
+
+
 ## Set texts for the 2026 series
 
 Paper 3 draws on the same five-play list as Paper 2 for the 2026
@@ -85,6 +97,12 @@ and Cleopatra* (Shakespeare) and *A Streetcar Named Desire* (Tennessee
 Williams). Set texts rotate by examination series, so always confirm
 the current list for the year your candidates are actually sitting the
 exam, rather than assuming it matches a previous year's list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-3-drama-open-text--03-lit-p3-set-texts.webp" width="900" height="785" alt="A bookshelf of five plays, each drawn as a book spine with title and author: Blues for an Alabama Sky by Pearl Cleage; A Taste of Honey by Shelagh Delaney; A Midsummer Night’s Dream by Shakespeare; Antony and Cleopatra by Shakespeare; A Streetcar Named Desire by Tennessee Williams. Notes say the list is the same as Paper 2’s for 2026 and that lists rotate, so check the year you sit." loading="lazy">
+  <figcaption>The five plays on the 2026 Paper 3 list; confirm the list for your own exam year.</figcaption>
+</figure>
+
 
 ## What the four assessment objectives reward here
 
@@ -109,6 +127,12 @@ require genuine understanding and a considered personal response
 worked out in advance of the exam, not assembled on the spot from the
 page in front of you.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-3-drama-open-text--04-lit-p3-ao-help.webp" width="900" height="736" alt="Four rows for the assessment objectives with a three-step help meter. AO1, detail and quotation: three steps filled, mainly helped because you can check quotations. AO3, writer’s methods and language: two steps filled, helped indirectly by pointing to exact lines. AO2, characters and themes, and AO4, personal response: no steps filled, because understanding and a considered personal response must be prepared before the exam." loading="lazy">
+  <figcaption>The open book mainly supports AO1 and indirectly AO3; AO2 and AO4 depend on preparation.</figcaption>
+</figure>
+
+
 ## How Paper 3 combines with the rest of the qualification
 
 Paper 3 is never taken alone -- it always pairs with either **Paper 4
@@ -120,6 +144,12 @@ different texts). Both routes bring the drama component to the same
 and Component 5 is a decision your school makes about how the course
 is delivered and assessed, not one you make individually as a
 candidate, so confirm early which route you are on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-3-drama-open-text--05-lit-p3-routes.webp" width="900" height="730" alt="Paper 1 Poetry and Prose is taken by every candidate. Then there are three routes to finish: Paper 2 Drama alone; or Paper 3 Drama (Open Text) with Paper 4 Unseen; or Paper 3 with Component 5 Coursework. Paper 3 is highlighted in both routes where it appears, and a note says the school chooses the route." loading="lazy">
+  <figcaption>Paper 3 always travels with Paper 4 or with coursework; your school decides which route you follow.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -138,6 +168,12 @@ proportionate few minutes planning your single answer before writing,
 since a well-structured response that clearly addresses all four AOs
 in 40 minutes of writing will outperform an unplanned answer that runs
 out of time before reaching a personal response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-3-drama-open-text--06-lit-p3-time.webp" width="900" height="780" alt="A time axis from 0 to 45 minutes with two bars. The planned answer has a short planning block of a few minutes and then 40 minutes of writing, and it reaches the personal response. The unplanned answer is writing from the start and runs out of time before reaching the personal response." loading="lazy">
+  <figcaption>A few minutes of planning leaves 40 minutes to write an answer that reaches the personal response.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

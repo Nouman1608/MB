@@ -67,6 +67,12 @@ health-related behaviour
 - Specialist Option 4: Organisational Psychology — how psychological principles apply
 to behaviour, motivation and management within workplaces
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-specialist-options--01-so-structure.webp" width="900" height="886" alt="AS core (four approaches plus Research Methods) feeds a choice of two of four options, examined on Paper 3 (30 marks each) and Paper 4 Section A (18 marks each) plus a Section B planning question. Bar lengths are in proportion to marks." loading="lazy">
+  <figcaption>The same two options are examined on Paper 3 and Paper 4, with different topic areas on each.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because a school studies only 2 of these 4 options (and both are
@@ -125,6 +131,12 @@ strongest answers note a specific limitation of the chosen approach
 role of social or economic barriers to following medical advice) 
 rather than treating any single explanation as complete on its own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-specialist-options--03-so-apply.webp" width="900" height="810" alt="A patient not following medical advice. A weak answer says they forgot or did not care. A stronger answer names an approach (cognitive: perceived risk; social: family and community attitudes) and evaluates it." loading="lazy">
+  <figcaption>A strong answer applies a named approach and then evaluates it.</figcaption>
+</figure>
+
+
 ## Common mistakes to avoid
 
 - Assuming all four specialist options are studied, rather than
@@ -139,6 +151,12 @@ rather than treating any single explanation as complete on its own.
 - Answering with only common-sense explanation for behaviour (in any
   of the four contexts) instead of applying the specific psychological
   theory the question is testing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-specialist-options--04-so-links.webp" width="900" height="851" alt="Applied context points to a named approach and to a research method; three common mistakes are shown with crosses." loading="lazy">
+  <figcaption>Every option question links a context, a named approach and a research method.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -164,3 +182,9 @@ Cambridge International A Level Psychology 9990 syllabus for 2024,
 
 - [Paper 1: Approaches, Issues and Debates](/resources/a-level-psychology-approaches-issues-and-debates/)
   — the AS Level core that every specialist option builds on
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-specialist-options--02-so-options.webp" width="900" height="855" alt="Four cards name the specialist options and what each studies: Clinical, Consumer, Health, Organisational." loading="lazy">
+  <figcaption>The four specialist options, of which a school teaches two.</figcaption>
+</figure>
+

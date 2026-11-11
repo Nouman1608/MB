@@ -53,6 +53,12 @@ Course links: [Literature course hub](/boards/ib/ib-dp/language-a-literature/) Â
 Not in the brief: the timing, the extract length, what notes you may use, and the assessment
 criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--01-ns57-oral-requirements.webp" width="900" height="1090" alt="One work in the language studied and one work studied in translation both approach a common global issue. Arrows run from each book to a globe, and labels show you analyse voice, imagery, structure and form. Two works in one language are marked as not allowed, and the oral is shown as internally assessed at 30% SL and 20% HL." loading="lazy">
+  <figcaption>The oral pairs one work in the language studied with one in translation around a common global issue.</figcaption>
+</figure>
+
+
 ## Key definitions
 
 - **Global issue** -- a problem or tension that affects many people across different places and
@@ -80,6 +86,17 @@ criteria. The full IB Language A guide does set them: the oral lasts 15 minutes 
 4. Check it against both works. Can you quote three specific choices from each?
 5. If not, change the angle before you change the works.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--02-ns57-oral-issue-tests.webp" width="900" height="870" alt="Four numbered cards list the tests a global issue should pass: it affects many people, it crosses borders, it is visible in local life, and both works engage it through choices you can quote. The fourth is highlighted as the one that matters most." loading="lazy">
+  <figcaption>Test an issue against four questions before you commit to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--03-ns57-oral-narrowing.webp" width="900" height="1030" alt="A funnel narrows Power (too broad to argue) to Censorship (only names a practice) to the angle keep speaking (arguable). The full angle then becomes one question put to both works." loading="lazy">
+  <figcaption>Narrow a theme to an issue and then to an arguable angle both works can answer.</figcaption>
+</figure>
+
+
 ### Choosing the extracts
 
 1. Choose passages where the issue is *shown* through images, voice or structure, not just stated.
@@ -96,6 +113,12 @@ criteria. The full IB Language A guide does set them: the oral lasts 15 minutes 
 4. A comparison that explains the difference, not just the similarity.
 5. Signpost every move aloud.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--06-ns57-oral-structure.webp" width="900" height="730" alt="Two panels compare structures. Work by work runs in six numbered steps from introduction to comparison and conclusion. Point by point moves between work A and work B on each aspect, and needs careful signposting." loading="lazy">
+  <figcaption>Two common oral structures: work by work, or point by point.</figcaption>
+</figure>
+
+
 ## Handling the work in translation
 
 | Usually safe to analyse | Handle with care |
@@ -108,6 +131,12 @@ criteria. The full IB Language A guide does set them: the oral lasts 15 minutes 
 
 Use "in this translation" when a point depends on a single word or sound. Give the translated work
 the same depth as the other one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--04-ns57-oral-translation.webp" width="900" height="900" alt="A bridge links an original and a translation. Events, narrative perspective, imagery, structure and symbols usually carry across; puns, rhyme and alliteration may belong to the translator. The phrase in this translation marks a point that rests on a single word, sound or rhythm." loading="lazy">
+  <figcaption>Build points on what usually survives translation and flag the rest.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -197,6 +226,12 @@ structure if you say it.
 11. A contrast in method (for example poem and prose, or "we" and "he") gives the comparison something
     to explain.
 12. The timing, the extract length, the rules on notes and the assessment criteria.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--05-ns57-oral-paragraph.webp" width="900" height="790" alt="A grid breaks the worked paragraph into claim, evidence, effect and contrast for the poem (a community, we) and the novel (one outsider). Quotations are the short ones used in the lesson." loading="lazy">
+  <figcaption>A paragraph states a claim, gives evidence and effect from each work, then contrasts them.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

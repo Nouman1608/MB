@@ -61,6 +61,12 @@ Then test yourself with the [eSecurity practice questions](/resources/a-level-ca
 - Hardware and software firewalls
 - Regular software updates
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--01-es-confidential.webp" width="900" height="1110" alt="Three panels compare ways to keep personal data confidential. Removing geotags strips GPS metadata from a photo so the place is hidden. Anonymising blacks out names and ID numbers in each record but keeps the data. Aggregating combines 62 individual records into one total, 62 patients aged 40 to 49 attended." loading="lazy">
+  <figcaption>Anonymising removes identifiers from each record, whereas aggregating combines records into totals.</figcaption>
+</figure>
+
+
 ## How data is gathered by unauthorised people
 
 | Attack | Channel | User action needed? | Prevention |
@@ -82,6 +88,12 @@ Then test yourself with the [eSecurity practice questions](/resources/a-level-ca
 
 A firewall **filters traffic**. It does not remove malware and cannot stop a person giving their details to a scammer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--04-es-firewalls.webp" width="900" height="1070" alt="The internet sits above a hardware firewall wall in the router. Allowed traffic passes through to the network; blocked traffic stops at the wall. A desktop, laptop and phone inside the network each have their own software firewall. The hardware firewall protects the whole network at once but costs more to set up; software firewalls control which apps use the network and are needed on every device." loading="lazy">
+  <figcaption>A hardware firewall guards the whole network at the router, while a software firewall runs on each device.</figcaption>
+</figure>
+
+
 ### Advantages and disadvantages (preventing misuse)
 
 | Method | + | − |
@@ -92,6 +104,17 @@ A firewall **filters traffic**. It does not remove malware and cannot stop a per
 | Anonymise/aggregate | Data still usable | Detail lost; re-identification possible |
 | Staff training | Targets the human weakness | Time, cost, must be repeated |
 | Firewalls | Automatic blocking | Wrong rules block genuine traffic or let threats in |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--02-es-lures.webp" width="900" height="950" alt="A three-row table. Phishing is an email pretending to be a trusted organisation with a link to a fake website; check the sender and type the address yourself. Smishing is the same trick by text message; call the official number instead. Vishing is a phone call or voicemail asking for details; hang up and call back on an official number." loading="lazy">
+  <figcaption>Phishing, smishing and vishing all need you to respond to a message or call.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--03-es-pharming.webp" width="900" height="1050" alt="A browser shows a correct web address. The normal route leads to the real site. With pharming, malicious code on your computer or a tampered DNS server diverts you to a fake site even though the address was typed correctly. No link has to be clicked. Check the address bar and the security certificate." loading="lazy">
+  <figcaption>Pharming sends you to a fake site even when you type the correct address.</figcaption>
+</figure>
+
 
 ## 5.2 Malware
 
@@ -140,6 +163,22 @@ A firewall **filters traffic**. It does not remove malware and cannot stop a per
 | Disabling USB ports | Blocks a common entry route | Inconvenient for staff |
 | Air-gapping | Network malware can't reach it | Slow, manual data transfer |
 | Offline backups | Recover without paying ransom | Must be regular and tested; latest work may be lost |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--05-es-malware-types.webp" width="900" height="1030" alt="Seven tiles: trojan looks useful but hides harm; worm copies itself across networks; spyware secretly watches and reports; adware shows unwanted adverts and pop-ups; rootkit gives admin control and hides itself; malicious bot gives remote control and forms a botnet; ransomware locks files and demands payment." loading="lazy">
+  <figcaption>The seven malware types in the topic, each with its key behaviour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--06-es-trojan-worm.webp" width="900" height="1040" alt="Top: a user installs a useful-looking program, which opens a back door on that one computer and does not copy itself to others. Bottom: a worm starts on one computer and copies itself across the network to neighbours in steps 1, 2 and 3 with no user action." loading="lazy">
+  <figcaption>A trojan needs the user to install it; a worm copies itself across the network.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--07-es-prevention.webp" width="900" height="960" alt="Software: signature checks compare files with a database of known malware, so known malware is quarantined but brand-new malware is not recognised. Heuristic checks watch for odd behaviour, so they can flag new malware but may flag safe files. Physical: block USB ports, lock server rooms, air-gap sensitive systems and keep offline backups." loading="lazy">
+  <figcaption>Anti-malware software and physical barriers work together to keep malware out.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

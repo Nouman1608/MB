@@ -68,6 +68,12 @@ So the unit has three strands, each a kind of connection.
 2. **Text to convention.** A text works with, or against, the expected features of its type or form.
 3. **Text beside text.** You place two texts together and build an argument out of the comparison.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--06-inter-strands.webp" width="900" height="890" alt="Intertextuality has three strands. Text to text: one text points to another, shown as a new page pointing back to an earlier page. Text to convention: a text works with, or against, the expected features of its type or form, shown as a page against a dashed template outline. Text beside text: two texts placed together so you can build an argument from the comparison, shown as two pages with arrows both ways." loading="lazy">
+  <figcaption>Three kinds of connection.</figcaption>
+</figure>
+
+
 ## Strand 1: when one text points to another
 
 An **intertext** is any earlier text that a new text depends on for part of its meaning. The main
@@ -109,6 +115,17 @@ compare". The poem claims that honest description is the truer compliment. Its m
 the reader knowing the convention it rejects.
 
 That four-step move -- **name, kept, changed, effect** -- works for any intertextual reference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--07-inter-six-ways.webp" width="900" height="1060" alt="Six ways one text can connect to another. Allusion is a brief, indirect reference. Quotation is the exact words of another text, usually marked. Parody imitates a style to mock it. Pastiche imitates a style without mockery. Adaptation moves a text into a new medium or form. Response answers another text. For every connection, ask what the reference does in this text." loading="lazy">
+  <figcaption>Six ways one text connects to another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--08-inter-four-steps.webp" width="900" height="1030" alt="The four-step move applied to Shakespeare's Sonnet 130 as the lesson describes it. Step 1, name the intertext: love sonnets praised a beloved by comparing her features to sun, coral and snow, the blazon. Step 2, say what is kept: fourteen lines made of three quatrains and a couplet. Step 3, say what is changed: each comparison is reversed, for example &quot;nothing like the sun&quot;. Step 4, explain the effect: the reversal mocks exaggerated praise and claims honest description is the truer compliment." loading="lazy">
+  <figcaption>Name, kept, changed, effect.</figcaption>
+</figure>
+
 
 ## Strand 2: conventions of text types and literary forms
 
@@ -157,6 +174,17 @@ invites you to rewrite your routine.
 **What a strong answer adds:** "happily ever after" promises a feeling, not a fact, so the advert
 persuades without stating anything it could be held to.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--09-inter-follow-bend-break.webp" width="900" height="800" alt="A print advert has five expected features in order: headline, image, brand name, slogan, call to action. Follow: all five appear where readers expect, so attention goes to the message. Bend: a familiar feature is used in an unexpected place or way, shown by the slogan tile shifted out of its slot. Break: an expected feature is missing or reversed, shown by an empty dashed slot with a cross where the image should be." loading="lazy">
+  <figcaption>Follow, bend or break a convention.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--10-inter-hybrid-advert.webp" width="900" height="850" alt="A hybrid text mixing two types. The invented kettle advert borrows fairy-tale conventions: &quot;Once upon a time&quot;, &quot;not far from yours&quot;, a problem, a magical arrival and &quot;happily ever after&quot;. It still has advert conventions: brand name, product name and the slogan &quot;Mornings, rewritten&quot;. The effect is that a small appliance becomes the hero of a story. &quot;Happily ever after&quot; promises a feeling, not a fact, so the advert persuades without stating anything it could be held to." loading="lazy">
+  <figcaption>An advert dressed as a fairy tale.</figcaption>
+</figure>
+
+
 ## Strand 3: comparing texts across the course
 
 The course puts literary and non-literary texts side by side. The individual oral, as the brief
@@ -198,6 +226,12 @@ leaflet names it outright and turns it into a problem the reader can solve in "o
 Notice the shape: a shared point, then "but", then evidence from **both** texts in the same
 sentence. That is comparison woven together, not two separate descriptions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--11-inter-poem-leaflet.webp" width="900" height="1060" alt="The lesson compares the original poem &quot;The Last Bus&quot; and a leaflet from an invented charity, both about loneliness in old age. Purpose: the poem makes the reader feel, the leaflet makes the reader act. Address: the poem uses third person so the reader observes; the leaflet uses &quot;your&quot; so the reader is involved. Method: concrete images against a plain statement and practical offer. Ending: &quot;who waves back&quot; against &quot;Pick up a form&quot;. Below, comparing block by block puts all of one text then all of the other; a woven comparison alternates texts within the same sentence and is better." loading="lazy">
+  <figcaption>One issue, two text types.</figcaption>
+</figure>
+
+
 ## How this unit is assessed
 
 The brief's assessment model has no paper for a single component, so all four assessments can draw
@@ -216,6 +250,12 @@ on this one:
   or subverts its form.
 
 Your teacher will share the assessment criteria for each component.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-intertextuality-connecting-texts--12-inter-weights.webp" width="900" height="870" alt="Two stacked bars show how the final grade is shared. At SL: Paper 1 35 percent, Paper 2 35 percent, individual oral 30 percent. At HL: Paper 1 35 percent, Paper 2 25 percent, individual oral 20 percent, HL essay 20 percent. Paper 1 is a guided analysis of unseen non-literary passages (1.25 hours at SL, 2.25 at HL). Paper 2 is a comparative essay on two literary works (1.75 hours). The oral connects one literary work and one non-literary body of work through a global issue. The HL essay is 1,200 to 1,500 words and HL only." loading="lazy">
+  <figcaption>Where intertextuality is assessed.</figcaption>
+</figure>
+
 
 ## Common errors
 

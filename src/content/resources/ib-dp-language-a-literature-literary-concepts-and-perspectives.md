@@ -80,6 +80,12 @@ you can bring to any text. "London", below, is not about perspective, but asking
 shows something: the speaker walks and listens, and the people who suffer never speak for
 themselves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-literary-concepts-and-perspectives--13-ns57-cp-concepts.webp" width="900" height="1000" alt="Five rows pair a concept with an icon and a question: creativity, perspective, culture, transformation and communication. A footer contrasts a theme, what a text is about, with a concept, a question to ask." loading="lazy">
+  <figcaption>Each concept the brief names is a question to bring to any text.</figcaption>
+</figure>
+
+
 ## Critical perspectives: lenses for reading
 
 A critical perspective is a set of questions a reader brings to a text, shaped by beliefs about what
@@ -100,6 +106,12 @@ Two rules. First, a lens is a tool, not a verdict: "a Marxist reading suggests" 
 a Marxist poem" is not. Second, choose the lens the evidence invites. A poem full of owners and
 workers invites a class reading. Forcing a lens onto a text that gives it no evidence produces a weak
 interpretation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-literary-concepts-and-perspectives--14-ns57-cp-lenses.webp" width="900" height="1120" alt="Seven critical perspectives are shown with an icon and their main question: formalist, reader-response, historical and biographical, Marxist, feminist, postcolonial and ecocritical. A footer says a lens is a tool, not a verdict." loading="lazy">
+  <figcaption>Seven lenses, each a set of questions rather than a verdict.</figcaption>
+</figure>
+
 
 ## Worked example: three readings of Blake's "London"
 
@@ -170,6 +182,17 @@ ideas build. The third reading's instinct survives in a better form: the manacle
 they are made socially. That move, keeping what holds up and dropping what does not, is what the
 brief means by "negotiate meanings for texts".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-literary-concepts-and-perspectives--16-ns57-cp-london-counts.webp" width="900" height="830" alt="A grid counts repeated words in Blake’s London from the text printed in the lesson: every appears seven times in stanzas 1 to 3, mark or marks three times, I hear twice." loading="lazy">
+  <figcaption>Counting repeated words shows the pattern a formalist reading notices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-literary-concepts-and-perspectives--17-ns57-cp-readings.webp" width="900" height="880" alt="A grid tests the formalist, Marxist and historical, and self-imposed limits readings of London on evidence, coverage and context, using the lesson’s wording. The first two merge into a negotiated reading; the third’s instinct survives as manacles that are mental but made socially." loading="lazy">
+  <figcaption>Test each reading, then negotiate a reading that keeps what holds up.</figcaption>
+</figure>
+
+
 ## Building an interpretation in six steps
 
 1. **Notice** a detail: a word, image, pattern or shift.
@@ -179,6 +202,12 @@ brief means by "negotiate meanings for texts".
 5. **Test** the claim against the whole text and a rival reading.
 6. **Write** it clearly and tentatively: "This suggests...", "A reader focused on class might
    argue..., yet...".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-literary-concepts-and-perspectives--15-ns57-cp-steps.webp" width="900" height="910" alt="A six-step staircase: notice a detail, ask the question it raises, pick the lens it invites, claim something arguable, test the claim against the whole text and a rival reading, and write it tentatively." loading="lazy">
+  <figcaption>Six steps take you from a detail to a tested interpretation.</figcaption>
+</figure>
+
 
 ## Evaluating interpretations: five tests
 
@@ -196,6 +225,12 @@ An interpretation is not wrong because it is unusual. It is weak when it fails t
 *Mini example.* Claim: "Blake hates London." Evidence: the speaker never says so. Coverage: his
 sympathy for "the new-born infant's tear" points at systems, not at the city. Improved claim:
 "Blake presents London as a place ruined by those who own and govern it."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-literary-concepts-and-perspectives--18-ns57-cp-tests.webp" width="900" height="1010" alt="Five tests surround an interpretation: evidence, coverage, coherence, context and counter-reading. A weak claim, Blake hates London, is improved to a place ruined by those who own and govern it." loading="lazy">
+  <figcaption>Five tests for your own readings, classmates’ readings and critics.</figcaption>
+</figure>
+
 
 ## Connecting texts through concepts and perspectives
 
@@ -218,6 +253,12 @@ No component assesses lenses by name. Figures below are from the brief.
 | HL essay | 1,200--1,500 words on one work; 20% | Weigh critics' perspectives against your own reading |
 
 Your teacher will share the assessment criteria.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-literary-concepts-and-perspectives--19-ns57-cp-assessed.webp" width="900" height="960" alt="Two bars show the share of the final grade: SL Paper 1 35, Paper 2 35, oral 30; HL Paper 1 35, Paper 2 25, oral 20, HL essay 20. One line per component says how this unit helps." loading="lazy">
+  <figcaption>How concepts and lenses help in each assessed component.</figcaption>
+</figure>
+
 
 ## Common errors
 

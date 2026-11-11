@@ -106,11 +106,33 @@ Sedimentary rocks accumulate on sea beds where the weight of overlying sediment 
 
 Metamorphic rocks form where rock meets new magma flows or lies along plate boundaries, where stress accompanies great earth movements.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--09-rm-three-rock-types.webp" width="900" height="920" alt="Igneous rock forms when magma or lava cools and solidifies; examples are granite and basalt. Sedimentary rock forms when eroded particles settle in layers and are compressed; examples are sandstone, limestone and shale. Metamorphic rock forms when existing rock is altered by heat and pressure without melting; examples are marble (from limestone) and slate (from shale)." loading="lazy">
+  <figcaption>Igneous, sedimentary and metamorphic formation with examples and the not-melted point.</figcaption>
+</figure>
+
+
 ## Minerals and reserves
 
 A **mineral** is a naturally occurring solid with a definite chemical composition and an ordered crystalline structure. Quartz and feldspar are common minerals found in many rocks; haematite (mined for iron) and cassiterite (mined for tin) are examples of minerals worked for the metal they contain. Iron itself is a chemical element, not a mineral, and bauxite, mined for aluminium, is a rock made up of several aluminium-bearing minerals rather than a single mineral. The metals also differ in how common they are: iron and aluminium are among the most abundant elements in the Earth's crust, whereas tin, copper and gold are scarce and are worth mining only where they are concentrated.
 
 A **reserve** is a known deposit that has not yet been mined and could be extracted in future. Reserve figures are estimates, and they change — upwards when new deposits are discovered or when higher prices make lower-grade ore worth working, downwards as extraction proceeds. A resource becomes a reserve only when extraction is economically viable, which is why "how long will supplies last" questions cannot be answered by division alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--10-rm-minerals-metals.webp" width="900" height="830" alt="Three mineral-to-metal pairs: haematite is mined for iron; cassiterite is mined for tin; bauxite, a rock made of several aluminium-bearing minerals, is mined for aluminium. Iron and aluminium are among the most abundant elements in the Earth’s crust; tin, copper and gold are scarce and worth mining only where they are concentrated." loading="lazy">
+  <figcaption>Haematite, cassiterite and bauxite with their metals; iron and aluminium abundant, tin, copper and gold scarce.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--11-rm-resource-reserve.webp" width="900" height="800" alt="A large dashed region labelled resource, all the mineral in the ground, contains a smaller solid region labelled reserve, a known deposit not yet mined that is economically viable to extract. The reserve grows when prices rise or new deposits are found, and shrinks as ore is mined. Schematic." loading="lazy">
+  <figcaption>A reserve is the known, economically viable part of a resource; it grows or shrinks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--12-rm-reserve-lifetime.webp" width="900" height="805" alt="Graph of reserve in million tonnes against years. With 400 million tonnes and constant extraction of 8 million tonnes a year, the reserve falls in a straight line to zero at 50 years. If use rises by 3 percent a year (illustrative) it runs out after about 31 years. If an extra 80 million tonnes is found at year 20 (illustrative) it lasts 60 years. The simple division assumes a constant rate, no new deposits, a fixed economic threshold and no recycling." loading="lazy">
+  <figcaption>400 divided by 8 is 50 years, but rising use or new finds change the answer (the latter two illustrative).</figcaption>
+</figure>
+
 
 ## Methods of extraction
 
@@ -121,11 +143,23 @@ A **reserve** is a known deposit that has not yet been mined and could be extrac
 
 Exploration precedes all of these: geological surveys, remote sensing and test drilling establish whether a deposit is worth working.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--13-rm-mining-methods.webp" width="900" height="940" alt="Two cross-sections. Open-cast (surface) mining removes the overburden, the soil and rock above, from a wide area to dig out a deposit near the surface; it is the cheapest and safest method but strips a wide area bare. Deep (shaft) mining sinks a vertical shaft and drives tunnels to reach a deep deposit; it is costly and hazardous but leaves a small surface footprint. Schematic, not to scale." loading="lazy">
+  <figcaption>Open-cast removes overburden over a wide area; deep mining uses a shaft and tunnels.</figcaption>
+</figure>
+
+
 ## Environmental impacts and management
 
 Extraction causes land degradation and loss of habitat, spoil heaps, subsidence over deep workings, dust and noise, and water pollution from acid mine drainage and from tailings ponds. Processing adds air pollution and high energy demand.
 
 Management strategies include restoring landforms and replanting after extraction, treating waste water before discharge, controlling dust by spraying, using efficient technology to reduce waste, monitoring by legislation and licensing, and — most durably — **recycling metals**, which reduces both new extraction and the energy used in smelting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--14-rm-impacts-responses.webp" width="900" height="900" alt="Five impact-to-response pairs. Land degradation and habitat loss: restore landforms and replant. Water pollution from acid mine drainage and tailings: treat waste water before discharge. Dust: spray to control it. Waste rock and spoil heaps: efficient technology reduces waste. Processing air pollution and high energy use: recycle metals, which means less mining and less smelting energy. Legislation and licensing monitor all of them. The pairings are typical matches, not a fixed list." loading="lazy">
+  <figcaption>Typical pairings of impacts with management responses, plus legislation and licensing.</figcaption>
+</figure>
+
 
 ## Worked example
 

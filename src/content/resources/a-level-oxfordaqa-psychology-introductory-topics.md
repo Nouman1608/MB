@@ -96,6 +96,22 @@ specification, Version 3.1 —
 
 **Resistance** comes from social support and an internal **locus of control**. *Enrichment, not required:* **minority influence** (consistency, commitment and flexibility) is not in the 9685 content either. Questions on this sub-topic will be set on what the specification names: types of and explanations for conformity, Asch's variables, explanations of and situational variables in obedience, and resistance through social support and locus of control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--08-psy-conformity-levels.webp" width="900" height="1030" alt="Three rows, each showing a person who says &quot;Agree&quot; in a speech bubble while a thought bubble shows what they think. Compliance: public agreement only, the person thinks No. Identification: adopting the group view while with the group, thinks Yes. Internalisation: genuine private acceptance, thinks Yes. Two boxes below give the explanations: normative social influence, the desire to be liked, and informational social influence, the desire to be right." loading="lazy">
+  <figcaption>Conformity occurs at three levels (compliance, identification, internalisation) and is explained by the wish to be liked or to be right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--09-psy-asch-findings.webp" width="900" height="920" alt="Three small charts with no numeric values. First, a curve of conformity against group size that rises steeply and levels off at about a group size of three. Second, two bars: conformity is high when everyone agrees and falls sharply when one confederate dissents. Third, two bars: conformity is lower for an easy task and higher for a harder task." loading="lazy">
+  <figcaption>In Asch's studies conformity rises with group size up to about three, falls sharply with a dissenter and rises with task difficulty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--10-psy-milgram-results.webp" width="900" height="800" alt="A grid of 100 small person icons, 65 shaded and 35 unshaded, showing that 65 percent of participants continued to 450 volts. A side list gives four situational variables that reduced obedience: the victim being closer, a less prestigious location, a disobedient peer present, and a reduction in the authority figure's apparent status." loading="lazy">
+  <figcaption>Milgram found 65% continued to 450 volts; obedience fell with proximity of the victim, a less prestigious location, a disobedient peer and lower authority status.</figcaption>
+</figure>
+
+
 ## Memory
 
 The **multi-store model** separates sensory, short-term (5-9 items, 18-30 seconds, acoustic) and long-term stores (unlimited, lifetime, semantic). The **working memory model** replaces the unitary short-term store with a central executive directing a phonological loop, visuo-spatial sketchpad and episodic buffer — supported by dual-task studies.
@@ -106,6 +122,17 @@ Explanations for forgetting, such as interference and retrieval failure, are not
 
 **Eyewitness testimony** is distorted by misleading information — leading questions (Loftus and Palmer) and post-event discussion — and by anxiety, with the weapon focus effect. The **cognitive interview** improves accuracy through context reinstatement, report everything, reverse order and change of perspective.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--11-psy-multi-store.webp" width="900" height="780" alt="Three boxes in a row joined by arrows: sensory store, short-term store, long-term store. The short-term store holds 5 to 9 items for 18 to 30 seconds and codes acoustically; a row of nine slots shows five filled. The long-term store has unlimited capacity, lasts a lifetime and codes semantically. Below, a dashed group shows long-term memory divides into three types: episodic, semantic and procedural." loading="lazy">
+  <figcaption>Multi-store model: sensory, short-term (5-9 items, 18-30 seconds, acoustic) and long-term stores (unlimited, lifetime, semantic); long-term memory has three types.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--12-psy-working-memory.webp" width="900" height="860" alt="At the top, a single grey short-term store box is replaced by working memory. Below, a central executive circle directs three boxes: the phonological loop, the visuo-spatial sketchpad and the episodic buffer. A banner at the bottom says the model is supported by dual-task studies." loading="lazy">
+  <figcaption>The working memory model replaces the single short-term store with a central executive directing three components.</figcaption>
+</figure>
+
+
 ## Psychopathology
 
 **Definitions of abnormality** — statistical infrequency, deviation from social norms, failure to function adequately, and deviation from ideal mental health — each fail alone: social norms vary by culture and era, and statistical infrequency alone would misclassify high intelligence as abnormal.
@@ -113,6 +140,17 @@ Explanations for forgetting, such as interference and retrieval failure, are not
 The specification names exactly **two** disorders in this unit -- phobias and depression -- illustrating the explanation-and-treatment pattern the exam expects. A **phobia** has defining characteristics of persistent, excessive fear of a specific object or situation, avoidance behaviour, and a response disproportionate to the actual danger; it is explained by the **two-process model**, in which classical conditioning acquires the fear and operant conditioning maintains it through avoidance, and is treated with **systematic desensitisation** (pairing **relaxation** with a graduated **hierarchy** of feared situations, working up from least to most frightening while staying relaxed) or **flooding**. **Depression** has defining characteristics of persistent low mood, loss of interest or pleasure in usual activities, and disturbed sleep, appetite or energy levels; it is explained cognitively through Beck's negative triad or Ellis's ABC model, and treated with **cognitive behaviour therapy (CBT)**, which works by **challenging irrational or negative thoughts** and replacing them with more balanced ones. The two-process model explains its own treatment directly — avoidance is negatively reinforced by the reduction in anxiety it brings, so exposure *without* avoidance is what breaks the cycle that maintains the phobia.
 
 OCD is not named in this AS/A-level unit (it names only phobias and depression) -- it belongs instead to the International GCSE (9218) specification, where its required therapy is cognitive behaviour therapy rather than any drug treatment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--13-psy-two-process.webp" width="900" height="880" alt="A flow diagram. Classical conditioning acquires the fear. Then a cycle of three boxes: avoid the feared thing, anxiety falls, avoidance more likely. This is operant conditioning, which maintains the fear, because avoidance is negatively reinforced by the reduction in anxiety. A cross on the arrow from anxiety falls back to avoidance shows that exposure without avoidance breaks the cycle." loading="lazy">
+  <figcaption>Two-process model: classical conditioning acquires the fear; operant conditioning maintains it through negatively reinforced avoidance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--14-psy-systematic-desensitisation.webp" width="900" height="810" alt="A staircase of five steps rising from least frightening on the left to most frightening on the right, with a smiling relaxed face on every step. An arrow underneath is labelled work up, staying relaxed. The picture shows relaxation paired with a graduated hierarchy of feared situations." loading="lazy">
+  <figcaption>Systematic desensitisation pairs relaxation with a graduated hierarchy of feared situations, working up from least to most frightening.</figcaption>
+</figure>
+
 
 ## Worked example
 

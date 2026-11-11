@@ -96,6 +96,12 @@ zonation; residential segregation, its causes and processes
 covering both a shanty town (squatter settlement) in an LIC or MIC and
 the provision of infrastructure (power or transport) for a city
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--03-human-paper-fit.webp" width="900" height="780" alt="Two stacked bars. The AS Level award is Paper 1 (50 percent) plus Paper 2 (50 percent). The full A Level is Paper 1 (25 percent), Paper 2 (25 percent) and Papers 3 and 4, the options, making up the other 50 percent. Paper 2 is highlighted: compulsory, 1 hour 30 minutes, 60 marks." loading="lazy">
+  <figcaption>Paper 2 is compulsory and worth half the AS award and a quarter of the full A Level.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The three topics build on each other — population change (Topic 4) sets
@@ -120,6 +126,12 @@ levels, and having only high-income-country examples (or only
 low-income-country examples) leaves you unable to answer that kind of
 question well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--04-human-case-studies.webp" width="900" height="920" alt="A checklist of the five case studies the syllabus requires: a country's population policy (4.4), an international migration stream (5.4), a rural settlement or area (6.1), a shanty town in an LIC or MIC (6.4) and power or transport provision for a city (6.4). Each row has three ticks: a named place, real data and an evaluation. Below, three tiles for LIC, MIC and HIC remind students to spread examples across income groups." loading="lazy">
+  <figcaption>Prepare each case study with a named place, real data and a judgement of how well it worked, and spread examples across income groups.</figcaption>
+</figure>
+
+
 ## Assessment objectives
 
 Paper 2 is weighted identically to Paper 1: 30% AO1 (knowledge of terms,
@@ -133,8 +145,30 @@ describes what a policy or scheme did, without assessing how well it
 worked or whose interests it served, is answering AO1 when the question
 is very often testing AO4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--02-human-ao-weights.webp" width="900" height="920" alt="Horizontal bars show Paper 2 mark weightings: AO1 knowledge 30 percent, AO2 understanding and applying 30 percent, AO3 interpreting data 28 percent and AO4 evaluating 12 percent, totalling 100. A callout says the three management case studies (4.4, 5.4, 6.4) earn their marks in AO4, by judging how well a scheme worked and for whom, not just describing it." loading="lazy">
+  <figcaption>AO4 is only 12% of the marks, but it is where the management case studies earn theirs.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Cambridge International AS & A Level Geography (9696) syllabus for 2025
 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664556-2025-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--01-human-three-topics.webp" width="900" height="950" alt="Three bands for Population (4), Migration (5) and Settlement dynamics (6), each with four sub-topics 4.1 to 6.4. Arrows show that population change sets up why people move, and that both feed into settlement change. Star markers show the sub-topics that need a named case study: 4.4, 5.4, 6.1 and 6.4." loading="lazy">
+  <figcaption>The three Paper 2 topics build on each other, and four sub-topics call for a named case study.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--05-human-migration-types.webp" width="900" height="760" alt="A tree. Migration (movements shorter than one year excluded) splits into internal and international. Internal migration has four types: rural to urban, urban to rural, urban to urban, and intra-urban movement within a city. International migration is voluntary (for example economic migration) or forced (for example refugee flows)." loading="lazy">
+  <figcaption>Internal migration stays inside one country; international migration crosses borders and may be voluntary or forced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--06-human-stepped-migration.webp" width="900" height="830" alt="Four rising steps show an illustrative settlement hierarchy: village, small town, large town and city. A person moves up one step at a time (stepped migration) with three short arrows. A single long dashed arrow from village to city shows a direct rural to urban move for comparison." loading="lazy">
+  <figcaption>In stepped migration people move up the settlement hierarchy one level at a time, rather than going straight to the largest city.</figcaption>
+</figure>
+

@@ -80,6 +80,12 @@ studies reward close, detailed knowledge of a short, specific period -- confirm 
 your revision plan is actually built around before assuming the same approach works for both halves of
 Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--02-sn-time-spans.webp" width="900" height="800" alt="The three thematic studies are long bars that each run from their start (c790, c1000 or c1170) to the present day. The four depth studies are tiny bars of 20 to 40 years. All are drawn to the same scale, so thematic studies trace change over centuries while depth studies are close focus." loading="lazy">
+  <figcaption>Thematic studies span centuries; depth studies cover a short period.</figcaption>
+</figure>
+
+
 ## How to approach the thematic study
 
 Each thematic study is explicitly built around a small set of recurring factors -- for AA Health and the
@@ -91,6 +97,12 @@ interacted, not just naming the most obvious single cause. Because these are lon
 build a simple chronological anchor list of major turning points (for AA, this might be the Black Death,
 Jenner's vaccination, the germ theory revolution, and the creation of the NHS) so you can place any
 detail you are asked about within the right part of the course.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--03-sn-factors.webp" width="900" height="1010" alt="Four turning points from the Health and the People study are placed in order. For each, ask which of the seven named factors explains it, and dotted lines show that factors can work together, which the specification rewards." loading="lazy">
+  <figcaption>For each turning point, ask which factors explain it and how they interact.</figcaption>
+</figure>
+
 
 ## How to approach the depth study, including the historic environment
 
@@ -105,6 +117,12 @@ BC Elizabethan England, for instance, expects students to connect the religious 
 plots to the political question of the succession, not to revise "religion" and "politics" as separate,
 unconnected topics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--04-sn-depth-parts.webp" width="900" height="800" alt="A depth study has three content parts and a fourth historic environment part, shown here for Elizabethan England. Arrows show part 4 connects back to parts 1 to 3. The religious threat from Catholic plots is joined to the political question of the succession." loading="lazy">
+  <figcaption>A depth study has three content parts plus a historic environment part that links back to them.</figcaption>
+</figure>
+
+
 ## Worked example: connecting a historic environment site to its depth study
 
 Whichever specific site your school has been assigned, a reliable structure for a historic-environment
@@ -115,6 +133,12 @@ the site reveals about the period's values or society (for example, what the sca
 reveals about how the Normans maintained control over a conquered population). Naming the feature
 without connecting it back to the wider depth study content is the single most common way marks are lost
 on this component.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--05-sn-site-answer.webp" width="900" height="770" alt="Three steps: name a key feature (a castle’s defensive design), link it to the period (the Harrying of the North or a revolt of 1067 to 1075), then say what the site reveals (how the Normans kept control). Naming the feature without linking it back loses marks." loading="lazy">
+  <figcaption>Name the feature, link it to the period, then say what it reveals.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -157,3 +181,9 @@ AQA GCSE History (8145), Paper 2 subject content --
 verified 2026-09-05. Always confirm your centre's specific chosen options, and the current examination
 series' specified historic environment site, with your teacher, since schools select from this full list
 independently and sites are republished annually.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--01-sn-paper-shape.webp" width="900" height="1030" alt="Paper 2 has two sections. Section A offers three thematic studies (AA, AB, AC) and Section B offers four British depth studies (BA to BD). You choose one from each, and every Section B option includes a historic environment part worth about ten per cent of the course." loading="lazy">
+  <figcaption>Choose one option from each section of Paper 2.</figcaption>
+</figure>
+

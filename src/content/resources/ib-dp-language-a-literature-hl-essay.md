@@ -71,6 +71,12 @@ and interpret** a work and "contexts in which texts are written and/or received"
 evaluate** "ways in which the use of language creates meaning"; and **communicate** "ideas in clear,
 logical and persuasive ways".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-hl-essay--11-hl-at-a-glance.webp" width="900" height="936" alt="The HL essay is written coursework of 1,200 to 1,500 words on one work studied, for higher level only. A bar chart compares the share of the final grade at standard level and higher level. Paper 2 falls from 35 percent to 25 percent. The individual oral falls from 30 percent to 20 percent. The essay is 20 percent at higher level and does not exist at standard level, so the 10 points lost from each of Paper 2 and the oral make up the essay's 20 percent." loading="lazy">
+  <figcaption>At HL the essay is worth 20% of the final grade, taking 10 points from Paper 2 and 10 from the individual oral.</figcaption>
+</figure>
+
+
 ## Choosing the work
 
 You write on one literary work your class studied. The examples on this page use Kate Chopin's short
@@ -114,6 +120,12 @@ comparison. Comparison is Paper 2's job.
   very elixir of life" give an hour in a bedroom the scale of myth, and what happens to that scale
   in the final line?*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-hl-essay--13-hl-three-ways-in.webp" width="900" height="944" alt="One work at the top, Chopin's &quot;The Story of an Hour&quot;, branches into three kinds of question, one per area of exploration. Readers, writers and texts asks how the narration moves in and out of Louise's thoughts. Time and space asks how a reader in 1894 and a reader today might judge her wish to &quot;live for herself&quot; differently. Intertextuality: connecting texts asks how allusions give an hour in a bedroom the scale of myth. A note says that on one work, connecting texts means the work's own conventions and allusions; comparison is Paper 2's job." loading="lazy">
+  <figcaption>Each area of exploration suggests a different kind of question about the same single work.</figcaption>
+</figure>
+
+
 ### Worked example: narrowing a question
 
 **Start:** "I want to write about marriage in the story."
@@ -141,6 +153,17 @@ knows it was the loss of that joy, not the joy itself, that killed her.
 That thesis gives three body sections: the heart as a sign of confinement; the body's awakening by
 the window; and the final diagnosis as a misreading the reader is asked to correct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-hl-essay--12-hl-topic-to-inquiry.webp" width="900" height="977" alt="Three cards narrow from top to bottom. A topic, &quot;Freedom in The Story of an Hour&quot;, only names an area. A better question is &quot;How does Louise feel about her husband's death?&quot; The line of inquiry is the narrowest and names three things: a feature, the heart as image and diagnosis; a claim to test, that it becomes a judgement on marriage; and a tension, the doctors' verdict against the reader's." loading="lazy">
+  <figcaption>A topic names an area; a line of inquiry asks something arguable about it and points at the writer's methods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-hl-essay--14-hl-narrowing.webp" width="900" height="1111" alt="Four numbered steps. Step 1: collect evidence before the question; four logged moments about the heart or body: a heart trouble, physical exhaustion, pulses beat fast, and the joy that kills. Step 2: find the pattern; the heart is weak when she is a wife and strong when she imagines living alone, shown by a small heart and a large heart. Step 3: ask the question the pattern raises: why does the final diagnosis sound so confident when the reader knows more than the doctors? Step 4: write a working thesis that gives three body sections: the heart as a sign of confinement, the body's awakening by the window, and the final diagnosis as a misreading." loading="lazy">
+  <figcaption>Collect evidence, find the pattern, ask the question it raises, then write a thesis that gives three body sections.</figcaption>
+</figure>
+
+
 ## Testing the line of inquiry
 
 Before you draft, put the question through three tests.
@@ -152,6 +175,12 @@ Before you draft, put the question through three tests.
 - **Does it fit?** If each body section needs its own background, the question is too wide.
 
 If a question fails, change the question, not the evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-hl-essay--15-hl-three-tests.webp" width="900" height="907" alt="Three tests for a line of inquiry. Test 1, could someone disagree: &quot;Chopin shows Louise is unhappy&quot; is a fact, so no; &quot;the final line asks us to side against the doctors&quot; can be argued both ways, so it is worth an essay. Test 2, is there enough evidence: count your logged moments; fewer than six usually means the question is too narrow or on the wrong work. Test 3, does it fit: if each body section needs its own background, the question is too wide. If a question fails, change the question, not the evidence." loading="lazy">
+  <figcaption>Check that the question is arguable, has at least six moments of evidence and is narrow enough for 1,500 words.</figcaption>
+</figure>
+
 
 ## Research and evidence
 
@@ -219,6 +248,12 @@ own work.
 The claim is about craft, each quotation is embedded and analysed, and the ending links back to the
 thesis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-hl-essay--16-hl-word-budget.webp" width="900" height="1054" alt="A column shows a worked budget for a 1,400-word target: introduction 150 words, three body sections of 370 words each, conclusion 140 words, adding to 1,400, which leaves 100 words of room under the 1,500 maximum. Below, six passes to draft and revise in order: skeleton, body first, argument, evidence, precision, length." loading="lazy">
+  <figcaption>Budget the words before writing, then revise in separate passes; cut summary before analysis.</figcaption>
+</figure>
+
+
 ## Referencing
 
 - **Quote exactly.** Keep the spelling, punctuation and capitals of your edition. Show a cut with an
@@ -230,6 +265,12 @@ thesis.
 - **Give a location** in the style your school uses, such as MLA.
 - **List sources** at the end: the work itself and every secondary source you used.
 - **Credit ideas as well as words.** A paraphrased critic still needs a citation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-hl-essay--17-hl-quote-exactly.webp" width="900" height="1037" alt="Three referencing habits. First, quote exactly: Chopin writes &quot;no one to live for her&quot;, and dropping one word, &quot;her&quot;, changes the meaning you analyse. Second, show your edits: an ellipsis shows a cut and square brackets show a word you add. Third, embed quotations in your own grammar, for example she whispers &quot;free, free, free!&quot; as if learning a new word, rather than leaving a quotation standing alone as a sentence. Keep quotations short, about three to eight words." loading="lazy">
+  <figcaption>Quote word for word, mark cuts and additions, embed short quotations in your own sentences and credit every source.</figcaption>
+</figure>
+
 
 ## Common errors
 

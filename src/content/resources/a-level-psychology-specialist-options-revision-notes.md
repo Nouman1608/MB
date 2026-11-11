@@ -52,6 +52,12 @@ wrong two.
 Each option applies the **core approaches** (Biological, Cognitive,
 Learning, Social) from AS Paper 1 to a specific applied context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-specialist-options--02-so-options.webp" width="900" height="855" alt="Four cards name the specialist options and what each studies: Clinical, Consumer, Health, Organisational." loading="lazy">
+  <figcaption>The four specialist options, of which a school teaches two.</figcaption>
+</figure>
+
+
 ## What makes a strong answer in each option
 
 | Option | Strong-answer skill |
@@ -68,6 +74,12 @@ applied to that context** — this is tested as consistently as in the
 core Paper 1/2 content. Be ready to **suggest and evaluate a research
 method** for studying a question within your chosen option, not just
 recall the option's theoretical content in isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-specialist-options--04-so-links.webp" width="900" height="851" alt="Applied context points to a named approach and to a research method; three common mistakes are shown with crosses." loading="lazy">
+  <figcaption>Every option question links a context, a named approach and a research method.</figcaption>
+</figure>
+
 
 ## Worked example: applying an approach in Health Psychology
 
@@ -89,6 +101,12 @@ Evaluation:     Note a specific limitation, e.g. a purely cognitive
 
 This apply-then-evaluate structure transfers directly to Consumer and
 Organisational scenario questions too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-specialist-options--03-so-apply.webp" width="900" height="810" alt="A patient not following medical advice. A weak answer says they forgot or did not care. A stronger answer names an approach (cognitive: perceived risk; social: family and community attitudes) and evaluates it." loading="lazy">
+  <figcaption>A strong answer applies a named approach and then evaluates it.</figcaption>
+</figure>
+
 
 ## Second worked example: applying a theory in Organisational Psychology
 
@@ -141,6 +159,12 @@ teaches, since a past paper covering an option your school did not
 teach (e.g. Consumer Psychology when your course actually covers
 Clinical and Health) provides no useful practice material at all,
 however well-written the questions are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-specialist-options--01-so-structure.webp" width="900" height="886" alt="AS core (four approaches plus Research Methods) feeds a choice of two of four options, examined on Paper 3 (30 marks each) and Paper 4 Section A (18 marks each) plus a Section B planning question. Bar lengths are in proportion to marks." loading="lazy">
+  <figcaption>The same two options are examined on Paper 3 and Paper 4, with different topic areas on each.</figcaption>
+</figure>
+
 
 ## Worked example: applying a concept in Consumer Psychology
 

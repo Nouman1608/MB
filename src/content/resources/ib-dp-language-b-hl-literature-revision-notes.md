@@ -54,6 +54,12 @@ Course links: [Language B hub](/boards/ib/ib-dp/language-b/) ·
 
 The brief does not give the oral's format, timings or criteria. Your teacher will share them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--06-hl-lit-oral-stimulus.webp" width="900" height="1010" alt="Two cards contrast the SL oral stimulus, a visual image, with the HL stimulus, an excerpt from one of two literary works. A ring marks the individual oral as 25 percent, worth 30 marks. A panel notes the two works were originally written in the target language." loading="lazy">
+  <figcaption>At HL the oral starts from an excerpt of one of your two literary works.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Meaning |
@@ -93,6 +99,27 @@ The brief does not give the oral's format, timings or criteria. Your teacher wil
 > 4. Theme map: which passages answer which possible question.
 > 5. Target-language phrase bank for discussing literature, practised aloud.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--01-hl-lit-reading-passes.webp" width="900" height="1100" alt="Three numbered cards show reading a literary work in three passes: for the story, for detail with a dictionary, and for 10 to 12 key passages. Below are icons for a reading log, a character map and a timeline." loading="lazy">
+  <figcaption>Read each work three times, each time with a different job, and keep a log, a character map and a timeline.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--02-hl-lit-extract-method.webp" width="900" height="960" alt="Five numbered cards in order: Locate, Summarise, Analyse, Connect, Link. The Summarise card is gold and marked to keep short. The last three cards are teal because they are where you show understanding." loading="lazy">
+  <figcaption>Use the five steps in order, and keep the summary to one or two sentences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--03-hl-lit-feature-quote-effect.webp" width="900" height="1010" alt="A chain of three boxes shows a feature (simile), a short quotation, and its effect. A warning says naming the feature alone earns nothing. Eight tiles list the features to look for, each with one question." loading="lazy">
+  <figcaption>Name a feature, quote a few words, then explain what the reader understands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--04-hl-lit-worked-extract.webp" width="900" height="1000" alt="A page of text with four highlighted passages, labelled A to D, each linked to a card. Each card names a feature, gives a short quotation and states its effect: figurative language, dialogue, setting and simile." loading="lazy">
+  <figcaption>Each feature is paired with a short quotation and its effect.</figcaption>
+</figure>
+
+
 ## Theme links at a glance
 
 | Theme | Guiding principle (brief) | Recommended topics | What to look for in a work |
@@ -109,6 +136,12 @@ Possible questions to keep ready:
   and regulations play in the formation of a society?"
 - **Sharing the planet:** "What environmental and social issues present challenges to the world, and
   how can these challenges be overcome?"; "What challenges and benefits does globalization bring?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--05-hl-lit-theme-lenses.webp" width="900" height="1010" alt="A box labelled Your literary work links to three theme cards. Each card gives one possible question from the brief and what to look for in the work. A note says a work can link to more than one theme." loading="lazy">
+  <figcaption>Use a theme’s possible question as a lens, and look for the signs it names.</figcaption>
+</figure>
+
 
 ## Worked reminder
 

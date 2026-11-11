@@ -109,6 +109,12 @@ writing compound conditions that combine a relational operator (3.2.4)
 with a Boolean operator (3.2.5), since this combination, rather than
 either in isolation, is what most exam questions actually test.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--08-three-constructs.webp" width="900" height="810" alt="Three small flow diagrams: sequence runs steps in order, selection branches to path A or path B, iteration loops a step back to a test. FOR is for a known count and WHILE for an unknown count." loading="lazy">
+  <figcaption>Sequence, selection and iteration are the building blocks of every algorithm.</figcaption>
+</figure>
+
+
 ## Worked example: nested iteration and selection
 
 ```
@@ -134,6 +140,12 @@ that — is a more reliable technique than trying to trace execution line
 by line on a first read. Notice what makes it traceable: `HighScore` is
 initialised before the loops, `Score` is input inside the `FOR` loop, and
 `Again` is updated inside the `WHILE` loop, so the outer loop can end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--10-nested-while-for-if.webp" width="900" height="920" alt="The worked example is drawn as nested coloured boxes: a WHILE loop box containing a FOR loop box containing an IF box. Example inputs 3, 9, 4, 7, 2 give a HighScore of 9." loading="lazy">
+  <figcaption>Read nested code from the outside in: WHILE, then FOR, then IF.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -192,3 +204,19 @@ later sections.
 
 OxfordAQA International GCSE Computer Science (9210) specification —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/02/oxfordaqa-international-gcse-computerscience-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--07-five-data-types.webp" width="900" height="880" alt="Five cards show the data types integer, real, Boolean, character and string, each with an example value and a small picture. A note says some languages call real float." loading="lazy">
+  <figcaption>The five data types and their general names used in the exam.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--09-div-mod-groups.webp" width="900" height="680" alt="Eleven counters form five pairs and one single counter. DIV counts the five whole groups, MOD gives the one left over, so 11 = 2 x 5 + 1." loading="lazy">
+  <figcaption>DIV gives the whole-number quotient and MOD gives the remainder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--11-and-or-truth.webp" width="900" height="800" alt="A table evaluates the condition score &lt; 100 AND livesLeft &gt; 0 for four example cases, showing each part and the AND and OR results. AND is True only when both parts are True; OR is True when at least one is." loading="lazy">
+  <figcaption>AND requires every part true; OR requires only one.</figcaption>
+</figure>
+

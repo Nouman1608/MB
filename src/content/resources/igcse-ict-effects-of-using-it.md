@@ -49,6 +49,12 @@ unauthorised access. Answering a question on this subtopic well means
 naming a specific dimension (not just "it's good" or "it's bad") and
 explaining the mechanism behind the effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-effects-of-using-it--14-home-five-dimensions.webp" width="900" height="850" alt="A smart home at the centre with five spokes: lifestyle, leisure time, physical fitness, security of data and social interaction. Each is a dimension in which smart devices can have positive and negative effects." loading="lazy">
+  <figcaption>Answer home-device questions by naming one of the five dimensions.</figcaption>
+</figure>
+
+
 ## 5.1 Microprocessor-controlled devices in transport
 
 You need to know the positive and negative effects of microprocessors
@@ -61,6 +67,12 @@ productively, while potential negative effects include job displacement
 for professional drivers, new safety questions around a system's
 decision-making in unusual situations, and the data-security risk of a
 vehicle's control systems being accessed without authorisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-effects-of-using-it--16-autonomous-vehicle-effects.webp" width="900" height="800" alt="A self-driving car above two lists. Positives: less human error in driving and productive use of travel time. Negatives: job displacement for professional drivers, safety questions in unusual situations, and the data-security risk of control systems being accessed without authorisation." loading="lazy">
+  <figcaption>Autonomous vehicles bring both safety and security trade-offs.</figcaption>
+</figure>
+
 
 ## 5.2 Potential health problems from prolonged IT use
 
@@ -81,6 +93,17 @@ issue to its specific cause and a specific, practical prevention
 strategy, rather than a single generic answer such as "take breaks"
 applied identically to every health issue -- each issue has causes and
 countermeasures worth stating distinctly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-effects-of-using-it--17-healthy-workstation.webp" width="900" height="1050" alt="A seated person at a desk with seven numbered preventions: screen at eye level and adjustable chair (back), ergonomic keyboard and mouse (RSI), anti-glare screen and good lighting (eyes), regular breaks (RSI, eyes, headaches) and staying hydrated (headaches)." loading="lazy">
+  <figcaption>Each prevention strategy targets a specific health issue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-effects-of-using-it--18-health-cause-prevention.webp" width="900" height="960" alt="RSI: repeated small movements, prevented by regular breaks and ergonomic devices. Back problems: poor posture or unsuitable chair or desk, prevented by an adjustable chair and screen at eye level. Eye problems: prolonged focus, poor lighting, glare, prevented by looking away, anti-glare screens and good lighting. Headaches: eye strain, glare, poor posture, dehydration, prevented by breaks, adjusting brightness and contrast, and hydration." loading="lazy">
+  <figcaption>Link each named issue to its own cause and its own prevention.</figcaption>
+</figure>
+
 
 ## A worked example: smart home heating
 
@@ -103,6 +126,12 @@ all five named dimensions like this, rather than jumping between
 unrelated examples, is good practice for the "discuss the effects of"
 style of question this subtopic favours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-effects-of-using-it--15-smart-thermostat-scale.webp" width="900" height="870" alt="A negative-to-positive scale for each dimension. Lifestyle is positive, leisure time modestly positive, physical fitness largely neutral, security of data leans negative because a networked device is a potential target, and social interaction is largely unaffected." loading="lazy">
+  <figcaption>One device examined across all five named dimensions.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 For 5.1, practise structuring an answer around the specific named
@@ -122,6 +151,12 @@ where the question asks for one, since Cambridge's "discuss" and
 "evaluate" command words in this topic specifically look for balanced
 consideration rather than a one-sided answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-effects-of-using-it--19-discuss-answer-steps.webp" width="900" height="900" alt="Four steps: name the dimension, explain the mechanism, state both sides, reach a brief reasoned judgement. Discuss and evaluate command words reward balance." loading="lazy">
+  <figcaption>Balanced, specific answers earn the marks in this topic.</figcaption>
+</figure>
+
+
 ## Why this topic sits where it does
 
 Topic 5 acts as a bridge between the technical topics before it
@@ -134,6 +169,12 @@ toward reasoned discussion of trade-offs, which is worth recognising
 explicitly when revising so you approach 5.1 and 5.2 questions with
 the right kind of answer structure rather than trying to recall a
 single "correct" fact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-effects-of-using-it--20-topic-5-bridge.webp" width="900" height="890" alt="Topics 1 to 4 ask how technology works; Topic 5 asks what happens to people and society, needing reasoned discussion of trade-offs; Topic 6 covers applied real-world ICT systems." loading="lazy">
+  <figcaption>Topic 5 shifts from how technology works to its effects on people.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

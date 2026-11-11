@@ -74,6 +74,12 @@ movements that responded to them
 1920–41 — the causes of the 1929 Wall Street Crash, the resulting
 economic depression, and Franklin D. Roosevelt's New Deal response
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--13-wh-usa-rotation.webp" width="900" height="732" alt="A grid of the three American Option topics against 2027, 2028 and 2029. Gold marks Paper 1 (Historical Sources), teal marks Paper 2 (Outline Study). The Gilded Age is Paper 1 in 2027, the Great Crash and New Deal in 2028, the Civil War and Reconstruction in 2029." loading="lazy">
+  <figcaption>Each topic is on Paper 1 once in three years and on Paper 2 in the other two.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The Civil War and Reconstruction (Section 4) now spans the full run
@@ -117,6 +123,17 @@ describing events in isolation from their consequences; because Paper
 evidence-based arguments on each of these three topics is more
 valuable exam preparation than memorising a timeline alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--16-wh-usa-gilded-reforms.webp" width="900" height="810" alt="Three Gilded Age problems, inequality, corruption, and poor urban and working conditions, each pointing to a dashed card for a named Progressive Era reform or law." loading="lazy">
+  <figcaption>Connect each Gilded Age problem to a specific named Progressive reform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--17-wh-usa-crash-buildup.webp" width="900" height="850" alt="Three wedges widen from 1920 to 1929 and meet the 1929 Crash: speculative excess, weak banking and agriculture, and the limits of 1920s prosperity. Below: Wall Street Crash, Great Depression, New Deal. Wedge widths are illustrative." loading="lazy">
+  <figcaption>The 1929 Crash grew out of weaknesses that built up through the 1920s.</figcaption>
+</figure>
+
+
 ## Worked example: weighing causes of the Civil War
 
 A typical exam question asks candidates to assess which factor was
@@ -133,6 +150,12 @@ argument rather than a general assertion. This kind of weighed,
 evidence-based judgement, rather than a balanced list with no
 conclusion, is what both Paper 1 and Paper 2 reward most highly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--15-wh-usa-civil-war-causes.webp" width="900" height="1070" alt="Three overlapping circles: slavery spreading into new territories, North-South economic differences, and state versus federal power. Gold arrows show the example argument that slavery shaped the other two. The circles lead to the Civil War and then Reconstruction." loading="lazy">
+  <figcaption>The three causes of the Civil War interlock, with slavery’s expansion shaping the other two in the lesson’s example argument.</figcaption>
+</figure>
+
+
 ## Common mistakes to avoid
 
 - Treating the Civil War's causes as a simple checklist rather than
@@ -147,6 +170,12 @@ conclusion, is what both Paper 1 and Paper 2 reward most highly.
 - Treating "the New Deal" as one uniform policy rather than a set of
   distinct measures aimed at relief, recovery and reform, each worth
   evaluating on its own terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--18-wh-usa-new-deal.webp" width="900" height="850" alt="The Great Depression leads to Roosevelt’s New Deal, which splits into relief, recovery and longer-term reform. Each group holds named measures to judge on their own terms." loading="lazy">
+  <figcaption>The New Deal was a set of measures aimed at relief, recovery and longer-term reform.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -169,3 +198,9 @@ Cambridge International AS & A Level History 9489 syllabus for
 
 - [European Option: Modern Europe, 1774-1924](/resources/a-level-world-history-modern-europe-1750-1921/)
   — the alternative AS Level route through 9489
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--14-wh-usa-timeline.webp" width="900" height="760" alt="A timeline from 1820 to 1941 with three bars: Civil War and Reconstruction 1820-77, Gilded Age and Progressive Era 1870-1920, and Great Crash, Depression and New Deal 1920-41. The first two overlap for seven years." loading="lazy">
+  <figcaption>The Civil War and Gilded Age topics overlap by seven years, 1870-77.</figcaption>
+</figure>
+

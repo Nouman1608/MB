@@ -69,6 +69,12 @@ measured-quantity table for revision, e.g. a moisture sensor in an
 automated plant-watering system, or a pH sensor in a swimming-pool
 monitoring system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-hardware--13-sensors.webp" width="900" height="880" alt="Two scenes. In an automated plant watering system, a moisture sensor pushed into the soil of a pot reads the moisture in the soil and sends data to a computer. In a swimming pool monitoring system, a pH sensor dipped in the water reads the pH of the water and sends data to a computer. The lesson says to choose the sensor by what it physically measures." loading="lazy">
+  <figcaption>Match the sensor to what it physically measures, for example moisture in plant watering and pH in a pool.</figcaption>
+</figure>
+
+
 ## 3.3 Data storage
 
 | Type | CPU accesses directly? | Volatile? |
@@ -84,6 +90,22 @@ RAM is insufficient. **Cloud storage**: advantage (remote access from
 anywhere) vs disadvantage (dependence on physical servers/storage
 hosted elsewhere, compared with direct local control).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-hardware--08-cpu-architecture.webp" width="900" height="900" alt="A CPU box holds two units, the control unit (CU) and the arithmetic logic unit (ALU), and five registers: program counter (PC), memory address register (MAR), memory data register (MDR), current instruction register (CIR) and accumulator (ACC). Below, three buses (address bus, data bus and control bus) link the CPU to RAM, which holds instructions and data." loading="lazy">
+  <figcaption>The CPU contains the CU, ALU and five registers, and is linked to RAM by the address, data and control buses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-hardware--10-storage-types.webp" width="900" height="840" alt="Top: the CPU connects directly to primary storage. RAM is volatile and holds data in use; ROM is non-volatile and holds startup instructions. Below: secondary storage is not accessed directly by the CPU, in three technologies. Magnetic: a platter divided into tracks and sectors, for example a hard disk drive. Optical: a laser creates and reads pits and lands, for example CD, DVD and Blu-ray. Solid-state flash: NAND or NOR memory chips with control and floating gates, for example SSD, SD card and USB drive." loading="lazy">
+  <figcaption>Primary storage is read directly by the CPU; secondary storage is magnetic, optical or solid-state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-hardware--11-virtual-memory.webp" width="900" height="830" alt="RAM is drawn as six page slots, P1 to P6, and is full. Virtual memory below holds pages P7 to P9. Page P7 is needed, so an arrow moves it into RAM, and page P4 is unused, so an arrow moves it out to virtual memory. This shows pages being transferred between RAM and virtual memory when physical RAM is not enough." loading="lazy">
+  <figcaption>When RAM is not big enough, pages are transferred between RAM and virtual memory as needed.</figcaption>
+</figure>
+
+
 ## 3.4 Network hardware
 
 - **NIC** required to access a network.
@@ -97,6 +119,12 @@ addresses, connects a local network to the internet.
 Builds directly on Topic 2 (Data transmission) — a router's
 packet-directing role connects straight to that topic's
 packet-switching content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-hardware--12-network-hardware.webp" width="900" height="830" alt="A device with a network interface card (NIC) connects to a router, which directs data, can assign IP addresses and connects the local network to the internet. Below, a MAC address is shown in two halves, a manufacturer code and a serial code, fixed on the NIC at manufacture. An IP address is allocated by the network and can be static or dynamic. The example values are illustrative." loading="lazy">
+  <figcaption>A NIC with a MAC address joins a network, the network allocates an IP address, and a router links to the internet.</figcaption>
+</figure>
+
 
 ## Worked example: tracing an instruction
 
@@ -112,6 +140,12 @@ Practise naming *which* register or bus is active at a *specific*
 named stage — exam questions rarely ask for the whole cycle recited
 from memory, but frequently ask "what happens to the MAR during
 fetch?" style questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-hardware--09-fetch-decode-execute.webp" width="900" height="854" alt="Three columns follow one example instruction, ADD 5, with the accumulator holding 3. Fetch: the program counter value 0 is copied to the memory address register, the instruction ADD 5 is read from RAM at address 0 into the memory data register and copied to the current instruction register, and the program counter becomes 1. Decode: the control unit decodes the instruction in the current instruction register. Execute: the ALU adds 3 and 5 so the accumulator becomes 8. An arrow loops back to fetch the next instruction. The example is illustrative." loading="lazy">
+  <figcaption>One instruction followed through fetch, decode and execute, showing which register holds what.</figcaption>
+</figure>
+
 
 ## This O Level shares content with IGCSE Computer Science
 

@@ -60,6 +60,12 @@ The specification also says that research methods, practical research skills and
 
 **Worked example (AO2).** *Scenario: Ola now vapes twice as often as a year ago to feel calm, and feels shaky and snappy on long flights.* "Ola shows tolerance [knowledge], because she needs twice the amount for the same calming effect [application]. The shakiness and irritability on flights are withdrawal syndrome, which points to physical dependence [analysis]. However, her need to vape 'to feel calm' also suggests psychological dependence, so the two are hard to separate in a real person [evaluation]."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--05-add-terms.webp" width="900" height="800" alt="Four cards: physical dependence (body adapted), psychological dependence (compulsion, pleasure or relief), tolerance (amount doubles, illustrative), withdrawal syndrome (nicotine symptoms)." loading="lazy">
+  <figcaption>Physical and psychological dependence, tolerance and withdrawal syndrome.</figcaption>
+</figure>
+
+
 ## Risk factors in the development of addiction
 
 **Genetic vulnerability.** Some people inherit a greater risk, probably through many genes that affect reward and drug metabolism. Vink, Willemsen and Boomsma (2005) studied 1,572 Dutch twin pairs. They estimated that smoking initiation was explained by genes (44%), shared environment (51%) and unique environment (5%). Nicotine dependence was explained by genes (75%) and unique environment (25%).
@@ -75,6 +81,12 @@ The specification also says that research methods, practical research skills and
 - Practical value: knowing risk factors helps target prevention, for example at young people with smoking peers.
 
 **Worked example (AO3).** "Twin research supports genetic vulnerability: Vink et al. found that genes explained 75% of the variation in nicotine dependence among Dutch twins. However, genes explained only 44% of starting to smoke, with shared environment explaining 51%. This suggests social influences decide whether someone starts, and genes then shape whether use becomes dependence, an interactionist account."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--06-add-twins.webp" width="900" height="1010" alt="Two bars from Vink et al. (2005): smoking initiation 44 percent genes, 51 shared environment, 5 unique; nicotine dependence 75 genes, 25 unique." loading="lazy">
+  <figcaption>Twin data: shared environment largest for starting to smoke, genes largest for dependence.</figcaption>
+</figure>
+
 
 ## Explanations for nicotine addiction
 
@@ -98,6 +110,17 @@ Nicotine binds to nicotinic acetylcholine receptors on dopamine neurons in the v
 
 **Worked example (AO2).** "For Dev, the walk from the station to his office was paired with a cigarette every morning for years. The walk became a conditioned stimulus, so it now produces craving on its own. This cue reactivity explains why Dev relapses on workdays but not on holiday, which a purely dopamine-based account cannot explain."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--07-add-dopamine.webp" width="900" height="1160" alt="Schematic brain: nicotine binds receptors on VTA dopamine neurons, dopamine is released in the nucleus accumbens along the mesolimbic pathway giving pleasure; repeated use leads to tolerance, withdrawal and smoking again." loading="lazy">
+  <figcaption>How nicotine acts on the reward pathway and drives the tolerance-withdrawal cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--08-add-cue.webp" width="900" height="1000" alt="Cue paired with nicotine and reward, later the cue alone causes craving and arousal (cue reactivity), then the Dev example: workday walk causes craving and relapse, holiday does not." loading="lazy">
+  <figcaption>Cue reactivity is classical conditioning: cues alone produce craving.</figcaption>
+</figure>
+
+
 ## Explanations for gambling addiction
 
 ### Learning theory: partial and variable reinforcement
@@ -115,6 +138,12 @@ Griffiths (1994) compared 30 regular and 30 non-regular fruit-machine gamblers i
 **Evaluation.** Griffiths' field setting gives ecological validity, but coding verbalisations is subjective. Cognitive theory explains why gamblers continue despite losses. It does not explain why only some people develop the biases, and it struggles to say whether biases cause gambling or develop from it.
 
 **Worked example (AO3).** "Cognitive theory is supported by Griffiths, whose regular gamblers made more irrational statements than non-regular gamblers despite showing no greater skill. This suggests distorted thinking, not real skill, keeps them playing. But the study shows a difference, not a cause; heavy play may create the biases. A combined account, in which variable reinforcement builds the habit and biases justify it, is more complete."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--09-add-variable.webp" width="900" height="1005" alt="14 illustrative bets with wins after bets 3, 8, 10 and 14 so the gaps are 3, 5, 2, 4; a slot machine showing a near miss." loading="lazy">
+  <figcaption>A variable ratio schedule keeps betting fast, steady and resistant to extinction.</figcaption>
+</figure>
+
 
 ## Reducing addiction
 
@@ -141,11 +170,23 @@ CBT starts with a functional analysis (when and why the behaviour happens). The 
 
 **Worked example (AO3, appropriateness).** "For a heavy smoker, NRT is appropriate first because it reduces withdrawal quickly. However, NRT leaves conditioned cues untouched, so combining it with CBT to manage cue reactivity is more appropriate for long-term change."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--10-add-naltrexone.webp" width="900" height="830" alt="Two 100-square grids: 75 squares filled for naltrexone and 24 for placebo (Kim et al., 2001). Nausea was common in week one." loading="lazy">
+  <figcaption>In an 11-week double-blind trial 75 percent on naltrexone improved much or very much versus 24 percent on placebo.</figcaption>
+</figure>
+
+
 ## Prochaska's six-stage model of behaviour change
 
 The six stages are **precontemplation** (no intention to change), **contemplation** (thinking about it, aware of pros and cons), **preparation** (planning soon), **action** (has changed within the last six months), **maintenance** (change sustained for more than six months, guarding against relapse) and **termination** (no temptation, certain they will not relapse). People can move back as well as forward, so relapse is part of the cycle. The model's application is to **match the intervention to the stage**: for example, raising awareness in precontemplation and teaching coping skills in action.
 
 **Evaluation.** The model treats relapse as normal and encourages services to support people who are not yet ready. However, a Cochrane review by Cahill, Lancaster and Green (2010) found that stage-based self-help and counselling interventions for smoking were neither more nor less effective than non-stage-based equivalents. Critics also argue that the stage boundaries are arbitrary and that people can move from no intention to quitting very quickly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-addiction--11-add-prochaska.webp" width="900" height="940" alt="Six stages in order with a dashed arrow for moving back (relapse) and two matched interventions." loading="lazy">
+  <figcaption>People move through six stages and can move back; match the intervention to the stage.</figcaption>
+</figure>
+
 
 ## Common errors
 

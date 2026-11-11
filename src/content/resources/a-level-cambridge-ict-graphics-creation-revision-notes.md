@@ -48,6 +48,12 @@ Every design choice should be justified by the **intended application and audien
 | File size depends on | Pixel count and colour depth | Number of objects and nodes |
 | Formats | BMP, JPG, PNG, GIF, TIF | SVG (PDF can hold both) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--14-gc-bitmap-vector.webp" width="900" height="950" alt="A circle is stored as a bitmap grid of pixels and as a vector path with nodes. At actual size both look fine; enlarged, the bitmap edge turns blocky while the vector stays smooth. Bitmaps suit photographs, vectors suit logos and diagrams." loading="lazy">
+  <figcaption>Enlarging a bitmap shows its pixels; a vector graphic stays smooth at any size.</figcaption>
+</figure>
+
+
 ## Layer and object tools (19.1)
 
 - **Layers**: add, remove, select active layer, order, toggle visibility, lock, opacity/transparency.
@@ -61,6 +67,12 @@ Every design choice should be justified by the **intended application and audien
 - **Colour picker**: sample a colour or colour range from the image or another source.
 - **Crop/clip to object**: keep only what is inside a chosen shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--15-gc-layers.webp" width="900" height="950" alt="Three stacked layers: text on top, a shape at 50 percent opacity, and a locked background, each with a visibility eye. Flattening combines them into one image where the half-transparent shape blends with the background." loading="lazy">
+  <figcaption>Layers keep parts of a design separate until they are flattened.</figcaption>
+</figure>
+
+
 ## Colour systems
 
 | System | Model | Components | Use |
@@ -72,6 +84,12 @@ Every design choice should be justified by the **intended application and audien
 
 CMYK adds a separate black ink because mixing cyan, magenta and yellow gives a muddy dark colour rather than a true black. Some screen colours cannot be reproduced in ink, so check print work in CMYK.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--16-gc-colour.webp" width="900" height="1060" alt="RGB is additive: red, green and blue light overlap to make yellow, magenta, cyan and white, for screens. CMYK is subtractive: cyan, magenta and yellow inks overlap to give blue, red, green and a muddy dark, so black ink is added; used for printing." loading="lazy">
+  <figcaption>Screens add light (RGB); printers use inks that absorb light (CMYK).</figcaption>
+</figure>
+
+
 ## Resolution
 
 - **Too low**: blocky or soft images, worst in print or when enlarged.
@@ -79,6 +97,12 @@ CMYK adds a separate black ink because mixing cyan, magenta and yellow gives a m
 - **Changing colour depth**: fewer bits per pixel give a smaller file but fewer colours, so smooth areas show banding.
 
 **Worked reminder.** A 2000 × 1000 image with 8-bit colour: 2000 × 1000 × 8 ÷ 8 = 2,000,000 bytes = 2 MB, with 2⁸ = 256 colours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--17-gc-resolution.webp" width="900" height="1000" alt="A 3600 by 2400 pixel photo at 300 ppi prints 12 by 8 inches and is sharp. At 24 by 16 inches the same pixels give 150 ppi, so each pixel is twice as large and the print is softer. 300 ppi at that size needs 7200 by 4800 pixels." loading="lazy">
+  <figcaption>Stretching the same pixels over a bigger print lowers ppi and softens the image.</figcaption>
+</figure>
+
 
 ## Formulas
 
@@ -128,6 +152,12 @@ Paper 4: the syllabus states that work saved in an incorrect file format earns n
 - **Replication**: duplicates or evenly spaced copies.
 - **Trace bitmap**: edges and colour areas become vector paths. Gains: scalable, editable, small for simple logos. Losses: detail and shading, many nodes for complex images, clean-up time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--18-gc-nodes.webp" width="900" height="930" alt="Four curves each with a node and two handles. Cusp: handles move independently for a sharp corner. Smooth: handles in a straight line. Symmetrical: smooth with equal-length handles. Asymmetrical: smooth with unequal handles." loading="lazy">
+  <figcaption>The angle and length of a node’s handles set how the curve passes through it.</figcaption>
+</figure>
+
+
 ## Bitmap tools (19.3)
 
 - **Lasso** (draw round), **magic wand** (adjacent similar colour, with tolerance), **colour select** (similar colour anywhere), **cut-out**, **crop**, **masking** (hide without deleting).
@@ -142,6 +172,12 @@ Paper 4: the syllabus states that work saved in an incorrect file format earns n
 - **Lossless**: original rebuilt exactly; e.g. run-length encoding (`RRRRBB` → `4R 2B`). Best on flat colour.
 - **Lossy**: detail permanently removed; much smaller files; artefacts (blockiness, blur, banding, fuzzy edges round text); worse with each re-save.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--19-gc-compression.webp" width="900" height="960" alt="Run-length encoding stores 20 pixels (8 white, 4 black, 8 white) as 8W 4B 8W and rebuilds them exactly. A 1600 by 1200 image is 5.76 MB at 24-bit and 1.92 MB at 8-bit uncompressed, and 0.48 MB as a JPEG, a 12 to 1 reduction." loading="lazy">
+  <figcaption>Lossless compression keeps every pixel; lossy compression discards detail for much smaller files.</figcaption>
+</figure>
+
+
 ## Text (19.5)
 
 - **Kerning**: space between one pair of letters.
@@ -150,6 +186,12 @@ Paper 4: the syllabus states that work saved in an incorrect file format earns n
 - **Text on a path**: follows a line or wraps round a shape.
 - **Text in a shape**: flows inside an outline.
 - **Text to curves**: letters become paths; no font needed, letters reshaped, but no longer editable as text.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--20-gc-text.webp" width="900" height="890" alt="The word AVID shown three ways. Default spacing; kerning, where only the A and V pair is moved closer; and letter spacing, where the gaps between all letters are widened equally. Gold bars mark the adjusted spaces." loading="lazy">
+  <figcaption>Kerning adjusts one pair of letters; letter spacing adjusts every letter.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

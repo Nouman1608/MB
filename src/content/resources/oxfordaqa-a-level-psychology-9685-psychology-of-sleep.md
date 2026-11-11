@@ -76,6 +76,17 @@ The specification also says research methods, practical skills and mathematical 
 
 **Worked paragraph.** *"The sleep/wake cycle is controlled by an endogenous pacemaker, the SCN, which is reset each day by light (AO1). For example, a student who studies in a windowless room under constant lighting may find their bedtime drifting later each day, because the SCN's own cycle runs slightly over 24 hours (AO2). Siffre's cave study supports this, since his cycle continued without daylight but lengthened (AO3). However, Siffre was one person, so the finding needs the bunker and hamster studies to support it (AO3)."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--01-sleep-clock-pathway.webp" width="900" height="780" alt="A flow from light to the retina, then to the SCN in the hypothalamus (the internal clock), then to the pineal gland, which releases melatonin. A bar chart beside it shows melatonin high in the dark and low in bright light." loading="lazy">
+  <figcaption>Light is the exogenous zeitgeber; the SCN is the endogenous pacemaker; the pineal gland releases melatonin in the dark.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--02-sleep-rhythm-types.webp" width="900" height="820" alt="Three strips. A circadian wave completes one cycle in 24 hours. An ultradian wave shows five sleep-stage cycles of about 90 minutes during one night. An infradian wave completes one cycle in about a month, for example the menstrual cycle." loading="lazy">
+  <figcaption>Circadian: about 24 hours. Ultradian: several cycles within 24 hours. Infradian: longer than a day.</figcaption>
+</figure>
+
+
 ## Disruption: shift work and jet lag
 
 Both disrupt rhythms by making the internal clock **out of step** with external cues. This is **desynchronisation**.
@@ -94,6 +105,12 @@ Both disrupt rhythms by making the internal clock **out of step** with external 
 - Individual differences: some people adjust faster than others.
 
 **Worked paragraph.** *"Jet lag happens because the SCN cannot reset instantly to a new light/dark cycle (AO1). A traveller flying east must fall asleep earlier than their clock allows, so they lie awake and then feel tired the next day (AO2). Recht et al.'s baseball data support the east/west difference (AO3). However, the data were not experimental, so other features of travel may explain some of the effect (AO3)."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--03-jet-lag-direction.webp" width="900" height="880" alt="Two time bars for an example 6-hour time-zone change. Flying east, the body-clock night falls 6 hours later than local night, so sleep must move earlier: a phase advance. Flying west, the body-clock night is 6 hours earlier than local night, so sleep must move later: a phase delay, which is easier because the SCN runs slightly over 24 hours." loading="lazy">
+  <figcaption>East needs a phase advance; west needs a phase delay, which is easier.</figcaption>
+</figure>
+
 
 ## The nature of sleep: non-REM and REM
 
@@ -118,6 +135,12 @@ A full cycle lasts about **90 minutes**, an ultradian rhythm. A typical night ha
 
 **Worked paragraph.** *"Sleep follows an ultradian cycle of about 90 minutes, moving from light NREM sleep into slow-wave sleep and then REM (AO1). If a sleep lab record shows mostly delta waves in the first two hours and long REM periods near morning, this is the typical pattern (AO2). EEG makes this objective (AO3), but a single lab night may not reflect normal sleep (AO3)."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--04-sleep-night-hypnogram.webp" width="900" height="758" alt="A step graph of one night of sleep in five cycles of about 90 minutes. Each cycle goes from light NREM stage 1 and 2 down to slow-wave sleep and back up to REM. Early cycles have more slow-wave sleep; later cycles have more REM." loading="lazy">
+  <figcaption>Sleep cycles through NREM and REM about every 90 minutes; slow-wave sleep dominates early, REM late.</figcaption>
+</figure>
+
+
 ## Functions of sleep
 
 **Evolutionary explanations** say sleep exists because it helped survival.
@@ -138,6 +161,12 @@ A full cycle lasts about **90 minutes**, an ultradian rhythm. A typical night ha
 
 **Worked paragraph.** *"Restoration theory proposes that slow-wave sleep repairs the body (AO1). A long-distance cyclist who sleeps longer and deeper after a race fits this account (AO2). Shapiro et al.'s ultramarathon findings support it (AO3). However, the theory struggles to explain why repair also happens while awake, so restoration may be one function among several, alongside memory consolidation (AO3)."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--05-sleep-functions-map.webp" width="900" height="880" alt="Four panels. Evolutionary explanations: energy conservation (sleep lowers metabolism, smaller animals sleep more) and predator-prey safety (keeps the animal still and hidden; more predator danger, less REM). Restoration theory: slow-wave sleep restores the body, REM restores the brain. Memory consolidation: slow-wave sleep supports facts, REM supports skills." loading="lazy">
+  <figcaption>Three groups of explanation: evolutionary (energy, safety), restoration, and memory consolidation.</figcaption>
+</figure>
+
+
 ## Sleep disorders: insomnia and narcolepsy
 
 **Insomnia** is persistent difficulty getting to sleep or staying asleep, or sleep that does not feel refreshing, with problems during the day. It can be short-term or long-term. **Secondary insomnia** results from another condition, such as pain. **Primary insomnia** has no clear separate cause.
@@ -157,6 +186,12 @@ A full cycle lasts about **90 minutes**, an ultradian rhythm. A typical night ha
 - Evaluation: the dog findings are single-gene, but in humans the cause is more complex. The hypocretin account fits narcolepsy with cataplexy better than narcolepsy without it.
 
 **Worked paragraph.** *"Personality factors such as high neuroticism may predispose people to insomnia through hyperarousal at bedtime (AO1). A student who worries about exams and lies awake replaying the day fits this pattern (AO2). However, the evidence is correlational, so insomnia could increase anxiety rather than the reverse (AO3). Family history suggests genes also matter, which supports an interactionist, diathesis-stress view (AO3)."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--06-insomnia-3p-model.webp" width="900" height="800" alt="A graph of sleep difficulty over time with an insomnia threshold. A raised baseline shows predisposing factors such as personality and genes. A stressful event causes a spike (precipitating). Without perpetuating factors the line falls back below the threshold; with perpetuating factors, such as long periods awake in bed, it stays above." loading="lazy">
+  <figcaption>Predisposing, precipitating and perpetuating factors together keep sleep difficulty above the insomnia threshold.</figcaption>
+</figure>
+
 
 ## Common errors
 

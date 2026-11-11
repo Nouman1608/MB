@@ -62,6 +62,12 @@ Test yourself with the [practice questions](/resources/a-level-cambridge-ict-pro
 4. Record lessons to improve future planning.
 5. Confirm the client and other stakeholders are satisfied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--01-pm-life-cycle.webp" width="900" height="860" alt="Four stages stacked top to bottom with an icon each: initiation (objectives, scope, success criteria), planning (resources, task schedule, Gantt and PERT), execution and monitoring (time, cost, quality, reports) and project close (hand over, review, lessons learned)." loading="lazy">
+  <figcaption>The project life cycle runs from initiation through planning and execution to close.</figcaption>
+</figure>
+
+
 ## 15.2 Project management software
 
 ### Types
@@ -91,6 +97,12 @@ Test yourself with the [practice questions](/resources/a-level-cambridge-ict-pro
 - **For**: automatic recalculation, fewer errors, clashes flagged, quick reports, shared information.
 - **Against**: cost, training, set-up and update time, only as good as the data entered, overkill for small projects, dependence on the system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--05-pm-float.webp" width="900" height="880" alt="E can slide 4 days without effect, and a 3-day overrun still ends the project on day 19. A 3-day overrun on critical activity D moves F to day 18 and the project to day 22." loading="lazy">
+  <figcaption>Float is slack on a non-critical activity; critical activities have none.</figcaption>
+</figure>
+
+
 ## 15.3 Tools and techniques
 
 ### Gantt chart
@@ -105,6 +117,12 @@ Tasks down the side, time along the top, one bar per task from start to end. Rea
 4. Mark milestones and the current date.
 
 **Reading progress**: if a 4-week task is planned for weeks 2–5 and today is the end of week 3, it should be half done. If a quarter is done, it is about one week behind. Check whether any later task depends on it: if so, that task will also start late unless resources are added.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--02-pm-gantt.webp" width="900" height="888" alt="A Gantt chart of six tasks over weeks 1 to 8. T3 and T4 overlap in week 4, T5 waits for both and runs weeks 6 to 7, and the last bar (T6) ends in week 8." loading="lazy">
+  <figcaption>In a Gantt chart each task is a bar, so overlaps, waits and the project end are easy to see.</figcaption>
+</figure>
+
 
 ### PERT chart and CPM components
 
@@ -145,6 +163,17 @@ Tasks down the side, time along the top, one bar per task from start to end. Rea
 3. Backward pass from the project duration, taking the smallest LST where paths split.
 4. Float = LST − EST for each activity.
 5. Critical path = the chain of zero-float activities from start to finish. Check that its durations add up to the project duration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--03-pm-pert-critical-path.webp" width="900" height="850" alt="A network of eight activities with earliest and latest times in each box. A, B, D, F and H are on the critical path (19 days); C and E have 4 days of float and G has 9." loading="lazy">
+  <figcaption>The critical path is the longest chain of activities, and its activities have zero float.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--04-pm-forward-backward.webp" width="900" height="790" alt="Forward pass: F starts at 15, the larger of D finishing at 15 and E finishing at 11. Backward pass: C must finish by 11, the smaller of E latest start 11 and G latest start 16." loading="lazy">
+  <figcaption>Take the largest finish going forward and the smallest start going back.</figcaption>
+</figure>
+
 
 ### Worked reminder
 

@@ -88,6 +88,17 @@ electronic forms sitting between the two. This systematic approach prevents the
 common failure mode of jumping straight to isolated language features
 without first establishing the text's context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-language-diversity-and-change--01-dc-two-lenses.webp" width="900" height="800" alt="Two panels. Diversity shows three speech bubbles at one moment in time, one each for social group, region and context, meaning language differs across groups at a given time. Change shows a timeline arrow from 1600 to the present day, meaning language shifts over time. A banner says Paper 2 Section A offers an essay on diversity or on change, worth 30 marks." loading="lazy">
+  <figcaption>Diversity compares groups at one moment; change follows language over time from 1600.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-language-diversity-and-change--03-dc-five-lenses.webp" width="900" height="1110" alt="A numbered list of five questions to ask of an unfamiliar text in order: who produced it and where; when; who it is for; why; and what genre and mode. Below, a bar shows mode as a spectrum from spoken through digital and electronic to written. A tag notes the five lenses are a revision aid, not named by the specification." loading="lazy">
+  <figcaption>Work through five lenses in turn before commenting on any language feature.</figcaption>
+</figure>
+
+
 ## Worked example: analysing a sociolect feature
 
 A question presents an extract of workplace communication among a
@@ -136,6 +147,17 @@ variation versus geography-based variation — is a foundational
 distinction this whole content area depends on, and conflating the two
 is one of the most common and most costly errors in essays on diversity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-language-diversity-and-change--02-dc-sociolect-dialect.webp" width="900" height="900" alt="A tree diagram. A variety of English splits into sociolect, linked to a social group, and dialect, linked to a place. Sociolect has three examples: occupational group, gender and ethnic group. Dialect has three examples: regional, national and international. A footer says a person icon is not a map pin: never conflate the two." loading="lazy">
+  <figcaption>Sociolect is variation by social group; dialect is variation by geography.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-language-diversity-and-change--04-dc-feature-function.webp" width="900" height="800" alt="A four-step chain: feature (specialist lexis and abbreviations such as jargon or acronyms), context (occupational sociolect), function (builds in-group identity and efficient communication, excludes outsiders) and link to the wider debate (identity and relationships). Beside it a ring holds three people marked in-group and one person outside marked outsider." loading="lazy">
+  <figcaption>Name the feature, place it in its context, explain its social function, then link to identity.</figcaption>
+</figure>
+
+
 ## Named positions on diversity
 
 Key areas of social variation and their leading positions, useful as citable evaluative material in a
@@ -176,6 +198,22 @@ explained as arbitrary drift than as evidence of a single driving mechanism.
 
 A strong evaluative essay engages with more than one of these named positions and reaches a judgement,
 rather than relying solely on the prescriptivist/descriptivist opposition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-language-diversity-and-change--05-dc-attitudes.webp" width="900" height="985" alt="Top: two stances, prescriptivism treats change as decline and descriptivism treats it as natural variation. Middle: three pictures of the prescriptivist reaction named by Jean Aitchison: the Damp Spoon (change as laziness), the Crumbling Castle (change as decay) and the Infectious Disease (change as contagion). Bottom: Aitchison rejects all three in favour of language as a living, evolving system." loading="lazy">
+  <figcaption>Aitchison’s three images of the prescriptivist reaction, all rejected by Aitchison herself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-language-diversity-and-change--06-dc-why-change.webp" width="900" height="960" alt="Two panels. Functional theory, associated with Crystal and Aitchison: a new need such as new technology or social change leads to new vocabulary or structures. Random fluctuation theory: a path of arrows wandering in unrelated directions shows some changes have no clear social or functional cause. A banner says a strong essay engages with more than one view and reaches a judgement." loading="lazy">
+  <figcaption>Functional theory explains change by need; random fluctuation sees arbitrary drift.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-language-diversity-and-change--07-dc-s-curve.webp" width="900" height="840" alt="A graph of speakers using a new form against time, drawn as an S-shaped curve. Three shaded phases: slow adoption among a few users, rapid spread through the wider population, then slow again as the last holdouts adopt. The curve is illustrative, not real data." loading="lazy">
+  <figcaption>Lexical diffusion: a new form spreads slowly, then rapidly, then slowly again (illustrative curve).</figcaption>
+</figure>
+
 
 ## Common mistakes
 

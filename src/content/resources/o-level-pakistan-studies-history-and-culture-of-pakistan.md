@@ -94,6 +94,17 @@ first place; explaining that connection, rather than simply naming
 both sets of causes in turn, is what separates a strong response from
 an adequate one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-history-and-culture-of-pakistan--02-ps-mughal-decline.webp" width="900" height="830" alt="A cracked domed building stands for the Mughal Empire. Internal causes (Aurangzeb's policies, weak successors) and external causes (foreign invasions, East India Company expansion) press on it. The banner states the lesson's point that internal weakness let external pressure succeed." loading="lazy">
+  <figcaption>Internal weakness and external pressure combined to bring down the Mughal Empire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-history-and-culture-of-pakistan--03-ps-reformers.webp" width="900" height="720" alt="Two columns show the reformers. Shah Waliullah's Persian translation of the Qur'an made scripture more directly accessible and laid groundwork. Syed Ahmad Barelvi extended the revival into a more organised movement." loading="lazy">
+  <figcaption>Shah Waliullah laid the groundwork that Syed Ahmad Barelvi turned into a more organised movement.</figcaption>
+</figure>
+
+
 ## 1.2 in more depth — the road to 1947
 
 Beyond the 1906 founding of the All-India Muslim League, Section 1.2
@@ -108,6 +119,12 @@ movements to explain why a distinct Muslim political identity had
 already begun forming well before the Muslim League's founding in
 1906 — examiners reward candidates who can make that link rather than
 treating 1906 as a clean starting point with no earlier roots.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-history-and-culture-of-pakistan--04-ps-roots-thread.webp" width="900" height="1070" alt="A chain of six steps from reform movements, through a distinct Muslim political identity forming, the 1906 League, the divide with Congress and 1947 Partition, to the challenges of nationhood. A dashed arrow shows those challenges have roots in independence." loading="lazy">
+  <figcaption>A single chain links the reform of 1.1 to the identity of 1.2 and the challenges of 1.3.</figcaption>
+</figure>
+
 
 ## 1.3 in more depth — building a new state
 
@@ -131,6 +148,12 @@ other relevant factors, and reach an explicit conclusion rather than
 leaving the judgement implicit. A description of events alone, however
 detailed, will not earn the marks reserved for that final evaluative
 step.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-history-and-culture-of-pakistan--05-ps-judgement-answer.webp" width="900" height="860" alt="Four rising steps: state what happened, explain its significance or impact, weigh it against other factors, reach an explicit conclusion. The last step is highlighted because description alone cannot earn the final evaluative marks." loading="lazy">
+  <figcaption>A judgement answer climbs from description to an explicit conclusion.</figcaption>
+</figure>
+
 
 ## Why the three sections are tested together
 
@@ -159,3 +182,9 @@ Through key questions that link several focus points, so revise causes and conse
 Cambridge O Level Pakistan Studies 2059 syllabus for 2026 (Version 1,
 September 2023) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697282-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-history-and-culture-of-pakistan--01-ps-three-sections.webp" width="900" height="1050" alt="Paper 1 sections 1.1, 1.2 and 1.3 placed on one timeline drawn to a year scale (1906, 1947, 1999). Section 1.1 has no fixed dates in the lesson, so it sits above 1906 with a dashed outline. Double arrows show that questions can draw on more than one section." loading="lazy">
+  <figcaption>Three sections, one timeline: 1.2 runs 1906-47 and 1.3 runs 1947-99.</figcaption>
+</figure>
+

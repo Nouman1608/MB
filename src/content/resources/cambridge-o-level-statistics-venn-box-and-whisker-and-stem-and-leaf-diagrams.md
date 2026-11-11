@@ -99,6 +99,17 @@ Now answer questions from the finished diagram. Exactly one subject: 13 + 14 + 1
 
 The common trap is to read "9 take art and music" as the region without the centre. Always ask whether a given number includes the middle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams--01-venn-two-sets.webp" width="900" height="830" alt="Venn diagram of 40 students with chess club 19, debate club 17 and 6 in both. Chess only is 13, debate only is 11, 30 are in a club, so 10 are in neither." loading="lazy">
+  <figcaption>Fill the middle first, subtract, then find &quot;neither&quot; from the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams--02-venn-three-sets.webp" width="900" height="910" alt="Three-set Venn diagram of 60 pupils: only art 13, only music 14, only drama 10, art and music only 5, music and drama only 4, art and drama only 2, all three 4, none 8." loading="lazy">
+  <figcaption>Pair totals include the middle region, so subtract it first.</figcaption>
+</figure>
+
+
 ## Stem-and-leaf diagrams
 
 A stem-and-leaf diagram lists every value, grouped by its leading digits. The stem is the leading part. The leaf is the final digit. Rules:
@@ -152,6 +163,17 @@ Key: P: 1 | 2 means 21     Q: 2 | 2 means 22
 
 Group P: median 29, range 45 - 14 = 31. Group Q: median 35, range 44 - 18 = 26. Group Q has the higher median and the smaller range. In context: pupils in group Q scored higher in the middle, and their scores were more consistent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams--03-stem-and-leaf-journey-times.webp" width="900" height="900" alt="Stem-and-leaf diagram of 20 journey times. Rows 1 to 5 have 3, 6, 6, 4 and 1 leaves. The 10th and 11th values, 30 and 31, give a median of 30.5 minutes. The key says 2 | 1 means 21 minutes." loading="lazy">
+  <figcaption>Row length shows frequency; the median of 20 values is the mean of the 10th and 11th.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams--04-back-to-back-stem-and-leaf.webp" width="900" height="898" alt="Back-to-back stem-and-leaf diagram for groups P and Q with 15 scores each. P median 29, range 31; Q median 35, range 26. Leaves are ordered outwards from the stem. Q is higher in the middle and more consistent." loading="lazy">
+  <figcaption>Both sets share stems and read outwards from the middle.</figcaption>
+</figure>
+
+
 ## Box-and-whisker diagrams
 
 A box-and-whisker diagram is drawn from five numbers: the minimum, lower quartile, median, upper quartile and maximum. The box runs from the lower to the upper quartile, with a line at the median. The whiskers run to the minimum and maximum. The interquartile range (IQR) is the upper quartile minus the lower quartile, the width of the box. The range is the maximum minus the minimum.
@@ -179,6 +201,17 @@ Comparison: median X = 29, Y = 31.5. IQR X = 35 - 24 = 11, Y = 35 - 27.5 = 7.5. 
 
 The box contains about half of the data, and each whisker section and each half of the box contains about a quarter. A box plot cannot give the mean or any individual value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams--05-box-plot-from-five-numbers.webp" width="900" height="710" alt="Phone X battery lives 18 to 44 hours. The median is 29, the lower half has median 24 and the upper half median 35. The five numbers 18, 24, 29, 35 and 44 give a box from 24 to 35 with a median line at 29 and whiskers to 18 and 44." loading="lazy">
+  <figcaption>A box plot is drawn from five numbers found by halving the ordered data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams--06-comparing-box-plots.webp" width="900" height="1060" alt="Box plots for phones X and Y on one scale. X: IQR 11, range 26, median 29. Y: IQR 7.5, range 18, median 31.5. Y lasts longer and is more consistent." loading="lazy">
+  <figcaption>Compare average, spread and say what it means.</figcaption>
+</figure>
+
+
 ## Choosing a representation (2.3)
 
 A good answer names the purpose first, then the advantage that fits it, then a limitation.
@@ -196,6 +229,12 @@ Use these questions to decide:
 - Do you need to compare the spread of two or more groups? Use box-and-whisker diagrams.
 - Are you sorting people or items into overlapping groups? Use a Venn diagram.
 - Is the data set large? Prefer the box-and-whisker diagram, because a stem-and-leaf diagram becomes long.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams--07-choosing-a-diagram.webp" width="900" height="1040" alt="Four panels: Venn (overlap, crowded beyond three sets), stem-and-leaf (every value, long for large sets), back-to-back (compare two small sets, only two sets), box-and-whisker (median and spread, loses individual values)." loading="lazy">
+  <figcaption>Name the purpose first, then the advantage, then a limit.</figcaption>
+</figure>
+
 
 ## Interpreting and comparing (2.4)
 

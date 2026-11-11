@@ -84,6 +84,17 @@ Step 3: recommend the highest count: **Cindermoor**.
 
 Real systems use millions of readers and many more signals, but the principle is the same: people who behaved like you in the past are used to predict what you will want.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-artificial-intelligence--08-ai-four-areas.webp" width="900" height="980" alt="Four tiles: generative AI, search and recommendation, strategic games and medical diagnosis, each with a simple icon. A note says a general AI is still an area of research." loading="lazy">
+  <figcaption>The four application areas and the narrow nature of current AI.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-artificial-intelligence--09-ai-recommendation.webp" width="900" height="820" alt="Five readers and their borrowed titles. R4 did not borrow Ardent and is left out. Among R1, R2, R3 and R5, Cindermoor appears 3 times, Bellwether 2, Driftmark 1, Emberly 1, so Cindermoor is recommended." loading="lazy">
+  <figcaption>Filtering readers and counting titles to make a recommendation.</figcaption>
+</figure>
+
+
 ## 3.16.2 Creating artificially intelligent systems
 
 ### What a neural network is
@@ -166,6 +177,32 @@ Mean error early = (7 + 6 + 11 + 7) ÷ 4 = **7.75 megalitres**. Mean error later
 AI systems are often **trained using data**. Care must be taken when selecting the training data so that the system does not develop **bias**. A system can only learn the patterns present in its data. If a group is under-represented, or if past decisions in the data were unfair, the system reproduces that.
 
 **Worked example.** A council helpline uses speech-to-text software trained on 10,000 recordings: 9,100 from speakers with accent group A and 900 from accent group B. That is 91% and 9%. Tested on 2,000 words from each group, it transcribes 1,880 correctly for group A (**94%**) but only 1,530 for group B (**76.5%**). Callers in group B are misunderstood more often. The fix is in the data: collect a training set that represents every group of caller, then re-test each group separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-artificial-intelligence--10-ai-network-layers.webp" width="900" height="1040" alt="A 2-2-1 network with input, hidden and output layers and 2x2 + 2x1 = 6 weighted connections, and a deep network with three hidden layers." loading="lazy">
+  <figcaption>Layers of a simple neural network and of a deep learning network.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-artificial-intelligence--11-ai-forward-pass.webp" width="900" height="1040" alt="The greenhouse network with its six weights. Readings 0.8 and 0.4 give sums 0.68, -0.12 and 1.2 so the vent opens. Readings 0.3 and 0.9 give sums 0.78, 0.63 and 0.4 so the vent stays shut." loading="lazy">
+  <figcaption>Two passes through the small network with the lesson weights.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-artificial-intelligence--12-ai-backpropagation.webp" width="900" height="880" alt="Four steps: feed an example forward, compare the output with the correct answer to find the error, pass the error backwards adjusting weights, and repeat until errors are small." loading="lazy">
+  <figcaption>Forward pass, error, backward adjustment and repetition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-artificial-intelligence--13-ai-machine-learning.webp" width="900" height="790" alt="Bar chart of prediction errors for Monday to Thursday: 7, 6, 11, 7 after 3 weeks of data (mean 7.75) and 2, 1, 2, 1 after 2 years (mean 1.5)." loading="lazy">
+  <figcaption>Prediction error falls with more training experience.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-artificial-intelligence--14-ai-training-bias.webp" width="900" height="920" alt="Training data is 91% accent group A and 9% group B. Test accuracy is 94% for group A and 76.5% for group B." loading="lazy">
+  <figcaption>Unbalanced training data leads to unequal accuracy.</figcaption>
+</figure>
+
 
 ## 3.16.3 Benefits and risks of artificial intelligence
 

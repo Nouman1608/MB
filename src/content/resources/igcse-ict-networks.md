@@ -42,6 +42,12 @@ between a local network and the wider internet, making it the single
 device most commonly named in questions about how a home or school
 network reaches the internet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-networks--01-net-router.webp" width="900" height="880" alt="A laptop, phone and desktop in a local network link to a router. Arrows with data packets join the router to a cloud labelled Internet. Three numbered functions: connects the network to the internet, stores computer addresses, routes each packet along a path." loading="lazy">
+  <figcaption>A router connects a network to the internet, stores addresses and routes data packets.</figcaption>
+</figure>
+
+
 ## Common network devices
 
 Beyond the router, you need to know the purpose of network interface
@@ -53,6 +59,12 @@ switch improves on this by learning which device is connected to which
 port and sending data only to the intended recipient, making better use
 of network capacity. A bridge connects two separate network segments
 together so they function as one combined network.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-networks--02-net-hub-switch-bridge.webp" width="900" height="1150" alt="A NIC lets a device join a network. A hub copies data from A to every device B, C and D although only C is intended. A switch sends it only to C. A bridge joins two network segments into one network." loading="lazy">
+  <figcaption>A hub broadcasts to all, a switch sends only to the intended device, a bridge joins two segments.</figcaption>
+</figure>
+
 
 ## Wi-fi and Bluetooth
 
@@ -66,6 +78,12 @@ much shorter range, commonly for peripherals such as headphones or a
 wireless keyboard, without needing a network infrastructure in
 between.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-networks--03-net-wifi-bluetooth.webp" width="900" height="990" alt="Wi-fi connects a phone and laptop through a router to the internet over a larger range. Bluetooth links a phone directly to headphones and a keyboard over a much shorter range, with no network needed." loading="lazy">
+  <figcaption>Wi-fi joins devices to a network over a larger range; Bluetooth links two devices directly over a short range.</figcaption>
+</figure>
+
+
 ## Cloud computing
 
 You need to know the characteristics, uses and issues relating to
@@ -77,6 +95,12 @@ and reduced reliance on local storage hardware; its main disadvantages
 are dependency on a working internet connection to access the data at
 all, and reliance on a third-party provider for the data's security and
 availability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-networks--06-net-cloud-storage.webp" width="900" height="900" alt="Devices connect to a cloud of provider servers. Two advantages: data reachable from any online device, less local storage hardware. Two disadvantages: needs a working internet connection, relies on a third party for security." loading="lazy">
+  <figcaption>Cloud storage is reachable anywhere but depends on the internet and a provider.</figcaption>
+</figure>
+
 
 ## Network environments: extranet, intranet, and the internet
 
@@ -91,6 +115,12 @@ global, publicly accessible network that connects networks worldwide.
 The shared thread across all three is the same underlying networking
 technology; what differs is who is permitted to access it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-networks--04-net-environments.webp" width="900" height="860" alt="The internet is open to everyone. Within it, an extranet lets members and approved outsiders in. Inside that, an intranet is for one organisation’s members only. A gate admits trusted suppliers or customers; everyone else is blocked." loading="lazy">
+  <figcaption>An intranet is members only, an extranet adds approved outsiders, the internet is open to all.</figcaption>
+</figure>
+
+
 ## Network types: LAN, WLAN and WAN
 
 You need to know Local Area Network (LAN), Wireless Local Area Network
@@ -102,6 +132,12 @@ connections (such as wi-fi) instead of cables. A WAN covers a much
 larger geographic area, often connecting multiple LANs across
 different sites, cities or countries -- the internet itself is the
 largest example of a WAN.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-networks--05-net-lan-wlan-wan.webp" width="900" height="958" alt="A LAN joins computers in one building with cables. A WLAN covers a similar area wirelessly. A WAN links sites in different cities or countries; the internet is the largest WAN." loading="lazy">
+  <figcaption>LAN and WLAN cover one site by cable or wirelessly; a WAN spans far-apart sites.</figcaption>
+</figure>
+
 
 ## A worked scenario
 

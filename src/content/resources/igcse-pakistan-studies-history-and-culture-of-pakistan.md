@@ -65,6 +65,12 @@ Muslim League to independence in 1947
 - 1.3 Nationhood, 1947–99 — the political, social and economic
 development of Pakistan in the decades after independence
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-pakistan-studies-history-and-culture-of-pakistan--01-pk-three-sections.webp" width="900" height="580" alt="A horizontal timeline from before 1906 to 1999 with three blocks. Section 1.1, the cultural and historical background, comes before 1906. Section 1.2, the emergence of Pakistan, runs from the 1906 founding of the All-India Muslim League to independence in 1947, a span of 41 years. Section 1.3, nationhood, runs from 1947 to 1999, 52 years. A reminder says to tie every event back to the cultural roots in section 1.1." loading="lazy">
+  <figcaption>Paper 1 moves in time order from the background before 1906 to nationhood from 1947 to 1999.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because Paper 1 is examined through key questions on each section,
@@ -104,6 +110,12 @@ consolidation as connected rather than as two unrelated background
 facts is what separates a strong 1.1 answer from a purely descriptive
 one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-pakistan-studies-history-and-culture-of-pakistan--02-pk-roots.webp" width="900" height="1190" alt="Panel A shows religious revival before 1906: Shah Waliullah’s Persian translation of the Qur’an made scripture accessible to a wider audience, and Syed Ahmad Barelvi built on this with a more organised movement, so Muslim identity did not begin with the Muslim League in 1906. Panel B shows a chain: Mughal authority declines, creating a political vacuum, then British expansion, then British colonial rule. The decline and the British consolidation are connected facts." loading="lazy">
+  <figcaption>Religious revival and the Mughal decline both predate 1906 and form the roots of the movement.</figcaption>
+</figure>
+
+
 ## 1.2 in more depth — the path to independence
 
 Building on 1.1's cultural background, Section 1.2 traces the
@@ -118,6 +130,12 @@ should practise tracing cause and effect across a sequence of events
 initiative fed directly into growing support for the Muslim League's
 position, rather than presenting each event as an isolated fact with
 no bearing on what followed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-pakistan-studies-history-and-culture-of-pakistan--03-pk-cause-chains.webp" width="900" height="850" alt="A flow chart from the 1906 founding of the All-India Muslim League to independence in 1947. Two linked chains run side by side. In the first, the failure of a political initiative leads to growing support for the Muslim League. In the second, the divide between the Muslim League and the Indian National Congress deepens and organisational and political weight grows. Both chains feed the demand for a separate Muslim state, which leads to independence in 1947." loading="lazy">
+  <figcaption>Linked cause-and-effect chains lead from the 1906 Muslim League to independence in 1947.</figcaption>
+</figure>
+
 
 ## 1.3 in more depth — nationhood after 1947
 
@@ -145,6 +163,12 @@ consistently distinguish between candidates who describe an event in
 detail and candidates who use that detail to support a stated
 judgement — the second group scores more highly even when their
 factual content is similar.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-pakistan-studies-history-and-culture-of-pakistan--04-pk-judgement-ladder.webp" width="900" height="880" alt="A staircase of four rising steps. Step 1: state what happened. Step 2: explain its significance or impact. Step 3: weigh it against other relevant factors. Step 4: reach an explicit conclusion, marked with a flag. The lesson says examiners reward candidates who use detail to support a stated judgement over those who only describe an event." loading="lazy">
+  <figcaption>A strong judgement answer states, explains, weighs and concludes.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

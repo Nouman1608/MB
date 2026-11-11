@@ -31,6 +31,12 @@ A **sequence of steps** that solves a problem or completes a task. It must be **
 
 An algorithm is not a program. The algorithm is the method; the program is one implementation of it in a particular language.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--01-decomposition-abstraction.webp" width="900" height="870" alt="A big problem splits into three sub-problems. Below, a winding real route with stations A to E becomes a straight line map of the same stations, keeping only their connections." loading="lazy">
+  <figcaption>Decomposition splits a problem into parts; abstraction keeps only what matters, as an Underground map does.</figcaption>
+</figure>
+
+
 ## Computational thinking
 
 | Term | Meaning |
@@ -65,6 +71,17 @@ OUTPUT total
 
 Every construct must be **closed**: `IF … ENDIF`, `FOR … ENDFOR`, `WHILE … ENDWHILE`. Unclosed blocks and missing indentation are the commonest lost marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--02-flowchart-pseudocode.webp" width="900" height="1240" alt="A legend names the four flowchart symbols. A flowchart reads a number and branches on number &gt; 0 to output positive or not positive. The same algorithm is written below in pseudocode." loading="lazy">
+  <figcaption>A flowchart and pseudocode can express exactly the same algorithm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--04-binary-vs-linear-search.webp" width="900" height="900" alt="Three rows show a sorted list of 15 numbers; each step marks the middle item and greys out the discarded half until 47 is found on step 3. A bar chart compares about 10 comparisons for binary search with up to 1,000 for linear search on 1,000 items." loading="lazy">
+  <figcaption>Binary search halves a sorted list each step, so it needs far fewer comparisons than linear search.</figcaption>
+</figure>
+
+
 ## The three programming constructs
 
 - **Sequence** — instructions in order.
@@ -95,6 +112,17 @@ Binary search: compare the middle item; if the target is smaller, discard the up
 
 **Merge sort** — divide the list in half repeatedly until each part holds one item, then merge the parts back together in order. More complex but much faster on large lists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--05-bubble-sort-flag.webp" width="900" height="860" alt="A list of five numbers is shown after each pass of bubble sort with the number of swaps: 4, 2, 1 and finally 0. The pass with no swaps ends the sort." loading="lazy">
+  <figcaption>The improved bubble sort stops as soon as a complete pass makes no swaps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--06-merge-sort-split-merge.webp" width="900" height="960" alt="Eight numbers are halved repeatedly until single items, then merged back in order through sorted pairs and fours to a fully sorted list." loading="lazy">
+  <figcaption>Merge sort splits the list down to single items and merges the parts back in the correct order.</figcaption>
+</figure>
+
+
 ## Trace tables
 
 The single most reliable way to answer "what does this algorithm output".
@@ -123,6 +151,12 @@ OUTPUT total
 | 5 | 15 |
 
 Output: **15**. The algorithm sums the integers from 1 to n — writing every row, never skipping one, is what earns the marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-algorithms--03-trace-table-sum.webp" width="900" height="960" alt="The pseudocode for summing 1 to n is shown beside its trace table for n = 5. Bars show total after each pass: 1, 3, 6, 10, 15. The output is 15." loading="lazy">
+  <figcaption>A trace table records each variable after every iteration; the output here is 15.</figcaption>
+</figure>
+
 
 ## Efficiency
 

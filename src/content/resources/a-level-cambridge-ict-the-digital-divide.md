@@ -58,6 +58,12 @@ A good one-sentence definition for an exam:
 
 > The digital divide is the gap between people or regions that have access to modern technology and information, such as smart phones, computers and internet access, and those that have restricted or no access to it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--01-dd-gap.webp" width="900" height="960" alt="Two cards compare people with access (phone, TV, PC, tablet, laptop, internet) and people with restricted or no access (shared phone, slow link, no signal), with a gap arrow, a full/restricted/none bar and the people/areas/countries levels." loading="lazy">
+  <figcaption>The digital divide is the gap between those with access to technology and information and those with restricted or no access.</figcaption>
+</figure>
+
+
 ## Causes of the digital divide
 
 The syllabus names two causes you must be able to explain.
@@ -93,6 +99,12 @@ Wireless networks need infrastructure such as masts and transmitters. Providers 
 - So they cannot use services such as video calls or online learning that people with good coverage can use, which creates a gap in access. **[1]**
 
 The chain: cause → why it is uneven → what the person cannot do → the gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--02-dd-causes.webp" width="900" height="960" alt="Panel one contrasts a high performance laptop that runs current software, video calls and updates with a low performance one that cannot. Panel two contrasts a house near a mast with four signal bars with a house far from a mast with none." loading="lazy">
+  <figcaption>Two causes: device performance and wireless coverage.</figcaption>
+</figure>
+
 
 ## Effects of the digital divide
 
@@ -135,6 +147,12 @@ Other ways of reducing the effects include:
 
 When a question asks you to suggest a way of reducing the effects, **match the measure to the cause**. Free Wi-Fi does not help someone who does not know how to use a browser; digital literacy teaching does not help someone with no signal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--05-dd-fix.webp" width="900" height="900" alt="Five cause-to-measure pairs (skills, coverage, cost, accessibility, still offline) with a warning that free Wi-Fi does not help someone who cannot use a browser." loading="lazy">
+  <figcaption>Match the measure to the cause.</figcaption>
+</figure>
+
+
 ### Worked example 2 (Suggest, 3 marks)
 
 **Question:** A town council finds that many residents over 70 do not use its online services. Suggest how the council could reduce the effect of the digital divide on this group. **[3]**
@@ -145,6 +163,17 @@ When a question asks you to suggest a way of reducing the effects, **match the m
 - This builds the skills and confidence that the group may lack, so more residents can use the services independently. **[1]**
 - Keep a telephone or paper option for those who still cannot use the online services, so they are not excluded. **[1]**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--03-dd-services.webp" width="900" height="870" alt="Seven padlocked tiles: banking and payments, shopping, education, employment, government services, health and communication." loading="lazy">
+  <figcaption>Without access, people cannot use these seven kinds of service.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--04-dd-loop.webp" width="900" height="830" alt="A four-step clockwise loop: no device or connection, cannot apply for jobs online, lower-paid job, device and data harder to afford." loading="lazy">
+  <figcaption>The divide can reinforce itself in a loop.</figcaption>
+</figure>
+
+
 ## Groups affected by the digital divide
 
 The syllabus lists six groups. For each, know **why** the group may be affected and **what** it means for them.
@@ -154,6 +183,12 @@ The syllabus lists six groups. For each, know **why** the group may be affected 
 - Many younger people have grown up with technology and use it confidently.
 - Some older people did not use computers at school or work, so may lack skills or confidence, or fear online fraud.
 - Effect: they may be excluded as banks, shops and public services move online. Write "some older people", not "older people", to avoid overgeneralising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--06-dd-age.webp" width="900" height="784" alt="Bar chart: 93% of 400 people aged 18-30 and 34% of 250 people aged 70+ used online banking; gap 59 percentage points." loading="lazy">
+  <figcaption>Use percentage points for a difference between percentages.</figcaption>
+</figure>
+
 
 ### Worked example 3 (interpreting data)
 
@@ -201,6 +236,12 @@ The syllabus includes people with **learning difficulties** or **physical or sen
 - More industrially developed nations usually have extensive infrastructure (reliable electricity, broadband, mobile networks) and high technological awareness.
 - Less industrially developed nations may have less infrastructure, fewer affordable devices and lower technological awareness.
 - Effect: a divide **between countries** in access to online education, trade, health information and global communication.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-the-digital-divide--07-dd-groups.webp" width="900" height="812" alt="Six tiles: age, city v rural, education, income, accessibility, nations, each with a short reason." loading="lazy">
+  <figcaption>The syllabus names six groups affected.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -172,6 +172,17 @@ primary/foreign key relationship) and applying it to the specific
 detail given in the scenario, rather than defining the concept in
 isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--18-flat-file-to-relational.webp" width="900" height="1120" alt="An illustrative library example. A single flat table repeats each borrower’s surname and address on every loan row, and when McKay’s address is changed in one row only, the table holds two different addresses for McKay. The fix is two linked tables: Borrowers, with the primary key BorrowerID, and Loans, with BorrowerID as a foreign key pointing to the Borrowers table. Each address is stored once. A primary key identifies a record in its own table; a foreign key refers to a primary key in another table." loading="lazy">
+  <figcaption>Splitting a flat file into related tables stores each address once and links rows with a primary and foreign key.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--19-sql-join-steps.webp" width="900" height="1074" alt="An illustrative query over two tables, Borrowers and Loans. Step 1, JOIN: each loan is matched to its borrower through BorrowerID, giving five rows. Step 2, WHERE with LIKE ’Mc%’: only the rows whose surname begins with Mc are kept, which are McKay twice and McDonald once. Step 3, ORDER BY DueDate ASC: the three kept rows are sorted with the earliest due date first, giving Tiny Gardens, Iron Roads and Sea Charts." loading="lazy">
+  <figcaption>JOIN matches loans to borrowers, WHERE with LIKE keeps names beginning Mc, and ORDER BY sorts by due date.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Describing the fetch-execute cycle as a fixed sequence of named stages
@@ -221,3 +232,34 @@ Aggregate functions on grouped data, database views, transactions and ACID, and 
 International Baccalaureate Organization, *Diploma Programme Subject
 Brief -- Sciences: Computer science*, first assessment 2027, © 2024.
 Verified 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--14-theme-a-overview.webp" width="900" height="990" alt="Theme A asks how a computing system works and has four sub-topics: A.1 Computer fundamentals, A.2 Networks, A.3 Databases and A.4 Machine learning. Teaching hours: Theme A has 38 hours at SL and 72 at HL; the case study is a separate line with 15 hours at SL and 30 at HL. Paper 1 is set on Theme A together with the pre-released case study." loading="lazy">
+  <figcaption>Theme A has four sub-topics and is assessed through Paper 1 with the pre-released case study.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--15-cpu-and-storage.webp" width="900" height="650" alt="A block diagram. The CPU contains a control unit, an ALU and registers, and runs the fetch-execute cycle, shown as a loop. Primary storage is joined to the CPU by a two-way arrow. Secondary storage is shown separately and contrasted with primary storage." loading="lazy">
+  <figcaption>The CPU holds the control unit, ALU and registers and repeats the fetch-execute cycle; primary and secondary storage are distinct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--16-operating-system-layer.webp" width="900" height="740" alt="A three-layer stack. Applications sit at the top, hardware (the CPU, primary storage and secondary storage) at the bottom, and the operating system in the middle, joined to both by two-way arrows. The operating system manages hardware resources and mediates between applications and the machine." loading="lazy">
+  <figcaption>The operating system manages hardware resources and mediates between applications and the machine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--17-tcpip-layers.webp" width="900" height="780" alt="The four layers of the TCP/IP model stacked from top to bottom: application, transport, internet and network interface, with two-way arrows between neighbouring layers showing that they interact to ensure reliable data transmission. Knowing the function of the layers is HL only. Beside the application layer sit the protocols HTTP, HTTPS and DHCP, and beside the transport layer sit TCP and UDP; knowing these protocols is required at SL and HL." loading="lazy">
+  <figcaption>The four TCP/IP layers (layer roles are HL only) with the protocols named in the syllabus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--20-transaction-commit-rollback.webp" width="900" height="940" alt="A flowchart for an HL-only topic. BEGIN TRANSACTION starts, then two statements run: A = A − 30 and B = B + 30. If everything succeeded the transaction is committed and the changes are kept, giving A = 70 and B = 80 from a start of A = 100 and B = 50 (illustrative numbers). If a statement failed the transaction is rolled back and the changes are undone, leaving A = 100 and B = 50. Transactions maintain data integrity through atomicity, consistency, isolation and durability, known as ACID." loading="lazy">
+  <figcaption>A transaction either commits or rolls back; integrity rests on atomicity, consistency, isolation and durability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--21-rules-vs-learning.webp" width="900" height="920" alt="Two rows compare traditional rule-based programming with machine learning. In traditional programming, rules written by a person and data go into a program, which produces answers. In machine learning, training data with features goes into a machine learning system, which derives its own rules. Supervised and unsupervised learning are the two kinds named. Below, three ethical issues are shown: bias in training data, transparency of automated decisions, and the environmental cost of training large models." loading="lazy">
+  <figcaption>Machine learning derives its own rules from data; ethical issues are part of the topic.</figcaption>
+</figure>
+

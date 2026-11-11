@@ -71,6 +71,12 @@ The specification gives one real case for context: in a 32-bit ARM data processi
 
 So the instruction carries out operation 11 on the value **held at address 45**, not on 45 itself. Written in hexadecimal, in groups of four bits, the whole instruction is **5A2D**. The specification says number base conversions can appear inside assembly language questions, so practise moving between binary, denary and hex.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--01-mc-instruction-fields.webp" width="900" height="830" alt="A made-up 16-bit instruction, 0101101000101101 (5A2D in hexadecimal), is split into a 5-bit opcode 01011 which is operation 11, a 2-bit addressing mode 01 which means direct, and a 9-bit operand 000101101 which is 45. Because the mode is direct, the instruction works on the value held at memory address 45, not on the number 45 itself. The mode codes are 00 immediate, 01 direct and 10 indirect. A 5-bit opcode gives 32 different opcodes and a 9-bit operand has a largest unsigned value of 511." loading="lazy">
+  <figcaption>Splitting a 16-bit instruction into opcode, addressing mode and operand.</figcaption>
+</figure>
+
+
 ## 3.8.1 Addressing modes
 
 The specification defines three modes.
@@ -92,6 +98,12 @@ LDR R3, [R2]     ; indirect: R2 holds 52, so R3 gets the contents of 52
 ```
 
 Results: R1 = **40**, R2 = **52**, R3 = **9**. The same number, 40, gave a different result in each mode. Indirect addressing is what lets one instruction work through a block of memory: change the register, and the same `LDR` reads a new location.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--02-mc-addressing-modes.webp" width="900" height="930" alt="Memory location 40 holds 52 and location 52 holds 9. Immediate: MOV R1, #40 puts the value 40 itself into R1. Direct: LDR R2, 40 reads location 40, so R2 becomes 52. Indirect: LDR R3, [R2] uses the 52 held in R2 as an address and reads location 52, so R3 becomes 9. The same number 40 gives different results in each mode." loading="lazy">
+  <figcaption>MOV, LDR direct and LDR indirect give three different results from the same number 40.</figcaption>
+</figure>
+
 
 ## 3.8.2 The OxfordAQA instruction set
 
@@ -140,6 +152,12 @@ done: STR R2, 92
 
 Trace with speed 68 and limit 50: 68 > 50, so the branch is taken and R2 = 68 − 50 = **18**. With speed 45, the branch is not taken, R2 = **0**, and `B done` jumps over the subtraction. Leaving out `B done` is the classic slip: the program would fall through into `over:` and overwrite the 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--03-mc-if-else-branch.webp" width="900" height="1100" alt="Flow of an assembly program that stores the amount over a limit. It loads speed from location 90 and the limit from location 91, compares them with CMP R0, R1, then BGT over. If speed is greater (speed 68, limit 50) the branch is taken to over: SUB R2, R0, R1, giving R2 = 18. If not (speed 45) the branch is not taken, MOV R2, #0 runs and B done skips the subtraction, so R2 = 0. Both paths meet at done: STR R2, 92 and HALT. Leaving out B done would let the program fall into the subtraction and overwrite the 0." loading="lazy">
+  <figcaption>CMP and BGT choose between two paths; B done skips the THEN part.</figcaption>
+</figure>
+
+
 ## 3.8.2 Iteration with indirect addressing
 
 A loop needs a counter or pointer, a test and a branch back.
@@ -169,6 +187,12 @@ Memory holds 12, 7, 30 and 5. Trace table, one row per pass:
 
 Location 84 ends up holding **54**. Without indirect addressing you would need four separate `LDR` instructions with fixed addresses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--04-mc-loop-sum.webp" width="900" height="1019" alt="Four values 12, 7, 30 and 5 are stored in locations 80 to 83. Each pass of the loop uses indirect addressing: LDR R2, [R1] reads the location R1 points at, ADD adds it to the total in R0, and R1 moves on by 1. After pass 1 the total is 12, after pass 2 it is 19, after pass 3 it is 49 and after pass 4 it is 54. BLT loop repeats while R1 is less than 84, so the loop exits after pass 4 and STR stores 54 in location 84." loading="lazy">
+  <figcaption>A pointer register walks locations 80 to 83 while the total builds in R0.</figcaption>
+</figure>
+
+
 ## 3.8.2 Bitwise operations and shifts
 
 Logical operations work on each bit position separately. Shifts move every bit; the bits that fall off the end are lost and 0s come in. The appendix does not set a register size, so for these examples take registers as **8 bits**.
@@ -185,6 +209,12 @@ Logical operations work on each bit position separately. Shifts move every bit; 
 | `LSR R7, R1, #2` | 00111011 | 59 | 238 ÷ 4 = 59.5, fraction dropped |
 
 For an unsigned value, a logical shift left by n multiplies by 2ⁿ as long as no 1 bits are pushed out. A logical shift right by n divides by 2ⁿ and discards the remainder. `#15` is 00001111 in binary, which is why it works as a mask for the lower half.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language--05-mc-bitwise-shifts.webp" width="900" height="962" alt="R1 holds 11101110, which is 238. AND with 15 gives 00001110 (14), keeping the low four bits. ORR with 1 gives 11101111 (239), setting bit 0. EOR with 255 gives 00010001 (17), flipping every bit; MVN gives the same result. LSL by 1 gives 11011100 (220) because the top 1 is shifted out and lost. LSR by 2 gives 00111011 (59), the two right-hand 1 bits being lost, so 238 divided by 4 is 59 with the fraction dropped." loading="lazy">
+  <figcaption>Each bitwise instruction and shift applied to 11101110, showing changed and lost bits.</figcaption>
+</figure>
+
 
 ## Converting assembly back to pseudocode
 

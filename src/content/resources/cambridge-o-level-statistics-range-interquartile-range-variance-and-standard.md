@@ -60,6 +60,12 @@ range = largest value − smallest value
 
 For a list, subtract the smallest from the largest. For an ungrouped frequency table, use the smallest and largest values that have a frequency above zero. For a grouped table you do not know the actual extremes, so you can only estimate: use the upper boundary of the last class minus the lower boundary of the first class. That is the widest the range could be, so say "estimate".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--14-d-quartile-halves.webp" width="900" height="790" alt="Two rows of ordered marks show the halves method. With eleven marks Q1 = 34, median 41, Q3 = 47, IQR 13. Removing 28 gives ten marks with Q1 = 38, median 42, Q3 = 47, IQR 9." loading="lazy">
+  <figcaption>Split at the median; with odd n the median belongs to neither half.</figcaption>
+</figure>
+
+
 ## Quartiles and the interquartile range
 
 Put the data in order and split it at the median. The **lower quartile** Q1 is the middle value of the bottom half. The **upper quartile** Q3 is the middle value of the top half. With an odd n, the median itself belongs to neither half.
@@ -131,6 +137,12 @@ standard deviation = √12.25 = 3.5
 
 Check with the other form. Σx² = 144 + 225 + 81 + 400 + 196 + 121 + 289 + 100 = 1556. Then 1556/8 − 13.5² = 194.5 − 182.25 = 12.25. The two forms agree. The variance is **12.25 s²** and the standard deviation is **3.5 s**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--15-d-variance-squares.webp" width="900" height="890" alt="Eight squares whose areas are the squared distances from the mean 13.5. Their total area is 98, giving variance 12.25 square seconds and standard deviation 3.5 seconds." loading="lazy">
+  <figcaption>Variance is the mean of the squared distances; the standard deviation is its root.</figcaption>
+</figure>
+
+
 ## Ungrouped frequency distributions
 
 Each value x is repeated f times, so multiply:
@@ -161,6 +173,12 @@ standard deviation = √1.744375 = 1.32 (3 s.f.)
 ```
 
 The mean is 2.175 goals per match, with a standard deviation of about **1.32** goals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--16-d-goals-ungrouped.webp" width="900" height="920" alt="A bar chart of goals per match over 40 matches with mean 2.175, and a strip of the 40 matches in order. The 10th and 11th values are both 1 so Q1 = 1; the 30th and 31st are both 3 so Q3 = 3." loading="lazy">
+  <figcaption>Locate quartiles by position in the ordered list of frequencies.</figcaption>
+</figure>
+
 
 ## Grouped frequency distributions
 
@@ -198,6 +216,12 @@ The estimated range is 80 − 10 = 70 minutes, as an upper limit.
 
 You can also read Q1 and Q3 from a cumulative frequency curve, as covered in the [cumulative frequency guide](/resources/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--17-d-grouped-midpoints.webp" width="900" height="920" alt="A histogram of 50 queue times with class midpoints 15, 25, 40, 55 and 70 marked. Using midpoints the mean is 36.4, standard deviation 14.0, Q1 about 24.6, Q3 about 47.5 and IQR about 22.9, all estimates." loading="lazy">
+  <figcaption>Treat every value in a class as sitting at the midpoint; answers are estimates.</figcaption>
+</figure>
+
+
 ## Interpreting and comparing spread
 
 A small standard deviation or IQR means the values are close together and the mean or median is a good summary of the typical value. A large one means the values are scattered.
@@ -231,6 +255,17 @@ The IQR does not move, because the upper quartile is still 47. The range more th
 - If the data has outliers or is skewed, the IQR (with the median) is the safer measure.
 - If the data is roughly symmetrical with no extreme values, the standard deviation (with the mean) uses every value and is a good choice.
 - Compare measures of the same type: IQR with IQR, standard deviation with standard deviation, and always in the same units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--13-d-same-mean.webp" width="900" height="1010" alt="Dot plots of two classes with the same mean mark 61, and bars comparing range (30 and 63), interquartile range (11 and 18) and standard deviation (8.38 and 16.2). Class P is more consistent." loading="lazy">
+  <figcaption>Same mean, very different spread: compare matching measures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--18-d-outlier.webp" width="900" height="910" alt="The highest of eleven marks changes from 60 to 100. The range goes from 32 to 72 and the standard deviation from 8.87 to 18.56, but the IQR stays at 13." loading="lazy">
+  <figcaption>With outliers or skew, the IQR with the median is the safer measure.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -93,17 +93,55 @@ Beneath the rules sit principles that questions repeatedly test.
 
 **Judicial independence** is secured by security of tenure, salaries charged on the Consolidated Fund, immunity from suit, and the sub judice rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--15-rule-of-law-dicey.webp" width="900" height="650" alt="Three pillars support a roof labelled &quot;Rule of law&quot;: no punishment without a breach of law established in the ordinary courts, equality before the law, and rights arising from ordinary law rather than a written constitution." loading="lazy">
+  <figcaption>Dicey’s rule of law rests on three ideas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--16-separation-of-powers.webp" width="900" height="720" alt="Three separate boxes, legislature, executive and judiciary, divided by dashed lines. Below, a note that the Constitutional Reform Act 2005 created the Supreme Court separate from the House of Lords and reformed the office of Lord Chancellor." loading="lazy">
+  <figcaption>The three branches should be distinct; the 2005 Act separated the top court from the Lords.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--17-judicial-independence.webp" width="900" height="740" alt="A judge at the top with four protections beneath: security of tenure (removal only by petition to the monarch approved by both Houses), salaries charged on the Consolidated Fund, immunity from suit for judicial acts, and the sub judice rule." loading="lazy">
+  <figcaption>Four safeguards keep judges independent of the other branches.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--21-supremacy-limits.webp" width="900" height="912" alt="Two columns. On the left, three legal points showing supremacy: any subject, courts cannot strike down an Act, no Parliament binds its successor. On the right, practical limits: devolution, declaration of incompatibility under the Human Rights Act, international obligations, and Acts that are politically impossible to repeal. A banner concludes that legal supremacy survives but practical constraints are real." loading="lazy">
+  <figcaption>Parliament keeps its legal supremacy, but practical constraints are real.</figcaption>
+</figure>
+
+
 ## Theories of punishment and legal theory
 
 The specification requires the **theories of punishment** — their purposes and how they relate to the sentences actually available. **Retribution** punishes the offender because they deserve it, proportionate to the offence. **Deterrence** aims to discourage the offender (individual deterrence) and others (general deterrence) from offending. **Rehabilitation** seeks to reform the offender so they do not reoffend. **Protection of the public** removes or restricts an offender who poses a danger. **Reparation** requires the offender to make amends to the victim or society.
 
 It also requires three named **legal theories**. **Positivism** holds that law and morality are separate: a rule is law if made by the correct procedure by the recognised authority, whatever its moral content. **Natural law** holds that there is a higher, universal moral law, so that a law conflicting with it is not properly law at all. **Utilitarianism** holds that the right law or decision is the one producing the greatest happiness of the greatest number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--18-punishment-theories.webp" width="900" height="848" alt="Five rows with pictures: retribution (deserved and proportionate, shown by scales), deterrence (individual and general), rehabilitation (reform so the offender does not reoffend), protection of the public (restricting a dangerous offender) and reparation (making amends to the victim or society)." loading="lazy">
+  <figcaption>Each theory gives a different reason for punishing, and points to different sentences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--19-legal-theories.webp" width="900" height="962" alt="Three rows. Positivism: a rule made by the right authority by the right procedure is law, whatever its moral content. Natural law: a rule that conflicts with a higher universal moral law is not properly law. Utilitarianism: the right law is the one that gives the greatest happiness to the greatest number." loading="lazy">
+  <figcaption>Positivism separates law from morality; natural law ties them together; utilitarianism judges law by its results.</figcaption>
+</figure>
+
+
 ## Law and morality, law and justice
 
 Morality changes over time and varies between groups; law is enforced uniformly by the state. The overlap is substantial in areas such as homicide, and thin in regulatory offences.
 
 Theories of justice worth citing: **distributive** justice concerning allocation of resources, **corrective** justice restoring a wrong, and **procedural** justice concerning fairness of process. Rawls' veil of ignorance and Nozick's entitlement theory are the standard contrasting positions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--20-law-and-morality.webp" width="900" height="710" alt="Two Venn pictures of law and morality. For homicide the circles overlap a lot; for regulatory offences they overlap only a little. A note says morality changes over time and varies between groups, but law is enforced uniformly by the state." loading="lazy">
+  <figcaption>The overlap between law and morality is substantial for homicide and thin for regulatory offences.</figcaption>
+</figure>
+
 
 ## Sources and the courts
 

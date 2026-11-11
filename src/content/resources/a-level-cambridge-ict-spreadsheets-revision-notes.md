@@ -53,6 +53,12 @@ Then test yourself with the [Spreadsheets practice questions](/resources/a-level
 
 **Why mixed?** A two-way table (rows × columns) needs one input fixed to its column and the other fixed to its row, so a single formula can fill the grid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--06-ss-reference-types.webp" width="900" height="932" alt="A grid with prices down column A and group sizes across row 2. =$A3*B$2 copied to D5 becomes =$A5*D$2: the dollar signs keep column A and row 2 fixed. Four reference types are listed." loading="lazy">
+  <figcaption>Dollar signs decide which part of a reference stays put when a formula is copied.</figcaption>
+</figure>
+
+
 ## Function families
 
 | Purpose | Functions | Syntax reminder |
@@ -78,6 +84,12 @@ The syllabus also lists MAXIF and MINIF with this family. Function names are exa
 4. `FALSE` for an exact match.
 5. Wrap in IFERROR if a key might be missing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--08-ss-lookups.webp" width="900" height="1032" alt="VLOOKUP finds Junior in the first column of the rates table and returns column 2, 120. INDEX with MATCH finds the largest visit count (42) at position 2 and returns the surname there, Haddad." loading="lazy">
+  <figcaption>Lookups find a key, then return a value from the same row or position.</figcaption>
+</figure>
+
+
 ### Method: nested IF bands
 
 1. List the bands from highest to lowest.
@@ -85,6 +97,12 @@ The syllabus also lists MAXIF and MINIF with this family. Function names are exa
 3. Each "false" branch holds the next IF.
 4. The last false value is the lowest band; it needs no test.
 5. Count brackets: one closing bracket per IF.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--09-ss-nested-if.webp" width="900" height="810" alt="A ladder of three tests: blank gives No record, 30 or more gives Gold, 15 or more gives Silver, otherwise Bronze. Each member lands in one band." loading="lazy">
+  <figcaption>A nested IF tests in order, so the highest band goes first.</figcaption>
+</figure>
+
 
 ### Method: number from a code
 
@@ -103,6 +121,12 @@ The syllabus also lists MAXIF and MINIF with this family. Function names are exa
 2. Apply subtotals "at each change in" that field.
 3. Choose the function (sum, count, average) and the column to total.
 4. Use the outline groups to collapse the list to the totals only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--07-ss-conditional-functions.webp" width="900" height="972" alt="The members table with Adult rows shaded and visits over 30 ringed, and the results 3, 720, 33.3, 2, 480 and 42 for COUNTIF, SUMIF, AVERAGEIF, COUNTIFS, SUMIFS and MAXIFS." loading="lazy">
+  <figcaption>Each conditional function works only on the rows that meet its criteria.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -133,6 +157,12 @@ Columns of a test plan: test number, what is tested, test data, data type, expec
 | Abnormal | Invalid, must be rejected | −1, 101, "pass" |
 
 Test conditional formatting and IF formulas either side of every boundary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--10-ss-test-data.webp" width="900" height="960" alt="A number line for the 1 to 8 ticket rule showing normal (4), extreme (1, 8) and abnormal (9, 3.5, two) data, and a second line showing 14, 15, 29 and 30 either side of the IF boundaries." loading="lazy">
+  <figcaption>Good test data includes normal, extreme and abnormal values and both sides of each boundary.</figcaption>
+</figure>
+
 
 ## 8.3 Extract, sort, summarise, import and export
 
@@ -183,6 +213,12 @@ Formatting checklist: title, legend, category and value axis labels, series labe
 10. **`=$C$1*B8`**.
 11. **428**.
 12. A **pie chart**, with percentages shown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-spreadsheets--11-ss-chart-choice.webp" width="900" height="1016" alt="Six small charts with illustrative data: bar, pie, line, comparative bar, comparative line and a combination chart, each labelled with its purpose." loading="lazy">
+  <figcaption>Choose the chart that matches what you want to show.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

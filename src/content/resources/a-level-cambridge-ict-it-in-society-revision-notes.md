@@ -53,6 +53,12 @@ Test yourself with the [practice questions](/resources/a-level-cambridge-ict-it-
 - **EPOS:** checkout terminal that records the sale, updates stock and passes the card payment for authorisation.
 - **Mobile electronic wallet:** a phone app holding currency (or the keys to it) for direct payments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--02-central-vs-decentral.webp" width="900" height="800" alt="Two panels. Centralised, for example a debit card payment: six customers connect to one bank, which keeps the one ledger and checks and records every payment. Decentralised, for example a Bitcoin payment: six computers are connected to each other, each holds a copy of the ledger, and there is no single authority." loading="lazy">
+  <figcaption>A centralised system has one authority that checks and records every transaction; a decentralised one is checked by a network of computers.</figcaption>
+</figure>
+
+
 ### Blockchain in steps
 
 ```
@@ -64,6 +70,12 @@ Test yourself with the [practice questions](/resources/a-level-cambridge-ict-it-
 ```
 
 Key words to use: **distributed ledger**, **hash**, **nodes**, **consensus**, **append-only**, **transparent**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--01-blockchain-tamper.webp" width="900" height="900" alt="Two rows of four linked blocks. Each block stores the hash of the previous block, so the blocks form a chain. In the original chain every link matches. When block 2 is edited its hash changes, but block 3 still stores the old hash, so the link from block 2 to block 3 breaks. Below, the other nodes keep the original chain and the edited copy is rejected." loading="lazy">
+  <figcaption>Changing an old block changes its hash, which no longer matches the hash stored in the next block, so the altered copy is rejected.</figcaption>
+</figure>
+
 
 ### Impact and risks (one line each)
 
@@ -89,6 +101,12 @@ Key words to use: **distributed ledger**, **hash**, **nodes**, **consensus**, **
 
 Memory hook: **B**usiness, **D**ata, **D**ata, **M**odel, **E**valuate, **D**eploy -- two "data" stages: first **understand**, then **prepare**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--03-data-mining-stages.webp" width="900" height="964" alt="Six numbered stages in order: 1 Business understanding (set the objective), 2 Data understanding (collect, explore, check quality), 3 Data preparation (select, clean, combine, format), 4 Data modelling (classification, clustering, association rules), 5 Evaluation (accurate? meets the objective?), 6 Deployment (use the results, then monitor). A dashed arrow runs from Evaluation back to stages 1 to 4 when the results are not good enough." loading="lazy">
+  <figcaption>Data mining runs through six stages; if evaluation shows the results are not good enough, return to an earlier stage.</figcaption>
+</figure>
+
+
 ### Uses
 
 National security (threat patterns), surveillance (tracking movements), businesses (buying patterns, targeted offers, fraud detection), scientific research (patterns in huge data sets), healthcare (risk factors, predicting need), social and economic trends (informing policy).
@@ -101,6 +119,12 @@ National security (threat patterns), surveillance (tracking movements), business
 | Hidden patterns support better decisions | Ethical and privacy concerns: data used without consent, profiling |
 | Early detection of fraud or disease | Patterns may be coincidence |
 | Can reduce costs over time | Software and skilled staff are expensive |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--04-data-prep-example.webp" width="900" height="740" alt="Three bars drawn to scale show 12,500 customer records, then 12,000 after 500 duplicates (4%) are removed, then 11,400 after 600 records with no postcode (5% of 12,000) are removed. The result, 11,400, is data preparation, stage 3." loading="lazy">
+  <figcaption>Removing 500 duplicates and then 600 records with no postcode leaves 11,400 of the 12,500 records.</figcaption>
+</figure>
+
 
 ## 12.3 Social networking services/platforms
 
@@ -120,6 +144,12 @@ National security (threat patterns), surveillance (tracking movements), business
 - Businesses: advertising, product information, product safety information, customer feedback.
 - Organisations: disseminate information, weather warnings.
 - Governments: useful information, updated regulations, advice and discussion, government news, citizen feedback; censorship, false/distorted information.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--05-social-platform-types.webp" width="900" height="804" alt="Six cards each show an icon and one key feature: chat room (real-time, many users, one topic), instant messaging (real-time private messages), email (read when the receiver chooses), forum (threads stay online, moderated), blog (regular posts with comments), microblog (very short posts to followers)." loading="lazy">
+  <figcaption>The six types of social networking service differ in how fast, how public and how lasting the messages are.</figcaption>
+</figure>
+
 
 ## 12.4 The impact of IT
 
@@ -141,6 +171,12 @@ The twelve areas the syllabus lists: **sport, manufacturing, healthcare, educati
 | Video-conferencing | Live remote lessons with sound and video | Needs stable connection, fixed times |
 
 **Impact on:** student and teacher **motivation** (interactive, instant feedback vs isolation, training load), **achievement** (repetition, tracking vs distraction), **autonomy** (choose time, place, pace vs self-discipline needed). Access gaps link to [the digital divide](/resources/a-level-cambridge-ict-the-digital-divide/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--07-learning-methods.webp" width="900" height="958" alt="A learner icon connects to five methods of delivery: computer-based training (own pace, built-in tests), online tutorials (step-by-step, one skill), networked courses (share materials, submit work), MOOC (open to very large numbers), and video-conferencing (live sound and video)." loading="lazy">
+  <figcaption>Five methods of delivering technology enhanced learning, from self-paced software to live video lessons.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -201,6 +237,12 @@ In a centralised system, one authority such as a bank checks and records each tr
 
 **Is every digital currency a cryptocurrency?**
 No. Digital currency is the umbrella term for any money that exists and moves only electronically, including a bank balance spent by card. Using the two terms as if they mean the same thing is a common mistake.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-it-in-society--06-discuss-banking-pairs.webp" width="900" height="988" alt="Three rows pair a benefit of IT in banking with its downside: bank online at any time, but branches close and offline customers lose out; systems block suspicious payments, but customers face phishing; contactless payment is faster, but stored card details can be stolen. A balance icon reminds students to give both sides, then a conclusion." loading="lazy">
+  <figcaption>A Discuss answer pairs each point with its downside, as in this six-mark banking plan.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

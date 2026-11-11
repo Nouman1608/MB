@@ -96,6 +96,17 @@ AO6's technical-accuracy requirement is fixed by the specification at
 20% of all marks for the qualification as a whole -- both figures worth
 knowing when deciding where to invest revision time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--03-p1-ao.webp" width="900" height="880" alt="Section A, Reading, assesses AO1 (identify and interpret ideas), AO2 (how language and structure achieve effects) and AO4 (evaluate the text critically). Section B, Writing, assesses AO5 (communicate clearly and organise ideas) and AO6 (accurate vocabulary, spelling and punctuation). AO3, comparing writers, is not tested on Paper 1; it belongs to Paper 2." loading="lazy">
+  <figcaption>Paper 1 tests AO1, AO2 and AO4 in reading and AO5 and AO6 in writing, but not AO3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--04-p1-gcse-weights.webp" width="900" height="790" alt="Two bars each represent all 160 marks of the GCSE. By paper, Paper 1 and Paper 2 are 80 marks (50%) each. By skill, reading is 80 marks (50%), AO5 writing content and organisation is 48 marks (30%) and AO6 technical accuracy is 32 marks (20%)." loading="lazy">
+  <figcaption>Across both papers, reading is 50% of the marks, AO5 is 30% and AO6 is 20%.</figcaption>
+</figure>
+
+
 ## Why fiction, and why no 19th-century source here
 
 Paper 1's reading source is always literature fiction from the 20th or
@@ -109,6 +120,12 @@ centuries with a Paper 2 second source from whichever of those two
 periods Paper 1 did *not* use that series -- so across the two papers,
 students meet material from all three centuries (19th, 20th, 21st),
 just never the same period twice within a single series' pairing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--05-p1-periods.webp" width="900" height="720" alt="A grid of three centuries, the 19th, 20th and 21st. In one possible series the Paper 1 text is from the 20th century and the Paper 2 sources are from the 19th and 21st. In the other, Paper 1 is 21st century and Paper 2 uses the 19th and 20th. Paper 1 is never from the 19th century." loading="lazy">
+  <figcaption>Paper 1 uses a 20th- or 21st-century text; Paper 2 pairs the 19th century with whichever of those Paper 1 did not use.</figcaption>
+</figure>
+
 
 
 ## Section B: writing from a choice of stimulus
@@ -125,6 +142,12 @@ exactly, technical accuracy is worth exactly the same amount on both
 papers, even though the writing genre (creative fiction here, versus
 viewpoint-driven non-fiction on Paper 2) is entirely different.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--06-p1-writing.webp" width="900" height="1000" alt="A flow chart. Choose one of three stimuli: a scenario, a written prompt or a visual image. Plan for two to three minutes: opening, development, turning point, ending. Then write your own narrative or descriptive piece. It is not a continuation of the Section A extract. Marks are 24 for content and organisation and 16 for technical accuracy." loading="lazy">
+  <figcaption>Choose one stimulus, plan a shape, then write your own piece, not a continuation of the extract.</figcaption>
+</figure>
+
+
 ## The final reading question and stretch
 
 AQA's own scheme of assessment singles out Question 4 -- the extended,
@@ -139,6 +162,12 @@ from multiple points rather than a single well-spotted quotation.
 Recognising this question as the paper's deliberate stretch-and-
 challenge point, and allocating revision time accordingly, is worth
 building into a revision plan from early on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--02-p1-ladder.webp" width="900" height="890" alt="A bar chart of the four Section A questions in their fixed order: Question 1 is 4 marks (short form), Questions 2 and 3 are 8 marks each (longer form), and Question 4 is 20 marks (extended evaluation), the stretch question. The marks add up to 40." loading="lazy">
+  <figcaption>Section A rises from a 4-mark short question to a 20-mark evaluative question.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -202,3 +231,9 @@ https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification/scheme-o
 and
 https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification/specification-at-a-glance,
 fetched and verified in full 2026-09-03.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--01-p1-marks.webp" width="900" height="790" alt="Two bars show the 80 marks of Paper 1. Section A, Reading, is 40 marks made of questions worth 4, 8, 8 and 20. Section B, Writing, is 40 marks made of 24 for content and organisation and 16 for technical accuracy. The paper lasts 1 hour 45 minutes." loading="lazy">
+  <figcaption>Paper 1 is 80 marks: 4 + 8 + 8 + 20 for reading and 24 + 16 for writing.</figcaption>
+</figure>
+

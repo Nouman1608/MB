@@ -92,6 +92,12 @@ Software divides into **system software** — the operating system, utilities, d
 
 The operating system manages memory, files, processes, input and output devices, and provides the user interface.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--15-cs-hw-sw.webp" width="900" height="980" alt="Hardware is physical (CPU, RAM, storage). Software splits into system (OS, utilities, drivers, compilers) and application (word processor, spreadsheet, browser, database); the OS manages memory, files, processes, input and output and the user interface." loading="lazy">
+  <figcaption>Hardware is physical; software is system or application.</figcaption>
+</figure>
+
+
 ## Main components
 
 | Component | Role |
@@ -107,11 +113,28 @@ The distinction between RAM and ROM is examined constantly: RAM is **volatile** 
 
 **Embedded systems** are computers built into another device — a washing machine, a car engine management system — dedicated to one task, with the program usually held in ROM.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--16-cs-components.webp" width="900" height="880" alt="Block diagram: CPU (control unit, ALU, registers) joined to RAM, ROM and secondary storage, with input devices in and output devices out." loading="lazy">
+  <figcaption>The CPU works with memory, storage, input and output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--17-cs-ram-rom.webp" width="900" height="900" alt="With power on, RAM and ROM hold data; after power off, RAM is empty (volatile) and ROM keeps its data (non-volatile). ROM holds boot instructions." loading="lazy">
+  <figcaption>RAM loses its contents without power; ROM keeps them.</figcaption>
+</figure>
+
+
 ## User interfaces
 
 - **Command line interface** — the user types commands. Efficient and powerful for experts, but requires memorising commands and is unforgiving of typing errors.
 - **Graphical user interface** — windows, icons, menus and pointers. Intuitive for beginners, but uses more memory and processing power.
 - **Dialogue and gesture-based interfaces** — voice control and touch gestures, useful where hands or sight are occupied, but less reliable in noisy environments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--18-cs-interfaces.webp" width="900" height="940" alt="Command line (efficient for experts, commands to memorise), graphical (intuitive, uses more memory and power), dialogue and gesture (hands/eyes busy, less reliable when noisy)." loading="lazy">
+  <figcaption>Each interface has strengths and weaknesses.</figcaption>
+</figure>
+
 
 ## Storage
 
@@ -122,6 +145,12 @@ The distinction between RAM and ROM is examined constantly: RAM is **volatile** 
 **Solid state** storage (SSD, memory cards, USB drives) uses flash memory with no moving parts: fast, silent, robust and low power, but dearer per gigabyte and with a finite number of write cycles.
 
 Choosing storage in an exam answer means matching the property to the scenario — a laptop used in the field needs robustness, an archive needs capacity and cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--19-cs-storage.webp" width="900" height="1010" alt="Magnetic, optical and solid state with their advantages and disadvantages, and a fieldwork-tablet example choosing solid state." loading="lazy">
+  <figcaption>Match the property to the scenario.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -157,9 +186,21 @@ to the scenario's specific requirements (portability, processing
 power, screen size, battery life) rather than simply naming the most
 expensive or most modern option.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--21-cs-types.webp" width="900" height="840" alt="Five rows: desktop, laptop, tablet, phablet, smartphone, with strengths and arrows for power and portability." loading="lazy">
+  <figcaption>Choose a device by matching strengths to the scenario.</figcaption>
+</figure>
+
+
 ## Analogue and digital data
 
 The real world is **analogue** — continuously variable, like sound pressure or temperature — but a computer can only store and process **digital** data. An **analogue-to-digital converter (ADC)** samples an analogue signal at regular intervals and stores each sample as a binary number, needed wherever a computer records a real-world signal (a microphone, a temperature sensor). A **digital-to-analogue converter (DAC)** reverses the process, turning stored binary values back into a continuously variable signal a speaker or motor can use. Both conversions are needed wherever a computer system connects to the analogue world on either the input or the output side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--20-cs-adc-dac.webp" width="900" height="930" alt="A microphone wave is sampled by an ADC into binary codes (illustrative 8 samples x 3 bits: 100 110 111 110 100 001 000 001) and rebuilt by a DAC for a speaker." loading="lazy">
+  <figcaption>Computers need ADC and DAC to meet the analogue world.</figcaption>
+</figure>
+
 
 ## Emerging technologies
 

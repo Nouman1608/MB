@@ -92,6 +92,12 @@ ENDCASE
 
 The OTHERWISE line catches every value not listed. Without it, an invalid entry would do nothing at all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--01-alg-if-branching.webp" width="900" height="840" alt="A decision flow for the cinema price: INPUT Age; Age &lt; 16 gives price 6; otherwise Age &gt; 64 gives 7; otherwise 10. Boundary ages 15, 16, 64, 65 are placed under the price they receive." loading="lazy">
+  <figcaption>Nested IF sends each age to one of three prices; boundary ages fall on the correct side.</figcaption>
+</figure>
+
+
 ## Looping
 
 ### FOR…NEXT: a fixed number of repeats
@@ -207,6 +213,22 @@ PRINT GrandTotal
 
 The inner body runs 3 × 4 = **12** times. Row totals are 10, 20 and 30, so GrandTotal is **60**. The inner NEXT must close before the outer NEXT.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--02-alg-while-repeat.webp" width="900" height="830" alt="Two loop flows: WHILE tests at the top so the body can run 0 times; REPEAT tests at the bottom so the body runs at least once and stops when the condition becomes true." loading="lazy">
+  <figcaption>WHILE tests first and can run zero times; REPEAT tests last and runs at least once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--03-alg-for-trace.webp" width="900" height="810" alt="Stacked staircase of readings 4, 0, 12, 7, 3, 10 giving running totals 4, 4, 16, 23, 26, 36; output 36 and 6." loading="lazy">
+  <figcaption>Total grows by each reading inside the loop; Total is set to 0 before the loop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--04-alg-nested-loops.webp" width="900" height="740" alt="Grid of Row times Col for 3 rows and 4 columns with row totals 10, 20, 30 and GrandTotal 60; inner body runs 12 times." loading="lazy">
+  <figcaption>The inner loop completes for every pass of the outer loop.</figcaption>
+</figure>
+
+
 ## Procedures and subroutines
 
 A **procedure** (or subroutine) is a named block of steps written once and **called** whenever it is needed. Procedures make an algorithm shorter, easier to read, and easier to edit: change the procedure once and every call uses the new version.
@@ -272,6 +294,17 @@ The flowchart, box by box:
 
 Check with 20, 18, 25, 0: Total = 63, which is over 50, so the output is **56.70**. With 12, 30, 0: Total = 42, so no discount and the output is **42**. If the chart had to continue on a new page, you would end the first part at a connector circle labelled A and start the next part from another circle labelled A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--05-alg-flowchart-symbols.webp" width="900" height="950" alt="Seven symbols: terminator, input/output parallelogram, process rectangle, decision diamond, subroutine rectangle with double side lines, connector circle and flowline arrow, each with its use." loading="lazy">
+  <figcaption>The seven flowchart symbols and what each is used for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--06-alg-till-flowchart.webp" width="900" height="1100" alt="Shop till flowchart with START, Total set to 0, INPUT Price, decision Price = 0 with loop back, decision Total &gt; 50 with 10 percent off, PrintReceipt subroutine, OUTPUT Total and STOP. Test 1 (20, 18, 25, 0) gives 56.70; test 2 (12, 30, 0) gives 42." loading="lazy">
+  <figcaption>The till flowchart in standard symbols, with the lesson test data traced.</figcaption>
+</figure>
+
+
 ## Editing and finding errors
 
 Exam tasks often give you an algorithm or flowchart and ask you to correct or extend it. Work like this:
@@ -301,6 +334,12 @@ Test with ten 1s: the expected average is 1. The trace gives Total = 55 and an o
 **Editing to meet a new need.** To make Worked example 3 also count dry days, add `Dry ← 0` before the loop, add `IF Rain = 0 THEN Dry ← Dry + 1 ENDIF` inside the loop after the INPUT, and add Dry to the PRINT line. With the same six readings, Dry is **1**.
 
 Other errors to look for: a counter or total set to zero inside the loop; a loop with no way to end (WHILE condition never changes); the wrong comparison (`>` where the scenario says "at least"); a missing ENDIF or NEXT; a decision box with only one exit; a flowline with no arrowhead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-algorithms-and-flowcharts--07-alg-find-errors.webp" width="900" height="870" alt="Seven lines of pseudocode with line 4 (adds Count instead of Num) and line 6 (divides by 9) highlighted. With ten 1s the expected average is 1; the faulty trace gives 6.1 and the fixed version 1." loading="lazy">
+  <figcaption>Tracing with simple test data exposes the two errors.</figcaption>
+</figure>
+
 
 ## Common errors
 

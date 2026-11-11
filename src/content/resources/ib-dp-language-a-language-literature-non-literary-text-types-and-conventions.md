@@ -116,6 +116,12 @@ In analysis, treat a photograph as a set of choices, not a window. Look at **sho
 the subject look at the viewer or away?). A **caption** often fixes the meaning of an image. This is
 called **anchorage**: the same picture can say different things under different captions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--04-nlt-photo-choices.webp" width="900" height="1042" alt="Three panels. Shot distance: close-up, medium and long shots of a figure, from large in the frame to small and far away. Camera angle: a camera placed high, at eye level and low, each aiming at a standing figure. Gaze: a face looking straight at the viewer (demand) and a face looking away (offer)." loading="lazy">
+  <figcaption>Shot distance, angle and gaze are choices a photographer makes.</figcaption>
+</figure>
+
+
 ### Cartoons
 
 An editorial cartoon comments on a topical issue, usually in a single panel. Conventions:
@@ -131,6 +137,17 @@ summary under the headline), byline, dateline, third person, quotations from sou
 appears neutral, but choice of headline, quotations and order still shapes the reader's view. A
 **formal report** from an organisation uses a title, a summary, headed sections, findings and
 recommendations, an impersonal register and often the passive voice ("It was found that...").
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--01-nlt-eight-types.webp" width="900" height="994" alt="Eight cards, each with a small icon, a text type and three conventions the reader expects. Advert: slogan, dominant image, call to action. Editorial: unsigned, voice of we, recommendation. Speech: opening address, lists of three, repetition. Blog: title and date, first person, comments. Infographic: headline figure, charts and icons, source line. Photograph: shot distance, angle, caption. Cartoon: caricature, visual metaphor, speech bubble. News report: headline, byline, inverted pyramid." loading="lazy">
+  <figcaption>Eight text types with three conventions each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--03-nlt-inverted-pyramid.webp" width="900" height="940" alt="A mock news page. At the top are a headline bar, a standfirst (a short summary), and a byline and dateline. Below sits an upside-down triangle in three bands: the most important facts at the wide top, detail in the middle, and background at the narrow bottom, showing that the most important facts come first." loading="lazy">
+  <figcaption>A news report puts the most important facts first.</figcaption>
+</figure>
+
 
 ## Reading images and layout
 
@@ -153,6 +170,12 @@ against the text, not a rule.
 
 Describe precisely before you interpret: "a low-angle shot against a grey sky" is evidence; "a nice
 picture" is not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--06-nlt-layout-terms.webp" width="900" height="925" alt="A mock poster with six numbered parts. 1 Salience: the large bright image stands out most. 2 Vector: the person’s gaze, drawn as a dashed line, leads the eye to the product. 3 Hierarchy of type: a large headline over smaller lines and tiny print shows what matters. 4 White space: an empty dashed area isolates and calms. 5 Reading path: a dashed route from top left to bottom right. 6 Call to action: a button often placed at the end of that path. The reading path is a tendency for left-to-right languages, not a rule." loading="lazy">
+  <figcaption>Six layout terms located on a mock page.</figcaption>
+</figure>
+
 
 ## Worked example 1: an editorial
 
@@ -190,6 +213,12 @@ phrases a reader can repeat.
 **Step 4: link to audience.** Local readers know the square, so the paper appeals to shared memory
 before it asks them to agree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--02-nlt-editorial-shape.webp" width="900" height="972" alt="A five-step ladder showing the order of an editorial, using the Kelby night market example: 1 Issue, the council vote on moving the market; 2 Position, keep the market in the square; 3 Concession, we understand the worry about litter; 4 Rebuttal, more bins, not fewer people; 5 Recommendation, we urge councillors to vote no. Below, two cards contrast an editorial (unsigned, speaks as we, the voice of the paper) with an opinion column (signed, personal I, one writer’s voice)." loading="lazy">
+  <figcaption>The Kelby editorial follows issue, position, concession, rebuttal, recommendation.</figcaption>
+</figure>
+
+
 ## Worked example 2: a photograph and two captions
 
 > **Original text written for Marlbridge** -- description of a news photograph
@@ -214,6 +243,12 @@ exposed. The rhetorical question turns one person on a wall into a sign of how l
 there is. The picture reads as a warning.
 
 **Conclude.** The image has not changed; the caption has anchored it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-non-literary-text-types-and-conventions--05-nlt-anchorage.webp" width="900" height="955" alt="A schematic news photograph in the centre: a low-angle view of a figure in a gold high-visibility jacket standing on a flood barrier, looking out of the frame to the left, with a grey sky filling the top two-thirds and tiny rooftops in the bottom corner. Two captions point from the same image. Caption A, Engineer Dana Okoro checks the new barrier on its first day, makes the picture read as reassurance. Caption B, Is this all that stands between Wexmoor and the next flood, makes it read as a warning. The picture is the same; the caption anchors its meaning." loading="lazy">
+  <figcaption>The same photograph reads as reassurance or warning depending on its caption.</figcaption>
+</figure>
+
 
 ## Common errors
 

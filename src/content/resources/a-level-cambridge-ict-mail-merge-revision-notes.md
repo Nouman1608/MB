@@ -54,6 +54,12 @@ Test yourself with the [mail merge practice questions](/resources/a-level-cambri
 - Data without master: no layout or wording.
 - Separate files: one source can feed a letter, labels and a directory; update the data once and every master uses the new values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--08-mm-source-data.webp" width="900" height="930" alt="Two illustrative tables. The poor one has a vague combined name field, a blank row, mixed date formats and a duplicate record. The good one has field names in the first row only, the smallest useful fields (Title, Forename, Surname), one record per row and one date format." loading="lazy">
+  <figcaption>Good source data has clear fields, one record per row and consistent formats.</figcaption>
+</figure>
+
+
 ## Source data: method in steps
 
 1. Field names in row 1 only, unique and descriptive.
@@ -84,6 +90,17 @@ Sheets = records ÷ labels per sheet, rounded UP
 
 Reminder: 3 across × 8 down = 24 per sheet. 100 recipients → 100 ÷ 24 = 4.17 → 5 sheets; the last has 100 − 96 = 4 labels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--07-mm-how-it-works.webp" width="900" height="880" alt="A master document holds fixed text and merge fields for Surname and Owed. A data source holds one record per row: Okafor 40, Khan 25 and Iqbal 80. Merging produces one personalised copy per record with the same layout and wording and only the field values changed." loading="lazy">
+  <figcaption>One master document plus one record per row gives one personalised copy per record.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--09-mm-custom-labels.webp" width="900" height="765" alt="A scale drawing of an A4 sheet with 14 labels of 99 by 38 mm, 2 across and 7 down, and a 2 mm gap between columns. Horizontal pitch is 101 mm, vertical pitch 38 mm, side margin 5 mm and top margin 15.5 mm. 150 records need 11 sheets, the last with 10 labels." loading="lazy">
+  <figcaption>Pitch is label size plus gap; margins centre the labels on the sheet.</figcaption>
+</figure>
+
+
 ## Linking the master to the source
 
 - Link first, then insert fields from the source's list, not by typing them.
@@ -110,6 +127,17 @@ Fill-in and Ask can usually prompt **once per merge** or **once per record**.
 
 **When and why to set up fields**: data not in the source → Fill-in/Ask; value can be worked out → formula; value must stay current → date, page or file-name field. Set up and test before the full merge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--10-mm-fill-in-ask.webp" width="900" height="960" alt="A prompt asks the user to type a date. A Fill-in field shows the response where the field is placed. An Ask field stores it under a name so it can be shown in several places or used in a condition. Both can prompt once for the whole merge or for each record." loading="lazy">
+  <figcaption>Fill-in shows the answer in one place; Ask stores it so it can be reused.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--11-mm-formula-invoice.webp" width="900" height="890" alt="A formula field calculates Total as Quantity times 25.50, Discount as 10 percent of Total when Total is over 500, and To pay as Total minus Discount. Quantity 24 gives 612.00, discount 61.20, to pay 550.80. Quantity 12 gives 306.00, no discount, to pay 306.00." loading="lazy">
+  <figcaption>The formula runs separately for each record, so no totals are typed by hand.</figcaption>
+</figure>
+
+
 ## Rules for recipients
 
 | Rule | What it does | Example |
@@ -123,6 +151,17 @@ Fill-in and Ask can usually prompt **once per merge** or **once per record**.
 | Next Record If | If true, move to the next record in the same merged document | Labels and directories |
 
 **When and why**: so only the right people get a document; cuts wasted printing and postage; avoids wrong or upsetting messages; respects people who asked not to be contacted (data protection); gives output in a useful order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--12-mm-choose-recipients.webp" width="900" height="920" alt="Eight records with Surname, Region, Owed and Contact. The filter Region North AND Owed over 0 keeps Okafor, Brown, Khan and Iqbal. Skip Record If Contact is No removes Brown. Sorting by surname gives the output order Iqbal, Khan, Okafor. Using OR instead of AND would select 7 of the 8 records." loading="lazy">
+  <figcaption>Filter, then skip, then sort: three letters are produced from eight records.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--13-mm-conditional-fields.webp" width="900" height="970" alt="If Then Else inserts one sentence if Owed is over 0 and another if not: Okafor (owes 40) gets a please pay sentence, Patel (owes 0) gets a thank you sentence. Skip Record If Contact is No produces no copy for Brown while Khan and Iqbal get copies. Next Record If moves to the next record within the same merged document, one record per test." loading="lazy">
+  <figcaption>If Then Else changes the wording; Skip Record If removes the copy; Next Record If moves on within one document.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

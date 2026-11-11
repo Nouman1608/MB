@@ -75,6 +75,17 @@ Paper 4 weights the assessment objectives at 20% knowledge, 20% understanding an
 
 **Worked paragraph (essay on impacts of trade):** Trade earns exporting countries foreign currency, but the benefit depends on what is exported. *(Knowledge)* Zambia relies on copper for most export earnings, so its government revenue and currency rise and fall with world copper prices. *(Application)* This means a fall in copper prices cuts income while debt repayments still fall due, making debt harder to service; Zambia defaulted in 2020. *(Analysis)* So trade benefits commodity exporters mainly in boom years; diversified exporters such as manufacturing economies gain more steadily, which suggests the type of export matters more than the volume of trade. *(Evaluation)*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--08-gi-visible-invisible.webp" width="900" height="860" alt="Two columns. Visible trade is physical goods such as copper, cars and coffee. Invisible trade is services such as tourism, banking, insurance, shipping and software. Below, an arrow shows a tourist from Germany spending money in Kenya: this is an invisible export for Kenya and an invisible import for Germany." loading="lazy">
+  <figcaption>Visible trade is goods; invisible trade is services, such as a German tourist spending money in Kenya.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--09-gi-fairtrade-floor.webp" width="900" height="1010" alt="A line graph with time on the horizontal axis and price on the vertical axis. A wavy line shows an illustrative world price that rises and falls. A dashed horizontal line shows the Fairtrade Minimum Price, a floor. Where the world price falls below the floor, the gap is shaded: a certified producer is still paid the floor. Underneath, a stacked bar shows the price paid plus the Fairtrade Premium, which the producer group invests in community or business projects." loading="lazy">
+  <figcaption>When world prices fall, the Fairtrade floor holds; the Premium is paid on top for projects. Numbers are illustrative.</figcaption>
+</figure>
+
+
 ## 13.2 International debt and international aid
 
 **Causes and nature of debt.** Countries borrow to fund infrastructure, cover trade deficits or respond to shocks. Debt becomes a problem when repayments (debt service) take a large share of export earnings or government revenue. Problems include cuts to health and education spending, currency crises and loss of control over policy to lenders.
@@ -98,6 +109,17 @@ Donors also include NGOs and charities. In 1970 the UN set a target for rich cou
 
 **Worked paragraph (aid essay):** Tied aid can limit the benefit to receiving countries. *(Knowledge)* The Pergau Dam case showed aid being used to secure a commercial and arms deal for the donor. *(Application)* When aid is shaped by donor interests, projects may not match local priorities, and some of the money flows back to firms in the donor country. *(Analysis)* So the impact of aid depends less on its amount than on who controls it; untied, locally planned aid is more likely to reach the people who need it. *(Evaluation)*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--10-gi-debt-crisis-chain.webp" width="900" height="1190" alt="A vertical chain of eight linked steps. 1973: oil price rise. In the 1970s oil exporters deposit money in Western banks, which lend it on to developing countries. From 1979 interest rates in the US and Europe rise and debt service soars. In August 1982 Mexico cannot service its debt and the crisis spreads across Latin America. IMF loans bring structural adjustment: austerity, privatisation and trade liberalisation. Urban real wages fall in the lost decade. Debt relief follows through HIPC in 1996 and 1999 and MDRI in 2005. In November 2020 Zambia defaults on a Eurobond." loading="lazy">
+  <figcaption>How the 1970s oil shock led to the 1982 debt crisis, then relief, and why debt problems returned.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--11-gi-aid-types.webp" width="900" height="1010" alt="Three rows show who gives and who controls aid. Bilateral aid goes from one government directly to another. Multilateral aid comes from several donors pooled through an international body such as the World Bank or a UN agency, then passes to the receiver. Tied aid goes from a donor to a receiver, but a dashed arrow shows the receiver must spend the money on goods or services from the donor. A bottom strip contrasts relief aid, short-term help after a disaster, with development aid, long-term help such as schools, roads and water supply." loading="lazy">
+  <figcaption>Aid is classified by who gives it and on what conditions, and by whether it is short-term relief or long-term development.</figcaption>
+</figure>
+
+
 ## 13.3 The development of international tourism
 
 **Reasons for growth:** rising incomes and paid holidays; cheaper air travel (wide-bodied jets, low-cost airlines); online booking and reviews; more destinations opening to tourists; marketing by governments. International arrivals passed 1 billion in 2012. They fell by around 70% in 2020 because of COVID-19, then recovered to about 1.4 billion in 2024, close to the 2019 level (UN Tourism figures).
@@ -119,6 +141,17 @@ Donors also include NGOs and charities. In 1970 the UN set a target for rich cou
 
 **Worked paragraph (life cycle essay):** Butler's model is most useful in explaining resort decline. *(Knowledge)* It predicts stagnation once visitor numbers exceed carrying capacity. *(Application)* A resort where arrivals have levelled off while hotels age fits the stagnation stage. *(Analysis)* But the model cannot tell planners when stagnation will start or whether rejuvenation will succeed, so it works better as a description of the past than a forecast. *(Evaluation)*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--12-gi-tourism-multiplier.webp" width="900" height="960" alt="Five horizontal bars show tourist spending passing through the local economy. In round 1 a tourist spends 100 (an illustrative amount). If 60% is spent again locally, round 2 is 60, then 36, 21.6 and 13. Each bar is split: the teal part is spent again locally and the gold part leaks abroad. A destination that re-spends only 20% locally gains a total of about 125 from the same 100, compared with 250 when 60% is re-spent." loading="lazy">
+  <figcaption>Leakage cuts the multiplier: money that leaves the destination is not spent again. Numbers are illustrative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--13-gi-butler-life-cycle.webp" width="900" height="960" alt="A graph of visitor numbers against time. The curve rises slowly through stage 1 exploration, stage 2 involvement and stage 3 development, then flattens through stage 4 consolidation and stage 5 stagnation, reaching a dashed carrying-capacity line. After stagnation the curve either falls (decline) or rises again (rejuvenation). Venice, from the case study, is marked at the stagnation stage." loading="lazy">
+  <figcaption>Butler’s model (1980): resorts pass through five stages, then decline or are rejuvenated. Shape is schematic.</figcaption>
+</figure>
+
+
 ## 13.4 Case study: Venice, Italy
 
 The syllabus requires one tourist area or resort. Venice suits every part of 13.4.
@@ -135,6 +168,12 @@ The syllabus requires one tourist area or resort. Venice suits every part of 13.
 - A 2017 ban on new hotels did not cover short-term rentals.
 
 **Evaluating impacts.** *Economy:* tourism supports jobs and businesses, but income is concentrated in the tourist trade and much spending by day-trippers is small. *Society:* depopulation is the clearest sign of unsustainability. *Environment:* the cruise ban reduced one pressure, but flooding threats remain. Phone data suggested more people visited on fee days in 2024, so the fee raised money but did not yet cut numbers. Venice fits Butler's stagnation stage: demand has not fallen, but the resident community and the built environment are under pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-global-interdependence--14-gi-venice-people.webp" width="900" height="860" alt="Three rows of person icons, each icon standing for 5,000 people. In 1980 the historic centre had about 95,000 residents (19 icons). By 2021 it had about 50,000 (10 icons), a fall of about 47%. On a peak day up to 60,000 visitors arrive (12 icons), more than the number of residents. Estimates put annual visitors at 22 to 30 million." loading="lazy">
+  <figcaption>Venice’s historic centre lost about 47% of its residents while peak-day visitors outnumber those who remain.</figcaption>
+</figure>
+
 
 ## Common errors
 

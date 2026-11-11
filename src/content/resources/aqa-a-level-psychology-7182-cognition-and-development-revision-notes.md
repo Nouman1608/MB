@@ -53,6 +53,22 @@ Test yourself with the [practice questions](/resources/aqa-a-level-psychology-71
 | False belief | A belief that does not match reality; understanding it is a key test of theory of mind |
 | Mirror neuron | A neuron that fires both when you act and when you watch the same action |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--02-psy-schema-adaptation.webp" width="900" height="980" alt="New information either fits the schema (assimilation, schema unchanged) or does not (disequilibrium, then accommodation, then equilibrium restored). Facts taken from the lesson text." loading="lazy">
+  <figcaption>Assimilation adds to a schema; accommodation changes it; equilibration restores balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--04-psy-zpd-scaffolding.webp" width="900" height="1030" alt="Concentric zones for can do alone, ZPD and cannot do yet, plus the shoelace scaffolding example with fading help. Facts taken from the lesson text." loading="lazy">
+  <figcaption>The ZPD sits between what a child can do alone and what they cannot yet do; scaffolding fades as ability grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--05-psy-violation-expectation.webp" width="900" height="840" alt="Drawbridge screen stops at the box (possible) or rotates through it (impossible); longer looking is taken as surprise. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Violation of expectation: infants look longer at the impossible event.</figcaption>
+</figure>
+
+
 ## Theories and studies at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -70,6 +86,17 @@ Test yourself with the [practice questions](/resources/aqa-a-level-psychology-71
 | Baron-Cohen, Leslie and Frith (1985) | Sally-Anne false belief task | About 85% typical and 86% Down syndrome group passed; 20% of autistic group passed | Task also needs memory and language |
 | Onishi and Baillargeon (2005) | Non-verbal false belief, 15-month-olds | Infants looked longer when an actor searched where she could not know the toy was | Suggests theory of mind earlier than verbal tasks show |
 | Iacoboni et al. (2005) | fMRI of watching a grasp in "drink" vs "clean" context | Inferior frontal mirror area responded to intention | fMRI cannot isolate single neurons |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--03-psy-conservation.webp" width="900" height="1000" alt="Same volume of liquid in a wide and a tall glass (130 x 100 = 65 x 200); a pre-operational child centres on height, a concrete operational child conserves. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Pouring liquid into a tall glass changes its look but not its amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--06-psy-selman-levels.webp" width="900" height="958" alt="Five levels with approximate age spans and what the child can do. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Selman’s levels run from egocentric (about 3-6) to societal (about 12+).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -123,6 +150,12 @@ Test yourself with the [practice questions](/resources/aqa-a-level-psychology-71
 11. A neuron that fires both when an animal performs an action and when it watches another perform the same action.
 12. fMRI measures activity across brain areas, so it cannot show that individual neurons have mirror properties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--07-psy-sally-anne.webp" width="900" height="1032" alt="Four-step scene and bar chart of about 85%, 86% and 20% correct answers (basket). Facts taken from the lesson text." loading="lazy">
+  <figcaption>The Sally-Anne false belief task and the results for three groups of children.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Defining schemas but not showing how assimilation and accommodation link through equilibration.
@@ -148,6 +181,12 @@ The term scaffolding comes from Wood, Bruner and Ross (1976), not from Vygotsky 
 
 **What is the difference between Selman's levels and Piaget's stages?**
 Selman's levels describe the development of social perspective-taking, while Piaget's stages describe the development of logical thinking. Confusing the two is a common way to lose marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-cognition-and-development--01-psy-piaget-stages.webp" width="900" height="870" alt="Four stages: sensorimotor 0-2, pre-operational 2-7, concrete operational 7-11, formal operational 11+, with an icon for each stage’s key feature. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Piaget’s four stages rise like a staircase with approximate ages.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

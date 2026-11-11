@@ -107,6 +107,12 @@ Cambridge O Level Environmental Management (5014) syllabus for
 examination 2025 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664483-2025-2026-syllabus.pdf).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-and-the-environment--19-en-oil-causes-impacts.webp" width="900" height="930" alt="A sea scene, not to scale, shows three causes of oil pollution: off-shore extraction, pipelines and shipping. Oil spreads across the surface. Four tiles below show the impacts on birds, marine mammals, coral reefs and beaches." loading="lazy">
+  <figcaption>Oil pollution comes from extraction, pipelines and shipping, and harms birds, marine mammals, coral reefs and beaches.</figcaption>
+</figure>
+
+
 ## How fossil fuels form
 
 Coal forms from the compressed, decayed remains of ancient swamp
@@ -115,6 +121,12 @@ of years. Oil and gas form from the remains of marine organisms
 buried in sediment on ancient sea floors, similarly transformed by
 heat and pressure over geological time. All three are, by definition,
 non-renewable: they form far slower than humans consume them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-and-the-environment--14-en-fossil-formation.webp" width="900" height="970" alt="Two rows of three pictures. Coal: swamp vegetation is buried, then heat and pressure over millions of years produce a coal seam. Oil and gas: marine organisms on an ancient sea floor are buried in sediment, then heat and pressure produce oil and gas. All three are non-renewable." loading="lazy">
+  <figcaption>Coal comes from buried swamp vegetation; oil and gas from buried marine organisms.</figcaption>
+</figure>
+
 
 ## Renewable and non-renewable energy resources
 
@@ -130,6 +142,17 @@ turbine directly (hydro-electric, tidal, wave), or converting energy
 without combustion (solar photovoltaic cells, wind turbines, nuclear
 fission). Knowing *how* each resource generates electricity, not just
 whether it is renewable, is what the syllabus actually expects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-and-the-environment--15-en-nine-resources.webp" width="900" height="970" alt="Nine named resources in two groups. Non-renewable with a finite stock: fossil fuels (coal, oil and gas) and nuclear power, because uranium is finite. Renewable: biofuels, geothermal, hydro-electric, tidal, wave, solar and wind." loading="lazy">
+  <figcaption>Fossil fuels and nuclear are non-renewable; the other seven resources are renewable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-and-the-environment--16-en-electricity-routes.webp" width="900" height="990" alt="Three rows. Burning fuel raises steam that drives a turbine (fossil fuels, biofuels, some geothermal). Moving water turns a turbine directly (hydro-electric, tidal, wave). Without combustion: solar photovoltaic cells, wind turbines and nuclear fission convert energy to electricity." loading="lazy">
+  <figcaption>Resources generate electricity by burning fuel, by moving water, or without combustion.</figcaption>
+</figure>
+
 
 ## Weighing advantages and disadvantages
 
@@ -155,6 +178,17 @@ demand (insulation, efficient devices, transport policy) or by
 expanding supply sustainably (new renewable capacity, controversially
 including fracking for shale gas).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-and-the-environment--17-en-demand-factors.webp" width="900" height="970" alt="A gauge with its needle in the high zone sits above five tiles. Domestic demand, industrial demand and transport (urban growth) push demand up. Wealth: more energy per person. Climate: colder regions need more heating and hotter regions more cooling." loading="lazy">
+  <figcaption>Domestic and industrial use, transport, wealth and climate all affect energy demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-and-the-environment--18-en-conservation.webp" width="900" height="850" alt="Two groups. Cut demand: insulation, efficient devices, transport policy and education. Expand supply: new renewable capacity, fracking for shale gas (marked controversial) and research and development of new energy resources." loading="lazy">
+  <figcaption>Conservation strategies either cut demand or develop new supply.</figcaption>
+</figure>
+
+
 ## Worked example
 
 A coastal country experiences a major tanker collision that ruptures
@@ -166,6 +200,12 @@ to contain the spread of the spill before it reaches the reef, and
 skimmers used to physically remove oil from the water surface --
 exactly the kind of paired cause-and-management answer the syllabus
 rewards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-and-the-environment--20-en-oil-management.webp" width="900" height="930" alt="A sea scene, not to scale. A double-hulled tanker and a MARPOL document stand for reducing spills; a floating boom holds an oil slick away from a coral reef while a skimmer boat removes oil. Two lists: reduce spills with MARPOL and double-hulled tankers; minimise impact with booms, detergent sprays and skimmers. A note says MARPOL is an international convention, not a clean-up method." loading="lazy">
+  <figcaption>MARPOL and double hulls reduce spills; booms, sprays and skimmers limit the damage.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

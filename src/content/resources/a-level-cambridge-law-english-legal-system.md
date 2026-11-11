@@ -102,6 +102,12 @@ English law draws on several sources, and questions usually turn on the relation
 
 **Custom and equity** remain historically important, equity supplying remedies such as injunction and specific performance where common law damages are inadequate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--01-sources-of-law.webp" width="900" height="893" alt="A stack of English law sources. Legislation (Acts of Parliament) is on top and supreme. An arrow labelled &quot;enabling Act&quot; leads to delegated legislation (statutory instruments, byelaws, Orders in Council), which is controlled by parliamentary scrutiny and judicial review. Below sit case law and custom and equity." loading="lazy">
+  <figcaption>Legislation is the supreme source; delegated legislation exists only because an enabling Act allows it.</figcaption>
+</figure>
+
+
 ## The legislative process
 
 A Bill may be public (affecting the population at large) or private (affecting a particular body). Most begin in the Commons, and finance Bills must.
@@ -118,17 +124,35 @@ Royal Assent     the Bill becomes an Act
 
 The Lords may delay but not indefinitely block; the Parliament Acts allow a Bill to proceed without their consent in defined circumstances.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--02-legislative-process.webp" width="900" height="1030" alt="A seven-step path showing a Bill moving through First Reading, Second Reading, Committee Stage, Report Stage and Third Reading in the first House, then the whole process repeating in the other House, then Royal Assent, when the Bill becomes an Act. A note says the Lords may delay but not indefinitely block a Bill." loading="lazy">
+  <figcaption>A Bill passes seven stages before Royal Assent turns it into an Act.</figcaption>
+</figure>
+
+
 ## Statutory interpretation
 
 Where the words of an Act are unclear, judges apply established approaches: the **literal rule** (ordinary meaning, even if the result is harsh), the **golden rule** (depart from the literal meaning to avoid an absurd result), the **mischief rule** (identify the defect the Act was passed to remedy), and the increasingly dominant **purposive approach** (give effect to Parliament's purpose).
 
 These are supplemented by the language rules — ***ejusdem generis*** (general words following a list of specific ones are read as limited to the same class), ***expressio unius est exclusio alterius*** (naming one thing by implication excludes others not named) and ***noscitur a sociis*** (a word takes its meaning from the words around it) — and by intrinsic aids within the Act itself and extrinsic aids such as dictionaries, Law Commission reports and Hansard.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--03-statutory-interpretation.webp" width="900" height="900" alt="A child's pedal cycle and the question &quot;Is it a vehicle?&quot; in a park offence, followed by four rows. The literal rule reads the ordinary meaning and may convict harshly. The golden rule modifies the meaning only if the result is absurd. The mischief rule asks what defect the Act addressed and, if motor traffic and noise, acquits. The purposive approach follows Parliament's purpose." loading="lazy">
+  <figcaption>Each approach gives the court a different question to ask about the same word.</figcaption>
+</figure>
+
+
 ## Judicial precedent
 
 *Stare decisis* — stand by what has been decided — requires courts to follow decisions of higher courts on similar facts. The binding element is the **ratio decidendi**, the legal reasoning essential to the decision. Anything said "by the way" is **obiter dicta** and is persuasive only.
 
 Judges avoid an inconvenient precedent by **distinguishing** on the facts, and higher courts may **overrule** an earlier decision or **reverse** the decision below on appeal. The court hierarchy determines who binds whom: civil appeals run from the County Court or High Court to the Court of Appeal (Civil Division) and the Supreme Court; criminal appeals run from the Magistrates' Court or Crown Court to the Court of Appeal (Criminal Division) and the Supreme Court; each court binds every court below it, and the Supreme Court binds all of them. Since the **Practice Statement 1966**, the Supreme Court (formerly the House of Lords) may depart from its own past decisions where it appears right to do so.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--04-court-hierarchy.webp" width="900" height="954" alt="A diagram of two appeal routes meeting at the Supreme Court. Civil cases go from the County Court or High Court to the Court of Appeal (Civil Division). Criminal cases go from the Magistrates' Court or Crown Court to the Court of Appeal (Criminal Division). Each court binds those below it, and the Practice Statement 1966 lets the Supreme Court depart from its own past decisions." loading="lazy">
+  <figcaption>A higher court binds every court below it; the Supreme Court binds all.</figcaption>
+</figure>
+
 
 ## Machinery of justice
 
@@ -137,6 +161,17 @@ Judges avoid an inconvenient precedent by **distinguishing** on the facts, and h
 **Criminal courts.** Offences are **summary** (tried only in the Magistrates' Court), **either-way** (tried in either court, depending on the magistrates' assessment of their sentencing powers and the defendant's own election), or **indictable** (first heard in the Magistrates' Court but always tried in the Crown Court before a judge and jury).
 
 **Alternative dispute resolution.** A civil dispute need not go to court. **Negotiation** lets the parties, or their solicitors, reach their own agreement directly. **Mediation** uses a neutral third party who helps the parties reach their own solution without imposing one. **Conciliation** is similar, but the conciliator may actively suggest a solution. **Arbitration** submits the dispute to an arbitrator whose award is binding and enforceable in court, often under the Arbitration Act 1996. ADR is generally cheaper, faster, more private and less adversarial than litigation, though it depends on the parties' willingness to engage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--05-offence-classes.webp" width="900" height="820" alt="A grid of three offence types against two courts. Summary offences are tried only in the Magistrates' Court. Either-way offences may be tried in either court, depending on the magistrates' view of their sentencing powers and the defendant's choice. Indictable offences are first heard in the Magistrates' Court but always tried in the Crown Court with a judge and jury." loading="lazy">
+  <figcaption>The class of offence decides which criminal court tries it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--06-adr-methods.webp" width="900" height="909" alt="Four rows of alternative dispute resolution, each with a small picture of the people involved. In negotiation only the two parties talk. In mediation a neutral third party helps without imposing a solution. In conciliation the third party may suggest a solution. In arbitration the arbitrator makes a binding award that a court can enforce." loading="lazy">
+  <figcaption>From negotiation to arbitration, the third party has more and more say over the outcome.</figcaption>
+</figure>
+
 
 ## Legal personnel
 
@@ -147,6 +182,12 @@ Judges avoid an inconvenient precedent by **distinguishing** on the facts, and h
 The **judiciary** is appointed by the independent Judicial Appointments Commission. Judicial independence is protected by **security of tenure** (senior judges can be removed only by a petition to the monarch approved by both Houses of Parliament), **salaries charged on the Consolidated Fund** rather than subject to annual parliamentary vote, and **immunity from suit** for acts done in a judicial capacity.
 
 **Lay people** — magistrates and jurors — bring community participation to the system. Magistrates are unpaid, trained volunteers who deal with the great majority of criminal cases; jurors are randomly selected members of the public who decide guilt or innocence on the facts in Crown Court trials. Both attract criticism over representativeness and, for juries, competence in complex or lengthy cases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--07-lawyer-regulation.webp" width="900" height="1030" alt="Barristers and solicitors each have one body that represents them and a separate body that regulates them: Bar Council and Bar Standards Board, Law Society and Solicitors Regulation Authority. The most serious solicitor cases go to the Solicitors Disciplinary Tribunal. A complaint path runs from the lawyer to the Legal Ombudsman, which can require an apology, a refund of fees or compensation." loading="lazy">
+  <figcaption>Since the Legal Services Act 2007, representing a profession and regulating it are done by different bodies.</figcaption>
+</figure>
+
 
 ## Worked example
 

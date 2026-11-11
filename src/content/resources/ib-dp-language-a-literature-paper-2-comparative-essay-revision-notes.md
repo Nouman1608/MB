@@ -52,6 +52,12 @@ Wilde, *The Picture of Dorian Gray* (book edition 1891).
 
 Plan to write from memory. Your teacher will confirm the exam rules and which works you may use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-2-comparative-essay--06-p2-format.webp" width="900" height="1042" alt="One question is chosen from four. The essay compares two literary works in 1 hour 45 minutes at both levels. Two grids of 100 squares show Paper 2 is worth 35 per cent of the final grade at SL and 25 per cent at HL." loading="lazy">
+  <figcaption>Paper 2 asks for a comparison of two works in 1 h 45 min, worth 35% at SL and 25% at HL.</figcaption>
+</figure>
+
+
 ## A timing plan (a suggestion, not an IB rule)
 
 | Stage | Minutes |
@@ -71,6 +77,17 @@ Plan to write from memory. Your teacher will confirm the exam rules and which wo
 >    means change the pair or the question.
 > 5. **Thesis**, then **three or four points**, each with evidence from both works.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-2-comparative-essay--07-p2-unpack-question.webp" width="900" height="940" alt="Three key terms from the sample question feed into highlighted lines of a paragraph, because every paragraph must touch at least one. The double demand is &quot;how&quot;, meaning methods, and &quot;to what effect&quot;, meaning what the methods do to understanding. A half-filled circle shows that listing places answers half the question." loading="lazy">
+  <figcaption>Pull out the key terms and answer both how and to what effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-2-comparative-essay--08-p2-fit-test.webp" width="900" height="890" alt="Left, a windowless building with one door that is the back of Jekyll’s house. Right, the old schoolroom at the top of Dorian’s house with the portrait under a purple satin coverlet. Below, one matched pair of moments is filled and two are still question marks: three comparable moments mean the pair fits." loading="lazy">
+  <figcaption>Before committing to a pair of works, name one precise moment from each.</figcaption>
+</figure>
+
+
 ## Thesis checks
 
 A Paper 2 thesis passes all four:
@@ -82,6 +99,12 @@ A Paper 2 thesis passes all four:
 
 Pattern: *Both A and B present [key term] as [shared claim], but where A [method] so that [effect],
 B [method] so that [effect].*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-2-comparative-essay--09-p2-thesis-ladder.webp" width="900" height="850" alt="Three rising steps: a weak thesis that only names a topic, a better one that makes a claim but no difference, and a strong one, shortened here, that adds the difference between the works. Four numbered checks follow." loading="lazy">
+  <figcaption>A strong thesis answers the question, names both works and states a difference.</figcaption>
+</figure>
+
 
 ## Paragraph moves (the hinged paragraph)
 
@@ -140,6 +163,17 @@ A connective signals a comparison; it does not make one. The hinge sentence (mov
 | "If it were I who was to be always young" | *Dorian Gray* | Dorian, before the portrait | wish, turning point |
 | "It was a poisonous book." | *Dorian Gray* | narrator, on the yellow book | metaphor |
 | Dorian stabs the portrait; the servants find an old man dead | *Dorian Gray* | ending | reversal (reference) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-2-comparative-essay--11-p2-embed-quotation.webp" width="900" height="950" alt="A dropped quotation stands alone between two separate sentences. The embedded version places the same eight-word quotation inside one sentence that says who speaks and what it shows. A ruler marks the aim of three to ten words." loading="lazy">
+  <figcaption>Embed short quotations in the grammar of your sentence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-2-comparative-essay--12-p2-retrieval-loop.webp" width="900" height="930" alt="A loop of four steps around a five-cluster quotation bank: cover the bank, write the cluster from memory, check every word, repeat after a few days. If unsure of the exact words, paraphrase without quotation marks." loading="lazy">
+  <figcaption>Learn quotations by retrieval, and paraphrase rather than misquote.</figcaption>
+</figure>
+
 
 ## Time and space in one sentence
 
@@ -200,6 +234,12 @@ is quite useless", whereas Stevenson gives readers a case to solve through a law
     for example how the narrative's lawyer and documents suit a society of professional reputation.
 11. Answer the question directly and return to the most significant difference; avoid new evidence
     and a point-by-point repeat of the introduction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-2-comparative-essay--10-p2-integration.webp" width="900" height="924" alt="Paragraph pictures made of coloured sentence bars: blocks that keep work A and work B separate, alternating, hinged with comparison at the start and end, and analytical where each bar spans both works." loading="lazy">
+  <figcaption>Integration means the comparison sits inside every body paragraph.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

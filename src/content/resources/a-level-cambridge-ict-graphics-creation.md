@@ -44,11 +44,23 @@ Every graphic must meet the requirements of its **intended application and audie
 
 A **bitmap** image is a grid of pixels, each storing a colour. It suits photographs; enlarging it shows the pixels (**pixelation**). A **vector** graphic stores objects as paths of nodes and curves, each with a stroke and fill. It scales without losing quality and suits logos and diagrams, not photographs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--14-gc-bitmap-vector.webp" width="900" height="950" alt="A circle is stored as a bitmap grid of pixels and as a vector path with nodes. At actual size both look fine; enlarged, the bitmap edge turns blocky while the vector stays smooth. Bitmaps suit photographs, vectors suit logos and diagrams." loading="lazy">
+  <figcaption>Enlarging a bitmap shows its pixels; a vector graphic stays smooth at any size.</figcaption>
+</figure>
+
+
 ## 19.1 Common graphics skills
 
 ### Layers
 
 Layers are stacked sheets. You can **add**, **remove** and **select the active layer** (the one edits apply to), change their **order**, **toggle visibility**, **lock** a layer against accidental edits (or release the lock), and change **opacity/transparency**. **Blending** sets how a layer's colours combine with those below; **merging** combines chosen layers; **flattening** combines all into one. Keep a layered master copy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--15-gc-layers.webp" width="900" height="950" alt="Three stacked layers: text on top, a shape at 50 percent opacity, and a locked background, each with a visibility eye. Flattening combines them into one image where the half-transparent shape blends with the background." loading="lazy">
+  <figcaption>Layers keep parts of a design separate until they are flattened.</figcaption>
+</figure>
+
 
 ### Transform tools
 
@@ -99,6 +111,12 @@ Left edges: 10, 70, 130 mm   Centres: 25, 85, 145 mm
 
 Black is a separate ink because mixing cyan, magenta and yellow gives a muddy dark colour. Some screen colours cannot be printed, so check print designs in CMYK.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--16-gc-colour.webp" width="900" height="1060" alt="RGB is additive: red, green and blue light overlap to make yellow, magenta, cyan and white, for screens. CMYK is subtractive: cyan, magenta and yellow inks overlap to give blue, red, green and a muddy dark, so black ink is added; used for printing." loading="lazy">
+  <figcaption>Screens add light (RGB); printers use inks that absorb light (CMYK).</figcaption>
+</figure>
+
+
 ### Resolution
 
 Image resolution is the number of pixels; print resolution is often given in **pixels per inch (ppi)**.
@@ -113,6 +131,12 @@ At 300 ppi: 3600 ÷ 300 = 12 in, 2400 ÷ 300 = 8 in  → 12 × 8 inch print
 For a 24 × 16 inch poster at 300 ppi you need 7200 × 4800 pixels
 Using 3600 pixels over 24 inches gives 3600 ÷ 24 = 150 ppi → visibly softer
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--17-gc-resolution.webp" width="900" height="1000" alt="A 3600 by 2400 pixel photo at 300 ppi prints 12 by 8 inches and is sharp. At 24 by 16 inches the same pixels give 150 ppi, so each pixel is twice as large and the print is softer. 300 ppi at that size needs 7200 by 4800 pixels." loading="lazy">
+  <figcaption>Stretching the same pixels over a bigger print lowers ppi and softens the image.</figcaption>
+</figure>
+
 
 ### File formats and exporting
 
@@ -158,6 +182,12 @@ A **solid fill** is one colour. A **gradient fill** blends two or more colours, 
 Software labels vary. **Adding** nodes allows a new bend; **moving** nodes reshapes the path; **deleting** unneeded nodes **simplifies** it. **Align and distribute nodes** lines nodes up or spaces them evenly.
 
 **Worked example 4.** A freehand leaf outline has 60 nodes and a wobbly edge. Delete the nodes along each gentle curve, keeping one at each end. Make the tip a cusp node so it stays sharp and the side nodes smooth, then drag the handles to restore the curve. Result: few nodes, a clean edge, a smaller file.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--18-gc-nodes.webp" width="900" height="930" alt="Four curves each with a node and two handles. Cusp: handles move independently for a sharp corner. Smooth: handles in a straight line. Symmetrical: smooth with equal-length handles. Asymmetrical: smooth with unequal handles." loading="lazy">
+  <figcaption>The angle and length of a node’s handles set how the curve passes through it.</figcaption>
+</figure>
+
 
 ### Tracing bitmaps
 
@@ -222,6 +252,12 @@ Fewer colours can cause **banding** in skies.
 
 **Worked example 6.** The 5.76 MB image above saved as a JPEG is 0.48 MB: 5.76 ÷ 0.48 = 12, a 12:1 reduction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--19-gc-compression.webp" width="900" height="960" alt="Run-length encoding stores 20 pixels (8 white, 4 black, 8 white) as 8W 4B 8W and rebuilds them exactly. A 1600 by 1200 image is 5.76 MB at 24-bit and 1.92 MB at 8-bit uncompressed, and 0.48 MB as a JPEG, a 12 to 1 reduction." loading="lazy">
+  <figcaption>Lossless compression keeps every pixel; lossy compression discards detail for much smaller files.</figcaption>
+</figure>
+
+
 ## 19.5 Text
 
 - **Font face** -- the typeface, such as a serif or sans serif design.
@@ -231,6 +267,12 @@ Fewer colours can cause **banding** in skies.
 - **Line spacing** -- the vertical distance between lines of text.
 
 **Text on a path** follows a line or runs around a shape, such as a slogan round a badge. **Text in a shape** flows inside a shape's outline. **Converting text to curves** turns letters into vector paths: the font is no longer needed and letters can be reshaped, but the text can no longer be edited as text, so keep an editable copy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-graphics-creation--20-gc-text.webp" width="900" height="890" alt="The word AVID shown three ways. Default spacing; kerning, where only the A and V pair is moved closer; and letter spacing, where the gaps between all letters are widened equally. Gold bars mark the adjusted spaces." loading="lazy">
+  <figcaption>Kerning adjusts one pair of letters; letter spacing adjusts every letter.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -76,6 +76,22 @@ appliances, cars, security systems, lighting systems or vending
 machines), as distinct from a general-purpose computer such as a PC or
 laptop that runs many different functions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--14-hw-von-neumann.webp" width="900" height="990" alt="The CPU holds five registers (PC, MAR, MDR, CIR, ACC) and two units (CU and ALU). The address bus, data bus and control bus link the CPU to RAM." loading="lazy">
+  <figcaption>The CPU's registers and units connect to RAM through the address, data and control buses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--15-hw-fde-cycle.webp" width="900" height="960" alt="Fetch: the PC value goes to the MAR, the address bus sends it to RAM, and the instruction returns on the data bus through the MDR to the CIR. Decode: the CU works out the instruction. Execute: the ALU carries it out and the result goes to the ACC. The cycle then repeats." loading="lazy">
+  <figcaption>Each instruction is fetched, decoded and executed, then the cycle repeats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--16-hw-cpu-performance.webp" width="900" height="1030" alt="A CPU with more cores, a larger cache or a faster clock speed can perform better. The pictures compare one core with four, a small cache with a large one, and a slower clock with a faster one." loading="lazy">
+  <figcaption>More cores, a larger cache and a faster clock can each improve CPU performance.</figcaption>
+</figure>
+
+
 ## 3.2 Input and output devices
 
 This sub-topic is largely a named list you need to recognise and be
@@ -100,6 +116,12 @@ Exam questions commonly present a real-world scenario (a greenhouse, a
 security system, a car) and ask you to select and justify the most
 suitable sensor -- this requires knowing what each sensor actually
 measures, not just its name.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--17-hw-sensors.webp" width="900" height="852" alt="A greenhouse uses temperature, humidity, light and moisture sensors. Ten other sensors named in the syllabus are listed below: acoustic, accelerometer, flow, gas, infra-red, level, magnetic field, pH, pressure and proximity." loading="lazy">
+  <figcaption>A greenhouse scenario shows four sensors; the other named sensors are listed.</figcaption>
+</figure>
+
 
 ## 3.3 Data storage
 
@@ -130,6 +152,17 @@ is necessary -- and **cloud storage**, including its advantages and
 disadvantages compared with storing data locally (remote accessibility
 versus the need for physical servers and storage to host it).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--18-hw-secondary-storage.webp" width="900" height="1210" alt="A magnetic disk has tracks and sectors read by an electromagnet. An optical disc has pits and lands read by a laser. A solid-state flash cell has a control gate above a floating gate. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Three secondary storage technologies store data in different physical ways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--19-hw-primary-virtual.webp" width="900" height="870" alt="The CPU accesses RAM (volatile) and ROM (non-volatile) directly; secondary storage is not accessed directly. When RAM is full, pages are swapped between RAM and virtual memory. Page letters are illustrative." loading="lazy">
+  <figcaption>RAM and ROM are primary storage; virtual memory swaps pages with RAM.</figcaption>
+</figure>
+
+
 ## 3.4 Network hardware
 
 The final sub-topic covers the hardware and addressing that make
@@ -150,6 +183,12 @@ This sub-topic connects directly to Topic 2 (Data transmission) --
 understanding how a router directs packets to their destination builds
 on the packet-switching content covered there, so revising the two
 topics together reinforces both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-hardware--20-hw-network.webp" width="900" height="990" alt="A computer needs a NIC to join a network. Its MAC address is set at manufacture and has a manufacturer code and a serial code. The network gives it an IP address, which can be static or dynamic. A router connects the local network to the internet. Example addresses are illustrative." loading="lazy">
+  <figcaption>A NIC has a fixed MAC address; the network allocates an IP address; a router links to the internet.</figcaption>
+</figure>
+
 
 ## How to approach it
 

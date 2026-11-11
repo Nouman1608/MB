@@ -157,3 +157,39 @@ USB is a standardised, widely supported connector that can also supply power. It
 Cambridge IGCSE Computer Science 0478 syllabus for 2026, 2027 and 2028
 (Version 6, September 2026) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697167-2026-2028-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-transmission--07-dt-packet-structure.webp" width="900" height="872" alt="Data is split into parts and each part is sent in a packet with a header, a payload and a trailer. The header holds the destination address, the packet number and the originator's address." loading="lazy">
+  <figcaption>A packet has a header (destination address, packet number, originator's address), a payload and a trailer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-transmission--08-dt-packet-switching.webp" width="900" height="940" alt="Four numbered packets leave the sender and travel by different routes through routers. They arrive in the order 2, 4, 1, 3 and are put back in order using their packet numbers once the last packet arrives. Route delays are illustrative." loading="lazy">
+  <figcaption>Packets may take different routes and arrive out of order, so they are reordered at the end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-transmission--09-dt-serial-parallel.webp" width="900" height="1010" alt="Serial transmission sends the 8 bits of a byte one after another along one wire. Parallel sends all 8 bits side by side along 8 wires. Serial suits longer distances at lower cost; parallel is faster over short runs." loading="lazy">
+  <figcaption>Serial sends bits one at a time on one wire; parallel sends 8 bits at once on 8 wires.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-transmission--10-dt-duplex.webp" width="900" height="850" alt="Simplex sends data one way only. Half-duplex allows both directions but only one at a time. Full-duplex allows both directions at the same time." loading="lazy">
+  <figcaption>The three methods differ in which directions data can travel and when.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-transmission--11-dt-parity.webp" width="900" height="970" alt="A parity bit is added so the number of 1s in the byte is even. If the byte arrives with the same count of 1s it is accepted. If one bit changes the count becomes odd and the error is found. The data are illustrative." loading="lazy">
+  <figcaption>Even parity: an odd count of 1s on arrival shows that the data has changed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-transmission--12-dt-arq.webp" width="900" height="1220" alt="In the first case the receiver sends a positive acknowledgement. In the second it finds an error and sends a negative acknowledgement, so the data is sent again. In the third no reply arrives, so after a timeout the sender sends the data again." loading="lazy">
+  <figcaption>ARQ resends data after a negative acknowledgement or a timeout.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-transmission--13-dt-encryption.webp" width="900" height="850" alt="Symmetric encryption uses one shared key to encrypt and decrypt. Asymmetric encryption uses a key pair: data encrypted with the public key can only be decrypted with the matching private key." loading="lazy">
+  <figcaption>Symmetric uses one shared key; asymmetric uses a public and private key pair.</figcaption>
+</figure>
+

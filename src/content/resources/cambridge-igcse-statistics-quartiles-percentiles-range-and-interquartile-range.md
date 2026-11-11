@@ -83,6 +83,12 @@ Upper half (6 values): 11, 12, 13, 15, 17, 20 → Q3 = (13 + 15)/2 = 14
 
 Here the halves split cleanly and nothing is left out. A quartile can be a value that is not in the data, as Q1 = 7.5 is here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--06-b-quartiles-small-set.webp" width="900" height="790" alt="Two rows of ordered numbers. With 11 values the middle one, 17, is left out and the medians of the two halves give Q1 = 12 and Q3 = 21. With 12 values the data split cleanly into two halves of six, and the halves’ medians are Q1 = 7.5 and Q3 = 14, with the overall median 10.5." loading="lazy">
+  <figcaption>Quartiles are the medians of the lower and upper halves; with odd n, leave the median out.</figcaption>
+</figure>
+
+
 ## 5.3 and 5.4 Range and interquartile range of a small set
 
 For worked example 1: range = 30 − 9 = **21** and IQR = 21 − 12 = **9**.
@@ -90,6 +96,12 @@ For worked example 1: range = 30 − 9 = **21** and IQR = 21 − 12 = **9**.
 For worked example 2: range = 20 − 4 = **16** and IQR = 14 − 7.5 = **6.5**.
 
 Always subtract the quartiles. Do not give "from 12 to 21" as the IQR: the IQR is a single number, 9.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--07-b-range-vs-iqr.webp" width="900" height="830" alt="A dot plot of the eleven message counts shows a range of 21 from end to end and an IQR of 9 across the middle half. A second dot plot changes only the largest value from 30 to 60. The range grows to 51 but the quartiles stay 12 and 21, so the IQR stays 9, showing that one odd value barely affects the IQR." loading="lazy">
+  <figcaption>The range depends only on the two extreme values; the IQR covers the middle half and resists an odd value.</figcaption>
+</figure>
+
 
 ## 5.1, 5.3 and 5.4 Ungrouped frequency distributions
 
@@ -111,6 +123,12 @@ n = 40, so each half has 20 values. The median is the mean of the 20th and 21st 
 Range = 5 − 0 = **5**. IQR = 3.5 − 1 = **2.5**.
 
 When n is odd, find the median position first, discard it, and work with the two halves of (n − 1)/2 values each. When n is even and n/2 is odd, the median of a half is a single value, not a mean.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--08-b-ungrouped-frequency.webp" width="900" height="660" alt="Forty squares in a row represent the members, coloured in groups by the number of books borrowed from 0 to 5. The 10th and 11th squares fall in the group for 1 books, giving Q1 = 1; the 20th and 21st fall in the group for 2, the median; the 30th is in group 3 and the 31st in group 4, so Q3 = 3.5. The range is 5 and the IQR 2.5." loading="lazy">
+  <figcaption>Use the running total to see which group each quartile position falls in.</figcaption>
+</figure>
+
 
 ## 5.2 Grouped data and cumulative frequency
 
@@ -152,6 +170,12 @@ The median is about 28.3 minutes and the IQR is about 18 minutes. Each of these 
 
 Percentiles work the same way. For the 90th percentile of this data, the position is 0.9 × 80 = 72. It lies between 64 (at t = 40) and 74 (at t = 50): 40 + (72 − 64)/(74 − 64) × 10 = **48**. About 90% of people finished within 48 minutes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--09-b-cumulative-quartiles.webp" width="900" height="970" alt="A cumulative frequency graph for 80 puzzle finishers, with points plotted at the upper class boundaries. Dashed lines go across from the vertical axis at 20, 40 and 60 (n/4, n/2 and 3n/4) to the curve and then down to the horizontal axis at 20, about 28.3 and 38 minutes. The IQR is 38 − 20 = 18 minutes." loading="lazy">
+  <figcaption>Read across from n/4, n/2 and 3n/4 on the cumulative frequency axis, then down to the times.</figcaption>
+</figure>
+
+
 ## 5.2 Percentile for a given value, and frequencies in parts of the distribution
 
 Now reverse the direction: start from a value on the horizontal axis and find the cumulative frequency.
@@ -184,6 +208,12 @@ People above 60 ≈ 80 − 77 = 3
 ```
 
 The method for any part of the distribution is the same: find the cumulative frequency at each end of the part, then subtract. For "more than" or "above", subtract from n.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--10-b-percentile-and-between.webp" width="900" height="880" alt="The cumulative frequency graph from the puzzle data with guide lines starting on the time axis. From t = 35 the line reaches cumulative frequency 54, so the percentile is 54/80 × 100 = 67.5. From t = 25 and t = 45 the readings are 32 and 69, and their difference, 37, is the number of people between those times." loading="lazy">
+  <figcaption>Go up from a time to the curve, then across: subtract two readings to count people between two values.</figcaption>
+</figure>
+
 
 ## 5.5 IQR of a grouped distribution
 

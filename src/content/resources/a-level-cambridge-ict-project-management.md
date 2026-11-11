@@ -71,6 +71,12 @@ The approved project is broken into detail.
 - **Project completion and review**: the deliverables are handed over and signed off, contracts are closed, resources are released and the team is disbanded. A review (evaluation) compares the outcome with the objectives and success criteria.
 - **Why project reviews are conducted**: to check whether the objectives and success criteria were met; to compare actual time and cost with the plan; to identify what went well and what went wrong; to record lessons so future projects are better planned; and to confirm the client is satisfied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--01-pm-life-cycle.webp" width="900" height="860" alt="Four stages stacked top to bottom with an icon each: initiation (objectives, scope, success criteria), planning (resources, task schedule, Gantt and PERT), execution and monitoring (time, cost, quality, reports) and project close (hand over, review, lessons learned)." loading="lazy">
+  <figcaption>The project life cycle runs from initiation through planning and execution to close.</figcaption>
+</figure>
+
+
 ## 15.2 Project management software
 
 ### Types
@@ -135,6 +141,12 @@ Interpreting it:
 3. **Project end**: the last bar ends in week 8, so the project takes 8 weeks.
 4. **Monitoring**: at the end of week 4, T3 should be 2 of 3 weeks done. If only one-third of the cabling is installed, T3 is about one week behind. Because T5 depends on T3, testing will start late unless more staff are added.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--02-pm-gantt.webp" width="900" height="888" alt="A Gantt chart of six tasks over weeks 1 to 8. T3 and T4 overlap in week 4, T5 waits for both and runs weeks 6 to 7, and the last bar (T6) ends in week 8." loading="lazy">
+  <figcaption>In a Gantt chart each task is a bar, so overlaps, waits and the project end are easy to see.</figcaption>
+</figure>
+
+
 ### PERT charts and the Critical Path Method (CPM)
 
 A **PERT chart** (Performance Evaluation and Review Technique, as the syllabus names it) is a network diagram that shows tasks as connected boxes or arrows, so the **dependencies** are clear. **CPM** uses the same network to calculate timings and find the **critical path**.
@@ -195,6 +207,22 @@ Backward pass: H LFT 19, LST 18. F LFT 18, LST 15. G LFT 18, LST 16. D LFT 15, L
 **Critical path: A → B → D → F → H** (4 + 5 + 6 + 3 + 1 = 19 days).
 
 If E overruns by 3 days, that is within its 4 days of float, so the project still ends on day 19.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--03-pm-pert-critical-path.webp" width="900" height="850" alt="A network of eight activities with earliest and latest times in each box. A, B, D, F and H are on the critical path (19 days); C and E have 4 days of float and G has 9." loading="lazy">
+  <figcaption>The critical path is the longest chain of activities, and its activities have zero float.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--04-pm-forward-backward.webp" width="900" height="790" alt="Forward pass: F starts at 15, the larger of D finishing at 15 and E finishing at 11. Backward pass: C must finish by 11, the smaller of E latest start 11 and G latest start 16." loading="lazy">
+  <figcaption>Take the largest finish going forward and the smallest start going back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-project-management--05-pm-float.webp" width="900" height="880" alt="E can slide 4 days without effect, and a 3-day overrun still ends the project on day 19. A 3-day overrun on critical activity D moves F to day 18 and the project to day 22." loading="lazy">
+  <figcaption>Float is slack on a non-critical activity; critical activities have none.</figcaption>
+</figure>
+
 
 ### Using critical path analysis to manage work
 

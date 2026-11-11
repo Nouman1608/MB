@@ -52,6 +52,12 @@ The same cycle runs in every scenario:
 5. The system shows one or more possible solutions, often ranked or given a probability.
 6. The **explanation system** shows why questions were asked and how conclusions were reached.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--09-xs-cycle.webp" width="900" height="930" alt="Six steps in order: the interface asks a question; the answer is added to the facts; the engine compares facts with rules; a rule fires and adds a new fact, looping back; possible solutions are shown; the explanation system shows why and how." loading="lazy">
+  <figcaption>The cycle repeats until the system can show possible solutions.</figcaption>
+</figure>
+
+
 ## The components
 
 **User interface.** How the user communicates with the system. It asks questions on screen, often with yes/no or multiple-choice answers so input matches what the rules expect, and displays conclusions, advice and explanations.
@@ -68,6 +74,12 @@ The knowledge comes from human experts, usually gathered by a knowledge engineer
 **Explanation system.** Tells the user **how** a conclusion was reached (which facts and rules were used) and **why** a question is being asked. It may show a confidence level for each solution. This lets the user check the advice before acting on it.
 
 **Knowledge base editor.** Lets facts and rules be **added, edited or deleted**, for example when a new car model is released or medical advice changes. It is used by the knowledge engineer or experts, not the everyday user.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--08-xs-components.webp" width="900" height="970" alt="The user talks to a user interface, which passes answers to the inference engine. The engine reasons with a knowledge base made of a database of facts and a rules base of IF THEN rules. An explanation system explains how and why, and a knowledge base editor used by the knowledge engineer changes facts and rules." loading="lazy">
+  <figcaption>The five components of an expert system and how they connect.</figcaption>
+</figure>
+
 
 ## IF…THEN rules, forward chaining and backward chaining
 
@@ -99,6 +111,12 @@ Facts entered: the engine does not crank; the headlights are dim; the battery is
 
 **Result:** rules fire in the order **R1, then R2**, and the advice is to **replace the battery**. The explanation system could show both rules and the facts each used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--10-xs-forward.webp" width="900" height="1010" alt="Facts: engine does not crank, headlights dim, battery over 5 years old. R1 fires first (new fact: battery charge is low), then R2 fires, giving the advice to replace the battery. R3, R4 and R5 do not fire." loading="lazy">
+  <figcaption>Forward chaining fires rules R1 then R2, ending with the advice to replace the battery.</figcaption>
+</figure>
+
+
 ### Worked example 2: backward chaining (plant identification)
 
 A fictional rules base:
@@ -124,6 +142,12 @@ The system tests the goal "plant is X" first. The user's plant has hairy leaves 
 
 Each question tests **one feature**, as each step of a classification key should.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--11-xs-backward.webp" width="900" height="740" alt="The goal plant is X needs hairy leaves (asked, yes) and white flowers (asked, no), so X is rejected. The goal plant is W needs hairy leaves (already known) and yellow flowers (asked, yes), so W is proved. Three questions were asked; the stem was never needed." loading="lazy">
+  <figcaption>Backward chaining tests one goal at a time and asks only what it needs.</figcaption>
+</figure>
+
+
 ## Data driven and goal driven
 
 Data driven reasoning starts from the facts available (forward chaining). Goal driven reasoning starts from a goal or hypothesis (backward chaining).
@@ -133,6 +157,12 @@ Data driven reasoning starts from the facts available (forward chaining). Goal d
 **In gaming.** Data driven: a computer-controlled character reacts to the game state, such as the player's position: IF the player is within range THEN attack. Goal driven: the character has a goal, such as capturing an object, and works backward: to capture it, it must reach the room; to reach the room, it must open the door.
 
 **In AI for manipulating social media.** Data driven: the system collects a user's likes, shares, viewing time and follows, and works forward to infer interests and choose which posts and adverts to show. Goal driven: the system starts from a goal, such as keeping the user online longer or making them see a particular message, and works backward to the content and timing most likely to achieve it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--12-xs-direction.webp" width="900" height="890" alt="Data driven (forward chaining): a game character starts from a fact, the player is within range, a rule fires and the result is attack. Goal driven (backward chaining): the goal is to capture the object, which needs reaching the room, which needs opening the door." loading="lazy">
+  <figcaption>Data driven reasoning runs from facts to conclusions; goal driven reasoning runs from a goal back to the facts it needs.</figcaption>
+</figure>
+
 
 ## Scenarios
 
@@ -156,6 +186,12 @@ For each scenario, know the **inputs**, what the **knowledge base** holds and th
 **Model answer.** The planner enters the deliveries, addresses, time windows and vehicles available through the user interface [1]. The knowledge base holds the road network, journey times and rules such as vehicle capacity limits [1]. The inference engine applies the rules to the delivery data to decide which vehicle takes which parcels, and in what order [1]. It outputs a route and schedule for each driver, and the explanation system can show why, for example, a road closure moved a stop later [1].
 
 Each mark is a separate point applied to deliveries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-expert-systems--13-xs-scenarios.webp" width="900" height="970" alt="Eight scenarios and their possible solutions: mineral prospecting (deposit sites), investment analysis (buy, hold or sell), financial planning (saving plan), insurance planning (risk level and premium), car fault diagnosis (likely repairs), medical diagnosis (possible conditions), route scheduling (order of stops), plant and animal identification (likely species)." loading="lazy">
+  <figcaption>Each scenario takes in data and produces possible solutions.</figcaption>
+</figure>
+
 
 ## Advantages and disadvantages
 

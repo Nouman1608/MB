@@ -140,6 +140,17 @@ Forgetting is explained by **interference** — proactive, where old learning di
 
 **Memory as an active process.** Bartlett's **Theory of Reconstructive Memory** argues that recall is rebuilt each time from stored fragments and **schemas**, with **effort after meaning**: we try to make unfamiliar material fit what we already know. In the **War of the Ghosts** study (1932), English participants read an unfamiliar Native American folk tale and reproduced it several times. Their versions became shorter, unfamiliar details were left out or changed into familiar ones, and the story was made more coherent with their own culture. Factors affecting the accuracy of memory include **interference**, **context** (recall is better when the context at retrieval matches that at encoding) and **false memories**, where a person recalls events that did not happen or did not happen in that way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--01-c-memory-stores.webp" width="900" height="1010" alt="Three stacked boxes show the multi-store model. The sensory store codes by modality, has a very large capacity and lasts under 2 seconds. The short-term store codes mainly acoustically, holds 5 to 9 items and lasts about 18 to 30 seconds. The long-term store codes mainly semantically, has unlimited capacity and lasts potentially a lifetime. Attention moves information from sensory to short-term, rehearsal moves it to long-term, and retrieval brings it back." loading="lazy">
+  <figcaption>Information moves sensory, short-term, long-term through attention and rehearsal; retrieval brings it back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--02-c-forgetting.webp" width="900" height="990" alt="Three rows. Proactive interference: old learning A disrupts recall of new learning B. Retroactive interference: new learning B disrupts recall of old learning A. Retrieval failure: a cue (a key) present when learning is missing at recall, so the memory cannot be found." loading="lazy">
+  <figcaption>Interference works forwards (proactive) or backwards (retroactive); retrieval failure is a missing cue.</figcaption>
+</figure>
+
+
 ## Perception
 
 Sensation is the raw data the senses receive; **perception** is the brain's interpretation of it. The two can differ, which is what visual illusions demonstrate.
@@ -154,6 +165,17 @@ Sensation is the raw data the senses receive; **perception** is the brain's inte
 
 **Factors affecting perception** are **perceptual set** — a readiness to perceive things in a certain way — shaped by culture, motivation, emotion and expectation. In the **Gilchrist and Nesberg study** of motivation (1952), participants who had gone without food for longer rated pictures of food as brighter than participants who had eaten, showing hunger affects perception. In the **Bruner and Minturn study** of perceptual set (1955), an ambiguous figure was seen as the letter "B" by participants shown it among letters, and as the number "13" by those shown it among numbers — expectation from context shaped what was perceived.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--03-c-perception-theories.webp" width="900" height="980" alt="Two columns. Gibson's direct theory is bottom-up: the visual array (motion parallax, texture gradient, optic flow) leads straight to perception with no inference. Gregory's constructivist theory is top-down: sensory data is interpreted by the brain using prior knowledge and expectation before perception." loading="lazy">
+  <figcaption>Gibson: bottom-up, enough information in the visual array. Gregory: top-down, the brain makes inferences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--04-c-illusions.webp" width="900" height="1010" alt="Two classic illusions with their equal parts shown. In the Ponzo figure two horizontal bars lie between converging lines; both bars are the same length but the upper one looks longer. In the Müller-Lyer figure two shafts are the same length but the one with outward fins looks longer than the one with inward fins. The brain misapplies depth cues." loading="lazy">
+  <figcaption>In both figures the highlighted lines are exactly equal: sensation is the same, perception differs.</figcaption>
+</figure>
+
+
 ## Development
 
 **Early brain development.** The brain develops from simple neural structures in the womb. The **brain stem** develops first and controls autonomic functions such as breathing and heart rate; the **thalamus** relays sensory information; the **cerebellum** co-ordinates movement and balance; and the **cortex**, developing last and continuing to mature into adolescence, supports cognition such as thinking and language. Nature provides the genetic blueprint for this sequence, while nurture (nutrition, stimulation and experience) affects how connections between neurons form.
@@ -161,6 +183,17 @@ Sensation is the raw data the senses receive; **perception** is the brain's inte
 Piaget proposed development in four stages — sensorimotor, pre-operational, concrete operational and formal operational — with **schemas** modified through assimilation and accommodation. Key concepts include egocentrism and conservation. Later research suggested Piaget underestimated young children: **McGarrigle and Donaldson's 'naughty teddy' study** found more young children could conserve number when the change was made "accidentally" by a teddy, and **Hughes' 'policeman doll' study** found young children could take another's point of view in a task that made sense to them — evidence that egocentricity reduces earlier than Piaget claimed. In education, Piaget's theory implies matching tasks to a child's stage and letting children learn through discovery.
 
 **Dweck's Mindset Theory** distinguishes a **fixed mindset** (ability is unchangeable) from a **growth mindset** (ability develops through effort); praising effort rather than ability, and building self-efficacy beliefs, encourages a growth mindset. **Learning styles** theory classifies learners as, for example, **verbalisers** or **visualisers**; **Willingham's Learning Theory** criticises learning styles, arguing there is little evidence that matching teaching to a preferred style improves learning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--05-c-piaget-stages.webp" width="900" height="1010" alt="A four-step staircase rising from left to right: sensorimotor, pre-operational, concrete operational, formal operational. A note says schemas change through assimilation and accommodation, and arrows show egocentrism reducing and conservation developing as the child moves up." loading="lazy">
+  <figcaption>Thinking changes in a fixed order of four stages as schemas are modified.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--06-c-conservation-teddy.webp" width="900" height="1000" alt="Three steps. Step 1: two rows of five counters are equal. Step 2: a teddy accidentally messes up one row so it is spread out, but there are still five counters in each row. Step 3: more young children said the rows were still equal, showing they could conserve number, so Piaget underestimated young children." loading="lazy">
+  <figcaption>When the change looked accidental, more young children conserved number than Piaget predicted.</figcaption>
+</figure>
+
 
 ## Research methods
 
@@ -192,6 +225,12 @@ Alternative explanations:
 ```
 
 "Correlation does not equal causation" alone will not score — naming a plausible third variable is what earns the mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--07-c-correlation-cause.webp" width="900" height="1000" alt="A triangle diagram. Hours of revision and exam marks are linked by a dashed double-headed arrow labelled r = +0.8. A third variable, motivation, has arrows to both. Another arrow shows the direction could reverse: confident students may revise more. A strong link can be concluded, but not that revision causes higher marks." loading="lazy">
+  <figcaption>A strong correlation shows a link, not a cause: a third variable or reversed direction may explain it.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

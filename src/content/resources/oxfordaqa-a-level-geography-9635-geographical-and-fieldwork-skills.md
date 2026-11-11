@@ -86,6 +86,12 @@ The specification does not print a list of command words; your teacher will conf
 - **Logarithmic scales** compress a wide range of values (for example 10 to 1,000,000) on to one axis. Each cycle is a tenfold increase. On a graph with a logarithmic vertical axis, equal slopes show equal percentage (proportional) rates of change, not equal absolute changes.
 - **Dispersion diagrams** plot each value as a dot along a vertical scale. They show the spread, clustering and outliers in a data set, and you can mark the median and quartiles on them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--04-gs-circles.webp" width="900" height="620" alt="Three circles on a baseline. A small circle for value 1 has radius 1 unit. The correct circle for a value four times larger has radius two times larger, so its area is four times larger. The wrong circle, with radius four times larger, has an area sixteen times larger. The rule is that radius is proportional to the square root of the value." loading="lazy">
+  <figcaption>Why a proportional circle needs radius proportional to the square root of the value.</figcaption>
+</figure>
+
+
 ## 3.5.1.4 Statistical skills
 
 All data below is fictional, from a made-up town, Aldervale.
@@ -145,6 +151,22 @@ Degrees of freedom = number of categories - 1 = 2. For a table with rows and col
 
 A significance test asks how likely a result is to have arisen by chance. Geographers usually accept the **0.05 level** (95% confidence) and treat the **0.01 level** as strong evidence. If the result exceeds the critical value, reject the null hypothesis. Then explain it geographically.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--01-gs-spread.webp" width="900" height="940" alt="A dispersion diagram of 11 pedestrian counts from a fictional town, plotted as dots up a vertical scale from 12 to 75. Horizontal lines mark the lower quartile 18, median 31, upper quartile 46 and a dashed mean of 33.9. The highest count, 75, is an outlier that pulls the mean above the median. The inter-quartile range is 28, the range is 63 and the standard deviation is 17.6." loading="lazy">
+  <figcaption>One dot per site shows why the median, IQR and standard deviation are less affected by the extreme count of 75 than the mean and range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--02-gs-spearman.webp" width="900" height="1010" alt="A scatter graph of ten sites, A to J, showing environmental quality score rising with distance from the town centre, with a dashed trend line. Below it the working: the squared rank differences add up to 14.5, so Spearman r s = 1 minus 6 times 14.5 divided by 990, which is 0.912. A scale from minus 1 to plus 1 shows the two-tailed critical values 0.648 and 0.794 for n = 10; 0.912 lies beyond 0.794, so the null hypothesis is rejected." loading="lazy">
+  <figcaption>Scatter of the ten Aldervale sites with the rank working and the significance scale for r_s = 0.912.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--03-gs-chi.webp" width="900" height="990" alt="A bar chart of observed litter counts 42, 30 and 18 in three equal zones, with a dashed line at the expected count of 30 in each. Under each bar the working: 144 divided by 30 is 4.8, 0, and 4.8, which sum to a chi-square value of 9.6. A scale from 0 to 12 shows the critical values 5.99 at the 0.05 level and 9.21 at the 0.01 level for 2 degrees of freedom. 9.6 lies above 9.21, so the null hypothesis of an even spread is rejected." loading="lazy">
+  <figcaption>Observed against expected litter counts, the chi-square working and where 9.6 falls against the 5.99 and 9.21 critical values.</figcaption>
+</figure>
+
+
 ## 3.5.1.5 ICT skills
 
 - **Remotely sensed data**: images from satellites, aircraft or drones, such as Landsat or Copernicus Sentinel imagery. Useful for land-use change and vegetation cover over large areas. Limitations: cloud cover, resolution, and the need for ground checking.
@@ -167,6 +189,12 @@ Justify each method in terms of the question. **Primary data** is collected by y
 - **Systematic**: at regular intervals, such as every 50 m along a transect. Good coverage but can miss or repeat a regular pattern.
 - **Structured/stratified**: the sample is split in proportion to known sub-groups, such as land-use zones or age groups. Representative but needs prior knowledge of the groups.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--05-gs-sampling.webp" width="900" height="960" alt="Three rectangles each showing 10 sample points. In the random panel the points are scattered with no pattern. In the systematic panel the points lie at equal spacing along a line. In the stratified panel the area is split into three zones taking 50, 30 and 20 percent of the width, and they receive 5, 3 and 2 points in proportion. Notes say random sampling avoids bias but can miss parts, systematic gives even coverage but can miss a regular pattern, and stratified is representative but needs prior knowledge." loading="lazy">
+  <figcaption>The three sampling types the specification names, each with 10 illustrative points and its main weakness.</figcaption>
+</figure>
+
+
 ### 3.5.2.3 Presentation of data
 
 Choose maps, graphs, photographs, field sketches, tables or interview quotations, and **justify the choice**. A scatter graph suits two continuous variables; a located proportional symbol map suits values at named sites.
@@ -178,6 +206,12 @@ Use statistical techniques **where appropriate**, and other techniques where the
 ### 3.5.2.5 Conclusions and evaluation
 
 Link conclusions back to the aim, and **accept or reject the hypothesis**. Consider **fieldwork ethics**: consent, anonymity, not damaging the environment, and how presenting data might affect a place or its people. Show how your understanding of the place and the theory grew. Evaluate **every stage**, suggest improvements, and say how the enquiry could be taken forward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills--06-gs-enquiry.webp" width="900" height="1010" alt="A vertical chain of five stages joined by arrows: 1 plan and prepare (aim, hypothesis, risk assessment), 2 collect data (sampling, primary and secondary), 3 present data (maps, graphs, sketches, tables), 4 analyse data (statistics and coded themes), 5 conclude and evaluate (accept or reject, ethics, improvements). A gold arrow loops from the last stage back to the first, labelled evaluate every stage." loading="lazy">
+  <figcaption>The five stages of a fieldwork enquiry, with evaluation running through all of them.</figcaption>
+</figure>
+
 
 ## Worked example: an evaluation paragraph
 

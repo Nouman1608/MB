@@ -43,6 +43,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 Two plays in total — one per section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-aspects-of-dramatic-tragedy--07-dt-fit.webp" width="900" height="810" alt="Four unit blocks: Unit 1 Aspects of Dramatic Tragedy and Unit 2 Place in Literary Texts form the International AS; Unit 3 Elements of Crime and Mystery and Unit 4 Literary Representations are added for the full International A-level. Two bars show weighting: in the AS, Unit 1 is 50% and Unit 2 is 50%; in the full A-level, Unit 1 is 20%, Unit 2 is 20%, and Units 3 and 4 make up the rest." loading="lazy">
+  <figcaption>Unit 1 is half of the International AS but 20% of the full International A-level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-aspects-of-dramatic-tragedy--09-dt-exam.webp" width="900" height="790" alt="The Unit 1 exam lasts 2 hours, is closed book and is worth 50 marks. Section A, 25 marks, is a passage-based question on the chosen Elizabethan or Jacobean tragedy. Section B, 25 marks, is an essay question on the chosen later tragedy. Because two plays are written on, the quotation bank for revision needs equal depth for both plays." loading="lazy">
+  <figcaption>Two plays, two question types, 25 marks each, no books in the room.</figcaption>
+</figure>
+
+
 ## Core tragic conventions to know cold
 
 Genre debate, not feature-spotting, is what separates a strong response from an adequate one: identifying that a convention is present earns limited credit compared with debating how straightforwardly, ambiguously or subversively a given play actually uses it.
@@ -57,6 +68,17 @@ blindness and insight of tragic protagonists, and the capacity of tragedy to mov
 through pity and fear — rather than setting out a required list of Greek critical terms. Treat
 "hamartia" and "catharsis" above as useful shorthand for revision, not the required frame: use
 them as a **debate**, not a checklist — does each play use, complicate, or subvert the convention?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-aspects-of-dramatic-tragedy--10-dt-conventions.webp" width="900" height="980" alt="A stage schematic. On stage stands a tragic protagonist whose flaws, pride and folly, and blindness and insight are labelled. Arrows lead from the stage to an audience below, labelled pity and fear, which together move the audience: catharsis. A note says there is no exhaustive list of the aspects of tragedy, and that hamartia and catharsis are optional Greek terms for the same ideas." loading="lazy">
+  <figcaption>The specification describes tragedy in plain English: a protagonist's flaws and the audience's pity and fear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-aspects-of-dramatic-tragedy--11-dt-debate.webp" width="900" height="860" alt="Starting from a planning note that names the convention at stake, two routes are compared. Feature-spotting only notes that the convention is present and is adequate. Genre debate asks whether the play uses the convention in a straightforward way, subverts it, or leaves it genuinely ambiguous, and this more evaluative move separates a strong response from an adequate one." loading="lazy">
+  <figcaption>Name the convention, then argue how the play uses it, rather than just spotting it.</figcaption>
+</figure>
+
 
 ## Section A — the passage
 
@@ -85,6 +107,12 @@ critical fluency with core conventions — the tragic hero, hamartia, catharsis 
 century the play was written in, so revise both plays with a consistent focus on the shared
 critical ideas — the flaws, pride and folly of tragic protagonists; catharsis through pity and
 fear — rather than treating them as two unrelated period studies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-aspects-of-dramatic-tragedy--08-dt-plays.webp" width="900" height="886" alt="Two columns list the five prescribed plays in each section. Section A, Elizabethan and Jacobean tragedy: Othello, King Lear and Hamlet by Shakespeare, Doctor Faustus (B text) by Marlowe, and The Duchess of Malfi by Webster. Section B, later dramatic tragedies: Death of a Salesman by Miller, A Streetcar Named Desire by Williams, Hedda Gabler by Ibsen, Waiting for Godot by Beckett and Translations by Friel. Candidates study one play from each section." loading="lazy">
+  <figcaption>Five prescribed plays per section; candidates write on one play from each.</figcaption>
+</figure>
+
 
 ## Building a genre-focused response
 

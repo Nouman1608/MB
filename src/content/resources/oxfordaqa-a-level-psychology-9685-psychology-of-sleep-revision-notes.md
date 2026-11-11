@@ -64,6 +64,22 @@ The assessment objectives are AO1 (knowledge), AO2 (application) and AO3 (analys
 | Cataplexy | Sudden loss of muscle tone, often after strong emotion; a feature of narcolepsy |
 | Hypocretin (orexin) | Hypothalamic neurotransmitter that stabilises wakefulness; reduced in narcolepsy with cataplexy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--01-sleep-clock-pathway.webp" width="900" height="780" alt="A flow from light to the retina, then to the SCN in the hypothalamus (the internal clock), then to the pineal gland, which releases melatonin. A bar chart beside it shows melatonin high in the dark and low in bright light." loading="lazy">
+  <figcaption>Light is the exogenous zeitgeber; the SCN is the endogenous pacemaker; the pineal gland releases melatonin in the dark.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--02-sleep-rhythm-types.webp" width="900" height="820" alt="Three strips. A circadian wave completes one cycle in 24 hours. An ultradian wave shows five sleep-stage cycles of about 90 minutes during one night. An infradian wave completes one cycle in about a month, for example the menstrual cycle." loading="lazy">
+  <figcaption>Circadian: about 24 hours. Ultradian: several cycles within 24 hours. Infradian: longer than a day.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--04-sleep-night-hypnogram.webp" width="900" height="758" alt="A step graph of one night of sleep in five cycles of about 90 minutes. Each cycle goes from light NREM stage 1 and 2 down to slow-wave sleep and back up to REM. Early cycles have more slow-wave sleep; later cycles have more REM." loading="lazy">
+  <figcaption>Sleep cycles through NREM and REM about every 90 minutes; slow-wave sleep dominates early, REM late.</figcaption>
+</figure>
+
+
 ## Studies at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -96,6 +112,12 @@ The assessment objectives are AO1 (knowledge), AO2 (application) and AO3 (analys
 - **Evolutionary vs restoration.** Evolutionary accounts explain *why sleep evolved* (safety, saving energy). Restoration explains *what sleep does* for the body and brain.
 - **Primary vs secondary insomnia.** Secondary has another cause, such as pain. Primary has no clear separate cause.
 - **Personality vs genetics.** Personality factors (neuroticism, worry) act through hyperarousal. Genetic factors are many small-effect variants, shown by family, twin and genome-wide studies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--03-jet-lag-direction.webp" width="900" height="880" alt="Two time bars for an example 6-hour time-zone change. Flying east, the body-clock night falls 6 hours later than local night, so sleep must move earlier: a phase advance. Flying west, the body-clock night is 6 hours earlier than local night, so sleep must move later: a phase delay, which is easier because the SCN runs slightly over 24 hours." loading="lazy">
+  <figcaption>East needs a phase advance; west needs a phase delay, which is easier.</figcaption>
+</figure>
+
 
 ## Mini essay plan
 
@@ -140,6 +162,12 @@ The same shape works for other extended questions on this unit. For shift work a
 11. Predisposing, precipitating and perpetuating.
 12. Hypocretin (orexin).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--05-sleep-functions-map.webp" width="900" height="880" alt="Four panels. Evolutionary explanations: energy conservation (sleep lowers metabolism, smaller animals sleep more) and predator-prey safety (keeps the animal still and hidden; more predator danger, less REM). Restoration theory: slow-wave sleep restores the body, REM restores the brain. Memory consolidation: slow-wave sleep supports facts, REM supports skills." loading="lazy">
+  <figcaption>Three groups of explanation: evolutionary (energy, safety), restoration, and memory consolidation.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Calling the sleep/wake cycle ultradian.
@@ -166,6 +194,12 @@ They are predisposing, precipitating and perpetuating factors.
 
 **What is the main cause of narcolepsy with cataplexy?**
 Narcolepsy with cataplexy is linked to the loss of brain cells that produce the neurotransmitter hypocretin, also called orexin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychology-of-sleep--06-insomnia-3p-model.webp" width="900" height="800" alt="A graph of sleep difficulty over time with an insomnia threshold. A raised baseline shows predisposing factors such as personality and genes. A stressful event causes a spike (precipitating). Without perpetuating factors the line falls back below the threshold; with perpetuating factors, such as long periods awake in bed, it stays above." loading="lazy">
+  <figcaption>Predisposing, precipitating and perpetuating factors together keep sleep difficulty above the insomnia threshold.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

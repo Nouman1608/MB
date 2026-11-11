@@ -86,6 +86,12 @@ both — predicting what a given piece of pseudocode or code outputs, as
 well as producing a short program or function to a specification — not
 just writing your own programs from scratch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b2-programming--09-design-before-code.webp" width="900" height="890" alt="Four steps in order: problem description, pseudocode or flowchart, Python or Java code, then a test plan and a run. A dashed copper arrow that skips the design step and goes straight from the problem to code is crossed out: writing code directly from a problem description increases the risk of logic errors. A strip at the top lists the B.1 process, specify, decompose, abstract, test, which is applied while programming." loading="lazy">
+  <figcaption>Design in pseudocode or a flowchart first, then write code, then test; skipping the design raises the risk of logic errors.</figcaption>
+</figure>
+
+
 ## Worked example: designing a test plan
 
 A program is meant to accept a student's exam score (0–100) and output
@@ -108,6 +114,12 @@ A test plan that only checks a normal value (score = 75) has not
 actually confirmed the program handles the edges of its valid range or
 rejects invalid input correctly — all three categories are required
 before a solution can be considered properly tested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b2-programming--10-test-plan-number-line.webp" width="900" height="932" alt="A chart with three lanes sharing one number scale from −20 to 160, for a program that accepts exam scores from 0 to 100. The valid range 0 to 100 is shaded. Normal data: 75, accepted. Boundary data: 0 and 100, the extreme valid values at each edge, both accepted. Erroneous data: −5 and 150, outside the range, which should be rejected with an error message. Testing only a normal value does not show that the edges and invalid input are handled." loading="lazy">
+  <figcaption>Normal, boundary and erroneous test data for a score from 0 to 100.</figcaption>
+</figure>
+
 
 ## Connecting to the computational solution internal assessment
 
@@ -168,3 +180,24 @@ the same source already cited by the [full syllabus
 guide](/resources/ib-dp-computer-science-syllabus-guide/), which first
 reproduced B.2's teaching hours and its place within Theme B. Verified
 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b2-programming--08-control-structures.webp" width="900" height="880" alt="Three small flowcharts. Sequence: Step 1, Step 2 and Step 3 run in order. Selection: a condition is tested; if yes, block A runs, if no, block B runs, and then the program carries on. Iteration: a block is repeated, and after each pass the program asks whether to go again; if yes it loops back, if no it carries on." loading="lazy">
+  <figcaption>Sequence, selection and iteration are the three basic control structures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b2-programming--11-types-and-structures.webp" width="900" height="892" alt="Four primitive types with example values: integer 42, real or float 3.5, boolean True, character or string &quot;Hi&quot;. A one-dimensional array of five values 12, 7, 31, 5, 20 with indexes 0 to 4, where scores[2] is 31. A two-dimensional array with three rows and four columns, where grid[1][2], row 1 and column 2, is 2. The values are illustrative." loading="lazy">
+  <figcaption>Primitive types plus one- and two-dimensional arrays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b2-programming--12-modularity.webp" width="900" height="780" alt="A problem is broken into three functions, each with defined inputs and outputs, as the programming form of the decompose step. 1: get_score takes nothing and returns a score. 2: check_score takes the score and returns whether it is valid. 3: show_result takes the score and the validity and returns a message. Running with a score of 75 gives the message Score 75 accepted. The function names and the 0 to 100 rule are illustrative." loading="lazy">
+  <figcaption>Functions with defined inputs and outputs are the programming form of decomposing a problem.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b2-programming--13-trace-divergence.webp" width="900" height="826" alt="An illustrative loop meant to add the numbers 1 to 4 but written to stop at 3. A trace table compares the total after each pass for the code and for the plan: after i=1 both give 1, after i=2 both give 3, after i=3 both give 6, but on pass 4 the code has already ended while the plan reaches 10. The output is 6 from the code and 10 expected. Tracing shows exactly where actual behaviour diverges from expected behaviour." loading="lazy">
+  <figcaption>Tracing shows exactly where actual behaviour diverges from expected behaviour.</figcaption>
+</figure>
+

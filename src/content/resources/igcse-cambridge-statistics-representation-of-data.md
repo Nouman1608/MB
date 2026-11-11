@@ -121,6 +121,17 @@ polygons as a separate, more advanced step. Keeping this boundary
 clear avoids the common confusion of trying to apply Topic 3's
 grouped-data techniques to a Topic 2 question, or vice versa.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-representation-of-data--05-rep-chooser.webp" width="900" height="928" alt="Six questions matched to a diagram: compare category totals (bar chart), parts of a whole (pie or sectional bar), compare two data sets (multiple bar or comparative pie), overlapping categories (Venn), spread and middle 50% (box-and-whisker), keep every value (stem-and-leaf)." loading="lazy">
+  <figcaption>Choose the diagram by the question you need it to answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-representation-of-data--06-rep-comparative-pie.webp" width="900" height="1060" alt="Two illustrative classes with 20 and 80 students. Same-size pies mislead; scaling the radius to the square root of the total gives radii 70 and 140, so the area is four times larger, matching the four times larger total." loading="lazy">
+  <figcaption>Comparative pie charts scale the radius to the square root of the total so areas match the totals.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **Do you need to draw pictograms in Cambridge IGCSE Statistics 0479?**
@@ -142,3 +153,24 @@ No. Histograms and frequency polygons belong to Topic 3, Frequency distributions
 
 Cambridge IGCSE Statistics (0479) syllabus for exams in 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718153-2027-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-representation-of-data--01-rep-same-data.webp" width="900" height="1060" alt="Three bar charts of the same 30 students: simple bar totals (9, 11, 7, 3), multiple bar with boys beside girls, and sectional bar with boys and girls stacked to the same totals. Data is illustrative." loading="lazy">
+  <figcaption>The same data drawn as a simple, multiple and sectional bar chart shows what each one emphasises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-representation-of-data--02-rep-stem-box.webp" width="900" height="840" alt="The same 15 illustrative travel times as a stem-and-leaf diagram (every value kept, key 2 | 3 = 23 minutes) and as a box-and-whisker diagram (min 8, Q1 15, median 22, Q3 31, max 41, middle 50% marked)." loading="lazy">
+  <figcaption>A stem-and-leaf diagram keeps every value while a box-and-whisker diagram summarises the middle 50%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-representation-of-data--03-rep-venn.webp" width="900" height="780" alt="A Venn diagram of 30 illustrative students: 4 only cycle, 6 do both, 11 only play a sport and 9 do neither, so 4 + 6 + 11 + 9 = 30. It shows categories that overlap." loading="lazy">
+  <figcaption>A Venn diagram suits categories that overlap rather than exclude each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-representation-of-data--04-rep-two-way.webp" width="900" height="760" alt="A two-way table of illustrative data for 30 students (travel method by gender). Four numbered readings are highlighted: a single cell (girls by bus = 5), a row total (boys = 16), a column total (bus = 11) and the grand total (30)." loading="lazy">
+  <figcaption>Reading a cell, a row total, a column total and the grand total are separate skills.</figcaption>
+</figure>
+

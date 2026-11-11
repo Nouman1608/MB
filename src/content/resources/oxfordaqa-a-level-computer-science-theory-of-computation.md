@@ -61,6 +61,12 @@ Trace `xxyxy`: S0 → S1 → S1 → S2 → S1 → S2. It ends in S2, so it is **
 
 A string reaches S2 only if it began with `x` and its last symbol was `y`. The machine accepts **strings that start with x and end with y**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--01-fsm-accept.webp" width="900" height="1100" alt="A state diagram with start state S0, accepting state S2 (double ring) and trap state S3, with three traces. xxyxy ends in S2 and is accepted; xyx ends in S1 and yxy in S3, so both are rejected." loading="lazy">
+  <figcaption>An FSM accepts a string only if it ends in an accepting state; this one accepts strings that start with x and end with y.</figcaption>
+</figure>
+
+
 ### FSMs with output: Mealy machines
 
 Only **Mealy machines** are required. The output is attached to each **transition**, written `input / output` on the arc. A Mealy machine has no accepting states; you read the output string.
@@ -73,6 +79,12 @@ This machine copies its input one step late (a one-bit delay). The state remembe
 | S1 (last bit 1) | S0, output 1 | S1, output 1 |
 
 Input `1101`: S0 reads 1, outputs 0, goes to S1; S1 reads 1, outputs 1, stays in S1; S1 reads 0, outputs 1, goes to S0; S0 reads 1, outputs 0. Output: **0110**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--02-mealy-delay.webp" width="900" height="920" alt="Two states S0 and S1 with arcs labelled input / output. Input 1101 visits S1, S1, S0, S1 and gives output 0110, the input delayed by one step." loading="lazy">
+  <figcaption>In a Mealy machine the output is written on each arc as input / output.</figcaption>
+</figure>
+
 
 ## 3.13.2 Regular expressions and regular languages
 
@@ -110,6 +122,12 @@ Regular expressions and FSMs are **equivalent ways of defining a regular languag
 5. Any missing arc leads to a rejecting trap state. If you leave it off the diagram, say so.
 
 Check: `abab` ends in S2 and `ababc` in S3 (both accepted); `aba` ends in S1 and `abcc` has no arc from S3 (both rejected).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--03-regex-fsm.webp" width="900" height="940" alt="The FSM for (ab)+c? with S2 and S3 accepting. abab and ababc are accepted; aba and abcc are rejected, abcc because no arc leaves S3 on c." loading="lazy">
+  <figcaption>The regular expression (ab)+c? and this FSM define the same regular language.</figcaption>
+</figure>
+
 
 ## 3.13.3 Turing machines
 
@@ -152,6 +170,12 @@ The head starts on the leftmost symbol of `1011`, in state SE.
 
 Final tape: **10111**, with four 1s. It halts because SH has no outgoing transitions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--04-turing-parity.webp" width="900" height="1007" alt="Six tape snapshots show the head moving right across 1011 in states SE and SO, then writing a 1 on the blank and halting in SH. The final tape 10111 has four 1s." loading="lazy">
+  <figcaption>Each step reads a symbol, writes, moves and changes state until the halting state is reached.</figcaption>
+</figure>
+
+
 ### Why Turing machines matter
 
 Turing machines provide a general, formal **model of computation** and a **definition of what is computable**. The **Universal Turing machine (UTM)** can simulate the behaviour of any other Turing machine: a description of the machine to simulate and its input are stored on the UTM's tape.
@@ -179,6 +203,12 @@ Turing machines provide a general, formal **model of computation** and a **defin
 
 A **syntax diagram** shows the same rules as paths: `<unsigned>` is a `digit` box with a loop arrow back to its start; `<signed>` has a branch that passes through a `sign` box or bypasses it. A string is valid if some path uses its symbols in order.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--05-bnf-decimal.webp" width="900" height="1190" alt="Syntax diagrams for unsigned (a digit with a loop) and decimal (optional sign, unsigned, point, unsigned). -12.5 is valid; 3., +.7 and --2.1 are invalid for the reasons shown." loading="lazy">
+  <figcaption>A string is valid if some path through the syntax diagram uses its symbols in order.</figcaption>
+</figure>
+
+
 ### What BNF can do that regular expressions cannot
 
 ```
@@ -187,6 +217,12 @@ A **syntax diagram** shows the same rules as paths: `<unsigned>` is a `digit` bo
 ```
 
 `<pal>` generates palindromes over {a, b}, such as `bbabb`. `<same>` generates `ab`, `aabb`, `aaabbb`: equal numbers of a and b. Both need unlimited memory of what came earlier; an FSM has a fixed number of states, so no regular expression can describe either language.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--06-bnf-nesting.webp" width="900" height="958" alt="Nested rings show &lt;same&gt; producing aaabbb and &lt;pal&gt; producing bbabb, each ring adding matching letters on both sides. An FSM has a fixed number of states, so no regular expression describes either language." loading="lazy">
+  <figcaption>Recursive BNF rules can match unlimited nested pairs, which a fixed-state FSM cannot.</figcaption>
+</figure>
+
 
 ## 3.13.5 Classification of algorithms
 
@@ -235,6 +271,12 @@ Each pass halves n: 64 needs 6 passes, 1000 needs 9. Doubling n adds one pass: *
 
 A BST search hits its worst case when the tree is unbalanced, for example built from sorted data into one long chain; a balanced tree gives O(log n). The array version of Dijkstra selects every vertex and scans every distance each time; a priority-queue version is usually quoted as O((V + E) log V) for E edges. State which version you mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--07-complexity-curves.webp" width="900" height="1150" alt="A line chart of O(log n), O(n), O(n squared) and O(2 to the n) for n up to 12, with the exponential curve leaving the chart just after n = 7. A table gives the lesson values for n = 8, 16 and 32." loading="lazy">
+  <figcaption>Exponential growth overtakes polynomial growth very quickly as n rises.</figcaption>
+</figure>
+
+
 ### Tractable and intractable problems (3.13.5.3)
 
 A problem with a **polynomial (or less)** time solution is **tractable**; one with **no polynomial (or less)** time solution is **intractable**.
@@ -242,6 +284,12 @@ A problem with a **polynomial (or less)** time solution is **tractable**; one wi
 Example: finding the shortest order for a van to visit 10 shops. Checking every order means 10! = 3,628,800 routes; for 15 shops, 1,307,674,368,000. No polynomial-time method is known, so it is treated as intractable.
 
 A **heuristic** is a set of rules or knowledge about the problem domain. A heuristic method might find an **approximate but non-optimal** solution ("always drive to the nearest unvisited shop") or **change some of the problem constraints** (accept any route under a time limit).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-theory-of-computation--08-routes-intractable.webp" width="900" height="1060" alt="Log-scale bars show 10! = 3,628,800 routes for 10 shops and 15! = 1,307,674,368,000 for 15 shops, so the problem is intractable. An illustrative route shows the nearest-unvisited-shop heuristic." loading="lazy">
+  <figcaption>Checking every route is impractical, so a heuristic gives a quick approximate answer.</figcaption>
+</figure>
+
 
 ### Computable and non-computable problems (3.13.5.4)
 

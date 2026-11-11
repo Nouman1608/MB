@@ -93,11 +93,23 @@ Split into nibbles: 1100 = 12 = C,  1101 = 13 = D  ->  CD
 
 Hexadecimal appears in MAC addresses, IP version 6 addresses, colour codes and memory dumps — knowing where it is used is examinable alongside the conversion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--12-denary-binary-hex.webp" width="900" height="870" alt="Eight place values from 128 to 1 sit above the bits 11001101, which add up to 205. The bits split into nibbles 1100 and 1101, worth 12 and 13, written as hex digits C and D, giving CD." loading="lazy">
+  <figcaption>Each hex digit stands for four bits, so 205 = 11001101 = CD.</figcaption>
+</figure>
+
+
 ## Binary arithmetic and overflow
 
 Add binary as in denary, carrying when a column reaches 2. **Overflow** occurs when the result needs more bits than the register holds — adding two 8-bit numbers giving a 9-bit answer. The extra bit is lost and the stored result is wrong.
 
 A **logical shift** left multiplies by two, a shift right divides by two. Bits shifted out are lost, which is another route to inaccuracy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--13-overflow-and-shifts.webp" width="900" height="960" alt="Two 8-bit numbers are added to give a 9-bit answer; the 9th bit falls outside the register and is lost, leaving the wrong value 49. Below, the number 13 is shifted left to make 26 and right to make 6, with the bit shifted out lost." loading="lazy">
+  <figcaption>Overflow loses the extra bit; a left shift doubles and a right shift halves.</figcaption>
+</figure>
+
 
 ## Text, sound and images
 
@@ -112,6 +124,12 @@ Image file size = width x height x colour depth (in bits)
 Sound file size = sample rate x sample resolution x seconds
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--16-sound-sampling.webp" width="900" height="870" alt="A smooth sound wave is sampled at regular intervals; each sample is a dot rounded to the nearest of eight levels. Arrows mark the time between samples (sample rate) and the size of a level step (resolution). The file size formula is shown below." loading="lazy">
+  <figcaption>Sample rate is how often the wave is measured; resolution is how many bits each measurement uses.</figcaption>
+</figure>
+
+
 ## Compression
 
 **Lossless** compression removes redundancy so the original can be perfectly reconstructed — run-length encoding, and essential for text and program files where any loss would corrupt the data.
@@ -119,6 +137,12 @@ Sound file size = sample rate x sample resolution x seconds
 **Run-length encoding (RLE)** works by replacing runs of identical, repeated values with a single value and a count of how many times it repeats, so highly repetitive data — such as a simple image with large blocks of a single colour — is stored far more compactly. RLE can, however, sometimes produce a **larger** file than the original: on noisy or photographic data, where pixel values rarely repeat exactly, encoding each short run as a (value, count) pair can take more space than simply storing the original values, which is why RLE suits simple graphics far better than continuously varying photographic images.
 
 **Lossy** compression permanently discards data the user is unlikely to notice, giving much smaller files — acceptable for photographs, music and video, unacceptable for a spreadsheet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--14-run-length-encoding.webp" width="900" height="930" alt="Two rows of 12 pixels. The simple row compresses to two runs (8 white, 4 black), 4 values. The noisy row has 10 runs, 20 values, which is larger than the original 12." loading="lazy">
+  <figcaption>RLE shrinks repetitive data but can enlarge noisy data.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -132,6 +156,12 @@ MiB   = 1406.25 / 1024   = 1.37 MiB
 ```
 
 Dividing by 8 to reach bytes, then by 1024 twice, is where most errors occur.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--15-image-file-size.webp" width="900" height="1050" alt="A pixel grid is labelled 800 pixels by 600 pixels with 24 bits per pixel. Below, a chain of conversions: 11 520 000 bits, divide by 8 to 1 440 000 bytes, divide by 1024 to 1406.25 KiB, divide by 1024 to 1.37 MiB." loading="lazy">
+  <figcaption>Convert bits to bytes (divide by 8), then divide by 1024 twice to reach MiB.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -63,6 +63,22 @@ Components communicate over **buses**: sets of parallel wires, each carrying one
 - Von Neumann advantage: simpler and cheaper, and memory is shared flexibly, so a large program or a large data set uses whatever space is free. Typical of general-purpose computers.
 - Harvard advantage: an instruction and data can be accessed at the same time, removing the shared-bus bottleneck; each memory and bus can be sized to suit its job. Typical of embedded systems and digital signal processors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture--15-coa-buses.webp" width="900" height="720" alt="The processor and main memory joined by an address bus (one-way), a data bus (two-way) and a control bus (two-way), and an I/O controller between processor and peripheral." loading="lazy">
+  <figcaption>The three buses and the direction each carries signals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture--16-coa-memory-size.webp" width="900" height="934" alt="18 address lines give 2^18 = 262,144 addresses; with 4 bytes per location that is 1,048,576 bytes, which is 1 MiB." loading="lazy">
+  <figcaption>Working from address lines to memory size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture--17-coa-von-neumann-harvard.webp" width="900" height="1090" alt="Von Neumann: one memory and one set of buses for instructions and data. Harvard: separate instruction and data memories on separate buses, so both can be accessed at once." loading="lazy">
+  <figcaption>Von Neumann and Harvard architectures compared.</figcaption>
+</figure>
+
+
 ## 3.7.2 The processor and its components
 
 - **ALU**: arithmetic, logical operations, comparisons and shifts.
@@ -109,6 +125,17 @@ Square brackets mean "contents of".
 5. The saved values are restored and the interrupted program resumes where it stopped.
 
 Saving matters because the ISR uses the same registers; without it, the original program would continue with a wrong PC or wrong values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture--18-coa-fetch-execute.webp" width="900" height="1170" alt="Fetch copies PC 212 to MAR, increases PC to 213, reads LDR R3, 87 into MBR then CIR. Execute puts 87 in MAR, reads 45 into MBR and copies it to R3." loading="lazy">
+  <figcaption>Register transfers for LDR R3, 87.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture--19-coa-interrupt.webp" width="900" height="1000" alt="An interrupt request arrives, the current instruction finishes, PC, status register, stack pointer and other registers are saved on the stack, PC is loaded with the ISR address, the ISR runs, values are restored and the program resumes." loading="lazy">
+  <figcaption>How the processor handles an interrupt.</figcaption>
+</figure>
+
 
 ## 3.7.4 Factors affecting processor performance
 
@@ -160,6 +187,17 @@ Symbols: AND is a D shape; OR has a curved back and pointed front; XOR adds a se
 *Trace with A = 1, B = 0, Cin = 1.* A ⨁ B = 1. Sum = 1 ⨁ 1 = **0**. A⋅B = 0 and Cin⋅(A ⨁ B) = 1, so carry-out = **1**. Check: 1 + 0 + 1 = 2 = binary 10.
 
 **Edge-triggered D-type flip-flop.** It has a data input D and a clock input. When the clock goes high, the current value of D is stored and output until the clock next goes high. Changes to D between rising edges are ignored, so it holds one bit: a memory unit. If D is 1, 1, 0, 1, 0 at five rising edges, the output after each edge is 1, 1, 0, 1, 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture--20-coa-circuit-trace.webp" width="900" height="930" alt="A NOR gate fed by A and B and an AND gate fed by the NOR output and C give X = NOT(A + B) AND C. The 8-row truth table shows X is 1 only for A=0, B=0, C=1." loading="lazy">
+  <figcaption>A two-gate circuit and its truth table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture--21-coa-full-adder.webp" width="900" height="780" alt="A full-adder made of two half-adders and an OR gate. With A=1, B=0, Cin=1: A xor B = 1, sum = 0, A AND B = 0, Cin AND (A xor B) = 1, carry-out = 1, so 1+0+1 = binary 10." loading="lazy">
+  <figcaption>Wire values through a full-adder for 1 + 0 + 1.</figcaption>
+</figure>
+
 
 ## 3.7.7 Boolean algebra
 

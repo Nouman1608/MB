@@ -66,6 +66,12 @@ institution) and a **context of reception** (who reads it now, where, and what t
 believe). This unit adds two power questions to both: *who benefits from this version of events?*
 and *who is missing from it?*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-language-context-culture-and-power--13-ctx-contexts.webp" width="900" height="640" alt="Every text has a context of production (who made it, when, where, for whom, through which institution) and a context of reception (who reads it now, where, and what they already believe). The unit adds two power questions to both: who benefits from this version of events, and who is missing from it." loading="lazy">
+  <figcaption>Two contexts and two power questions.</figcaption>
+</figure>
+
+
 ## 2. Representation: every text chooses
 
 **Representation** is the way a text presents people, groups, places or events. It is built from
@@ -105,6 +111,17 @@ of a named worker.
 **Step 5 -- judge both.** Text 2 leaves out the cost to the public, just as Text 1 leaves out the
 cause. Show that each text selects; do not call one "biased" and the other "true".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-language-context-culture-and-power--14-ctx-representation.webp" width="900" height="830" alt="Representation is how a text presents people, groups, places or events. A hub labelled &quot;a text's version&quot; connects to five choices: selection and omission (what is left in or out), naming (for example &quot;protesters&quot; or &quot;a mob&quot;), framing (a threat, a crisis or a human-interest story), foregrounding (what comes first) and agency (who acts and who only has things done to them)." loading="lazy">
+  <figcaption>Five choices behind a representation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-language-context-culture-and-power--15-ctx-two-versions.webp" width="900" height="990" alt="The lesson compares two invented reports of a port strike. Text 1 headline: &quot;DOCK STRIKE CHAOS: SHELVES EMPTY AS MILITANTS SHUT PORT&quot;. Text 2 headline: &quot;Port workers walk out after ten years without a real pay rise&quot;. Naming: &quot;MILITANTS&quot; against &quot;port workers&quot;. Cause: none given against ten years without a real pay rise. Voice: unnamed business leaders against a named crane driver. Reader: a harmed shopper against an ally of a worker. Each text selects, so show what each includes and leaves out rather than calling one biased and the other true." loading="lazy">
+  <figcaption>One event, two versions.</figcaption>
+</figure>
+
+
 ## 3. Bias, stance and perspective
 
 These words are not the same, and using them precisely earns credit.
@@ -120,6 +137,12 @@ Features that reveal stance: **loaded words** ("chaos", "militants"); **modality
 "may"); **hedging and boosting** ("reportedly" versus "clearly"); the **agentless passive**
 ("Mistakes were made" hides who made them); **nominalisation** ("the closure" hides who closed
 what); and **inclusive and exclusive pronouns** ("we" versus "they").
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-language-context-culture-and-power--16-ctx-stance.webp" width="900" height="830" alt="Three rising steps. Perspective is the position a text is written from; every text has one. Stance is the writer's attitude to the subject, shown in the language. Bias is a one-sided treatment that favours a view while presenting itself as fair; calling a text biased is a claim you must prove with evidence. Features that reveal stance: loaded words, modality (must versus may), hedging and boosting, the agentless passive, nominalisation, and inclusive and exclusive pronouns (we versus they)." loading="lazy">
+  <figcaption>Perspective, stance and bias.</figcaption>
+</figure>
+
 
 ## 4. Power: who speaks, who is silent
 
@@ -163,6 +186,12 @@ could write such a book. Writing it was itself taking power.
 now meets it as a historical and literary work, often in a classroom, where its link between
 literacy and power still applies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-language-context-culture-and-power--17-ctx-douglass.webp" width="900" height="930" alt="Frederick Douglass, Narrative of the Life of Frederick Douglass (1845), Chapter VI, as the lesson analyses it. Three steps: Auld's words decide what the boy may learn; Douglass turns those words into his own lesson; he names the power directly. Two parallel sentences set master and boy against each other: &quot;What he most dreaded, that I most desired&quot; and &quot;What he most loved, that I most hated&quot;. Each of Auld's fears becomes one of Douglass's goals." loading="lazy">
+  <figcaption>Douglass turns the words around.</figcaption>
+</figure>
+
+
 ## 5. Gender and identity
 
 Language can treat people unequally without saying anything openly hostile. Look for:
@@ -191,6 +220,12 @@ smiles") and a gift to someone else. Skill for one athlete; feeling for the othe
 languages or varieties) and chosen names. Ask whether a group **names itself** or **is named by
 others**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-language-context-culture-and-power--18-ctx-gender.webp" width="900" height="880" alt="Two invented match reports of a 400 metres win, compared in order of mention. Report A, Daniel Osei: the action &quot;powered&quot; and the skill &quot;tactical brilliance&quot;. Report B, Hannah Price: appearance &quot;Blonde&quot;, family &quot;mother-of-two&quot;, age &quot;29&quot;, emotion &quot;all smiles&quot;, and a win dedicated to her husband. Report A credits skill; Report B describes hair, age and family before the result and turns the win into feeling and a gift to someone else." loading="lazy">
+  <figcaption>Skill for one, feeling for the other.</figcaption>
+</figure>
+
+
 ## 6. Reception across time and place
 
 A text's meaning is not fixed at the moment it is made. The cultural theorist Stuart Hall described
@@ -217,6 +252,12 @@ owned by the brochure's "our". "Waiting to be discovered" erases the people alre
 "Simple songs" turns their culture into background for visitors.
 
 Same words; the meaning changes with the reader's place, culture and stake in the text.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-language-context-culture-and-power--19-ctx-reception.webp" width="900" height="930" alt="Stuart Hall described three ways an audience can read a media text: dominant (accepts the intended meaning), negotiated (accepts some and resists some) and oppositional (rejects it). The invented Tarsa island brochure says the island is &quot;waiting to be discovered&quot;. A tourist, the intended reader, makes the preferred dominant reading: escape from modern life. A resident is likely to read it oppositionally: &quot;time forgot&quot; presents the islanders as behind the times. The same words mean differently with the reader's place, culture and stake in the text." loading="lazy">
+  <figcaption>Same words, different readers.</figcaption>
+</figure>
+
 
 ## How this unit is assessed
 

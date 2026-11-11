@@ -111,6 +111,12 @@ programmes
 
 **Crowd behaviour** can be prosocial or antisocial. Social factors are **social loafing** (individuals put in less effort in a group), **deindividuation** (loss of personal identity and restraint in an anonymous crowd) and **culture**; dispositional factors are **personality** and **morality**, which help explain why some individuals behave well in crowds where others do not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--14-s-conformity-obedience.webp" width="900" height="800" alt="Two panels. Conformity (Asch): a group of people influences one person; social factors are group size, anonymity and task difficulty, dispositional factors are personality and expertise. Obedience (Milgram's Agency Theory): an authority figure instructs a person; factors are agency, authority, culture and proximity, with Adorno's Authoritarian Personality as a dispositional explanation." loading="lazy">
+  <figcaption>Conformity follows a majority; obedience follows an authority. They have different studies and factors.</figcaption>
+</figure>
+
+
 ## Language, thought and communication
 
 **Piaget's theory** holds that language depends on thought: children develop concepts first and acquire words for them later. The **Sapir-Whorf hypothesis** holds that thinking depends on language — the language a person speaks shapes how they think. Evidence comes from **variation in recall and colour recognition across cultures**: people whose language has more colour terms tend to distinguish and remember colours differently from people whose language has fewer. The strong form (language determines thought) is generally rejected; a weaker form (language influences thought) has more support.
@@ -118,6 +124,12 @@ programmes
 **Human and animal communication** differ. In **Von Frisch's bee study**, honeybees returning to the hive performed a **round dance** for food close by and a **waggle dance** for food further away, with the angle of the dance showing direction relative to the sun and the length of the waggle showing distance. Animal communication is mainly about survival, reproduction, territory and food, and is limited to a fixed set of signals about the here and now; human language can refer to past, future and imaginary things (**displacement**) and create unlimited new messages.
 
 **Non-verbal communication** includes **eye contact** (regulating conversation and signalling attraction), **body language** (open and closed postures, and **postural echo**, where people mirror each other's posture to show rapport), **touch**, and **personal space**, which varies with culture, status and gender. **Darwin's evolutionary theory** argues non-verbal behaviour is innate and evolved because it aided survival, supported by similar facial expressions across cultures and in babies. Evidence that it is **learned** includes **Yuki's study** (2007) of emoticons, which found that Japanese participants paid more attention to the eyes and American participants to the mouth when interpreting emotion, reflecting cultural norms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--17-s-nonverbal.webp" width="900" height="940" alt="Five pictogram cards: eye contact (an eye), body language (a person with arms out), postural echo (two people in the same pose), touch (a hand) and personal space (a person inside a dashed circle with another person outside)." loading="lazy">
+  <figcaption>The five non-verbal channels listed in the specification.</figcaption>
+</figure>
+
 
 ## Brain and neuropsychology
 
@@ -129,6 +141,12 @@ The nervous system has two parts: the **central nervous system** (brain and spin
 
 **Neuropsychology** studies how brain structure relates to behaviour; **cognitive neuroscience** uses scanning: **CT** (X-ray images of structure), **PET** (a radioactive tracer showing brain activity) and **fMRI** (blood-oxygen changes showing activity). In **Tulving's 'gold' memory study**, PET scans taken while participants thought about episodic and semantic memories showed different patterns of blood flow, with episodic memories linked more to the front of the brain. Neurological damage, for example from a stroke, can affect motor abilities and behaviour depending on which area is damaged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--18-s-brain-lobes.webp" width="900" height="940" alt="A schematic side view of the brain, front on the left, not to scale. It is divided into the frontal, parietal, occipital and temporal lobes, with the cerebellum at the back below the occipital lobe. A row beneath names the three scanning techniques: CT, PET and fMRI." loading="lazy">
+  <figcaption>A schematic of the four lobes and cerebellum, with the three scanning techniques of neuropsychology.</figcaption>
+</figure>
+
+
 ## Psychological problems
 
 **Mental health** problems are common, and their recorded **incidence changes over time** as awareness, diagnosis and social conditions change. Significant mental health problems affect **individuals** (relationships, work, physical health) and **society** (pressure on health services, lost working days, the need for social care).
@@ -136,6 +154,12 @@ The nervous system has two parts: the **central nervous system** (brain and spin
 **Clinical depression** is diagnosed using the **ICD**, which distinguishes depressive episodes of different severity by the number and intensity of symptoms, such as persistent low mood, loss of interest and pleasure, and reduced energy, alongside others such as disturbed sleep and appetite. The **biological explanation** is an imbalance of the neurotransmitter **serotonin**, treated with **antidepressant drugs** (such as SSRIs); the **psychological explanation** is **negative schemas** and attributions, treated with **cognitive behaviour therapy (CBT)**. **Wiles' study** (2013) found that patients who had not responded to antidepressants improved more when CBT was added to their usual care than with usual care alone.
 
 **Addiction** is diagnosed using the **ICD dependence syndrome**: features such as a strong desire to take the substance, difficulty controlling use, **tolerance**, **withdrawal** symptoms, neglect of other interests and continued use despite harm. Addiction differs from substance misuse, which is harmful use without dependence. The **biological explanation** is **genetic vulnerability**, supported by **Kaij's twin study** (1960) of alcohol abuse, which found higher concordance in identical than non-identical twins. The **psychological explanation** is **peer influence**, where people take on the norms of a group they identify with. Interventions are **aversion therapy**, which pairs the substance with an unpleasant response, and **self-management programmes** such as twelve-step groups.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--20-s-depression.webp" width="900" height="910" alt="Two columns under the word Depression. Biological (nature): an imbalance of neurotransmitters, particularly serotonin, treated with antidepressant medication. Psychological (nurture): negative schemas and attributions learned through experience, treated with cognitive behaviour therapy (CBT). A note says treatments are often combined in practice." loading="lazy">
+  <figcaption>Pair each explanation with its treatment, then compare them: nature versus nurture.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -164,6 +188,12 @@ difference between addiction/dependence and substance misuse when
 defining addiction. Treating antidepressants and CBT as competing
 rather than complementary interventions -- both appear on real mark
 schemes as valid treatment routes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--16-s-language-thought.webp" width="900" height="940" alt="Two rows with opposite arrows. Piaget: thought leads to language, so language depends on thought. Sapir-Whorf: language leads to thought, so thinking depends on language. Cross-cultural evidence cited in the specification is variation in recall and colour recognition." loading="lazy">
+  <figcaption>Piaget and Sapir-Whorf make opposite claims about the direction between language and thought.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -231,3 +261,14 @@ No. They are complementary, and both appear on mark schemes as valid treatment r
 AQA GCSE Psychology (8182) specification, first teaching 2017, section
 3.2 Social Context and Behaviour —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/social-context-and-behaviour).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--15-s-bystander-crowd.webp" width="900" height="780" alt="Two panels. Bystander behaviour: a person in need with several bystanders; social factors are presence of others and cost of helping, dispositional factors are similarity to the victim and expertise; Piliavin's subway study. Crowd behaviour: a crowd of people; social factors are social loafing, deindividuation and culture, dispositional factors are personality and morality." loading="lazy">
+  <figcaption>Each behaviour has social (situational) and dispositional (personal) factors the lesson lists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--19-s-neurons.webp" width="900" height="820" alt="A stimulus enters a sensory neuron, which passes the message across a synapse to a relay neuron, which passes it across a second synapse to a motor neuron, which produces a response. The relay neuron is labelled with dendrites, cell body, axon and terminals. The picture is schematic and not to scale." loading="lazy">
+  <figcaption>Sensory, relay and motor neurons pass messages in one direction, linked by synapses.</figcaption>
+</figure>
+

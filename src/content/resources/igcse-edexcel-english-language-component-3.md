@@ -49,6 +49,12 @@ Anthology content, but Component 3 removes the exam-hall time pressure
 in exchange for a formal, marked, resubmission-limited coursework
 process.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--01-c3-route.webp" width="900" height="900" alt="Component 3 is the coursework alternative to the Component 2 exam; both routes have the same 40% weighting and the same assessment objectives." loading="lazy">
+  <figcaption>Component 1 is compulsory, then a centre picks Component 2 (exam) or Component 3 (coursework); both carry 40% and test AO1, AO2, AO4, AO5.</figcaption>
+</figure>
+
+
 ## Specification coverage
 
 **PEARSON EDEXCEL INTERNATIONAL GCSE ENGLISH LANGUAGE A (4EA1) — COMPONENT 3**
@@ -79,6 +85,12 @@ centre's own set or chosen titles/tasks within the framework the
 specification allows, and are subject to the board's rules on
 authentication, retention of candidate work, and resubmission
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--02-c3-marks.webp" width="900" height="760" alt="Two to-scale stacked bars show the mark split per assessment objective, with word-count bars to scale." loading="lazy">
+  <figcaption>Component 3 is 60 marks: Assignment A 30 (AO1 12, AO2 18, about 1,200 words) and Assignment B 30 (AO4 18, AO5 12, about 700 words).</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Assignment A rewards genuine comparison, not three separate mini-essays
@@ -105,6 +117,12 @@ criteria before moderation; candidates preparing for Component 3 should
 check their own centre's set titles and submission deadlines directly,
 since these are not fixed by the specification itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--04-c3-mix.webp" width="900" height="960" alt="Four possible three-text selections drawn as icons with allowed or not-allowed marks." loading="lazy">
+  <figcaption>Assignment A needs at least one poetry and one prose text, so two poems + one prose or one poem + two prose are allowed; all poems or all prose are not.</figcaption>
+</figure>
+
+
 ## Worked example: planning Assignment A's comparison
 
 A candidate chooses two Anthology poems and one prose extract, focused
@@ -124,6 +142,12 @@ Argument:  each writer chooses a different technique (metaphor,
 Building the comparison around one connecting thread like this, stated
 early and returned to across all three texts, is what distinguishes a
 genuinely comparative AO1/AO2 response from three separate analyses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--03-c3-thread.webp" width="900" height="1060" alt="Weak plan: three unconnected essays. Strong plan: Poem 1 extended metaphor, Poem 2 fragmented structure and prose understatement all linked to one thread about loss." loading="lazy">
+  <figcaption>A comparative plan joins all three texts to one thread (control of emotional distance from loss) instead of three separate analyses.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

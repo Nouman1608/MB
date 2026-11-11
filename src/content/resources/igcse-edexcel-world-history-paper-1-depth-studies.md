@@ -60,6 +60,12 @@ STUDIES (CHOOSE AT LEAST 2 OF 8)**
 - 7. A Divided Union: Civil Rights in the USA, 1945–74
 - 8. South Africa: From Union to the End of Apartheid, 1948–94
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-1-depth-studies--08-p1-choose-two.webp" width="900" height="910" alt="Eight tiles with two highlighted (Germany and USSR, an illustrative example). The choice is set by the centre, so revise only your taught options." loading="lazy">
+  <figcaption>Your centre, not you, chooses at least two of the eight options.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because only a subset of these eight options is actually taught at any
@@ -80,6 +86,12 @@ question phrasing and mark-scheme expectations are broadly consistent
 across the eight options even though the historical content differs
 completely between them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-1-depth-studies--11-p1-hub.webp" width="900" height="920" alt="Eight option circles connect to one hub labelled same exam technique, with four skills tested in every option: cause, consequence, significance and change over time." loading="lazy">
+  <figcaption>The content differs across options but the skills transfer.</figcaption>
+</figure>
+
+
 ## Why Depth Studies are examined this way
 
 Unlike a broad survey paper covering centuries of change, a Depth Study is designed to test genuine
@@ -91,6 +103,12 @@ eight options even though the underlying content is entirely different from one 
 A candidate confident with the general shape of Depth Study questions (cause, consequence,
 significance, change over time within the period) can apply that same exam technique regardless of
 which two options their centre happens to teach.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-1-depth-studies--09-p1-depth-survey.webp" width="900" height="790" alt="A graph of depth against time covered: a broad survey is a wide shallow bar, a Depth Study is a narrow tall stack of named individuals, exact sequence and precise causation." loading="lazy">
+  <figcaption>Depth Studies trade breadth of time for depth of detail.</figcaption>
+</figure>
+
 
 ## The eight options at a glance
 
@@ -109,6 +127,12 @@ Confirm with your centre which two (or more) rows above you are actually being t
 this table to plan detailed revision — studying the wrong option, even briefly, wastes time that
 could otherwise deepen knowledge of the period that will genuinely appear in your exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-1-depth-studies--07-p1-timeline.webp" width="900" height="971" alt="A to-scale timeline from 1780 to 1995 with one bar per Depth Study option, each a short bounded period." loading="lazy">
+  <figcaption>The eight Depth Studies drawn to scale, from c1780 to 1994.</figcaption>
+</figure>
+
+
 ## Building period-specific knowledge efficiently
 
 For whichever Depth Study options a centre teaches, an effective revision structure separates each
@@ -119,6 +143,12 @@ set of notes — keeps the periods from bleeding into one another, since candida
 marks by unintentionally applying facts from one Depth Study to a question about a different one,
 particularly where two studied options share superficial similarities (for instance, both involving
 a shift toward authoritarian rule).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-1-depth-studies--10-p1-notes-folders.webp" width="900" height="1000" alt="Two separate folders, each with events in order, key individuals, causes and consequences, with a crossed no-mixing-facts marker between them." loading="lazy">
+  <figcaption>Keep one set of notes per option so facts do not bleed across periods.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

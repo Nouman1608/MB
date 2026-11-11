@@ -62,6 +62,12 @@ on a previously unseen passage; the passages are drawn from two of
 prose, poetry and drama (not prose alone), testing close reading and
 analysis without prior knowledge of the source text
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-2-prose-and-unseen--13-paper2-two-sections.webp" width="900" height="880" alt="Section A is a set prose text. Section B has two unseen passages drawn from two of prose, poetry and drama; one question is answered from a choice of two." loading="lazy">
+  <figcaption>Paper 2 pairs a studied prose text with unseen passages.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because Paper 2 combines a studied text (Section A) with a completely
@@ -120,6 +126,22 @@ judge realistically how long each response actually needs, rather than
 running out of time on the section they find more comfortable at the
 expense of the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-2-prose-and-unseen--14-unseen-method.webp" width="900" height="880" alt="Four steps: first read for overall sense and tone, second read annotating language and effects, plan a few well-developed points, then write. Do not guess beyond the passage." loading="lazy">
+  <figcaption>A repeatable four-step method for unseen passages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-2-prose-and-unseen--15-unseen-method-by-form.webp" width="900" height="950" alt="Prose: narrative voice, pacing, scene structure. Poetry: form, rhyme and metre, line breaks, shape on the page. Drama: stage directions, dialogue rhythm, live audience. Always name the feature then explain its effect." loading="lazy">
+  <figcaption>Which features to notice shifts with the form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-2-prose-and-unseen--17-two-kinds-of-practice.webp" width="900" height="850" alt="Section A needs depth: tracking themes and characters across the whole novel. Section B needs a fast method on fresh extracts. Both are practised together under exam timing." loading="lazy">
+  <figcaption>Practise depth and method separately, then together under timing.</figcaption>
+</figure>
+
+
 ## Worked example: annotating an unseen prose extract
 
 Consider an unseen extract opening with short, clipped sentences
@@ -135,6 +157,12 @@ difference between the two responses is not extra knowledge — it is
 the habit of asking, after noting any technique, "what does this
 actually do to the reader's impression, here, in this specific
 passage" rather than stopping at naming the device.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-2-prose-and-unseen--16-weak-vs-strong-annotation.webp" width="900" height="1110" alt="An empty-house plan and clipped sentence bars illustrate the extract. The weak response only names short sentences creating tension; the strong response explains slowed pace, mirrored hesitation, isolating silence and quiet unease." loading="lazy">
+  <figcaption>The difference is explaining the effect, not extra knowledge.</figcaption>
+</figure>
+
 
 ## Unseen poetry and unseen drama: the same method, different features
 

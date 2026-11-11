@@ -79,6 +79,27 @@ process); the visuo-spatial sketchpad handles visual and spatial
 information; the episodic buffer integrates information from the other
 components and links to long-term memory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--06-multi-store-flow.webp" width="900" height="960" alt="Information passes from the sensory register to short-term memory to long-term memory." loading="lazy">
+  <figcaption>The multi-store model: a sequence of separate stores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--07-store-features.webp" width="900" height="970" alt="Table of coding, capacity and duration for sensory register, short-term and long-term memory, as in the lesson." loading="lazy">
+  <figcaption>Features of the three stores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--08-working-memory-model.webp" width="900" height="1090" alt="Central executive coordinates phonological loop (store and articulatory process), visuo-spatial sketchpad and episodic buffer; the buffer integrates information and links to long-term memory." loading="lazy">
+  <figcaption>The four components of the working memory model and their links.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--09-models-fit-together.webp" width="900" height="1040" alt="The multi-store model as a sequence with short-term memory highlighted, opened out into the working memory model." loading="lazy">
+  <figcaption>The working memory model refines the STM component of the multi-store model.</figcaption>
+</figure>
+
+
 ## Worked example: applying the working memory model to a scenario
 
 A question describes someone struggling to remember a phone number
@@ -137,6 +158,17 @@ removed in version 1.4 (first teaching September 2025), so it is not
 required for exams from June 2026 (AS) and June 2027 (A-level). It can
 still be useful context when evaluating the multi-store model's
 single long-term store.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--10-dual-task-clash.webp" width="900" height="960" alt="The phone number and place names both need the phonological loop, the map layout uses the sketchpad, and route planning loads the central executive, so rehearsal of the number is displaced." loading="lazy">
+  <figcaption>Why a phone number and a map task interfere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--11-dual-task-no-clash.webp" width="900" height="810" alt="A phone number uses the phonological loop; tracing a route by eye uses the visuo-spatial sketchpad; separate components, so little interference." loading="lazy">
+  <figcaption>A purely visuo-spatial second task is predicted to interfere little.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -58,6 +58,22 @@ needs an ongoing internet connection but no local storage space for
 the full file, while an ePublication needs storage space but, once
 downloaded, no ongoing connection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-communication--08-media-two-groups.webp" width="900" height="930" alt="Newsletters and posters are static: no device needed to view, but they cannot be updated and have no interactivity. Websites, multimedia presentations, audio, video, media streaming and ePublications are digital: they combine text, images, sound and moving image and can be updated with some interaction." loading="lazy">
+  <figcaption>Static media suit a fixed message; digital media can be updated and interactive but need a device.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-communication--09-streaming-vs-epublication.webp" width="900" height="870" alt="Streaming sends data continuously and plays it as it arrives, with no storage for the whole file but an ongoing connection needed. An ePublication is downloaded as a complete file and stored, so it needs storage space but can be read offline." loading="lazy">
+  <figcaption>Streaming plays data as it arrives; an ePublication is downloaded and stored in full.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-communication--12-one-fact-two-sides.webp" width="900" height="740" alt="A poster needs no device or connection to view, and for the same reason it cannot be updated once printed. A website can be updated at any time, but only reaches people with a suitable device and connection. Weigh the trade-off rather than saying one medium is better." loading="lazy">
+  <figcaption>A medium's advantage is often the reason for its disadvantage.</figcaption>
+</figure>
+
+
 ## A worked comparison: newsletter vs website vs multimedia presentation
 
 A school wants to communicate its termly achievements to parents.
@@ -80,6 +96,12 @@ access to technology, whether the content needs to be updated later,
 and whether delivery is passive (arrives to the audience) or active
 (the audience must seek it out).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-communication--10-school-media-choice.webp" width="900" height="995" alt="A newsletter needs no device or internet and arrives at the audience, but it is fixed once distributed and costs to print and distribute. A website can be updated and holds more content, but needs a device and internet and must be visited. A multimedia presentation is engaging at an in-person event but hard to access later." loading="lazy">
+  <figcaption>None of the three media is best everywhere: the choice depends on audience access, updating and delivery.</figcaption>
+</figure>
+
+
 ## Mobile communication
 
 You need to know the use of mobile devices for communication,
@@ -95,6 +117,12 @@ than a standard call, especially internationally, but depend on
 connection quality in a way a traditional voice call over a mobile
 network does not. Video calls extend this same internet-based
 approach to include a live video feed alongside audio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-communication--11-mobile-two-routes.webp" width="900" height="1030" alt="A phone sends SMS messages and makes phone calls over the mobile network, using the voice channel directly. It makes VoIP calls and video calls over the internet or wi-fi, carrying voice as data and adding live video. VoIP needs a connection, can be cheaper especially internationally, and depends on connection quality." loading="lazy">
+  <figcaption>VoIP carries voice as data over the internet, unlike a standard phone call.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -125,6 +153,12 @@ earlier infrastructure -- rather than an entirely separate block of new
 facts -- makes it easier to reason about unfamiliar scenarios, since
 the same underlying requirements (a suitable device, sufficient
 bandwidth, a working connection) recur across both topics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-communication--13-shared-foundations.webp" width="900" height="745" alt="Video calls, VoIP, media streaming and cloud computing (4.1) all depend on the same foundations from Topics 2 and 4: a suitable device, enough bandwidth and a working connection." loading="lazy">
+  <figcaption>Section 6.1 applies the hardware and network content from earlier topics.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

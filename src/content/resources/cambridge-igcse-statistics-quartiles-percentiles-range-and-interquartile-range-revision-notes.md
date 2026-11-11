@@ -97,6 +97,12 @@ Q3: median of the upper 15, which is the 15 + 8 = 23rd value → size 6.
 Range = 8 − 3 = 5. IQR = 6 − 5 = 1.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--08-b-ungrouped-frequency.webp" width="900" height="660" alt="Forty squares in a row represent the members, coloured in groups by the number of books borrowed from 0 to 5. The 10th and 11th squares fall in the group for 1 books, giving Q1 = 1; the 20th and 21st fall in the group for 2, the median; the 30th is in group 3 and the 31st in group 4, so Q3 = 3.5. The range is 5 and the IQR 2.5." loading="lazy">
+  <figcaption>Use the running total to see which group each quartile position falls in.</figcaption>
+</figure>
+
+
 ## Method: grouped data
 
 1. Make a cumulative frequency table using upper class boundaries. Start from 0 at the lowest boundary.
@@ -126,6 +132,12 @@ Percentile of age 35: cumulative frequency = 40 + 0.5 × 38 = 59, so 59/150 = 39
 Members aged 35 to 45: at 45 the cumulative frequency is 78 + 0.5 × 40 = 98, so 98 − 59 = 39.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--09-b-cumulative-quartiles.webp" width="900" height="970" alt="A cumulative frequency graph for 80 puzzle finishers, with points plotted at the upper class boundaries. Dashed lines go across from the vertical axis at 20, 40 and 60 (n/4, n/2 and 3n/4) to the curve and then down to the horizontal axis at 20, about 28.3 and 38 minutes. The IQR is 38 − 20 = 18 minutes." loading="lazy">
+  <figcaption>Read across from n/4, n/2 and 3n/4 on the cumulative frequency axis, then down to the times.</figcaption>
+</figure>
+
+
 ## Reading a cumulative frequency graph
 
 1. Check the horizontal axis shows upper class boundaries and the vertical axis shows cumulative frequency up to n.
@@ -135,6 +147,12 @@ Members aged 35 to 45: at 45 the cumulative frequency is 78 + 0.5 × 40 = 98, so
 5. Draw the construction lines on the graph so that your readings can be seen.
 
 A smooth curve and a polygon give slightly different readings, so a graph answer is an estimate. Interpolation uses the straight line between two plotted points and gives one definite value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--10-b-percentile-and-between.webp" width="900" height="880" alt="The cumulative frequency graph from the puzzle data with guide lines starting on the time axis. From t = 35 the line reaches cumulative frequency 54, so the percentile is 54/80 × 100 = 67.5. From t = 25 and t = 45 the readings are 32 and 69, and their difference, 37, is the number of people between those times." loading="lazy">
+  <figcaption>Go up from a time to the curve, then across: subtract two readings to count people between two values.</figcaption>
+</figure>
+
 
 ## Quick checks before you write the answer
 
@@ -177,6 +195,17 @@ A smooth curve and a polygon give slightly different readings, so a graph answer
 8. 0.7 × 120 = **84**.
 9. 63/90 × 100 = **70th percentile**.
 10. 77 − 41 = **36**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--06-b-quartiles-small-set.webp" width="900" height="790" alt="Two rows of ordered numbers. With 11 values the middle one, 17, is left out and the medians of the two halves give Q1 = 12 and Q3 = 21. With 12 values the data split cleanly into two halves of six, and the halves’ medians are Q1 = 7.5 and Q3 = 14, with the overall median 10.5." loading="lazy">
+  <figcaption>Quartiles are the medians of the lower and upper halves; with odd n, leave the median out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range--07-b-range-vs-iqr.webp" width="900" height="830" alt="A dot plot of the eleven message counts shows a range of 21 from end to end and an IQR of 9 across the middle half. A second dot plot changes only the largest value from 30 to 60. The range grows to 51 but the quartiles stay 12 and 21, so the IQR stays 9, showing that one odd value barely affects the IQR." loading="lazy">
+  <figcaption>The range depends only on the two extreme values; the IQR covers the middle half and resists an odd value.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -65,6 +65,17 @@ Strength is about the spread of the points, not the steepness of any line throug
 * A lurking variable may drive both. Example: ice cream sales and sunburn cases are both driven by hot weather.
 * A good comment names the association and gives a possible third factor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--01-scatter-pat.webp" width="900" height="840" alt="Four small scatter diagrams: strong positive, strong negative, weak negative and no correlation, each of twelve points. Strong cases lie close to a straight line; the weak case is widely scattered but trends down; the last has no trend." loading="lazy">
+  <figcaption>Strong or weak depends on how close points lie to a line; positive or negative on its slope direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--02-scatter-lurking.webp" width="900" height="920" alt="Hot weather drives both ice cream sales and sunburn cases, so they rise together. A crossed-out dashed link between them shows neither causes the other." loading="lazy">
+  <figcaption>Two variables can be correlated because a third (lurking) variable drives both.</figcaption>
+</figure>
+
+
 ## Method of semi-averages in steps
 
 1. Order the pairs by x, smallest first.
@@ -120,12 +131,29 @@ y = 2.5x + 0.5
 
 At x = 8 the line gives y = 20.5, which is interpolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--03-scatter-semi-even.webp" width="900" height="860" alt="Car age against value, ten points split into lower and upper halves with mean points A (3, 18.16) and B (8, 9.98). The line through them is y = -1.636x + 23.068." loading="lazy">
+  <figcaption>Semi-averages: split ordered data into two equal halves, find each mean point, and draw the line through them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--04-scatter-semi-odd.webp" width="900" height="860" alt="Temperature against cold drinks sold. The middle pair (24, 62) is left out; the lower three give A (18, 40), the upper three give B (30, 82); the line is y = 3.5x - 23." loading="lazy">
+  <figcaption>With an odd number of pairs, leave out the middle pair so both halves are equal.</figcaption>
+</figure>
+
+
 ### Drawing the line
 
 * Plot A and B on the same grid as the data, using a different mark such as a circle.
 * Join A and B with a ruler and extend the line a little each side, but only as far as the data justify.
 * Check that the line passes close to the mean point and that points fall on both sides of it.
 * If a question asks you to draw the line, show the points A and B so the method can be seen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--06-scatter-impossible.webp" width="900" height="790" alt="The example 2 line, extended as a dashed line, reaches 0 at about 14.1 years and about -1.5 thousand dollars at 15 years, which is impossible." loading="lazy">
+  <figcaption>A line of best fit can give impossible values outside the data.</figcaption>
+</figure>
+
 
 ## Equation from two points
 
@@ -152,6 +180,12 @@ Example: the points (5, 12) and (20, 42) give m = 30/15 = 2 and c = 12 − 10 = 
 | Line gives an impossible value | The line cannot be used there (negative sales, negative value) |
 | Small sample | The line may not apply to a wider group |
 | Outlier present | It may pull the line; check for an error and comment |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--05-scatter-predict.webp" width="900" height="830" alt="The line y = 3.5x - 23 with data from 15 to 33 degrees shaded. 26 degrees gives 68 (interpolation); 40 degrees gives 117 (extrapolation, outside the range)." loading="lazy">
+  <figcaption>Estimating inside the data range is usually reliable; outside it is risky.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -94,6 +94,17 @@ Plotting the points, they climb steadily from (1, 35) to (8, 78). They stay clos
 
 Two variables can be correlated without one causing the other. Ice cream sales and sunburn cases both rise in hot weather. Neither causes the other: hot weather drives both. A third variable that drives both is called a lurking variable. When you are asked for a comment, say that the correlation shows an association, and name a plausible reason or a third factor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--01-scatter-pat.webp" width="900" height="840" alt="Four small scatter diagrams: strong positive, strong negative, weak negative and no correlation, each of twelve points. Strong cases lie close to a straight line; the weak case is widely scattered but trends down; the last has no trend." loading="lazy">
+  <figcaption>Strong or weak depends on how close points lie to a line; positive or negative on its slope direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--02-scatter-lurking.webp" width="900" height="920" alt="Hot weather drives both ice cream sales and sunburn cases, so they rise together. A crossed-out dashed link between them shows neither causes the other." loading="lazy">
+  <figcaption>Two variables can be correlated because a third (lurking) variable drives both.</figcaption>
+</figure>
+
+
 ## Lines of best fit (9.2)
 
 A line of best fit is one straight line placed to show the trend in the points. You can only sensibly draw one when the correlation is reasonably strong. For data with no correlation, a line has no meaning.
@@ -144,6 +155,12 @@ Use A:  18.16 = −1.636 × 3 + c
 
 Check: the overall mean point is (5.5, 14.07). Putting x = 5.5 into the line gives y = −1.636 × 5.5 + 23.068 = 14.07, so the line passes through the mean point. This always happens when the two equal halves together contain all the data, as here. With an odd number of pairs and the middle pair left out, it need not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--03-scatter-semi-even.webp" width="900" height="860" alt="Car age against value, ten points split into lower and upper halves with mean points A (3, 18.16) and B (8, 9.98). The line through them is y = -1.636x + 23.068." loading="lazy">
+  <figcaption>Semi-averages: split ordered data into two equal halves, find each mean point, and draw the line through them.</figcaption>
+</figure>
+
+
 ### Worked example 3 (unordered data, odd number of pairs)
 
 Daily maximum temperature in °C (x) and the number of cold drinks sold at a kiosk (y):
@@ -174,6 +191,12 @@ m = (82 − 40)/(30 − 18) = 42/12 = 3.5
 
 **Answer:** y = 3.5x − 23. The gradient means about 3.5 more drinks are sold for each extra degree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--04-scatter-semi-odd.webp" width="900" height="860" alt="Temperature against cold drinks sold. The middle pair (24, 62) is left out; the lower three give A (18, 40), the upper three give B (30, 82); the line is y = 3.5x - 23." loading="lazy">
+  <figcaption>With an odd number of pairs, leave out the middle pair so both halves are equal.</figcaption>
+</figure>
+
+
 ## Using the line for prediction
 
 Once you have y = mx + c, put an x value in to estimate y. To estimate x from a given y, rearrange: x = (y − c)/m.
@@ -200,9 +223,21 @@ The second estimate is 117 drinks, but 40 °C lies outside the range of the data
 * An outlier can pull the line away from the trend. Check whether the outlier is an error before deciding whether to keep it.
 * A strong correlation does not show that x causes y.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--06-scatter-impossible.webp" width="900" height="790" alt="The example 2 line, extended as a dashed line, reaches 0 at about 14.1 years and about -1.5 thousand dollars at 15 years, which is impossible." loading="lazy">
+  <figcaption>A line of best fit can give impossible values outside the data.</figcaption>
+</figure>
+
+
 ### Interpreting m and c
 
 The gradient m tells you how far y moves when x goes up by 1. In example 2, m = −1.636 means the value falls by about 1.636 thousand dollars (1,636 dollars) each year. The constant c is the value of y when x = 0. In example 2, c = 23.068 would be an estimated value when new of about 23.068 thousand dollars. Always give the answer in the units of the question, and check whether x = 0 makes sense in context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit--05-scatter-predict.webp" width="900" height="830" alt="The line y = 3.5x - 23 with data from 15 to 33 degrees shaded. 26 degrees gives 68 (interpolation); 40 degrees gives 117 (extrapolation, outside the range)." loading="lazy">
+  <figcaption>Estimating inside the data range is usually reliable; outside it is risky.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -40,6 +40,17 @@ so two schools both teaching AQA GCSE History may cover genuinely
 different content depending on which specific studies they select, while
 still being assessed on the same specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-course-structure--06-hist-two-components.webp" width="900" height="960" alt="Two columns show Paper 1 (Understanding the Modern World) and Paper 2 (Shaping the Nation) joined by an equals sign. Each has Section A and Section B worth a quarter of the course each. Below, the studies schools choose from: period and wider-world depth studies for Paper 1, thematic and British depth studies for Paper 2." loading="lazy">
+  <figcaption>Two equal papers, each with two equal sections.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-course-structure--08-hist-three-vs-four-phases.webp" width="900" height="1010" alt="Three equal blocks show the three parts of a Paper 1 study; four equal blocks show the four parts of a Paper 2 study, with the fourth being the historic environment for British depth studies. A third row shows a three-phase plan applied to Paper 2 leaving the fourth quarter missed." loading="lazy">
+  <figcaption>Paper 1 studies have three parts, Paper 2 studies have four.</figcaption>
+</figure>
+
+
 ## The historic environment study
 
 One required element is a **historic environment study**, based on
@@ -64,6 +75,12 @@ AQA's own published historic environment site list at
 [aqa.org.uk](https://www.aqa.org.uk/news/gcse-history-historic-environment-sites-2026-2028)
 rather than a previous year's list, since the specified site changes
 annually.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-course-structure--09-hist-historic-sites-by-year.webp" width="900" height="1010" alt="Four cards, one for each British depth study, give the specified site for the 2026, 2027 and 2028 series. A note says the site changes every year and should be confirmed with your teacher." loading="lazy">
+  <figcaption>The specified site changes every year for every British depth study.</figcaption>
+</figure>
+
 
 ## Why the subject is structured this way
 
@@ -107,6 +124,12 @@ timed extended-writing question on that same material is a more
 effective use of revision time than treating recall and extended
 writing as separate stages of preparation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-course-structure--07-hist-ao-weights.webp" width="900" height="1010" alt="Four bars show AO1 knowledge 35%, AO2 explaining concepts 35%, AO3 using sources 15% and AO4 judging interpretations 15%, totalling 100%. A note says AO3 and AO4 are separate skills and that Paper 1 Section A carries only AO4." loading="lazy">
+  <figcaption>AO1 and AO2 carry 70% between them; AO3 and AO4 are separate skills.</figcaption>
+</figure>
+
+
 ## The recurring skills across every option
 
 Whichever specific period study, depth study, thematic study or
@@ -126,6 +149,17 @@ why historians might reach different conclusions from broadly similar
 evidence, whether through differences in the evidence each emphasises,
 the specific questions each set out to answer, or the context in which
 each was writing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-course-structure--10-hist-recurring-skills.webp" width="900" height="1030" alt="Four cards with icons list the recurring skills: using sources as evidence, causation, change and continuity, and (on some Paper 1 tasks) comparing interpretations." loading="lazy">
+  <figcaption>The same few skills are tested whichever studies you take.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-course-structure--11-hist-causation-layers.webp" width="900" height="900" alt="Three stacked layers: long-term underlying conditions, short-term events in the run-up, and the specific trigger, with two-way arrows saying they reinforce each other. A cross marks a list of causes and a tick marks causes linked together." loading="lazy">
+  <figcaption>Sort causes into long-term, short-term and trigger, then show how they reinforced each other.</figcaption>
+</figure>
+
 
 ## How the two components differ in shape
 

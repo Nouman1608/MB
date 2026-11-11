@@ -91,6 +91,27 @@ techniques within self-reports; and the four descriptive pairs used
 for observations (overt/covert, participant/non-participant,
 structured/unstructured, naturalistic/controlled).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--12-six-methods.webp" width="900" height="850" alt="Six cards for experiments, self-reports, case studies, observations, correlations and longitudinal studies, then describe, evaluate, apply." loading="lazy">
+  <figcaption>The six methods and the describe-evaluate-apply pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--13-experimental-designs.webp" width="900" height="1060" alt="Independent measures: different people per condition. Matched pairs: pairs split across conditions. Repeated measures: same people in both conditions." loading="lazy">
+  <figcaption>Who takes part in which condition under each design.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--14-counterbalancing.webp" width="900" height="850" alt="Everyone doing A then B risks order effects. Counterbalancing has half do A then B and half B then A." loading="lazy">
+  <figcaption>Counterbalancing spreads order effects across conditions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--15-observation-pairs.webp" width="900" height="940" alt="Overt or covert; participant or non-participant; structured or unstructured; naturalistic or controlled." loading="lazy">
+  <figcaption>The four descriptive pairs for observations.</figcaption>
+</figure>
+
+
 ## Methodological concepts
 
 These concepts are not tied to a single method and are examined both
@@ -117,6 +138,17 @@ range and standard deviation, and read bar charts, histograms and
 scatter graphs, but the syllabus explicitly states no calculations are
 required and no statistical tests beyond what is specified need to be
 understood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--16-validity-vs-reliability.webp" width="900" height="950" alt="Three targets: reliable but not valid, valid but not reliable, valid and reliable. Below, the validity and reliability types named in the lesson." loading="lazy">
+  <figcaption>Validity is about measuring what is claimed; reliability is about consistency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--17-ethics-two-sets.webp" width="900" height="870" alt="Human participants: minimising harm, consent, withdrawal, deception, confidentiality, privacy, debriefing. Animals: minimising harm, replacement, species, numbers, pain, housing, reward and deprivation." loading="lazy">
+  <figcaption>The two sets of ethical considerations.</figcaption>
+</figure>
+
 
 ## Section A and Section B
 
@@ -148,6 +180,12 @@ deliberate contrast with Paper 4's planning question at A Level, which
 does require aims, hypotheses, sampling technique and ethics as part
 of the plan -- so candidates should not import Paper 4's fuller
 requirements into a Paper 2 answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--18-planning-question.webp" width="900" height="950" alt="Include procedure, validity, reliability, data types and method-specific features. Not required: aims or hypotheses, and evaluating sample or ethics. Paper 4 does require these." loading="lazy">
+  <figcaption>What the Paper 2 planning question does and does not need.</figcaption>
+</figure>
+
 
 ## How to approach it
 

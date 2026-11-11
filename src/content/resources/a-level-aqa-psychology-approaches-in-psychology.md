@@ -73,6 +73,12 @@ does it typically rely on (behaviourist and biological approaches favour control
 methods; the psychodynamic and humanistic approaches rely more heavily on case studies and
 qualitative, less directly testable evidence)?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--03-determinism-and-evidence.webp" width="900" height="850" alt="Two scales. Behaviourist and biological sit at the deterministic end and humanistic at the free will end. Behaviourist and biological rely on controlled scientific methods; psychodynamic and humanistic on case studies and qualitative evidence." loading="lazy">
+  <figcaption>Where the lesson places four approaches on determinism and evidence type.</figcaption>
+</figure>
+
+
 ## Connecting Approaches to the rest of the course
 
 Because this sub-topic sits within Psychology in Context alongside Biopsychology and Research Methods,
@@ -123,6 +129,17 @@ expects genuine comparison, so revision built around a comparison table (assumpt
 determinism vs free will, evidence type) prepares for exactly the kind of question the specification
 sets, rather than only single-approach description.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--02-behaviourist-vs-social-learning.webp" width="900" height="910" alt="Behaviourist: own behaviour, direct reinforcement, behaviour learned. Social learning theory: model rewarded (vicarious reinforcement), mediational processes such as attention and retention, observer imitates." loading="lazy">
+  <figcaption>Behaviourist learning needs direct reinforcement; social learning works through observation and mental processes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--05-biological-vs-psychodynamic.webp" width="900" height="940" alt="Biological (genetics and neurochemistry) and psychodynamic (unconscious conflict) both look for causes outside immediate conscious control; arrows lead to behaviour." loading="lazy">
+  <figcaption>Same idea (cause outside conscious control), different location of the cause.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **Which paper are approaches in psychology examined on in AQA A-Level Psychology 7182?**
@@ -142,3 +159,14 @@ No. The AS Paper 2 covers only the learning, cognitive and biological approaches
 AQA A-Level Psychology (7182) specification, section 4.2.1 Approaches in Psychology (3.2.1 in the AS content) --
 [aqa.org.uk](https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification/subject-content/psychology-in-context),
 verified 2026-09-05.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--01-six-approaches.webp" width="900" height="790" alt="Six cards, one per approach, each with an icon and the phrase for what drives behaviour. Behaviourist and social learning are marked as learning approaches." loading="lazy">
+  <figcaption>The six approaches and what each says drives behaviour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--04-psychodynamic-ideas.webp" width="900" height="960" alt="Four groups: Id, Ego and Superego; defence mechanisms repression, denial and displacement; the unconscious; psychosexual stages." loading="lazy">
+  <figcaption>The psychodynamic ideas named in the specification.</figcaption>
+</figure>
+

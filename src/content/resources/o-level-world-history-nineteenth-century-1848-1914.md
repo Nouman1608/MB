@@ -136,6 +136,12 @@ syllabus: unification in both Italy and Germany would be achieved
 through diplomacy and deliberate war rather than through parliamentary
 revolution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--13-nc-1848-rise-fall.webp" width="900" height="1060" alt="Four causes feed the 1848 revolutions; four recurring factors then undid them; results by country (Frankfurt by 1849, Austria by 1849, France Louis Napoleon)." loading="lazy">
+  <figcaption>The 1848 revolutions broke out for four reasons and unravelled for four others.</figcaption>
+</figure>
+
+
 ## Unification compared
 
 1.2 and 1.3 reward direct comparison of Italy and Germany, since both
@@ -158,6 +164,22 @@ worth knowing precisely, because it explains why the southern German
 states joined Prussia against a foreign aggressor rather than resisting
 annexation, which is why the process ended in a unified German Empire
 rather than a purely Prussian conquest of its neighbours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--14-nc-italy-unification.webp" width="900" height="1060" alt="Four obstacles (Austrian control of the north, Papal States, regional loyalties, poor communications) and four makers (Cavour, Garibaldi, Mazzini, Victor Emmanuel II)." loading="lazy">
+  <figcaption>Italy overcame four obstacles through four contributions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--15-nc-germany-method.webp" width="900" height="1040" alt="Bismarck's three-part method repeated in wars against Denmark 1864, Austria 1866 and France 1870-71, then the Ems Telegram chain to the unified German Empire." loading="lazy">
+  <figcaption>Bismarck isolated, fought a limited war, and stopped, three times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--16-nc-unification-compare.webp" width="900" height="860" alt="Bars for Italian unification 1859-70 (11 years) and German unification 1864-71 (7 years) with their different methods." loading="lazy">
+  <figcaption>Italy and Germany both began fragmented but were unified by different methods.</figcaption>
+</figure>
+
 
 ## Alliances, empire and the coming of war
 
@@ -183,6 +205,22 @@ than months: Germany's Schlieffen Plan required a rapid defeat of
 France before Russia's army could fully mobilise, so once Russia began
 mobilising, German military timetables left almost no room for
 diplomacy to intervene.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--17-nc-alliance-blocs.webp" width="900" height="1060" alt="The Triple Alliance 1882 (Germany, Austria-Hungary, Italy) against the Triple Entente 1907 (Britain, France, Russia); how German naval expansion led Britain away from splendid isolation; the agreements were not a formal military alliance." loading="lazy">
+  <figcaption>Europe divided into two blocs before 1914.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--18-nc-ww1-causes.webp" width="900" height="960" alt="Four barrels for the long-term causes (militarism, alliances, nationalism, imperial rivalry) and a flame for the trigger, the Sarajevo assassination on 28 June 1914." loading="lazy">
+  <figcaption>Long-term causes supplied the fuel and Sarajevo the spark.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--19-nc-ww1-escalation.webp" width="900" height="1070" alt="Germany had to beat France fast before Russia could fully mobilise. Chain: Sarajevo, Russia mobilising, German timetable leaving no room for diplomacy, general war within weeks." loading="lazy">
+  <figcaption>The Schlieffen Plan turned a crisis into general war within weeks.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

@@ -39,6 +39,12 @@ They cover section 3.3 Industry of the Cambridge IGCSE Geography (0460) syllabus
 - Discuss **locational and siting** factors for zones or factories.
 - Case study: **an industrial zone or factory**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--02-industry-types.webp" width="900" height="920" alt="Four cards define processing, manufacturing, assembly and high technology with a picture and an example each. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>The four industry types, each with a picture and an example.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Definition |
@@ -74,6 +80,12 @@ Draw this as three boxes joined by arrows, with a feedback arrow from outputs ba
 
 **Quick example.** A fictional furniture factory takes in timber, glue, electricity and 40 workers. It saws, sands, joins and varnishes the wood. It sends out tables and chairs, plus sawdust, offcuts and fumes. Sawdust sold to a chipboard maker becomes a by-product.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--01-industrial-system.webp" width="900" height="790" alt="Physical and human inputs go into the factory, processes change them, and products and waste come out; some profit is reinvested as a new input. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>An industrial system has inputs, processes and outputs, with profit reinvested as feedback.</figcaption>
+</figure>
+
+
 ## Command words you will meet
 
 The syllabus defines these command words. Match your answer to the word.
@@ -97,6 +109,17 @@ The syllabus defines these command words. Match your answer to the word.
 | Markets | Customers | Fragile, perishable or weight-gaining products |
 | Political | Grants, tax breaks, free zones, trade agreements | Firms choosing between countries |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--03-location-and-site.webp" width="900" height="860" alt="Location is the general area, the industrial zone is a planned estate, and the site is the actual plot; greenfield sites are unbuilt, brownfield sites were used before. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Location, industrial zone and site are nested, and greenfield and brownfield differ by previous use.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--04-location-factors.webp" width="900" height="960" alt="Seven location factors with a one-line rule each; raw materials and power matter less now, markets, labour skills and political factors more. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Seven location factors and how the importance of some has changed.</figcaption>
+</figure>
+
+
 ## Case studies at a glance
 
 | Case study | Type | Key facts | Main location factors | One evaluation point |
@@ -104,6 +127,17 @@ The syllabus defines these command words. Match your answer to the word.
 | Jebel Ali Free Zone, Dubai, UAE | Industrial zone | Began 1985 with 19 companies; about 57 km²; operator says over 11,000 businesses; run by DP World | Beside Jebel Ali Port (opened 1979), the world's largest man-made harbour and the Middle East's busiest port; about 24 km from Al Maktoum airport; free-zone rules with no foreign ownership restrictions | Political and transport factors outweigh raw materials, but much activity is trade and storage, not making goods |
 | Toyota, Burnaston, Derbyshire, England | Factory (car assembly) | First car built 16 December 1992; engines from Deeside, North Wales | Flat site of former Derby Airport; beside A38, near A50 and M1; UK then in the European Community, so no import duties on cars sold to other members; engineering skills in Derby | Shows how trade rules can change and add costs to a plant built for one market |
 | Cambridge Science Park, England | High-tech zone (short example) | Founded by Trinity College in 1970; about 3 km north of the city | University links, skilled graduates, A14 road and Cambridge North station | Footloose firms still cluster where knowledge and skills are found |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--05-jebel-ali-free-zone.webp" width="900" height="1010" alt="A schematic of port, free zone, road and airport, with the import, store or process, and re-export flow of a customs bonded zone. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Jafza sits beside a port, with road and airport links, and works as a customs bonded zone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-industry--06-toyota-burnaston.webp" width="900" height="1025" alt="Land, transport, markets and labour each point to the Burnaston plant, and engines arrive from Deeside. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Why Toyota located at Burnaston: flat site, roads, market access and skilled labour.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

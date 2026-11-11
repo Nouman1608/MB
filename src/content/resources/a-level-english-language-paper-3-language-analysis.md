@@ -51,21 +51,61 @@ Total mark for the paper: 50, split evenly between the two sections. No dictiona
 
 Language change questions reward evidence over assertion — rather than simply stating "English has changed a lot," strong answers name specific processes (borrowing, affixation, semantic shift) and illustrate each with a concrete example word or phrase. Build a small personal bank of five or six well-understood examples for each process, since the same examples can be reused flexibly across different exam questions. Alongside processes, keep a named theory ready to explain *why* a specific change happened, not just *what* changed: random fluctuation theory for change with no clear single cause, the S-curve model for how a new form spreads through a population over time, lexical gap theory for vocabulary that fills a genuine need, functional theory for change driven by new communicative demands, language contact/substratum theory for change driven by contact with other languages, and prestige-based social theories for change spreading through socially influential speakers. Keep prescriptivism and descriptivism clearly distinguished: prescriptivism treats change as decay to be resisted, descriptivism treats it as a natural, inevitable feature of a living language to be recorded and understood — questions frequently ask you to evaluate this tension directly, so having a clear, well-illustrated position on it pays off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-3-language-analysis--01-p3-change-theories.webp" width="900" height="1020" alt="Six small pictures, one for each named theory of language change: random fluctuation (a wandering path), the S-curve (a rising curve that is slow, steep, then slow), lexical gap (a new word fills an empty slot in a row), functional (a new need leads to a new form), language contact or substratum (two overlapping circles) and prestige or social theories (a prestigious speaker influencing others)." loading="lazy">
+  <figcaption>Each named theory answers why a change happened, not only what changed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-3-language-analysis--02-p3-s-curve.webp" width="900" height="880" alt="A graph with time on the horizontal axis and the share of speakers using a new form on the vertical axis. The curve is an S shape: it rises slowly at first, steeply in the middle, and slowly again as it reaches the last holdouts near the top. The three phases are shaded and labelled slowly, rapidly and slowly again. The curve is illustrative, not real data." loading="lazy">
+  <figcaption>The S-curve model: a new form spreads slowly, then rapidly, then slowly again as it reaches the last holdouts.</figcaption>
+</figure>
+
+
 ## How to approach Section B: Child Language Acquisition
 
 The four named theories (behaviourist, nativist, social interactionist, cognitive) are rarely rewarded in isolation — the strongest answers pair each theory with a specific criticism, since questions frequently ask for both. Build the acquisition stages as a genuine sequence with approximate ages and defining features (cooing, babbling, holophrastic, two-word, telegraphic, post-telegraphic) rather than a loose list, since sequencing errors are a common and avoidable source of lost marks. Grammatical over-generalisation ("goed", "sheeps") is a recurring exam focus because it is strong evidence against pure imitation-based theories — be ready to explain not just what it is, but what it reveals about how children actually learn language. Keep Halliday's seven functions (instrumental, regulatory, interactional, personal, representational, heuristic, imaginative) ready to identify in a transcript extract, since a question may ask what function a specific child utterance serves rather than only which developmental stage it belongs to.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-3-language-analysis--04-p3-acquisition-stages.webp" width="900" height="920" alt="A six-step staircase showing the order of children's language development: 1 cooing, 2 babbling (both pre-verbal sounds), 3 holophrastic, 4 two-word, 5 telegraphic, 6 post-telegraphic. Each step has a small picture: sound waves, repeated syllables, then speech bubbles holding one, two, three and five blocks to suggest growing length. Block counts are illustrative. The lesson gives the order but no ages." loading="lazy">
+  <figcaption>The stages are a sequence: learn the order, then add approximate ages and defining features.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-3-language-analysis--05-p3-halliday-functions.webp" width="900" height="900" alt="Seven rows, each with a small icon, a function name and a short gloss: instrumental (satisfying needs), regulatory (controlling others' behaviour), interactional (building relationships), personal (expressing identity and feelings), representational (conveying information), heuristic (exploring and finding out), imaginative (creating an imagined world)." loading="lazy">
+  <figcaption>Use the seven functions to say what a child's utterance is for, not only which stage it belongs to.</figcaption>
+</figure>
+
 
 ## Worked example: linking a language-change process to real evidence
 
 A question might ask you to explain how technology has driven recent lexical change. A strong answer names the specific process at work — most new technology vocabulary arrives through compounding ("laptop"), blending ("podcast," from "iPod" and "broadcast"), or conversion/functional shift (the noun "text" becoming the verb "to text") — and gives a dated or contextualised example for each, rather than simply listing technology words. This same identify-the-process, then-illustrate-with-evidence structure applies across every kind of language change the paper might ask about, whether the driver is technology, contact with other languages, or social change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-3-language-analysis--03-p3-word-processes.webp" width="900" height="1010" alt="Three word-building examples drawn with tiles: compounding, where the tiles lap and top join to make laptop; blending, where the pod part of iPod and the cast part of broadcast join to make podcast; and conversion, where the noun text becomes the verb to text. A row below names borrowing and affixation, and four small pictures show meaning shifts: broadening (a small circle grows), narrowing (a large circle shrinks), amelioration (arrow up) and pejoration (arrow down)." loading="lazy">
+  <figcaption>Name the process, then illustrate it: compounding, blending, conversion, plus the four semantic shifts.</figcaption>
+</figure>
+
+
 ## Worked example: theory plus criticism
 
 Asked to explain Chomsky's nativist theory, a complete answer states the claim (children possess an innate Language Acquisition Device that allows grammar to be acquired from limited, imperfect input — the "poverty of the stimulus" argument), then immediately pairs it with a specific criticism (the LAD has no identified physical basis, and the theory underplays the role of social interaction that Bruner's model foregrounds). A theory stated without its standard criticism, when a question asks for both, leaves half the question unaddressed even if the description of the theory itself is accurate and detailed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-3-language-analysis--06-p3-acquisition-theories.webp" width="900" height="960" alt="Four tiles show the four named theories of child language acquisition. Behaviourist: an adult speaks and a child imitates, with reinforcement shown by a tick. Nativist: a child's head with an inner box labelled LAD, for Chomsky's innate Language Acquisition Device; its criticism is that the LAD has no identified physical basis and the theory underplays social interaction. Social interactionist: adult and child in conversation, for Bruner and caregiver speech. Cognitive: growing blocks for Piaget-influenced cognitive development. The other three tiles carry a dashed placeholder reminding you to add a criticism." loading="lazy">
+  <figcaption>A theory stated without its standard criticism leaves half of a &quot;theory and criticism&quot; question unanswered.</figcaption>
+</figure>
+
+
 ## Connecting the two sections
 
 Although Sections A and B draw on different bodies of knowledge, both are fundamentally about explaining *why* language takes the form it does at a given moment — Section A at the level of the whole language over centuries, Section B at the level of an individual child over months and years. Some questions reward candidates who can draw this parallel explicitly: a child's grammatical over-generalisation and a language's own historical regularisation of irregular forms are both evidence that language users actively apply and generalise rules, rather than simply reproducing what they have heard verbatim. Keeping this shared thread in mind — rule application and generalisation as a genuine driver of change, whether across a lifetime of childhood development or across centuries of a language's history — can strengthen answers in either section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-3-language-analysis--07-p3-overgeneralisation.webp" width="900" height="910" alt="Two rows show a rule being applied to a word: go plus the ending ed gives goed, and sheep plus the ending s gives sheeps. A crossed-out copy symbol shows these forms are not copied from adults. A bottom row shows the same idea in the history of a language: an irregular form (a star shape) becomes a regular form (a circle) over centuries." loading="lazy">
+  <figcaption>Both over-generalisation in children and regularisation in language history show users applying rules, not only reproducing what they heard.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

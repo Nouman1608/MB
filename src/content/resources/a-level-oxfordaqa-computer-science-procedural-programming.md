@@ -73,6 +73,12 @@ Procedural programming structures a solution as a sequence of instructions organ
 
 Its strengths are clarity for algorithmic tasks, straightforward decomposition and ease of testing individual routines. Its weakness is that as programs grow, data and the code acting on it drift apart, which is precisely the problem object orientation was designed to solve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--11-pp-paradigm.webp" width="900" height="990" alt="Data passed through subroutines (procedural), objects binding data and operations (contrast), and data and code drifting apart as programs grow." loading="lazy">
+  <figcaption>Procedural programs organise instructions into subroutines acting on data passed to them.</figcaption>
+</figure>
+
+
 ## Building blocks
 
 Programs are constructed from **sequence**, **selection** and **iteration**.
@@ -85,6 +91,17 @@ INDEFINITE iteration   WHILE condition        tests BEFORE, may run 0 times
 
 Nested loops multiply work: a loop of n inside a loop of n performs n² operations, which is why nesting is the first thing to examine when a program is slow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--12-pp-loops.webp" width="900" height="960" alt="FOR runs 10 times; WHILE x&lt;5 tests first and runs 0 times when x starts at 10; REPEAT UNTIL x&gt;=5 tests after and runs once." loading="lazy">
+  <figcaption>WHILE may run zero times; REPEAT UNTIL always runs once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--13-pp-nested-loops.webp" width="900" height="920" alt="Squares of dots for n=3, 6, 12 show 9, 36 and 144 runs of the inner body." loading="lazy">
+  <figcaption>Nested loops multiply the work to n squared.</figcaption>
+</figure>
+
+
 ## Decomposition and modularity
 
 **Top-down design** breaks a problem into sub-problems until each is small enough to implement as a subroutine. The benefits are testability, reuse, parallel development and comprehensibility.
@@ -92,6 +109,17 @@ Nested loops multiply work: a loop of n inside a loop of n performs n² operatio
 Good subroutines exhibit **high cohesion** (each does one clearly defined thing) and **low coupling** (each depends minimally on the internals of others). An **interface** — the parameters in and the value out — should be all a caller needs to know.
 
 Parameters may be passed **by value** (a copy, so the original is unchanged) or **by reference** (the address, so the original can be modified). Returning a value is generally safer than modifying a parameter, because the effect is visible at the call site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--14-pp-decomposition.webp" width="900" height="960" alt="A problem splits into sub-problems then subroutines; a good subroutine has one job and an interface of parameters in and value out." loading="lazy">
+  <figcaption>Top-down design ends in small subroutines with clear interfaces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--15-pp-parameters.webp" width="900" height="1050" alt="By value the copy changes and x stays 5; by reference x becomes 6." loading="lazy">
+  <figcaption>Pass by value copies; pass by reference changes the original.</figcaption>
+</figure>
+
 
 ## Data structures, validation and testing
 
@@ -102,6 +130,12 @@ Robust programs **validate** input at the point of entry: range, type, length, p
 Testing should use **normal**, **boundary** and **erroneous** data. Boundary values are where defects cluster: if valid input is 1 to 100, test 0, 1, 100 and 101.
 
 Errors divide into **syntax** (code will not compile), **runtime** (crashes during execution, such as division by zero) and **logic** (runs, but gives the wrong answer — the hardest to find, and what trace tables and breakpoints are for).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--17-pp-error-types.webp" width="900" height="920" alt="Syntax stops at compile, runtime crashes during the run, logic gives a wrong result (average of 2 and 4 computed as 4, not 3)." loading="lazy">
+  <figcaption>The three error types show up at different stages.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -121,6 +155,12 @@ Erroneous   "abc"   wrong type,    expect REJECT
 ```
 
 Stating the **expected result** for each case is what makes it a test plan rather than a list of inputs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--16-pp-test-plan.webp" width="900" height="990" alt="Normal 45 and 72 accepted; boundary -1 reject, 0 accept, 100 accept, 101 reject; erroneous &quot;abc&quot; and empty rejected." loading="lazy">
+  <figcaption>Test plans use normal, boundary and erroneous data with expected results.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

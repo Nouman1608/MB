@@ -65,6 +65,12 @@ New Deal
 Pacific, 1939–c.1945 — the causes, course and consequences of the war
 across both theatres
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-studies--07-ds-three-parts.webp" width="900" height="880" alt="Three bars of increasing length for parts (a) describe, (b) explain why, (c) how far or why. The longest part carries the larger share of the marks. A box warns that answering at the wrong level loses marks." loading="lazy">
+  <figcaption>The three parts of a Depth Study question go from describing to explaining to judging.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because the Depth Study question is a structured essay in three parts
@@ -115,6 +121,32 @@ shape of events — is what the three-part structured essay question
 rewards, since Paper 1 consistently expects each part to be answered
 with precise supporting detail rather than general assertion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-studies--08-ds-germany-chain.webp" width="900" height="1010" alt="Three Weimar weaknesses (economic crises, political instability, legacy of the Treaty of Versailles) feed the conditions for Nazi power, then Nazi rule." loading="lazy">
+  <figcaption>Nazi Germany needs to be explained from the Weimar weaknesses that came before it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-studies--09-ds-russia-phases.webp" width="900" height="1000" alt="A vertical timeline of three phases: 1905 failed to remove the Tsar, 1917 succeeded, then Soviet power was consolidated under Lenin and, after his death, Stalin." loading="lazy">
+  <figcaption>Russia 1905-41 has distinct phases, not one continuous revolution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-studies--10-ds-us-sequence.webp" width="900" height="1100" alt="Four linked steps: 1920s social and economic change, Wall Street Crash, Depression, New Deal measures; each New Deal measure should be evaluated, not just described as government intervention." loading="lazy">
+  <figcaption>The Crash and Depression form a connected sequence, followed by specific New Deal measures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-studies--11-ds-wwii-strands.webp" width="900" height="710" alt="Two rows, Europe and Asia-Pacific, each from causes to course to consequences, with an arrow showing events in Europe affected Japan's strategic calculations." loading="lazy">
+  <figcaption>The two theatres are related but distinct strands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-studies--12-ds-wwi-stalemate.webp" width="900" height="820" alt="A schematic not to scale: attackers cross open ground towards a trench defended by barbed wire, a machine gun and artillery, which made advance very costly." loading="lazy">
+  <figcaption>Trench warfare, machine guns, artillery and barbed wire made rapid advance so costly.</figcaption>
+</figure>
+
+
 ## Common mistakes to avoid
 
 - Narrating events chronologically without ever answering the
@@ -157,3 +189,9 @@ Cambridge O Level World History 2147 syllabus for 2024, 2025 and 2026
 ## Related resources
 
 - [Core Content Option A: The Nineteenth Century, 1848-1914](/resources/o-level-world-history-nineteenth-century-1848-1914/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-studies--06-ds-five-timeline.webp" width="900" height="900" alt="Five bars on a 1905 to 1945 scale: First World War 1914-18, Germany 1918-45, Russia 1905-41, United States 1919-41, Second World War 1939 to about 1945." loading="lazy">
+  <figcaption>The five Depth Studies drawn on one year scale.</figcaption>
+</figure>
+

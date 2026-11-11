@@ -69,6 +69,22 @@ of opposing confederates increased from one to three, then levelled
 off, with little further increase in conformity once the majority grew
 beyond three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-conformity-and-obedience--01-asch-line-task.webp" width="900" height="830" alt="A standard line is shown beside three comparison lines A, B and C; line B matches it in length. Five confederates in a row each say &quot;A&quot;, the same wrong answer, and the real participant answers last." loading="lazy">
+  <figcaption>In Asch's task, confederates unanimously gave a wrong answer before the real participant spoke.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-conformity-and-obedience--02-asch-results.webp" width="900" height="766" alt="Two grids of 100 squares. In the left grid 37 squares are filled: around 37 in every 100 critical trials ended in conformity to the wrong majority. In the right grid 75 squares are filled: around 75 in every 100 participants conformed at least once." loading="lazy">
+  <figcaption>Around 37% of trials and around 75% of participants showed conformity to the incorrect majority.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-conformity-and-obedience--03-asch-group-size.webp" width="900" height="840" alt="A sketch graph. The horizontal axis is the number of opposing confederates from 1 to 8 and the vertical axis is conformity. The curve rises sharply between 1 and 3 and then flattens, with little further increase beyond 3." loading="lazy">
+  <figcaption>Conformity rose sharply up to three opposing confederates, then levelled off.</figcaption>
+</figure>
+
+
 ## Milgram's obedience research
 
 Milgram had participants believe they were administering increasingly
@@ -79,6 +95,12 @@ prods; no real shocks were given. Around **65%** of participants
 obeyed to the maximum voltage level, despite showing visible signs of
 distress — a far higher rate of obedience than had been predicted
 beforehand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-conformity-and-obedience--06-milgram-setup.webp" width="900" height="940" alt="An experimenter gives verbal prods to the participant, who sits at a shock generator and believes they are giving increasingly severe shocks to a learner each time the learner answers wrongly. No real shocks were given. A grid of 100 squares with 65 filled shows that around 65 in every 100 participants obeyed to the maximum voltage, far more than predicted." loading="lazy">
+  <figcaption>Around 65% of participants obeyed to the maximum voltage, although no real shocks were given.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -112,6 +134,22 @@ increases the social pressure to publicly agree with the majority even
 when privately disagreeing. Keep these three social factors — group
 size, task difficulty and anonymity — ready as a set, since a question
 may ask for any one of them specifically.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-conformity-and-obedience--04-conformity-factors.webp" width="900" height="870" alt="Four factor cards. Social factors: a bigger majority raises conformity up to a point; a harder task raises conformity because people trust their own judgement less; anonymity lowers conformity because being identifiable adds public pressure. Dispositional factor: low self-esteem or a high need for approval raises conformity." loading="lazy">
+  <figcaption>Social factors (group size, task difficulty, anonymity) and a dispositional factor (personality) change how likely people are to conform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-conformity-and-obedience--05-conformity-vs-obedience.webp" width="900" height="830" alt="Two panels. Conformity: a person changes behaviour to match a group with no order given, as in Asch. Obedience: a person follows a direct order from an authority figure, as in Milgram." loading="lazy">
+  <figcaption>Conformity follows group norms without an order; obedience follows a direct order from an authority.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-conformity-and-obedience--07-obedience-explanations.webp" width="900" height="890" alt="Top: Milgram's Agency theory is a social explanation. In the agentic state a person passes responsibility to the authority figure. Four elements: agency, authority, culture and proximity. Bottom: Adorno's Authoritarian Personality is a dispositional explanation: strict upbringing leads to authoritarian personality traits, which lead to obedience." loading="lazy">
+  <figcaption>Agency theory (situational) and the Authoritarian Personality (dispositional) explain obedience in different ways.</figcaption>
+</figure>
+
 
 ## Worked example: social vs dispositional factors in conformity
 

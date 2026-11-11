@@ -79,6 +79,22 @@ Continuous data is always recorded to a degree of accuracy, so its stated value 
 
 Data is **primary** if collected by the investigator for the purpose at hand, and **secondary** if it already exists. Primary data is relevant and its reliability is known, but it is slow and costly; secondary is quick and cheap but may be outdated, biased or collected for a different purpose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--08-types-of-data.webp" width="900" height="920" alt="Tree: data is qualitative (eye colour, car brand) or quantitative; quantitative is discrete (counting: children, shoe size) or continuous (measuring: height, mass, time). Shoe size is discrete even though sizes include halves." loading="lazy">
+  <figcaption>Qualitative describes a quality; discrete counts; continuous measures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--09-primary-and-secondary-data.webp" width="900" height="810" alt="Primary data is relevant and of known reliability but slow and costly. Secondary data is quick and cheap but may be out of date, biased or made for another purpose." loading="lazy">
+  <figcaption>Primary: you collect it. Secondary: it already exists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--10-recorded-height-is-an-interval.webp" width="900" height="780" alt="Number line showing that every true height from 167.5 up to but not including 168.5 is recorded as 168 cm. The lower end is included and the upper end is not." loading="lazy">
+  <figcaption>A recorded continuous value stands for an interval.</figcaption>
+</figure>
+
+
 ## Populations and sampling
 
 A **census** surveys every member of the population — completely accurate but expensive, slow, and impossible where testing destroys the item. A **sample** surveys part of it, and the method determines whether conclusions are valid.
@@ -97,9 +113,31 @@ own example of a biased method -- surveying the first people to arrive -- is in 
 
 Larger samples are more reliable but cost more. **Bias** arises from an incomplete sampling frame, non-response, leading questions, self-selection, or the **interviewer effect**, where respondents answer differently depending on who is asking. A larger sample reduces **sampling error** — the random variation between samples — but does **not** remove bias: a biased method stays biased at any size, however large, since bias is a systematic fault in the method itself rather than a matter of random variation. These two ideas are frequently confused but need to be argued separately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--11-census-or-sample.webp" width="900" height="880" alt="Two grids of 48 people: a census asks everyone (accurate, expensive, slow, impossible if testing destroys the item); a sample asks part of the population and the method decides whether conclusions are valid." loading="lazy">
+  <figcaption>A census asks everyone; a sample asks part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--12-four-sampling-methods.webp" width="900" height="930" alt="Four panels of 40 members with 8 chosen: simple random (needs a full frame), systematic (every 5th from start 3; pattern bias), stratified (groups 20, 12, 8 sampled 4, 2, 2; groups must be known), quota (interviewer fills set numbers; not random)." loading="lazy">
+  <figcaption>Each method picks its sample differently, and each has a weakness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--14-sample-size-and-bias.webp" width="900" height="1090" alt="Three strip charts of twelve repeated sample results. Small sample, fair method: wide scatter around the true value. Large sample, fair method: tight scatter around it. Large sample, biased method: tight scatter away from it." loading="lazy">
+  <figcaption>A bigger sample reduces scatter, not bias.</figcaption>
+</figure>
+
+
 ## Collecting data
 
 A good questionnaire uses clear, unambiguous language, avoids leading questions, provides response options that do not overlap and cover every possibility, and keeps sensitive questions to the end. A **pilot survey** tests it on a small group first, exposing ambiguous wording before the full survey runs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--13-stratified-sample-worked.webp" width="900" height="880" alt="Population bar of 900 (KS3 400, KS4 350, KS5 150) scaled by 1/15 to a sample of 60 (27, 23, 10). 26.7 rounds to 27 and 23.3 to 23, and the parts total 60." loading="lazy">
+  <figcaption>Multiply each group by the sampling fraction and round so the total is 60.</figcaption>
+</figure>
+
 
 ## Worked example
 

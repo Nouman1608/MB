@@ -45,6 +45,12 @@ One prose text and one poet's selection in total — open book. Only a clean, un
 be taken into the exam; that is a matter of examination regulations rather than something the
 specification itself states, since the specification says only that this is an open-book exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-place-in-literary-texts--16-pl-method.webp" width="900" height="820" alt="Three steps rise from description to argument. Step 1: find the place in the text. Step 2: explain how the writer's language constructs it, for example imagery of light, water and distance. Step 3: connect it to wider concerns such as class and aspiration. Stopping at step 1 is only describing the location." loading="lazy">
+  <figcaption>A strong Unit 2 essay explains how language builds a place and links it to wider concerns.</figcaption>
+</figure>
+
+
 ## The nine "place" angles
 
 Learn these as a checklist of *angles to bring evidence for*, not a definition of place itself:
@@ -61,9 +67,21 @@ Learn these as a checklist of *angles to bring evidence for*, not a definition o
 
 A strong essay ranges across several angles rather than settling on geography alone, since "place" is deliberately left open by the specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-place-in-literary-texts--13-pl-angles.webp" width="900" height="810" alt="A hub labelled Place connects to seven angles drawn from the specification: geography, the natural world, social identity and class, relationships, politics, home and homeland, and language of place. The specification gives no exhaustive list, so the angles are a starting bank for evidence." loading="lazy">
+  <figcaption>Seven angles from the specification for building a bank of evidence about place.</figcaption>
+</figure>
+
+
 ## Prose text options
 
 Joseph Conrad's *Heart of Darkness*, F. Scott Fitzgerald's *The Great Gatsby*, Chimamanda Ngozi Adichie's *Americanah*, Andrea Levy's *Small Island*, Aravind Adiga's *Last Man in Tower*, Kazuo Ishiguro's *The Remains of the Day*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-place-in-literary-texts--14-pl-texts.webp" width="900" height="810" alt="Section A, prose: choose one of Heart of Darkness by Joseph Conrad, The Great Gatsby by F. Scott Fitzgerald, Americanah by Chimamanda Ngozi Adichie, Small Island by Andrea Levy, Last Man in Tower by Aravind Adiga, or The Remains of the Day by Kazuo Ishiguro. Section B, poetry: choose one poet's selection from Wordsworth, Frost, Hardy or Heaney, each including named poems." loading="lazy">
+  <figcaption>Your centre chooses one prose text and one poet's selection.</figcaption>
+</figure>
+
 
 ## Poetry selection options
 
@@ -73,9 +91,21 @@ A William Wordsworth selection, a Robert Frost selection, a Thomas Hardy selecti
 
 Because candidates may bring a clean copy of the set texts into the exam, the exam itself is not a memory test of quotations. Preparation time is better spent building an *analytical framework* — a set of angles with supporting moments already identified — that can be applied quickly once the paper starts, rather than memorising exact wording. Practise locating relevant passages fast under timed conditions, since the open-book advantage is wasted if a candidate cannot find the right material quickly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-place-in-literary-texts--12-pl-exam.webp" width="900" height="730" alt="Unit 2 is a 2-hour open-book exam worth 50 marks: 50% of the International AS and 20% of the full International A-level. Section A is one essay on the prose set text, 25 marks. Section B is one essay on the poetry selection, 25 marks. A clean, unannotated copy of each set text may be taken in; an annotated copy is not permitted." loading="lazy">
+  <figcaption>Open book, two essays of 25 marks each, with clean unannotated copies only.</figcaption>
+</figure>
+
+
 ## Poetry: compare across the selection
 
 Because Section B assesses a poet's *selection* rather than one poem, strong answers draw evidence from at least two or three poems, showing how the writer's treatment of place varies or develops across their work — a single-poem answer under-uses the available marks even if the analysis of that one poem is strong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-place-in-literary-texts--17-pl-range.webp" width="900" height="860" alt="Two panels. Prose: track how the setting changes, or fails to change, from the start through the middle to the end of the narrative, and ask what that reveals about characters or themes. Poetry: compare how place works in two or three poems from the selection rather than relying on a single poem." loading="lazy">
+  <figcaption>In prose follow the setting through the narrative; in poetry compare place across poems.</figcaption>
+</figure>
+
 
 ## Worked example: applying the angles to a prose text
 
@@ -86,6 +116,12 @@ a place-based symbol of an unreachable home. A condensed exam answer does not ne
 angle exhaustively — it needs to show the *language* constructing the place (recurring imagery of
 light, water, distance) and connect that construction explicitly to class or aspiration, rather than
 describing the settings as background detail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-place-in-literary-texts--15-pl-gatsby.webp" width="900" height="955" alt="A schematic, not to scale. Two landmasses face each other across water: West Egg on the left, labelled new money, and East Egg on the right, labelled old money. Below and between them lies the Valley of Ashes, labelled as the human cost of that divide. A green light across the water is labelled as a symbol of an unreachable home or future. A note says the language of light, water and distance constructs these places." loading="lazy">
+  <figcaption>The worked example: place maps onto class, with the Valley of Ashes between.</figcaption>
+</figure>
+
 
 ## Unit 1 vs Unit 2: don't mix up the conditions
 

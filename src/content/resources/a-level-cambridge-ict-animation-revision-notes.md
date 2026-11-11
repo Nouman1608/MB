@@ -66,6 +66,12 @@ The syllabus names no software. You should be able to:
 7. Build a stop motion sequence from still images, one image per frame.
 8. Check the result suits the application and audience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--08-anim-stage-setup.webp" width="900" height="860" alt="A 16:9 stage 1280 by 720 px with rulers, a 40 px grid (32 by 18 cells) and gold guides through the centre at x 640 and y 360." loading="lazy">
+  <figcaption>Stage size, aspect ratio, grid and guides from the museum example.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 **Frames, rate and time**
@@ -112,6 +118,12 @@ each frame:
     IF edge reached THEN speed ← −speed
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--09-anim-frame-rate.webp" width="900" height="790" alt="Three bars on a common time scale: 144 frames at 24 fps is 6 s; 144 frames at 12 fps is 12 s; 72 frames at 12 fps is 6 s." loading="lazy">
+  <figcaption>Running time is frames divided by frame rate.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Difference |
@@ -128,6 +140,12 @@ each frame:
 | CGI v 3D | CGI is any computer-generated imagery, 2D or 3D |
 | Primary v secondary component | Primary is the main focus (main characters). Secondary supports it (sound, background) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--11-anim-layers-masks.webp" width="900" height="870" alt="Three stacked transparent layers (text, character, background) combine into one scene; a circular mask shape shows only the part of a scene under it." loading="lazy">
+  <figcaption>Layers stack objects; a mask decides what shows.</figcaption>
+</figure>
+
+
 ## Animation types: one-line pros and cons
 
 - **Cel.** + Background drawn once; teams can split work. − Every moving drawing is hand-made; slow.
@@ -137,6 +155,22 @@ each frame:
 - **CGI.** + Realistic or impossible scenes; easy to edit and reuse. − Needs powerful hardware and specialist skills.
 - **2D.** + Quicker and cheaper than 3D; small files. − Less realistic depth.
 - **3D.** + Realistic depth and camera moves; models reused from any angle. − Complex; long render times; large files.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--12-anim-capture-planning.webp" width="900" height="890" alt="Time lapse: 2 h = 7200 s, a photo every 30 s gives 240 photos, 10 s at 24 fps, 720 times speed-up. Stop motion: 15 s at 12 fps gives 180 photos; at 2 minutes each, 360 min = 6 h." loading="lazy">
+  <figcaption>Calculating photos, running time and effort for time lapse and stop motion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--13-anim-variable-ball.webp" width="900" height="870" alt="A 60 px ball on a 550 px stage moves 15 px per frame from x 40 to x 490 in 30 frames (1.25 s at 24 fps), then speed reverses." loading="lazy">
+  <figcaption>An animation variable (speed) controls the ball position each frame.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--14-anim-types.webp" width="900" height="790" alt="Tiles for cel, stop motion, time lapse and flip book; CGI contains 2D (x and y) and 3D (x, y, z, rendered)." loading="lazy">
+  <figcaption>The animation types in the lesson, with CGI covering 2D and 3D.</figcaption>
+</figure>
+
 
 ## Components of an animation
 
@@ -175,6 +209,12 @@ Keep secondary components from drowning out the primary focus.
 10. Photos are captured at long intervals but played back at a normal frame rate, so hours of growth play in seconds.
 11. Primary: the main character. Secondary: the background or the music.
 12. Any one of: longer to model; long render times; larger files; needs more powerful hardware.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-animation--10-anim-tweening.webp" width="900" height="870" alt="A balloon tweens from key frame 1 to key frame 25. Computed frame 13: (340, 180), 125 px, 60 percent opacity. Frame 19: (460, 120), 162.5 px, 40 percent." loading="lazy">
+  <figcaption>The software calculates the in-between frames from two key frames.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -66,6 +66,32 @@ Test yourself afterwards with the [Schizophrenia practice questions](/resources/
 | Atypical antipsychotic | A later drug, such as clozapine, that acts on dopamine and other systems, such as serotonin. |
 | Diathesis-stress model | Disorder develops when a vulnerability (diathesis) meets a trigger (stress). |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--01-sz-symptoms.webp" width="900" height="900" alt="A dashed line marks normal functioning. Above it are two positive symptoms added to experience, hallucinations and delusions. Below it are two negative symptoms that reduce normal functioning, speech poverty and avolition." loading="lazy">
+  <figcaption>Positive symptoms are added to normal experience; negative symptoms are a loss or reduction of normal functioning.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--03-sz-dopamine.webp" width="900" height="980" alt="A schematic side view of the brain marks the subcortical striatum with too much dopamine, linked to positive symptoms, and the prefrontal cortex with too little, linked to negative symptoms. Amphetamines raising dopamine and antipsychotics blocking D2 receptors are the evidence." loading="lazy">
+  <figcaption>Hyperdopaminergia in subcortical areas is linked to positive symptoms and hypodopaminergia in the prefrontal cortex to negative symptoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--04-sz-antipsychotic-synapse.webp" width="900" height="990" alt="Two synapse panels. Without a drug, dopamine binds D2 receptors. With an antipsychotic, the drug occupies the D2 receptors and dopamine cannot bind, reducing dopamine activity. Typical drugs block D2; atypical drugs also affect systems such as serotonin." loading="lazy">
+  <figcaption>Antipsychotics block dopamine D2 receptors, which reduces positive symptoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--05-sz-frith-cognitive.webp" width="900" height="960" alt="Two flows. When metarepresentation fails, inner speech is not recognised as your own and is heard as an outside voice (hallucination). When central control fails, automatic word associations break into speech, giving disorganised speech. A Stroop panel shows Stirling et al. found slower performance." loading="lazy">
+  <figcaption>Frith proposed two faulty processes, metarepresentation and central control, that could produce symptoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--06-sz-diathesis-stress.webp" width="900" height="930" alt="Two stacked bars with the same high vulnerability. One adds little stress and stays under a dashed threshold; the other adds much stress and crosses it. Heights are illustrative." loading="lazy">
+  <figcaption>Illustration of the diathesis-stress model: vulnerability plus stress together can pass a threshold (illustrative heights).</figcaption>
+</figure>
+
+
 ## Theories and studies at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -86,6 +112,12 @@ Test yourself afterwards with the [Schizophrenia practice questions](/resources/
 | Jauhar et al. (2014) | Review of CBT trials | Small effect, smaller still in well-masked trials | Questions how effective CBT really is |
 | Pharoah et al. (2010) | Cochrane review of family intervention | May reduce relapse and hospital admission and help people keep taking medication | Usually given with drugs, so effect is hard to isolate |
 | Meehl (1962) | Early diathesis-stress model | Single "schizogene" as the diathesis | Now replaced by polygenic and trauma-based ideas |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-schizophrenia--02-sz-twin-risk.webp" width="900" height="930" alt="Bar chart: risk of schizophrenia is about 48% for an identical twin, 17% for a non-identical twin, 9% for a sibling and 1% in the general population. Risk falls with genetic similarity but identical twins are well below 100%." loading="lazy">
+  <figcaption>Gottesman (1991): risk rises with genetic similarity, yet identical twins are far from 100%.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

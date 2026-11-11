@@ -37,6 +37,12 @@ Condensed, exam-focused notes for Theme 2 of Cambridge O Level Geography (2217),
 - Volcanoes present hazards **and offer opportunities** for people (e.g. fertile volcanic soils,
   geothermal energy, tourism) — the syllabus requires both sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--14-nat-plate-boundaries.webp" width="900" height="995" alt="Three cross-sections, not to scale. Plates diverge: two plates move apart and magma reaches the surface. Plates converge: one plate sinks under the other with a volcano on the upper plate. Plates slide past one another, seen from above. Stress builds at every boundary and earthquakes occur when it is released along a fault. Volcanoes occur typically at converging or diverging boundaries." loading="lazy">
+  <figcaption>Plates diverge, converge or slide past each other; stress released along a fault causes earthquakes, and volcanoes typically occur at converging or diverging boundaries.</figcaption>
+</figure>
+
+
 ## 2.2 Rivers
 
 | Course | Dominant process | Typical landform |
@@ -49,6 +55,12 @@ Condensed, exam-focused notes for Theme 2 of Cambridge O Level Geography (2217),
   (e.g. fertile alluvial soil, flat land, water supply, transport).
 - Flood management: hard engineering (dams, levees, channel straightening) vs soft engineering
   (floodplain zoning, upstream afforestation) — always state which category a named strategy belongs to.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--15-nat-river-long-profile.webp" width="900" height="800" alt="A curve that starts high and steep at the source and flattens towards the mouth, split into upper, middle and lower course. Upper course: vertical erosion cuts a V-shaped valley and waterfalls. Middle course: lateral erosion forms meanders. Lower course: deposition builds a floodplain and delta." loading="lazy">
+  <figcaption>Along a river’s course the dominant process changes: vertical erosion, then lateral erosion, then deposition.</figcaption>
+</figure>
+
 
 ## 2.3 Coasts
 
@@ -69,6 +81,22 @@ Condensed, exam-focused notes for Theme 2 of Cambridge O Level Geography (2217),
 - Coral reefs and mangrove swamps: distinct ecosystems valued for biodiversity and natural coastal
   protection against erosion/storm surges.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--16-nat-cave-arch-stack-stump.webp" width="900" height="805" alt="Four side-view sketches of one headland in order. 1 A cave is cut at a line of weakness. 2 The cave is enlarged until it cuts through as an arch. 3 The arch roof collapses leaving an isolated stack. 4 The stack is eroded down to a stump." loading="lazy">
+  <figcaption>On a single resistant headland, waves attack lines of weakness: cave, then arch, then stack, then stump.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--17-nat-cliff-platform.webp" width="900" height="1025" alt="Three side views of a cliff. 1 Waves cut a notch at the base of the cliff between the high and low tide levels. 2 The overhanging rock above collapses. 3 The cliff has retreated inland and the gently sloping rock surface left behind is exposed at low tide as a wave-cut platform." loading="lazy">
+  <figcaption>Waves cut a notch, the overhang collapses, the cliff retreats and a wave-cut platform is left, exposed at low tide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--18-nat-longshore-drift-spit.webp" width="900" height="840" alt="A view from above. Waves arrive at an angle and push sediment up the beach diagonally; the backwash drags it straight back. Repeating this zigzag moves sediment along the coast. Where the coastline changes direction, the sediment is carried on into open water and builds a spit." loading="lazy">
+  <figcaption>Waves approaching at an angle move sediment along the coast by longshore drift; where the coastline changes direction a spit builds out into open water.</figcaption>
+</figure>
+
+
 ## 2.4 Weather
 
 - Weather = short-term, day-to-day state of the atmosphere. Climate = long-term average pattern.
@@ -81,6 +109,12 @@ Condensed, exam-focused notes for Theme 2 of Cambridge O Level Geography (2217),
 - Make calculations from instrument readings (e.g. temperature range = maximum − minimum; mean or total
   rainfall).
 - Use and interpret graphs and other diagrams showing weather and climate data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--19-nat-stevenson-screen.webp" width="900" height="760" alt="A white box with slatted louvred sides raised on four legs above grass, standing in open space. A building on the left and a tree on the right are crossed out and drawn far from the box. Thermometers sit inside the box and record the temperature of freely circulating air in the shade." loading="lazy">
+  <figcaption>A Stevenson screen is a white, louvred box on legs in an open space away from buildings and trees, so the thermometers inside record the temperature of freely circulating air in the shade.</figcaption>
+</figure>
+
 
 ## 2.5 Climate and natural vegetation
 
@@ -109,6 +143,12 @@ earthquakes and volcanoes, keep the physical cause (plate boundary type) and the
 management) as two separate mental categories, because exam questions frequently ask for one without the
 other, and blending them together in an answer costs marks even when both parts are individually
 correct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-natural-environment--20-nat-climate-graphs.webp" width="900" height="965" alt="Two climate graphs with rainfall bars and a temperature line, using illustrative values. Equatorial: temperature about 26 to 27 degrees every month, annual range 1 degree, and heavy rainfall in every month, with rising air. Hot desert: temperature from 14 up to 35 degrees, annual range 21 degrees, and almost no rainfall, with sinking air." loading="lazy">
+  <figcaption>To describe a climate, read the hottest and coolest months, the annual temperature range, and the amount and seasonal pattern of rainfall. Values here are illustrative, not a real station.</figcaption>
+</figure>
+
 
 ## Case study preparation
 

@@ -45,6 +45,12 @@ guide](/resources/a-level-english-literature-paper-3-shakespeare-and-drama/).
 | Availability | Full A Level route only — not available to AS-Level-only candidates |
 | Weighting | 25% of the full A Level |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-3-shakespeare-and-drama--01-p3-format.webp" width="900" height="970" alt="Paper 3 lasts two hours and is worth 50 marks. A bar splits the marks evenly: Section A on Shakespeare is 25 marks and Section B on non-Shakespeare drama is 25 marks. In each section the candidate answers one question from a choice and, for the chosen set text, picks either an essay question (a) or a passage-based question (b) on an extract printed on the paper. Set texts are not allowed in the exam room." loading="lazy">
+  <figcaption>Paper 3: two equal sections, and on each text a choice between an essay and a passage question.</figcaption>
+</figure>
+
+
 ## The one thing that makes Paper 3 different: AO5
 
 Papers 1 and 2 (the AS Level papers) test **four** assessment
@@ -61,6 +67,12 @@ people's* opinions and interpretations (critics, alternative readings,
 different performance traditions) alongside your own. A strong answer
 needs both, not one instead of the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-3-shakespeare-and-drama--02-p3-aos.webp" width="900" height="892" alt="Two columns compare assessment objectives. Papers 1 and 2 (AS Level) test four: AO1 Knowledge and understanding, AO2 Analysis, AO3 Personal response, AO4 Communication. Papers 3 and 4 test five: the same four plus AO5 Evaluation of opinion, marked as new. AO3 is your own opinion; AO5 means weighing other readers' interpretations." loading="lazy">
+  <figcaption>Papers 3 and 4 add AO5, which asks you to weigh other readers' interpretations, not just give your own.</figcaption>
+</figure>
+
+
 ## Building an AO5 sentence — the pattern
 
 1. Make an analytical point about language, form or structure (AO2).
@@ -72,6 +84,12 @@ Repeat this pattern two or three times across an essay rather than
 saving all evaluative material for one closing paragraph — spreading
 AO5 through the response scores more highly than bolting it on at the
 end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-3-shakespeare-and-drama--04-p3-ao5-spread.webp" width="900" height="740" alt="Two essay bars are each split into five equal parts. The first bar has a single AO5 marker in the last part, labelled as saving all evaluation for one closing paragraph. The second bar has three AO5 markers spread across the essay, labelled as repeating the pattern two or three times, which tends to score more highly." loading="lazy">
+  <figcaption>AO5 repeated two or three times across an essay beats a single closing paragraph.</figcaption>
+</figure>
+
 
 ## 2026-series set texts
 
@@ -89,6 +107,12 @@ set for the 2024 series only and are not examined in 2026.
 Set texts rotate by examination series — always confirm the current
 list for the year being sat rather than assuming continuity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-3-shakespeare-and-drama--06-p3-set-texts.webp" width="900" height="1102" alt="Two sections list the plays examined in the 2026 series. Section A Shakespeare: Hamlet and The Taming of the Shrew (Alexander Text edition); The Merchant of Venice was 2024 only and is not examined in 2026. Section B Drama: Sweat by Lynn Nottage, Long Day's Journey Into Night by Eugene O'Neill and Kongi's Harvest by Wole Soyinka; The Train Driver and Other Plays by Athol Fugard and An Experiment with an Air Pump by Shelagh Stephenson were 2024 only." loading="lazy">
+  <figcaption>Only some set texts are examined in any one series; check the year you sit.</figcaption>
+</figure>
+
+
 ## 2027-series set texts
 
 From June 2027 (syllabus for 2027 and 2028): **Section A** — *Henry IV,
@@ -105,6 +129,12 @@ only, so staying entirely within your own reading is complete there. A
 Paper 3 Section B answer additionally needs awareness of how the play
 has been interpreted differently by other readers or critics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-3-shakespeare-and-drama--05-p3-route.webp" width="900" height="860" alt="A two-step route diagram. Step one, the AS Level: Paper 1 Drama and Poetry and Paper 2 Prose and Unseen. Step two, added for the full A Level: Paper 3 Shakespeare and Drama, worth 25% of the full A Level, and Paper 4. Candidates who stage the qualification over two years sit Papers 3 and 4 only in the second year. An AS-only route stops after Papers 1 and 2 and does not include Paper 3." loading="lazy">
+  <figcaption>Paper 3 is only for full A Level candidates, and staged candidates sit it in the second year.</figcaption>
+</figure>
+
+
 ## Worked example: spotting a missing AO5
 
 A student's essay analyses a soliloquy's use of rhetorical questions
@@ -117,6 +147,12 @@ played this soliloquy for comic unease, staging the hesitation as
 self-serving rather than genuinely conflicted" — and briefly comparing
 that reading to the student's own would satisfy AO5 without changing
 the rest of the paragraph's argument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-3-shakespeare-and-drama--03-p3-ao5-paragraph.webp" width="900" height="714" alt="Two stacks of blocks show the same soliloquy paragraph. The left stack has three blocks: AO2 a technique is identified, AO3 a personal view that the character is conflicted rather than simply villainous, AO4 written clearly; a dashed empty block at the top is labelled AO5 missing. The right stack adds a gold AO5 block at the top: some critics and productions play the moment as comic unease, weighed against your own reading." loading="lazy">
+  <figcaption>The same paragraph, with and without the AO5 block on top.</figcaption>
+</figure>
+
 
 ## Why the AS/A Level split matters for revision planning
 

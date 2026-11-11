@@ -63,6 +63,12 @@ times and places; your job is to link a fact of context to a choice in the text 
 | Translator's choice | A decision about wording where the original allows several options | *The Lady with the Dog* or *The Lady with the Little Dog* |
 | Anachronistic reading | Judging a work only by the values of the reader's own time | Calling a character "backward" and stopping there |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-time-and-space--15-ts-two-contexts.webp" width="900" height="700" alt="A book in the centre. On the left, seven conditions around its writing feed into it: period, place, language, politics, beliefs, the writer’s position and literary conventions. On the right, the book reaches three readers: first readers, later readers and you today, each with a different reading." loading="lazy">
+  <figcaption>Context of production looks at the conditions a work was written in; context of reception looks at how readers have read it.</figcaption>
+</figure>
+
+
 ## Method in steps: context to effect
 
 > **Step 1.** Quote or reference a precise moment in the text.
@@ -73,6 +79,12 @@ times and places; your job is to link a fact of context to a choice in the text 
 
 Always start from the text. Context comes in at Step 4 to explain, never at Step 1 to fill space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-time-and-space--16-ts-ozymandias.webp" width="900" height="990" alt="A broken statue stands on a pedestal in the desert. The inscription reads Look on my works, ye Mighty, and despair! Under it, the traveller says Nothing beside remains. Four numbered steps follow: the choice (a boast, then a blunt three-word reply), the effect (the boast turns against itself), the context (1818, a radical writer, kings) and the reception (a comment on any monument or empire). A strip at the bottom shows the order text, context, effect." loading="lazy">
+  <figcaption>Use the text first, then context, then effect; context explains a choice and is never a pasted paragraph of history.</figcaption>
+</figure>
+
+
 ## Method in steps: working with a translated work
 
 > **Step 1.** Name the translator and edition.
@@ -82,6 +94,12 @@ Always start from the text. Context comes in at Step 4 to explain, never at Step
 > **Step 4.** Where you can, compare two translations of a key line, or read the translator's note.
 > **Step 5.** Say what the work shows about its source culture, and how you, as a reader in another
 > culture, respond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-time-and-space--18-ts-translation.webp" width="900" height="890" alt="A flow from the original book through a translator to the translation. Below, two columns. Usually survives: plot, structure and order of events; point of view and narrative voice, broadly; major images and symbols; characters’ actions and choices. Often changes: sound such as rhyme, rhythm, puns and alliteration; register, dialect and forms of address; single word choices and their connotations; culture-specific words with no direct equivalent." loading="lazy">
+  <figcaption>Build arguments on what survives translation, and name your translator and edition.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -165,6 +183,22 @@ and [Intertextuality revision notes](/resources/ib-dp-language-a-literature-inte
     inferences, without inventing precise dates or countries.
 12. The doctors think she died of joy at her husband's return; the reader knows it was the shock of
     losing the freedom she had just begun to imagine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-time-and-space--14-ts-setting-context.webp" width="900" height="790" alt="A timeline from 1790 to 1910. At 1800, a landscape box is labelled setting: the time and place inside the work. At 1900, a book is labelled context: when, where and for whom it was written. A curved arrow joins the 1900 book back to the 1800 setting and is labelled 100 years apart." loading="lazy">
+  <figcaption>A novel written in 1900 about the year 1800 has a setting of 1800 and a context of production of 1900.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-time-and-space--19-ts-doll.webp" width="900" height="990" alt="At the top a door stands for the final exit in A Doll’s House (1879): Nora leaves by choice, not in panic. The words are the same for two audiences. Early audiences: some found it unacceptable, so Ibsen reluctantly wrote an alternative ending for an early German production in which Nora stays for the children. Modern audience: the exit may seem less shocking and more inevitable. The words have not changed; the context of reception has." loading="lazy">
+  <figcaption>The text stays the same while the context of reception changes how the ending is read.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-time-and-space--20-ts-assessment.webp" width="900" height="900" alt="Two stacked bars each add to 100 percent. SL: Paper 1 35, Paper 2 35, individual oral 30. HL: Paper 1 35, Paper 2 25, individual oral 20, HL essay 20. Below, one note per component: Paper 1, infer time and place from the text with care; Paper 2, context can explain why two works differ; individual oral, one work must be studied in translation; HL essay (HL only), a focused line of inquiry on context or translation." loading="lazy">
+  <figcaption>Time and space skills appear in all four components; the HL essay is HL only.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

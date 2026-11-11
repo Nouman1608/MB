@@ -69,6 +69,12 @@ For each value, add its frequency to the running total of all the smaller values
 
 Reading the table: weeks with more than 3 late arrivals = 40 − 33 = **7**. Weeks with 2, 3 or 4 late arrivals = 37 − 13 = **24**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons--01-cf-running-total.webp" width="900" height="880" alt="Seven columns for 0 to 6 late arrivals. Each column is a pale block holding the running total so far with a gold block on top for that value's own frequency. The columns reach 4, 13, 25, 33, 37, 39 and 40. A dashed line at 40 shows the last total equals the 40 weeks." loading="lazy">
+  <figcaption>Each cumulative frequency is the previous total plus the new frequency, and the last total must equal the number of observations (40 weeks).</figcaption>
+</figure>
+
+
 ### Grouped continuous data
 
 Each cumulative frequency belongs to the **upper class boundary**, because every item in that class is counted only once you have reached the top of the class. Label the columns "less than or equal to" the boundary (or "less than", if the class limits are written with a strict upper limit).
@@ -94,6 +100,12 @@ t ≤ 48:  140 + 10 = 150
 
 Unequal widths cause no difficulty here. You add frequencies as they stand. (Frequency density matters for histograms, not for cumulative frequency.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons--03-cf-grouped-stack.webp" width="900" height="930" alt="A tall stack of 150 parcels is split into six blocks by delivery-time class, from bottom to top 9, 23, 41, 37, 30 and 10 parcels. A tick at the top of each block gives the running total at that class's upper boundary: at 6 hours 9, at 12 hours 32, at 18 hours 73, at 24 hours 110, at 36 hours 140 and at 48 hours 150." loading="lazy">
+  <figcaption>Stack the class frequencies: the height reached at the top of a block is the cumulative frequency at that class's upper boundary. Unequal class widths do not matter.</figcaption>
+</figure>
+
+
 ### Data rounded to a unit
 
 When measurements are rounded, the class limits have gaps, and the real boundaries lie halfway across each gap.
@@ -111,6 +123,12 @@ A seedling in the class 20–24 has a true height from 19.5 cm up to 24.5 cm. So
 | Cumulative frequency | 6 | 20 | 47 | 66 | 75 | 80 |
 
 The first class has lower boundary 19.5, and no seedling is shorter than that, so the cumulative frequency at 19.5 is 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons--02-cf-boundaries.webp" width="900" height="830" alt="Six touching class boxes for seedling heights, 20-24 to 45-49 cm, with frequencies 6, 14, 27, 19, 9 and 5. Under them the real boundaries 19.5, 24.5, 29.5, 34.5, 39.5, 44.5 and 49.5 are marked, with cumulative frequencies 0, 6, 20, 47, 66, 75 and 80. A magnified strip shows the limits 24 and 25 with the boundary 24.5 halfway between." loading="lazy">
+  <figcaption>For heights rounded to the nearest cm the true class boundaries are halfway across each gap, and the cumulative frequency belongs to the upper boundary.</figcaption>
+</figure>
+
 
 ### Working backwards
 
@@ -153,6 +171,12 @@ The graph never goes down, because a running total cannot fall. It is steepest w
 
 A polygon is the quick, exact version of the same picture. The smooth curve is usually a better estimate, because real data is spread smoothly across each class instead of changing direction sharply at the boundaries. Use whichever the question asks for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons--04-cf-graph.webp" width="900" height="830" alt="A graph of cumulative frequency (parcels, 0 to 150) against time in hours (0 to 48). Seven crosses at (0,0), (6,9), (12,32), (18,73), (24,110), (36,140) and (48,150) are joined by straight lines to make a polygon, and by one smooth rising curve. The graph never goes down, is steepest between 12 and 24 hours and almost flat after 36 hours." loading="lazy">
+  <figcaption>Plot crosses at the upper boundaries plus the starting point (0, 0), then join them with straight lines for a polygon or one smooth line for a curve.</figcaption>
+</figure>
+
+
 ## Reading values from the graph
 
 The graph lets you estimate things the table cannot, because it fills in the values between boundaries. With grouped data you never know the exact values, so every reading is an **estimate**.
@@ -182,6 +206,17 @@ Part (d) is the usual trap. "The slowest 20" is counted from the top, so you rea
 (b) The number taller than 42 cm: at 42 the graph is between (39.5, 66) and (44.5, 75), at 66 + (2.5/5) × 9 = 70.5. So 80 − 70.5 = 9.5, and the answer is about **10** seedlings.
 
 Interpolation like this is what a straight-line polygon gives exactly. A curve drawn by hand will give readings close to these, and a small difference is expected. Clear guide lines and an accurate scale reading are the working that matters, and the interpolation sum is a good check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons--05-cf-read-count.webp" width="900" height="830" alt="On the delivery-time graph a dashed guide goes up from 15 hours to the polygon and across to about 52 parcels. A second guide goes up from 30 hours to the polygon and across to 125 parcels. The 25 parcels above 125 are the ones that took more than 30 hours (150 minus 125)." loading="lazy">
+  <figcaption>From a value to a count: start on the horizontal axis, go up to the graph, then across. Parcels taking more than 30 hours = 150 − 125 = 25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons--06-cf-read-value.webp" width="900" height="830" alt="On the delivery-time graph a dashed guide goes across from 75 parcels to the polygon and down to about 18.3 hours: half of the 150 parcels. A second guide goes across from 130 parcels and down to 32 hours: the slowest 20 parcels took longer than that. A note warns that the slowest 20 are counted from the top, so read at 150 minus 20 = 130, not at 20." loading="lazy">
+  <figcaption>From a count to a value: go across from the vertical axis, then down. &quot;The slowest 20&quot; is counted from the top, so read at 130, not at 20.</figcaption>
+</figure>
+
 
 ## Common errors
 

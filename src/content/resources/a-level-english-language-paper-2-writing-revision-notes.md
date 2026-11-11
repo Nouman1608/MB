@@ -42,6 +42,17 @@ Papers 1 and 2 are the AS content; 3 and 4 complete the A Level. No dictionaries
 - **Part (b)**: reflective commentary, explaining how your linguistic choices in (a) fulfil the brief. **10 marks**. The syllabus sets no specific word limit for the commentary.
 - Commentary structure: **identify → quote (from your own text) → explain the effect** in relation to audience and purpose — the same pattern used to analyse someone else's text in Paper 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-2-writing--13-p2-structure.webp" width="900" height="770" alt="A bar of 50 marks split into three parts drawn to scale: Section A part (a) 15 marks, Section A part (b) 10 marks, and Section B 25 marks. Section A is compulsory Question 1 worth 25 marks; Section B is one question from three, worth 25 marks. Word limits: part (a) up to 400 words, part (b) no set limit, Section B 600 to 900 words. The paper lasts two hours and no dictionaries are allowed." loading="lazy">
+  <figcaption>Half the marks are for Section A (a shorter piece and a commentary), half for one extended piece.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-2-writing--15-p2-commentary.webp" width="900" height="940" alt="Left: a crossed-out speech bubble reading I wrote a leaflet and I used headings, a commentary that only narrates and earns little. Right: a three-part chain that justifies. First, name the choice: short imperative sentences. Second, quote it: Keep a routine, Talk to someone. Third, link it to audience and purpose: a teenage audience needed direct, actionable guidance." loading="lazy">
+  <figcaption>A strong commentary names the choice, quotes it, and links it to audience and purpose.</figcaption>
+</figure>
+
+
 ## Section B — Extended writing (25 marks, choice of one from three)
 
 - **600–900 words.**
@@ -50,13 +61,31 @@ Papers 1 and 2 are the AS content; 3 and 4 complete the A Level. No dictionaries
 - Discursive/argumentative: genuinely balanced — weigh more than one side before a considered conclusion.
 - Review/critical: consistent evaluative voice, specific concrete detail (not vague praise/criticism).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-2-writing--16-p2-section-b.webp" width="900" height="1040" alt="Three category cards. Imaginative or descriptive: a few well-developed images and a controlled narrative voice. Discursive or argumentative: weigh more than one side, then reach a considered position. Review or critical: a consistent evaluative voice and specific, concrete detail. Below, a gauge shows 600 to 900 words as the target range, with too short under 600 and too long over 900." loading="lazy">
+  <figcaption>The three categories are fixed each series; only the topic changes. Aim for 600 to 900 words.</figcaption>
+</figure>
+
+
 ## What links Paper 2 to Paper 1
 
 Paper 2 shares its knowledge and understanding content directly with Paper 1 — the same awareness of textual forms, linguistic features and audience that Paper 1 asks you to *analyse*, Paper 2 asks you to *apply* in your own writing. Revising the two together, rather than as unconnected papers, reinforces both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-2-writing--17-p2-one-base.webp" width="900" height="860" alt="A foundation slab of shared knowledge (textual forms, linguistic features, audience) supports two boxes: Paper 1 Reading, which analyses someone else’s writing, and Paper 2 Writing, which produces your own. A bracket marks these two as the AS Level. Above, dashed boxes for Paper 3 Language Analysis and Paper 4 Language Topics show what the A Level adds." loading="lazy">
+  <figcaption>Papers 1 and 2 share one knowledge base but run in opposite directions; A Level adds Papers 3 and 4.</figcaption>
+</figure>
+
+
 ## Planning discipline
 
 Because both sections have tight word limits (400 for 1(a), 600–900 for Section B), planning before writing is not optional — a plan for 1(a) should fix the structure (opening, 2–3 developed points, closing) before a single sentence is drafted, and the same applies to Section B regardless of which option is chosen. Writing without a plan is the single most common reason a response drifts off the word range or loses control of structure partway through.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-2-writing--14-p2-leaflet-plan.webp" width="900" height="1000" alt="A leaflet drawn as four stacked blocks, numbered in order: opening that is warm and reassuring and normalises the feeling; section one with practical advice such as staying in touch, routine and campus resources; section two with emotional advice such as it gets easier, give it time and talk to someone; and a closing with one specific next step. A tag shows the limit of 400 words." loading="lazy">
+  <figcaption>Commit to the leaflet’s shape before drafting so the 400 words go on developed advice.</figcaption>
+</figure>
+
 
 ## Worked example: a compressed Section A plan
 

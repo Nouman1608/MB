@@ -54,6 +54,12 @@ with an earlier work's ideas; a **subversion** deliberately overturns
 or undermines the conventions or assumptions of an earlier work or
 genre.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-intertextuality--07-ns57-it-relationships.webp" width="900" height="920" alt="Three rows show an earlier work and a newer work. In echo or homage the marker repeats; in response arrows run both ways; in subversion the marker is flipped. Each is captioned with the lesson’s definition." loading="lazy">
+  <figcaption>Echo, response and subversion are different relationships between works.</figcaption>
+</figure>
+
+
 ## Building a genuine intertextual comparison
 
 A weak comparative answer places two works side by side and describes
@@ -66,6 +72,17 @@ connects these two works, not just "both deal with loss" but a more
 precise shared concern or technique; how does each work treat that
 shared element differently; and what does comparing them reveal that
 reading either work alone would not?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-intertextuality--08-ns57-it-weak-strong.webp" width="900" height="760" alt="Two panels compare approaches. Weak: two works described separately with only a broad theme such as both are about love. Strong: the works are joined by a specific link and the comparison reveals something neither shows alone." loading="lazy">
+  <figcaption>A strong comparison links the works precisely instead of describing each separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-intertextuality--09-ns57-it-three-questions.webp" width="900" height="880" alt="Three numbered cards: what specifically connects the works, how each treats it differently, and what comparing them reveals that neither work shows alone." loading="lazy">
+  <figcaption>Three questions structure a genuine comparison.</figcaption>
+</figure>
+
 
 ## Worked example: naming the specific relationship
 
@@ -83,6 +100,12 @@ that names this specific relationship, rather than a generic shared
 topic, demonstrates exactly the kind of analysis this component and
 Paper 2 both reward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-intertextuality--10-ns57-it-worked-example.webp" width="900" height="910" alt="A surface comparison, both deal with war and its aftermath, is contrasted with a specific relationship. A spotlight on the epic’s celebrated hero shifts to a peripheral figure now centred in the modern novel: a deliberate response that subverts whose perspective is centred." loading="lazy">
+  <figcaption>Naming the specific relationship beats noting a shared topic.</figcaption>
+</figure>
+
+
 ## Working across literary traditions and periods
 
 Because this course draws from a genuinely international range of
@@ -96,6 +119,12 @@ differently because of when, where and in what literary tradition each
 was written, and a strong comparative answer accounts for that
 difference rather than treating both works as though they were
 produced in the same cultural moment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-intertextuality--11-ns57-it-context.webp" width="900" height="790" alt="A much older play and a modern novel sit on a time arrow, joined by a shared theme. Each has a context card asking when, where and in which tradition it was written. The caption says the same theme is treated differently because of context." loading="lazy">
+  <figcaption>Account for when, where and tradition when comparing works.</figcaption>
+</figure>
+
 
 ## Connecting this component to Time and Space
 
@@ -131,6 +160,12 @@ matters, is a second common gap. A third is treating context as
 irrelevant to the comparison: assuming two works can be compared as
 though produced in the same moment, when in fact part of what makes
 the comparison interesting is that they were not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-intertextuality--12-ns57-it-feeds.webp" width="900" height="910" alt="A central circle, comparing two works, leads to the Paper 2 comparative essay and to the individual oral, and is fed by Time and Space, because context often explains why a work echoes, responds or subverts. Timed comparison practice is advised." loading="lazy">
+  <figcaption>One comparison skill is used in Paper 2, the oral and with Time and Space.</figcaption>
+</figure>
+
 
 ## How to approach it
 

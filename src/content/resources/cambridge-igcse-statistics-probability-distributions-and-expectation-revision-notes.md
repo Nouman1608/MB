@@ -53,6 +53,12 @@ Quick recall for **Cambridge IGCSE Statistics (0479)**, based on the Cambridge I
 4. Check the probabilities add to 1.
 5. If a constant is missing, set the sum equal to 1 and solve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--03-a-outcome-table.webp" width="900" height="1000" alt="A 4 by 4 grid shows the larger of two spinner scores for all 16 equally likely outcomes. Counting the cells gives one 1, three 2s, five 3s and seven 4s. The bars below show these as probabilities 1/16, 3/16, 5/16 and 7/16." loading="lazy">
+  <figcaption>Count each value in the grid of equally likely outcomes to get its probability.</figcaption>
+</figure>
+
+
 ## Method: find E(X) (8.2)
 
 1. Take each value of X and multiply by its probability.
@@ -75,6 +81,12 @@ E(X) = (0 × 1 + 1 × 3 + 2 × 3 + 3 × 1)/8 = 12/8 = 1.5
 ```
 
 Here the shortcut agrees: 3 tosses × 1/2 = 1.5. Also P(at least 2 heads) = 3/8 + 1/8 = 1/2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--05-a-fair-game.webp" width="900" height="930" alt="A bar chart gives the prize distribution: win £20 with probability 2/20, £5 with 5/20 and nothing with 13/20, so the expected payout is £3.25. On a money line the expected payout is marked below the £4 stake. The gap of £0.75 is the expected loss per game, which makes the game unfair to the player." loading="lazy">
+  <figcaption>A game is fair only when the expected payout equals the stake; here it is 75p short.</figcaption>
+</figure>
+
 
 ### Missing probabilities from E(X)
 
@@ -112,6 +124,12 @@ Total = 1.00
 ```
 
 Then E(X) = 1 × 0.5 + 2 × 0.4 = 1.3. This equals 0.8 + 0.5, the sum of the two separate expected numbers of hits, which is a useful cross-check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--02-a-tree-to-distribution.webp" width="900" height="1030" alt="A tree diagram for two counters taken without replacement from 4 red and 3 blue counters. The four routes RR, RB, BR and BB have probabilities 12/42, 12/42, 12/42 and 6/42, giving X = 2, 1, 1 and 0 red counters. Below, a bar chart adds the two routes with X = 1 to get 4/7, with 1/7 for X = 0 and 2/7 for X = 2." loading="lazy">
+  <figcaption>X = 1 can happen by two routes, so its probability is the sum of both.</figcaption>
+</figure>
+
 
 ### Table of outcomes (two equally likely items)
 
@@ -176,6 +194,17 @@ List every pair in a grid, count how many pairs give each value, and divide by t
 10. **False.** For example, E(X) = 1.5 heads in three tosses.
 11. E(payout) = 8 × 1/4 = 2, so the fair stake is **£2**.
 12. The four given probabilities add to 0.9, so the last probability is **0.1**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--01-a-dist-sums-to-one.webp" width="900" height="930" alt="A bar chart shows the probabilities 5/14, 4/14, 3/14 and 2/14 for x = 1, 2, 3 and 4. Underneath, the four probabilities are placed end to end in a single bar, which fills the whole width. The total is 14/14 = 1, the check every probability distribution must pass." loading="lazy">
+  <figcaption>Every distribution table must add to 1: the bars together make up the whole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-probability-distributions-and-expectation--04-a-expectation-balance.webp" width="900" height="790" alt="Four bars for x = 1 to 4, with heights proportional to 5/14, 4/14, 3/14 and 2/14, rest on a beam. A support under the beam at 15/7, about 2.14, balances it, so E(X) is the balance point of the distribution. A dashed marker at 2.5 shows that the plain average of the values is not the expectation." loading="lazy">
+  <figcaption>E(X) is the point where the probability-weighted values balance, here 15/7.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

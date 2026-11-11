@@ -62,6 +62,12 @@ Limitations: a source error is copied into every document that uses it, set-up i
 
 You need both: the master cannot personalise without data, and the data has no layout without the master. Keeping them separate also lets one data source feed several masters, such as a letter and labels for the same mailing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--07-mm-how-it-works.webp" width="900" height="880" alt="A master document holds fixed text and merge fields for Surname and Owed. A data source holds one record per row: Okafor 40, Khan 25 and Iqbal 80. Merging produces one personalised copy per record with the same layout and wording and only the field values changed." loading="lazy">
+  <figcaption>One master document plus one record per row gives one personalised copy per record.</figcaption>
+</figure>
+
+
 ## Creating and editing source data
 
 A data source can be a spreadsheet, a database table, a CSV file or a table in a word-processed document. Build it so the merge works first time:
@@ -73,6 +79,12 @@ A data source can be a spreadsheet, a database table, a CSV file or a table in a
 5. Remove duplicates and check spellings before merging.
 
 Correct errors in the source itself, not in one merged letter, so the fix is kept for every future merge. For more on fields, records and file types, see the [database and file concepts study guide](/resources/a-level-cambridge-ict-database-and-file-concepts/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--08-mm-source-data.webp" width="900" height="930" alt="Two illustrative tables. The poor one has a vague combined name field, a blank row, mixed date formats and a duplicate record. The good one has field names in the first row only, the smallest useful fields (Title, Forename, Surname), one record per row and one date format." loading="lazy">
+  <figcaption>Good source data has clear fields, one record per row and consistent formats.</figcaption>
+</figure>
+
 
 ## Creating master documents
 
@@ -96,6 +108,12 @@ Height used = 7 × 38 = 266 mm          → top margin  = (297 − 266) ÷ 2 = 1
 Labels per sheet = 2 × 7 = 14
 150 records: 150 ÷ 14 = 10.7 → 11 sheets; the last sheet has 150 − 140 = 10 labels
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--09-mm-custom-labels.webp" width="900" height="765" alt="A scale drawing of an A4 sheet with 14 labels of 99 by 38 mm, 2 across and 7 down, and a 2 mm gap between columns. Horizontal pitch is 101 mm, vertical pitch 38 mm, side margin 5 mm and top margin 15.5 mm. 150 records need 11 sheets, the last with 10 labels." loading="lazy">
+  <figcaption>Pitch is label size plus gap; margins centre the labels on the sheet.</figcaption>
+</figure>
+
 
 ### A directory
 
@@ -149,9 +167,21 @@ Record with Quantity 12: Total = 306.00, Discount = 0.00,  To pay = 306.00
 
 Set a number format so money shows two decimal places.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--11-mm-formula-invoice.webp" width="900" height="890" alt="A formula field calculates Total as Quantity times 25.50, Discount as 10 percent of Total when Total is over 500, and To pay as Total minus Discount. Quantity 24 gives 612.00, discount 61.20, to pay 550.80. Quantity 12 gives 306.00, no discount, to pay 306.00." loading="lazy">
+  <figcaption>The formula runs separately for each record, so no totals are typed by hand.</figcaption>
+</figure>
+
+
 ### When and why fields need to be set up
 
 Set fields up when data is **not** in the source (manual completion), when a value can be **calculated** (no arithmetic errors), or when information must **stay current** (dates, page numbers). Set them up before merging and test them on a few records.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--10-mm-fill-in-ask.webp" width="900" height="960" alt="A prompt asks the user to type a date. A Fill-in field shows the response where the field is placed. An Ask field stores it under a name so it can be shown in several places or used in a condition. Both can prompt once for the whole merge or for each record." loading="lazy">
+  <figcaption>Fill-in shows the answer in one place; Ask stores it so it can be reused.</figcaption>
+</figure>
+
 
 ## Specifying rules
 
@@ -182,6 +212,12 @@ Sort:   Surname ascending              → Iqbal, Khan, Okafor (3 letters)
 
 OR instead of AND would wrongly select every North record and every record owing money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--12-mm-choose-recipients.webp" width="900" height="920" alt="Eight records with Surname, Region, Owed and Contact. The filter Region North AND Owed over 0 keeps Okafor, Brown, Khan and Iqbal. Skip Record If Contact is No removes Brown. Sorting by surname gives the output order Iqbal, Khan, Okafor. Using OR instead of AND would select 7 of the 8 records." loading="lazy">
+  <figcaption>Filter, then skip, then sort: three letters are produced from eight records.</figcaption>
+</figure>
+
+
 ### Excluding recipients
 
 You can exclude individual records by hand (deselect them in the recipient list), for example a duplicate or someone who has asked not to be contacted. To exclude by a rule, use conditional fields:
@@ -196,6 +232,12 @@ ELSE "Thank you: your account is fully paid."
 
 - **Skip Record If** tests a condition; if it is true, **no copy is produced** for that record and the merge moves on.
 - **Next Record If** tests a condition; if it is true, the merge moves to the next record **within the same merged document**. It is used in labels and directories. It moves on only one record each time it is tested, so two matching records in a row are not both passed over; a filter or Skip Record If is more reliable for exclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-mail-merge--13-mm-conditional-fields.webp" width="900" height="970" alt="If Then Else inserts one sentence if Owed is over 0 and another if not: Okafor (owes 40) gets a please pay sentence, Patel (owes 0) gets a thank you sentence. Skip Record If Contact is No produces no copy for Brown while Khan and Iqbal get copies. Next Record If moves to the next record within the same merged document, one record per test." loading="lazy">
+  <figcaption>If Then Else changes the wording; Skip Record If removes the copy; Next Record If moves on within one document.</figcaption>
+</figure>
+
 
 ### When and why rules need to be specified
 

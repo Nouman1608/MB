@@ -160,6 +160,17 @@ Permeability matters to environmental management because it controls
 where ground water collects and moves, and where oil and gas are trapped:
 they rise through permeable rock until an impermeable layer stops them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--15-ro-rock-cycle.webp" width="900" height="1092" alt="Rock at the surface is weathered, the material is eroded, transported and deposited, then sediment builds up in layers (sedimentation), is compacted and cemented, forming sedimentary rock. Magma crystallises to form igneous rock. Heat and pressure without melting turn rock into metamorphic rock; melting turns rock into magma. Melting and metamorphism are not in the syllabus list of eight processes but are needed to describe igneous and metamorphic rock formation. Any surface rock can be weathered and any deeply buried rock can be metamorphosed or melted." loading="lazy">
+  <figcaption>The rock cycle: the seven sedimentary-route processes, crystallisation, and melting and heat-pressure as extra links.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--16-ro-permeability.webp" width="900" height="900" alt="Cross-section with a permeable sandstone layer on top, an impermeable shale layer, and a permeable limestone layer below. Rain water passes down through the sandstone and collects as ground water above the shale. Oil and gas rise through the limestone until the impermeable shale stops them and traps them beneath it. Permeability is the ability of water to pass through the pore spaces of rock and soil. Igneous and metamorphic rocks are also impermeable. Schematic, not to scale." loading="lazy">
+  <figcaption>Permeable sandstone and limestone, impermeable shale holding up ground water and trapping oil and gas.</figcaption>
+</figure>
+
+
 ## 1.2 Extraction of rocks, ores and minerals
 
 **Ore (1.2.1).** The syllabus defines an **ore** as "rock containing
@@ -233,6 +244,22 @@ strategy:
 | Recreation | Provides amenity and income, for example water sports or parks | Needs investment and maintenance; may disturb wildlife |
 | Nature reserves | Increase biodiversity in the area | Take time to establish, and generate little income |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--17-ro-extraction-methods.webp" width="900" height="1040" alt="Surface extraction removes the overburden, the soil and rock above, and digs the deposit out from the surface; strip mining removes it in strips and suits shallow, near-horizontal seams. Subsurface extraction sinks a shaft and drives tunnels to reach deep deposits. Biological extraction has two methods: in phytomining, plants absorb metal from low-grade ore or waste, are harvested and burned, and the metal is recovered from the ash; in bioleaching, bacteria release metal compounds from low-grade ore into a solution from which the metal is recovered. Biological extraction is slow but disturbs far less land." loading="lazy">
+  <figcaption>Surface, subsurface and biological (phytomining, bioleaching) extraction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--18-ro-extraction-factors.webp" width="900" height="820" alt="Eight numbered factors: 1 exploration, 2 geology, 3 accessibility and terrain, 4 quantity and quality of deposit (ore grade), 5 climate, 6 environmental impact assessment, 7 supply and demand, 8 cost and profit. Extraction goes ahead only if the expected income exceeds the cost of extraction, processing and restoration." loading="lazy">
+  <figcaption>The eight factors and the income-versus-cost test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--20-ro-restoration.webp" width="900" height="960" alt="Mined-out land can be managed in two ways. Land restoration: replacement of overburden, soil improvement, bioremediation (using organisms such as plants and microorganisms to remove or break down pollutants) and tree planting. Repurposing land: landfill, lakes, recreation and nature reserves. Each small picture shows one strategy." loading="lazy">
+  <figcaption>Four land restoration and four repurposing strategies.</figcaption>
+</figure>
+
+
 ## 1.3 Sustainable management of rocks, ores and minerals
 
 The two definitions the syllabus gives:
@@ -255,6 +282,12 @@ The two definitions the syllabus gives:
 | Enforcement | Inspections and penalties make laws effective | Needs money, staff and political will; weak where corruption exists |
 | Use of alternative materials | Substitutes replace a scarce material | Substitutes may cost more, perform less well or be finite themselves |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--21-ro-finite-sustainable.webp" width="900" height="980" alt="Two tanks of water stand for a resource. A finite resource is used up at a faster rate than it is replaced, so the tank runs low. Sustainable management uses strategies that ensure the needs of the present are met without compromising the ability of future generations to meet their own. The seven strategies are shown as groups: take out less (reduce and reuse, efficient extraction, alternative materials, avoiding depletion), put material back (recycling), and make it work (legislation and enforcement). Tank levels and flows are illustrative." loading="lazy">
+  <figcaption>Finite resource versus sustainable management shown as tank flows, with the seven strategies grouped (grouping is a teaching aid).</figcaption>
+</figure>
+
+
 ## Worked example
 
 A copper ore has an ore grade of 0.8% copper by mass. Calculate the mass of
@@ -269,6 +302,12 @@ This is why ore grade (1.2.3) and waste management (1.2.4) are linked: a
 low-grade ore leaves almost all of the rock mined as waste to be stored,
 and why biological extraction (1.2.2) is useful for recovering metal from
 low-grade ores and old mine waste.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--19-ro-ore-grade.webp" width="900" height="952" alt="A grid of 1000 squares stands for 5000 tonnes of copper ore, 5 tonnes per square. Eight squares are copper: 0.8 divided by 100 times 5000 equals 40 tonnes of copper. The other 992 squares are waste rock: 5000 minus 40 equals 4960 tonnes. With a low ore grade almost all the rock mined is waste that must be stored." loading="lazy">
+  <figcaption>0.8% of 5000 t is 40 t copper; 4960 t is waste.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

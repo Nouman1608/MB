@@ -58,6 +58,17 @@ They cover section 3.4.2 of the OxfordAQA International AS and A-level Geography
 | Liveability | The quality of life a city offers its residents |
 | SuDS | Sustainable urban drainage systems that slow and store run-off |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--07-ur-share.webp" width="900" height="1030" alt="Three stacked bars show the share of world population living in urban areas: 30 percent in 1950, 55 percent in 2018 and a projected 68 percent in 2050, from the UN World Urbanization Prospects 2018. A grid of 33 squares shows the 33 cities of more than 10 million people counted in 2018. Urbanisation means the urban share rises; urban growth means the number of urban dwellers rises." loading="lazy">
+  <figcaption>The urban share of world population was 30% in 1950 and 55% in 2018, with 68% projected for 2050; 33 cities exceeded 10 million in 2018.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--09-ur-venn.webp" width="900" height="760" alt="Two overlapping circles. The left circle is megacity, an urban area of more than 10 million people. The right circle is world city, a city with a major command role in the global economy such as finance, headquarters, media and culture. The middle is the overlap. Lagos is placed in the megacity circle: very large, with a smaller global command role than its size suggests. Singapore is placed in the world city circle: far fewer than 10 million people but a world city." loading="lazy">
+  <figcaption>A megacity is defined by size and a world city by command role; Lagos and Singapore show the difference.</figcaption>
+</figure>
+
+
 ## Case facts at a glance
 
 | Item | Detail you can quote | One evaluation point |
@@ -97,6 +108,12 @@ They cover section 3.4.2 of the OxfordAQA International AS and A-level Geography
 | Fog and thunderstorms | More fog; more summer storms | Nuclei; strong heating |
 | Wind | Lower average speed; local funnelling and gusts | Rough surface; canyon effect |
 | Air quality | Particulates and photochemical smog | Traffic, industry, burning, sunlight |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--10-ur-uhi.webp" width="900" height="960" alt="A schematic cross-section of a city from rural land on the left, through suburbs, to tall buildings in the city centre and back out to the suburbs and rural land on the right. A temperature curve above it stays low over rural land, rises steeply at the edge of the suburbs and peaks over the city centre, marked as the heat island. Four causes are listed: dark surfaces store heat and release it at night, sealed ground reduces evaporation, traffic and air conditioning add waste heat, and tall buildings trap outgoing heat." loading="lazy">
+  <figcaption>A schematic temperature profile across a city and the four causes of the urban heat island.</figcaption>
+</figure>
+
 
 ## Mini essay plan
 
@@ -138,6 +155,22 @@ They cover section 3.4.2 of the OxfordAQA International AS and A-level Geography
 10. The land and water area needed to supply a population's resources and absorb its waste.
 11. The Ethnic Integration Policy.
 12. Patterns of economic and social wellbeing; the nature and impact of physical environmental conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--08-ur-cycle.webp" width="900" height="900" alt="Four small circle diagrams arranged in a loop with gold arrows between them. Each shows a city centre, a dashed suburban ring and outer rural squares. Urbanisation has arrows pointing in from the outside to the centre. Suburbanisation has arrows pointing from the centre out to the suburban ring. Counter-urbanisation has arrows pointing from the ring out to towns and rural areas. Urban resurgence has arrows pointing from the ring back into a regrowing inner area. A note says the sequence is not universal." loading="lazy">
+  <figcaption>The four-stage sequence of urban change in the more developed world, shown as arrows of movement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--12-ur-waste.webp" width="900" height="850" alt="Two lanes. Singapore: ten units of waste go to incineration, which cuts waste by up to 90 percent and recovers energy equal to up to 3 percent of the island's electricity; the ash, about one unit left, goes by barge to the offshore Semakau landfill. Lagos: ten units of waste go to the Olusosun landfill, which receives up to 10,000 tonnes a day; waste burning pollutes the air and leachate contaminates groundwater. The ten and one unit figures are illustrative." loading="lazy">
+  <figcaption>Singapore incinerates and barges ash to Semakau; Lagos relies on the Olusosun landfill with burning and leachate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--13-ur-sustain.webp" width="900" height="740" alt="Four cards around a central gold circle labelled City: natural (ecosystems, resources), physical (buildings, infrastructure), social (equity, community, health) and economic (jobs, investment). A caption notes that liveability is the quality of life a city offers." loading="lazy">
+  <figcaption>The four dimensions of sustainability: natural, physical, social and economic.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

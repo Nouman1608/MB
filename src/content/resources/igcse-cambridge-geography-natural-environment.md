@@ -105,6 +105,17 @@ vocabulary), be precise about which agent -- river, sea or wind -- is
 doing the eroding in a given answer, since examiners mark process
 explanations against the specific environment named in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--19-ne-coast-landforms.webp" width="900" height="1040" alt="A cliff and wave-cut platform with waves attacking the cliff base, and four stages of one headland: cave, arch, stack and stump." loading="lazy">
+  <figcaption>Erosion turns a cave into an arch, then a stack, then a stump.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--20-ne-weather-instruments.webp" width="900" height="940" alt="Eight drawings show the Stevenson screen and seven instruments with what each records: rain gauge (rainfall), max-min thermometer (highest and lowest temperature), wet-and-dry bulb thermometer (humidity), sunshine recorder (hours of sunshine), barometer (air pressure), anemometer (wind speed), wind vane (wind direction)." loading="lazy">
+  <figcaption>Each weather instrument records one thing.</figcaption>
+</figure>
+
+
 ## A note on the syllabus successor
 
 This guide is written against the 2025-2026 series of Cambridge IGCSE
@@ -124,3 +135,29 @@ Cambridge IGCSE Geography (0460) syllabus for exams in 2025 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf).
 Successor: [Cambridge IGCSE Geography (0460) syllabus for
 2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--15-ne-volcano-types.webp" width="900" height="1010" alt="Cross-sections of a steep-sided composite (strato) cone and a wide, gentle shield volcano. Each shows the crater at the top, a vent running down and a magma chamber underground." loading="lazy">
+  <figcaption>Composite cones are steep; shield volcanoes are wide and gentle; both have a crater, vent and magma chamber.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--16-ne-plate-boundaries.webp" width="900" height="1170" alt="Constructive or divergent: plates move apart and magma rises. Destructive or convergent: an oceanic plate sinks beneath a continental plate at a subduction zone, with a volcano above. Conservative: plates slide past each other." loading="lazy">
+  <figcaption>The three boundary types differ in the direction the plates move.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--17-ne-earthquake-terms.webp" width="900" height="1070" alt="A cross-section shows the focus underground with seismic waves spreading outwards in rings, and the epicentre on the surface directly above it. Two seismograph-style traces show that a stronger earthquake has a larger magnitude." loading="lazy">
+  <figcaption>The focus is underground, the epicentre is directly above it on the surface, and magnitude measures strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--18-ne-drainage-processes.webp" width="900" height="1060" alt="A cross-section of a basin with a river, soil over rock and a watershed on the ridge. Six numbered arrows show interception, infiltration, throughflow, groundwater flow, evaporation and overland flow." loading="lazy">
+  <figcaption>Water moves through a drainage basin by six named processes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--21-ne-climate-graph.webp" width="900" height="860" alt="A temperature line and rainfall bars for twelve months show the hottest and coolest month means, the annual range (16 °C) and the total rainfall (600 mm) and its seasonal pattern. The data are illustrative, not a real place." loading="lazy">
+  <figcaption>A climate graph shows hottest and coolest month means, annual range, rainfall amount and its seasonal distribution.</figcaption>
+</figure>
+

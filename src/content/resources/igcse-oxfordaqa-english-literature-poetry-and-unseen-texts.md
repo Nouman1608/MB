@@ -45,6 +45,12 @@ covered here), while Route B pairs Paper 1 with Paper 2b plus a
 non-exam assessment. This guide covers the shared poetry content plus
 Route A's unseen-prose section specifically.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--13-lit-oaqa-routes.webp" width="900" height="590" alt="Paper 1 Prose and Drama is compulsory for every candidate. From there the course splits into two routes. Route A, the route covered in this guide, is Paper 2a Poetry and Unseen Texts. Route B is Paper 2b plus a non-exam assessment." loading="lazy">
+  <figcaption>Everyone takes Paper 1; Route A adds Paper 2a (this lesson), Route B adds Paper 2b and a non-exam assessment.</figcaption>
+</figure>
+
+
 ## Assessment at a glance
 
 Paper 2a (Poetry and Unseen Texts) is a 2-hour-15-minute, open-book
@@ -75,6 +81,17 @@ prose fiction text chosen outside the qualification's prescribed set
 texts, internally assessed rather than examined; this guide focuses on
 Route A's examined unseen-prose alternative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--14-lit-oaqa-glance.webp" width="900" height="780" alt="Three tiles show the format: 2 hours 15 minutes, 90 marks, and 60 per cent of the International GCSE (a pie chart with 60 per cent shaded). Below, three items are provided in the exam room: the People and Places anthology is supplied, and the unseen poem and the unseen prose extract are printed on the paper." loading="lazy">
+  <figcaption>Paper 2a is 2 h 15 min, 90 marks and 60% of the qualification; the anthology is supplied and the unseen texts are printed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--15-lit-oaqa-parts.webp" width="900" height="910" alt="Three rows. 3.2.1 Poetry: the People and Places anthology, drawn as twenty small poem sheets, twenty poems linked by theme. 3.2.2 Unseen poetry: an unfamiliar poem analysed for content, theme, structure and language. 3.2.3 Unseen prose, Route A only: an unfamiliar prose extract analysed for how the writer creates meaning; Route B replaces this part with a non-exam assessment." loading="lazy">
+  <figcaption>The paper tests a 20-poem anthology plus unseen poetry and, on Route A, unseen prose.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The *People and Places* anthology rewards thematic revision over
@@ -100,6 +117,12 @@ short extract, since a full unseen text will only ever be given in
 excerpt form — the analysis must work from what is actually on the page,
 not assumptions about a wider plot.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--17-lit-oaqa-unseen.webp" width="900" height="750" alt="A sheet of text in the centre with arrows to what can be analysed from it: structure, language choices, tone and effect, and, for prose, narrative viewpoint. Below, two crossed-out dashed boxes show what not to rely on: the writer’s biography and guessing at a wider plot." loading="lazy">
+  <figcaption>Analyse structure, language, tone and effect from the page itself, not from the writer’s life or an imagined wider plot.</figcaption>
+</figure>
+
+
 ## Worked example: comparing anthology poems
 
 Two poems from *People and Places* dealing with the theme of leaving a
@@ -117,6 +140,12 @@ introspection -- a genuine point of contrast to build an answer around,
 rather than simply stating both poems are "about leaving."
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--16-lit-oaqa-compare.webp" width="900" height="780" alt="Two cards. Poem A uses concrete, sensory detail such as smells and sounds. Poem B uses abstract, reflective language with less physical detail. Arrows from both lead to a shared point: both treat leaving as an emotional rupture. Below, the contrast: Poem A roots the emotion in physical memory, while Poem B foregrounds introspection." loading="lazy">
+  <figcaption>A good comparison finds a shared point and a contrast, rather than saying both poems are “about leaving”.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Treating the anthology as a list of poems to summarise rather than
@@ -127,6 +156,12 @@ from the text actually provided. Naming a poetic device without
 explaining its effect on meaning or the reader. Running out of time on
 the anthology question because equal time was not planned across the
 paper's sections.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--18-lit-oaqa-mistakes.webp" width="900" height="864" alt="Four rows, each with a crossed mistake and a fix. Summarising poems instead of comparing them: compare by theme. Guessing at the writer’s life or other works: use only the text itself. Naming a device without explaining its effect: explain the effect. Running out of time on the anthology question: plan equal time per section." loading="lazy">
+  <figcaption>Four slips to avoid: summarising, guessing biography, naming devices without effects, and poor time planning.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

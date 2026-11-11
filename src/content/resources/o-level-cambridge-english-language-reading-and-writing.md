@@ -47,6 +47,12 @@ points concisely in your own words)
 a specified form, audience and purpose) and **Composition** (an
 extended piece from a choice of descriptive or narrative options)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-english-language-reading-and-writing--01-ewa-two-papers.webp" width="900" height="900" alt="Cambridge O Level English Language 1123 has two equally weighted papers, each worth 50 per cent. Paper 1 Reading has Section A, comprehension and use of language, and Section B, summary and short response. Paper 2 Writing has Section A, directed writing, and Section B, composition. There is no separate literature, listening or speaking component." loading="lazy">
+  <figcaption>Two equal papers: Paper 1 Reading and Paper 2 Writing, each 50%.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because the syllabus has only two strands, revision can be structured
@@ -82,6 +88,22 @@ Where a question says **"in your own words"**, rewording is what earns the mark;
 
 A summary is easily confused with a **paraphrase**, but they are different skills. A summary selects only the relevant points and compresses them, so it ends up much shorter than the original. A paraphrase restates the whole passage in different words at roughly the same length -- which is not what a summary question is asking for, and answering as if it were tends to waste both time and words on material that carries no marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-english-language-reading-and-writing--02-ewa-three-depths.webp" width="900" height="870" alt="A staircase of three steps rising from left to right. Step 1, detail: find what is stated, shown with a magnifying glass. Step 2, inference: work out what is implied, shown with a thought bubble. Step 3, effect: explain what the writer's language does, shown with ripples spreading out. Answer each question at its own depth." loading="lazy">
+  <figcaption>Questions test detail, inference and effect, in increasing depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-english-language-reading-and-writing--03-ewa-worked-summary.webp" width="900" height="1090" alt="The lesson's worked example. A 28-word passage about a traffic scheme is shown as a strip of word blocks, coloured in four groups for the four points to select: congestion fell by a fifth, air quality improved, small businesses lost trade, older residents struggled with the new routes. These four points are joined into one continuous 27-word summary in the student's own words, with the joining words shown in grey. The summary contains all four points and no lifted phrasing." loading="lazy">
+  <figcaption>The 28-word passage is reduced to four points and joined into a 27-word summary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-english-language-reading-and-writing--04-ewa-summary-vs-paraphrase.webp" width="900" height="940" alt="Three page icons side by side with lines of text. The passage has fourteen lines, four of them relevant and highlighted. The paraphrase restates all fourteen lines in new words at roughly the same length, which a summary question does not ask for. The summary keeps only the four relevant points and is much shorter. Line counts are illustrative." loading="lazy">
+  <figcaption>A paraphrase restates everything at the same length; a summary keeps only relevant points and is much shorter.</figcaption>
+</figure>
+
+
 ## Reading: language analysis
 
 For "explain the effect" questions, the mark is for the **effect**, not the label.
@@ -95,6 +117,12 @@ Strong   "The metaphor 'the crowd was a river' suggests the people
 
 Quote briefly, explain what the image suggests, then link it to the reader's impression.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-english-language-reading-and-writing--05-ewa-effect-answer.webp" width="900" height="1020" alt="A weak answer only names the device, such as a metaphor, and says it is more interesting; it earns no credit for effect. A strong answer has three steps. First quote briefly: the crowd was a river. Second say what the image suggests: people moved as one uncontrollable mass. Third link to the reader's impression: it emphasises the narrator's helplessness." loading="lazy">
+  <figcaption>A weak answer names a device; a strong one quotes, explains the image and links to the reader.</figcaption>
+</figure>
+
+
 ## Writing: directed and composition
 
 **Directed writing** provides a form, audience and purpose from five possible forms — a **speech, email, report, letter or article** — and the task itself is typically discursive, argumentative or persuasive in content. All three of form, audience and purpose must be honoured: form governs conventions, audience governs register, purpose governs structure.
@@ -107,6 +135,17 @@ For a persuasive form such as a speech, a small set of techniques does most of t
 - **Descriptive** — build atmosphere through the senses and precise detail; resist the urge to introduce a plot.
 
 Plan for five minutes. Unplanned writing drifts, and organisation marks go with it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-english-language-reading-and-writing--06-ewa-form-audience-purpose.webp" width="900" height="700" alt="Directed writing asks for one of five forms: a speech, email, report, letter or article. Three things must all be honoured. Form sets the conventions. Audience sets the register. Purpose sets the structure. Check the finished piece against all three." loading="lazy">
+  <figcaption>Five possible forms; form sets conventions, audience sets register, purpose sets structure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-english-language-reading-and-writing--07-ewa-persuasive-techniques.webp" width="900" height="950" alt="Four tiles. Rhetorical questions let the audience reach the conclusion themselves. The rule of three is memorable because a listener cannot reread. A personal anecdote makes an abstract issue concrete and emotionally real. Inclusive pronouns such as we and our create shared responsibility. Using two or three deliberately reads as more controlled than using all four." loading="lazy">
+  <figcaption>Four techniques: rhetorical questions, rule of three, personal anecdote and inclusive pronouns.</figcaption>
+</figure>
+
 
 ## Accuracy
 

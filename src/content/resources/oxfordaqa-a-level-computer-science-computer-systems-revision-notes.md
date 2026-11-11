@@ -37,6 +37,27 @@ Other links: [practice questions](/resources/oxfordaqa-a-level-computer-science-
 
 Relationship: hardware needs software to do anything useful; software needs hardware to execute it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-systems--01-software-map.webp" width="900" height="930" alt="A stack. At the bottom is hardware, the electronic components. Above it is software, the instructions the hardware executes. Software has two layers: system software, which contains the operating system, utility programs, libraries and translators, and application software on top. Four examples from a laptop are matched with arrows: a video editor is application software, a compression program is a utility, a maths library is a library, and a C# compiler is a translator." loading="lazy">
+  <figcaption>Four laptop programs sorted into application software or the kinds of system software.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-systems--02-os-hides-hardware.webp" width="900" height="910" alt="A program asks the operating system to write data to notes.txt. The operating system passes the request through a device driver to whatever storage device is fitted. Machine 1 has storage device A and machine 2 has storage device B. The same program works on both because the operating system hides the details of the hardware." loading="lazy">
+  <figcaption>The same program works on different storage devices because the OS hides the hardware.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-systems--03-round-robin.webp" width="900" height="756" alt="Three processes P1, P2 and P3 need 5, 3 and 6 milliseconds of processor time. They wait in a ready queue and each gets a 2 millisecond time slice in turn; a process that is not finished goes to the back of the queue. The timeline shows P1 from 0 to 2, P2 2 to 4, P3 4 to 6, P1 6 to 8, P2 8 to 9, P3 9 to 11, P1 11 to 12 and P3 12 to 14. P2 finishes at 9 ms, P1 at 12 ms and P3 at 14 ms. Round robin is used only to show the idea of scheduling." loading="lazy">
+  <figcaption>Round robin with a 2 ms slice: P2 finishes at 9 ms, P1 at 12 ms and P3 at 14 ms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-systems--04-memory-allocation.webp" width="900" height="920" alt="Four snapshots of main memory, locations 0 to 99, with locations 0 to 15 used by the operating system. Step 1: process A (30 locations) is placed at 16 to 45, B (20) at 46 to 65 and C (25) at 66 to 90, leaving 91 to 99 free. Step 2: A ends and 16 to 45 become free. Step 3: D (12) goes in 16 to 27 and E (15) in 28 to 42, leaving free blocks of 3 and 9 locations. Step 4: process F needs 10 locations; 12 locations are free in total but no single block holds 10, so F cannot be loaded yet." loading="lazy">
+  <figcaption>First-fit allocation leaves free blocks of 3 and 9, so process F of 10 cannot be loaded.</figcaption>
+</figure>
+
+
 ## 3.6.2 Software
 
 ### Two categories
@@ -110,6 +131,12 @@ Machine code came first, then assembly language (mnemonics instead of binary), t
 | Low-level | Direct control of hardware and registers; can be fast and use little memory | Slow to write; hard to read, debug and maintain; not portable between processor types |
 | High-level | Quicker to write; easier to read, debug and maintain; portable; structures and libraries available | Must be translated; less direct hardware control; translated code may be larger or slower |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-systems--05-assembly-three-steps.webp" width="900" height="860" alt="The statement total ← total + 5, where total is held in memory location 200, becomes three assembly instructions. LDR R1, 200 copies the value 37 from location 200 into register R1. ADD R1, R1, #5 adds 5 so R1 holds 42. STR R1, 200 stores R1 back in location 200, which now holds 42. One high-level statement became three instructions, and the programmer had to manage registers and addresses directly." loading="lazy">
+  <figcaption>One high-level statement becomes LDR, ADD and STR, changing 37 into 42.</figcaption>
+</figure>
+
+
 ## 3.6.3.2 Types of program translator
 
 ### Roles
@@ -146,6 +173,17 @@ How it is then used: a **virtual machine** interprets it, **or** a **just-in-tim
 
 - **Source code** -- the program as written in a high-level or assembly language; not directly executable.
 - **Object (executable) code** -- machine code output by a compiler or assembler; directly executable by the processor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-systems--06-three-translators.webp" width="900" height="860" alt="Three lanes show what each translator takes in and produces. An assembler translates assembly language into machine code. A compiler translates the whole source program once, before it runs, into object code; the object code can then be run again and again without translating it again. An interpreter translates and executes the program one statement at a time while it runs; it produces no object code, so the source is translated again on every run." loading="lazy">
+  <figcaption>What an assembler, a compiler and an interpreter take in and produce.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-computer-systems--07-bytecode-paths.webp" width="900" height="990" alt="Some compilers produce bytecode, an intermediate language, instead of machine code. Bytecode is then either interpreted by a virtual machine, or converted to machine code by a just-in-time (JIT) compiler for the computer it is running on, and then run. Three reasons for bytecode are given: it is more portable than machine code, security checks can be made on it before it runs, and it can use less memory than equivalent machine code." loading="lazy">
+  <figcaption>Bytecode is either interpreted by a virtual machine or converted by a JIT compiler.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

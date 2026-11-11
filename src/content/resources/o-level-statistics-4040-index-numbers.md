@@ -62,6 +62,12 @@ The base year's own price relative is always 100.
 You may be asked to work backwards: a price relative of 135 and a current price
 of Rs 270 give a base-year price of 270 ÷ 135 × 100 = **Rs 200**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--07-price-relative.webp" width="900" height="790" alt="Two pairs of bars drawn to one scale with the base-year price set to 100. Forwards: a bus fare of Rs 80 becoming Rs 92 has a price relative of 115, a rise of 15%. Backwards: a price relative of 135 with a current price of Rs 270 gives a base-year price of Rs 200." loading="lazy">
+  <figcaption>Price relative = price in the given year ÷ price in the base year × 100, and it can be worked backwards.</figcaption>
+</figure>
+
+
 ## 2. Weighted aggregate index number
 
 One price relative describes one item. To describe the change in the cost of a
@@ -74,6 +80,27 @@ people spend more on:
 0479 states that the weights come from **base-year expenditure**. If the
 question gives prices and quantities rather than weights, calculate each weight
 as *base-year price × base-year quantity*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--08-price-relatives-four-items.webp" width="900" height="798" alt="Horizontal bars start at the base-year line 100. Flour (Rs 120 to Rs 150) has relative 125, cooking oil (Rs 500 to Rs 560) 112, milk (Rs 200 to Rs 230) 115 and electricity (Rs 40 to Rs 52) 130." loading="lazy">
+  <figcaption>The four price relatives in the worked example range from 112 to 130.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--09-index-weights.webp" width="900" height="810" alt="Four horizontal bars show base-year spending used as weights: flour 120 × 20 = 2 400, cooking oil 500 × 6 = 3 000, milk 200 × 30 = 6 000 and electricity 40 × 150 = 6 000. The weights total 17 400." loading="lazy">
+  <figcaption>Each weight is base-year price × base-year quantity; the weights total 17 400.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--10-weighted-index-area.webp" width="900" height="850" alt="A bar chart where each bar’s width is its weight and its height is its price relative: flour 2 400 and 125, cooking oil 3 000 and 112, milk 6 000 and 115, electricity 6 000 and 130. A dashed line at 121.0 shows the weighted aggregate index. A plain average of the relatives, 120.5, is not the answer." loading="lazy">
+  <figcaption>The weighted index is the average height of the bars once each counts in proportion to its weight: 121.0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--11-index-cost-check.webp" width="900" height="830" alt="Two stacked columns show the cost of the 2023 quantities. At 2023 prices: flour 2 400, cooking oil 3 000, milk 6 000, electricity 6 000, total 17 400. At 2025 prices: 3 000, 3 360, 6 900 and 7 800, total 21 060. 21 060 ÷ 17 400 × 100 = 121.0, matching the weighted index." loading="lazy">
+  <figcaption>Check: the cost of the 2023 quantities at 2025 prices over the cost at 2023 prices, times 100, is 121.0.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -122,6 +149,12 @@ A check you can do: with weights from base-year expenditure, the index equals
 - An index of 121.0 means prices have risen **on average** by 21.0% since the base year, weighted by how much was spent on each item.
 - It does **not** mean every item rose by 21%. Here, individual items rose by between 12% and 30%.
 - Two indices with the same base year can be compared directly. An index of 121.0 in 2025 and 110.0 in 2024 shows a rise of 11 index points, which is 11 ÷ 110 × 100 = 10% of the 2024 level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-statistics-4040-index-numbers--12-index-meaning.webp" width="900" height="850" alt="Top: a number line with 100 for 2023, 110.0 for 2024 and 121.0 for 2025; the rise is 11 index points, 11 ÷ 110 × 100 = 10% of the 2024 level. Bottom: the items’ relatives (oil 112, milk 115, flour 125, electricity 130) are spread around the index of 121.0, so it is an average, not the rise of every item." loading="lazy">
+  <figcaption>An index of 121.0 is a weighted average rise; items rose by between 12% and 30%.</figcaption>
+</figure>
+
 
 ## 4. Limitations of a weighted aggregate index
 

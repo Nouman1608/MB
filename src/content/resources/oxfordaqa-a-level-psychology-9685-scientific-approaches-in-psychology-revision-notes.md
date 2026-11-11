@@ -69,6 +69,17 @@ When you have revised, try the [approaches practice questions](/resources/oxford
 | Neurotransmitter | A chemical, such as serotonin or dopamine, that carries signals across a synapse |
 | Natural selection | Traits that aid survival and reproduction are passed on more often |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--02-operant-consequences.webp" width="900" height="1000" alt="Three rows show behaviour, consequence and effect. A rat presses a lever and gets a food pellet (positive reinforcement) so pressing increases. Pressing switches off a loud noise (negative reinforcement) so pressing also increases. An unpleasant outcome after a behaviour (punishment) makes it decrease." loading="lazy">
+  <figcaption>Positive and negative reinforcement both increase behaviour; punishment decreases it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--05-cognitive-models.webp" width="900" height="770" alt="Two box-and-arrow models. Computer analogy: input, processing, storage, output. Multi-store model of memory (1968): sensory register, short-term store, long-term store." loading="lazy">
+  <figcaption>Two box-and-arrow models of mental processes named in the lesson.</figcaption>
+</figure>
+
+
 ## Studies at a glance
 
 | Who | What they did | Key finding | One evaluation point |
@@ -82,6 +93,17 @@ When you have revised, try the [approaches practice questions](/resources/oxford
 | Atkinson and Shiffrin (1968) | Proposed the multi-store model | Sensory register, short-term and long-term stores | Clear theoretical model, but oversimplified |
 | Maguire et al. (2000) | Structural MRI of London taxi drivers and controls | Larger posterior hippocampi; volume correlated with time driving | Correlation: cannot show cause on its own |
 | Buss (1989) | Mate preferences of 10,047 people in 37 cultures | Men valued youth; women preferred older partners | Cross-cultural, but cannot test ancestral environments |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--04-bandura-1965.webp" width="900" height="1020" alt="Children watch an aggressive model who is rewarded, punished or faces no consequences. Those who saw punishment copied less aggression. When all children were then offered rewards for copying, aggression rose in every group, so vicarious reinforcement affected performance rather than learning." loading="lazy">
+  <figcaption>Bandura (1965): offering rewards showed that learning had happened in every group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--06-twin-concordance.webp" width="900" height="920" alt="Identical (MZ) twins share all their genes and non-identical (DZ) twins about half on average. If MZ concordance is clearly higher than DZ concordance a genetic influence is suggested, but no trait shows 100% MZ concordance, so the environment matters too." loading="lazy">
+  <figcaption>How comparing MZ and DZ concordance suggests a genetic influence.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -136,6 +158,17 @@ When you have revised, try the [approaches practice questions](/resources/oxford
 10. How a person's genotype is expressed in observable traits and behaviour, shaped by the environment.
 11. That the trait is entirely genetic; it is not found, so environment also plays a part.
 12. Consistent sex differences in mate preferences across 37 cultures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--01-pavlov-stages.webp" width="900" height="900" alt="Three stages of classical conditioning. Before: food (unconditioned stimulus) produces salivation (unconditioned response) with no learning, while a sound (neutral stimulus) produces no response. During: the sound and food are paired many times. After: the sound is a conditioned stimulus and alone produces salivation, now the conditioned response." loading="lazy">
+  <figcaption>How a neutral sound becomes a conditioned stimulus through pairing with food.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology--03-slt-mediational.webp" width="900" height="1064" alt="A model is rewarded while an observer watches (vicarious reinforcement); a dashed link shows identification. Four numbered steps give the mediational processes in order: attention, retention, reproduction, motivation." loading="lazy">
+  <figcaption>Watching a model, and the four mediational processes in order.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

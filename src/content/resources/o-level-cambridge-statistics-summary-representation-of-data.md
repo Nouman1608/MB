@@ -85,6 +85,12 @@ column totals allowing quick comparison between categories -- a
 simple but examinable skill, since misreading a two-way table cascades
 into every later calculation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-summary-representation-of-data--15-sr-two-way-check.webp" width="900" height="760" alt="A two-way table of illustrative data (favourite subject by gender). Row totals 30 + 30 = 60 and column totals 23 + 23 + 14 = 60 both reach the same grand total of 60, which checks the table." loading="lazy">
+  <figcaption>Adding down and across must reach the same grand total.</figcaption>
+</figure>
+
+
 ## Choosing the right chart
 
 | Chart type | Best suited to |
@@ -107,6 +113,17 @@ across categories harder than a bar chart does; a stem-and-leaf
 diagram preserves more information than a bar chart but becomes
 unwieldy with very large datasets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-summary-representation-of-data--14-sr-chart-gallery.webp" width="900" height="900" alt="Eight small pictures with the use of each: pictogram, pie chart, comparative pie chart, Venn diagram, bar or dual bar chart, sectional or percentage bar chart, box-and-whisker diagram and stem-and-leaf diagram." loading="lazy">
+  <figcaption>Each chart type has a purpose it suits best.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-summary-representation-of-data--16-sr-pie-vs-bar.webp" width="900" height="800" alt="The same illustrative data (24, 21, 18, 15, 12 of 90) as a pie chart and as a bar chart. The pie shows shares but C versus D is hard to judge; the bar chart shows C is 3 more than D." loading="lazy">
+  <figcaption>A pie chart shows proportion clearly but a bar chart is better for comparing exact values.</figcaption>
+</figure>
+
+
 ## Interpreting given representations
 
 2.4 is tested by giving candidates a completed chart or table and
@@ -115,6 +132,17 @@ conclusion -- no construction is required, only accurate reading and
 sound reasoning. Common tasks include comparing two dual bar charts
 to identify which category changed most, or using a box-and-whisker
 diagram to compare the spread of two datasets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-summary-representation-of-data--18-sr-box-compare.webp" width="900" height="860" alt="Two illustrative box-and-whisker diagrams on one axis. Class A: median 12, IQR 9. Class B: median 10, IQR 4. Class A typically revises more but Class B is more consistent." loading="lazy">
+  <figcaption>Compare medians for the typical value and interquartile ranges for the spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-summary-representation-of-data--19-sr-dual-bar-change.webp" width="900" height="800" alt="A dual bar chart of illustrative data for last year and this year: walk 12 to 10, bus 18 to 24, car 8 to 9, bicycle 6 to 4. Changes are -2, +6, +1, -2 so bus changed most." loading="lazy">
+  <figcaption>Compare the paired bars to find which category changed most.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -148,6 +176,12 @@ appearance rather than drawing a data-based conclusion.
   and purpose.
 - Interpret a completed chart or table to compare categories or
   datasets and state a conclusion in context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-summary-representation-of-data--17-sr-stem-ordered.webp" width="900" height="660" alt="Two stem-and-leaf diagrams of the same 12 illustrative values with key 3 | 6 = 36. Leaves in the order collected lose marks; leaves ordered along each row are correct." loading="lazy">
+  <figcaption>A stem-and-leaf diagram needs its leaves in order.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

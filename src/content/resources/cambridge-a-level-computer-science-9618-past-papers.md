@@ -34,6 +34,12 @@ Use the three documents together. Sit the paper first, under timed conditions. M
 
 All three series on this page were set on the 2024-2025 syllabus; papers from 2021 to 2023 were set on the 2021-2023 syllabus. The current syllabus is the 2026 version, and Cambridge states that its 2027-2029 syllabus has no significant changes which affect teaching. Before you use an older paper, check the syllabus version on the paper's front cover against the current syllabus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-9618-past-papers--15-cs9618-paper-structure.webp" width="900" height="822" alt="Four papers: Paper 1 Theory Fundamentals and Paper 2 Fundamental Problem-solving and Programming Skills make the AS Level (150 marks); Paper 3 Advanced Theory and Paper 4 Practical complete the A Level (300 marks). Each paper has three variants, shown by the second digit: 11, 12, 13 are three versions of Paper 1." loading="lazy">
+  <figcaption>Papers 1 and 2 make the AS Level; all four make the A Level; the second digit is the variant.</figcaption>
+</figure>
+
+
 ## Series index
 
 | Series | Papers (components) examined | Examiner report notes | Grade thresholds |
@@ -84,6 +90,12 @@ Exam technique the reports repeat:
 - **Write Cambridge pseudocode.** Use the syntax in Cambridge's pseudocode guide and only the functions given in the Insert. Design the algorithm before you code it. (June 2024, June 2025)
 - **Paper 4 evidence.** Paste code as text, keep the Python indentation, show the inputs in test screenshots, use full screenshots and submit partial attempts. (June 2024, November 2024, June 2025)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-9618-past-papers--18-cs9618-examiner-topics.webp" width="900" height="1090" alt="A grid of 15 topics against June 2024, November 2024 and June 2025, with a dot where the examiner notes raise the topic. Eleven topics, including data representation, SQL, programming basics and OOP, appear in all three series; logic gates, data security, file organisation and translation appear in two." loading="lazy">
+  <figcaption>Most topics the examiners flag come back in every series.</figcaption>
+</figure>
+
+
 ## June 2025
 
 This series tested a wide spread. On the AS theory papers: logic gates, number bases, two's complement, tracing assembly code, database design with SQL, networks and security, all set in scenarios. Paper 2 asked about identifiers, constants, error types, random numbers, files, sorting, stacks and queues. Paper 3 covered user-defined types, floating point, TCP/IP, switching, Karnaugh maps, scheduling, syntax diagrams, compilation, AI and OOP. Paper 4 built queues, stacks, a hash table, linked lists, a binary tree, insertion sort, binary search and inheritance. Calculations and methods went well. The better scripts used precise terms and applied them to the scenario; weaker ones repeated the question or wrote textbook answers.
@@ -118,6 +130,12 @@ Where marks were lost:
 *Not shown: 9 further route(s) in the official table (staged entries that carry AS marks from an earlier series, or other special routes). See the official document.*
 
 Official documents: [past papers, mark schemes and examiner report](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/past-papers/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-9618-past-papers--16-cs9618-grade-ladder-jun2025.webp" width="900" height="800" alt="Grade bars from 0 to 300 marks for AX, AY and AZ in June 2025. AX: E 73, D 102, C 132, B 162, A 195, A* 228. AY: E 73, D 104, C 135, B 166, A 197, A* 228. AZ: E 92, D 122, C 152, B 182, A 211, A* 240." loading="lazy">
+  <figcaption>June 2025 full A Level grade thresholds, in marks out of 300.</figcaption>
+</figure>
+
 
 ## November 2024
 
@@ -190,6 +208,12 @@ Where marks were lost:
 
 Official documents: [past papers, mark schemes and examiner report](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/past-papers/)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-9618-past-papers--17-cs9618-grade-a-across-series.webp" width="900" height="910" alt="A line chart of the grade A threshold out of 300 for options AX, AY and AZ. June 2024: 191 for all. November 2024: 193, 183 and 194. June 2025: 195, 197 and 211. Thresholds change every series, so they should not be used to predict future ones." loading="lazy">
+  <figcaption>The grade A threshold moves from series to series, so do not use it to predict the next one.</figcaption>
+</figure>
+
+
 ## How to use this page
 
 1. **Sit a full paper under timed conditions.** Use only the functions listed in the Insert.
@@ -199,6 +223,12 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. **Fix each topic.** Work through the [9618 self-check question bank](/practice/9618/) and the notes on the [Computer Science subject hub](/boards/cambridge/a-level/computer-science/), for example [databases practice](/resources/a-level-computer-science-databases-practice/) or [processor fundamentals revision notes](/resources/a-level-computer-science-processor-fundamentals-revision-notes/). Learn what each [command word](/command-words/) asks for.
 6. **Re-test on a different series.** Sit another paper a week or two later and compare. Use the [exam calendar](/exam-calendar/) to plan your papers up to the exam, and see [grade thresholds](/grade-thresholds/) for June 2026 thresholds for our flagship syllabuses.
 7. **Get help if a topic will not stick.** Book a [free trial lesson](/trial/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-9618-past-papers--19-cs9618-practice-cycle.webp" width="900" height="956" alt="A six-step loop: sit a full paper timed, mark it strictly with the mark scheme, read the examiner notes and report, list the topics where you lost marks, fix each topic, then re-test on a different series a week or two later, and repeat." loading="lazy">
+  <figcaption>Sit, mark, read, list, fix, re-test on a different series.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

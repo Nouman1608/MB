@@ -91,6 +91,12 @@ A **firewall** checks incoming and outgoing traffic against a set of rules and b
 - A **hardware firewall** is a separate device (often built into the router) between the internal network and the internet. It protects every device on the network at once and uses none of the computers' processing power. It cannot see traffic that passes between devices inside the network, and it costs more to buy and set up.
 - A **software firewall** is a program on each computer. It can control which applications may use the network and protects a laptop on any network it joins. It must be installed and updated on every device and uses that device's resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--04-es-firewalls.webp" width="900" height="1070" alt="The internet sits above a hardware firewall wall in the router. Allowed traffic passes through to the network; blocked traffic stops at the wall. A desktop, laptop and phone inside the network each have their own software firewall. The hardware firewall protects the whole network at once but costs more to set up; software firewalls control which apps use the network and are needed on every device." loading="lazy">
+  <figcaption>A hardware firewall guards the whole network at the router, while a software firewall runs on each device.</figcaption>
+</figure>
+
+
 ### Advantages and disadvantages of preventing misuse
 
 | Method | Advantage | Disadvantage |
@@ -109,6 +115,22 @@ A **firewall** checks incoming and outgoing traffic against a set of rules and b
 2. **Aggregate** the results, publishing totals and averages by department or age group [1], so no individual's record appears in the report [1].
 
 Each way needs the method *and* how it protects confidentiality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--01-es-confidential.webp" width="900" height="1110" alt="Three panels compare ways to keep personal data confidential. Removing geotags strips GPS metadata from a photo so the place is hidden. Anonymising blacks out names and ID numbers in each record but keeps the data. Aggregating combines 62 individual records into one total, 62 patients aged 40 to 49 attended." loading="lazy">
+  <figcaption>Anonymising removes identifiers from each record, whereas aggregating combines records into totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--02-es-lures.webp" width="900" height="950" alt="A three-row table. Phishing is an email pretending to be a trusted organisation with a link to a fake website; check the sender and type the address yourself. Smishing is the same trick by text message; call the official number instead. Vishing is a phone call or voicemail asking for details; hang up and call back on an official number." loading="lazy">
+  <figcaption>Phishing, smishing and vishing all need you to respond to a message or call.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--03-es-pharming.webp" width="900" height="1050" alt="A browser shows a correct web address. The normal route leads to the real site. With pharming, malicious code on your computer or a tampered DNS server diverts you to a fake site even though the address was typed correctly. No link has to be clicked. Check the address bar and the security certificate." loading="lazy">
+  <figcaption>Pharming sends you to a fake site even when you type the correct address.</figcaption>
+</figure>
+
 
 ## 5.2 Malware
 
@@ -171,6 +193,22 @@ Each way needs the method *and* how it protects confidentiality.
 *Explain why a rootkit is harder to deal with than adware.* **[3]**
 
 A rootkit runs with administrator-level access [1], so it can alter the operating system and **hide itself and other malware** from the user and from anti-malware scans [1]. Adware reveals itself through visible adverts and can usually be removed like other software; a rootkit may need specialist tools or a full operating system reinstall [1].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--05-es-malware-types.webp" width="900" height="1030" alt="Seven tiles: trojan looks useful but hides harm; worm copies itself across networks; spyware secretly watches and reports; adware shows unwanted adverts and pop-ups; rootkit gives admin control and hides itself; malicious bot gives remote control and forms a botnet; ransomware locks files and demands payment." loading="lazy">
+  <figcaption>The seven malware types in the topic, each with its key behaviour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--06-es-trojan-worm.webp" width="900" height="1040" alt="Top: a user installs a useful-looking program, which opens a back door on that one computer and does not copy itself to others. Bottom: a worm starts on one computer and copies itself across the network to neighbours in steps 1, 2 and 3 with no user action." loading="lazy">
+  <figcaption>A trojan needs the user to install it; a worm copies itself across the network.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-esecurity--07-es-prevention.webp" width="900" height="960" alt="Software: signature checks compare files with a database of known malware, so known malware is quarantined but brand-new malware is not recognised. Heuristic checks watch for odd behaviour, so they can flag new malware but may flag safe files. Physical: block USB ports, lock server rooms, air-gap sensitive systems and keep offline backups." loading="lazy">
+  <figcaption>Anti-malware software and physical barriers work together to keep malware out.</figcaption>
+</figure>
+
 
 ## Common errors
 

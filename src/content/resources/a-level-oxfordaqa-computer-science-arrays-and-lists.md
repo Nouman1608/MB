@@ -78,6 +78,17 @@ explain a two-dimensional array or list-of-lists as a structure indexed
 by two coordinates — commonly row and column — used to represent
 tabular or grid-based data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--07-al-static-dynamic.webp" width="900" height="1130" alt="Static: fixed cells, fails when full, wastes memory when oversized, fast predictable access. Dynamic: grows from 3 to 5 items and shrinks to 2, adapts but has resizing overhead." loading="lazy">
+  <figcaption>Static structures have a fixed size; dynamic ones grow and shrink.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--10-al-two-dimensional.webp" width="900" height="1050" alt="A 3 by 4 grid and the same data as a list of lists; grid[1][2] holds 7. Exams need at most two dimensions." loading="lazy">
+  <figcaption>Two-dimensional structures are indexed by row then column.</figcaption>
+</figure>
+
+
 ## Worked example: static vs dynamic, applied to a scenario
 
 A question asks candidates to justify whether a static or dynamic data
@@ -127,6 +138,12 @@ Keeping the words "array" and "list" mapped correctly to "static" and
 as one interchangeable category — is the specific vocabulary precision
 this sub-topic rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--08-al-scenario-choice.webp" width="900" height="860" alt="Known and fixed (365 or 366 temperature readings) suits a static array; unknown and growing high scores suit a dynamic list." loading="lazy">
+  <figcaption>Choose by whether the number of items is known in advance.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Describing arrays and lists as interchangeable terms without
@@ -168,6 +185,12 @@ Justify the choice against the data. A static array suits a known, fixed number 
 
 - [Arrays and Lists revision notes](/resources/oxfordaqa-a-level-computer-science-arrays-lists-revision-notes/)
 - [Arrays and Lists practice questions](/resources/oxfordaqa-a-level-computer-science-arrays-lists-practice/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--09-al-python-tools.webp" width="900" height="970" alt="Python has a built-in dynamic list; arrays need the array module (no strings, no multi-dimensional) or numpy; either is fine in exams unless the question says which." loading="lazy">
+  <figcaption>Python has lists built in; arrays come from imported modules.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

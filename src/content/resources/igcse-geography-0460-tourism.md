@@ -80,6 +80,17 @@ Most places combine both. A ski resort needs snowy mountain slopes (physical) bu
 
 **Worked paragraph (Explain question).** "Coastal areas in the tropics have grown as destinations because of physical attractions such as reliable sunshine, warm sea and coral reefs for snorkelling (knowledge). In the Maldives, clear lagoons and reefs around small coral islands are the main draw, and a resort on its own island offers privacy (application). These attractions only became accessible when international flights reached the main airport, so growth depended on human investment as well as the natural landscape (analysis). This suggests the physical attraction explains why visitors want to come, but the human factors explain when growth happened (evaluation)."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--07-tourism-growth-reasons.webp" width="900" height="820" alt="Seven pictured reasons: incomes, paid holidays, cheaper flights, online booking, package holidays, better transport and government promotion. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Seven reasons more people travel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--08-tourism-attractions.webp" width="900" height="840" alt="Physical attractions (climate, mountains, beaches, reefs) beside human-made ones (hotels, heritage, theme parks, museums, festivals); a ski resort needs both. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Physical and human attractions, and why most places need both.</figcaption>
+</figure>
+
+
 ## 2. The Butler model of tourist resort development
 
 The 3.4 content list does not name any model. However, the syllabus's list of suitable coursework enquiries includes "Where does a particular tourist resort fit in the Butler model of tourist development?" Your teacher will confirm how far to use it in Paper 1 answers. It is a useful way to describe how a resort grows.
@@ -94,6 +105,12 @@ Richard Butler set out the model in 1980 in *The Canadian Geographer* as the "to
 6. **Decline or rejuvenation** -- numbers fall unless the resort reinvents itself, for example with new attractions or new markets.
 
 **Evaluation.** The model is a simple way to compare resorts and to predict problems such as overcrowding. But it is a general pattern, not a law. Real resorts can skip stages, and sudden shocks such as a natural disaster or a pandemic can cause a sharp fall that has nothing to do with the resort ageing. It is also hard to tell exactly when one stage ends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--09-butler-model.webp" width="900" height="1115" alt="A curve of visitors over time with six numbered stages from exploration to decline or rejuvenation. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>The Butler model as an illustrative curve with its six stages.</figcaption>
+</figure>
+
 
 ## 3. Benefits and disadvantages to receiving areas
 
@@ -114,6 +131,17 @@ The command word is *evaluate*. You must weigh benefits against disadvantages an
 - **Who you are**: a hotel owner, a fisher whose reef is damaged and a young person seeking work may judge the same change differently.
 
 **Worked paragraph (Evaluate question).** "Tourism brings income to receiving areas, for example jobs in hotels and transport (knowledge). In a small island resort, however, much of the food and fuel is imported and many hotels are foreign-owned, so a large share of each tourist's spending leaks out (application). This reduces the multiplier effect, so the economic benefit is smaller than the number of visitors suggests (analysis). Tourism is therefore most beneficial where local people own businesses and supply goods, and least beneficial where leakage is high (evaluation)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--10-multiplier-leakage.webp" width="900" height="830" alt="Bars show 100 pounds of tourist spending split each round into leakage and local re-spending (illustrative 40 per cent leakage). The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Leakage shrinks the multiplier effect of tourist spending (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--11-tourism-balance.webp" width="900" height="990" alt="A balance of economic, social and environmental benefits against disadvantages, with four factors that decide the judgement. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Evaluating tourism means weighing both sides and judging by scale, ownership, type and management.</figcaption>
+</figure>
+
 
 ## 4. Managing tourism so it is sustainable
 
@@ -137,6 +165,12 @@ The syllabus wants you to understand that tourism needs *careful management* to 
 
 **Evaluation.** Management works best when it has local support, is enforced, and when money raised is spent visibly on the place. It can fail if it simply pushes visitors to another site, or if a government depends on tourism income so much that it will not cap numbers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--12-tourism-carrying-capacity.webp" width="900" height="960" alt="Unmanaged visitor numbers rise above carrying capacity while managed numbers stay below; four management tools are listed. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Management keeps visitors below carrying capacity.</figcaption>
+</figure>
+
+
 ## 5. Case study: the Maldives -- an area where tourism is important
 
 **Location and setting.** The Maldives is an island country in the Indian Ocean, south-west of India and Sri Lanka. It is made up of 1,192 coral islands grouped in 26 atolls. Its highest natural point is only 2.4 metres above sea level. The capital is Malé.
@@ -154,6 +188,12 @@ The syllabus wants you to understand that tourism needs *careful management* to 
 **Evaluation.** The Maldives shows tourism can bring large economic benefits to a country with few other resources. But high leakage, waste and climate risk mean its future depends on management. A tax raises money, but it cannot by itself stop global sea-level rise, which is outside the country's control.
 
 **Worked case-study paragraph.** "Tourism is important in the Maldives because it makes up about 21% of GDP and most of the country's export earnings (knowledge). Growth has been driven by physical attractions such as coral reefs and lagoons around its 1,192 islands, and by luxury one-island resorts reached through Velana International Airport (application). However, because so much food and fuel is imported, leakage reduces the benefit, and waste has had to be shipped to the landfill island of Thilafushi (analysis). The green tax, raised to USD 12 a night at resorts in 2025, shows an attempt to make visitors pay for impacts, but whether tourism is sustainable depends on how the money is used (evaluation)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-tourism--13-maldives-in-numbers.webp" width="900" height="1280" alt="The Maldives lesson figures: 1,192 islands, 26 atolls, arrivals 1.7 million to 555,000, 21 per cent of GDP, 85 per cent of exports, and the 2025 green tax rates. The full text description is in the SVG title and desc." loading="lazy">
+  <figcaption>Key Maldives figures from the lesson.</figcaption>
+</figure>
+
 
 ## Common errors
 

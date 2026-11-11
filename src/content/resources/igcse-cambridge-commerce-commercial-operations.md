@@ -131,6 +131,12 @@ company -- makes the "advantages and disadvantages" comparisons in
 2.1 far easier to recall under exam pressure than memorising each
 form in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--19-co-documents.webp" width="900" height="900" alt="Eight documents between buyer and seller: enquiry, quotation, order, delivery note, invoice after delivery, credit note if goods are returned, statement of account and receipt." loading="lazy">
+  <figcaption>The eight home-trade documents in a typical order.</figcaption>
+</figure>
+
+
 ## How do private and public sector enterprises differ? (2.1.1–2.1.2)
 
 A **private sector** enterprise is owned by individuals or groups of investors and usually aims to make a profit. A **public sector** enterprise is owned and controlled by the government on behalf of the people. Its main aim is usually to provide a service, not to maximise profit.
@@ -176,6 +182,12 @@ A **franchise** is an agreement in which the **franchisor** (the owner of an est
 **Ecommerce location factors** matter for a business that sells online: reliable **wi-fi** and internet connections, **warehousing** close to delivery routes, access to **technology specialists**, and good **logistics** for fast delivery and returns.
 
 In an answer, choose the two or three factors that matter most for the business in the question. A bakery needs to be near its customers; a steel works needs raw materials and power; an online clothing retailer needs a warehouse near motorways and a parcel hub.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--16-co-location.webp" width="900" height="800" alt="Nine physical location factors beside four ecommerce location factors." loading="lazy">
+  <figcaption>Physical and ecommerce businesses weigh different location factors.</figcaption>
+</figure>
+
 
 ## What kinds of retailer are there? (2.3.1)
 
@@ -247,3 +259,24 @@ For outsourcing and the wholesaler in more depth, see the [outsourcing and whole
 
 Cambridge IGCSE Commerce (0715) syllabus for exams in 2028 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/745979-2028-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--15-co-ownership.webp" width="900" height="670" alt="A sole trader keeps all profit but is personally liable; a partnership shares profit and liability; a private limited company sells shares privately and liability is limited to what owners invested." loading="lazy">
+  <figcaption>The tailoring example shows how ownership and liability change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--17-co-outsourcing.webp" width="900" height="680" alt="In-house, a firm makes and moves goods with its own resources; outsourced, it pays a contract manufacturer and a contract logistics firm." loading="lazy">
+  <figcaption>In-house and outsourced production compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--18-co-retailers.webp" width="900" height="850" alt="Ten retailer types in the syllabus order, and three reasons small shops survive." loading="lazy">
+  <figcaption>Ten retailer types; small shops survive through service, hours and extras.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--20-co-communication.webp" width="900" height="900" alt="Six factors affecting the choice, the four types and the eight methods." loading="lazy">
+  <figcaption>What affects the choice of communication method.</figcaption>
+</figure>
+

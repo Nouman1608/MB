@@ -95,9 +95,21 @@ Production is divided into four sectors — a closed, four-way list, with no fif
 - **Tertiary** — subdivided into **commercial services** (trade and aids to trade, which help industry function) and **direct services** (teachers, doctors, hairdressers, who serve people directly).
 - **Quaternary** — digital technology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--08-cp-sectors.webp" width="900" height="820" alt="Primary (extractive), secondary, tertiary (commercial and direct services) and quaternary (digital technology): a closed list of four." loading="lazy">
+  <figcaption>Four sectors of production, with the lesson examples.</figcaption>
+</figure>
+
+
 ## Specialisation
 
 Specialisation means concentrating on producing one thing, or one stage of a process, rather than a whole range. The syllabus requires the advantages and disadvantages of specialisation for three named contexts: an **individual** (becomes highly skilled at one task, but the work can be repetitive and narrow), a **factory** (can mechanise and achieve economies of scale, but becomes heavily dependent on one product), and a **country** (can export what it produces efficiently and import the rest, but becomes dependent on trade). Specialisation is the reason exchange — and therefore commerce — becomes necessary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--09-cp-specialisation.webp" width="900" height="810" alt="For an individual, a factory and a country: one advantage and one disadvantage each, as the lesson states." loading="lazy">
+  <figcaption>Specialisation helps and hurts in each of three contexts.</figcaption>
+</figure>
+
 
 ## In-house and outsourced production
 
@@ -111,6 +123,12 @@ A **global supply chain** sources materials, components or services from supplie
 
 Home trade intermediaries are the **wholesaler** and the **retailer**. International trade adds two further named roles: the **agent**, who acts on behalf of a buyer or seller (often locally, in the target market) without taking ownership of the goods, and the **factor**, who takes possession of goods on consignment and sells them on behalf of the owner in return for a commission.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--10-cp-intermediaries.webp" width="900" height="720" alt="Home trade chain manufacturer, wholesaler, retailer, consumer. International trade adds the agent, who does not own the goods, and the factor, who holds goods on consignment and earns a commission." loading="lazy">
+  <figcaption>Home trade has wholesaler and retailer; international trade adds agent and factor.</figcaption>
+</figure>
+
+
 ## Effects of digital technology on production
 
 Two named effects: **automation**, e.g. using robotics in production, and digital communication with suppliers, e.g. using **electronic data interchange (EDI)** to exchange orders and stock information electronically.
@@ -120,6 +138,12 @@ Two named effects: **automation**, e.g. using robotics in production, and digita
 Ten named cost types: advertising, bank charges, commission, customs duties, inventory, labour, packaging, transport, utilities and warehousing. The syllabus expects candidates to complete simple calculations of these costs from given figures.
 
 *Worked example:* a shipment costs $2,400 in transport, $150 in customs duties and $90 in packaging. Total cost = $2,400 + $150 + $90 = **$2,640**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--11-cp-costs.webp" width="900" height="840" alt="Ten named costs, with transport, customs duties and packaging used in the example: 2,400 + 150 + 90 = 2,640 dollars." loading="lazy">
+  <figcaption>A shipment total built from three of the ten named costs.</figcaption>
+</figure>
+
 
 ## Where commerce sits
 
@@ -141,6 +165,12 @@ COMMERCE
 
 Each aid to trade removes a specific obstacle. Without insurance, few would risk shipping goods; without banking, payment across distance would be impractical; without warehousing, seasonal production could not meet year-round demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--12-cp-commerce-tree.webp" width="900" height="790" alt="Commerce splits into trade and aids to trade; trade into home and foreign trade; six aids to trade listed." loading="lazy">
+  <figcaption>Commerce is trade plus aids to trade.</figcaption>
+</figure>
+
+
 ## Home trade and foreign trade compared
 
 Both involve buying and selling for profit, both require aids to trade, and both depend on a surplus being produced. They differ in that foreign trade crosses national boundaries, involves different currencies and exchange-rate risk, may use different units of measurement, faces customs duties and quotas, and requires more documentation and longer transport.
@@ -150,6 +180,12 @@ Both involve buying and selling for profit, both require aids to trade, and both
 ## How transport and communication have changed commerce
 
 Modern commerce has been reshaped by four linked developments. **Containerisation and air freight** have cut both the cost and the time of transport, making it economic to trade over long distances and to source components from suppliers around the world. **The internet** allows producers to sell directly to consumers anywhere, shortening the traditional chain of distribution and opening international markets even to small firms that could never have afforded a global sales network before. **Instant communication** allows **just-in-time stock control**, so firms can hold less inventory and reduce warehousing costs while still responding quickly to demand. **Electronic banking** has made international payment fast and secure, reducing the risk of trading with customers on the other side of the world.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--14-cp-modern-changes.webp" width="900" height="770" alt="Four developments and their effects: containers and air freight, the internet, instant communication, electronic banking." loading="lazy">
+  <figcaption>Four developments reshaped commerce.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -163,6 +199,12 @@ Banking      -> provides working capital and handles payment from retailers
 ```
 
 Naming the aid **and** the obstacle it removes is what earns the second mark in each pair.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--13-cp-aids-ice-cream.webp" width="900" height="700" alt="Warehousing gives time utility, transport gives place utility, insurance covers spoilage and transit risk, banking provides working capital and payment." loading="lazy">
+  <figcaption>Four aids to trade for an ice cream maker.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

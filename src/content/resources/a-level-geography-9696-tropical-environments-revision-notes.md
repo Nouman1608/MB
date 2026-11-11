@@ -73,6 +73,22 @@ They cover topic 7, Tropical environments (sections 7.1 to 7.4), of the Cambridg
 | Laterite | Hardened iron-rich crust (ferricrete) |
 | Oxisol / latosol | Deep, red or yellow, highly leached rainforest soil |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--16-tr-monsoon.webp" width="900" height="920" alt="Two side views with sea on the left and land on the right. In the high-sun season hotter land has low pressure and moist air flows onshore to give the wet season. In the low-sun season cooler land sends winds offshore and the season is dry." loading="lazy">
+  <figcaption>A monsoon is a seasonal reversal of wind direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--17-tr-tropical-karst.webp" width="900" height="1260" alt="Three cross-sections: cockpit karst with enclosed hollows (up to about 120 metres in Jamaica), cone karst with conical hills sharing a common base, and tower karst with isolated steep towers on an alluvial plain, a water table and foot caves." loading="lazy">
+  <figcaption>Cockpit, cone and tower karst differ in how hills and hollows are arranged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--20-tr-tropical-soils.webp" width="900" height="920" alt="Two soil profiles with illustrative relative depths. The rainforest oxisol is very deep, with a thin humus-rich A horizon and a deep red or yellow B horizon rich in iron oxides and kaolinite. The savanna red or brown earth is shallower and less leached, with ironstone concretions, and water moves down in the wet season and up in the dry season." loading="lazy">
+  <figcaption>Oxisols are deeply weathered; savanna soils are shallower and less leached.</figcaption>
+</figure>
+
+
 ## Climate controls in one table
 
 | Control | What it does | Effect on rainfall |
@@ -82,6 +98,12 @@ They cover topic 7, Tropical environments (sections 7.1 to 7.4), of the Cambridg
 | Monsoon | Onshore flow in the high-sun season, offshore in the low-sun season | Very wet summer, dry winter |
 
 Humid tropical: hot all year, annual range often only 1-3 °C, diurnal range larger than annual, rain all year. Seasonally humid: wet season under the ITCZ, dry season under the high; hottest just before the rains; larger annual range.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--15-tr-itcz-seasons.webp" width="900" height="940" alt="Two side views by latitude. In the wet season the ITCZ lies over a savanna site, with rising air, cloud and rain. In the dry season the ITCZ has moved away and the subtropical high extends over the site, so air sinks and skies are clear." loading="lazy">
+  <figcaption>The savanna dry season begins when the ITCZ moves away and the subtropical high takes its place.</figcaption>
+</figure>
+
 
 ## Landforms at a glance
 
@@ -95,6 +117,12 @@ Humid tropical: hot all year, annual range often only 1-3 °C, diurnal range lar
 
 Inselbergs also appear in the piedmont zone of the [Hot arid and semi-arid environments study guide](/resources/a-level-geography-9696-hot-arid-and-semi-arid-environments/); in this option, focus on granite and deep weathering.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--18-tr-granite-landforms.webp" width="900" height="1130" alt="Stage 1: deep weathering rots granite beneath the surface along joints, leaving regolith, corestones and a weathering front. Stage 2: erosion strips the regolith, leaving widely jointed blocks as a tor and massive rock as a bare bornhardt dome with curved sheeting joints." loading="lazy">
+  <figcaption>The two-stage model explains tors and bornhardts through deep weathering followed by stripping.</figcaption>
+</figure>
+
+
 ## Ecosystems at a glance
 
 | Idea | Rainforest | Savanna |
@@ -106,6 +134,12 @@ Inselbergs also appear in the piedmont zone of the [Hot arid and semi-arid envir
 | Flows | Large and fast | Seasonal; slow in the dry season |
 | Productivity | Highest of any land biome | Lower; water limits growth part of the year |
 | Soil | Oxisol / latosol | Tropical red and brown earths |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--19-tr-gersmehl-nutrients.webp" width="900" height="1120" alt="Two Gersmehl diagrams on the same scale. In the rainforest biomass is the largest store, litter and soil are small and flows are large. In the savanna biomass is smaller, the soil store is relatively larger and flows are smaller. Circle area and arrow width are illustrative." loading="lazy">
+  <figcaption>Rainforest nutrients are mostly in the plants; savanna holds relatively more in the soil.</figcaption>
+</figure>
+
 
 ## Theories and studies at a glance
 
@@ -124,6 +158,12 @@ Inselbergs also appear in the piedmont zone of the [Hot arid and semi-arid envir
 - **Amazon Fund (2008):** BNDES-managed, mainly Norway and Germany; frozen 2019, resumed 2023.
 - **Mamirauá (1996):** community-managed reserve of flooded forest in Amazonas state.
 - **Judgement:** success follows political will; 6,288 km² cleared in 2024 shows recovery, but leakage to the Cerrado and weak land titles remain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--21-tr-amazon-deforestation.webp" width="900" height="1070" alt="A bar chart of annual Amazon deforestation: 27,772 square kilometres in 2004, 4,571 in 2012 and 6,288 in 2024, a fall of about 84 per cent then a rise of about 38 per cent. A numbered timeline marks the PPCDAm, the Soy Moratorium, the Amazon Fund, the 2019 weakening and the 2023 relaunch." loading="lazy">
+  <figcaption>Deforestation fell sharply with enforcement and rose again when political backing weakened.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

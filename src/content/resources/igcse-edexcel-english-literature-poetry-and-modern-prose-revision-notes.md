@@ -46,16 +46,44 @@ Condensed for the final weeks. For the full explanation, use the
 
 2 hours, 90 marks total = **60% of the whole IGCSE**. Only Section C (the modern prose text) is closed book — Sections A and B have the poems printed on the paper or supplied from the anthology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--01-e4-marks-time.webp" width="900" height="760" alt="Two aligned bars show Component 1's 90 marks (20, 30, 40) and the 120 recommended minutes (35, 40, 45). Ribbons show Section A is 22% of marks but 29% of time. A dashed bar shows a proportional split would be 27, 40 and 53 minutes." loading="lazy">
+  <figcaption>The paper gives Section A more time than its marks alone would suggest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--02-e4-exam-room.webp" width="900" height="850" alt="Three rows for Sections A, B and C. The unseen poem is printed on the paper, the anthology poems come in a booklet, but the modern prose text is not available in the exam room. Marks and assessment objectives are shown for each section." loading="lazy">
+  <figcaption>Only the Section C prose text is unavailable, so only it needs exact quotations from memory.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--06-e4-qualification-share.webp" width="900" height="850" alt="A bar splits the qualification 60 percent Component 1 and 40 percent a second component. Component 1 is compulsory (90 marks, 2 hours). The second component is either Component 2, a 1 hour 30 minute open-book exam worth 60 marks, or Component 3 coursework." loading="lazy">
+  <figcaption>Component 1 is compulsory and carries 60% of the qualification.</figcaption>
+</figure>
+
+
 ## Section A — unseen poem
 
 - The poem is printed on the paper — no memorisation needed, just strong analytical skill.
 - Pure AO2: focus entirely on **how** meaning and effects are created (language, form, structure), not what happens to be recalled about the poet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--03-e4-section-a-lenses.webp" width="900" height="870" alt="A schematic poem of three stanzas. A highlighted word is linked to language (imagery, word choice, sound), a dashed box round a stanza to form (rhyme, meter, stanza shape) and a turning arrow to structure (how the poem develops or shifts). Below, a short quotation leads to an explained effect." loading="lazy">
+  <figcaption>Section A rewards analysis of language, form and structure, each rooted in a short quotation.</figcaption>
+</figure>
+
 
 ## Section B — comparing two poems
 
 - You get a choice of two questions, each comparing two anthology poems — typically one names both poems and the other names one poem and asks you to choose the second from the anthology yourself (as in the November 2023 paper).
 - AO2 (language/form/structure) **and** AO3 (comparison) — a response that analyses each poem well but never directly compares them is missing AO3 marks entirely.
 - Build short comparative notes across pairs of poems by theme — don't revise poems only in isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--04-e4-section-b-compare.webp" width="900" height="830" alt="Two essay plans. Poem-by-poem blocks leave comparison to the end. The by-point plan shows each point with poem 1 and poem 2 side by side and a double arrow between them in every paragraph." loading="lazy">
+  <figcaption>Organise by point of comparison and keep comparing in every paragraph.</figcaption>
+</figure>
+
 
 ## Section C — modern prose
 
@@ -124,6 +152,12 @@ into the analysis throughout.
 4. How does the paper itself recommend you allocate your two hours across the three sections?
 
 **Answers:** 1. 90 marks, 60% of the whole IGCSE. 2. AO2 and AO3 — AO3 specifically requires directly comparing the two poems, not just analysing them side by side. 3. Because Section C rewards AO1 (a supported, developing argument) and AO4 (context), neither of which a plot summary demonstrates. 4. Following the paper's own printed timings: 35 minutes on Section A, 40 on Section B, and 45 on Section C, leaving a few minutes to check all three responses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--05-e4-section-c-track.webp" width="900" height="1030" alt="A novel timeline showing a single starred scene versus every point tracked by a rising development arrow. Two essay outlines compare context added as a final paragraph with context woven through every paragraph." loading="lazy">
+  <figcaption>Track a theme across the whole novel and weave context into the argument.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

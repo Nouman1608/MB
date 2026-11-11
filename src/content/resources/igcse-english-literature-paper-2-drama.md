@@ -78,6 +78,12 @@ language (AO3); and a personal response, sometimes asked for directly
 through questions like "What do you think?" or "What are your feelings
 about…?" (AO4).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--13-p2-format.webp" width="900" height="660" alt="A bar splits the qualification 50 percent Paper 1 and 50 percent Paper 2. Paper 2 is two plays at 25 marks each in 1 hour 30 minutes, 50 marks in total." loading="lazy">
+  <figcaption>Paper 2 is half the qualification: two plays, 50 marks, 90 minutes.</figcaption>
+</figure>
+
+
 ## Paper 2 or the Paper 3 route?
 
 It helps to understand what taking Paper 2 spares you and what it
@@ -94,6 +100,12 @@ this route should rehearse retrieving quotations under time pressure —
 something open-text candidates never need to do — and should practise
 both question types on both plays, since the one-of-each rule removes
 the option of leaning on a favourite format.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--15-p2-routes.webp" width="900" height="800" alt="Two panels: Paper 2 is closed book with no unseen paper or coursework but no text on the desk and two plays in memory. The Paper 3 route has the text open, plus Paper 4 Unseen or Component 5 Coursework." loading="lazy">
+  <figcaption>Paper 2 concentrates everything into one closed-book sitting.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -119,6 +131,22 @@ treating the text like a novel never will. In timed practice, split the
 90 minutes evenly and hold the discipline of finishing the first
 question at 45 minutes — two balanced 25-mark answers nearly always
 outscore one long and one rushed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--17-p2-quote-bank.webp" width="900" height="970" alt="Two stacks of short quotation bars, one per play: ten solid and up to five dashed, ten to fifteen per play and twenty to thirty in all. Colours stand for different characters and themes." loading="lazy">
+  <figcaption>Memorise ten to fifteen flexible quotations per play.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--18-p2-stage-paragraph.webp" width="900" height="1150" alt="A schematic stage with an entrance, a table and an audience, followed by four steps for a paragraph: claim, evidence, dramatic method, evaluation." loading="lazy">
+  <figcaption>Write about what an audience sees and hears.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--19-p2-timing.webp" width="900" height="800" alt="An even 45 plus 45 minute split of the 90-minute paper compared with an illustrative uneven split. A clock notes the five-minute plan for the essay question." loading="lazy">
+  <figcaption>Finish the first question at 45 minutes.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -152,3 +180,14 @@ Cambridge IGCSE Literature in English 0475 syllabus for 2026 (Version
 2, December 2025), Paper 2 details verified against the PDF on
 24 August 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--14-p2-one-of-each.webp" width="900" height="880" alt="Four combinations of question types across the two plays. Passage with essay, in either order, is allowed; two passages or two essays are not." loading="lazy">
+  <figcaption>You must answer one passage question and one essay question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-english-literature-paper-2-drama--16-p2-four-aos.webp" width="900" height="880" alt="A ring with four equal quarters for AO1 to AO4, each 25 percent, with a short description of each objective." loading="lazy">
+  <figcaption>The four objectives carry equal weight.</figcaption>
+</figure>
+

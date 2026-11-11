@@ -77,6 +77,12 @@ advantage and one disadvantage of grouping a specific data set, so
 practise giving a reason tied to the actual context given (large range
 of values, ease of comparison) rather than a generic answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--15-grouped-and-ungrouped.webp" width="900" height="1085" alt="Same 40 illustrative values drawn as an ungrouped distribution (12 bars) and as three classes of four values: 0-3 with 20, 4-7 with 14, 8-11 with 6. Grouping is easier to read but exact values are lost." loading="lazy">
+  <figcaption>Grouping summarises large data but loses precision.</figcaption>
+</figure>
+
+
 ## Class limits, boundaries, midpoints and widths (outcome 2)
 
 This is the sub-topic most likely to cost marks through imprecise
@@ -94,6 +100,12 @@ histograms are still expected to handle unequal class widths, via
 frequency density, so that content is not excluded by anything said
 here.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--16-limits-boundaries-midpoints-widths.webp" width="900" height="1030" alt="Discrete class 10-19: limits 10 and 19, boundaries 9.5 and 19.5, midpoint 14.5, width 10. Continuous class 30 to under 40: boundaries 30 and 40, midpoint 35, width 10; limits and boundaries coincide." loading="lazy">
+  <figcaption>Discrete classes need limits and boundaries; continuous classes need boundaries only.</figcaption>
+</figure>
+
+
 ## Histograms and frequency polygons (outcomes 3–4)
 
 A histogram represents a grouped frequency distribution with bars whose
@@ -106,6 +118,17 @@ plotting frequency against the midpoint of each class and joining the
 points — it is the tool of choice when the syllabus asks candidates to
 compare two frequency distributions on the same axes, since two
 polygons overlay far more clearly than two histograms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--17-frequency-density-histogram.webp" width="900" height="925" alt="Histogram with frequency density on the vertical axis: class 10 to under 30 has density 0.4 (area 8) and class 30 to under 40 has density 1.2 (area 12), so the narrower class has the taller bar." loading="lazy">
+  <figcaption>Bar area, not height, represents frequency when class widths differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--18-frequency-polygons.webp" width="900" height="890" alt="Two frequency polygons on one set of axes, plotted at class midpoints 5 to 45 with equal widths of 10. Class A has frequencies 3, 8, 15, 9, 5 and class B has 6, 12, 12, 7, 3." loading="lazy">
+  <figcaption>Polygons use midpoints and overlay clearly for comparison.</figcaption>
+</figure>
+
 
 ## Worked example: frequency density and histogram bar heights
 
@@ -136,6 +159,12 @@ boundaries. Reading values off this curve (for example, the number of
 values below a given point) is a skill candidates need for later
 topics too, since Topic 4 uses the cumulative frequency curve to
 estimate the median of grouped data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--19-cumulative-frequency.webp" width="900" height="1030" alt="Table of illustrative frequencies 4, 9, 14, 8, 5 with running totals 4, 13, 27, 35, 40, and a cumulative frequency polygon plotted at upper class boundaries. Reading at value 25 gives cumulative frequency 20." loading="lazy">
+  <figcaption>A cumulative frequency graph turns running totals into a curve you can read.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

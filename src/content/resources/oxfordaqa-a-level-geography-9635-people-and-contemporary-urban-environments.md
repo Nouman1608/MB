@@ -62,6 +62,22 @@ The UN's *World Urbanization Prospects 2018* estimated that 30% of the world's p
 
 **Worked paragraph.** *"Urban growth in the developing world is driven mainly by economic processes." Discuss.* -- "Economic pull is strong: a migrant can earn more in a city's informal sector than in farming [knowledge]. In Lagos, the size of street trading and waste-picking shows how many newcomers find work outside the formal economy [application]. Yet natural increase among young adults now adds a large share of urban growth in many African cities, so migration is only part of the picture [analysis]. Economic pull starts the process; demographic momentum then sustains it [evaluation]."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--07-ur-share.webp" width="900" height="1030" alt="Three stacked bars show the share of world population living in urban areas: 30 percent in 1950, 55 percent in 2018 and a projected 68 percent in 2050, from the UN World Urbanization Prospects 2018. A grid of 33 squares shows the 33 cities of more than 10 million people counted in 2018. Urbanisation means the urban share rises; urban growth means the number of urban dwellers rises." loading="lazy">
+  <figcaption>The urban share of world population was 30% in 1950 and 55% in 2018, with 68% projected for 2050; 33 cities exceeded 10 million in 2018.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--08-ur-cycle.webp" width="900" height="900" alt="Four small circle diagrams arranged in a loop with gold arrows between them. Each shows a city centre, a dashed suburban ring and outer rural squares. Urbanisation has arrows pointing in from the outside to the centre. Suburbanisation has arrows pointing from the centre out to the suburban ring. Counter-urbanisation has arrows pointing from the ring out to towns and rural areas. Urban resurgence has arrows pointing from the ring back into a regrowing inner area. A note says the sequence is not universal." loading="lazy">
+  <figcaption>The four-stage sequence of urban change in the more developed world, shown as arrows of movement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--09-ur-venn.webp" width="900" height="760" alt="Two overlapping circles. The left circle is megacity, an urban area of more than 10 million people. The right circle is world city, a city with a major command role in the global economy such as finance, headquarters, media and culture. The middle is the overlap. Lagos is placed in the megacity circle: very large, with a smaller global command role than its size suggests. Singapore is placed in the world city circle: far fewer than 10 million people but a world city." loading="lazy">
+  <figcaption>A megacity is defined by size and a world city by command role; Lagos and Singapore show the difference.</figcaption>
+</figure>
+
+
 ## 3.4.2.2 Urban forms
 
 Urban form is shaped by **physical factors** (relief, coasts, rivers, flood risk) and **human factors** (land values, transport, planning, colonial history, wealth). Land use, economic inequality, social segregation and cultural diversity all show spatial patterns.
@@ -103,6 +119,12 @@ Urban form is shaped by **physical factors** (relief, coasts, rivers, flood risk
 
 *Evaluation:* charges shift behaviour but hit lower-income drivers hardest, and need good public transport.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--10-ur-uhi.webp" width="900" height="960" alt="A schematic cross-section of a city from rural land on the left, through suburbs, to tall buildings in the city centre and back out to the suburbs and rural land on the right. A temperature curve above it stays low over rural land, rises steeply at the edge of the suburbs and peaks over the city centre, marked as the heat island. Four causes are listed: dark surfaces store heat and release it at night, sealed ground reduces evaporation, traffic and air conditioning add waste heat, and tall buildings trap outgoing heat." loading="lazy">
+  <figcaption>A schematic temperature profile across a city and the four causes of the urban heat island.</figcaption>
+</figure>
+
+
 ## 3.4.2.5 Urban waste and its disposal
 
 **Sources:** industrial and commercial activity, construction, and personal consumption. **Waste streams** (food, paper, plastics, glass, metals, e-waste) reflect economic characteristics, lifestyles and attitudes. Richer households produce more waste per person, with more packaging and paper. Poorer households produce less, with a higher organic share.
@@ -114,6 +136,12 @@ Urban form is shaped by **physical factors** (relief, coasts, rivers, flood risk
 Lagos relies on landfill. **Olusosun**, about 40 hectares, receives up to 10,000 tonnes a day. Once on the city's edge, it is now surrounded by homes and businesses. Waste burning there pollutes the air, and leachate contaminates groundwater.
 
 *Evaluation:* incineration suits land-scarce, wealthy cities that can afford emission controls. Landfill is cheaper but its costs fall on nearby, often poorer, residents. Neither method reduces the waste produced in the first place.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--12-ur-waste.webp" width="900" height="850" alt="Two lanes. Singapore: ten units of waste go to incineration, which cuts waste by up to 90 percent and recovers energy equal to up to 3 percent of the island's electricity; the ash, about one unit left, goes by barge to the offshore Semakau landfill. Lagos: ten units of waste go to the Olusosun landfill, which receives up to 10,000 tonnes a day; waste burning pollutes the air and leachate contaminates groundwater. The ten and one unit figures are illustrative." loading="lazy">
+  <figcaption>Singapore incinerates and barges ash to Semakau; Lagos relies on the Olusosun landfill with burning and leachate.</figcaption>
+</figure>
+
 
 ## 3.4.2.6 Urban environments, health and wellbeing
 
@@ -132,6 +160,12 @@ Health, mortality and morbidity vary within cities. They tend to be worse in poo
 - **Urban drainage:** impermeable surfaces shorten lag time and raise peak discharge. Low-lying Lagos floods often, linked to unplanned growth and too few, poorly maintained drains. Strategies include **sustainable urban drainage systems (SuDS)**: permeable paving, swales, retention ponds and green roofs.
 - **Dereliction:** abandoned land and buildings after deindustrialisation. Strategies include brownfield regeneration and temporary green space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--11-ur-drainage.webp" width="900" height="880" alt="Top: two cross-sections of the same rain. On rural land the rain soaks into soil; on sealed urban ground it runs off along the surface. Below, a graph of discharge against time for the same storm. The urban curve is solid and rises to a higher peak sooner than the dashed rural curve, so the urban lag time between peak rainfall and peak discharge is shorter. Values are illustrative." loading="lazy">
+  <figcaption>Impermeable urban surfaces shorten lag time and raise peak discharge compared with rural land.</figcaption>
+</figure>
+
+
 ## 3.4.2.8 Sustainable urban developments
 
 Cities draw resources from far beyond their boundaries. The **ecological footprint**, developed by Mathis Wackernagel and William Rees (book published 1996), measures the land and water area needed to supply a population and absorb its waste, in global hectares. Large, wealthy cities have footprints many times their own area.
@@ -141,6 +175,12 @@ Cities draw resources from far beyond their boundaries. The **ecological footpri
 **Opportunities:** density makes public transport efficient and concentrates innovation. **Challenges:** rapid informal growth, weak governance and unequal liveability.
 
 *Evaluation:* liveability rankings often reflect the needs of high-income expatriates, not low-income residents.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--13-ur-sustain.webp" width="900" height="740" alt="Four cards around a central gold circle labelled City: natural (ecosystems, resources), physical (buildings, infrastructure), social (equity, community, health) and economic (jobs, investment). A caption notes that liveability is the quality of life a city offers." loading="lazy">
+  <figcaption>The four dimensions of sustainability: natural, physical, social and economic.</figcaption>
+</figure>
+
 
 ## 3.4.2.9 Case studies
 

@@ -83,6 +83,22 @@ Old total = 15.5 × 12 = 186
 13th reading = 208 − 186 = 22
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from--01-three-averages.webp" width="900" height="730" alt="Eight texts sent in a day, in order: 7, 7, 7, 9, 12, 14, 15, 20. The median is the mean of the 4th and 5th values, 9 and 12, which is 10.5. On a dot plot the three 7s make the mode, the mean 91 divided by 8 is 11.375 and acts as the balance point, and the median 10.5 sits between the 9 and 12. The median and the mean are not data values, but the mode always is." loading="lazy">
+  <figcaption>The mean is the balance point, the median the middle of the ordered values and the mode the most frequent value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from--02-mean-fixes-total.webp" width="900" height="780" alt="Two bars drawn to the same scale show that mean times number of values gives the total. In part (a) six numbers with mean 8.5 have total 6 times 8.5, which is 51. The five known numbers 4, 9, 12, 7 and 10 add to 42, so the missing sixth number is 51 minus 42, which is 9. In part (b) 12 readings with mean 15.5 total 186. After a 13th reading the mean is 16, so the total is 13 times 16, which is 208, and the new reading is 208 minus 186, which is 22." loading="lazy">
+  <figcaption>A given mean fixes the total, so a missing value is the total minus the known values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from--03-frequency-table-averages.webp" width="900" height="840" alt="Bar chart of the number of faulty parts in 50 bulbs: 0 faults 6 bulbs, 1 fault 11, 2 faults 14, 3 faults 9, 4 faults 6 and 5 faults 4. The tallest bar is at 2 faults, so the mode is 2, not the frequency 14. The total of frequency times faults is 110, so the mean is 110 divided by 50, which is 2.2. Below, the 50 ordered bulbs are grouped by faults with running totals 6, 17, 31, 40, 46 and 50. The 25th and 26th values both fall in the group with 2 faults, so the median is 2." loading="lazy">
+  <figcaption>The mode is the value with the highest frequency, the median comes from cumulative frequency and the mean from sum of fx divided by sum of f.</figcaption>
+</figure>
+
+
 ## Ungrouped frequency distributions
 
 When a table lists each value x with its frequency f, add a row for f × x.
@@ -118,6 +134,12 @@ Once data is grouped you no longer know the individual values, so the mean and m
 
 Take each class midpoint as the typical value in that class, then use Σfx ÷ Σf with x as the midpoint. For continuous classes such as 40 ≤ t < 50 the midpoint is (40 + 50) ÷ 2. For discrete classes such as 11–15 the midpoint is (11 + 15) ÷ 2 = 13.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from--04-grouped-mean-midpoints.webp" width="900" height="830" alt="A histogram of 60 puzzle times in classes of width 10 from 20 to 80, with frequencies 5, 12, 21, 14, 6 and 2. Each class is represented by its midpoint: 25, 35, 45, 55, 65 and 75. Frequency times midpoint gives 125, 420, 945, 770, 390 and 150, which add to 2800. Dividing by the 60 people gives a mean of about 46.7 seconds. This is an estimate because the individual times are not known." loading="lazy">
+  <figcaption>Use each class midpoint as the typical value, then sum fx divided by sum f gives an estimate of the mean.</figcaption>
+</figure>
+
+
 ### Estimating the median
 
 The median is the value at position n/2 in the cumulative frequency distribution. There are two routes, and both give the same answer when the curve is drawn as a polygon with straight lines.
@@ -128,6 +150,12 @@ The median is the value at position n/2 in the cumulative frequency distribution
 ```
 median ≈ lower boundary + (n/2 − cumulative frequency before the class) ÷ (class frequency) × class width
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from--05-grouped-median-polygon.webp" width="900" height="750" alt="Cumulative frequency polygon for 60 puzzle times, plotted against upper class boundaries 30 to 80 with cumulative frequencies 5, 17, 38, 52, 58 and 60, starting at 0 at 20 seconds. Half of 60 is 30. Reading across from 30 meets the polygon in the 40 to 50 class, between cumulative frequencies 17 and 38. Linear interpolation gives 40 plus 13 over 21 times 10, about 46.2 seconds, which is where the line down to the axis lands." loading="lazy">
+  <figcaption>Half of n read across a cumulative frequency polygon gives the median, matching linear interpolation.</figcaption>
+</figure>
+
 
 ### Worked example 4: equal class widths
 
@@ -157,6 +185,12 @@ On a cumulative frequency graph you would read across from 30 and down, giving a
 ### Modal class with unequal class widths
 
 When class widths differ, frequency alone is misleading because a wide class collects more data simply by being wide. Compare frequency density = frequency ÷ class width instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from--06-modal-class-density.webp" width="900" height="810" alt="Histogram of 80 journey times with classes 0 to 10, 10 to 15, 15 to 20, 20 to 30 and 30 to 50 minutes. Frequencies are 20, 18, 12, 16 and 14, class widths 10, 5, 5, 10 and 20, so the frequency densities are 2, 3.6, 2.4, 1.6 and 0.7. The highest frequency, 20, is in the wide 0 to 10 class, but the tallest bar is the 10 to 15 class with density 3.6, so that is the modal class." loading="lazy">
+  <figcaption>With unequal widths the modal class has the highest frequency density, not the highest frequency.</figcaption>
+</figure>
+
 
 ### Worked example 5
 
@@ -214,6 +248,12 @@ Match the average to the purpose:
 - Grouped data with an open-ended class (such as "60 and over") has no midpoint for that class, so the mean cannot be estimated sensibly. The median and modal class can still be found if they do not fall in that class.
 
 Always refer to the data in the question. "The median is better because it is not affected by outliers" earns less than "the median is better because the 240 would inflate the mean".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from--07-choose-average-pay.webp" width="900" height="800" alt="Nine annual pay values in thousands of dollars: 21, 23, 24, 24, 26, 27, 29, 31 and 240, the owner. On a number line from 0 to 250 eight values bunch between 21 and 31 while the owner sits far away at 240. The mean, 445 divided by 9, is 49.4 and describes nobody. A zoomed view of the eight shows the mode, 24, which occurs twice, and the median, 26, which is the fifth of nine values. Without the owner the mean of the other eight is 205 divided by 8, 25.6. The median does not change however large the owner pay is." loading="lazy">
+  <figcaption>One very large value drags the mean away from everyone, while the median and mode stay with the typical values.</figcaption>
+</figure>
+
 
 ## Common errors
 

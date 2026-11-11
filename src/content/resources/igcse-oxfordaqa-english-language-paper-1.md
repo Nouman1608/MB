@@ -59,6 +59,12 @@ Paper 1 is **2 hours** long and carries **60%** of the qualification's
 overall marks, with Paper 2 (or the NEA alternative) carrying the
 remaining 40%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--05-p1-route.webp" width="900" height="940" alt="Flow chart plus a 60/40 bar drawn to scale." loading="lazy">
+  <figcaption>Paper 1 is compulsory (60%); students then take Paper 2 or the NEA project (together 40%); Speaking and Listening is reported separately.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Section A rewards precise, evidence-based analysis -- practise
@@ -84,6 +90,12 @@ OxfordAQA International GCSE English Language (9270) specification,
 Version 5.1, for exams May/June 2018 onwards —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-english-language-specification.pdf).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--06-p1-structure.webp" width="900" height="840" alt="A to-scale bar of two 40-mark sections with the key facts of each." loading="lazy">
+  <figcaption>Paper 1 lasts 2 hours: Section A (40 marks) is one unseen literary non-fiction text with a whole-text question and no comparison; Section B (40 marks) is composition, choose one task.</figcaption>
+</figure>
+
+
 ## Literary non-fiction
 
 **Literary non-fiction** is factual writing that uses the techniques of imaginative writing — travel writing, memoir, biography, essays, speeches, opinion journalism. It is true in content but crafted in style, which is precisely what makes it worth analysing.
@@ -95,6 +107,12 @@ Reading such texts, work through:
 - **Structure** — how it opens, where it shifts, how it closes; chronological or thematic.
 - **Language** — imagery, sensory detail, semantic fields, connotation.
 - **Tone** — admiring, critical, wry, nostalgic, and whether it changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--07-p1-lenses.webp" width="900" height="880" alt="A text page linked to the five lenses with short examples from the lesson." loading="lazy">
+  <figcaption>Read literary non-fiction through five lenses: purpose, voice, structure, language and tone.</figcaption>
+</figure>
+
 
 ## Analysing effectively
 
@@ -111,6 +129,12 @@ Analyse **structure** as well as language — where a writer places a short sent
 
 Section A is set on a **single text for close study**, divided into sections with questions -- at least one question addresses the whole text. There is no second text and no comparison task on this paper; comparing two texts is a Paper 2 skill instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--08-p1-analyse.webp" width="900" height="920" alt="Three-step chain using the lesson’s adjectives example (cramped, clamorous, unrelenting)." loading="lazy">
+  <figcaption>Every analytical point identifies a feature, quotes briefly and explains the effect on the reader; feature-spotting alone stops at step 1.</figcaption>
+</figure>
+
+
 ## Composition
 
 Section B offers **three tasks from which students choose one**: descriptive, imaginative, and
@@ -124,6 +148,12 @@ no requirement to attempt more than one.
 **Argumentative/discursive** writing needs a clear line of argument, two or three developed points, and a genuine counter-argument addressed rather than dismissed. Rhetorical devices — direct address, rhetorical questions, tricolon, anecdote — should serve the argument, not decorate it.
 
 Register must stay consistent with the chosen task and form throughout, even though (unlike Paper 2's directed writing) Paper 1's composition tasks do not specify a named audience; drifting halfway through costs marks even where each sentence is correct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--09-p1-tasks.webp" width="900" height="900" alt="Three task cards joined by a bracket to a single write-one circle." loading="lazy">
+  <figcaption>Section B offers three tasks and students write one: descriptive, imaginative, or argumentative/discursive, each with its own key tip; register stays consistent.</figcaption>
+</figure>
+
 
 ## Accuracy and range
 
@@ -147,6 +177,12 @@ Why:  concrete sensory detail (sound, smell, touch)
       varied sentence lengths, short opener for impact
       a closing image that suggests rather than states
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--10-p1-opening.webp" width="900" height="780" alt="Each block is one word; word counts computed from the lesson’s two example openings." loading="lazy">
+  <figcaption>The strong opening varies sentence length (5, 18 and 9 words) against one flat 12-word sentence, with concrete sound, smell and touch detail.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

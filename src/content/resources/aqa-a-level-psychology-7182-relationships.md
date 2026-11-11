@@ -60,11 +60,23 @@ The specification also says research methods and mathematical skills are assesse
 
 **Evaluation.** Sprecher and Hendrick (2004) found that self-disclosure was positively correlated with satisfaction in dating couples. This is correlational: satisfied couples may simply disclose more. Norms about what to share differ across cultures, so the pattern may not be universal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--17-rel-self-disclosure.webp" width="900" height="830" alt="A grid with breadth (range of topics) across and depth (how personal) upward. An arrow from low breadth and depth to high breadth and depth shows a relationship developing as disclosure increases. Below, two people exchange disclosure and understanding, which is reciprocity." loading="lazy">
+  <figcaption>Relationships develop as disclosure widens and deepens, and partners respond in kind.</figcaption>
+</figure>
+
+
 ### Physical attractiveness and the matching hypothesis
 
 Physical attractiveness matters partly through the **halo effect**: Dion et al. (1972) found that people rated photographs of attractive individuals as having more socially desirable personality traits. The **matching hypothesis** (Walster et al., 1966) states that people seek partners of similar attractiveness to themselves. They want the most attractive partner possible but balance this against the risk of rejection, so they settle for a realistic match.
 
 **Evaluation.** Murstein (1972) found that judges rated the photographs of real couples as more similar in attractiveness than randomly paired photographs, which supports matching. Feingold's (1988) meta-analysis also found that romantic partners tend to be similar in attractiveness. However, in the original "computer dance" study, Walster et al. (1966) found that the attractiveness of the date predicted liking, whatever the participant's own attractiveness. Taylor et al. (2011) studied online daters and found people contacted partners more attractive than themselves. So matching may describe who ends up together, not who people approach. People may also trade attractiveness for other assets such as status (**complex matching**).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--18-rel-matching-hypothesis.webp" width="900" height="980" alt="Two pulls act on a person choosing a partner: the wish for the most attractive partner possible pulls up, and the risk of rejection pulls down. The result is a realistic match: a partner of similar attractiveness. Separately, the halo effect: attractive faces are rated as having more desirable personality traits." loading="lazy">
+  <figcaption>People balance wanting the most attractive partner against the risk of rejection.</figcaption>
+</figure>
+
 
 ### Filter theory
 
@@ -77,6 +89,12 @@ Kerckhoff and Davis (1962) proposed that we narrow down the **field of available
 Kerckhoff and Davis found that, in student couples, attitude similarity predicted becoming closer in shorter relationships (under about 18 months) and complementarity in longer ones.
 
 **Evaluation.** Levinger et al. (1970) did not replicate this pattern, which questions its reliability. Online contact means social demography may now filter less strongly. Similarity may also grow during a relationship, so it can be a result rather than a cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--16-rel-filter-theory.webp" width="900" height="940" alt="A funnel narrowing from the field of availables through three filters in order: social demography, similarity in attitudes and complementarity, to the field of desirables. Similarity matters early on and complementarity later." loading="lazy">
+  <figcaption>Kerckhoff and Davis: three filters in a fixed order.</figcaption>
+</figure>
+
 
 ### Worked example paragraph
 
@@ -95,11 +113,23 @@ They also described four stages: sampling, bargaining, commitment and institutio
 
 **Evaluation.** Rewards and costs are hard to define and measure, and differ between people. Clark and Mills (1979) distinguished **communal** relationships, where partners meet each other's needs without keeping score, from **exchange** relationships, where people do track what they give and get. Romantic relationships are usually communal, so the theory may fit them poorly. Cause is also unclear: people may notice alternatives *because* they are already dissatisfied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--19-rel-social-exchange.webp" width="900" height="915" alt="A balance with rewards (company, sex, support) outweighing costs (time, stress, money): profit is rewards minus costs. Two comparisons decide whether to stay: the comparison level, the reward we feel we deserve from past relationships and expectations, and the comparison level for alternatives, whether another relationship or being single would give more profit." loading="lazy">
+  <figcaption>We stay if the relationship gives enough profit and beats the alternatives.</figcaption>
+</figure>
+
+
 ### Equity theory
 
 Walster et al. (1978) argued that people want **fairness**, not the most profit. Equity means the ratio of what each partner puts in to what each gets out feels balanced. A partner who gets more than they give (**over-benefited**) may feel guilt. A partner who gets less (**under-benefited**) may feel anger and resentment, and is usually the more dissatisfied. Inequity motivates partners to restore balance, by changing what they contribute or how they *perceive* the balance.
 
 **Evaluation.** Utne et al. (1984) found that married couples who saw their relationship as equitable reported more satisfaction, which supports the theory. Against this, Berg and McQuinn (1986) found that equity did not predict which dating relationships lasted, whereas other factors, such as self-disclosure, did. People also differ in how much they care about fairness, so the theory may not apply to everyone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--20-rel-equity-theory.webp" width="900" height="850" alt="Three rows compare what a partner puts in with what they get out. Over-benefited: gets more than they give and may feel guilt. Equitable: the ratio feels balanced and partners are more satisfied. Under-benefited: gets less than they give and may feel anger and resentment; usually the more dissatisfied. Bar lengths are schematic." loading="lazy">
+  <figcaption>Equity is a fair ratio of input to output, not equal inputs.</figcaption>
+</figure>
+
 
 ### Rusbult's investment model
 
@@ -113,6 +143,12 @@ High satisfaction, poor alternatives and large investment produce high commitmen
 
 **Evaluation.** Rusbult followed students in dating relationships over several months; satisfaction, alternatives and investment together predicted commitment, and commitment predicted staying together. Le and Agnew's (2003) meta-analysis of 52 studies found the three factors together explained nearly two-thirds of the variance in commitment. Rusbult and Martz (1995) studied women who had used a refuge after abuse: those with fewer alternatives and greater investments were more likely to return. A limitation is that the model relies on self-report, and "investment" is hard to measure objectively.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--21-rel-investment-model.webp" width="900" height="780" alt="Three factors lead to commitment, which leads to staying together: high satisfaction, poor alternatives and large investment. Investments are intrinsic (time, effort, self-disclosure), extrinsic (shared friends, a home, children) and, added later, planned futures." loading="lazy">
+  <figcaption>Commitment, not satisfaction alone, predicts whether a relationship lasts.</figcaption>
+</figure>
+
+
 ### Duck's phase model of relationship breakdown
 
 Duck (1982) described breakdown as a series of **phases**, each triggered when a **threshold** is reached:
@@ -125,6 +161,12 @@ Duck (1982) described breakdown as a series of **phases**, each triggered when a
 Rollie and Duck (2006) later added a **resurrection** phase, in which people apply what they have learned to future relationships.
 
 **Evaluation.** Tashiro and Frazier (2003) found that students who had recently broken up often reported personal growth, which fits the later phases. The model suggests repair strategies matched to each phase, such as better communication in the dyadic phase. However, it describes the order of events rather than explaining why breakdown starts. Research is mostly retrospective self-report, and the social phase may reflect individualist Western relationships.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--22-rel-duck-phase-model.webp" width="900" height="940" alt="Five steps in order. Intra-psychic: one partner privately broods, thinking I can’t stand this any more. Dyadic: partners confront each other and may repair. Social: the breakdown becomes public and friends and family take sides. Grave dressing: each partner builds a story that protects their reputation. Resurrection, added later by Rollie and Duck, applies lessons to future relationships." loading="lazy">
+  <figcaption>Each phase is triggered when a threshold is reached; resurrection was added later.</figcaption>
+</figure>
+
 
 ### Worked example paragraph
 
@@ -146,6 +188,17 @@ The specification names three issues: **self-disclosure**, **use of deception** 
 
 *Explain one effect of the absence of gating.* "Without gates such as shyness, a socially anxious person is judged on what they say, not how they look or sound. McKenna et al. (2002) found lonely and socially anxious people were more likely to form close online relationships. However, the same absence of cues makes honesty harder to judge, increasing the scope for deception."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--23-rel-online-disclosure.webp" width="900" height="880" alt="Two opposite predictions. Reduced cues theory: online communication lacks facial expression and tone, leading to deindividuation and less self-disclosure. Hyperpersonal model: people choose what to reveal and have time to plan messages, so disclosure is faster and deeper. Joinson found more disclosure in computer-mediated conversation, supporting the hyperpersonal model." loading="lazy">
+  <figcaption>The two theories predict opposite effects on online self-disclosure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--24-rel-online-gating.webp" width="900" height="1020" alt="Face to face, gates such as appearance, shyness, a stammer or social anxiety can stop a relationship starting. Online, the gates are absent at first, and lonely or socially anxious people were more likely to form close online relationships (McKenna et al.). Deception is common but modest: most daters misreported height, weight or age by small amounts." loading="lazy">
+  <figcaption>Absence of gating removes early obstacles; profiles invite small deceptions.</figcaption>
+</figure>
+
+
 ## Parasocial relationships
 
 A **parasocial relationship** is a one-sided relationship in which a person feels they know a media figure who does not know them. Horton and Wohl (1956) introduced the term.
@@ -165,6 +218,12 @@ A **parasocial relationship** is a one-sided relationship in which a person feel
 ### Worked example paragraph
 
 *Evaluate the attachment theory explanation of parasocial relationships.* "The explanation predicts that insecure-resistant people form parasocial relationships to meet unmet needs, and Cole and Leets (1999) supported this. However, McCutcheon et al. (2006) found no link. Attachment is usually measured in adulthood by self-report, so the link to infant attachment is indirect. The explanation is plausible but not firmly established."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-relationships--25-rel-parasocial.webp" width="900" height="860" alt="A one-way arrow from a fan to a celebrity shows a one-sided relationship. Three rising levels: entertainment-social, intense-personal and borderline-pathological. The absorption-addiction model says needing ever stronger involvement can push a person up the levels. The attachment explanation predicts insecure-resistant people are more likely, and insecure-avoidant people less likely, to form parasocial relationships." loading="lazy">
+  <figcaption>A parasocial relationship is one-sided; the Celebrity Attitude Scale describes three levels.</figcaption>
+</figure>
+
 
 ## Common errors
 

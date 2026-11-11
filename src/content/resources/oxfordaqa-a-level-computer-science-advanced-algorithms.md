@@ -76,6 +76,12 @@ Visit order: **B, C, D, G, H, K, M, S**.
 
 **Typical application: shortest path in an unweighted graph.** BFS reaches vertices layer by layer, so each vertex is first discovered by a route with the fewest possible edges. Follow the "from" column backwards from the target. For S: S came from K, K from G, G from C, C from B. Reversed, the route is **B → C → G → K → S**, four walkways. For M: **B → D → H → M**, three walkways.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-algorithms--14-bfs-layers.webp" width="900" height="884" alt="A graph of eight campus buildings drawn in layers around the start vertex B. Layer 0 is B; layer 1 (one edge away) is C and D; layer 2 is G and H; layer 3 is K and M; layer 4 is S. Numbers show the visit order B, C, D, G, H, K, M, S. A thick line shows the route to S found by following each vertex back to where it was discovered: B, C, G, K, S, which is four walkways, the fewest." loading="lazy">
+  <figcaption>BFS visits vertices layer by layer, so the route found back through the &quot;from&quot; column has the fewest edges.</figcaption>
+</figure>
+
+
 ## 3.11.1 Depth-first search
 
 Depth-first search (DFS) follows one branch as far as it can. When it reaches a vertex with no unvisited neighbours, it **backtracks** to the most recent vertex that still has one, then carries on.
@@ -104,6 +110,12 @@ Recursive DFS from N (the stack is the chain of unfinished calls):
 | Visit Z, the exit | N, P, V, X, Z |
 
 Visit order: **N, P, T, V, X, W, R, Z**. When Z is reached, the stack holds the route through the maze: **N → P → V → X → Z**. Notice that DFS does not promise the shortest route; it gives the first route it finds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-algorithms--15-dfs-backtrack.webp" width="900" height="840" alt="A maze drawn as a graph with entrance N and exit Z. Depth-first search visits N, P, T (a dead end), then backtracks to P and visits V, X, W, R (a dead end), backtracks to X and visits Z, the exit; numbers show the order N, P, T, V, X, W, R, Z. A thick line marks the route N, P, V, X, Z, which is exactly what the stack holds when Z is reached. DFS gives the first route it finds, not necessarily the shortest." loading="lazy">
+  <figcaption>DFS follows one branch, backtracks at dead ends, and the stack holds the route when the exit is reached.</figcaption>
+</figure>
+
 
 ## Implementing BFS and DFS
 
@@ -175,6 +187,17 @@ Key updates: from F, 4 + 3 = 7 beats 9 for H; from H, 7 + 2 = 9 beats 13 for L a
 - Satellite navigation and journey planners: quickest or shortest routes between places.
 - Routing packets across a network: link-state routing protocols such as OSPF use Dijkstra's algorithm to work out the lowest-cost paths to every destination.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-algorithms--16-dijkstra-graph.webp" width="900" height="860" alt="A weighted road graph with six vertices D, F, H, L, R, W and nine roads with times in minutes: D-F 4, D-H 9, D-L 13, F-H 3, F-R 11, H-L 2, H-R 7, L-W 6, R-W 3. Each vertex shows its shortest time from D: D 0, F 4, H 7, L 9, R 14, W 15. A thick line marks the shortest route D, F, H, L, W which takes 15 minutes. The direct road D to L takes 13 minutes but D, F, H, L takes only 9." loading="lazy">
+  <figcaption>Shortest times from D: F 4, H 7, L 9, R 14, W 15; the best route to W is D, F, H, L, W in 15 minutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-algorithms--17-dijkstra-table.webp" width="900" height="806" alt="A table of the six vertices D, F, H, L, R, W after each choice. Start: D is 0 and all others infinity. Choose D (0): F 4, H 9, L 13. Choose F (4): H improves to 7 and R becomes 15. Choose H (7): L improves to 9 and R to 14. Choose L (9): W becomes 15. Choose R (14): W stays 15 because 14 plus 3 is 17. Choose W (15). Chosen cells are gold and final; improved cells are teal and show the previous vertex." loading="lazy">
+  <figcaption>The distance table after each choice, with final distances in gold and improved distances in teal.</figcaption>
+</figure>
+
+
 ## 3.11.2 Tree traversal
 
 A traversal visits every node of a binary tree exactly once. The three orders differ only in **when the current node is output** compared with its two subtrees:
@@ -235,6 +258,12 @@ def post_order(node):
 
 Only the `print` line moves. If the tree is held in parallel arrays (data, left pointer, right pointer), pass an index instead of an object and use a rogue value such as −1 for "no child".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-algorithms--18-tree-traversals.webp" width="900" height="1020" alt="A binary tree with root K; K has children S and D; S has children B and N; N has left child H; D has right child Y; Y has left child W. Each node carries three marks: a square on its left (pre-order), a circle below (in-order) and a triangle on its right (post-order). Output when the line round the tree passes each mark. Pre-order gives K S B N H D Y W; in-order gives B S H N K D W Y; post-order gives B H N S W Y D K." loading="lazy">
+  <figcaption>Pre-, in- and post-order differ only in when the node is output relative to its subtrees.</figcaption>
+</figure>
+
+
 ## Uses of the traversals
 
 | Traversal | Uses named in the specification |
@@ -276,6 +305,17 @@ Evaluating the postfix form with a stack: push 9 and 4, then − gives 5; push 2
 In-order outputs **date, fig, kiwi, lime, pear, plum, yam**: alphabetical order, because every left subtree holds smaller values and every right subtree larger ones.
 
 **Copying** uses pre-order: each parent is created before its children, so inserting kiwi, fig, date, plum, lime, pear, yam into a new tree rebuilds the same shape. **Emptying** uses post-order (date, fig, pear, lime, yam, plum, kiwi): a node is deleted only after both its subtrees, so no node is removed while its children can only be reached through it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-algorithms--19-expression-tree.webp" width="900" height="1250" alt="An expression tree for (9 minus 4) times (2 plus 12 divided by 3) with operators at internal nodes and numbers at leaves. Pre-order gives the prefix form: times, minus, 9, 4, plus, 2, divide, 12, 3. Post-order gives the postfix form: 9 4 minus 2 12 3 divide plus times. In-order gives 9 minus 4 times 2 plus 12 divide 3, with the brackets lost. Evaluating the postfix form with a stack gives 5 after the first minus, then 4 after the divide, 6 after the plus, and finally 30." loading="lazy">
+  <figcaption>Pre-order gives prefix, post-order gives postfix, and a stack evaluates the postfix to 30.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-computer-science-advanced-algorithms--20-bst-uses.webp" width="900" height="1020" alt="A binary search tree built by inserting kiwi, fig, plum, date, lime, pear and yam. Kiwi is the root; fig is on its left with date below it; plum is on its right with lime on its left and yam on its right; pear is the right child of lime. In-order output is date, fig, kiwi, lime, pear, plum, yam, which is alphabetical. Pre-order output kiwi, fig, date, plum, lime, pear, yam is used to copy the tree because parents are created before children. Post-order output date, fig, pear, lime, yam, plum, kiwi is used to empty it because a node is deleted only after both its subtrees." loading="lazy">
+  <figcaption>In-order of a binary search tree is ascending; pre-order copies the tree; post-order empties it.</figcaption>
+</figure>
+
 
 ## Common errors
 

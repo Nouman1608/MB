@@ -70,6 +70,12 @@ AO4 Evaluation is about 40% of Paper 4, so every case study below ends with a ju
 
 Biofuels and fuelwood are renewable only if replanted as fast as they are used. Nuclear power is non-renewable but low-carbon.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--01-em-stock-or-flow.webp" width="900" height="860" alt="Two tanks. The left tank, labelled non-renewable (a stock), is less than half full: a thin dashed arrow shows it refilling very slowly while a thick arrow shows it being drained faster than it forms. Coal, oil, natural gas and uranium are listed. The right tank, labelled renewable (a flow), stays mostly full because water flows in as fast as it flows out; hydro, wind, solar, tidal, geothermal and biofuels are listed, with the note that biofuels are renewable only if replanted." loading="lazy">
+  <figcaption>A stock resource is used faster than it forms; a flow resource is replenished on a human time scale.</figcaption>
+</figure>
+
+
 ## 12.1 Factors affecting demand, supply and the energy mix
 
 - **Level of development and income:** HICs use far more energy per person. In many LICs, rural households depend on fuelwood and charcoal because grids do not reach them or cost too much.
@@ -118,6 +124,12 @@ The enhanced greenhouse effect is in the [Core Physical Geography guide](/resour
 
 **Evaluation.** Renewables now provide most electricity, and in 2023 greenhouse gas emissions were the lowest since the 1950s. But part of that fall came from weaker industrial output. The grid has lagged behind generation and costs have been high. Overall it is a qualified success: a large change in the mix, achieved more slowly and expensively than planned.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--02-em-germany-timeline.webp" width="900" height="940" alt="A vertical timeline of eight events in Germany’s Energiewende. Nuclear events are square markers, renewables are circles and coal is a triangle. In 2000 the nuclear phase-out is decided and fixed payments for renewables start for 20 years. In 2011, after Fukushima, nuclear is dropped as a bridging technology. In 2017 auctions replace fixed payments. On 15 April 2023 the last three reactors close, and renewables supply over half of electricity in 2023 and 54% of demand in 2024. Coal is to end by 2038 at the latest." loading="lazy">
+  <figcaption>The Energiewende: events in the order the lesson gives them (spacing is by order, not by year).</figcaption>
+</figure>
+
+
 ## 12.2 Case study: a named located scheme -- Three Gorges Dam, China
 
 **Location and scale.** On the Yangtze River at Sandouping, Hubei province. Construction began in December 1994; the power plant was fully running in 2012. Installed capacity is 22,500 MW (32 turbines of 700 MW and 2 of 50 MW). It generated nearly 112 TWh in 2020, a world record for one plant. The reservoir stretches up to 600 km upstream.
@@ -136,6 +148,12 @@ The enhanced greenhouse effect is in the [Core Physical Geography guide](/resour
 
 **Worked paragraph (essay style).** *Knowledge:* the Three Gorges Dam has 22,500 MW of capacity. *Application:* it supplies cities far downstream through long-distance transmission. *Analysis:* production is located far from demand, so the grid becomes part of the scheme. *Evaluation:* it succeeds nationally on output, but less so locally, because people nearest the dam bear the cost of displacement and landslides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--03-em-three-gorges.webp" width="900" height="1190" alt="Side view of a dam. A reservoir up to 600 km long lies behind the wall; sediment collects on the reservoir floor and the slopes beside it are prone to landslides. Water passes through the dam to turbines, power lines carry electricity to distant cities and a ship lift passes boats. Below, a proportional bar shows 32 turbines of 700 MW and 2 of 50 MW adding up to 22,500 MW. Two figures give the costs: 1.13 to 1.4 million people displaced and construction cost of 203 billion yuan." loading="lazy">
+  <figcaption>Three Gorges: what the scheme is, where its benefits and costs fall, and how its 22,500 MW adds up.</figcaption>
+</figure>
+
+
 ## 12.3 Pollution: nature, causes and solutions
 
 - **Air:** particulates, nitrogen dioxide and sulphur dioxide from vehicles, industry and power stations. Solutions: emission standards, scrubbers, cleaner fuels, low-emission zones.
@@ -145,6 +163,12 @@ The enhanced greenhouse effect is in the [Core Physical Geography guide](/resour
 Distinguish **point-source** pollution (one outlet, such as a factory pipe -- easier to regulate) from **diffuse** pollution (many small sources, such as farm runoff -- harder to control).
 
 **Example: London's Ultra Low Emission Zone.** It started in central London on 8 April 2019 and was extended in October 2021 and again in August 2023 to all London boroughs. Older, more polluting vehicles pay £12.50 a day. A Transport for London report estimated nitrogen dioxide was 27% lower across the city than it would have been without the zone. Critics argue the charge falls hardest on lower-income drivers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--04-em-point-diffuse.webp" width="900" height="960" alt="Two river scenes. In the top scene a factory discharges polluted water through one pipe into the river: a point source, easier to regulate. In the bottom scene rainwater runs off three fields as six small streams carrying nitrates and phosphates into the river: diffuse pollution, harder to control." loading="lazy">
+  <figcaption>One outlet can be regulated; many small sources are much harder to control.</figcaption>
+</figure>
+
 
 ## 12.3 Water demand, supply and quality
 
@@ -175,6 +199,12 @@ Demand rises with population, urbanisation, irrigation, industry and incomes. Su
 
 **Outcomes.** Zoning manages local pressures such as fishing. But the main threats -- climate change (mass bleaching in 2016 and 2017), runoff from the land and coastal development -- come largely from outside the park. Regional protection works on regional causes but cannot solve global ones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--05-em-reef-zoning.webp" width="900" height="960" alt="Top: two horizontal bars of the same length represent the marine park. Before rezoning, 4.6% was no-take zone; from 1 July 2004 it was 33.3%, about seven times as much. Bottom: a marine park box with fishing managed from inside by zoning and permits, while three threats arrow in from outside the park: climate change, runoff from the land and coastal development." loading="lazy">
+  <figcaption>Zoning manages local pressures such as fishing, but the main threats come from outside the park.</figcaption>
+</figure>
+
+
 ## 12.4 Case study: a degraded environment -- the Aral Sea
 
 **Causes.** The Aral Sea, on the border of Kazakhstan and Uzbekistan, was fed by the Amu Darya and Syr Darya rivers. In the early 1960s the Soviet government diverted both rivers to irrigate desert land for cotton.
@@ -191,6 +221,17 @@ Demand rises with population, urbanisation, irrigation, industry and incomes. Su
 **Issues and evaluation.** The North Aral is a real, measurable success. The far larger South Aral depends on the Amu Darya, which is still heavily used for irrigation, and its eastern basin dried out completely in 2014. Restoring it would need the countries along the Amu Darya to cut irrigation that supports jobs and exports. So the solutions succeeded where the fix was local and affordable, but failed where the cause is transboundary and economic.
 
 **Worked paragraph (essay style).** *Knowledge:* Dike Kokaral raised the North Aral by 12 m by 2008. *Application:* this revived fishing for communities near the north shore. *Analysis:* it worked because the dike was a single, affordable project inside one country. *Evaluation:* the success is partial, because the South Aral, shared between users and dependent on cotton irrigation, continued to shrink.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--06-em-aral-decline.webp" width="900" height="1040" alt="A cause box shows the Amu Darya and Syr Darya rivers being diverted in the early 1960s to irrigate cotton. Three pairs of bars show the result. Between 1960 and 1998 the sea’s area fell by 60%, from 100 to 40, and its volume by 80%, from 100 to 20. Salinity rose from about 10 to about 30 grams per litre by 1990. The exposed bed is now the Aralkum Desert." loading="lazy">
+  <figcaption>Diverting the two rivers for cotton shrank the sea and tripled its salinity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--07-em-aral-north-south.webp" width="900" height="1110" alt="Top: a side view of Dike Kokaral, 13 km long, completed in 2005. Behind it the North Aral water level rises 12 m, from 30 m to 42 m by 2008. Bottom: two lake outlines. The North Aral is full and marked as a success: salinity fell, almost 24 freshwater species returned and fish catches were exported. The South Aral is mostly dry and marked as a failure: its eastern basin dried out completely in 2014 because the Amu Darya is still used for irrigation. A local, affordable fix worked; a shared, economic cause did not." loading="lazy">
+  <figcaption>The dike revived the North Aral, but the South Aral still depends on irrigation from the Amu Darya.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -86,6 +86,12 @@ syllabus for examination 2025, 2026 and 2027 (version 3, July 2025) —
 
 **Direct data** is collected for the specific purpose at hand — the syllabus gives questionnaires, interviews, data logging and observation as examples — and is relevant, current and of known accuracy, but is often costly and slow to gather. **Indirect data** is collected for some other purpose and reused — the syllabus examples are weather data, census data, the electoral register, personal information collected by businesses and used by third parties, and research from textbooks, journals and websites. It is cheap, immediately available and often very large in scale, but it may be out of date, in the wrong format, carry unknown bias, or include irrelevant data the new user cannot filter out. The "wrong format" disadvantage of indirect data is easy to overlook.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--07-dp-data-information.webp" width="900" height="650" alt="The number 37 alone is data. Adding context and meaning, 37 degrees Celsius a patient’s temperature, makes it information. Information quality depends on accuracy, relevance, age, level of detail and completeness." loading="lazy">
+  <figcaption>Data plus context and meaning is information; five factors affect its quality.</figcaption>
+</figure>
+
+
 ## Quality of information
 
 The syllabus gives five examples of factors that affect the quality of information: **accuracy**, **relevance**, **age**, **level of detail** and **completeness**; learn these first. Information that is inaccurate, irrelevant to the decision, too old, too vague or too detailed, or missing something essential leads to poor decisions.
@@ -121,6 +127,17 @@ These are frequently confused, and the distinction is the point of the topic.
 
 Neither guarantees correctness: a date of birth may be valid, verified, and still the wrong date. The syllabus also asks why **both** are needed: validation catches unreasonable values automatically but misses wrong-but-sensible ones, while verification catches copying and transmission errors but not an error already on the source. Validation is instant and needs no extra staff; visual checking and double entry cost time, and a parity check misses errors that flip an even number of bits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--08-dp-validation-verification.webp" width="900" height="920" alt="Validation (software, as data is entered) asks whether data is reasonable: range, type, length, presence, format, check digit, lookup, consistency, limit. Verification asks whether data was entered or transferred accurately: visual checking, double data entry, parity check, checksum, hash total, control total. Neither guarantees correct data." loading="lazy">
+  <figcaption>Validation checks reasonableness; verification checks accurate entry or transfer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--09-dp-parity-check.webp" width="900" height="740" alt="Seven data bits 1011001 have four 1s so an even-parity bit 0 is added. One flipped bit gives five 1s (odd) and is detected. Two flipped bits leave four 1s (even), so the error is missed." loading="lazy">
+  <figcaption>A parity check catches one wrong bit but misses two.</figcaption>
+</figure>
+
+
 ## Processing methods
 
 - **Batch processing** — transactions collected and processed together, with no user interaction. The syllabus's named uses are utility bills, credit and debit card accounts, customer accounts, and payroll and customer orders using **master and transaction files**. To **update a master file sequentially**: sort the transaction file into the same key order as the master file; read the first record of each; while the keys do not match, copy the master record unchanged to a new master file; when they match, apply the transaction and write the updated record; repeat to the end of both files. The new file becomes the master and the old one is kept as a backup.
@@ -129,9 +146,26 @@ Neither guarantees correctness: a date of birth may be valid, verified, and stil
 
 The syllabus also asks you to **write an algorithm** showing the steps of each method (the syllabus cross-references 4.1, Algorithms).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--10-dp-master-update.webp" width="900" height="750" alt="Both files are in key order. If keys differ the master record is copied; if they match the transaction is applied. In the illustrative example 101 and 103 are copied, 102 becomes 10 and 104 becomes 20. The old master is kept as a backup." loading="lazy">
+  <figcaption>Sequential update copies unmatched master records and applies matching transactions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--11-dp-processing-methods.webp" width="900" height="1090" alt="Batch: transactions are collected and processed together with no user interaction, for example payroll. Online: each transaction is processed as it occurs, such as a booking, so the master file is always current. Real-time: sensors feed a processor that drives actuators and the changed conditions are measured again." loading="lazy">
+  <figcaption>Batch, online and real-time processing differ in when and how transactions are processed.</figcaption>
+</figure>
+
+
 ## Encryption
 
 Encryption protects data by scrambling it into an unreadable form that can only be reversed with the correct key. **Symmetric encryption** uses one shared key for both encrypting and decrypting, so the key itself must be exchanged securely in advance. **Asymmetric encryption** uses a mathematically linked public/private key pair: data encrypted with the public key can only be decrypted with the matching private key, which never needs to be transmitted. The syllabus names two families of protocol. **TLS/SSL** (Transport Layer Security and its predecessor, Secure Sockets Layer) secures a session between a client application such as a browser and a server, for example during online banking or shopping. **IPsec** (Internet Protocol Security) works at the network layer, encrypting and authenticating every packet between two hosts or networks, which is why it is used for virtual private networks. Uses named by the syllabus are the **protection of data** (in transit and in storage) and **systems encryption** (encrypting a whole disk or device so nothing on it can be read without the key). Symmetric encryption is faster but requires a secure way to share the key; asymmetric encryption solves the key-sharing problem but is slower, which is why many systems use asymmetric encryption to exchange a symmetric key and then switch to symmetric encryption for the rest of the session. Between the protocols: TLS/SSL needs no special set-up beyond a certificate on the server and protects individual applications, but leaves other traffic from the same device unprotected; IPsec protects all traffic between two points whatever the application, but is more complex to configure and both ends must support it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--12-dp-encryption.webp" width="900" height="1060" alt="Symmetric encryption uses one shared key to encrypt and decrypt; it is fast but the key must be shared securely. Asymmetric encryption uses a linked public and private key; the private key is never sent. Many systems use asymmetric encryption to share a symmetric key, then switch to symmetric." loading="lazy">
+  <figcaption>Symmetric uses one shared key; asymmetric uses a public and private pair.</figcaption>
+</figure>
+
 
 ## Worked example
 

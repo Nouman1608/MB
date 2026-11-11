@@ -63,12 +63,24 @@ Midpoints 1, 3, 5, 7. Empty classes before and after have midpoints −1 and 9. 
 
 The first zero point can fall at a negative value when the data start at 0. That is allowed; it is only a closing point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--07-leaf-length-polygon.webp" width="900" height="850" alt="A frequency polygon for 50 leaves: points (3, 0), (5, 5), (7, 12), (9, 20), (11, 9), (13, 4) and (15, 0) joined by straight lines over faint class bars. The peak at (9, 20) shows the modal class 8 to under 10." loading="lazy">
+  <figcaption>Plot frequency against midpoint, add zero-frequency end points and join with straight lines.</figcaption>
+</figure>
+
+
 ## Histogram, equal widths: method in steps
 
 1. Convert the classes to boundaries.
 2. Mark the boundaries on a continuous horizontal axis.
 3. Draw bars from boundary to boundary with no gaps.
 4. Make each height the frequency. Label the vertical axis "Frequency".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--08-polygon-histogram-same-area.webp" width="900" height="880" alt="A histogram of 50 typing speeds with bars from 29.5 to 79.5 and a frequency polygon through the bar-top centres with end points at 24.5 and 84.5. Both have area 500." loading="lazy">
+  <figcaption>With equal widths and both end points, the polygon has the same area as the histogram.</figcaption>
+</figure>
+
 
 ## Histogram, unequal widths: method in steps
 
@@ -88,6 +100,12 @@ Distance travelled to school by 108 pupils:
 | Frequency density | 20 | 34 | 15 | 6 |
 
 The 4–<8 class has 24 pupils, but its bar is only 6 high, because those pupils are spread across 4 km. Check: 20 + 34 + 30 + 24 = 108.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--09-unequal-widths-density.webp" width="900" height="1180" alt="Journey times of 74 employees. Top: bars with height equal to frequency make the wide 30-50 class look far too big. Bottom: bars with height equal to frequency density (0.8, 2.8, 4.4, 1.8, 0.6) make area equal frequency." loading="lazy">
+  <figcaption>For unequal class widths the bar height must be frequency density, not frequency.</figcaption>
+</figure>
+
 
 ## Reading from a histogram
 
@@ -123,6 +141,17 @@ Height:  38 ÷ 15 = 2.53 (3 s.f.)
 
 Keep the height as a fraction (38/15) in later working if you need it, and round only the final answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--10-histogram-estimates.webp" width="900" height="1180" alt="Using the journey-time histogram, 12 to 18 minutes is 3 x 2.8 + 3 x 4.4 = 8.4 + 13.2 = 21.6, about 22 people. More than 25 minutes is 5 x 1.8 + the whole 30 to 50 bar of 12 = 21 people. Both are estimates." loading="lazy">
+  <figcaption>Part of a class is estimated as bar height times the part of the width wanted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--11-bar-height-from-scale.webp" width="900" height="800" alt="Bar 0 to 4 represents 20 items and is 2.5 cm tall, so density 5 equals 2.5 cm and one density unit is 0.5 cm. Bar 4 to 10 represents 27 items, density 4.5, so its height is 2.25 cm." loading="lazy">
+  <figcaption>A scale from one bar gives the height of another: 4.5 x 0.5 = 2.25 cm.</figcaption>
+</figure>
+
+
 ### Comparing two groups with different sizes
 
 Group P has 50 items and group Q has 200. In the class 10–<20, P has 10 and Q has 60.
@@ -133,6 +162,12 @@ Q: 60 ÷ 200 = 0.30 (30%)
 ```
 
 Q has the larger proportion in that class even though both counts are different sizes. On a polygon, plotting proportions puts the two lines on a fair footing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-polygons-and-histograms--12-compare-with-polygons.webp" width="900" height="1150" alt="Two illustrative samples of 50 shown as overlapping histograms (hard to read) and as two frequency polygons on the same axes, A solid with circles and B dashed with squares (clear)." loading="lazy">
+  <figcaption>Polygons compare two distributions better than overlapping bars.</figcaption>
+</figure>
+
 
 ## Wording to use in answers
 

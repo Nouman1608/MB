@@ -61,6 +61,12 @@ distinction is **thin-client versus thick-client**: a thin client
 relies heavily on a server for processing, while a thick client
 performs most processing locally.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication--06-comm-models.webp" width="900" height="1060" alt="Top: a client-server network. A central server is linked by two-way arrows to four client computers, and provides services to them. Bottom: a peer-to-peer network. Five computers are joined in a ring by two-way arrows and have equal status, each acting as both client and server." loading="lazy">
+  <figcaption>In client-server a dedicated server provides services to clients; in peer-to-peer every computer has equal status and can be both.</figcaption>
+</figure>
+
+
 ## Network topologies
 
 You need to understand the **bus**, **star**, **mesh** and **hybrid**
@@ -70,6 +76,12 @@ topology for a given situation. A star topology, for example, routes
 all traffic through a central switch, making it easier to isolate a
 single faulty connection than a bus topology, where all devices share
 one communication line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication--07-comm-topologies.webp" width="900" height="990" alt="Four small network diagrams. Bus: four computers hang off one shared line. Star: five computers each linked to a central switch. Mesh: five computers with every pair linked, ten links. Hybrid: two stars whose switches are joined." loading="lazy">
+  <figcaption>A bus shares one line; a star routes everything through a central switch; a mesh links many pairs; a hybrid mixes topologies.</figcaption>
+</figure>
+
 
 ## Cloud computing
 
@@ -93,6 +105,12 @@ also need to describe the role and function of a **router**
 specifically, since it operates differently from the other named
 devices (directing traffic between networks rather than within one).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication--08-comm-lan-hardware.webp" width="900" height="940" alt="A LAN in a dashed box. A switch joins a server, a PC with a network interface card, and a wireless access point by cables. A laptop with a wireless NIC connects to the access point by radio waves. The switch is cabled to a router above, which links the LAN to other networks (a WAN) shown as a cloud." loading="lazy">
+  <figcaption>Inside a LAN the switch joins devices; the router directs traffic between networks.</figcaption>
+</figure>
+
+
 ## Ethernet and collision handling
 
 You need to show understanding of **Ethernet** and how collisions
@@ -101,6 +119,12 @@ between transmissions are detected and avoided, specifically using
 the mechanism by which a device checks whether the shared medium is
 free before transmitting, and detects and recovers from a collision if
 two devices transmit simultaneously.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication--09-comm-csmacd.webp" width="900" height="960" alt="Top: three computers on a shared line; two send at once and their signals meet and collide at the middle. Bottom: a flow of steps. 1 Listen to check the line is free (if busy, keep waiting). 2 Transmit. 3 Was there a collision? If no, the data was sent. If yes, 4 detect and recover." loading="lazy">
+  <figcaption>CSMA/CD: a device checks the shared medium is free before transmitting, and detects and recovers from a collision if two transmit at once.</figcaption>
+</figure>
+
 
 ## Bit streaming
 
@@ -132,6 +156,22 @@ Finally, you need to explain how a **Uniform Resource Locator (URL)**
 is used to locate a resource on the WWW, and the role of the **Domain
 Name Service (DNS)** in translating the domain name within a URL into
 the IP address a network actually uses to route the request.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication--10-comm-ip-public-private.webp" width="900" height="890" alt="The internet cloud is joined to a router that has one public IP address, 203.0.113.5. Inside the LAN three computers each have a private address: 192.168.1.10, 192.168.1.11 and 192.168.1.12. All addresses are illustrative." loading="lazy">
+  <figcaption>A public IP address identifies a network to the internet; devices inside the LAN use private addresses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication--11-comm-ip-static-dynamic.webp" width="900" height="800" alt="Two rows across three connections. A static address row shows the same address, 203.0.113.5, each time. A dynamic address row shows a different address each time: 203.0.113.9, 203.0.113.24 and 203.0.113.17. Addresses are illustrative." loading="lazy">
+  <figcaption>A static IP address stays the same; a dynamic IP address can change from one connection to the next.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication--12-comm-url-dns.webp" width="900" height="920" alt="A URL typed into a browser has a domain name, www.example.com, and a resource. The browser asks a DNS server for the domain name. The DNS server answers with an IP address, 203.0.113.7. The browser then sends its request to the web server at that IP address. Names and addresses are illustrative." loading="lazy">
+  <figcaption>DNS translates the domain name in a URL into the IP address used to route the request.</figcaption>
+</figure>
+
 
 ## How to approach it
 

@@ -69,6 +69,17 @@ Test yourself afterwards with the [practice questions](/resources/a-level-geogra
 | Zooxanthellae | Photosynthetic algae living inside coral tissue |
 | Bleaching | Corals expelling zooxanthellae under stress, mainly heat, and turning white |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--14-coast-wave-energy.webp" width="900" height="1010" alt="Three waves of height 1, 2 and 3 units, each beside a square whose side equals the height. The squares have areas 1, 4 and 9, showing that wave energy rises with the square of wave height: a wave twice as high carries about four times the energy. Below, an arrow of wind over open water is labelled fetch, the distance of open water the wind blows over. Illustrative heights." loading="lazy">
+  <figcaption>Wave energy rises with the square of wave height, and bigger waves need strong, long-lasting wind blowing over a long fetch.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--16-coast-longshore-drift.webp" width="900" height="930" alt="Plan view of a beach. Waves arrive at an angle. Each swash carries a pebble up the beach in the direction the waves are moving; each backwash pulls it straight back down the slope. Over five cycles the zigzag path gives a net movement along the beach, called longshore drift. Illustrative angle of 40 degrees." loading="lazy">
+  <figcaption>Swash moves particles up the beach at the wave angle, backwash returns them straight down, so they zigzag along the coast.</figcaption>
+</figure>
+
+
 ## Process to landform sequences
 
 - **Wave-cut platform:** erosion at high-tide zone -> notch -> overhang collapses -> cliff retreats -> platform widens -> waves lose energy crossing it -> retreat slows (negative feedback).
@@ -80,6 +91,12 @@ Test yourself afterwards with the [practice questions](/resources/a-level-geogra
 - **Mangroves:** tropical equivalent of saltmarsh; roots slow tidal flow, trap sediment and absorb wave energy.
 - **Submergent coasts (sea level rising relative to land):** rias, fjords, landward-rolling barrier beaches.
 - **Emergent coasts (land rising relative to sea):** raised beaches and relict cliffs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--17-coast-cave-arch-stack.webp" width="900" height="790" alt="Four side views of a headland. 1: waves enlarge a joint into a cave at the base. 2: the cave cuts through the headland to make an arch. 3: the arch roof collapses, leaving a stack standing offshore. 4: the stack is worn down to a low stump. Schematic, not to scale." loading="lazy">
+  <figcaption>Waves exploit joints and faults on a headland, creating in turn a cave, an arch, a stack and a stump.</figcaption>
+</figure>
+
 
 ## Case studies at a glance
 
@@ -102,6 +119,12 @@ Test yourself afterwards with the [practice questions](/resources/a-level-geogra
 - Normal sea salinity, so few reefs near large river mouths.
 - Wave action for oxygen and food, with only brief exposure at low tide.
 - Result: most reefs between about 30°N and 30°S; few on western continental coasts with cold currents and upwelling.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--19-coast-coral-darwin.webp" width="900" height="1025" alt="Three cross-sections of a coral reef around a volcanic island, following Darwin's subsidence theory. 1: a fringing reef grows close to the shore of the island. 2: as the island sinks, coral grows upwards to stay in the light, giving a barrier reef separated from the island by a wide, deep lagoon. 3: once the island is submerged, a ring of reef remains around a central lagoon: an atoll. Reef-building coral grows mainly in the top 30 m or so. Schematic, not to scale." loading="lazy">
+  <figcaption>Darwin linked the three reef types: as a volcanic island sinks, a fringing reef becomes a barrier reef and then an atoll.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -152,6 +175,22 @@ Test yourself afterwards with the [practice questions](/resources/a-level-geogra
 9. Their zooxanthellae photosynthesise, so they need light; sediment and depth cut out light.
 10. 2004; 33.3% of the park.
 11. They eroded faster, because the groynes trapped sediment moving south, leaving less beach to protect the cliffs downdrift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--15-coast-refraction.webp" width="900" height="850" alt="Plan view of waves approaching an indented coast with a headland between two bays. Wave crests slow in the shallower water off the headland and bend, while the dashed wave direction lines converge on the headland and spread out in the bays. Energy is concentrated on the headland and spread out in the bays. Schematic, not to scale." loading="lazy">
+  <figcaption>Refraction bends wave crests so their energy is concentrated on headlands and spread out in bays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--18-coast-spit-recurves.webp" width="900" height="970" alt="Two plan views. Where the coastline changes direction, longshore drift carries sediment straight on into open water and builds a spit. A simple spit has one recurved end. A compound spit has several recurves on its landward side, numbered 1 to 4 from oldest to current end, each recording an earlier end of the spit. Schematic." loading="lazy">
+  <figcaption>A spit grows where drift continues past a change in coastline direction; each recurve of a compound spit records an earlier end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--20-coast-mappleton-cell.webp" width="900" height="1030" alt="Schematic plan view of the Holderness coast with the sea on the right. Sediment drifts south along the coast. At Mappleton, two rock groynes and a rock revetment (1991) hold sediment, giving a wider beach on the updrift side and protecting the village. South of the scheme, little sediment arrives and the cliffs retreat faster than before. Spurn Head lies at the south end and Flamborough Head at the north. Average retreat on the coast is about 1.5 metres a year. Not to scale." loading="lazy">
+  <figcaption>At Mappleton, groynes and a revetment protect the village, but because the coast is one sediment cell the cliffs to the south have retreated faster.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

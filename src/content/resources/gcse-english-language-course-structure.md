@@ -41,6 +41,12 @@ and analyse. Each paper's reading material is deliberately linked to the
 theme of that paper's writing task, so the reading sources also act as a
 springboard for the writing you are asked to do.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-english-language-course-structure--01-two-papers.webp" width="900" height="860" alt="Two cards. Paper 1, Explorations in Creative Reading and Writing: read one unseen fiction extract, then write a creative piece. Paper 2, Writers’ Viewpoints and Perspectives: read two unseen non-fiction extracts, one from the 19th century and one from the 20th or 21st century, then present your own viewpoint. The two papers are equally weighted." loading="lazy">
+  <figcaption>The two papers are equally weighted; each pairs reading with writing.</figcaption>
+</figure>
+
+
 ## Spoken language
 
 Alongside the two written papers, AQA assesses **spoken language**
@@ -51,6 +57,12 @@ must still offer it as part of the course, and a student who does not
 attempt it is recorded as "not classified" for the endorsement, even
 though their written papers can still earn a full GCSE grade on their
 own.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-english-language-course-structure--05-spoken-language-separate.webp" width="900" height="780" alt="Paper 1 and Paper 2 lead to the GCSE English Language grade. The spoken language presentation and discussion leads to a separate endorsement grade and does not feed the GCSE grade. A student who does not attempt it is recorded as not classified, but the written papers can still earn a full GCSE grade." loading="lazy">
+  <figcaption>Spoken language is reported separately and does not affect the GCSE grade.</figcaption>
+</figure>
+
 
 ## A skills-based approach
 
@@ -100,6 +112,22 @@ piece of the student's own, not a continuation of the source text, and is planne
 structure -- an opening hook, development, a turning point, an ending -- since a piece with a
 deliberate shape consistently outperforms one that is technically fluent but structurally
 directionless.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-english-language-course-structure--02-paper1-reading-ladder.webp" width="900" height="800" alt="Four stacked bars widening downward show how Paper 1 reading questions are sequenced: 1 identify explicit information, 2 explain the effect of specific language choices, 3 analyse how the writer shaped and sequenced the whole extract, 4 a longer evaluative response judging how successfully the writer achieves an effect." loading="lazy">
+  <figcaption>Paper 1 reading questions run from short, contained tasks to a longer evaluative response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-english-language-course-structure--03-paper1-story-shape.webp" width="900" height="760" alt="A rising and falling line schematic shows the four planned parts of a Paper 1 creative writing piece in order: an opening hook, development, a turning point at the peak, and an ending. It is a shape, not data." loading="lazy">
+  <figcaption>A creative piece planned around four parts has a deliberate shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-english-language-course-structure--04-paper2-compare-together.webp" width="900" height="800" alt="Two answer strips. The weaker approach describes text A, then text B, and only briefly notes a difference at the end. The stronger approach discusses both texts together throughout, point by point: each writer’s attitude to the same event, emotive language, and a structural device." loading="lazy">
+  <figcaption>A strong comparison discusses both texts together throughout, not one then the other.</figcaption>
+</figure>
+
 
 ## Paper 2 in more detail
 

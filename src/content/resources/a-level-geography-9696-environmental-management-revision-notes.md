@@ -66,6 +66,12 @@ Track your progress on the [Cambridge A Level Geography hub](/boards/cambridge/a
 | Salinisation | Build-up of salt in soils, often from irrigation without drainage |
 | Environmental degradation | Decline in the quality of land, air, water or ecosystems |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--01-em-stock-or-flow.webp" width="900" height="860" alt="Two tanks. The left tank, labelled non-renewable (a stock), is less than half full: a thin dashed arrow shows it refilling very slowly while a thick arrow shows it being drained faster than it forms. Coal, oil, natural gas and uranium are listed. The right tank, labelled renewable (a flow), stays mostly full because water flows in as fast as it flows out; hydro, wind, solar, tidal, geothermal and biofuels are listed, with the note that biofuels are renewable only if replanted." loading="lazy">
+  <figcaption>A stock resource is used faster than it forms; a flow resource is replenished on a human time scale.</figcaption>
+</figure>
+
+
 ## Energy trends by development level (12.1)
 
 | Source | LICs | MICs | HICs |
@@ -84,6 +90,12 @@ Track your progress on the [Cambridge A Level Geography hub](/boards/cambridge/a
 | Water | Sewage, industrial effluent, farm nitrates, thermal discharge | Wastewater treatment, buffer strips, discharge permits |
 | Land | Solid waste, mining spoil, heavy metals, pesticides | Sanitary landfill, recycling, clean-up of contaminated land |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--04-em-point-diffuse.webp" width="900" height="960" alt="Two river scenes. In the top scene a factory discharges polluted water through one pipe into the river: a point source, easier to regulate. In the bottom scene rainwater runs off three fields as six small streams carrying nitrates and phosphates into the river: diffuse pollution, harder to control." loading="lazy">
+  <figcaption>One outlet can be regulated; many small sources are much harder to control.</figcaption>
+</figure>
+
+
 ## Case studies and examples at a glance
 
 | Example | Syllabus point | What happened | Key fact | One evaluation point |
@@ -94,6 +106,17 @@ Track your progress on the [Cambridge A Level Geography hub](/boards/cambridge/a
 | Cape Town | 12.3 water supply and demand | Drought from 2015; "Day Zero" threatened | 50 litres per person per day from 1 February 2018 | Demand halved quickly, but winter rain also saved the city |
 | Great Barrier Reef Marine Park | 12.3 protection at regional scale | Park created 1975; rezoned 2004 | No-take zones raised from 4.6% to 33.3% | Zoning handles local pressures, not global warming |
 | Aral Sea | 12.4 degraded environment | Rivers diverted from the 1960s to irrigate cotton | Dike Kokaral (2005) raised the North Aral 12 m by 2008 | Partial success: the South Aral's eastern basin dried out in 2014 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--02-em-germany-timeline.webp" width="900" height="940" alt="A vertical timeline of eight events in Germany’s Energiewende. Nuclear events are square markers, renewables are circles and coal is a triangle. In 2000 the nuclear phase-out is decided and fixed payments for renewables start for 20 years. In 2011, after Fukushima, nuclear is dropped as a bridging technology. In 2017 auctions replace fixed payments. On 15 April 2023 the last three reactors close, and renewables supply over half of electricity in 2023 and 54% of demand in 2024. Coal is to end by 2038 at the latest." loading="lazy">
+  <figcaption>The Energiewende: events in the order the lesson gives them (spacing is by order, not by year).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--05-em-reef-zoning.webp" width="900" height="960" alt="Top: two horizontal bars of the same length represent the marine park. Before rezoning, 4.6% was no-take zone; from 1 July 2004 it was 33.3%, about seven times as much. Bottom: a marine park box with fishing managed from inside by zoning and permits, while three threats arrow in from outside the park: climate change, runoff from the land and coastal development." loading="lazy">
+  <figcaption>Zoning manages local pressures such as fishing, but the main threats come from outside the park.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -148,6 +171,17 @@ Spend most of your words on paragraphs 3-5. That is where AO4 evaluation marks s
 11. The Amu Darya.
 12. Any two: cost, weak governance or enforcement, conflicting interests, transboundary scale, poverty, long recovery times.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--06-em-aral-decline.webp" width="900" height="1040" alt="A cause box shows the Amu Darya and Syr Darya rivers being diverted in the early 1960s to irrigate cotton. Three pairs of bars show the result. Between 1960 and 1998 the sea’s area fell by 60%, from 100 to 40, and its volume by 80%, from 100 to 20. Salinity rose from about 10 to about 30 grams per litre by 1990. The exposed bed is now the Aralkum Desert." loading="lazy">
+  <figcaption>Diverting the two rivers for cotton shrank the sea and tripled its salinity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--07-em-aral-north-south.webp" width="900" height="1110" alt="Top: a side view of Dike Kokaral, 13 km long, completed in 2005. Behind it the North Aral water level rises 12 m, from 30 m to 42 m by 2008. Bottom: two lake outlines. The North Aral is full and marked as a success: salinity fell, almost 24 freshwater species returned and fish catches were exported. The South Aral is mostly dry and marked as a failure: its eastern basin dried out completely in 2014 because the Amu Darya is still used for irrigation. A local, affordable fix worked; a shared, economic cause did not." loading="lazy">
+  <figcaption>The dike revived the North Aral, but the South Aral still depends on irrigation from the Amu Darya.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving a case study without the syllabus's required parts. The 12.2 studies must cover demand, supply, production and **location**, plus an evaluation.
@@ -160,6 +194,12 @@ Spend most of your words on paragraphs 3-5. That is where AO4 evaluation marks s
 - Using numbers you are unsure of. A wrong statistic weakens an answer more than a well-explained general point.
 
 The other Advanced Human Geography Options are [Production, location and change](/resources/a-level-geography-9696-production-location-and-change/), [Global interdependence](/resources/a-level-geography-9696-global-interdependence/) and [Economic transition](/resources/a-level-geography-9696-economic-transition/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-environmental-management--03-em-three-gorges.webp" width="900" height="1190" alt="Side view of a dam. A reservoir up to 600 km long lies behind the wall; sediment collects on the reservoir floor and the slopes beside it are prone to landslides. Water passes through the dam to turbines, power lines carry electricity to distant cities and a ship lift passes boats. Below, a proportional bar shows 32 turbines of 700 MW and 2 of 50 MW adding up to 22,500 MW. Two figures give the costs: 1.13 to 1.4 million people displaced and construction cost of 203 billion yuan." loading="lazy">
+  <figcaption>Three Gorges: what the scheme is, where its benefits and costs fall, and how its 22,500 MW adds up.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

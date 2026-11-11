@@ -39,6 +39,12 @@ Drawing the polygons and histograms that come after this step is covered separat
 
 The words "class interval" are used in two ways. Sometimes they mean the class itself, such as 20-29. Sometimes they mean its width. Check which one the question wants. When the question says "width", it wants a number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--02-limits-to-boundaries.webp" width="900" height="880" alt="Classes 20-29, 30-39 and 40-49 are printed with a gap of 1 between 29 and 30. Moving each limit out by half the gap (0.5) makes the classes touch at boundaries 19.5, 29.5, 39.5 and 49.5." loading="lazy">
+  <figcaption>Boundaries remove the gaps between printed class limits by moving each limit out by half the gap.</figcaption>
+</figure>
+
+
 ## Three ways a class is written
 
 | Style | Example | Used for | Boundaries |
@@ -91,6 +97,12 @@ A class written as an inequality needs no adjustment. The numbers you see are th
 | Discrete count | Continuous measurement | A count is exact. A measurement was rounded when it was recorded. |
 | Mid-point | Class width divided by two | A mid-point is a position on the scale. A half-width is a distance. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--06-gaps-vs-touching-bars.webp" width="900" height="940" alt="Two histograms of the same illustrative table with classes 10-19 to 50-59. Bars drawn at the printed limits leave gaps; bars drawn at boundaries 9.5 to 59.5 touch." loading="lazy">
+  <figcaption>A histogram must use class boundaries so its bars are continuous.</figcaption>
+</figure>
+
+
 ## Choosing class intervals
 
 Classes have to follow some rules, whatever their width:
@@ -130,6 +142,22 @@ Ungrouped tables list each separate value. They suit counts with a small number 
 9. Boundaries show where one class stops and the next starts, so there is no gap. Widths and mid-points are found from them.
 10. Too many classes. With 12 values, most rows would hold one value or none, so the shape of the data would not show.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--01-ungrouped-vs-grouped.webp" width="900" height="1080" alt="Top: a tally table for sibling counts 0 to 5 in a class of 24, with frequencies 4, 8, 8, 2, 1, 1. Bottom: 30 different values between 0 and 99 shown as dots in five classes of width 20, with counts 5, 7, 7, 7, 4. Few distinct values suit tallying each value; a wide range needs classes." loading="lazy">
+  <figcaption>Few distinct values can be tallied one by one; a wide spread of values is grouped into classes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--03-midpoint-and-width.webp" width="900" height="900" alt="A bar from boundary 19.5 to boundary 29.5 stands for the class 20-29, with the limits 20 and 29 inside it. The midpoint is (19.5 + 29.5) / 2 = 24.5. The class width is 29.5 minus 19.5 = 10, not 29 minus 20 = 9." loading="lazy">
+  <figcaption>Midpoint and class width are found from the boundaries of 20-29: 24.5 and 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--05-choosing-class-intervals.webp" width="900" height="1140" alt="The same 80 illustrative values drawn with 2, 10 and 50 classes. Two wide classes hide the pattern, ten classes show two peaks, and fifty classes leave very small frequencies so the shape is hard to see." loading="lazy">
+  <figcaption>Too few classes over-simplify the data; too many leave tiny frequencies.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Calculating the width as upper limit minus lower limit, giving 4 instead of 5 for a class like 40-44.
@@ -140,6 +168,12 @@ Ungrouped tables list each separate value. They suit counts with a small number 
 - Giving a mid-point that is not between the boundaries, usually from an arithmetic slip. Do a quick look-back to check.
 - Saying "too many classes" or "too few" with no reference to the data.
 - Writing a class width for unequal classes as one value for the whole table.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--04-precision-half-gap.webp" width="900" height="940" alt="Two zoomed number lines. For whole numbers the gap between 29 and 30 is 1, so the half-gap is 0.5 and the boundary is 29.5. For one decimal place the gap between 29.9 and 30.0 is 0.1, so the half-gap is 0.05 and the boundary is 29.95." loading="lazy">
+  <figcaption>The half-gap adjustment is half of the last recorded decimal place: 0.5 for whole numbers, 0.05 for one decimal place.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

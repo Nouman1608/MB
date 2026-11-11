@@ -54,6 +54,12 @@ A survey usually follows this order:
 
 A **questionnaire** is the written set of questions. It may be completed by the respondent alone or read out by an interviewer. Each way of asking has a cost. An interviewer can explain a question but may influence the answer. A postal or online form is cheap but many people do not return it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--07-survey-steps.webp" width="900" height="920" alt="Six numbered steps joined by arrows: aim, population and sample, how to ask, write and pilot, collect and record non-response, process and interpret." loading="lazy">
+  <figcaption>A survey follows six steps from stating the aim to interpreting results.</figcaption>
+</figure>
+
+
 ## 2. Closed questions
 
 A **closed question** gives the respondent a fixed set of answers to choose from. Common forms:
@@ -104,6 +110,17 @@ Check the corrected list: every whole age from 0 upwards belongs to exactly one 
 
 Each percentage is (number ÷ 40) × 100. Members who were satisfied or very satisfied: 9 + 15 = 24, and 24/40 = 60%. This is a clean result because every answer is already in a category. It cannot tell you what is wrong with the changing rooms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--09-survey-bands.webp" width="900" height="920" alt="Faulty age options overlap at 25 and leave 41 to 44 uncovered; corrected options cover every whole age exactly once." loading="lazy">
+  <figcaption>Response options must be mutually exclusive and exhaustive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--10-survey-rating.webp" width="900" height="790" alt="Bar chart of 40 answers on a five-point scale with counts and percentages; 9 + 15 = 24 satisfied members is 60%." loading="lazy">
+  <figcaption>Closed answers are already in categories so they are easy to count and display.</figcaption>
+</figure>
+
+
 ## 3. Open questions
 
 An **open question** has no fixed answers. The respondent writes or says what they like, for example "What would you change about the school canteen?"
@@ -139,6 +156,12 @@ Working for prices: percentage = 7/24 × 100 = 29.2% (1 d.p.); angle = 7/24 × 3
 
 Coding loses information. The pupil who wrote "the chips are always cold and cost too much" is placed in one category only, or counted twice if you decide to allow that. State your rule before you count.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--11-survey-coding.webp" width="900" height="1050" alt="24 canteen answers sorted into five categories shown as dots, then drawn as a pie chart with angles 105, 90, 75, 45 and 45 degrees." loading="lazy">
+  <figcaption>Coding sorts open answers into categories that can then be counted and charted.</figcaption>
+</figure>
+
+
 ### Choosing between them
 
 | | Closed | Open |
@@ -150,6 +173,12 @@ Coding loses information. The pupil who wrote "the chips are always cold and cos
 | Comparing respondents | Easy | Harder |
 
 Many questionnaires use mostly closed questions with one or two open questions at the end, so that the closed questions give counts and the open ones give reasons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--08-survey-closed-open.webp" width="900" height="780" alt="A closed question (tick boxes, tallied) beside an open question (written answer, coded into categories) with advantages and drawbacks of each." loading="lazy">
+  <figcaption>Closed questions are quick to count but give little detail; open questions give detail but must be coded.</figcaption>
+</figure>
+
 
 ## 4. Writing good questions
 
@@ -191,6 +220,12 @@ The pilot lets you correct problems before you spend time and money on the full 
 
 Then the changed form is used in the main survey.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--12-survey-pilot.webp" width="900" height="780" alt="Three pilot findings and fixes: blank transport question leads to an Other option; sedentary leads to plain words; 20 minutes leads to cutting questions." loading="lazy">
+  <figcaption>A pilot tests the questionnaire so faults are fixed before the main survey.</figcaption>
+</figure>
+
+
 ## 6. Response and non-response
 
 Some people will not reply. The **response rate** is the number of usable replies divided by the number of people asked, as a percentage.
@@ -201,6 +236,12 @@ Some people will not reply. The **response rate** is the number of usable replie
 - Response rate = 176/320 × 100 = 55%
 
 A low response rate is a problem when the people who did not reply differ from those who did. This is **non-response bias**. Reminders, a shorter form, and a prepaid return envelope can raise the rate. A larger sample does not remove bias caused by bad questions or non-response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed--13-survey-response.webp" width="900" height="920" alt="A bar of 320 forms: 176 usable, 8 spoiled, 136 not returned, giving a response rate of 55%." loading="lazy">
+  <figcaption>Response rate is usable replies divided by people asked, as a percentage.</figcaption>
+</figure>
+
 
 ## Common errors
 

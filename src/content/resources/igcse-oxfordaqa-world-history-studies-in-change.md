@@ -71,6 +71,22 @@ exam asks for it. Both sections test explanation of why change
 happened and how significant it was, not just description of what
 changed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-studies-in-change--16-sic-society-timelines.webp" width="900" height="860" alt="Three horizontal bars on a shared year axis from 1914 to 1968 show the Section A periods: Germany 1919 to 1949, Russia and the USSR 1914 to 1953, USA 1920 to 1968. Below, an example timeline has three diamonds labelled regime change, war and economic crisis at illustrative positions. A banner says to mark at least three or four genuine turning points." loading="lazy">
+  <figcaption>Revise a society as a chain of turning points, such as regime change, war or economic crisis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-studies-in-change--17-sic-thematic-pins.webp" width="900" height="820" alt="Two timelines from c800 to present day. The top, marked not this, shows many equal bars covering the whole period evenly. The bottom, marked this, shows five pins at illustrative positions spread across the period: a small set of well-chosen turning points across the eras." loading="lazy">
+  <figcaption>Prepare a few well-evidenced turning points across the eras rather than the whole timeframe evenly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-studies-in-change--19-sic-weak-strong.webp" width="900" height="1130" alt="A weak answer is four numbered steps in chronological order with the factor named only in passing. A strong answer starts with the named factor, for example war, assessing its contribution to specific developments such as blood transfusion and plastic surgery, weighs it against at least one other cause, and ends in a supported judgement on how far." loading="lazy">
+  <figcaption>A strong answer is organised around the factor, weighs another cause and reaches a judgement.</figcaption>
+</figure>
+
+
 ## Assessment at a glance
 
 Paper 2 is a 1 hour 45 minute written exam worth 60 marks, 50% of the
@@ -88,6 +104,12 @@ treat the official specimen assessment materials as the primary source
 of question style until live past papers become available after the
 first examination series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-studies-in-change--15-sic-equal-papers.webp" width="900" height="1170" alt="A circle split in two halves, 50 percent each: Paper 1 International Relations Depth Studies and Paper 2 Studies in Change, each 1 hour 45 minutes and 60 marks. A banner says to balance revision evenly. A short timeline shows first teaching in September 2026 and first exams in May/June 2028, with a note that there are no live past papers yet, so use the specimen materials." loading="lazy">
+  <figcaption>Both papers carry equal weight, and with no live past papers yet, specimen materials guide question style.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Treating a Section A society-in-change option as a list of separate
@@ -103,6 +125,12 @@ setbacks and periods of slow progress are as significant as
 breakthroughs.
 
 Because this is a brand-new qualification, candidates should also avoid assuming its content or question style will exactly mirror an older, more established specification's approach to similar historical periods -- OxfordAQA's own materials, not general historical revision guides written for other boards, are the safest source for expected question phrasing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-studies-in-change--18-sic-change-not-progress.webp" width="900" height="890" alt="An illustrative line graph of progress over time. The line rises, labelled breakthrough, flattens in a period of slow progress, dips at a setback, then rises again. A banner says change is not always positive or linear. The graph is a sketch, not data." loading="lazy">
+  <figcaption>Change is not always positive or linear: slow periods and setbacks matter as much as breakthroughs.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -168,3 +196,9 @@ OxfordAQA International GCSE History (9245) specification, current
 version, "Assessment" section (Paper 2 – Studies in Change) —
 [oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-gcse-history/),
 full specification PDF linked from that page.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-studies-in-change--14-sic-paper-layout.webp" width="900" height="770" alt="A clock shows 1 hour 45 minutes, 60 marks, 50 percent of the qualification. Two cards: Section A, Societies in change, choose 1 of 3: Life in Germany 1919 to 1949, Life in Russia and the USSR 1914 to 1953, Life in the USA 1920 to 1968. Section B, Thematic studies, choose 1 of 2: Technology and change, or Medicine and change, both c800 to present day." loading="lazy">
+  <figcaption>Paper 2: one society-in-change option and one thematic study, 60 marks in 1 hour 45 minutes.</figcaption>
+</figure>
+

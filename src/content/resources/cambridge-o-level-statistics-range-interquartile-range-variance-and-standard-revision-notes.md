@@ -38,6 +38,12 @@ Related pages: the [Cambridge O Level Statistics course page](/boards/cambridge/
 - **Variance:** the mean of the squared distances from the mean.
 - **Standard deviation:** the square root of the variance, in the same units as the data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--15-d-variance-squares.webp" width="900" height="890" alt="Eight squares whose areas are the squared distances from the mean 13.5. Their total area is 98, giving variance 12.25 square seconds and standard deviation 3.5 seconds." loading="lazy">
+  <figcaption>Variance is the mean of the squared distances; the standard deviation is its root.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Item | Set of numbers | Frequency table (ungrouped or grouped) |
@@ -88,6 +94,17 @@ In a grouped table, x is the class midpoint. Here the divisor is n (or Σf). If 
 2. Find the positions n/4 and 3n/4.
 3. In the class containing the position: lower boundary + (position − cumulative before)/(class frequency) × class width.
 4. Subtract.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--14-d-quartile-halves.webp" width="900" height="790" alt="Two rows of ordered marks show the halves method. With eleven marks Q1 = 34, median 41, Q3 = 47, IQR 13. Removing 28 gives ten marks with Q1 = 38, median 42, Q3 = 47, IQR 9." loading="lazy">
+  <figcaption>Split at the median; with odd n the median belongs to neither half.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--16-d-goals-ungrouped.webp" width="900" height="920" alt="A bar chart of goals per match over 40 matches with mean 2.175, and a strip of the 40 matches in order. The 10th and 11th values are both 1 so Q1 = 1; the 30th and 31st are both 3 so Q3 = 3." loading="lazy">
+  <figcaption>Locate quartiles by position in the ordered list of frequencies.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -151,6 +168,22 @@ In a grouped table, x is the class midpoint. Here the divisor is n (or Σf). If 
 8. √2.25 = **1.5**.
 9. The **IQR**.
 10. **Team A**. Its standard deviation is smaller, so its scores are closer to the mean.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--13-d-same-mean.webp" width="900" height="1010" alt="Dot plots of two classes with the same mean mark 61, and bars comparing range (30 and 63), interquartile range (11 and 18) and standard deviation (8.38 and 16.2). Class P is more consistent." loading="lazy">
+  <figcaption>Same mean, very different spread: compare matching measures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--17-d-grouped-midpoints.webp" width="900" height="920" alt="A histogram of 50 queue times with class midpoints 15, 25, 40, 55 and 70 marked. Using midpoints the mean is 36.4, standard deviation 14.0, Q1 about 24.6, Q3 about 47.5 and IQR about 22.9, all estimates." loading="lazy">
+  <figcaption>Treat every value in a class as sitting at the midpoint; answers are estimates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard--18-d-outlier.webp" width="900" height="910" alt="The highest of eleven marks changes from 60 to 100. The range goes from 32 to 72 and the standard deviation from 8.87 to 18.56, but the IQR stays at 13." loading="lazy">
+  <figcaption>With outliers or skew, the IQR with the median is the safer measure.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

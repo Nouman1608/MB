@@ -82,6 +82,12 @@ This option no longer includes a China and Japan topic — that content
 was part of the previous (2026-series) syllabus and has been dropped
 from the 2027-2029 series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-international-1870-1945--01-wh-int-rotation.webp" width="900" height="732" alt="A grid of the three International Option topics against 2027, 2028 and 2029. Gold cells mark the year a topic is on Paper 1 (Historical Sources); teal cells mark Paper 2 (Outline Study). Each topic is Paper 1 exactly once." loading="lazy">
+  <figcaption>Each topic is on Paper 1 once in three years and on Paper 2 in the other two.</figcaption>
+</figure>
+
+
 ## Section 7: Imperialism and the emergence of world powers, c.1870–1918
 
 This topic opens with the causes of "New Imperialism": the economic
@@ -99,6 +105,17 @@ role in the First World War; and the **USA**, through the closing of
 its frontier, economic growth driving a need for overseas trade, the
 Spanish–American War (1898), and its eventual entry into the First
 World War.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-international-1870-1945--02-wh-int-new-imperialism.webp" width="900" height="1096" alt="A three-stage chain. Causes: economic motives, political motives, and support or opposition in Britain, France and Germany. Impact: disputes with China including the Boxer Rebellion, Anglo-German tension over South Africa, and the Berlin Conference of 1884-85. Result: Japan and the USA emerge as new world powers." loading="lazy">
+  <figcaption>Section 7 runs from causes of New Imperialism, through its impact on international relations, to the emergence of Japan and the USA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-international-1870-1945--03-wh-int-japan-usa-dates.webp" width="900" height="1175" alt="A vertical timeline in three lanes. Europe: Berlin Conference 1884-85. Japan: victory over China 1894-95, treaty with Britain 1902, victory over Russia 1905. USA: Spanish-American War 1898. Undated items are listed beneath." loading="lazy">
+  <figcaption>Dated events in the rise of Japan and the USA, plotted to scale from 1880 to 1910.</figcaption>
+</figure>
+
 
 ## Section 8: International relations, 1919–29: conflict and cooperation
 
@@ -118,6 +135,17 @@ and structure, its use of collective security in disputes such as the
 Aaland Islands, Vilna and Upper Silesia, its weaknesses, and the role
 of its Agencies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-international-1870-1945--04-wh-int-1919-29-phases.webp" width="900" height="1130" alt="Three bands: 1919-20 peace settlements (Versailles, Trianon, Neuilly, Saint Germain, Sevres, reparations); 1920-23 tension stays high (Ruhr Crisis, Corfu Incident, German hyperinflation, despite Washington, Genoa, Rapallo and Lausanne); 1924-29 relations improve (Dawes Plan, Locarno Treaties, Kellogg-Briand Pact, Young Plan)." loading="lazy">
+  <figcaption>The decade moves from peace settlements to high tension and then to improving relations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-international-1870-1945--05-wh-int-league-assess.webp" width="900" height="940" alt="A hub with the League of Nations at the centre and five numbered spokes: aims, membership and structure, collective security, weaknesses, agencies. Collective security links to the Aaland Islands, Vilna and Upper Silesia disputes." loading="lazy">
+  <figcaption>The League is assessed through its aims, membership and structure, collective security, weaknesses and agencies.</figcaption>
+</figure>
+
+
 ## Section 9: International history, 1929–39: the rise of extremism and the road to war
 
 Where Section 8 tracks relative stabilisation, Section 9 tracks its collapse. The
@@ -135,6 +163,12 @@ USSR, running through the Rhineland, the Anschluss and the Munich
 Crisis over Czechoslovakia. The topic closes on the outbreak of war in
 1939: British rearmament, the guarantee to Poland, the reasons for the
 Nazi–Soviet Pact, and the invasion of Poland itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-international-1870-1945--06-wh-int-road-to-war.webp" width="900" height="994" alt="A staircase of six steps: rearmament, Rhineland 1936, Anschluss 1938, Sudetenland crisis 1938, Czechoslovakia 1939, Poland 1939. Rhineland, Anschluss and Munich Crisis are marked as the run of appeasement. The outbreak of war in 1939 caps the staircase." loading="lazy">
+  <figcaption>Hitler’s expansionist moves in the order the lesson lists them, with the appeasement policy marked.</figcaption>
+</figure>
+
 
 ## How to approach it
 

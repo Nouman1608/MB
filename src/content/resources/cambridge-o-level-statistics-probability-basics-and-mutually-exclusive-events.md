@@ -61,6 +61,12 @@ Letters: S S S T T T A I I C   so n(S) = 10
 
 Notice that the sample space has ten outcomes because each letter counts separately, not five outcomes (S, T, A, I, C would not be equally likely).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--01-p1-sample-space.webp" width="900" height="710" alt="Ten tiles show the letters of STATISTICS. Events (a) T, (b) a vowel, (c) S or I and (d) not C are highlighted with probabilities 3/10, 3/10, 1/2 and 9/10. A note says the five distinct letters are not equally likely." loading="lazy">
+  <figcaption>Counting each letter as its own outcome gives 10 equally likely outcomes.</figcaption>
+</figure>
+
+
 ## Relative frequency
 
 When outcomes are not equally likely, or cannot be listed, estimate the probability by experiment:
@@ -83,6 +89,12 @@ More trials usually give a more reliable estimate. The relative frequency tends 
 (b) In 500 drops, how many would you expect to land point up? Expected number = probability × number of trials = 0.62 × 500 = **310**.
 
 An expected number is an average over many repeats. It does not mean exactly 310 will happen in any one set of 500 drops.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--02-p1-relative-frequency.webp" width="900" height="820" alt="A line graph of relative frequency for a drawing pin landing point up: 0.55 after 20 trials, 0.58 after 50, 0.59 after 100 and 0.62 after 200. The best estimate is 0.62, and in 500 drops about 310 are expected, as an average rather than a guarantee." loading="lazy">
+  <figcaption>Relative frequency tends to settle near the true probability as trials increase.</figcaption>
+</figure>
+
 
 ## The complement
 
@@ -108,6 +120,12 @@ Difference table (rows: first die, columns: second die)
 There are 16 equally likely outcomes. Zeros appear 4 times, so (a) P(0) = 4/16 = **1/4**.
 
 For (b), differences of 2 or 3 occur 4 + 2 = 6 times, so P = 6/16 = **3/8**. Check with the complement: differences 0 or 1 occur 4 + 6 = 10 times, and 1 − 10/16 = 6/16.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--03-p1-difference-table.webp" width="900" height="920" alt="A 4 by 4 table of the difference between two tetrahedral dice, coloured by difference. There are 16 outcomes: 4 zeros, 6 ones, 4 twos and 2 threes, giving P(0) = 1/4 and P(at least 2) = 3/8, checked with the complement." loading="lazy">
+  <figcaption>Listing the sample space in a table makes the counts and the complement check visible.</figcaption>
+</figure>
+
 
 ## Mutually exclusive events
 
@@ -142,6 +160,12 @@ Probabilities sum to 1:  0.25 + x + 2x + 0.15 = 1
 P(2 or 3) = x + 2x = 3x = 0.6
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--04-p1-mutually-exclusive.webp" width="900" height="790" alt="A bar of 200 staff split into bus 90, car 60, walk 36 and cycle 14. Highlighting bus and cycle shows P(bus or cycle) = 13/25 by adding; highlighting all but car shows P(not car) = 7/10." loading="lazy">
+  <figcaption>Mutually exclusive events share no outcomes, so their probabilities add.</figcaption>
+</figure>
+
+
 ## The addition rule for any two events
 
 When events can overlap, adding P(A) and P(B) counts the overlap twice. Subtract it once:
@@ -174,6 +198,12 @@ Check by rule: 28/50 + 19/50 − 9/50 = 38/50
 P(neither)           = 12/50 = 6/25
 P(exactly one)       = (19 + 10)/50 = 29/50
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--05-p1-venn.webp" width="900" height="1060" alt="A Venn diagram of 50 pupils built in four steps from the overlap outwards: both 9, French only 19, Spanish only 10, neither 12. P(French or Spanish) is 38/50 = 19/25, matching 28/50 + 19/50 - 9/50." loading="lazy">
+  <figcaption>Start with the intersection, then work outwards.</figcaption>
+</figure>
+
 
 ### Two-way tables
 
@@ -216,6 +246,12 @@ P(at least one) = 1 − P(none) = 1 − 0.81 = 0.19
 ```
 
 The four path probabilities add to 1, which is a useful check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events--06-p1-tree.webp" width="900" height="970" alt="A two-stage tree for a sensor faulty with probability 0.1 on each test. The four path probabilities are 0.01, 0.09, 0.09 and 0.81. Exactly one faulty is 0.18 by adding two paths and at least one is 0.19 by the complement." loading="lazy">
+  <figcaption>Multiply along a path and add the paths that fit the event.</figcaption>
+</figure>
+
 
 ## Common errors
 

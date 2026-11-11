@@ -72,6 +72,12 @@ from their reading of fiction to inspire and influence their own
 imaginative writing, including developing planning and proofreading
 skills
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-2--12-component2-sections.webp" width="900" height="800" alt="Two panels. Section A: 45 minutes, 30 marks, one essay on a poem or prose text from Part 2 of the anthology, supplied in the exam, assessed on AO1 and AO2. Section B: 45 minutes, 30 marks, one imaginative writing task chosen from three prompts, assessed on AO4 and AO5." loading="lazy">
+  <figcaption>Each Component 2 section is 45 minutes and 30 marks.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because Section A's question is set on a specific poem or prose text
@@ -94,6 +100,12 @@ spend proportionate time planning the imaginative writing task (a brief
 outline of structure and ending) before drafting, since AO4's
 requirement to adapt form, tone and register for a specific purpose is
 difficult to achieve in unplanned, first-draft prose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-2--14-plan-draft-check.webp" width="900" height="900" alt="A three-step flow: plan with a brief outline and a decided ending, draft using techniques noticed in reading, then proofread spelling, grammar, punctuation and paragraphs. A note warns that without a plan writing drifts with no clear structure or ending." loading="lazy">
+  <figcaption>Plan the structure and ending before drafting, then proofread.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -131,6 +143,17 @@ for when it says students should use what they have learned about the
 writer's craft to influence their own imaginative writing -- a
 technique consciously borrowed and adapted, not just similar writing
 produced by coincidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-2--11-component2-weighting.webp" width="900" height="720" alt="A bar for the whole qualification. Component 1 is 60 per cent. Component 2 is 40 per cent, split evenly into 20 per cent reading and 20 per cent writing. Component 3 is the non-exam alternative covering the same content." loading="lazy">
+  <figcaption>Component 2 is 40% of the qualification, split evenly between reading and writing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-2--13-technique-transfer.webp" width="900" height="800" alt="A studied story builds tension with short, fragmented sentences at its climax. An arrow labelled borrow leads to a candidate’s own writing, where four short sentences are used on purpose at a turning point: The door creaked. Footsteps. Closer. She froze. They have 3, 1, 1 and 2 words." loading="lazy">
+  <figcaption>A technique noticed in reading is deliberately borrowed in your own writing.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

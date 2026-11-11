@@ -88,6 +88,22 @@ The **water balance** is P = Q + E ± ΔS: precipitation equals runoff plus evap
 
 **Changes over time.** Natural changes include storm events and seasonal patterns. Human impacts include farming practices (ploughing downslope, soil compaction by livestock and machinery, field drains, irrigation), land use change (deforestation, urbanisation) and water abstraction. Abstraction lowers groundwater stores and can reduce baseflow in dry seasons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth--14-wc-basin.webp" width="900" height="1040" alt="A schematic cross-section of a drainage basin with a hillside sloping to a river, a tree, a soil layer and rock below with a groundwater store. Numbered arrows show: 1 precipitation (input) from a cloud, 2 interception by the tree, 3 infiltration into the soil, 4 percolation into rock, 5 overland flow across the surface, 6 throughflow in the soil, 7 groundwater flow towards the river, 8 runoff along the channel (output) and 9 evapotranspiration upward (output). The water balance equation is P = Q + E plus or minus change in storage, where P is precipitation, Q runoff and E evapotranspiration." loading="lazy">
+  <figcaption>A drainage basin as an open system: precipitation in; interception, infiltration, percolation, overland flow, throughflow, groundwater flow; evapotranspiration and runoff out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth--15-wc-hydrograph.webp" width="900" height="860" alt="A storm hydrograph. Rainfall bars at the top peak at one moment. Below, discharge against time shows two rivers responding to the same storm. The flashy river, solid line, rises quickly along a steep rising limb to a high peak discharge after a short lag time, then falls along a falling limb; the shaded area above the dashed baseflow line is stormflow. The subdued river, dashed line, has a longer lag time and a much lower, flatter peak. Lag time is measured from peak rainfall to peak discharge. Values are illustrative." loading="lazy">
+  <figcaption>A flashy and a subdued storm hydrograph with rising limb, peak discharge, falling limb, baseflow, stormflow and lag time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth--16-wc-water-stores.webp" width="900" height="780" alt="A horizontal bar chart on a logarithmic scale of the share of Earth's water in four stores: oceans 96.5 percent, ice caps, glaciers and permanent snow 1.74 percent, groundwater 1.69 percent and the atmosphere 0.001 percent. The atmosphere is the smallest store but moves water fastest." loading="lazy">
+  <figcaption>Oceans hold about 96.5% of Earth's water; ice 1.74%, groundwater 1.69% and the atmosphere about 0.001%.</figcaption>
+</figure>
+
+
 ## 3.3.1.3 The carbon cycle
 
 **Global stores** (year 2000 estimates quoted on the Wikipedia carbon cycle page, in gigatonnes of carbon, GtC):
@@ -118,6 +134,17 @@ The cryosphere also stores carbon, mainly as frozen organic matter in permafrost
 
 **The carbon budget** compares carbon entering and leaving each store. The Global Carbon Project projected 2018 fossil emissions at 37.1 billion tonnes of carbon dioxide, about 10.1 GtC. Somewhat under half of human emissions stays in the atmosphere; oceans and land take up the rest. Atmospheric carbon dioxide at Mauna Loa rose from an annual mean of 315.98 ppm in 1959 to 421.08 ppm in 2023, compared with about 280 ppm before industrialisation. Effects include an enhanced greenhouse effect and warming (atmosphere), ocean acidification (ocean) and changes to plant growth and soil carbon (land).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth--17-wc-carbon-stores.webp" width="900" height="960" alt="A horizontal bar chart on a logarithmic scale of global carbon stores in gigatonnes of carbon: sedimentary carbonates more than 60,000,000, kerogens about 15,000,000, oceans about 38,400, fossil fuels about 4,130, soils about 1,500, living biomass about 600 to 1,000 and the atmosphere about 720 in 2000. A gold arrow from fossil fuels to the atmosphere shows that burning fossil fuels moves carbon from a slow store to a fast one." loading="lazy">
+  <figcaption>Global carbon stores differ by orders of magnitude; burning fossil fuels moves carbon from a slow store to a fast one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth--18-wc-co2-rise.webp" width="900" height="920" alt="Three bars of atmospheric carbon dioxide in parts per million: about 280 before industrialisation, 315.98 in 1959 and 421.08 in 2023, with a dashed line at 280 and a gold arrow showing a rise of about 141 ppm. Below are unit conversions: 421 ppm times 2.12 gigatonnes of carbon per ppm is about 893 GtC; multiply GtC by 44 over 12 to get gigatonnes of carbon dioxide; 2018 fossil emissions of 37.1 gigatonnes of carbon dioxide are about 10.1 GtC. The bars are not drawn to a time scale." loading="lazy">
+  <figcaption>Atmospheric carbon dioxide rose from about 280 ppm before industrialisation to 421.08 ppm in 2023; conversions between ppm, GtC and Gt CO2.</figcaption>
+</figure>
+
+
 ## 3.3.1.4 Water, carbon, climate and life on Earth
 
 Carbon is the basis of all organic molecules, and liquid water is needed by every living cell. Water vapour and carbon dioxide are both greenhouse gases. Without the natural greenhouse effect, Earth's mean surface temperature would be about −18 °C rather than about 15 °C.
@@ -140,6 +167,12 @@ Implications for life include shifting rainfall belts, drought, flood risk and c
 
 Evaluate each by scale, cost and permanence. Trees store carbon only while they survive; carbon capture and storage works at single sites but is small next to global emissions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth--19-wc-feedbacks.webp" width="900" height="820" alt="Two loops of four boxes joined by arrows. The positive feedback loop, in red with a plus sign, reads: warmer, less ice, lower albedo, more heat absorbed, and back to warmer, so the change is amplified. The negative feedback loop, in teal with a minus sign, reads: higher carbon dioxide, more photosynthesis, more carbon dioxide taken up, carbon dioxide level falls, so balance is restored." loading="lazy">
+  <figcaption>The ice-albedo feedback amplifies warming (positive); carbon dioxide fertilisation helps restore balance (negative).</figcaption>
+</figure>
+
+
 ## 3.3.1.5 Quantitative skills
 
 **Unit conversions.**
@@ -151,6 +184,12 @@ Evaluate each by scale, cost and permanence. Trees store carbon only while they 
 **Simple mass balance.** Change in store = inputs − outputs. A fictional glacier gaining 2.4 million m³ water equivalent from accumulation and losing 3.1 million m³ to ablation has a balance of −0.7 million m³, so it is shrinking.
 
 **Field data.** Catchment fieldwork often measures infiltration and river discharge (cross-sectional area x velocity). Use bar charts to compare sites, scatter graphs for relationships and hydrographs for discharge over time; analyse with means and ranges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth--20-wc-calcs.webp" width="900" height="1040" alt="Top: a five by five grid of squares, each one square kilometre. One millimetre of rain on one square kilometre is 1,000 cubic metres, so 30 mm of rain on a fictional 25 square kilometre catchment is 30 times 25 times 1,000, which is 750,000 cubic metres. Bottom: a fictional glacier gains 2.4 million cubic metres of water equivalent by accumulation and loses 3.1 million by ablation, so its balance is minus 0.7 million cubic metres and it is shrinking." loading="lazy">
+  <figcaption>Converting rainfall depth to volume (30 mm on 25 km2 = 750,000 m3) and a glacier mass balance (2.4 - 3.1 = -0.7).</figcaption>
+</figure>
+
 
 ## 3.3.1.6 Case studies
 

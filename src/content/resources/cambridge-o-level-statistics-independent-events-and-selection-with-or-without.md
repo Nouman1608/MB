@@ -61,6 +61,12 @@ You also need the addition rule for "or" when the events are not mutually exclus
 P(A or B) = P(A) + P(B) − P(A and B)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--14-multiplication-addition-square.webp" width="900" height="890" alt="A square split by independent events A (0.4) and B (0.3). A and B is 0.12, B only 0.18, A only 0.28 and neither 0.42. A or B = 0.4 + 0.3 - 0.12 = 0.58 and 0.58 + 0.42 = 1." loading="lazy">
+  <figcaption>The multiplication rule gives each region of the square; the addition rule gives A or B.</figcaption>
+</figure>
+
+
 ### Worked example 1
 
 Events A and B are independent, with P(A) = 0.4 and P(B) = 0.3. Find P(A and B), P(A or B) and the probability that neither happens.
@@ -78,6 +84,12 @@ Notice that "not A" and "not B" are also independent. If A and B are independent
 ### Testing for independence
 
 To test whether two events are independent, work out P(A), P(B) and P(A and B) from the data, then check whether P(A) × P(B) equals P(A and B). State your conclusion in words.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--13-independence-test.webp" width="900" height="1030" alt="Area models of 80 pupils. P(French) x P(Art) = 0.4 x 0.25 = 0.1 is a dashed box. With 8 studying both, P(both) = 0.1 fills it exactly, so the events are independent. With 12, P(both) = 0.15 overflows it, so they are not independent." loading="lazy">
+  <figcaption>Events are independent when P(A) x P(B) equals P(A and B).</figcaption>
+</figure>
+
 
 ### Worked example 2
 
@@ -107,6 +119,12 @@ A pupil is late on any day with probability 0.1, independently from day to day. 
 ```
 
 Two habits help here. First, list the different orders in which "exactly once" can happen, and add them. Second, for "at least one", use 1 − P(none).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--15-late-three-days.webp" width="900" height="1000" alt="Never late is 0.9 x 0.9 x 0.9 = 0.729. Exactly once has three orders LOO, OLO, OOL, each 0.081, total 0.243. At least once is 1 - 0.729 = 0.271, which also includes twice or three times (0.028)." loading="lazy">
+  <figcaption>List the orders for exactly once, and use 1 minus P(none) for at least once.</figcaption>
+</figure>
+
 
 ## Selection with replacement
 
@@ -162,6 +180,17 @@ A bag holds 5 red, 3 blue and 2 yellow counters (10 in all). Two counters are pi
 
 The probability of matching is lower without replacement. Once you take out one colour, there are fewer of it left to match. So the probability of two different colours without replacement is 1 − 14/45 = 31/45.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--16-with-without-replacement.webp" width="900" height="920" alt="A bag with 5 red, 3 blue and 2 yellow counters. With replacement the second pick is from 10 counters, P(RR) = 5/10 x 5/10. Without replacement the red stays out, leaving 9 counters, P(RR) = 5/10 x 4/9. Matching colours: 0.38 with, about 0.311 without." loading="lazy">
+  <figcaption>Without replacement the bag shrinks, so the second-pick probabilities change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--17-tree-without-replacement.webp" width="900" height="1010" alt="Tree for two picks without replacement from 5 red, 3 blue and 2 yellow. The nine paths have probabilities 20, 15, 10, 15, 6, 6, 10, 6 and 2 over 90. The same-colour paths RR, BB and YY add to 28/90 = 14/45." loading="lazy">
+  <figcaption>Multiply along branches and add the paths that give the outcome you want.</figcaption>
+</figure>
+
+
 ### Worked example 5: three picks without replacement
 
 A box holds 12 fuses, of which 4 are faulty. Three fuses are picked at random without replacement. Find the probability that (a) exactly one is faulty, (b) at least one is faulty.
@@ -180,6 +209,12 @@ Order O, O, F: 8/12 × 7/11 × 4/10 = 224/1320
 ```
 
 All three orders give the same product because the same numbers appear in the numerators and denominators, only in a different order. You may use this to save time, but show that you have counted the three orders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--18-three-fuses.webp" width="900" height="950" alt="Of 12 fuses, 4 are faulty. Exactly one faulty has three orders, each 224/1320, giving 28/55. None faulty is 14/55, so at least one is 41/55; the rest, 13/55, is two or three faulty." loading="lazy">
+  <figcaption>Count every order for exactly one, and use 1 minus P(none) for at least one.</figcaption>
+</figure>
+
 
 ### Worked example 6: waiting for the first success
 
@@ -203,6 +238,12 @@ P(all three red)       = 4/10 × 3/10 = 12/100 = 3/25 = 0.12
 ```
 
 This is a common pattern in probability questions: independence between separate sources, and dependence inside a single source when there is no replacement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--19-two-bags.webp" width="900" height="750" alt="Bag A (4 red, 6 white) gives red with 4/10. Bag B (3 red, 2 white) gives two reds without replacement with 3/5 x 2/4 = 3/10. The bags are independent but picks within bag B are dependent, so all three red is 4/10 x 3/10 = 3/25." loading="lazy">
+  <figcaption>Separate sources are independent; picks within one source without replacement are dependent.</figcaption>
+</figure>
+
 
 ## How to choose your method
 

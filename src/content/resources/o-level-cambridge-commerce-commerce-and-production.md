@@ -94,6 +94,12 @@ It divides into two branches:
 - **Trade** — the buying and selling of goods, split into home trade (wholesale and retail) and foreign trade (import, export and entrepot).
 - **Aids to trade** — the services without which trade could not happen: banking, transport, communication, insurance, warehousing and advertising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--08-cp-commerce-branches.webp" width="900" height="880" alt="Commerce splits into Trade (home trade: wholesale and retail; foreign trade: import, export, entrepot) and Aids to trade (banking, transport, communication, insurance, warehousing, advertising)." loading="lazy">
+  <figcaption>Commerce has two branches: trade and aids to trade.</figcaption>
+</figure>
+
+
 ## The chain of production
 
 | Sector | What happens | Examples |
@@ -105,6 +111,12 @@ It divides into two branches:
 
 This is a closed, four-sector list. Each of the first three sectors leaves the product still unusable to the consumer in some respect. Primary output is in the wrong **form**, secondary output is in the wrong **place** and often available at the wrong **time**. Tertiary production closes those gaps, which is why commercial services sit within the tertiary sector; the syllabus adds quaternary (digital technology) as a genuinely separate fourth sector.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--09-cp-four-sectors.webp" width="900" height="1040" alt="Four stacked sectors with examples: primary (mining etc.), secondary (manufacturing etc.), tertiary (commercial and direct services) and quaternary (digital technology), with the gaps each leaves." loading="lazy">
+  <figcaption>Four sectors of production, each leaving a gap the next closes.</figcaption>
+</figure>
+
+
 ## Utility
 
 Utility is the ability of a good to satisfy a want, and commerce creates three kinds:
@@ -112,6 +124,12 @@ Utility is the ability of a good to satisfy a want, and commerce creates three k
 - **Form utility** — changing a product so it becomes more useful, as when timber becomes furniture.
 - **Place utility** — moving goods to where the consumer can reach them, from a distant factory to a local shop.
 - **Time utility** — making goods available when they are wanted, which is what warehousing achieves by storing seasonal output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--10-cp-cotton-utility.webp" width="900" height="960" alt="Five rows: farmer (primary), mill (secondary, form utility), wholesaler (tertiary, time utility), transport (tertiary, place utility), retailer (tertiary, completes the chain)." loading="lazy">
+  <figcaption>Naming the utility as well as the stage earns extra marks.</figcaption>
+</figure>
+
 
 ## Specialisation and interdependence
 
@@ -126,6 +144,12 @@ The syllabus requires the advantages and disadvantages of specialisation in thre
 | Country | Efficient use of resources; goods for export | Over-dependence on trade and on imports |
 
 **The logical chain worth stating explicitly** in an extended answer: specialisation, at the individual, factory or country level, increases output, quality or efficiency, but it also means an individual, factory or country produces far more of one thing and far less of everything else it needs — creating **interdependence**. Interdependence, in turn, is exactly what makes **exchange** necessary, and commerce (trade plus its aids) is the mechanism that makes exchange possible across distance and time. Tracing this chain explicitly — specialisation → interdependence → the necessity of commerce — earns more than treating specialisation and commerce as two separate topics that happen to sit in the same syllabus section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--11-cp-specialisation.webp" width="900" height="1030" alt="An individual, a factory and a country each concentrate on one thing, giving more output but far less of everything else. This causes interdependence, makes exchange necessary, and commerce makes exchange possible." loading="lazy">
+  <figcaption>Specialisation leads to interdependence, which makes commerce necessary.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -153,6 +177,12 @@ A **global supply chain** sources materials, components or services from other c
 
 Home trade: the **wholesaler** and the **retailer**. International trade adds the **agent** (acts on behalf of a buyer or seller without taking ownership of the goods) and the **factor** (takes possession of goods on consignment and sells them on the owner's behalf for a commission).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--12-cp-intermediaries.webp" width="900" height="930" alt="Home trade chain: producer, wholesaler, retailer, consumer. International trade adds an agent or factor. Agent acts for buyer or seller without owning goods; factor holds goods on consignment and sells for commission." loading="lazy">
+  <figcaption>The agent and the factor are the extra intermediaries in international trade.</figcaption>
+</figure>
+
+
 ## Effects of digital technology on production
 
 **Automation**, e.g. robotics in production, and digital communication with suppliers, e.g. **electronic data interchange (EDI)**.
@@ -162,6 +192,17 @@ Home trade: the **wholesaler** and the **retailer**. International trade adds th
 Ten named types: advertising, bank charges, commission, customs duties, inventory, labour, packaging, transport, utilities and warehousing. Practise simple calculations from given figures — e.g. transport $1,200 + customs duties $80 + packaging $40 = **$1,320** total cost.
 
 *Balance of Trade worked example (goods only):* exports $650m, imports $710m. Balance of Trade = $650m − $710m = **−$60m, a deficit**. Balance of Payments would add services and financial flows to this goods-only figure — the two must not be confused.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--13-cp-costs.webp" width="900" height="1040" alt="Ten cost tiles then a bar worked example: transport $1,200 plus customs duties $80 plus packaging $40 equals $1,320." loading="lazy">
+  <figcaption>Add the named costs to find the total cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--14-cp-balance-of-trade.webp" width="900" height="910" alt="Bars show exports $650m and imports $710m. Balance of Trade is 650 minus 710 = minus 60, a deficit. It covers goods only." loading="lazy">
+  <figcaption>Exports of $650m and imports of $710m give a deficit of $60m.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

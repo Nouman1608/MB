@@ -51,12 +51,29 @@ They cover Topic 3.5 Energy from the Cambridge IGCSE Geography (0460) syllabus f
 | Intermittent | Not available all the time (solar at night, wind on calm days) |
 | Energy security | A reliable, affordable supply not dependent on one source or supplier |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--07-en-stock-flow.webp" width="900" height="780" alt="Two tanks. The left tank has a falling liquid level and no inflow, labelled stock, used up: coal, oil, natural gas and uranium. The right tank is kept full by a pipe flowing in and another flowing out, labelled flow, replaced: wind, sunlight, moving water and the Earth’s heat. A warning box says nuclear power is low-carbon but uranium is a non-renewable stock." loading="lazy">
+  <figcaption>Non-renewable energy comes from a stock that is used up; renewable energy comes from a flow that is naturally replaced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--09-en-nuclear.webp" width="900" height="750" alt="Four numbered boxes joined by arrows: uranium atoms split and give off heat; the heat turns water to steam; steam spins a turbine; a generator makes electricity, carried by a pylon. A blue strip under the third box says cooling water comes from the coast or a river. A bar at the bottom shows about 72 per cent of France’s electricity coming from nuclear in 2018." loading="lazy">
+  <figcaption>Splitting uranium atoms heats water to make steam that drives a turbine; the station needs cooling water.</figcaption>
+</figure>
+
+
 ## Global picture in four numbers
 
 - About **80%** of world energy consumption came from fossil fuels (2022).
 - Nuclear supplied about **4.3%** of world primary energy (2020).
 - Hydro, wind and solar together generated about **29%** of world electricity in 2024 (hydro 14.4%, wind 8.1%, solar 6.9%).
 - About **2.1 billion** people cook with polluting fuels such as wood, dung, crop waste, kerosene or coal (WHO).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--08-en-electricity-2024.webp" width="900" height="770" alt="A column chart of world electricity in 2024. Coal is 34.4 per cent and gas 22.1 per cent, together 56.5 per cent from fossil fuels. Hydro is 14.4, wind 8.1 and solar 6.9, together 29.4 per cent. Everything else makes up 14.1 per cent. Gas and everything else are calculated by subtraction." loading="lazy">
+  <figcaption>Coal and gas still generated more than half of world electricity in 2024, while hydro, wind and solar generated nearly 30%.</figcaption>
+</figure>
+
 
 ## Sources at a glance
 
@@ -74,6 +91,12 @@ They cover Topic 3.5 Energy from the Cambridge IGCSE Geography (0460) syllabus f
 | Tidal | Large tidal range, estuary | Predictable | Few sites; habitat change | La Rance, France, 240 MW, 1966 |
 | Solar | Sunny, low-latitude areas | Works off-grid on single homes | No output at night | -- |
 | Biofuel | Land for crops such as sugarcane | Replaces petrol | Competes with food crops | Brazil, ethanol programme from 1975 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--10-en-renewable-needs.webp" width="900" height="740" alt="Eight tiles with small pictures. Geothermal needs plate boundaries or volcanic areas. Wind needs strong, steady wind on hills, coasts or at sea. HEP needs high rainfall and a deep, narrow valley. Wave needs exposed, windy coasts. Tidal needs a large tidal range, often an estuary. Solar suits sunny, low-latitude, dry areas. Biofuels come from crops such as sugarcane or from waste. The last tile says wind and solar are intermittent: wind fails on calm days and solar at night." loading="lazy">
+  <figcaption>Each renewable source works only where the right physical conditions exist.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -93,6 +116,12 @@ They cover Topic 3.5 Energy from the Cambridge IGCSE Geography (0460) syllabus f
 
 In 2018 the USA used 4.4 tonnes of oil equivalent per person and India 0.4, against a world average of 1.2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--11-en-per-person.webp" width="900" height="830" alt="Three rows of drops, each drop meaning 0.4 tonnes of oil equivalent per person. The United States has 11 drops (4.4 tonnes), the world average 3 drops (1.2 tonnes) and India 1 drop (0.4 tonnes). The United States uses 11 times as much as India." loading="lazy">
+  <figcaption>Energy use per person rises with income: the United States used 11 times as much as India in 2018.</figcaption>
+</figure>
+
+
 ## Case study card: Iceland
 
 - On the Mid-Atlantic Ridge (constructive boundary) -> geothermal heat; high rainfall and glaciers -> HEP.
@@ -103,6 +132,17 @@ In 2018 the USA used 4.4 tonnes of oil equivalent per person and India 0.4, agai
 - Kárahnjúkar HEP: 690 MW, 193 m dam, built to power Alcoa's Fjarðaál aluminium smelter; protests over flooded highland.
 - 2005: 72% of electricity used by power-intensive industry.
 - Still imports oil for vehicles, ships and aircraft.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--12-en-iceland-setting.webp" width="900" height="830" alt="A cross-section of the ground. On the left, a geothermal plant (Hellisheiði, 303 megawatts) sits above two wells that reach hot rock; below the hot rock two arrows point apart, labelled Mid-Atlantic Ridge, plates move apart. On the right, a cloud and a glacier sit over a highland with a river running down to a reservoir behind a dam (690 megawatts). A dashed line carries power from the dam to an aluminium smelter." loading="lazy">
+  <figcaption>Plate-boundary heat and glacier-fed rivers let Iceland generate geothermal and hydro-electric power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--13-en-iceland-mix.webp" width="900" height="830" alt="Two horizontal bars. The first shows Iceland’s electricity in 2025: hydropower 70.5 per cent and geothermal 29.4 per cent, with a 0.1 per cent sliver of other. The second shows primary energy in 2016: geothermal 65 per cent, hydro 20 per cent and the rest 15 per cent, mostly imported fossil fuel; the renewable part is 85 per cent. Two panels add that about 90 per cent of homes are heated by geothermal energy while cars, ships, aircraft and fishing boats still use imported oil." loading="lazy">
+  <figcaption>Iceland’s electricity is almost all renewable, but its total energy is not, because transport still runs on imported fossil fuel.</figcaption>
+</figure>
+
 
 ## Mini essay plan
 

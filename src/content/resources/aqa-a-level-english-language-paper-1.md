@@ -84,6 +84,12 @@ AQA A-level English Language (7702) specification, first teaching
 September 2015 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-7702/specification/specification-at-a-glance).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--12-p1-marks.webp" width="900" height="790" alt="A bar of 100 marks drawn to scale. Section A, 70 marks: question 1 analyses the first text (25), question 2 the second (25), question 3 compares the two (20). Section B, 30 marks: a discursive essay on children’s language development ages 0 to 11, with a choice of two questions and supporting data. The paper lasts 2 hours 30 minutes and is 40% of the A-level." loading="lazy">
+  <figcaption>How the 100 marks of Paper 1 are split.</figcaption>
+</figure>
+
+
 ## The toolkit: language levels
 
 Analysis at this level means applying **linguistic frameworks** precisely, not describing effects impressionistically. The levels are the vocabulary of the whole subject:
@@ -98,6 +104,12 @@ Analysis at this level means applying **linguistic frameworks** precisely, not d
 | Discourse | Structure, cohesion, openings and closings |
 
 A strong paragraph names the feature with correct terminology, quotes it, and explains the effect **in relation to audience and purpose**. Identifying a feature without explaining its function scores almost nothing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--13-p1-levels.webp" width="900" height="1010" alt="Six cards: phonology (sound: alliteration, sibilance, accent features); graphology (visual layout, typography, images); lexis and semantics (word choice, semantic fields, connotation, formality); grammar and syntax (sentence types and lengths, word classes, mood, voice); pragmatics (implied meaning, politeness, presupposition, deixis); discourse (structure, cohesion, openings and closings)." loading="lazy">
+  <figcaption>The six language levels used to analyse any text.</figcaption>
+</figure>
+
 
 ## Language and the individual
 
@@ -148,6 +160,27 @@ A strong Section B answer applies named theories and stages to the specific data
 feature from the transcript, naming the stage or theory it evidences, and evaluating how well that
 theory accounts for it — rather than reciting the theories in the abstract.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--15-p1-halliday.webp" width="900" height="990" alt="An early utterance has arrows to seven boxes, the functions in Halliday’s model: instrumental (satisfying needs, “want juice”); regulatory (controlling others’ behaviour, “go away”); interactional (maintaining relationships); personal (expressing identity or feelings); heuristic (exploring and questioning, “why?”); imaginative (play and storytelling); representational (conveying information and facts)." loading="lazy">
+  <figcaption>Halliday’s seven functions of children’s language.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--16-p1-word-meaning.webp" width="900" height="960" alt="Two panels using “dog”. Overextension: the child’s meaning, a dashed circle, is wider than the adult meaning and includes other animals, so any four-legged animal is called dog. Underextension: the child’s meaning is a small dashed circle inside the adult meaning, limited to the family pet. Both are common as children refine word meaning." loading="lazy">
+  <figcaption>Overextension and underextension of a word’s meaning.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--17-p1-grammar-stages.webp" width="900" height="1040" alt="A rising staircase of four stages: holophrastic (one word), two-word, telegraphic (content words only with grammatical words omitted, for example “daddy car”) and post-telegraphic. Below, virtuous errors such as “goed” and “sheeps” show a child over-regularising a rule rather than imitating adult speech." loading="lazy">
+  <figcaption>Grammar stages from one word to post-telegraphic, with virtuous errors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--18-p1-theories.webp" width="900" height="950" alt="Four cards. Behaviourist (Skinner): language is learned through imitation and reinforcement. Nativist (Chomsky): an innate language acquisition device explains rule-governed errors no adult models. Cognitive (Piaget): language development follows and depends on prior conceptual development. Interactionist (Bruner, Vygotsky): child-directed speech and scaffolded interaction with caregivers drive acquisition. A strong answer quotes a feature of the data, names the theory it evidences and evaluates it." loading="lazy">
+  <figcaption>Four theories of language acquisition named in the lesson.</figcaption>
+</figure>
+
+
 ## Worked example
 
 Analyse: *"Local residents were reportedly angered by the council's decision."*
@@ -167,6 +200,12 @@ while the hedge protects the writer from asserting it directly.
 ```
 
 Four features, each named, quoted and linked to representation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--14-p1-worked-sentence.webp" width="900" height="1070" alt="The sentence &quot;Local residents were reportedly angered by the council’s decision.&quot; is shown as word blocks with four numbered features. 1 Passive voice, &quot;were angered&quot;: agency is obscured. 2 The adverb &quot;reportedly&quot;: a hedge that distances the writer. 3 The lexis &quot;angered&quot;: stronger than &quot;concerned&quot;. 4 The noun phrase &quot;local residents&quot;: a unified, unnamed group. Effect: the council is constructed as the cause of unified public anger while the hedge protects the writer." loading="lazy">
+  <figcaption>One sentence analysed for four features and their effect.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

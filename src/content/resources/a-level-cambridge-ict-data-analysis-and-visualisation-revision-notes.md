@@ -121,6 +121,22 @@ The syllabus describes the 8.1 functions as examples; any function needed for an
 5. Create the pivot chart; choose a chart that fits the message; label it fully.
 6. Refresh after any change to the source data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--01-da-cleaning-extract.webp" width="900" height="950" alt="Eight raw rows are checked. N101 and N105 have extra spaces and N102 says Bike, all fixed; the second N102 is a duplicate and is deleted; N103 (blank Days) and N104 (Days of −1) are sent back. 8 − 1 − 1 − 1 leaves 5 clean records." loading="lazy">
+  <figcaption>Cleaning removes a duplicate and flags two rows that cannot be guessed, leaving 5 clean records.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--02-da-split-fields.webp" width="900" height="715" alt="FIND returns 6 for the comma in Malik, Hina. LEFT(B2,6−1) takes 5 characters, Malik. MID(B2,6+2,50) starts at 8 and returns Hina. Forgetting the −1 leaves the comma on the surname." loading="lazy">
+  <figcaption>FIND, LEFT and MID split “Malik, Hina” into surname and forename.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--04-da-consolidate.webp" width="900" height="1214" alt="A csv file from North and a tab-delimited txt file from South are given the same field names, order, types and formats, a Branch field is added, and the records are appended. The combined table has 12 hires (6 North + 6 South)." loading="lazy">
+  <figcaption>Consolidating means one consistent table that still records each record’s branch.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Cleaning vs transforming**: cleaning fixes errors; transforming reshapes correct data.
@@ -164,6 +180,17 @@ The syllabus describes the 8.1 functions as examples; any function needed for an
 11. Filtering what a pivot chart shows, directly on the chart.
 12. So each record still shows where it came from, allowing comparisons between sources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--03-da-merge-fields.webp" width="900" height="900" alt="Forename and surname are joined with &amp; and a space to give Hina Malik. Day 14, month 7 and year 2026 become the true date 14/07/2026 with DATE(year, month, day); joining with &amp; would give text. “S” &amp; 17 gives the unique ID S17." loading="lazy">
+  <figcaption>Join text with &amp;, but build dates with DATE so they sort and group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--05-da-pivot-table.webp" width="900" height="792" alt="The 12 hire revenues are grouped by Category (rows) and Branch (columns) and summed: Bikes 150 and 75, Kayaks 150 and 100, Tents 40 and 90. Row totals are 225, 250 and 130, column totals 340 and 265, grand total 605. Kayaks are 250 of 605, 41.3%." loading="lazy">
+  <figcaption>A pivot table sums the 12 records into category-by-branch totals.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing a formula in words ("use LEFT") instead of writing it with cell references.
@@ -175,6 +202,12 @@ The syllabus describes the 8.1 functions as examples; any function needed for an
 - Listing cleaning actions without saying what problem each fixes.
 - Choosing a pie chart to compare two branches across categories.
 - Giving advantages of pivot tables only, when a question asks for a comparison.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-analysis-and-visualisation--06-da-pivot-chart.webp" width="900" height="1290" alt="Three pivot-chart choices: a comparative bar chart for revenue by category and branch, a pie chart for the categories’ share of North revenue (150, 150, 40) and a line graph for monthly revenue (June 215, July 195, August 195). Value axes start at zero." loading="lazy">
+  <figcaption>Match the chart to the message: bar to compare, pie for share, line for trend.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

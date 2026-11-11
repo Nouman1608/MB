@@ -108,6 +108,12 @@ note) rather than the list in isolation, since Paper 2 often gives a
 scenario and asks candidates to identify or sequence the correct
 document.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--20-co-documents.webp" width="900" height="1180" alt="A buyer and seller exchange eight home trade documents in numbered order. Below, four international documents: certificate of origin, bill of lading, air waybill, documentary credit." loading="lazy">
+  <figcaption>Home trade documents follow a sequence from enquiry to receipt.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Cambridge O Level Commerce (7100) syllabus for examination 2026,
@@ -116,6 +122,12 @@ Cambridge O Level Commerce (7100) syllabus for examination 2026,
 Note: 7100 is available in zones 3, 4 and 5 in 2026-2027, and in zone 4
 only from 2028 (a zone restriction, not a withdrawal) — confirm current
 availability for your zone on the official subject page.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--21-co-location.webp" width="900" height="970" alt="Nine physical location factors and four ecommerce location factors shown as icon tiles." loading="lazy">
+  <figcaption>Physical and ecommerce businesses weigh different location factors.</figcaption>
+</figure>
+
 
 ## Private versus public sector
 
@@ -137,6 +149,12 @@ The move from sole trader through to public limited company broadly
 trades away personal control in exchange for access to more capital
 and reduced personal risk -- that trade-off is the single idea
 examiners return to most often.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--15-co-ownership.webp" width="900" height="1090" alt="Private and public sector described, then a table of sole trader, partnership, cooperative, private limited and public limited companies by owners, liability and scale. Moving towards plc trades control for capital and less personal risk." loading="lazy">
+  <figcaption>The five private forms differ in owners, liability and scale.</figcaption>
+</figure>
+
 
 ## Why do governments run public corporations? (2.1.2)
 
@@ -173,6 +191,17 @@ revenue. It lowers the franchisee's risk (a proven business model)
 but reduces independence and requires ongoing payments to the
 franchisor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--16-co-multinational.webp" width="900" height="1060" alt="Headquarters in one country with plants in host countries. Host gains: jobs, investment, technology transfer, export earnings. Host loses: profits leave, competition local firms cannot match, less control of strategic decisions." loading="lazy">
+  <figcaption>A multinational brings gains and losses to the host country.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--17-co-franchise.webp" width="900" height="890" alt="A franchisor gives brand and systems to a franchisee, who pays fees and a share of revenue. Lower risk but less independence and ongoing payments." loading="lazy">
+  <figcaption>A franchise trades independence for a proven model.</figcaption>
+</figure>
+
+
 ## Retailing and wholesaling in a digital economy
 
 Retailing has moved well beyond the physical shop: omnichannel
@@ -191,6 +220,17 @@ retailers don't have to, and provide credit and market knowledge.
 The independent wholesaler survives mainly through cash-and-carry
 outlets, which let small retailers buy in person without needing a
 credit account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--18-co-wholesaler.webp" width="900" height="960" alt="Nine crates go from manufacturer to wholesaler, who supplies three retailers with three each. Wholesaler holds stock, gives credit and market knowledge. Cash and carry lets small retailers buy in person without credit." loading="lazy">
+  <figcaption>A wholesaler breaks bulk, holds stock and extends credit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--19-co-small-retailer.webp" width="900" height="820" alt="A small shop with four advantages: personal service, flexible opening hours, additional services, local convenience." loading="lazy">
+  <figcaption>Small shops survive on service, hours, extras and convenience.</figcaption>
+</figure>
+
 
 ## Which trading documents are used, and in what order? (2.5)
 

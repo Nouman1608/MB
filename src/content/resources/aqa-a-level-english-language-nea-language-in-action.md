@@ -65,6 +65,12 @@ than material set by the exam board.
   phonetics, phonology and prosodics; graphology; lexis and semantics; grammar (including morphology);
   pragmatics; and discourse
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--06-nea-overview.webp" width="900" height="840" alt="The Language in Action non-exam assessment is worth 20% of the A-level. Bars are drawn to scale by word count: a language investigation of 2,000 words excluding data and quotations, and an original piece of writing of 750 words with a 750-word commentary. It is coursework where the student chooses the focus, developed over time rather than under timed exam conditions." loading="lazy">
+  <figcaption>The NEA is two tasks, drawn to scale by word count.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The single most important early decision is choosing a genuinely specific investigation focus -- "the
@@ -79,6 +85,12 @@ stage as building material for the commentary, not as separate, disposable groun
 AQA A-level English Language (7702) specification, first teaching 2015 --
 [aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-7702/specification/subject-content/language-in-action).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--11-nea-writing-process.webp" width="900" height="1020" alt="Three steps: study a range of style models, analyse one in detail, write the 750-word piece. A 750-word commentary follows and evaluates the style model, the writing process and the effectiveness of the final piece. A dashed arrow shows the style-model analysis feeding the commentary. The submitted folder holds the writing, an annotated style model, the commentary and references." loading="lazy">
+  <figcaption>Style-model analysis feeds the writing and the 750-word commentary.</figcaption>
+</figure>
+
+
 ## Choosing an investigation focus
 
 A strong investigation question falls into one of four types: genre-based (what are the distinctive
@@ -87,6 +99,12 @@ attitudes-based (how do people feel about this language?), or user-based (who us
 language?). Whichever type is chosen, the investigation needs a specific, bounded focus -- a named
 dialect surveyed in a specific way, a specific set of texts, a specific comparison -- not a broad topic
 area that could support a whole book.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--07-nea-question-types.webp" width="900" height="900" alt="Four cards: genre-based asks what the distinctive features of this type of language use are; function or use-based asks what the language is used to do; attitudes-based asks how people feel about this language; user-based asks who uses this type of language. Whichever is chosen, the focus must be specific and bounded." loading="lazy">
+  <figcaption>The four types of investigation question.</figcaption>
+</figure>
+
 
 ## The investigation's five required sections
 
@@ -97,6 +115,12 @@ issues, and examines contextual influences on the data. Conclusion draws the ana
 original aim. References and appendices support the whole piece with sources and clean copies of the raw
 data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--09-nea-sections.webp" width="900" height="880" alt="Five boxes in order: introduction (reasons for the focus and aims), methodology (an evaluative account of data collection), analysis (findings, concepts and issues, contextual influences), conclusion (linked back to the aim) and references and appendices (sources and clean copies of the data). A dashed arrow runs from the conclusion back up to the introduction, labelled aim." loading="lazy">
+  <figcaption>The investigation’s required sections, ending by linking back to the aim.</figcaption>
+</figure>
+
+
 ## Original writing: three power categories
 
 The Power of Persuasion (investigative journalism, a speech on a controversial topic, a letter to an MP),
@@ -104,6 +128,12 @@ the Power of Storytelling (a short story, a biography extract, a dramatic monolo
 Information (travel journalism, a social-issues blog, local history writing) each require studying a
 style model before drafting original work in that mode, then reflecting on the process in the
 commentary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--10-nea-power-categories.webp" width="900" height="960" alt="Three cards for the three areas of original writing. The Power of Persuasion: investigative journalism, a speech on a controversial topic, a letter to an MP. The Power of Storytelling: a short story, a biography extract, a dramatic monologue. The Power of Information: travel journalism, a social-issues blog, local history writing." loading="lazy">
+  <figcaption>The three areas of original writing and the lesson’s example forms.</figcaption>
+</figure>
+
 
 ## Worked example: from broad interest to bounded investigation question
 
@@ -129,6 +159,12 @@ group express towards the other's style?"
 
 This final version has a clear data-collection plan, a clear analytical framework, and a clear boundary
 -- all missing from the original broad question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--08-nea-narrowing.webp" width="900" height="1128" alt="A funnel of boxes getting narrower. Too broad: how does social media affect language? Step 1 narrow the mode to a platform or feature such as hashtags, emoji or abbreviation. Step 2 narrow the population to a specific age group or online community. Step 3 choose the question type, genre-based or attitudes-based. Result: a bounded question comparing abbreviation and emoji use in two age groups’ text messages and their attitudes to each other’s style, with a clear data plan, analytical framework and boundary." loading="lazy">
+  <figcaption>Narrowing a broad interest into a bounded investigation question.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

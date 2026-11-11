@@ -66,6 +66,12 @@ spoken or staged is often as significant as what it says -- while the
 novel section rewards tracking how a theme or character develops
 across the whole text, not just in a single extract.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--14-p1-context-woven.webp" width="900" height="760" alt="Two paragraph sketches compare approaches. On the left, each line has a quotation block, a context block and an analysis block together; this is marked as good. On the right, lines of quotation and analysis end with one big separate context block; this is marked as weaker. A note says AQA credits the woven version." loading="lazy">
+  <figcaption>Context woven into analysis of a quotation is credited over a separate context section.</figcaption>
+</figure>
+
+
 ## Assessment at a glance
 
 Paper 1 (Shakespeare and the 19th-century Novel) is a 1 hour 45
@@ -82,6 +88,17 @@ is worth half as much again as Paper 1, and adds unseen poetry -- a
 skill that cannot be prepared for with quotation banks the way the
 studied texts can, so timed unseen-poetry practice deserves its own
 place in a revision plan rather than being treated as a late add-on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--08-p1-split.webp" width="900" height="880" alt="Three pairs of bars compare the two papers. Paper 1 is 40 percent of the GCSE, 64 marks and 1 hour 45 minutes; Paper 2 is 60 percent, 96 marks and 2 hours 15 minutes. A note says 96 divided by 64 is 1.5, so Paper 2 is worth half as much again. Both papers are closed book." loading="lazy">
+  <figcaption>Paper 1 is 40% of the GCSE; Paper 2 is longer and worth half as much again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--09-p1-structure.webp" width="900" height="900" alt="Paper 1 lasts 1 hour 45 minutes, is worth 64 marks and is closed book. Two panels show Section A on a Shakespeare play and Section B on a 19th-century novel. In each, step 1 is writing in detail about a set extract and step 2 is writing about the whole text." loading="lazy">
+  <figcaption>Both sections ask about a set extract first, then about the whole text.</figcaption>
+</figure>
+
 
 ## Building a quotation bank
 
@@ -100,6 +117,12 @@ its own sake -- but a vaguely paraphrased reference is harder to make
 apt, which is the practical reason a well-drilled quotation bank still
 matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--11-p1-quote-bank.webp" width="900" height="860" alt="A grid has three rows for major characters and three columns for central themes, with a quotation token in every cell. Below it, five pins mark a handful of pivotal moments. A note says one bank serves many questions and, for Shakespeare, to add a staging note." loading="lazy">
+  <figcaption>A small bank across characters, themes and pivotal moments beats trying to memorise the whole text.</figcaption>
+</figure>
+
+
 ## Shakespeare technique in more depth
 
 Because the Shakespeare text is studied as drama rather than prose,
@@ -114,6 +137,12 @@ outward to the wider play, rather than treating the extract and the
 whole-text discussion as two disconnected halves, is a skill worth
 deliberate rehearsal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--12-p1-extract-outward.webp" width="900" height="850" alt="A long bar stands for the whole play with a gold extract segment in the middle. Arrows lead from the extract to earlier and later points in the play. Below, two panels say strong answers cover what a line says and how it is spoken or staged." loading="lazy">
+  <figcaption>Start from the extract and reach outward; comment on staging as well as words.</figcaption>
+</figure>
+
+
 ## Novel technique in more depth
 
 For the 19th-century novel section, tracking how a theme or character
@@ -126,6 +155,12 @@ woven directly into the analysis of a specific quotation rather than
 reserved for a separate paragraph at the end of a response, since
 AQA's mark scheme explicitly credits this kind of integration over a
 standalone context section that sits apart from the actual argument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--13-p1-novel-trace.webp" width="900" height="910" alt="A rising line connects five quotation tokens numbered in the order they appear in the novel, from start to end, to show a theme or character developing. One token is ringed with a cross as analysing a single scene in isolation. A note advises ordering the quotation bank in novel order, not by theme alone." loading="lazy">
+  <figcaption>Tracking development across the whole novel outperforms analysing a single scene.</figcaption>
+</figure>
+
 
 ## Why closed book changes revision strategy
 
@@ -140,6 +175,12 @@ during the exam itself. Treating quotation recall as a discipline to
 be built deliberately, rather than assuming it will emerge naturally
 from general reading of the set texts, is one of the more reliable
 ways to improve performance on this specific paper.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--10-p1-closed-book.webp" width="900" height="800" alt="A closed book marked with a cross stands for no text in the exam room. Three arrows lead to three actions: build the quotation bank early, drill precise recall, and practise on unfamiliar extracts. All three lead to a final box: apt, precise references that support your argument." loading="lazy">
+  <figcaption>Every Paper 1 revision decision flows from one fact: no text is available in the exam.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

@@ -66,6 +66,17 @@ Analytical point: the writer's choice of an increasingly unreliable
 Explaining the *effect* of a technique on the reader's construction of meaning, not just naming the
 technique, is what separates strong from adequate answers in this component.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-readers-writers-texts--10-rwt-trust.webp" width="900" height="850" alt="A line graph with progress through the novel on the horizontal axis and the reader’s trust on the vertical axis. Trust starts high because first-person narration implies direct access to the truth, then falls once inconsistencies emerge, so the reader reconstructs events from doubt. The shape is illustrative, not data." loading="lazy">
+  <figcaption>The writer’s choice of an unreliable narrator shapes how the reader constructs meaning over the whole novel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-readers-writers-texts--11-rwt-explain.webp" width="900" height="580" alt="A chain of three boxes: technique (first-person narrator), opens or forecloses interpretations, and the reader’s construction of meaning. A short gold bracket under the first box says adequate: names it. A long teal bracket under all three says strong: explains the effect on the reader." loading="lazy">
+  <figcaption>Strong answers follow a technique through to its effect on how the reader constructs meaning.</figcaption>
+</figure>
+
+
 ## Genre and form across literary types
 
 The course's works are selected across the literary forms defined on the IB's prescribed reading
@@ -83,6 +94,12 @@ just background theory. When practising with unseen extracts, resist
 the temptation to simply list techniques spotted in the passage; instead, select two or three genuinely
 significant ones and trace their effect across the whole extract, since guided analysis rewards depth
 of connected argument over breadth of feature-spotting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-readers-writers-texts--12-rwt-depth.webp" width="900" height="880" alt="Two copies of an unseen extract drawn as twelve lines of text. On the left nine lines each carry one gold dot, scattered feature-spotting, marked with a cross. On the right two techniques are each traced across the whole extract by a connected teal line and a connected gold line, marked with a tick. Guided analysis rewards depth of connected argument over breadth." loading="lazy">
+  <figcaption>Pick two or three significant techniques and trace their effect across the whole extract.</figcaption>
+</figure>
+
 
 ## Connecting to studied works
 
@@ -132,6 +149,22 @@ teaching time within this component goes into literary technique rather than bei
 non-literary text types. 3. Staging, dialogue and dramatic irony — considerations specific to a work
 being performed. 4. Explaining the effect a named technique has on how the reader constructs meaning,
 rather than simply identifying that the technique is present. 5. Fiction, non-fiction, poetry and drama.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-readers-writers-texts--08-rwt-readers.webp" width="900" height="890" alt="A writer at the top sends choices into one passage of text. Two readers below each build their own meaning from it: Reading A and Reading B. Each is marked defensible with a tick. The line at the bottom says readers construct meaning." loading="lazy">
+  <figcaption>Two readers can build different, equally defensible meanings from the same passage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-readers-writers-texts--09-rwt-forms.webp" width="900" height="790" alt="Three columns: prose (fiction and non-fiction), poetry and drama. Prose lists narrative voice, point of view and structural pacing, plus a dashed note that non-fiction also asks how real people and events are presented. Poetry lists the speaker’s voice (not the poet), stanza length, rhyme scheme and enjambment. Drama lists staging directions, dialogue, soundscape and dramatic irony." loading="lazy">
+  <figcaption>Build a separate technique checklist for prose, poetry and drama.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-readers-writers-texts--13-rwt-woven.webp" width="900" height="830" alt="A bar chart of recommended teaching hours for the three areas of exploration: Readers, writers and texts; Time and space; and Intertextuality. Each area has the same bars, 50 hours at SL and 80 hours at HL. Below, arrows lead from the areas into Paper 1, Paper 2 and the individual oral, because the areas are woven into the assessments rather than tested as separate sections." loading="lazy">
+  <figcaption>The three areas carry equal recommended hours and are tested through the papers and the oral, not as separate sections.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

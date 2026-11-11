@@ -95,6 +95,17 @@ urban growth (natural increase and migration) and its *consequences*
 listing challenges without first establishing why the growth that
 produced them happened in the first place.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--09-urb-two-causes.webp" width="900" height="920" alt="A bar showing how a city grows each year in an illustrative example. Natural increase (births minus deaths): 30 births minus 10 deaths gives 20 per 1,000 people. Migration into the city adds 15 per 1,000 people. Together the city grows by 35 per 1,000 people, which is 3.5 percent. The two causes are separate mechanisms." loading="lazy">
+  <figcaption>Natural increase and migration are two separate causes of urban growth; do not mix them up. Example numbers are illustrative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--12-urb-regeneration-frame.webp" width="900" height="940" alt="A left-to-right flow. A derelict building labelled why the area needed regeneration (for example dereliction or deprivation). A crane labelled the main features of the project. Three impact symbols labelled social, economic and environmental, followed by a judgement." loading="lazy">
+  <figcaption>Prepare one named regeneration project: why it was needed, its main features, and its social, economic and environmental impact, judged not just listed.</figcaption>
+</figure>
+
+
 ## Worked example: structuring a case-study answer
 
 A question asks candidates to describe how urban growth has created both
@@ -118,6 +129,22 @@ Response:        a named urban planning scheme improving conditions,
 Structuring an answer this way — cause, opportunity, challenge, response
 — covers the full range of what 3.2.1.1 expects, rather than only
 describing challenges in isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--08-urb-push-pull.webp" width="900" height="730" alt="A rural area on the left and a city skyline on the right with an arrow of people moving from one to the other. Push factors at the rural end: rural poverty and limited services. Pull factors at the city end: jobs, education and healthcare." loading="lazy">
+  <figcaption>Migration to a city is driven by push factors that drive people out of rural areas and pull factors that attract them to the city.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--10-urb-case-study-frame.webp" width="900" height="880" alt="Five stacked steps joined by arrows: name the city; cause of growth (rural-urban migration, push and pull factors); opportunity (industry creates jobs); challenge (growth outpaces infrastructure, squatter settlements lack clean water and sanitation); response (a named planning scheme, with an assessment of how effective it was)." loading="lazy">
+  <figcaption>A full case-study answer runs: named city, cause, opportunity, challenge, response, then judges how effective the response was.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--11-urb-growth-outpaces-services.webp" width="900" height="830" alt="A graph over time, with illustrative curves. City population rises steeply. The number of people the services can supply (water, sanitation) rises slowly. The gap between the two curves widens and is shaded: people there live in squatter settlements without clean water or sanitation." loading="lazy">
+  <figcaption>Rapid, unplanned growth can outpace infrastructure, leaving a gap filled by squatter settlements lacking clean water and sanitation. Curves are illustrative.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -164,6 +191,12 @@ environmental impact.
 
 - [Urban Issues and Challenges revision notes](/resources/igcse-oxfordaqa-geography-urban-issues-revision-notes/)
 - [Urban Issues and Challenges practice questions](/resources/igcse-oxfordaqa-geography-urban-issues-practice/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--13-urb-sprawl.webp" width="900" height="870" alt="A city seen from above as a solid block in the centre. Dashed outward rings and arrows show built-up land spreading unplanned into the surrounding countryside fields." loading="lazy">
+  <figcaption>Urban sprawl is the unplanned outward spread of a city into surrounding countryside.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

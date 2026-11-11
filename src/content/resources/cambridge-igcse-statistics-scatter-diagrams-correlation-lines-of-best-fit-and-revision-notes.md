@@ -58,6 +58,12 @@ Quick recall of what the points look like:
 | Weak negative | Wide, loose band falling to the right |
 | None | Spread across the grid with no direction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--11-c-correlation-types.webp" width="900" height="1100" alt="Six small scatter diagrams in two columns. Strong positive and strong negative show points close to a rising or falling straight line. Weak positive and weak negative show points in a loose band along a rising or falling trend. The fifth has no pattern. The sixth plots the lesson’s altitude and temperature table, which falls steadily: strong negative correlation." loading="lazy">
+  <figcaption>Describe correlation by direction (positive or negative) and strength (strong, weak or none).</figcaption>
+</figure>
+
+
 ## Plotting (11.3) in steps
 
 1. Independent variable on the x-axis, dependent on the y-axis.
@@ -92,6 +98,12 @@ Upper mean: x = (8 + 10 + 12)/3 = 10, y = (41 + 50 + 59)/3 = 50.
 
 The line passes through (3, 22) and (10, 50).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--12-c-semi-averages.webp" width="900" height="860" alt="A scatter diagram of eight practice-and-time pairs falling from top left to bottom right. The first four points and the last four points are marked differently, and the mean of each group, (2.5, 31.5) and (6.5, 23.5), is shown as a diamond. A ruled line through the two mean points has the equation y = −2x + 36.5." loading="lazy">
+  <figcaption>Split the ordered data in half, take the mean of each half, and join the two mean points.</figcaption>
+</figure>
+
+
 ## Equation of the line (11.5)
 
 | Step | Working |
@@ -108,6 +120,12 @@ m = (50 − 22)/(10 − 3) = 28/7 = 4. Then 22 = 4 × 3 + c gives c = 10.
 
 Meaning of the parts: **m** is the change in y for each one-unit increase in x. **c** is the value of y when x = 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--15-c-equation-from-points.webp" width="900" height="880" alt="A straight line through (14, 40) and (30, 120). A right-angled dashed triangle with a run of 16 and a rise of 80 gives the gradient 80/16 = 5. Extending the line back to the vertical axis gives an intercept of −30. Together these give the equation y = 5x − 30." loading="lazy">
+  <figcaption>The gradient is rise over run between two far-apart points; the intercept is where the line meets the y-axis.</figcaption>
+</figure>
+
+
 ## Estimating (11.6)
 
 | You know | You want | From the graph | From y = mx + c |
@@ -121,6 +139,12 @@ Meaning of the parts: **m** is the change in y for each one-unit increase in x. 
 - 54 enquiries: 54 = 4x + 10, so x = 44/4 = **11 posts**.
 
 Show the substitution. A bare number shows no method if it turns out to be slightly off.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--13-c-estimate-from-line.webp" width="900" height="1000" alt="Two graphs of the line y = −2x + 36.5. In the first, a dashed line goes up from 5.5 hours to the line and across to 25.5 minutes. In the second, a dashed line goes across from 27 minutes to the line and down to 4.75 hours. The values agree with substituting into the equation." loading="lazy">
+  <figcaption>Go up from x then across to estimate y, or across from y then down to estimate x.</figcaption>
+</figure>
+
 
 ## Assumptions and extrapolation (11.7)
 
@@ -136,6 +160,12 @@ Show the substitution. A bare number shows no method if it turns out to be sligh
 **Worked reminder 5.** Use y = 4x + 10 for 20 posts a week. y = 4 × 20 + 10 = 90 enquiries. The data stop at 12 posts, so this is extrapolation. The pattern may level off, for instance if the audience is limited, so 90 is not reliable.
 
 If an extrapolated value is impossible, say so. A negative number of sales or a negative time cannot be real, which shows the line stops working there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and--14-c-extrapolation.webp" width="900" height="880" alt="The line y = −2x + 36.5 is extended far past the data, which only cover 1 to 8 hours of practice. At 10 hours it predicts 16.5 minutes and is marked unreliable. At 20 hours it predicts −3.5 minutes, in a shaded region below zero where times are impossible. Extrapolating outside the data can give meaningless estimates." loading="lazy">
+  <figcaption>Estimates inside the data (interpolation) are more trustworthy than those outside it (extrapolation).</figcaption>
+</figure>
+
 
 ## Routine for a full question
 

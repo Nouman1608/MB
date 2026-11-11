@@ -87,6 +87,12 @@ Check: 10/28 + 15/28 + 3/28 = 28/28 = 1.
 
 If the counters were replaced after each draw, the draws would be independent and every product would use 3/8 and 5/8 only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--07-dpd-tree-to-table.webp" width="900" height="810" alt="A tree diagram for taking two counters without replacement from a bag of 3 green and 5 yellow. The first counter is green with probability 3/8 or yellow 5/8; the second depends on the first. The four paths give 6/56, 15/56, 15/56 and 20/56. Grouped by number of green counters X: X=2 has 3/28, X=1 has the two middle paths adding to 15/28, and X=0 has 5/14. The three values add up to 1." loading="lazy">
+  <figcaption>Multiply along each path, then add the paths that give the same value of X. The two orders for X = 1 are added. Check that the probabilities total 1.</figcaption>
+</figure>
+
+
 ### Forming a distribution from a rule
 
 Sometimes the probabilities are given by a formula with an unknown constant. Use Σ p(x) = 1 to find it.
@@ -101,6 +107,12 @@ p(1) + p(2) + p(3) + p(4) = 3k + 4k + 5k + 6k = 18k
 | x | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | p(x) | 3/18 | 4/18 | 5/18 | 6/18 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--08-dpd-find-k.webp" width="900" height="860" alt="Four rows of small squares, each square worth k. The row for x = 1 has 3 squares, x = 2 has 4, x = 3 has 5 and x = 4 has 6, because p(x) = k(x + 2). Together they make one bar of 18 squares, which must equal probability 1, so 18k = 1 and k = 1/18. The probabilities are 3/18, 4/18, 5/18 and 6/18." loading="lazy">
+  <figcaption>Because the probabilities must add to 1, 3k + 4k + 5k + 6k = 18k = 1, so k = 1/18.</figcaption>
+</figure>
+
 
 ### Forming a distribution from observed data
 
@@ -166,6 +178,17 @@ Notice that E(X²) = 1.40 is not the same as [E(X)]² = 0.64. Squaring the expec
 
 For a straight-line function, a shortcut works: E(aX + b) = a E(X) + b. Here 3 × 0.80 + 2 = 4.40, which agrees. The shortcut does not work for X² or other curves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--09-dpd-expectation-balance.webp" width="900" height="900" alt="A beam with four bars standing on it at x = 0, 1, 2 and 3 faults per roll, with heights 0.45, 0.35, 0.15 and 0.05 (36, 28, 12 and 4 rolls out of 80). A triangle supports the beam at 0.8 and the beam balances there. The balance point is E(X) = 0.8, found as 0 + 0.35 + 0.30 + 0.15." loading="lazy">
+  <figcaption>E(X) = Σ x p(x) is the balance point of the distribution. For the fabric faults it is 0.80, which is the observed mean (64 faults in 80 rolls).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--10-dpd-ex2-not-squared.webp" width="900" height="740" alt="Two bars. The left bar is built from three pieces, 0.35, 0.60 and 0.45, from x = 1, 2 and 3 (x squared times p of x), and totals E of X squared = 1.40. The right bar is the square of the expectation, 0.80 squared = 0.64. A not-equal sign sits between them. A note says that for a straight line E(3X + 2) = 3 times 0.80 + 2 = 4.40." loading="lazy">
+  <figcaption>Square each value first, then weight and add: E(X²) = 1.40. Squaring the expectation gives 0.64, a different number. The shortcut only works for straight lines, such as E(3X + 2) = 4.40.</figcaption>
+</figure>
+
+
 ## Expected profit and loss in games (12.2)
 
 A simple game has a stake (what you pay to play) and one or more outcomes, each with a probability and a payout. To find the expected profit or loss, work with the net gain for each outcome.
@@ -192,6 +215,12 @@ Method two, using the amount received: E(received) = 15 × 1/6 + 3 × 2/6 = 3.50
 
 The player expects to lose Rs 0.50 per play. Over 200 plays the expected loss is 200 × 0.50 = Rs 100. This is an average. Any single play is a win or a loss of a whole number of rupees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--11-dpd-die-game.webp" width="900" height="920" alt="Six dice faces. A 6 pays Rs 15 so the net gain is +11; a 4 or 5 pays Rs 3 so the net gain is minus 1; a 1, 2 or 3 pays nothing so the net gain is minus 4. A bar chart shows each net gain times its probability: +11/6, minus 2/6 and minus 12/6. They add to minus 3/6, an expected loss of Rs 0.50 per play." loading="lazy">
+  <figcaption>Net gain = amount received − stake. Weight each net gain by its probability and add: E(net gain) = −0.50, so the player expects to lose Rs 0.50 per play.</figcaption>
+</figure>
+
+
 ## The idea of a fair game (12.2)
 
 A game is fair when the expected net gain is zero, so that neither the player nor the organiser is expected to gain or lose in the long run. Equivalently, the stake equals the expected amount received.
@@ -212,6 +241,12 @@ Fair: w/5 = 5, so w = 25
 Check using net gains: (25 − 5) × 0.2 + (−5) × 0.8 = 4 − 4 = 0. The prize must be Rs 25. The stake was paid up front and is not given back.
 
 When a question says "wins Rs 25", read it as the amount received unless it says the stake is returned as well. State your reading in the answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and--12-dpd-fair-game.webp" width="900" height="810" alt="Ten cards, two of them winning cards. With a stake of Rs 5 the expected prize is w times 2/10, which equals Rs 5 when w = 25, so the game is fair. A number line of expected net gain runs from minus 1 to plus 1: left of zero favours the organiser, right of zero favours the player, and zero is fair. The die game sits at minus 0.50 and the card game at 0." loading="lazy">
+  <figcaption>A game is fair when E(net gain) = 0, that is, when the stake equals the expected amount received. With 2 winning cards in 10 and a stake of Rs 5, the prize must be Rs 25.</figcaption>
+</figure>
+
 
 ## Common errors
 

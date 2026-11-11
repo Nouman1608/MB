@@ -125,6 +125,12 @@ specific vulnerability and resilience examples — a named flood event,
 drought, or heatwave with its human and policy response — that can be
 reused flexibly across different Paper 2 questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--04-gc-adapt-mitigate.webp" width="900" height="1100" alt="Greenhouse gas emissions lead to climate change, which leads to impacts such as sea-level rise and heatwaves. Mitigation acts on the cause by reducing it. Adaptation manages the effects, for example flood defences and drought-resistant crops." loading="lazy">
+  <figcaption>Mitigation reduces the causes of climate change; adaptation manages its effects.</figcaption>
+</figure>
+
+
 ## Worked example: comparing vulnerability across two places
 
 A question asks why two places facing a similar climate hazard (for
@@ -156,6 +162,12 @@ analytical answer than only describing one place as "more vulnerable"
 than the other. The framework is not the guide's own; the guide asks
 for detailed examples of two or more societies with contrasting
 vulnerability, so apply it to real, named places.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--06-gc-two-places.webp" width="900" height="1060" alt="Two places face the same flood level. Place A has low-lying, poorly built housing and fewer resources and weaker institutions, so it suffers more harm. Place B has strong building codes, better drainage and greater financial and institutional capacity, so it suffers less harm." loading="lazy">
+  <figcaption>Two places face the same flood hazard but vulnerability differs, so outcomes differ.</figcaption>
+</figure>
+
 
 ## Connecting to the fieldwork report
 
@@ -224,6 +236,12 @@ afterwards than a place with different characteristics -- a nuance
 that only becomes visible once resilience is treated as its own
 concept rather than a mirror image of vulnerability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--07-gc-resilience-curve.webp" width="900" height="960" alt="Illustrative graph of normal functioning after a hazard. Place A falls only a little but recovers slowly. Place B falls further (more vulnerable) but recovers faster and overtakes Place A shortly after the strike, showing that resilience is not just low vulnerability." loading="lazy">
+  <figcaption>A place can be less vulnerable at impact but recover more slowly, so the two ideas differ.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Subject
@@ -235,3 +253,24 @@ student. Verified 2026-09-06. The three sub-topics, the named
 vulnerability factors and the fieldwork suitability list were checked
 against the IB *Geography guide* (first assessment 2019) on
 2026-09-16.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--01-gc-energy-balance.webp" width="900" height="1040" alt="Shortwave radiation from the Sun passes through the atmosphere to the surface. The surface emits longwave radiation upwards. Greenhouse gases absorb some of it and re-emit it, warming the lower atmosphere, and the rest escapes to space." loading="lazy">
+  <figcaption>Greenhouse gases absorb some outgoing longwave radiation and re-emit it, warming the lower atmosphere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--02-gc-volcanic-dimming.webp" width="900" height="920" alt="A volcanic eruption puts aerosols into the atmosphere. Aerosols reflect some incoming sunlight back to space, so less reaches the surface. The surface cools temporarily (global dimming)." loading="lazy">
+  <figcaption>Volcanic aerosols reflect incoming sunlight, causing temporary cooling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--03-gc-albedo-loop.webp" width="900" height="920" alt="Warming melts ice, which lowers albedo so less sunlight is reflected. The surface absorbs more energy, so warming increases further and the loop repeats. Each pass amplifies the warming, so it is a positive feedback loop." loading="lazy">
+  <figcaption>Melting ice lowers albedo, so more energy is absorbed and warming increases further.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--05-gc-vulnerability-parts.webp" width="900" height="960" alt="A climate hazard feeds into exposure (the place faces the hazard), sensitivity (housing and infrastructure) and adaptive capacity (resources and institutions). Together they make vulnerability. The IB guide names these factors behind differences between places: location, wealth, age, gender, education and risk perception." loading="lazy">
+  <figcaption>Vulnerability can be analysed as exposure, sensitivity and adaptive capacity; the lesson says this is its own framework, not IB wording.</figcaption>
+</figure>
+

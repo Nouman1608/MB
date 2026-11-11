@@ -70,6 +70,12 @@ histogram, since a histogram's bars must be continuous with no gaps between them
 used when estimating summary statistics like the mean from grouped data, is the value exactly halfway
 between the class boundaries (or equivalently, between the class limits).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--02-limits-to-boundaries.webp" width="900" height="880" alt="Classes 20-29, 30-39 and 40-49 are printed with a gap of 1 between 29 and 30. Moving each limit out by half the gap (0.5) makes the classes touch at boundaries 19.5, 29.5, 39.5 and 49.5." loading="lazy">
+  <figcaption>Boundaries remove the gaps between printed class limits by moving each limit out by half the gap.</figcaption>
+</figure>
+
+
 ## Choosing sensible class intervals
 
 A grouped frequency distribution with too few classes can hide meaningful patterns in the data by
@@ -78,6 +84,12 @@ making the distribution's overall shape hard to see. There is no single fixed ru
 number of classes, but exam questions often expect candidates to recognise when a given choice of class
 width is clearly too coarse or too fine for the data set described, and to suggest a more appropriate
 alternative with reasoning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--05-choosing-class-intervals.webp" width="900" height="1140" alt="The same 80 illustrative values drawn with 2, 10 and 50 classes. Two wide classes hide the pattern, ten classes show two peaks, and fifty classes leave very small frequencies so the shape is hard to see." loading="lazy">
+  <figcaption>Too few classes over-simplify the data; too many leave tiny frequencies.</figcaption>
+</figure>
+
 
 ## Ungrouped vs grouped: choosing the right approach
 
@@ -89,6 +101,12 @@ value separately would produce an unwieldy table with many classes containing on
 observations each. Recognising which approach a given data set calls for, before starting to construct a
 table, is itself a skill this topic tests -- a data set is not automatically grouped just because it is
 large, but because its range of individual values is wide relative to the number of observations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--01-ungrouped-vs-grouped.webp" width="900" height="1080" alt="Top: a tally table for sibling counts 0 to 5 in a class of 24, with frequencies 4, 8, 8, 2, 1, 1. Bottom: 30 different values between 0 and 99 shown as dots in five classes of width 20, with counts 5, 7, 7, 7, 4. Few distinct values suit tallying each value; a wide range needs classes." loading="lazy">
+  <figcaption>Few distinct values can be tallied one by one; a wide spread of values is grouped into classes.</figcaption>
+</figure>
+
 
 ## Worked example: converting limits to boundaries
 
@@ -118,6 +136,17 @@ This half-unit adjustment specifically applies to data recorded in whole numbers
 one decimal place, the same principle applies but the adjustment becomes half of one decimal place (0.05)
 instead of 0.5 -- always check what precision the original data was recorded to before adjusting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--03-midpoint-and-width.webp" width="900" height="900" alt="A bar from boundary 19.5 to boundary 29.5 stands for the class 20-29, with the limits 20 and 29 inside it. The midpoint is (19.5 + 29.5) / 2 = 24.5. The class width is 29.5 minus 19.5 = 10, not 29 minus 20 = 9." loading="lazy">
+  <figcaption>Midpoint and class width are found from the boundaries of 20-29: 24.5 and 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--04-precision-half-gap.webp" width="900" height="940" alt="Two zoomed number lines. For whole numbers the gap between 29 and 30 is 1, so the half-gap is 0.5 and the boundary is 29.5. For one decimal place the gap between 29.9 and 30.0 is 0.1, so the half-gap is 0.05 and the boundary is 29.95." loading="lazy">
+  <figcaption>The half-gap adjustment is half of the last recorded decimal place: 0.5 for whole numbers, 0.05 for one decimal place.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Using class limits instead of class boundaries when constructing a histogram, leaving gaps between bars
@@ -136,6 +165,12 @@ between class boundaries).
   set.
 - Distinguish clearly between a frequency polygon and a histogram, both in construction and in when each
   is appropriate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-frequency-distributions--06-gaps-vs-touching-bars.webp" width="900" height="940" alt="Two histograms of the same illustrative table with classes 10-19 to 50-59. Bars drawn at the printed limits leave gaps; bars drawn at boundaries 9.5 to 59.5 touch." loading="lazy">
+  <figcaption>A histogram must use class boundaries so its bars are continuous.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

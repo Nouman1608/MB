@@ -90,6 +90,17 @@ Without replacement:
 
 Without replacement, different colours is more likely (5/9 against 40/81), which fits: removing one colour makes it less likely to draw it again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--16-with-without-replacement.webp" width="900" height="920" alt="A bag with 5 red, 3 blue and 2 yellow counters. With replacement the second pick is from 10 counters, P(RR) = 5/10 x 5/10. Without replacement the red stays out, leaving 9 counters, P(RR) = 5/10 x 4/9. Matching colours: 0.38 with, about 0.311 without." loading="lazy">
+  <figcaption>Without replacement the bag shrinks, so the second-pick probabilities change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--17-tree-without-replacement.webp" width="900" height="1010" alt="Tree for two picks without replacement from 5 red, 3 blue and 2 yellow. The nine paths have probabilities 20, 15, 10, 15, 6, 6, 10, 6 and 2 over 90. The same-colour paths RR, BB and YY add to 28/90 = 14/45." loading="lazy">
+  <figcaption>Multiply along branches and add the paths that give the outcome you want.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Independent is about probabilities: one event does not change the other's chance.
@@ -111,6 +122,12 @@ P(choir and band)  = 4/50 = 0.08
 
 The values are equal, so choir and band are independent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--13-independence-test.webp" width="900" height="1030" alt="Area models of 80 pupils. P(French) x P(Art) = 0.4 x 0.25 = 0.1 is a dashed box. With 8 studying both, P(both) = 0.1 fills it exactly, so the events are independent. With 12, P(both) = 0.15 overflows it, so they are not independent." loading="lazy">
+  <figcaption>Events are independent when P(A) x P(B) equals P(A and B).</figcaption>
+</figure>
+
+
 ### At least one, repeated independent trials
 
 A signal gets through on any attempt with probability 0.7, independently. Find the probability that it gets through at least once in two attempts.
@@ -120,6 +137,12 @@ P(fails both) = 0.3 × 0.3 = 0.09
 P(at least once) = 1 − 0.09 = 0.91
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--15-late-three-days.webp" width="900" height="1000" alt="Never late is 0.9 x 0.9 x 0.9 = 0.729. Exactly once has three orders LOO, OLO, OOL, each 0.081, total 0.243. At least once is 1 - 0.729 = 0.271, which also includes twice or three times (0.028)." loading="lazy">
+  <figcaption>List the orders for exactly once, and use 1 minus P(none) for at least once.</figcaption>
+</figure>
+
+
 ### Three picks without replacement
 
 A tray holds 6 cakes: 3 plain and 3 iced. Three are taken without replacement. Find the probability that all three are iced.
@@ -127,6 +150,17 @@ A tray holds 6 cakes: 3 plain and 3 iced. Three are taken without replacement. F
 ```
 3/6 × 2/5 × 1/4 = 6/120 = 1/20 = 0.05
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--18-three-fuses.webp" width="900" height="950" alt="Of 12 fuses, 4 are faulty. Exactly one faulty has three orders, each 224/1320, giving 28/55. None faulty is 14/55, so at least one is 41/55; the rest, 13/55, is two or three faulty." loading="lazy">
+  <figcaption>Count every order for exactly one, and use 1 minus P(none) for at least one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--19-two-bags.webp" width="900" height="750" alt="Bag A (4 red, 6 white) gives red with 4/10. Bag B (3 red, 2 white) gives two reds without replacement with 3/5 x 2/4 = 3/10. The bags are independent but picks within bag B are dependent, so all three red is 4/10 x 3/10 = 3/25." loading="lazy">
+  <figcaption>Separate sources are independent; picks within one source without replacement are dependent.</figcaption>
+</figure>
+
 
 ### Exactly one of two independent events
 
@@ -137,6 +171,12 @@ A but not B:  0.5 × 0.8 = 0.40
 B but not A:  0.5 × 0.2 = 0.10
 Exactly one:  0.40 + 0.10 = 0.50
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-statistics-independent-events-and-selection-with-or-without--14-multiplication-addition-square.webp" width="900" height="890" alt="A square split by independent events A (0.4) and B (0.3). A and B is 0.12, B only 0.18, A only 0.28 and neither 0.42. A or B = 0.4 + 0.3 - 0.12 = 0.58 and 0.58 + 0.42 = 1." loading="lazy">
+  <figcaption>The multiplication rule gives each region of the square; the addition rule gives A or B.</figcaption>
+</figure>
+
 
 ### First success on the second pick
 

@@ -53,6 +53,17 @@ These facts come from the subject brief.
 **Not in the brief:** the timing, the extract length, whether you may
 use notes, any follow-up questions, and the assessment criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-individual-oral-global-issues--01-oral-what.webp" width="900" height="960" alt="The individual oral is a prepared oral response on how one literary work and one non-literary body of work, both studied on the course, approach a common global issue. The task is to analyse how each text approaches the issue, not to give a speech about the issue. It is internally assessed and carries 30% of the final grade at SL and 20% at HL, shown as two bars." loading="lazy">
+  <figcaption>What the individual oral compares.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-individual-oral-global-issues--03-oral-structure.webp" width="900" height="1040" alt="Six steps in order: 1 Introduction (name the issue as an angle, both texts, a one-sentence thesis, preview the route). 2 Literary extract (two or three focused points, each with a quotation and its effect). 3 Link to the whole literary work (one or two precise references). 4 Non-literary extract (two or three focused points). 5 Link to the whole body of work. 6 Comparison and conclusion (bring the two methods together and answer the thesis). An alternative is to weave the comparison through each section." loading="lazy">
+  <figcaption>One workable structure for the oral.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Meaning for the oral |
@@ -78,12 +89,24 @@ use notes, any follow-up questions, and the assessment criteria. The full IB Lan
 5. Test the angle: can you quote at least three specific choices from each extract that bear on it?
 6. Keep the angle that gives the sharpest **contrast in method**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-individual-oral-global-issues--02-oral-narrowing.webp" width="900" height="950" alt="A funnel in three layers narrows the topic &quot;Work&quot; (too wide to argue) to the issue &quot;The exploitation of garment workers&quot; (better, but both texts must show exploitation directly) and finally to the angle &quot;How the demand for fast, cheap clothing hides the time and labour of the people who make it&quot;, which is specific and arguable. Below, four ticks list the tests for a good global issue: it matters to many people, crosses national borders, is visible in local life, and both texts engage it." loading="lazy">
+  <figcaption>From topic to issue to angle.</figcaption>
+</figure>
+
+
 ### Analysing an extract
 
 1. State what the extract shows about the issue.
 2. Pick two or three choices (word, image, sentence form, structure, layout, typography).
 3. For each: quote → name the choice → explain the effect → tie it to the issue.
 4. Add one precise link to the whole work or body of work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-individual-oral-global-issues--04-oral-numbers.webp" width="900" height="830" alt="Two panels compare the worked pair from the lesson. In the novel extract a garment worker counts &quot;forty an hour, three hundred and twenty a shift&quot;, so numbers measure labour and the worker is made visible. In the brand posts &quot;900 new styles, delivered in 48 hours&quot; presents numbers as abundance for the buyer, and the phrase &quot;Made for moments&quot; names no maker, so the worker disappears. The shared feature, numbers, gives a precise point of comparison." loading="lazy">
+  <figcaption>Numbers used in opposite directions.</figcaption>
+</figure>
+
 
 ### Building the oral
 
@@ -115,6 +138,12 @@ A strong pair of extracts:
 | Rehearsal reflections | After each spoken run-through: what ran long, what was vague, what to cut |
 
 Start the issue log when you start each text, not when the oral is announced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-individual-oral-global-issues--05-oral-portfolio.webp" width="900" height="860" alt="The learner portfolio, your notes, reflections and responses from the course, does four jobs for the oral. An issue log notes two or three global issues per text with a page reference, so you can spot pairings early. A technique bank holds short quotations with the technique and its effect, giving ready-made analysis. Pairing trials hold two or three possible pairings with a draft thesis each, to test which gives the richest comparison. Rehearsal reflections record what ran long, what was vague and what to cut, so the oral improves between attempts." loading="lazy">
+  <figcaption>Four jobs for the learner portfolio.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

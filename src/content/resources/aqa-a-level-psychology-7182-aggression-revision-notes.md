@@ -68,6 +68,22 @@ Practise with the [aggression practice questions](/resources/aqa-a-level-psychol
 | Disinhibition | Media weaken usual restraints by making violence seem normal |
 | Cognitive priming | Media activate aggressive thoughts that later cues can trigger |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--12-agg-brain.webp" width="900" height="925" alt="Schematic brain: threat to amygdala, to hypothalamus, then arousal; the OFC damps the amygdala; serotonin helps the OFC." loading="lazy">
+  <figcaption>The amygdala and hypothalamus drive arousal and the OFC normally damps it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--15-agg-ethology.webp" width="900" height="910" alt="Crude red-bellied model attacked, realistic model without red ignored; sign stimulus to IRM to FAP with its four properties." loading="lazy">
+  <figcaption>A sign stimulus triggers an IRM which releases a fixed action pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--18-agg-media.webp" width="900" height="1000" alt="Three cards: desensitisation, disinhibition, cognitive priming." loading="lazy">
+  <figcaption>Three explanations of how violent media may influence aggression.</figcaption>
+</figure>
+
+
 ## Theories and studies at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -95,6 +111,22 @@ Practise with the [aggression practice questions](/resources/aqa-a-level-psychol
 | Carnagey et al. (2007) | Violent or non-violent game, then videos of real-life violence | Lower skin conductance after violent game | Short-term lab effect |
 | Josephson (1987) | 396 boys, violent or non-violent TV, cue, floor hockey | Violent TV plus cue raised aggression in groups with more high-aggressive boys | Naturalistic observation raises validity; effect not found in all boys |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--13-agg-testosterone.webp" width="900" height="910" alt="Eleven highest and eleven lowest testosterone prisoners: 10 of 11 violent in the top group, 9 of 11 non-violent in the lowest. Correlation warning." loading="lazy">
+  <figcaption>Dabbs et al. found a link between testosterone and violent crime, but the data are correlational.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--14-agg-maoa.webp" width="900" height="980" alt="MAOA gene makes an enzyme that breaks down serotonin; a Caspi grid of maltreatment by MAOA activity, qualitative." loading="lazy">
+  <figcaption>The MAOA variant matters mainly for maltreated boys: a gene-environment interaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--16-agg-frustration.webp" width="900" height="1080" alt="Blocked goal leads to frustration and aggression at the source; if unavailable, displacement; Berkowitz revision." loading="lazy">
+  <figcaption>Frustration leads to aggression, displaced if the source is unavailable; Berkowitz made it less certain.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **IRM vs FAP.** The IRM is the trigger mechanism; the FAP is the behaviour it releases.
@@ -114,6 +146,12 @@ Practise with the [aggression practice questions](/resources/aqa-a-level-psychol
 5. **AO3, debate.** Each model is one-sided. An interactionist view combines person and situation.
 6. **AO3, issues.** Nature-nurture and free will-determinism; social sensitivity when blaming individuals.
 7. **Conclusion.** Judge which model has the stronger evidence, with a reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-aggression--17-agg-prisons.webp" width="900" height="1160" alt="Importation versus deprivation, Sykes five pains, and Camp and Gaes with similar misconduct in lower and higher security prisons." loading="lazy">
+  <figcaption>Importation (dispositional) versus deprivation (situational) explanations of prison violence.</figcaption>
+</figure>
+
 
 ## Issues and debates hooks
 

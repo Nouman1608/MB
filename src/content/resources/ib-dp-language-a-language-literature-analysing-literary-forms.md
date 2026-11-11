@@ -96,6 +96,12 @@ mad?" while telling a story that proves the point.
 without "she thought". Example (original text written for Marlbridge): *She folded the letter. Well,
 and what of it?* The question is the character's voice, giving closeness with a trace of irony.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--07-lf-voice.webp" width="900" height="1046" alt="Three rows compare narrative viewpoints, each with three characters and thought bubbles. In first person the narrator is one character, “I”, and we read only that mind, giving closeness. In third person limited an eye follows one character, giving closeness with room for irony. In third person omniscient an eye above all three reads every mind and can judge characters. A filled bubble means a mind we can read; a dashed bubble means one we cannot. The narrator is not the author." loading="lazy">
+  <figcaption>First person, third person limited and omniscient narration differ in how much of the characters’ minds we can read.</figcaption>
+</figure>
+
+
 ### Structure and time
 
 - **Chronological order** versus **analepsis** (flashback) and **prolepsis** (flash-forward).
@@ -103,6 +109,12 @@ and what of it?* The question is the character's voice, giving closeness with a 
   reaches us through Lockwood, who hears most of it from Nelly Dean: two narrators, two sets of bias.
 - **Pace**: *scene* (moment by moment, often with dialogue) slows time; *summary* ("Three years
   passed") speeds it up. Watch where a writer slows down -- that is usually where the meaning sits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--08-lf-time.webp" width="900" height="930" alt="Schematic. Order: five events in chronological order along a line, with a curved arrow back to event 1 labelled analepsis (flashback) and a curved arrow forward to event 5 labelled prolepsis (flash-forward). Pace: a scene gives a short moment of story time a long stretch of page and so slows time; a summary such as “Three years passed” gives years of story only a short stretch of page and so speeds time up." loading="lazy">
+  <figcaption>Analepsis and prolepsis jump back or forward in time; scenes slow time and summary speeds it up.</figcaption>
+</figure>
+
 
 ### Worked example: prose
 
@@ -144,6 +156,12 @@ line 9. Robert Browning's "My Last Duchess" (1842) is a dramatic monologue: the 
 "That's my last Duchess painted on the wall", is polite on the surface, yet the reader slowly
 understands what he is hiding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--09-lf-sonnet.webp" width="900" height="890" alt="Two columns of fourteen numbered lines. The Petrarchan sonnet is an octave of eight lines and a sestet of six, with the turn, or volta, at line 9. The Shakespearean sonnet is three quatrains and a couplet, rhymed ABAB CDCD EFEF GG. The volta is the turn in thought or feeling." loading="lazy">
+  <figcaption>A Petrarchan sonnet is an octave and a sestet with a turn at line 9; a Shakespearean sonnet is three quatrains and a couplet.</figcaption>
+</figure>
+
+
 ### Metre and rhythm
 
 Metre is the regular pattern of stressed (/) and unstressed (x) syllables. One unit is a **foot**.
@@ -167,6 +185,12 @@ My  mis- tress' eyes are  noth- ing like the sun
 William Blake's "The Tyger" (1794) opens "Tyger Tyger, burning bright": stressed syllables first, a
 falling trochaic beat that sounds like a chant. Rhythm matters when it **changes**: a stress where
 the metre does not expect one, or a line that runs short, draws attention.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--10-lf-metre.webp" width="900" height="966" alt="Five feet shown as syllable chips marked x for unstressed and / for stressed: iamb (a-gain), trochee (gar-den), anapest (un-der-stand), dactyl (hap-pi-ly) and spondee (heart-break, often). Below, the opening line of Shakespeare’s Sonnet 130 is split into ten syllables, My mis-tress’ eyes are noth-ing like the sun, in five iambs: x / x / x / x / x /." loading="lazy">
+  <figcaption>Metre counts stressed and unstressed syllables in feet; the Sonnet 130 line is five iambs.</figcaption>
+</figure>
+
 
 ### Line breaks, sound and imagery
 
@@ -199,6 +223,12 @@ begun to sing".
 enacts the surrender. "Sing" usually suggests joy, but here it names the creak of neglect. The
 enjambment into line 4 delays the object of the singing, so "a note I did not want to know" lands as
 a hidden admission: the speaker hears decline, perhaps their own, and resists it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--11-lf-poem.webp" width="900" height="740" alt="An original four-line poem written for the lesson, with each line of eight syllables, rhymed ABAB (spring and sing, go and know). Three annotations: a caesura after “now” in line 2, where the full stop halts the line as the speaker gives up; personification in line 3, where the hinges “sing” and name the creak of neglect; and enjambment from line 3 into line 4, which delays the object of the singing." loading="lazy">
+  <figcaption>In the worked example the full stop, the personified hinges and the enjambment each shape how the quatrain’s meaning lands.</figcaption>
+</figure>
+
 
 ## Drama
 
@@ -236,6 +266,12 @@ we have already been told it "is not hers".
 "It's mine") suggest she is shielding him, or herself, from bad news. On stage the coat holds our
 attention while the words steer away from it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--12-lf-drama.webp" width="900" height="900" alt="A stage with two characters, Eva seated and Tom standing. The stage direction at the top says she folds the coat and puts it behind her. Tom asks “Is that Dad’s?” and Eva replies “It’s mine.” The hidden coat is drawn behind her chair. Below the stage an audience, shown with an eye, sees the coat, while Tom, shown with a question mark, does not know. This is dramatic irony: the audience knows, Tom does not." loading="lazy">
+  <figcaption>The audience sees the coat being hidden; Tom does not know, which is dramatic irony.</figcaption>
+</figure>
+
+
 ## Form and context
 
 Forms and their conventions belong to their time and place, which links this unit to Time and space.
@@ -255,6 +291,12 @@ Forms and their conventions belong to their time and place, which links this uni
 3. **Evidence**: a short quotation embedded in your sentence.
 4. **Effect** on the reader or audience.
 5. **Link** back to the claim or to the context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--13-lf-para.webp" width="900" height="830" alt="A five-step stack for a paragraph on any literary form: 1 Claim about meaning, linked to the question; 2 Feature of the form, named precisely; 3 Evidence, a short quotation inside your sentence; 4 Effect on the reader or audience; 5 Link back to the claim or to the context. Then the next paragraph." loading="lazy">
+  <figcaption>Claim, feature, evidence, effect, link: the five parts of a paragraph on any form.</figcaption>
+</figure>
+
 
 ## Common errors
 

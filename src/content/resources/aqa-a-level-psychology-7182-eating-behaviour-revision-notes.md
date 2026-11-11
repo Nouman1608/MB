@@ -65,6 +65,17 @@ Find every unit on the [AQA A-level Psychology hub](/boards/aqa/a-level/psycholo
 | Disinhibition | Breakdown of restraint, leading to overeating |
 | Boundary model | Intake is set by a hunger boundary and a satiety boundary, with a self-set diet boundary for dieters |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--08-psy-ghrelin-leptin.webp" width="900" height="950" alt="Schematic: stomach releases ghrelin (more hunger), fat tissue releases leptin (less appetite), both signalling the hypothalamus. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Ghrelin from the stomach raises hunger; leptin from fat tissue lowers appetite.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--09-psy-dual-centre.webp" width="900" height="1050" alt="Schematic hypothalamus with LH (starts eating), VMH (stops eating) and arcuate nucleus, plus the two rat findings. Facts taken from the lesson text." loading="lazy">
+  <figcaption>LH damage stopped eating in rats; VMH damage led to overeating.</figcaption>
+</figure>
+
+
 ## Theories and studies at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -94,6 +105,17 @@ Find every unit on the [AQA A-level Psychology hub](/boards/aqa/a-level/psycholo
 | Wardle and Beales (1988) | Women with obesity: diet, exercise, none | Diet group ate more in tests | Supports restraint theory |
 | Herman and Polivy (1984) | Boundary model | Dieters have wider zone and a diet boundary | Hard to measure boundaries |
 | Stunkard and Messick (1985) | Three-Factor Eating Questionnaire | Measures restraint, disinhibition, hunger | Self-report |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--10-psy-innate-tastes.webp" width="900" height="690" alt="Six cards: sweet, salty, fat, bitter, sour and newborn reactions. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Each innate taste preference signals something useful or harmful.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--11-psy-taste-aversion.webp" width="900" height="960" alt="Chemotherapy ice cream example and the rat finding that taste, not light or sound, is linked to illness. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Taste aversion is prepared learning: taste links to illness easily.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -145,6 +167,22 @@ Keep each AO3 point to: point, evidence, explanation, link back to the question.
 10. Adults with two copies of a higher-risk FTO variant were about 3 kg heavier on average.
 11. The breakdown of restraint, so the person overeats.
 12. They keep eating until they reach the satiety boundary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--12-psy-family-systems.webp" width="900" height="940" alt="Enmeshed family, little autonomy, and restricting food as one area of control. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Family systems theory links enmeshment to a struggle for autonomy and control over food.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--13-psy-fiji-television.webp" width="900" height="830" alt="Bar chart: about 13% within a month of television arriving, about 29% three years later. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Girls above the eating-attitudes risk threshold rose after television arrived in Fiji.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-eating-behaviour--14-psy-boundary-model.webp" width="900" height="850" alt="Two scales: non-dieter and dieter zones between hunger and satiety boundaries, with a diet boundary and keep-eating arrow. Facts taken from the lesson text." loading="lazy">
+  <figcaption>Crossing the diet boundary leads a dieter to eat on to satiety.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

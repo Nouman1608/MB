@@ -63,6 +63,12 @@ If your school teaches Gender, it is your Section B topic; your teacher will con
 - **Oestrogen.** Produced mainly by the ovaries. It drives female secondary sex characteristics at puberty and regulates the menstrual cycle.
 - **Oxytocin.** Released during labour and breastfeeding, and linked to social bonding. Taylor et al. (2000) proposed a "tend and befriend" response to stress in women, partly based on the effects of oxytocin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--01-gender-biological-sex.webp" width="900" height="910" alt="Two columns. A typical XY pair leads through the SRY gene on the Y chromosome to the testes developing and testosterone. A typical XX pair leads to the ovaries and oestrogen. A bar below notes that oxytocin is released in labour and breastfeeding and is linked to social bonding." loading="lazy">
+  <figcaption>Chromosomes start the pathway; hormones then shape development and puberty.</figcaption>
+</figure>
+
+
 ## Diversity in sex development
 
 Sometimes chromosomes, hormones and anatomy do not follow the typical pattern.
@@ -74,6 +80,12 @@ Sometimes chromosomes, hormones and anatomy do not follow the typical pattern.
 | Turner syndrome | One X chromosome; the second sex chromosome is missing or partly missing (often written XO) | Female. Short stature; ovaries do not develop typically, so puberty often needs hormone treatment; usually infertile. Some people have difficulties with spatial or maths tasks. |
 
 **Evaluation.** These cases show that biological sex is not always a simple binary. Complete AIS supports the role of hormones: without androgen response, an XY person develops a female body and usually a female identity. But case studies are small samples, and psychological differences may come from how people are treated, not only from their biology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--02-gender-sex-development.webp" width="900" height="850" alt="Four rows show chromosome icons. Typical is XX or XY. Androgen insensitivity syndrome is XY with cells that do not respond to androgens. Klinefelter’s syndrome is XXY and male. Turner syndrome has one X and is female." loading="lazy">
+  <figcaption>Klinefelter’s is XXY; Turner syndrome is one X.</figcaption>
+</figure>
+
 
 ## Gender identities and the Bem Sex Role Inventory
 
@@ -90,6 +102,12 @@ Sometimes chromosomes, hormones and anatomy do not follow the typical pattern.
 - Limitation: self-report invites social desirability bias.
 
 **Worked paragraph.** *The BSRI measures gender as two independent scales, so a person can score high on both and be classed as androgynous. This was progress, because older scales forced a choice between masculine and feminine. However, the traits were chosen by American students in the 1970s. A trait such as "ambitious" may no longer be seen as masculine, so the scale may lack temporal validity. This suggests the BSRI tells us about stereotypes of its time as much as about the person completing it.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--03-gender-bsri-scoring.webp" width="900" height="960" alt="A bar shows 60 traits split into 20 masculine, 20 feminine and 20 neutral. Each is rated 1 to 7. A grid with masculine score upward and feminine score across has four areas: masculine, feminine, androgynous (high on both) and undifferentiated (low on both)." loading="lazy">
+  <figcaption>Masculinity and femininity are scored separately, so a person can be high on both.</figcaption>
+</figure>
+
 
 ## Biological explanations of gender development
 
@@ -119,6 +137,12 @@ Kohlberg (1966) proposed that gender understanding develops in fixed stages as t
 - Limitation: children show gender-typed preferences well before age 6 (Martin and Little, 1990). This suggests constancy is not needed for gender learning to begin.
 - Limitation: the stage approach does not explain why some people's gender identity differs from their assigned sex, or why gender identity can be fluid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--04-gender-kohlberg-stages.webp" width="900" height="770" alt="A rising staircase of three steps. Gender identity at about age 2 to 3: the child labels gender but thinks it could change. Gender stability at about age 4: gender stays the same over time but may seem to change with appearance. Gender constancy at about age 6: gender is the same over time and situations." loading="lazy">
+  <figcaption>Stability is across time; constancy is across time and situations.</figcaption>
+</figure>
+
+
 ## Gender schema theory
 
 Martin and Halverson (1981) argued that gender learning begins once the child has basic gender identity (around 2 to 3). The child forms **gender schemas**: organised beliefs about what is appropriate for each gender.
@@ -133,6 +157,12 @@ Martin and Halverson (1981) argued that gender learning begins once the child ha
 - Limitation: it explains why stereotypes persist, but not where the content of schemas comes from. Social learning and culture are needed for that.
 
 **Worked paragraph.** *Gender schema theory argues that a young child explores in-group information and ignores out-group information. For example, a four-year-old boy told that a new toy is "for girls" is likely to lose interest in it. Bradbard et al. support this, as children remembered more about objects labelled for their own gender. Unlike Kohlberg, the theory explains gender-typed behaviour long before constancy, which makes it the stronger account of early development.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--05-gender-schema-theory.webp" width="900" height="930" alt="A child with basic gender identity builds two schemas. The in-group schema about their own gender gets a thick arrow because the child explores it in detail. The out-group schema about the other gender gets a thin dashed arrow because the child tends to ignore it. Below, information that does not fit a schema is distorted or forgotten." loading="lazy">
+  <figcaption>Schemas steer attention and memory towards the child’s own gender.</figcaption>
+</figure>
+
 
 ## Social learning theory, culture and media
 
@@ -151,6 +181,12 @@ Smith and Lloyd (1978) found that mothers playing with a six-month-old infant dr
 
 **Evaluation.** SLT explains cultural change and variation in gender roles. But it treats the child as passive. It cannot easily explain why gender-typed behaviour appears even when parents try to avoid it. Media studies are correlational, so direction of effect is unclear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--06-gender-social-learning.webp" width="900" height="830" alt="On the left, a model who is similar or admired, such as a same-gender parent, and three ways the environment shapes gender: direct reinforcement, vicarious reinforcement and identification. On the right, four mediational processes in order: attention, retention, motor reproduction and motivation, ending in the child imitating gendered behaviour." loading="lazy">
+  <figcaption>Social learning theory explains gender as observed, remembered and imitated.</figcaption>
+</figure>
+
+
 ## Gender incongruence
 
 **Gender incongruence** is a marked and persistent mismatch between a person's experienced gender and the sex assigned at birth. In ICD-11 (WHO), it is classed under conditions related to sexual health, not as a mental disorder. This topic is socially sensitive, so use respectful language such as "a person experiencing gender incongruence".
@@ -164,6 +200,12 @@ Smith and Lloyd (1978) found that mothers playing with a six-month-old infant dr
 - A cultural view notes that how gender diversity is understood varies between societies. Some cultures recognise identities beyond man and woman, such as hijra in South Asia and fa'afafine in Samoa. This suggests that the meaning and experience of incongruence are shaped by cultural norms.
 
 **Evaluation.** Biological research relies on small samples and post-mortem studies, and cannot show cause. Social accounts struggle to explain incongruence reported in early childhood in supportive families. Many psychologists favour an interactionist view. Researchers disagree, and you should present the debate fairly in an essay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--07-gender-incongruence-explanations.webp" width="900" height="915" alt="Gender incongruence is a mismatch between experienced gender and sex assigned at birth. Biological explanations are brain-sex theory and genetics, with a counterpoint that the BSTc difference appears only in adulthood. Social and cultural explanations are family relationships, with little support, and cultures that recognise identities beyond man and woman. Many psychologists favour an interactionist view." loading="lazy">
+  <figcaption>Two families of explanation, each with limits; many psychologists favour an interactionist view.</figcaption>
+</figure>
+
 
 ## Common errors
 

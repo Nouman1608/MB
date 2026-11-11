@@ -49,6 +49,12 @@ Spread measures ignore b and ignore the sign of a. Centre measures follow the wh
 
 **Negative multiplier.** Data with median 55 and IQR 14, coded with y = 100 − x, gives median 45 and IQR 14. The order of the data reverses, so the old upper quartile becomes the new lower quartile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding--07-coding-median-iqr.webp" width="900" height="870" alt="Three box plots on one scale. The original data 2, 5, 6, 8, 11, 12, 15, 19 have median 9.5 and IQR 8. After y = 0.5x + 10 the median is 14.75 and the IQR 4. After y = 20 minus 2x the median is 1 and the IQR is 16, and the box is reversed so the new lower quartile is minus 7 and the new upper quartile is 9." loading="lazy">
+  <figcaption>The median follows y = ax + b; the IQR is multiplied by |a| and ignores b. A negative a flips the order, so the old Q3 becomes the new Q1.</figcaption>
+</figure>
+
+
 ## Adding or removing values (6.3)
 
 | Measure | Add a value above the measure | Add a value below | Add a value equal to it |
@@ -63,6 +69,17 @@ Removing a value reverses the argument. Removing a value above the mean lowers t
 **Worked reminder.** Data 5, 7, 9, 12, 17, 20 has median 10.5. Adding 25 gives seven values, and the median is the fourth value, 12. It increased. Adding 10.5 would leave the median at 10.5.
 
 **Say why.** Write the comparison: "25 is above the old median, so the median increases or stays the same. Here it moves to 12."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding--06-coding-shift-stretch.webp" width="900" height="890" alt="Three number lines. The data 8, 11, 14, 9 and 13 have mean 11 and standard deviation 2.28. Multiplying by 3 gives mean 33 and standard deviation 6.84, so the points spread out. Subtracting 5 moves every point 5 to the left, giving mean 28 but the same standard deviation 6.84." loading="lazy">
+  <figcaption>Multiplying by 3 stretches the data away from zero (mean and SD both triple); subtracting 5 then shifts it without changing the SD.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding--08-add-value-effects.webp" width="900" height="960" alt="Top: the data 10, 12, 14, 16 have mean 13 and standard deviation 2.24. Adding the value 13 keeps the mean at 13 but the standard deviation falls to 2, because the new value adds nothing to the sum of squares. Bottom: the data 3, 5, 8, 12, 20 have median 8. Adding 2 lowers the median to 6.5, adding 8 leaves it at 8, and adding 30 raises it to 10." loading="lazy">
+  <figcaption>Adding a value equal to the mean leaves the mean unchanged but lowers the SD; the median can move only in the direction of the new value, or stay.</figcaption>
+</figure>
+
 
 ## Combined data sets (6.4)
 
@@ -93,6 +110,17 @@ Variance = 8 135/25 − 17.6² = 325.4 − 309.76 = 15.64
 
 **Missing mean.** If the combined mean and one group are known, find the missing total by subtraction, then divide by the missing group size.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding--09-combine-mean-sd.webp" width="900" height="930" alt="Top: a balance beam with group A (20 values, mean 62) and group B (30 values, mean 70). The pivot is at the combined mean 66.8, which is 4.8 from A and 3.2 from B, and 20 times 4.8 equals 30 times 3.2, which is 96. Bottom: a bar for the combined variance 62.56, made of 47.2 for spread inside the groups plus 15.36 from the gap between the group means. The combined standard deviation is the square root, 7.91." loading="lazy">
+  <figcaption>The combined mean balances the two groups by size, and the combined variance is the groups’ own spread plus an extra amount from the gap between their means.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding--10-second-mean-totals.webp" width="900" height="490" alt="One bar shows the total of all 30 values, 30 times 51 equals 1530. Group P takes 12 times 45 equals 540. What is left for group Q is 1530 minus 540 equals 990, and dividing by Q’s 18 values gives a mean of 55." loading="lazy">
+  <figcaption>Totals add up even when means do not: subtract the known group’s total from the overall total, then divide by that group’s size.</figcaption>
+</figure>
+
+
 ## Standardising and scaling (6.5)
 
 | Task | Rule |
@@ -106,6 +134,12 @@ Variance = 8 135/25 − 17.6² = 325.4 − 309.76 = 15.64
 
 **Why z-scores compare.** A z-score of 2 means "two standard deviations above the mean" in any data set. A mark is better relative to its group if its z-score is higher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding--11-z-score-ruler.webp" width="900" height="1160" alt="Top: Amir scored 72 in maths (mean 60, SD 8) and 68 in English (mean 55, SD 6.5). On a shared z scale his maths mark is at z = 1.5 and his English mark at z = 2.0, so he did relatively better in English. Bottom: a test with mean 54 and SD 12 is rescaled to mean 60 and SD 10 using the same z scale: a mark of 66 has z = 1 and becomes 70, and a rescaled mark of 55 has z = minus 0.5, so the original was 48." loading="lazy">
+  <figcaption>A z-score counts standard deviations from the mean, so marks from different tests share one scale and can be rescaled to any new mean and SD.</figcaption>
+</figure>
+
+
 ## Comparing distributions (6.6)
 
 | Question wording | Use | Larger or smaller? |
@@ -114,6 +148,12 @@ Variance = 8 135/25 − 17.6² = 325.4 − 309.76 = 15.64
 | "More consistent" | standard deviation or IQR | smaller |
 
 Always give one comparison for centre and one for spread, with the figures and the context. Pair mean with standard deviation, and median with IQR.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding--12-compare-two-machines.webp" width="900" height="780" alt="Two bars on a scale of grams show mean plus and minus one standard deviation. Machine A has mean 502 g and SD 1.8 g, a narrow bar from 500.2 to 503.8. Machine B has mean 498 g and SD 4.6 g, a wider bar from 493.4 to 502.6. Machine A fills more rice on average and is more consistent." loading="lazy">
+  <figcaption>Make two comparisons in context: the larger mean says which machine fills more on average, the smaller SD says which is more consistent.</figcaption>
+</figure>
+
 
 ## Extra worked reminders
 

@@ -65,6 +65,22 @@ Each section uses multiple choice, short answer and extended writing.
 | Out-group schema | Knowledge about the other gender, largely ignored by young children |
 | Gender incongruence | Marked, persistent mismatch between experienced gender and sex assigned at birth (ICD-11 term) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--01-gender-biological-sex.webp" width="900" height="910" alt="Two columns. A typical XY pair leads through the SRY gene on the Y chromosome to the testes developing and testosterone. A typical XX pair leads to the ovaries and oestrogen. A bar below notes that oxytocin is released in labour and breastfeeding and is linked to social bonding." loading="lazy">
+  <figcaption>Chromosomes start the pathway; hormones then shape development and puberty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--02-gender-sex-development.webp" width="900" height="850" alt="Four rows show chromosome icons. Typical is XX or XY. Androgen insensitivity syndrome is XY with cells that do not respond to androgens. Klinefelter’s syndrome is XXY and male. Turner syndrome has one X and is female." loading="lazy">
+  <figcaption>Klinefelter’s is XXY; Turner syndrome is one X.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--04-gender-kohlberg-stages.webp" width="900" height="770" alt="A rising staircase of three steps. Gender identity at about age 2 to 3: the child labels gender but thinks it could change. Gender stability at about age 4: gender stays the same over time but may seem to change with appearance. Gender constancy at about age 6: gender is the same over time and situations." loading="lazy">
+  <figcaption>Stability is across time; constancy is across time and situations.</figcaption>
+</figure>
+
+
 ## Theories and studies at a glance
 
 | Who | What | Finding | One evaluation point |
@@ -88,6 +104,17 @@ Each section uses multiple choice, short answer and extended writing.
 | Williams (1986) | "Notel", a Canadian town before and after TV | Children's gender stereotyping increased | Natural experiment; other changes possible |
 | Zhou et al. (1995) | Post-mortem BSTc in trans women | BSTc size female-typical | Chung et al. (2002): difference emerges only in adulthood |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--03-gender-bsri-scoring.webp" width="900" height="960" alt="A bar shows 60 traits split into 20 masculine, 20 feminine and 20 neutral. Each is rated 1 to 7. A grid with masculine score upward and feminine score across has four areas: masculine, feminine, androgynous (high on both) and undifferentiated (low on both)." loading="lazy">
+  <figcaption>Masculinity and femininity are scored separately, so a person can be high on both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--06-gender-social-learning.webp" width="900" height="830" alt="On the left, a model who is similar or admired, such as a same-gender parent, and three ways the environment shapes gender: direct reinforcement, vicarious reinforcement and identification. On the right, four mediational processes in order: attention, retention, motor reproduction and motivation, ending in the child imitating gendered behaviour." loading="lazy">
+  <figcaption>Social learning theory explains gender as observed, remembered and imitated.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Sex vs gender.** Sex is biological; gender is psychological and social.
@@ -108,6 +135,12 @@ Gender essays reward links to wider debates. Use them briefly and tie each to a 
 - **Reductionism:** explaining gender through testosterone alone reduces a complex identity to one level of explanation.
 - **Cultural bias:** much of the research, including the BSRI, comes from Western samples.
 - **Social sensitivity:** research on gender incongruence can affect how a group is treated, so wording and interpretation matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--07-gender-incongruence-explanations.webp" width="900" height="915" alt="Gender incongruence is a mismatch between experienced gender and sex assigned at birth. Biological explanations are brain-sex theory and genetics, with a counterpoint that the BSTc difference appears only in adulthood. Social and cultural explanations are family relationships, with little support, and cultures that recognise identities beyond man and woman. Many psychologists favour an interactionist view." loading="lazy">
+  <figcaption>Two families of explanation, each with limits; many psychologists favour an interactionist view.</figcaption>
+</figure>
+
 
 ## Mini essay plan
 
@@ -151,6 +184,12 @@ Keep the description tight. Spend most of your time on linked evaluation; your t
 10. Williams (1986), the "Notel" study.
 11. The sex difference in BSTc size does not appear until adulthood.
 12. Under conditions related to sexual health, not as a mental disorder.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-gender--05-gender-schema-theory.webp" width="900" height="930" alt="A child with basic gender identity builds two schemas. The in-group schema about their own gender gets a thick arrow because the child explores it in detail. The out-group schema about the other gender gets a thin dashed arrow because the child tends to ignore it. Below, information that does not fit a schema is distorted or forgotten." loading="lazy">
+  <figcaption>Schemas steer attention and memory towards the child’s own gender.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

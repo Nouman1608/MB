@@ -144,6 +144,27 @@ Increasing the **sample resolution** (bits per sample) instead allows
 each individual measurement to be recorded more precisely, again at
 the cost of a larger file.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-representation--02-dr-overflow.webp" width="900" height="880" alt="Adding 11010010 (210) and 01100011 (99) gives 100110101 (309), which needs 9 bits. The 8-bit register keeps only 00110101 (53), so the answer is wrong. Overflow occurs because 309 is more than 255." loading="lazy">
+  <figcaption>Adding 210 and 99 in an 8-bit register overflows because 309 needs 9 bits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-representation--03-dr-sample-rate.webp" width="900" height="980" alt="Two graphs show the same wave sampled 6 times and 18 times per cycle. More samples follow the wave more closely but mean three times as much data to store. Example numbers are illustrative." loading="lazy">
+  <figcaption>More samples per second give a closer copy of the sound but a bigger file.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-representation--04-dr-sample-resolution.webp" width="900" height="980" alt="Two graphs show the same wave stored with 2 bits (4 levels) and 4 bits (16 levels) per sample. More bits per sample record each measurement more precisely but make the file bigger. Example numbers are illustrative." loading="lazy">
+  <figcaption>More bits per sample record each measurement more precisely at the cost of a larger file.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-representation--05-dr-image-size.webp" width="900" height="1360" alt="An 800 by 600 image with 24 bits per pixel is 11,520,000 bits. Dividing by 8 gives 1,440,000 bytes, then by 1024 twice gives 1.37 MiB. Halving the colour depth to 12 bits halves the size but leaves only 4096 colours." loading="lazy">
+  <figcaption>The 800 x 600, 24-bit image is 1.37 MiB; halving the colour depth halves the size.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **Why do computers use binary?**
@@ -169,3 +190,14 @@ Using 1000 instead of 1024 as the conversion factor between storage units. The s
 Cambridge IGCSE Computer Science 0478 syllabus for 2026, 2027 and 2028
 (Version 6, September 2026) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697167-2026-2028-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-representation--01-dr-binary-hex.webp" width="900" height="840" alt="Place values 128 to 1 sit above the bits of 11010010. Bits that are 1 add up to 210. The byte splits into two nibbles, 1101 (13, hex D) and 0010 (2, hex 2), giving D2." loading="lazy">
+  <figcaption>The byte 11010010 is 210 in denary and D2 in hexadecimal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-computer-science-data-representation--06-dr-storage-units.webp" width="900" height="1110" alt="A nibble is 4 bits and a byte is 8 bits. From the kibibyte upwards each unit is 1024 times the one below it, up to the exbibyte. Bar length is on a log scale." loading="lazy">
+  <figcaption>Each storage unit from the kibibyte up is 1024 times the previous one, not 1000.</figcaption>
+</figure>
+

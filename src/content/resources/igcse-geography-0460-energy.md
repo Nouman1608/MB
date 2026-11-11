@@ -57,6 +57,12 @@ The guidance column uses "including", so you must study every source listed but 
 | Intermittent | A supply that is not always available, such as solar at night or wind on calm days |
 | Energy security | Having a reliable, affordable supply of energy, ideally not dependent on a single source or supplier |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--07-en-stock-flow.webp" width="900" height="780" alt="Two tanks. The left tank has a falling liquid level and no inflow, labelled stock, used up: coal, oil, natural gas and uranium. The right tank is kept full by a pipe flowing in and another flowing out, labelled flow, replaced: wind, sunlight, moving water and the Earth’s heat. A warning box says nuclear power is low-carbon but uranium is a non-renewable stock." loading="lazy">
+  <figcaption>Non-renewable energy comes from a stock that is used up; renewable energy comes from a flow that is naturally replaced.</figcaption>
+</figure>
+
+
 ## 1. The importance of fossil fuels
 
 Coal, oil and natural gas still supply most of the world's energy. As of 2022, about 80% of world energy consumption came from fossil fuels. In 2024, coal and natural gas together still generated about 56.5% of world electricity, with coal alone at 34.4%.
@@ -70,6 +76,12 @@ Coal, oil and natural gas still supply most of the world's energy. As of 2022, a
 **At different levels of development.** High-income countries use the most fossil fuel per person, for cars, heating and industry. Many emerging economies are increasing their use fastest as industry and cities grow. In many low-income countries, the main use is oil for transport and a few generators, because grid electricity reaches few rural homes.
 
 **Problems.** Burning fossil fuels releases carbon dioxide, which drives enhanced global warming, and causes air pollution. Reserves will run out. Importing countries are exposed to price rises. These problems are the main reason countries look to nuclear and renewable sources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--08-en-electricity-2024.webp" width="900" height="770" alt="A column chart of world electricity in 2024. Coal is 34.4 per cent and gas 22.1 per cent, together 56.5 per cent from fossil fuels. Hydro is 14.4, wind 8.1 and solar 6.9, together 29.4 per cent. Everything else makes up 14.1 per cent. Gas and everything else are calculated by subtraction." loading="lazy">
+  <figcaption>Coal and gas still generated more than half of world electricity in 2024, while hydro, wind and solar generated nearly 30%.</figcaption>
+</figure>
+
 
 ## 2. The importance of fuelwood
 
@@ -98,6 +110,12 @@ Nuclear power stations heat water by splitting uranium atoms. The steam drives t
 
 **Worked paragraph (Evaluate).** "Nuclear power provides large amounts of low-carbon electricity (knowledge). France built most of its reactors after the 1973 oil crisis so that it would depend less on imported oil, and by 2018 nuclear made about 72% of its electricity (application). This cut emissions and gave a steady supply, but France must still store long-lived radioactive waste and pay rising costs for new reactors such as Flamanville (analysis). Nuclear power is a strong option for a wealthy country with good regulation, but its cost and waste make it less suitable for poorer countries (evaluation)."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--09-en-nuclear.webp" width="900" height="750" alt="Four numbered boxes joined by arrows: uranium atoms split and give off heat; the heat turns water to steam; steam spins a turbine; a generator makes electricity, carried by a pylon. A blue strip under the third box says cooling water comes from the coast or a river. A bar at the bottom shows about 72 per cent of France’s electricity coming from nuclear in 2018." loading="lazy">
+  <figcaption>Splitting uranium atoms heats water to make steam that drives a turbine; the station needs cooling water.</figcaption>
+</figure>
+
+
 ## 4. Renewable energy sources
 
 Hydro, wind and solar together supplied about 29% of world electricity in 2024: hydro 14.4%, wind 8.1% and solar 6.9%. Other renewables, such as bioenergy and geothermal, add a little more. Each source needs particular physical conditions.
@@ -121,6 +139,12 @@ Hydro, wind and solar together supplied about 29% of world electricity in 2024: 
 
 **Worked paragraph (Evaluate a renewable).** "HEP produces large amounts of electricity without burning fuel (knowledge). The Three Gorges Dam on the Yangtze can generate about 22,500 MW (application). However, building the reservoir displaced over a million people and traps sediment behind the dam, so the benefits for cities and industry came at a cost to local communities and the river (analysis). HEP is reliable and low-carbon, but large schemes have social costs that smaller schemes might avoid (evaluation)."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--10-en-renewable-needs.webp" width="900" height="740" alt="Eight tiles with small pictures. Geothermal needs plate boundaries or volcanic areas. Wind needs strong, steady wind on hills, coasts or at sea. HEP needs high rainfall and a deep, narrow valley. Wave needs exposed, windy coasts. Tidal needs a large tidal range, often an estuary. Solar suits sunny, low-latitude, dry areas. Biofuels come from crops such as sugarcane or from waste. The last tile says wind and solar are intermittent: wind fails on calm days and solar at night." loading="lazy">
+  <figcaption>Each renewable source works only where the right physical conditions exist.</figcaption>
+</figure>
+
+
 ## 5. Energy at different levels of development
 
 | | Low-income countries | Middle-income / emerging | High-income countries |
@@ -130,6 +154,12 @@ Hydro, wind and solar together supplied about 29% of world electricity in 2024: 
 | Main issues | No grid in rural areas; health and deforestation from fuelwood | Air pollution from coal; meeting fast-rising demand | Reducing carbon emissions; replacing old power stations |
 
 Energy use per person rises with income. In 2018, the world average was 1.2 tonnes of oil equivalent per person, but the United States used 4.4 and India 0.4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--11-en-per-person.webp" width="900" height="830" alt="Three rows of drops, each drop meaning 0.4 tonnes of oil equivalent per person. The United States has 11 drops (4.4 tonnes), the world average 3 drops (1.2 tonnes) and India 1 drop (0.4 tonnes). The United States uses 11 times as much as India." loading="lazy">
+  <figcaption>Energy use per person rises with income: the United States used 11 times as much as India in 2018.</figcaption>
+</figure>
+
 
 ## 6. Case study: energy supply in Iceland
 
@@ -147,6 +177,17 @@ Energy use per person rises with income. In 2018, the world average was 1.2 tonn
 **Evaluation.** Iceland shows how physical geography decides which renewables a country can use. It also shows disadvantages: large reservoirs damage wilderness, geothermal plants release gases, and imported oil is still needed for transport. Its model cannot simply be copied by countries without plate-boundary heat or a small population.
 
 **Worked case-study paragraph.** "Iceland gets almost all its electricity from renewable sources: in 2025, 70.5% came from hydropower and 29.4% from geothermal (knowledge). This is because it lies on the Mid-Atlantic Ridge, where heat near the surface supplies plants such as Hellisheiði, and because high rainfall and glaciers feed rivers used by schemes such as Kárahnjúkar (application). Cheap power has attracted aluminium smelters, but the 690 MW Kárahnjúkar scheme flooded highland and caused protests (analysis). Iceland's supply is low-carbon and secure, yet it still imports oil for transport, so it is not fully renewable (evaluation)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--12-en-iceland-setting.webp" width="900" height="830" alt="A cross-section of the ground. On the left, a geothermal plant (Hellisheiði, 303 megawatts) sits above two wells that reach hot rock; below the hot rock two arrows point apart, labelled Mid-Atlantic Ridge, plates move apart. On the right, a cloud and a glacier sit over a highland with a river running down to a reservoir behind a dam (690 megawatts). A dashed line carries power from the dam to an aluminium smelter." loading="lazy">
+  <figcaption>Plate-boundary heat and glacier-fed rivers let Iceland generate geothermal and hydro-electric power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--13-en-iceland-mix.webp" width="900" height="830" alt="Two horizontal bars. The first shows Iceland’s electricity in 2025: hydropower 70.5 per cent and geothermal 29.4 per cent, with a 0.1 per cent sliver of other. The second shows primary energy in 2016: geothermal 65 per cent, hydro 20 per cent and the rest 15 per cent, mostly imported fossil fuel; the renewable part is 85 per cent. Two panels add that about 90 per cent of homes are heated by geothermal energy while cars, ships, aircraft and fishing boats still use imported oil." loading="lazy">
+  <figcaption>Iceland’s electricity is almost all renewable, but its total energy is not, because transport still runs on imported fossil fuel.</figcaption>
+</figure>
+
 
 ## Common errors
 

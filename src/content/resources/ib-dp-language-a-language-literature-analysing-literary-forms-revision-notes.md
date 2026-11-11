@@ -64,6 +64,17 @@ Links: [practice questions](/resources/ib-dp-language-a-language-literature-anal
 | Frame narrative | A story told inside another story |
 | Scene / summary | Slow, moment-by-moment time / fast, compressed time |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--07-lf-voice.webp" width="900" height="1046" alt="Three rows compare narrative viewpoints, each with three characters and thought bubbles. In first person the narrator is one character, “I”, and we read only that mind, giving closeness. In third person limited an eye follows one character, giving closeness with room for irony. In third person omniscient an eye above all three reads every mind and can judge characters. A filled bubble means a mind we can read; a dashed bubble means one we cannot. The narrator is not the author." loading="lazy">
+  <figcaption>First person, third person limited and omniscient narration differ in how much of the characters’ minds we can read.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--08-lf-time.webp" width="900" height="930" alt="Schematic. Order: five events in chronological order along a line, with a curved arrow back to event 1 labelled analepsis (flashback) and a curved arrow forward to event 5 labelled prolepsis (flash-forward). Pace: a scene gives a short moment of story time a long stretch of page and so slows time; a summary such as “Three years passed” gives years of story only a short stretch of page and so speeds time up." loading="lazy">
+  <figcaption>Analepsis and prolepsis jump back or forward in time; scenes slow time and summary speeds it up.</figcaption>
+</figure>
+
+
 ## Key terms: poetry
 
 | Term | Definition |
@@ -81,6 +92,17 @@ Links: [practice questions](/resources/ib-dp-language-a-language-literature-anal
 | Half-rhyme | Near rhyme, e.g. *heart/hurt* |
 | Dramatic monologue | One speaker, a silent listener, unintended self-revelation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--09-lf-sonnet.webp" width="900" height="890" alt="Two columns of fourteen numbered lines. The Petrarchan sonnet is an octave of eight lines and a sestet of six, with the turn, or volta, at line 9. The Shakespearean sonnet is three quatrains and a couplet, rhymed ABAB CDCD EFEF GG. The volta is the turn in thought or feeling." loading="lazy">
+  <figcaption>A Petrarchan sonnet is an octave and a sestet with a turn at line 9; a Shakespearean sonnet is three quatrains and a couplet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--11-lf-poem.webp" width="900" height="740" alt="An original four-line poem written for the lesson, with each line of eight syllables, rhymed ABAB (spring and sing, go and know). Three annotations: a caesura after “now” in line 2, where the full stop halts the line as the speaker gives up; personification in line 3, where the hinges “sing” and name the creak of neglect; and enjambment from line 3 into line 4, which delays the object of the singing." loading="lazy">
+  <figcaption>In the worked example the full stop, the personified hinges and the enjambment each shape how the quatrain’s meaning lands.</figcaption>
+</figure>
+
+
 ## Key terms: drama
 
 | Term | Definition |
@@ -94,6 +116,12 @@ Links: [practice questions](/resources/ib-dp-language-a-language-literature-anal
 | Exposition | Early information the audience needs |
 | Climax | Point of highest tension |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--12-lf-drama.webp" width="900" height="900" alt="A stage with two characters, Eva seated and Tom standing. The stage direction at the top says she folds the coat and puts it behind her. Tom asks “Is that Dad’s?” and Eva replies “It’s mine.” The hidden coat is drawn behind her chair. Below the stage an audience, shown with an eye, sees the coat, while Tom, shown with a question mark, does not know. This is dramatic irony: the audience knows, Tom does not." loading="lazy">
+  <figcaption>The audience sees the coat being hidden; Tom does not know, which is dramatic irony.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 ### Close-reading any literary extract
@@ -104,6 +132,12 @@ Links: [practice questions](/resources/ib-dp-language-a-language-literature-anal
 4. **Language.** Imagery, sound, sentence length, register.
 5. **Effect and meaning.** For every feature: what does it make the reader or audience feel, notice or
    believe?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--13-lf-para.webp" width="900" height="830" alt="A five-step stack for a paragraph on any literary form: 1 Claim about meaning, linked to the question; 2 Feature of the form, named precisely; 3 Evidence, a short quotation inside your sentence; 4 Effect on the reader or audience; 5 Link back to the claim or to the context. Then the next paragraph." loading="lazy">
+  <figcaption>Claim, feature, evidence, effect, link: the five parts of a paragraph on any form.</figcaption>
+</figure>
+
 
 ### Scanning a line of verse
 
@@ -124,6 +158,12 @@ The  rain  had  kept  its  prom- ise  all  the  day
 Ten syllables, five iambs: **iambic pentameter**. Now try "The rain kept every promise it had
 made". If you say *every* as two syllables (EV-ry), the line has ten; as three, eleven. Count as you
 would naturally say the line, and state your reading if it is ambiguous.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-analysing-literary-forms--10-lf-metre.webp" width="900" height="966" alt="Five feet shown as syllable chips marked x for unstressed and / for stressed: iamb (a-gain), trochee (gar-den), anapest (un-der-stand), dactyl (hap-pi-ly) and spondee (heart-break, often). Below, the opening line of Shakespeare’s Sonnet 130 is split into ten syllables, My mis-tress’ eyes are noth-ing like the sun, in five iambs: x / x / x / x / x /." loading="lazy">
+  <figcaption>Metre counts stressed and unstressed syllables in feet; the Sonnet 130 line is five iambs.</figcaption>
+</figure>
+
 
 ### Reading a stage direction
 

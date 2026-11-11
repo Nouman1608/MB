@@ -78,6 +78,12 @@ options will apply to you.
 OxfordAQA International GCSE History (9245) specification PDF —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-history-specification.pdf).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--07-ir-two-sections.webp" width="900" height="1136" alt="Two blocks. Section A, source-based, choose 1 of 2: Peacemaking and the League of Nations, or Crises of the Cold War; it carries all the source-handling marks. Section B, knowledge-based, choose 1 of 4: origins of the First World War, Hitler’s foreign policy and the origins of the Second World War, origins and development of the Cold War, or Détente and the collapse of communism; each opens with a 3-mark item. A banner says you study exactly two, one from each section." loading="lazy">
+  <figcaption>A candidate studies one option from Section A and one from Section B.</figcaption>
+</figure>
+
+
 ## Section A's pre-released sources
 
 Section A is entirely source-based and carries all of this paper's
@@ -103,6 +109,12 @@ evaluates a given issue or development using a range of the sources,
 unseen and pre-released, together with your own knowledge. Reliability
 on its own is not a separate question type.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--08-ir-section-a-sources.webp" width="900" height="1072" alt="Five source cards: three teal cards for the pre-released booklet, released 1 February for May/June or 1 July for October/November, and two dashed gold cards for unseen sources. Four bars scaled to marks show Q1 4 marks, Q2 6, Q3 8 and Q4 12, all source skills, totalling 30 marks. A warning says no notes may be taken into the exam; a clean copy of all five sources is provided." loading="lazy">
+  <figcaption>Three sources are known in advance, two are not; four questions use them for 4, 6, 8 and 12 marks.</figcaption>
+</figure>
+
+
 ## What Section B requires
 
 Section B tests **explanation and judgement**, not recall of a narrative. Every Section B option opens with a 3-mark item that is point-marked -- one mark for each relevant feature identified, up to the maximum -- before the recurring explanation and judgement question types: explain why something happened, and assess how far one factor was responsible. Chronology matters only insofar as it supports causation.
@@ -116,6 +128,17 @@ The **Treaty of Versailles (1919)** imposed on Germany the war guilt clause (Art
 The Big Three wanted different things — Clemenceau security and revenge, Lloyd George a balance preserving trade, Wilson his Fourteen Points and self-determination — and the treaty satisfied none of them fully, which is itself a standard exam judgement.
 
 The **League of Nations** succeeded in the 1920s in smaller disputes (Aaland Islands, Upper Silesia) and in humanitarian work, but failed over **Manchuria (1931)** and **Abyssinia (1935)**. Its structural weaknesses were the absence of the USA, the requirement for unanimity, the lack of an army, and the slowness of its procedures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--09-ir-versailles.webp" width="900" height="1060" alt="Five term tiles: Article 231 war guilt clause; reparations of 6.6 billion pounds; an army capped at 100,000 with no air force, submarines or tanks; demilitarised Rhineland; and land lost, Alsace-Lorraine, the Polish Corridor and all colonies. Below, three person cards: Clemenceau wanted security and revenge, Lloyd George a balance that kept trade, Wilson his Fourteen Points and self-determination. A banner says the treaty satisfied none of them fully." loading="lazy">
+  <figcaption>What Versailles imposed on Germany, and why the Big Three were not all satisfied.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--10-ir-league.webp" width="900" height="980" alt="A timeline from 1919 to 1936 marks the 1920s as a teal bar with successes: Aaland Islands, Upper Silesia and humanitarian work, and two red markers for failures: Manchuria in 1931 and Abyssinia in 1935. Below, a temple labelled League of Nations stands on four cracked pillars, each labelled with a weakness: no USA, needed unanimity, no army, slow procedures." loading="lazy">
+  <figcaption>The League won small disputes in the 1920s but failed over Manchuria and Abyssinia; four structural weaknesses explain why.</figcaption>
+</figure>
+
 
 ## The road to war, 1933-39
 
@@ -133,11 +156,23 @@ Hitler's foreign policy aims — overturning Versailles, *Lebensraum*, and union
 
 Appeasement is defensible on the arguments that Britain was militarily unready, that public opinion feared another war, that Versailles was widely thought unjust, and that the USSR seemed a greater threat. Against it: each concession strengthened Hitler and convinced him the democracies would not fight.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--11-ir-road-to-war.webp" width="900" height="942" alt="Three aims of Hitler are shown above a vertical timeline: overturn Versailles, Lebensraum and union with Austria. The timeline runs 1933 Germany leaves the League and the Disarmament Conference; 1935 conscription and the Anglo-German Naval Agreement; 1936 Rhineland remilitarised with no Allied response; 1938 Anschluss; 1938 Munich Agreement and the Sudetenland; 1939 rest of Czechoslovakia occupied and appeasement abandoned; 1939 Nazi-Soviet Pact, invasion of Poland and war." loading="lazy">
+  <figcaption>Hitler’s aims met appeasement from 1933 until the occupation of Czechoslovakia in 1939.</figcaption>
+</figure>
+
+
 ## The Cold War
 
 Origins lie in ideological opposition, wartime conferences (Yalta and Potsdam), and mutual mistrust deepened by the atomic bomb.
 
 Key developments: the **Truman Doctrine** and **Marshall Plan** (1947), the **Berlin Blockade and Airlift** (1948-49), NATO (1949) and the Warsaw Pact (1955), the **Berlin Wall** (1961), and the **Cuban Missile Crisis** (1962) — the closest approach to nuclear war, resolved by the removal of Soviet missiles in exchange for a US pledge not to invade Cuba and the quiet withdrawal of missiles from Turkey.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--12-ir-cold-war.webp" width="900" height="1206" alt="Three origin boxes (ideological opposition, Yalta and Potsdam, mistrust and the atomic bomb) lead to a vertical timeline: 1947 Truman Doctrine and Marshall Plan; 1948 to 49 Berlin Blockade and Airlift; 1949 NATO; 1955 Warsaw Pact; 1961 Berlin Wall; 1962 Cuban Missile Crisis, the closest approach to nuclear war. A final panel shows the USSR removing missiles from Cuba in exchange for a US pledge not to invade Cuba, and US missiles quietly leaving Turkey." loading="lazy">
+  <figcaption>Six developments from 1947 to 1962, and the exchange that ended the Cuban Missile Crisis.</figcaption>
+</figure>
+
 
 ## Worked example (Section B)
 
@@ -169,6 +204,12 @@ JUDGEMENT  appeasement enabled each step, but Hitler's own expansionist aims
 ```
 
 The judgement, not the list, carries the top band.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--13-ir-appeasement-balance.webp" width="900" height="930" alt="A balance scale. The left pan holds appeasement, concessions cost Hitler nothing. The right pan, which sits lower, holds five other factors: Hitler’s own aims, British rearmament, public opinion, Versailles resentment and the Nazi-Soviet Pact. A panel gives the judgement: appeasement enabled each step but Hitler’s own aims were the underlying driver; the judgement, not the list, carries the top band." loading="lazy">
+  <figcaption>A top-band Section B answer weighs the claim against other factors and reaches a judgement.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

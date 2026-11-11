@@ -67,6 +67,12 @@ this guide is for Depth Study A.
   Allied advance, including the impact of American entry into the war; conditions in Germany at the end of
   the war (the Kiel Mutiny, the German Revolution and the Kaiser's abdication); the Armistice
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--01-ww1-where-it-fits.webp" width="900" height="1010" alt="Two blocks show what every candidate studies: one Core Content option (Nineteenth or Twentieth Century) and at least one of five Depth Studies, with The First World War highlighted. Arrows lead to Paper 1 Section A (two Core Content questions) and Section B (one Depth Study question, two set per study). A dashed box notes that Depth Study content also underpins Paper 4 and Coursework." loading="lazy">
+  <figcaption>Depth Study A is one of five options examined in Section B of Paper 1.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Cambridge's Depth Study questions are typically framed around Key Questions -- broad, causal or
@@ -82,6 +88,12 @@ Cambridge IGCSE History (0470) syllabus, for examination in 2024-2026 --
 The syllabus coverage above was checked against this syllabus (Version 1) on 2026-09-21. Always check
 the current syllabus document for the complete content list before an exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--02-ww1-key-questions.webp" width="900" height="1070" alt="Four numbered cards list the key questions of Depth Study A with the main topics under each: stalemate on the Western Front, whether it was a world war, other fronts, and why Germany asked for an armistice in 1918. A dashed box says the causes of the war are background only and belong to Core Content Option A, key question 6." loading="lazy">
+  <figcaption>Depth Study A is organised around four key questions; the causes of the war belong to Core Content.</figcaption>
+</figure>
+
+
 ## Why the Schlieffen Plan failed
 
 Germany's pre-war strategy assumed a rapid knockout of France through Belgium, before Russia could fully
@@ -91,6 +103,12 @@ army was halted at the First Battle of the Marne in September 1914. This failure
 directly responsible for the war becoming a prolonged, entrenched conflict rather than the short campaign
 military planners on both sides had expected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--03-ww1-schlieffen-failure.webp" width="900" height="1210" alt="A schematic shows Germany advancing through a gate labelled Belgium towards France, with bars showing the aim of beating France before Russia fully mobilises. Four steps follow: Belgian resistance slows the advance, Britain enters under treaty commitments, the army is halted at the First Battle of the Marne in September 1914, and a long entrenched war results." loading="lazy">
+  <figcaption>The plan to win quickly in the west failed at Belgium and the Marne.</figcaption>
+</figure>
+
+
 ## Trench warfare: why the stalemate was so hard to break
 
 Defensive technology -- machine guns, barbed wire, and pre-registered artillery -- gave defenders a huge
@@ -99,6 +117,12 @@ produced enormous casualties for very limited territorial gain. New technologies
 (tanks, aircraft, and improved artillery tactics such as the creeping barrage) were attempts to restore
 mobility to the battlefield, though none proved decisive on their own until combined together, alongside
 manpower and supply exhaustion, late in the war.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--04-ww1-stalemate-defence.webp" width="900" height="1170" alt="A not-to-scale cross-section shows attackers crossing open ground towards a defended trench. Numbered labels mark open ground, barbed wire, a machine gun and pre-registered artillery. A gold box says defenders held the advantage, giving huge casualties for little territorial gain. Three tiles show tanks, aircraft and creeping barrages as attempts to restore movement, none decisive alone." loading="lazy">
+  <figcaption>Machine guns, wire and artillery favoured defenders; new weapons only worked when combined.</figcaption>
+</figure>
+
 
 ## Worked example: answering a "why" Key Question
 
@@ -126,6 +150,12 @@ Allied counter-offensive that followed.
 Step 4 - use precise dates and named events throughout, not vague
 references to "later in the war."
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--05-ww1-armistice-answer.webp" width="900" height="1010" alt="Four steps for answering a why question. Three factors (US entry 1917, failed Spring Offensive 1918, exhaustion of the Central Powers) are each explained, then weighed on scales to reach a judgement, with a tick for precise events such as the 1918 Spring Offensive and a cross for vague phrases such as later in the war." loading="lazy">
+  <figcaption>Name several factors, explain each, weigh them, and keep dates precise.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

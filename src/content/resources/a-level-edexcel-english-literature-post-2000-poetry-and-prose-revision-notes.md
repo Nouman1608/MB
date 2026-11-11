@@ -54,6 +54,12 @@ Pi*, *Purple Hibiscus* and *The White Tiger* (see the [study guide](/resources/a
 choice of two questions, so four exam-day decisions in total (two per section, though you only
 answer one per section) shape how the paper actually plays out for you.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--01-unit1-at-a-glance.webp" width="900" height="880" alt="Unit 1 is a 2-hour, open-book exam worth 50 marks, split into two 25-mark sections. Section A (poetry) is marked on AO1, AO2 and AO4; Section B (prose) on AO1, AO2 and AO3." loading="lazy">
+  <figcaption>The exam has two equal 25-mark sections with different assessment objectives.</figcaption>
+</figure>
+
+
 ## Section A — comparative poetry
 
 - One poem is named by the exam board; you choose the second from the 21 prescribed *Poems of the Decade* poems listed above.
@@ -64,12 +70,34 @@ answer one per section) shape how the paper actually plays out for you.
 - Structure comparative answers **by point of comparison**, not poem-by-poem — this is what makes
   AO4 (connections across texts) visible throughout the response rather than only in a conclusion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--03-section-a-poem-pair.webp" width="900" height="970" alt="A named poem and a poem of your own choice are compared; both come from the 21 prescribed poems. The exam is open book. Marked on AO1, AO2 and AO4, not AO3." loading="lazy">
+  <figcaption>Section A pairs one poem named by the board with one you choose from the same 21.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--04-comparison-structure.webp" width="900" height="920" alt="Poem-by-poem puts all links at the end; by point of comparison places both poems side by side in every paragraph so AO4 is visible throughout." loading="lazy">
+  <figcaption>Structure by point of comparison so connections show in every paragraph.</figcaption>
+</figure>
+
+
 ## Section B — post-2000 prose
 
 - AO1, AO2, AO3 (context) — context here is contemporary, not historical.
 - Both texts postdate 2000, so contextual analysis should focus on **recent social/cultural concerns** the writer engages with, not period history.
 - There is also a choice of two questions in Section B — one essay from that choice, on your chosen post-2000 prose fiction text.
 - The prescribed prose text is revised by specification issue, not rotated by examination series, so confirm which specification issue governs your own series before beginning detailed revision — do not expect a different title each series.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--05-section-b-prose.webp" width="900" height="890" alt="The five prescribed novels are shown as a stack of books. Section B is marked on AO1, AO2 and AO3 and the context focus is contemporary social and cultural concerns, not historical background." loading="lazy">
+  <figcaption>One of five post-2000 novels; context means contemporary concerns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--07-teaching-order.webp" width="900" height="880" alt="Four ascending steps show Units 1 to 4 under an arrow of heavier language demands, with the skills built first on Unit 1. No order is prescribed and any unit can be resat." loading="lazy">
+  <figcaption>Post-2000 first is a common choice, not a rule.</figcaption>
+</figure>
+
 
 ## Where marks tend to be lost
 
@@ -78,6 +106,12 @@ point-by-point, which caps how much AO4 credit is available even if each individ
 analysed well. Weaker Section B responses drift into general "issue" commentary — describing what
 a novel is "about" — instead of analysing the specific techniques (structure, narrative voice, form)
 through which the writer explores that concern, which is what AO2 actually rewards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--06-prose-technique-not-theme.webp" width="900" height="880" alt="A low block (theme described, capped) and a tall block (narrative structure, voice and form analysed, leading to meaning shaped around the concern, higher marks) with an arrow from one to the other." loading="lazy">
+  <figcaption>Describing theme without analysing technique caps the mark.</figcaption>
+</figure>
+
 
 ## Where Unit 1 sits in the wider qualification
 
@@ -114,6 +148,12 @@ A-Level.
 7. In a common teaching order, why might Unit 1 come before Unit 4?
 
 **Answers:** 1. 25% of the full International Advanced Level (50% of the AS). 2. AO3 (context). 3. Since the text is available in the exam, memorising exact quotations matters less than being able to navigate the text quickly and analyse it well under time pressure. 4. Contemporary social and cultural context, since both set texts were published after 2000. 5. Two questions per section — reading both before committing lets you choose the option that best fits the poems and prose text you know most confidently, rather than answering the first question you see. 6. Units 1 and 2 — Unit 1 covers post-2000 poetry and prose, Unit 2 covers drama, both open book and worth 50 marks / 25% of the full IAL each. 7. Post-2000 texts are generally more linguistically accessible than the Shakespeare and pre-1900 poetry studied in Unit 4, so studying them first can let candidates build core analytical skills before tackling older, more demanding language — though the specification itself prescribes no unit order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-english-literature-post-2000-poetry-and-prose--02-unit1-weight.webp" width="900" height="920" alt="Two bars: for AS-only Units 1 and 2 are 50% each; for the full IAL Units 1 and 2 are 25% each and Units 3 and 4 share the other 50%. Unit 1 is highlighted." loading="lazy">
+  <figcaption>Unit 1 is half of the AS but a quarter of the full A Level.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

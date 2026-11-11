@@ -141,6 +141,27 @@ each use is a potential benefit, and each has a documented limitation
 (for example, hydro-electric power versus disruption to river
 ecosystems and downstream communities).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--07-wa-water-cycle.webp" width="900" height="1020" alt="A landscape cross-section, not to scale. Five stores are shown as navy labels: atmosphere, oceans of salt water, glaciers and ice sheets, lakes and rivers, and ground water. Arrows show transfers: evaporation, condensation, precipitation, interception, transpiration, surface run-off, infiltration, through-flow and ground water flow." loading="lazy">
+  <figcaption>The water cycle is a set of stores linked by transfers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--08-wa-treatment.webp" width="900" height="1100" alt="Four rows in order: screening (bars hold back debris), sedimentation (particles settle in a tank), filtration (water passes down through sand and gravel) and chlorination (chlorine added), ending with potable water from a tap." loading="lazy">
+  <figcaption>Water is treated in four stages: screening, sedimentation, filtration and chlorination.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--09-wa-desalination.webp" width="900" height="1100" alt="Two panels. Distillation: salt water is heated, vapour passes into a cooled pipe where it condenses, and fresh water collects while salt stays behind. Reverse osmosis: high pressure pushes salty water against a membrane so that water passes to the fresh side and salt stays. A note says to weigh cost and energy use against water security." loading="lazy">
+  <figcaption>Distillation boils and condenses; reverse osmosis uses pressure and a membrane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--10-wa-dam.webp" width="900" height="900" alt="A dam cross-section, not to scale, with eight numbered uses: flood control, hydro-electric power, irrigation, storage, transport, recreation, tourism and fish farming. A legend lists them." loading="lazy">
+  <figcaption>A multipurpose dam has eight listed uses, each with a possible limitation.</figcaption>
+</figure>
+
+
 ## Water pollution (3.2)
 
 The five sources of pollution and the impacts that follow from them are
@@ -168,6 +189,17 @@ specific limitation (for example, insecticide resistance limiting
 spraying programmes, or vaccination access gaps) rather than a generic
 "it is expensive" answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--11-wa-eutrophication.webp" width="900" height="800" alt="A lake cross-section with five numbered steps: nutrients from fields or sewage wash in; an algal bloom covers the surface; the bloom blocks light; algae die and decompose, using up oxygen; fish and other aquatic life are harmed." loading="lazy">
+  <figcaption>Eutrophication is a chain from nutrient enrichment to oxygen loss and harm to aquatic life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--12-wa-bio-accumulation-magnification.webp" width="900" height="990" alt="Top panel: the same fish shown three times with more toxin dots each time, for bioaccumulation inside a single organism over time. Bottom panel: prey, predator and top predator joined by eaten-by arrows with more toxin dots at each level, for biomagnification up a food chain." loading="lazy">
+  <figcaption>Bioaccumulation happens within one organism; biomagnification increases up a food chain.</figcaption>
+</figure>
+
+
 ## Marine aquaculture (3.4)
 
 With five learning outcomes against three and four for its water-pollution and disease neighbours,
@@ -185,6 +217,12 @@ tankers, risk assessments, regular maintenance) separate in your mind from strat
 the impact of a spill that has already happened (navigation systems, booms and sorbents, detergent
 sprays, skimmers, controlled burning) — a "describe strategies for prevention" question and a "describe
 strategies for minimising impact" question draw on two different lists.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--13-wa-oil-prevent-minimise.webp" width="900" height="900" alt="A sea scene shows a double-hulled tanker, an oil slick held by a floating boom, and a skimmer boat. Two lists give the lesson strategies: prevention (MARPOL, double-hulled tankers, risk assessments, regular maintenance) and minimising impact (improved navigation, booms and sorbents, detergent sprays, skimmers, controlled burning)." loading="lazy">
+  <figcaption>Prevention strategies are separate from strategies for minimising the impact of a spill.</figcaption>
+</figure>
+
 
 ## Plastic pollution (3.6)
 

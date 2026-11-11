@@ -50,6 +50,17 @@ continuous prose.
 about an unfamiliar issue provides everything needed to answer well —
 do not let unfamiliar subject matter feel like a disadvantage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--11-p2-compare.webp" width="900" height="900" alt="Two-column comparison of reading and writing on each paper." loading="lazy">
+  <figcaption>Paper 2 reads modern-world themes and issues and has a directed writing task; Paper 1 reads literary non-fiction and offers a free choice of composition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--13-p2-sources.webp" width="900" height="900" alt="Four tile pictures of source types and a banner about prior knowledge." loading="lazy">
+  <figcaption>Section A texts can be brief or solely visual, fiction or non-fiction, on modern-world themes; everything needed is in the source.</figcaption>
+</figure>
+
+
 ## AO1 reading skills (R1–R4) — what each actually asks for
 
 - **R1** — read and understand across purpose; don't just paraphrase, show you grasp *why* the text does what it does.
@@ -70,6 +81,12 @@ and purpose, not producing generically well-written prose.
 | Audience | Who exactly is this for, and what tone will land with them? |
 | Purpose | Persuade, inform, advise, entertain — which, precisely? |
 | Form | What structural features does this form require (headline, greeting, sign-off, sub-headings)? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--14-p2-directed.webp" width="900" height="1040" alt="The school magazine task linked to its three checks with the lesson’s key features of each." loading="lazy">
+  <figcaption>A directed task is checked against audience, purpose and form; ignoring any one loses marks even if the grammar is accurate.</figcaption>
+</figure>
+
 
 ## Reading and writing reinforce each other
 
@@ -152,6 +169,17 @@ data and implicit framing (emphasis, omission) that is just as
 analysable as continuous prose, even without lengthy text. 5. 20% AO1
 and 20% AO2 for Paper 2, compared with 30% AO1 and 30% AO2 for Paper 1 —
 together making an overall 50/50 AO1/AO2 split.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--12-p2-weights.webp" width="900" height="780" alt="Two to-scale bars show the 30+20 split for reading and writing." loading="lazy">
+  <figcaption>AO1 and AO2 each total 50%: 30% from Paper 1 plus 20% from Paper 2 or NEA; AO3 Speaking and Listening is reported separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--15-p2-w4.webp" width="900" height="780" alt="A grid of 40 squares, one row of ten highlighted." loading="lazy">
+  <figcaption>W4 technical accuracy is 10 of Section B’s 40 marks, a quarter; W1 to W3 share the other 30.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
