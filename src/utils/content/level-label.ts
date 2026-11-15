@@ -1,5 +1,5 @@
 /**
- * Pure level-label helpers, split out of collections.ts (D-449) so they can be
+ * Pure level-label helpers, split out of collections.ts (D-450) so they can be
  * unit-tested without astro:content. collections.ts re-exports them.
  */
 /**
@@ -27,7 +27,7 @@
  * Only 'a-levels' is stage-sensitive; every other level displays as before.
  */
 /**
- * D-449 (owner decision OQ-4, 15 Nov 2026) -- boards whose AS is a SEPARATE
+ * D-450 (owner decision OQ-4, 15 Nov 2026) -- boards whose AS is a SEPARATE
  * qualification with its own code (AQA since 2015: AS Chemistry 7404 /
  * A-level 7405, AS Biology 7401 / A-level 7402). On those boards `stage: AS`
  * on an `a-level` resource means "the AS-content part of the linear A

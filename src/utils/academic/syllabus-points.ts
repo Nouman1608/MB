@@ -146,7 +146,7 @@ export function syllabusPointsFor(input: {
       if (!points.length) continue;
       points.sort(byNumber);
       topicContext.sort(byNumber);
-      // D-449: on a board whose AS is a separate qualification (AQA), the A Level's AS part is "AS content", not "AS Level".
+      // D-450: on a board whose AS is a separate qualification (AQA), the A Level's AS part is "AS content", not "AS Level".
       const separateAs = SEPARATE_AS_QUALIFICATION_BOARDS.includes(board);
       const stage = stages.size === 1
         ? ([...stages][0] === 'AS' ? (separateAs ? 'AS content of the A Level' : 'AS Level') : 'A Level')

@@ -15962,7 +15962,15 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
   Open: thinkib.net as a source (OQ-3), definition of "named teachers" (OQ-5).
 - **F (AS/A Level).** No AQA AS Chemistry 7404 page or record exists, so 7405 figures cannot appear on one (disproven as stated). Related: 53 7405 resources with `stage: AS` show "AS Level" (OQ-4).
 
-## D-449 - AQA A-level "AS" content no longer labelled "AS Level" (OQ-4, 15 Nov 2026)
+## D-449 - Past-papers guides for AQA, OCR and Chemistry on every board (15 Nov 2026)
+
+- Owner, 15 Nov 2026 ("do option A for all subjects and boards"; "you can also download any resources you want from the internet"; the owner's OneDrive folders `new topicals` and `study_final` were offered as sources): fill the 150 combinations that had no past-papers page, using the same form as the existing 16 pages, a guide to the board's own published papers with grade thresholds and examiner-report notes, not a copy of any paper.
+- **Pages.** 43 new guides: all 26 AQA combinations, all 13 OCR combinations, and Chemistry for Edexcel (IGCSE and A Level) and OxfordAQA (IGCSE and A Level). All are `review-pending` under the Marlbridge Academic Team with no reviewer; 33 carry `reviewNeeded`.
+- **How they were made.** Grade thresholds are numbers copied from the board's published boundary PDFs. Examiner-report notes are our own short summaries of the reports (AQA and OCR publish them openly; for Chemistry the reports came from the owner's `new topicals` collections). No question, mark-scheme or report text is reproduced; this holds under the same rule as D-108 and the README, whatever licensing responsibility the owner offered. Anything not retrieved is stated on the page as not given; nothing is estimated.
+- **Gaps.** June 2026 examiner reports do not exist yet, so that series is thresholds only. Pearson Edexcel publishes boundaries only in an interactive tool, and oxfordaqa.com blocks automated downloads, so those pages carry report notes but no thresholds. AQA AS Business 7137 and A Level Business 7132 pages describe the outgoing specifications (7131, 7132) because the new ones have no papers yet; the assessment record's 7132 first-assessment date looks wrong and needs a check.
+- **Not done.** 86 combinations still have no past-papers page: Cambridge 39, Pearson Edexcel 19 and OxfordAQA 28 (outside Chemistry), and IB 21 (IB publishes no papers). The local full build could not run, so CI is the first full build.
+- **Source records.** A source list for the Chemistry pages and for the OCR pages is saved in the owner's OneDrive, `Papers 2025/Past papers Marlbridge`. The original PDFs are not copied there (the upload tool is capped near 1 MB per file).
+## D-450 - AQA A-level "AS" content no longer labelled "AS Level" (OQ-4, 15 Nov 2026)
 
 - Owner, 15 Nov 2026: "do the 7405 AS label fix (OQ-4 option a)".
 - **Problem.** 105 AQA A-level resources carry `stage: "AS"`: 53 for Chemistry 7405 and 52 for Biology 7402. They showed an "AS Level" badge, the search-filter value "AS LEVEL" (the same value as the standalone AQA AS qualifications) and a points-list heading "7405 (AS Level)". AQA's AS is a separate qualification with its own code (7404, 7401), so these pages are the AS-content part of the linear A Level, not the AS Level.

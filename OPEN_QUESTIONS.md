@@ -11,7 +11,7 @@ Every item below is unresolved and needs the owner, a qualified subject teacher 
 | A3 | The English policy said every resource "is checked against that document before publication", but the ledger records 95 UNVERIFIED | Narrow it, with a computed count |
 | A4 | AP "Reviewed by [name], 8 Nov 2026": the date read as a review event, and no profile listed AP | Align the display with D-379 and add the AP courses to the profiles |
 | A5 | 22 more Psychology pages (Cambridge 9990, AQA 7182) had the same unsupported "Checked by … 8 Nov 2026" | Remove the line in the same way |
-| A6 (OQ-4) | AQA 7405 resources with `stage: AS` were labelled "AS Level" like the standalone AQA AS | Relabel as AS content of the A Level; done in D-449, also covering 7402 |
+| A6 (OQ-4) | AQA 7405 resources with `stage: AS` were labelled "AS Level" like the standalone AQA AS | Relabel as AS content of the A Level; done in D-450, also covering 7402 |
 
 ## Open — needs the owner
 

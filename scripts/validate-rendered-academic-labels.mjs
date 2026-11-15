@@ -107,7 +107,7 @@ let wholeTopicPagesChecked = 0;
  * for WS5 and finding it FAILED for an unrelated reason. Fixed here to
  * match collections.ts exactly.
  */
-// Kept in step with SEPARATE_AS_QUALIFICATION_BOARDS in collections.ts (D-449).
+// Kept in step with SEPARATE_AS_QUALIFICATION_BOARDS in collections.ts (D-450).
 const SEPARATE_AS_QUALIFICATION_BOARDS = ['aqa'];
 const levelLabel = (levels, stage, qualifications, boards) => {
   const effectiveStage = stage ?? (qualifications?.includes('as-level') ? 'AS' : undefined);

@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { resourceLevelLabel, levelDisplay } from '../level-label.ts';
 
-// D-449 (OQ-4): AQA A-level AS content is not the AQA AS Level qualification.
+// D-450 (OQ-4): AQA A-level AS content is not the AQA AS Level qualification.
 test('AQA 7405/7402 stage AS reads "A Level (AS content)", never "AS Level"', () => {
   const l = resourceLevelLabel(['a-levels'], 'AS', ['a-level'], ['aqa']);
   assert.equal(l, 'A LEVEL (AS CONTENT)');
