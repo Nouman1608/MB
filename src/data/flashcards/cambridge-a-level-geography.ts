@@ -6,7 +6,8 @@
  * the next unused n, never renumber.
  *
  * Geography is not tiered, so no card sets `u`. Facts are generic (no case
- * studies and no statistics); every card is authored.
+ * studies and no statistics); src: '...' marks a card that restates a Marlbridge 9696
+ * revision-notes page (origin 'revision-notes'); the rest are authored.
  *
  * Plain text only (see types.ts). Unicode for symbols.
  */
@@ -25,6 +26,15 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     origin: src ? 'revision-notes' as const : 'authored' as const,
     ...(src ? { source: src } : {}),
   }));
+
+const TROP = 'a-level-geography-9696-tropical-environments-revision-notes';
+const COAST = 'a-level-geography-9696-coastal-environments-revision-notes';
+const HAZ = 'a-level-geography-9696-hazardous-environments-revision-notes';
+const ARID = 'a-level-geography-9696-hot-arid-and-semi-arid-environments-revision-notes';
+const PROD = 'a-level-geography-9696-production-location-and-change-revision-notes';
+const ENVM = 'a-level-geography-9696-environmental-management-revision-notes';
+const GLOB = 'a-level-geography-9696-global-interdependence-revision-notes';
+const ECON = 'a-level-geography-9696-economic-transition-revision-notes';
 
 const T1 = 'paper-1-core-physical-geography-9696';
 const T2 = 'atmosphere-and-weather-9696';
@@ -97,14 +107,14 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
       { n: 2, f: 'Why does the equator have an energy surplus and the poles a deficit?', b: 'Solar rays hit the equator at a high angle over a smaller area. At the poles they are spread over a larger area and pass through more atmosphere, and ice reflects more.' },
       { n: 3, f: 'How is the energy imbalance corrected?', b: 'Heat is transferred from low to high latitudes by atmospheric circulation and ocean currents.' },
       { n: 4, f: 'Hadley, Ferrel and Polar cells', b: 'Three atmospheric circulation cells in each hemisphere that redistribute heat. Rising air gives low pressure and sinking air gives high pressure.' },
-      { n: 5, f: 'Where does air rise and sink in the global circulation?', b: 'Air rises at the equator (ITCZ) and near 60° latitude. It sinks near 30° latitude and at the poles.' },
+      { n: 5, f: 'Where does air rise and sink in the global circulation?', b: 'Air rises at the equator (ITCZ) and in the sub-polar low-pressure zones. It sinks in the subtropical high-pressure belts (about 30°N and 30°S) and at the poles.' },
     ]),
     ...sub(T2, 'weather-processes-and-phenomena-9696', '2.3', [
       { n: 1, f: 'Adiabatic cooling', b: 'Rising air expands and cools without heat exchange with its surroundings. Cooling to dew point causes condensation.' },
       { n: 2, f: 'Dry adiabatic lapse rate vs saturated adiabatic lapse rate', b: 'The saturated rate is lower than the dry rate because latent heat is released as vapour condenses.' },
       { n: 3, f: 'Stable vs unstable air', b: 'Stable air resists rising and gives little cloud. Unstable air continues to rise and can give deep cloud and heavy rain.' },
       { n: 4, f: 'Features of a tropical cyclone', b: 'A low-pressure system with an eye, strong spiralling winds, heavy rain and a storm surge. It forms over warm ocean water.' },
-      { n: 5, f: 'Conditions for tropical cyclone formation', b: 'Sea surface temperature above about 26–27 °C, a location away from the equator so there is enough Coriolis force, and low vertical wind shear.' },
+      { n: 5, f: 'Conditions for tropical cyclone formation', b: 'Sea surface temperature of at least 26.5 °C to a depth of about 50 m, a location away from the equator so the Coriolis force can start rotation, and low vertical wind shear.' },
       { n: 6, f: 'Why does a tropical cyclone weaken over land?', b: 'It loses its supply of warm moist air as energy source and friction increases.' },
     ]),
     ...sub(T2, 'the-human-impact-2-4-9696', '2.4', [
@@ -151,7 +161,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
       { n: 2, f: 'Death rate', b: 'Deaths per 1000 population per year.' },
       { n: 3, f: 'Fertility rate', b: 'The average number of births per woman of childbearing age.' },
       { n: 4, f: 'Infant mortality rate', b: 'Deaths under the age of 1 per 1000 live births.' },
-      { n: 5, f: 'Natural increase rate', b: 'Birth rate minus death rate, usually expressed per 1000 or as a percentage.' },
+      { n: 5, f: 'Natural increase rate', b: 'Birth rate minus death rate, usually expressed per 1000 population per year.' },
       { n: 6, f: 'Factors affecting fertility', b: 'Female education and employment, contraception, infant mortality, cost of children, culture and religion, and government policy.' },
     ]),
     ...sub(T4, 'demographic-transition-9696', '4.2', [
@@ -221,7 +231,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
       { n: 3, f: 'Urban decentralisation', b: 'The movement of people, shops, offices and industry from the city centre to outer areas.' },
       { n: 4, f: 'Informal settlement', b: 'Housing built without legal tenure, using cheap materials and often lacking water, sanitation and electricity.' },
       { n: 5, f: 'Primate city', b: 'A city that is much larger than the next largest city in a country and dominates it economically and politically.' },
-      { n: 6, f: 'Megacity', b: 'A city with a very large population, commonly defined as more than 10 million people.' },
+      { n: 6, f: 'Megacity', b: 'A city with a very large population. The exact threshold varies between sources.' },
     ]),
     ...sub(T6, 'the-changing-structure-of-urban-settlements-9696', '6.3', [
       { n: 1, f: 'Burgess concentric model', b: 'Cities form rings of land use around the CBD: CBD, transition zone, working-class, middle-class and commuter zones.' },
@@ -241,16 +251,16 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
 
     // 7 Tropical environments
     ...sub(T7, 'tropical-climates-9696', '7.1', [
-      { n: 1, f: 'Intertropical convergence zone (ITCZ)', b: 'The low-pressure belt near the equator where trade winds from both hemispheres converge. It migrates seasonally with the overhead sun.' },
+      { n: 1, f: 'Intertropical convergence zone (ITCZ)', b: 'The low-pressure belt near the equator where trade winds from both hemispheres converge. It migrates seasonally with the overhead sun.', src: TROP },
       { n: 2, f: 'Equatorial climate', b: 'High temperatures all year with a small annual range, and heavy convectional rainfall in every month.' },
       { n: 3, f: 'Tropical wet-dry (savanna) climate', b: 'Hot all year, with a distinct wet season when the ITCZ is overhead and a dry season when it moves away.' },
-      { n: 4, f: 'Monsoon climate', b: 'A seasonal reversal of wind direction, bringing a wet summer and a dry winter.' },
+      { n: 4, f: 'Monsoon climate', b: 'A seasonal reversal of wind direction, bringing a wet summer and a dry winter.', src: TROP },
       { n: 5, f: 'Why does the rainfall pattern change with distance from the equator?', b: 'The ITCZ spends less time over places further from the equator, so the wet season shortens and the dry season lengthens.' },
     ]),
     ...sub(T7, 'landforms-of-tropical-environments-9696', '7.2', [
       { n: 1, f: 'Why is chemical weathering intense in the humid tropics?', b: 'Warm temperatures and abundant moisture speed chemical reactions, producing deep weathered regolith.' },
       { n: 2, f: 'Etchplain', b: 'A surface formed when deep chemical weathering strips away regolith, exposing the weathering front.' },
-      { n: 3, f: 'Inselberg', b: 'An isolated resistant rock hill that stands above a surrounding plain, such as a bornhardt.' },
+      { n: 3, f: 'Inselberg', b: 'An isolated resistant rock hill that stands above a surrounding plain, such as a bornhardt.', src: TROP },
       { n: 4, f: 'Tropical karst', b: 'Limestone landscape in the humid tropics with features such as cone karst and tower karst, formed by solution.' },
       { n: 5, f: 'Laterite (duricrust)', b: 'A hard iron- and aluminium-rich layer formed in tropical soils by leaching and repeated wetting and drying.' },
     ]),
@@ -272,27 +282,27 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
 
     // 8 Coastal environments
     ...sub(T8, 'coastal-processes-9696', '8.1', [
-      { n: 1, f: 'Factors affecting wave energy', b: 'Wind speed, wind duration and fetch (the distance of open water the wind crosses).' },
+      { n: 1, f: 'Factors affecting wave energy', b: 'Wind speed, wind duration and fetch (the distance of open water the wind crosses).', src: COAST },
       { n: 2, f: 'Constructive vs destructive waves', b: 'Constructive waves have a strong swash and build beaches. Destructive waves have a strong backwash and remove material.' },
-      { n: 3, f: 'Marine erosion processes', b: 'Hydraulic action, abrasion, attrition, solution and corrosion.' },
+      { n: 3, f: 'Marine erosion processes', b: 'Hydraulic action (including cavitation), abrasion (corrasion), attrition and solution (corrosion).' },
       { n: 4, f: 'Longshore drift', b: 'Swash moves material up the beach at an angle, and backwash returns it straight down, shifting sediment along the coast.' },
-      { n: 5, f: 'Sediment cell', b: 'A stretch of coast within which sediment movement is largely self-contained, treated as a system with inputs, stores, transfers and outputs.' },
+      { n: 5, f: 'Sediment cell', b: 'A stretch of coast within which sediment movement is largely self-contained, treated as a system with inputs, stores, transfers and outputs.', src: COAST },
       { n: 6, f: 'Subaerial processes on coasts', b: 'Weathering and mass movement acting on cliffs above the high tide level.' },
     ]),
     ...sub(T8, 'characteristics-and-formation-of-coastal-landforms-9696', '8.2', [
       { n: 1, f: 'How is a wave-cut platform formed?', b: 'Wave erosion undercuts a cliff, forming a notch. The cliff collapses and retreats, leaving a gently sloping platform.' },
       { n: 2, f: 'Sequence of erosional headland landforms', b: 'Crack, cave, arch, stack, stump.' },
       { n: 3, f: 'How is a spit formed?', b: 'Longshore drift deposits sediment where the coast changes direction, building a ridge. A recurved end forms from changing wave direction.' },
-      { n: 4, f: 'Tombolo', b: 'A spit or bar that links an island to the mainland.' },
+      { n: 4, f: 'Tombolo', b: 'A spit or bar that links an island to the mainland.', src: COAST },
       { n: 5, f: 'Coastal sand dune succession', b: 'Dunes develop from embryo dunes to fore dunes, yellow dunes and grey dunes as vegetation colonises and stabilises sand.' },
       { n: 6, f: 'Salt marsh', b: 'A vegetated, muddy area in sheltered tidal areas, where silt is trapped by salt-tolerant plants.' },
       { n: 7, f: 'Emergent vs submergent coasts', b: 'Emergent coasts form when sea level falls relative to land (raised beaches). Submergent coasts form when sea level rises (rias, fjords).' },
     ]),
     ...sub(T8, 'coral-reefs-9696', '8.3', [
-      { n: 1, f: 'Conditions for coral reef growth', b: 'Warm water (about 18–30 °C), clear and shallow water with sunlight, salinity and low sediment.' },
+      { n: 1, f: 'Conditions for coral reef growth', b: 'Warm water (typically 23–29 °C, rarely below about 18 °C), clear and shallow water with light for the algae in the coral, normal salinity and low sediment.' },
       { n: 2, f: 'Types of coral reef', b: 'Fringing reef, barrier reef and atoll.' },
-      { n: 3, f: 'Coral bleaching', b: 'Corals expel the algae living in their tissue under stress, such as warmer water, leaving the coral white and weakened.' },
-      { n: 4, f: 'Darwin\'s theory of atoll formation', b: 'A volcanic island subsides as coral grows upwards, progressing from fringing to barrier reef to atoll.' },
+      { n: 3, f: 'Coral bleaching', b: 'Corals expel the algae living in their tissue under stress, such as warmer water, leaving the coral white and weakened.', src: COAST },
+      { n: 4, f: 'Darwin\'s theory of atoll formation', b: 'A volcanic island subsides as coral grows upwards, progressing from fringing to barrier reef to atoll.', src: COAST },
       { n: 5, f: 'Threats to coral reefs', b: 'Rising sea temperatures, ocean acidification, pollution, sedimentation, overfishing and physical damage.' },
     ]),
     ...sub(T8, 'sustainable-management-of-coasts-9696', '8.4', [
@@ -305,29 +315,29 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
 
     // 9 Hazardous environments
     ...sub(T9, 'hazards-resulting-from-tectonic-processes-9696', '9.1', [
-      { n: 1, f: 'Primary vs secondary hazards of an earthquake', b: 'Primary: ground shaking and surface rupture. Secondary: tsunamis, landslides, fires and liquefaction.' },
+      { n: 1, f: 'Primary vs secondary impacts of an earthquake', b: 'Primary impacts are caused directly by the event, such as shaking and building collapse. Secondary impacts follow from them, such as fire, disease and lost income. Tsunami, landslides and liquefaction are earthquake hazards.' },
       { n: 2, f: 'Volcanic hazards', b: 'Lava flows, pyroclastic flows, ash fall, lahars and volcanic gases.' },
-      { n: 3, f: 'Tsunami', b: 'A series of large sea waves, generated by sudden displacement of water, often by an undersea earthquake.' },
+      { n: 3, f: 'Tsunami', b: 'A series of large sea waves, generated by sudden displacement of water, often by an undersea earthquake.', src: HAZ },
       { n: 4, f: 'Factors affecting hazard impact', b: 'Magnitude, population density, level of development, preparedness, building quality and time of day.' },
       { n: 5, f: 'Hazard prediction and prevention', b: 'Volcanoes can be monitored through gas, tilt and seismic signals. Earthquakes cannot be reliably predicted.' },
-      { n: 6, f: 'Liquefaction', b: 'Shaking turns saturated loose sediment into a fluid-like state, causing buildings to sink or tilt.' },
+      { n: 6, f: 'Liquefaction', b: 'Shaking turns saturated loose sediment into a fluid-like state, causing buildings to sink or tilt.', src: HAZ },
     ]),
     ...sub(T9, 'hazards-resulting-from-mass-movements-9696', '9.2', [
       { n: 1, f: 'Rapid mass movement hazards', b: 'Landslides, rockfalls, avalanches, mudflows and debris flows.' },
       { n: 2, f: 'Triggers of mass movement', b: 'Heavy rainfall, earthquakes, undercutting by rivers or waves, deforestation and human loading or excavation.' },
-      { n: 3, f: 'Lahar', b: 'A mudflow of volcanic ash and water, often triggered by eruption melting ice or by heavy rain.' },
+      { n: 3, f: 'Lahar', b: 'A mudflow of volcanic ash and water, often triggered by eruption melting ice or by heavy rain.', src: HAZ },
       { n: 4, f: 'Reducing mass movement hazard', b: 'Monitoring, slope stabilisation, drainage, restricting building and hazard mapping.' },
     ]),
     ...sub(T9, 'hazards-resulting-from-atmospheric-disturbances-9696', '9.3', [
       { n: 1, f: 'Tropical cyclone hazards', b: 'High winds, storm surges, flooding from heavy rain and landslides.' },
       { n: 2, f: 'Tornado', b: 'A narrow, rotating column of air extending from a thunderstorm to the ground, with very high wind speeds.' },
-      { n: 3, f: 'Storm surge', b: 'A rise in sea level caused by low pressure and strong winds pushing water on to the coast.' },
+      { n: 3, f: 'Storm surge', b: 'A rise in sea level caused by low pressure and strong winds pushing water on to the coast.', src: HAZ },
       { n: 4, f: 'Saffir-Simpson scale', b: 'Categorises hurricanes from 1 to 5 by sustained wind speed.' },
       { n: 5, f: 'Predicting atmospheric hazards', b: 'Satellite tracking, radar and computer models give warnings. Track and intensity forecasts can still be uncertain.' },
     ]),
     ...sub(T9, 'sustainable-management-in-hazardous-environments-9696', '9.4', [
       { n: 1, f: 'Hazard management cycle', b: 'Mitigation, preparedness, response and recovery. The cycle repeats after each event.' },
-      { n: 2, f: 'Risk equation', b: 'Risk = hazard × vulnerability ÷ capacity to cope. Higher vulnerability or lower capacity increases risk.' },
+      { n: 2, f: 'Risk equation', b: 'Risk is often summarised as hazard × vulnerability. Higher vulnerability or a lower capacity to cope increases risk.' },
       { n: 3, f: 'Ways to reduce vulnerability', b: 'Land-use planning, building codes, education, early warning systems and insurance.' },
       { n: 4, f: 'Park model of hazard response', b: 'A graph of quality of life over time after a disaster, showing relief, rehabilitation and reconstruction.' },
       { n: 5, f: 'Why do poorer countries suffer more from hazards?', b: 'Less money for protection, poor building quality, weaker warning systems and slower recovery.' },
@@ -335,28 +345,28 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
 
     // 10 Hot arid and semi-arid environments
     ...sub(T10, 'hot-arid-and-semi-arid-climates-9696', '10.1', [
-      { n: 1, f: 'Why do hot deserts occur near 30° latitude?', b: 'Sinking dry air of the subtropical high-pressure belt (Hadley cell) suppresses cloud and rainfall.' },
+      { n: 1, f: 'Why do hot deserts occur in the subtropics (about 20–30° latitude)?', b: 'Sinking dry air of the subtropical high-pressure belt (Hadley cell) suppresses cloud and rainfall.' },
       { n: 2, f: 'Other causes of aridity', b: 'Continentality (distance from the sea), rain shadow effects and cold ocean currents.' },
       { n: 3, f: 'Characteristics of hot arid climates', b: 'Low and unreliable rainfall, very high daytime temperatures, a large diurnal range and high evaporation.' },
       { n: 4, f: 'Semi-arid climate', b: 'Slightly wetter than hot desert, with a short rainy season, and more variable rainfall.' },
-      { n: 5, f: 'Aridity index', b: 'Compares precipitation with potential evapotranspiration. Lower values mean greater aridity.' },
+      { n: 5, f: 'Aridity index', b: 'Compares precipitation with potential evapotranspiration. Lower values mean greater aridity.', src: ARID },
     ]),
     ...sub(T10, 'landforms-of-hot-arid-and-semi-arid-environments-9696', '10.2', [
       { n: 1, f: 'Wind erosion processes', b: 'Deflation (removal of loose material) and abrasion (sandblasting).' },
       { n: 2, f: 'Barchan dune', b: 'A crescent-shaped dune with its horns pointing downwind, formed where sand is limited and wind direction is constant.' },
       { n: 3, f: 'Wadi', b: 'A dry river valley that carries water only in flash floods after rare, intense rain.' },
-      { n: 4, f: 'Pediment and bajada', b: 'A pediment is a gently sloping rock surface at the foot of a mountain. A bajada is a spread of alluvial fans merged at a mountain base.' },
-      { n: 5, f: 'Playa (salt lake)', b: 'A flat basin where water collects and evaporates, leaving salt deposits.' },
+      { n: 4, f: 'Pediment and bajada (bahada)', b: 'A pediment is a gently sloping erosional bedrock surface at the foot of a mountain. A bajada (also spelled bahada) is merged alluvial fans, a depositional surface.' },
+      { n: 5, f: 'Playa (salt lake)', b: 'A flat basin where water collects and evaporates, leaving salt deposits.', src: ARID },
       { n: 6, f: 'Inselberg (arid environments)', b: 'A residual rock hill rising abruptly above a plain, left as surrounding rock is worn away.' },
     ]),
     ...sub(T10, 'soils-and-vegetation-9696', '10.3', [
       { n: 1, f: 'Features of desert soils', b: 'Thin, coarse, low in organic matter and often saline because evaporation draws salts upward.' },
-      { n: 2, f: 'Salinisation', b: 'Accumulation of salts in the soil surface layer as evaporation exceeds rainfall, harming plants.' },
+      { n: 2, f: 'Salinisation', b: 'Accumulation of salts in the soil surface layer as evaporation exceeds rainfall, harming plants.', src: ARID },
       { n: 3, f: 'Xerophytic adaptations', b: 'Deep or widespread roots, small waxy leaves, water storage in stems, and shedding leaves in drought.' },
-      { n: 4, f: 'Ephemeral plants', b: 'Plants that complete their life cycle in a short time after rain and survive dry periods as seeds.' },
+      { n: 4, f: 'Ephemeral plants', b: 'Plants that complete their life cycle in a short time after rain and survive dry periods as seeds.', src: ARID },
     ]),
     ...sub(T10, 'sustainable-management-of-hot-arid-and-semi-arid-environments-9696', '10.4', [
-      { n: 1, f: 'Desertification', b: 'Land degradation in dry areas, caused by climate variation and human activity, which reduces land productivity.' },
+      { n: 1, f: 'Desertification', b: 'Land degradation in dry areas, caused by climate variation and human activity, which reduces land productivity.', src: ARID },
       { n: 2, f: 'Human causes of desertification', b: 'Overgrazing, over-cultivation, deforestation for fuelwood and poor irrigation practice.' },
       { n: 3, f: 'Strategies to reduce desertification', b: 'Planting trees as shelterbelts, controlled grazing, stone lines and terracing, and better irrigation.' },
       { n: 4, f: 'Drip irrigation', b: 'Delivers water directly to plant roots, reducing evaporation and saving water.' },
@@ -365,11 +375,11 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
 
     // 11 Production, location and change
     ...sub(T11, 'agricultural-systems-and-food-production-9696', '11.1', [
-      { n: 1, f: 'Agricultural system', b: 'A system of inputs (labour, seed, capital), processes (farming operations) and outputs (crops, livestock, products).' },
+      { n: 1, f: 'Agricultural system', b: 'A farm seen as inputs (labour, seed, capital), processes or throughputs (farming operations) and outputs (crops, livestock, products), with feedback.', src: PROD },
       { n: 2, f: 'Subsistence vs commercial farming', b: 'Subsistence produces food mainly for the farmer\'s household. Commercial produces mainly to sell for profit.' },
       { n: 3, f: 'Physical factors in agriculture', b: 'Climate, relief, soil and water availability.' },
       { n: 4, f: 'Human and economic factors in agriculture', b: 'Capital, labour, markets, transport, land tenure and government policy.' },
-      { n: 5, f: 'Von Thünen model', b: 'Land use around a market varies with transport cost. More perishable, bulky products are grown closest to the market.' },
+      { n: 5, f: 'Von Thünen model', b: 'Land use around a market forms rings set by locational rent. Perishable, high-output uses are nearest the market.' },
       { n: 6, f: 'Food security', b: 'Reliable access by all people to enough safe, nutritious food for a healthy life.' },
     ]),
     ...sub(T11, 'the-management-of-agricultural-change-9696', '11.2', [
@@ -382,8 +392,8 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
     ...sub(T11, 'manufacturing-and-related-service-industry-9696', '11.3', [
       { n: 1, f: 'Industrial system', b: 'Inputs (raw materials, labour, energy, capital), processes (manufacturing) and outputs (goods, waste).' },
       { n: 2, f: 'Weber\'s least-cost theory', b: 'Factories locate where total costs of transport, labour and agglomeration are lowest.' },
-      { n: 3, f: 'Footloose industry', b: 'Industry not tied to a particular resource location, typically light and high-value, such as electronics.' },
-      { n: 4, f: 'Agglomeration economies', b: 'Benefits to firms from clustering together, such as shared suppliers, labour and knowledge.' },
+      { n: 3, f: 'Footloose industry', b: 'Industry not tied to a particular resource location, typically light and high-value, such as electronics.', src: PROD },
+      { n: 4, f: 'Agglomeration economies', b: 'Benefits to firms from clustering together, such as shared suppliers, labour and knowledge.', src: PROD },
       { n: 5, f: 'Deindustrialisation', b: 'The decline in manufacturing employment and output in an area or country.' },
       { n: 6, f: 'New international division of labour', b: 'Manufacturing shifting from high-income countries to lower-cost countries, with TNCs organising global production.' },
     ]),
@@ -397,11 +407,11 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
     // 12 Environmental management
     ...sub(T12, 'sustainable-energy-supplies-9696', '12.1', [
       { n: 1, f: 'Renewable vs non-renewable energy', b: 'Renewable energy is replenished naturally and does not run out. Non-renewable sources are finite and will be exhausted.' },
-      { n: 2, f: 'Examples of renewable energy', b: 'Solar, wind, hydroelectric, geothermal, tidal and biomass.' },
-      { n: 3, f: 'Energy mix', b: 'The combination of different energy sources used in a country.' },
+      { n: 2, f: 'Examples of renewable energy', b: 'Solar, wind, hydroelectric (HEP), geothermal, tidal, wave and biofuels.' },
+      { n: 3, f: 'Energy mix', b: 'The combination of different energy sources used in a country.', src: ENVM },
       { n: 4, f: 'Advantages of fossil fuels', b: 'Reliable, high energy density, established technology and infrastructure, and relatively cheap.' },
       { n: 5, f: 'Disadvantages of fossil fuels', b: 'Emit carbon dioxide, finite, cause air pollution and extraction harms environments.' },
-      { n: 6, f: 'Energy security', b: 'Reliable and affordable access to energy supplies, reducing dependence on imports or unstable sources.' },
+      { n: 6, f: 'Energy security', b: 'Reliable and affordable access to energy supplies, reducing dependence on imports or unstable sources.', src: ENVM },
     ]),
     ...sub(T12, 'the-management-of-energy-supply-9696', '12.2', [
       { n: 1, f: 'Ways to manage energy supply sustainably', b: 'Increase renewables, improve efficiency, conserve energy and diversify the energy mix.' },
@@ -413,7 +423,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
       { n: 1, f: 'Environmental degradation', b: 'The deterioration of the environment through depletion of resources, loss of ecosystems and pollution.' },
       { n: 2, f: 'Causes of soil degradation', b: 'Overgrazing, deforestation, monoculture, poor irrigation and compaction.' },
       { n: 3, f: 'Causes of water pollution', b: 'Sewage, industrial waste, fertiliser and pesticide runoff, and oil spills.' },
-      { n: 4, f: 'Eutrophication', b: 'Nutrient enrichment of water, causing algal blooms. Oxygen is depleted when algae die and decompose, killing aquatic life.' },
+      { n: 4, f: 'Eutrophication', b: 'Nutrient enrichment of water, causing algal blooms. Oxygen is depleted when algae die and decompose, killing aquatic life.', src: ENVM },
       { n: 5, f: 'Causes of air pollution', b: 'Burning fossil fuels, vehicles, industry and burning of biomass.' },
     ]),
     ...sub(T12, 'the-management-of-a-degraded-environment-9696', '12.4', [
@@ -425,30 +435,30 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
 
     // 13 Global interdependence
     ...sub(T13, 'trade-flows-and-trading-patterns-9696', '13.1', [
-      { n: 1, f: 'Visible vs invisible trade', b: 'Visible trade is physical goods. Invisible trade is services such as tourism, banking and insurance.' },
+      { n: 1, f: 'Visible vs invisible trade', b: 'Visible trade is physical goods. Invisible trade is services such as tourism, banking and insurance.', src: GLOB },
       { n: 2, f: 'Balance of trade', b: 'Value of exports minus value of imports. A surplus means exports exceed imports; a deficit means imports exceed exports.' },
       { n: 3, f: 'Trading bloc', b: 'A group of countries that reduce trade barriers among themselves, such as a free trade area or customs union.' },
       { n: 4, f: 'Tariff and quota', b: 'A tariff is a tax on imports. A quota is a limit on the quantity of imports.' },
-      { n: 5, f: 'World Trade Organization (WTO)', b: 'An organisation that sets rules for international trade and settles trade disputes.' },
+      { n: 5, f: 'World Trade Organization (WTO)', b: 'An organisation that sets rules for international trade and settles trade disputes.', src: GLOB },
       { n: 6, f: 'Terms of trade problem for primary exporters', b: 'Prices of primary products are volatile and tend to rise more slowly than manufactured goods, so exporters may lose out.' },
     ]),
     ...sub(T13, 'international-debt-and-international-aid-9696', '13.2', [
       { n: 1, f: 'Causes of international debt', b: 'Borrowing for development, falling commodity prices, rising interest rates, corruption and conflict.' },
       { n: 2, f: 'Effects of high debt', b: 'Money used for debt repayment instead of health and education, and reduced investment.' },
-      { n: 3, f: 'Bilateral vs multilateral aid', b: 'Bilateral aid goes directly from one country to another. Multilateral aid is channelled through organisations such as the World Bank.' },
-      { n: 4, f: 'Tied aid', b: 'Aid that must be spent on goods or services from the donor country.' },
+      { n: 3, f: 'Bilateral vs multilateral aid', b: 'Bilateral aid goes directly from one country to another. Multilateral aid is channelled through organisations such as the World Bank.', src: GLOB },
+      { n: 4, f: 'Tied aid', b: 'Aid that must be spent on goods or services from the donor country.', src: GLOB },
       { n: 5, f: 'Debt relief', b: 'Reduction or cancellation of debt so the country can spend more on development.' },
       { n: 6, f: 'Arguments for and against aid', b: 'For: reduces poverty, supports health and education. Against: may create dependency, corruption and tied conditions.' },
     ]),
     ...sub(T13, 'the-development-of-international-tourism-9696', '13.3', [
       { n: 1, f: 'Reasons for growth of international tourism', b: 'Rising incomes, cheaper flights, more leisure time, internet booking and growing destinations.' },
       { n: 2, f: 'Factors attracting tourists to a destination', b: 'Climate, scenery, culture and heritage, accessibility, safety, and facilities.' },
-      { n: 3, f: 'Butler tourist area life cycle', b: 'Stages: exploration, involvement, development, consolidation, stagnation, then decline or rejuvenation.' },
+      { n: 3, f: 'Butler tourist area life cycle', b: 'Stages: exploration, involvement, development, consolidation, stagnation, then decline or rejuvenation.', src: GLOB },
       { n: 4, f: 'Economic benefits of tourism', b: 'Jobs, foreign exchange and the multiplier effect.' },
-      { n: 5, f: 'Leakage in tourism', b: 'Money paid by tourists that leaves the local economy, such as profits to overseas companies.' },
+      { n: 5, f: 'Leakage in tourism', b: 'Money paid by tourists that leaves the local economy, such as profits to overseas companies.', src: GLOB },
     ]),
     ...sub(T13, 'the-management-of-a-tourist-destination-9696', '13.4', [
-      { n: 1, f: 'Carrying capacity of a destination', b: 'The number of visitors a place can sustain without unacceptable damage to its environment, society or visitor experience.' },
+      { n: 1, f: 'Carrying capacity of a destination', b: 'The number of visitors a place can sustain without unacceptable damage to its environment, society or visitor experience.', src: GLOB },
       { n: 2, f: 'Sustainable tourism', b: 'Tourism managed to meet visitor needs while protecting the environment and benefiting local communities.' },
       { n: 3, f: 'Ecotourism', b: 'Small-scale, nature-based tourism that aims to conserve the environment and support local people.' },
       { n: 4, f: 'Visitor management strategies', b: 'Zoning, visitor limits, entry fees, footpath management and education.' },
@@ -457,25 +467,25 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
 
     // 14 Economic transition
     ...sub(T14, 'national-development-9696', '14.1', [
-      { n: 1, f: 'Economic vs social indicators of development', b: 'Economic indicators measure income, such as GDP per capita. Social indicators measure health, education and welfare.' },
-      { n: 2, f: 'Human Development Index (HDI)', b: 'A composite of life expectancy, education and income per person.' },
+      { n: 1, f: 'Economic vs social indicators of development', b: 'Economic indicators measure income, such as GNI per capita. Social indicators measure health, education and welfare.' },
+      { n: 2, f: 'Human Development Index (HDI)', b: 'A UNDP composite of health (life expectancy), education (mean and expected years of schooling) and income (GNI per capita, PPP).', src: ECON },
       { n: 3, f: 'Rostow\'s model of development', b: 'Economies move through stages: traditional society, preconditions for take-off, take-off, drive to maturity and high mass consumption.' },
       { n: 4, f: 'Newly industrialising country (NIC)', b: 'A country that has moved rapidly from an agricultural to an industrial economy, with fast growth in manufacturing and exports.' },
-      { n: 5, f: 'Clark-Fisher model', b: 'As economies develop, employment shifts from the primary sector to secondary and then to tertiary.' },
+      { n: 5, f: 'Clark-Fisher model', b: 'As economies develop, employment shifts from the primary sector to secondary and then to tertiary.', src: ECON },
       { n: 6, f: 'Core-periphery model', b: 'Wealth and growth concentrate in the core, while peripheral regions lag behind, though the core can also spread growth outward.' },
     ]),
     ...sub(T14, 'the-globalisation-of-economic-activity-9696', '14.2', [
       { n: 1, f: 'Globalisation', b: 'Increasing interconnection of countries through trade, finance, information, people and culture.' },
       { n: 2, f: 'Transnational corporation (TNC)', b: 'A company that operates in more than one country, with headquarters usually in a high-income country.' },
-      { n: 3, f: 'Offshoring', b: 'Moving part of a firm\'s production or services to another country, often to cut costs.' },
+      { n: 3, f: 'Offshoring', b: 'Moving part of a firm\'s production or services to another country, often to cut costs.', src: ECON },
       { n: 4, f: 'Benefits of TNCs to host countries', b: 'Jobs, investment, technology transfer and tax revenue.' },
       { n: 5, f: 'Problems linked to TNCs for host countries', b: 'Profit leaving the country, low wages and poor conditions, environmental damage and dependence.' },
       { n: 6, f: 'Factors helping globalisation', b: 'Transport and communications technology, trade liberalisation and containerisation.' },
     ]),
     ...sub(T14, 'regional-development-within-countries-9696', '14.3', [
       { n: 1, f: 'Regional inequality', b: 'Differences in income, jobs and services between regions within one country.' },
-      { n: 2, f: 'Cumulative causation (Myrdal)', b: 'Growth in a core region attracts investment and people, increasing its advantages. Peripheral regions suffer backwash effects.' },
-      { n: 3, f: 'Backwash vs spread effects', b: 'Backwash is the drain of resources from periphery to core. Spread effects are benefits that move outward from the core.' },
+      { n: 2, f: 'Cumulative causation (Myrdal)', b: 'Growth in a core region attracts investment and people, increasing its advantages. Peripheral regions suffer backwash effects.', src: ECON },
+      { n: 3, f: 'Backwash vs spread effects', b: 'Backwash is the drain of resources from periphery to core. Spread effects are benefits that move outward from the core.', src: ECON },
       { n: 4, f: 'Causes of regional differences', b: 'Resources, accessibility, history of industry, government policy and links to global markets.' },
       { n: 5, f: 'Peripheral region', b: 'A region far from the core, often with lower incomes, fewer jobs, ageing population and poorer services.' },
     ]),

@@ -29,6 +29,10 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
 
 const DEV = 'igcse-geography-0460-development-revision-notes';
 const FOOD = 'igcse-geography-0460-food-production-revision-notes';
+const IND = 'igcse-geography-0460-industry-revision-notes';
+const ENERGY = 'igcse-geography-0460-energy-revision-notes';
+const WATER = 'igcse-geography-0460-water-revision-notes';
+const ENVR = 'igcse-geography-0460-environmental-risks-of-economic-development-revision-notes';
 const TOUR = 'igcse-geography-0460-tourism-revision-notes';
 
 const T1 = 'theme-1-population-settlement-0460';
@@ -63,8 +67,8 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
     ]),
     ...sub(T1, 'population-structure-0460', '1.3', [
       { n: 1, f: 'What does a population pyramid show?', b: 'The percentage or number of males and females in each age group of a population. Males are usually on the left and females on the right.' },
-      { n: 2, f: 'Dependent population', b: 'People too young (under about 15) or too old (over about 65) to work, who rely on the working-age population for support.' },
-      { n: 3, f: 'Dependency ratio', b: 'The number of dependents (young plus elderly) compared with the working-age population, often shown per 100 working-age people.' },
+      { n: 2, f: 'Dependent population', b: 'People too young (under 15) or too old (over 64) to work, who rely on the working-age population (15–64) for support.' },
+      { n: 3, f: 'Dependency ratio', b: '(Under 15 + over 64) ÷ (15–64) × 100. A high value means a large dependent population supported by a small working population.' },
       { n: 4, f: 'What does a wide base on a pyramid show?', b: 'A high birth rate and many young dependents. This is typical of a low-income country.' },
       { n: 5, f: 'What does a narrow base and wide top show?', b: 'A low birth rate and an ageing population with high life expectancy. This is typical of a high-income country.' },
       { n: 6, f: 'Problems of an ageing population', b: 'More pensions and healthcare needed, a shrinking workforce, fewer taxpayers, and pressure on government spending.' },
@@ -87,7 +91,7 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
     ...sub(T1, 'urban-settlements-0460', '1.6', [
       { n: 1, f: 'Central business district (CBD)', b: 'The commercial centre of a city, with shops, offices and the highest land values, easy access and the tallest buildings.' },
       { n: 2, f: 'Why are land values highest in the CBD?', b: 'It is the most accessible point, with the best transport links and the highest demand for space, so it is the most expensive.' },
-      { n: 3, f: 'Typical land use zones from centre to edge', b: 'CBD, inner city (older housing and industry), inner suburbs, outer suburbs, then the rural-urban fringe.' },
+      { n: 3, f: 'Typical land use zones from centre to edge', b: 'CBD, inner city (older housing and former industry), suburbs (newer, lower density), then the rural-urban fringe.' },
       { n: 4, f: 'Problems in the inner city', b: 'Old and poor-quality housing, derelict land, unemployment, crime, traffic congestion and a poor environment.' },
       { n: 5, f: 'Problems at the rural-urban fringe', b: 'Loss of farmland and green space through urban sprawl, and more commuting and traffic. Greenfield sites are cheap and spacious.' },
       { n: 6, f: 'Brownfield vs greenfield site', b: 'Brownfield: land previously built on and now reused. Greenfield: land that has not been built on before, often on the edge of a town.' },
@@ -128,7 +132,7 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
       { n: 3, f: 'How is a wave-cut platform formed?', b: 'Waves undercut a cliff, forming a notch. The cliff collapses and retreats, leaving a gently sloping rock platform at its base.' },
       { n: 4, f: 'Sequence of headland landforms', b: 'Cave, arch, stack, then stump, formed by erosion of a weakness in a headland.' },
       { n: 5, f: 'How is a spit formed?', b: 'Longshore drift deposits sand and shingle where the coast changes direction, building a ridge out into the sea.' },
-      { n: 6, f: 'Coral reef conditions', b: 'Warm, clear, shallow, salty water, usually above about 18 °C, with plenty of sunlight and no heavy sediment.' },
+      { n: 6, f: 'Coral reef conditions', b: 'Warm, clear, shallow, typically nutrient-poor water with plenty of sunlight, because the algae living in the coral need light.' },
       { n: 7, f: 'Why are mangroves valuable?', b: 'Their roots trap sediment and reduce wave energy, protecting coasts. They are also habitats and nursery areas for fish.' },
       { n: 8, f: 'Examples of coastal management', b: 'Hard: sea walls, groynes, rock armour. Soft: beach nourishment, dune stabilisation and managed retreat.' },
     ]),
@@ -143,10 +147,10 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
       { n: 8, f: 'Describe the weather of an area of high pressure', b: 'Air sinks and warms, giving clear skies and dry, settled weather. Winds are light.' },
     ]),
     ...sub(T2, 'climate-natural-vegetation-0460', '2.5', [
-      { n: 1, f: 'Weather vs climate', b: 'Weather is the day-to-day state of the atmosphere. Climate is the average weather of an area over a long period, usually 30 years or more.' },
-      { n: 2, f: 'Climate of a tropical rainforest', b: 'Hot all year, with a small temperature range and high rainfall, often daily, throughout the year.' },
+      { n: 1, f: 'Weather vs climate', b: 'Weather is the day-to-day state of the atmosphere. Climate is the long-term average pattern of weather in an area.' },
+      { n: 2, f: 'Climate of a tropical rainforest', b: 'Hot all year with a very small annual temperature range, and high rainfall spread fairly evenly through the year, mainly convectional.' },
       { n: 3, f: 'Layers of a tropical rainforest', b: 'Emergent layer, canopy, understorey and forest floor. Most life is found in the dense canopy.' },
-      { n: 4, f: 'How are plants adapted to the rainforest?', b: 'Drip tips shed heavy rain, buttress roots support tall trees, and the evergreen canopy competes for light. Growth is fast.' },
+      { n: 4, f: 'How are plants adapted to the rainforest?', b: 'Drip tips shed heavy rain, buttress roots support tall trees, and the dense canopy means plants compete for light.' },
       { n: 5, f: 'Climate of a hot desert', b: 'Very hot by day and cooler at night, so a large daily temperature range, with low and unreliable rainfall.' },
       { n: 6, f: 'How are desert plants adapted?', b: 'Long roots or wide shallow roots, waxy or small leaves, spines and water-storing stems to reduce water loss.' },
       { n: 7, f: 'Causes of deforestation', b: 'Logging, farming and cattle ranching, mining, road building and settlement.' },
@@ -161,7 +165,7 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
       { n: 4, f: 'Quaternary sector', b: 'Knowledge and research, such as software, research and development, data and consultancy.', src: DEV },
       { n: 5, f: 'GNP vs GNP per capita', b: 'GNP is the total; GNP per capita is the average per person. Only per capita compares living standards.', src: DEV },
       { n: 6, f: 'Economic vs social indicators', b: 'Economic indicators measure income. Social indicators measure health, education and welfare.', src: DEV },
-      { n: 7, f: 'What is the Human Development Index (HDI)?', b: 'A composite measure combining income, life expectancy and education to rank countries\' level of human development.' },
+      { n: 7, f: 'What is the Human Development Index (HDI)?', b: 'A composite measure combining income, life expectancy and education to rank countries\' level of human development.', src: DEV },
       { n: 8, f: 'Transnational corporation (TNC)', b: 'A company that operates in more than one country, often with its headquarters in a high-income country.', src: DEV },
     ]),
     ...sub(T3, 'food-production-0460', '3.2', [
@@ -171,12 +175,12 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
       { n: 4, f: 'Natural factors affecting farming', b: 'Relief, climate (temperature and rainfall) and soil.', src: FOOD },
       { n: 5, f: 'Human factors affecting farming', b: 'Capital, markets, transport, government policy, land tenure and tradition.', src: FOOD },
       { n: 6, f: 'Food shortage vs famine', b: 'A shortage is not enough food. Famine is the extreme end, with widespread deaths.', src: FOOD },
-      { n: 7, f: 'Causes of food shortages', b: 'Drought, flood, war and conflict, poverty, pests and disease, and poor storage or transport.' },
-      { n: 8, f: 'Ways to increase food supply', b: 'Irrigation, fertilisers, high-yield seed varieties, mechanisation and better storage.' },
+      { n: 7, f: 'Causes of food shortages', b: 'Natural: drought, floods, tropical storms and pests. Economic and political: low capital investment, poor distribution, transport difficulties and wars.', src: FOOD },
+      { n: 8, f: 'Ways to increase food supply', b: 'Irrigation, high-yielding seed varieties with fertiliser, appropriate technology (such as hand pumps and storage silos), early warning and pest control.', src: FOOD },
     ]),
     ...sub(T3, 'industry-0460', '3.3', [
-      { n: 1, f: 'Industrial system', b: 'Inputs (raw materials, labour, energy, capital), processes (manufacturing) and outputs (products and waste).' },
-      { n: 2, f: 'Factors influencing industrial location', b: 'Raw materials, energy, labour supply, transport, markets, capital and government policy.' },
+      { n: 1, f: 'Industrial system', b: 'Inputs (raw materials, labour, energy, capital), processes (manufacturing) and outputs (products and waste).', src: IND },
+      { n: 2, f: 'Factors influencing industrial location', b: 'Land, labour, raw materials, fuel and power, transport, markets and political factors (such as grants and tax breaks).', src: IND },
       { n: 3, f: 'Why do TNCs locate factories in low-income countries?', b: 'Cheaper labour, lower land costs, government incentives and access to local markets or raw materials.' },
       { n: 4, f: 'Benefits of industry to a low-income country', b: 'Jobs, higher incomes, tax revenue, skills training and growth in related businesses.' },
       { n: 5, f: 'Problems of industrial growth', b: 'Pollution, poor working conditions, loss of farmland and profits sent abroad.' },
@@ -192,7 +196,7 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
     ]),
     ...sub(T3, 'energy-0460', '3.5', [
       { n: 1, f: 'Non-renewable energy sources', b: 'Coal, oil and natural gas (fossil fuels) and nuclear fuel. They will run out and fossil fuels release carbon dioxide.' },
-      { n: 2, f: 'Renewable energy sources', b: 'Solar, wind, hydroelectric, geothermal, tidal and biomass. They are replaced naturally and do not run out.' },
+      { n: 2, f: 'Renewable energy sources', b: 'Solar, wind, HEP, geothermal, wave and tidal, and biofuels. They are replaced naturally and do not run out.', src: ENERGY },
       { n: 3, f: 'Advantages of hydroelectric power', b: 'Renewable, produces no greenhouse gases in generation, and the dam can supply water and control floods.' },
       { n: 4, f: 'Disadvantages of hydroelectric power', b: 'High building costs, flooding of land and homes, loss of habitats and altered river flow.' },
       { n: 5, f: 'Advantages and disadvantages of nuclear power', b: 'Advantages: large output and low carbon emissions. Disadvantages: high cost, risk of accidents and radioactive waste that is difficult to store.' },
@@ -200,8 +204,8 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
     ]),
     ...sub(T3, 'water-0460', '3.6', [
       { n: 1, f: 'Ways of obtaining water supply', b: 'Dams and reservoirs, wells and boreholes (groundwater), rivers, desalination and rainwater harvesting.' },
-      { n: 2, f: 'Desalination', b: 'Removing salt from sea water to make fresh water. It is expensive and uses a lot of energy.' },
-      { n: 3, f: 'Water scarcity: physical vs economic', b: 'Physical scarcity: not enough water exists. Economic scarcity: water exists but people cannot afford or access it because of a lack of infrastructure.' },
+      { n: 2, f: 'Desalination', b: 'Removing salt from sea water to make fresh water. It is expensive and uses a lot of energy.', src: WATER },
+      { n: 3, f: 'Water scarcity: physical vs economic', b: 'Physical scarcity: not enough water exists to meet demand. Economic scarcity: water exists, but there is no investment to supply it.', src: WATER },
       { n: 4, f: 'Causes of water shortage', b: 'Low rainfall and drought, growing population, pollution of supplies and over-use for farming and industry.' },
       { n: 5, f: 'Impacts of water shortage', b: 'Disease from unsafe water, crop failure, conflict over supplies and time spent collecting water.' },
       { n: 6, f: 'Ways to manage water supply', b: 'Reduce leaks, recycle water, irrigate efficiently, build reservoirs and educate people about conservation.' },
@@ -212,7 +216,7 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
       { n: 3, f: 'Possible impacts of climate change', b: 'Sea level rise, more extreme weather, melting ice, changes to farming and loss of habitats.' },
       { n: 4, f: 'Environmental risks of resource extraction', b: 'Habitat loss, soil and water pollution, air pollution and waste.' },
       { n: 5, f: 'Ways to reduce environmental risk', b: 'Use renewable energy, recycle, control pollution through laws, replant trees and international agreements.' },
-      { n: 6, f: 'Sustainable development', b: 'Development that meets present needs without harming the ability of future generations to meet their own needs.' },
+      { n: 6, f: 'Sustainable development', b: 'Development that meets present needs without harming the ability of future generations to meet their own needs.', src: ENVR },
     ]),
   ],
 };
