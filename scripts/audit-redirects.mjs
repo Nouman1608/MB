@@ -22,6 +22,7 @@
  * Exits 1 on any problem found, matching the other audit-*.mjs scripts.
  */
 import { readFile, readdir } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
 import { join, relative } from 'node:path';
 
 const DIST = 'dist';
@@ -109,7 +110,10 @@ const builtHtmlFiles = await walk(DIST);
 const builtPaths = new Set(builtHtmlFiles.map(htmlPathToUrlPath));
 for (const rule of staticRules) {
   const targetPath = rule.target.split(/[?#]/)[0];
-  if (!builtPaths.has(targetPath) && !builtPaths.has(targetPath.replace(/\/$/, '') + '/')) {
+  // D-454 -- a target may also be a built non-HTML file (the one case so far:
+  // /sitemap.xml -> /sitemap-index.xml). It must exist in dist as that file.
+  const isBuiltFile = /\.[a-z0-9]+$/i.test(targetPath) && existsSync(join(DIST, targetPath));
+  if (!isBuiltFile && !builtPaths.has(targetPath) && !builtPaths.has(targetPath.replace(/\/$/, '') + '/')) {
     problems.push(`[3] Redirect target does not resolve to a built page: "${rule.source}" -> "${rule.target}"`);
   }
 }

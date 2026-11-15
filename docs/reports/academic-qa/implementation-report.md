@@ -1,8 +1,8 @@
 # Academic Quality Assurance Programme — implementation report
 
-Decision: **D-454** (`docs/decision-log.md`). Framework: [`docs/academic-qa/framework.md`](../../academic-qa/framework.md). Dashboard: [`dashboard.md`](dashboard.md) / [`dashboard.html`](dashboard.html). Tests: [`test-results.md`](test-results.md). Open items: [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md) (OQ-6 to OQ-11, OT-5 to OT-7).
+Decision: **D-455** (`docs/decision-log.md`). Framework: [`docs/academic-qa/framework.md`](../../academic-qa/framework.md). Dashboard: [`dashboard.md`](dashboard.md) / [`dashboard.html`](dashboard.html). Tests: [`test-results.md`](test-results.md). Open items: [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md) (OQ-6 to OQ-11, OT-5 to OT-7).
 
-Branch `academic-qa/framework` (PR #163), started from `origin/main` at `47e84134d`, with `main` merged in at `ea1bbe7e3` (D-451, D-452 and D-453 from other sessions). Not deployed.
+Branch `academic-qa/framework` (PR #163), started from `origin/main` at `47e84134d`, with `main` merged in at `e6d01706d` (D-451 to D-454 from other sessions). Not deployed.
 
 ## 1. Summary
 
@@ -64,7 +64,7 @@ What this programme added: the ten-check framework, a versioned 100-point rubric
 | npm scripts | `validate:academic-qa`, `report:academic-qa`, `check:academic-qa`, `qa:review-pack`, `qa:source-manifest` |
 | Content correction | `src/content/resources/atomic-structure-practice.md` (3 lines; see section 6) |
 | Regenerated | `docs/reports/academic-review/*` (ledger), `docs/reports/academic-coverage-current.{csv,json}` (word count of the corrected page) |
-| Docs | `docs/academic-qa/framework.md`, this report, `test-results.md`, decision log D-454, `OPEN_QUESTIONS.md` |
+| Docs | `docs/academic-qa/framework.md`, this report, `test-results.md`, decision log D-455, `OPEN_QUESTIONS.md` |
 
 No public template, schema, URL, title, description, sitemap entry, robots directive or structured data changed. Rule [Q9] makes sure no page can reference the QA register.
 

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "decision": "D-454",
+    "decision": "D-455",
     "rubric": "src/utils/academic/qa-rubric.ts (rubric 1.0.0); framework: docs/academic-qa/framework.md",
     "meaning": "Rubric assessments of single resources against the ten checks and seven weighted categories. A record is evidence of an assessment, never an approval: approval is a separate record in docs/reports/academic-review/teacher-verifications.json. method 'ai-assisted' means an AI system read the page against the cited official documents; it is not a teacher review. Totals and bands are computed from the categories by the scorecard and are never stored here. Records are append-only: a reassessment is a new record with a new id; the newest record for a resource wins.",
     "fields": {
@@ -955,7 +955,7 @@
           "description": "The second part of Q4 (why isotopes have identical chemical properties) is 0620 Supplement (Extended) content, but it is unlabelled and the tier note says every other question is answerable by a Core candidate. Required for 5070, so 5070 students are not misled.",
           "evidence": "Page line 48: 'All other questions are answerable by a 0620 Core candidate.' Q4: 'explain why isotopes of the same element have identical chemical properties. [3]'. 0620 p.13, 2.3 Supplement column: '3 State that isotopes of the same element have the same chemical properties because they have the same number of electrons'. Verified by the lead.",
           "status": "fixed",
-          "resolution": "15 Nov 2026 (D-454): Q4 second part labelled 0620 Extended / 5070 required; tier note rewritten to name Q7, Q13 and Q4 part 2."
+          "resolution": "15 Nov 2026 (D-455): Q4 second part labelled 0620 Extended / 5070 required; tier note rewritten to name Q7, Q13 and Q4 part 2."
         },
         {
           "id": "F2",
@@ -966,7 +966,7 @@
           "description": "The FAQ names only the Ar calculations as Extended, repeating the gap in F1.",
           "evidence": "Page line 137: 'Questions on calculating relative atomic mass from isotope abundances are labelled 0620 Extended.'",
           "status": "fixed",
-          "resolution": "15 Nov 2026 (D-454): FAQ answer now names the second part of Q4 as well as Q7 and Q13."
+          "resolution": "15 Nov 2026 (D-455): FAQ answer now names the second part of Q4 as well as Q7 and Q13."
         },
         {
           "id": "F3",

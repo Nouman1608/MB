@@ -1,6 +1,6 @@
-# D-454 test results (15 Nov 2026)
+# D-455 test results (15 Nov 2026)
 
-Run locally on Windows (Node 26.7.0), on branch `academic-qa/framework` in its own worktree, **after merging `main` at `ea1bbe7e3`** (D-451, D-452 and D-453 from other sessions; 90 new resources and a 7,636-line reviewNote rewording). Each step ran on its own, with nothing else running at the same time.
+Run locally on Windows (Node 26.7.0), on branch `academic-qa/framework` in its own worktree, **after merging `main` at `e6d01706d`** (D-451 to D-454 from other sessions; 90 new resources, a 7,636-line reviewNote rewording, and template and redirect fixes). Each step ran on its own, with nothing else running at the same time.
 
 | Command | Result | Notes |
 |---|---|---|
