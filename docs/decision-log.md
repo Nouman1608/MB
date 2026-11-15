@@ -15980,3 +15980,9 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
   - points heading "AS content of the A Level".
   Standalone AQA AS resources keep "AS Level". 7402 is included because it is the same defect as the 7405 case approved; OCR has no `stage: AS` resources.
 - **Code.** The label helpers moved to `src/utils/content/level-label.ts` (re-exported by `collections.ts`) so they can be unit-tested. `validate-as-level-display` now requires the boards argument at every call site. The rendered-label audit's copy of the rule is updated. 5 new tests.
+
+## D-451 - "Named teachers" figures name their unit (OQ-5, 15 Nov 2026)
+
+- Owner, 15 Nov 2026: "do OQ-5 option a".
+- **Problem.** The home hero said "23 named subject specialists" (person profiles with subjects taught). The editorial policy said "one of 8 named teachers" (distinct named authors credited on resources). It was the same kind of label with two definitions.
+- **Fix.** Each figure now names its unit, and both are still computed at build time. The home hero says "23 teacher profiles". The policy says "one of 8 named authors from the Marlbridge teaching team". All 8 named authors also have teacher profiles (checked 15 Nov), so "from the Marlbridge teaching team" stays true. Wording only; no count changed.

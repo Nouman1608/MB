@@ -58,7 +58,9 @@ const teachesIb = activeOnly().some((c) => c.boardSlug === 'ib');
 
 const proof = [
   'First class free',
-  `${teacherCount} named subject specialists`,
+  // D-451 (owner OQ-5 option a): name the unit -- this counts teacher profiles (people with subjects taught),
+  // not the named authors the editorial policy counts.
+  `${teacherCount} teacher profiles`,
   `Groups capped at ${PRICING_TERMS.maxGroupSize}`,
   PRICING_TERMS.enquiryResponse.short,
 ];
