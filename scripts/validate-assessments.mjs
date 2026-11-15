@@ -391,7 +391,12 @@ if (ASSESSMENTS.length === 0) {
   let p8 = 0;
   for (const a of ASSESSMENTS) {
     for (const c of a.components) {
-      if (!(c.marks > 0)) { fail(`${idOf(a)}: component "${c.paperCode}" has marks=${c.marks} (must be > 0)`); p8++; }
+      // D-455: null = mark total deliberately not shown (no official document confirms it);
+      // allowed only when the reader-facing marksSourceNote names the paper and says so.
+      if (c.marks === null) {
+        const note = a.marksSourceNote ?? '';
+        if (!(note.includes(c.paperCode) && /not shown/i.test(note))) { fail(`${idOf(a)}: component "${c.paperCode}" has marks=null, but marksSourceNote does not say that ${c.paperCode}'s total is not shown`); p8++; }
+      } else if (!(c.marks > 0)) { fail(`${idOf(a)}: component "${c.paperCode}" has marks=${c.marks} (must be > 0, or null with a marksSourceNote)`); p8++; }
       if (c.durationMinutes !== null && !(c.durationMinutes > 0)) { fail(`${idOf(a)}: component "${c.paperCode}" has durationMinutes=${c.durationMinutes} (must be null or > 0)`); p8++; }
       if (c.durationMinutes !== null && c.durationMinutes > 600) { fail(`${idOf(a)}: component "${c.paperCode}" has durationMinutes=${c.durationMinutes}, implausibly long (>10h) -- check for a minutes/seconds mixup`); p8++; }
     }
