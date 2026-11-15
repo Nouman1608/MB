@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the exact wording and depth of sub-topics 5.1 to 5.4 in the 2027-2029 syllabus, especially which sampling methods and nutrient cycles are named; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the exact wording and depth of sub-topics 5.1 to 5.4 in the 2027-2029 syllabus, especially which sampling methods and nutrient cycles are named; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These are condensed notes for **sub-topic A.5, Galilean and special relativity**, from the IB *Physics guide*, first assessment 2025. All of A.5 is additional higher level content, so everything below is **HL only**. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz/), then test yourself with the [practice questions](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-practice/).

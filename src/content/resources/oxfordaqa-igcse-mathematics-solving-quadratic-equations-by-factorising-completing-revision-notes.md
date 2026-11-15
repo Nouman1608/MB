@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense reference A20 in section 3.2.3 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). Factorising and graph solutions are Core. Completing the square and the quadratic formula are marked "Extension only". The specification says all content can be assessed on the Extension tier question papers, so Core content is also Extension content. For full explanations, read the [study guide](/resources/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing/).

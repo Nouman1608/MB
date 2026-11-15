@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: description claimed fracking coverage the body lacked; corrected description, added nuclear, tidal and wave power, electricity generation, energy demand factors (1.4.5), a pointer to the 1.5-1.6 guide and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08 recheck: description claimed fracking coverage the body lacked; corrected description, added nuclear, tidal and wave power, electricity generation, energy demand factors (1.4.5), a pointer to the 1.5-1.6 guide and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-08-21
 featured: false
 ---

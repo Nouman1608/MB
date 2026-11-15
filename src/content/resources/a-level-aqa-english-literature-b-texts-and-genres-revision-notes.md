@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08 recheck: added Section C rubric, current set-text changes (Kala 2027; 2B post-2000 texts) and FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: added Section C rubric, current set-text changes (Kala 2027; 2B post-2000 texts) and FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

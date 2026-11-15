@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sub-topic 2.3, competitive market equilibrium, of Unit 2 (Microeconomics) for IB Diploma Programme Economics. It follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020) and is written for the course examined from the 2022 session onwards. The content is for both SL and HL, except one calculation, which is **HL only** and is marked as such below.

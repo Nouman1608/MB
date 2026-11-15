@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Boolean logic is the mathematics behind every digital circuit. Each input is either 1 (true, on) or 0 (false, off), and a logic gate produces an output that depends only on its inputs. In Cambridge IGCSE Computer Science 0478 you need to know six gates, build truth tables, convert between circuits, expressions and tables, and design a circuit from a written description. The work is methodical, and careful working is what earns the marks.

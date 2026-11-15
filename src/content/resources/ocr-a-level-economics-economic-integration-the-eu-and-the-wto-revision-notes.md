@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the second part of *Trade policies and negotiations* from the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. Read the [study guide](/resources/ocr-a-level-economics-economic-integration-the-eu-and-the-wto/) for full explanations and the [practice questions](/resources/ocr-a-level-economics-economic-integration-the-eu-and-the-wto-practice/) to test yourself. The [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/) help you plan. All figures below are invented.

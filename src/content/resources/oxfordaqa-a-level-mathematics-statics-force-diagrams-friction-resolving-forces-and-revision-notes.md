@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 Condensed notes for the first part of section M2.3 (Statics and forces) of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2. The specification states this content is part of International A-level Unit M2 (Mechanics), not examined at International AS. For full explanations, use the [study guide](/resources/oxfordaqa-a-level-mathematics-statics-force-diagrams-friction-resolving-forces-and/). Then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-statics-force-diagrams-friction-resolving-forces-and-practice/). Moments, rigid bodies and centres of mass are not covered here. See also the [course hub](/boards/oxfordaqa/a-level/mathematics/), the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and the [free diagnostics](/diagnostics/).

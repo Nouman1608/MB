@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes condense section 3.3.2 Electrolysis of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements a to j and the required practical on copper sulfate solution. The qualification is untiered, so all of it is for every candidate. The [electrolysis study guide](/resources/oxfordaqa-igcse-chemistry-electrolysis/) has the full teaching and worked examples.

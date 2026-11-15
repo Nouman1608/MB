@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes squeeze section 2.10 (Market failure) of the 2026 examination syllabus for Cambridge O Level Economics (2281) into recall form: 2.10.1 terms, 2.10.2 causes, 2.10.3 consequences. The syllabus is not tiered and says demand and supply diagrams relating to market failure are not required. When you need reasons and longer working, return to the [study guide](/resources/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and/). Test yourself on the [practice questions](/resources/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and-practice/), tick topics off on the [checklist](/checklists/cambridge/o-level/economics/), and open the [subject hub](/boards/cambridge/o-level/economics/) for the rest of the course. To see where you stand first, take a [free diagnostic](/diagnostics/). All names and numbers are invented for illustration, and money is in dollars.

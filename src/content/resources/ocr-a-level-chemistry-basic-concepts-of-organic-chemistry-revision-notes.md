@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes condense section 4.1.1, Basic concepts of organic chemistry, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover every learning outcome, 4.1.1(a) to (i), at the start of Module 4, Core organic chemistry. H432 is the full A level. Each idea is explained in full, with longer worked examples, in the [Basic concepts of organic chemistry study guide](/resources/ocr-a-level-chemistry-basic-concepts-of-organic-chemistry/).

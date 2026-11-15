@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 Section 3.2.4.2 of the OxfordAQA International AS and A-level Economics specification (version 1.2, code 9640) covers fiscal policy, and this guide teaches it with the related quantitative skills from section 3.5. Section 3.2 is International AS content, so all of it sits in the AS part of the course. Every country, household and figure below is made up for illustration. Monetary policy and supply-side policies are separate statements (3.2.4.1 and 3.2.4.3) and are left to their own pages.
 

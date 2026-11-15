@@ -16,7 +16,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-28
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This page is a guide to the past papers for Cambridge International AS & A Level Biology (9700). It covers twelve series, from March 2021 to November 2024. The grade thresholds are copied from Cambridge's official grade-threshold documents, and the examiner notes are our own summaries of Cambridge's Principal Examiner Reports for Teachers. We do not host any papers: every paper, mark scheme and report is on Cambridge's own site.

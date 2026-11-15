@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers learning outcomes 5.1.5(a) to 5.1.5(f) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. They sit in module 5, Communication, homeostasis and energy. Use the [course hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/) to track progress, then test yourself with the [revision notes](/resources/ocr-a-level-biology-plant-responses-and-plant-hormones-revision-notes/), the [practice questions](/resources/ocr-a-level-biology-plant-responses-and-plant-hormones-practice/) and the free [diagnostics](/diagnostics/). Related pages: [exchange and transport](/resources/ocr-a-level-biology-exchange-and-transport/) for stomata and water movement, and [development of practical skills](/resources/ocr-a-level-biology-development-of-practical-skills/).

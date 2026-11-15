@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the 9210 specification for the exact HTML tags, CSS properties and design principles required, since the scope of this topic could not be confirmed against the specification. 2026-11-08 recheck: checked against spec v3.3 section 3.8; limited tags to the spec list (removed table/form tags), selectors to type and class, properties to the seven listed, CSS to embedded sheets; added HTML5 and scripting; please re-review; 2026-11-08: reviewed by harris-khan."
+reviewNote: "Check the 9210 specification for the exact HTML tags, CSS properties and design principles required, since the scope of this topic could not be confirmed against the specification. 2026-11-08 recheck: checked against spec v3.3 section 3.8; limited tags to the spec list (removed table/form tags), selectors to type and class, properties to the seven listed, CSS to embedded sheets; added HTML5 and scripting; please re-review; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

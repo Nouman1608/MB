@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 This guide covers AQA A-level Biology (7402) section 3.7.1, *Inheritance*, from the AQA AS and A-level Biology specification for first teaching 2015. The specification marks 3.7.1 as A-level only (not AS). It sits in topic 7, so it falls in the content assessed by A-level Paper 2 (topics 5 to 8) and Paper 3 (topics 1 to 8). The chi-squared test is linked to maths skill 1.9. Condense it with the [revision notes](/resources/aqa-a-level-biology-inheritance-and-chi-squared-revision-notes/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-inheritance-and-chi-squared-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/), the [printable checklist](/checklists/aqa/a-level/biology/) and the [free diagnostics](/diagnostics/). Meiosis is covered in [mutation and meiosis](/resources/aqa-a-level-biology-mutation-and-meiosis/).
 

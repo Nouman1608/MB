@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment in 2018. It covers learning outcomes P3.2i to P3.2m in topic P3.2 Simple circuits. No statement in this range is printed in bold in the specification, so each is assessed in both Foundation and Higher Tier papers.

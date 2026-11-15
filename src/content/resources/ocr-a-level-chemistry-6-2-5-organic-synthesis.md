@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches section 6.2.5, Organic synthesis, from Module 6 of OCR A Level Chemistry A, H432. It follows Version 3.1 of the OCR specification, dated May 2026 and first assessed in 2017, and covers every learning outcome, 6.2.5(a) to (c). Each part has a worked example. The specification treats H432 as a single full A level and examines Module 6 in components 02 and 03. Outcome (a) links to PAG6, Synthesis of an organic solid, whose example activity in the specification is the synthesis of aspirin.

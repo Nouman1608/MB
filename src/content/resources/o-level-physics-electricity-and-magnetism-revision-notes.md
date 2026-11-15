@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 These notes condense Section 4, Electricity and magnetism (4.1 to 4.6), of the Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028. For full explanations and worked examples, read the [study guide](/resources/o-level-physics-electricity-and-magnetism/). Test yourself with the [practice questions](/resources/o-level-physics-electricity-and-magnetism-practice/), tick off topics on the [checklist](/checklists/cambridge/o-level/physics/), find weak spots with the [free diagnostics](/diagnostics/) and return to the [course hub](/boards/cambridge/o-level/physics/).
 

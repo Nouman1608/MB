@@ -42,7 +42,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
 ---
 
 These revision notes condense the HL further calculus unit of IB Diploma Programme Mathematics: Analysis and Approaches for your final weeks. For full explanations and worked examples, use the [further calculus study guide](/resources/ib-dp-mathematics-aa-hl-further-calculus/). The notes are aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 5.12–5.19, and all of the content is HL only (AHL). They follow the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so they apply to the May and November 2026, 2027 and 2028 HL sessions.

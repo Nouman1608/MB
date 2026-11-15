@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 1.3.6 Government intervention in markets, items 1 and 2, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. The specification labels Units 1 and 2 as International AS (IAS) and the extra content for the full IAL as International A2 (IA2); this topic is in Unit 1, so it is IAS content and also part of the full IAL. For full explanations and worked diagrams, use the [study guide](/resources/edexcel-ial-economics-government-intervention-and-government-failure-in/).

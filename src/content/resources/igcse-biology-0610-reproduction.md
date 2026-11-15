@@ -38,7 +38,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches topic 16 (Reproduction) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, sections 16.1 to 16.6. Core outcomes are tested on Papers 1 and 3 and are needed by every candidate; Supplement outcomes, labelled "Extended only", are tested on Papers 2 and 4. Section 16.6 is Core only.

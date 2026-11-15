@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense the [bank reconciliation statements study guide](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements/) for the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, section 3.2. Use the guide for explanations and the [practice questions](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements-practice/) once you can recall everything below. All amounts are in dollars. For the other verification techniques see the [Verification of Accounting Records revision notes](/resources/igcse-oxfordaqa-accounting-verification-revision-notes/). Find the course on the [hub](/boards/oxfordaqa/igcse/accounting/), tick it off on the [checklist](/checklists/oxfordaqa/igcse/accounting/) and check your starting level with the [free diagnostics](/diagnostics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 Sub-topic **C5.2 Controlling reactions** sits in Topic C5 Monitoring and controlling chemical reactions of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026). Every part of it is taught here: learning outcomes C5.2a to C5.2i, the mathematical learning outcomes CM5.2i to CM5.2iv, and the practical suggestions linked to PAG C1, PAG C7 and PAG C8. No statement in C5.2 is in bold type, so every outcome here is assessed at both Foundation and Higher Tier. According to the assessment overview, Topic C5 is examined in Paper 2 if you sit Foundation Tier, or Paper 4 if you sit Higher Tier.

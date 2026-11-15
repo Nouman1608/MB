@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 3.2.2 of OxfordAQA's International GCSE Chemistry (9202)

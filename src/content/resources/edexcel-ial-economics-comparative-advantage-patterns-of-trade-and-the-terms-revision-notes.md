@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense statements 1 to 3 of 4.3.2 Trade and the global economy in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018). The topic belongs to Unit 4, an International A2 unit that the specification marks as IAL compulsory. For full explanations use the [study guide](/resources/edexcel-ial-economics-comparative-advantage-patterns-of-trade-and-the-terms/), then try the [practice questions](/resources/edexcel-ial-economics-comparative-advantage-patterns-of-trade-and-the-terms-practice/). See also the [course hub](/boards/edexcel/a-level/economics/), the [printable checklist](/checklists/edexcel/a-level/economics/) and the free [diagnostics](/diagnostics/). All figures are invented and illustrative. Trading blocs, the WTO and protectionism are separate statements.

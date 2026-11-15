@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.7.4, Populations in ecosystems, from the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015. The section is A-level only, so it is not part of the AS course. It sits in topic 7, which the specification assesses in Paper 2 and in Paper 3. Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and [printable checklist](/checklists/aqa/a-level/biology/). Companion pages: [revision notes](/resources/aqa-a-level-biology-populations-in-ecosystems-and-succession-revision-notes/) and [practice questions](/resources/aqa-a-level-biology-populations-in-ecosystems-and-succession-practice/). To see where you stand, try the [free diagnostics](/diagnostics/).

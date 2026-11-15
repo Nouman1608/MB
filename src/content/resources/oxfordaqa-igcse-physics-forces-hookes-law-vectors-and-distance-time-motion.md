@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards. It covers sections 3.1.1 (Forces and their interactions) and 3.1.2 (Motion). The qualification is untiered. After reading, use the [revision notes](/resources/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion-practice/).

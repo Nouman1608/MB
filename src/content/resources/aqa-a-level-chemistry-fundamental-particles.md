@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches section **3.1.1.1 Fundamental particles** of the AQA AS and A-level Chemistry specification (7404/7405), for AS and A-level exams from June 2016 onwards. This is the first sub-section of 3.1.1 Atomic structure and it is AS content and is not marked A-level only. The specification places section 3.1.1 on Paper 1 for both the AS and the A-level, and it is the base for every later idea about electrons, isotopes and bonding.

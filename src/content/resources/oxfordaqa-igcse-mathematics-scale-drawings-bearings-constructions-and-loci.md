@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide teaches scale drawings, bearings, ruler-and-compass constructions and loci for OxfordAQA International GCSE Mathematics. It follows the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), references G12 and G13 in section 3.3.1. Both references are Core content, and the specification states that Core content can also be assessed on the Extension papers, so everything here is for both tiers. There is no Extension-only content in this unit.
 

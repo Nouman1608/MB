@@ -15986,3 +15986,10 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 - Owner, 15 Nov 2026: "do OQ-5 option a".
 - **Problem.** The home hero said "23 named subject specialists" (person profiles with subjects taught). The editorial policy said "one of 8 named teachers" (distinct named authors credited on resources). It was the same kind of label with two definitions.
 - **Fix.** Each figure now names its unit, and both are still computed at build time. The home hero says "23 teacher profiles". The policy says "one of 8 named authors from the Marlbridge teaching team". All 8 named authors also have teacher profiles (checked 15 Nov), so "from the Marlbridge teaching team" stays true. Wording only; no count changed.
+
+## D-452 - Reviewer-credit notes say "credited to", not "reviewed by" (OQ-1, 15 Nov 2026)
+
+- Owner, 15 Nov 2026: "do OQ-1 option a".
+- **Problem.** The internal `reviewNote` on 7,606 resources recorded the accountable-teacher credit as "<date>: reviewed by <id>.": 7,554 dated 2026-11-08 (the bulk credit, commit 03159b8c) and 52 dated 2026-11-15. Under D-379 a credit is not a review event, so the notes contradicted the policy for any auditor or tool reading them. They are not rendered on any page.
+- **Fix.** Each such entry now reads "<date>: credited to <id> (accountable teacher, D-379).", with its date kept. Only that line changed in each file. Every credited id matches the file's own `reviewer` field (7,606 of 7,606). New rule [14] in `validate-review-integrity.mjs` rejects the old form; negative fixture [AV].
+- **Left as is.** About 2,133 notes also say "previously reviewed by <id> on 2026-09-29". That credit predates D-379 (1 Oct 2026), when the meaning may have differed, so it is historical record and not rewritten.

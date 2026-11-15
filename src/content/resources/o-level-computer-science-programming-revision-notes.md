@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 8 of Cambridge O Level Computer Science (2210) is tested on Paper 2 by asking you to read, complete and write pseudocode. Most lost marks come from a few small decisions: the wrong data type, the wrong loop, a misread SUBSTRING, a total reset in the wrong place or a file opened in the wrong mode. These notes are arranged as decision guides and quick drills so you can make each choice correctly under time pressure.

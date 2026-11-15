@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This study guide teaches topic 15, Databases, of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It covers sections 3.15.1.1 to 3.15.1.5 (relational databases) and 3.15.2 (Big Data). Every outcome here is International A-level only, tested in the written Unit 4 paper.

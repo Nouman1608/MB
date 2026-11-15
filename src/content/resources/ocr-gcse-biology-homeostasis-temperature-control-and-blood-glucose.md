@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. It covers statements B3.3a to B3.3e of module B3.3, Maintaining internal environments. Statement B3.3d is in bold in the specification, so it is tested only in the Higher Tier papers. The other four statements apply to both tiers. Osmotic balance, the kidney and ADH (B3.3f onwards) are taught elsewhere.

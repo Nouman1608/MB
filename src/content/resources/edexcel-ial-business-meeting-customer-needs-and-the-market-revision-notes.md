@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 1.3.1 (Meeting customer needs) and 1.3.2 (The market) of Unit 1, Marketing and people, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification, Issue 1, September 2017. For full explanations, use the [study guide](/resources/edexcel-ial-business-meeting-customer-needs-and-the-market/). Then test yourself with the [practice set](/resources/edexcel-ial-business-meeting-customer-needs-and-the-market-practice/).

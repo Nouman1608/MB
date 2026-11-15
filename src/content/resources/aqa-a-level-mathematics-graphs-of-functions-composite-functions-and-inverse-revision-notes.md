@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense AQA A-level Mathematics 7357 content B7 (graphs of functions) and B8 (composite and inverse functions), from the specification version 1.3 dated 31 January 2018. Longer explanations are in the [study guide](/resources/aqa-a-level-mathematics-graphs-of-functions-composite-functions-and-inverse/) first.

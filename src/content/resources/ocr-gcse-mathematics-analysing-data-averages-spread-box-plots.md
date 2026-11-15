@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). It covers section 12.03 (Analysing data): 12.03a summary statistics, 12.03b misrepresenting data, 12.03c bivariate data and 12.03d outliers. Most of it is for both tiers. Estimating quartiles and the interquartile range from graphs of grouped data, drawing and interpreting box plots, and comparing distributions using the median and interquartile range are **Higher tier only**.

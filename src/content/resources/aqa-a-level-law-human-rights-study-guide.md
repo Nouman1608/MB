@@ -62,7 +62,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check which cases and which reform proposals the specification and board guidance expect, and confirm the current status of any proposed Bill of Rights; 2026-11-08: reviewed by aizaz-raoof-ali."
+reviewNote: "Check which cases and which reform proposals the specification and board guidance expect, and confirm the current status of any proposed Bill of Rights; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

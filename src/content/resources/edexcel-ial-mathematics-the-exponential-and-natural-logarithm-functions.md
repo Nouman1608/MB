@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide teaches P3 sections 3 and 6 (topics 3.1 to 3.3 and 6.1 to 6.2) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that P3 is compulsory for IAL Mathematics and Pure Mathematics, and that its IAS weighting is N/A, so it is not part of IAS. It also says P1 and P2 knowledge is assumed, including the laws of logarithms, so revisit the [Unit P2 overview](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) if those feel rusty.

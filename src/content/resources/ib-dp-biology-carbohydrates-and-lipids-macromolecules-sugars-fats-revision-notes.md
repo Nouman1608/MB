@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense IB Diploma Programme Biology topic B1.1 (Carbohydrates and lipids), statements B1.1.1 to B1.1.13, from the IB *Biology guide*, first assessment 2025. All of it is SL and HL. For full explanations read the [study guide](/resources/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats/), then test yourself with the [practice set](/resources/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats-practice/).

@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 This guide is written against the AQA specification for AS and A-level Biology (7401 and 7402), first teaching 2015. It covers sections 3.8.1 (alteration of the sequence of bases in DNA can alter the structure of proteins) and 3.8.2.1 (most of a cell's DNA is not translated). Neither is part of the AS. Topic 8 sits in the A-level only content: Paper 2 draws on topics 5 to 8, Paper 3 on all eight topics, and Paper 1 stops at topic 4.
 

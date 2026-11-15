@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide covers section 3.2.5, Transition metals, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole of 3.2.5 is marked "A-level only", so it is not part of AS. The specification lists inorganic chemistry (section 3.2) under A-level Paper 1, and Paper 3 can assess any content. It lists no required practical; required practical 11 belongs to section 3.2.6.

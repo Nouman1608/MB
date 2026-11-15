@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers **section 3.2.2.1, Economic objectives of the government**, in the AQA GCSE Economics (8136) specification for first teaching from September 2017. It sits in 3.2 How the economy works, which the specification assigns to Paper 2. The specification has no tiers. Everything named below, from the countries to the numbers, is fictional and chosen only to illustrate the ideas.

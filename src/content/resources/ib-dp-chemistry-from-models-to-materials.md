@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches **Structure 2.4, From models to materials**, following the IB *Chemistry guide* (Diploma Programme; published February 2023; first assessment 2025). It works through understandings Structure 2.4.1 to 2.4.6. The first five are for SL and HL; Structure 2.4.6 is additional higher level, so it is **HL only**.

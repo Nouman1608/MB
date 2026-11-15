@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These notes condense section 3.6.2 (simple harmonic motion) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4. The section is International A-level only. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-simple-harmonic-motion-equations-graphs-and-energy/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-simple-harmonic-motion-equations-graphs-and-energy-practice/). The [course hub](/boards/oxfordaqa/a-level/physics/), the [printable checklist](/checklists/oxfordaqa/a-level/physics/) and the [free diagnostics](/diagnostics/) help you plan the rest of your revision.
 

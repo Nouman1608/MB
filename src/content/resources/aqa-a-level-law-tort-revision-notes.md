@@ -46,7 +46,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
+reviewNote: "2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 ---
 
 Tort is section 3.3 of AQA A-level Law (7162) and carries 75 of the 100 marks on Paper 2 (2 hours),

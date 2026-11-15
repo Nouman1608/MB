@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 This guide teaches Section 4, Electricity and magnetism (4.1 to 4.6), of the Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028. 
 

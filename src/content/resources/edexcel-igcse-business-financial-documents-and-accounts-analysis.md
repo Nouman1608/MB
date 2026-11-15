@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 3 (Business finance), sections 3.4 Financial documents and 3.5 Accounts analysis. As both papers draw on the whole content, expect this material in either the small-business paper or the large-business paper.

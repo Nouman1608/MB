@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P2: Pure Mathematics 2, section 7 (Differentiation, 7.1) and section 8 (Integration, 8.1 to 8.3). As the specification states, P1 and P2 are compulsory units for both IAS Mathematics and IAL Mathematics (and Pure Mathematics). There are no tiers inside this content.

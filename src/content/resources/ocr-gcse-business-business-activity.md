@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 1, Business activity, of the OCR GCSE (9-1) Business specification (J204), Version 2.0 (January 2026). It teaches topics 1.1 to 1.6 and is examined in Business 1, the first of the two components. The wider topic is in the [Business activity, marketing and people study guide](/resources/ocr-gcse-business-business-activity-marketing-and-people/), and this page goes into more depth on section 1 alone.

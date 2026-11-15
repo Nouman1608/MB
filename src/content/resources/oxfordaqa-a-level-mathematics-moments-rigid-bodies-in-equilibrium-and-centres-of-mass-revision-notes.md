@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These are condensed notes for section M2.3 (moments, rigid bodies in equilibrium and centres of mass) of the OxfordAQA *International AS and A-level Mathematics* specification, Version 5.2. This content belongs to International A-level Unit M2 and is not examined at International AS. Fuller explanations and longer worked examples are in the [study guide](/resources/oxfordaqa-a-level-mathematics-moments-rigid-bodies-in-equilibrium-and-centres-of-mass/). Then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-moments-rigid-bodies-in-equilibrium-and-centres-of-mass-practice/).

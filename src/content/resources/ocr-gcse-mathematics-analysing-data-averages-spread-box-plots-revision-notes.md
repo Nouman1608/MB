@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense section 12.03 (Analysing data) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). The [study guide](/resources/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots/) gives the full explanations and worked examples. Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots-practice/). Content marked **Higher tier only** is in the Higher column of the specification. See the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), the [printable checklist](/checklists/ocr/gcse/mathematics/) and the [10-minute diagnostics](/diagnostics/).

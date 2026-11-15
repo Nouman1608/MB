@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide follows the OxfordAQA International AS and A-level Mathematics specification, Version 5.2. It covers the second half of section P2.1 (Algebra and functions): combinations of transformations of y = f(x), rational functions with the Factor and Remainder Theorems for divisors (ax + b), simplifying rational expressions, algebraic division, and partial fractions. The specification places this content in International A-level (A2) Unit P2 (Pure Maths). It is not examined at International AS.

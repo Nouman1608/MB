@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.5.2 Respiration of the AQA A-level Biology (7402) specification, for first teaching 2015. It is A-level only content, so it is not part of the AS course. It also covers required practical 9. The guide builds on [nucleic acids and ATP](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp/), [enzymes](/resources/aqa-a-level-biology-enzymes-and-required-practical-1/) and [cell structure](/resources/aqa-a-level-biology-cell-structure-revision-notes/). Use the [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/) to track progress. The [revision notes](/resources/aqa-a-level-biology-respiration-revision-notes/) and [practice questions](/resources/aqa-a-level-biology-respiration-practice/) pair with this page, and the [free diagnostics](/diagnostics/) show where to start.

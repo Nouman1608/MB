@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics (YPH11) specification, Issue 3, and covers sections 3.3 Planning and 3.4 Implementation and measurements. Unit 3 is an International AS (IAS) unit. The specification gives it as a written paper of 1 hour 20 minutes and 50 marks, with a minimum of 20 marks awarded for mathematics at Level 2 or above, and it tests the experiments you meet while studying Units 1 and 2.

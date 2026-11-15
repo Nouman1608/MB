@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 7.5.1 and 7.5.2 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. This is A Level content (topics 7 to 11), not examined at AS. For full explanations and the bakery tables, read the [study guide](/resources/cambridge-a-level-economics-short-run-production-and-costs/). Then try the [practice questions](/resources/cambridge-a-level-economics-short-run-production-and-costs-practice/). The [course hub](/boards/cambridge/a-level/economics/), the [checklist](/checklists/cambridge/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/) show what else to revise. All figures here are invented and illustrative; money is in currency units (cu).

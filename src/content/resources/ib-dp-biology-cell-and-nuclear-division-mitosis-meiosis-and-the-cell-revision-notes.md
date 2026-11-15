@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These are condensed revision notes for sub-topic D2.1, Cell and nuclear division, from the IB *Biology guide*, first assessment 2025. They cover D2.1.1 to D2.1.11 (SL and HL) and D2.1.12 to D2.1.17 (**HL only**). For full explanations read the [study guide](/resources/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell/), then test yourself with the [practice questions](/resources/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell-practice/). Links: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [checklist](/checklists/ib/ib-dp/biology/), [free 10-minute diagnostics](/diagnostics/).

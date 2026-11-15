@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes cover Topic 19, Relationships of organisms with one another and with the environment, for Cambridge O Level Biology 5090. They follow the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4): every learning outcome in sections 19.1 to 19.5. The syllabus is not tiered, so all of it applies to every candidate.

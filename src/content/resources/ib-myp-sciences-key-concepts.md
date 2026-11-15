@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches the key concepts of IB MYP Sciences, what each means in science, and how they combine with related concepts and a global context to build a statement of inquiry. It follows the IB *MYP Sciences guide* (for use from September 2014/January 2015; published May 2014, updated May 2019), and suits MYP years 4 and 5. There is no SL/HL split in the MYP.

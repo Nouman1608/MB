@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 Living things depend on each other and on their physical surroundings, and this topic gives you the vocabulary to describe those links. It also asks you to explain why biodiversity matters, how forests are lost and protected, and how you would collect reliable data in the field. The fieldwork content is practical, so expect questions that ask you to plan, improve or evaluate an investigation as well as recall facts.

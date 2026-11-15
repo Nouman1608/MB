@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 Quick recall for sections 12.01 and 12.02 of the OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026). For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs/). Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs-practice/), tick off topics on the [checklist](/checklists/ocr/gcse/mathematics/), see the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), or try the [free 10-minute diagnostics](/diagnostics/).
 

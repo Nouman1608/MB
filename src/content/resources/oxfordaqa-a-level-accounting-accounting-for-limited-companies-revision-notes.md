@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.2.6, Accounting for limited companies, of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. Every part of it is **International A-level only**; the assessment overview places it in Paper 3 as well as Paper 4. For full explanations and a worked example running through every statement, work through the [study guide](/resources/oxfordaqa-a-level-accounting-accounting-for-limited-companies/) first.

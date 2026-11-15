@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers the first four practical activity groups (PAGs) in Topic B7, Practical skills, of the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026): microscopy, testing for biological molecules, sampling techniques and rates of enzyme-controlled reactions. It also covers the working scientifically practical skills 2a to 2d. None of these statements carries the Higher Tier only marking. OCR states that 15% of the written-paper questions test practical skills.

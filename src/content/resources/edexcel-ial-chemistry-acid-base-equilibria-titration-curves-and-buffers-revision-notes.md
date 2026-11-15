@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense outcomes 14.15 to 14.23 of Topic 14: Acid-base Equilibria in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, including Core Practical 11. This content sits in Unit 4: Rates, Equilibria and Further Organic Chemistry, which is IA2. If a point here is unclear, go back to the [titration curves and buffers study guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers/), which explains each idea with worked examples.

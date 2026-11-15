@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.1.2.3, Segmentation, targeting and positioning, in the OxfordAQA International AS and A-level Business specification (9625 for current cohorts, 9725 as the successor). The two specifications word it differently. The 9625 text lists the process and value of segmentation, targeting and positioning; five segmentation methods (demographic, geographic, income, behavioural, psychographic); influences on choosing a target market and positioning, where targeting includes niche and mass marketing; and international markets. The 9725 text (International AS exams from May/June 2027, A-level from May/June 2028) lists four methods, has no international markets point in this section, and adds value of targeting, premium and budget positioning, and reasons for, and challenges of, changing positioning. This guide covers both and marks the parts found in one only.

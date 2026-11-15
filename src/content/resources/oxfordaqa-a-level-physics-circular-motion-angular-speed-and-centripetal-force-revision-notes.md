@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense OxfordAQA International AS and A-level Physics (9630), Version 4.4, section 3.6.1 (Circular motion). The specification marks section 3.6 as International A-level only, so none of it is International AS content. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-physics-circular-motion-angular-speed-and-centripetal-force/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-circular-motion-angular-speed-and-centripetal-force-practice/). The [course hub](/boards/oxfordaqa/a-level/physics/) and [printable checklist](/checklists/oxfordaqa/a-level/physics/) show where this unit sits in the course.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This study guide covers section 3.1.3, *Understanding that businesses operate within an external environment*, of the AQA AS and A-level Business specification (7131 and 7132). It is written for A-level Business 7132. It sits inside Topic 1, *What is business?*, and the specification lists all content as assessable in each A-level paper.

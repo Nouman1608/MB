@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This page revises 4.1 and 4.2 from the Cambridge O Level Economics 2281 syllabus for examination in 2026 (version 2). It covers what governments do, the five aims, and where the aims clash. The course is not tiered. For full explanations read the [study guide](/resources/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims/), then try the [practice questions](/resources/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims-practice/). The [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/) help you plan. All figures here are invented for practice.

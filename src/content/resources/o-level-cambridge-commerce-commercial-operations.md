@@ -32,7 +32,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: page was mapped to trading documents and communication but did not teach them; added sections on public corporations, location factors, trading documents, communication and an FAQ; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08 recheck: page was mapped to trading documents and communication but did not teach them; added sections on public corporations, location factors, trading documents, communication and an FAQ; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-09-01
 featured: false
 ---

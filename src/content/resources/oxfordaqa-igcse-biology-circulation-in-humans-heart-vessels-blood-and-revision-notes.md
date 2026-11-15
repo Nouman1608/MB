@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.2.3, Circulation in humans (statements a to t), of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams from May/June 2018 onwards. Full explanations and worked examples are in the [study guide](/resources/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and-practice/), tick off statements on the [printable checklist](/checklists/oxfordaqa/igcse/biology/), see the [course hub](/boards/oxfordaqa/igcse/biology/), and find gaps with a [free 10-minute diagnostic](/diagnostics/).

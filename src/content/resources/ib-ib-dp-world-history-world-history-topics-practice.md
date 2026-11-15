@@ -53,7 +53,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the indicative content against the IB History guide (first assessment 2017) and a recent Paper 2 markscheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the indicative content against the IB History guide (first assessment 2017) and a recent Paper 2 markscheme before teacher sign-off; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

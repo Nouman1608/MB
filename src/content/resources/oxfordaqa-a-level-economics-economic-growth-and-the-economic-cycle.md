@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This study guide covers OxfordAQA International AS and A-level Economics (9640), specification section 3.2.3.1, Economic growth and the economic cycle. It follows the OxfordAQA specification, version 1.2, for International AS exams from May/June 2021 and International A-level exams from May/June 2022. Section 3.2 is International AS content, so this material is part of the AS and is carried into the A-level. All data below are invented and labelled as illustrative.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes recap section 7.1 (Transformations) of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. There is one set of outcomes for every candidate. The [study guide](/resources/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and/) has the longer explanations. To check what you remember, try the [practice questions](/resources/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and-practice/). See also the [course hub](/boards/cambridge/o-level/mathematics/), the [printable checklist](/checklists/cambridge/o-level/mathematics/), [coordinate geometry practice](/resources/o-level-mathematics-coordinate-geometry-practice/) and the [free diagnostics](/diagnostics/).
 

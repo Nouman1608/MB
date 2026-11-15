@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 4 Marketing, section 4.3 "The marketing mix", points 4.3.1 to 4.3.4: product, price, place (distribution channels) and promotion. The specification says both papers can draw on the whole of the content, so this material can appear in the paper about small businesses (up to 49 employees) and in the paper about large businesses (more than 250 employees). Each paper is 1 hour 30 minutes and 80 marks, made up of four compulsory 20-mark questions.

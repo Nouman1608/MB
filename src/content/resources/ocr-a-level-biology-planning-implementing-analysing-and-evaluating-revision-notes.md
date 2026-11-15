@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Condensed recall for section 1.1 of OCR A Level Biology A (H420, Version 4.1, April 2026, first assessment in 2025), outcomes 1.1.1 to 1.1.4. For full explanations and worked examples, use the [study guide](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating/). Test yourself with the [practice set](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating-practice/), the [free diagnostics](/diagnostics/), the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/).

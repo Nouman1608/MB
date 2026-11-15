@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.5 (Profitability and liquidity ratio analysis) and 3.6 (Efficiency ratio analysis, HL only) of the IB *Business management guide*, first assessment 2024. Section 3.5 applies at SL and HL. Section 3.6 carries the HL only label. The guide lists these skills at AO2 and AO4 for the calculations and AO3 for the strategies, so you need to calculate, interpret and recommend.

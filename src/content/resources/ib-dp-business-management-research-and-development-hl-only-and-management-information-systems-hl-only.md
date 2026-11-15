@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 5.8 (Research and development) and 5.9 (Management information systems) in Unit 5 of the IB *Business management guide*, first assessment 2024. Both sections are HL only, so SL candidates do not need them.

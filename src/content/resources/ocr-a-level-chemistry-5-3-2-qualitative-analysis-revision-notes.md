@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, read the [5.3.2 study guide](/resources/ocr-a-level-chemistry-5-3-2-qualitative-analysis/) first. These notes are for the final weeks.

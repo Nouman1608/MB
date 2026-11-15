@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers the first half of sub-topic C.3 (Wave phenomena) in the IB *Physics guide*, first assessment 2025: wavefronts and rays, behaviour at boundaries, diffraction, Snell's law, the critical angle and total internal reflection. All of this is SL and HL. Superposition, double-slit interference, single-slit diffraction and gratings belong to the rest of C.3 and are not taught here. For quick recall use the [revision notes](/resources/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction-revision-notes/), then try the [practice questions](/resources/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction-practice/). Find weak spots first with the [free 10-minute diagnostics](/diagnostics/).

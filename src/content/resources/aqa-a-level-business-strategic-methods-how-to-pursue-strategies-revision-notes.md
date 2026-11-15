@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.9 of the AQA AS and A-level Business specification (7132), "Strategic methods: how to pursue strategies" (A-level only). For full explanations and worked examples, read the [study guide](/resources/aqa-a-level-business-strategic-methods-how-to-pursue-strategies/). Then try the [practice questions](/resources/aqa-a-level-business-strategic-methods-how-to-pursue-strategies-practice/), the [A-level Business hub](/boards/aqa/a-level/business/), the [printable checklist](/checklists/aqa/a-level/business/) and the [free diagnostics](/diagnostics/).

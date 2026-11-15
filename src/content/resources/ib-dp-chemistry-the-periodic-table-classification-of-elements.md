@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This page teaches sub-topic **Structure 3.1, The periodic table: classification of elements**, as set by the Diploma Programme *Chemistry guide* from the IB (February 2023 edition, first examined in 2025). It covers understandings Structure 3.1.1 to 3.1.10. Understandings 3.1.1 to 3.1.6 are for SL and HL; 3.1.7 to 3.1.10 are additional higher level (AHL), so **HL only**. It applies to the course from its first assessment in 2025 onwards.

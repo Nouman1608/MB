@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 Quick recall for **C.3 Wave phenomena (second half)** in the IB *Physics guide*, first assessment 2025. Superposition and Young's double slit are for SL and HL. Single-slit diffraction, modulation and gratings are **HL only**. For full explanations and worked examples, read the [study guide](/resources/ib-dp-physics-superposition-double-slit-interference-single-slit/). Then test yourself with the [practice questions](/resources/ib-dp-physics-superposition-double-slit-interference-single-slit-practice/). Other links: [IB DP Physics hub](/boards/ib/ib-dp/physics/), [checklist](/checklists/ib/ib-dp/physics/) and the free [diagnostics](/diagnostics/).

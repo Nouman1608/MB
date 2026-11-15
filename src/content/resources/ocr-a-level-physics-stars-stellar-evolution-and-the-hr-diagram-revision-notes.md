@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These notes condense section 5.5.1 (Stars), outcomes (a) to (g), of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026). Full explanations are in the [study guide](/resources/ocr-a-level-physics-stars-stellar-evolution-and-the-hr-diagram/). Test yourself with the [practice questions](/resources/ocr-a-level-physics-stars-stellar-evolution-and-the-hr-diagram-practice/), tick off topics on the [checklist](/checklists/ocr/a-level/physics/), check the [course hub](/boards/ocr/a-level/physics/), and use the [free diagnostics](/diagnostics/) to find weak areas.
 

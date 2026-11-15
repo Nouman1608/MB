@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense statements 8.8 to 8.16 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, including Core Practical 18. Topic 8 is International A2 (IA2) and there are no tiers. Read the [study guide](/resources/edexcel-ial-biology-sensory-reception-plant-hormones-and-the-brain/) for full explanations and test yourself with the [practice questions](/resources/edexcel-ial-biology-sensory-reception-plant-hormones-and-the-brain-practice/). The [course hub](/boards/edexcel/a-level/biology/), [printable checklist](/checklists/edexcel/a-level/biology/) and [free diagnostics](/diagnostics/) show what else to cover.

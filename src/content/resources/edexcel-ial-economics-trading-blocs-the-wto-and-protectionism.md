@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics* specification (YEC11 for the full International Advanced Level), Issue 2, June 2018. It covers section 4.3.2 items 4 and 5: trade liberalisation and trading blocs, and restrictions on free trade. The specification places Unit 4, Developments in the global economy, among the International A2 units (Units 3 and 4), so it is compulsory for the full International A Level only. Units 1 and 2 are the International AS. All figures below are invented and fictional.

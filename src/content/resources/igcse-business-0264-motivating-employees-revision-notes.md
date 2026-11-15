@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 2.4 (Motivating employees) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked cases, read the [study guide](/resources/igcse-business-0264-motivating-employees/) first, then test yourself with the [practice questions](/resources/igcse-business-0264-motivating-employees-practice/). The [course hub](/boards/cambridge/igcse/business/), the [printable checklist](/checklists/cambridge/igcse/business/) and the [free diagnostics](/diagnostics/) help you find weak spots. Both papers draw on all the subject content, so be ready to use these ideas in a short answer and in a case study.

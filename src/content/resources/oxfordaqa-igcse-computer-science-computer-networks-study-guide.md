@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 A computer network is two or more devices connected so that they can share data and resources. Networks are everywhere, from a home router connecting a phone and a laptop to the internet itself. In OxfordAQA International GCSE Computer Science (9210) you need to describe the types of network, the hardware and layouts that build them, and the rules (protocols) that let different devices communicate. Most questions ask you to describe, compare or justify a choice for a given situation.

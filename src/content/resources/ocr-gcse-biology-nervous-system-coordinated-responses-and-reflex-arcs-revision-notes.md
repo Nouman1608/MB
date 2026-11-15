@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes are aligned to the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. They cover B3.1a, B3.1b and B3.1c. No statement here is marked Higher Tier only. For full explanations, read the [study guide](/resources/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs-practice/).

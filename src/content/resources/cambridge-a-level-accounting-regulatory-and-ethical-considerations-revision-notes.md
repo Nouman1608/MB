@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.2 Regulatory and ethical considerations of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028 (A Level content). For explanations and worked examples, read the [study guide](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations/) first. Then attempt the [practice questions](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations-practice/). Other links: [course hub](/boards/cambridge/a-level/accounting/), [checklist](/checklists/cambridge/a-level/accounting/), [diagnostics](/diagnostics/), and [non-current assets](/resources/accounting-non-current-assets/) for depreciation methods. Amounts are in dollars.

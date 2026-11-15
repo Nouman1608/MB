@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches sub-topics 1(a) **States of matter** and 1(b) **Elements, compounds and mixtures** of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). It covers specification points 1.1 to 1.13. The qualification is untiered. Points 1.5C, 1.6C and 1.7C are printed in bold with a "C" reference, so they are assessed on **Paper 2 only**; everything else can appear on Paper 1 or Paper 2.

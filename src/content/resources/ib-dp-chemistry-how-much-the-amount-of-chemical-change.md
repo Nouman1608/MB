@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches Reactivity 2.1, "How much? The amount of chemical change", for IB DP Chemistry. It is aligned to the IB's DP Chemistry guide for first assessment 2025 (issued February 2023) and covers understandings Reactivity 2.1.1 to Reactivity 2.1.5. No additional higher level (AHL) material is listed for this sub-topic, so every section is for SL and HL alike, in exam sessions from 2025 onwards.

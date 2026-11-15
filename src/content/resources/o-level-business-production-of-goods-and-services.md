@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It covers section 4.1, Production of goods and services, which is part of Topic 4, Operations management. Every content point in 4.1.1, 4.1.2 and 4.1.3 is taught below. The syllabus examines the subject through a short answer and data response paper and a case study paper, so you need the ideas and the skill of applying them to a business you are given.

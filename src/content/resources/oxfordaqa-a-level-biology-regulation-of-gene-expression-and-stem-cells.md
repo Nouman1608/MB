@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.4.9 of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1: 3.4.9.1 epigenetic control of how genes are expressed, 3.4.9.2 RNA interference and 3.4.9.3 stem cells. The specification headline for 3.4.9 is "Regulation of transcription and translation". It sits in Unit 4, Control, which is International A2 content; Units 1 and 2 make up the International AS. For quick recall use the [revision notes](/resources/oxfordaqa-a-level-biology-regulation-of-gene-expression-and-stem-cells-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-regulation-of-gene-expression-and-stem-cells-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/biology/) and [checklist](/checklists/oxfordaqa/a-level/biology/). If you are unsure where your gaps are, take a [free diagnostic](/diagnostics/). Earlier cancer content is in [cell division, mutation and cancer](/resources/oxfordaqa-a-level-biology-cell-division-mutation-and-cancer/).

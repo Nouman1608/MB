@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Unit 4 is tied for the largest unit by teaching hours at SL (30 hours, tied with Unit 3) and runs to 35 hours at HL (tied with Unit 2), and

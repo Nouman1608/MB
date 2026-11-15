@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide covers section **2.5 Proportion** of Topic 2 (Equations, formulae and identities) in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. Section 2.5 is **Higher tier only**: it appears only in the Higher tier content, so it is examined on papers 1H and 2H. Each Higher paper is 2 hours and 100 marks, and a calculator may be used on both.

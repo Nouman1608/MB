@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 These notes boil down **C3.4 Electrolysis** from the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 (August 2026): statements C3.4a–C3.4e, mathematical learning outcome CM3.4i and the PAG C2 practical suggestions. Both tiers are assessed on every C3.4 statement. For full explanations and five worked examples, use the [Electrolysis study guide](/resources/ocr-gcse-chemistry-electrolysis/).

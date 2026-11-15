@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes are for the final weeks before your exams. For full explanations and longer worked examples, use the [chemical equilibria study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/).

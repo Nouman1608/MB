@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide covers the budget balance and national debt points of the Fiscal policy sub-section of AQA A-level Economics (7136), specification version 1.3, section 4.2.5.1 (numbered 3.2.5.1 on the AQA website). It teaches the balance, the debt, cyclical and structural positions, consequences, the size of the debt, the Office for Budget Responsibility and rebalancing. Spending, tax types and the policy tools are taught elsewhere, so they appear here only where the argument needs them. Every country, firm and figure below is invented and illustrative. Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/) and [free diagnostics](/diagnostics/). Next: the [revision notes](/resources/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of-revision-notes/) and the [practice questions](/resources/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of-practice/). Related: [aggregate demand and supply](/resources/aqa-a-level-economics-aggregate-demand-supply/).
 

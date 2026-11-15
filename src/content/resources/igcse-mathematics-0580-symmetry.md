@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches subtopic 4.5, Symmetry, from the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. Line symmetry and rotational symmetry in two dimensions (C4.5 and E4.5 part 1) are in both tiers. The symmetry of prisms, cylinders, pyramids and cones (E4.5 part 2) is **Extended only**, so it is examined only on Paper 2 (non-calculator) and Paper 4 (calculator).

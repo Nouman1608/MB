@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These are condensed notes for the final weeks on sections 3.3.1 and 3.3.2 of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. Both sections are shared International AS and A-level content. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-atomic-structure-and-elementary-particles/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-physics-atomic-structure-and-elementary-particles-practice/).

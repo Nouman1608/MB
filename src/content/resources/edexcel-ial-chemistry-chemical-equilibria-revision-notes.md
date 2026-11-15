@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes are the short version. Every idea here is explained step by step, with longer examples, in the [chemical equilibria study guide](/resources/edexcel-ial-chemistry-chemical-equilibria/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers supply-side policies for AQA A-level Economics (7136), from the AQA AS and A-level Economics specification, version 1.3. The AQA website numbers the sub-section 3.2.5.2. The combined specification PDF prints the A-level content as 4.2.5.2, and the specification gives no AS-only or A-level-only labels there.

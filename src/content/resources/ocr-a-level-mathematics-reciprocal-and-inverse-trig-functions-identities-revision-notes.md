@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These revision notes condense the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), first assessment 2018, sections 1.05h to 1.05q. Read the [study guide](/resources/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities/) for full explanations and worked examples. Section 1.05j and the basic form of 1.05o are Stage 1 (shared with AS Level); everything else here is Stage 2, A Level only.
 

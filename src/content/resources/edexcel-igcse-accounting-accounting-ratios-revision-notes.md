@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 Quick recall for the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, Topic 4, section 4.4 "The calculation and interpretation of accounting ratios", points (a) to (c). Full explanations and a two-year worked example are in the [study guide](/resources/edexcel-igcse-accounting-accounting-ratios/); questions to try are in the [practice set](/resources/edexcel-igcse-accounting-accounting-ratios-practice/). Course links: the [4AC1 Accounting hub](/boards/edexcel/igcse/accounting/), the [printable checklist](/checklists/edexcel/igcse/accounting/) and the [free diagnostics](/diagnostics/).

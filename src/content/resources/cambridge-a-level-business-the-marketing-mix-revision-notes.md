@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes for section 3.3 The marketing mix (3.3.1 to 3.3.6) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. This is AS Level content that A Level candidates also need. For full explanations and worked examples, read the [study guide](/resources/cambridge-a-level-business-the-marketing-mix/). Then test yourself with the [practice questions](/resources/cambridge-a-level-business-the-marketing-mix-practice/). Course links: [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), [checklist](/checklists/cambridge/a-level/business/), [free diagnostics](/diagnostics/) and the wider [Marketing revision notes](/resources/a-level-business-marketing-revision-notes/). All businesses and figures here are invented.

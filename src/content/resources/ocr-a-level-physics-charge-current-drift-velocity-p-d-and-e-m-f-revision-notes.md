@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 Quick recall for sections 4.1.1, 4.1.2, 4.2.1 and 4.2.2 of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. For full explanations, read the [study guide](/resources/ocr-a-level-physics-charge-current-drift-velocity-p-d-and-e-m-f/), then test yourself with the [practice questions](/resources/ocr-a-level-physics-charge-current-drift-velocity-p-d-and-e-m-f-practice/).
 

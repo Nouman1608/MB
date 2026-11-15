@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the second part of S2.6 (Hypothesis testing): tests for a mean using a z-statistic or a t-statistic. The spec states that this content belongs to International A-level (A2) Unit S2 (Statistics) and is not examined at International AS. Tests for a proportion and for a Poisson mean are separate topics and are not repeated here.

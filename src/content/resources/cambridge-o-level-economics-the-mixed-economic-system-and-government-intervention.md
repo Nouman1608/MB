@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge O Level Economics syllabus for examination in 2026 and covers section 2.11, the mixed economic system. Section 2.11.1 asks for a definition. Section 2.11.2 asks you to define, draw and interpret diagrams for price ceilings and floors in goods, labour and currency markets, for indirect taxes and for subsidies, to explain the implications of regulation, privatisation, nationalisation and direct provision, and to judge how effective intervention is. Every number below is invented and labelled as illustrative.

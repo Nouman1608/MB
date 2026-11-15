@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.1 (Marketing and the market) and 3.2 (Market research) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It teaches every content point the syllabus lists for those two sections, including the market share calculation and the analysis of simple market research data. Revise from the [revision notes](/resources/igcse-business-0264-marketing-and-the-market-and-market-research-revision-notes/) and test yourself with the [practice questions](/resources/igcse-business-0264-marketing-and-the-market-and-market-research-practice/). Course pages: the [Cambridge IGCSE Business hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/). The [free diagnostics](/diagnostics/) show which topics need most work.

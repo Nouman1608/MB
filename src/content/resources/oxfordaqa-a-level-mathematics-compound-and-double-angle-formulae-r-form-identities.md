@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers the second part of content area P2.4 (Trigonometry) in the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level Unit P2 (Pure Maths), so it is A2 content and is not examined at International AS. Inverse functions and the reciprocal functions are in a [separate guide](/resources/oxfordaqa-a-level-mathematics-inverse-trigonometric-functions-and-secant-cosecant/), and the basic identities and equations are in the [Unit PSM1 trigonometry guide](/resources/oxfordaqa-a-level-mathematics-trigonometric-identities-and-solving-trigonometric/). Angles are in degrees or radians as the question states.

@@ -27,7 +27,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the indicative content against the 2027-2029 syllabus content and a recent 9489 Paper 4 mark scheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the indicative content against the 2027-2029 syllabus content and a recent 9489 Paper 4 mark scheme before teacher sign-off; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

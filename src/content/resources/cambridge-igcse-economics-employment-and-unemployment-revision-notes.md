@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 4.7 of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. The syllabus is not tiered. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-economics-employment-and-unemployment/); then test yourself with the [practice questions](/resources/cambridge-igcse-economics-employment-and-unemployment-practice/). Also useful: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). All countries and figures here are invented.

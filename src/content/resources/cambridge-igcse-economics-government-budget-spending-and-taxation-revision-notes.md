@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 4.3.1 to 4.3.6 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. Read the [full study guide](/resources/cambridge-igcse-economics-government-budget-spending-and-taxation/) for explanations, then test yourself with the [practice questions](/resources/cambridge-igcse-economics-government-budget-spending-and-taxation-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). All figures here are invented for practice.

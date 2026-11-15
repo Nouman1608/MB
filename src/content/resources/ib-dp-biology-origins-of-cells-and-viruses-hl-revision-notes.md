@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense IB Diploma Programme Biology sections A2.1 (Origins of cells) and A2.3 (Viruses) from the IB *Biology guide*, first assessment 2025. Both sections are **HL only**. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-origins-of-cells-and-viruses-hl/), then test yourself with the [practice questions](/resources/ib-dp-biology-origins-of-cells-and-viruses-hl-practice/).

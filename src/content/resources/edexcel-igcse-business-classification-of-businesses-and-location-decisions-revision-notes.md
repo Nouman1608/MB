@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 These notes condense sections 1.3 and 1.4 of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026: the three sectors (1.3.1) and the factors in location decisions and relocation (1.4.1). For full explanations and worked examples, use the [study guide](/resources/edexcel-igcse-business-classification-of-businesses-and-location-decisions/). Then test yourself with the [practice questions](/resources/edexcel-igcse-business-classification-of-businesses-and-location-decisions-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches **section 3.1.1, Economic foundations**, of the AQA specification for GCSE Economics (8136), first taught from September 2017. It covers 3.1.1.1 (economic activity), 3.1.1.2 (the factors of production) and 3.1.1.3 (making choices). The content is part of Paper 1, How markets work. The specification states no tiers, so everything here applies to every candidate. All businesses, places and figures below are invented for illustration.

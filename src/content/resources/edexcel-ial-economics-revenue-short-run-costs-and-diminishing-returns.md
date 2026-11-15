@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.3.2 (Revenue, costs and profits), items 1 and 2, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics (YEC11) specification, Issue 2, June 2018. Units 1 and 2 make up the International AS. Unit 3, Business behaviour, is extra International A2 content: the specification labels it an IAL compulsory unit, so it is not part of the IAS alone. Items 3 and 4 of 3.3.2 (scale, profits and shutdown points) are taught elsewhere.

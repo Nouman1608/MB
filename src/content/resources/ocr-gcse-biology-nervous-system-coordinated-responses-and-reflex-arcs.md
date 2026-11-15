@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. It covers statements B3.1a, B3.1b and B3.1c in topic B3.1, Coordination and control: the nervous system. None of these three statements is marked as Higher Tier only, so all of it applies to both tiers. The eye, eye defects and the brain (B3.1d to B3.1h) are taught separately and are not repeated here.

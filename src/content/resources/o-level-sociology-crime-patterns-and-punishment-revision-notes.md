@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 These notes condense key questions 6.2 and 6.3 of Cambridge O Level Sociology (2251). Recorded crime

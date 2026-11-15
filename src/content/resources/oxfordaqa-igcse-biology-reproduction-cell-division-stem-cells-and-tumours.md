@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.5.1 and 3.5.2 of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. The qualification is untiered, so everything here is for every candidate. It teaches reproduction, chromosomes, genes and alleles, mitosis, meiosis, fertilisation, differentiation, stem cells, therapeutic cloning, and tumours. Use the [course hub](/boards/oxfordaqa/igcse/biology/) and the [printable checklist](/checklists/oxfordaqa/igcse/biology/) to track your progress, and take a [free diagnostic](/diagnostics/) to find weak spots.

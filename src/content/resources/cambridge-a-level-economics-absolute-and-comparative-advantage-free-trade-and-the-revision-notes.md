@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 6.1 (outcomes 6.1.1 to 6.1.4) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 1 to 6 are AS Level content, so this is AS Level content and it is assumed knowledge for A Level Papers 3 and 4. For full explanations read the [study guide](/resources/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the/), then test yourself with the [practice set](/resources/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the-practice/). The [course hub](/boards/cambridge/a-level/economics/) and [checklist](/checklists/cambridge/a-level/economics/) show where this fits, and the [free diagnostics](/diagnostics/) help you decide what to revise first. Every country and figure below is invented.

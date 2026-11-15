@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.13, Capital investment appraisal, of the AQA A-level Accounting (7127)

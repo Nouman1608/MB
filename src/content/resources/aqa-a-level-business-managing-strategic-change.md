@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers **section 3.10 Managing strategic change** of the AQA AS and A-level Business specification (7132), for first teaching from September 2023. The specification marks it A-level only, and the guide follows its four parts in order. For the wider course see the [AQA A-level Business hub](/boards/aqa/a-level/business/) and the [printable checklist](/checklists/aqa/a-level/business/). Leadership styles are in the [managers and leadership guide](/resources/aqa-a-level-business-managers-leadership-decision-making/). Companion pages: [revision notes](/resources/aqa-a-level-business-managing-strategic-change-revision-notes/) and [practice questions](/resources/aqa-a-level-business-managing-strategic-change-practice/). Weak spots: [diagnostics](/diagnostics/).

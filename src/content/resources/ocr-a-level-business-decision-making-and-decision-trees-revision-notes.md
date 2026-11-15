@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Quick recall for OCR A Level Business (H431) sections 1.13 Decision making and 1.14 Decision trees, from the Version 2.1 specification. For full explanations and two worked trees, use the [study guide](/resources/ocr-a-level-business-decision-making-and-decision-trees/). Test yourself with the [practice questions](/resources/ocr-a-level-business-decision-making-and-decision-trees-practice/), see the wider area in the [strategy revision notes](/resources/a-business-strategy-revision-notes/), and tick off topics on the [checklist](/checklists/ocr/a-level/business/). The course page is the [OCR A Level Business hub](/boards/ocr/a-level/business/), and the [free diagnostics](/diagnostics/) show what to revise first.

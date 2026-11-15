@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. Its subject is sub-topic 2.7, Role of government in microeconomics (Unit 2), taught at SL and HL. Two items are HL only: the calculation of effects on markets and stakeholders, and consumer nudges.

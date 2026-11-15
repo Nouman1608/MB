@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 16 System Software, A Level content in Cambridge International AS & A Level Computer Science 9618. The OS half covers resource use, the user interface, process states, the four named scheduling routines, the kernel as interrupt handler, and virtual memory with paging, segmentation, page replacement and thrashing. The translation half covers interpreters, the four compilation stages, BNF and syntax diagrams, and Reverse Polish Notation. It is examined in Paper 3.

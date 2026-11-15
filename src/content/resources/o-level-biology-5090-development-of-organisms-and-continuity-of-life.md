@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches Topic 16, Development of organisms and continuity of life, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 16.1 Nuclear division, 16.2 Asexual and sexual reproduction, 16.3 Sexual reproduction in plants and 16.4 Sexual reproduction in humans. The syllabus is not tiered, so everyone studies all of it. Practical work on flowers, seeds and germination is listed.

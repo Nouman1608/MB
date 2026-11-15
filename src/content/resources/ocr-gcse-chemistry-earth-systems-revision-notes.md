@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 For full explanations and five worked examples, read the [C6.3 study guide](/resources/ocr-gcse-chemistry-earth-systems/) first. Here, **C6.3 Interpreting and interacting with earth systems** from OCR's J248 specification for GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 of August 2026, is boiled down for final-weeks revision: statements C6.3a to C6.3g with maths outcomes CM6.3i and CM6.3ii. Both tiers are assessed on all of it, as nothing in C6.3 is Higher Tier only. Topic C6 sits in Paper 2 for Foundation entrants and Paper 4 for Higher entrants.

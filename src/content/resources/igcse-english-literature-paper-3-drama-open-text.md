@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; 2028-2030 note corrected (Paper 1 plus either Paper 2 or coursework, per the 2028-2030 syllabus); please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; 2028-2030 note corrected (Paper 1 plus either Paper 2 or coursework, per the 2028-2030 syllabus); please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 Cambridge IGCSE Literature in English (0475) gives candidates three

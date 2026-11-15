@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.1.1 (The purpose and nature of businesses) and 3.1.2 (Business ownership) of the AQA GCSE Business (8132) specification, for first teaching from September 2017. For full explanations, use the [study guide for this unit](/resources/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership/). Then try the [practice questions](/resources/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership-practice/).

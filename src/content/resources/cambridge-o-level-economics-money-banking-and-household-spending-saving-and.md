@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge O Level Economics 2281 syllabus for examination in 2026. It covers sections 3.1.1 (money), 3.1.2 (banking) and 3.2.1 (influences on spending, saving and borrowing), all from topic 3, Microeconomic decision makers. The syllabus is not tiered, so everything here is for every candidate. Return to the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) or tick items off on the [printable checklist](/checklists/cambridge/o-level/economics/). For fast recall use the [revision notes](/resources/cambridge-o-level-economics-money-banking-and-household-spending-saving-and-revision-notes/), then test yourself with the [practice set](/resources/cambridge-o-level-economics-money-banking-and-household-spending-saving-and-practice/). The wider topic is in the [Microeconomic decision makers guide](/resources/o-level-economics-microeconomic-decision-makers/).

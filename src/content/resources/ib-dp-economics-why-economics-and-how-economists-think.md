@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topics 1.1 (What is economics?) and 1.2 (How do economists approach the world?), which make up Unit 1, Introduction to economics. Both sub-topics are SL and HL content, and the guide marks no HL-only material in either. The recommended teaching time is 10 hours for SL and for HL.

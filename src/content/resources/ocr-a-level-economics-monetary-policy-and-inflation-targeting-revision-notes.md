@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed recall for the OCR *A Level Economics (H460)* Monetary policy topic (specification Version 3.0, June 2026, for first assessment in 2021, Macroeconomics content). For full explanations use the [study guide](/resources/ocr-a-level-economics-monetary-policy-and-inflation-targeting/), then test yourself with the [practice questions](/resources/ocr-a-level-economics-monetary-policy-and-inflation-targeting-practice/). Related pages: [OCR Economics hub](/boards/ocr/a-level/economics/), [checklist](/checklists/ocr/a-level/economics/) and [free diagnostics](/diagnostics/). All numbers are invented and illustrative.

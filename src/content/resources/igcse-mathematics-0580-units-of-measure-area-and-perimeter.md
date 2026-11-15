@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches two subtopics of Topic 5 Mensuration in the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027: **5.1 Units of measure** and **5.2 Area and perimeter**. The Core statements (C5.1, C5.2) and the Extended statements (E5.1, E5.2) say the same thing, so everything on this page applies to both tiers. There is no Extended-only content in these two subtopics.

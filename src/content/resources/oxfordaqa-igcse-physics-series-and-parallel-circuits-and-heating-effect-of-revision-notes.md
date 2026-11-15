@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These revision notes cover the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, section 3.5.1 (electrical circuits), statements p to t: cells in series, series and parallel circuits, mixed circuits and the heating effect of current. Longer explanations and more worked examples are in the [study guide](/resources/oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of/).
 

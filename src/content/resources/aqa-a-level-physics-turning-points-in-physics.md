@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13): you study one option, and it is assessed in Paper 3 Section B (35 of the paper's 80 marks). Section A of Paper 3 assesses practical skills and data analysis. All of section 3.12 is A-level only.

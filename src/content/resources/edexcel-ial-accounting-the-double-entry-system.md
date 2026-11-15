@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide teaches the double entry system, content points 1.1.3 to 1.1.7 of Unit 1, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. Unit 1 topics are International AS. All businesses and figures are invented, and every amount is in dollars.

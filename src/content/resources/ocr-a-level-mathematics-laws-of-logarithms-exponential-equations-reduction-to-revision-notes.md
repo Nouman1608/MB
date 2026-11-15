@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These revision notes condense sections 1.06f to 1.06i of the OCR A Level Mathematics A specification (Version 3.1, August 2026, for first assessment in 2018): laws of logarithms, exponential equations, reduction to linear form and exponential modelling. All four are listed as Stage 1, so they are common to AS and A Level. For full explanations and fully worked examples, read the [study guide](/resources/ocr-a-level-mathematics-laws-of-logarithms-exponential-equations-reduction-to/) first.
 

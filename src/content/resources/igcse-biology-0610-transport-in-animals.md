@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches topic 9, Transport in animals, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers syllabus sections 9.1 Circulatory systems, 9.2 Heart, 9.3 Blood vessels and 9.4 Blood. Core content is examined on Papers 1 and 3; Supplement content, marked **Extended only** below, is added for Extended candidates on Papers 2 and 4. The heart-rate investigation in 9.2 also suits the practical papers (5 and 6).

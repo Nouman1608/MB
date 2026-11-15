@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Use these notes for fast recall. The [study guide](/resources/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food/) has the full explanations and worked examples. They are aligned to the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018, and cover B6.2d, B6.2e, B6.2f and B6.2g. Only B6.2e is **Higher Tier only**. Related pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [printable checklist](/checklists/ocr/gcse/biology/), [practice questions](/resources/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food-practice/) and the free [diagnostics](/diagnostics/).

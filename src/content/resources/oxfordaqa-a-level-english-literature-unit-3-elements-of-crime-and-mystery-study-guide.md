@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: added exam format, full set-text list with the spec's eight/nine discrepancy flagged, and corrected the linking-texts section (Unit 3 has no comparative question). Check the number and type of set texts (prose, drama, poetry), the exam structure and duration, whether an unseen extract is set, whether texts may be taken in, and the weighting of each assessment objective; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: added exam format, full set-text list with the spec's eight/nine discrepancy flagged, and corrected the linking-texts section (Unit 3 has no comparative question). Check the number and type of set texts (prose, drama, poetry), the exam structure and duration, whether an unseen extract is set, whether texts may be taken in, and the weighting of each assessment objective; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the AQA A-level Mathematics 7357 specification (version 1.3, dated 31 January 2018) and covers content statement B6 in section B, Algebra and functions. It teaches how to expand and collect, factorise, divide a polynomial by a linear expression, use the factor theorem, and simplify rational expressions. B6 is pure-maths algebra that sits underneath many other topics, including graphs, calculus and proof.

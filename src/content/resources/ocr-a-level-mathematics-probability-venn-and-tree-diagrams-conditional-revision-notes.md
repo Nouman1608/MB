@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense section 2.03 Probability of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-mathematics-probability-venn-and-tree-diagrams-conditional/). When you are ready, try the [practice questions](/resources/ocr-a-level-mathematics-probability-venn-and-tree-diagrams-conditional-practice/).

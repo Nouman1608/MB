@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 14 Communication and internet technologies, A Level content in Cambridge International AS & A Level Computer Science 9618. You need to explain why protocols are essential and why they are layered, describe each of the four TCP/IP layers when a message is sent, give the purpose of HTTP, FTP, POP3, IMAP, SMTP and BitTorrent, and compare circuit switching with packet switching, including the router's role. It is examined in Paper 3.

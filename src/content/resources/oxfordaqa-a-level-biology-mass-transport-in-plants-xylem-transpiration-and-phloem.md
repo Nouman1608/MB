@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the *OxfordAQA International AS and A-level Biology (9610)* specification, Version 5.1, section 3.2.8 (mass transport systems in plants), covering 3.2.8.1 (xylem) and 3.2.8.2 (phloem). It sits in Unit 2, Biological systems and disease, which the specification lists as part of both the International AS and the International A-level. It includes Required practical 6, the simple potometer.

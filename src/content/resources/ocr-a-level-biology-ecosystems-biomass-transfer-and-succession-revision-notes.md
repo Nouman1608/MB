@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section 6.3.1(a) to (e) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-biology-ecosystems-biomass-transfer-and-succession/) first. Then test yourself with the [practice questions](/resources/ocr-a-level-biology-ecosystems-biomass-transfer-and-succession-practice/). The [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/) help you plan. For Simpson's Index, see [Measuring biodiversity](/resources/ocr-a-level-biology-measuring-biodiversity/).

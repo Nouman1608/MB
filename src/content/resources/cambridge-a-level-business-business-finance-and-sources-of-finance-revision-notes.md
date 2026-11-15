@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These are condensed notes for sections 5.1 Business finance and 5.2 Sources of finance of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028 (5.1.1 to 5.2.4, an AS Level topic that A Level candidates also study). For full explanations and worked examples, use the [study guide](/resources/cambridge-a-level-business-business-finance-and-sources-of-finance/), then test yourself with the [practice questions](/resources/cambridge-a-level-business-business-finance-and-sources-of-finance-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [printable checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

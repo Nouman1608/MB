@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers topic B5.2 Natural selection and evolution in OCR *GCSE (9-1) Gateway Science Biology A* (J247), Version 4.0 (August 2026), outcomes B5.2a to B5.2f. None of these statements is shown in bold type, so none is marked as Higher Tier only. Pair it with the [revision notes](/resources/ocr-gcse-biology-variation-natural-selection-evolution-and-revision-notes/) and the [practice questions](/resources/ocr-gcse-biology-variation-natural-selection-evolution-and-practice/). Course links: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [checklist](/checklists/ocr/gcse/biology/), [free diagnostics](/diagnostics/) and [exam preparation](/resources/ocr-gcse-biology-exam-preparation/).

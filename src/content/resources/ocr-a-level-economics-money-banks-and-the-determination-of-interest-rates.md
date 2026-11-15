@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the money outcomes in the role of the financial sector topic of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It is macroeconomics content. The specification labels none of it as a separate stage. All figures are invented: Country A, Country B and the small banks and firms below are illustrative, not real statistics.

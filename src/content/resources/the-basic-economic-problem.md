@@ -27,7 +27,7 @@ author: "salman-ahmad"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by asif-iqbal on 2026-09-29; 2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by asif-iqbal on 2026-09-29; 2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-08-18
 featured: false
 ---

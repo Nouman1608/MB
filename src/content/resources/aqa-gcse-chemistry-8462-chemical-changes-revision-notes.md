@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These are condensed recall notes for section **4.4 Chemical changes** (4.4.1.1 to 4.4.3.5) of the AQA GCSE

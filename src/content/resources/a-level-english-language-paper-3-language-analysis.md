@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 This guide covers **Paper 3 Language Analysis**, one of two A Level-only papers added to the AS content in Cambridge International AS & A Level English Language (9093). Where Papers 1 and 2 test reading and writing skills directly, Paper 3 tests knowledge and understanding of two linguistic fields: how English has changed over time, and how children acquire it.

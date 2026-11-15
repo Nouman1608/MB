@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Every figure below is invented and illustrative; Country A is a made-up economy. This guide follows the OCR A Level Economics (H460) specification, Version 3.0 (June 2026), first assessment 2021. The material comes from the Unemployment/Employment topic, under Economic policy objectives, in Component 2 (Macroeconomics). The specification does not mark any content as AS only or A Level only: the whole specification is A Level. Growth, inflation and inequality are covered on other pages, so this guide stays on jobs.

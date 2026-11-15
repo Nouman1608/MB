@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sub-topic 2.11, market failure -- market power, in Unit 2 Microeconomics. It follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The whole of 2.11 is **HL only**, so SL candidates do not need it. The firms, countries and figures used as examples are all made up.

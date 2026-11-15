@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes follow the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), sections 7.01a to 7.01c. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and/). Then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and-practice/). Links: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [printable checklist](/checklists/ocr/gcse/mathematics/) and [10-minute diagnostics](/diagnostics/).

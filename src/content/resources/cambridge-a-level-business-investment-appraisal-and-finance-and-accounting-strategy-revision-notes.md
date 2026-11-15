@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes condense sections 10.3 Investment appraisal and 10.4 Finance and accounting strategy of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both sections are A Level content. For full explanations and worked cases, read the [study guide](/resources/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy/), then test yourself with the [practice set](/resources/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/), the [free diagnostics](/diagnostics/) and [Finance and Accounting (A Level) practice](/resources/a-level-business-finance-a-level-practice/). Businesses and figures are invented.
 

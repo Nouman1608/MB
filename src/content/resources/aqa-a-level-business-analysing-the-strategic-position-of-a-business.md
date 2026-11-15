@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the whole of topic 3.7, Analysing the strategic position of a business, in the AQA AS and A-level Business specification (7131 and 7132). The topic is A-level only. Every content point in its eight sections is covered, the external-environment sections most briefly. 

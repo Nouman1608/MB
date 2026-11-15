@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 3.1.3, **Measures and accuracy** (specification references N13 to N16), from Topic 1 Number of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 onwards (version 1.0). Most of it is assessed at both Foundation and Higher tier. Error intervals and limits of accuracy are additional foundation content, so they are on both tiers too. Calculating with upper and lower bounds is **Higher tier only** and is labelled below. Exams are available every May/June and November.

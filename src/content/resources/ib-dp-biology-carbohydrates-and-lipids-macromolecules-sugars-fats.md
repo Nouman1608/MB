@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches IB Diploma Programme Biology topic B1.1 (Carbohydrates and lipids) from scratch. It follows the IB *Biology guide*, first assessment 2025, and covers statements B1.1.1 to B1.1.13. The guide notes that B1.1 has no additional higher level content, so everything here is SL and HL.

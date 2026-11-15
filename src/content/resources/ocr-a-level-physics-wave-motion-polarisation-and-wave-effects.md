@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 4.4.1 Wave motion, statements (a) to (g), of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. It is full A level content in Module 4, Electrons, waves and photons. Module 4 content is assessed in Exploring physics (component 02) and in Unified physics (component 03), and all components include synoptic assessment.

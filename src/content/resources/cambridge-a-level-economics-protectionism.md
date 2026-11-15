@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide covers section 6.2 (Protectionism) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 6 is AS Level content, and the syllabus says the AS Level content is assumed knowledge for A Level Papers 3 and 4, so it is worth knowing well whichever route you take. Every number below is invented and illustrative.
 

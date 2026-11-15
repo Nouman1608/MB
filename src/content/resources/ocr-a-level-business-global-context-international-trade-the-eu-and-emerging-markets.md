@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the content headed **Global context**, **International trade and free trade**, **The European Union** and **Emerging markets and the global environment** in the OCR A Level Business (H431) specification, Version 2.1 (January 2026), within the area of study External influences facing businesses. Read the wider [External influences study guide](/resources/ocr-a-level-business-external-influences/) first.

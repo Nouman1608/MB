@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the first part of section 8.1.1 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 7 to 11 are A Level content, so this unit is not examined at AS. For full explanations, read the [study guide](/resources/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and/), then test yourself with the [practice questions](/resources/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and-practice/). The [course hub](/boards/cambridge/a-level/economics/), the [printable checklist](/checklists/cambridge/a-level/economics/) and the [free diagnostics](/diagnostics/) show where this unit sits. All figures here are invented.

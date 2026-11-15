@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added missing 14.1-14.2 outcomes (making alkanes/alkenes incl. cracking with Al2O3, alkane unreactivity, combustion pollutants, addition polymerisation, ethane example), opening answer and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08 recheck: added missing 14.1-14.2 outcomes (making alkanes/alkenes incl. cracking with Al2O3, alkane unreactivity, combustion pollutants, addition polymerisation, ethane example), opening answer and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 Hydrocarbons in Cambridge AS & A Level Chemistry 9701 (Topic 14) means alkanes and alkenes: how each is made,

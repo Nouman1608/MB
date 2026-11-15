@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 The atmosphere is the layer of gases that makes life on Earth possible, and it is also the part of the environment that human activities can change most visibly. This topic asks you to describe how the atmosphere is made up, then to explain three separate problems that people have caused in it: climate change, acid rain and ozone depletion. These three are often muddled in answers, so a large part of scoring well is keeping their causes, effects and solutions apart.

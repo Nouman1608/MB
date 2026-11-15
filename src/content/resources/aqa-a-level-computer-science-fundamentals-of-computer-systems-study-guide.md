@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This topic explains what a computer system is made of and how a program written by a human becomes something hardware can run. It then moves down to the level of logic gates, showing how Boolean algebra describes circuits that add numbers and store bits. The material is mostly definitions and short procedures, which makes it a source of reliable marks if you learn the vocabulary precisely.

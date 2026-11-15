@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This study guide covers section 1.3.4 Price determination, items 1 to 4, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. The specification labels Units 1 and 2 as International AS (IAS) and Units 3 and 4 as the extra International A2 (IA2) content. This is Unit 1, Markets in action, so it is IAS content and also part of the full IAL. Every number below is invented and illustrative.

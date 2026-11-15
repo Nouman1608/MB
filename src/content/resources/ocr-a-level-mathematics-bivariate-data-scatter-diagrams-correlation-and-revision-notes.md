@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense the bivariate data strand of OCR A Level Mathematics A (H240), Version 3.1 (August 2026), for first assessment in 2018: references 2.02c, 2.02d and 2.02e, all Stage 1 content. For the full explanations and worked examples, see the [study guide](/resources/ocr-a-level-mathematics-bivariate-data-scatter-diagrams-correlation-and/), then test yourself with the [practice questions](/resources/ocr-a-level-mathematics-bivariate-data-scatter-diagrams-correlation-and-practice/). Other links: [course hub](/boards/ocr/a-level/mathematics/), [printable checklist](/checklists/ocr/a-level/mathematics/), [OCR Statistics guide](/resources/ocr-a-level-mathematics-statistics/) and the [free diagnostics](/diagnostics/).

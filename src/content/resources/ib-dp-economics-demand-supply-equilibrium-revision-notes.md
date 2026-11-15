@@ -20,7 +20,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-08-26
 updatedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed for the final weeks, covering the **SL-level** content of sub-topics 2.1-2.3. For the

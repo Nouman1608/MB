@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Here you will learn Structure 1.5, "Ideal gases", from scratch. The page is written against the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023) and works through understandings Structure 1.5.1, 1.5.2, 1.5.3 and 1.5.4 with worked examples. Ideal gases carry no additional higher level statements, so SL and HL candidates study identical content. It is for the course examined from 2025 onwards.

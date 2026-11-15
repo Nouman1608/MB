@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "New specification (first exams 2028, no past papers yet): check against the 9245 Version 1.1 specification, sections 3.2.1 and 4.4.2, before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "New specification (first exams 2028, no past papers yet): check against the 9245 Version 1.1 specification, sections 3.2.1 and 4.4.2, before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense quantitative skills QS6 and QS8 from section 3.5 of the OxfordAQA International AS and A-level Economics specification (9640), version 1.2. Skills in section 3.5 can be assessed in any unit. Marginal values are named in QS6 as an A2 requirement, and the marginal revenue link to elasticity is in section 3.3.2.4, which is extra International A2 content. The elasticity and cost content otherwise comes from International AS sections 3.1.2.2, 3.1.2.4 and 3.1.3.3 to 3.1.3.5. The [study guide](/resources/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity/) has the full explanations. Test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity-practice/). All figures here are invented.

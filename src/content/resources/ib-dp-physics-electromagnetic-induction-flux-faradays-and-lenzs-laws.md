@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide teaches **sub-topic D.4, Induction**, from Topic D of the IB Diploma Programme *Physics guide*, first assessment 2025. D.4 is **additional higher level (HL only)**: the guide lists no standard level content here, and the sub-topic is allotted 6 hours. If you take Physics at SL, you can skip it. Everything below is HL only.

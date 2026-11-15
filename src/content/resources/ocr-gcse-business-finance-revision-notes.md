@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 5, Finance (5.1 to 5.5), of the OCR GCSE (9-1) Business (J204) specification, Version 2.0 (January 2026). For full explanations and longer worked examples, read the [Finance study guide](/resources/ocr-gcse-business-finance/). Then test yourself with the [Finance practice questions](/resources/ocr-gcse-business-finance-practice/). Wider Business 2 material is in the [Business 2 study guide](/resources/ocr-gcse-business-operations-finance-and-influences-on-business/), [Business 2 revision notes](/resources/ocr-gcse-business-operations-finance-influences-revision-notes/) and [Business 2 practice set](/resources/ocr-gcse-business-operations-finance-influences-practice/). See the [course hub](/boards/ocr/gcse/business/), the [checklist](/checklists/ocr/gcse/business/) and the [free diagnostics](/diagnostics/).

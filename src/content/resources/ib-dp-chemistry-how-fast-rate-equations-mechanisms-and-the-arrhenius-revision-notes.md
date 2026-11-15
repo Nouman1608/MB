@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes boil down Reactivity 2.2.6 to 2.2.13, the additional higher level end of **Reactivity 2.2 (How fast?)**. They are matched to the IB's Diploma Programme *Chemistry guide* issued in February 2023, used for exams from 2025. Everything here is **HL only**. The SL and HL material that comes first (Reactivity 2.2.1 to 2.2.5) is in the [rates and collision theory revision notes](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-revision-notes/).

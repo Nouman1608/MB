@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the regional section lists and Paper 3 rules against the IB History guide (first assessment 2017); this page deliberately names content areas, not official section titles. 2026-11-08 recheck: added essay skeleton; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the regional section lists and Paper 3 rules against the IB History guide (first assessment 2017); this page deliberately names content areas, not official section titles. 2026-11-08 recheck: added essay skeleton; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

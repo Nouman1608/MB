@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.2 **A: Proof** (content reference **A1**) of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. They cover the structure of proof, deduction, exhaustion, disproof by counter-example and proof by contradiction. 7357 is a linear A-level with no AS/A split. Proof is listed in the Paper 1 content, and Papers 2 and 3 can assess any Paper 1 content.

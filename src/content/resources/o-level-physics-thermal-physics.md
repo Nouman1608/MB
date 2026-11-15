@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 This guide teaches topic 2, Thermal physics, from the Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028. For quick recall, use the [revision notes](/resources/o-level-physics-thermal-physics-revision-notes/). For worked exam-style questions, try the [existing practice set](/resources/o-level-physics-thermal-physics-practice/). The course hub is [Cambridge O Level Physics](/boards/cambridge/o-level/physics/), the printable list is the [physics checklist](/checklists/cambridge/o-level/physics/), and the [free diagnostics](/diagnostics/) let you test yourself.
 

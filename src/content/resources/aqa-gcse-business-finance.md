@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.6 Finance of the AQA GCSE Business (8132) specification, for first teaching from September 2017. It includes all four parts: 3.6.1 sources of finance, 3.6.2 cash flow, 3.6.3 financial terms and calculations, and 3.6.4 analysing the financial performance of a business. Finance is part of the content assessed in Paper 2. All figures are invented.

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense sections 3.2.2 and 3.2.3 of Unit 2 in the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1, for International A-level exams May/June 2018 onwards. Unit 2 is listed for both the International AS and the International A-level. Full explanations are in the [study guide](/resources/oxfordaqa-a-level-biology-digestion-absorption-and-cholera/); when you are ready, try the [practice questions](/resources/oxfordaqa-a-level-biology-digestion-absorption-and-cholera-practice/).

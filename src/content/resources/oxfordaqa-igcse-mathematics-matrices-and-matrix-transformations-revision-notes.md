@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes are for the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), section 3.3.3, statements G23 to G26. All four statements are **Extension only**. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations/) first. Then try the [practice questions](/resources/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations-practice/).
 

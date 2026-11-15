@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense section B2.1 (Membranes and membrane transport) of the IB *Biology guide*, first assessment 2025, for DP Biology. B2.1.1 to B2.1.10 are SL and HL. B2.1.11 to B2.1.17 are additional higher level, so they are HL only. For full explanations, start with the [study guide](/resources/ib-dp-biology-membranes-and-membrane-transport/), then test yourself with the [practice set](/resources/ib-dp-biology-membranes-and-membrane-transport-practice/).

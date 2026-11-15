@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.3.2.1 (the law of diminishing returns and returns to scale), 3.3.2.2 (short-run cost curves) and 3.3.2.3 (long-run cost curves). Section 3.3 is the extra International A2 content, assessed in Unit 3. Quantitative skills (section 3.5) can be assessed in any unit, and the specification adds marginal values for A2 work. Every firm, country and figure below is invented for illustration.

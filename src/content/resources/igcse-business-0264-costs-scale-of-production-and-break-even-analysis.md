@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 4.4, **Costs, scale of production and break-even analysis**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It follows the three sub-sections the syllabus lists: 4.4.1 identify and classify costs, 4.4.2 economies and diseconomies of scale, and 4.4.3 break-even analysis. The syllabus does not split this content into tiers. Every business in the examples is invented, and money is written in pounds; any currency works the same way.

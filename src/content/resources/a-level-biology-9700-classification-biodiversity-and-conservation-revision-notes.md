@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense topic 18, Classification, biodiversity and conservation, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, sections 18.1 to 18.3. This is A Level content, examined on Paper 4; the statistics can also appear in Paper 5. For full explanations and longer worked examples, read the [study guide](/resources/a-level-biology-9700-classification-biodiversity-and-conservation/) first.

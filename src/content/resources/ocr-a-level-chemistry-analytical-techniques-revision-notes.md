@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes compress 4.2.4 Analytical techniques from the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, into tables and short method steps. All of 4.2.4(a) to (h) in Module 4 is included; H432 is the full A level. The [Analytical techniques study guide](/resources/ocr-a-level-chemistry-analytical-techniques/) explains each idea in full with longer worked examples.

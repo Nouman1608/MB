@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3, and covers section 3.5 Processing Results in Unit 3: Practical Skills in Physics I. Unit 3 is an International AS (IAS) unit. In this part of the unit you are given results collected by a more-experienced student and you process them. The specification says that compounding percentage uncertainties is not expected, so none is used here.
 

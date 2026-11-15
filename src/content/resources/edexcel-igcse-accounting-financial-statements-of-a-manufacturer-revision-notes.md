@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 4, section 4.5, Financial statements of a manufacturer, from the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The section has two points: (a) the difference between the inventories of raw materials, work-in-progress and finished goods, and (b) preparing manufacturing accounts to show prime cost, production cost and total cost. It belongs to Paper 2, Financial Statements. For full explanations and the worked Odlington example, use the [study guide](/resources/edexcel-igcse-accounting-financial-statements-of-a-manufacturer/).

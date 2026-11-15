@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide follows sections 3.1.4 (Momentum) and 3.1.5 (Safety in public transport) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. The qualification is untiered. Section 3.1.4 is marked P in the specification, so it is part of the full Physics award. For short recall notes use the [revision notes](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-revision-notes/), and for questions with answers use the [practice questions](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-practice/).
 

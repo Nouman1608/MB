@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers section 4.4.4 (Stationary waves), statements (a) to (g), of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. The ideas on this page build on progressive waves and wavelength, which you should already know. Superposition and the double slit are taught elsewhere. Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) | [checklist](/checklists/ocr/a-level/physics/) | [free diagnostics](/diagnostics/).
 

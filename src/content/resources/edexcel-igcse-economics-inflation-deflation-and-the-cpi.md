@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the "low and stable inflation" statement, section 2.1.1 b), of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It sits in Paper 2, Macroeconomics and the Global Economy, and the course is a single tier of entry. Every country, firm and figure below is invented and illustrative. Check your progress with the [revision notes](/resources/edexcel-igcse-economics-inflation-deflation-and-the-cpi-revision-notes/) and the [practice questions](/resources/edexcel-igcse-economics-inflation-deflation-and-the-cpi-practice/), see the [course hub](/boards/edexcel/igcse/economics/) and [checklist](/checklists/edexcel/igcse/economics/), or test yourself with the [free diagnostics](/diagnostics/).

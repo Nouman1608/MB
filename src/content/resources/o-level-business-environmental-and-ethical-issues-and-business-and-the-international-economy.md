@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide follows the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It covers sections 6.2 (Environmental and ethical issues) and 6.3 (Business and the international economy) from topic 6, External influences on business activity. The syllabus assesses content from the whole course in both Paper 1 (Short Answer and Data Response) and Paper 2 (Case Study), so these ideas can appear in either.
 

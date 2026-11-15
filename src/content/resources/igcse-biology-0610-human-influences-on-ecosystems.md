@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches topic 20, Human influences on ecosystems, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers syllabus sections 20.1 to 20.4: food supply, habitat destruction, pollution and conservation. Everything is Core unless it is labelled **Extended only** (Supplement content). Core candidates are examined on Papers 1 and 3; Extended candidates sit Papers 2 and 4, which test Core and Supplement content together.

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide teaches sections 5.1 Business finance and 5.2 Sources of finance of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both sit in Topic 5, Finance and accounting, an AS Level topic that A Level candidates also study. It follows the syllabus order: 5.1.1 The need for business finance, 5.1.2 Working capital, 5.2.1 Business ownership and sources of finance, 5.2.2 Internal and external sources of finance, 5.2.3 Factors affecting the sources of finance and 5.2.4 Selecting the source of finance.
 

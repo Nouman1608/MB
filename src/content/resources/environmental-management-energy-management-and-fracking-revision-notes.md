@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check examples against the 2027-2029 syllabus and examiner guidance before review; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check examples against the 2027-2029 syllabus and examiner guidance before review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

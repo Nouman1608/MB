@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide follows the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards (first teaching 2024, first examined 2026). It covers part of section 3.4, Preparation of financial statements (topic 4): how accounting concepts shape the figures, the advantages and disadvantages of sole traders, partnerships and limited companies, and sole traders' income statements and statements of financial position for service and trading businesses. The specification lists Paper 2 as assessing content 3 to 5. All amounts are in dollars.

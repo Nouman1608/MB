@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense sections 6.06a and 6.06b (sequences) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessed in 2017. Full explanations and extended examples are in the [study guide](/resources/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and/). Then try the [practice questions](/resources/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and-practice/). Content the specification places in the Higher tier column is marked **Higher tier only**. Everything else is on both tiers.

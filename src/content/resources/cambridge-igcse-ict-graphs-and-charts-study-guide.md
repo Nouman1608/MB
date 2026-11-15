@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 A graph or chart turns a table of figures into a picture, so that patterns are easy to see. Cambridge IGCSE ICT 0417 expects you to create a suitable chart from spreadsheet data, label it fully and edit it to meet instructions. Marks in the practical paper come from choosing the right type, selecting the right data, adding every label that is asked for and making the result readable.

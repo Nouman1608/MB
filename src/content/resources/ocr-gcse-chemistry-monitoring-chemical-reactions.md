@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 This guide covers sub-topic **C5.1 Monitoring chemical reactions** from OCR's J248 specification for Chemistry A (Gateway Science) at GCSE (9–1), Version 4.0, dated August 2026. It teaches outcomes C5.1a to C5.1k, mathematical outcomes CM5.1i to CM5.1vi, and the practical work suggested for PAG C6 (titration) and PAG C8 (gas volumes). **Higher Tier only** statements are C5.1a, C5.1c, C5.1d, C5.1e, C5.1f, C5.1g and C5.1k. Topic C5 is examined in Paper 2 on the Foundation Tier and Paper 4 on the Higher Tier.

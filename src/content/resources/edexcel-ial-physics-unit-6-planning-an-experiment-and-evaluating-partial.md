@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 This study guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Physics specification (YPH11), Issue 3. It covers section 6.3 Planning and section 6.4 Implementation and Measurements, plus the unit description's call for experience of log graphs. Unit 6 belongs to IA2, the second year. It assesses the experimental procedures and techniques you meet while doing the Unit 4 and Unit 5 experiments. Section 6.5 Analysis is outside this page.
 

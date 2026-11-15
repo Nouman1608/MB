@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 This guide covers AQA A-level Biology (7402) sections 3.6.1.1 (Survival and response) and 3.6.1.2 (Receptors), from the AQA AS and A-level Biology specification for first teaching 2015. Both sections are A-level only. Topic 6 is examined on the A-level papers whose content lists include topics 5 to 8 and topics 1 to 8. Control of heart rate (3.6.1.3) is not covered here. For the other pages see the [revision notes](/resources/aqa-a-level-biology-survival-response-and-receptors-revision-notes/) and the [practice questions](/resources/aqa-a-level-biology-survival-response-and-receptors-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). To find weak spots first, try the [free diagnostics](/diagnostics/).
 

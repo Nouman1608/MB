@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches topic 6, Statistics and probability, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. It covers section 6.1 (Graphical representation of data), 6.2 (Statistical measures) and 6.3 (Probability). Each section has Foundation content, which both tiers need, and extra content marked **Higher tier only**.

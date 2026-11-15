@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 8 of Cambridge IGCSE ICT 0417 covers three related but different ideas. **Physical safety** (8.1) is about keeping people safe from the equipment. **eSafety** (8.2) is about protecting personal data and keeping people safe when they use the internet, email, social media and online games. **Security of data** (8.3) is about the threats to data and the methods that protect it. A common cause of lost marks is blending these together, so keep the three headings separate in your revision.

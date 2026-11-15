@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sub-sections 4.2.4.2 and 4.2.4.4 of the AQA A-level Economics (7136) specification (3.2.4.2 and 3.2.4.4 on the AQA website). For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and/). Test yourself afterwards with the [practice set](/resources/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and-practice/).

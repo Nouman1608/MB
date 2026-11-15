@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 5 covers how the web works on top of the internet, how a browser finds and displays a page, what cookies and digital currencies are, and how cyber security threats are carried out and defended against. In Cambridge IGCSE Computer Science (0478) it is examined on Paper 1; the cyber security section (5.3) is one of the most heavily tested parts of the paper, and most marks come from describing a process step by step.

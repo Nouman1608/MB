@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 This study guide is aligned to the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. It covers section 3.4.3, Control of water and ion content of the body, statements a to g. The qualification is untiered, so all of this content is for every candidate. Content from any part of the specification can be assessed on either of the two written papers.
 

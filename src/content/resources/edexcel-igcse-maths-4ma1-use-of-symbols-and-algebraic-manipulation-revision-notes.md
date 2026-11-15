@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, use the [study guide for 2.1 and 2.2](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation/). These notes are for the final weeks.

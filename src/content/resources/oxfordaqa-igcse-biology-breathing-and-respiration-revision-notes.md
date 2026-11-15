@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 These notes condense sections 3.2.5 (Breathing) and 3.2.6 (Respiration) of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams in May/June 2018 onwards. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-biology-breathing-and-respiration/). Test yourself with the [practice set](/resources/oxfordaqa-igcse-biology-breathing-and-respiration-practice/), track progress on the [checklist](/checklists/oxfordaqa/igcse/biology/), find other topics in the [course hub](/boards/oxfordaqa/igcse/biology/), and see where you stand with the [free diagnostics](/diagnostics/). Related existing pages: [bioenergetics revision notes](/resources/oxfordaqa-igcse-biology-bioenergetics-revision-notes/).
 

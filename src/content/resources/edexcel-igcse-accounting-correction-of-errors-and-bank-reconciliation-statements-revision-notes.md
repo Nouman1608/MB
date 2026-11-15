@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.3 Correction of errors and 3.4 Bank reconciliation statements of Topic 3, Introduction to control processes, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1 (October 2016). The specification does not split them into tiers. For full explanations and worked examples, use the [study guide](/resources/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements/). All amounts are in dollars.

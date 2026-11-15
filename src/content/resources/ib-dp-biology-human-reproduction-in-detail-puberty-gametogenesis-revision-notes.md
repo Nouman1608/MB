@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes are aligned to the IB *Biology guide*, first assessment 2025, and condense statements D3.1.13 to D3.1.20 of sub-topic D3.1 (Reproduction). Everything here is Additional higher level, so it is **HL only**. For full explanations go to the [study guide](/resources/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis/). Then try the [practice questions](/resources/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis-practice/). Other links: [course hub](/boards/ib/ib-dp/biology/), [printable checklist](/checklists/ib/ib-dp/biology/) and [all free 10-minute diagnostics](/diagnostics/).

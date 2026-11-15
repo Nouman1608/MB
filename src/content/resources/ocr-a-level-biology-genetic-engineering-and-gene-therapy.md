@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide follows the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), and covers module 6.1.3 (Manipulating genomes) learning outcomes (f), (g) and (h): genetic engineering, the ethical issues it raises, and gene therapy. Outcomes (a) to (e) of the same module are not taught here. Condensed recall is in the [revision notes](/resources/ocr-a-level-biology-genetic-engineering-and-gene-therapy-revision-notes/) and exam-style questions are in the [practice set](/resources/ocr-a-level-biology-genetic-engineering-and-gene-therapy-practice/). Other topics sit on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/), and the [free diagnostics](/diagnostics/) help you choose where to start.

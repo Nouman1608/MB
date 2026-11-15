@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams from May/June 2018 onwards. It covers specification sections 3.4.2 (Homeostasis), 3.4.4 (Temperature control) and 3.4.5 (Control of blood glucose). The qualification is untiered, so every statement applies to every candidate. Water and ion balance (3.4.3) is not covered here.

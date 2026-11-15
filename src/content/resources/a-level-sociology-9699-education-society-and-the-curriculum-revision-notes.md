@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 These notes condense the [Education, society and the curriculum study guide](/resources/a-level-sociology-9699-education-society-and-the-curriculum/). Read that first for full explanations and worked paragraphs.

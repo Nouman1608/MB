@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 16: Redox Equilibria of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 16.1 to 16.19 with Core Practicals 12, 13a and 13b. The topic is in Unit 5: Transition Metals and Organic Nitrogen Chemistry, at International A2 (IA2) level. For full explanations and worked examples, read the [redox equilibria study guide](/resources/edexcel-ial-chemistry-redox-equilibria/) first.

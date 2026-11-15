@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Use these notes in the final weeks to recall Reactivity 1.4, "Entropy and spontaneity", quickly. Statement numbers follow the DP Chemistry guide the IB issued in February 2023 (first assessment 2025): understandings Reactivity 1.4.1 to 1.4.4. All four understandings are additional higher level material, so this page is **HL only**, for sessions from 2025 onwards.

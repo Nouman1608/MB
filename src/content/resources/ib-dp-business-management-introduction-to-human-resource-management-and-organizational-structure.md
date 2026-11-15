@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 2.1 (Introduction to human resource management) and 2.2 (Organizational structure) of the IB *Business management guide*, first assessment 2024. Both sections are for SL and HL, apart from one HL-only point in 2.2 that is flagged below. It is written for candidates sitting the examinations that follow this guide.

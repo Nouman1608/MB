@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers **Component 1 Microeconomics**, examined as H460/01,

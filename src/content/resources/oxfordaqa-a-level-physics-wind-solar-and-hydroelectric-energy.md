@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.13.2 to 3.13.4 of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4: wind energy, solar energy and hydroelectric power with pumped storage. The specification marks section 3.13 as International A-level only, so none of it is needed for the International AS. For condensed recall use the [revision notes](/resources/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy-practice/). The course hub is at [OxfordAQA A-level Physics](/boards/oxfordaqa/a-level/physics/) and the printable list is the [checklist](/checklists/oxfordaqa/a-level/physics/). Not sure where to start? The free [diagnostics](/diagnostics/) will tell you.

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches Topic 9, Human gas exchange, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, and covers every learning outcome in section 9.1 (9.1.1 to 9.1.9), including the two investigations the section lists. The 5090 syllabus is not tiered, so every candidate studies all of it.

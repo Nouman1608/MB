@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Read the [2.1.1 study guide](/resources/ocr-a-level-chemistry-atomic-structure-and-isotopes/) and the [2.1.2 study guide](/resources/ocr-a-level-chemistry-compounds-formulae-and-equations/) for the full explanations. These notes are the short version for the final weeks.

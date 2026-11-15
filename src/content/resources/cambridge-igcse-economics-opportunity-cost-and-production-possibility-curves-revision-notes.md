@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 1.3 and 1.4 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 (opportunity cost and production possibility curves). For full explanations and longer worked examples, use the [study guide](/resources/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves/). Test yourself with the [practice questions](/resources/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/), the earlier unit on [scarcity and the factors of production](/resources/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of-revision-notes/) and the [free diagnostics](/diagnostics/). All names and figures are invented.

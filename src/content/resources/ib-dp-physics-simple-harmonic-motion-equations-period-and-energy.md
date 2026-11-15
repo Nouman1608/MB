@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This study guide covers sub-topic C.1, Simple harmonic motion, in the IB *Physics guide* (first assessment 2025). The core ideas are for both SL and HL. The phase angle, the sinusoidal equations for displacement and velocity, and the quantitative treatment of energy are additional higher level content, so they are marked "HL only" below. For quick recall, use the [revision notes](/resources/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy-revision-notes/). To test yourself, use the [practice questions](/resources/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy-practice/). The [course hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/) show where C.1 sits in the course, and the [free 10-minute diagnostics](/diagnostics/) help you find weak spots.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense **Reactivity 3.2, Electron transfer reactions**, with the February 2023 IB Diploma Programme *Chemistry guide* (first assessment 2025) as the checklist. They cover understandings **Reactivity 3.2.1 to 3.2.11**, which are common to **SL and HL**; the additional higher level material from 3.2.12 onwards is in the [HL unit on standard electrode potentials](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and/). The [study guide](/resources/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis/) has the longer explanations and worked examples.

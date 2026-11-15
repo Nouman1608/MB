@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 13 Data Representation, the first A Level topic in Cambridge International AS & A Level Computer Science 9618, covers three ways of shaping data: user-defined data types (enumerated, pointer, set, record and class), how files are organised and accessed (serial, sequential and random, with hashing), and binary floating-point numbers. It is examined in Paper 3 Advanced Theory, where floating-point conversion and normalisation questions need exact working.

@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers the OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards. It covers sections 3.1.6 (Forces and terminal velocity), 3.1.7 (Centre of mass) and 3.1.8 (Moments and levers). The qualification is not tiered.
 

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense supply-side policies for AQA A-level Economics (7136), from the AQA AS and A-level Economics specification, version 1.3. The AQA website numbers the sub-section 3.2.5.2; the combined PDF prints the A-level content as 4.2.5.2, with no AS-only or A-level-only labels. Read the [study guide](/resources/aqa-a-level-economics-supply-side-policies/) for full explanations, then test yourself with the [practice questions](/resources/aqa-a-level-economics-supply-side-policies-practice/). Use the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/) to plan revision. All figures are invented and illustrative.

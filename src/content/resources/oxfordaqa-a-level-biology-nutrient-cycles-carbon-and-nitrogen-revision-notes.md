@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.3.5 Nutrient cycles (3.3.5.1 to 3.3.5.3) of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1. The section is in Unit 3, which the specification lists as International A-level only. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-biology-nutrient-cycles-carbon-and-nitrogen/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-nutrient-cycles-carbon-and-nitrogen-practice/).

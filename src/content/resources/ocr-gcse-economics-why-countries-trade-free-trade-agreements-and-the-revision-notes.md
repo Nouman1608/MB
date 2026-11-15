@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 Condensed notes for OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), sections 4.1 and 4.2. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the/). Then try the [practice questions](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-practice/). Course page: [OCR GCSE Economics](/boards/ocr/gcse/economics/). Printable [checklist](/checklists/ocr/gcse/economics/). Unsure where you stand? Take a [free diagnostic](/diagnostics/). All numbers below are invented for illustration.
 

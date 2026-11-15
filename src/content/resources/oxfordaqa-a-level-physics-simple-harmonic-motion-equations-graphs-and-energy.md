@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide is aligned to the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams from May/June 2020 onwards. It covers section 3.6.2, simple harmonic motion. Section 3.6 is marked International A-level only, so this content is not part of the International AS course. Sections 3.1 to 3.5 are the shared International AS and A-level content.
 

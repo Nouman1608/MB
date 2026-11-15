@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches three subtopics of Topic 1 Number in the Cambridge IGCSE Mathematics 0580 syllabus for exams in 2025, 2026 and 2027 (version 3): **1.12 Rates**, **1.15 Time** and **1.16 Money**. The learning outcomes are the same in the Core column (C1.12, C1.15, C1.16) and the Extended column (E1.12, E1.15, E1.16), so nothing here is Extended only. Core candidates sit Paper 1 (non-calculator) and Paper 3 (calculator); Extended candidates sit Paper 2 (non-calculator) and Paper 4 (calculator). The worked examples use numbers you can handle by hand.

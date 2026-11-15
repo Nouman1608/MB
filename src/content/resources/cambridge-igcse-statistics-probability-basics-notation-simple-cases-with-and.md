@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers outcomes 7.1 to 7.4 of Topic 7 (Probability) in the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027. It teaches probability notation, probabilities in simple cases (including selecting with and without replacement), the complement rule and the addition rule. The syllabus has one set of content for all candidates, so there is no tier split. The remaining Topic 7 outcomes (mutually exclusive and independent events, conditional probability and tree diagrams) are a separate unit and are not taught here.

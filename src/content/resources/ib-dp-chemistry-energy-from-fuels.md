@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches **Reactivity 1.3, Energy from fuels**, from the IB Diploma Programme *Chemistry guide* published in February 2023, with first exams in 2025. It covers every understanding in the sub-topic, Reactivity 1.3.1 to 1.3.5. The guide lists no additional higher level content for Reactivity 1.3, so all of it is for **both SL and HL**.

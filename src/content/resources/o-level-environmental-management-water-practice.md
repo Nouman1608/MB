@@ -37,7 +37,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 These questions cover all six sub-topics of Topic 3 Water in the 2027-2029 Cambridge O Level

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the Unemployment/Employment topic of the OCR A Level Economics (H460) specification, Version 3.0 (June 2026), first assessment 2021, from the Economic policy objectives area of Component 2. All figures are invented and illustrative (Country B is made up). The whole specification is A Level. For reasoning and longer examples, return to the [study guide](/resources/ocr-a-level-economics-unemployment-and-employment/). When you are ready, apply these notes in the [practice set](/resources/ocr-a-level-economics-unemployment-and-employment-practice/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense statements 1 and 3 of 4.3.3 Balance of payments, exchange rates and international competitiveness in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018). The specification lists Units 1 and 2 as International AS (IAS) and Units 3 and 4 as the extra International A2 (IA2) content, so this Unit 4 material is for the full International Advanced Level only. Full explanations are in the [study guide](/resources/edexcel-ial-economics-balance-of-payments-and-international-competitiveness/); test yourself with the [practice questions](/resources/edexcel-ial-economics-balance-of-payments-and-international-competitiveness-practice/). See also the [course hub](/boards/edexcel/a-level/economics/), the [printable checklist](/checklists/edexcel/a-level/economics/) and the free [diagnostics](/diagnostics/). All figures are invented and illustrative. Exchange rates and their effects are covered in a separate unit.

@@ -44,7 +44,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the case and statute lists against the specification and the board's guidance, as AQA may expect particular authorities and a particular depth of theory; 2026-11-08: reviewed by aizaz-raoof-ali."
+reviewNote: "Check the case and statute lists against the specification and the board's guidance, as AQA may expect particular authorities and a particular depth of theory; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

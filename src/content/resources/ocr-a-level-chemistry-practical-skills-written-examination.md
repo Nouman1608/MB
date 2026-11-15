@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide covers section 1.1, Practical skills assessed in a written examination, of Module 1 in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It teaches every outcome in 1.1.1 Planning, 1.1.2 Implementing, 1.1.3 Analysis and 1.1.4 Evaluation. The specification does not split this section into tiers, so all of it applies to you.

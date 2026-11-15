@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Here you can learn chemical cells and fuel cells for OxfordAQA International GCSE Chemistry (9202) from the start. The guide is written against the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and teaches both statements in section 3.9.3 (a and b). This qualification is not tiered, so every candidate needs all of it. Paper 1 and Paper 2 can each assess any part of the specification, so expect this unit on either.

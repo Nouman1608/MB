@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These revision notes are aligned to the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027, topic 5 Mensuration, sections 5.1 to 5.5. The syllabus is not tiered. For full explanations and longer worked examples, read the [study guide](/resources/o-level-mathematics-mensuration/). For timed practice, use the [mensuration practice set](/resources/o-level-mathematics-mensuration-practice/).
 

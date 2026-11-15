@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These revision notes are aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, sections 3.11.1 (energy transfer by heating and doing work) and 3.11.2 (energy transfer by conduction). Section 3.11 is International A-level only. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-first-law-of-thermodynamics-heating-and-conduction/) first.

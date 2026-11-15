@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense the [full study guide](/resources/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp/) for the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. They cover two content points in section 3.5: the limitations of financial statements and ratio analysis, with both financial and non-financial factors, and the advantages and disadvantages of computerised software compared with manual methods. Section 3.5 falls in Paper 2 (content 3 to 5). Amounts are in dollars and all businesses are invented.

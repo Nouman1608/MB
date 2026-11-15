@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.2, Social structures, social processes and social issues, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.2 sets out how you handle theories, extracts, methods and debates in every topic. The specification does not attach it to one paper: Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) both assess "relevant areas of social theory and methodology", and both expect you to draw on the entire course.

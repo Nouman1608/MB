@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 These notes condense section 3.6.3 of the AQA AS and A-level Biology specification for first teaching 2015 (7402), which is A-level only. The specification does not require the role of troponin, so it is not included. For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-biology-muscle-contraction/), then try the [practice questions](/resources/aqa-a-level-biology-muscle-contraction-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). Not sure where your gaps are? Take the [free diagnostics](/diagnostics/).
 

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.1.1.3, The external environment, from the OxfordAQA International AS and A-level Business specification (9725; the 9625 code covers the current cohorts). It sits in the "What is business?" topic and covers two blocks: market conditions, and the effect of changes in the external business environment. The wording used here is the 9725 document; the 9625 text differs in places (see Official syllabus at the end, and section 5.6 for the 9625-only points). All businesses and figures below are invented for practice.

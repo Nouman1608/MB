@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These are condensed notes for section 3.2.1, Understanding management, leadership and decision making, in the AQA AS and A-level Business specification (7131/7132), for A-level Business (7132). For full explanations and worked examples, read the [study guide](/resources/aqa-a-level-business-understanding-management-leadership-and-decision-making/) first. When you are ready to test yourself, use the [practice questions](/resources/aqa-a-level-business-understanding-management-leadership-and-decision-making-practice/).

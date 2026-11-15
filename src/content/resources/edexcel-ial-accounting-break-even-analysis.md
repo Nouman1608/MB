@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide teaches topic 2.7, Break-even analysis, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, and works through learning outcomes 2.7.1 to 2.7.3. Because it is in Unit 2, Corporate and Management Accounting, it is **Unit 2 (A2) only**; it is not part of the International AS unit. Every firm and figure used here is fictional, and money is in dollars.

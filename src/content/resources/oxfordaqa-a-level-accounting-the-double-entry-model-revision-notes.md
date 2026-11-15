@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, use the [double entry model study guide](/resources/oxfordaqa-a-level-accounting-the-double-entry-model/). These notes condense section **3.1.3 The double entry model** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. All of 3.1.3 is International AS content; the specification includes it in the content for Paper 1 and Paper 2. Amounts are in dollars and all examples are invented.

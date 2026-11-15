@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These are condensed notes for section 1.3, **Enterprise, business growth and size**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-enterprise-business-growth-and-size/). When you are ready, try the [practice questions](/resources/igcse-business-0264-enterprise-business-growth-and-size-practice/). The [course hub](/boards/cambridge/igcse/business/), the [checklist](/checklists/cambridge/igcse/business/) lets you tick off points, and the [free diagnostics](/diagnostics/) show your weak spots.

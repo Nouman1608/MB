@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.7.2 Transition metals (statements a and b) of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. The qualification is not tiered, and the specification says either paper may assess any part of it. Section 3.7.2 has no required practical.

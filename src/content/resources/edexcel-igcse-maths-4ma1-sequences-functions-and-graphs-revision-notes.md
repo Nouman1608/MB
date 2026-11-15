@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, use the [Sequences, functions and graphs study guide](/resources/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs/). These notes condense Topic 3 (sections 3.1–3.4) of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Sections 3.2 and 3.4, and the extra Higher statements in 3.1 and 3.3, are **Higher tier only**; the rest is on both tiers. A calculator may be used on every paper.

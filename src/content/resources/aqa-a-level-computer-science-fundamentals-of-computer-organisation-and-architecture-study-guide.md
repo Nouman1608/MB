@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This topic looks inside the processor and explains how it runs a program one instruction at a time. You need to know the role of each component, trace the registers through a fetch-decode-execute cycle, explain what makes one processor faster than another, and read and write short programs in assembly language. It also covers the external devices that connect to the processor.

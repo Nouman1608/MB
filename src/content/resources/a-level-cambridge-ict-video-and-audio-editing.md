@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This study guide covers **topic 11, Video and audio editing**, of Cambridge International AS & A Level Information Technology (9626). It follows the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), sections 11.1 Video editing and 11.2 Audio editing. Topic 11 is an **AS Level** topic, so it is part of both the AS Level and the full A Level. The syllabus bases **Paper 1 (Theory)** questions on sections 1–11 and **Paper 2 (Practical)** tasks on sections 8–11, so you can meet this topic in both papers.

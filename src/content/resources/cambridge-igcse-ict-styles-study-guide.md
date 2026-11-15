@@ -23,7 +23,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "The sub-topics for this practical topic are unnumbered in the source list; check how far the 0417 2026-2028 syllabus expects style definitions and house style to be taken; 2026-11-08: reviewed by harris-khan."
+reviewNote: "The sub-topics for this practical topic are unnumbered in the source list; check how far the 0417 2026-2028 syllabus expects style definitions and house style to be taken; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

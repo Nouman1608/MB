@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 This guide covers the Health topic of AQA A-level Sociology (7192), as set out in the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). Health is section 4.2.3 of the A-level subject content (the specification at a glance also lists it as 3.2.3). It is one of the four option 1 topics in Paper 2: Topics in Sociology, and it is answered in Section A of that paper.

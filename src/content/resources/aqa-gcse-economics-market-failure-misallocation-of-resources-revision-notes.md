@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.1.6.1 and 3.1.6.2 of the AQA GCSE Economics (8136) specification for first teaching from September 2017. The content is common to all candidates, as the specification states no tiers. For explanations and longer worked examples, read the [study guide](/resources/aqa-gcse-economics-market-failure-misallocation-of-resources/), then try the [practice questions](/resources/aqa-gcse-economics-market-failure-misallocation-of-resources-practice/). The course home is the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), the [checklist](/checklists/aqa/gcse/economics/) tracks what you have covered, and the [free diagnostics](/diagnostics/) show what to revise first. All figures here are invented for illustration.

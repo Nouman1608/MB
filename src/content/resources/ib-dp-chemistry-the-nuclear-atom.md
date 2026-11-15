@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches Structure 1.2, The nuclear atom, as set out in the IB's Diploma Programme *Chemistry guide* (first assessment in 2025; published February 2023). Its scope runs from Structure 1.2.1 to 1.2.3. The first two are for SL and HL students; Structure 1.2.3, on mass spectra, sits in the guide's additional higher level material and is HL only. It applies to the DP Chemistry course first assessed in 2025.

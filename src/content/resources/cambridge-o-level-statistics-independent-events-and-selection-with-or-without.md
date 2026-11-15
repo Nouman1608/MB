@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers part of topic 11, "Elementary ideas of probability", in the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027. The syllabus text for this topic asks for the treatment of independent events, and for selections made with or without replacement. The course is not tiered. Mutually exclusive events are the other half of the same topic and are not taught here.

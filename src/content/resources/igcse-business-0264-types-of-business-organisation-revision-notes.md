@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 1.4 (Types of business organisation) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-types-of-business-organisation/). Test yourself with the [practice questions](/resources/igcse-business-0264-types-of-business-organisation-practice/), tick off topics on the [printable checklist](/checklists/cambridge/igcse/business/), and see the [course hub](/boards/cambridge/igcse/business/) for the rest of the syllabus. If you are unsure where you stand, take a [free diagnostic](/diagnostics/) first.

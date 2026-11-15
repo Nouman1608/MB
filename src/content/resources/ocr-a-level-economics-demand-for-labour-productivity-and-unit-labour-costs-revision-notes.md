@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the demand side of the topic **Wage determination** from the OCR *A Level Economics (H460)* specification, in Component 1, Microeconomics. The specification labels no content as AS or Extension. Full explanations are in the [study guide](/resources/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs/). Test yourself with the [practice set](/resources/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs-practice/), the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented and illustrative.

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches outcomes 13.1 to 13.9, which make up Topic 13: Chemical Equilibria in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Every outcome here falls within the International A2 (IA2) part of the course, in Unit 4: Rates, Equilibria and Further Organic Chemistry. The specification says it assumes and extends the equilibrium work from [Unit 2, Topic 9B](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria/), and the [entropy outcomes of Topic 12](/resources/edexcel-ial-chemistry-entropy/) feed straight into 13.8.

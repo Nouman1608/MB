@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide covers the global contexts and statements of inquiry in IB MYP Mathematics. It follows the IB *Mathematics guide* (for use from September 2020/January 2021, first assessment 2022), in the section on teaching and learning through inquiry, including the guide's Table 3 of example statements. MYP mathematics has no SL or HL. The guide has a standard and an extended mathematics course, and this page applies to both.

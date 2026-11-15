@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense outcomes 4.1.1(f) to 4.1.1(n) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. For full explanations, use the [study guide](/resources/ocr-a-level-biology-specific-immunity-vaccination-and-medicines/). Test yourself with the [practice questions](/resources/ocr-a-level-biology-specific-immunity-vaccination-and-medicines-practice/). The [course hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/) help you plan. Antibody structure builds on protein structure in the [Foundations in Biology revision notes](/resources/ocr-a-level-biology-foundations-revision-notes/).

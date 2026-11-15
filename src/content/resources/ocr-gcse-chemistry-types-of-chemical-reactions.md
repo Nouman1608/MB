@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 Sub-topic **C3.3 Types of chemical reactions** is part of Topic C3 (Chemical reactions) in the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026). Here it is taught in full: outcomes C3.3a to C3.3k, the mathematical learning outcome CM3.3i, and the practical suggestions linked to PAG C6 (titration) and PAG C7 (production of salts). Outcomes C3.3b, C3.3g, C3.3i and C3.3j are **Higher Tier only**; everything else is assessed at both tiers. The assessment overview places Topic C3 on Paper 1 (Foundation Tier) and Paper 3 (Higher Tier).

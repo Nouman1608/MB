@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These are condensed notes for the IB Diploma Programme *Physics guide*, first assessment 2025, section **A.1 Kinematics** in Theme A (Space, time and motion). The content is identical at SL and HL, because the guide gives A.1 no extra higher level material. Use them alongside the [existing A.1 study guide](/resources/ib-dp-physics-kinematics/) and the [earlier A.1 revision notes](/resources/ib-dp-physics-kinematics-revision-notes/), which cover the basic definitions and one cliff-launch example. These notes add average versus instantaneous values, non-uniform motion, all three launch types and the effect of fluid resistance.

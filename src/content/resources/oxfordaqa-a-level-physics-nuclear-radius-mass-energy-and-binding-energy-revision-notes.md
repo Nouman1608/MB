@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 Condensed notes for sections 3.12.1 (Radius of the nucleus) and 3.12.2 (Mass and energy) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, exams from May/June 2020 onwards. Section 3.12 is International A-level only. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-physics-nuclear-radius-mass-energy-and-binding-energy/); test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-nuclear-radius-mass-energy-and-binding-energy-practice/).

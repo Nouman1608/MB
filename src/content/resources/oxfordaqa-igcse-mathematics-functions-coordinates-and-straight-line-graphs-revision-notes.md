@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 Quick recall for the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, section 3.2.2, statements A9, A10 and A11. The [study guide](/resources/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs/) has the full explanations. Core content can also be assessed on the Extension papers. Content that only Extension candidates need is marked **Extension only**.
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide follows the OCR *GCSE (9-1) Gateway Science Biology A (J247)* specification, Version 4.0 (August 2026), for first assessment in 2018. It covers statements B3.1d to B3.1h of topic B3.1, Coordination and control: the nervous system. Statements B3.1g and B3.1h are printed in bold in the specification, so they are tested in the Higher Tier papers only. Everything else here is assessed on both tiers. Neurones, reflex arcs and coordinated responses (B3.1a to B3.1c) are covered elsewhere on the site.

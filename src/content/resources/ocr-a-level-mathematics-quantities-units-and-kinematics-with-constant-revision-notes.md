@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense quantities, units and kinematics with constant acceleration for OCR A Level Mathematics A (H240), content references 3.01a to 3.01c and 3.02a to 3.02e, from the OCR specification, Version 3.1 (August 2026). Everything is Stage 1 (common to AS and A Level) except the unit for moment (3.01c) and vector motion in two dimensions (3.02e), which are A Level only. For full explanations and derivations, read the [study guide](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant/). When you are ready to test yourself, use the [practice questions](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant-practice/), the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers section C2.2 (Neural signalling) of the IB *Biology guide*, first assessment 2025, for DP Biology. Statements C2.2.1 to C2.2.7 are SL and HL. Statements C2.2.8 to C2.2.16 are additional higher level and are marked **HL only**. It applies to the examination sessions that follow the first assessment in 2025. Use it with the [revision notes](/resources/ib-dp-biology-neural-signalling-neurons-action-potentials-and-revision-notes/) and the [practice questions](/resources/ib-dp-biology-neural-signalling-neurons-action-potentials-and-practice/). See also the [IB DP Biology hub](/boards/ib/ib-dp/biology/), the [printable checklist](/checklists/ib/ib-dp/biology/) and the [free diagnostics](/diagnostics/).

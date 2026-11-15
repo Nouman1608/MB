@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.13.1 (Rotational motion) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, in exams from May/June 2020. The topic sits under 3.13 (Energy sources), which the specification labels International A-level only, so International AS candidates can leave it out. Use it with the [course hub](/boards/oxfordaqa/a-level/physics/) and tick points off on the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

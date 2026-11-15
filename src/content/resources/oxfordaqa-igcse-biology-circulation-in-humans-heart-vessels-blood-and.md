@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.2.3, Circulation in humans (statements a to t), from the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams from May/June 2018 onwards. Use the [course hub](/boards/oxfordaqa/igcse/biology/) and the [printable checklist](/checklists/oxfordaqa/igcse/biology/) to track progress, and take a [free 10-minute diagnostic](/diagnostics/) to find weak spots.

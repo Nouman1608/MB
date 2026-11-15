@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes are aligned to the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. They cover statements B6.3j, B6.3k, B6.3l and B6.3o of module B6.3. None of these statements is in bold, so all are assessed in both Foundation and Higher Tier papers.

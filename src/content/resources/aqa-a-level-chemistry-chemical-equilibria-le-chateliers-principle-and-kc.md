@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide covers section 3.1.6 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards. It teaches both parts of the section: 3.1.6.1 Chemical equilibria and Le Chatelier's principle, and 3.1.6.2 Equilibrium constant Kc for homogeneous systems. All of this content is AS content, so it is also part of the full A-level; nothing in section 3.1.6 is marked "A-level only". The partial-pressure constant Kp is a separate section (3.1.10, A-level only) and is not covered here.

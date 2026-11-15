@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches quantitative skills QS5 (calculate and interpret index numbers) and QS7 (make calculations to convert from money to real terms) from section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. The specification says these skills could be assessed in any of the assessments, so no stage applies to them. For context, sections 3.1 and 3.2 are International AS content and sections 3.3 and 3.4 are the extra International A2 content. Every country, firm and number below is invented for practice. Track coverage with the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/). For recall, use the [revision notes](/resources/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms-revision-notes/). To test yourself, use the [practice questions](/resources/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms-practice/) or the [free diagnostics](/diagnostics/).

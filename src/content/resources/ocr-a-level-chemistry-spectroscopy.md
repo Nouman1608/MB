@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches 6.3.2 Spectroscopy from the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. NMR-centred outcomes 6.3.2(a) to (e) are all taught on this page, which sits within Module 6 (Organic chemistry and analysis); because H432 is the full A level, none of it carries an AS or A2 label. The specification's assessment overview puts Module 6 in two papers: Component 02, Synthesis and analytical techniques, plus Component 03, Unified chemistry, which spans every module. No PAG is linked to 6.3.2.

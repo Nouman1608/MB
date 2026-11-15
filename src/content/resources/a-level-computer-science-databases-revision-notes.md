@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Databases (Topic 8) in Cambridge International AS & A Level Computer Science 9618 is about storing data in linked relational tables rather than separate files, designing those tables to third normal form, the features a DBMS provides, and the SQL used to define and query them. It is examined in Paper 1, where marks come from exact terminology, normalised table designs and hand-written SQL in Cambridge's subset.

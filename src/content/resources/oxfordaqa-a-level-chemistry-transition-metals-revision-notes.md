@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Section 3.2.5, Transition metals, is condensed here from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3 (exams from May/June 2020). This page covers 3.2.5.1 to 3.2.5.6. The whole section sits in International A2, so it is **International A-level only**. Full teaching and worked examples are in the [study guide](/resources/oxfordaqa-a-level-chemistry-transition-metals/); start there.

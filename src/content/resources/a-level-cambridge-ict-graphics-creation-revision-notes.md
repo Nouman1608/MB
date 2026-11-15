@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, use the [Graphics creation study guide](/resources/a-level-cambridge-ict-graphics-creation/). These notes condense **topic 19, Graphics creation**, of Cambridge International AS & A Level Information Technology (9626), following the syllabus for examination in 2025, 2026 and 2027 (version 3), sections 19.1 to 19.5. It is an **A Level only** topic. Paper 3 (Advanced Theory) questions are based on sections 12–21 and Paper 4 (Advanced Practical) tasks on sections 17–21, so revise both the reasons behind each tool and the skills themselves.

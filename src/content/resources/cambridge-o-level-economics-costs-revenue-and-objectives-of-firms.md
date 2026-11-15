@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches parts 3.7.1 to 3.7.5 (firms' costs, revenue and objectives) of the Cambridge O Level Economics 2281 syllabus for examination in 2026, version 2. They fall under Topic 3, Microeconomic decision makers. There is no tiering. The syllabus says marginal cost and marginal revenue are outside what you need, so they never appear below. Every firm and figure below is invented and illustrative; none is real data.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.1.3.4 (Intermarket relationships), 3.1.3.5 (PED and cross elasticity) and 3.1.3.6 (PES) of the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards. Every country, firm and number below is invented for illustration.

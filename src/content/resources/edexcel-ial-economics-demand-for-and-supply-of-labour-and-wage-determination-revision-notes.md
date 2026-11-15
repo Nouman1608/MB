@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense 3.3.4 Labour markets, items 1 to 3, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. The content is in Unit 3, Business behaviour, which the specification places in the additional International A2 (IA2) content, so it is for the full International Advanced Level and not the IAS. For full explanations read the [study guide](/resources/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination/), then test yourself with the [practice questions](/resources/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination-practice/). Also see the [course hub](/boards/edexcel/a-level/economics/), the [checklist](/checklists/edexcel/a-level/economics/) and the [diagnostics](/diagnostics/). All figures here are invented.

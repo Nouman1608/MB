@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense learning outcomes 6.2.1(e) to 6.2.1(i) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. Read the [study guide](/resources/ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes/) for full explanations and worked examples, then test yourself with the [practice questions](/resources/ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes-practice/). The [course hub](/boards/ocr/a-level/biology/), [checklist](/checklists/ocr/a-level/biology/) and [free diagnostics](/diagnostics/) help you find weak areas.

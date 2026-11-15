@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 ---
 
 Related: [Topic 2 study guide](/resources/a-level-cambridge-law-criminal-law/)

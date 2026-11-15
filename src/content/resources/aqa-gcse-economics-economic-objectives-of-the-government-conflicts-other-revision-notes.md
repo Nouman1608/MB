@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense **section 3.2.2.1, Economic objectives of the government**, from the AQA GCSE Economics (8136) specification for first teaching from September 2017. The specification has no tiers. When you need fuller explanations or longer worked examples, go to the [study guide](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other/). Then try the [practice set](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other-practice/), the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), the [checklist](/checklists/aqa/gcse/economics/) and the [free diagnostics](/diagnostics/). The numbers here are made up for practice.

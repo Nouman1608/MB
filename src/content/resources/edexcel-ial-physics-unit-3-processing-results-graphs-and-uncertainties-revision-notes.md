@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 These notes condense section 3.5 Processing Results of Unit 3: Practical Skills in Physics I in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics (YPH11) specification, Issue 3. Unit 3 is an International AS (IAS) unit. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties/). When you are ready to test yourself, use the [practice questions](/resources/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties-practice/), the [Edexcel A Level Physics hub](/boards/edexcel/a-level/physics/), the [printable checklist](/checklists/edexcel/a-level/physics/) and the free [10-minute diagnostics](/diagnostics/).
 

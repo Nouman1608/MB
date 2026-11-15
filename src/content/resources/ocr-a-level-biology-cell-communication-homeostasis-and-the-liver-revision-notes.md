@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense outcomes 5.1.1(a) to 5.1.1(d) and 5.1.2(a) to 5.1.2(b) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. Read the full [study guide](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver/) for explanations, then test yourself with the [practice questions](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-practice/). The [course hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/) show where this unit fits. This content is assessed in Biological processes (Component 01) and Unified biology (Component 03), according to the specification.

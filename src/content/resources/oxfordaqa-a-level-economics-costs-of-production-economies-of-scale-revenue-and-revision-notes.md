@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Short-form notes on the OxfordAQA International AS and A-level Economics specification (9640), version 1.2, sections 3.1.3.3 to 3.1.3.5: costs of production, economies and diseconomies of scale, and average revenue, total revenue and profit. Section 3.1 is International AS content and forms part of the full International A-level. Fuller explanations sit in the [study guide](/resources/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and/). Practise with the [practice questions](/resources/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and-practice/), use the [checklist](/checklists/oxfordaqa/a-level/economics/), see the [course hub](/boards/oxfordaqa/a-level/economics/) and try the [free 10-minute diagnostics](/diagnostics/). Every figure here is made up.

@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), and covers specification sections 1.01 to 1.04 of Number Operations and Integers: calculations with integers, whole number theory, priority of operations and inverse operations. Everything here is Foundation and Higher content, so it applies to both tiers. A few statements in 1.02b and 1.02c sit in the Foundation column of the specification, and they are marked below. Nothing in this unit is labelled Higher tier only.

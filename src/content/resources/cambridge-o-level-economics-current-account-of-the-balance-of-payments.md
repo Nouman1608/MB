@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide covers all four outcomes in section 6.4 of the Cambridge O Level Economics 2281 syllabus for examination in 2026, which is available in the June and November series. It is not tiered. Every country, firm and figure below is invented for illustration and is not a real statistic. Money is in millions of an imaginary currency, the zel, unless stated. The syllabus lists calculation of deficits and surpluses on the current account and its component sections, so the sums matter as much as the theory. The syllabus says calculators may be used in the examination.
 

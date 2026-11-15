@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.1.3 (Ratio and proportion), statements N16 to N20, in the OxfordAQA International GCSE Mathematics specification (9260), Version 5.1. Everything here is Core content, which can also be assessed at Extension. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion/). When you are ready, use the [practice questions](/resources/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion-practice/), the [course hub](/boards/oxfordaqa/igcse/mathematics/), the [checklist](/checklists/oxfordaqa/igcse/mathematics/) and the [free diagnostics](/diagnostics/).

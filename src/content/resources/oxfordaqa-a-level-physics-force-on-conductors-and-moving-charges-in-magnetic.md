@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This study guide covers sections 3.10.1 (Magnetic flux density) and 3.10.2 (Moving charges in a magnetic field) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for International AS and A-level exams from May/June 2020 onwards. Section 3.10 is marked International A-level only: it is not part of the International AS content. Flux, flux linkage and induction (3.10.3 onwards) are taught separately. Use the [revision notes](/resources/oxfordaqa-a-level-physics-force-on-conductors-and-moving-charges-in-magnetic-revision-notes/) for condensed recall and the [practice questions](/resources/oxfordaqa-a-level-physics-force-on-conductors-and-moving-charges-in-magnetic-practice/) to test yourself. Also see the [subject hub](/boards/oxfordaqa/a-level/physics/), the [printable checklist](/checklists/oxfordaqa/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).

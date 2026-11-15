@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018. It covers topic P7.1 Work done, statements P7.1a to P7.1e. Every statement in this unit is assessed in both the Foundation and Higher Tier papers, so nothing here is labelled Higher Tier only.

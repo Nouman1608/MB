@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 File management in Cambridge IGCSE ICT 0417 (Topic 11) means locating, opening, saving and exporting files in a planned folder structure with sensible names, choosing the right file format, and compressing files with .zip or .rar when they are too large to store or send. It is tested in Paper 1 (characteristics of file formats) and underpins every task in the practical Papers 2 and 3.

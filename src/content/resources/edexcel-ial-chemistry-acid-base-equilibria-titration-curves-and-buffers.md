@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches the second half of Topic 14: Acid-base Equilibria from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 14.15 to 14.23, including Core Practical 11. This content is in Unit 4: Rates, Equilibria and Further Organic Chemistry (IA2). It assumes outcomes 14.1 to 14.14 ([pH, Ka and Kw](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw/)).

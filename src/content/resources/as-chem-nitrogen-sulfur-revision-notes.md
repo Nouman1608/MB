@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer mapped to 12.1 outcomes, FAQ incl. displacement of ammonia, question headings); noted Contact process is examined under 7.1.10 not 12.1; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer mapped to 12.1 outcomes, FAQ incl. displacement of ammonia, question headings); noted Contact process is examined under 7.1.10 not 12.1; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 Nitrogen and sulfur in Cambridge AS & A Level Chemistry 9701 (Topic 12.1) covers why nitrogen is unreactive,

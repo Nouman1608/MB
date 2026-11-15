@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense Unit S2 section 1 (topics 1.1 to 1.3) of Pearson's International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. The specification states that Unit S2 is optional for IAS Further Mathematics and for IAL Mathematics and Further Mathematics. For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson/).

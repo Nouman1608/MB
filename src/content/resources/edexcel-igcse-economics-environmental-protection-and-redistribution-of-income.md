@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide is written for the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, and covers Paper 2 content in section 2.1.1, statements e) and f): protection of the environment and redistribution of income. The specification has one tier of entry. All figures, countries and firms below are invented for practice and are not real statistics.
 
