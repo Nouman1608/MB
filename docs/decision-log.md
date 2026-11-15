@@ -16084,3 +16084,34 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 
 - **Trial form.** The plan item "test 'phone or email required'" was not implemented. It would reverse the owner's instruction of 5 Nov 2026 (D-439: "email could be optional not the phone number. Phone number is a must"), and the site has no way to split traffic, so a test would be a replacement of the rule. The question goes back to the owner. GA4 already records `trial_form_error` and `trial_form_abandon` with the blocking fields (D-407), which shows by country whether the phone field stops visitors.
 - **Maths display.** A read-only audit is filed at `docs/reports/maths-display-audit-2026-11-15.md`. Maths is plain Unicode text with no typesetting, which no entry had decided. Faults found: 5 IB pages show raw LaTeX; about 43% of worked-solution lines wrap mid-expression at 390 px; 64 space-drawn matrices, vectors and divisions are misaligned because code blocks use a proportional font (D-397); 564 divisions by a standard-form number have no brackets. Nothing was changed: the fixes are in `src/content/resources/`, which other sessions were editing. The report recommends fixing the listed pages and three small sitewide items, and against KaTeX HTML output sitewide (estimated to take the content store to 73 to 95% of its limit).
+
+## D-465 - Academic Quality Assurance Framework: ten checks, 100-point rubric, QA ledger and integrity gate (15 Nov 2026)
+
+Source: the owner's "Master Academic Quality Assurance, Content Authority & Search Optimisation Programme" brief, 15 Nov 2026. Framework: `docs/academic-qa/framework.md`. Report: `docs/reports/academic-qa/implementation-report.md`. Open items: `OPEN_QUESTIONS.md` OQ-7 to OQ-12 and OT-5 to OT-7. Numbered D-465 because other sessions took D-451 to D-464 the same afternoon.
+
+- **Built on what exists.** The ledger (D-386), the D-379 meaning of "reviewed", the repository verification records and the D-448 teacher-verification register are kept. `reviewStatus` and `reviewedDate` are unchanged, and no credit is converted into a verification. The new layer is a fourth record type, the **rubric assessment** (`docs/reports/academic-qa/assessments.json`). Its method is `ai-assisted` or `human`, and it is never an approval.
+- **Rubric v1.0.0** (`src/utils/academic/qa-rubric.ts`):
+  - Ten checks are mapped into seven weighted categories: syllabus alignment 20, factual accuracy 20, worked answers 20, depth 15, source traceability 10, clarity 10, editorial 5.
+  - Every score needs evidence and reasoning. The total is computed, never stored. Only "worked answers" may be not applicable, and the total is then rescaled.
+  - An unscored category means no total. Unassessed pages have no score and are left out of every average.
+  - Bands: 90 meets the target, 75-89.9 needs improvement, below 75 needs major revision. This is a Marlbridge policy, not an awarding-body standard.
+  - Eleven hard-stop codes. An open one blocks the page whatever its score.
+- **States** are derived, never typed in: BLOCKED, REVERIFICATION_REQUIRED, REVISION_REQUIRED, ACADEMIC_REVIEW_PENDING, VERIFIED_APPROVED, AUTOMATED_CHECK_COMPLETE, NOT_ASSESSED. Every assessment and teacher verification records `contentSha256`, the hash of the resource without its `reviewNote`, `featured` and `order` lines (bookkeeping no student sees: D-453 reworded 7,636 reviewNotes in one commit, and that must not make assessments stale). Any other later edit makes the record stale. Rule [13] now requires the hash; there are 0 records, so nothing is affected.
+- **Owner's answers, 15 Nov 2026, multiple choice:**
+  - "Teacher + score ≥90": VERIFIED_APPROVED needs a documented teacher approval and a complete score of 90 or more, with no open hard-stop or major finding.
+  - "Integrity now, coverage later": `scripts/validate-academic-qa.mjs` (in `validate:academic`) fails the build on unevidenced or malformed scores, a stored total, AI output recorded as human, a non-official source, an open hard-stop on current content, or a public page referencing the register. "New resource has no assessment" is reported only (OQ-9).
+  - "Yes, ~5 pilot pages": AI-assisted, never a teacher review; fix only clear-cut errors.
+  - "Main resources first": scope is `src/content/resources`; articles and AP are next (OQ-12).
+- **Pilot.** Four official PDFs were downloaded and saved in the owner's OneDrive folder `Papers 2025/resource check` (0620, 5070, 9990, AQA 7404/7405), with SHA-256 in `docs/reports/academic-qa/source-manifest.json` and beside the files. The IB DP Biology guide returned 403 to automated download and was not worked around (OQ-7). Results:
+  - QA-0001: 0620 atomic structure study guide, 93.5, ACADEMIC_REVIEW_PENDING (OT-5).
+  - QA-0002: AQA 7405 moles, 75.0, two major figure findings (OQ-8).
+  - QA-0003: 9990 clinical practice, 85.5.
+  - QA-0004: 0620/5070 atomic structure practice, 79.5. Its major finding was confirmed against 0620 2.3 Supplement 3: the page told Core candidates that Q4 was theirs, but its explanation part is Extended content. Corrected (tier note, Q4 label, FAQ). The hash change made QA-0004 stale; QA-0005 records the fix, at 82.5.
+  - Every major finding was re-checked by hand before recording.
+- **Search metadata.** The scorecard checks complete-coverage wording in titles and descriptions against each page's own mapping: 15 cases, 2 supported, 5 not supported by the mapping, 8 need a reader. Nothing was rewritten (OQ-11). No public template, URL, metadata or structured data changed, and no review markup comes from QA data (D-380).
+- **Also found:** the 7405 taxonomy omits specification section 3.1.2.5 (OT-6).
+- **Tooling.**
+  - `report:academic-qa` (scorecard, dashboard md/html, risk queue) and `check:academic-qa`.
+  - `qa:review-pack` (teacher packs with the hash to record).
+  - `qa:source-manifest` (rehashes from disk; never substitutes another folder).
+  - 25 unit tests in `test:tools`; negative cases AW-BC.
