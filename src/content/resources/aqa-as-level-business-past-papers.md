@@ -1,6 +1,6 @@
 ---
 title: "AQA AS-Level Business (7137) Past Papers: Grade Thresholds and Examiner Report Notes"
-seoTitle: "7137 and 7131 Past Papers, Grade Thresholds & Examiner Reports"
+seoTitle: "7137/7131 Past Papers, Grade Thresholds & Examiner Reports"
 resourceType: "past-papers"
 subject: "business"
 level: ["a-levels"]
