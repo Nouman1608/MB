@@ -43,13 +43,23 @@ export const absoluteUrl = (path: string): string =>
  * shorten an official qualification/board name. Short titles still get the
  * brand suffix exactly as before; a title already long enough that adding
  * the suffix would push it over the limit is left exactly as authored.
+ *
+ * D-462 (15 Nov 2026) -- the cut-off was a fixed "title over 50 characters",
+ * so a 48-50 character title still got the suffix and came out at 61-63.
+ * The content schema caps `seoTitle` at 60 (src/content.config.ts), so an
+ * authored seoTitle of 48-50 characters was pushed past the limit it was
+ * written to fit: 1,594 of 13,980 built pages on 15 Nov 2026 (1,286 of them
+ * resources). The suffix is now added only when the whole title still fits
+ * in TITLE_MAX_LENGTH, the same 60 the schema uses. Still suffix-only: the
+ * title text is never shortened.
  */
-const BRAND_SUFFIX_MAX_TITLE_LENGTH = 50;
+const TITLE_MAX_LENGTH = 60;
+const BRAND_SUFFIX = ` — ${site.name}`;
 
 export const pageTitle = (title: string, isHome = false): string => {
   if (isHome) return `${site.name} — ${title}`;
-  if (title.length > BRAND_SUFFIX_MAX_TITLE_LENGTH) return title;
-  return `${title} — ${site.name}`;
+  if (title.length + BRAND_SUFFIX.length > TITLE_MAX_LENGTH) return title;
+  return `${title}${BRAND_SUFFIX}`;
 };
 
 /**

@@ -34,7 +34,12 @@ const photo = site.academyPhoto;
         <Button href={routes.about} variant="quiet">Our story</Button>
       </div>
 
-      <figure class="m-0">
+      {/* D-458: hidden below sm. site.academyPhoto is still the code-generated
+          abstract graphic (see src/data/site.ts), not a photograph, and on a phone
+          it was 438px of this band. It stays in the page and shows from sm up; the
+          same graphic is on /about/, which "Our story" links to. Show it on phones
+          again when a real photograph replaces it. */}
+      <figure class="m-0 max-sm:hidden">
         <PhotoFrame
           image={photo.image}
           alt={photo.alt}

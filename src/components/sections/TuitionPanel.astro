@@ -25,6 +25,7 @@ import { DIAGNOSTIC_SETS, diagnosticPath } from '../../data/diagnostics';
 import { videosForCourse } from '../../utils/content/media';
 import { routes } from '../../utils/urls/routes';
 import type { CollectionEntry } from 'astro:content';
+import TeacherPicture from '../ui/TeacherPicture.astro';
 
 interface Props {
   c: Combination;
@@ -72,7 +73,7 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
             {teachers.map((t) => (
               <li class="m-0 flex flex-wrap items-center justify-between gap-3 rounded-sm border border-rule bg-white p-3">
                 <a href={routes.author(t.id)} class="flex items-center gap-3 hover:text-teal-700">
-                  {t.data.image ? <img src={t.data.image} alt="" width="44" height="44" loading="lazy" decoding="async" class="h-11 w-11 rounded-full object-cover" /> : <span aria-hidden="true" class="h-11 w-11 rounded-full border border-rule bg-ivory"></span>}
+                  {t.data.image ? <TeacherPicture src={t.data.image} size={44}><img src={t.data.image} alt="" width="44" height="44" loading="lazy" decoding="async" class="h-11 w-11 rounded-full object-cover" /></TeacherPicture> : <span aria-hidden="true" class="h-11 w-11 rounded-full border border-rule bg-ivory"></span>}
                   <span>
                     <span class="block text-[15.5px] font-semibold text-navy-800">{t.data.name}</span>
                     <span class="block text-[13.5px] text-ink-mute">{t.data.role}{t.data.yearsExperience !== undefined && ` · ${t.data.yearsExperience} years teaching`}</span>

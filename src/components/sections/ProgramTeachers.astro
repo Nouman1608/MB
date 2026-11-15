@@ -17,6 +17,7 @@
  * would imply a relevance the data does not support.
  */
 import Button from '../ui/Button.astro';
+import TeacherPicture from '../ui/TeacherPicture.astro';
 import { getAuthors } from '../../utils/content/collections';
 import { taughtOnly, LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
 import { subjectBySlug } from '../../data/academic/subjects';
@@ -73,7 +74,7 @@ const teachers = sortPinnedFirst(
       {teachers.map((t) => (
         <li class="m-0">
           <a href={routes.author(t.id)} class="flex h-full items-center gap-4 rounded-sm border border-rule p-4 transition-colors duration-150 hover:border-teal-500">
-            {t.data.image && <img src={t.data.image} alt="" width="52" height="52" class="h-13 w-13 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />}
+            {t.data.image && <TeacherPicture src={t.data.image} size={52}><img src={t.data.image} alt="" width="52" height="52" class="h-13 w-13 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" /></TeacherPicture>}
             <span class="min-w-0">
               <span class="block text-[15.5px] font-semibold leading-snug text-navy-800">{t.data.name}</span>
               <span class="block text-[13.5px] text-ink-mute">{t.data.subjectsTaught.join(' · ')}</span>

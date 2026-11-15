@@ -21,6 +21,7 @@ import { getAuthors } from '../../utils/content/collections';
 import { sortPinnedFirst } from '../../data/featured-teachers';
 import { routes } from '../../utils/urls/routes';
 import { initials } from '../../utils/content/initials';
+import TeacherPicture from '../ui/TeacherPicture.astro';
 
 const people = (await getAuthors()).filter((a) => a.data.entityType === 'person' && a.data.subjectsTaught.length > 0);
 // Pinned leads first (D-151). Every eligible teacher is listed; the pin
@@ -52,7 +53,9 @@ const featured = sortPinnedFirst(people, (a, b) => {
           <li class:list={['m-0', i >= MOBILE_VISIBLE && 'max-sm:hidden']}>
             <a href={routes.author(t.id)} class="flex h-full items-start gap-4 rounded-sm border border-rule bg-white p-5 transition-colors duration-150 hover:border-teal-500">
               {t.data.image ? (
-                <img src={t.data.image} alt="" width="64" height="64" class="h-16 w-16 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
+                <TeacherPicture src={t.data.image} size={64}>
+                  <img src={t.data.image} alt="" width="64" height="64" class="h-16 w-16 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
+                </TeacherPicture>
               ) : (
                 <span aria-hidden="true" class="flex h-16 w-16 shrink-0 items-center justify-center rounded-full border border-rule bg-ivory text-[18px] font-semibold text-ink-mute">{initials(t.data.name)}</span>
               )}

@@ -22,35 +22,14 @@ import type { CollectionEntry } from 'astro:content';
 import type { Combination } from '../../data/academic/matrix';
 import { subjectBySlug } from '../../data/academic/subjects';
 import { LEVEL_FOR_QUALIFICATION } from './index';
-import { SYLLABUSES } from '../../data/academic/syllabuses';
-import { assessmentsFor } from '../../data/academic/assessments';
 import { normaliseCode, codeMatches } from './syllabus-codes.ts';
+import { courseCodes } from './course-codes.ts';
 
 export { normaliseCode, codeMatches };
 
-/**
- * Every syllabus / specification code a published course answers to: each
- * Syllabus record for the combination (a record may print two codes, e.g.
- * "0450 / 0264", and a combination may hold two records, e.g. O Level Urdu
- * 3247 and 3248), plus the codes of its assessment records, which include a
- * replacement specification that is already announced (e.g. AQA 7132 and
- * 7138). Empty when no record exists: the code check is then skipped.
- */
-const codeCache = new Map<string, Set<string>>();
-export function courseCodes(c: Pick<Combination, 'boardSlug' | 'qualificationSlug' | 'subjectSlug'>): Set<string> {
-  const key = `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`;
-  let set = codeCache.get(key);
-  if (set) return set;
-  const subjectSlug = c.subjectSlug === 'english' ? 'english-language' : c.subjectSlug;
-  const raw = [
-    ...SYLLABUSES.filter((x) => x.boardSlug === c.boardSlug && x.qualificationSlug === c.qualificationSlug && x.subjectSlug === subjectSlug).map((x) => x.code),
-    ...assessmentsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug).map((a) => a.code),
-  ];
-  set = new Set(raw.flatMap((code) => code.split(' / ')).map(normaliseCode).filter(Boolean));
-  codeCache.set(key, set);
-  return set;
-}
-
+// D-463: courseCodes() lives in ./course-codes.ts (same rule, moved so that
+// node scripts can import it); re-exported here for existing callers.
+export { courseCodes };
 
 export const hubSlugFor = (c: Pick<Combination, 'subjectSlug'>): string =>
   subjectBySlug(c.subjectSlug)?.hubId ?? c.subjectSlug;

@@ -7,6 +7,13 @@
  * for (Search Console evidence), the local curricula NOT taught, and
  * country-specific FAQs. No local branch, teacher, partner or result is
  * claimed anywhere on these pages.
+ *
+ * D-460 (15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain, Oman and Europe use
+ * this page too. A market with no `searchedHubs` has no search evidence: the
+ * searched-pages block is left out and its boards are introduced as the
+ * boards taught, not as the most relevant ones. A market that lists OCR shows
+ * the one-to-one-only fee (D-335), as /uk/ does. A market with `timeZones`
+ * (Europe) gets one row per zone instead of the single-offset table.
  */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../layout/Section.astro';
@@ -21,9 +28,10 @@ import { TRIAL_STEPS } from '../../data/tuition';
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, ONE_TO_ONE_TERMS,
   IB_PRICING, IB_USD_PRICING, formatFee, isIndicative, INDICATIVE_NOTE, ibConversionFor,
+  isOneToOneOnlyCourse, oneToOneOnlyConversionFor, ONE_TO_ONE_ONLY_NOTE,
 } from '../../data/pricing';
 import { site } from '../../data/site';
-import { timeRows, hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor, type Market } from '../../data/markets';
+import { timeRows, clock, LAHORE_UTC_OFFSET, hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor, type Market } from '../../data/markets';
 import TutorBySubject from './TutorBySubject.astro';
 import CountryGuides from './CountryGuides.astro';
 
@@ -37,8 +45,22 @@ const ib = ibConversionFor(m.pricingRegion);
 // D-415 -- countries without a set fee (Singapore) pay the owner-set US dollar IB prices (D-313).
 const ibUsd = m.pricingRegion === IB_USD_PRICING.region;
 const rows = timeRows(m.utcOffsetHours);
-const diff = 5 - m.utcOffsetHours;
-const diffText = diff === 0 ? 'the same time as Lahore' : diff > 0 ? `${diff} hour${diff === 1 ? '' : 's'} behind Lahore` : `${-diff} hour${diff === -1 ? '' : 's'} ahead of Lahore`;
+const lahoreDifference = (utcOffsetHours: number) => {
+  const diff = LAHORE_UTC_OFFSET - utcOffsetHours;
+  return diff === 0 ? 'the same time as Lahore' : diff > 0 ? `${diff} hour${diff === 1 ? '' : 's'} behind Lahore` : `${-diff} hour${diff === -1 ? '' : 's'} ahead of Lahore`;
+};
+// D-460 -- a region with several time zones (Europe) states its own range and gets one row per zone.
+const diffText = m.timeSummary ?? lahoreDifference(m.utcOffsetHours);
+const zoneRows = (m.timeZones ?? []).map((z) => ({
+  where: z.where,
+  zone: `UTC+${z.utcOffsetHours} (${z.zone})`,
+  difference: lahoreDifference(z.utcOffsetHours),
+  lahore: clock(17 + LAHORE_UTC_OFFSET - z.utcOffsetHours),
+}));
+// D-460 -- no searched hubs means no search evidence for this market.
+const hasSearchEvidence = m.searchedHubs.length > 0;
+// D-460 -- a market that lists OCR shows the one-to-one-only fee (D-335), as /uk/ does.
+const oneToOneOnly = m.focusBoards.includes('ocr') ? oneToOneOnlyConversionFor(m.pricingRegion) : undefined;
 
 const taught = taughtOnly();
 const boardRows = m.focusBoards
@@ -47,7 +69,9 @@ const boardRows = m.focusBoards
     if (!b || b.status !== 'offered') return null;
     const combos = taught.filter((c) => c.boardSlug === slug);
     const quals = [...new Set(combos.map((c) => c.qualification))];
-    return { slug, name: b.name, count: combos.length, quals };
+    // D-460 -- IB, and any board whose every taught course is one-to-one only (OCR, D-335).
+    const oneToOne = slug === 'ib' || (combos.length > 0 && combos.every((c) => isOneToOneOnlyCourse(c.boardSlug, c.subjectSlug)));
+    return { slug, name: b.name, count: combos.length, quals, oneToOne };
   })
   .filter((r): r is NonNullable<typeof r> => Boolean(r && r.count > 0));
 
@@ -72,7 +96,7 @@ const cityList = m.cities.length > 1 ? `${m.cities.slice(0, -1).join(', ')} and 
 const pageTitle = m.pageTitle ?? (m.cities.length > 0
   ? `Online IGCSE & A Level Tutors for ${m.cities.slice(0, 2).join(' & ')}${m.cities.length === 1 ? `, ${m.name}` : ''}`
   : `Online IGCSE & A Level Tutors in ${place}`);
-const pageDescription = `Live online IGCSE, A Level and IB tutors for students in ${cityList ?? place}: ${boardRows.map((r) => r.name).slice(0, 3).join(', ')}, fees in ${group?.currency ?? 'local currency'}, class times in local time, first class free.`;
+const pageDescription = m.pageDescription ?? `Live online IGCSE, A Level and IB tutors for students in ${cityList ?? place}: ${boardRows.map((r) => r.name).slice(0, 3).join(', ')}, fees in ${group?.currency ?? 'local currency'}, class times in local time, first class free.`;
 const tutorCourses = tutorCoursesFor(m.focusBoards, 12)
   .filter((t) => !(m.tutorListExcludes ?? []).includes(t.key.split('/')[1]));
 
@@ -96,7 +120,9 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What we teach for students in {m.name === 'United Arab Emirates' ? 'the UAE' : m.name}</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
-        These are the boards most relevant to {m.name === 'United Arab Emirates' ? 'UAE' : m.name} families, with the number of subjects Marlbridge currently teaches for each.
+        {hasSearchEvidence
+          ? `These are the boards most relevant to ${m.name === 'United Arab Emirates' ? 'UAE' : m.name} families, with the number of subjects Marlbridge currently teaches for each.`
+          : 'These are the boards Marlbridge teaches, with the number of subjects it currently teaches for each.'}
         The counts come from the same data that builds every board page, so they only include subjects with classes; subjects with free resources only are not counted.
       </p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
@@ -114,22 +140,26 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
               <tr class="border-b border-rule">
                 <th scope="row" class="py-3 pr-4 text-left font-normal"><a href={boardPath(r.slug)} class="font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r.name}</a></th>
                 <td class="py-3 pr-4 text-ink-mute">{r.quals.join(', ')}</td>
-                <td class="py-3 text-ink-mute">{r.count}{r.slug === 'ib' ? ' (one-to-one only)' : ''}</td>
+                <td class="py-3 text-ink-mute">{r.count}{r.oneToOne ? ' (one-to-one only)' : ''}</td>
               </tr>
             ))}
           </tbody>
         </table>
       </div>
 
-      <h3 class="m-0 mt-10 mb-3 text-[20px] font-semibold text-navy-800">Syllabus pages searchers in {m.name === 'United Arab Emirates' ? 'the UAE' : m.name} look for most</h3>
-      <p class="m-0 mb-4 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        {m.searchedHubsNote ?? `From Marlbridge's own Google Search Console data for searches made in ${m.name === 'United Arab Emirates' ? 'the UAE' : m.name} (last three months, checked 23 September 2026). Each page gives the official syllabus or specification, how it is assessed, and free study material.`}
-      </p>
-      <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2">
-        {m.searchedHubs.map((h) => (
-          <li class="m-0"><a href={h.path} class="block rounded-sm border border-rule bg-ivory p-4 text-[15px] font-semibold text-navy-800 hover:border-teal-500">{h.label}{hubIsTaught(h.path) ? '' : <span class="font-normal text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</a></li>
-        ))}
-      </ul>
+      {hasSearchEvidence && (
+        <>
+          <h3 class="m-0 mt-10 mb-3 text-[20px] font-semibold text-navy-800">Syllabus pages searchers in {m.name === 'United Arab Emirates' ? 'the UAE' : m.name} look for most</h3>
+          <p class="m-0 mb-4 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+            {m.searchedHubsNote ?? `From Marlbridge's own Google Search Console data for searches made in ${m.name === 'United Arab Emirates' ? 'the UAE' : m.name} (last three months, checked 23 September 2026). Each page gives the official syllabus or specification, how it is assessed, and free study material.`}
+          </p>
+          <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2">
+            {m.searchedHubs.map((h) => (
+              <li class="m-0"><a href={h.path} class="block rounded-sm border border-rule bg-ivory p-4 text-[15px] font-semibold text-navy-800 hover:border-teal-500">{h.label}{hubIsTaught(h.path) ? '' : <span class="font-normal text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</a></li>
+            ))}
+          </ul>
+        </>
+      )}
     </Container>
   </Section>
 
@@ -143,30 +173,65 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
 
   <Section surface="ivory" border>
     <Container>
-      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Class times: {m.name === 'United Arab Emirates' ? 'UAE' : m.name} time and Lahore time</h2>
-      <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
-        Every class is taught live from Lahore (UTC+5). {m.name === 'United Arab Emirates' ? 'The UAE' : m.name} is on {m.timeZoneLabel}, {diffText}.
-        The table shows where common after-school times fall in Lahore. {PRICING_TERMS.teacherAvailability} The actual time is agreed with you before the first class.
-      </p>
-      <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
-        <table class="w-full min-w-[360px] max-w-[520px] border-collapse text-[15px]">
-          <caption class="sr-only">{m.name} after-school times converted to Lahore time</caption>
-          <thead>
-            <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-2 pr-4 mb-label text-teal-700">{m.name === 'United Arab Emirates' ? 'UAE' : m.name} time</th>
-              <th scope="col" class="py-2 mb-label text-teal-700">Lahore time</th>
-            </tr>
-          </thead>
-          <tbody>
-            {rows.map((r) => (
-              <tr class="border-b border-rule">
-                <th scope="row" class="py-2 pr-4 text-left font-normal text-ink">{r.local}</th>
-                <td class="py-2 text-ink-mute">{r.lahore}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+      {zoneRows.length > 0 ? (
+        <>
+          <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Class times: {place} and Lahore time</h2>
+          <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
+            Every class is taught live from Lahore (UTC+5), which keeps the same time all year. {place} is {diffText}: {m.timeZoneLabel}.
+            The table shows where a 5:00 pm class falls in Lahore in each time zone. {PRICING_TERMS.teacherAvailability} The actual time is agreed with you before the first class.
+          </p>
+          <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
+            <table class="w-full min-w-[640px] border-collapse text-[15px]">
+              <caption class="sr-only">A 5:00 pm class in each {place} time zone converted to Lahore time</caption>
+              <thead>
+                <tr class="border-b border-rule text-left">
+                  <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Where and when</th>
+                  <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Time zone</th>
+                  <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Difference</th>
+                  <th scope="col" class="py-2 mb-label text-teal-700">5:00 pm local is, in Lahore</th>
+                </tr>
+              </thead>
+              <tbody>
+                {zoneRows.map((z) => (
+                  <tr class="border-b border-rule">
+                    <th scope="row" class="py-2 pr-4 text-left font-normal text-ink">{z.where}</th>
+                    <td class="py-2 pr-4 text-ink-mute">{z.zone}</td>
+                    <td class="py-2 pr-4 text-ink-mute">{z.difference}</td>
+                    <td class="py-2 text-ink-mute">{z.lahore}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </>
+      ) : (
+        <>
+          <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Class times: {m.name === 'United Arab Emirates' ? 'UAE' : m.name} time and Lahore time</h2>
+          <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
+            Every class is taught live from Lahore (UTC+5). {m.name === 'United Arab Emirates' ? 'The UAE' : m.name} is on {m.timeZoneLabel}, {diffText}.
+            The table shows where common after-school times fall in Lahore. {PRICING_TERMS.teacherAvailability} The actual time is agreed with you before the first class.
+          </p>
+          <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
+            <table class="w-full min-w-[360px] max-w-[520px] border-collapse text-[15px]">
+              <caption class="sr-only">{m.name} after-school times converted to Lahore time</caption>
+              <thead>
+                <tr class="border-b border-rule text-left">
+                  <th scope="col" class="py-2 pr-4 mb-label text-teal-700">{m.name === 'United Arab Emirates' ? 'UAE' : m.name} time</th>
+                  <th scope="col" class="py-2 mb-label text-teal-700">Lahore time</th>
+                </tr>
+              </thead>
+              <tbody>
+                {rows.map((r) => (
+                  <tr class="border-b border-rule">
+                    <th scope="row" class="py-2 pr-4 text-left font-normal text-ink">{r.local}</th>
+                    <td class="py-2 text-ink-mute">{r.lahore}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </>
+      )}
     </Container>
   </Section>
 
@@ -207,6 +272,13 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
                 <td class="py-3 pr-4 text-ink-mute" colspan="2">{ibUsd ? `MYP ${IB_USD_PRICING.myp} ${IB_USD_PRICING.currency}, Diploma ${IB_USD_PRICING.dp} ${IB_USD_PRICING.currency}` : ib ? `${formatFee(ib.perClass, ib.currency)} ${ib.currency}` : 'Confirmed in writing when you enquire'}</td>
                 <td class="py-3 text-ink-mute">{ibUsd ? 'Confirmed' : ib ? 'Indicative' : 'On enquiry'}</td>
               </tr>
+              {oneToOneOnly && (
+                <tr class="border-b border-rule">
+                  <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">OCR courses, and OxfordAQA Islamiyat and Pakistan Studies, one-to-one only, per class</th>
+                  <td class="py-3 pr-4 text-ink-mute" colspan="2">{formatFee(oneToOneOnly.perClass, oneToOneOnly.currency)} {oneToOneOnly.currency}</td>
+                  <td class="py-3 text-ink-mute">Indicative</td>
+                </tr>
+              )}
             </tbody>
           </table>
         </div>
@@ -214,7 +286,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
         <p class="m-0 text-[15.5px] text-ink-mute">{PRICING_TERMS.unsupportedRegionNote}</p>
       )}
       <p class="m-0 mt-4 max-w-[70ch] text-[13px] text-ink-mute">
-        {ibUsd ? `${m.name} has no separate price; these are the US dollar prices for countries without their own fee. "Confirmed" fees are set by Marlbridge in US dollars. ` : group && oneToOne && (!isIndicative(group) || !isIndicative(oneToOne)) ? `"Confirmed" fees are set by Marlbridge for ${m.name}. ` : ''}{INDICATIVE_NOTE} {ibUsd ? `IB is priced in US dollars ${IB_USD_PRICING.unit} (set ${IB_USD_PRICING.verifiedDate}).` : `The IB fee is set in Pakistan at ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}; the figure above is its conversion (IB rates converted ${IB_PRICING.verifiedDate}).`} {PRICING_TERMS.notPermanentNote} Group fees last confirmed {PRICING_VERIFIED_DATE}; one-to-one figures last confirmed or converted {ONE_TO_ONE_TERMS.verifiedDate}{m.slug === 'malaysia' ? '; Malaysia figures converted 2026-09-23' : m.slug === 'singapore' ? '; Singapore figures converted at the 5 October 2026 rate' : ''}.
+        {oneToOneOnly ? `${ONE_TO_ONE_ONLY_NOTE} ` : ''}{ibUsd ? `${m.name} has no separate price; these are the US dollar prices for countries without their own fee. "Confirmed" fees are set by Marlbridge in US dollars. ` : group && oneToOne && (!isIndicative(group) || !isIndicative(oneToOne)) ? `"Confirmed" fees are set by Marlbridge for ${m.name}. ` : ''}{INDICATIVE_NOTE} {ibUsd ? `IB is priced in US dollars ${IB_USD_PRICING.unit} (set ${IB_USD_PRICING.verifiedDate}).` : `The IB fee is set in Pakistan at ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}; the figure above is its conversion (IB rates converted ${IB_PRICING.verifiedDate}).`} {PRICING_TERMS.notPermanentNote} Group fees last confirmed {PRICING_VERIFIED_DATE}; one-to-one figures last confirmed or converted {ONE_TO_ONE_TERMS.verifiedDate}{m.slug === 'malaysia' ? '; Malaysia figures converted 2026-09-23' : m.slug === 'singapore' ? '; Singapore figures converted at the 5 October 2026 rate' : ''}.
       </p>
     </Container>
   </Section>

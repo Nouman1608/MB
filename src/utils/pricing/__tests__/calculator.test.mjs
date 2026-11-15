@@ -97,3 +97,35 @@ test('one-to-one-only courses (D-335): Rs 6,000 per class, conversions elsewhere
   assert.equal(kw.total, 19.98);
   assert.equal(kw.discountPercent, 0);
 });
+
+// D-459 -- the "fees for your region" card at the top of /pricing/ shows exactly what the two tables show.
+test('region card: one card per group-fee row, in table order, each agreeing with both table rows', async () => {
+  const { REGION_FEE_CARDS } = await import('../region-card.ts');
+  const { formatFee, isIndicative, INDICATIVE_NOTE } = await import('../../../data/pricing.ts');
+  assert.deepEqual(REGION_FEE_CARDS.map((c) => c.region), REGION_PRICING.map((r) => r.region));
+  for (const card of REGION_FEE_CARDS) {
+    const g = REGION_PRICING.find((r) => r.region === card.region);
+    const o = ONE_TO_ONE_PRICING.find((r) => r.region === card.region);
+    assert.ok(o, `${card.region} has a one-to-one row`);
+    assert.equal(card.group.igcse, `${formatFee(g.igcse, g.currency)} ${g.currency}`, card.region);
+    assert.equal(card.group.aLevel, `${formatFee(g.aLevel, g.currency)} ${g.currency}`, card.region);
+    assert.equal(card.group.indicative, isIndicative(g), `${card.region} group indicative mark`);
+    assert.equal(card.oneToOne.igcse, `${formatFee(o.igcse, o.currency)} ${o.currency}`, card.region);
+    assert.equal(card.oneToOne.aLevel, `${formatFee(o.aLevel, o.currency)} ${o.currency}`, card.region);
+    assert.equal(card.oneToOne.indicative, isIndicative(o), `${card.region} one-to-one indicative mark`);
+    // The note is the tables' own note, shown only when a figure on the card is indicative.
+    assert.equal(card.note, isIndicative(g) || isIndicative(o) ? INDICATIVE_NOTE : '', `${card.region} note`);
+  }
+});
+
+test('region card: Pakistan is first and carries no indicative mark; the UAE label matches the tables', async () => {
+  const { REGION_FEE_CARDS } = await import('../region-card.ts');
+  const pk = REGION_FEE_CARDS[0];
+  assert.equal(pk.region, 'Pakistan');
+  assert.equal(pk.group.indicative, false);
+  assert.equal(pk.oneToOne.indicative, false);
+  assert.equal(pk.note, '');
+  assert.equal(REGION_FEE_CARDS.find((c) => c.region === 'United Arab Emirates').label, 'United Arab Emirates (UAE)');
+  // Three-decimal currencies keep their precision, as in the tables.
+  assert.match(REGION_FEE_CARDS.find((c) => c.region === 'Kuwait').group.igcse, /^\d+\.\d{3} KWD$/);
+});
