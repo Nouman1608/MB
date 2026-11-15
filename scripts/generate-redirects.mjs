@@ -247,6 +247,12 @@ for (const [from, to] of [
   lines.push(`${pad(from)}${to}  301`);
 }
 
+// D-454 -- /sitemap.xml is the address crawlers and SEO tools try first, and
+// it returned the 404 page (the real file is /sitemap-index.xml, which
+// robots.txt already names). One rule sends it to the real index.
+lines.push('', '# Conventional sitemap address -> the real sitemap index (D-454)');
+lines.push(`${pad('/sitemap.xml')}/sitemap-index.xml  301`);
+
 lines.push('', '# Syllabus/specification-code discovery: /syllabus/<CODE>/ -> canonical hub (WS1)');
 for (const { code, hubPath } of codeEntries) {
   lines.push(`${pad(`/syllabus/${code}/`)}${hubPath}  301`);
