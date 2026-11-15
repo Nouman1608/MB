@@ -978,7 +978,7 @@ withMutation(
   },
 );
 
-console.log('\n[AV] D-452 -- a reviewer credit recorded as "reviewed by" in reviewNote is rejected');
+console.log('\n[AV] D-453 -- a reviewer credit recorded as "reviewed by" in reviewNote is rejected');
 withMutation(
   'src/content/resources/igcse-chemistry-0620-elements-atomic-structure-and-isotopes.md',
   (text) => text.replace('credited to nouman-ahmed (accountable teacher, D-379).', 'reviewed by nouman-ahmed.'),

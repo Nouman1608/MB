@@ -67,7 +67,7 @@
  *       code the resource declares, a sane date, a closed approval value, an
  *       official source for that board, and non-empty scope and evidence.
  *
- *  [14] D-452 -- a dated credit in `reviewNote` is written "YYYY-MM-DD:
+ *  [14] D-453 -- a dated credit in `reviewNote` is written "YYYY-MM-DD:
  *       credited to <id> (accountable teacher, D-379)", never "reviewed by
  *       <id>", which reads as a review event D-379 says did not happen.
  *       ("previously reviewed by X on 2026-09-29" is historical and left alone.)
@@ -202,7 +202,7 @@ function checkCollection(dir, label, authors, problems) {
     }
 
     if (fm.reviewNote && /\d{4}-\d{2}-\d{2}: reviewed by [a-z-]+\./.test(fm.reviewNote)) {
-      problems.push(`[14] ${id} records a credit in reviewNote as "reviewed by"; write "<date>: credited to <id> (accountable teacher, D-379)." (D-452).`);
+      problems.push(`[14] ${id} records a credit in reviewNote as "reviewed by"; write "<date>: credited to <id> (accountable teacher, D-379)." (D-453).`);
     }
     if (fm.reviewedDate) {
       const reviewed = new Date(fm.reviewedDate);

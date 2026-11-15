@@ -15987,7 +15987,13 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 - **Problem.** The home hero said "23 named subject specialists" (person profiles with subjects taught). The editorial policy said "one of 8 named teachers" (distinct named authors credited on resources). It was the same kind of label with two definitions.
 - **Fix.** Each figure now names its unit, and both are still computed at build time. The home hero says "23 teacher profiles". The policy says "one of 8 named authors from the Marlbridge teaching team". All 8 named authors also have teacher profiles (checked 15 Nov), so "from the Marlbridge teaching team" stays true. Wording only; no count changed.
 
-## D-452 - Reviewer-credit notes say "credited to", not "reviewed by" (OQ-1, 15 Nov 2026)
+## D-452 - Subtopic pages for the thinnest courses: Cambridge O Level Geography 2217, Cambridge IGCSE Urdu 0539, OxfordAQA IGCSE Geography 9230 (15 Nov 2026)
+
+- Owner, 15 Nov 2026 ("add resources to the thinnest courses"). The thinnest courses had 8 to 10 resources each because their pages cover whole papers or themes. Thirty official subtopics had no page of their own: all 19 in Cambridge O Level Geography 2217, all 10 exam exercises in Cambridge IGCSE Urdu 0539 and World cities (London and New York) in OxfordAQA IGCSE Geography 9230.
+- **Pages.** 90 new pages: a study guide, revision notes and a practice set (original questions with full answers) for each of the 30 subtopics, each tagged to its own subtopic. All are `review-pending` under the Marlbridge Academic Team with no reviewer. The 30 Urdu pages carry `reviewNeeded` so an Urdu specialist checks every Urdu sentence; their mark splits, timings and practice formats are labelled as Marlbridge practice conventions where the syllabus is silent.
+- **Sources.** Several writers worked from the official 2217 and 0539 syllabus PDFs. Real case-study facts are limited to well-known ones (each writer listed theirs for a fact check); all invented data is labelled illustrative and recomputed.
+- **Not changed.** Edexcel A Level Law, AQA GCSE Psychology and the two English Literature courses (Edexcel 4ET1, OxfordAQA 9275) already have pages on every subtopic; Cambridge O Level Urdu 3247/3248 has no subtopics in its topic map.
+## D-453 - Reviewer-credit notes say "credited to", not "reviewed by" (OQ-1, 15 Nov 2026)
 
 - Owner, 15 Nov 2026: "do OQ-1 option a".
 - **Problem.** The internal `reviewNote` on 7,606 resources recorded the accountable-teacher credit as "<date>: reviewed by <id>.": 7,554 dated 2026-11-08 (the bulk credit, commit 03159b8c) and 52 dated 2026-11-15. Under D-379 a credit is not a review event, so the notes contradicted the policy for any auditor or tool reading them. They are not rendered on any page.

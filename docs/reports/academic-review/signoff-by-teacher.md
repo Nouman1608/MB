@@ -18,6 +18,7 @@ review.
 
 | Teacher | Profile slug | Pages eligible |
 | --- | --- | --- |
+| Farheen Zehra | `farheen-zehra` | 33 |
 | Salman Ahmad | `salman-ahmad` | 20 |
 | Farhat ul Ain Sehgal | `farhat-ul-ain-sehgal` | 12 |
 | Nouman Ahmed | `nouman-ahmed` | 12 |
@@ -36,11 +37,48 @@ review.
 | Lubna Waseem | `lubna-waseem` | 4 |
 | Naqiya Yousaf | `naqiya-yousaf` | 4 |
 | Zain Ud Din Ahmed | `zain-ud-din-ahmed` | 4 |
-| Farheen Zehra | `farheen-zehra` | 3 |
 | Aizaz Raoof Ali | `aizaz-raoof-ali` | 1 |
-| *No eligible teacher* | — | 340 |
+| *No eligible teacher* | — | 400 |
 
-430 review-pending pages in total; a page can appear under more than one teacher.
+520 review-pending pages in total; a page can appear under more than one teacher.
+
+## Farheen Zehra (`farheen-zehra`) — 33
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-igcse-urdu-language-exercise-1-short-answer-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-1-short-answer-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-1-short-answer-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-2-multiple-matching-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-2-multiple-matching-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-2-multiple-matching` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-3-note-making-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-3-note-making-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-3-note-making` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-4-summary-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-4-summary-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-4-summary` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-5-writing-exercise-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-5-writing-exercise-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-5-writing-exercise` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-urdu-language-exam-preparation` | cambridge o-level urdu-language (3247 / 3248) | exam-preparation | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-exam-preparation` | edexcel a-level urdu-language (9UR0) | exam-preparation | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-exam-preparation` | oxfordaqa igcse urdu-language (9264) | exam-preparation | UNVERIFIED | 0 |
 
 ## Salman Ahmad (`salman-ahmad`) — 20
 
@@ -270,21 +308,13 @@ review.
 | `cambridge-o-level-accounting-exam-preparation` | cambridge o-level accounting (7707) | exam-preparation | UNVERIFIED | 1 |
 | `edexcel-igcse-accounting-exam-preparation` | edexcel igcse accounting (4AC1) | exam-preparation | UNVERIFIED | 1 |
 
-## Farheen Zehra (`farheen-zehra`) — 3
-
-| Resource | Course | Type | Verification | Also eligible |
-| --- | --- | --- | --- | --- |
-| `cambridge-o-level-urdu-language-exam-preparation` | cambridge o-level urdu-language (3247 / 3248) | exam-preparation | UNVERIFIED | 0 |
-| `edexcel-a-level-urdu-language-exam-preparation` | edexcel a-level urdu-language (9UR0) | exam-preparation | UNVERIFIED | 0 |
-| `oxfordaqa-igcse-urdu-language-exam-preparation` | oxfordaqa igcse urdu-language (9264) | exam-preparation | UNVERIFIED | 0 |
-
 ## Aizaz Raoof Ali (`aizaz-raoof-ali`) — 1
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
 | `aqa-a-level-law-past-papers` | aqa a-level law (7162) | past-papers | UNVERIFIED | 0 |
 
-## No eligible teacher — 340
+## No eligible teacher — 400
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -383,7 +413,64 @@ is not a review and does not change their status.
 | `cambridge-a-level-psychology-exam-preparation` | cambridge a-level psychology (9990) | exam-preparation | UNVERIFIED | 0 |
 | `cambridge-igcse-geography-exam-preparation` | cambridge igcse geography (0460) | exam-preparation | UNVERIFIED | 0 |
 | `cambridge-igcse-global-perspectives-exam-preparation` | cambridge igcse global-perspectives (0457) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-climate-natural-vegetation-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-climate-natural-vegetation-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-climate-natural-vegetation` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-coasts-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-coasts-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-coasts` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-development-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-development-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-development` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-earthquakes-volcanoes-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-earthquakes-volcanoes-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-earthquakes-volcanoes` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-energy-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-energy-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-energy` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-environmental-risks-economic-development-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-environmental-risks-economic-development-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-environmental-risks-economic-development` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
 | `cambridge-o-level-geography-exam-preparation` | cambridge o-level geography (2217) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-food-production-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-food-production-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-food-production` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-industry-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-industry-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-industry` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-migration-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-migration-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-migration` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-population-density-distribution-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-population-density-distribution-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-population-density-distribution` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-population-dynamics-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-population-dynamics-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-population-dynamics` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-population-structure-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-population-structure-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-population-structure` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-rivers-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-rivers-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-rivers` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-settlements-service-provision-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-settlements-service-provision-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-settlements-service-provision` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-tourism-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-tourism-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-tourism` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-urban-settlements-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-urban-settlements-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-urban-settlements` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-urbanisation-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-urbanisation-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-urbanisation` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-water-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-water-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-water` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-weather-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-weather-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-weather` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
 | `gcse-psychology-cognition-practice` | aqa gcse psychology (8182) | practice-questions | VERIFIED | 0 |
 | `gcse-psychology-cognition-revision-notes` | aqa gcse psychology (8182) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `gcse-psychology-social-context-practice` | aqa gcse psychology (8182) | practice-questions | VERIFIED | 0 |
@@ -632,5 +719,8 @@ is not a review and does not change their status.
 | `oxfordaqa-a-level-psychology-exam-preparation` | oxfordaqa a-level psychology (9685) | exam-preparation | VERIFIED | 0 |
 | `oxfordaqa-a-level-psychology-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
 | `oxfordaqa-a-level-psychology-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
+| `oxfordaqa-igcse-geography-world-cities-london-new-york-practice` | oxfordaqa igcse geography (9230) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-geography-world-cities-london-new-york-revision-notes` | oxfordaqa igcse geography (9230) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-geography-world-cities-london-new-york` | oxfordaqa igcse geography (9230) | study-guides | UNVERIFIED | 0 |
 | `oxfordaqa-igcse-psychology-exam-preparation` | oxfordaqa igcse psychology (9218) | exam-preparation | VERIFIED | 0 |
 | `psychology-approaches-and-debates-practice` | cambridge a-level psychology (9990) | practice-questions | VERIFIED | 0 |

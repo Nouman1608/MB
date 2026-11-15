@@ -156,7 +156,7 @@ const resources = defineCollection({
     reviewNeeded: z.boolean().default(false),
     /**
      * Internal note, never rendered. A dated reviewer credit is written
-     * "YYYY-MM-DD: credited to <id> (accountable teacher, D-379)." (D-452,
+     * "YYYY-MM-DD: credited to <id> (accountable teacher, D-379)." (D-453,
      * checked by validate-review-integrity [14]); it records when the
      * accountable-teacher credit was applied, not a review event.
      */
