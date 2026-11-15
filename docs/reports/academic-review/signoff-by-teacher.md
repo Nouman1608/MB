@@ -18,9 +18,9 @@ review.
 
 | Teacher | Profile slug | Pages eligible |
 | --- | --- | --- |
+| Farheen Zehra | `farheen-zehra` | 70 |
+| Ammar Bilal | `ammar-bilal` | 62 |
 | Salman Ahmad | `salman-ahmad` | 47 |
-| Farheen Zehra | `farheen-zehra` | 37 |
-| Ammar Bilal | `ammar-bilal` | 23 |
 | Farhat ul Ain Sehgal | `farhat-ul-ain-sehgal` | 23 |
 | Nouman Ahmed | `nouman-ahmed` | 23 |
 | Iftikhar Azeemi | `iftikhar-azeemi` | 21 |
@@ -28,7 +28,9 @@ review.
 | Sajawal Zahid | `sajawal-zahid` | 21 |
 | Azam Siddique | `azam-siddique` | 19 |
 | Hina Mogul | `hina-mogul` | 19 |
+| Naqiya Yousaf | `naqiya-yousaf` | 19 |
 | Asif Iqbal | `asif-iqbal` | 18 |
+| Aizaz Raoof Ali | `aizaz-raoof-ali` | 17 |
 | Hassan | `hassan` | 17 |
 | Ameer Hamza | `ameer-hamza` | 15 |
 | Harris Khan | `harris-khan` | 14 |
@@ -36,11 +38,151 @@ review.
 | Saad Zai | `saad-zai` | 12 |
 | Zain Ud Din Ahmed | `zain-ud-din-ahmed` | 12 |
 | Lubna Waseem | `lubna-waseem` | 10 |
-| Naqiya Yousaf | `naqiya-yousaf` | 10 |
-| Aizaz Raoof Ali | `aizaz-raoof-ali` | 4 |
-| *No eligible teacher* | — | 412 |
+| *No eligible teacher* | — | 435 |
 
-662 review-pending pages in total; a page can appear under more than one teacher.
+779 review-pending pages in total; a page can appear under more than one teacher.
+
+## Farheen Zehra (`farheen-zehra`) — 70
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-igcse-urdu-language-0539-subject-guide` | cambridge igcse urdu-language (0539) | subject-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-1-short-answer-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-1-short-answer-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-1-short-answer-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-2-multiple-matching-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-2-multiple-matching-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-2-multiple-matching` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-3-note-making-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-3-note-making-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-3-note-making` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-4-summary-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-4-summary-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-4-summary` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-5-writing-exercise-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-5-writing-exercise-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-5-writing-exercise` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-urdu-language-3247-subject-guide` | cambridge o-level urdu-language (3247 / 3248) | subject-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-urdu-language-exam-preparation` | cambridge o-level urdu-language (3247 / 3248) | exam-preparation | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-9ur0-subject-guide` | edexcel a-level urdu-language (9UR0) | subject-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-exam-preparation` | edexcel a-level urdu-language (9UR0) | exam-preparation | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-education-post-16-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-education-post-16-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-education-post-16` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-family-friends-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-family-friends-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-family-friends` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-free-time-activities-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-free-time-activities-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-free-time-activities` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-global-issues-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-global-issues-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-global-issues` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-jobs-career-choices-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-jobs-career-choices-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-jobs-career-choices` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-life-school-college-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-life-school-college-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-life-school-college` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-my-studies-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-my-studies-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-my-studies` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-social-issues-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-social-issues-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-social-issues` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-subject-guide` | oxfordaqa igcse urdu-language (9264) | subject-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-technology-everyday-life-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-technology-everyday-life-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-technology-everyday-life` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-travel-tourism-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-travel-tourism-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-9264-travel-tourism` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-exam-preparation` | oxfordaqa igcse urdu-language (9264) | exam-preparation | UNVERIFIED | 0 |
+
+## Ammar Bilal (`ammar-bilal`) — 62
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-english-language-7702-subject-guide` | aqa a-level english (7702) | subject-guides | UNVERIFIED | 1 |
+| `aqa-a-level-english-language-past-papers` | aqa a-level english (7702) | past-papers | UNVERIFIED | 1 |
+| `aqa-a-level-english-literature-7712-subject-guide` | aqa a-level english-literature (7712 / 7717) | subject-guides | UNVERIFIED | 0 |
+| `aqa-a-level-english-literature-exam-preparation` | aqa a-level english-literature (7712 / 7717) | exam-preparation | UNVERIFIED | 0 |
+| `aqa-a-level-english-literature-past-papers` | aqa a-level english-literature (7717) | past-papers | UNVERIFIED | 0 |
+| `aqa-gcse-english-language-past-papers` | aqa gcse english (8700) | past-papers | UNVERIFIED | 1 |
+| `aqa-gcse-english-literature-8702-subject-guide` | aqa gcse english-literature (8702) | subject-guides | UNVERIFIED | 0 |
+| `aqa-gcse-english-literature-past-papers` | aqa gcse english-literature (8702) | past-papers | UNVERIFIED | 0 |
+| `cambridge-a-level-english-language-9093-subject-guide` | cambridge a-level english (9093) | subject-guides | UNVERIFIED | 1 |
+| `cambridge-a-level-english-language-exam-preparation` | cambridge a-level english (9093) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-a-level-english-literature-9695-subject-guide` | cambridge a-level english-literature (9695) | subject-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-english-literature-exam-preparation` | cambridge a-level english-literature (9695) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-igcse-english-literature-0475-subject-guide` | cambridge igcse english-literature (0475) | subject-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-english-literature-exam-preparation` | cambridge igcse english-literature (0475) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-o-level-english-language-1123-subject-guide` | cambridge o-level english (1123) | subject-guides | UNVERIFIED | 1 |
+| `cambridge-o-level-english-language-exam-preparation` | cambridge o-level english (1123) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-a-level-english-literature-yet01-subject-guide` | edexcel a-level english-literature (YET01) | subject-guides | UNVERIFIED | 0 |
+| `edexcel-igcse-english-language-4ea1-subject-guide` | edexcel igcse english (4EA1) | subject-guides | UNVERIFIED | 1 |
+| `edexcel-igcse-english-literature-4et1-assignment-a-modern-drama-practice` | edexcel igcse english-literature (4ET1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-assignment-a-modern-drama-revision-notes` | edexcel igcse english-literature (4ET1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-assignment-a-modern-drama` | edexcel igcse english-literature (4ET1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts-practice` | edexcel igcse english-literature (4ET1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts-revision-notes` | edexcel igcse english-literature (4ET1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts` | edexcel igcse english-literature (4ET1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-a-modern-drama-practice` | edexcel igcse english-literature (4ET1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-a-modern-drama-revision-notes` | edexcel igcse english-literature (4ET1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-a-modern-drama` | edexcel igcse english-literature (4ET1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-a-unseen-poetry-practice` | edexcel igcse english-literature (4ET1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-a-unseen-poetry-revision-notes` | edexcel igcse english-literature (4ET1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-a-unseen-poetry` | edexcel igcse english-literature (4ET1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-b-anthology-poetry-practice` | edexcel igcse english-literature (4ET1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-b-anthology-poetry-revision-notes` | edexcel igcse english-literature (4ET1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-b-anthology-poetry` | edexcel igcse english-literature (4ET1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts-practice` | edexcel igcse english-literature (4ET1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts-revision-notes` | edexcel igcse english-literature (4ET1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts` | edexcel igcse english-literature (4ET1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-c-modern-prose-practice` | edexcel igcse english-literature (4ET1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-c-modern-prose-revision-notes` | edexcel igcse english-literature (4ET1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-section-c-modern-prose` | edexcel igcse english-literature (4ET1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-igcse-english-literature-4et1-subject-guide` | edexcel igcse english-literature (4ET1) | subject-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-english-language-9670-subject-guide` | oxfordaqa a-level english (9670) | subject-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-english-literature-9675-subject-guide` | oxfordaqa a-level english-literature (9675) | subject-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-language-9270-subject-guide` | oxfordaqa igcse english (9270) | subject-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-english-literature-9275-drama-practice` | oxfordaqa igcse english-literature (9275) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-drama-revision-notes` | oxfordaqa igcse english-literature (9275) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-drama` | oxfordaqa igcse english-literature (9275) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b-practice` | oxfordaqa igcse english-literature (9275) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b-revision-notes` | oxfordaqa igcse english-literature (9275) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b` | oxfordaqa igcse english-literature (9275) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-poetry-practice` | oxfordaqa igcse english-literature (9275) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-poetry-revision-notes` | oxfordaqa igcse english-literature (9275) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-poetry` | oxfordaqa igcse english-literature (9275) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-prose-fiction-practice` | oxfordaqa igcse english-literature (9275) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-prose-fiction-revision-notes` | oxfordaqa igcse english-literature (9275) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-prose-fiction` | oxfordaqa igcse english-literature (9275) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-subject-guide` | oxfordaqa igcse english-literature (9275) | subject-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-unseen-poetry-practice` | oxfordaqa igcse english-literature (9275) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-unseen-poetry-revision-notes` | oxfordaqa igcse english-literature (9275) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-unseen-poetry` | oxfordaqa igcse english-literature (9275) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-unseen-prose-practice` | oxfordaqa igcse english-literature (9275) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-unseen-prose-revision-notes` | oxfordaqa igcse english-literature (9275) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-literature-9275-unseen-prose` | oxfordaqa igcse english-literature (9275) | study-guides | UNVERIFIED | 0 |
 
 ## Salman Ahmad (`salman-ahmad`) — 47
 
@@ -93,76 +235,6 @@ review.
 | `oxfordaqa-a-level-economics-9640-subject-guide` | oxfordaqa a-level economics (9640) | subject-guides | UNVERIFIED | 0 |
 | `oxfordaqa-igcse-business-9225-subject-guide` | oxfordaqa igcse business (9225) | subject-guides | UNVERIFIED | 0 |
 | `oxfordaqa-igcse-economics-9214-subject-guide` | oxfordaqa igcse economics (9214) | subject-guides | UNVERIFIED | 0 |
-
-## Farheen Zehra (`farheen-zehra`) — 37
-
-| Resource | Course | Type | Verification | Also eligible |
-| --- | --- | --- | --- | --- |
-| `cambridge-igcse-urdu-language-0539-subject-guide` | cambridge igcse urdu-language (0539) | subject-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-1-short-answer-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-1-short-answer-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-1-short-answer-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-2-multiple-matching-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-2-multiple-matching-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-2-multiple-matching` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-3-note-making-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-3-note-making-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-3-note-making` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-4-summary-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-4-summary-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-4-summary` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-5-writing-exercise-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-5-writing-exercise-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-5-writing-exercise` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
-| `cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
-| `cambridge-o-level-urdu-language-3247-subject-guide` | cambridge o-level urdu-language (3247 / 3248) | subject-guides | UNVERIFIED | 0 |
-| `cambridge-o-level-urdu-language-exam-preparation` | cambridge o-level urdu-language (3247 / 3248) | exam-preparation | UNVERIFIED | 0 |
-| `edexcel-a-level-urdu-language-9ur0-subject-guide` | edexcel a-level urdu-language (9UR0) | subject-guides | UNVERIFIED | 0 |
-| `edexcel-a-level-urdu-language-exam-preparation` | edexcel a-level urdu-language (9UR0) | exam-preparation | UNVERIFIED | 0 |
-| `oxfordaqa-igcse-urdu-language-9264-subject-guide` | oxfordaqa igcse urdu-language (9264) | subject-guides | UNVERIFIED | 0 |
-| `oxfordaqa-igcse-urdu-language-exam-preparation` | oxfordaqa igcse urdu-language (9264) | exam-preparation | UNVERIFIED | 0 |
-
-## Ammar Bilal (`ammar-bilal`) — 23
-
-| Resource | Course | Type | Verification | Also eligible |
-| --- | --- | --- | --- | --- |
-| `aqa-a-level-english-language-7702-subject-guide` | aqa a-level english (7702) | subject-guides | UNVERIFIED | 1 |
-| `aqa-a-level-english-language-past-papers` | aqa a-level english (7702) | past-papers | UNVERIFIED | 1 |
-| `aqa-a-level-english-literature-7712-subject-guide` | aqa a-level english-literature (7712 / 7717) | subject-guides | UNVERIFIED | 0 |
-| `aqa-a-level-english-literature-exam-preparation` | aqa a-level english-literature (7712 / 7717) | exam-preparation | UNVERIFIED | 0 |
-| `aqa-a-level-english-literature-past-papers` | aqa a-level english-literature (7717) | past-papers | UNVERIFIED | 0 |
-| `aqa-gcse-english-language-past-papers` | aqa gcse english (8700) | past-papers | UNVERIFIED | 1 |
-| `aqa-gcse-english-literature-8702-subject-guide` | aqa gcse english-literature (8702) | subject-guides | UNVERIFIED | 0 |
-| `aqa-gcse-english-literature-past-papers` | aqa gcse english-literature (8702) | past-papers | UNVERIFIED | 0 |
-| `cambridge-a-level-english-language-9093-subject-guide` | cambridge a-level english (9093) | subject-guides | UNVERIFIED | 1 |
-| `cambridge-a-level-english-language-exam-preparation` | cambridge a-level english (9093) | exam-preparation | UNVERIFIED | 1 |
-| `cambridge-a-level-english-literature-9695-subject-guide` | cambridge a-level english-literature (9695) | subject-guides | UNVERIFIED | 0 |
-| `cambridge-a-level-english-literature-exam-preparation` | cambridge a-level english-literature (9695) | exam-preparation | UNVERIFIED | 0 |
-| `cambridge-igcse-english-literature-0475-subject-guide` | cambridge igcse english-literature (0475) | subject-guides | UNVERIFIED | 0 |
-| `cambridge-igcse-english-literature-exam-preparation` | cambridge igcse english-literature (0475) | exam-preparation | UNVERIFIED | 0 |
-| `cambridge-o-level-english-language-1123-subject-guide` | cambridge o-level english (1123) | subject-guides | UNVERIFIED | 1 |
-| `cambridge-o-level-english-language-exam-preparation` | cambridge o-level english (1123) | exam-preparation | UNVERIFIED | 1 |
-| `edexcel-a-level-english-literature-yet01-subject-guide` | edexcel a-level english-literature (YET01) | subject-guides | UNVERIFIED | 0 |
-| `edexcel-igcse-english-language-4ea1-subject-guide` | edexcel igcse english (4EA1) | subject-guides | UNVERIFIED | 1 |
-| `edexcel-igcse-english-literature-4et1-subject-guide` | edexcel igcse english-literature (4ET1) | subject-guides | UNVERIFIED | 0 |
-| `oxfordaqa-a-level-english-language-9670-subject-guide` | oxfordaqa a-level english (9670) | subject-guides | UNVERIFIED | 1 |
-| `oxfordaqa-a-level-english-literature-9675-subject-guide` | oxfordaqa a-level english-literature (9675) | subject-guides | UNVERIFIED | 0 |
-| `oxfordaqa-igcse-english-language-9270-subject-guide` | oxfordaqa igcse english (9270) | subject-guides | UNVERIFIED | 1 |
-| `oxfordaqa-igcse-english-literature-9275-subject-guide` | oxfordaqa igcse english-literature (9275) | subject-guides | UNVERIFIED | 0 |
 
 ## Farhat ul Ain Sehgal (`farhat-ul-ain-sehgal`) — 23
 
@@ -346,6 +418,30 @@ review.
 | `oxfordaqa-a-level-biology-9610-subject-guide` | oxfordaqa a-level biology (9610) | subject-guides | UNVERIFIED | 2 |
 | `oxfordaqa-igcse-biology-9201-subject-guide` | oxfordaqa igcse biology (9201) | subject-guides | UNVERIFIED | 2 |
 
+## Naqiya Yousaf (`naqiya-yousaf`) — 19
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-sociology-exam-preparation` | aqa a-level sociology (7192) | exam-preparation | UNVERIFIED | 0 |
+| `aqa-a-level-sociology-past-papers` | aqa a-level sociology (7192) | past-papers | UNVERIFIED | 0 |
+| `aqa-gcse-sociology-8192-subject-guide` | aqa gcse sociology (8192) | subject-guides | UNVERIFIED | 0 |
+| `aqa-gcse-sociology-past-papers` | aqa gcse sociology (8192) | past-papers | UNVERIFIED | 0 |
+| `cambridge-a-level-sociology-9699-subject-guide` | cambridge a-level sociology (9699) | subject-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-sociology-exam-preparation` | cambridge a-level sociology (9699) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-igcse-sociology-0495-subject-guide` | cambridge igcse sociology (0495) | subject-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-sociology-2251-subject-guide` | cambridge o-level sociology (2251) | subject-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-sociology-9690-subject-guide` | oxfordaqa a-level sociology (9690) | subject-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-education-practice` | oxfordaqa igcse sociology (9292) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-education-revision-notes` | oxfordaqa igcse sociology (9292) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-education` | oxfordaqa igcse sociology (9292) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-families-practice` | oxfordaqa igcse sociology (9292) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-families-revision-notes` | oxfordaqa igcse sociology (9292) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-families` | oxfordaqa igcse sociology (9292) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-research-methods-practice` | oxfordaqa igcse sociology (9292) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-research-methods-revision-notes` | oxfordaqa igcse sociology (9292) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-research-methods` | oxfordaqa igcse sociology (9292) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-sociology-9292-subject-guide` | oxfordaqa igcse sociology (9292) | subject-guides | UNVERIFIED | 0 |
+
 ## Asif Iqbal (`asif-iqbal`) — 18
 
 | Resource | Course | Type | Verification | Also eligible |
@@ -368,6 +464,28 @@ review.
 | `edexcel-igcse-business-exam-preparation` | edexcel igcse business (4BS1) | exam-preparation | UNVERIFIED | 1 |
 | `edexcel-igcse-economics-4ec1-subject-guide` | edexcel igcse economics (4EC1) | subject-guides | UNVERIFIED | 1 |
 | `ib-dp-economics-subject-guide` | ib ib-dp economics (DP Economics) | subject-guides | UNVERIFIED | 1 |
+
+## Aizaz Raoof Ali (`aizaz-raoof-ali`) — 17
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-law-7162-subject-guide` | aqa a-level law (7162) | subject-guides | UNVERIFIED | 0 |
+| `aqa-a-level-law-past-papers` | aqa a-level law (7162) | past-papers | UNVERIFIED | 0 |
+| `cambridge-a-level-law-9084-subject-guide` | cambridge a-level law (9084) | subject-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-subject-guide` | edexcel a-level law (YLA1) | subject-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-criminal-offender-practice` | edexcel a-level law (YLA1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-criminal-offender-revision-notes` | edexcel a-level law (YLA1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-criminal-offender` | edexcel a-level law (YLA1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-individual-practice` | edexcel a-level law (YLA1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-individual-revision-notes` | edexcel a-level law (YLA1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-individual` | edexcel a-level law (YLA1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-market-practice` | edexcel a-level law (YLA1) | practice-questions | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-market-revision-notes` | edexcel a-level law (YLA1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-market` | edexcel a-level law (YLA1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law-revision-notes` | edexcel a-level law (YLA1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law` | edexcel a-level law (YLA1) | study-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration-revision-notes` | edexcel a-level law (YLA1) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration` | edexcel a-level law (YLA1) | study-guides | UNVERIFIED | 0 |
 
 ## Hassan (`hassan`) — 17
 
@@ -496,31 +614,7 @@ review.
 | `oxfordaqa-a-level-english-language-9670-subject-guide` | oxfordaqa a-level english (9670) | subject-guides | UNVERIFIED | 1 |
 | `oxfordaqa-igcse-english-language-9270-subject-guide` | oxfordaqa igcse english (9270) | subject-guides | UNVERIFIED | 1 |
 
-## Naqiya Yousaf (`naqiya-yousaf`) — 10
-
-| Resource | Course | Type | Verification | Also eligible |
-| --- | --- | --- | --- | --- |
-| `aqa-a-level-sociology-exam-preparation` | aqa a-level sociology (7192) | exam-preparation | UNVERIFIED | 0 |
-| `aqa-a-level-sociology-past-papers` | aqa a-level sociology (7192) | past-papers | UNVERIFIED | 0 |
-| `aqa-gcse-sociology-8192-subject-guide` | aqa gcse sociology (8192) | subject-guides | UNVERIFIED | 0 |
-| `aqa-gcse-sociology-past-papers` | aqa gcse sociology (8192) | past-papers | UNVERIFIED | 0 |
-| `cambridge-a-level-sociology-9699-subject-guide` | cambridge a-level sociology (9699) | subject-guides | UNVERIFIED | 0 |
-| `cambridge-a-level-sociology-exam-preparation` | cambridge a-level sociology (9699) | exam-preparation | UNVERIFIED | 0 |
-| `cambridge-igcse-sociology-0495-subject-guide` | cambridge igcse sociology (0495) | subject-guides | UNVERIFIED | 0 |
-| `cambridge-o-level-sociology-2251-subject-guide` | cambridge o-level sociology (2251) | subject-guides | UNVERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-subject-guide` | oxfordaqa a-level sociology (9690) | subject-guides | UNVERIFIED | 0 |
-| `oxfordaqa-igcse-sociology-9292-subject-guide` | oxfordaqa igcse sociology (9292) | subject-guides | UNVERIFIED | 0 |
-
-## Aizaz Raoof Ali (`aizaz-raoof-ali`) — 4
-
-| Resource | Course | Type | Verification | Also eligible |
-| --- | --- | --- | --- | --- |
-| `aqa-a-level-law-7162-subject-guide` | aqa a-level law (7162) | subject-guides | UNVERIFIED | 0 |
-| `aqa-a-level-law-past-papers` | aqa a-level law (7162) | past-papers | UNVERIFIED | 0 |
-| `cambridge-a-level-law-9084-subject-guide` | cambridge a-level law (9084) | subject-guides | UNVERIFIED | 0 |
-| `edexcel-a-level-law-yla1-subject-guide` | edexcel a-level law (YLA1) | subject-guides | UNVERIFIED | 0 |
-
-## No eligible teacher — 412
+## No eligible teacher — 435
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -611,6 +705,29 @@ is not a review and does not change their status.
 | `aqa-a-level-psychology-introductory-topics` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
 | `aqa-a-level-psychology-memory-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
 | `aqa-a-level-psychology-past-papers` | aqa a-level psychology (7182) | past-papers | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-brain-and-neuropsychology-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-brain-and-neuropsychology-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-brain-and-neuropsychology` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-development-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-development-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-development` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-language-thought-communication-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-language-thought-communication-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-language-thought-communication` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-memory-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-memory-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-memory` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-perception-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-perception-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-perception` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-psychological-problems-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-psychological-problems-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-psychological-problems` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-research-methods-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-research-methods-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-social-influence-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-social-influence-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
+| `aqa-gcse-psychology-8182-social-influence` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
 | `aqa-gcse-psychology-8182-subject-guide` | aqa gcse psychology (8182) | subject-guides | UNVERIFIED | 0 |
 | `aqa-gcse-psychology-cognition-and-behaviour` | aqa gcse psychology (8182) | study-guides | VERIFIED | 0 |
 | `aqa-gcse-psychology-exam-preparation` | aqa gcse psychology (8182) | exam-preparation | VERIFIED | 0 |

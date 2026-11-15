@@ -12,7 +12,7 @@ written, so an unchanged repository regenerates identical files).
 
 | Measure | Value |
 | --- | --- |
-| Source resources | 8418 |
+| Source resources | 8535 |
 | Active board × qualification × subject combinations | 166 |
 | Combinations with an official-source record | 166/166 |
 | Combinations with a topic map | 166/166 |
@@ -20,8 +20,8 @@ written, so an unchanged repository regenerates identical files).
 | Combinations under 8 resources | 0 |
 | Combinations with topics that have no resource | 0 |
 | Median resources per combination | 47 |
-| Median words per resource | 2209 |
-| Resources under 900 words | 35 |
+| Median words per resource | 2202 |
+| Resources under 900 words | 67 |
 | Resources under 400 words | 0 |
 | Demand | NO_DATA (no analytics, Search Console, CRM or enrolment source is read) |
 
@@ -40,7 +40,7 @@ source, a verification date, components with marks and durations, and an assessm
 
 | reviewStatus | Resources |
 | --- | --- |
-| review-pending | 662 |
+| review-pending | 779 |
 | reviewed | 7756 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
@@ -52,10 +52,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Type | Resources |
 | --- | --- |
-| study-guides | 2713 |
-| revision-notes | 2649 |
+| study-guides | 2752 |
+| revision-notes | 2689 |
 | past-papers | 59 |
-| practice-questions | 2667 |
+| practice-questions | 2705 |
 | exam-preparation | 165 |
 | subject-guides | 165 |
 | learning-articles | 0 |
@@ -64,32 +64,32 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | boards | Resources |
 | --- | --- |
-| aqa | 1160 |
+| aqa | 1183 |
 | cambridge | 2570 |
-| edexcel | 1065 |
+| edexcel | 1099 |
 | ib | 1066 |
 | ocr | 1137 |
-| oxfordaqa | 1420 |
+| oxfordaqa | 1480 |
 
 ## By board
 
 | Board | Combinations | Official source record | Topic map | Resources | Under 8 resources | Assessment complete | Reviewed | Review-pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AQA | 26 | 26 | 26 | 1358 | 0 | 26 | 1246 | 112 |
+| AQA | 26 | 26 | 26 | 1381 | 0 | 26 | 1246 | 135 |
 | Cambridge | 55 | 55 | 55 | 2722 | 0 | 55 | 2431 | 291 |
-| Pearson Edexcel | 21 | 21 | 21 | 1065 | 0 | 21 | 1035 | 30 |
+| Pearson Edexcel | 21 | 21 | 21 | 1099 | 0 | 21 | 1035 | 64 |
 | International Baccalaureate | 21 | 21 | 21 | 1066 | 0 | 20 | 928 | 138 |
 | OCR | 13 | 13 | 13 | 1289 | 0 | 13 | 1259 | 30 |
-| OxfordAQA | 30 | 30 | 30 | 1420 | 0 | 30 | 1347 | 73 |
+| OxfordAQA | 30 | 30 | 30 | 1480 | 0 | 30 | 1347 | 133 |
 
 ## By qualification
 
 | Qualification | Combinations | Resources (per-combination count, a resource can count for more than one) |
 | --- | --- | --- |
-| GCSE | 18 | 880 |
-| A Level | 59 | 3881 |
+| GCSE | 18 | 903 |
+| A Level | 59 | 3894 |
 | AS Level | 3 | 350 |
-| IGCSE | 47 | 1923 |
+| IGCSE | 47 | 2004 |
 | O Level | 18 | 820 |
 | IB Diploma Programme | 16 | 872 |
 | IB Middle Years Programme | 5 | 194 |
@@ -127,7 +127,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - AQA GCSE World History (8145): 1 review-pending resource(s) with no reviewer
 - AQA GCSE Mathematics (8300): 2 review-pending resource(s) with no reviewer
 - AQA GCSE Physics (8463): 2 review-pending resource(s) with no reviewer
-- AQA GCSE Psychology (8182): 10 review-pending resource(s) with no reviewer
+- AQA GCSE Psychology (8182): 33 review-pending resource(s) with no reviewer
 - AQA GCSE Sociology (8192): 2 review-pending resource(s) with no reviewer
 - AQA A Level Accounting (7127): 2 review-pending resource(s) with no reviewer
 - AQA A Level Biology (7402): 2 review-pending resource(s) with no reviewer
@@ -205,7 +205,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - Pearson Edexcel A Level Business (YBS11): 1 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level Chemistry (YCH11): 2 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level Economics (YEC11): 1 review-pending resource(s) with no reviewer
-- Pearson Edexcel A Level Law (YLA1): 1 review-pending resource(s) with no reviewer
+- Pearson Edexcel A Level Law (YLA1): 14 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level Mathematics (YMA01): 1 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level Physics (YPH11): 2 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level Urdu Language (9UR0): 2 review-pending resource(s) with no reviewer
@@ -219,7 +219,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - Pearson Edexcel IGCSE Accounting (4AC1): 2 review-pending resource(s) with no reviewer
 - Pearson Edexcel IGCSE Business (4BS1): 2 review-pending resource(s) with no reviewer
 - Pearson Edexcel GCSE Business (1BS0): 2 review-pending resource(s) with no reviewer
-- Pearson Edexcel IGCSE English Literature (4ET1): 1 review-pending resource(s) with no reviewer
+- Pearson Edexcel IGCSE English Literature (4ET1): 22 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level English Literature (YET01): 1 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Diploma Programme Psychology (DP Psychology (2019) / DP Psychology (2027)): 28 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Diploma Programme Economics (DP Economics): 1 review-pending resource(s) with no reviewer
@@ -249,14 +249,14 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - OxfordAQA IGCSE Chemistry (9202): 2 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Physics (9203): 1 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE English Language (9270): 1 review-pending resource(s) with no reviewer
-- OxfordAQA IGCSE English Literature (9275): 1 review-pending resource(s) with no reviewer
+- OxfordAQA IGCSE English Literature (9275): 19 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Geography (9230): 4 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE World History (9245): 1 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Islamiyat (9237): 1 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Pakistan Studies (9236): 1 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Psychology (9218): 12 review-pending resource(s) with no reviewer
-- OxfordAQA IGCSE Sociology (9292): 1 review-pending resource(s) with no reviewer
-- OxfordAQA IGCSE Urdu Language (9264): 2 review-pending resource(s) with no reviewer
+- OxfordAQA IGCSE Sociology (9292): 10 review-pending resource(s) with no reviewer
+- OxfordAQA IGCSE Urdu Language (9264): 35 review-pending resource(s) with no reviewer
 - OxfordAQA A Level Accounting (9615): 1 review-pending resource(s) with no reviewer
 - OxfordAQA A Level Business (9625 / 9725): 1 review-pending resource(s) with no reviewer
 - OxfordAQA A Level Computer Science (9645): 1 review-pending resource(s) with no reviewer
@@ -279,7 +279,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | None. | 14 |
 | Complete the assessment record from the official specification. | 1 |
 
-Overall: the largest outstanding item is human sign-off: 662 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
+Overall: the largest outstanding item is human sign-off: 779 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
 
 ## Every combination
 
@@ -293,7 +293,7 @@ Overall: the largest outstanding item is human sign-off: 662 review-pending reso
 | AQA | GCSE | World History | 8145 | 18 | 17 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | AQA | GCSE | Mathematics | 8300 | 42 | 40 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | AQA | GCSE | Physics | 8463 | 33 | 31 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| AQA | GCSE | Psychology | 8182 | 10 | 0 / 10 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | Psychology | 8182 | 33 | 0 / 33 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | AQA | GCSE | Sociology | 8192 | 29 | 27 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | AQA | A Level | Accounting | 7127 | 57 | 55 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | AQA | A Level | Biology | 7402 | 100 | 98 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
@@ -371,7 +371,7 @@ Overall: the largest outstanding item is human sign-off: 662 review-pending reso
 | Pearson Edexcel | A Level | Business | YBS11 | 29 | 28 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | A Level | Chemistry | YCH11 | 105 | 103 / 2 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | A Level | Economics | YEC11 | 120 | 119 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
-| Pearson Edexcel | A Level | Law | YLA1 | 9 | 8 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| Pearson Edexcel | A Level | Law | YLA1 | 22 | 8 / 14 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | A Level | Mathematics | YMA01 | 117 | 116 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | A Level | Physics | YPH11 | 47 | 45 / 2 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | A Level | Urdu Language | 9UR0 | 14 | 12 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
@@ -385,7 +385,7 @@ Overall: the largest outstanding item is human sign-off: 662 review-pending reso
 | Pearson Edexcel | IGCSE | Accounting | 4AC1 | 47 | 45 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | IGCSE | Business | 4BS1 | 47 | 45 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | GCSE | Business | 1BS0 | 56 | 54 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| Pearson Edexcel | IGCSE | English Literature | 4ET1 | 11 | 10 / 1 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
+| Pearson Edexcel | IGCSE | English Literature | 4ET1 | 32 | 10 / 22 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | A Level | English Literature | YET01 | 14 | 13 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Diploma Programme | Business | DP Business Management | 94 | 94 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Language A: Language and Literature | DP Language A: Language and Literature | 34 | 34 / 0 | VERIFIED_PARTIAL (component-based) | 0 | Complete the assessment record from the official specification. |
@@ -430,14 +430,14 @@ Overall: the largest outstanding item is human sign-off: 662 review-pending reso
 | OxfordAQA | IGCSE | Chemistry | 9202 | 63 | 61 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | Physics | 9203 | 74 | 73 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | English Language | 9270 | 14 | 13 / 1 | VERIFIED_COMPLETE (mixed) | 0 | Named-reviewer sign-off of review-pending resources. |
-| OxfordAQA | IGCSE | English Literature | 9275 | 11 | 10 / 1 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OxfordAQA | IGCSE | English Literature | 9275 | 29 | 10 / 19 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | Geography | 9230 | 14 | 10 / 4 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | World History | 9245 | 14 | 13 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | Islamiyat | 9237 | 13 | 12 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | Pakistan Studies | 9236 | 23 | 22 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | Psychology | 9218 | 12 | 0 / 12 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| OxfordAQA | IGCSE | Sociology | 9292 | 11 | 10 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| OxfordAQA | IGCSE | Urdu Language | 9264 | 11 | 9 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OxfordAQA | IGCSE | Sociology | 9292 | 20 | 10 / 10 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OxfordAQA | IGCSE | Urdu Language | 9264 | 44 | 9 / 35 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | A Level | Accounting | 9615 | 62 | 61 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | A Level | Business | 9625 / 9725 | 65 | 64 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | A Level | Computer Science | 9645 | 53 | 52 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |

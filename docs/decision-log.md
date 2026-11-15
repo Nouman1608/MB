@@ -16139,3 +16139,11 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - Owner, 15 Nov 2026: "upload onto R2 bucket" (storage for D-463).
 - **Fix.** R2 bucket `marlbridge-past-papers` created on 15 Nov 2026. `papers.marlbridge.com` added to `PAST_PAPER_FILE_HOSTS`. `docs/past-papers/README.md` gives the upload steps.
 - **Open.** The custom domain must be connected in the Cloudflare dashboard before any file URL works. The per-board rights notes and the editorial-policy wording (D-463) are still needed before the first entry.
+
+## D-470 - Subtopic pages for six of the thinnest courses (15 Nov 2026)
+
+- Owner, 15 Nov 2026 ("add resources to the thinnest courses"). Six of the thinnest courses had every subtopic covered only by broad pages, or, for OxfordAQA IGCSE Urdu 9264, only by pages tagged at topic level. Each subtopic now has its own study guide, revision notes and practice set (only the types it lacked).
+- **Pages.** 117 new pages: OxfordAQA IGCSE Urdu 9264 (33, all 11 themes), AQA GCSE Psychology 8182 (23), Pearson Edexcel IGCSE English Literature 4ET1 (21), OxfordAQA IGCSE English Literature 9275 (18; Route A and Route B share pages where they test the same section), Pearson Edexcel International A Level Law YLA1 (13) and OxfordAQA IGCSE Sociology 9292 (9; Research methods serves both papers). All are `review-pending` under the Marlbridge Academic Team with no reviewer; 52 carry `reviewNeeded`, including every Urdu page (an Urdu specialist should check the Urdu).
+- **Content rules.** Literature pages teach method; they quote set and anthology texts by a few words at most and use original unseen passages. Law and Psychology pages cite only cases, statutes and studies the writers were certain of (each writer listed theirs for a check). The Law YLA1 and Sociology 9292 pages were written against the downloaded Pearson Issue 4 and OxfordAQA Version 1.0 specifications.
+- **Points for a teacher.** The existing Edexcel 4ET1 pages disagree on whether anthology poems are printed in the exam; the Law 2.1 guide treats negligence as a second claim, while the existing Paper 2 guide treats it as an alternative route of study.
+- **Not changed.** Cambridge O Level Urdu 3247/3248 and O Level English Language 1123 have no subtopics in their topic maps and already have full topic-level sets.
