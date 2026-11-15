@@ -53,6 +53,7 @@ const bySlug = new Map(data.topics.map((t) => [t.topic.slug, t]));
 const covered = data.topics.filter((t) => t.count > 0).length;
 
 const TYPE_TAG: Record<string, string> = { 'subject-guides': 'Course guide', 'learning-articles': 'Article', 'past-papers': 'Past papers guide', 'exam-preparation': 'Exam preparation' };
+const pill = 'max-w-[34ch] truncate rounded-sm border border-gold-500 px-2 py-0.5 text-[13px] text-navy-800 no-underline hover:bg-ivory';
 const searchText = (...parts: (string | undefined)[]) => parts.filter(Boolean).join(' ').toLowerCase();
 const hasAny = (g: KindGroups) => KIND_ORDER.some((k) => g[k].length > 0);
 // Review fix: search examples come from this course's own topic list, not
@@ -145,15 +146,16 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
               const t = entry.topic;
               const lang = nameRtlLang(t.name, rtl);
               const fc = flashcards?.[t.slug];
+              const multi = KIND_ORDER.some((k) => entry.groups[k].length > 1);
               return (
                 <li id={topicAnchor(t.slug)} class="m-0 scroll-mt-24 border-t border-rule px-1 py-3 first:border-t-0" data-topic data-search={searchText(String(t.number), t.name, ...t.subtopics.map((s) => s.name))}>
                   <div class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-2">
                     <span class="text-[16px] leading-snug text-navy-800"><span class="font-mono text-[13px] text-ink-mute">{t.number}</span> {lang ? <bdi dir="rtl" lang={lang}>{t.name}</bdi> : t.name}</span>
                     <span class="flex flex-wrap items-center gap-2">
-                      {KIND_ORDER.map((k) => entry.groups[k].length > 0 && (
+                      {!multi && KIND_ORDER.map((k) => entry.groups[k].length > 0 && (
                         <span data-kind-group={k} class="contents">
                           {entry.groups[k].map((r) => (
-                            <a href={routes.resource(r.id)} data-res data-course-resource={k} title={r.title} data-search={searchText(r.title, r.description, MODE[k].label, TYPE_TAG[r.resourceType])} class="max-w-[30ch] truncate rounded-sm border border-gold-500 px-2 py-0.5 text-[13px] text-navy-800 no-underline hover:bg-ivory">{MODE[k].singular}{entry.groups[k].length > 1 && <span class="text-ink-mute">: {shortTitle(r.title, context)}</span>}</a>
+                            <a href={routes.resource(r.id)} data-res data-course-resource={k} title={r.title} data-search={searchText(r.title, r.description, MODE[k].label, TYPE_TAG[r.resourceType])} class={pill}>{MODE[k].singular}</a>
                           ))}
                         </span>
                       ))}
@@ -161,6 +163,20 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
                       {entry.count === 0 && <span class="text-[13px] text-ink-mute">No resources yet</span>}
                     </span>
                   </div>
+                  {multi && (
+                    <div class="mt-2 grid gap-y-1.5 ps-5">
+                      {KIND_ORDER.map((k) => entry.groups[k].length > 0 && (
+                        <div data-kind-group={k} class="flex flex-wrap items-center gap-x-2 gap-y-1.5 sm:flex-nowrap">
+                          <span class="w-[8.5rem] shrink-0 text-[13px] font-medium text-ink-mute">{entry.groups[k].length > 1 ? MODE[k].label : MODE[k].singular}</span>
+                          <span class="flex flex-wrap gap-2">
+                            {entry.groups[k].map((r) => (
+                              <a href={routes.resource(r.id)} data-res data-course-resource={k} title={r.title} data-search={searchText(r.title, r.description, MODE[k].label, TYPE_TAG[r.resourceType])} class={pill}>{entry.groups[k].length > 1 ? shortTitle(r.title, context) : MODE[k].singular}</a>
+                            ))}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  )}
                 </li>
               );
             })}
