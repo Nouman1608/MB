@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-developmental-psychology"
 description: "IB DP Psychology developmental option revision notes: peers and play, trauma and resilience, poverty, brain and cognitive development, attachment and identity."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-11-15
+  scope: "official-specification"
 reviewStatus: "review-pending"
 reviewNeeded: true
 reviewNote: "Check study details and figures against the original papers and the IB Psychology guide (first assessment 2019) before teacher sign-off."
