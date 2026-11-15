@@ -1,0 +1,1087 @@
+{
+  "meta": {
+    "decision": "D-465",
+    "rubric": "src/utils/academic/qa-rubric.ts (rubric 1.0.0); framework: docs/academic-qa/framework.md",
+    "meaning": "Rubric assessments of single resources against the ten checks and seven weighted categories. A record is evidence of an assessment, never an approval: approval is a separate record in docs/reports/academic-review/teacher-verifications.json. method 'ai-assisted' means an AI system read the page against the cited official documents; it is not a teacher review. Totals and bands are computed from the categories by the scorecard and are never stored here. Records are append-only: a reassessment is a new record with a new id; the newest record for a resource wins.",
+    "fields": {
+      "id": "QA-0001, unique, never reused",
+      "resource": "resource slug (file name without .md) in src/content/resources/",
+      "rubricVersion": "1.0.0",
+      "method": "ai-assisted | human",
+      "assessor": "'AI-assisted (<model id>)' for ai-assisted; an author profile id with isReviewer: true covering the resource's boards and subject for human",
+      "humanEvidence": "human only: where the teacher's own record is kept (signed form reference, email date)",
+      "date": "YYYY-MM-DD the assessment was done",
+      "contentSha256": "sha256 of the resource as assessed (LF line endings), leaving out the frontmatter lines reviewNote, featured and order (scripts/lib/academic-qa-data.mjs HASH_EXCLUDED_KEYS); a later change to anything else makes the record stale (REVERIFICATION_REQUIRED)",
+      "syllabus": "{ board, code, series } the page was assessed against",
+      "sources": "[{ title, url, localRef? }]: at least one on the board's official domain; localRef is the file name in the owner's 'resource check' folder (see source-manifest.json)",
+      "categories": "{ <category id>: { points, evidence, reasoning } } for the seven categories; worked-answers-exam-alignment may be { applicable: false, reasoning }",
+      "checks": "{ '1'..'10': { result: pass | issues-found | not-applicable, note } }",
+      "findings": "[{ id, check, severity: critical|major|minor|advisory, hardStop: <code>|null, location, description, evidence, status: open|fixed|wont-fix, resolution }]",
+      "limitations": "what this assessment did not or could not check",
+      "reassessmentOf": "optional: the id of the earlier record this one replaces after a correction (the earlier record is kept)",
+      "assessedFileCommit": "optional: the commit whose copy of the resource was assessed, so the hash can be reproduced"
+    }
+  },
+  "results": [
+    {
+      "id": "QA-0001",
+      "resource": "igcse-chemistry-0620-elements-atomic-structure-and-isotopes",
+      "rubricVersion": "1.0.0",
+      "method": "ai-assisted",
+      "assessor": "AI-assisted (claude-opus-5-5)",
+      "date": "2026-11-15",
+      "contentSha256": "68c2dfb005963c89db29439ca152e6861a56b4996398b5123968d5c470e767bd",
+      "syllabus": {
+        "board": "cambridge",
+        "code": "0620",
+        "series": "2026-2028 (version 2, August 2026)"
+      },
+      "sources": [
+        {
+          "title": "Cambridge IGCSE Chemistry 0620 syllabus for 2026, 2027 and 2028, version 2",
+          "url": "https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf",
+          "localRef": "Cambridge/IGCSE/Cambridge-IGCSE-Chemistry-0620-syllabus-2026-2028.pdf",
+          "pagesRead": "1, 9, 13, 14, 58"
+        }
+      ],
+      "categories": {
+        "syllabus-alignment": {
+          "points": 19,
+          "evidence": "Syllabus p.13: 2.1 Core 1; 2.2 Core 1-6, no Supplement; 2.3 Core 1-2, Supplement 3-4. The page table lists 2.1.1, 2.2.1-2.2.6, 2.3.1-2.3.4 with exactly these tiers ('Extended only' on 2.3.3, 2.3.4). None missing, none invented. Definitions of proton number, mass number and isotopes match the syllabus wording. 'version 2 (August 2026)' matches p.58.",
+          "reasoning": "Coverage and tiering complete and correct; half a point off because the outcome column paraphrases the syllabus without saying so (F1)."
+        },
+        "factual-accuracy": {
+          "points": 19.5,
+          "evidence": "Particle table +1/1, 0/1, -1/'1/1840 (negligible)' (true ratio about 1/1836, page says 'roughly'). Element/compound/mixture definitions and separation table correct. The 3.2 cross-reference to 1/12 of a carbon-12 atom matches p.14. Isotope chemistry explanation matches 2.3 Supplement 3.",
+          "reasoning": "No factual errors found; half a point held for notation ambiguity (F3, F4)."
+        },
+        "worked-answers-exam-alignment": {
+          "points": 19.5,
+          "evidence": "Recomputed all ten worked examples: e.g. Al3+ 13-3=10 e; S2- 16+2=18 e; Ca 2,8,8,2; 2+8+5=15 so Group V Period 3 (P); Ar-40 22 n vs Ca-40 20 n, not isotopes; 10x20+11x80=1080, /100=10.8; Mg 24x79+25x10+26x11=2432, /100=24.32 -> 24.3; Cl 2625+925=3550, /100=35.5. All correct.",
+          "reasoning": "Every worked answer correct and Extended-only items labelled; half a point held because the claim that a plain average 'scores no credit' was not checked against a mark scheme."
+        },
+        "depth-teaching-value": {
+          "points": 14,
+          "evidence": "Ten worked examples cover every outcome; misconception callouts (O2 is an element; 'pure' is not 'element'; ionic lattice is not a mixture); Ar sense check; common errors; FAQ; next steps to practice, bonding guides and 0620 Core/Extended diagnostics.",
+          "reasoning": "Strong for the declared scope; one point off because the page has no self-test items of its own."
+        },
+        "source-traceability": {
+          "points": 8.5,
+          "evidence": "The 'Official syllabus' section names the 0620 2026-2028 syllabus, version 2 (August 2026), sub-topics 2.1-2.3, without a URL in the body; the ledger records the correct 697205 PDF. Examples are generic; no reproduced past-paper text found.",
+          "reasoning": "Accurate, specific citation; not linked in the body (F6)."
+        },
+        "clarity-accessibility": {
+          "points": 9,
+          "evidence": "Logical headings; tables for outcomes, particles, classification; all 12 figures have specific alt text consistent with the text. 'Ar' used for both relative atomic mass and argon; signed-charge ion rule vs '16 + 2' in WE3; two isotope figures placed after WE10.",
+          "reasoning": "Clear and accessible; one point off for notation and figure placement (F3-F5)."
+        },
+        "editorial-completeness": {
+          "points": 4,
+          "evidence": "author marlbridge-academic-team; reviewer nouman-ahmed (isReviewer, Chemistry, Cambridge); reviewStatus reviewed (D-379 credit); publishedDate 2026-10-04. reviewNote records no scope; no teacher-verifications.json record; description ends 'shells and isotopes, worked.'",
+          "reasoning": "Fields complete and consistent; no documented verification and an awkward description (F7)."
+        }
+      },
+      "checks": {
+        "1": {
+          "result": "issues-found",
+          "note": "All 11 outcomes of 2.1-2.3 present with correct tiers; paraphrased wording (F1), site numbering convention (F2), O Level-named image asset (F8)."
+        },
+        "2": {
+          "result": "pass",
+          "note": "No factual errors found."
+        },
+        "3": {
+          "result": "pass",
+          "note": "All ten worked examples and the figure calculations recomputed and correct."
+        },
+        "4": {
+          "result": "pass",
+          "note": "Good depth for a study guide of this scope."
+        },
+        "5": {
+          "result": "issues-found",
+          "note": "Official syllabus named accurately but not linked in the body (F6)."
+        },
+        "6": {
+          "result": "issues-found",
+          "note": "Advisory notation and figure-placement points (F3-F5)."
+        },
+        "7": {
+          "result": "pass",
+          "note": "Generic, original examples; no past-paper reproduction found."
+        },
+        "8": {
+          "result": "issues-found",
+          "note": "Minimal reviewNote, no documented verification, awkward description (F7)."
+        },
+        "9": {
+          "result": "pass",
+          "note": "2026-2028 is current on 15 Nov 2026; version 2 matches p.58."
+        },
+        "10": {
+          "result": "pass",
+          "note": "Next steps link existing 0620 resources, the checklist, diagnostics and the hub."
+        }
+      },
+      "findings": [
+        {
+          "id": "F1",
+          "check": 1,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Table 'What these sub-topics cover', rows 2.2.1, 2.3.3, 2.3.4",
+          "description": "The column headed '0620 outcome' paraphrases the syllabus without saying it is a paraphrase.",
+          "evidence": "Page: 'Describe the atom as a central nucleus of protons and neutrons, surrounded by electrons in shells'. Syllabus p.13: 'Describe the structure of the atom as a central nucleus containing neutrons and protons surrounded by electrons in shells'.",
+          "status": "open"
+        },
+        {
+          "id": "F2",
+          "check": 1,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Outcome numbering 2.1.1-2.3.4; row 2.2.6",
+          "description": "The syllabus numbers outcomes 1-n inside each sub-topic (Supplement 3, 4); '2.3.3/2.3.4' is a site convention. Row 2.2.6 compresses a three-part 'State that: (a)...(c)' (the body lists all three).",
+          "evidence": "Page: '2.2.6 | State the links between electronic configuration, group and period'. Syllabus p.13: '6 State that: (a) Group VIII noble gases have a full outer electron shell'.",
+          "status": "open"
+        },
+        {
+          "id": "F3",
+          "check": 6,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "WE9, WE10 code blocks; WE4, WE8",
+          "description": "'Ar' for relative atomic mass (no subscript) is written the same as the argon symbol used elsewhere on the page.",
+          "evidence": "Page: 'Ar = (10 × 20 + 11 × 80) ÷ 100' and WE4 'Ar  18 electrons'.",
+          "status": "open"
+        },
+        {
+          "id": "F4",
+          "check": 6,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Proton number and mass number, rule block",
+          "description": "'electrons = proton number − charge' works only with a signed charge, while WE3 writes 16 + 2.",
+          "evidence": "Page rule block vs WE3 'S2− ... 16 + 2 = 18'.",
+          "status": "open"
+        },
+        {
+          "id": "F5",
+          "check": 6,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Figures after Worked example 10",
+          "description": "The isotopes-or-not figure (WE8) and the Cl-35/37 figure sit after WE10, away from the text they illustrate.",
+          "evidence": "figcaption 'Isotopes have the same proton number and different neutron numbers.' follows WE10.",
+          "status": "open"
+        },
+        {
+          "id": "F6",
+          "check": 5,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Official syllabus section",
+          "description": "The official PDF is cited accurately but not hyperlinked in the body (the page template's own official-link block was not checked here).",
+          "evidence": "Page names the 2026-2028 version 2 syllabus without a link; official URL .../697205-2026-2028-syllabus.pdf.",
+          "status": "open"
+        },
+        {
+          "id": "F7",
+          "check": 8,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Frontmatter reviewNote and description",
+          "description": "The review note records no scope, no documented teacher verification exists, and the meta description ends with a fragment.",
+          "evidence": "reviewNote '2026-11-08: reviewed by nouman-ahmed.'; description '...atomic structure, shells and isotopes, worked.'",
+          "status": "open"
+        },
+        {
+          "id": "F8",
+          "check": 1,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Worked example 1 figure",
+          "description": "The image asset is named after the O Level page; its content is board-neutral and correct for 0620, so this is asset hygiene, not contamination.",
+          "evidence": "src 'cambridge-o-level-chemistry-elements-compounds-and-mixtures-atomic-structure--04-iron-sulfur-mixture-compound.webp'.",
+          "status": "open"
+        }
+      ],
+      "limitations": "AI-assisted, not a teacher review. Syllabus read as extracted text. Images not viewed (alt text and captions only). Mark-scheme acceptability (a plain average 'scores no credit') not checked. Page rendering not checked. Major findings were re-checked by the lead against the page and the PDF before recording.",
+      "assessedFileCommit": "47e84134d"
+    },
+    {
+      "id": "QA-0002",
+      "resource": "a-level-aqa-chemistry-relative-mass-and-the-mole",
+      "rubricVersion": "1.0.0",
+      "method": "ai-assisted",
+      "assessor": "AI-assisted (claude-opus-5-5)",
+      "date": "2026-11-15",
+      "contentSha256": "9c8f0800ab84af507d0c2f707afd946c11bf6adbd7c0be0565aa0256746f6957",
+      "syllabus": {
+        "board": "aqa",
+        "code": "7405",
+        "series": "2015 onwards (AS content of the A Level)"
+      },
+      "sources": [
+        {
+          "title": "AQA AS and A-level Chemistry (7404, 7405) specification, version 1.1",
+          "url": "https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-7404-7405-SP-2015.PDF",
+          "localRef": "AQA/AQA-AS-A-level-Chemistry-7404-7405-specification-2015.pdf",
+          "pagesRead": "1, 8-11, 13, 15-17, 79-80"
+        }
+      ],
+      "categories": {
+        "syllabus-alignment": {
+          "points": 14,
+          "evidence": "Maps to 3.1.2.1 and 3.1.2.2; spec p.15 content matches (Ar/Mr against 12C; relative formula mass for ionic compounds; three calculation bullets; Avogadro constant not to be recalled). 'AS-shared content' matches p.13 (3.1.1-3.1.7). No 7404 assessment detail misattributed. But four of seven figures teach 3.1.2.3-3.1.2.5, which the page says are out of scope, and two carry Edexcel/OCR labels.",
+          "reasoning": "Core mapping and the AS/A Level distinction are right; marks off for out-of-scope and cross-board-labelled figures (F1, F2, major) and skills text presented as content (F3)."
+        },
+        "factual-accuracy": {
+          "points": 17,
+          "evidence": "Definitions acceptable; NaCl 2 ions, MgCl2 3 ions; Avogadro 6.02 × 10^23 mol^-1; ideal-gas figure conversions 96.0 kPa = 96 000 Pa, 0.750 dm3 = 7.50 × 10^-4 m3, 18 °C = 291 K correct. Circular mole definition.",
+          "reasoning": "No materially wrong chemistry; precision issues (F4) and one uncertain point (F5)."
+        },
+        "worked-answers-exam-alignment": {
+          "points": 17,
+          "evidence": "Main example: 0.250 dm3 × 0.20 = 0.050 mol; × 6.02e23 = 3.01e22 -> 3.0e22 (2 s.f.); × 2 = 6.0e22 ions, correct. Figures recomputed: Cl 35.5; Ti 1000/47.9 × 2 × 24.3 = 1014.6 g; atom economy 47.9/238.5 = 20.1%; n = 72.0/(8.31 × 291) = 0.0298; CH2O × 6 = C6H12O6. All correct.",
+          "reasoning": "Arithmetic correct; figures break the page's own significant-figure rule (F6); no practice items."
+        },
+        "depth-teaching-value": {
+          "points": 10,
+          "evidence": "Formula triangle, one worked example, key terms, common mistakes, checklist, FAQ. No worked example in the text for the spec's 'mass of substance, Mr, and amount in moles' (p.15); gas, empirical-formula and atom-economy figures have no explanation.",
+          "reasoning": "Sound but thin; one named calculation type appears only in a figure (F7)."
+        },
+        "source-traceability": {
+          "points": 7,
+          "evidence": "Official AQA specification PDF linked; syllabus-coverage text paraphrases p.15 with attribution. Caption 'Edexcel worked example.' has no source. Link text 'aqa.org.uk/7405' points to the filestore PDF.",
+          "reasoning": "Official source present; a figure labelled with another board is unexplained (F9, F11)."
+        },
+        "clarity-accessibility": {
+          "points": 6.5,
+          "evidence": "Clear headings; detailed alt text. Figures placed after 'Syllabus coverage' and 'Key terms' with no text referring to them; ideal-gas alt text omits the gas and R; plain 'dm3', 'x10^23' in code blocks.",
+          "reasoning": "Readable, but figure placement contradicts the stated scope and the sequence (F8)."
+        },
+        "editorial-completeness": {
+          "points": 3.5,
+          "evidence": "Frontmatter complete. reviewNote 'FAQ section added; please re-review; ... 2026-11-08: reviewed by nouman-ahmed.' Ledger: TEACHER_CREDITED, no dated line-by-line review on record.",
+          "reasoning": "Fields present; the credit coexists with the out-of-scope figures (F10)."
+        }
+      },
+      "checks": {
+        "1": {
+          "result": "issues-found",
+          "note": "3.1.2.1/3.1.2.2 correct (p.15); figures stray into 3.1.2.3-3.1.2.5 with Edexcel/OCR labels (F1, F2); skills column as content (F3)."
+        },
+        "2": {
+          "result": "issues-found",
+          "note": "No material errors; circular mole definition (F4); supplied Avogadro value uncertain (F5)."
+        },
+        "3": {
+          "result": "issues-found",
+          "note": "All calculations recomputed correct; figure significant figures inconsistent (F6)."
+        },
+        "4": {
+          "result": "issues-found",
+          "note": "Mass/Mr/moles not worked in the text; figures unexplained (F7)."
+        },
+        "5": {
+          "result": "issues-found",
+          "note": "Official PDF linked; 'Edexcel worked example' unattributed (F9); link text vs URL (F11)."
+        },
+        "6": {
+          "result": "issues-found",
+          "note": "Unreferenced figures, incomplete ideal-gas alt text, plain-text notation (F8)."
+        },
+        "7": {
+          "result": "issues-found",
+          "note": "A figure is labelled as another board's worked example; origin unconfirmed (F9)."
+        },
+        "8": {
+          "result": "issues-found",
+          "note": "Credit not backed by a documented review; reviewNote asks for re-review (F10)."
+        },
+        "9": {
+          "result": "pass",
+          "note": "7405 (first teaching 2015) is current. The local PDF is v1.1; the taxonomy cites v1.2 (July 2026), not read."
+        },
+        "10": {
+          "result": "pass",
+          "note": "Related links resolve; FAQ and checklist give next steps."
+        }
+      },
+      "findings": [
+        {
+          "id": "F1",
+          "check": 1,
+          "severity": "major",
+          "hardStop": null,
+          "location": "'Scope of this guide'; figures 04, 05, 07, 08",
+          "description": "The page says the ideal gas equation, empirical/molecular formula and balanced-equation calculations are left for separate resources, yet four figures teach exactly those (spec 3.1.2.3-3.1.2.5) with no accompanying text.",
+          "evidence": "Page lines 44-45: 'the ideal gas equation, empirical/molecular formula and balanced-equation calculations are left for separate resources.' Figures: 'n = pV/RT gives 0.0298 mol', 'molecular formula C6H12O6', 'atom economy is 20.1%'. Spec pp.16-17 place these in 3.1.2.3-3.1.2.5. Verified by the lead.",
+          "status": "open"
+        },
+        {
+          "id": "F2",
+          "check": 1,
+          "severity": "major",
+          "hardStop": null,
+          "location": "Figure 07 caption; figure 01 alt text",
+          "description": "Cross-board labelling on an AQA-only page, including a molar-gas-volume route (12.0 dm3 for 0.50 mol) that AQA 3.1.2 does not use (AQA uses pV = nRT in SI units). Not a hard-stop: the chemistry is valid, but AQA students are pointed at another board's method.",
+          "evidence": "Page line 75: 'Edexcel worked example.'; figure 01 alt: 'gas-volume route is tagged OCR and Edexcel.' Spec p.16: 'The ideal gas equation pV = nRT with the variables in SI units'; no molar-volume statement in 3.1.2. Verified by the lead.",
+          "status": "open"
+        },
+        {
+          "id": "F3",
+          "check": 1,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Syllabus coverage, 3.1.2.2",
+          "description": "A statement from the 'Opportunities for skills development' column (MS 1.1) is presented as part of the 3.1.2.2 content.",
+          "evidence": "Page: 'are expected to report calculated results only to the limits of the least accurate measurement used.' Spec p.15, skills column.",
+          "status": "open"
+        },
+        {
+          "id": "F4",
+          "check": 2,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Key terms, Mole",
+          "description": "The mole definition is circular and conflates the number of entities with the Avogadro constant (units mol^-1).",
+          "evidence": "Page: 'contains the same number of specified elementary entities ... as the Avogadro constant.'",
+          "status": "open"
+        },
+        {
+          "id": "F5",
+          "check": 2,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "FAQ, Avogadro constant",
+          "description": "Uncertain: AQA papers may supply 6.022 × 10^23 mol^-1 rather than 6.02; not verifiable from the specification.",
+          "evidence": "Page: 'typically as 6.02 × 10²³ mol⁻¹.' Spec p.15 says only that the value need not be recalled.",
+          "status": "open"
+        },
+        {
+          "id": "F6",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Figure 07 and figure 01 alt text",
+          "description": "Answers quoted to more significant figures than the data allow, against the page's own advice.",
+          "evidence": "Page: 'about 1015 g (1.01 kg)'; '0.50 mol of CO2 ... mass (22.0 g), particles (3.01 x 10^23)'. With 2 s.f. data: 22 g, 3.0 × 10^23.",
+          "status": "open"
+        },
+        {
+          "id": "F7",
+          "check": 4,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Worked example section",
+          "description": "Only the concentration-to-particles route is worked in the text; the spec's mass/Mr/moles calculation appears only as a figure label.",
+          "evidence": "Spec p.15: 'using mass of substance, Mr, and amount in moles'. Page has one heading 'Worked example: concentration to number of particles'.",
+          "status": "open"
+        },
+        {
+          "id": "F8",
+          "check": 6,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Figure placement; figure 04 alt text; code blocks",
+          "description": "Figures are not referenced by the text and appear out of sequence; the ideal-gas alt text omits the gas and R, so '2.11 g' cannot be followed (back-calculated Mr 70.9, Cl2, not stated).",
+          "evidence": "Alt: 'n = pV/RT gives 0.0298 mol and a mass of 2.11 g.'; code block '0.050 x 6.02x10^23'.",
+          "status": "open"
+        },
+        {
+          "id": "F9",
+          "check": 7,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Figure 07 caption",
+          "description": "Uncertain origin: the caption calls the figure another board's worked example without attribution. Confirm it is original and drop the board label.",
+          "evidence": "Page line 75: 'Balanced equation, moles, mole ratio, then mass. Edexcel worked example.'",
+          "status": "open"
+        },
+        {
+          "id": "F10",
+          "check": 8,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Frontmatter reviewNote",
+          "description": "The credit was applied the same day as a 're-review' request; the ledger shows no documented review, so the credit must not be read as a verification.",
+          "evidence": "reviewNote: 'FAQ section added; please re-review; ... 2026-11-08: reviewed by nouman-ahmed.'",
+          "status": "open"
+        },
+        {
+          "id": "F11",
+          "check": 5,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Official syllabus link",
+          "description": "Link text names the 7405 landing page but the URL is the specification PDF (both official; cosmetic).",
+          "evidence": "Page: '[aqa.org.uk/7405](https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-7404-7405-SP-2015.PDF)'.",
+          "status": "open"
+        }
+      ],
+      "limitations": "AI-assisted, not a teacher review. Images not viewed (alt text and captions only). Spec read as extracted text, v1.1 (Dec 2015); the taxonomy cites v1.2 (July 2026), not read. Supplied Avogadro value not checked against a data sheet. Out of scope but noted: the taxonomy lists 3.1.2.1-3.1.2.4 and omits 3.1.2.5 (spec p.17); the same cross-board figures appear in two other AQA resources. Major findings were re-checked by the lead against the page and the PDF before recording.",
+      "assessedFileCommit": "47e84134d"
+    },
+    {
+      "id": "QA-0003",
+      "resource": "a-level-psychology-clinical-psychology-practice",
+      "rubricVersion": "1.0.0",
+      "method": "ai-assisted",
+      "assessor": "AI-assisted (claude-opus-5-5)",
+      "date": "2026-11-15",
+      "contentSha256": "6d8288298149bed0893258fda1ea07f6927cc3e22a91ab7cb85e046a595f74b7",
+      "syllabus": {
+        "board": "cambridge",
+        "code": "9990",
+        "series": "2024-2026"
+      },
+      "sources": [
+        {
+          "title": "Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, version 1",
+          "url": "https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf",
+          "localRef": "Cambridge/AS-A-Level/Cambridge-AS-A-Level-Psychology-9990-syllabus-2024-2026.pdf",
+          "pagesRead": "1, 10-11, 25-31, 51-54"
+        }
+      ],
+      "categories": {
+        "syllabus-alignment": {
+          "points": 18,
+          "evidence": "Every named item is in Option 1 content (pp.27-31): negative symptoms and Freeman et al. (2003) (1.1.1); typical/atypical antipsychotics (1.1.3); Beck (1.2.2); tricyclics and SSRIs (1.2.3); positive reinforcement and Grant et al. (2008) (1.3); systematic desensitisation, Chapman and DeLapp (2013), Little Hans (1.4); Y-BOCS, operant conditioning, Lovell et al. (2006) (1.5). Key-study names match p.26. Cover: 'Use this syllabus for exams in 2024, 2025 and 2026.'",
+          "reasoning": "Accurate, complete alignment for what is tested; deducted for currency (F5): the series ends with November 2026 and the page says nothing about 2027 onwards."
+        },
+        "factual-accuracy": {
+          "points": 18,
+          "evidence": "Negative symptoms list, negative triad, tricyclic vs SSRI mechanisms, variable-ratio reinforcement, systematic desensitisation, applied tension for blood-injury-injection phobia, negative reinforcement of compulsions, Y-BOCS 10 items × 0-4 = 0-40, Lovell et al. random allocation all correct.",
+          "reasoning": "No material error; small precision points (F3 uncertain, F4). Study details beyond syllabus titles checked from subject knowledge, scored conservatively."
+        },
+        "worked-answers-exam-alignment": {
+          "points": 16,
+          "evidence": "Paper 3 (p.51): three questions worth 14 marks and an essay of 6 + 10. Page Section A: Q1 2+4, Q2 3+2, Q3 3 = 14; Q4 6+10 = 16; total 30 = 'Each specialist option is out of 30 marks' (p.10). Essay on 1.4, a different topic from the short answers. Command words all in the p.54 table. Answers given for every question.",
+          "reasoning": "Tariffs and answers accurate; deducted for a top-band-only levels scheme on 4(b) (F1) and a Paper 4 section that does not mirror Paper 4 Section A (F2)."
+        },
+        "depth-teaching-value": {
+          "points": 12.5,
+          "evidence": "4(b) indicative content develops effectiveness, limits, idiographic vs nomothetic, reductionism, practicality, conclusion; 'Where marks are usually lost' gives five concrete errors; scenario and methods items.",
+          "reasoning": "Good exam-focused value; coverage is a sample of the option (F6)."
+        },
+        "source-traceability": {
+          "points": 9,
+          "evidence": "'Official syllabus' section links the 634461 PDF and names Specialist Option 1 and section 4. Studies cited by author and year as on p.26. Disclaimer: not taken from any past paper.",
+          "reasoning": "Traceable; originality against the past-paper archive not verified."
+        },
+        "clarity-accessibility": {
+          "points": 9,
+          "evidence": "Clear H2 sections; bold question numbers with [n] tariffs; numbered answers; no images; internal links resolve to existing resources.",
+          "reasoning": "Well organised; mark points inline as '(1)' in dense paragraphs."
+        },
+        "editorial-completeness": {
+          "points": 3,
+          "evidence": "author marlbridge-academic-team, publishedDate 2026-11-08, no reviewer; ledger UNVERIFIED; OT-4 open. The unsupported 'Checked by' line is gone.",
+          "reasoning": "No false review claim; no accountable reviewer yet (F7)."
+        }
+      },
+      "checks": {
+        "1": {
+          "result": "pass",
+          "note": "All named studies, disorders, treatments and measures are in Option 1 content pp.26-31."
+        },
+        "2": {
+          "result": "issues-found",
+          "note": "No material errors; two precision points (F3 uncertain, F4)."
+        },
+        "3": {
+          "result": "issues-found",
+          "note": "Tariffs correct (14 + 6 + 10 = 30); 4(b) levels incomplete (F1); Paper 4 section format (F2)."
+        },
+        "4": {
+          "result": "issues-found",
+          "note": "Strong exam guidance; many option items untested (F6)."
+        },
+        "5": {
+          "result": "pass",
+          "note": "Correct official URL and section named."
+        },
+        "6": {
+          "result": "pass",
+          "note": "Logical headings, tariffs shown, links resolve."
+        },
+        "7": {
+          "result": "pass",
+          "note": "Original-looking questions with disclaimer (not compared with an archive)."
+        },
+        "8": {
+          "result": "issues-found",
+          "note": "No named reviewer; OT-4 human check outstanding (F7)."
+        },
+        "9": {
+          "result": "issues-found",
+          "note": "Series current only through November 2026; no note about 2027 onwards; no later 9990 record (F5)."
+        },
+        "10": {
+          "result": "pass",
+          "note": "Related links and next steps present."
+        }
+      },
+      "findings": [
+        {
+          "id": "F1",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Answers, 4(b)",
+          "description": "The 10-mark evaluate answer gives only the top band, so a student cannot place an answer below 9 marks.",
+          "evidence": "Page: 'Level-based: 9–10 marks for detailed, balanced evaluation with an issue developed and a conclusion.' No lower bands.",
+          "status": "open"
+        },
+        {
+          "id": "F2",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Section B ('Paper 4 style')",
+          "description": "Section B has four questions worth 22 marks and repeats topics 1.1 and 1.3, while Paper 4 Section A has two structured questions worth 18 marks per option.",
+          "evidence": "Syllabus p.10 'Each specialist option is out of 18 marks'; p.51 'two structured questions on each'. Page Q5-Q8: 9+4+6+3 = 22.",
+          "status": "open"
+        },
+        {
+          "id": "F3",
+          "check": 2,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Answers, 1(b)",
+          "description": "Uncertain: the Freeman et al. procedure answer leaves the order of the symptom assessments open; not checked against the primary paper.",
+          "evidence": "Page: 'Before or after the VR experience they completed dimensional assessments of psychiatric symptoms'.",
+          "status": "open"
+        },
+        {
+          "id": "F4",
+          "check": 2,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Answers, 7(a)",
+          "description": "Overstated: crossover drug trials with a washout period exist, so 'cannot' should read 'is less suitable'.",
+          "evidence": "Page: 'a patient cannot take both drugs in sequence without carry-over effects or risk to health'.",
+          "status": "open"
+        },
+        {
+          "id": "F5",
+          "check": 9,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Opening paragraph / Official syllabus section",
+          "description": "The 2024-2026 series ends with the November 2026 series; the page says nothing to students sitting in 2027 or later, and the taxonomy has no later 9990 record. Whether a 2027 syllabus changes Option 1 was not checked.",
+          "evidence": "PDF cover: 'Use this syllabus for exams in 2024, 2025 and 2026.' syllabus-topics.ts: single 9990 record, effectiveTo '2026'.",
+          "status": "open"
+        },
+        {
+          "id": "F6",
+          "check": 4,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Opening paragraph",
+          "description": "'Covers all five topics' is true at topic level, but many listed items are untested, so it should not be read as full coverage of the option.",
+          "evidence": "Untested items in pp.27-31 include bipolar disorder, kleptomania, pyromania, BDI, GAD-7, ERP, ECT, REBT.",
+          "status": "open"
+        },
+        {
+          "id": "F7",
+          "check": 8,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Frontmatter",
+          "description": "No accountable reviewer; a human check against the syllabus is still needed (OT-4). This AI-assisted assessment is not that check.",
+          "evidence": "No reviewer field; ledger outcome UNVERIFIED.",
+          "status": "open"
+        }
+      ],
+      "limitations": "AI-assisted, not a teacher review, so it does not close OT-4. Syllabus read as extracted text. Key-study details beyond their syllabus titles checked from subject knowledge, not the primary papers. Originality judged by inspection; no past-paper archive or live mark scheme consulted. Existence of a 2027+ 9990 syllabus not checked. Major findings were re-checked by the lead against the page and the PDF before recording.",
+      "assessedFileCommit": "47e84134d"
+    },
+    {
+      "id": "QA-0004",
+      "resource": "atomic-structure-practice",
+      "rubricVersion": "1.0.0",
+      "method": "ai-assisted",
+      "assessor": "AI-assisted (claude-opus-5-5)",
+      "date": "2026-11-15",
+      "contentSha256": "309229884bfdd384246d630acee4b929c90df2c8d00ae545eeee1af332bc2d64",
+      "syllabus": {
+        "board": "cambridge",
+        "code": "0620 / 5070",
+        "series": "2026-2028"
+      },
+      "sources": [
+        {
+          "title": "Cambridge IGCSE Chemistry 0620 syllabus for 2026, 2027 and 2028, version 2",
+          "url": "https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf",
+          "localRef": "Cambridge/IGCSE/Cambridge-IGCSE-Chemistry-0620-syllabus-2026-2028.pdf",
+          "pagesRead": "9, 12-13, 25, 38, 58"
+        },
+        {
+          "title": "Cambridge O Level Chemistry 5070 syllabus for 2026, 2027 and 2028, version 1",
+          "url": "https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf",
+          "localRef": "Cambridge/O-Level/Cambridge-O-Level-Chemistry-5070-syllabus-2026-2028.pdf",
+          "pagesRead": "9, 12-13, 22, 32, 52"
+        }
+      ],
+      "categories": {
+        "syllabus-alignment": {
+          "points": 15,
+          "evidence": "Q1 = 2.1.1; Q2, Q3, Q5, Q6, Q10, Q11 = 2.2 (0620 p.13 Core; 5070 p.13); Q9 = 0620 2.3 Core 2; Q7, Q13 = 0620 2.3 Supplement 4, labelled correctly. Q4's second part is 0620 2.3 Supplement 3 but unlabelled, and the tier note calls it Core. Q8 (0620 12.4) and Q12 (8.5) are outside the mapped subtopics. Both series current.",
+          "reasoning": "Content within both syllabuses; one wrong tier label misleads 0620 Core candidates (F1, major); incomplete mapping (F3)."
+        },
+        "factual-accuracy": {
+          "points": 19,
+          "evidence": "Charges, masses, Mg 2,8,2 Group II Period 3, Cl and Cl⁻ configurations, K Group I Period 4, Na⁺ 2,8, C-14 6 p 8 n, isotope definition: all correct.",
+          "reasoning": "No factual errors; one point held for the unexplained gap between 63.6 and the Periodic Table value 63.5 (F11)."
+        },
+        "worked-answers-exam-alignment": {
+          "points": 16,
+          "evidence": "Q7: 63×69 = 4347, 65×31 = 2015, 6362/100 = 63.62 -> 63.6. Q13: 69×60.1 = 4146.9, 71×39.9 = 2832.9, 6979.8/100 = 69.798 -> 69.8. Unweighted average (69+71)/2 = 70.0. All other answers correct and complete.",
+          "reasoning": "Answers correct; deductions for inconsistent tariffs (F4), missing rounding step (F5) and the Q4 mark split (F6)."
+        },
+        "depth-teaching-value": {
+          "points": 12,
+          "evidence": "13 questions, common-errors list and FAQ across 2.1-2.3; mostly recall, one applied item, two calculations. Common-errors list refers to a question the page lacks and repeats one point.",
+          "reasoning": "Useful set; leans to recall; small coherence problems (F10)."
+        },
+        "source-traceability": {
+          "points": 6,
+          "evidence": "Originality disclaimer and revision-notes link. Neither official syllabus linked. 'Examiner insight (June 2025)' gives no report reference. Ledger records only the 0620 URL.",
+          "reasoning": "Examiner-report claim untraceable; syllabuses not cited; 5070 source missing from the record (F7, F9)."
+        },
+        "clarity-accessibility": {
+          "points": 7.5,
+          "evidence": "Clear headings, bold tariffs, mark points after answers, correct isotope and ion notation, no images. Tier note and FAQ name only the Ar calculations as Extended. Q13 sits after a horizontal rule.",
+          "reasoning": "Reads well; Extended guidance incomplete (F2) and Q13 looks like an appendix (F12)."
+        },
+        "editorial-completeness": {
+          "points": 4,
+          "evidence": "Author, reviewer, reviewStatus, reviewedDate 2026-11-08, publishedDate, series present. reviewNote: 'FAQ section added; please re-review; ... reviewed by farhat-ul-ain-sehgal.' Ledger TEACHER_CREDITED.",
+          "reasoning": "Fields complete and honest about the credit; the tier error survived the credit date (F13)."
+        }
+      },
+      "checks": {
+        "1": {
+          "result": "issues-found",
+          "note": "Q4 explanation is 0620 Supplement 2.3.3, unlabelled and called Core (F1); Q8, Q12 unmapped (F3)."
+        },
+        "2": {
+          "result": "pass",
+          "note": "Every definition, charge, mass, configuration, group and period correct."
+        },
+        "3": {
+          "result": "issues-found",
+          "note": "Both Ar answers recomputed correct; tariff, rounding-step and mark-split issues (F4-F6, F11)."
+        },
+        "4": {
+          "result": "issues-found",
+          "note": "Mainly recall; common-errors list refers to a missing question (F10)."
+        },
+        "5": {
+          "result": "issues-found",
+          "note": "No syllabus link; untraceable examiner insight; 5070 URL missing from ledger (F7, F9)."
+        },
+        "6": {
+          "result": "issues-found",
+          "note": "Extended guidance incomplete; Q13 out of sequence (F12)."
+        },
+        "7": {
+          "result": "issues-found",
+          "note": "Past paper referenced not reproduced; uncertain whether Q13's data copies the named real question (F8)."
+        },
+        "8": {
+          "result": "issues-found",
+          "note": "Credit only; the re-review missed the tier error (F13)."
+        },
+        "9": {
+          "result": "pass",
+          "note": "0620 v2 and 5070 v1 both cover 2026-2028."
+        },
+        "10": {
+          "result": "issues-found",
+          "note": "The tier note tells Core candidates they can answer Q4 in full (F2)."
+        }
+      },
+      "findings": [
+        {
+          "id": "F1",
+          "check": 1,
+          "severity": "major",
+          "hardStop": null,
+          "location": "Tier note and Q4",
+          "description": "The second part of Q4 (why isotopes have identical chemical properties) is 0620 Supplement (Extended) content, but it is unlabelled and the tier note says every other question is answerable by a Core candidate. Required for 5070, so 5070 students are not misled.",
+          "evidence": "Page line 48: 'All other questions are answerable by a 0620 Core candidate.' Q4: 'explain why isotopes of the same element have identical chemical properties. [3]'. 0620 p.13, 2.3 Supplement column: '3 State that isotopes of the same element have the same chemical properties because they have the same number of electrons'. Verified by the lead.",
+          "status": "open"
+        },
+        {
+          "id": "F2",
+          "check": 10,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "FAQ 'Which questions are Extended only for Cambridge IGCSE 0620?'",
+          "description": "The FAQ names only the Ar calculations as Extended, repeating the gap in F1.",
+          "evidence": "Page line 137: 'Questions on calculating relative atomic mass from isotope abundances are labelled 0620 Extended.'",
+          "status": "open"
+        },
+        {
+          "id": "F3",
+          "check": 1,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Frontmatter syllabusTopics; Q8, Q12",
+          "description": "Q8 (purity from melting/boiling point) and Q12 (unreactive noble gases) test outcomes outside the three mapped subtopics.",
+          "evidence": "0620 p.38 12.4 Core 3 and p.25 8.5 Core 1 (5070 pp.32, 22); syllabusTopics lists only 2.1-2.3.",
+          "status": "open"
+        },
+        {
+          "id": "F4",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Q7 [3] vs Q13 [2]",
+          "description": "Two questions test the same skill but carry different tariffs, and Q13 drops the separate answer mark.",
+          "evidence": "Q7: '[1] ... [1] ... = 63.6 [1]'. Q13: '= 6979.8 [1]; 6979.8 ÷ 100 = 69.8 [1]'.",
+          "status": "open"
+        },
+        {
+          "id": "F5",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Answer 13",
+          "description": "The rounded value is written as if exact; the rounding step is not shown.",
+          "evidence": "Page: '6979.8 ÷ 100 = 69.8'. Recomputed 69.798 -> 69.8 to 1 d.p.",
+          "status": "open"
+        },
+        {
+          "id": "F6",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Answer 4",
+          "description": "The mark split gives a mark for a consequence of the definition, leaving 1 mark for the 'explain' chain (electrons -> configuration -> chemical properties).",
+          "evidence": "Page: 'different numbers of neutrons [1] (and therefore different mass numbers) [1] ... their chemical properties are identical [1]'.",
+          "status": "open"
+        },
+        {
+          "id": "F7",
+          "check": 5,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "'Examiner insight (June 2025)'",
+          "description": "Claims attributed to an examiner report without a reference; not verified (uncertain).",
+          "evidence": "Page: 'Examiner insight (June 2025): common errors were to average the two mass numbers without using the percentages'.",
+          "status": "open"
+        },
+        {
+          "id": "F8",
+          "check": 7,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Q13 and 'Try the real question next'",
+          "description": "Uncertain: Q13 sits next to a referral to a named real question; check it does not copy that question's data or wording, since the page declares all questions original.",
+          "evidence": "Q13 gallium 60.1% / 39.9%; page: 'Cambridge IGCSE Chemistry 0620, June 2025, Paper 43, Question 2'; ledger WARN names-a-specific-past-paper.",
+          "status": "open"
+        },
+        {
+          "id": "F9",
+          "check": 5,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Page body; ledger officialSourceUrl",
+          "description": "Neither official syllabus is linked, and the ledger records only the 0620 URL although the page serves 5070 too.",
+          "evidence": "Ledger officialSourceUrl: 697205 PDF only; 5070 PDF is 697326-2026-2028-syllabus.pdf.",
+          "status": "open"
+        },
+        {
+          "id": "F10",
+          "check": 4,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "'Where marks are usually lost'",
+          "description": "One bullet refers to an 'identify the isotope' question the page does not contain; two bullets repeat the same ion point.",
+          "evidence": "Page: 'In an \"identify the isotope\" question, picking an atom with a different proton number'.",
+          "status": "open"
+        },
+        {
+          "id": "F11",
+          "check": 3,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Answer 7",
+          "description": "63.6 is correct for the data; a note on why it differs from the Periodic Table value (63.5) would help.",
+          "evidence": "(63×69 + 65×31)/100 = 63.62 -> 63.6; Periodic Table Ar(Cu) 63.5.",
+          "status": "open"
+        },
+        {
+          "id": "F12",
+          "check": 6,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Between Q12 and Q13",
+          "description": "Q13 sits after a horizontal rule, apart from the set, and reads as an appendix.",
+          "evidence": "'**12.** ... [2]' then '---' then '**13.** *(0620 Extended, 5070 required)*'.",
+          "status": "open"
+        },
+        {
+          "id": "F13",
+          "check": 8,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Frontmatter reviewNote",
+          "description": "A 2026-11-08 credit is recorded, yet the F1 tier error remains; the ledger confirms no dated line-by-line review.",
+          "evidence": "reviewNote: '2026-11-08: reviewed by farhat-ul-ain-sehgal.'",
+          "status": "open"
+        }
+      ],
+      "limitations": "AI-assisted, not a teacher review. Syllabuses read as extracted text. The June 2025 Paper 43 question and its examiner report were not seen, so F7 and F8 are uncertain. No images to check. Major findings were re-checked by the lead against the page and the PDF before recording.",
+      "assessedFileCommit": "47e84134d"
+    },
+    {
+      "id": "QA-0005",
+      "resource": "atomic-structure-practice",
+      "rubricVersion": "1.0.0",
+      "method": "ai-assisted",
+      "assessor": "AI-assisted (claude-opus-5-5)",
+      "date": "2026-11-15",
+      "contentSha256": "20d16ed4dae19e294e9525d6cefd39fcd1356982ea8838c80e1d51a711c82b98",
+      "syllabus": {
+        "board": "cambridge",
+        "code": "0620 / 5070",
+        "series": "2026-2028"
+      },
+      "sources": [
+        {
+          "title": "Cambridge IGCSE Chemistry 0620 syllabus for 2026, 2027 and 2028, version 2",
+          "url": "https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf",
+          "localRef": "Cambridge/IGCSE/Cambridge-IGCSE-Chemistry-0620-syllabus-2026-2028.pdf",
+          "pagesRead": "9, 12-13, 25, 38, 58"
+        },
+        {
+          "title": "Cambridge O Level Chemistry 5070 syllabus for 2026, 2027 and 2028, version 1",
+          "url": "https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf",
+          "localRef": "Cambridge/O-Level/Cambridge-O-Level-Chemistry-5070-syllabus-2026-2028.pdf",
+          "pagesRead": "9, 12-13, 22, 32, 52"
+        }
+      ],
+      "categories": {
+        "syllabus-alignment": {
+          "points": 17.5,
+          "evidence": "After correction: Q4 second part now labelled \"(this second part: 0620 Extended, 5070 required)\"; the tier note names questions 7 and 13 and the second part of question 4 as beyond 0620 Core, matching 0620 p.13 2.3 Supplement 3 and 4. Q8 (12.4) and Q12 (8.5) remain outside the mapped subtopics.",
+          "reasoning": "Tier labelling now matches the syllabus; deduction remains for the incomplete topic mapping (F3)."
+        },
+        "factual-accuracy": {
+          "points": 19,
+          "evidence": "Charges, masses, Mg 2,8,2 Group II Period 3, Cl and Cl⁻ configurations, K Group I Period 4, Na⁺ 2,8, C-14 6 p 8 n, isotope definition: all correct.",
+          "reasoning": "No factual errors; one point held for the unexplained gap between 63.6 and the Periodic Table value 63.5 (F11)."
+        },
+        "worked-answers-exam-alignment": {
+          "points": 16,
+          "evidence": "Q7: 63×69 = 4347, 65×31 = 2015, 6362/100 = 63.62 -> 63.6. Q13: 69×60.1 = 4146.9, 71×39.9 = 2832.9, 6979.8/100 = 69.798 -> 69.8. Unweighted average (69+71)/2 = 70.0. All other answers correct and complete.",
+          "reasoning": "Answers correct; deductions for inconsistent tariffs (F4), missing rounding step (F5) and the Q4 mark split (F6)."
+        },
+        "depth-teaching-value": {
+          "points": 12,
+          "evidence": "13 questions, common-errors list and FAQ across 2.1-2.3; mostly recall, one applied item, two calculations. Common-errors list refers to a question the page lacks and repeats one point.",
+          "reasoning": "Useful set; leans to recall; small coherence problems (F10)."
+        },
+        "source-traceability": {
+          "points": 6,
+          "evidence": "Originality disclaimer and revision-notes link. Neither official syllabus linked. 'Examiner insight (June 2025)' gives no report reference. Ledger records only the 0620 URL.",
+          "reasoning": "Examiner-report claim untraceable; syllabuses not cited; 5070 source missing from the record (F7, F9)."
+        },
+        "clarity-accessibility": {
+          "points": 8,
+          "evidence": "Tier note and FAQ now list every Extended part. Q13 still sits after a horizontal rule.",
+          "reasoning": "Extended guidance complete; small deduction for Q13 placement (F12)."
+        },
+        "editorial-completeness": {
+          "points": 4,
+          "evidence": "Author, reviewer, reviewStatus, reviewedDate 2026-11-08, publishedDate, series present. reviewNote: 'FAQ section added; please re-review; ... reviewed by farhat-ul-ain-sehgal.' Ledger TEACHER_CREDITED.",
+          "reasoning": "Fields complete and honest about the credit; the tier error survived the credit date (F13)."
+        }
+      },
+      "checks": {
+        "1": {
+          "result": "issues-found",
+          "note": "Tier error corrected (F1 fixed); Q8, Q12 unmapped (F3)."
+        },
+        "2": {
+          "result": "pass",
+          "note": "Every definition, charge, mass, configuration, group and period correct."
+        },
+        "3": {
+          "result": "issues-found",
+          "note": "Both Ar answers recomputed correct; tariff, rounding-step and mark-split issues (F4-F6, F11)."
+        },
+        "4": {
+          "result": "issues-found",
+          "note": "Mainly recall; common-errors list refers to a missing question (F10)."
+        },
+        "5": {
+          "result": "issues-found",
+          "note": "No syllabus link; untraceable examiner insight; 5070 URL missing from ledger (F7, F9)."
+        },
+        "6": {
+          "result": "issues-found",
+          "note": "Extended guidance incomplete; Q13 out of sequence (F12)."
+        },
+        "7": {
+          "result": "issues-found",
+          "note": "Past paper referenced not reproduced; uncertain whether Q13's data copies the named real question (F8)."
+        },
+        "8": {
+          "result": "issues-found",
+          "note": "Credit only; the re-review missed the tier error (F13)."
+        },
+        "9": {
+          "result": "pass",
+          "note": "0620 v2 and 5070 v1 both cover 2026-2028."
+        },
+        "10": {
+          "result": "pass",
+          "note": "Tier note and FAQ now tell Core candidates exactly which parts are Extended (F2 fixed)."
+        }
+      },
+      "findings": [
+        {
+          "id": "F1",
+          "check": 1,
+          "severity": "major",
+          "hardStop": null,
+          "location": "Tier note and Q4",
+          "description": "The second part of Q4 (why isotopes have identical chemical properties) is 0620 Supplement (Extended) content, but it is unlabelled and the tier note says every other question is answerable by a Core candidate. Required for 5070, so 5070 students are not misled.",
+          "evidence": "Page line 48: 'All other questions are answerable by a 0620 Core candidate.' Q4: 'explain why isotopes of the same element have identical chemical properties. [3]'. 0620 p.13, 2.3 Supplement column: '3 State that isotopes of the same element have the same chemical properties because they have the same number of electrons'. Verified by the lead.",
+          "status": "fixed",
+          "resolution": "15 Nov 2026 (D-465): Q4 second part labelled 0620 Extended / 5070 required; tier note rewritten to name Q7, Q13 and Q4 part 2."
+        },
+        {
+          "id": "F2",
+          "check": 10,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "FAQ 'Which questions are Extended only for Cambridge IGCSE 0620?'",
+          "description": "The FAQ names only the Ar calculations as Extended, repeating the gap in F1.",
+          "evidence": "Page line 137: 'Questions on calculating relative atomic mass from isotope abundances are labelled 0620 Extended.'",
+          "status": "fixed",
+          "resolution": "15 Nov 2026 (D-465): FAQ answer now names the second part of Q4 as well as Q7 and Q13."
+        },
+        {
+          "id": "F3",
+          "check": 1,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Frontmatter syllabusTopics; Q8, Q12",
+          "description": "Q8 (purity from melting/boiling point) and Q12 (unreactive noble gases) test outcomes outside the three mapped subtopics.",
+          "evidence": "0620 p.38 12.4 Core 3 and p.25 8.5 Core 1 (5070 pp.32, 22); syllabusTopics lists only 2.1-2.3.",
+          "status": "open"
+        },
+        {
+          "id": "F4",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Q7 [3] vs Q13 [2]",
+          "description": "Two questions test the same skill but carry different tariffs, and Q13 drops the separate answer mark.",
+          "evidence": "Q7: '[1] ... [1] ... = 63.6 [1]'. Q13: '= 6979.8 [1]; 6979.8 ÷ 100 = 69.8 [1]'.",
+          "status": "open"
+        },
+        {
+          "id": "F5",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Answer 13",
+          "description": "The rounded value is written as if exact; the rounding step is not shown.",
+          "evidence": "Page: '6979.8 ÷ 100 = 69.8'. Recomputed 69.798 -> 69.8 to 1 d.p.",
+          "status": "open"
+        },
+        {
+          "id": "F6",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Answer 4",
+          "description": "The mark split gives a mark for a consequence of the definition, leaving 1 mark for the 'explain' chain (electrons -> configuration -> chemical properties).",
+          "evidence": "Page: 'different numbers of neutrons [1] (and therefore different mass numbers) [1] ... their chemical properties are identical [1]'.",
+          "status": "open"
+        },
+        {
+          "id": "F7",
+          "check": 5,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "'Examiner insight (June 2025)'",
+          "description": "Claims attributed to an examiner report without a reference; not verified (uncertain).",
+          "evidence": "Page: 'Examiner insight (June 2025): common errors were to average the two mass numbers without using the percentages'.",
+          "status": "open"
+        },
+        {
+          "id": "F8",
+          "check": 7,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Q13 and 'Try the real question next'",
+          "description": "Uncertain: Q13 sits next to a referral to a named real question; check it does not copy that question's data or wording, since the page declares all questions original.",
+          "evidence": "Q13 gallium 60.1% / 39.9%; page: 'Cambridge IGCSE Chemistry 0620, June 2025, Paper 43, Question 2'; ledger WARN names-a-specific-past-paper.",
+          "status": "open"
+        },
+        {
+          "id": "F9",
+          "check": 5,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Page body; ledger officialSourceUrl",
+          "description": "Neither official syllabus is linked, and the ledger records only the 0620 URL although the page serves 5070 too.",
+          "evidence": "Ledger officialSourceUrl: 697205 PDF only; 5070 PDF is 697326-2026-2028-syllabus.pdf.",
+          "status": "open"
+        },
+        {
+          "id": "F10",
+          "check": 4,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "'Where marks are usually lost'",
+          "description": "One bullet refers to an 'identify the isotope' question the page does not contain; two bullets repeat the same ion point.",
+          "evidence": "Page: 'In an \"identify the isotope\" question, picking an atom with a different proton number'.",
+          "status": "open"
+        },
+        {
+          "id": "F11",
+          "check": 3,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Answer 7",
+          "description": "63.6 is correct for the data; a note on why it differs from the Periodic Table value (63.5) would help.",
+          "evidence": "(63×69 + 65×31)/100 = 63.62 -> 63.6; Periodic Table Ar(Cu) 63.5.",
+          "status": "open"
+        },
+        {
+          "id": "F12",
+          "check": 6,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Between Q12 and Q13",
+          "description": "Q13 sits after a horizontal rule, apart from the set, and reads as an appendix.",
+          "evidence": "'**12.** ... [2]' then '---' then '**13.** *(0620 Extended, 5070 required)*'.",
+          "status": "open"
+        },
+        {
+          "id": "F13",
+          "check": 8,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Frontmatter reviewNote",
+          "description": "A 2026-11-08 credit is recorded, yet the F1 tier error remains; the ledger confirms no dated line-by-line review.",
+          "evidence": "reviewNote: '2026-11-08: reviewed by farhat-ul-ain-sehgal.'",
+          "status": "open"
+        }
+      ],
+      "limitations": "Reassessment of the corrected tier note, Q4 and FAQ only, re-checked against 0620 p.13. The rest of the page is unchanged since QA-0004 (git diff shows three changed lines), so the other categories and findings are carried over from QA-0004. AI-assisted, not a teacher review. Syllabuses read as extracted text. The June 2025 Paper 43 question and its examiner report were not seen, so F7 and F8 are uncertain. No images to check. Major findings were re-checked by the lead against the page and the PDF before recording.",
+      "reassessmentOf": "QA-0004",
+      "assessedFileCommit": "862b3cbf6"
+    }
+  ]
+}

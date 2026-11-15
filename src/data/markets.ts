@@ -482,8 +482,9 @@ export const MARKETS: readonly Market[] = [
      * pricing.ts (the UK has its own page and its own GBP rows). Europe has
      * no single clock: `timeZones` gives the three main zones in winter and
      * summer, and `utcOffsetHours` (Central European Time) is not printed.
-     * Which countries the euro fee covers is not recorded in the repo, so
-     * the page does not list any.
+     * D-467 (owner, 15 Nov 2026): the Europe fee covers "all Europe outside
+     * UK", euro and non-euro countries alike. The time table adds the zones
+     * that are not on WET/CET/EET (Iceland; Türkiye, Belarus, western Russia).
      */
     slug: 'europe',
     cities: [],
@@ -493,14 +494,16 @@ export const MARKETS: readonly Market[] = [
     utcOffsetHours: 1,
     timeZoneLabel:
       'most countries are on Western, Central or Eastern European Time and put their clocks forward one hour from late March to late October',
-    timeSummary: 'two to five hours behind Lahore, depending on the country and the time of year',
+    timeSummary: 'two to five hours behind Lahore in most of Europe, depending on the country and the time of year',
     timeZones: [
-      { where: 'Ireland and Portugal, late October to late March', zone: 'GMT / Western European Time', utcOffsetHours: 0 },
-      { where: 'Ireland and Portugal, late March to late October', zone: 'Irish Standard Time / Western European Summer Time', utcOffsetHours: 1 },
-      { where: 'France, Germany, Italy and the Netherlands, late October to late March', zone: 'Central European Time', utcOffsetHours: 1 },
-      { where: 'France, Germany, Italy and the Netherlands, late March to late October', zone: 'Central European Summer Time', utcOffsetHours: 2 },
-      { where: 'Greece and Finland, late October to late March', zone: 'Eastern European Time', utcOffsetHours: 2 },
-      { where: 'Greece and Finland, late March to late October', zone: 'Eastern European Summer Time', utcOffsetHours: 3 },
+      { where: 'Iceland, all year', zone: 'GMT', utcOffsetHours: 0 },
+      { where: 'Ireland and mainland Portugal, late October to late March', zone: 'GMT / Western European Time', utcOffsetHours: 0 },
+      { where: 'Ireland and mainland Portugal, late March to late October', zone: 'Irish Standard Time / Western European Summer Time', utcOffsetHours: 1 },
+      { where: 'Most of mainland Europe (for example France, Germany, Italy, Spain, Poland, Sweden), late October to late March', zone: 'Central European Time', utcOffsetHours: 1 },
+      { where: 'Most of mainland Europe (for example France, Germany, Italy, Spain, Poland, Sweden), late March to late October', zone: 'Central European Summer Time', utcOffsetHours: 2 },
+      { where: 'Eastern Europe (for example Greece, Finland, Romania, Ukraine), late October to late March', zone: 'Eastern European Time', utcOffsetHours: 2 },
+      { where: 'Eastern Europe (for example Greece, Finland, Romania, Ukraine), late March to late October', zone: 'Eastern European Summer Time', utcOffsetHours: 3 },
+      { where: 'Türkiye, Belarus and western Russia, all year', zone: 'UTC+3', utcOffsetHours: 3 },
     ],
     focusBoards: ALL_TAUGHT_BOARDS,
     searchedHubs: [],
@@ -521,6 +524,11 @@ export const MARKETS: readonly Market[] = [
         question: 'What does tuition cost from Europe?',
         answer:
           'Group classes have a set Europe fee per subject per month, shown on this page in euros. One-to-one and IB prices are shown as indicative conversions of the Pakistan rate, and the exact fee is confirmed in writing before any payment.',
+      },
+      {
+        question: 'Which countries does this page cover?',
+        answer:
+          'Every country in Europe except the United Kingdom, whether or not it uses the euro. Fees for all of them are shown here in euros, and the exact fee is confirmed in writing before any payment.',
       },
       {
         question: 'Is this page for students in the United Kingdom?',

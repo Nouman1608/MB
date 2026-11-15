@@ -65,8 +65,13 @@ after it is listed: the old address will be in search results and bookmarks.
 
 ## Before the first paper (once)
 
-1. Create the bucket and its subdomain, if not using `img.marlbridge.com`, and add the host to
-   `PAST_PAPER_FILE_HOSTS`.
+1. Storage (D-469). The owner chose R2 on 15 Nov 2026. The bucket `marlbridge-past-papers` was
+   created that day (location: Eastern North America; files are served from Cloudflare's network
+   wherever the visitor is), and `papers.marlbridge.com` is already in `PAST_PAPER_FILE_HOSTS`.
+   One step is left, in the Cloudflare dashboard: R2 > `marlbridge-past-papers` > Settings >
+   Custom Domains > Connect Domain > `papers.marlbridge.com`. Until then no file URL works, so
+   do not add entries yet. Upload files in the dashboard (R2 > bucket > Upload) or with
+   `npx wrangler r2 object put marlbridge-past-papers/<file name> --file <local path> --remote`.
 2. Write the rights note for each board in `PAST_PAPER_RIGHTS_NOTES`: the basis on which you host that
    board's documents, in your own words, at least 20 characters. It is a record kept with the
    manifest and is not printed on any page. `.gitignore` describes this repository as public, so

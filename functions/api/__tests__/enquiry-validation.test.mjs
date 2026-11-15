@@ -359,3 +359,44 @@ test('validateEnquiry: trial accepts source=header and drops an unknown source',
   assert.equal(bad.ok, true);
   if (bad.ok) assert.equal('source' in bad.data, false);
 });
+
+// D-466 (owner, 15 Nov 2026) -- the trial form's country-code select is joined
+// to the number on the server, so the team always gets an international number.
+test('validateEnquiry: trial phone is joined with the selected country code', async () => {
+  const base = { name: 'Z', country: 'Pakistan', subject: 'A Level Maths' };
+  const pk = validateEnquiry('trial', { ...base, phoneCountry: 'PK', phone: '0300 1234567' });
+  assert.equal(pk.ok, true);
+  if (pk.ok) {
+    assert.equal(pk.data.phone, '+92 300 1234567');
+    assert.equal(pk.data.phoneCountry, undefined);
+  }
+  const uk = validateEnquiry('trial', { ...base, phoneCountry: 'GB', phone: '07700 900123' });
+  if (uk.ok) assert.equal(uk.data.phone, '+44 7700 900123');
+  // Italian numbers keep their leading 0.
+  const it = validateEnquiry('trial', { ...base, phoneCountry: 'IT', phone: '06 1234 5678' });
+  if (it.ok) assert.equal(it.data.phone, '+39 06 1234 5678');
+  // A number typed with its own code wins over the select; 00 becomes +.
+  const typed = validateEnquiry('trial', { ...base, phoneCountry: 'PK', phone: '+971 50 123 4567' });
+  if (typed.ok) assert.equal(typed.data.phone, '+971 50 123 4567');
+  const zeros = validateEnquiry('trial', { ...base, phoneCountry: 'PK', phone: '0044 7700 900123' });
+  if (zeros.ok) assert.equal(zeros.data.phone, '+44 7700 900123');
+  // "Other" needs the code typed in the number.
+  const other = validateEnquiry('trial', { ...base, phoneCountry: 'other', phone: '300 1234567' });
+  assert.equal(other.ok, false);
+  if (!other.ok) assert.ok(other.errors.phone);
+  const otherOk = validateEnquiry('trial', { ...base, phoneCountry: 'other', phone: '+1 415 555 0100' });
+  if (otherOk.ok) assert.equal(otherOk.data.phone, '+1 415 555 0100');
+  // A tampered code is dropped and the number kept as typed; no select (old page) works as before.
+  const bad = validateEnquiry('trial', { ...base, phoneCountry: 'ZZ', phone: '0300 1234567' });
+  if (bad.ok) assert.equal(bad.data.phone, '0300 1234567');
+  const none = validateEnquiry('trial', { ...base, phone: '+92 300 1234567' });
+  if (none.ok) assert.equal(none.data.phone, '+92 300 1234567');
+});
+
+test('dial codes: ids are unique and every code is well formed', async () => {
+  const { DIAL_CODES } = await import('../../_lib/dial-codes.ts');
+  const ids = DIAL_CODES.map((d) => d.id);
+  assert.equal(new Set(ids).size, ids.length);
+  for (const d of DIAL_CODES) assert.match(d.dial, /^\+\d{1,3}$/, d.id);
+  assert.equal(DIAL_CODES[0].id, 'PK');
+});

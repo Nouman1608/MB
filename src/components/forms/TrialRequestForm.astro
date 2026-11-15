@@ -42,6 +42,7 @@ import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 import { PRICING_TERMS, REGION_PRICING } from '../../data/pricing';
 import { site } from '../../data/site';
 import { TRIAL_SOURCES } from '../../../functions/_lib/enquiry-validation';
+import { DIAL_CODES, DIAL_OTHER } from '../../../functions/_lib/dial-codes';
 import LazyTurnstile from './LazyTurnstile.astro';
 
 const BOARDS = [
@@ -71,7 +72,10 @@ const slots = [
   ['weekday-morning', 'Weekday mornings'], ['weekday-afternoon', 'Weekday afternoons'], ['weekday-evening', 'Weekday evenings'],
   ['weekend-morning', 'Weekend mornings'], ['weekend-afternoon', 'Weekend afternoons'], ['weekend-evening', 'Weekend evenings'],
 ];
-const data = JSON.stringify({ courses, teachers, programToQual: PROGRAM_TO_QUAL, sources: TRIAL_SOURCES }).replace(/</g, '\\u003c');
+// D-466: country name (and aliases) -> dial-code id, so choosing a country
+// pre-selects its calling code until the visitor picks one themselves.
+const dialByCountry = Object.fromEntries(DIAL_CODES.flatMap((d) => [d.name, ...(d.aliases ?? [])].map((n) => [n.toLowerCase(), d.id])));
+const data = JSON.stringify({ courses, teachers, programToQual: PROGRAM_TO_QUAL, sources: TRIAL_SOURCES, dialByCountry }).replace(/</g, '\\u003c');
 const waHref = `https://wa.me/923239149918?text=${encodeURIComponent("Hi, I'd like to ask about a free trial class.")}`;
 const field = 'min-h-11 w-full rounded-sm border border-rule bg-white px-3 text-[15.5px] text-ink aria-[invalid=true]:border-error';
 const labelCls = 'text-[14.5px] font-medium text-ink';
@@ -146,7 +150,15 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     </div>
     <div class="grid gap-1.5">
       <label for="trial-phone" class={labelCls}>Phone or WhatsApp<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
-      <input id="trial-phone" name="phone" type="tel" required autocomplete="tel" inputmode="tel" maxlength="30" class={field} placeholder="e.g. +92 300 1234567" aria-describedby="trial-phone-err" />
+      <div class="flex gap-2">
+        <label for="trial-phone-country" class="sr-only">Country code</label>
+        <select id="trial-phone-country" name="phoneCountry" autocomplete="tel-country-code" data-trial-phone-country class="min-h-11 w-[8.5rem] shrink-0 rounded-sm border border-rule bg-white px-2 text-[15px] text-ink">
+          {DIAL_CODES.map((d) => <option value={d.id} selected={d.id === 'PK'}>{`${d.name} ${d.dial}`}</option>)}
+          <option value={DIAL_OTHER}>Other (type the code)</option>
+        </select>
+        <input id="trial-phone" name="phone" type="tel" required autocomplete="tel-national" inputmode="tel" maxlength="30" class={field} placeholder="e.g. 300 1234567" aria-describedby="trial-phone-hint trial-phone-err" />
+      </div>
+      <p id="trial-phone-hint" class="m-0 text-[13.5px] text-ink-mute">Choose your country code, then type your number.</p>
       <p id="trial-phone-err" data-error-for="phone" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
@@ -208,6 +220,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     teachers: Record<string, string>;
     programToQual: Record<string, string>;
     sources: string[];
+    dialByCountry: Record<string, string>;
   }
   const has = (o: object, k: string) => Object.prototype.hasOwnProperty.call(o, k);
 
@@ -224,6 +237,17 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     const ctx = form.querySelector<HTMLElement>('[data-trial-context]')!;
     const status = form.querySelector<HTMLElement>('[data-form-status]')!;
     const button = form.querySelector<HTMLButtonElement>('button[type="submit"]')!;
+    const phoneCountry = form.querySelector<HTMLSelectElement>('[data-trial-phone-country]')!;
+
+    // ---- D-466: the Country field pre-selects the calling code until the
+    // visitor chooses a code themselves ----
+    let codeChosen = false;
+    phoneCountry.addEventListener('change', () => { codeChosen = true; });
+    form.querySelector<HTMLInputElement>('#trial-country')!.addEventListener('change', (e) => {
+      const name = (e.target as HTMLInputElement).value.trim().toLowerCase();
+      const id = data.dialByCountry?.[name];
+      if (!codeChosen && id && has(data.dialByCountry, name)) phoneCountry.value = id;
+    });
 
     // ---- preselection from the URL (allow-listed values only) ----
     const params = new URLSearchParams(window.location.search);
@@ -333,7 +357,8 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       ['subject', () => val('subject'), () => (val('subject') ? null : 'Please type your subjects, for example "A Level Maths, IGCSE Chemistry".')],
       ['name', () => val('name'), () => (val('name') ? null : 'Please enter your name.')],
       ['email', () => val('email'), () => (!val('email') || /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val('email')) ? null : 'Please enter a valid email address.')],
-      ['phone', () => val('phone'), () => (phoneOk(val('phone')) ? null : 'Please enter a phone or WhatsApp number, with the country code if outside Pakistan.')],
+      ['phone', () => val('phone'), () => (!phoneOk(val('phone')) ? 'Please enter your phone or WhatsApp number.'
+        : phoneCountry.value === 'other' && !/^\s*(\+|00)/.test(val('phone')) ? 'Please type your number with its country code, starting with +.' : null)],
       ['country', () => val('country'), () => (val('country') ? null : 'Please tell us your country.')],
     ];
     const mark = (name: string, empty: boolean) => {
