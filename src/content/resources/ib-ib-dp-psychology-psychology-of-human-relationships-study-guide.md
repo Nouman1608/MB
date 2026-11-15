@@ -14,10 +14,6 @@ syllabusTopics:
     topic: "ib-dp-psychology-psychology-of-human-relationships"
 description: "Personal relationships, group dynamics and social responsibility in IB Diploma Psychology: key theories, studies, evaluation points and a worked data example."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-15
-  scope: "official-specification"
 reviewStatus: "review-pending"
 reviewNeeded: true
 reviewNote: "Check the current subject guide for the exact headings and required content of this option, and which course version (2019 or 2027) your cohort follows."

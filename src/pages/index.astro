@@ -36,17 +36,22 @@ import LearnersAcademy from '../components/sections/LearnersAcademy.astro';
 import JournalSection from '../components/sections/JournalSection.astro';
 import SchoolsBand from '../components/sections/SchoolsBand.astro';
 import { faqNode } from '../utils/schema/faq';
+import { getResources } from '../utils/content/collections';
 import { TUITION_FAQS } from '../data/tuition';
 
 // Emitted from the same array HomeFaq renders, so the FAQPage node can
 // never describe questions a visitor cannot see on the page.
 const faq = faqNode(TUITION_FAQS);
+// D-448: counted from the published collection, one unit per figure (was a hardcoded "2,300+" mixing notes and questions).
+const published = await getResources();
+const revisionNotes = published.filter((r) => r.data.resourceType === 'revision-notes').length;
+const practiceSets = published.filter((r) => r.data.resourceType === 'practice-questions').length;
 ---
 <BaseLayout
   isHome
   translationKey="home"
   title="Online IGCSE, O Level, A Level, IB & GCSE Tuition"
-  description="Online IGCSE, O Level, A Level, IB and GCSE tuition with named subject specialists, plus 2,300+ free revision notes and practice questions. First class free."
+  description={`Online IGCSE, O Level, A Level, IB and GCSE tuition with named subject specialists, plus ${revisionNotes.toLocaleString('en-US')} free revision notes and ${practiceSets.toLocaleString('en-US')} practice sets. First class free.`}
   path="/"
   jsonLd={faq ? [faq] : []}
 >

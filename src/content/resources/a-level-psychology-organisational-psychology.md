@@ -30,10 +30,6 @@ syllabusTopics:
     subtopic: "satisfaction-at-work-9990"
 description: "Study guide to Cambridge A Level Psychology 9990 Organisational Psychology: motivation, leadership, groups, work conditions and job satisfaction, 4.1 to 4.5."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-08
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -83,6 +83,7 @@ try {
 }
 
 const errors = [];
+let wholeTopicPagesChecked = 0;
 
 // ---------------------------------------------------------------------------
 // [1] RESOURCE PAGES
@@ -169,6 +170,18 @@ for (const file of resourceFiles) {
 
   const expectedLevel = levelLabel(levels, stage, quals);
   const at = `dist/resources/${slug}/index.html`;
+
+  // [3] D-448 (findings A/E) -- a completeness label in the rendered
+  // syllabus-points list must come from an explicit `coverage` claim in the
+  // resource's own syllabusTopics (validated by validate-academic-content
+  // [M2]-[M5]); topic membership alone must never render as "(whole topic)".
+  const pointsBlock = html.match(/data-testid="syllabus-points"[\s\S]*?<\/details>/)?.[0] ?? '';
+  if (pointsBlock) {
+    const claims = [...fm.matchAll(/coverage:\s*"?([a-z-]+)"?/g)].map((m) => m[1]);
+    if (pointsBlock.includes('(whole topic)') && !claims.includes('whole-topic')) errors.push(`${at}: renders "(whole topic)" but no syllabusTopics entry carries coverage: "whole-topic"`);
+    if (pointsBlock.includes('(all Core content)') && !claims.includes('whole-topic-core')) errors.push(`${at}: renders "(all Core content)" but no syllabusTopics entry carries coverage: "whole-topic-core"`);
+    wholeTopicPagesChecked++;
+  }
 
   const levelMatch = html.match(/data-pagefind-filter="Level"[^>]*>([^<]*)</);
   const renderedLevel = levelMatch?.[1]?.trim();
@@ -351,4 +364,4 @@ if (errors.length) {
   console.error('');
   process.exit(1);
 }
-console.log(`Rendered academic-label validation OK -- ${resourcesChecked} resource page(s), ${hubsChecked} academic hub page(s), and ${assessmentHubsChecked} assessment table(s) checked, rendered labels match canonical data with no duplicated tier suffixes.`);
+console.log(`Rendered academic-label validation OK -- ${resourcesChecked} resource page(s) (${wholeTopicPagesChecked} syllabus-point lists checked for unsupported whole-topic labels), ${hubsChecked} academic hub page(s), and ${assessmentHubsChecked} assessment table(s) checked, rendered labels match canonical data with no duplicated tier suffixes.`);

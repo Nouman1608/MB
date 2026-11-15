@@ -30,10 +30,6 @@ syllabusTopics:
     subtopic: "obsessive-compulsive-disorder-ocd-9990"
 description: "Original Paper 3 and Paper 4 style questions with mark-scheme answers for Cambridge 9990 Clinical Psychology, from schizophrenia and mood disorders to OCD."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-08
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---

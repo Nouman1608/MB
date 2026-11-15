@@ -224,6 +224,67 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
     }
   }
 }
+// ---------------------------------------------------------------------------
+// D-448 -- TOPIC MEMBERSHIP vs COVERAGE (findings A and E, 2026-11-15)
+// A topic-level syllabusTopics entry means the page BELONGS to the topic; it
+// is not a claim to cover all of it. Only an explicit `coverage` value makes
+// that claim ("(whole topic)" / "(all Core content)" on the page), and it is
+// checked here against the resource's own subtopic list and the taxonomy:
+//   [M1] a subtopic must belong to the topic it is listed under;
+//   [M2] `coverage` is allowed only on a topic-level entry;
+//   [M3] a coverage claim contradicts a resource that lists only some of
+//        that topic's subtopics;
+//   [M4] 'whole-topic-core' needs a Core/Extended syllabus (one whose
+//        subtopics carry Core/Supplement tiers, e.g. 0620) -- Foundation/
+//        Higher tiering is a different thing;
+//   [M5] a coverage claim on a topic with subtopics needs a syllabus record
+//        whose subtopic list is complete (subtopicsComplete: true) -- an
+//        incomplete record cannot support "every outcome".
+// This is a STRUCTURAL check: passing it is not academic verification that
+// the page teaches every outcome; that remains a human check.
+const treeKey = topicKey;
+const topicTree = new Map();
+for (const s of SYLLABUS_TOPICS) {
+  if (s.status === 'future') continue;
+  const k = treeKey(s.boardSlug, s.subjectSlug, s.qualificationSlug);
+  const arr = topicTree.get(k) ?? [];
+  arr.push({ coreExtended: !!s.tiered && s.topics.some((t) => t.subtopics.some((x) => x.tier)), complete: !!s.subtopicsComplete, topics: new Map(s.topics.map((t) => [t.slug, new Set(t.subtopics.map((x) => x.slug))])) });
+  topicTree.set(k, arr);
+}
+for (const dir of ['src/content/resources', 'src/content/articles']) {
+  let files = [];
+  try { files = (await readdir(dir)).filter((f) => f.endsWith('.md')); } catch { continue; }
+  for (const file of files) {
+    const raw = await readFile(join(dir, file), 'utf8');
+    const fm = raw.split('---')[1] ?? '';
+    const at = `${dir}/${file}`;
+    const block = fm.match(/^syllabusTopics:\s*\n([\s\S]*?)(?=^\S|(?![\s\S]))/m);
+    if (!block) continue;
+    const subject = scalarField(fm, 'subject');
+    const resourceBoards = listField(fm, 'boards');
+    const entries = block[1].split(/^\s*-\s+/m).slice(1).map((e) => ({
+      q: (e.match(/qualification:\s*"?([a-z-]+)"?/) || [])[1],
+      t: (e.match(/(?:^|\n)\s*topic:\s*"?([a-z0-9-]+)"?/) || [])[1],
+      st: (e.match(/subtopic:\s*"?([a-z0-9-]+)"?/) || [])[1],
+      cov: (e.match(/coverage:\s*"?([a-z-]+)"?/) || [])[1],
+    }));
+    for (const e of entries) {
+      const versions = resourceBoards.flatMap((b) => matrixSlugsFor(subject).flatMap((sj) => topicTree.get(treeKey(b, sj, e.q)) ?? []));
+      if (!versions.length || !e.t) continue;
+      if (e.st && !versions.some((v) => v.topics.get(e.t)?.has(e.st))) topicErrors.push(`${at}: [M1] subtopic "${e.st}" is not part of topic "${e.t}" in any ${subject} ${e.q} syllabus record`);
+      if (!e.cov) continue;
+      if (e.cov !== 'whole-topic' && e.cov !== 'whole-topic-core') { topicErrors.push(`${at}: coverage "${e.cov}" is not a known coverage claim`); continue; }
+      if (e.st) { topicErrors.push(`${at}: [M2] coverage "${e.cov}" is set on a subtopic entry; it is allowed only on a topic-level entry`); continue; }
+      const listed = new Set(entries.filter((x) => x.q === e.q && x.t === e.t && x.st).map((x) => x.st));
+      const withTopic = versions.filter((v) => v.topics.has(e.t));
+      const subsOf = (v) => v.topics.get(e.t);
+      if (listed.size && withTopic.every((v) => [...subsOf(v)].some((x) => !listed.has(x)))) topicErrors.push(`${at}: [M3] coverage "${e.cov}" claims all of topic "${e.t}" but the resource lists only ${listed.size} of its subtopics -- a false whole-topic claim`);
+      if (e.cov === 'whole-topic-core' && !withTopic.some((v) => v.coreExtended)) topicErrors.push(`${at}: [M4] coverage "whole-topic-core" on topic "${e.t}", but no Core/Extended-tiered ${subject} ${e.q} syllabus record has that topic`);
+      if (withTopic.every((v) => subsOf(v).size > 0 && !v.complete)) topicErrors.push(`${at}: [M5] coverage "${e.cov}" on topic "${e.t}", but its syllabus record's subtopic list is not marked complete, so completeness cannot be supported`);
+    }
+  }
+}
+
 if (topicErrors.length) {
   console.error(`\nSyllabus topic validation FAILED — ${topicErrors.length} problem(s):\n`);
   for (const e of topicErrors) console.error(`  • ${e}`);

@@ -18,10 +18,6 @@ syllabusTopics:
     subtopic: "biopsychology-7182"
 description: "Original AQA A-level Psychology 7182 Biopsychology practice questions with marked answers on neurons, adrenaline, brain scanning, split brains and plasticity."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-08
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---

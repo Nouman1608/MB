@@ -8,6 +8,7 @@ image: "/images/faculty/ameer-hamza.jpg"
 entityType: person
 subjectsTaught: ["Biology", "MYP Sciences"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
+apCoursesReviewed: ["biology"]
 qualificationsTaught: []
 yearsExperience: 3
 previousSchools: ["University of Lahore"]

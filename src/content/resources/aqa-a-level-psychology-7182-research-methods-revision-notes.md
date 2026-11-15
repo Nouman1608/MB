@@ -18,10 +18,6 @@ syllabusTopics:
     subtopic: "research-methods-7182"
 description: "Condensed revision notes for AQA A-level Psychology 7182 Research methods: methods, designs, sampling, validity, statistics, test choice and a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-08
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---

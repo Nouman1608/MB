@@ -129,6 +129,7 @@ const RESOURCE_TYPE_LABELS = {
   'learning-articles': 'learning articles',
 };
 const presentTypes = new Set();
+let publishedResourceCount = 0;
 for (const file of resourceFiles) {
   const raw = await readFile(join(resourceDir, file), 'utf8');
   const fm = raw.split('---')[1] ?? '';
@@ -141,6 +142,7 @@ for (const file of resourceFiles) {
   // build and IS reachable, so only the literal 'draft' value is excluded.
   const reviewStatus = (fm.match(/^reviewStatus:\s*"?([\w-]+)"?/m) || [])[1];
   if (reviewStatus === 'draft') continue;
+  publishedResourceCount++;
   const type = (fm.match(/^resourceType:\s*"?([\w-]+)"?/m) || [])[1];
   if (type) presentTypes.add(type);
 }
@@ -222,12 +224,20 @@ const CURRENT_SYLLABUS_KEYS = JSON.parse(execSync(
 ));
 
 const taughtCombos = active.filter((c) => c.classesOffered !== false);
-const publishedResources = resourceFiles.length;
+// D-448: the same non-draft count getResources() publishes (was the raw file
+// count, which would include drafts), and the advanced-course (AP) library
+// stated separately rather than silently left out of a site-wide sentence.
+const publishedResources = publishedResourceCount;
+const apDir = 'src/content/ap-resources';
+let apResources = 0;
+for (const course of await readdir(apDir)) {
+  try { apResources += (await readdir(join(apDir, course))).filter((f) => f.endsWith('.md')).length; } catch { /* not a course folder */ }
+}
 const SITE_DESCRIPTION =
   `Marlbridge is an online tutoring service for IGCSE, O Level, GCSE, AS & A Level and IB students, operated by Learners Academy in Lahore, Pakistan. ` +
   `Subject teachers teach live classes one-to-one or in small groups of up to ${PRICING_TERMS.maxGroupSize}, online for students anywhere and in person in Lahore; the first trial class is free. ` +
   `Classes are offered in ${taughtCombos.length} board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB), ` +
-  `and the site publishes ${publishedResources.toLocaleString('en-GB')} free study resources, printable syllabus checklists and exam tools. Marlbridge has no office outside Pakistan.`;
+  `and the site publishes ${publishedResources.toLocaleString('en-GB')} free study resources for these boards, ${apResources.toLocaleString('en-GB')} advanced-course (US curriculum) study pages, printable syllabus checklists and exam tools. Marlbridge has no office outside Pakistan.`;
 
 /**
  * D-404 -- one line per course page, with its official code, so an

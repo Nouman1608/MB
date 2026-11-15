@@ -30,10 +30,6 @@ syllabusTopics:
     subtopic: "health-promotion-9990"
 description: "Condensed revision notes for Cambridge 9990 Health Psychology: key terms, measures, theories, the five key studies and exam traps for topics 3.1 to 3.5."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-08
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---
