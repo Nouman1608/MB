@@ -61,6 +61,7 @@ import { DECK_CAMBRIDGE_IGCSE_PAKISTAN_STUDIES } from './cambridge-igcse-pakista
 import { DECK_CAMBRIDGE_IGCSE_PHYSICS } from './cambridge-igcse-physics.ts';
 import { DECK_CAMBRIDGE_IGCSE_SOCIOLOGY } from './cambridge-igcse-sociology.ts';
 import { DECK_CAMBRIDGE_IGCSE_STATISTICS } from './cambridge-igcse-statistics.ts';
+import { DECK_CAMBRIDGE_IGCSE_URDU_LANGUAGE } from './cambridge-igcse-urdu-language.ts';
 import { DECK_CAMBRIDGE_IGCSE_WORLD_HISTORY } from './cambridge-igcse-world-history.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_ACCOUNTING } from './cambridge-o-level-accounting.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_BIOLOGY } from './cambridge-o-level-biology.ts';
@@ -78,6 +79,7 @@ import { DECK_CAMBRIDGE_O_LEVEL_PAKISTAN_STUDIES } from './cambridge-o-level-pak
 import { DECK_CAMBRIDGE_O_LEVEL_PHYSICS } from './cambridge-o-level-physics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_SOCIOLOGY } from './cambridge-o-level-sociology.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_STATISTICS } from './cambridge-o-level-statistics.ts';
+import { DECK_CAMBRIDGE_O_LEVEL_URDU_LANGUAGE } from './cambridge-o-level-urdu-language.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_WORLD_HISTORY } from './cambridge-o-level-world-history.ts';
 import { DECK_EDEXCEL_A_LEVEL_ACCOUNTING } from './edexcel-a-level-accounting.ts';
 import { DECK_EDEXCEL_A_LEVEL_BIOLOGY } from './edexcel-a-level-biology.ts';
@@ -88,6 +90,7 @@ import { DECK_EDEXCEL_A_LEVEL_ENGLISH_LITERATURE } from './edexcel-a-level-engli
 import { DECK_EDEXCEL_A_LEVEL_LAW } from './edexcel-a-level-law.ts';
 import { DECK_EDEXCEL_A_LEVEL_MATHEMATICS } from './edexcel-a-level-mathematics.ts';
 import { DECK_EDEXCEL_A_LEVEL_PHYSICS } from './edexcel-a-level-physics.ts';
+import { DECK_EDEXCEL_A_LEVEL_URDU_LANGUAGE } from './edexcel-a-level-urdu-language.ts';
 import { DECK_EDEXCEL_GCSE_BUSINESS } from './edexcel-gcse-business.ts';
 import { DECK_EDEXCEL_IGCSE_ACCOUNTING } from './edexcel-igcse-accounting.ts';
 import { DECK_EDEXCEL_IGCSE_BIOLOGY } from './edexcel-igcse-biology.ts';
@@ -161,6 +164,7 @@ import { DECK_OXFORDAQA_IGCSE_PAKISTAN_STUDIES } from './oxfordaqa-igcse-pakista
 import { DECK_OXFORDAQA_IGCSE_PHYSICS } from './oxfordaqa-igcse-physics.ts';
 import { DECK_OXFORDAQA_IGCSE_PSYCHOLOGY } from './oxfordaqa-igcse-psychology.ts';
 import { DECK_OXFORDAQA_IGCSE_SOCIOLOGY } from './oxfordaqa-igcse-sociology.ts';
+import { DECK_OXFORDAQA_IGCSE_URDU_LANGUAGE } from './oxfordaqa-igcse-urdu-language.ts';
 import { DECK_OXFORDAQA_IGCSE_WORLD_HISTORY } from './oxfordaqa-igcse-world-history.ts';
 
 export const GENERATED_DECKS: readonly FlashcardDeck[] = [
@@ -225,6 +229,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_IGCSE_PHYSICS,
   DECK_CAMBRIDGE_IGCSE_SOCIOLOGY,
   DECK_CAMBRIDGE_IGCSE_STATISTICS,
+  DECK_CAMBRIDGE_IGCSE_URDU_LANGUAGE,
   DECK_CAMBRIDGE_IGCSE_WORLD_HISTORY,
   DECK_CAMBRIDGE_O_LEVEL_ACCOUNTING,
   DECK_CAMBRIDGE_O_LEVEL_BIOLOGY,
@@ -242,6 +247,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_O_LEVEL_PHYSICS,
   DECK_CAMBRIDGE_O_LEVEL_SOCIOLOGY,
   DECK_CAMBRIDGE_O_LEVEL_STATISTICS,
+  DECK_CAMBRIDGE_O_LEVEL_URDU_LANGUAGE,
   DECK_CAMBRIDGE_O_LEVEL_WORLD_HISTORY,
   DECK_EDEXCEL_A_LEVEL_ACCOUNTING,
   DECK_EDEXCEL_A_LEVEL_BIOLOGY,
@@ -252,6 +258,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_EDEXCEL_A_LEVEL_LAW,
   DECK_EDEXCEL_A_LEVEL_MATHEMATICS,
   DECK_EDEXCEL_A_LEVEL_PHYSICS,
+  DECK_EDEXCEL_A_LEVEL_URDU_LANGUAGE,
   DECK_EDEXCEL_GCSE_BUSINESS,
   DECK_EDEXCEL_IGCSE_ACCOUNTING,
   DECK_EDEXCEL_IGCSE_BIOLOGY,
@@ -325,5 +332,6 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_IGCSE_PHYSICS,
   DECK_OXFORDAQA_IGCSE_PSYCHOLOGY,
   DECK_OXFORDAQA_IGCSE_SOCIOLOGY,
+  DECK_OXFORDAQA_IGCSE_URDU_LANGUAGE,
   DECK_OXFORDAQA_IGCSE_WORLD_HISTORY,
 ];
