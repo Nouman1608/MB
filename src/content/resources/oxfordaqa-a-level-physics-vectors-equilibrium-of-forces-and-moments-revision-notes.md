@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 Condensed notes for OxfordAQA International AS and A-level Physics (9630), specification Version 4.4, sections 3.2.1 (Scalars and vectors) and 3.2.2 (Moments). This is shared International AS and A-level content. For full explanations and longer worked examples, use the [study guide](/resources/oxfordaqa-a-level-physics-vectors-equilibrium-of-forces-and-moments/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-vectors-equilibrium-of-forces-and-moments-practice/).

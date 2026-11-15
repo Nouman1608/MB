@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check worked-answer facts against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: disclaimer reworded (depth studies are Paper 1 Section B only; no sources on this page); 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check worked-answer facts against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: disclaimer reworded (depth studies are Paper 1 Section B only; no sources on this page); 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

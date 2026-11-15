@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Every piece of data in a computer, from a bank balance to a photograph, is stored as patterns of bits. This guide covers how numbers, text, images and sound are encoded, how data is compressed and protected, and the arithmetic you must carry out by hand, including floating-point conversions that appear regularly in the written papers.

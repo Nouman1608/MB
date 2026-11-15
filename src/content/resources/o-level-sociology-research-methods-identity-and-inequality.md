@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: softened unverifiable claim about what mark schemes credit for sampling; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: softened unverifiable claim about what mark schemes credit for sampling; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 This guide covers **Paper 1 Research Methods, Identity and

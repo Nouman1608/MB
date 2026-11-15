@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Functional programming treats computation as the evaluation of functions, much as in mathematics, rather than as a sequence of instructions that change variables. It is a different way of thinking from the imperative style you use for most of the course, and the exam tests it with short, precise questions: what is the type of this function, what does this expression evaluate to, and how are map, filter and fold used. This guide uses Python for the examples because it is easy to run and check, and notes where AQA's own notation differs.

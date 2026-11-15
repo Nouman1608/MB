@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-15: reviewed by azam-siddique."
+reviewNote: "2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 Freshwater is one of the seven teacher-selected options in the geographic themes part of IB Diploma Programme Geography. Your school will have chosen which options it teaches, so check this is one of yours before you invest revision time in it. This guide follows the four strands of the option: how drainage basins work as physical systems, why floods happen and how they are managed, how scarcity and pollution affect people, and what the future of water management might look like. The [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-guide/) explains how options sit alongside the compulsory core.

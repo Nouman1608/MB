@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is written for OxfordAQA International GCSE Mathematics (9260) and follows Version 5.1 of the specification, covering exams from May/June 2018. It covers reference S4 in section 3.4.1, Presentation and analysis, and teaches how to produce and read each chart the specification names. Extension papers can also assess the Core content. Three items are Extension only: histograms with unequal class intervals, cumulative frequency diagrams and box plots.

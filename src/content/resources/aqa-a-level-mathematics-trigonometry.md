@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide teaches **Section E: Trigonometry (E1 to E9)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Section E is Paper 1 content, and Papers 2 and 3 can also assess any Paper 1 content, so trigonometry can appear on all three papers. A calculator is required in every 7357 paper, but questions that ask for **exact** values or say **"show that"** still need full working by hand.

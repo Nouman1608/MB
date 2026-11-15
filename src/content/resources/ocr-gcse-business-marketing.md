@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches section 2, Marketing, of the OCR GCSE (9-1) Business specification (J204), Version 2.0 (January 2026). It covers topics 2.1 to 2.4: the role of marketing, market research, market segmentation and the marketing mix. The content is examined in Business 1: business activity, marketing and people, a 1 hour 30 minute paper worth 80 marks. Business 2 assumes you know it too.

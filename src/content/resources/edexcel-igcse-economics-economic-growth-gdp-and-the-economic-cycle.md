@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This study guide follows the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, and covers part a) of section 2.1.1, Macroeconomic objectives: economic growth. This content sits in the Paper 2 material, Macroeconomics and the Global Economy. The specification has a single tier of entry. All the countries, firms and figures below are invented for practice.
 

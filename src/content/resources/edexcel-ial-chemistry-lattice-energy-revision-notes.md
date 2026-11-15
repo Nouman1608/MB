@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes squeeze part 12B, Lattice energy (outcomes 12.12 to 12.19), of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, into quick-recall form. This is IA2 material belonging to Unit 4: Rates, Equilibria and Further Organic Chemistry. For the full teaching and longer worked examples, go to the [lattice energy study guide](/resources/edexcel-ial-chemistry-lattice-energy/).

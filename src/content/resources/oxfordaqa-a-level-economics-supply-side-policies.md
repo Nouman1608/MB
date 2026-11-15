@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers supply-side policies for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It follows section 3.2.4.3. Section 3.2 is International AS content, so it is assessed in the International AS and carries on into the full International A-level. Quantitative skills in section 3.5 can appear alongside any topic, and this guide uses several of them. All figures below are invented for illustration. Country P and the small bakery are made-up examples, not real data.

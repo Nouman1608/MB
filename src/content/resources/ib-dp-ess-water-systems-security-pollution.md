@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 This study guide teaches Topic 4, Water, of IB Diploma Programme Environmental Systems and Societies (ESS). It covers syllabus sections 4.1 to 4.4: water systems, water access, use and security, aquatic food production systems, and water pollution. Topic 4 is studied at both SL and HL; the IB recommends 12 teaching hours at SL and 25 at HL, so HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

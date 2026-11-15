@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 Short recall notes for the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), first assessment 2018, sections 1.02l, 1.02s, 1.02u, 1.02v, 1.02w and 1.02x. Full explanations and worked examples are in the [study guide](/resources/ocr-a-level-mathematics-modulus-functions-inverses-composites-and-graph/). When you are ready, move on to the [practice questions](/resources/ocr-a-level-mathematics-modulus-functions-inverses-composites-and-graph-practice/). Related: [OCR A Level Mathematics hub](/boards/ocr/a-level/mathematics/), the [printable checklist](/checklists/ocr/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).
 

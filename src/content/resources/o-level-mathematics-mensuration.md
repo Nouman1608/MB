@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This study guide is aligned to the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027. It covers all of syllabus topic 5, Mensuration, sections 5.1 to 5.5. The syllabus is not tiered. Paper 1 does not allow a calculator and Paper 2 requires a scientific calculator, so practise leaving answers in terms of π as well as working to 3 significant figures.
 

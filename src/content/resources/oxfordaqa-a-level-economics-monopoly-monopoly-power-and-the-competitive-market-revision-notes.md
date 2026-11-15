@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These revision notes condense sections 3.1.4.4 (Monopoly and monopoly power) and 3.1.4.5 (The competitive market process) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. Section 3.1 is International AS content, which is also part of the International A-level. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market-practice/), tick off the [printable checklist](/checklists/oxfordaqa/a-level/economics/), see the [course hub](/boards/oxfordaqa/a-level/economics/) and find gaps with the [free diagnostics](/diagnostics/). All figures are invented.
 

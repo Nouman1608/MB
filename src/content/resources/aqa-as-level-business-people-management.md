@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is written for the AQA AS Business specification (7137), for first teaching from September 2026, and covers section 3.2.1 People management, which sits in Unit 3.2 (Managing people and operations). Ethics in HR is not covered here. For the course layout see [the course structure guide](/resources/aqa-as-level-business-course-structure/). For stakeholders and objectives see [What Is Business?](/resources/aqa-as-level-business-what-is-business/).

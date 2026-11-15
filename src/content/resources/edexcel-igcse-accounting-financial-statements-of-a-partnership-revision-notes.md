@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 4, section 2 (financial statements of a partnership) of the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, points a to g. For full explanations and a complete set of statements, read the [study guide](/resources/edexcel-igcse-accounting-financial-statements-of-a-partnership/). Test yourself with the [practice questions](/resources/edexcel-igcse-accounting-financial-statements-of-a-partnership-practice/). Course home: [Edexcel IGCSE Accounting](/boards/edexcel/igcse/accounting/), the printable [checklist](/checklists/edexcel/igcse/accounting/) and the [free diagnostics](/diagnostics/). Amounts are in dollars and all businesses are invented.

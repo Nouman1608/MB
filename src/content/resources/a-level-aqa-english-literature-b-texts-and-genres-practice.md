@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNote: "2026-11-08 recheck: series corrected to first teaching 2025, Section C rule and current set-text changes added, links to new 2A/2B practice pages, FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: series corrected to first teaching 2025, Section C rule and current set-text changes added, links to new 2A/2B practice pages, FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 > **These are original questions written for Marlbridge**, testing exam technique

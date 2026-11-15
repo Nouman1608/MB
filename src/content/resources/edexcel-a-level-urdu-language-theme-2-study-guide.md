@@ -26,7 +26,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the Urdu vocabulary, model paragraph and the research-subject wording against the 9UR0 specification and with an Urdu specialist; 2026-11-08: reviewed by farheen-zehra."
+reviewNote: "Check the Urdu vocabulary, model paragraph and the research-subject wording against the 9UR0 specification and with an Urdu specialist; 2026-11-08: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

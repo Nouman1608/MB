@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes are aligned to the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), statements N6 to N9 in section 3.1.1. Core content is also assessable on the Extension tier; Extension-only items are labelled. For full explanations, read the [study guide](/resources/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets/). Then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets-practice/).
 

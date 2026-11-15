@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, composition length 350-450 words from the syllabus, FAQ); please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, composition length 350-450 words from the syllabus, FAQ); please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 **How is Cambridge O Level English Language 1123 assessed?** Two 2-hour papers, each worth 50 marks

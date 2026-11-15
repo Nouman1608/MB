@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 4.7 of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. It defines the key terms, shows why jobs shift between sectors and groups, sets out the two ways of measuring joblessness, separates the three causes, weighs the damage done and compares the remedies. There are no tiers, so all of it is for everyone. Every country, firm and number below is invented and illustrative, so none of it is real data.

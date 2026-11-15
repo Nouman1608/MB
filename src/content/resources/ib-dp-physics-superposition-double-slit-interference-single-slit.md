@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers the second half of **sub-topic C.3, Wave phenomena**, from the IB *Physics guide*, first assessment 2025: superposition, double-source interference and Young's double slit (standard and higher level), then single-slit diffraction, its modulation of the double-slit pattern, and multiple slits and diffraction gratings (additional higher level, **HL only**). Wavefronts, rays, reflection, refraction and the diffraction of waves around bodies and apertures are taught in a separate unit and are not repeated here.

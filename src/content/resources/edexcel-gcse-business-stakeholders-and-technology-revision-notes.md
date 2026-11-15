@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 These notes condense Theme 1, Topic 1.5 Understanding external influences on business, items 1.5.1 and 1.5.2, of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. The [study guide](/resources/edexcel-gcse-business-stakeholders-and-technology/) has the full explanations and worked examples, so read it first. Then try the [practice questions](/resources/edexcel-gcse-business-stakeholders-and-technology-practice/).

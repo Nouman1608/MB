@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027, version 1. It covers sections 2.2 (Venn diagrams, box-and-whisker diagrams and stem-and-leaf diagrams, including back-to-back), 2.3 (purpose, use, advantages and disadvantages of representations) and 2.4 (interpreting data in tabular, pictorial or diagrammatic form). The course is not tiered. Tables, bar-type charts, pie charts and pictograms are taught on separate pages.

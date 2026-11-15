@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 7 Ethics and Ownership covers why computing professionals must act ethically, why copyright law is needed, how the main software licence types differ, and the applications and impact of artificial intelligence. Cambridge International AS & A Level Computer Science 9618 tests it in Paper 1 with written answers applied to a scenario, so marks come from precise terms and points tied to the situation described, not from general opinion.

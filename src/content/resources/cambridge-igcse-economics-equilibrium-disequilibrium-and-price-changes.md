@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 2.5 (price determination) and 2.6 (price changes) of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. All names and figures are invented and are not real statistics. For quick recall use the [revision notes](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-revision-notes/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-practice/). The wider topic is in [The allocation of resources](/resources/igcse-economics-the-allocation-of-resources/). Course pages: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/).

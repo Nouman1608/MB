@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches **2.2.1 Electron structure**, part of Module 2 (Foundations in chemistry) of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. All of 2.2.1(a) to (d) is taught here, along with the specification's additional guidance. There are no tiers in H432, so every candidate needs all of this content. Module 2 content can be examined in any of the three written components, 01, 02 and 03.

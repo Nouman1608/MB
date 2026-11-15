@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Software is every program a computer runs, and Topic 4 of Cambridge O Level Computer Science (2210) asks you to sort it into two families, explain what the operating system does, follow an interrupt from signal to service routine, and explain how program code is turned into instructions a processor can carry out. Questions on Paper 1 are mostly short and definition-based, so the aim of this guide is to give you the exact ideas and the vocabulary examiners credit.

@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 5 of Cambridge O Level Computer Science (2210) is mostly about sequences and pairs: the steps from URL to displayed page, the steps of an SSL connection, session versus persistent cookies, phishing versus pharming, and each cyber threat matched with its defence. These notes set each one out in the shortest form that still earns full marks on Paper 1.

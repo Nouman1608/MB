@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense **Structure 2.4, From models to materials**, as listed in the IB Diploma Programme *Chemistry guide* (published February 2023; first assessment 2025). They cover understandings Structure 2.4.1 to 2.4.6. Understandings 2.4.1 to 2.4.5 are for SL and HL; 2.4.6, condensation polymers, is **HL only**. They apply to the course as first assessed in 2025.

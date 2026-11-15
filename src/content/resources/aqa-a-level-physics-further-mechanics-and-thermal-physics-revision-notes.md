@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.6 Further mechanics and thermal physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.6.1 Periodic motion and 3.6.2 Thermal physics. The whole section is **A-level only**; Paper 1 assesses 6.1 and Paper 2 assesses 6.2. It is core content, not one of the options (sections 3.9 to 3.13) studied for Paper 3 Section B. For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics/).

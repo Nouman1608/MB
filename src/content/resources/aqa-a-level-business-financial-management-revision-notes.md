@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.5, Decision making to improve financial performance (subsections 3.5.1 to 3.5.4), of the AQA AS and A-level Business specification text (7131/7132). For full explanations and worked examples, read the [study guide](/resources/aqa-a-level-business-financial-management/), then test yourself with the [practice questions](/resources/aqa-a-level-business-financial-management-practice/). Find weak spots with the [free diagnostics](/diagnostics/), and use the [course hub](/boards/aqa/a-level/business/) and the [printable checklist](/checklists/aqa/a-level/business/) to track progress.

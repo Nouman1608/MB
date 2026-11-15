@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is for Cambridge O Level Economics (2281) and follows the syllabus for examination in 2026. It deals with 3.4 (trade unions), then 3.6 (firms and production), then 3.8 (market structure). Every candidate covers all of this content, as the subject is not tiered. All numbers in the worked examples are invented and illustrative.

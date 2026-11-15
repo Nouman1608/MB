@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This A Level topic extends the AS work on processors and logic gates. It asks why different processor designs exist, how instructions can be overlapped or executed at the same time, how a virtual machine lets one computer behave like another, and how Boolean algebra and Karnaugh maps are used to design and simplify logic circuits, including adders and flip-flops.

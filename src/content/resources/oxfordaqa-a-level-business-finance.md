@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.2.3 Finance of the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1: sources of finance (3.2.3.1), break-even analysis (3.2.3.2) and profit and cash (3.2.3.3). All of it is International AS content, examined in Unit 2: Managing operations, human resources and finance, from the May/June 2027 series; none of it is International A-level only. If you are finishing the older 9625 specification, use your own specification instead.

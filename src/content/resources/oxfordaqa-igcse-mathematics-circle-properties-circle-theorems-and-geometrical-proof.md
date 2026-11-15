@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers references G8 and G9 in section 3.3.1 (Properties and constructions) of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018 onwards. The circle vocabulary and properties in G8 are Core content. The circle theorems in G8 and the geometrical reasoning and proof in G9 are listed in the Extension column, so they are **Extension only**. All content can be assessed on the Extension papers (1E and 2E).

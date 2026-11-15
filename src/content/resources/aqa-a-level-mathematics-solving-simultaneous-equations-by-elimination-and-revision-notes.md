@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense statement B4 of Section B (Algebra and functions) in the AQA A-level Mathematics specification, first teaching 2017. For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and/). When you are ready to test yourself, use the [practice set](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and-practice/). Course links: [AQA A-level Mathematics hub](/boards/aqa/a-level/mathematics/), [printable checklist](/checklists/aqa/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).

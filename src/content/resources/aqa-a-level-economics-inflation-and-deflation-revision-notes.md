@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes condense inflation and deflation for AQA A-level Economics (7136), specification version 1.3, section 4.2.3.3 (3.2.3.3 on the AQA website). Full explanations and longer worked examples are in the [study guide](/resources/aqa-a-level-economics-inflation-and-deflation/). Test yourself with the [practice questions](/resources/aqa-a-level-economics-inflation-and-deflation-practice/), then use the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), the [checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented and illustrative.
 

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the first group of measures in section 8.1.1 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028: specific and ad valorem indirect taxes, subsidies, price controls, production quotas, prohibitions and licences, regulation and deregulation, and direct provision. Topics 1 to 6 are AS Level content and topics 7 to 11 are A Level content. Topic 8 is A Level only, so it is not examined at AS. A Level candidates meet it on Papers 3 and 4, with the AS content assumed.

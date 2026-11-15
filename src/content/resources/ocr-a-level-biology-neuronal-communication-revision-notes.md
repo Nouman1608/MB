@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense OCR A Level Biology A (H420) section 5.1.3, Neuronal communication, learning outcomes (a) to (d), from specification Version 4.1 (April 2026). Read the [study guide](/resources/ocr-a-level-biology-neuronal-communication/) for full explanations, then test yourself with the [practice questions](/resources/ocr-a-level-biology-neuronal-communication-practice/). A short [diagnostic](/diagnostics/) shows where to start, the [checklist](/checklists/ocr/a-level/biology/) tracks progress and the [course hub](/boards/ocr/a-level/biology/) lists the other units.

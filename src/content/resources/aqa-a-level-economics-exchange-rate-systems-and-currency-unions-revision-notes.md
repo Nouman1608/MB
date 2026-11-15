@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These revision notes condense exchange rate systems for AQA A-level Economics (7136), specification version 1.3, PDF section 4.2.6.4 (numbered 3.2.6.4 on the AQA website). Read the [full study guide](/resources/aqa-a-level-economics-exchange-rate-systems-and-currency-unions/) for the explanations. Test yourself with the [practice questions](/resources/aqa-a-level-economics-exchange-rate-systems-and-currency-unions-practice/). Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/) and [free diagnostics](/diagnostics/). All figures here are invented, set in Country C (currency: the C-unit) and Country D (the D-unit).
 

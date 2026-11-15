@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-15: reviewed by azam-siddique."
+reviewNote: "2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 Food and health is one of the teacher-selected options in the geographic themes part of IB Diploma Programme Geography. It asks how food supply and health can be measured, how food systems and disease patterns connect, who the key stakeholders are and how food security and health may be sustained in future. Confirm with your teacher that your school teaches it. The [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-guide/) explains how options relate to the core, and the [Global Climate core guide](/resources/ib-dp-geography-global-climate/) is useful for climate effects on food.

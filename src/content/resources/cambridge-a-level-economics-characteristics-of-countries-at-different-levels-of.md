@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 11.4 (Characteristics of countries at different levels of development), outcomes 11.4.1 to 11.4.3, of the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 11 is A Level content only and is not examined at AS. Every country, firm and figure below is invented for illustration and is not a real statistic.

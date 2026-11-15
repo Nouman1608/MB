@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches **Structure 3.2.7 to 3.2.12** of IB Diploma Programme Chemistry, following the IB *Chemistry guide* (published February 2023, first assessment 2025) for exams from 2025 onwards. These understandings are the additional higher level (AHL) half of the guide's topic "Functional groups: Classification of organic compounds" (Structure 3.2), so this page is **HL only**.

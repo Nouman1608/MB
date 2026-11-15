@@ -29,7 +29,7 @@ Not claimed: 100% academic accuracy, any human review, any search-ranking or AI-
 | B-2 | Same gap, dated 8 Nov | High | /resources/a-level-psychology-clinical-psychology/ | 22 files | Cambridge 9990, AQA 7182 | Yes | no record | same | Removed (owner A5) | rule [12] | Fixed |
 | B-3 | Policy: every resource "is checked … before publication" | High | /legal/editorial-policy/ | `editorial-policy.astro` | — | Yes | ledger: 95 UNVERIFIED; 7,268 "content not re-checked" | Claim broader than the record | Computed count of resources with a recorded check (owner A3); AI paragraph narrowed the same way | build | Fixed |
 | B-4 | AP "Reviewed by [name], 8 Nov 2026": date reads as a review event; no profile covers AP | Med | /advanced-course-resources/… | AP page template, 7 profiles | AP, 15 courses | Yes | D-379 removed dates on the main site; profile boards lack AP | AP template predates D-379 alignment | Undated, linked, "(what this means)"; `apCoursesReviewed` (owner A4) | validate-ap-library, negative AT | Fixed |
-| B-5 | 5,243 internal reviewNotes read "reviewed by X" | Low | not public | resource frontmatter | all | Yes | `git show 03159b8c` | Bulk-credit note wording | none | — | Open: OQ-1 |
+| B-5 | 7,606 internal reviewNotes read "<date>: reviewed by X" | Low | not public | resource frontmatter | all | Yes | `git show 03159b8c` | Bulk-credit note wording | Reworded to "credited to X (accountable teacher, D-379)", date kept (D-453) | rule [14], negative AV | Fixed |
 | C-1 | IB DP Biology/Chemistry FAQ gives HL figures without "HL" | High | /boards/ib/ib-dp/biology/ | `[subject].astro:496-531` (before) | IB DP Biology, Chemistry | Yes | rebuilt answer string; FAQPage JSON-LD copies it | Level named only when 2+ levels | Single-level naming plus scope note | unit 7 (all records), mutation-tested | Fixed |
 | C-2 | Staged Cambridge AS/A hubs: "% of the qualification", AS route unstated | Med | /boards/cambridge/a-level/chemistry/ | same | 16 Cambridge AS & A Level | Yes | 9701 Paper 1 "15.5% of the qualification" | Record-level stages never named | "% of the A Level" plus AS-route note | unit | Fixed |
 | C-3 | SL figures absent for DP Biology/Chemistry | Med | same | `assessments.ts` | IB | Data gap (not an error) | notes say HL only; D-128 | Licensed guide | Not supplied (no guessing) | — | Open: OQ-2 |
@@ -127,5 +127,5 @@ See [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md): 5 owner questions, 4 teac
 8. ~~7405 "AS Level" filter label (OQ-4)~~: done in D-450.
 
 **Low**
-9. (Owner) Internal reviewNote wording (OQ-1).
+9. ~~Internal reviewNote wording (OQ-1)~~: done in D-453.
 10. ~~"Named teachers" definitions (OQ-5)~~: done in D-451.

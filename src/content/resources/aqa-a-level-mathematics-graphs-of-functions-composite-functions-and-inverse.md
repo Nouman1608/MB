@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is aligned to AQA A-level Mathematics 7357, specification version 1.3 of 31 January 2018. It covers content B7 (graphs of functions) and B8 (composite and inverse functions), and builds each outcome from scratch with worked examples. The functions notation used is the specification's own: gf(x) means g(f(x)), and f⁻¹ is the inverse of f.

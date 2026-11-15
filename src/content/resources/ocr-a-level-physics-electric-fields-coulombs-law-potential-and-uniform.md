@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers section 6.2 (Electric fields) of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017: 6.2.1 point and spherical charges, 6.2.2 Coulomb's law, 6.2.3 the uniform electric field and 6.2.4 electric potential and energy. H556 is the full A level. Also see the [revision notes](/resources/ocr-a-level-physics-electric-fields-coulombs-law-potential-and-uniform-revision-notes/) and the [practice questions](/resources/ocr-a-level-physics-electric-fields-coulombs-law-potential-and-uniform-practice/). Links: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), [printable checklist](/checklists/ocr/a-level/physics/), [free diagnostics](/diagnostics/) and [Foundations of Physics](/resources/ocr-a-level-physics-foundations-of-physics/).

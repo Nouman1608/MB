@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers statements P8.3d, P8.3e, P8.3f, P8.3g and P8.3h of the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), first assessment 2018. They sit in Topic P8.3 Beyond Earth. P8.3f, P8.3g and P8.3h are printed in bold in the specification, so they are **Higher Tier only**. P8.3d and P8.3e are not in bold, so they are assessed in both tiers. All five are marked in the specification as separate Physics only content (not in Combined Science). Red-shift, the Big Bang and the formation of stars are taught on separate pages, so they are not repeated here.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense the first part of sub-topic E.3, Radioactive decay, from the IB *Physics guide* (first assessment 2025). They cover nuclear structure, binding energy and the types of decay, for SL and HL, with the five additional higher level understandings marked "HL only". Activity and half-life are the other part of E.3 and are not covered. For full explanations read the [study guide](/resources/ib-dp-physics-nuclear-structure-binding-energy-and-types-of/), then try the [practice questions](/resources/ib-dp-physics-nuclear-structure-binding-energy-and-types-of-practice/). Not sure where you stand? Take a [free 10-minute diagnostic](/diagnostics/). Related pages: the [course hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).

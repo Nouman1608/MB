@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08 recheck: added intro naming 9260 section 3.2.1, questions on index laws, substitution and consecutive-integer proof (the description listed index laws and formulae but no question tested them), and FAQ; corrected the cancelling example ((x + 3)/x² wrongly becomes 3/x). Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08 recheck: added intro naming 9260 section 3.2.1, questions on index laws, substitution and consecutive-integer proof (the description listed index laws and formulae but no question tested them), and FAQ; corrected the cancelling example ((x + 3)/x² wrongly becomes 3/x). Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

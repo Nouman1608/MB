@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added a 4024 syllabus-coverage table (2.12.1 to 2.12.3 and notes), a direct opening naming the syllabus, and an FAQ section. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08 recheck: added a 4024 syllabus-coverage table (2.12.1 to 2.12.3 and notes), a direct opening naming the syllabus, and an FAQ section. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 Functions are subtopic 2.12 of Cambridge O Level Mathematics (Syllabus D) 4024: use function notation, understand domain and range, find inverse functions and form composite functions. These notes are condensed for the final weeks. For worked examples, use the

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added questions on oxidising/reducing agents and Roman-numeral names (6.1.4, 6.1.5, previously untested), working for oxidation-number answers, opening and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08 recheck: added questions on oxidising/reducing agents and Roman-numeral names (6.1.4, 6.1.5, previously untested), working for oxidation-number answers, opening and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

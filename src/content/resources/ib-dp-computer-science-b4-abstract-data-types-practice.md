@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: new overview practice page; the subject brief lists no B.4 ADTs or outcomes, so questions are brief-based plus general ADT warm-ups, clearly labelled; replace or extend once checked against the full IB guide; please review; 2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: new overview practice page; the subject brief lists no B.4 ADTs or outcomes, so questions are brief-based plus general ADT warm-ups, clearly labelled; replace or extend once checked against the full IB guide; please review; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

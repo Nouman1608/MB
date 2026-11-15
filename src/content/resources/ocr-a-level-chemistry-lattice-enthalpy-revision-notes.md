@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Use these notes for fast recall of section 5.2.1, Lattice enthalpy, in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They summarise outcomes 5.2.1(a) to (e) in Module 5, Physical chemistry and transition elements, with no AS or A2 split because H432 is the full A level. Fuller teaching, with longer examples, is in the [Lattice enthalpy study guide](/resources/ocr-a-level-chemistry-lattice-enthalpy/).

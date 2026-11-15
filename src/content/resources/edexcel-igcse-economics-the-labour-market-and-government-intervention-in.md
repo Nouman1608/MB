@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers specification sections 1.2.5 (the labour market) and 1.2.6 (government intervention) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3. Both sections sit in Paper 1, Microeconomics and Business Economics. The course is single tier. Every country, firm and number below is invented and illustrative. Use the [revision notes](/resources/edexcel-igcse-economics-the-labour-market-and-government-intervention-in-revision-notes/) for recall and the [practice questions](/resources/edexcel-igcse-economics-the-labour-market-and-government-intervention-in-practice/) to test yourself. Course pages: [hub](/boards/edexcel/igcse/economics/), [checklist](/checklists/edexcel/igcse/economics/) and [free diagnostics](/diagnostics/). For supply and demand basics see [demand, supply and market equilibrium](/resources/edexcel-igcse-economics-demand-supply-and-market-equilibrium/).

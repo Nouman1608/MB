@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These revision notes are for Cambridge O Level Economics 2281, syllabus for examination in 2026, statements 4.3.7 to 4.3.9 (definition of fiscal policy, fiscal policy measures including budget deficit and surplus calculations, and effects on the government's macroeconomic aims). Full explanations are in the [study guide](/resources/cambridge-o-level-economics-fiscal-policy-measures-and-their-effects/), and exam-style questions are in the [practice set](/resources/cambridge-o-level-economics-fiscal-policy-measures-and-their-effects-practice/).
 

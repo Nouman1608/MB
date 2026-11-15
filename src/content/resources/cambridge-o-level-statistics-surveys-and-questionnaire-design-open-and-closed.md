@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the Cambridge O Level Statistics syllabus (4040) for examination in 2025, 2026 and 2027. It covers section 1.4, general ideas of surveys, which the syllabus says includes the use of closed and open questions in questionnaires. The syllabus is not tiered, so everything here is for every candidate. Existing pages cover sampling and bias in [Data and Its Collection](/resources/o-level-cambridge-statistics-data-and-its-collection/); this guide goes further on question design.

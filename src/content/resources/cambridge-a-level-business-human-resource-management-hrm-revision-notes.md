@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These revision notes condense section 2.1 Human resource management (HRM) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is an AS Level section that A Level candidates also study. For full explanations and worked examples, read the [study guide](/resources/cambridge-a-level-business-human-resource-management-hrm/) first, then test yourself with the [practice questions](/resources/cambridge-a-level-business-human-resource-management-hrm-practice/).
 

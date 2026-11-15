@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check which operating system topics (memory management, process management, paging) are in the AS content of 5.1 and which are A Level only; 2026-11-08: reviewed by harris-khan."
+reviewNote: "Check which operating system topics (memory management, process management, paging) are in the AS content of 5.1 and which are A Level only; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

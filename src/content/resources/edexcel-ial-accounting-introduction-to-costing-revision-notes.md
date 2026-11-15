@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense topic 1.4, Introduction to costing, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. They cover outcomes 1.4.1 to 1.4.13, all Unit 1 (The Accounting System and Costing) content, so this is International AS material that also counts towards the full International A Level. For full explanations and longer worked examples, use the [Introduction to costing study guide](/resources/edexcel-ial-accounting-introduction-to-costing/). All money amounts are in dollars.

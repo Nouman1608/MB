@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed for the final weeks. For full explanations, use the [study guide](/resources/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of/). Test yourself with the [practice questions](/resources/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of-practice/). These notes cover the first part of section 4.2.6.2 Trade (3.2.6.2 on the AQA website) in AQA A-level Economics (7136), specification version 1.3. Protectionism, trading blocs and the World Trade Organisation are covered elsewhere. All figures are invented and illustrative. See also the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), the [checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/).

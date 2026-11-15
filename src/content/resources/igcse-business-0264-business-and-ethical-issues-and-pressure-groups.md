@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 6.4 (Business and ethical issues) and 6.5 (Pressure groups) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. Questions on both papers are based on all the subject content, so this topic can appear in a short answer, a data response or the case study. Use it with the [revision notes](/resources/igcse-business-0264-business-and-ethical-issues-and-pressure-groups-revision-notes/) and the [practice questions](/resources/igcse-business-0264-business-and-ethical-issues-and-pressure-groups-practice/). The [course hub](/boards/cambridge/igcse/business/), the [printable checklist](/checklists/cambridge/igcse/business/) and the [free diagnostics](/diagnostics/) show what to do next.

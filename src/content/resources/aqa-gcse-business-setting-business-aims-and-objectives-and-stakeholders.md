@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.1.3 (Setting business aims and objectives) and 3.1.4 (Stakeholders) of the AQA GCSE Business (8132) specification, for first teaching from September 2017. Both sit in Topic 1, Business in the real world. The specification does not split this content by tier. Use the [AQA GCSE Business hub](/boards/aqa/gcse/business/) and the [printable checklist](/checklists/aqa/gcse/business/) to track progress, and take a [free 10-minute diagnostic](/diagnostics/) to find weak spots.

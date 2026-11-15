@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This page is aligned to OxfordAQA's International AS and A-level Economics course (9640), specification version 1.2, and covers 3.1.5.1 (the meaning of market failure), 3.1.5.2 (private, public and quasi-public goods) and 3.1.5.3 (positive and negative externalities in consumption and production). Section 3.1 belongs to the International AS, and the A-level extends it. Quantitative skills from section 3.5 may turn up in any unit, so the calculations below use QS2 (percentages), QS4 (graphs) and QS9 (interpreting information). All figures are invented and illustrative.
 

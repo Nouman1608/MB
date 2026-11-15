@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08 recheck: added a specification note: H240 2.05c covers the significance level as the probability of incorrectly rejecting H0, but Type I/II error terms and Type II calculations are not in the H240 specification, so that material is now labelled as extension. Please re-review; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08 recheck: added a specification note: H240 2.05c covers the significance level as the probability of incorrectly rejecting H0, but Type I/II error terms and Type II calculations are not in the H240 specification, so that material is now labelled as extension. Please re-review; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers sections 2.05a to 2.05e of Statistical Hypothesis Testing. Sections 2.05a to 2.05c are Stage 1 content, common with AS. Sections 2.05d and 2.05e, the sample mean and the test for a normal mean, are **A Level only**. Hypothesis testing for correlation (2.05f and 2.05g) has its own pages, so it is not repeated here.

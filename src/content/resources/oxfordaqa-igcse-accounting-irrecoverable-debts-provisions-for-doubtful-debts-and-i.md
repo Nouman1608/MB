@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide follows the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers part of section 3.3, Development of the accounting model: irrecoverable debts, provisions for doubtful debts, and opening and closing inventory, using cost or net realisable value, in ledger accounts and financial statements. All amounts are in dollars. The qualification is assessed by written papers only, and content 3 is listed under both Paper 1 and Paper 2, so you can meet this material in either.

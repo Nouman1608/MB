@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: split the mixed standing-wave/intensity question, added path difference, Snell's law, string-speed, intensity, polarisation, pulse-echo, electron diffraction and energy-level questions and an FAQ; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08 recheck: split the mixed standing-wave/intensity question, added path difference, Snell's law, string-speed, intensity, polarisation, pulse-echo, electron diffraction and energy-level questions and an FAQ; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-08-22
 featured: false
 ---

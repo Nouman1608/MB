@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 This guide covers sections 2.1 Costs and cost behaviour and 2.2 Traditional costing methods of the Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028. Both sections are AS Level content. The syllabus says Paper 1 has eight questions on cost and management accounting, Question 4 of Paper 2 focuses on it (30 marks), and Paper 4 assumes this AS content. All businesses and figures below are invented and all amounts are in dollars.

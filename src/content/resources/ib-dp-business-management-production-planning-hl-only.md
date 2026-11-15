@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 5.6, Production planning, in Unit 5 (Operations management) of the IB *Business management guide*, first assessment 2024. The whole section is HL only, so SL candidates do not need it. Businesses and figures below are invented.

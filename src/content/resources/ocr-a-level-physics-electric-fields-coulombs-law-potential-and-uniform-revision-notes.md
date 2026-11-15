@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 Condensed notes for section 6.2 (Electric fields) of OCR A Level Physics A (H556), Version 3.0 (March 2026), first assessment 2017. Use the [full study guide](/resources/ocr-a-level-physics-electric-fields-coulombs-law-potential-and-uniform/) for explanations and worked examples, then try the [practice questions](/resources/ocr-a-level-physics-electric-fields-coulombs-law-potential-and-uniform-practice/). Links: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), [printable checklist](/checklists/ocr/a-level/physics/) and [free diagnostics](/diagnostics/).

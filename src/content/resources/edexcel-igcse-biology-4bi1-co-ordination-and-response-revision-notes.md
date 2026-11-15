@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense sub-topic 2(j), **Co-ordination and response** (points 2.80–2.95B), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3, for the June and November series examined under Issue 3. The course is untiered; point 2.95B (ADH, FSH and LH) is a bold **B** statement and is examined on Paper 2 only. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-biology-4bi1-co-ordination-and-response/) first.

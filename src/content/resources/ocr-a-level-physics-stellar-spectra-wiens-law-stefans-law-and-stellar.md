@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers section 5.5.2 (Electromagnetic radiation from stars), outcomes (a) to (k), of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. The specification says you also need knowledge of section 4.5 (photons) for the energy equations, and of 4.4.1 (wave motion, including intensity as power per unit area) for Stefan's law.
 

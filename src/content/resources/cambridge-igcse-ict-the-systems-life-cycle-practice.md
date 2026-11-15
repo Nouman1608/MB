@@ -37,7 +37,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These practice questions cover all six stages of the systems life cycle in Cambridge IGCSE ICT 0417 Topic 7: analysis, design, development and testing, implementation, documentation and evaluation. Topic 7 is assessed on Paper 1 (Theory), where questions are set in a scenario and answers must be applied to it.

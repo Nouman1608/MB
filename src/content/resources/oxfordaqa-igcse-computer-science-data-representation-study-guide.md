@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check whether the 9210 specification requires Huffman coding or only run-length encoding, and whether hexadecimal is limited to 8-bit values. 2026-11-08 recheck: checked against spec v3.3 section 3.3: Huffman and RLE both required, conversions 0-255, decimal prefixes only; added Huffman section and worked example, removed off-spec overflow/metadata/stereo; please re-review; 2026-11-08: reviewed by harris-khan."
+reviewNote: "Check whether the 9210 specification requires Huffman coding or only run-length encoding, and whether hexadecimal is limited to 8-bit values. 2026-11-08 recheck: checked against spec v3.3 section 3.3: Huffman and RLE both required, conversions 0-255, decimal prefixes only; added Huffman section and worked example, removed off-spec overflow/metadata/stereo; please re-review; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

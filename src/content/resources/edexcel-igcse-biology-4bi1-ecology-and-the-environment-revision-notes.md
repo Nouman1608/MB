@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 4, **Ecology and the environment** (points 4.1–4.18), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3, for the June and November series examined under Issue 3. The course is untiered; points 4.3B, 4.4B, 4.11B and 4.18B are bold **B** statements and are examined on Paper 2 only. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-biology-4bi1-ecology-and-the-environment/) first.

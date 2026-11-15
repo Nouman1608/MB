@@ -32,7 +32,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the current subject guide for the case studies named under each prescribed subject, as only one prescribed subject is studied and the named examples differ by subject. 2026-11-08 recheck: added the ten named case studies, corrected Question 1 and Question 4 descriptions, added FAQ; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the current subject guide for the case studies named under each prescribed subject, as only one prescribed subject is studied and the named examples differ by subject. 2026-11-08 recheck: added the ten named case studies, corrected Question 1 and Question 4 descriptions, added FAQ; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

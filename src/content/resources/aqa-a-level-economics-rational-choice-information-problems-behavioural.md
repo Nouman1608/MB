@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level, first taught from September 2015. It covers the sub-section called Individual economic decision making, which the AQA website numbers 3.1.2 (the A-level text in the combined PDF carries the number 4.1.2). Its four parts, 3.1.2.1 to 3.1.2.4, are taught in order. Every country, firm and number below is invented, for illustration only.

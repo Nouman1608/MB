@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. It covers sections 3.4.1 (the human nervous system) and 3.4.6 (behaviour). The qualification is untiered, so everything here is for every candidate. Find the course on the [OxfordAQA IGCSE Biology hub](/boards/oxfordaqa/igcse/biology/) and tick off each statement on the [printable checklist](/checklists/oxfordaqa/igcse/biology/).

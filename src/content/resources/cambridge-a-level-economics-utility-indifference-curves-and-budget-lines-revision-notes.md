@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 7.1 (Utility) and 7.2 (Indifference curves and budget lines), outcomes 7.1.1 to 7.2.4, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 1 to 6 are AS Level content and topics 7 to 11 are A Level content, so this unit is A Level only. For full explanations, read the [study guide](/resources/cambridge-a-level-economics-utility-indifference-curves-and-budget-lines/). Then test yourself with the [practice questions](/resources/cambridge-a-level-economics-utility-indifference-curves-and-budget-lines-practice/). All figures are invented, and money is in currency units (cu).

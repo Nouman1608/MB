@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 Quick recall for section 6.2 of the Cambridge International AS & A Level Economics 9708 syllabus (examination in 2026, 2027 and 2028). This is AS Level content, topic 6. For full explanations and the main worked model, read the [study guide](/resources/cambridge-a-level-economics-protectionism/). Then test yourself with the [practice set](/resources/cambridge-a-level-economics-protectionism-practice/), the [free diagnostics](/diagnostics/) and the [course checklist](/checklists/cambridge/a-level/economics/). Course home: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). All figures are invented.
 

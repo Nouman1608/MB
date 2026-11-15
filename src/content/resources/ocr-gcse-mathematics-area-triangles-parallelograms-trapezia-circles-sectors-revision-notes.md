@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense section 10.03 (Area calculations) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). For full explanations and more worked examples, read the [study guide](/resources/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors/). Everything here is Foundation and Higher content except the one result marked Higher tier only. Check your progress against the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/), and find weak spots with the [10-minute diagnostics](/diagnostics/).

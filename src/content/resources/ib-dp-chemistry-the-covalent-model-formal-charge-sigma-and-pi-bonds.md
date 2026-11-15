@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches the higher level end of **Structure 2.2, The covalent model**, as listed in the IB *Chemistry guide* for Diploma Programme candidates examined from 2025 (issued February 2023). It works through understandings Structure 2.2.11 to 2.2.16. All six belong to the guide's additional higher level (AHL) material, so everything on this page is **HL only**. It applies to the course as first assessed in 2025.

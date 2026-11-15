@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 8 Programming covers the building blocks of every program: variables and constants, data types, sequence, selection and iteration, string handling, operators, subroutines, library routines, arrays and file handling. In Cambridge IGCSE Computer Science (0478) it is examined on Paper 2, where you write and read Cambridge-style pseudocode; the syllabus says the logic matters more than the syntax of any one language.

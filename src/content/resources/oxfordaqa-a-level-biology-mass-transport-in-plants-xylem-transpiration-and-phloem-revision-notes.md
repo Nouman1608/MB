@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes follow the *OxfordAQA International AS and A-level Biology (9610)* specification, Version 5.1, section 3.2.8 (3.2.8.1 xylem and 3.2.8.2 phloem) and Required practical 6. Unit 2 is listed as part of both the International AS and the International A-level. Read the [study guide](/resources/oxfordaqa-a-level-biology-mass-transport-in-plants-xylem-transpiration-and-phloem/) first for full explanations.

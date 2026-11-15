@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 15B: Carbonyl compounds (outcomes 15.6 to 15.8) as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. Unit 4 (Rates, Equilibria and Further Organic Chemistry), an International A2 (IA2) unit, is where it is examined. The [carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) explains each idea in full, with worked examples.

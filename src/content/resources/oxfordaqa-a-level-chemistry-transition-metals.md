@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 3.2.5, Transition metals, from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, which applies to exams from May/June 2020. It covers 3.2.5.1 to 3.2.5.6. This is International A2 content, so everything here is **International A-level only**. Unit 3 assesses it, and the synoptic Unit 5 can draw on any content.

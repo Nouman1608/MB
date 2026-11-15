@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the IB *Business management guide*, first assessment 2024. It covers sections 1.1 (What is a business?) and 1.2 (Types of business entities) of Unit 1. All of this content is SL and HL; the guide marks no HL-only material in either section. It applies to the sessions assessed under that guide.

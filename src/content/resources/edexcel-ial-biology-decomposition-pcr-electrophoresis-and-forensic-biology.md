@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, and covers statements 6.16 to 6.20 at the end of Topic 6, Microbiology, Immunity and Forensics. Topic 6 is in Unit 4, so it belongs to the International A2 (IA2) part of the course. There are no tiers, and each statement below is covered in full.
 

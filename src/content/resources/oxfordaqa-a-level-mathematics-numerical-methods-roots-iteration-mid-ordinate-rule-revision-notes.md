@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes condense section P2.9 (Numerical methods) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification lists this content under International A-level (A2) Unit P2 (Pure Maths); it is not examined at International AS. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/mathematics/) and [checklist](/checklists/oxfordaqa/a-level/mathematics/). Not sure what to revise first? Take a [free diagnostic](/diagnostics/).
 

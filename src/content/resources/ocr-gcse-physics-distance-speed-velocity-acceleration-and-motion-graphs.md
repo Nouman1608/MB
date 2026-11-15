@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide teaches **P2.1 Motion** (statements P2.1a to P2.1h) from the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), for first assessment in 2018. Every P2.1 statement except P2.1f is assessed at both Foundation and Higher Tier. P2.1f (interpreting the enclosed area in velocity-time graphs) is printed in bold in the specification, so it is **Higher Tier only**. It sits inside Topic P2 Forces, so use it with the [Forces study guide](/resources/ocr-gcse-physics-forces/), the [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/) and the [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/).

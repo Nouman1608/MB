@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: section numbering changed from the spec PDF's 4.2.1 to the site's 3.2.1 with a note explaining both; description shortened; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: section numbering changed from the spec PDF's 4.2.1 to the site's 3.2.1 with a note explaining both; description shortened; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 This guide covers **3.2.1 Language Diversity and Change** (4.2.1 in the specification PDF), the content

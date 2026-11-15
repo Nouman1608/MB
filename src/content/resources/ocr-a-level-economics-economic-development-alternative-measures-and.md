@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the development statements of the Component 2 (Macroeconomics) topic "Economic growth and development" in the OCR A Level Economics specification (H460), Version 3.0 (June 2026), for first assessment in 2021. It teaches development and sustainable development, how they differ from growth, how ODA and trade can help, the measures of progress (GDP, HDI, Genuine Progress Indicator and others), growth and happiness, and the international organisations. Growth measurement, recession and real versus nominal GDP are covered elsewhere. All data below is invented and illustrative.

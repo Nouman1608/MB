@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the exact task titles, word limits, controlled conditions, supervision rules, the nature of the commentary, and mark allocation for the non-exam assessment route in the specification, as only general project skills are taught here. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "Check the exact task titles, word limits, controlled conditions, supervision rules, the nature of the commentary, and mark allocation for the non-exam assessment route in the specification, as only general project skills are taught here. 2026-11-08 recheck: FAQ added; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense **Section D: Sequences and series** (D1 to D6) of AQA A-Level Mathematics (7357), from the AQA A-level Mathematics specification, version 1.3 (31 January 2018), for exams from June 2018 onwards. The specification lists Section D under Paper 1, and Papers 2 and 3 can assess any Paper 1 content. For full explanations and worked examples, read the [Section D study guide](/resources/aqa-a-level-mathematics-sequences-and-series/). To practise exam-style questions, use the [Section D practice set](/resources/aqa-a-level-mathematics-sequences-and-series-practice/).

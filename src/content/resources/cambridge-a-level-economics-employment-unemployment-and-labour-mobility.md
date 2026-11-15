@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 9.3 (Employment/unemployment), outcomes 9.3.1 to 9.3.7, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content only. It is not examined at AS, although the AS content on unemployment (section 4.5) is assumed knowledge. Every country, firm and number below is invented for illustration and is not a real statistic.

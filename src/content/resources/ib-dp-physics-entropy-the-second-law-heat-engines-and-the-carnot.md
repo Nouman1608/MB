@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers the second half of sub-topic B.4, Thermodynamics, from the IB *Physics guide* (first assessment 2025): entropy, the second law, heat engines and the Carnot limit. All of B.4 is additional higher level, so everything here is HL only; the guide lists no standard level content in B.4. The first law, work done by a gas and the named gas processes belong to the other half of B.4 and are not taught here. For condensed recall use the [revision notes](/resources/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot-revision-notes/), then try the [practice questions](/resources/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot-practice/). To find your weak spots first, take the [free 10-minute diagnostics](/diagnostics/).

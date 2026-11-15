@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Quick recall for AQA GCSE Economics (8136), first taught from September 2017: **3.1.3.5 Price elasticity of demand** and **3.1.3.6 Price elasticity of supply**. For full explanations, use the [study guide](/resources/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation/). Then test yourself with the [practice questions](/resources/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation-practice/), tick the [checklist](/checklists/aqa/gcse/economics/), visit the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/) or take a [free diagnostic](/diagnostics/). The specification has no tiers. All figures and firms here are invented.

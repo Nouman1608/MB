@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P3 section 2 (topics 2.1 to 2.3): reciprocal and inverse trigonometric functions, the identities for sec² and cosec², and the double angle, compound angle and a cos θ + b sin θ results. The specification lists P3 and P4 as compulsory for IAL Mathematics and Pure Mathematics only. It gives IAS weighting as N/A, so P3 sits outside IAS.
 

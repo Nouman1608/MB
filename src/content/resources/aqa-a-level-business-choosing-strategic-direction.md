@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers topic 8, Choosing strategic direction, of the AQA A-level Business (7132) specification (the AQA AS and A-level Business specification, A-level only content, sections 3.8.1 and 3.8.2). The specification lists all of its content as assessable in each of the three A-level papers, so expect this topic to appear inside case studies, data responses and essays alongside other topics. Use it with the [revision notes](/resources/aqa-a-level-business-choosing-strategic-direction-revision-notes/) and the [practice set](/resources/aqa-a-level-business-choosing-strategic-direction-practice/). The course hub is [AQA A-level Business](/boards/aqa/a-level/business/) and the printable [checklist](/checklists/aqa/a-level/business/) tracks your progress. To find weak spots first, try the free [10-minute diagnostics](/diagnostics/).

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense outcomes 4.2.1(f) to 4.2.1(i) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. The [study guide](/resources/ocr-a-level-biology-threats-to-biodiversity-and-conservation/) teaches each point with worked examples. When you can recall everything below, test yourself with the [practice questions](/resources/ocr-a-level-biology-threats-to-biodiversity-and-conservation-practice/), tick off outcomes on the [OCR Biology checklist](/checklists/ocr/a-level/biology/), and see the [hub](/boards/ocr/a-level/biology/) for other topics. The [free diagnostics](/diagnostics/) help you pick what to revise next.

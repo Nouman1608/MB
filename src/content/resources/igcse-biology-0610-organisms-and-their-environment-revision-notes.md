@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense topic 19, Organisms and their environment, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028 (sections 19.1 to 19.4) for your final weeks of revision. Supplement content is marked **Extended only**; Core candidates (Papers 1 and 3) can skip it, while Extended candidates (Papers 2 and 4) need all of it. For full explanations and worked examples, use the [Organisms and their environment study guide](/resources/igcse-biology-0610-organisms-and-their-environment/).

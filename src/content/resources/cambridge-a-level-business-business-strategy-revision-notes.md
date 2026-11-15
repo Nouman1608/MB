@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes condense section 6.2 Business strategy (6.2.1 Developing business strategy and 6.2.2 Corporate planning and implementation) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is A Level content. For full explanations and worked examples, use the [study guide](/resources/cambridge-a-level-business-business-strategy/), then test yourself with the [practice questions](/resources/cambridge-a-level-business-business-strategy-practice/).
 

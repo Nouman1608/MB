@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the IB *Mathematics guide (for use from September 2020/January 2021)*, the MYP Mathematics framework, in the branch called **Thinking with models**. It covers the algorithm, network and linear programming rows of that branch, plus the idea of applying and limiting models. Algorithms sit in the MYP 4-5 standard column, with flowcharts and simple algorithms appearing earlier in the Algebra row for MYP 1-3. Linear programming and networks are listed in the MYP 4-5 **extended** column. MYP has no tiers, and nothing here is an enrichment item.

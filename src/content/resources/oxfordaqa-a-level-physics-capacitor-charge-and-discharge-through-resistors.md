@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.9.1, Capacitor charge and discharge, of the OxfordAQA International AS and A-level Physics (9630) specification (version 4.4). The specification marks section 3.9 as International A-level only, so you do not need it for International AS. It assumes you know C = Q/V from section 3.8.4. For the course overview see the [OxfordAQA A-level Physics hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

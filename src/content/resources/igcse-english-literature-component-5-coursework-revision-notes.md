@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 Component 5 is the optional coursework component of Cambridge IGCSE Literature in English (0475): you

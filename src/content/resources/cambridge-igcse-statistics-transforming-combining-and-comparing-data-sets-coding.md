@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers **Topic 6, Transformations of data sets**, in the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027. It teaches outcomes 6.1 to 6.6: the effect of adding or multiplying by a constant, the effect of adding or removing values, combining two data sets, scaling and standardising, and comparing distributions. It builds on the averages and measures of spread from Topics 4 and 5.

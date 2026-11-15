@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These revision notes condense sections 3.1.5.1 to 3.1.5.3 of the AQA specification for GCSE Economics (8136), first taught from September 2017. There are no tiers. For full explanations read the [study guide](/resources/aqa-gcse-economics-market-structures-competitive-and-non-competitive/), then test yourself with the [practice questions](/resources/aqa-gcse-economics-market-structures-competitive-and-non-competitive-practice/). Also see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), the [checklist](/checklists/aqa/gcse/economics/) and the [free diagnostics](/diagnostics/). All examples are invented.

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 Paper 4 of Cambridge International AS & A Level Literature in English (9695) is a two-hour, closed-book

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers Practical Activity Groups (PAGs) 5 to 8 in Topic B7 (Practical skills) of the OCR GCSE (9-1) Biology A Gateway Science specification (J247), Version 4.0, for first assessment in 2018. The specification says 15% of the questions in the written examinations assess practical skills, in both tiers. No Higher Tier only labels apply to this unit. Use it with the [revision notes](/resources/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology-revision-notes/) and the [practice questions](/resources/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology-practice/). The course hub is at [OCR GCSE Biology](/boards/ocr/gcse/biology/) and the printable list is the [OCR GCSE Biology checklist](/checklists/ocr/gcse/biology/). To find your weak spots first, try the [free diagnostics](/diagnostics/).

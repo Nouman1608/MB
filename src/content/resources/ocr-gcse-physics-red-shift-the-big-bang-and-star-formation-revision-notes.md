@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense statements P8.3a to P8.3c of the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. None of the three statements is printed in bold, so they are assessed in both tiers. All three are separate Physics only content (not in Combined Science). For full explanations, read the [study guide](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation/), then try the [practice questions](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 Full explanations and worked examples are in the [study guide](/resources/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging/). These notes condense OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), section 6.02 (Algebraic formulae, 6.02a to 6.02e) for the final weeks. Four formulae are **Higher tier only** and are marked. The specification says no formula sheet is provided: all formulae you must know are listed under 6.02d.
 

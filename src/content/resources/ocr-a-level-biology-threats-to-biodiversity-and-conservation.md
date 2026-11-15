@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers learning outcomes 4.2.1(f) to 4.2.1(i) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It sits in Module 4, Biodiversity, evolution and disease, which the specification lists as content for component 02 (Biological diversity) and component 03 (Unified biology). The measuring side of biodiversity (sampling, richness, evenness, Simpson's Index and genetic diversity) is outcomes (a) to (e) and is not repeated here.

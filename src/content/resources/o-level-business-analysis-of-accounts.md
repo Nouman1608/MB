@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This study guide covers section 5.5, Analysis of accounts, of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It teaches profitability, liquidity, five named ratios and the way different users of accounts make decisions. The syllabus lists no tiers or extension material for this section. Paper 1 and Paper 2 are each 1 hour 30 minutes, worth 80 marks and 50% of the grade, and both draw on content from the whole syllabus, so ratios can appear in either.
 

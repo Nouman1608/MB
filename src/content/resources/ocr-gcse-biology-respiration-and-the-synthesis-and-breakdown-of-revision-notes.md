@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Condensed notes for OCR *GCSE (9-1) Gateway Science Biology A* (J247), Version 4.0 (August 2026), first assessment 2018, topic B1.3 Respiration (outcomes B1.3a to B1.3f). No B1.3 statement is bold in the specification, so nothing here is Higher Tier only. For full explanations use the [study guide](/resources/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of/), then try the [practice questions](/resources/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of-practice/). Also useful: the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), the [printable checklist](/checklists/ocr/gcse/biology/), the [free diagnostics](/diagnostics/) and the [Cell level systems notes](/resources/ocr-gcse-biology-cell-level-revision-notes/).

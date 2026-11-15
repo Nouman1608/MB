@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the task format, timing, assessment criteria, grade labels, and the arrangements for recording and moderation in the current Edexcel specification, as only general skills are taught here. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "Check the task format, timing, assessment criteria, grade labels, and the arrangements for recording and moderation in the current Edexcel specification, as only general skills are taught here. 2026-11-08 recheck: FAQ added; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

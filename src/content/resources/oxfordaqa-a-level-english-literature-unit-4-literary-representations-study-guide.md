@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check what Unit 4 actually assesses: whether it is an exam or non-exam assessment, the type and number of texts, whether any critical reading or independent choice is involved, and the assessment objective weightings. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "Check what Unit 4 actually assesses: whether it is an exam or non-exam assessment, the type and number of texts, whether any critical reading or independent choice is involved, and the assessment objective weightings. 2026-11-08 recheck: FAQ added; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

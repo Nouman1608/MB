@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.1.2.4, The marketing mix, in the OxfordAQA International AS and A-level Business specification. **The two specifications differ here.** The main text below follows 9725 (Version 1.1, International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards), which lists four elements: product, pricing, the promotional mix and distribution (place). The current 9625 text (Version 3.1) is built on **seven** Ps and has different content in places, so it has its own section, [If your course is 9625](#if-your-course-is-9625), after the 9725 material. Check which specification your school follows. Every business below is invented.

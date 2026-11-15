@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 How many people live in a place, where they live and how old they are shape the demand for food, water, energy, housing and services. This topic gives you the measures that geographers and environmental managers use to describe population, then asks you to explain why populations change and how governments try to influence that change. Much of the marking is numerical, so practise the calculations until they are routine.

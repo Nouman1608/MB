@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the AQA AS and A-level Economics specification (7135 and 7136), version 1.3, sub-section "Possible conflicts between macroeconomic policy objectives" (4.2.3.4 in the combined PDF, 3.2.3 on the AQA website and this site's map). For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the/). Then try the [practice set](/resources/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the-practice/), check the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/), and take a free [diagnostic](/diagnostics/). Recap AD/AS first in the [AD/AS guide](/resources/aqa-a-level-economics-aggregate-demand-supply/). All figures below are invented for illustration.

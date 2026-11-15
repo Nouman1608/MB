@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Presentations in Cambridge IGCSE ICT 0417 (Topic 19) cover creating a presentation from a text file, using a master slide to place and format objects consistently, editing slides (layouts, objects, presenter notes, hyperlinks, action buttons, alternative text, transitions, animations, hidden slides) and outputting the presentation as a looped carousel, presenter-controlled show or printed handouts. It is assessed practically in Paper 2.

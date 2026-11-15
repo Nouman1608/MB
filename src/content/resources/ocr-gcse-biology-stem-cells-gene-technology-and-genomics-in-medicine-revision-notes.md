@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 These revision notes condense statements B6.3v, B6.3w and B6.3x of OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine/). Test yourself with the [practice questions](/resources/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine-practice/), tick off points on the [printable checklist](/checklists/ocr/gcse/biology/), see the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and take a [free diagnostic](/diagnostics/) to find weak spots. None of these three statements is marked Higher Tier only in the specification text.
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes cover section 3.1.7, Oxidation, reduction and redox equations, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole section is AS content and is also part of the full A-level; none of it is marked "A-level only". The specification places it in Paper 1 at both AS and A-level, and A-level Paper 3 can test any content.

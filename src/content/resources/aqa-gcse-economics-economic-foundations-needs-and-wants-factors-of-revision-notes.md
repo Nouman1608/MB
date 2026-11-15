@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense **section 3.1.1, Economic foundations**, of the AQA specification for GCSE Economics (8136), first taught from September 2017 (3.1.1.1 economic activity, 3.1.1.2 the factors of production, 3.1.1.3 making choices). For fuller explanations, read the [study guide](/resources/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of/). When you are ready to test yourself, use the [practice questions](/resources/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of-practice/), the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), the [printable checklist](/checklists/aqa/gcse/economics/), the wider [How Markets Work guide](/resources/aqa-gcse-economics-how-markets-work/) and our [free 10-minute diagnostics](/diagnostics/). The specification has no tiers. All figures here are invented.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 1.5 (Growth and evolution) and 1.6 (Multinational companies (MNCs)) of Unit 1 in the IB *Business management guide*, first assessment 2024. Neither section carries an HL-only label in the guide. Full explanations and longer worked examples are in the [study guide](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs/). Test yourself with the [practice questions](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs-practice/), tick off topics on the [checklist](/checklists/ib/ib-dp/business/), and see the [course page](/boards/ib/ib-dp/business/). To find weak spots first, try the [free diagnostics](/diagnostics/).

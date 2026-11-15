@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense learning outcomes 2.1.5(a) to (e) of the OCR A Level Biology A specification (H420, Version 4.1, April 2026, first assessment 2025), including the practical work the specification links to PAG5 (colorimeter) and PAG8 (transport in and out of cells). The course sits on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/); tick off outcomes on the [printable checklist](/checklists/ocr/a-level/biology/). Phospholipids and cholesterol are introduced in the [water, carbohydrates and lipids revision notes](/resources/ocr-a-level-biology-water-carbohydrates-and-lipids-revision-notes/); membranes inside organelles appear in the [cell structure revision notes](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus-revision-notes/); and water potential is used again in the [exchange and transport revision notes](/resources/ocr-a-level-biology-exchange-and-transport-revision-notes/). Colorimeter and dilution technique are in the [practical endorsement revision notes](/resources/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques-revision-notes/), and the [free diagnostics](/diagnostics/) show gaps quickly.

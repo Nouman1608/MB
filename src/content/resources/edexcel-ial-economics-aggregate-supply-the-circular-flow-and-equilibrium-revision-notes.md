@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 2.3.3 and 2.3.4 items 1 to 3 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (YEC11), Issue 2, June 2018. The specification places this content in Unit 2, one of the two International AS (IAS) units, so it also counts towards the full International Advanced Level. For explanations and fuller examples, read the [study guide](/resources/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium/), then test yourself on the [practice set](/resources/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense 6.3.2 Spectroscopy for final revision. For full explanations and five worked examples, use the [Spectroscopy study guide](/resources/ocr-a-level-chemistry-spectroscopy/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches the oligopoly part of the OCR A Level Economics (H460) specification, Version 3.0 (June 2026). It sits in the Competition and market power area of study, under Market structures, in Component 01, Microeconomics.

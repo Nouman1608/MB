@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes condense section 3.9.3 Chemical cells and fuel cells of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Both statements, a and b, are included. There are no tiers, and Paper 1 or Paper 2 may test this section. Go to the [chemical cells and fuel cells study guide](/resources/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells/) when you need the longer explanations.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These revision notes follow the IB *Physics guide*, first assessment 2025, and condense the second half of topic B.1 (Thermal energy transfers): conduction, convection and thermal radiation. They apply to Standard Level and Higher Level, since B.1 has no HL-only material. Full explanations and longer worked examples are in the [study guide](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan/).

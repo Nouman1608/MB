@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Here you will learn Structure 2.2.1 to 2.2.10, the opening understandings of the covalent model, following the *Chemistry guide* that the IB published in February 2023 for Diploma Programme courses first assessed in 2025. Everything in this range is taught at both SL and HL. The single exception is the extension on transition element complexes, which belongs to the additional higher level material and is marked HL only below.

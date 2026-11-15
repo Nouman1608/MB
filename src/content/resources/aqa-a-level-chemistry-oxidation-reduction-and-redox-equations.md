@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide covers section 3.1.7, Oxidation, reduction and redox equations, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. All of 3.1.7 is AS content, so it is also part of the full A-level; nothing in this section is marked "A-level only". The specification lists 3.1.7 under Paper 1 for both AS and A-level, and A-level Paper 3 can assess any content. No required practical is listed in this section, but the skills here are used again in inorganic chemistry and in titration calculations.

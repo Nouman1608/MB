@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the first part of the topic Supply and demand and the interaction of markets in Component 1 (Microeconomics) of OCR's *A Level Economics* specification (H460), Version 3.0 of June 2026, first assessed in 2021. The specification labels no content as AS or A level. How demand and supply combine to give equilibrium is a separate topic, so it is left out. Course pages: the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/). Practise with the [revision notes](/resources/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus-revision-notes/) and the [practice questions](/resources/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus-practice/), and find weak spots with the [free diagnostics](/diagnostics/). Every country, firm and figure below is invented for illustration.

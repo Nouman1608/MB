@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers two sub-sections of the AQA A-level Economics (7136) specification, version 1.3: commercial banks and investment banks (4.2.4.2) and the regulation of the financial system (4.2.4.4). The specification PDF numbers the A-level content 4.2.4.2 and 4.2.4.4. The AQA website numbers it 3.2.4.2 and 3.2.4.4. Neighbouring sub-sections are taught on other pages. Every bank, country and figure below is invented for illustration, not real data.

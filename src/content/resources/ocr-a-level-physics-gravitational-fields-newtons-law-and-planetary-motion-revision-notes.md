@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 Quick recall for sections 5.4.1 to 5.4.3 of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017: fields due to mass, Newton's law of gravitation and planetary motion. H556 is the full A level. Full explanations and worked examples are in the [study guide](/resources/ocr-a-level-physics-gravitational-fields-newtons-law-and-planetary-motion/). Gravitational potential and energy (5.4.4) is a separate topic.
 

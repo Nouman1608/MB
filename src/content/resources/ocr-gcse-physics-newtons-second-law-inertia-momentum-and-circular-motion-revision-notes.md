@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 Quick recall for statements P2.2i, P2.2j, P2.2k, P2.2l and P2.2q of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026). P2.2j, P2.2k and P2.2q are printed in bold in the specification, so they are Higher Tier only; P2.2i is for both tiers. P2.2l is not printed in bold (it is separate Physics only content), but its force and change in momentum work is treated as Higher Tier only here because it depends on momentum (P2.2k), which is bold. For full explanations, start with the [study guide](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion/). Then test yourself with the [practice questions](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-practice/), tick off the [printable checklist](/checklists/ocr/gcse/physics/), see the [course hub](/boards/ocr/gcse/physics/) and take the [free 10-minute diagnostics](/diagnostics/).

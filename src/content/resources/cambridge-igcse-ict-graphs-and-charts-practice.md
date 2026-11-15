@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 16: creating, labelling and editing graphs and charts. They test choosing data and chart types, every label named in the syllabus, a second data series and axis, number formats, axis scales and enhancements such as extracting a pie sector. Charts are produced in the practical papers, so Section C gives a practical task with an examiner-style checklist.

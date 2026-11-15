@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 A spreadsheet stores data in a grid of cells and recalculates results automatically when the data changes. In Cambridge IGCSE ICT the practical task asks you to build a working model from instructions, use formulas and functions correctly, search or sort the data and present the result clearly. Marks are lost most often by typing values instead of formulas and by cell references that break when copied. This guide follows the three subtopics and works through a complete example with the answers calculated.

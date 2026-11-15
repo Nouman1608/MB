@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 Quick-recall notes for section 3.1 (3.1.1 to 3.1.3) of the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4. Section 3.1 is shared content, assessed at International AS and at International A-level. For full explanations and longer worked examples, use the [study guide](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of/). To test yourself afterwards, use the [practice questions](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-practice/), the [course hub](/boards/oxfordaqa/a-level/physics/), the [checklist](/checklists/oxfordaqa/a-level/physics/) and the [free diagnostics](/diagnostics/). An earlier set of [measurements revision notes](/resources/oxfordaqa-a-level-physics-measurements-revision-notes/) is also available.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These notes condense sections 3.7.1 a to f and 3.7.2 a to g of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. The qualification is untiered. For full explanations read the [study guide](/resources/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising-practice/).
 

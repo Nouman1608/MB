@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 11: Kinetics of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 11.1 to 11.13, including Core Practicals 9a, 9b and 10. The topic sits in Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit, and builds on Unit 2, Topic 9A. The [kinetics study guide](/resources/edexcel-ial-chemistry-kinetics/) has the full teaching and worked examples.

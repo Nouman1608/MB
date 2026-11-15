@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the role of the financial sector in the real economy for the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. This is Component 02 macroeconomics, and no part of it carries a separate stage label. Use the [study guide](/resources/ocr-a-level-economics-financial-institutions-markets-and-borrowing/) for full explanations. Figures are invented: Country B and its currency unit (cu) are fictional.

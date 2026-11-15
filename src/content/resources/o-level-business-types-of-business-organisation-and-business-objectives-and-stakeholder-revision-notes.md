@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These revision notes are for the Cambridge O Level Business Studies 7115 syllabus for examination in 2026, sections 1.4 (Types of business organisation) and 1.5 (Business objectives and stakeholder objectives). The syllabus is not tiered. For full explanations go to the [study guide](/resources/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder/), then test yourself with the [practice questions](/resources/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder-practice/).

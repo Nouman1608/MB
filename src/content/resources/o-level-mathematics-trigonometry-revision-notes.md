@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes condense topic 6, Trigonometry, from the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027, sections 6.1 to 6.4. The syllabus has no tiers, so everything here is for every candidate. For full explanations and longer worked examples, read the [study guide](/resources/o-level-mathematics-trigonometry/). For testing, use the [existing practice questions](/resources/o-level-mathematics-trigonometry-practice/).
 

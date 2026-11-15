@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Databases in Cambridge IGCSE ICT 0417 (Topic 18) cover creating a database structure (importing data, setting field data types, primary and foreign keys and relationships, data entry forms), manipulating data (calculated fields, sorting, and queries with operators and wildcards) and presenting data in reports. The practical skills are tested in Paper 2, and flat-file versus relational databases, keys and form design can be asked in Paper 1.

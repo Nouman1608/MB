@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 1.3.2 Consumer behaviour and demand, items 1 to 3, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. The content sits in Unit 1, which the specification labels IAS (International Advanced Subsidiary) and which also counts towards the full IAL. All numbers below are made up for illustration, and money amounts are in invented currency units.

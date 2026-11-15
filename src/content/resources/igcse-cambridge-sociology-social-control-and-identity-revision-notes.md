@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 These notes cover two linked key questions from Cambridge IGCSE Sociology (0495) Paper 1: 2.2 *How

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes condense the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, section S2.2 (second part: mean and variance of continuous random variables and of sums of independent variables) and section S2.3 (exponential distribution). The specification places this in International A-level Unit S2 (Statistics); it is not examined at International AS. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-mathematics-mean-and-variance-of-continuous-variables-and-the/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-mathematics-mean-and-variance-of-continuous-variables-and-the-practice/). Pdf and cdf work is in [Probability density and cumulative distribution functions](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution-revision-notes/). Course pages: [hub](/boards/oxfordaqa/a-level/mathematics/) and [checklist](/checklists/oxfordaqa/a-level/mathematics/). Unsure where to start? Take a [free diagnostic](/diagnostics/).
 

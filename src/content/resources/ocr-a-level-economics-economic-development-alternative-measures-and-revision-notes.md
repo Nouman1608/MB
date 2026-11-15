@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the development statements of "Economic growth and development" in Component 2 (Macroeconomics) of OCR A Level Economics (H460), Version 3.0 (June 2026), for first assessment in 2021. For fuller explanations and longer examples, use the [study guide](/resources/ocr-a-level-economics-economic-development-alternative-measures-and/); test yourself with the [practice questions](/resources/ocr-a-level-economics-economic-development-alternative-measures-and-practice/). See also the [OCR Economics hub](/boards/ocr/a-level/economics/), the [printable checklist](/checklists/ocr/a-level/economics/), the wider [Macroeconomics revision notes](/resources/ocr-a-level-economics-macroeconomics-revision-notes/) and the free [diagnostics](/diagnostics/). All data is invented.

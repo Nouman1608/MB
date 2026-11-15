@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.5 Marketing of the OxfordAQA International GCSE Business (9225) specification, version 3.1, for exams from May/June 2022 onwards. The specification lists Marketing as the content assessed in Paper 2, alongside Finance. It has four parts: identifying customers, segmentation, market research and the marketing mix (the 4Ps). Every business, person and figure below is invented. When you are ready, use the [revision notes](/resources/oxfordaqa-igcse-business-marketing-revision-notes/), the [practice questions](/resources/oxfordaqa-igcse-business-marketing-practice/), the [course hub](/boards/oxfordaqa/igcse/business/), the [printable checklist](/checklists/oxfordaqa/igcse/business/) and the [free diagnostics](/diagnostics/).

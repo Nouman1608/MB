@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense functions and models from the thinking with models framework of the IB Middle Years Programme *Mathematics guide* (first assessment 2022). The [study guide](/resources/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and/) has the explanations and fully worked examples. Test yourself with the [practice set](/resources/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and-practice/). Course page: [MYP Mathematics](/boards/ib/ib-myp/mathematics/). Progress tracker: [checklist](/checklists/ib/ib-myp/mathematics/). To find weak spots first, try the [all free 10-minute diagnostics](/diagnostics/).

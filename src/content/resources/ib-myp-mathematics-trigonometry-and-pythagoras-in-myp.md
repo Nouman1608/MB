@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers the trigonometry rows of the **spatial reasoning** branch in the IB *Mathematics guide (for use from September 2020/January 2021)*, first assessment 2022. The framework places triangle properties, bearings, Pythagoras' theorem and right-angled trigonometry in MYP 4-5 (standard). The converse of Pythagoras and the sine and cosine rules are listed for MYP 4-5 (extended). The framework's enrichment list adds further ideas, covered at the end and labelled **enrichment**. MYP has no tiers.

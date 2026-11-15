@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes cover Topic 17, Inheritance, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4): sections 17.1 Variation, 17.2 DNA, 17.3 Inheritance and 17.4 Selection. The syllabus is not tiered, so all of it applies to every candidate. For full explanations and worked examples, use the [study guide](/resources/o-level-biology-5090-inheritance/).

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 14: creating, editing and applying styles (font, alignment, enhancement, spacing and bullets) and the purpose and uses of a corporate house style. Styles are tested practically in Papers 2 and 3, so the page includes practical-style tasks with an examiner-style checklist as well as theory questions.

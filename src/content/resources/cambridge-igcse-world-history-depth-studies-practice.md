@@ -32,7 +32,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the indicative answers against the 0470 2024-2026 syllabus focus points and a recent Paper 1 mark scheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the indicative answers against the 0470 2024-2026 syllabus focus points and a recent Paper 1 mark scheme before teacher sign-off; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

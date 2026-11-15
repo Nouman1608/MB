@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes condense the study guide for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. They cover Unit P4 sections 1.1 (proof by contradiction), 2.1 (partial fractions) and 4.1 (binomial series for any rational n). The specification lists P4 as compulsory for IAL Mathematics and Pure Mathematics. It is not part of IAS. For full explanations, start with the [study guide](/resources/edexcel-ial-mathematics-proof-by-contradiction-partial-fractions-and-the/).
 

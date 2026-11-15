@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopics 2.9 to 2.11, Section C (table of values and graphical root counting, exponential and reciprocal asymptotes) and FAQ; reworded the cubic-roots answer (meets the axis at one, two or three points); rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopics 2.9 to 2.11, Section C (table of values and graphical root counting, exponential and reciprocal asymptotes) and FAQ; reworded the cubic-roots answer (meets the axis at one, two or three points); rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

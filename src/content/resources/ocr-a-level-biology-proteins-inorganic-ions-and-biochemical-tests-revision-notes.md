@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense OCR A Level Biology A (H420, Version 4.1, April 2026, first assessment 2025), module 2.1.2 Biological molecules, statements (k) to (s). For full explanations go to the [study guide](/resources/ocr-a-level-biology-proteins-inorganic-ions-and-biochemical-tests/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-proteins-inorganic-ions-and-biochemical-tests-practice/).

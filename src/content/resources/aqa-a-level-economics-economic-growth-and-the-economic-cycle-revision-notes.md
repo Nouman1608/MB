@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes for AQA A-level Economics (7136), version 1.3 of the specification (29 June 2022). The content point is "Economic growth and the economic cycle", numbered 3.2.3.1 on the AQA website and 4.2.3.1 in the combined AS and A-level PDF. For full explanations use the [study guide](/resources/aqa-a-level-economics-economic-growth-and-the-economic-cycle/). Test yourself with the [practice set](/resources/aqa-a-level-economics-economic-growth-and-the-economic-cycle-practice/), find the [course hub](/boards/aqa/a-level/economics/) and [printable checklist](/checklists/aqa/a-level/economics/), and take a [free diagnostic](/diagnostics/) to find weak spots. For the AD/AS model itself see the [aggregate demand and supply guide](/resources/aqa-a-level-economics-aggregate-demand-supply/).

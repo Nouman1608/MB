@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 5.1-5.4 (advertising, banking, insurance, sources of finance and calculations); removed tourism and communication (not Topic 5) and the principles of insurance (not in the syllabus); please review; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 5.1-5.4 (advertising, banking, insurance, sources of finance and calculations); removed tourism and communication (not Topic 5) and the principles of insurance (not in the syllabus); please review; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

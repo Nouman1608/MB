@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers IB Diploma Programme Biology, section C4.1 (Populations and communities), as set out in the IB *Biology guide*, first assessment 2025. It teaches C4.1.1 to C4.1.18 and applies to Standard Level and Higher Level alike, because the guide gives C4.1 no additional higher level content. Use the [revision notes](/resources/ib-dp-biology-populations-and-communities-sampling-growth-revision-notes/) for quick recall and the [practice set](/resources/ib-dp-biology-populations-and-communities-sampling-growth-practice/) to test yourself. Related: [abiotic factors and tolerance](/resources/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance/) and [niches and feeding](/resources/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and/). Hub: [IB DP Biology](/boards/ib/ib-dp/biology/); [checklist](/checklists/ib/ib-dp/biology/); [free diagnostics](/diagnostics/).

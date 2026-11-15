@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide teaches topic 2.8, Marginal costing and absorption costing, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. It covers outcomes 2.8.1 to 2.8.6. The topic belongs to Unit 2 (Corporate and Management Accounting) and is **Unit 2 (A2) only**. All businesses and numbers are invented; amounts are in dollars.

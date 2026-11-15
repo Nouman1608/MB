@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches alcohols, carboxylic acids and esters for OxfordAQA International GCSE Chemistry (9202). The source document is the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Every lettered statement of section 3.10.3 is taught here: 3.10.3.1 Alcohols (a to c), 3.10.3.2 Carboxylic acids (a and b) and 3.10.3.3 Esters (a and b). Every student sits the same two papers. Either paper may test this unit, since the specification says each paper can assess any part of the course.

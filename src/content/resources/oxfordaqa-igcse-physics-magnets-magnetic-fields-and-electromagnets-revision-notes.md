@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These notes condense section 3.5.2 (Magnetism and electromagnetism) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. For full explanations, start with the [study guide](/resources/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets/). When you are ready, try the [practice questions](/resources/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets-practice/).
 

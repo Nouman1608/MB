@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 Quick recall for outcomes 7.6.1, 7.6.2, 7.6.3 and 7.6.5 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 1 to 6 are AS Level content and topics 7 to 11 are A Level content; this unit is A Level only. Full explanations are in the [study guide](/resources/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration/), and the [practice set](/resources/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration-practice/) tests it. Check gaps with the [free diagnostics](/diagnostics/), tick the [course checklist](/checklists/cambridge/a-level/economics/) and use the [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/). All data below is invented.
 

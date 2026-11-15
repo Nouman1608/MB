@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers section P2.8 (Differential equations) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. Unit P2 (Pure Maths) is part of the International A-level (A2), and this content does not appear at International AS. You need two skills: forming a simple differential equation from a description, including growth and decay, and solving a first-order equation with separable variables, including in practical problems.

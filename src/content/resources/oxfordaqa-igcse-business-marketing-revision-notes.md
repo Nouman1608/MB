@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.5 Marketing of the OxfordAQA International GCSE Business (9225) specification, version 3.1, for exams from May/June 2022 onwards. For full explanations read the [study guide](/resources/oxfordaqa-igcse-business-marketing/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-business-marketing-practice/). The [course hub](/boards/oxfordaqa/igcse/business/), the [printable checklist](/checklists/oxfordaqa/igcse/business/) and the [free diagnostics](/diagnostics/) show what else to revise. All businesses and figures are invented.

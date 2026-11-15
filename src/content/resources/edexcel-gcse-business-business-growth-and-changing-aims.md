@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2, Topic 2.1 Growing the business, content items 2.1.1 (business growth) and 2.1.2 (changes in business aims and objectives). The specification lists formulae in Appendix 3 and says they are not provided in the examinations, so learn the ones used here. Every business below is invented.

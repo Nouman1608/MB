@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense statements P2.2m, P2.2n and P2.2o of the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026, first assessment in 2018. All three statements are assessed in both tiers. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces/).

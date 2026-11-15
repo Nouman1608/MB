@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopic 2.12, Section C (composite function as a simplified fraction, solving h(x) = k, inverse equation) and FAQ; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopic 2.12, Section C (composite function as a simplified fraction, solving h(x) = k, inverse equation) and FAQ; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

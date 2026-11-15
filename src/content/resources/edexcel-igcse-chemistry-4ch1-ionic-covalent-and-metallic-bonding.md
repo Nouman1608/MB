@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches sub-topics 1(f) Ionic bonding, 1(g) Covalent bonding and 1(h) Metallic bonding (points 1.37 to 1.54C) of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). The qualification is untiered. Points 1.37 to 1.51 are assessed on both papers. Points 1.52C, 1.53C and 1.54C carry a C reference, so they are **Paper 2 only**, and they are labelled below.

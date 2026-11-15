@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers statements P1.3h, P1.3i and P1.3j of OCR GCSE (9-1) Physics A (Gateway Science), as set out in the specification Version 5.0 (July 2026), first assessment 2018. All three statements are marked **Higher Tier only**. They sit in the pressure section of Topic P1 (Matter). Gas pressure and the atmosphere are covered separately in the [OCR GCSE Physics Matter guide](/resources/ocr-gcse-physics-matter/) and are not repeated here.

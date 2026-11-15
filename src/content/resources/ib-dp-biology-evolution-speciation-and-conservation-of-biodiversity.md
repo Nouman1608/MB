@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide follows the IB *Biology guide*, first assessment 2025, and covers sections A4.1 (Evolution and speciation) and A4.2 (Conservation of biodiversity) in Theme A, Unity and diversity. A4.1.1 to A4.1.7 and all of A4.2 are SL and HL; A4.1.8 to A4.1.11 are additional higher level, so they are marked **HL only**. It applies to the Diploma Programme Biology examinations from the first assessment in 2025.

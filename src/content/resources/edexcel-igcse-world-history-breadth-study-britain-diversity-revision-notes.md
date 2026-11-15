@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the laws table and timeline against the 4HI1 specification and legislation.gov.uk before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the laws table and timeline against the 4HI1 specification and legislation.gov.uk before teacher sign-off; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

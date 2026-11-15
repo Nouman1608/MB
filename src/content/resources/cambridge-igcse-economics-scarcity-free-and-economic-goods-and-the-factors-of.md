@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches sections 1.1 and 1.2 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: the nature of the economic problem (1.1.1 and 1.1.2) and the factors of production (1.2.1 to 1.2.3). Economics 0455 is not tiered, so everyone studies all of it. All figures and places in the worked examples are invented for practice and are not real statistics.

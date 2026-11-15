@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense AQA GCSE Business (8132) sections 3.2.4 Globalisation and 3.2.5 Legislation, from 3.2 Influences on business. For full explanations and worked examples, read the [study guide](/resources/aqa-gcse-business-globalisation-and-legislation/) first. Then test yourself with the [practice questions](/resources/aqa-gcse-business-globalisation-and-legislation-practice/). The specification gives no tier labels for these sections. Related pages: [course hub](/boards/aqa/gcse/business/) | [printable checklist](/checklists/aqa/gcse/business/) | [free diagnostics](/diagnostics/) | [technology and ethical considerations](/resources/aqa-gcse-business-technology-ethical-revision-notes/)

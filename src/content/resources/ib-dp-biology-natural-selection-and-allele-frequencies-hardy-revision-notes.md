@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes follow the IB *Biology guide*, first assessment 2025, section D4.1 (Natural selection), statements D4.1.1 to D4.1.15. Statements D4.1.9 to D4.1.15 are **HL only**; the rest are SL and HL. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-natural-selection-and-allele-frequencies-hardy/), then test yourself with the [practice set](/resources/ib-dp-biology-natural-selection-and-allele-frequencies-hardy-practice/).

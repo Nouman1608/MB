@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These are condensed recall notes for **4.2.2.4 Coronary heart disease: a non-communicable disease** of the AQA

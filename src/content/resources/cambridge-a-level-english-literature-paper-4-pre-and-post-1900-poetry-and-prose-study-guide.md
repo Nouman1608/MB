@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the current paper's exact format: how many questions are answered in each section, the choice between passage-based and essay questions, the mark split, whether texts are taken into the exam, and the assessment objective weightings; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "Check the current paper's exact format: how many questions are answered in each section, the choice between passage-based and essay questions, the mark split, whether texts are taken into the exam, and the assessment objective weightings; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

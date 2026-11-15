@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These are condensed revision notes for the AQA *AS and A-level Biology* specification (7401 and 7402, first teaching 2015), sections 3.1.5.1, 3.1.5.2 and 3.1.6. The content is part of both the AS and the A-level. Full explanations and worked examples are in the [study guide](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp/). Test yourself with the [practice questions](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp-practice/).

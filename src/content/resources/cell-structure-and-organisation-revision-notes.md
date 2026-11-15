@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, extra magnification example in micrometres, FAQ, question headings); please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, extra magnification example in micrometres, FAQ, question headings); please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Cambridge O Level Biology 5090 Topic 1 tests whether you can name the

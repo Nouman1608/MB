@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.4, 3.6 and 3.8 of the Cambridge O Level Economics (2281) syllabus for examination in 2026. For full explanations and worked examples, read the [study guide](/resources/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital/). Then test yourself with the [practice set](/resources/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital-practice/). Course links: the [hub](/boards/cambridge/o-level/economics/), the [checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/). All figures below are invented and illustrative.

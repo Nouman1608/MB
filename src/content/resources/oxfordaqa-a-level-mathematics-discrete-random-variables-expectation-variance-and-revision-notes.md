@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These revision notes condense section S1.2 (Discrete random variables) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. This content is part of International AS, Unit PSM1 (section 3.2, S1). For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-discrete-random-variables-expectation-variance-and/). Then use the [practice questions](/resources/oxfordaqa-a-level-mathematics-discrete-random-variables-expectation-variance-and-practice/), the [course hub](/boards/oxfordaqa/a-level/mathematics/), the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/) and the free [10-minute diagnostics](/diagnostics/).
 

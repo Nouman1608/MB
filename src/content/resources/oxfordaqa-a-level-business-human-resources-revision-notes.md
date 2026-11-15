@@ -37,7 +37,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the human resources topic (sections 3.2.2.1 to 3.2.2.5) of the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams from May/June 2027 and International A-level exams from May/June 2028. All of it is International AS content, assessed in Unit 2: Managing operations, human resources and finance. If you are finishing the older 9625 specification, use your own specification. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-business-human-resources/) first.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 Quick recall for outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-level Mathematics (7357) specification, for first teaching 2017. The [study guide](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and/), has the full explanations, and the [practice questions](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-practice/). The [course hub](/boards/aqa/a-level/mathematics/), the [printable checklist](/checklists/aqa/a-level/mathematics/) and the [free diagnostics](/diagnostics/) help you plan. For the argument and proof theme, see the [overarching themes notes](/resources/aqa-a-level-mathematics-themes-revision-notes/).

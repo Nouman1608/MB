@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. It covers Mechanics 1 (M1) topics 4.3, 5.1, 5.2, 5.3 and 6.1. The specification lists M1 as an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. Newton's laws, connected particles and motion on slopes are taught on other Marlbridge pages, so they are not repeated here.
 

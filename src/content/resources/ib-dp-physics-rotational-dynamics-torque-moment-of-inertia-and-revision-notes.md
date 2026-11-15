@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense **sub-topic A.4, Rigid body mechanics**, from the IB Diploma Programme *Physics guide*, first assessment 2025. A.4 is **additional higher level (HL only)** with no standard level content. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and/), then test yourself with the [practice questions](/resources/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and-practice/).

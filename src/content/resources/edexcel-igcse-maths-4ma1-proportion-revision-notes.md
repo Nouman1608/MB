@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes cover section **2.5 Proportion** of Topic 2 (Equations, formulae and identities) in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. The whole section is **Higher tier only**, so it is tested on papers 1H and 2H, where a calculator may be used. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-igcse-maths-4ma1-proportion/) first.

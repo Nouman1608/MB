@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide teaches the structure of the nucleus, isotopes and decay equations for OCR GCSE Physics A (Gateway Science, J249), using the specification Version 5.0 (July 2026). It covers learning outcomes P6.1a to P6.1g of topic P6.1 Radioactive emissions. No statement in this group is printed in bold in the specification, so each is open to both Foundation and Higher Tier candidates. The other outcomes in P6.1 (ionisation and changes in electron energy levels, half-life and the penetrating power of each emission) are taught on separate pages and are not repeated here.
 

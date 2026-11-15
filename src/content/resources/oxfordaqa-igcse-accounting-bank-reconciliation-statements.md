@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide is written for the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the content point in section 3.2 (Verification of accounting records) on preparing and understanding the use and purpose of bank reconciliation statements. The qualification is untiered, and the specification says Paper 1 assesses content 1 to 3, so this topic sits in Paper 1. All amounts on this page are in dollars.

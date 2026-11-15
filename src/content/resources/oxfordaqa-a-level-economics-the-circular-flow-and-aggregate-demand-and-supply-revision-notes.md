@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes condense sections 3.2.2.1 to 3.2.2.3 of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2: the circular flow of income, AD and AS analysis, and the determinants of aggregate demand. Section 3.2 is International AS content. For full explanations start with the [study guide](/resources/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/). Unsure what to revise first? Try a free [10-minute diagnostic](/diagnostics/). All figures are invented and illustrative.
 

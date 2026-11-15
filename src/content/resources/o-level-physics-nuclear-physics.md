@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 This guide is aligned to the Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028. The whole of topic 5 is here, Nuclear physics: 5.1 The nuclear model of the atom and 5.2 Radioactivity (detection, the three types of emission, decay, fission and fusion, half-life and safety). The syllabus does not split this topic into tiers, so all of it applies to every candidate.
 

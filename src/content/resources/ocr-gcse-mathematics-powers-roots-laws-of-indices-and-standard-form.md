@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is written for the OCR GCSE (9-1) Mathematics specification, Version 2.1 (August 2026). It covers specification sections 3.01 (powers and roots) and 3.02 (standard form). Most of it applies to both Foundation and Higher tier. Fractional indices, fractional powers and estimating powers and roots are in the Higher tier column and are labelled "Higher tier only". The specification says that content with no reference to calculator use may be assessed on either calculator or non-calculator papers, so you need to be able to do all of it by hand. Paper 2 (Foundation) and Paper 5 (Higher) do not permit a calculator.

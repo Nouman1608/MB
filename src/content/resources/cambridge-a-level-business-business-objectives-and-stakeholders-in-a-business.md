@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches sections 1.4 (Business objectives) and 1.5 (Stakeholders in a business) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both sections sit in AS Level topic 1, Business and its environment, and A Level candidates also need them. Every point the syllabus lists is covered below, each with its own heading, and the examples use invented businesses.

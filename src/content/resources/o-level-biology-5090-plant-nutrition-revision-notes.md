@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, use the [plant nutrition study guide](/resources/o-level-biology-5090-plant-nutrition/). These notes condense Topic 6, Plant nutrition, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4). They cover sections 6.1 Photosynthesis, 6.2 Leaf structure and 6.3 Mineral nutrition. The syllabus is not tiered, so all of this applies to every candidate.

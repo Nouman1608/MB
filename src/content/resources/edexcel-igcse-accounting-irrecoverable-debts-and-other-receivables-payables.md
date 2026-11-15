@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide teaches sections 2.6 (Irrecoverable debts) and 2.7 (Other receivables and other payables) of Topic 2, Introduction to bookkeeping, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The specification describes two papers and does not divide them into tiers. Paper 1 is drawn only from topics 1 to 3, while Paper 2 adds topics 4 and 5 to that base, so this bookkeeping carries into the financial statements you prepare later.

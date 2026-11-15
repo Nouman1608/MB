@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 2.1.5, Redox, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 2, Foundations in chemistry, and has six lettered learning outcomes, 2.1.5(a) to (f), all covered below. H432 is the full A level. The specification states that Module 2 content is assessed in Periodic table, elements and physical chemistry (01), Synthesis and analytical techniques (02) and Unified chemistry (03). No PAG is listed against this section.

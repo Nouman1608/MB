@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers moments and statics of rigid bodies in OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the OCR specification, Version 3.1 (August 2026). All of 3.04 is Stage 2, so it is A Level only and is not part of AS. The specification lists Mechanics within Paper 3, Pure Mathematics and Mechanics. For the unit of moment, see the [units and kinematics guide](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant/). When you finish, use the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/) and the [practice questions](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-practice/). Wider links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).

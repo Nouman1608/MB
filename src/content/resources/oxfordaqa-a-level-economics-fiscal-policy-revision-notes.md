@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 Quick recall for fiscal policy, section 3.2.4.2 of the OxfordAQA International AS and A-level Economics specification (version 1.2, code 9640). It is International AS content. All figures are made up for illustration. Longer explanations and fuller worked examples are in the [study guide](/resources/oxfordaqa-a-level-economics-fiscal-policy/). Then try the [practice questions](/resources/oxfordaqa-a-level-economics-fiscal-policy-practice/). See also the [course hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/), and use a free [diagnostic](/diagnostics/) if a topic feels shaky.
 

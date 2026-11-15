@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes shorten the [full study guide](/resources/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand/) for sections 3.1.2.1 and 3.1.2.2 of OxfordAQA's economics specification (9640, version 1.2). The content is International AS material, examined in Unit 1, and it counts towards the International A-level too. Quantitative skills QS2 and QS8 in section 3.5 can appear in any unit. All figures are invented and illustrative. Next: the [practice questions](/resources/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand-practice/), the [checklist](/checklists/oxfordaqa/a-level/economics/), the [course hub](/boards/oxfordaqa/a-level/economics/) and the [free diagnostics](/diagnostics/).
 

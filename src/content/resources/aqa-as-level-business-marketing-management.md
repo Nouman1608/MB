@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section **3.1.3 Marketing management** of the AQA AS and A-level Business specification (7137 and 7138, version 1.1, November 2025, for teaching from September 2026). In that specification Paper 1 is standalone on Unit 3.1, so this section is examined there. Two rows in 3.1.3, international marketing and ethical issues in marketing, are marked "(A-level only)" and are not covered here. Specification formulas are used as given; others are labelled "standard form".

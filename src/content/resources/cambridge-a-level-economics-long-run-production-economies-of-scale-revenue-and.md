@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers syllabus statements 7.5.3 to 7.5.10 of the Cambridge International AS & A Level Economics syllabus for examination in 2026, 2027 and 2028. They sit in topic 7, which is A Level content only and is not examined at AS. Every firm and figure below is invented and none is a real statistic. Money is in currency units (cu).

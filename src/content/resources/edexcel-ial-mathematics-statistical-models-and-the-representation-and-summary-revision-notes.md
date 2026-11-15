@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes condense Unit S1: Statistics 1, sections 1.1 and 2.1 to 2.4, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). The specification states that S1 is an optional unit for IAS and IAL Mathematics and Further Mathematics. For full explanations read the [study guide](/resources/edexcel-ial-mathematics-statistical-models-and-the-representation-and-summary/), then test yourself with the [practice set](/resources/edexcel-ial-mathematics-statistical-models-and-the-representation-and-summary-practice/).
 

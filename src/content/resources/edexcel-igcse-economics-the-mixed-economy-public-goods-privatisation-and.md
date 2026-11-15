@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 1.1.5 (The mixed economy) and 1.1.6 (Externalities) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. Both sit in Topic 1, The market system, which is examined in Paper 1. The specification has a single tier of entry, so everything here is for all candidates. All figures in the worked examples are invented and the countries and firms are fictional.

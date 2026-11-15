@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Business (9225) specification, version 3.1, for International GCSE exams from May/June 2022 onwards. It covers section 3.2.5 Legislation and section 3.2.6 Competitive environment, both part of Influences on business. The specification names Influences on business as assessed on both written papers. For the full course, use the [OxfordAQA IGCSE Business hub](/boards/oxfordaqa/igcse/business/) and the [printable checklist](/checklists/oxfordaqa/igcse/business/).

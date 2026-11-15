@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 This guide covers sections 6.1 (Intelligence and educational attainment) and 6.2 (Social class and educational attainment) of the Cambridge International AS & A Level Sociology (9699) syllabus for examination in 2024, 2025 and 2026. Both sections sit in topic 6, Education and inequality, which is part of Paper 3 – Education, an A Level paper. The syllabus links topic 6 to the key concepts of Inequality and opportunity, and Socialisation, culture and identity.

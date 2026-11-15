@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 4.1 and 4.2 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. They are AS Level content (topic 4), assumed knowledge for A Level Papers 3 and 4. Full explanations are in the [study guide](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of/). All figures here are invented and money is in currency units (cu).

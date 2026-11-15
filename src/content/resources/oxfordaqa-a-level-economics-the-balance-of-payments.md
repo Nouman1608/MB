@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide follows the OxfordAQA *International AS and A-level Economics (9640)* specification, version 1.2 (International AS exams from May/June 2021, International A-level exams from May/June 2022). It covers section 3.4.2.1, the balance of payments. Section 3.4 is the extra International A2 content, so this material sits beyond the International AS.
 

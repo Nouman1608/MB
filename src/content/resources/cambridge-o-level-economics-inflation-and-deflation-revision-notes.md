@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes on section 4.8 (4.8.1 to 4.8.5, inflation and deflation) from the 2026 Cambridge O Level Economics (2281) syllabus, version 2. All numbers here are fictional. The [study guide](/resources/cambridge-o-level-economics-inflation-and-deflation/) has the full explanations; afterwards try the [practice questions](/resources/cambridge-o-level-economics-inflation-and-deflation-practice/). Other links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/).

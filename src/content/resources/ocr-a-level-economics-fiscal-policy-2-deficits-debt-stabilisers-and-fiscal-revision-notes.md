@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the second half of Fiscal policy in the OCR A Level Economics (H460) specification, version 3.0 (June 2026), for first assessment in 2021. Full explanations are in the [study guide](/resources/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal/). Then try the [practice questions](/resources/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal-practice/), the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/). The multiplier is revised in [the multiplier and output gaps guide](/resources/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps/). All figures are invented and illustrative.

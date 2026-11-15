@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is for Cambridge O Level Business Studies (7115) and follows the syllabus for examination in 2026. It covers section 2.1 Motivating employees, which has two parts: 2.1.1 the importance of a well-motivated workforce and 2.1.2 methods of motivation. There are no tiers in this subject, so every point here is examinable for all candidates. It is assessed across Paper 1 (Short Answer and Data Response) and Paper 2 (Case Study).

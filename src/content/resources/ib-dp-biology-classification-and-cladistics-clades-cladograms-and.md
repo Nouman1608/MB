@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide follows the IB *Biology guide*, first assessment 2025, and covers section A3.2 (Classification and cladistics) in Theme A, Unity and diversity. All of A3.2 is additional higher level content, so it is **HL only**: there is no SL content in this section. It applies to you if you sit the Diploma Programme Biology examinations from the first assessment in 2025.

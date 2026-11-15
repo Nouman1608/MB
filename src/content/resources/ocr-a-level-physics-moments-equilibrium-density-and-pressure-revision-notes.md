@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These revision notes condense sections 3.2.3 (Equilibrium) and 3.2.4 (Density and pressure) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. Read the [study guide](/resources/ocr-a-level-physics-moments-equilibrium-density-and-pressure/), which explains each point in full, then test yourself with the [practice questions](/resources/ocr-a-level-physics-moments-equilibrium-density-and-pressure-practice/).
 

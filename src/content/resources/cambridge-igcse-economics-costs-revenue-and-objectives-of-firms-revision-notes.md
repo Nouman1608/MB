@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.7, Firms' costs, revenue and objectives, of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. For full explanations and more worked examples, read the [study guide](/resources/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms/). The syllabus says marginal cost and marginal revenue are not required, so they are left out. Money amounts are in dollars and all figures are invented.

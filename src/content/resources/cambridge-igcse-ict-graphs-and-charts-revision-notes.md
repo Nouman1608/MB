@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 16 of Cambridge IGCSE ICT 0417 is about producing graphs and charts from data: selecting contiguous, non-contiguous or specified data ranges, choosing a suitable chart type, adding every label the task asks for, adding a second data series or second axis, formatting numbers and axis scales, and enhancing appearance, for example by extracting a pie sector. It is assessed practically, mainly with spreadsheets in Paper 3, and charts are placed into documents in Paper 2.

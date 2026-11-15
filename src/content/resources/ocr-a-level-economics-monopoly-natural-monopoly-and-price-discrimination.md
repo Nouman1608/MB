@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the monopoly statements in the market structures topic of Component 01 (Microeconomics) of the OCR A Level Economics specification, H460, Version 3.0 (June 2026), for first assessment in 2021. The specification labels no content AS or Extension, so everything here is A Level content. Each statement says "explain" or "evaluate", and most add "with the aid of a diagram".

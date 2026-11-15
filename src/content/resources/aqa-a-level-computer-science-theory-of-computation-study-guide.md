@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Theory of computation asks what a computer can do in principle, how fast, and how we describe problems and languages precisely. It is the most mathematical part of AQA 7517, but questions are usually short and rule-driven: trace a machine, write an expression, state a complexity, justify a limit.

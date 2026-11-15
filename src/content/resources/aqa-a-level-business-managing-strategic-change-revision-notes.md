@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense **section 3.10 Managing strategic change** (A-level only) of the AQA AS and A-level Business specification (7132), for first teaching from September 2023. For full explanations and the worked Lowerby Candles examples read the [study guide](/resources/aqa-a-level-business-managing-strategic-change/). Test yourself with the [practice questions](/resources/aqa-a-level-business-managing-strategic-change-practice/), check coverage on the [printable checklist](/checklists/aqa/a-level/business/), see the [course hub](/boards/aqa/a-level/business/), and use the [free diagnostics](/diagnostics/) to find weak areas.

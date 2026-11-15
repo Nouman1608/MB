@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide covers Topic 3, **Sequences, functions and graphs** (sections 3.1–3.4), of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. 4MA1 is tiered: Foundation papers 1F and 2F, Higher papers 1H and 2H, and a calculator may be used on all of them. Sections 3.2 (function notation) and 3.4 (calculus) are **Higher tier only**, as are the extra Higher statements in 3.1 and 3.3; the rest is on both tiers, and Higher questions assume the Foundation content.

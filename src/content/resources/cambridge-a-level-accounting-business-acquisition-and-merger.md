@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.3 Business acquisition and merger (A Level content) of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. It sits in topic 3, Financial accounting, which is the A Level content that Paper 3 assesses. AS Level content is assumed knowledge, so you should be comfortable with journals, ledger accounts and the statement of financial position first. All businesses and figures are invented and all amounts are in dollars.

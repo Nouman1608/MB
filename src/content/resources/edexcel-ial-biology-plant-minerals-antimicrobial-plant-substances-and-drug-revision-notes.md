@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 These notes condense statements 4.8 to 4.13 of Topic 4 (International AS) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology specification, Issue 2. They include Core Practical 8, Core Practical 9 and the recommended mineral deficiency practical. Full explanations are in the [study guide](/resources/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug/), and you can test yourself with the [practice questions](/resources/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug-practice/).
 

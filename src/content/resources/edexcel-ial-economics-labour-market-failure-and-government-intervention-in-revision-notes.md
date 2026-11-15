@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Short-form notes on 3.3.4 item 4 and 3.3.5 item 2 of the Pearson Edexcel International Advanced Level Economics specification (YEC11, Issue 2), Unit 3 Business behaviour. Use the [study guide](/resources/edexcel-ial-economics-labour-market-failure-and-government-intervention-in/) for the full explanations, then the [practice set](/resources/edexcel-ial-economics-labour-market-failure-and-government-intervention-in-practice/) and the [free diagnostics](/diagnostics/). Course links: [hub](/boards/edexcel/a-level/economics/) and [checklist](/checklists/edexcel/a-level/economics/). Every figure here is invented and illustrative.

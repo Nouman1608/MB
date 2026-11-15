@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide covers sections 1.1 (Types of business organisation) and 1.2 (Accounting concepts) of Topic 1, The accounting environment, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The specification says Paper 1 draws exclusively on Topics 1 to 3, and Paper 2 builds on those topics as well as Topics 4 and 5, so this material can matter in both papers. Every amount is in dollars ($) and every business and person below is invented.

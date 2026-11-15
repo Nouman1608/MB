@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 2.1.2 c (Supply-side policy) and section 2.1.3 a (the trade-off between macroeconomic objectives) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. Both sit in Topic 2.1, Government and the economy, which belongs to Paper 2: Macroeconomics and the Global Economy. The specification has a single tier of entry, so everything here is for every candidate. All figures are invented, and Country A and the other places are fictional.

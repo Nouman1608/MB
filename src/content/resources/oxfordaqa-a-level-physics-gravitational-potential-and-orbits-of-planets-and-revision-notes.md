@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.7.3 (Gravitational potential) and 3.7.4 (Orbits of planets and satellites) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, exams from May/June 2020 onwards. Both sections are marked International A-level only. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-gravitational-potential-and-orbits-of-planets-and/). Test yourself afterwards with the [practice questions](/resources/oxfordaqa-a-level-physics-gravitational-potential-and-orbits-of-planets-and-practice/), find gaps with the [free diagnostics](/diagnostics/), and tick off topics on the [checklist](/checklists/oxfordaqa/a-level/physics/). The [course hub](/boards/oxfordaqa/a-level/physics/) lists the rest of the course.

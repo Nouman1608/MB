@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide teaches functions and models, one topic area inside the **thinking with models** part of the IB Middle Years Programme *Mathematics guide* (first assessment 2022). The framework columns used are the standard and extended levels for years 4 and 5, plus the optional enrichment list. The framework lists nothing for MYP 1-3 here. Linear programming and networks sit in other units and are not covered. Use it with the [revision notes](/resources/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and-revision-notes/) and the [practice set](/resources/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and-practice/). The course page is [MYP Mathematics](/boards/ib/ib-myp/mathematics/), the [checklist](/checklists/ib/ib-myp/mathematics/) tracks progress, and [all free 10-minute diagnostics](/diagnostics/) show where to start.

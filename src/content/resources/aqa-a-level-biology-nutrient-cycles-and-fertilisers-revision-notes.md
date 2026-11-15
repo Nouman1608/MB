@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.5.4 Nutrient cycles of the AQA AS and A-level Biology specification (7402 is the A-level), for first teaching 2015. The section is A-level only. The [study guide](/resources/aqa-a-level-biology-nutrient-cycles-and-fertilisers/) has the full explanations and worked examples. Then test yourself with the [practice questions](/resources/aqa-a-level-biology-nutrient-cycles-and-fertilisers-practice/).

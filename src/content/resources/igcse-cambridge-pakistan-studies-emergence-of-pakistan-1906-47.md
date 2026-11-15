@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 **The Emergence of Pakistan, 1906–47 is Section 2 of Paper 1 in Cambridge IGCSE Pakistan Studies

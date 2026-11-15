@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 5.7, Crisis management and contingency planning, in Unit 5 of the IB *Business management guide*, first assessment 2024. The whole section is HL only. Full explanations and worked examples are in the [study guide](/resources/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only/), and exam-style questions are in the [practice set](/resources/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only-practice/). Course pages: the [IB DP Business Management hub](/boards/ib/ib-dp/business/) and the [syllabus checklist](/checklists/ib/ib-dp/business/). To find your weak spots, try the [free 10-minute diagnostics](/diagnostics/).

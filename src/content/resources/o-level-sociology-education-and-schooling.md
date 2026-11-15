@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 Education is the process of learning knowledge, skills and values; schooling is the formal part of

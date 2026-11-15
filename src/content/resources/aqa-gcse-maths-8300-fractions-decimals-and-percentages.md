@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 3.1.2, **Fractions, decimals and percentages**, of the AQA GCSE Mathematics (8300) specification, version 1.0, for teaching from September 2015 with exams from May/June 2017 onwards. It covers specification references N10, N11 and N12 in depth. Almost all of it is Foundation content, assessed at both tiers. One skill, changing recurring decimals into fractions and fractions into recurring decimals, sits in the specification's "Higher content only" column and is labelled **Higher tier only** below.

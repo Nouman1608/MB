@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide is for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.3.4.3 (wage determination in perfectly competitive labour markets) and 3.3.4.4 (imperfectly competitive labour markets). Section 3.3 is extra International A2 content, assessed in Unit 3 together with the quantitative skills in 3.5. All figures below are invented and illustrative.
 

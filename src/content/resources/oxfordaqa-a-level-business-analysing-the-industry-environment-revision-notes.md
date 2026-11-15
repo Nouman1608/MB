@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Use these notes to revise section 3.3.3 (Analysing the industry environment) from the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. The section is **International A-level only** and Unit 3: Business analysis is where it is tested. If your course is the older 9625 one, follow the 9625 specification. The [study guide](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment/) has the full teaching and longer worked examples.

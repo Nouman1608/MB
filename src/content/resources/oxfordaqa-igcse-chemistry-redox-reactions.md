@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.8.4 Redox reactions from the OxfordAQA International GCSE Chemistry (9202) specification. The version followed here is 6.2, for exams May/June 2018 onwards. In all, 3.8.4 has three statements, labelled a, b and c, and this page covers all of them. The qualification has no tiers, so every idea below is for you whatever grade you want, and the specification says either paper may assess content from any part of it.

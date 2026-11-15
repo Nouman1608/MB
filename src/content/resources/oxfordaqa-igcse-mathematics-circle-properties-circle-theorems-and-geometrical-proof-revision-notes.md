@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These are condensed notes for references G8 and G9 in section 3.3.1 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018 onwards. Circle vocabulary and properties are Core. The circle theorems and the geometrical reasoning and proof are **Extension only**, and all content can be assessed on the Extension papers. For full explanations and worked proofs, read the [study guide](/resources/oxfordaqa-igcse-mathematics-circle-properties-circle-theorems-and-geometrical-proof/). When you are ready to test yourself, use the [practice set](/resources/oxfordaqa-igcse-mathematics-circle-properties-circle-theorems-and-geometrical-proof-practice/), the [course hub](/boards/oxfordaqa/igcse/mathematics/), the [printable checklist](/checklists/oxfordaqa/igcse/mathematics/) and the free [10-minute diagnostics](/diagnostics/).

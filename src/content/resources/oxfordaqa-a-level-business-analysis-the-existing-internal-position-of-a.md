@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Section 3.3.2, Analysis the existing internal position of a business, is taught here as set out in the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, whose first International AS exams are in May/June 2027 and first International A-level exams in May/June 2028. Every outcome below is **International A-level only**. Students still completing the older 9625 specification should revise from that document instead.

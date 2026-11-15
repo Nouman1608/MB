@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers **3.2.2 Operations management** for AQA AS-Level Business (7137). It was checked on 5 November 2026 against AQA's AS and A-level Business specification (7137/7138), Version 1.1, November 2025, including its annex of formulae; "the specification" below means that document. Formulas are the ones in the annex.

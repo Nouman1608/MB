@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers outcomes 9.2.1 to 9.2.4 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content, so it is not examined at AS. The syllabus treats AS content as assumed knowledge for A Level Papers 3 and 4. Every country, firm and figure below is invented for illustration and is not a real statistic.

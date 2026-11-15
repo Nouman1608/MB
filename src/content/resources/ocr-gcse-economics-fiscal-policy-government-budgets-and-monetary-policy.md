@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide is aligned to the OCR GCSE (9-1) Economics (J205) specification, Version 2.0 (June 2026). It covers sections 3.5 (Fiscal policy) and 3.6 (Monetary policy) of "Economic objectives and the role of government", which is content for Component 02, National and International Economics. The qualification is not tiered, so everything here is common to all candidates.
 

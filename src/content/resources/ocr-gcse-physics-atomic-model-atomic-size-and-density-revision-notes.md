@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense statements P1.1a to P1.1f of the OCR GCSE (9-1) Physics A (Gateway Science) specification (J249), Version 5.0 (July 2026). All six statements are assessed in both tiers. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-practice/).

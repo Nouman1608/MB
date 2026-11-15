@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 4.8, **Key ideas**, of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0). The specification says these ideas are embedded throughout the subject content and underpin many aspects of the assessment, so they can appear on Paper 1 or Paper 2. Section 4.8 has no tier split of its own, but some content you use to explain the ideas is Higher tier only, and it is labelled. The exams run every May/June for the life of the specification.

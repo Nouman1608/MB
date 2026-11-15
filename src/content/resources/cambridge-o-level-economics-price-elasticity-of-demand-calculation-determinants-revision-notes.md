@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 2.7 (price elasticity of demand, PED) of the Cambridge O Level Economics 2281 syllabus for examination in 2026. The course is not tiered. For full explanations, read the [study guide](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants/), then test yourself with the [practice questions](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants-practice/). The [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/) help you plan. All names and figures here are invented for practice.

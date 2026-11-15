@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 Quick recall for sections 11.5.1 and 11.5.2 of the Cambridge International AS & A Level Economics 9708 syllabus (examination in 2026, 2027 and 2028). This is A Level content, topic 11. For full explanations and the main worked examples, read the [study guide](/resources/cambridge-a-level-economics-international-aid-trade-and-investment/). Then try the [practice set](/resources/cambridge-a-level-economics-international-aid-trade-and-investment-practice/), the [free diagnostics](/diagnostics/) and the [course checklist](/checklists/cambridge/a-level/economics/). Course home: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Multinationals, foreign direct investment, external debt, the IMF and the World Bank are separate statements and are not covered here. All figures are invented.
 

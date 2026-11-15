@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 These notes condense sub-topic **C1.1 The particle model** in OCR GCSE (9–1) Chemistry A (Gateway Science), following the J248 specification (Version 4.0, August 2026). The [particle model study guide](/resources/ocr-gcse-chemistry-the-particle-model/) has the full explanations and longer examples. The notes cover C1.1a, C1.1b and C1.1c, the maths outcome CM1.1i and the practical suggestion. C1.1c is **Higher Tier only**; everything else is on both tiers. Topic C1 is examined in Paper 1 at Foundation Tier and Paper 3 at Higher Tier.

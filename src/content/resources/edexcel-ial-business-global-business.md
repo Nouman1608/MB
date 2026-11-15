@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches the whole of Unit 4 Global business in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (YBS11), Issue 1, September 2017: sections 4.3.1 to 4.3.4. Unit 4 is a 2-hour paper marked out of 80, with short open-response and extended-writing questions. Questions may draw on Units 1, 2 and 3, and the specification says calculators may be used. The specification stresses that globalisation and global markets must be understood in relation to businesses. All countries, currencies and firms below are invented.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This study guide follows the OCR A Level Mathematics A specification (Version 3.1, August 2026, for first assessment in 2018). It covers sections 1.06f to 1.06i of the Pure Mathematics content: the laws of logarithms, equations involving exponentials, reduction to linear form using logarithmic graphs, and modelling with exponential functions. The specification lists all four as Stage 1, so they are common to the AS and A Level courses. Pure Mathematics content is assessed in all three written papers.
 

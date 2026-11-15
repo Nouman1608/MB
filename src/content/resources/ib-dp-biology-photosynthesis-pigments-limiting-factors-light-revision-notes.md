@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These are condensed revision notes for IB Diploma Programme Biology topic C1.3 (Photosynthesis), from the IB *Biology guide*, first assessment 2025. Statements C1.3.1 to C1.3.8 are SL and HL; C1.3.9 to C1.3.19 are additional higher level and are marked "HL only". For full explanations read the [study guide](/resources/ib-dp-biology-photosynthesis-pigments-limiting-factors-light/).

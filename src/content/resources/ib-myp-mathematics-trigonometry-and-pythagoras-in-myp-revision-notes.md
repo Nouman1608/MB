@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 Quick recall for the trigonometry rows of spatial reasoning in the IB *Mathematics guide (for use from September 2020/January 2021)*, first assessment 2022. Full explanations are in the [study guide](/resources/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp/). Test yourself with the [practice questions](/resources/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp-practice/), tick topics off on the [checklist](/checklists/ib/ib-myp/mathematics/), and see the [MYP mathematics hub](/boards/ib/ib-myp/mathematics/). The [free diagnostics](/diagnostics/) help you choose what to revise first.

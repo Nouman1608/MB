@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, and covers specification statements 3.17 to 3.21 in Topic 3, Cell Structure, Reproduction and Development. Topic 3 sits in the International AS (IAS) part of the course, in Unit 2. There are no tiers. Statement 3.17 is split into (i) and (ii), and statement 3.20 into (i), (ii) and (iii); all parts are covered below.
 

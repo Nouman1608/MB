@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 4.1 Introduction to marketing and 4.2 Marketing planning of the IB *Business management guide*, first assessment 2024, for SL and HL. The one HL-only point (4.1, the importance of market share and market leadership) is labelled. For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-introduction-to-marketing-and-marketing-planning/). Then try the [practice questions](/resources/ib-dp-business-management-introduction-to-marketing-and-marketing-planning-practice/). Wider unit notes: [Unit 4 revision notes](/resources/ib-dp-business-management-marketing-revision-notes/). Course hub: [IB DP Business Management](/boards/ib/ib-dp/business/). Tick-list: [printable checklist](/checklists/ib/ib-dp/business/). Not sure where to start? Take a [free 10-minute diagnostic](/diagnostics/).

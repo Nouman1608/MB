@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These revision notes cover sub-topic 2.1.2 parts b) monetary policy and d) government controls in the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. There is a single tier of entry. For full explanations read the [study guide](/resources/edexcel-igcse-economics-monetary-policy-and-government-controls/), then test yourself with the [practice questions](/resources/edexcel-igcse-economics-monetary-policy-and-government-controls-practice/).

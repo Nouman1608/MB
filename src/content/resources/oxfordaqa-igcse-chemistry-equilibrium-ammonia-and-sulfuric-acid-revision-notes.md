@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes condense sections 3.8.2 Factors affecting equilibrium and 3.8.3 Production of ammonia and sulfuric acid of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements 3.8.2 a to e and 3.8.3 a to d; neither section has a required practical. The qualification is untiered, so every point is for every candidate. For full explanations and worked examples, use the [study guide for this unit](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid/).

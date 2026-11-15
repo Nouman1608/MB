@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 6.3.1 to 6.3.5 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 into recall form. The syllabus is not tiered. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-economics-foreign-exchange-rates/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-foreign-exchange-rates-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/), the [free diagnostics](/diagnostics/) and the [price elasticity revision](/resources/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and/). All countries, currencies and figures here are invented.

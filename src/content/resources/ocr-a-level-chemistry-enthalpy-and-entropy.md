@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 5.2.2, Enthalpy and entropy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 5, Physical chemistry and transition elements, and has six lettered learning outcomes, 5.2.2(a) to (f), and each one is taught below with worked examples. H432 is a single full A level. Its assessment overview shows that Module 5 is assessed in the Periodic table, elements and physical chemistry component and in the Unified chemistry component. No PAG is linked to this section.

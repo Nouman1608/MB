@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense the first content point of section 3.5 of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026: identifying internal and external stakeholders and their interests. For full explanations and a worked example, read the [study guide](/resources/oxfordaqa-igcse-accounting-internal-and-external-stakeholders/). When you are ready to test yourself, use the [practice questions](/resources/oxfordaqa-igcse-accounting-internal-and-external-stakeholders-practice/). Course pages: the [OxfordAQA IGCSE Accounting hub](/boards/oxfordaqa/igcse/accounting/), the [checklist](/checklists/oxfordaqa/igcse/accounting/) and the [free diagnostics](/diagnostics/).

@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 7 is about planning a solution before and while you code: breaking a problem down, representing an algorithm as a structure diagram, flowchart or pseudocode, using the standard methods of solution, and checking an algorithm with validation, test data and trace tables. In Cambridge IGCSE Computer Science (0478) it is examined on Paper 2, where answers that involve code must be written in pseudocode (except the 15-mark scenario question, which also accepts Python, Visual Basic or Java).

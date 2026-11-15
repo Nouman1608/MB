@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense the [full study guide](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution/) for the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), first assessment 2018. They cover 2.04a to 2.04c (Stage 1, common with AS) and 2.04d (Stage 2, **A Level only**). Use the [practice set](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution-practice/) afterwards, tick items off on the [checklist](/checklists/ocr/a-level/mathematics/), see the [course hub](/boards/ocr/a-level/mathematics/) and the wider [Statistics revision notes](/resources/ocr-a-level-mathematics-statistics-revision-notes/). Not sure where you stand? Try the [free diagnostics](/diagnostics/).

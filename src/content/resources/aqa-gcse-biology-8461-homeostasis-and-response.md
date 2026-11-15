@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches topic 5, **Homeostasis and response** (sections 4.5.1–4.5.4), of the AQA GCSE Biology (8461) specification, for teaching from September 2016 and exams from 2018 onwards. The topic is examined on Paper 2 (1 hour 45 minutes, 100 marks, 50% of the GCSE), which is set at Foundation and Higher tier. Content the specification marks "(HT only)" is labelled **Higher tier only** here; everything else is for both tiers.

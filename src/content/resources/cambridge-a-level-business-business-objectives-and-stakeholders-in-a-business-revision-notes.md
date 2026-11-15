@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 1.4 (Business objectives) and 1.5 (Stakeholders in a business) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. They are for AS Level topic 1 and are also needed at A Level. Read the full [study guide](/resources/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business/) for explanations and worked examples, then try the [practice questions](/resources/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business-practice/).

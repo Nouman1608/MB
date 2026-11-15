@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 12: placing and editing an image, and reducing image file size. Topic 12 is mainly assessed through practical tasks in Papers 2 and 3, so Sections A and B are theory questions and Section C has practical-style tasks that you can carry out in your own software, with a checklist of what an examiner would look for.

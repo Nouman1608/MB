@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 Quick recall for the **Number** rows of the numerical and abstract reasoning branch in the IB *MYP Mathematics guide* (from 2020, first assessment 2022). Full explanations and worked examples are in the [study guide](/resources/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion/); test yourself with the [practice questions](/resources/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion-practice/). See also the [MYP Mathematics hub](/boards/ib/ib-myp/mathematics/), the [checklist](/checklists/ib/ib-myp/mathematics/) and the [free diagnostics](/diagnostics/). Items marked **ext** are in the guide's MYP 4-5 extended column; **enr** means optional enrichment.

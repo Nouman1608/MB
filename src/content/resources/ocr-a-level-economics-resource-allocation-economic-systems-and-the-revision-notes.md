@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the topics Allocation of resources and The objectives of economic agents from the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. They sit in the area of study How competitive markets work. Full explanations are in the [study guide](/resources/ocr-a-level-economics-resource-allocation-economic-systems-and-the/), and original questions with worked answers are in the [practice set](/resources/ocr-a-level-economics-resource-allocation-economic-systems-and-the-practice/). Course pages: the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/). Check your level with the [free 10-minute diagnostics](/diagnostics/). Every figure below is invented.

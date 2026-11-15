@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches **Reactivity 2.3, How far? The extent of chemical change**, based on the IB Diploma Programme *Chemistry guide* (February 2023, first assessment 2025). All seven understandings, Reactivity 2.3.1 to 2.3.7, are taught here. Understandings 2.3.1 to 2.3.4 are studied at **both SL and HL**; 2.3.5 to 2.3.7 belong to the additional higher level material and are **HL only**.

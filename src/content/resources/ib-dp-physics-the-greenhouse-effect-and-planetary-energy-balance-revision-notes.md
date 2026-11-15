@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These revision notes condense topic B.2 (Greenhouse effect) of the IB *Physics guide*, first assessment 2025, for Standard Level and Higher Level; the guide sets no extra content for Higher Level alone in B.2. For full explanations and worked examples, go to the [study guide](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance/). Test yourself with the [practice set](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance-practice/).

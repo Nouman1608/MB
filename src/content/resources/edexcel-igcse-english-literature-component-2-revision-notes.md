@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08 recheck: thin page expanded with the set-text lists, AO mark split and FAQ from the Issue 3 (August 2025) specification; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: thin page expanded with the set-text lists, AO mark split and FAQ from the Issue 3 (August 2025) specification; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 **What is 4ET1 Component 2?** Component 2 (paper 4ET1/02) is a 1 hour 30 minute open-book exam worth

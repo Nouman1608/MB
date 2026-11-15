@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. The course is not tiered, so all candidates study this content. Paper 1 is 30 multiple-choice questions (45 minutes) and may include calculations. Paper 2 is structured questions (2 hours 15 minutes). The syllabus says calculators may be used in both papers. All countries, firms and figures below are invented for illustration.

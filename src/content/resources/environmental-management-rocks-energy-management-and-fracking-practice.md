@@ -27,7 +27,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check mark allocations against Cambridge 0680 mark schemes before review; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check mark allocations against Cambridge 0680 mark schemes before review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

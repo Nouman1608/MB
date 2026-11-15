@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 5.5 (Analysis of accounts) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and two-year worked examples, read the [study guide](/resources/igcse-business-0264-analysis-of-accounts/). When you are ready, move to the [practice questions](/resources/igcse-business-0264-analysis-of-accounts-practice/). Both papers, Paper 1 (Short Answer and Data Response) and Paper 2 (Case Study), are based on all the subject content. Use the [course hub](/boards/cambridge/igcse/business/), the [printable checklist](/checklists/cambridge/igcse/business/) and the [free diagnostics](/diagnostics/) to plan your revision.

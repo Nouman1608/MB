@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 Condensed recall for section 5.2 (Circular motion) of the H556 Physics A specification from OCR (Version 3.0, March 2026), covering 5.2.1 Kinematics of circular motion and 5.2.2 Centripetal force. For full explanations and worked derivations use the [study guide](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force/). Next, attempt the [practice questions](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force-practice/). Also useful: the subject [hub](/boards/ocr/a-level/physics/), the [checklist to print](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).

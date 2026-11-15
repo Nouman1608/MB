@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 These revision notes condense sections 3.2.6 and 3.2.7 of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-biology-blood-vessels-the-heart-and-coronary-heart-disease/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-blood-vessels-the-heart-and-coronary-heart-disease-practice/). Also see the [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/), the [printable checklist](/checklists/oxfordaqa/a-level/biology/) and the free [10-minute diagnostics](/diagnostics/).
 

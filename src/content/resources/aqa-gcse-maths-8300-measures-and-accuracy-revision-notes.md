@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.1.3, **Measures and accuracy** (N13 to N16), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 onwards (version 1.0). For full explanations and worked examples, use the [Measures and accuracy study guide](/resources/aqa-gcse-maths-8300-measures-and-accuracy/). Units, estimation, rounding, error intervals and limits of accuracy are on both tiers. Calculating with upper and lower bounds is **Higher tier only** and is marked **(Higher)**. Any of the three papers can test this; Paper 1 is non-calculator, Papers 2 and 3 allow a calculator.

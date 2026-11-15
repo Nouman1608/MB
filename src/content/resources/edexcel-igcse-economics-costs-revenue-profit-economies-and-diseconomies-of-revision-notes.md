@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Short recall notes for section 1.2.3, Business costs, revenues and profit, in the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. For full explanations and extra examples, go to the [study guide](/resources/edexcel-igcse-economics-costs-revenue-profit-economies-and-diseconomies-of/). Then try the [practice questions](/resources/edexcel-igcse-economics-costs-revenue-profit-economies-and-diseconomies-of-practice/), tick off topics on the [checklist](/checklists/edexcel/igcse/economics/), see the [course hub](/boards/edexcel/igcse/economics/) and take a [10-minute diagnostic](/diagnostics/). All figures are made up for illustration and carry no currency sign. There is one tier of entry.

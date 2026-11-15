@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These are quick-recall notes for the working scientifically section (5e) of the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026): practical skills 2a to 2d plus statements 1.2, 1.3 and 1.4 as used in the Topic B7 practicals. None of it is marked Higher Tier only. The [study guide](/resources/ocr-gcse-biology-working-scientifically-planning-recording-presenting/) has the full explanations and longer worked examples.

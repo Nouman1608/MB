@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 These revision notes condense sub-topic **C2.3 Properties of materials** of OCR GCSE (9-1) Chemistry A (Gateway Science), following OCR's Version 4.0 J248 specification (August 2026). Statements C2.3a to C2.3j, mathematical outcomes CM2.3i to CM2.3vi and the dissolving tablets practical suggestion (PAG C8) are all here. Both tiers can be tested on every C2.3 statement, since none is Higher Tier only; the content sits on Paper 1 for Foundation candidates and Paper 3 for Higher. C2.3g to C2.3j and CM2.3ii to CM2.3vi are separate-chemistry content, in this course but not in combined science.

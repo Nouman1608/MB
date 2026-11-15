@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches topic 15 (Drugs) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Topic 15 has one section, 15.1 Drugs, with four Core learning outcomes and one Supplement outcome. Core outcomes are tested on Papers 1 and 3 (and Extended candidates must know them too); the Supplement outcome, marked "Extended only" below, is tested on Papers 2 and 4. The topic is short, but it links directly to disease (topic 10) and natural selection (topic 18), so questions on it often carry more marks than its length suggests.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense **B10 (partial fractions)** and **B11 (functions in modelling)** from the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Both are Section B content, assessed on Paper 1, and Papers 2 and 3 can also assess any Paper 1 content. For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling/).

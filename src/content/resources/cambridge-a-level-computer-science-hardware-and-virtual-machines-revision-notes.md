@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 15 Hardware and Virtual Machines covers processor design (RISC versus CISC, pipelining and interrupt handling), parallel computer architectures, virtual machines, and logic design with adders, flip-flops, Boolean algebra and Karnaugh maps. In Cambridge International AS & A Level Computer Science 9618 it is A Level content examined in Paper 3, where you compare designs in contrasting pairs and simplify logic expressions with full working.

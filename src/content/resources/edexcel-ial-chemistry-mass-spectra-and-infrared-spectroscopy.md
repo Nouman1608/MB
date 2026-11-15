@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches Topic 10D, Mass spectra and IR, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, outcomes 10.21, 10.22 and 10.23 (Core Practical 8). This part of Topic 10 is assessed in the IAS written examination for Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols. Topic 15E in Unit 4 extends it; that later content is not needed here.

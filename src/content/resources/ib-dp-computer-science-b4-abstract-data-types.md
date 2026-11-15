@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); the brief names B.4 as HL only but does not list the ADTs or outcomes, which are in the licensed full guide; general ADT background is labelled; please review; 2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); the brief names B.4 as HL only but does not list the ADTs or outcomes, which are in the licensed full guide; general ADT background is labelled; please review; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

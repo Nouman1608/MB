@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 5.1, Business finance: needs and sources, of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. For full explanations and a worked recommendation, read the [study guide](/resources/o-level-business-business-finance-needs-and-sources/). Then practise with the [practice questions](/resources/o-level-business-business-finance-needs-and-sources-practice/). Related pages: the [Financial information and decisions practice set](/resources/o-level-business-financial-information-and-decisions-practice/), the [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/). To find weak spots first, use the [free diagnostics](/diagnostics/).
