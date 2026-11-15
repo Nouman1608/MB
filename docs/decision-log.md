@@ -16119,7 +16119,7 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 ## D-466 - Trial form: phone stays compulsory, with a country-code select (15 Nov 2026)
 
 - Owner, 15 Nov 2026: "keep the phone required add a country code also". This settles the review question in D-464: D-439 stands.
-- **Fix.** The phone field on /trial/ has a country-code select beside it (`functions/_lib/dial-codes.ts`, 108 countries plus "Other"), default Pakistan +92. Choosing a country in the Country field pre-selects its code until the visitor picks a code themselves. The server joins code and number (`joinPhone`): the national trunk 0 is dropped (kept for Italy and San Marino), a number typed with + or 00 is kept as typed, and "Other" requires the code to be typed. The team's email always shows one international number. Tests in `functions/api/__tests__/enquiry-validation.test.mjs`.
+- **Fix.** The phone field on /trial/ has a country-code select beside it (`functions/_lib/dial-codes.ts`, 103 countries plus "Other"), default Pakistan +92. Choosing a country in the Country field pre-selects its code until the visitor picks a code themselves. The server joins code and number (`joinPhone`): the national trunk 0 is dropped (kept for Italy and San Marino), a number typed with + or 00 is kept as typed, and "Other" requires the code to be typed. The team's email always shows one international number. Tests in `functions/api/__tests__/enquiry-validation.test.mjs`.
 - **Not changed.** Phone stays compulsory and email optional on the English form. The translated five-field forms and the contact, tutoring and schools forms (`EnquiryForm`) are unchanged.
 
 ## D-467 - Europe page covers all of Europe outside the UK (15 Nov 2026)
