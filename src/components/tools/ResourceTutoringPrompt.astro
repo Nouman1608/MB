@@ -27,8 +27,12 @@
  * D-460 (15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain, Oman and Europe have
  * their own pages. Their zones map to those pages (the four Gulf zones used
  * to map to /gulf/ and keep WhatsApp first); /gulf/ stays in the list as the
- * overview. Europe covers the euro countries' zones only, because the Europe
- * page gives fees in euros; the UK keeps its own page.
+ * overview. The UK keeps its own page.
+ *
+ * D-467 (owner, 15 Nov 2026) -- the Europe page covers "all Europe outside
+ * UK", so every Europe/* zone except the UK and the Crown Dependencies (which
+ * use the pound) goes there, plus the European zones filed under Asia/ and
+ * Atlantic/ (Cyprus, the Canaries, Madeira, the Azores, Iceland, the Faroes).
  */
 import { PRICING_TERMS, REGION_PRICING, formatFee } from '../../data/pricing';
 
@@ -100,19 +104,18 @@ const MARKET_LINKS = [
     'Asia/Singapore': 'singapore',
     'Europe/London': 'uk',
   };
-  // D-460 -- the euro countries' zones go to the Europe page (fees in euros).
-  for (const z of [
-    'Europe/Amsterdam', 'Europe/Athens', 'Europe/Berlin', 'Europe/Bratislava', 'Europe/Brussels', 'Europe/Dublin',
-    'Europe/Helsinki', 'Europe/Lisbon', 'Europe/Ljubljana', 'Europe/Luxembourg', 'Europe/Madrid', 'Europe/Malta',
-    'Europe/Paris', 'Europe/Riga', 'Europe/Rome', 'Europe/Tallinn', 'Europe/Vienna', 'Europe/Vilnius', 'Europe/Zagreb',
-  ]) ZONE_MARKET[z] = 'europe';
+  // D-467 -- all of Europe outside the UK goes to the Europe page.
+  const POUND_ZONES = new Set(['Europe/London', 'Europe/Belfast', 'Europe/Guernsey', 'Europe/Jersey', 'Europe/Isle_of_Man']);
+  const EUROPE_EXTRA = new Set(['Asia/Nicosia', 'Asia/Famagusta', 'Atlantic/Canary', 'Atlantic/Madeira', 'Atlantic/Azores', 'Atlantic/Reykjavik', 'Atlantic/Faroe']);
+  const marketForZone = (z: string): string | undefined =>
+    ZONE_MARKET[z] ?? ((z.startsWith('Europe/') && !POUND_ZONES.has(z)) || EUROPE_EXTRA.has(z) ? 'europe' : undefined);
   const WHATSAPP_FIRST = new Set(['pakistan', 'uae', 'qatar', 'saudi-arabia', 'kuwait', 'bahrain', 'oman']);
   const PRIMARY = 'bg-navy-800 text-ivory hover:bg-navy-700'.split(' ');
   const SECONDARY = 'border border-navy-800 text-navy-800 hover:bg-white'.split(' ');
 
   let zone = '';
   try { zone = Intl.DateTimeFormat().resolvedOptions().timeZone ?? ''; } catch { /* keep the static layout */ }
-  const market = ZONE_MARKET[zone];
+  const market = marketForZone(zone);
 
   document.querySelectorAll<HTMLElement>('[data-tutoring-prompt]').forEach((box) => {
     if (!market) return;

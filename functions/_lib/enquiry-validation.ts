@@ -9,6 +9,7 @@
  * dispatch) around it.
  */
 import { TRIAL_TEACHERS } from './trial-teachers.ts';
+import { DIAL_CODES, DIAL_OTHER, hasInternationalPrefix, joinPhone } from './dial-codes.ts';
 
 
 export type EnquiryKind = 'student' | 'tutoring' | 'school' | 'trial' | 'correction';
@@ -84,7 +85,7 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
     // D-439: email is checked below instead -- optional on the English form
     // (which requires a phone), still compulsory on the translated forms.
     required: ['name', 'country'],
-    optional: ['email', 'phone', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
+    optional: ['email', 'phone', 'phoneCountry', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
   },
   // Deliberately NOT name/phone/country -- a correction report is not a
   // tuition enquiry and shouldn't ask for enrolment-shaped fields. pageUrl
@@ -117,6 +118,8 @@ const TRIAL_RULES: Record<string, (v: string) => boolean> = {
   teacher: (v) => /^[a-z0-9-]{3,60}$/.test(v) && Object.hasOwn(TRIAL_TEACHERS, v),
   source: (v) => (TRIAL_SOURCES as readonly string[]).includes(v),
   subject: (v) => v.length <= 300,
+  // D-466: the phone field's country-code select (ISO id, or "other").
+  phoneCountry: (v) => v === DIAL_OTHER || DIAL_CODES.some((d) => d.id === v),
 };
 
 /**
@@ -124,7 +127,7 @@ const TRIAL_RULES: Record<string, (v: string) => boolean> = {
  * limit. `subject` is deliberately not here: D-286/D-292 allow up to 300
  * characters and report a friendly error above that.
  */
-const SHORT_FIELDS = new Set(['phone', 'timezone', 'availability', 'course', 'teacher', 'source']);
+const SHORT_FIELDS = new Set(['phone', 'phoneCountry', 'timezone', 'availability', 'course', 'teacher', 'source']);
 const SHORT_FIELD_LENGTH = 200;
 
 const MAX_FIELD_LENGTH = 2000;
@@ -228,6 +231,17 @@ export function validateEnquiry(
       if (!data.format && !errors.format) data.format = 'help-me-decide';
       if (!data.phone) errors.phone = 'Please enter a phone or WhatsApp number.';
       else if (data.phone.replace(/\D/g, '').length < 7 || data.phone.length > 30) errors.phone = 'Please enter a valid phone or WhatsApp number.';
+      else if (data.phoneCountry) {
+        // D-466: join the selected country code and the number, so the team
+        // always gets an international number. "Other" needs the code typed.
+        if (data.phoneCountry === DIAL_OTHER && !hasInternationalPrefix(data.phone)) {
+          errors.phone = 'Please type your number with its country code, starting with +.';
+        } else if (data.phoneCountry !== DIAL_OTHER) {
+          const joined = joinPhone(data.phoneCountry, data.phone);
+          if (joined) data.phone = joined;
+        }
+      }
+      delete data.phoneCountry;
     } else if (!data.email && !errors.email) {
       errors.email = 'This field is required.';
     }

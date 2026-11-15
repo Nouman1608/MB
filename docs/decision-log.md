@@ -16115,3 +16115,27 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - `qa:review-pack` (teacher packs with the hash to record).
   - `qa:source-manifest` (rehashes from disk; never substitutes another folder).
   - 25 unit tests in `test:tools`; negative cases AW-BC.
+
+## D-466 - Trial form: phone stays compulsory, with a country-code select (15 Nov 2026)
+
+- Owner, 15 Nov 2026: "keep the phone required add a country code also". This settles the review question in D-464: D-439 stands.
+- **Fix.** The phone field on /trial/ has a country-code select beside it (`functions/_lib/dial-codes.ts`, 108 countries plus "Other"), default Pakistan +92. Choosing a country in the Country field pre-selects its code until the visitor picks a code themselves. The server joins code and number (`joinPhone`): the national trunk 0 is dropped (kept for Italy and San Marino), a number typed with + or 00 is kept as typed, and "Other" requires the code to be typed. The team's email always shows one international number. Tests in `functions/api/__tests__/enquiry-validation.test.mjs`.
+- **Not changed.** Phone stays compulsory and email optional on the English form. The translated five-field forms and the contact, tutoring and schools forms (`EnquiryForm`) are unchanged.
+
+## D-467 - Europe page covers all of Europe outside the UK (15 Nov 2026)
+
+- Owner, 15 Nov 2026: the Europe fee covers "all Europe outside UK" (the open question in D-460).
+- **Fix.** /europe/ gains a "Which countries does this page cover?" answer: every country in Europe except the United Kingdom, euro or not, with fees shown in euros. The time table adds Iceland (GMT all year) and Türkiye, Belarus and western Russia (UTC+3 all year), and its rows name example countries for each zone. The lesson-end tuition prompt sends every `Europe/*` time zone to /europe/ except the UK and the Crown Dependencies (pound areas), plus Cyprus, the Canaries, Madeira, the Azores, Iceland and the Faroes.
+- **Not changed.** No fee. The /uk/ page.
+
+## D-468 - Teacher details from the owner: years for Harris Khan and Ammar Bilal, new photo for Naqiya Yousaf (15 Nov 2026)
+
+- Owner, 15 Nov 2026: Harris Khan 12 years, Ammar Bilal 2 years; "yes" to Dr Salman Ahmad's 50 years; Naqiya Yousaf's photograph supplied as an image to crop from; "skip" Harris Khan's photograph.
+- **Fix.** `yearsExperience` set to 12 (Harris Khan) and 2 (Ammar Bilal), with the confirmation added to each `sourceNote`. Naqiya Yousaf's photograph replaced with a sharper crop of the owner-supplied image (a Beaconhouse College Programme promotional graphic; photo area only, 330x330 px, resized to 640x640) and recorded in `docs/image-source-manifest.md`; WebP copies regenerated.
+- **Not changed.** Dr Salman Ahmad's profile already said 50 years. Harris Khan keeps the initials placeholder (D-454). The graphic spells her name "Naqia"; the site keeps "Naqiya", as on her profile. The image record still has no row for ammar-bilal.jpg and farhat-ul-ain-sehgal.jpg.
+
+## D-469 - Past-paper files: R2 bucket marlbridge-past-papers on papers.marlbridge.com (15 Nov 2026)
+
+- Owner, 15 Nov 2026: "upload onto R2 bucket" (storage for D-463).
+- **Fix.** R2 bucket `marlbridge-past-papers` created on 15 Nov 2026. `papers.marlbridge.com` added to `PAST_PAPER_FILE_HOSTS`. `docs/past-papers/README.md` gives the upload steps.
+- **Open.** The custom domain must be connected in the Cloudflare dashboard before any file URL works. The per-board rights notes and the editorial-policy wording (D-463) are still needed before the first entry.
