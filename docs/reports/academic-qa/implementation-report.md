@@ -1,8 +1,8 @@
 # Academic Quality Assurance Programme — implementation report
 
-Decision: **D-457** (`docs/decision-log.md`). Framework: [`docs/academic-qa/framework.md`](../../academic-qa/framework.md). Dashboard: [`dashboard.md`](dashboard.md) / [`dashboard.html`](dashboard.html). Tests: [`test-results.md`](test-results.md). Open items: [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md) (OQ-7 to OQ-12, OT-5 to OT-7).
+Decision: **D-465** (`docs/decision-log.md`). Framework: [`docs/academic-qa/framework.md`](../../academic-qa/framework.md). Dashboard: [`dashboard.md`](dashboard.md) / [`dashboard.html`](dashboard.html). Tests: [`test-results.md`](test-results.md). Open items: [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md) (OQ-7 to OQ-12, OT-5 to OT-7).
 
-Branch `academic-qa/framework` (PR #163), started from `origin/main` at `47e84134d`, with `main` merged in at `41cb4f814` (D-451 to D-456 from other sessions). Not deployed.
+Branch `academic-qa/framework` (PR #163), started from `origin/main` at `47e84134d`, with `main` merged in at `e2e5df792` (D-451 to D-464 from other sessions). Not deployed.
 
 ## 1. Summary
 
@@ -36,8 +36,8 @@ What this programme added: the ten-check framework, a versioned 100-point rubric
 | QA states | none | AUTOMATED_CHECK_COMPLETE 8,414 · ACADEMIC_REVIEW_PENDING 1 · REVISION_REQUIRED 3 · all others 0 |
 | Documented teacher verifications | 0 | 0 |
 | VERIFIED_APPROVED | n/a | 0 |
-| Negative-suite cases (with a built site) | 54 | 62 (7 new here; 1 added on main by D-453) |
-| test:tools tests | 154 | 179 |
+| Negative-suite cases (with a built site) | 54 | 63 (7 new here; 2 added on main by D-453 and D-455) |
+| test:tools tests | 154 | 187 (25 new here; 8 added on main) |
 | Academic references in the owner's `resource check` folder | 0 | 4 (SHA-256 recorded) |
 
 ## 3. Owner decisions taken (15 Nov 2026, multiple choice)
@@ -64,7 +64,7 @@ What this programme added: the ten-check framework, a versioned 100-point rubric
 | npm scripts | `validate:academic-qa`, `report:academic-qa`, `check:academic-qa`, `qa:review-pack`, `qa:source-manifest` |
 | Content correction | `src/content/resources/atomic-structure-practice.md` (3 lines; see section 6) |
 | Regenerated | `docs/reports/academic-review/*` (ledger), `docs/reports/academic-coverage-current.{csv,json}` (word count of the corrected page) |
-| Docs | `docs/academic-qa/framework.md`, this report, `test-results.md`, decision log D-457, `OPEN_QUESTIONS.md` |
+| Docs | `docs/academic-qa/framework.md`, this report, `test-results.md`, decision log D-465, `OPEN_QUESTIONS.md` |
 
 No public template, schema, URL, title, description, sitemap entry, robots directive or structured data changed. Rule [Q9] makes sure no page can reference the QA register.
 

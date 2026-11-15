@@ -41,6 +41,18 @@ const boardName = boardBySlug(board)?.name ?? board;
 const qualificationName = qualificationBySlug(qualification)?.name ?? qualification;
 // B15 -- name the course as its hub does (9626 is "Information Technology").
 const subjectName = courseSubjectNameOverride(board, qualification, subject) ?? subjectBySlug(subject)?.name ?? subject;
+/**
+ * D-462 (15 Nov 2026) -- the IB qualification names ("IB Diploma Programme",
+ * "IB Middle Years Programme") already name the board, so the <title> said it
+ * twice ("International Baccalaureate IB Diploma Programme Biology — printable
+ * checklist", 78 to 115 characters on the 21 IB checklists). Same rule as
+ * boardQualPhrase on the course hub: drop the board name only when the
+ * qualification name carries it. Title only; the heading and the description
+ * are unchanged.
+ */
+const titleCourse = qualificationName.startsWith('IB ')
+  ? `${qualificationName} ${subjectName}`
+  : `${boardName} ${qualificationName} ${subjectName}`;
 const rtlLang = recordRtlLang(version.topics);
 const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualification, subjectSlug: subject } as any);
 
@@ -58,7 +70,7 @@ const promptFormat = oneToOneOnly ? 'one-to-one' : `one-to-one and in small grou
 const promptTrialHref = `/trial/?course=${encodeURIComponent(courseKey)}${oneToOneOnly ? '&format=one-to-one' : ''}&source=resource`;
 ---
 <BaseLayout
-  title={`${boardName} ${qualificationName} ${subjectName} — printable checklist`}
+  title={`${titleCourse} — printable checklist`}
   description={`Printable checklist of all ${version.topics.length} topics for ${boardName} ${qualificationName} ${subjectName}, syllabus ${version.syllabusCode} (${version.syllabusSeries}).`}
   path={`/checklists/${board}/${qualification}/${subject}/`}
 >

@@ -1,0 +1,67 @@
+---
+/**
+ * /past-papers/ -- index of the past-paper library (D-463, 15 Nov 2026): the
+ * courses that have hosted exam-board documents, by board.
+ *
+ * A rest route, like /advanced-course-resources/, so that the page is
+ * generated only when the library has entries: indexStaticPaths() returns
+ * nothing for an empty manifest, and then this URL does not exist and is in
+ * no sitemap. See src/utils/past-papers/library.ts.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { routes } from '../../utils/urls/routes';
+import { BOARDS } from '../../data/academic/boards';
+import {
+  indexStaticPaths, libraryCourses, courseLabel, countLabel, yearRange, PAST_PAPERS_INDEX_PATH,
+} from '../../utils/past-papers/library';
+
+export async function getStaticPaths() {
+  return indexStaticPaths();
+}
+
+const courses = libraryCourses();
+const total = courses.reduce((n, c) => n + c.entries.length, 0);
+const byBoard = BOARDS
+  .map((b) => ({ board: b, courses: courses.filter((c) => c.combination.boardSlug === b.slug) }))
+  .filter((g) => g.courses.length > 0);
+const boardNames = byBoard.map((g) => g.board.name);
+const boardList = boardNames.length <= 1 ? boardNames.join('') : `${boardNames.slice(0, -1).join(', ')} and ${boardNames[boardNames.length - 1]}`;
+const courseCount = `${courses.length} ${courses.length === 1 ? 'course' : 'courses'}`;
+---
+<PageLayout
+  title="Past Papers by Course"
+  description={`${countLabel(total)} published by ${boardList}, for ${courseCount}, listed by course, year and exam session.`}
+  path={PAST_PAPERS_INDEX_PATH}
+  eyebrow="Study resources"
+  heading="Past papers"
+  lead={`Exam-board documents for ${courseCount}, published by ${boardList} and hosted by Marlbridge. Choose a course to see its papers by year and session.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Study resources', href: routes.resources },
+    { label: 'Past papers', href: PAST_PAPERS_INDEX_PATH },
+  ]}
+>
+  <Section surface="white" spacing="md">
+    <Container>
+      {byBoard.map((g) => (
+        <section aria-labelledby={`board-${g.board.slug}`} class="mt-[clamp(32px,4vw,48px)] first:mt-0">
+          <h2 id={`board-${g.board.slug}`} class="m-0 text-[length:var(--text-h2)] font-bold leading-[1.08] tracking-[-0.025em] text-navy-800">{g.board.name}</h2>
+          <ul class="m-0 mt-4 list-none border-y border-rule p-0">
+            {g.courses.map((course) => (
+              <li class="m-0 flex flex-wrap items-center justify-between gap-x-6 gap-y-1 border-t border-rule px-1 py-1 first:border-t-0">
+                <a href={course.path} class="inline-flex min-h-11 items-center text-[16px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{courseLabel(course)}</a>
+                <span class="text-[14.5px] text-ink-mute">{countLabel(course.entries.length)}, {yearRange(course)}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+      <p class="m-0 mt-10 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">
+        Each file is a document published by the exam board named on its course page. Marlbridge hosts the files and did
+        not write them. Marlbridge's own practice questions are original and are not taken from these papers.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>

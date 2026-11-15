@@ -5,6 +5,7 @@ import Container from '../../components/layout/Container.astro';
 import FAQ from '../../components/ui/FAQ.astro';
 import { faqNode } from '../../utils/schema/faq';
 import FeeCalculator from '../../components/tools/FeeCalculator.astro';
+import RegionFeeCard from '../../components/tools/RegionFeeCard.astro';
 import { routes } from '../../utils/urls/routes';
 import {
   REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING, IB_CONVERSIONS, IB_USD_PRICING,
@@ -86,6 +87,9 @@ const faq = faqNode(faqs);
 >
   <Section surface="white">
     <Container>
+      {/* D-459: one region's fees as a card, with the trial button under it, before the wide tables (phones). The tables below stay the complete record. */}
+      <RegionFeeCard />
+
       <h2 class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Group, one-to-one or IB: how they compare</h2>
       <p class="m-0 mb-5 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">A monthly group fee and a per-class one-to-one fee are not directly comparable: one covers {PRICING_TERMS.classFormat.group.split(',')[1]?.trim() ?? 'three classes a week'} for a month, the other is one hour.</p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Comparison table, scrolls sideways on small screens">
@@ -115,7 +119,7 @@ const faq = faqNode(faqs);
       <h2 id="fee-calc-heading" class="m-0 mb-4 mt-12 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Work out a fee</h2>
       <FeeCalculator />
 
-      <h2 class="m-0 mb-4 mt-12 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Group classes, by region</h2>
+      <h2 id="group-fees" class="m-0 mb-4 mt-12 scroll-mt-24 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Group classes, by region</h2>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[560px] border-collapse text-[15px]">
           <caption class="sr-only">Group-class fees per subject per month, by region</caption>
@@ -153,7 +157,7 @@ const faq = faqNode(faqs);
 
   <Section surface="ivory" border>
     <Container>
-      <h2 class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">One-to-one classes</h2>
+      <h2 id="one-to-one-fees" class="m-0 mb-4 scroll-mt-24 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">One-to-one classes</h2>
       <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
         One-to-one tuition is priced per class rather than per subject per month. The multi-subject and sibling discounts above do not apply to one-to-one classes. AP courses, OCR courses, and OxfordAQA Islamiyat and Pakistan Studies, are one-to-one only at their own fee: <a href="#one-to-one-only" class="underline decoration-teal-500 underline-offset-2">see below</a>.
       </p>
@@ -186,7 +190,7 @@ const faq = faqNode(faqs);
 
   <Section surface="white" border>
     <Container>
-      <h2 class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">IB tuition</h2>
+      <h2 id="ib-fees" class="m-0 mb-4 scroll-mt-24 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">IB tuition</h2>
       <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
         IB (Middle Years Programme and Diploma Programme) is priced differently from the rest of the site above: per class rather than per subject per month, and one-to-one only. The multi-subject and sibling discounts below do not apply to IB tuition.
       </p>

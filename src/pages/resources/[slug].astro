@@ -27,6 +27,7 @@ import { topicAnchor } from '../../utils/academic/course-topics';
 import { STUDY_KIND } from '../../utils/academic/combination-resources';
 import { onThisTopicLinks } from '../../utils/content/next-steps';
 import VideoSection from '../../components/media/VideoSection.astro';
+import TeacherPicture from '../../components/ui/TeacherPicture.astro';
 import { videosForResource } from '../../utils/content/media';
 import { videoNodes } from '../../utils/schema/video';
 import { faqNode } from '../../utils/schema/faq';
@@ -537,7 +538,9 @@ const jsonLd = [articleNode({
                   <li class="m-0">
                     <a href={routes.author(t.id)} class="flex items-center gap-3 rounded-sm border border-rule bg-white py-2 pe-4 ps-2 hover:border-teal-500">
                       {t.data.image ? (
-                        <img src={t.data.image} alt="" width="40" height="40" class="h-10 w-10 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
+                        <TeacherPicture src={t.data.image} size={40}>
+                          <img src={t.data.image} alt="" width="40" height="40" class="h-10 w-10 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
+                        </TeacherPicture>
                       ) : (
                         <span aria-hidden="true" class="h-10 w-10 shrink-0 rounded-full border border-rule bg-ivory"></span>
                       )}

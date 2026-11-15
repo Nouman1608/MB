@@ -12,6 +12,9 @@
  * Every number is computed from site data (matrix, pricing) or is a
  * standard UTC offset. No branch, partner, local teacher, result or
  * student count is claimed.
+ *
+ * D-460 (owner, 15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain, Oman and
+ * Europe have their own pages; the Gulf card now points to the overview.
  */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
@@ -53,7 +56,13 @@ const COUNTRY_PAGES = [
   { href: '/qatar/', name: 'Qatar', note: 'Pearson Edexcel, Cambridge, IB. QAR fees, two hours behind Lahore.' },
   { href: '/malaysia/', name: 'Malaysia', note: 'Cambridge IGCSE and A Level. Indicative RM fees, three hours ahead of Lahore.' },
   { href: '/singapore/', name: 'Singapore', note: 'IB, Cambridge IGCSE and A Level for international schools. Indicative S$ fees, three hours ahead of Lahore.' },
-  { href: '/gulf/', name: 'Saudi Arabia, Kuwait, Bahrain, Oman', note: 'Gulf overview with each country’s fees and time zone.' },
+  // D-460 -- no search data is held for these five, so the notes name only fees and time.
+  { href: '/saudi-arabia/', name: 'Saudi Arabia', note: 'SAR fees, two hours behind Lahore.' },
+  { href: '/kuwait/', name: 'Kuwait', note: 'KWD fees, two hours behind Lahore.' },
+  { href: '/bahrain/', name: 'Bahrain', note: 'BHD fees, two hours behind Lahore.' },
+  { href: '/oman/', name: 'Oman', note: 'OMR fees, one hour behind Lahore.' },
+  { href: '/gulf/', name: 'The Gulf', note: 'All six Gulf countries side by side: fees and time zones.' },
+  { href: '/europe/', name: 'Europe', note: 'Euro fees. Two to five hours behind Lahore, depending on the country and the time of year.' },
 ];
 
 /** Standard offsets only; countries with daylight saving are flagged. */
@@ -131,7 +140,7 @@ const faq = faqNode(faqs);
     <Container>
       <h2 id="intl-countries" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Choose your country</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
-        Each country page gives local fees, time-zone arithmetic and the syllabus pages students there look for. Marlbridge has no branch, office or local teacher in any of these countries.
+        Each page gives local fees and time-zone arithmetic, and, where Marlbridge has the search data, the syllabus pages students there look for. Marlbridge has no branch, office or local teacher in any of these places.
       </p>
       <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
         {COUNTRY_PAGES.map((cp) => (

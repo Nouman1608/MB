@@ -1,6 +1,6 @@
 # Marlbridge Academic Quality Assurance Framework
 
-**Rubric version 1.0.0 · Decision D-457 (15 Nov 2026) · Owner of the policy: the project owner · Code: `src/utils/academic/qa-rubric.ts`**
+**Rubric version 1.0.0 · Decision D-465 (15 Nov 2026) · Owner of the policy: the project owner · Code: `src/utils/academic/qa-rubric.ts`**
 
 This framework says how a Marlbridge resource is judged academically, how that judgement is recorded, and what a page needs before Marlbridge can call it verified. It extends the systems already in place (the academic-review ledger, D-386; the meaning of "reviewed", D-379; documented teacher verification, D-448). It does not replace them.
 
@@ -90,7 +90,7 @@ Every assessment and every teacher verification records `contentSha256`, the SHA
 ## 5. Records
 
 - **Assessments**: `docs/reports/academic-qa/assessments.json`. Field definitions are in its `meta.fields`. An AI-assisted record must say `"assessor": "AI-assisted (<model>)"`. A human record must name an isReviewer profile covering the boards and subject, plus `humanEvidence`.
-- **Teacher verifications**: `docs/reports/academic-review/teacher-verifications.json` (D-448 format plus `contentSha256`, D-457).
+- **Teacher verifications**: `docs/reports/academic-review/teacher-verifications.json` (D-448 format plus `contentSha256`, D-465).
 - **Scorecard** (generated): `docs/reports/academic-qa/scorecard.csv`, `scorecard.json`, `dashboard.md`, `dashboard.html` and `review-queue.md`.
 - **Source manifest**: `docs/reports/academic-qa/source-manifest.json` (see section 9).
 

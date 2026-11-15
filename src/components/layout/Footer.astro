@@ -63,11 +63,14 @@ const footerSocial = site.social.filter((s) => s.footer !== false);
         {/* D-081, retained after Zaraz removal in D-091 -- reopens this
             site's own consent banner so a visitor who already chose can
             change their mind. Handled by the delegated listener in
-            ConsentAnalytics.astro. */}
+            ConsentAnalytics.astro.
+            D-461: 11px of padding above and below, taken back by the same
+            negative margin, makes the touch height 44px (it was 22px)
+            without moving anything. */}
         <button
           type="button"
           data-open-cookie-settings
-          class="m-0 cursor-pointer border-0 bg-transparent p-0 text-[13.5px] text-on-navy-mute underline decoration-teal-500 underline-offset-2 hover:text-white"
+          class="mx-0 -my-[11px] cursor-pointer border-0 bg-transparent px-0 py-[11px] text-[13.5px] text-on-navy-mute underline decoration-teal-500 underline-offset-2 hover:text-white"
         >Cookie Settings</button>
         <p class="m-0 text-[13.5px] text-on-navy-mute">{site.founding}</p>
       </div>

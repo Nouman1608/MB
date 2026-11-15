@@ -45,6 +45,19 @@ downloaded 2026-08-18, all 640x640 JPEG.
 | azam-siddique.jpg | Learners Academy website | https://learnersacademy.com.pk/teachers/azam-siddique.jpg | Not stated on source | 2026-08-18 | Same-organisation reuse (D-004) | /authors/azam-siddique/ |
 | aizaz-raoof-ali.jpg | Learners Academy website | https://learnersacademy.com.pk/teachers/aizaz-raoof-ali.jpg | Not stated on source | 2026-08-18 | Same-organisation reuse (D-004) | /authors/aizaz-raoof-ali/ |
 
+### Derived WebP copies (D-457)
+
+Each JPEG above, and every other JPEG in `public/images/faculty/`, has two
+smaller WebP copies beside it: `<name>-128.webp` and `<name>-224.webp`. They
+are not separate source images. `scripts/generate-faculty-webp.mjs` makes
+them from the local JPEG with `sharp` (resize to 128 px and 224 px wide,
+WebP quality 80): no crop, no retouching, no other edit. First generated
+2026-11-15. The JPEG originals are kept unchanged and remain the record for
+source, date and licence basis; the pages serve the WebP copy with the JPEG
+as the fallback, and the Person schema still names the JPEG. After adding or
+replacing a JPEG, run the script again
+(`node scripts/generate-faculty-webp.mjs --check` reports a missing copy).
+
 ## Notes / open follow-up
 
 - No `boardsTaught` value was set on any author record: the source page does

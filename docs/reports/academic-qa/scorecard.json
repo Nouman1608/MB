@@ -1,5 +1,5 @@
 {
-  "meaning": "Academic QA scorecard (D-457). Automated checks, repository verification, accountable-teacher credit, rubric assessment and documented teacher verification are reported separately and never merged into one \"reviewed\" figure. Unassessed resources have no score.",
+  "meaning": "Academic QA scorecard (D-465). Automated checks, repository verification, accountable-teacher credit, rubric assessment and documented teacher verification are reported separately and never merged into one \"reviewed\" figure. Unassessed resources have no score.",
   "totals": {
     "rubricVersion": "1.0.0",
     "scope": "src/content/resources (articles and the AP library are not in scope for v1)",

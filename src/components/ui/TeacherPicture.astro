@@ -1,0 +1,25 @@
+---
+/**
+ * D-457 -- serves a teacher photograph as a small WebP copy, with the
+ * original JPEG as the fallback.
+ *
+ * Wrap the existing <img> in it. The <img> stays exactly as the page wrote
+ * it (src, the deliberate empty alt, width, height, loading, decoding,
+ * classes); this component only adds a <picture> with one WebP <source>
+ * around it. `class="contents"` keeps the <picture> out of the layout, so
+ * the <img> is still the flex item it was before.
+ *
+ * `size` is the CSS px the page shows the photo at (its width attribute).
+ * The browser picks the 128 px or the 224 px copy from it and the screen
+ * density. When the copies do not exist (see teacher-photo.ts) the <img> is
+ * rendered on its own, unchanged.
+ */
+import { teacherPhotoSrcset } from '../../utils/content/teacher-photo';
+
+interface Props { src?: string; size: number }
+const { src, size } = Astro.props;
+const srcset = teacherPhotoSrcset(src);
+---
+{srcset
+  ? <picture class="contents"><source type="image/webp" srcset={srcset} sizes={`${size}px`} /><slot /></picture>
+  : <slot />}

@@ -23,6 +23,12 @@
  * form enquiries), puts WhatsApp first. The zone is read in the browser and
  * never sent anywhere; without JavaScript, or for any other zone, the static
  * order and the full country list stay as they are.
+ *
+ * D-460 (15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain, Oman and Europe have
+ * their own pages. Their zones map to those pages (the four Gulf zones used
+ * to map to /gulf/ and keep WhatsApp first); /gulf/ stays in the list as the
+ * overview. Europe covers the euro countries' zones only, because the Europe
+ * page gives fees in euros; the UK keeps its own page.
  */
 import { PRICING_TERMS, REGION_PRICING, formatFee } from '../../data/pricing';
 
@@ -48,10 +54,16 @@ const MARKET_LINKS = [
   { slug: 'pakistan', href: '/pakistan/', name: 'Pakistan', local: onlineOnly ? 'In Pakistan, this course is taught live online, with fees in rupees.' : 'In Pakistan, classes are in person at our Lahore academy or live online, with fees in rupees.' },
   { slug: 'uae', href: '/uae/', name: 'UAE', local: 'For families in the UAE: live online classes, fees and class times in UAE time.' },
   { slug: 'qatar', href: '/qatar/', name: 'Qatar', local: 'For families in Qatar: live online classes, fees and class times in Qatar time.' },
-  { slug: 'gulf', href: '/gulf/', name: 'Saudi Arabia, Kuwait, Bahrain and Oman', local: 'For families in the Gulf: live online classes, fees and class times in your time zone.' },
+  { slug: 'saudi-arabia', href: '/saudi-arabia/', name: 'Saudi Arabia', local: 'For families in Saudi Arabia: live online classes, fees and class times in Saudi Arabia time.' },
+  { slug: 'kuwait', href: '/kuwait/', name: 'Kuwait', local: 'For families in Kuwait: live online classes, fees and class times in Kuwait time.' },
+  { slug: 'bahrain', href: '/bahrain/', name: 'Bahrain', local: 'For families in Bahrain: live online classes, fees and class times in Bahrain time.' },
+  { slug: 'oman', href: '/oman/', name: 'Oman', local: 'For families in Oman: live online classes, fees and class times in Oman time.' },
+  // Overview page: listed below, but no time zone maps to it any more, so it has no local line.
+  { slug: 'gulf', href: '/gulf/', name: 'Gulf', local: '' },
   { slug: 'malaysia', href: '/malaysia/', name: 'Malaysia', local: 'For families in Malaysia: live online classes, fees and class times in Malaysia time.' },
   { slug: 'singapore', href: '/singapore/', name: 'Singapore', local: 'For families in Singapore: live online classes for international-school students, fees in Singapore dollars and class times in Singapore time.' },
   { slug: 'uk', href: '/uk/', name: 'UK', local: ukLocal },
+  { slug: 'europe', href: '/europe/', name: 'Europe', local: 'For families in Europe: live online classes, fees in euros and class times in your time zone.' },
 ] as const;
 ---
 <aside data-tutoring-prompt aria-labelledby="tutoring-prompt-heading" class="mt-12 rounded-sm border border-teal-500 bg-ivory p-[clamp(20px,2.4vw,28px)]">
@@ -60,9 +72,9 @@ const MARKET_LINKS = [
   <p class="m-0 mt-3 max-w-[60ch] text-[16px] leading-[1.6] text-ink-mute">
     A Marlbridge subject teacher can take you through it live, {formatPhrase}. {PRICING_TERMS.freeTrial}
   </p>
-  {MARKET_LINKS.map((m) => (
+  {MARKET_LINKS.filter((m) => m.local).map((m) => (
     <p data-market-local={m.slug} hidden class="m-0 mt-3 max-w-[60ch] text-[15px] leading-[1.6] text-ink">
-      {m.local} <a href={m.href} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">See {m.name === 'Saudi Arabia, Kuwait, Bahrain and Oman' ? 'Gulf' : m.name} fees and times</a>.
+      {m.local} <a href={m.href} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">See {m.name} fees and times</a>.
     </p>
   ))}
   <div data-prompt-actions class="mt-5 flex flex-wrap items-center gap-3">
@@ -72,7 +84,7 @@ const MARKET_LINKS = [
   <p data-market-list class="m-0 mt-4 text-[14px] leading-[1.6] text-ink-mute">
     Local fees and class times:{' '}
     {MARKET_LINKS.map((m, i) => (
-      <><a href={m.href} class="underline decoration-rule underline-offset-2 hover:text-teal-700">{m.slug === 'gulf' ? 'Gulf' : m.name}</a>{i < MARKET_LINKS.length - 1 ? ' · ' : '.'}</>
+      <><a href={m.href} class="underline decoration-rule underline-offset-2 hover:text-teal-700">{m.name}</a>{i < MARKET_LINKS.length - 1 ? ' · ' : '.'}</>
     ))}
   </p>
 </aside>
@@ -83,12 +95,18 @@ const MARKET_LINKS = [
     'Asia/Karachi': 'pakistan',
     'Asia/Dubai': 'uae',
     'Asia/Qatar': 'qatar',
-    'Asia/Riyadh': 'gulf', 'Asia/Kuwait': 'gulf', 'Asia/Bahrain': 'gulf', 'Asia/Muscat': 'gulf',
+    'Asia/Riyadh': 'saudi-arabia', 'Asia/Kuwait': 'kuwait', 'Asia/Bahrain': 'bahrain', 'Asia/Muscat': 'oman',
     'Asia/Kuala_Lumpur': 'malaysia', 'Asia/Kuching': 'malaysia',
     'Asia/Singapore': 'singapore',
     'Europe/London': 'uk',
   };
-  const WHATSAPP_FIRST = new Set(['pakistan', 'uae', 'qatar', 'gulf']);
+  // D-460 -- the euro countries' zones go to the Europe page (fees in euros).
+  for (const z of [
+    'Europe/Amsterdam', 'Europe/Athens', 'Europe/Berlin', 'Europe/Bratislava', 'Europe/Brussels', 'Europe/Dublin',
+    'Europe/Helsinki', 'Europe/Lisbon', 'Europe/Ljubljana', 'Europe/Luxembourg', 'Europe/Madrid', 'Europe/Malta',
+    'Europe/Paris', 'Europe/Riga', 'Europe/Rome', 'Europe/Tallinn', 'Europe/Vienna', 'Europe/Vilnius', 'Europe/Zagreb',
+  ]) ZONE_MARKET[z] = 'europe';
+  const WHATSAPP_FIRST = new Set(['pakistan', 'uae', 'qatar', 'saudi-arabia', 'kuwait', 'bahrain', 'oman']);
   const PRIMARY = 'bg-navy-800 text-ivory hover:bg-navy-700'.split(' ');
   const SECONDARY = 'border border-navy-800 text-navy-800 hover:bg-white'.split(' ');
 

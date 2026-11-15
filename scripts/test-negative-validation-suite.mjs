@@ -1000,53 +1000,53 @@ withMutation(
   },
 );
 
-// D-457 -- Academic QA integrity gate (scripts/validate-academic-qa.mjs).
+// D-465 -- Academic QA integrity gate (scripts/validate-academic-qa.mjs).
 const QA_REG = 'docs/reports/academic-qa/assessments.json';
 const QA_CMD = 'node --experimental-strip-types scripts/validate-academic-qa.mjs';
 
-console.log('\n[AX] D-457 -- an open hard-stop on current content blocks the build, whatever the score');
+console.log('\n[AX] D-465 -- an open hard-stop on current content blocks the build, whatever the score');
 withMutation(
   QA_REG,
   (text) => text.replace('"severity": "minor",\n          "hardStop": null,\n          "location": "Table \'What these sub-topics cover\'', '"severity": "critical",\n          "hardStop": "MATERIAL_FACTUAL_ERROR",\n          "location": "Table \'What these sub-topics cover\''),
   { validatorCmd: QA_CMD, expectSubstring: 'open hard-stop MATERIAL_FACTUAL_ERROR', label: '93.5/100 page with an open critical factual error is rejected' },
 );
 
-console.log('\n[AY] D-457 -- a stored total is rejected (totals are computed)');
+console.log('\n[AY] D-465 -- a stored total is rejected (totals are computed)');
 withMutation(
   QA_REG,
   (text) => text.replace('"id": "QA-0001",', '"id": "QA-0001",\n      "total": 99,'),
   { validatorCmd: QA_CMD, expectSubstring: 'never recorded', label: 'assessment with a recorded total is rejected' },
 );
 
-console.log('\n[AZ] D-457 -- AI output recorded as a human assessment is rejected');
+console.log('\n[AZ] D-465 -- AI output recorded as a human assessment is rejected');
 withMutation(
   QA_REG,
   (text) => text.replace('"method": "ai-assisted",\n      "assessor": "AI-assisted (claude-opus-5-5)"', '"method": "human",\n      "assessor": "nouman-ahmed"'),
   { validatorCmd: QA_CMD, expectSubstring: 'needs humanEvidence', label: 'human method with no teacher evidence is rejected' },
 );
 
-console.log('\n[BA] D-457 -- a score with placeholder evidence is rejected');
+console.log('\n[BA] D-465 -- a score with placeholder evidence is rejected');
 withMutation(
   QA_REG,
   (text) => text.replace('"points": 19,\n          "evidence": "Syllabus p.13:', '"points": 19,\n          "evidence": "TODO Syllabus p.13:'),
   { validatorCmd: QA_CMD, expectSubstring: 'syllabus-alignment has a score but no evidence', label: 'category score without evidence is rejected' },
 );
 
-console.log('\n[BB] D-457 -- full marks in a category beside an open major finding is rejected');
+console.log('\n[BB] D-465 -- full marks in a category beside an open major finding is rejected');
 withMutation(
   QA_REG,
   (text) => text.replace('"points": 14,\n          "evidence": "Maps to 3.1.2.1', '"points": 20,\n          "evidence": "Maps to 3.1.2.1'),
   { validatorCmd: QA_CMD, expectSubstring: 'full marks despite this open major finding', label: 'AQA page given 20/20 syllabus alignment despite open major F1 is rejected' },
 );
 
-console.log('\n[BC] D-457 -- a public page that references the internal QA register is rejected');
+console.log('\n[BC] D-465 -- a public page that references the internal QA register is rejected');
 withMutation(
   'src/components/navigation/Header.astro',
   (text) => `${text}\n<!-- see docs/reports/academic-qa/ -->\n`,
   { validatorCmd: QA_CMD, expectSubstring: '[Q9]', label: 'site component referencing the QA register is rejected' },
 );
 
-console.log('\n[BD] D-457 -- a teacher verification without the content hash of what was checked is rejected');
+console.log('\n[BD] D-465 -- a teacher verification without the content hash of what was checked is rejected');
 withMutation(
   'docs/reports/academic-review/teacher-verifications.json',
   (text) => text.replace('"results": []', '"results": [{ "resource": "igcse-chemistry-0620-elements-atomic-structure-and-isotopes", "reviewer": "nouman-ahmed", "board": "cambridge", "syllabusCode": "0620", "syllabusSeries": "2026-2028", "date": "2026-11-15", "scope": "whole page", "sources": ["https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf"], "findings": "no errors", "corrections": [], "approval": "approved", "evidence": "signed form ref 0001" }]'),

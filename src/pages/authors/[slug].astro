@@ -15,6 +15,7 @@ import { articlesByAuthor, resourcesByAuthor } from '../../utils/content/related
 import { personNode, organizationEntityNode } from '../../utils/schema/person';
 import { routes } from '../../utils/urls/routes';
 import VideoSection from '../../components/media/VideoSection.astro';
+import TeacherPicture from '../../components/ui/TeacherPicture.astro';
 import { videosForTeacher } from '../../utils/content/media';
 import { videoNodes } from '../../utils/schema/video';
 import { boardBySlug } from '../../data/academic/boards';
@@ -136,15 +137,17 @@ const jsonLd = [
 >
   <Fragment slot="hero-extra">
     {d.image ? (
-      <img
-        src={d.image}
-        alt={`Photograph of ${d.name}`}
-        width="112"
-        height="112"
-        loading="eager"
-        decoding="async"
-        class="mt-6 h-28 w-28 rounded-full border border-rule object-cover"
-      />
+      <TeacherPicture src={d.image} size={112}>
+        <img
+          src={d.image}
+          alt={`Photograph of ${d.name}`}
+          width="112"
+          height="112"
+          loading="eager"
+          decoding="async"
+          class="mt-6 h-28 w-28 rounded-full border border-rule object-cover"
+        />
+      </TeacherPicture>
     ) : d.entityType === 'person' ? (
       <div
         role="img"
